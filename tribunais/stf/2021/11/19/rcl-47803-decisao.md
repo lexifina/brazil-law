@@ -1,0 +1,53 @@
+DECISÃO:
+
+    1. Trata-se de reclamação, com pedido liminar, ajuizada por A&C Centro de Contatos S.A contra acórdão da Segunda Turma do Tribunal Superior do Trabalho (TST), proferido nos Autos nº 0002019-61.2011.5.03.0138, que, em sede de juízo de retratação (previsto no art. 1.030, II, do CPC/2015), manteve o reconhecimento da ilicitude de terceirização de mão de obra firmada entre a reclamante e concessionária de serviço público, nos termos da seguinte ementa:
+
+    “JUÍZO DE RETRATAÇÃO. RECURSO DE REVISTA DA CLARO S.A. JULGAMENTO ANTERIOR PELA SEGUNDA TURMA DESTA CORTE. DEVOLUÇÃO PARA EVENTUAL EMISSÃO DE JUÍZO DE RETRATAÇÃO (ART. 1.030, II, DO CPC/2015 E ART. 543-B, § 3º, DO CPC/1973). EMPRESA DE TELECOMUNICAÇÕES. LEI 9.472/1997. TERCEIRIZAÇÃO. RECONHECIMENTO DO VÍNCULO DE EMPREGO. SUBORDINAÇÃO JURÍDICA COM A TOMADORA DOS SERVIÇOS. DISTINGUISHING. 1. A possibilidade de terceirização de forma ampla, nas atividades-meio e atividades-fim das empresas, foi tema objeto da Arguição de Descumprimento de Preceito Fundamental (ADPF) 324 e do Recurso Extraordinário (RE) 958.252, julgados pelo Supremo Tribunal Federal em 30/8/2018 e publicados no DJE em 6/9/2019 e 13/9/2019, respectivamente. A Suprema Corte, em regime de repercussão geral, consolidou a tese jurídica no sentido de que ‘é lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante’, afastando, assim, a configuração da relação de emprego com o tomador dos serviços. 2. Além disso, em 11/10/2018, no julgamento do Recurso Extraordinário (RE) 791.932, com repercussão geral, o Supremo Tribunal Federal, em acórdão publicado no DJE de 6/3/2019 e transitado em julgado em 14/3/2019, reafirmou o seu entendimento de que ‘é lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada’. Fixou, então, a tese jurídica de que ‘é nula a decisão de órgão fracionário que se recusa a aplicar o art. 94, II, da Lei 9.472/1997, sem observar a cláusula de reserva de Plenário (CF, art. 97), observado o artigo 949 do CPC’. 3. Assim, não se cogita mais da formação de vínculo de emprego direto com a empresa tomadora de serviços sob o fundamento de que houve terceirização de sua atividade-fim. Todavia, remanesce a possibilidade de reconhecimento do vínculo de emprego quando comprovados os requisitos do artigo 3º da CLT em relação à empresa tomadora de serviços. Nessa circunstância, não haverá desrespeito à decisão da Suprema Corte, pois evidenciada típica relação de emprego nos moldes previstos na legislação trabalhista. 4. No caso, o Tribunal Regional manteve o vínculo de emprego com a Claro S.A. não apenas porque as atividades desempenhadas pelo reclamante enquadram-se nas atividades-fim da tomadora, mas também porque ficaram configurados os requisitos da relação de emprego em relação à tomadora dos serviços. Dessa forma, a controvérsia não se enquadra na tese firmada pelo Supremo Tribunal Federal, razão pela qual deixa-se de exercer o juízo de retratação previsto no art. 1.030, II, do CPC/2015 (art. 543-B, § 3º, do CPC/1973). Juízo de retratação não exercido.”
+
+    2. Na presente reclamação, alega-se: (i) afronta à tese firmada na ADPF 324, da minha relatoria, e aos RE 958.252 e ARE 791.932, respectivamente, paradigmas dos Temas 725 e 739 da repercussão geral, julgados pelos quais o Supremo Tribunal Federal (STF) afirmou a constitucionalidade da terceirização de qualquer atividade empresarial, meio ou fim; (ii) violação à Súmula Vinculante 10 e ao art. 97 da Constituição, ao argumento de que o acórdão reclamado teria negado qualquer eficácia ao disposto no art. art. 94, inc. II, da Lei 9.472/97, sem justificar sua não aplicação com fundamento em lei hierarquicamente superior e sem declarar inconstitucional o dispositivo de lei federal por julgamento de seu Órgão Pleno.
+
+    3. A parte reclamante requer, em caráter liminar, a antecipação dos efeitos da tutela, com a cassação da decisão reclamada ou, alternativamente, a suspensão do processo de origem. Ao final, pede a aplicação imediata do entendimento contido nos paradigmas invocados ou, alternativamente, a cassação da decisão reclamada, para que outra seja proferida com a observância das decisões do STF.
+
+    4. Em 29.06.2021, deferi o pedido liminar para suspender o processo no qual foi proferida a decisão reclamada (Autos nº 0002019-61.2011.5.03.0138). Notificada, a parte beneficiária não apresentou contestação. O órgão reclamado prestou informações.
+
+    5. É o relatório. Decido.
+
+    6. Dispenso a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único).
+
+    7. Em 29 e 30 de agosto de 2018, o Plenário do STF realizou o julgamento conjunto da ADPF 324, da minha relatoria, e RE 958.252, Rel. Min. Luiz Fux, paradigma do Tema 725 da repercussão geral, feitos cujo objeto comum era a discussão acerca da constitucionalidade da terceirização de mão de obra no Brasil. Prevaleceu a tese segundo a qual “1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada. 2. Na terceirização, compete à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993”.
+
+    8. Na sequência, em 10 de outubro de 2018, este Tribunal julgou o ARE 791.932, paradigma do Tema 739 da repercussão geral, Rel. Min. Alexandre de Moraes, feito cujo objeto era a discussão da possibilidade de recusa de aplicação do art. 94, II, da Lei 9.472/97. Prevaleceu a tese segundo a qual “é nula a decisão de órgão fracionário que se recusa a aplicar o art. 94, II, da Lei 9.472/1997, sem observar a cláusula de reserva de Plenário (CF, art. 97), observado o art. 949 do Código de Processo Civil”.
+
+    9.  No caso em análise, o órgão reclamado afastou a incidência do art. 94, II, da Lei 9.472/97. Considerou que “o Tribunal Regional manteve o vínculo de emprego com a Claro S.A. não apenas porque as atividades desempenhadas pelo reclamante enquadram-se nas atividades-fim da tomadora, mas também porque ficaram configurados os requisitos da relação de emprego em relação à tomadora dos serviços”.
+
+    10. Não obstante, da leitura da decisão reclamada, bem como das antecedentes, observa-se que (i) o reconhecimento da relação de emprego se pautou, eminentemente, no fundamento de que as atividades desempenhadas pelo terceirizado se enquadravam nas atividades-fim da tomadora; e (ii) não houve a efetiva demonstração da presença dos elementos previstos no art. 3º da CLT, os quais foram apenas elencados de forma abstrata. Transcrevo, a propósito, alguns trechos do acórdão regional em que se se amparou a decisão reclamada (cf. informações prestadas pela autoridade reclamada):
+
+    “Conquanto o artigo 94 da Lei 9472/97 permita a terceirização dos serviços que lhe são essenciais, tal dispositivo não autoriza a terceirização da atividade econômica principal, com fraude à legislação trabalhista.
+
+    No caso, o reclamante foi contratado para prestar serviços exclusivamente à primeira ré, conforme confessou o preposto da 2ª ré, na audiência de f. 275.
+
+    Portanto, suas atividades estavam inseridas na dinâmica estrutural da empresa tomadora de serviços, o que revela a presença de subordinação, dado que aponta para a ilicitude da terceirização levada a efeito.
+
+    Em situações como estas, em que o empregado presta serviços exclusivamente a um determinado tomador de serviços, na atividade econômica principal deste, a relação de emprego com a prestadora de serviços representa apenas intermediação irregular de mão-de-obra, com o intuito de evitar a obtenção de direitos assegurados à categoria profissional dos empregados da tomadora, o que enseja tratamentos desiguais, gerando situações repudiadas pela ordem juslaboral.
+
+    […]
+
+    E a par da irregularidade da contratação - que já seria suficiente para o deferimento do pleito obreiro - não se pode olvidar, ainda, que o conjunto probatório constante dos autos revela a presença de todos os elementos fático-jurídicos da relação de emprego previstos no artigo 3º da CLT, quais sejam: trabalho prestado a um tomador, com pessoalidade, não eventualidade, onerosidade e subordinação jurídica, essa última manifestada na sua modalidade estrutural.
+
+    […].” (Grifou-se)
+
+    11. Dessa forma, a decisão reclamada ofendeu o decidido no ADPF 324 e nos RE 958.252 e ARE 791.932, respectivamente, paradigmas dos Temas 725 e 739 da repercussão geral, nos quais se reconheceu a inconstitucionalidade do critério de distinção entre atividade-meio e atividade-fim para fins de definição da licitude ou ilicitude da terceirização.
+
+    12. Nesses termos, também prospera o argumento da reclamante no sentido de que houve violação à Súmula Vinculante 10. O art. 94, II, da Lei 9.472/97 dispõe: “Art. 94. No cumprimento de seus deveres, a concessionária poderá, observadas as condições e limites estabelecidos pela Agência: (…) II - contratar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço, bem como a implementação de projetos associados”. A autoridade reclamada, por meio de seu órgão fracionário, conferiu interpretação que resulta no esvaziamento da eficácia do citado dispositivo, sem declaração de sua inconstitucionalidade. Assim, vislumbra-se violação ao artigo 97 da Constituição Federal, cuja proteção é reforçada pela Súmula Vinculante 10 do STF.
+
+    13. Diante do exposto, com base no art. 161, parágrafo único, do RI/STF, confirmo a liminar anteriormente concedida e julgo procedente o pedido, para cassar a decisão reclamada (Autos nº 0002019-61.2011.5.03.0138) e determinar que outra seja proferida, em observância à jurisprudência vinculante desta Corte.
+
+    14. Fixo em R$ 1.000 (mil reais) os honorários de sucumbência (art. 85, § 8º, do CPC/2015) - a serem executados pelo órgão reclamado, a quem também competirá o exame de eventual pedido de gratuidade de justiça.
+
+    Publique-se. Comunique-se.
+
+          Brasília, 19 de novembro de 2021.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
