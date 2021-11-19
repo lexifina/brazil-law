@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminarimpetrado em favor de BRUNO ALBUQUERQUE RAMOSem que se aponta como autoridade coatora Tribunal de Justiça do Estado de São Paulo(Agravo em Execução n. 0002229-30.2021.8.26.0637).
+O acórdão do agravo em execução foi assim ementado(fl. 52):
+AGRAVO EM EXECUÇÃO PENAL - Livramento condicional - Requisito subjetivo não preenchido - cometimento de faltas disciplinares - Não absorção terapêutica penal - In dubio pro societate - Prazo de reabilitação constitucional - Agravo não provido
+O Juízo das execuções indeferiu o pedido de livramento condicional, ante o não preenchimento do requisito subjetivo.
+O Tribunal de origem negou provimento ao recurso defensivo, mantendo adecisão agravada.
+Aimpetrante aponta constrangimento ilegal decorrente, uma vez que adecisão indeferiu obenefício sem fundamentos idôneos, ressaltando que os requisitos legais estão preenchidos e que opaciente possui bom comportamento carcerário.
+Sustenta que a última falta praticada ocorreu há mais de 12 meses.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpuspara que seja deferido o livramento condicional.
+O pedido de liminar foi indeferido, nos termos da decisão de fls. 66-67.
+As informações foram prestadas às fls. 72-75e 78-88.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ ou por sua denegação, caso dele se conheça(fls. 90-95).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+No presente caso, o Tribunal de origem concluiu que o paciente não preenchera o requisito subjetivo para fazer jus ao benefício pretendido, em razão do mau comportamento carcerário e do histórico de faltas disciplinares graves cometidas durante o atual período de internação.
+Veja-se (fls. 53- 54):
+Diante do preenchimento do requisito objetivo, pugnou o recorrente pela concessão do livramento condicional, tendo o MM. Juiz a quo indeferido o pleito em questão por entender ausente o requisito subjetivo, uma vez que o agravante cometeu inúmeras faltas disciplinares de natureza grave.
+Verifica-se, portanto, queneste ponto, a r. decisão vergastada deve ser mantida, eis quedevidamente fundamentada quanto ao indeferimento do livramento condicional, nos seguintes termos:
+"Conforme informações dos autos, o sentenciado cometeu diversas faltas graves e médias, razão pela qual ostenta má conduta carcerária (fls. 28/32).
+A falta média e a falta grave, consoante determinação contida no artigo 89, II e III d a Resolução 144 da SAP, gera inabilitação da conduta carcerária do sentenciado por 6 meses e por 12 meses, respectivamente, contados a partir do cumprimento da sanção imposta, obstaculizando a concessão de benefícios. O artigo 90, parágrafo único da referida resolução dispõe que com a prática de nova falta disciplinar, novo tempo para a reabilitação deverá ser somado ao tempo estabelecido para falta anterior.
+Assim, o sentenciado não possui mérito suficiente para alcançar o benefício requerido, já que sua conduta esta inabilitada" (fls. 28 e 32).
+Dessa forma, percebe-se queo reeducando não demonstrou ser portador de bom comportamento carcerário, razão pela qual não cumpriu o requisito subjetivo exigido para a concessão do livramento condicional
+Nota-se queo reeducando não demonstra possuir o adequado equilíbrio psicológico para o usufruir do benefício do livramento condicional, devendo seu comportamento ser melhor observado e se constate, de maneira irrefutável, sua aptidão e adaptação para o gradual retorno ao convívio em sociedade.
+A decisão do Tribunal a quo se coaduna com a jurisprudência do Superior Tribunal de Justiça, pois, ainda que a prática de falta grave não possa interromper o prazo para aquisição de benefícios da execução penal, o histórico de infrações disciplinares pode ser considerado pelo juiz para aferição do requisito subjetivo.
+A propósito, confira-se o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. COMETIMENTO DE FALTAS GRAVES NO CURSO DA EXECUÇÃO DA PENA. COMPORTAMENTO CARCERÁRIO INSATISFATÓRIO. AUSÊNCIA DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consolidou-se nesta Corte Superior de Justiça entendimento no sentido de que, conquanto não interrompa a contagem do prazo para fins de livramento condicional (enunciado n. 441 da Súmula do STJ), a prática de falta grave impede a concessão do aludido benefício, por evidenciar a ausência do requisito subjetivo exigido durante o resgate da pena, nos termos do art. 83, III, do Código Penal.
+2. Hipótese em que o apenado, durante a execução da pena, praticou infrações disciplinares de natureza grave (abandono do regime prisional por quatro vezes e prática de novo crime no curso da execução), razão pela qual não implementado, efetivamente, o requisito subjetivo para concessão da benesse.
+3. Registre-se, por oportuno, que, para a concessão do livramento condicional, o magistrado deve avaliar o efetivo cumprimento do requisito subjetivo, não estando adstrito ao atestado de bom comportamento carcerário, sob pena de se tornar mero homologador da manifestação do diretor do estabelecimento prisional. Precedentes desta Corte.
+4. Em hipótese similar, decidiu esta Superior Corte que a prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime. A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Min. FELIX FISCHER, julgado em 28/6/2016).
+5. Assim, "A jurisprudência deste Tribunal Superior é no sentido de que a prática de falta disciplinar grave, muito embora não interrompa a contagem do prazo para fins de livramento condicional (Súmula n. 441), impede a concessão da benesse por evidenciar a ausência do requisito subjetivo relativo ao comportamento satisfatório durante o resgate da pena, nos termos do que exige o art. 83, inciso III, do Código Penal, circunstância que afasta a alegação de bis in idem" (AgRg no REsp 1617279/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/04/2018, DJe 27/04/2018).
+6. Por fim, "o requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional, e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime." (HC 612.296/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020)
+7. Agravo regimental não provido. (AgRg no HC n. 613.683/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/2/2021.)
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
