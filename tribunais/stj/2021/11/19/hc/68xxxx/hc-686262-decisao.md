@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de VINICIUS SILVA LAGUARDIA apontando como autoridade coatora o Tribunal de Justiça do Estado de Goiás (HC n. 5377640.60.2021.8.09.0000).
+Depreende-se dos autos que o paciente foi condenado, pela prática dos crimes previstos nos arts. 33 da Lei n. 11.343/2006 e 16, § 1º, IV, da Lei n. 10.826/2003 (tráfico de entorpecentes e posse de arma de fogo), à pena de 11 anos e 6 meses de reclusão, no regime fechado, e ao pagamento de 790 dias-multa, ante a apreensão de cerca de 52g (cinquenta e dois gramas) de maconha e de uma arma de fogo calibre 38.
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada, nos termos da seguinte ementa (e-STJ fls. 28/29):
+HABEAS CORPUS. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. MERO USUÁRIO. AUSÊNCIA DE FUNDAMENTOS. REQUISITOS DO ARTIGO 312, CPP. DIREITO DE RECORRER EM LIBERDADE. PEDIDOS JÁ ANALISADOS EM HABEAS CORPUS ANTERIOR. NÃO CONHECIMENTO. Tratando-se de reiteração de pedidos, as matérias suscitadas encontram-se impedidas de reexame porque já apreciadas e julgadas em sede de outros Habeas Corpus. PRISÃO EM FLAGRANTE. ILEGALIDADE DAS PROVAS. VIOLAÇÃO DE DOMICÍLIO. PRISÃO SOB NOVO TÍTULO. A discussão acerca de nulidade da prisão em flagrante fica superada com a conversão do flagrante em prisão preventiva, haja vista a formação de novo título a embasar a custódia cautelar. PARECER ACOLHIDO EM PARTE. ORDEM PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, DENEGADA.
+No presente writ, sustenta a defesa a ilegalidade das provas obtidas e, emconsequência, da condenação, tendo em vista a entrada no domicílio do paciente e de sua namorada sem o devido mandado judicial, asseverando que "o paciente não foi flagrado em situação criminosa que justificasse a diligência dos policiais militares às casas invadidas. O paciente foi parado na rua, em local distante de sua residência e da residência de sua namorada e seu carro foi revistado. Nada justifica a ida dos policiais militares à sua residência e muito menos na residência de sua namorada" (e-STJ fl. 9).
+Busca, inclusive liminarmente, seja reconhecida a nulidade das provas obtidas, ordenando-se o novo julgamento da causa, após o desentranhamento dos aludidos elementos probatórios, concedendo-se, ainda, a liberdade ao paciente, mesmo que mediante a aplicação de medidas diversas do cárcere.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento ou denegação da ordem.
+É o relatório.
+Quanto ao pedido de nulidade do feito por ingresso no domicílio do paciente sem mandado judicial, tem-se que a tese não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte, sobpena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.(RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
