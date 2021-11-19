@@ -1,0 +1,39 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato grosso
+PJe - Processo Judicial Eletrônico
+Embargos de Declaração no Recurso Especial no Agravo de Instrumento n. 1011217-45.2020.8.11.0000
+Embargantes: Lourdes Benedita Monteiro de Toledo Maciel e outros
+Embargado Espólio de João Batista de Toledo Maciel
+Vistos.
+Trata-se de recurso de embargos de declaração opostos por Lourdes Benedita Monteiro de Toledo Maciel e outros, com fundamento no artigo 1.022, inciso II, do Código de Processo Civil, em face da decisão que inadmitiu o agravo em recurso especial interposto pelos embargantes, com fundamento no artigo 1.042 do CPC (id 74537978).
+Os embargantes sustentam, em síntese, que “a decisão embargada OMITIU o art. 1.042, §4o do CPC que, inexistindo retratação, obriga a remessa do Agravo aos STJ independentemente de juízo de admissibilidade”.
+Asseveram que “é absolutamente incabível e contraditória a inadmissão do Agravo por incidência da sistemática de recursos repetitivos (Tema 988/STJ), uma vez que a violação apontada pelo recurso é justamente a ausência de enfrentamento da aplicabilidade dos precedentes do Tema Repetitivo 988, e, do paradigma do AgRg no REsp 1.309.949/MS no caso sub judice, e consequente violação dos arts. 489, §1o, VI c/c 1.022, II, § único, II do CPC”.
+Requer o acolhimento dos aclaratórios, atribuindo-lhes efeitos modificativos para sanar a omissão ao art. 1.042, §4o do CPC, e determinar o processamento do Agravo com sua consequente remessa ao STJ, visando a aplicação do Tema Repetitivo 988 do STJ sobre a taxatividade mitigada do art. 1.015 do CPC, dentro outros fundamentos do recurso.
+Recurso tempestivo (id 78244985).
+A parte embargada se manifestou na petição id 79364098, em que pugnou pela rejeição dos embargos declaratórios.
+É o relatório. Decido.
+Nos termos do artigo 1.022 do Código de Processo Civil, os embargos de declaração constituem ferramenta processual idônea para sanar obscuridade, contradição, omissão do julgado e erro material, não tendo a finalidade de solucionar o inconformismo da parte.
+Partindo dessa premissa, constata-se a inexistência de omissão do julgado.
+Com efeito, constou do decisum embargado que “se a decisão estiver fundamentada em entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos, o recurso cabível é o Agravo Interno, dirigido ao Tribunal de origem”. Em seguida, pontuou-se que “ante a patente inadmissão do recurso, não é o caso de usurpação de competência do Superior Tribunal de Justiça, consoante jurisprudência do próprio STJ”. (id 74537978 - Pág. 2)
+Aliás, nesse sentido, colaciona-se recente julgado do STJ, verbis:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. INTERESSE DE AGIR NÃO CARACTERIZADO. ERRO GROSSEIRO. AGRAVO EM RECURSO ESPECIAL AO INVÉS DE AGRAVO INTERNO (ART. 1.030, § 2o, DO CPC/2015). RECLAMAÇÃO INDEFERIDA LIMINARMENTE. DECISÃO MANTIDA.
+1. ‘Não se verifica usurpação de competência deste Tribunal Superior quando o agravo, obstado na origem, é manifestamente incabível, razão pela qual não se admite o manejo da via reclamatória. Precedentes’ (AgInt na Rcl 35.666/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 23/5/2018, DJe 28/5/2018).
+2. O CPC/2015, em seu art. 1.030, § 2o, prevê expressamente o cabimento de agravo interno contra decisão que nega seguimento a recurso especial com fundamento no inciso I do artigo mencionado.
+3. De acordo com a jurisprudência desta Corte Superior, constitui ‘erro grosseiro a interposição do agravo previsto no art. 1.042, caput, do NCPC, quando o recurso previsto seria o agravo interno, sendo incabível o uso da reclamação com o objetivo de atacar a referida decisão’ (AgInt nos EDcl na Rcl 39.282/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 05/05/2020, DJe 08/05/2020).
+4. Agravo interno a que se nega provimento”. (AgInt na Rcl 41.840/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 18/08/2021, DJe 25/08/2021). (g.n.)
+Ademais, diversamente do que foi afirmado nas razões dos aclaratórios, a Vice-Presidência não deixou de aplicar o Tema 988 no caso concreto, tendo sido consignado na decisão ora atacada que “deve-se aplicar o art. 1.030, I, ‘b’, do CPC, pois além da parte Recorrente não preencher os requisitos acima, o acórdão recorrido coincide com a orientação do tribunal superior, pois exige a demonstração do perigo da demora a que se possa aceitar a flexibilização do rol das decisões agraváveis” (id 66276490 - Pág. 3)
+Logo, ante a aplicação do Tema 988 no caso ora em exame, inclusive com fundamento no artigo 1.030, I, “b”, o recurso cabível era o agravo interno previsto no § 2o do mencionado artigo 1.030, e não o agravo dirigido ao STJ, com fulcro no artigo 1.042 do CPC.
+A propósito:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BEM OFERECIDO À PENHORA. RECUSA DA FAZENDA PÚBLICA. ACÓRDÃO RECORRIDO NO MESMO SENTIDO DA JURISPRUDÊNCIA DESTA CORTE. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. RECURSO ESPECIAL INADMITIDO, NA ORIGEM, COM BASE NO ART. 1.030, I, B, DO CPC/2015. PREVISÃO DE AGRAVO INTERNO, NO PRÓPRIO TRIBUNAL DE ORIGEM (ART, 1.030, § 2o, CPC/2015). INTERPOSIÇÃO DE AGRAVO PARA O STJ. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. NÃO CABIMENTO. PRECEDENTES DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - mormente quanto ao fato de o acórdão recorrido encontrar-se no mesmo sentido da jurisprudência desta Corte ?, não prospera o inconformismo, quanto ao ponto, em face da Súmula 182 desta Corte.
+III. Nos termos do art. 1.030, § 2o, do CPC/2015, não cabe Agravo em Recurso Especial, dirigido ao STJ, contra decisão que, na origem, nega seguimento a Recurso Especial, com fundamento no art. 1.030, I, b, do mesmo diploma legal, cabendo ao próprio Tribunal recorrido, se provocado por Agravo interno, decidir sobre a alegação de equívoco na aplicação do entendimento firmado em Recurso Especial representativo da controvérsia. Nesse sentido: STJ, AgInt no AREsp 1.035.517/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 16/06/2017; AgInt no AREsp 967.166/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 11/10/2017; AgInt no AREsp 1.010.292/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/04/2017; AgInt no AREsp 951.728/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 07/02/2017. IV. Inviável, na hipótese, a aplicação do princípio da fungibilidade recursal, por se tratar de erro grosseiro, de vez que, na data da publicação da decisão que não admitira o Recurso Especial, já havia expressa previsão legal para o recurso cabível (art. 1.030, I, b, e § 2o, do CPC/2015), afastando-se, por conseguinte, dúvida objetiva acerca do recurso adequado.
+V. Nos termos da jurisprudência do STJ, ‘a interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno’ (STJ, AREsp 959.991/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 26/08/2016).
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido”. (AgInt no AREsp 1827522/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/10/2021, DJe 22/10/2021).
+Ante o exposto, ausente qualquer das hipóteses previstas no artigo 1.022 do CPC, rejeito os embargos de declaração.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
