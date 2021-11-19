@@ -1,0 +1,19 @@
+DECISÃO
+RODRIGO RUFINO SILVAalega sofrer constrangimento ilegal diante do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulona Apelação Criminal n. 1524839-15.2020.8.26.0228.
+Depreende-se dos autos que o acusado foi condenado à pena de 6anos, 9 meses e 20 diasde reclusão, em regime inicial fechado, mais multa, por infração aoart. 33, caput,da Lei n. 11.343/2006.
+Requer a defesa, liminarmente e no mérito,a absolvição do paciente ou a desclassificação do delito de tráfico para o crime descrito no art. 28 da Lei n. 11.343/2006.
+Solicitadas as informações, o Ministério Público Federal opinou pelo não conhecimentodo writ, mas pela concessão de ofício da ordem, para que seja fixado regime semiaberto.
+Decido.
+O Tribunal de origem, ao manter a condenação do acusado pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, relatou (fls. 217, grifei):
+Segundo a denúncia, o apelante e sua comparsa traficavam drogas na região dos fatos, e para isso, traziam consigo e transportavam uma mochila contendo os entorpecentes. Ocorre que, na data dos fatos, policiais militares realizavam patrulhamento de rotina quando visualizaram Maria Larissa e Rodrigo sentados, de fronte a um bar, com uma mochila entre as pernas de Maria Larissa, razão pela qual resolveram pela abordagem.
+Em revista, os policiais encontraram no interior da mochila que Maria trazia consigo 38 porções de crack, bem como vultosa quantia, em notas de diversos valores.
+Ato contínuo, Maria retirou de seu sutiã a quantia de R$ 390,00, os quais entregou aos policiais. Indagado sobre os fatos, o apelante disse que comercializava as drogas na região, e que a dupla estava hospedada no Hotel Gold, quarto 22, situado em frente ao local.
+Ainda segundo a denúncia, ao diligenciarem no quarto do hotel, com a permissão do apelante e sua comparsa, os policiais encontraram mais uma quantia e os documentos pessoais, sendo que o dinheiro apreendido perfaz o valor de R$2.200,00.
+Apesar dos argumentos aduzidos pela defesa, tem-se que a condenação pelo tráfico de drogas foi acertada.
+As drogas descritas na denúncia foram devidamente aprendidas (auto de exibição e apreensão de fls.10) e a presença dos princípios ativos proscritos ficou confirmada pelo laudo de constatação de fls.107/109.
+Concluiu a Corte de origem:" ..  com base nos elementos colhidos durante a fase inquisitiva e na prova oral colhida em juízo e acima analisada, tem-se comprovado à saciedade que durante patrulhamento de rotina visualizaram o apelante e sua comparsa em atitude suspeita, razão pela qual os policiais optaram pela abordagem, ocasião que encontraram no interior da bolsa que Maria transportava a droga, a qual seria comercializada por ambos, quantidade esta incompatível para uso pessoal, não sendo o caso de absolvição ou mesmo de desclassificação para o delito previsto no art. 28 da Lei de Drogas.
+Pelos trechos anteriormente transcritos e, sobretudo, pela leitura atenta da sentença condenatória e do acórdão impugnado, verifico que as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33 da Lei n.11.343/2006).
+Por essas razões, mostra-se inviável a absolviçãodo acusado ou a desclassificação da conduta para o delito do art. 28 da Lei de Drogas, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Saliento, ademais, que qualquer outra solução que não a adotada pelas instâncias ordinárias implicaria o revolvimento do material fático-probatório amealhado ao processo, providência incabível na via estreita do habeas corpus, de cognição sumária.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
