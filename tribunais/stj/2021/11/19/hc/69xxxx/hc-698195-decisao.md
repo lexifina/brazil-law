@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de JOSE LUIZ SILVA contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul (Apelação n. 0000022-30.2019.8.12.0019).
+Consta nos autos que o Paciente foi condenado à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, além do pagamento de 500 (quinhentos) dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de 9,6Kg de maconha.
+Contra a sentença a Defesa interpôs apelação, que foi parcialmente provida para "reconhecer e aplicar a circunstância judicial dos "maus antecedentes" na primeira fase dosimétrica e, por consequência, redimensionar a pena definitiva de José Luiz Silva para 5 anos e 10 meses de reclusão, e pagamento de 583 dias-multa, à razão de 1/30 do salário mínimo vigente à época dos fatos cada dia- multa" (fl. 316).
+Neste writ, a Impetrante alega que " o  Juízo primevo e o Tribunal de Justiça basearam-se apenas na quantidade da droga apreendida, deixando de ser valorado em conjunto a natureza do entorpecente (maconha), sendo está considerada a menos nociva dos entorpecentes. Por essa razão não há como considerar meramente a quantidade da droga como elemento válido para exasperação da pena-base" (fl. 5).
+Requer a concessão da ordem para "afastar da pena-base a circunstância judicial negativa da quantidade da droga, reduzindo assim a pena-base para próximo do mínimo legal" (fl. 6).
+As informações foram prestadas às fls. 324-330.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, se conhecido, pela denegação da ordem (fls. 335-342).
+É o relatório. Decido.
+O acórdão impugnado está assim fundamentado (fls. 314316):
+"Inicialmente, relembro que a circunstância judicial "antecedentes", prevista no art. 59 do CP, diz respeito a condenação penal por fato anterior, ainda que o trânsito em julgado posterior à data do novo crime e que, apesar de não configurar reincidência, pode caracterizar tal vetorial, com exasperação da pena-base na primeira fase dosimétrica.
+Noutro vértice, a primariedade e os bons antecedentes são circunstâncias que, cumuladas com as demais indicadas no art. 33, § 4º, da Lei n. 11.343/06, autorizam que o denunciado seja contemplado com a diminuição da pena (terceira fase dosimétrica).
+No caso em tela, a leitura da certidão de f. 242/257 demonstra que o réu é portador de "maus antecedentes", vez que possui condenação anterior ao fato narrado na denúncia de f. 1/4. Confira-se:
+ ..
+E, muito embora a defesa sustente que "não há confiabilidade na folha de antecedentes juntadas" (f. 281), em consulta pública ao SAJ-PG é possível constatar que a ação penal indicada diz respeito a fato praticado pelo ora apelado, sendo que o d. Juízo singular extinguiu a pretensão executória estatal, com base no art. 107, inciso IV do Código Penal, na data de 28/9/2020.
+Desse modo, com o esclarecimento acima, tem-se que, ao reverso do entendimento do d. Magistrado singular, a constatação dos maus antecedentes, como circunstância judicial desfavorável, e a vedação da causa de diminuição pelo mesmo motivo não implicam violação da garantia do ne bis in idem.
+Nesse sentido, colaciono precedente do C. Superior Tribunal de Justiça:
+ ..
+Como se vê, é admissível afastar a minorante do tráfico privilegiado em razão dos maus antecedentes, mesmo que a pena-base tenha sido agravada pela mesma razão sem que isso configure bis in idem.
+Desse modo, o apelo ministerial deve ser provido para que seja reconhecida e valorado a moduladora dos "antecedentes" na primeira fase dosimétrica.
+Em consequência, passo à nova dosimetria da pena.
+Na primeira fase, mantenho incólume a negativação da "quantidade de droga" (f. 259), e que, juntamente com os "maus antecedentes", atendendo aos critérios do art. 59 do CP e art. 42 da Lei n. 11.343/2006, com aplicação da fração de 1/10, eleva a pena-base para 7 anos de reclusão e pagamento de 700 dias-multa.
+Na segunda fase dosimétrica, reconhecida a atenuante da confissão, reduzo a pena intermediária em 1/6, fixando-a em 5 anos e 10 meses de reclusão, e pagamento de 583 dias-multa, à razão de 1/30 do salário mínimo vigente à época dos fatos cada um, tornando-a definitiva por não haver minorantes e/ou majorantes (terceira fase).
+Fica mantido o regime prisional semiaberto para cumprimento da pena, ex vi do art. 33 do CP."
+Cumpre registrar que, excetuados os casos de patente ilegalidade ou abuso de poder, é vedado, na via do habeas corpus, o amplo reexame das circunstâncias judiciais consideradas para a individualização da sanção penal, por demandar a análise de matéria fático-probatória.
+Como é sabido, o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime. Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o magistrado declinar, motivadamente, as suas razões, pois a inobservância dessa regra ofende o preceito contido no art. 93, inciso IX, da Constituição da República.
+Na hipótese, a pena-base foi fixada acima do mínimo legal em razão da considerável quantidade de droga apreendida - 9,6Kg de maconha -, fundamento que não se mostra inidôneo. Foi observado, na verdade, o que determina o art. 42 da Lei n. 11.343/2006.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. AUMENTO JUSTIFICADO. MAUS ANTECEDENTES. QUANTIDADE E VARIEDADE DE DROGAS APREENDIDAS. ART. 42 DA LEI N. 11.343/2006. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem justificou concretamente a fixação da fração utilizada na pena-base para majorá-la, destacando os maus antecedentes e a quantidade, variedade e natureza das substâncias apreendidas (49,7g de cocaína e 46,1g de maconha), em consonância com o disposto no art. 42 da Lei n. 11.343/06 e com o entendimento jurisprudencial deste Superior Tribunal de Justiça  STJ, não havendo que se rever o quantum fixado.
+2. Agravo regimental desprovido". (AgRg no HC 626.534/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 11/05/2021, DJe 14/05/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE EXASPERADA EM 1/6. PROPORCIONALIDADE. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. ELEMENTOS CONCRETOS. REGIME INICIAL FECHADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. No caso em apreço, o aumento da pena-base em 1/6 não se revela desproporcional ante a quantidade e variedade de entorpecentes apreendidos - 256g (duzentos e cinquenta e seis gramas) de maconha e 59,5g (cinquenta e nove gramas e cinco decigramas) de cocaína.
+3. Não se denota ilegalidade no afastamento do redutor da pena (art. 33, § 4º, da Lei de Drogas), pois as instâncias de origem tomaram em consideração diversos elementos concretos que revelaram a dedicação do réu a atividades ilícitas.
+4. Diante do quantum da sanção definitiva superior a 4 anos de reclusão e da pena-base fixada acima do mínimo legal, de rigor a manutenção do regime inicial fechado, nos termos dos arts. 33, §§ 2º, "a" e "b", e 3º, e 59 do Código Penal e 42 da Lei n. 11.343/2006.
+5. Agravo regimental desprovido." (AgRg no HC 584.337/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/09/2020, DJe 14/09/2020, sem grifos no original.)
+De outra parte, cumpre asseverar que o quantum de aumento a ser implementado em decorrência do reconhecimento das circunstâncias judiciais desfavoráveis fica adstrito à prudente discricionariedade do Juiz, não havendo como proceder ao seu redimensionamento na via estreita do habeas corpus. Assim, ressalvados os casos de manifesta ilegalidade ou arbitrariedade, é inadmissível a revisão dos critérios adotados na dosimetria da pena por esta Corte Superior.
+Na hipótese, o aumento efetivado na primeira fase da dosimetria do crime de tráfico de drogas - pena-base fixada em 2 (dois) anos acima do mínimo legal para dois vetores valorados negativamente (antecedentes e quantidade de entorpecente) - revela-se proporcional e fundamentado, considerando-se a motivação apresentada e a pena abstratamente cominada para o crime: cinco a quinze anos de reclusão.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. DOSIMETRIA.PENA-BASE. AUMENTO. PROPORCIONALIDADE. SÚMULA 83/STJ. AGRAVO IMROVIDO.
+1. Nos termos do entendimento desta Corte, Considerando o silêncio do legislador, a doutrina e a jurisprudência estabeleceram dois critérios de incremento da pena-base, por cada circunstância judicial valorada negativamente, sendo o primeiro de 1/6 (um sexto) da mínima estipulada e outro de 1/8 (um oitavo) a incidir sobre o intervalo de condenação previsto no preceito secundário do tipo penal incriminador (AgRg no AgRg nos EDcl no AREsp 1617439/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/09/2020, DJe 28/09/2020).
+ ..
+4. Agravo regimental improvido." (AgRg no REsp 1.900.150/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/03/2021, DJe 15/03/2021.)
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. PECULATO. DOSIMETRIA. CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. PROPORCIONALIDADE. WRIT NÃO CONHECIDO.
+ ..
+4. Diante do silêncio do legislador, a jurisprudência e a doutrina passaram a reconhecer como critério ideal para individualização da reprimenda-base o aumento na fração de 1/8 por cada circunstância judicial negativamente valorada, a incidir sobre o intervalo de pena abstratamente estabelecido no preceito secundário do tipo penal incriminador. Deveras, tratando-se de patamar meramente norteador, que busca apenas garantir a segurança jurídica e a proporcionalidade do aumento da pena, é facultado ao juiz, no exercício de sua discricionariedade motivada, adotar quantum de incremento diverso diante das peculiaridades do caso concreto e do maior desvalor do agir do réu.
+5. Writ não conhecido." (HC 643.723/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/03/2021, DJe 15/03/2021.)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. APLICAÇÃO DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE DESPROPORCIONALIDADE. ORDEM DENEGADA.
