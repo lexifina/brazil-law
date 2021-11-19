@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interno interposto por OIS.A. - em recuperação judicial, contra decisão prolatada pela Presidência desta Corte Superior (e-STJ, fls. 348-350), que não conheceu do agravo por ausência de impugnação a fundamento da decisão que inadmitiu o recurso excepcional, conforme se verifica do seguinte trecho:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao artigo 1.022 do CPC, ausência de prequestionamento, Súmula 7/STJ e consonância do acórdão recorrido com jurisprudência do STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: consonância do acórdão recorrido com jurisprudência do STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+Nas razões do recurso, a recorrente defende que impugnou todos os fundamentos expostos na decisão que inadmitiu o recurso especial.
+Sendo assim, requer a reconsideração da decisão agravada.
+Não foi apresentada impugnação (e-STJ, fls. 404-405).
+Diante dos argumentos apresentados, constata-se assistir razão à agravante.
+Assim, mediante juízo de retratação, nos termos do art. 259 do RISTJ, reconsidero a decisão de fls. 348-350 (e-STJ) e passo a novo exame do agravo em recurso especial (e-STJ, fls. 296-315).
+Cuida-se de agravo interposto por OI S.A. - em recuperação judicial,contra decisão que inadmitiu recurso especial (e-STJ, fls. 271-278) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 162):
+APELAÇÃO - REINTEGRAÇÃO DE POSSE - COMODATO - MORA DO COMODATÁRIO - ALUGUEL - VALOR ARBITRADO PELO COMODANTE. O comodatário devidamente constituído em mora pagará, até restituir a coisa dada em comodato, o aluguel que for arbitrado pelo comodante.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 209):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - CONTRADIÇÃO -OBSCURIDADE - ERRO MATERIAL - INEXISTÊNCIA - REJEIÇÃO. Devem ser rejeitados os embargos de declaração opostos contra a decisão judicial que não possui as omissões, contradições, obscuridades e erros materiais apontados.
+Nas razões do recurso especial, a recorrente alegou, com fulcro nas alíneas a e c do permissivo constitucional, dissídio jurisprudencial e violação aos arts. 1.022, II, do CPC/2015; e 579 e 581 do CC/2002.
+Defendeu a existência de omissão no acórdão recorrido, argumentando que o Tribunal originário deixou de se manifestar a respeito da incidência da Teoria da Supressio na análise da questão envolvendo a relação jurídica estabelecida entre as partes.
+Sustentou ser indevida a indenização fixada pela instância originária, uma vez que as partes celebraram contrato de comodato tácito. Aduziu que, nesse tipo de pacto, o empréstimo é gratuito.
+Destacou inexistir comprovação de que foi notificada a respeito da rescisão do contrato.Frisou haver divergência jurisprudencial quanto à aplicação da Teoria da Supressio, já que a parte recorrida, por mais de 12 (doze) anos, permitiu que o bem fosse ocupado sem pagamento de contraprestação.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 271-278).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 296-315).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No apelo excepcional, a primeira tese defendida pela recorrente refere-se à existência de omissão no acórdão impugnado.
+A respeito do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.873.918/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 02/03/2021, DJe 04/03/2021).
+Desse modo, tendo o Tribunal a quo motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão da parte.
+Analisando os autos, observa-se que o aresto recorrido apresenta suficiente fundamentação quando reconhece que a indenização fixada refere-se apenas ao período em que a recorrente permaneceu na posse indevida do bem, fato que ocorreu em meados de 2013 após a rescisão do contrato de comodato firmado entre as partes.
+Esse argumento pode ser extraído do acórdão impugnado no seguinte trecho (e-STJ, fl. 165):
+Em julho de 2013, por não mais lhes convirem a manutenção do contrato, os comodantes notificaram a comodatária, dando-lhe o prazo de trinta (30) dias para a desocupação do imóvel, sob pena das medidas judiciais cabíveis (cf. f. 15/17).
+Não obstante, o bem não foi devolvido aos comodantes, o que lhes dá o direito ao recebimento dos aluguéis reclamados, equivalentes a R$ 1.017,00 (mil e dezessete reais) mensais, referentes a todo o período em que os comodatários permaneceram indevidamente na posse do imóvel.
+Portanto, apresentando o Tribunal originário os fundamentos pelos quais chegou à conclusão dos fatos expostos nos autos, inexiste violação ao art. 1.022 do CPC/2015.
+Quanto à tese envolvendo o cabimento da indenização pela utilização indevida do imóvel, o Tribunal estadual assim se manifestou (e-STJ, fls. 164-165):
+Restou incontroverso nos autos que a ré detinha a posse do imóvel descrito na exordial até a data de 11/08/2013, de forma mansa e pacífica, pois existia entre as partes contrato de comodato (cf. f. 13/14) que, na conformidade do artigo 1.248 do Código Civil anterior e do artigo 579 do atual Código civil, nada mais é do que "o empréstimo gratuito de coisas não fungíveis".
+ ..
+Em julho de 2013, por não mais lhes convirem a manutenção do contrato, os comodantes notificaram a comodatária, dando-lhe o prazo de trinta (30) dias para a desocupação do imóvel, sob pena das medidas judiciais cabíveis (cf. f. 15/17).
+Não obstante, o bem não foi devolvido aos comodantes, o que lhes dá o direito ao recebimento dos aluguéis reclamados, equivalentes a R$ 1.017,00 (mil e dezessete reais) mensais, referentes a todo o período em que os comodatários permaneceram indevidamente na posse do imóvel.
+Do excerto acima transcrito, depreende-se que a análise acerca da condenação imposta à agravante decorreu da apreciação dos fatos e provas acostadas aos autos, na qual a instância originária atestou que a parte recorrente, mesmo notificada em julho de 2013 para desocupar o bem, permaneceu indevidamente na posse do imóvel, situação que justificaria a indenização arbitrada pelo juízo singular.
+À vista disso, fica o STJimpedido de rever o posicionamento acolhido pela instância originária, uma vez que seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é inviável ante a incidência da Súmula 7/STJ.
+Noutro ponto, quanto ao dissídio jurisprudencial, em virtude da aplicação do enunciado sumular supramencionado, fica prejudicada a análise da divergência, visto que inexistente similitude fático-jurídica entre os julgados confrontados.
+Diante do exposto, mediante juízo de reconsideração, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados dos recorridosem 3% sobre o percentual fixado pela instância originária, devidamente atualizado.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. CONTRATO DE COMODATO. RESCISÃO. REINTEGRAÇÃO DE POSSE. ALUGUEL. CABIMENTO. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. DECISÃO DA PRESIDÊNCIA DO STJ RECONSIDERADA. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
