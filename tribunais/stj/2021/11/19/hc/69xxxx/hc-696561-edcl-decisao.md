@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por HILDO ROGERIO LOPES VIEIRAà decisão de fls. 315-318, que não conheceu do habeas corpus.
+O embargante discorre sobre diversos assuntos, bem como reiteraargumentos dispostos na petição inicial de habeas corpus, tais como: a)aexistência de constrangimento ilegal; b)o instituto da detração (prevista no art. 42 do Código Penal); c)o bom comportamento apresentado,enquanto esteve na prisão; d) a competência do Juízo de execuçãopara julgar e aplicar a detração penal (art. 66, III, c, da Lei n. 7.210/84; e e) a inadequação dos efeitos da diminuição da pena na execução penal provisória.
+Requer (fl. 324):
+ ..  seja recepcionado o presente writ, e às questões de lapso temporal, e, direito subjetivo, está contemplado dentro dos autos, com bom comportamento quando esteve cumprindo provisoriamente a pena na Unidade Prisional de Anápolis, GO, onde remiu no quantum de 100 dias, prova cabal de sua ressocialização, e a terapia adequada, pois nunca mais voltou a pratica criminal, necessitando de uma oportunidade no Tribunal da Cidadania;
+b) Compulsando os autos verificou que o Juiz de Execução Penal, não pautou audiência de justificação se considerar que se encontra foragido, no outro ponto, não marcou audiência admonitória para dar início ao cumprimento da pena conforme parecer lançado pelo representante do Ministério Público no evento n.57 dos autos de n.0073556-38.2018.8.09.0047 - comarca de Goianápolis, GO, e requerendo a revogação da prisão preventiva, e indeferindo por ter afirmado que não preenche o direito subjetivo, mas a defesa comprovou ao contrário, portanto aplicar-se os termos do inciso IV do artigo 648 do Código de Processo Penal, IV- quando houver cessado o motivo que autorizou a coação;
+c) Em outra vertente a uma ofensa ao Estado Democrático de Direito que o direito ao peticionamento, onde a Juíza de Piso, determinou que deveria aguardar o desenrolar do Agravo de Execução Penal.
+É o relatório. Decido.
+O recurso não reúne condições de acolhimento.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado.
+Impõe-se ressaltar que a decisão embargada manifestou-se, nos limites indispensáveis à solução da controvérsia, com devida fundamentação e nítida clareza, sobre todas as questões submetidas ao Superior Tribunal de Justiça, o que afasta a alegação de negativa da prestação jurisdicional ou de descumprimento de normas infraconstitucionais.
+Portanto, inexiste irregularidade sanável por meio dos aclaratórios, uma vez que a matéria controvertida dos autos foi objeto da correspondente e concreta análise, não padecendo o decisum de vício apto a justificar a oposição do presente recurso, que, inclusive, não se presta para provocar o reexame da causa.
+Ante o exposto, rejeito os embargos de declaração.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
