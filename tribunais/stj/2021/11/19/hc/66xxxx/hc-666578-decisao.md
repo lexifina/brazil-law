@@ -1,0 +1,32 @@
+DECISÃO
+CARLA ANDRESSA PEREIRA DE OLIVEIRAalega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo(Apelação Criminal n. 1501744-06.2020.8.26.0664).
+Consta dos autos que apacientefoi condenadaa 9 anos e 4 meses de reclusão, em regime inicial fechado, mais multa, como incursa nos arts. 33, caput, e 35, c/c o art. 40, VI, todosda Lei n. 11.343/2006.
+Nesta Corte, a defesa pleiteia a substituição da prisão preventiva da paciente por custódia domiciliar, uma vez que "é trabalhadora e mãe de dois filhos, estando grávida de seu terceiro herdeiro e, por ter sido equivocadamente condenada, está longe da sua família e de seu trabalho, sendo que a mesma era atendente de uma rede de fast food e também realizava trabalhos domésticos de faxineira." (fl. 28).
+Requer, ainda, a absolvição e, subsidiariamente, a revisão da dosimetria da pena, com a incidência da minorante prevista no art. 33, § 4º, da Lei de Drogas e fixação do regime aberto.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento da ordem.
+Decido.
+I. Prisão domiciliar
+Em princípio, quanto ao pedido de prisão domiciliar, além de não haver sido formulado na instância de origem, de modo a inviabilizar seu conhecimento nesta Corte Superior, sob pena de indevida supressão de instância, observo, em pesquisa no sítio eletrônico do Tribunal de origem, já haver transitado em julgado o feito, tratando-se agora de prisão-pena. Assim, comonão há previsão no Código de Processo Penal de prisão domiciliar para as rés com condenação definitiva, não há constrangimento ilegal nesse particular.
+II. Absolvição por falta de provas- impossibilidade
+A paciente foi denunciada como incursa nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006 por ter, em associação com corréu, guardado 55,8 g de maconha.
+De acordo com as instâncias ordinárias, os policiais militares envolvidos na operação, "relataram os fatos com segurança e coerência" (fl. 859), sendo certo que, após denúncias acerca do cometimento do tráfico, foram localizados no imóvel mencionado, além das porções de maconha, prato, faca e balança de precisão com resquícios da droga.
+Assim, com base nesses argumentos,verifico que as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação da acusada pelocrimede tráfico de drogas.
+Por essas razões, mostra-se inviável a absolvição, sobretudo ao se considerar que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, tal como verificado nos autos.
+Dessa forma, para entender-se pela absolvição da paciente, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível na via do recurso especial, nos termos da Súmula n. 7 do STJ.
+II.Associação ao tráfico - estabilidade e permanência
+Conforme o acórdão do Tribunal de origem a prática do delito de associação ao tráfico ficou demonstrada por meio da apreensão de apetrechos do tráfico, bem como pela perícia nos telefones celulares dos réus, em que se "descobriu .. atuação estável, utilizando-se de aplicativos de celular para desenvolverem sofisticada ação no fornecimento de drogas". Isso porque haviam diálogos anteriores "comprovando o vínculo antigo e duradouro" dos réus e"envolvendo grande quantidade de negociações acerca da compra e venda de drogas, cobranças e avisos sobre eventual operação policial na região, também sobre aquisição de arma de fogo" e "fotografias em que um dos acusados é retratado portando arma de fogo, bem como imagens de "tijolos" de maconha sobre balança de precisão, pesando mais de três quilos e meio" (todos à fl. 862).
+Considerando a expressão utilizada pelo legislador, de que a associaçãoentre duas ou mais pessoas para o fim de praticar, reiteradamente ou não,qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei deDrogas, a jurisprudência deste Superior Tribunal firmou o entendimento deque, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n.11.343/2006, é necessária a demonstração concreta da estabilidade e dapermanência da associação criminosa.
+A propósito, confira-se o seguinte julgado: HC n. 220.231/RJ, Rel.Ministro Rogerio Schietti, 6ª T., DJe 18/4/2016.
+Assim, para a caracterização do delito previsto no art. 35 da Lei deDrogas, é necessário que o animus associativo seja efetivamente provado.Isso porque, se assim não fosse, estaria evidenciado mero concurso deagentes para a prática do crime de tráfico de drogas.
+No caso, as instâncias de origem, após uma análise minuciosa dos elementos fático-probatórios colacionados aos autos, apontaramelementos concretosque efetivamente evidenciam a estabilidade e a permanência exigidas para aconfiguração de crime autônomo, de maneira que não identifico nenhumconstrangimento ilegal pelo qual estariam sendo vítima apacientenesseponto.
+Saliento, ademais, que qualquer outra solução que não a adotada pelainstânciaordináriaimplicaria o revolvimento do materialfático-probatório amealhado ao processo, providência incabível na viaestreita do habeas corpus, de cognição sumária.
+III. A minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Porque mantida a condenação darépela prática do crime de associaçãopara o tráfico de drogas, não há como reconhecer a incidência da causaespecial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006em favor dele.
+A Terceira Seção deste Superior Tribunal possui o entendimento de que é
+inviável a aplicação da causa especial de diminuição da pena prevista no §4º do art. 33 da Lei de Drogas, quando o agente foi condenado também pelaprática do crime previsto no art. 35 da Lei de Drogas, por restarevidenciada a sua dedicação a atividades criminosas ou a sua participaçãoem organização criminosa, no caso, especialmente voltada para ocometimento do narcotráfico.
+Exemplificativamente: HC n. 371.353/PI, Rel. Ministra Maria Thereza deAssis Moura, 6ª T., DJe 16/12/2016; HC n. 422.709/SP, Rel. MinistroRibeiro Dantas, 5ª T., DJe 19/12/2017.
+IV. Regime de cumprimento
+Por fim, diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica mantido o regime fechado para cumprimento da pena.
+V. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
