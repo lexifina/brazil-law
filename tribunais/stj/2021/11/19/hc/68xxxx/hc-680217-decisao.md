@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Alexssandro Marcelo Ramos, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo (Apelação Criminal n. 0009681-48.2017.8.26.0050 - fls. 13/32).
+Narram os autos que o Juízo de primeiro grau condenou o paciente à pena de 5 anos e 4 meses de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 13 dias-multa, pela prática do crime previsto no art. 157, §2º, I e II, do Código Penal (fls. 33/42).
+O Tribunal de origem, por sua vez,deuprovimento à apelação interposta pelo Ministério Público, a fim de exasperar a reprimenda para 5 anos e 6 meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 13 dias-multa.
+Daí a presente impetração, por meio da qual se pretende, em suma, que, na terceira fase da dosimetria, a pena seja aumentada em apenas 1/3, bem como seja fixadoo regime semiaberto para o início do cumprimento da reprimenda.
+Sem pedido liminar, informações prestadas (fls. 56/89), o Ministério Público Federal opinou pelo não cabimento do writ (fls. 93/96).
+É o relatório.
+O aumento de 3/8, na terceira fase da dosimetria, ocorreu tão somente em virtude do número de majorantes, o que não configura fundamentação idônea e contraria a jurisprudência desta Casa, sintetizada na Súmula 443/STJ, in verbis: o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Dessa forma, as reprimendas deverão sofrer, nessa fase, um aumento de apenas 1/3,sendo fixadas, definitivamente, em 5 anos e 4 meses de reclusão, além do pagamento de 13 dias-multa.
+Quanto ao regime, também vislumbro existência de constrangimento ilegal, já que foi fixado o regime fechado para o início do cumprimento da reprimenda somente com base na gravidade abstrata do crime de roubo duplamente majorado. Todavia, o posicionamento pacificado nesta Corte e no Supremo Tribunal Federal é no sentido de que se mostra inadmissível a estipulação de regime prisional mais rigoroso do que aquele previsto para a sanção corporal aplicada apenas com fundamento na gravidade abstrata do delito. Nesse sentido, as Súmulas 440/STJ e 718 e 719/STF.
+Com efeito, o Tribunal a quo manteve o regime fechado para o início do cumprimento da pena tão somente pelo fato de o paciente ter praticado o delito em concurso de agentes e com o emprego de arma de fogo. Dessa forma, decidiu de forma contrária à jurisprudência desta Corte, firmada no sentido de que a menção à gravidade abstrata do delito - cometido em concurso de agentes e com emprego de arma de fogo - não é suficiente para justificar a fixação de regime inicial mais gravoso para o cumprimento da pena(AgInt no HC n. 390.855/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/5/2017).
+Assim, ante a ausência de motivação idônea para o estabelecimento do regime fechado, tratando-se de réu primário, que teve a sua pena-base fixada no mínimo legal e a definitiva em 5 anos e 4 meses de reclusão, e 13 dias-multa, fixo o regime semiaberto para o início de seu cumprimento.
+Ante o exposto, concedo a ordem a fim de fixar a pena do paciente em 5 anos e 4 meses de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 13 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA DA PENA. TERCEIRA FASE. DUAS MAJORANTES. AUMENTO DE 3/8. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. REDUÇÃO PARA 1/3. REGIME FECHADO. GRAVIDADE ABSTRATA. FUNDAMENTAÇÃO INIDÔNEA. REGIME SEMIABERTO. FIXAÇÃO.
+Ordem concedida nos termos do dispositivo.
