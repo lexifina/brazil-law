@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Da leitura dos autos, pode-se inferir que PAULO SÉRGIO BRUGIONI (PAULO) promoveu duas ações contra CAIXA ECONÔMICA FEDERAL (CAIXA).
+Narram os autos que a primeira objetivoua concessão de medida liminar para suspender o leilão do imóvel objeto do financiamento. Por seu turno, a segunda ação pretendeu a declaração de nulidade das cláusulas contratuais, alegadamente leoninas, que autorizaram a CAIXA a transferência da propriedade do bem financiado, sem que fosseobservado o devido processo legal, bem como sua alienação em leilão público por preço que PAULO entendeu ser vil.
+PAULO, ainda, sustentou que a CAIXA levou a leilão o bem imóvel, objeto do contrato de mútuo com alienação fiduciária em garantia, sem considerar as benfeitorias efetuadas e a valorização imobiliária.
+Em primeira instância, em julgamento conjunto, os pedidos foram julgados improcedentes. Na ocasião, PAULO foi condenado ao pagamento das custas e dos honorários advocatícios arbitrados em R$ 3.000,00 (três mil reais).
+A apelação interposta por PAULO teve seu seguimento negado em decisão monocrática, com fulcro no art. 557 do CPC/1973.
+Os embargos de declaração opostos por PAULO foram rejeitados em decisão unipessoal.
+O agravo interno interposto por PAULO não foi provido pelo Tribunal Regional Federal da 3ª Região, nos termos do acórdão assim ementado:
+AGRAVO LEGAL. JULGAMENTO POR DECISÃOMONOCRÁTICA. ART. 557 DO CPC DE 1973. CONTRATO DE MÚTUO. EXECUÇÃO EXTRAJUDICIAL. CDC. AGRAVO DESPROVIDO.
+1. O julgamento monocrático se deu segundo as atribuições conferidas ao Relator pelo artigo 557 do Código de Processo Civil de 1973, em sua redação primitiva.
+2. Tratando-se de agravo legal interposto na vigência do Código de Processo Civil de 1973 e observando-se o princípio "tempus regit actum", os requisitos de admissibilidade recursal são aqueles nele estabelecidos (Enunciado nº 02 do Superior Tribunal de Justiça).
+3. Por ocasião do julgamento do recurso, contudo, dever-se-á observar o disposto no §3º do artigo 1.021 do Código de Processo Civil de 2015.
+4. O CDC se aplica às instituições financeiras (Súmula 297 do STJ), mas as cláusulas dos contratos do SFH observam legislação cogente imperando o princípio pacta sunt servanda. A teoria da imprevisão e o princípio rebus sic standibus requerem a demonstração de que não subsistemas circunstâncias fáticas que sustentavam o contrato, justificando o pedido de revisão contratual.
+5. O procedimento próprio previsto pelo Decreto-lei nº. 70/66 garante ao devedor a defesa de seus interesses ao prever a notificação para a purgação da mora (artigo 31, § 1º), não sendo incomum, mesmo nessa fase, que o credor proceda à renegociação das dívidas de seus mutuários, ainda que não tenha o dever de assim proceder.
+6. Não é negado ao devedor o direito de postular perante o Poder Judiciário a revisão do contrato e a consignação em pagamento antes doinadimplemento, ou, mesmo com a execução em curso, o direito de apontar irregularidades na observância do procedimento em questão que tenham inviabilizado a sua oportunidade de purgar a mora.
+7. Em razão disso, entendo que o referido decreto-lei é compatível com as normas constitucionais que tratam do devido processo legal. Ademais, a matéria é objeto de ampla e pacífica jurisprudência nesta Corte, em consonância com o entendimento ainda dominante no Supremo Tribunal Federal, segundo o qual o Decreto-lei nº. 70/66 foi recepcionado pela Constituição Federal de 1988.
+8. A exigência de notificação pessoal se restringe ao momento de purgação da mora, não se aplicando às demais fases do procedimento. Mesmo nesta hipótese, quando o devedor se encontrar em lugar incerto ou não sabido, é possível a notificação por edital, nos termos do artigo 31, § 2º do Decreto-lei70/66.
+9. É de se salientar que o pedido de suspensão ou anulação de atos relativos ao procedimento de execução extrajudicial com base em irregularidades procedimentais deve ser acompanhado da demonstração pelo devedor de que foi frustrada a sua intenção de purgar a mora, a qual permitiria o prosseguimento regular da relação obrigacional.
+10. A proibição da inscrição/manutenção dos nomes dos mutuário sem cadastro de inadimplentes deve se fundar em jurisprudência consolidada do STF ou STJ, sendo necessário, ainda, o depósito da parcela incontroversa ou de caução fixada conforme o prudente arbítrio do juiz. REsp 1067237, artigo 543-Cdo CPC.
+11. Agravo legal desprovido (e-STJ, fls. 394/395).
+Os embargos de declaração opostos por PAULO, em nova apreciação conforme determinação do STJ,foram acolhidos apenas para esclarecer a omissão apontada no tocante a venda do imóvel por preço vil.
+Os embargos de declaração opostos pela CAIXA foram acolhidos apenas para esclarecer a contradição indicada no sentido de que não ficou caracterizada a venda do bem por preço vil.
+Os segundos aclaratórios opostos por PAULO foram rejeitados.
+Inconformado, PAULO manejou recurso especial, com amparo no art. 105, III, alíneas a e c, da CF, alegando violação dos arts. 5º, XXXV, LIV e LV, e 93, IX, da CF, 884 do CC/2002 e 10, 11 e 489, § 1º, IV, do NCPC, além de divergência jurisprudencial. Sustentou que(1) houve expropriação ilícita; (2) teve enriquecimento sem causa; e, (3) não foram sopesados todos os argumentos deduzidos.
+O apelo nobre interposto por PAULO não foi admitido em virtude do seguinte (1) não cabimento de recurso especial por ofensa à norma constitucional; (2) ausência de afronta ao art. 489 do NCPC; (3) incidência da Súmula nº 7 do STJ; e, (4) ausência de prequestionamento (aplicação das Súmulas nºs 282 do STF e 211 do STJ).
+Seguiu-se o agravo em recurso especial, que, por decisão monocrática da relatoria do Ministro Presidente do STJ, não foi conhecido, com amparo nos arts. 21-E, V, e 253, parágrafo único, I, do RISTJ, porque não foram atacados especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nas razões do presente agravo interno, PAULO alegou que (1) foi violado o art. 489, §§ 1º e 2º, do NCPC; (2) o aresto recorrido deixou de proceder a uma nova apreciação do julgado não obstante o STJ tenha reconhecido haver omissão no voto proferido pelo TRF da 3ª Região; (3) foi mantida a venda por preço vil do bem; (4) não foram consideradas as diversas benfeitorias efetuadas no imóvel; e, (5) foi ofendido o art. 5º, LV, da CF.
+Houve impugnação ao recurso (e-STJ, fls. 613/615).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. AGRAVO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a aplicação da Súmula nº 7do STJ e a ausência de prequestionamento (aplicação das Súmulas nºs 282 do STF e 211 do STJ), que levaramao não conhecimento do apelo nobre manejado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento.
+4. Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Incide ao caso a Súmula nº 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou a aplicação da Súmula nº 7do STJ e a ausência de prequestionamento (aplicação das Súmulas nºs 282 do STF e 211 do STJ).
+Isso porque, nas razões do presente agravo interno, PAULOlimitou-se a alegar que (1)foi violado o art. 489, §§ 1º e 2º, do NCPC; (2) o aresto recorrido deixou de proceder a uma nova apreciação do julgado não obstante o STJ tenha reconhecido haver omissão no voto proferido pelo TRF da 3ª Região; (3) foi mantida a venda por preço vil do bem; (4) não foram consideradas as diversas benfeitorias efetuadas no imóvel; e, (5) foi ofendido o art. 5º, LV, da CF.
+Na hipótese, PAULOolvidou-se de infirmar os óbices apontados, tendo apenas afirmado a violação dos arts. 5º, LV, da CF e 489 do NCPC, com reiteração dos termos do seu apelo nobre, o que acarreta a aplicação da Súmula nº 182 do STJ, pois não foram impugnados todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que,na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada,o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor:É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973 quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator quea ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo(EARESP 746.775/PR).
+Em igual sentido, vejam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+ ..
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 825.386/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, j. 17/5/2016, DJe 27/5/2016 - sem destaque no original)
+Outrossim, a alegada contradição do art. 5º, LV, da CF é tese natimorta.
+Nesse ponto, a jurisprudência deste Tribunal Superior expõe que não cabe a apreciação de suposta ofensa a matéria constitucional, ainda que para fins de prequestionamento, sob pena de invasão da competência do Supremo Tribunal Federal.
+Nesse sentido, veja-se o julgado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO RECEBIDO COMO AGRAVO REGIMENTAL. TEMPESTIVIDADE COMPROVADA. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA CONSTITUCIONAL.
+ ..
+3. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+4. O recurso especial não é sede própria para o exame de matéria constitucional.
+5. Embargos de declaração recebidos como agravo regimental, do qual se conhece para negar-lhe provimento.
+(EDcl no AREsp 168.842/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 16/9/2014, DJe 22/9/2014 - sem destaque no original)
+Assim, porque os argumentos que PAULOtrouxe não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte.
+Nessas condições, pelo meu voto,NÃO CONHEÇOdo agravo interno.
