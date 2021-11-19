@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em face de acórdão assim ementado (fl. 20):
+Apelação - Tráfico de drogas - Recurso defensivo - Absolvição pretendida - Descabimento - Materialidade e autoria comprovadas - Prova testemunhal segura e coesa - Negativa apresentada pelo réu isolada das provas amealhadas - Reprimenda bem dosada - Presença da circunstância agravante da reincidência específica que justifica a majoração promovida na segunda fase da dosimetria em  - Não incidência do redutor do artigo 33, §4º da Lei 11.343/06 pelas circunstâncias do caso e reincidência do réu - Substituição Penal inviável - Regime prisional fechado adequado- Artigo 387, §2º do CPP - Guia de execução provisória já expedida - Análise pelo Juízo de Execução - Sentença mantida - Recurso desprovido.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei 11.343/06, a 6 anos e 3 meses de reclusão, em regime inicial fechado, e pagamento de 625 dias-multa.
+Interposta apelação, o recurso defensivo foi desprovido.
+No presente writ, a impetrante alega que a elevação da pena, na segunda fase da dosimetria, em razão da reincidência,no patamar de 1/4, revela-se desproporcional, porquanto se trata de apenas uma condenação definitiva.
+Requer, assim, a revisão da dosimetria a fim de que seja considerada a fração de 1/6 na exasperação da pena em razão da agravante da reincidência.
+Prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ, mas pela concessão de ofício para reduzir a fração da reincidência para 1/6.
+Como relatado, pleiteia a defesa a aplicação da fração de 1/6 em relação à agravante da reincidência.
+Quanto ao pleito, o acórdão assim dispôs (fl. 23):
+Em seguida, o reconhecimento da reincidência específica do réu justifica a exasperação em  promovida em sentença, que não se mostra desproporcional e foi justificada pelo juízo sentenciante, ao considerar que "ao incidir na mesma prática criminosa, demonstrou nada ter aprendido com a punição anterior, o que enseja uma reprimenda mais severa como forma de desestimulá-lo na reiteração desse tipo de conduta", alcançando assim, o patamar definitivo de 06 anos e 03 meses de reclusão, e pagamento de 625 dias-multa (fls. 189).
+In casu, verifica-se que as instâncias ordinárias entenderam pela incidência da fração superior à agravante da reincidência (1/4) somente por ser específica, o que destoa da jurisprudência deste STJ. Confira-se:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA PENAL. AGRAVANTE DA REINCIDÊNCIA. AUMENTO SUPERIOR A 1/6. NECESSIDADE DE FUNDAMENTAÇÃO CONCRETA. ESPECIFICIDADE DA REINCIDÊNCIA. IRRELEVÂNCIA. FLAGRANTE ILEGALIDADE EVIDENCIADA. RECURSO NÃO PROVIDO.
+1. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório.
+2. Hipótese em que o Tribunal de origem justificou a aplicação da agravante na fração de 1/3 pelo fato de o ora agravado ser reincidente específico. Ocorre que a Quinta Turma deste Superior Tribunal de Justiça passou a adotar o entendimento de que, ostentando o réu apenas uma condenação anterior para fins de reincidência, mostra-se desproporcional o aumento em patamar superior a 1/6, com amparo apenas no fato de se tratar de reincidente específico.
+3. Agravo regimental não provido. (AgRg no HC 662.859/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 03/08/2021, DJe 09/08/2021).
+Assim, na primeira fase, mantém-se a pena-base no mínimo legal de 5 anos de reclusão e 500 dias-multa. Na segunda fase, aplica-se a agravante da reincidência, na fração de 1/6, resultando a pena intermediária em 5 anos e 10 meses de reclusão, e 583 dias-multa, a qual se torna definitiva na ausência de outras circunstâncias modificadoras.
+Ante o exposto, concedo o habeas corpus a fim de reduzir a pena do paciente a 5 anos e 10 meses de reclusão, além do pagamento de 583 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
