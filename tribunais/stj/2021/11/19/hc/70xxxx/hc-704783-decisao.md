@@ -1,0 +1,14 @@
+DECISÃO
+FELLIPE DE SOUZA ROCHA, condenado por roubo circunstanciado, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao seu recurso de apelação, mas manteve o regime fechado para o cumprimento da pena.
+Neste writ, a defesa pretende, em síntese, a fixação do regime semiaberto, na medida em que o paciente teve a pena fixada em 6 anos e 2 meses de reclusão, mais 13 dias-multa, e não houve a devida fundamentação para o estabelecimento do regime mais gravoso.
+Indeferida a liminar (fl. 43), foram os autos ao Ministério Público Federal, que se manifestou pelo não cabimento do habeas corpus (fls. 46-50).
+Decido.
+O acórdão impugnado, ao manter o regime fechado para o início do cumprimento da pena, assinalou o seguinte (fls. 39, destaquei):
+ ..
+O quantum de pena aplicada não autoriza, por si só, a fixação de regime mais brando quando outros elementos referentes aos crimes praticados e condições pessoais do condenado, devidamente avaliados pelo juízo da condenação, recomendam o cumprimento inicial da pena em regime mais severo, como é o caso dos autos. Como visto, o regime fechado não foi fixado somente com base na gravidade abstrata dos delitos, mas na gravidade em concreto da ação perpetrada pelos acusados.
+Pelos mesmos fundamentos e pela prática de delito mediante grave ameaça contra a pessoa, inviável, a substituição da pena privativa de liberdade por restritiva de direitos.
+Como se observa, a regime mais gravoso imposto foi fundamentado. O quadro fático delineado pelo Tribunal de origem, no particular, mostra-se suficiente para justificar a adoção do fechado, notadamente diante do modus operandi com que praticado o delito.
+Consoante entendimento desta Corte, "Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena" (AgRg no HC n. 482.345/SP, Rel. Ministro Rogerio Schietti, DJe 23/9/2019, destaquei), tal como se deu na espécie.
+Precisas, no particular, as ponderações do Ministério Público Federal (fl. 49, grifei): " ..  embora se trate de pena inferior a 8 anos de reclusão e não se trate de reincidente, justifica a fixação do regime inicial mais gravoso a gravidade concreta do delito, evidenciada pelo modus operandi, na medida em que considerado o fato de que praticado o crime contra vítima mulher por três agentes, durante horário noturno, a revelar grande ousadia e periculosidade dos acusados".
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
