@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo apresentado pela AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA DE BENS. BACENJUD. LEI 6.830/80. PANDEMIA.
+1. A substituição de penhora em dinheiro por outro bem (móvel ou imóvel) possui precedentes favoráveis nesta Corte, seja em razão da excepcionalidade da crise econômica provocada pela pandemia do Covid-19, mas principalmente porque, no caso, não há prejuízos à União que mantém a execução garantida.
+2. O exercício dos direitos da Fazenda Pública deve proteger o contribuinte, evitando o colapso da sua atividade econômica e a respectiva supressão absoluta de receitas públicas dela derivadas, e, secundariamente, para garantir os créditos necessários à manutenção da atividade estatal.
+3. Ausentes novos elementos a alterar o entendimento adotado, resta mantida a decisão que analisou o pedido de efeito suspensivo.
+Quanto à primeira controvérsia, alega violação do art. 1.022 do Código de Processo Civil, no que concerne à ocorrência de negativa de prestação jurisdicional.
+Quanto à segunda controvérsia, alega violação dos arts. 11, inciso I, da Lei n. 6.830/1980 e 797, 829, 831, 835 e 854 do Código de Processo Civil, no que concerne à impossibilidade de substituição da garantia em dinheiro por veículo, trazendo os seguintes argumentos:
+A Corte Regional deu provimento ao recuso da executada, determinando a substituição da garantia já existente (em dinheiro), por veículo de liquidez discutível e de difícil alienação.
+Tal entendimento, com a devida vênia, merece reforma, uma vez que viola o disposto no art. 11 da Lei 6830/80, bem como os arts. 797 e 835 do CPC, tendo em vista que a preferência de bem imóvel em detrimento de títulos públicos não se coaduna com a satisfação do crédito no interesse do credor.
+Com efeito, os dispositivos em comento estabelecem:
+ ..
+Com a devida vênia, mostra-se, no mínimo, desarrazoado autorizar-se a liberação de valores bloqueados via BACENJUD para, posteriormente - em caso de improcedência dos embargos - promover-se hasta pública de imóvel, com todos os custos e incidentes que tal providencia exige.
+Nessa linha, o sistema processual é harmônico e, justamente pela inobservância da ordem de preferência e por remanescer interesse do credor na penhora em dinheiro, permite a recusa na forma prevista no art. 848 do CPC:
+ ..
+De outra parte, mesmo que, sendo possível, a execução deva observar o meio menos gravoso ao executado, não pode descurar do efetivo interesse do credor em satisfazer sua pretensão, que deposita primazia na ordem de preferência legalmente prevista.
+Tal entendimento encontra-se sedimentado na jurisprudência do Superior Tribunal de Justiça, o qual, sob a sistemática dos julgamentos repetitivos (REsp 1337790), definiu ser legítima a recusa da Fazenda Pública de bem ofertado à penhora quando não observada a ordem prevista nos arts. 655, do antigo CPC, e 11 da Lei n. 6.830/80. Confira-se:
+ ..
+E a prelação do dinheiro em relação a qualquer outra modalidade de garantia, cumpre realçar, faz todo o sentido, pois a constrição judicial sobre dinheiro assegurará o efetivo recebimento da prestação pelo credor. Ademais, a constrição judicial requerida reduz as despesas incorridas pelo Poder Judiciário, pelo credor e pelo devedor, com a eliminação de providências expropriatórias, que, muitas vezes, se revelam inócuas e inidôneas para propiciar o alcance do fim colimado no processo de execução.
+Por fim, conforme jurisprudência da própria Corte Regional a existência de pandemia não justifica o indeferimento da penhora pelo sistema BACENJUD ou sua substituição quando já efetivada, já que não há qualquer previsão legislativa neste sentido (fls. 102-106).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+Confira-se também o seguinte julgado: AgInt no AREsp n. 1.559.920/SE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020.
+Quanto à segunda controvérsia, quanto à violação dos artigos do Código de Processo Civil, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão, sob o viés desses dispositivos, não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ainda que assim não fosse, o acórdão recorrido assim decidiu:
+O pedido de efeito suspensivo foi analisado nos seguintes termos:
+ ..
+Com efeito, assim dispõe o artigo 15, inciso II, da Lei de Execuções Fiscais, verbis:
+Art. 15 - Em qualquer fase do processo, será deferida pelo Juiz:
+I - ao executado, a substituição da penhora por depósito em dinheiro, fiança bancária ou seguro garantia; e (Redação dada pela Lei nº 13.043, de 2014)
+II - à Fazenda Pública, a substituição dos bens penhorados por outros, independentemente da ordem enumerada no artigo 11, bem como o reforço da penhora insuficiente.
+A previsão contida na LEF admite a substituição da penhora decorrente de bacenjud quando oferecido pela parte executada bem que garante integralmente o crédito público.
+Tal disposição contitui-se em expressão do princípio da menor onerosidade da execução, previsto no artigo 805 do Código de Processo Civil (quando por vários meios o exequente puder promover a execução, o juiz mandará que se faça pelo modo menos gravoso para o executado).
+Sendo assim, é de rigor diligenciar para que se verifique a idoneidade e suficiência do bem oferecido pela executada.
+(..)
+Ausentes novos elementos a alterar o entendimento adotado, voto por dar provimento ao recurso (fls. 64-65).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
