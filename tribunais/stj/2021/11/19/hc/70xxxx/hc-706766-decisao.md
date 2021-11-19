@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Maycon Paulino Costa Silva contra o acórdão proferido pelo Tribunal de Justiça de São Paulo, que deu provimento ao Agravo de Execução Penal n. 0002339- 35.2021.8.26.0344, a fim dedeterminar a realização de exame criminológico para fins de progressão de regime, reformando a decisão do Juízo da Vara de Execuções Criminais da comarca de Marília/SP (PEC n. 1000744-81.2021.8.26.0344).
+Oimpetrantealega, em síntese, quea decisão que exigiu o exame criminológico para a progressão de regimedeve ser cassada, uma vez que desnecessária, no caso concreto.
+Salienta que,embora o paciente esteja preso pelo crime de homicídio qualificado, não há qualquer informação, durante esses 8 anos e 10 meses de cumprimento de pena, que o paciente tenha praticado falta disciplinar (fl. 6).
+Requer, em caráter liminar e no mérito, seja determinada a progressão ao regime semiaberto.
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração de plano da ilegalidade, ônus que recai sobreoimpetrante, a quem cumpre instruir o pedido de modo viável e coma prova pré-constituída de suas alegações.
+In casu, verifico, de plano, ilegalidade flagrante.
+ACorte a quo, cassando a decisão do Juiz singular - que entendeu pelocabimento da progressão de regime -, determinoua regressão ao regimefechado e a realização de exame criminológico, tecendoosseguintesfundamentos(fls. 17/22- grifo nosso):
+ ..
+Além do requisito objetivo (temporal), deve o condenado preencher também o requisito subjetivo, qual seja, ter mérito - tomada a palavra em seu sentido etimológico, significando, portanto, "merecimento" - para a progressão de regime.
+Assim, quanto ao mérito, e ainda que o Atestado da Secretaria da Administração Penitenciária (fl.12) tenha certificado o "bom" comportamento carcerário do Agravado, é de se considerar que: 1. trata-se de agente com personalidade violenta e que foi condenado pela prática de crimes graves (tráfico de drogas, associação ao tráfico de drogas, e homicídio qualificado esse último crime de extrema violência à pessoa) e que causam intranquilidade social, especialmente porque agridem a paz pública, exigindo-se redobrada e minuciosa análise do requisito subjetivo; 2. o término de cumprimento de pena está previsto para 12.7.2037 (fl.13).
+ ..
+Em se tratando de condenado por crime extremamente violento (homicídio qualificado), além de tráfico de drogas e associação ao tráfico, considerados hediondos, e que revelam especiais censurabilidade e perversidade, a aferição do mérito deve se dardo modo mais completo possível, assegurando se as perspectivas do sentenciado no sentido de sua regeneração e recuperação são consistentes, bem como se houve eliminação, ou ao menos diminuição, da perigosidade do agente.
+Por fim, registre-se que, enquanto não definida a situação em face da necessidade de realização da providência complementar, deverá o Agravado aguardar o novo pronunciamento da Primeira Instância no regime fechado.
+ ..
+Ora, com as inovações trazidas pela Lei n. 10.792/2003, alterando aredação do art. 112 da Lei n. 7.210/1984, afastou-se a exigência de examecriminológico para fins de progressão de regime. Apesar disso, oSuperior Tribunal de Justiça firmou entendimento de que o Magistrado deprimeiro grau, ou mesmo o Tribunal de origem, diante das circunstâncias docaso concreto, podedeterminar a realização da referida prova técnicapara a formação de seu convencimento acerca do merecimento do apenado,desde que por decisão fundamentada. Súmula 439/STJ e Súmula Vinculante 26(HC n. 540.699/SP, Ministro Leopoldo de Arruda Raposo, Desembargadorconvocado do TJ/PE, Quinta Turma, DJe 28/11/2019).
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o julgador, antes de apreciar o pedido de progressão de regime, pode determinar a submissão do apenado a exame criminológico, desde que o faça de forma fundamentada, nos termos da Súmula 439/STJ (HC n. 505.302/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/7/2019; e AgRg no HC n. 469.499/SP, Ministra Laurita Vaz, Sexta Turma, DJe 5/4/2019).
+Ademais, nos termos da jurisprudência desta Corte Superior, fundamentosabstratos e genéricos não justificam a exigência de exame criminológico,bem como a análise do preenchimento do requisito subjetivo somente poderáfundar-se em fatos praticados durante a execução penal(AgRg no HC n.633.686/SP, Ministra Laurita Vaz, Sexta Turma, DJe11/3/2021).
+No presente caso, o paciente foi submetido à realização de exame criminológico em razão da gravidade em abstrato dos crimes pelos quais cumpre pena e com base na quantidade de pena imposta,fundamentaçãoessaexternaao processo de ressocialização preconizado na lei e insuscetível de inviabilizar a progressão de plano.
+Ante o exposto, concedo liminarmente a ordem para restabelecer adecisão do Juiz de primeiro grau que deferiu a progressão dopacienteaoregime semiaberto.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO.PROGRESSÃO DE REGIME. EXIGÊNCIA DEEXAME CRIMINOLÓGICO. GRAVIDADE EM ABSTRATO DO CRIME COMETIDO.MOTIVAÇÃO INIDÔNEA. SÚMULA 439/STJ. PRECEDENTES. FLAGRANTE ILEGALIDADE.
+Ordem concedida liminarmente nos termos do dispositivo.
