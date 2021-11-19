@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por José Luis Gomes Fernandescontra decisão assim ementada:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA AFERIDA PELO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL NÃO PROVIDO.
+Em razões, oagravante defende a inaplicabilidade da Súmula 7/STJ, argumentando, para tanto,que "o presente caso não demanda a análise fática, visto que o foco da discussão se restringe à impossibilidade do início do transcurso do prazo prescricional da pretensão executiva em relação à obrigação de pagar(sem condição de liquidação até a efetivação do reajuste), durante o período que a Fazenda Pública necessitou para cumprir a obrigação de fazer, da qual dependia a obrigação de pagar, inteligência da norma contida no art. 4º do Decreto 20.910/32, levando-se em conta que o memorando interno do INSS apenas deu cumprimento à obrigação de fazer".
+Não foram apresentadas contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA AFERIDA PELO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ.AGRAVO INTERNO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal requer o revolvimento da matéria de prova, providência inviável em sede de recurso especial em razão do óbice contido na Súmula 7/STJ.
+2.Agravo interno não provido.
+VOTO
+EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A insurgência não merece ser acolhida.
+O Tribunal de origem concluiu que o memorando expedido pelo INSS não teve o condão de interromper o prazo prescricional, nos seguinte termos:
+A ACP que dá origem à presente execução individual transitou em julgado em 30/09/2008, vindo a ser objeto de ação rescisória, a qual, por sua vez, transitou em 24/04/2013.
+Posteriormente, em 13.07.2016, foi editado Memorando Circular Conjunto nº 37/DIRBEN/PFE/INSS com o objetivo de comunicar aos órgãos internos da Administração o que deveria ser cumprido em razão do que fora decidido na ação coletiva, padronizando, dessa forma, sua aplicação.
+Portanto, o referido ato administrativo não tratou de reconhecer direito aos segurados, mas apenas de orientar os órgãos da Administração Pública responsáveis sobre o cumprimento do direito reconhecido pela Justiça, razão pela qual não se aplica o disposto no art. 202, VI, do Código Civil.
+Conclui-se, na verdade, que o fundamento para o direito invocado na presente ação decorre da própria decisão da ação civil pública. Assim sendo, não há outro parâmetro para o início da contagem da prescrição senão o trânsito em julgado Ação Rescisória nº 0019810-85.2008.4.02.0000, não havendo que se falar, sequer, em interrupção e recontagem nos termos do art. 9º do Decreto n.º 20.910/32.
+Desse modo, tendo em vista que a decisão da ACP nº 0533987-93.2003.4.02 transitou em julgado no dia 30/09/2008 e, considerando o ajuizamento da ação rescisória nº 0019810-85.2008.4.02.0000, cujo trânsito em julgado ocorreu 24/04/2013, nos termos do art. 103, da Lei nº 8.213/90 c/c a Súmula nº 150 do STF, o prazo limite para requerer as verbas decorrentes da revisão garantida pela decisão proferida na ação civil pública seria 24/04/2018.
+Logo, tendo sido a demanda originária ajuizada em 16/12/2019, o reconhecimento da prescrição é medida que se impõe.
+Como bem assinalado pela decisão ora agravada, a revisão das conclusões supratranscritas, a fim de afastarprescrição declarada, demanda a reapreciação do acervo fático e probatório valorado, o queencontra óbice na Súmula 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. IRSM. REVISÃO DOS BENEFÍCIOS SEGURADOS.PRESCRIÇÃO. OCORRÊNCIA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO.APLICAÇÃO DA SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de agravo de instrumento interposto pelo INSS contra a decisão que, nos autos do cumprimento individual de sentença coletiva, na qual foi condenado à revisão dos benefícios dos segurados pelos Índices de Reajuste do Salário Mínimo -IRSM, rejeitou a ocorrência de prescrição. No Tribunal a quo, a sentença foi reformada para reconhecer a ocorrência da prescrição. Esta Corte negou provimento ao recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria.Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "a pretensão de simples reexame de provas não enseja recurso especial".
+III - A análise do pleito recursal, da forma como posto nas razões do apelo obstado, a fim de afastar a tese de ocorrência da prescrição, demandaria incursão no conteúdo fático-probatório constante dos autos, providência vedada em recurso especial, ante o óbice estampado na Súmula n. 7 do STJ.
+IV - O acórdão recorrido tem esta fundamentação (fls. 228-229): "(..) Assim, o termo inicial do prazo prescricional deu-se na data do trânsito em julgado da ação rescisória nº 0019810-85.2008.4.02.0000 em 24.04.2013 (1ª Seção Especializada, Rel. Des. Fed. SIMONE SCHREIBER). Entretanto, com a edição do Memorando-Circular Conjunto nº 37/DIRBEN/PFE/INSS, em 13.07.2016, este restou interrompido, configurando-se, após o transcurso de dois anos e meio desta data, o termo final para a propositura do feito executivo, na data de 13/01/2019, restando resguardado o total de cinco anos, na forma do art. 9º do Dec.20.910/32  ..  Desta forma, considerando que a propositura da execução, no caso presente, ocorreu somente em 14.11.2019, deve ser reconhecido o transcurso do prazo prescricional da pretensão executória." V - A jurisprudência do STJ entende que a pendência ou o ajuizamento de obrigação de fazer não interrompe ou suspende o prazo prescricional da obrigação de dar. A propósito: (AgInt no REsp n.1.601.586/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 18/5/2020, DJe 21/5/2020 e AgInt nos EDcl no REsp n.1.342.659/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/12/2019, DJe 12/12/2019).
+VI - Agravo interno improvido.(AgInt no REsp 1932395/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/08/2021, DJe 19/08/2021)
+Assim, não tendo o agravante apresentado qualquer argumento apto ainfirmar os fundamentos da decisão hostilizada, deve ser mantida aincidência do enunciado da Súmula 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
