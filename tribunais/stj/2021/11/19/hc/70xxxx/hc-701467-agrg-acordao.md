@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ISMAEL DOS SANTOS PRAXEDES, contra decisão de fls. 42/43, por meio da qual não indeferi liminarmente ohabeas corpus.
+Nas razões do regimental, o agravante reitera as alegações relativas ao apontado excesso de prazo na formação da culpa, condições pessoais favoráveis do agente, e de ausência de fundamentação concreta que justifique a segregação antecipada, indicando não estarem presentes os requisitos previstos no art. 312 do CPP.
+Reafirma, ainda, os riscos trazidos pelapandemia da COVID-19 e aponta a maior vulnerabilidade da população carcerária, indicando a suficiência da aplicação de medidas cautelares alternativas, nos termos do art. 319 do CPP.
+Requer, assim, o provimento do presente agravo com a concessão da ordem.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. FUNDAMENTOS.MERA REITERAÇÃO DE MANDAMUS PENDENTE DE JULGAMENTO NESTACORTE SUPERIOR. INADMISSIBILIDADE. AGRAVO DESPROVIDO.
+1.Os pedidos aqui formulados são idênticosaos formulados no HC 639706/SP, o qual teve o pedido liminar indeferido, e se encontra em processamento perante esta Corte Superior, e em ambos se ataca acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2160983-41.2020.8.26.0000.Assim, diante de inadmissível reiteração de pedidos, fica obstaculizado o conhecimento deste mandamus.
+2. Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos apresentados pelo agravante, o presente agravo regimental não merece provimento, devendo a decisão ser mantida por seus próprios fundamentos.
+No caso dos autos, consoante destacado na decisão agravada,o presentewrittraz pedido idêntico ao formulado no HC 639706/SP, o qual teve o pedido liminar indeferido,e se encontra em processamento perante esta Corte Superior, e em ambos se ataca acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2160983-41.2020.8.26.0000.
+Assim, diante de inadmissível reiteração de pedidos, fica obstaculizado o conhecimento destemandamus.
+Nesse contexto, mantenho o entendimento de inadmissibilidade do conhecimento do presente writ, tendo em vista a impossibilidade de reiteração de pedidos pendentes de análise nesta Corte, conforme a jurisprudência pacífica deste Superior Tribunal de Justiça, consoante se extrai dos seguintes precedentes:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO. MATÉRIA ANALISADA EM OUTRO HABEAS CORPUS. INOBSERVÂNCIA DO PRAZO NONAGESIMAL PARA REVISÃO DA PRISÃO CAUTELAR. ART. 316 CPP. PROCESSO NA FASE DE APELAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Caso em que a prisão preventiva do agravante foi mantida na sentença pelos fundamentos do decreto inicial, o qual já havia sido objeto de análise pela Corte estadual, no julgamento do HC nº 2282010-25.2019.8.26.0000, e pelo Superior Tribunal de Justiça, no julgamento do HC 566.531/SP.
+2. É pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido. Precedente do STJ.
+3. Acerca da regra prevista no parágrafo único do art. 316 do CPP, "Nos termos do parágrafo único do art. 316 do CPP, a revisão, de ofício, da necessidade de manutenção da prisão cautelar, a cada 90 dias, cabe tão somente ao órgão emissor da decisão (ou seja, ao julgador que a decretou inicialmente)." (HC 584.354/SP, Rel.
+Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/03/2021, Dje 19/03/2021). Regra que não se aplica aos Tribunais em se de recurso, ressalvado o ponto de vista do Relator. Precedentes do STJ.
+Precedentes do STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no RHC 155.263/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 26/10/2021, DJe 3/11/2021).
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. SENTENÇA DE PRONÚNCIA. FUNDAMENTOS INALTERADOS. TESE APRECIADA NO RHC N. 111.568/PE. REITERAÇÃO DE PEDIDO. EXCESSO DE PRAZO. NÃO CONFIGURADO. FEITO COMPLEXO. COMOÇÃO SOCIAL. NECESSIDADE DE DESAFORAMENTO. NÃO CONFIGURADO.
+1. A tese de ausência de fundamentos idôneos do decreto preventivo foi objeto de exame por esta Corte Superior quando do julgamento do RHC n. 111.568/PE e, ainda que proferida sentença de pronúncia, permanecendo inalterados os fundamentos para a manutenção da prisão cautelar já apreciados, fica configurada a reiteração de pedido, razão por que não se conhece da impetração nesse tópico.
+2. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Demanda, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+3. No caso em exame, o processamento do feito se encerrou brevemente, tendo o Magistrado de primeiro grau demonstrado atuação célere nos andamentos processuais. Ademais, a delonga para o seu término se deve, como consignado, à complexidade do feito, a que respondem 4 réus com representantes distintos, à necessidade de expedição de diversos ofícios e cartas precatórias, além da análise de inúmeros pedidos de relaxamento da prisão, das várias diligências derivadas das cautelares de interceptação telefônica e de dados, da quantidade de testemunhas envolvidas que demandaram diversas audiências, bem como da realização de reprodução simulada dos fatos.
+Vale ressaltar que o julgamento pelo Júri apenas não ocorreu em razão da comoção social local causada pelo delito supostamente praticado pelo paciente, o que justificou o pedido e o deferimento do desaforamento do julgamento para comarca vizinha. Portanto, diante das especificidades e complexidades que envolvem o caso, não se constata a ocorrência de excesso de prazo para a formação da culpa.
+4. Outrossim, além de incidir o enunciado 21 da Súmula desta Corte Superior ("pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução"), não se verifica a existência de constrangimento ilegal ao direito de liberdade do paciente por ausência de desídia ou paralisação do feito pelo Juízo de origem, devendo ser preservada incólume a prisão preventiva decretada em seu desfavor.
+5. Habeas corpus conhecido em parte e, nessa parte, denegado.
+(HC 585.560/PE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 28/9/2021, DJe 6/10/2021).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
