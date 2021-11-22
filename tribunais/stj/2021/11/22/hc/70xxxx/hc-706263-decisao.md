@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor JUSCILENE DIVINO ALVES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, prolatado no julgamento do HC n. 1.0000.21.119135-8/000.
+Consta que, em decorrência de investigações policiais - que visavam apurar articulado esquema de corrupção envolvendo agentes públicos e profissionais diversos, que atuavam na prestação de serviços da Circunscrição Regional de Trânsito/CIRETRAN de Unaí/MG -, o Recorrente teve a prisão preventiva decretada, no dia 14/06/2021, pela suposta prática dos crimes de corrupção passiva majorada, corrupção ativa e organização criminosa.
+O mandado de prisão foi cumprido em 15/06/2021.
+A Defesa formulou pedido de revogação da prisão preventiva, que foi indeferido pelo Magistrado singular às fls. 174-188.
+Irresignada, impetrou habeas corpus na Corte de origem, que denegou a ordem, em acórdão assim ementado (fl. 201):
+"EMENTA: HABEAS CORPUS - ORGANIZAÇÃO CRIMINOSA E CORRUPÇÃO ATIVA - SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR PRISÃO DOMICILIAR - SUPRESSÃO DE INSTÂNCIA. REVOGAÇÃO DA PRISÃO PREVENTIVA - RISCO DE PERIGO GERADO PELO ESTADO DE LIBERDADE DO PACIENTE. GRAVIDADE CONCRETA DOS FATOS. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR MEDIDAS CAUTELARES - IMPOSSIBILIDADE. CONHECER EM PARTE DA IMPETRAÇÃO, E NA PARTE CONHECIDA, DENEGAR A ORDEM. I. Não havendo nos autos evidências de que o pedido de substituição da prisão preventiva por prisão domiciliar fora analisado pelo juízo primevo, não há como conhecer do writ, nesta parte, sob pena de supressão de instância. II. A decisão que decreta a prisão preventiva, para resguardo da ordem pública, não consubstancia constrangimento ilegal, quando embasada em atos e comportamentos concretos do imputado e do risco de perigo gerado pela liberdade deste, especialmente quando constatado, em uma análise apriorística, indícios suficientes de seu envolvimento com a atividade criminosa. III. Inviável a imposição de medidas alternativas à prisão, tendo em vista a demonstração concreta do perigo gerado pelo estado de liberdade do paciente."
+Defende a Parte Impetrante, em suma, que o Paciente está "sofrendo constrangimento ilegal motivado por excesso de prazo no recebimento da denuncia, ausência de oportunidade para apresentar resposta a eventual acusação e pela manutenção da prisão preventiva" (fl. 3).
+Busca a concessão da ordem liminarmente "para determinar a revogação da prisão preventiva, com ou sem as medidas cautelares previstas no art. 319 do CPP" (fl. 16).
+É o relatório. Decido.
+No HC n. 706.256/MG, protocolado em 12/11/2021, impugnando o mesmo acórdão originário, foi formulada idêntica pretensão, em favor doPaciente.
+Assim, o presente writ não pode ser conhecido, pois é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambosa mesma matéria.
+Ocorre que não podem ser processados nesta Corte, concomitantemente,habeas corpuse recurso ordinário emhabeas corpusnos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+Assim, concluo pela inadmissibilidade do recurso, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado emwritanteriormente impetrado nesta Corte".(AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014.)
+No mesmo sentido,v.g.: RCD no HC 423.298/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017; AgRg no HC 404.890/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/11/2017, DJe 27/11/2017.
+Ante o exposto, NÃO CONHEÇO dohabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. REITERAÇÃO DE PEDIDOFORMULADONO HC N.706.256/MG. IMPUGNAÇÃO AO MESMO ACÓRDÃO.IDENTIDADE DE PARTES, DE PEDIDOS E DECAUSA DE PEDIR. LITISPENDÊNCIA. INADMISSIBILIDADE. HABEAS CORPUSNÃOCONHECIDO.
