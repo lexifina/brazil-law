@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto porTELMA CRISTINA DA SILVA CARNEIRO E OUTRAScontra decisão monocrática que negou provimento ao agravo, proferida com a seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DANO MORAL. INEXISTÊNCIA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DOS PARTICULARES(fls. 647/652).
+2. Inconformada, noseu agravo interno (fls. 655/662), aagravante repisa as razões do seu recurso especial.
+3.A impugnação foi apresentada (fls. 665/677).
+4. É o relatório.
+EMENTA
+AGRAVO INTERNONOAGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZATÓRIA. ENERGIA ELÉTRICA. COBRANÇA EXCESSIVA. AUSÊNCIA DE COMPROVAÇÃO DO DANO MORAL.  INVERSÃO  DO  JULGADO.  INVIABILIDADE.  REEXAME  FÁTICO-PROBATÓRIO.  SÚMULA  7/STJ.AGRAVO INTERNO DOS PARTICULARESDESPROVIDO.
+1.O agravo interno não trouxe argumentos novos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar as teses já veiculadas no especial.
+2. O entendimento firmado pela Corte de origem encontra-se amparado nos elementos fático-probatórios dos autos.Assim, a adoção de entendimento diverso quanto àexistência do dano moral, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+3.Agravo Interno dos particularesnão provido.
+VOTO
+1.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+2. Debruçando-se sobre o tema, a Corte de origem concluiu o que se segue:
+E também no que diz respeito à indenização de cunho moral, deve ser mantida a sentença recorrida, com esteio na jurisprudência majoritária deste eg. Tribunal. Isto porque o dano moral conceitua-se como a ofensa a qualquer aspecto extrapatrimonial da personalidade, contanto que grave o suficiente para ser considerada lesiva à dignidade humana. Em consequência, toda e qualquer circunstância que atinja a pessoa em sua condição humana, que pretenda tê-la como objeto, que lesione algum dos aspectos ou substratos que compõem ou conformam a dignidade humana, isto é, a liberdade, a igualdade, a solidariedade ou a integridade psicofísica de uma pessoa, será considerada violadora de sua personalidade e, se concretizada, causadora de dano moral. Na hipótese, os elementos constantes dos autos não dão azo a que se condene a parte ré ao pagamento de verba reparatória de dano moral, na medida em que não houve a suspensão no fornecimento de energia elétrica na residência das autoras, nem a inscrição de seus nomes nos cadastros protetivos. Com efeito, a ausência de efetiva repercussão negativa nos sentimentos subjetivos de honra, imagem e autoestima não autoriza o pleito indenizatório, sob pena de se banalizar a caracterização de dano moral (fls. 538/539).
+3. Com efeito, o Tribunal de origem reconheceu que a ausência de efetiva repercussão negativa nos sentimentos subjetivos de honra, imagem e autoestima não autoriza o pleito indenizatório. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+4. Nesse sentido, cito os seguintes julgados deste Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TELEFONIA. INEXISTÊNCIA DE DANO MORAL INDENIZÁVEL. REVALORAÇÃO DE FATOS E PROVAS. DESCABIMENTO. IMPOSSIBILIDADE DE REVISÃO DO ACERVO PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se conhece do apelo extremo quando o exame das teses levantadas pelo recorrente exige a revisão do acervo fático-probatório. Incidência da Súmula 07/STJ.
+2. Agravo interno não provido (AgInt no AREsp1804442/ES, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/05/2021, DJe 27/05/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. PROFESSORA MUNICIPAL APOSENTADA. REVISÃO DA PROGRESSÃO FUNCIONAL. DANO MORAL. INEXISTÊNCIA. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A desconstituição das premissas lançadas pelas instâncias ordinárias, acerca da inexistência de dano moral indenizável, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+2. Agravo interno não provido (AgInt no AREsp1782262/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/05/2021, DJe 14/05/2021).
+5.Ante o exposto, negoprovimento ao Agravo Interno dos particulares.
+6. É como voto.
