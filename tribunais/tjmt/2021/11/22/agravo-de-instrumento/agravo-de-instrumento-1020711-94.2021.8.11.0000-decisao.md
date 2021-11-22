@@ -1,0 +1,35 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) No 1020711-94.2021.8.11.0000
+AGRAVO DE INSTRUMENTO 1020711-94.2021.8.11.0000
+AGRAVANTE: RICARDO TADEU OSSANI
+AGRAVADO: COFCO INTERNATIONAL GRAINS LTDA.
+Cuida-se de Agravo de Instrumento interposto por Ricardo Tadeu Ossani, contra decisão que rejeitou Exceção de Pré-Executividade ajuizada em desfavor de COFCO INTERNATIONAL GRAINS LTDA., converteu a obrigação de entrega de coisa em quantia certa, deixou de reconhecer a conexão e reunião da demanda executiva com a Ação de Rescisão de Contrato no 1000136 -08.2021.8.11.0019.
+Reclama que a conversão da execução para Entrega de Coisa por Quantia Certa, se trata de decisão surpresa que viola o disposto nos artigos 9o e 10o do CPC, porquanto era necessária a intimação prévia do agravante acerca do pedido da exequente, ora agravada, em homenagem ao artigo 5o, LV da Constituição Federal.
+Afirma o prejuízo decorrente da decisão, porque se tivesse oportunizado ao Executado, ora Agravante manifestar-se acerca da aludida conversão poderia ter demonstrado que o preço do produto indicado pela Exequente não corresponde com a média de mercado, além de que justificaria que não pode ser considerado como inadimplida a quantidade referente a “perdas e danos”, máxime porque não houve a sua efetiva comprovação no processo.
+Informa que em 02/04/2020 as partes firmaram o “Contrato de Compra de Soja em Grãos no 0005468 -139”, em que o produto negociado é a quantidade de 1.200.000kg de soja em grãos, referente a safra 2020/2021, ao valor de R$ 80,00 (oitenta reais) por cada saca de 60kgs, pelo qual a agravada deveria pagar R$1.600.000,00.
+Reclama que fora concedida a liminar e o Executado/Agravante citado para a entrega da quantidade de soja em grãos, sem que o Exequente/Agravada tenha depositado o valor referente a sua contraprestação, qual seja, a quantia de R$ 1.600.000,00 (um milhão e seiscentos mil reais).
+Assevera que, diferente do entendimento da decisão recorrida, a ausência de contraprestação da agravada, é matéria de ordem pública, que não depende de dilação probatória (artigo 803, I, do CPC) a ser examinada em sede de exceção de pré-executividade, porque constitui condição de exigibilidade do contrato.
+Sustenta que é inadmissível que uma das partes pleiteie o cumprimento do contrato sem antes efetivar a obrigação assumida (artigo 476 do CC e artigo 798, I, “d”, do CPC).
+Destaca que, no caso, o contrato dispõe que a soja deveria estar disponível desde 01/03/2021 e a retirada do produto pela agravada poderia ocorrer até 10/03/2021, no armazém da Fazenda Palmar, no município de Porto dos Gaúchos/MT, enquanto o pagamento seria feito até 19/03/2021, ou seja, primeiro o Agravante deveria entregar a soja para depois ser efetuado seu pagamento. Contudo, mesmo diante da referida cláusula, argumenta que não pode a exequente exigir o cumprimento do pacto sem antes cumprir sua parte na avença.
+Assegura que a caução ofertada consistente em seguro garantia judicial de R$2.080.000,00, não atrai exigibilidade ao título executivo, porquanto não se trata de pagamento, apenas caução, com prazo de vigência até 09-4-2023, o que evidencia a necessidade de que seja reconhecida a nulidade da execução, nos termos do artigo 803, I, do CPC, frente a ausência de exigibilidade do título.
+No que tange a multa diária, aduz que na ação que tenha por objeto o cumprimento de obrigação de fazer ou não fazer, pode ser modificada a qualquer tempo, inclusive por meio de Exceção de Pré-Executividade.
+No ponto, aduz que em decorrência dos altos índices de pluviometria que assolaram o Estado de Mato Grosso, o Executado/Agravante teve uma quebra técnica de aproximadamente 73.600 (setenta e três mil e seiscentas) sacas de soja, o que lhe impossibilitou de honrar com os compromissos firmados com a Exequente no “Contrato de Compra de Soja em Grãos no 0005468 -139”.
+Anota que diante da impossibilidade de cumprimento das obrigações assumidas, anteriormente à propositura desta execução, o ora agravante ingressou com Ação de Rescisão de Contrato no 1000136 - 08.2021.8.11.0019, em trâmite perante esta Vara Única da Comarca de Porto dos Gaúchos/M, por meio da qual demonstrou de forma satisfatória que, por motivos alheios a sua vontade, restou impossibilitado de cumprir com a obrigação firmada.
+Assevera que há justa causa no descumprimento do pacto, o que impõe a reforma da decisão na parte que impôs multa diária decorrente da não entrega do produto em favor da agravada, especialmente porque o objetivo da multa imposta não é penalizar a parte, mas imprimir efetividade à decisão mandamental, o que autoriza sua exclusão por força no disposto no artigo 537, §1o, inciso II, do CPC.
+Afirma, ainda, que o valor da multa diária é excessivo, fere o princípio da proporcionalidade e razoabilidade. De modo que, caso mantida a fixação, deve ser reduzido seu quantum, sob pena de acarretar enriquecimento ilícito da agravada.
+Por fim, sustenta a necessidade de reunir a presente execução e a Ação de Rescisão de Contrato” no 1000136 -08.2021.8.11.0019, porquanto ambas demandas têm como discussão o mesmo objeto, qual seja, o “Contrato de Compra de Soja em Grãos no 0005468-39, a fim de evitar a prolação de decisões conflitantes (artigo 55, §2o, inciso I, do CPC).
+Requer a antecipação dos efeitos da tutela a fim de que seja suspenso o trâmite do feito executivo, sob pena de ver expropriado bens com base em contrato que não ostenta exigibilidade, além de que a decisão converteu a obrigação de entrega de coisa em quantia certa, sem oportunizar o contraditório e ampla defesa do agravante.
+É o necessário relato.
+Decido.
+Busca o agravante Ricardo Tadeu Ossani a suspensão do trâmite da ação de execução no 1000188-04.2021.8.11.0019, que lhe move a ora agravada COFCO INTERNATIONAL GRAINS LTDA, em síntese, ao argumento de inexigibilidade do contrato de compra e venda de soja firmado entre as partes decorrente da ausência de contraprestação da ora agravada e demais matérias suscitadas em sede de exceção de pré-executividade, mas não conhecidas na decisão impugnada (id 68920084 na origem).
+Para a concessão antecipada da tutela pretendida no recurso de agravo de instrumento, prevista no artigo 1.019, inciso I, do CPC, faz-se necessária a presença dos requisitos previstos no parágrafo único do artigo 995, do CPC, vale dizer, quando houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+No caso em exame, em que pese os argumentos do recorrente, não se visualizam elementos suficientes a provocar, em sede de antecipação dos efeitos da tutela, a liminar pretendida, em especial porque não se divisa prejuízo de difícil ou incerta reparação, com o exame da matéria relegada à apreciação do Colegiado.
+Mostra-se prudente, portanto, manter os efeitos da decisão impugnada, até o pronunciamento definitivo da Câmara.
+Posto isso, indefere-se a antecipação de tutela postulada.
+Intime-se a agravada para apresentar contraminuta.
+Cuiabá, 22 de novembro de 2021.
+Des. Guiomar Teodoro Borges
+Relator
+4
