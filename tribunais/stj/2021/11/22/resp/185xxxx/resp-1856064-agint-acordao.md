@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO:
+1. Cuida-se de agravo interno interposto por TG RIO DE JANEIRO EMPREENDIMENTOS IMOBILIARIOS S. A, em face de decisão que negou provimento ao recurso especial, nos termos da seguinte ementa (fl. 1502):
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INVENTÁRIO. TERCEIRO INTERESSADO. PLEITO DE EXPEDIÇÃO DE MANDADO DE PAGAMENTO DE VALOR DECORRENTE DE ARREMATAÇÃO DE IMÓVEL ALIENADO FIDUCIARIAMENTE PELO INVENTARIADO. DECISÃO DE INDEFERIMENTO. FALTA DE PREQUESTIONAMENTO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+2. Na hipótese, não há, por parte da decisão proferida na origem qualquer consideração mais detalhada acerca do negócio jurídico pactuado entre as partes, alienação fiduciária, que subsidia o pedido da recorrente, consistente da devolução do valor oriundo da venda do imóvel, objeto daquela pactuação. O acórdão, em momento algum, sequer trata das questões disciplinadas nos arts. 22 e 25 da Lei n. 9514/1997, dispositivos que a recorrente alega terem sido violados.
+3. Recurso especial não provido.
+Nas razões deste recurso, a agravante afirma quea "r. decisão agravada identificou o ponto central da controvérsia, mas se apoiou em premissas equivocadas para indicar que (i) não haveria prequestionamento na hipótese e, ainda, (ii) os desdobramentos da alienação fiduciária já teriam sido avaliados em demanda distinta".
+Volta a impugnar os termos do acórdão proferido pelo tribunal a quo, no sentido de que, considerando que o imóvel foi leiloado sem que houvesse o pagamento da integralidade da dívida garantida pela alienação fiduciária, a legítima proprietária do bem e a titular dos frutos da arrematação - uma vez quitadas as cotas condominiais devidas - era exclusivamente a TEGRA.Afirma que tanto o acórdão que julgou o agravo de instrumento da TEGRA, na origem, quanto o acórdão que rejeitou seus embargos de declaração, avaliaram a matéria suscitada no recurso especial, "ainda que sem menção expressa aos dispositivos legais e de forma contrária ao entendimento da Agravante".
+Acrescenta quenão se aplica ao caso, nem por analogia, a Súmula 282 do STF, tendo sidoprequestionada a questão recursal.Aduz que o art. 1.025 do CPC dispõeque "consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins depré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+Por fim, requer sejaapreciado o pedido de efeito suspensivo e de antecipação de tutela recursal formulados no recurso especial e, novamente, por meio da petição de fls. 1.410/1.414.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE INVENTÁRIO. TERCEIRO INTERESSADO. PLEITO DE EXPEDIÇÃO DE MANDADO DE PAGAMENTO DE VALOR DECORRENTE DE ARREMATAÇÃO DE IMÓVEL ALIENADO FIDUCIARIAMENTE PELO INVENTARIADO. DECISÃO DE INDEFERIMENTO. FALTA DE PREQUESTIONAMENTO. EFEITO SUSPENSIVO. PREJUDICADO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+2. Na hipótese, não há, por parte da decisão proferida na origem qualquer consideração mais detalhada acerca do negócio jurídico pactuado entre as partes, alienação fiduciária, que subsidia o pedido da recorrente, consistente da devolução do valor oriundo da venda do imóvel, objeto daquela pactuação. O acórdão, em momento algum, sequer trata das questões disciplinadas nos arts. 22 e 25 da Lei n. 9514/1997, dispositivos que a recorrente alega terem sido violados.
+3.Consoante a orientação desta Corte, ocorre a carência superveniente de interesse processual, do pedido de atribuição de efeito suspensivo, quando julgado o recurso no qual aquele foi formulado.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. O recurso não prospera.Conforme decidido às fls. 1502-1506, consta dos autos que a ora recorrente interpôs agravo de instrumento em face do ora recorrido, sob o argumento de que "no âmbito do inventário dos bens de José Alberto Aires Pinto, que se encontra na origem, foi arrolado, por ocasião das primeiras declarações, bem imóvel que, na verdade, era de propriedade TEGRA, em razão de sua alienação fiduciária, sendo devedor fiduciante o INVENTARIADO" (fl. 7).
+Na petição do recurso, afirmou (fls. 8-9):
+O referido bem foi objeto de penhora e posterior leilão no âmbito da ação nº 0010229- 91.2008.8.19.0209, referente à cobrança de cotas condominiais daquela unidade imobiliária, tendo esse E. TJRJ, em sede de agravo de instrumento, determinado a transferência do saldo remanescente para o inventário que se encontra na origem, a fim de satisfazer os demais credores do INVENTARIADO, bem como pagar a meação de sua companheira (cf. decisão desse E. TJRJ às fls. 998/1.000 - Doc. 01), tudo em franca violação dos direitos do credor fiduciário que (i) não só teve seu patrimônio expropriado por dívida de terceiro. como (ii), em seguida, viu o saldo do produto daquela expropriação ser revertido em beneficio de outros credores daquele terceiro.
+Com efeito, considerando-se que o imóvel ainda não havia sido quitado pelo de cujus, vigendo então sua alienação fiduciária em favor da TEGRA, esta apressou-se em buscar proteção jurisdicional no sentido de que seu patrimônio não fosse completamente dilapidado, d. v., por erro judiciário.
+De fato, o MM. Juízo a quo já havia, inclusive, autorizado o levantamento por três pessoas dos valores (produto do leilão de seu imóvel) que pertencem exclusivamente à TEGRA.Foi assim que a Agravante se apresentou nos autos do inventário (fls. 1.139/1.145 - Doc. 01) e requereu:
+(i) a intimação dos destinatários dos mandados de pagamento para providenciarem a imediata devolução dos valores já levantados, a saber:
+(..)
+(ii) a expedição de mandado de pagamento do valor do saldo remanescente originário do leilão do imóvel, pois os valores decorrentes da arrematação pertencem à TEGRA.
+Com base nas premissas acima postas, a agravante pleiteouo reconhecimento do seu direito sobre os valores oriundos do leilão do imóvel alienado fiduciariamente pelo inventariado.
+3. Para esclarecimento,reproduziu-se o seguintetrecho do acórdão impugnado. Confira-se (fls. 1364-1367):
+Da análise de fls. 1.049/1.051 de índex 1.022, se verifica que o agravante figurou como terceiro interessado na Ação de Cobrança nº 0010229- 91.2008.8.19.0209 e no Agravo de Instrumento nº 0052462-75.2013.8.19.0000, sendo que nesse recurso restou consignado que seu direito sobre o saldo devedor apurado no imóvel leiloado deveria ser requerido nos autos da ação de inventário, razão pela qual assim procedeu.
+Destaque-se que a matéria objeto do referido julgado restou preclusa.
+Nada obstante, mesmo com a determinação judicial de que o pleito de liberação em relação ao seu crédito se desse no juízo do inventário, a r. decisão recorrida teria cuidado de indeferir o pleito do ora agravante, razão pela qual interpôs o presente recurso.
+(..)
+Em 11/10/2017 (fl. 1.161 de índex 1.141), o agravante tornou a se manifestar nos autos de inventário para alegar que fazia jus ao valor fruto da arrematação realizada no âmbito do Processo nº 0010229-91.2008.8.19.0209, tendo em vista que seria o proprietário do imóvel, o que foi reiterado em 24/07/2018 (fl. 1.204 de índex 1.179) e nos embargos de declaração opostos em 11/09/2018 (índex 1.225 de índex 1.220).
+Ocorre que diante da alienação do imóvel no bojo da Ação de Cobrança nº 0010229-91.2008.8.19.0209, em que, inclusive já foi comunicada a baixa da alienação para fins de cancelamento da averbação no registro imobiliário, não mais subsiste o negócio fiduciário entabulado pelo inventariado JOSÉ ALBERTO AIRES PINTO e o recorrente.
+Não há que se falar em descumprimento da ordem expressa desse Egrégio Tribunal de Justiça, tendo em vista que a determinação de que o agravante deverá habilitar seu crédito em face do espólio não confronta com o que restou determinado no Agravo de Instrumento nº 0052462-75.2013.8.19.0000, interposto no bojo da Ação de Cobrança. Vejamos:
+(..)
+Assim, a providência requerida pelo recorrente deverá seguir o disposto no artigo no artigo 642, do Código de Processo Civil, que prevê o procedimento próprio de habilitação de crédito em inventário, nos exatos termos aduzidos na decisão vergastada.
+Em outros termos, tal dispositivo legal dispõe que o requerimento de habilitação deverá ser formulado em momento anterior a partilha, por meio de petição acompanhada da prova literal da dívida, sendo distribuído por dependência e autuado em apenso aos autos de inventário, de modo a resguardar o direito de todos os credores do espólio no que tange à satisfação de seus créditos.
+(..)
+Destarte, não merece reforma a decisão agravada.
+Da leitura do excerto reproduzido, nota-se que o acórdão recorrido não se manifestou acerca de questão essencial à solução da lide, a impossibilitar a análise efetiva da demanda por este Tribunal, configurando-se, antes, falta deprequestionamento.
+Como se sabe, o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial.
+Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+De fato, não há, por parte da decisão proferida na origem qualquer consideração mais detalhada acerca do negócio jurídico pactuado entre as partes, alienação fiduciária, que subsidia o pedido da recorrente, consistente da devolução do valor oriundo da venda do imóvel, objeto daquela pactuação.
+O acórdão, em momento algum, sequer trata das questões disciplinadas nos arts. 22 e 25 da Lei n. 9514/1997, dispositivos que a recorrente alega terem sido violados. O que se depreende do julgado a quo é que a decisão considerou o fato de que o negócio jurídico havido entre as partes, que a recorrente utiliza para fundamentar seu pedido de crédito, foi oportunamente analisado na ação de cobrança, da qual participou como interessado.
+Importante que se diga que não há desconsideração da existência da alienação fiduciária por parte do acórdão recorrido, mas este apenas reconhece que os desdobramentos daquela pactuação já teriam sido oportunamente avaliados, em ação judicial, com presença da recorrente, inclusive. Saliente-se, por fim, que a recorrente não alega em sua petição qualquer omissão do acórdão recorrido na análise do agravo de instrumento interposto.
+4. Acerca da apreciação do pedido de efeito suspensivo, tal como já asseverado na decisão ora agravada, ressalte-se que,julgado o recurso, o requerimento fica prejudicado por perda de objeto.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO.PREJUDICIALIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+V - Consoante a orientação desta Corte, ocorre a carência superveniente de interesse processual, do pedido de atribuição de efeito suspensivo, quando julgado o recurso no qual aquele foi formulado.
+(..)
+VIII  Agravo Interno improvido e pedido de atribuição de efeito suspensivo prejudicado.
+(AgInt no AREsp 1814223/RO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 07/06/2021, DJe 09/06/2021)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO EM PEDIDO DE TUTELA PROVISÓRIA. CONCESSÃO DE EFEITO SUSPENSIVO. JULGAMENTO DO RECURSO. TUTELA E AGRAVO INTERNO PREJUDICADOS.
+1. O Agravo em Recurso Especial ao qual se pretendia atribuir efeito suspensivo não foi conhecido. Portanto, deve ser reconhecida a perda de objeto da Tutela de Urgência e do correspondente Agravo Interno.
+2. Agravo Interno prejudicado.
+(EDcl no TP 2.140/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/06/2020, DJe 09/06/2020)
+5. Ante o exposto, nego provimento ao agravo interno.
+É o voto.
