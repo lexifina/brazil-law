@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de ALESSANDER DA SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, mais pagamento de 583 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+Neste habeas corpus, alega o impetrante ser inidônea a exasperação da pena-base com amparo na natureza do entorpecente, sobretudo por ser ínfima a quantidade apreendida.
+Requer, assim, a redução da sanção inicial ao mínimo legal.
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 56-61).
+É o relatório.
+Decido.
+Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/ Esta 2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Assim, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao negar provimento ao apelo defensivo, manteve a sanção imposta com base nos seguintes fundamentos:
+"4. A respeito da dosimetria, o Magistrado de Primeiro Grau exasperou a reprimenda em 1/6 por compreender que "A natureza das substâncias comercializadas pelo réu justifica um incremento na aplicação da pena, tendo em vista que comercializava cocaína e crack, substâncias de efeitos devastadores e de alto poder viciante".
+O Recorrente postula o afastamento dessa circunstância negativa porque "tais aspectos dizem respeito ao próprio tipo penal e o legislador não distinguiu o grau de lesividade das modalidades de ditas drogas, razão porque a pena base deve ser fixada no seu mínimo".
+Mais uma vez sem razão.
+O Legislador expressamente dispôs que "O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente" (Lei 11.343/06, art. 42).
+Não se olvida que, considerando apenas as espécies de entorpecentes, é possível, em abstrato, criar uma gradação de reprovabilidade na narcotraficância.
+Crack tem maior potencial destrutivo do que maconha, cocaína pode ser mais danosa do que ácido lisérgico, e por aí vai.
+É importante destacar, ainda, que "não há necessidade de o magistrado ostentar conhecimento técnico, científico, para inferir os efeitos deletérios e o alto poder de nocividade de certa modalidade de entorpecente, visto que se trata de informação pública e notória" (TJSC, Ap. Crim. 0000004-56.2018.8.24.0036, Rel.
+Des. Carlos Alberto Civinski, j. 20.9.18).
+Portanto, deve ser mantido o incremento, nos termos do art. 42 da Lei 11.343/06, em razão da natureza nociva da droga, acrescentando-se que sua variedade e quantidade (26,1g de cocaína e 17,7g de crack), demonstram a proporcionalidade do incremento.
+Logo, mantém-se a reprimenda basilar em 5 anos e 10 meses de reclusão e 583 dias-multa.
+Na segunda etapa, permanece hígido o incremento, também na proporção de 1/6, em razão da reincidência de Alessander da Silva: condenação pela prática do crime de apropriação indébita circunstanciada, proferida nos autos 0008659-09.2015.8.24.0008, cuja pena foi extinta em 8.10.19 (Evento 3 dos autos em apenso).
+Inalterada, portanto, a pena intermediária, fixada em 6 anos, 9 meses e 20 dias de reclusão e 583 dias-multa.
+Na última etapa, não incidiram causas de aumento de pena" (e-STJ, fls. 37-38)
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, as instâncias ordinárias, atentas às diretrizes do art. 42 da Lei de Drogas, consideraram natureza dos entorpecentes apreendidos - 6 porções de cocaína (26,12g) e 3 de crack (17,67g) - para elevar a sanção inicial do delito de tráfico de drogas em 10 meses acima do mínimo legal.
+Assim, tendo sido apresentados elementos idôneos para a majoração da reprimenda básica, elencados inclusive como circunstâncias preponderantes, e levando-se em conta as penas mínima e máxima abstratamente cominadas ao delito de tráfico de drogas (5 a 15 anos de reclusão), não se mostra desarrazoado o aumento operado pela instância ordinária, a autorizar a intervenção excepcional desta Corte.
+Confiram-se alguns julgados que respaldam esse entendimento:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PENA-BASE. AUMENTO DE 2 ANOS PELA QUANTIDADE DE DROGAS. ART. 42 DA LEI 11.343/06. DESPROPORCIONALIDADE PATENTE NÃO EVIDENCIADA. AUSÊNCIA DE CRITÉRIO MATEMÁTICO. MINORANTE DO TRÁFICO PRIVILEGIADO AFASTADA FUNDAMENTADAMENTE. PRESENÇA DE INDICATIVOS DE DEDICAÇÃO AO TRÁFICO. REVISÃO. SÚMULA 7/STJ. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a aplicação da pena, na primeira fase da dosimetria, não se submete a um critério matemático, devendo ser fixada à luz do princípio da discricionariedade motivada do juiz, tal como realizado pela Corte a quo.
+2. O aumento da pena-base do delito de tráfico em 2 anos, em razão da grande quantidade de cocaína apreendida, não revela desproporcionalidade patente a ser revista na via do especial, em se considerando, sobretudo as penas mínima e máxima cominadas e o disposto no art. 42 da Lei 11.343/06.
+3. Devidamente fundamentada a negativa da minorante do tráfico privilegiado, pela dedicação à atividade criminosa, a pretendida revisão do entendimento encontra óbice na Súmula 7/STJ. Precedentes.
+4. Agravo regimental improvido."
+(AgRg no AREsp 1792930/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 05/03/2021);
+"REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ART. 33, § 1º, INCISO I, DA LEI N. 11.343/06. DOSIMETRIA. ELEVADA QUANTIDADE DE SUBSTÂNCIA APREENDIDA. EXASPERAÇÃO DA SANÇÃO BÁSICA. POSSIBILIDADE. INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. MINORANTE DE PENA. INAPLICABILIDADE. REGIME PRISIONAL MAIS GRAVOSO. VEDAÇÃO DA SUBSTITUIÇÃO DA REPRIMENDA. POSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 7 E 83 DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Sabe-se que a dosimetria da pena é o momento em que o juiz, dentro dos limites abstratamente previstos pelo legislador, deve eleger, fundamentadamente, o quantum ideal da sanção a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito praticado sendo que, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar para as singularidades do caso concreto.
+2. Sobre o assunto, este Superior Tribunal de Justiça firmou entendimento no sentido de que nos delitos de tráfico a quantidade e a natureza da droga apreendida preponderam sobre as demais circunstâncias do art. 59 do Código Penal e autorizam a fixação da pena-base acima do mínimo legal.
+3. Verifica-se, na espécie, que o magistrado singular exasperou a pena-base com fundamento na expressiva quantidade da substância apreendida, de modo que o Tribunal local, ao concluir pela existência de fundamentação suficientemente apta a lastrear a exasperação da pena-base, alinhou-se à jurisprudência desta Corte Superior de Justiça sobre o tema.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no AREsp 1005371/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/4/2018, DJe 25/4/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
