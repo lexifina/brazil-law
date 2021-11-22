@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por TELEFÔNICA BRASIL S.A., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"AÇÃO DE OBRIGAÇÃO DE FAZER C. C. INDENIZAÇÃO E EXIBIÇÃO DE DOCUMENTOS.
+Prestação de serviços de telefonia. Cobrança de diferença dos valores das ações adquiridas à época da aquisição de plano de telefonia. Orientações contidas no REsp nº 1033241/RS, REsp nº 1220934/RS e no REsp nº 1225166/RS, julgados sob a sistemática dos recursos representativos de controvérsia. Acórdão anterior divergente das referidas orientações do Colendo Superior Tribunal de Justiça que legitima o juízo de retratação previsto no então vigente artigo 543-C, §7º, II, do CPC/1973. Recurso provido" (fl. 210 e-STJ).
+Os embargos de declaraçãoopostos foram acolhidos para sanar omissão (fls. 427/433 e-STJ).
+Nas razões recursais (fls. 436/464 e-STJ), a recorrente alega violação dos arts. 7º, 8º, 23, § 2º, e 170 da Lei nº 6.404/1976 e art. 489, inciso II e § 1º, inciso V, do Código de Processo Civil de 2015, bem como divergência jurisprudencial. Sustenta, em síntese, que o acórdão recorrido
+"(..) incorreu afronta a requisito essencial da sentença: qual seja a fundamentação sobre as questões de fato, que justamente apresentam o discrimen deste caso concreto, ignorando a distinção já consolidada no E. STJ entre contrato de participação financeira PEX e PCT.
+In casu, há importante peculiaridade ignorada pelo acórdão recorrido, qual seja, o fato de a contratação da parte autora ter sido realizado diretamente com construtora local, com a construção de planta comunitária (PCT), a qual apresenta inúmeras peculiaridades. (..)
+(..)
+Em resumo, o entendimento firmado pelo E. Tribunal a quo é de que a data da "integralizacão"corresponderia à data do "desembolso"dos valores, mesmo em contratos de PCT (Planta Comunitária de Telefonia), como o da ora recorrida.
+Mas, como é ressabido, "integralização"consiste em conceito elementar de direito societário que se refere ao momento em que o valor correspondente às ações emitidas efetivamente ingressa no patrimônio da companhia. Nos contratos de PCT, tal incremento ao patrimônio da companhia só ocorria na data da "incorporação"da planta comunitária construída (ou seja, ocorria integralização de capital em bens, regulada pelos arts. 7º, 8º, 24 e 170 da Lei das S/A).
+Assim, com dito entendimento, data máxima venia, o r. acórdão recorrido violou os dispositivos legais em epígrafe, que exigem a exata correspondência entre o valor das ações emitidas e o valor acrescido ao patrimônio da companhia.
+(..)
+No caso dos contratos PCT, em que era integralizada a rede de telefonia e não dinheiro, por expressa imposição legal, a emissão das ações, por óbvio, só poderia ser realizada depois de incorporado o património no capital da Companhia. Por conseguinte, por expressa vedação legal, não é compatível com a legislação brasileira a interpretação de que a integralização se dá no momento da assinatura do contrato com a construtora local" (fls. 443/448 e-STJ).
+Sem contrarrazões (fl. 578 e-STJ).
+O recurso foi admitido às fls. 579/583 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso merece prosperar.
+Com efeito, ao entender que "(..) o valor patrimonial deve ser apurado com base no balancete do mês de novembro de 1994"(fl. 433 e-STJ), o tribunal local distanciou-se da jurisprudência desta Corte Superior.
+Está incontroverso nos autos que o pedido de complementação de ações formulado na inicial é decorrente de contrato na modalidade de Planta Comunitária de Telefonia (PCT).
+Nesse tipo de contrato, a data de integralização, efetuada sob a forma de dação de bem, deve corresponder à data de incorporação da rede ao acervo patrimonial da companhia telefônica, após construída e avaliada, sendo este, portanto, o momento que deve ser considerado para a finalidade de emissão das ações.
+Assim, afasta-se a data em que a rede foi contratada e paga pela acionista, como determinado pelo aresto recorrido.
+A propósito:
+"RECURSO ESPECIAL. DIREITO CIVIL E EMPRESARIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA EM EMPRESA DE TELEFONIA. COMPLEMENTAÇÃO DE AÇÕES. PLANTA COMUNITÁRIA DE TELEFONIA - PCT. CRITÉRIO DO BALANCETE MENSAL. SÚMULA 371/STJ. INAPLICABILIDADE.
+1. Controvérsia acerca da aplicação do critério do balancete mensal a um contrato de planta comunitária de telefonia - PCT com previsão de retribuição de ações condicionada à integralização do capital mediante dação da planta comunitária à companhia telefônica, nos termos da Portaria 117/1991 do Ministério das Comunicações.
+2. Nos termos da Súmula 371/STJ: "nos contratos de participação financeira para a aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização".
+3. Na linha da jurisprudência desta Corte Superior, a data da integralização, mencionada na Súmula 371/STJ, é a data do pagamento do preço estabelecido no contrato, ou a do pagamento da primeira parcela, no caso de parcelamento.
+4. Particularidade dos contratos da modalidade PCT, em que a integralização do capital não se dá em dinheiro, no momento do pagamento do preço, mas mediante a entrega de bens, em momento posterior ao pagamento do preço, com a incorporação da planta comunitária ao acervo patrimonial da companhia telefônica.
+5. Necessidade de prévia avaliação e de aprovação da assembleia geral da companhia, para a integralização do capital em bens ("ex vi" do art. 8º da Lei 6.404/1976).
+6. Inviabilidade de aplicação da Súmula 371/STJ aos contratos de participação financeira celebrados na modalidade PCT.
+7. Precedente específico da QUARTA TURMA desta Corte Superior no mesmo sentido.
+8. RECURSO ESPECIAL PROVIDO" (REsp 1.742.233/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 2/10/2018, DJe 8/10/2018).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COBRANÇA. PROGRAMA COMUNITÁRIO DE TELEFONIA (PCT). CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AQUISIÇÃO DE LINHA TELEFÔNICA. APORTE FINANCEIRO DE PROMITENTES ASSINANTES. SUBSCRIÇÃO ACIONÁRIA. INCORPORAÇÃO DA PLANTA TELEFÔNICA AO PATRIMÔNIO DA CONCESSIONÁRIA. CRITÉRIO DE RETRIBUIÇÃO EM AÇÕES.
+1. No Programa Comunitário de Telefonia (PCT), os adquirentes de linhas telefônicas celebraram contratos com as construtoras, pagando o preço com elas combinado. Não houve pagamentos por eles feitos à concessionária do serviço público de telefonia. Esta comprometeu-se a interligar as plantas telefônicas ao seu sistema, prestar o serviço telefônico e incorporar as plantas ao seu patrimônio (aumento de capital), retribuindo aos titulares das linhas telefônicas, mediante subscrição de ações, o valor de avaliação do bem incorporado. A subscrição tinha por base o valor de avaliação do bem indivisível incorporado (planta), dividido pelo número de adquirentes de linhas telefônicas.
+2. A incorporação da planta telefônica não se deu quando dos aportes financeiros à construtora realizados pelos aquirentes das linhas, do que decorre a impropriedade de se pretender utilizar os valores de tais aportes, e as datas em que realizados, como balizas para o cálculo do quantitativo de ações. Na época dos aportes, as plantas não existiam, a significar que, ausente patrimônio a incorporar, não houvera ainda integralização, da qual dependia a avaliação e a contraprestação em ações.
+3. O aumento de capital deu-se com a incorporação da planta telefônica ao patrimônio da ré. Nos termos do artigo 8º, §§ 2º e 3º, da Lei 6.404/1976, o cálculo do número de ações a serem subscritas em favor de cada titular de linha telefônica deve levar em conta o valor de avaliação do bem incorporado.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 1.166.343/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 7/6/2018, DJe 14/6/2018).
+Ante o exposto, dou provimento ao recurso especial para julgar improcedentes os pedidos formulados na inicial, devendo a parte recorrida arcar com as custas processuais e os honorários advocatícios, estes fixados em 15% (quinze por cento) sobre o valor da causa, nos termos do art. 85, § 2º, do Código de Processo Civil de 2015, respeitado o benefício da justiça gratuita, se houver.
+Publique-se.
+Intimem-se.
