@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de agravos em recurso especial interpostos por EDUARDO LUCANO DOS REIS DA PONTE e LENA RUBIA FERREIRA DE JESUS PONTE, contra decisão que negou seguimento a recurso especial ambos com fundamentado naalínea"a"do permissivo constitucional.
+Por meio da petição de fls. 1774/1776, e-STJ, o Dr. Maurício da Silva Santos, noticia o falecimento do agravado EDWARD OMPEU DOS REIS DA PONTE, razão pela qual, foi determinada a suspensão do processo. Todavia, conforme certidão de fl. 1781, e-STJ, não houve qualquer manifestação no tocante à regularização do polo passivo da demanda.
+Tendo em vista o princípio da cooperação (art. 6º do CPC/15) e a infrutífera diligência para regularização processual, intime-se o Dr. Maurício da Silva Santos (OAB/DF 59.548), o Dr. Philippe Vieira Nantes (OAB/DF 196.688) ea Dra.Maria Beatriz Pinto Peixoto Fenizola Bastos Monteiro (OAB/RJ 56.557, através das partes que patrocinam, para que informem sobre eventuais providências judiciais tomadas, no processo originário, para correção do polo passivo da demanda, bem como o endereço atualizado de herdeiros habilitados, no prazo de 30 (trinta) dias.
+Publique-se. Intimem-se.
