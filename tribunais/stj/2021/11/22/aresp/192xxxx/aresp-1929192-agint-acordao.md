@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Cuida-se de agravo interno interposto por Edmar André da Silva e outrocontra decisão exarada pela Presidência desta Corte Superior, que não conheceu do agravo em recurso especial manejado pela parte ora agravante, com base na Súmula 281/STF.
+A parte agravante, em suas razões, afirma que não há falar na incidência do referido óbice sumular na hipótese, sustentando, em síntese, que "cabia ao Vice-Presidente do TJGO conceder prazo para os Recorrentes ajustarem o recurso interposto, aplicando-se o princípio da fungibilidade." (fl.195), sendo certo que "É plenamente possível verificar pelos documentos acostados aos autos, que a empresa Executada se encontra ativa, não podendo prevalecer a conclusão do ato objurgado, de direcionamento da execução fiscal, aos sócios da mesma." (fl.196) e "Ademais, não faz-se necessária a incursão no conjunto fático-probatório dos autos, tendo em vista a clara e evidente violação aos dispositivos legais que preveem a necessidade de demonstrar o desvio de finalidade da empresa para autorizar a desconsideração da personalidade jurídica, o que não ocorreu no caso em tela." (fl.207).
+Requer a reconsideração da decisão agravada ou a submissão da insurgência ao órgão colegiado.
+Aberta a vista à parte agravada (fl. 213), foi apresentada impugnação às fls. 217/222.
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA. INTERPOSIÇÃO DE RECURSO ESPECIAL. DESCABIMENTO. NÃO EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 281 DO STF. INCIDÊNCIA.
+1. Não é cabível o recurso especial interposto desafiando decisão monocrática de relator que, com base no art. 932, IV, a, do CPC, julga o recurso de agravo de instrumento, ante a falta de exaurimento da instância ordinária. Incidência, à espécie, da Súmula 281/STF ("É inadmissível o recurso extraordinário, quando couber, na Justiça de origem, recurso ordinário da decisão impugnada."). Precedentes: AgInt no AREsp 1.836.006/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/9/2021, DJe 20/9/2021; AgInt no AREsp 879.030/RO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/5/2020, DJe 25/5/2020; AgInt no AREsp 1.267.031/CE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/6/2018, DJe 26/6/2018; AgInt no AREsp 927.666/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/11/2016, DJe 25/11/2016; e EDcl no AREsp 406.772/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 5/12/2013, DJe 13/12/2013.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados (fls. 190/191):
+Cuida-se de agravo interposto por WINDER ANDRE DA SILVA e OUTRO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de WINDER ANDRE DA SILVA e OUTRO, o recurso especial foi interposto contra decisão monocrática proferida pelo Tribunal a quo.
+Consoante entendimento firmado pelo Supremo Tribunal Federal, é necessário que a parte interponha todos os recursos ordinários no Tribunal de origem antes de buscar a instância especial (Súmula n. 281 do STF).
+É, pois, pacífico o entendimento do STJ de que a interposição do recurso especial pressupõe o julgamento da questão controvertida pelo órgão colegiado do Tribunal de origem. Nesse sentido, o AgInt nos EDcl no AREsp 1571531/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 20/5/2020.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+Como consignado na decisão ora objurgada, o recurso de agravo de instrumento foi julgado monocraticamente pelo relator, nos termos do art. 932, IV, "a", do CPC (fls. 90/97). Contra a mencionada decisão foi interposto recurso especial (fls. 104/116). Nesse contexto, o apelo nobre não pode ser conhecido, ante o óbice da Súmula 281/STF ("É inadmissível o recurso extraordinário, quando couber, na Justiça de origem, recurso ordinário da decisão impugnada.").
+Em reforço, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA. INCIDÊNCIA DA SÚMULA 281 DO STF, POR APLICAÇÃO ANALÓGICA. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Segundo entendimento desta Corte, "não é possível o conhecimento do recurso especial na hipótese em que o recurso interposto na origem foi julgado por decisão monocrática do relator, sem a manifestação do órgão colegiado do Tribunal, por ausência de exaurimento de instância, incidindo, no caso, o enunciado n.º 281 da Súmula do STF, aplicado por analogia ao recurso especial" (STJ, AgRg no AREsp 343.162/RS, Rel. Ministra ELIANA CALMON, DJe de 16/09/2013). No mesmo sentido: STJ, AgInt no AREsp 1.621.900/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 23/06/2020;
+AgInt no AREsp 1.480.690/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 30/08/2019; AgInt no AREsp 1.418.179/PA, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 29/05/2019; AgInt no AREsp 1.267.031/CE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 26/06/2018; REsp 1.724.435/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/05/2018; AgInt no AREsp 1.262.686/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 29/08/2018; AgRg nos EDcl no AREsp 493.552/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 11/03/2016.
+III. No presente caso, a Apelação da parte ora agravante foi julgada, em 2º Grau, por decisão monocrática do Relator. Contra essa decisão, a ora agravante interpôs Recurso Especial. Incidência da Súmula 281/STF, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.836.006/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/09/2021, DJe 20/09/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SOBRESTAMENTO. IMPOSSIBILIDADE. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 281/STF. NECESSIDADE DE INTERPOSIÇÃO DO RECURSO DO ART. 1.021, § 2º, DO CPC. AGRAVO NÃO PROVIDO.
+1. Não se pode conhecer do recurso especial interposto contra decisão monocrática, tendo em vista que não houve o necessário esgotamento das instâncias ordinárias. Aplicação, por analogia, da Súmula 281 do STF. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 879.030/RO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/05/2020, DJe 25/05/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO DECIDIDA MONOCRATICAMENTE. RECURSO ESPECIAL INTERPOSTO ANTES DO ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 281 DO STF. DECISÃO MANTIDA.
+1. Não é cabível a interposição de recurso especial contra decisão singular, uma vez que não se encontram esgotadas as instâncias ordinárias. Desta maneira, o apelo especial só terá cabimento se interposto após decisão colegiada, nos termos do artigo 105, III, da Constituição Federal, haja vista a necessidade do exaurimento da prestação jurisdicional pelo órgão fracionário de Tribunal.
+Aplicação da Súmula 281 do STF por analogia. Precedentes.
+2. "II - É incabível o recurso especial interposto contra julgamento colegiado de embargos declaratórios opostos contra decisão monocrática, tendo em vista o não-exaurimento das instâncias ordinárias. Incidência, por analogia, do enunciado da Súmula n. 281 do Supremo Tribunal Federal." (AgInt no AREsp 932.191/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 08/11/2016, DJe 24/11/2016) 3. Agravo interno não provido.
+(AgInt no AREsp 1.267.031/CE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2018, DJe 26/06/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO DECIDIDOS POR DECISÃO MONOCRÁTICA. INTERPOSIÇÃO DE RECURSO ESPECIAL. DESCABIMENTO. NÃO EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 281 DO STF.
+INCIDÊNCIA.
+1. Nos termos da Súmula 281/STF "é inadmissível o recurso extraordinário, quando couber, na Justiça de origem, recurso ordinário da decisão impugnada.".
+2. Na hipótese dos autos, embora a apelação tenha sido apreciada pelo órgão colegiado (fls. 183/191), os embargos de declaração opostos do respectivo acórdão foram julgados monocraticamente pelo relator (fls. 204/206), de modo que, nos termos do entendimento sufragado por este STJ, não houve o exaurimento da instância necessário ao conhecimento do recurso especial, atraindo o óbice da Súmula 281/STF.
+3. Agravo interno desprovido.
+(AgInt no AREsp 927.666/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/11/2016, DJe 25/11/2016)
+PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO - PRINCÍPIO DA FUNGIBILIDADE - RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO MONOCRÁTICA - SÚMULA 281/STF.
+1. Embargos de declaração recebidos como agravo regimental. Aplicação do princípio da fungibilidade recursal.
+2. É manifestamente incabível recurso especial interposto contra decisão monocrática, tendo em vista o não-exaurimento da instância ordinária. Incidência, por analogia, do enunciado n.º 281 da Súmula do STF.
+3. Agravo regimental não provido.
+(EDcl no AREsp 406.772/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 05/12/2013, DJe 13/12/2013)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
