@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ANTÔNIO FERNANDES DOREA DE CARVALHO, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 27/08/2021.
+Concluso ao gabinete em: 17/11/2021.
+Ação: anulatória de consolidação da propriedade em nome do agente mutuário, ajuizada por ANTÔNIO FERNANDES DOREA DE CARVALHO, em face de CAIXA ECONÔMICA FEDERAL.
+Sentença: julgou improcedente o pedido, extinguindo a demanda, com resolução do mérito, nos termos do art. 487, I, CPC e condenou o recorrente no pagamento das custas e dos honorários, os quais foram fixados em 10% sobre o valor atualizado da causa.
+Acórdão: negou provimento à Apelação interposta pelo recorrente, nos termos da seguinte ementa:
+"Civil. Caixa. Alienação fiduciária em garantia. Lei nº 9.514/97. Inadimplência. Adjudicação do imóvel. Certidão cartorária atestando que houve a notificação pessoal do devedor. Fé pública. Presunção de veracidade não elidida. Ausência de comprovação de que o devedor foi intimado da realização dos leilões. Autor reconhece que não houve arrematação na primeira hasta e que tinha ciência da data da segunda. Ausência de prejuízo.
+1. Trata-se de apelação interposta em face de sentença que julgou improcedente o pedido, por meio do qual o autor busca a anulação do processo de execução extrajudicial do imóvel objeto desta demanda e, por consequência, o cancelamento no registro da consolidação da propriedade fiduciária.
+2. O autor afirma na inicial que teria sido surpreendido com a visita, ao seu imóvel, de possíveis arrematantes do bem em questão, quando teria tido conhecimento de que este fora levado a uma primeira hasta pública, em 26/05/2020, e que uma segunda estava programada para 10/06/2020, haja vista a ausência de licitantes na primeira.
+3. Aduz também que, em razão disso, ao se dirigir até o Cartório da 2ª Circunscrição Imobiliária, teria tido ciência de que a Caixa Econômica Federal havia consolidado a propriedade em seu favor, com fulcro na Lei nº 9.514/1997.
+4. Aponta ainda, na exordial, que tal procedimento efetivado pela Caixa padeceria de vício, uma vez que "não foram expedidas em seu nome as notificações de constituição em mora e das datas das mencionadas hastas públicas", razão pela qual requer que seja declarada a nulidade do procedimento de consolidação da propriedade em favor da empresa pública.
+5. Conforme o Livro do Cartório de Imóveis, o bem em questão teve sua propriedade fiduciária transferida à CEF em 19 de dezembro de 2013, em garantia à operação de crédito comercial celebrado com a instituição financeira, no valor de R$300.000,00.
+6. Quanto à notificação da constituição em mora, verifica-se que a Caixa colacionou aos autos documento do Registro de Imóveis respectivo, do qual consta que o demandante foi intimado, em 27 de abril de 2017, para comparecer ao aludido serviço notarial para purgar, no prazo de 15 dias, o débito de R$ 21.146,14 (atualizado até 06/03/2017), sob pena de consolidação da propriedade em favor da credora fiduciária.
+7. Frisa-se aqui que o Oficial goza de fé pública e o documento é dotado de presunção de veracidade, em face do que dispõe o art. 3º da Lei nº 8.935/1994.
+8. Quanto à intimação dos leilões, o STJ possui, de fato, entendimento consolidado no sentido de que, em se tratando de contrato de alienação fiduciária de bem imóvel, além da notificação acima mencionada e devidamente efetivada, também é necessária a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial do bem, sendo possível ao mesmo purgar a mora até a assinatura do auto de arrematação, mesmo quando já consolidada a propriedade em nome do credor fiduciário.
+9. Entretanto, ainda que não tenha sido juntada prova da intimação do autor acerca das datas dos leilões, reitera-se que o próprio devedor informou, ainda na exordial, que o imóvel não foi arrematado na 1ª hasta, e que tinha ciência da data de realização do 2º leilão, que havia sido agendado, inclusive, para momento posterior ao do ajuizamento deste feito.
+10. Assim, ainda que restasse comprovado que o procedimento padeceu de vício, fica evidente que eventual erro da instituição financeira neste sentido não trouxe qualquer prejuízo ao particular, que teve a oportunidade de exercer o seu legítimo direito de preferência para a aquisição do bem na 2ª hasta, não havendo, portanto, que se falar em nulidade. Precedente da Turma: (PROCESSO: 08050432920184058001, AC - Apelação Civel -, DESEMBARGADOR FEDERAL ROGÉRIO FIALHO MOREIRA, 3ª Turma, JULGAMENTO: 28/10/2019, PUBLICAÇÃO: ).
+11. Apelação improvida. Majoração da verba honorária arbitrada anteriormente, devendo esta ser fixada em 11% sobre o valor da causa, em razão do trabalho adicional em grau recursal." (e-STJ fl. 378/379)
+Recurso especial: alega violação dos arts. 39, II, Lei 9.514/97, 34, 36, § único, Decreto-Lei 70/66. Sustenta que a falta de notificação extrajudicial do recorrente gera nulidade absoluta da venda extrajudicial realizada por arrematação, viciando, via de consequência, todo o procedimento de consolidação da propriedade.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da Súmula 568/STJ
+O entendimento adotado nesta Corte é o de que nos contratos de alienação fiduciária de coisa imóvel, regidos pela Lei nº 9.514/97, é necessária a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial.
+Nesse sentido: AgInt no AREsp 1.910.334/SP, 3ª Turma, DJe 28/10/2021; AgInt no AREsp 1.678.642/SP, 3ª Turma, DJe 09/03/2021; AgInt nos EDcl no AREsp 490.517/DF, 4ª Turma, DJe 02/09/2019; AgInt no AREsp 1.109.712/SP, 4ª Turma, DJe 06/11/2017.
+Logo, o acórdão merece reforma.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para que a Corte local julgue a demanda com base no entendimento sedimentado nesta Corte.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrente em virtude da interposição deste recurso, inverto e majoro os honorários fixados anteriormente em 11% sobre o valor da causa (e-STJ fls. 378) para 13%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE CONSOLIDAÇÃO DA PROPRIEDADE EM NOME DO AGENTE MUTUÁRIO. LEILÃO EXTRAJUDICIAL. DEVEDOR FIDUCIANTE. NOTIFICAÇÃO PESSOAL. AUSÊNCIA.
+1. Ação anulatória de consolidação da propriedade em nome do agente mutuário.
+2. A jurisprudência desta Corte se encontra consolidada no sentido da necessidade de intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei nº 9.514/1997. Precedentes desta Corte.
+3. Recurso especial conhecido e provido.
