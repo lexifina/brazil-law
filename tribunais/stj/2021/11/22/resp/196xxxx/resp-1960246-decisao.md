@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROSA EL DENNAUI, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal. O apelo extremo insurge-se contra acórdão doTribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"AGRAVO DE INSTRUMENTO. PEDIDO DE EFEITO SUSPENSIVO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPUGNAÇÃO À PENHORA DE IMÓVEL. CONTRATO DE LOCAÇÃO COMERCIAL. IMPENHORABILIDADE. RECURSO PROVIDO.
+1. Agravo de instrumento com pedido de efeito suspensivo interposto contra a decisão que rejeitou a impugnação à penhora e manteve a constrição sobre imóvel.
+2. O art. 3º, inciso VII, da Lei nº 8.009/90, excepciona a impenhorabilidade dobem de família na hipótese de obrigação decorrente de fiança concedida em contrato de locação. 2.1. No entanto, o Supremo Tribunal Federal, no julgamento do RE nº 605.709/SP, decidiu ser impenhorável o imóvel do fiador nos casos de contrato de locação comercial. 2.2. Confira-se: "(..) O bem de família do fiador em contrato de locação comercial não se sujeitará à constrição e à alienação forçada para o fim de satisfazer valores devidos ao locador. (RE 605709, Relator(a): Min. Dias Toffoli, Relator(a) p/ Acórdão: Min. Rosa Weber, Primeira Turma, julgado em 12/06/2018, Acórdão Eletrônico DJe-032 Divulg 15-02-2019 Public 18-02-2019)4. Agravo de instrumento conhecido e desprovido". 07125817320198070000, Relator: Cesar Loyola, 2ª Turma Cível, DJE: 13/2/2020).
+3. Assim, devida é a suspensão da ação de execução originária, com relação aos atos de constrição, exoneração/alienação do imóvel da agravante.
+4. Recurso provido"(fls. 282/283 e-STJ).
+Em suas razões, além de divergência jurisprudencial, a recorrente alega violação do art. 3º, VII da Lei nº. 8.009/90, ao fundamento de que não é possívela penhora do imóvel residencial do fiador no caso de locação comercial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A controvérsia a respeito da "penhorabilidade (ou não) do bem de família de propriedade do fiador dado em garantia em contrato de locação comercial" foi afetada a julgamento sob o sistema de recursos repetitivos (Tema 1.091), conforme julgados da relatoria do Ministro Luis Felipe Salomão, proferidos nos Recursos Especiais 1.822.040/PRe 1.822.033/PR, em 11/5/2021.
+Diante disso, em observância à economia processual e ao art. 256-L do Regimento Interno do Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no Superior Tribunal de Justiça devem aguardar o desfecho da questão no Tribunal de origem, a quem incumbe realizar o juízo de conformação atualmente disciplinado pelos arts. 1.039 e 1.040 do Código de Processo Civil de 2015.
+Somente após a análise de conformidade, se for o caso, o recurso especial deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para exame das demais questões jurídicas nele suscitadas que eventualmente não tenham ficado prejudicadas.
+Ante o exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que o processo permaneça suspenso até a publicação do acórdão dos recursos especiais repetitivos, observando-se, em seguida, os procedimentos previstos nos arts. 1.039 e 1.040 do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
