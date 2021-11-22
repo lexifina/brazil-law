@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se de agravo interno interposto por J. V. R., representado por F. O. R., contra a decisão de fls. 290-293 (e-STJ), da lavra deste signatário, que conheceu do agravo para não conhecer do recurso especial do ora agravante.
+O apelo especial foi deduzido com base no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado (fl. 185, e-STJ):
+APELAÇÕES CÍVEIS. RESPONSABILIDADE CIVIL E DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SAQUES EM CONTA BANCÁRIA NÃO RECONHECIDOS PELO AUTOR. PARCIAL PROCEDÊNCIA NA ORIGEM. APELO DO BANCO RÉU. VÍCIO DE REPRESENTAÇÃO. SUBSTABELECIMENTO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO SUBSCRITO POR PROFISSIONAL SEM PODERES. INTIMAÇÃO PARA REGULARIZAÇÃO DA REPRESENTAÇÃO. INÉRCIA DA PARTE APELANTE. RECURSO NÃO CONHECIDO. RECURSO DO DEMANDANTE. INSURGÊNCIA COM RELAÇÃO À IMPROCEDÊNCIA DOS DANOS MORAIS. AUSÊNCIA DE PROVA DE GRAVES DESDOBRAMENTOS DECORRENTES DA DESCOBERTA DA PERDA FINANCEIRA AO CONSULTAR O EXTRATO BANCÁRIO. SITUAÇÃO QUE NÃO DESBORDOU DO MERO ABORRECIMENTO COTIDIANO. IMPROCEDÊNCIA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial (fls. 199-227, e-STJ), além de dissídio jurisprudencial, o recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 186, 187 e 927 do Código Civil de 2002; e 14, § 3º, do Código de Defesa do Consumidor.
+Sustentou, em síntese, fazer jus à indenização por danos morais pleiteada, porquanto o fornecedor responde pelos danos causados aos consumidores por defeitos na prestação do serviço ofertado, independente de culpa, não tratando o ocorrido como mero aborrecimento.
+Em face do juízo prévio negativo de admissibilidade, o ora recorrente interpôs agravo (art. 1.042 do CPC/2015), do qual se conheceu para não conhecer do recurso especial, ante a aplicação da Súmula 7/STJ para revisão das conclusões estaduais, o que tornou prejudicada a análise da divergência jurisprudencial apontada.
+No presente agravo interno (fls. 296-314, e-STJ), o agravante pugna pela inaplicabilidade do óbice apontado para o não conhecimento do reclamo.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo Colegiado.
+Sem impugnação, conforme certificado à fl. 318 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. AUSÊNCIA DOS REQUISITOS PARA CONFIGURAÇÃO DOS DANOS MORAIS PLEITEADOS. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Reverter a conclusão do Colegiado estadual - acerca da ausência dosrequisitos ensejadores da reparação civil - demandaria, necessariamente, oreexame do acervo fático-probatório dos autos, providência vedada noâmbito do recurso especial, ante o óbice da Súmula 7 do SuperiorTribunal de Justiça.
+2. A incidência da Súmula n. 7/STJ impede o conhecimento do recursolastreado, também, pela alínea c do permissivo constitucional, uma vez quefalta identidade entre os paradigmas apresentados e os fundamentos doacórdão, tendo em vista a situação fática de cada caso.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, conforme asseverado na decisão agravada, o Tribunal de origem, ao dirimir a controvérsia, concluiu não estarem presentes os requisitos ensejadores da reparação civil pleiteada, nos termos da seguinte fundamentação (fls. 189-190, e-STJ, sem grifos no original):
+O inconformismo do autor não deve ser acolhido, antecipa-se.
+Ao contrário do que alega o apelante em suas razões, o dano moral na espécie não é presumido, demandando, para sua configuração, sólida demonstração de que a conduta ilícita da ré teria violado algum de seus direitos inerentes à personalidade, mormente a sua dignidade.
+No caso posto, o pedido de dano anímico vem embasado no fato de que o autor e sua família teriam sido surpreendidos ao tentar, sem sucesso, efetuar saque em sua conta poupança, durante viagem ao Estado do Rio de Janeiro. Ocorre que, como bem assentado pelo Juízo de origem (pg. 121):
+ ..  os valores se encontravam depositados em conta poupança criada pelo genitor do autor em seu favor, na qual eram realizados aportes mensais de pequena monta - inicialmente R$ 50,00 (cinquenta reais) e posteriormente R$ 100,00 (cem reais). Portanto, resta evidente que os valores lá depositados não tinham a finalidade de resguardar a subsistência familiar, assim como não restou demonstrado que a ausência da quantia repercutiu negativamente de maneira sensível no estado psíquico do autor, o que afasta a possibilidade de indenização por danos morais.
+Outrossim, é evidente que, caso o autor necessitasse dos valores depositados para realizar a viagem, recomendaria a prudência do homem médio que conferisse o saldo em conta antes de embarcar para o destino, e não lá chegando, evitando colocar-se em um delicado cenário de dependência daqueles valores. Tem-se, ainda, que nenhuma necessidade premente de dispor daqueles valores (como uma emergência médica, por exemplo) restou comprovada nos autos, o que reforça a correta conclusão do Juízo singular de que os transtornos suportados pela parte autora não ensejam a reparação anímica.
+Por derradeiro, a despeito da formulação de reclamação ao Procon de Criciúma/SC (pg. 14), nenhum outro elemento foi trazido para demonstrar a "via crucis" que o autor alega ter suportado para, administrativamente, resolver a questão junto à instituição bancária, o que, de igual forma, não dá azo ao reconhecimento do dano moral pleiteado.
+Em face disso, a revisão das conclusões estaduais - acerca da ausência dos requisitos ensejadores da reparação civil requerida- demandaria, necessariamente, a incursão no acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+Quanto ao dissídio jurisprudencial, tendo o Tribunal local concluído com base na apreciação de fatos e provas constantes dos autos, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, medida defesa nesta via excepcional, por força da Súmula n. 7 desta Corte.
+Desse modo, tendo em vista que as alegações feitas no agravo interno não são capazes de modificar o convencimento manifestado no aresto recorrido, permanece inalterada a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
