@@ -1,0 +1,53 @@
+DECISÃO:
+
+EMENTA: Processual Penal. Habeas corpus. Tráfico de drogas. Alegação de nulidade. Ausência de ilegalidade flagrante.
+
+1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Reynaldo Soares da Fonseca, assim ementado:
+
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. MANDAMUS SUBSTITUTIVO DO RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. 2. NULIDADE DO FLAGRANTE. NÃO VERIFICAÇÃO. 3. PEDIDO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. 3. ÍNFIMA QUANTIDADE DE DROGA. ABRANDAMENTO DO REGIME DE CUMPRIMENTO. POSSIBILIDADE. APLICAÇÃO DA REDUTORA DA PENA. IMPOSSIBILIDADE. PACIENTE REINCIDENTE. 4. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+
+    1. Diante da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação da Primeira Turma do Supremo Tribunal Federal, no sentido de ser inadmissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de que não se desvirtue a finalidade dessa garantia constitucional, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+
+    2. Pela leitura das decisões proferidas pelas instâncias ordinárias, verifica-se que não houve irregularidade na abordagem do paciente, que ‘empreendeu fuga ao ver a viatura, dispensou o celular e gritou: 'É roubado!'’. Assim, ‘como ele disse que o celular era roubado, colocaram-no no compartimento de presos e o levaram à Delegacia de Polícia, onde, ao tirarem-no, viram, atrás do escudo, as porções’ de droga. Dessarte, não se falar em ilegalidade no procedimento descrito.
+
+    3. O conjunto probatório dos autos autoriza a manutenção da condenação do paciente, não sendo possível, na via eleita, desconstituir as conclusões das instâncias ordinárias, que são soberanas no exame dos fatos e das provas, porquanto demandaria o aprofundado reexame dos elementos probatórios dos autos, procedimento indevido e vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória.
+
+    4. Verificada a ínfima quantidade de droga apreendida com o paciente – 10 pedras de ‘crack’ (pesando 1,32 gramas) e 8 pinos de ‘cocaína’ (pesando 1,73 gramas), mister se faz, de forma excepcional, o abrandamento do regime de cumprimento da pena para o semiaberto. Contudo, não se faz possível a aplicação da causa redutora trazida no art. 33, § 4º, da Lei n. 11.343/2006, ainda que de ofício, porquanto se trata de paciente reincidente, não preenchendo, dessarte, os requisitos legais.
+
+    5. Agravo regimental a que se nega provimento.”
+
+    2. Extrai-se dos autos que o paciente foi condenado, em primeira instância, pelo crime previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado.
+
+    3. Irresignada, a defesa interpôs apelação, tendo o Tribunal de Justiça do Estado de São Paulo negado provimento ao recurso. Transitada em julgado a condenação, foi ajuizada revisão criminal, julgada improcedente.
+
+    4. Em seguida, a defesa impetrou habeas corpus no STJ (HC 650.971/SP). O Relator, Ministro Reynaldo Soares da Fonseca, não conheceu do HC. Concedeu, contudo, a ordem de ofício para fixar o regime semiaberto para início de cumprimento da pena. Contra essa decisão, foi interposto agravo regimental, desprovido.
+
+    5. Neste habeas corpus, a parte impetrante requer a concessão da ordem, a fim de “decretar a Nulidade da sentença e acordão e consequentemente a absolvição do paciente”. Para tanto, sustenta, em síntese, a ilegalidade da prisão em flagrante do paciente, ao argumento de que “não foi encontrado nada de ilícito em sua posse”. Ademais, alega que a sentença e acordão foram contrárias às evidencias dos autos. Afirma que “a condenação foi alicerceada no livre convencimento, que no caso em tela foi incongruente com a lógica processual, baseando exclusivamente no depoimento dos policiais militares”.
+
+    6. Decido.
+
+    7. O habeas corpus não deve ser concedido.
+
+    8. O Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal (RHC119.605-AgR, Rel. Min. Luís Roberto Barroso; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski).
+
+    9. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício. No ponto, transcrevo as seguintes passagens do acórdão impugnado:
+
+    “Na hipótese dos autos, o impetrante se insurge, em síntese, contra a prisão em flagrante do paciente, por considerá-la indevida, bem como contra a condenação, ao argumento de que não existem provas que confirmem o tráfico. Contudo, consta da sentença condenatória que (e-STJ fls. 197/199):
+
+    A pretensão punitiva estatal é procedente. Analiso a prova coligida. Materialidade presente. No Laudo Pericial Definitivo em Substância Entorpecente, fls. 80/82, foi consignado o resultado positivo para ‘cocaína’. Autoria inconteste. O Réu negou a acusação a si dirigida. Disse que tinha saído para comprar lanche para a esposa, quando passou por local conhecido por ser ponto de venda de drogas; nesse momento viu a viatura e correu, pois teve medo de encontrarem drogas no matagal próximo; como tinha encontrado um celular na rua, jogou-o, pois poderia ser roubado. Foi preso e depois viu as drogas. As testemunhas Fábio Bosco e Helene Conceição Bueno, policiais militares, estavam em patrulhamento quando adentraram a rua e viram o Acusado, o qual empreendeu fuga ao ver a viatura, dispensou o celular e gritou: ‘É roubado!’. Ao alcançarem o Réu, ele começou a se debater e a conclamar as pessoas do local para enfrentarem os policiais. Não tiveram tempo para efetuarem a busca pessoal. Como ele disse que o celular era roubado, colocaram-no no compartimento de presos e o levaram à Delegacia de Polícia, onde, ao tirarem-no, viram, atrás do escudo, as porções. A Testemunha Helene disse que ele não conseguiu esconder bem, então eram visíveis as embalagens. A Testemunha Ana Maria de Oliveira disse ter visto a abordagem policial. O Réu correu, foi abordado, havia apenas o celular. Foi preso. Havia um grupo de pessoas próximo do local. Não o viu chamar a multidão. A Testemunha Maira Stefany viu a abordagem policial. O Réu foi abordado, havia apenas um celular. Foi preso. Não havia revolta das pessoas contra a Polícia. Conforme se verifica, analisadas as circunstâncias da prisão, infere-se a prática do tráfico de entorpecentes, pois outra conclusão não se chega após a análise da prova testemunhal, da quantidade, da diversidade e da natureza dos entorpecentes, bem como da forma de embalagem. Os policiais foram claros ao narrarem a visualização do Réu, que correu ao ver a viatura, quando dispensou o celular e disse que era produto de roubo. Ao ser alcançado, passou a conclamar a multidão a enfrentar os policiais, razão pela qual o colocaram de imediato no compartimento de presos e o levaram à Delegacia de Polícia, onde, ao tirarem o Réu da viatura, encontraram os entorpecentes. Ora, a ação policial foi eficaz, pois os policiais, ao perceberem que poderia haver confronto, rapidamente saíram do local com o Réu, a única pessoa que deveria ser presa. Não é minimamente estranho os policiais terem encontrado os entorpecentes no compartimento de presos, já que o Réu, após mentir sobre a procedência do celular, tentou se desfazer das substâncias ilícitas para não ser preso por tráfico de entorpecentes. A Testemunha Fábio Basco disse que não houve prisão de outras pessoas no mesmo dia, e a Testemunha Helene disse não se recordar de outra prisão. Tais afirmações devem ser aceitas, seja porque não teria motivos para os policiais encobrirem drogas de outro preso, seja porque, s a outra pessoa tivesse pertencido os entorpecentes, teriam sido vistos no mesmo instante de ser retirado do preso do compartimento adequado. Em relação às testemunhas de defesa, não há elementos para se concluir por falso testemunho, mas sim que viram parte da ação e provavelmente confundiram as medidas para contenção e colocação do Réu na viatura com a busca pessoal no sentido técnico da expressão, o que os policiais não puderam fazer no local da prisão. Ademais, o próprio Réu, no interrogatório, narrou ter jogado o celular, e as testemunhas de defesa disseram que os policiais fizeram a abordagem e encontraram o celular, portanto uma clara demonstração de que tais testemunhas relataram fragmentos do que ocorrido. No que tange ao valor probatório do testemunho dos policiais, há que se considerar que, por se tratarem de agentes públicos, gozam da presunção de legitimidade, atributo dos atos praticados pela Administração Pública, portanto não podem ser considerados inidôneos ou suspeitos. Não seria lógico o Estado contratar agentes para a segurança pública, investindo-os de parcela do poder estatal e, ao serem chamados a Juízo, não lhes emprestar credibilidade. Os depoimentos dos policiais têm o mesmo valor dos depoimentos de quaisquer outras testemunhas.
+
+    A Corte local, ao julgar o recurso de apelação, consignou que ‘não há de ser falar em insuficiência probatória, uma vez que as provas coligidas são suficientes para atribuir a autoria e a materialidade do delito ao apelante de forma inequívoca e fundamentada’ (e-STJ fl. 247). De igual sorte, ao julgar a revisão criminal, assentou-se que a matéria probatória já foi exaustivamente examinada (e-STJ fl. 298).
+
+    Reitero, portanto, que, pela leitura das decisões proferidas pelas instâncias ordinárias, não houve irregularidade na abordagem do paciente, que ‘empreendeu fuga ao ver a viatura, dispensou o celular e gritou: 'É roubado!'’. Assim, ‘como ele disse que o celular era roubado, colocaram-no no compartimento de presos e o levaram à Delegacia de Polícia, onde, ao tirarem-no, viram, atrás do escudo, as porções’ de droga. Dessarte, não se falar em ilegalidade no procedimento descrito.”
+
+    10. Ademais, o STF já decidiu que a alegação de ausência de autoria e materialidade é insuscetível de deslinde em habeas corpus, que, como é cediço, não comporta reexame de fatos e provas (RHC 117.491, Rel. Min. Luiz Fux).
+
+    11. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+
+    Publique-se.
+
+          Brasília, 22 de novembro de 2021.
+
+Ministro LUÍS ROBERTO BARROSO
+
+                            Relator
