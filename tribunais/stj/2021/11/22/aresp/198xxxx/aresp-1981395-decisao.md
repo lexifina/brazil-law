@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por AGNALDO FERREIRA DOS SANTOS contra a decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - CÉDULA DE CRÉDITO BANCÁRIO - CAPITALIZAÇÃO DOS JUROS - POSSIBILIDADE - SERVIÇOS DE TERCEIRO - COBRANÇA - REQUISITOS. 1. Desde que pactuada, é permitida a capitalização mensal dos juros em cédula de crédito bancário. 2. Os serviços de terceiros somente podem ser cobrados do consumidor se, além de serem de sua responsabilidade, estiverem devidamente explicitados no contrato firmado entre as partes, quanto ao valor e à discriminação dos serviços" (e-STJ fl. 318).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 392/395).
+No especial (e-STJ fls. 398/418), além de divergência jurisprudencial, o recorrente alega violação dos artigos 85 e 86 do Código de Processo Civil de 2015 e 23 da Lei nº 8.906/1994.
+Afirma que o entendimento pacificado no rito do recurso repetitivo não autorizou a capitalização diária dos juros de mora, mas, sim, a mensal dos juros.
+Sustenta que
+"(..) a Medida Provisória nº 1.963-17/2000, reeditada sob o nº 2.170.36/2001, flexibilizou a cobrança de juros de forma capitalizada, mas não pode a Instituição Financeira, com base nisso, praticar o cálculo com periodicidade diária, haja vista que implica manifesta e inequívoca onerosidade excessiva e desequilíbrio contratual" (e-STJ fl. 412).
+Defende, em síntese, que mesmo sendo a parte recorrida vencedora na maior parte dos pedidos, foi ela quem deu causa à instauração da presente demanda, de modo que, neste caso, imputar ao vencido os ônus sucumbenciais ofende o princípio da causalidade.
+Argumenta que o princípio da sucumbência deve ceder ao princípio da causalidade.
+Ao final, requer o provimento do recurso.
+Após a apresentação das contrarrazões (e-STJ fls. 430/440), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Insurge-se o recorrente contra a capitalização diária de juros, por considerar não ser ela permitida, e as despesas sucumbenciais, as quais devem ser arcadas pelo recorrido por ter dado causa ao ajuizamento da demanda.
+De início, registra-se que, conquanto não tenha sido apontadaviolação a dispositivo legal no tocante à capitalização de juros, por se tratar de dissídio notório, passa-se ao seu exame.
+No julgamento do REsp nº 973.827/RS, submetido à sistemática dos recursos repetitivos, ficou decidido que, nos contratos firmados após 31/3/2000, data da publicação da Medida Provisória nº 1.963-17, reeditada até a Medida Provisória nº 2.170-36/2001, admite-se a capitalização dos juros em periodicidade inferior a um ano, desde que pactuada de forma clara e expressa, consoante se colhe da ementa do referido julgado:
+"CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido
+pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC: - "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada." - "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+(..)
+6. Recurso especial conhecido em parte e, nessa extensão, provido"(REsp 973.827/RS, Rel. p/ acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 8/8/2012, DJe 24/9/2012).
+Assim, ao contrário do que alega o recorrente, esta Corte Superior admite a capitalização diária de juros desde que expressamente prevista a sua pactuação e a taxa de juros, em atenção ao princípio do dever de informação.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO.CÉDULA DE CRÉDITO BANCÁRIO PARA EMPRÉSTIMO DE CAPITAL DE GIRO.FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIENTE. CAPITALIZAÇÃO DIÁRIA. MP 2.170-36/2001. APLICAÇÃO DA SÚMULA 83 DO STJ. JUROS REMUNERATÓRIOS. TAXA MÉDIA DO MERCADO. COBRANÇA ABUSIVA. LIMITAÇÃO.NÃO COMPROVAÇÃO. SÚMULA 83/STJ. CARACTERIZAÇÃO DA MORA. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A eg. Segunda Seção do STJ, em sede de julgamento de recurso especial representativo da controvérsia, firmou tese no sentido de que: (a) "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada"; e (b) "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada"(REsp 973.827/RS, Ministra MARIA ISABEL GALLOTTI, Rel. p/ acórdão, SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe de 24/09/2012).
+3. Na hipótese, o acórdão recorrido consignou a existência de pactuação de capitalização diária, razão pela qual não está a merecer reforma. Precedentes do STJ.
+4. A jurisprudência do STJ orienta que a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras.
+5. Na hipótese, ante a ausência de comprovação cabal da cobrança abusiva, deve ser mantida a taxa de juros remuneratórios acordada.
+6. O reconhecimento da validade dos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) implica a caracterização da mora.
+7. Agravo interno a que se nega provimento" (AgInt no AREsp 1.726.346/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/11/2020, DJe 17/12/2020).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL, PROCESSUAL CIVIL E DO CONSUMIDOR. NEGÓCIOS JURÍDICOS BANCÁRIOS. CAPITALIZAÇÃO DIÁRIA DE JUROS REMUNERATÓRIOS. TAXA DIÁRIA NÃO INFORMADA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. ABUSIVIDADE. PRECEDENTE ESPECÍFICO DA SEGUNDA SEÇÃO DO STJ: RESP 1.826.463/SC, MINHA RELATORIA, DJE DE 29/10/2020.AGRAVO INTERNO A QUE SE NEGA PROVIMENTO"(AgInt no REsp 1.842.813/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/09/2021, DJe 23/09/2021).
+No caso dos autos, o aresto recorrido, no voto condutor do acórdão que julgou os aclaratórios, consignou que a "(..) capitalização diária dos juros remuneratórios veio prevista de forma clara, como transcrito pelo próprio embargante desde a petição inicial, o que autoriza a sua incidência" (e-STJ fl. 395).
+Assim, incide ao caso a Súmula nº 568/STJ quanto ao ponto.
+De todo modo, esbarra nos óbices das Súmulas nºs 5 e 7/STJ alterar a conclusão do aresto recorrido de que a pactuação da capitalização diária está clara no contrato celebrado entre as partes.
+Por fim, quanto às demais questões, observa-se que o aresto recorrido não decidiu quem deve arcar com as despesas do processo e honorários advocatícios com base no princípio da causalidade, mas, sim, com base na sucumbência, motivo por que concluiu que, ante o decaimento mínimo da parte ré, deve o recorrente arcar com o ônus de sucumbência.
+Nessa circunstância, a discussão trazida no presente recurso não está prequestionada, embora tenha sido opostos embargos de declaração. Contudo, conforme sedimentado por esta Corte, o prequestionamento ficto previsto no artigo 1.022 do CPC/2015exige que no mesmo inconformismo seja indicada a existência de negativa de prestação jurisdicional.
+Vale anotar que o recorrente, nas razões do recurso especial, não invocou afronta ao art. 1.022 do CPC/2015 a fim de suprir eventual omissão.
+Incide ao caso, portanto, a Súmula nº 211/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Em observância ao art. 85, § 11, do CPC/2015, majoro em 2% (dois por cento) a verba honorária atribuída aorecorrente, sobre o valor arbitrado pela Corte local, em favor do patrono da parte recorrida, observado o benefício da justiça gratuita, se for o caso
+Publique-se.
+Intimem-se.
