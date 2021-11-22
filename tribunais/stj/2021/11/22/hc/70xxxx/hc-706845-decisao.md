@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de ADAILTON NETO DA SILVAcontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento do Agravo em Execução n.0011390-54.2021.8.26.0996.
+O Juízo da Execução deferiu a progressão para o regime aberto ao paciente que cumpre pena de 12 anos, 2 meses e 12 dias de reclusão, em razão do cumprimento de ambos os requisitos objetivo e subjetivo (fls. 117/118). O Parquet agravou dessa decisão, tendo a Corte Bandeirante dado provimento ao recurso, para exigir a realização de exame criminológico (fls. 141/146).
+No presente writ, a defesa alega o preenchimento dos requisitos necessáriospara progressão de regime,sendo, assim, desnecessária a realização do exame criminológico. Assevera que as razões trazidano decisumdo Tribunal de origem são genéricas e estãopautadas, unicamente, na gravidade em abstrato do delito, o que estariaem desacordo com o Enunciado n. 439 daSúmula desta Corte.Aponta, ainda, o atestado de bom comportamento carcerário.
+Pugna, assim,em liminar e no mérito, pelo restabelecimento da decisão primeva, com a consequente progressão ao regime aberto.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, mostra-se razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal que autorize a concessão da ordem de oficio.
+Conforme relatado, a controvérsia refere-se a realização do exame criminológico para atestar o preenchimento do requisito subjetivo necessário à benesse da progressão de regime.
+O acórdão recorrido destarteassentiu:
+"É bem verdade que, para fins de progressão de regime prisional, a teor do artigo 112 da Lei de Execução Penal, com a nova redação dada pela Lei nº 13.964, de 2019, não é mais exigido o exame criminológico, nem tampouco o parecer da Comissão Técnica de Classificação, o que não quer dizer que esteja o Magistrado impedido de determinar a realização de exame por profissionais da área da psiquiatria, em especial, ou de outra, desde que entenda necessárias tais providências.
+Ademais, dispõe o referido artigo 112 da Lei de Execução Penal que:
+"Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+(..)
+§ 1º Em todos os casos, o apenado só terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão. (Redação dada pela Lei nº 13.964, de2019)." (grifou-se).
+No caso vertente, verifica-se que o sentenciado foi condenado à pena total de doze anos, dois meses e doze dias de reclusão, no regime inicial semiaberto, pela prática dos crimes de tráfico de drogas e roubo agravado, crimes graves a demandarem indagações e respostas adequadas para a verificação sobre se o reeducando reúne, efetivamente, condições do ponto-de-vista subjetivo para a progressão de regime. O término do cumprimento deverá ocorrer apenas em 11 de março de 2027, se nada de anormal ocorrer até lá, destacando-se que os tipos de crimes e o "quantum"das reprimendas corporais servem também, "data venia", para demonstrar a periculosidade do reeducando.
+E, "in casu", em que pese o fato de os subscritores do atestado terem afirmado que o sentenciado ostenta boa conduta disciplinar, não há qualquer documentação que, eventualmente, possa comprovar tal assertiva.
+Assim, "in casu", razão assiste ao douto Promotor de Justiça oficiante, vez que se insurgiu contra o deferimento de progressão de regime prisional ao ora agravado, por constatar que, se por um lado, preenchido o requisito objetivo (de ordem temporal), por outro, ausente o subjetivo, que é caracterizado porelementos de ordem social capazes de demonstrar ser ele merecedor do benefício.
+Aliás, não se pode olvidar que está em discussão a reintegração à sociedade de pessoa que cometeu delito grave, com longa pena a cumprir, fazendo-se mister que o Estado-Juiz tenha elementos seguros para deferir a benesse.
+Observa-se, a propósito, que o sentenciado foi condenado por roubo agravado, crime que envolve violência e/ou grave ameaça, e tráfico de drogas, crime equiparado aos hediondos.
+Na verdade, o reeducando não possui, efetivamente, bom comportamento carcerário, ao menos por ora.
+Não basta apenas o atestado. O teor do que se atesta deve vir comprovado
+Contudo, oportunamente, poderá ser determinada a realização de exame criminológico no sentenciado para se aquilatar se ele ostenta condições pessoais para progredir de regime.
+O tipo de crime praticado e a longa pena a cumprir aconselham a realização de exame para a verificação das condições subjetivas do agravado. Portanto, somente depois deatendidos os requisitos de ordem objetiva e subjetiva é que seria possível a progressão.
+Oportuno salientar que em sede de execução de pena vigora o princípio "in dubio pro societate", ou seja, se há dúvida, decide-se contra o sentenciado e a favor da sociedade." (fls. 143/146)
+Este Tribunal Superior possui entendimento pacífico no sentido de que a gravidade abstrata dodelitopeloqualo paciente restou condenado, tampouco alonga pena a cumprir, não são fundamentos idôneos para obstar, bem ainda condicionar o exame dos benefícios da execução penal. A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO.EXECUÇÃO PENAL. PROGRESSÃO DE REGIME DEFERIDA EM PRIMEIRO GRAU E CASSADA PELO TRIBUNAL A QUO POR AUSÊNCIA DO REQUISITO SUBJETIVO.EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DO DELITO E LONGEVIDADE DA PENA. FUNDAMENTAÇÃO INIDÔNEA. PRECEDENTES. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal -STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem de ofício se constatada flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A determinação para se realizar exame criminológico deve apresentar fundamentação relacionada a algum elemento concreto da execução da pena, não se admitindo a simples referência à gravidade abstrata do delito ou à longevidade da pena, como no caso concreto.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para restabelecer a decisão do Juízo da Vara de Execuções Penais.
+(HC 659.079/SP, de minha relatoria, QUINTA TURMA, DJe 07/06/2021).
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL.REALIZAÇÃO DE EXAME CRIMINOLÓGICO PARA AFERIÇÃO DO REQUISITO SUBJETIVO. SÚMULA N. 439 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE ELEMENTOS CONCRETOS DA EXECUÇÃO. GRAVIDADE DO DELITO.
+1. A nova redação dada ao art. 112 da Lei n. 7.210/1984 pela Lei n.10.792/2003 suprimiu a realização de exame criminológico como expediente obrigatório para aferição do requisito subjetivo para fins de progressão de regime, mantendo-se apenas como requisitos legais o cumprimento de determinada fração da pena aplicada e o bom comportamento carcerário, a ser comprovado pelo diretor do estabelecimento.
+2. O magistrado de primeiro grau, ou mesmo o Tribunal, diante das circunstâncias do caso concreto, pode determinar a realização de exame criminológico para a comprovação do mérito do apenado para fins de progressão de regime prisional.
+3. De acordo com a Súmula n. 439/STJ, "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+4. No caso, o Tribunal de Justiça, ao exigir a complementação da realização de exame criminológico para analisar o pleito de progressão de regime, não logrou fundamentar a necessidade do referido exame, deixando de invocar elementos concretos da execução, levando em conta apenas a gravidade do delito praticado, e desconsiderando a boa conduta carcerária do paciente. Precedentes.
+5. Ordem concedida para restabelecer a decisão do Magistrado singular que deferiu ao paciente a progressão ao regime semiaberto, ratificada a liminar.
+(HC 653.014/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 30/04/2021).
+Na hipótese, o Tribunal de origem justificou a realização do exame criminológico apenas na gravidade abstrata do delito e na longa pena a cumprir.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para restabelecera decisão do Juízo da Execução.
+Publique-se.
+Intimem-se.
