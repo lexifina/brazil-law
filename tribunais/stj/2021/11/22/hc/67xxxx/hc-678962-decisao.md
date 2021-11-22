@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpusajuizado em benefício de Joao Victor de Souza Pelicione- preso cautelarmente e condenado por incurso nos arts. 33 e 35, c/c art. 40, I e V, todos da Lei n. 11.343/2006, ao cumprimento de 23 anos e 4 mesesde reclusão, em regime inicial fechado, bem como ao pagamento de 2.666 dias-multa-, em que se aponta constrangimento ilegal decorrente da demora para o julgamento, pelo Tribunal Regional Federal da 1ª Região, da apelação criminal interposta nos Autos n. 0001555-63.2019.4.01.3802.
+Sustenta-se, em suma, queo paciente está preso desde 2019, a apelação de TODOS os réus já foram acostadas aos autos e desde 14 de setembro de 2020, as beiras de 1 ano, o Tribunal não dá sequer andamento no processo(fl. 6).
+Busca-se a concessão liminar da ordem para queseja revogado o mandado de prisão cautelar que se estende ao longo do processo bem como seja determinado ao TRF 1 que seja pautado o julgamento da apelação do paciente na próxima sessão (fl. 11).
+Em despacho datado de 8/7/2021, foram solicitadas informações ao Tribunal a quo, devidamente prestadas às fls. 197/277.
+Indeferi o pedido liminar (fls. 279/280).
+Opinou o Ministério Público Federal nos termos do parecer assim resumido (fl. 284):
+HABEAS CORPUS. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. INOCORRÊNCIA. CONSTRANGIMENTO ILEGAL INEXISTENTE. PARECER PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+Estou de acordo com a manifestação do Subprocurador-Geral da República Francisco Rodrigues dos Santos Sobrinho, deste teor (fls. 284/285 - grifo nosso):
+ ..
+O MM. Juiz Federal, ao prestar informação, esclareceu que:
+"O writ diz respeito à apelação criminal interposta por João Victor de Souza Pelicione e outros, contra sentença (anexa) que o condenou a 23 (vinte e três) anos e 04 (quatro) meses de reclusão, e 2.666 (dois mil seiscentos e sessenta e seis) dias-multa, pela prática dos crimes dos arts. 33, caput, e 35, com causa de aumento do artigo 40, I e V, da Lei n. 11.343/06.
+A apelação foi redistribuída à relatoria do Desembargador Federal Olindo Menezes em 06/08/2020, sendo relativamente nova nesta unidade, e aguarda julgamento pela ordem de antiguidade no Gabinete, como ocorre com todos os demais, na qual há exatamente 48 (quarenta e oito) processos com a mesma prioridade, porém distribuídos anteriormente, observada a prioridade para as classes de feitos com réus presos, caso dos autos, e com prescrição próxima, o que não é o caso do referido processo.
+Como já ressaltado pelo eminente Desembargador, embora os condenados façam jus aos julgamentos em prazo razoável, é de se registrar que este Gabinete tem atualmente um imenso acervo em tramitação, com mais de 5.017 processos (dos quais 2.540 apelações criminais), mas vem empreendendo sempre, a despeito do reduzido número de servidores, um trabalho intenso de triagem e organização,para otimização das rotinas de trabalho e, também, para cumprimento das metas estabelecidas pelo Conselho Nacional de Justiça.
+O julgamento dos processos, aí incluídos os criminais, é definido pela ordem de antiguidade no gabinete, observada a prioridade para as classes de feitos com réus presos e com prescrição próxima. Com a brevidade que for possível, e todo o esforço será despendido nesse objetivo, o feito será encaminhado ao revisor, com vistas ao julgamento" (e-STJ fl. 198).
+O entendimento desse Colendo Superior Tribunal de Justiça, aplicável à hipótese, ainda que mutatis mutandis, é de que "O prazo para a conclusão de julgamento de apelação não tem as características de fatalidade e de improrrogabilidade, sendo imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais" (HC 448.633/SP, Rel. Min. NEFI CORDEIRO, Sexta Turma, julg. em 14/08/2018, DJe 27/08/2018).
+Ora, considerando a transferência dos autos para novo Relator;além dos atrasos processuais provocados pela pandemia (COVID-19) instalada mundial- mente, vê-se que, não se pode considerar que o atraso seja imputável à desídia do Judiciário.
+Por isso, opino pela denegação da ordem.
+Realmente, na espécie, a demora na apreciação do apelo não extrapola os limites da razoabilidade, considerando-se, sobretudo, a elevada reprimenda imposta- 23 anos e 4 meses de reclusão-e afirme jurisprudência desta Corte Superiorsegundo a quala análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum da pena aplicada pela sentença condenatória(AgRg no HC n. 695.771/PR, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 28/10/2021).
+À vista do exposto,denegoa ordem,com recomendação de celeridade no julgamento da apelação interposta na Ação Penal n.0001555-63.2019.4.01.3802.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DOS ARTS. 33 E 35 DA LEI N. 11.343/2006. EXCESSO DE PRAZO PARAJULGAMENTO DA APELAÇÃO. LIMITES DA RAZOABILIDADENÃO ULTRAPASSADOS. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PARECER ACOLHIDO.
+Ordem denegada com recomendação.
