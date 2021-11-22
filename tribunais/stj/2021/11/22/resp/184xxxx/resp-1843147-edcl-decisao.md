@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JHON EVERTON PEREIRA DE BARROS contra decisão de minha lavra, por meio daqual o respectivo recurso especial não foi conhecido, nos termos da seguinte ementa (fl. 1422):
+"RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. ROUBOS MAJORADOS. ALEGAÇÕES DE QUE: A CULPABILIDADE DO RECORRENTE É MENOR QUE A DOS CORRÉUS E QUE NÃO PODERIA TER SIDO CONDENADO PELO DEITO PRATICADO CONTRA O VIGILANTE DA AGÊNCIA DOS CORREIOS. AUSÊNCIA DE PREQUESTIONAMENTO.PLEITO PELA INCIDÊNCIA DA FRAÇÃO MÁXIMA EM RAZÃO DO RECONHECIMENTO DA PARTICIPAÇÃO DE MENOR IMPORTÂNCIA.INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO ESPECIAL NÃO CONHECIDO."
+Alega a Defesa, nas razões do recurso integrativo, a existência omissão na decisão embargada, porquanto teria havido prequestionamento implícito " .. acerca da impossibilidade de ciência pelo embargante de outro crime de roubo cometido no interior da agência dos correios, tendo em vista que atuou como mero observador, no lado externo da agência" (fl. 1441).
+É o relatório.
+Decido.
+Com efeito, a teor do disposto nos arts. 619 do Código de Processo Penal e 263 do Regimento Interno do Superior Tribunal de Justiça, o prazo para a oposição dos embargos de declaração, em matéria criminal, é de 2 (dois) dias.
+Na hipótese, os embargos de declaração são intempestivos, porque a decisão embargadafoi disponibilizadano Diário da Justiça Eletrônico em 08/11/2021 e consideradapublicadano primeiro dia útil seguinte, isto é, 09/11/2021 (fl. 1437). Entretanto, o recurso integrativo somente foi recebido nesta Corte Superior de Justiça, por meio de petição eletrônica, em 16/11/2021 (fl. 1440), quando já escoado o referido prazo legal.
+Nesse sentido:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACLARATÓRIOS INTEMPESTIVOS. PRAZO REGULADO PELO CPP. ART. 263 DO RISTJ, C/C O ART. 619 DO CPP INEXISTÊNCIA DOS VÍCIOS ELENCADOS NO ART. 619 DO CPP. NÍTIDO CARÁTER PROTELATÓRIO.
+1. O prazo para oposição de embargos de declaração em matéria criminal é o previsto no art. 619 do Código de Processo Penal, qual seja, 2 (dois) dias, conforme dispõe o art. 263 do Regimento Interno do Superior Tribunal de Justiça. A entrada em vigor do novo Código de Processo Civil não repercutiu no prazo dos embargos em processo penal, que possui disciplina própria.
+2. No caso, o acórdão embargado foi disponibilizado no Diário de Justiça eletrônico em 29/5/2017 (terça-feira), considerando-se publicado em 30/5/2017 (quarta-feira). O prazo para oposição dos aclaratórios iniciou-se em 1/6/2017 (sexta-feira) e terminou em 4/6/2017 (segunda-feira), sendo que os embargos foram opostos apenas em 11/6/2017, fora, portanto, do prazo legal.
+ ..
+5. Embargos de declaração não conhecidos, com a determinação a baixa dos autos à Corte de origem, após a certificação do trânsito em julgado, independentemente da interposição de outro recurso."(EDcl nos EDcl no AgRg no AREsp 1.141.253/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/08/2018, DJe 24/08/2018.)
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO DE 2 DIAS (ART. 619 DO CPP). RECURSO INTEMPESTIVO QUE NÃO INTERROMPE PRAZO PARA EVENTUAL RECLAMO SUBSEQUENTE. TRÂNSITO EM JULGADO DO ACÓRDÃO EMBARGADO. REMESSA IMEDIATA AO STF PARA PROCESSAMENTO DO RECURSO PENDENTE.
+1. Os aclaratórios são intempestivos, pois opostos quando já escoado o prazo de 2 dias, previsto no art. 619 do Código de Processo Penal.
+2. Em matéria criminal, os embargos de declaração possuem disciplina própria e, por isso, o prazo previsto no Código de Processo Civil não se aplica em hipóteses que tais. Precedente.
+3. Diante da intempestividade dos aclaratórios, não ocorreu a interrupção do prazo recursal para eventual interposição de recurso subsequente, sendo assim, é possível concluir que ocorreu o trânsito em julgado do acórdão embargado.
+4. Embargos de declaração não conhecidos com determinação de que, após publicado o acórdão e certificado o trânsito em julgado do aresto às fls. 608/614,sejam remetidos imediatamente os autos ao Supremo Tribunal Federal para processamento do recurso pendente de análise (agravo em recurso extraordinário)."(EDcl no AgRg no AREsp 1.172.467/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/03/2018, DJe 27/03/2018.)
+Ante o exposto, NÃO CONHEÇO dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. INOBSERVÂNCIA DO PRAZO DE 2 (DOIS) DIAS PARA OPOSIÇÃO DOS ACLARATÓRIOS. INTEMPESTIVIDADE PATENTE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
