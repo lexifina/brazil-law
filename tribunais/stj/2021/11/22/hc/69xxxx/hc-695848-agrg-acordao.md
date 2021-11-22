@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+DANIEL FERNANDO DE SOUZAagrava de decisão em que foi denegada a ordem de habeas corpus, por meio do qual buscava o abrandamento do regime prisional.
+Neste regimental, a defesa sustenta que o magistrado não pode perder de vista que a escolha do regime inicial para o cumprimento da pena se faz comobservância dos critérios do art. 59 do Código Penal, conforme preceitua o art. 33,§ 3º, desse mesmo diploma legal.
+Aduz que a presença de uma única circunstância judicial desfavorável- maus antecedentes- não autoriza a fixação do regime prisional mais gravoso que o previsto pela quantidade de pena aplicada, em respeito aos princípios da proporcionalidade e da razoabilidade.
+Requer a reconsideração do decisum agravado ou a submissão do feito ao órgão colegiado, para que seja dado provimento ao recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTOS NÃO INFIRMADOS. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É inviável o agravo regimental que deixa de atacar especificamente os fundamentos da decisão impugnada. É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos do decisum combatido, conforme entendimento firmado pela Corte Especial.
+2. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas na decisãoatacada, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos da impetração.
+3. Agravo regimental não conhecido.
+VOTO
+Não obstante os esforços perpetrados peloagravante, não constato argumentos suficientes a infirmar o decisum agravado.
+Conforme se observa neste regimental, a defesa furtou-se a infirmar todos os fundamentos para a denegação daordem: a multirreincidência do réu e a presença de circunstância judicial desfavorável- maus antecedentes -, o que afasta a aplicação da Súmula n. 296 do STJ, segundo a qual para a fixação do regime prisional semiabertoaos reincidentes,condenados à pena igual ou inferior a quatro anos, exige que todas as circunstâncias judiciais lhe sejam favoráveis.
+Limitou-se a alegar a desproporcionalidade do regime aplicado diante de apenas uma vetorial negativada e a sustentar, genericamente, que a motivação é inidônea e insuficiente para manter o regime mais rigoroso, conforme os enunciados das Súmulas n. 718 e 719 do STF. O presente recurso nem sequer tangenciou a multirreincidência do réu e ofundamentousado para afastar a aplicação da Súmula n. 269 do STF.
+Consoante jurisprudência deste Tribunal Superior, é condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos do decisum que pretende seja reformado, com a demonstração específica do desacerto de suas razões, em observância ao princípio da dialeticidade.
+Com essa compreensão, cito o precedente firmado na Terceira Seção:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art.1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+Ausentes, portanto, teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, não conheço do agravo regimental.
