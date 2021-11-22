@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial manejado por Associação Florianopolitana de Voluntários com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 171):
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. EXECUÇÃO FISCAL. SUSPENSÃO. DESCABIMENTO. ART. 313, V, CPC. INAPLICABILIDADE.
+As causas de suspensão processual previstas no art. 313, V, do CPC não se aplicam ao processo de execução, tendo em vista não estarem arroladas no art. 791 do CPC, além de que a propositura de qualquer ação relativa ao débito constante do título executivo não inibe o credor de promover-lhe a execução.
+Opostos embargos declaratórios, foram rejeitados (fls. 203/207).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aoart. 151, V, do CTN. Sustenta que "a execução foi ajuizada APENAS em 25.06.2015 e a r. sentença de primeiro grau no bojo da respectiva Ação Anulatória foi proferida anteriormente em 03.06.2014, quando expressamente DECLAROU QUE "SÃO NULOS DE PLENO DIREITO OS AUTOS DE INFRAÇÃO/LANÇAMENTOS FISCAIS LAVRADOS" (..), ou seja, que reconheceu a imunidade tributária da recorrente, restando pendente nos dias de hoje, apenas de análise o recurso especial" (fl. 216)
+Contrarrazões às fls. 228/230.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na hipótese dos autos, a Corte de origem julgou descabida a extinção da execução fiscal, com base nos seguintes fundamentos (fls. 174/175):
+Primeiramente, consigno que a apelação interposta contra a decisão que declarou a nulidade dos "autos de infração/lançamentos fiscais lavrados em decorrência do procedimento fiscal n.º AFR 09497546", proferida na ação ordinária nº 5007222-59.2013.4.04.7200, foi recebida no duplo efeito, ou seja, com efeito suspensivo, ao contrário do que alega a agravante.
+Depois, conforme evidenciou o juiz de origem, "no momento do ajuizamento deste feito (25.06.2015), não havia causa de suspensão da exigibilidade do crédito em execução, porquanto o Eg. Tribunal Regional da 4ºRegião conheceu e nego provimento às apelações interpostas somente em15.07.2015."
+Por outro lado, o Código de Processo Civil dispõe, no artigo 784,parágrafo 1º, que: "A propositura de qualquer ação relativa a débito constantede título executivo não inibe o credor de promover-lhe a execução".
+Depreende-se do dispositivo legal supracitado que nem mesmo o ajuizamento de ação discutindo valores inseridos em certidões de dívida ativa não é hábil a suspender a exigibilidade dos créditos tributários correlatos. Na verdade, para obstar o ajuizamento/prosseguimento do executivo fiscal, faz-se necessária a presença de uma das causas de suspensão da exigibilidade do crédito tributário arroladas no art. 151 do Código Tributário Nacional, quais sejam:
+ ..
+Assim, ausentes causas de suspensão da exigibilidade de crédito tributário, não há óbice à propositura/prosseguimento de ação de execução para a cobrança.
+Como se vê, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, a saber, o de que, na data do ajuizamento da execução, havia apelação recebida com efeito suspensivo pendente de julgamento na ação anulatória. Também não se impugnou a incidência do art. 784 do CPC/73 na hipótese.
+Esbarra-se, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".A respeito do tema:AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Ainda que assim não fosse, é evidente que a alteração das conclusões adotadas pela Corte de origem acerca da existência de efeito suspensivo na apelação em ação anulatóriademandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE SENTENÇA.GRATIFICAÇÃO POR TRABALHO EDUCACIONAL. ANÁLISE DA LEGITIMIDADE E DA PRESCRIÇÃO. IMPOSSIBILIDADE. REEXAME DO CONTEXTO FÁTICO-PROABATÓRIO.SÚMULA 7/STJ.
+1. Na hipótese dos autos, extrai-se do acórdão vergastado que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente de documentos aptos a certificar a legitimidade dos recorridos, bem como de decisão constante de outros autos que, segundo o Sodalício a quo, afastam a tese da prescrição.Incide, in casu, o óbice da Súmula 7/STJ.
+2. Recurso Especial não conhecido.
+(REsp 1.690.579/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/10/2017, DJe 23/10/2017)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
