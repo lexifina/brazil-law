@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interno interposto por UNIMED CAMPO GRANDE MS COOPERATIVA DE TRABALHO MÉDICOcontra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo, em virtude da falta de impugnação aos fundamentos da decisão que inadmitiu o apelo nobre.
+Sustenta a agravante que, ao contrário do que afirmou a decisão agravada, o óbice da Súmula nº 83/STJ foi impugnado.
+É o relatório.
+DECIDO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Observa-se que a recorrente, na petição de agravo de fls. 490/499(e-STJ), impugnou ainda que minimamenteo fundamento da decisão que deixou de admitir o seu recurso especial, razão pela qual se há de reconsiderar a decisão de fls. 522/524(e-STJ).
+Passa-se, pois, ao exame do recurso especial de fls. 446/460(e-STJ) fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal e interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul assim ementado:
+"APELAÇÃO - AÇÃO DE INDENIZAÇÃO - TRATAMENTO DE ZICA VÍRUS - RECUSA INDEVIDA DE COBERTURA DOEXAME POR PLANO DE SAÚDE - DANO MORAL PURO - INDENIZAÇÃO DEVIDA- SENTENÇA REFORMADA- RECURSO CONHECIDO E PARCIALMENTE PROVIDO" (fl. 421, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 437/440, e-STJ).
+Nas razões do especial (fl. 446/460, e-STJ), além do dissídio interpretativo, a parte recorrente aponta negativa de vigência doart. 188, I, do Código Civil. Sustenta, em síntese, que "o mero descumprimento contratual, quando a recusa for pautada em interpretação de cláusula contratual, não gera dano moral" (fl. 455,e -STJ).
+A irresignação não merece acolhida.
+Com efeito, ao dirimir a controvérsia, o Tribunal local assim se manifestou:
+"E, no caso, a apelante/autora comprova que requereu autorização junto ao plano de saúde para realizar o exame rápido para Zica Vírus.
+No entanto a ré, indevidamente, negou a cobertura ao procedimento médico.
+Portanto, no tocante aos danos morais, o ato ilícito se consubstancia na negativa em autorizar a realização de exame para o diagnóstico de Zica Vírus, o qual teve que ser custeado pelo pai da primeira apelante.
+A negativa, certamente, causou enorme angústia aos apelantes que esperava saber o seu real estado de saúde o quanto antes, a fim de realizar o tratamento médico.
+Deve ser levado em consideração que a apelante Manuella possui diagnóstico de transplante hepático e que, em razão do Zica Vírus, passou mal e teve que ser atendida com urgência.
+Ou seja, seu estado de saúde requer maiores cuidados e qualquer alteração naturalmente já causa angustia suficiente a ela e seus familiares. Somado a isso, o plano de saúde recusou a realização do exame, que teve de ser custeado pela via particular" (fl. 422,e -STJ- grifou-se).
+Registre-se que a jurisprudência desta Corte firmou posicionamento no sentido de que há direito ao ressarcimento do abalomoraloriundo da injustarecusade cobertura securitária médica - circunstância evidenciada no caso concreto -, pois esta conduta agrava a situação de aflição psicológica e de angústia no espírito da segurada, já abalada em virtude da doença.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO E FORNECIMENTO DE MEDICAMENTO A PACIENTE COM ANEURISMA CEREBRAL.DANO MORAL. RECUSAINDEVIDA E INJUSTIFICADA. CARACTERIZAÇÃO. QUANTUM INDENIZATÓRIO. REDUÇÃO. INVIABILIDADE. AGRAVO NÃO PROVIDO.
+1. Nas hipóteses em que hárecusaindevida de realização de procedimento e/ou fornecimento de medicamento por parte da operadora do plano de saúde para tratamento do segurado, como ocorrido no presente caso, a jurisprudência do STJ é assente quanto à caracterização dedano moral,não se tratando apenas de mero aborrecimento.
+2. Somente é possível a revisão do montante da indenização a título de danos morais nas hipóteses em que o quantum fixado na origem for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso emexame.Isso, porque a indenização, arbitrada em R$ 20.000,00, não é exorbitante nem desproporcional aos danos sofridos pela recorrida, que teve negado indevidamente o fornecimento de material essencial à realização de procedimento cirúrgico e de medicamento para tratar enfermidade grave, qual seja, aneurisma cerebral.
+3. Agravo interno não provido" (AgRg no REsp 1014906/MA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/05/2016, DJe 13/05/2016- grifou-se).
+Assim, tem incidência o enunciado da Súmula nº 83/STJ, aplicável em ambas as alíneas do permissivo constitucional.
+Além disso,reverter a conclusão do tribunal local para acolher a pretensão recursal demandaria a análise eo revolvimento do acervo fático-probatório dos autos, procedimentoinviávelante a natureza excepcional da via eleita, consoante enunciado daSúmulanº7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.NEGATIVA DE COBERTURA DE EXAME MÉDICO. PREJUÍZO AO PACIENTE. DANO MORAL CONFIGURADO. REVISÃO DO JULGADO. SÚMULA 7/STJ. VALOR INDENIZATÓRIO. FIXAÇÃO EM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. SÚMULA N. 7/STJ. VALOR DA MULTA DIÁRIA. REDUÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a negativa indevida de plano de saúde para cobertura das despesas com tratamento médico do segurado não configura, de imediato, dano moral indenizável, devendo a possível reparação ser verificada com base no caso concreto, diante da constatação de situação que aponte a afronta a direito da personalidade.
+2. No caso, o Tribunal de origem consignou que, diante da recusa da operadora do plano de saúde em custear o exame médico requerido, houve agravamento da situação de aflição psicológica e de angústia experimentada pela parte recorrida. Nesse contexto, a alteração das conclusões adotadas pela Corte de origem (quanto à afronta a direito da personalidade do autor e à ocorrência de danos morais indenizáveis) demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme a Súmula 7/STJ.
+3. No tocante ao valor fixado a título de indenização por danos morais, nos termos da jurisprudência deste Tribunal, o montante estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso, de maneira que a sua revisão encontra óbice na Súmula 7/STJ.
+4. A alteração do entendimento adotado pela Corte de origem no que concerne ao cabimento e à proporcionalidade da multa diária imposta pelo descumprimento da determinação judicial demandaria, necessariamente, o reexame de fatos e provas constantes dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+5. Agravo interno desprovido"(AgInt no AREsp 1880329/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/09/2021, DJe 22/09/2021- grifou-se)
+Ante o exposto, reconsidero a decisão de fls. 522/524 (e-STJ)para conhecer do agravo e conhecer em parte do recurso especial para, nesta extensão, negar-lhe provimento.
+Na origem, os honorários advocatícios foram fixados em 12% (dozepor cento) sobre o valor da condenação,os quais deverão ser majorados para 15% (quinze por cento), em favor dos advogados da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, observada a gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
