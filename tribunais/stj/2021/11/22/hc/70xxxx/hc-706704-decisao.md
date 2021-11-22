@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GIGNI CONCEIÇÃO SOBRINHOcontra decisão liminar de Desembargador do Tribunal de Justiça do Estado do Rio de Janeiro(0083151-24.2021.8.19.0000).
+Segundo consta dos autos, opaciente teve sua prisão preventiva decretada pela suposta prática do crime previsto no artigo 121, §2º, I e IV do CP, porque teria juntamente com mais dois indivíduos,disparado com arma de fogo contra a vítima, vindo causar sua morte. Posteriormente, um dos envolvidos, teria confessado o crime e narrou sobre a participação do paciente na empreitada criminosa.
+Na ação originária, a defesa postulou a revogação da prisão preventiva, alegando a ausência de pressupostos válidos para sua decretação, bem como, afirma que único elemento que aponta sua suposta participação no crime, é o relato extrajudicial de um dos envolvidos no delito. O Relator da ação na origem, indeferiu a liminar (e-STJ fls. 90/93).
+Nas razões da presente impetração, a defesa reafirmaausência de fundamentação válida para manter a prisão preventiva, além de reafirmar, que o único elemento que aponta para sua suposta participação no crime, é o interrogatório de um dos participantes, em sede policial.
+Diante disso, pede, em liminar e no mérito, a revogação da prisão preventiva da paciente, tudo com superação do enunciado n. 691/STF.
+É o relatório, decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Diante do contexto informativo apresentado nos autos, o Relator da ação originária entendeu não haver ilegalidade manifesta, motivo pelo qual indeferiu a liminar declinando as seguintes razões (e-STJ fls. 92/93):
+ ..
+Trata-se de prisão preventiva decretada em 10/01/2019 nos autos n.0000011-37.2019.8.19.0041, decisão cuja cópia foi apresentada no doc. 13 em anexo, juntamente com a cópia da denúncia doc. 08.
+Segundo a denúncia, o paciente e outros dois corréus, Bruno dos Remédios Braga e Eriel Ramos Xavier, em 05/02/2018, teriam disparado com arma de fogo contra a vítima Luiz Fernando Vieira Lima, vindo a causar sua morte.
+Menciona a denúncia que o corréu Bruno confessou em sede policial e narrou sobre a participação dos outros denunciados.
+Em 20/01/2020, o feito foi então desmembrado em relação ao paciente e ao corréu Eriel, passando a tramitar sob o n. 0007250-92.2019.8.19.0041 e, posteriormente, este feito foi desmembrado em relação apenas ao paciente, tramitando sob o n. 0007252-62.2019.8.19.0041.
+Já nos autos desmembrados, em 16/08/2021 foi indeferido pedido de revogação da prisão preventiva, decisão com cópia no doc. 41, e novamente em 08/10/2021 foi indeferido pleito libertário, cópia doc. 52.
+Em que pese a contundência da argumentação dos impetrantes, observo, nesse primeiro momento, que as decisões mencionadas estão, a princípio, suficientemente fundamentadas, portanto não há que se falar em patente e manifesto constrangimento ilegal.
+Nas hipóteses diversas, em que se requer um aprofundamento do pleito libertário, hipótese esta ora vertente, mostra-se prudente reservar o exame da questão ao órgão colegiado, em respeito ao princípio do colegiado, com a oportunidade da manifestação ministerial em segundo grau e após informações do magistrado.
+Assim, não se verifica manifesta ilegalidade na decisão que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte. Entendo que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
