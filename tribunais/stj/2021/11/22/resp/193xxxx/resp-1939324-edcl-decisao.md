@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaraçãoopostos por HERBIOESTE HERBICIDAS LTDA. - EM RECUPERAÇÃO JUDICIALcontra a decisão (fls. 502/504e-STJ) que deu provimento ao recurso especial interposto pela ora embargada,determinandoo retorno dos autos ao tribunalde origem para que a disposição do plano de recuperação judicialque versa acerca da liberação de garantia seja examinada à luz da jurisprudência do Superior Tribunal de Justiça.
+Nas presentes razões, aembargante sustenta a existência de erro de fato, afirmando que "a cláusula em discussão (7.2 do PRJ) em momento algum prevê a extinção das ações movidas contra terceiros ou a supressão das garantias. Ela apenas e tão somente propõe a suspensão das ações".
+É o relatório.
+DECIDO.
+Nos termos do artigo 1.022do Código de Processo Civil de 2015, os embargos dedeclaração são cabíveis parasuprir omissão ou sanar obscuridade, contradição e/ou erro material do julgado.
+Na hipótese,os embargos merecem acolhida para fins aclaratórios.
+Assim como posto na decisão embargada, écerto quea novação decorrente da concessão da recuperação judicial afeta somente as obrigações da recuperanda, devedora principal, constituídas até a data do pedido, não havendo nenhuma interferência quanto aos coobrigados,fiadores,obrigados de regresso e, especialmente, aos avalistas, dada a autonomia do aval.
+Também está sedimentado o entendimento de ser possível ao devedor superar a determinação legal a partir da inclusão de cláusula no plano de recuperação judicial que estenda a novação aos coobrigados, fiadores, obrigados de regresso eavalistas, ao fundamento de impulsionar o soerguimento da empresa.
+Ressalta-se que esta Corte entende que o deferimento da recuperação judicial nãoinduz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários, sendo a suspensão das ações, assim como a supressão da garantia, somente admitida em caso de expressa anuência.
+A propósito:
+"RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PRAZO PARA PAGAMENTO DOS CREDORES TRABALHISTAS. MARCO INICIAL. ART. 54 DA LEI 11.101/05. DATA DA CONCESSÃO DA RECUPERAÇÃO JUDICIAL. SUPRESSÃO DE GARANTIAS.INEFICÁCIA EM RELAÇÃO AOS CREDORES QUE NÃO ANUÍRAM. SUSPENSÃO DAS AÇÕES MOVIDAS CONTRA COOBRIGADOS. IMPOSSIBILIDADE.PREQUESTIONAMENTO. AUSÊNCIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO.SÚMULA 283/STF. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Recuperação judicial requerida em 20/4/2016. Recurso especial interposto em 22/5/2020. Autos conclusos à Relatora em 26/2/2021.
+2. O propósito recursal consiste em (i) definir o termo inicial da contagem do prazo para pagamento dos credores trabalhistas no procedimento de recuperação judicial e (ii) verificar a higidez das cláusulas do plano de soerguimento que preveem: (a) a supressão de garantias; (b) a impossibilidade de decretação automática da falência em caso de descumprimento das condições entabuladas; (c) a venda de ativos independentemente de autorização judicial; e (d) o encerramento da recuperação judicial após cumpridas as obrigações que se vencerem até dois anos após a homologação judicial do plano.
+3. O início do cumprimento da obrigação de pagar os créditos trabalhistas que integram o plano de soerguimento do devedor está condicionado à concessão da recuperação judicial. Precedente específico da Terceira Turma.
+4. A Segunda Seção do STJ firmou entendimento no sentido de que a cláusula do plano de recuperação judicial que prevê a supressão de garantias somente é eficaz em relação aos credores que com ela anuíram.
+5. A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos artigos 6º, caput, e 52, inciso III, ou a novação a que se refere o artigo 59, caput, por força do que dispõe o artigo 49, § 1º, todos da Lei 11.101/2005.Precedente qualificado.
+6. O conteúdo normativo do artigo 47 da Lei 11.101/05 - que fundamenta a pretensão recursal acerca da impossibilidade de decretação da falência na hipótese de descumprimento do plano - não foi objeto de apreciação pelo Tribunal de origem, de modo que, carecendo do necessário prequestionamento, fica inviabilizado o exame da questão (Súmula 211/STJ).
+7. O deferimento da recuperação judicial impõe restrições à livre administração da empresa, sendo exigida autorização judicial para atos que envolvam alienação e oneração de bens que compõem o ativo permanente, bem como a observância de eventuais condicionamentos elencados no plano de recuperação judicial. Precedente.
+8. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+9. Os argumentos invocados pelos recorrentes não demonstram como o acórdão recorrido violou os artigos 61 e 63 da Lei 11.101/05.
+RECURSO ESPECIAL PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO."
+(REsp 1.947.732/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28/09/2021, DJe 1º/10/2021)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL, EMPRESARIAL E PROCESSUAL CIVIL. OFENSA AOS ARTS. 489 E 1.022 DO CPCP NÃO VERIFICADA. RECUPERAÇÃO JUDICIAL. PLANO DE SOERGUIMENTO. SUPRESSÃO DAS GARANTIAS FIDEJUSSÓRIAS E REAIS COM SUSPENSÃO DAS AÇÕES E EXECUÇÕES CONTRA OS COOBRIGADOS. IMPOSSIBILIDADE. SUPRESSÃO DE GARANTIAS OU SUBSTITUIÇÃO. NECESSIDADE DE CONSENTIMENTO DO CREDOR TITULAR. QUESTÃO PACIFICADA PELA SEGUNDA SEÇÃO NO JULGAMENTO DO RESP 1.794.209/SP.
+AGRAVO INTERNO DESPROVIDO"
+(AgInt no REsp 1.878.011/MT, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/09/2021, DJe 23/09/2021).
+Assim sendo, é devido o retorno dos autos ao Tribunal de origem para que ele analise a disposição do plano de recuperação judicial.
+Ante o exposto, acolho os embargos de declaraçãopara esclarecimentos, sem, contudo, atribuir-lhes efeitos infringentes.
+Publique-se.
+Intimem-se.
