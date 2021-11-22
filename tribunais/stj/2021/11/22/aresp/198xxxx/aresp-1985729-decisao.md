@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por CONDOMÍNIO RESIDENCIAL BANDEIRANTES. O apelo extremo, fundamentado no art. 105, III, "a", da Constituição Federal, insurge-se contra acórdão doTribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. COBRANÇA DE COTAS CONDOMINIAIS. DECISÃO QUE DETERMINOU O DESENTRANHAMENTO DOS EMBARGOS PROTOCOLIZADOS NOS AUTOS DA EXECUÇÃO, DETERMINANDO A SUA DISTRIBUIÇÃO POR DEPENDÊNCIA. INSURGÊNCIA DO AGRAVANTE. EMBARGOS À EXECUÇÃO QUE SE TRADUZEM COMO AÇÃO AUTÔNOMA. PETIÇÃO DOS EMBARGOS À EXECUÇÃO QUE DEVERIA TER SIDO DISTRIBUÍDA POR DEPENDÊNCIA À AÇÃO DE EXECUÇÃO. ARTIGO 914, § 1º, DO CÓDIGO DE PROCESSO CIVIL. MERA IRREGULARIDADE FORMAL. ERRO SANÁVEL. PRECEDENTES DESTA E. CORTE. APLICAÇÃO DA REGRA DOS ARTIGOS 317 E 321 DO CÓDIGO DE PROCESSO CIVIL. SOLUÇÃO QUE SE COADUNA COM OS PRINCÍPIOS DA INSTRUMENTALIDADE DAS FORMAS, DA COOPERAÇÃO E DO CONTRADITÓRIO. EMBARGOS À EXECUÇÃO QUE SERÃO DISTRIBUÍDOS POR DEPENDÊNCIA, DEVENDO, EM JUÍZO DE ADMISSIBILIDADE, CONSIDERAR A DATA DE PROTOCOLO DA PEÇA NOS AUTOS ORIGINÁRIOS, BEM COMO AS CUSTAS JÁ RECOLHIDAS. DECISÃO VERGASTADA QUE SE MANTÉM. DESPROVIMENTO DO RECURSO."(e-STJ fls. 26-27).
+Os embargos de declaração opostos na origem foram rejeitados.
+Nasrazões do recurso especial (e-STJ fls. 54-74), orecorrente aponta violaçãodosarts.489, § 1º,914, § 1º, e1.022 doCódigode Processo Civil de 2015, ao argumento de que configura erro inescusável e grosseiro, que não admite correção, a apresentação de embargos nos próprios autos da execução, tendo em vista que a norma processual é clara ao dispor que os embargos devem ser protocolados em apartado, com o recolhimento das custas e da taxa judiciária.
+Indica, ainda, contrariedade aos arts. 6º, 7º, 8º, 317 e 321 do CPC/2015, alegando que o acórdão recorrido, ao admitir o processamento dos embargos à execução, ofendeu os princípios da isonomia, da razoabilidade e da proporcionalidade.
+Decorrido o prazo para apresentação das contrarrazões (e-STJ fl. 92), o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+Em nova petição (e-STJ fls. 134-136), o agravante requer seja deferidatutela provisória de modo a atribuir efeito suspensivo ao recurso especial.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+A despeito de haver manifestado entendimento em sentido contrário, a Terceira Turma desta Corte, por maioria de votos, decidiu quenão se afigura razoável deixar de apreciar os argumentos apresentados em embargos à execução tempestivamente opostos - ainda que, de forma errônea, nos autos da própria ação de execução - sem antes conceder à parte prazo para sanar o vício, adequando o procedimento à forma prescrita no art. 914, § 1º, do CPC/2015.
+O respectivo acórdão possui a seguinte ementa:
+"DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PROTOCOLIZAÇÃO DE EMBARGOS À EXECUÇÃO NOS AUTOS DA PRÓPRIA AÇÃO EXECUTIVA. INOBSERVÂNCIA DO ART.914, § 1º, DO CPC/2015. ERRO SANÁVEL. APLICAÇÃO DOS PRINCÍPIOS DA INSTRUMENTALIDADE DAS FORMAS E DA ECONOMIA PROCESSUAL.
+1. Ação de execução de título executivo extrajudicial, tendo em vista a inadimplência no pagamento de cotas condominiais.
+2. O propósito recursal é definir se configura erro grosseiro, insuscetível de correção, a protocolização de embargos à execução nos autos da própria ação executiva, em inobservância ao que dispõe o art. 914, § 1º, do CPC/2015.
+3. Com efeito, é inegável que a lei prevê expressamente que os embargos à execução tratam-se de ação incidente, que deverá ser distribuída por dependência aos autos da ação principal (demanda executiva).
+4. Contudo, primando por uma maior aproximação ao verdadeiro espírito do novo Código de Processo Civil, não se afigura razoável deixar de apreciar os argumentos apresentados em embargos à execução tempestivamente opostos - ainda que, de forma errônea, nos autos da própria ação de execução - sem antes conceder à parte prazo para sanar o vício, adequando o procedimento à forma prescrita no art. 914, § 1º, do CPC/2015.
+5. Ademais, convém salientar que o art. 277 do CPC/2015 preceitua que, quando a lei prescrever determinada forma, o juiz considerará válido o ato se, realizado de outro modo, lhe alcançar a finalidade.
+6. Recurso especial conhecido e não provido."(REsp 1.807.228/RO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Rel. p/ acórdão Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 3/9/2019, DJe 11/9/2019).
+Assim, em respeito à função uniformizadora do Superior Tribunal de Justiça, passa-sea adotar oentendimento que prevaleceu no âmbito da Terceira Turma, que em nada destoa da orientação seguida pelo órgão julgador na origem.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial, ficando prejudicado o pedido de tutela provisória.
+Publique-se.
+Intimem-se.
