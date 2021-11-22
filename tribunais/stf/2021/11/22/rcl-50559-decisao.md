@@ -1,0 +1,129 @@
+Decisão
+
+    Trata-se de Reclamação, com pedido de medida liminar, ajuizada em face de decisão proferida pelo Tribunal Superior do Trabalho, que teria usurpado a competência do SUPREMO TRIBUNAL FEDERAL ao negar processamento ao Recurso Extraordinário interposto.
+
+    Na inicial, a parte autora expõe as seguintes alegações de fato e de direito (doc. 1, fls. 8/9):
+
+    As autoras da presente Reclamação Constitucional interpuseram Recurso Extraordinário contra decisão proferida pelo C. TST em razão da manutenção da condenação à declaração de Grupo Econômico e pagamento solidário da condenação.
+
+    Foi alegado e comprovado nos fundamentos do Recurso Extraordinário a violação direta do texto Constitucional, artigos 1º, 5º, II, XXII, LIV e LV, 93, IX e 170, IV DA CF/88, que em homenagem ao postulado da segurança jurídica, devem ser observados.
+
+    Veja que o artigo 5º, II da CF/88, determina que o princípio da legalidade deverá ser observado, e, para a hipótese, o artigo 2º, § 2º da CLT, diz que para a configuração de grupo econômico, necessário se faz a existência de uma relação hierárquica de uma empresa sobre as demais, ou, a mesma direção, controle ou administração. Sendo que no presente caso amparou-se a decisão de existência de Grupo Econômico apenas na mera identidade de sócios entre as empresas reclamadas e uma suposta coordenação.
+
+    No mesmo sentido, o artigo 170, caput da CF/88, demonstra clareza de que deve ser observado o princípio da preservação da atividade econômica.
+
+    Inobstante o contido nas decisões anteriores, todavia, considerando que toda a fundamentação gravita na pessoa do suposto sócio comum/administrador, consequentemente, violou-se o artigo 170, Caput, e, IV da CF/88, que visa a preservação da atividade econômica inserido na livre iniciativa privada.
+
+    Ora, na hipótese, os interesses devem ser preservados constitucional e simultaneamente, qual seja: (i) dos empregados na busca do recebimento dos seus direitos trabalhistas e (ii) da iniciativa privada, sem que um se sobreponha ao outro, logo, decisão em contrário viola o princípio da livre iniciativa e do cumprimento da função social da empresa, prevista no artigo 170, caput, da Constituição Federal.
+
+    Assim, o direito do trabalhador não pode se sobrepor ao princípio constitucional da livre iniciativa privada, contido no artigo 170, caput, da CF/88.
+
+    Não obstante, foi negado seguimento ao recurso extraordinário em despacho de admissibilidade proferido pelo Vice-Presidente do C. TST.
+
+    A parte não concordando com a decisão monocrática interpôs Agravo de Instrumento em Recurso Extraordinário.
+
+    O Agravo de Instrumento deveria ter sido encaminhado para esta Corte Suprema - STF, conforme preceituam os artigos 269 e 270 do Regimento Interno do C. TST.
+
+    Entretanto, o C. TST recebeu o Agravo de Instrumento interposto como Agravo Interno e usurpando competência deste Supremo Tribunal, negou provimento ao Agravo de instrumento ao fundamento de que o seguimento do agravo encontra óbice nos Temas: 181 e 339 do STF.
+
+    Ao final, requer a concessão de medida liminar a fim de suspender o curso do processo e, no mérito, a procedência do pedido para afastar a decisão do C. TST, determinando que o Agravo de Instrumento em Recurso Extraordinário seja encaminhado a esta Suprema Corte para julgamento (fl. 22).
+
+     É o relatório. Decido.
+
+    A respeito do cabimento da reclamação para o SUPREMO TRIBUNAL FEDERAL, dispõem os arts. 102, I, “l”, e 103-A, caput e § 3º, ambos da Constituição Federal:
+
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+
+    I - processar e julgar, originariamente:
+
+    (...)
+
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+
+    (...)
+
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil:
+
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+
+    I - preservar a competência do tribunal;
+
+    II - garantir a autoridade das decisões do tribunal;
+
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (...)
+
+    Inicialmente, registro que a presente Reclamação foi protocolada nesta CORTE em 18/11/2021. Desse modo, é inaplicável, ao caso sob exame, o art. 988, § 5º, inciso I, do CPC, assimilação, pelo novo código processual, de antigo entendimento do STF, enunciado na Súmula 734 (Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do SUPREMO TRIBUNAL FEDERAL), uma vez que, segundo informações obtidas no sítio eletrônico do Tribunal Superior do Trabalho, os autos nos quais foi proferido o ato reclamado encontram ativos.
+
+    Na presente hipótese, a reclamação é manifestamente incabível.
+
+    Antes da entrada em vigor do Código de Processo Civil de 2015, o SUPREMO tinha posição rígida no sentido da inviabilidade da reclamação para trazer a discussão sobre a má aplicação da sistemática da repercussão geral para a CORTE. Por todos, o seguinte precedente:
+
+    RECLAMAÇÃO DECISÃO QUE NEGA TRÂNSITO AO RECURSO EXTRAORDINÁRIO PORQUE NÃO RECONHECIDA A EXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL NELE SUSCITADA ALEGADA USURPAÇÃO DA COMPETÊNCIA DESTA SUPREMA CORTE INOCORRÊNCIA INADMISSIBILIDADE DO USO DA RECLAMAÇÃO COMO INSTRUMENTO DESTINADO A QUESTIONAR A APLICAÇÃO, PELO TRIBUNAL DE ORIGEM, DO SISTEMA DE REPERCUSSÃO GERAL PRECEDENTES FIRMADOS PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL (RCL 7.547/SP, REL. MIN. ELLEN GRACIE; RCL 7.569/SP, REL. MIN. ELLEN GRACIE; AI 760.358-QO/SE, REL. MIN. GILMAR MENDES) INCOGNOSCIBILIDADE DA RECLAMAÇÃO RECONHECIDA PELA DECISÃO AGRAVADA LEGITIMIDADE CONSEQUENTE EXTINÇÃO ANÔMALA DO PROCESSO DE RECLAMAÇÃO RECURSO DE AGRAVO IMPROVIDO (Rcl 11.217-AgR, Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe de 18/2/2014).
+
+    O CPC/2015 concedeu um restritíssimo espaço para discussão da aplicação da sistemática da Repercussão Geral, pelo Juízo de origem, no âmbito da Reclamação para os Tribunais Superiores. Somente caberá Reclamação (a) para se assegurar a observância de acórdão formado no julgamento do mérito de recurso extraordinário com repercussão geral reconhecida ou de RE ou recurso especial repetitivo e (b) desde que esgotadas todas as instâncias ordinárias, a saber, o percurso de todo o íter recursal cabível antes do acesso à SUPREMA CORTE (Rcl 24.686-ED-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 11/4/2017).
+
+    É o que se extrai da leitura a contrario sensu do art. 988, § 5º, II:
+
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+
+    I a IV omissis.
+
+    § 5 º É inadmissível a reclamação:
+
+    I omissis
+
+    II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+
+    Pois bem: ressalte-se, em rigor, que a CONSTITUIÇÃO FEDERAL, ao estabelecer a competência desta SUPREMA CORTE, em rol taxativo, não prevê a utilização da via reclamatória para apreciar a correção da aplicação da sistemática de Repercussão Geral, de maneira que incumbe exclusivamente ao tribunal de origem aplicar tal decisão ao caso concreto, pondera o eminente Ministro LUIZ FUX (Rcl 26.633/SP, DJe de 23/5/2017).
+
+    Assim, esta CORTE, excepcionalmente, conhece e julga reclamações postulando a observância de acórdão de Recurso Extraordinário com repercussão geral reconhecida somente após esgotadas as instâncias ordinárias nos restritos casos em que se depara com decisão teratogênica, vício judicial que autoriza a utilização e admissão deste instrumento processual para fins de cassação do ato reclamado, observando-se, consequentemente, os seus estritos limites cognitivos (Rcl 21.445/RS. Rel. Min. ROBERTO BARROSO, DJe de 10/5/2017).
+
+    Consoante bem observado pela Min. CÁRMEN LÚCIA, desrespeita-se a autoridade da decisão do SUPREMO quando configurada erronia na aplicação do entendimento, a evidenciar teratologia da decisão reclamada (Rcl 24.911/DF, DJe de 31/8/2016).
+
+    Cite-se, também, o entendimento do Min. GILMAR MENDES, no sentido de que, quando se intenta garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida, a reclamatória proposta no STF deve estar arregimentada de dois inseparáveis pressupostos: o esgotamento da instância de origem, com a interposição de agravo interno da decisão monocrática que sobrestá o processo, inadmite liminarmente o recurso da competência do STF ou julga-o prejudicado; e a plausibilidade na tese de erronia na aplicação do entendimento do SUPREMO TRIBUNAL FEDERAL firmado na repercussão geral pelo Juízo a quo , a indicar teratologia da decisão reclamada. (Rcl 26.093/PI, Rel. Min. GILMAR MENDES, DJe de 6/2/2017).
+
+    É preciso registrar a observação do Min. DIAS TOFFOLI sobre a excepcionalidade do cabimento da Reclamação para fins de questionamento da aplicação do precedente, sendo dever da parte reclamante demonstrar a existência de razões fundamentadas em teratologia na aplicação da norma de interpretação extraída do precedente do STF com força obrigatória ao caso concreto (Rcl. 26.780-MC/SP, DJe de 5/6/2017).
+
+    Na presente hipótese, o acórdão impugnado negou provimento ao agravo interno interposto, mantendo a decisão que inadmitiu o Recurso Extraordinário, conforme infere-se da ementa a seguir transcrita (doc. 7, fls. 278/279):
+
+    AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO – NEGATIVA DE PRESTAÇÃO JURISDICIONAL – NÃO OCORRÊNCIA – TEMA 339 – PRESSUPOSTO DE ADMISSIBILIDADE DE RECURSO DE COMPETÊNCIA DO TST – TEMA 181 – APELO MANIFESTAMENTE INADMISSÍVEL – MULTA POR PROTELAÇÃO. 1. A Suprema Corte, ao decidir Questão de Ordem no Agravo de Instrumento nº 791.292/PE, firmou o entendimento de que o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (Tema 339). No caso, a Turma desta Corte expôs textualmente os fundamentos para negar provimento ao apelo, não se havendo de falar em negativa de prestação jurisdicional, e sim, mero inconformismo com o resultado do julgamento. 2. O Supremo Tribunal Federal, ao julgar o Recurso Extraordinário nº 598.365/MG, concluiu que o exame de questão alusiva ao cabimento de recurso de competência de outro Tribunal se restringe ao âmbito infraconstitucional, inexistindo questão constitucional com repercussão geral (Tema 181). 3. Em virtude do manifesto intuito protelatório dos agravantes, que apresentam recurso desprovido de viabilidade, impõe-se a aplicação da multa específica prevista no art. 1.021, § 4º, do CPC/2015. Agravo desprovido, com aplicação de multa.
+
+    Como se observa, o Tribunal de origem entendeu que a decisão agravada alinha-se à tese fixada por esta CORTE no Tema 339, AI 791.292 RG, Rel. Min. GILMAR MENDES, ao afirmar que (fls. 283/284):
+
+    Na hipótese, a Turma desta Corte, ao negar provimento ao agravo em agravo de instrumento interposto pela ora agravante, expôs os fundamentos sob os quais considerou fundamentada a decisão do Tribunal Regional. Registrou expressamente que “ao contrário do que alegam as reclamadas, a Corte Regional manifestou-se acerca dos temas relevantes para o deslinde da questão”. Acerca do reconhecimento de formação de grupo econômico, registrou que “A Corte Regional fez constar que existe grupo econômico composto por coordenação, no qual as empresas atuam horizontalmente, nos termos do artigo 2º, § 2º, da CLT, na exploração de finalidades comuns, em um mesmo plano, com participação no mesmo empreendimento (...)” e que a questão relativa ao grupo econômico é impossível de exame nesta instância, ante o desatendimento do requisito de admissibilidade recursal referido na Súmula nº 126 do TST - impossibilidade, no Tribunal Superior do Trabalho, de revolvimento de fatos e provas.
+
+    A prestação jurisdicional foi devidamente atendida, o que atrai a incidência do Tema 339 do ementário de Repercussão Geral do STF.
+
+    Na hipótese, o Tribunal reclamado decidiu em conformidade com a diretriz fornecida pelo Tema 339 do STF, haja vista a desnecessidade de exame de todas as alegações e provas coligidas nos autos, desde que o órgão julgador apresente fundamentação suficiente para resolver todos os pontos controvertidos. É o que consta da ementa do leading case. Veja-se:
+
+    Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. (AI 791.292-QO-RG, Rel. Min. GILMAR MENDES, DJe de 13/8/2010).
+
+    Igualmente, o Juízo impugnado, ao negar seguimento ao RE ao fundamento de ausência de repercussão da matéria discutida Tema 181 (RE 598.365, Rel. Min. AYRES BRITTO), observou corretamente as diretrizes estabelecidas por esta CORTE no precedente acima citado, no qual assentou-se a ausência de repercussão geral da matéria discutida no tema transcrito abaixo:
+
+    Tema 181: A questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+
+    Ressalto que, em casos análogos, esta CORTE tem entendido que Temas aos quais se negue a existência de Repercussão Geral não podem ser objeto paradigma de reclamação. Nessa direção, cito: Rcl 32.632 (decisão monocrática, Relator Min. ALEXANDRE DE MORAES, julgado em 26/11/2018) e a Rcl 27798-AgR (Relator Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 27/10/2017), esta última assim ementada:
+
+    Ementa: AGRAVO INTERNO. RECLAMAÇÃO. DESRESPEITO A PRECEDENTE DO STF PLASMADO SOB O RITO DA REPERCUSSÃO GERAL. (...) 8. De outro lado, o Código deixa muito claro que o reclamante pode usar como fundamento somente acórdão de recurso extraordinário com repercussão geral RECONHECIDA ou acórdão proferido em julgamento de recurso extraordinário REPETITIVO. 9. Dentro desses exíguos limites, não cabe alegar nesta reclamação (a) desrespeito a acórdão que afirmou INEXISTENTE a repercussão geral de certa matéria e (b) a aplicação de óbices processuais ou de outros precedentes, destituídos da força da repercussão geral ou do caráter repetitivo definido nos arts. 1.036 a 1.041. 10. Em síntese: a reclamação prevista no art. 988, § 5º, II, do CPC (a) cabe tão-somente do julgado que resultar da apreciação do agravo interno de que trata o art. 1.030, § 2º, do CPC e (b) pode apontar como fundamento exclusivamente acórdão de recurso extraordinário REPETITIVO ou com repercussão geral RECONHECIDA.
+
+    Nessas circunstâncias, inexiste a alegada usurpação de competência desta SUPREMA CORTE.
+
+    Assim, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013).
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+
+    Por fim, nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+
+    Publique-se.
+
+    Brasília, 22 de novembro de 2021.
+
+Ministro Alexandre de Moraes
+
+Relator
+
+Documento assinado digitalmente
