@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto em face de acórdão assim ementado (fl. 86):
+HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA - DECRETO PRISIONAL DEVIDAMENTE FUNDAMENTADO - QUANTIDADE CONSIDERÁVEL DE DROGAS APREENDIDAS - NECESSIDADE DE CUSTÓDIA CAUTELAR PARA GARANTIA DA ORDEM PÚBLICA - DESPROPORCIONALIDADE DA SEGREGAÇÃO NÃO EVIDENCIADA - INSUFICIÊNCIA DAS CONDIÇÕES PESSOAIS FAVORÁVEIS - IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - INVIABILIDADE - INSUFICIÊNCIA DAS MEDIDAS MENOS GRAVOSAS. A gravidade concreta do crime supostamente praticado pelo paciente somada à quantidade e variedade de drogas apreendidas evidencia a periculosidade concreta do paciente, tornando necessária a custódia para resguardar a ordem pública. Conforme precedente do STJ, a mera presença de condições favoráveis não obriga a concessão de liberdade provisória quanto os autos demonstrarem o periculum libertatis. As medidas cautelares diversas da prisão se mostram insuficientes quando a prática do suposto delito ocorre no local de residência do paciente e em suas cercanias.
+Consta nos autos que o recorrente foi preso em flagrante em 10/7/2021, como incurso no art. 33, caput, da Lei n. 11.343/2006 e art. 12, da Lei n. 10.826/2003. A prisão em flagrante foi convertida em preventiva.
+Sustenta, em síntese, a ausência dos requisitos ensejadores da prisão preventiva e que a decisão que converteu o flagrante em preventiva, bem como o acórdão de segunda instância, são carentes de fundamentação concreta. Aduz que no interior da residência não foi localizada qualquer droga e que os militares encontraram a droga em terreno distante e aberto. Destaca que o recorrente é primário e tem bons antecedentes, residência fixa e trabalho lícito.
+Ressalta que se o recorrente for condenado, terá a pena privativa de liberdade substituída por restritivas de direitos, devendo ser aplicado tal entendimento analogicamente à hipótese dos autos, estendendo-se sua abrangência ao instituto da liberdade provisória/revogação da prisão preventiva, entendendo que há ofensa ao princípio da proporcionalidade.
+Requer a concessão da liminar para a soltura do recorrente ou, alternativamente, a aplicação das medidas cautelares previstas no art. 319 do CPP e, ao final, o provimento do recurso em habeas corpus, a fim de que seja concedida a ordem.
+A liminar foi indeferida (fls. 117-120).
+As informações foram prestadas (fls. 128-135).
+O Ministério Público Federal manifestou-sepelo desprovimento do recurso (fls. 140-145).
+Em consulta ao sistema processual eletrônico desta Corte Superior, verificou-se que o presente writ é mera reiteração dos pedidos contidos no conexo HC n. 691885 - MG (2021/0287151-9), que denegou o habeas corpus, consoante decisão proferida em 11/11/2021.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
