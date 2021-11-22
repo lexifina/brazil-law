@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Pedido de Uniformização de Interpretação de Lei Federal dirigido ao STJ, fundamentado no art. 14, § 4º, da Lei 10.259/2001, apresentado por JOSÉ ARLLINDO LEMOS DA SILVA, em 01/07/2021, contra decisão monocrática do Ministro Presidente da Turma Nacional de Uniformização dos Juizados Especiais Federais, assim assentada:
+"Trata-se de agravo em face da decisão que inadmitiu o pedido de uniformização nacional, no qual se discute concessão de aposentadoria especial e reconhecimento de parcelas de abono permanência.
+É o relatório.
+Conheço do agravo, tendo em vista o cumprimento dos requisitos de admissibilidade.Em exame o pedido de uniformização.
+Nos termos do art. 14, § 2º, da Lei n. 10.259/01 e do art. 12 do RITNU, duas são as hipóteses para o incidente de uniformização nacional: i.) divergência (comprovada) entre turmas recursais de regiões distintas; ou, ii.) decisão contrária a súmula ou jurisprudência dominante do STJ ou da TNU.
+Sob esse aspecto, portanto, os acórdãos oriundos de Turmas Recursais de mesma região e do STF trazidos para justificar o incidente interposto não se prestam à finalidade pretendida. Veja-se, a título exemplificativo:
+(..)
+Quanto aos paradigmas servíveis, não obstante a insurgência posta, fato é que a sugerida divergência jurisprudencial não restou comprovada. O recorrente não observou o regramento legal ao deixar de efetuar o devido cotejo analítico e, assim, demonstrar similitude fática entre as hipóteses confrontadas.
+Para a TNU (PEDILEF n. 0065380-21.2004.4.03.6301): " ..  - A petição do incidente será obrigatoriamente instruída com cópia dos julgados no caso de divergência entre Turmas de diferentes regiões Questão de Ordem n.º 3 da TNU), exigindo-se, para demonstração do dissídio, o cotejo analítico em duas etapas: primeiro, pela comparação entre as questões de fato tratadas no acórdão impugnado e no paradigma, com reprodução dos fundamentos de ambos; depois, pelo confronto das teses jurídicas em conflito, evidenciando a diversidade de interpretações para a mesma questão de direito".
+Por fim, as instâncias ordinárias, de posse de todo o caderno fático-probatório, concluíram pelo não preenchimento dos requisitos legais para a concessão da aposentadoria especial e pagamento de parcelas de abono de permanência. Do acórdão insurgido, destaca-se:
+"Hipótese em que a parte autora alega ter desenvolvido atividade de agente de endemias, que seria equiparável a previsão do Anexo I do Quadro II, código 1.3.2 do Decreto 53.831/64. No entanto, não há prova mínima deque, de fato, exerceu atividade de campo. Os laudos apresentados não servem para correlacionar a atividade efetivamente exercida e o tempo. O adicional, por si só, não faz prova do tempo especial, porque não há comprovação de seu pagamento de forma contínua, ou mesmo termo inicial" (Grifo nosso).
+Sob esse aspecto, a pretensão de alterar o entendimento firmado pela Turma de origem não é possível em virtude da necessidade de revisão de provas do processo. Aplica-se, assim, a Súmula 42/TNU ("Não se conhece de incidente de uniformização que implique reexame de matéria de fato").
+Ante o exposto, conheço do agravo para inadmitir o pedido de uniformização, com fundamento no art. 15, V, do RITNU" (fls. 1.198/1.200e).
+Em face do decisum, foi interposto Agravo Regimental, não conhecido, por incidência do art. 29 do RITNU, que "afasta a possibilidade da interposição de agravo interno contra decisões (monocráticas) do Presidente da TNU, haja vista que o seu cabimento ficou restrito às decisões (monocráticas) do relator" (fl. 1.229/1.230e).
+Inadmitido o incidente na origem (fls. 1.276/1.277e), postula o(a) requerente a remessa dos autos a esta Corte Superior, na forma do art. 34, § 3º, do RITNU (fls. 1.283/1.297e).
+O presente Pedido de Uniformização de Interpretação de Lei não merece ser conhecido.
+Assim dispõe o art. 14 da Lei 10.259/2001:
+"Art. 14. Caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei.
+(..)
+§ 4º Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça - STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência".
+Assim, verifica-se que o cabimento de Pedidos de Uniformização de interpretação de Lei Federal dirigidos ao STJ se dá unicamente contra decisão colegiada da TNU, que examina questão de direito material, em contradição à Súmula ou jurisprudência dominante do STJ.
+In casu, não houve decisão colegiada, mas tão somente decisão do Presidente da TNU, que conheceu do agravo, para inadmitir o incidente, com fulcro no art. 15, V, do RITNU.
+Dessa feita, revela-se inadmissível o presente incidente, por estarem ausentes os requisitos do art. 14, § 4º, da Lei 10.259/2001.
+Nesse sentido:
+"PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO INCIDENTE DE UNIFORMIZAÇÃO. RECURSO CONTRA DECISÃO DO PRESIDENTE DA TNU. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.1. A previsão legal de cabimento de pedido de uniformização de interpretação de lei federal ao Superior Tribunal de Justiça cinge-se à orientação acolhida pela Turma de Uniformização em questões de direito material, nos termos do art. 14, § 4º, da Lei 10.259/01, não apenas contra a decisão do Presidente da TNU. 2. Agravo regimental não provido." (STJ, AgRg na Pet 9.586/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe de 25/04/2014).
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do Pedido de Uniformização de Interpretação de Lei.
+I.
