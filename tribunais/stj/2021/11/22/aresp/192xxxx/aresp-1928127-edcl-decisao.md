@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por SILMARA DE JESUS DINIZ CAMPOS, a decisão de minha lavra, assim fundamentada, in verbis:
+"Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação ao art. 927, III, do CPC/2015, sustentando que não foi observado pela Corte de origem a decisão vinculante proferida no RE 636.199/ES, julgado sob o rito dos recursos repetitivos. Assevera a Recorrente trecho do referido julgado que dispõe que "o único título de domínio invocado pela União foi o fato de que localizado, o imóvel, em ilha costeira. Em nenhuma delas se discutiu a propriedade da União comfundamento em qualquer outro título de domínio" (fls. 228/229e).
+(..)
+Constou do fundamento do acórdão que julgou o Agravo Regimental interposto que "a decisão recorrida adotou o RE/RG 636.199-ES para concluir que a ré tem o domínio pleno do imóvel ocupado pelos autores antes da vigência da Emenda Constitucional 46/2005, considerando aforamento/enfiteuse transcrito no registro imobiliário da i a Circunscrição de São Luís em 13.03.1973 (fl. 23). Daí a legalidade da exigência de taxa de ocupação/laudêmio previsto no art. 3º do Decreto-Lei 2.398/1987. " (fl. 201e).
+Nesse contexto, verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Dessa forma, é inviável o exame da insurgência, tal como posta, em sede de Recurso Especial, que se restringe à uniformização da legislação infraconstitucional.
+(..)
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial" (fls. 307/309e).
+Inconformada, alega a parte embargante, em síntese, "que a matéria também é de deslinde infraconstitucional, cabendo apreciação desta Corte Especial, ficando clara a omissão quanto à matéria tratada" (fl. 315e).
+Assevera o "desrespeito ao art. 927, inciso III, do CPC, perpetrado pela decisão recorrida em não observar e acatar o entendimento, quando a matéria já está acobertada por acórdão paradigma decorrente de incidente de resolução de demandas repetitivas, em julgamento de recursos extraordinários repetitivos (RE 636.199-ES), o que gera efeito vinculativo ao acórdão, sob pena de se negar força unificadora ao incidente" (fl. 317e).
+Requer, por fim, sejam conhecidos e providos os presentes Embargos de Declaração, "já que resta demonstrada a presença das omissões na decisão embargada, para que sejam sanados os pontos suscitados com a possibilidade de atribuir efeito modificativo (fls. 318e).
+Intimada (fl. 324e), a parte embargada manifestou-se pela rejeição dos Declaratórios (fls. 325/327e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC/2015, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material; não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Na decisão ora embargada, inexistem vícios sanáveis via Embargos de Declaração, eis que, de modo claro, coerente e fundamentado, o Agravo foi conhecido para não conhecer do Recurso Especial, tendo em vista que a controvérsia foi dirimida pelo Tribunal de origem sob enfoque eminentemente constitucional, situação que extrapola as competências desta Corte para a análise do feito.
+Observa-se, portanto, que ao contrário do que pretende fazer crer a parte embargante, o decisum está suficientemente fundamentado, não havendo que se falar em qualquer dos vícios que permitem a oposição de embargos de declaração.
+O que deseja a parte embargante, em seu recurso, é a rediscussão da matéria de fundo, e não a correção dos vícios que permitem a oposição dos Embargos Declaratórios.
+Nesse contexto, deve-se ressaltar que os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. OMISSÃO SOBRE O TEMA DE FUNDO. NÃO OCORRÊNCIA.
+1. De acordo com o art. 1.022 do CPC/2015, os embargos declaratórios são cabíveis para esclarecer obscuridade ou eliminar contradição nas decisões judiciais, bem como para suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento da parte, ou para corrigir erro material.
+2. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia de maneira sólida e fundamentada.
+3. Descabe falar em omissão sobre o tema de fundo quando não ultrapassado o conhecimento.
+4. Embargos de declaração rejeitados" (STJ, EDcl no AgRg no AREsp 791.758/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, DJe de 04/05/2016).
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE VÍCIO NO ACÓRDÃO. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA.
+1. Os embargos declaratórios não são cabíveis para alterar o julgado que não apresenta vícios do art. 1.022 do NCPC. Diferente do ocorre no caso, contradição, omissão ou obscuridade, porventura, existentes só se dão entre os termos do próprio acórdão, entre a ementa e o voto, entre o voto e o relatório etc.
+(..)
+4. O embargante, inconformado, busca, com a oposição destes embargos declaratórios, ver reapreciada e decidida a controvérsia de acordo com sua tese. Todavia, não é possível dar efeitos infringentes aos aclaratórios sem a demonstração de eventual vício ou teratologia. Embargos de declaração rejeitados" (STJ, EDcl no AgRg no AREsp 847.491/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 02/05/2016).
+Pelo exposto, à míngua de vícios, rejeito os Embargos Declaratórios, com fundamento no § 1º do art. 264 do RISTJ.
+I.
