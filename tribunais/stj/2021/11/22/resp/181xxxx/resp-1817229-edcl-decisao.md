@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por MANOEL DA CRUZ CARDOSO SOBRINHO contra decisão do eminente Ministro Luis Felipe Salomão que rejeitou a indicação, pelo Presidente da Comissão Gestora de Precedentes, Ministro Paulo de Tarso Sanseverino,do presente recurso especial como representativo de controvérsia e determinou a redistribuição dos autos (e-STJ, fls. 1.487-1.491).
+O embargante alega que "a matéria em debate vem sendo sucessivamente objeto de omissão por parte dessa Corte. Os segurados foram ignorados quando das decisões proferidas pelas Turmas de Direito Privado" (e-STJ, fl. 1.508).
+Acrescenta que "em todas as oportunidades em que são ouvidos, seja através de Recuso Especial ou contrarrazões, não existe análise a dois pontos fundamentais os quais não foram objeto de análise, apesar de sua extrema relevância:- existe previsão de custeio aprovado no mesmo momento em que foi previsto o direito a concessão de reajuste salarial em isonomia com a ativa, através do aumento da contribuição de 11% para 14,9%;- aplicação ou não do Tema 736 do STJ nas questões de RMRN, PCAC, níveis salariais e PLDL" (e-STJ, fl. 1.508).
+Pondera que, "ainda que não conhecida a matéria como apta a representativo de controvérsia, requer-se que este respeitável Superior Tribunal de Justiça deve fazer a devida diferenciação objeto da possível afetação: a aplicação do Tema 736 do STJ nas questões de RMRN, níveis salariais ou mesmo PCAC.Já respondendo, entendem os participantes que o mesmo não se aplica a presente demanda, por tratar de matéria diversa do citado tema" (e-STJ, fl. 1.510).
+Aembargadaapresentouimpugnação (e-STJ, fls. 1.703-1.707).
+É o relatório. Passo a decidir.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022).
+No caso concreto, não se verifica nenhumaobscuridade, contradição, omissão ou erro material, apenas se entendeu não ser conveniente, por ora, a afetação do tema tratado no presente recurso para julgamento pelo rito dos recursos repetitivos.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Diante do exposto, rejeito os embargos declaratórios.
+Publique-se.
