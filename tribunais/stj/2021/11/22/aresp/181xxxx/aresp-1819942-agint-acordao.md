@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão de fls. 389-393, proferida pela Presidência desta Corte Superior, a qual conheceu do agravo em recurso especial para não conhecer do recurso especial.
+A parte agravante sustenta que não incidem as Súmulas 7/STJ e 283/STF no presente caso. Alega que "descabido o v. acórdão recorrido manter a r. sentença que, afrontando as normas contidas nos arts. 141 e 492 do Código de Processo Civil, declarou nulas as cláusulas contratuais que preveem a limitação ao reembolso de despesas médicas realizadas fora da rede credenciada, pela equivocada justificativa de que "o acolhimento do pedido para reembolso integral tem como precedente a questão de reconhecimento da abusividade das cláusulas limitadoras correspondentes". (..). Ocorre, contudo, que nunca pediu o autor, ora recorrido, a providência estabelecida pela r. sentença e equivocadamente mantida pelo v. acórdão recorrido" (fl. 400).
+Afirma que "Ao contrário do que entendeu o v. acórdão recorrido, há previsão contratual expressa para a quantia a ser ressarcida de acordo com o plano contratado. (..). As cláusulas limitativas são claramente redigidas, de forma que não poderia o v. acórdão recorrido, em violação ao art. 757 do Código Civil, condenar a BRADESCO SAÚDE a arcar com o valor integral das despesas pleiteadas, já que é da própria essência do contrato securitário a limitação dos riscos de acordo com o valor do prêmio adimplido pelo segurado" (fl. 404).
+Foi apresentada impugnação da parte agravada (fls. 410-416, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REVISÃO DO JULGADO. REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. FUNDAMENTO DO JULGADO RECORRIDO. FALTA DE IMPUGNAÇÃO. APLICAÇÃO DO VERBETE 283 DA SÚMULA/STF. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA): O inconformismo não merece prosperar.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja (fl. 315):
+Do mesmo modo fica afastada a alegação de ser a sentença "ultra petita", uma vez que o acolhimento do pedido para reembolso integral tem como precedente a questão de reconhecimento da abusividade das cláusulas limitadoras correspondentes, conforme bem decidiu o MM Juiz "a quo" (págs. 258/259):
+"O pedido de reembolso é consequência lógica do pedido de anulação da cláusula que veda o reembolso. Se não houver a anulação da cláusula que veda o reembolso, não poderá haver o reembolso. E o mérito do reembolso já foi plenamente enfrentado e referendado na r. Sentença combatida".
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ademais, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Quanto à segunda controvérsia, o acórdão recorrido assim se manifestou (fls. 317-321):
+Todavia, não se deve falar em limite de reembolso de despesas médicas, até porque o teor das cláusulas que se referem a esse limite não é claro:
+ ..
+A informação contratual de eventual limitação de direitos deveria ser mais clara, objetiva, direta e simples. O direito à informação é garantido pelo CDC, em seu artigo 6º, que enuncia: "São direitos básicos do consumidor: .. III - a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade e preço, bem como sobre os riscos que apresentem".
+Portanto, não se deve falar em limitação de reembolso, pois a cláusula limitativa é caracterizada pela abusividade.
+Conforme também entendeu o MM Juiz sentenciante (págs. 248/250):
+ ..
+Desse modo, a obrigação do reembolso integral deve ser imposta à Ré, até porque não demonstrou que poderia, em sua rede, realizar o procedimento a que submetido o Autor.
+Na espécie, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Assim, não trazendo a parte agravante fundamentos capazes de infirmar a decisão agravada, deve ela prevalecer.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
