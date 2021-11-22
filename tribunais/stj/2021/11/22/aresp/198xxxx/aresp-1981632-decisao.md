@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado por ARTECOLA TERMOPLASTICOSLTDA E OUTROS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 239):
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE ELEMENTOSNOVOS.
+- Ausente fato ou fundamento novo, capaz de infirmar a decisãohostilizada via agravo interno, esta deve ser mantida pelos seus própriosfundamentos.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Em consulta ao sítio eletrônico do Tribunal de origem (Processo nº 5010240-71.2016.4.04.7107), extrai-se que, em razão da publicação de sentença que julgou parcialmente procedentes "os pedidosformulados na inicial, resolvendo o mérito do processo nos termos do art. 487, inciso I, do CPC, para condenarsolidariamenteos réus MVC (atual denominação social Gatron Inovação em Compósitos S/A), Artecola Termoplásticos Ltda., Marcopolo S/A e Eduardo Renato Kunst ao pagamento de indenização por danos morais coletivos à população de Bom Jesus no importe de R$ 480.000,00 (quatrocentos e oitenta mil reais), nos termos da fundamentação.O pedido relativo ao cumprimento do contrato e conclusão da obra (item f.2 da fl. 62 da inicial) foi objeto de acordo entabulado entre o FNDE e o Município de Bom Jesus, homologado nos moldes da decisão do evento 281.O valor da indenização deverá ser corrigido monetariamente e acrescido de juros de mora na forma da fundamentação. O montante a ser pago pelos réus a tal título deverá ser revertido em benefício da educação pública do Município de Bom Jesus."
+Nesse panorama, ressai nítida a perda superveniente do objeto dorecurso especial.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AGRAVO DE INSTRUMENTO. PROLAÇÃO DE SENTENÇA DE MÉRITO. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento. ,
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1712508/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 20/05/2019, DJe 22/05/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELO EXTREMO INTERPOSTO CONTRA ACÓRDÃO EM AGRAVO DE INSTRUMENTO. SENTENÇA DE MÉRITO SUPERVENIENTE NO PROCESSO PRINCIPAL. PERDA DE OBJETO DO RECURSO ESPECIAL. AGRAVO INTERNO DA SOCIEDADE EMPRESÁRIA A QUE SE NEGA PROVIMENTO.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. O feito trata-se, na origem, de Agravo de Instrumento interposto contra decisão interlocutória de primeiro grau, cujo acórdão foi objeto do Recurso Especial. Entretanto, conforme consulta ao portal eletrônico do egrégio TJ/PR, o processo em primeira instância já foi sentenciado, encontrando-se atualmente fase de cumprimento de sentença.
+3. A superveniência da sentença proferida no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões resolvidas por decisão interlocutória combatida via agravo de instrumento (AgRg no REsp. 1.485.765/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe 29.10.2015).
+4. Agravo Interno da Sociedade Empresária a que se nega provimento.
+(AgInt no AREsp 416.569/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 29/04/2019, DJe 08/05/2019)
+ANTE O EXPOSTO,conheço do agravo para julgarprejudicado o recurso especial.
+Publique-se.
