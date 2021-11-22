@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Mandado de Segurança, com pedido de liminar, impetrado, em 12/11/2021, por DAIANE RAMOS DA SILVA, contra suposto ato do MINISTRO DA EDUCAÇÃO e do MINISTÉRIO DA EDUCAÇÃO, com o objetivo de que seja determinada "a alteração do local de provas da impetrante, para que possa realizar os exames do Enem/2021 na cidade Goiânia-GO, seu atual domicílio" (fl. 4e)
+Sustenta aimpetrante que:
+"Conforme documentação anexada, a IMPETRANTE se inscreveu, em junho de 2021, para prestar as provas do ENEM, que ocorrerão nos dias 21 e 28 de novembro desse ano.
+Na data em que realizou sua inscrição, a impetrante era residente e domiciliada na cidade de Cáceres-MT. Em razão disso, elegeu a cidade como local em que prestaria os exames.
+Contudo, a impetrante precisou mudar-se para Goiânia-GO, em busca de melhores oportunidades de emprego.
+Assim, atualmente, a impetrante reside a 1.220 km de distância da cidade em que deveria realizar as provas do Enem. Diante disso, buscou alterar seulocal de prova no site do Ministério da Educação, todavia, o prazo para tal atualização já havia expirado.
+Tendo em vista os custos da viagem, com os quais não pode arcar, bem como, a impossibilidade de abandonar seus planos de trabalho em Goiânia, a impetrante não terá como estar presente em Cáceres-MT nos dias marcados para a realização do Enem.
+(..)
+Considerando que o uma das principais atribuições do Poder Judiciário é a concretização dos mandamentos constitucionais, especialmente a dos direitos fundamentais, é que se busca a efetivação do presente direito por meio de tutela jurisdicional.
+O acesso à educação de nível superior no Brasil ainda se reveste de grande dificuldade, marcando um abismo na desigualdade social existente. A oportunidade de um jovem obter pontuação para ingressar em uma universidade constitui-se em uma marcante oportunidade de ascensão social não apenas para ele, mas para toda a sua família e suas futuras gerações. Em um momento histórico em que o país vê milhares de estudantes abandonando os bancos escolares, é dever do Estado possibilitar que aqueles que tiveram condições de acessar esses quadros tenham esse direito efetivamente garantido.
+(..)
+No presente caso, não se está almejando a burla de determinação legal nem buscando qualquer privilégio em detrimento de outros, ao contrário, busca-se aqui a harmonização da norma com os fatos sociais.
+A impetrante cumpre o requisito formal para prestar os referidos exames, que é a regular inscrição.
+No entanto, em razão do atual contexto de crise econômica e de altos índices de desemprego a impetrante viu-se impelida a mudar-se para a cidade de sua irmã em busca de trabalho.
+Não se mostra razoável nem proporcional que a impetrante seja punida pelo Estado em não conceder-lhe a chance prestar o Enem e, possivelmente, de ingressar no Ensino Superior!
+(..)
+Na atual fase processual, cumpre analisar a presença ou não dos requisitos legais para o deferimento de medida liminar. Neste momento, avalia-se a presença do perigo da demora (periculum in mora) em se aguardar a decisão de mérito e a relevância da fundamentação, aliada à plausibilidade jurídica do pedido (fumus boni iuris).
+Verifica-se que o fumus boni iuris encontra-se presente, isso porque a impetrante está devidamente inscrita para prestar o Enem/2021, conforme documentos acostados nos autos.
+(..)
+O requisito do perigo da demora materializa-se no risco efetivo de perda da oportunidade de realizar as provas do Enem/2021 e, consequentemente, de ingressar em curso de graduação de Ensino Superior no próximo ano. Isso porque as provas estão marcadas para ocorrer nos dias 21 e 28 de novembro de 2021" (fls. 3/7e).
+Por fim, requer seja julgada procedente a demanda.
+Nos termos do art. 105, I, b, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os Mandados de Segurança impetrados "contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+Na hipótese, não obstante a impetrante tenha apontado como autoridade coatora o Ministro da Educação, insurge-se, em suas razões de impetração, contra o Edital nº 28, de 1º de junho de 2021, que dispõe sobre a realização do Exame Nacional do Ensino Médio, veiculado pelo Presidente do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP).
+Desse modo, não se identifica, no caso dos autos, a comprovação da existência de ato de efeito concreto emanado pela autoridade apontada como coatora, o que impõe o indeferimento liminar do presente mandamus, por ilegitimidade passiva ad causam, afastando-se, em consequência, a competência do Superior Tribunal de Justiça.
+Nesse sentido, mutatis mutandis:
+"ADMINISTRATIVO. MANDADO DE SEGURANÇA. ENSINO SUPERIOR. LIBERAÇÃO DE RESULTADO DO ENEM ("CADERNO ROSA"). INOCORRÊNCIA. INSCRIÇÃO NO SISU.IMPOSSIBILIDADE. MINISTRO DA EDUCAÇÃO. ILEGITIMIDADE PASSIVA.
+1. Trata-se de mandado de segurança impetrado por Victor Luiz Libano de Aguiar em face do Ministro de Estado da Educação em razão da falta de divulgação dos resultados do Enem referentes às provas do "Caderno Rosa"(redação, linguagem, código e suas tecnologias e matemática e suas tecnologias), prestadas no segundo dia do exame nacional, sendo que tal omissão lhe impossibilita a matrícula no Sistema de Seleção Unificada - Sisu.
+2. É certo que se constitui premissa básica para a legitimidade passiva no mandado de segurança que o impetrante apresente as razões que identificam a autoridade impetrada como aquela que praticou ou possa praticar ato ofensivo a seu direito líquido e certo, assim como que possua atribuição para sanar a ilegalidade do ato.
+3. No caso sub examine, a despeito da impetração dirigir-se em face de suposto ato coator praticado pelo Ministro de Estado da Educação, o impetrante não indicou como essa autoridade teria ingerência administrativa para cumprir a determinação judicial a ser exarado no presente processo.
+4. No que tange à correção do exame e à divulgação de notas, matéria objeto da impetração, urge enfatizar que a Lei n. 9.448/97 definiu a competência daquela autarquia federal para "planejar, orientar e coordenar o desenvolvimento de sistemas e projetos de avaliação educacional, visando o estabelecimento de indicadores de desempenho das atividades de ensino no País"(art. 1º, inciso II).
+5. Por sua vez, as Portarias Inep n. 109/09 e 244/09, que estabeleceram a sistemática para realização do Enem, estatuem a competência daquela autarquia federal para adotar medidas administrativas pertinentes à gestão operacional do Enem, inclusive quanto à condução do exame e à divulgação da pontuação obtida pelos candidatos.
+6. Assim, como bem asseverado nas informações, o Ministro da Educação não possui gestão administrativa sobre os procedimentos referentes ao Enem, não lhe competindo praticar atos inerentes à correção das provas e à divulgação das notas dos discentes no referido exame. Precedentes.
+7. Portanto, é flagrante a ilegitimidade do Ministro de Estado da Educação para integrar o pólo passivo da impetração, porquanto lhe falta atribuição para cumprimento da ordem vindicada pelo impetrante, o que impõe a extinção do feito nos termos do art. 267, inc. VI, do Código de Processo Civil.
+8. Segurança denegada com fundamento no art. 6º, § 5º, da Lei n.12.016/09. Prejudicada a análise da petição de fls. 108/111 (e-STJ)"(STJ, MS 16.899/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 16/11/2011).
+Ante o exposto, nos termos do disposto nos arts. 6º, § 5º e 10 da Lei 12.016/2009 e 212 do RISTJ, indefiro liminarmente o presente mandamus.
+Sem honorários. Custas ex lege.
+I.
