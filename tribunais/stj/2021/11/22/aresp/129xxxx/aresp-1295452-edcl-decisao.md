@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DOUGLAS MILLER MACHADO DOS SANTOS e EDSANGELA LUIZA MACHADO DOS SANTOS contra decisãoàs e-STJ fls. 561/569, na qual conheci do agravo para conhecer parcialmente dorecurso especial e, na parte conhecida, dar-lheprovimento, a fim dereduzir apenaimpostaaoembargante DOUGLAS para5 anos, 5 meses e 20 dias de reclusão, pela condenação nos crimes de tráfico de drogas e posse ilegal de arma de fogo, e a pena imposta à embarganteEDSANGELA LUIZA para1ano, 11 meses e 10 dias de reclusão.
+Daí os embargos de declaração, por meio dos quaispleiteia-seseja sanado erro material no julgado relativo ao cálculo da pena do embarganteDOUGLAS.
+É, em síntese, o relatório.
+Decido.
+Os presentes embargos de declaração não podem ser conhecidos, pois são intempestivos.
+Com efeito, publicado o acórdão recorrido em 11/11/2021 (e-STJ fl. 571), o prazo de dois dias, previsto no art. 619 do Código de Processo Penal,esgotou-se em 16/11/2021. Todavia, o recurso foi interposto tão somente em 17/11/2021 (e-STJ fls. 573/575).
+A propósito:
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. RECURSO INTEGRATIVO EXTEMPORÂNEO. PEDIDO DE RECONHECIMENTO DA TEMPESTIVIDADE DO RECURSO. ALEGAÇÃO DE INDISPONIBILIDADE DO SISTEMA ELETRÔNICO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE COMPROVAÇÃO. INEXISTÊNCIA DE FALHAS TÉCNICAS. PLEITO DE CONTAGEM DO PRAZO RECURSAL A PARTIR DA CIÊNCIA DA DEFENSORIA PÚBLICA. INVIABILIDADE. PRERROGATIVA NÃO EXTENSÍVEL AOS ADVOGADOS CONSTITUÍDOS. AGRAVO REGIMENTAL IMPROVIDO.
+1. São intempestivos os embargos de declaração opostos após o decurso do prazo de 2 dias previsto no art. 619 do CPP.
+2. Cabe a parte recorrente demonstrar, por meio de documento idôneo, a alegada indisponibilidade do sistema eletrônico, o que não ocorreu no presente caso. Além disso, do registro oficial deste Superior Tribunal, nos termos da Resolução n. 14/STJ, não consta nenhuma falha no sistema no período e horário indicados pelo agravante, de modo que deve ser mantida inalterada a conclusão pela intempestividade do recurso.
+3. A prerrogativa de intimação pessoal e da contagem dos prazos processuais em dobro é exclusiva da Defensoria Pública, nos termos do art. 5º, § 5º, da Lei n. 1.060/1950, não se estendendo ao advogado constituído do corréu, a quem compete a apresentação das peças e dos recursos processuais dentro dos prazos legais.
+4. Agravo regimental improvido. (AgRg nos EDcl no AREsp 911.250/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/09/2016, DJe 13/09/2016, grifei.)
+Todavia, verifico a ocorrência de erro material aatrair o conhecimento da questão de ofício.
+De fato, nadecisão ora embargadaconsta erroneamente, quanto ao embargante DOUGLAS MILLER MACHADO DOS SANTOS, que a soma das penas impostas pelos crimes de tráfico de drogas (1ano, 11meses e 10 dias de reclusão) e posse ilegal de arma de fogo (3anos e 4mesesde reclusão), totalizaria 5 anos, 5 meses e 10 dias de reclusão,quando, na verdade, deve ser estabelecida definitivamenteem 5 anos, 3meses e 10dias de reclusão.
+Ante o exposto, não conheço dos embargos de declaração. Corrijo, todavia, de ofício,erro material na decisão embargada, para estabelecer definitivamente em 5 anos, 3 meses e 10 dias de reclusão a pena imposta aDOUGLAS MILLER MACHADO DOS SANTOS, pelos crimes de tráfico de drogas e posse ilegal de arma de fogo.
+Publique-se. Intimem-se.
