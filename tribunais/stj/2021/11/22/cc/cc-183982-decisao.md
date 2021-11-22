@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado entre o JUÍZO DE DIREITO DA VARA DE ACIDENTES DE TRABALHO DE SANTO ANTONIO DO SUDOESTE - PR, suscitante, e o JUÍZO FEDERAL DA 2ª VARA DE FRANCISCO BELTRÃO - SJ/PR, suscitado.
+Na origem, trata-se de ação movida em desfavor do INSS, em que a parte interessadarequer o benefício de pensão morte decorrente de acidente de trabalho.
+O Juízo Federal declinou de sua competência nos seguintes termos:
+"Na inicial, o autor informa que o benefício decorrente do óbito do segurado instituidor Maicon de Oliveira, ocorrido em 26/10/2020, foi indeferido por falta da qualidade de dependentes.Por outro lado, no evento 22, informa que o óbito se deu em virtude de acidente de trabalho ocorrido no percurso de casa para o trabalho. A fim de corroborar tal informação, juntou também Comunicação de Acidente de Trabalho (CAT) nº 2020.066893.5/01, emitida pelo empregador do segurado:
+(..)
+Nos termos do art. 109, I, da Constituição da República, as demandas cuja origem seja decorrente de acidente de trabalho são excluídas da competência da Justiça Federal e, também, excluem-se da competência dos Juizados Especiais, conforme prescreve o art. 3º, § 2º, da Lei n. 9.099/95.
+Nesse sentido, a jurisprudência do TRF/4ª Região e da Turma Regional de Uniformização dos Juizados Especiais da 4 ª Região:
+(..)
+Outrossim, a Súmula n. 501 do Supremo Tribunal Federal dispõe que: "Compete à Justiça ordinária Estadual o processo e o julgamento, em ambas as instâncias, das causas de acidente de trabalho, ainda que promovidas contra a União, suas Autarquias, empresas públicas ou sociedades de economia mista".
+O Supremo Tribunal Federal, no julgamento do RE 638.483, em regime de repercussão geral (art. 543-B do CPC), reafirmou o entendimento de que compete à Justiça Estadual processar e julgar as causas relativas aosbenefícios decorrentes de acidente do trabalho:
+(..)
+No mesmo sentido, no que se refere especificamente à pensão por morte decorrente de acidente de trabalho, o Superior Tribunal de Justiça (STJ) assentou a competência da Justiça Estadual:
+(..)
+Ante o exposto, declino da competência em favor do Juízo Estadual competente por distribuição da Comarca de Santo Antôniodo Sudoeste/PR, devendo ser feita a remessa da íntegra dos documentos digitalizados e produzidos no presente processo eletrônico, pelo Malote Digital, ou por outro meio eletrônico eficaz" (fls. 451/454e).
+O Juízo Estadual, por sua vez, suscita o presente Conflito Negativo de Competência perante este Superior Tribunal de Justiça, ao fundamento de que:
+"Trata-se de ação previdenciária para concessão de pensão por morte decorrente de acidente de trabalho ajuizada na 2ª Vara Federal de Francisco Beltrão/PR.
+O Juízo Comum Federal declinou a competência para a Justiça Comum Estadual sob o argumento de que o óbito do segurado se deu em virtude de acidente de trabalho.
+Vieram os autos conclusos.
+DECIDO.
+De acordo com o art. 109, inciso I, da Constituição Federal:
+(..)
+Com a devida vênia ao juízo suscitado, a decisão prolatada não se enquadra na hipótese previstas no art. 109, inciso I, da Constituição Federal para afastar a competência da Justiça Federal.
+O presente caso não constitui demanda em que se discute matéria acidentária, de modo que é inaplicável a parte final do art. 109, I, da Constituição Federal.
+Isso porque, para a concessão do benefício previdenciário de pensão por morte apenas devem ser comprovados os requisitos previstos no art. 74 da Lei 8.213/1991, quais sejam, o óbito, a qualidade de segurado da previdência social do falecido e a qualidade de dependente dos requerentes.
+No presente caso, o acidente de trabalho é fato irrelevante para a concessão da pensão por morte pleiteada, portanto, não faz parte da causa de pedir.
+Além do mais, a presença de nexo causal entre o acidente de trabalho sofrido e o benefício pleiteado não será discutido no processo.
+Com efeito, o benefício de pensão por morte decorrente de acidente de trabalho não possui natureza acidentária típica, mas sim previdenciária.
+Diante disso, o presente processo não se enquadra na ressalva prevista no art. 109, I, da Constituição Federal, sendo a ação de competência absoluta da Justiça Federal, por ter natureza previdenciária.
+Neste sentido, há precedentes recentes do Tribunal Regional Federal da 4ª Região:
+(..)
+O entendimento do Superior Tribunal de Justiça em casos semelhantes foi nesse sentido, vejamos:
+(..)
+Ante o exposto, por entender que a competência é da Justiça Comum Federal - Subseção de Francisco Beltrão/PR, conflito negativo de suscito competência, a ser dirimido pelo Superior Tribunal de Justiça com fundamento no artigo 105, I, d, da Constituição Federal" (fls. 475/477e).
+Destaco, inicialmente, prevalecer, nesta Corte, o entendimento de que "o pedido inicial deve ser interpretado em consonância com a pretensão deduzida, esta extraída da interpretação lógico-sistemática da exordial como um todo, e não apenas do capítulo relativo ao "pedido"" (STJ, REsp 1.104.357/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe de 05/03/2012).
+No mesmo sentido:
+"CONFLITO DE COMPETÊNCIA. RESPONSABILIDADE TRABALHISTA POR SUCESSÃO. QUESTÃO DECIDIDA NA JUSTIÇA DO TRABALHO. AJUIZAMENTO DE AÇÃO DECLARATÓRIA CUMULADA COM PEDIDO INDENIZATÓRIO, NA JUSTIÇA FEDERAL. DISCUTE-SE A INTERPRETAÇÃO DE CLÁUSULAS, DO CONTRATO DE CONCESSÃO DE SERVIÇO PÚBLICO, RELATIVAS À RESPONSABILIDADE PELO PASSIVO DE TODA E QUALQUER NATUREZA.
+(..)
+4. O STJ possui entendimento de que a competência é definida com amparo na causa petendi e no pedido deduzido na demanda.
+5. A análise da petição inicial do feito distribuído à Justiça Federal evidencia que a pretensão da suscitante é direcionada exclusivamente contra a União, e tem por origem sua suposta resistência em cumprir cláusula específica que contém a seguinte redação: "As obrigações trabalhistas da RFFSA para com seus empregados transferidos para a CONCESSIONÁRIA, relativas ao período anterior à data da transferência de cada contrato de trabalho, sejam ou não objeto de reclamação judicial, continuarão de responsabilidade da RFFSA. Esta regra não abrange as obrigações relativas ao décimo-terceiro salário e as férias, parcial ou totalmente adquiridos até a data da transferência do contrato de trabalho, que serão de responsabilidade da CONCESSIONÁRIA, por força da sucessão trabalhista".
+(..)" (STJ, CC 128.982/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe de 05/12/2013).
+Ao que se vê da leitura dos autos, trata-se de definir o juízo competente para apreciar ação, em que se pleiteia a concessão de pensão por morte decorrente de acidente de trabalho (fls. 18/31e).
+Diante desse quadro, não resta configurada hipótese de aplicação da Súmula 15/STJ ("COMPETE A JUSTIÇA ESTADUAL PROCESSAR E JULGAR OS LITÍGIOS DECORRENTES DE ACIDENTE DO TRABALHO"), porquanto, se a hipótese é de concessão de pensão por morte, a questão reveste-se de natureza eminentemente previdenciária, ainda que o fato originário que ocasionou a aposentadoria do instituidor da pensão tenha causa em acidente do trabalho. Nesse sentido:
+"CONFLITO DE COMPETÊNCIA. BENEFÍCIO PREVIDENCIÁRIO. PENSÃO POR MORTE.FALECIMENTO DECORRENTE DE ACIDENTE DE TRABALHO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Conforme entendimento jurisprudencial consagrado pelo Superior Tribunal de Justiça, compete à Justiça Federal processar e julgar as ações objetivando a concessão ou revisão dos benefícios de pensão por morte, ainda que decorrentes de acidente de trabalho. A propósito: AgRg no CC 113.675/SP, Rel. Ministra Assusete Magalhães, Terceira Seção, DJe 18/12/2012; CC 119.921/AM, Rel. Ministra Marilza Maynard (Desembargadora Convocada do TJ/SE), Terceira Seção, DJe de 19/10/2012; AgRg no CC 108.477/MS, Rel. Min. Maria Thereza de Assis Moura, DJe de 10/12/2010; AgRg no CC 107.796/SP, Rel. Min. Arnaldo Esteves Lima, DJe de 7/5/2010; CC 89.282/RS, Rel. Min. Jane Silva (Desembargadora Convocada do TJ/MG, DJ de 18/10/2007; AgRg no CC 139.399/RJ, Rel. Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Primeira Seção, DJe 2/3/2016; AgRg no CC 112.710/MS, Rel. Min. Og Fernandes, DJe de 7/10/2011.
+2. Conflito de Competência conhecido para determinar a competência do Juízo suscitado, qual seja, a 2ª Vara do Juizado Especial Federal de Vitória da Conquista/BA"(CC 166.107/BA, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO,DJe 18/10/2019).
+"PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. PENSÃO POR MORTE DE APOSENTADO EM RAZÃO DE ACIDENTE DE TRABALHO. AUSÊNCIA DE DISCUSSÃO ACERCA DO ACIDENTE DE TRABALHO. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que viúva de segurado aposentado em razão de acidente de trabalho pede ao INSS a concessão da respectiva pensão, benefício previdenciário estrito, devendo o pedido ser processado e julgado na Justiça Federal.
+2. A fixação da competência da Justiça Estadual, nos termos da Súmula 15-STJ ("Compete à Justiça Estadual processar e julgar os litígios decorrentes de acidente de trabalho".) somente ocorre quando o pedido de pensão, a sua revisão ou outro benefício discutem, com causa de pedir, o próprio acidente de trabalho, ou quando há necessidade de prova pericial em derredor do próprio acidente (verificação da redução da capacidade de trabalho do segurado, v.g.), o que não ocorre na espécie.
+3. Não está em discussão, próxima ou remotamente, o acidente de trabalho que levou à aposentadoria do autor da pensão. Cuidando-se de pedido de pensão por morte, como benefício previdenciário estrito, não ostentam relevo as circunstâncias nas quais se deu o falecimento do segurado. (Cf. CC 62.531/RJ, Rel. Min. Maria Thereza de Assis Moura, DJU 26/03/2007; AgRg no CC 112.710/MS, Rel. Ministro Og Fernandes, Terceira Seção, julgado em 28/09/2011, DJe 07/10/2011;e AgRg no CC 113.675/SP, Rel. Ministra Assusete Magalhães, Terceira Seção, julgado em 12/12/2012, DJe 18/12/2012.)
+4. Agravo regimental desprovido" (STJ, AgRg no CC 139.399/RJ, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA SEÇÃO, DJe 02/03/2016).
+"PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. CONCESSÃO DE BENEFÍCIO DE PENSÃO POR MORTE, DECORRENTE DE ACIDENTE DE TRABALHO. ENTENDIMENTO SUFRAGADO PELA TERCEIRA SEÇÃO DO STJ. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO REGIMENTAL IMPROVIDO.
+I. Na linha dos precedentes da Terceira Seção do STJ, a concessão e a revisão de pensão por morte, independentemente das circunstâncias do falecimento do segurado, são de natureza previdenciária, e não acidentária típica, o que torna competente a Justiça Federal para o processo e o julgamento do feito, afastando-se a aplicação da da Súmula 15/STJ (CC 62.531/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, DJU 26/03/2007, entre outros).
+II. Decisão do Relator que conheceu do Conflito de Competência, para declarar competente o Juízo Federal do Juizado Especial de Ribeirão Preto, Seção Judiciária do Estado de São Paulo, o suscitante.
+III. Agravo Regimental improvido" (STJ, AgRg no CC 113.675/SP, Rel. Ministra ASSUSETE MAGALHÃES, TERCEIRA SEÇÃO, DJe 18/12/2012).
+Ante o exposto, com fundamento no art. 955, parágrafo único, inciso I, do CPC/2015, conheço do conflito para declarar a competência do JUÍZO FEDERAL DA 2ª VARA DE FRANCISCO BELTRÃO - SJ/PR, ora suscitado, em consonância com os precedentes desta Corte a respeito da matéria.
+I.
