@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por SUPERVIA - CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S/A, contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÕES CÍVEIS. AÇÃO DE RESPONSABILIDADE CIVIL. ATROPELAMENTO DE PEDESTRE EM LINHA FÉRREA. SENTENÇA DE PROCEDÊNCIA PARCIAL DOS PEDIDOS. IRRESIGNAÇÃO DE AMBAS AS PARTES.
+1. No caso concreto, a vítima ingressou na linha férrea por passagem clandestina e foi atropelada pela composição ao tentar atravessar os trilhos. Conduta imprudente da vítima, que se expôs à situação de perigo. Ocorrência de culpa concorrente. Precedente do STJ, submetido ao rito dos recursos repetitivos, em que foi firmado o seguinte entendimento: "Para efeitos do art. 543 -C do CPC: no caso de atropelamento de pedestre em via férrea, configura -se a concorrência de causas, impondo a redução da indenização por dano moral pela metade, quando: (i) a concessionária do transporte ferroviário descumpre o dever de cercar e fiscalizar os limites da linha férrea, mormente em locais urbanos e populosos, adotando conduta negligente no tocante às necessárias práticas de cuidado e vigilância tendentes a evitar a ocorrência de sinistros; e (ii) a vítima adota conduta imprudente, atravessando a via férrea em local inapropriado."
+2. A culpa concorrente não afasta a responsabilidade da concessionária, devendo ser avaliada a conduta da vítima quando do arbitramento da indenização.
+3. Dano moral configurado, decorrente da perda de ente querido em um acidente violento, o que importou em evidentes traumas e desgastes emocionais aos familiares.
+4. Quantum indenizatório majorado. Verba a ser arbitrada segundo jurisprudência desta Câmara. Fixação da rubrica em R$100.000,00, para cada autor (genitora e filho da vítima), já calculada com o redutor de 50% em razão da culpa concorrente, totalizando indenização no valor de R$200.000,00. Sobre tais verbas devem incidir juros de 1% ao mês, a partir do evento danoso, na forma do enunciado nº 54 da súmula do E. STJ e correção monetária a partir da publicação deste acórdão.
+5. Pensionamento devido. Presunção de dependência econômica entre pessoas de família de baixa renda. Precedente do STJ. O valor do pensionamento deve ter como base o salário mínimo vigente ao tempo da sentença, tendo em vista não existir comprovação nos autos dos rendimentos auferidos pela vítima do acidente. Verbetes nº 215 da súmula do TJRJ e n. 490 da súmula do STF.
+6. Manutenção do montante da pensão, considerando a presunção lógica de que 1/3 dos rendimentos seria gasto com a própria subsistência da vítima. Precedentes do STJ e do TJRJ.
+7. Cada parcela deve ser acrescida de juros e correção monetária a partir do vencimento, conforme entendimento do STJ e do TJRJ.
+8. O fato da parte ré ser uma concessionária de transportes públicos, por si só, não afasta a necessidade de constituição de capital garantidor, notadamente se for levado em consideração que a pensão deverá ser paga por um longo lapso temporal, não havendo como se afirmar que a ré terá capacidade financeira para cumprir a obrigação durante todo este período. Art. 533 do CPC. Incidência do enunciado 313 do STJ.
+9. Sucumbência mínima da parte autora.
+10. DÁ-SE PROVIMENTO AO RECURSO DOS AUTORES E PARCIAL PROVIMENTO AO APELO DA RÉ" (fls. 695/696e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 944, parágrafo único, 945 e 946 do Código Civil/2002, sustentando a exorbitância do quantum indenizatório por danos morais fixado pela Corte de origem, sem a observância da ocorrência de culpa concorrente da vítima do acidente.
+Por fim, requer o provimento do recurso.
+Contrarrazões a fls. 835/839e.
+Inadmitido o Recurso Especial (fls. 846/851e), foi interposto o presente Agravo (fls. 878/890e).
+Contraminuta a fls. 907/912e.
+A irresignação não merece prosperar.
+No que concerne ao valor arbitrado a título de danos morais, a jurisprudência do Superior Tribunal de Justiça consolidou o entendimento no sentido de que somente pode ser revisto excepcionalmente, quando irrisório ou exorbitante, sob pena de ofensa ao disposto na Súmula 7 desta Corte.
+Nesse sentido:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL DO ESTADO. DANOS MORAIS. REVISÃO DO VALOR DA INDENIZAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. De acordo com a norma prevista no art. 535 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida. Na espécie, não se verifica a existência de
+quaisquer das deficiências em questão, pois o acórdão estadual enfrentou e
+decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. A jurisprudência desta Corte admite, em caráter excepcional, que o montante arbitrado a título de danos morais seja alterado, caso se mostre
+irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade. No caso, o agravante não foi capaz de demonstrar que o valor da indenização seria excessivo, não logrando, portanto, afastar o óbice da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 417.115/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 18/02/2014).
+"ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. QUEDA DE TRANSEUNTE ATRIBUÍDA À REALIZAÇÃO DE OBRA PÚBLICA. DANOS MORAIS E MATERIAIS CONFIGURADOS. RAZOABILIDADE DO VALOR FIXADO. PRETENSÃO DE REEXAME DE PROVA. SÚMULA 7/STJ.
+1. Insurge-se o agravante contra reconhecimento pela instâncias ordinárias
+de responsabilização civil do município por queda de idoso em calçada pública a ensejar a obrigação de responder por danos materiais e morais.
+2. O Tribunal de origem, com base na situação fática do caso, entendeu pela responsabilidade do município a ensejar a obrigação de responder por danos materiais e morais, e procedeu à análise dos critérios da razoabilidade e proporcionalidade do valor da indenização arbitrada.
+3. Insuscetível de revisão, nesta via recursal, o referido entendimento, por demandar reapreciação de matéria fática. Incidência da Súmula 7 deste Tribunal.
+Agravo regimental improvido" (STJ, AgRg no AREsp 522.368/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 15/08/2014).
+Na hipótese, o Tribunal a quo, em vista das circunstâncias fáticas do caso, inclusive a ocorrênciade culpa concorrente (fl. 709e), majorou o quantum indenizatório fixado pela sentença, estabelecendo-o no valor de R$ 100.000,00 (cem mil reais) para cada autor, observando os princípios da proporcionalidade e da razoabilidade, não se mostrando ele irrisório, ante o quadro fático delineado no acórdão de origem.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
