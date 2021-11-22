@@ -1,0 +1,32 @@
+DECISÃO
+Itaiquara Alimentos S.A. - em Recuperação Judicial - suscitao presente conflito de competência apontando como suscitados o Juízo de Direito da Vara Única de Caconde/SP,o Juízo da 1ª Vara do Trabalho de Passos/MG e o Tribunal Regional do Trabalho da 3ª Região.
+Em suas razões, sustentaque, em12/10/2019, formulou pedido de recuperação judicial, distribuído aoJuízo de Direito da Vara Única de Caconde/SP, o qual,verificando estarem presentes os pressupostos e condições estipuladas pela Lei n.11.101/2005, deferiu seu processamento.
+Afirmaque, antes do ajuizamento do pedido de recuperação, figuroucomo ré na Reclamação Trabalhista n. 0011552-44.2017.5.03.0070, proposta por Cristina Pereira Maia, que tramitouno Juízo da 1ª Vara do Trabalho de Passos/MG.
+Segundo a suscitante, estando a reclamatória em fase de cumprimento de sentença, o magistrado trabalhista "equivocadamente indeferirem a liberação dos depósitos recursais em favor da Suscitante e, consequentemente, autorizarem a referida liberação em benefício da credora trabalhista como forma de pagamento de créditos sujeitos à recuperação judicial, sob o argumento de que "  ..  há plano ativo da executada em recuperação judicial"(e-STJ, fl. 5).
+Nesse contexto, salienta que "as decisões proferidas pelos MM. Juízos suscitados da 1ª Vara do Trabalho de Passos/MG e do Tribunal Regional do Trabalho da 3ª Região configuram evidente e ilegal uso do patrimônio da Suscitante, especialmente porque o referido crédito trabalhista é sujeito aos termos do seu processo de recuperação judicial e, portanto, deve ser pago unicamente na forma do plano já aprovado pelos credores e homologado pelo Juízo Recuperacional" (e-STJ, fl. 5).
+Acrescenta, ainda, que "as decisões sobre a prática de atos tendentes a comprometer o patrimônio da Suscitante, devem ser tomadas exclusivamente pelo MM. Juízo da Vara Única do Foro da Comarca de Caconde/SP, responsável pela sua recuperação judicial" (e-STJ, fl. 12).
+Diante dessas considerações, pede,em caráter de tutela de urgência, "sejam imediatamente suspensos os efeitos das r. decisões proferidas pelos MM. Juízos suscitados da 1ª Vara do Trabalho de Passos/MG e do Tribunal Regional do Trabalho da 3ª Região, nos autos do processo trabalhista nº 0011552-44.2017.5.03.0070, ajuizado por Cristina Pereira Maia, e desfeitas todas as determinações de liberação dos depósitos recursais realizados pela Suscitante, com a sua transferência para as contas da Suscitante ou, subsidiariamente, para conta vinculada ao MM. Juízo da Vara Única do Foro da Comarca de Caconde/SP" (e-STJ fl. 14).
+No mérito, pugna pela integral procedência, "determinando-se a competência do MM. Juízo da Vara Única do Foro da Comarca de Caconde/SP para decidir sobre quaisquer questões que impliquem  constrição  no patrimônio da Suscitante" (e-STJ fl. 15).
+O pedido liminar foi deferido para "determinar a imediata suspensão dos atos executórios em relação à empresa suscitante, promovidos pelo Juízo de Direito da 1ª Vara do Trabalho de Passos/MG, no bojo da Reclamação Trabalhista n. 0011552- 44.2017.5.03.0070, em cumprimento de sentença, ficando designado Juízo de Direito da Vara Única de Caconde/SP para dirimir, em caráter provisório, as questões urgentes, inclusive acerca da liberação de eventuais valores bloqueados nas contas de titularidade da empresa suscitante" (e-STJ, fl. 1.838).
+Instados, os juízos suscitadosapresentaramasinformações solicitadas (e-STJ, fls. 1.846-1.849 e 1.850-1.853).
+O Ministério Público Federal ofertou parecer pelo conhecimento doconflito, declarando-se a competência do Juízo em que se processa arecuperação judicial da suscitante (e-STJ, fls. 1.856-1.858).
+Brevemente relatado, decido.
+A questão discutida neste conflito não é nova, havendo fartajurisprudência desta Corte Superior no sentido de que "é competente ojuízo universal para prosseguimento de atos de execução que incidam sobreo patrimônio de empresa em processo falimentar ou de recuperaçãojudicial", não competindo "ao juízo trabalhista interferir no acervopatrimonial da suscitante enquanto não houver a certificação do trânsitoem julgado de sentença que declara o encerramento da sua recuperaçãojudicial" (AgInt no CC n. 167.826/PA, Relatora a Ministra Nancy Andrighi,DJe 21/8/2020).
+Nesse sentido:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. JUSTIÇALABORAL. ATOS EXECUTÓRIOS. COMPETÊNCIA DO JUÍZO UNIVERSAL. ART. 76 DA LEIN. 11.101/2005. AGRAVO NÃO PROVIDO.
+1. Os atos de execução dos créditos individuais e fiscais promovidoscontra empresas em recuperação judicial, devem ser autorizados ourealizados pelo Juízo do soerguimento até o trânsito em julgado dasentença que encerra a recuperação judicial.
+2. A razão de ser da supremacia dessa regra de competência é aconcentração, no Juízo da recuperação judicial, de todas as decisões queenvolvam o patrimônio da recuperanda, inclusive os valores objeto deconstrição no juízo trabalhista, ainda que posteriores à recuperação oumesmo os créditos extraconcursais, a fim de não comprometer a tentativa demantê-la em funcionamento.
+3. Agravo interno não provido.
+(AgInt no CC n. 175.296/MG, Relator o Ministro Luis Felipe Salomão, DJe7/4/2021)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. AÇÃOTRABALHISTA. DEPÓSITOS RECURSAIS.
+1. Após o deferimento da recuperação judicial, é do juízo de falências erecuperação judicial a competência para o prosseguimento dos atos deexecução relacionados a reclamações trabalhistas movidas contra a empresarecuperanda.
+ ..
+3. Agravo interno não provido.
+(AgInt no CC n. 163.175/GO, Relator o Ministro Ricardo Villas Bôas Cueva,DJe 9/12/2020)
+Na hipótese dos autos, como se constata, o Juízo trabalhista entendeu por bem autorizar o levantamento dos depósitos recursais (e-STJ, fls. 1.53-1.533) em contrariedade ao entendimento sufragado na jurisprudência acima destacada.
+Na esteira dos fundamentos acima adotados, conheço do presente conflito e
+declaro a competência doJuízo de Direito da Vara Única de Caconde/SPpara deliberar sobre o levantamento dos depósitos recursais,exaradono bojo do Reclamação Trabalhista n. 0011552- 44.2017.5.03.0070, emcurso perante o Juízo da 1ª Vara do Trabalho de Passos/MG.
+Dê-se ciência aos juízos suscitados.
+Publique-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL.MEDIDAS DE CONSTRIÇÃO DE BENS QUE INTEGRAM O PATRIMÔNIO DA EMPRESAREALIZADOS POR JUÍZO DIVERSO DE ONDE SE PROCESSA O PEDIDO DE SOERGUIMENTO.COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. RECONHECIMENTO.
