@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de MATHEUS ARAÚJO GALVÃO contra decisão proferida pelo Desembargador Relator do HC n. 2229044-17.2021.8.26.0000, impetrado no Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que oJuiz de Direito da 2.ªVara de Crimes Tributários, Organização Criminosa e Lavagem de Bens e Valores de Capital/SPdecretou a prisão preventiva do Paciente, motivada no descumprimento das condições impostas em anterior concessão de liberdade provisória.
+Buscando revogar a custódia cautelar, com expedição de contramandado de prisão, a Defesa impetrouhabeas corpusperante o Tribunal estadual, o qual teve o seguimento negadopor decisão monocrática do Relator, "poisnão veio instruído com elementos informativos capazes de evidenciar os fatos e circunstâncias alegados na inicial"(fl. 283).
+Daí a presente impetração, em que se busca, liminarmente e no mérito,a revogação da prisão preventiva oua substituição da mesma por medidas cautelares diversas da prisão.
+É o relatório.Decido.
+Observo que o presentewritfoi manejado contra decisão singular do Desembargador Relator do Tribunal de Justiçaa quo, não tendo havido a interposição de agravo regimental objetivando amanifestação do Órgão Colegiado.
+Assim, ausente o exaurimento da instância ordinária e não se tratando de hipótese excepcional de flagrante ilegalidade, impõe-se o não conhecimento da presente ação mandamental.
+Cuida-se deentendimento firmado pelas duas Turmas que compõem a Terceira Seção desta Corte, comodemonstram osseguintes precedentes, a título ilustrativo:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.MANDAMUSCONTRA DECISÃO MONOCRÁTICADO TRIBUNAL QUE RESTABELECEU PRISÃO PREVENTIVA. NÃO INTERPOSIÇÃO DORECURSO AO COLEGIADO NA ORIGEM.WRITINDEFERIDO LIMINARMENTE. AUSÊNCIA DEILEGALIDADE FLAGRANTE. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de que,não tendo aparte recorrente interposto agravo regimental para esgotamento dainstância anterior, com vistas a atender os ditames do art. 105, II, daConstituição Federal, é incabível a impetração dohabeas corpus, só seflexibilizando esse entendimento quando constatada ilegalidade flagrante.Precedentes.
+2. Agravo regimental improvido."(AgRg no HC 503.168/DF, Rel. MinistroNEFI CORDEIRO, SEXTA TURMA, julgado em 16/05/2019, DJe 04/06/2019; semgrifos no original.)
+"PEDIDO DE RECONSIDERAÇÃO NOHABEAS CORPUS. QUADRILHA, PORTE ILEGAL DEARMA DE FOGO E DE MUNIÇÃO. REVOGAÇÃO DA PRISÃO PREVENTIVA OU SUBSTITUIÇÃOPOR MEDIDAS CAUTELARES. PETIÇÃO RECEBIDA COMO AGRAVO REGIMENTAL.WRITCONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADOR. SÚMULA 691/STF. INCOMPETÊNCIADESTE TRIBUNAL SUPERIOR. JURISDIÇÃO AINDA NÃO INAUGURADA. SUPRESSÃO DEINSTÂNCIA. AGRAVO NÃO PROVIDO.
+1. O entendimento consolidado por esta Corte Superior é no sentido de queo pedido de reconsideração, interposto no prazo recursal de 5 dias, deveser recebido como agravo regimental, nos termos dos arts. 258 e 259 doRegimento Interno do Superior Tribunal de Justiça.
+2. Hipótese em queo ato indicado como coator e impugnando na impetração,praticado por Desembargadora do TJRJ, deve ser submetido à análise doórgão julgador competente, por meio de agravo interno, não estandoinaugurada, portanto, a jurisdição desta Corte Superior, consoantedeterminado no art. 105, II,a, da CF. Assim, a matéria não pode serexaminada, sob pena de supressão de instância.
+3. Agravo regimental não provido."(AgRg no HC 507.396/RJ, Rel. MinistroRIBEIRO DANTAS, QUINTA TURMA, julgado em 14/05/2019, DJe 20/05/2019; semgrifos no original.)
+Cito, ainda, julgados proferidos pelas Primeira e Segunda Turmas doSupremo Tribunal Federal:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICADO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DE JURISDIÇÃO. HOMICÍDIOQUALIFICADO. PRISÃO TEMPORÁRIA. SUPRESSÃO INSTÂNCIA.
+1. Há óbice ao conhecimento dehabeas corpusimpetrado contra decisão monocrática doSuperior Tribunal de Justiça,cuja jurisdição não se esgotou.Precedentes. .. 3. Agravo regimental conhecido e não provido."(HC171.614 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, DJe 03/09/2019;grifos diversos do original.)
+"AGRAVO REGIMENTAL EMHABEAS CORPUS.
+ .. 5.Habeas corpusimpetradocontra decisão monocrática do STJ. Impossibilidade. Esgotamentodas vias recursais. Precedentes. 6. Agravo regimental a que se negaprovimento." (HC 170.091 AgR, Rel. Ministro GILMAR MENDES, SEGUNDA TURMA,DJe 03/09/2019; grifos diversos do original.)
+Outrossim, não é o caso de reconhecimento de manifesta ilegalidade, pois a impetração sequer foi conhecida por ausência de peça processual, de modo que não caberia a esta Corte analisar diretamente o mérito, sem que o Tribunal Estadual tenha se pronunciadoa respeito, sob pena de supressão de instância.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL.WRITMANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADOR RELATOR NO TRIBUNAL ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL PASSÍVEL DE CORREÇÃO DE OFÍCIO. PETIÇÃOINICIAL LIMINARMENTE INDEFERIDA.
