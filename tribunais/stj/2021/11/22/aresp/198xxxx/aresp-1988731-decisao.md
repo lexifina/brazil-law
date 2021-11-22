@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por ROBSON PEREIRA DE ALMEIDA,em face da decisão acostada às fls. 398-401 (e-STJ), que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado peloora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 290-294 (e-STJ), proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+EMENTA: Veículo automotor Contrato de proteção veicular - Ação de reparação por danos materiais e morais - Demanda de consumidor, pessoa natural, em face de pessoa jurídica prestadora Furto do bem, sem localização - Sentença de parcial procedência, apenas no que pertine aos prejuízos materiais Recurso do autor Manutenção do julgado Cabimento Arguição de que a recusa injustificada de pagamento lhe causou frustração, a embasar o recebimento de indenização por danos morais Descabimento - Prejuízo moral inexistente - Recusa ou demora de pagamento que não significa, por si mesma, anormal ofensa à honra subjetiva do consumidor Indenização a esse título não devida.
+Apelo do autor desprovido.
+Opostos embargos declaratórios (fls. 303-308, e-STJ), restaram rejeitados pelo aresto de fls. 314-318, e-STJ.
+Nas razões de recurso especial (fls. 324-347, e-STJ), alega oinsurgente, além de divergência jurisprudencial,violação aos arts. 186 e 927 do Código Civil, e 6º, VI, do CDC, alegando que"os fatos narrados não constituem um mero aborrecimento para o Recorrente, que teve seu direito violado diante da recursa e demora injustificada a cobertura securitária, causando-lhe frustação, visto que o contrato de seguro foi firmado para evitar dissabores na perda do bem" (fl. 327, e-STJ).
+Contrarrazões às fls. 392-396, e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre, ensejando a interposiçãodopresente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 407-422,e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 425-428, e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. A parte insurgente alegaviolação aosarts. 186 e 927 do Código Civil, e 6º, VI, do CDC, alegando que "os fatos narrados não constituem um mero aborrecimento para o Recorrente, que teve seu direito violado diante da recursa e demora injustificada a cobertura securitária, causando-lhe frustação, visto que o contrato de seguro foi firmado para evitar dissabores na perda do bem" (fl. 327, e-STJ).
+Acerca do tema, o acórdão recorrido registrou que o agravante nãologrou êxito em demonstrar a configuração dos danos morais, na hipótese,nos seguintes termos (fls. 292-293, e-STJ):
+O apelo não comporta acolhimento.
+Demanda ajuizada ao argumento de que o autor firmou com a ré contrato de prestação de serviços de proteção veicular no final de 2012, porém, ocorrido furto do bem em abril de 2013, a ré se comprometeu a quitar o financiamento pendente sobre o bem (R$ 20.805,77) e a lhe pagar o saldo remanescente, de R$ 6.674,23, entretanto, nenhum valor foi liberado.
+Postulou em Juízo, dessa forma, por sua condenação ao pagamento da indenização material no montante prometido, além de serem reparados os prejuízos morais experimentados.
+O digno Magistrado da causa julgou procedente em parte a pretensão deduzida, excluídos os danos morais, em respeitável posicionamento que não comporta modificação.
+A indevida demora ou recusa administrativa de pagamento não se apresenta, por si só, motivo suficiente para configurar prejuízos morais, eis que os fatos narrados acarretaram apenas contratempo ao autor, não representando relevante ofensa à honra subjetiva, capaz de atingir sua dignidade, motivo pelo qual ficou corretamente afastada a condenação a esse título.
+Desse modo,o provimento do pleito recursal, sob a ótica doagravante, demandaria que taispremissas fossem derruídas. Para tanto, todavia, seria necessária a reanálise de matériafático-probatória, providência vedada em sede de recurso especial, nos termos daSúmula7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZATÓRIA. PROVA PERICIAL.INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PLEITO INDENIZATÓRIO. DANO MORAL. DESCABIMENTO. APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+2. Para se concluir que a prova cuja produção fora requerida pela parte é ou não indispensável à solução da controvérsia, seria necessário se proceder ao reexame do conjunto fático-probatório, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7/STJ.
+3. No caso dos autos, o Tribunal de Justiça, com base no acervo fático-probatório carreado aos autos, concluiu como não configurados os danos morais, em virtude de ter sido comprovada a validade da relação jurídica entre as partes, pois os documentos apresentados pelo recorrido fazem prova da contratação do cartão de crédito consignado, bem como da autorização para desconto em folha de pagamento da parte autora.
+4. A modificação de tais entendimentos lançados no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na via estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+5. Na hipótese, o Tribunal a quo, após o exame acurado dos autos e das provas, concluiu pela caracterização de litigância de má-fé da agravante, que alterou a verdade dos fatos com o intuito de enriquecimento ilícito.
+6. A alteração da conclusão do Tribunal de origem sobre a litigância de má-fé da agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1614772/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/10/2020, DJe 24/11/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. RECUSA INJUSTIFICADA DA SEGURADORA EM PAGAR O PRÊMIO. 1. OMISSÃO DE DOENÇA PREEXISTENTE. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DOS ENUNCIADOS N.5 E 7 DA SÚMULA DO STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. Alterar a conclusão do Tribunal local quanto à existência, ou não, de doença preexistente demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+2. Agravo interno improvido.
+(AgInt no AREsp 1036022/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/08/2017, DJe 30/08/2017)
+2.Por fim, importante consignar que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+A propósito, confira-se:
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO EXPERIMENTAL. RECUSA DE COBERTURA.IMPOSSIBILIDADE. ROL DA ANS. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DOMINANTE DO STJ. SÚMULA Nº 568 DO STJ.COPARTICIPAÇÃO. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. DANO MORAL. CONFIGURAÇÃO.REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO INTERPRETIVO PREJUDICADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+6. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+7. Agravo interno não provido.
+(AgInt no REsp 1929629/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/05/2021, DJe 28/05/2021)
+3.Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nego provimento ao agravo em recurso especial, e, com base no artigo 85, § 11, do CPC/2015, majoro em 10% os honorários advocatícios sucumbenciais incidentes sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
