@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Sérgio Kukina.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):  Trata-se de agravo interno interposto porExcelsior S/A Hotéis de Turismo contra decisão que deu provimento aorecurso especial do ora agravado, em razão de violação ao art. 535 do CPC/73, porquanto o Tribunala quonão se manifestou quanto à tese de inexistência de trânsito em julgado a fundar a execução.
+Nas razões do agravo interno, a parte sustenta que "não há motivo para que os autos retornem à origem. A certidão que já está nos autos é documento apto e idôneo a demonstrar a data do trânsito em julgado" (fl. 146) e que "a alteração da causa de pedir e do pedido se deu após a sentença, o que fulmina a pretensão contida no Recurso Especial. Isto porque, no Processo Civil pátrio, vige a Teoria da Substanciação da Demanda, assim como os Princípios da Estabilização da Demanda e da Adstrição ou Congruência" (fl. 148).
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+Impugnação às fls. 156/159.
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.QUESTÃO RELEVANTE. OMISSÃO DO TRIBUNAL DE ORIGEM. VIOLAÇÃO AO ART. 535 DO CPC/73. CONFIGURAÇÃO.INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. TESE DEFENDIDA APENAS NAS RAZÕES DE AGRAVO INTERNO. PRECLUSÃO.
+1.O Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação relevante ao deslinde da controvérsia, em franca violação ao art. 535 do CPC/73.
+2.Não se mostra possível analisar em agravo interno matéria não suscitada oportunamente pela parte nas contrarrazões ao recurso especial interposto, por se tratar de inovação recursal.
+3. Agravo interno parcialmente conhecido e, nesse ponto, improvido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados (fls. 139/140):
+Trata-se de recurso especial manejado peloEstado do Rio Grande do Sulcom fundamento no art. 105, III,aec, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 60):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TITULO JUDICIAL CONTRA A FAZENDA PÚBLICA. EMBARGOS. LIQUIDAÇÃO PARCIALMENTE EQUIVOCADA QUANTO À PARTE PRINCIPAL, VIOLANDO O QUE FOI DECIDIDO NA FASE DE CONHECIMENTO. POR SUA VEZ,CÁLCULO DO EMBARGANTE EQUIVOCADO QUANTO AOS JUROS MORATÓRIOS. NECESSIDADE DE RECÁLCULO. APELAÇÃO DA EMBARGADA PROVIDA NESTE PONTO. DISTRIBUIÇÃO DOS ENCARGOS SUCUMBENCIAIS NA DEVIDA PROPORÇÃO DO DECAIMENTO.
+APELAÇÃO PROVIDA EM PARTE.
+Opostos embargos declaratórios, foram rejeitados (fls. 94/98).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 535, II, 741, II, e 754, I,do CPC/73; e 167 do CTN. Sustenta que:(I)o acórdão recorrido foi omisso;(II)"a incidência de juros moratórios no caso concreto, implica em clara violação ao art. 167, parágrafo único, do CTN determina que sua incidência flui "a partir do trânsito em julgado da decisão definitiva que a determinar"" (fl. 114);(III)"o"titulo executivo"que embasa a execução de sentença, não goza,pois, do pressuposto de exigibilidade, porquanto a decisão não transitou em julgado (art. 745, I do CPC), sendo nula a execução, justo por não ser executivo o título apresentado" (fl. 115); e(IV)"o fato de haver possibilidade de execução provisória da decisão, como ventilado pelo acórdão, não socorre o recorrido, porque a execução embargada não foi ajuizada com fundamento no art. 587 e 588 do CPC" (fl. 116).
+O ora recorrido deixou o prazo de contrarrazões transcorrerin albis, cf. certidão de fl. 124.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 -- devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, constata-se que apretensão recursal merece acolhida pelo art. 535 do CPC/73, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alega que não houve trânsito em julgado da decisão que embasa a execução, o que teria impacto direto na forma de cálculo dos juros.
+Ocorre que, da leitura dodecisumque julgou os aclaratórios, não é possível compreender se o Tribunala quoestá, ou não, reconhecendo a inexistência de trânsito em julgado no caso dos autos.
+A afirmação clara e objetiva de tal situação mostra-se relevante face as razões de decidir originais do acórdão recorrido. Isso porque, inicialmenteo órgão julgador definiu a data de suposto trânsito em julgado (27/11/2009) como termo inicial de juros moratórios, de modo que, eventual reconhecimento de inexistência de decisão transitada poderá impactartal fundamentação.
+Portanto, nota-se que o Tribunal de origem quedou silente sobre a argumentaçãorelativa aos efeitos da inexistência do trânsito em julgado sobre a contagem dos juros,rejeitando os pertinentes aclaratórios, em franca violação ao art. 535 do CPC/73, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial, por violação ao art. 535 do CPC/73, determinando o retorno dos autos à origem, para novo julgamento dos aludidos embargos de declaração.
+Publique-se.
+No caso, evidencia-se que a Corte de origem não asseverou se estava, ou não, reconhecendo a inexistência de trânsito em julgado a embasar a execução, o que é medida essencial ao deslinde da controvérsia, na qual se discute o termo inicial de juros moratórios a partir de tal marco.
+Veja-se que, num primeiro momento, a Corte de origem determinou a contagem dos encargosa partir de um suposto trânsito em julgado, mas, ao analisar os aclaratórios, passou a falar em "execução provisória" (fls. 63 e 97):
+Assiste razão à apelante, pois a fase de conhecimento, considerando o recurso ao STJ, passou em julgado em 27-11-2009 (fl. 488, apensos). Não dá para deduzir a que trânsito em julgado em 16-11-2011 se refere a certidão da fl. 526 dos apensos.
+Assim sendo, merece reforma a sentença neste ponto, irrelevante o fato de a embargada não ter impugnado nem requerido prova, porquanto é também do juízo a obrigação de zelar pelo exato cumprimento da coisa julgada (jurisprudência "in" CPC ANOTADO, de Theotônio, 46a ed.,Saraiva, 2014, p. 582, nota nº 4).
+Ao invés, titulo existe, haja vista a possibilidade de execução provisória, inclusive contra a Fazenda Pública, conforme já decidiu esta Câmara no Ag 70 007 757 198, do qual fui relator, Ap 70 047 561 808, da qual foi relator o eminente Des. Luiz Felipe Silveira Difini, em cujo voto são transcritos precedentes do STJ. Por exemplo: "2. É possível a execução provisória contra a Fazenda Pública quando a sentença não tiver por objeto a liberação de recurso, inclusão em folha de pagamento, reclassificação, equiparação, concessão de aumento ou extensão de vantagens a servidores da União, dos Estados, do Distrito Federal e dos Municípios." (AgRg no Ag 1230687 -RJ, 6a Turma, Rel. a Min. a Maria Thereza de Assis Moura, em 6-12-2011, DJe19-12-2011). Idem (AgRg no AREsp 17774 -DF,2a Turma, Rel. Min. Humberto Martins, em 18-10-2011, DJe 26-10-2011; AgRg no Ag 1072941 -RS, 6a Turma, Rel. a Min. a Maria Thereza de Assis Moura, julgado em 18-10-2011, DJe 17-11-2011.
+Assim, é forçoso determinar o retorno dos autos à origem para que seja definido, expressamente, se houve, ou não, o alegado trânsito em julgado, de modo a se enfrentar as alegações apresentadas àquele juízo. Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. QUESTÃO RELEVANTE. OMISSÃO DO TRIBUNAL DE ORIGEM.VIOLAÇÃO AO ART. 535 DO CPC/73. CONFIGURAÇÃO.
+1. "Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 535 do CPC" (AgRg no REsp 1340084/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13/5/2013).
+2. O Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação relevante ao deslinde da controvérsia, em franca violação ao art. 1.022 do CPC/15.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.357.747/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/12/2019, DJe 19/12/2019)
+Vale destacar que o debate proposto pela ora agravante, relativo à existência de certidão atestando o trânsito em julgado e sobre a suposta alteração da causa de pedir em meio ao processo, deveser direcionadoàinstância originária, que, em face dadeterminação do STJ de rejulgamento dos aclaratórios, analisaráas questões pertinentes.
+Além disso, chama a atenção o fato de que os argumentos postos em agravo interno, sobretudo no que concerne à suposta alteração da causa de pedir,foram apresentados em patente inovação recursal, na medida em que nem sequer foram protocoladas contrarrazões ao apelo nobre (cf. certidão de fl. 124), momento em que seria cabível a ventilação desses assuntos. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HONORÁRIO S ADVOCATÍCIOS. BASE DE CÁLCULO. OBRIGAÇÃO DE PAGAR QUANTIA CERTA E OBRIGAÇÃO DE FAZER. INOVAÇÃO RECURSAL.INVIABILIDADE. DECISÃO MANTIDA.
+1.  ..
+2. Incabível o exame de tese não exposta nas contrarrazões do recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.913.063/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/10/2021, DJe 18/10/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. TARIFA DE ESGOTO. USO DE GALERIAS PLUVIAIS. PRESTAÇÃO PARCIAL DO SERVIÇO. COBRANÇA INTEGRAL.CABIMENTO. TESE FIRMADA EM RECURSO REPETITIVO. ACERVO FÁTICO-PROBATÓRIO. REVOLVIMENTO. AUSÊNCIA. INOVAÇÃO RECURSAL.DESCABIMENTO.
+1.  ..
+5. É defeso à parte inovar em sede de agravo interno, apresentando argumento não esboçado nas contrarrazões ao apelo especial, dada a preclusão consumativa.
+6. Agravo interno desprovido.
+(AgInt no REsp 1893590/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 30/8/2021, DJe 8/9/2021)
+ANTE O EXPOSTO, conhece-se parcialmente do agravo interno e, no ponto conhecido, nega-se-lhe provimento.
+É o voto.
