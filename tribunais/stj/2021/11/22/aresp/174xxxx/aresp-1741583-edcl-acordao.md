@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de embargos de declaração opostos porLPS ONLINE CONSULTORIA DE IMÓVEIS LTDA. (outro nome:SATI - ASSESSORIA TÉCNICA E DOCUMENTAL LTDA.) e OUTRA ao acórdão assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. PRESCRIÇÃO. DEVOLUÇÃO DE VALORES. TAXA DE CORRETAGEM OU DE SERVIÇOS DE ASSISTÊNCIA TÉCNICO-IMOBILIÁRIA. TEORIA DA ACTIO NATA. TERMO INICIAL. EFETIVO PAGAMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No tocante à prescrição, a jurisprudência do Superior Tribunal de Justiça tem adotado a teoria da actio nata, segundo a qual a pretensão surge apenas quando há ciência inequívoca da lesão e de sua extensão pelo titular do direito violado. Precedentes.
+3. Para fins do art. 1.040 do Código de Processo Civil de 2015, a tese firmada no REsp nº 1.551.956/SP, julgado sob a sistemática dos repetitivos, limitou-se a reconhecer que é trienal o prazo prescricional para a restituição dos valores pagos a título de comissão de corretagem ou de serviço de assistência técnico-imobiliária (SATI).
+4. O termo inicial de fluência do prazo prescricional do direito ao reembolso de valores pagos a título de comissão de corretagem é a data do efetivo pagamento.
+5. Agravo interno não provido"(fl. 705 e-STJ).
+Em suas razões (fls. 712/723 e-STJ), os embargantes alegam omissão quantoà fixação do termo inicial da prescrição no julgamento do REsp nº 1.511.956/SP eà jurisprudência do Superior Tribunal de Justiça que defineque a prescrição será contada a partir da data da contratação.
+Nesse ponto, citam que o acórdão foi omisso ao deixar de se pronunciar a respeito dos seguintes precedentes: AgInt no AREsp nº 1.587.619/SP, REsp nº 1.721.824, REsp nº 1.729.666 eAREsp nº 1.299.646.
+Ao final, requerem o acolhimento dos embargos para que, sanados os vícios, seja dado provimento ao agravo interno com o reconhecimento de que a data da contratação éo termo inicial da prescrição trienal da pretensão de devolução da taxa SATI.
+O prazo para resposta transcorreu sem a manifestação da parte contrária, conforme consta da certidão de fl. 726 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.ART. 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIALNÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos declaratórios, afigura-sepatente o intuito infringente da presente irresignação, que objetiva nãosuprimir omissão, afastar obscuridade, eliminar contradição ou corrigir erromaterial, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+VOTO
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+O acórdão embargado não padece de nenhum dos vícios ensejadores dos embargos declaratóriosenumerados no artigo 1.022 do Código de Processo Civil de 2015: obscuridade, contradição, omissão ou erro material.
+Com efeito, houve expressa referência quanto aos limites do precedente firmado pela Segunda Seção no REsp nº1.511.956/SP, tendo sido explicitadas as razões pelas quais tal repetitivo não sustenta a tese defendida pelos ora embargantes:
+"(..)
+Ressalta-se, ainda, que a Segunda Seção, no julgamento do Recurso Especial nº 1.551.956/SP, não firmou tese relativa ao termo inicial do prazo prescricional. O precedente limitou-se a definir que o prazo prescricional é trienal na hipótese de devolução de valores pagos a título de corretagem. A propósito, convém transcrever a própria tese firmada no Recurso Especial nº 1.551.956/SP, nos termos redigidos para os fins do art. 1.040 do Código de Processo Civil de 2015: "Incidência da prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem ou de serviço de assistência técnico-imobiliária (SATI), ou atividade congênere (art. 206, § 3º, IV, CC)." Nesse sentido já se posicionou a Terceira Turma ao julgar, em 22/9/2020, oAgInt no AREsp nº 1.580.114/SP, da relatoria do Ministro Moura Ribeiro, que elucida a controvérsia da seguinte maneira: "(..) a tese fixada no julgamento dos recursos repetitivos assinalados diz respeito apenas ao prazo prescricional em si, e não ao termo inicial da sua fluência. Nos termos do art. 189 do CC/02, a pretensão nasce com a violação do direito, consagrando o princípio da actio nata. O direito subjetivo da reparação nasce com a lesão. Assim sendo, não se sustenta a alegação de que o termo inicial da prescrição seria a data da celebração do contrato pelo simples fato de que nele teria constado o valor total que seria pago a título de comissão de corretagem"" (fls. 707/708 e-STJ).
+Relativamente à suposta omissão quanto à jurisprudência do Superior Tribunal de Justiça acerca do assunto, foram citados inúmeros julgados aptos a embasar o entendimento de que, na hipótese,o prazo prescricional se inicia a partir do desembolso dos valores pagos a título de comissão de corretagem.
+A propósito, segue trecho do acórdão embargado nesse sentido:
+"(..)
+Com efeito, a decisão atacada está em consonância com a jurisprudência do Superior Tribunal de Justiça, firmada no sentido de que a prescrição obedece ao princípio da actio nata, segundo o qual o lapso do prazo prescricional somente começa com a ciência da efetiva lesão do direito tutelado. Nesse sentido: AgInt nos EDcl no REsp 1.816.380/MA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 24/4/2020; AgInt no AgInt no AREsp 1.483.727/DF, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 18/12/2019; REsp 1.698.732/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 18/5/2020; AgInt no REsp 1.814.901/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 27/4/2020; AgInt no AREsp 1.079.876/RS, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 1º/4/2020, e AgInt no AREsp 1.300.668/DF, Rel. Ministro Raul Araújo, Quarta Turma, DJe 27/11/2019. Na situação dos autos, a lesão ao direito em debate não se deu no momento da contratação do serviço técnico-imobiliário, mas, sim, na ocasião do desembolso dos valores efetivamente pagos a título de comissão de corretagem" (fl. 706 e-STJ).
+A motivação contrária ao interesse da parte ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos embargos declaratórios.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade ou eliminar a contradição, mas, sim, reformar o julgado por via inadequada.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. OMISSÃO NÃO CONSTATADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1.022 do CPC.
+3. Embargos de declaração rejeitados" (EDcl no AgInt no AREsp 874.797/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 4/8/2016, DJe 9/8/2016).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/2015. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados com aplicação de multa" (EDcl no RCD nos EDcl nos EDcl no AgRg no AREsp 471.799/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 24/8/2016).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
