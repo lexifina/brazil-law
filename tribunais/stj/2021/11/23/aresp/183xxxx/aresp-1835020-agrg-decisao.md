@@ -1,0 +1,30 @@
+DECISÃO
+EMERSON HENRIQUE DE FREITAS ROBERTO agrava de decisão que não conheceu do agravo em recurso especial.
+No regimental, alega a defesa que todos os fundamentos da decisão que inadmitiu o recurso especial foram impugnados, razão por que deve ser conhecido o recurso de agravo.
+Pugna pela reconsideração da decisão agravada ou pela submissão do feito ao órgão colegiado.
+Decido.
+Verifico que assiste razão ao agravante, motivo por que, em juízo de retratação, inerente ao agravo regimental, reconsidero o decisum, nos termos a seguir explicitados.
+Norecurso especial, a defesa sustentouafronta aos arts. 59 do CP e 617 do CPP, uma vezque, apesar davaloração neutra de vetoriais pelo Tribunal de origem, a pena-base foi mantida no mesmo patamar fixado pelo Juízo de primeiro grau, a caracterizar reformatio in pejus.
+O Tribunal de Justiça julgou os embargos infringentes nestes termos:
+Pois bem, no que diz respeito ao quantum da pena, entendo pela manutenção dos votos majoritários proferidos na apelação, eis que, conforme consignado pelo e. Revisor, Desembargador Paulo Calmon Nogueira da Gama, embora não haja nos autos elementos para avaliar de forma negativa a culpabilidade, a conduta social, a personalidade e as consequências do crime, os antecedentes do ora embargante são desfavoráveis, ostentando este sete condenações definitivas por crime anterior, além daquela utilizada na etapa seguinte da dosimetria, o que é suficiente para ensejar a fixação da sanção básica no patamar eleito pelos votos vencedores (quatro anos e seis meses de reclusão e doze dias-multa, para cada delito), tendo sido estabelecida uma pena justa, proporcional ao ato ilícito praticado pelo acusado, em sintonia com sua condição pessoal individualizada, de modo a se alcançar sua tríplice finalidade, motivo pelo qual não há qualquer reparo a ser feito.
+(fl. 295, destaquei)
+Os arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do CP e 387 do CPP estabelecem princípios e regras que regem a individualização e a quantificação da pena necessária para prevenir e reprimir o crime praticado. Dentro dessas balizas, o magistrado tem certa discricionariedade para avaliar as singularidades do caso concreto em relação à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, ao comportamento da vítima, aos motivos, bem como às circunstâncias e às consequências do delito.
+Na espécie,o Tribunal estadual entendeu que a sentença deveria ser reformada para que as vetoriais culpabilidade, conduta social, personalidade e consequências do crime fossem consideradas neutras.
+Ainda assim, tendo em vista os maus antecedentes, a pena-base pela prática de roubo foi mantida em 4 anos e 6 meses de reclusão mais 12 dias-multa, mesmo patamar determinado pelo Juiz sentenciante (fl. 169).
+Trata-se, poisde reformatio in pejus, pois não houve redução proporcional da pena-base apesar do afastamento de elementos relevantes para o cálculo dosimétrico em recurso exclusivo da defesa.Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. DOSIMETRIA.CIRCUNSTÂNCIAS JUDICIAIS AFASTADAS. PENA-BASE INALTERADA.ILEGALIDADE. READEQUAÇÃO PROPORCIONAL DA REPRIMENDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Nos termos da jurisprudência desta Corte, uma vez afastada a consideração negativa de uma circunstância judicial, de rigor o decote da sanção básica, sob pena de agravar a situação do réu, em recurso exclusivo da defesa, o que importaria em violação do princípio do ne reformatio in pejus" (AgRg no REsp n. 1.868.367/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/6/2020, DJe 29/6/2020).
+2. No caso, foram considerados como negativos os antecedentes do agravado e as consequências do delito. Já em relação à culpabilidade e aos motivos, apesar de tais circunstâncias terem sido afastadas, a pena-base permaneceu inalterada, pois a exasperação relacionada a elas foi mantida para as demais, o que ensejou a readequação da reprimenda básica, mantendo o seu aumento somente quanto aos antecedentes do réu e às consequências do crime em apreço.
+3. Agravo regimental desprovido.
+(AgRg no HC 642.473/ES, Rel. MinistroAntonio Saldanha Palheiro, 6ª T., DJe 26/3/2021)
+ ..
+1. A proibição de reforma para pior garante ao recorrente o direito de não ver sua situação agravada, direta ou indiretamente, mas não obsta, por sua vez, que o julgador, para dizer o direito - exercendo, portanto, sua soberana função dejurisdictio-, encontre fundamentos e motivação devida, respeitada, à evidência, a imputação deduzida pelo órgão de acusação e os limites da pena imposta na origem.
+2. Deve ser reconhecido o constrangimento ilegal no ponto em queo Tribunal de origem, na apelação exclusiva da defesa, considerou desfavoráveis ao réu duas circunstâncias judiciais - em vez das três valoradas na sentença -, mas não reduziu a pena básica, aumentando a quantidade de pena atribuída às vetoriais remanescentes.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1.789.032/RS, Rel. MinistroRogerio Schietti, 6ª T., DJe 14/2/2020, destaquei)
+Portanto, deveserajustadaa quantidade de reprimenda acrescida na primeira fase, ainda que de maneira não diretamente proporcional, pois o denunciado ostentasete condenações definitivas, utilizadas para caracterizar os maus antecedentes.
+Feitas essas considerações, passo à nova dosimetria.
+Preservadosapenas os maus antecedentes, fixo as penas-base em 4 anos e 2 meses de reclusão mais 11 dias-multa, relativas aambos os roubos cometidos pelo agente, que coincidem com as finais, haja vista a compensação entre a reincidência e a confissão na segunda fase e a inexistência de majorantes e minorantes.
+Por fim, preservo a elevação de 1/6 decorrente da continuidade delitiva, a fim de chegar a 4 anos, 10 meses e 10 dias de reclusão mais 12 dias-multa.
+Diante do exposto, reconsidero a decisão agravada e conheço do agravo para dar provimento ao recurso especial, com a finalidade de reduzir a sanção para 4 anos, 10 meses e 10 dias de reclusão mais 12 dias-multa, mantidos os demais termos do acórdão recorrido.
+Publique-se e intimem-se.
