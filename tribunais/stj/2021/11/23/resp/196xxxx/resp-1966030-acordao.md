@@ -1,0 +1,78 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE COBRANÇA. TAXA DE OCUPAÇÃO. ILEGITIMIDADE PASSIVA DO LOCATÁRIO DO IMÓVEL. RECURSO DESPROVIDO.
+1. O locatário do imóvel cuja propriedade foi consolidada nas mãos do credor fiduciário diante da inadimplência do devedor fiduciante (antigo locador do bem) não é parte legítima para responder pela taxa de ocupação, prevista no art. 37-A da Lei n. 9.514/1997, por não fazer parte da relação jurídica que fundamenta a cobrança da taxa em questão.
+2. Recurso especial a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Luis Felipe Salomão (Presidente), Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: Trata-se de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ fl. 189):
+ALIENAÇÃO FIDUCIÁRIA - TAXA DE OCUPAÇÃO - ART. 37-A DA LEI Nº 9514/97 - OBRIGAÇÃO RESTRITA AO FIDUCIANTE - MANUTENÇÃO DA SENTENÇA (ART. 252 DO RITJSP)
+- Mantém-se a sentença por meio da qual se reconheceu a impossibilidade de condenação do ora apelado ao pagamento de valores de taxa de ocupação, vez que o art. 37-A da Lei nº 9.514/97 impunha a obrigação do pagamento ao fiduciante e não ao terceiro (locador do imóvel - demandado).
+RECURSO IMPROVIDO.
+Cuida-se, na origem, de ação de cobrança proposta por BANCO ARBI S.A. contra CAETANO FABRINI NETO objetivando o recebimento dos valores correspondentes à taxa de ocupação prevista no art. 37-A da Lei n. 9.514/1997, como forma de compensação pelo período que o réu ocupou indevidamente o seu imóvel.
+Narrou o autor que o imóvel descrito na inicial foi dado em garantia fiduciária em cédula de crédito bancário celebrada com terceiros. Aduziu que, diante da inadimplência dos devedores fiduciários e da inércia destes após a intimação para a purga da mora, o banco consolidou a propriedade do imóvel para si e, após a realização de dois leilões infrutíferos, concedeu aos devedores a quitação integral da dívida.
+Afirmou que, ao tentar investir-se na posse do bem, tomou conhecimento de que o imóvel havia sido locado pelo antigo proprietário e devedor a CAETANO FABRINI NETO, ora recorrido, fato que ensejou sua notificação para que desocupasse o imóvel, o que só veio efetivamente a ocorrer 246 (duzentos e quarenta e seis) dias após o prazo de 120 (cento e vinte) dias concedido pelo banco para a desocupação, causando-lhe prejuízos.
+Nesse contexto, defendeu fazer jus à taxa de ocupação pleiteada.
+A sentença (e-STJ fls. 151/154), aplicando a teoria da asserção, reconheceu a ilegitimidade passiva do recorrido e julgou improcedente o pedido.
+Inconformado, apelou o banco recorrente ao TJSP, que negou provimento ao recurso, nos termos da ementa transcrita.
+As razões recursais (e-STJ fls. 193/213), fundamentadas no art. 105, III, "a" e "c", da CF, apontam dissídio jurisprudencial e ofensa ao art. 37-A da Lei n. 9.514/1997.
+O recorrente alega ser evidente a legitimidade do recorrido "em função de sua posição de locatário e possuidor direto do imóvel, o qual, permanecendo na posse do imóvel, mesmo após a extinção da relação jurídica decorrente da alienação fiduciária entre credor fiduciário e devedor fiduciante, continuou obrigado ao pagamento de justa contraprestação pelo uso e gozo do imóvel, só que a partir da notificação efetivada em 29/08/2012, em favor do Recorrente, posto a sucessão de posição na relação jurídica" (e-STJ fl. 200).
+No seu entender, "a taxa de ocupação assumiu natureza jurídica de cláusula penal com finalidade de reparação das perdas e danos imputados ao Recorrente durante o período em que restou configurado o esbulho possessório por parte do Recorrido" (e-STJ fl. 201).
+Salienta que o texto legal não veda a cobrança da taxa de ocupação diretamente do sucessor do devedor fiduciante.
+A seu ver, "Se a posse do imóvel, pelo devedor fiduciante (ou ainda por quem o sucedeu v.g. um eventual locatário) é derivada de um contrato firmado com o credor fiduciário, a resolução do contrato no qual ela encontra fundamento torna-a ilegítima, sendo possível não só qualificar a permanência no imóvel como esbulho, como também atribuir ao devedor fiduciante ou ao real/atual ocupante a responsabilidade pelo pagamento da taxa de ocupação ou de justa contraprestação pelo uso e fruição do bem" (e-STJ fl. 203).
+Aponta dissídio jurisprudencial indicando como paradigma o acórdão proferido pela Quarta Turma no julgamento do REsp n. 1.328.656/GO.
+O recorrido apresentou contrarrazões (e-STJ fls. 228/240).
+O recurso especial foi inadmitido na origem (e-STJ fls. 241/242), ensejando a interposição de agravo nos próprios autos (e-STJ fls. 244/267), ao qual dei provimento para melhor análise da controvérsia (e-STJ fl. 298).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE COBRANÇA. TAXA DE OCUPAÇÃO. ILEGITIMIDADE PASSIVA DO LOCATÁRIO DO IMÓVEL. RECURSO DESPROVIDO.
+1. O locatário do imóvel cuja propriedade foi consolidada nas mãos do credor fiduciário diante da inadimplência do devedor fiduciante (antigo locador do bem) não é parte legítima para responder pela taxa de ocupação, prevista no art. 37-A da Lei n. 9.514/1997, por não fazer parte da relação jurídica que fundamenta a cobrança da taxa em questão.
+2. Recurso especial a que se nega provimento.
+RECURSO ESPECIAL Nº 1.966.030 - SP (2016/0134033-9)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+RECORRENTE
+:
+BANCO ARBI S/A
+ADVOGADOS
+:
+LUÍS PAULO SERPA - SP118942
+JAIRO CORRÊA FERREIRA JÚNIOR E OUTRO(S) - SP209508
+RECORRIDO
+:
+CAETANO FABRINI NETO
+ADVOGADO
+:
+ANDRÉ GUSTAVO SALVADOR KAUFFMAN E OUTRO(S) - SP168804
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A questão objeto da controvérsia cinge-se em saber se o locatário do imóvel, objeto de alienação fiduciária celebrada entre o banco (autor da ação de cobrança) e terceiros, como garantia das obrigações decorrentes de cédula de crédito bancário, é parte legítima para responder pela taxa de ocupação prevista no art. 37-A da Lei n. 9.514/1997 (com a redação dada pela Lei n. 10.931/2004), exigida pela instituição financeira em razão da ocupação indevida do bem após a consolidação da propriedade para si e a notificação para que o locador procedesse à devolução do imóvel, no prazo que estipulou.
+O art. 37-A, incluído pela Medida Provisória n. 2.223/2001 (Lei n. 10.931/2004) na Lei n. 9.514/1997 (que trata da alienação fiduciária de bens imóveis), estabelecia, em sua redação original, vigente à época dos fatos, que:
+Art. 37-A. O fiduciante pagará ao fiduciário, ou a quem vier a sucedê-lo, a título de taxa de ocupação do imóvel, por mês ou fração, valor correspondente a um por cento do valor a que se refere o inciso VI do art. 24, computado e exigível desde a data da alienação em leilão até a data em que o fiduciário, ou seus sucessores, vier a ser imitido na posse do imóvel.
+Anote-se que a Lei n. 13.465/2017 (não aplicável ao caso concreto) deu nova redação a esse dispositivo, deixando mais claro o momento a partir do qual a taxa de ocupação se torna exigível, mantendo, todavia, o restante da redação original do dispositivo.
+A norma passou a conter o seguinte teor:
+Art. 37-A. O devedor fiduciante pagará ao credor fiduciário, ou a quem vier a sucedê-lo, a título de taxa de ocupação do imóvel, por mês ou fração, valor correspondente a 1% (um por cento) do valor a que se refere o inciso VI ou o parágrafo único do art. 24 desta Lei, computado e exigível desde a data da consolidação da propriedade fiduciária no patrimônio do credor fiduciante até a data em que este, ou seus sucessores, vier a ser imitido na posse do imóvel.
+O acórdão recorrido entendeu que "a r. sentença corretamente ressaltou a impossibilidade de condenação do ora apelado ao pagamento de valores de taxa de ocupação, vez que o art. 37-A da Lei nº 9.514/97 impunha a obrigação do pagamento ao fiduciante e não ao terceiro ( locatário  do imóvel demandado), não se olvidando de destacar, ainda, que, no caso dos autos, foram os fiduciantes que auferiram os frutos decorrentes da locação" (e-STJ fl. 190).
+Nesse contexto, cabe inicialmente anotar que não foi objeto de debate na Corte de origem o principal fundamento apresentado nas razões do especial, relativo à suposta legitimidade do recorrido para responder pela taxa decorrente do contrato de alienação fiduciária firmado com terceiro, sob o enfoque da "sucessão de posição na relação jurídica" (e-STJ fl. 200). Além disso, não foram opostos embargos de declaração com a finalidade de sanar omissão porventura existente sobre a matéria.
+Nos termos da jurisprudência pacífica desta Corte, a simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pela decisão recorrida, impede o conhecimento do recurso especial, por falta de prequestionamento. A insurgência, nesse ponto, encontra óbice nas Súmulas n. 282 e 356 do STF.
+Cabe ainda salientar que o dispositivo legal em questão não disciplina a possível sucessão do devedor do contrato de alienação fiduciária, dispondo apenas sobre a possibilidade de sucessão do credor do ajuste, para fins de exigência da taxa de ocupação, motivo pelo qual não possui carga normativa para sustentar a tese apresentada pelo recorrente, o que impede o conhecimento da insurgência, nos termos da Súmula n. 284/STF.
+Por outro lado, embora o recorrente alegue que " a quele que detém injustamente a posse direta do imóvel, usa e goza do mesmo em detrimento do direito do legítimo proprietário, por um princípio do comutatividade deve responder pela justa contraprestação, bem como pelos encargos devidos" (e-STJ fl. 201), o direito à indenização pela ocupação ilegítima não é o objeto de discussão no acórdão ou no recurso, e sim a legitimidade do recorrido para responder pelo pagamento da taxa de ocupação prevista no art. 37-A da Lei n. 9.514/1997.
+Com efeito, o acórdão recorrido, inclusive, admite ter o recorrente o direito à justa reparação pelo dano sofrido, ao ratificar a sentença, na qual "irretocavelmente foi esclarecido, que não estava sendo defendida a conduta do apelado, reconhecendo a possibilidade de eventual condenação deste, a arcar com o uso do imóvel, caso houvesse pedido de lucros cessantes em decorrência do ilícito, mas, em face da existência de pedido certo e determinado para a condenação do ocupante do imóvel ao pagamento de taxa de ocupação decorrente do contrato de alienação fiduciária, não poderia ser admitido este pleito" (e-STJ fl. 191).
+Quanto à questão de mérito, correta a conclusão do acórdão recorrido.
+De fato, a taxa de ocupação do imóvel, conforme ressaltou o Ministro MARCO BUZZI, no voto que proferiu no julgamento do REsp n. 1.328.656/GO, "visa remunerar o adquirente do bem imóvel pelo período que mediar entre a sua aquisição e efetiva imissão na posse" e, "em contrapartida, impede que o devedor continue desfrutando do imóvel sem arcar com a devida contraprestação" (REsp n. 1.328.656/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/08/2012, DJe 18/09/2012).
+Assim, a taxa tem por fundamento a posse injusta exercida pelo devedor fiduciante a partir do momento em que consolidada a propriedade no patrimônio do credor, sendo sua finalidade compensar o legítimo proprietário do imóvel - o credor fiduciário, ou quem vier a sucedê-lo - pela ocupação ilegítima.
+Nesse contexto, observa-se que os sujeitos da relação jurídica apta a ensejar a cobrança da taxa de ocupação prevista no art. 37-A da Lei n. 9.514/1997 estão expressos na norma e são apenas os sujeitos originários do ajuste - fiduciante e fiduciário -, ou aqueles que sucederam o credor na relação contratual.
+No caso, o recorrente consolidou a propriedade do imóvel para si e, após a realização de dois leilões infrutíferos, concedeu ao devedor a quitação integral da dívida, tornando-se proprietário pleno do bem. Em seguida, ao tentar investir-se na posse do imóvel, tomou ciência de que, em razão de um contrato de locação firmado com o então devedor-fiduciante, o bem estava sendo ocupado por um terceiro.
+Diante dessas circunstâncias, correta a conclusão do acórdão recorrido de manter a sentença de improcedência do pedido do autor porque o ônus do pagamento da taxa de ocupação só pode ser atribuído ao devedor fiduciante, sendo o locatário parte ilegítima para tanto.
+Cabe anotar que a cessão da posse do imóvel objeto de alienação fiduciária, por meio da celebração de contrato de locação com terceiros, é uma faculdade assegurada ao devedor fiduciante, pois a lei lhe confere, "enquanto adimplente, a livre utilização por sua conta e risco do imóvel objeto da alienação fiduciária" (art. 24, V, da Lei n. 9.514/1997).
+No entanto, havendo a consolidação da propriedade em nome do credor fiduciário, conforme salienta, Melhim Namen Chalhub, "nos casos em que o credor fiduciário concordar, por escrito, em que o devedor fiduciante dê em locação o imóvel alienado fiduciariamente, antes ou depois de contratada a alienação fiduciária, deve respeitar a locação nos termos, prazo e nas condições do contrato" (Chalhub, Melhim Namen, Alienação fiduciária. Negócio Fiduciário. 7ª Edição, Forense, 2021).
+Dessa forma, havendo anuência do credor fiduciário, a locação deve ser respeitada, passando o credor a figurar na relação locatícia como sucessor do locador, e os valores que o credor poderá cobrar do ocupante do imóvel, após a consolidação da propriedade são aqueles decorrentes do contrato de locação.
+Por outro lado, não havendo essa anuência, inexiste qualquer vínculo entre o locatário e o credor fiduciário, que poderá, apenas, denunciar a locação, nos termos do disposto nos arts. 27, § 7º, da Lei 9.514/1997, in verbis:
+Art. 27. Uma vez consolidada a propriedade em seu nome, o fiduciário, no prazo de trinta dias, contados da data do registro de que trata o § 7º do artigo anterior, promoverá público leilão para a alienação do imóvel.
+(..)
+§ 7º. Se o imóvel estiver locado, a locação poderá ser denunciada com o prazo de trinta dias para desocupação, salvo se tiver havido aquiescência por escrito do fiduciário, devendo a denúncia ser realizada no prazo de noventa dias a contar da data da consolidação da propriedade no fiduciário, devendo essa condição constar expressamente em cláusula contratual específica, destacando-se das demais por sua apresentação gráfica. (Incluído pela Lei nº 10.931, de 2004).
+Por fim, cumpre anotar que o conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a demonstração do dissídio, mediante o exame das circunstâncias que assemelhem ou identifiquem os casos confrontados.
+No caso concreto, o paradigma colacionado pelo recorrente trata de situação em que se discutiu a possibilidade de a taxa de ocupação ser arbitrada em favor do credor fiduciário na hipótese de a propriedade se resolver a seu bem, diante da frustração das tentativas de venda extrajudicial. O acórdão recorrido, por sua vez, tratou da legitimidade do locatário, terceiro estranho ao contrato de alienação fiduciária, para responder pelo pagamento da taxa de ocupação prevista no art. 37-A da Lei n. 9.514/1997. Falta, portanto, a necessária similitude fática entre os casos confrontados.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+É como voto.
