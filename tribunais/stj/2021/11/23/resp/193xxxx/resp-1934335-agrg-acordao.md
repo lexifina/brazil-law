@@ -1,0 +1,16 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. LEI 13.654/2018. NOVATIO LEGIS IN MELLIUS. REDIMENSIONAMENTO DA PENA PELO JUÍZO DA EXECUÇÃO. REMANEJAMENTO DA CIRCUNSTÂNCIA DO USO DE ARMA BRANCA PARA A PRIMEIRA FASE. QUANTUM DE PENA INALTERADO. OFENSA À COISA JULGADA, EXCESSO NA EXECUÇÃO OU REFORMATIO IN PEJUS. NÃO OCORRÊNCIA.
+1. Nos termos da orientação jurisprudencial desta Corte, "Inexiste ilegalidade quando o Juízo das Execuções, ao aplicar retroativamente a Lei 13.654/2018, procede ao reajuste da dosimetria, levando à valoração relativa à arma branca para a primeira fase da dosimetria, não tendo havido agravamento da pena para o réu" (AgRg no HC 613.807/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/11/2020, DJe 27/11/2020).
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Trata-se de agravo regimental interposto contra decisão que deu provimento ao recurso especial do Ministério Público.
+Sustenta o agravante que "a decisão do Tribunal de Justiça de Santa Catarina deve ser mantida, haja vista que não compete ao Juízo de Execução Penal realizar a migração da causa de aumento de pena prevista no inciso I do § 2º do art. 157 (emprego de arma branca) para a valoração da pena basilar, em razão da exclusão da aludida majorante especial" (fl. 166).
+Requer o provimento do agravo regimental para negar provimento ao recurso especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Insurge-se o agravante contra o redimensionamento da pena, procedido pelo Juízo das Execuções, cuja decisão foi restabelecida por esta Corte, migrando a extinta causa de aumento de pena do emprego de arma branca para a primeira fase da dosimetria, como circunstâncias do crime, em virtude da alteração promovida pela Lei 13.654/2018.
+Sem razão, contudo, o agravante, porquanto o entendimento adotado corrobora a orientação jurisprudencial desta Corte de que "Inexiste ilegalidade quando o Juízo das Execuções, ao aplicar retroativamente a Lei 13.654/2018, procede ao reajuste da dosimetria, levando à valoração relativa à arma branca para a primeira fase da dosimetria, não tendo havido agravamento da pena para o réu" (AgRg no HC 613.807/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/11/2020, DJe 27/11/2020). Nesse sentido: AgRg no REsp 1880840/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020).
+A decisão agravada, portanto, deve ser mantida por seus próprios fundamentos, pois expressa a orientação jurisprudencial desta Corte, razão por que nego provimento ao agravo regimental.
+É o voto.
