@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+BENIVALDO ALVES DA SILVA interpõe agravo regimental contra decisão da Presidência desta Corte que não conheceu do seu agravo em recurso especial com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do RISTJ.
+Em suas razões, o agravante sustenta que a indicação, pelo sistema PJe, do dia 1º/2/2021 como data limite para ciência ou manifestação, além do fato de a Instância a quo ter certificado a tempestividade do recurso especial, "no mínimo induz a  sua  boa fé processual" (fl. 1.283).
+Alega que, de acordo com o Provimento n. 53/2020 - CM, de 16 de novembro de 2020, do Conselho da Magistratura do Tribunal de Justiça do Estado de Mato Grosso, os prazos processuais foram suspensos no período de 20 de dezembro de 2020 a 20 de janeiro de 2021.
+Aduz que o prazo teria iniciado no dia 15/12/2020, tendo sido suspenso em 20/12/2020. Terminado o período de suspensão em 20/1/2021, o prazo teria reiniciado "em 21 de janeiro de 2021 (quinta-feira), findando-se o prazo dos dias remanescentes  ..  em 30 de janeiro de 2021 (sábado) que, por não se tratar de dia útil, restou prorrogado para o dia 01 de fevereiro de 2021 (segunda-feira)" (fl. 1.289).
+Requer a reconsideração da decisão impugnada e, subsidiariamente, o provimento do regimental a fim de que seja conhecido e processado o recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESP INTEMPESTIVO. PRAZO DE 15 DIAS. ART. 1.003 DA LEI N. 1.105/2015. DISPOSIÇÃO ESPECÍFICA NO CPP SOBRE A MATÉRIA (ART. 798). AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto após o prazo de 15 dias, de acordo com o art. 994, VI, c/c o art. 1.003, § 5º, ambos do Código de Processo Civil de 2015.
+2. O recesso judiciário não tem o condão de interromper ou suspender a contagem do prazo, mas tão somente prorroga o dia do vencimento para aqueles findos em seu curso, para o dia útil subsequente.
+3. Segundo entendimento firmado nesta Corte Superior, "a contagem correta dos prazos recursais, nos termos definidos pela legislação processual, é ônus exclusivo da parte recorrente, de modo que a data eventualmente sugerida pelo sistema processual eletrônico não o exime de interpor o recurso no prazo previsto em lei" (AgRg no AREsp n. 1.825.919/PR, Rel. Ministra Laurita Vaz, 6ª T., DJe 16/6/2021) e, ainda, " a  data diversa para o término do prazo (10/12/2019), trazida no presente recurso, mediante "print" do sistema eletrônico do Tribunal de Justiça de Mato Grosso, não possui caráter oficial para fins de contagem de prazos processuais, segundo a ampla jurisprudência do STJ" (AgInt no AREsp n. 1.640.644/MT, Rel. Ministro Gurgel de Faria, 1ª T., DJe 8/9/2020).
+4. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Mantenho a decisão agravada.
+Nos termos do art. 994, VI, c/c o art. 1.003, § 5º, ambos do Código de Processo Civil de 2015, é de 15 dias o prazo para interposição do recurso especial.
+Consoante assentado no decisum proferido pela Presidência desta Corte Superior (fls. 580-581, destaquei):
+Mediante análise do recurso de BENIVALDO ALVES DA SILVA, a parte recorrente foi intimada do v. acórdão recorrido em 14/12/2020, sendo o recurso especial somente interposto em 01/02/2021.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Cumpre observar que, "de acordo com a jurisprudência desta Corte, não se aplica o disposto no art. 220 do CPC, regulamentado pela Resolução CNJ n. 244, de 19/9/2016, nos feitos com tramitação perante a justiça criminal, ante a especialidade das disposições previstas no art. 798, caput, e § 3º, do CPP, motivo pelo qual não há falar em suspensão dos prazos entre os dias 20 de dezembro a 20 de janeiro". (AgRg no AREsp 1698961/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/08/2020.)
+Além disso, em consonância com o regramento do art. 798, caput e § 3º, do Código de Processo Penal, de que os prazos processuais penais são contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado, o "recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão". (AgRg no AREsp 1612424/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/6/2020.)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+A Terceira Seção desta Corte Superior assentou entendimento de que, nos processos e recursos que tratam de matéria penal, o prazo continua a ser contado em dias corridos, em razão de disposição específica do art. 798 do Código de Processo Penal, e a comprovação de suspensão do prazo recursal pelo Tribunal local deve ser feita no ato de interposição do recurso, nos termos do art. 1.003, § 6º, do Código de Processo Civil, c/c o art. 3º, do Código de Processo Penal.
+Ademais, ainda que os prazos tenham sido suspensos nos dias compreendidos entre 20 de dezembro e 20 de janeiro, o prazo penal iniciado em 15/12/2019 e vencido durante a suspensão, fica prorrogado para o primeiro dia útil subsequente, ou seja, 21/1/2020, sendo intempestiva a interposição de recurso especial no dia 1º/2/2021.
+Com esse entendimento, cito os seguintes precedentes:
+ ..
+1. Em consonância com o regramento do art. 798, caput e § 3º do Código de Processo Penal, de que os prazos processuais penais são contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado, o "recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão" (AgRg no Inq 1.105/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 29/3/2017, DJe 19/4/2017.)
+2. Ademais, a contagem de prazo em dias úteis, prevista no art. 219 do novo CPC, não se aplica ao recurso especial, que versa sobre matéria penal, haja vista a existência de legislação própria e específica regulamentando o assunto.
+ ..
+4. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.930.522/CE, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/10/2021)
+ ..
+I - Em razão do princípio da especialidade, o art. 220 do Código de Processo Civil de 2015 não incide sobre os processos de competência da Justiça Criminal, porquanto a disciplina sobre a matéria deve obedecer ao disposto no art. 798, caput, e § 3º, do CPP.
+II - Nos termos da jurisprudência consolidada no âmbito deste Superior Tribunal, " o  efeito do recesso forense e das férias coletivas nos prazos processuais penais é a mera prorrogação do vencimento para o primeiro dia útil subsequente ao término, não havendo interrupção ou suspensão" (AgRg no AREsp n. 1.793.976/PR, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 07/04/2021).
+Agravo regimental desprovido.
+(AgRg no AREsp n. 1.882.489/RJ, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 24/8/2021)
+Por fim, segundo entendimento firmado nesta Corte Superior, "a contagem correta dos prazos recursais, nos termos definidos pela legislação processual, é ônus exclusivo da parte recorrente, de modo que a data eventualmente sugerida pelo sistema processual eletrônico não o exime de interpor o recurso no prazo previsto em lei" (AgRg no AREsp n. 1.825.919/PR, Rel. Ministra Laurita Vaz, 6ª T., DJe 16/6/2021) e, ainda, " a  data diversa para o término do prazo (10/12/2019), trazida no presente recurso, mediante "print" do sistema eletrônico do Tribunal de Justiça de Mato Grosso, não possui caráter oficial para fins de contagem de prazos processuais, segundo a ampla jurisprudência do STJ" (AgInt no AREsp n. 1.640.644/MT, Rel. Ministro Gurgel de Faria, 1ª T., DJe 8/9/2020).
+Na mesma direção:
+ ..
+1. A contagem correta dos prazos recursais, nos termos definidos pela legislação processual, é ônus exclusivo da parte recorrente, de modo que a data eventualmente sugerida pelo sistema processual eletrônico não o exime de interpor o recurso no prazo previsto em lei (AgRg no AREsp n. 1.825.919/PR, Ministra Laurita Vaz, Sexta Turma, DJe 16/6/2021).
+2. A Corte Especial, por ocasião do julgamento do Agint no AREsp 1.481.810/SP, em sessão realizada em 19/5/2021 - acórdão pendente de publicação -, tornou pacífica a aplicação do entendimento fixado no julgamento do REsp n 1.813.684/SP, no sentido de que a falta de comprovação prévia da tempestividade do recurso, em razão de todo e qualquer feriado ou recesso forense local, configura vício insanável, de modo que não pode ser feita posteriormente no agravo interno, à exceção do feriado da segunda-feira de carnaval, no caso de recursos interpostos até 18/11/2019, consoante decidido na Questão de Ordem no REsp 1.813.684/SP (AgInt nos EAREsp n. 1.375.252/TO, Ministro Luiz Felipe Salomão, Corte Especial, DJe 29/6/2021)
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 1.869.843/PR, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 22/10/2021)
+ ..
+2. No julgamento do REsp 1.324.432/SC, realizado em 17/12/2012, a egrégia Corte Especial firmou compreensão pela qual a existência de equívoco no sistema processual eletrônico do Poder Judiciário pode ser considerado para fins de relativizar a intempestividade recursal.
+3. Todavia, a jurisprudência vem considerando que a parte recorrente deve demonstrar, de maneira efetiva, a justa causa para obter a excepcional afastamento da intempestividade recursal, o que não se verifica no presente caso. Nesse sentido: AgInt nos EDcl no REsp 1.863.358/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 26/10/2020, REPDJe 12/11/2020, DJe 03/11/2020.
+4. Este Colegiado também já reconheceu que apenas o print do sistema não é servil à efetiva demonstração da justa causa: AgInt no AREsp 1.640.644/MT, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 31/08/2020, DJe 08/09/2020. No presente caso, ainda, se nota que o print incorporado à peça recursal, sequer apresenta dados identificadores do sítio eletrônico de onde foi extraído, bem como de do processo judicial a que se refere.
+5. Sendo a justa causa hipótese excepcional a afastar a intempestividade, sua análise deve ser restritiva, não estando caracterizada neste caso, em que não se levanta qualquer questionamento acerca do início ou da extensão do prazo recursal, nem se demonstra a ocorrência de fato suspensivo ou interruptivo, mas apenas se alega dúvida em relação ao termo final, o qual é obtido mediante mera contagem aritmética com base nos elementos sobre os quais não se apontou qualquer mácula.
+6. Agravo interno da sociedade individual de advocacia a que se nega provimento.
+(AgInt nos EDcl no RMS 65.016/MA, Rel. MIN. MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, julgado em 31/05/2021, DJe 04/06/2021)
+ ..
+2. A contagem correta dos prazos recursais, nos termos definidos pela legislação processual, é ônus exclusivo da parte recorrente, de modo que a data eventualmente sugerida pelo sistema processual eletrônico não o exime de interpor o recurso no prazo previsto em lei (ut, AgRg no AREsp 1.825.919/PR, Rel. Ministra LAURITA VAZ, Sexta Turma, DJe 16/6/2021).
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AREsp n. 1.904.160/PR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 4/10/2021)
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
