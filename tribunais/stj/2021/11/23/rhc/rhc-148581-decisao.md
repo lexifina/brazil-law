@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto porMARCOS RAIKE JUSTINO DOS SANTOScontra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do HC n. 1.0000.21.068307-4/000.
+Extrai-se dos autos que o recorrente foi pronunciado em 23/11/2020 pela suposta prática dos delitos tipificados no art. 121, § 2º, incisos I e IV, do Código Penal, e art. 121, § 2º, incisoIV, c/c art. 14, inciso II, ambos também do Código Penal, por três vezes (homicídio qualificado e três tentativas de homicídioqualificado). Mantida, naocasião, a prisão preventiva (fl. 31).
+Irresignada, a defesa impetrouhabeas corpusperante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS -HOMICÍDIO QUALIFICADO CONSUMADO E TENTADO -REVOGAÇÃO DA PRISÃO PREVENTIVA -IMPOSSIBILIDADE -DECISÃO DEVIDAMENTE FUNDAMENTADA -OCORRÊNCIA -REQUISITOS DOS ART. 312 E 313 DO CPP -PRESENÇA -CONSTRANGIMENTO ILEGAL -INOCORRÊNCIA -IMPOSSIBILIDADE-APLICAÇÃO DE OUTRAS MEDIDAS CAUTELARES NÃO PRISIONAIS -INVIABILIDADE -PORTARIA CONJUNTA Nº 19/PR-TJMG/2020 -IMPOSSIBILIDADE DA ANÁLISE.
+Devidamente fundamentada a decisão que decretou a prisão preventiva com base em elementos concretos não há que se falar em constrangimento ilegal. Presentes os requisitos para a prisão preventiva, consubstanciados na garantia da ordem pública, impõe-se a manutenção da restrição da liberdade, sendo inviável a aplicação de outras medidas cautelares diversas da prisão. Não pode esta Corte pronunciar-se sobre a aplicação ou não da Portaria Conjunta nº 19/PR-TJMG/2020, uma vez que não há nos autos elementos que demostrem que a matéria já foi apreciada pela autoridade coatora, sob possível pena de indevida supressão de instância"(fl. 113).
+No presente recurso, ressalta as condições pessoais favoráveis do paciente e sustenta não estarem mais presentes os motivos ensejadores da prisão preventiva. Entende que o fato do recorrente ter respondido preso durante o processo não justifica a manutenção do cárcere.
+Requer, em liminar e em mérito, a liberdade provisória até a decisão final da ação penal, inclusive em razão da pandemia de Covid-19.
+É o relatório.
+Decido.
+O presente recursoestá prejudicado.
+Isso porque, de acordo com as informações obtidas na página eletrônica do Tribunal de origem, observa-se que, nos autos da Ação Penal n. 0322006-18.2020.813.0024,em 20/10/2021, sobreveio sentença condenando orecorrenteàpenade 21 anos de reclusão, em regime inicial fechado, tendo sido mantida a custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar doréu, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"Em observância ao art. 387, §1º, do Código de Processo Penal, o réu respondeu preso ao presente processo e, na data de hoje, foi condenado, inclusive por crime hediondo, a uma pena alta, portanto, entendo que ainda se fazem presentes os requisitos que autorizaram a decretação da sua custódia cautelar.
+Além disso, de acordo com o art. 492, inciso I, letra "e", parte final, do Código de Processo Penal, trazido pela Lei nº 13.964, de 24 de dezembro de 2019, o magistrado, em se tratando de réu condenado em plenário do Tribunal do Júri a uma pena igual ou superior a 15 (quinze) anos de reclusão, determinará (portanto, não é uma faculdade) a execução provisória da pena, o que faço neste momento.
+Assim, por esses dois motivos, nego ao sentenciado o direito de recorrer em liberdade e determino a expedição de guia de execução provisória, em caso de recurso"
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor doora recorrente, fica superada a alegação trazida na impetração que ataca os fundamentos na manutenção da prisão preventiva por ocasião do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1. A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido.
+(AgRg no HC 461.932/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 19/08/2019).
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
