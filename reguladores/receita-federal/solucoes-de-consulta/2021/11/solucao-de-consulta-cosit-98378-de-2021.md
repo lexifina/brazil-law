@@ -1,0 +1,25 @@
+Solução de Consulta Cosit nº 98378, de 30 de setembro de 2021
+Assunto: Classificação de Mercadorias
+Código NCM: 8479.89.40
+Mercadoria: Unidade funcional destinada a armazenamento de grãos, incluindo sistemas de carga, limpeza, secagem e descarga, com capacidades que podem variar, conforme o projeto, de 21 a 225.000 toneladas, constituída por:
+- Silos planos feitos em aço revestido de zinco com telhado em liga de alumínio, em modelos, conforme o projeto, com capacidade entre 183 e 28.063 m3;
+- Silos elevados feitos em aço revestido de zinco com telhado em liga de alumínio, em modelos, conforme o projeto, com capacidade de 29 a 1.769 m3:
+Os silos podem ter os seguintes acessórios:
+- Aeradores com ventilador centrífugo para manter a temperatura e umidade em condições ideais;
+- Espalhadores de grãos, motorizados ou cinéticos, instalados no ponto de carga dos silos;
+- Rampas para amortecimento da massa de grãos;
+- Rosca varredora composta por haste, helicoide e tratores mecânicos para descarga homogênea da massa de grãos nos silos planos;
+- Registros de descarga para permitir a regulagem do fluxo de grãos na descarga do silo;
+- Dispositivo de descarga lateral por gravidade (opcional). - Dispositivos de transporte de grãos: correias transportadoras para transporte horizontal, transportadores de corrente TCRA e TCRC para transporte horizontal e com elevação, transportadores helicoidais (roscas transportadoras) (TRUA), e elevadores de canecas para transporte vertical.
+- Secadores, em modelos contendo de um a oito ventiladores e capacidade de 36 a 401 m³, conforme o projeto da instalação, com torre de colunas para um melhor escoamento dos grãos, sistema de inversão dos módulos para dar maior homogeneidade na massa de grãos e descarga realizada com sistema de bandejas basculantes.
+- Máquinas de limpeza abertas, em modelos com capacidade de 50 a 120 t/h, dependendo do projeto das instalações, com câmaras de aspiração para extração de partículas leves com uso de ventiladores, caixa de peneiras que separa impurezas pesadas por meio de movimento vibratório;
+- Máquinas de limpeza fechadas, em modelos com capacidade de 170 a 240 t/h, dependendo do projeto das instalações, com câmaras de aspiração para extração de partículas leves com uso de ventiladores, com sistema de peneira rotativa para impurezas grossas, caixa de peneiras oscilatórias para impurezas de granulação média;
+- Tulhas, para armazenamento temporário de grãos antes da expedição (carregamento dos grãos em veículos), com capacidades de 55, 100 ou 165 m³, e funis de 35o ou 60o, conforme projeto das instalações, com largura livre de 4,2 m e altura livre de 4 a 5 m, com registro de abertura para descarga que pode ser manual, motorizado, elétrico ou pneumático;
+- Fornalha e queimadores de lenha e cavaco de lenha para fornecer calor aos processos de secagem de grãos;
+- Sistema de controle e monitoramento de uso dedicado ao conjunto de armazenamento, com: quadro de comando para as máquinas de limpeza; quadro gerenciador de comando do secador de grãos; sensores de ambiente externos para fornecimento de dados de umidade e temperatura ao sistema de secagem; sistema de medição de umidade dos grãos; painel de comando da rosca varredora; sensores de vários tipos (umidade, temperatura, movimento, desalinhamento, posição, embuchamento indutivo e capacitivo e temperatura de mancal) para gerenciamento de diversos equipamentos, apresentados em quantidades e especificações compatíveis com o projeto; conjunto pneumático com cilindro, válvula eletropneumática e bobina solenoide; sistema de termometria digital para controle da temperatura dos grãos; sistema de automação de secagem, que conecta os sensores e válvulas envolvidas na secagem ao quadro gerenciador de secagem e a um computador via Ethernet;
+- Outros dispositivos: ciclone para máquinas de limpeza; filtro de mangas para máquinas de limpeza; galerias e torres metálicas, para sustentação de estruturas, acesso de pessoas para operação e manutenção dos equipamentos e para segurança, em quantidades e configurações compatíveis com o projeto do sistema de armazenamento de grãos; canalizações (tubos e acessórios) em dimensões e configuração compatíveis com o projeto do sistema de armazenamento de grãos; equipamentos para estaiamento para os elevadores do sistema de armazenamento de grãos; válvulas, chaves, atuadores, motores elétricos e outros dispositivos elétricos, mecânicos ou pneumáticos apresentados em conjunto com a unidade funcional de armazenamento de grãos, em quantidades e dimensionamentos compatíveis com o projeto e necessários à execução de suas funções descritas.
+Dispositivos Legais: RGI 1 (Nota 4 da Seção XVI), RGI 6 e RGC 1 da NCM constante da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016; e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018, e alterações posteriores.
+SC Cosit nº 98.370-2021
+[arquivo anexo: SC Cosit nº 98.378-2021.pdf]
+MARCO ANTÔNIO RODRIGUES CASADO
+Presidente da 5ª Turma
