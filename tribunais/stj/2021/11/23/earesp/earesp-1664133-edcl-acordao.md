@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com a Sra. Ministra Relatora.
+Licenciado o Sr. Ministro Felix Fischer, sendo substituído pela Sra. Ministra Maria Isabel Gallotti, nos termos do disposto nos arts. 2º, § 2º, e 55 do RISTJ.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Cuida-se de novos embargos de declaração opostos por MARIVANE CORDEIRO GOMES, contra o acórdão que negou provimento ao agravo interno que interpusera, nos termos da seguinte ementa (e-STJ fl. 856):
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. DISCUSSÃO ACERCA DA PRESTAÇÃO JURISDICIONAL APLICADA À HIPOTESE CONCRETA. IMPOSSIBILIDADE. NÃO CUMPRIMENTO DOS REQUISITOS DO ART. 1043, §4º, DO CPC PARA INTERPOSIÇÃO DOS EMBARGOS.
+1. Cuida-se, na origem, de ação de obrigação de fazer.
+2. Nos termos da jurisprudência vigente nesta Corte Superior, não há que se falar em dissídio jurisprudencial com relação ao entendimento firmado em acórdão embargado quanto à existência ou não de ofensa ao disposto nos arts. 489 e 1.022 do CPC/15, na medida em que a verificação de ocorrência ou não dos vícios elencados nesses dispositivos depende das circunstâncias particulares da hipótese concreta. Precedentes.
+3. O não atendimento dos requisitos insertos nos art. 1043, §4º, do CPC e 266, §4º, do CPC quando da interposição dos embargos de divergência, importa na sua rejeição.
+4. Agravo interno não provido".
+Os primeiros embargos de declaração opostos foram rejeitados, conforme a ementa a seguir (e-STJ fl. 887):
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. NÃO INDICAÇÃO.
+1. Os embargos de declaração constituem-se em recurso de natureza integrativa destinado a sanar vício- obscuridade, contradição, omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargantepretende, exclusivamente, reformar o decidido.
+2. Embargos de declaração rejeitados".
+Nas razões destes segundos aclaratórios, a embargante afirma que as teses lançadas para fundamentar os recursos de sua advogada, no âmbito desse STJ, "apresentam-se, s.m.j., de todo, desarrazoadas, pois não encontram previsões legais no ordenamento pátrio" (sic, e-STJ fl. 898), a evidenciar a suspeição dessa Relatora.
+Aduz que as normas contidas nos arts. 489, § 1º, IV, e 1.022 do CPC/15 não contemplam as conclusões adotadas no acórdão que julgou os primeiros aclaratórios e o agravo interno, reiterando a existência de dissenso interno no STJ a respeito da interpretação desses artigos.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. NÃO INDICAÇÃO. INTUITO PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 1.026, § 2º, DO CPC/2015.
+1. São inadmissíveis os embargos de declaração quando a parte embargante sequer aponta a ocorrência de quaisquer dos vícios elencados no art. 1.022 do CPC/2015, limitando-se a questionar os fundamentos e a conclusão do acórdão embargado.
+2. Embargos de declaração rejeitados, com aplicação de multa.
+VOTO
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaraçãosomente são cabíveis quando o julgado impugnado apresentar omissão, contradição, obscuridade ou erro material.
+Na hipótese em comento, contudo, a embargante sequer aponta a ocorrência de quaisquer desses vícios, limitando-se a reiterar seu inconformismo com o indeferimento liminar dos embargos de divergência que opusera, além de questionar arejeição dos primeiros aclaratórios opostos.
+A questão controvertida nos autos, deveras, já foi examinada à exaustão - primeiramente, na decisão unipessoal proferida pela Presidência do STJ (e-STJ fls. 627/630) e, depois, no acórdão da Corte Especial que, à unanimidade, negou provimento ao agravo interno(e-STJ fls. 856/863) - decidindo-se, de forma uníssona, quanto ao descabimento dos embargos de divergência para sanar suposto dissídio jurisprudencial com relação àexistência,ou não,de ofensa aos arts. 489 e 1.022 do CPC/15, na esteira da pacífica jurisprudência deste Superior Tribunal de Justiça.
+Ainda, rejeitou-se os primeiros aclaratórios porqueestes tinham por objeto, exclusivamente, o questionamento da conclusão adotada no julgamento do agravo interno - com nítida pretensão de reforma - e nãoporque visavam à correção de qualquer vício no julgado.
+Nesse sentido, remete-se às partes aos acórdãos de fls. 856/863 e 887/891 (e-STJ) - os quais deixa-se de transcrever para evitar desnecessária tautologia -, cuja leitura permite inferir que os julgados apresentam fundamentaçãosuficiente, com o enfrentamento das questões relevantes à solução da controvérsia posta, esgotando-se a prestação jurisdicional cabível na hipótese.
+Lado outro, é necessário pontuarque esta não é a primeira vez em que a advogada Clarice Pereira Pinto alega suposta suspeição desta Relatora nos processos em que atua.
+Todavia, conforme já afirmei reiteradamente, inexiste qualquer inimizade de minha parte em relação à dita advogada, circunstância que, aliás, foi reconhecida pela 2ª Seção nos autos da ExSusp 190/DF, por meio de acórdão que transitou em julgado em 03/06/2019.
+Não há, pois, qualquer vício ou nulidade a macular os acórdãos prolatados nos autos.
+Na verdade, observa-se que os presentes embargos de declaração apresentam nítido caráter protelatório, vistoque não possuem o intuito de sanar efetivo vício no acórdão embargado, mas sim de questionaro que restou decidido durante a marcha processual, obstando que esta atinja o seu fim, em evidente violação aos princípios da boa-fé e cooperação processual.
+Logo, impõe-se a rejeição do recurso, com a aplicação da multa de que trata o art. 1.026, § 2º, do CPC/2015, alertando-se a parte embargante que a insistência no manejo de recursos absolutamente infundados, como o presente, poderá dar ensejo à majoração da penalidade, para além da aplicação das penas por litigância de má-fé.
+Forte nessas razões, REJEITO os embargos de declaração e, em razão de seu manifesto intuito protelatório, condeno aembargante ao pagamento de multa correspondente a 2% do valor atualizado da causa de origem, à luz do art. 1.026, § 2º, do CPC/15.
