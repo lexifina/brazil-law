@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de FELIPE SOARES DA SILVA, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo (fls. 18-25):
+"Agravo em Execução Insurgência contra a r. decisão que deferiu a progressão de regime - Cálculo de pena para a progressão de regime elaborado observando-se o percentual de 40% Sentenciado reincidente - Basta que o agente seja reincidente para que o lapso temporal para a progressão de regime no tocante ao crime hediondo ou equiparado a hediondo seja de 60% da pena Data-base para progressão de regime prisional - Termo inicial a ser adotado é o da data em que o sentenciado preencheu os requisitos do artigo 112da LEP e não a partir da decisão que concedeu a progressão ao regime anterior - Decisão que possui caráter meramente declaratório e não constitutivo - Precedentes dos Tribunais Superiores e desta C. Câmara - Indispensabilidade do exame criminológico para a verificação do preenchimento do requisito subjetivo - Decisão reformada - Recurso provido."
+Daí o presente habeas corpus, no qual a d. Defesa aduzque o lapso imposto pelo eg. Tribunal de origem para a progressão de regime dependeria de reincidência específica em crime hediondo.
+Alega que a Lei nº 13.964/2019 é norma penal posterior mais benéfica.
+Sustenta que o exame criminológico foi determinado sem fundamentação idônea.
+Requer a concessão da ordem, inclusive LIMINARMENTE, com a retificação dos cálculos da execução penal, para a progressão de regime. Subsidiariamente, o afastamento do exame criminológico. No mérito, a confirmação da liminar, com a ordem definitiva.
+Liminar indeferida (fls. 54-56).
+Informações, às fls. 60-76.
+O d. Ministério Público Federal oficiou, em r. parecer de fls. 78-83, nos termos da seguinte ementa:
+"Habeas Corpus substitutivo de recurso próprio. Execução penal.
+I - Exigência do percentual de 60% do cumprimento da pena, para fins de progressão de regime. Reincidente não específico. Constrangimento ilegal evidenciado.
+II - Exame criminológico fundamentado na gravidade abstrata do delito. Constrangimento ilegal evidenciado.
+- Promoção pela concessão da ordem, nos termos deste parecer."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo de recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Desta forma, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, no entanto, passa-se ao exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Para delimitar a quaestio, o v. acórdão vergastado (fls. 18-25):
+"Trata-se de recurso de Agravo em Execução interposto pelo Ministério Público do Estado de São Paulo (..).
+Verifica-se que, segundo expresso no inciso V do artigo em comento, somente é aplicado o percentual de 40% no caso do sentenciado ser primário. Assim sendo, impossível ser aplicado ao caso já queé reincidente em crime doloso.
+(..)
+Em outras palavras, basta que o sentenciado seja reincidente, como no caso em questão, para que o lapso temporal para a progressão de regime no tocante ao crime hediondo ou equiparado a hediondo seja de 3/5 (três quintos) da pena.
+(..)
+Tendo-se em vista a gravidade do delito cometido e o quantum de pena a ser resgatada, com término previsto somente para 13/05/2024, além de já ter sido condenado por furto qualificado, entende-se prudente, antes da concessão de regime mais brando, a realização de exame criminológico do sentenciado, de suma importância à individualização da execução da pena.
+(..)
+Diante de tais considerações, dá-se provimento ao recurso ministerial para se determinar a recondução do agravado ao regime prisional fechado e que seja submetido ao exame criminológico, com vistas à aferição do requisito objetivo e subjetivo à pretendida progressão ao regime semiaberto."
+Pois bem.
+Inicialmente,verifica-se que o eg. Tribunal de origem determinou fosse observada a fração própria à reincidência dos crimes hediondos em geral, com a aplicação do atual art. 112, VII, da Lei de Execução Penal.
+Verbis:
+"Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+(..)
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+(..)
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado (..)" (grifei).
+Explicou-se que o d. Juízo a quo havia concedido a ordem, por merecimento do apenado (fls. 48-51): "Implementado o requisito temporal e comprovado bom comportamento carcerário, é de deferir-se a progressão, consoante nova redação dada ao art. 112 da LEP pela Lei nº 10.792/03. Assim, mesmo após a edição da referida Lei, a individualização da pena continua a ser respeitada, sendo que a conduta carcerária de cada apenado é que pautará a concessão dos benefícios previstos em Lei."
+Ora, em Sessão de 9/12/2020, esta Quinta Turma, em alinhamento ao que já vinha sendo determinado pela Sexta Turma desta eg. Corte Superior, passou a decidir em sentido diametralmente oposto ao seu entendimento anterior, pelo reconhecimento da necessidade de reincidência específica em casos como o presente.
+Não se olvide que, mais recentemente, a Terceira Seção desta eg. Corte pacificou a matéria (Tema nº 1084), nos mesmos moldes do acima julgado.
+Veja-se: "É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante" (REsp 1.910.240/MG, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe 31/5/2021).
+Este foi o tema do Informativo de Jurisprudência n. 699/STJ, de 7/6/2021.
+Consoante o entendimento desta eg. Corte Superior, também entende o col. Supremo Tribunal Federal:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. CONDENADO POR CRIME HEDIONDO OU EQUIPARADO REINCIDENTE POR CRIME COMUM. PRINCÍPIO DA LEGALIDADE ESTRITA. LEI 13.964/2019. ALTERAÇÃO DOS CRITÉRIOS OBJETIVOS PARA A PROGRESSÃO DE REGIME. IMPOSSIBILIDADE DE APLICAR AO REINCIDENTE NÃO ESPECÍFICO O PATAMAR DO ART. 112, VII DA LEP. PROSCRIÇÃO À ANALOGIA IN MALAM PARTEM. PRINCÍPIO DO FAVOR REI. ANTE À LACUNA LEGAL INCIDE A NORMA MAIS FAVORÁVEL AO APENADO. ART. 112, V, DA LEP. ANALOGIA IN BONAM PARTEM. POSSIBILIDADE. PROVIMENTO DO RECURSO A FIM DE ESTABELECER O PATAMAR MAIS BENÉFICO À PROGRESSÃO DE REGIME DO RECORRENTE.
+1. A Constituição da República (art. 5º, XXXIX) assegura que "não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal", postulado que exige a subsunção estrita das condutas e das sanções criminais à moldura normativa.
+2. A Lei 13.964/2019, ao alterar o art. 112 da LEP, não tratou, de forma expressa, das condições para progressão de regime do condenado por crime hediondo ou equiparado reincidente em crime comum, somente disciplinando a gradação da reprimenda do apenado primário (inciso V) e do reincidente específico (inciso VII).
+3. O silêncio normativo, contudo, deve ser saneado em atenção aos princípios norteadores da hermenêutica penal, cumprindo observar a proscrição à analogia in malam partem.
+4. Havendo dois incisos que, por analogia, poderiam ser aplicados ao apenado (no caso, o inciso V e o inciso VII), o dispositivo mais benéfico ao acusado (inciso V) é a única solução possível, pois a adoção do critério mais gravoso inevitavelmente importaria afronta ao princípio da vedação à analogia in malam partem e do favor rei. Doutrina.
+5. Recurso ordinário em habeas corpus a que se dá provimento a fim restabelecer a decisão de 1º grau, que aplicou ao apenado o patamar mais benéfico para a progressão de regime (art. 112, inciso V, da LEP)" (RHC 200879, Segunda Turma, Rel. Min. Edson Fachin, DJe de 14/6/2021).
+Aliás, este foi assunto do Informativo de Jurisprudência n. 1032/STF, de 8/10/2021, verbis:
+"DIREITO PROCESSUAL PENAL - EXECUÇÃO PENAL
+Lacuna legal após alteração dos critérios para a concessão de progressão de regime
+Tese fixada: "Tendo em vista a legalidade e a taxatividade da norma penal (art. 5º, XXXIX, CF) (1), a alteração promovida pela Lei 13.964/2019 no art. 112 da LEP (2) não autoriza a incidência do percentual de 60% (inc. VII) aos condenados reincidentes não específicos para o fim de progressão de regime. Diante da omissão legislativa, impõe-se a analogia in bonam partem, para aplicação, inclusive retroativa, do inciso V do artigo 112 da LEP (lapso temporal de 40%) ao condenado por crime hediondo ou equiparado sem resultado morte reincidente não específico."
+Resumo:
+Ao reincidente não específico em crime hediondo, aplica-se, inclusive retroativamente, o inciso V do artigo 112 da LEP para fins de progressão de regime.
+A reforma da sistemática da progressão de regime de condenados promovida pela Lei 13.964/2019 (Pacote Anticrime) não disciplinou, de forma expressa, a circunstância para progressão de pessoa condenada anteriormente por crime não hediondo e, em seguida, por crime hediondo, ou seja, reincidente não específico em crime hediondo.
+Inexistindo a previsão exata na norma regente, impõe-se a interpretação mais favorável à defesa. Trata-se de imposição decorrente da presunção de inocência, base fundamental ao sistema penal de um Estado Democrático de Direito.
+Com base nesse entendimento, o Plenário, por unanimidade, reconheceu a existência de repercussão geral da questão constitucional suscitada (Tema 1169 da RG). No mérito, por maioria, reafirmou a jurisprudência dominante sobre a matéria (3). Vencido o ministro Luiz Fux. (..)"
+Em segundo plano, em relação à determinação de exame criminológico,afundamentação da origem não vaialém da necessidade de experimentar regime intermediário, da longa pena a cumprir ou da gravidade abstrata dos crimes cometidos.
+Consoante já restou decidido por esta Corte Superior:
+"EXECUÇÃO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. JUSTIFICAÇÃO UNICAMENTE NA IMPOSSIBILIDADE DE PROGRESSÃO PER SALTUM. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+4. Na espécie, foi indeferido o benefício do livramento condicional pelo Juízo das Execuções Criminais, tão somente em virtude da necessidade de observar-se o comportamento do sentenciado durante o cumprimento da pena em regime semiaberto antes de lhe propiciar a liberdade condicional.
+3. Sobre a matéria, a jurisprudência deste Tribunal consolidou entendimento no sentido de que não há obrigatoriedade de o apenado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+4. Recurso em habeas corpus não provido. Contudo, ordem concedida de ofício para determinar que, afastada a exigência do cumprimento da pena em regime semiaberto, o Juízo das Execuções Criminais reaprecie o pedido de livramento condicional do apenado, à luz dos requisitos legais e do comportamento carcerário." (RHC 116.324/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 18/9/2019, grifei).
+"EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. ACÓRDÃO QUE CASSA A DECISÃO CONCESSIVA DE LIVRAMENTO CONDICIONAL E A CONDICIONA À REALIZAÇÃO DE EXAME CRIMINOLÓGICO. SÚMULA 439/STJ. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. GRAVIDADE DO PRÓPRIO TIPO PENAL. NECESSIDADE DE PASSAGEM POR REGIME INTERMEDIÁRIO. REQUISITO NÃO PREVISTO EM LEI. CONSTRANGIMENTO ILEGAL CARACTERIZADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.  ..
+2. De acordo com a Súmula 439/STJ, "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada". No caso dos autos, verifica-se que foram devidamente preenchidos os requisitos legais, tanto objetivos como subjetivos, e que o acórdão impugnado utilizou-se de argumento inidôneo para cassar a decisão que deferiu o benefício do livramento condicional para determinar a recondução do paciente ao regime semiaberto e à realização de exame criminológico, baseando-se tão somente na gravidade do delito e na impossibilidade da chamada progressão per saltum de regime prisional.
+3. Esta Corte de Justiça possui entendimento de que não há obrigatoriedade de o sentenciado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de tal previsão no art. 83 do Código Penal.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar o acórdão impugnado e restabelecer a decisão que deferiu ao paciente o benefício do livramento condicional" (HC 341.779/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 3/8/2016, grifei).
+"EXECUÇÃO PENAL. HABEAS CORPUS. LIVRAMENTO CONDICIONAL. INDEFERIMENTO DEVIDO A GRAVIDADE EM ABSTRATO DO DELITO E A LONGA PENA A CUMPRIR. FUNDAMENTOS INIDÔNEOS. ORDEM CONCEDIDA.
+1. A gravidade em abstrato do delito e a longa pena a cumprir não são fundamentos idôneos para indeferir o livramento condicional, por ausência de requisito subjetivo.
+2. O quantum da reprimenda imposta possui relevância apenas no que se refere ao requisito objetivo, e a gravidade do delito exaure-se na fixação da pena, não podendo ser considerados para efeito do livramento condicional.
+3. O art. 112 da Lei de Execução Penal exige, para o preenchimento do requisito subjetivo, apenas o atestado de bom comportamento carcerário, firmado pelo diretor do estabelecimento prisional, podendo o magistrado, quando quer melhor aferir a periculosidade do sentenciado, determinar a realização de exame criminológico, desde que o faça por meio de decisão fundamentada nas peculiaridades do caso concreto.
+4. Ordem concedida para determinar que o Juízo da Vara de Execuções Criminais da Comarca de Bauru reavalie se o paciente preenche os requisitos para a obtenção do livramento condicional, desconsiderando, na aferição do requisito subjetivo, a longa pena a cumprir e a gravidade do delito perpetrado" (HC 125.958/SP, Quinta Turma, Rel. Min. Arnaldo Esteves Lima, DJe de 3/11/2009, grifei).
+Diante disso, tenho que o v. acórdão a quo configura flagrante ilegalidade, passível de concessão da ordem nesta impetração, ainda que de ofício.
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem, de ofício, para que o d. Juízo da Execução, em nova análise atualizada da situação do apenado, observe os termos desta decisão, de forma a aplicar o percentual de 40% na progressão de regime ao não reincidente específico em crimes hediondos SEM resultado morte. Ainda, que afaste a exigência de exame criminológico, caso nenhum fato desabonador da conduta do paciente tenha ocorrido de forma superveniente, desde que extraível da própria execução penal, em obediência ao consignado acima.
+Tudo a ser confirmado pelo d. Juízo da Execução, em nova análise do caso concreto, tendo em vista a instrução restrita da presente impetração.
+Recomenda-se celeridade na retificação da folha penal.
+Intime-se, com urgência, o d. Juízo da Execução.
+P. I.
