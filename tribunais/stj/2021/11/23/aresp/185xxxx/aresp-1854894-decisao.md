@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado pelo Banco do Brasil S/Acontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl. 246):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃOPOR DANOS MATERIAIS E MORAIS - SAQUES INDEVIDOS CONTA DOPASEP - BANCO DO BRASIL S/A NA FUNÇÃO DE GESTOR DAS CONTAS DOPASEP - LEGITIMIDADE PASSIVA - RECURSO PROVIDO.
+O Banco do Brasil S/A é parte legítima para figurar em ação em quese discute a ocorrência de saques indevidos de conta PASEP, pois referente a ato de gestão da sociedade de economia mista.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A questão trazida a debate contém discussão abarcada pelo pedido de suspensão nacional em IRDR, deferido nos autos da SIRDR 71/TO, que assim determinou:
+1. Deverá ser suspensa a tramitação de todos os processos individuais ou coletivos em curso no território nacional, inclusive nos juizados especiais que discutam esta questão jurídica:
+- O Banco do Brasil possui, ou não, legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao PASEP, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa.
+- A pretensão ao ressarcimento dos danos havidos em razão dos desfalques em conta individual vinculada ao PASEP se submete ao prazo prescricional decenal previsto pelo artigo 205 do Código Civil ou ao prazo quinquenal estipulado pelo artigo 1º do Decreto nº 20.910/32.
+- O termo inicial para a contagem do prazo prescricional é o dia em que o titular toma ciência dos desfalques ou a data do último depósito efetuado na conta individual vinculada ao PASEP.
+2. A ordem de suspensão, salvo decisão expressa em contrário do STJ ou do STF, vigorará até o trânsito em julgado da decisão de qualquer dos IRDRs n. 0720138-77.2020.8.07.0000/TJDFT, 0010218-16.2020.8.27.2700/TJTO, 0812604- 05.2019.8.15.0000/TJPB ou 0756585-58.2020.8.18.0000/TJPI, sendo que o trânsito em julgado poderá ocorrer no STJ ou no STF a depender da interposição de recursos a essas Cortes (RISTJ, art. 271-A, § 3º).
+Posteriormente, o eminente Ministro Herman Benjamin, na qualidade de relator da Controvérsia 427/STJ (REsp 1.895.936/TO e REsp 1.895.941/TO), que discute as mesmas questões jurídicas trazidas na SIRDR 71/TO, determinou a suspensão dos recursos até que, conforme determinado, ocorra o trânsito em julgado dos IRDRs indicados.
+Neste contexto, levando em consideração a existência de decisão determinando o sobrestamento, em âmbito nacional, dos processos que tenham por objeto o SIRDR 71/TO, abarcando, inclusive, recurso especial repetitivo, DETERMINOa suspensão do presente recurso enquanto estiver vigorando a ordem de sobrestamento dada nos autos do SIRDR 71/TO.
+Os autos devem aguardar na Coordenadoria de Processamento de Feitos de Direito Público, que deverá acompanhar o caso e devolvê-lo para julgamento oportunamente.
+Publique-se.
