@@ -1,0 +1,10 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela União contra decisão do Tribunal Regional Federal da 4ª Região que negou provimento ao recurso especial com base nas Súmulas n. 7 e 83/STJ.
+Antes de oexameos pressupostos do recurso, verifica-se que, no recurso especial interposto às e-STJ, fls. 449-564, a insurgente alega que o julgado impugnado incorreu emcontrariedade aoart. 1º do Decreto n. 20.910/1932, tendo em vista a ocorrência da prescrição do fundo de direito de revisão dos atos de inativação do serviço público.
+É o relatório.
+Verifica-se que a questão jurídica objeto do presente recurso - Definição acerca da ocorrência, ou não, derenúnciatácita daprescrição,como prevista no art. 191 do Código Civil, quando a Administração Pública, no caso concreto, reconhece o direito pleiteado pelo interessado - constitui tema dos Recursos Especiais n. 1.925.192/RS, 1.925.193/RS e 1.928.910/RS, todos da relatoria do Ministro Sérgio Kukina, submetido ao rito dos recursos repetitivos, nos termos do disposto nos arts. 1.036 e seguintes do CPC/2015 e na Resolução n. 8/STJ.
+De outra parte, a admissão de recurso especial, como representativo da controvérsia, impõe o sobrestamento dos recursos interpostos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído, nesta Corte, o julgamento, seja o inconformismo apreciado na forma do art. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação dos acórdãos representativos da controvérsia, o recurso especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 1.040 do CPC/2015.
+Oficie-se ao Presidente do Tribunal de origem, caso ainda não o tenha sido, dando-lhe ciência do inteiro teor desta decisão, para que, em casos idênticos, seja adotado, naquela instância, o mesmo procedimento.
+Publique-se. Intimem-se.
