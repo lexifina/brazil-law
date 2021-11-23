@@ -1,0 +1,2 @@
+Altera os Decretos-Leis nos 2.848, de 7 de dezembro de 1940 (Código Penal), e 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e a Lei nº 9.099, de 26 de setembro de 1995 (Lei dos Juizados Especiais Cíveis e Criminais), para coibir a prática de atos atentatórios à dignidade da vítima e de testemunhas e para estabelecer causa de aumento de pena no crime de coação no curso do processo (Lei Mariana Ferrer).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
