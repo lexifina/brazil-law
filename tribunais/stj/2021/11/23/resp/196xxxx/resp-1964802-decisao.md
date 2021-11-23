@@ -1,0 +1,47 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Martin Gonçalves, com amparona alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 3ª Regiãoassim ementado (e-STJ, fls. 268-269):
+PREVIDENCIÁRIO: APOSENTADORIA POR IDADE RURAL. ARTIGO 48 §§ 1º E 2º. REQUISITOS SATISFEITOS. INÍCIO DE PROVA MATERIAL CORROBORADO POR ROBUSTA PROVA TESTEMUNHAL.
+I - Para a obtenção da aposentadoria por idade, deve o requerente comprovar o preenchimento dos seguintes requisitos: (i) idade mínima e (ii) efetivo exercício da atividade rural, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, por tempo igual ao da carência exigida para a sua concessão (artigo 48, §§ 1º e 2º, da Lei nº 8.213/91).
+II - Em se tratando de segurado filiado ao Regime Geral de Previdência Social até 24/07/91, deve ser considerada a tabela progressiva inserta no artigo 142 da Lei de Benefícios, não havendo que se falar em exigência de contribuição ao trabalhador rural, bastando a comprovação do efetivo exercício da atividade rural, ainda que de forma descontínua, em número de meses idêntico à carência do referido benefício.
+III - Aos que ingressaram no sistema após essa data, aplica-se a regra prevista no art. 25, inc. II, da Lei de Benefícios que exige a comprovação de 180 contribuições mensais.
+IV - A comprovação do tempo de serviço em atividade rural, seja para fins de concessão de benefício previdenciário ou para averbação de tempo de serviço, deve ser feita mediante a apresentação de início de prova material, conforme preceitua o artigo 55, § 3º, da Lei de Benefícios, não sendo admitida prova exclusivamente testemunhal, entendimento cristalizado na Súmula nº 149, do C. STJ.
+V - Conforme entendimento jurisprudencial sedimentado, a prova testemunhal possui aptidão para ampliar a eficácia probatória da prova material trazida aos autos, sendo desnecessária a sua contemporaneidade para todo o período de carência que se pretende comprovar (Recurso Especial Repetitivo 1.348.633/SP, (Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 5/12/2014) e Súmula 577 do Eg. STJ.
+VI - A idade mínima exigida para obtenção do benefício restou comprovada.
+VII - Em relação ao período de carência, a parte autora deveria comprovar o labor rural, mesmo que de forma descontínua, no período imediatamente anterior ao implemento da idade, ao longo de, ao menos, 180 meses, conforme determinação contida no art. 142 da Lei nº 8.213/91.
+VIII - O início de prova material, corroborado por robusta e coesa prova testemunhal, comprova a atividade campesina exercida pela parte autora no período necessário.
+IX - Presentes os pressupostos legais para a concessão do benefício, vez que implementado o requisito da idade e demonstrado o exercício da atividade rural, por período equivalente ao da carência exigida pelo artigo 142 da Lei nº 8213/91, a procedência do pedido era de rigor.
+X - A DIB deve ser mantida na da data da citação.
+XI - A inconstitucionalidade do critério de correção monetária introduzido pela Lei nº 11.960/2009 foi declarada pelo Egrégio STF, ocasião em que foi determinada a aplicação do IPCA-e (RE nº 870.947/SE, repercussão geral).
+XII - Tal índice deve ser aplicado ao caso, até porque o efeito suspensivo concedido em 24/09/2018 pelo Egrégio STF aos embargos de declaração opostos contra o referido julgado para a modulação de efeitos para atribuição de eficácia prospectiva, surtirá efeitos apenas quanto à definição do termo inicial da incidência do IPCA-e, o que deverá ser observado na fase de liquidação do julgado.
+XIII - E, apesar da recente decisão do Superior Tribunal de Justiça (REsp repetitivo nº 1.495.146/MG), que estabelece o INPC/IBGE como critério de correção monetária, não é o caso de adotá-lo, porque em confronto com o julgado acima mencionado.
+XIV - Para o cálculo dos juros de mora e correção monetária, portanto, aplicam-se, (1) até a entrada em vigor da Lei nº 11.960/2009, os índices previstos no Manual de Orientação de Procedimentos para os Cálculos da Justiça Federal, aprovado pelo Conselho da Justiça Federal; e, (2) na vigência da Lei nº 11.960/2009, considerando a natureza não-tributária da condenação, os critérios estabelecidos pelo Egrégio STF, no julgamento do RE nº 870.947/SE, realizado em 20/09/2017, na sistemática de Repercussão Geral, quais sejam, (2.1) os juros moratórios serão calculados segundo o índice de remuneração da caderneta de poupança, nos termos do disposto no artigo 1º-F da Lei 9.494/97, com a redação dada pela Lei nº 11.960/2009; e (2.2) a correção monetária, segundo o Índice de Preços ao Consumidor Amplo Especial - IPCA-E.
+XV - Apelos desprovidos.
+O recorrente alega que foi violado o art. 49, II, da Lei n. 8.213/1991.
+Defende que o termo inicial do benefício seja da data do requerimento administrativo, em 17/11/2014, e não da citação, em 16/3/2019.
+Admitido o recurso especial na origem (e-STJ, fl. 344), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+O Tribunal de origem fixou o termo inicial do benefício da data da citação sob a seguinte fundamentação (e-STJ, fls. 276-277):
+Relativamente ao termo inicial do benefício, o artigo 49 da Lei 8.213/91 dispõe:
+"Art. 49. A aposentadoria por idade será devida:
+I - ao segurado empregado, inclusive o doméstico, a partir:
+a) da data do desligamento do emprego, quando requerida até essa data ou até 90 (noventa) dias depois dela; ou
+b) da data do requerimento, quando não houver desligamento do emprego ou quando for requerida após o prazo previsto na alínea "a"; II - para os demais segurados, da data da entrada do requerimento".
+No caso, todavia, muito embora o requerimento administrativo em 11/2014, a ação foi ajuizada somente em 2019. Assim, tendo em vista o grande lapso temporal decorrido, a DIB deve ser mantida na data da citação, como fixado pela sentença.
+No caso, o acórdão recorrido divergiu do entendimento firmado nesta Corte Superior de queo termo inicial do benefício previdenciário dever ser da data do requerimento administrativo e, na ausência deste, da citação.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. TERMO INICIAL: DATA DO REQUERIMENTO ADMINISTRATIVO. COMPROVAÇÃO EXTEMPORÂNEA. IRRELEVÂNCIA. DIREITO AO BENEFÍCIO QUE SE INCORPORA AO PATRIMÔNIO JURÍDICO DO SEGURADO NO MOMENTO DO IMPLEMENTO DOS REQUISITOS.
+ACÓRDÃO EM HARMONIA COM A ORIENTAÇÃO DESTA CORTE SOBRE O TEMA. SÚMULA 83/STJ. AGRAVO INTERNO DA AUTARQUIA FEDERAL NÃO PROVIDO.
+1. Com efeito, segundo a orientação jurisprudencial deste egrégio Superior Tribunal de Justiça, a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria (Pet 9.582/2015, Relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 16/9/2015).
+2. Dessa forma, o Tribunal de origem - ao fixar como termo inicial do benefício a data do requerimento administrativo, quando preenchidos os requisitos para a obtenção da aposentadoria especial - adotou orientação consentânea com a jurisprudência desta Corte sobre o tema, não havendo razões para modificar a decisão recorrida.
+3. Agravo interno da autarquia federal não provido.
+(AgInt no AREsp n. 1.825.514/SP, relatorMinistro Manoel Erhardt (Desembargador convocado do TRF5), Primeira Turma, DJe de 16/9/2021).
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AÇÃO REVISIONAL. CONVERSÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO EM APOSENTADORIA ESPECIAL. PROCEDÊNCIA DO PEDIDO. TERMO INICIAL DOS EFEITOS FINANCEIROS DA REVISÃO. RETROAÇÃO À DATA DO REQUERIMENTO ADMINISTRATIVO. PRECEDENTES.
+I - Trata-se, na origem, de ação objetivando a conversão de aposentadoria por tempo de contribuição em aposentadoria especial, com efeitos contados desde a DER.
+II - Por sentença, julgou-se parcialmente procedente o pedido, para condenar o INSS a converter a aposentadoria por tempo de contribuição do autor em aposentadoria especial, desde a data do ajuizamento da ação. No Tribunal a quo, a sentença foi reformada para que os efeitos da condenação retroagissem à data do requerimento administrativo. Nesta Corte, negou-se provimento ao recurso especial.
+III - É firme a orientação desta Corte Superior, a qual é perfeitamente aplicável à hipótese dos autos, no sentido de que a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria.
+Confiram-se os seguintes julgados: REsp 1.790.531/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/5/2019, DJe 29/5/2019 e REsp 1.475.373/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 19/4/2018, DJe 8/5/2018.
+IV - Agravo interno improvido.
+(AgInt no REsp n. 1.896.837/CE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 15/3/2021).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, assim como na Súmula n. 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação, para reconhecer a data do requerimento administrativo como termo inicial do benefício.
+Publique-se. Intimem-se.
