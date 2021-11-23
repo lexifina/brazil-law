@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefício de CLÁUDIO JOSÉ DE OLIVEIRA contra ato de Desembargador Relator do Tribunal Regional Federal da 4ªRegião (HC nº 5044182-02.2021.4.04.0000).
+Extrai-se dos autos que o paciente foi preso preventivamente em 5/7/2021, acusado da suposta prática dos delitos tipificados nos arts. 288 do Código Penal;art. 7º, inciso II da Lei nº 7.492/86; arts. 2º, inciso IX da Lei nº 1.521/51 e 171 do Código Penal, arts. 168,capute §2º, 171 e173 da Lei nº 11.101/2005 e 2º, § 1º da Lei nº 12.850/13.
+Contra a decisão, a defesa impetrou a ordem originária, cuja liminar foi indeferida pelo Desembargador Relator (e-STJ fls. 25/91).
+No presentewrit, a defesa alega que o paciente está preso há mais de 120 dias, e que "mesmo diante da mudança fático-processual que originou a não subsistência dos motivos que ensejaram o decreto prisional do paciente e do preenchimento dos requisitos necessários para a substituição de sua prisão pelas medidas cautelares do art. 319 do CPP, o paciente continua acautelado" (e-STJ fls. 9/10).
+Sustenta que ele não foi denunciado por todos os crimes da investigação, e que as investigações já foram concluídas, pelo que não estariam mais presentes os requisitos autorizadorees da custódia. Ressalta que o juízo falimentar já decretou a indisponibilidade de bens e decretou a falência, protegendo o patrimônio dos credores.
+Argumenta que a pena aplicável, em caso de condenação, "não passaria dos 5 (cinco) anos, sendo cabível ao caso, no máximo, o regime semiaberto e não o fechado" (e-STJ fl. 20), pelo que a custódia seria desproporcional.
+Defende que o caso justifica a superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Requer, assim, em liminar e no mérito, a revogação da prisão, ou sua substituição por medidas cautelares alternativas, como tornozeleira eletrônica ou prisão domiciliar.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator, o qual, ao indeferir a liminar, aduziu o seguinte (e-SJT fls. 25/91):
+Em sede de cognição sumária, própria deste momento processual, anoto que a r. decisão combatida encontra-se fundamentada e não apresenta flagrante ilegalidade arbitrariedade ou mesmo teratologia a ensejar o deferimento da medida liminar demandada.
+Conquanto dela possa discordar o paciente, as razões que se lhe possam opor cabem ser analisadas quando do julgamento de mérito da impetração.
+Destaque-se que a exigência de decisão de revisão da necessidade de manutenção da prisão preventiva a cada 90 dias, prevista na novel redação do art. 316. parágrafo único, do C"PP. não impõe a soltura imediata do investigado quando desatendido tal prazo.
+Nesse sentido, restou estabelecido pelo Plenário do Eg. STF:
+(..)
+Ante o exposto, indefiro a medida liminar.
+No caso, o Desembargador Relator, após transcrever a extensa decisão que decretou a prisão preventiva do acusado, a qual traz descrição minuciosa domodus operandisupostamente adotado pelo paciente e corréus, dos indícios de cometimento de delitos financeiros envolvendo elevadas quantias, bem como destacando a necessidade de interromper novas práticas, entendeu que a prisão não representava constrangimento ilegal patente a justificar o deferimento da liminar.
+Com efeito, consta do decreto preventivo que o paciente acumula condenação na Suíça por estelionato, abuso de confiança, má gestão e falsificação documental; além de registrar histórico impressionante de supostos "golpes" realizados em diversos países. Ainda, destaca a decisão que o paciente ocupa lugar de liderança na suposta organização criminosa, assim como a necessidade da desarticulação do grupo para impedir a reiteração delitiva.
+Tais fundamentos, a priori, são suficientes para justificar a custódia, não se vislumbrando ilegalidade apta a justifica a superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Deve, pois, a questão ser submetida a averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
