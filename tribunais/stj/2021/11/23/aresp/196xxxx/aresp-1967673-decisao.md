@@ -1,0 +1,8 @@
+DECISÃO
+EDUARDO RAICIK ZULHAN (EDUARDO) ajuizou ação de indenização por danos morais e materiais contra CELESC DISTRIBUIÇÃO S/A (CELESC), objetivando sua condenação ao pagamento de indenização pelos danos materiais e morais sofridos em decorrência do vazamento de oléo ocorrido em uma subestação desativada da concessionária, localizada no bairro Tapera, na Comarca de Florianopólis/SC.
+Do atento exame dos autos, verifica-se que a natureza jurídica da matéria litigiosa é pública, porque relacionada à responsabilidade de concessionária de serviço público em decorrência de dano ambiental causado por vazamento de óleo de subestação.
+Oportuno ressaltar que a Corte Especial do Superior Tribunal de Justiça, no julgamento do CC 138.405/DF, na assentada do dia 17/8/2016, Rel. para acórdão, o Ministro HERMAN BENJAMIN, interpretando os artigos 8º, caput, e 9º, § 1º, inciso XIV, e § 2º, incisos II e III, do RISTJ, decidiu que o julgamento das ações de indenização por danos materiais e morais em que sejam partes concessionárias de serviços públicos de água, saneamento, eletricidade, telefonia, internet e transporte coletivo de passageiros por via ferroviária, terrestre, fluvial e marítima, é de competência da colenda Primeira Seção desta Corte.
+Nessas condições, de acordo com o disposto no art. 9º, parágrafo 1º, do RISTJ, DETERMINO a redistribuição dos autos a um dos ministros integrantes da Primeira Seção desta Corte.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO AMBIENTAL MOVIDA CONTRA EMPRESA CONCESSIONÁRIA DE SERVIÇOS PUBLICO. COMPETÊNCIA INTERNA. PRIMEIRA SEÇÃO. REDISTRIBUIÇÃO DOS AUTOS.
