@@ -1,0 +1,7 @@
+DECISÃO
+WILSON VIEIRAalega sofrer constrangimento ilegal diante do excesso de prazo para julgamento do recurso em sentido estrito interposto contra a decisão de pronúncia prolatada na Ação Penal n. 0000160-80.2018.8.17.0960.
+De plano, observo que o writ não foi instruído com cópia do extrato de movimentação processual do feito em segunda instânciaou de outro documento que permita verificar a suscitada delonga para o exame do recurso interposto, o que inviabiliza a análise da tese defensiva.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante. Nessa diretriz, confiram-se: RHC n. 153.889/MS (Rel. Ministra Laurita Vaz, 6ª T., DJe 25/10/2021) e HC n. 555.157/RS (Rel. Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), 5ª T., DJe 28/2/2020).
+Ademais, a questão atinente à substituição da custódia preventiva por prisão domiciliarnão foi previamente debatida pela Corte estadual, o que obsta sua análise nesta oportunidade, por configurarsupressão de instância.
+À vista do exposto,não conheço do habeas corpus.
+Publique-se e intimem-se.
