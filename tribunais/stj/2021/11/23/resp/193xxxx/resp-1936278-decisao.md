@@ -1,0 +1,72 @@
+DECISÃO
+Vistos, etc.
+Trata-serecurso especial interposto pelo Distrito Federal, com amparo no art. 105, III, "a", da CF/1988, em oposição a acórdão do Tribunal de Justiça do Distrito Federal e dos Territóriosassim ementado (e-STJ, fl. 1.106):
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO E REMESSA NECESSÁRIA. AÇÃO ANULATÓRIA DE PENHORA DE IMÓVEL DETERMINADA EM EXECUÇÃO FISCAL. COMPETÊNCIA DA VARA DE FAZENDA PÚBLICA. PRESCRIÇÃO. INOCORRÊNCIA. AFASTAMENTO DA PENHORA. COMPROVAÇÃO DA NATUREZA DE BEM DE FAMÍLIA.
+1. A competência das Varas de Execuções Fiscais, consoante os arts. 35, da Lei 11.697/2008, e 2º, da Resolução nº 19/2009, deste egrégio Tribunal de Justiça, restringe-se ao conhecimento de execuções fiscais e embargos à execução contra elas opostos. As Varas de Execuções Fiscais não têm competência para ações anulatórias de atos por ela praticados, porque são ações de conhecimento, que devem tramitar nas Varas da Fazenda Pública. Precedentes deste egrégio Tribunal de Justiça.
+2. A ação que se destina a veicular pedido de anulação de penhora determinada pelo Juízo da Vara de Execuções Fiscais sujeita-se a prazo decadencial e não prescricional. Inexistindo prazo previsto em lei para o exercício de tal direito potestativo, o ajuizamento de ação anulatória de penhora não se sujeita a prazo extintivo.
+3. A impenhorabilidade legal não depende de prévio registro dessa condição na matrícula do imóvel, bastando que seja a residência própria do casal ou da entidade familiar, na forma do art. 1º e seguintes da Lei n.º 8.009/1990.
+4. Apelo e remessa necessária não providos.
+Os embargos de declaração opostos contra a aludida decisão foram acolhidos, sem efeitos modificativos, em acórdão assim sintetizado (e-STJ, fl. 1.142):
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE. HONORÁRIOS. PRINCÍPIO DA CAUSALIDADE.
+1. Mostra-se adequada a condenação da parte que resistiu e foi vencida quanto à desconstituição da penhora, aos honorários sucumbenciais.
+2. Deu-se parcial provimento aos embargos de declaração para esclarecer a obscuridade apontada sem efeitos infringentes.
+Alega a parte recorrente, nas razões do especial, violação das disposições doart. 1.022, II, do CPC/2015, pois omisso o acórdão impugnado.
+No mérito propriamente, aduz contrariedade ao art. 1º do Decreto n. 20.910/1932, requerendo a decretação da prescrição da pretensão veiculada na demanda.
+Assevera violado o art. 85, § 10, do CPC, indicando ter a parte recorrida dado causa ao ajuizamento da demanda, de forma que, tendo em consideração o princípio da causalidade, deve arcar com os honorários sucumbenciais.
+Subsidiariamente, requer a fixação de honorários consoanteo § 8º do art. 85do CPC, pois, "se forem aplicadas as regras do art. 85, 3 8º, do CPC, gerará honorários de cerca de R$ 60 mil reais, importe totalmente incompatível com o trabalho exercido nos autos" (e-STJ, fls. 1.170-1.171).
+Foram apresentadas contrarrazões.
+O apelo foi admitido na origem.
+É o relatório.
+De início, quanto à mencionada ofensa aoart. 1.022, II, do CPC, verifico que a parte recorrente não logrou êxito em demonstrar objetivamente os pontos omitidos pelo acórdão impugnado, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+Tal circunstância atrai, portanto, a aplicação do enunciado 284 da Súmula do STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.".
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. ÔNUS DA PROVA DE PAGAMENTO. FUNDAMENTAÇÃO DEFICIENTE DO ACÓRDÃO RECORRIDO. PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC/73, a parte recorrente não evidenciou qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp n. 1.001.267/PB, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 24/8/2017).
+ADMINISTRATIVO. POLICIAL MILITAR. PROCEDIMENTO DISCIPLINAR. EXPULSÃO. CONSELHO DISCIPLINAR. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO. REEXAME DE FATOS. INVIABILIDADE. SÚMULA 7/STJ. ATIVIDADE DE CONSULTORIA. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO ADOTADO PELA CORTE DE ORIGEM. SÚMULA 283/STF. SÚMULA 284/STF. HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DA FAZENDA PÚBLICA. EXIGIBILIDADE SUSPENSA (ART. 12 DA LEI N.º 1.060/50). ASSISTÊNCIA JUDICIÁRIA GRATUITA.
+1. Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+ ..
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 579.011/SP, relator MinistroSérgio Kukina, Primeira Turma, DJe de3/8/2017).
+Em relação à alegadacontrariedade ao art. 1º do Decreto n. 20.910/1932, destaco que a Corte de origem afastou a alegação de prescrição sob o argumento de que a impenhorabilidade do bem de família pode serreconhecida em qualquer momento egrau de jurisdição, o que afasta a prejudicial de mérito apontada pelo ora insurgente.
+A propósito (e-STJ, fl. 1.115):
+ ..  Outrossim, importa consignar que não merece guarida a prejudicial de mérito da prescrição levantada pelo réu, porquanto o reconhecimento da impenhorabilidade do bem de família pode se dar a qualquer tempo e grau de jurisdição, posto se tratar de matéria de ordem pública.
+Frise-se, por oportuno, que a Corte Superior tem conferido a mais ampla proteção ao bem de família, promovendo, sempre que possível, a interpretação do art. 3º da Lei nº 8.009/90 mais favorável à entidade familiar, inclusive entendendo que a questão é matéria de ordem pública, suscetível de análise a qualquer tempo e grau de jurisdição.
+Nas razões do especial, o insurgente não refutou tais premissas constantes do pronunciamento contestado. A não impugnação de fundamento suficiente para manter o julgado combatido atrai a aplicação do óbice do enunciado n. 283 da Súmula do STF. Tal circunstância inviabiliza o conhecimento do apelo extremo.
+No ponto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FORNECIMENTO DE SUPLEMENTO ALIMENTAR PELO ESTADO. ALERGIA À LACTOSE. ALEGADA OFENSA AO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SUPOSTA OFENSA A DISPOSITIVO NÃO PREQUESTIONADO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ALEGADA EXISTÊNCIA DE PROVAS NOS AUTOS PARA SUSTENTAR A PRETENSÃO INICIAL. NECESSIDADE DE REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. Ausente a impugnação a fundamento suficiente para manter o acórdão recorrido, o recurso especial não merece ser conhecido, por lhe faltar interesse recursal. Inteligência da Súmula 283 do STF, aplicável, por analogia, ao recurso especial.
+ ..
+5. Recurso especial não conhecido.
+(REsp n. 1.367.651/MG, relatora Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 3/12/2013).
+Não bastasse isso, oconteúdo do art. 1º do Decreto n. 20.910/1932 e a tese a ele vinculadanão foram objeto de análise pela instância de origem. A mesma conclusão é aplicável em relação ao requerimento formuladocom fundamento no § 8º do art. 85 do CPC.
+Frise-se que taisaspectos aventados no apelo nobre não foramobjeto dos declaratórios em oposição ao pronunciamento impugnado, que se limitou ao tema veiculado no recurso especial com amparo no § 10 do art. 85 do CPC.
+Dessa forma, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão recorrida, apto a viabilizar a pretensão recursal com base no art. 105, III, "a", da Constituição Federal.
+Incide no caso, portanto, o disposto nos verbetes n. 282 e 356 da Súmula do STF, a seguir transcritos:
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada.".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.".
+Por fim, com relação à mencionada afronta às disposições do art. 85, § 10, do CPC, considerado o princípio da causalidade, friso que "é firme o entendimento deste Tribunal Superior de que não cabe ao STJ rever a conclusão adotada pelo Tribunal de origem, quanto ao princípio da causalidade ou à sucumbência recíproca, por implicar revolvimento do contexto fático-probatório, inviável em sede de recurso especial à luz da Súmula 7/STJ" (AgInt no AREsp n. 631.783/DF, relator MinistroGurgel de Faria, Primeira Turma, DJe de 23/11/2017).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA EMBARGADA.
+1. Este Superior Tribunal possui entendimento firmado no sentido de que rever a proporção de vitória/derrota das partes na demanda, para aferir a sucumbência recíproca ou mínima, bem como a impossibilidade de condenação em custas e honorários advocatícios de sucumbência, ante o princípio da causalidade, implica em revisão de matéria fática e probatória, providência inviável de ser adotada, em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+2. A imposição da multa prevista no art. 1.021, § 4º, do CPC/15 não é cabível em virtude do mero desprovimento do agravo interno por votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+3. Em relação ao pedido formulado pela parte agravada em sua impugnação, registra-se que a Segunda Seção dessa Corte, por ocasião do julgamento do AgInt nos EREsp n. 1539725/DF, firmou entendimento de que a majoração da verba honorária, na forma do art. 85, § 11, do CPC/15, somente é devida quando, dentre outros requisitos, houver condenação desde a origem no feito em que interposto o recurso - o que não ocorre no caso, visto que não foram anteriormente fixados honorários de advogado, em face da sucumbência recíproca.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.351.087/SP, relator MinistroMarco Buzzi, Quarta Turma,DJe de 3/6/2019).
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535 DO CPC/1973. INOCORRÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS E ÔNUS DA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. NECESSIDADE DE REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se configura a alegada ofensa ao art. 535 do CPC/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+2. O órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Precedentes.
+3. Consoante orientação sedimentada no STJ, o pleito inicial deve ser interpretado em consonância com a pretensão deduzida na exordial como um todo, sendo certo que o acolhimento ou não colhimento do pedido extraído da interpretação lógico-sistemática da peça inicial não implica julgamento extra petita.
+4. A pretensão da ora recorrente é inverter a distribuição dos ônus sucumbenciais, aplicando o princípio da causalidade. Afirma que quem deu causa à propositura da Medida Cautelar foi a parte recorrida.
+5. Ao dirimir a controvérsia, a Corte de origem consignou, de forma expressa, que "não foi a União que deu causa ao ajuizamento do feito quando recusou, acertadamente, a carta de fiança apresentada".
+6. É assente no STJ que rever a conclusão adotada pelo Tribunal de origem, quanto ao princípio da causalidade ou à sucumbência recíproca, implica o revolvimento do contexto fático-probatório, o que é inviável em Recurso Especial, em virtude do óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n.1.760.160/RJ, relator MinistroHerman Benjamin, Segunda Turma,DJe de 21/11/2018).
+Assim, inviável revolver o acervo fático-probatório dos autos para desconstituir a conclusão da Corte de origem de que "embora a penhora tenha sido realizada em 1997, sem a informação de que o imóvel se tratava de bem de família até 2018, o Distrito Federal, quando informado, resistiu à pretensão de desconstituição da penhora. Dessa forma, vencido no ponto, é cabível a condenação do Distrito Federal aos honorários sucumbenciais, nos termos do art. 85 do CPC/2015" (e-STJ, fl. 1.144).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado, na origem, o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado, na origem, o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Ficam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelos arts. 98 e seguintes do CPC
+Publique-se. Intimem-se.
