@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CONSORCIO ESTREITO ENERGIA - CESTE (CONSORCIO contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+"Todavia, com o devido respeito, entende o ora embargante que há omissão a ser sanada na decisão que atribuiu efeitos infringentes aos Embargos de Declaração da parte recorrente, porque não se pronunciou acerca do segundo fundamento não impugnado pelo Agravo em Recurso Especial.
+4. De efeito, não foi enfrentado o fato que o Agravo em Recurso Especial não foi conhecido também porque não foi impugnado o fundamento de que não é cabível interposição de Recurso Especial contra simples ofensa a resolução, cujo fundamento, em não sendo rebatido, impede a reconsideração da decisão proferida inicialmente.
+5. Em outras palavras, uma vez que a decisão que não conheceu do Agravo em Recurso Especial (e-STJ Fl.951/953) deu-se porque foram dois os fundamentos não impugnados, não é possível o acolhimento dos Embargos de Declaração da parte recorrente porque alegadamente demonstrou a impugnação de apenas um dos fundamentos (Súmula 7), pois cediço que se faz necessária a impugnação específica de todos os fundamentos da decisão agravada" (fl. 1005).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
