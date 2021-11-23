@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de pedido de extensão protocolado porALBERTO FERREIRA SIQUEIRAdos efeitos da decisão proferida no presentehabeas corpusem favor de Jair Figueiredo Monte.
+Afirmaorequerenteque ostentasituação análoga a do corréu beneficiado e pugnapela aplicação do art. 580 do Código de Processo Penal, a fim de que seja reconhecida a extinção da punibilidade relativamente aos delitos de estelionato e associação criminosa.
+É o relatório.
+Decido.
+Orequerentefoicondenadoda seguinte forma:
+"Condená-lo pela prática dos 302 (trezentos e dois) crimes de estelionato, tipificado artigo 171, caput, do Código Penal, na forma do artigo 69 do Código Penal, àpena privativa de liberdade 402 (quatrocentos e dois) anos e 08 (oito) meses de reclusão e pagamento de 21.140 (vinte e um mil cento e quarenta) dias-multa, valorados no mínimo legal, absolvendo-o da prática de 79 (setenta e nove) crimes de estelionato, nos termos do artigo 386, inciso VII, do Código de Processo Penal.
+Condená-lo pela prática do crime de associação para o tráfico, tipificado artigo 35, caput, da lei n. 11.343/2006, a pena privativa de liberdade de 03 (três) anos e 03 (três) meses de reclusão e 725 (setecentos e vinte e cinco) dias-multa, valorados no mínimo legal.
+Condená-lo pela prática do crime de induzimento ao uso indevido de drogas, tipificado artigo 33, §2º c/c artigo 40, inciso III, ambos da Lei n. 11.343/2006, a pena de 01 (um) ano, 04 (meses) meses e 10 (dez) dias de detenção, além do pagamento de 150 (cento e cinquenta) dias multa.
+Condená-lo pela prática do crime de quadrilha ou bando, tipificado artigo 288, caput, do Código Penal, conforme redação anterior à alteração pela lei 12.850/2013, àpena privativa de liberdade de 02 (dois) anos de reclusão.
+Reconheço o concurso material, previsto no art. 69, do CP, para unificar as penas, resultando em 407 (quatrocentos e sete) anos e 11 (onze) meses de reclusão e 01 (um) ano, 04 (meses) meses e 10 (dez) dias de detenção, além pagamento de 22.015 (vinte e dois mil e quinze) dias-multa, cujo pagamento deverá ser feito em 10 dias do trânsito em julgado, sob pena de inscrição em dívida ativa.
+Em consonância com o disposto pelo artigo 33, § 2º, alínea "a", do CP, o condenado deverá iniciar o cumprimento de sua pena de reclusão em regime fechado. No tocante a sua pena de detenção, com fundamento no artigo 33, § 2º, alínea "b", do CP, o condenado deverá iniciar seu cumprimento em regime semiaberto."(e-STJ, fls. 617-618; grifos no original.)
+A prescrição retroativa da pretensão punitiva tem por referência a pena em concreto, sendo aferida, nos termos do art. 109 do CP, após o trânsito em julgado da condenação e segundo os marcos interruptivos descritos no art. 117 do mesmo Codex, não podendo, atualmente,ter por termo inicial data anterior à da denúncia ou queixa (art. 110 do CP).
+Saliente-se, ainda, que, nos termos do art. 119 do Código Penal, "no caso de concurso de crimes, a extinção da punibilidade incidirá sobre a pena de cada um, isoladamente.".
+Considerando as penas impostas para cada delito de estelionato (1 ano) e para o crime de associação criminosa (2anos), o prazo prescricional retroativo a ser observado é de 4 anos, nos termos do art. 109, inciso IV, do Código Penal.
+Se a inicial acusatória foi recebida em13/12/2013, e a publicação da sentença condenatória ocorreu em18/12/2018, a pretensão punitiva do Estado está retroativamente prescrita, pois se passaram mais de 4 anos entre os marcos interruptivos.
+Diante do exposto,defiro o pedido de extensãopara declarar a extinção da punibilidade dorequerenterelativamente aos delitos de estelionato e de associação criminosa, pela prescrição da pretensão punitiva estatal, na modalidade retroativa.
+Publique-se. Intime-se.
