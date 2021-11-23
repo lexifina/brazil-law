@@ -1,0 +1,12 @@
+DECISÃO
+Vistos, etc.
+De início, torno sem efeito a decisão que determinou o sobrestamento, em razão do que decido a seguir.
+Trata-se de RECURSO EM MANDADO DE SEGURANÇAmanejado por LOJAS SIMONETTI LTDAcontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado(e-STJ, fl. 229/234):
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA - ICMS -BENEFÍCIO FISCAL - NÃO CUMULATIVIDADE - LIMINAR INDEFERIDA - DECISÃO MANTIDA. "A liminar não é uma liberalidade da Justiça; é medida acauteladora do direito do Impetrante, que não pode ser negada quando ocorrem seus pressupostos, como também não deve ser concedida quando ausentes os requisitos de sua admissibilidade" (Hely Lopes Meirelles, Mandado de Segurança e Ações Constitucionais, 34º ed. Malheiros, p. 93).
+É o relatório.
+A questão jurídica referente ao creditamento de ICMS incidente em operação oriunda de outro ente federado que concede, unilateralmente, benefício fiscalfoi submetida ao regime dosprecedentes qualificados vinculantes pelo Supremo Tribunal Federalnos seguintes termos:
+Tese 490/STF:O estorno proporcional de crédito de ICMS efetuado pelo Estado de destino, em razão de crédito fiscal presumido concedido pelo Estado de origem sem autorização do Conselho Nacional de Política Fazendária (CONFAZ), não viola o princípio constitucional da não cumulatividade.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Diante do exposto, determinoa devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/15, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
