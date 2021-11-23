@@ -1,0 +1,35 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, INCISOS I E III, DA LEI N. 8.137/1990. FUNDAMENTOS DO ACÓRDÃO INATACADOS. SÚMULA N. 182 DO STJ. INCIDÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. APLICAÇÃO TAMBÉM NA HIPÓTESE DA ALÍNEA "A" DO INCISO III DO ART. 105 DA CONSTITUIÇÃO FEDERAL. VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A mera irresignação com o resultado do julgamento, visando, assim, à reversão do que já foi regularmente decidido, não tem o condão de viabilizar a oposição dos aclaratórios.
+2. O cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, ambiguidade, obscuridade, contradição ou omissão, o que não se verifica no caso dos autos.
+3. Na espécie, não há falar em omissão no exame das teses de mérito aventadas no recurso especial, porquanto o respectivo agravo nem sequer ultrapassou o juízo de admissibilidade. Com efeito, inadmitido o apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior. No caso, no tocante ao tópico da decisão que inadmitiu o recurso especial referente à incidência da Súmula n. 83/STJ, esse não foi devidamente impugnado.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por PAULO FELIZARDO PRIMO ao acórdão assim ementado (e-STJ fl. 683):
+PROCESSUAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, INCISOS I E III, DA LEI N. 8.137/1990. FUNDAMENTOS DO ACÓRDÃO INATACADOS. SÚMULA N. 182 DO STJ. INCIDÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. APLICAÇÃO TAMBÉM NA HIPÓTESE DA ALÍNEA "A" DO INCISO III DO ART. 105 DA CONSTITUIÇÃO FEDERAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. Inadmitido o apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu na espécie.
+2. O entendimento desta Corte Superior é o de que "a incidência da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional" (AgRg no AREsp n. 679.421/RJ, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/3/2016, DJe 31/3/2016).
+3. Agravo regimental improvido.
+Em suas razões, afirma omissão quanto à análise das teses aventadas no especial, destacando ainda a violação ao art. 489, § 1º, inciso IV; art. 1.022, inciso II e parágrafo único, inciso II, ambos do NCPC; art. 619 do CPP; e art. 5º, § 1º, da CF que impõe o cumprimento do quanto previsto no art. 93, IX, da CF. Afirma ainda que os fundamentos da decisão de admissibilidade do especial foram devidamente impugnados, tese essa também não examinada.
+Requer "o acolhimento dos presentes Embargos de Declaração, a fim de que se complemente a prestação jurisdicional, com manifestação expressa acerca das omissões apontadas, sob pena de configurar-se hipótese de NEGATIVA DE PRESTAÇÃO JURISDICIONAL, nos termos do art. 5º, inciso XXXV, LIV, LV e art. 93, inciso IX, da Constituição Federal, art. 489, § 1º e 1.022, do NCPC c/c art. 619 do CPP" (e-STJ fl. 703).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, conforme o art. 619 do Código de Processo Penal, supõem defeitos a mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, que não se fazem presentes no caso em análise.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte, como se percebe o aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambigüidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.  ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn 613/SP, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+As conclusões constantes da decisão recorrida não encerram nenhum dos vícios acima mencionados.
+As razões dos aclaratórios revelam, na verdade, o inconformismo da parte com o desfecho da causa e objetivam puramente a rediscussão da matéria.
+Na espécie, não há falar em omissão no exame das teses de mérito aventadas no recurso especial, porquanto o respectivo agravo nem sequer ultrapassou o juízo de admissibilidade. Com efeito, inadmitido o apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior. No caso, no tocante ao tópico da decisão que inadmitiu o recurso especial referente à incidência da Súmula n. 83/STJ, esse não foi devidamente impugnado.
+Tal o contexto, ausentes os vícios imputados à decisão combatida, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
