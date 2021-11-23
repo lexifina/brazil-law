@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. TESE DEFENSIVA ÚNICA DE NEGATIVA DE AUTORIA. RECONHECIMENTO PELOS JURADOS DA AUTORIA E DA MATERIALIDADE DELITIVA. ABSOLVIÇÃO PELO REQUISITO GENÉRICO. CONTRADIÇÃO. REPETIÇÃO DA VOTAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. FUNDAMENTAÇÃO IDÔNEA E SUFICIENTE. OMISSÃO/CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DO FEITO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Como já reafirmado nos dois julgamentos anteriores, verifica-se que esta Corte Superior, ao analisar a questão, posicionou-se de forma clara, adequada e suficiente ao consignar que o entendimento do Tribunal de Justiça está em harmonia com a jurisprudência consolidada desta Corte Superior, pois, se a tese da defesa foi, única e exclusivamente, negativa de autoria, a absolvição reconhecida pelos jurados, no terceiro quesito (obrigatório) conflita com a resposta afirmativa dos leigos para os dois primeiros. Plausível, portanto, e até recomendada a repetição da série quesitária, após explicação aos jurados sobre o ocorrido, nos termos do art. 490 do Código de Processo Penal. (AgRg no REsp 1610764/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 14/8/2018, DJe 29/8/2018)
+2. Assim, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+Trata-se de novos embargos de declaração opostos por DARILIO MOREIRA DOS SANTOS contra acórdão da 5ª Turma deste Superior Tribunal de Justiça que rejeitou os primeiros embargos (e-STJ fls. 244/256).
+Novamente, embargante sustenta omissão do julgado, pois, existindo a obrigatoriedade de formulação do terceiro quesito (o jurado absolve o acusado ), ainda que a tese tenha sido de ausência de autoria, a resposta não pode ser desprezada.
+Alega, mais uma vez, que o art. 490 do CPP, que possibilidade a renovação da votação em caso de respostas contraditórias não se aplica ao caso em exame.
+Aponta julgado desta Corte Superior do ano de 2013 favorável à tese defendida na impetração.
+Ao final, requer sejam os embargos recebidos e conhecidos, com o fim de aperfeiçoar o acórdão impugnado e corrigir os defeitos apontados.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Observa-se, de plano, que todos as alegações apresentadas pelo embargante, já foram decididas no agravo regimental e reafirmada em sede dos primeiros aclaratórios. Vejamos o seguinte trecho do acórdão embargado:
+Verifica-se que esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao concluir que, da leitura do acórdão impugnado, observa-se que o entendimento do Tribunal de Justiça está em harmonia com a jurisprudência consolidada desta Corte Superior, pois, se a tese da defesa foi, única e exclusivamente, negativa de autoria, a absolvição reconhecida pelos jurados, no terceiro quesito (obrigatório) conflita com a resposta afirmativa dos leigos para os dois primeiros. Plausível, portanto, e até recomendada a repetição da série quesitária, após explicação aos jurados sobre o ocorrido, nos termos do art. 490 do Código de Processo Penal. (AgRg no REsp 1610764/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 14/8/2018, DJe 29/8/2018). Por fim, o entendimento explicitado no precedente da 5ª Turma, citado pela defesa (HC-200.440/SP, Relator Ministro Marco Aurélio Bellizze, julgado em 15/3/2012, 5ª Turma), já foi superado por esta Corte Superior, no julgamento do HC n. 313.251/RJ, da Rel. Ministro JOEL ILAN PACIORNIK, 3ª Seção, que, por maioria de votos, uniformizou sua jurisprudência sobre a possibilidade da interposição de recurso ministerial, uma única vez, contra a sentença absolutória do Tribunal do Júri, ainda que por clemência, quando esta for manifestamente contrária à prova dos autos, não havendo que se falar em violação ao princípio da soberania dos veredictos.
+Assim, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, rejeito os embargos de declaração.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
