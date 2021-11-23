@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUIZ ANTONIO DE ALMEIDA JUNIORem que se aponta como autoridade coatoraTribunal de Justiça do Estado de Minas Gerais(HC n. 1.0000.21.229025-8/000).
+Opaciente teve a prisão temporária convertida em preventiva a pedido do Ministério Público (fls. 57-59)por suposta prática dos delitos descritos no art. 157, § 2º, II, e § 2º-A, I, no art. 180 e no art. 188, todos do Código Penal.
+O decreto prisional fundou-se na periculosidade do paciente e no envolvimento com associação criminosa. Impetrado writ originário, a ordem foi denegada.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar.
+Aponta que o decreto prisional fundou-se na gravidade abstrata do delito.
+Aduz que o paciente é possuidor de condições pessoais favoráveis, como primariedade, trabalho lícito e residência fixa.
+Requer a expedição de alvará de soltura em favor do paciente ou a substituição da prisão preventiva por medidas cautelares alternativas.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 13-14, destaquei):
+Ademais, contrariamente ao afirmado em impetração, a decisão a decretar a prisão preventiva do paciente encontra-se suficientemente fundamentada nos requisitos previstos no art. 312 do CPP, ressaltando a d. autoridade coatora a necessidade da medida para garantia da ordem pública em virtude da gravidade em concreto dos delitos, demonstrada pelo modus operandi adotado na empreitada delitiva.
+ ..
+Destarte, a decisão proferida pelo magistrado de origem encontra-se suficientemente fundamentada, inexistindo constrangimento ilegal.
+Os crimes em questão são graves, devendo a custódia preventiva ser decretada para garantia da ordem pública, de forma a evitar a reiteração de condutas semelhantes. A imposição de qualquer das medidas cautelares substitutivas à prisão não se mostra adequada ou suficiente para preservar a ordem pública.
+Com efeito, a censurabilidade e a gravidade dos delitos de roubo e receptação praticados, realizados em associação criminosa, justificam o decreto prisional fundado na garantia da ordem pública.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Note-se que, no presente caso, a gravidade concreta, evidenciada pelo modus operandi e pela associação criminosa, e o risco de reiteração delitiva foram considerados pelo Tribunal de origem para denegar a ordem.
+A prisão preventiva tem natureza excepcional, estando sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 282, I e II, 312, 313 e 315 do Código de Processo Penal, com as alterações da Lei n. 13.964/2019.
+Registre-se também que a gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo (RHC n. 119.549/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 26/2/2020.).
+Ademais, eventuais condições subjetivasfavoráveisdopaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
