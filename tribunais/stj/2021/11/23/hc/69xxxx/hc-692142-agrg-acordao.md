@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+JEAN MARCELO DOS SANTOS agrava de decisão em que indeferi liminarmente o habeas corpus.
+Extrai-se dos autos que o paciente foi preso preventivamente por suposta infração aos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006. Impetrado o HC n. 533.498/SC nesta Corte, foi concedida a ordem pela Sexta Turma, para "tornar sem efeito a decisão que decretou a prisão preventiva do acusado".
+Após, foradecretada nova custódia do agravante, por obstar a aplicação da lei penal.
+Em seguida, foi proferida sentença condenando o paciente à pena de 10 anos, 10 meses e 20 dias de reclusão, em regime inicial fechado, por infração ao art. 33, caput, 35, caput, c/c art. 40, VI, todos da Lei n. 11.343/2006. Na ocasião, foi negado o direito de recorrer em liberdade.
+Neste regimental, a defesa reiteraque "não há que se falar em "réu foragido", muito menos de paciente que se evadiu do distrito da culpa, deliberadamente, a fim de frustrar a justiça" (fl. 268). Afirma que "mero desconhecimento do paradeiro do réu não pode servir como fundamento à prisão cautelar" (fl. 270).
+Assegura que "o paciente em momento algum se furtou da aplicação da lei, mas apenas retornou à residência de sua família, onde foi inclusive facilmente localizado pelas autoridades (assim que receberam o mandado)" (fl. 273).
+Pugna pela reconsideração do decisum agravado ou pela submissão do feito ao órgão colegiado, para que seja concedido o habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. FUNDAMENTAÇÃO SUFICIENTE. APLICAÇÃO DA LEI PENAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).Ademais, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. As instâncias de origemregistrarama necessidade de garantir a aplicação da lei penal, em razão de o paciente ter se mudado de endereço sem comunicação ao juízo, além de ter permanecido em local incerto e não sabido durante dois anos, após a concessão da ordem de habeas corpus por esta Corte de Justiça (HC n. 533.498/SC).
+3. Agravo regimental não provido.
+VOTO
+Ao impor a segregação cautelar do acusado, o Juízo singular consignou o que segue (fl. 14, grifei):
+No que toca a Jean Marcelo dos Santos, percebo que ele, solto, faz pouco caso da justiça ao não informar a este Juízo o seu atual paradeiro, frustrando, por vezes, o cumprimento de atos típicos do exercício jurisdicional.
+Prosseguindo, se estão os demais denunciados submetidos a medidas cautelares e ele, ainda não, concluo que, por sequer ser conhecido o atual paradeiro de Jean Marcelo dos Santos, não seria o imputado capaz de observar as condionantes de providências menos gravosas que a prisão preventiva.
+De largada, presentes prova da existência do crime, indícios suficientes de autoria e do perigo gerado pelo estado de liberdade do imputado, que, caso permaneça solto, demonstrou que não medirá esforços para frustrar a aplicação da lei penal, porquanto, na primeira oportunidade que teve, ocultou-se como forma de burlar o sistema de justiça (art. 312 do CPP).
+O crime em questão tem pena máxima superior a quatro anos (art.
+313 do CPP).
+Como dito, o traço da contemporaneidade se mostra presente porque o denunciado evadiu-se do distrito da culpa para obstar a aplicação da lei penal a seu caso, despretigiando todo sistema de justiça e tratando como ínfima a gravosa conduta a si atribuída.
+A Corte de origem, por sua vez, manteve a custódia, ao fundamento de que "é evidente a presença dos requisitos do artigo 312 do Código de Processo Penal, consistente na necessidade de garantir a aplicação da lei penal, uma vez que Jean após soltura determinada pelo Superior Tribunal de Justiça, em 16-09- 2019, mudou de endereço, ocultando-se como forma de burlar a justiça" (fl.59-60, grifei).
+Ressaltou que "somente em 21-07-2021 foi ele preso, isso no Estado vizinho do Rio Grande do Sul, revelando-se incabível a concessão das medidas cautelares, pois resultariam insuficientes e inadequadas, a teor do artigo 310, inciso II, do Código de Processo Penal" (fl. 60, destaquei).
+Concluiu o Tribunal estadual que "os motivos que ensejaram a decretação e manutenção da segregação cautelar ainda se mantêm, acrescidos ao fato de que, após obtida ordem de Habeas Corpus pelo STJ teria alterado seu endereço sem comunicação a juízo, permanecendo em local ignorado por aproximadamente 02 anos, inviabilizando cumprimento de atos jurisdicionais, restando justificada sua prisão cautelar a fim igualmente de garantir a aplicação da lei penal, uma vez já condenado em primeira instância, ainda que pendente de apreciação recurso de apelação neste grau de jurisdição" (fl. 60, grifei).
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Ademais, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na hipótese, vê-se que o decisum combatido registrou a necessidade de garantir a aplicação da lei penal, em razão de o paciente ter se mudado de endereço sem comunicação ao juízo, além de ter permanecido em local incerto e não sabido durante dois anos, após a concessão da ordem de habeas corpus por esta Corte de Justiça (HC n. 533.498/SC).
+Além disso, é imperioso consignar que " n ão há constrangimento ilegal quando a custódia se encontra fundamentada nos termos do art. 312 do Código de processo Penal, notadamente para assegurar a aplicação da lei penal, dada a situação de foragido do réu" (RHC n. 88.388/PR, Rel. Ministro Jorge Mussi, 5ª T., DJe 28/6/2018, grifei).
+Concluo, então, haver sido demonstrada a exigência cautelar motivadora da prisão preventiva do acusado.
+À vista do exposto, nego provimento ao agravo regimental.
