@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por HYGEN GENÉTICA AVÍCOLA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO DUPLICIDADE NA CESSÃO DE PRECATÓRIO JUDICIAL PREVALECE A CESSÃO QUE PRIMEIRO FOI COMUNICADA AO JUÍZO, NOS TERMOS DO ART. 100, § 14, DA CF DECISÃO CONFIRMADA AGRAVO DE INSTRUMENTO DESPROVIDO.
+Quanto à controvérsia recursal, alega violação dos arts. 290 e 291 do CC e 405 do CPC, no que concerne à prevalência da primeira cessão de crédito de precatórios, feita por meio de escritura pública, em detrimento das outras cessões efetivadas posteriormente, ainda que tenham sido comunicadas ao juízo anteriormente, considerando que produziu efeitos entre a cedente e a recorrente desde a data de sua realização, trazendo os seguintes argumentos:
+Nos termos da r. decisão recorrida, a Recorrente comunicou sua cessão posteriormente as demais cessionárias, prevalecem as cessões por estas apresentadas, o que não merece prosperar.
+Conforme destacado pela Recorrente, em 09/06/2011 adquiriu os direitos creditórios sob instrumento jurídico público, que manifesta à vontade entre duas ou mais pessoas perante um Tabelião ou Escrevente autorizado, gozando este de fé pública para formalizar o evento que lhe foi descrito na forma legal e estrita da lei, conforme dispõe o artigo 405 do Vovo Código de Processo Civil:
+ ..
+As outras cessões de créditos foram realizadas em 30/03/2012 e 26/10/2012, ou seja, posteriormente à data da cessão à Recorrente (09/06/2011).
+ ..
+Portanto, o primeiro negócio jurídico é válido e na integralidade do crédito disponível, inexistindo crédito a ser cedido as demais empresas, nos termos do artigo 291 do Código Civil.
+No entanto, o v, acórdão desconsidera que à época do feito, 09/06/2011, o negócio foi plenamente válido, produzindo efeitos entre cedente e cessionária desde da data de sua realização, vez que satisfez todos os requisitos formais de forma plena. A entidade devedora foi posteriormente comunicada em 21/07/2011, produzindo efeitos em relação ao devedor para pagamento, nos termos do artigo 290 do Código Civil:
+ ..
+Logo, se evidência a plenitude e eficácia da cessão desde a outorga da escritura pública, entre cedente e cessionária, bem como, em relação a entidade devedora, após sua comunicação. Devendo esta cessão prevalecer, pois, quando realizada a segunda cessão, a cedente já não dispunha do crédito.
+Estamos diante de multiplicidade de cessão, latente alienação de coisa alheia, vez que não era mais de propriedade da cedente originária os supostos direitos posteriormente cedidos, devendo ser reconhecida a nulidade desses negócios jurídicos subsequentes por vício evidente.
+A venda, sem o consentimento do verdadeiro dono, tangência a inexistência, em razão da ineficácia do negócio.
+ ..
+Assim, resta evidente a plenitude e eficácia da cessão desde a outorga da escritura pública em 09/06/2011, entre cedente e Agravante, bem como, em relação a entidade devedora, ante sua comunicação em 21/07/2011, garantindo deste modo, a proteção dada à pessoa de imutabilidade da situação jurídica de boa-fé, realizada dentro dos parâmetros legais, prestigiando o Princípio da Segurança Jurídica e o Direito Adquirido, ambos consubstanciados no art. 5º, inciso XXXVI da Constituição Federal.
+Portanto, imprescindível se faz o reconhecimento do Ato Jurídico pleno e eficaz da primeira cessão, reformando o v. acordão que determinou a exclusão da recorrente como credora primária do precatório por desconsiderar o negócio jurídico (fls. 129-131).
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "Possuindo o julgado fundamento exclusivamente constitucional, descabida se revela a revisão do acórdão pela via do recurso especial, sob pena de usurpação de competência". (AgRg no AREsp 1.532.282/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 19/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgRg no REsp 1.302.307/TO, relatora Ministra Eliana Calmon, Primeira Seção, DJe de 13/5/2013; REsp 1.110.552/CE, relator Ministro Cesar Asfor Rocha, Primeira Seção, DJe de 15/2/2012; AgInt no REsp 1.830.547/DF, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no AREsp 1.488.516/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1º/7/2020; AgInt no AgInt no AREsp 1.484.304/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/6/2020; AgInt no AREsp 1.519.322/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 30/10/2019; AgInt no AREsp 1.358.090/SE, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
