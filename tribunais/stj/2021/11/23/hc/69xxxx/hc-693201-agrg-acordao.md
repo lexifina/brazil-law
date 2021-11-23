@@ -1,0 +1,81 @@
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE DE DROGA. REITERAÇÃO DELITIVA DO AGENTE. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INADEQUAÇÃO. AGRAVO DESPROVIDO.
+1. De acordo com o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+2. Hipótese em que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, uma vez que o agente foi preso em flagrante na posse de 330g de crack, além de balança de precisão, embalagem para droga e dinheiro em espécie.
+3. A constrição cautelar também encontra motivação na reiterada conduta delitiva do agente, uma vez que ele registra condenação transitada em julgado por roubo qualificado e voltou a praticar novo delito, desta vez, de tráfico de drogas.
+4. É inviável a aplicação de medidas cautelares diversas da prisão, pois a reiterada conduta delitiva do agente indica que a ordem pública não estaria acautelada com a sua soltura.
+5. Agravo desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por DIEGO FRANCISCO DE CAMPOS GUIMARÃES, contra decisão desta Relatoria, que não conheceu do habeas corpus.
+A defesa alega, em síntese, que a " decisão não pode prevalecer, uma vez que viola o art. 93, inciso IV (ausência de fundamentação idônea) e o art. 5.º, inciso LV (contraditório e ampla defesa), ambos da Constituição Federal, bem como o artigo 315, §2.º do Código de Processo Penal. " (e-STJ, fl. 128)
+Requer, portanto, a reconsideração da decisão agravada ou a submissão do feito à apreciação da Turma.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE DE DROGA. REITERAÇÃO DELITIVA DO AGENTE. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INADEQUAÇÃO. AGRAVO DESPROVIDO.
+1. De acordo com o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+2. Hipótese em que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, uma vez que o agente foi preso em flagrante na posse de 330g de crack, além de balança de precisão, embalagem para droga e dinheiro em espécie.
+3. A constrição cautelar também encontra motivação na reiterada conduta delitiva do agente, uma vez que ele registra condenação transitada em julgado por roubo qualificado e voltou a praticar novo delito, desta vez, de tráfico de drogas.
+4. É inviável a aplicação de medidas cautelares diversas da prisão, pois a reiterada conduta delitiva do agente indica que a ordem pública não estaria acautelada com a sua soltura.
+5. Agravo desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão recursal não merece êxito, uma vez que a defesa não apresentou fundamentos capazes de modificar o entendimento anteriormente adotado. Dessa forma, mantenho a decisão agravada a seguir transcrita, por seus próprios fundamentos:
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Assim, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+A prisão preventiva foi decretada nos seguintes termos:
+Há sérios indícios de autoria, sendo que a materialidade encontra-se estampada no auto de exibição e apreensão de fls. 15/16 e no auto constatação preliminar de substância entorpecente de fls. 18/20, estando, portanto, presente o fumus comissi delicti, não sendo recomendável a aplicação de medidas cautelares diversas da prisão, já que são inadequadas e insuficientes.
+Pelo que se depreende dos autos, os acusados foram presos com expressiva quantidade de cocaína, na forma de crack, substância de efeito devastador ao ser humano, além de vários objetos usados para armazenamento e embalagem da droga, tudo após denúncia específica sobre o tráfico por eles realizado. Conforme atestado nas certidões de fls. 52/54, Diego ostenta condenações pelo mesmo delito em questão, estando, inclusive, com um Mandado de Prisão em aberto em seu desfavor, que foi cumprido nesta diligência; e Vitória possui passagem pela Vara da Infância (fls. 10 e 78), também pelo comércio ilegal de drogas, o que demonstra, em cognição sumária, estarem envolvidos com o tráfico de drogas nesta cidade, reforçando a necessidade da conversão, principalmente para a garantia da ordem pública, pois uma vez soltos, certamente voltariam a delinquir.
+ ..
+Na ausência de quaisquer das hipóteses previstas em lei, que é o caso dos autos, não há que se falar em substituição da prisão preventiva pela domiciliar.
+ ..
+Razoável, portanto, a manutenção das custódias cautelares dos autuados, para garantia da ordem pública, quer para evitar a reiteração criminosa, quer para resgatar a estabilidade social, que, em casos como o presente, resta severamente comprometida, bem como para prover o regular desenvolvimento da persecução penal.
+Dessa forma, com fundamento no artigo 312 do Código de Processo Penal, converto as prisões em flagrante de DIEGO FRANCISCO DE CAMPO GUIMARAES e VITORIA CAROLINE FRANCIOSO, em prisões preventivas. (e-STJ, fls. 26-28)
+O Juiz sentenciante manteve a segregação provisória, conforme se transcreve:
+Mantenho a prisão preventiva anteriormente decretada, já que presentes as circunstâncias autorizadoras do artigo 312 do Código de Processo Penal, em especial a consubstanciada na garantia da ordem pública, com maior razão nesta fase, quando já sentenciado o feito. (e-STJ, fl. 49)
+O Tribunal de origem denegou a ordem sob os seguintes fundamentos:
+Como expõe RENATO BRASILEIRO DE LIMA, "se o acusado encontra-se preso preventivamente por ocasião da sentença condenatória recorrível, significa dizer que o juiz entende que há motivos que autorizam sua prisão cautelar (CPP, art. 312).
+Portanto, não faz sentido que coloque o acusado em liberdade".
+Desta forma o fato de ser indeferido na r. sentença o direito de recorrer em liberdade, decerto reiterando a decisão anterior, não é caso de ausência de fundamentação.
+Estão presentes as circunstâncias ensejadoras da prisão preventiva.
+No caso concreto, a grande quantidade de droga apreendida (330g de crack), os apetrechos destinados à preparação da droga localizados no interior da residência, tais como balança, embalagem para droga; dinheiro;
+as denúncias da prática de tráfico no local; a associação para o tráfico; indicam a profissionalização do negócio, o que coloca em risco a saúde pública, demonstrando maior periculosidade do agente, visto o maior ataque ao bem jurídico saúde pública, justificando a prisão cautelar para garantia da ordem pública.
+ ..
+O paciente demonstrou na prática do crime equiparado a hediondo, tráfico ilícito, alta reprovabilidade e periculosidade, visto a quantidade e a natureza dos entorpecentes apreendidos. Nos termos do artigo 42 da Lei 11.343/06 deve ser considerada a natureza da droga. Em face do bem jurídico protegido, aliado ao mencionado dispositivo legal, quanto maior a capacidade de viciar da droga, em abstrato, maior a reprovabilidade. No caso, a droga apreendida foi cocaína na forma de crack, o que indica maior reprovabilidade, posto que tal entorpecente tem grande capacidade de viciar, como é notório e visto em toda a mídia, sendo que pode viciar no primeiro uso.
+Observo que foi apreendida grande quantidade de entorpecente.
+Sendo o crime de perigo contra a saúde pública, fica claro que tal quantidade poderia facilmente alcançar um enorme número de pessoas, circunstância que importa em maior reprovabilidade da conduta.
+ ..
+Neste ponto, vê-se que o réu é reincidente (folhas 38) e possui condenação com trânsito em julgado por roubo qualificado.
+Assim, mostra-se necessária a segregação cautelar do paciente para a garantia da ordem pública, tendo em vista a sua periculosidade, evidenciada por sua personalidade delitiva.
+ ..
+Ante o exposto, indefere-se o processamento da ação de habeas corpus, em consonância com a regra do artigo 248 do Regimento Interno desta Corte de Justiça c.c. o artigo 663 do Código de Processo Penal. (e-STJ, fls. 15-21)
+Conforme preconiza o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+Na hipótese, observa-se que o Juízo sentenciante negou ao paciente o apelo em liberdade, por concluir ainda estarem presentes os requisitos que ensejaram a decretação da prisão preventiva, decretada para assegurar a ordem pública, haja vista a gravidade concreta da conduta delitiva, a apreensão de 330g de crack, além de balança de precisão, embalagem para droga e dinheiro em espécie.
+No mesmo sentido:
+" ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..
+Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA.
+FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Ademais, a constrição cautelar também encontra motivação na reiterada conduta delitiva do agente, uma vez que ele registra condenação transitada em julgado por roubo qualificado e voltou a praticar novo delito, desta vez, de tráfico de drogas.
+Segundo jurisprudência desta Corte, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art.
+312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO.
+DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de droga apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, visto que, cerca de trinta dias após haver sido beneficiado com a concessão de liberdade provisória, o acusado foi novamente preso em flagrante, pela suposta prática de delito de mesma natureza, e já registra condenação criminal na ação penal relativa a tais fatos, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal). 4. Denegada a ordem." (HC 511.692/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019).
+Nesse passo, é inviável a substituição da segregação provisória por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017).
+Por fim, destaque-se que o argumento de desproporcionalidade da custódia cautelar à provável futura pena do acusado não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se aquele será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual. Nessa linha: RHC 94.204/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/4/2018, DJe 16/4/2018; e RHC 91.635/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018."(e-STJ, fls. 120-124)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
