@@ -1,0 +1,6 @@
+DECISÃO
+MARIO MORAES PEREIRAalega sofrer constrangimento ilegal em face de decisão proferida por Desembargador do Tribunal de Justiça do Estado da Bahia, que indeferiu a liminar no HC n. 8038202-60.2021.8.05.0000.
+De plano, observo que owritnão foi instruído com cópia do extrato de movimentação processual do auto de prisão em flagrante ou de outro documento que permita concluir pela ausência de apreciação, até a presente data, da situação prisional do réu pelo Juízo de primeiro grau - tese suscitada na impetração.
+Ação constitucional de natureza mandamental, o habeas corpus tem comoescopo precípuo afastar eventual ameaça ao direito de ir e vir, cujanatureza urgente exige prova pré-constituída das alegações, nãocomportando dilação probatória. É cogente ao impetrante, sobretudo quandose tratar de advogado constituído, apresentar elementos documentaissuficientes para se permitir a aferição da alegada existência deconstrangimento ilegal no ato atacado na impetração, iniciativa que não sedesincumbiu o impetrante. Nessa diretriz, confiram-se: RHC n. 153.889/MS(Rel. Ministra Laurita Vaz, 6ª T., DJe 25/10/2021) eHC n. 555.157/RS(Rel. Ministro Leopoldo de Arruda Raposo(Desembargador convocado do TJ/PE), 5ª T., DJe 28/2/2020).
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
