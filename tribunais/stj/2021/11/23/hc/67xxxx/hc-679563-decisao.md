@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de CUSTODIO BOMFIM DE SOUZA, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA no julgamento do HC n. 8024712-05.2020.805.0000.
+Extrai-se dos autos que Juízo de primeiro grau decretou a prisão preventiva do paciente em 26/6/2014 por ter supostamente praticado o delito tipificado no art. 121, § 2º, incisos II e IV, do Código Penal do Código Penal (homicídio qualificado). O mandado foi cumprido em 12/9/2018 e a custódia mantida por ocasião da sentença de pronúncia.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, II E IV, DOCÓDIGO PENAL). ALEGATIVA DE FAVORABILIDADE DAS CONDIÇÕES PESSOAIS. NÃO CONHECIMENTO. MATÉRIA JÁ EXAMINADA POR ESTA CORTE NO HABEAS CORPUS SOB Nº 00012228-07.2014.8.05.0000 E RECURSO EM SENTIDO ESTRITO SOB Nº 0000633-03.2014.8.05.0035. MERA REITERAÇÃO. ALEGAÇÃO DE QUE O PACIENTE FORA ACONSELHADO PELO SEU ADVOGADO À ÉPOCA A NÃO SE APRESENTAR À JUSTIÇA. IDONEIDADE DO DECRETO CONSTRITOR, PRESENÇA DOS PRESSUPOSTOS E REQUISITOS AUTORIZADORES DA CUSTÓDIA PREVENTIVA E NECESSIDADE DA SEGREGAÇÃO QUE JÁ FORAM REFERENDADOS POR ESTE TRIBUNAL DE JUSTIÇA NO BOJO DOS HABEAS CORPUS00012228-07.2014.8.05.0000 E 0001267-02.2017.8.05.0000,ALÉM DO RECURSO EM SENTIDO ESTRITO SOB Nº0000633-03.2014.8.05.0035. ACONSELHAMENTO DE ADVOGADO QUE EMNADA AFASTA A PRESENÇA DOS REQUISITOS ENSEJADORES DA PRISÃO PREVENTIVA. ALEGATIVA DE POSSIBILIDADE DE APLICAÇÃODE MEDIDAS CAUTELARES DIVERSAS. INALBERGAMENTO. PRESENTES OS PRESSUPOSTOS E REQUISITOS AUTORIZADORES DA SEGREGAÇÃO, INVIÁVEL A SUBSTITUIÇÃO POSTULADA. ARGUIÇÃO DE EXCESSO DE PRAZO NA CUSTÓDIA. INACOLHIMENTO. PACIENTE PRONUNCIADO. RECURSO EM SENTIDO ESTRITO INTERPOSTO JÁ JULGADO. AUTOS FÍSICOS. MEDIDAS DE CONTENÇÃO À COVID-19. NÃO CONFIGURADA DESÍDIA DO MAGISTRADOA QUO. ORDEM PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, DENEGADA"(fls. 74/75).
+No presentemandamus, alega excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por mais de três anos sem que o paciente tenha sido submetida a julgamento pelo Tribunal do Júri.Ressalta as condições pessoais favoráveis do paciente, bem como o maior risco suportado pela população carcerária em virtude da pandemia de Covid-19.
+Requer, assim, em liminar e no mérito, a expedição de alvará de soltura.
+Indeferido o pedido de liminar (fls. 102/103) e prestadas as informações solicitadas (fls. 107/151); o Ministério Público Federal opinou pela denegação da ordem com recomendação de celeridade (fls. 152/154).
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Isso porque das informações obtidas junto aosite do Tribunal estadual extrai-se a informação de que foi iniciado o julgamento pelo Tribunal do Júri em 18/11/2021, não havendo mais que se falar em excesso de prazo para sua realização.
+Desse modo, constata-se a perda superveniente do objeto destemandamus.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presentehabeas corpus.
+Publique-se.
+Intimem-se.
