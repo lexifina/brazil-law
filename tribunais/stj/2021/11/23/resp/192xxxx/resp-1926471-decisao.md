@@ -1,0 +1,63 @@
+DECISÃO
+FABIO BRUNO CALABRARO (BRUNO) ajuizou ação declaratória contra BV FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO (BV FINANCEIRA), em virtude da cobrança abusiva e indevida de tarifas bancárias.
+Em primeira instância, o pedido foi julgado improcedente, extinguindo o feito, com resolução de mérito, nos termos do artigo 487, I, do NCPC. FABIO foi condenado no pagamento de custas, despesas processuais e honorários advocatícios que foram fixados, em R$ 700,00 (setecentos reais).
+O Tribunal de Justiça de São Paulo deu parcial provimento ao recurso interposto por FABIO em acórdão da relatoria do Desembargador RAMON MATEO JUNIOR, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. Contrato de financiamento de veículo. Sentença de improcedência. Pleito recursal. Juros Remuneratórios. Contrato com taxa predeterminada, a qual não pode ser considerada abusiva e deve ser mantida. Capitalização Mensal dos juros permitida. Orientação do STJ no julgamento de REsp interposto sob o rito repetitivo. Constitucionalidade da MP 2.170-36/01, que continua em vigor por força do disposto no art. 2º da Emenda Constitucional nº 32, de 11/09/2001. Tabela Price. Insurgência contra a sua aplicação, ante dissonância de valores consoante o método GAUSS. Descabimento. Licitude na sua aplicação que prevê o pagamento dos juros na parcela mensal, não havendo, com sua aplicação, capitalização de juros. Tarifa de cadastro. Validade. A cláusula estipuladora da cobrança da Tarifa de Cadastro é válida nos contratos celebrados a partir da vigência da Resolução n. 3.518/2007 do CMN, que revogou a Resolução n. 2.303/1996, com a ressalva de que referida tarifa somente pode ser objeto de cobrança no início do relacionamento. Tarifa de avaliação de bem. Ausência de laudo de vistoria. Não comprovação da prestação do serviço. Valor que deve ser restituído ao autor, de forma simples. Tarifa de registro do contrato. Validade. Comprovação. Seguro prestamista. Inocorrência de abusividade, por ser benéfica ao próprio consumidor. Comprovação da contratação. IOF. Responsabilidade daquele que toma o crédito, não havendo que se falar em irregularidade do pactuado em virtude de sua inclusão no valor financiado. Plano de Capitalização de Parcela Premiável. Adesão comprovada. Sucumbência mantida. Sentença parcialmente reformada. APELO PARCIALMENTE PROVIDO (e-STJ, fl. 211).
+Os embargos de declaração opostos pela BV FINANCEIRA foram acolhidos com efeitos infringentes (e-STJ, fls. 267/269).
+No recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, FABIO alegou ofensa aos arts. 39, 46, 49 e 51, do CDC,ao sustentar que as tarifas cobradas pela instituição financeira no contrato devem ser declaradas ilegais e excluídos da cobrança; e a empresa realizou uma venda casada pois inseriu vários produtos na operação de crédito.
+Após apresentadas as contrarrazões, o recurso foi admitido na origem (e-STJ, fls. 273/276 e 277/279).
+É o relatório.
+DECIDO.
+O presente recurso não comporta provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Das tarifas cobradas pela instituição financeira.
+FABIO sustentou queas tarifas cobradas pela instituição financeira no contrato devem ser declaradas ilegais e excluídos da cobrança e que a empresa realizou uma venda casada pois inseriu vários produtos na operação de crédito.
+A Corte estadual, quanto ao tema, assim se pronunciou:
+TARIFA DE CADASTRO
+Houve a cobrança do valor de R$659,00 a título de Tarifa Cadastro.
+No que tange à tarifa de cadastro, importante observar que no julgamento do Recurso Especial nº 1.251.331/RS em 28.08.2013, foram fixados os seguintes entendimentos:
+ ..
+Na hipótese, o contrato em questão foi firmado no mês de fevereiro de 2018, inexistindo comprovação de que a relação negocial entre as partes tenha se iniciado antes do contrato objeto da ação.
+Nessa lente, legal a cobrança, considerado o valor cobrado (que não chega a 3% do valor do financiamento) em cotejo com o valor do financiamento realizado, não havendo que se falar em onerosidade excessiva, devendo ser mantido.
+TARIFA DE AVALIAÇÃO DE BEM
+Constata-se a cobrança da monta de R$435,00 a título de tarifa de avaliação de bem.
+ ..
+Nos autos em testilha, somente se verifica a pesquisa de débitos e restrições de veículos de terceiros (fl.94), não se constatando a realização da avaliação técnica do bem de modo a justificar a sua cobrança, eis que a instituição financeira ré (apelada) não juntou aos autos o necessário laudo de vistoria comprovando a efetiva prestação do serviço, não se mostrando válida a cobrança, de modo que o autor deve ser ressarcido desse valor.
+TARIFA DE REGISTRO DE CONTRATO
+Constata-se o adimplemento de R$121,65 como tarifa de registro de contrato.
+No que pertine à tarifa de registro de contrato se impõe a observação do julgamento do Tema 958 pelo C. STJ, que tem por objeto as aludidas tarifas cobradas no contrato firmado entre as partes.
+Ilustra-se:
+Tema 958 - REsp 1.578.553/SP:
+"2. TESES FIXADAS PARA OS FINS DO ART. 1.040 DO CPC/2015:
+2.1. Abusividade da cláusula que prevê a cobrança de ressarcimento de serviços prestados por terceiros, sem a especificação do serviço a ser efetivamente prestado;
+2.2. Abusividade da cláusula que prevê o ressarcimento pelo consumidor da comissão do correspondente bancário, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva;
+2.3. Validade da tarifa de avaliação do bem dado emgarantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a:
+2.3.1. abusividade da cobrança por serviço não efetivamente prestado; e a
+2.3.2. possibilidade de controle da onerosidade excessiva, em cada caso concreto."
+ ..
+Com efeito, ainda que prevista, a tarifa de registro do contrato só é admissível se expressamente estipulada e se houver prova da efetiva prestação dos serviços, sob pena de afronta aos artigos 6º, III, e 52, ambos do Código de Defesa do Consumidor, que prevê o direito à informação adequada sobre os acréscimos do financiamento.
+Vê-se, pois, que tal tarifa foi ajustada entre as partes no ato da contratação, conforme consta do contrato de fl.87 no item 5.5, sendo que a instituição bancária prestou o serviço através do registro do gravame junto ao órgão de trânsito (fl.93).
+Sendo assim, restou demonstrada, mediante documentos, a efetiva prestação do serviço cobrado, não havendo que se falar em ilegalidade da cobrança da tarifa de registro do contrato.
+SEGURO PRESTAMISTA
+Nota-se o adimplemento de R$979,00 a título de seguro prestamista.
+No que pertine à cobrança de seguro de proteção financeira, verifica-se a sua previsão no art. 1º, §2º da Resolução BACEN nº 3.517/2007 e compõe o custo efetivo total da operação.
+ ..
+Insta salientar que a 2ª Seção do Colendo Superior Tribunal de Justiça, ao julgar o Recurso Especial Repetitivo nº 1.639.320/ SP (Tema nº 972), relatado pelo Ministro Paulo de Tarso Sanseverino, fixou as seguintes teses para os efeitos do art. 1.040 do CPC/2015:
+RECURSO ESPECIAL REPETITIVO. TEMA 972/STJ. DIREITO BANCÁRIO. DESPESA DE PRÉ-GRAVAME. VALIDADE NOS CONTRATOS CELEBRADOS ATÉ 25/02/2011. SEGURO DE PROTEÇÃO FINANCEIRA. VENDA CASADA. RESTRIÇÃO À ESCOLHA DA SEGURADORA. ANALOGIA COM O ENTENDIMENTO DA SÚMULA 473/STJ. DESCARACTERIZAÇÃO DA MORA. NÃO OCORRÊNCIA. ENCARGOS ACESSÓRIOS. 1. DELIMITAÇÃO DA CONTROVÉRSIA: Contratos bancários celebrados a partir de 30/04/2008, com instituições financeiras ou equiparadas, seja diretamente, seja por intermédio de correspondente bancário, no âmbito das relações de consumo. 2. TESES FIXADAS PARA OS FINS DO ART. 1.040 DO CPC/2015: 2.1 - Abusividade da cláusula que prevê o ressarcimento pelo consumidor da despesa com o registro do pré-gravame, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula pactuada no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva. 2.2 - Nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada. 2.3 A abusividade de encargos acessórios do contrato não descaracteriza a mora. 3. CASO CONCRETO. 3.1. Aplicação da tese 2.3 ao caso concreto, mantendo-se a procedência da ação de reintegração de posse do bem arrendado. 4. RECURSO ESPECIAL DESPROVIDO (STJ SEGUNDA SEÇÃO, REsp 1639320/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, j.12.12.2018, DJe 17.12.2018) (nosso grifo).
+Considerando a natureza da prestação creditícia, importa reconhecer a possibilidade do estabelecimento de pactos acessórios (no caso dos autos, a estipulação de seguro), que pode ser oferecido pela própria instituição financeira contratada (ou mesmo por outras), objetivando justamente aumentar as garantias e diminuir os riscos do contrato, de modo que a tarifa de seguro serve para aumentar as garantias e visa diminuir os riscos do negócio para ambas as partes, não se podendo invocar originariamente como abusiva, devendo ser reconhecida como uma mera premissa da transação comercial (do mesmo modo que outras garantias, reais ou fidejussórias), ou seja, a simples exigência de garantia (contratação de seguro) pode ser imposta ao consumidor como cláusula contratual, desde que se lhe conceda a faculdade de escolher a seguradora (não havendo imposição).
+Nos autos em testilha se verifica a comprovação da contratação de seguro aceita e assinada pela parte autora (fl.92) (e-STJ, fls. 218/223).
+Nos embargos de declaração o Tribunal consignou:
+No mérito, tem razão a embargante.
+Nos autos em testilha, a embargante comprovou a realização da avaliação técnica do bem, a justificar a cobrança (fl..75).
+Nessa lente, aclara-se o v. acórdão, com efeito infringente, para negar provimento ao apelo, mantendo-se o ônus sucumbencial tal como lançado, restando condenado o autor (embargado) ao pagamento da integralidade das custas e despesas processuais, bem como, dos honorários advocatícios do patrono da instituição financeira ré, arbitrados em R$700,00 por equidade, respeitado o disposto no artigo 98, §3º do Código de Processo Civil, ante a concessão dos benefícios da gratuidade de justiça.
+Ante o exposto, ACOLHEM-SE os embargos de declaração (e-STJ, fl. 269).
+Observa-se, portanto, que a controvérsia dos autos foi julgada em conformidade com tese firmada pelo STJ nos Recursos Especiais Repetitivos nºs 1.251.331/RS, 1.578.553/SP e 1.639.320/SP.
+Desse modo, uma vez verificada a conformidade do acórdão recorrido com a jurisprudência do STJ, inafastável a incidência da Súmula 83/STJ, óbice aplicável tanto aos recursos interpostos pela alínea a como pela alínea c do permissivo constitucional.
+Ademais, afirmar que os valores cobrados a titulo de tarifa de cadastro, de registro de contrato, de avaliação do bem e o seguro prestamista são abusivos porque eles não teriam sido prestados exige desta Corte nova análise de contrato e incursão na seara fático-probatória, atividade, como já afirmado acima, obstadas nesta Corte com base nas súmulas nºs 5 e 7/STJ.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de FABIO, de R$ 700,00 (setecentos reais) para R$ 1.000,00 (mil reais), nos termos do art. 85, § 11 do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONSUMIDOR. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL. CONTRATO BANCÁRIO. FINANCIAMENTO DE VEÍCULO. ALIENAÇÃO FIDUCIÁRIA. TARIFA DE CADASTRO, DE REGISTRO DE CONTRATO, DE AVALIAÇÃO DO BEM E SEGURO PRESTAMISTA. JULGADO EM CONFORMIDADE COM PROCEDIMENTOS REPETITIVOS. RESP"S 1.251.331/RS, 1.578.553/SP E 1.639.320/SP. AUSÊNCIA DE ABUSIVIDADE. NECESSIDADE DE REVISÃO DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
