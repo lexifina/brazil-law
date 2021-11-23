@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALESSANDRO DESTROem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(Apelação n. 0035114-16.2007.8.26.0564).
+Em primeiro grau, o paciente foi condenado à pena de 18 anos de reclusão em regime inicial fechadocomo incurso nas sanções do art. 121, § 2º,I e III, c/c o art. 29, ambos do Código Penal.
+O Tribunal de origem negou provimento ao recurso de apelação interposto pela defesa e decretou a prisão preventiva do paciente.
+O decreto prisional fundou-se na gravidade concreta do delito, na participação em organização criminosa,nos maus antecedentes do paciente e na reincidência delitiva.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois a prisão preventiva foi decretada de ofício.
+Aduz que a custódia cautelar está sendo empregada como forma de antecipação de pena.
+Afirma que os requisitos necessários para a imposição da prisão preventiva não foram preenchidos.
+Requer a revogação da prisão preventiva.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 60-62, destaquei):
+A decretação da imediata custódia cautelar dos embargantes sefundamenta na necessidade de garantia da ordem pública e aplicação da lei penal.
+ ..
+Presentes, pois, os requisitos autorizadores da prisão preventiva, previstos no art. 312 e 313, do Código de Processo Penal, posto que os embargantes PAULO ROGÉRIO DIAS SILVA e ALESSANDRO DESTRO foram condenados por homicídio qualificado, integram a organização criminosa PCC Primeiro Comando da Capital e são possuidores de antecedentes criminais, demonstrando ter personalidade malformada e voltada à prática de crimes.
+Assim, in casu, a custódia dos embargantes decorre das circunstâncias concretas do caso, justificadoras da necessidade da segregação cautelar para garantia da ordem pública, tudo a revelar maior reprovabilidade da conduta, indicando ser necessário o encarceramento para manutenção da ordem pública, não havendo que se falar em desproporcionalidade da medida.
+Ademais, não é o caso de aplicação das medidas cautelares eis que conforme o artigo 282, §6º, do Código de Processo Penal, "a prisão preventiva será determinada quando não for cabível a sua substituição por outra medida cautelar (art. 319)."
+Presentes ao menos um dos requisitos do artigo 312,caput e art. 313, inciso I, ambos do Código de Processo Penal, o que faz com que a aplicação de medida cautelar diversa da prisão seja ineficaz ou inadequada, sendo caso de decreto da prisão preventiva, mormente quando se tratar de crimes dolosos punidos com pena privativa de liberdade superior a 04 (quatro)anos.
+ ..
+Dessa forma, cabível a prisão cautelar dos embargantes PAULOROGÉRIO DIAS SILVA e ALESSANDRO DESTRO antes do trânsito em julgado eis que presentes os requisitos dos arts. 312 e 313, do Código de Processo Penal.
+A exigência acima, em princípio, foi cumprida no acórdão impugnado, motivo pelo qual não há razão para o acolhimento dos pedidos.
+Note-se que, no presente caso, a gravidade concreta do delito, a participação em organização criminosa, a reincidência e os maus antecedentes do paciente foram considerados pelo Tribunal de origem para decretar a prisão preventiva.
+O entendimento acima está em consonância com a jurisprudência do STJ no sentido de que "a gravidade concreta do crime como fundamento para a decretação ou manutenção da prisão preventiva deve ser aferida, como no caso, a partir de dados colhidos da conduta delituosa praticada pelo agente, que revelem uma periculosidade acentuada a ensejar uma atuação do Estado cerceando sua liberdade para garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal" (HC n. 596.566/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/9/2020).
+Além disso, conforme orientação jurisprudencial do STJ, o suposto envolvimento do agente com organização criminosa revela sua periculosidade, o que justifica a prisão preventiva como forma de garantir a ordem pública (AgRg no RHC n. 128.253/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020; e AgRg no RHC n. 127.592/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 17/9/2020).
+Registra-se também que a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Por fim, no que diz respeito à decretação da prisão preventiva ex officio e à alegação de antecipação de pena, essasquestõesnão foramenfrentadas pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação.Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
