@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIMED GRANDE FLORIANÓPOLIS - COOPERATIVA DE TRABALHO MÉDICO, com respaldo nas alíneas"a"e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 255):
+CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. ADICIONAIS DEALÍQUOTA DESTINADOS AO SAT/RAT E TERCEIROS. AUXÍLIO-SAÚDE. INTERESSE DE AGIR. AUXÍLIO-ALIMENTAÇÃO. VALORESDESCONTADOS DOS EMPREGADOS A TÍTULO DE COPARTICIPAÇÃONOS PLANOS DE SAÚDE. TOTAL DAS REMUNERAÇÕES. VALORESBRUTOS.
+Nas razões do recurso especial, sustenta a recorrente, além de dissídio entre julgados,violação doart. 85, § 7º, do CPC/2015 e do art. 22, I, da Lei n. 8.212/1991.
+Defende, em resumo, que "não há dúvidas quanto à inexigibilidade dascontribuições previdenciárias, contribuições à terceiros, SAT eRAT sobre o pagamento de auxílio alimentação e auxílio saúde(médicos ou odontológicos), inclusive os valores descontadosà título de coparticipação dos planos de saúde" (e-STJ fl. 278).
+Contrarrazões às e-STJ fls. 289/293.
+Em juízo de admissibilidade, a Corte regional assim decidiu (e-STJ fl. 297): "não admito o recurso especial em relação à matéria relativa ao vale-alimentação e admito o recurso no tocante a discussão a respeito do vale transporte e auxílio saúde".
+Houve a interposição de agravo contra a decisão denegatória (e-STJ fls. 342/363).
+Em parecer conclusivo, o MPF opinou pelo não conhecimento do recursoespecial (e-STJ fls. 315/320).
+Passo a decidir.
+De início, vale ressaltar que apreciarei o recurso em relação ao pleito de insurgência contra acontribuição previdenciária sobre o auxílio saúde e sobre o vale-transporte, tendo em vista a admissãodo apelo nobrepela Corte regionaltão somente quanto a esses pontos. Não houve interposição de agravo pela recorrente, na parte inadmitida.
+Orecurso especial tem origem em mandado de segurançano qual objetivava a parte impetrante a declaração de inexigibilidade da incidência da contribuição previdenciária patronal sobre o desconto do vale-transporte,vale-alimentação/refeição, auxílio saúde e sobre os valores descontados à título de coparticipação dos planos de saúde.
+A sentença concedeu parcialmente a ordem,"para determinar àautoridade que se abstenha de exigir a contribuição previdenciária (cota patronal contribuição ao GILRAT e contribuição de terceiros) incidente sobre os valores pagos pela impetrante a seus empregados a título de auxílio-transporte e vale transporte" (e-STJ fl. 257).
+Em sede de apelação, a Corte regional deu provimento, em parte, ao apelo da Unimed, para o fim de afastar "a incidência da contribuição previdenciária apenas do auxílio-alimentação in natura (esteja ou não a empresa inscrita no PAT), integrando o salário-de-contribuição quando for pago em pecúnia" (e-STJ fl. 259).
+Pois bem.
+Preliminarmente, depreende-se que a irresignação referente ao auxílio-transporte foiconcedidapela sentença e mantidapela Corte regional, razão pela qual não há interesse processual da parte recorrente, quanto ao pormenor.
+Entretanto, no que diz com o pedido referente ao plano de saúde, o recurso merece êxito.
+O entendimento consagrado nesta Corte de Justiça firmou-se no sentido de quenão incide a exação tributária sobre a verba paga a título de plano de saúde. Confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE VERBAS PAGAS A TÍTULO DE SALÁRIO-MATERNIDADE, DE AVISO PRÉVIO INDENIZADO SOBRE O 13º SALÁRIO E DE FÉRIAS GOZADAS. PLANO DE SAÚDE. INCLUSÃO NA BASE DE CÁLCULO. EXPRESSA VEDAÇÃO DA LEI. AUSÊNCIA DE INTERESSE.
+ ..
+2. A Primeira Seção sedimentou a orientação de que a contribuição previdenciária incide sobre o salário-maternidade, o aviso prévio indenizado sobre o 13º salário e as férias gozadas. Precedentes.
+3. Prevista expressamente na lei a exclusão, da base de cálculo da contribuição previdenciária, das verbas relativas ao plano de saúde pagas a todos os empregados e não demonstrado o descumprimento de tal norma pelo fisco, ausente o interesse processual.
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no REsp 1.425.078/SP, de minha relatoria, PRIMEIRA TURMA, julgado em 12/09/2017, DJe 27/10/2017).
+TRIBUTÁRIO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE VÁRIAS VERBAS. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+I - Na origem, trata-se de ação ordinária em que se pretende declarar a inexistência de relação jurídico-tributária no que concerne ao recolhimento das contribuições previdenciárias, das contribuições ao RAT/SAT, das contribuições ao Sistema S, das contribuições ao INCRA e das contribuições ao salário-educação incidentes sobre a folha de salário, referente (i) às férias usufruídas e indenizadas, ao terço constitucional de férias e ao abono de férias; (ii) às horas-extras, aos adicionais noturnos, de insalubridade e periculosidade, quando não habituais; (iii) ao aviso prévio gozado e indenizado e ao valor da multa prevista no art. 477, § 8º, da CLT; (iv) à remuneração paga durante os primeiros 15 dias do auxílio-doença/acidente; (v) ao auxílio-maternidade, ao auxílio-creche e ao salário-família; (vi) às diárias para viagens, ao auxílio transporte, aos valores pagos pelo empregado para vestuário e equipamentos e à ajuda de custo em razão de mudança de sede; (vii) ao auxílio-educação, ao convênio de saúde e ao seguro de vida em grupo; e (viii) às folgas não gozadas, ao prêmio-pecúnia por dispensa incentivada e à licença-prêmio não gozada; ordenando, por conseguinte, que a Secretaria da Receita Federal do Brasil, em definitivo, abstenha-se de exigir da autora o recolhimento desse tributo.
+(..)
+XV - A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que não incide contribuição previdenciária, a cargo do empregador, sobre as verbas pagas a título de abono assiduidade, folgas não gozadas, auxílio-creche e convênio saúde. Precedentes: REsp n. 1.620.058/RS, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 16/3/2017, DJe 3/5/2017; REsp n. 1.660.784/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 18/5/2017, DJe 20/6/2017; AgRg no REsp n. 1.545.369/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 16/2/2016, DJe 24/2/2016. AgInt no REsp n. 1624354/RS, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 15/8/2017, DJe 21/8/2017.
+(..)
+XIX - Agravo interno parcialmente provido nos termos da fundamentação.
+(AgInt no REsp 1.602.619/SE, Rel.Ministro FRANCISCO FALCÃO,SEGUNDA TURMA, julgado em19/03/2019,DJe 26/03/2019).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PARCIAL PROVIMENTO ao recurso especial paradeclarar a inexigibilidade da incidência da contribuição previdenciária patronal e contribuição ao SAT/RAT sobre odescontodo plano de saúde e, em consequência, declarar odireito à compensação administrativa dos valores indevidamente pagos.
+Custas ex lege.
+Publique-se. Intimem-se.
