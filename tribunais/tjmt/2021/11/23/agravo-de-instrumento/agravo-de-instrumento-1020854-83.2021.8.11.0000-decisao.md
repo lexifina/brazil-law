@@ -1,0 +1,18 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto pelo THALES ROBERTO BASSO MAMEDE, com o fito de suspender a decisão que, nos autos do Cumprimento de Sentença de n. 1011082-73.2021.8.11.0040, ajuizada em face de PBAGRO LOGÍSTICA E INSUMOS LTDA, determinou a emenda da inicial para que o agravante encarte aos autos os documentos indispensáveis à propositura da demanda, dentre eles a cópia do título executivo e a certidão de trânsito em julgado da sentença.
+Para tanto, o agravante alega ser desnecessária a juntada dos documentos mencionados pelo magistrado singular, tendo em conta que o título executivo judicial é oriundo de sentença prolatada nos Embargos de Terceiro de n. 1001987-19.2021.8.11.0040, que tramitam de forma eletrônica.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Na espécie, sem maiores esforços, verifica-se que foram demonstrados os requisitos da liminar recursal pretendida.
+É que o processo de onde se originou o título executivo judicial tramita de forma eletrônica, de forma que os documentos exigidos pelo juízo de base podem ser facilmente acessados pelo PJE.
+A propósito:
+“APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - DETERMINAÇÃO DE JUNTADA DE CÓPIAS DE PEÇAS DA EXECUÇÃO - NÃO ATENDIMENTO - EXTINÇÃO DO FEITO - IMPOSSIBILIDADE - AUTOS ELETRÔNICOS - DESNECESSIDADE - SENTENÇA CASSADA. Em se tratando de autos eletrônicos, sabe-se que é possível acessar os documentos da execução embargada por meio do próprio Processo Judicial Eletrônico - PJE, sendo, portanto, descabida a exigência de tais cópias. Uma vez constatada a desnecessidade da emenda da petição inicial nos moldes determinados pelo Juízo a quo, com a juntada de cópias de peças processuais relevantes da execução, deve a sentença ser cassada, determinando-se o retorno dos autos à instância de origem para seu regular processamento.” (TJ-MG - AC: 10000211046750001 MG, Relator: Adriano de Mesquita Carneiro, Data de Julgamento: 14/07/2021, Câmaras Cíveis / 11a CÂMARA CÍVEL, Data de Publicação: 14/07/2021)
+Além disso, de acordo com a decisão recorrida, o magistrado singular determinou a emenda da inicial no prazo de 15 (quinze) dias, sob pena de indeferimento da inicial e consequente extinção do feito.
+Assim, faz-se prudente a concessão da liminar de efeito suspensivo, para que, até o exame do mérito do recurso, não sejam causados danos irremediáveis ao agravante.
+Ante o exposto, CONCEDO a liminar para suspender os efeitos da decisão de base que determinou a emenda da inicial.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
