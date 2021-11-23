@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por METALLON - INDUSTRIA E COMERCIO DE ESTRUTURAS METALICAS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+EXECUÇÃO FISCAL. ICMS. EMBARGOS. AJUIZADA EM MARÇO DE 2017. PESSOA JURÍDICA. DIFICULDADES FINANCEIRAS. RECOLHIMENTO DO PREPARO DIFERIDO. DÍVIDA ATIVA QUE GOZA DE LIQUIDEZ E CERTEZA. CDA QUE PREENCHE OS REQUISITOS LEGAIS. ENCARGOS DEVIDOS EM RAZÃO DA MORA QUE NÃO COMPROMETEM A LIQUIDEZ DO TÍTULO PORQUE APURÁVEIS MEDIANTE SIMPLES CÁLCULO ARITMÉTICO. SEM NECESSIDADE DE MEMÓRIA DISCRIMINADA DE CÁLCULO. DISPENSÁVEL QUALQUER PROCEDIMENTO ADMINISTRATIVO OU NOTIFICAÇÃO PARA IMPUGNAÇÃO OU DEFESA PARA A CONSTITUIÇÃO DO CRÉDITO. DEVER DO CONTRIBUINTE DE ANTECIPAR O PAGAMENTO, SEM PRÉVIO EXAME DA AUTORIDADE. CÓDIGO TRIBUTÁRIO NACIONAL, ARTIGO 150. INCIDÊNCIA DOS ENCARGOS DA MORA QUE NÃO EXIGE MÁ FÉ DO CONTRIBUINTE. MULTA, DE VINTE POR CENTO DO VALOR DO IMPOSTO DEVIDO, SEM EFEITO CONFISCATÓRIO OU MOTIVO DE REDUÇÃO. RECURSO NÃO PROVIDO, COM MAJORAÇÃO DOS HORÁRIOS ADVOCATÍCIOS, PELO TRABALHO E SUCUMBÊNCIA EM GRAU DE RECURSO, DE DEZ PARA QUINZE POR CENTO DO VALOR ATUALIZADO DA CAUSA.
+Alega violação do art. 2º, §§ 5º, inciso II, e 6º, da Lei n. 6.830/1980, no que concerne à ocorrência de vícios na certidão de dívida ativa, devendo a mesma ser anulada, trazendo os seguintes argumentos:
+15. O Tribunal de origem afastou a nulidade das Certidões de Dívida Ativa que instruem a Execução Fiscal, sob o seguinte fundamento:
+(..). O título contém todos os elementos sobre a composição do débito, como origem, fundamentos, índice, taxa e termos iniciais da correção monetária e dos juros de mora, cada qual em campo específico, apuráveis por simples cálculo aritmético (..).
+Havendo, pois, identificação do sujeito passivo, dos valores devidos, do fato gerador, das leis incidentes na espécie e achando-se presentes todos os dados necessários à validade do título executivo, são infundadas as impugnações da Embargante.
+A certidão do termo de inscrição na dívida ativa, autenticado pela autoridade competente, constitui título apto à execução fiscal, com incidência dos encargos da mora não condicionada a má-fé do contribuinte. (..).
+16. Ora, nos termos do artigo 2º, § 5º, inciso II, e § 6º, da Lei n.º 6.830/1980:
+Art. 2º - Constitui Dívida Ativa da Fazenda Pública aquela definida como tributária ou não tributária na Lei n.º 4.320/1964, (..).
+§ 5º - O Termo de Inscrição de Dívida Ativa deverá conter:
+II - o valor originário da dívida, bem como o termo inicial e a forma de calcular os juros de mora e demais encargos previstos (..);
+§ 6º - A Certidão de Dívida Ativa conterá os mesmos elementos do Termo de Inscrição e será autenticada pela autoridade competente.
+17. Assim, a Certidão de Dívida Ativa que instrui a Execução Fiscal deve mencionar, com precisão, a forma de calcular os Juros de Mora e demais encargos, mais especificamente quais são os índices praticados por período para fins de atualização do débito fiscal e correção monetária, por exemplo, até mesmo para que o contribuinte possa efetivamente exercer o direito de defesa.
+18. Veja-se que, na Petição Inicial, sequer há indicação de quais são os valores cobrados a título de "Correção", "Juros de Mora do Principal" e Multa de Mora, sendo que constam como "0,00".
+19. Trata-se de requisito essencial de exequibilidade do crédito tributário estabelecido pela legislação.
+20. No julgamento do Agravo Regimental no Agravo em Recurso Especial n.º 625.133 - MG, decidiu o Superior Tribunal de Justiça:
+ ..
+23. Ocorre que, na hipótese vertente, nos títulos executivos, não está detalhada, com precisão, a forma de calcular os Juros de Mora e demais encargos, mais especificamente quais são os índices praticados por período para fins de atualização do débito fiscal e correção monetária.
+24. A RECORRENTE sequer pode conferir se os valores pretendidos pela RECORRIDA estão corretos, o que não pode ser admitido.
+25. Pois bem.
+26. Indaga-se: nos termos do artigo 2º, § 5º, inciso II, e § 6º, da Lei n.º 6.830/1980, a Certidão de Dívida Ativa tributária deve indicar precisamente a forma de atualização do débito fiscal ou basta o mero apontamento do fundamento legal
+27. De acordo com a mais adequada interpretação da legislação, não basta o mero apontamento do fundamento legal. A Certidão de Dívida Ativa que instrui a Execução Fiscal deve indicar precisamente a forma de atualização do débito fiscal, por exemplo.
+28. Desta forma, resta patente que a matéria é de direito, pois decorre exclusivamente da interpretação da lei.
+29. Portanto, considerando a nulidade das Certidões de Dívida Ativa que instruem a Execução Fiscal em contrariedade ao artigo 2º, § 5º, inciso II, e § 6º, da Lei n.º 6.830/1980, de rigor a reforma do v. acórdão recorrido (fls. 167-170).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O título contém todos os elementos sobre a composição do débito, como origem, fundamentos, índice, taxa e termos iniciais da correção monetária e dos juros de mora, cada qual em campo específico, apuráveis por simples cálculo aritmético, por isso não se exigindo memória discriminada do valor atualizado do débito.
+Havendo, pois, identificação do sujeito passivo, dos valores devidos, do fato gerador, das leis incidentes na espécie e achando-se presentes todos os dados necessários à validade do título executivo, são infundadas as impugnações da embargante (fl. 157).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
