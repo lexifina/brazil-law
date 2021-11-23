@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+LUCAS SANTOS BATISTA opõe embargos de declaração ao acórdão de fls. 451-453, proferido por esta colenda Sexta Turma, que ficou assim ementado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há como aplicar a minorante prevista no § 4º do art. 33 da Lei n.11.343/2006 quando verificado que as instâncias de origem - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos que evidenciam a dedicação do acusado a atividades criminosas.
+2. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+3. Agravo regimental não provido.
+A defesa alega que o acórdão embargado foi omisso, porquanto deixou de analisar a tese de que o afastamento da minorante em razão daquantidade e a natureza da droga apreendida "somente pode ocorrer quando conjugada com outras circunstâncias, que juntas, caracteriza, dedicação do agente a atividade criminosa"(fl. 459).
+Requer, assim, o acolhimento dos embargos, com a atribuição de efeitos infringentes ao julgado, para que seja sanado o vício apontado e, por conseguinte, seja aplicada a minorante prevista no § 4º do art. 33 da Lei de Drogas.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. OMISSÃO. AUSÊNCIA. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+2. O acórdão embargado não foi omisso, porquanto analisou, de maneira clara e devidamente fundamentada, os motivos pelos quais não haveria como ser aplicado, em favor do réu, o redutor previsto no § 4º do art. 33 da Lei de Drogas.
+3. Embargos de declaração rejeitados.
+VOTO
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+No caso, em que pesem os argumentos despendidos pela defesa, verifico que o acórdão embargado não foi omisso. Isso porque analisou, de maneira clara e devidamente fundamentada, os motivos pelos quais não haveria como ser aplicado, em favor do réu, o redutor previsto no § 4º do art. 33 da Lei de Drogas.
+Ademais, ressalto que, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que a utilização supletiva dos elementos relativos à natureza e à quantidade de drogas apreendidas, na terceira fase da dosimetria, para fins de afastamento do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa, tal como ocorreu no caso dos autos.
+Isso porque, na espécie, não foi apenas a elevada quantidade de drogas apreendidas que levou as instâncias ordinárias à conclusão de que o réu seria dedicado a atividades criminosas. Ao contrário, foi também a apreensão de apetrechos comumente utilizados na pratica delitiva, comobalança de precisão.
+Ressalto, por oportuno, que o órgão julgador não está obrigado a apreciar cada um dos múltiplos argumentos deduzidos pela parte, quando já tenha encontrado motivo suficiente para proferir a decisão, tal como ocorreu no caso.
+Assim, o que se percebe é que a defesa pretende, na verdade, que prevaleça a tese por ela defendida, no afã de reagitar questão de direito já dirimida, à exaustão, pela Turma julgadora, com nítida pretensão de inversão do resultado final, o que, por óbvio, não se coaduna com a via dos embargos de declaração.
+À vista do exposto, rejeito os embargos de declaração.
