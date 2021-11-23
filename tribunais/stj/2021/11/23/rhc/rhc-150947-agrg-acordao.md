@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CLEVERTON SANTOS NUNES agrava da decisão de fls. 157-158, em que neguei provimento ao recurso em habeas corpus, dada a presença dos requisitos legais para imposição da prisão preventiva.
+Para tanto, assere que "a Folha de Antecedentes Criminais, acostada aos autos às fls. 76, o Recorrente é primário e portador de bons antecedentes, inexistindo, em seu desprol, quaisquer registros criminais com ou sem trânsito em julgadoo" (fl. 169).
+Salienta, ainda, que " o  MM Juiz de primeiro grau fundamentou sua decisão de maneira genérica, destacando tão somente a quantidade da drogae a forma de acondicionamento, qual seja: 1 quilo e 350 gramas de "Skank" (maconha em alta concentração)" (fl. 171).
+Requer, assim, "a reconsideração da r. decisão monocrática. Caso entenda de modo diverso, que apresente o feito em mesa de julgamento para apreciação pela e. Sexta Turma, a fim de que seja concedida ao Agravante a liberdade provisória, cumulada ou não com medidas cautelares diversas da prisão" (fl. 187).
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. FUNDAMENTAÇÃO SUFICIENTE. GRAVIDADE DA CONDUTA DELITIVA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial o risco à ordem pública, dada a gravidade em concreto da conduta delitiva, porquanto foi o paciente flagrado durante o transporte de relevante quantidade de entorpecente - a saber, quase um quilo e meio de maconha - para outro estado da federação.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já apontado na decisão vergastada, depreende-se dos autos que "o paciente, juntamente com a pessoa de Carolina Creviane Ramos, foi preso em flagrante, no dia 04 de maio de 2021, por suposta prática do delito previsto no artigo 33, caput, c/c art. 40, inciso V, ambos da Lei n. 11.343/06" (fl. 93).
+Consoante apontado pelo Parquet, " n o presente recurso, alega-se constrangimento ilegal frente a ausência de fundamentos para manutenção da prisão preventiva, o que infringe o princípio da não culpabilidade. Requer, portanto, a expedição do alvará de soltura em favor da recorrente" (fl. 154).
+No que tange ao decreto preventivo, apontou o Juízo singular que " a  periculosidade do conduzido advém das próprias circunstâncias em concreto da prática delitiva a ela imputada, tendo havido apreensão com ela de 1,350kg (um quilo, trezentos e cinquenta gramas). A natureza da droga - skunk a quantidade, a forma de acondicionamento e as circunstâncias do fato autorizam, em análise inicial, a custódia do requerente, como incurso no artigo 33 da Lei n. 11.343, de 2006" (fl. 20, grifei).
+A Corte de origem, por sua vez, apontou que "o decreto prisional está fundamentado na gravidade acentuada da conduta criminosa em apuração, haja vista que, segundo consta dos autos de inquérito, o paciente foi flagrado, supostamente, transportando 1,350 kg (um quilo e trezentos e cinquenta gramas) de "skank", em compartimento oculto do veículo, bem como, 02 (duas) trouxinhas de maconha, pesando 3g (três gramas), sendo que o destino final do entorpecente seria outro Estado da Federação, conforme o auto investigativo" (fl. 98, grifei).
+A esse respeito, a jurisprudência desta Corte Superior é firme ao asseverar que " n ão é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos delituosos, cifrada na significativa quantidade de substância entorpecente apreendida" (RHC n. 93.740/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 12/3/2018, destaquei).
+Nesse sentido:
+ ..
+4. A prisão preventiva encontra-se suficientemente justificada na necessidade de garantia da ordem pública, considerada a gravidade concreta do crime imputado, uma vez que foram apreendidos dois tijolos de maconha, com peso de 1,6kg (um quilo e seiscentos gramas), além de R$ 535,00 (quinhentos e trinta e cinco) em dinheiro  ..  (AgRg no HC n. 692.502/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/9/2021, grifei).
+À vista do exposto, nego provimento ao recurso.
