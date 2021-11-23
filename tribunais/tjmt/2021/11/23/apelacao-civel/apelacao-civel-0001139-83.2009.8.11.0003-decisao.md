@@ -1,0 +1,19 @@
+DECISÃO DO RELATOR.
+Ementa.
+APELAÇÃO CÍVEL – AÇÃO DIRIGIDA CONTRA PARTICULAR E O ESTADO DE MATO GROSSO – ILEGITIMIDADE PASSIVA DO ENTE PÚBLICO DECLARADO NA SENTENÇA – RECURSO PRETENDENDO SUA REINCLUSÃO – AUSÊNCIA DE JULGAMENTO DEFINITIVO – COMPETÊNCIA DA CÂMARA DE DIREITO PÚBLICO – AUSÊNCIA DE ANÁLISE – REMESSA DOS AUTOS AO RELATOR PARA DIRIMIR ESTA SITUAÇÃO.
+(1)- Não se nega que, por força de sentença de primeiro grau, excluído o ente público do polo passivo da lide da ação indenizatória, a questão travada passou a ser tão somente de cunho particular e, neste contexto, a competência é das Câmaras de Direito Privado para processar o recurso de apelação.
+(2)- Contudo, se a exclusão do ente público é alvo de recurso da parte autora que, neste contexto, deseja, em grau recursal inclusão, a questão de ilegitimidade declarada na sentença ainda pende de apreciação. Desta forma, a competência se apresenta, para dirimir esta situação, da colenda Câmara de Direito Público, retorno dos autos para assim proceder.
+Relatório/Fundamentação/Decisão.
+Na origem, ação de indenização por perdas e danos promovidos por AMIR ELICEU ZEMOLIM em face de 3o TABELIONATO DE NOTAS DE TITULOS E DOCUMENTOS DA COMARCA DE RONDONÓPOLIS e O ESTADO DE MATO GROSSO, todos identificados nos autos. Alcançada a fase de sentença, o magistrado de piso que a subscreveu, fazendo suas razões de decidir, excluiu o ESTADO DE MATO GROSSO da lide e condenou o 3o TABELIONATO DE NOTAS DETITULOS E DOCUMENTOS DA COMARCA DE RONDONÓPOLIS ao pagamento do montante de R$ 45.139,00 (quarenta e cinco mil, cento e trinta e nove reais) a titulo de danos materiais e R$ 15.000,00 (quinze mil reais), a título de danos morais, com os acréscimos de estilo. (ID-12430451, fls.168/175).
+Compulsando os autos (ID-12430495, fls. 211/220) em que o AUTOR/APELANTE sustentou, discordando da sentença, entre outros tópicos, a necessidade de inclusão do ESTADO DE MATO GROSSO no polo passivo da lide.
+O feito, em grau recursal, o feito, inicialmente, foi distribuído ao eminente Desembargador JOSÉ ZUQUIM NOQUEIRA. Posteriormente, redistribuído ao douto magistrado convocado GILBERTO LOPES BUSSIKI, em despacho interlocutório, de fs. 247 (ID-12429977), declarou a incompetência deste Tribunal de Justiça e por consequência, a remessa dos autos para a TURMA RECURSAL DOS JUIZADOS ESPECIAIS cabendo a relatoria a Dra. VALDECI MORAES DE SIQUEIRA. Incontinente, esta, fazendo suas razões, remeteu os autos a este sodalício mato-grossense à consideração do eminente Relator Juiz Convocado GILBERTO LOPES BUSSIKI.
+Em sequência, a rigor do despacho consignado n ID-74817995, determinou a remessa destes autos para que o julgamento recursal fosse feito pelas Câmaras de Direito Privado, em face da exclusão do ESTADO DE MATO GROSSO do polo passivo da demanda.
+Pois bem.
+De rigor, deveria ser suscitado conflito de competência, se a questão estivesse perfeitamente resolvida a respeito da participação do ente publico nesta lide indenizatória.
+Mas, a rigor dos argumentos vertidos no despacho constante do ID-74817995, o douto magistrado a quem coube a distribuição, ao argumentar que a questão, em face da exclusão do ESTADO DE MATO GROSSO do pólo passivo da lide, a questão passou a ser tratada entre particulares.
+Realmente, está consignado na sentença proferida em primeiro grau de jurisdição. Entretanto, esta questão ainda não está consolidada em trânsito em julgado. Como afirmado linhas acima, o autor, fazendo suas razões, pretende, além da condenação já imposta ao Tabelião, a inclusão do ESTADO DE MATO GROSSO, o que, a rigor do despacho proferido pelo douto magistrado convocado, não foi observado.
+Com estes argumentos, determino a devoção dos autos ao douto magistrado GILBERTO LOPES BUSSIKI, para as providências necessárias.
+Ao DEJAUX, para os fins pertinentes.
+Cumpram-se;
+Des. Sebastião de Moraes Filho.
+(Relator).
