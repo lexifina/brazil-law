@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE JUNDIAI contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL IPTU E TAXA DE COLETA DE LIXO DOS EXERCÍCIOS DE 2013 A 2016 DECISÃO QUELIMITOU O POLO PASSIVO DA PRESENTE EXECUÇÃO A 5 EXECUTADOSCOM FUNDAMENTO NO §1 DO ARTIGO 113 NCPC PRETENSÃO À REFORMA DESACOLHIMENTO NÚMERO EXCESSIVO DE EXECUTADOSQUEINVIABILIZAA CELERIDADEE EFICIÊNCIA PROCESSUAL PRECEDENTES DO STJ E DESTE E TRIBUNAL DECISÃO MANTIDA RECURSO NÃO PROVIDO.
+Quanto à controvérsia trazida nos autos, pela alínea "a" do permissivo constitucional, alega a parte recorrente violação do art. 113, § 1º, do Código de Processo Civil, com fundamento em que a presença de muitos executados no polo passivo da ação de execução fiscal não prejudicaria o andamento do processo, tornando mais palpável a futura satisfação do crédito, trazendo os seguintes argumentos:
+O presente Recurso Especial é interposto em face de acórdão proferido pelo Egrégio Tribunal de Justiça Paulista que contrariou a legislação federal, mais especificamente o art. 113, § 1º, do CPC. Não cabendo outro recurso, está esgotada a instância ordinária de julgamento. Portanto, é cabível o presente recurso, com fundamento no artigo 105, III, "a", da Constituição Federal.
+ ..
+Ora, Vossas Excelências, a presença de diversos executados em nada inviabiliza o processamento do feito.
+Existem inúmeras decisões dos mais diversos tribunais pátrios que autorizam a presença de muitos executados no polo passivo do mesmo processo, visto que não acarreta mal algum à resolução da lide.
+ ..
+Frise-se que é inegável a grande quantidade de executados, todavia isso não é suficiente para restringir o número de litisconsortes.
+Além da grande quantidade de integrantes no feito, imprescindível é que acarrete efetivo prejuízo ao desenvolvimento do feito!
+O presente processo se trata de execução fiscal em que as partes são citadas para pagar! Uma eventual discussão será feita em sede de embargos à execução, ou seja, não tumultuará o feito.
+Ademais, como se trata de IPTU, uma provável medida a ser requerida a fim de ver o seu crédito satisfeito é a penhora do imóvel. Para ser possível a realização da penhorado bem, necessário que todos os proprietários estejam sendo executados.
+Assim, nota-se que a grande quantidade de executados não prejudica o feito, mas sim torna mais palpável uma futura satisfação do crédito exequendo (fls. 53/62)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Verifica-se que, no caso concreto, a exequente pretende prosseguir a presente execução contra 275 (duzentos e setenta e cinco) executados distintos, o que pode gerar grande tumultuo nos autos da execução de origem, vez que será necessária a citação de todos os executados, bem como os mesmos poderão apresentar suas respectivas defesas.
+A limitação, por execução, de 5 executados no polo passivo visa, portanto, facilitar a solução eficaz do processo, sem prejuízo de que, no futuro, se for o caso, se reconheça a conexão ou por outra razão se determine a reunião de processos que estejam na mesma fase processual (fl. 46).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
