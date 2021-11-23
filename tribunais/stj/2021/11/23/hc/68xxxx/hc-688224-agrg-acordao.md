@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental em habeas corpus interposto por Mayara Júlio da Silva contra a decisão, de minha relatoria, que denegou a ordem de habeas corpus. Esta, a ementa do julgado (fl. 148):
+PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. 217 G DE MACONHA. 1 BALANÇA DE PRECISÃO, 1 FACA DE COZINHA E VÁRIAS EMBALAGENS PLÁSTICAS. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE. AFASTAMENTO DO PRIVILÉGIO. COMPROVADA DEDICAÇÃO AO TRÁFICO DE DROGAS. Ordem denegada.
+Alega a agravante que o entendimento desta Corte é de não ser possível o afastamento do privilégio, previsto no art. 33, § 4º, da Lei n. 11.343/2006, em razão de processos criminais em andamento.
+Requer, assim, a reconsideração da decisão.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. 217 G DE MACONHA. 1 BALANÇA DE PRECISÃO, 1 FACA DE COZINHA E VÁRIAS EMBALAGENS PLÁSTICAS. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE. AFASTAMENTO DO PRIVILÉGIO. COMPROVADA DEDICAÇÃO AO TRÁFICO DE DROGAS, POR PARTE DA INSTÂNCIA ORDINÁRIA.
+1. No caso, por existirem outros processos criminais e, também, além das substâncias entorpecentes, terem sido apreendidas 1 balança de precisão, 1 faca de cozinha e várias embalagens plásticas, houve idônea fundamentação para o afastamento do privilégio.
+2. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Alega a defesa que o fundamento para afastar o privilégio foi a existência de processo penal em curso. Na sentença, o Magistrado deixou expresso, quanto à impossibilidade de reconhecimento da figura privilegiada, art. 33, § 4º, da Lei de Drogas, considerando que  ..  ficou evidente que a ré se dedicada às atividades criminosas  ..  (fl. 109). A pena-base foi fixada no piso mínimo, por ser a paciente primária e sem antecedentes. Constou da sentença ter ficado evidente que a ré se dedicava a atividades criminosas (fl. 109). O julgador local assim se manifestou (fl. 126):
+ ..
+I - Não é possível a aplicação da causa de diminuição da pena por reconhecimento de tráfico privilegiado, uma vez que a recorrente responde a outros processos criminais, evidenciando que se dedica a atividades criminosas. Esse é o entendimento da Corte Superior de Justiça, que, inclusive, admite a valoração de atos infracionais para formação da convicção de que o réu se dedica a atividades criminosas.
+ ..
+Sabe-se que  ..  prevaleceu, no âmbito da Terceira Seção, para fins de consolidação jurisprudencial e ressalvado o entendimento desta Relatora para o acórdão, entendimento intermediário no sentido de que o histórico infracional pode ser considerado para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, por meio de fundamentação idônea que aponte a existência de circunstâncias excepcionais, nas quais se verifique a gravidade de atos pretéritos, devidamente documentados nos autos, bem como a razoável proximidade temporal de tais atos com o crime em apuração  ..  (EREspn. 1.916.596/ SP, Ministro Joel Ilan Paciornik, Relator p/ acórdão Ministra Laurita Vaz, Terceira Seção, DJe 04/10/2021).
+No caso, por existirem outros processos criminais e, também, além das substâncias entorpecentes, terem sido apreendidas 1 balança de precisão, 1 faca de cozinha e várias embalagens plásticas, houve idônea fundamentação para o afastamento do privilégio. De fato,  ..  nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas (AgRg no AREsp n. 1.707.310/TO, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/5/2021).
+Ante o exposto, nego provimento ao agravo regimental.
