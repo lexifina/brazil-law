@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de FABRICIO FERREIRA DA SILVA em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autosque o paciente foi condenado pela prática do delito previsto no art. 121, § 2º, incisos II e IV, do CP, à pena de 16 anos e 04 meses de reclusão, em regime inicial fechado.
+Irresignada, a defesa apelou ao Colegiado de origem, que desproveu o recurso, ficando mantido o inteiro teor do decreto condenatório.
+Neste mandamus, o impetrante alega a existência de constrangimento ilegal em razão da pena-base ter sido arbitrada, supostamente, de maneira desproporcional e mediante a alegação de que as circunstância do crime devem ter tidas como desfavoráveis.
+Sustenta fazer jus à aplicação da atenuante da confissão espontânea.
+Ao final, requer o redimensionamento da pena-base do paciente.
+A Subprocuradoria-Geral da República manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte -HC 535.063, TerceiraSeção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, PrimeiraTurma, Rel. Min.Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, SegundaTurma, Rel. Min.Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Está inscrito na sentença condenatória:
+"Oréu depois do homicídio hoje apurado, foi preso, julgado e condenado por crime de extrema gravidade, tis. 339/357, artigo 33 da Lei 11343/06, com grande quantidade de droga e grande soma de dinheiro, o que revela a personalidade e a conduta social reprováveis do agente, impondo o acréscimo, na primeira fase, para a reprovação e prevenção do crime Assim, a pena sofre acréscimo de 1/6, sendo fixada em 14 anos de reclusão.
+Na segunda fase, considerando que a qualificadora do recurso que dificultou a defesa da vitima elevou a pena base para 12 anos, resta, neste instante, o. acréscimo pela qualificadora do motivo fira Assim, a pena sofre acréscimo de 1/6, sendo fixada em 16 anos e 04 meses de reclusão. Não será computada a atenuante da confissão, pois esta foi qualificada, ou seja, o réu, em seu interrogatório, alegou falta de intenção de matar, legítima defesa real e legitima defesa putativa, teses afastadas pelo r. Conselho de Sentença.
+Não bastasse isso, a confissão, para atenuar a pena, deve ser voluntária, espontânea e sinceramente desejada Não é possível que o réu se beneficie de uma circunstância legal para amenizar sua pena se houver agido sem qualquer espontaneidade, apenas para se locupletar de algum beneficio legal, pois "é no motivo e,  não, na sua voluntariedade que se afere a espontaneidade que faz- da confissão o circunstância a da pena", in Código Penal Anotado, Guilherme de Souza Nucci(e-STJ, fls. 53-54).
+Há ilegalidade flagrante na negativação da conduta social e da personalidade em razão de condenação não definitiva por fato posterior, de processos criminais em curso e de condenação cujos efeitos foram apagados pela declaração de extinção da punibilidade pela prescrição da pretensão punitiva, assim como de condenação posterior aos fatos em exame, como no caso dos autos.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. FUNDAMENTO. FALTA DE IMPUGNAÇÃO CONCRETA. ILEGALIDADES FLAGRANTES. FURTO SIMPLES. PENA-BASE. NEGATIVAÇÃO. FUNDAMENTAÇÃO INIDÔNEA. REINCIDÊNCIA. CONDENAÇÃO POR FATO POSTERIOR. REPRIMENDAS. REDUÇÃO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. CONSUMAÇÃO. AGRAVO REGIMENTAL NÃO CONHECIDO. DE OFÍCIO, CONCEDIDO HABEAS CORPUS E DECLARADA EXTINTA A PUNIBILIDADE DA AGRAVANTE.
+1. Ausente a impugnação concreta ao fundamento da decisão agravada, que não conheceu do agravo em recurso especial, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.
+2. É manifestamente ilegal a negativação dos antecedentes e a aplicação da agravante da reincidência, quando fundamentadas em condenações, ainda que transitadas em julgado, por fatos posteriores àquele sob julgamento.
+3. A afirmação, lançada na sentença, de que "a situação financeira lhe é desfavorável" é obscura pois, no contexto em que colocada no texto, não é possível inferir se está a se falar acerca da Vítima ou da Acusada. E, além disso, não demonstrou nenhum grau maior de reprovabilidade da conduta, não justificando a exasperação da pena-base.
+4. Com o redimensionamento das reprimendas, o prazo prescricional passou a ser de 4 (quatro) anos, lapso consumado entre o recebimento da denúncia, em 20/02/2014 e a publicação da sentença condenatória, em 19/07/2019.
+5. Agravo regimental não conhecido; porém, de ofício, concedido habeas corpus, para fixar a pena-base no mínimo legal e excluir a agravante da reincidência, redimensionando as penas nos termos do voto e, por consequência, é declarada extinta a punibilidade da Agravante, pela prescrição da pretensão punitiva"
+(AgRg no AREsp 1903802/ES, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 21/09/2021, DJe 30/09/2021).
+Nesse contexto, deve ser estabelecida a pena-base no piso legal, considerando a ausência de motivação concreta para sua fixação acima do mínimo previsto no preceito secundário do tipo penal.
+No que se refere à segunda fase do critério trifásico, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, quando a manifestação do réu for utilizada para fundamentar a sua condenação, o que se infere na hipótese dos autos.
+A fim de corroborar tal entendimento, os seguintes precedentes:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA DA PENA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. CONFISSÃO PARCIAL. APLICAÇÃO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - A via do writ somente se mostra adequada para a análise da dosimetria da pena caso se trate de flagrante ilegalidade e não for necessária uma análise aprofundada do conjunto probatório.
+IV - Na espécie, a incidência da atenuante prevista no art. 65, III, "d", do Código Penal, independe se a confissão foi integral ou parcial, especialmente quando utilizada para fundamentar a condenação. (Precedentes STF e STJ).
+V - Esse entendimento, inclusive, foi objeto de recente enunciado da Súmula n. 545/STJ: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal."
+Ordem concedida de ofício para reconhecer a atenuante da confissão espontânea, devendo o processo retornar ao eg. Tribunal de origem para nova dosimetria da pena" (HC 331.946/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/11/2015, DJe 01/12/2015, grifou-se).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO (ART. 157, § 2º, I E II, DO CP). DOSIMETRIA. CONFISSÃO ESPONTÂNEA. RECONHECIMENTO PARCIAL DA PRÁTICA DELITIVA. IRRELEVÂNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Se a confissão do agente é utilizada como fundamento para embasar a conclusão condenatória, a atenuante prevista no art. 65, inciso III, alínea d, do CP, deve ser aplicada em seu favor, pouco importando se a admissão da prática do ilícito foi espontânea ou não, integral ou parcial, ou se houve retratação posterior em juízo.
+2. Assim, tendo o paciente confessado o crime, merece ser concedida a ordem para reconhecer a incidência da referida atenuante.
+ ..
+3. Agravo regimental improvido" (AgRg no HC 272.453/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 10/11/2015, DJe 18/11/2015, grifou-se).
+Ante o exposto, não conheço do writ, mas concedo a ordem, de ofício, a fim de estabelecer a pena-base no mínimo legal e reconhecer a incidência da atenuante da confissão espontânea, determinado ao Juízo das Execuções proceda à nova dosagem da pena.
+Publique-se. Intimem-se,
