@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de WAGNER FERREIRA DE MATOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 7 anos de reclusão, em regime fechado, e pagamento de 700 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+Neste habeas corpus, alega o impetrante ser inidônea e desproporcional a exasperação da pena-base com amparo em quantidade não expressiva de entorpecente.
+Requer, assim, a fixação da pena-base no mínimo legal.
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 31-34).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao negar provimento ao apelo defensivo, manteve a sanção imposta com base nos seguintes fundamentos:
+"As penas-base foram adequadamente majoradas em 1/5 (um quinto), em vista da quantidade e da natureza dos entorpecentes apreendidos, circunstâncias que, a teor do art. 42, da Lei 11.343/06, devem ser consideradas como preponderantes e conferem contornos de gravidade diferenciada ao caso em tela.
+Operou-se, a seguir, o aumento de 1/6 (um sexto) das penas, em razão da circunstância agravante da reincidência específica, devidamente demonstrada nos autos (fls. 123).
+O apelante, reincidente, não faz jus à redução de suas penas, com fundamento no art. 33, § 4º, da Lei 11.343/06" (e-STJ, fls. 11-12).
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, as instâncias ordinárias, atentas às diretrizes do art. 42 da Lei de Drogas, consideraram a quantidade, variedade e natureza dos entorpecentes apreendidos - 38 porções de crack (12,8g), 9 de cocaína (5,6g) e 85 de maconha (211,1g) - para elevar a sanção inicial do delito de tráfico de drogas em 1 ano acima do mínimo legal.
+Assim, tendo sido apresentado elementos idôneos para a majoração da reprimenda básica, elencados inclusive como circunstâncias preponderantes, e levando-se em conta as penas mínima e máxima abstratamente cominadas ao referido delito (5 a 15 anos de reclusão), não se mostra desarrazoado o aumento operado pela instância ordinária, a autorizar a intervenção excepcional desta Corte.
+Confiram-se alguns julgados que respaldam esse entendimento:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PENA-BASE. AUMENTO DE 2 ANOS PELA QUANTIDADE DE DROGAS. ART. 42 DA LEI 11.343/06. DESPROPORCIONALIDADE PATENTE NÃO EVIDENCIADA. AUSÊNCIA DE CRITÉRIO MATEMÁTICO. MINORANTE DO TRÁFICO PRIVILEGIADO AFASTADA FUNDAMENTADAMENTE. PRESENÇA DE INDICATIVOS DE DEDICAÇÃO AO TRÁFICO. REVISÃO. SÚMULA 7/STJ. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a aplicação da pena, na primeira fase da dosimetria, não se submete a um critério matemático, devendo ser fixada à luz do princípio da discricionariedade motivada do juiz, tal como realizado pela Corte a quo.
+2. O aumento da pena-base do delito de tráfico em 2 anos, em razão da grande quantidade de cocaína apreendida, não revela desproporcionalidade patente a ser revista na via do especial, em se considerando, sobretudo as penas mínima e máxima cominadas e o disposto no art. 42 da Lei 11.343/06.
+3. Devidamente fundamentada a negativa da minorante do tráfico privilegiado, pela dedicação à atividade criminosa, a pretendida revisão do entendimento encontra óbice na Súmula 7/STJ. Precedentes.
+4. Agravo regimental improvido."
+(AgRg no AREsp 1792930/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 05/03/2021);
+"REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ART. 33, § 1º, INCISO I, DA LEI N. 11.343/06. DOSIMETRIA. ELEVADA QUANTIDADE DE SUBSTÂNCIA APREENDIDA. EXASPERAÇÃO DA SANÇÃO BÁSICA. POSSIBILIDADE. INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. MINORANTE DE PENA. INAPLICABILIDADE. REGIME PRISIONAL MAIS GRAVOSO. VEDAÇÃO DA SUBSTITUIÇÃO DA REPRIMENDA. POSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 7 E 83 DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Sabe-se que a dosimetria da pena é o momento em que o juiz, dentro dos limites abstratamente previstos pelo legislador, deve eleger, fundamentadamente, o quantum ideal da sanção a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito praticado sendo que, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar para as singularidades do caso concreto.
+2. Sobre o assunto, este Superior Tribunal de Justiça firmou entendimento no sentido de que nos delitos de tráfico a quantidade e a natureza da droga apreendida preponderam sobre as demais circunstâncias do art. 59 do Código Penal e autorizam a fixação da pena-base acima do mínimo legal.
+3. Verifica-se, na espécie, que o magistrado singular exasperou a pena-base com fundamento na expressiva quantidade da substância apreendida, de modo que o Tribunal local, ao concluir pela existência de fundamentação suficientemente apta a lastrear a exasperação da pena-base, alinhou-se à jurisprudência desta Corte Superior de Justiça sobre o tema.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no AREsp 1005371/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/4/2018, DJe 25/4/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
