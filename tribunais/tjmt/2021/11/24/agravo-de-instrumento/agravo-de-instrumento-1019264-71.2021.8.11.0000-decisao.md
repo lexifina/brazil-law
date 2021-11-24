@@ -1,0 +1,53 @@
+Agravante: MAGNO ALEXANDRE GAIA e G.L CONFINAMENTO DE BOVINOS LTDA
+Agravado: ESTADO DE MATO GROSSO
+Protocolo: 1019264-71.2021.8.11.0000
+LIMINAR
+Visto.
+Trata-se de Agravo de Instrumento, com pedido de tutela antecipada recursal, interposto por MAGNO ALEXANDRE GAIA e G. L CONFINAMENTO DE BOVINOS LTDA, contra a decisão proferida pelo Juízo da Vara Única da Comarca de Porto dos Gaúchos -MT, que nos autos da Ação Declaratória no 1000573-49.2021.8.11.0019, indeferiu a tutela de urgência, consubstanciada na suspensão dos efeitos do Termo de Embargo/Interdição no 20044412/2020, em relação ao polígono da matrícula no 13.394, não se relacionam juridicamente com a matrícula no 5.407.
+Aduzem que o primeiro recorrente (MAGNO ALEXANDRE GAIA) é proprietário dos seguintes imóveis rurais no município de Novo Horizonte do Norte/MT e registrado no Cartório de Imóveis de Porto dos Gaúchos/MT: a) Fazenda Confinamento Ramax, inscrito no SIMCAR sob o no MT65932/2019, registrado sob a matrícula de no 5.407; b) Faz. Confinamento Ramax II, inscrito no SIMCAR sob o no MT65931/2019, registrado sob a matrícula 8.185; c) Faz. Confinamento Ramax IV, inscrito no SIMCAR MT168775/2019, registrado sob a matrícula 13.395; d) Faz. Confinamento Ramax III, inscrito no SIMCAR MT164832/2019, registrado sob a matrícula 13.394.
+Sustentam que em um primeiro momento (01/04/2019) a segunda recorrente (G. L CONFINAMENTO DE BOVINOS LTDA) arrendou do primeiro recorrente (MAGNO ALEXANDRE GAIA) todas as áreas descritas no parágrafo anterior, par ao fim de desenvolver a atividade de confinamento de bovino para posterior venda para abate.
+Argumenta que posteriormente (07/07/2020) foi feito um adendo no contrato firmado entre os agravantes, oportunidade em que a segunda recorrente (G. L CONFINAMENTO DE BOVINOS LTDA) deixou de arrendar a Faz. Confinamento Ramax III, inscrita no SIMCAR MT164832/2019, registrada sob a matrícula 13.394.
+Assegura que embora continue arrendando três fazendas, a atividade de confinamento é exercida apenas na de matrícula 5.407, sendo a punica licenciada por meio da Licença de Operação no 323921/2021.
+Assevera, que a SEMA/MT, lavrou contra os Agravante o Auto de Infração de no 20043495/2020 e Termo de Embargo no 20044412/2020, sob o fundamento de que foi realizado desmatamento a corte raso, no ano de 2020,de 0,68 hectares de Vegetação Nativa em Área Objeto de Especial Preservação na Faz. Confinamento Ramax III (matrícula 13.394).
+Argui que o embargo ambiental não pode recair sobre as atividades da segunda recorrente (G. L CONFINAMENTO DE BOVINOS LTDA), uma vez que ela não arrenda mais a área que sofreu suposta degradação ambiental, bem como pelo fato de que a atividade de confinamento é exercida apenas na de matrícula 5.407 a qual não possui relação jurídica com a área objeto de autuação (matrícula 13.394).
+Verbera que o Termo de Embargo deve produzir efeitos apenas sobre o polígono embargado (Faz. Confinamento Ramax III - matrícula 13.394).
+Pontua que o termo de embago em relação a segunda recorrente (G. L CONFINAMENTO DE BOVINOS LTDA) além de ser ilegal, está obstando o exercício de sua atividade empresarial.
+Afirma que estão presentes os requisitos necessários para o deferimento da tutela de urgência nos autos de origem.
+Com base nestes fundamentos, pugna pela concessão da tutela antecipada recursal, para determinar que o Termo de Embargo e Interdição no Termo de Embargo/Interdição no 20044412/2020, em relação ao polígono da matrícula no 13.394, não se relacionam juridicamente com a matrícula no 5.407 arrendada pela segunda recorrente (G. L CONFINAMENTO DE BOVINOS LTDA).
+No mérito requerer que seja reformada a decisão objurgada, para deferir a tutela de urgência pleiteada na inicial.
+É o relatório.
+Decido.
+Para a atribuição do efeito suspensivo e/ou deferimento da tutela antecipada recursal, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos, 300, 995, parágrafo único e 1.019, I, todos do Código de Processo Civil, como cito:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão; [...]”.
+“Art. 995. [...]
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+Passo a análise da presença ou não dos requisitos necessários para o deferimento da tutela antecipada pleiteada nas razões recursais.
+Pois bem. Da análise dos documentos de Ids. 106900489 - Pág. 3-4, verifica-se que o auto de infração n.o 20043495 e o Termo de Embargo / Interdição n.o 20044412 foram lavrados em 22/05/2020, em desfavor do primeiro recorrente (MAGNO ALEXANDRE GAIA) e tem como objeto suposto desmatamento a corte raso de 0,68 hectares de Vegetação Nativa em Área Objeto de Especial Preservação, sendo o ilícito verificado na Faz. Confinamento Ramax III, inscrita no SIMCAR MT164832/2019, registrada sob a matrícula 13.394.
+Sobre o assunto, sabe-se que o embargo/interdição é lavrado com o objetivo de suspender atividade ilícita desenvolvida em um imóvel rural, de modo a impedir a continuidade da degradação ambiental, conforme preveem os artigos 102 e 116 da Lei Complementar Estadual n.o 232/2005 e art. 6o, do Decreto Estadual n. 1.986/2013, como cito:
+“Art. 102 da Lei Complementar. Estadual n.o 232/2005 As infrações administrativas são punidas com as seguintes sanções:
+[...]
+VII - embargo de obra e atividade;
+[...]
+IX - suspensão parcial ou total de atividades;
+[...]
+Art. 116 da Lei Complementar. O embargo deve paralisar a obra ou atividade e o seu desrespeito caracteriza crime de desobediência previsto no Código Penal.
+§ 1o O embargo será aplicado sem prejuízo da multa sempre que a atividade estiver sendo executada sem licença ambiental ou em desacordo com as normas ambientais. [...]”.
+“Art. 6o do Decreto Estadual n. 1.986/2013. O Embargo/Interdição de obra ou atividade e suas respectivas áreas tem por objetivo impedir a continuidade de dano ambiental”.
+Igualmente, o artigo 32 da Instrução Normativa Conjunta no 2/2020 do Ministério do Meio Ambiente que estabelece que “o embargo de obra e atividade e suas respectivas áreas tem por objetivo impedir a continuidade do dano ambiental, propiciar a regeneração do meio ambiente e dar viabilidade à recuperação da área degradada [...]”.
+Na hipótese, o Termo de Embargo / Interdição n.o 20044412, conforme mencionado alhures, se deu em razão de suposto desmatamento ilegal de vegetação nativa na Faz. Confinamento Ramax III (matrícula 13.394), a qual não se encontra integralmente regenerada, evidenciando, dessa forma, a necessidade de sua continuidade para proteger e regenerar o meio ambiente natural.
+Ocorre que, pela análise dos documentos acarreados aos autos, é possível verificar que embora no Termo de Embargo / Interdição n.o 20044412 tenha constado como imóvel embargado apenas a Faz. Confinamento Ramax III (matrícula 13.394) de propriedade do primeiro recorrente (MAGNO ALEXANDRE GAIA), a segunda recorrente (G. L CONFINAMENTO DE BOVINOS LTDA) que arrenda do 1o recorrente a propriedade rural vizinha, denominada Fazenda Confinamento Ramax (matrícula de no 5.407), também está sendo impedida de exercer sua atividade econômica no local arrendado em razão do referido embargo ambiental.
+No entanto, tenho por ora que embora as áreas sejam de um único proprietário (MAGNO ALEXANDRE GAIA), o Termo de Embargo / Interdição n.o 20044412 incidente sobre as áreas da Faz. Confinamento Ramax III (matrícula 13.394), não pode transcender para o imóvel vizinho de matrícula no 5.407, arrendado para a segunda recorrente (G. L CONFINAMENTO DE BOVINOS LTDA), uma vez que esse último não foi objeto de autuação pelo órgão ambiental.
+Destarte, tendo em vista que no auto de infração o órgão ambiental não narra qualquer ilícito ambiental no imóvel denominado Fazenda Confinamento Ramax (matrícula de no 5.407) de propriedade do primeiro recorrente (MAGNO ALEXANDRE GAIA) e se encontra arrendado pela segunda recorrente (G. L CONFINAMENTO DE BOVINOS LTDA), não vislumbro, nesse momento cognitivo a possibilidade/necessidade de interdição da atividade empresarial da arrendatária, restando presente o requisitos da probabilidade do direito.
+Igualmente, insta consignar que o indeferimento da tutela emergencial na seara recursal pode implicar em prejuízo financeiros, que pode resultar em encerramento das atividades econômicas desenvolvidas no local, bem como em demissão dos trabalhadores estiverem impedidos de exercer as atividades para as quais foram contratados.
+Além disso, a suspensão das atividades empresariais da segunda recorrente implica na redução de arrecadação tributária, causando dano, inclusive aos cofres públicos.
+E mais, uma vez que não foi atribuído pelo agente ambiental qualquer ilícito ambiental em relação as atividades econômicas desenvolvidas pela segunda recorrente, tenho que a continuidade de sua operação não irá prejudica a regeneração da área degradada, motivo pelo qual, não vislumbro a presença do periculum in mora inverso
+Ante o exposto, defiro a tutela antecipada recursal pleiteada, para determinar que o Termo de Embargo/Interdição no 20044412/2020, aplicado em relação ao polígono da matrícula no 13.394, não se relacionam juridicamente com a matrícula no 5.407 do imóvel rural denominado Fazenda Confinamento Ramax, o qual se encontra arrendado para a segunda recorrente (G. L CONFINAMENTO DE BOVINOS LTDA), até o julgamento do mérito recursal.
+Outrossim, consigno que esta decisão não impede a Autoridade Ambiental de realizar inspeções na propriedade rural denominada Fazenda Confinamento Ramax (matrícula de no 5.407) e, se constatada irregularidade ambiental, possa expedir notificações, auto de infrações, bem como, termo de embargo e interdição em relação a esse imóvel.
+Comunique-se o juízo de primeiro grau.
+Intime-se as partes e a Procuradoria Geral de Justiça da presente decisão.
+Após, concluso para análise do mérito recursal.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relator
