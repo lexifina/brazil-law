@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por INCORPORADORA E LOTEADORA GRAN RIVA LTDA. e PEDRINHO RIVA contra decisão da Primeira Vice-Presidência do TJPR que não conheceu do recurso especial por eles manejado, ante sua intempestividade (e-STJ, fls. 150-151).
+Em suas razões (e-STJ, fls. 162-170), os agravantes defendem a tempestividade do recurso especial, ao argumento de que se orientaram pela certidão divulgada no sistema PROJUDI.
+Contraminuta às fls. 179-183 (e-STJ).
+Brevemente relatado, decido.
+O Tribunal de origem não admitiu o recurso especial, entendendo pela intempestividade do reclamo, ante falta de comprovação da ocorrência de feriado local, de acordo com as seguintes justificativas (e-STJ, fls. 150-151):
+O Recurso Especial não pode ser admitido, ante a inexistência de prova da sua tempestividade.
+Da análise dos autos, verifica-se que no dia 25.05.2021 foi expedida a intimação do acórdão recorrido (mov. 58 e 60 - Agravo de Instrumento Cível). Tendo em vista que a parte recorrente não procedeu à leitura dentro do prazo de 10 (dez) dias contados da data do envio da intimação (artigo 5º, § 3º, da Lei nº 11.419/06),considera-se que a intimação se deu na data do término desse prazo, ou seja, em 04.06.2021. Sendo assim, o prazo para interposição de recurso passaria a fluir em 07.06.2021 e findaria em 25.06.2021.
+No entanto, em razão da suspensão do expediente forense, bem como o feriado local previsto no Decreto Judiciário nº 597/2020 (dias 03.06.2021 e 04.06.2021 - Corpus Chisti), haveria a possibilidade de prorrogação do prazo, com a intimação se dando no dia 07.06.2021, o início do prazo recursal dia 08.06.2021 e o fim deste em 28.06.2021. Assim sendo, para que fosse considerado o prazo prorrogado, deveria ter sido juntada, no ato da interposição do recurso, comprovação adequada da suspensão dos prazos processuais, conforme dispõe o artigo 1.003, § 6º, do Código de Processo Civil, o que não foi feito pela parte recorrente.
+Isto porque, o Superior Tribunal de Justiça firmou entendimento de que "(..) a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende que dele conheça este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública." (AgInt no REsp 1.686.469/AM, Rel. Min. Mauro Campbell Marques, DJe 27.3.2018).
+No entanto, compulsando os autos, verifica-se que a intimação eletrônica do acórdão recorrido foi realizada 7/6/2021, conforme certidão de fl. 91 (e-STJ). O prazo recursal, de 15 (quinze) dias úteis, portanto, teve início em 8/6/2021 e encerrou-se em 28/6/2021.
+Constatada a tempestividade do recurso especial protocolizado em 27/6/2021 (e-STJ, fl. 93), necessário se faz o retorno dos autos ao TJPR para que profira novo juízo de admissibilidade.
+Diante do exposto, conheço e dou provimento ao agravo, para determinar o retorno dos autos ao Tribunal de origem,a fim de que seja realizado novojuízo de admissibilidade, como entender de direito.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE DO RECURSO ESPECIAL AFASTADA. AGRAVO CONHECIDO E PROVIDO PARA QUE SEJA FEITA NOVA ADMISSIBILIDADE.
