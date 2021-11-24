@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Roni Marcos e Gabriel Batista Marcos, em que se aponta como autoridade coatora a Décima Sexta Câmara Criminal doTribunal de Justiça de São Paulo.
+Consta dos autos que os pacientes foram denunciados como incursos no art. 129, § 3º, do Código Penal, por terem, segundo a denúncia, provocado na vítima graves lesões, que evoluíram para uma pneumonia extensa e sepsemia, causas de sua morte (fls. 37/38).
+Na sentença, Roni foi condenado à pena de 5 anos, 2 meses e 21 dias de reclusão;e Gabriel, à pena de 4 anos, 3 meses e 12 dias de reclusão, ambos em regime semiaberto, por terem sido incursos no art. 129, § 3º, do Código Penal (fls. 26/34).
+Em sede de apelação, a defesa apontou ausência de provas para a condenação, bem como contradição nos testemunhos ouvidos, além da ocorrência de legítima defesa. ADécima Sexta Câmara Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso (fls. 16/25).
+No presente writ, a defesa aponta ilegalidade na dosimetriaquanto às circunstâncias judiciais, que teriam sidovaloradas negativamente, de forma indevida.
+Aduz ser devida a aplicação da atenuante de confissão espontânea, em favor do paciente Roni Marcos e requer também o abrandamento do regime de cumprimento da pena (fls. 3/12).
+Decisão deste Relatorindeferindo a liminar (fls. 67/69).
+Parecer ministerialopinando pela concessão parcial da ordempara que seja aplicada a atenuante de confissão espontânea.
+É orelatório.
+Consta dos autos que os réus tiveram a porta de seu automóvel arrombada, sendo furtados um rádio PX e uma caixa de ferramenta. No mesmo dia, os pacientes souberam a respeito de um indivíduo que estaria de posse do rádio furtadoe que iria vendê-lo. Assim, os acusados o procurarame Roni o agrediu com um rolo de pintura, que estava em sua mão, momento em que a vítima caiu, e o paciente Gabriel começou a chutá-lo, por diversas vezes, causando na vítima lesões que evoluíram para uma pneumonia extensa e sepsemia, e o levaram à morte.
+Na sentença, o Magistrado elevou a pena-base na fração de 2/7, pelas circunstâncias e consequências do crime, ou seja,o fato de o crime ter sido praticado em concurso e impossibilitando a defesa do ofendido e também por todo o sofrimento da vítima, e de sua família, ao longo do tempo até seu falecimento. Em face do quantum de aumento, mostra-se inviável, em sede de habeas corpus, o reexame dos fatos, pois o Magistrado fez menção ao tempo decorrido até a morte da vítima e a impossibilidade de se defender, o que demanda a análise de provas. Assim, deve ser mantida a fração de 2/7, pois houve concreta fundamentação para a fixação da pena em 5 anos, 2 meses e 21 dias de reclusão.
+Sobre o pedido de ser reconhecida a confissão espontânea, razãoassiste à defesa. Consta da sentença que a confissão do acusado foi no sentido de ser reconhecida a legítima defesa, e que o Magistrado afastou essa tesepor ser contrária às provas dos autos. No entanto, ainda que a confissão tenha sido parcial ou qualificada, mostra-se devida a aplicação da atenuante. Assim, a pena de Roni deve ser reduzida na fração de 1/6, de modo que se torna agora definitiva em 4 anos, 3meses e 12 dias de reclusão. Para Gabriel, foi reconhecida, na sentença, a atenuante de menoridade relativa, e sua pena foi reduzida na fração de 1/6, portanto, proporcional. Já na terceira fase, não houve o reconhecimento de causas de aumento ou de diminuição da pena.
+O regime de cumprimento da pena deverá permanecer o semiaberto, por serem as penas superiores a 4 anos de reclusão.
+Ante o exposto, concedo parcialmentea ordem a fim deredimensionar a pena de Roni Marcos para4 anos, 3meses e 12 dias de reclusão, em regime semiaberto, mantidos os demais fundamentos do acórdão hostilizado.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. LESÃO CORPORAL SEGUIDA DE MORTE. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE NA FIXAÇÃO DA PENA-BASE. CONCRETOS FUNDAMENTOS. PEDIDO DE RECONHECIMENTO DA CONFISSÃO ESPONTÂNEAPARA UM DOS PACIENTES. POSSIBILIDADE. REDIMENSIONAMENTO DA PENA.
+Ordem parcialmente concedida nos termos do dispositivo.
