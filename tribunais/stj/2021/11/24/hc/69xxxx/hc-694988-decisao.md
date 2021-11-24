@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de WALLACE CARLOS DA CONCEIÇÃO. contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, nos autos da revisão criminal n. 0039460-57.2021.8.19.0000.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 06 (seis) anos e 05 (cinco) meses de reclusão, mais o pagamento de 1.166 (mil cento e sessenta e seis) dias-multa, como incurso nas iras do art. 35 c/c art. 40, IV, da Lei n. 11.343/2006 (fls. 31-41).
+Irresignada, a defesa interpôs apelação - n. 0450631-26.2010.8.19.0001 - perante o eg. Tribunal de origem, que, por unanimidade, deu provimento ao recurso, a fim de redimensionar a pena em 04 (quatro) anos e 01 (um) mês de reclusão, em regime inicial semiaberto, mais o pagamento de 952 (novecentos e cinquenta e dois) dias-multa, consoante voto condutor do v. acórdão de fls. XXXX.
+Ainda inconformada, a defesa ajuizou revisão criminal perante o eg. Tribunal de origem, que, por unanimidade, julgou improcedente o pedido, consoante voto condutor do v. acórdão de fls. 11-20.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois a culpabilidade não pode ser desvalorada, em razão da suposta liderança do paciente em organização criminosa.
+Sustenta violação ao princípio da correlação, uma vez que na denúncia não houve referência à suposta liderança em organização criminosa e à agravante prevista no art. 62, I, do Código Penal.
+Requer, assim, a concessão da ordem.
+Não houve pedido liminar.
+Informações prestadas às fls. 68-72.
+O Ministério Público Federal, às fls. 88-93, manifestou-se pelo não conhecimento do writ e, subsidiariamente, pela denegação da ordem, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO. INADEQUAÇÃO DAVIA ELEITA. CONDENAÇÃO. ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA DA PENA. PRIMEIRA FASE. ACRÉSCIMO DE 1/6 ACIMA DO MÍNIMO LEGAL DEVIDAMENTE JUSTIFICADO. CIRCUNSTÂNCIAS JUDICIAIS. MOTIVAÇÃO IDÔNEA. FUNDAMENTAÇÃO CONCRETA. PARECER PELO NÃO CONHECIMENTO OU DENEGAÇÃO DA ORDEM." (fl. 88).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração a diminuição da pena-base.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"O voto do Desembargador Relator reconheceu o réu como tecnicamente primário e entendeu que os motivos, circunstâncias e consequências do agir do réu são as normais do tipo e já valoradas pelo legislador quando da fixação da norma incriminadora, mas manteve o desvalor da conduta do réu, quanto o atuar como um dos líderes do tráfico, para afastar a pena base do mínimo legal, com acréscimo de 06 (seis) meses e procedeu, na fase derradeira, o acréscimo na proporção de 1/6 (um sexto),frente a causa de aumento do artigo 40, inciso IV, última parte, da Lei nº 11.343/06. Apena final atingiu o patamar de04 (quatro) anos e 01 (um) mês de reclusão e 952 (novecentos e cinquenta e dois) dias-multa, no menor valor unitário, ante a ausência de outros moduladores e fixou o regime prisional inicial semiaberto.
+ ..
+Como se vê, não há, na instrução da presente ação revisional, elementos ou provas inéditas capazes que permitam novo julgamento com a desconstituição do decidido em grau recursal nos autos de origem, em epígrafe" (fls. 16-19).
+Em relação à alegada violação ao princípio da correlação, observa-se que a referida tese não foi enfrentada pela eg. Corte de origem.
+Nesse compasso, considerando que a Corte de origem não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Nesse sentido: HC n. 480.651/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 10/04/2019; e HC n. 339.352/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/08/2017.
+No mais, a posição de liderança e coordenação do agente em organização criminosa é elemento apto a exasperar a pena-base. Nesse sentido: AgRg no HC n. 660.878/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 03/05/2021; HC n. 477.199/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/02/2019; e AgRg no HC n. 587.691/PB, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 16/11/2020.
+Ademais, alterar o julgado, segundo as alegações vertidas na exordial, demanda reexame de provas, situação vedada no remédio heroico.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
