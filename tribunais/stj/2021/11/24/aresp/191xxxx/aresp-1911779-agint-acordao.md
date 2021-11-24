@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto por Rosana Mara do Nascimento Csikcontradecisão assim ementada:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PENSÃO POR MORTE. HABILITANDA GENITORA. DEPENDÊNCIA ECONÔMICA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões de agravo interno, sustenta a agravante a reconsideraçãoda decisão, alegando para tanto que a análise do pleito recursal nãodemanda o reexame do conjunto probatório dos autos. Ressalta que a dependência econômica da agravante foi devidamente comprovada nos autos do processo em epígrafe.
+O prazo para impugnação do agravo interno decorreu in albis.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. PENSÃO POR MORTE. REQUISITOSCONDIÇÃO DE SEGURADO E DEPENDÊNCIA ECONÔMICA. SÚMULA 7/STJ. AGRAVO NÃOPROVIDO.
+1. O Tribunal a quo entendeu que a parte autora não preencheu osrequisitos legais para obtenção da pensão por morte, porquanto, ausente configuração dadependência econômica. A revisão de talentendimento encontra óbice na Súmula 7/STJ.
+2. Agravo interno não provido.
+VOTO
+A questão recursal gira em torno da comprovação da condição de dependência financeira da genitora para com o de cujos, paraconcessão do benefício de pensão por morte.
+No caso, o Tribunal a quo concluiu não comprovada a situação dedependência da agravante,conforme se observa do seguinte trecho do acórdão
+Ele solteiro e não teve filhos, não havendo dependentes de 1ªclasse que precedam à autora. Antes do falecimento, a autora não estava inscrito como dependente do perante o INSS ou mesmo perante a Receita Federal. de cujus Segundo a prova testemunhal, ela trabalhava como diarista. A testemunha Maria declarou que a autora vivia com o de cujus. O marido da autora faleceu, quando estava desempregado, e vivia fazendo bicos. Depois do falecimento, ela continuou trabalhando como faxineira, salgadeira, boleira e cuidadora. A testemunha Emília confirmou que o de cujos vivia com a autora. Os outros filhos da autora haviam saído da casa da autora para constituírem família. Esses filhos têm boa convivência com a autora. Ambas as testemunhas disseram que a autora, depois do falecimento do de cujos, mudou para uma casa mais modesta, por questões financeiras. A certidão de óbito constante de f. 24 demonstra que o marido da autora, Rene Csik, falecera em 01/6/2003, isto é, vários anos antes do filho, Fernando. Diversas são as situações de e de auxílio eventual de despesas. dependência econômica, total ou parcial Conquanto tenham admitido - genericamente, como bem observado pelo MMº Juízo - que o de cujos auxiliava financeiramente a autora, a situação é assaz diversa de uma situação de dependência, total ou parcial. O fato de a remuneração do filho de alguma forma integrar o orçamento familiar não significa que os pais tenham direito à pensão, sob pena de desvirtuar o sentido da lei. A função do benefício de pensão por morte é suprir o desfalque econômico da família ante a morte de um dos arrimos da casa, mas tal situação não se verificou nos autos. Como o filho vivia com a genitora, ele tinha o dever de colaborar com as despesas. Afinal, o falecido era jovem e gerava suas próprias despesas e usufruía das benesses de morar com a mãe e o pai (casa, comida, roupa lavada etc) e tinha obrigaçãoconstitucional de arcar com tais despesas, sob pena de sobrecarregar os pais (artigo 229 da Constituição Federal). Nos últimos meses de vida, o não estava empregado, dede cujus modo que não se concebe alegar dependência econômica no caso. Ele faleceu em abril de 2010, mas seu último vínculo empregatício se dera entre01/10/2009 e 03/11/2009 (CNIS). Acrescente-se, como bem observou o MMº Juízo , que o óbito a quo ocorreu aos 02.04.2010 (Id. 9925993, p. 5), e o requerimento administrativo foi formulado aos 22.10.2012 (Id. 9925993, p. 1), dois anos e meio após, tudo a indiciar que não havia efetivamente dependência econômica. Amiúde se mistura o fato de haver auxílio em eventuais despesas com . dependência econômica. No presente caso a concessão do benefício não atenderia sua função substancial, já que teria, isso sim, caráter assistencial.
+Assim, a pretensãorecursal encontra óbice na Súmula 7/STJ.
+No mesmo sentido:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL. PENSÃO POR MORTE. ACÓRDÃO QUE APONTA AAUSÊNCIA DE DEMONSTRAÇÃO DA DEPENDÊNCIA ECONÔMICA DA GENITORA EM RELAÇÃOAO FILHO. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Para fins de percepção de pensão por morte, a dependência econômicaentre os genitores e o segurado falecido deve ser demonstrada, não podendoser presumida (AgRg no REsp 1.360.758/RS, Rel. Ministro HERMAN BENJAMIN,SEGUNDA TURMA, julgado em 28/05/2013, DJe 03/06/2013).2. No caso, o Tribunal de origem, com base no conjunto probatório dosautos, concluiu que não houve a demonstração da dependência econômica.
+3. Assim, a alteração das conclusões adotadas pela Corte de origem, talcomo colocada a questão nas razões recursais, demandaria, necessariamente,novo exame do acervo fático-probatório constante dos autos, providênciavedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 435.232/PR, Primeira Turma, Relator Ministro Sérgio Kukina,DJe 5/5/2014)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. PENSÃO POR MORTE DE FILHO. QUALIDADE DEDEPENDENTE NÃO DEMONSTRADA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ.
+1. O Tribunal regional concluiu que os documentos carreados aos autos nãolograram demonstrar a efetiva dependência econômica da genitora em relaçãoao segurado falecido, ressalvando que "se a prova não evidencia que a
+genitora dependia do salário do filho para sua subsistência, não há comodeferir-lhe o benefício".
+2. As questões suscitadas pela recorrente partem de argumentos de natureza
+eminentemente fática, assim como, da análise das razões do acórdãorecorrido, conclui-se que este decidiu a partir de argumentos que demandamreexame do acervo probatório.
+3. A pretensão de reexame de provas, além de escapar da funçãoconstitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cujaincidência é induvidosa no caso sob exame.Agravo regimental improvido.
+(AgRg no AREsp 474.584/PR, Segunda Turma, Relator Ministro HumbertoMartins, DJe 7/4/2014)
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
