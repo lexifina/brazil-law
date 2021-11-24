@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de pedido de extensão, formulado por CATIA ALVES LAMEU, da decisão de fls. 119-121, que concedeu a ordem, de ofício, àpaciente PATRICIA ALVES LAMEU.
+Arequerente sustenta que: a)"é primária (conforme CA anexo), possuíresidênciafixa, e tem uma filha de quatro anos de idade (conforme certidãode nascimento anexa)" (e-STJ, fl. 130); b) "estando a corré, Patrícia, e a paciente, Cátia, em mesma situaçãoprocessual e fática, respeitosamente se requer, nos termos do art. 580 do CPP,a extensão da ordem de HC concedida à PatríciaAlves Lameu para Cátia Alves Lameu, para que seja revogada a prisão domiciliar mediante a aplicação demedidas cautelares previstas no art. 319 do CPP" (e-STJ, fl. 131).
+É o relatório.
+Dispõe o art 580 do Código de Processo Penal que, "no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Nestes autos, concedeu-se ordem de ofício, em benefício dapaciente Patrícia Alves Lameu, tendo em vista que "asubmissão da paciente - que é primária e, ainda, é mãe de uma criança com menos de 12 (doze) anos- a medidas cautelares menos gravosas que o encarceramento é, no momento, adequada e suficiente para restabelecer ou garantir a ordem pública, assegurar a higidez da instrução criminal e a aplicação da lei penal" (e-STJ, fl. 121).
+Quanto àrequerente, Cátia Alves Lameu, apesar de alegar ser primária, não juntou certidão de antecedentes criminais, conforme se extrai das fls. 125-141. Ocorre que, na via dohabeas corpus - no âmbito da qual se realiza o presente pedido de extensão -, a prova deve ser pré-constituída e incontroversa, cabendo ao requerente apresentar documentos suficientes à análise do seu pedido.
+Diante disso, não há nem mesmo como analisar se haveria, ou não, identidade fático-processual entre a beneficiadaneste writ e a requerente.
+Ante o exposto, não conheço do pedido de extensão.
+Publique-se. Intimem-se.
