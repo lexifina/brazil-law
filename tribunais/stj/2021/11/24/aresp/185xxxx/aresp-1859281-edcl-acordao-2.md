@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+Trata-se de embargos de declaração, opostos por RENOVADORA DE PNEUS HOFF S.A., contra acórdão de fls. 1.153/1.155 (e-STJ), de relatoria deste signatário, que manteve a higidez dodecisumsingular de fls. 1.102/1.103 (e-STJ).
+O acórdão ora embargado, proferido pela Quarta Turma do STJ em sede de agravo interno, restou assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECURSO- INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1.Aplicação correta da Súmula 182/STJ. Ausência de impugnação específica aos fundamentos da decisão de origem que inadmitiu o processamento do recurso especial. Violação ao princípio da dialeticidade, ensejando a manutenção do provimento hostilizado por seus próprios fundamentos.
+2.Agravo interno desprovido.
+Em suas razões de fls. 1.159/1.161 (e-STJ), a pretexto de apontar omissões no aresto hostilizado, a parte embargante contesta a incidência do óbice contido na Súmula 182/STJ.
+Impugnação às fls. 1.173/1.177 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM- ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE AGRAVANTE.
+1.Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2.Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não merecem acolhimento, visto que oembargantenão demonstrou a existência de nenhum vício a macular o julgado, possuindo o recurso nítido caráter infringente.
+1.Com efeito, nos estreitos lindes do artigo 1.022, CPC/2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+Nesse sentido, confira-se os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS.1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente. 2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes. 4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.  ..  4. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 860.920/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em02/06/2016, DJe 07/06/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.2. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 19/05/2016, DJe 24/05/2016)  grifou-se
+No caso, não há infringência ao artigo art. 1.022, CPC/2015, em razão da suficiente fundamentação exarada no acórdão embargado, pois, na hipótese, não possui vício a ser sanado por meio de embargos de declaração, visto que esta Colenda Quarta Turma do STJ decidiu a controvérsia com base no entendimento adotado no âmbito desta Corte Superior, destacando (fl. 1.155, e-STJ):
+Efetivamente, nas razões do agravo em recurso especial (fls. 989/1.000, e-STJ), a parte insurgente não combateu, especificamente, todos fundamentos utilizado pela Corte de origem para inadmitir o processamento do apelo extremo.
+Em juízo prévio de admissibilidade (fls. 971/976, e-STJ), negou-se seguimento ao apelo nobre com amparo nos enunciados contidos nas Súmulas 7, 83, do STJ e 283, do STF
+Em uma análise detida de suas razões de agravo em recurso especial (989/1.000, e-STJ), observa-se que aagravante não refutou, especificamente, a incidência do óbice contido na Súmula 83/STJ.
+Depreende-se, portanto, que longe de apontar vícios de fundamentação no decisum embargado, pretende a parteinsurgente, em verdade, rediscutir o acerto da decisão recorrida, não se revelando os embargos declaratórios meio processual adequado para tanto.
+Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/2015, conforme postulado pela parte recorrida à fl. 1.176 (e-STJ) pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+2.Ante o exposto, rejeito os embargos de declaração.
+É como voto.
