@@ -1,0 +1,31 @@
+AGRAVO DE INSTRUMENTO No 1020890-28.2021.8.11.0000
+AGRAVANTE:- JOVANI OLINTO MILANI e ANA LUCIA MANHANI MILANI
+AGRAVADOS:- ESPÓLIO DE OSCAR MARTINEZ, OLINDA MARIA GOMES DA COSTA BRITO EUSEBIO e PEDRO JOAO MARTINS CARVALHO
+Agravo de Instrumento n. 1020890-28.2021.8.11.0000 de decisão da 1a Vara da Comarca de Pontes e Lacerda que, em Ação de Anulação de Negócio Jurídico c/c Adjudicação Compulsória e Reintegração de Posse, suspendeu a tutela de urgência que havia concedido a reintegração dos agravantes na posse do imóvel.
+Alegam que eram arrendatários da fazenda Vila Real para exploração de lavoura, cujo contrato foi firmado em 21-2-2014 com término até a colheita da safra 2023/2024.
+Aduzem que em 10-7-2019 foram surpreendidos com a notificação extrajudicial enviada pelo Espólio de Oscar Martinez (arrendador) informando a venda da área por R$49.000.000,00, anunciando que já havia celebrado um Compromisso de Compra e Venda Irretratável e Irrevogável com Olinda e Pedro João (agravados).
+Pontuam que constava ainda, que os compradores já haviam pago a primeira parcela de R$500.000,00, e lhes foi imposto o prazo de 15 dias para apresentarem um cadastro completo de eventuais fiadores, caso desejassem exercer o direito de preferência. E mais, deveriam em menos de trinta dias pagar o mesmo valor dos outros compradores além de outra parcela de R$3.357.142,86 até 10-8-2019.
+Afirmam que o prazo que lhes foi dado era exíguo, em descumprimento ao disposto no § 3o, do art. 92, do Estatuto da Terra e, diante disso, acabaram devolvendo a posse.
+Dizem que recentemente tomaram conhecimento da Ação de Produção Antecipada de Provas no. 1001647-59.2021.8.11.0013 ajuizada pela Agravada Olinda contra o Agravado Espólio de Oscar Martinez e outros (Doc. 08), ocasião em que tiveram acesso à integralidade do conteúdo do Compromisso de Compra e Venda Irretratável e Irrevogável da Fazenda mencionado na aludida notificação (Doc. 06), mas que não tinha sido disponibilizado aos Agravantes até então.
+Asseveram que verificaram que o contrato de compra e venda foi assinado antes do envio da notificação, e firmado em caráter irrevogável e irretratável, demonstrado que a avença foi concretizada em 8-7-2019.
+Acrescentam que com isso, ficou comprovado que os arrendadores não tinham intenção de lhes oportunizar a venda, além do que, esta foi feita por R$43.500.000,00, ou seja, R$5.500.000,00 a menos do que foi informado por eles, em evidente violação ao direito de preferência.
+Relatam que após receber a inicial, o juízo a quo deferiu a liminar, porém a Olinda ingressou com Embargos de Declaração e, sem que lhes fosse oportunizado o contraditório, bem como inexistentes quaisquer dos vícios do art. 1.022 do CPC, esse recurso foi julgado procedente.
+Argumentam que essa decisão é nula porque não atendeu ao que determina o § 2o do art. 1.023 do CPC.
+Insistem no fato de não lhes ter sido oportunizado o direito de preferência quando da venda da fazenda, descrevendo como tudo aconteceu.
+Pugnam pelo efeito suspensivo.
+É o relatório.
+Os agravantes ajuizaram o feito no qual foi concedida a tutela de urgência para a reintegração na posse da área em discussão. Em seguida, a agravada (Olinda) apresentou Embargos de Declaração explicando que os fatos não ocorreram como relatados por eles, visto que no contrato de arrendamento havia uma cláusula que garantia a qualquer uma das partes a possibilidade de rescisão unilateral e desmotivada, desde que a parte que tivesse interesse na rescisão, independentemente do motivo, notificasse a outra parte com antecedência mínima de 6 (seis) meses e efetuasse o pagamento da multa rescisória estabelecida em 30% (trinta por cento) do valor do arrendamento a vencer até o término do contrato, calculando-se assim os 30% (trinta por cento) sobre o valor do período remanescente do arrendamento.
+Diz que no contrato de compra e venda havia condição resolutiva expressa de que se dentro do prazo de 90 dias da assinatura do contrato não fosse apresentada a renúncia dos arrendatários, ora autores, ao direito de preferência e o termo de rescisão do contrato de arrendamento com quitação conferida pelos arrendatários —lembre-se que o contrato previa a possibilidade de rescisão unilateral mediante pagamento de multa—, o compromisso de compra e venda seria rescindido, com devolução da entrada que havia sido paga.
+Em seguida foi proferido o decisum ora atacado, nos seguintes termos:
+Diante dos fatos narrados pelo requerido que põe em sérias dúvidas as alegações apresentadas na peça exordial, uma vez que o direito de preferência teria sido oportunizado, impõe-se a suspensão do cumprimento da reintegração de posse, diante do sério e gravíssimo risco de causar dano de difícil reparação (dano in reverso).
+Desta forma, pelo contexto, se afigura imprescindível a realização de audiência de justificação para o próximo dia 1o/12/2021, às 15h00min, mediante videoaudiência pelo sistema Microsoft Teams, disponibilizado pelo Egrégio Tribunal de Justiça do Estado de Mato Grosso. (109896955 - Pág. 2)
+O parágrafo único do art. 995 do CPC dispõe que a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Não obstante as razões recursais, não ficou demonstrado dano iminente eu exija a concessão da medida neste momento, visto que, segundo consta, os agravantes estão fora da área desde 30-3-2020, quando devolveram a posse.
+Quanto ao fato de não ter sido oportunizado o contraditório nos Embargos de Declaração, ao que parece, o juízo a quo não chegou a analisa-los, mas, diante do que foi ali narrado, por precaução, suspendeu a reintegração de posse e designou audiência para o próximo dia 1o.
+A matéria será aprofundada no mérito, após a oitiva dos agravados.
+Importante registrar que Agravo de Instrumento tem tramitação célere e, tão logo apresentada a contraminuta, será imediatamente incluído em pauta para julgamento.
+Pelo exposto, indefiro, por ora, o efeito suspensivo.
+Intime-se a parte adversa para oferecer resposta em quinze dias.
+Cuiabá, 23 de novembro de 2021.
+Des. Rubens de Oliveira Santos Filho
+Relator
