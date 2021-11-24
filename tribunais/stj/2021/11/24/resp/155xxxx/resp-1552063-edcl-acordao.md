@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Manoel Erhardt (Desembargador convocado do TRF-5ª Região).
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por CECILIA MACHADO DA ROSA contra acórdão que negou provimento ao agravo interno assim ementado (e-STJ fls. 435/436):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. JUÍZO DE EQUIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Segundo a jurisprudência desta Corte, a sentença/decisão constitui o marco temporal para a delimitação do regime jurídico aplicável à fixação dos honorários advocatícios, revelando-se correto o seu arbitramento com fulcro no CPC/1973, quando o decisum em que se arbitrou a aludida verba for prolatado anteriormente à data da entrada em vigor da novel legislação (18/03/2016), como ocorreu no caso concreto.
+2. Não incorre em vício previsto no art. 535 do CPC/1973 o acórdão que aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, porquanto não se deve confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. Hipótese em que o valor dos honorários sucumbenciais, estabelecido em juízo de equidade, não se mostra flagrantemente irrisório diante do quadro fático delineado pelo Tribunal a quo, sendo, pois, caso de se obstar o presente recurso, em face do impedimento contido na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+A parte embargante alega que o Colegiado deixou de observar que é indispensável, para o arbitramento do quantum devido pela verba honorária, a observância dos princípios da razoabilidade e da proporcionalidade.
+Nesse contexto, aduzindo ser inaplicável a Súmula 7 do STJ, reitera sua pretensão em ver majorados os honorários, a fim de que sejam estabelecidos no limite mínimo de 10% (dez por cento), nos moldes do art. 20 do CPC/1973, em vigor à época da prolação da sentença.
+Sem impugnação (e-STJ fl. 458).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+In casu, inexiste vício a sanar. Com efeito, o julgado embargado apreciou a controvérsia acerca da verba honorária nos seguintes termos (e-STJ fls. 440/443):
+Do exame dos autos, observa-se que a sentença, proferida em 29/04/2014, fixou a verba honorária nos seguintes termos (e-STJ fl. 48):
+Ante o exposto, JULGO IMPROCEDENTES OS EMBARGOS, extinguindo o processo com julgamento de mérito, forte no artigo 269, inciso I, do CPC. Demanda isenta de custas (art. 7º da Lei nº 9.289/96). Honorários advocatícios pelo INSS, os quais restam fixados em R$ 800,00,atualizáveis pelo IPCA-E a contar desta data, forte no artigo 20, §§3º e 4º do CPC. Publique-se. Registre-se. Intimem-se. (Grifos acrescidos).
+Em grau de apelação, o Tribunal de origem negou provimento à pretensão de majoração da verba honorária, mantendo o arbitramento com base no juízo de equidade por considerar "a tramitação rápida do feito, a baixa complexidade e a elaboração de apenas uma peça processual pelo advogado da embargada" (e-STJ fls. 105):
+Quanto ao pedido de majoração da verba honorária, não merece prosperar o recurso da parte embargada, considerando a tramitação rápida do feito, a baixa complexidade e a elaboração de apenas uma peça processual pelo advogado da embargada. Com efeito, o art. 20, § 4º, do CPC permite que os honorários sejam arbitrados com base na equidade, valendo-se dos critérios elencados nas alíneas "a", "b" e "c" do § 3º desse artigo. O mencionado dispositivo não impõe ao julgador a aplicação dos limites percentuais mínimos ou máximos no arbitramento dos honorários. Ao contrário, a Lei confere tal tarefa ao prudente arbítrio do juiz. Ou seja, nas causas em que não houver condenação, os honorários advocatícios podem ser mensurados conforme apreciação equitativa do julgador, em observância ao disposto no referido § 4º do artigo 20 do CPC, não estando este adstrito aos limites previstos no § 3º do mesmo dispositivo (entre 10 e 20% do valor da causa/condenação). Nesse sentido, colaciono precedente desta 3ª Turma:
+"ADMINISTRATIVO E CONSTITUCIONAL. (..) MANTIDA SENTENÇA DE IMPROCEDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. DESCABIMENTO. APRECIAÇÃO EQÜITATIVA. ART. 20, § 3º, DO CPC. APELO DESPROVIDO. (..) 5. Nas causas em que não houver condenação, os honorários advocatícios podem ser mensurados conforme apreciação eqüitativa do juiz, em observância ao disposto no § 4º do artigo 20 do CPC, não estando o julgador adstrito aos limites previstos no § 3º do mesmo dispositivo. 6. Apelo e recurso adesivo desprovidos" (AC nº2005.71.09.000270-4/RS, Rel. Des. Federal CARLOS EDUARDO THOMPSON FLORES LENZ, 3ª Turma, j. 26-08-2008, DJ 25-09-2008). Efetivamente, considerando o disposto nos artigos 20, §4º, e 21, parágrafo único, ambos do Código de Processo Civil, bem como a relevância da causa, o tempo de tramitação do feito, o bom trabalho desenvolvido pelo advogado, a natureza e complexidade da causa, tenho que a verba sucumbencial fixada em R$ 800,00 não é desproporcional, devendo ser mantida, já que em sintonia com precedentes desta Turma em feitos símeis.
+Como visto, o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, qualquer contrariedade à norma invocada, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional
+ ..
+Como é cediço, em regra, na instância especial, não é viável a revisão do juízo realizado pelo magistrado para fixar o valor da verba honorária, porquanto esse mister, além de exigir o reexame do histórico processual, notadamente para mensurar o trabalho realizado pelo advogado, não guarda relação direta com a legalidade da decisão atacada, mas sim com a percepção do julgador, que é de cunho estritamente subjetivo.
+Excepcionalmente, esta Corte admite o apelo especial para reapreciar honorários advocatícios quando arbitrados em valor irrisório ou exorbitante, pois, nesses casos, a violação da aludida norma processual exsurge de maneira flagrante, a justificar a intervenção deste Sodalício como meio de preservar a aplicação da lei federal de regência. Ilustrativamente, cito:
+ ..
+No entanto, como antes decidido, o valor dos honorários sucumbenciais, estabelecido em juízo de equidade, não se mostra flagrantemente irrisório diante do quadro fático delineado pelo Tribunala quo, sendo, pois, hipótese de se obstar o presente recurso, em face do impedimento contido na Súmula 7 do STJ.  ..
+Ante o exposto, NEGO PROVIMENTO ao agravo interno. (Grifos no original).
+Com efeito, as alegações da parte embargante, na realidade, manifestam seu inconformismo com o desprovimento de seu recurso. No entanto, o desiderato de rediscutir a causa sem a presença dos requisitos exigidos pela norma de regência é inadmissível em sede de embargos declaratórios.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA AÇÃO RESCISÓRIA. IMPUGNAÇÃO AO VALOR DA CAUSA. VÍCIOS DE FUNDAMENTAÇÃO. INEXISTÊNCIA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos declaratórios são cabíveis quando houver omissão, contradição ou obscuridade no acórdão embargado, ou ainda para correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+2. A pretensão aclaratória tem por objeto apenas os vícios constantes no julgado embargado, não servindo para sanar eventual falha de fundamentação existente em decisão anterior, diante da ocorrência de preclusão. Nesse sentido: EDcl no AgRg no RE no AgRg no AREsp 1.212.307/PE, Rel. Min. Maria Thereza de Assis Moura, Corte Especial, DJe 6/2/2019.
+3. No caso, o acórdão embargado limitou-se a não conhecer do agravo interno, uma vez que a parte deixou de impugnar, de maneira especificada, os fundamentos da decisão agravada. Todavia, a embargante ignora que o agravo interno por ela manejado não foi conhecido, pretendendo o reexame de questões atinentes ao próprio mérito da impugnação ao valor da causa, o que não se admite no presente momento processual.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt na AR 5.848/RJ, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 14/05/2019, DJe 30/05/2019).
+Advirto a parte embargante de que a oposição de novos embargos de declaração, reiterando vício já rejeitado em recurso anterior, enseja a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, porquanto reputados manifestamente protelatórios.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
