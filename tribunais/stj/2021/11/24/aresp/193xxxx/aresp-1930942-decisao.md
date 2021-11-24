@@ -1,0 +1,39 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo manejadopor FRANKLIN WALTER GUIMARAES LIMA e OUTRA em face de decisão proferida pelo Tribunal de Justiça do Estado do Ceará que negou seguimento ao recurso especial interposto.
+É o breverelatório.
+Passo a decidir.
+O presente recurso não merece ser conhecido em virtude da não impugnação aos fundamentos da decisão agravada.
+O recurso especial foi inadmitido em razão da ausência de similitude fática entre oacórdão recorrido e o paradigma, relativamente à "expressa mençãoa que as futuras publicações fossem emitidas em nome do nova causídico" (e-STJ, fl. 254).
+Ora, na espécie, a parte agravante não demonstrou especificamente a inadequação doreferidoóbice, limitando-se aalegar, de maneira genérica, que "o dissídio invocado foi suficientemente comprovado, não se limitando a mera transcrição de ementas mas também demonstrando a similitude fático-jurídica ente os casos confrontados(e-STJ, fl. 258), abstendo-se de impugnar à alegada ausência de similitude fática no que diz com a ausência de similitude relativamente à "expressa menção de que as futuras publicações fossem emitidas em nome do novo causídico".
+Com efeito, oprincípio da dialeticidade, que rege as normas sobre os recursos, exige que as razões recursais sejam elaboradas em consonância com os fundamentos da decisão recorrida. O recurso que repete as questões de mérito do processo sem dialogar com a decisão recorrida é inadmissível.
+É pacífico o entendimento desta Corte de que a parte agravante deve impugnar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. ART. 544, § 4º, INCISO I, DO CÓDIGO DE PROCESSO CIVIL.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, inciso I, do CPC).
+2. Agravo regimental não provido. (AgRg no AREsp 409.214/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/11/2013, DJe 02/12/2013) - g.n.
+Ademais, convém ressaltar que alegações genéricas não são suficientes para impugnar a decisão de inadmissibilidade. Veja-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O RECURSO ESPECIAL. APLICAÇÃO DO ART. 544, § 4º, I, DO CPC. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA.
+PRECEDENTES. MANUTENÇÃO DA DECISÃO ORA AGRAVADA.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 544, § 4º, inc. I, do CPC, ônus da qual não se desincumbiu a parte insurgente.
+2. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado. Precedentes. 3. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento.
+(EDcl no AREsp 347.137/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/12/2013, DJe 03/02/2014) - g.n.
+Destarte, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o art. 932, inciso III, do CPC/2015 (art. 544 do CPC/1973), veja-se:
+"Art. 932. Incumbe ao relator:
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;"
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015 (ART. 544, § 4º, INCISO I, DO CPC/1973).
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (arts. 932, III, do CPC/2015 e 544, § 4º, inciso I, do CPC/1973).
+2. Agravo interno não provido. (AgInt no AREsp 906.849/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/09/2016, DJe 16/09/2016).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC. 2. AGRAVO IMPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC. 2. Agravo regimental improvido. (AgRg no AREsp 821.544/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/05/2016, DJe 06/06/2016).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O RECURSO ESPECIAL. APLICAÇÃO DO ART. 544, § 4º, I, DO CPC. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. PRECEDENTES. MANUTENÇÃO DA DECISÃO ORA AGRAVADA.
+1. Os embargos de declaração opostos com o fito de rediscutir a causa devidamente decidida podem ser recebidos como agravo regimental, em conformidade com o princípio da fungibilidade recursal e economia processual.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 544, § 4º, inc. I, do CPC, ônus da qual não se desincumbiu a parte insurgente.
+3. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado. Precedentes.
+4. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento. (EDcl no AREsp 687.741/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/05/2015, DJe 27/05/2015) - g.n.
+Vale ressaltar, ainda,que "o STJ possui entendimento pacífico no sentido de que não há falar em usurpação de competência pela Corte a quo, sob o argumento de que houve o ingresso indevido no mérito do recurso especial por ocasião do juízo de admissibilidade, porquanto constitui atribuição do Tribunal local, nessa fase processual, examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia, a teor da Súmula 123 do STJ" (AgRg no AREsp 539.954/MS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 12/06/2018).
+Ante o exposto,NÃO CONHEÇO do agravo em recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015.AGRAVO NÃO CONHECIDO, COM MAJORAÇÃO DE HONORÁRIOS.
