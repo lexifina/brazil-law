@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por RENATO JUNIOR SAHEB, com apoio no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"ROUBO SIMPLES. Prova robusta da autoria e da materialidade delitiva. Confissão parcial do acusado corroborada por outros elementos seguros de prova. Condenação mantida. Impossibilidade de desclassificação para o delito de furto. Vítima que teve o braço agarrado pelo réu e o celular arrancado da sua mão. Penas que comportam redução. Básicas acrescidas de um sexto diante dos maus antecedentes, assim mantidas na fase seguinte em razão da compensação integral da agravante da reincidência com a atenuante da confissão parcial. Regime fechado necessário.
+Apelo parcialmente provido para redução das penas" (e-STJ, fl. 194).
+A defesa sustenta violação dos artigos 33 e 59, ambos do Código Penal.
+Aduz, inicialmente, que a pena-base foi majorada em razão dos maus antecedentes, contudo, defende que "a conduta prevista no artigo 28 da Lei de Drogas, muito embora ainda não descriminalizada, não gera reincidência, por não ter pena privativa de liberdade. E se não gera reincidência, pelo mesmo fundamento lógico também não pode ser considerada como mau antecedente" (e-STJ, fls. 211-212).
+Pondera, ainda, ausência de fundamentação para fixar o regime inicial mais gravoso.
+Contrarrazões apresentadas (e-STJ, fls. 222-229).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (e-STJ, fls. 246-253).
+É o relatório.
+Decido.
+Quanto à pretensa violação aos artigos 59 do Código Penal, o Tribunal de origem, ao fixar a dosimetria da pena, procedeu da seguinte forma ao cálculo penal:
+"Na primeira etapa da dosimetria, adequado o acréscimo de um sexto, em razão dos maus antecedentes do apelante (fls. 17/18 autos n.º 0023244-12.2017.8.26.0050), alcançando quatro anos e oito meses de reclusão e onze dias-multa, de unidade mínima.
+Ressalte-se que não houve descriminalização da conduta de posse de entorpecente para uso próprio, mas tão-somente "despenalização", razão pela qual é possível a utilização de condenação anterior por delito dessa natureza como circunstância capaz de produzir maus antecedentes" (e-STJ, fls. 197-198).
+Primeiramente, cumpre anotar que, ambas as Turmas da Terceira Seção desta Corte, em recentes julgados, têm decido ser desproporcional o reconhecimento da agravante da reincidência decorrente de condenação anterior pelo delito do art. 28 da Lei n. 11.343/2006, uma vez que a infringência da referida norma legal não acarreta a aplicação de pena privativa de liberdade e sua constitucionalidade está sendo debatida no STF (REsp 1.672.654/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/08/2018, DJe 30/8/2018; HC 453.437/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 4/10/2018, DJe 15/10/2018).
+Nesse contexto, a Quinta Turma deste Tribunal passou a adotar o entendimento de que, com maior razão, por ser o antecedente um instituto penal subsidiário ao da agravante da reincidência, é incabível, também, a utilização de condenação anterior pelo delito de posse de drogas a título de maus antecedentes, para aumentar a pena-base ou para justificar o afastamento do tráfico privilegiado.
+A seguir o julgado que respalda esse entendimento:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIME DE TRÁFICO DE DROGAS E DE RESISTÊNCIA. DOSIMETRIA DAS PENAS. REDUÇÃO DAS PENAS-BASE. NEGATIVAÇÃO DOS ANTECEDENTES CRIMINAIS POR CONDENAÇÃO ANTERIOR POR POSSE DE DROGAS PARA USO PRÓPRIO. DESPROPORCIONALIDADE. DECOTE DOS MAUS ANTECEDENTES. POSSIBILIDADE. ATENUANTE DA CONFISSÃO ESPONTÂNEA E AGRAVANTE DA REINCIDÊNCIA ESPECÍFICA. INEXISTÊNCIA DE PREPONDERÂNCIA. COMPENSAÇÃO INTEGRAL. POSSIBILIDADE. NOVO MONTANTE DAS SANÇÕES ESTABELECIDO EM 6 ANOS DE RECLUSÃO E 600 DIAS-MULTA (TRÁFICO DE DROGAS) E 2 MESES DE DETENÇÃO (CRIME DE RESISTÊNCIA). AGRAVO REGIMENTAL NÃO PROVIDO.
+- Consoante o entendimento firmado no REsp n. 1.672.654/SP (Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 30/8/2018), revela-se desproporcional o reconhecimento da reincidência em virtude de anterior condenação pelo delito previsto no art. 28 da Lei n. 11.343/2006. Precedentes.
+- Desse modo, se os efeitos da reincidência decorrentes de anterior condenação por posse de drogas para uso próprio devem ser afastados, com mais razão ainda, os relativos à circunstância judicial dos maus antecedentes, razão pela qual essa vetorial deve ser decotada das penas-base do paciente, para ambos os delitos.
+ ..
+- Agravo regimental não provido." (AgRg no HC 520.151/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/9/2019, DJe 27/9/2019).
+Portanto, impõe-se a redução da pena-base ao mínimo legal.
+A partir dos parâmetros da sentença (reproduzidos no acórdão), passo à dosimetria da pena.
+Na primeira fase, ante a inexistência de circunstâncias judiciais desfavoráveis, fixo a pena-base em 4 anos de reclusão. Na segunda fase, compenso a agravante da reincidência com a atenuante da confissão. Na terceira fase, ausentes de causas de aumento e diminuição da pena, torno a reprimenda definitiva em 4 anos de reclusão e 10 dias-multa.
+O regime inicial é o semiaberto, conforme determina o art. 33, § 2º, "b" e "c", do CP.
+Ante o exposto, com fundamento no art. 255, § 4º, i nciso III, do RISTJ, dou provimento ao recurso especial para fixar a pena em 4 anos de reclusão e 10 dias-multa, no regime inicial semiaberto, mantendo-se, no mais, o acórdão recorrido.
+Publique-se. Intimem-se.
