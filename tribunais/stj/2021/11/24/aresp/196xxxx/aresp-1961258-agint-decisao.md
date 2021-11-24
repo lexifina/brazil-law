@@ -1,0 +1,54 @@
+DECISÃO
+ODILA PEREIRA DE MOURA (ODILA) ajuizou ação declaratória de nulidade de negócio jurídicocumulada com repetição de indébito e danos moraiscontra BANCO CETELEM S.A. (BANCO), alegando descontos indevidos em seu benefício previdenciário.
+Em primeira instância, o pedido foi julgado improcedente, sendo ODILA condenada ao pagamento de custas processuais,honoráriosadvocatícios fixados em 10% sobre o valor da causa, e multa de 1% sobre o valor atualizado da causa, nos termos do art. 81,caput, do NCPC(e-STJ, fls. 201/207).
+A apelação interposta por ODILAnão foi provida pelo TJ/MS nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS - DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO DE APOSENTADORIA - CONTRATAÇÃO VÁLIDA DEMONSTRADA PELA INSTITUIÇÃO FINANCEIRA - CONDENAÇÃO AO PAGAMENTO DE MULTA POR LITIGÂNCIA DE MÁ- FÉ - SENTENÇA MANTIDA - RECURSO IMPROVIDO.
+Demonstrada a contratação válida e que a parte autora desfrutou do valor objeto do empréstimo, descontados em benefício previdenciário de aposentado, a improcedência dos pedidos iniciais é medida que se impõe.
+Considera-se litigante de má-fé aquele que altera a verdade dos fatos com intenção de induzir o julgador a erro e obter vantagem indevida(e-STJ, fl. 236).
+Inconformada, ODILA manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação dos arts. 79 e80, ambos do NCPC, ao sustentar que não agiu de má-fé, visto que não alterou a verdade dos fatos, tendo utilizado do processo para ver reconhecido em juízo uma pretensão que acredita ser seu direito.
+O apelo nobre não foi admitido em virtude da incidência daSúmulanº7 do STJ (e-STJ, fls. 274/275).
+Sobreveioagravo que não foi conhecido em decisão da Presidência do STJ, em virtude da ausência de impugnação aofundamentoda decisão agravada(e-STJ, fls. 299/301).
+Nas razões do presente agravo interno, ODILAdefendeu que impugnou O fundamentoda decisão de inadmissibilidade (e-STJ, fls. 304/313).
+Não foi apresentada impugnação.
+É o relatório.
+DECIDO.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 299/301 e passo ao exame do recurso especial interposto às e-STJ, fls. 242/252.
+O recurso não merece prosperar.
+De plano, vale pontuar que o agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da multa por litigância de má-fé
+Nas razões do presente recurso, ODILA afirmou a violação dos arts. 79e 80 do NCPC, bem como dissídio jurisprudencial, afirmando quenão agiu de má-fé, visto que não alterou a verdade dos fatos, tendo utilizado do processo para ver reconhecido em juízo uma pretensão que acredita ser seu direito.
+Sobre o tema o TJ/MS consignou que ODILA se beneficiou dos valores contratados, evidenciando nítida alteração dos fatos, caracterizando-se a litigância de má-fé, confira-se:
+Como visto, pretendeu a parte autora a declaração de inexistência de débito e indenização por danos morais, ao argumento de que o réu, mediante fraude, teria efetuado cobrança ilegítima de valores em seu benefício previdenciário.
+No entanto, restou demonstrada a relação jurídica havida entre as partes e, principalmente, que a parte autora beneficiou-se do crédito disponibilizado, evidenciando que, desde a data da propositura da demanda, tinha ciência do negócio jurídico que deu origem aos descontos que reputa indevidos.
+Sobre a litigância de má-fé, dispõe o art. 80, do CPC/2015: Art. 80.
+Considera-se litigante de má-fé aquele que: "(..) II - alterar a verdade dos fatos; (..)".
+Da análise dos autos, extrai-se que a ação foi ajuizada com argumento de não contratação da dívida debitada pelo demandado no benefício previdenciário do demandante.
+A documentação acostada nos autos demonstra à saciedade que houve a contratação com a devida transferência do crédito e autorização para consignação no benefício previdenciário da parte autora.
+Como bem consignou o magistrado singular, "(..) Em sua defesa, a requerida sustentou a regularidade da contratação do empréstimo consignado, assim como da transferência do crédito obtido para conta bancária de titularidade do autor, de maneira, que se desincumbiu de seu ônus, demonstrando que o autor contratou o referido empréstimo (f. 117-8), tendo, inclusive, recebido a quantia de R$ 959,88 em sua conta bancária (f. 123). Quanto ao referido documento de f. 123, este deve ser aceito como verdadeiro e eficaz, embora contestado pelo autor. Isto porque, a parte autora poderia ter juntado aos autos o seu extrato bancário completo do mês de contratação para comprovar que não recebeu nenhum valor do banco requerido, mas assim não fez em nenhum momento processual, sendo certo que a parte autora tem mais facilidade que o réu para comprovar a (in)existência de recebimento do referido valor em sua conta bancária, pois, como dito, para isso bastaria a juntada de um simples extrato bancário de sua conta bancária. Ou se ja, a parte autora não cumpriu com o seu dever de cooperação processual (art. 6º do CPC)." (fls. 203/204).
+Ora, a tese de inexistência de contratação de empréstimo a embasar os descontos, exsurgindo a certeza da vontade deliberada de enganar o juízo, com intencional alteração da verdade dos fatos, cabalmente evidenciada no processo, demonstra tratar-se a apelante de litigante de má-fé(e-STJ, fl. 238).
+Assim, rever as conclusões quanto à alteração da verdade dos fatos e à litigância de má-fé demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SUCESSÕES. INVENTÁRIO. LITISPENDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. APLICAÇÃO DA MULTA POR LITIGÂNCIA DE MÁ-FÉ. ART. 18 DO CPC/1973. AFASTAMENTO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONDENAÇÃO DE OFÍCIO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. É inviável o conhecimento de matéria que não tenha sido ventilada no v. aresto atacado e sobre a qual, embora tenham sido opostos embargos declaratórios, o órgão julgador não se pronunciou, cabendo à parte interessada alegar ofensa ao art. 535 do CPC/73. Incidência da Súmula 211 do STJ.
+2. O eg. Tribunal de origem, com base no exame do suporte fático-probatório dos autos, asseverou que o agravante deixou de referir a existência de inventário anterior, pretendendo alterar a verdade dos fatos para obter a sua nomeação como inventariante, usando do processo para conseguir objetivo ilegal e procedendo de modo temerário.
+3. Rever a conclusão adotada no v. acórdão recorrido sobre a caracterização de litigância de má-fé do agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. A multa por litigância de má-fé pode ser decretada de ofício quando estiverem preenchidas as condutas descritas no art. 17 do CPC.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.487.062/RS, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. em 28/05/2019, DJe 14/06/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRÉVIO PAGAMENTO DO DÉBITO POUCO DEPOIS DO VENCIMENTO E ANOS ANTES DA EXCEÇÃO. RECONHECIMENTO DA EXISTÊNCIA DE PROVA PRÉ-CONSTITUÍDA. SÚMULA 7/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. Não há violação ao art. 535 do CPC, tendo o acórdão examinado, pontualmente e sem a alegada contradição, a questão atinente à possibilidade de, mediante prova pré-constituída, em sede de exceção de pré-executividade, demonstrar-se o prévio pagamento da dívida, evidenciando a nulidade da execução (art. 618, inciso I, do CPC/73).
+2. "A exceção de pré-executividade só é aceita em caráter excepcional: havendo prova inequívoca de que a obrigação inexiste, foi paga, está prescrita ou outros casos de extinção absoluta." (REsp 502.823/RS, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, julgado em 04/09/2003, DJ 06/10/2003, p. 215)
+3. Possibilidade de julgamento monocrático da apelação, tendo em conta orientação dominante acerca da questão de fundo, o que não representa nulidade a ser declarada ou afronta ao art. 557 do CPC/73.
+4. Sequer o fato de não terem sido o agravo interno e os embargos de declaração, quando submetidos à sessão de julgamento, pautados, representa afronta ao devido processo legal, pois esse procedimento era assim autorizado pelo CPC/73.
+5. Inviável, em sede de recurso especial, a análise acerca da caracterização da litigância de má-fé por alteração da verdade dos fatos, em razão do óbice veiculado pela Súmula 7/STJ. (REsp 1663193/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/02/2018, DJe 23/02/2018)
+6."É desnecessária a comprovação do prejuízo para que haja condenação ao pagamento da indenização prevista no artigo 18, caput e § 2º, do Código de Processo Civil, decorrente da litigância de má-fé"(EREsp 1.133.262/ES, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 03/06/2015, DJe 04/08/2015).
+7. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no REsp 1.671.306/PA, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. em 26/06/2018, DJe 03/08/2018)
+O recurso, portanto, não merece ser conhecido.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHECER do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em favor do BANCO em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC, observando, contudo, o disposto no art. 98, § 3º, do NCPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA. ALEGAÇÃO DE DESCONTOS INDEVIDOS EM SEU BENEFÍCIO PREVIDENCIÁRIO. RECONSIDERAÇÃO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
