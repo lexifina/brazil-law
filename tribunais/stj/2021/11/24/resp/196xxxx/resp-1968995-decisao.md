@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 220):
+ACIDENTE DO TRABALHO  LER  INCAPACIDADE PARCIAL E PERMANENTE E NEXO CAUSAL COMPROVADOS  AUXÍLIO-ACIDENTE DEVIDO. DIB: cessação do auxílio-doença. Sentença de procedência mantida. Recursos do réu improvido, do autor provido e oficial provido em parte.
+Opostos embargos de declaração, foram rejeitados (fls. 236/241).
+Aponta o recorrente violação dos arts. 535, do CPC/73, 1º F, da Lei 9.494/97, com a redação dada pelo art. 5º da Lei 11.960/2009, 27 da Lei 9.868/99, 31 da Lei 10.741/03 e 41-A da Lei 8.213/91.
+Sustenta, em síntese: (I) a existência de omissão no julgado, (II)que "..sejam alterados os critérios de correção monetária, com determinação para que seja aplicado o INPC em eventuais parcelas vencidas a partir da vigência da Lei 10.741103, até o advento da Lei 11.960/09, cuins critérios devem ser adotados até aue o C. STF module os efeitos das Decisões proferidas nas ADIS nº 4.357, 4.372, 4.440 e 4.425, quando, então, passam a ser aplicados os critérios estabelecidos pela Corte Suprema." (fl. 263).
+Contrarrazões não apresentadas (fl. 266).
+Em novo exame por força do art. 1.030, II, do CPC/2015, o acórdão foi parcialmente modificado, cuja ementa se colhe (fl. 282):
+AÇÃO ACIDENTÁRIA. REEXAME EM RECURSO REPETITIVO, NOS TERMOS DO ART. 1040 CAPUT INC II DO CPC. CORREÇÃO MONETÁRIA, INCIDÊNCIA DO INPC ATÉ 29.06.2009 E A PARTIR DE ENTÃO, DO IPCA-E CONSOANTE ENTENDIMENTO DO STJ, FIXADO NO JULGAMENTO DO TEMA 905, BEM COO DO STF, FIXADO NO JULGAMENTO DO TEMA 810.
+Acórdão parcialmente reformado.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não prospera.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 25/9/2019.
+No mais, ressalta-se que na sistemática introduzida pelo artigo 543-C do CPC/73, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008. Essa conclusão pode ser extraída da fundamentação constante da Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, DJe de 12/5/2011, submetida à apreciação da Corte Especial:
+"A edição da Lei n. 11.672, de 8.5.2008, decorreu, sabidamente, da explosão de processos repetidos junto ao Superior Tribunal de Justiça, ensejando centenas e, conforme a matéria, milhares de julgados idênticos, mesmo após a questão jurídica já estar pacificada.
+O mecanismo criado no referido diploma, assim, foi a solução encontrada para afastar julgamentos meramente "burocráticos" nesta Corte, já que previsível o resultado desses diante da orientação firmada em leading case pelo órgão judicante competente.
+Não se perca de vista que a redução de processos idênticos permite que o Superior Tribunal de Justiça se ocupe cada vez mais de questões novas, ainda não resolvidas, e relevantes para as partes e para o País.
+Assim, criado o mecanismo legal para acabar com inúmeros julgamentos desnecessários e inviabilizadores de atividade jurisdicional ágil e com qualidade, os objetivos da lei devem, então, ser seguidos também no momento de interpretação dos dispositivos por ela inseridos no Código de Processo Civil e a ela vinculados, sob pena de tornar o esforço legislativo totalmente inócuo e de eternizar a insatisfação das pessoas que buscam o Poder Judiciário com esperança de uma justiça rápida."
+Quanto à questão de fundo, conforme se verifica dos autos, o Tribunal a quo, em juízo de retratação previsto no art. 1.030, II, do CPC/15, proferiu novo julgamento e modificou o entendimento anteriormente exarado.
+Dessa forma, como houve alteração do fundamento adotado pela Corte de origem, a retificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia, da Súmula 579/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MANTIDO, MAS COM FUNDAMENTO NOVO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ.
+1. Submetido o recurso especial a juízo de retratação e reapreciado o caso, conforme o art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi mantido, acrescentando-se, todavia, fundamento novo.
+2. Hipótese em que necessária a ratificação do recurso especial, providência não observada. Incidência, por analogia, da Súmula 579/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 828.379/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 25/08/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO PROFERIDO NOS TERMOS DO ART. 543-C, § 7º, II, DO CPC. FALTA DE RATIFICAÇÃO. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA.
+1. "É inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação" - Súmula 418/STJ.
+2. Hipótese em que o Recurso Especial foi submetido a juízo de retratação em razão de a matéria versada nele Recurso Especial ter sido submetida a julgamento no rito dos recursos repetitivos. Posteriormente, o órgão colegiado reapreciou o tema com base no art. 543-C, § 7º, II, do CPC; manteve-se o acórdão hostilizado, mas o Recurso Especial não foi reiterado ou ratificado pela parte interessada.
+Agravo regimental improvido.
+(AgRg no REsp 1.479.578/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/12/2015, DJe 02/02/2016)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
