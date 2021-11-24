@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARCOS DA SILVA MANOEL contra decisão desta Relatoria que, fundamentada no art. 253, parágrafo único, II, "c", do RISTJ, conheceu do agravo e deu parcial provimento ao recurso especial, para reduzir a pena do réu (e-STJ, fls. 758-763).
+O embargante alega, em síntese, que "apesar da r. decisão ter dado parcial provimento ao Recurso Especial interposto pelo ora Embargante, e, por conseguinte, redimensionado a pena privativa de liberdade imposta a este para 2 (dois) anos de reclusão, e 7 dias-multa, não restou analisada a ocorrência da prescrição da pretensão punitiva no presente caso." (e-STJ, fl. 768).
+Aduz que, em razão da pena aplicada ao ora Embargante - 2 (dois) anos de reclusão - e, diante do trânsito em julgado da sentença condenatória para a acusação (vide eventos 121, 123 e 124 dos autos originários), o prazo prescricional de 4 (quatro) anos foi ultrapassado entre a data do recebimento da denúncia (29 de Outubro de 2015) e a data da publicação e registro da sentença condenatória (28 de maio de 2020), fulminando assim na incidência da prescrição retroativa, conforme estabelecem os art. 109, V, e 110, § 1º, ambos do Código Penal"(e-STJ, fls. 768-769).
+Requer, assim, "sejam recebidos os presentes embargos e, ao final, sejam os mesmos acolhidos a fim de aclarar a referida omissão, para declarar extinta a punibilidade do Embargante em face da ocorrência da prescrição da pretensão punitiva na modalidade retroativa" (e-STJ, fl. 772).
+É o relatório.
+Os embargos não merecem acolhimento.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Não se observa, in casu, a omissão apontada. Isso porque a decisão ora embargada (e-STJ, fls. 758-763) ainda não transitou em julgado para a acusação, o que afasta a aplicabilidade do art. 110, § 1º, do CP. Desse modo, na espécie, a prescrição é regulada pela pena fixada no acórdão recorrido - 3 anos de reclusão -, a qual, nos termos do art. 109, IV, do CP, prescreve em 8 anos.
+Entretanto, verifica-se que, entre o recebimento da denúncia (29 de Outubro de 2015) e a data da publicação da sentença condenatória (28 de maio de 2020), não transcorreu o referido lapso temporal, o que obsta o reconhecimento da prescrição da pretensão punitiva estatal neste momento processual.
+Ante o exposto, à mingua de omissões, contradições ou obscuridades no julgado, rejeito os embargos de declaração.
+Publique-se. Intime-se.
