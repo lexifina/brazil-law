@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de ANDRE FELIPE DE MELO SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (APn. 1500432-64.2018.8.26.0599).
+Em primeiro grau, o paciente foi condenado às penas de 6 anos, 9 meses e 20 dias de reclusãoem regime fechadoe de 680 dias-multa, pela prática do crime tipificado nos arts. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006, c/c o art. 29, caput, e61, I, ambos do Código Penal.
+A defesa alega que a prisão preventiva foi decretada de ofício, carecendo de fundamentação e estando ausentes os requisitos autorizadores da segregação cautelar.
+Esclarece que o paciente respondia ao processo em liberdade, mas ao proferir a sentença condenatória foi decretada a custódia cautelar, sem que existisse qualquer fato contemporâneo que justificasse a medida, nem tendo o Ministério Público em alegações finais requerido a prisão.
+Argumenta que, embora a Lei n. 13.964/2019 seja posterior ao feito, deve ser aplicada ao casopor ser mais benéfica.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+O pedido de liminar foi indeferido às fls. 40-41.
+O Ministério Público Federal manifestou-se "pelo não conhecimento, mas pela concessão da ordem, de ofício, para que a prisão preventiva decorrente da proibição de recorrerem liberdade seja substituída por imposição de medidas cautelares alternativas" (fl. 86).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+No que diz respeito à falta de contemporaneidade, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação / tendo em vista a reiteração de pedido já apreciado em impetração anterior. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+A redação daLei n. 13.964de 24/12/2019alterou o art. 311 do CPP, passando a dispor que a decretação de prisão preventiva poderá ocorrer a qualquer momento da investigação ou do processo, desde que hajarequerimento do Ministério Pública ou representação da autoridade policial.
+Ressalta-se que oart. 311 do CPPé uma norma processual, de modo que, nos termos do art. 14 do CPC, não retroagirá,ainda que seja para benefício do réu, e será aplicada de forma imediata nos processos em curso, respeitados os atos processuais praticados e as situações jurídicas consolidadas sob a vigência da norma revogada.
+No presente caso, em 4/6/2019, o Juízo de primeiro grau condenouo paciente e negou-lhe o direito de recorrer em liberdade, decretando, por conseguinte, suaprisão preventiva. Com efeito,o ato ocorreu antes da vigência da supracitada alteração legislativa, motivo pelo qual não pode ser aplicado seus efeitos.
+Por mais, aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fl. 28):
+Conheço do pleito de liberdade provisória de ANDRÉ como preliminar, para rechaçá-la.
+A sentença bem fundamentou a vedação ao recurso em liberdade, cumprindo o disposto na CF/88, art. 93, IX, sendo plenamente apta à função de comunicar, ao destinatário, as razões da manutenção da segregação cautelar.
+Confira-se: "Quanto ao réu, como é reincidente e mesmo em cumprimento cometeu outro delito, incentivando sua companheira a realizar esse tipo de atividade também, não poderá recorrer em liberdade, pois põe em risco a ordem pública. Assim, decreto sua prisão preventiva"(fls. 183).
+Mesmo que assim não fosse, a essa altura, prejudicado pelo julgamento Colegiado.
+Nota-se que o relator rechaçou a preliminarde liberdade provisória e, se caso assim não o tivesse feito, arguiu que estaria prejudicada com o julgamentodo recurso.
+In casu,foi ressaltado o fato do paciente ser reincidente e ter cometido o crime em questão enquanto cumpria pena dentro do sistema prisional. Assim a prisão cautelar restou fundamentada na necessidade de garantir a ordem pública.
+Inclusive ressalta-se que, conforme orientação jurisprudencial do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
