@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por Didimo Jose Costa Ferreira Junior e Vitor Cardoso Marques contra a decisão proferida pelo Tribunal de Justiça do Pará, que, em juízo de admissibilidade, negou seguimento ao recurso especial por eles apresentado, impugnando, por sua vez, o acórdão prolatado na Apelação Criminal n. 0002008-43.2015.8.14.0006, assim ementado (fl. 129):
+EMENTA: APELAÇÃO CRIMINAL  ROUBO QUALIFICADO PELO EMPREGO DE ARMA DE FOGO E CONCURSO DE PESSOAS  AUTORIA E MATERIALIDADE INCONTROVERSAS NOS AUTOS DIANTE DAS INFORMAÇÕES DA VÍTIMA EM HARMÔNIA COM A CONFISSÃO DOS ACUSADOS E AS DECLARAÇÕES DAS TESTEMUNHAS  DESCLASSIFICAÇÃO DO CRIME DE ROUBO CONSUMADO PARA A MODALIDADE TENTADA  IMPOSSIBILIDADE  A JURISPRUDÊNCIA PACÍFICA DA CORTE SUPERIOR E DO SUPREMO TRIBUNAL FEDERAL É DE QUE O CRIME DE ROUBO SE CONSUMA NO MOMENTO EM QUE O AGENTE SE TORNA POSSUIDOR DA COISA SUBTRAÍDA, MEDIANTE VIOLÊNCIA OU GRAVE AMEAÇA, AINDA QUE HAJA IMEDIATA PERSEGUIÇÃO E PRISÃO, SENDO PRESCINDÍVEL QUE O OBJETO SUBTRAÍDO SAIA DA ESFERA DE VIGILÂNCIA DA VÍTIMA. PRECEDENTE DOS TRIBUNAIS SUPERIORES  HAVENDO SENTENÇA CONDENATÓRIA COM TRÂNSITO EM JULGADO AUTORIZA O RECONHECIMENTO DA AGRAVANTE DA REINCIDÊNCIA  DOSIMETRIA DA PENA ESCORREITA PARA A CENSURA DO CRIME  SENTENÇA MANTIDA  APELO DESPROVIDO DOS RÉUS  UNÂNIME.
+Nas razões do especial, a Defensoria Pública apontou contrariedade ao art. 59 do Código Penal, contestando, em suma, a primeira fase da dosimetria da pena, em especial, a fundamentação apresentada para a negativação dos vetores da culpabilidade e das circunstâncias do crime, bem como o quantum de aumento adotado, de maneira desproporcional e ilegal (fls. 144/146). Requereu a redução bem próximo ao mínimo legal a basilar fixado (fl. 146).
+Apresentadas contrarrazões (fls. 154/161), o Tribunal local não admitiu o recurso, por falta de prequestionamento e por incidência da Súmula 83/STJ (fls. 164/165).
+Daí o presente agravo (fls. 170/179). Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo, nos seguintes termos (fl. 210):
+AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO RECURSO ESPECIAL. PLEITO DE REANÁLISE DA DOSIMETRIA DA PENA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7 DESSE STJ. PRECEDENTES. PARECER PELO NÃO-CONHECIMENTO DO AGRAVO.
+1. O pedido de reanálise da dosimetria da pena demanda reexame minucioso do conjunto fático-probatório produzido nos autos, o que é inadmissível nessa instância superior. Precedente.
+- Parecer pelo não conhecimento do agravo em recurso especial.
+É o relatório.
+O agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Busca a Defensoria Pública a reforma do acórdão recorrido, a fim de reduzir a pena-base ao mínimo legal.
+Sem razão, contudo.
+Isso porque a Corte de origem não emitiu nenhum juízo de valor acerca da tese levantada no especial, tendo em vista que tal questão não foi abordada pela defesa nas razões de apelação, e não houve sequer a oposição de embargos de declaração com o fim de forçar a sua análise.
+Importante ressaltar que, das razões do recurso apelatório, infere-se que a defesa apenas contestou a incidência da agravante da reincidência em relação a Vitor Cardoso, sustentando, ainda, a desclassificação do crime, com aplicação da pena relativa ao crime tentado em relação a ambos os acusados (fls. 78/81).
+Nesse contexto, fica inviabilizado o exame, por esta Corte, da tese exposta no recurso especial, sob pena de indevida supressão de instância, razão pela qual incide o disposto na Súmula 282/STF, ante a ausência do indispensável prequestionamento.
+A propósito: AgRg no REsp n. 1.886.303/RN, Ministro Felix Fischer, Quinta Turma, DJe 14/9/2020; AgRg no AREsp n. 1.283.489/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2019; AgRg no AREsp n. 1.524.415/RN, Ministro Jorge Mussi, Quinta Turma, DJe 30/9/2019; e AgRg no AREsp n. 1.477.652/RS, Ministra Laurita Vaz, Sexta Turma, DJe 27/8/2019.
+Ante o exposto, com fundamento no art. 253, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO DUPLAMENTE MAJORADO. EMPREGO DE ARMA DE FOGO E CONCURSO DE AGENTES. DOSIMETRIA. ART. 59 DO CP. PENA-BASE. PRIMEIRA FASE. PREQUESTIONAMENTO. NECESSIDADE. INOVAÇÃO RECURSAL. PEDIDO NÃO LEVADO À APRECIAÇÃO DA CORTE ESTADUAL EM APELAÇÃO. SÚMULA 282/STF.
+Agravo conhecido para não conhecer do recurso especial.
