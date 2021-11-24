@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WALTER VIEIRA DE SÁ JÚNIORcontra decisão liminar de Desembargador do Tribunal de Justiça do Estado do Rio de Janeiro(HC n. 0083369-52.2021.8.19.0000).
+Segundo consta dos autos, opaciente teve sua prisão preventiva decretada pela suposta prática docrimeprevistonoartigo35c/c artigo 40, IV e VI, ambos da Lei n. 11.343/2006.
+Na ação originária, a defesa postulou a substituição da prisão preventiva, pela domiciliar, sustentando que sua esposa sofreu um AVC que lhe deixou sequelas, o que a impossibilita de fazer as atividades cotidianas e também por ter uma filha com 10 anos de idade, que precisa dos seus cuidados, alegou ainda a falta de fundamentos para o decreto preventivo.O Relator da ação na origem, contudo, indeferiu a liminar (e-STJ fls. 20/21).
+Nas razões da presente impetração, a defesa reafirma a necessidade de substituição da prisão preventiva, pela domiciliar, em virtude da grave doença que acometeu sua esposa, deixando-a com sequelas e também pela ausência de fundamentos válidos para a manutenção do decreto preventivo.
+Diante disso, pede, em liminar e no mérito, a substituição da prisão preventiva, pela domiciliar, tudo com superação do enunciado n. 691/STF.
+É o relatório, decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Diante do contexto informativo apresentado nos autos, o Relator da ação originária entendeu não haver ilegalidade manifesta, motivo pelo qual indeferiu a liminar declinando as seguintes razões (e-STJ fl. 21):
+ ..
+Não se encontram presentes os requisitos para concessão da liminar.Como bem salientado pelo juízo de piso, os elementos indiciários trazidos aos autos, após longa e detalhada apuração, indicam que o paciente atuava ativamente no tráfico de drogas da região, o que se mostra incompatível com os cuidados a serem dispensados a sua filha e esposa.Nesta senda, não há como acolher o pleito defensivo.Pelo exposto, INDEFIRO A LIMINAR PLEITEADA.
+Com efeito, admite-se a prisão preventiva quando as circunstâncias concretas do crime revelarem risco à ordem pública. (HC n. 118.844, Relator Ministro ROBERTO BARROSO, Primeira Turma, julgado em 19/11/2013, publicado em 19/12/2013).
+Assim, não se verifica manifesta ilegalidade na decisão que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte. Entendo que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
