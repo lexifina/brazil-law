@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do SeguroSocial contra acórdão proferido pelo TRF-1ª Região, assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. RURICOLA. ATIVIDADE RURAL COMPROVADA POR INICIO DE PROVA DOCUMENTAL CORROBORADA POR PROVA TESTEMUNHAL. TUTELA ANTECIPADA, TERMO INICIAL. HONORÁRIOS ADVOCATICIOS. CORREÇÃO MONETÁRIA. JUROS DE MORA. CUSTAS.
+1. Nos termos da Lei 8.213/1991, tem direito ao benefício da aposentadoria rural por idade o segurado especial, empregado rural, trabalhador autónomo rural ou trabalhador avulso, com idade superior a 60 anos para o homem e 55 anos para a mulher, que tenha comprovado o efetivo exercício de atividade rural, por período igual ao número de meses correspondentes à respectiva carência exigida no art. 142 do referido texto legal.
+2. A jurisprudência tem aceito que a comprovação do tempo de carência seja demonstrado por início razoável de prova documental, desde que corroborada por prova testemunhal consistente sobre a veracidade das alegações.
+3. O rol de documentos a que se refere o art. 55, § 3º, da Lei 8.213/1991, que o STJ já decidiu ser exemplificativo, indica, dentre outros, aqueles que podem ser aceitos para em conjunto com os fatos apontados e os demais elementos de prova, formar a convicção do juízo.
+4. No caso concreto, a parte autora juntou documentação que se enquadra nos moldes admitidos pela jurisprudência, em que consta a qualificação de rurícola, contemporânea ao prazo de carência que se busca demonstrar cumprido, sendo o principio de prova corroborado por testemunhas que atestam de forma coerente e robusta a qualidade de trabalhador rural da parte autora, suprindo a exigência de tempo de trabalho exigida pela lei.
+5. A Lei 8.213/1991, em seu art. 49, I, "b", dispõe que a aposentadoria será devida a partir da data do requerimento administrativo.
+6. Na ausência de requerimento administrativo prévio, de acordo com a jurisprudência mais atual do STJ, firmada após a atribuição do tema à Primeira Seção daquela Corte, pacificou-se o entendimento de que o benefício é devido a partir da citação, sendo oportuno citar, dentre outros, os precedentes inscritos no AgRg no AREsp 255.7931SP, EDcl 1349703/RS e AREsp 516018.
+7. Prescreve em cinco anos, em caso de requerimento administrativo, a contar da data em que deveriam-ter-sIda-papq, trul2 n qualquer-ação pata-haver. prestaçõns vencidas,.. ou-quaiscpPr  - restituições ou diferenças devidas pela Previdência Social (Lei 8.213/1991, art. 103, parágrafo único), com exceção dos incapazes, por força das disposições dos arts. 30, I, e 198, I, do atual Código Civil.
+8. Caso a parte autora receba benefício de prestação continuada previsto na Lei Orgânica da Assistência Social (LOAS), os valores devem ser compensados, tomando-se por base a
+Opostos embargos de declaração, rejeitados.
+Em suas razões de recurso especial, sustenta o INSS que o Tribunal a quonegou vigência aoartigo1.022, uma vez que o Tribunal de origem foi omisso quanto à ocorrência de julgamento ultra petita. Acrescenta que houve violação dos artigos 141 e 492, porquanto houvejulgamento extra petita com a concessão de aposentadoria por idade rural,com data de início do benefício na data em que a autora alcançou o requisito etário, sem ter sido demandado pela autora.
+O prazo para apresentação de contrarrazões ao recurso especial transcorreuin albis.
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atrai aincidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostoscom fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18de março de 2016) serão exigidos os requisitos de admissibilidade recursalna forma do novo CPC".
+De início, quanto à alegada ofensa aoartigo1.022 do CPC/2015,depreende-se do acórdão recorrido que o Tribunal de origem, demodo fundamentado, tratou da questão suscitada, resolvendo, portanto, demodo integral a controvérsia posta.
+Na linha da jurisprudência do STJ, não há falar em negativa deprestação jurisdicional, tampouco em vício, quando o acórdão impugnadoaplica tese jurídica devidamente fundamentada, promovendo a integralsolução da controvérsia, ainda que de forma contrária aos interesses daparte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DOCPC/2015 INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS ACF/1988. MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADEDE APRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto quea Corte de origem apreciou todos os pontos relevantes ao deslindeda controvérsia de modo integral e adequado, não padecendo oacórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão dobenefício previdenciário com fundamentação eminentemente constitucional,razão pela qual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.740.348/RS, Segunda Turma, Relator Ministro Herman Benjamin,julgado em 21/6/2018, DJe 22/11/2018)
+A alegada violação doartigo1022 do CPC/2015 nãomerece provimento.
+A questão jurídica está em saber se o Tribunal a quo incorreu emjulgamento ultra petita.
+No tocante à caracterização de julgamento ultra petita, é sabido que oprocesso civil previdenciário contém características peculiares, uma delasconsiste em ter por objeto, em regra, direito subjetivo fundamental, razãopela qual legitima-se com mais ênfase a instrumentalidade do processo paraser alcançada prestação jurisdicional célere e exequível.
+Outrossim, a jurisprudência do STJ já assentou que não há falar emjulgamento ultra ou extra petita no processo civil previdenciário.
+Colacionam-se os seguintes precedentes:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. BENEFÍCIO MAIS VANTAJOSO. JULGAMENTOEXTRA PETITA E REFORMATIO IN PEJUS NÃO CONFIGURADOS.
+1. Em relação à propositura com fulcro no art. 485, V, do CPC, a AçãoRescisória por violação de literal disposição de lei só é cabível quando a
+interpretação conferida pelo acórdão rescindendo for teratológica,revelando total descompasso com a jurisprudência amplamente predominante àépoca do julgado.
+2. É firme o posicionamento do STJ, de que em matéria previdenciária deveflexibilizar a análise do pedido contido na petição inicial, não seentendendo como julgamento extra ou ultra petita a concessão de benefício
+diverso do requerido na inicial. Precedentes: (AgRg no REsp 1.367.825/RS,Rel. Ministro Humberto Martins, Segunda Turma, DJe 29/4/2013) e (AgRg noREsp 861.680/SP, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe17/11/2008).
+3. Recurso Especial não provido.
+(REsp 1.499.784/RS, Segunda Turma, Relator Ministro Herman Benjamin, DJe11/2/2015)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. CONCESSÃO DE BENEFÍCIO DIVERSO. DECISÃOEXTRA PETITA NÃO CONFIGURADA. APOSENTADORIA POR IDADE. IMPLEMENTAÇÃO DOSREQUISITOS. PRECEDENTES.
+1. Em matéria previdenciária, deve-se flexibilizar a análise do pedidocontido na petição inicial, não entendendo como julgamento extra ou ultrapetita a concessão de benefício diverso do requerido na inicial, desde queo autor preencha os requisitos legais do benefício deferido. Precedentes.
+2. O Tribunal a quo reformou a sentença que havia concedido à autora obenefício de aposentadoria por invalidez. Considerando a perda dessaqualidade e a implementação de outros requisitos, lhe foi deferida aaposentadoria por idade, nos termos da Lei n. 10.666/03, a contar de24.07.2008.Agravo regimentalimprovido.
+(AgRg no AREsp 574.838/SP, Segunda Turma, Relator Ministro HumbertoMartins, DJe 30/10/2014)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.BENEFÍCIO PREVIDENCIÁRIO. AÇÃO REQUERENDO CONCESSÃO DO BENEFÍCIO DEAPOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ACÓRDÃO QUE CONCEDE APOSENTADORIAPOR IDADE. GARANTIA DE MELHOR BENEFÍCIO AO SEGURADO. INOCORRÊNCIA DEJULGAMENTO EXTRA PETITA. AGRAVO REGIMENTAL DO INSS DESPROVIDO.
+1. O Direito Previdenciário não deverá ser interpretado como uma relaçãode Direito Civil ou Direito Administrativo no rigor dos termos, mas simcomo fórmula ou tutela ao hipossuficiente, ao carecido, ao excluído. Estedeve, também, ser um dos nortes da jurisisdição previdenciária.
+2. É firme a orientação desta Corte de que não constitui julgamento extraou ultra petita a decisão que, verificando a inobservância dospressupostos para concessão do benefício pleiteado na inicial, concedebenefício diverso por entender preenchidos seus requisitos, tendo em vistaa relevância da questão social que envolve a matéria. Precedentes:
+3. Agravo Regimental do INSS desprovido.
+(AgRg no REsp 1.320.249/RJ, Primeira Turma, Relator Ministro NapoleãoNunes Maia Filho, DJe 2/12/2013)
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. CARACTERIZAÇÃO DAINCAPACIDADE LABORATIVA, NOS TERMOS DO ARTIGO 42 DA LEI 8.213/91.CONCESSÃO DO BENEFÍCIO. ASSISTÊNCIA PERMANENTE. ARTIGO 45 DA LEI 8.213/91.OBSERVÂNCIA. LAUDO PERICIAL.
+1. O pedido feito com a instauração da demanda emana de interpretaçãológico-sistemática da petição inicial, não podendo ser restringido somenteao capítulo especial que contenha a denominação "dos pedidos", devendo serlevado em consideração, portanto, todos os requerimentos feitos ao longoda peça inaugural, ainda que implícitos.
+2. O juiz, ao acolher um dos pedidos implícitos veiculados pelademandante, que expôs expressamente a situação de dependência enecessidade de assistência permanente de parentes e amigos, não julgou demodo extra ou ultra petita, quando concedeu o acréscimo de 25% no valor daaposentadoria por invalidez do segurado, nos termos do artigo 45 da Lei8.213/91.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 891.600/RJ, Sexta Turma, Relator Ministro DesembargadorConvocado do TJ/RS Vasco Della Giustina, DJe 6/2/2012)
+Assim, o acórdão recorrido não merece retoque, pois não há que se falar emjulgamento ultra petita, considerando que o processo civil previdenciárioestá embasado no princípio da primazia da realidade dos fatos, objetivandoa efetivação dos direitos fundamentais de proteção social, e, por fim, oacertamento da decisão judicial.
+Ante o exposto, com fulcro no artigo 932, IV, do CPC/2015 c/c o artigo255, § 4º, II, do RISTJ, nego provimento ao recurso especial.Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIA. RECURSO ESPECIAL. ENUNCIADOADMINISTRATIVO 3/STJ. VIOLAÇÃO AO ARTIGO 1.022/CPC. NÃO OCORRÊNCIA.APOSENTADORIA POR IDADE RURAL. JULGAMENTO EXTRAPETITA. NÃO OCORRÊNCIA. RECURSO ESPECIAL NÃO PROVIDO.
