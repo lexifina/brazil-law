@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TJPR, assim ementado (fl. 455):
+DIREITO PROCESSUAL CIVIL  EMBARGOS DE DECLARAÇÃO  APELAÇÃO CÍVEL  IRRESIGNAÇÃO QUANTO À CONDENAÇÃO EM CUSTAS PROCESSUAIS  MATÉRIA NÃO VENTILADA  RECURSO NÃO CONHECIDO NESTA PARTE - VÍCIOS DE OMISSÃO EXISTENTES  SENTENÇA ALTERADA DE OFÍCIO QUANTO AO Í NDICE DE CORREÇÃO MONETÁRIA  INCONSTITUCIONALIDADE POR ARRASTAMENTO DO RT. 1º-F DA LEI Nº 9.494/97  RECENTE MODULAÇÃO DOS EFEITOS DAS ADI Nºs 4357 e 4425 PELO SUPREMO TRIBUNAL FEDERAL  FIXAÇÃO DO INDÍCE E TERMO INICIAL DA ATUALIZAÇÃO MONETÁRIA DA VERBA HONORÁRIA  PREQUESTIONAMENTO. EMBARGOS DECLARATÓRIOS PARCIALMENTE CONHECIDOS E, NA PARTE CONHECIDA, PARCIALMENTE ACOLHIDO, SEM EFEITO MODIFICATIVO.
+No apelo especial, o recorrente pugna, em síntese: a) anular o acórdão recorrido, pois caracterizada a afronta ao artigo 535, II, do CPC/73, ante a omissão da Corte julgadora quanto arecusaemapreciar a condenação em custas processuais sob o argumento genéricode que a questão não foi objeto de impugnação em sede de apelação ou contestação e, por conseguinte, seria inovação recursal ou estaria preclusa a possibilidade de reforma. Argumenta queo reexame necessário nas causas em que o Estado for sucumbente enseja ampla devolutividade o que propiciaria a manifestação, especialmente após a interposição de embargos de declaração, seja em relação as custas, seja no tocante aos índices de juros aplicáveis.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 521-524.
+É o relatório. Passo a decidir.
+Preliminarmente, a análise pormenorizada dos presentes autos evidencia que o acórdão recorrido incorreu em afronta ao art. 535, II, do CPC/1973. Isso porque aquela Corte ao rejeitar os embargos do recorrente furtou-se a emitir juízo a respeito de ponto de suma relevância para o deslinde da controvérsia, qual seja: a) a condenaçãoem custas processuais do Estado.
+Nesse sentido, ao rejeitar os embargos de declaração do ora recorrente, era mister da corte de origem se pronunciar no concernente à questão supra, em homenagem ao princípio do tantum devolutum quantum appellatum que o recurso de apelação encerra, porquanto é defeso ao Superior Tribunal de Justiça debruçar-se sobre a questão ventilada nos embargos de declaração pela primeira vez.
+Isso posto, dou provimento ao recurso especial e declaro violado o 535, II, do CPC/1973.
+E, como consectário, determino a remessa dos presentes autos ao Tribunal de origem, a fim de que aquela Corte se manifeste sobre a matéria articulada nos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS PELO TRIBUNAL A QUO. OMISSÃO EVIDENCIADA. AFRONTA AO ART. 535 DO CPC/1973 CONFIGURADA.RECURSO ESPECIAL PROVIDO.
