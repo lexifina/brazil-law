@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em favor de Alife Diego Alves da Silva, no qual se pretende o relaxamento e/ou revogação da prisão preventiva, em razão de suposta ausência de fundamentação idônea,perdeu seu objeto.
+Isso porque, de acordo com as informações constantes do portal eletrônico do Tribunal de origem, o Juízo da 2ª Vara Criminal da comarca de Rio Claro/SP proferiu sentença, em 19/3/2021, condenando o ora paciente como incurso no art. 33, caput, por três vezes, em continuidade delitiva; no art. 35, ambos da Lei n. 11.343/2006, com a incidência das causas de aumento de pena, previstas no art. 40, VI e VII, do mesmo diploma legal, bem como no art. 1º, caput, da Lei n. 9.613/1998,à pena de 15 anos, 11 meses e 5 dias de reclusão, em regime fechado, e ao pagamento de 1.936 dias-multa, negando-lhe o direito de apelar em liberdade (Ação Penal n. 1500674-28.2020.8.26.0510).
+Ademais, colhe-se, também, no referido portal eletrônico, a informação de que o Juízo da 3ª Vara Criminal da comarca de Rio Claro/SP, ao proferir sentença, em 11/11/2021, nos autos do Processo n. 1501368-94.2020.8.26.0510, com relação ao crime previsto no art. 35, caput, da Lei n. 11.343/2006, julgou extinto o processo, sem julgamento do mérito, em razão da ocorrência da litispendência, nos termos do art. 337, VI, do Código de Processo Civil, aplicado por analogia.
+Desse modo, na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso (sentença condenatória), consubstanciado em nova motivação, qual seja, os efeitos da condenação penal, cujo requisito específico desafia, portanto, impugnação própria no Tribunal de origem.
+Nesse sentido, os seguintes julgados: AgRg no RHC n. 112.178/SP, Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2020; AgRg no RHC n. 92.522/AL, de minha relatoria, Sexta Turma, DJe 16/3/2020; e AgRg no RHC n. 110.729/MA, de minha relatoria, Sexta Turma, DJe 20/2/2020.
+Tal o contexto, julgo prejudicado o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. PLEITO DE REVOGAÇÃO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. NOVA MOTIVAÇÃO. PERDA DE OBJETO.
+Writ prejudicado.
