@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto em face de acórdão assim ementado (fl. 29):
+Habeas Corpus no qual se alega constrangimento ilegal em virtude da revogação da suspensão condicional do processo pelo descumprimento de suas condições. Liminar indeferida. Parecer ministerial pela denegação da ordem. 1. Segundo se colhe dos elementos reunidos nos autos o paciente anuiu com as condições impostas, quais sejam, o "comparecimento bimestral e obrigatório em Juízo, do dia 1º ao dia 15, para informar e justificar suas atividades e proibição de ausentar-se da Comarca onde reside sem autorização do Juiz por período superior a 15 dias". Contudo, mudou-se para Portugal e informou ao juízo tão somente após o fato. 2. Em tais circunstâncias, a revogação da suspensão condicional do processo durante o período de prova revela-se legítima, porquanto não se vislumbra cerceamento ao exercício do devido processo legal haja vista que o paciente, lamentavelmente, descumpriu as condições assumidas, sem apresentar justificativa plausível para tanto, revelando ausência de autodisciplina e responsabilidade. 3. Não s e identifica qualquer ilegalidade ou arbitrariedade. 4. Ordem denegada.
+Consta dos autos que o recorrente foi denunciado como incurso no art. 155, § 3º, do Código Penal, tendo sido revogada a suspensão condicional do processo e decretada a prisão preventiva em razão do descumprimento das condições impostas.
+Impetrado mandamus na origem, a ordem restou denegada.
+No presente recurso, requer a defesa, em suma, a revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares diversas.
+Em consulta ao sítio processual desta Corte superior, constata-se a impetração do Habeas Corpus n. 704.849/RJ, no qual consta o mesmo paciente, o mesmo ato coator e os mesmos pedidos do presente mandamus. O remédio constitucional citado encontra-se em trâmite perante este Superior Tribunal de Justiça, tendo a sua liminar indeferida em 16/11/2021, DJE de 18/11/2021.
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
