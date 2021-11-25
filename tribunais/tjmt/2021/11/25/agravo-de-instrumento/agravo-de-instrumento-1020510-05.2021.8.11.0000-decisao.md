@@ -1,0 +1,12 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) No 1020510-05.2021.8.11.0000
+AGRAVANTE: ALPHAVILLE CORRETORA E ADMINISTRADORA DE SEGUROS SA, RICARDO GOMES DOS SANTOS, ROBERTA GRANZOTTO SANTOS
+AGRAVADO: JOAO PAULO MOREIRA PENNA FRANCO
+PROCURADOR: MARCELO DOS SANTOS BARBOSA
+Manifesto meu impedimento para atuar no feito e incidentes posteriores (art. 144, VIII do CPC).
+Anula-se a decisão proferida no id. 109309977 e atos seguintes.
+Redistribua-se, com urgência, para analise da liminar.
+Cuiabá, 24 de novembro de 2021.
+Des. Guiomar Teodoro Borges
