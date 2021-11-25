@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ribeiro Dantas.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONDENAÇÃO PORPOSSE DE ENTORPECENTES PARA USO PRÓPRIO E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. ABSOLVIÇÃO. DOSIMETRIA. SUBSTITUIÇÃO DA PENA.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. DESATENÇÃO AO ÔNUS DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+Na hipótese, a decisão agravada não conheceu do agravo em recurso especial, pois o recorrente não impugnou especificamente todos os fundamentos da decisão recorrida, pela qual o agravo em recurso especial deixou de ser conhecido. Não obstante, no agravo regimental, o insurgente não impugnou tal argumento, o que faz incidir o Enunciado Sumular n. 182 do STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JEFFERSON SALLES DE SOUZAcontra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial.
+Consta dos autos que oagravantefoisentenciadocomo incurso nas sanções doart.12, caput, da Lei n. 10.826/2003, e do art.28da Lei n. 11.343/2006, à pena de2 (dois) anos de detenção, a ser cumprida em regime inicial semiaberto, bem como à pena de2 (dois) meses de prestação de serviços à comunidade(fls. 190-218).
+Inconformada, a il. Defesa interpôs apelação perante o eg. Tribunal de origem, que deu parcialprovimento ao recurso, conforme v. acórdão de fls. 288-298 assim ementado:
+"PENAL. PROCESSO PENAL. POSSE DE DROGA PARA USO PRÓPRIO. PRESCRIÇÃO. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. AUTORIA E MATERIALIDADE COMPROVADAS. PENA ADEQUADA.RECURSO PARCIALMENTE PROVIDO. 1. Para o crime de posse de drogas para uso, próprio (artigo 28 da Lei n.11.343/06), deve-se observar o prazo de 2 anos previsto no artigo 30 da Lei de Drogas. Considerando o trânsito em julgado da condenação para o órgão acusatório e a necessidade de observância da pena em concreto aplicada, foi ultrapassado o prazo prescricional previsto na legislação especial entre o recebimento da denúncia e a publicação da sentença condenatária. 2. O conjunto probatório carreado aos autos é suficientemente claro a atestar a veracidade dos fatos narrados pelo órgão ministerial, estando a materialidade e autoria dos delitos demonstrada pela apreensão dos armamentos, com laudo de eficiência positiva, e pelos consistentes depoimentos colhidos nas esferas policial e judicial. 3.O depoimento dos policiais é válido para o embasamento do juízo condenatário, mormente quando encontra congruência com os demais elementos colhidos durante tanto na fase inquisitória como durante a instrução. 4.Pena-base corretamente fixada, na forma do artigo 59 do CP. 5. Sendo o réu reincidente (artigo 44, inciso II, do CP) e não demonstrado, concretamente, que a medida seria socialmente recomendável, nega-se a substituição da pena privativa de liberdade por restritivas de direitos."
+Opostos embargos declaratórios, foram rejeitados (fls. 318-323).
+Interposto o recurso especial (fls. 325-338), com fulcro no art. 105, inciso III, alínea a, da Constituição da República, a Defesa alega, em síntese, negativa de vigência aos"Art. 59 , 44 §ª3do CP, Art 12 da Lei 10.826/03 e o 386,I, III,IV e V do Código de Processo Penal" (fls. 329).
+Sustenta que "não há no caderno processual provas que o réu concorreu para cometer o crime, a vontade de cometer o crime, o dolo nunca existiu e como esse crime não prevê a modalidade culposa, conclui-se que o crime é atípico" (fl. 333).
+Aduz que,"tanto o Magistrado Sentenciante, quanto o Acórdão guerreado, ao condenarem o recorrente violaram dispositivo da lei federal (art. 386, inciso III,V,V1, VII CPP), bem como os princípios que regem nosso ordenamento jurídico" (fl. 336).
+Afirma que "o art 44 53º do CP é claro em afirmar que reincidêncianão é um entrave para a aplicação da substituição de pena, visto que requerente se enquadra perfeitamente nos escrutínios esculpidos no referido artigo" (fl. 337).
+Pugna, por fim, pelo conhecimento e provimento do recurso"para que o recorrente seja absolvido, ou subsidiariamente seja ofertado o dispositivo do art 44 §3 , do CP" (fl. 338).
+Após apresentação das contrarrazões (fls. 356-361), sobreveio juízo negativo de admissibilidade fundado: i) no óbice do Enunciado Sumular n.7/STJ e ii) na incidência do Enunciado Sumular n. 284/STF(fls. 363-366).
+Nas razões do agravo em recurso especial (fls. 373-379), o agravante postula o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão, não sendo o caso doóbiceapontado.
+Na decisão agravada, de relatoria da Presidência, o agravo em recurso especial não foi conhecido porque não foraminfirmados especificamente os fundamentos da decisão impugnada (fls. 395-396).
+Nas razões deste regimental (fls. 399-405), assevera, novamente, em síntese, não ser o caso dos óbices apontados para a admissibilidade do apelo especial.
+O Ministério Público do Estado do Espírito Santomanifestou-se pelo não conhecimentoou pelodesprovimento do regimental (fls. 422-425).
+Por manter o r. decisum, apresento o feito à eg. Turma, para julgamento.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONDENAÇÃO PORPOSSE DE ENTORPECENTES PARA USO PRÓPRIO E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. ABSOLVIÇÃO. DOSIMETRIA. SUBSTITUIÇÃO DA PENA.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. DESATENÇÃO AO ÔNUS DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+Na hipótese, a decisão agravada não conheceu do agravo em recurso especial, pois o recorrente não impugnou especificamente todos os fundamentos da decisão recorrida, pela qual o agravo em recurso especial deixou de ser conhecido. Não obstante, no agravo regimental, o insurgente não impugnou tal argumento, o que faz incidir o Enunciado Sumular n. 182 do STJ.
+Agravo regimental não conhecido.
+VOTO
+O presente agravo regimental, de fato, não merece ser conhecido.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não foram infirmados, de forma adequada e suficiente, os fundamentos empregados pela eg. Corte de origem para inadmitir o recurso.
+A decisão ora recorrida, transcrita a seguir, assim foi fundamentada (fls. 395-396 - grifei):
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ (ofensa ao art. 12 da Lei nº 10.826/03; art. 386, I, III, IV, V, do CPP), Súmula 284/STF (ofensa ao art. 59 do CP) e Súmula 7/STJ (ofensa ao art. 44, §3º, do CP).
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+ ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial."
+Não obstante, no presente agravo regimental, oagravantenovamente não impugnaadequadamente os fundamentos da decisão agravada, aduzindo genericamente que "interpôs Recurso Especial sob a égide do art. 105, inc. III, a, da Carta Magna, contra decisão do Tribunal de origem que, como afirmado, ratificou a sentença penal condenatória pelo juízo Monocrático. Mencionado Recurso Especial tivera negado seu segmento pelo Tribunal local, sobre o enfoque que a pretensão implicava colisão ao preceito contido na Súmula 07 dessa Egrégia corte. Para Tribunal, o debate, que girava em torno da adequada classificação do tipo penal, implicaria o reexame dos fatos, o que não teria guarida pela via recursal eleita. Em face da negativa de seguimento do Recurso Especial, o ora agravante interpôs o Agravo (CPC art. 544 -com a nova redação da lei 10.322/ 10 c/c 8038/90, art.28). Todavia, a decisão, hora guerreada, fora rechaçada, quando a relatoria não conheceu e negou provimento ao Agravo em Recurso Especial" (fls. 400-401).
+Ocorre que cabe ao agravante demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu.
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão monocrática deve ser clara e suficiente a demonstrar o equívoco dos fundamentos utilizados para solucionar a questão em detrimento aos interesses do ora agravante.
+Assim, deve ser aplicado ao caso, por analogia, o enunciado n. 182 da Súmula desta Corte Superior de Justiça, in verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido são os precedentes desta Corte, v.g.:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SÚMULA N. 7 DO STJ. FUNDAMENTO NÃO ATACADO. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A teor do enunciado contido na Súmula n. 182 do STJ, é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada, raciocínio também aplicado ao agravo regimental. Precedentes.
+2. Agravo regimental não conhecido, com determinação do início da execução penal" (AgRg no REsp n. 1.470.682/MT, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 1º/8/2017).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA QUE INADMITIU OS EMBARGOS DE DIVERGÊNCIA.
+ ..
+2. Nos termos do art. 1.021, § 1º, do CPC/2015, é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Agravo regimental não conhecido" (AgRg nos EDcl nos EAREsp n. 5.227/MG, Terceira Seção, Rel. Min. Antônio Saldanha Pinheiro, DJe de 27/3/2017).
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
