@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interposto por LUIS ANTÔNIO OLIVEIRA DE ALMEIDA e ROSANA DAGHER DE ALMEIDA contra a decisão da Presidência desta Corte Superior de fls. 722-727 (e-STJ), que conheceudo agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+O apelo especial foi deduzido com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de Goiás assim ementado (e-STJ, fl. 598):
+APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA.
+1. A parte autora/apelada alega deter a posse mansa e pacífica da área de terreno urbano, situada no Bairro Industrial, município de Pires do Rio, Estado de Goiás, com área de 8.798,88 m2. REQUISITOS DA PRESCRIÇÃO AQUISITIVA NÃO EVIDENCIADOS.
+2. Não demonstrado nos autos, de forma induvidosa, os requisitos necessários para a usucapião, especialmente o exercício da posse ad usucapionem (contínua, sem interrupção), pelo lapso temporal exigido na lei, impõe-se a reforma da sentença que julgou procedente a pretensão inicial.
+3. Mediante análise, verifica-se que o denominado instrumento particular de cessão de posse foi subscrito aos 31/10/2014 ao passo em que o outro contrato colacionado aos autos, em que demonstra a cessão de direito sobre o imóvel em litígio aos autores, embora não conste sequer a data em que foi assinado, possui selo do Cartório de Registro de Imóveis e 1º de Notas com data de 22/04/2015. Como é possível notar, são documentos que dizem respeito há no máximo 01(um) ano anterior, sendo o segundo quase contemporâneo ao protocolo da presente ação em 13/05/2015.
+4. Destarte, não está provado não autos sequer a alegada primeira posse tampouco a transmissão deles para o alegado segundo posseiro. Não foi demonstrada a existência de plantações, edificações, fotografias antigas, pagamento de impostos.
+5. Destarte, entendo que o polo demandante não logrou êxito em comprovar as alegações trazidas na peça de ingresso, já que meras alegações, desprovidas de elementos capazes de demonstrá-las, pouca ou nenhuma utilidade trarão à parte interessada, já que serão tidas por inexistentes. APELAÇÃO CONHECIDA E PROVIDA. SENTENÇA REFORMADA.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 625-638).
+No recurso especial, os recorrentes apontaram, além de divergência jurisprudencial, violação dos arts. 442, 489, § 1º, I, e 1.022 do CPC/2015.
+Afirmaram que o acórdão deixou de se manifestar sobre argumentos que, se apreciados, concederiam à lide desfecho diverso, com o reconhecimento da usucapião extraordinária em seu favor. Frisaram que todo o arcabouço de provas não foi considerado pela segunda instância, especialmente a prova oral colhida durante a instrução.
+Pontuaram que não merece prosperar a conclusão no sentido de que os insurgentes não exerceram (exercem) a posse da área usucapida por tempo suficiente para o preenchimento do requisito do lapso temporal disposto no art. 1.238 do CC, assim como que houve prova da primeira posse e a transmissão desta para o segundo posseiro.
+Apontaram que o acervo probatório demonstraria essas questões, razão por que a usucapião seria uma decorrência da lei. Pleitearam o provimento do recurso especial (e-STJ, fls. 645-657).
+Obstado seguimento ao recurso especial, foi protocolado agravo em recurso especial, o qual foi apreciado pela Presidência desta Corte Superior, conforme decisão de fls. 722-727 (e-STJ), negando-se a pretensão.
+Nesteagravo interno, os insurgentes reforçama argumentação traçada na petição de recurso especial. Frisam a ofensa aos dispositivos supracitados. Argumentam que não é caso de aplicação da Súmula 7/STJ, pois a correta análise da questão dispensa a apreciação fática da causa. Requerem o provimento do recurso(e-STJ, fls. 730-741).
+Contraminuta apresentada (e-STJ, fls. 748-762 e 763-777).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO ACERCA DA AUSÊNCIA DE PROVA QUALIFICADA QUE ENSEJASSE A USUCAPIÃO EXTRAORDINÁRIA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 489, § 1º, I, e 1.022 do CPC/2015.O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+2. Apreciando o acervo probatório constanteno caderno processual, a segunda instância concluiu não ter havido a demonstração, pelos insurgentes, do direito à usucapião extraordinária em virtude da carência de prova qualificada acerca da efetiva utilização do bem. Essas ponderaçõesforam fundadas na apreciação fático-probatória da causa, atraindo o texto da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+3. Agravo interno desprovido.
+VOTO
+Não há razões para o provimento do agravo interno.
+Destarte, não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 489, § 1º, I, e 1.022 do CPC/2015.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Apreciando o acervo fático-probatório constanteno caderno processual, inclusive a declaração testemunhal,a segunda instância concluiu não ter havido a demonstração, pelos insurgentes, do direito à usucapião extraordinária em virtude da carência de prova qualificada acerca da efetiva utilização do bem pelo período legal.
+Veja-se (e-STJ, fls. 634-635):
+Em suas razões, o polo embargante aduz, em síntese, que "o próprio julgado demonstra omissão ao afirmar que não restou comprovada a existência da primeira posse do Senhor Zezinho e Dona Ica, porquanto os depoimentos testemunhais colhidos em juízo claramente demonstram esse fato". Conforme destacado no acórdão objurgado, a posse hábil para usucapir consiste na efetiva utilização do bem (posse qualificada), o que, no casodos autos, não restou demonstrado pelos documentos acostados. Mediante análise, verificou-se que o denominado INSTRUMENTO PARTICULAR DE CESSÃO DE POSSE (fls. 23/26) foi subscrito aos 31/10/2014 ao passo em que o contrato colacionado aos autos na fls. 29/31, em que demonstra a cessão de direito sobre o imóvel em litígio aos autores, embora não conste sequer a data em que foi assinado, possui selo do Cartório de Registro de Imóveis e 1º de Notas com data de 22/04/2015.
+Como foi possível notar, são documentos que dizem respeito há no máximo 01 (um) ano anterior, sendo o segundo quase contemporâneo ao protocolo da presente ação em 13/05/2015.
+Destarte, não restou provado nos autos sequer a alegada primeira posse do Sr. ZEZINHO e Dona ICA, tampouco a transmissão deles para o Sr. RICARDO GONÇALVES DA SILVA.
+Vale ressaltar que as fotografias colacionadas nos autos, ao contrário, demonstram uma área, aparentemente, não utilizada e com construção de cerca nova, ainda que em possível substituição a outra eventualmente outrora lá existente.
+Não foi demonstrada a existência de plantações, edificações, fotografias antigas, pagamento de impostos.
+Destarte, entendo que o polo demandante não logrou êxito em comprovar as alegações trazidas na peça de ingresso, já que meras alegações, desprovidas de elementos capazes de demonstrá-las, pouca ou nenhuma utilidade trarão à parte interessada, já que serão tidas por inexistentes.
+ ..
+Assim, por não ter o autor/embargante comprovado o fato constitutivo de seu direito, valendo-se da técnica processual de regra de julgamento, que implica impor a quem não se desincumbiu de seu encargo de provar a consequência desfavorável, correto é o julgamento de improcedência do pedido inicial de usucapião.
+As ponderações acerca da ausência de demonstração da usucapião extraordinária foram fundadas na apreciação fático-probatória da causa, atraindo o texto da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+Fica mantida a observação a respeito dos honorários advocatícios recursais constante na decisão ora agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
