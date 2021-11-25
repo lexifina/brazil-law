@@ -1,0 +1,21 @@
+DECISÃO
+ALESSANDRO SILVA BAZAME alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro no Habeas Corpus n. 0041219- 56.2021.8.19.0000.
+Buscam os impetrantes em favor do paciente: a) concessão de indulto e comutação, com base no Decreto n. 9.246/2017; b) o deferimento de visitas periódicas ao lar ou que se determine ao Juízo de primeiro grau que conceda ou avalie o pleito no prazo de 48 horas; c) a solicitação, à Magistrada da execução, de documentos referentes ao Procedimento Disciplinar de falta grave homologado.
+Decido.
+Na espécie, o Tribunal a quo conheceu em parte do prévio write, nessa extensão, denegou a ordem, nos seguintes termos (fls. 34-39, grifei):
+Da leitura da decisão susotranscrita emerge que, em que pese nela seu prolator tenha feito considerações acerca das razões pelas quais estaria assim procedendo (ou seja, submetendo o apenado ao exame criminológico), fato é que na esteira da hodierna jurisprudência tais fundamentos não são idôneos para lastrear o decisum, conquanto dizerem respeito unicamente ao delito praticado, e não propriamente à execução da pena dele advinda.
+ ..
+ ..  à análise da decisão que determinou a realização do exame criminológico para fins de aferição do requisito subjetivo para a concessão da VPL - concluo que, pelas razões já expostas, não houve fundamentação idônea.
+A despeito disso, contudo, na hipótese em cotejo, para além do fato de o exame já ter sido realizado, não podemos olvidar que o seu resultado foi favorável ao apenado. Nesta linha de intelecção, no panorama acima descortinado, sou forçada a convir que nenhuma utilidade trará ao paciente eventual declaração de nulidade do decisum que, no caso dos autos, foi desinfluente no indeferimento da benesse, escopo final da presente impetração.
+ ..
+Certo é que, quando se observa a contemporaneidade na interposição de recurso próprio e na impetração de ação mandamental, esta última somente deve ser examinada quando importar diretamente no direito de ir e vir do indivíduo ou quando contiver pedido diverso do constante no recurso, hipóteses inocorrentes no caso em apreço.
+No caso dos autos, a reanálise acerca dos benefícios almejados demanda verdadeira imersão no histórico executório do apenado, o que não pode ser feito na via estreita do mandamus, mas o será no bojo dos agravos interpostos pela defesa e em via de subirem a este Tribunal.
+Prima facie, inexiste nenhuma teratologia ou ilegalidade passível da concessão de habeas corpus de ofício, sendo certo que o acerto ou desacerto da decisão serão aferidos por ocasião do julgamento dos agravos já interpostos para tais fins, oportunidade em que esta Câmara poderá se debruçar com mais acuidade sobre as questões suscitadas, em respeito ao duplo grau de jurisdição estampado na Carta Republicana.
+Logo, a despeito das alegações feitas no writ, observo que a questão referente à legalidade das decisõesque indeferiramos pleitos de visita periódica ao lar, indulto e comutação, não foianalisadapelo Tribunal de origem, pois os reclamos estão pendentes de exame em agravos em execução já interpostos.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste mandamus, sob pena de supressão de instância. Ilustrativamente:
+ ..
+2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, das teses de nulidade da sentença por ausência de análise de tese defensiva apresentada nas alegações finais e o consequente excesso de prazo na custódia, tampouco de imposição de regime inicial mais gravoso que o permitido ou de possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, em razão da inadequação da via eleita, pendente de julgamento, ainda, apelação já interposta.
+ ..  8. Habeas corpus não conhecido.
+(HC n. 347.010/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 12/4/2016)
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
