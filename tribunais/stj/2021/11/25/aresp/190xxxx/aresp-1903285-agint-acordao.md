@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto ECO-EMPRESA DE CONSULTORIA E ORGANIZAÇÃO EM SISTEMAS E EDITORAÇÃO LTDA., em recuperação judicial, MARCO AURÉLIO DUARTE SILVA e LUIZ ANTÔNIO DUARTE SILVA, contra decisão que conheceu do agravo paraconhecer em parte dorecursoespecial e negar-lhe provimento.
+Ação: execução de título extrajudicial ajuizada por BANCO BRADESCO S.A. em desfavor das recorrentes.
+Decisão: indeferiu a constrição de imóvel indicado à penhora pelo exequente, visto que tal bem estaria arrolado como ativo da empresa Mutante Participações e Empreendimentos Ltda, em recuperação judicial.
+Acórdão: deu provimento ao recurso de agravo de instrumento interposto pelo recorrido, a fim de deferir a penhora do imóvel e determinar a extinção da execução em relação à empresa Eco Empresa de Consultoria e Organização em Sistemas e Editoração Ltda. Eis a ementa do julgado:
+DIREITO PROCESSUAL CIVIL E DIREITO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL AJUIZADA EM FACE DE PESSOA JURÍDICA E DE SEUS SÓCIOS.INDEFERIMENTO DA CONSTRIÇÃO DE BEM IMÓVEL INDICADO À PENHORA, AO FUNDAMENTO DE QUE O MESMO ESTARIA ARROLADO EM AÇÃO DE RECUPERAÇÃO JUDICIAL, COMO ATIVO DE EMPRESA TERCEIRA ESTRANHA AOS AUTOS. AGRAVO DE INSTRUMENTO INTERPOSTO PELA PARTE EXEQUENTE.
+1) No caso concreto, o d. juízo a quo indeferiu a constrição de bem imóvel indicado à penhora pelo Exequente, eis que o mesmo se encontra arrolado como ativo da empresa Mutante Participações e Empreendimentos Ltda, em ação de Recuperação Judicial.
+2) Posteriormente ao ajuizamento da presente execução, foi deferido o processamento da ação de recuperação judicial da 1ª executada, nos mesmos autos em que o imóvel em questão se encontra arrolado como ativo de empresa terceira estranha a presente demanda.
+3) O e. Superior Tribunal de Justiça possui entendimento pacífico no sentido de que o juízo no qual se processa a recuperação judicial é competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento de atos de execução.
+4) Parte Exequente que se manifestou nos presentes autos, informando que pretende prosseguir com a execução apenas em face dos sócios da recuperanda. 4.1) Extinção da execução em face da 1ª Executada, ECO EMPRESA DE CONSULTORIA E ORGANIZAÇÃO EM SISTEMAS E EDITORAÇÃO LTDA, que se impõe, mantendo-se, por conseguinte a competência do d. juízo da 3ª Vara Cível da Comarca de Niterói para processar e julgar a ação executória.
+5) Nos termos do artigo 1.245, do Código Civil, a transferência da propriedade de bem imóvel se dá mediante o registro do título translativo junto ao Registro de Imóveis.
+6) Na presente hipótese, conforme se verifica da certidão de ônus reais do respectivo imóvel - unidade autônoma, designada pelo nº 13, do tipo D-1, do Conjunto Casas da Praia, integrante do Condomínio Amarras, em Armação dos Búzios (fls. 202/206, dos autos principais) - a empresa ECO - Empresa de Consultoria e Organização em Sistemas e Editoração LTDA adquiriu o bem em 24/09/1998, tendo, posteriormente, mediante escritura de 19/09/2008, prenotada em 17/05/2010, realizado a dação em pagamento em favor de Marco Aurélio Duarte Silva (2º Executado). 6.1) Conquanto o Sr. Marco Aurélio alegue ter integralizado o imóvel ao capital social da empresa Mutante, em 12/09/2008, não existe qualqueranotação nesse sentido perante o competente Registro de Imóvel.
+7) A ausência da devida averbação junto ao Registro de Imóvel afasta a afirmativa de que o imóvel em berlinda seja de propriedade da empresa Mutante Participações e Empreendimentos Ltda. 7.1) A mera estipulação no respectivo contrato social ou a indicação na relação dos ativos do Plano de Recuperação Judicial da empresa Mutante, por si só, não tem o condão de transferir a propriedade do bem.
+8) Destarte, considerando que a certidão de ônus reais aponta como proprietário do imóvel o Sr. Marco Aurélio Duarte Silva, nenhuma razão há para que não seja deferida a sua penhora.
+9) Alegações quanto a se tratar de bem de família e à suposta fraude à execução deverão ser analisadas pelo d. juízo a quo, sob pena de supressão de instância.
+10) Reforma da r. decisão agravada que se impõe, para deferir a penhora do bem imóvel indicado pelo Executado e determinar a extinção da execução em face da 1ª Executada, ECO Empresa de Consultoria e Organização em Sistemas e Editoração Ltda., condenando a parte Exequente ao pagamento das respectivas custas e honorários advocatícios de 10% do valor da execução.
+11) RECURSO AO QUAL SE DÁ PROVIMENTO. (e-STJ, fls. 160/161)
+Embargos de Declaração: opostos pelas partes foram rejeitados.
+Recurso especial: alegaram violação dos arts. 6º, § 1º, e 47, da Lei nº 11.101/2005 e 1.022 do CPC/15.
+Aduziram omissão quanto à alegada caracterização de venire contra factum proprium, diante da impossibilidade de discussão acerca da propriedade de bem imóvel após aprovação e homologação do plano de recuperação judicial.
+Sustentaram, ainda, que compete ao juízo universal decidir sobre a propriedade do bem arrolado como ativo da sociedade em recuperação judicial, acentuando que a "decisão que extirpa imóvel do patrimônio de sociedade em recuperação judicial, reduzindo seu capital social, sem análise de sua essencialidade ou vinculação ao cumprimento do plano de recuperação judicial ofende os próprios objetivos do instituto da recuperação judicial" (e-STJ, fl. 226).
+Decisão unipessoal: conheceu do agravo para conhecer em partedo recurso especial e negar-lhe provimento, tendo em vista a ausência de negativa de prestação jurisdicional e a incidência da Súmula 284/STF.
+Agravo interno: os agravantes alegam a inaplicabilidade da Súmula 284/STF, requerendo, ao final,a reforma do decisum.
+Contrarrazões: apresentadas às fls. 522/528, pleiteando-sea aplicação da multa prevista no art. 1.021, §4º, do CPC/15.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ.
+1. Não merece conhecimento o agravo interno que não impugna especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido, com a aplicação de multa.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Observa-se que o recurso atrai a incidência da Súmula 182/STJ. Isso porque a decisão agravada conheceu do agravo paraconhecer em parte do recurso especial e negar-lhe provimento com base nos seguintes fundamentos:
+(i) ausência de violação do art. 1.022 do CPC/15, tendo em vista que o Tribunal de origem decidiufundamentadamente e expressamente acerca da alegação de caracterização devenire contra factum proprium.
+(ii) aplicação da Súmula 284/STF, porque o conteúdo normativo dos arts. 6º, § 1º (terá prosseguimento no juízo no qual estiver se processando a ação que demandar quantia ilíquida), e 47 (o objetivo da recuperação judicial é o de viabilizar a superação da situação de crise econômico-financeira do devedor), da Lei nº 11.101/2005, apontados como violados nas razões do especial, não dão suporte às teses jurídicas expostas (i) de que compete ao juízo universal decidir sobre a propriedade do bem arrolado como ativo da sociedade em recuperação judicial e (ii) impossibilidade de se extirpar imóvel do patrimônio de sociedade em recuperação judicial sem a análise de sua essencialidade ou vinculação ao plano.
+A despeito das alegações dos agravantes, observo que não impugnaram, de maneira consistente, todos os fundamentos do decisum, notadamente a ausência de negativa de prestação jurisdicional.
+Necessário salientar que o afastamento de todos os óbices invocados deve ocorrer com a devida explicação por parte do recorrente do porquê de sua não aplicação de maneira concreta na hipótese em análise.
+Desse modo, não havendo a impugnação consistente de todos os fundamentos da decisão agravada, aplicável o enunciado n. 182 da Súmula desta Corte.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser assim declarado à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
+Forte nessas razões, NÃO CONHEÇO do agravo interno no agravo em recurso especial, coma aplicaçãoda multa prevista no art. 1.021, § 4º, do CPC/2015.
