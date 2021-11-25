@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E POSSE DE ARMA DE FOGO DE USO RESTRITO. DELITOS AUTÔNOMOS. CAUSA DE AUMENTO DE PENA. ABSORÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte de origem, após analisar com amplitude as provas presentes nos autos, afirmou expressamente que não havia nenhum vínculo entre a arma apreendida e a prática do delito de tráfico de drogas, tratando-se de condutas completamente autônomas.
+2. Para rever a decisão do Tribunal estadual e acolher a pretensão de absorção do delito de posse de arma de fogo pelo delito de tráfico de drogas majorado pelo emprego de arma, seria necessário o reexame do conjunto fático-probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n. 7 desta Corte Superior de Justiça.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por MATHEUS FREITAS DE PINHO contra decisão na qual conheci de agravo em recurso especial para não conhecer do apelo nobre, nos termos da seguinte ementa (fl. 396):
+"AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS E POSSE DE ARMA DE FOGO DE USO RESTRITO. DELITOS AUTÔNOMOS. CAUSA DE AUMENTO DE PENA. ABSORÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL."
+Nas razões do agravo regimental, o Agravante reitera a tese recursal no sentido de que o delito de posse de arma de fogo deve ser absorvido pelo crime de tráfico majorado, pois, "do cenário típico, descrito na denúncia, incólume pela instrução, tem-se que a arma de fogo encontrada é indissociável da prática da infração penal do tráfico de drogas majorado, não sendo este objeto de encontro fortuito" (fl. 411).
+Pleiteia-se, assim, o provimento do agravo regimental, a fim de que seja conhecido e provido o recurso especial defensivo.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E POSSE DE ARMA DE FOGO DE USO RESTRITO. DELITOS AUTÔNOMOS. CAUSA DE AUMENTO DE PENA. ABSORÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte de origem, após analisar com amplitude as provas presentes nos autos, afirmou expressamente que não havia nenhum vínculo entre a arma apreendida e a prática do delito de tráfico de drogas, tratando-se de condutas completamente autônomas.
+2. Para rever a decisão do Tribunal estadual e acolher a pretensão de absorção do delito de posse de arma de fogo pelo delito de tráfico de drogas majorado pelo emprego de arma, seria necessário o reexame do conjunto fático-probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n. 7 desta Corte Superior de Justiça.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O recurso não comporta provimento.
+Em que pese o esforço defensivo, é certo que a Corte de origem, após analisar com amplitude as provas presentes nos autos, afirmou expressamente que não havia nenhum vínculo entre a arma apreendida e a prática do delito de tráfico de drogas, tratando-se de condutas completamente autônomas.
+A esse respeito, extrai-se do acórdão recorrido:
+"No caso em apreço, verifica-se que não há nexo de dependência ou subordinação entre os delitos cometidos, ou seja, eles são autônomos. De fato, não é possível afirmar que a arma de fogo se destinava à prática do crime de tráfico de drogas, razão pela qual não há que se falar em aplicação do princípio da consunção, nem em aplicação da majorante do tráfico armado.
+A propósito, registra-se que o artigo 40, inciso IV, da Lei nº 11.343/2006 pune mais severamente o tráfico quando "o crime tiver sido praticado com (..) emprego de arma de fogo (..)".
+Deve-se entender, portanto, que o tráfico majorado a exemplo do que ocorre, por exemplo, com o roubo majorado somente absorve o crime de porte ilegal de arma de fogo quando este último se mostra exclusivamente voltado à perpetração do delito equiparado aos hediondos (tráfico praticado com emprego da arma). Isso acontece, por exemplo, quando um traficante obtém arma para vigiar determinado transporte da droga, ou a possui apenas durante sua vigilância em determinado ponto de venda de drogas.
+Ora, no caso em tela o apelante não empregava a arma no tráfico; ele possuía, concomitantemente, revólver e drogas dentro de sua residência." (fl. 283; sem grifos no original.)
+Desse modo, para rever a decisão do Tribunal estadual e concluir que haveria vínculo teleológico entre a arma apreendida e o tráfico de drogas, a fim de desclassificar a conduta, seria necessário o reexame do conjunto fático-probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n. 7 desta Corte Superior de Justiça.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. DESCLASSIFICAÇÃO DA CONDUTA DO ART. 16, DO ESTATUTO DO DESARMAMENTO PARA A PREVISTA NO ART. 40, INCISO IV, DA LEI DE DROGAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É firme o entendimento desta Corte Superior no sentido de que a absorção do crime de porte ou posse ilegal de arma pelo delito de tráfico de drogas, em detrimento do concurso material, deve ocorrer quando o uso da arma está ligado diretamente ao comércio ilícito de entorpecentes, ou seja, para assegurar o sucesso da mercancia ilícita. Nesse caso, trata-se de crime meio para se atingir o crime fim que é o tráfico de drogas, exige-se o nexo finalístico entre as condutas de portar ou possuir arma de fogo e aquelas relativas ao tráfico (HC n. 181.400/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 17/4/2012, DJe 29/6/2012).
+2. Na espécie, o Tribunal a quo, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, concluiu que não restou demonstrado nos autos que o porte de arma teria por finalidade apenas assegurar a mercancia das drogas, o que impede a aplicação da causa de aumento em detrimento do crime autônomo do art. 14 da Lei 10.826/03.
+3. A pretensão de desclassificação do delito de posse ilegal de arma de fogo de uso restrito, tipificado no art. 16, da Lei n. 10.826/2003, para a causa de aumento prevista no art. 40, inciso IV, da Lei n. 11.343/2006 é providência que demanda necessariamente aprofundado revolvimento de matéria fático-probatória, atraindo o óbice da Súmula n. 7/STJ. Precedentes.
+4. Agravo regimental não provido." (AgRg no AREsp 1.627.687/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/04/2020, DJe 15/04/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO. TRÁFICO DE DROGAS. PRINCÍPIO DA CONSUNÇÃO. REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. VIA ELEITA INADEQUADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se as instâncias instâncias ordinárias concluíram "pela autonomia dos desígnios do paciente, bem como pela inaplicabilidade do princípio da consunção, dada a ocorrência isolada dos crimes, é incabível a desclassificação do crime de porte ilegal de arma de fogo de uso restrito para a imputação do art. 40, IV, da Lei n. 11.343/2006, como causa de aumento, ante o inadmissível revolvimento do contexto fático-probatório para adoção de entendimento diferente" (HC 422.936/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 11/5/2018).
+2. Agravo regimental desprovido." (AgRg no HC 569.609/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/05/2020, DJe 29/05/2020; sem grifos no original.)
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
