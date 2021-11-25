@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno, manejado por ROGÉRIO CAMARGO ADIERS,contra decisão assim ementada (e-STJ Fl. 997):
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONTRATOS AGRÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E INEXISTÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO E CONTRATUAL DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. ORIENTAÇÃO PRETORIANA SEDIMENTADA. EXAME DE OFENSA A ENUNCIADO DE SÚMULA. INVIABILIDADE. SÚMULA 518/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE FUNDAMENTAÇÃO E COMPROVAÇÃO. AGRAVO CONHECIDO PARA, DESDE LOGO, CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do presente recurso, o agravantepugnapela modificação do julgado, reprisando as razões de seu recurso especial.
+Reitera, em suma, as omissões da origem, havendo efetiva negativa de prestação jurisdicional (arts. 11, 489 e 1.022 do CPC/15). Assevera, nesse mesmo passo, a existência de efetivo prequestionamento da matéria, ainda que de maneira implícita, mormente ante a oposição de aclaratórios.
+Insurge-se contra a incidênciadas Súmulas 5 e 7/STJ, sustentando que a moldura fática dos autos não é a questão controvertida do processo.
+Deduz, ainda, que não houve manejo do recurso especial com fulcro em enunciado de súmula, apontando, por fim, a comprovação do dissídio jurisprudencial alegado e a inaplicabilidade da Súmula 284/STF quanto ao ponto.
+Impugnação à e-STJ Fls. 1030/1040, requerendo-se a aplicação de multa.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONTRATOS AGRÁRIOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E INEXISTÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO E CONTRATUAL DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. ORIENTAÇÃO PRETORIANA SEDIMENTADA. EXAME DE OFENSA A ENUNCIADO DE SÚMULA. INVIABILIDADE. SÚMULA 518/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE FUNDAMENTAÇÃO E COMPROVAÇÃO.INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece prosperar.
+Com efeito, verifica-se que foi conhecido parcialmente orecurso especial da parte recorrente e, nesta extensão, negadoprovimento,em virtude da ausência de negativa de prestação jurisdicional, bem como pela incidência das Súmulas 5, 7, 211 e 518/STJ, a par daSúmula 284/STF e da falta de comprovação do dissídio jurisprudencial (e-STJ Fls. 997/1.006).
+Resta cristalino, entretanto, que os argumentos expostos no bojo do presente recurso não são aptos a desconstituir a decisão recorrida, uma vez que, em suma, o recorrentereiteraas teses expendidas no recurso especial.
+Inicialmente, constata-se que os arts. 11, 489 e 1.022 do CPC/2015 efetivamente não foramvulnerados, porquanto o acórdão recorrido não se encontra carente de fundamentação ou contém qualquer omissão, contradição ou obscuridade.
+Nota-se, pois, que o Tribunal a quo tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou da questão da ausência de contraditório e nulidade de citaçãosob viés diverso daquele pretendido pelorecorrente, fato que não dá ensejo à interposição de embargos de declaração.
+Observa-se que o recorrente, na origem, se utilizou dos embargos de declaração com efeitos meramente infringenciais. Por essa razão, não se verifica, na hipótese, a pretensa ofensa ao dispositivos apontados,sendo as questões suscitadasdevidamente fundamentadas, nos termos do excerto consignado e grifado no decisum ora atacadoà e-STJ Fls. 999/1.000, mediantea análise das circunstâncias delineadas nos autos.
+Ademais, os arts. 513, § 4º, 525 e 536, § 4º, do CPC/15 não foram objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+Saliente-se, outrossim, que a ausência de prequestionamento dos dispositivos legais indicados pelo agravante não leva ao imediato provimento do recurso especial por ofensa ao art. 1.022 do CPC/2015, mormente quando o Tribunal de origem fundamenta a decisão suficientemente para decidir de forma integral a controvérsia.
+Esta é, de fato,a hipótese dos autos, em que o TJ/RSateve-se à análisedo preenchimento dos requisitos para a a concessão da tutela de urgência, não adentrando nas matérias das referidas normas.
+Nessa mesma esteira, o exame da tese do agravante foi realizado de forma conjunta com a incidência dos óbicesdas Súmulas5 e 7/STJ, de sorte quea decisão agravada não merece reforma.
+Conforme apontado nodecisum, é inarredável a incidência de tais óbices quanto ao cerne da questão, tendo em vista que a análise da pretensão do agravante, considerando-se as nulidades referidas,encontrar-se-ia obstada pela necessidade de revolvimento fático e contratual dos autos, nos termos, inclusive, da citada jurisprudência desta Corte à e-STJ Fls. 1.003/1.004.
+Nesse passo, alterar as conclusões adotadas pelo Tribunal de origem quantoà melhor interpretação tomada,considerando as particularidades da hipótese,demandaria desta Corte, inevitavelmente, a incursão no conteúdo fático-probatório dos autos.
+Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal a quo, de maneira que incursão nesta seara implicaria ofensa aos referidos óbices sumulares.
+Impossível, portanto, desconstituir as premissas adotadas, não havendo se falar, inclusive, em mera revaloração dos fatos comprovados.
+De outra parte, muito embora refira o agravante que não houve tese de ofensa a enunciado sumular, verifica-se, da leitura de seu recurso especial, que as alegações atinentes à incidência das astreintes estão atreladas à ofensa à Súmula 410/STJ, razão pela qual é inarredável a incidência da Súmula 518/STJ à espécie.
+Não houve, nesse ponto,precisa indicação de eventual dispositivo legalviolado pelo acórdão recorrido, sobretudo quanto ao dissídio jurisprudencial alegado, razão pela qual a incidência da Súmula 284/STF remanesce incólume.
+Por fim, conforme já consignado, o dissídio jurisprudencial com enunciado de súmula não autoriza a interposição do recurso especial fundamentado na alínea cdo permissivo constitucional, impondo-se a demonstração do dissenso com os julgados que originaram o verbete indicado como divergente.
+Tais fundamentos são suficientes à manutenção da decisão, não obstante há ainda que se consignar que, quanto ao dissídio jurisprudencial, não pode ele ser tido como demonstrado da forma devida, pois, para sua caracterização, não basta a transcrição de ementas e trechos dos acórdãos paradigmas. Também é necessário que se aponte e explicite por que os casos são semelhantes e qual é a proximidade fática entre os julgados comparados, o que não foi realizado na hipótese dos autos.
+Assim, resta patente que a pretensão dorecorrentenão merece guarida, devendo ser mantida incólume a decisão agravada em virtude dos referidos fundamentos.
+Por ora, deixo de aplicar a sanção requerida em sede de impugnação ao presente recurso, advertindo-se a parte de que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
