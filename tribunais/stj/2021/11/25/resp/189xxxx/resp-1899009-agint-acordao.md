@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de agravo interno ajuizado em face da decisão de fls. 536/548 e-STJ.
+A parte agravante sustenta que a Súmula n. 83 do STJ não constitui obstáculo ao conhecimento do recurso especial.
+Impugnação às fls. 550/558 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ.
+1. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO. PLANO DE SAÚDE. REAJUSTES ANUAIS POR SINISTRALIDADE.
+Sentença de parcial procedência, determinando o afastamento dos percentuais aplicados às mensalidades e, também, a restituição dos valores pagos a maior.
+Irresignação somente da operadora, Sul América.
+Parcial acolhimento. No concernente à declaração de abusividade, a r. sentença não comportaria reforma, eis que a correquerida não demonstrou a regularidade dos aumentos por cálculo atuarial idôneo. Argumentações genéricas e desprovidas da devida comprovação quanto à regularidade. Abusividade constatada.
+Precedentes desta Colenda Câmara. Jurisprudência do TJSP. Parcial reforma da sentença. Restituição apenas poderia incidir sobre o indébito cobrado no prazo trienal (Tema 610 do STJ), devendo ser considerados, na contagem, apenas os reajustes aplicados neste intervalo, por ocasião da liquidação de sentença, abrangendo somente as elevações dos três anos antecedentes à demanda, além dos reajustes ocorridos no curso da demanda, respeitados os índices da ANS para os planos individuais. Sentença reformada em parte.
+Sucumbência recíproca.
+RECURSO PARCIALMENTE PROVIDO.
+A parte recorrente, ora agravante, sustentou que, a despeito da prescrição do direito de ressarcimento dos valores pagos em razão da cláusula abusiva, o direito da declaração da abusividade não prescreveu, a teor do julgamento do Tema Repetitivo nº 610.
+Colhe a leitura do resumo do julgamento do REsp 1.360.969/RS, sob o rito dos recursos repetitivos, em que se examinou nulidade de cláusula contratual de reajuste de mensalidade de plano de saúde:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. CIVIL. CONTRATO DE PLANO OU SEGURO DE ASSISTÊNCIA À SAÚDE. PRETENSÃO DE NULIDADE DE CLÁUSULA DE REAJUSTE. ALEGADO CARÁTER ABUSIVO. CUMULAÇÃO COM PRETENSÃO DE RESTITUIÇÃO DOS VALORES PAGOS INDEVIDAMENTE. EFEITO FINANCEIRO DO PROVIMENTO JUDICIAL. AÇÃO AJUIZADA AINDA NA VIGÊNCIA DO CONTRATO. NATUREZA CONTINUATIVA DA RELAÇÃO JURÍDICA. DECADÊNCIA. AFASTAMENTO. PRAZO PRESCRICIONAL TRIENAL. ART. 206, § 3º, IV, DO CÓDIGO CIVIL DE 2002. PRETENSÃO FUNDADA NO ENRIQUECIMENTO SEM CAUSA. 2. CASO CONCRETO: ENTENDIMENTO DO TRIBUNAL A QUO CONVERGE COM A TESE FIRMADA NO REPETITIVO. PRESCRIÇÃO TRIENAL. ENRIQUECIMENTO SEM CAUSA. PEDIDO DE RECONHECIMENTO DA PRESCRIÇÃO ÂNUA PREVISTA NO ART. 206, § 1º, II DO CC/2002. AFASTAMENTO. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Em se tratando de ação em que o autor, ainda durante a vigência do contrato, pretende, no âmbito de relação de trato sucessivo, o reconhecimento do caráter abusivo de cláusula contratual com a consequente restituição dos valores pagos indevidamente, torna-se despicienda a discussão acerca de ser caso de nulidade absoluta do negócio jurídico - com provimento jurisdicional de natureza declaratória pura, o que levaria à imprescritibilidade da pretensão - ou de nulidade relativa - com provimento jurisdicional de natureza constitutiva negativa, o que atrairia os prazos de decadência, cujo início da contagem, contudo, dependeria da conclusão do contrato (CC/2002, art. 179). Isso porque a pretensão última desse tipo de demanda, partindo-se da premissa de ser a cláusula contratual abusiva ou ilegal, é de natureza condenatória, fundada no ressarcimento de pagamento indevido, sendo, pois, alcançável pela prescrição. Então, estando o contrato ainda em curso, esta pretensão condenatória, prescritível, é que deve nortear a análise do prazo aplicável para a perseguição dos efeitos financeiros decorrentes da invalidade do contrato.
+2. Nas relações jurídicas de trato sucessivo, quando não estiver sendo negado o próprio fundo de direito, pode o contratante, durante a vigência do contrato, a qualquer tempo, requerer a revisão de cláusula contratual que considere abusiva ou ilegal, seja com base em nulidade absoluta ou relativa. Porém, sua pretensão condenatória de repetição do indébito terá que se sujeitar à prescrição das parcelas vencidas no período anterior à data da propositura da ação, conforme o prazo prescricional aplicável.
+3. Cuidando-se de pretensão de nulidade de cláusula de reajuste prevista em contrato de plano ou seguro de assistência à saúde ainda vigente, com a consequente repetição do indébito, a ação ajuizada está fundada no enriquecimento sem causa e, por isso, o prazo prescricional é o trienal de que trata o art. 206, § 3º, IV, do Código Civil de 2002.
+4. É da invalidade, no todo ou em parte, do negócio jurídico, que nasce para o contratante lesado o direito de obter a restituição dos valores pagos a maior, porquanto o reconhecimento do caráter ilegal ou abusivo do contrato tem como consequência lógica a perda da causa que legitimava o pagamento efetuado. A partir daí fica caracterizado o enriquecimento sem causa, derivado de pagamento indevido a gerar o direito à repetição do indébito (arts. 182, 876 e 884 do Código Civil de 2002).
+(..) 10. Para os efeitos do julgamento do recurso especial repetitivo, fixa-se a seguinte tese: Na vigência dos contratos de plano ou de seguro de assistência à saúde, a pretensão condenatória decorrente da declaração de nulidade de cláusula de reajuste nele prevista prescreve em 20 anos (art. 177 do CC/1916) ou em 3 anos (art. 206, § 3º, IV, do CC/2002), observada a regra de transição do art. 2.028 do CC/2002.
+ ..  (REsp 1.360.969/RS, Rel. Ministro MARCO BUZZI, Rel. p/ Acórdão Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 10.8.2016, DJe 19.9.2016)
+Como se vê, a Corte de origem decidiu em conformidade com o entendimento do STJ, não merecendo reforma, motivo por que a pretensão da parte agravante encontra obstáculo na Súmula n. 83 do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
