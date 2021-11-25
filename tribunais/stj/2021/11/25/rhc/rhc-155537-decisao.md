@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, interposto por JEFFERSON RODRIGUES DO CARMO, em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo no Writ n. 2174686-05.2021.8.26.0000.
+Consta dos autos que o juízo singular indeferiu pedido de retificação do cálculo das penas do paciente para fins de obtenção de benefícios (fls. 41-61).
+Irresignada, a defesa impetrou prévio writ perante o Tribunal de origem, que indeferiu liminarmente a ordem, em acórdão assim ementado (fl. 64):
+"HABEAS CORPUS PLEITO DEFENSIVO PARA QUE SEJA FEITA A RETIFICAÇÃO DO CÁLCULO DA PENA, NOS TERMOS PRETENDIDOS NA INICIAL.
+RECLAMO QUE EXTRAPOLA O ESTREITO CAMPO DE ATUAÇÃO DO REMÉDIO HEROICO, NOS TERMOS DO QUE DISPÕE O ART. 663, DO CPP, C. C. O ART. 248, DO RITJ.
+CASO EM QUE, DEMAIS, NÃO SERVE O WRIT COMO SUCEDÂNEO DE RECURSO PRÓPRIO.
+Ordem indeferida liminarmente."
+No presente recurso, a Defesa sustenta constrangimento ilegal porquanto o Tribunal de origem indeferiu liminarmente o habeas corpus, não permitindo que o recorrente tenha uma definição sobre o questionamento.
+Aduz que busca o reconhecimento da nulidade da decisão para determinar qu o Tribunal de origem analise o mérito a fim de possibilitar os recursos cabíveis para satisfação do direito, uma vez que o indeferimento impossibilita que esta Corte analise qualquer recurso por incorrer em supressão de instância.
+Assere que "não enfrentar o mérito da pretensão o órgão julgador afronta princípios constitucionais, como o princípio do devido processo legal, inafastabilidade do poder judiciário e ainda o princípio da ampla defesa. (art. 5º, incisos LIV, XXXV, LV da Constituição Federal de 1988)" (fl. 78).
+Alega que na "inicial do habeas corpus restou claro que o mérito se tratava apenas de direito - havendo um tópico exclusivo de demonstração inequívoca; não havendo discussão de fatos, ou pleito de concessão de benefícios executórios." (fl. 80).
+Requer, assim, o conhecimento e provimento do recurso para "determinar que a Corte Estadual aprecie o pleito formulado em favor do Recorrente., na sua integralidade" (fl. 80).
+Não houve pedido liminar.
+O Ministério Público Federal, às fls. 97-100, manifestou-se pela concessão da ordem de ofício, em parecer com a seguinte ementa:
+"RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. INDEFERIMENTO LIMINAR DO WRIT PELA CORTE ESTADUAL. ASSOCIAÇÃO PARA O TRÁFICO. DELITO NÃO HEDIONDO. PROGRESSÃO DE REGIME. EXIGÊNCIA DO CUMPRIMENTO DE 1/6 DA PENA. PELA CONCESSÃO DA ORDEM DE OFÍCIO."
+É o relatório.
+Decido.
+Conheço do presente recurso, porquanto presentes seus requisitos de admissibilidade.
+A il. Defesa pretende, em síntese, o reconhecimento da nulidade da decisão que indeferiu liminarmente o habeas corpus na origem e deixou de analisar o pleito de revisão do cálculo de pena para progressão de regime que fixou o lapso temporal para progressão em 2/5, quanto ao crime de associação para o tráfico, com pedido de "determinar que a Corte Estadual aprecie o pleito formulado em favor do Recorrente., na sua integralidade" (fl. 80).
+O d. Juízo da Vara das Execuções indeferiu o pleito de retificação de cálculo de penas do recorrente, quanto ao crime de associação para o tráfico de drogas, tendo a Defesa impetrado habeas corpus, o qual foi indeferido liminarmente pelo Tribunal de origem sob o fundamento de ser a via inadequada, nos termos do acórdão de fls. 41-61, do qual transcrevo trechos, no que interessa, verbis (fls. 65-69):
+"2 - No caso vertente, liminarmente, há que se indeferir este writ.
+Isso porque, diante da ordem rogada, é impossível ser recebido este habeas corpus como substitutivo do recurso idôneo.
+Do narrado na inicial se depreende que pretende a impetrante, através do remédio constitucional, alcançar benefício de cunho estritamente executório.
+E não obstante o esforço encetado pela Defensora, cumpre observar que a competência para apreciação da matéria aqui abordada é do MM. Juiz da Vara das Execuções Criminais, nos termos do disposto na Lei nº 7.210/84, e em caso de inconformismo quanto a tal decisão, cabe o recurso próprio, nos moldes determinados e estabelecidos no artigo 197, da LEP.
+ ..
+Ressalta-se, demais, que não há que se fazer uso, indiscriminadamente, do remédio heroico, vez que não se destina a correção de decisão de natureza executória, sujeita a recurso próprio, previsto no sistema processual penal, não sendo, pois, o writ, substituto de recursos de agravo em execução penal, ordinário, especial ou extraordinário.
+ ..
+Nesses termos, questões relativas a incidentes de execução penal devem ser dirimidas em sede de Juízo próprio, sob pena de se ter um recurso com prazo de ajuizamento certo, e outro do qual, a qualquer tempo, dele possa fazer uso o interessado, de forma a colocarem risco a segurança jurídica, e a sistemática processual penal. Isto posto, indefere-se liminarmente o writ impetrado em prol de Jefferson Rodrigues do Carmo."
+Do transcrito acima, noto que a ausência de manifestação do eg. Tribunal a quo configurou indevida negativa de prestação jurisdicional.
+Com efeito, tratando-se de questão de liberdade ambulatorial relevante, devidamente suscitada no writ originário, e não apreciada pelo eg. Tribunal de origem, devem os autos serem remetidos àquela eg. Corte para que se manifeste acerca da quaestio.
+Esta Corte Superior tem se posicionado no sentido de que, não obstante a previsão de recurso no ordenamento jurídico, é admissível a utilização do mandamus quando a pretensão não demanda, em princípio, revolvimento de matéria fático-probatória, bem como envolve a questão da liberdade ambulatorial do paciente.
+Colaciono, a seguir, precedentes:
+"PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DA PENA. POSSIBILIDADE. AFASTAMENTO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI 11.343/2006. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ORDEM PARCIALMENTE CONCEDIDA.
+ ..  IV - No que tange ao pedido de reconhecimento da minorante inserta no §4º do art. 33 da Lei 11.343/06, verifica-se do v. acórdão combatido que referida tese não foi apreciadas pelo Tribunal de origem, ficando impedida esta Corte de proceder a análise desta, sob pena de indevida supressão de instância (precedentes).
+V - Contudo, constata-se também que referida tese foi suscitada pela defesa, configurando a omissão do Tribunal a quo indevida negativa de prestação jurisdicional.
+Ordem parcialmente concedida para determinar ao eg. Tribunal de Justiça do Estado da Bahia, que, nos autos da Apelação Criminal n. 0303278-21.2013.8.05.0080, aprecie, como entender de direito, o pedido de reconhecimento da minorante inserta no §4º do art. 33 da Lei 11.343/06." (HC 363.003/BA, Quinta Turma, Rel. Min. Felix Fischer, DJe 21/03/2017, grifei).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DA DROGA UTILIZADA PARA MODULAR A FRAÇÃO DE REDUÇÃO. POSSIBILIDADE. REGIME PRISIONAL. TEMA NÃO DEBATIDO NA CORTE DE ORIGEM. SUPRESSÃO. FLAGRANTE ILEGALIDADE VERIFICADA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DE PREENCHIMENTO DE REQUISITO OBJETIVO. MANIFESTA ILEGALIDADE PARCIALMENTE VERIFICADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. O tema relativo ao regime prisional não foi debatido pela Corte de origem, o que impossibilita a análise da questão diretamente por este Tribunal Superior, sob pena de indevida supressão de instância. Entretanto, tendo havido indevida negativa de prestação jurisdicional, pois, embora suscitado pela defesa tal ponto, a Corte estadual permaneceu silente, é cabível a concessão da ordem de ofício para determinar que o Tribunal a quo analise o pedido como entender de direito.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que a Corte de origem verifique a possibilidade de fixação do regime mais brando, nos termos do art. 33 do Código Penal." (HC 421.020/SP, Quinta Turma, Rel. Min. Ribeiro Dantas DJe 16/02/2018, grifei).
+Diante de tais considerações, vislumbra-se, in casu, que a decisão do Tribunal de origem está e desacordo com entendimento desta Corte, constituindo flagrante ilegalidade passível de concessão da ordem, de ofício.
+Dessa forma, tratando-se de habeas corpus substitutivo de recurso ordinário, e estando o v. acórdão prolatado pelo eg. Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, conheço do presente recurso ordinário em habeas corpus, ao qual dou provimento para anular o v. aresto proferido nos autos do Habeas Corpus n. 2174686-05.2021.8.26.0000, determinando que sejam apreciadas pelo eg. Tribunal a quo, como entender de direito, as questões ali suscitadas.
+P. I.
