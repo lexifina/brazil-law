@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DJAVAN COUTINHO DE ABREU E SILVA em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que, ao contrário do que constou do decisum embargado, houve o devido cotejo analítico na espécie. Traz os seguintes argumentos:
+O cotejo analítico realizado por meio do recurso especial, evidenciou este fato, de maneira sucinta, mas a divergência jurisprudencial era tão elevada que uma simples leitura do acórdão recorrido e posteriormente do paradigma, já seria suficiente para esclarecer que houve de fato, uma interpretação divergente do mesmo tema por tribunais pátrios diferentes )fl. 719).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Na espécie, observa-se que o embargante não fundamenta seu recurso em omissão, contradição, obscuridade ou erro material, se limitando a afirmar que o cotejo analítico entre os acórdãos paragonado e paradigma foi realizado, o que demonstra a nítida intenção de apenas rediscutir o que restou decidido.
+No entanto, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
