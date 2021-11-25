@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de WILLIAM ROBERT DA SILVAapontando como autoridade coatora o Tribunal de Justiça Militar do Estado de São Paulo (Apelação n. 0000806-67.2019.9.26.0040).
+Os autos dão conta de que o ora paciente foi condenado "à pena de 34 (trinta e quatro) anos e 10 (dez) meses de reclusão, sendo 30 (trinta) anos e 8 (oito) meses de reclusão nas sanções do artigo 305, e.e. art. 70, inciso II, alínea "I", do Código Penal Militar, e 4 (quatro) anos e 2 (dois) meses de reclusão nas imputações do artigo 35, caput, e.e. art. 42, inciso II, ambos, ambos da Lei n. 11.343/06 e.e. art. 70, inciso II, alínea "1" do Código Penal Militar, para cumprimento no regime inicialmente fechado"(e-STJ fl. 6), sendo-lhe negado o direito de recorrer em liberdade.
+Ainda, segundo relata a defesa,"nos termos do art. 580 do CPP c.c. art. 3, alínea "a" do CPPM, requereu-se a EXTENSÃO DOS EFEITO DA DECISÃO proferida no Processo-crime nº 0006752-47.2018.9.26.0010 (nº 007960/2020 - Processo de origem: nº 087537/2018 - 1ªAuditoria) que concedeu o direito dos demais coautores que, também estavam presos preventivamente, a aguardarem emliberdade até o trâmite de eventuais outros recursos que venham ser interpostos"(e-STJ fl. 10).
+Afirma, ainda, que o pedido foi recebido como embargos de declaração e indeferido em decisão monocrática de desembargador(e-STJ fls. 9/10).
+No presentewrit, a defesa afirma que, "em absoluta ofensa ao princípio da isonomia, bem como, em manifesta falta de razoabilidade/proporcionalidade, verifica-se, da leitura da DECISÃO prolatada nos autos do Processo-crime nº 0006752-47.2018.9.26.0010 (nº. 007960/2020 - Processo de origem: nº 087537/2018 - 1ª Auditoria) que se revogou aprisão preventiva e, ato contínuo, foi concedido aos demais coautores o direito de aguardarem em liberdade até o esgotamento dos demais recursos, junto as instancias extraordinárias". Ademais, alega que"é extremamente injusta a posição que se encontra o ora paciente e não há qualquer razão lógica para que o mesmo venha a receber tratamento distinto, frente aos demais coautores, que por ora, aguardam o desfecho do processo em liberdade"(e-STJ fls. 14/15).
+Assim, pleiteia o afastamento da Súmula n. 691/STF, para que liminarmente e no mérito seja revogada a prisão preventiva do paciente.
+É, em síntese, o relatório.
+De início, verifico que a peça está deficientemente instruída, já que a defesa não juntou cópia da decisãoque ora ataca.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+ ..  2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..  2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC-54.626/SP, Rel. Min. Rogério Schietti Cruz, Sexta Turma, DJe 2/3/2015, grifei.)
+Assim, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Ademais, não seria mesmo o caso de conhecer do writ, vistoque a defesa afirma que se opõe à decisão singular de desembargador do Tribunal de origem contra a qual seria cabível agravo regimental, o qual, aparentemente, não foi interposto, o que impossibilita o conhecimento deste writ.
+Nesse sentido, guardadas as devidas peculiaridades, tem-se orientado a jurisprudência desta Corte Superior de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT INDEFERIDO LIMINARMENTE. SUPRESSÃO DE INSTÂNCIA. DECISÃO MONOCRÁTICA NO TRIBUNAL DE ORIGEM QUE INDEFERIU O PROCESSAMENTO DE REVISÃO CRIMINAL. PEDIDO DE ADIAMENTO DA SESSÃO DE JULGAMENTO NÃO ANALISADO. REVISÃO INTERPOSTA 6 ANOS APÓS O JULGAMENTO. PRECLUSÃO. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido da necessidade de interposição de agravo interno contra a decisão monocrática do relator no Tribunal de segundo grau que indefere o processamento de revisão criminal, sob pena do writ aqui impetrado não ser conhecido em razão da supressão de instância.
+ ..
+3. Agravo regimental no habeas corpus desprovido. (AgRg no HC n. 492.822/PB, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 26/3/2019, DJe 5/4/2019.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO INTERNO. NÃO ESGOTAMENTO DA INSTÂNCIA ANTECEDENTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. A provocação recursal da jurisdição de Corte Superior exige o prévio exaurimento da instância antecedente, de modo que correta foi a decisão que indeferiu liminarmente o recurso ordinário em habeas corpus que atacava decisão monocrática que extinguiu o writ de origem.
+2. Caberia à defesa a interposição de agravo regimental, de modo a submeter a decisão singular à apreciação pelo órgão colegiado competente e não inaugurar, per saltum, a via recursal no Tribunal Superior.
+3. Agravo regimental improvido. (AgRg no RHC n. 60.261/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 3/8/2015, grifei.)
+Na mesma esteira colhem-se os seguintes julgados do Supremo Tribunal Federal:
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DE JURISDIÇÃO. CONSTITUIÇÃO DE NOVOS CAUSÍDICOS. INTIMAÇÃO IRREGULAR. NULIDADE. CONTRADITÓRIO E AMPLA DEFESA. ORDEM CONCEDIDA DE OFÍCIO.
+1. Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática, indeferitória de writ, do Superior Tribunal de Justiça, cuja jurisdição não se esgotou, ausente o manejo de agravo regimental. Precedentes.
+ ..
+3. Ordem de habeas corpus concedida de ofício. (HC n. 129.553, relatora Ministra ROSA WEBER, Primeira Turma, DJe de 13/10/2015.)
+ ..  1. Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Da mesma forma, não é admissível a utilização do habeas corpus em substituição à ação de revisão criminal.
+2. A quantidade e a natureza da droga, se não analisadas na primeira fase da dosimetria da pena, constituem fundamentos para a eleição do percentual de diminuição de pena decorrente da incidência do art. 33, § 4º, da Lei nº 11.343/2006. Precedentes do Plenário do Supremo Tribunal Federal.
+3. Agravo regimental a que se nega provimento. (HC n. 128.840 AgR, relator Ministro ROBERTO BARROSO, Primeira Turma, DJe 31/8/2015.)
+Tal o contexto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
