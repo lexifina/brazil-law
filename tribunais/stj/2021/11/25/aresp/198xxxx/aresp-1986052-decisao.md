@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BONATTO & GRANDO LTDA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/05/2021.
+Concluso ao gabinete em: 25/10/2021.
+Ação:execução de título extrajudicial proposta por opostos por BONATTO & GRANDO LTDA, em face de PORTO SEGURO COMPANHIA DE SEGUROS.
+Sentença:julgou improcedentes os pedidos iniciais.
+Acórdão: negou provimento à apelação interpostapeloagravante, nos termos da seguinte ementa:
+"EXECUÇÃO TÍTULO EXTRAJDUCIAL. EMBARGOS ÀEXECUÇÃO JULGADOS PROCEDENTES EM PRIMEIRO GRAU DEJURISDIÇÃO. DUPLICATA.
+1. RECUSA DA SEGURADORA DE PAGAMENTO DO SERVIÇO ÀOFICINA QUE REALIZOU O CONSERTO DO VEÍCULO, SOB OFUNDAMENTO DE QUE NÃO FORAM APRESENTADAS AS NOTASFISCAIS DE AQUISIÇÃO DAS PEÇAS UTILIZADAS. CONDIÇÃOESTABELECIDA NO ORÇAMENTO. CIÊNCIA DA OFICINA. AUSÊNCIA DE ABUSIVIDADE OU DIFICULDADE NOCUMPRIMENTO DA REFERIDA CONDIÇÃO, OBVIAMENTE, DESDEQUE AS PEÇAS SEJAM ADQUIRIDAS EM CONFORMIDADE COMTODOS OS TRÂMITES LEGAIS, ASSIM COMO RECOLHIDOSTODOS OS IMPOSTOS SOBRE AS OPERAÇÕES REALIZADAS. NOTAS FISCAIS NÃO APRESENTADAS. DESCUMPRIMENTO DACONDIÇÃO ESTABELECIDA NO ORÇAMENTO. TÍTULOINEXIGÍVEL. SENTENÇA MANTIDA.
+2. HONORÁRIOS ADVOCATÍCIOS FIXADOS DE FORMA ÚNICANA AÇÃO ANULATÓRIA E NOS EMBARGOS EM RAZÃO DOJULGAMENTO CONJUNTO. AUSÊNCIA DE RECURSO DASEGURADORA. HONORÁRIOS RECURSAIS JÁ MAJORADOS NAAÇÃO ANULATÓRIA NO PERCENTUAL MÁXIMO. IMPOSSIBILIDADE MAJORAÇÃO NESSE RECURSO (CPC, ART.85, § 11). RECURSO DESPROVIDO. VOTO VENCIDO." (e- STJ, fl. 297).
+Recurso especial: alega ofensa aos arts. 22, 597 e 884 do Código Civil. Sustentou: a desnecessidade da apresentação de todas as notas fiscais comprobatórias das peças adquiridas e serviços prestados para o conserto do veículo sinistrado; a ilegalidade da negativa da seguradora ao pagamento do prêmio do seguro. Alega, ainda que "que a função social do contrato entre as partes é a boa-fé objetiva (CC, artigos 421 e 422), sendo que a aprovação do orçamento, inclusive quanto ao valor global dos reparos (mão de obra e peças) comprova a boa-fé da recorrente, enquanto a recusa do pagamento, no presente caso, viola a boa-fé objetiva. Portanto, não houve nenhuma causa de impossibilidade de cumprimento, o que de fato existe é a má-fé da recorrida em não cumprir com suas obrigações, estando devidamente comprovada a violação do artigo 422 do Código Civil." (e-STJ, fl. 322).
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da intempestividade recursal
+A decisão agravada não conheceu do recurso especial interposto pela agravante em razão de sua intempestividade.
+Em suas razões, a agravante defende a tempestividade do recurso, afirmando que"no dia 24/05/2021 foi expedida a intimação do acórdão recorrido (mov.45, dos autos de Apelação Cível) (..) Tendo em vista que a recorrente não procedeu à leitura dentro do prazo de 10 (dez) dias contados da data do envio da intimação (artigo 5º, § 3º, da Lei nº 11.419/06), considerou-se que a intimação se deu na data do término desse prazo, ou seja, em 07/06/2021, e não no dia 04/06/2021, como equivocadamente entendeu o r. Julgador a quo, haja vista que a suspensão dos prazos processuais previstas pelo Decreto Judiciário 597/2020 (dias 03/06/2021 e 04/06/2021), foi computada automaticamente pelo sistema Projudi."Alegou, também que "o prazo para interposição de recurso passaria a fluir em 08/06/2021 e findaria em 28/06/2021, data da interposição do recurso especial, e não em 25/06/2021, como equivocadamente entendeu o r. Julgador a quo. Não há de se falar em intempestividade Ilustres Ministros, haja vista que o que a suspensão dos prazos processuais foi computada automaticamente pelo próprio sistema Projudi." (e-STJ, fl. 362),
+Verifica-se, no entanto, que a parte não juntou qualquer comprovante de suspensão dos prazos processuais quando da interposição do recurso especial.
+Nos termos do art. 1.003, §6º, do CPC/15, cabe ao recorrente comprovar a ocorrência de suspensão de prazo no ato de interposição do recurso, o que impossibilita a regularização posterior.
+Outrossim, a orientação jurisprudencial desta Cortefirmou-se no sentido de que a comprovação de suspensão do prazo ou feriado deve serrealizada por meio de documento idôneo capaz de evidenciar a prorrogaçãodo prazo do recurso, sendo insuficiente, para tanto, a mera citação doprovimento emanado do Tribunal de origem. Nesse sentido: AgRg no AREsp687.180/SP, Quarta Turma, Dje de 28/08/2015 e AgRg no AREsp 675.693/RJ,Quarta Turma, Dje de 26/06/2015.
+Dessa forma, em razão da ausência de comprovação da suspensão prazo processual, a intempestividade do recurso especial há de ser reconhecida.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015.
+Nos termos do art. 85, § 11, do CPC/15, deixo de majorar os honorários recursais, pois já fixados no percentual máximo (e-STJ, fl. 305).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO.INTEMPESTIVIDADE. SUSPENSÃO DE PRAZO. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO.
+1. Ação de execução de título extrajudicial. Embargos.
+2. É intempestivo o recurso especial que é interposto fora do prazo recursal de 15 (quinze) dias úteis, a contar da publicação do acórdão recorrido (recurso interposto sob a égide do CPC/15).
+3. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente deve comprovar a ocorrência de feriado local ou suspensão de prazo processual no ato de interposição do recurso, o que impossibilita a regularização posterior.
+4. Agravo em recurso especial não conhecido.
