@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por D M P SERVICOS ADMINISTRATIVOS LTDA. em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, alega que o TJSP foi omisso em enfrentar a tese que embasou o recurso especial e que "o embargante não pode ser prejudicado pela incúria do Egrégio Tribunal de Justiça, não obstante a questão ter sido devidamente prequestionada" (fl. 666). Traz os seguintes argumentos:
+ ..  o decisório ora impugnado, consigna que não houve a interposição de embargos para tal finalidade, mas deixa de analisar a circunstância do prequestionamento ofertado e não enfrentado pelo Tribunal.
+Ressalta-se que a omissão foi da Corte de Origem mesmo sendo provocada em duas oportunidades por embargos de declaração, permanecendo silente sobre a matéria que necessariamente deveria ter analisado.
+Ora Excelência, o embargante não pode ser prejudicado pela incúria do Egrégio Tribunal de Justiça, não obstante a questão ter sido devidamente prequestionada.
+Tal contexto autoriza certamente o manejo dos presentes embargos, a fim de que se esclareça a circunstância acerca da recusa do Tribunal ao enfrentamento da tese recursal devidamente prequestionada pelo embargante, o que fora devidamente demonstrado no pleito recursal e não analisado pelo Ministro Relator (fl. 666).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+De início, cumpre esclarecer que, ao contrário do que afirma a parte embargante, o decisum embargado afirmou expressamente que houve oposição de embargos declaratórios como a finalidade de provocar o Tribunal de origem a se manifestar sobre a tese que não foi prequestionada. Confira-se:
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente - ou seja, de que por ser sucumbente em parte mínima do pedido, não seria cabível a condenação do recorrente em honorários advocatícios - não obstante a oposição de embargos declaratórios para tal finalidade (fl. 661, grifo meu).
+Quanto ao mais, observa-se que se aponta omissão por parte do TJSP e não por parte da decisão embargada.
+Eventual alegação de nulidade quanto ao que restou decidido pelo Tribunal de origem, em virtude da omissão que ora se alega, deveria ter sido objeto do recurso especial manejado pela embargante, o que não ocorreu.
+Não cabe, por meio do presente recurso integrativo, se discutir alegada omissão em provimento jurisdicional emanado pela Tribunal a quo.
+Ressalto ainda que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
