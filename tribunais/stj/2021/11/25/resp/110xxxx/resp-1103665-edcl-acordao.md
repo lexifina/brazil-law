@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer, sendo substituído pela Sra. Ministra Maria Isabel Gallotti, nos termos do disposto nos arts. 2º, § 2º, e 55 do RISTJ.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelaCOOPERATIVA DE CRÉDITO RURAL DA REGIÃO DE SETE LAGOAS LTDA - CREDISETEe COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DE PEDRO LEOPOLDO LTDA - SICOOB CREDIPEL contra acórdão assim ementado (e-STJ fl. 1326):
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO.NEGATIVA DE SEGUIMENTO. VIOLAÇÃO DO ART. 105, III, DA CONSTITUIÇÃO FEDERAL. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL.AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF.
+DESPROVIMENTO DO RECLAMO.
+1. A insurgência quanto ao preenchimento dos pressupostos de admissibilidade de recurso de competência deste Superior Tribunal de Justiça tem natureza infraconstitucional, sem repercussão geral (Tema 181/STF).
+2. Agravo interno não provido.
+Sustentam as embargantes que o acórdão seria omisso, pois deixou de se manifestar a respeito das questões arguidas no agravo interno sobre a inaplicabilidadena hipótese doTema181 do STF.
+Alegam que "o Recurso Extraordinário foi interposto em face da reiterada negativa de prestação jurisdicional por este Eg. Superior Tribunal de Justiça, sendo o cerne de todo embate a decisão que negou seguimento ao Recurso Especial das Embargantes ao argumento de que a Corte Regional decidiu a questão dos atos cooperativos praticados pelas Cooperativas de Crédito à luz de fundamentos constitucionais, insuscetíveis de serem analisados na via do Recurso Especial"(e-STJ fl. 1338).
+Reforçam que houve análise meritória do recurso especial, visto que "por óbvio, para se declarar que a matéria é de índole infraconstitucional ou constitucional, não há como não se analisar a controvérsia debatida no feito, ainda que de forma genérica e superficial, como fez esta E. Corte nos presentes autos" (e-STJ fl. 1341).
+Aduzem que "o que deveria ter sido feito era o sobrestamento dos autos até o julgamento do RE n.º 672.215 e não negar seguimento ao Recurso, quando o próprio STF no ARE n.º 1.281.863, em momento algum determinou a aplicação do Tema n.º 181/STF, tampouco mencionou alguma hipótese de negativa de seguimento por óbice processual"(e-STJ fl. 1338).
+Requerem o acolhimento dos aclaratórios para que o defeito apontado seja sanado.
+A impugnação não foi apresentada(certidão de e-STJ fl. 1351).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+1.Inexistequalquer ambiguidade, obscuridade, omissão ou contradição a ser sanada, uma vez que o acórdão embargado explicitou, fundamentadamente, as razões pelas quais manteve a decisão que negou seguimento ao recurso extraordinário.
+2. Não se prestam os aclaratórios para rediscutir matériadevidamente enfrentada e decidida pelo acórdão embargado. Precedentes.
+3. Embargos de declaração rejeitados.
+VOTO
+Inicialmente, tendo em vista que o acórdão impugnado foi publicado em 13/9/2021 (e-STJ fl. 1335), cumpre atestar a tempestividade dos embargos declaratórios, pois opostos em 20/9/2021(e-STJ fl. 1345).
+O art. 1.022 do Código de Processo Civil disciplina que cabem embargos de declaração para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimentoe para corrigir erro material.
+Da análise do acórdão impugnado, conclui-se que não há qualquer mácula a ser corrigida, uma vez que esta Corte Especialjustificou adequadamente as razões pelas quais negou provimento ao agravo, mantendo a decisão que negou seguimento ao recurso extraordinário.
+Com efeito, consignou-se queconsoante destacado na decisão agravada, o Supremo Tribunal Federal pacificou o entendimento de que não é cabível recurso extraordinário no qual se alega violação ao art. 105, inciso III, da Constituição Federal, questionando o conhecimento ou não do recurso especial.
+Afirmou-se que, in casu,o acórdão objeto do recurso extraordinário - no tocante à alegação de afronta ao art. 5º, inciso LV, ao art.146, inciso III, letra "c", e ao art. 174, inciso II, todos da CF - não adentrou a análise do mérito recursal, pois a matéria suscitada é de índole constitucional e afeta,exclusivamente, à competência do Supremo Tribunal Federal.
+Asseverou-se que, conforme ressaltado na decisão agravada, tendo em vista que o acórdão impugnado no recurso extraordinário não ultrapassou o juízo de admissibilidade, não há repercussão geral na espécie, com incidência efetiva do Tema 181/STF, segundo o qual "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral".
+Saliente-se, outrossim, que, diversamente do alegado pelo embargante, o Tema de Repercussão Geral n. 181 é aplicável aos recursos extraordinários que se insurgem contra acórdãos que não adentraram ao mérito de recurso de competência desta Corte, em virtude do não preenchimento dos seus pressupostos de admissibilidade, independente do óbice que tornou inviável o exame da matéria tratada.
+Confira-se, a propósito, os seguintes precedentes a respeito do tema:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. VIOLAÇÃO DO PRINCÍPIO DA INDIVIDUALIZAÇÃO DAS PENAS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 182 DO STF.
+1. No caso dos autos, observa-se que o acórdão do STJ negou provimento aos agravos regimentais em razão da incidência das Súmulas 182/STJ e 315/STJ, o que se subsume ao crivo do paradigma firmado no RE-RG n. 598.365, o qual consigna que a matéria referente aos pressupostos de admissibilidade de recursos da competência de outros tribunais não possui repercussão geral (Tema n. 181/STF).
+(..)
+Agravo regimental improvido. (AgRg no RE nos EDcl no AgRg nos EAREsp 1666137/SE, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 22/06/2021, DJe 25/06/2021) (grifou-se)
+EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO. RECEBIMENTO COMO AGRAVO INTERNO. PRINCÍPIOS DA FUNGIBILIDADE E DA INSTRUMENTALIDADE DAS FORMAS. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. PREENCHIMENTO. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. EMBARGOS RECEBIDOS COMO AGRAVO INTERNO E NÃO PROVIDO.
+(..)
+2. Consoante entendimento firmado pelo Supremo Tribunal Federal, no julgamento da Repercussão Geral no RE 598.365 RG/MG, "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+3. Tratando-se de recurso extraordinário contra acórdão que não ultrapassou o juízo de admissibilidade, fica inviabilizado o exame das questões constitucionais suscitadas em face da inexistência de repercussão geral. 4. Declaratórios recebidos como agravo interno e não provido. (EDcl no RE no AgRg nos EREsp 1303543/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 04/09/2019, DJe 10/09/2019) (grifou-se)
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL E DOS LIMITES DA COISA JULGADA. ART. 5º, LIV E LV, DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 660/STF.
+1. É uníssona a jurisprudência do Supremo Tribunal Federal no sentido de que a questão da suposta afronta aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, se dependente de prévia violação de normas infraconstitucionais, configura ofensa meramente reflexa ao texto constitucional, não tendo repercussão geral (ARE 748.371 RG/MT - Tema 660/STF).
+2. Além do que, o exame da questão pelo norte da Súmula 126 do STJ encaminha a resolução do apelo interno para o campo também do Tema 181 do STF, que assenta a impossibilidade da interposição do recurso extraordinário para o fim de dirimir a aplicação de regra técnica atinente à admissibilidade do recurso especial da competência exclusiva do Superior Tribunal de Justiça.
+3. Agravo regimental improvido.
+(AgInt no RE nos EDcl no AgInt nos EDcl no REsp 1415841/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 19/09/2018, DJe 26/09/2018)
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. MÉRITO RECURSAL NÃO ANALISADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA DEVIDO AO NÃO PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE. AUSÊNCIA DE REPERCUSSÃO GERAL NO TEMA. RECURSO EXTRAORDINÁRIO. ALEGAÇÃO DE OFENSA AO ART. 105, INCISO III, DA CONSTITUIÇÃO FEDERAL. DESCABIMENTO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A questão do preenchimento dos pressupostos de admissibilidade necessários à análise do mérito recursal não tem repercussão geral, conforme entendimento do Supremo Tribunal Federal (RE 598.365 RG, Rel. Min. AYRES BRITTO, Tribunal Pleno, DJe 26/03/2010).
+2. "Não cabe recurso extraordinário fundado em violação ao art. 105, III, da Constituição Federal, para rever a correção da decisão do Superior Tribunal de Justiça de conhecer ou não do recurso especial, exceto se o julgamento emanado daquele Superior Tribunal apoiar-se em premissas que conflitem, diretamente, com o disposto na referida norma, o que não ocorreu no caso concreto" (AI 658872 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 06/09/2011, DJe-194 DIVULG 07-10- 2011 PUBLIC 10-10-2011 EMENT VOL-02604-03 PP00446). 3. Agravo interno a que se nega provimento. (AgInt no RE nos EDcl no RCD no AREsp 709.014/DF, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 15/03/2017, DJe 19/05/2017) (grifou-se)
+Não se constata, portanto, nenhum defeito no julgado questionado, tendo este colegiado demonstrado, de forma fundamentada, as razões pelas quais não é possível a admissão do recurso extraordinário, estando-se diante de mera irresignação com o resultado do julgamento, o que revela o descabimento dos embargos declaratórios.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1011452/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020)
+No mesmo diapasão:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME DA CAUSA. INEXISTÊNCIA DE VÍCIOS NO JULGADO. EMBARGOS REJEITADOS.
+1. Consoante a literalidade do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, e/ou corrigir eventual erro material.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no RE nos EDcl nos EDcl nos EDcl no REsp 1338942/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 10/03/2020, DJe 13/03/2020)
+Ante o exposto, rejeitam-se os embargos de declaração.
+É o voto.
