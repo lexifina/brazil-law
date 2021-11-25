@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CAPEMISA - INSTITUTO DE AÇÃO SOCIAL, em face de decisão monocrática que conheceu do agravo, para não conhecer do recurso especial.
+Ação: revisional de cláusulas contratuais c/c congelamento de juros e tutela antecipada, proposta por Álvaro da Silva Castro em desfavor deCAPEMISA SEGURADORA DE VIDA E PREVIDÊNCIA S/A.
+Decisão interlocutória: deferiu a tutela antecipada para determinar que as rés limitem os descontos no contracheque e ou conta salário do autor em 30% (trinta por cento do vencimento líquido observado os descontos obrigatórios, sob pena de multa diária de R$ 500,00, (quinhentos reais) limitada a R$3.000,00 (três mil reais).
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante,nos termos da seguinte ementa:
+"DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. AÇÃO REVISIONAL DE CLÁUSULAS CONTRATUAIS C/C CANCELAMENTO DE JUROS E TUTELA ANTECIPADA. AGRAVO DE INSTRUMENTO. Decisão que deferiu a tutela provisória, consistente na redução ao patamar de 30% (trinta por cento) dos vencimentos de militar da Marinha do Brasil. Medida Provisória nº 2215-10/01, que permite comprometer 70% dos ganhos, incluídos, entretanto, todos os descontos obrigatórios, como contribuição para pensão militar, assistência médica hospitalar e social, além de eventuais pensões. Conflito entre a norma e a jurisprudência deste Tribunal de Justiça. Inocorrência. Obedecido tal percentual, somente em relação a empréstimos realizados, violaria os limites da razoabilidade e a isonomia, estabelecendo solução diferenciada aos militares, enquanto os servidores civis gozam da limitação dos descontos obrigatórios e facultativos a 30% sobre a remuneração ou provento. Percentual de descontos, apenas para endividamento, que implicaria em violação ao preceito constitucional e fundamental da dignidade da pessoa humana. Precedentes. Incidência das Súmulas 200 e 295, deste Tribunal de Justiça. RECURSO A QUE SE NEGA PROVIMENTO." (e-STJ fl. 50)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação doart. 14, §3º, da MP 2.215-10/01. Sustentou: i) a ocorrência de causa interruptiva da prescrição; e ii) que o agravado, "na qualidade de Militar das Forças Armadas, poderia sofrer descontos de até 70% (setenta por cento) de seus rendimentos e como o mesmo afirmava que os descontos atingiam apenas 60% (sessenta por cento) de seus vencimentos, os descontos estavam dentro da margem legal, inexistindo direito de se antecipar a tutela deferida" (e-STJ, fl. 86).
+Decisão monocrática: não conheceu do agravo por aplicação da Súmula 182/STJ, ante a ausência de impugnação à Súmula 735/STF aplicada pelo juízo de admissibilidade.
+Agravo interno:alega ter preenchido todos os requisitos para a interposição do seu recurso. Diz que as questões suscitadas não requerem o reexame probatório, devendo ser afastada a Súmula 7/STJ aplicada.Repisa, no mais, os argumentos expendidos anteriormente em defesa de sua tese.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA. DECISÃO MANTIDA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno no agravo em recurso especial não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada, fundamentada no sentido de que "É cediço que, em sede extraordinária ou especial, o reexame acerca da presença ou não dos pressupostos autorizadores da concessão da antecipação de tutela, porquanto isso implicaria em revolver o conjunto fático-probatório constante dos autos, circunstância que atrai a incidência dos verbetes n. 279 e 735, da Súmula do Supremo Tribunal Federal e n. 07, da Súmula do Superior Tribunal de Justiça" (e-STJ, fl. 136)
+Assim, cabia à agravante demonstrar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+A decisão agravada, portanto, deve ser mantida por seus próprios fundamentos.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
