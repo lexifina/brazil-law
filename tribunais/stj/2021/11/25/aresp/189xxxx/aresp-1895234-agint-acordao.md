@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se de agravo interno interposto por SANTA RITA COMÉRCIO E IMPORTAÇÃO DE ELETRO ELETRÔNICOS LTDA. - MICROEMPRESA contra decisão proferida pela Presidência desta Corte, sob os seguintes fundamentos (e-STJ, fls. 486-487):
+Mediante análise do recurso de SANTA RITA COMERCIO E IMPORTAÇÃO DE ELETRO ELETRÔNICOS LTDA e OUTRO, foi colacionado aos autos apenas o comprovante de agendamento do preparo, não tendo sido juntado o comprovante do efetivo pagamento. Portanto, não se pode considerar efetuado o pagamento se o próprio documento "traz em si a advertência de que não representa a efetiva quitação da transação". (AgInt no AREsp 1143559/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/3/2018). Nos termos da Lei n. 11.636/2007, são devidas custas judiciais e porte de remessa e retorno dos autos nos processos de competência recursal do Superior Tribunal de Justiça. O parágrafo único do art. 10 da referida lei ordinária dispõe que nenhum recurso subirá ao Superior Tribunal de Justiça, excetuados os casos de isenção, sem a juntada aos autos do comprovante de recolhimento do preparo.Assim, mero comprovante de agendamento do preparo não serve para a comprovação da quitação da obrigação do recorrente, resultando na deserção do recurso especial. Nesse sentido, confiram-se os seguintes precedentes: AgInt no AREsp 1623099/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020; AgInt no AREsp 1534909/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/3/2020; e AgInt no AREsp 1497996/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 10/2/2020. Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a trazer às fls. 481/482 o comprovante de pagamento referente ao agendamento anteriormente apresentado acompanhado apenas do comprovante de pagamento da complementação do preparo. Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso. (..)Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Em suas razões (e-STJ, fls. 490-501), a agravante defende, em resumo, que regularizou o recolhimento em dobro das custas do recurso especial, com a juntada do comprovante referente ao agendamento e do novo pagamento, após intimação pela Presidência desta Corte.
+Pleiteia, assim, a reforma da decisão agravada para que seja dado provimento ao recurso especial.
+Impugnação apresentada às fls. 505-517 (e-STJ), na qual se postula a aplicação da multa prevista no art. 1.021, §§ 4º e 5º do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APRESENTAÇÃO DE COMPROVANTE DE AGENDAMENTO DO PREPARO NO ATO DA INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO. FALTA DE ATENDIMENTO. AUSÊNCIA DA GUIA DE RECOLHIMENTO (GRU).DESERÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Na falta da devida comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizá-lo em dobro, sob pena de deserção, nos termos do art. 1.007, § 4º, do CPC/2015.
+2. A jurisprudência deste Tribunal Superior assevera que é deserto o recurso na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente, aplicando-se a Súmula n. 187/STJ.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela parte insurgente não são capazes de modificar as conclusões da decisão agravada.
+Conforme registrado na decisão agravada, a Presidência desta Corte consignou haver irregularidade no recolhimento do preparo recursal.
+Constata-se que a parte se limitou a apresentar os comprovantes de pagamento referente ao agendamento anterior e à complementação do preparo, desacompanhado da guia de recolhimento.
+Com efeito, a jurisprudência desta Corte firmou-se no sentido de "ser essencial à comprovação do preparo a juntada da Guia de Recolhimento da União com o respectivo comprovante de pagamento no ato da interposição do recurso especial, sob pena de deserção" (AgInt no AREsp 1.641.953/SP, Relator Ministro Ricardo Villas Bôas Cueva, DJe 3/9/2020).
+Na mesma linha de cognição:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PREPARO. GUIA DE RECOLHIMENTO DA UNIÃO. AUSÊNCIA. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO, NO PRAZO. DESERÇÃO. SÚMULA 187/STJ. AGRAVO NÃO PROVIDO.
+1. "É insuficiente para comprovação do preparo a apresentação somente do comprovante de pagamento das custas processuais, pois é indispensável a juntada das respectivas guias de recolhimento da União" (AgRg nos EAREsp 562.945/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 3/6/2015, DJe 15/6/2015).
+2. Não comprovado o recolhimento do preparo no ato de interposição do recurso e, intimado para efetuar o recolhimento em dobro, o recorrente permanece inerte, o recurso não deve ser admitido em razão da sua deserção.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1387345/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/06/2019, DJe 14/06/2019)
+Desse modo, conforme enfatizado na decisão agravada, considerando que a jurisprudência deste Tribunal Superior assevera que é deserto o recurso especial na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, nos termos do art. 1.007, § 7º, do CPC/2015, ou a efetuar o pagamento em dobro (§ 4º do mesmo artigo), não o faz devidamente, é inafastável a incidência da Súmula n. 187/STJ ao caso.
+A propósito:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT. INTIMAÇÃO PARA SANAR VÍCIO REFERENTE AO PREPARO.ART. 1.007, § 7º, DO CPC/2015. NÃO CUMPRIMENTO. DESERÇÃO DO RECURSO ESPECIAL.
+1. Ação de cobrança de seguro obrigatório DPVAT.
+2. Não comprovado devidamente o recolhimento do preparo no ato de interposição do recurso e, intimada para regularizar o vício, a parte recorrente não cumpre a providência determinada, impõe-se a pena de deserção. Precedentes.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para conhecer do agravo interno e negar-lhe provimento.
+(EDcl no AgInt no AREsp 1839604/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/10/2021, DJe 06/10/2021)
+De outro lado, relativamente ao pleito da parte agravada para aplicação de multa, esta Corte Superior tem entendido que o mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso.
+Veja-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO NCPC. DECISÃO PUBLICADA A PARTIR DE 18/MAR/16. ENUNCIADO ADMINISTRATIVO Nº 7/STJ. NÃO CABIMENTO. RECURSO INTERNO. NÃO CONHECIMENTO OU IMPROCEDÊNCIA. MULTA DO ART. 1.021, § 4º, DO NCPC. ANÁLISE CASUÍSTICA. INOCORRÊNCIA, NA ESPÉCIE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Nos termos do Enunciado Administrativo nº 7/STJ, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso, sob pena de afronta ao próprio direito de petição, estabelecido no art. 5º, XXXIV, da CF.
+3. Embargos de declaração acolhidos para sanar omissão, sem efeitos infringentes. (EDcl no AgInt no REsp 1480859/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/04/2017, DJe 03/05/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
