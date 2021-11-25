@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se, na origem, de agravo de instrumento interposto por Fundação Petrobras de Seguridade Social PETROS contra decisão que, nos autos da ação ordinária ajuizada por Maria Cláudia de Paiva Serafim, deferiua tutela de urgência requerida pela autora para determinar que as demandas se abstenham de cobrar da suplicante as contribuições extraordinárias relativas ao Plano de Equacionamento do Déficit Técnico do Plano Petros, do Sistema Petrobrás, mantendo o valor do benefício e os descontos realizados quando da aposentadoria.
+A Segunda Câmara Cível do Estado da Bahia negou provimento ao inconformismo, em acórdão assim ementado (e-STJ, fls. 4.269-4.316):
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. TUTELA DE URGÊNCIA. PLANO DE EQUACIONAMENTO DE DEFICIT TÉCNICO (PED) DO PLANO PETROS DO SISTEMA PETROBRÁS (PPSP).SUSTAÇÃO DA COBRANÇA DE CONTRIBUIÇÕES EXTRAORDINÁRIA.INDÍCIOS DE NECESSIDADE TÉCNICA DE ADAPTAÇÃO FINANCEIRA DO PLANO. VALORES EXORBITANTES. RISCO DE DANO INVERSO.RECURSO IMPROVIDO.
+I - O artigo 21 da Lei Complementar estabelece a possibilidade de instituição de contribuições extraordinárias, a fim de equacionar resultado deficitário e manter o equilíbrio atuarial de plano de previdência complementar de entidade fechada.
+II - Evidencia-se dos autos a existência de diversas ações judiciais ajuizadas em todo o país, inclusive a ação civil pública nº 0505605-22.2018.8.05.0001, em trâmite na 7ª Vara Cível e Comercial da Comarca de Salvador, questionando a legitimidade da necessidade técnica da adaptação financeira, objeto do plano de equacionamento da PETROS, especificamente quanto à extensão dos valores que compõem o deficit apurado, cujo equacionamento tem sido imputado aos envolvidos, incluídos os participantes e assistidos.
+III - Diante de tais questionamentos, há indícios de que os participantes e assistidos podem ter sido responsabilizados por contribuições extraordinárias acima do valor necessário, comprometendo sobremaneira o orçamentos familiar, como no caso sob exame, em que a agravada sofreu o desconto de R$ 2.152,49 (dois mil, cento e cinquenta e dois reais e quarenta e nove centavos), o que configura o risco de dano inverso.
+AGRAVO IMPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Fundação Petrobras de Seguridade Social PETROS interpõe o presente recurso especial, fundamentado nas alíneasaecdo permissivo constitucional, apontando, além de divergência jurisprudencial,violação aos arts. 1º, 19 e 21 da Lei Complementar n.109/2001;e 6º, § 1º, 10 e 11 da Lei Complementar n.108/2001.
+Sustenta, em síntese, que "as contribuições extraordinárias, "limitadas"pela decisão ora recorrida, foram instituídas apenas para manter o equilíbrio do plano e garantir o benefício contratado, ou seja, implementadas em cumprimento ao art. 1 da Lei 109/2001.Sem a realização destas medidas de ajuste econômico/financeiro, o plano de previdência complementar caminharia inevitavelmente ao colapso, como comprovam os estudos realizados que viabilizaram a realização do plano de equacionamento" (e-STJ, fl. 1.096).
+Contrarrazões apresentadas às fls. 1.542-1.548(e-STJ).
+Em decisão monocrática proferida por este signatário, não foi conhecidoo recurso especial, nos termos daseguinte ementa (e-STJ, fls.1.577-1.580):
+RECURSO ESPECIAL. PROCESSUAL CIVIL. TUTELA DE URGÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF. CASO TAMBÉM DE INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões do agravo interno, Fundação Petrobras de Seguridade Social PETROSdefende a inaplicabilidade das Súmulas 735/STF e 7/STJ à hipótese dos autos.
+Alega que "eventual desprovimento do recurso será extremamente danoso, tendo em vista que, quanto antes o enfrentamento do déficit, com o regular cumprimento do plano de equacionamento, maior a chance de cobertura. Trata-se de risco de dano reverso!Ademais, é oportuno reiterar que o equacionamento do déficit do Plano de Benefícios, por expressa determinação legal (art.21 da LC nº 109/2001), deve ser suportado por participantes, assistidos e patrocinadora de forma paritária (art. 6º da LC 108/2001)" (e-STJ, fl. 1.591).
+Não foi apresentada impugnação ao agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. TUTELA DE URGÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA 735/STF. CASO TAMBÉM DE INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de que, em regra,não cabe recurso especial contra decisão que aprecia pedido liminar,nostermos da Súmula 735/STF.
+2. A análise do preenchimento ou não dos requisitos da tutela deurgênciademandaria o reexame do acervo fático-probatório dos autos, o queencontraóbice na Súmula n. 7/STJ.
+3.Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela insurgente não são capazes de modificar asconclusões da decisão agravada.
+Consoante assinalado anteriormente,em regra, não caberecurso especial contra decisão que antecipa os efeitos da tutela. Posicionamento este cristalizado no enunciado n. 735 da Súmula do STF,segundo o qual "não cabe recurso extraordinário contra acórdão que deferemedida liminar". Esse entendimento é aplicável aos recursos especiais, poranalogia.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.DECISÃO QUE CONCEDE OU NEGA A TUTELA ANTECIPADA. ÓBICE DA SÚMULA N.735/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. EMBARGOS DE DECLARAÇÃO. PRETENSÃO DE PREQUESTIONAMENTO. AUSÊNCIA DE INTUITO PROTELATÓRIO. AFASTAMENTO DA MULTA.
+1. No presente caso, para se verificar a apontada vulneração aos arts. 54 e 56 da Lei 13.907/2015 seria necessário o reexame de provas dos autos, o que se revela defeso no âmbito do recurso especial ante o óbice da Súmula 7/STJ.
+2. Quanto aos arts. 55, §3º, 493 e 933 do CPC, apontados no recurso especial, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal de origem e a recorrente, nos embargos de declaração interpostos, não objetivou suprir eventual omissão quanto a esses dispositivos legais. Portanto, ausente o prequestionamento. Incidência das Súmulas 282 e 356/STJ.
+3. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+4. A análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional demanda a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+5. Consoante orientação desta Corte Superior, a oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 1.026, § 2º, do CPC de 2015, nos termos da Súmula 98/STJ. Multa que deve ser afastada.
+6. Agravo interno parcialmente provido para dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 1.552.259/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/9/2021, DJe 27/9/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO INTERLOCUTÓRIA QUE APRECIOU PEDIDO LIMINAR. DISCUSSÃO QUE NECESSARIAMENTE ALCANÇA O DEBATE DA QUESTÃO MERITÓRIA DOS AUTOS. INCIDÊNCIA DA SÚMULA 735/STF.AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Nos termos da Súmula 735/STF, em regra, não cabe Recurso Extraordinário contra acórdão que defere medida liminar. Essa orientação se estende, também, às decisões que apreciam pedido de antecipação de tutela, diante da sua precariedade, sendo adotada, por analogia, no exame de Recursos Especiais neste STJ. Precedentes: REsp 1.706.944/SP, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2017; AgInt no AREsp 1.085.584/SP, Rel. Min. MARIA ISABEL GALLOTTI, DJe 14.12.2017.
+2. Esta Corte admite afastar a incidência do referido óbice sumular nas hipóteses em que a concessão, ou não, da medida liminar, e o deferimento, ou não, da antecipação de tutela caracterizam ofensa direta à Lei Federal que regulamenta estes institutos, desde que se revele prescindível a interpretação das normas que dizem respeito ao mérito da causa. A propósito: AgInt no AREsp 743.894/SP, Rel. Min.
+GURGEL DE FARIA, DJe 4.10.2017; AgRg no AREsp 690.896/RJ, Rel. Min.
+SÉRGIO KUKINA, DJe 1º.6.2015.
+3. Na espécie, não se trata de discussão acerca dos requisitos propriamente ditos para o deferimento da medida de urgência, mas sim de efetivo debate sobre o mérito da causa, evidenciando, assim, a incidência do óbice da Súmula 735/STF, já que, enquanto não advier sentença de mérito confirmando, ou não, a medida liminar, não se consideram exauridas as instâncias ordinárias.
+4. Agravo Interno da COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE a que se nega provimento.
+(AgInt no AREsp n. 1.842.283/RJ, Rel. Ministro Manoel Erhardt, Desembargador convocado do TRF5, Primeira Turma, julgado em 9/8/2021, DJe 16/8/2021)
+Excepcionalmente, o apelo especial comporta exame quando destinado àverificação do preenchimento dos requisitos do art. 300 do CPC/2015, desdeque, para tanto, não seja necessário o reexame de matériafático-probatória.
+No caso, o acórdão recorrido, ao manter o deferimento da tutela de urgência,concluiu quehá indícios de que os participantes e assistidos estejam sendoresponsabilizados por contribuições extraordinárias acima do valor necessário, comprometendo sobremaneira o orçamentos familiar, como no caso sob exame, em que a agravada sofreu o desconto de R$ 2.152,49 (dois mil, cento e cinquenta e dois reais e quarenta e nove centavos), o que configura o risco de dano inverso.
+Dessemodo, para rever as conclusões do aresto combatido, seria imprescindível o reexame de provas, medida que é inadmissível nestainstância extraordinária, sob pena de incidência da Súmula 7/STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REEXAME DEPROVAS. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS AUTORIZADORES.REEXAME. SÚMULA Nº 7/STJ. PERDA DE OBJETO. PRETENSÃO PREJUDICADA.
+1. Recurso especial interposto contra acórdão publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça entende não sercabível recurso especial para reexaminar decisão que defere ou indefereliminar em pedido de antecipação de tutela, nos casos em que hajanecessidade de revisão das premissas de fato adotadas pelas instânciasordinárias, como no caso, em virtude da incidência da Súmula nº 7/STJ.Precedentes.
+3. A prolação de sentença no feito principal torna prejudicado o agravo deinstrumento contra o deferimento de antecipação de tutela e,consequentemente, do recurso especial posteriormente interposto.
+4. Agravo interno não provido. (AgInt no AREsp 1.141.274/DF, Rel. Min.Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/12/2017, DJe2/2/2018)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
