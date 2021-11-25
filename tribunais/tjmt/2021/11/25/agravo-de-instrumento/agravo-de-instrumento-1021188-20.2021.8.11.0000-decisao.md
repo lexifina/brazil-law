@@ -1,0 +1,11 @@
+1
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) No 1021188-20.2021.8.11.0000
+AGRAVANTE: MTSUL CONSTRUCOES LTDA
+AGRAVADO: VIA BRASIL MT 320 CONCESSIONARIA DE RODOVIAS S.A.
+Manifesto meu impedimento para atuar no feito e incidentes posteriores (art. 144, VIII do CPC).
+Redistribua-se.
+Cuiabá, 25 de novembro de 2021.
+Des. Guiomar Teodoro Borges
