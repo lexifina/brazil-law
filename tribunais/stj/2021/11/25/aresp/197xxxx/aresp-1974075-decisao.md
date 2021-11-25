@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo apresentado por SAMOC S/A SOC ASSISTENCIAL MEDICA E ODONTO-CIRURGICA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO INDENIZATÓRIA POR DANOS EXTRAPATRIMONIAIS. RECUSA DE HOSPITAL CREDENCIADO AO PLANO DE REALIZAR ATENDIMENTO MÉDICO DE URGÊNCIA. SENTENÇA DE PROCEDÊNCIA. DANOS MORAIS FIXADOS EM R 15.000,00. APELO DO RÉU. PRELIMINARES DE ILEGITIMIDADE PASSIVA E INÉPCIA DA INICIAL. ARGUMENTOS QUE SE CONFUNDEM COM O PRÓPRIO MÉRITO RECURSAL. REJEIÇÃO DAS PRELIMINARES. NEGATIVA DE ATENDIMENTO EM UNIDADE DE SAÚDE CONVENIADA. RECUSA INDEVIDA. FALHA NA PRESTAÇÃO DO SERVIÇO. DANOS MORAIS CONFIGURADOS. VERBA INDENIZATÓRIA EXTRAPATRIMONIAL FIXADA ALÉM DO PATAMAR USUAL DESTA CORTE. DEVER DE UNIFORMIZAÇÃO DA JURISPRUDÊNCIA. REDUÇÃO PARA O VALOR DE R 8.000,00. PRECEDENTES. RECURSO PARCIALMENTE PROVIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 373, I, do CPC, no que concerne à inexistência de prova do fato constitutivo do direito autoral, trazendo os seguintes argumentos:
+Fato constitutivo do direito da parte autora não demonstrado, ainda que minimamente, ônus da prova que o incumbia, nos termos do art. 373, I do NCPC.
+ ..
+Deste modo, não houve registro que os autores estiveram no local correto de atendimento pelo plano de saúde.
+ ..
+Requer assim, a manifestação deste Tribunal quanto a falta de prova de negativa, posto que não há prova de que o bilhete do estacionamento se refere ao veículo dos genitores da autora.
+ ..
+Os autores em momento algum comprovam que tiveram o atendimento negado na rede credenciada, posto que dos documentos aduanados, não há nenhuma prova de negativa.
+ ..
+Não restou demonstrado e comprovado que houve negativa de atendimento pela rede credenciada, não fazendo jus a autora a qualquer condenação que alega haver suportado, posto que não houve dano suportado (fls. 389-393)
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 14 do CDC, no que concerne à ausência de falha na prestação do serviço, trazendo os seguintes argumentos:
+Desta forma, é forçoso concluir que não houve falha alguma no serviço prestado pela ré, eis que tomou as providências para solução do ocorrido, bem como, cumpriu com todo o dever de informação previsto no Código de Defesa do Consumidor, não havendo qualquer responsabilidade da parte ré, nos termos do art. 14, §3, I, Lei 8078/90 (fl. 393).
+Quanto à terceira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 14 do CDC, no que concerne ao reconhecimento de que o defeito na prestação do serviço se deu por culpa exclusiva da parte autora, trazendo os seguintes argumentos:
+Outrossim, ainda que se considere que houve defeito na prestação do serviço, este não se deu por culpa exclusiva da ré ora recorrente, e tampouco por sua participação na cadeia do evento danoso.
+ ..
+Desta forma, não houve defeito na prestação do serviço por culpa da ré, mas por culpa exclusiva da autora.
+Nos presentes autos, evidente é a culpa da autora por seus representantes legais que não procuraram no dia 18 de agosto de 2015 atendimento na rede credenciada, na forma do pactuado.
+ ..
+Assim, se verifica que não há culpa da empresa ré e sim alguma confusão feita pela representante legal da autora, que procurou hospital diverso da rede credenciada para atendimento e sabendo do credenciado não insistiu pelo atendimento, se dirigindo por livre arbítrio ao Hospital Público no dia 18 de agosto de 2015.
+ ..
+Assim, diante da culpa exclusiva da autora, enseja, a aplicação do exposto pelo art. 14, § 3º, I da Lei 8.078/90, in verbis, não cabendo a responsabilização da ré pelo alegado pela Autora (fls. 394-395).
+É, no essencial, o relatório. Decido.
+Quanto à primeira e segunda controvérsias, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Nada obstante, a prova dos autos (índex 18, fls. 22) milita no sentido de que no dia 18/08/2015 a autora/apelada e seus representantes legais estacionaram o veículo em estabelecimento particular localizado ao lado da unidade de Jacarepaguá, a qual pertence a rede credenciada.
+Ademais, não se pode perder de vista que é de conhecimento geral o fato de os hospitais não fornecem comprovantes da recusa de seu atendimento, de modo que se revela difícil a produção probatória em hipóteses como a dos autos, fato que atrai a incidência no disposto no artigo 375 do Código de Processo Civil.
+Apesar da dificuldade probatória, a autora/apelada logrou êxito de comprovar o fato constitutivo de seu direito, todavia a ré/apelante não se desincumbiu do ônus previsto no artigo 373, II do Código de Processo Civil.
+Com efeito, a negativa de hospital credenciado à apelante violou a boa-fé contratual, sendo certo que, à mingua da regra de que o inadimplemento contratual não enseja o dever de indenizar por dano moral, forçoso reconhecer a sua ocorrência no caso em comento, diante de ofensa ao direito da personalidade da segurada.
+A partir da análise dos autos, depreende-se que a recusa ao atendimento de urgência, expôs a saúde da infante a risco o que indubitavelmente causou à recorrida angústia, sofrimento e aborrecimentos que superam os do cotidiano, de modo que fornecem azo à reparação (fls. 343-344).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à terceira controvérsia, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
