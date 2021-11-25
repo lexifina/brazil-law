@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por ETOLIA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA., contra decisão monocrática que, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Ação: resolução contratual cumulada com compensação pelos danos morais e indenização pelos danos materiais, ajuizada por CRISTIANO HENRIQUE SALES DE SANTANA e RAYSSA SALES DE SANTANA, em face de ETOLIA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA.
+Sentença: julgou parcialmente procedentes os pedidos iniciais, para decretar a rescisão do contrato celebrado entre as partes e condenar a recorrente a restituir aos recorridos, de uma só vez, 90% da importância recebida, nela incluídas as despesas tidas com corretagem, devendo cada parcela ser corrigida desde o desembolso e com incidência de juros de mora a contar do trânsito em julgado. Assim, decaindo os recorridos em parte significativa dos pedidos, determinou que paguem com 70% das custas e dos honorários, competindo o restante à recorrente. Ainda, fixou os honorários em 10% do valor da condenação, suspensa a exigibilidade em relação aos recorridos por serem beneficiários da gratuidade da justiça.
+Acórdão: deu parcial provimento à Apelação interposta pelos recorridos e negou provimento à Apelação interposta pela recorrente, nos termos da seguinte ementa:
+"Compromisso de compra e venda. Prazo de entrega previsto no contrato de 180 dias. Obra concluída depois de findo o prazo ordinariamente fixado para entrega. Culpa da Requerida pela rescisão do contrato. Devolução integral das parcelas pagas. Dano moral não configurado. Recurso dos Autores parcialmente provido e desprovido o da Ré." (e-STJ fl. 266)
+Embargos de Declaração: opostos, pelos recorridos, foram acolhidos para condenar a recorrente ao pagamento de indenização por lucros cessantes; opostos, pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 402, 403, 422, 427, 884, CC/02, bem como dissídio jurisprudencial. Sustenta que é indevida a indenização por lucros cessantes, pois os recorridos não trouxeram aos autos uma única prova do dano material que alegam ter sofrido. Alega, ainda, que os recorridos deram causa à rescisão contratual, razão pela qual deveriam ter sido aplicadas as cláusulas livremente pactuadas entre as partes.
+Decisão monocrática: não conheceu do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Razões do agravo interno: sustenta a não incidência das Súmulas 284/STF, 211/STJ e 5 e 7/STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS E INDENIZAÇÃO POR DANOS MATERIAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de resolução contratual cumulada com compensação por danos morais e indenização por danos materiais.
+2. O agravo interno que não impugna, especificamente, todos os fundamentos da decisão recorrida, não deve ser conhecido.
+3. Agravo interno não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por ETOLIA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA., contra decisão monocrática que, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Cabe observar que a decisão agravada se pautou nos seguintes argumentos: i) fundamentação ausente/deficiente (Súmula 284/STF); e, ii) ausência de prequestionamento (Súmula 211/STJ); e, iii) fundamento do acórdão não impugnado (Súmula 283/STF); e, iv) reexame de fatos e provas e interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ); e, v) não ocorrência da divergência jurisprudencial, porque ausentes o cotejo analítico e a comprovação de similitude fática, incidência da Súmula 13/STJ no tocante à divergência, a ausência de indicação do dispositivo sobre o qual recaia a divergência e incidência da Súmula 7/STJ sobre o tema divergente.
+Observa-se, pelas razões expostas no agravo interno, que a agravante deixou de impugnar especificamente o fundamento do acórdão não impugnado (Súmula 283/STF), bem como a não ocorrência da divergência jurisprudencial, porque ausentes o cotejo analítico e a comprovação de similitude fática, incidência da Súmula 13/STJ no tocante à divergência, a ausência de indicação do dispositivo sobre o qual recaia a divergência e incidência da Súmula 7/STJ sobre o tema divergente.
+Assim, como esses pontos não foram objeto de insurgência da agravante e o entendimento pacífico desta Corte é o de que não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula 182/STJ, a qual se subsume perfeitamente ao presente recurso, é o caso de não se conhecer do agravo interno.
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
