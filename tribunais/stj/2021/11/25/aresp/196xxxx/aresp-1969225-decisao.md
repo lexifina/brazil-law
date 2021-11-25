@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto ITAÚ UNIBANCO S.A. contra a decisão de fls. 134-138 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a,da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fls. 61-62, e-STJ, grifos no original):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. FUNDO157.
+PRESCRIÇÃO. REVENDO O MEU POSICIONAMENTO QUANTO À MATÉRIA, PORQUANTO O ENTENDIMENTO DESTA CÂMARA, O QUAL PASSO A ADOTAR, PARA OS INVESTIMENTOS APLICADOS NO FUNDO 157, POR NÃO POSSUIR PRAZO DE RESGATE, NÃO SÃO AFETADOS PELA PRESCRIÇÃO.
+DEVER DE PRESTAR CONTAS. CONFORME O ART. 550 DO CPC, A AÇÃO DE PRESTAÇÃO DE CONTAS É COMPOSTA POR DUAS FASES: NA PRIMEIRA, ANALISA-SE O DEVER DE PRESTAR CONTAS; NA SEGUNDA, SENDO DECLARADO O DEVER DE PRESTAR CONTAS SERÃO ELAS APRECIADAS E JULGADAS SE APRESENTADAS.
+NO CASO, A PARTE AUTORA INFORMOU TER UTILIZADO 10% DO VALOR DEVIDO A TÍTULO DE IMPOSTO DE RENDA NA AQUISIÇÃO DE COTAS DO FUNDO ADMINISTRADO PELO RÉU, NO INTUITO DE OBTER REDUÇÃO DE IMPOSTO DE RENDA NO MESMO PERCENTUAL.
+ALÉM DISSO, ACOSTOU AOS AUTOS DOCUMENTOS QUE COMPROVAM SER COTISTA (EVENTO 1 - DOCS 4 A7), DEMONSTRANDO A RELAÇÃO JURÍDICA EXISTENTE ENTRE AS PARTES, FATO CONSTITUTIVO DO SEU DIREITO.
+DA ANÁLISE DOS DOCUMENTOS ACOSTADOS, VERIFICA-SE QUE HÁ DEMONSTRAÇÃO DO NÚMERO DA CONTA, DA QUANTIDADE DE COTAS, DO VALOR DA COTAÇÃO E SALDO DA ÉPOCA, BEM COMO O CERTIFICADO DE COTAS DOS DIVIDENDOS.
+AINDA, DEMONSTRA A PARTE AUTORA QUE NO ANO DE 1982 TINHA UM SALDO DE CR$ 13.431,29, ASSIM COMO NO ANO DE 1986 UM SALDO DE CZ$ 31.299,99 E QUE POSSUÍA 4.830,721 COTAS, DO QUE SE DEPREENDE ATRAVÉSDO EXTRATO DE CONTA ACOSTADO (EVENTO1 - DOC 6).
+DESTA FORMA, DIANTE DA COMPROVAÇÃO DE RESISTÊNCIA NA PRIMEIRA FASE, DEVERÁ A AÇÃO SER DESENVOLVIDA EM DUAS FASES.
+NO CASO ESPECÍFICO, HÁ DEMONSTRAÇÃO DA PROVA MÍNIMA DO DIREITO CONSTITUTIVO DO REQUERENTE, PODENDO SE PRESUMIR POR VERDADEIRO O VALOR INICIAL DITO COMO INVESTIDO PELO AUTOR DA AÇÃO DE PRESTAÇÃO DE CONTAS, NA MEDIDA EM QUE O VALOR APONTADO POSSUI COMPROVAÇÃO ATRAVÉS DE DOCUMENTOS ACOSTADOS AOS AUTOS.
+ASSIM, INCONTROVERSA A ADMINISTRAÇÃO PELO AGRAVANTE DOS VALORES INVESTIDOS PELO ORA AGRAVADO NO FUNDO 157 E, CONSEQUENTEMENTE, SEU DEVER DE PRESTAR CONTAS EM RELAÇÃO A SUA GESTÃO, TENDO EM VISTA QUE É DIREITO DA PARTE AUTORA TER CONHECIMENTO DE POSSÍVEIS RENDIMENTOS RELATIVOS AOS SEUS INVESTIMENTOS, CABE ÀS PARTES, NA SEGUNDA FASE, APRESENTAR AS CONTAS E IMPUGNÁ-LAS DE FORMA ESPECÍFICA.
+PORTANTO, TENDO A PARTE AUTORA DEMONSTRADO A PROVA MÍNIMA DO DIREITO CONSTITUTIVO, ATRAVÉS DOS EXTRATOS DA CONTA DO FUNDO 157, BEM COMO O SALDO ACIONÁRIO, O NÚMERO DE COTAS E O VALOR DA COTAÇÃO DA ÉPOCA, CONFORME ACIMA COLACIONADO, POSSUI A AGRAVANTE O DEVER DE PRESTAR CONTAS.
+RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram desacolhidos (fls. 89-95, e-STJ).
+Nas razões do recurso especial (fls. 104-116, e-STJ), o recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 1.022 do Código de Processo Civil de 2015; 287, II, a, da Lei n. 6.404/1976, 206, § 3º, IV e V, 205, 187 e 422 do Código Civil de 2002.
+Sustentou, em síntese:
+(i)negativa de prestação jurisdicional ante a omissão do Colegiado estadual em analisar questões relevantes para o deslinde da controvérsia, bem como ausência de fundamentação na decisão impugnada;
+(ii)prescrição da pretensão autoral de exigir a prestação de contas, tendo em vista o transcurso do prazo de mais de 40 (quarenta) anos da hipotética aplicação financeira, considerando os prazos prescricionais de 3 (três) anos para reparação civil e 10 (dez) anos pela regra geral do Código Civil; e
+(iii)ausência de boa-fé objetiva da parte adversa, tendo em vista que a pretensão de exigir contas refere-se a investimento supostamente realizado há mais de 40 (quarenta) anos, sem nenhuma insurgência anterior do recorrido.
+Em juízo de admissibilidade (fls. 134-138, e-STJ), a Corte de origem negou o processamento do recurso especial pelos seguintes fundamentos: a) não configurada a alegada violação do art. 1.022 do CPC/2015, porquanto as questões trazidas pelo recorrente foram analisadas, de forma fundamentada; b) aplicação das Súmulas 5 e 7/STJ para revisão das conclusões estaduais; e c) falta de prequestionamento dos artigos de lei tidos por vulnerados.
+Irresignado (fls. 152-163, e-STJ), aduz o agravante que o reclamo merece trânsito, refutando os retrocitados óbices de admissibilidade.
+Contraminuta às fls. 171-187 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novoCódigo de Processo Civil. Sendo assim, sua análise obedecerá ao regramentonele previsto. Portanto, aplica-se, na hipótese, o EnunciadoAdministrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016,segundo o qual "aos recursos interpostos com fundamento no CPC/2015(relativos a decisões publicadas a partir de 18 de março de 2016) serãoexigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dito isto, depreende-se que a apontada afronta ao art. 1.022 doCPC/2015 não ficou caracterizada, uma vez que a jurisprudência desta Corteé pacífica ao proclamar que, se os fundamentos adotados bastampara justificar o concluído na decisão, o julgador não está obrigado arebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, convém registrar que, apesar de rejeitados os embargosde declaração, a matéria em exame foi devidamente enfrentada peloColegiado de origem, que sobre ela emitiu pronunciamento de formafundamentada, ainda que em sentido contrário à pretensão da parterecorrente.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DANO MORAL.PESSOA JURÍDICA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE.AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N.83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+5. Agravo interno a que se nega provimento (AgInt no REsp 1.881.277/PR, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 16/08/2021, DJe 19/08/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC.
+NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia 5. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+6. Agravo interno não provido (AgInt no AREsp 1.582.425/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 16/08/2021, DJe 19/08/2021).
+Em relação às matérias tidas por omissas, assim se manifestou o Tribunalde origem (fls. 56, 57-59, e-STJ, grifos no original):
+Tendo em vista que tal opção de investimento não possuía prazo de vencimento ou de resgate de quantias, revendo meu posicionamento quanto à matéria, porquanto o entendimento adotado por esta Câmara, não há falar em prescrição da pretensão de exigir contas, relativamente aos valores investidos no Fundo 157.
+(..)
+Assim não há como reconhecer a prescrição alegada, devendo ser mantida a sentença de origem.
+No ponto, recurso desprovido.
+(..)
+Conforme o art. 550 do CPC, a ação de prestação de contas é composta por duas fases: na primeira, analisa-se o dever de prestar contas; na segunda, sendo declarado o dever de prestar contas serão elas apreciadas e julgadas se apresentadas.
+(..)
+Ademais, na petição inicial, o autor especificará, detalhadamente, as razões pelas quais exige as contas, instruindo-a com documentos comprobatórios dessa necessidade, se existirem, conforme art. 550, §1º do CPC.
+No caso, a parte autora informou ter utilizado 10% do valor devido a título de imposto de renda na aquisição de cotas do fundo administrado pelo réu, no intuito de obter redução de imposto de renda no mesmo percentual.
+Além disso, acostou aos autos documentos que comprovam ser cotista (evento 1 -docs 4 a 7), demonstrando a relação jurídica existente entre as partes, fato constitutivo do seu direito.
+Da análise dos documentos acostados, verifica-se que há demonstração do número da conta, da quantidade de cotas, do valor da cotação e saldo da época, bem como o certificado decotas dos dividendos.
+Ainda, demonstra a parte autora que no ano de 1982 tinha um saldo de Cr$ 13.431,29,assim como no ano de 1986 um saldo de Cz$ 31.299,99 e que possuía 4.830,721 cotas, do que se depreende através do extrato de conta acostado (evento 1 - doc 6).
+Desta forma, diante da comprovação de resistência na primeira fase, deverá a ação ser desenvolvida em duas fases.
+No caso específico, há demonstração da prova mínima do direito constitutivo do requerente, podendo se presumir por verdadeiro o valor inicial dito como investido pelo autor da ação de prestação de contas, na medida em que o valor apontado possui comprovação através de documentos acostados aos autos.
+Colaciono os extratos de conta, cujos documentos demonstram o saldo existente à época, bem como o número de cotas:
+(..)
+Assim, incontroversa a administração pelo agravante dos valores investidos pelo ora agravado no fundo 157 e, consequentemente, seu dever de prestar contas em relação a sua gestão, tendo em vista que é direito da parte autora ter conhecimento de possíveis rendimentos relativos aos seus investimentos, cabe às partes, na segunda fase, apresentar as contas e impugná-las de forma específica. Portanto, tendo a parte autora demonstrado a prova mínima do direito constitutivo, através dos extratos da conta do fundo 157, bem como o saldo acionário, o número de cotas e o valor da cotação da época, conforme acima colacionado, possui a agravante o dever de prestar contas.
+No ponto, recurso desprovido.
+Assim, constata-se que as questões postas em debate foram efetivamente decididas, nãohavendo falar em omissão, contradição, obscuridade ou ausência defundamentação, mas sim em julgamento adverso ao pretendido pela parterecorrente.
+Portanto, não se cogita de negativa de prestação jurisdicional, tampoucode nulidade do aresto estadual.
+Ademais, reverter a conclusão do Tribunal de origem, paraacolher apretensão recursal nos moldes em que pretendido, demandariaa interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos,providências vedadas no âmbito do recurso especial, tendo em vistaos óbices das Súmulas 5 e7/STJ.
+Da leitura do acórdão recorrido, observa-se que o conteúdo normativo dosart. 287, II, a, da Lei n. 6.404/1976, 206, § 3º, IV e V, 205, 187 e 422 do Código Civil de 2002não foi debatido pela Corte estadual,carecendo, portanto, do necessário prequestionamento viabilizador do recursoespecial. Inafastável a incidência do enunciado 211/STJ.
+Verifica-se que, apesar da oposição dos embargos de declaração pelorecorrente, de modo a viabilizar o requisito do prequestionamento,necessário ao conhecimento do recurso, o Tribunal de origem não decidiuacerca dos dispositivos, incidindo, assim, o enunciado n. 211 da Súmuladesta Corte Superior.
+Saliente-se que o reconhecimento da inexistência de ofensa ao art. 1.022do CPC/2015, bem como a aplicação da Súmula n. 211/STJ, não se apresentacontraditório, tendo em vista que o Tribunal de origem encontroufundamento suficiente para solucionar a controvérsia.
+Por fim, no que se refere ao alegado prequestionamento implícito, nostermos do art. 1.025 do CPC/2015, em razão de ter oinsurgente suscitado oartigo tido por vulnerado nas razões da apelação, ter oposto os embargosde declaração na origem e trazer esses fundamentos no recurso especial,com alegação de violação ao art. 1.022 do CPC/2015, essa possibilidadedepende do reconhecimento, pelo STJ, de ter havido erro, omissão,contradição ou obscuridade no acórdão impugnado, o que não ocorreu nopresente caso. Assim, inviável o reconhecimento do prequestionamentoimplícito pretendido.
+Vejam-se os termos do normativo citado:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que oembargante suscitou, para fins de pré-questionamento, ainda que osembargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal
+superior considere existentes erro, omissão, contradição ou obscuridade
+(Sem grifos no original).
+Além disso, o Tribunal de origem concluiu não haver se falar em prescrição da pretensão de exigir contas, porquanto o investimento sob análise (Fundo 157) não possuía prazo de vencimento ou de resgate de quantias.
+Contudo, não tratou orecorrente de impugnar tal fundamento, cuja subsistênciainviabiliza a apreciação do recurso especial e propicia o consequentedesprovimento do presente agravo, pela aplicação da Súmula n. 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorridaassenta em mais de um fundamento suficiente e o recurso não abrangetodos eles".
+Diante do exposto, conheço do agravo para negar provimento ao recursoespecial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE PRESTAÇÃO DE CONTAS. PRIMEIRA FASE. FUNDO 157. PRESCRIÇÃO NÃO CONFIGURADA. DEVER DE PRESTAR CONTAS. PREQUESTIONAMENTO DOS ARTIGOS DE LEI TIDOS POR VIOLADOS NÃO EFETUADO. SÚMULA 211/STJ. NÃO PREENCHIMENTO DOS REQUISITOS PARA POSSIBILITAR O PREQUESTIONAMENTO FICTO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
