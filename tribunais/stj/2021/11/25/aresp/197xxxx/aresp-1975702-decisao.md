@@ -1,0 +1,68 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BANCO DO BRASIL S/A, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/08/2021.
+Concluso ao gabinete em: 03/11/2021.
+Ação: revisional c/c repetição de indébito e exibição de documentos, ajuizada por ZULMO DE ALMEIDA SANTOS, em face do agravante, em razão de cobranças indevidas.
+Sentença: declarou a prescrição da pretensão com relação às prestações referentes ao mês de março de 1990 e julgou improcedentes os pedidos do agravado.
+Acórdão: deu provimento à apelação interposta pelo agravado, nos termos da seguinte ementa:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CÉDULA DE CRÉDITO RURAL. PLANO COLLOR. RESTITUIÇÃO DEVALORES PAGOS A MAIOR. SENTENÇA PUBLICADA NO CPC/73. REVISÃO DE CONTRATO FINDO. PRELIMINAR AFASTADA. PRESCRIÇÃO. INOCORRÊNCIA. ÍNDICE DE CORREÇÃO MONETÁRIA EM MARÇO DE 1990. BTNF FIXADO EM 41,28%. CORREÇÃO MONETÁRIA. ÔNUS DA SUCUMBÊNCIA. SENTENÇA REFORMADA.
+1. Aplica-se, ao presente caso, o Enunciado nº 02 do STJ, que diz: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. De acordo com o entendimento jurisprudencial, não há impedimento para a postulação de repetição do indébito em contratos findos, pois eventual reconhecimento de cobrança indevida não se convalida como ato jurídico perfeito.
+3. Não há cogitar-se a ocorrência de prescrição da Cédula de Crédito Rural, sobretudo, diante dos inúmeros precedentes desta Corte Recursal e do colendo Superior Tribunal de Justiça, nos quais se firmou o entendimento segundo o qual a prescrição é vintenária, tanto nas ações de cobrança de resíduos, como nas de restituição de valores cobrados com aplicação deindevido índice de correção monetária, em virtude de planos Econômicos.
+4. De acordo com o entendimento do colendo STJ e também deste Sodalício, o índice de correção incidente em março de 1990, em relação aos contratos bancários representados por cédulas rurais, é o BTNF (Bônus do Tesouro Nacional Fiscal), fixado em 41,28% (quarenta e um inteiros e vinte e oito centésimos por cento).
+5. Sobre o valor a ser restituído, deve incidir correção monetária pelo INPC, a partir do efetivo desembolso, ou de cada débito realizado de forma indevida, pois, se assim não fosse, inevitavelmente, restariam caracterizados o enriquecimento sem causa da instituição financeira, e a perda patrimonial do Autor; e juros de mora, o percentual de 1% (um porcento) ao mês, a partir da citação.
+6. Considerando a modificação do ato sentencial, com o julgamento de procedência parcial dos pedidos iniciais, a distribuição do ônus da sucumbência é medida que se impõe, sendo forçoso reconhecer a sucumbência recíproca, na hipótese, motivo pelo qual o ônus sucumbencial deverá recair sobre ambas as partes litigantes, na proporção de 50% (cinquenta por cento), para cada demandante.
+7. Tendo em vista que a sentença foi prolatada antes da entrada em vigor do Código de Processo Civil/2015, não há falar-se em majoração dos honorários advocatícios de sucumbência em grau recursal.
+APELAÇÃO CÍVEL CONHECIDA E PROVIDA.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+O Tribunal de origem consignou o seguinte (e-STJ, fls. 395/397):
+Afirmou que a prescrição é matéria de ordem pública, motivo pelo qual se impõe o seu reconhecimento, em razão da ocorrência da prescrição trienal, consoante disposição do artigo 206, §3º, IV, CC/2002 (Tema 919 do STJ), em relação a cédula rural nº 88/00165-2.
+Alegou que a cédula rural nº 88/00165-2 foi quitada na data de 15/01/2001, de forma que o início da contagem do prazo prescricional deve ser a data do pagamento/liquidação da dívida.
+(..)
+Em relação à prescrição ventilada, cumpre ressaltar que restou devidamente consignado, no acórdão embargado, que, diante dos inúmeros precedentes desta Corte Recursal e do colendo Superior Tribunal de Justiça, firmou-se o entendimento segundo o qual a prescrição é vintenária, tanto nas ações de cobrança de resíduos, como nas de restituição de valores cobrados com aplicação de indevido índice de correção monetária, em virtude de planos Econômicos.
+Ademais, cediço que, nas ações de repetição de débito, o termo inicial da contagem da prescrição deve ser a data do efetivo prejuízo, ou seja, do vencimento do título rural, ou do pagamento, caso tenha sido realizado antecipadamente, o que não ocorreu no caso em comento.
+Nesse sentido, o Superior tribunal de Justiça já definiu o entendimento para consignar que o termo inicial do prazo prescricional coincide com a data do efetivo prejuízo, pois "o direito à ação nasce no momento em que a obrigação contestada é exigida, ainda que não adimplida a tempo e modo" (AgRg no AREsp 613.323/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2015, DJe 23/03/2015).
+Assim, não há falar-se em omissão, ou erro material, quanto a apreciação da matéria.
+Recurso especial: alega violação dos arts. 489, II, §1º, IV, V e VI, e 1.022, II, do CPC/15, do art. 206, §3º, IV, e 2.028, do CC/02, do art. 6º da Lei 8.088/90, dos arts. 4º, VI, e 9º, da Lei 4.595/64, dos arts. 6º, §§1º e 2º, e 20, da Lei 8.024/90, bem como dissídio jurisprudencial.
+Afirma haver omissão em relação ao termo inicial do prazo prescricional, para a contagem do prazo e incidência da prescrição trienal.
+Aduz que o Tribunal de origem teria indevidamente adotado como termo inicial da contagem do prazo prescricional a data do vencimento do contrato, quando o termo de início deveria ser a data do efetivo pagamento. Dessa forma, sustenta que a pretensão revisional e de repetição de indébito em relação à cédula rural nº 88/00165-2, quitada apenas em 15/01/2001, estaria acobertada pela prescrição trienal.
+Defende a legalidade da utilização do IPC, em relação ao mês de março de 1990, para correção do saldo devedor da cédula rural.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do termo inicial do prazo prescricional (e-STJ fls. 397), de maneira que os embargos de declaração opostos pelo agravante de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/15
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 6º da Lei 8.088/90, dos arts. 4º, VI, e 9º, da Lei 4.595/64 e dos arts. 6º, §§1º e 2º, e 20, da Lei 8.024/90, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do indexador de correção monetária aplicável (Súmula 568/STJ)
+Ademais, as duas Turmas de direito privado do STJ entendem que o indexador de correção monetária aplicável às cédulas de crédito rural no mês de março de 1990 é o BTNF de 41,28%. Nesse sentido: AgInt no AREsp 1430024/PR, 3ª Turma, DJe 27/08/2019; REsp 1.552.434/GO, 3ª Turma, DJe de 15/03/2019; AgRg no REsp 1.344.543/RS, 4ª Turma, DJe de 13/04/2016; AgRg no AREsp 40.671/MS, 3ª Turma, DJe de 25/11/2013; e AgRg no REsp 1320198/RS, 4ª Turma, DJe 27/09/2013.
+Na hipótese sob julgamento, o Tribunal de origem entendeu pela aplicação do BTNF, nos seguintes termos:
+É fato indubitável nos autos, que o valor do saldo devedor, nos termos firmados nas cédulas rurais pignoratícias, deveria ser corrigido segundo os índices que eram aplicados à caderneta de poupança.
+Com efeito, a Lei federal nº 8.024, de 12 de abril de 1990, fruto da conversão da Medida Provisória nº 168, de 15 de março de 1990, por meio da qual se instituiu o "Plano Collor", determinou o bloqueio dos saldos da caderneta de poupança superiores a NCz$ 50.000,00(cinquenta mil cruzados novos), ao tempo que selecionou o BTNF (Bônus do Tesouro Nacional Fiscal) como o índice de atualização monetária que devia incidir sobre essas quantias.
+O Superior Tribunal de Justiça, ao manifestar-se sobre a matéria, assentou o entendimento de que o índice de atualização monetária que deveria incidir sobre as cadernetas de poupança, em março de 1990, era o BTNF, que, na época, correspondia à razão de 41,28% (quarenta e um inteiros e vinte e oito centésimos por cento).
+A propósito:
+(..)
+Assim, considerando que a cédula rural pignoratícia celebrada pelo Autor/Apelante estava atrelada ao índice de correção monetária da caderneta de poupança, impõe-se a aplicação do mesmo fator de atualização (BTN fiscal de 41,28%), afastando-se a incidência do IPC, aplicado à época, no percentual de 84,32%.
+Desta forma, merece ser acolhida a insurgência do Autor/Apelante, neste ponto, devendo ser reformada a sentença, para reconhecer o seu direito à restituição dos valores cobrados indevidamente. (e-STJ, fl. 282/284)
+Diante da consonância com o entendimento deste Tribunal Superior, aplica-se, quanto ao ponto, a Súmula 568/STJ.
+- Do prazo prescricional (Súmula 568/STJ)
+Já no que se refere ao prazo prescricional, a Segunda Seção desta Corte Superior, no julgamento do REsp 1361730/RS, (DJe de 28/10/2016), sob a sistemática dos recursos repetitivos, firmou as seguintes teses:
+I - A pretensão de repetição de indébito de contrato de cédula de crédito rural prescreve no prazo de vinte anos, sob a égide do art. 177 do Código Civil de 1916, e de três anos, sob o amparo do art. 206, § 3º, IV, do Código Civil de 2002, observada a norma de transição do art. 2.028 desse último Diploma Legal; e
+II. - O termo inicial da prescrição da pretensão de repetição de indébito de contrato de cédula de crédito rural é a data da efetiva lesão, ou seja, do pagamento.
+Na hipótese sob julgamento, o Tribunal de origem entendeu que o termo inicial da prescrição seria a data do vencimento, ou do pagamento, se realizado de forma antecipada (e-STJ, fl. 397), em dissonância com o entendimento sobre o tema nesta Corte, de que o termo inicial da prescrição da pretensão de repetição de indébito de contrato de cédula de crédito rural é a data do pagamento.
+Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para determinar o retorno dos autos ao TJ/GO para que proceda novo julgamento da apelação, na esteira do devido processo legal, à luz da jurisprudência do STJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL C/C REPETIÇÃO DE INDÉBITO E EXIBIÇÃO DE DOCUMENTOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. INDEXADOR DE CORREÇÃO MONETÁRIA APLICÁVEL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. DO TERMO INICIAL DA PRESCRIÇÃO. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação revisional c/c repetição de indébito e exibição de documentos, ajuizada em razão de cobranças indevidas.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O indexador de correção monetária aplicável às cédulas de crédito rural no mês de março de 1990 é o BTNF de 41,28%. Precedentes.
+6. A pretensão de repetição de indébito de contrato de cédula de crédito rural prescreve no prazo de vinte anos, sob a égide do art. 177 do Código Civil de 1916, e de três anos, sob o amparo do art. 206, § 3º, IV, do Código Civil de 2002, observada a norma de transição do art. 2.028 desse último Diploma Legal; e o termo inicial da prescrição da pretensão de repetição de indébito de contrato de cédula de crédito rural é a data da efetiva lesão, ou seja, do pagamento. Precedente.
+7. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, provido.
