@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Fundação de Crédito Educativoà decisão proferida por esta relatoria nos termos da seguinte ementa (e- STJ, fl. 659):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO. 1. CONTA-POUPANÇA.DESVIRTUAMENTO DO USO. RAZÃO INSUFICIENTE PARA AFASTAR A IMPENHORABILIDADE. PRECEDENTES. 2. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+Alega aembargante a existência de víciona decisão embargada. Apontaomissãoacerca da confissão da parte embargada de que possuiem contas bancárias quantias atingidas pelo bloqueio judicial que superam os 40 (quarenta) salários mínimos protegidos pelo art. 833, X, do CPC/2015.
+Desse modo, defende que a proteção legal "diz respeito a quantia de 40 salários mínimos ao todo, e não em cada conta bancária. Evidente, pois, que ao demonstrar que possui saldo superior ao disposto no art. 833, X do CPC, não atingido pelo bloqueio, resguardada está a verba impenhorável" (e-STJ, fl. 201).
+Aduz ainda a existência de perda superveniente do objeto do recurso manejado, uma vez que a exequente realizou o levantamento da quantia de R$ 10.942,78 (dez mil, novecentos e quarenta e dois reais e setenta e oito centavos) bloqueada para amortização do saldo devedor, sendo que, em abril/2021, foi realizado novo bloqueio judicial.
+Impugnação apresentada às fls. 212-218 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração são cabíveis quando existir no julgado omissão, contradição, obscuridade ou ainda erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+Dito isso, não merecem acolhimento os apontados vícios na decisão embargada.
+Conforme consignado na decisão embargada (e-STJ, fls. 194-198),depreende-se, das fls. 69-72 (e-STJ), que o Tribunal local entendeu que a quantia de R$ 10.942,78 (dez mil, novecentos e quarenta e dois reais e setenta e oito centavos) depositada na conta bancária da recorrente Débora de Oliveira Santos não gozava da garantia da impenhorabilidade, tendo em vista a constatação de intensa movimentação financeira, a qual demonstra a utilização da conta-poupança como se fosse conta-corrente, situação que, a seu ver, retiraria a proteção conferida pelo art.833, X, do CPC/2015.
+Contudo, verifica-se que o posicionamento do Tribunal estadual diverge da jurisprudência do Superior Tribunal de Justiça, a qual possui o entendimento no sentido de que todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos, são impenhoráveis, além de que a simples movimentação atípica, por si só, não seria capaz de caracterizar má-fé ou fraude.
+A propósito:
+EXECUÇÃO FISCAL. APLICAÇÃO FINANCEIRA. IMPENHORABILIDADEDO LIMITE PREVISTO NO ART. 649, X, DO CPC. AFASTAMENTO DA CONSTRIÇÃO EM RELAÇÃO AO LIMITE DE QUARENTA SALÁRIOS MÍNIMOS.
+1. O Superior Tribunal de Justiça possui jurisprudência que entende serem impenhoráveis os valores que alcancem até o montante de quarenta salários mínimos depositados em poupança, como também aqueles depositados em conta-corrente ou fundo de investimento.
+2. O STJ também já decidiu que a simples movimentação atípica apurada pelas instâncias ordinárias, por si só, não constitui má-fé ou fraude a ensejar a mitigação da impenhorabilidade estabelecida pelo art. 833, X, do novo CPC.
+3. Agravo Interno não provido. (AgInt no REsp 1.897.212/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/4/2021, DJe 1º/7/2021)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA. ATIVOS FINANCEIROS. CONTA-POUPANÇA VINCULADA À CONTA-CORRENTE. IMPENHORABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de que, até o limite de 40 (quarenta) salários mínimos depositados em qualquer tipo de conta bancária, a impenhorabilidade deve ser respeitada.
+3. Agravo interno não provido. (AgInt no AgInt no AREsp 1.643.889/SP, Rel.
+Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/8/2020, DJe 31/8/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL.EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VALORES DEPOSITADOS EM CONTAS BANCÁRIAS. MONTANTE INFERIOR A QUARENTA SALÁRIOS MÍNIMOS. IMPENHORABILIDADE.
+1. Cuida-se, na origem, de execução de título extrajudicial.
+2. São impenhoráveis os valores poupados pelo devedor, seja em caderneta de poupança, conta-corrente, fundo de investimentos ou em papel-moeda, até o limite de 40 salários mínimos. Precedente da 2ª Seção.
+3. A simples movimentação atípica apurada pelas instâncias ordinárias, por si só, não constitui má-fé ou fraude a ensejar a mitigação da impenhorabilidade do art. 833, X, do NCPC.
+4. Agravo interno no recurso especial não provido. (AgInt no REsp 1.795.956/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/5/2019, REPDJe 29/5/2019, DJe 15/5/2019)
+Por esse motivo, o agravo foi conhecido para dar provimento ao recurso especial da parte embargada, com intuito de afastar a penhorabilidade dos valores indicados e existentes na conta-poupança da recorrente Débora de Oliveira Santos, até o limite de 40 (quarenta) salários mínimos, atendendoaos limites do pedido recursal de fls. 84-93 (e-STJ).
+No que se refere à suposta confissão da parte embargada quanto à existência de outras contas que teriam sido atingidas pelo bloqueio judicial, como bem anotado na decisão embargadaà fl. 196 (e-STJ), o Colegiado local somente analisouo bloqueio que constava no sistema BACENJUD, ou seja, de R$ 10.942,78 (dez mil, novecentos e quarenta e dois reais e setenta e oito centavos), deixando, assim, de se manifestar sobre supostas quantias que não constavam do sistema oficial, o que, no seu entender, deverá ser melhor analisado pelo Juízo a quo.
+Dessa maneira, a referida questão não poderia ser objeto de apreciação por esta Corte em razão da falta de prequestionamento, a atrair a incidência das Súmulas 282 e 356/STF.
+Em relação à alegação deperda superveniente do objeto, observa-se que, na impugnação aos embargos declaratórios (e-STJ, fls. 212-218), a parte embargada teve a oportunidade de se manifestar acerca da desistência ou não do recurso interposto, nos termos do art. 998 do CPC/2015, e não fez, por essa razão mantida a apreciação por esta relatoria.
+Desse modo, ao analisar a questão aduzida no recurso especial, decidiu-se por aplicar, em relação aotema, a jurisprudência sedimentada por esta Corte, de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material,com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Portanto, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃONO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
