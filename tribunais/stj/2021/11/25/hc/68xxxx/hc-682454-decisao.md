@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Cinthia Mota Pinto, em que se aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça do Rio de Janeiro.
+Consta dos autos(n. 0082989-94.2019.8.19.0001) que a paciente foi condenadapelo Juízo da 5ª Vara Criminal do Tribunal de Justiça do Rio de Janeiroà pena de 2 anos e 6 meses de reclusão, em regimesemiaberto, e 11 dias-multa, como incursa no art. 155, § 4º,I, do Código Penal, por ter,no interior das Lojas Americanas do Norte Shopping, subtraído, para si, uma televisão 40" LED SMART, no valor de R$ 1.699,00 (mil, seiscentos e noventa e nove reais). O crime foi cometido mediante rompimento de obstáculo e fraude, pois a acusada removeu o alarme acoplado à TV com um estilete e grampeou (fls. 97/102).
+Em sede de apelação, a defesa apontou ilegalidade na condenação e pediu a redução da pena fixada. A Segunda Câmara Criminal do Tribunal de Justiça do Rio de Janeiro negou provimento ao recurso (fls. 28/42).
+No presente writ, a defesa aponta ilegalidade no aumento da pena-base, em razão dos maus antecedentes,e requer a compensaçãointegral entre a agravante da reincidência e a atenuante da confissão, bem como o abrandamento do regime (fls. 3/22).
+Parecer ministerialopinando pelo não conhecimento do habeas corpus (fls. 146/152).
+É o relatório.
+Na dosimetria, o Magistrado fixou a pena-base em 6 meses acima do piso mínimo, em face dos antecedentes sopesados na primeira fase.Confira-se trecho da sentença (fl. 100 - grifo nosso):
+ ..
+A culpabilidade da ré, aferível no caso concreto, não destoa da usualmente verificada em crimes da mesma natureza. Os motivos do crime não o justificam. As circunstâncias do delito, bem como o comportamento da representante da empresa lesada, são os próprios de crimes semelhantes. Não há elementos nos autos que permitam avaliar a personalidade e a conduta social da ré. A ré possui péssimos antecedentes conforme se depreende das anotações de nº 03, 04, 05, 7, 8, 9, 10, 11 e 12 da FAC acostada aos autos.
+Dessa forma, fixo a pena-base acima do mínimo legal, em 2 (dois) anos e 6 (seis) meses de reclusão e pagamento de 11 (onze) dias-multa, no valor unitário mínimo legal, ante a situação financeira da acusada. Na segunda fase, compenso a agravante da reincidência com a atenuante da confissão, perfazendo a pena de 2 (DOIS) ANOS E 6 (SEIS) MESES DE RECLUSÃO E PAGAMENTO DE 11 (ONZE) DIAS-MULTA, ANTE A SITUAÇÃO FINANCEIRA DA ACUSADA, CONSTITUINDO ESTA A RESPOSTA PENAL DEFINITIVA, À MÍNGUA DE OU-TRAS AGRAVANTES E ATENUANTES, BEM COMO DE CAUSAS DE AU-MENTO E DE DIMINUIÇÃO DE PENA.
+Registre-se que a acusada está presa por este processo desde 10/04/2019, ou seja, há 236 (duzentos e trinta e seis) dias, os quais deverão ser computados para efeito de cumprimento da pena privativa de liberdade e dedetração. A pena privativa de liberdade deverá ser cumprida em regime semiaberto nos termos do art. 33, § 3º, do CP, por ser a apenada reincidente. Incabíveis os benefícios previstos nos artigos
+ ..
+Não há ilegalidade na fixação da pena. O Magistrado a elevou com concreta fundamentação e de maneira proporcional. Esta Corte deve intervir apenas quando flagrante o constrangimento ilegal para a paciente, o que não ocorre na hipótese dos autos. Na segunda fase, foi feita a compensação integral entre a agravante de reincidência e a confissão espontânea. A ré também não pode ser beneficiada com um regime mais brando, por ser reincidente.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS.FURTO QUALIFICADO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. FRAÇÃO. AUSÊNCIA DE ILEGALIDADE. COMPENSAÇÃO INTEGRAL DA REINCIDÊNCIA COM A CONFISSÃO ESPONTÂNEA. REGIME SEMIABERTO. IMPOSSIBILIDADE DE ABRANDAMENTO EM RAZÃO DA REINCIDÊNCIA.
+Ordem denegada.
