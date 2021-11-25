@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo apresentado por IMOBILIARIA E COMERCIAL PIRUCAIA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+REIVINDICATORIA Improcedência da ação Alegação de exceção de usucapião Preenchimento dos requisitos, posse mansa e pacífica, pública, ininterrupta, com "animus domini" Caracterização Alegada ausência de prova que não pode ser acolhida Instrução completa Verossímil narração dos fatos pelos acionados Ratificação dos fundamentos do "decisum" Aplicação do art. 252 do RITJSP/2009 Recurso improvido. (fl. 499)
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega a violação dos arts. 1200, 1208, 1228, 1238 e 1240 do CC, aduzindo que não há prova nos autos de que os recorridos tenham adquirido o imóvel em questão a título de boa-fé, sendo que a posse era evidentemente clandestina, devendo assim ser afastada a exceção de usucapião em favor dos recorridos, trazendo os seguintes argumentos:
+A violação ao art. 1.200 do CC ficou configurada, porquanto é preciso delimitar que a posse oriunda de invasão, sem nenhuma anuência da legitima proprietária, ora recorrente, não tem o condão de gerar o efeito de usucapião.
+Isto porque a suposta continuidade da posse em favor dos recorridos, advinda de possuidores antecessores desconhecidos da recorrente, que sequer foi provada de forma consistente nos autos, não traz o condão de transformar em legítima posse clandestina, precária e sem "animus domini".
+Frise-se aqui que não há nos autos qualquer prova de que os requeridos tenham adquirido o lote a título de boa-fé, por meio de um contrato válido.
+Tanto é assim que o recorrido Alex alega ter adquirido o lote inteiro de um determinado vendedor, enquanto a recorrida Elaine alega ter adquirido metade daquele mesmo lote de um outro vendedor em data posterior, de forma totalmente contraditória!
+Vejam, Excelências, que a lógica impede a concessão do usucapião a ambos os recorridos. Isso porque se o recorrido Alex tivesse razão - e não o tem -, seu título lhe daria posse sobre a totalidade do terreno que alega ter ocupado, o que impediria que a Sra. Elaine viesse a usucapir parte deste terreno, justamente por já estar em posse de outrem.
+Por outro lado, se a Sra. Elaine estivesse correta - e não está -, sabendo que o terreno que pretende usucapir pertenceria ao Sr. Alex, estaria admitindo ter plena ciência de que a pessoa que lhe vendeu o terreno não era o seu legítimo possuidor e, por consequência, estaria reconhecendo a invalidade do contrato que teria, supostamente, lhe conferido a posse do imóvel.
+ ..
+É evidente que a posse adquirida pelos recorridos eivou de clandestinidade, conforme conjunto probatório produzido pela recorrente, consistente no depoimento das testemunhas, fiscais de loteamento, que são os responsáveis por inibir qualquer tipo de ocupação indevida no lote de propriedade da recorrente.
+Além disso, também foram produzidas provas testemunhais confirmando que todos os moradores da região têm ciência de que o terreno ocupado ilegalmente pelos requeridos pertence à requerente.
+ ..
+Diante da aludida fundamentação contida no V. Acórdão recorrido, forçoso é concluir que o mesmo violou as disposições gizadas no artigo em comento.
+A r. sentença de 1º grau, cujos fundamentos foram replicados em sede de acórdão de apelação, equivocadamente se baseou em prova oral produzida por apenas 1 testemunha, que embora tenha - de forma suspeita - feito alegações favoráveis ao recorrido Alex, atestou que a recorrida Eliana não habitava no imóvel há mais de 05 anos.
+A própria recorrida admite, às fls. 50, que embora tenha supostamente "adquirido" o terreno em 2010, só passou a habitá-lo 02 anos depois (em 2012), ou seja, 03 anos antes do ajuizamento da presente Reivindicatória
+ ..
+Excelências, uma conta simples de subtração basta para comprovar que, à época do ajuizamento da presente demanda, ainda faltava 02 anos para que a requerida tivesse direito à Usucapião Extraordinária Urbana.
+Ainda assim, a r. sentença de 1º grau e o acórdão aqui impugnado desconsideraram todas essas as alegações, corroboradas pela prova de todas as testemunhas trazidas em juízo.
+Embora não haja nos autos nenhuma prova capaz de sustentar as alegações dos recorridos, as provas produzidas pela requerente foram completamente ignoradas, de modo a privilegiar os invasores em detrimento da justiça.
+ ..
+O artigo em tela foi flagrantemente violado pelo V. acórdão, ao analisar o cerne, sem atentar para a origem viciada da posse, visto que advém de ocupação indevida (invasão).
+Logo, é de rigor o respectivo reconhecimento da respectiva eiva, visto que flagrantemente violado pelo acórdão recorrido.
+Desse modo, a recorrente carreia ao bojo dos autos, a negativa de vigência à aplicação ao art. 1.228 "caput" do Código Civil. (fls. 508/513)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A apelante pretende, por meio de ação reivindicatória, fazer valer sua propriedade em relação ao móvel descrito na inicial e nos documentos que a acompanham.
+Em contestação, os apelados alegaram usucapião como defesa, o que foi objeto de acolhimento, da r.sentença.
+A prova dos autos é robusta em demonstrar a posse mansa e pacífica, pública, ininterrupta, com "animus domini", razão pela qual a prescrição aquisitiva deve, de fato, ser reconhecida.
+Os argumentos apresentados no apelo não afastam o quanto decidido na r. sentença, de sorte que não merecem acolhida na via recursal, havendo, verossimilhança na narração dos acionados.
+Ademais, como bem decidiu o MM. Juiz "a quo": "(..)Deve ser anotado que a narração dos réus é verossímil. Não se ignora que a autora possui centenas de imóveis cuja posse foi alienada há muitos anos, tendo os respectivos compradores, não raras vezes, transmitido a posse a terceiros de boa-fé. Também não se ignora que a autora frequentemente é omissa na vigilância e nem sempre possui o controle necessário sobre os contratos que entabula, deixando de tomar as medidas jurídicas adequadas ao tempo da lei.(..)." (fl. 501)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
