@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em face de acórdão assim ementado (fl. 38):
+AÇÃO DE HABEAS CORPUS  ASSOCIAÇÃO E TRÁFICO ILÍCITO DE DROGA  PRISÃO PREVENTIVA  PRESENÇA DOS REQUISITOS DO ART. 312, DO CPP  QUANTIDADE E VARIEDADE DAS SUBSTÂNCIAS ENTORPECENTES APREENDIDAS  POSSIBILIDADE DE REITERAÇÃO DELITIVA  NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA  AUSÊNCIA DE FUNDAMENTAÇÃO NÃO EVIDENCIADA  CONDIÇÕES PESSOAIS FAVORÁVEIS  IRRELEVÂNCIA  CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO  ORDEM DENEGADA.
+Não há constrangimento ilegal quando a prisão preventiva está devidamente motivada na necessidade de se acautelar a ordem pública em razão da quantidade e variedade das substâncias entorpecentes apreendidas e do risco concreto de reiteração criminosa.
+Mesmo a custodiada ostentando condições pessoais favoráveis, a imprescindibilidade da sua permanência no cárcere se sobrepõe ao seu direito de liberdade.
+Ordem conhecida e denegada.
+A paciente foi presa em flagrante, convertido em preventiva, como incursa nos delitos de tráfico de drogas e associação para o tráfico.
+A defesa indica condições pessoais favoráveis e ausência do periculum libertatis, bem como fundamentação genérica e abstrata.
+Liminarmente e nomérito, busca a revogação da custódia.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Como cediço, a prisão preventiva (ou o não cabimento da substituição por outra medida cautelar), admitida excepcionalmente antes do trânsito em julgado de eventual sentença penal condenatória, deverá ser justificada em concreto e de forma individualizada, nos termos do art. 312 do Código de Processo Penal.
+A prisão cautelar foi assim fundamentada (fl. 17):
+O periculum libertatis exigido pelo art. 312 do Código de Processo Penal, por seu turno, também se afigura presente, mormente para a garantia da ordem pública, haja vista os reflexos devastadores que o tráfico de substância entorpecente tem provocado na sociedade guarapuavana.
+Ademais, necessário apurar qual o grau de envolvimento das autuadas com a comercialização de drogas, isto é, se o caso é de pequenas e ocasionais traficantes ou de pessoas que movimentam significativa quantidade de substância entorpecente, tendo em vista a diversidade e quantidade de substância entorpecente apreendidas com as autuadas, totalizando 41 gramas de cocaína e 2,6 gramas de maconha, além de um aparelho celular da marca Samsung modelo SM-G530BT, cor cinza, IMEI nº.352128072913646101
+O periculum libertatis exigido pelo art. 312 do Código de Processo Penal, por seu turno, também se afigura presente, mormente para a garantia da ordem pública, posto que a autuada Janice AparecidaSchisler registra diversas condenações pelos crimes tráfico de drogas e associação para o tráfico (autos nº0018590-52.2016.8.16.0031 e 0010872-96.2019.8.16.0031) e furto qualificado (autos nº0006793-79.2016.8.16.0031 e 0004642-04.2020.8.16.0031), sendo que atualmente cumpre pena nos autos de execução nº 0007660-38.2017.8.16.0031, e autuada Amanda Cordova Portes registra condenação pelo crime de tráfico de drogas (autos nº 0002265-80.2008.8.16.0031), o que demonstra que se soltas permanecerem encontrarão estímulos para prosseguir na senda criminosa.
+Como se vê, a custódia preventiva foi decretada com esteio na quantidade de drogas apreendida e na reiteração delitiva.
+Em que pese ser a reiteração delitivafundamento válido à custódia cautelar, os riscos apontados não demonstram a imperiosidade da constrição, pois a quantidade apreendida de droga não se mostra especialmente relevante, tratando-se de 41g de cocaína e 2,6g de maconha.
+Neste contexto, para evitar o risco de reiteração delitiva, suficiente a aplicação de medidas cautelares diversas da prisão, sendo as seguintes (a) apresentação a cada 2 meses, para verificar a manutenção da inexistência de riscos ao processo e à sociedade; (b) proibição de mudança de domicílio sem prévia autorização judicial, vinculando aacusadaao processo; e (c) proibição de ter contato pessoal com pessoas envolvidas com o tráfico e outras atividades criminosas, como garantia à instrução e proteção contra a reiteração criminosa.
+Ante o exposto, concedo liminarmenteo habeas corpus a fim de determinar a soltura da paciente, mediante o cumprimento das medidas cautelares acima elencadas.
+Comunique-se.
+Publique-se.
+Intimem-se.
