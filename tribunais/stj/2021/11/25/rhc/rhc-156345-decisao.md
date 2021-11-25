@@ -1,0 +1,14 @@
+DECISÃO
+WALISON GERALDO DE FREITAS MADUREIRA interpõe recurso ordinário contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que julgou improcedente a revisão criminal ajuizada naquela Corte, na qual pretendia a absolvição do réu, condenado pelo Júri por homicídio qualificado.
+Em suas razões, pretende o insurgente a extensão dos efeitos da decisão que absolveu o corréu, que também integraria a mesma organização criminosa. Assinala que "a mesma debilidade probatória que ensejou a absolvição de Kenderson aplica-se ao impugnante, pois o que se vislumbra é a completa dissintonia da sentença condenatória com as provas colacionadas no processo" (fl. 182).
+Entretanto, como pontuou o Ministério Público Federal, em seu parecer de fls. 205-210, "não há previsão no ordenamento jurídico brasileiro para o cabimento de recurso ordinário em habeas corpus em face de acórdão que julga revisão criminal" (fl. 207, destaquei).
+De fato, consoante dispõe o art. 105, II, da CF, compete ao STJ julgar, em recurso ordinário, "os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória".
+Não há, portanto, previsão para a interposição de recurso ordinário contra decisão proferida em revisão criminal pelo Tribunal de origem. Trata-se, portanto, de erro grosseiro que não admite a aplicação do princípio da fungibilidade, sobretudo quando a discussão envolve a absolvição do réu ou extensão de efeitos de decisão que nem sequer foi proferida por esta Corte.
+Assim, "considerando as previsões contidas no art. 105, da CF e no art. 30, da Lei nº 8.038/1990, tem-se que o ora recorrente não se serviu do meio processual adequado para submeter a presente irresignação a essa Augusta Corte Superior mediante o recurso aviado, já que não existe previsão expressa que autorize a interposição de recurso ordinário em habeas corpus para desafiar acórdão que julga revisão criminal" (fl. 209).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. REVISÃO CRIMINAL. RECURSO ORDINÁRIO. NÃO CABIMENTO. AUSÊNCIA DE PREVISÃO LEGAL. RECEBIMENTO COMO RECURSO ESPECIAL. IMPOSSIBILIDADE. PRINCÍPIO DA FUNGIBILIDADE. ERRO GROSSEIRO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que foi interposto recurso ordinário contra acórdão de Tribunal estadual que julgou improcedente revisão criminal.
+2. A interposição de recurso ordinário quando cabível o recurso especial, como ocorreu no caso em apreço, constitui equívoco inescusável e grosseiro, sendo impossível a aplicação do princípio da fungibilidade recursal.
+3. Agravo regimental desprovido. (AgRg no Ag n. 1.434.293/AC, Rel. Ministra Laurita Vaz, DJe 14/10/2019)
+À vista do exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço do recurso em habeas corpus.
+Publique-se e intimem-se.
