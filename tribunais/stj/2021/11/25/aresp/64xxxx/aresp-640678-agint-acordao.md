@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por CECILIA NARESSI CAMILO contra decisão de minha lavra, em que não conheci do agravo em recurso especial, pois aagravante não impugnou especificamente todos os fundamentos da decisão agravada, abstendo-se impugnar adequadamente a incidência da Súmula 83 do STJ (e-STJ fls. 1162/1165).
+Sustenta a parte agravante que, ao contrário do decidido, houve, sim, impugnação ao fundamento adotado pelo Tribunal de origem ao inadmitir o apelo nobre, tendo demonstrado que a orientação de que a sentença de mérito no processo principal prejudica o exame do agravo de instrumento não é pacífica no âmbito desta Corte de Justiça, conforme entendimento exarado nos autos de EREsp nº 765.105/TO.
+Afirma, ainda, "que a ora Agravante não pode ser prejudicada pela remessa prematura dos autos à justiça especializada, que fixou sua competência com a consequente prossecução do processo e realização de atos passíveis de serem declarados nulos, visto que a matéria está sendodiscutida perante a Justiça Estadual".
+Aduz, "notocante ao entendimento de existência de inovação recursal, não há que se falar que tenha ocorrido, uma vez que a Agravante defendeu a violação aos artigos de lei desde iniciada a fase recursal, ocorrendo ainda o devido prequestionamento da matéria".
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Decorrido o prazo sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1.De acordo com disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+VOTO
+Tenho que o inconformismo sob exame não merece prosperar.
+O agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, de acordo com o disposto no art. 253, parágrafo único, I, do RISTJ e no art. 932, III, do CPC/2015.
+In casu, o juízo de prelibação negativo proferido pelo Tribunal de origem inadmitiu o recurso especial ante a sintonia do acórdão hostilizado com a jurisprudência desta Corte de Justiça acerca do entendimento de que "resta prejudicado o apelo excepcional interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação de sentença de mérito no processo principal".
+Nas razões do agravo em recurso especial, o agravante não infirmou de forma adequada esse fundamento, em evidente desrespeito ao princípio da dialeticidade (e-STJ fls. 1278/1288).
+Com efeito, o ora agravante sustentou que "nem sempre a sentença gera, automaticamente, a perda do objeto do Agravo de Instrumento", apontando julgados desta Corte Superior e do Tribunal de Justiça do Espirito Santobem anteriores aos indicados na decisão de inadmissibilidade do especial (e-STJ fls. 1119/1122) erelativos à agravos de instrumentos contra tutela antecipada, os quais não se mostram suficientes para infirmar o fundamento em questão.
+Nessa quadra, inadmitido o recurso especial com base na jurisprudência desta Corte, caberia ao agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação deste Tribunal Superior não se firmou no sentido da decisão recorrida, ou, ainda, a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade.
+Ademais, a decisão agravada consignou que é incabível o exame de tese e dispositivo de lei federal não expostos no especial e invocados apenas em recurso posterior, por configurar indevida inovação recursal.
+No ponto, o agravante limitou-se a afirmar que "defendeu a violação aos artigos de lei desde iniciada a fase recursal, ocorrendo ainda o devido prequestionamento da matéria", sem transcrever, sequer, os trechos das razões recursais em que supostamente teria indicadoos arts. 12 da Lei n. 10.259/2001 e 3º da Lei 9.099/95 como violados.
+Assim, mostra-se inafastável o desprovimento do presente agravo interno.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. A parte agravante não infirmou especificamente a incidência do óbice da Súmula 83/STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Inadmitido o recurso especial com base na Súmula 83 do STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles. Precedentes.
+4. A jurisprudência desta Corte Superior firmou entendimento de que o óbice da Súmula 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos recursos fundados na alínea "a".
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 991.297/RS,
+Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/04/2017, DJe 11/05/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 16/02/2017, que, por sua vez, julgara recurso interposto contra decisão que inadmitira o Recurso Especial, publicada na vigência do CPC/2015.
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Na forma da jurisprudência, "fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ" (STJ, AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, DJe de 26/06/2013), com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, o que não ocorreu, no caso.
+V. Agravo interno improvido.
+(AgInt no AREsp 1043344/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 06/04/2017, DJe 26/04/2017)
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
