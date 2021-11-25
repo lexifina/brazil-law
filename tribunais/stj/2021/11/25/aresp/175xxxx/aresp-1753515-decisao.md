@@ -1,0 +1,9 @@
+DECISÃO
+Vistos.
+MB ENGENHARIA interpôs recurso especial às e-STJ, fls. 387/402, alegando que não teve culpa pela rescisão contratual e equívoco no termo inicial dos juros de mora incidentes sobre os valores a serem restituídos.
+Verifica-se que os autos foram remetidos ao órgão fracionário para eventual juízo de retratação, em decorrência de entendimento firmado em recurso repetitivo, tendo o órgão fracionário reformado o acórdão vergastado para definir novo termo inicial dos juros moratórios.
+Após a retratação, houve interposição de recurso especial por JEAN, que teve seguimento negado, ensejando a interposição de agravo para seu destrancamento, o que motivou a ascensão dos autos a esta Corte.
+Contudo, MB ENGENHARIA, em seu apelo nobre, não se limitou a requerer a reforma do acórdão então vergastado quanto ao termo inicial dos juros de mora, alegando também ausência de culpa pela rescisão contratual.
+Nos termos do art. 1.041, §1º, do NCPC, quando houver juízo de retratação e "o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões".
+Portanto, era imperioso que o TJ/MT procedesse ao juízo de admissibilidade quanto à questão remanescente, não submetida a reexame pelo órgão fracionário, para, em caso positivo, encaminhar o apelo nobre a esta Corte, de maneira que devem os autos retornar ao Tribunal local para realização do juízo de admissibilidade do recurso especial interposto por MB ENGENHARIA às e-STJ, fls. 387/402.
+Diante do exposto,DETERMINO a remessa dos autos ao TJ/MT para que realize o juízo de admissibilidade do recurso especial interposto por MB ENGENHARIA às e-STJ, fls. 387/402.
