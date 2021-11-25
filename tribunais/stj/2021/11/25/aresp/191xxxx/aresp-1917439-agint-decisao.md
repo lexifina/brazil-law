@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interno interposto por CONCESSIONÁRIA ECOVIA CAMINHO DO MAR S.A. contra a decisão da Presidência do SuperiorTribunal de Justiça que não conheceu do agravo em recurso especial.
+Nas presentes razões, aagravantedefendeque impugnouosfundamentos da decisão de admissibilidade.
+Por fim, requer a reconsideração da decisão atacada ou que o feito sejasubmetido ao órgão julgador colegiado.
+Impugnação às fls. 3.720/3.731 (e-STJ)
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+Considerando a manifestação dos agravantes, faz-se imperiosa areconsideração da decisão de fls. 3.704/3.706 (e-STJ) e passa-se ao exame dorecurso.
+Trata-se de agravo interposto por CONCESSIONÁRIA ECOVIA CAMINHO DO MAR S.A.,contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO EM RODOVIA PEDAGIADA. POSSIBILIDADE DE CONDENAÇÃO DIRETA E SOLIDÁRIA DASEGURADORA. TESE FIRMADA EM REPETITIVO (RESP 925.130/SP). INVASÃO DA PISTA CONTRÁRIA PELA AMBULÂNCIA DA RÉ, QUEPRESTAVA SERVIÇO À CONCESSIONÁRIA. COLISÃO FRONTALENTRE A AMBULÂNCIA E O VEÍCULO ONDE ESTAVA A AUTORA ESEU MARIDO. MORTE DO CONDUTOR DO VEICULO. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. RESPONSABILIDADEOBJETIVA. ARTIGO 37, § 6º, DA CONSTITUIÇÃO FEDERAL. RELAÇÃO DE CONSUMO. ARTIGO 14, DO CÓDIGO DE DEFESA DOCONSUMIDOR. FALHA NA PRESTAÇÃO DO SERVIÇO. DEVER DECUIDADO E SEGURANÇA NÃO OBSERVADOS. MANOBRA DEDESVIO PARA EVITAR COLISÃO COM VEÍCULO DE TERCEIRO, COMA INVASÃO DA PISTA CONTRÁRIA. CAUSA DIRETA E IMEDIATA DOACIDENTE. FATO DE TERCEIRO QUE NÃO ELIDE O DEVER DEINDENIZAR POR PARTE DO CAUSADOR DIRETO DO DANO. CONDUTOR COM HABILITAÇÃO VENCIDA E COM ADOCUMENTAÇÃO DO VEÍCULO IRREGULAR. MERA INFRAÇÃOADMINISTRATIVA. AGRAVAMENTO DO RISCO NÃO CONFIGURADO. EXCLUDENTES DE RESPONSABILIDADE NÃO COMPROVADAS. INDENIZAÇÃO DEVIDA. DANOS MORAIS CONFIGURADOS. ADOÇÃODO MÉTODO BIFÁSICO PARA FIXAÇÃO DA INDENIZAÇÃO. PRECEDENTES DO STJ. MANUTENÇÃO DO QUANTUM FIXADO. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. RESPONSABILIDADECONTRATUAL (ART. 405, DO CC). DANOS MATERIAIS. JUROS DEMORA INCIDENTES A PARTIR DA CITAÇÃO, POR SE TRATAR DERESPONSABILIDADE CONTRATUAL. COBERTURA SECURITÁRIADEVIDA, ATÉ OS LIMITES DA APÓLICE. VALORES DESCRITOS NAAPÓLICE QUE DEVEM SER CORRIGIDOS MONETARIAMENTE,PORÉM, SEM A INCIDÊNCIA DE JUROS DE MORA. DEDUÇÃO DAFRANQUIA. IMPOSSIBILIDADE, POR ACARRETAR PREJUÍZO AOSAUTORES. PAGAMENTO DA FRANQUIA. POSSIBILIDADE. VALOR ASER PAGO DIRETAMENTE PELA SEGURADA À SEGURADORA, SEMQUE RESULTE EM QUALQUER PREJUÍZO AOS AUTORES. HONORÁRIOS RECURSAIS. SENTENÇA MANTIDA. RECURSO DEAPELAÇÃO "1" PARCIALMENTE PROVIDO. RECURSO DEAPELAÇÃO "2" PARCIALMENTE PROVIDO. RECURSO DEAPELAÇÃO "3" PARCIALMENTE PROVIDO" (fls. 2.996/2.997 e-STJ).
+No recurso especial, foi alegada violação dosarts. 14, § 3º, II, do CDC; 944 do CC; 371 e 373, II, do CPC/2015; e 28, 29, 42, 43 e 220 do CTB. Defende, em síntese, que o incidente ocorreu porculpa exclusiva de terceiro e que a indenização foi fixada em valor exagerado.
+Com as contrarrazões, o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+Na hipótese dos autos, o tribunal de origem consignou:
+"No caso, não restam dúvidas quanto à ocorrência do acidente.
+Aliás, as partes rés não questionaram a sua ocorrência, cuja insurgência limita-se à alegação de que não possuem qualquer responsabilidade pelo ocorrido, ao argumento de que o acidente ocorreu por culpa de terceiro.
+O Boletim de Ocorrência (mov. 1. 4) demonstra que o acidente foi causado por culpa do réu, MARCELO, condutor do caminhão de propriedade da ré, SMR SOCORROMÉDICO E RESGATE LTDA, que estava a serviço da ré, CONCESSIONÁRIA ECOVIACAMINHO DO MAR S/A., o qual invadiu a pista contrária, por onde trafegava a autora, CARMECI e seu esposo, que faleceu em decorrência do acidente.
+(..)
+O croqui do acidente demonstra a invasão da pista contrária pela ambulância conduzida pelo réu, MARCELO (mov. 1.4 - fls. 04/05). O próprio réu, MARCELO, ao prestar depoimento em audiência confirmou essa versão dos fatos (mov. 1.088.3); contudo, imputou a culpa pelo acidente ao condutor deum terceiro veículo.
+(..)
+Constata-se, assim, a inobservância das normas de direção defensiva peloréu, MARCELO, condutor da ambulância da ré, SMR SOCORRO MÉDICO E RESGATE LTDA, que estava a serviço da ré, CONCESSIONÁRIA ECOVIA CAMINHO DO MAR S/A, o qual invadiu a pista contrária, dando causa ao acidente que culminou no óbito do esposo e genitor dos autores.
+Saliente-se, por oportuno, que estava chovendo no momento do acidente, oque impõe ao condutor do veículo maior cautela, prudência esta que não foi observada pelo réu MARCELO.
+Com efeito, a tese de defesa de fato de terceiro não é suficiente para romper o nexo de causalidade, e acarretar o afastamento da responsabilidade civil imputada aos réus.
+Importante esclarecer, aqui, que a manobra de desvio, para evitar a colisão com terceiro veículo, não elide o dever de indenizar do causador direto do acidente, ressalvado seu direito de regresso.
+(..)
+Destarte, em observância aos valores habitualmente fixados por esta Corte, em casos semelhantes (entre 30 e 100 salários mínimos - danos extrapatrimoniais decorrentes da morte de ente familiar), bem como considerando o grau de culpa da parte ré, sua capacidade econômico-financeira, as circunstâncias do acidente, a dor suportada pela parte autora CARMECI (esposa) e, DANIEL, DANILO e DARIO (filhos), além das peculiaridades do caso concreto (morte de seu esposo e genitor), concluo que o quantum indenizatório fixado em R$ 70.000,00 E R$ 50.000, respectivamente, para cada um, deve ser mantido"(fls. 3.005/3.017 e-STJ).
+Rever a conclusão do tribunal local para acolher a pretensãorecursal demandaria orevolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoanteenunciadodaSúmulanº 7/STJ.
+Ante o exposto,reconsidero a decisão de fls. 3.704/3.706 (e-STJ), tornando-asem efeito, para conhecer do agravo e não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista a ausência de condenação em honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se
