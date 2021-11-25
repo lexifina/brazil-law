@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 92):
+Agravo. Indeferimento de progressão ao regime aberto. Pleito de retificação da data-base para o benefício e concessão da benesse. Inteligência do artigo 112, caput, e § 1º da LEP. Termo inicial deve ser o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo. Agravo improvido.
+O paciente cumpre pena de 12 anos, 8 meses e 19 dias de reclusão, em regime semiaberto, com término previsto para 25/7/2026.
+Consta dos autos que "foi proferida decisão que indeferiu o pleito de progressão ao regime aberto formulado em favor do agravante, tendo em vista a ausência do requisito objetivo. O Juízo a quo considerou o dia da realização do exame criminológico para a progressão ao regime intermediário como data-base para a progressão ao regime aberto, de modo que o agravante só preencherá o requisito objetivo em 13/05/2022" (fl. 93).
+Pugna a impetrante, liminarmente e no mérito, pela progressão ao regime aberto, uma vez que preenchidos os requisitos objetivo e subjetivo.
+A liminar foi indeferida.
+Prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Sobre a pretensão aqui trazida, assim se manifestou o Tribunal local (fls. 93-95):
+ .. Trata-se de agravante que cumpre pena de 12 anos, 08 meses e 19 dias de reclusão, em regime semiaberto, pela prática de latrocínio tentado, sendo que início da reprimenda se deu em 04/11/2013 e o término está previsto para 25/07/2026. Em decisão proferida no dia 12/09/2019, foi concedido o benefício de progressão ao regime semiaberto ao agravante (fls. 13/15).
+Em 15 de julho p. p., foi proferida decisão que indeferiu o pleito de progressão ao regime aberto formulado em favor do agravante, tendo em vista a ausência do requisito objetivo. O Juízo a quo considerou o dia da realização do exame criminológico para a progressão ao regime intermediário como data-base para a progressão ao regime aberto, de modo que o agravante só preencherá o requisito objetivo em 13/05/2022 (fl. 56/57).
+Correto o entendimento do i. magistrado de primeiro grau.
+O caput e o § 1º do art. 112, da Lei nº 7.210/84, ambos coma nova redação dada pela Lei n. 13.964/2019, são claros ao exigir o preenchimento dos critérios objetivo e subjetivo para progressão, in verbis:
+ ..
+Observa-se que o artigo em questão traz como requisitos o lapso temporal mínimo como requisito objetivo, bem como a verificação dobom comportamento carcerário, requisito subjetivo analisado no momento da apreciação do pedido.
+Logo, o requisito objetivo não é o único a ser levado em conta para concessão do benefício, podendo ser superado quando da verificação do requisito subjetivo.
+Especificamente quanto ao requisito subjetivo, destaca-se que a Lei de Execução Penal, quando exige o bom comportamento carcerário para a concessão do benefício, não restringe a análise de mérito subjetivo do sentenciado pelo Juiz, levando em conta o comportamento carcerário, a prática de faltas disciplinares e até a forma de cometimento dos delitos, eis que todos esses elementos indicam a personalidade do sentenciado e obedecem ao princípio da individualização da pena, inclusive para não se colocar em risco demasiado a sociedade.
+ ..
+Portanto, como exigido em lei, é necessário o cumprimento dos requisitos objetivo e subjetivo para obter a progressão de regime, nãosendo independentes, de maneira que a pena poderá ser descontada por maior tempo em cada regime, a depender da comprovação do comportamento carcerário do sentenciado. ..
+Como visto, relatou o TJSP que " o Juízo a quo considerou o dia da realização do exame criminológico para a progressão ao regime intermediário como data-base para a progressão ao regime aberto, de modo que o agravante só preencherá o requisito objetivo em 13/05/2022", concluindo ser " c orreto o entendimento do i. magistrado de primeiro grau".
+Sobre a controvérsia, a jurisprudência do Superior Tribunal de Justiça vem se manifestando no sentido de que " a  data-base para a concessão de nova progressão de regime é o dia em que o último requisito (objetivo ou subjetivo) do art. 112 da Lei n.7.210/1984 estiver preenchido, tendo em vista que o dispositivo legal exige a concomitância de ambos para o deferimento do benefício" (AgRg no HC 654.153/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/05/2021, DJe 25/05/2021). No mesmo sentido: AgRg no HC 662.270/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 25/05/2021, DJe 01/06/2021; (AgRg no HC 689.642/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/09/2021, DJe 20/09/2021).
+Portanto, havendo a necessidade de exame criminológico para aferir a presença do requisito subjetivo à progressão de regime, tal requisito somente pode ser considerado preenchido no momento em que houver parecer técnico favorável, como decidido, no presente feito, pelo Tribunal estadual.
+Encontrando-se o aresto impugnado em sintonia com a jurisprudência desta Corte, não há falar-se em ilegalidade flagrante, constrangimento ilegal ou teratologia a ensejar a concessão da ordem.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
