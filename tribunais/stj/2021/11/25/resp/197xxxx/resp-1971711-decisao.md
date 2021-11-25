@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto peloInstituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, "a", da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fls. 247/248):
+Recurso. Apelação interposta pelo INSS. Ausência de recolhimento das despesas do porte de remessa e de retorno. Hipótese de deserção. Inteligência do art. 20, parágrafo único, inciso I, da Lei Estadual n. 11.608/03. Não conhecimento.
+Reexame necessário conhecido. Sentença ilíquida proferida contra o INSS. Súmula nº423, do Supremo Tribunal Federal e Súmula nº490, do Superior Tribunal de Justiça. Inteligência do art. 475, 1 do Código de Processo Civil.
+Acidentária. Ajudante de Cozinha. Tendinopatias em membros superiores. Laudo que constata a incapacidade parcial e permanente para o trabalho. Nexo decausalidade caracterizado. Direito ao auxilio acidente.
+Termo inicial: dia seguinte ao da cessação doúltimo auxílio-doença acidentário (DCB 30.11.2010  fl. 158), vedada a acumulação com outro benefício decorrente da mesma moléstia e compensando-se os valores pagos em razão da tutela antecipada concedida (fl. 163) e implantada (fl. 203). Inteligência do art. 86, par. 20, da Lei n. 8.213191.
+Valores atrasados: (i) deverão ser corrigidos r monetariamente a partir do termo inicial pelo IGP-DI, até a conta de liquidação, a partir de quando deverá incidir o IPCA-E, e ainda no que couber, a decisão da ADI 4357 pelo STF; e, (ii) juros de mora são devidos a partir do termo inicial, de modo decrescente, mês a mês, nos termos da Lei 11.960109, art. 50. Citação que ocorreu em 26.03.2009  fl. 37. Inaplicabi1idade da Súmula 204 do E. STJ.
+Honorários advocatícios fixados nos termos do art. 111 do STJ, no percentual de 15%.
+Recurso oficial provido em parte.
+Opostos embargos de declaração, foram rejeitados (fls. 278/284).
+Aponta o recorrente violação aos arts. 31, da Lei nº 10.741/03; 41-A da Lei 8.213/91, com redação dada pela Lei 11.430/06;5º da Lei 11.960/09; e1º-F da Lei nº 9.494/97, sustentando que se mostra "adequada a reforma do V. Acórdão, para que seja determinada a aplicação do INPC a partir de 2004, data da entrada em vigor da Lei nº 10.741103, até a edição da Lei nº 11.960/09. ante à demonstrada ofensa à legislação federal" (fls. 293).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, àsfls. 304/307.
+Em novo julgamento para eventual juízo de retratação, o acórdão foi parcialmente alterado,nos seguintes termos (fl. 329):
+Reanálise do tema nos termos do art. 1.030, do CPC/15. Representação encaminhada pela E. Presidência do Direito Público para manifestação acerca do precedente do C. Superior Tribunal de Justiça (REsp nº 1.495.146/MG) no qual restou entendido que as condenações judiciais de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei nº 11.430/2006, que incluiu o art. 41-A na Lei 8.213/91. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei nº 9.494197, com redação dada pela Lei nº 11.96012009). Alteração do acórdão.
+Opostos novos embargos de declaração, foram rejeitados (fls. 354/356).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso, conforme se verifica dos autos, o Tribunal a quo, em juízo de retratação previsto no art. 1.030, II, do CPC/15, proferiu novo julgamento e alterou o entendimento anteriormente exarado, nos seguintes termos ( fls. 331/263):
+Anoto, porém, que embora em princípio este Relator comungasse do entendimento acerca da incidência do IGP-DI até o cálculo de liquidação e depois o IPCA-E, atualmente, em face de deliberação tomada, em conjunto, por todos os integrantes desta E. 168. Câmara de Direito Público, no sentido de se unificar os índices de correção monetária com as decisões do C. Tribunais Superiores, adotará também o INPC  Tema 905 do C. STJ, em Recurso Repetitivo, REsp nº 1.495.146/MG  diante da medida provisória 316, depois convertida na Lei n. 11.430/06, até 29 de junho de 2009, quando, em face do julgamento do Tema 810, em Repercussão Geral, RE 870.947/SE, o E. STF considerou inadmissível a aplicação do índice de remuneração da caderneta de poupança  TR - como novo critério de atualização monetária estabelecido pela Lei 11.960109, chancelando, portanto, no seu lugar, o IPCA-E.
+Sobre a matéria, segue a decisão do C. Supremo Tribunal Federal, textualmente:
+ ..
+Pondero, ainda, quanto à atualização monetária depois do cálculo de liquidação, que deverá ser mantido o IPCA-E, em face do entendimento já consolidado pelo C. STJ, qualificado, inclusive, o caso, como repetitivo e representativo de controvérsia (cf. REsp 1.102.484/SP, 3a Seção, Rel. Min. Arnaldo Esteve Lima, j. em 2210412009, DJ de 2010512009), em consonância, inclusive, com o E. STF.
+Em igual diapasão, ainda:
+ ..
+Por fim, s. m. j., o precedente do Colendo Superior Tribunal de Justiça  INPC  deve ser adotado, mas com observação.
+A Corte de origem, ao decidir a questão relativa à correção monetária, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."). Nesse mesmo sentido: AgInt no AREsp 1702175/GO, Rel. Ministro Marco Aurélio Belize, Terceira Turma, DJe 4/12/2020; AgInt no AREsp 1642570/SP , Rel. Ministro Og Fernandes, Segunda Turma, DJe 27/11/2020.
+Ademais, como houve alteração do fundamento adotado pela Corte de origem, a retificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia e mutatis mutandis, daSúmula283/STF579/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MANTIDO, MAS COM FUNDAMENTO NOVO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ.
+1. Submetido o recurso especial a juízo de retratação e reapreciado o caso, conforme o art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi mantido, acrescentando-se, todavia, fundamento novo.
+2. Hipótese em que necessária a ratificação do recurso especial, providência não observada. Incidência, por analogia, da Súmula 579/STJ.
+3. Agravo não provido.
+(AgInt no AREsp 828.379/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 25/08/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO PROFERIDO NOS TERMOS DO ART. 543-C, § 7º, II, DO CPC. FALTA DE RATIFICAÇÃO. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA
+1. "É inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação" - Súmula 418/STJ.
+2. Hipótese em que o Recurso Especial foi submetido a juízo de retratação em razão de a matéria versada nele Recurso Especial ter sido submetida a julgamento no rito dos recursos repetitivos. Posteriormente, o órgão colegiado reapreciou o tema com base no art. 543-C, § 7º, II, do CPC; manteve-se o acórdão hostilizado, mas o Recurso Especial não foi reiterado ou ratificado pela parte interessada. Agravo regimental improvido.
+(AgRg no REsp 1.479.578/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/12/2015, DJe 02/02/2016)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
