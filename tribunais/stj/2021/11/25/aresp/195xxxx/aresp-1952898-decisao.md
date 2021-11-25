@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE CURITIBA contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CUMPRIMENTO DE SENTENÇA. PEDIDO DE EXPEDIÇÃO DE PRECATÓRIO COMPLEMENTAR, REFERENTE AOS JUROS DE MORA E CORREÇÃO MONETÁRIA INCIDENTES ENTRE A DATA DOS CÁLCULOS DE LQUIDAÇÃO E A EXPEDIÇÃO DO PRECATÓRIO PRINCIPAL, FORMULADO APÓS O LEVANTAMENTO DOS VALORES. POSSIBILIDADE. QUESTÃO QUE NÃO É OBJETO DE SENTENÇA TRANSITADA EM JULGADO. APLICAÇÃO DO ENTENDIMENTO DO STF.
+RECURSO CONHECIDO E PROVIDO.
+No presente recurso especial, o recorrente aponta violação dos arts. 927, §3º, e 1.040, do CPC/2015, alegando, em síntese, a necessidade de que o acórdão recorrido observe, obrigatoriamente, a jurisprudência do STF no decidido pelo RE 579.431 - Tema 96 de repercussão geral, a fim de que se processe a expedição de precatório complementar.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+A questão controvertida foi decidida sob fundamento de cunho constitucional com base em interpretação de tese defendida pelo STF após o reconhecimento da repercussão geral e respectivo julgamento, transbordando assim os lindes específicos de cabimento do recurso especial.
+Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais como já referido, tem-se inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+A propósito, confiram-se trechos do julgado recorrido, os quais corroboram o referido entendimento, litteris:
+Na data de 24.11.2017 os autores, ora apelantes, requereram a execução complementar referente aos juros de mora incidentes sobre o período compreendido entre a data da elaboração dos cálculos e a expedição da requisição de pagamento, conforme entendimento do Supremo Tribunal Federal no julgamento do RE 579.431/RS, sob o rito da repercussão geral.
+(..)
+Inicialmente, ressalta-se que o acórdão do RE nº. 579.431/RS, julgado sob o rito da repercussão geral, foi publicado em 30.06.2017, como se observa:
+(..)
+Segundo o posicionamento do Pretório Excelso, não há mais dúvidas de que os juros da mora devem fluir entre a data da realização dos cálculos e a data da expedição da requisição de pequeno valor.
+Impende ressaltar que não há, aqui, conflito com o teor da Súmula Vinculante nº 17, a qual veda a incidência dos juros entre a data da expedição da RPV ou do precatório e a data do pagamento.
+(..)
+Com relação à correção monetária, também se pronunciou o Pretório Excelso no julgamento do ARE 638195, com repercussão geral, cujo acórdão foi publicado em 13.12.2013:
+(..)
+Não há que se falar na inaplicabilidade dos referidos entendimentos no caso dos autos, tendo em vista que o exequente somente toma conhecimento de que seu crédito não sofreu a incidência de juros de mora e correção monetária quando do depósito dos valores.
+Assim, também, a jurisprudência:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. FUNDAMENTOS DA DECISÃO AGRAVADA QUE NÃO FORAM ESPECIFICAMENTE IMPUGNADOS NAS RAZÕES DO AGRAVO INTERNO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. INCLUSÃO DO ICMS NA BASE DE CÁLCULO DA CONTRIBUIÇÃO PARA O PIS E DA COFINS. ABRANGÊNCIA. ICMS DESTACADO NAS NOTAS FISCAIS OU ICMS ESCRITURAL. INTERPRETAÇÃO E APLICAÇÃO DE TESE FIRMADA NO JULGAMENTO DO RE N. 574.706/PR. REPERCUSSÃO GERAL. TEMA N. 69 DO STF. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. REVISÃO NO ÂMBITO DO RECURSO ESPECIAL. IMPOSSIBILIDADE. TRÂNSITO EM JULGADO DO ACÓRDÃO PARADIGMÁTICO. DESNECESSÁRIO.
+I - Trata-se de agravo interno interposto contra a decisão monocrática proferida pelo Presidente do Superior Tribunal de Justiça, responsável por conhecer do agravo para conhecer parcialmente do recurso especial interposto contra o acórdão que consignou que o valor relativo ao ICMS destacado nas notas fiscais não integra a base de cálculo da contribuição para PIS nem da COFINS, e, na extensão conhecida, negar-lhe provimento.
+(..)
+IV - O Tribunal de origem solucionou a controvérsia que lhe foi devolvida por meio da aplicação, ao caso em tela, do seu entendimento acerca da tese firmada pelo Supremo Tribunal Federal no julgamento do RE n. 574.706/PR, cuja matéria teve a sua repercussão geral reconhecida (Tema n. 69/STF), de acordo com a qual in verbis: "O ICMS não compõe a base de cálculo para a incidência do PIS e da Cofins". A solução da questão controvertida com amparo na interpretação e na aplicação de regramentos, princípios e precedentes constitucionais inviabiliza o conhecimento da controvérsia pelo Superior Tribunal de Justiça, na via estreita do recurso especial, sob pena de usurpação da competência constitucionalmente atribuída ao Supremo Tribunal Federal para tratar da matéria de índole eminentemente constitucional, por meio do processamento e julgamento de recursos extraordinários, nos termos do art. 102, III, da Constituição Federal. Precedentes: AgInt no AREsp n. 1.541.814/RS, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/4/2020, DJe 5/5/2020; e AgInt no REsp n. 1.830.350/RN, Relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 29/4/2020, DJe 5/5/2020.
+(..)
+VII - Agravo interno parcialmente conhecido e, nessa parte, desprovido. (Grifos não constam do texto original).
+(AgInt no AREsp 1656371/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/09/2020, DJe 21/09/2020)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. INTERPRETAÇÃO DE TESE FIRMADA PELO STF. FUNDAMENTAÇÃO CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE. REPERCUSSÃO GERAL. TRÂNSITO EM JULGADO. AGUARDO. DESNECESSIDADE.
+1. À luz do art. 105, III, da Constituição Federal, o recurso especial não serve à revisão da fundamentação constitucional.
+2. Tem natureza constitucional a controvérsia inerente à interpretação da tese definida pelo Supremo Tribunal Federal, após o reconhecimento da repercussão geral e respectivo julgamento, sendo certo que, relacionar o debate com a forma de execução do julgado do Supremo, não poderia outro tribunal, em princípio, ser competente para solucioná-lo.
+3. Hipótese em que o recurso não pode ser conhecido, pois o Tribunal Regional Federal da 4ª Região, interpretando a tese definida pelo Supremo Tribunal Federal, decidiu ser o ICMS destacado na nota fiscal a parcela de tributo a ser excluída da base de cálculo da contribuição ao PIS e da COFINS.
+4. Desnecessidade de se aguardar o trânsito em julgado da tese firmada pelo Supremo Tribunal Federal no julgamento do RE n. 574.706, pois as Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça têm orientação jurisprudencial pacífica pela dispensa dessa providência.
+5. Agravo interno não provido. (Grifos não constam do texto original).
+(AgInt no AREsp 1620516/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 11/05/2020, DJe 14/05/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
