@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de GUILHERME BALLERINI RIBEIRO DOS SANTOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado como incurso nas sanções do art. 155, §§ 1º e 4º, I, c/c art. 61, II, "j", ambos do Código Penal, à pena de 3 anos e 4 meses de reclusão, em regime fechado, e pagamento de 16 dias-multa.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo, nos moldes da seguinte ementa:
+"FURTO QUALIFICADO. DOSIMETRIA DA PENA.
+Afastamento dos maus antecedentes. Não aplicado. Baseado o aumento em condenações distintas e definitivas. Período depurador que se aplica somente para se definir a reincidência. - Agravante de calamidade pública. Mantida.
+Circunstancia objetiva. Lei Estadual que a define. - Causa de aumento de pena. Furto ocorrido durante o repouso noturno. Aumento mantido. A lei não especifica o local em que o furto deve ser praticado. Destaca-se a vulnerabilidade do local e menor vigilância do patrimônio. RECURSO NÃO PROVIDO."(e-STJ, fl. 53)
+Neste writ, a defesa alega, em suma, que deve ser afastada a agravante prevista no art. 61, II, "j", do CP, "porque se tratou de uma subtração comum em que a existência de eventual decreto de calamidade pública em nada influiu na redução da proteção do bem jurídico"(e-STJ, fl. 6).
+Requer, assim, seja afastada a agravante prevista no art. 61, II, "j", do CP, redimensionando-se a pena do paciente.
+Indeferido o pedido de liminar (e-STJ, fl. 60), o Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ, fls. 66-71).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Assim, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+No tocante ao pedido de afastamento da agravante prevista no art. 61, II, "j", do Código Penal, razão assiste à defesa.
+Na sentença condenatória, a dosimetria da pena do paciente foi assim estabelecidana segunda etapa:
+"De fato, o delito ocorreu durante a vigência de estado de calamidade pública decorrente da pandemia do COVID-19, reconhecida por meio do Decreto nº 64.879/2020 de 20/03/2020. Assim é que respeitado posicionamento em contrário, fato é que estado de calamidade pública acabou por facilitar a execução de crimes, ainda mais diante da necessidade de isolamento social a fim de retardar a propagação da doença, o que gerou a redução de pessoas e policiais nas ruas, defasando a vigilância estatal.
+Diante disso, a pena deve ser agravada em mais 1/4, chegando-se ao piso de 03 anos de reclusão, e 15 dias-multa."(e-STJ, fl. 47).
+O Tribunal de origem manteve a agravante do art. 61, II, "j", do CP nos seguintes termos:
+"Na segunda fase, em razão da agravante de reincidência e diante do cometimento do crime durante a vigência do "estado de calamidade", nos termos do artigo 61, II, "j"do Código Penal, aumentou-se a pena em  1/4.
+Quanto a esta ultima agravante foi reconhecido pelo Congresso Nacional (Decreto Legislativo 6/2020) e pelo Governo do Estado de São Paulo (Decreto n.64.879/2020). Neste ultimo em seu artigo 1º reconhece o estado de calamidade pública, decorrente da pandemia do COVID-19, que atinge o Estado de São Paulo, possuindo circunstancia objetiva, deve ser aplicada."(e-STJ, fl. 55)
+Como se vê, a Magistrada sentenciante reconheceu a agravante do art. 61, II, "j", do CP, por ter o paciente cometido o delito durante estado de calamidade pública decretada pelo Congresso Nacional, em razão da pandemia causada pela COVID-19, com recomendação de isolamento social e outras medidas públicas.
+No entanto, a incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática do delito, o que não ocorreu na hipótese.
+Logo, não tendo as instâncias ordinárias demonstrado o nexo causal entre a prática delitiva pelo acusado e a pandemia decorrente do novo coronavírus, impõe-se o afastamento da agravante do art. 61, II, "j", do Código Penal (HC 632.019/SP, Rel. Ministro FELIX FISCHER, DJe 10/2/2021; HC 629/981/SP, Rel. Ministro JOEL ILAN PACIORNIK, DJe 9/2/2021; HC 620.531/SP, Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/2/2021).
+Passo, assim, à readequação da pena, porém só no que tange à segunda fase.
+Partindo da pena-base fixada em 2 anos, 4 meses e 24 dias de reclusão e 12 dias-multa, na segunda etapa mantém-se apenas a agravante da reincidência, pelo que majoro a pena em 1/5 - já que se consignou na sentença a dupla reincidência -, resultando em 2 anos, 10 meses e 16 dias de reclusão e 14 dias-multa.
+Ainda nessa fase, mantenho a redução da pena em 1/6 pela incidência da atenuante da confissão espontânea, chegando-se ao patamar de 2 anos, 4 meses e 23 dias de reclusão e 11 dias-multa.
+Na terceira etapa fica mantido o aumento de 1/3 pela causa de aumento do § 1º do art. 155 do Código Penal, totalizando a reprimenda 3 anos, 2 meses e 10 dias de reclusão e 14 dias-multa.
+Por fim, tratando-se de réu reincidente e com maus antecedentes, fica mantido o regime inicial fechado.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para afastar a agravante prevista no art. 61, II, "j", do Código Penal, reduzindo a pena ao patamar de 3 anos, 10 meses e 10 dias de reclusão e 14 dias-multa.
+Publique-se. Intimem-se.
