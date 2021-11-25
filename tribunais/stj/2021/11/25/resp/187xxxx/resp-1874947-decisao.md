@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+De início, torno sem efeito a decisão de sobrestamento, em razão do que decido a seguir.
+Trata-se de RECURSO ESPECIALcontra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS assim ementado(e-STJ, fl. 146/152):
+APELAÇÃO. TRIBUTÁRIO. PROCESSUAL CIVIL. ARROLAMENTO SUMÁRIO. PARTILHA AMIGÁVEL. HOMOLOGAÇÃO. SENTENÇA. PRÉVIA QUITAÇÃO. TRIBUTOS. DESNECESSIDADE. SENTENÇA MANTIDA.
+1. O Código de Processo Civil de 2015 dispõe que, no caso de Arrolamento Sumário, a partilha amigável será homologada de plano pelo Juiz e, transitada em julgado a Sentença, serão expedidos os Alvarás referentes aos bens e rendas por ele abrangidos. Somente após, será o fisco intimado para lançamento administrativo do imposto de transmissão e de outros tributos, porventura incidentes.
+2. Consoante entendimento jurisprudencial e doutrinário, não é necessária a prévia comprovação da quitação do ITCD - Imposto Sobre Transmissão Causa Mortis e Doação e demais tributos eventualmente devidos pelo Espólio para que haja a homologação da partilha e a expedição do formal.
+3. Não se trata de tratamento mais gravoso conferido à Fazenda Pública, pois, para a averbação do registro da Partilha no Cartório Imobiliário Competente, é necessário o prévio recolhimento do imposto, consoante determina o artigo 143 da Lei de Registros Públicos.
+4. Não procede a alegação de violação aos preceitos insertos na Constituição Federal em seu artigo 146, III, "b", porquanto o Código de Processo Civil tão somente disciplinou o procedimento, sem afastar a incidência da legislação tributária em relação ao lançamento e à cobrança do Imposto Sobre Transmissão Causa Mortis e Doação.
+5. Apelação conhecida e desprovida. Sentença mantida.
+É o relatório.
+A questão jurídica referente à necessidade da prévia comprovação da quitação do ITCD - Imposto Sobre Transmissão Causa Mortis e Doação e demais tributos eventualmente devidos pelo Espólio para que haja a homologação da partilha e a expedição do formalfoi submetida ao regime dosprecedentes qualificados vinculantes pelo Superior Tribunal de Justiçanos seguintes termos:
+Tema 1074/STJ:Necessidade de se comprovar, no arrolamento sumário, o pagamento do Imposto de Transmissão Causa Mortis e Doação - ITCMD como condição para a homologação da partilha ou expedição da carta de adjudicação, à luz dos arts. 192 do CTN e 659, § 2º, do CPC/2015.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Diante do exposto, retrato-me da decisão de fls. 322/326, determinandoa devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/15, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
