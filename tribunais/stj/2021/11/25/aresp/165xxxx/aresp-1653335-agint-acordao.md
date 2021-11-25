@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por ROSANGELA TEIXEIRA RIBEIRO,em face de decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. EXAME DE VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.JULGAMENTO "CITRA PETITA". NÃO OCORRÊNCIA.
+CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHEPROVIMENTO.
+Nas razões do agravo, a parte agravante alega inaplicabilidade da Súmula nº 7/STJ, repisando as alegações da peça inicial, sustentandoque não ocorreu excesso na execução, aduzindo, em síntese, negativa de prestação jurisdicional; julgamentocitra petita; ausência de apreciação do pedido de prova pericial, o que cerceou o direito de produzir prova.
+É o relatório.
+EMENTA
+AGRAVO INTENRO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. EXAME DE VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.JULGAMENTO "CITRA PETITA". NÃO OCORRÊNCIA.CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+AGRAVO DESPROVIDO.
+VOTO
+Eminentes colegas, a irresignação recursal não merece acolhida.
+Com efeito, percebe-se que as razões trazidas no agravo interno, de inaplicabilidade da Súmula nº 7/STJ, repisando as alegações da peça inicial, de que não ocorreu excesso na execução, aduzindo, em síntese, negativa de prestação jurisdicional; julgamento citra petita; ausência de apreciação do pedido de prova pericial, o que cerceou o direito de produzir prova, não são aptas a desconstituir a decisão recorrida, cujos fundamentos passo aqui a reiterar.
+Ora, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação assim consignando, em sede de embargos de declaração:
+A embargante se insurge em face do v. acórdão, sob o argumento de que há erros materiais, omissão, contradição e obscuridade, de modo a requerer a reforma do mérito da questão.
+A questão posta à apreciação do Egrégio Colegiado foi devidamente analisada no v. acórdão vergastado, sendo certo que, neste ponto, a argumentação recursal não passa de mera irresignação com o conteúdo decisório.
+Não obstante, para dissipar maiores questionamentos, pertinente a transcrição parcial do decisum, in verbis:
+"A r. decisão impugnada determinou a baixa e arquivamento dos autos, ensejando o fim da fase de execução, razão pela qual desafia recurso de apelação.
+Trata-se de impugnação ao cumprimento de sentença em que a decisão recorrida entendeu pela existência de excesso da execução, uma vez que, de forma indevida, foi determinado o complemento do valor depositado, para fins de adequação ao parâmetro do salário mínimo de 2007.
+Em sede de preliminar de apelação, a recorrente suscita nulidade do r. decisum, todavia o julgado está devidamente fundamentado, sendo certo que a decisão proferida em sede de embargos de declaração apenas se releva como integrativa da r. sentença, não existindo qualquer dos vícios capazes de ensejar a nulidade pretendida.
+Ademais, não há que se falar em violação do Princípio do Devido Processo Legal, uma vez que conforme já preconizava o artigo 130 do Código de Processo Civil de 1973, que corresponde ao artigo 370 do Codex vigente, diante do Princípio da Persuasão Racional, nacondição de destinatário da prova, pode o julgador indeferir a produção de provas que julgue desnecessárias ou meramente protelatórias.
+Portanto, rejeito as preliminares suscitadas em sede de apelação.
+Em análise dos autos, se verifica que a r. sentença proferida na fase cognitiva (índex 135) condenou a executada ao pagamento de 50 (cinquenta) salários mínimos vigentes à época do pagamento, sendo a condenação mantida em sede de segundo grau de jurisdição, conforme se observa no v. acórdão (índex 176).
+Em 15 de setembro de 2004, o d. contador judicial apurou o valor devido na quantia de R$ 24.618,78 (vinte e quatro mil, seiscentos e dezoito reais e setenta e oito centavos).
+Novos cálculos atualizados, na data de 07/11/2005, fixando o montante da condenação em R$ 34.656,47 (trinta e quatro mil, seiscentos e cinquenta e seis reais e quarenta e sete centavos), sendo este valor pago judicialmente pela executava, na data de 19 de junho de 2006.
+A exequente impugnou o valor depositado, mediante petição de índex 317, ao argumento de que o montante pago foi calculado com base no salário mínimo de 2005, todavia o pagamento se deu na vigência do salário mínimo de 2006 , razão pela qual deve ser apurada a diferença para que seja complementado o valor.
+Com efeito, no dia 28/11/2006 o d. contador apurou a diferença em R$ 14.305,97 (catorze mil, trezentos e cinco reais e noventa e sete centavos).
+A exequente, por meio da petição de índex 329, concordou com os cálculos judiciais e a decisão de índex 330 determinou que a executada complementasse o valor do depósito.
+A executada pagou no dia 20/03/2007 o valor de R$ 14.729,44 (catorze mil, setecentos e vinte e nove reais e quarenta e quatro centavos), conforme se observa em índex 339.
+Nada obstante a parte exequente impugnou novamente o valor depositado (índex 342), ao argumento de que o salário mínimo de 2007 sofreu reajuste, razão pela qual deveria ser elaborado novo cálculo para apurar a diferença, sendo que no índex 354 a própria exequente apresentou planilha de débito acusando a diferença no valor de R$ 4.737,90 (quatro mil, setecentos e trinta e sete reais e noventa centavos).
+Nessa toada, a empresa executada efetuou o depósito (index 363) e, sem prejuízo, ofereceu impugnação à execução no índex 387.
+Este introito dos fatos é necessário para que se delimite exatamente o cerne da controvérsia, qual seja, se o depósito de índex 339 foi no montante correto ou se foi a menor, ensejando complementação realizada no índex 387.
+Para tanto, a matéria se limita a verificar se no dia 20/03/2007, data do depósito de índex 339, já estava vigente o salário mínimo de 2007, o que teria o condão de ensejar a revisão do valor, ou se ainda vigorava o salário mínimo de 2006, estando satisfeita a execução.
+Conforme se verifica na tabela constante no índex 514 o salário mínimo do ano de 2007 apenas foi reajustado em 01 de abril de 2007 e, portanto, em data posterior ao depósito judicial.
+Destarte, o depósito de índex 339 satisfez por completo a execução, sendo imperioso o reconhecimento de excesso na execução."
+Em que pese a ausência de vícios capazes de alterar o mérito do julgado, cogente a correção de erro material, a fim de que os indexadores mencionados no v. acórdão correspondam aos documentos correlatos.
+Assim, corrige-se o erro material para que passe a constar na parte do relatório do r. decisum as seguintes redações:
+"Trata-se de cumprimento de sentença, em que a decisão de índex 513, proferida pelo r. Juízo da zP Vara Cível da Comarca de São João de Meriti que acolheu a impugnação da executada, nos seguintes termos" "Em apelação tempestiva (índex 529), a exequente suscita preliminares de nulidade do r. decisum, aos fundamentos de ausência de fundamentação dos aclaratórios, e violação ao devido processo legal consistente na inexistência de apreciação quanto ao pleito de prova pericial. No mérito, pugna pela reforma integral da r.decisão"
+Saliente-se, por oportuno, que a terceira indicação de erro material não merece acolhida, visto que é exatamente no indexador 339 que consta o comprovante de pagamento do valor de R$ 14.729,44 (catorze mil, setecentos e vinte e nove reais e quarenta e quatro centavos), tal como registrado no v. acórdão.(e-STJ fls. 608/611).
+A embargante se insurge em face do v. acórdão, sob o argumento de que há erro material quanto a data do depósito de índex 339.
+De fato, embora a guia em questão seja do dia 20/03/2007, o pagamento foi efetuado no dia 30/03/2007.
+Assim, o v. acórdão de índex 572 deve ser retificado, para que o parágrafo que trata da matéria (fl. 577) passe a constar com a seguinte redação:
+"Para tanto, a matéria se limita a verificar se no dia 30/03/2007, data do depósito de índex 339, já estava vigente o salário mínimo de 2007, o que teria o condão de ensejar a revisão do valor, ou se ainda vigorava o salário mínimo de 2006, estando satisfeita a execução."
+Nada obstante, em que pese a correção da data do depósito, observa-se que foi em data anterior à vigência do salário mínimo do ano de 2007, razão pela qual o mérito da questão permanece inalterado.(e-STJ fl. 623).
+Destarte, não justifica a alegação de violação aoartigo1022 do CPC, uma vez que ocorreu pronunciamento efetivo e claro sobre as questões postas. Ademais, o juiz não está obrigado a responder um a um os argumentos levantados pelas partes.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno não provido. (AgInt no AREsp 1157866/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/03/2018, DJe 15/03/2018)
+Na verdade, a parte recorrente pretendeu rediscutir em sede de aclaratórios matérias já apreciadas pelo Tribunal a quo, providência vedada nesta espécie recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. CERCEAMENTO DE DEFESA. AUSÊNCIA DO PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ.VALORAÇÃO DA PROVA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC. Além disso, os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito. (grifou-se)
+2. Em relação ao cerceamento de defesa, a irresignação não merece prosperar, uma vez que a Corte local não emitiu juízo de valor sobre a matéria alegada. É necessária a efetiva discussão do tema pelo Tribunal a quo, ainda que em Embargos de Declaração. Incidência da Súmula 211/STJ.
+3. Ademais, é evidente que, para modificar o entendimento firmado no acórdão impugnado, reconhecendo-se o cerceamento do direito de defesa da parte recorrente, ou a insuficiência das provas, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial. Súmula 7/STJ.
+4. Agravo Regimental não provido.(AgRg no AREsp 216.688/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/03/2014, DJe 19/03/2014).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, ainda que em sentido contrário à pretensão da parte recorrente. (grifou-se)
+2. A reapreciação do suporte fático-probatório dos autos é vedada nesta Corte, pelo óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo regimental não provido." (AgRg no AREsp 373.162/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/10/2014, DJe 14/10/2014).
+Acerca da alegação dejulgamentocitra petita,conforme a jurisprudência do Superior Tribunal de Justiça,não há falar em julgamentocitra petitaquando o órgão julgador não afronta os limites objetivos da pretensão inicial, tampouco deixa de apreciar providência jurisdicional pleiteada pelo autor da ação, respeitando o princípio da congruência.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA.RECONSIDERAÇÃO. IMPUGNAÇÃO AO PEDIDO DE ASSISTÊNCIA JUDICIÁRIA.VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. INDEFERIMENTO DE DETERMINADA PROVA. CERCEAMENTO DE DEFESA AFASTADO. JUIZ COMO DESTINATÁRIO FINAL DAS PROVAS. PRECEDENTES. JULGAMENTO CITRA PETITA.NÃO OCORRÊNCIA. MATÉRIA PENDENTE DE ANÁLISE NOS AUTOS PRINCIPAIS.AGRAVO REGIMENTAL PROVIDO PARA DESPROVER O RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o recurso especial não é deserto. Novo exame do feito.
+2. Não há violação do 535 do CPC/73 quando o eg. Tribunal local analisa os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+3. Este Sodalício orienta-se no sentido de que o juiz é destinatário final das provas, a quem incumbe indeferir as provas meramente protelatórias e desnecessárias para o deslinde da controvérsia, de modo que o mero julgamento antecipado da controvérsia, por si só, não gera cerceamento de defesa.
+4. Hipótese em que as provas requeridas para afastar a hipossuficiência da parte foram negadas pelo juiz a quo por entender que o acervo probatório existente seria suficiente para analisar a matéria.
+5. "Não há que falar em julgamento citra petita quando o órgão julgador não afronta os limites objetivos da pretensão inicial, tampouco deixa de apreciar providência jurisdicional pleiteada pelo autor da ação, respeitando o princípio da congruência" (AgInt no AREsp 1538345/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 21/09/2020, DJe de 24/09/2020).
+6. Agravo regimental provido para reconsiderar a decisão agravada e, em novo exame, negar provimento ao recurso especial.(AgRg no REsp 1533595/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/12/2020, DJe 01/02/2021)
+Quantoao cerceamento de defesa,no processo civil brasileiro, vigora o preceito do livre convencimento motivado ou persuasão racional do magistrado, de forma que,"ao julgador cabe apreciar a questão de acordo com o que ele entender atinente à lide. Não está o magistrado obrigado a julgar a questão posta a seu exame de acordo com o pleiteado pelas partes, mas sim com o seu livre convencimento (art. 131 do CPC), utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso"(STF, AI 847887 AgR, Relator Min. LUIZ FUX, Primeira Turma, julgado em 13/12/2011, DJe 15/02/2012).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REPRESENTAÇÃO EM ASSEMBLEIA CONDOMINIAL. REGULARIDADE NOS TERMOS DO ART. 654, § 1º, DO CÓDIGO CIVIL/2002. SÚMULA 7/STJ. APROVAÇÃO DE REALIZAÇÃO DE OBRAS ÚTEIS. INEXISTÊNCIA DE INCOMPATIBILIDADE ENTRE AS OBRAS APONTADAS NO EDITAL DE CONVOCAÇÃO E AS OBRAS DISCUTIDAS E APROVADAS EM ASSEMBLEIA. PROVA ORAL INDEFERIDA. DESNECESSIDADE. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de que a preferência do magistrado por esta ou por aquela prova está inserida no âmbito do seu livre convencimento motivado. Isso, porque vigora no direito processual pátrio o sistema de persuasão racional adotado no Código de Processo Civil, cabendo ao magistrado autorizar a produção desta ou daquela prova, se por outros meios não estiver convencido da verdade dos fatos, tendo em vista que é ao juiz que cabe a análise da conveniência e necessidade da sua produção.
+2. As provas documentais acostadas aos autos são suficientes para proporcionar ao julgador os elementos necessários à análise da compatibilidade entre as obras apontadas no edital de convocação e as obras discutidas e aprovadas em assembleia, bem como quanto à verificação da natureza das obras aprovadas.
+(..)
+4. Agravo regimental não provido. (AgRg no AREsp 385.646/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/04/2015, DJe 14/05/2015, grifei).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO INDEFERIMENTO DE PRODUÇÃO DE PROVA TESTEMUNHAL. CERCEAMENTO DE DEFESA. ALEGAÇÃO AFASTADA. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE DE QUESTÕES FÁTICAS. IMPOSSIBILIDADE. PRETENSÃO INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL.
+REITERAÇÃO DOS FUNDAMENTOS JÁ ANALISADOS. MANUTENÇÃO INTEGRAL DA DECISÃO AGRAVADA.
+(..)
+3. No caso, concluiu o Tribunal de origem que o farto arcabouço probatório é suficiente para a análise dos fatos apresentados para julgamento, mostrando-se desnecessária a produção de outras provas, máxime a oitiva de outras testemunhas, afigurando-se contraproducente e até mesmo violação à garantia da razoável duração do processo, a cassação da sentença, para produção de provas que não acarretarão a alteração do que já restou provado.
+4. Nesse contexto, não se confirma o alegado cerceamento de defesa, sendo certo que a revisão dos fundamentos que levaram a tal entendimento demandariam nova apreciação do conjunto probatório, o que é vedado em recurso especial, a teor da Súmula nº 7 do STJ.
+5. Agravo regimental não provido. (EDcl no REsp 1537718/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 09/06/2015, DJe 16/06/2015, grifei).
+Deste modo, para aferir as alegações darecorrente e afastar as premissas firmadas pelo Tribunal de origem, baseadas nos princípios da livre apreciação das provas e do livre convencimento motivado, seria necessário o revolvimento do conteúdo fático-probatório dos autos, procedimento vedado na via especial, nos termos da Súmula nº. 7 desta Corte Superior.
+Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. RECURSO QUE NÃO APRESENTA ARGUMENTOS CAPAZES DE AFASTAR OS FUNDAMENTOS DA DECISÃO AGRAVADA. PRINCÍPIO DA LIVRE VALORAÇÃO DA PROVA E DO LIVRE CONVENCIMENTO MOTIVADO. AGRAVO DESPROVIDO.
+1. A parte agravante não apresentou argumentos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa de provimento ao agravo regimental.
+2. Para afastar as conclusões do Tribunal de origem, baseadas nos princípios da livre apreciação das provas e do livre convencimento motivado, seria necessário o reexame de provas, o que é defeso na instância especial, conforme dispõe o enunciado n. 7 da Súmula desta Corte 3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 678.652/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/06/2015, DJe 29/06/2015, grifei).
+AGRAVO REGIMENTAL. AGRAVO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+(..)
+2.- No que diz respeito aos artigos 333, I, e 359, I, do Código de Processo Civil, os argumentos utilizados para fundamentar a pretensa violação legal somente poderiam ter sua procedência verificada mediante o reexame das provas, não cabendo a esta Corte, a fim de alcançar conclusão diversa da estampada no Acórdão recorrido, reavaliar o conjunto probatório. Dessa forma, a convicção a que chegou o Acórdão decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz da Súmula 7 do STJ.
+3.- O agravo não trouxe nenhum argumento novo capaz de modificar o decidido, que se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido.
+(AgRg no AgRg no AREsp 518.041/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 19/08/2014, DJe 04/09/2014, grifei).
+Destarte, a pretensão recursal não merece prosperar.
+Ante o exposto, nego provimento ao agravo.
+É o voto.
