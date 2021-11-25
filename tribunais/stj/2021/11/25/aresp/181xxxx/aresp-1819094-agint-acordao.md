@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por JEQUIA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra decisão e-STJ, fls. 620/622), proferida pela Presidência desta Corte Superior, a qual não conheceu do agravo em recurso especial, uma vez que a parte agravante não impugnou especificamente todos os fundamentos da decisão agravada, no caso, o óbice da Súmula 83 do STJ.
+Nas razões deste agravo interno, o agravante sustenta que houve a demonstração de contrariedade dos arts. 104, 186 e 927, todos do Código Civil, no que se refere à necessidade de observância do princípio do pacta sunt servanda.
+Requer, ao final, a reforma da decisão agravada e o provimento de seu recurso especial.
+Intimados, os agravadoo apresentaram impugnação e-STJ, fls. 667/672), oportunidade na qual pleiteou a aplicação da multa por agravo manifestamente inadmissível.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. DESCUMPRIMENTO DE PRAZO DE ENTREGA. INADIMPLEMENTO CONFIGURADO. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182 DO STJ. APLICAÇÃO POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Para melhor compreensão da controvérsia, transcrevo os fundamentos da decisão ora agravada (fls. 620/622):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A parte ora agravante não tem razão, pois não efetuou a impugnação dos fundamentos da decisão que não admitiu o recurso especial no Tribunal de origem.
+Verifico que o recurso especial não foi admitido em virtude de: (i) em relação à devolução dos valores devidos ao promitente comprador, em razão da rescisão do contrato de promessa de compra e venda de imóvel, incidia a tese firmada no julgamento do recurso representativo da controvérsia, REsp nº 1.300.418/SC, tema nº 577, e, portanto a incidência do art. 1.030, I, do CPC/2015; e (ii) a Súmula 83 do STJ quanto ao tema do termo inicial dos juros de mora (e-STJ, fls. 562/565).
+Com efeito, nas razões do seu agravo em recurso especial, o agravante apenas afirmou a inaplicabilidade da Súmula 83 do STJ quanto ao tema da devolução do valor pago no contrato de compra e venda, deixando, portanto, de impugnar os fundamentos da decisão agravada.
+Imprescindível, para ser alcançada a reforma ora pretendida, a impugnação específica dos motivos determinantes da decisão questionada, expondo-se de forma articulada e argumentativa as razões que justificariam a prolação de decisão em sentido diverso, o que não foi efetuado.
+A propósito, a Corte Especial do STJ, em julgamento recente, manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo, por aplicação da Súmula 182 do STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19.9.2018 DJe 30.11.2018).
+Nesse precedente, o Colegiado, por maioria, negou provimento aos embargos de divergência e manteve a decisão da Segunda Turma do STJ, que não conheceu do agravo, por aplicação da Súmula 182 do STJ, já que o agravante não atacou todos os pontos da decisão que não admitiu o recurso especial.
+Conforme o voto vencedor, tanto no CPC de 1973 quanto no de 2015 há regra que remete às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade da impugnação de todos os fundamentos da decisão que não admite recurso especial.
+Para o Ministro relator, não há possibilidade de impugnação parcial da decisão que deixa de admitir recurso especial, já que tal decisão é incindível e deve ser impugnada em sua integralidade. A não obediência a essa regra implicaria o exame indevido de questões (já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em se manifestar no momento oportuno), pois o conhecimento do agravo obriga o STJ a conhecer de todos os fundamentos do recurso especial.
+Nesse sentido, confiram-se os seguintes precedentes:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RESTABELECIMENTO DO CONTRATO E DANOS MORAIS. ÓBICE DA SÚMULA 284/STF E DA SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão recorrida conheceu do agravo para não conhecer do recurso especial, ante a deficiência na demonstração do dissídio jurisprudencial em razão da não indicação dos dispositivos da lei federal acerca dos quais teria havido a suposta divergência.
+Precedentes.
+2. É inviável o exame da divergência jurisprudencial apontado em face da ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial, atraindo, como atrai, a incidência do Enunciado n. 284 da Súmula do Supremo Tribunal Federal, aplicada por analogia.
+3. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie o disposto nos arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.
+4. Agravo interno não provido.
+(AgInt no AREsp 1799892/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/05/2021, DJe 27/05/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. INTERVENÇÃO DE TERCEIROS. ORDEM DOS ADVOGADOS DO BRASIL. ASSISTÊNCIA SIMPLES. REQUISITO. INTERESSE JURÍDICO. REPERCUSSÃO DO FATO SOBRE EVENTUAL DIREITO DO ASSISTENTE. AUSÊNCIA, NA ESPÉCIE. INTERESSE INDIVIDUAL E NÃO INSTITUCIONAL. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo interno interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art.
+932, III, do NCPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas nºs 83 e 211, ambas do STJ, e falta de demonstração do dissídio).
+3. A parte agravante deve impugnar, nas razões de seu agravo em recurso especial, todos os fundamentos da decisão que inadmitiu o seu apelo nobre, não cabendo, de modo extemporâneo, infirmar aqueles argumentos tão somente no manejo do agravo interno, em virtude da ocorrência da preclusão consumativa.
+4. Esta Corte firmou entendimento de que eventual sentença de procedência do pedido indenizatório que repercute apenas na esfera individual direta do associado não é suficiente para deferir o pedido da OAB como assistente.
+5. Agravo interno não provido.
+(AgInt no AREsp 1740065/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/05/2021, DJe 20/05/2021)
+Por fim, em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória ou como litigância de má-fé, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/12/2017, DJe 18/12/2017).
+Assim, deve ser mantida a decisão agravada que não conheceu do agravo em recurso especial em virtude da falta de impugnação a todos os fundamentos da decisão recorrida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
