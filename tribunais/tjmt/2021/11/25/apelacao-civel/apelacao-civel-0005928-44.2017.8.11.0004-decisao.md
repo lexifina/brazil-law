@@ -1,0 +1,18 @@
+RECURSO APELAÇÃO CÍVEL N.o 0005928-44.2017.8.11.0004
+Vistos etc.
+Trata-se de Recurso de Apelação interposto por Valdivino Lino de Souza, representando por sua curadora Maria Luiza Pereira Mendonça, em razão da sentença proferida pela Juíza da 2.a Vara Cível da Comarca de Barra do Garças-MT, nos autos dos Embargos de Terceiro oposto por Josenilda Vieira da Cruz, em virtude da Ação Reivindicatória c/c Indenização por Danos Morais n.o 0012814-64.2014.8.11.0004, ajuizada pelo Apelante em face de José Augusto da Purificação, ex-marido da Apelada/Embargante.
+A Julgadora a quo acolheu o pedido inicial e reconheceu a posse da Apelada sobre o imóvel localizado na Avenida Presidente Vargas, Quadra 198, Lote 15, Bairro Jardim Nova Barra, na Cidade de Barra do Garças, objeto da matrícula no 22.628, do CRI daquela Comarca. De conseguinte, condenou o Apelante a arcar com as custas processuais e honorários advocatícios fixados em 10% (dez por cento) do valor atualizado da causa, com observância da regra do artigo 98, § 3.o, porque lhe foi concedido os benefícios da justiça gratuita.
+Ao que se extrai dos autos, em 2014, o Apelante Valdivino Lino de Souza ajuizou Ação Reivindicatória em desfavor de José Aparecido da Purificação, argumentando que é proprietário do imóvel objeto desta lide.
+Aquela Ação foi sentenciada em 24/02/2017, com o acolhimento do pedido por ele formulado, de modo que lhe foi garantida a proteção possessória, com a ordem de intimação do Sr. Jose Aparecido da Purificação para desocupação do imóvel.
+Após, a Apelada/Embargante opôs estes Embargos de Terceiro, ao argumento de que ela exerce posse sobre o imóvel.
+Diante do deferimento do pedido de antecipação de tutela recursal formulado pela Apelada/Embargante no Recurso de Agravo de Instrumento n.o 1006425-53.2017.8.11.0000, o Julgador singular suspendeu o cumprimento do mandado de reintegração de posse expedido nos autos da Ação Reivindicatória, até o julgamento final daquele Recurso.
+O Recurso de Agravo de Instrumento foi provido pela Câmara em 05/09/2018, tornando definitiva a posse da Apelada/Embargante até o julgamento do mérito dos Embargos de Terceiro, que foi sentenciado em 09/02/2021, com a procedência do pedido inicial.
+No Recurso de Apelação, dentre outras teses, o Apelante alega que, nos autos da Ação Reivindicatória, lhe foi concedida a posse do imóvel, haja vista que é o real proprietário do bem.
+Ao consultar os autos da Ação Reivindicatória c/c Indenização por Danos Morais n.o 0012814-64.2014.8.11.0004, constatei que, embora a Julgadora singular tenha determinado a suspensão daquele feito até o julgamento destes Embargos para que, depois, os autos fossem encaminhados para este Tribunal de Justiça para apreciação do recurso interposto naquela Ação, somente este processo foi digitalizado e enviado ao Segundo Grau de Jurisdição.
+Assim, considerando que há dependência entre as Ações, uma vez que a eventual manutenção ou reforma da sentença aqui proferida, ensejará a necessária improcedência ou procedência da Ação Reivindicatória; para restabelecer a ordem processual e evitar decisões conflitantes, suspendo o exame e julgamento deste Recurso de Apelação e determino que o caderno processual da demanda conexa seja digitalizado e remetido para esta Corte Estadual para análise do Recurso de Apelação lá interposto, pois devem ser resolvidos conjuntamente.
+Ressalvo que os processos deverão ser associados e deverão vir conclusos em conjunto.
+Por fim, determino o envio de cópia desta decisão ao Juízo da 2.a Vara Cível da Comarca de Barra do Garças-MT para que tome ciência e seja inserida no PJe, nos autos da Ação n.o 0012814-64.2014.8.11.0004.
+Cumpra-se.
+Cuiabá-MT, 25 de novembro de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
