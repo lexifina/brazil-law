@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de ROGERIO DE AZEVEDO PERES contra acórdão proferido pelo Tribunal de Justiça o Estado da Paraíba.
+Depreende-se dos autos que o paciente foi condenado como incurso nas sanções do art. 102, da Lei nº 10.741/03, c/c art. 71, do CP (apropriação indevida praticada contra idoso em continuidade delitiva), e no art. 304, do CP (uso de documento falso), à pena de 06 anos e 08 meses de reclusão, em regime fechado, além de200 dias-multa.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que deu parcial provimento ao apelo, para reduzir a pena privativa de liberdade referente ao crime de uso de documento falso para 02 anos de reclusão, e reconhecer a prescrição da pretensão punitiva quanto ao mencionado delito.
+No presente writ, o impetrante sustenta a nulidade do feito, diante da alegada "existência de prevenção do Desembargador que julgou habeas corpus anteriormente impetrado, nos termos do art. 151 doRegimento Interno do TJ-PB."
+Requer, ao final, a concessão da ordem, para reconhecer a nulidade do acórdão que teve como Relator o em. Desembargador Ricardo Vital de Almeida. (fls. 3-7).
+As informações foram prestadas às fls. 52-54.
+O Ministério Público Federal, às fls. 198-201, manifestou-se nos termos da seguinte ementa:
+"HABEAS CORPUS. APROPRIAÇÃO INDEVIDA DE BENS (ART.102 DO ESTATUTO DO IDOSO). CONDENAÇÃO. ARGUIÇÃO DE NULIDADE. JULGAMENTO DA APELAÇÃO POR DESEMBARGADOR INCOMPETENTE. EXISTÊNCIA DE PREVENÇÃO. IMPETRAÇÃO DE HABEAS CORPUS ANTERIOR NÃO CONHECIDO. CIRCUNSTÂNCIA QUE AFASTA APREVENÇÃO. ART. 151, §8º, DO RITJPB. APLICAÇÃO IMEDIATA DE NORMA PROCESSUAL. NÃO OCORRÊNCIA DECONSTRANGIMENTO ILEGAL. Parecer pela denegação da ordem."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Destarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante sustenta a nulidade do feito, diante da alegada "existência de prevenção do Desembargador que julgou habeas corpus anteriormente impetrado, nos termos do art. 151 do Regimento Interno do TJ-PB."
+Acerca do punctum saliens, nos termos da Súmula 706 do Supremo Tribunal Federal, é relativa a nulidade decorrente da inobservância da competência penal por prevenção (AgRg no AREsp n. 1.586.867/RR, Sexta Turma, Ministro Nefi Cordeiro, DJe de 23/6/2020).
+Na hipótese, diversamente do que foi alegado pelo impetrante, o que avulta do contexto fático delineado pela col. Corte a quo, nos limites cognitivos de um habeas corpus, é a correta a distribuição automática da apelação interposta pela defesa perante o TJ-PB, in verbis: "o HC 0044967-30.2009.815.0000, conforme acórdão colacionado aos autos, restou prejudicado, sem que o Des. Joás de Brito Pereira Filho tivesse apresentando manifestação sobre questão meritória. Cabe registrar que o d. Desembargador não apreciou sequer o pedido liminar elaborado naquele HC. Diante desse cenário, ao contrário do alegado na impetração, o Des. Joás de Brito Pereira Filho não se tornou prevento para as ações e recursos referentes à ação nº 0007162-17.2010.815.2002, conforme previsão contida no art. 151, § 8º, do Regimento Interno deste Tribunal."
+Destarte, considerando que a defesa não demonstrou a existência de violação às normas constitucionais e legais, a ensejar a nulidade do feito, inexiste constrangimento ilegal a ser sanado pela via do writ.
+Ante o exposto, não conheço do writ.
+P. e I.
