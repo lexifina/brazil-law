@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DOMINGOS SAVIO BRITO TAVARES à decisão de fls. 396/397, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Conforme se depreende da r. decisão, notadamente na parte dispositiva, ao julgar a causa, entendeu Vossa Excelência mediante a análise do recurso entendeu que a parte recorrente foi intimado da decisão agravada em 24/05/2021, sendo o agravo somente interposto em 10/08/2021
+Porém, ocorre na r. decisão de V. Excelência manifesta o equívoco quanto a data da intimação da decisão agravada. Veja que a decisão foi prolatada no dia 24/07/2021 e não em 24/05/2021, como relatado está na decisão, teve sua publicação no Diário da justiça do Estado do Pará no dia 27/07/2021. Portanto a interposição do Recurso do agravante interposto no dia 10/08/2021 e tempestivo (fl. 399).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado na decisão ora embargada, a parte DOMINGOS SAVIO BRITO TAVARES foi intimada da decisão de admissibilidade do recurso especial (fls. 361/362) em 24/5/2021 (fl. 4), sendo o agravo somente interposto em 10/8/2021 (fls. 376/381), fora do prazo.
+O agravo interno não é o recurso cabível contra a decisão do Tribunal de origem em juízo de admissibilidade de recursos especiais não submetidos ao rito dos repetitivos. Assim, sua interposição equivocada não interrompe nem suspende o prazo para a apresentação do recurso cabível, que, no caso, é o agravo previsto no art. 1.042 do CPC. Nesse sentido, o AgInt no AREsp 1549441/MS, relator Ministro Gurgel De Faria, Primeira Turma, DJe de 12/3/2020; e AgInt no AREsp 1508918/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/2/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
