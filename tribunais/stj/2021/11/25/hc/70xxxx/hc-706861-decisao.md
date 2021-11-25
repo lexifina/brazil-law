@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 32):
+PENAL. "HABEAS CORPUS". TRÁFICO DE DROGAS. CONVERSÃO DE PRISÃO EM FLAGRANTE DELITO EM PRISÃO PREVENTIVA.
+Pretendida a revogação da prisão preventiva, com expedição de alvará de soltura. Subsidiariamente, aplicação de medidas cautelares alternativas.Descabimento.
+A) Presentes os requisitos legais, legítima a decretação da medida cautelar.Presença do "fumus comissi delicti" (fumaça possibilidade da ocorrência de delito) e do "periculum libertatis" (perigo que decorre da liberdade do acusado). Paciente, segundo a inicial acusatória, que estava sendo investigado por possível participação em associação criminosa para o crime de tráfico de entorpecentes, sendo que, em razão disso, expedido mandado de busca e apreensão para sua casa, foi efetivada apreensão de considerável quantidade de drogas, individualmente embaladas.Circunstâncias do caso concreto que indicam aparente dedicação ao vil comércio, destacando, assim, periculosidade presumida, com necessidade, então, de se garantir a ordem pública com o encarceramentoprovisório, não surgindo suficiente outra medida cautelar diversa. B) Decisão de conversão que se limita a verificar a viabilidade da manutenção da prisão, com observação da gravidade da conduta e periculosidade presumida dos agentes, de acordo com a necessidade da garantia da ordem pública, afastando, como possível, concessão de liberdade provisória.
+Ordem denegada.
+O paciente foi preso em flagrante pela prática, em tese, do crime do art. 33, caput, da Lei 11.343/2006, sendo o flagrante convertido em prisão preventiva.
+Sustenta o impetrante que não estão presentes os requisitos autorizadores da prisão preventiva e que o decreto prisional carece de fundamentação idônea.
+Argumenta que, em caso de eventual condenação, fará jus à minorante do tráfico privilegiado e à substituição da pena reclusiva por restritivas de direitos, o que evidenciaria a desnecessidade da prisão preventiva.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva, ainda que sendo fixadasmedidas cautelares menos gravosas.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Como cediço, a prisão preventiva (ou o não cabimento da substituição por outra medida cautelar), admitida excepcionalmente antes do trânsito em julgado de eventual sentença penal condenatória, deverá ser justificada em concreto e de forma individualizada, nos termos do art. 312 do Código de Processo Penal.
+O decreto de prisão foi assim fundamentado (fls. 21-23):
+No caso, considerando o quanto colhido até o momento, presente a materialidade dos fatos e os indícios de autoria, bem como a necessidade de decretação da prisão preventiva, mostrando-se insuficiente a aplicação das demais medidas cautelares.
+ ..
+Como se observa, os fatos imputados ao acusado são concretamente graves.
+Isso porque, além da quantia considerável de droga apreendida pela polícia civil e militar (62,83 gramas (massa líquida) de cocaína, 6,17 gramas (massa líquida) de Tetrahidrocannabinol (THC) e 16,73 gramas (massa líquida) de entorpecentes ainda não identificado - cf. Laudo Pericial de fls. 29/30), indicam que o entorpecente seria destinado ao tráfico.
+Além disso, existe indícios de envolvimento do acusado em associação criminosa, pois já vinha sendo investigado como suposto responsável pela venda de entorpecentes no município de Jales/SP, em especial cocaína.
+No caso dos autos, verifica-se que, apesar de o crime em comento não ter sido cometido com violência e grave ameaça à pessoa, ele traz como consequência o aumento de situações em que a violência ocorre.
+Assim, a gravidade do crime e as circunstâncias do fato indicam a necessidade de conversão da prisão em flagrante em preventiva, como forma de se salvaguardar a ordem pública.
+Dos excertos, observa-se que a prisão preventiva do paciente foi decretada para preservar a ordem pública, em razão da quantidade de droga apreendidae pela existência de indícios deenvolvimento do acusado em associação criminosa, "pois já vinha sendo investigado como suposto responsável pela venda de entorpecentes no município de Jales/SP, em especial cocaína".
+Contudo, verifica-se que não obstante a gravidadeda conduta,aquantidadede drogas apreendidas não se mostra expressiva (62,83 gramas (massa líquida) de cocaína, 6,17 gramas (massa líquida) de Tetrahidrocannabinol (THC) e 16,73 gramas (massa líquida) de entorpecentes ainda não identificado).
+Em casosanálogos, "a Sexta Turma desta Corte tem entendido que o tráficoflagrado de não relevante quantidade de drogas somente com especialjustificação permitirá a prisão por risco social "(HC567.850/GO,Rel.Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em23/06/2020,DJe30/06/2020).
+Assim, para evitar a reiteração delitiva, suficiente é a imposição dasseguintes medidas cautelares penais diversas da prisão processual: (a)apresentação a cada 2 meses, para verificar a manutenção da inexistênciade riscos ao processo e à sociedade; (b) proibição de mudança de domicíliosem prévia autorização judicial, vinculando o acusado ao processo; e (c)proibição de ter contato pessoal com pessoas envolvidas com o tráfico ecom outras atividades criminosas, como garantia à instrução e à proteçãocontra à reiteração criminosa.
+Ante o exposto, concedo liminarmente o habeas corpuspara determinar asubstituição da prisão do paciente pelas medidas cautelaresmenos gravosasacima relacionadas.
+Comunique-se.
+Publique-se.
+Intimem-se.
