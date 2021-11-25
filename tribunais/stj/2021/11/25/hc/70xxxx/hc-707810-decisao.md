@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de FELIPE BALBINO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2261815-48.2021.8.26.0000).
+Depreende-se dos autos que a defesa impetrou prévio writno Tribunal de origem contra decisão de primeira instância que indeferiu o pedido de reformulação do cálculo da execução penal, a fim de quea contagem do lapso para progressão de regime fosse o equivalente a 40% da pena.
+O Tribunal de origem não conheceu do habeas corpusoriginário nos termos do acórdão assim ementado (e-STJ fl. 16):
+HABEAS CORPUS. Execução penal. Indeferimento de retificação de cálculo de pena. Matéria adstrita à competência do Juízo da Execução. O habeas corpus é meio impróprio para a obtenção de benefício relativo à execução da pena, cuja lei (Lei nº.7.210/84), explicitando que das decisões proferidas pelo Juiz caberá recurso de agravo, sem efeito suspensivo (art. 197), expressamente prevê o agravo em execução como o meio impugnativo próprio na espécie. Diversamente, além de descaracterizar a própria natureza do writ (destinado especificamente a conter ato de translúcida ilegalidade ou de manifesto abuso de poder contra a liberdade de locomoção: art. 5º, LXVIII, da CR), estar-se-ia desprezando o âmago do sistema recursal, que contempla exatamente formas específicas de se buscar a reforma de decisões judiciais. HABEAS CORPUS LIMINARMENTE NÃO CONHECIDO.
+Daí o presente writ, em que oimpetrante defende que o lapso aplicável ao caso do sentenciado é o correspondente a 40% (quarenta por cento) da pena para progressão de regime, alegando que, de acordo com a nova redação do art. 112, inciso VII, da Lei de Execução Penal, dada pelo novo diploma legal, a exigência de lapso correspondente a 60% (sessenta por cento) da pena para progressão de regime somente se aplica ao reincidente na prática de crime hediondo ou equiparado, ou seja, reincidente específico, mas que, no caso dos autos, embora o paciente seja reincidente, não se trata de reincidência específica em crime hediondo.
+Ao final, requer a concessão da ordem para determinar que o Juízo de primeiro grau "venha a aplicar a lei penal mais benéfica, retificando-se o cálculo de penas para constar o prazo de 40% (quarenta por cento) para fins de progressão de regime prisional, nos termos da nova redação do artigo 112, inciso V, da Lei de Execução Penal" (e-STJ fl. 14).
+É o relatório.
+Decido.
+O habeas corpus não comporta conhecimento.
+Isso porque, não obstante as alegações defensivas, tem-se que a tese não foi debatida pelo Tribunal de origem, o que impede a análise da quaestio por esta Corte, sob pena de indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.(RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+Ademais, ao que tudo indica, não há flagrante ilegalidade, ainda que para fins de concessão da ordem de ofício, uma vez que consignou o Juízo de primeira instância que o paciente, de fato, seria reincidente específico na prática de delito equiparado a hediondo, o que pode ser verificado no cálculo de pena acostado às e-STJ fls. 239/241 dos autos.
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se. Intimem-se.
