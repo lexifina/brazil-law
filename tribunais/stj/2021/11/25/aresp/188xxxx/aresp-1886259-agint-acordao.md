@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se de agravo interno interposto por COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE, contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial que interpusera.
+Ação: consignatória em fase de cumprimento de sentença movida por CONDOMINIO DO EDIFICIO COMERCIAL MONTPARNASSE, contra a agravante.
+Decisão interlocutória: rejeitou a impugnação da agravante de excesso na execução.
+Acórdão: deu parcial provimento ao agravo de instrumento, nos termos da ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. CUMPRIMENTO DE SENTENÇA QUE TEVE INÍCIO NA VIGÊNCIA DO CPC DE 1973. INCONFORMISMO DA AGRAVANTE QUANTO À APLICAÇÃO DA MULTA PREVISTA NO ARTIGO 475, "J", DO CPC DE 1973, DO TERMO INICIAL DE INCIDÊNCIA DE JUROS E CORREÇÃO MONETÁRIA SOBRE OS HONORÁRIOS ADVOCATÍCIOS E ACERCA DA APLICAÇÃO DE JUROS DE MORA SOBRE AS DESPESAS PROCESSUAIS. INICIALMENTE, IMPORTA CONSIGNAR QUE A MERA INDICAÇÃO DA CONTA DENOMINADA "FUNDO CEDAE", PARA A EFETIVAÇÃO DA CONSTRIÇÃO NÃO SE MOSTRA CAPAZ DE ELIDIR A INCIDÊNCIA DA MULTA CONSTANTE DO ALUDIDO DISPOSITIVO, EIS QUE NÃO EQUIVALE AO PAGAMENTO DO DÉBITO, POIS NÃO HÁ COMO AFERIR-SE A EXISTÊNCIA DE SALDO QUE COMPORTE O VALOR EXEQUENDO. NO QUE AO TANGE AOS JUROS MORATÓRIOS NA COBRANÇA DE HONORÁRIOS DE SUCUMBÊNCIA, NOS TERMOS DA JURISPRUDÊNCIA DO C. STJ, O TERMO INICIAL DEVE SER A DATA EM QUE O EXECUTADO É INTIMADO PARA PAGAMENTO, JÁ A CORREÇÃO MONETÁRIA TEM INCIDÊNCIA A PARTIR DA DATA DO ARBITRAMENTO, NOS TERMOS DA SÚMULA 362 DO STJ. JUROS DE MORA SOBRE AS CUSTAS JUDICIAIS. NÃO INCIDÊNCIA. MERA REPOSIÇÃO DE QUANTIA ADIANTADA PELA PARTE AUTORA, INCIDINDO SOMENTE CORREÇÃO MONETÁRIA, NA FORMA DO ART. 1º DA LEI 6.899/81. RETORNO DOS AUTOS AO CONTADOR, PARA QUE REFAÇA OS CÁLCULOS COM OS TERMOS INICIAIS DE INCIDÊNCIA AQUI APONTADOS, AFASTANDO-SE OS JUROS DE MORA SOBRE AS CUSTAS JUDICIAIS. PARCIAL PROVIMENTO DO RECURSO. (e-STJ fl. 61/62)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 523, §1º e 805 do CPC/15. Sustenta que a indicação da conta Fundo CEDAE caracteriza cumprimento espontâneo do julgado. Aduz que a referida conta foi criada através de convênio com o TJ/RJ para facilitar o cumprimento das determinações judiciais sem prejudicar o funcionamento da empresa. Deste modo, defende que indicando tempestivamente o fundo, não há que se falar em aplicação de multa e honorários do art. 523, § 1º, do CPC/15 sob pena de violação do princípio da menor onerosidade da execução.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial que interpusera, com fundamento no art. 932, III e IV, "a", do CPC/15.
+Agravo interno: sustenta, em síntese, a aplicação do art. 1.025 do CPC/15, de forma a prequestionar a matéria impugnada através dos embargos de declaração opostos na origem. Além da devida impugnação ao óbice da Súmula 283/STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CONSIGNATÓRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação consignatória em fase de cumprimento de sentença.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu do agravo para não conhecer do recurso especial que interpusera, com base nas seguintes razões: i) Súmula 211/STJ e ii) Súmula 283/STF.
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que a parte agravante não trouxe argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A falta de prequestionamento é condição suficiente para obstar o processamento do recurso especial e exigência indispensável para o seu cabimento. Insatisfeito, este não supera o âmbito de sua admissibilidade, atraindo a incidência das Súmulas 282 do STF ou 211 do STJ.
+Da reanálise minuciosa dos autos, realmente, observa-se que, de fato, a aplicação do óbice da Súmula 211 do STJ decorre da não deliberação pelo acórdão recorrido acerca dos arts. 523, §1º e 805 do CPC/15, apesar da oposição de embargos de declaração.
+Deve-se manter, portanto, a aplicabilidade da Súmula 211/STJ.
+Por outro lado, acerca do prequestionamento ficto previsto no art. 1.025 do CPC, tem-se que esse só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente venha a suscitar devidamente a violação do art. 1.022 do CPC, porquanto, somente dessa forma poderá o órgão julgador verificar a existência do vício e proceder à supressão de grau, o que não ocorreu na hipótese dos autos.
+Ademais, de fato não houve impugnação ao fundamento do acórdão no sentido de que "esta conta foi criada tão somente como forma de controle de penhoras on-line deferidas no juízo e responsabilização da parte pela transferência da quanta, sem transferência para o Poder Judiciário, tendo em vista que sequer é possível saber se havia saldo no referido fundo" (e-STJ fls. 63/64).
+De modo que o argumento da agravante no sentido de que o fundo foi criado em parceria com o TJ/RJ para facilitar o cumprimento de determinações judiciais sem prejudicar o funcionamento da empresa não é suficiente a afastar em sua totalidade a fundamentação do acórdão recorrido.
+Te todo modo, apenas a título de obiter dictum, tal controvérsia esbarraria no óbice da Súmula 7/STJ, uma vez que para acolher a tese de agravante acerca da origem, natureza, propósito e funcionamento do referido fundo, seria necessária a incursão em fatos não consignados no acórdão do TJ/RJ.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
