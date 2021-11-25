@@ -1,0 +1,17 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por FRANCISCO DE ASSIS FARIAS, contra a decisão proferida nos autos da Ação de Nomeação de Administrador Provisório Para Pessoa Jurídica c/c Pedido de Tutela de Urgência, de no 124945-13.2021, ajuizada em face de UNIÃO RONDONOPOLITANA DE MORADORES - URAMB, que, por se tratar de ação de jurisdição voluntária, declinou da competência para processar e julgar o feito e determinou a remessa dos Autos a uma das varas de família e sucessões da Comarca de Rondonópolis-MT.
+Para tanto, o agravante fala que o juízo a quo emitiu decisão sem qualquer fundamentação, haja vista ter indicado o artigo 57 do COJE/MT, sem explicar sua relação com a causa, ainda mais pelo motivo que o mencionado artigo já se encontra revogado.
+Alega que o Juízo da Segunda Vara Cível possui competência para processar e julgar a presente demanda, haja vista ter sido distribuída por dependência à ação anulatória de processo eleitoral, em razão dos mesmos fatos e direitos da ação principal, pois a nomeação de administrador provisório foi indeferida nos autos principais, sob o fundamento de que ultrapassaria os limites da lide.
+Aduz que a ação acessória, se distribuída a outro juízo, poderá causar conflito de decisões judiciais, uma vez que ele não tem conhecimento sobre todos os fatos e andamentos pretéritos.
+Posto isso, pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Na espécie, da análise cuidadosa das alegações do presente recurso, observa-se a presença dos requisitos legais para a concessão da medida liminar.
+É que, no caso em questão, em que se discute a competência do Juízo para processar e julgar o feito, observa-se que a remessa dos autos do processo para uma das Varas de família e Sucessões da Comarca de Rondonópolis-MT poderá causar tumulto ao andamento da ação, mormente por se tratar de pedido de distribuição por dependência à procedimento que já vem tramitando há bastante tempo.
+Assim, para evitar embaraço ao andamento do feito, na origem, convém suspender os efeitos da decisão de base, até a apreciação do mérito do agravo.
+Ante o exposto, CONCEDO a liminar para suspender os efeitos da decisão de base que declinou da competência em favor do Juízo de uma das Varas de Família e Sucessões da Comarca de Rondonópolis.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
