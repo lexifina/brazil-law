@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BRAMEX COMERCIO E SERVICOS LTDA E OUTROS à decisão de fls. 690/691, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Referente a fundamentação da ausência de recolhimento de preparo, cabe ressaltar que o prazo para a Recorrente efetuar o devido recolhimento se encerrou em 11/10/2021 e nesta data a Recorrente efetuou o pagamento da guia, ou seja, não há que se falar em ausência de pagamento do preparo recursal, tendo em vista que houve o pagamento e apenas a comprovação se deu de forma posterior, conforme se verifica do comprovante abaixo: (fl. 696).
+ ..
+Sendo assim, conforme entendimento jurisprudencial, não há que se falar em deserção quando o pagamento é realizado dentro do prazo fixado e apenas a comprovação se dá de forma posterior, conforme se deu no presente caso dos autos (fl. 697).
+ ..
+Ainda nesse sentido, cumpre ressaltar que com base no artigo Art. 1.007, § 4 º do Código de Processo Civil, a parte que deixar de efetuar o devido recolhimento deverá ser intimada a efetuar o recolhimento dobro, conforme determinado em Lei.
+ ..
+Neste sentido, ao contrário da determinação legal, verifica-se dos autos que em nenhum momento houve a intimação da Recorrente, ora Embargante, para efetuar o recolhimento em dobro com a finalidade de que seu recurso fosse devidamente recebido e processado.
+Cumpre colacionar entendimento jurisprudencial, através do qual verifica-se que antes de julgar deserto o recurso, é necessário conceder a oportunidade ao Recorrente de recolher o preparo recursal em dobro, em obediência ao o principio do contraditório e ampla defesa, principio da primazia do julgamento do mérito, e principio do devido processo legal (fl. 699).
+Alega ainda que:
+Cumpre salientar, que o Dr. Marcelo Dornellas de Souza, inscrito na OAB/SP sob o nº 173.336 encontra-se devidamente constituído na procuração ás fls. e-STJ Fl. 202) dos presentes autos (índice nº 4), conforme imagem abaixo: (fl. 704).
+ ..
+Desta forma, conforme se verifica, o presente Recurso foi assinado digitalmente pelo procurador devidamente consituído nos autos, sendo assim, não há que se falar em ausência de procuração.
+Nesse sentido, no que tange a ausência de procuração da advogada subscritora Dra. BÁRBARA FERREIRA DE BONIS, requer-se a desconsideração de sua assinatura, tendo em vista que o patrono dos autos já está devidamente constituído para agir (fl. 705).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme já consignado na decisão ora embargada, que agora se repete, no ato da interposição, o recolhimento das custas devidas ao Superior Tribunal de Justiça foi realizado em desacordo com o disposto na Resolução do Superior Tribunal de Justiça vigente à época da interposição do recurso, uma vez que a parte fez a indicação errônea do "Processo na Origem" ou "Número do Processo que consta no Acórdão Recorrido".
+Ainda, no caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora digital do recurso especial, Dra. Bárbara Ferreira de Bonis.
+Mesmo diante da intimação da parte para sanear os vícios, não houve a devida regularização, uma vez que protocolou intempestivamente a petição de fls. 683/688, que supostamente sanaria tais vícios.
+Quanto ao preparo, registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AGENDAMENTO. DESPACHO. REGULARIZAÇÃO. EMBARGOS DE DECLARAÇÃO. DESCABIMENTO. PAGAMENTO EM DOBRO. DESCUMPRIMENTO. DESERÇÃO. DECISÃO MANTIDA.
+1. Não é cabível a oposição de aclaratórios contra o despacho que determina a intimação da parte regularizar o preparo do recurso especial, uma vez que tal ato não possui natureza decisória.
+Precedentes.
+2. "A juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido" (AgInt no REsp n. 1.873.185/MA, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021), o que ocorreu (e-STJ fls. 483/484).
+3. "À luz do disposto no art. 1.007, §§ 2º, 6º e 7º, do CPC/2015, a parte recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no REsp n. 1.880.154/RN, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/3/2021, DJe 26/3/2021).
+4. De acordo com a jurisprudência do STJ, não sendo devidamente comprovado o recolhimento do preparo no momento da interposição do recurso, deve a parte ser intimada para o sua realizado em dobro, na forma do art. 1.007, § 4º, do CPC de 2015, sob pena de deserção.
+5. No caso, ao constatar que o recurso especial foi protocolado acompanhado apenas do comprovante de agendamento do preparo, a Presidência desta Corte Superior proferiu despacho, a fim de que a parte apresentasse a guia de recolhimento referente ao comprovante de pagamento e realizasse a complementação do referido recolhimento, uma vez que devido em dobro, nos termos do art. 1.007, § 4º, do CPC de 2015 e, em caso de impossibilidade de apresentação da citada guia, efetuasse novo pagamento em dobro. No entanto, mesmo intimada, a parte deixou de recolher o preparo em dobro, o que atrai a Súmula n. 187/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1604404/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma , DJe de 17/05/2021.)
+Ademais, cumpre consignar que intimada a parte nos termos do art. 1.007, §§ 2º, 4º ou 7º, do CPC, não há previsão para que uma nova intimação seja realizada. Logo se a parte foi intimada nesta Corte e não providenciou a devida regularização, não há como dar nova oportunidade de sanar o óbice.
+No caso, como a parte não comprovou o recolhimento, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+No que se refere à representação processual, ressalte-se que, conforme entendimento consolidado nesta Corte, "para efeitos processuais, o subscritor da peça assinada e enviada eletronicamente deverá ter procuração nos autos, não tendo valor eventual assinatura digitalizada de outro advogado, ou que venha a constar, fisicamente, da peça encaminhada e assinada eletronicamente, mesmo que este possua procuração nos autos". (AgRg no REsp 1404615/AL, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 20/8/2015.)
+Nesse sentido ainda: AgInt no REsp 1711048/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/6/2019; e AgInt no AREsp 1444922/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 10/9/2019.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
