@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em face de acórdão assim ementado (fl. 52):
+AGRAVO DE EXECUÇÃO PENAL Progressão de regime Réu reincidente Lapso temporal de 3/5 ou 60% - Aplicação Hipótese Artigo 112, inciso VII, da LEP Redação dada pela Lei nº 13.964/2019 (pacote anticrime) que não faz distinção entre reincidência comum ou específica. AGRAVO DESPROVIDO.
+Consta dos autos que o Juízo das Execuções indeferiu o pedido de retificação de cálculo de penas, preservando o lapso temporal de 60% (3/5) para obtenção da progressão de regime.
+A defesa interpôs recurso de agravo em execução, que foi desprovido.
+Neste writ, a impetrante alega, em síntese, constrangimento ilegal em razão da aplicação da fração de 60% para fins de progressão de regime, mesmo considerando que o paciente não é reincidente específico.
+Assevera que o caso dos autos versa sobre reincidência genérica ou simples, motivo pelo qual o lapso a ser observado no cálculo deve ser o de 40% para a progressão de regime.
+Requer, liminarmente e no mérito, a aplicação da fração de 2/5 ou 40% para fins de progressão de regime, nos termos do artigo 112 da Lei de Execução Penal.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+O Tribunal de origem assim se manifestou (fls. 51-57):
+Trata-se de agravo de execução interposto pelo sentenciado GILBERTO JOSÉ TAYFOUR NETO contra a r. decisão (fl.25) proferida pela MMª. Juíza do DEECRIM 7ª RAJ da Comarca de Santos/SP, Drª. Luciana Viveiros Corrêa dos Santos Seabra que, diante do reconhecimento da reincidência específica pelo Juízo de Conhecimento, indeferiu o pedido de retificação do cálculo de pena, formulado pelo condenado, mantendo o percentual de 60%, para fins de progressão de regime, nos termos da Lei 13.964/19. Sustenta o agravante que a nova redação do artigo 112, inciso VII, da LEP, exige o resgate de 60% da pena somente para os reincidentes específicos em crime hediondo ou equiparado. Aduz, ainda, que o reincidente genérico se equipara ao réu primário e interpretação contrária significa aplicar analogia in malam partem.
+No mais, tendo em vista que o crime anteriormente cometido pelo agravante foi desclassificado para porte de droga para uso próprio, inexiste reincidência específica, como o mencionado na combatida decisão.
+Pleiteia, portanto, a reforma da mesma para que seja aplicado o lapso temporal correspondente a 40% para a progressão de regime prisional, nos termos da nova redação do artigo 112, inciso V, da LEP. (fls.01/07).
+Contrariado o recurso (fls. 46/50) e mantida a decisão (fl.51), opinou a d. Procuradoria Geral de Justiça pelo improvimento do agravo (fls. 59/64).
+É o relatório.
+Sem razão o agravante.
+A Lei 13.964/2019 (pacote anticrime) alterou os lapsos da progressão de regime previstos no artigo 112 da LEP, in verbis: (..)
+O artigo 112 da LEP, com redação dada pela Lei 13.964/2019, não utiliza o termo reincidente específico, de modo que não faz distinção entre reincidência comum ou específica, devendo, portanto, incidir a fração de 3/5 ou 60% a todos os agentes reincidentes, independentemente da natureza do delito anteriormente cometido.
+O revogado art. 2º, § 2º, da Lei nº 8.072/90, previa que a progressão de regime, no caso dos condenados aos crimes previstos no referido artigo, dar-se-ia após o cumprimento de 2/5 (equivalente a 40%) da pena, se o apenado for primário, e de 3/5 (equivalente a 60%), se reincidente.
+De fato, a reincidência a que se referia o artigo era genérica e com a alteração trazida com a nova Lei 13.964/19, o legislador não exigiu no dispositivo legal que se trate de reincidência específica.
+Como é cediço, quando o legislador pretende a reincidência específica, o requisito é incluído expressamente na lei, como o fez, v.g., em relação ao livramento condicional (art. 44, parágrafo único, da Lei n.º 11.343/06, e art. 83, V, do Código Penal).
+Como bem ponderou o i. Ministro Nefi Cordeiro do Superior Tribunal de Justiça: "O chamado "Pacote Anticrime" tinha como objetivo o aperfeiçoamento da Legislação Penal e Processual Penal, em vistas a produzir mecanismos mais capazes de reprimir e desestimular a prática delitiva, com especial atenção ao combate ao tráfico de entorpecentes. Aliados os objetivos da Lei n. 13.964/19 à jurisprudência pacificada nas Cortes Superiores, de rigor a manutenção da fração de 3/5 (três quintos), traduzido em 60% (sessenta por cento) do cumprimento da pena, para a progressão de regime aos condenados por crime hediondos ou equiparados, quando reincidentes (HC 596031- SP). Nesse sentido, a jurisprudência do Superior Tribunal de Justiça:
+Em caso de entendimento diverso, o sentenciado reincidente estaria em injusta vantagem diante daquele que estivesse em cumprimento de pena pelo primeiro delito cometido, porquanto ambos precisariam cumprir a mesma fração de pena, 40%, reservada somente ao primário, nos termos do art. 112, inc. V, da Lei de Execução Penal, transcrito com destaque linhas acima.
+Pelo exposto, nega-se provimento ao agravo defensivo, mantendo-se a r. decisão por seus próprios fundamentos.
+Consta dos autos que o paciente havia sido condenado por tráfico de drogas nos autos da ação penal n. 1500130-30.2018.8.26.0536. Contudo, conforme acórdão de fls. 37-43, o Tribunal de origem deu parcial provimento ao apelo defensivo para desclassificar a imputação para o artigo 28 da Lei de Drogas e fixar a pena de advertência sobre os efeitos da droga, a ser definida em sede de execução.
+Sobre o tema, ressalto que, anteriormente, prevalecia o entendimento, na Sexta Turma desta Corte, no sentido de que a condenação definitiva pretérita pelo porte de substância entorpecente para consumo próprio, prevista no art. 28 da Lei 11.343/2006, geraria reincidência, porquanto tal conduta foi apenas despenalizada pela vigente Lei de Drogas, mas não descriminalizada.
+Ocorre que, no julgamento do REsp 1.672.654/SP, passou a prevalecer nova orientação a respeito do tema, no sentido de que é desproporcional o reconhecimento da reincidência em virtude de anterior condenação pelo delito previstono art. 28 da Lei 11.343/2006. Precedentes da Quinta e Sexta Turmas. Nesse norte: AgRg no HC 686647 / SP, Relator(a) Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/08/2021, DJe 30/08/2021.
+Nesse contexto, não se reconhece a reincidência em desfavor do paciente.
+Assim, não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% que trata sobre a reincidência em crime hediondo ou equiparado.
+Ao contrário, deve ser fixado o percentual de 40% previsto no inciso V do art. 112, relativo ao primário e ao condenado por crime hediondo ou equiparado.
+Deve, portanto, ser deferido o habeas corpus, diante do advento do Pacote Anticrime e da alteração promovida no art. 112 da LEP.
+Ante o exposto, defiro liminarmente o habeas corpus para que seja para que seja adotado o percentual de 40% de cumprimento da pena para o preenchimento do requisito objetivo da progressão do regime prisional.
+Comunique-se.
+Publique-se.
+Intimem-se.
