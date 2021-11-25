@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): Trata-se de agravo interno manejado por ENOQUE FRANCISCO DA SILVAdesafiando decisão de fls. 525/528, que negou provimento ao agravo em recurso especial, ao fundamento de que rever o entendimento do Tribunal de origem, com o objetivo de acolher a pretensão recursal, para avaliar os limites objetivos e subjetivos da coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte.
+O agravante, em suas razões, alega em síntese, que"A questão discutida no Recurso Especial está DISTANTE DE EXIGIR O REEXAME DE PROVAS. A discussão é sobre o abatimento dos valores recebidos a título de Auxílio-Acidente que não foi abordada na ação de conhecimento" (fl. 530).
+Afirma que "A questão atinente ao abatimento dos valores recebidos a título de Auxílio-Acidente não foi abordada na ação de conhecimento, e, por isso, não pode ser objeto de discussão via Embargos à Execução como quer o INSS" (fl. 531)
+Aduz que "O INSS, apesar de sabedor do Auxílio-Acidente que vinha sendo mantido em prol do autor desde longa data, sendo que o pagamento respectivo era por ele próprio efetuado, nada arguiu a respeito na fase de conhecimento, de modo que o título executivo judicial se formou sem, em nenhum momento, deixar assentada a possibilidade de compensação do aludido Auxílio-Acidente quando da apuração do montante devido" (fl. 531).
+Alega que "Não se pode discutir em sede de Embargos à Execução matéria que não foi oportunamente suscitada e discutida durante o curso do processo de conhecimento, em razão da PRECLUSÃO e da COISA JULGADA" (fl.531).
+Devidamente intimado, o INSS não apresentou impugnação, conforme certidão de fl. 542.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO À COISA JULGADA. AVERIGUAÇÃO. SÚMULA 7/STJ.
+1. Conforme afirmado na decisão agravada, o Tribunal de origem, com base no conjunto probatório dos autos, concluiu que não ocorreu violação ao julgado, pois a matéria em questão não foi abordada no título executivo, o que permite a adequação da execução do título à legislação em vigor.
+2. Percebe-se que o acórdão foi proferido com base na análise da prova documental juntada aos autos, afirmando expressamente que "que a conta de liquidação apresentada pelo perito judicial foi confeccionada em estrita observância ao determinado no título exequendo".
+3. A teor da Súmula 7/STJ, não pode esta Corte Superior rever entendimento do Tribunal de origem acerca da formação da coisa julgada com relação ao teor do título executivo judicial.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR) A irresignação não comporta acolhida.
+Conforme afirmado na decisão agravada, o Tribunal de origem, com base no conjunto probatório dos autos, concluiu que a conta apresentada pelo perito judicial observou na íntegra o título executivo. É o que se infere dos seguintes trechos extraídos do acórdão recorrido (fls. 341/342):
+No caso dos autos, o auxílio-acidente se iniciou em 05/1995 e a aposentadoria por tempo de serviço foi concedida ao segurado, por decisão judicial, a partir de 31/05/2001, ou seja, quando já havia vedação legal à cumulação dos benefícios. Por conseguinte, devida a dedução na conta em liquidação das parcelas recebidas a título de auxílio-acidente. No mais, o artigo 509, § 4º do novo Código de Processo Civil, consagrou o princípio da fidelidade ao título executivo judicial (antes disciplinado no art. 475- G), pelo qual se veda, em sede de liquidação, rediscutir a lide ou alterar os elementos da condenação. Assim, a execução deve limitar-se aos exatos termos do título que a suporta, não se admitindo modificá-los ou mesmo neles inovar, em respeito à coisa julgada. (..).
+No mais, a necessidade de adequação da liquidação de sentença ao título executivo legitima o magistrado a determinação de que sejam conferidos e elaborados novos cálculos pela contadoria judicial, órgão auxiliar do juízo (artigo 524, §2º do CPC).
+No caso, constata-se que a conta de liquidação apresentada pelo perito judicial foi confeccionada em estrita observância ao determinado no título exequendo, a qual merece acolhida, ademais por ser equidistante quanto aos interesses das partes.
+E o voto proferido nos embargos de declaração, consignou (fls. 378/379):
+No que se refere aos embargos aclaratórios da parte exequente, esclareça-se que não se trata de devolução de valores recebidos de boa -fé a título de auxílio -acidente(artigo 115, II da Lei n.º 8.213/91), mas sim, de sua dedução na conta em liquidação em que se executa benefício de espécie diversa do auxílio -acidente.
+Ainda, não se vislumbra a ocorrência de violação ao julgado, pois referida matéria não foi abordada no título executivo, o que permite e invoca a adequação da execução do título à legislação em vigor (artigo 86, §2º da Lei de Benefícios).
+Reitere-se o entendimento firmado pelo STJ, em sede de recurso representativo de controvérsia, que a acumulação do auxílio -acidente com proventos de aposentadoria pressupõe que a eclosão da lesão incapacitante, ensejadora do direito ao auxílio -acidente, e o início da aposentadoria sejam anteriores à alteração do art. 86, §§ 2ºe 32, da Lei 8.213/1991 (STJ,1.2 Seção, REsp. nº 1.296.673/MG, rel. Min. Herman Benjamin, j 22.082012, DJe 03.09.2012 - g. n.)
+No caso dos autos, o auxílio -acidente se iniciou em 05/1995 e a aposentadoria por tempo de serviço foi concedida ao segurado, por decisão judicial, a partir de 31/05/2001, ou seja, quando já havia vedação legal à cumulação dos benefício
+Assim, percebe-se que o acórdão foi proferido com base na análise da prova documental juntada aos autos, afirmando expressamente que "que a conta de liquidação apresentada pelo perito judicial foi confeccionada em estrita observância ao determinado no título exequendo".
+Nesse contexto, como acentuado na decisão impugnada, rever o entendimento do Tribunal de origem, com o objetivo de acolher a pretensão recursal, para avaliar os limites objetivos e subjetivos da coisa julgada, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial" (AgInt no REsp 1.861.500/AM, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 23/4/2021).
+Em reforço, anotem-seos seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSOESPECIAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015 NÃOCONFIGURADA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. PRECEDENTES.COISA JULGADA. LIMITES DO TÍTULO EXECUTIVO. REEXAME DE FATOS EPROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. ILEGITIMIDADE DOSSUBSTITUÍDOS EM FACE DA CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS.AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS COMOMALFERIDOS. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+1. Não há falar em violação dos artigos 489 e 1.022 do CPC/2015,porquanto o acórdão recorrido manifestou-se de maneira clara efundamentada a respeito das questões relevantes para a solução dacontrovérsia. A aplicação do direito ao caso, ainda que por meio desolução jurídica diversa da requerida por um dos litigantes, nãoinduz negativa ou ausência de prestação jurisdicional.
+2. Descabido falar-se em julgamento extra petita quando o provimentojurisdicional decorre da interpretação lógico-sistemática da petiçãoinicial, como evidenciado no caso concreto. Precedentes.
+3. A alteração das conclusões adotadas pelo acórdão recorrido,acerca do alcance do título executivo, tal como colocada a questãonas razões recursais, demandaria, necessariamente, novo exame doacervo fático-probatório dos autos, providência vedada na viaespecial, por incidência da Súmula 7/STJ.
+4. (..).
+5. Agravo interno não provido.
+(AgInt no REsp 1.874.492/PE, Rel. Min. BENEDITO GONÇALVES, DJe de 06/10/2021)
+PROCESSUAL CIVIL. TÍTULO EXECUTIVO JUDICIAL. INTERPRETAÇÃO.POSSIBILIDADE. OFENSA À COISA JULGADA. REEXAME FÁTICO-PROBATÓRIO.IMPOSSIBILIDADE.
+1. De acordo com a jurisprudência do STJ, no sentido de que "nãoviola a coisa julgada a interpretação do título judicial conferidapelo magistrado, para definir seu alcance e extensão, observados oslimites da lide" (AgInt no AREsp 1696395/RJ, Relator Ministro MARCOAURÉLIO BELLIZZE, Órgão Julgador T3 - TERCEIRA TURMA, DJe 18/12/2020.
+2. Hipótese em que o acolhimento da pretensão recursal, a fim dereconhecer a eventual ofensa à coisa julgada na interpretação dotítulo judicial pelas instâncias de origem, demandaria a incursão noconjunto fático-probatório, providência que esbarra no óbice da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.640.417/SC, Rel. Min. GURGEL DE FARIA, DJe de 17/09/2021)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CÁLCULOS. READEQUAÇÃO.POSSIBILIDADE. NÃO OCORRÊNCIA DE VIOLAÇÃO À COISA JULGADA. RECURSONÃO PROVIDO.
+1. De acordo com precedentes do Superior Tribunal de Justiça, apreclusão não atinge o juiz, o qual tem o dever de zelar pelacorreta execução do título judicial. Até mesmo de ofício, pode ojuiz rever os cálculos apresentados pelo credor, para adequá-los aotítulo executivo, de modo que não merece acolhida a tese de preclusão.
+2. Ademais, verificar se houve a apontada ofensa à coisa julgadademandaria reexame provas, providência vedada nos termos da Súmula7/STJ.
+(AgInt no AREsp 1.679.792/RS, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 02/03/2021)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
