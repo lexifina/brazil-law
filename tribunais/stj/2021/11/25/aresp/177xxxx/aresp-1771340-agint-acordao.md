@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por EDP ESPIRITO SANTO DISTRIBUIÇÃO DE ENERGIA S.A em face de decisão deste Relator de fls. 538-540, que negou provimento ao seu agravo em recurso especial, em razão da incidência da Súmula 7/STJ, devido a impossibilidade de reexame do conjunto fático-probatório dos autos.
+Nas razões recursais, a parte agravante repisa os argumentos trazidos no recurso especial, e ainda sustenta: "Com efeito, o que se pretende é a aplicação correta da Lei e a pacificação da jurisprudência pátria relativa às áreas non aedificandi, abaixo das linhas de distribuição de energia elétrica. A r. decisão dá a entender que seria necessário o revolvimento de provas para que os elementos que compõem a servidão e suas limitações casuísticas fossem resolvidas, o que não é o caso. Não se pretende revolver as provas para analisar a invasão à servidão administrativa, sendo este fato notório.".
+Requer o conhecimento e provimento do presente agravo para conhecer e dar provimento ao recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE E SERVIDÃO ADMINISTRATIVA. ESBULHO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A questão referente ao pedido de reintegração de posse e esbulho foi decidida mediante acurada análise do conjunto fático-probatório dos autos, de modo que, para infirmar as conclusões do acórdão recorrido, seria imprescindível o reexame de fatos e provas, o que atrai a incidência da Súmula n. 7 do STJ.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. No que se refere à prova produzida nos autos, esclareço que, como destinatário final, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da prova necessária à formação do seu convencimento, tendo-o feito no seguinte sentido:
+Sabe-se que é direito da concessionária de serviço público zelar pela conservação, manutenção e inspeção das linhas de transmissão de energia elétrica em terrenos constituídos por servidão administrativa pelo Poder Público, de acordo com o Decreto no 35.851/54, em seu art. 2º, § 2.
+Por outro lado, na mesma norma, no artigo que sucede, fica patente a limitação de gozo da propriedade, devendo o proprietário ou possuidor se abster de atos no terreno que possam embaraçar ou causar danos as linhas de transmissão incluindo nesses casos erguer construções.
+À vista da interpretação de normas anteriores a Constituição Federal, devemos nos ater em princípios norteadores, notadamente o da função social da propriedade, que em uma visão mais contemporânea é permitido a limitação do uso e gozo da propriedade, porém com algumas ressalvas.
+O que significa dizer que não será qualquer construção no terreno que possibilitará sua paralisação, com consequente reintegração de posse, mas sim apenas aquelas extremamente necessárias à proteção do proprietário e outros usuários que se coloquem em situação de risco.
+No ponto específico aqui debatido, tem-se que a propriedade, através de Decreto do Poder Executivo, constituída em servidão administrativa para instalação de linhas de transmissão, possibilita a intervenção da concessionária para zelar, entre outras coisas pela própria vida da apelada e sua família, diante do risco de se proceder uma construção perto dos fios de alta tensão.
+E não obstante a isso, verte-se na hipótese, como dito, dentro da razoabilidade e proporcionalidade verificar se a construção erigida pela apelante/apelada esbulhou área de servidão de administrativa, que mereçam seu desfazimento.
+Tal ônus, diga-se de passagem, recai sobre a própria concessionária com vias de provar o esbulho e necessária reintegração de posse, com fulcro no art. 373, I do CPC 1 , e nessa linha intelectiva, entendo que a mesma deixou de provar o fato constitutivo de seu direito.
+Em especial pela análise da prova documental produzida - registro fotográfico do local às fl. 28 - não há como cravar que o segundo pavimento, embora edificado pela requerida ora apelante/apelada (f1.106/107), cause empecilhos a atividade administrativa da concessionária, notadamente, como reconhecido em depoimento pessoal do preposto da empresa de energia (f1.105), as linhas de transmissão de energia passam por sobre o telhado do imóvel, evidenciado-se assim, a possibilidade de manutenção sem maiores problemas.
+Assim, em que pese a empresa concessionária suscitar a aplicação do verbete sumular no 415 do STF, acredito que na presente hipótese não merece guarida tal alegação, muito embora em casos outros similares tê-la aplicado.
+Ocorre que pela natureza da obra erigida nestes autos, não implica em aparência do pedido reintegratório, haja vista que a prova documental produzida é frágil e não conduz em conclusão de um risco e o que se dirá de manutenção das linhas de transmissão.
+(..)
+Conforme consignado na decisão agravada, as matérias referentes ao pedido de reintegração de posse e esbulho foram decididas mediante acurado exame do conjunto fático-probatório dos autos, de modo que, para infirmar as conclusões do Tribunal de origem, seria imprescindível a revisão de fatos e provas dos autos, o que atrai a incidência da Súmula n. 7 do STJ, e impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+Nesse sentido: (AgInt no REsp 1829061/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/11/2019, DJe 21/11/2019) ; (AgInt no AREsp 1794855/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/05/2021, DJe 19/05/2021); (AgInt no AREsp 686.225/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020); (AgInt no AREsp 1618103/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/06/2020, DJe 03/08/2020); (AgInt no AREsp 859.995/AC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/06/2019, DJe 28/06/2019).
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
