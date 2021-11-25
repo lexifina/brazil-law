@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 144):
+AGRAVO REGIMENTAL EM HABEAS CORPUS.Decisão monocrática que indeferiu liminarmente o writ, com base no artigo 168, § 3º, do RITJSP e do artigo 666 do CPP. Insurgência contra a decisão do MM. Juízo de Execução que indeferiu pedido de livramento condicional. O habeas corpus não se presta à solução de questões incidentais à execução, tampouco pode ser manejado para emprestar celeridade ao julgamento de pretensão deduzida pela via adequada, sob pena de desvirtuamento de sua finalidade constitucional. A questão posta demanda análise que foge aos estreitos limites do remédio heróico. Agravo em execução já interposto pela Defesa e que será oportunamente apreciado. Acerto da decisão monocrática.Agravo desprovido.
+Sustenta o impetrante constrangimento ilegal decorrente do indeferimento do pedido de livramento condicional, aduzindo preenchidosos requisitos objetivo e subjetivo para a concessão da benesse.
+Alega que a decisão do juízo da execução, bem como a decisão que indeferiu liminarmente o writ impetrado perante o tribunala quo, carecem de fundamentação idônea.
+Argumenta que opaciente já se encontra há mais de 6 meses no regime semiaberto, inclusive sendo beneficiado com saídas temporárias, sempre retornando devidamente à unidade prisional.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja deferido o livramento condicional.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Adecisão que julgou improcedente o pedido de livramento condicional (fls. 54-55) consignou que, não obstante cumprido o lapso temporal para concessão do benefício, trata-se de "apenado por cinco condenações, inclusive por roubos, com extensa pena a cumprir (término previsto para 2037)". Decidiu queo atestado de "boa" conduta carcerária "não pode, por si só, servir de parâmetro para análise da satisfação do requisito de ordem subjetiva".
+O acórdão impetrado foi assim fundamentado (fls. 143-150):
+ .. o habeas corpus não se presta à solução de questões incidentais à execução, tais como a insurgência contra decisão que indefere pedido de livramento condicional por ausência dorequisito subjetivo, nem pode ser manejado como verdadeira substituta de recursos legalmente previstos para impugnar determinadas decisões judiciais, tampouco para emprestar celeridade ao julgamento de pretensão deduzida pela via adequada, sob pena de degeneração de sua finalidade.
+ ..
+De mais a mais, o exame do tema posto, que envolve o exame de elementos como a capacidade do agravante em retornar ao meio social, a gravidade do delito praticado e seu histórico prisional, indubitavelmente demanda aprofundamento cognitivo e exame interpretativo de dispositivos constitucionais e infraconstitucionais incompatíveis com o remédio heroico, o que corrobora a conclusão exarada na r.decisão monocrática atacada.
+Vê-se que asteses deduzidasnão foram apreciadas pelo Tribunal, razão pela qual não pode esta Corte Superior examiná-las diretamente, sob pena de indevida supressão de instância.
+A jurisprudência desta Corte orienta-se no sentido de que"A existência de recurso específico não inviabiliza a impetração de ordem de habeas corpus para a aferição de eventual ilegalidade na fase de execução da pena, quando a análise recai sobre questão pacificada e meramente de direito (..). A recusa em analisar o tema, pelo Tribunal de origem, constitui ilegalidade flagrante" (AgRg no HC 465.318/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 26/03/2019, DJe 10/04/2019).
+Desta forma, há constrangimento ilegal na não apreciação da matéria pelo Tribunal de origem, nos termos da orientação jurisprudencial desta Corte.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, deofício, para determinar que o Tribunal a quo analise a existência deeventual constrangimento ilegal em desfavor do paciente, nos termossuscitados na impetração da origem.
+Comunique-se.
+Publique-se.
+Intimem-se.
