@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por MOACIR ALVES DO AMARAL,contra decisão proferida pela Presidência deste Superior Tribunal de Justiça, que não conheceu do recurso especial ante o óbice do enunciado da Súmula 7/STJ.
+Nas razões recursais oagravantesustentaque"a argumentação defensiva reside na afirmação de que a evicção sofrida pelo agravante e devidamente reconhecida na sentença e no acordão recorrido é suficiente para caracterização do prejuizo sofrido e portanto, passivel de indenização. Assim, não há quefalar-se em necessidade de reanálise de provas, mas da correta revaloração das provas produzidas como suficientes para ensejar a devida indenização"(e-stj fl. 322/323).
+Aduz que "a multa por uma possível protelação não merece ser mantida, pois o intuito da oposição dos embargos foi tão somente para fins de pré-questionamento, não se podendo afirmar sob qualquer perspectiva que o agravante buscara protelar a lide. No proprio preambulo dos Embargos declaratórios, o então embargante, ao inidicar o esteio de seu pedido no art. 1022 do CPC, deixou claro sua intenção de ver apreciado pelo Tribunal a quo, as questões trazidas nos aclaratórios, face a evidente omissão do Tribunal" (e-stj fl. 323).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. IMPOSSIBILIDADE DE ALTERAÇÃO DAS PREMISSAS DO TRIBUNAL DE ORIGEM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não merece acolhida.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido peloagravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+A decisão da Presidência deste Superior Tribunal de Justiça, ora agravada, não conheceu do recurso especial, quanto a alegação de"violação do art. 450 do CC, no que concerne ao cabimento de indenização pelos danos materiais suportados pelo evicto" e "violação do art. 1.026, § 2º, do CPC, no que concerne à aplicação de multa por embargos protelatórios"aplicando-se o óbice da Súmula 7/STJ, "uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos", ainda, "quanto ao caráter protelatório dos embargos de declaração exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial".
+Com efeito, conforme restou consignado na decisão agravada, a Corte local, com base na análise do conjunto probatório carreado aos autos, concluiu nos seguintes termos:
+Na hipótese discutida, verifica-se que o autor não locou um imóvel após sair do bem objeto da presente ação, aocontrário, o Sr. Cláudio Wagner Paim que firmou um contrato de locação de um apartamento para que o autor e sua família morassem, e, ainda, está pagando os aluguéis correspondentes. Data venia, o próprio recorrente reconhece não existir efetivos prejuízos, defendendo apenas que o Sr. Cláudio pode vir a deixar de pagar os aluguéis e cobrar posteriormente os valores do autor. Nada obstante a tese defendida, não se presta o instituto para a reparação de danos hipotéticos ou em potencial, destinando-se ao ressarcimento de danos patrimoniais efetivos. (fl. 230)
+Percebe-se, portanto, que a decisão proferida não possui nenhuma contradição ou omissão e que os embargos de declaração foram interpostos com o exclusivo objetivo de rediscutir a decisão proferida, o que é repudiado pelo ordenamento jurídico. Nesse diapasão, o embargante deve ser condenado ao pagamento da multa prevista no art. 1.026, §2º, do NCPC, conforme orientação do Superior Tribunal de Justiça  .. . Por derradeiro, anote-se que mesmo os embargos de declaração interpostos com a finalidade de prequestionamento devem preencher os requisitos legais, sob pena de rejeição.  .. Por todo o exposto, NÃO ACOLHO OS EMBARGOS DE DECLARAÇÃO e imponho à parte Embargante multa de 2% (dois por cento) sobre o valor atualizado da causa, nos termos do art. 1.026, §2º do CPC. (fls. 260/265)
+Desse modo, a modificação do entendimento lançado no acórdão recorrido demandaria um inevitável reexame da matéria fático-probatória, hipótese vedada por força da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE DE TRÂNSITO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. COTEJO ANALÍTICO NÃO EFETUADO.AGRAVO INTERNO DESPROVIDO.
+1. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ.
+2. O dissídio jurisprudencial não merece conhecimento porque não foi realizado o necessário cotejo analítico entre os julgados trazidos a confronto. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts.1.029 do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1679153/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/08/2020, DJe 01/09/2020)
+Em que pesem as razões desenvolvidas pela parte no presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Assim, correta a decisão agravada, que se mantém por seus próprios fundamentos, uma vez que permanece a validade dos argumentos que a sustentam e não foram apresentados elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa (art. 1.026, § 2º, do CPC).
+É o voto.
