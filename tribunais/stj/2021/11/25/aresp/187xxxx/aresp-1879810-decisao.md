@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 282/STF bem como por não ter havido a demonstração do dissídio jurisprudencial nos moldes legais (fls. 442/445).
+O apelo nobre obstado enfrenta acórdão proferido pelo TJMS, assim ementado (fl. 384):
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA - AÇÃO DE DESAPROPRIAÇÃO - RECURSO VOLUNTÁRIO DO ENTEMUNICIPAL - NÃO CONHECIDO - PRECLUSÃO - VALOR DA INDENIZAÇÃODA ÁREA DESAPROPRIADA - RECURSO DO MUNICÍPIO NÃO CONHECIDO - SENTENÇA CONFIRMADA EM REMESSA NECESSÁRIA.
+1. Não tendo o ente municipal se manifestado a respeito do laudo do perito nos termos do determinado pelo artigo 477, § 1º, do CPC, não poderá a parte mais fazê-lo, sob pena de preclusão.
+2. Na desapropriação por utilidade pública (Decreto Municipal10.411/2008), a indenização justa somente é alcançada com a avaliação judicial.
+3. Mostra-se justo o valor fixado a título de indenização, apurado com base em laudo devidamente fundamentado, em que adotado critério técnico pelo método comparativo. Indenização que atende o disposto no art. 5º, XXIV, da CF.
+No recurso especial o recorrente aponta violação do art. 15-A do Decreto-Lei 3.365/1941 bem como divergência jurisprudencial. Sustenta, em síntese, que os juros compensatórios em desapropriação devem ser fixados no percentual de até 6% (seis por cento), segundo entendimento firmado no julgamento da ADI 2.332 pelo STF.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, o Tribunal de origem, ao decidir a lide, apresentou os seguintes fundamentos (fls. 387/389):
+Como cediço, o aforamento de ação de desapropriação implica na justa reposição patrimonial ao expropriado, a partir do qual resta caracterizado o conseqüente dever de indenizar, nos termos do art. 5º, XXIV, da CF. Portanto, a indenização deve ser exata, devendo ser concedido ao expropriado o direito de receber o valor equivalente à área expropriada.
+A demanda expropriatória, manejada com fundamento no Decreto-Lei 3.365/41, tem como objeto a apuração e o pagamento da justa indenização pelo ente expropriante ao expropriado, sendo que esta tem o escopo de tornar indene o desapropriado para que possa recompor o seu patrimônio, através de valor que o possibilite adquirir bem com as mesmas características, sem qualquer prejuízo.
+Na desapropriação por utilidade pública (Decreto Municipal10.411/2008), a indenização justa somente é alcançada com a avaliação judicial, conforme disposto no Decreto-Lei 3.365/41 que, em seu artigo 26, dispõe:
+ ..
+Ocorrendo perícia, nada mais natural que o valor alcançado pela prova técnica sirva de base ao convencimento do juiz. A importância do laudo pericial, apresentado pelo perito judicial nomeado, nas ações de desapropriação reside no fato de que as circunstâncias mencionadas neste serão exatamente as que irão motivar o convencimento do julgador na fixação do valor da indenização, muito embora o juiz não esteja adstrito ao laudo pericial, podendo formar sua convicção com outros elementos ou fatos provados nos autos, nos termos dos artigos 171 e 479, do CPC.
+ ..
+No caso dos autos, em 11.03.2016 o magistrado singular proferiu a decisão de f. 200, onde definiu que "o valor a ser apurado, para os fins da justa indenização, deve ser aquele ao tempo da desapropriação, antes das eventuais benfeitorias realizadas na região pelo poder público justamente em decorrência da desapropriação "e determinou o retorno dos autos" ao sr perito para que estipule o valor dos lotes desapropriados, objetos específicos desta ação, ao tempo da desapropriação (no decurso do ano de 2008).
+Ausente insurgência das partes naquele momento processual, incidiu a preclusão sobre a matéria, razão pela qual, in casu, o valor da avaliação deve ser aquele da época da desapropriação.
+Atendendo à determinação judicial, o expert informou que a avaliação levou em consideração os valores praticados à época do decreto municipal, qual seja, março de 2008, além de considerar que "em torno de 90% da área desapropriada encontra-se dentro da faixa "non aedificandi.
+A avaliação foi realizada por meio de pesquisas com valores de venda de lotes com características similares, não só para assegurar um valor econômico real ao bem, mas também um preço justo, eis que se trata de uma avaliação com a comparação com outros lotes da mesma área e de forma retroativa à data da desapropriação, consoante decidido nos autos.
+Dessa forma, nenhuma censura merece a sentença que concluiucomo justo o valor da indenização indicado no laudo pericial.
+Por fim, observo que os honorários advocatícios foram fixados em percentual razoável, considerando as particularidades dos autos, em especial o longo tempo de tramitação do feito, remunerando de forma justa o profissional.
+Ex positis, não conheço do recurso voluntário interposto pelo Município de Campo Grande e, em remessa necessária, ratifico a sentença.
+Todavia, observa-se que o Tribunal de origem não emitiu juízo de valor a respeito da tese referente aos juros remuneratórios, pelo que o recurso não merece ser conhecido ante a ausência do necessário prequestionamento. Incide, pois, o disposto na Súmula 282/STF.
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO LEGAL VIOLADO. INCIDÊNCIA DA SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
