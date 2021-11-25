@@ -1,0 +1,5 @@
+DECISÃO
+MARCO AURÉLIO SILVA DOS SANTOS, por meio de petição pouco compreensível, às fls. 8.264-8.274, pleiteiaque "sejam os autos enviados ao Juízo de Piso, para que, conforme sentença transita em julgado (sic), seja declarada a absolvição, dos réus em relação ao delito previsto no Art. 171, Estelionato, recalculando-se as penas aplicadas, ou comopedido subsidiário possa ser declarada a Extinção de Punibilidade dos réus".
+O pedido é manifestamente incabível, sobretudo nesse momento processual, no qual já houve, inclusive, o julgamento (pela 3ª Seção) dos embargos de declaraçãoopostos por Rodrigo Pires de Sá Requião contra acórdão proferido em agravo regimental, os quais ainda não transitaram em julgado, cujo tema de fundo não se relaciona com a questão ventilada pelo peticionário.Eventual requerimento, tal como o aventado pelo peticionário nesta oportunidade, deve ser formulado pela via processualadequada e perante a autoridade competente.
+À vista do exposto, com fundamento no art. 34, XVIII, "a", não conheço do pedido.
+Publique-se e intimem-se.
