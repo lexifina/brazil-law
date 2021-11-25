@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer, sendo substituído pela Sra. Ministra Maria Isabel Gallotti, nos termos do disposto nos arts. 2º, § 2º, e 55 do RISTJ.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Trata-se de agravo interno interposto pela EMPRESA METROPOLITANA DE TRANSPORTES URBANOS DE SAO PAULO S/A EMTU/SP contra decisão que negou seguimento ao recurso extraordinário, assim ementada (e-STJ fl. 2.232):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. SEGUIMENTO NEGADO.
+Sustenta aagravante ser inaplicável ao caso oTema 339/STF, alegando, para tanto, que as razões que foram declinadas para a negativa de provimento do agravo interno e repetidas para a rejeição dos embargos de declaração, "não enfrentam nem rechaçam os argumentos deduzidos contra a decisão que não conheceu do recurso especial e se mostram premissas menores que sucumbem àqueles argumentos" (e-STJ fl. 2.250).
+Alega que, ao contrário do consignado no julgado combatido, seria desnecessária a análise da legislação estadual, devendo ser afastado o óbice da Súmula 280/STF.
+Aduz que, no Tribunal de origem, a questão foi decidida com base em legislação federal, não sendo caso de aplicação da Súmula 126/STJ.
+Afirma que a matéria encontra-se devidamente prequestionada.
+Requer o provimento da insurgência para que seja admitido e remetido ao STFo recurso extraordinário interposto.
+Não foram apresentadas contrarrazões pelas partes agravadas (e-STJ fls. 2.261, 2.262, 2.263, 2.264 e 2.265).
+Contrarrazões da Fazenda estadual (parte interessada) às e-STJ fls. 2.267-2.269.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. DESPROVIMENTO DO RECLAMO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+2. Agravo interno não provido.
+VOTO
+Inicialmente, tendo em vista que a decisão impugnada foi publicada em 30/8/2021 (e-STJ fl. 2.237), cumpre atestar a tempestividade da insurgência, pois interposta no dia 21/9/2021 (e-STJ fl. 2.257), ou seja, dentro do prazo recursal.
+Não obstante as razões declinadas pelaagravante, a decisão monocrática deve ser mantida.
+Isso porque, ao interpretar o art. 93, inciso IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O a rt. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118)
+Na espécie, da leitura do julgado questionado, constata-se que foram declinadas as razões pelas quaiso agravo interno teve o provimento negado e os embargos de declaração foram rejeitados, valendo destacar os seguintes excertos(e-STJ fls. 2.151-2.152 e 2.202-2.203, respectivamente):
+"3. No mais, verifica-se que, para a inversão do julgado, seria necessário examinar o teor da Resolução STM-50 (na qual se fundamenta a argumentação das partes recorrentes), texto normativo de natureza infralegal, que não se equipara a Lei Federal para fins de interposição do Apelo Nobre, conforme o entendimento deste STJ (AgInt no REsp. 1.725.959/DF, Rel. Min. ASSUSETE MAGALHÃES, DJe 13.9.2018; AgInt no REsp. 1.490.498/RS, Rel. Min. SÉRGIO KUKINA, DJe 23.8.2018).
+4. Outrossim, a natureza local da sobredita Resolução, somada ao fato de que a Corte de origem pautou-se na interpretação dos Decretos Estaduais 19.835/1982 e 36.963/1993, atrai a incidência da Súmula 280/STF, pois a questão controvertida é, essencialmente, relativa à legislação do ESTADO DE SÃO PAULO.
+5. Por fim, há ainda outro obstáculo para o conhecimento dos Apelos Nobres, pois o acórdão recorrido adotou também fundamento constitucional para a solução da causa, à luz do princípio da legalidade tributária previsto no art. 150, I da CF/1988. Ocorre que não consta, no presente processo, a comprovação de interposição do competente Recurso Extraordinário, a fim de impugnar essa motivação, suficiente à manutenção do aresto. Incide, portanto, à hipótese, a Súmula 126/STJ.
+6. Ante o exposto, nega-se provimento ao Agravo Interno da Empresa Pública. É o voto."
+"1. Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (CPC, arts. 1.022 e 1.023). Nada há, enfim, que impeça o seu conhecimento.
+2. O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, porquanto o acórdão ora combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+3. Com efeito, verifica-se que, para a inversão do julgado, seria necessário examinar o teor da Resolução STM-50 (na qual se fundamenta a argumentação da parte embargada), texto normativo de natureza infralegal,que não se equipara a Lei Federal para fins de interposição do Apelo Nobre,conforme o entendimento deste STJ (AgInt no REsp. 1.725.959/DF, Rel. Min. ASSUSETE MAGALHÃES, DJe 13.9.2018; AgInt no REsp. 1.490.498/RS, Rel. Min. SÉRGIO KUKINA, DJe 23.8.2018). Além disso, a Corte de origem pautou-se na interpretação dos Decretos Estaduais 19.835/1982 e 36.963/1993, atrai a incidência da Súmula 280/STF, pois a questão controvertida é, essencialmente, relativa à legislação do ESTADO DE SÃO PAULO.
+4. Por fim, o acórdão objurgado adotou também fundamento constitucional para a solução da causa, à luz do princípio da legalidade tributária previsto no art. 150, inciso I, da CF/1988 (fls. 1.832). Ocorre que não consta, no presente processo, a comprovação de interposição do competente Recurso Extraordinário, a fim de impugnar essa motivação,suficiente à manutenção do aresto. Incide, portanto, à hipótese, a Súmula 126/STJ.
+5. Constata-se, portanto, que a parte embargante pretende renovar a discussão acerca de questão que já foi decidida e fundamentada, o que não é possível por meio dos embargos de declaração.
+6. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+7. Ante o exposto, rejeito os embargos de declaração.
+8. É como voto."
+Conclui-se, portanto, que o acórdão encontra-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. (..) FUNDAMENTAÇÃO SUFICIENTE. QUESTÃO DE ORDEM NO AGRAVO DE INSTRUMENTO 791.292 - TEMA 339. AGRAVO A QUE SE NEGA PROVIMENTO. (..) 5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que cumpre a regra do art. 93, IX, da CF a decisão judicial que seja fundamentada, ainda que de modo sucinto, sendo desnecessário o exame pormenorizado de cada uma das alegações ou provas dos autos (AI 791.292 - Tema 339 da sistemática da repercussão geral). (..) 7.
+Agravo a que se nega provimento.
+(Rcl 41510 ED, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01- 09-2020.)
+No mesmo diapasão:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TEMA 339 DA REPERCUSSÃO GERAL. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. 1.
+No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente. 2. Decisão recorrida em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL. 3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(ARE 1266033 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/08/2020, PROCESSO ELETRÔNICO DJe-204 DIVULG 14-08-2020 PUBLIC 17-08-2020.)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
