@@ -1,0 +1,40 @@
+DECISÃO
+1. Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 14ª VARA CÍVEL DE ARACAJU - SE, foro onde tramita ação falimentar contra a interessada, e oJUÍZO DE DIREITO DA 20º VARA CÍVEL DE SÃO PAULO-SP, em que se controverte sobre demanda ilíquida contra a sociedade em recuperação,.
+A ação foi ajuizada, inicialmente, no JUÍZO DE DIREITO DA 20º VARA CÍVEL DE SÃO PAULO-SP.A requerente alegaostentar crédito contra a Massa Falidada quantia de R$ 33.395,60, decorrente de contrato verbal para fornecimento de pães e afins. O Juízo declinou da competência, por entender que a demanda estaria sujeita à deliberação do Juízo da Falência.
+OJUÍZO DE DIREITO DA 14ª VARA CÍVEL DE ARACAJU - SE, por sua vez, suscitou o presente conflito, por entender que demanda ilíquida não seriaatraída pela competência do Juízo Universal.
+O Ministério Público opinou pelo reconhecimento da competência doJUÍZO DE DIREITO DA 20º VARA CÍVEL DE SÃO PAULO -SP, osuscitado (fls. 649-652).
+É o relatório.
+DECIDO.
+2.A controvérsia jurídica do presente conflito de competência não é nova nesta Corte, que já pacificou orientação no sentido de que, em se tratando de demandacujos pedidos são ilíquidos, a ação de conhecimento deverá prosseguir - a princípio até a sentença -, perante o juízo na qual foi proposta, não havendo falar em competência absoluta do Juízo Falimentar para apreciar e julgar a demanda, nos termos do artigo 6º, § 1º, da Lei n. 11.101/2005.
+Nesse sentido:
+CONFLITO POSITIVO DE COMPETÊNCIA. FALÊNCIA. AÇÃO DE RESCISÃO CONTRATUAL POR INADIMPLEMENTO CUMULADA COM PEDIDO DE PERDAS E DANOS E MULTA. JUÍZOS CÍVEL COMUM E FALIMENTAR. DEMANDA RELATIVA À QUANTIA ILÍQUIDA. COMPETÊNCIA DO JUÍZO EM QUE ESTIVER SENDO PROCESSADA A AÇÃO DE CONHECIMENTO.
+1. O art. 24, § 2º, II, do Decreto-lei 7.661/45 foi revogado com o advento da Lei n. 11.101/2005 (art. 6º, § 1º), acarretando redução das hipóteses que não se submetem aos efeitos da falência/recuperação. Assim, as demandas relativas à quantias ilíquidas continuam tramitando no juízo em que estiverem sendo processadas.
+2. No caso em comento, pretendem os autores da ação que tramita na 4ª Vara Cível de Curitiba o cancelamento do registro imobiliário em decorrência do alegado inadimplemento contratual, indenização por perdas e danos e pagamento de multa pelo inadimplemento (fls.64/72), demanda movida em face da Encol S/A, compradora do imóvel em questão, a qual revendeu as unidades imobiliárias a terceiros.
+3. Destarte, tratando-se de demanda cujos pedidos são ilíquidos, a ação de conhecimento deverá prosseguir - a princípio até a sentença -, perante o juízo na qual foi proposta, não havendo falar em competência absoluta do Juízo Falimentar para apreciar e julgar a demanda, nos termos do artigo 6º, § 1º, da Lei n. 11.101/2005.
+Precedentes.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 4ª Vara Cível de Curitiba/PR.
+(CC 122.869/GO, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 22/10/2014, DJe 02/12/2014)  g.n.
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. AÇÃO DE COBRANÇA PROPOSTA CONTRA EMPRESA FALIDA EM QUE SE PLEITEIA QUANTIA ILÍQUIDA. APLICAÇÃO DA REGRA DO § 1º DO ART. 6º DA LEI N. 11.101/2005. PROSSEGUIMENTO DA AÇÃO DE CONHECIMENTO NO JUÍZO EM QUE ESTIVER SENDO PROCESSADA.PRECEDENTES. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO INCIDENTE.
+AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt no CC 172.564/GO, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 01/06/2021, DJe 07/06/2021)  g.n.
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO RECONHECIDO JUDICIALMENTE. AÇÃO QUE DEMANDA QUANTIA ILÍQUIDA. ART. 6º, § 1º, DA LEI 11.101/05. FATO GERADOR ANTERIOR AO PEDIDO. SUBMISSÃO AOS EFEITOS DO PROCESSO DE SOERGUIMENTO. CUMPRIMENTO DE SENTENÇA. ART.523, § 1º, DO CPC/15. NÃO INCIDÊNCIA. AUSÊNCIA DE RECUSA VOLUNTÁRIA AO ADIMPLEMENTO DA OBRIGAÇÃO. PRECEDENTE ESPECÍFICO DA TERCEIRA TURMA DO STJ.
+1. Ação ajuizada em 28/10/2008. Recurso especial interposto em 11/2/2021. Autos conclusos ao gabinete da Relatora em 12/5/2021.
+2. O propósito recursal consiste em definir se o crédito sujeito ao processo de recuperação judicial da devedora, decorrente de ação que demandava quantia ilíquida, deve ser acrescido da multa prevista no art. 523, § 1º, do CPC/15.
+3. Nos termos do art. 59, caput, da Lei 11.101/05, o plano de recuperação judicial implica novação dos créditos anteriores ao pedido e obriga o devedor e todos os credores a ele sujeitos.
+4. No que concerne à habilitação, em processo de recuperação judicial, de quantias decorrentes de demandas cujos pedidos são ilíquidos, esta Corte Superior entende que, nos termos do art. 6, § 1º, da Lei 11.101/05, a ação de conhecimento deverá prosseguir perante o juízo na qual foi proposta até a determinação do valor do crédito, momento a partir do qual este deverá ser habilitado no quadro geral de credores da recuperanda.
+5. A multa prevista no art. 523, § 1º, do CPC/15 somente incide sobre o valor da condenação nas hipóteses em que o executado não paga voluntariamente a quantia devida estampada no título executivo judicial.
+6. Na hipótese, portanto, não há como acrescer ao valor do crédito devido pela recorrente a penalidade do dispositivo supra citado, uma vez que o adimplemento da quantia reconhecida em juízo, por decorrência direta da sistemática prevista na Lei 11.101/05, não constituía obrigação passível de ser exigida da recuperanda nos termos da regra geral da codificação processual.
+7. Ademais, estando em curso processo recuperacional, a livre disposição, pela devedora, de seu acervo patrimonial para pagamento de créditos individuais sujeitos ao plano de soerguimento violaria o princípio segundo o qual os credores devem ser tratados em condições de igualdade dentro das respectivas classes.
+8. Precedente específico da Terceira Turma: REsp 1.873.081/RS, DJe 4/3/2021.
+RECURSO ESPECIAL PROVIDO.
+(REsp 1937516/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 03/08/2021, DJe 09/08/2021) g.n.
+Conforme esclarece a doutrina, o termo"quantia líquida" previsto no § 1º do art. 6º da Lei 11.101/05 deve ser entendido como sendo: " ..  qualquer ação de conhecimento, ou seja, qualquer ação que pretenda a apuração da obrigação ou do montante desta em face do devedor, ainda que o valor já tenha sido mensurado por uma das partes. (SACRAMONE, Marcelo Barbosa. Comentários à Lei de Recuperação de Empresas e Falência. São Paulo: Saraiva, 2021, Saraiva Digital).
+No caso, a ação ajuizada no Juízo Individual é ilíquida, uma vez que se pretende a condenação da requerida com base em contrato verbal, cuja existência foiinclusive controvertidapela requerida, que alegou fato impeditivo (fl. 612).
+Desse modo, não há razão para afastar a iliquidez da ação em que se baseia o presente conflito de competência; afastando a competência do Juízo Universal para o seu processamento, a teor do que se extrai do § 1º do art. 6º da Lei 11.101/05.
+3.Ante o exposto, conheço do conflito para reconhecer a competência do JUÍZO DE DIREITO DA 20º VARA CÍVEL DE SÃO PAULO -SP, o suscitado.
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. FALÊNCIA. ART.6º, § 1º, da Lei n. 11.101/2005. AÇÃO CONDENATÓRIA BASEADA EM FORNECIMENTO DE BENS.JUÍZOS CÍVEL COMUM E FALIMENTAR. DEMANDA RELATIVA À QUANTIA ILÍQUIDA. COMPETÊNCIA DO JUÍZO EM QUE ESTIVER SENDO PROCESSADA A AÇÃO DE CONHECIMENTO.
+1. Em se tratandode demanda cujos pedidos são ilíquidos, a ação de conhecimento deverá prosseguir - a princípio até a sentença -, perante o juízo na qual foi proposta, não havendo falar em competência absoluta do Juízo Falimentar para apreciar e julgar a demanda, nos termos do artigo 6º, § 1º, da Lei n. 11.101/2005.
+2. No caso,a ação ajuizada no Juízo Individual é ilíquida, uma vez que se pretende a condenação da requerida com base em contrato verbal, cuja existência foi inclusive controvertida pela requerida; afastando a atração da competência do Juízo Universal.
+3.Conflito de competência conhecido para reconhecer a competência do JUÍZO DE DIREITO DA 20º VARA CÍVEL DE SÃO PAULO -SP, o suscitado.
