@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 789/805) interposto por DDM COBRANÇA EMPRESARIAL LTDA.  ME ("DDM"), contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a parte agravante alega ser inaplicável a Súmula n. 7 do STJ e reitera as razões do recurso especial acerca daviolaçãodos arts. 202, VI, do CC/2002,85, § 2º,86,322, § 2º, 324, § 1º, II, e 1.022, I e II,do CPC/2015, argumentandoque,"mesmo diante da provocação expressa acerca da latente contradição, o v. acórdão complementar dos embargos de declaração de fls. 598/601 seguiu sem enfrentar (omissão) a contradição apontada" (e-STJ fl. 797).
+Defendeser necessário corrigir adistribuição da verba sucumbencial. Alega que o pedido de danos materiais foi feito pela reparação integral e de formailíquida, a ser quantificado em sede de cumprimento/liquidação de sentença. Pleiteia oreconhecimento da interrupção da prescrição trienal.
+Requer o provimento do agravo interno, "com a integral reforma da r. decisão agravada, com objetivo de que seu RecursoEspecial de fls. 616/627 seja admitido e provido, na medida em que (i) a análise do recursonão requer o revolvimento do conjunto fático-probatório dos autos e (ii) os vv. Acórdãoscombatidos apresentam frontal violação ao artigo 1.022, I e II, do CPC; (iii) assim como dosarts. 202, VI, do CC; arts. 322, § 2º; 324, § 1ºII; 85, § 2º; e 86, do CPC"(e-STJ fl. 804).
+Subsidiariamente, "caso não se entenda pela apreciação direta doespecial, deverá ao menos essa Eg. Corte prover o agravo para determinar a devolução dosautos ao TJRJ para enfrentamento dos vícios apontados de violação ao art. 1.022, I e II, doCPC" (e-STJ fl. 804).
+Não foram oferecidas impugnações (e-STJ fls. 832/833).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. FATO CONSTITUTIVO DO DIREITO. DANOS MORAIS. AFASTAMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. GRAU DE SUCUMBÊNCIA. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto,para alterar asconclusões do TJRJ acerca da falta de comprovação de fato constitutivo do direito da parte, da inexistência de danos e da distribuição dos ônus sucumbenciais, seria imprescindívelo reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 781/784):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por DDM Cobrança Empresarial Ltda ME, contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação do art. 1.022 do CPC/2015, e (b) aplicação da Súmula n. 7 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 569):
+COBRANÇA. DOIS CONTRATOS: 1º) PARA PROCEDER À COBRANÇA DE ALUNOS INADIMPLENTES DA UNIVERSIDADE; 2º) UMA CESSÃO DE CRÉDITO DE TÍTULOS NÃO QUITADOS, RELACIONADOS À PRESTAÇÃO DE SERVIÇO EDUCACIONAL. CONTRATADA QUE É ACIONADA EM DIVERSAS DEMANDAS AJUIZADAS POR ALUNOS DA INSTITUIÇÃO,ALICERÇADAS NA AUSÊNCIA DE INADIMPLEMENTO. LISTAGEM DOS SUPOSTOS INADIMPLENTES FORNECIDA PELA INSTITUIÇÃO DE ENSINO. AÇÃO ONDE SE BUSCA A COMPENSAÇÃO FINANCEIRA PELOS VALORES DESPENDIDOS COM AS CONDENAÇÕES. DANO MORAL. INEXISTÊNCIA. PRESCRIÇÃO TRIENAL. QUANTIFICAÇÃO DO DANO REALIZADA PELAS RÉS, COM BASE NA SOMA DOS VALORES APRESENTADOS PELA AUTORA/APELANTE. SENTENÇA DE IMPROCEDÊNCIA REFORMADA. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO.
+Os embargos de declaração foram acolhidos parcialmente, apenas para sanar a contradição e determinar que a correção monetária incida de cada desembolso comprovado pela recorrente (e-STJ fls. 597/601).
+Nas razões do recurso especial (e-STJ fls. 616/627), interposto com base no art. 105, III, "a", da CF, a recorrente apontou violação dos seguintes dispositivos:
+(i) art. 1.022, I e II, do CPC/2015, alegando que o acórdão foi omisso em relação as teses de violação dos artigos de lei apresentados,
+(ii) art. 202, VI, do CC/2002, sustentando que o acórdão não se manifestou acerca dos documentos trazidos pela recorrente, que evidenciariam a interrupção da prescrição, tendo em vista que o acórdão "apenas informou a aplicação do prazo prescricional trienal, sem contudo fazer juízo de valor quanto à documentação interruptiva" (e-STJ fl. 619),
+(iii) arts. 322 §2º, 324 §1º, II, do CPC/2015, alegando que "no que diz respeito ao pedido de danos materiais ter sido formulado de forma ilíquida e pela reparação integral (..) e ainda erro de fato, haja vista que o decisum partiu da equivocada premissa de que o valor de alçada atribuído à causa equivaleria à liquidação antecipada do pedido de danos materiais" (e-STJ fl. 619),
+(iv) arts. 85, § 2º, 86 do CPC/2015, aduzindo a existência de contradição no que diz respeito à sucumbência arbitrada, "haja vista que, independentemente de o julgador ter considerado o pedido autoral líquido (..) se o própriodecisum entendeu que houve sucumbência recíproca (..), não poderia ele ter arbitrado" (e-STJ fl. 619).
+Busca, em suma (e-STJ fl. 627):
+(..) a imediata admissão do presente Recurso Especial, de modo a ser remetido à Corte Superior para que lá (i) seja integralmente provido, em razão da violação aos dispositivos infraconstitucionais supramencionados, cassando-se assim o v. acórdão de apelação de fls. 570/578, complementado pelo v. acórdão de embargos de declaração de fls. 599/602, e, por via de consequência, reformando-se o julgado recorrido para determinar-se (i. a) a correção da distribuição dos ônus sucumbenciais (violação aos arts. 85, § 2º e 86, ambos do CPC); (i. b) o reconhecimento de que o pedido de danos materiais foi feito pela reparação integral e de forma ilíquida, a ser quantificado em sede de cumprimento/liquidação de sentença (violação aos arts. 322 §2º e 324, §1º II, ambos do CPC); (i. c) o reconhecimento da interrupção da prescrição trienal (violação ao art. 202, VI, do CC); (ii) ou, no mínimo, para que seja proferido novo julgamento pelo TJRJ para sanar os vícios de decisum atacado, conforme destacado quando se tratou das violações ao art. 1.022,1e II, do CPC.
+Foram oferecidas contrarrazões (e-STJ fl. 684).
+No agravo (e-STJ fls. 715/728), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 755).
+É o relatório.
+Decido.
+Com relação à afronta ao art. 1.022 do CPC/2015, importa esclarecer que os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+Verifica-se que o acórdão abordou as questões levantadas nas razões do recurso, conforme consta na decisão (e-STJ fls. 600/601):
+Pois bem, no que se refere à interrupção da prescrição, tem-se que nos e-mails mencionados pela embargante há menção a alguns processos onde a recorrente figurou como ré e informações sobre sentenças, não havendo tratativas para "cobrança" dos valores.
+O artigo 202, VI do Código Civil exige que haja ato que importe reconhecimento pelo devedor, o que não ocorreu na presente hipótese.
+No que se refere ao valor da indenização, o Acórdão a analisou em detalhes, não havendo nenhuma explicação a ser dada, tampouco omissão a ser sanada, competindo ao autor da ação quantificar a divida.
+Ao contrário do que afirmado pela recorrente, a mesma não pode afirmar que se sagrou vencedora da maior parte dos pedidos, eis que há uma quantificação exata ainda a ser elaborada, tendo em vista que o Acórdão autorizou alguns débitos do valor apontado, como restou claramente disposto.
+Sendo assim, para que não pairem dúvidas, resta estabelecido que o pedido não era genérico, mas que a quantificação do pedido veio desacompanhada de elementos probatórios suficientes, o que leva este Colegiado a apontar como dano a soma dos valores a que chegaram as rés/apeladas, sendo certo de que da referida quantia deverão ser descontados valores porventura pagos pelas rés aos ganhadores das demandas, assim como os pagamentos realizados fora do prazo prescricional.
+Logo, os honorários arbitrados mostram-se adequados.
+Por fim, assiste razão a embargante quando se refere à correção monetária, que deve ser contada de cada desembolso e não da citação.
+Isto posto, acolhe-se parcialmente o recurso, apenas para sanar a contradição e determinar que a correção monetária incida de cada desembolso comprovado pela ora recorrente.
+Com efeito, rever a conclusão do Tribunal de origem, na forma pretendida pela parte, demandaria o reexame do acervo fático dos autos, procedimento vedado em sede especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo de DDM Cobrança Empresarial Ltda ME. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Não obstante a insurgência da agravante, o recurso não merece acolhida. Isso porque, conforme destacado na decisão recorrida, não há falar em violação doart. 1.022 do CPC/2015, haja vista que a ofensa somente ocorre quando o acórdão deixa de se pronunciar sobre questão jurídica ou fato relevante para o julgamento da causa. A finalidade dos embargos de declaração é complementar o acórdão quando nele identificada omissão, ou ainda aclará-lo, dissipando obscuridade, contradição ou erro material.
+No mais,para modificar asconclusões do TJRJ acerca da falta de comprovação de fato constitutivo do direito da parte, da inexistência de danos e da distribuição dos ônus sucumbenciais, seria imprescindível o reexame das provas produzidas nos autos,procedimento vedado nesta fase recursal, nos termos da Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno da DDM COBRANÇA EMPRESARIAL LTDA.  ME ("DDM").
+É como voto.
