@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 187):
+PLANO DE SAÚDE - NEGATIVA DE TRATAMENTO - INVIABILIDADE - URGÊNCIA CONSTATADA - EXCEÇÃO AO PERÍODO DE CARÊNCIA - COBERTURA DETERMINADA -SENTENÇA CONFIRMADA - RECURSO NÃO PROVIDO.
+Nas razões do recurso especial, a agravante alega violação aos arts. 35-C, parágrafo único da Lei 9.656/98. Para tanto, sustenta, em síntese, que: (i) "é certo que quando se fala em caráter de urgência/emergência, o instituto não deve ser banalizado a ponto de o encarar como se não houvesse norma que o regule, o que busca o Recorrido" - (fl. 198); (ii) "o caso do Recorrido é claramente um caso de emergência, não urgência, pois não se tratou de um acidente pessoal ou mesmo de complicação no processo gestacional, nos termos como informa a lei 9656/98" - (fl. 199); (iii) "restou claro que o Recorrido se encontrava em carência quando do pedido para liberação do procedimento, restando assim indevida a restituição dos valores despendidos de forma particular decorrentes do atendimento sem cobertura, naquele momento, em razão das carências contratuais e legais" - (fl. 200).
+A parte agravada deixou transcorrer in albis o prazo para contrarrazões.
+É o relatório.
+A Corte de origem, ao manter a sentença, consignou pela abusividade na recusa de atendimento nas hipóteses de carência/emergência sob a tese de não cumprimento de período de carência.
+A propósito, o seguinte trecho do acórdão recorrido (fls. 187/188):
+Com efeito, a R. sentença deu exata solução à espécie, e merece prevalecer.
+É que não há falar-se em carência para hipótese de urgência ou emergência, que supera qualquer alegação de cláusula contratual que impediria o atendimento. Assim, não há como justificar a recusa perpetrada, verificado o caráter urgencial da internação e de todo tratamento, incluindo-se quimioterapia e medicamentos, conforme prescrito ao Autor, ante o diagnóstico de moléstia grave (linfoma não-Hodgkin), patente o risco de morte, de modo que ficou bem caracterizada a exceção à regra do período de carência.
+De aí que deve mesmo a Operadora custear todos os procedimentos necessários para o tratamento do Requerente, exatamente como deferido na sentença, garantindo-se, assim, o objetivo do ajuste.
+LEGEM HABEMUS, ver o Artigo 12, V, "c", da Lei 9.656/98.
+Nesse panorama, não se verifica ofensa ao art. 35-C da Lei 9.656/98, na medida em que o v. acórdão estadual se coaduna com a jurisprudência desta eg. Corte, no sentido de que "A cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação abusiva" (Súmula 597).
+Nesse cenário, estando o v. acórdão estadual em consonância com a jurisprudência desta eg. Corte, o presente apelo nobre encontra óbice na Súmula 83/STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte recorrida para R$ 1.650,00 (mil seiscentos e cinquenta reais).
+É como voto.
