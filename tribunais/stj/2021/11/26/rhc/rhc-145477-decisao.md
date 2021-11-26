@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso emhabeas corpuscom pedido de liminar interposto porEDSON FERNANDO PENAcontra acórdão doTribunal de Justiça do Estado do Rio Grande do Sul(HC n. 5007829-05.2021.8.21.7000).
+O recorrente teve a prisão preventiva decretada diante de representação da autoridade policial (fl. 14) e foi denunciado por suposta prática do crime de associação para o tráfico, descrito no art. 35 da Lei n. 11.343/2006.
+O decreto prisional fundou-se na prova de existência do delito, bem como nos indícios suficientes de autoria e no risco de reiteração delitiva. Impetrado writ na origem, a ordem foi denegada.
+O recorrente alega que está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar.
+Sustenta que não há indícios de que ele ponha em risco a instrução criminal, a ordem pública ou a ordem econômica, tendo sidosua prisão preventiva baseada na gravidade abstrata do delito.
+Requer, liminarmente e no mérito, a revogação do mandado de prisão para que possa responder ao processo em liberdade.
+A liminar foi indeferida, nos termos da decisão de fls. 140-141.
+As informações foram prestadas às fls. 165-167 e 188-190.
+O Ministério Público Federal apresentou parecer pelo desprovimentodorecurso emhabeas corpus(fls. 194-203).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 78-81, destaquei):
+No caso em exame, o paciente, juntamente com outros acusados, foi denunciado como incurso nas sanções do artigo 35, da Lei nº 11.343/06. De acordo com o narrado na denúncia "O denunciado LUCIDIO, vulgo "Homi" e "Cidi", mesmo cumprindo pena privativa de liberdade na Penitenciária Modulada Estadual de Montenegro, aparece no topo da hierarquia da associação, sendo o responsável pelo fornecimento das drogas comercializadas pelo grupo. Para tanto, LUCIDIO contava com o apoio dos denunciados MOARA (Gordinha) e EDSON (Rato), que faziam a intermediação da distribuição das drogas em Jaguarão, entregando-as diretamente nos pontos de venda (bocas de fumo) ou para Weslen (Chapa), que se encarregava do abastecimento de diversas bocas de fumo na cidade. Ademais, o denunciado LUCÍDIO mantinha contato direto com Weslen1sobre a compra e venda de maconha, crack e cocaína, que lhe eram entregues pelos denunciados MOARA (Gordinha) e EDSON (Rato)."
+Consigo que o paciente não ostenta condições pessoais favoráveis:
+ ..
+Assim, considerando as condições pessoais do agente, bem como os elementos já indicados quando do indeferimento da liminar postulada, ratifico a decisão que indeferiu a liminar, diante da presença de materialidade do delito, indícios suficientes de autoria, bem como pela segregação cautelar ser necessária para evitar a prática de novas insfrações penais e adequada diante da gravidade do crime, em tese, praticado e pelas circunstâncias pessoais do paciente (artigo 282,incisos I e II, do Código de Processo Penal).
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Note-se que, no presente caso, a reiteração delitiva, os maus antecedentese osindícios de que o recorrente integre organização criminosaforam considerados pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Conforme orientação jurisprudencial do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+O suposto envolvimento do agente com organização criminosa revela sua periculosidade, o que justifica a prisão preventiva como forma de garantir a ordem pública.
+Ressalte-se ainda ofato de orecorrenteestar foragido (fl.189),pois, até o presente momento, o mandado de prisão expedido em seu desfavor não foi cumprido, reforça que a medida extrema é indispensável para assegurar a aplicação da lei penal (AgRg no HC n. 616.706/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/11/2020).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
