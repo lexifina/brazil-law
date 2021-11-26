@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interpostopor VALDO FELISBERTO DE OLIVEIRA, com fulcronas alíneas "a"e"c"" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO assim ementado (e-STJ fl. 248):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO CONFIGURADA. PPP APRESENTADO APENAS JUDICIALMENTE. DIB NA DATA DO AJUIZAMENTO DA AÇÃO. EMBARGOS PROVIDOS.
+1. Trata-se de embargos de declaração opostos pelo INSS contra acórdão da Terceira Turma que deu provimento à apelação da parte autora, concedendo a aposentadoria por tempo de contribuição desde a DER.
+2. Em suas razões recursais, o INSS alega que o julgado fixou a DIB na DER, sem considerar que foram utilizadas provas juntadas apenas em juízo.
+3. Conforme disciplina o art. 1022 do CPC/15, são cabíveis embargos de declaração contra qualquer decisão, a fim de que se esclareça obscuridade ou elimine contradição, para suprir omissão ou questão de que o juiz devia se pronunciar de ofício ou a requerimento, ou para corrigir erro material.
+4. No presente caso, verifica-se que há omissão do acórdão na adequada fixação da DIB, a qual se passa a sanar. Tendo a aposentadoria sido deferida em sede de apelação, cabia à Turma estabelecer tal marco, mas o acórdão embargado não levou em consideração que houve PPP juntado apenas judicialmente.
+5. Destarte, cabe fixar a DIB na data do ajuizamento da ação, uma vez que as provas analisadas em juízo não haviam sido apresentadas administrativamente.
+6. Embargos de declaração providos, com efeitos infringentes, para determinar que a DIB do benefício seja fixada na data do ajuizamento da ação.
+Rejeitados os aclaratórios (e-STJ fls. 275/279).
+Nas suas razões, o recorrente aponta, além do dissídio jurisprudencial,violação dos arts. 49, II, e 54 da Lei n. 8.213/1991,ao argumento de que, "preenchidos os requisitos no requerimento administrativo, este deve ser o termo inicial do benefício, independentemente da juntada de provas apenas posteriormente (nos autos judiciais)" (e-STJ fl. 302).
+Contrarrazões às e-STJ fls. 310/314.Juízo positivo de admissibilidade àe-STJ fl. 316.
+Passo a decidir.
+Verifico que o acórdão recorrido fixou o termo inicial da concessão do benefíciona data do ajuizamento da ação, sob o seguinte fundamento (e-STJ fl. 247):
+Tendo a aposentadoria sido deferida em sede de apelação, cabia à Turma estabelecer tal marco, mas o acórdão embargado não levou em consideração que houve PPP juntado apenas judicialmente.
+Destarte, cabe fixar a DIB na data do ajuizamento da ação, uma vez que as provas analisadas em juízo não haviam sido apresentadas administrativamente.
+No entanto, observa-se que o acórdão recorrido, ao fixar o termo inicial do benefício a partir do ajuizamento da açãoem hipótese em que houve pedido administrativo, destoou da orientação deste Tribunal.
+Com efeito, prevalece nesta Corte a orientação de que o "termo inicial do benefício deverá ser a partir da data do efetivo requerimento administrativo, observada a prescrição quinquenal, uma vez que é uníssona a orientação de que a formulação de requerimento administrativo suspende a contagem prescricional, cujo curso retomará com a decisão final da Administração sobre o pleito" (AgRg no REsp 1.362.580/RJ, relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 25/04/2017, DJe 08/05/2017).
+Na esteira da aludida compreensão, a Primeira Seção ratificou o entendimento, esclarecendo que "a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria" (Pet 9.582/2015, relator Ministro Napoleão Nunes Maia Filho, DJe 16/09/2015).
+No mesmo sentido:
+PREVIDENCIÁRIO. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. APOSENTADORIA POR TEMPO DE SERVIÇO. TERMO INICIAL. DATA DO REQUERIMENTO ADMINISTRATIVO QUANDO JÁ PREENCHIDOS OS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. COMPROVAÇÃO DO TEMPO ESPECIAL DURANTE A INSTRUÇÃO PROCESSUAL. IRRELEVÂNCIA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - In casu, conforme asseverado pelo tribunal de origem, na data do requerimento administrativo o segurado já havia adquirido direito à aposentadoria por tempo de serviço, ainda que parte do tempo especial necessário para a concessão do benefício somente tenha sido reconhecido durante a instrução processual.
+III - A comprovação extemporânea do tempo de serviço especial não afasta o direito do segurado à concessão da aposentadoria por tempo de serviço na data do requerimento administrativo, quando preenchidos os requisitos para a concessão do benefício previdenciário.
+IV - Recurso Especial do segurado provido. (REsp 1.610.554/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 18/04/2017, DJe 02/05/2017) (Grifos acrescidos).
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. TERMO INICIAL DA CONCESSÃO DO BENEFÍCIO. REQUERIMENTO ADMINISTRATIVO.
+1. Hipótese em que o Tribunal local consignou: "conquanto o autor tenha formulado requerimento administrativo, o termo inicial deve ser fixado na data da citação (29/03/2010 - fl. 264), haja vista que apenas com a elaboração em juízo do laudo pericial de fls. 495/502 é que foi possível o reconhecimento dos períodos especiais requeridos e a concessão da aposentadoria especial" (fl. 625, e-STJ).
+2. A orientação jurisprudencial do Superior Tribunal de Justiça consolidou-se no sentido de que, havendo requerimento administrativo, como no caso, este é o marco inicial do benefício previdenciário. Incidência da Súmula 83 do STJ.
+3. A Primeira Seção do STJ, no julgamento da Pet 9.582/2015, Relator Ministro Napoleão Nunes Maia Filho, DJe 16.9.2015, consolidou o entendimento de que "a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria".
+4. Recurso Especial provido.
+(REsp 1.656.156/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2017, DJe 02/05/2017) (Grifos acrescidos).
+Na espécie, uma vez que houve requerimento administrativo em04/10/2012(e-STJ fl. 2), seisanos antes da propositura da presente demanda (2018), a irresignação merece ser acolhida.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, a fim de fixar o termo inicial do benefício a partir do requerimento administrativo, respeitada a prescrição quinquenal.
+Publique-se.Intimem-se.
