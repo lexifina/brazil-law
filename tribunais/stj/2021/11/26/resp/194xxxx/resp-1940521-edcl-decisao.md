@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por UNIMED DE SANTA BARBARA D"OESTE E AMERICANA COOPERATIVA DE TRABALHOem face da r. decisão monocrática de fls. 459/460, e-STJ, que determinou a remessa dos autos ao Tribunal de origem, com a respectiva baixa, por se tratar de recurso similar ao tema repetitivo n. 1.034do STJ.
+Nas razões dos embargos de declaração, a parte embargante sustenta que "ao contrário do que restou consignado, o caso dos autos não envolve nenhuma das matérias apreciadas nos Recursos Especiais Repetitivos 1.818.487/SP, 1.816.482/SP e 1.829.862/SP delimitado no Tema 1.034, do Superior Tribunal de Justiça. Inclusive, em sede de juízo de admissibilidade, realizado no Egrégio Tribunal de Justiça do Estado de São Paulo, sobreveio, inicialmente, decisão inadmitindo o Recurso Especial interposto com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal de 1.988, por supostamente se tratar de matéria envolvendo o Tema 1034.Na oportunidade, em face da decisão denegatória, foi interposto recurso cabível (Agravo Interno) demonstrando que o caso dos autos envolve rescisão do contrato do plano de saúde coletivo empresarial e seus efeitos sobre os beneficiários e NÃO sobre o tema 1.034, que circunda sobre as condições do empregado inativo" (fl. 464).
+Afirma, ainda, que "o referido Recurso Repetitivo, tema 1.034, já fora julgado em Dezembro/2.020 e a referida decisão publicada em Fevereiro de 2.021, motivo pelo qual não há que se falar em suspensão dos autos até o julgamento definitivo do tema, posto que já decidido"(fl.465)
+É o relatório. Decido.
+De uma leitura atenta das razões recursais, observo que se revelam plausíveis as alegações apresentadas pelo embargante.
+Compulsando os autos, verifica-se que, de fato, o feito se trata de "rescisão do contrato do plano de saúde coletivo empresarial e seus efeitos sobre os beneficiários".
+Em razão da omissão apontada, torno sem efeito a decisão de fls. 459/460, restando prejudicadas as demais alegações.
+Diante do exposto, acolho osembargos de declaração e torno sem efeito a decisão de fls. 459/460(e-STJ)
+Após, retornem os autos conclusos para apreciação do recurso especialde fls. 384/404.
+Publique-se.
