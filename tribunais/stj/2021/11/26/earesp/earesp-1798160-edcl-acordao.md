@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer dos embargos.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de embargos de declaração de RODRIGO JENNINGS DE OLIVEIRA em face de acórdão que acolheu anteriores embargos de declaração para substituir o não conhecimento do agravo regimental pelo seu parcial conhecimento e provimento. O acórdão ficou assim ementado:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO.INADMISSIBILIDADE DO RECURSO ESPECIAL PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO A TODAS AS RAZÕES UTILIZADAS PELO TRIBUNAL A QUO PARA INADMITIR O RECURSO ESPECIAL. INOBSERVÂNCIA DA DIALETICIDADE RECURSAL.SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ.IMPOSSIBILIDADE DE SANAR OS VÍCIOS DE IMPUGNAÇÃO EM SEDE DE AGRAVO REGIMENTAL. OMISSÃO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS ACOLHIDOS.
+1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+1.1. Na espécie, o acórdão embargado foi omisso em relação a teses do agravo regimental que foram sanadas no presente voto para afastar o não conhecimento dele.
+1.2. O agravo em recurso especial que não impugna especificamente os fundamentos adotados na decisão de inadmissibilidade do recurso especial não merece conhecimento.
+2. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial, sendo, pois, vedado à parte sanar os vícios de impugnação à decisão agravada de origem em sede de agravo regimental.
+3. Embargos de declaração acolhidos para substituir o não conhecimento do agravo regimental pelo parcial conhecimento e seu desprovimento." (fl. 957)
+O embargante sustenta que o acórdão embargado é omisso em relação à tese de que o recurso especial deve seguir em relação ao art. 105, III, "a", da Constituição Federal -CF, quenão exige a demonstração de dissídio jurisprudencial com cotejo analítico. Aponta também omissão na tese de que a falta ou deficiência de cotejo analítico pode ser arguida a qualquer tempo, a título de matéria de ordem pública. Acrescenta omissão a respeito de ser exigida similitude fática entre os casos confrontados quando o dissídio jurisprudencial ocorre em matéria estritamente processual.
+Requer o acolhimento dos embargos de declaração para que sejam sanados os vícios, com efeitos infringentes, e afastadas a obscuridade e a omissão.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOAGRAVO EM RECURSO ESPECIAL. 1) OMISSÃO. INOVAÇÃO RECURSAL. 2) EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, a teor do art. 619 do Código de Processo Penal - CPP, e erro material, conforme art. 1022, III, do Código de Processo Civil - CPC.
+1.1. No caso em tela, as teses suscitas pela Defesa a título de omissão não foram oportunamente alegadas, razão pela qual se verificou a inadmissívelinovação recursal.
+2. Embargos declaratórios não conhecidos.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+Constou no acórdão embargado que o agravo regimental do embargante deveria ser conhecido, mas desprovido, pois no agravo em recurso especial não foi impugnado o óbice de falta de apresentação do dissídio jurisprudencial com cotejo analítico entre o acórdão recorrido e o acórdão paradigma. Consignou-se, também, que a falta de impugnação do referido óbice era suficiente para o não conhecimento do agravo em recurso especial. Acresceu-se que a tese de que há dispensa de cotejo analítico para casos de dissídio notório não deveria ser conhecida em razão da impugnação não ter constado do agravo em recurso especial, tendo ocorrido preclusão consumativa.
+No presente embargos de declaração, o embargante inova em suas teses defensivas para alegar omissões. Não constaram dos anteriores embargos de declaração, nem do agravo regimental (eis que os anteriores embargos foram acolhidos para desprover o agravo regimental), aquestão a respeito da exigência ou não de similitude fática para dissídio jurisprudencial em matéria estritamente processual,a questão do cotejo analítico em dissídio jurisprudencial ser matéria de ordem pública e a questão do seguimento do recurso especial com base no art. 105, III, "a", da CF, que não exige cotejo analítico.Destarte, o embargos de declaração não devem ser conhecidos, pois configurada a inadmissível inovação recursal. Citam-se precedentes (grifos nossos):
+PENAL. PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. INOVAÇÃO RECURSAL. VEDAÇÃO.OMISSÃO INEXISTENTE. ABUSO DO DIREITO DE RECORRER. TRÂNSITO EM JULGADO. BAIXA DOS AUTOS.
+1. Os primeiros embargos limitaram-se a suscitar que a negativa de seguimento do extraordinário configuraria usurpação de competência do STF.
+2. Com efeito, reveste-se de inovação a alegação de que "(..) a questão tratado nos presentes autos não tem semelhança com a tratada no AI 791. 292-QO-RG, não se aplicando ao caso", manobra processual vedada pela pacífica jurisprudência do STJ e que afasta a alegação de omissão no julgado. Precedentes.
+ ..
+5. Embargos de declaração rejeitados com determinação de certificação do trânsito em julgado e baixa dos autos à origem.
+(EDcl nos EDcl no AgRg no RE no AgRg no AREsp 734.165/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 5/4/2017, DJe 11/4/2017).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. SEGUNDO EMBARGOS DE DECLARAÇÃO QUE NÃO SE DIRIGE AO ACÓRDÃO PROFERIDO NOS ACLARATÓRIOS QUE O ANTECEDEU. INVIABILIDADE. INOVAÇÃO ARGUMENTATIVA NA VIA DOS ACLARATÓRIOS.DESCABIMENTO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL A ENSEJAR A CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.EMBARGOS DE DECLARAÇÃO REJEITADOS.
+ ..
+3. Não configura omissão, passível de ser sanada na via dos declaratórios, o não enfrentamento das questões relativas (1) à desclassificação da conduta de extorsão, prevista no art. 158, § 1.º, do Código Penal, para a de Exercício arbitrário das próprias razões, capitulada no art. 345 do Código Penal, e (2) ao reconhecimento da tentativa no crime de extorsão. Referidas teses defensivas somente foram arguidas no presente momento - segundos embargos de declaração opostos pela Defesa -, cuidando-se de nítida inovação recursal.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg no AREsp 176.588/SC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 26/8/2014, DJe 4/9/2014).
+PENAL. PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DE DIREITO AUTORAL. AUTORIA E MATERIALIDADE COMPROVADAS. VIOLAÇÃO AO PRINCÍPIO CONSTITUCIONAL DO DEVIDO PROCESSO LEGAL.INOVAÇÃO RECURSAL. PERÍCIA DE MATERIAL POR AMOSTRAGEM. VALIDADE E LEGALIDADE.PRECEDENTES DA CORTE. MATÉRIA DEVIDAMENTE ANALISADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O intuito de debater novos temas por meio de embargos de declaração, não trazidos inicialmente no agravo regimental em agravo em recurso especial, se reveste de indevida inovação recursal, não sendo viável, portanto, sua análise, porquanto imprescindível a prévia irresignação no momento oportuno, bem como o efetivo exame da matéria.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 431.902/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/10/2014, DJe 3/11/2014).
+Ante o exposto, voto no sentido do não conhecimento dos embargos de declaração.
