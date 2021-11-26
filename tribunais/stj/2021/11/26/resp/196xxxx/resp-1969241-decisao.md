@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL. CONTRIBUIÇÃO PARA O PIS. CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL (COFINS). INCLUSÃO DO ICMS NA BASE DE CÁLCULO. JUÍZO DE RETRATAÇÃO.
+1. Cabe retratar o acórdão deste tribunal que diverge da orientação firmada pelo Supremo Tribunal Federal em sede de repercussão geral.
+2. É indevida a inclusão dos valores referentes ao ICMS na base de cálculo da contribuição ao PIS e da COFINS.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 1.731/1.737).
+Nas razões do recurso, a recorrente sustenta que, na fixação dos honorários advocatícios, houve violação dos arts. 489, § 1º, e 1.022, II, do CPC/2015 e do art. 20, § 4º, do CPC/73.
+Defende que "foi omisso no que tange à análise dos critérios legais que disciplinam o arbitramento dos honorários quando vencida a Fazenda Pública, inscritas no art. 20, §§3º e 4º do CPC/1973 - normativa que fundamenta o entendimento da União de que a condenação da Fazenda Pública a título de honorários advocatícios, na hipótese, deve se dar em valor líquido fixado no decisum, independentemente de haver fase de liquidação em relação ao pedido principal" (e-STJ fl. 1.744).
+Argui que "a condenação da Fazenda Pública em honorários deve ser líquida, isto é, em montante conhecido. Não havendo valor líquido de condenação, cabe ao juiz utilizar-se dos dois outros critérios para fixação da verba honorária, isto é, ou se utiliza do valor da causa, ou quando inadequado (como nas hipóteses de procedência parcial ou montante exorbitante) se o fixa de forma equitativa. Não se pode aceitar é que a sentença contrária aos interesses defendidos pela FazendaPública transite em julgado sem que seja fixado o valor líquido e exato da condenação em honorários" (e-STJ fls. 1.749/1.750).
+Contrarrazões às e-STJ fls. 1.784/1.795.
+Passo a decidir.
+Conforme relatado, o cerne da questão discutida nesses autos diz respeito ao valor dos honorários a que foi condenada a União. A recorrente defende que, como não há como saber o montante pago indevidamente pela autora da ação a título de Cofins, os honorários devem ser estabelecidos em valor certo e não em percentual sobre o valor da condenação.
+O Tribunal a quofixou os honorários em 10% (dez por cento) sobre o valor da condenação.
+Não assiste razão à recorrente quanto ao pleito de redimensionamento dos honorários advocatícios, pois a pacífica jurisprudência do Superior Tribunal de Justiça é no sentido de que a legislação à época vigente não vinculava o julgador a qualquer percentual ou valor certo, podendo o magistrado arbitrar a verba honorária em percentuais sobre o valor da causa ou da condenação, bem como fixar essasverbas em valor determinado. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC E RESOLUÇÃO STJ N.º 08/2008. AÇÃO ORDINÁRIA. DECLARAÇÃO DO DIREITO À COMPENSAÇÃO DO INDÉBITO TRIBUTÁRIO. HONORÁRIOS. ART. 20, §§ 3º E 4º, DO CPC. CRITÉRIO DE EQUIDADE.
+1. Vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade.
+2. Nas demandas de cunho declaratório, até por inexistir condenação pecuniária que possa servir de base de cálculo, os honorários devem ser fixados com referência no valor da causa ou em montante fixo.
+3. Precedentes de ambas as Turmas de Direito Público e da Primeira Seção.
+4. Tratando-se de ação ordinária promovida pelo contribuinte para obter a declaração judicial de seu direito à compensação tributária segundo os critérios definidos na sentença - não havendo condenação em valor certo, já que o procedimento deverá ser efetivado perante a autoridade administrativa e sob os seus cuidados -, devem ser fixados os honorários de acordo com a apreciação equitativa do juiz, não se impondo a adoção do valor da causa ou da condenação, seja porque a Fazenda Pública foi vencida, seja porque a demanda ostenta feição nitidamente declaratória.
+5. Recurso especial não provido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ n.º 08/2008.
+(REsp 1.155.125/MG, Rel. Ministro CASTRO MEIRA, PRIMEIRA SEÇÃO, julgado em 10/03/2010, DJe 06/04/2010).
+Ademais, a revisão de honorários advocatícios é inviável no recurso especial, por força da Súmula 7 do STJ, salvo se o montante fixado importar valor irrisório ou exorbitante, o que não ocorreu na hipótese.
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO do recurso especial.
+Publique-se. Intimem-se.
