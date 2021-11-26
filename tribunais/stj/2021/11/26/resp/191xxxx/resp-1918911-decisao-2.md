@@ -1,0 +1,45 @@
+DECISÃO
+ITALO NATA MUNHOZ DE LIMAagrava da decisão que não admitiu o seu recurso especial, interposto com fundamento no art. 105, III, "a", da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo(Apelação Criminal n. 1500429-43.2019.8.26.0545).
+Consta dos autos que o agravante foi condenado, em primeiro grau, a 7 anos, 9 meses e 10 dias de reclusão, em regime fechado, mais multa, pela prática dos delitos de tráfico de drogas.
+O Tribunal de origem deu parcial provimento ao recurso da defesa a fim de reduzir a reprimenda imposta e torná-la defintiva em 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, mais multa.
+Nas razões do recurso especial a defesa aponta violação dos arts. 33, caput, da Lei n. 11.343/2006, 155, 156e 386, VI, todos do Código de Processo Penal e 59 do Código Penal. Para tanto, aponta a necessidade de absolvição do réu pela prática do delito de tráfico de drogas porque não há provas suficientes à condenação.
+Afirma que a decisão judicial é baseada apenas em elementos extrajudiciais e que foi imposto ao réu o ônus de provar sua inocência.Esclarece que "em momento algum foi apreendido a droga em sua posse, apenas foi intimado dias depois da prisão do corréu para se apresentar em delegacia para prestar depoimento" (fl. 550).
+Subsidiariamente, pugna pela redução da pena-base ao mínimo legal, haja vista que a consideração dos maus antecedentes levou em conta processo ainda não transitado em julgado.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo parcial provimento do recurso, para que seja aplicada a pena-base no mínimo legal.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+O recurso especial, por sua vez, também é tempestivo, mas não merece conhecimento, pois incide as Súmulas n. 7 do STJ,282 e 356 do STF como se verá.
+I. Impossibilidade de absolvição
+No que tange à pretendida absolvição do recorrente, faço lembrar que, no processo penal brasileiro, em razão do sistema da persuasão racional, o juiz forma sua convicção "pela livre apreciação da prova" (art. 155 do CPP), o que o autoriza a, observadas as limitações processuais e éticas que informam o sistema de justiça criminal, decidir livremente a causa e todas as questões a ela relativas, mediante a devida e suficiente fundamentação.
+Nesse contexto, o legislador ordinário, buscando dar maior efetividade às garantias constitucionais previstas para os acusados em processo penal, estabeleceu, expressamente, a vedação à condenação baseada exclusivamente em provas produzidas no inquérito policial, consoante o disposto no art. 155, caput, do Código de Processo Penal, com a nova redação dada pela Lei n. 11.690/2008, in verbis:
+Art. 155. O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação, ressalvadas as provas cautelares, não repetíveis e antecipadas.
+Isso significa que não se admite, no ordenamento jurídico pátrio, a prolação de um decreto condenatório fundamentado exclusivamente em elementos informativos colhidos durante o inquérito policial, no qual inexiste o devido processo legal (com seus consectários do contraditório e da ampla defesa), sendo certo que o juiz pode deles se utilizar para reforçar seu convencimento, desde que corroborados por provas produzidas durante a instrução processual ou desde que essas provas sejam repetidas em juízo.
+No caso, verifico que as instâncias ordinárias entenderam haver elementos suficientes a comprovar a autoria do réu porque Ítalo, apesar da fuga, foi identificado porque o carro apreendido pertencia à sua tia. De acordo com o Tribunal de origem, a "dinâmica foi relatada com minudência pelas testemunhas da acusação, corroborando a apreensão da droga, a prisão em flagrante de Paulo e as diligências que culminaram com a identificação de Ítalo", sendo certo que "o policial Leandro o apontou como sendo o indivíduo que conduzia o veículo", não sendo crível, consoante as informações dos autos, que o acusado tivesse emprestado o veículo "que sequer lhe pertencia, a um indivíduo que não conhecia muito bem"(todos à fl. 497).
+Nesse ponto, esclareço que a Corte estadual não especificamente acerca da violação dos arts. 155 e 156, ambos do Código de Processo Penal, o que atrai a incidênciadas Súmulas n. 282 e 356 do STF.
+Conforme reiterada jurisprudência do STJ, para que atenda ao requisito doprequestionamento, é necessário que a questão haja sido objeto de debatepelo Tribunal de origem, à luz da legislação federal indicada, com emissãode juízo de valor acerca do dispositivo legal apontado como violado, oque, como visto, não foi nem mesmo oportunizado na espécie.Confiram-se, a propósito, os seguintes precedentes:
+ ..  1. É condição sine qua non ao conhecimento do especial que o acórdãorecorrido tenha emitido juízo de valor expresso sobre a tese jurídica quese busca discutir na instância excepcional, sob pena de ausência depressuposto processual específico do recurso especial, oprequestionamento. Inteligência dos enunciados 211/STJ, 282 e 356/STF.
+ ..  9. Agravo regimental a que se nega provimento (AgRg no AREsp n. 665.385/PR, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe13/4/2015).
+ ..
+2. Ademais, ainda que fosse possível superar o óbice verificado,observa-se que as teses de ilegitimidade ativa e passiva não foram objetode análise pelo acórdão recorrido, não se configurando oprequestionamento, o que impossibilita a sua apreciação na via especialante o teor das Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Ressalte-se que, mesmo quando se tratar de matéria de ordem pública, ajurisprudência do Superior Tribunal de Justiça consolidou-se no sentido deser indispensável o prequestionamento para fins de conhecimento do recursoespecial.
+4. Agravo interno não provido. (AgInt no AREsp n. 832.307/PR, Rel.Ministro Luis Felipe Salomão, 4ª T., DJe 18/10/2016)
+Ainda que assim não fosse, observo, pela atenta leitura da sentença, que a condenação se baseou em especial no depoimento em juízo do policial Leandro, que afirmou ter reconhecido o recorrente na direção do veículo. Ademais, ficou claro no decisum de primeiro grau que afirmação do réu de que teria emprestado o veículo para Lucas não tem nenhum respaldo em todas as demais provas dos autos.
+Assim, não há como se acolher a tese de que a condenação foi lastreada exclusivamente nos elementos informativos obtidos ao longo da investigação policial, bem como a de inversão do ônus da prova. Consequentemente, fica afastada a apontada violação dos arts. 155 e 156 do CPP.
+Ademais, verifico que as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do recorrente pelocrimede tráfico de drogas.
+Dessa forma, para entender-se pela absolvição do agravante, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, incabível em recurso especial, a teor do enunciado na Súmula n. 7 do STJ.
+Nesse sentido, menciono:
+ ..
+2. Não há ofensa ao art. 155 do Código de Processo Penal, pois acondenação não está lastreada apenas nos depoimentos extrajudicias,mas também nos testemunhos judicias de diversos agentes policiaisque participaram da investigação.
+3. Um vez assentada pelas instâncias ordinárias que há comprovaçãosuficiente de todas as elementares constitutivas do delito previstono arts. 33 da Lei n.º 11.343/2006, maiores discussões acerca dograu de confiabilidade e solidez das provas já valoradas pelasinstâncias ordinárias exigiriam, necessariamente, amplo reexame doconjunto fático-probatório, o que não é possível no recursoespecial, conforme se extrai da Súmula n.º 7/STJ.
+ ..
+(AgRg no AREsp n. 1.335.772/PE, Rel. Ministra Laurita Vaz, 6ª T., DJe 27/2/2020).
+Não há, portanto, como acolher a apontada violação legal.
+II. Pena-base
+A defesa pleiteia, ainda, o decote dos maus antecedentes.Todavia, a Corte estadual não se pronunciou sobre o tema na apelação, e osembargos declaratórios opostos não discorreram sobre a matéria.
+Conforme reiterada jurisprudência do STJ, para que atenda ao requisito doprequestionamento, é necessário que a questão haja sido objeto de debatepelo Tribunal de origem, à luz da legislação federal indicada, com emissãode juízo de valor acerca do dispositivo legal apontado como violado, oque, como visto, não foi nem mesmo oportunizado na espécie.
+Assim, constato a ausência de prequestionamento dessasmatérias, a atraira incidência das Súmulas n. 282 e 356 do STF, o que impede o conhecimento
+do recurso especial nesse particular.
+III. Dispositivo
+À vista do exposto,conheço do agravo para não conhecerdorecurso especial interposto por Ítalo Natã Munhoz de Lima.
+Publique-se e intimem-se.
