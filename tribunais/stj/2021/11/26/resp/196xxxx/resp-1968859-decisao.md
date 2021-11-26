@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por TANIA MARIA LOPES COSTA E SILVA, com respaldonas alíneas "a" e "c"do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃOassim ementado (e-STJ fls. 274):
+PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. SEGURADO DESEMPREGADO. BAIXA RENDA CONFIGURADA. REQUISITOS PREENCHIDOS. BENEFÍCIO DEVIDO.
+1. O auxílio-reclusão é devido, nas mesmas condições da pensão por morte, aosdependentes de segurado de baixa renda recolhido à prisão.
+2. O C. Superior Tribunal de Justiça, no julgamento do Recurso Especial nº1.485.417/MS, submetido ao rito do art. 543-C do CPC/1973 (atual 1.036 do CPC/2015) e da Resolução STJ 8/2008, firmou a tese de que "Para a concessão de auxílio-reclusão (art. 80 da Lei8.213/1991), o critério de aferição de renda do segurado que não exerce atividade laboral remunerada no momento do recolhimento à prisão é a ausência de renda, e não o último salário de contribuição.".
+3. Dessarte, estando o segurado desempregado à época em que foi preso, é irrelevante o valor de seu último salário-de-contribuição, pois caracterizada a condição de baixa renda.
+4. Preenchidos os demais requisitos, faz jus a parte autora ao recebimento do benefício de auxílio-reclusão.
+5. O termo inicial do benefício deve ser fixado na data do recolhimento do segurado à prisão (04/05/2017), nos termos do artigo 74, I, da Lei nº 8.213/91 (com a redação vigente à época).
+6. Considerando a ausência de salário de contribuição na data do recolhimento do segurado à prisão, o valor do auxílio-reclusão deve ser fixado em um salário mínimo.
+7. A correção monetária deverá incidir sobre as prestações em atraso desde as respectivas competências e os juros de mora desde a citação, observada eventual prescrição quinquenal, nos termos do Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, aprovado pela Resolução nº 267/2013, do Conselho da Justiça Federal (ou aquele que estiver em vigor na fase de liquidação de sentença). Os juros de mora deverão incidir até a datada expedição do PRECATÓRIO/RPV, conforme entendimento consolidado pela colenda 3ª Seção desta Corte. Após a devida expedição, deverá ser observada a Súmula Vinculante 17.
+8. Com relação aos honorários advocatícios, tratando-se de sentença ilíquida, o percentual da verba honorária deverá ser fixado somente na liquidação do julgado, na forma do disposto no art. 85, § 3º, § 4º, II, e § 11, e no art. 86, todos do CPC/2015, e incidirá sobre as parcelas vencidas até a data da decisão que reconheceu o direito ao benefício (Súmula 111 do STJ).
+9. Apelação da parte autora provida. Fixados, de ofício, os consectários legais.
+Embargos de declaração rejeitados (e-STJ fls. 369/388).
+Em suas razões, a parte recorrente aponta violação do art. 535, II, do CPC/1973, por negativa de prestação jurisdicional, e, no mérito, alega vulneração dos arts. 75 e 80 da Lei n. 8.213/1991, ao argumento de que faz jus ao cálculo do valor integral do auxílio-reclusão (100%),"do que seria devido ao segurado em caso de aposentadoria na data do encarceramento, da mesma forma que se calculava a pensão por morte, antes da Reforma da Previdência" (e-STJ fl. 396).
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 420/421.
+Passo a decidir.
+De início, não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, nenhuma contrariedade da norma invocada.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material. 2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018).
+4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+No caso, o Tribunal de origem assentou que a RMI do benefício fosse fixado em um salário-mínimo, como explicitou o excerto do acórdão recorrido (e-STJ fl. 271):
+No caso observa-se que, à época em que foi preso, o segurado estavadesempregado, sendo, nos moldes da tese firmada pelo C. STJ, irrelevante o fato de seu último salário-de-contribuição ter sido superior ou não ao limite estabelecido.
+ ..
+Logo, conclui-se que o segurado recluso possuía a condição de baixa renda para o fim de concessão de auxílio-reclusão, cumprindo, dessa forma, todos os requisitos ensejadores do pedido autoral, razão pela qual a r. sentença deve ser reformada.
+O termo inicial do benefício deve ser fixado na data do recolhimento do segurado à prisão (04/05/2017), nos termos do artigo 74, I, da Lei nº 8.213/91 (com a redação vigente à época).
+No que tange à RMI do benefício, considerando a ausência de salário de contribuição na data do recolhimento do segurado à prisão, o valor do auxílio-reclusão deve ser fixado em um salário mínimo.
+Sobre o tema do auxílio-reclusão, disciplina o art. 80 da Lei n. 8.213/1991 que este será devido "nas mesmas condições da pensão por morte".
+Nesse contexto, esta Corte possui a compreensão de que aapuração do valor do salário de benefício doauxílio-reclusão também segue os mesmoscritérios da pensão por morte,devendo ser apurado com base na média aritmética simples dos maiores salários de contribuição correspondentes a oitenta por cento de todo o período contributivo.
+A propósito:PREVIDENCIÁRIO.AUXÍLIO-RECLUSÃO.SEGURADO SEM RENDA EM PERÍODO DE GRAÇA. VALOR DO BENEFÍCIO . CÁLCULO COM BASE NO SALÁRIO DE BENEFÍCIO.
+1. O acórdão recorrido entendeu que o valor do benefício deauxílio-reclusãodeve corresponder a um salário mínimo mensal quando o segurado não possui renda por estar em período de graça, na data do seu efetivo recolhimento à prisão.
+2. Não há previsão legal de para que, na ausência de salário de contribuição, o valor do benefício doauxílio-reclusãoseja de um salário mínimo. Da interpretação dos arts. 28, 29, 33, 75 e 80, da Lei 8.213/1991, extrai-se que a apuração do valor do salário de benefício doauxílio-reclusãosegue os mesmos critérios da pensão por morte, de modo que será apurado com base na média aritmética simples dos maiores salários de contribuição correspondentes a oitenta por cento de todo o período contributivo.
+3. Recurso especial provido.(REsp 1.808.750/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/6/2019, DJe 2/8/2019.)
+No mesmo sentido, as seguintes decisões monocráticas: REsp 1.937.646/SP, Rel. Min.MANOEL ERHARDT (desembargador convocado doTRF5), DJe 03/11/2021;EDcl no REsp1.926.412/SP, Relator Min. Mauro Campbell Marques, DJe 29/04/2021; AREsp 1.367.708/ES, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 24/08/2020.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PARCIAL PROVIMENTO ao recurso especial, a fim de determinar que o valor do salário de benefício doauxílio-reclusãosejaapurado com base na média aritmética simples dos maiores salários de contribuição correspondentes a oitenta por cento de todo o período contributivo.
+Publique-se. Intimem-se.
