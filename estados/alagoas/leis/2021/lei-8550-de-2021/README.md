@@ -1,0 +1,5 @@
+# Lei nº 8.550, de 25 de novembro de 2021, do Estado de Alagoas
+
+REFERENTE AO ANTEPROJETO DE LEI QUE TRANSFORMA CARGOS DE JUIZ DE DIREITO COM ATRIBUIÇÕES DE AUXILIAR DE 2ª E 3ª ENTRÃNCIAS EM CARGOS DE DESEMBARGADOR, AMPLIA A COMPOSIÇÃO DE MEMBROS DO TRIBUNAL DE JUSTIÇA DE ALAGOAS, ESTABELECE A ESTRUTURA DE PESSOAL DESSES RESPECTIVOS GABINETES DE DESEMBARGADORES E ADOTA OUTRAS PROVIDÊNCIAS.
+
+Fonte: Assembleia Legislativa (sapl.al.al.leg.br), <https://sapl.al.al.leg.br/norma/2143>; texto: <http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2021/2143/lei_no_8.550_de_25_de_novembro_de_2021.pdf>
