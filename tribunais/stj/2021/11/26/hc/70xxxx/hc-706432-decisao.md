@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUIZ LEANDRO LOPES SANCHES e VAGNER ALEXANDRE DE MAGALHAEScontra acórdão do Tribunal Regional Federal da 3ª Regiãoproferido na Apelação Criminal n.006266-75.2009.4.03.6108.
+Consta dos autos que os Pacientes foram condenadosdefinitivamentenos seguintes termos (fl. 67):
+"03 (três)anos, 9(nove) meses e 12 (doze) dias de detenção e 25 (vinte e cinco) dias -multa, à razão de 115 (um quinto) salário-minimo, vigente à época dos fatos para os Réu Luiz Leandro e Wagner  .. ;a serem cumpridas em regime aberto e substituídas por 2 (duas) restritivas de direitos consistentes em prestação pecuniária, consistente no pagamento do valor de R$ 5.000,00 (cinco mil reais); e prestação de serviços à comunidade ou a entidades públicas, pelo prazo da pena aplicada."
+Além disso, foi declarada a perda dos cargos públicos exercidos pelos Pacientes (fl. 73).
+Neste writ, o Impetrante sustenta, em suma, a existência de constrangimento ilegal na imposição da perda dos cargos ocupados pelos Agentes.
+Requer, em liminar e no mérito, seja afastada a perda dos cargos públicos.
+É o relatório. Decido.
+Constato, de plano,a inadequação da via eleita. Comefeito, conforme jurisprudência pacífica desta Corte Superior de Justiça, "ohabeas corpus não constitui meio idôneo para se pleitear a anulação da decisão que declarou a perda do cargo público ocupado pelo agravante, uma vez que ausente qualquer violação ou ameaça ao direito à liberdade de locomoção". (AgRg no HC 425.465/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 05/12/2017, DJe 19/12/2017.)
+No mesmo sentido:
+" ..  6. A impugnação da pena de perda do cargo público não deve ser conhecida, pois não tem a ver com a liberdade de locomoção do paciente. 7. Recurso ordinário a que se nega provimento." (RHC 165.548, RelatorMARCO AURÉLIO, Relator(a) p/ Acórdão: ALEXANDRE DE MORAES, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-280 DIVULG 25-11-2020 PUBLIC 26-11-2020; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. PERDA DO CARGO. EFEITO SECUNDÁRIO DA PENA.INEXISTÊNCIA DE RISCO OU AMEAÇA AO DIREITO DE IR E VIR. NÃO CONHECIMENTO DO HABEAS CORPUS. AGRAVO REGIMENTAL DESPROVIDO. 1. O Superior Tribunal de Justiça, em consonância com a Súmula n. 694 do STF, possui jurisprudência no sentido de ser incabível habeas corpus contra decisão que decretou a perda da função pública, por não haver violação ao direito de locomoção (AgRg no HC 218.434/MS, Rel.Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 23/6/2015).
+2. É certo que, sendo o habeas corpus o remédio constitucional que visa resguardar a liberdade ambulatorial das pessoas nacionais ou estrangeiras em território brasileiro, não se mostra possível sua utilização para discutir outros efeitos da condenação que não importem em risco ao direito de ir e vir, como a perda do cargo público.
+3. Agravo regimental desprovido."(AgRg no HC 332.052/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/02/2019, DJe 26/02/2019; sem grifos no original.)
+" .. 9. "O habeas corpus, nos moldes da Constituição Federal (inciso LXVIII do artigo 5º), tem por alvo a liberdade de locomoção dos indivíduos. Impropriedade dessa via para discussão da legalidade do efeito secundário da sentença penal condenatória, consubstanciado na "perda do cargo público"."(STF, RHC 93.308/RS, 1.ª Turma, Rel. Min.CARLOS BRITTO, DJe de 06/03/2009.)  .. "(HC 223.339/GO, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 05/12/2013, DJe 03/02/2014; sem grifos no original.)
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPUGNAÇÃO À PERDA DO CARGO PÚBLICO IMPOSTA EM SENTENÇA CONDENATÓRIA. INADEQUAÇÃO DA VIA ELEITA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
