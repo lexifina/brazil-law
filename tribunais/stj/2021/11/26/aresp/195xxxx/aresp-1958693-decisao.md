@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por MONGERAL AEGON SEGUROS E PREVIDÊNCIA S/A contra v. acórdão do Eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO COM VALOR GLOBAL.FALECIMENTO DO SEGURADO. NEGATIVA DA SEGURADORA SOB O ARGUMENTO DE QUE O SÓCIO NÃO FAZIA PARTE DO GRUPO SEGURADO, FIGURANDO APENAS COMO REPRESENTANTE DA ESTIPULANTE DO CONTRATO. SENTENÇA DE PROCEDÊNCIA.
+INSURGÊNCIA DA SEGURADORA.
+PRELIMINAR PROCESSUAL.DE FALTA DE INTERESSE ARGUMENTAÇÃO NÃO SUSCITADA EM PRIMEIRO GRAU. INOVAÇÃO RECURSAL. VEDAÇÃO DO ART. 1.014 DO CPC. NÃO CONHECIMENTO NO PARTICULAR.
+ALEGADA ILEGITIMIDADE ATIVA DOS HERDEIROS, SOB O ARGUMENTO DO AUTOR FALECIDO NÃO FIGURAR COMO SEGURADO NO CONTRATO.SENTENÇA. INSUBSISTÊNCIA. TESE AFASTADA NA MATÉRIA QUE SE CONFUNDE COM O MÉRITO, PORÉM, DEVIDO AO NÃO CONHECIMENTO DAS TESES RECURSAIS DE MÉRITO, O TEMA NÃO COMPORTA DISCUSSÕES. PREFACIAL AFASTADA.
+MÉRITO. RAZÕES TESES RECURSAIS QUE REPRODUZEM CONTESTAÇÃO. AS MESMAS LANÇADAS NA NECESSIDADE DE FUNDAMENTAÇÃO FÁTICA E JURÍDICA ACERCA DOS TERMOS DA DECISÃO OBJETO DA IRRESIGNAÇÃO. OFENSA AO PRINCÍPIO DA DIALETICIDADE CONFIGURADA. RECURSO NÃO CONHECIDO NO PONTO.
+HONORÁRIOS RECURSAIS. EXEGESE DO ART. 85, §11, DO CÓDIGO DE PROCESSO CIVIL.
+RECURSO CONHECIDO PARCIALMENTE, E NESTA EXTENSÃO DESPROVIDO." (e-STJ, fl. 572)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 627/639)
+Nas razões do recurso especial, aagravante alega violação dos arts. 485, VI e 1.022, do CPC/15, sustentando, em síntese, negativa de prestação jurisdicional e a ilegitimidade ativados agravados, herdeiros do Sr. José Leopoldo Rieg, vez que este não fazia parte do grupo segurado das apólices em questão, figurando apenas como representante da estipulante do contrato de seguro.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 1.022 do Código deProcesso Civil, tendo em vista que o v. acórdão recorrido, embora nãotenha examinado individualmente cada um dos argumentos suscitados pelaparte, adotou fundamentação suficiente, decidindo integralmente acontrovérsia.
+Conforme já enfatizado por esta Corte, "A função judicial é prática, sólhe importando as teses discutidas no processo enquanto necessárias aojulgamento da causa. Nessa linha, o juiz não precisa, ao julgar procedentea ação, examinar-lhe todos os fundamentos. Se um deles é suficiente paraesse resultado, não está obrigado ao exame dos demais" (EDcl no REsp15.450/SP, Rel. Ministro ARI PARGENDLER, SEGUNDA TURMA, DJe de 6/5/1996).
+Com efeito, nos termos da jurisprudência consolidada do Superior Tribunalde Justiça, "Não é o órgão julgador obrigado a rebater, um a um, todos osargumentos trazidos pelas partes em defesa da tese que apresentaram. Deveapenas enfrentar a demanda, observando as questões relevantes eimprescindíveis à sua resolução" (REsp 1.814.271/DF, Rel. Ministro HERMANBENJAMIN, SEGUNDA TURMA, DJe de 1º/7/2019).
+A propósito, é entendimento pacífico deste Superior Tribunal que omagistrado não é obrigado a responder a todas as alegações das partes sejá tiver encontrado motivo suficiente para fundamentar a decisão, nem éobrigado a se ater aos fundamentos por elas indicados.
+No mais, quanto à matériade fundo, o Tribunal de origem, consignou o seguinte:
+"Insurge-se a Apelante contra sentença que julgou procedente os pedidos exordiais, pugnando pela reforma da sentença, alegando inicialmente falta de interesse processual, ilegitimidade ativa do espólio e, no mérito, repisa os mesmos fundamentos de fato e de direito declinados em termos de preliminar, notadamente a ausência de condição do Requerente como segurado.
+Contudo, nada obstante as razões expostas pela Apelante, adianto que o recurso merece apenas parcial conhecimento.
+Isto porque, ao analisar as razões recursais apresentadas pela Apelante, denota-se que a mesma está fadada ao insucesso, vez que no que tange ao mérito, a recorrente se limitou a reprisar a narração exposta em sua contestação. Ou seja, não houve impugnação especifica dos fundamentos fáticos e jurídicos consignados na sentença objurgada.
+(..)
+Isto porque, ainda que de forma camuflada, a matéria de fundo trazida em forma de preliminar, em verdade, trata-se de matéria de mérito e conforme constou na sentença restou reconhecida a condição do Sr. José Leopoldo Rieg - falecido - como segurado, sendo, portanto, seus herdeiros legítimos para figurarem no polo ativo da demanda.
+Demais disso, a alegação da Apelante de não ser o falecido requerente, pertencente ao grupo segurado, tendo sua participação limitado-se apenas na representação da estipulante do contrato, é matéria que se confunde com o mérito do recurso e devido, este ter sido abarcado pelo não conhecimento em razão da dialeticidade, a toda evidencia não comporta mais discussão, devendo ser afastada a prefacial e mantida a sentença." (e-STJ, fls. 576/580, g.n)
+Ocorre que a parte recorrente - nas razões do recurso especial - nãorebateu de forma específica e suficiente referida fundamentação, o queatrai, na hipótese, a incidência, por analogia das Súmulas nº 283 e 284 doSupremo Tribunal Federal. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E
+PROCESSUAL CIVIL. SÚMULA Nº 7/STJ E NºS 283 E 284/STF.DEFICIÊNCIANA COMPROVAÇÃO DA DIVERGÊNCIA.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja onão conhecimento do recurso, incidindo, por analogia, o enunciado dasSúmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reforma do julgado demandaria o reexame do contextofático-probatório, procedimento vedado na estreita via do recursoespecial, a teor da Súmula º 7 do Superior Tribunal de Justiça.
+3.A divergência jurisprudencial, nos ermos do art. 541, parágrafo único,do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração,esta, em qualquer caso, com a transcrição dos julgados que configurem odissídio, a evidenciar a similitude fática entre os casos apontados e adivergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo regimental não provido." (AgRg no AREsp 293.137/MS,Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, , julgado em21/10/2014, DJe 29/10/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, doRISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se
