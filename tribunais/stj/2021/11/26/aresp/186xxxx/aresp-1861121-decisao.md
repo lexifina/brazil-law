@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto peloITAÚ UNIBANCO HOLDING S.A.,com fundamento na alínea "a", do permissivo constitucional, contra acórdão proferido pelo eg.Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS.
+AÇÃO DE PRESTAÇÃO DE CONTAS. FUNDO 157.
+1. INVERSÃO DO ÔNUS DA PROVA. CABIMENTO. COMPROVADA A EXISTÊNCIA DA RELAÇÃO JURÍDICA ENTRE AS PARTES, COMO NO CASO DOS AUTOS, REVELA-SE CABÍVEL A INVERSÃO DO ÔNUS DA PROVA, PREVISTA NO ARTIGO 6º, INCISO VIII, DO CÓDIGO DE DEFESA DO CONSUMIDOR, A QUAL RESTOU APLICADA CORRETAMENTE PELO MAGISTRADO A QUO, NÃO MERECENDO REFORMA.
+2. PRESCRIÇÃO. FUNDO 157. OS VALORES INVESTIDOS NO FUNDO 157 NÃO POSSUÍAM PREVISÃO DE RESGATE, TAMPOUCO DE VENCIMENTO, RAZÃO PELA QUAL NÃO INCIDE A PRESCRIÇÃO.
+AGRAVO DE INSTRUMENTO DESPROVIDO."(fl. 64)
+Opostos embargos de declaração por ambas as partes,foram rejeitados.
+Nas razões do recurso especial, oagravante alega ofensa aos arts.1.022do Código de Processo Civil, 205, 206, § 3º, IV e V,do Código Civil, 287, II, a, da Lei 6.404/1976.Sustenta, em síntese, além de negativa de prestação jurisdicional, o reconhecimento da prescrição do direito de exigir a prestação de contas "em relação aos eventos ocorridos no período anterior aos 3 anos que antecederam a propositura da ação, nos termos do art. 287, II, a, da Lei n.6.404/1976, c/c o art. 206, § 3º, IV e V, do Código Civil, ou, subsidiariamente, no período anterior aos 10 anos que antecederam a propositura da ação, nos termos do artigo 205 do CC".
+É o relatório. Decido.
+De início, não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à solução da lide, dessa forma, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+No mesmo sentido, podem ser mencionados os seguintes julgados: AgInt no AREsp 1621374/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020; AgInt no AREsp 1595385/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020; AgInt no AgInt no AREsp 1598925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/05/2020, DJe 25/05/2020; AgInt nos EDcl no REsp 1812571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe 16/03/2020; AgInt no AREsp 1534532/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020; AgInt nos EDcl no AREsp 1374195/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2020, DJe 25/05/2020.
+Além disso, no que concerne aoalegadoreconhecimento da prescrição, o Tribunal de origem assim se manifestou:
+"Com efeito, na ação de prestação de contas, por se tratar de obrigação de natureza pessoal, aplica-se o prazo decenal para a contagem da prescrição, preconizado no art. 205 no Código Civil.
+Contudo, o caso dos autos é peculiar. Explico.
+O objeto da presente ação de prestação de contas refere-se ao fundo fixo, denominado Fundo 157, o qual foi criado pelo governo militar pelo Decreto-Lei nº 157, de 10.2.1967, e permitia que os contribuintes que tivessem Imposto de Renda devido investissem parte deste na compra de quotas de fundos de investimento em ações. O valor investido seria abatido do total devido.
+Além disso, o Fundo 157 não possuía previsão de resgate, tampouco de vencimento, razão pela qual não incide a prescrição." (fl. 62)
+Sendo assim, não há como se afastar a conclusão do aresto recorrido com relação àprescrição da pretensão da parteagravada, tendo em vista que seria necessário interpretar as circunstâncias fáticas e probatórias da lide, a atrair a vedação contida na Súmula 7/STJ desta egrégia Corte.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial, nos termos do art. 253, parágrafo único, II, b, do RISTJ.
+Publique-se.
