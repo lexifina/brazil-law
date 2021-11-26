@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 245/259) interposto contra decisão do Ministro Presidente desta Corte que conheceu do agravo para não conhecer do recurso especial.
+Os embargos de declaração foram rejeitados (e-STJ fls. 240/242).
+Em suas razões, o agravante afirma que não busca o reexame de provas.
+Repisa ainda os argumentos do especial, quanto à apontada violação dos arts. 50 e 187 do CC/2002.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Sem contrarrazões (e-STJ fl. 262).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. NÃO CABIMENTO. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+2. No caso concreto, o Tribunal de origem analisou a prova dos autos para concluir pela impossibilidade da desconsideração da personalidade jurídica, pois ausentes os pressupostos legais, como a confusão patrimonial ou o desvio de finalidade. Alterar tal conclusão é inviável em recurso especial.
+3. Agravo interno a que se nega provimento.
+AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 1.851.967 - SP (2021/0066135-3)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+GUSTAVO BEIRA DA SILVA
+ADVOGADOS
+:
+MARCEL WAGNER DE FIGUEIREDO DROBITSCH - SP131684
+WALDENY ALEXANDER DA SILVA - SP177213
+AGRAVADO
+:
+JOSÉ DELVANDI MOURA DE ARAÚJO
+ADVOGADO
+:
+MAURÍCIO BAPTISTA PONTIROLLE - SP136006
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 221/223):
+Cuida-se de agravo apresentado por GUSTAVO BEIRA DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA INDEFERIMENTO DO PEDIDO DE SUA INSTAURAÇÃO AUSÊNCIA DE COMPROVAÇÃO DE QUAISQUER DOS REQUISITOS PREVISTOS NO ART 50 DO CC INTELIGÊNCIA DO ART 133 § 1 DO CPC PRECEDENTES DECISÃO MANTIDA RECURSO NÃO PROVIDO.
+Sustenta a parte recorrente, pela alínea "a" do permissivo constitucional, violação dos arts. 50 e 187, ambos do CC, no que concerne à decretação da desconsideração da personalidade jurídica, trazendo o(s) seguinte(s) argumento(s):
+Observa-se que a boa-fé é um dos parâmetros norteadores que se espera da conduta das partes em agir com honestidade, retidão e lealdade a relação de confiança estabelecida para com a outra parte, a fim de evitar a prática do abuso do direito. Portanto, quem dele se afastar, comete ato ilícito. Com efeito, o Recorrente fundamentou o pedido de desconsideração da personalidade jurídica na flagrante situação de abuso de personalidade caracterizada pelo desvio de finalidade consubstanciada no fato de que a Empresa Executada e seu sócio, agiram de má-fé para com o Recorrente, haja vista que o processo principal se baseia na cobrança de inúmeros cheques devolvidos por falta de fundos. O Recorrente confiou na honestidade e retidão da Pessoa Jurídica e seu sócio, agindo totalmente de boa-fé, tanto que baseado nesta relação de confiança aceitou diversos cheques pré-datados, mesmo após ter as três primeiras cártulas devolvidas por falta de fundos, ou seja, a boa-fé do Recorrente é certa e não se discute. Entretanto, cada parte na relação negocial deve agir com boa-fé e honestidade, sendo que a boa-fé do Recorrente só a ele beneficia. Ao Recorrido, cabia ter procedido de mesma forma, ou seja, se na devolução das três primeiras cártulas a Pessoa Jurídica e seu sócio já sabia que não tinham condições de honrar com seus compromissos, não deveriam ter emitidos novas cártulas abusando da relação de confiança e boa-fé do Recorrente.
+ .. .
+E é justamente essa quebra da boa-fé objetiva que configura um dos parâmetros que tipifica a conduta como ato ilícito, pois, mesmo a Pessoa Jurídica já sendo inadimplente com a devolução das três primeiras cártulas por falta de fundos, continuou emitindo outros cheques que também vieram a ser devolvidos por falta de fundos. Aliás, cabe frisar que o sócio, ora Recorrido, é quem assina o cheque na condição de representante legal da Pessoa Jurídica, já ciente de que as condições da empresa era de inadimplência, pois, como acima dito, mesmo após a devolução das três primeiras cártulas por falta de fundos, emitiu outras dez.
+ .. .
+Somado a estes fatos, o Recorrente também denunciou o abuso da personalidade jurídica caracterizada pelo desvio de finalidade no fato de que a Pessoa Jurídica e seu sócio agiu de má-fé para com o Recorrente, haja vista que o processo principal se baseia na cobrança de inúmeros cheques devolvidos por falta de fundos. Assim sendo, o abuso de personalidade restou comprovado e caracterizado através do desvio de finalidade da pessoa jurídica, que mediante má-fé, emitiu cheques que sabia não ter provisão de fundos para saldá-los, com a nítida intenção de causar prejuízo ao Recorrente. (fls. 156/158).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Com efeito, a insolvência da pessoa jurídica não é suficiente a caracterizar a confusão entre seu patrimônio e o de seu(s) sócio(s) e o encerramento irregular da atividade empresária sem o prévio pagamento dos credores, tampouco, atesta que houve abuso de sua personalidade.
+ .. .
+Logo, por si só, a demonstração de que a agravada não detém patrimônio suficiente para satisfazer o crédito visado pelo cumprimento de sentença não justifica a instauração do incidente de desconsideração da personalidade, que, nos termos do art. 133, §1º do CPC 1 , exige a observância dos requisitos legais (fls. 116/117).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+O recurso especial não comporta exame de questões que impliquem a revisão dos elementos de prova dos autos.
+Modificar o entendimento do Tribunal de origem - que concluiu pela impossibilidade da desconsideração da personalidade jurídica, pois ausentes os pressupostos legais, como a confusão patrimonial ou o desvio de finalidade - esbarra na Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
