@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por ALPHA CONSTRUÇÕES EIRELIem face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado doAmazonas, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E LUCRO CESSANTES. AGRAVO RETIDO. DESISTÊNCIA EM RELAÇÃO A RÉU NÃO CITADO. DESNECESSIDADE DE ANUÊNCIA PELO CORRÉU. SINISTRO AUTOMOBILÍSTICO. EXPEDIÇÃO DE OFÍCIO À SUSEP. DESCABIMENTO. AUSÊNCIA DE REGISTROS DOS VEÍCULOS AUTOMOTORES SEGURADOS. CÁLCULO DO VALOR DA INDENIZAÇÃO. TABELA FIPE. DEDUÇÃO DA IMPORTÂNCIA OBTIDA COM A VENDA DA SUCATA. POSSIBILIDADE. REFORMA PARCIAL.
+- Tratando-se de litisconsórcio passivo facultativo em que se pede a desistência em relação a um requerido não citado, não é necessária a anuência do outro, porquanto tal disposição não pode ser equiparada como emenda àinicial.
+- É descabida pretensão recursal voltada a oficiar a Superintendência de Seguros Privados (SUSEP), com a finalidade de descobrir se o veículo da apelada estava ou não coberto por um contrato de seguro, uma vez que o referido órgão não possui o registro de todos os veículos segurados, sendo, portanto, inócua tal diligência.
+- Ademais, tal informação deve ser feita pela parte, e não, pelo órgão responsável pelo controle e fiscalização dos mercados de seguro.
+- Em contrapartida, a tese reformista merece melhor sorte, ao reivindicar que o quantum indenizatório deva ser calculado com base no disposto na tabela FIPE, descontado o valor obtido com uma eventual venda da sucata do veículo. RECURSO CONHECIDO E PARCIALMENTE PROVIDO." (fls. 206-207)
+Nas razões do recurso especial, a parte ora agravante aponta violação doart. 264 do Código de Processo Civil de 1973, sustentando, em síntese, (a)"a Recorrida pugnou pela exclusão da lide do Requerido RONEI AMAZONAS DA ROCHA e, antes de a Recorrente ser intimada para se manifestar quanto ao pedido alhures, o juízo de piso deferiu dito pedido, ferindo de morte os princípios do contraditório e da ampla defesa, bem como o art. 264, do CPC/1973, vigente à época do referido ato processual" (fl. 223); (b)"O cerne da questão está na legalidade ou não da exclusão de um dos Requeridos, sem a oitiva prévia dos demais, ato este realizado pelo juízo de piso e combatido nas instâncias inferiores" (fl. 225).
+É o relatório. Decido.
+Com efeito,art. 264do CPC/1973dispõe que feita a citação, é defeso ao autor modificar o pedido ou a causa de pedir sem o consentimento do réu, salvo as substituições permitidas em lei.
+Todavia, o dispositivo não se dispõe a normatizar a legalidade ou não da exclusão de um dos requeridos sem a oitiva prévia dos demais.
+Portanto, quanto ao ponto, forçoso reconhecer que o dispositivo tido por violado está dissociado das razões de recorrer, atraindo a inteligência da Súmula 284/STF.
+Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DE NEGÓCIO JURÍDICO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DIREITO PROCESSUAL CIVIL. 1. VIOLAÇÃO AOS ARTS. 369 E 477, § 1º, DO CPC/2015. RAZÕES DISSOCIADAS. SÚMULA 284/STF. 2. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE ARTIGO DE LEI. SÚMULA 284/STF. 3. AGRAVO INTERNO IMPROVIDO.
+1. Quanto à alegada violação aos arts. 369 e 477, § 1º, CPC/2015, ratifica-se a aplicação do óbice da Súmula n. 284 do STF, tendo em vista que os agravantes não relacionaram a contento a tese recursal com a ofensa aos dispositivos mencionados no recurso.
+(..)
+3. Agravo interno improvido." (AgInt no AREsp 1.552.950/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, julgado em 4/5/2020, DJe de 8/5/2020)
+Dessa forma, há de se concluir que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, convocando, na hipótese, a incidência das Súmulas 283 e 284 do STF.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
