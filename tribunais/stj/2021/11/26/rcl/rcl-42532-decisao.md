@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de reclamação ajuizada em face de decisão que obstou a remessa a esta Corte de agravo interposto contra a inadmissão do recurso especial.
+A reclamante sustenta que:
+Contudo, ao assim decidir, o e. TRF4 violou a competência do e. STJ, cf. dispõe o art. 1.042, § 4.º, do CPC, já que este (e apenas este) é o Tribunal responsável pelo juízo de admissibilidade do Agravo em Recurso Especial.
+E isso porque, ainda que a controvérsia gire em torno da tempestividade do Agravo em Recurso Especial, a competência para dizer sobre o (não) conhecimento do recurso previsto no art. 1.042 do CPC é do Superior Tribunal de Justiça, cf. parte final do § 4.º do dispositivo de lei. De modo diverso do que ocorre com os recursos especial e extraordinário, o agravo em recurso especial não está sujeito à análise de admissibilidade pela Corte de origem.
+(..) Como destacou-se nos acórdãos acima ementados, não compete ao e. Tribunal de origem decidir sobre o cabimento do Agravo em Recurso Especial interposto no processo, mas sim ao e. STJ (cf. § 4.º do art. 1.042 do CPC). Deste modo, a análise da tempestividade do Agravo em Recurso Especial (e da nulidade da intimação, portanto) caberia a essa e. Corte Superior, sendo indevida a retenção do Agravo em Recurso Especial perante o e. TRF4.
+Para além do acórdão proferido na Reclamação n. 40.302/DF cuja ementa se transcreveu acima, no bojo do Agravo Interno interposto na Reclamação n. 37.442/TO, esse e. STJ reconheceu a usurpação da competência do e. STJ especificamente em caso que envolveu a recusa do Tribunal local em remeter os autos ao e. STJ em razão da intempestividade.
+Naquele caso a Reclamação teve seu pedido julgado improcedente, eis que faltava ao Reclamante interesse de agir (visto que a argumentação ventilada para demonstrar a tempestividade estava em desacordo com o entendimento do e. STJ).
+Contudo, no caso concreto, a situação é oposta, já que a r. decisão que entendeu pela intempestividade do Agravo em Recurso Especial diverge do posicionamento dessa e. Corte, em especial porque deixou de ser observado o entendimento pacífico desse e. STJ no sentido de que "a solicitação explícita para que conste, na intimação, o nome de determinado patrono, deve ser atendida", sob pena de nulidade.
+Requer:
+(a) liminarmente (cf. art. 989, inc. II, do CPC), seja determinada a suspensão do ato impugnado até o julgamento final desta Reclamação, a fim de que, desde logo, seja processado e remetido ao STJ o Agravo em Recurso Especial interposto na origem (e retido pelo e. TRF4), conforme argumentado no item 4, retro;
+(b) seja julgado procedente o pedido desta Reclamação, a fim de que seja cassada a decisão exorbitante (cf. 992 do CPC), para que o Agravo em Recurso Especial interposto na origem (doc. 8) seja remetido ao e. STJ para que, então, seja analisado o seu cabimento/tempestividade, cf. item 3, retro.
+É o relatório. Passo a decidir.
+Verifica-se que, em princípio, a pretensão aduzida encontra amparo na jurisprudência deste Tribunal, porquanto usurpa a competência do Superior Tribunal de Justiça a decisão que indefere o processamento de agravo interposto contra decisão que inadmitiu o recurso especial(Rcl 5.542/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, julgado em 08/06/2011, DJe 17/06/2011).
+Assim, a fim de evitar a eventual ocorrência de dano grave de incerta reparação à reclamente, impõe-se a suspensão do ato impugnado.
+Notifique-se a autoridade reclamada para prestar informações no prazo de 10 (dez) dias úteis, com cópia da presente decisão.
+Intime-se ainteressada(Fazenda Nacional) para eventual manifestação, em prazo idêntico e simultâneo.
+Publique-se. Intimem-se.
