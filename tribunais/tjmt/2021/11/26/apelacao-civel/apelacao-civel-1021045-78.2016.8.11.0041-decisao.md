@@ -1,0 +1,62 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1021045-78.2016.8.11.0041
+RECORRENTES: MS PROMOÇÕES, EVENTOS E PRODUÇÕES LTDA e UNIFORT SEGURANÇA e VIGILÂNCIA PATRIMONIAL LTDA - EPP
+RECORRIDO: BRUNA FRANCE GOMES SIMÕES
+Vistos.
+Trata-se de recurso especial interposto por MS PROMOÇÕES, EVENTOS E PRODUÇÕES LTDA e UNIFORT SEGURANÇA e VIGILÂNCIA PATRIMONIAL LTDA - EPP, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado, que deu parcial provimento ao recurso da parte recorrida para arbitrar indenização por danos morais no valor de R$6.000,00 (seis mil reais), assim ementado (ID 100569491):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS – RELAÇÃO DE CONSUMO – JUSTIÇA GRATUITA – PEDIDO DEFERIDO PELO JUIZ AUSÊNCIA DE PROVAS OUTRAS PARA MODIFICAR A DECISÃO PRIMEVA – ENCARGO DO IMPUGNANTE – MANUTENÇÃO - SOLIDARIEDADE ENTRE O PROMOTOR DE EVENTO E A EMPRESA DE SEGURANÇA – ART.18 DO CDC – EXCESSOS COMETIDOS PELOS SEGURANÇAS – QUEBRA DE CELULAR E EXPULSÃO DO EVENTO DO CONSUMIDOR – SITUAÇÃO EXTRAORDINÁRIA – AÇÃO JULGADA IMPROCEDENTE – DANOS MATERIAIS COMPROVADOS – DEVOLUÇÃO DO VALOR DO INGRESSO E PAGAMENTO PELO CONSERTO DO CELULAR DANIFICVADO – DANOS MORAIS CONSOLIDADOS – VALOR INDENIZATÓRIO FIXADO PELA MÉDIA ARITMÉTICA DOS VOTOS – REGRA DE SUCUMBENCIA. Recurso conhecido e provido parcialmente.
+(1)-Tendo o magistrado de piso, em relação à pretensão de gratuidade da justiça feito dentro do figurino jurídico, não se verificando na espécie, quando da impugnação feita em sede de contrarrazões, qualquer modificação naquele estágio pretérito, deve ser mantida incólume a decisão do juiz que, fazendo suas razões, deferiu a prestação jurisdicional gratuita, nos moldes da Lei 1.060/50 e prescrições insertas no CPC vigente.
+(2)- A questão pertinente a promoção de eventos entre o promotor e os que comparecem no show deve ser visto à luz do Código de Defesa do Consumidor, numa interpretação dos artigos 2o e 3o do estatuto, inequívoca relação de consumo.
+(3)- Reside, em face de tal aspecto, solidariedade entre a empresa promotora do evento e a empresa se segurança já que ambos estão ligados por um liame indissolúvel, a rigor do prescrito art. 18 do CDC.
+(4)- Configurando que, em face do fato concreto, seguranças daquele evento não agiram dentro da razoabilidade e com excesso quando, em vez de solucionar a situação, resume, em face da situação concreta e analisada, em retirar o celular da autora e expulsá-la do recinto, este excesso, quer pela teoria objetiva, quer pelo prescrito no art. 187 do CC, deve ser considerado como ato ilícito.
+(5)-Os aspectos vistos não se trataram de mero aborrecimento do cotidiano e sim dano moral experimentados pela vítima, visto esta situação sobre todos os seus aspectos fáticos comprovados nos autos e, de consequência, faz jus a indenização correspondente, que deve ser arbitrado dentro do princípio da razoabilidade e da proporcionalidade, dentro do previsto nos incisos V e X, do art. 5o da CF e precedentes jurisprudenciais a respeito do tema.
+(6)- Indeniza-se, de igual forma, a título de dano material, o valor pago pelo ingresso bem como os gastos que a autora teve no conserto do celular.
+(7)-Conhecido e provido o recurso, julgando em parte procedente a demanda, inverte-se o ônus da sucumbência e, feita a adequação, sobre o valor da condenação atualizada, consoante o prescrito no § 2o, do art. 85, do CPC.
+(8)-O cumprimento da sentença deve ser feito por meros cálculos aritméticos, com a aplicação da indexação pelo INPC e juros moratórios.
+(TJMT ApCiv n. 1021045-78.2016.8.11.0041, Relator Des. SEBASTIÃO DE MORAES FILHO, SEGUNDA CÂMARA DE DIREITO PRIVADO, data do julgamento 06.09.2021)”.
+Alega-se violação ao artigo 186 e 927 do Código Civil, além de dissídio jurisprudencial, ao argumento de que não há ato ilícito passível de indenização por danos morais.
+Nesta perspectiva, assevera-se que a parte recorrida deu causa ao imbróglio ocorrido no evento, pois foi agredida por um desconhecido após ter-lhe acidentalmente derramado cerveja. Argumenta-se que toda a discussão decorreu porque a cliente estava sob o efeito do álcool, o que é causa de exclusão de responsabilidade por culpa exclusiva da vítima e do terceiro que lhe desferiu o soco.
+Por fim, ressalta-se que agiu em exercício regular do direito ao apartar a discussão e retirar os contendores do local.
+Ao final, requesta-se pela reforma do julgado para que seja julgada improcedente a pretensão indenizatória por danos morais.
+Recurso tempestivo e preparado (IDS 104265466 e 104265950).
+Contrarrazões (ID 107740992).
+É o relatório.
+Decido.
+1- Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+3- Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação aos artigos 186 e 927 do Código Civil se sustenta na assertiva na exclusão da responsabilidade da empresa de segurança, ora recorrente, pelos danos causados à recorrida.
+O acordão proferido pela 2a Câmara de Direito Privado deste Sodalício, soberano na análise da matéria fática, assim pontuou quanto ao tema: (ID100569491):
+“Mas, o que se espera, no caso em apreço que, dada àquela situação criada, os seguranças contratados, tomassem medidas a proteger a recorrente em todos os aspectos. De igual forma, competia a promotora daquele evento, dar todo suporte para que a situação fosse contornada. Por tal razão, estes fatos supervenientes, não apreciados na sentença, devem ser interpretados de forma a impingir, sob égide da responsabilidade objetiva, a procedência parcial da lide, divisando, segundo penso, tão somente em não acatar o valor sugerido (R$ 80.000,) a título de danos morais.
+E com relação a tais aspectos supervenientes, o que fez a empresa de segurança. Simplesmente, em face daquela situação incomoda achou mais fácil, assumindo o risco, subtrair o celular da recorrente já que estava filmando os acontecimentos e, por outro lado, expulsando-o do evento, impedindo que esta pudesse assistir ao espetáculo denominado FESTIVAL DO ROCK. Celular quebrado, e não assistiu ao espetáculo.
+Vejo que, amoldando-se ao que comumente acontece em situações desta natureza, tão corriqueiras em espetáculos desta natureza e situação perfeitamente previsível, se não residiu violação ao direito imaterial da autora em relação ao primeiro aspecto, em relação as consequências decorrentes, discordando do posicionamento adotado pela sentença, tais lesões ocorreram, fazendo jus às indenizações pretendidas.
+Não se pode, no caso, ignorar que a recorrente, em primeiro aspecto, restou privada de assistir ao SHOW. E, em segundo plano, temos que a questão pertinente a impedir a gravação, tomada do celular da recorrente e, por último, sua expulsão daquele show, segundo penso, não poderia ter acontecido. Quando se espera que a segurança acalme a situação, em verdade promoveu atos em total dissonância com a prudência e o bom senso.
+E, segundo penso, estes atos posteriores, criados pela segurança do espetáculo, sem dúvida alguma, baixando os fatos à realidade, não se tratou de um mero desconforto do cotidiano e sim violação do direito imaterial da recorrente. Segundo vejo, quando esta esperava ser atendida pelos seguranças se vê de forma contraria, celular apreendido e expulsão daquele espetáculo, extrapolou, sem dúvida alguma, a questão do exercício regular de um direito, excludente de responsabilidade prescrita no art. 188, inciso I, do Código Civil Brasileiro.
+E, ainda, não se pode olvidar que, mesmo em certas situações de exercício regular de um direito, quando reside excesso, caracterizado também está o ato ilícito, como bem adverte o art. 187 do CC – ‘Também comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa fé e pelos bons costumes’. (grifei)
+No entanto, para rever o entendimento firmado no aresto recorrido sobre este ponto, para infirmar as premissas que entenderam pela existência de abuso de direito para apartar a discussão entre a parte recorrida e o terceiro é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73 AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. INADIMPLEMENTO DE ALUGUÉIS E ENCARGOS LOCATÍCIOS EM LOJA DE SHOPPING. INTERRUPÇÃO DE ENERGIA. ABUSO DE DIREITO. DANO MORAL CARACTERIZADO. QUANTUM INDENIZATÓRIO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA No 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inaplicabilidade do NCPC a este julgamento ante os termos do Enunciado Administrativo no 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. O Tribunal recorrido após o exame minucioso das circunstâncias fáticas delineadas na lide, concluiu que a locadora recorrente não agiu no exercício regular de seu direito, e sim com manifesto abuso de direito, sendo de rigor sua condenação em indenizar o recorrido nos danos morais. A revisão desse entendimento, na via especial, é defeso a esta Corte pela Súmula no 7 do STJ.
+3. Esta Corte possui entendimento de que o valor arbitrado a titulo de dano moral somente pode ser revisto excepcionalmente, quando irrisório ou exorbitante, em afronta aos princípios da razoabilidade e da proporcionalidade, sob pena de ofensa ao disposto na Súmula no 7 desta Corte.
+4. Agravo regimental não provido.
+(AgRg no AREsp 755.572/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/09/2016, DJe 07/10/2016)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, NEGO SEGUIMENTO ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
