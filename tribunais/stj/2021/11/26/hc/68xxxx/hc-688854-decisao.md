@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor dePEDRO GUILHERME BATISTA ROCHAem que se aponta como autoridade coatorao Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n. 5003750-64.2020.8.24.0135).
+O paciente foi condenado às penas de 5 anos de reclusão em regime semiaberto e de 583 dias-multa, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006. Foi-lhe negado o direito de recorrer em liberdade.
+Nas razões do presente writ, a defesa alega que o Tribunal de Justiça de Santa Catarina deixou de reconhecer a ilicitude das provas decorrentes da invasão de domicílio pelos policiais sem permissão ou autorização judicial.
+Afirma que a justificativa dos policiais é diferente da versão real, pois o paciente não estava na frente da residência, mas dentro dela, dormindo.
+Requer o reconhecimento da ilegalidade do acórdão prolatado pelo TJSC a fim de que sejamsuspensosseus efeitos até o julgamento final do writ, de forma que as provas encontradas na residência invadida pela guarnição policial sejam declaradas ilícitas.
+O pedido de liminar foi indeferido, nos termos da decisão de fls. 434-435.
+As informações foram prestadas às fls. 439-484 e 485-500.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls. 504-508).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Não há falar em ilicitude da prova colhida com base em ingresso forçado de policiais no domicílio do acusado.
+Isso porque, segundo o acórdão, houve justa causa e controle judicial posterior do ato, pois as provas colhidas na fase preliminar de inquérito foram repetidas e validadas em juízo com base no contexto fático-jurídico exposto na denúncia, levando, inclusive, à prisão preventiva do acusado.
+Confira-se excerto do acórdão (fls. 391-394, destaquei):
+Contrariamente ao que foi aduzido, não há falar em ilegalidade da atuação policial, muito menos do ingresso na residência dos agentes que culminou na descoberta de drogas.
+De plano, cumpre destacar que o delito de tráfico de drogas, nas modalidades "guardar", "ter em depósito" e "trazer consigo", constitui crime permanente, cuja consumação prolonga-se no tempo.
+Consequentemente, nos termos do art. 303 do Código de Processo Penal, observa-se que "nas infrações permanentes, entende-se o agente em flagrante delito enquanto não cessar a permanência".
+Portanto, enquanto durar a guarda da substância ilícita, estará o agente em situação de flagrante delito, hipótese autorizadora da entrada em domicílio alheio, ainda que desprovido de comando judicial ou da anuência do proprietário, por exceção constitucionalmente prevista (artigo 5º, inciso XI, da CF).
+ ..
+Em resumo, a sentença rejeitou essa questão preliminar nos seguintes termos: o crime de tráfico é de ação múltipla e de natureza permanente, de modo que o estado de flagrante delito persiste enquanto o agente incorrer numa das múltiplas condutas previstas no tipo penal, por conseguinte, fica dispensado mandado judicial para os milicianos adentrarem na residência, pois legítima a entrada forçada dos policiais no imóvel, não havendo, portanto, ilegalidade no ato e, por consequência, ilicitude das provas angariadas no caderno policial.
+Acrescenta-se que a defesa se limitou a sustentar que os policiais teriam agido com base em mera denúncia anônima, o que seria insuficiente para a incursão domiciliar.
+Entretanto, é preciso ter em vista que não foi apenas a mera denúncia anônima que viabilizou o ingresso na residência.
+Os depoimentos policiais, que serão melhor examinados por ocasião domérito, denotaram que o apelante é conhecido na região pela narcotraficância, já tendo sido preso em outras oportunidades pelo tráfico de drogas.
+Com o propósito de verificarem a veracidade das denúncias, os policiais realizaram campana, por meio da qual o recorrente foi surpreendido no portão de sua residência com drogas no bolso e uma quantia em dinheiro.
+Frente a esse cenário, seguiu-se a incursão domiciliar, com a descoberta de entorpecentes, em embalagens idênticas àquelas que envolviam as drogas apreendidas em poder do apelante.
+Não há, nesse contexto, qualquer mácula ou arbitrariedade na atuação dos policiais, os quais agiram pautados em dados objetivos acerca dos informes que estavam recebendo e diligenciaram a fim de confirmar sua veracidade.
+Pela dinâmica da atividade policial, vê-se que havia fundadas razões que consubstanciaram a justa causa para o ingresso domiciliar, sem perder de vista, ademais,que o próprio apelante, na fase indiciária, confessou a guarda do material tóxico encontrado no imóvel e a destinação comercial.
+Rechaça-se, pois, a preliminar em tela.
+Constatou-se que, portanto,além dos militares terem recebido informações anônimas e terem realizado diligênciaprévia,que o paciente éconhecidodomeiopolicial. Ainda,ao realizarem campana, visualizaram o paciente no portão da residência com drogas no bolso e uma quantia em dinheiro e, após o ingresso no imóvel,mais drogas foram encontradas. Esses motivos configuram exigência capitulada no art. 204, § 1º, do CPP, a saber, a demonstração de fundadas razões para a busca domiciliar, não subsistindo os argumentos de ilegalidade da prova ou de desrespeito ao direito à inviolabilidade de domicílio.
+Esse entendimento está em consonância com a jurisprudência do STJ de que "o ingresso regular em domicílio alheio, na linha de inúmeros precedentes dos Tribunais Superiores, depende, para sua validade e regularidade, da existência de fundadas razões (justa causa) que sinalizem para a possibilidade de mitigação do direito fundamental em questão. É dizer, apenas quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência - cuja urgência em sua cessação demande ação imediata - é que se mostra possível sacrificar o direito à inviolabilidade do domicílio" (HC n. 598.051/SP, Sexta Turma, relator Ministro Rogerio Schietti Cruz, DJe de 15/3/2021).
+Ainda, a orientação acima atende aos pressupostos estabelecidos no Tema n. 280, submetido pelo STF ao regime de repercussão geral no RE n. 603.616/RO, em que ficou definido que "a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori" (RE n. 603.616/RO, relator Ministro Gilmar Mendes, DJe de 8/10/2010).
+Assim, realizado o controle judicial do ato, ainda que posteriormente, não há falar, de plano, em ilicitude das provas produzidas.
+Ademais, além do Tribunal de origem não ter analisado a tese de opaciente estar ou não dormindo na hora da chegada dos militares, o momento processual da ação penal originária - julgada aapelação - inviabiliza a análise da tese defensiva em toda a sua extensão, visto que há nítida necessidade de dilação probatória, situação não permitida no rito especial do habeas corpus.
+Nesse sentido, os seguintes precedentes do STJ: HC n. 431.708/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/5/2018; AgRg no HC n. 681.870/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 20/9/2021; e AgRg no RHC n. 146.915/RJ, relator Ministro Olindo Menezes, Desembargador Convocado do TRF1, Sexta Turma, DJe de 31/8/2021.
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
