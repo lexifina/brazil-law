@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por THIAGO ALVES DA SILVA, contra decisão singular que não conheceu do habeas corpus.
+O agravante, em síntese, reitera que faz jus àdesclassificação dos delitos de roubo tentado e roubo consumado para os delitos de furto tentado e furto consumado.
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. DELITOS DE ROUBO TENTADO E ROUBO CONSUMADO. DESCLASSIFICAÇÃO PARA FURTO. IMPOSSIBILIDADE. VEDADO REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para afastar a conclusão das instâncias ordinárias a respeito da prática do delito de roubo é necessário o reexame de todo o conjunto probatório, o que é vedado em habeas corpus. Precedentes.
+2.Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+Isso porque o Tribunal a quo entendeu que o recorrente praticou o delito de roubo, de acordo com o conjunto probatório colhido nos autos, mantendo, portanto, nesse ponto, a sentença penal condenatória. Confira-se:
+" ..
+Nada obstante a pretensão formulada pelo processado de desclassificação da conduta criminosa para o delito de furto tentado, pela prova oral amealhada nos autos, descrevendo a atuação do processado, plenamente configurada a conduta delitiva mais grave, ele, subtraiu, e tentou subtrair, para si, mediante violência, exercida por puxar de forma abrupta, os celulares da mãos das vítimas, ocorrendo a inversão da posse do objeto, ainda que por curto espaço de tempo, consumando contra uma vítima, e roubo tentado contra a outra vítima.
+Porque quando o objeto está no corpo da vítima considera-se que houve emprego de violência no ato da subtração, não havendo falar-se em delito de furto, uma vez que neste, o objeto é subtraído na clandestinidade, sem o emprego de violência.
+Comprovada a inversão da posse de aparelho celular, subtraído da vítima, bem como a tentativa de subtração de outra vítima, ambas mediante violência exercida por puxá-los abruptamente, não prospera a desclassificação do crime de roubo, tipificado pelo art. 157, do Código Penal Brasileiro, para o delito de furto, porquanto para a consumação do delito patrimonial é bastante a retirada da coisa da disposição do proprietário, com violência, ainda que com brevidade, mesmo ocorrendo a posterior restituição." (fls. 376/377)
+A fundamentação apresentada mostra-se idônea e em conformidade com a jurisprudência desta Corte. Para afastá-la, é necessário o reexame de todo o conjunto probatório, o que é vedado em habeas corpus.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PLEITOS DE DESCLASSIFICAÇÃO PARA O DELITO DE FURTO OU DE RECONHECIMENTO DA DESISTÊNCIA VOLUNTÁRIA OU DE PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS. SÚMULA N. 283/STF. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DOSIMETRIA DA PENA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE DE REDUÇÃO DA PENA INTERMEDIÁRIA ABAIXO DO MÍNIMO LEGAL. SÚMULA N. 231/STJ.
+1. Na espécie, os agravantes deixaram de infirmar os fundamentos pelos quais o Tribunal de origem entendeu que não caberia a desclassificação da conduta para o delito de furto e não reconheceu a desistência voluntária e a participação de menor importância. E, consoante reza o enunciado sumular 283/STF, aplicável aos recursos especiais por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Outrossim, atestada pelo Tribunal a quo a existência de elementos de prova suficientes para a condenação pelo crime de roubo majorado, não há como abraçar as teses defensivas de desclassificação da conduta para furto ou de reconhecimento dos institutos de desistência voluntária e participação de menor importância, sem o efetivo revolvimento do acervo fático-probatório, providência vedada em recurso especial conforme o óbice prescrito pela Súmula n. 7/STJ.
+3. "Fixada a pena-base no mínimo legal, ainda que reconhecidas as atenuantes da confissão e da menoridade relativa, não poderão repercutir no cálculo da reprimenda, porquanto, de acordo com a Súmula 231 do STJ, descabe a redução da pena na segunda fase da dosimetria a patamar aquém do mínimo legal em razão da existência de circunstância atenuante" (HC n. 272.043/BA, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/4/2016, DJe 22/4/2016).
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1246220/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 1º/6/2021).
+PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. 2. CRIME DE ROUBO. SUBTRAÇÃO POR MEIO DE ARREBATAMENTO. PEDIDO DE DESCLASSIFICAÇÃO PARA FURTO. EXAME QUE DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. PLEITO INVIÁVEL NA VIA ELEITA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. 3. HABEAS CORPUS NÃO CONHECIDO.
+1. A Primeira Turma do STF e as Turmas que compõem a Terceira Seção do STJ, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. Prevalece no Superior Tribunal de Justiça o entendimento no sentido de que o arrebatamento de coisa presa ao corpo da vítima tem o condão de comprometer sua integridade física, tipificando, assim, o crime de roubo e não de furto. Assim, tendo as instâncias ordinárias reconhecido que a subtração do bem se deu por meio de arrebatamento, não é possível, na via eleita, examinar o pedido de desclassificação, uma vez que se trata de providência que demanda aprofundado exame do arcabouço fático-probatório carreado nos autos, o que não se revela consentâneo com o instrumento processual utilizado.
+3. Habeas corpus não conhecido.
+(HC 372.085/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/10/2016).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
