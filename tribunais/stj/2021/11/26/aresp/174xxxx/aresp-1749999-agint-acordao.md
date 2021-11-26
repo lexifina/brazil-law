@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator):Trata-se de agravo interno (e-STJ fls. 1.510/1.568) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a parte agravante reitera a tese de negativa de prestação jurisdicional, destacando que "adecisão a respeito de suposta preclusão consumativa, com a consequente não apreciação do pedido de impenhorabilidade de bem de família feito pela recorrente, teve como premissa a utilização de decisão que não pode atingir a recorrente, uma vez que não fez parte do processo no qual houve a análise da questão (AI 1446948-0), devendo ser apreciada, sob pena de cerceamento de defesa (art. 507 CPC), configurando-se negativa de prestação jurisdicional"(e-STJ fl. 1.523).
+Alega a observância do princípio da dialeticidade, afirmando que "adecisão a respeito da existência de preclusão consumativa, com a consequente não apreciação do pedido de impenhorabilidade de bem de família feito pela recorrente, portanto, teve como premissa a utilização de decisão que não pode atingi-la, uma vez que dela não fez parte, devendo ser apreciada pelos n. Ministros, sob pena de cerceamento de defesa. Não se trata de questão fática. Trata-se de questão meramente de direito, pois houve equívoco ao classificar abarcado pela preclusão consumativa o pedido da recorrente com fundamento em decisão da qual não faz parte (art. 507 CPC)"(e-STJ fl. 1.526).
+Argumenta que toda a matéria suscitada no especial foi devidamente prequestionada.
+Defende ainda a inaplicabilidade da Súmula n. 7 do STJ, por entender que, "de devedora dos ônus de sucumbência (20% do valor da causa a título de honorários advocatícios) e de 30% do valor do imóvel a título de multas, MARTA conseguiu resguardar 50% do valor da construção do imóvel e deixou de ser devedora do valor de 30% do imóvel (multas)"(e-STJ fl. 1.532).
+Foi requerido efeitosuspensivo para o recurso.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou contrarrazões (e-STJ fl. 1.571).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015.FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO.SÚMULA N. 284/STF.REEXAME DOCONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DASÚMULAN.7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+3. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+4. O recurso especial não comporta exame de questões que impliquemrevolvimento do contexto fático-probatório dos autos (Súmula n.7/STJ).
+5. No caso concreto, a reforma do acórdão recorrido, quanto àdistribuição do ônus da sucumbência, demandaria revolvimento doconjunto fático-probatório, vedado em sede de recurso especial.
+6. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+Não há, no presente recurso, nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.504/1.507):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal eincidência dasSúmulas n. 7 e 211 do STJ(e-STJ fls. 1.312/1.314).
+O acórdão recorrido está assim ementado (e-STJ fls. 457/459):
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - AÇÃO DE INDENIZAÇÃO EM FASE DE EXECUÇÃO - ALEGAÇÃO DE QUE A IMPENHORABILIDADE DO BEM DE FAMÍLIA É MATÉRIA DE ORDEM PÚBLICA E DEVE SER RECONHECIDA A QUALQUER TEMPO - PRECLUSÃO CONSUMATIVA EM RAZÃO DA ANÁLISE DA QUESTÃO EM SEDE DE AGRAVO DE INSTRUMENTO - NÃO CONHECIMENTO - PRELIMINAR DE NULIDADE DA SENTENÇA - PROLAÇÃO ANTES DO TRÂNSITO EM JULGADO DO AGRAVO DE INSTRUMENTO INTERPOSTO - NÃO ACOLHIDA - NÃO CONCESSÃO DEEFEITO SUSPENSIVO E AUSÊNCIA DE PREJUÍZO - MÉRITO - TESE DE QUE A EMBARGANTE SERIA PROPRIETÁRIA DE METADE DO BEM PENHORADO POR TER ASSINADO O CONTRATO DE CONSTRUÇÃO DA CASA JUNTAMENTE COM O EX-MARIDO E PAGO METADE DO VALOR - PARCIAL ACOLHIMENTO - HIPOTECA EM NOME DO CASAL, PORÉM, REGISTRO DE IMÓVEIS CONTEMPLA TÃO SOMENTE O MARIDO COMO PROPRIETÁRIO DO BEM - PROSSEGUIMENTO DA PENHORA COM A RESERVA DE METADO DO VALOR DA CONSTRUÇÃO EM FAVOR DA EMBARGANTE - MULTAS POR LITIGÂNCIA DE MÁ-FÉ E ATENTADO À DIGNIDADE DA JUSTIÇA AFASTADAS - VALOR DA CAUSA ALTERADO PELO JUÍZO - MONTANTE QUE DEVE CORRESPONDER AO VALOR DO BEM PENHORADO, LIMITADO AO VALOR DA DÍVIDA - PRECEDENTES - SENTENÇA PARCIALMENTE REFORMADARECURSO DE APELAÇÃO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA PARCIALMENTE PROVIDO.
+Os embargos de declaração foram parcialmente acolhidos(e-STJ fls. 1.112/1.125).
+No especial (e-STJ fls. 1.134/1.169), fundamentado no art. 105, III, "a", da CF,arecorrentealegou afrontaao art. 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Destacou aindaas seguintes ofensas à lei federal (e-STJ fls. 1.146/1.147):
+a) Art. 927, inciso IVdo Código de Processo Civil e Súmula 377 do STF, tendo em vista que a decisão deixou de observar o enunciado da Súmula 377 do Supremo Tribunal Federal;
+b) Art. 932, inciso V, alínea a"do Código de Processo Civil e Súmula 377 do STF, por não ter cumprido a incumbência de dar provimento ao recurso, mesmo tendo em vista que a decisão recorrida contrariava a Súmula 377 do Supremo Tribunal Federal;
+c) Art. 1.013, §§1º e 2º do Código de Processo Civile Súmula 377 do STF, levando-se em consideração que o acórdão deixou de analisar a aplicação da Súmula 377 do Supremo Tribunal Federal no caso em tela, alegando inovação recursal, ainda que toda a matéria discutida deva ser por ele apreciada, especialmente tendo ele reconhecido que a recorrente (apelação em embargos de terceiro) era casada em regime de separação obrigatória de bens com o executado desde 2006; que o imóvel foi construído em 2009, constando como proprietário na matrícula apenas o nome do varão; que, contudo, a recorrente efetivamente contribuiu para a construção do imóvel, comprovando ser devedora hipotecária e contratante da construção do imóvel onde reside com sua família ainda hoje;
+d) Lei Federal 8.009 de 1990, em com previsão no art. 832 e seguintes do Código de Processo Civil, pois ao menos reconheceu que a recorrente possui 50% do valor da construção do imóvel onde reside com sua família, mas mesmo assim não analisou a questão da impenhorabilidade da posse da recorrente, decisão fundamentada, erroneamente, em preclusão consumativa (referindo-se à decisão da qual a recorrente não fez parte);
+e) Art. 85 e seguintes do Código de Processo Civil, uma vez que não inverteu o ônus sucumbencial, mesmo tendo a recorrente logrado êxito ao menos na maior parte de seus pleitos.
+No agravo (e-STJ fls. 1.322/1.365), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta(e-STJ fls. 1.424/1.448).
+É o relatório.
+Decido.
+Não há falar em ofensa ao art. 1.022 do CPC/2015, pois o Tribunala quopronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 1.116/1.120):
+No tocante à alegação de omissão no julgado, sob o argumento de que devia ter se pronunciado em relação à aplicação da Súmula 377 do STF, verifico a falta do pressuposto intrínseco de interesse recursal, visto que tal questão não foi arguida pela parte no recurso de apelação (mov. 84.1 dos autos principais), inovando a recorrente ao se insurgir somente em sede de embargos de declaração.
+(..)
+Antes de mais nada, consigno que não merece conhecimento alegação da impenhorabilidade do bem de família.
+Isto porque, mesmo sem adentrar no mérito da questão ser ou não matéria de ordem pública  a qual, ressalte-se, não é  a verdade é que há preclusão consumativa sobre o tema, considerando o julgamento do agravo de instrumento 1446948-0, onde foi reconhecida a fraude à execução e afastada a impenhorabilidade do bem.
+Aliás, a questão foi novamente levantada no agravo de instrumento 1619377-8, o qual não foi conhecido já em razão da preclusão consumativa.
+Portanto, mais uma vez, não merece conhecimento a questão, nos termos do artigo 507 do NCPC: "É vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão".
+(..)
+Em que pese não tenha sido enfrentada a questão no acórdão embargado, até porque a embargante sequer fez menção em seu recurso de apelação acerca dos honorários sucumbenciais, entendo ter havido sucumbência mínima da parte, razão pela qual não se aplicou a inversão do ônus de sucumbência.
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+No caso, oTJPR reconheceu a existência de inovação recursal e de preclusão consumativa.
+Portanto, as razões recursais apresentadas encontram-se dissociadas do que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula n. 284/STF.
+Além disso, oconteúdo dos arts. 832 e seguintes,927, IV, 932, V, e 1.013, §§ 1º e 2º,do CPC/2015não foianalisado pela Corte local. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Por fim, aferir a extensão da sucumbência de cada parte litigante para efeito de analisar a alegada violação do art. 85do CPC/2015 pressupõe o reexame de fatos e de provas, o que desautorizao conhecimento do recurso (Súmula n. 7 do STJ).
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Na verdade, sob o pretexto de sanar supostos vícios, a parte demonstra inconformismo com as conclusões do Tribunal de origem. Desse modo, não há falar em violação do art. 1.022 do CPC/2015.
+A matéria disposta nos arts. 927, IV, 932, V, e 1.013, §§ 1º e 2º, do CPC/2015 não foi apreciadanas instâncias de origem,circunstância que impede o conhecimento da insurgênciapor falta de prequestionamento, nos termos daSúmulan. 211 do STJ .
+Em relação à alegada impenhorabilidade do bem de família, o Tribunal de origem entendeu que a questão não poderia ser apreciada, em decorrência da preclusão consumativa. Logo, não houve apreciação da tese recursal pela Corte local (Súmula n. 211/STJ).
+Além disso, o argumento apresentado no recurso especial,de quea preclusão consumativa não atinge aquele que não agiu como parte no processo, não merece prosperar. Aparte não indicou o dispositivo legal violado, sendo que a tese de violação da Lei n. 8.099/1990 e art. 832 e seguintes do CPCé insuficientepara infirmar o fundamento do acórdão recorrido. Aplicável a Súmula n. 284/STF.
+Quanto aos ônus sucumbenciais,o TJPR deu provimento ao recurso de apelação para "a) determinar que na alienação do imóvel deve ser reservada à metade do valor da construção em benefício da embargante; b) afastar as multas por litigância de má-fé e ato atentatório à dignidade da justiça" (e-STJ fl. 481), fixando os ônus de sucumbência nos seguintes termos(e-STJ fl. 1.120):
+Em que pese não tenha sido enfrentada a questão no acórdão embargado, até porque a embargante sequer fez menção em seu recurso de apelação acerca dos honorários sucumbenciais, entendo ter havido sucumbência mínima da parte, razão pela qual não se aplicou a inversão do ônus de sucumbência.
+Tendo o Tribunal de origem decidido acerca da extensão da sucumbênciacom base nos elementos de prova, concluir diversamente atrai aSúmulan.7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno e JULGO PREJUDICADO o pedido de efeito suspensivo.
+É como voto.
