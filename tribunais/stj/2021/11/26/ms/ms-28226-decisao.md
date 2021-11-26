@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por MARCELO SILVA RIBEIRO contra ato atribuído aoMINISTRO DE ESTADO DA SAÚDE e ao Secretário-Executivo do Ministério da Saúde, consubstanciado noOfício n.293/2018/SERED/CGGM/GM/MG, de29/06/2018, no qual o Secretário-Executivo, agindo por delegação de competência do Ministro de Estado da Saúde, manifestou-se pela existência de impedimento ao atendimento da redistribuição almejada pelo servidor (e-STJfls. 37/38).
+Originariamente impetrado perante o Juízo da 17ª Vara Federal Cível da Seção Judiciária doEstado de Minas Gerais, foi proferida decisão declinatória de competência, com a remessa dos autos ao STJ (e-STJ fls. 153/156).
+Passo a decidir.
+O art. 6º, § 3º, da Lei n. 12.016/2009 é categórico ao afirmar que "se considera autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática", sendo legítima para figurar no polo passivo da ação somente aquela que detenha competência própria para corrigir a sua ilegalidade.
+Note-se que, nos termos da Súmula 510 do STF, mesmo no caso de eventual delegação de competência pelo Ministro do Estado, o mandado de segurança deve ser impetrado contra a autoridade que praticou o ato, in verbis: "Praticado o ato por autoridade, no exercício de competência delegada, contra ela cabe o mandado de segurança ou a medida judicial."
+No caso, não obstante tenha sido indicado oMinistro de Estado da Saúde como autoridade coatora, não se verifica nenhum ato em concreto que lhe possa ser atribuído para justificar a competência desta Corte, motivo pelo qual deve ser reconhecida a sua ilegitimidade passiva.
+Com efeito, o ato indicado como coator é o Ofício n. 293/2018/SERED/CGGM/GM/MG, de 29/06/2018, no qual o Secretário-Executivo, agindo por delegação de competência do Ministro de Estado da Saúde, manifestou-se pela existência de impedimento ao atendimento da redistribuição almejada pelo servidor (e-STJ fls. 37/38).
+Nesse contexto, reconhecida a referida ilegitimidade passiva, ficaafastada a competência do Superior Tribunal de Justiça para o processamento e julgamento do writ, nos moldes do art. 105, I, "b", da Carta Política de 1988.
+Permanecendo no polo passivo apenas Secretário-Executivo do Ministério da Saúde, devem os autos ser devolvidos àJustiça Federal de primeira instância.
+Ante o exposto, nos termos dos arts. 6º, § 5º, da Lei n. 12.016/2009 e 34, XIX, do RISTJ, RECONHEÇO a ilegitimidade passiva ad causam do Ministro de Estado da Saúdee DENEGO a ordem, em relação a esta autoridade. Determino, ainda, o retorno dos autos à Justiça Federal da Seção Judiciária do Estado de Minas Gerais, a fim de que o writ prossiga contra a autoridade remanescente.
+PREJUDICADO o pedido liminar.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009.
+Publique-se. Intimem-se.
