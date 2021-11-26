@@ -1,0 +1,12 @@
+DECISÃO
+NEUVAIR RAMOS GOMES alega sofrer coação ilegal em face de acórdão doTribunal de Justiça do Estado de Goiás.
+O paciente foi condenado pela prática do crime de receptação. O impetrante pede a anulação do processo, pois ocorreu a determinação de citação editalícia sem esgotamento dos meios para a localização do réu, que estava recluso na mesma unidade federativa por outro processo,e, ainda, porque o Juiz nomeoudefensor dativo para apresentação da resposta à acusação, o que consubstancia cerceamento de defesa.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Sem razão o insurgente.
+Não obstante a determinação decitação editalícia, foi realizada a cientificação pessoal do réu, no dia 13/7/2018, após o cumprimento da ordem de prisão preventiva.Assim, não há falar em anulação do processopara a repetição do chamamento ao processo que ocorreu de forma regular.
+Realizada a citação pessoal do acusado, que tomou conhecimento doteor da acusação e do prazo para apresentar resposta aos seus termos, ele declarou possuiradvogado, em 19/7/2018. Todavia, não forneceu o nome ou oendereço do profissional, que não compareceu aos autos para juntar procuração. Conclui-se, então, que foi oportunizadoo direito de livre escolha deadvogado ao acusado e somente depois defindo o prazo para apresentação de defesa escrita por profissional de sua confiança, o Juiz nomeou defensor dativo para assumir sua assistência jurídica. Conforme "conforme ressai do Termo de Audiência  .. , o requerente em nada se opôs a nomeação da defensora e nem mesmo disse possuir advogado constituído". Ainda, "a causídica nomeada agiu com o devido zelo e acuidade que lhe cabia" (fl. 605).
+Nesse contexto, não se verifica descumprimento de formalidade legal. A teor doart. 563 do Código de Processo Penal, "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa" e, in casu, oréu, além de ter sido citado pessoalmente, teve oportunidade de escolher seu advogadoque, a qualquer tempo, podia juntar procuração nos autos e assumir o processo. Não houve afronta aos princípios do devido processo legal ou prejuízo à ampla defesa.
+Ilustrativamente:"Comprovada nos autos que foi realizada a citação pessoal do paciente, fica afastada a alegação de cerceamento de defesa por não esgotamento dos meios de localização antes da determinação de citação por edital" (HC n. 423.884/PB, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 8/3/2018).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intime-se.
