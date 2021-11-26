@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por GINO JUM SHINKAWA e MARIA LUCIA SHINKAWA, em que pretendemadmissão de recurso especial, interposto contra acórdão do Tribunal Regional Federal da 3ª Regiãoassim ementado:
+TRIBUTÁRIO. CONTRIBUIÇÃO PARA O SALÁRIO EDUCAÇÃO. SUJEITO PASSIVO. EMPRESAS. PRODUTOR RURAL. EQUIPARAÇÃO. INTELIGÊNCIA DOS ARTS. 15 DA LEI 9.424/96, BEM COMO 1º E 2º DO DECRETO 6.003/06.
+1. Nos termos das normas que regem a matéria, infere-se ser devida a contribuição para o salário-educação pelas empresas em geral e pelas entidades públicas e privadas vinculadas ao Regime Geral da Previdência Social, considerando como tais, para fins de incidência, qualquer firma individual ou sociedade que assuma o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não. Jurisprudência do C.STJ.
+2. O produtor-empregador rural pessoa física com registro no Cadastro Nacional de Pessoa Jurídica - CNPJ enquadra-se no conceito de empresa, para fins de incidência do salário-educação.
+3. Assinale-se que somente nos casos de produtor rural pessoa física desprovido de CNPJ é que o Superior Tribunal de Justiça tem afastado a incidência do salário educação, hipótese em que não se inserem os impetrantes, produtores rurais inscritos no CNPJ, conforme atestam os documentos, e que possuem empregados.
+4. Contribuintes equiparados à empresa para fins de recolhimento do salário-educação. Aplicação do princípio da solidariedade social, expressamente albergado pela Constituição Federal.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 520/531).
+Em suas razões de recurso,alegam violação doart. 15 da Lei n.9.424/1996, do art.1º, § 3º, da Lei n.9.766/1998, dos arts.45, 966, 967, 971, 982, 984 e 1.150do Código Civile dos arts. 97, III, 108, § 1º, 109, 110, 113, § 3º, e 121do Código Tributário Nacional, ao argumento de serem produtores rurais, pessoas físicas, não equiparados a empresários para fins de incidência de contribuição de salário-educação.
+Contraminuta apresentada pela parte agravada.
+Passo a decidir.
+O recurso não merece prosperar.
+Com efeito,concluiu a Corte regional que "somente nos casos de produtor rural pessoa física desprovido de CNPJ é que o Superior Tribunal de Justiça tem afastado a incidência do salário educação, hipótese em que não se inserem os impetrantes, produtores rurais inscritos no CNPJ, conforme atestam os documentos, e que possuem empregados".
+Este entendimento não destoa da jurisprudência doSuperior Tribunal de Justiça, para quem a contribuição do salário educação é devida pelo produtor rural, pessoa física, que possui registro no Cadastro Nacional de Pessoa Jurídica - CNPJ.
+Nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PRODUTOR RURAL PESSOA FÍSICA. INSCRIÇÃO NO CADASTRO NACIONAL DE PESSOA JURÍDICA (CNPJ).ENQUADRAMENTO NO CONCEITO DE EMPRESA PARA EFEITO DE INCIDÊNCIA DA CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte firmou posicionamento, em recurso repetitivo, segundo o qual a contribuição para o salário-educação é devida pelas empresas em geral e pelas entidades públicas e privadas vinculadas ao Regime Geral da Previdência Social, entendendo-se como tais, para fins de incidência, qualquer firma individual ou sociedade que assuma o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não, conforme estabelece o art. 15 da Lei n. 9.424/96, combinado com o art. 2º do Decreto n. 6.003/06.
+III - O produtor rural pessoa física, inscrito no Cadastro Nacional de Pessoa Jurídica (CNPJ), enquadra-se no conceito de empresa para efeito de incidência da contribuição para o salário-educação.Precedentes.
+IV - Os Agravantes não apresentaram argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno desprovido.
+(AgInt no REsp 1.786.468/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/06/2019, DJe 26/06/2019).
+TRIBUTÁRIO E PROCESSUAL CIVIL. CONTRIBUIÇÃO SOCIAL DESTINADA AO SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL. PESSOA FÍSICA. INEXISTÊNCIA DE COMPROVAÇÃO DE INSCRIÇÃO NO CNPJ. NECESSIDADE DE REEXAME DE PROVAS.SÚMULA 7/STJ.
+1. A jurisprudência do STJ adota o entendimento de que, mesmo em se tratando de contribuintes inscritos na Receita Federal como contribuintes individuais, ocorre a incidência da contribuição para o salário-educação quando for produtor rural pessoa física com CNPJ.Somente nos casos de produtor rural pessoa física desprovido de CNPJ é que esta Corte tem afastado a incidência do salário-educação.
+2. Entretanto, o acórdão recorrido não merece reforma, haja vista o Tribunal de origem não ter se pronunciado sobre se o recorrido, produtor rural pessoa física, possui inscrição no CNPJ. Dessarte, a revisão no julgado, para se demonstrar a existência de tal inscrição, viola o teor do enunciado insculpido na Súmula 7 do STJ.
+3. Recurso Especial não conhecido.
+(REsp 1.847.350/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/12/2019, DJe 12/05/2020).
+Na hipótese dos autos, considerado o delineamento fático realizado pelo órgão judicial a quo, deve-se reconhecer que o recurso especial encontra óbice nas Súmulas 7 e 83 do STJ, porquanto, além de o acórdão recorrido estar em conformidade com a orientação jurisprudencial deste Tribunal Superior, não há como se revisar a conclusão adotada sem o reexame de fatos e provas.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
