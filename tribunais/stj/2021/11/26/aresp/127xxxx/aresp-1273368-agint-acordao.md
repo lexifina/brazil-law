@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 1.175/1.182) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 1.166/1.168).
+Em suas razões, os agravantes aduzemnão serem aplicáveis as Súmulas n. 7/STJ e 283/STF.
+Ao final, pedem a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Aagravadaapresentou contrarrazões e requereu a majoração dos honorários advocatícios (e-STJ fls. 1.187/1.230).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LARGURA DA FAIXA DE SERVIDÃO DE PASSAGEM.REAPRECIAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem reconheceu quea servidão recairia sobre a área de 20 (vinte) metros. Alterar essa conclusão demandaria reexame do acervo probatório dos autos, providência vedada em recurso especial.
+3. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, nos termos da Súmula n. 283/STF.
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+Os agravantes não trouxeram nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.166/1.168):
+Trata-se de agravo nos próprios autos interposto por MARIA JOSÉ GAGNO GRILLO e OUTROS contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 7/STJ (e-STJ fls. 1.104/1.108).
+O acórdão recorrido está assim ementado (e-STJ fls. 922/923):
+APELAÇÃO CÍVEL - AÇÃO DE SERVIDÃO ADMINISTRATIVA DE PASSAGEM - DECRETO-LEI 3.365/1941 - SENTENÇA ULTRA PETITA -DECOTE DO EXCESSO - LARGURA DA FAIXA DE SERVIDÃO E VALOR DA INDENIZAÇÃO - PROPORCIONALIDADE - JUROS COMPENSATÓRIOS E JUROS DE MORA - HONORÁRIOS ADVOCATÍCIOS - RECURSOS PARCIALMENTE PROVIDOS.
+1.É ultra petita a sentença que institui servidão administrativa de passagem com a largura de 50 (cinquenta) metros, quando pedido sua instituição com a largura de 20 (vinte) metros, em conformidade com a "descrição da faixa" contemplada nos memoriais descritivos correspondentes aos imóveis referidos na petição inicial e dentro do limite de largura referido no decreto expropriatório, impondo-se o decote do excesso.
+2. Servidão administrativa é um direito real público que autoriza o Poder Público a usar a propriedade imóvel para permitir a execução de obras e serviços de interesse coletivo, fundando-se no principio da supremacia do interesse público sobre o privado.
+3. O processo judicial para a instituição de servidão administrativa, por força do artigo 40, do Decreto Lei 3.365/1941, é o mesmo utilizado para a Ação de Desapropriação, razão pela qual também aqui é vedada discussão acerca dos motivos ensejadores desse ato administrativo, nos termos do artigo 9º, do Decreto Lei 3.365/1941.
+4. O Decreto -Lei 3.365/1941 prevê, impositivamente, como única forma de se aferir o justo valor da indenização, perícia técnica, a ser realizada por um expert, por determinação do Juízo. Como não há outros elementos que possam infirmar as conclusões tiradas pelo experto, há que dar relevância a tal prova, mormente porque realizada por perito nomeado pelo Juizo.
+5. Deve ser reconhecido o direito do apelante ESPÓLIO DE ELIAS GAGNO E OUTROS à fixação de juros compensatórios, sobre o valor indenizatório, contada desde a data da imissão provisória na posse, em 04-07-2007, até o efetivo pagamento no percentual de 12% ao ano, nos termos das Súmulas 408 do STJ e 618 do STF.
+6. Como foi deferida liminar de imissão na posse dos imóveis, efetivada aos 04-07-2007, também é devida determinação para a incidência de juros de mora de 6% (seis inteiros por cento) ao ano, na forma do art.15-B, do Decreto -Lei nº 3.365/1941, apenas sobre o valor que exceder o montante já depositado em conta judicial remunerada, a partir de 1º de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito, de acordo com o enunciado da Súmula Vinculante 17 do Supremo Tribunal Federal.
+7. No que se refere ao valor fixado a título de honorários sucumbenciais, estes devem ser mantidos inalterados, vez que foram fixados em 5% do valor da diferença entre o valor fixado a título indenizatório e aquele depositado pela parte autora ,em observância ao disposto no Decreto-lei nº3.365/41.
+8. Recursos parcialmente providos.
+Os embargos de declaração foram rejeitados (e-STJ fls. 999/1.005). Novos aclaratórios foram rejeitados, com imposição de multa (e-STJfls. 1.039/1.046).
+No especial (e-STJ fls. 1.017/1.023), fundamentado no art. 105, III, "a", da CF, os recorrentes alegaramviolação doart. 6º do Decreto-Lei n. 3.365/1941, pois "não fora observado pelo Tribunal Estadual/ES a redação do Decreto Federal Expropriatório de 21.07.2005 vez que nele consta, expressamente, que a área objeto da servidão é de 50m (cinquenta metros), sendo uma faixa edificante de 20m (vinte metros) e duas faixas de área não edificante de15m (quinze metros) cada" (e-STJ fl. 1.020).
+No agravo (e-STJ fls. 1.142/1.148), afirmam a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Assim decidiu o TJES(e-STJ fls. 1.003/1.004):
+Inicialmente não verifico a alegada contradição com relação ao fato de ter se consignado no julgado que o valor indenizatório deve observar o efetivo prejuízo decorrente da servidão e o delimitar à área de 20 metros de largura instituída pela servidão.
+Afinal, a passagem do laudo pericial utilizada no voto condutor é clarividente de que o prejuízo efetivamente detectado à esfera jurídica dos embargantes está delimitado à área de 20 metros. Confira-se:
+(..)
+Ademais disso, embora o perito esclareça que o decreto expropriatório verse acerca de área maior (50 metros de largura), aponta que a servidão será na prática instituída apenas na porção menor de 20 metros de largura, sobre a qual foi apurado o quantum para a devida indenização tal como consignado no julgado embargado (fl. 786).
+Logo, se não há proposições inconciliáveis, o vício da contradição inexiste.
+Ainda não verifico o defeito da obscuridade na decisão embargada relativa à permissão equivocada, já que é assente na jurisprudência o entendimento que o pedido formulado no instrumento da demanda se extrai da sua interpretação lógico-sistemática. Sob esse enfoque, não vejo como desconsiderar que a expropriante visa a instituição da servidão administrativa adstrita à área de 20 metros de largura.
+Por outro lado, observo que o acórdão recorrido consignou em seu dispositivo a reforma da sentença para "instituir a servidão administrativa de passagem sobre os imóveis descritos na petição inicial numa faixa de 20 (vinte) metros de largura, destinada à implantação de dutos, nos termos do Decreto Presidencial de 21 de julho de 2005 (DOU de 22-07-2005, fls. 13/17)" (fl. 787), denotando que atribui a interpretação que entendeu adequada à espécie com a aplicação do dito ato normativo expropriatório, não havendo que se falar em omissão.
+O Tribunal de origem entendeu que houve desrespeito ao decreto expropriatório, pois, através de uma interpretação lógico-sistemática, conclui-seque,na prática, aservidão administrativa incidiria sobre uma faixa de 20 (vinte) metros de largura. Tal fundamento não foi impugnado pelos recorrentes, aplicando-se, portanto, a Súmula n. 283/STF.
+Além disso, desconstituir a premissa estabelecida pela Corte local, de que houve observância do decreto expropriatório, exigiria a apreciação do conjunto fático-probatório dos autos, procedimento vedado pela Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+O Tribunal de origem entendeu que o objeto de servidão administrativa é a área de 20 (vinte) metros, pois seria a faixa efetivamente utilizada pela recorrida. Destacou que (e-STJ fls. 924/925):
+Ante o pedido expresso de instituição de servidão administrativa de passagem numa faixa de 20 (vinte) metros de largura situada dentro do imóvel referido na petição inicial, deduzido em conformidade com o respectivo decreto expropriatório, de 21-06-2005, no prazo legal, da ausência de resistência e da existência do respectivo valor da indenização, conforme avaliaçãocontemplada na prova pericial, não impugnada pelas partes,impõe-se o julgamento pela procedência do pedido conforme deduzido pela apelante.
+Eventual intervenção ou limitação da propriedade fora dessa faixa estará em desconformidade como pedido, abrindo-se aos apelados a possibilidade de provocar o Poder Judiciário para pleitearem o que lhes entender devido.
+A Corte local esclareceu que a prova técnica dos autos comprovou que o prejuízo efetivamente sofrido pelos recorridos estaria limitado à área dos 20 (vinte) metros, não sendo devidoo arbitramentode indenização sobre área maior do que aquela efetivamente utilizada.
+Reformar o acórdão recorrido exigiria o indispensável exame do conjunto fático-probatório dos autos. Portanto inafastável a Súmula n. 7/STJ.
+Por fim, entendeu o TJES que a lide está adstritaao pedido apresentado na petição inicial, estandoexpresso na inicial oreconhecimento daservidão de passagem sobre a faixa de 20 (vinte) metros. Tal fundamento não foi impugnado pela parte agravante. Inafastável a Súmula n. 283/STF.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Nos termos da jurisprudência desta Corte, não haverá a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC/2015 no julgamento de agravo interno e embargos de declaração.
+É como voto.
