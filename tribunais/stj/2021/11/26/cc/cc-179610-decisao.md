@@ -1,0 +1,11 @@
+DECISÃO
+O JUÍZO FEDERAL DA 1ª VARA DE GUAÍRA - SJ/PR suscita conflito de competência, em execução penal, diante do JUÍZO DE DIREITO DA 1ª VARA CÍVEL E CRIMINAL DE NOVO MUNDO - MS.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o Juízo competente para a execução penal de sentenciadoque teve a pena fixada em regime aberto e substituída por restritiva de diretos, na hipótese de seu domicílio ser em local diverso do da condenação.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 1ª Vara de Guaíra - SJ/PR, ora suscitante (fls. 436-439).
+Decido.
+Compulsando os autos, observo que, no caso, não há a incidência da Súmula n. 192 do STJ, visto que o sentenciado não se encontra recolhido em estabelecimento prisional estadual, na medida em que a pena privativa de liberdade foi estabelecida em regime aberto e convertida em restritiva de direitos.
+Em casos similares, esta Corte firmou a compreensão de que "Tendo o réu sido condenado pela Justiça Federal a pena a ser inicialmente cumprida no regime aberto, deve a execução ser processada por esta, nos termos do art. 65, da Lei de Execuções Penais." (AgRg no CC n. 153.707/PR, Rel. Ministro Felix Fischer, DJe 10/11/2017).
+De fato, a competência para a execução penal cabe ao Juízo do local da condenação, nos termos do art. 65 da LEP, sendo deprecado, se for o caso, ao Juízo do domicílio do apenado somente a supervisão e acompanhamento o cumprimento da pena determinada, sem o deslocamento de competência.
+Além disso, como assinalou o Parquet Federal, "tem-se que os municípios de Guaíra no Estado do Paraná e Mundo Novo Estado de Mato Grosso do Sul são geograficamente pertos. Tendo distancia aproximada de 25 KM (vinte e cinco quilômetros). Apesar de se localizarem em estados diferentes, são contíguos. Nada impedindo ao Juízo da condenação executar a pena imposta, sem a participação do Juízo de Mundo Novo, local de residência do condenado" (fl. 438)
+À vista do exposto, conheço do conflito para declarar competente o Juízo Federal da 1ª Vara de Guaíra - SJ/PR, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
