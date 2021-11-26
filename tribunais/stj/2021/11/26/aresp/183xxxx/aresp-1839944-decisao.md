@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto porCOMPANHIA DE SEGUROS PREVIDÊNCIA DO SUL com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE VIDA COBRANÇA COMPLEMENTAR. SEGURO DE EM GRUPO.SENTENÇA DE IMPROCEDÊNCIA. INCONFORMISMO DO AUTOR.
+CONTRARRAZÕES. ALEGADA INOVAÇÃO RECURSAL. INOCORRÊNCIA. PLEITO DE INCIDÊNCIA DE CORREÇÃO MONETÁRIA SOBRE OS VALORES PAGOS ADMINISTRATIVAMENTE QUE FOI DEVIDAMENTE EXPOSTO NA EXORDIAL E NO RECURSO.
+APELO. SUSTENTA VIOLAÇÃO DO DEVER DE INFORMAÇÃO, E POR CONSEQUÊNCIA TERIA DIREITO AO PAGAMENTO INTEGRAL DA INDENIZAÇÃO POR INVALIDEZ POR ACIDENTE. ACOLHIMENTO.MODIFICAÇÃO DE ENTENDIMENTO ACERCA DA MATÉRIA PARA RECONHECER A RESPONSABILIDADE DAS SEGURADORAS EM PRESTAR AS INFORMAÇÕES AO SEGURADO E NÃO SÓ A ESTIPULANTE, DIANTE DOS PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR.AUSÊNCIA DE CIÊNCIA DO SEGURADO SOBRE A LIMITAÇÃO DA INDENIZAÇÃO. TABELA DE GRADUAÇÃO DE LESÃO AFASTADA. COMPLEMENTAÇÃO SECURITÁRIA DEVIDA NO VALOR MÁXIMO PREVISTO NA APÓLICE. CORREÇÃO MONETÁRIA A INCIDIR DA CONTRATAÇÃO DO SEGURO E JUROS DA CITAÇÃO.
+PLEITO DE CORREÇÃO MONETÁRIA SOBRE O VALOR PERCEBIDO NA VIA ADMINISTRATIVA.POSSIBILIDADE. APLICAÇÃO DO INPC DESDE A DATA DA CONTRATAÇÃO ATÉ A DATA DO ADIMPLIMENTO EXTRAJUDICIAL. SENTENÇA REFORMADA.
+INVERSÃO DO ÔNUS SUCUMBENCIAL.
+RECURSO CONHECIDO E PROVIDO. (SIC)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, em preliminar, que o Tribunal a quo se manteve omisso em relação ao paradigma do STJ,REsp 1.727.718/MS, de Relatoria do Ministro Ricardo Villas Bôas Cueva, queconsidera atendido o dever de informação, quando constante no contrato o termo "ATÉ".
+Defende, outrossim, que o Tribunal a quo negou vigência aos arts.757, 759, 760, e 801, §1º, do Código Civil, combinados com os arts 6º,III,47, do Código de Defesa do Consumidor, e com o art 21, § 2º,do Decreto-Lei 73/1966, pois em seguro de vida em grupo, o dever de informação é do Estipulante na qualidade de mandatário do grupo segurado, e não da seguradora.
+Apresentadas contrarrazões às fls. 368/388.
+O referido recurso não foi admitido, por se entender, essencialmente, incidente, na espécie, a Súmula 83/STJ.
+Daí porque foi interposto o presente agravo.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+A insurgência da seguradora recorrente consiste na impugnação da tese segundo a qual,em contratos de seguro de vida em grupo, compete à seguradora esclarecer os segurados/consumidores acerca do produto oferecido, suas condições, cobertura e limitações, não sendo suficiente que preste informações apenas ao estipulante.
+O tema recursal, portanto, gira em torno do direito à informação por parte da seguradora acerca da cobertura do contrato de seguro de vida.
+O recurso especial é oriundo de ação de cobrança de seguro de vida, cujo pedido centra-se na complementação de valores já recebidos em âmbito administrativo, tempor discussão objetiva o dever de informação da seguradora acerca das condições gerais do seguro.
+Com efeito, aquestão de direito do recurso especial foi afetada à Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, tendo por tese representativa da controvérsia definir se cabe à seguradora e/ou estipulante o dever de prestar informação prévia ao segurado,delimitando o Tema 1.112/STJ dos Recursos Especiais Repetitivos.
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto,determinoa devolução dos autos ao Tribunal de origem, com a devida baixa, para que, o recurso especial permaneça suspenso até a publicação do acórdão paradigma, nos termos do art. 1.037, II, do Código de Processo Civil de 2015, devendo ser analisado, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se.
