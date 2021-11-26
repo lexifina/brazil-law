@@ -1,0 +1,49 @@
+DECISÃO
+FABIO YUTAKA ASSAKAWA e CRISCIA DÉBORA HABARA ASSAKAWA (FABIO e CRISCIA) ajuizaram ação de desfazimento contratual e restituição de valores pagos contra SCAMATTI E AGROSETA-FIGUEIRA 2 EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (SCAMATTI), em razão de dificuldades financeiras para continuar pagando as prestações do contrato depromessa de compra e vendado lote nº 08, Quadra 01, do loteamento denominado Residencial Figueira 2.
+O Magistrado de 1º Grau julgou parcialmente procedentes os pedidos para declarar rescindido o contrato de promessa de compra e venda e condenar SCAMATTI a restituir os valores pagos, em uma única vez, atualizados monetariamente a partir dos respectivos desembolsos, deduzindo-se o percentual de 20% e os eventuais valores devidos pelos autores a título de IPTU e taxa condominial (e-STJ, fls. 198/201).
+O Tribunal de Justiça de São Paulo deu parcial provimento ao recurso de apelação interpostopor SCAMATTI, determinandoque os juros de mora incidissem a partir do trânsito em julgado da decisão definitiva.
+Referido acórdão, da relatoria do Des. PENNA MACHADO, ficou assim ementado:
+APELAÇÃO CÍVEL. Ação de Rescisão Contratual c.c. devolução de valores pagos. Promessa de Compra e Venda. Sentença de parcial procedência. Inconformismo da Ré. Acolhimento em parte. Dada a peculiaridade do caso em questão, se mostra adequado o percentual a titulo de retenção de 20% (vinte por cento) de tudo o que foi pago pelos Apelantes, a titulo de ressarcimento das despesas administrativas, índice que se mostra em conformidade com precedentes Jurisprudenciais. Juros de mora de 1% (hum por cento) ao mês incidência a partir do trânsito em julgado da Decisão definitiva. Indenização a titulo de uso/fruição. Descabida a cobrança da indenização mensal pelo tempo de fruição, os Apelados alegam que jamais tomaram posse do Imóvel. Configuração de arras confirmatórias e não penitenciais. Eventuais débitos de IPTU e taxa condominial porventura devida aos Autores, desde que comprovados o pagamento pela Ré, deverão ser abatidos no valor da restituição devida, em liquidação de sentença. RECURSO PROVIDO EM PARTE, tão somente para determinar que os juros de mora (1% ao mês) devem incidir a partir do trânsito em julgado da Decisão definitiva, mantendo-se, no mais, mais, a respeitável sentença de Primeira Instância (e-STJ, fl. 246).
+Inconformada, SCAMATTI interpôs recurso especial com fundamento no art. 105, III, alíneas a e c, da CF, apontando dissídio jurisprudencial e violação dos arts. 402, 418, 419, 475, 884, 885 e 1.196, todos do CC/02, ao sustentar (1) que há previsão contratual e amparo legal para a retenção das arras; (2) ser devida a indenização a título de ocupação ou fruição do imóvel em decorrência da posse, independente de se tratar de lote de terreno sem construção; e (3) que o percentual de retenção deve ser majorado para 25% dos valores pagos.
+Sem que fossem apresentadas contrarrazões (e-STJ, fl. 321), o recurso especial foi admitido na origem (e-STJ, fls. 322/324).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Previsão contratual para retenção das arras
+SCAMATTI alegou que haveriaprevisão contratual e amparo legal para a retenção das arras.
+O Tribunal estadual afirmou no entanto, que as arras integravam o valor do sinal e tinham por finalidade antecipar o pagamento do preço, não apresentando natureza penitencial.
+Confira-se:
+Com relação às arras, tem-se que o valor previsto a título de sinal integra o preço do Imóvel e tem por objetivo confirmar o Contrato, mediante a antecipação do pagamento de parte do preço, estando presente a irretratabilidade do Negócio, tratando-se, pois de arras confirmatórias.
+Assim, inaplicável ao caso o disposto no artigo 418 do Código Civil, pois o valor pago pelo Autor, a título de sinal, não se configura como arras penitenciais, mas sim confirmatórias, que têm por objetivo apenas confirmar o Contrato e antecipar o pagamento do preço(e-STJ, fl. 249).
+Impossível rever essa conclusão sem reexaminar o contrato, o que veda a Súmula nº 5 do STJ.
+(2) Indenização pela fruição do lote
+As razões recursais alegaram que ainda seriadevida indenização a título de ocupação ou fruição do imóvel em decorrência da posse.
+Segundo orientação jurisprudencial das Turmas que compõem a 2ª Seção no entanto, não é cabível indenização pela ocupação de lote não edificado.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. TAXA DE FRUIÇÃO. LOTE NÃO EDIFICADO. MERA IMISSÃO NA POSSE. INDENIZAÇÃO INDEVIDA.
+PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme jurisprudência do Superior Tribunal de Justiça, "não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem  (AgInt no REsp 1.896.690/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/08/2021, DJe 26/08/2021).
+2. Agravo interno desprovido.
+(AgInt no REsp 1.897.785/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 14/10/2021)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. AÇÃO DE RESCISÃO CONTRATUAL. TAXA DE OCUPAÇÃO DO BEM. TERRENO NÃO EDIFICADO.IMPOSSIBILIDADE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Consoante entendimento desta Corte, não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem. Precedente.
+2. A Súmula n. 83 do STJ aplica-se aos recursos especiais interpostos com fundamento tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.896.690/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 26/8/2021)
+(3)Percentual de restituição
+SCAMATTI alegou, finalmente, que poderiareter 25% dos valores recebidos a título de pagamento, e não apenas 20% como deferido pelas instâncias de origem, fim de compensar os encargos administrativos, as despesas de publicidade inerentes a essa espécie de Contrato e as perdas e danos devidas pelo inadimplemento culposo.
+De fato, a Jurisprudência desta Corte orienta que o percentual de retenção cabível nessas situações, é mesmo o de 25%.
+Confira-se:
+RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CONTRATO ANTERIOR À LEI 13.786/2018.INCORPORAÇÃO IMOBILIÁRIA. DESISTÊNCIA IMOTIVADA DO PROMISSÁRIO COMPRADOR. RESTITUIÇÃO PARCIAL. DEVOLUÇÃO AO PROMISSÁRIO COMPRADOR DOS VALORES PAGOS COM A RETENÇÃO DE 25% POR PARTE DA VENDEDORA.JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO. PRECEDENTE FIRMADO EM JULGAMENTO DE RECURSO REPETITIVO.
+1. A despeito do caráter originalmente irretratável da compra e venda no âmbito da incorporação imobiliária (Lei 4.591/1964, art.
+32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, de há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim de rescindir o contrato e receber, de forma imediata e em pagamento único, a restituição dos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ).
+2. Hipótese em que, ausente qualquer peculiaridade, na apreciação da razoabilidade da cláusula penal estabelecida em contrato anterior à Lei 13.786/2018, deve prevalecer o parâmetro estabelecido pela Segunda Seção no julgamento dos EAg 1.138.183/PE, DJe 4.10.2012, sob a relatoria para o acórdão do Ministro Sidnei Beneti, a saber o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos adquirentes, reiteradamente afirmado por esta Corte como adequado para indenizar o construtor das despesas gerais e desestimular o rompimento unilateral do contrato. Tal percentual tem caráter indenizatório e cominatório, não havendo diferença, para tal fim, entre a utilização ou não do bem, prescindindo também da demonstração individualizada das despesas gerais tidas pela incorporadora com o empreendimento.
+3. Nos termos da jurisprudência desta Corte, firmada pela Segunda Seção em julgamento submetido ao rito dos recursos repetitivos, "nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei n. 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão" (REsp 1.740.911/DF, DJe 22.8.2019).
+4. Recurso especial parcialmente provido.
+(REsp 1.723.519/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Segunda Seção, DJe 2/10/2019)
+Nessas condições, DOU PARCIAL PROVIMENTO ao recurso especial, apenas para majorar de 20% para 25% o percentual de retenção cabível dos valores recebidos a título de pagamento.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. DESISTÊNCIA DO NEGÓCIO POR PARTE DO ADQUIRENTE. PRETENÇÃO DE RECEBIMENTO DE ARRAS PENITENCIAIS. SÚMULA Nº 5 DO STJ. TAXA DE FRUIÇÃO PELO TEMPO DE OCUPAÇÃO. NÃO CABIMENTO POR SE TRATAR DE LOTE NÃO EDIFICADO. PERCENTUAL DE RETENÇÃO DOS VALORES DEVIDOS. 25%. PRECEDENTE. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
