@@ -1,0 +1,67 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial na Apelação Cível no 1002843-13.2020.811.0009
+Recorrente: LORIVAL FERREIRA GODINHO
+Recorrido: BANCO BRADESCO FINANCIAMENTOS S/A
+Vistos.
+Trata-se de recurso especial (id. 106551960) interposto por LORIVAL FERREIRA GODINHO, com fundamento no art. 105, III, alíneas “a” e “c”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Privado deste Sodalício, o qual negou provimento ao seu recurso de apelação cível, conforme a seguinte ementa (id. 105503488):
+“RECURSO DE APELAÇÃO – AÇÃO DECLARATÓRIA DE NULIDADE/INEXIGIBILIDADE DE DESCONTO EM FOLHA DE PAGAMENTO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS –DEMANDA PREDATÓRIA – EMPRÉSTIMO CONSIGNADO – PERÍCIA GRAFOTÉCNICA – DESNECESSIDADE – ASSINATURA VISIVELMENTE IDÊNTICA À DO MUTUÁRIO EM DOCUMENTOS PESSOAIS – AUSÊNCIA DE INDÍCIOS DE ADULTERAÇÃO – PRELIMINAR REJEITADA – AUSÊNCIA DE FALHA NA PRESTAÇÃO DOS SERVIÇOS – COMPROVAÇÃO DA RELAÇÃO JURÍDICA – DISPONIBILIZAÇÃO DO VALOR DEMONSTRADA – DANO MORAL NÃO CONFIGURADO – MULTA POR LITIGÂNCIA DE MÁ-FÉ – MANUTENÇÃO – SENTENÇA MANTIDA – APELO DESPROVIDO.
+É desnecessária a realização da prova pericial grafotécnica, quando o acervo documental colacionado aos autos permite concluir pela inexistência de fraude na contratação, ante a verificação inequívoca de identidade entre as assinaturas consignadas no contrato e aquela aposta no documento de identidade apresentado pelo autor.
+Uma vez comprovada a relação jurídica em que se alicerça os descontos efetuados na folha de pagamento do autor, bem como a disponibilização do valor contratado em sua conta corrente, inviável o acolhimento do pedido de declaração da inexistência de débito.
+Considerando a existência de provas a respeito da conduta reprovável do ponto de vista processual, da lealdade processual e da boa-fé, deve ser mantida a penalidade imposta pelo Juiz a quo em face do Apelante.
+Vale destacar que, em consulta à página deste Tribunal de Justiça de Mato Grosso, observa-se que o patrono constituído nestes autos distribuiu na Comarca de Colíder - MT, nada menos que 19 (dezenove) ações distintas em nome do autor para demandar contra cinco instituições financeiras, com alegações semelhantes e sem promover a instrução adequada da peça inaugural.
+Logo, é possível concluir que o ajuizamento de tantas demandas dessa natureza, caracteriza verdadeiro “demandismo” ou a denominada “demanda predatória”, que se traduz na mera busca pela condenação das instituições financeiras nas verbas de sucumbência, abarrotando o Poder Judiciário com ações repetidas e idênticas, circunstância que deve ser rechaçada com veemência pelo julgador. (RAC n° 1002843-13.2020.811.0009, Rel. CLARICE CLAUDINO DA SILVA, SEGUNDA CÂMARA DE DIREITO PRIVADO, j. em 13/10/2021)”.
+O recorrente sustenta em suas razões:
+(i) violação aos arts. 489, II e § 1o, IV e 1.022, II, do CPC, ao argumento de que o acórdão foi omisso ao deixar de analisar uma a uma as teses suscitadas nas razões recursais, deixando de fundamentar a decisão.
+(ii) violação aos arts. 79, 80 e 81 do CPC, ao fundamento de inexistência de litigância de má-fé.
+(iii) divergência jurisprudencial no que atine a necessidade de afastamento da má-fé processual.
+Recurso tempestivo (id. 106765976).
+Isento de preparo, ante a gratuidade de justiça (Certidão de id. 106791960).
+Contrarrazões (id. 109785479).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+A hipótese prevista no art. 105, III, letra “a” e “c” da Constituição Federal prescreve a apreciação, pelo STJ, de recurso especial oposto contra acórdão que, em única ou última instância, tenha contrariado lei federal ou negado sua vigência (“a”) e der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal (“c”).
+Entretanto, em que pesem as argumentações do recorrente, o recurso não pode alcançar o normal seguimento.
+Da suposta violação aos arts. 489, § 1°, IV e 1.022, II, do CPC.
+A partir da suposta ofensa aos arts. 489 § 1°, IV e 1.022, II, do CPC, o recorrente alega de forma genérica que o órgão fracionário deste Tribunal não teria abordado suficientemente as questões por ela suscitadas nos autos.
+Na hipótese, o juízo singular julgou improcedente a pretensão declaratória de nulidade/inexigibilidade de desconto em folha de pagamento com repetição de indébito e danos morais, condenando o autor/recorrente ao pagamento de multa por litigância de má-fé.
+Ao analisar o recurso, o órgão fracionário deste Sodalício ratificou a decisão de origem e consignou as seguintes ponderações nas razões de decidir:
+“Na hipótese em exame, é possível aferir, a olhos nus, de uma simples comparação entre os documentos colacionados autos, que assinaturas consignadas no contrato de empréstimo (ID. 101521984) são idênticas ao documento de identidade apresentado pelo autor no momento da contratação, que, por sua vez, é o mesmo documento colacionado à petição inicial (ID. 101581488).
+[...]
+Nesse contexto, infere-se que o acervo documental colacionado aos autos permite aferir, com a certeza necessária, a inexistência de fraude na contratação, de modo afastar a necessidade de realização da prova pericial pleiteada.
+[...]
+Ao que se extrai do caderno processual, o Apelante afirma desconhecer o Contrato n.o 808711453, celebrado em 15/05/2017, no valor de R$ 1.435,98 (mil quatrocentos e trinta e cinco reais e noventa e oito centavos), cujo pagamento seria em 72 vezes de R$ 41,27 (quarenta e um reais e vinte e sete centavos), vencendo a primeira em 07/07/2017 e a última em 07/06/2023, mediante desconto no benefício previdenciário.
+Todavia, foi juntado pela Instituição Financeira o “Contrato de Empréstimo Pessoal Consignado em Folha de Pagamento ou em Benefício Previdenciário” com as descrições acima mencionadas, cujos documentos estão devidamente assinados pelo Apelante (ID. 101581984).
+Especificamente sobre a transferência do numerário, em que pese ao Apelante sustentar que o documento não comprova a realização do empréstimo, competia-lhe trazer o extrato da sua conta com o fito de comprovar que, em maio de 2017, não recebera qualquer transferência eletrônica na importância contratada. Todavia, optou em atribuir esse ônus à instituição financeira, encobrindo-se sob o manto da hipossuficiência e idade avançada, o que não é suficiente.
+[...]
+Vale destacar que, em consulta à página deste Tribunal de Justiça de Mato Grosso, observa-se que o patrono constituído nestes autos distribuiu na Comarca de Colíder - MT, nada menos que 19 (dezenove) ações distintas em nome do autor para demandar contra cinco instituições financeiras, sem qualquer preocupação em buscar a aglitunação de processos e sem causas sobrecarga ao sistema judiciário, especialmente porque sempre pleiteia a gratuidade e não promove a instrução adequada da peça inaugural, assim como não menciona em nenhum momento a existência de outros tantos processos semelhantes.
+Logo, essa atitude reiterada leva aconcluir que o ajuizamento de tantas demandas dessa natureza caracteriza verdadeiro “demandismo” ou a denominada “demanda predatória”, que se traduz na mera busca pela condenação das instituições financeiras nas indenizações e verbas de sucumbência, abarrotando o Poder Judiciário com ações que não se sustentam e oneram o contribuinte que acababa pagando pela movimentação da máquina judiciária sem pagamento de custas, circunstância que deve ser rechaçada com veemência pelo julgador.
+[...]
+No que tange à pena por litigância de má-fé, não verifico motivos para sua exclusão porque esta lide foi manejada de modo temerário, com o único fim de obter vantagem em detrimento da Instituição Bancária.
+Assim concluo porque o Apelante beneficiou-se do numerário e, mesmo assim, propôs a ação alegando desconhecer a contratação, tentando induzir o Juiz a erro mediante alteração dos fatos, na expectativa de obter indenização por dano moral, repetição do indébito e sucumbência.
+Além de o direito alegado na inicial não encontrar ressonância nas provas, tampouco na jurisprudência desta Corte, o manejo da ação configurou ato de má-fé do Apelante, sobretudo porque está configurado o uso abusivo de direitos de acesso à jurisdição ao pleitear a inexigibilidade de dívida e a reparação por danos morais, em franco e claro prejuízo à parte adversa. neste e em outros 18 processos similares”. (grifei).
+Diante desse quadro, não há evidência de violação aos art. 489, § 1°, IV e 1.022, II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Do reexame de matéria fática (Súmula 07 do STJ)
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não se mostrando possível que se examine matéria fático-probatória, ante o teor da Súmula 07 do STJ:
+“Súmula 07/STJ. A pretensão de simples reexame de prova não enseja recurso especial”.
+A alegada suposta violação aos arts. 79, 80 e 81 do CPC demonstra o simples interesse do recorrente em reverter o julgado ao seu favor, em especial na apreciação no sentido de inexistência de má-fé. Todavia, para tanto, seria imprescindível a incursão em seara fático-probatória, o que é vedado pela Súmula 07/STJ.
+O órgão fracionário deste Sodalício ponderou a questão sob análise demandando apenas o simples reexame do conjunto probatório dos autos e, nesse sentido, manteve a decisão de primeiro grau.
+Assim, insuscetível de revisão o entendimento firmado pelo Tribunal, eis que a necessidade de se revolver conteúdo fático-probatório encontra óbice ante o disposto na Súmula 07/STJ. A propósito, nesse sentido:
+“(...) LITIGÂNCIA DE MÁ-FÉ. NECESSIDADE DE REVOLVIMENTO PROBATÓRIO. SÚMULA 7/STJ. CONVERSÃO DO PEDIDO. DESCABIMENTO. AÇÃO JULGADA IMPROCEDENTE. VIOLAÇÃO DO ART. 461, §1o, DO CPC/1973 NÃO CARACTERIZADA. (...) VII - Ao condenar a autora em litigância de má-fé o magistrado valeu-se de considerações que não podem aqui ser revistas ou rediscutidas, sob pena de ofensa ao enunciado da Súmula n. 7/STJ, pois demandaria o revolvimento do conjunto fático-probatório dos autos. (...) (REsp 1761233/CE, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, j. em 22/09/2020, DJe 30/09/2020)” (grifei).
+“(...). LITIGÂNCIA DE MÁ-FÉ. SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. HONORÁRIOS ADVOCATÍCIOS. SÚMULA N. 283/STF. DECISÃO MANTIDA. (...) 5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ). 6. No caso concreto, afastar a conclusão da Corte de origem de que houve litigância de má-fé demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial. (...) 8. Agravo interno a que se nega provimento. (AgInt no AREsp 1634949/RJ, Rel. Min. ANTONIO CARLOS FERREIRA, QUARTA TURMA, j. em 18/05/2020, DJe 21/05/2020)” (grifei).
+Portanto, vedada a análise da referida questão pelo STJ quanto a alegada violação aos arts. 79, 80 e 81 do CPC.
+Registre-se, por fim, que fica prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 07 do STJ. A propósito, o entendimento da Corte Superior é no sentido de que: “a incidência da Súmula 7 do STJ, prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte” (AgInt no REsp 1884179/PR, Rel. Min, NANCY ANDRIGHI, TERCEIRA TURMA, j. em 30/11/2020, DJe 02/12/2020).
+A Corte Superior de Justiça vem reiteradamente decidindo que quando houver negativa de seguimento do recurso especial pela alínea “a”, fica, de igual forma, obstado o seguimento do recurso interposto também pelo fundamento da alínea “c”. Nesse sentido:
+“PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. MILITAR. CONTRATO DE MÚTUO. INADIMPLEMENTO. CONSIGNAÇÃO EM FOLHA DE PAGAMENTO. SUPOSTA OFENSA AOS ARTS. 489 DO CPC/2015 E 14, § 3o, DA MP 2.215-10/2001. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. HISTÓRICO DA DEMANDA (...) IMPOSSIBILIDADE DE CONHECIMENTO DO RECURSO. (...). 7. Destaque-se que fica prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional. (...). Recurso Especial não conhecido. (REsp 1746018/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, j. em 16/06/2020, DJe 18/09/2020)” (grifei).
+Diante desse quadro, inviável também a admissão do recurso com base na alínea “c” do art. 105, III, da CF.
+Ante o exposto, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
