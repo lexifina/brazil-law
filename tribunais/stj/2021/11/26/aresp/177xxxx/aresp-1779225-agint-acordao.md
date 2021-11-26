@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 638/651) interposto contra decisão desta relatoria que negou provimento ao agravo em recurso especial.
+Em suas razões, o agravante afirma a desnecessidade de reexame de provas, a configuração de cerceamento de defesa, a existência de violação dos arts. 489 e 1.022 do CPC/2015 e a ausência de responsabilidade do profissional pelos danos alegados pelo paciente.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Os agravados apresentaram contrarrazões (e-STJ fls. 654/659 e 660/669).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. ERRO MÉDICO. DEVER INDENIZATÓRIO. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido e a decisão agravada pronunciam-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. No caso concreto, o Tribunal de origem analisou a prova dos autos para concluir pela desnecessidade de realização das provas requeridas e pela negligência médica a ensejar a responsabilidade do profissional pelos danos causados ao paciente. Alterar tal conclusão é inviável em recurso especial.
+4. Agravo interno a que se nega provimento.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.779.225 - DF (2020/0277133-0)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+JOÃO CRISTÓVÃO FONSECA XAVIER
+ADVOGADO
+:
+SÉRGIO PAULO LOPES FERNANDES - DF012865
+AGRAVADO
+:
+HOSPITAL LAGO SUL S/A
+ADVOGADOS
+:
+SANDRA FROTA ALBUQUERQUE DINO DE CASTRO E COSTA - DF018712
+INGRID BELIAN SARAIVA - DF048376
+AGRAVADO
+:
+RAIMUNDO ALVES DE OLIVEIRA
+ADVOGADO
+:
+FRANCISCO ELCIGLEIVON BATISTA COSTA - DF051862
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 631/635):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de violação dos arts. 489 e 1.022 do CPC/2015 e da incidência da Súmula n. 7 do STJ (e-STJ fls. 570/572).
+O acórdão do Tribunal a quo está assim ementado (e-STJ fls. 447/448):
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. PROVAS PERICIAL E TESTEMUNHAL. DESNECESSIDADE OU FALTA DE IMPERTINÊNCIA. INDEFERIMENTO JUSTIFICADO. PRELIMINAR REJEITADA. RESPONSABILIDADE CIVIL. RESPONSABILIDADE DO HOSPITAL DECORRENTE DE ERRO MÉDICO. NECESSIDADE DE DEMONSTRAÇÃO DA CULPA. ELEMENTO SUBJETIVO SOBEJAMENTE COMPROVADO. DEVER DE INDENIZAR MANTIDO. RECURSO CONHECIDO E DESPROVIDO.
+1. Não se evidencia qualquer vício na decisão que indefere a dilação probatória, se era prescindível ao deslinde da causa, em razão da matéria encontrar-se suficientemente esclarecida pelos documentos coligidos aos autos e pelos fatos que se tornaram Incontroversos. Preliminar de cerceamento de defesa rejeitada.
+2. Aplica-se a Lei nº 8.078/90 às relações estabelecidas entre paciente e hospital e o médico. Mas quando a pretensão repousa em possível falha na prestação do serviço pelo médico, a responsabilidade tanto do profissional de saúde, como do hospital não prescinde da demonstração da culpa.
+3. Os artigos 951 do Código Civil e 14, §4º, do Código de Defesa do Consumidor, adotaram a teoria da culpa como fundamento da responsabilidade civil dos profissionais liberais, a exemplo dos médicos, cuja caracterização fica condicionada à comprovação de que os danos sofridos decorreram de um serviço culposamente mal prestado (negligência, imprudência e imperícia).
+4. Demonstrado o erro médico e os elementos caracterizadores do dever de indenizar e inexistindo causas excludentes de responsabilidade, devem ser compensados os danos morais sofridos pelo paciente, em razão do fragmento de pinça cirúrgica deixado em seu abdome após a cirurgia.
+5. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 508/514).
+Nas razões do recurso especial (e-STJ fls. 516/543), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente apontou ofensa aos arts. 14, § 4º, e 186 do CC/2002 e 355, 370, 373, 472, 489 e 1.022 do CPC/2015. Sustentou, em síntese, falta de prestação jurisdicional, cerceamento de defesa devido ao indeferimento da produção de provas oral e técnica e, por fim, ausência de demonstração da culpa do profissional. Alegou ainda que o fragmento de pinça se desprendeu por falha no equipamento, e não por esquecimento no abdômen do paciente.
+No agravo (e-STJ fls. 575/595), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta às fls. 600/611 e 613/617 (e-STJ).
+É o relatório.
+Decido.
+A respeito da alegada falta de prestação jurisdicional, o agravante aduz que o Tribunal de origem teria sido omisso, quanto aos seguintes pontos: (a) necessidade de produção de provas técnica e oral, (b) ausência de culpa do médico pelo desprendimento do fragmento de pinça, visto que decorrente de falha do equipamento, o que poderia ser provado através de prova técnica, (c) inexistência de negligência, visto que o próprio profissional foi quem comunicou ao paciente a existência do fragmento em seu abdômen e (d) falta de indícios de que a cirurgia de emergência teria sido em decorrência do objeto estranho deixado dentro do paciente.
+No entanto, o Tribunal de origem assim se manifestou sobre os temas (e-STJ fls. 454/460):
+Cerceamento de defesa - indeferimento de dilação probatória
+O apelante suscitou o cerceamento de defesa, sob o pálio de que as provas testemunhal e pericial pugnadas, mas negadas pelo magistrado a quo, teriam por objeto demonstrar que a ruptura do equipamento cirúrgico seria evento imprevisível e fora de seu controle.
+Pretendia a oitiva do médico assistente para demonstrar que não houve "esquecimento" do corpo estranho no interior do abdome do paciente, mas a decisão pessoal de pesquisar sua possível localização no interior da cavidade abdominal posteriormente.
+Reza o artigo 370, parágrafo único, do Código de Processo Civil que cabe ao Juiz indeferir as diligências inúteis ou meramente protelatórias. Sua aplicação tem correlação com os fatos alegados e que embasaram a pretensão.
+O juiz de origem indeferiu o pedido de dilação probatória, sob o fundamento de que a matéria seria unicamente de direito e que os documentos apresentados eram suficientes para o julgamento. Ademais, "a presença do fragmento de pinça no corpo do autor, após a cirurgia promovida pelos réus, é fato incontroverso nos autos" (fl. 303).
+Nesse passo, se as provas produzidas eram suficientes para a solução da controvérsia e aquelas pretendidas não se mostravam adequadas ou pertinentes, não haveria motivo para deferi-Ias.
+Considerando que o Juiz é o destinatário da prova e que sua produção tem por escopo auxiliá-lo na formação de seu convencimento (artigo 371 do Código de Processo Civil), caso entenda que os elementos carreados são suficientes para o julgamento. poderá indeferir a dilação probatória.
+(..)
+De mais a mais, no caso em apreço, eram de fato, desnecessárias a oitiva de testemunha e produção da perícia, porque "deixar" ou "esquecer" de pinça ou parte dela dentro do corpo do paciente, restou incontroverso.
+A justificativa dada pelo réu, de que foi sua a decisão deixá-la no abdome do paciente e efetuar uma pesquisa para sua localização após o processo de cicatrização da cirurgia, em nada muda do quadro fatioº. Na verdade, imbróglio remeteu à apreciação judicial o acerto ou desacerto da conduta médica. Mas não é só, haveria de igual modo de se investigar a existência ou não de culpa, a partir da afirmação do próprio profissional de saúde, de que não tinha controle sobre a manutenção do equipamento e que não "esqueceu" o fragmento no corpo do demandante.
+Haver ou não responsabilidade pela escolha e manuseio do equipamento cirúrgico faz parte do cenário fático já delineado e demonstrado submetido ao julgado da pretensão formulada.
+E conforme se extrai da peça vestibular, alegação é de que, após a cirurgia promovida pelos réus, foi deixado fragmento de pinça cirúrgica em seu abdome. E por conta desse histórico clínico, que o paciente se viu na necessidade de sofrer nova intervenção cirúrgica para a retirada de tal objeto e após recomendação médica.
+Portanto, seria igualmente de todo irrelevante a oitiva do médico que auxiliou o procedimento intervencionista e para demonstrar que o objeto não foi "esquecido", porque o fato restou incontroverso. E o recorrente admitiu que tinha ciência da quebra do equipamento, bem corno de que o pedaço faltante poderia encontrar-se no interior do organismo do paciente, mas decidiu por não fazer uma exploração na sua localização naquele momento.
+Assim, as provas pretendidas seriam desnecessárias, razão pela qual rejeito a preliminar de cerceamento de defesa.
+(..)
+No caso dos autos, verifica-se que o recorrente admitiu que, por ocasião do procedimento, "percebeu a ausência do fragmento no equipamento cirúrgico" (fl. 354).
+Afirmou que "avaliou a situação, decidindo não abrir o paciente por não saber se o fragmento estava localizado no corpo do paciente, avaliando que o fragmento dano nenhum causaria" (fl. 354).
+Conforme se verifica, o apelante tinha plena consciência da falha na prestação do serviço, bem como a possibilidade de que o objeto estranho estivesse no abdome do demandante.
+Consoante se infere das fotos apresentadas nos autos, o pedaço quebrado da pinça é de fácil visualização e poderia ser localizado no momento da cirurgia, caso se adotasse uma investigação exploratória
+A eventual responsabilidade pela preservação dos instrumentos cirúrgicos não tem relevância para o deslinde da controvérsia, porque o manuseio pelo cirurgião permitiu que verificasse a sua ruptura por ocasião do procedimento.
+De mais a mais, o próprio recorrente admitiu que o cirurgião tem o dever de "reportar qualquer irregularidade observada e, se for o caso, determinar a retirada do campo cirúrgico e a substituição de instrumento que considere comprometido" e, ainda, que "os instrumentos são recolhidos e conferidos pelo instrumentador - e o cirurgião tem corresponsabilidade nessa conferência" (fl. 352 - grifo nosso).
+Mas na situação envolvendo o autor da demanda, o suplicado, na condição de cirurgião, optou por não diligenciar para encontrar o objeto, assim como não informou a ocorrência ao paciente, só vindo a fazê-lo a posteriori, o que evidenciou sua imperícia e negligência.
+E chega-se a tal conclusão, na medida em que o paciente foi informado acerca da existência de possível corpo estranho dentro da sua cavidade abdominal, por ocasião da retirada dos pontos, ou seja, 9 dias após a cirurgia.
+Já os relatórios médicos coligidos demonstraram que, em razão do "corpo estranho intra-abdominal", o demandante queixou-se de dor "náuseas, vômitos e alteração do trânsito intestinal", razão pela qual foi solicitada a "internação para tratamento cirúrgico de urgência" (fl. 28).
+Assim, além de se produzir um quadro que obrigaria o paciente a realizar necessariamente nova intervenção cirúrgica, a falha do serviço causou problemas à saúde ou pelo menos desconfortos à pessoa operada, mas que não existiriam em situação de normalidade.
+(..)
+No caso sub judice, chamou à atenção o descaso por parte do médico, que não se atentou para as diretrizes concernentes à realização do correto procedimento, quando da limpeza e inspeção do abdome antes de encerrar a cirurgia e permitiu que parte do equipamento se alojasse no organismo do paciente, tornando necessária nova intervenção.
+Portanto, resta afastada a tese da ausência de culpa na conduta, porque a situação ocorrida não é permitida, tolerada e nem desejável, daí a necessidade de retirada do corpo estranho esquecido.
+Ausente a prova de excludente de responsabilidade, impõe-se o dever de indenizar.
+Desse modo, não se constata hipótese alguma de cabimento dos embargos de declaração, circunstância que, de plano, torna imprópria a invocação dos arts. 489 e 1.022 do CPC/2015 e o conhecimento do recurso especial nessa parte.
+Ademais, conforme se verifica do trecho transcrito acima, a Corte de origem, levando em consideração o acervo probatório dos autos, concluiu pela desnecessidade da produção das provas requeridas, visto que desnecessárias diante do quadro fático apresentado. Afirmou ainda que ficou comprovada a negligência médica na realização do procedimento e, consequentemente, a culpa do profissional. Divergir dessa conclusão é inviável no âmbito do recurso especial, em razão da Súmula n. 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Quanto ao argumento de omissão, verifica-se que a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, inclusive a respeito da ausência de cerceamento de defesa e da responsabilidade civil do ora recorrente pelos danos causados ao autor.
+Ausente, portanto, a apontada ofensa aos arts. 489 e 1.022 do CPC/2015.
+Ademais, o Tribunal de origem, levando em consideração o conjunto fático-probatório dos autos, concluiu pela desnecessidade de produção de outras provas e pela negligência médica a ensejar a responsabilidade do profissional pelos danos causados ao paciente.
+Alterar essa conclusão demandaria o reexame das provas, inviável em recurso especial (Súmula n. 7/STJ).
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
