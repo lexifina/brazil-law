@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por JACSON DOS SANTOS SILVAcontra acórdão do Tribunal de Justiça do Estado de Alagoas(HC n. 0803252-15.2021.8.02.0000).
+O recorrente teve a prisão em flagrante convertida em preventiva em razão da suposta prática dos delitos descritos nos arts. 121, § 2º, I, 155, § 4º, IV, e 288 do Código Penal.
+Sustenta excesso de prazo na formação da culpa, pois permanece preso cautelarmente há mais de 4 anos, sem que tenha sido submetido a julgamento.
+Requer a revogação da custódia preventiva, expedindo-sealvará de soltura.
+O pedido de liminar foi indeferido às fls. 1.077-1.078.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 1.099-1.101).
+É o relatório. Decido.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma(fls. 1.043-1.045):
+13 - Assevera-se que ao acusado, é imputado um crime que causa grave perturbação à paz social, devendo ter o cárcere mantido, uma vez que o paciente, aparentemente, oferece relevante risco à ordem pública, de modo que, todo o exposto caminha em sentido contrário à concessão da liberdade provisória.
+14 - Visto isso, restam evidentes os indícios de materialidade, autoria e periculosidade do paciente, motivo pelo qual a liberdade do mesmo poderia oferecer grave risco à ordem pública e a persecução penal, não havendo possibilidade de alteração no quadro segregatório do suposto agente.
+15 - Assevere-se, que o paciente está sendo acusado de praticar o crime qualificado, vez que, supostamente, junto com outros agentes, teria desferido diversos disparos de arma de fogo contra a vítima Valmir de Jesus Santos, logo após, subtraindo dois aparelhos de DVD da vítima Maria Charline Silva, fatos que justificam a manutenção do quadro segregatório do paciente em tela.
+ ..
+17 - Ressalte-se que o andamento do referido processo está em plena conformidade com os princípios da razoabilidade e proporcionalidade, obedecendo os prazos para cumprimento das diligências necessárias, assim como, a eficiência na execução dos atos.
+18  Ademais, o crime que se atribui ao paciente em tela, faz parte do rol de crimes hediondos, devendo ser observado com toda atenção, posto que, confirmando -se a periculosidade do agente, a sociedade precisa ter sua paz resguardada, até o momento da recolocação do paciente à sociedade, devidamente ressocializado.
+19 - Inclusive, é pertinente explicitar que todos os atos necessários ao andamento processual, estão sendo cumpridos em tempo hábil, salientando que o processo obedece a um ritmo adequado, ainda mais quando se observa a relevância do caso e as nuances existentes na questão em comento.
+ ..
+21  Isto posto, em análise as informações prestadas, assim como ao parecer ministerial, entendo que o suposto constrangimento ilegal alegado é mera ficção, ainda mais diante dos esclarecimentos trazidos, levando-se em consideração que os procedimentos necessários e possíveis já foram realizados.
+22 - Visto isso, em análise as informações prestadas, assim como a manifestação do Ministério Público, entendo que o lapso temporal apresentado no caso em comento, é aceitável, ainda mais diante dos esclarecimentos trazidos, levando-se em consideração a complexidade da matéria em questão.
+23 -Diante do exposto, observo que os requisitos que autorizaram o decreto cautelar encontram-se presentes, não havendo alteração do contexto fático apresentado e, em sendo assim, ao menos neste momento processual, concluo que os argumentos lançados pelos impetrantes não procedem, sendo necessária a preservação da segregação do paciente, não sendo cabíveis as medidas cautelares diversas previstas no art. 319 por não serem suficientes para garantir a ordem pública ou assegurar a conveniência da instrução criminal.
+24 - Desse modo, reiterando as razões expostas pelo magistrado singular e por todo o exposto no decorrer deste acórdão, concluo que os argumentos lançados pelo impetrante não procedem, entendendo ser necessária manter a decisão de prisão preventiva do paciente.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie" (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Por fim, a desproporcionalidade da medida cautelar extrema em relação a eventual condenação somente poderá ser aferida após a prolação da sentença condenatória, não podendo ser objeto de pedido liminar em habeas corpus ou em recurso que antecede o juízo de valor do órgão competente. Nesse sentido, o RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016.
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
