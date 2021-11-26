@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Regiãoassim ementado:
+ADMINISTRATIVO. PENSÃO MILITAR. ADOÇÃO PÓSTUMA. PAGAMENTO DE PENSÃO MILITAR RETROATIVA À DATA DO ÓBITO. IMPOSSIBILIDADE.
+1. Pleiteia a autora o pagamento da pensão militar retroativa à data do óbito de seu pai, militar da Força Aérea Brasileira (FAB), que se deu em 05/04/02, tendo em vista que apenas passou a perceber a pensão a partir de janeiro de 2009.
+2. Como o instituidor da pensão era contribuinte da parcela de 1,5% (um vírgula cinco por cento) e diante das informações trazidas aos autos pela FAB, com o falecimento do militar, a pensão militar foi paga inicialmente às irmãs do instituidor da pensão, tendo em vista que embora a certidão de óbito do instituidor da pensão conste que no momento do falecimento do mesmo encontrava-se em andamento ação de adoção da apelada, tal fato gerava apenas uma expectativa de direito para a autora. Desta feita, a FAB habilitou as irmãs do militar conforme o disposto na redação original do art. 7º, IV, da Lei nº 3.765/60. Por força de decisão judicial, as irmãs tiveram seu título de pensão cancelado a contar de 13/01/09. Com o trânsito em julgado do processo de adoção, a apelada foi instada a apresentar requerimento administrativo para habilitação da pensão militar, passando a perceber pensão militar a partir de abril de 2009, como única beneficiária.
+3. Os efeitos da adoção, no caso do reconhecimento póstumo, retroagem à data do falecimento do adotante, uma vez que esta é a data da abertura da sucessão e o adotado é herdeiro necessário do adotante. Só há retroatividade efetiva quando do trânsito em julgado da sentença que reconhece a adoção; ocorrendo a retroatividade para fins de direitos hereditários, e não no tocante ao benefício previdenciário, como busca a autora.
+4. Remessa necessária e apelação conhecidas e providas.
+Nas razões do recurso especial, a parte recorrente argumenta que: a) houve contrariedade do art. 7º, IV, da Lei n. 3.765/1960, porque não se estaria a tratar de habilitação de ascendentes; b) deduziu pedido administrativo para habilitação da pensão em 2002; c) devem ser operados efeitos retroativos na adoção póstuma.
+Contrarrazões (e-STJ fls. 221/223).
+Passo a decidir.
+O recurso não admite conhecimento.
+Em primeiro lugar, a parte recorrente argumenta que houve contrariedade do art. 7º, IV, da Lei n. 3.765/1960, porque não se estaria, no caso, a tratar de habilitação de ascendentes.
+Ocorre que, embora o acórdão regional tenha, de fato, incorrido em erro material ao mencionar o inciso "IV", em vez do "V" (este sim correspondente a irmãos), deixou claro, durante toda fundamentação, estar avaliando a situação das irmãs do falecido.
+Assim, o julgado em momento algum dirimiu controvérsia quanto à habilitação de ascendentes, sendo matéria estranha ao feito. O recurso especial sobre essa questão, portanto, aborda questão jurídica divorciada do caso, em razão disso não deve ser conhecido, por força da aplicação da súmula 284 do STF.
+No que concerne à alegação de que o pedido administrativo de habilitação de pensão se teriaoperado em 2002, além de ser matéria fática, que esbarra no óbice da súmula 7, não foi indicado, nesse tópico, que artigo de lei teria sido violado, a justificar a interposição de apelo especial e possibilitar o conhecimento deste.
+O mesmo raciocínio se aplica ao fundamento de que os efeitos da adoção deveriam se operar retroativamente, tanto que assim teria sido operado, em parte, na via administrativa.
+Examinar se, de fato, houve esse reconhecimento da Administração exigiria rever matéria fático-probatória.
+Além disso, a redação do apelo especial, também nesse ponto, não demonstrou de maneira clara e objetiva como o acórdão recorrido teria malferido a legislação federal, devendo ser aplicado o óbice da súmula 284 do STF ao caso.
+Por fim, embora o recurso tenha mencionado, no início, amparar-se em dissídio jurisprudencial, não há uma única linha demonstrando, nem sequer alegando, divergência de acórdãos.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
