@@ -1,0 +1,36 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial n. 1014342-29.2019.8.11.0041
+RECORRENTE: PORTO SEGURO COMPANHIA DE SEGUROS GERAIS
+RECORRIDO: DELVIMAR SILVA DE SOUZA
+Vistos.
+Trata-se de recurso especial interposto pela PORTO SEGURO COMPANHIA DE SEGUROS GERAIS com fundamento no artigo 105, inciso III, alínea “a” da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado assim ementado (id. 90395461):
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA - SEGURO OBRIGATÓRIO DPVAT – NEGATIVA DE RECEBIMENTO DO REQUERIMENTO ADMINISTRATIVO – RECUSA INJUSTIFICADA –AFRONTA AO DISPOSTO NOS ART. 5o, §2o, DA LEI No 6.194/74, E ARTS. 32, E 33, CAPUT, AMBOS DA RESOLUÇÃO CNSP No 332/2015 - DANO MORAL CONFIGURADO – INDENIZAÇÃO DEVIDA – DENTRO DOS LIMITES LEGAIS – HONORARIOS ADVOCATICIOS – MANTIDOS - LITIGANCIA DE MÁ FÉ – NÃO CONFIGURADA –SENTENÇAPARCIALMENTE REFORMADA – RECURSO PARCIALMENTE PROVIDO. 1. A recusa da Seguradora em receber o requerimento administrativo formulado pela vítima, causa-lhe entraves desnecessários ao recebimento do seguro, e afronta o disposto nos art. 5o, §2o, da Lei no 6.194/74 e nos arts. 32 e 33, caput, ambos da Resolução CNSP no 332/2015, sendo suficiente para justificar o reconhecimento de efetiva ocorrência de dano moral indenizável. 2. “O não acolhimento do pedido de indenização securitária de DPVAT, cujo “quantum” máximo é fixado pela lei sem margem à liberdade do juiz para o valor para além ou aquém dos limites legais, impõe, quanto à distribuição dos ônus sucumbenciais, a aplicação da regra da cabeça do art. 86 do CPC, e não aquela do parágrafo único do mesmo dispositivo” (...). (TJMT - Primeira Câmara de Direito Privado – Rel. Des. SEBASTIAO BARBOSA FARIAS - RAC N.U 1002718-63.2017.8.11.0037, Julgado em 12/08/2020, Publicado no DJE 13/08/2020). ”
+(TJMT – Primeira Câmara de Direito Privado – n. 1014342-29.2019.8.11.0041, Relator (a): DES(A). NILZA MARIA POSSAS DE CARVALHO, j. em 29/10/2020).
+A parte recorrente alega violação ao art. 5o, §2o, da Lei no 6.194/74, e ao artigo 186, do Código Civil, ao fundamento que “tal fato não implica qualquer ofensa à integridade moral, à saúde, a direitos íntimos do autor. Na realidade, se algum aborrecimento sofreu o demandante, decerto este não passou do que configura mero transtorno cotidiano, que não enseja dano moral. ”
+Recurso tempestivo (id. 93133451) e preparado (id. 93126483).
+Contrarrazões em id. 94594498.
+É o relatório.
+Decido.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Reexame de matéria fática. Súmula 7 do STJ
+Com efeito, nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e uniformização da interpretação das leis federais, razão pela qual não é possível o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação do artigo 5o, §2o, da Lei no 6.194/74, e ao artigo 186, do Código Civil, alegada pela parte recorrente é fundada em que “tal fato não implica qualquer ofensa à integridade moral, à saúde, a direitos íntimos do autor. Na realidade, se algum aborrecimento sofreu o demandante, decerto este não passou do que configura mero transtorno cotidiano, que não enseja dano moral. ”
+No caso, o acórdão deu parcial provimento ao recurso de apelação, de DELVIMAR SILVA DE SOUZA, considerando que a recursa em receber o pedido administrativo acarretou no dever de indenizar a título de dano moral.
+O órgão fracionário deste tribunal decidiu o que se segue quanto a questão (ID 64399485):
+“Em relação ao alegado dano moral, caracterizado, no caso, segundo o autor/apelante, em virtude de a Seguradora ter se recusado a receber o pedido administrativo de pagamento da indenização securitária, admito que essa prática furtiva, evasiva, embaraçosa e desleal, quando adotada pela Seguradora para simplesmente obstar a rápida satisfação do direito do segurado à indenização devida, configura, sem sombra de dúvida, ofensa à dignidade moral do pobre segurado/solicitante, pois, ao invés de se lhe conceder, pelo menos, o direito ao mero exame célere do pleito de pagamento administrativo, o infeliz solicitante é relegado às calendas de uma indiferença caprichosa que de pronto já lhe bate na cara a porta fechada do guichê de atendimento.
+É inegável a sensação de impotência, desrespeito, humilhação e logro que esse tipo de conduta provoca no ânimo daqueles que, já marcados no corpo e na alma pelas lesões do acidente automobilístico de que fora vítima, alimentavam a expectativa de receber da Seguradora pelo menos uma quota de atenção respeitosa à solicitação administrativa de exame e possível pagamento da indenização securitária.
+Esse tipo de situação diz respeito ao sofrimento da alma, à dor, ao constrangimento, à humilhação, enfim, atinge a personalidade.
+A comprovação de sua ocorrência, evidentemente, vai depender da verificação de cada caso concreto, observando-se que, no caso em exame, não se trata de uma situação em que o dano moral se encontra caracterizado in re ipsa, havendo necessidade de efetiva demonstração.
+O fato alegado pelo recorrente de que a recusa, não à imediata realização do pagamento, mas à simples recepção protocolar do requerimento administrativo no balcão de atendimento, lhe causou dificuldades para o recebimento do seguro, e que afronta o disposto nos art. 5o, §2o, da Lei no 6.194/74 e nos arts. 32 e 33, caput, ambos da Resolução CNSP no 332/2015, é suficiente para justificar o reconhecimento de efetiva ocorrência de dano moral. ”
+Assim, para o deslinde da controvérsia faz-se necessário analisar o conjunto fático-probatório existente nos autos, o que atrai o óbice da Súmula 7 do STJ, senão vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. COMPROVAÇÃO DO ATO ILÍCITO. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO IMPROVIDO. 1. A modificação do entendimento lançado no acórdão recorrido quanto à comprovação do ato ilícito praticado pelo recorrente e a configuração do dano moral demanda reexame do conjunto probatório dos autos, providência vedada nesta Corte Superior, a teor da Súmula 7/STJ. 2. Agravo interno a que se nega provimento.
+(STJ - AgInt no AREsp: 1039804 RO 2017/0003080-0, Relator: Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5a REGIÃO), Data de Julgamento: 06/02/2018, T4 - QUARTA TURMA, Data de Publicação: DJe 15/02/2018) (g.n)
+Assim, por serem insuscetíveis de revisão os entendimentos do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, encontra-se vedada a análise da referida questão pelo Superior Tribunal de Justiça, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V (Súmula 07 do STJ), do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
