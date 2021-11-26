@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por JORGE LUIZ ZANINELLO E ISILDA APARECIDA MACHADO ZANINELO, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 340):
+Processual. Direito de vizinhança. Gratuidade processual concedida à ré em saneador. Ausência de ataque a essa decisão, nos termos do art. 1.009, § 1º, do CPC. Matéria não tratada na sentença. Ausência de interesse recursal para a discussão da matéria no âmbito do recurso voltado contra a própria sentença.
+Apelação, quanto a esse aspecto, não conhecida.
+Direito de vizinhança. Nunciação de obra nova. Danos em imóvel urbano por obra em prédio lindeiro.
+Sentença de improcedência. Inconformismo dos autores limitado a discutir a higidez da perícia, por ausência de intimação deles, autores, quanto à data e horário de início da prova pericial. Nulidade relativa.
+Autores que não formularam quesitos e sequer indicaram assistente técnico, a quem caberia, em última análise, o acompanhamento da diligência pericial. Apelação, de resto, que não teceu uma única linha de crítica ao laudo, não questionando suas conclusões, limitando-se os autores a se apegar ao vício formal de modo a pleitear o reinício da prova técnica. Ausência de prejuízo em concreto. Impugnação de cunho meramente protelatório. Arguição de nulidade afastada. Apelação dos autores desprovida na parte conhecida.
+Nas razões do recurso especial, a agravante alega violação aos arts. 474 do CPC/15 e 5º, VL, da ConstituiçãoFederal, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, que as partes não estavam cientes acerca da data da realização da perícia, acentuando que "se a parte pretende comprovar suas alegações através de prova pericial (folhas 220), mas não é intimada para comparecer na mesma, o cerceamento de defesa e o prejuízo aos Recorrentes são patentes, razão pela qual a perícia e todos os atos subsequentes devem ser anulados" - (fl. 351).
+Foram apresentadas contrarrazões às fls. 398/419.
+É o relatório.
+De início, no tocante à alegada ofensa ao artigo 5º, VL, da Constituição Federal, observa-se que, por tratar-se de matéria a ser apreciada na suprema instância, não é viável a análise de contrariedade a dispositivos constitucionais, nesta via recursal, o que implicaria em usurpação de competência constitucionalmente atribuída ao Eg. Supremo Tribunal Federal (CF, art. 102).
+Quanto ao alegado cerceamento de defesa, a Corte de origem consignou que, em que pese o não atendimento à intimação prévia das partes para a perícia, não houve a demonstração de qualquer prejuízo, aplicando-se a regra "pas de nullité san grief" (não há nulidade sem prejuízo). É o que se extrai do trecho do acórdão a seguir (fl. 342/344):
+Ocorre, no entanto, que a inobservância à forma prescrita em lei não representou qualquer prejuízo ao caso concreto, demonstração que, nos termos do entendimento do Superior Tribunal de Justiça, se fazia necessária:
+(..)
+É bem de ver que os autores nem indicaram assistente técnico nem sequer formularam quesitos, com o que resta minimizado o dano decorrente da ausência de sua cientificação, visto que caberia a eventual assistente técnico, em última análise, o acompanhamento em termos úteis da diligência pericial, com possibilidade de intervenção devidamente fundamentada junto ao vistor quanto à matéria de interesse à perícia.
+Mais ainda: na própria apelação se limitaram eles, autores, a arguir a nulidade da perícia, como que a apegar-se a uma tábua de salvação formal, não se dignando a tecer uma única linha em torno do conteúdo do laudo pericial, com eventual crítica às conclusões ali expendidas.
+Em assim sendo, não havia mesmo motivo para a cassação quer da perícia quer da sentença que nela se baseou, restando ambas incólumes."
+Nesse contexto, por se tratar de nulidade relativa, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir prejuízo à parte demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Em reforço:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PERÍCIA. IRREGULARIDADE. AUSÊNCIA DE INTIMAÇÃO DAS PARTES. NULIDADE RELATIVA. SÚMULA N. 83/STJ. PREJUÍZO NÃO RECONHECIDO PELO ACÓRDÃO RECORRIDO. REEXAME DAS CONCLUSÕES. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a falta de intimação para acompanhar a perícia gera nulidade relativa, cabendo à parte a demonstração de eventual prejuízo sofrido, o que não ocorreu no caso dos autos, conforme consignado pelas instâncias ordinárias.
+Incidência das Súmulas n. 7 e 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1552999/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/06/2020, DJe 04/06/2020)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 2.000,00 (dois mil reais) para R$ 2.200,00 (dois mil e duzentos reais).
+Publique-se.
