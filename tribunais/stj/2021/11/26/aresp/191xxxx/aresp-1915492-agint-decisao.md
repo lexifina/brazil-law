@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno interposto por MARILEI XAVIER URBANO contra decisão da Presidência desta Corte, que não conheceu do agravo em recurso especial, por ausência de impugnação específica dos fundamentos da decisão recorrida.
+A parte agravante alega ter atacado a fundamentação da decisão que, na origem, não admitiu o recurso especial.
+Impugnação da parte agravada às fls. 1066/1076 e 1087/1090.
+É o relatório. Decido.
+À vista das razões expendidas no agravo interno, reconsidero a decisão monocrática e passo a novo exame do feito.
+O recurso especial discute, dentre outras questões, a responsabilidade da seguradora pelo dever de informação prévia ao segurado sobre as cláusulas restritivas do contrato de seguro de vida em grupo.
+Talquestão foi afetada à Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos repetitivos (CPC/2015,arts. 1.036 e 1.037), tendo as decisões de afetação dos REsps 1.874.811/SC e 1.874.788/SC delimitado o Tema 1.112 nos termos da seguinte ementa:
+PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS RECURSOS REPETITIVOS. CIVIL. SEGURO DE VIDA EM GRUPO.
+CLÁUSULAS RESTRITIVAS. DEVER DE INFORMAÇÃO. ESTIPULANTE E/OU SEGURADORA.
+1. Delimitação da controvérsia: definir se cabe à seguradora e/ou ao estipulante o dever de prestar informação prévia ao proponente (segurado) a respeito das cláusulas limitativas e restritivas dos contratos de seguro de vida em grupo.
+2. Recurso especial afetado ao rito do artigo 1.036 do CPC/2015.(ProAfR no REsp 1874788/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 26.10.2021, DJe 5.11.2021)
+Nesse contexto, em observância à economia processual, à prevenção de decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça e ao art. 256-L do RISTJ, os recursos que tratam das mesmas controvérsias no STJ devem aguardar, no Tribunal de origem, a solução das questões, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, apenas após essas providências, o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com as decisões sobre os temas de repercussão geral e repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Ante o exposto, reconsidero a decisão de fls. 1049/1051 e determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo: i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou ii) proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
