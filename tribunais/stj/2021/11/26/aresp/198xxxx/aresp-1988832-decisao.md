@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por APARECIDA CANDIDA PEREIRA SUYTI em face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que negou admissibilidade ao especial sob a compreensão de que este seria intempestivo.
+O Recurso Especial não pode ser admitido, ante a inexistência de prova da sua tempestividade. Verifica-se que a parte não comprovou, no ato da interposição do recurso, a suspensão dos prazos processuais (Decreto Judiciário nº 151/2021), conforme dispõe o artigo 1.003, § 6º, do Código de Processo Civil. Portanto, a petição recursal juntada em 22.03.2021 está intempestiva. O Superior Tribunal de Justiça firmou entendimento de que "(..) a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende que dele conheça este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de" (AgInt no REsp 1.686.469/AM, Rel. Min. Mauro Campbell Marques, documento não dotado de fé pública. DJe 27.3.2018).
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque,
+muito embora o próprio Desembargador revista de legalidade a contagem do prazo recursal, com a menção ao decreto que suspendeu o prazo, o que, por si só, supriria o ato, a questão principal aqui é outra. A Agravante interpôs o Recurso Especial na contagem do sistema PROJUDI. Em termos técnicos do sistema, "fechou" o prazo com o instrumento recursal. Nestas situações os julgados são uníssonos quanto à tempestividade.
+É o relatório. Decido.
+A Corte Especial deste Superior Tribunal de Justiça firmou orientação no sentido de que o feriado local deve ser comprovado no ato da interposição do recurso (cf. REsp 1813684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 18/11/2019), providência que não foi realizada pela parte.
+Divergência na contagem do prazo pelo PROJUDI não supri tal requisito,cf:AREsp 1982860, Rel. Min. PAULO DE TARSO SANSEVERINO, DJe 11/11/2021;AREsp 1939514, Rel. Min. MARIA ISABEL GALLOTTI, DJe 08/11/2021.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. INOCORRÊNCIA. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
