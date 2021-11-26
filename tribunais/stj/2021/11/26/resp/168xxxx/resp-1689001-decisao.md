@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto contraacórdão do Tribunal de Justiça do Paranáassim ementado (e-STJ fl. 1.033):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA INDENIZATÓRIA. POLICIAL CIVIL. APOSENTADORIA ESPECIAL INDEFERIDA ADMINISTRATIVAMENTE ANTE O ENTENDIMENTO DE INAPLICABILIDADE DA LEI COMPLEMENTAR N. 93/02. MATÉRIA CONTROVERTIDA. POSTERIOR JULGAMENTO DA ADIN 2904. DIREITO ALCANÇADO VIA MANDADO DE SEGURANÇA. DANO MORAL E MATERIAL NÃO VERIFICADOS. INCABÍVEL RESPONSABILIZAÇÃO CIVIL DO ESTADO. RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO.
+Sustenta a parte recorrente, preliminarmente, contrariedade do art. 535 do CPC/1973. No mérito, sustenta malferimento dos arts. 43, 186 e 927 do CC. Pretende, em síntese, a reforma do acórdão recorrido, a fim de que receba indenização por danos morais e materiais decorrentes do indeferimento da concessão da aposentadoria especial, após oito meses da formulação do pedido.
+Eis o breve relatório. Passo a decidir.
+Em primeiro lugar, embora a parte recorrente tenha apontado vulneração do art. 535, II, do CPC/1973, observa-se que, nas razões do recurso especial, não houve explicitação de maneira clara e precisa dos pontos efetivamente omissos do acórdão impugnado, não indicando, também, as matérias sobre as quais deveria pronunciar-se a instância ordinária,nem demonstrando a relevância delas para o julgamento do feito.
+Sendo genéricas as alegações que tentam fundamentar a apontada vulneração, de rigor a incidência da Súmula 284 do STF (AgInt no REsp 1.612.743/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 29/06/2021, DJe 02/08/2021).
+No mérito em si, entendo que o recurso igualmente não deve ser conhecido.
+A Corte local divisou a análise do pedido de danos moral e material em dois fundamentos principais:
+No que se refere ao alegado dano moral, não há que se responsabilizar os réus considerando, sobretudo, que à época em que foi indeferido o benefício de aposentadoria o Tribunal de Contas do Estado manifestava-se reiteradamente pela inaplicabilidade da Lei Complementar n. 93/02. Somente anos após sobreveio o julgamento final da Corte Suprema pacificando o entendimento.
+Não vislumbro de que forma tal ato possa ter gerado tamanho sofrimento capaz de ensejar compensação.
+Conforme constou na r. sentença, a qual se encontra amplamente fundamentada, o que houve foi sim "mero dissabor decorrente dos trâmites necessários ao reconhecimento do direito". Além disso, através do Mandando de Segurança impetrado, a apelante logo obteve o direito à aposentadoria, razão pela qual não se justifica a fixação de dano moral.
+Tampouco cabível qualquer dano material. Note-se que o pedido da autora para que receba os vencimentos dos meses compreendidos entre 08/05/05 e 18/07/06 (data em que foi cumprida a liminar do MS) demonstra-se desarrazoado. Isso porque não há possibilidade de cumulação da aposentadoria com os vencimentos que recebeu na ativa. (e-STJ fl. 1.041)
+Rever essasconclusões reclamaria reexaminar todo o contexto fático-probatório levado em conta no órgão originário para se chegar à conclusão que chegou, situação que esbarra no óbice da Súmula 7 desta Corte.
+Além disso, especificamente me relação ao dano material, a parte recorrente não infirmou o argumento acima transcrito; em razão disso, nesse aspecto, também aplicáveis os óbices das Súmulas 283 e 284 do STF, por analogia.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
