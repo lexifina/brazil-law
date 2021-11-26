@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA APARECIDA DA SILVA contradecisão deinadmissibilidade do recursoespecialfundamentadonoart. 105,III, "a",da ConstituiçãoFederal, emdesafio a acórdãoproferidopeloTribunal deJustiça do Estadodo Mato Grosso do Sul, assimementado(fl. 159):
+EMENTA - APELAÇÃO CÍVEL - SEGURO DE VIDA EMGRUPO - ILEGITIMIDADE PASSIVA ACOLHIDA - APÓLICE NÃOVIGENTE À ÉPOCA DO SINISTRO - SENTENÇA EXTINTIVA MANTIDA - RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO. O recurso somente deve ser conhecido em relação as matérias analisadas na sentença. Recurso conhecido em parte. Diante do término vigência do contrato de seguro antes da data em que constatado o sinistro, a seguradora antes responsável pela apólice torna-se parte ilegítima e está autorizada a recusar ao pagamento da verba securitária, devida pela nova seguradora. Ilegitimidade da seguradora recorrida. Sentença extintiva mantida.
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a parte recorrente alega violação aos arts. 1.022 e 489 do CPC/2015; 757 e 760 do Código Civil e os arts. 6º, VIII; 46; 51, IV, X, XIII; 54, §4º do Código de Defesa do Consumidor e os arts. 20, I e II da Lei 8213/1991. Sustenta, em síntese, que: a) o acórdão estadual está omisso; e b) a data para estabelecer a legitimidade da seguradora é quando da ocorrência do sinistro e, na hipótese, estava vigente a apólice securitária.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Inicialmente, rejeita-se a alegada violação dos arts. 489 e1.022doCPC/2015,uma vez que o eg. TJ-MSanalisou os pontosessenciaisaodeslindedacontrovérsia, dando-lhes robusta edevidafundamentação. Comefeito, éuníssona a jurisprudência desta eg.Corteno sentido dequeomagistradonão está obrigado a responderatodososargumentosapresentados peloslitigantes, desde que apreciealide emsuainteireza,com suficientefundamentação. Nesse sentido,destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOAGRAVOEMRECURSOESPECIAL.AUSÊNCIADE AFRONTA AO ART. 1.022DOCPC/2015INOVAÇÃORECURSAL.VÍCIOSDE CONSTRUÇÃO. LEGITIMIDADE ATIVADOCONDOMÍNIO.DECISÃOMANTIDA.
+(..)
+2. Inexiste afronta ao art. 1.022 doCPC/2015quandooacórdãorecorridoanalisou todas as questões pertinentespara asoluçãodalide,pronunciando-se, de forma clara e suficiente, sobreacontrovérsiaestabelecida nos autos.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1071467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA,QUARTATURMA, julgado em 10/10/2017, DJe 17/10/2017)
+Em relação a data de ocorrência do sinistro e legitimidade da seguradora para cobrir o evento, o Tribunal de origem, com arrimo no acervo fático-probatório, assim dirimiu a controvérsia:
+Do mérito ilegitimidade passiva
+Observa-se dos autos que a doença que acarretou a invalidez da autora, relacionada a seu ombro, manifestou-se após o término da cobertura securitária. A autora afirma que tomou conhecimento da invalidez somente em 2019, por meio do laudo emitido nesse ano, mas o sinistro teria ocorrido em 2006, de forma progressiva. Vê-se dos elementos probatórios dos autos que no ano de 2006a apelante passou a sentir dores decorrentes de microfraturas associadas a sua atividade laboral, as quais evoluíram de forma progressiva até sua invalidez,constatada em janeiro/2019 (relatório médico f. 21). Observa-se, portanto, como bem salientou o magistrado da instância singela, que não houve nenhum evento danoso específico (acidente)ocorrido em 2006, mas o início das dores que levaram a requerente a procurar tratamento médico. A própria autora/apelante afirma que se submeteu a diversos tratamentos médicos, além de duas cirurgias, porém somente em janeiro/2019 sua invalidez foi definitivamente diagnosticada. Assim, entendo que não há como se concluir que a invalidez data de antes do ano de 2008, pois referida condição somente se estabeleceu em janeiro de 2019, mais de uma década após cessada a vigência da apólice de seguro de responsabilidade da apelada, a qual ocorreu em 31/07/2008, razão pela qual a seguradora requerida não pode ser responsabilizada.
+Na hipótese, a Corte de origem concluiu pela ilegitimidade passiva da seguradora requerida, uma vez que, quando do sinistro (constatação da invalidez), já não havia mais apólice vigente.
+Nesse contexto, a pretensão de modificar o entendimento firmado, com a finalidade de alterar a data do sinistro,demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA.INVALIDEZ. CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA. REQUERIMENTO.AUSÊNCIA. COMPORTAMENTO CONTRADITÓRIO. INADMISSIBILIDADE.PRESCRIÇÃO. TERMO INICIAL. CIÊNCIA INEQUÍVOCA. SÚMULAS N. 7, 101 E 278/STJ. NÃO PROVIMENTO.
+1. A parte não pode alegar cerceamento de defesa se, instada a se manifestar sobre as provas que pretendia produzir, requereu o julgamento antecipado da lide. A ninguém é dado comportar-se contraditoriamente no processo.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Conta-se a prescrição ânua da pretensão para o pagamento de seguro por invalidez a partir da ciência inequívoca da incapacidade, nos termos dos enunciados n. 101 e 278 da Súmula desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1742239/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/08/2021, DJe 12/08/2021)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios de 15% para 16% sobre o valor da causa, observando eventual gratuidade de justiça, nos termos do art. 98, § 3º, do CPC/2015.
+Publique-se.
