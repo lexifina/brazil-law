@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra acórdão cuja controvérsia gira em torno da possibilidade de "Fixação do termo inicial da prescrição quinquenal, para recebimento de parcelas de benefício previdenciário reconhecidas judicialmente, em ação individual ajuizada para adequação da renda mensal aos tetos fixados pelas Emendas Constitucionais 20/98 e 41/2003, cujo pedido coincide com aquele anteriormente formulado em ação civil pública"(e-STJ fls. 369/377).
+Passo a decidir.
+Aquestão jurídica, objeto do apelo extremo, foi submetida à Primeira Seção dessa Corte Superior para ser julgada pela sistemática dos recursos repetitivos (Tema n. 1.005), a qual fixou a tese de que, "Na ação de conhecimento individual, proposta com o objetivo de adequar a renda mensal do benefício previdenciário aos tetos fixados pelas Emendas Constitucionais 20/98 e 41/2003 e cujo pedido coincide com aquele anteriormente formulado em ação civil pública, a interrupção da prescrição quinquenal, para recebimento das parcelas vencidas, ocorre na data de ajuizamento da lide individual, salvo se requerida a sua suspensão, na forma do art. 104 da Lei 8.078/90.(REsp 1751667/RS, rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 23/06/2021, DJe 01/07/2021).
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
