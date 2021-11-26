@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO DESPROVIDO NA ORIGEM POR AUSÊNCIA DE TERATOLOGIA DA DECISÃO, AFASTANDO O CABIMENTO DA VIA ELEITA. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pelo DEPARTAMENTO NACIONAL DE PRODUÇÃO MINERAL - DNPM, com fundamento na alíneaado permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 2a. Região, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REDIRECIONAMENTO. INDEFERIDO PEDIDO DE CITAÇÃO DAS SOCIEDADES COOBRIGADAS NA PESSOA DO PROCURADOR. DECISÃO NÃO TERATOLÓGICA. RECURSO DESPROVIDO.
+- Cuida-se de agravo de instrumento, com pedido de atribuição de efeito suspensivo ativo, alvejando decisão que, nos autos de execução fiscal, indeferiu o pedido de "citação das empresas para pagar ou garantir o débito objeto da execução na pessoa do Representante Legal Bruno Dario Werneck".
+- Consoante entendimento desta Egrégia Corte, somente em casos de decisão teratológica, com abuso de poder ou emflagrante descompasso com a Constituição, a Lei ou com orientação consolidada de Tribunal Superior ou deste Tribunal, seria justificável sua reforma pelo órgão ad quem, em agravo de instrumento. Precedentes desta Corte.
+- Conforme bem acentuado pelo juízo a quo, "quando, na decisão impugnada, foi dito que o pedido de citação do representante legal é medida inócua no sentido de efetiva localização de bens do executado, é óbvio que tal argumento também se aplica aos procuradores. Se procuradores e representantes não podem responder com seus bens pela execução, como acima exposto; se a citação feita a eles não aproveita em nada ao exequente, máxime quando já configurada a dissolução irregular da representada; se a formalidade de citação não mais interrompe a prescrição (art. 174, p. u., I,do CTN, e art. 8º, §2º, da LEF), mas sim o despacho inicial; e, por fim, se a executada encontra-se em local ignorado, como que desde já possível a citação por edital para regularização do feito - não há, com efeito, por que promovê-la em face dos procuradores/representantes. A medida, por contraproducente, atenta contra o princípio da economia e celeridade processuais".
+- Ademais, cumpre acentuar que o entendimento adotado no decisum recorrido não parece contrariar o disposto no §1º, do artigo 8º, da Lei nº 6.830/80, no sentido de que "o executado ausente do País será citado por edital, com prazo de 60(sessenta) dias".
+- Recurso desprovido.
+2. Inconformado, o recorrente alega violação dos arts.8º da Lei 6.830/1980; 215 e652, §§ 3º e 4º, do CPC/1973. Sustenta a continuidade dos atos executórios a partir da citação do procurador das empresas coobrigadas no exteriorpara indicar bens passíveis de penhora.
+3. Decorrido o prazo legal, não foram apresentadas contrarrazões.
+4. É o relatório.
+5. Nos termos do que decidido pelo plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+6. Em que pese o esforço argumentativo presente nas razões do apelo nobre, não merece guarida a pretensão recursal.
+7. Contrapondo os fundamentos do acórdão com as razões recursais, verifica-se que a parte recorrente limitou-se a defender a citação do procurador das empresas coobrigadas, ignorando, no entanto, o ponto central do não acolhimento do Agravo de Instrumento na origem, qual seja, a ausência de teratologia,abuso de poder ou flagrante descompasso com a Constituição, a Lei ouorientação consolidada de Tribunal Superior ou da Corte local.Incide, na espécie, o óbice da Súmula 283/STF. A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO NÃO ATACADO.IRRESIGNAÇÃO. DEFICIÊNCIA. CLÁUSULAS CONTRATUAIS. EXAME.IMPOSSIBILIDADE.
+1. Havendo fundamentos suficientes para a manutenção do aresto recorrido não impugnados nas razões do especial, incide, à espécie, a Súmula 283 do STF, a qual dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles."
+(..).
+4. Agravo interno desprovido.
+(AgInt no REsp 1.923.993/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 04/10/2021, DJe 21/10/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ.EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.PRESCRIÇÃO. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. JUROS. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 211/STJ. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284 DO STF. VIOLAÇÃO AOS PRINCÍPIOS DA DURAÇÃO RAZOÁVEL DO PROCESSO E DA LEGALIDADE. MATÉRIA DE ORDEM CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.INEXISTÊNCIA DE CONTRATO. ÓBICE DA SÚMULA 7/STJ.
+(..).
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+(..).
+6. Agravo interno não provido.
+(AgInt no AREsp 1.890.971/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/10/2021, DJe 28/10/2021).
+8. Ante o exposto, nega-se seguimento ao Recurso Especial.
+9. Publique-se. Intimações necessárias.
