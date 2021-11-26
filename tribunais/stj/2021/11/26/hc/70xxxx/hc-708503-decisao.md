@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de ANA RITA LIMA DO CARMO MARQUESem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+A paciente foi presa em flagrante no dia 29/10/2021 e posteriormente denunciada como incurso no art. 121, § 2º, II e IV, do Código Penal. A prisão em flagrante foi convertida em preventiva.
+Alega o impetrante a ocorrência de constrangimento ilegal decorrente da decisão monocrática que indeferiu pedido liminar em habeas corpus impetrado perante o Tribunal de origem, voltado à soltura da paciente.
+Sustenta, em suma, a insuficiência de fundamentação do decreto prisional e a possibilidade de substituição da segregação por prisão domiciliar em razão de a paciente possuir predicados pessoais favoráveis e ela estar no sexto mês de gestação de risco.
+Requer a concessão da ordem, liminarmente, para que a paciente seja colocada em prisão domiciliar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular, porquea decisão combatida encontra-se bem fundamentada, tendo a autoridade coatora exposto as razões pelas quais indeferiu o pedido deconversão da prisão preventiva da paciente em domiciliar, nos seguintes termos:
+"Saliento que não se desconhece o fato de que a gravidez da paciente é de alto risco. Não obstante isso, como bem observado pelo Ministério Público de primeiro grau, "a gravidez de alto risco se dá notadamente em virtude de "uso de drogas", de forma que a própria manutenção da segregação da ré importará, nesse momento, na garantia de um pré-natal adequado e supervisionado pelos órgãos de saúde do Estado, o que, diga-se, não ocorrerá em liberdade". Ou seja, é improvável que a paciente, que praticou o delito em local sabidamente utilizado como ponto de encontro de usuários de álcool e drogas no Município de Cerro Largo, caso beneficiada com a prisão domiciliar, irá resguardar-se em seu lar e dar regular e adequado prosseguimento ao pré- natal." (fl. 39)
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
