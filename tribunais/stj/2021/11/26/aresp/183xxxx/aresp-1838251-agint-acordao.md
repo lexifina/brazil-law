@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 284/292) interposto contra decisão do Ministro Presidente desta Corte que conheceu do agravo nos próprios autos para não conhecer do recurso especial.
+Em suas razões, a agravante refuta a incidência da Súmula n. 7 do STJ, sob a alegação de que "o mérito do recurso restringe-se à extensão da retroatividade da interrupção da prescrição no caso de a citação da parte requerida ocorrer após 10 (dez) dias do despacho citatório, matéria substancial, logo, restrita ao alcance art. 240 e seus parágrafos do CPC, meramente interpretativa sobre questão jurídica: interpretação que conjugada a fatos e a provas resultou na má-aplicação de lei federal" (e-STJ fls. 287/288).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foi apresentada impugnação (e-STJ fls.296/305).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. AÇÃO DE COBRANÇA. MENSALIDADES ESCOLARES. CITAÇÃO. PRESCRIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. BOA-FÉ CONTRATUAL E COOPERAÇÃO. FUNDAMENTOS NÃO ATACADOS. DISSÍDIO JURISPRUDENCIAL. FALTA DE COMPROVAÇÃO. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem, a partir da análise dos elementos de prova, concluiu que o atraso na citação não ocorreu por negligência do autor. Entender de modo contrário implicaria reexame da matéria fática, o que é vedado em recurso especial.
+3. As razões recursais que não impugnam fundamento do acórdão recorrido suficiente para mantê-lo não devem ser admitidas, a teor da Súmula n. 283/STF.
+4. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação divergente e demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015).
+5. Agravo interno a que se nega provimento.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.838.251 - DF (2021/0041597-6)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+MARIA GORETE MACHADO DE FREITAS
+ADVOGADOS
+:
+VICTOR RICARDO FREIRE CORREIA - DF060819
+LORRANE SANTANA FREITAS DE ANDRADE - DF060703
+AGRAVADO
+:
+INSTITUTO PRESBITERIANO MACKENZIE
+ADVOGADOS
+:
+HENRIETTE GROENWOLD MONTEIRO - DF028606
+PEDRO HENRIQUE SEREJO DO NASCIMENTO - DF041164
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 277/281):
+Cuida-se de agravo apresentado por MARIA GORETE MACHADO DE FREITAS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+APELAÇÃO. DIREITO CIVIL. AÇÃO MONITÓRIA. COBRANÇA DE MENSALIDADES DE INSTITUIÇÃO DE ENSINO. PRESCRIÇÃO. CINCO ANOS. CITAÇÃO. DEMORA. EFEITO RETROATIVO. CONTRATO. MUDANÇA DE ENDEREÇO NÃO INFORMADA. 1. O prazo para o exercício da pretensão de cobrança de mensalidades de instituição de ensino é de 5 (cinco) anos. 2. O despacho que ordena a citação interrompe a prescrição. O efeito retroage à data de propositura da ação, exceto se o autor não adotar as providências necessárias para viabilizar a citação no prazo de 10 (dez) dias. O autor não deve ser prejudicado pela demora imputável exclusivamente ao serviço Judiciário. 3. Não se trata de desídia do autor, mas de violação da boa-fé contratual praticada pela ré, quando a demora da citação ocorre porque a ré mudou de endereço sem comunicar ao contratante. 4. Apelação desprovida (fl. 183).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 240, §§ 1º, 2º e 3º, do CPC, no que concerne à ausência de interrupção da prescrição na espécie, posto que o atraso na citação não se deu por problemas relacionados a mecanismos inerentes ao Poder Judiciário, mas sim pela demora da recorrida em fornecer o endereço correto da recorrente, para fins de citação. Traz os seguintes argumentos:
+NÃO houve demora ou culpa imputável ao serviço judiciário se a demora na citação decorreu única e exclusivamente na dificuldade de o autor da ação fornecer o endereço correto e atual do devedor, tendo sido todas as diligências requeridas pelo credor deferidas pelo Juízo e cumpridas de forma rápida - na quarta vez -, mesmo que lá fora do prazo de 10 (dez) dias referido no art. 240, 2º, do CPC.
+Assim, o entendimento aplicado pela 5" Turma Cível do TJDFT nega, data venia, vigência a uma lei federal com base na dilatação da Súmula nº 106/STJ.
+Com a referida virada processual, portanto, torna-se um dever do autor promover a citação de modo EFETIVO, não podendo se restringir apenas o indicar algum endereço onde o réu pode ser encontrado ou após frustrada a citação requerer diligências via Bacenjud, sob pena de deturpar a finalidade do processo. Pelo contrário, cabe ao autor indicar o endereço onde o réu deve ser encontrado. Buscas e mais buscas pela localização do réu demonstram a falha do autor com o referido dever processual e, logo, um risco assumido com eventual prescrição (fl. 198).
+ ..  o art. 240, §§ 1º ao 3º, do CPC deve ser entendido no sentido de incumbir única e exclusivamente ao autor informar corretamente o endereço do réu, sob pena de arcar com os riscos de uma interrupção da prescrição apenas quando da citação válida. Não se trata de proteger o devedor, e sim de impor ao credor o respeito ao prazo prescricional que a lei material determina - no caso 05 (cinco) anos -, para negociar extra-judicialmente a quitação da divida, cobrar judicialmente, averiguar o endereço correto no prazo legal ou até mesmo processar o devedor e conseguir citá-lo sem maiores percalços.
+Por consequência, a demora na citação de 29 (vinte nove) dias após ajuizada a ação monitória deve ser imputado exclusivamente à parte autora, pelo fato de ter extrapolado o prazo razoável para buscar o que é devido - processar - sem saber o correto endereço da parte ré. Como já dito, o dever de o autor apenas informar QUALQUER endereço, para só depois diligenciar o exato, esvazia totalmente a finalidade do processo moderno. Se o autor não possui certeza do endereço do réu, que o processe dentro do prazo prescricional E dentro do prazo que calcule provável a citação da parte antes da ocorrência da prescrição - e não faltando apenas 02 (dois) dias para uma prescrição de 05 (cinco) anos de uma dívida particular (fls. 199/200).
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, alega divergência jurisprudencial quanto ao mesmo tema da primeira controvérsia.
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+O artigo 240, do Código de Processo Civil, estabelece que o despacho que ordena a citação interrompe a prescrição. O efeito retroage à data de propositura da ação, exceto se o autor não adotar as providências necessárias para viabilizar a citação no prazo de 10 (dez) dias. O autor não será prejudicado pela demora imputável exclusivamente ao serviço Judiciário.
+A norma consagrou o enunciado 106 da súmula do Superior Tribunal de Justiça, que dispõe que a demora na citação, por motivos inerentes ao mecanismo do serviço Judiciário, não justifica o acolhimento da arguição de prescrição ou decadência, desde que a ação seja proposta no prazo fixado para o seu exercício.
+ .. .
+O apelado propôs a ação dentro do prazo, utilizando o endereço fornecido pela própria apelante no contrato (id 17485894, f. 1, e 17485899, f. 2). Entre a propositura da ação, em 8 de novembro de 2019, e a citação, em 9 de dezembro de 2019, passou-se apenas um mês. A demora ocorreu apenas porque a apelante mudou de endereço sem comunicar ao contratante. Portanto, não se trata de desídia do apelado, mas de violação dos deveres anexos do contrato, como o de cooperação, praticada pela apelante (fls. 185/186, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal - no sentido de que a responsabilidade pelo atraso na citação da recorrente deve ser imputada exclusivamente à parte recorrida - demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Quanto à segunda controvérsia, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico, que exige a transcrição de trechos dos julgados confrontados, bem como a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e os paradigmas indicados.
+Nesse sentido: "O dissídio jurisprudencial não foi comprovado, pois a parte agravante não efetuou o devido cotejo analítico entre as hipóteses apresentadas como divergentes, com transcrição dos trechos dos acórdãos confrontados, bem como menção das circunstâncias que os identifiquem ou assemelhem, nos termos dos arts. 541, parágrafo único, do CPC/1973 (ou 1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ". (AgInt no REsp n. 1.840.089/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp n. 1.849.315/SP, relator Ministro Marcos Aurélio Bellizze, Terceira Turma, DJe de 1º/8/2020; AgInt nos EDcl nos EDcl no REsp n. 1.617.771/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/8/2020; AgRg no AREsp n. 1.422.348/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.456.746/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/6/2020.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+Conforme destacado na decisão agravada, a Súmula n. 7 do STJ obsta a revisão dos fundamentos do acórdão recorrido, pois, com base nos elementos probatórios, o Tribunal concluiu que o atraso na citação não se deu por negligência do autor, ora recorrido.
+Além disso, deve-se acrescentar que a Corte local entendeu que houve violação dos deveres contratuais de boa-fé e cooperação, fundamentos não atacados de forma específica pela recorrente, o que atrai a Súmula n. 283/STF.
+Assim, não prosperam as alegações apresentadas, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
