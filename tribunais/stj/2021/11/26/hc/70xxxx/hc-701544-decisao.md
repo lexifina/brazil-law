@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se dehabeas corpus,impetrado em favor deWellington Rito Santos de Araujo, em que se aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios, que negou provimento ao Agravo de Execução Penal n. 0725602-48.2021.8.07.0000, nos termos da seguinte ementa (fl. 96):
+LEI DE EXECUÇÃO PENAL. AGRAVO EM EXECUÇÃO. RECURSO DA DEFESA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO A QUO. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA CONDENATÓRIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. ENTENDIMENTO ATUAL DO SUPREMO TRIBUNAL FEDERAL. PRESCRIÇÃO NÃO RECONHECIDA. RECURSO CONHECIDO E NÃO PROVIDO
+1. O marco inicial da contagem do prazo prescricional da pretensão executória é o trânsito em julgado para a acusação. Precedentes do STF, STJ e TJDFT.
+2. O acórdão confirmatório da sentença condenatória constitui causa interruptiva da prescrição da pretensão executória, de acordo com o atual entendimento do Plenário do Supremo Tribunal Federal, proferido no HC nº 176473, no qual se firmou a tese: "Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta". Assim, não transcorrido o prazo prescricional no caso concreto, não há se falar em extinção da punibilidade.
+3. Recurso conhecido e não provido.
+Aqui, a defesa alega queo termo inicial para contagem do prazo, para fins de prescrição da pretensão executória, é a data do trânsito em julgado para a acusação, ocorrido em 02/05/2017, e não para ambas as partes, prevalecendo-se a interpretação literal do artigo 112, inciso I, do Código Penal, mais benéfica ao condenado(fl. 7).
+Aduzqueos fundamentos do acórdão em apreço não se aplicam ao caso concreto, posto que o marco interruptivo previsto no artigo 117, inciso IV, do Código Penaldiz respeito à prescrição da pretensão punitiva, e não da pretensão executória(fl. 8).
+Requer, assim, a concessão da ordem para que seja reconhecida a prescrição da pretensão executória.
+Informações prestadas (fls. 15/162), o Ministério Público Federal ofereceu parecer pelo não conhecimento do writ (fls. 167/173).
+É o relatório.
+O Tribunala quo negou provimento ao agravo ora impugnado asseverando que (fls. 116/117- grifo nosso):
+ ..
+O art. 117 do Código Penal estabelece as causas interruptivas da prescrição, nos seguintes termos:
+ ..
+Percebe-se do dispositivo acima transcrito que a publicação de acórdão condenatório é sim marco interruptivo da prescrição. Não há, pois, distinção em acórdão condenatório, nas hipóteses de recurso do Ministério Público contra sentença absolutória, e acórdão mantenedor da sentença condenatória, quando é a Defesa quem apela. Por isso, o aludido marco deve ser considerado como causa interruptiva tanto da prescrição da pretensão punitiva como da executória. Isto porque, em ambas as situações há decisão de mérito, mediante reanálise do conjunto probatório e proferimento de novo julgamento pela Instância Revisora, o que afasta a inércia do Poder Judiciário, viga mestre que justifica o reconhecimento da prescrição, tanto da pretensão punitiva como da pretensão executória.
+ ..
+Ocorre queesta Corte entende que a tese firmada pelo Supremo Tribunal Federal no HC n. 176.473/RR, de que o acórdão condenatório, ainda que confirmatório da sentença (art. 117, IV, do Código Penal), é causa interruptiva da prescrição, não se aplica à prescrição da pretensão executória, mas à pretensão punitiva do Estado(AgRg no HC n. 612.709/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 1º/10/2021 - grifo nosso).
+No mesmo sentido, oAgRg no RHC n. 136.971/RJ, Ministro Antonio SaldanhaPalheiro, Sexta Turma, DJe 22/10/2021; e, AgRg no HC n. 663.402/DF, Ministro Reynaldo Soaresda Fonseca, Quinta Turma, DJe 14/6/2021.
+Assim, mantém-se o entendimento de que, conforme disposto expressamente noart. 112, I, do CP, o termo inicial da contagem do prazo da prescriçãoexecutória é a data do trânsito em julgado para a acusação, e não paraambas as partes, prevalecendo a interpretação literal mais benéfica aocondenado (AgRg nos EAREsp n. 908.359/MG, Terceira Seção, Ministro NefiCordeiro, DJe 2/10/2018).
+Com efeito, Esta Corte possui entendimento de que a análise do pleito deextinção da punibilidade pela prescrição da pretensão executóriacabe ao juízo da execução, uma vez que demanda a verificação dediversas informações, não apenas quanto ao trânsito em julgado paraa acusação e início da execução da pena, como também acerca daocorrência de incidentes que interferem diretamente na contagem doprazo prescricional, nos termos do disposto nos arts. 116, parágrafoúnico e 117, incisos V e VI, ambos do CP. Julgado: AgRg no HC457.810/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em8/11/2018, DJe 23/11/2018" (AgRg no HC 473.344/PB, Rel. MinistroRIBEIRO DANTAS, QUINTA TURMA, julgado em 10/03/2020, DJe 26/03/2020) - (RHC n. 144.365/SP, Ministra Laurita Vaz, Sexta Turma, DJe 4/10/2021).
+Ante o exposto, concedo a ordem para determinar que o Juízo da execução analise eventualprescrição executória, nos termos aqui decididos, conforme a jurisprudência doSuperior Tribunal de Justiça.
+Comunique-se.
+Intime-se o Ministério Público do Distrito Federal e Territórios.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL.PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MARCO INICIAL. TRÂNSITO EM JULGADO DA CONDENAÇÃO PARA A ACUSAÇÃO. INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA.ART. 117, IV, DO CÓDIGO PENAL. INAPLICABILIDADE.CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
