@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que não conheceu do Agravo por ausência de impugnação específica. O Recurso Especial não foi admitido por ausência de indicação do dispositivo legal pretensamente contrariado. Incidiu a Súmula 284/STF.
+Defende a parte em seu Agravo Interno:
+Veja, a súmula 284 do STF diz especificamente que: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". E não é o que acontece no caso em tela, uma vez que expôs o Município de Fazenda Rio Grande os pontos divergentes em seu Recurso Especial.
+ ..
+Assim, apontou claramente a divergência no Recurso Especial, assim como claramente houve dialeticidade no Recurso de Agravo para subir o respectivo recurso, vez que também atacou especificamente a súmula que o embarreirou. Não há, portanto, como falar que não fora impugnado o referido fundamento, sendo inaplicável ao caso o art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, bem como não há o que se falar em aplicação por analogia da Súmula 182 do STJ, tampouco que seja a decisão fundamentada no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, diante da clara impugnação específica.
+Deste modo, resta claro que no presente caso não se aplica os dispositivos invocados e impugnados.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. DECIFIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1.Trata-se de Agravo Interno contra decisão que não conheceu do Agravo por ausência de impugnação específica. O Recurso Especial não foi admitido por ausência de indicação do dispositivo legal pretensamente contrariado. Incidiu a Súmula 284/STF.
+2. No tocante à interposição de Recurso Especial, fundado em dissídio jurisprudencial, verifica-se que, conforme a previsão do art. 255, § 1º, do RISTJ, é de rigor não só a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, mas também que se aponte o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos para tal demonstração.
+3. Observa-se que o Município não aponta o dispositivo infraconstitucional objeto de interpretação divergente pelos julgados em confronto, desbordando da previsão contida no art. 105, III, "c", da Lex Mater, o que impede a apreciação dessa parcela recursal pelo Superior Tribunal de Justiça. Nesse mesmo sentido, confiram-se: AgInt nos EDcl no REsp n. 1.826.211/MG, Rel. Min. Francisco Falcão, Segunda Turma, DJe 19.3.2020 e AgInt no AREsp 1.524.220/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 18.5.2020.
+4. Consoante há muito assentado na jurisprudência do STJ, "não se pode desconhecer os pressupostos de admissibilidade do recurso. O aspecto formal é importante em matéria processual não por obséquio ao formalismo, mas para segurança das partes e resguardo do due process of law" (AgRg no Ag 451.125/SP, Rel. Min. Sálvio de Figueiredo Teixeira, Quarta Turma, DJ 19.12.2002).
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 9 de agosto de 2021.
+No tocante à interposição de Recurso Especial, fundado em dissídio jurisprudencial, verifica-se que, conforme a previsão do art. 255, § 1º, do RISTJ, é de rigor não só a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, mas também que se aponte o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração.
+Observa-se que o Município não aponta o dispositivo infraconstitucional objeto de interpretação divergente pelos julgados em confronto, desbordando da previsão contida no art. 105, III, c, da Lex Mater, o que impede a apreciação dessa parcela recursal pelo Superior Tribunal de Justiça. Nesse mesmo sentido, confiram-se: AgInt nos EDcl no REsp n. 1.826.211/MG, Rel. Min. Francisco Falcão, Segunda Turma, DJe 19.3.2020 e AgInt no AREsp 1.524.220/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 18.5.2020.
+Consoante há muito assentado na jurisprudência do STJ, "não se pode desconhecer os pressupostos de admissibilidade do recurso. O aspecto formal é importante em matéria processual não por obséquio ao formalismo, mas para segurança das partes e resguardo do due process of law" (AgRg no Ag 451.125/SP, Rel. Min. Sálvio de Figueiredo Teixeira, Quarta Turma, DJ 19.12.2002).
+Por todo o exposto, nego provimento ao Agravo Interno.
+É como voto.
