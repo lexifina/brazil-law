@@ -1,0 +1,44 @@
+DECISÃO
+EBERVAL CÉSAR ROMÃO CINTRA alega ser vítima de coação ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu a liminar do HC n. 2271949-37.2021.8.26.0000.
+Ao argumento de que a ação penal na qual o paciente foi condenado seria nula, por "ausência de citação válida e publicidade dos atos judiciais" (fl. 20, o impetrante pugna, liminarmente, para que seja suspensa audiência admonitória designada para o dia 23/11/2021 e, no mérito, para que seja declarado "nulo os atos, as audiências, o processo em sua integralidade" (fl. 20).
+Decido.
+I. Súmula n. 691 do STF
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores:
+ ..
+1. Não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de Habeas Corpus impetrado contra decisão proferida por relator que indefere o pedido de liminar em Habeas Corpus requerido a tribunal superior, sob pena de indevida supressão de instância (Súmula 691 do STF).
+2. Inexistência de teratologia ou caso excepcional que caracterizem flagrante constrangimento ilegal.
+3. Agravo regimental a que se nega provimento.
+(HC n. 179.896 AgR, Relator(a): Min. Alexandre de Moraes, 1ª T., julgado em 27/3/2020, PROCESSO ELETRÔNICO DJe-081 DIVULG. 1º/4/2020, PUBLIC. 2/4/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. INDEFERIMENTO DE MEDIDA LIMINAR NO SUPERIOR TRIBUNAL DE JUSTIÇA: SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. INEXISTÊNCIA DE TERATOLOGIA OU FLAGRANTE ILEGALIDADE NA ESPÉCIE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (HC n. 182.390 AgR, Relator(a): Min. Cármen Lúcia, 2ª T., julgado em 20/4/2020, PROCESSO ELETRÔNICO DJe-099 DIVULG. 23/4/2020, PUBLIC. 24/4/2020)
+ ..
+1. Esta Corte Superior firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. No caso, não há falar em flagrante ilegalidade capaz de superar o óbice da Súmula 691/STF, porquanto o agravo em recurso especial mostrou-se indubitavelmente intempestivo, o que sequer é questionado pelo agravante, logo, não se verifica direito inconteste de devolução do prazo recursal.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 561.091/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., julgado em 13/4/2020, DJe 16/4/2020)
+ ..
+2. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF. Referido entendimento aplica-se na hipótese em que o writ de origem é conhecido como substitutivo de revisão criminal. Precedentes.
+3. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, pois a fundamentação adotada pelas instâncias ordinárias para fixar o regime inicial semiaberto está em harmonia com a jurisprudência da Suprema Corte e desta Corte Superior no sentido de que não há constrangimento ilegal na fixação de regime mais gravoso de cumprimento de pena caso a pena-base tenha sido fixada acima do mínimo legal por conta do reconhecimento de circunstâncias judiciais desfavoráveis dada a interpretação conjunta dos arts. 59 e 33, §§ 2º e 3.º, ambos do Código Penal. De fato, a imposição do regime prisional não está condicionada somente ao quantum da pena. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 548.761/PE, Rel. Ministra Laurita Vaz, 6ª T., julgado em 17/12/2019, DJe 4/2/2020)
+II. Ilegalidade não evidente
+Infere-se dos autos que o paciente foi condenado, como incurso no art. 331 do CP, à pena de 8 meses de detenção, em regime inicial aberto. Transitada em julgado a condenação, foi designada audiência admonitória para início do cumprimento da reprimenda privativa de liberdade imposta.
+Visando à suspensão da referida audiência, o paciente, em causa própria, impetrou o HC n.2238666-23.2021.8.26.0000, que não foi conhecido pelo Tribunal estadual, determinando sua remessa ao Colégio Recursal competente.
+Distribuído os autos no Colégio Recursal de Americana/SP, o Desembargador relator, em razão de impedimento para exame do feito, determinou sua redistribuição, em 19/11/2021. O novo relator sorteado, ao apreciar omandamus, proferiu a seguinte decisão (fls. 130-131):
+Consigne-se inicialmente que o pedido de liminar já foi apreciado e indeferido pelo E. Tribunal de Justiça (fls. 179/182), devendo subsistir os efeitos de tal v. decisão ao menos até a análise dos pressupostos processuais, análise esta que depende de providência a cargo do impetrante.
+De fato, depreende-se dos documentos que instruem opresente habeas corpus que o paciente havia impetrado anteriormente o habeas corpus n.º 0100210-27.2018.8.26.9056 julgado e rejeitado por esta C. Turma Recursal em 07 de maio de 2021 (fls. 93/107).
+Diante disso, o paciente impetrou o presente habeas corpus, no qual aponta como autoridade coatora o MM. Juiz Relator do habeas corpus n.º 0100210-27.2018.8.26.9056, Doutor MARSHAL RODRIGUES GONÇALVES, além do MM. Juiz de Direito do Juizado Especial Criminal de Sumaré, Doutor OLAVO PAULA LEITE ROCHA, que o magistrado que prolatou sentença condenatória contra o impetrante(processo n.º 0001115-97.2017.8.26.0604) (fls. 1/92).
+Insta consignar que já ocorreu o julgamento final do habeas corpus n.º 0100210-27.2018.8.26.9056, o qual, inclusive, contou com a participação deste magistrado na turma julgadora.
+Nestes termos, para permitir o prosseguimento do feito e a análise dos pressupostos processuais, esclareça o impetrante se o presente habeas corpus foi dirigido contra a r. decisão desta 2ªTurma Recursal correspondente ao julgamento do habeas corpus n.º 0100210-27.2018.8.26.9056, devendo, ainda, esclarecer os fatos e fundamentos jurídicos do pedido que conduziram à inserção do MM. Juiz Relator daqueles autos como autoridade coatora no presente remédio heróico, e, se o caso, retificar o polo passivo da presente impetração.
+Em seguida, o paciente, ainda em causa própria,impetrou novo habeas corpus perante a Corte estadual, no qual o Desembargador plantonista, em um despacho datado de 21/11/2021,assim se manifestou (fls. 127-128):
+Não é cabível impetração deHabeas Corpus, no Plantão Judiciário, para casos já preventos por esta Corte (e em nítida repetição de argumentos!!), como declinado na outra e anterior Impetração (HC nº2238666-23.2021.8.26.0000). E mais, como ali decidido, e com razão, Tribunal de Justiça não é órgão revisor ou superior de Colégio Recursal.
+Distribua-se no primeiro dia útil subsequente a esta data, nos termos do Regimento Interno deste Egrégio Tribunal de Justiça.
+Daí o presentemandamus, no qual pretende o reconhecimento da nulidade da ação penal.
+Não verifico a possibilidade de mitigar a Súmula n. 691 do STJ.
+Existe uma ordem a ser seguida nas postulações endereçadas ao Judiciário. A tese de nulidade da ação penal não foi nem sequer analisada pelo Colégio Recursal, "Órgão de segundo grau de jurisdição do Sistema dos Juizados Especiais" (fl. 55). Assim, está caracterizado o indevido salto de duas instâncias.
+Nesse cenário, não verifico a possibilidade de interferir prematuramente no deslinde da questão.
+III. Dispositivo
+À vista do exposto, sem prejuízo futuro de exame mais acurado da insurgência, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada do Tribunal a quo, indefiro liminarmente este habeas corpus, com fulcro no art. 210 do RISTJ e na Súmula n. 691 do STF.
+Publique-se e intimem-se.
