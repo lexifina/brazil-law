@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interno interposto pela FAZENDA NACIONAL contra a decisão de fls. 533-537, pela qual foi mantido o entendimento de que o ICMS não integra a base de cálculo da contribuição Previdenciária sobre a receita bruta (CPRB).
+No presente agravo, o recorrente sustenta que a referida decisão está em desacordo com as teses proferidas no RE 1187264 e RE 1285845, resultantes dos temas 1048 e 1135, respectivamente.
+Pleiteia a reconsideração da decisão agravada.
+Contrarrazões do recorrido, buscando a manutenção da decisão agravada.
+É o relatório. Decido.
+Conforme entendimento do STF no julgamento dos temas 1048 e 1135, é devida a inclusão do Imposto Sobre Circulação de Mercadorias e Serviços - ICMS, na base de cálculo da contribuição previdenciária sobre a Receita Bruta - CPRB.
+No mesmo diapasão, confira-se:
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA (CPRB) NA BASE DE CÁLCULO DO PIS E COFINS. INCIDÊNCIA. ART. 12 DO DECRETO-LEI 1.598/1977. A RECEITA BRUTA COMPREENDE OS TRIBUTOS SOBRE ELA INCIDENTES. TEMA 1.048 DO STF. RECURSO NÃO PROVIDO.
+1. Cuida-se de ação na qual a recorrente busca a exclusão da Contribuição Previdenciária sobre a Receita Bruta (CPRB) da base de cálculos das contribuições ao PIS e Cofins, por não perfazer faturamento ou receita da companhia, mesmo após as alterações trazidas pela Lei nº 12.973/14, em respeito ao art. 110 do CTN, sob pena de afronta aos ditames constitucionais dispostos aos artigos 145, § 1º, art. 150, I e art. 195, I da CF.
+2. O Supremo Tribunal Federal, no resultado do julgamento do seu Tema 1.111, fixou a seguinte tese: É infraconstitucional a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à inclusão da contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) na base de cálculo da contribuição ao PIS e da COFINS.
+3. A discussão consiste em saber se o conceito de receita bruta dado pelo art. 12 do Decreto-Lei 1.598/1977, com a nova redação dada pela Lei 12.973/2014, viola o art. 110 do CTN.
+4. O STF tratou do conceito de receita bruta ao julgar o RE 1.187.264 (Tema 1.048), com acórdão publicado em 20/5/2021, oportunidade em que fixou a seguinte tese: É constitucional a inclusão do Imposto Sobre Circulação de Mercadorias e Serviços ICMS na base de cálculo da Contribuição Previdenciária sobre a Receita Bruta CPRB."
+5. Registre-se a similaridade com a presente demanda, uma vez que no RE 1.187.264 também se discutia o conceito de receita bruta e a empresa sustentava a impossibilidade de inclusão do ICMS na base de cálculo da CPRB, por não ser definitivo o ingresso dos valores no patrimônio da pessoa jurídica. Alegava, também, que deveria ser aplicada ao caso a mesma tese firmada no RE 574.706 (Tema 69 da Repercussão Geral), em que o Plenário declarou que o ICMS não deve compor a base de cálculo do PIS e da Cofins.
+6. No corpo do acórdão, debateu-se sobre o conceito de receita bruta trazido pelo art. 12 do Decreto-Lei 1.598/1977, com a nova redação dada pela Lei 12.973/2014, o que teve o seguinte desfecho: "(..) De acordo com a legislação vigente, se a receita líquida compreende a receita bruta, descontados, entre outros, os tributos incidentes, significa que, contrario sensu, a receita bruta compreende os tributos sobre ela incidentes (grifamos).
+7. Como se observa, a Suprema Corte reafirmou a constitucionalidade e legalidade do conceito de receita bruta trazido pelo art. 12 do Decreto-Lei 1.598/1977, com a nova redação dada pela Lei 12.973/2014, não se aplicando as razões do Tema 69 do STF à presente discussão, nem havendo ofensa ao art. 110 do CTN.
+8. Assim, não tem o contribuinte o direito de excluir os valores atinentes à Contribuição Previdenciária sobre a Receita Bruta (CPRB) da base de cálculo das contribuições ao PIS e à Cofins.
+9. Agravo Interno não provido.
+(AgInt no AgInt no REsp 1930041/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/08/2021, DJe 31/08/2021)
+Diante do exposto, reconsidero a decisão agravada ecom fundamento no art. 255, § 4º, III, do RISTJ, douprovimento ao agravo interno e ao recurso especial determinandoareformado acórdão proferido pelo Tribunal a quo, declarando ser devida a inclusão do ICMS na base de cálculo da contribuição previdenciária sobre a receita bruta (CPRB).
+Publique-se e intimem-se.
