@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto por SILVANIO FRANCISCO DE PAULA- presopreventivamente em 27/9/2021,pela suposta prática do crime previsto no artigo 121, § 2º, IV cumulado com o artigo14, inciso II, ambos do Código Penal - contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.21.232842-1/000).
+Segundo consta dos autos, policias foram acionados para comparecerem a determinado local, em virtude de uma briga, oportunidade em que tiveram informações de que o paciente teria furtado uma faca de um açougue e desferido golpes com faca contra a vítima, e que, logo em seguida, fugido do local se escondendo na casa de pessoas conhecidas.Ao se deslocarem até o local indicado e encontrarem o paciente, foi-lhe dadavoz de prisão.
+O flagrante foi homologado e decretada a prisão preventiva (e- STJ fls. 95/100).
+A defesa impetrou habeas corpus com pedido liminar na Corte estadual, alegando, em síntese, ausência dos requisitos legais que autorizam a prisão preventiva. O Tribunal, contudo, denegou a ordem, recebendo o acórdão a seguinte ementa (e-STJ fl. 144):
+EMENTA: HABEAS CORPUS - HOMICÍDIO QUALIFICADO TENTADO - REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPROCEDÊNCIA - PRESSUPOSTOS E REQUISITOS DO ART. 312 DO CPP NITIDAMENTE PRESENTES - DECISÃO DEVIDAMENTE FUNDAMENTADA - PACIENTE COM MAUS ANTECEDENTES - MEDIDAS CAUTELARES ALTERNATIVAS - DESCABIMENTO. Estando devidamente comprovada a presença dos requisitos do art. 312 do CPP, necessária é a manutenção da prisão cautelar, como forma de se garantir a ordem pública e evitar a reiteração delitiva, em especial quando demonstrada a insuficiência das medidas cautelares alternativas e se tratar de paciente com extensa certidão de antecedentes criminais. A decisão que indica elementos concretos dos fatos e do paciente não pode ser considerada abstrata.
+Na presente oportunidade, a defesa alega, em síntese, a inidoneidade da fundamentação utilizada pelo Magistrado de primeira instância em sua decisão, asseverando não haver motivos legais para a prisão (art. 312 do CPP).
+Diante disso, pugna, liminarmente e no mérito, pela concessão da liberdade provisória do paciente, com a aplicação das medidas cautelares previstas no artigo 319 do CPP.
+Processo distribuído a esta relatoria por prevenção do HC n. 707.490/MG, vinculado ao mesmo ato coator, e ao mesmo paciente.
+É o relatório.Decido.
+O presente recurso não merece ser conhecido porque representamera reiteração doHC n.º 707.490/MG,já julgado por esta Relatoria em 22/11/2021.
+É de se considerar que "é pacífico o entendimento firmado nesta Corte de que não se conhece dehabeas corpuscuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n.º 531.227/SP, minha relatoria, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019).
+Ante o exposto,não conheçodo recurso.
+Intimem-se.Publique-se.
