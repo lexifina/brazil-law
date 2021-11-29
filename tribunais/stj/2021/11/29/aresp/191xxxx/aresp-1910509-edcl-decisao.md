@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por CONSTRUTORA ZADAR LTDA - EM RECUPERAÇÃO JUDICIAL, a decisão de minha lavra, publicada em 28/09/2021, que conheceu do Agravo para não conhecer doRecurso Especial interposto pelo MUNICÍPIO DE ANGRA DOS REIS.
+Inconformada, sustenta a parte embargante que:
+"3. A necessidade de decisão aclaratória diz respeito ao constante no julgado, na medida em que tendo sido arbitrados honorários em 10% sobre o valor da execução (R$ 16.291,29) na 1ª instância, bem como ainda arbitrados honorários de 2% na 2ª instância, ainda sim, a condenação em honorários imposta na r. decisão de AREsp de fls. 392/395 deveria ter considerado a previsão do § 8º do art. 85 do Código de Processo Civil, tendo em vista que o valor da condenação é irrisório a ponto de atribuir valor significante à título de verba sucumbencial.
+4. Vejamos a seguir o breve histórico das decisões dos autos.
+SENTENÇA - FLS. 147/148
+..JULGO IMPROCEDENTES os presentes embargos à execução, com resolução do mérito, na forma do art.487, I do CPC, e por consequência condeno o Município embargante nas despesas processuais, observadas as isenções legais e nos honorários advocatícios que fixo em 10% (dez por cento) do valor dos embargos que modifico de ofício para constar como o mesmo valor da execução de R$16.291,29 (dezesseis mil, duzentos e noventa e um reais e vinte e nove centavos). Prossiga-se com a execução. Traslade-se cópia desta para a execução em apenso. Com o trânsito em julgado dê-se baixa e arquive-se. P.R.I.
+ACÓRDÃO - FLS. 233/238
+Ante o exposto, voto por negar provimento ao recurso e, como corolário, face a sucumbência recursal da Municipalidade, fixo os honorários recursais em 2%.
+5. Portanto, mesmo tendo sido arbitrados honorários nesta fase processual, no percentual de 10% sobre o valor já arbitrado, ainda teríamos um total de 13,2% sobre R$ 16.291,29, que resulta em singelos R$ 2.150,46 à título de condenação em honorários.
+6. Data vênia, mais justo e recompensador o arbitramento de honorários no máximo legal de 20%, carecendo que o arbitramento nesta fase seja realizado no percentual de 8% sobre o valor da condenação principal, tendo em vista o baixo valor da causa.
+7. Mas não é só.
+8. Ao compulsarmos os autos fica claro que houve forte resistência do Município Embargado, que gerou maior produção de trabalho técnico e empenho dos causídicos, o que assim justifica o arbitramento em percentual de 8% nesta fase.
+6. Portanto, a fim de se fazer justiça nas decisões, é necessário observar o princípio da sucumbência em estrita analise ao princípio da justa causalidade, pois de outra forma, restariam questões sem resposta, ou melhor, sem a justa resposta, afinal de contas, no presente caso, o Município Embargado manteve postura procrastinadora durante todas as fases processuais" (fls. 399/400e).
+Por fim, requer o acolhimento dos Embargos Declaratórios.
+Nas razões de impugnação, a parte embargada pugna pela rejeiçãodos Embargos Declaratórios (fls. 406/411e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada, no tocante à majoração dos honoráriosadvocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte ora recorrente, em virtude da interposição do Recurso Especial, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ademais, cumpre destacar que a tese indicada como omissa, relativa à necessidade de majoração dos honorários advocatícios recursais, sequer foi objeto das contrarrazões ao Recurso Especial, somente tendo sido suscitada nos presentes Embargos Declaratórios, em indevida inovação recursal.
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE DO AGRAVO INTERNO. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material. Não se verifica, no caso concreto, a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. Com efeito, decidiu-se que o agravo interno não tinha condições de conhecimento, porquanto a parte agravante deixou de refutar todos os fundamentos da decisão agravada, o que fez atrair o óbice da Súmula 182/STJ.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Em razão de sua natureza substancial, a falta de impugnação integral dos fundamentos da decisão recorrida não admite posterior saneamento, a ela não se aplicando o disposto no parágrafo único do artigo 932 do CPC.
+5. Embargos de declaração rejeitados"(STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA,DJe de 02/04/2020).
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
