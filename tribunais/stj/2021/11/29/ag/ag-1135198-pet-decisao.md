@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de expediente avulso protocolizado, em 17/6/2015, por RAQUEL FELAU GUISONI e OUTROS, no qual se requer a subida do recurso especial, já determinada na decisão proferida pelo então Relator, Ministro Napoleão Nunes Maia Filho, em 14/6/2010 (e-STJ fl. 11).
+Em 24/6/2015, proferi despacho nos presentes autos, comunicando o ocorrido ao Tribunal de Justiça do Estado de São Paulo, para que providenciasse a subida do recurso. Diante da superveniência de pedido de preferência, o Presidente da Quinta Turma, eminente Ministro Ribeiro Dantas, renovou a comunicação, em 1º/8/2019 (e-STJ fl. 27).
+Em 12/11/2019, foi juntado aos autos ofício do Tribunal de origem, comunicando a instauração do procedimento de restauração dos autos do Agravo de Instrumento nº 9029114-84.2007.8.26.0000 (e-STJ fl. 33). Por fim, em 22/3/2021, o Presidente da Quinta Turma, eminente Ministro Ribeiro Dantas, determinou que o feito fosse encaminhado a este Relator.
+Diante do decurso de tempo, foram solicitadas informações atualizadas a respeito do Procedimento de Restauração de Autos instaurado na origem, sendo informado que "os autos (físicos) estão inacessíveis"e que "quando do retorno desta Corte ao trabalho presencial, sua agilidade será de rigor"(e-STJ fls. 59/62).
+Em 10/6/2021, os autos n. 9029114-84.2007.8.26.0000, referentes ao presente agravo de instrumento, foram julgados restaurados, com encaminhamento a esta Corte Superior, sendo autuado como Recurso Especial n. 1.959.879/SP e distribuído à minha Relatoria em 7/10/2021.
+Dessarte, com a subida do recurso especial, conforme determinado pelo então Relator, Ministro Napoleão Nunes Maia Filho, os presentes autos devem retornar ao arquivo, uma vez que o mérito recursal deverá ser analisado no recurso especial.
+Ante o exposto, determino o retorno dos autos ao arquivo.
+Publique-se.
