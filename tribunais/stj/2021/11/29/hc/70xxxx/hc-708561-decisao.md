@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em benefício de MARCOS VINICIUS SOUZAcontra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o Juízo das Execuções Criminais indeferiu opedido de progressão do sentenciado ao regime aberto, por ausência do requisito objetivo.
+Inconformada, a defesa interpôs agravo em execução perante o TJSP, que negou provimento ao recurso em decisum assim ementado (e-STJ, fl. 9):
+AGRAVO EM EXECUÇÃO -Progressão ao regime aberto-Ausência do requisito objetivo- Cálculo de penas que se encontra correto -Marco inicial para a próxima progressão no regime que se conta da data em que o sentenciado cumpriu os requisitos legais -Posição consolidada do C. STF e C. STJ -Tema analisado no IRDR nº 2103746-20.2018.8.26.0000, de observância obrigatória, através do qual reconheceu-se como meramente declaratória a decisão que defere a progressão do regime de cumprimento de pena- Decisão mantida-Recurso improvido.
+Nopresente writ, alega a impetrante, em síntese, que ""tendo sido realizado o cálculo para fins de progressão ao regime aberto, o marco inicial utilizado para calcular o requisito objetivo foi a data em que o ora Paciente submeteu-se ao exame criminológico, qual seja, em 18/6/2019, comprovando o requisito subjetivo. Embasada a decisão do MM. Juiz de 1º grau, o qual negou a concessão da benesse da progressão ao regime aberto ao ora Paciente e que homologou o cálculo de penas efetuado pela serventia, no Incidente de Resolução de Demandas Repetitivas n.2103746-20.2018.8.26.0000""  ..  os Eméritos Desembargadores da 14ª Câmara de Direito Criminal do Tribunal de Justiça, negaram provimento ao recurso de Agravo de Execução interposto pela defesa  .. o entendimento adotado afronta a decisão da Segunda Turma do Supremo Tribunal Federal, que por unanimidade, determinou que DATA-BASE para a progressão ao regime aberto, deve ser a data em que o sentenciado preencheu o lapso temporal para a progressão ao regime semiaberto, independentemente da data da decisão judicial que deferiu o benefício, tendo em vista seu caráter declaratório"" (e-STJ, fl. 5).
+Diante disso, pleiteia, liminarmente e no mérito, a concessão da ordem para que seja determinada ""a retificação do cálculo de penas para fins de progressão ao regime aberto e que o marco inicial para a contagem do referido beneficio, seja a partir, da data em que que o mesmo atingiu o lapso temporal para a progressão ao regime semiaberto"" (e-STJ, fl. 6).
+É o relatório. Decido.
+Observa-se que o presente mandamus consubstancia-se em mera reiteração de pedido formulado no HC n. 691722/SP, questão apreciadaem 2/9/2021, decisão transitada em julgado em 14/9/2021.
+Registre-se que ambos os processos contam com as mesmas partes (paciente e órgão apontado como coator) e mesma causa de pedir, revelando, assim, coisa julgada.
+Nesse sentido, a título de exemplo ( grifei):
+RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. REITERAÇÃO DE TESE. IDENTIDADE DE PARTES, DE OBJETO E DE CAUSA PETENDI. MÉRITO DO PEDIDO RECURSAL JÁ ANALISADO POR ESTA CORTE EM WRIT ANTERIOR (HC N. 294.123/SP). LITISPENDÊNCIA CONFIGURADA.
+1. É descabido o processamento concomitante, nesta Corte, de habeas corpus e de recurso ordinário em habeas corpus caso constatada a litispendência (instituto que se configura quando há identidades de partes, de pretensão e de causa de pedir).
+2. O reconhecimento da litispendência, como cediço, visa exatamente a evitar a ocorrência de decisões contraditórias e a ter-se economia processual (REsp n. 88.354/SP, Ministro Humberto Gomes de Barros, Primeira Turma, DJ 2/9/1996).
+3. In casu, o recurso ordinário não pode ser analisado, uma vez que versa sobre mera reiteração do que requerido no HC n. 294.123/SP, cuja matéria de fundo já foi apreciada.
+4. Recurso em habeas corpus não conhecido.
+(RHC 51.048/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/06/2015, DJe 15/06/2015)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. 1. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. 2. REITERAÇÃO DE PEDIDO. OCORRÊNCIA. 3. RECURSO IMPROVIDO.
+1. Caracterizada no presente habeas corpus a mera reiteração de pedido, uma vez que há identidade de partes, fundamento e objeto com o HC n.º 117.120/PE, já julgado por este Superior Tribunal, de imposição o seu reconhecimento.
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 118.447/PE, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 5/2/2013, DJe 15/2/2013).
+É de se considerar que "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, RelatorMinistro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019).
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
