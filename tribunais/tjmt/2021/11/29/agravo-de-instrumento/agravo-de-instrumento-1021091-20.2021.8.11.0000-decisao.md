@@ -1,0 +1,19 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto pelo FATEX RESIDENCIAL CONSTRUTORA E INCORPORADORA SPE LTDA e OUTRO(S), com o fito de suspender a decisão que, nos autos da Ação de Obrigação de Fazer de n. 1019632-93.2017.811.0041, manejada por MELISSA FRANÇA PRAEIRO VASCONCELOS DE MORAES e OUTRO(S), aplicou multa de 2% sobre o valor da causa, em razão da ausência de cadastramento das agravantes no sistema PJE.
+Para tanto, as agravantes alegam que a aplicação da sansão processual do modo estabelecido pelo juízo singular causa enriquecimento sem causa dos agravados, uma vez que o não cadastramento das empresas no sistema PJE não produziu qualquer prejuízo em relação a eles.
+Afirmam que o art. 2o da Portaria-Conjunta n. 291/2020, de 22 de abril de 2020, ao recomendar que os magistrados avaliem a possibilidade de aplicação de multa, visa orientar os magistrados a advertirem as partes quanto a possibilidade da aplicação da multa, mas não impõe a fixação das astreintes, sem permitir que a irregularidade seja sanada em prazo razoável, como aconteceu no caso concreto.
+Pondera que a própria sistemática das sanções processuais tem como condição necessária a intimação da parte para a prática da conduta em prazo razoável, razão pela qual a decisão de base deve ser reformada.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Da análise da questão posta, não decorre fundamento bastante para convencer da concessão da liminar recursal pretendida.
+No caso, além do afastamento das astreintes estar diretamente ligado ao exame de mérito do presente recurso, as razões recursais não apontam prejuízo de difícil ou incerta reparação que exija o deferimento da medida liminar neste momento processual, sobretudo porque o comando da decisão hostilizada apenas fixou a multa de 2% sobre o valor da causa, em razão da ausência de cadastramento das agravantes no sistema PJE, sem determinar qualquer comando expropriatório.
+Assim, a questão poderá ser enfrentada por ocasião do mérito do presente recurso, sem que, durante esse interregno, a parte sofra qualquer prejuízo.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
