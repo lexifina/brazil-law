@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SAMARCO MINERAÇÃO S/A, à decisão de fls. 393/394, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Na espécie, contudo, ao assim decidir, ficou claro que, para a aferição deste prazo específico, foi utilizada uma contagem simples do prazo, desconsiderando, venia concessa, os Atos Normativos expedidos pela Corte local em razão da Pandemia de Covid-19, todos juntados e comprovados nos autos deste processo, às fls. 348/350, no ato de interposição do recurso, e que alteraram o termo final de interposição, fazendo com que o recurso seja tempestivo.
+ ..
+Nesse contexto, é questão incontroversa nos autos, conforme afirmado pela própria r. decisão ora embargada, que a r. decisão que negou seguimento ao Recurso Especial foi disponibilizada no Diário da Justiça eletrônico, no dia 26/02/2021 e efetivamente publicada no dia 01/03/2021 (art. 224, §2º, do CPC), motivo pelo qual o prazo de recurso se iniciou no "primeiro dia útil que seguir ao da publicação" (art. 224, §3º, do CPC), qual seja, o dia 02/03/2021.
+ENTRETANTO, o que não foi analisado pela r. decisão ora embargada para exata contagem do prazo recursal, é o fato de terem sido editados os Atos Normativos nº 21/2021, nº 25/2021 e 27/2021 pelo e. TJES, que suspenderam o expediente forense e os prazos no âmbito daquela Corte local, entre os dias 17/03/2021 a 02/05/2021, em razão das medidas de emergência adotadas em razão da COVID-19.
+Tais Atos, por sinal, foram juntados ao Agravo, como pode se observar das fls.
+348/350, e, no capítulo da tempestividade recursal, essa circunstância foi expressamente mencionada; vale observar: (fl. 398).
+ ..
+É sabido que essa d. Corte Superior pode fazer nova análise de admissibilidade recursal, inclusive quanto à tempestividade, mas, mesmo assim, é importante mencionar que o próprio e. TJES, obviamente sabedor da interrupção dos prazos no âmbito local, atestou a tempestividade do Agravo, conforme se observa da Certidão de fls. 352:
+ ..
+Portanto, diante deste contexto, é fundamental que haja valoração expressa da certidão de fls. 352, expedida pelo e. TJES, que atesta a tempestividade do presente Agravo (fl. 400).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Não se desconhece dos documentos juntados às fls. 378/382 dos autos. No entanto, não são suficientes para afastar a intempestividade do agravo. Veja-se que tais documentos não comprovam que os prazos processuais estiveram suspensos no período de 17/3/2021 a 2/5/2021, como alegado pela parte.
+Ademais, registre-se que, nos termos do art. 1.042, §§ 2º e 4º, do Código de Processo Civil, a competência do Tribunal a quo, na análise do agravo em recurso especial, restringe-se apenas à possibilidade de eventual retratação.
+A competência para o julgamento do referido agravo é deste Superior Tribunal de Justiça, conforme estabelecido nos §§ 3º e 4º do mencionado dispositivo, os quais prevêem que logo após o oferecimento da resposta do agravado, os autos devem ser remetidos a esta instância superior (Rcl 39.515/PE, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 29/06/2020).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
