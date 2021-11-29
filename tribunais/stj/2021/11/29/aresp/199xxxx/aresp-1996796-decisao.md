@@ -1,0 +1,80 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MARIA INES DA SILVA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+"AÇÃO REVISIONAL C. C. REPETIÇÃO DE INDÉBITO E INDENIZATÓRIA POR DANOS MORAIS Contrato bancário Limitação dos descontos da contratante em 30% de seus vencimentos líquidos Cabimento Patamar que se revela razoável para garantir a efetividade do contratado e imprescindível, em prol do princípio da dignidade humana, para impedir prejuízo à subsistência da devedora, que também não pode ser submetida a situação iníqua, nos termos do art. 42 do CDC Inocorrência, por outro lado, de dano moral indenizável, tendo em vista a ausência de ato ilícito cometido pelo banco Sentença de procedência reformada Recurso parcialmente provido".
+___ .
+Nas razões do recurso especial, a parte recorrente aponta dissídio jurisprudencial com julgados dos Tribunais de Justiça dos Estados do Rio Grande do Sul, Rio de Janeiro e Santa Catarina.
+Defende, em síntese, a ocorrência de dano moral em virtude de cobrança de parcelas de empréstimo em conta corrente da recorrente em percentual superior a 30% de sua remuneração.
+Contrarrazões ao recurso especial às fls. 268-276, e-STJ.
+DECIDO.
+2. Inicialmente, consigne-se que o recurso especial não pode ser conhecido quanto a apontada divergência jurisprudencial.
+Isso porque o recurso especial fundamentado no permissivo constitucional da alínea "c" requisita, em qualquer caso, tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal.
+Nesse passo, tem-se que a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial, atraindo, como atrai, a incidência do Enunciado n. 284 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Sobre a questão, oportuno ressaltar que a Corte Especial deste Tribunal Superior, no julgamento do Agravo Regimental no Recurso Especial n. 1.346.588/DF, reafirmou a necessidade do recorrente identificar o dispositivo de lei federal com interpretação divergente, sob pena de se impor aos membros desta Corte a identificação, de ofício, do texto legal sobre o qual se alega o dissídio, e de ferir a ampla defesa e contraditório, ante a dificuldade do recorrido em identificar de forma clara e precisa a tese jurídica a ser impugnada.
+O referido julgado está assim ementado:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+ ..
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido."
+(AgRg no 1346588/DF, Rel. Ministro Arnaldo Esteves Lima, julgado em 18/12/2013, DJe de 17/3/2014)
+________ .
+Colhe-se a seguinte fundamentação do citado aresto:
+ ..
+Nesse diapasão, não há como se falar em dissídio notório se nas razões do recurso especial sequer foi indicado o dispositivo de lei federal em relação ao qual teria ocorrido a divergência jurisprudencial, na forma expressamente prevista no art. 105, III, da Constituição Federal, in verbis:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+..
+III - julgar, em recurso especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida:
+a) contrariar tratado ou lei federal, ou negar-lhes vigência;
+..
+c) der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal. (Grifo nosso)
+A notoriedade do dissídio jurisprudencial deve se dar em relação a algo que, nos termos do referido dispositivo constitucional, é a lei federal.
+De fato, tanto as alíneas "a" e "c" do permissivo constitucional vinculam o cabimento do recurso especial à contrariedade ou divergência de interpretação de "lei federal", inexistindo qualquer espaço para se dar à referida expressão, na alínea "c", interpretação mais extensiva do que a ela emprestada na alínea "a". Assim, ausente a identificação do respectivo dispositivo legal, torna-se incabível o conhecimento do recurso.
+ ..
+Acresça-se, outrossim, que a adoção de um critério de interpretação diverso para alíneas "a" e "c" também importaria na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius.
+Com efeito, ampliar a utilização do recurso especial interposto pela alínea "c" do permissivo constitucional, nesses termos, imporia aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificar na petição recursal o dispositivo de lei federal acerca da qual há dissídio jurisprudencial para, então, julgá-lo.
+Ocorre que tal entendimento iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual as teses insculpida no recurso especial.
+ ..
+Na presente hipótese, deixou a parte recorrente de indicar o dispositivo de lei federal que teria sofrido interpretação divergente, não cumprindo com os requisitos de conhecimento do recurso especial, sendo aplicável, por analogia, o óbice da Súmula 284/STF.
+3. Ainda que se pudesse ultrapassar esse óbice, o recurso não poderia ser conhecido.
+No caso, o Tribunal de origem, ao julgar o recurso de apelação interposto pela parte ora recorrida, manteve a limitação, em 30% (trinta por cento), dos descontos relativos a empréstimos contratados, concluindo pelo descabimento da condenação em danos morais.
+Ressalte-se que o Superior Tribunal de Justiça firmou entendimento de que o limite do desconto das prestações de empréstimos consignados em folha de pagamento não se estende para aqueles contratados mediante autorização de desconto em conta corrente, sendo lícito o desconto em conta corrente bancária comum, ainda que usada para recebimento de salário, das prestações de empréstimos, financiamentos, cartões de crédito e operações de arrendamento mercantil livremente pactuados. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. MÚTUO FIRMADO COM INSTITUIÇÃO FINANCEIRA. DESCONTO EM CONTA-CORRENTE. LEGALIDADE. SÚMULA N. 83/STJ. RECURSO PROVIDO.
+1. "É lícito o desconto em conta-corrente bancária comum, ainda que usada para recebimento de salário, das prestações de contrato de empréstimo bancário livremente pactuado, sem que o correntista, posteriormente, tenha revogado a ordem" (REsp n. 1.555.722/SP, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 22/8/2018, DJe 25/9/2018). Estando o acórdão recorrido em consonância com a jurisprudência do STJ, aplica-se a Súmula n. 83/STJ.
+2. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+3. O especial é via inadequada para análise de resoluções, circulares ou qualquer outro tipo de norma que não se enquadre no conceito de lei federal. 4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+5. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do acórdão paradigma e a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015).
+6. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos."
+(AgInt no AREsp 1522621/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/10/2019, DJe 05/11/2019).
+___ .
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO. EMPRÉSTIMO BANCÁRIO. DESCONTO EM FOLHA DE PAGAMENTO E EM CONTA-CORRENTE. HIPÓTESES DISTINTAS. LIMITAÇÃO AO PERCENTUAL DE 30%. VIOLAÇÃO À DIGNIDADE. COMPROMETIMENTO DO SUSTENTO DO DEVEDOR. INEXISTÊNCIA. REVISÃO. REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, em observância aos princípios da função social do contrato e da dignidade da pessoa humana, o adimplemento de obrigação assumida em contrato de mútuo bancário na modalidade de consignação em pagamento está limitada ao percentual de 30%.
+2. Todavia, segundo jurisprudência firmada pela Segunda Seção deste Tribunal Superior, a limitação dos descontos aplicados à remuneração não pode ser estendida às constrições efetuadas em conta-corrente, que, pela natureza do contrato firmado com a instituição financeira, não podem sofrer restrição quanto aos lançamentos de créditos e débitos nela inseridos.
+3. Concluindo o Tribunal estadual que o percentual fixado para débito em conta-corrente do devedor é suficiente para manutenção de seu sustento digno e cumprimento do contrato, descabe ao Superior Tribunal de Justiça modificar o posicionamento adotado, ante a incidência da Súmula 7/STJ.
+4. Agravo interno desprovido."
+(AgInt no REsp 1812927/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/10/2019, DJe 22/10/2019).
+___ .
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. Segundo entendimento jurisprudencial consolidado pela Segunda Seção deste Superior Tribunal de Justiça, por se tratar de hipóteses diversas, não se revela legítima a aplicação, por analogia, da limitação legal de descontos firmados em contratos de empréstimo consignado aos contratos de mútuo feneratício, com desconto em conta-corrente. Incidência da Súmula 83/STJ.
+2. Entendimento firmado pela Corte de origem em consonância com a orientação desta Corte Superior, no sentido de que as instituições financeiras são objetivamente responsáveis pelos danos decorrentes de crimes ocorridos no interior de suas agências, ou em local sob a sua responsabilidade, em razão do risco inerente à atividade bancária, que envolve a guarda e movimentação de altos valores em dinheiro. Incidência da Súmula 83/STJ, aplicável aos reclamos interpostos com amparo nas alíneas "a" e "c" do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no REsp 1821041/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/09/2019, DJe 07/10/2019).
+___ .
+Nesse contexto, em que pesem as instâncias ordinárias tenham entendido serem indevidos os descontos efetuados em percentual superior a 30%, não há que se falar em indenização por danos morais, uma vez que, nos termos da jurisprudência desta Corte Superior, são lícitos os descontos realizados em conta corrente para pagamento de prestações livremente pactuadas entre as partes, sendo indevida a aplicação analógica do limite legal aos descontos relativos a empréstimo consignado.
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO BANCÁRIO. DESCONTO EM CONTA CORRENTE ONDE É DEPOSITADO SALÁRIO. LIMITAÇÃO EM 30% DOS VENCIMENTOS. AUSÊNCIA DE ATO ILÍCITO. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte orienta que são lícitos os descontos em conta corrente autorizados para pagamento de prestações contratadas com a instituição financeira, sendo indevida a aplicação analógica do limite legal aos descontos relativos a empréstimo consignado e que, em princípio, não há dano moral ou repetição de indébito caso as instâncias ordinária tenham limitado os descontos.
+2. Caso em que o Tribunal de origem entendeu não configurado ato ilícito passível de reparação. A reforma do acórdão recorrido, no ponto, requer incursão nos elementos fático-probatórios do processo, o que é inviável em recurso especial (Súmula 7 do Superior Tribunal de Justiça - STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1662754/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020).
+___ .
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. CONTRATO BANCÁRIO.CONTRATO DE EMPRÉSTIMO. GASTOS EM CARTÃO DE CRÉDITO. DESCONTO DAS PARCELAS EM CONTA CORRENTE EM QUE DEPOSITADO O SALÁRIO. AUSÊNCIA DE ATO ILÍCITO. REPETIÇÃO DO INDÉBITO. DANOS MORAIS. DESCABIMENTO.AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. É lícito o desconto em conta corrente bancária comum, ainda que usada para recebimento de salário, das prestações relativas a contratos de empréstimos, financiamentos, cartões de crédito, e outros serviços bancários livremente pactuados entre o correntista e a instituição financeira. Precedentes.
+2. Consoante a jurisprudência do Superior Tribunal de Justiça, por se tratar de hipóteses diversas, não é possível aplicar, por analogia, a limitação legal de descontos firmados em contratos de empréstimo consignado aos demais contratos firmados com cláusula de desconto em conta corrente. Incidência da Súmula 83/STJ.
+3. Na hipótese, em que pese o Tribunal de origem tenha limitado os descontos realizados na conta corrente da recorrente a 30% do valor dos seus rendimentos, não há que se falar em repetição do indébito ou indenização por danos morais, em razão da licitude dos descontos efetuados pela instituição financeira.
+4. Agravo interno provido para, reconsiderando a decisão agravada, negar provimento ao recurso especial. (AgInt no AREsp 1527316/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 13.2.2020).
+___ .
+Portanto o acórdão do Tribunal de origem, ao afastar a condenação em danos morais se harmoniza com o entendimento consolidado desta Corte Superior, o que atrai a incidência da Súmula n. 83/STJ, a impedir o conhecimento do recurso especial.
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
