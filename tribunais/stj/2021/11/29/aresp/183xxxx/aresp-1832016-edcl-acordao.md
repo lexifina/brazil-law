@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se de ação ajuizada contra a Supervia Concessionária de Transportes Ferroviários S.A., em que se pleiteia indenização por danos materiais e morais, em razão de falecimento de pessoa da família em decorrência de atropelamento em composição férrea de propriedade da ré. No Tribunal a quo, a sentença foi reformada para julgar procedente o pedido, conforme a seguinte ementa do acórdão:
+APELAÇÃO CÍVEL. RESPONSABILIDADE OBJETIVA. ATROPELAMENTO EM VIA FÉRREA. CULPA CONCORRENTE. DANO MATERIAL E MORAL.OCORRÊNCIA. PENSIONAMENTO.
+1. Primeiramente, não se conhece o agravo retido interposto pela demandada, ante a inobservância do disposto no artigo 523, §1º, do Código de Processo Civil.
+2. É cediço que a ré, como concessionária de serviço público, na forma do artigo 37, §6º, da Constituição da República, bem como dos artigos 14 e 17 do Código de Proteção e Defesa do Consumidor, responde de forma objetiva, independentemente da comprovação de culpa, pelos danos causados em virtude da prestação do serviço de transporte coletivo, o qual, inclusive, deve manter de forma adequada, eficiente e segura (artigo 22 do CPDC).
+3. Para a apuração da responsabilidade da concessionaria basta a comprovação do evento danoso, a conduta do agente supostamente causador do dano e o nexo causal que os una. Nesses termos, o dever de indenizar só será afastado se a ré, em razão do ônus daprova que lhe compete, demonstrar a ocorrência de caso fortuito ou de força maior, ou o fato exclusivo da vítima.
+4. Deve-se ressaltar que esta Corte de Justiça, quando do acolhimento do agravo de instrumento interposto pela ré, contra a decisão que havia deferido a inversão do ônus da prova, assentou ser incumbência dos autores "produzir a prova do acidente e do nexo de causalidade para imputar à ré/agravante a responsabilidade pela morte e pelo pagamento das compensações pretendidas".
+ ..  18. Nesse caminhar, ante ao provimento parcial do apelo para reconhecer a responsabilidade do réu, mas também a culpa concorrente da vítima, impõe-se a redistribuição dos ônus sucumbenciais, na forma do caput do artigo 86 do Código de Processo Civil.
+19. Por fim, o artigo 85, §11 do atual Código de Processo Civil dispõe que o Tribunal, ao julgar o recurso interposto, majorará os honorários fixados anteriormente.
+20. Entrementes, diante do provimento parcial do apelo, incabível a fixação dos honorários sucumbenciais recursais. Precedente do STJ.
+21. Recurso parcialmente provido.
+Os embargos de declaração opostos por ambas as partes foram rejeitados (fls.508-511).
+José Antônio Costa e outros interpuseram recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, alegando violação dos arts. 944 e 945 do Código Civil pleiteando a majoração da indenização por danos morais, que julgam irrisória. Alegaram dissídio jurisprudencial.
+Supervia Concessionária de Transportes Ferroviários S.A. interpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, sustentando contrariedade ao art. 884 do Código Civil e à Súmula n. 362/STJ postulando que a incidência de correção monetária ocorra apenas a partir do arbitramento da indenização, sob pena de enriquecimento ilícito.
+Apontou, ainda, violação dos arts. 944 e 945 do Código Civil pleiteando a minoração da indenização por danos morais, que julga exorbitante. Alegou dissídio jurisprudencial.
+Foram apresentadas contrarrazões (fls. 578-591 e 596-606), e o Tribunal de origem inadmitiu ambos os recursos especiais (fls. 609-621), tendo sido interpostos os presentes agravos.
+O Ministério Público Federal opinou pelo não conhecimento de ambos os recursos especiais (fls. 768-775).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço dos agravos de Jose Antonio Costa e outros e de Supervia Concessionária de Transportes Ferroviários S. A.para não conhecer de seus respectivos recursos especiais."
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão:
+PROCESSUAL CIVIL. ADMINISTRATIVO.RESPONSABILIDADE OBJETIVA. ATROPELAMENTO EM VIA FÉRREA. DANO MATERIAL E MORAL. OCORRÊNCIA. REVISÃO QUANTO AO VALOR FIXADO. IMPOSSIBILIDADE. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de ação ajuizada contra a Supervia Concessionária de Transportes Ferroviários S.A., em que se pleiteia indenização por danos materiais e morais, em razão de falecimento de pessoa da família em decorrência de atropelamento em composição férrea de propriedade da ré. No Tribunal a quo, a sentença foi reformada para julgar procedente o pedido. Nesta Corte, o recurso especial não foi conhecido.
+II - A jurisprudência desta Corte firmou o entendimento de que é admissível o reexame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. A propósito, confira-se: AgInt no REsp n.1.287.225/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 16/3/2017, DJe 22/3/2017.
+III - A partir de tal entendimento, é preciso determinar se o valor arbitrado nos presentes autos, de R$ 50.000,00 (cinquenta mil reais), para opai da vítima, e de R$ 25.000,00 (vinte e cinco mil reais), para cada um dos irmãos da vítima, seria irrisório, conforme sustentado pelos recorrentes.
+IV - Nesse panorama, para que se considere a verba irrisória ou excessiva, é necessário efetuar um parâmetro com precedentes em casos, senão idênticos, ao menos análogos, em que se possa verificar eventual disparidade.
+V - Em análise à jurisprudência deste Tribunal, colhem-se os seguintes precedentes, lavrados em casos de acidente fatal em linha férrea, em que foi reconhecida a culpa concorrente da vítima: REsp n.1.799.104/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/6/2020, DJe 28/8/2020 e AgInt no REsp n. 1.689.049/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 7/6/2018, DJe 19/6/2018.
+VI - Assim, com base nos precedentes citados, a verba fixada nos presentes autos não se mostra irrisória, diante das peculiaridades do caso concreto, bem delineado na instância ordinária, para que possa ser revista nesta Corte, no que a pretensão, de fato, esbarra no Óbice Sumular n. 7/STJ.
+VII - Quanto à alegada divergência jurisprudencial, tem-se que a incidência do Óbice Sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+VIII - Agravo interno improvido.
+Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado no que tange àmajoração dos honorários em virtude da atividade realizada em grau recursal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE OBJETIVA. ATROPELAMENTO EM VIA FÉRREA. DANO MATERIAL E MORAL. AGRAVO INTERNO. OMISSÃO. NÃO OCORRÊNCIA.
+I - Na origem, trata-se de ação ajuizada contra a Supervia Concessionária de Transportes Ferroviários S.A., em que se pleiteia indenização por danos materiais e morais, em razão de falecimento de pessoa da família em decorrência de atropelamento em composição férrea de propriedade da ré. No Tribunal a quo, a sentença foi reformada para julgar procedente o pedido. Nesta Corte, não se conheceu do recurso especial.
+II - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+III - Relativamente aos honorários recursais, não há omissão no acórdão, porquanto descabida sua fixação no caso concreto. É que o Tribunal a quo, ao julgar a controvérsia, realmente não fixou honorários de sucumbência, ante o provimento parcial do recurso.
+IV - Nesse diapasão, a jurisprudência do STJ se firmou no sentido de que a fixação dos honorários recursais não tem existência autônoma, estando sua fixação condicionada à imposição anterior de verba honorária pelas instâncias ordinárias, pois representam apenas um acréscimo ao que tiver sido estabelecido pelas instâncias julgadoras precedentes.A propósito:AgInt no REsp 1.646.257/AL, relatorMinistro Benedito Gonçalves, Primeira Turma, julgado em 21/6/2021, DJe 23/6/2021.
+V - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Relativamente aos honorários recursais, não há omissão no acórdão, porquanto descabida sua fixação no caso concreto. É que o Tribunal a quo, ao julgar a controvérsia realmente não fixou honorários de sucumbência, ante o provimento parcial do recurso.
+Nesse diapasão, a jurisprudência do STJ se firmou no sentido de que a fixação dos honorários recursais não tem existência autônoma, estando sua fixação condicionada à imposição anterior de verba honorária pelas instâncias ordinárias, pois representam apenas um acréscimo ao que tiver sido estabelecido pelas instâncias julgadoras precedentes.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015. RAZÕES GENÉRICAS. SÚMULA 284/STF. NÃO FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA PELA CORTE DE ORIGEM. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+1. A alegação genérica de violação do art. 1.022 do CPC/2015, sem demonstração de qual questão de direito não foi abordada ou estaria deficientemente fundamentada no acórdão proferido em sede de embargos de declaração e sua efetiva relevância para fins de novo julgamento pela Corte de origem é situação que não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+2. Incabível a fixação de honorários recursais se não houve condenação anterior em honorários advocatícios nas instâncias ordinárias.
+3. Agravo interno parcialmente provido, para excluir a condenação da agravante em honorários recursais.
+(AgInt no REsp 1646257/AL, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 21/06/2021, DJe 23/06/2021.)
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
