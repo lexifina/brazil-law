@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MAURICIO SOUZA contra a decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta que a decisão embargada padece de omissão. Traz os seguintes argumentos:
+Ocorre que, o embargante VEM SOLICITANDO A JUSTIÇA GRATUITA EM SEDE RECURSAL DESDE A INTERPOSIÇÃO DO RECURSO ESPECIAL E RECURSO EXTRAORDINÁRIO, REITERANDO O PEDIDO NO AGRAVO OBJETO DA PRESENTE DECISÃO, PORÉM, NENHUM DOS ACORDÃOS SE MANIFESTOU EXPRESSAMENTE SOBRE A CONCESSÃO DA JUSTIÇA GRATUITA, sendo omissa, portando, nesses pontos.
+Isso porque, ao asseverar apenas "bem como eventual concessão de justiça gratuita" compactuou e reiterou as omissões das decisões ao não se manifestar EXPRESSAMENTE SOBRE O PEDIDO DE CONCESSÃO DE JUSTIÇA GRATUITA EM SEDE RECURSAL, omissão essa que requer o saneamento, para que haja a CONCESSÃO EXPRESSA DA JUSTIÇA GRATUITA DESDE A INTERPOSIÇÃO DO RECURSO ESPECIAL. (fl. 595-596).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Ad argumentandum tantum, o deferimento da justiça gratuita já foi realizado em primeiro grau, conforme se verifica da simples leitura de trecho da sentença, in verbis:
+Concedidos os benefícios da gratuidade da justiça e indeferido o pedido de antecipação dos efeitos da tutela. Verificada a desnecessidade de designação de audiência de conciliação. Determinada a citação do réu (fls. 223/227) - fl. 283, sem grifo no original.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
