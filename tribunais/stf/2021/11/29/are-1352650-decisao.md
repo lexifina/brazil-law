@@ -1,0 +1,45 @@
+Decisão: : Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 2ª Região assim ementado (eDOC 98, p. 15-17):
+
+    “TRIBUTÁRIO E CONSTITUCIONAL. CONTRIBUIÇÃO SOCIAL. ART. 1º DA LEI COMPLEMENTAR Nº 110/2001. ILEGITIMIDADE PASSIVA DA CAIXA ECONÔMICA FEDERAL (CEF). MERA GESTORA DO FUNDO. EXAURIMENTO E DESVIO DE FINALIDADE INCAPAZES DE INVALIDAR O TRIBUTO. ART. 4º, CAPUT E INC. II, DO CTN. NATUREZA JURÍDICA DETERMINADA PELO FATO GERADOR DA OBRIGAÇÃO. CONSTITUCIONALIDADE JÁ APRECIADA PELO STF EM SEDE DE CONTROLE CONCENTRADO. ADIS 2556/DF E 2568/DF.
+
+    1. Trata-se de apelação interposta por MAR PALACE COPACABANA HOTEL LTDA. em face de sentença proferida pelo Juízo da 18ª Vara Federal/RJ, que julgou extinto o feito em relação à Caixa Econômica Federal, nos termos do art. 485, VI, do CPC, por considerar que “O fato de ser destinatária da contribuição não implica na sua legitimação para responder por demandas que questionem a regularidade de exação. De fato, a exação objeto da presente demanda é de competência da União Federal, motivo pelo qual não se faz necessária a inclusão no polo passivo da ré CEF, em razão do que expõe o artigo 149 da CF. (...) Assim, deve permanecer no polo passivo apenas a UNIÃO” e julgou improcedente o pedido nos termos do art. 487, I, do CPC, sob os seguintes fundamentos: “(...) Nesse diapasão, o que padeceria de inconstitucionalidade não teria sido o artigo 1º da LC 110/2001, mas o seu artigo 4º, ao criar a ilegítima destinação, visto que a receita deveria ser direcionada a uma função social e não para cobrir débitos da CEF ou da União em virtude dos ‘expurgos inflacionários de 1988 e 1989’.Deveras, as contribuições sociais criadas destinam-se ao FGTS, que é um fundo com finalidades sociais, logo, não apresentam, até aí, nenhuma irregularidade. (...) Logo, a EC nº 33/2001 não implicou na não-recepção ou na inconstitucionalidade das contribuições sobre a folha de salários. A alínea “a” do inciso III do § 2º do art. 149 da CF/88, incluída pela EC nº33/01, não restringiu as bases econômicas sobre as quais podem incidir as contribuições de intervenção no domínio econômico, mas apenas especificou como haveria de ser a incidência sobre algumas delas. Como dito, a redação do dispositivo enuncia que tais contribuições "poderão" ter alíquotas que incidam sobre o faturamento, a receita bruta ou o valor da operação e o valor aduaneiro; não disse que tal espécie contributiva terá apenas essas fontes de receitas. (...) Destarte, a contribuição objurgada é devida na forma em que exigida, mesmo após a entrada em vigor da Emenda Constitucional nº 33/2001.”
+
+    2. A Caixa Econômica Federal é ilegítima para figurar no polo passivo da demanda em casos em que se discute a cobrança das contribuições ao FGTS. Precedentes: TRF2 – AC nº 0159339-98.2015.4.02.5101, Rel. Desembargadora Federal Claudia Neiva, 3ª Turma Especializada, DJ: 12.04.2018; TRF2 – Ag. Instrumento nº 0008063-26.2017.4.02.0000, Rel. Desembargador Federal LUIZ ANTONIO SOARES, 4ª TURMA ESPECIALIZADA, DJ: 31.10.2018; TRF3 – AC nº 5001186-61.2017.4.03.6109, Rel. Desembargador Federal OTAVIO PEIXOTO JUNIOR, 2ª Turma, data de julgamento: 29.01.2020.
+
+    3 . O art. 1º da Lei Complementar nº 110/2001 não constitui preceito temporário, a viger de modo limitado no tempo, descabendo investigar se a finalidade pretendida foi ou não alcançada. Ocorrido o fato gerador, enquanto a lei estiver em vigor, será devido o tributo previsto no art. 1º da Lei Complementar 110/2001, independentemente de já atingida ou não a finalidade que orientou sua criação. Precedentes: STJ, Segunda Turma, Rel. Min. HERMAN BENJAMIN, AgInt no REsp 1746281/DF, julg: 07/02/2019, DJe 11/03/2019; TRF 1ª Região, Quinta Turma, Rel. Juíza Fed. Conv. RENATA MESQUITA RIBEIRO QUADROS, AC nº 0045910-79.2014.4.01.3400, julg: 14/08/2019, DJe 29/08/2019; TRF 5ª Região, Terceira Turma, Rel. Juiz Fed. Conv. ROGÉRIO ROBERTO GONÇALVES DE ABREU, AC nº 08075864420194058300, julg: 09/08/2019; TRF 2ª Região, Terceira Turma Especializada, Rel. Juiz Fed. Conv. JOSÉ EDUARDO NOBRE MATTA, APELEEX nº 0004737-56.2018.4.02.5001, julg: 01/08/2019, DJe 06/08/2019; TRF 2ª Região, Quarta Turma Especializada, Rel. Juíza Fed. Conv. MARCELLA A. DA NOVA BRANDÃO, AC nº 0054939-13.2018.4.02.5106, julg: 08/08/2019, DJe 12/08/2019.
+
+    4. O art. 4º, caput e inc. II do CTN prevê que “a natureza jurídica específica do tributo é determinada pelo fato gerador da respectiva obrigação, sendo irrelevantes para qualificá-la a destinação legal do produto da sua arrecadação”. A destinação específica do produto da arrecadação não impacta a natureza ou mesmo a validade da contribuição, sendo elemento exterior ao tributo. Eventual desvio da finalidade para a qual se instituiu uma contribuição somente traz consequências na seara financeira, motivo pelo qual ainda que o produto da arrecadação da contribuição do art. 1º da LC nº 110/2001 tenha se destinado a compor o superávit primário da economia, tal destinação não teria qualquer impacto sobre a legitimidade da contribuição. Precedente do STF: RE 566007, Relatora: Ministra CÁRMEN LÚCIA, Tribunal Pleno, Julgado em 13/11/2014, Publicado em 11/02/2015.
+
+    5. Embora tenha havido modificação do parâmetro de constitucionalidade pela EC nº 33/2001 após a entrada em vigor da LC nº 110/2001, o julgamento das ADIs 2556/DF e 2568/DF, quando o STF declarou a constitucionalidade da contribuição social prevista na LC nº 110/2001, ocorreu quando já estava vigente a nova redação do art. 149 da Constituição da República dada pela Emenda Constitucional nº 33/2001.
+
+    6. Apenas o Supremo Tribunal Federal poderia reconhecer, em uma nova análise, a eventual inconstitucionalidade de uma norma declarada constitucional pela Suprema Corte em sede de controle abstrato diante do § 2º do artigo 102 da Constituição da República, no sentido de que as decisões definitivas de mérito, proferidas pelo Supremo Tribunal Federal, nas ações diretas de inconstitucionalidade e nas ações declaratórias de constitucionalidade produzirão eficácia contra todos e efeito vinculante, relativamente aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal. Precedente do STF: RE 730462, Relator: Ministro TEORI ZAVASCKI, Tribunal Pleno, julgado em 28/05/2015, Acórdão Eletrônico Repercussão Geral - Mérito DJe-177 Divulg 08-09-2015 PUBLIC 09-09-2015.
+
+    7. Apelação não provida.”
+
+    No recurso extraordinário, interposto com base no permissivo constitucional do art. 102, III, a, aponta-se ofensa aos arts. 149 e 54, I, do Texto Constitucional e, no mérito, requer o provimento do apelo extremo em virtude da “inconstitucionalidade da cobrança da contribuição social imposta pelo art. 1º da Lei Complementar nº 110 de 29 de junho de 2001, desde o quinquênio prescricional, decorrente do desvio de finalidade levado a efeito pelo Poder Executivo levado a efeito pelo Poder Executivo, seja pela afronta aos arts. 149 e 154, I, da CF, seja pela inconstitucionalidade material superveniente decorrente da alteração operada no art. 149 pela EC 33/2001” (eDOC 112, p. 31-32).
+
+    O Tribunal a quo, em juízo de admissibilidade do extraordinário, consignou o seguinte (eDOC 136, p. 3):
+
+    “(...) Do exposto, NEGO SEGUIMENTO ao recurso extraordinário interposto nestes autos, com fundamento no art. 1030, inciso I, alínea “a”, do CPC, em relação à matéria objeto do Tema 846/STF e INADMITO o recurso extraordinário em se tratando da controvérsia atinente à incompatibilidade da contribuição social em alusão com o artigo 149, § 2º, inciso III, alínea “a”, da Constituição Federal. ”
+
+    É o relatório. Decido.
+
+    De início, observo que o conhecimento do presente recurso é inviável em relação a alegação de exaurimento da finalidade da contribuição, uma vez que foi proferida, por ocasião da realização do juízo de admissibilidade no Tribunal a quo, decisão de negativa de seguimento com aplicação de entendimento firmado em regime de repercussão geral.
+
+    Passo ao exame da parte do recurso que não ficou prejudicada.
+
+    A irresignação não merece prosperar.
+
+    Verifica-se que o acórdão recorrido está em harmonia com a orientação adotada pelo Pleno do Supremo Tribunal Federal, no julgamento do Tema 325 da Repercussão Geral, cujo recurso-paradigma é o RE 603.624, redator para o acórdão Min. Alexandre de Morais, DJe 13.01.2021, no sentido de que “O acréscimo realizado pela EC 33/2001 no art. 149, § 2º, III, da Constituição Federal não operou uma delimitação exaustiva das bases econômicas passíveis de tributação por toda e qualquer contribuição social e de intervenção no domínio econômico.”
+
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos do art. 932, IV, b, do Código de Processo Civil e art. 21, §1º, do RISTF.
+
+    Publique-se.
+
+    Brasília, 29 de novembro de 2021.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
