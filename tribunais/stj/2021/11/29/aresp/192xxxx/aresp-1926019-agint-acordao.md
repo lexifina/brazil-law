@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por Amil Assistência Médica Internacional S.A. em contrariedade à decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 558):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANO MORAL. PLANO DE SAÚDE. REEMBOLSO DAS DESPESAS MÉDICAS E CABIMENTO DE DANO MORAL. MATÉRIAS NÃO PREQUESTIONADAS PELA INSTÂNCIA ORDINÁRIA. INCIDÊNCIA DA SÚMULA N. 211/STJ. QUANTUM INDENIZATÓRIO. REVISÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante alega que as matérias acerca do reembolso dos valores e do cabimento da indenização pelos danos morais foram devidamente prequestionadas, conforme a exigência legal, não cabendo a incidência do óbice sumular n. 211/STJ.
+Salienta, ademais, que a questão referente ao valor arbitrado a título de danos extrapatrimoniais não implica revolvimento de fatos e provas, devendo ser afastado o teor do enunciando n. 7 da Súmula doSuperior Tribunal de Justiça.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANO MORAL. PLANO DE SAÚDE. REEMBOLSO DAS DESPESAS MÉDICAS E CABIMENTO DE DANO MORAL. MATÉRIAS NÃO PREQUESTIONADAS PELA INSTÂNCIA ORDINÁRIA. INCIDÊNCIA DA SÚMULA N. 211/STJ. VALOR INDENIZATÓRIO. REVISÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em embargos de declaração, o que não ocorreu no caso em tela (Súmula n. 211/STJ).
+2. Reverter a conclusão do Colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+A respeito do desembolso das despesas médicas devidas à parte agravada, o acórdão recorrido foi fundamentado da seguinte forma (e-STJ, fl. 446-447):
+No caso, a apelante alega que a falha na prestação de serviço dos apelados fez com que ela ficasse impedida de reaproveitar o período de carência no novo plano de saúde, tendo, assim, diversas despesas médicas e, por isso, os apelados devem ser condenados a ressarci-la dessas despesas (dano material).
+Essa pretensão recursal procede, porque a apelante somente perdeu o prazo de carência pela falha na prestação de serviço dos apelados, de modo que eles devem, mesmo, ressarci-la de todas as despesas médicas que ela teve durante esse período de carência.
+Ora, dano material é o prejuízo financeiro efetivo sofrido pela vítima, física ou jurídica, que reduz o seu patrimônio. A reparação do dano material depende de comprovação.
+Com efeito, a apelante fez prova das despesas médicas que teve durante o período descrito na petição inicial, que devem, então, ser incluídas na condenação pelos danos materiais sofridos pela apelante (doc. de ordem 09).
+Das informações acima extraídas do aresto combatido, observa-se que o Colegiado local não debateu o tema de acordo com o disposto no art.12, VI, da Lei n. 9.656/1998. Na realidade, compreendeu que houve falha na prestação do serviço oferecido pela agravante, o que ocasionou o desembolso integral das despesas médicas.
+Sendo assim, incide na espécie a Súmula n. 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Ademais, o cabimento de indenização pelos danos morais sofridos também não foi objeto de apreciação pelo Tribunal de origem. Portanto, a falta do necessário prequestionamento atrai a incidência da Súmula 211/STJ.
+Cumpre destacar que o Tribunal de origem, a despeito dos embargos de declaração suscitados, não se manifestou expressamente sobre as matérias.
+Ressalta-se, ainda, que o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Ademais, sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na presente hipótese.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial não deve ser conhecido quando ausente o prequestionamento da questão federal nele ventilada, por incidência da Súmula nº 211 do STJ.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea c do art.
+105, III, da CF.
+5. Agravo interno não provido.
+(AgInt no AREsp 1570272/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/05/2020, DJe 20/05/2020)
+AGRAVO INTERNO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DESCUMPRIMENTO DE ORDEM JUDICIAL. MANUTENÇÃO DO NOME DA PARTE AUTORA NOS CADASTROS DE PROTEÇÃO DO CRÉDITO. DANO MORAL NÃO CARACTERIZADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284 DO STF. VIOLAÇÃO DE LEI FEDERAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO STJ. CONFIGURAÇÃO DE DANOS MORAIS EM PROCESSO JUDICIAL DIVERSO.SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em nulidade do acórdão por vício de contradição sem deduzir de que modo o acórdão recorrido teria incorrido em aludida deficiência ou demonstrar impacto no deslinde da causa. Súmula 284/STF.
+2. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm.211/STJ).
+3. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. O reexame de fatos e provas sobre o preenchimento dos requisitos para responsabilidade civil por danos morais decorrente da inclusão indevida da inscrição em cadastros de inadimplência, em evento considerado apto a gerar o dever sucessivo de reparar, demandaria o revolvimento das premissas fático-probatórias estabelecidas nas instâncias ordinárias, remetendo até mesmo a processo judicial distinto, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7/STJ. Dissídio jurisprudencial prejudicado.
+5. Agravo interno não provido.
+(AgInt no REsp 1817645/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/06/2020, DJe 30/06/2020)
+Importante assinalar, ainda, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau. Contudo, não houve alegação de violação do art. 1.022 do CPC/2015 no recurso especial apresentado.
+Concernente ao valor da indenização, dispõe a jurisprudência do Superior Tribunal de Justiça que a alteração do valor estabelecido pelas instâncias ordinárias, a título de danos morais, só é possível quando o referido montante tiver sido fixado em patamar irrisório ou excessivo.
+No ponto:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.PLANO DE SAÚDE. TRATAMENTO QUIMIOTERÁPICO. NEGATIVA DE COBERTURA.ANS. ROL EXEMPLIFICATIVO. INJUSTA RECUSA. DANOS MORAIS. COMPROVAÇÃO.REJULGAMENTO. VALOR. REDUÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O rol de procedimentos da ANS tem caráter meramente exemplificativo, sendo abusiva a negativa da cobertura pelo plano de saúde do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+3. Em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às hipóteses correntes de inadimplemento contratual.
+4. É possível a revisão do montante da indenização por danos morais nas hipóteses em que o valor fixado for exorbitante ou irrisório, o que não ocorreu no caso em exame.
+5. Agravo interno não provido.
+(AgInt no AREsp 1754965/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/08/2021, DJe 03/09/2021)
+Outrossim, oportuno consignar que, nos termos do art. 944 do CC, o direito à indenização deve ser medido pela extensão do dano, ressaltando-se, ainda, que, não obstante o alto grau de subjetividade que envolve a matéria, a fixação do valor indenizatório deve atender a um juízo de razoabilidade e de proporcionalidade, compatível com a reprovabilidade da conduta ilícita, a intensidade e a duração do sofrimento experimentado pela vítima, a capacidade econômica do causador do dano e as condições sociais do ofendido.
+Assim, a fixação do valor devido, segundo a jurisprudência desta Corte, "deve considerar o método bifásico, sendo este o que melhor atende às exigências de um arbitramento equitativo da indenização por danos extrapatrimoniais, uma vez que minimiza eventual arbitrariedade ao se adotar critérios unicamente subjetivos do julgador, além de afastar eventual tarifação do dano" (AgInt nos EDcl no REsp 1.809.457/SP, Rel. Min. Luis Felipe Salomão, Quarta Turma, julgado em 20/2/2020, DJe de 3/3/02020).
+A respeito do tema, o acórdão recorrido apontou o seguinte (e-STJ, fls. 447-448):
+Quanto ao dano moral, a apelante alega que o valor fixado pelo MM. Juiz de 1º grau em R$ 5.000,00 deve ser aumentado para R$ 10.000,00.
+A pretensão recursal procede, porque em questão assim, recomenda-se que o julgador se paute pelo juízo da equidade, levando-se em conta as circunstâncias de cada caso.
+Ora, a quantificação da indenização pelo dano moral deve atender: (i) capacidade/possibilidade daquele que indeniza, pois este não pode ser conduzido à ruína, e (H) suficiência àquele que é indenizado pela satisfação obtida do valora título de compensação pelos danos sofridos, sem que ocorra enriquecimento ilícito ou exploração do Poder Judiciário como fonte de proventos.
+( )
+Portanto, em face da repercussão da ofensa na esfera íntima da apelante, da condição financeira dos apelados, e, ainda, diante de parâmetros de julgados deste TJM G em casos semelhantes, a indenização por dano moral deve ser aumentada para R$ 10.000,00, pois esse é o valor razoável para amenizar o abalo m oral sofrido pela apelante.
+Diante dessas ponderações, verifica-se que a quantia não se afigura exorbitante, tendo sido observados os postulados da proporcionalidadee da razoabilidade de acordo com as particularidades do caso vertente, o que torna inviável o recurso especial, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Desse modo, tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
