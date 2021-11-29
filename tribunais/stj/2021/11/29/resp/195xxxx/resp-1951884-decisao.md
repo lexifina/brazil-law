@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DEPARTAMENTO DE ESTRADAS DE RODAGEM, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, nesses termos ementado:
+Agravo de Instrumento - Ação de Desapropriação - Recálculo dos valores Artigo 1º-F da Lei nº 9.494/97, com redação dada pela Lei nº 11.960/2009 - Inaplicabilidade Ação ajuizada antes da entrada em vigor - Declaração de inconstitucionalidade - Decisão reformada - Recurso desprovido.
+A conclusão foi mantida após reapreciação do recurso especial, nos termos do art. 1040, II, do Código de Processo Civil (e-STJ fl. 308):
+ADEQUAÇÃO - DESAPROPRIAÇÃO - JUROS DE MORA - Recurso Extraordinário nº 1.169.289/SC (Tema nº 1.037/STF) - Incidência de juros de mora durante período previsto no art. 100, § 5º, da CF Art. 1.040, II, do CPC -Devolução ao órgão julgador - Acórdão que não tratou de matéria relativa ao precedente paradigma - Readequação prejudicada.
+Nesse recurso, sustenta a parteque o acórdão contrariou as disposições dos artigos535, II, do Código de Processo Civil de 1973; 1º-F, da Lei 9.494/1997; 5º da Lei nº 11.960/2009 e 15-Ada Lei nº 3.365/1941.
+Sustenta que o acórdão violou o citado art. 535, II, do CPC " ..  ao não conhecer os embargos de declaração prequestionadores" (e-STJ fl. 233).
+No mérito, assevera que, em razão do princípio do "tempus regit actum",o limite dos juros moratórios de 0,5% ao mês, expresso na nova redação do art.1º-F, da Lei 9.494/1997, deve ser aplicado às ações de desapropriação propostas anteriormente à sua vigência, como o caso dos autos.
+Em relação aos juros compensatórios, afirma que deve ser observado o percentual de 6% até 13/09/2001, nos termos da Súmula 408/STJ.
+Sem contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Em preliminar, cumpre enfrentar a alegada violação doart. 535, II, do Código de Processo Civil de 1973.
+Nesse ponto, o recorrente alega que o Tribunala quoteria sido omisso ao não conhecer dos embargos de declaração prequestionadores.
+Com efeito, a irresignação nãoprospera, pois as razões de recorrer são genéricas e desprovidas deargumentação jurídica.
+O recorrente se limitou a sustentar a ausência de manifestação sobre os embargos declaratórios prequestionadores, mas não indicou, nas razões do recurso especial, as teses supostamentenão enfrentadas pelo colegiado de origem.
+A deficiência do recurso, portanto, impede a análise da alegada ofensa ao art. 535, II, do CPC/1973e atrai a aplicação da Súmula 284/STF.
+Confira-se:
+ADMINISTRATIVO E TRIBUTÁRIO. CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS. ..  ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 475 E 535 DO CPC/73. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 284 DA SÚMULA DO STF.  ..
+XIII - Relativamente à alegação de omissão e de violação dos arts.475 e 535 do Código de Processo Civil de 1973, não prosperam as alegadas violações, uma vez que deficiente sua fundamentação.
+XIV - A parte recorrente limitou-se a alegar, genericamente, ofensa aos referidos dispositivos legais, sem explicitar os pontos em que teria sido omisso o acórdão recorrido. Aplica-se ao caso, assim, por analogia, o disposto no enunciado n. 284 da Súmula do STF, segundo o qual: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+ ..
+(REsp 1029515/DF, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 03/11/2020, DJe 20/11/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 1.022 DO CPC/2015. VIOLAÇÃO.ALEGAÇÃO GENÉRICA.  ..
+1. Incide a Súmula 284 do STF quando a parte aponta violação do art.1.022 do CPC/2015 de forma genérica, sem explicitar qual a efetiva ausência de pronunciamento e sua relevância para a solução da controvérsia.
+ ..
+(AgInt no REsp 1732618/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 01/03/2021, DJe 11/03/2021)
+Quanto ao índice dos juros compensatórios e à suposta ofensa ao art. 15-A, da Lei nº 3.365/1941, percebe-se da leitura do acórdão recorrido (e-STJ fls. 222/226) que o tema não foi analisado pelapela última instância estadual.
+A ausência de debate pelo colegiado estadual sobre os argumentos que amparam a tesetrazidano recurso especial impede o julgamento do tema nesta Corte, evitando-se supressão de instância, nos termos das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Em sentido semelhante, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. CONCESSIONÁRIA. COBRANÇA PELA UTILIZAÇÃO DA FAIXA DE DOMÍNIO. SÚMULAS 5 E 7/STJ. DISPOSITIVOS DE LEI NÃO PREQUESTIONADOS. SÚMULAS 211/STJ E 282/STF. CONTROVÉRSIA FUNDAMENTADA EM LEI LOCAL. SÚMULA 280/STF. HONORÁRIOS. SÚMULA 7/STJ.
+1. Não se pode conhecer da irresignação contra a ofensa aos arts.8º, 467, 468, 469, 471, I, 509, 927, III, 1.036 e 1.039 do Código de Processo Civil; e aos arts. 99, 103, 206, § 5º, e 1.229 do Código Civil, pois a tese a eles conexa não foi analisada pelo acórdão hostilizado. Assim, perquirir, nesta via estreita, a ofensa às referidas normas, sem que se tenha explicitado a tese jurídica no juízo a quo, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. No ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." No mesmo sentido, os enunciados das Súmulas 211 do STJ e 356 do STF.
+(AgInt no AREsp 1696769/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/02/2021, DJe 01/03/2021)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. TESE LEVANTADA NAS RAZÕES DO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO.
+ ..
+2. O Tribunal de origem não se manifestou sobre a tese trazida nas razões recursais, consubstanciada na alegação de que se fazia necessária a juntada do termo de transação aos autos para que o acordo firmado entre as partes tivesse validade, tampouco foram opostos embargos declaratórios para suprir eventual omissão.
+Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+3. Para o prequestionamento da matéria, não basta suscitar a questão nas razões dos recursos (apelação, agravo regimental e/ou embargos de declaração), mas que o Tribunal de origem tenha efetivamente decidido o tema controvertido.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt no REsp 1556153/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/06/2018, DJe 28/06/2018)
+No que diz respeito aos juros de mora, pugna o recorrente pela aplicação do índice de 0,5% ao mês à presente demanda ajuizadaanteriormente à Lei nº 11.960/2009 que modificou a redação do art.1º-F, da Lei 9.494/1997.
+Sobre o tema, o colegiadoassim decidiu nos autos do agravo de instrumento (e-STJ fls. 224/226):
+A superveniência de lei nova que dispõe sobre direito material (juros moratórios) não pode atingir a coisa julgada. Conforme as regras de direito intertemporal, aplicável ao caso a redação antiga do artigo 1º-F da Lei nº 9.494/97, afastando-se a sua nova redação, pois a modificação do referido artigo se deu somente com o advento da Lei nº 11.960/09, que entrou em vigor somente em 30 de junho de 2009, data posterior ao ajuizamento da presentedemanda (1993).
+E, considerando que as disposições acerca de juros tratam de regra de direito material e tempus regit actum, de rigor a aplicação da lei nova aos processos ajuizados após a sua vigência.
+Nesse sentido é a orientação dos nossos Tribunais Superiores:
+"Processual Civil. Agravo Regimental. Juros de mora. Lei 11.960/2009. Legislação superveniente. Inaplicabilidade. Precedentes.1. Em relação aos juros de mora, esta Corte, sob o rito do art. 543-C do CPC (recursos repetitivos), reiterou o entendimento no sentido de que o art. 1º-F, da Lei 9.494/97, que fixa os juros moratórios nas ações ajuizadas contra a Fazenda Pública no patamar de 6%, é de ser aplicado às demandas ajuizadas após a sua entrada em vigor.2. No que tange à superveniência da Lei n. 11.960/2009,está consolidado o entendimento no sentido de sua inaplicabilidade aos processos em curso, tendo em vista o seu caráter instrumental e material.3. Agravo regimental não provido."(STJ, AgRg no Ag 1335916/SP, rel. Min. Mauro Campbell Marques, j.9.11.2010).
+Ademais, no julgamento da ADI nº 4.357/DF, o Supremo Tribunal Federal declarou a "inconstitucionalidade, em parte, por arrastamento, do referido art. 1º-F, da Lei nº 9.494, com a redação dada pelo art. 5º da lei n. 11.960, de 29 de junho de 2009" (STF TP ADI 4.357 Rel. Min. Ayres Britto e redator do acórdão Min. Luiz Fux Dje 59/2013, 02.04.2013), que dispõe sobre a atualização monetária e juros devidos pela Fazenda Pública, sob o fundamento de os "índices oficiais de remuneração básica aplicados à caderneta de poupança" não refletirem a inflação acumulada no período. E, diante dessa decisão, fica vedado aplicar preceito legal declarado inconstitucional.
+Assim, inaplicável ao caso a regra contida no artigo 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/2009.(Grifei.)
+A parte apresentou agravo interno contra a decisão que negou seguimento ao recurso especial. Ocolegiado de origem assim concluiu(e-STJ fls. 287/289):
+Inicialmente, observa-se que o presente recurso se insurge contra a observância da coisa julgada e será analisado no limite em que apresentado.
+Com efeito, em cumprimento ao art. 1.040, inciso I, do Código de Processo Civil, proferiu-se a decisão agravada de seguinte teor, verbis:
+(..)
+4. Preservação da coisa julgada. Não obstante os índices estabelecidos para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, cumpre ressalvar eventual coisa julgada que tenha determinado a aplicação de índices diversos, cuja constitucionalidade/legalidade há de ser aferida no caso concreto."
+A matéria aqui tratada referente a Coisa Julgada, em relação aos Juros moratórios e Correção Monetária, é idêntica àquela examinada pelo Superior Tribunal de Justiça na sistemática dos recursos repetitivos nos autos do REsp. n. 1.495.146/MG, correspondente ao Temas 905, oportunidade em que fixada a seguinte tese:
+4. Preservação da coisa julgada.
+Não obstante os índices estabelecidos para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, cumpre ressalvar eventual coisa julgada que tenha determinado a aplicação de índices diversos, cuja constitucionalidade/legalidade há de ser aferida no caso concreto."
+Constata-se que a decisão da Eg. Turma Julgadora está em consonância com o entendimento do Superior Tribunal de Justiça, no julgamento do Resp. n. 1.495.146/MG, Tema 905, no item 4, que determinou que a legalidade/constitucionalidade de eventual coisa julgada, que tenha aplicado índices diversos, deve ser aferida no caso concreto.
+É dizer, no caso dos autos, o v. acórdão pronunciou-se expressamente entendendo ser devida a preservação da coisa julgada, de forma a adequar-se ao tema 905.
+Consigne-se, ainda, reprodução de trecho do v. Acórdão da Turma Julgadora convergente à tese aplicada verbis:
+A superveniência de lei nova que dispõe sobre direito material (juros moratórios) não pode atingir a coisa julgada.
+Conforme as regras de direito intertemporal, aplicável ao caso a redação antiga do artigo 1º-F da Lei nº 9.494/97, afastando-se a sua nova redação, pois a modificação do referido artigo se deu somente com o advento da Lei nº 11.960/09, que entrou em vigor somente em 30 de junho de 2009, data posterior ao ajuizamento da presente demanda(1993). (fl. 224/225)
+Inexistente erro na subsunção do caso concreto à sistemática dos recursos repetitivos fica mantida a decisão. (Grifei.)
+Irresignado, o recorrente parte opôs embargos de declaração (e-STJ fls. 292/295), apontando necessidade de observação da modulação dos efeitos na ADI 4.357 para aplicar a Taxa Referencial aos precatórios expedidos ou pagos até março de 2015, como o caso dos autos. Os embargos foram acolhidos e o novo juízo de admissibilidade do recurso especial (e-STJ fls. 303/304) determinou o retorno dos autos ao colegiadoem razão do julgamento do RE 1.169.289/SC - Tema 1.037 do STF.
+O tribunal de origem assim concluiu (e-STJ fl. 309):
+Determinou-se a devolução do processo a este Órgão Julgador para eventual adequação do decisum frente ao paradigma firmado no julgamento do Recurso Extraordinário nº 1.169.289/SC (Tema nº 1.037/STF), que trata da incidência de juros de mora e da aplicação da Súmula Vinculante nº 17, do C. STF, nos seguintes termos:
+Tema nº 1.037/STF: O enunciado da Súmula Vinculante 17 não foi afetado pela superveniência da Emenda Constitucional62/2009, de modo que não incidem juros de mora no período de que trata o § 5º do art. 100 da Constituição. Havendo o inadimplemento pelo ente público devedor, a fluência dos juros inicia-se após o "período de graça".
+No entanto, o v. aresto de fls. 222 a 226 cuidou exclusivamente da inaplicabilidade dos índices de juros de mora determinados pela Lei nº 11.960/09, sem tratar de sua incidência no período mencionado pelo artigo 100,§ 5º, da Constituição Federal. Portanto, o v. acórdão não dispôs sobre a matéria tratada pelo Tema nº 1.037, do C. STF.
+Ressalte-se, ademais, que a r. decisão agravada determinou expressamente a aplicação da Súmula Vinculante nº 17, do C. STF, ao presente caso (fls. 50 e 51).
+Por essa razão, resta prejudicada eventual adequação do julgado frente ao Tema nº 1.037, do C. Supremo Tribunal Federal.
+Diante do exposto, JULGA-SE PREJUDICADA a adequação o v. acórdão. (Grifei.)
+Como se vê, o recorrente não apresentou argumentos capazes de desconstituírem a conclusão tomada pelo colegiado estadual que não empregou as disposições da nova redação do art. 1º-F, da Lei 9.494/1997 porque: (1) a Lei nº 11.960/2009 trata dedireito material e por isso não tem força para modificar a coisa julgadae (2) a declaração de inconstitucionalidadepor arrastamentodo art.1º-Fda Lei nº 9.494/1997 (em razão dosíndices de remuneração da caderneta de poupança não refletirem a inflação acumulada no período) impedem a sua aplicação ao caso julgado.
+Vê-se, portanto, que o recurso especial não atendeu ao princípio da dialeticidade, o que atrai o óbice estabelecido nas Súmulas 283 e 284 do STF.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015.  ..  RAZÕES RECURSAIS DISSOCIADAS.  ..  DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF.  ..
+III - Revela-se deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem, bem como quando a arguição de ofensa ao dispositivo de lei federal é genérica ou não aponta o dispositivo de lei federal violado. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+ ..
+(AgInt no REsp 1883971/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020)
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE DIALETICIDADE. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF.
+1. A Corte Regional, ao julgar o Mandado de Segurança, denegou a ordem por entender que não há necessidade que justifique a impetração do mandamus quando já alcançado, administrativamente, o objeto da pretensão.
+2. Não obstante as razões explicitadas pela instância a quo, ao interpor o recurso, a recorrente não impugnou o fundamento acima mencionado no tocante à desnecessária impetração do Mandado de Segurança tendo em vista que a sua pretensão já havia sido alcançada pela via administrativa.
+3. Ao proceder dessa forma, não observou a recorrente as diretrizes fixadas pelo princípio da dialeticidade, dentre as quais se destacar a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado. Incidência, por analogia, das Súmulas 283 e 284 do STF.
+4. Recurso em Mandado de Segurança não conhecido. (RMS 54.537/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/10/2017, DJe 18/10/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. PROCESSO CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. DESAPROPRIAÇÃO. OMISSÃO. AFIRMAÇÃO GENÉRICA. SÚMULA 284/STF. RAZÕES DO RECURSO DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. ÍNDICE DOS JUROS COMPENSATÓRIOS. TEMA NÃO PREQUESTIONADO. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. ÍNDICE DE JUROS COMPENSATÓRIOS. AUSÊNCIA DE DIALETICIDADE RECURSAL. SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. RECURSO ESPECIAL NÃO CONHECIDO.
