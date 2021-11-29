@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão proferida às fls. 560-563, na qual neguei provimento ao recurso especial manejado pelo ora recorrente.
+Nas razões do recurso, a parte agravante insiste nas violações apontadas no recurso especial, alegando, em síntese, que (e-STJ, fl. 569):
+ ..  conforme mencionado o próprio acórdão recorrido reconheceu expressamente que a negativa oferecida pela Operadora Agravada em relação ao procedimento cirúrgico indicado pelo médico assistente do Agravante foi INDEVIDA e ABUSIVA, e que ocorreu na vigência do contrato.
+Portanto, não há que se falar em mero inadimplemento contratual, pois além de ser sido reconhecida a ilegalidade da negativa, restou provado nos autos que o Agravante está aguardando ser convocado para a realização do procedimento cirúrgico em questão pelo SUS, o que por si só evidencia o agravamento da situação de aflição psicológica e de angústia no espirito.
+Vejam Excelências que diferentemente do que fora consignado nas decisões suscitadas pela r. Ministra, nos acórdãos paradigmas anexados ao Recurso Especial, esta Egrégia Corte conheceu e deu provimento aos Recursos Especiais, justamente em razão do entendimento adotado, de que a recusa indevida em autorizar a cobertura do tratamento médico a qual a operadora esteja contratualmente obrigada enseja a reparação a título de danos morais.
+Intimada, a parte agravada apresentou impugnação às fls. 577-583 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO MÉDICO. NEGATIVA DE COBERTURA. DANO MORAL. NÃO CONFIGURAÇÃO. REVISÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. A recusa da cobertura de tratamento por operadora de plano de saúde, por si só, não configura dano moral. Precedentes.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA): O agravo interno não merece provimento.
+A propósito, para melhor exame da causa, transcrevo os seguintes fundamentos do acórdão recorrido (e-STJ, fls. 423-426):
+No caso em tela, restou comprovado que a parte autora era beneficiária de plano de saúde coletivo empresarial, em razão de seu vínculo empregatício com a empresa Sul América Armazéns Gerais LTDA., realizando o pagamento apenas da coparticipação do plano, já que era obrigação da empresa contratante o pagamento das mensalidades do plano de saúde (mov. 16.2), o que afasta a sua pretensão a reintegração do plano de saúde coletivo empresarial.
+Assim, restando afastada a pretensão da parte autora de reintegração ao plano de saúde coletivo empresarial, não há que se falar em obrigação da parte ré à cobertura do tratamento cirúrgico descrito na inicial, em caso de reiterada indicação médica.
+Restando demonstrado que o autor não realizava o pagamento das mensalidades do plano de saúde de que era beneficiário através de Contrato Coletivo Empresarial, em razão de seu vínculo empregatício com a empresa Sul América Armazéns Gerais LTDA., mas somente o adimplemento da cota de coparticipação, de fato não há como acolher a pretensão de reintegração ao plano de saúde - tópico que restou inclusive irrecorrido.
+Por conseguinte, não há cogitar a obrigação da operadora de prestar a cobertura reclamada, pois o demandante não é mais segurado pela UNIMED.
+Logo, o recurso da parte autora deve ser desprovido.
+Dos Danos Morais:
+Pleiteia a UNIMED, a seu turno, seja afastada sua condenação ao pagamento de indenização por danos morais, argumentando, em apertada síntese, que não restou comprovada qualquer conduta ilícita de sua parte, tampouco o alegado dano sofrido pelo postulante, a ensejar a objurgada reparação.
+Para a configuração do dano moral, como é consabido, é necessário que o constrangimento sofrido mostre-se intenso ao ponto de justificar a reparação de ordem pecuniária, apta ao menos a compensar a exacerbação da dor física ou psicológica, da preocupação, da aflição de espírito ou da angústia, não bastando a ocorrência de mero desconforto, aborrecimento ou dissabor.
+(..).
+Esta c. Câmara tem consolidado o entendimento, seguindo a linha adotada pelo e. Superior Tribunal de Justiça, de que em se tratando de inadimplemento contratual que verse sobre planos de saúde, pode ser cabível a indenização por danos extrapatrimoniais apenas em determinados casos, nos quais haja a comprovação do agravamento da aflição psicológica do(a) paciente, o que, a despeito da conclusão adotada pelo i. Magistrado Singular, não restou caracterizado no caso concreto.
+Destarte, sem olvidar-se a necessidade da intervenção cirúrgica, é fato que o paciente não se encontrava em condições graves em decorrência da moléstia, com risco iminente de vida, ou, ainda, com a necessidade de internação hospitalar emergencial ou urgencial, constando na requisição de mov. 1.5, que o procedimento foi indicado em caráter eletivo.
+(..).
+Assim, ainda que a negativa possa ter sido indevida - o objeto central da lide era a manutenção do demandante no plano de saúde -, eis que ocorreu ainda sob sua vigência, não se vislumbra tenha a conduta da requerida posto em risco sua saúde, integridade física ou mental.
+Assim sendo, conquanto se possa reconhecer a abusividade da conduta da requerida ao negar a cobertura para o tratamento, não se vislumbra tenha o ato posto em risco a saúde do paciente, dada a natureza eletiva do procedimento.
+(..).
+Enfim, aqui neste caso, o inadimplemento contratual não é capaz de configurar danos morais indenizáveis, razão pela qual a r. decisão merece reforma, com o provimento do Apelo da operadora do plano de saúde quanto a este tocante.
+Inicialmente, não se olvida que a jurisprudência desta Corte Superior orienta que "a recusa indevida/injustificada, pela operadora de Plano de Saúde, em autorizar a cobertura financeira de tratamento médico, a que esteja legal ou contratualmente obrigada, acarreta dano moral, dando ensejo à reparação a tal título" (AgInt no REsp 1.650.734/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 12/11/2018, DJe 16/11/2018; grifos acrescidos).
+Na hipótese, porém, o Tribunal de origem entendeu que a negativa de cobertura do tratamento foi justificada e lícita, de modo que não poderia ensejar indenização por dano moral, considerando que "ainda que a negativa possa ter sido indevida - o objeto central da lide era a manutenção do demandante no plano de saúde -, eis que ocorreu ainda sob sua vigência, não se vislumbra tenha a conduta da requerida posto em risco sua saúde, integridade física ou mental. Assim sendo, conquanto se possa reconhecer a abusividade da conduta da requerida ao negar a cobertura para o tratamento, não se vislumbra tenha o ato posto em risco a saúde do paciente, dada a natureza eletiva do procedimento. (..). Enfim, aqui neste caso, o inadimplemento contratual não é capaz de configurar danos morais indenizáveis, razão pela qual a r. decisão merece reforma, com o provimento do Apelo da operadora do plano de saúde quanto a este tocante" (e-STJ, fls. 425-426).
+A desconstituição de tais premissas, portanto, a fim de concluir pela ilicitude da conduta da recorrida e, consequentemente, pela configuração de dano moral indenizável, como pretendido pelo recorrente, demandaria o reexame do acervo fático-probatório dos autos, procedimentos que, na via do recurso especial, são vedados pelo enunciado da Súmula 7 do STJ.
+Dessa forma, a recusa da cobertura de tratamento por operadora de plano de saúde, por si só, não configura dano moral, salvo a existência de circunstâncias particulares que o configurem. Nesse sentido:
+RECURSO ESPECIAL. AGRAVO INTERNO. PLANO DE SAÚDE. CIRURGIA BUCO-MAXILO-FACIAL. NEGATIVA DE COBERTURA. PROFISSIONAL APTO. REALIZAÇÃO DO PROCEDIMENTO. MÉDICO. CIRURGIÃO DENTISTA. DÚVIDA FUNDADA. DANO MORAL. NÃO CONFIGURAÇÃO. SÚMULA 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. A recusa da cobertura de tratamento por operadora de plano de saúde, por si só, não configura dano moral, notadamente quando fundada em razoável interpretação contratual. Precedentes.
+3. Hipótese em que a negativa em autorizar a realização de cirurgia buco-maxilo-facial decorreu de fundada dúvida sobre qual o profissional, médico ou dentista, estaria apto a prescrever e realizar o procedimento, tendo sido, ademais, afirmado na origem que não houve prejuízo ao tratamento realizado.
+4. Agravo interno a que se nega provimento.
+(AgRg no REsp 1.569.212/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/8/2017, DJe 22/8/2017.)
+CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E DE COMPENSAÇÃO DE DANOS MORAIS. PLANO DE SAÚDE. TRATAMENTO. DOENÇA. COBERTURA. RECUSA INJUSTIFICADA. DEVERES ANEXOS OU LATERAIS. BOA-FÉ OBJETIVA. VIOLAÇÃO. DANO MORAL. OCORRÊNCIA.
+1. O propósito recursal é determinar se a negativa da seguradora ou operadora de plano de saúde em custear tratamento de doença coberta pelo contrato tem, por si só, a aptidão de causar dano moral ao consumidor segurado.
+2. Embora o mero inadimplemento, geralmente, não seja causa para ocorrência de danos morais, a jurisprudência do STJ vem reconhecendo o abalo aos direitos da personalidade advindos da recusa indevida e ilegal de cobertura securitária, na medida em que a conduta agrava a já existente situação de aflição psicológica e de angústia no espírito do segurado.
+3. A recusa indevida e abusiva de cobertura médica essencial à cura de enfermidade coberta por plano de saúde contratado caracteriza o dano moral, pois há frustração da justa e legítima expectativa do consumidor de obter o tratamento correto à doença que o acomete.
+4. Existem situações, todavia, em que a recusa não é indevida e abusiva, sendo possível afastar a presunção de dano moral, pois dúvida razoável na interpretação do contrato não configura conduta ilícita capaz de ensejar indenização.
+5. O critério distintivo entre uma e outra hipótese é a eventualidade de a negativa da seguradora pautar-se nos deveres laterais decorrentes da boa-fé objetiva, a qual impõe um padrão de conduta a ambos os contratantes no sentido da recíproca colaboração, notadamente, com a prestação das informações necessárias ao aclaramento dos direitos entabulados no pacto e com a atuação em conformidade com a confiança depositada.
+6. In casu, o tratamento para a doença (neoplasia) por meio de radioterapia teria sido previsto no contrato, e a negativa de cobertura teria sido justificada pelo fato de o método específico de tratamento não estar previsto na lista de procedimentos da Agência Nacional de Saúde. Como a negativa de cobertura não estava expressa e destacada no contrato e como o tratamento seria necessário e indispensável à melhora da saúde, a recusa ao custeio do tratamento mostra-se injusta e decorrente de abuso, violando a justa expectativa da parte, o que revela a existência de dano moral a ser indenizado.
+7. Recurso especial conhecido e provido.
+(REsp 1.651.289/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 6/4/2017, DJe 5/5/2017.)
+Ademais, a vedação da Súmula 7 do STJ impede, por semelhantes motivos, a análise da apontada divergência jurisprudencial.
+Nesse contexto, considerando que o agravante não trouxe elementos ou argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
