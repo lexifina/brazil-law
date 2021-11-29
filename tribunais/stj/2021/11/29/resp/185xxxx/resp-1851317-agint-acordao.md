@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por CRBS S/A contra decisão que, com apoio em entendimento jurisprudencial, não conheceu de recurso especial em que discute a regularidade no aproveitamento de crédito de ICMS incidente na aquisição de combustíveis e a ocorrência de decadência para o lançamento.
+A parte agravante sustenta, em síntese (fls. 917/924):
+A decisão agravada tenha consignado que não haveria violação ao art. 1.022 do CPC, pois o acórdão recorrido "externa fundamentação adequada e suficiente à conclusão do acórdão embargado", cumpre destacar que ponto essencial à demanda, relacionado à ausência de dolo pela ora Agravante, não foi enfrentado pelo Tribunal a quo.
+ ..
+Em que pese o não conhecimento parcial do Recurso Especial interposto pela ora Agravante sob o fundamento de que a violação aos artigos 19 e 20 da Lei Complementar nº 87/96 não teria sido prequestionada e de que "não têm comando normativo apto à eventual alteração do acórdão recorrido", cumpre destacar que a Lei 13.105/2015 (Código de Processo Civil), considera a matéria devidamente prequestionada, ainda que acórdão atacado por embargos de declaração seja rejeitado.
+ ..
+Simples leitura do acórdão recorrido comprova que não há qualquer entendimento de ação dolosa, o acórdão recorrido presumiu esse dolo. Não indicou qualquer ato concreto de dolo. A Agravante, contribuinte, entendeu que o bem adquirido representaria algo necessário ao processo produtivo e o Fisco Estadual entendeu de forma contrária. Mera divergência de interpretação. Não há dolo nisso e não há necessidade de revolvimento de fatos. Os fatos do acórdão recorrido servem ao exame desta Corte. Portanto, no presente caso se está diante da possibilidade de revaloração dos critérios jurídicos utilizados pelo acórdão recorrido para classificar a conduta da Agravante como dolosa e não da prova produzida nos autos, o que, como mencionado anteriormente, afasta o óbice contido na Súmula 7/STJ. Por consequência, a vedação contida na Súmula 83/STJ deve ser afastado, pois está equivocada a premissa da qual partiu o acórdão recorrido quanto à alegada prática de conduta dolosa pela ora Agravante.
+Corrigida aquela premissa com a revaloração do critério jurídico adotado, o acórdão recorrido está na verdade em manifesto confronto com o entendimento firmado por este Tribunal através do julgamento do Recurso Especial nº 973.733/SC, sob o rito dos recursos repetitivos, bem como no AgRg nos Embargos de Divergência em REsp nº 1.199.262/MG.
+Impugnação apresentada pela parte agravada (fls. 943/945).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ICMS. PRODUTO INTERMEDIÁRIO. NÃO CARACTERIZAÇÃO. CREDITAMENTO INDEVIDO. DOLO. REEXAME DE PROVA. IMPOSSIBLIDADE. PRAZO DECADENCIAL. MATÉRIA PACÍFICA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA.
+1.Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. À luz das Súmulas 7 do STJ e 282 e 284 do STF, o recurso não pode ser conhecido quanto à tese de violação do arts. 19 e 20 da LC n. 87/1996, pois, além de não prequestionados, os dispositivos não têm comando normativo apto à eventual alteração do acórdão recorrido; além disso, a conclusão do acórdão recorrido, pela não caracterização de produto intermediário, não pode ser revista na via do recurso especial, tendo em vista a necessidade de reexame de provas.
+4. No caso de creditamento indevido de ICMS, que, de consequência, resulta em recolhimento a menor do tributo, o prazo decadencial é disciplinado no art. 150, § 4º, do CTN. Porém, nas hipóteses em que o contribuinte credita, indevidamente, o ICMS, com intenção de fraude ou com dolo, este Tribunal Superior reconhece a incidência da regra do art. 173, I, do CTN. Precedentes.
+5. No caso dos autos, o órgão julgador a quo, ao entender pela regra do art. 173, I, do CTN, consignou a ocorrência de dolo porque o creditamento não encontraria respaldo legal; essa conclusão, que não pode ser alterada sem reexame fático-probatório ou sem interpretação da legislação estadual, encontra amparo em precedentes deste Tribunal Superior e, por isso, o recurso não pode ser conhecido, na parte, consoante enunciam as Súmulas 7 e 83 do STJ e 280 do STF.
+6. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a conclusão da decisão agravada deve ser mantida.
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 617/631):
+Primeiramente a embargante suscita prejudicial de mérito consistente na decadência de parte do crédito tributário.
+Quanto aos tributos cujo lançamento é feito por homologação, caso do ICMS, a decadência pode ter como termo inicial a data do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado (art. 173, I, do CTN), ou a data do fato gerador, quando houver a antecipação do pagamento, considerando-se homologado e definitivamente extinto o crédito, caso a Fazenda não se manifeste no prazo de cinco anos, salvo se comprovada a ocorrência de dolo fraude ou simulação (art. 150, § 4º, do CTN).
+No caso dos autos, restou comprovado o dolo do embargante em aproveitar indevidamente créditos tributários, haja vista que pretendeu abatimento fiscal em desacordo com a lei.
+Desse modo, deve ser afastada a aplicação do art. 150, § 4º, do CTN, para adotar o art. 173, I, do CTN.
+Consequentemente, em relação aos fatos geradores ocorridos no exercício de 2005, o prazo do art. 173 do CTN seria contada a partir de janeiro de 2006, apenas exaurindo em janeiro de 2011.
+Como a notificação de auto de infração ocorreu em 21/12/2010(vide fls. 56/57), rejeito a alegação de decadência.
+Adentrando ao mérito, cinge-se a controvérsia em aferir se há aproveitamento indevido de ICMS relativo ao combustível adquirido pela apelante.
+Ela defende que o combustível que deu ensejo à autuação trata-se de produto intermediário, motivo pelo qual aplicável o abatimento previsto no art. 66, V, do Regulamento ICMS/2002 de Minas Gerais:
+ ..
+Como previsto acima, para fazer jus ao abatimento do ICMS, necessário que o produto intermediário seja empregado diretamente no processo de produção, extração, industrialização, geração ou comunicação.
+Para verificar se suprido tal requisito, proveitoso reproduzir os seguinte trecho da perícia técnica judicial produzida pelo perito oficial à fl. 150:
+03) Os combustíveis que são objeto da PTA nº01000168570 95 são empregados diretamente em processo industrial da embargada
+RESPOSTA.
+Negativo. São utilizados no processo de distribuição dos produtos industrializados me outras unidades.
+04) A embargante porventura revendeu os combustíveis que são objeto da PTA nº 010016857085
+RESPOSTA
+Negativo. Os combustíveis são adquiridos para consumo próprio.
+Assim, diferentemente do que pretendido pelo apelante, o combustível objeto da PTA nº 01000168570-95 não se trata de produto intermediário e sequer é utilizado no processo produtivo da empresa.
+Destarte, forçoso convir pela impossibilidade do abatimento de ICMS pretendido pelo apelante.
+Ainda, foi afirmado pelo apelante que não cabível a cobrança do ICMS, vez que violaria art. 76 do RICMS/2002.
+No entanto, inaplicável tal norma ao caso, já que não comprovado se tratar de mercadoria devolvida.
+Corrobora a ideia acima, o seguinte quesito anexado às fls.150/151:
+05) A embargante observou todos os requisitos constantes do § 2º do art. 76, Parte Geral, do RICMS/2002, indispensáveis para que viesse a ter direito aos respectivos créditos de ICMS que foram objeto de glosa conforme PTA nº 0100016857095
+RESPOSTA
+Até a presente data, a AMBEV não apresentou os documentos necessários para análise.
+ ..
+Quanto aos honorários advocatícios, é sabido que estes devem ser fixados considerando o grau de zelo do advogado, o lugar da prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Assim, nos termos do art. 20 do CPC/1973 (aplicável ao caso vez que a sentença foi proferida em 2015), mantenho os honorários fixados na sentença.
+Por ocasião do julgamento dos embargos de declaração, o órgão julgador acresceu (fls. 685/693):
+Abem da verdade, o embargante pretende abatimento fiscal em desacordo com ao art. 66, V, do Regulamento ICMS/2002. Nele, há menção expressa no sentido de que, para haver abatimento do valor do ICMS relativo ao produto intermediário, necessário que o produto seja empregado diretamente no processo de produção, situação esta que, conforme provas carreadas aos autos, não ocorreu.
+Ressalto que não havia qualquer consideração a ser feita quanto aos quesitos nºs 7/9 da perícia, uma vez que não pertinentes ao caso e as respostas deles decorreram não afastam qualquer conclusão trazida no acórdão recorrido.
+No caso, o acórdão foi claro ao demonstrar que considerou dolosa a conduta em razão de tentar abatimentos fiscais de forma contrária à legislação vigente.
+Pois bem.
+Como antes afirmado na decisão ora impugnada, não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Quanto à tese de violação do arts. 19 e 20 da LC n. 87/1996, o recurso não pode ser o conhecido, pois, além de não prequestionados, não têm comando normativo apto à eventual alteração do acórdão recorrido. Observância das Súmulas 282 e 284 do STF. De toda sorte, nota-se que a conclusão do acórdão recorrido, pela não caracterização de produto intermediário, não pode ser revista na via do recurso especial, pois necessário o reexame de provas, tendo em vista derivar de prova pericial (Súmula 7 do STJ). A respeito:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ICMS. PROVA PERICIAL. SÚMULA N. 7/STJ. CREDITAMENTO DE ICMS. PRODUTOS QUE NÃO INTEGRAM O PRODUTO FINAL NEM SÃO IMEDIATAMENTE CONSUMIDOS NO PROCESSO PRODUTIVO. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido entendeu que as provas dos autos conteriam elementos suficientes ao julgamento antecipado da lide (e-STJ fl. 1132), de forma que não é possível desconstituir tal conclusão sem revolver matéria fático-probatória (Súmula n. 7/STJ).
+2. Segundo o entendimento deste e.STJ, para que os materiais intermediários sejam considerados insumos e gerem direito ao creditamento, não basta que sejam indispensáveis ao processo produtivo. É necessário que sejam incorporados ao produto final, de forma a modificar a maneira como esse se apresenta. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1631502/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/08/2020, DJe 18/08/2020)
+Com relação à decadência, o inciso I do art. 173 do CTN impõe a extinção do direito de constituição do crédito tributário acaso o lançamento não ocorra no prazo de 5 anos, contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.
+No REsp 973.733/SC, repetitivo, apontado como paradigma pela recorrente, a Primeira Seção firmou tese segundo a qual o prazo do art. 173, I, não pode ser cumulado com o prazo do art. 150, § 4º, ambos do CTN, apontando que "o prazo decadencial quinquenal para o Fisco constituir o crédito tributário (lançamento de ofício) conta-se do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado, nos casos em que a lei não prevê o pagamento antecipado da exação ou quando, a despeito da previsão legal, o mesmo inocorre, sem a constatação de dolo, fraude ou simulação do contribuinte, inexistindo declaração prévia do débito" (Rel. Ministro Luiz Fux, julgado em 12/08/2009, DJe 18/09/2009).
+Com relação aos Embargos de Divergência no REsp 1.199.262/MG, sob minha relatoria, a Primeira Seção, em 2011, reafirmou orientação segundo a qual, no caso de creditamento indevido de ICMS, que resulta, por óbvio, em recolhimento a menor do tributo, o prazo decadencial é disciplinado no art. 150, § 4º, do CTN. Nesse julgamento, ponderou-se que, acaso o creditamento indevido implicasse na ausência de qualquer pagamento, aplicar-se-ia a regra do art. 173, I, do CTN.
+No mesmo sentido, dentre outros: AgInt no REsp 1842061/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 16/12/2019, DJe 18/12/2019; AgInt nos EDcl no AREsp 1057827/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 08/09/2020, DJe 16/09/2020; AgInt nos EDcl nos EDcl no AREsp 1189427/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 09/05/2019, DJe 16/05/2019; AgRg no REsp 1318020/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 15/08/2013, DJe 27/08/2013.
+Porém, cumpre destacar que, nas hipóteses em que o contribuinte credita, indevidamente, o ICMS, com intenção de fraude ou com dolo, este Tribunal Superior reconhece a incidência da regra do art. 173, I, do CTN. A exemplo:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. ICMS. DECADÊNCIA DA OBRIGAÇÃO TRIBUTÁRIA. CREDITAMENTO INDEVIDO. DOLO. TERMO INICIAL. ARTIGO 173, I, DO CTN. PRECEDENTES.
+1. Segundo entendimento do Superior Tribunal de Justiça, na hipótese dolo ou frade, conforme constado pelo Tribunal de origem, o prazo decadencial para lançamento do crédito segue a regra do art. 173, I, do  ..
+4. Agravo Interno não provido.
+(AgInt no REsp 1852060/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/08/2020, DJe 15/09/2020)
+No caso dos autos, o órgão julgador a quo, ao entender pela regra do art. 173, I, do CTN, consignou a ocorrência de dolo porque o creditamento não encontraria respaldo legal; essa conclusão, que não pode ser alterada sem reexame fático-probatório ou sem interpretação da legislação estadual, encontra amparo em precedentes deste Tribunal Superior e, por isso, o recurso não pode ser conhecido, na parte, consoante enunciam as Súmulas 7 e 83 do STJ e 280 do STF. Vide, mutatis mutandis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. CREDITAMENTO INDEVIDO. LANÇAMENTO DE OFÍCIO. DECADÊNCIA. ESCRITURAÇÃO MEDIANTE DOLO. ART. 173, I, DO CTN. ACÓRDÃO COINCIDENTE COM A JURISPRUDÊNCIA DO STJ. ELEMENTO SUBJETIVO. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE.
+ ..
+2. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior atrai a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+3. Hipótese que não comporta a aplicação do entendimento consolidado na Súmula 436 do STJ, uma vez que o crédito tributário cuja exigibilidade se questiona nesta demanda ordinária não decorre de imposto oferecido à tributação por meio de declaração de débito do contribuinte e não pago, mas de imposto indevidamente compensado mediante creditamento escritural, sendo certo que esse encontro de contas está sujeito ao prazo decadencial de homologação pelo fisco.
+4. A obrigação tributária não declarada pelo contribuinte no tempo e modo determinados pela legislação de regência está sujeita ao procedimento de constituição do crédito pelo fisco, por meio do lançamento substitutivo, o qual deve se dar no prazo decadencial previsto no art. 173, I, do CTN, quando não houver pagamento antecipado, ou no art. 150, § 4º, do CTN, quando ocorrer o recolhimento de boa-fé, ainda que em valor menor do que aquele que a Administração entende devido, pois, nesse caso, a atividade exercida pelo contribuinte, de apurar, pagar e informar o crédito tributário, está sujeita à verificação pelo ente público, sem a qual ela é tacitamente homologada.
+5. Essa orientação também tem aplicação quando o pagamento parcial do tributo decorre de creditamento tido pelo fisco como indevido, hipótese dos autos. Precedentes.
+6. No presente caso, o Tribunal de origem aplicou o art. 173, I, do CTN por entender que a contribuinte procedeu ao creditamento indevido mediante dolo, pois teria procedido a essa escrituração mesmo ciente de sentença que julgou improcedente essa pretensão, de modo que a revisão desse entendimento pressupõe reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, ante o veto contido na Súmula 7 do STJ.
+7. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1187701/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 20/04/2020, DJe 27/04/2020)
+Ainda pela observância dos óbices sumulares, confiram-se: AgInt no AREsp 356.577/RS, Rel. Ministro Gurgel De Faria, Primeira Turma, julgado em 19/06/2018, DJe 08/08/2018; AgInt no AREsp 794.369/RS, Rel. Ministro Gurgel De Faria, Primeira Turma, julgado em 07/05/2019, DJe 24/05/2019; AgInt no AREsp 1179947/SP, Rel. Ministro Gurgel De Faria, Primeira Turma, julgado em 26/05/2020, DJe 12/06/2020.
+O recurso especial, portanto, deve ser parcialmente conhecido, mas não pode ser provido.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
