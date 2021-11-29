@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. RECONHECIMENTO PESSOAL. IMPETRAÇÃO CONTRA DECISÃO DE INDEFERIMENTO DE LIMINAR NA ORIGEM. ENUNCIADO N. 691 DA SÚMULA DO STF. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. Hipótese na qual o Desembargador Relator apontou elementos concretos que afastam a alegação de teratologia na decretação de prisão preventiva, destacando a necessidade de garantir a ordem pública. Portanto, não se constata a existência de ilegalidade patente a justificar a superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+3. Agravo desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+Trata-se de agravo regimental interposto por FERNANDO BARBOSA DA SILVA, contra decisão proferida pela Presidência do Superior Tribunal de Justiça, que indeferiu liminarmente o habeas corpus no qual se aponta como ato coator decisão proferida pelo Desembargador relator do HC n. 0815459-83.2021.8.15.0000.
+O paciente foi preso em 23 de agosto de 2021 em razão de sua suposta participação em um assalto realizado em uma casa lotérica na cidade de Nazarezinho, no Estado da Paraíba.
+Contra essa decisão, a defesa impetrou habeas corpus perante o Tribunal local, aduzindo, em síntese, nulidade do reconhecimento pessoal do acusado por ter afrontado o art. 226 do Código de Processo Penal. Além disso, alega ausência dos requisitos autorizadores para a prisão preventiva e a presença de condições pessoais favoráveis.
+O Desembargador indeferiu o pedido liminar (e-STJ, fls. 47-50), ensejando a impetração deste habeas corpus, no qual assevera inexistir qualquer elemento que vincule o paciente à ocorrência policial que deu origem à ação penal debatida neste writ. Além disso, assevera que o reconhecimento do acusado não foi realizado em obediência às formalidades estabelecidas no Código de Processo Penal.
+Por fim, aduz que a manutenção da custódia cautelar e que o paciente, além de ostentar condições pessoais amplamente favoráveis, é responsável pelos cuidados de criança menor de 12 anos, sendo cabível a substituição de medida constritiva por cautelares diversas da prisão.
+O pedido foi indeferido liminarmente (e-STJ, fls. 92-93). Neste regimental (e-STJ, fls. 120-153), o agravante reitera os argumentos em favor da ilicitude do reconhecimento pessoal e da nulidade da prisão em flagrante, postulando o trancamento do processo criminal ou, subsidiariamente, a revogação da prisão preventiva, com eventual substituição por medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+Não obstante os esforços argumentativos da defesa, não se constata a presença de vício ou teratologia na decisão impugnada de modo a modificar as conclusões nela exaradas.
+Conforme se extrai dos autos, este habeas corpus foi impetrado contra decisão monocrática proferida pelo Desembargador relator do HC n. 0815459-83.2021.8.15.0000, na qual foi indeferido o pedido de liminar. Ao analisar o pleito, o Relator não vislumbrou elementos que caracterizassem o fumus boni iuris e o periculum in mora, condições necessárias para a concessão da medida urgente, segundo reiterado entendimento jurisprudencial firmado nesta Corte Superior de Justiça.
+Ao avaliar os pleitos defensivos, o Relator fez as seguintes afirmações (e-STJ, fls. 48-49):
+Quanto à alegação de , constata-se que tal matéria envolve análise de mérito. nulidade do reconhecimento pela vítima.
+Em análise preliminar, observo que a decisão homologatória do flagrante e que decretou a prisão preventiva do paciente aparenta estar devidamente fundamentada, nos termos do art. 93, inciso IX, da Constituição Federal, sendo possível identificar os motivos de fato e de direito que embasaram o decreto preventivo.
+A garantia da ordem pública, por si só, justifica a manutenção da custódia cautelar, devido à suposta periculosidade do agente, pautada na gravidade concreta do crime, pelo modus operandi do crime supostamente cometido.
+Quanto ao pedido de liberdade provisória, em atenção à Recomendação n 62 do CNJ, embasado na enfermidade do seu filho, constata-se que, de plano, não há comprovação da impossibilidade do menor ser cuidado por outra pessoa da família.
+Por certo, todas as questões suscitadas pela defesa do agravante deverão ser analisadas, em profundidade e extensão, no julgamento do mérito do writ originário, não podendo esta Corte Superior se adiantar e enfrentar, minuciosamente, as teses defensivas, sob pena de indevida supressão de instâncias e violação dos princípios constitucionais que regem o direito processual.
+Conforme exposto na decisão agravada, o Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+Neste caso, vê-se que o Desembargador Relator apontou elementos concretos que afastam a alegação de teratologia. Portanto, não se constata a existência de ilegalidade patente a justificar a superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Diante do exposto, nego provimento ao presente agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
