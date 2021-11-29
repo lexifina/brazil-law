@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ.AGRAVO EM RECURSO ESPECIAL DO PARTICULARNÃO CONHECIDO.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto pelo INSS, com fundamento no art. 105, inciso III, alíneaa,da CF/1988, no qual se insurge contra acórdão proferido pelo TRF da 4ª Região.
+2. A irresignação, contudo, não merece ser admitida, visto que a parte agravante não infirmou adequadamente os fundamento da decisão agravada.
+3. No caso, o Tribunal de origem inadmitiu o recurso especial em razão da ausência do cumprimento do requisito do prequestionamento (Súmulas 282 e 356 do STF,bem como a 211 do STJ) e da necessidade de reexame do conjunto fático-probatório contido nos autos, inviável no âmbito especial, nos termos do entendimento consolidado na Súmula 7 do Superior Tribunal de Justiça.
+4. Todavia, a parte agravante deixou de impugnar de forma escorreita os fundamentos da decisão hostilizada, limitando-se a repetir as razões contidas no Recurso Especial trancado relativas à natureza dos juros, afirmando que tal análise prescindiria do prequestionamentopor tratar-se de matéria de ordem pública e a negar genericamentea necessidade de reexame de fatos e provas,o que não atende à necessidade de impugnação específica dos fundamentos da decisão recorrida, o queimpede o seguimento do recurso especial.
+5. Com efeito, o agravo em recurso especial tem por escopo desconstituir a decisão de inadmissão de recurso especial, sendo, por isso, imprescindível a impugnaçãode todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto.
+6. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação por analogia da Súmula 182 do STJ, segundo a qual é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada.
+7. Nesse sentido, cito os seguintes julgados deste Superior Tribunal de Justiça sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DO APELO. SÚMULA 7/STJ. IMPUGNAÇÃO DEFICIENTE.SÚMULA 182/STJ. MANUTENÇÃO. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS.ART. 85 DO CPC/2015. NÃO APLICAÇÃO.
+1. De acordo com a jurisprudência do STJ, anegativa genéricada aplicação da Súmula 7/STJ revela-se insuficiente para efeito de impugnação à decisão que inadmitiu o recurso especial.
+2. Cumpre à parte agravante, de maneira analítica, contrastar as conclusões do acórdão recorrido com os fundamentos da decisão de inadmissibilidade do recurso especial, demonstrando que, na situação, a Súmula 7/STJ foi aplicada de maneira equivocada. Isso, contudo, não ocorreu, estando acertada a decisão que não conheceu do agravo em recurso especial.
+3. Tendo em vista que o recurso especial foi interposto na vigência do Código de Processo Civil de 1973, é indevida a aplicação do art. 85 do CPC/2015.
+4. Agravo interno a que se dá parcial provimento para afastar a condenação em honorários recursais.(AgInt no AREsp 1.155.356/RJ, de minha relatoria, SEGUNDA TURMA, julgado em 17/4/2018, DJe 23/4/2018)
+8.Diante dessas considerações, não conheço do agravo em recurso especial do INSS.
+9. Publique-se. Intimações necessárias.
