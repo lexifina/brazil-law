@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOYCE KATIA FERREIRA ROCHA, com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento à apelação ministerial para majorar a reprimenda da recorrente a 6 anos, 5 meses e 25 dias de reclusão, no regime inicial fechado.
+Nas razões recursais, alega contrariedade aos arts. 33 e 157, § 2º, do CP.
+Sustenta, em síntese, que o número de majorantes não é fundamento válido para o aumento da pena em fração acima da mínima, na terceira fase.
+Requer, ainda, a fixação deregime inicial mais brando.
+As contrarrazões foram apresentadas (e-STJ, fls. 1024-1033).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (e-STJ, fls. 1054-1063).
+É o relatório.
+Decido.
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Observe-se que o Tribunal de origem fundamentou a majoração, na terceira fase, acima do mínimo, com base apenas na multiplicidade de causas de aumento:
+"Quanto ao aumento imposto pelas majorantes, tem-se que a fração eleita pelo Primeiro Grau foi branda, já que duas foram as circunstâncias categorizadas pelo legislador como de mais significativa reprovabilidade: o concurso de agentes e o emprego de arma.
+O aumento, portanto, deve ser proporcional ao número de circunstâncias reprováveis verificadas para caracterizar resposta penal adequada. Assim, entendo que a fração de 3/8 seja mais razoável"(e-STJ, fl. 960).
+Como se observa, a escolha da fração de 3/8, para o aumento da pena, não está apoiada em elementos fáticos que indiquem a maior reprovabilidade do roubo em apreço, mas somente nas duas majorantes.
+Portanto, o acórdão impugnado está em confronto com o entendimento firmado na Súmula 443/STJ, segundo o qual "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚM. 182/STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO NA DOSIMETRIA DA PENA. CONFISSÃO DO RÉU QUE EMBASOU A CONDENAÇÃO. RECONHECIMENTO. SUM. N. 545/STJ. COMPENSAÇÃO COM A REINCIDÊNCIA. PRESENÇA DE TRÊS MAJORANTES. CRITÉRIO QUANTITATIVO. SÚM. N. 443/STJ. IMPOSSIBILIDADE. REDUÇÃO DA REPRIMENDA QUE SE IMPÕE.
+(..)
+4. De acordo com a Súm. n. 443/STJ, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+5. Agravo regimental desprovido. Concessão de habeas corpus de ofício para, reconhecer a atenuante da confissão espontânea, compensando-a com a agravante da reincidência e alterar para 1/3 o aumento na terceira fase da dosimetria, reduzindo para 5 (cinco) anos e 4 (quatro) meses, em regime fechado, mais 13 (treze) dias-multa, a pena imposta ao agravante, incurso no art. 157, §2º, incs. I, II e V, c/c o art. 29, ambos do Código Penal." (AgRg no REsp 1.360.791/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/9/2016, DJe 5/10/2016);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE PESSOAS E EMPREGO DE ARMA DE FOGO. DOSIMETRIA. TERCEIRA FASE DO CÁLCULO. FRAÇÃO DE 2/5 APLICADA APENAS COM FUNDAMENTO NO NÚMERO DE MAJORANTES. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N. 443/STJ. FIXAÇÃO DO REGIME PRISIONAL MENOS GRAVOSO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça consagrou o entendimento de que "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula 443/STJ).
+2. Na espécie, a Corte de origem aplicou a fração de 2/5, superior à mínima prevista para o tipo penal em exame, com base apenas no número de majorantes, o que não encontra guarida na jurisprudência desta Corte, segundo a qual o aumento da reprimenda acima da fração mínima deve estar ancorado em circunstâncias concretas atinentes às próprias causas de aumento e que indiquem a maior reprovabilidade da conduta, como por exemplo, emprego de várias armas de fogo, armas de grosso calibre, dentre outros.
+(..)
+4. Agravo regimental a que se nega provimento." (AgRg no HC 361.208/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/9/2016, DJe 3/10/2016).
+Portanto, a partir dos parâmetros estabelecidos nas instâncias de origem, passo à dosimetria da pena.
+Considerando existirem circunstâncias desfavoráveis,mantenho a pena-base em 4 anos e 8 meses de reclusão e 12 dias-multa. Na segunda fase, ausentesagravantes eatenuantes.Na terceira fase, reformando o acórdão, majoro a pena em 1/3, face às causas de aumento do concurso de agentes e emprego de armas, fixando a reprimenda definitiva em 6anos,2meses e 20 dias de reclusão e 15dias-multa.
+Por fim, estabelecidas apenadefinitivaem 6 anos, 2 meses e 20 diasde reclusão, oregime inicial fechado (mais grave segundo o quantum da sanção aplicada) éo adequado para prevenção e reprovação do delito, tendo em vista a análisedesfavorável das circunstâncias judiciais, consoante as diretrizes do art.33, § 2º, "a", do CP. Precedentes.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou parcial provimento ao recurso especial, para fixar a pena em 6 anos, 2 meses e 20 dias de reclusão e 15dias-multa, mantendo, no mais, o acórdão recorrido.
+Publique-se. Intimem-se.
