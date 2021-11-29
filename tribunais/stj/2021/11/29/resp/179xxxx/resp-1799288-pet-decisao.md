@@ -1,0 +1,6 @@
+DECISÃO
+A Caixa Econômica Federal, por meio da petição de fls. 1.723-1.728/e-STJ, requer a admissão do seu ingresso na lide na condição de amicus curiae, "diante da amplitude conferida à controvérsia sob o Tema 1039, que afetará o desfecho de diversos processos de Seguro Habitacional com cobertura do FCVS nos quais o tema da prescrição também está posto".
+Considero que a representatividade das pessoas, órgãos ou entidades deve relacionar-se, diretamente, à identidade funcional, natureza ou finalidade estatutária da pessoa física ou jurídica que a qualifique para atender ao interesse público de contribuir para o aprimoramento do julgamento da causa, não sendo suficiente o interesse em defender a solução da lide em favor de uma das partes (interesse meramente econômico).
+No caso em exame, reputo relevantes as alegações da requerente, de que a definição do prazo prescricional em questão, por afetar diretamente as apólices do ramo público (ramo 66), alcança sua esfera jurídica, motivo pelo qual admito a sua intervenção, na condição da amicus curiae, nos termos do art. 138 do Código de Processo Civil.
+Em face do exposto, defiro o pedido da Caixa Econômica Federal de ingresso no presente processo, na qualidade de amicus curiae e determino, por conseguinte, a retificação da autuação.
+Intimem-se.
