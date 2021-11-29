@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 338/340e-STJ, proferida pelo Ministro Presidente do STJ, que não conheceu do agravo em recurso especial.
+O agravante sustenta, em síntese, que os fundamentos do juízo de admissibilidade foram impugnados.
+À vista dos fundamentos expostos, reconsidero a decisão ora agravada e passo à análise do agravo em recurso especial.
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL -CONTRATO VERBAL -COMPRA E VENDA IMÓVEL-SINAL -PRINCIPIO DE PAGAMENTO -RESCISÃO CONTRATUAL. ARRAS. DIREITO DE RETENÇÃO NÃO VERIFICADO -PERDAS E DANOS -NÃO COMPROVADO -MULTA -AUSÊNCIA DE PACTUAÇÃO -REFORMATIO IN PEJUS -IMPOSSIBILIDADE -MANUTENÇÃO DA SENTENÇA. - Ainda que evidenciado nos autos o inadimplemento contratual, bem como a rescisão do contrato verbal celebrado entre as partes por culpa da compradora, inexistente previsão contratual, mostra-se indevida a retenção de arras, mormente quando não comprovada as perdas e danos do vendedor com o desfazimento do negócio. Nesse sentido, não haveria que se falar em retenção do sinal, mas a decisão nesse sentido deve ser mantida no caso concreto em atenção ao princípio que veda a reformatio in pejus.
+A parte agravante sustenta, em resumo, que foram celebradas arras penitenciais, cujo valor deve ser retido em face do desfazimento do negócio jurídico.
+Acerca do tema controvertido, assim se manifestou a Corte de origem:
+Em consulta aos autos, verifica-se tratar-se de contrato verbal de compra e venda de um imóvel rural, com preço total ajustado em R$180.000,0 (cento e oitenta mil reais), onde os Autores/Apelados efetuaram um sinal de R$30.000,00 (trinta mil reais) através de deposito bancário em prol do Réu Apelante.
+De início, necessário para o deslinde da questão analisar o conceito de arras ou sinal.
+Trata-se de quantia em dinheiro ou outro bem fungível dado por um contratante a outro com a finalidade de firmar a presunção de um acordo final, bem como assegurar o pontual cumprimento da obrigação. Representa cláusula acessória a um contrato realizado e perfeito.
+A doutrina classifica as arras em duas espécies, quais sejam, confirmatórias ou principais, que confirmam a vontade das partes, servindo como princípio de pagamento, ao mesmo tempo em que determinam perdas e danos, e penitenciais ou secundárias, eis que possuem a finalidade compensatória em caso de arrependimento, quando estabelecido na avença.
+Não havendo estipulação em contrário, as arras são consideradas confirmatórias . As arras penitenciais , por sua vez, caracterizam-se quando previsto no contrato o direito dearrependimento, conforme disposto no art. 420 do Código Civil: "Se no contrato for estipulado o direito de arrependimento para qualquer das partes, as arras ou sinal terão função unicamente indenizatória. Neste caso, quem as deu perdê-las-á em benefício da outra parte; e quem as recebeu devolvê-las-á, mais o equivalente. Em ambos os casos não haverá direito a indenização suplementar".
+No caso em tela, todavia, nenhuma dessas duas hipóteses pode ser verificada.
+Com efeito, embora com função de prefixação de perdas e danos pelo descumprimento contratual, as arras não se presumem, devendo ser objeto de cláusula contratual expressa, uma vez que, conforme já frisado, possuem natureza jurídica de pacto acessório.
+Assim, o valor pago a título de entrada não configura, por si só, arras ou sinal se não houve convenção expressa nesse sentido, tratando-se, neste caso, de mero princípio de pagamento, sem exercer qualquer função de prefixação das perdas e danos.
+(..)
+Desse modo, tenho que não há que se falar em retenção dos R$30.000,00 (trinta mil reais) pagos a título de início de pagamento se a negociação não foi concluída, nem existe contrato assinado entre as partes.
+Desse modo, ao contrário do que defende o Réu Apelante não existe cláusula contratual que permita a análise da controvérsia sob a ótica dos art. 417 a 420 do Código Civil.
+A conclusão do Tribunal revisor foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
