@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por GUSTAVO ALBERTO GEHLEN ANTONIO e OUTRO, em face da decisão acostada às fls. 872-8742 e-STJ, da lavra da Presidência do STJ, que não conheceu do agravo (art. 1.042 do CPC/15), por meio do qual os ora insurgentes pretendiam ver admitido o recurso especial.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 681-689 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+APELAÇÃO CÍVEL. DIREITO CIVIL. SEGUROS. EMBARGOS À EXECUÇÃO. LIDE EXECUTIVA LASTREADA EM CONTRATO DE SEGURO, CUJO PAGAMENTO DO CAPITAL SEGURADO RESTOU OBSTADO PELA SEGURADORA. IMPROCEDÊNCIA DOS EMBARGOS NA ORIGEM. INSURGÊNCIA DA SEGURADORA. LEGALIDADE DA RECUSA DE PAGAMENTO FUNDADA NO ARTIGO 766 DO CÓDIGO CIVIL. PROVA DA CIÊNCIA DO SEGURADO A RESPEITO DA DELICADA CONDIÇÃO DE SAÚDE QUE OSTENTAVA QUANDO DA CONTRATAÇÃO DA APÓLICE. OMISSÃO RELEVANTE NO TERMO DE "DECLARAÇÃO PESSOAL DE SAÚDE" QUE SUBTRAI DA SEGURADORA O DIREITO DE SOPESAR OS RISCOS E A CONVENIÊNCIA DA CONTRATAÇÃO. MÁ-FÉ EVIDENCIADA. INTELIGÊNCIA DO ENUNCIADO 609 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Opostos embargos declaratórios (fls. 693-706 e-STJ), restaram desacolhidos na origem (fls. 711-714 e-STJ).
+Nas razões de recurso especial (fls. 716-746 e-STJ), alegaram os insurgentes que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigos 489 e 1022 do CPC/15, porquanto não sanados os vícios apontados nos aclaratórios; (ii) artigo 373, inc. I e II, do CPC/15, aduzindo que "a prova indicada no acordão é imprestável para o provimento da apelação", por se tratar de documento ilegível; (iii) artigos 47, 51. inc. IV, § 1º, do CDC, sustentando que "além da ausência de exigências de exames e apontamento de quais doenças estariam excluídas da cobertura, o segurado viveu longos anos com plena saúde, de modo que a negativa ao pagamento após o transcurso desse tempo" seria indevida.
+Aduziu, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 761-784 e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu ao apelo nobre indicando ausência de vícios no acórdão recorrido e por aplicação das Súmulas 5, 7 e 83/STJ. Essa decisão foi impugnada por meio do agravo (art. 1.042 do CPC/15) cuja minuta está às fls. 791-820 e-STJ.
+Contraminuta às fls. 825-848 e-STJ.
+Em julgamento monocrático, a Presidência do STJ não conheceu do reclamo por ofensa ao princípio da dialeticidade.
+Inconformados, interpuseram o presente agravo interno (fls. 877-906 e-STJ), em síntese, sustentando a efetiva impugnação dos fundamentos da decisão que inadmitiu o apelo nobre.
+Impugnação às fls. 909-938 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DOS EMBARGADOS.
+1. Verificada a efetiva impugnação aos fundamentos da decisão prévia de admissibilidade, reconsidera-se a decisão da Presidência do STJ que não conheceu o agravo.
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aos artigos 489 e 1.022 do CPC/15.
+3. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre a demonstração de má-fé do segurado, bem como sobre a legibilidade de documento encartado nos autos. Incidência da Súmula 7/STJ.
+4. Agravo interno providopara reconsiderar a decisão da Presidênciae, de plano, negar provimento ao agravo em recurso especial.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno deve ser acolhido, ante a constatação da efetiva impugnação aos fundamentos da decisão prévia de admissibilidade.
+Assim, reconsidera-se a decisão monocrática proferida pela Presidência do STJ, passando-se a nova análise do reclamo.
+1. Não restou configurada a negativa de prestação jurisdicional. Conforme a iterativa jurisprudência deste Tribunal superior, deve ser afastada a alegação de ofensa ao artigo 1.022 do CPC/15 "na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (RCD no AREsp 1297701/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/08/2018, DJe 13/08/2018).
+No mesmo sentido, vejam-se, a título de exemplo: EDcl no Ag 749.349/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no REsp 1716263/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/08/2018, DJe 14/08/2018; AgInt no AREsp 1241784/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2018, DJe 27/06/2018.
+No caso, os insurgentes apontam a existência de omissão acerca: (a) do fato de que segurado manteve vida regular por mais de 05 (cinco) anos desde a contratação até o seu óbito, o que ilidiria a suposta má-fé; (b) a necessidade de interpretar-se o contrato de forma favorável ao consumidor.
+Quanto ao item (b), não há falar na suposta omissão.
+Ainda que a Corte de origem não tenha feito menção ao CDC, pautou-se no entendimento firmado por este STJ, consolidado na Súmula 609, no sentido de que "a recusa de cobertura securitária sob alegação de doença preexistente é ilícita se não houve a exigência de exames prévios à contratação ou a demonstração de má-fé do segurado".
+A proteção ao consumidor é um dos princípios que irradiou na formação do referido entendimento, expressamente observado pela instância de origem.
+Logo, não há falar em omissão sobre o tema.
+Quanto à má-fé, o órgão julgador apresentou os fundamentos fáticos e jurídicos pelos quais entendeu demonstrada no caso. Ademais, houve expressa menção às datas mencionadas pela parte. Logo, ainda que implicitamente, restou afastada a tese da parte, não havendo falar em omissão.
+As alegações dos insurgentes, assim, não demonstram a ocorrência de qualquer vício na decisão recorrida, motivo pelo qual deve ser afastada a suposta violação aos artigos 489 e 1.022 do CPC/15.
+2. No mais, o recurso especial é inadmissível por demandar reexame de fatos e provas.
+Segundo os autos, a Corte de origem reformou a sentença que havia julgado parcialmente procedentes os embargos à execução apresentados pela ora agravada - tão somente para modificar critérios de incidência de correção monetária e juros.
+Essencialmente, o Tribunal a quo considerou ser indevida a indenização securitária exequenda, ante a demonstração da má-fé do segurado, motivo pelo qual foi provido o recurso de apelação, para julgar totalmente procedentes os embargos À execução, nos seguintes termos (fls. 687-689 e-STJ):
+A controvérsia trazida à análise deste Colegiado repousa na justiça ou injustiça da negativa da indenização pleiteada pelos herdeiros do segurado.
+O caso posto deve ser analisado à luz do entendimento cristalizado no enunciado 609 da Súmula da Corte da Cidadania, que assim dispõe:
+Súmula 609 A recusa de cobertura securitária sob alegação de doença preexistente é ilícita se não houve a exigência de exames prévios à contratação ou a demonstração de má-fé do segurado.
+Da leitura do enunciado extrai-se que a recusa do capital indenizatório pela seguradora contratada somente tem lugar quando: I- há exigência prévia de exames aptos a atestar as condições de saúde do segurado; ou, II- quando há evidente má-fé do contratante, materializada na omissão de doenças preexistentes cujo conhecimento do segurado seja manifesto.
+Na espécie, verifica-se a segunda hipótese ventilada, subtraindo do segurado e seus beneficiários o direito à percepção do capital, consoante se passa a esmiuçar.
+À pg. 32 dos autos da Execução (n. 0002413-23.2012.8.24.0001), a certidão de óbito do segurado Edson Antônio (18-12-2011) indica como causa mortis "ventriculite, sida, hidrocefalia, toxoplasmose" (grifou-se).
+A vigência do seguro contratado iniciou-se em 1º-12-2006 (pg. 27, dos autos da Execução), e a documentação de pgs. 434-503 demonstra que, desde o ano de 2005, o segurado enfrentava complicações de saúde e internações hospitalares, havendo referência expressa em seus prontuários médicos ao fato de ser portador de HIV (desenvolvendo Síndrome da Imunodeficiência Adquirida  Sida).
+Dessarte é inegável que o segurado tinha plena ciência das gravíssimas condições de saúde que o acometiam no momento em que firmou o termo de pg. 94 (declaração pessoal de saúde) vinculado à contratação do seguro, declarando não possuir patologias relevantes, o que caracteriza ausência de boa-fé em razão da omissão dolosa que prejudicou a manifestação de vontade da seguradora em perfectibilizar a contratação.
+Refira-se, que, na impugnação aos Embargos à Execução (pgs. 181-192), a parte embargada nada aclarou sobre o fato da ciência previa do segurado acerca das doenças que lhe acometiam, limitando-se a arguir sua suposta boa-fé na contratação e o pagamento integral do prêmio. Não houve, como se vê, negativa veemente de que o segurado sabia das delicadas condições de saúde, mormente no que se refere à Síndrome da Imunodeficiência Adquirida  Sida, o que é de todo relevante para aferir a obrigatoriedade de cobertura do seguro pela embargante.
+ ..
+Diante disso, entende-se que a sentença recorrida deve ser reformada, julgando-se procedentes os Embargos à Execução, e imputando-se à parte embargada a integralidade do pagamento das custas processuais, bem como dos honorários advocatícios, estes fixados em 10% sobre o valor da causa (artigo 85, §§ 1º e 2º, do CPC).
+Como se vê, diante do conteúdo fático-probatório constante dos autos, notadamente do gravíssimo quadro de saúde do segurado no momento da contratação, o órgão julgador afirmou demonstrada a omissão dolosa e a má-fé do contratante, motivo pelo qual afastou a indenização securitária.
+Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Inexiste nulidade por cerceamento de defesa quando o julgamento antecipado da lide decorre, justamente, do entendimento do Juízo a quo de que o feito encontra-se devidamente instruído pelos documentos trazidos pelas partes. Precedentes.
+1.1. O acolhimento do inconformismo recursal, no sentido de se aferir a suficiência das provas constantes dos autos, bem como analisar a existência do apontado cerceamento de defesa implicaria no revolvimento de todo o contexto fático-probatório, providência que esbarra no óbice da Súmula 7 desta Corte.
+2. De acordo com a jurisprudência desta Corte, consolidada no enunciado sumular de n. 609/STJ, a recusa de cobertura securitária, sob a alegação de doença preexistente, é ilícita se não houve a exigência de exames médicos prévios à contratação ou a demonstração de má-fé do segurado.
+2.1. Derruir as conclusões do Tribunal local acerca da inexistência de má-fé por parte do segurado demandaria reanálise do acervo probatório. Incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1641645/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/08/2020, DJe 09/09/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. SEGURO DE VIDA. INDENIZAÇÃO. DOENÇA PREEXISTENTE. OMISSÃO NO PREENCHIMENTO DO QUESTIONÁRIO. MÁ-FÉ DO SEGURADO. RECONHECIMENTO PELO TRIBUNAL ESTADUAL. REVISÃO. INADMISSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não configurado qualquer dos vícios elencados no artigo 535 do Código de Processo Civil de 1973, não há falar em negativa de prestação jurisdicional.
+2. Não é devido o pagamento de indenização decorrente de contrato de seguro de vida se, consoante o acervo fático soberanamente analisado pelo tribunal local, restar comprovado nos autos que o segurado silenciou sobre a doença preexistente que o levou à morte, sendo clara a má-fé em sua conduta.
+3. A descaracterização da má-fé do segurado ao fornecer intencionalmente informações inverídicas e incompletas à seguradora demanda o reexame de matéria fática, circunstância obstada pela Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1591212/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/09/2016, DJe 04/10/2016)
+2.1. Salienta-se que este Tribunal Superior entende que a incidência da Súmula 7 do STJ impede igualmente o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem.
+Nesse sentido, confira-se: AgInt no AREsp 1570877/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/06/2020, DJe 01/07/2020; AgInt no REsp 1850735/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/06/2020, DJe 01/07/2020; AgInt no REsp 1864691/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020.
+Na hipótese, ademais, o próprio julgado apontado como paradigma registrou que a má-fé do segurado, decorrente da omissão intencional de doença preexistente, poderia ser relevada de forma excepcional, diante das circunstâncias do caso concreto - para, na sequência, aplicar também o óbice da Súmula 7/STJ (mantendo, portanto, a conclusão da Corte de origem sobre a existência ou não de demonstração de má-fé).
+3. No mais, a parte sustenta que "a prova indicada no acordão é imprestável para o provimento da apelação", por se tratar de documento ilegível.
+A Corte de origem afirmou (fl. 714 e-STJ):
+Não obstante, do termo de pg. 94 é perfeitamente possível ler, com uma simples aproximação de tela no sistema SAJ (zoom 150 ")/0), na parte final do texto descrito no campo "declaração pessoal de saúde", a frase "qualquer informação contrária ou complementar à presente declaração, declaro abaixo:", frase essa seguida de três linhas, nas quais o consumidor proponente deixou de informar relevante moléstia de saúde que o acometia, configurando a omissão dolosa que culminou na legalidade da recusa do capital segurado pela ora embargada.
+Rever tal conclusão, igualmente, encontra óbice na Súmula 7/STJ. Em semelhante sentido:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO. IRRESIGNAÇÃO DO RÉU.
+ ..
+3. Para o acolhimento do apelo extremo, no sentido de afirmar serem insuficientes ou ilegíveis os documentos que instruíram a ação monitória, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão da matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 559.231/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/03/2015, DJe 17/03/2015)
+4. Do exposto, dá-se provimento ao agravo interno, para reconsiderar a decisão da Presidência, e negar provimento ao agravo em recurso especial.
+Mantida a majoração de honorários conforme determinada à fl. 873 e-STJ.
+É como voto.
