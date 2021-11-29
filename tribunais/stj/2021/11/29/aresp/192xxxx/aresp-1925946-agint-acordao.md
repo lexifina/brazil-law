@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por CENTRO TRASMONTANO DE SÃO PAULO em face de decisão monocrática da lavra da Presidência desta Corte Superior de fls. 305-307 e-STJ que não conheceu do agravo em recurso especial, nos seguintes termos:
+ ..
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: não cabimento do REsp quando a tese recursal é eminentemente constitucional, ausência de afronta a dispositivo legal e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: não cabimento do REsp quando a tese recursal é eminentemente constitucional.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+ ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+ ..
+O aludido apelo extremo, fundado na alínea a e c do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fls. 185 e-STJ):
+"PLANO DE SAÚDE - PACIENTE COM NECESSIDADE DE HEMODIÁLISE - CLÁUSULA CONTRATUAL EXCLUIDORA DE ILEGALIDADE EVIDENTE - REDUÇÃO DE RISCOS PELA OPERADORA COM NÃO PRESTIGIAR - ATENDIMENTO DETERMINADO - DANO MORAL AFASTADO PELA RÁPIDA ATUAÇÃO DO JUDICIÁRIO E POR MERO PROBLEMA HAVIDO EM CONTRATO - DECISÃO REFORMADA EM PARTE - APELO PARCIALMENTE PROVIDO."
+___ .
+Nas razões do especial (fls. 203-226 e-STJ), a parte recorrente sustenta, em síntese, que o acórdão recorrido deve ser reformado, pois não poderia imputar à recorrente a obrigação de custeio do tratamento de hemodiálise que fora prescrito ao recorrido (parte autora da ação), sob o argumento de que tal obrigação não estava coberta pelo contrato que havia sido celebrado anteriormente à vigência da Lei 9656/1998, sob pena de violação do artigo 6º da Lei de Introdução às Normas de Direito Brasileiro, do artigo 35 da Lei 9656/1998 e o artigo 3º da Lei 10.850/2004.
+Argumenta que o acórdão recorrido contrariou o entendimento exarado na Ação Direta de Inconstitucionalidade n. 1931 julgada pelo Supremo Tribunal Federal na qual foi declarada a inconstitucionalidade dos artigos 10, § 2º e 35-E da Lei 9.656/1998, bem assim do artigo 2º da Medida Provisória n. 2177-44/2001.
+Aduz ainda ofensa ao disposto no artigo 54, § 4º, do Código de Defesa do Consumidor, bem como ao artigo 757 do Código Civil, defendendo a legitimidade da restrição constante no contrato firmado, que, embora seja de adesão, estava expresso de modo claro, destacado e de fácil compreensão a não cobertura do tratamento vindicado.
+Contrarrazões às fls. 249-257 e-STJ.
+O Tribunal local negou seguimento ao recurso especial (fls. 270-272 e-STJ), o que ensejou o manejo do agravo (fls. 275-281 e-STJ), que não foi conhecido ante a aplicação da Súmula 182/STJ pela Presidência desta Corte Superior (fls. 305-307 e-STJ).
+No presente agravo interno, a agravante sustenta ter impugnado especificamente os fundamentos da decisão de inadmissibilidade do reclamo, razão pela qual defende o conhecimento ao agravo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. AGRAVO INTERNO NÃO PROVIDO. PLANO DE SAÚDE. PLANOS E SEGUROS DE SAÚDE. LEI Nº 9.656/1998. IRRETROATIVIDADE. RECUSA DE COBERTURA. CLÁUSULA ABUSIVA. RECONHECIMENTO. POSSIBILIDADE. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICABILIDADE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1.042 do CPC) conhecido em juízo de retratação.
+2. Esta Corte Superior possui pacífica jurisprudência, no sentido de que, mesmo em se tratando de planos e seguros privados de assistência à saúde celebrados antes da vigência da Lei 9.656/98 (e não adaptados ao novel regime), as controvérsias jurídicas instauradas entre operadoras e usuários são solucionadas à luz do Código de Defesa do Consumidor, o qual alcança, inclusive, contratos que lhe sejam anteriores, por refletirem obrigações de trato sucessivo. Precedentes.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Cuida-se, inicialmente, de agravo interno interposto contra decisão da Presidência do STJ (fls. 305-307 e-STJ) que não conheceu do agravo nos próprios autos, por falta de impugnação de fundamento da decisão do Tribunal de origem que inadmitiu o recurso especial.
+No entanto, o agravo nos próprios autos refutou adequadamente a monocrática que negou seguimento ao especial.
+Desse modo, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo ao exame do especial.
+3. Não assiste razão à recorrente quanto à controvérsia acerca da negativa de cobertura de custeio do tratamento da hemodiálise, ao fundamento de que se trata de contrato não adaptado e anterior à vigência da Lei 9.656/1998.
+Nada obstante, ainda que se tratando de planos e seguros privados de assistência à saúde celebrados antes da vigência da Lei 9.656/1998 (e não adaptados ao novel regime), as controvérsias jurídicas instauradas entre operadoras e usuários são solucionadas à luz do Código de Defesa do Consumidor, o qual alcança, inclusive, contratos que lhe sejam anteriores, por refletirem obrigações de trato sucessivo, consoante se depreende dos seguintes precedentes desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PLANO DE SAÚDE. LEI Nº 9.656/1998. IRRETROATIVIDADE. RECUSA DE COBERTURA. SÚMULA Nº 7/STJ. AUSÊNCIA DE FUNDAMENTO CAPAZ DE ALTERAR A DECISÃO AGRAVADA.
+1. Segundo o entendimento desta Corte, os contratos de plano de saúde anteriores à vigência da Lei nº 9.656/1998 se submetem às normas do CDC para o fim de aferir eventual abusividade.
+2. A jurisprudência do Superior Tribunal de Justiça reconhece que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para cada uma delas.
+3. É abusiva a negativa de cobertura pelo plano de saúde de procedimento, tratamento, medicamento ou material considerado essencial para preservar a saúde e a vida do paciente.
+4. No caso, o tribunal de origem, com base nos elementos dos autos, interpretou o contrato de forma favorável à agravada, sendo inviável a alteração de suas conclusões na via eleita, haja vista a incidência da Súmula nº 7/STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 475.558/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/05/2015, DJe 02/06/2015)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E DO CONSUMIDOR. AÇÃO CIVIL PÚBLICA. PLANOS DE SAÚDE. LIMITAÇÃO OU RESTRIÇÃO A PROCEDIMENTOS MÉDICOS, FISIOTERÁPICOS E HOSPITALARES. CONTRATOS ANTERIORES À LEI 9.656/98. NÃO INCIDÊNCIA. CLÁUSULA ABUSIVA. RECONHECIMENTO. POSSIBILIDADE. CÓDIGO DE DEFESA DO CONSUMIDOR. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa ao art. 535 do CPC/73 o fato de o col. Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. As regras estabelecidas na Lei 9.656/98 restringem-se aos contratos de plano de saúde celebrados após sua vigência (art. 35), mas o abuso de cláusula contratual prevista em avenças celebradas em datas anteriores pode ser aferido com base no Código de Defesa do Consumidor.
+3. À luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fisioterápicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fisioterapia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes.
+4. Se há cobertura de doenças ou sequelas relacionadas a certos eventos, em razão de previsão contratual, não há possibilidade de restrição ou limitação de procedimentos prescritos pelo médico como imprescindíveis para o êxito do tratamento, inclusive no campo da fisioterapia.
+5. Agravo interno não provido.
+(AgInt no REsp 1349647/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/11/2018, DJe 23/11/2018)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO INDENIZATÓRIA - RECUSA DE AUTORIZAÇÃO PARA REALIZAÇÃO DE TRATAMENTO DOMICILIAR - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE RÉ.
+1. A jurisprudência do STJ firmou-se no sentido de que a impugnação, no agravo, de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas.
+2. Aplicação da Lei 9.656/98 a contratos anteriores à sua vigência. Embora as disposições do aludido diploma legal, que dispõe sobre os planos e seguros privados de assistência à saúde, não retroajam para atingir contratos celebrados antes de sua vigência (quando não adaptados ao novel regime), a eventual abusividade das cláusulas pode ser aferida à luz do Código de Defesa do Consumidor. Isto porque "o contrato de seguro de saúde é obrigação de trato sucessivo, que se renova ao longo do tempo e, portanto, se submete às normas supervenientes, especialmente às de ordem pública, a exemplo do CDC, o que não significa ofensa ao ato jurídico perfeito" (AgRg no Ag 1.341.183/PB, Rel. Ministro Massami Uyeda, Terceira Turma, julgado em 10.04.2012, DJe 20.04.2012). Precedentes.
+3. Ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor (desde que escritas com destaque, permitindo imediata e fácil compreensão, nos termos do § 4º do artigo 54 do Código de Defesa do Consumidor), revela-se abusivo o preceito excludente do custeio dos meios e materiais necessários ao melhor desempenho do tratamento clínico, indicado pelo médico que acompanha o paciente, voltado à cura de doença efetivamente coberta.
+Incidência da Súmula 83/STJ.
+4. Em observância ao princípio da unirrecorribilidade das decisões judiciais e da ocorrência da preclusão consumativa, o segundo agravo regimental apresentado não merece ser conhecido.
+5. Primeiro agravo regimental desprovido. Segundo regimental não conhecido, por força da preclusão consumativa.
+(AgRg no AREsp 835.326/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO CPC/73. PLANO DE SAÚDE. LEI N. 9.656/98. RESTITUIÇÃO EM DOBRO COM BASE NO CDC. HOSPITAL E MÉDICOS NÃO CREDENCIADOS. CIRURGIA BARIÁTRICA. COMPLICAÇÕES. TRATAMENTO DE URGÊNCIA. TRATAMENTO PARTICULAR. SOLICITAÇÃO DE REEMBOLSO. INDENIZAÇÃO POR DANO MORAL.
+1. Não configura violação do art. 535 do CPC a decisão que examina, de forma fundamentada, as questões submetidas à apreciação judicial.
+2. A repetição em dobro do indébito, prevista no art. 42, parágrafo único, do CDC, pressupõe tanto a existência de pagamento indevido quanto a má-fé do credor.
+3. Aplica-se o Código de Defesa do Consumidor ao contrato de plano de saúde administrado por entidade de autogestão, pois "a relação de consumo caracteriza-se pelo objeto contratado, no caso a cobertura médico-hospitalar, sendo desinfluente a natureza jurídica da entidade que presta os serviços" (REsp n. 469.911/SP).
+4. As regras estabelecidas na Lei n. 9.656/98 não retroagem para alcançar contratos celebrados antes de sua vigência. Na hipótese de abusividade de cláusulas contratuais em avença firmada em data anterior, elas podem ser revistas com base no Código de Defesa do Consumidor.
+5. Recurso especial conhecido e parcialmente provido.
+(REsp 1392560/PE, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 09/08/2016, DJe 06/10/2016)
+DIREITO CIVIL E CONSUMIDOR. SEGURO SAÚDE. CONTRATAÇÃO ANTERIOR À VIGÊNCIA DO CDC E À LEI 9.656/98. EXISTÊNCIA DE TRATO SUCESSIVO. INCIDÊNCIA DO CDC, MAS NÃO DA LEI 9.656/98. BOA-FÉ OBJETIVA. PRÓTESE NECESSÁRIA À CIRURGIA DE ANGIOPLASTIA. ILEGALIDADE DA EXCLUSÃO DE "STENTS" DA COBERTURA SECURITÁRIA. DANO MORAL CONFIGURADO. DEVER DE REPARAR OS DANOS MATERIAIS.
+- As disposições da Lei 9.656/98 só se aplicam aos contratos celebrados a partir de sua vigência, bem como para os contratos que, celebrados anteriormente, foram adaptados para seu regime. A Lei 9.656/98 não retroage, entretanto, para atingir o contrato celebrado por segurados que, no exercício de sua liberdade de escolha, mantiveram seus planos antigos sem qualquer adaptação.
+- Embora o CDC não retroaja para alcançar efeitos presentes e futuros de contratos celebrados anteriormente a sua vigência, a legislação consumerista regula os efeitos presentes de contratos de trato sucessivo e que, por isso, foram renovados já no período de sua vigência.
+- Dada a natureza de trato sucessivo do contrato de seguro saúde, o CDC rege as renovações que se deram sob sua vigência, não havendo que se falar aí em retroação da lei nova.
+- A cláusula geral de boa-fé objetiva, implícita em nosso ordenamento antes da vigência do CDC e do CC/2002, mas explicitada a partir desses marcos legislativos, impõe deveres de conduta leal aos contratantes e funciona como um limite ao exercício abusivo de direitos.
+(..)
+Recurso especial a que se dá parcial provimento.
+(REsp 735.168/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11.03.2008, DJe 26.03.2008)
+Estando, pois, o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, o recurso especial não merece ser conhecido, ante a incidência da Súmula 83/STJ.
+Portanto, nesse contexto a operadora de plano de saúde está obrigada a proceder à cobertura financeira do tratamento vindicado, em razão de ser abusiva a cláusula contratual excludente do referido tratamento considerado indispensável para a recuperação do usuário do plano de saúde.
+4. Ante o exposto, RECONSIDERO a decisão da Presidência do STJ e, em novo exame, NEGO PROVIMENTO ao agravo em recurso especial. Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, estabeleço a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+É o voto.
