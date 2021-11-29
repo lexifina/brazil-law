@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo manejado pelaDefensoria Pública do Estado do Rio de Janeiro,desafiandodecisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado no que interessa (fls. 327/328):
+APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER. REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. SENTENÇA DE PROCEDÊNCIA. IMPOSSIBILIDADE DE CONDENAR O ESTADO DO RIO DE JANEIRO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS, EM FAVOR DA DEFENSORIA PÚBLICA. CONFUSÃO ENTRE CREDOR E DEVEDOR. A DEFENSORIA PÚBLICA É ÓRGÃO DO ESTADO DO RIO DE JANEIRO, LOGO A ESTE NÃO PODE IMPOR CONDENAÇÃO NOS HONORÁRIOS EM FAVOR DAQUELE CENTRO DE ESTUDOS, CONFORME JURISPRUDÊNCIA ITERATIVA DO STJ. APLICAÇÃO DAS SÚMULAS 421 DO STJ E SUMULA 80 DO TJ/RJ. CONTUDO, OS HONORÁRIOS ADVOCATÍCIOS SÃO DEVIDOS PELO ENTE MUNICIPAL. NÃO EXISTE QUALQUER INCOMPATIBILIDADE ENTRE A EMENDA CONSTITUCIONAL 80/2014 E A LEGISLAÇÃO INFRACONSTITUCIONAL QUE GARANTE À DEFENSORIA PÚBLICA A PERCEPÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA.
+A saúde é direito fundamental assegurado constitucionalmente a todo cidadão, devendo os poderes públicos fornecer assistência médica e farmacêutica aos que dela necessitarem, cumprindo fielmente o que foi imposto pela Constituição da República.
+A imposição de condenação do Município ao pagamento de honorários advocatícios em favor da CEJUR revela-se acertada, diante da sucumbência do ente municipal.
+ ..
+NEGADO PROVIMENTO AO RECURSO DA PARTE AUTORA, DÁ-SE PARCIAL PROVIMENTO AO RECURSO DO MUNICÍPIO/ RÉU, E, DE OFÍCIO, REFORMA-SE A SENTENÇA PARA CONDENAR O MUNICÍPIO DE QUEIMADOS AO PAGAMENTO DA TAXA JUDICIÁRIA.
+Opostos embargos declaratórios, foram estes rejeitados (fls. 424/429).
+Nas razões do recurso especial, a parte agravante apontaofensa aos arts. 85,§§ 2º,3º, 4º e 5º,do CPC. Para tanto, sustenta que o Tribunal a quo, ao fixar os honorários advocatícios no valor irrisóriodeR$500,00, com amparo no § 8º, violou"a regra dos §§ 3º e 4º do artigo 85 do CPC/2015, isto porque o acórdão o acórdão se afastou da regra do artigo 85 e seus §§ 2º, 3º e 4º, estabelecendo valor fixo acima referido, ou seja, afastou a condenação da sentença de 10% sobre o valor atualizado da causa (62.200,00)" (fl. 449).
+Assevera que "não há equidade, muito menos razoabilidade, na fixação de verba advocatícia tão reduzida, que positivamente não é compatível com o trabalho desenvolvido pela Defensoria Pública" (fl. 454).
+Contrarrazões apresentadas às fls. 445/456.
+É O RELATÓRIO, SEGUE A FUNDAMENTAÇÃO.
+No caso, o Tribunal local concluiu que,em demandas dessa natureza,não há mais razão para se limitar o arbitramento da verba honorária,nos seguintes termos (fls. 344/345):
+Entretanto, em relação ao valor arbitrado, merece prosperar a pretensão do município com a redução do valor fixado, nos termos do art. 85, § 8º do CPC, sugerindo-se, para R$ 500,00.
+Ressalta-se, que não se justifica mais a limitação no arbitramento dos honorários advocatícios quando a ação versar sobreprestação unificada de saúde, diante do cancelamento do enunciado nº 182 deste TJERJ e dos critérios estabelecidos pelo Código de Processo Civil.
+A respeito do tema, este Superior Tribunal tem asseverado queos honorários advocatícios podem ser arbitrados por apreciação equitativa nas demandas envolvendo medicamentos, haja vista que, nesses casos, não é possível mensurar, via de regra, o proveito econômico obtido com a ação.
+Por oportuno, sobressaem as ementas dos seguintes julgados:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTO. HONORÁRIOS DE ADVOGADO. FIXAÇÃO, PELO TRIBUNAL A QUO, DE ACORDO COM A COMPLEXIDADE DA CAUSA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO IMPROVIDO.
+I.  ..
+VII. Ainda que assim não fosse, em caso análogo o STJ considerou que "nas ações em que se busca o fornecimento de medicação gratuita e de forma continua pelo Estado, para fins de tratamento de saúde, o Superior Tribunal de Justiça tem admitido o arbitramento dos honorários de sucumbência por apreciação equitativa, tendo em vista que o proveito econômico obtido, em regra, é inestimável. Na instância especial, a revisão do juízo de equidade para a fixação da verba honorária somente é admitida nos casos em que o valor arbitrado é irrisório ou exorbitante, circunstância que não se vislumbra nos autos" (STJ, AgInt no AREsp 1.234.388/SP, Rel.
+Ministro GURGEL DE FARIA. PRIMEIRA TURMA, DJe de 05/02/2019).
+VIII. Agravo interno improvido.
+(AgInt no AREsp 1.401.317/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 14/5/2019, DJe 21/5/2019)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS EXCESSIVOS. FORNECIMENTO DE MEDICAMENTOS. VALOR INESTIMÁVEL. EQUIDADE. ART. 85, §8º, CPC.
+1. Na hipótese dos autos, à luz do disposto no art. 85, § 8º, do CPC/2015, "nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+2. Nas ações em que se busca o fornecimento de medicação gratuita e de forma contínua pelo Estado, para fins de tratamento de saúde, o Superior Tribunal de Justiça tem admitido o arbitramento dos honorários de sucumbência por apreciação equitativa, tendo em vista que o proveito econômico obtido, em regra, é inestimável.
+3. Ocorre, por outro lado, que o juízo de equitatividade, fundado no art. 85, §8º, do CPC, também não pode franquear uma interpretação tal que importe a diminuição exagerada da verba honorária, de forma a torná-la efetivamente irrisória se considerados os patamares legais estabelecidos no novo Código de Processo Civil, obliterando o art. 85, §3º, do referido codex.
+4. In casu, extrai-se do acórdão vergastado que a intervenção do patrono contribuiu para o fornecimento dos medicamentos, orçados em R$189.000,00.
+5. Dessarte, utilizando-se como baliza o disposto no art. 85, §8º, e verificando-se como excessivo o valor dos honorários estabelecidos, o recurso deve ser parcialmente provido, diminuindo-se a verba honorária para R$15.000,00 (quinze mil reais).
+6. Recurso Especial parcialmente provido.
+(REsp 1.799.841/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/5/2019, DJe 2/8/2019)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. O Plenário do STJ decidiu que, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. À luz do disposto no art. 85, § 8º, do CPC/2015, "nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+3. Nas ações em que se busca o fornecimento de medicação gratuita e de forma continua pelo Estado, para fins de tratamento de saúde, o Superior Tribunal de Justiça tem admitido o arbitramento dos honorários de sucumbência por apreciação equitativa, tendo em vista que o proveito econômico obtido, em regra, é inestimável.
+4. Na instância especial, a revisão do juízo de equidade para a fixação da verba honorária somente é admitida nos casos em que o valor arbitrado é irrisório ou exorbitante, circunstância que não se vislumbra nos autos.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.234.388/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 4/12/2018, DJe 5/2/2019)
+Ademais, cumpre ressaltar que a jurisprudência do STJ se orienta no sentido da impossibilidade de revisão, em recurso especial, do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância daverba arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+No caso, o Tribunal de origem estabeleceu a verba honorária no valor de R$500,00 (quinhentos reais), considerando as peculiaridades fáticas do presente feito, que busca tutela da saúde.
+Dessarte, não configurada a excepcionalidade exigida pela jurisprudência desta Corte, não se mostra possível a alteração do parâmetro estabelecido pela Corte local a título de honorários advocatícios, tal como pleiteado pela parte recorrente.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. O Plenário do STJ decidiu que, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. À luz do disposto no art. 85, § 8º, do CPC/2015, "nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+3. Nas ações em que se busca o fornecimento de medicação gratuita e de forma continua pelo Estado, para fins de tratamento de saúde, o Superior Tribunal de Justiça tem admitido o arbitramento dos honorários de sucumbência por apreciação equitativa, tendo em vista que o proveito econômico obtido, em regra, é inestimável.
+4. Na instância especial, a revisão do juízo de equidade para a fixação da verba honorária somente é admitida nos casos em que o valor arbitrado é irrisório ou exorbitante, circunstância que não se vislumbra nos autos.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.234.388/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 4/12/2018, DJe 5/2/2019)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS EXCESSIVOS. FORNECIMENTO DE MEDICAMENTOS. VALOR INESTIMÁVEL. EQUIDADE. ART. 85, §8º, CPC.
+1. Na hipótese dos autos, à luz do disposto no art. 85, § 8º, do CPC/2015, "nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+2. Nas ações em que se busca o fornecimento de medicação gratuita e de forma contínua pelo Estado, para fins de tratamento de saúde, o Superior Tribunal de Justiça tem admitido o arbitramento dos honorários de sucumbência por apreciação equitativa, tendo em vista que o proveito econômico obtido, em regra, é inestimável.
+3. Ocorre, por outro lado, que o juízo de equitatividade, fundado no art. 85, §8º, do CPC, também não pode franquear uma interpretação tal que importe a diminuição exagerada da verba honorária, de forma a torná-la efetivamente irrisória se considerados os patamares legais estabelecidos no novo Código de Processo Civil, obliterando o art. 85, §3º, do referido codex.
+4. In casu, extrai-se do acórdão vergastado que a intervenção do patrono contribuiu para o fornecimento dos medicamentos, orçados em R$189.000,00.
+5. Dessarte, utilizando-se como baliza o disposto no art. 85, §8º, e verificando-se como excessivo o valor dos honorários estabelecidos, o recurso deve ser parcialmente provido, diminuindo-se a verba honorária para R$15.000,00 (quinze mil reais).
+6. Recurso Especial parcialmente provido.
+(REsp 1.799.841/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/5/2019, DJe 2/8/2019)
+PROCESSUAL CIVIL. ADMINISTRATIVO. TRATAMENTO DE SAÚDE. TRANSFERÊNCIA DE HOSPITAL. LIMINAR SATISFATIVA. PERDA DE OBJETO. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. O acórdão recorrido encontra-se em consonância com o entendimento consolidado desta Corte Superior no sentido de que a concessão da tutela antecipada para garantir a transferência da recorrida para hospital especializado ao seu tratamento não retira o interesse de agir da parte, nem impõe a conseguinte extinção terminativa do feito por perda de objeto. Precedentes da Corte.
+2. A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+3. Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.065.109/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 5/10/2017, DJe 23/10/2017)
+ANTE O EXPOSTO, nego provimentoao agravo.
+Publique-se.
