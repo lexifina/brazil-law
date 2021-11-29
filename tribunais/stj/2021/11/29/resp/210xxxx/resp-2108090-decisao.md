@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manejado por Paulo Roberto de Oliveira Vileladesafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado do Paraná, que não admitiu recurso especial com base nos seguintes fundamentos: (I)não há nenhuma vinculação entre as matérias em exame capaz de ensejar o sobrestamento do feito à luz dos recursos especiais repetitivos 1.696.396 e 1.704.520; (II)incidência da Súmula 7/STJ, por impossibilidade de reexame do conjunto fático probatório dos autos; e (III) para a concessão deefeito suspensivo é necessário, além da comprovaçãodo fumus boniiurise periculum in mora, que o recurso especial seja previamente admitido na origem, oque não ocorreu no presente caso, ficando, desse modo, prejudicado o pleito.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De plano, verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, como o recurso especial foi inadmitido tendo por base a ausência de vínculo entre as matériascapaz de ensejar o sobrestamento do feito à luz dos recursos especiais repetitivos 1.696.396 e 1.704.520,caberia ao recorrente demonstrar o desacerto do decisum quanto à questão, providência da qual não se desincumbiu.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar osEAREsp 701.404/SC e osEAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO,não conheço do agravo.
+Publique-se.
