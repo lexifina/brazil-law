@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ALBERTO FERRAZ DA SILVA, no qual se aponta como autoridade coatora Desembargador Relator do Tribunal de Justiça do Estado de Goiás, que indeferiu a liminar em mandamus prévio (e-STJ, fls. 23-24).
+Neste writ, a impetrante alega constrangimento ilegal, uma vez que não obstante tenha ocorrido o término da pena em 10/1/2021, o paciente ainda se encontra preso.
+Afirma que o reeducando foi regredido por fato novo, tendo sido expedido mandado de prisão há poucos meses para a extinção da pena. Foi protocolado pedido de progressão de regime em 20/11/2020, o qual foi indeferido em 9/2/2021, a seu ver, injustamente em razão da extinção da pena em 10/1/2021.
+Requer, inclusive liminarmente, a revogação da prisão preventiva, expedindo-se o alvará de soltura.
+A liminar foi indeferida (e-STJ, fl. 31) e as informações prestadas (e-STJ, fls. 35-42 e 51-57).
+O Ministério Público ofertou parecer às e-STJ, fls. 62-65, opinando pelo parcial cabimento do habeas corpus, para análise do mérito da impetração pelo Tribunal de origem.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.").
+Ilustrativamente:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PLEITO DE APRESENTAÇÃO DE MEMORIAIS ESCRITO E NO PRAZO RAZOÁVEL. ALEGADA COMPLEXIDADE DO FEITO. TEMA A SER EXAMINADO PELO JUÍZO PROCESSANTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Na espécie, o Juízo de 1º grau, explicitamente, afastou a necessidade de apresentação das alegações finais por escrito, ao afirmar que não se tratava de feito complexo, bem como o número de acusados fora reduzido com o desmembramento da ação penal. Assim, modificar tal entendimento demandaria incursão no acervo probatório dos autos, inviável na sede eleita. Impossibilidade de superação do enunciado sumular 691/STF.
+3. Por outro lado, nada impede que o Juízo Processante, ao final da instrução e pela proximidade com os fatos, possa reavaliar o pleito defensivo de apresentação de alegações finais por escrito, momento em que examinará a verdadeira complexidade do feito, lembrando-se que o cumprimento do princípio constitucional da duração razoável do processo (art. 5º, LXXVIII, da CF) não pode sobrepor às garantias constitucionais do cidadão no processo penal, em especial o respeito ao contraditório e à ampla defesa (art. 5º, LV, da CF).
+4. Agravo regimental improvido." (AgRg no HC 495.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/03/2019, DJe 29/03/2019).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF.
+2. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, tendo em vista que foi demonstrada a necessidade de manutenção da segregação cautelar, em virtude da "participação ativa do paciente na quadrilha voltada ao tráfico de entorpecentes, com a qual foi apreendida mais de 01 (uma) tonelada de cocaína, figurando o paciente na ORCRIM como piloto da aeronave".
+3. Conforme orientação desta Corte, a quantidade e a natureza da droga apreendida, bem como a necessidade de se interromper as atividades de organização criminosa, são circunstâncias aptas a justificar a segregação provisória.
+4. Agravo regimental desprovido." (AgRg no HC 496.205/MT, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/03/2019, DJe 01/04/2019).
+"PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.  .. ." (HC n. 486.900/SP, deste Relator, Quinta Turma, DJe de 26/2/2019).
+Na hipótese dos autos, não se constata flagrante ilegalidade a ensejar a concessão da ordem, de ofício. Por oportuno, transcreve-se o teor da decisão proferida pelo Desembargador Relator:
+"Passo a apreciar o pedido de tutela de urgência.
+A concessão de liminar, no âmbito da ação constitucional de habeas corpus, reserva-se aos casos excepcionais de ofensa manifesta ao direito de locomoção do paciente, desde que preenchidos os seus pressupostos legais, quais sejam, o fumus boni juris e o periculum in mora.
+No caso em estudo, em que pesem as considerações iniciais, a par da unilateralidade probatória lançada aos autos até o presente momento, tenho como indispensáveis para o amadurecimento da causa os informes da autoridade coatora e o respectivo parecer ministerial de cúpula, visto que não observo, numa análise perfunctória, os requisitos autorizadores da medida liminar.
+Ademais, não constam nos autos informações mais precisadas quanto às possíveis situações que por ventura comprovem os requisitos da concessão do pedido, de modo que se fazem necessárias a colheita dos informes pela autoridade intitulada coatora.
+Diante disso, indefiro a medida de urgência.
+Oficie-se à autoridade indigitada coatora para que preste as informações que reputar necessárias, no prazo de 48 (quarenta e oito) horas.
+Em seguida, encaminhem-se os autos à Procuradoria de Justiça, para que se manifeste sobre a ordem impetrada, no prazo de lei.
+Cumpra-se e intimem-se." (e-STJ, fls. 23-24).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
