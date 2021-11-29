@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCIANO CARLOS NIZAem que se aponta como autoridade coatoraTribunal de Justiça do Estado de Minas Gerais(HC n. 1.0000.21.233654-9/000).
+Opaciente teve a prisão em flagrante decretada (fls. 42-44)por suposta prática do delito descrito no art. 121, § 2º,IIe IV,do Código Penal.
+O decreto prisional fundou-se no fato de o paciente responder a outras ações penais pelos crimes de ameaça e de receptação e no modus operandi do delito.Impetrado writ originário, a ordem foi denegada.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois o decreto prisional não apresentou fundamentação idônea.
+Aduzque o delito imputado ao paciente está acobertado pela excludente de ilicitude da legítima defesa.
+Pugna pela aplicação de medidas cautelares diversas da prisão.
+Requer a revogação da prisão preventiva ou a aplicação demedidas cautelares alternativas.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 48-50, destaquei):
+Concessa venia, não vejo como atender o pleito requerido na exordial, no que tange à revogação da cautelar.
+Analisando o édito constritivo anexado às fls. 45/47 dos autos eletrônicos, verifico que o juízo apontado coator decretou a prisão preventiva do paciente com fundamento na gravidade concreta dos fatos, bem como ante ao reiterado contato do acusado com a Justiça Criminal, sendo a custódia necessária para assegurar a garantia da ordem pública, argumentos, estes, suficientes para a manutenção da prisão cautelar, neste momento de cognição sumária. Assim se manifestou S. Exa., verbis:  .. .
+Do trecho da decisão guerreada, vê-se que, diferente do alegado pela defesa, a segregação cautelar do acusado não foi decretada para assegurar à aplicação da lei penal, inexistindo, portanto, qualquer ilegalidade quanto a este fundamento.
+Por outro lado, entendo que o edito segregatório bem delineou o risco à ordem pública gerado pelo estado de liberdade do requerente. Inicialmente, a autoridade judiciária invocou a gravidade concreta dos fatos, tendo em vista que o autor, em tese, atacou a vítima com uma churrasqueira, bem como golpeou-lhe, pelas costas, com uma faca.
+ ..
+Nessa senda, entendo que, no caso em tela, o modus operandi do crime demonstra, em um juízo valorativo baseado em elementos concretos e não puramente abstratos, que há dados objetivos para se concluir que o paciente, solto, simboliza um risco à ordem pública, pela propensão para a repetição de novas infrações deste jaez.
+Outro fundamento apontado pela autoridade judiciária para a manutenção da custódia são os registros criminais pretéritos do acusado.Em que pese a inexistência de CAC e FAC nos autos deste writ, verifico no site deste Tribunal que o paciente é réu na ação penal nº 0023104-31.2018.8.13.0429, pelos crimes de ameaça e receptação.
+ ..
+Dessa forma, entendo que o contato reiterado do paciente com a Justiça Criminal é motivo justificador da cautela, pois não se pode perder de vista que um dos escopos da segregação na fase cognitiva processual é, precisamente, garantir a ordem pública.
+ ..
+A base jurídica da fundamentação acima expendida está em que se o paciente vem sendo processado criminalmente de forma reiterada, existindo razão lógica e plausível para concluir que a sua liberdade possa causar perturbações de monta à ordem social, gerando intranquilidade à coletividade, em evidente ofensa à ordem pública e, mesmo, à credibilidade da justiça criminal.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Observa-se que o modus operandi do delito eo fato de opacienteresponder a outraação penal foram considerados pelo Tribunal de origem para denegar a ordem do writ originário.
+A prisão preventiva tem natureza excepcional, estando sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 282, I e II, 312, 313 e 315 do Código de Processo Penal, com as alterações da Lei n. 13.964/2019.
+Registre-se também que a gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo (RHC n. 119.549/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 26/2/2020).
+Além disso,inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Por fim, no que diz respeito à excludente de ilicitude da legítima defesa, veja-se a manifestação do Tribunal a quo (fl. 49):
+Embora a defesa traga à tona a tese de legítima defesa, o que obstaria a manutenção da prisão preventiva por força do art. 310, I, §1º, do CPP, entendo que os elementos existentes nos autos não evidenciam, de forma cristalinatal tese, havendo, inclusive, indícios contrários, como o relato da jovem Marley às fls. 53/54.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
