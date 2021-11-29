@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto em face de acórdão assim ementado (fl. 199):
+EMENTA: HABEAS CORPUS - FURTO QUALIFICADO - PRISÃO PREVENTIVA - MANUTENÇÃO - NECESSIDADE - PRESENÇA DOS PRESSUSPOSTOS DOS ARTIGOS 312 E SEGUINTES DO CPP - REITERAÇÃO DELITIVA - PERICULUM LIBERTATIS - APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO PROCESSUAL - NÃO CABIMENTO - PRINCÍPIO DA INOCÊNCIA OBSERVADO - SUBSTITUIÇÃO DA PRISÃO PREVENTIVA PELA PRISÃO DOMICILIAR - PACIENTE QUE POSSUI FILHO MENOR DE 12 ANOS - IMPOSSIBILIDADE - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+-Presentes a prova de materialidade e os indícios de autoria delitiva, bem como demonstrado o periculum libertatis do paciente, sobretudo diante de sua reiteração delitiva, imperiosa a manutenção de sua prisão processual para a garantia da ordem pública.
+-Impossível à substituição da prisão processual por quaisquer medidas previstas no art. 319 do CPP, por não serem suficientes, no presente caso, para garantia da ordem social.
+-Estando à preventiva devidamente justificada, não há prejuízo ao princípio da presunção de inocência, que diz respeito à proibição da antecipação dos efeitos de eventual sentença, como por exemplo, a execução da pena, inscrição do nome do réu no rol dos culpados, suspensão dos direitos políticos e pagamento de custas.
+-Tendo em vista o novo posicionamento do Supremo Tribunal Federal, o simples fato de o paciente possuir filho menor de 12 (doze) anos de idade não importa, automaticamente, na concessão da sua prisão domiciliar, podendo ser o benefício negado em casos considerados excepcionalíssimos. Tratando-se de faculdade conferida ao Juiz, é imperiosa a análise das demais circunstâncias do caso concreto, visando a proteção integral da criança.
+Consta dos autos que o recorrente foi preso em flagrante em 29/8/2021, custódia convertida em preventiva, em razão da prática do delito previsto no art. 155, § 4º, II e IV do Código Penal.
+No presente recurso, alega a defesa a ausência de fundamentação do decreto prisional, bem como dos requisitos autorizadores da segregação cautelar.
+Sustenta "que o Paciente está preso pela suposta prática de furto (crime sem violência e grave ameaça contra à pessoa) por ter subtraído uma garrafa de Whisky avaliada em torno de R$ 70,00 da rede de supermercado Paranaíba, produto este que corresponde a menos de 7% do salário mínimo vigente a época dos fatos".
+Assevera que o paciente "é o único responsável pelos cuidados de seu filho de 6 (seis) e 10 (dez) anos de idade".
+Requer, assim, liminarmente, seja o paciente posto em liberdade até o julgamento final do presente writ. No mérito, pugna pela declaração de nulidade do decreto prisional, fixando-se medidas cautelares diversas da prisão ou, seja concedida a prisão domiciliar, nos termos do art. 318, VI, do CPP.
+Em consulta ao sítio processual desta Corte Superior, constata-se a impetração do Habeas Corpus n. 704.326/MG, no qual consta o mesmo paciente e o mesmo ato coator do presente mandamus, em que a fundamentação e os requisitos da prisão preventiva já restaram analisados, bem como o pedido de prisão domiciliar. O remédio constitucional citado foi indeferido liminarmente em 17/11/2021, DJe de 19/11/2021.
+Dessa forma, constata-se que a presente impetração é mera reiteração do Habeas Corpus anterior.
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
