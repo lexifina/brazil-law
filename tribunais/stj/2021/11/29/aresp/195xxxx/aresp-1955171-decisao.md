@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo de JOSÉ RAJÃO FILHOem face de decisão proferida noTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOSque inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal - CF, contra acórdão proferido no julgamento do Agravo em Execuçãon. 0745042-64.2020.8.07.0000.
+Consta dos autos que o Juízo da MM. Vara de Execuções Penais do Distrito Federa indeferiu o pleito defensivo de concessão de prisão domiciliar humanitária em razão da pandemia decorrente da Covid-19, formulado em favor do ora agravante. (fl. 364).
+Recurso de agravo em execuçãointerposto pela Defesa foi desprovido (fl. 370). O acórdão ficou assim ementado:
+"AGRAVO EM EXECUÇÃO. PRISÃO DOMICILIAR HUMANITÁRIA. EXCEPCIONALIDADE. DEMONSTRAÇÃO DA GRAVIDADE E DA IMPOSSIBILIDADE DE ASSISTÊNCIA POR PARTE DO SISTEMA PRISIONAL. PANDEMIA DE COVID-19. GRUPO DE RISCO. AUSÊNCIA DE CONCESSÃO AUTOMÁTICA. RECOMENDAÇÃO Nº 62 DO CNJ. DECISÃO MANTIDA.1. A Recomendação nº 62 do CNJ, editada em razão da pandemia, não orienta os magistrados à soltura indiscriminada daqueles que compõem o grupo de risco. A concessão do benefício da prisão domiciliar com lastro na referida recomendação depende de relatório médico e da constatação de que o sistema carcerário não é capaz de prestar assistência ao preso.2. Deve ser mantida a decisão pela qual o juiz da execução indeferiu o pedido de concessão de prisão domiciliar, já que não demonstrada a excepcionalidade da situação e a impossibilidade de o sistema penitenciário conceder assistência ao preso.3. Recurso desprovido" (fl. 363).
+Embargos de declaração opostos pelo Defesa foram rejeitados. O acórdão ficou assim ementado:
+"EMBARGOS DE DECLARAÇÃO. AGRAVO EM EXECUÇÃO. OMISSÃO. INEXISTÊNCIA DE VÍCIOS. MERO INCONFORMISMO. REJEIÇÃO.1. Os embargos de declaração têm por finalidade sanar ambiguidade, obscuridade, contradição ou omissão contida na r. sentença ou no v. acórdão, nos termos do art. 619 do Código de Processo Penal. O mero inconformismo da parte não se coaduna com os estreitos limites dos embargos de declaração.2. Recurso desprovido" (fl. 22).
+Em sede de recurso especial (fls. 410/418), a Defesa apontou, além de divergência jurisprudencial,violação ao art. 590 do CPPM e aos arts. 588 A 590 do Decreto-Lei n. 1002/69. Sustenta quematéria de competência suscitada é de ORDEM PÚBLICA, podendo ser arguida a qualquer tempo, não podendo o poder judiciário se furtar a sua análise.A execução da sentença na Justiça Militar da União é de competência do Juiz-Auditor, a teor do art. 588 do CPPM e do art.610 do CPPM, sendo igualmente quem fiscaliza o cumprimento das condições impostas na sentença.
+Salienta que adecisão do Tribunal do Distrito Federal não se atentou que os fatos imputados remontam o ano de 1995, e a condenação só transitou em julgado em 07/11/2014,e o cumprimento da pena só teve início em janeiro de 2021. A condenação foi no regime semiaberto, o crime cometido não foi praticado com violência, sendo quea prisão do agravante ocorre no auge de uma das maiores pandemias mundiais, quando este chega aos 75 (setenta e cinco) anos, devendo ser concedida a prisão humanitária.
+Requer o reconhecimentoda incompetência da Vara de Execução Penal e o cumprimento da Recomendação n. 62, concedendo ao agravante a prisão domiciliar humanitária.
+Contrarrazões doMINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS (fls. 429/431).
+O recurso especial foi inadmitido no TJ em razão de: a) óbice das Súmulas ns. 211/STJ e 282/STF; b) impossibilidade de interposição do recurso especial sob a alegação de violação a resolução, portaria, circulares e demais atos normativos de hierarquia inferior a decreto; c) óbice da Súmula n. 83 do STJ (fls. 426/428).
+Em agravo em recurso especial, a Defesa impugnou os referidos óbices (fls. 435/448).
+Contraminuta do MP (fls. 448)
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo prejuízo do recurso especial (fls. 463/465).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+Nos termos do parecer ministerial, de acordo com as informações extraídas do Sistema Eletrônico de Execução Unificado - SEEU, sobre o andamento da Execução n.0018143-64.2016.8.07.0015, infere-se que após a concessão de progressão ao regime aberto, em 04/10/2021, foi deferido o benefício da prisão domiciliar, ora pleiteado, em 05/10/2021.
+Assim, considerando que o pleito principal de concessão da prisão humanitária ao recorrentejá fora atendido, não persiste interesse recursal neste feito. No sentido:
+CRIMINAL. RESP. EXECUÇÃO. FALTA GRAVE. REGRESSÃO. CUMPRIMENTO DA PENA. FUNDAMENTOS SUPERADOS. RECURSO ESPECIAL PREJUDICADO.
+I. Evidenciado o cumprimento da pena, com o arquivamento dos autos de execução a ele referentes, tem-se como superados os fundamentos da irresignação, restritos ao pleito de regressão de regime prisional pelo cometimento de falta grave.
+II. Recurso especial julgado prejudicado.
+(REsp 688.971/RS, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 15/02/2005, DJ 07/03/2005, p. 343).
+Ante o exposto, conheço do agravo para julgar prejudicado o recurso especial.
+Publique-se. Intimem-se.
