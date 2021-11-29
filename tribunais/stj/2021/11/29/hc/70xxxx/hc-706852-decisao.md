@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Matheus Araujo Kuradomicontra o acórdão proferido pelo Tribunal de Justiça de São Paulo, que denegou a ordem no HC n. 2239511-55.2021.8.26.0000.
+Colhe-se dos autos que opacientetevedecretada a prisão preventiva, em razão da suposta prática do delito previsto no art. 33 da Lei n. 11.343/2006(fls. 105/109).
+Inconformada, a defesa impetrouhabeas corpusna origem. O Tribunala quodenegou a ordem (fls. 134/141).
+Daí a presente impetração, em que se alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da constrição cautelar.
+Sustenta-se que a custódia preventiva está fundamentada na gravidade abstrata do delito, de forma genérica.
+Assere-se que a ação penal apontada pelo Magistrado singular não é capaz de sustentar o decreto prisional.
+Ressaltam-se os predicados favoráveis dopaciente, tais como residência fixa.
+Defende-se que os crimes não foram cometidos com violência ou grave ameaça.
+Requer-se, assim, a revogação do decreto ou a aplicação de medidas cautelares diversas da prisão.
+Indeferida a liminar em 18/11/2021 e solicitadas as informações, essas foram prestadas às fls. 154/268.
+O Ministério Público Federal, em seu parecer, opinou pela denegação da ordem(fls. 270/274).
+Éo relatório.
+Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+Quanto aos fundamentos da custódia cautelar, o Juízo de origem, ao converter a prisão em flagrante em preventiva, assim fundamentou a sua decisão no que interessa (fl. 108- grifo nosso):
+ ..
+O custodiado foi localizado com tabletes de maconha, um celular e R$ 54,00, sendo certo que, em revista no interior de sua residência franqueada pelo avô do autuado),localizaram, no interior do guarda-roupas de MATHEUS, mais drogas escondidas em latas de leite em pó, duas tesouras aparentando conter fragmentos de drogas, 16 eppendorfs (embalagens comumente utilizadas para acondicionar cocaína), uma balança de precisão com resíduos de drogas e R$ 956,00 em espécie (totalizando 40,88 g de maconha).
+Tais substâncias foram analisadas pelo Sr. Perito e foi constado:1- acondicionado sob o lacre 0008980: 03 invólucros de plásticos com porção de fragmentos vegetais ressequidos, constituídos de folhas, folíolos inflorescência, caules e frutos na forma compacta, massa bruta /quantidade: 45,29 gramas / massa líquida 40,88 gramas - resultado substância TETRAHIDROCANNABINOL (THC) constante na lista F2 da Portaria SVS/MS 344/98 E atualizações posteriores (portaria SPTC 136 - 03/08/2020); 2- (acondicionado lacre 0008981)- 2 invólucros com porção de fragmentos vegetais ressequidos, constituídos de folhas, folíolos inflorescência, caules e frutos na forma compacta: massa bruta - quantidade: 19,83 gramas / massa líquida 9,88 gramas - resultado substância TETRAHIDROCANNABINOL(THC) constante na lista F2 da Portaria SVS/MS 344/98 E atualizações posteriores (portaria SPTC 136 - 03/08/2020);conforme laudo de fls. 47/55.
+Além da gravidade concreta da conduta, observo que há severo risco à ordem pública caso o averiguado seja posto em liberdade, na medida em que a reiteração na má conduta parece ser a tônica da vida do Sr. MATHEUS ARAÚJO KURADOMI.
+Noto, pela certidão de fls. 57/58 e pela folha de antecedentes de fls. 60/62, que o averiguado possui maus antecendentes, decorrência do feito: 1500572-73.2020.8.26.0326.
+Observo também que já teve condenações, primeiro grau, no bojo dos autos nº 1500572-73.2020.8.26.0326, Segunda Vara da Comarca de Lucélia, em razão da prática de tráfico de drogas (sentença em grau de recurso - fls. 57/58).
+Como se não bastasse o histórico de crimes mencionado, observo também que a custódia cautelar também se faz necessária pela aplicação da lei penal, pois há risco de fuga do averiguado, mormente se considerada a pena que pode lhe ser imposta.
+ ..
+O Tribunal estadual, por sua vez, ao denegar a ordem, convalidou a custódia cautelar imposta aopacientee ressaltou, ainda, que (fls. 139/140 - grifo nosso):
+ ..
+Tais circunstâncias revelam, de fato, que as medidas cautelares diversas da prisão não se mostrariam adequadas e suficientes para conter a atitude criminosa do paciente, uma vez que não impediriam a reiteração dos atos ilícitos. Mesmo porque, já foi condenado pelo delito de tráfico de drogas, em processo ainda pendente de recurso à época do flagrante, e simplesmente voltou a incorrer no mesmo delito (ação penal nº 1500572-73.2020.8.26.0326); e ele ainda obteve a soltura processual nessa ação penal (certidão e Folha de Antecedentes de folhas 61/62 e 64/66). Nesse ponto, o próprio paciente, quando interrogado pela Autoridade Policial disse que responde por outro tráfico de drogas em processo pendente de recurso, e disse que é somente usuário de drogas (folha 10).
+E analisando os fatos descritos no auto de prisão em flagrante nãohá como se cogitar, por ora, em liberdade provisória, ou imposição de medidas cautelares porque, ainda que o paciente tenha negado o delito, dizendo-se apenas usuário de drogas, repita-se (folha 10), especialmente, o que invoca a necessidade de prisão relaciona-se à correta atuação policial, à dinâmica dos fatos (folhas 05/60), e ao fato de que o indiciado já foi sentenciado por delito semelhante, mesmo que haja recurso de apelação pendente, demonstrando então a renitência reveladora de como ele insiste em arriscar a saúde pública local e desrespeitar as leis penais (folhas 61/62 e 64/66). Lembrando que ele estava em liberdade provisória por aquele fato.
+ ..
+Assim, observa-se da análise dos trechos acima que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando, não apenasa quantidadede entorpecenteapreendido, maso fato deopacienteresponder a outro processo criminal por crime de mesma natureza e ter sido preso enquanto estava em liberdade provisória por outro processo.Nota-se, portanto,o risco de reiteração delitiva. Tudo a revelar a periculosidadein concretodo agente e justificar a manutenção da medida extrema.
+Não foi outra a opinião doSubprocurador-Geral da República Paulo Eduardo Bueno em seu parecer (fls. 270/274).
+Com efeito, o Superior Tribunal de Justiça já decidiu que não há ilegalidade na manutenção da prisão preventiva quando demonstrada, com base em fatores concretos, a sua imprescindibilidade para garantir a ordem e a saúde públicas, dada a gravidade da conduta incriminada, evidenciada pelas circunstâncias em que se deu a prisão em flagrante do réu (RHC n. 113.892/MS, Ministro Jorge Mussi, Quinta Turma, DJe 20/8/2019), possuindo, ainda, entendimento consolidado no sentido de que a quantidade, a natureza e a diversidade dos entorpecentes encontrados podem servir de fundamento ao decreto de prisão preventiva (HC n. 515.676/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019).
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICOILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOSREQUISITOS LEGAIS. RECURSO DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 625.286/SP,Ministro João Otávio de Noronha, Quinta Turma, DJe 19/3/2021 - grifo nosso)
+Ademais, esta Corte Superior entende ser fundamento idôneo para o decreto preventivo o risco de reiteração delitiva (AgRg no RHC n. 138.820/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/2/2021; e RHC n. 133.757/RS, Ministra Laurita Vaz, Sexta Turma, DJe 17/2/2021).
+Por fim, eventuais condições pessoais favoráveis do paciente não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA.CIRCUNSTÂNCIAS DO CRIME. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA.AUSÊNCIA DE MANIFESTAILEGALIDADE. PARECER ACOLHIDO.
+Ordem denegada.
