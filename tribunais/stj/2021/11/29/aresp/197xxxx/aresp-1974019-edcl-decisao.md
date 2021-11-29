@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CONJUNTO PARQUE IGUAÇU I, à decisão de fls. 154/155, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ocorre que não foi considerado o período de suspensão de prazos no período de 15.03.2021 a 19.03.2021, quando vigorava no Tribunal local os decretos judiciais de suspensão de prazos n. 151/2021 e 158/2021 do Tribunal de Justiça do Paraná, conforme se verifica das fls. 128/131 dos presentes autos.
+Verifica-se deste modo que há contradição na decisão desta Corte quanto a suposta intempestividade recursal, visto que desconsidera a comprovação realizada no ato da interposição do recurso no Tribunal local quanto a suspensão dos prazos.
+Ao considerar este Tribunal como data de intimação da agravante o dia 02.03.2021, tendo com isso prazo iniciado em 03.03.2021 (quarta feira), nos termos do art. 224 do CPC.
+Todavia descartou a suspensão dos prazos no período de 15.03.2021 a 19.03.2021 realizadas pelos decretos 151/2021 e 158/2021 do TJPR (fl. 158).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Veja-se que, em que pese a parte tenha juntado o Decreto Nº 151/2021 DM, que considera o dia 19/3/2021 como termo final da suspensão dos prazos processuais, bem como o Decreto Judiciário Nº 158/2021 - DM , que determina que os prazos voltem a fluir em 22/3/2021, deixou de juntar, no momento da interposição do recurso, o Decreto Nº 150/2021, onde estaria previsto o termo inicial da referida suspensão. Dessa forma, os documentos de fls. 128/131 não são suficientes para afastar a intempestividade do agravo em recurso especial.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
