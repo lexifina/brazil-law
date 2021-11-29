@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de ação objetivando a ilegalidade dacobranças de tarifa mínima de água e esgoto por parte da ré, restituição dos valores pagos a maior, bem como indenização por danos morais. Asentença julgou procedentes os pedidos. NoTribunala quo, a sentença foi reformada, conforme a seguinte ementa do acórdão:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPETIÇÃO EM DOBRO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. TARIFA DE ÁGUA. CONSUMO MÍNIMO. CÁLCULO TARIFÁRIO INDEVIDO. REPETIÇÃO DO INDÉBITO. DANO MORAL. INEXISTÊNCIA.
+I. O cálculo tarifário realizado pela Recorrente na cobrança da tarifa de água, baseado no consumo mínimo, não se afigura compatível com a preservação do equilíbrio econômico- financeiro da prestação do serviço público, representando, ao revés, fonte injustificada de lucro à Empresa integrante da estrutura da Administração Pública Indireta e prática abusiva imposta ao consumidor do serviço.
+II. Todavia, não há falar-se em indenização por dano moral pelo mero prejuízo econômico, sendo necessária à sua configuração a efetiva comprovação de que a gravidade do ato extrapolou o mero aborrecimento.
+III. No caso sub examem, a despeito das argumentações do Recorrido, no sentido de que a cobrança das quantias indevidas feriu a sua esfera moral, "gerando a sensação de injustiça social e maculando a credibilidade das empresas publicas" (fl. 258), certo é que inexistem quaisquer provas nos autos a fim de corroborar que o prejuízo econômico foi além do mero aborrecimento normalmente decorrente de uma perda patrimonial ou que repercutiu na esfera da dignidade da vítima, sendo incabível, portanto, a condenação dos Recorrentes ao pagamento de indenização por danos morais.
+IV. Ademais, na hipótese vertente, restou caracterizada a existência de sucumbência reciproca, posto que o Recorrido sucumbiu no pedido relativo à indenização por Danos Morais.
+V. Recurso conhecido e provido.
+Os sucessivos embargos de declaração opostos foram rejeitados, com aimposição de multa nos últimos (fls. 306-312 e 322-330).
+A parte recorrente apontou violação do art. 1.026, § 2º, do CPC/2015, aduzindo acerca do descabimento da multa imposta por ocasião do julgamento dos declaratórios, uma vez que seu propósito era prequestionar a matéria recursal.
+Indicou, ainda, afronta aos arts. 84, 85, § 2º e 86, caput e parágrafo único do CPC, pois sucumbiu em parte mínima do pedido - em menos de 1% do valor total da condenação - no que a parte adversa deve responder por inteiro à verba sucumbencial.
+Invocou divergência jurisprudencial.
+Requereu a concessão do efeito suspensivo, diante do pedido de cumprimento provisório de sentença realizado pelo recorrido.
+Após o oferecimento de contrarrazões (fls. 377-384), o Tribunal a quo inadmitiu o recurso (fls. 386-392), ensejando a interposição de agravo.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial, declarando prejudicada a análise do pedido de efeito suspensivo."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+ ..
+Percebam, Excelentíssimos Ministros, que o prequestionamento é condição essencial para a interposição do Recurso Especial. Logo, não conhecer do Recurso Especial que visa afastar multa aplicada em razão, justamente, de se tentar prequestionar a matéria com base na Súmula 07 é incoerente com a legislação e o entendimento jurisprudencial uníssono do STJ e do STF.
+ ..
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPETIÇÃO EM DOBRO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. TARIFA DE ÁGUA. CONSUMO MÍNIMO. CÁLCULO TARIFÁRIO INDEVIDO. REPETIÇÃO DO INDÉBITO. DANO MORAL. INEXISTÊNCIA.EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA. AFASTAMENTO. SÚMULA N. 7 DO STJ. SUCUMBÊNCIA. SÚMULA N. 7 DO STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA.
+I - Trata-se de ação objetivando a ilegalidade da cobranças de tarifa mínima de água e esgoto por parte da ré, restituição dos valores pagos a maior, bem como indenização por danos morais. A sentença julgou procedentes os pedidos. NoTribunal a quo, a sentença foi reformada.
+II - No que tange à imposição de multa pelo caráter protelatório dos embargos de declaração, esta Corte entende que tal análise, em recurso especial, demanda revolvimento fático-probatório, a ensejar o óbice da Súmula n. 7/STJ. A propósito, AgInt nos EDcl no AREsp n. 1.771.282/MT, relatorMinistro Luis Felipe Salomão, Quarta Turma, julgado em 27/9/2021, DJe 29/9/2021 eAgInt no REsp n. 1.851.731/AL, relatoraMinistra Assusete Magalhães, Segunda Turma, julgado em 20/9/2021, DJe 22/9/2021.
+III - Ademais, ainda que eventualmente se pudesse ultrapassar tal óbice, o fato é que, in casu, observa-se que já, nos primeiros declaratórios, o Tribunal de origem não desconsiderou a alegação da parte inconformada, mas apenas afirmou que "Não subsiste ademais, a irresignação recursal no tocante ao alcance da norma contida no artigo 86, do Código de Processo Civil  .. " (fl. 311) e, nesse contexto, afastou a pretensão.
+IV - Sabe-se que decisão contrária ao interesse da parte não equivale à decisão omissa para fins de oposição de embargos de declaração.Nesse panorama é que foi imposta a multa, diante dos termos do art. 1.026, § 2º, do CPC.
+V - No que diz respeito à verba honorária, melhor sorte não socorre ao recorrente, já que a jurisprudência do STJ é firme também sobre a incidência da Súmula n. 7/STJ no tocante à análise da sucumbência mínima ou recíproca. Nesse sentido, os seguintes precedentes:AgInt no AREsp n. 1.329.349/SP, relatorMinistro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2021, DJe 26/8/2021 eAgInt no AREsp n. 1.883.184/DF, relatoraMinistra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe 22/9/2021.
+VI - O referido óbice também se aplica ao recurso interposto com base em divergência jurisprudencial.
+VII - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+No que tange à imposição de multa pelo caráter protelatório dos embargos de declaração, esta Corte entende que tal análise, em recurso especial, demanda revolvimento fático-probatório, a ensejar o óbice da Súmula n. 7/STJ. A propósito, confiram-se os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA.PRESCRIÇÃO AQUISITIVA. USUCAPIÃO. REJEIÇÃO. SÚMULA 7 DO STJ.FUNDAMENTOS NÃO ATACADOS. SÚMULA 283 DO STF. APLICAÇÃO DO TEMPO ABREVIADO DE USUCAPIÃO. AUSÊNCIA DE PREQUESTIONAMENTO.SÚMULAS 282 E 356 DO STF. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS.MULTA. AFASTAMENTO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação do art. 1.022 do CPC/2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento.
+2. A Corte de origem afastou a prejudicial de usucapião amparada nos fundamentos de que as provas dos autos demonstram que os réus, além de não terem completado o tempo de posse para usucapir, não exerceram posse mansa e pacífica, mas sim, com a permanente oposição dos autores, de maneira que não foram preenchidos os requisitos da usucapião.
+ ..  7. O acolhimento da pretensão recursal de ausência de caráter protelatório dos embargos de declaração opostos na origem demandaria a alteração das premissas fático- probatórias estabelecidas nas instâncias ordinárias, com o revolvimento das provas carreeadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+8. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1771282/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/09/2021, DJe 29/09/2021.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. SERVIDOR PÚBLICO ESTADUAL.AGENTE PENITENCIÁRIO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL.ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF.MULTA. ART. 1.026, § 2º, DO CPC/2015. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de Ação Ordinária ajuizada pelo ora agravante, em face do Estado de Alagoas, objetivando a implementação da Gratificação de Atividade Policial, em sua remuneração, bem como a pagar as respectivas diferenças retroativas, alegando que, por exercer o cargo de agente penitenciário, possui direito a perceber a referida vantagem, nos termos do art. 2º, a, da Lei Estadual 5.813/96.
+ ..  IV. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+ ..  VII. Ademais, "a análise do art. 1.026, § 2º, do CPC/2015, que trata da penalidade por oposição de embargos de declaração protelatórios, demanda reexame do acervo fático- probatório dos autos. Incidência da Súmula 7/STJ" (STJ, REsp 1.931.702/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 17/08/2021). Nesse sentido: STJ, AgInt no AREsp 1.709.175/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 01/07/2021; e AgInt no AREsp 1.441.228/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/03/2020.
+VIII. Agravo interno improvido.
+(AgInt no REsp n. 1.851.731/AL, relatoraMinistra Assusete Magalhães, Segunda Turma, julgado em 20/9/2021, DJe 22/9/2021.)
+Ademais, ainda que eventualmente se pudesse ultrapassar tal óbice, o fato é que, in casu, observa-se que já nos primeiros declaratórios o Tribunal de origem não desconsiderou a alegação da parte inconformada, mas apenas afirmou que "Não subsiste ademais, a irresignação recursal no tocante ao alcance da norma contida no artigo 86, do Código de Processo Civil  .. " (fl. 311) e, nesse contexto, afastou a pretensão.
+Sabe-se que decisão contrária ao interesse da parte não equivale à decisão omissa para fins de oposição de embargos de declaração.
+E ao julgar os segundos declaratórios, foi assim considerado (fl. 327):
+ ..
+Na hipótese, malgrado os apontamentos levados a efeito pelo Recorrente, tenho que os presentes Aclaratórios demonstram apenas o inconformismo com os termos do Acórdão, visando apenas ressuscitar questões anteriormente enfrentadas por esta Egrégia Segunda Câmara Cível, sobretudo no que diz respeito à ausência de sucumbência mínima da parte contrária, eis que decaiu 1/4 (um quarto) dos pedidos exordias, situação que não enseja aaplicação do parágrafo único, do artigo 86, do Código de Processo Civil, tendo sido abordadas, ademais, as matérias preconizadas nos artigos 84 e 85, § 2º e caput do artigo 86, todos do referido Diploma Processual, que possuem correlação, consoante, inclusive, se infere da jurisprudência do Egrégio do Egrégio Superior Tribunal de Justiça citada no Acórdão objeto do presente Recurso.
+ ..
+Nesse panorama é que foi imposta a multa, diante dos termos do art.1.026, § 2º, do CPC.
+No que diz respeito à verba honorária, melhor sorte não socorre ao recorrente, já que a jurisprudência do STJ é firme também sobre a incidência da Súmula n.7/STJ no tocante à análise da sucumbência mínima ou recíproca. Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. PRÉDIO CONSTRUÍDO EM SOLO CONTAMINADO. DECADÊNCIA. REJEIÇÃO. AÇÃO DE REPARAÇÃO DE DANOS.DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO. DANOS MATERIAIS E MORAIS CONFIGURADOS. DEPRECIAÇÃO DO IMÓVEL. SÚMULA 7 DO STJ.SUCUMBÊNCIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é assente no sentido de que, quando "a pretensão do consumidor é de natureza indenizatória (isto é, de ser ressarcido pelo prejuízo decorrente dos vícios do imóvel) não há incidência de prazo decadencial (REsp 1.717.160/DF, Rel.
+Ministra Nancy Andrighi, Terceira Turma, julgado em 22/03/2018, DJe 26/03/2018).
+2. Para desconstituir as premissas firmadas pelo Tribunal de origem no que se refere a ofensa à boa-fé objetiva, ante o descumprimento do dever de informação por parte da construtora ré quanto à contaminação do solo, bem como quanto à depreciação do imóvel em decorrência dessa condição, seria imprescindível o revolvimento das provas juntadas aos autos, resultando em não desejada rediscussão de matéria fática, ante o óbice da Súmula 07 deste Superior Tribunal de Justiça.
+3. A apreciação, em recurso especial, do quantitativo em que o autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.329.349/SP, relatorMinistro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2021, DJe 26/8/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS E RETENÇÃO POR BENFEITORIAS. INCONFORMISMO QUANTO A INCIDÊNCIA DA SÚMULA 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. REDISTRIBUIÇÃO DA SUCUMBÊNCIA.
+IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Ação anulatória cumulada com compensação por danos morais e retenção por benfeitorias.
+2. A insurgência dos agravantes quanto à incidência da Súmula 7/STJ, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por eles manejado.
+3. A jurisprudência consolidada nesta Corte Superior é no sentido de que a revisão do quantitativo em que autores e réus decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático-probatória, incidindo a Súmula 7/STJ. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.883.184/DF, relatoraMinistra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe 22/9/2021.)
+O referido óbice também se aplica ao recurso interposto com base em divergência jurisprudencial.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
