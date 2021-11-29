@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Agravo, interposto por CENTRAL DE REDES DE NEGÓCIOS DO RIO GRANDE DO SUL - REDECEN, mediante o qual se impugna decisão de inadmissão de seu Recurso Especial, esse tirado de acórdão, promanado do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA "PARA FRENTE". SUSPENSÃO DOS EFEITOS DA LEI ESTADUAL N. 15.056/17 E DO DECRETO ESTADUAL Nº 54.308/2018. DESCABIMENTO. NECESSIDADE DE COMPLEMENTAÇÃO DO ICMS PAGO A MENOR. AUSÊNCIA DE CONTRARIEDADE AO DECIDIDO NO RE 593.849.
+O dever do contribuinte de efetuar a complementação do ICMS pago a menor, previsto no Decreto Estadual Nº 54.308/2018 e na Lei Estadual nº. 15.056/2017, embora não reconhecido expressamente pelo Supremo Tribunal Federal, é decorrência lógica da alteração do instituto da substituição tributária "para frente", a partir do julgamento do RE 593.849. APELO DESPROVIDO. UNÂNIME" (fl. 354e).
+Embargos de Declaração rejeitados (fls. 373/378e).
+No seu Recurso Especial, interposto com fundamento na alínea a do permissivo constitucional, a parte ora agravante aponta violação aos arts. 33 e 36-A da Lei 15.056/2017, 10 da Lei Complementar 87/96, 25-A do RICMS, ao Convênio ICMS 13/97, ao Decreto 35.245/91, à Lei 8.820/89 e ao Decreto 54.308/2018, Livro III.Sustenta, em breve síntese, que:
+"(..) conforme se dessume da evolução legislativa da substituição tributária em causa constante na peça exordial, (..)em nenhum momento foi autorizado ao Fisco a possibilidade de requerer do contribuinte a complementação do ICMS-ST quando o fato gerador presumido for menor que o concretizado na operação" (fl. 417e).
+Requer, assim:
+"(..) seja admitido e conhecido o presente Recurso Especial, dando-lhe total provimento para reformar o acórdão recorrido, nos termos da fundamentação supra, por medida de inteira justiça, inclusive para garantir o direito da Recorrente em reaver o que foi pago a maior nos últimos 05 (cinco) anos do ajuizamento deste "mandamus", respeitando o prazo prescricional quinquenal" (fl. 423e).
+Contrarrazões, a fls. 451/461e.
+Recurso Especial inadmitido (fls. 462/467e), com base na inexistência de questão infraconstitucional, o que ensejou a interposição de Agravo (fls. 487/499e).
+Contraminuta, a fls. 522/526e.
+A irresignação não merece prosperar.
+Ao afirmar a legalidade dolançamento complementar, da constituição do referido crédito e de sua posterior cobrança, em razão da realização de fato gerador efetivo em valor superior ao que fora inicialmente presumido, no regime de substituição tributária progressiva, assim se manifestou, o Tribunal de origem:
+"O §7º do artigo 150 da Constituição Federal, incluído pela Emenda Constitucional nº. 03/1993, assegura a restituição do imposto pago, no caso de substituição tributária para frente, quando o fato gerador presumido não venha a se realizar:
+(..)
+Muito se discutiu o cabimento da restituição no caso de o fato gerador fictício ocorrer, mas com base de cálculo diversa daquela considerada para o recolhimento do tributo.
+Até 2016, o Supremo Tribunal Federal possuía entendimento no sentido de que o fato gerador presumido não é provisório, mas definitivo, não dando ensejo a restituição ou complementaçãodo imposto pago. Tão somente no primeiro caso, na hipótese de sua não-realização final.
+(..)
+Em 19/10/2016, a Suprema Corte, quando do julgamento do RE 593.849/RG, em sede de repercussão geral, alterou seu entendimento anterior e definiu que, no regime de substituição tributária para a frente, é devida a restituição da diferença do ICMS quando pago a maior se a base de cálculo efetiva da operação for inferior a presumida: Restou fixada a tese jurídica relativa ao Tema 201, nos seguintes termos:
+"É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços (ICMS) pago a mais no regime de substituição tributária para a frente se a base de cálculo efetiva da operação for inferior à presumida".
+Entenderam os Ministros, por maioria, que tributar-se a maior, quando é perfeitamente possível utilizar a base de cálculo do valor efetivo da operação, viola, entre outros, os princípios da capacidade contributiva e da razoabilidade.
+Concluíram que a correta interpretação do §7º do artigo 150 da Carta Constitucional, seria no sentido de validar a restituição em todas as hipóteses em que não se realize o fato gerador presumido, nos exatos termos de como fora presumido, ou seja, incluindo-se as hipóteses em que o fato ocorreu em dimensão distinta da presumida, com operação em valores menores.
+De acordo com o Relator, "uma interpretação restritiva do §7º do artigo 150 da Carta Constitucional, para fins de legitimar a não restituição do excesso, representaria injustiça fiscal inaceitável em um Estado Democrático de Direito, fundado em legítimas expectativas emanadas de uma relação de confiança e justeza entre Fisco e Contribuinte; em suma, a restituição do excesso atende ao princípio que veda o enriquecimento sem causa, tendo em conta a não ocorrência da materialidade presumida do tributo".
+Pessoalmente já possuía este entendimento, como se ver fica, por exemplo, do julgamento da apelação cível nº. 70003235082, no qual ressaltei que não se permitir a devolução do imposto recolhido antecipadamente a maior quando a venda posterior for inferior ao que fora presumido viola o princípio constitucional da não-cumulatividade, que se exterioriza através do direito de compensação, previsto no art. 155, § 2º, inc. I da Constituição vigente, erigido a direito subjetivo do contribuinte.
+O Decreto Estadual nº 54.308/2018 modificou o Regulamento do ICMS, da mesma forma que a Lei Estadual nº. 15.056/2017 inseriu as alterações na Lei Estadual nº 8.820/89, no intuito de adequar a legislação do Estado do Rio Grande do Sul conforme o entendimento do Supremo Tribunal Federal no RE 593.849.
+Com as referidas alterações legislativas, além da restituição, passou-se a prever a necessidade de complementação do ICMS quando a base de cálculo efetivamente praticada for superior a presumida.
+Vejamos o disposto no art. 25-C, Seção I, Capítulo I, Título IIIdo Livro IIIdo RICMS:
+(..)
+No ponto, necessário ressaltar que a complementaçãodo ICMS pago a menor não restou reconhecido expressamente no RE 593.849, como se ver fica do julgamento dos ED-segundos RE 593.849:
+(..)
+Ainda que não tenha havido expressa manifestação do Supremo nesse sentido, a jurisprudência deste Tribunal vem se manifestando no sentido de que o RE 593.849 acabou por descaracterizar a substituição tributária "para frente", sendo o dever de efetuar a complementaçãodo ICMS é decorrência lógica da alteração do instituto.
+Isso porque a base de cálculo presumida passou a ser apenas provisória, tendo em vista a necessidade de se verificar a base de cálculo efetivamente praticada, que pode ser menor ou maior, gerando direito à restituição ou dever de complementação, dependendo do caso.
+Concluir de forma diversa implica, inclusive, em violação aos princípios da isonomia, da capacidade contributiva e da equidade, bem como no enriquecimento sem causa do contribuinte, o que não se pode admitir.
+Neste contexto, a partir do momento em que o contribuinte tem direito à restituição do tributo recolhido a maior, tem também o dever de o complementar quando se consumar base de cálculo superior àquela antes presumida.
+O dever de complementação do imposto pago a menor está diretamente ligado ao fato gerador da obrigação tributária, não havendo falar em necessidade de previsão expressa em lei complementar como nova hipótese de incidência, pois não é essa a origem da exação" (fl. 356e).
+Conforme se observa, a questão foi decidida, no acórdão recorrido, com base na interpretação da jurisprudência constitucional do STF, pelo que não se mostra possível seu acertamento, na presente via recursal, sob pena de usurpação da competência daquela Excelsa Corte Suprema.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecerdo Recurso Especial.
+Sem honorários recursais. Mandado de Segurança.
+I.
