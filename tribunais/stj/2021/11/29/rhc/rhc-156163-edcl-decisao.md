@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se embargos de declaração opostos por ISAAC DA SILVEIRA MARTINS PALUDO, contra decisão que negou provimento ao recurso ordinário interposto em razão do julgamento do HC n. 5111265-77.2021.8.21.7000 pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Em suas razões, o embargante alega vícios no julgado, que não teria apreciado a tese referente à ausência de exame das razões defensivas na decisão que confirmou o recebimento da peça acusatória.
+Diante disso, requer o acolhimento destes embargos para sanar o vício indicado.
+É o relatório. Decido.
+Como é cediço, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. No caso apresentado, não se vislumbra vício ensejador do acolhimento dos embargos.
+No caso apresentado, não se vislumbra vício ensejador do acolhimento dos embargos.
+A tese de carência de fundamentos da decisão que confirmou o recebimento da denúncia não foi examinada pelo Tribunal de Justiça do Rio Grande do Sul no julgamento do habeas corpus, de modo que a apreciação dessa tese pelo Superior Tribunal de Justiça não é viável, sob pena de indevida supressão de instância.
+O que se tenta, por via transversa, é a rediscussão de matéria já julgada pelo Superior Tribunal de Justiça, o que não é possível por meio da oposição de embargos de declaração.
+De mais a mais, esta Corte tem entendido que a discordância da parte com os fundamentos postos no julgado não implica em ausência de fundamentação ou em fundamentação deficiente. Nesse sentido, o seguinte precedente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO RECORRIDO. VÍCIO NÃO CONFIGURADO. ART. 489, § 1º, DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. NÃO OCORRÊNCIA. SERVIDOR PÚBLICO. REAJUSTE SALARIAL. PRESCRIÇÃO DA PRETENSÃO REMUNERATÓRIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. CONTROVÉRSIA DECIDIDA PELA CORTE DE ORIGEM COM BASE NA LEI LOCAL E NAS PROVAS DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 280 DO STF E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Não há falar em omissão existente no acórdão quando o Tribunal local julga integralmente a lide, apenas não adotando a tese defendida pelos recorrentes. Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Afasta-se a tese de fundamentação deficiente do aresto combatido (art. 489, § 1º, III, IV e VI, do CPC/2015), pois esta Corte Superior possui precedente de que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+3. Verifica-se, do exame da controvérsia posta em juízo, a presença dos impeditivos descritos nas Súmulas 7/STJ e 280/STF, porquanto a fundamentação do aresto impugnado encontra-se ancorada em legislação local e nas provas dos autos.
+4. A presença de óbices sumulares impede o conhecimento do recurso especial pela alínea "c" do permissivo constitucional. Precedentes.
+5. Agravo interno a que se nega provimento. (AgInt no REsp 1.649.443/RO, Rel. Ministro OG FERNANDES, Segunda Turma, DJe 29/9/2017) - negritei.
+Ante o exposto, conheço dos embargos de declaração porque tempestivos, mas para rejeitá-los.
+Intimem-se.
