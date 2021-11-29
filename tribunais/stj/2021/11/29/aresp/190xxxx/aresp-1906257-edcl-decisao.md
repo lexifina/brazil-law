@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por BEATRIZ ALVES FRANCO e SÔNIA CRISTINA RIOS PETRI, contra decisão de minha lavra, publicada em 22/09/2021, que conheceu do Agravo para conhecer, em parte do Recurso Especial, e, nessa parte, negar-lhe provimento.
+Inconformadas, sustentam as partes embargantes que a decisão embargada incorreu em contradição ao aplicar precedentes que não guardam relação com o presente feito, "considerando que a citação não se deu via Oficial de Justiça, mas sim via carta com aviso de recebimento" (fls. 151/154e).
+Por fim, requer o acolhimento dos Embargos Declaratórios.
+Nas razões de impugnação, a parte embargada pugna pela rejeiçãodos Embargos Declaratórios (fls. 158/162e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada, no sentido de que consta, nos autos, certidão lavrada por Oficial de Justiça, antes da decretação da falência, informando que a empresa não mais exercia suas atividades no endereço informado ao Fisco, o que indicaria a ocorrência de dissolução irregular apta a ensejar o redirecionamento da execução fiscal.
+Nesse sentido, cito ainda oseguinteprecedente:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. FUNDAMENTO INATACADO. SÚMULA 283/STF.
+1. O apelo nobre não deve ser conhecido quanto à divergência jurisprudencial apontada, em virtude da ausência de similitude fática entre os arestos confrontados.
+2. Enquanto o acórdão paradigma retrata a impossibilidade de redirecionamento da execução fiscal aos sócios mediante o mero inadimplemento do débito, no aresto recorrido, consentiu-se com o redirecionamento do processo executório, ante a dissolução irregular da sociedade.
+3. A ausência de impugnação a relevante fundamento do voto condutor - de que é dever de todos os sócios promover a liquidação regular da empresa - atrai a incidência da Súmula 283/STF.
+4. Ademais, mesmo que superados os vícios de fundamentação do apelo, a admissibilidade recursal, seja pela alínea "a", seja pela alínea "c" do permissivo constitucional, esbarraria do enunciado da Súmula 83/STJ, pois esta Corte consolidou o entendimento de que a certidão do oficial de justiça que atesta que a empresa não mais funciona no local indicado pressupõe o encerramento irregular da executada, tornando possível o redirecionamento contra o sócio-gerente. A referida presunção é juris tantum, cabendo ao administrador da sociedade provar que não agiu com dolo, culpa, fraude ou excesso de poder.
+5. Agravo regimental não provido"(STJ, AgRg no Ag 1.239.420/PR, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 30/03/2010).
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE DO AGRAVO INTERNO. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material. Não se verifica, no caso concreto, a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. Com efeito, decidiu-se que o agravo interno não tinha condições de conhecimento, porquanto a parte agravante deixou de refutar todos os fundamentos da decisão agravada, o que fez atrair o óbice da Súmula 182/STJ.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Em razão de sua natureza substancial, a falta de impugnação integral dos fundamentos da decisão recorrida não admite posterior saneamento, a ela não se aplicando o disposto no parágrafo único do artigo 932 do CPC.
+5. Embargos de declaração rejeitados" (STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/04/2020).
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
