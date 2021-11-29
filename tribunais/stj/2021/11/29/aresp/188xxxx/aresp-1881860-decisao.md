@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por KAMILLA OLIVEIRA COSTA, contra decisão que inadmitiu recurso especial (fls. 319-322).
+Em primeiro grau, aora agravante foi condenadaàs penas de 6anos e 3meses de reclusão no regime semiaberto e de 550dias-multa, pela prática do delito descrito no art. 33, § 4º, c/c o art. 40, III e V, da Lei n. 11.343/2006. O Tribunal de origem manteve integralmente a sentença.
+ No recurso especial, fundado no art. 105, III,  a, da Constituição Federal,suscitouviolação doart. 33, § 4º, da Lei n. 11.343/2006,argumentando que faria jus à incidência do redutor em sua fração máxima.
+O apelo extremo foi inadmitido diante da incidência da Súmula n. 7 do STJ.
+Requer aagravante o conhecimento do agravo, porquanto"não existe qualquer necessidade de reincursão no acervo fático-probatório dos autos, visto que, o que se pretende, é tão somente o respeito à legislação federal, assim como à orientação firmada pelo E. STJ, acerca da absolvição por inexistência de provas" (fl. 335).
+O Ministério Público Federal opinou pelo conhecimento do agravo e desprovimento dorecurso especial (fls. 354-359).
+É o relatório. Decido.
+A irresignação não reúne condições de prosperar.
+O Tribunal de origem não admitiu o recurso especialdiante da incidência da Súmula n 7 do STJ.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgRg no AREsp n. 1.708.623/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 31/8/2020; e AgRg no AREsp n. 1.373.929/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/2/2019), o que não ocorreu na espécie.
+A parte agravante, nas razões do agravo em recurso especial, limitou-se a defender, de forma genérica, que é inaplicável a Súmula n. 7 do STJ à espécie, pois o que pretende é a revaloração jurídica das situações fáticas constantes da sentença e do acórdão recorridos, sem explicitar, contudo, como a tese suscitada no recurso especial não dependeria do reexame de provas.
+Ressalte-se que, relativamente à Súmula n. 7 do STJ, não basta a parte "sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas" (AgRg no AREsp n. 1.677.886/MS, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Ainda que assim não fosse, verifica-se a deficiência na fundamentação recursal pois o fundamento utilizado pelo Tribunal de origem para inadmitir o recurso especial foi a impossibilidade de rever a fração da causa de diminuição de pena ante a incidência da Súmula n. 7/STJ, enquanto nas razões do presente recurso a agravante defende a inaplicabilidade da referida Súmula no que concerne à análise do pedido de absolvição dodelito de tráfico de drogas.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
