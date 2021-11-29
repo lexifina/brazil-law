@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto por Primeira Classe Comércio de Metais Ltda. (fls. 596-620, e-STJ) contra decisão monocrática que conheceu parcialmente do seu Recurso Especial e a ele deu provimento (fls. 556-560, e-STJ).
+A agravante alega, em síntese:
+(..) é mister reconhecer que os honorários sucumbenciais fixados no importe de cinco mil reais são irrisórios, considerando que: i) trata de uma ação com mais de dez anos de tramitação, em que os advogados da Agravante atuaram desde o início, tendo interposto uma série de recursos e peças processuais, sustentação oral, entre outros; ii) em relação ao valor atualizado da causa, os honorários fixados resultam na proporção de 0,04%; iii) em relação à condenação do Agravado, os honorários fixados resultam na proporção de 0,11%. (fls. 601-602, e-STJ)
+Impugnação às fls. 648-653, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. MAJORAÇÃO. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Vencida ou vencedora a Fazenda Pública, o arbitramento dos honorários advocatícios não está adstrito aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC/1973, ou mesmo um valor fixo, segundo o critério de equidade.
+2. O Superior Tribunal de Justiça pacificou a orientação de que o quantum da verba de honorários, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, aos quais competem a cognição e a consideração das situações de natureza fática. Nesses casos, o STJ atua na revisão da referida verba somente quando esta for de valor irrisório ou exorbitante, o que não se configura na presente hipótese.
+3. A pretendida majoração dos honorários importa em nova avaliação dos parâmetros dos §§ 3º e 4º do art. 20 do CPC/1973, ou seja, o grau de zelo profissional, o lugar da prestação do serviço, a natureza da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço. Tarefas, contudo, incabíveis na via eleita, consoante a Súmula 7/STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 20 de abril de 2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme assentado na decisão monocrática, quanto à verba de honorários, verifica-se que o acórdão recorrido considerou as peculiaridades do caso concreto e a aplicação dos princípios da proporcionalidade e da razoabilidade para arbitrá-la em R$ 5.000,00 (cinco mil reais).
+A Corte Especial do STJ, ao julgar os EREsp 637.905/RS (Rel. Ministra Eliana Calmon, DJU de 21/8/2006), proclamou que, nas hipóteses do § 4º do art. 20 do CPC/1973, entre as quais estão compreendidas as causas em que for vencida a Fazenda Pública, a verba de honorários deve ser fixada mediante apreciação equitativa do magistrado. Decidiu ainda que, nesses casos, a fixação de honorários de advogado não está adstrita aos percentuais constantes do § 3º do art. 20 do CPC/1973. Ou seja, no juízo de equidade, o magistrado deve levar em consideração o caso concreto, em face das circunstâncias previstas nas alíneas "a", "b" e "c" do § 3º do art. 20 do CPC/1973, podendo adotar, como base de cálculo, o valor da causa, o valor da condenação ou arbitrar valor fixo.
+Nesse sentido: AgInt no REsp 1.599.853/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 18/12/2017; AgInt no REsp 1.643.159/PE, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24/10/2017.
+Como regra, não se conhece de Recurso Especial no qual se discute a majoração ou a redução do valor dos honorários advocatícios fixados na origem, por demandar a análise dos fatos e provas que emergem dos autos, o que é vedado por força da aplicação da Súmula 7/STJ, exceto nos casos em que se mostrarem exorbitantes ou irrisórios, o que não ocorre na hipótese dos autos. A propósito: REsp 1.680.705/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9/10/2017; AgRg no REsp 1.526.420/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 12/2/2016.
+A pretendida majoração dos honorários importa em nova avaliação dos parâmetros dos §§ 3º e 4º do art. 20 do CPC/1973, ou seja, o grau de zelo profissional, o lugar da prestação do serviço, a natureza da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço. Tarefas, contudo, incabíveis na via eleita, consoante a Súmula 7/STJ.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
