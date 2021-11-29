@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LAFARGEHOLCIM (BRASIL) S/A, pedindo integração quanto ao não conhecimento do recurso especial, no que se refere à tese de divergência jurisprudencial.
+A parte recorrente alega, em síntese:
+Trata-se de Recurso Especial interposto em face do v. acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, por meio do qual se pretende a reforma do mencionado aresto, em razão das violações aos artigos 1.022, incisos I e II do CPC/15, ante o não saneamento das omissões e contradições impugnadas em face ao aresto; bem como aos artigos 2º, § 5º, incisos II e II da Lei nº 6.830/80, e artigos 142, 202, incisos II e II, e 204, parágrafo único, do Código Tributário Nacional, em razão da impossibilidade de substituição de Certidão de Dívida Ativa quando necessária a alteração da fundamentação legal do título. Adicionalmente àquelas violações frontais à legislação federal, conforme o irretocável relato contido na v. decisão embargada, alegou-se divergência jurisprudencial em virtude do entendimento adotado pelo E. Tribunal de Justiça de Minas Gerais.
+ ..
+Ainda que a partir da ementa seja possível concluir que o recurso especial não foi conhecido em relação a apontada violação ao artigo 1.022, do CPC e mesmo que o magistrado não seja obrigado a analisar todos os argumentos trazidos pela parte, fato é que a v. decisão monocrática não indicou se esta foi a única parte do recurso especial não conhecida por ausência de preenchimento dos requisitos processuais, bem como, nesta hipótese, data vênia, não analisou as divergências jurisprudenciais analiticamente demonstrada" (fl. 1317).
+Sem impugnação (fl. 1323).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício de integração a ser sanado, pois, consoante se nota do teor da decisão embargada, o recurso foi conhecido, mas não provido, quanto à alegação de violação do art. 1.022 do CPC/2015; e, quanto às demais alegações recursais e, notadamente, naquilo que é pertinente à tese de divergência, após análise da situação fático-jurídica descrita pelo órgão julgador a quo, não conhecido, uma vez que a conclusão do acórdão está em conformidade com a orientação jurisprudencial deste Tribunal Superior. A respeito, vide o enunciado da Súmula 83 do STJ.
+Como antes afirmado, "o contexto não revela qualquer ilegalidade, pois, apresentados os documentos constitutivos do direito da executada, é permitido subtrair dos valores cobrados a parcela não devida, com o prosseguimento da execução pelo saldo remanescente, se o caso".
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS DE INTEGRAÇÃO NÃO CONFIGURADOS.
