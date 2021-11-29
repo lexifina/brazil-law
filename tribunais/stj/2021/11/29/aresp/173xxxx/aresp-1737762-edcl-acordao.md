@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de embargos de declaração opostos pela parte ré/executada - EVANIL TRANSPORTES E TURISMO LTDA. - ao acórdão depositado às fls. e-STJ 362-372.
+Referido acórdão, proferido no julgamento de agravo interno interposto pela parte ora embargante, está assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROVIMENTO DO RECURSO ESPECIAL PARA ANULAR ACÓRDÃO, POR OFENSA AO ARTIGO 1.022 DO CPC.
+1. Ofende o artigo 1.022 do CPC/2015 acórdão que, a despeito da oposição de embargos de declaração, não examina matéria essencial ao deslinde da controvérsia.
+2. Agravo interno a que se nega provimento.
+A parte embargante alega que o acórdão embargado deixou de apreciar pontos relevantes, suscitados no agravo interno.
+Segundo a parte embargante, o Tribunal estadual negou-se a enfrentar duas questões cruciais: (i) os critérios e parâmetros de apuração do saldo devedor e (ii) a repercussão, no cálculo da condenação, da exclusão do capital garantidor, levantadas no agravo de instrumento e reiteradas em embargos de declaração.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DA CAUSA. INVIABILIDADE.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão, contradição ou erro material porventura existentes no julgado embargado, não servindo à rediscussão da matéria já julgada.
+2. Embargos de declaração rejeitados.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Adianto que a omissão, nos termos apontados pela parte embargante, não existe.
+A parte embargante, por via imprópria, visa ao reexame de questão já enfrentada no julgamento do agravo interno. Seu intuito, embora não confessado, é forçar a Turma Julgadora a modificar o resultado do julgamento, emitindo juízo favorável à sua pretensão. Isso está evidente nas razões dos embargos.
+Como se pode notar no excerto a seguir, o acórdão embargado enfrentou o argumento segundo o qual a Corte estadual teria se recusado a apreciar (i) a questão atinente à forma de apuração do saldo devedor e (ii) o tema da repercussão, no cálculo da condenação, da exclusão do capital garantidor:
+ ..
+Trata-se de agravo interno interposto pela parte ré/executada - EVANIL TRANSPORTES LTDA. - em face da decisão de fls. e-STJ 250-251, integrada pela decisão de fls. e-STJ 291-294.
+A parte agravante alega que, além das omissões já identificadas e reconhecidas pela decisão agravada, o Tribunal local não se manifestou sobre outras " ..  duas questões de extrema relevância para o deslinde da causa, quais sejam, a exclusão do capital garantidor que fez parte do cálculo dos Agravados e foi devidamente pago pela Agravante e levantado pelos mesmos e os parâmetros para apuração de eventual saldo devedor.  .. ".
+Adverte que a alegação referida não foi analisada, seja pela decisão que deu provimento ao recurso especial, seja pela que rejeitou os embargos de declaração, incorrendo em violação do artigo 489 do Código de Processo Civil (CPC) de 2015.
+ ..
+Inicialmente, esclareço que, por meio da decisão que está juntada às fls. e-STJ 250-251, conheci do agravo em recurso especial interposto pela parte ora agravante e, concomitantemente, dei provimento ao próprio recurso especial. Na decisão referida, fiz a seguinte análise:
+ ..
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial manejadoem face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. RECURSO CONTRA DECISÃO QUE, EM FASE DE EXECUÇÃO, ESTABELECEU OS PARÂMETROS PARA APURAÇÃO DO MONTANTE EXEQUENDO. MANUTENÇÃO DO DECISUM. INEXISTÊNCIA DE QUALQUER ILEGALIDADE OU ABUSO DE DIREITO NA DECISÃO RECORRIDA, QUE DETERMINOU A ELABORAÇÃO DOS CÁLCULOS RELATIVOS AOS VALORES DEVIDOS AOS AGRAVADOS EM ESTRITA OBSERVÂNCIA AOS LIMITES ESTABELECIDOS NO ACÓRDÃO PROFERIDO POR ESTA CÂMARA CÍVEL, POR OCASIÃO DO JULGAMENTO DOS RECURSOS DE APELAÇÃO CÍVEL INTERPOSTOS PELAS PARTES LITIGANTES. NEGADO PROVIMENTO AO RECURSO.
+Os embargos de declaração opostos a esse acórdão foram rejeitados.
+Em seu recurso especial, a parte ora agravante alega que o acórdão recorrido contrariou oartigo1.022 do Código de Processo Civil (CPC) de 2015.
+Reclama de negativa de prestação jurisdicional.
+Primeiramente, observo que a parte ora agravante argumentou no agravo de instrumento que a base de cálculo da pensão devida ao autor FRANCISCO FERNANDES JALES deve corresponder a apenas um salário mínimo, não 6,03 salários mínimos. Aduziu também a necessidade de definir se os honorários advocatícios sucumbenciais devem incidir sobre todas as parcelas da condenação ou sobre as prestações vencidas mais 12 prestações vincendas.
+Esses argumentos não foram examinadospela Corte estadual, mesmo tendo sido reiteradosem embargos de declaração, o que caracteriza ofensa ao artigo 1.022 do CPC de 2015.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem com vistas à análise das questões a respeito das quais houve omissão, apontadas na fundamentação desta decisão.
+ ..
+Depois disso, mediante a decisão que está juntada às fls. e-STJ 291-294, acolhi, sem efeitos infringentes, os embargos de declaração opostos pela parte ora agravante, " ..  apenas para determinar a retificação da autuação, excluindo-se VIAÇÃO CIDADE DO AÇO LTDA.  .. ".
+Como a convicção externada no presente agravo interno é, em sua essência, a mesma veiculada no recurso de embargos de declaração, qual seja, o Tribunal estadual não se manifestou sobre (i) a exclusão do capital garantidor e (ii) os parâmetros para apuração de eventual saldo devedor, acredito ser proveitoso lançar aqui as considerações que fiz ao apreciar o pedido declaratório. Ei-las:
+ ..
+Trata-se de embargos de declaração opostos por EVANIL TRANSPORTES E TURISMO LTDA. (parte ré/executada) à decisão depositada às fls. e-STJ 250-251.
+Nessa decisão, conheci do agravo em recurso especial interposto pela parte ora embargante e, dando provimento ao próprio recurso especial, reconheci que o acórdão recorrido contrariou o artigo 1.022 do Código de Processo Civil (CPC) de 2015 ao deixar de se manifestar sobre os seguintes argumentos:
+a) a base de cálculo da pensão devida ao autor FRANCISCO FERNANDES JALES deve corresponder a apenas um salário mínimo, não 6,03 salários mínimos; e
+b) é necessário definir se os honorários advocatícios sucumbenciais devem incidir sobre todas as parcelas da condenação ou sobre as prestações vencidas mais 12 prestações vincendas.
+Nos presentes embargos, a parte embargante pede, em primeiro lugar, a retificação da autuação do feito, retirando-se o nome VIAÇÃO CIDADE DO AÇO LTDA.pessoa jurídica que não se confunde com a parte embargante e que não é parte na lide.
+Segundo a parte embargante, a decisão embargada não percebeu que o Tribunal de Justiça, além dos dois pontos já identificados como omissos, deixou de se manifestar sobre outras duas matérias relevantes, a saber: a exclusão do capital garantidor (pago e levantado pela parte exequente) e a forma (parâmetros) de apuração do saldo devedor.
+Inicialmente, verifico, pelo exame dos autos, que VIAÇÃO CIDADE DO AÇO LTDA. não é parte no processo. Assim, a autuação deve ser corrigida, como pleiteado na presente sede processual.
+Avançando, anoto que a decisão embargada contém pronunciamento fundamentado, objetivo e claro, sendo desnecessário esclarecimento adicional.Não identifico a presença de nenhum dos vícios passíveis de correção por meio de embargos de declaração: omissão, contradição, obscuridade ou erro material.
+A respeito dos pontos abordados pela parte embargante (parâmetros/critérios para apuração do saldo devedor e capital garantidor), convém esclarecer que o Tribunal de origem sobre eles emitiu pronunciamento, nestes termos:
+Superado o juízo de admissibilidade, cinge-se a controvérsia recursal aos parâmetros estabelecidos pelo juízo de primeiro grau para apuração do montante exequendo.
+Com efeito, relativamente ao pedido de adoção de salário mínimo como parâmetro do pensionamento devido ao primeiro agravado, verifica-se a ausência de interesse recursal neste ponto, tendo em vista que o próprio juízo de primeiro grau reconheceu tal direito quando deu provimento ao recurso de embargos de declaração oposto pela sociedade executada, estabelecendo o parâmetro do aludido pensionamento com base no acordão proferido por esta Câmara Cível. Confira-se, a propósito, o teor do decisum:
+"Recebo os embargos declaratórios, pois, de acordo com a certidão de fls. 2066, são tempestivos. No mérito, acolho-os parcialmente. Isto porque, compulsando os autos observa-se que a sentença (fls. 657/663 - i.e.708) condenou a parte ré ao pagamento ao FRANCISCO FERNANDES JALES de pensões vencidas, a serem calculadas sobre 6,03 salários-mínimos. Em suas razões de apelação (fls. 682/707 - i.e. 738), o embargante insurge-se contra a sentença, aduzindo que como o exequente não exercia atividade remunerada na época dos fatos, a base de cálculo não poderia ser o valor da aposentadoria, mas sim o salário mínimo.
+Ocorre que o acórdão (fls. 766 - i.e. 0817) elucida a questão ao mencionar que "deve ser o salário mínimo o parâmetro de condenação quanto à pensão concedida", destacando ainda que "o valor básico para fixação da pensão oriunda da incapacidade".."deve ser o do salário mínimo."
+De igual turno, não se mostra evidenciado qualquer interesse recursal no que toca ao pedido de que os valores já depositados sejam descontados da verba ainda devida aos demandantes, eis que houve expressa manifestação do juízo de primeiro grau nesse sentido, ao destacar, na decisão recorrida, que deve o contador "observar os valores já depositados e os jálevantados". Logo, a executada poderá manifestar eventual inconformismo somente após a efetiva apuração, pelo contador judicial, do saldo remanescente a que fazem jus os exequentes.
+O interesse em recorrer é instituto ontologicamente semelhante ao interesse de agir como condição da ação, e é mensurado à luz do benefício prático que o recurso pode proporcionar ao recorrente, benefício este não demonstrado quanto às pretensões recursais acima expostas.
+No que tange ao pedido de limitação do tempo de pensão a ser paga ao primeiro autor, não assiste razão à recorrente, na medida em que o limite temporal estabelecido pelo juízo de piso por ocasião da prolação da sentença foi excluído em sede recursal, tendo esta Câmara Cível (fls. 757/768 dos autos principais) fixado em favor dos autores pensão de natureza vitalícia.
+Impende, outrossim, salientar que, a despeito das alegações recursais, a decisão atacada não excluiu a verba de constituição de capital garantidor da obrigação imposta à parte executada, mas tão somente concluiu pela não adoção dessa condenação como parâmetro para os cálculos a serem elaborados pelo contador, já que se trata de obrigação de fazer, e não de pagar, sobre a qual não há qualquer controvérsia.
+Relativamente aos honorários sucumbenciais, a decisão recorrida foi clara ao estabelecer que a verba honorária corresponde a 15 % sobre o valor da condenação, de acordo com a sentença, e, na forma da decisão de fls. 941 dos autos principais, 10% (dez por cento), na fase de execução. Eventual inconformismo com os percentuais já fixados deveria ser manifestado em momento oportuno, o que não ocorreu, concluindo-se que a matéria já se encontra preclusa.
+Assim, não comprovada qualquer ilegalidade ou abuso de direito na decisão recorrida, a sua manutenção é medida que se impõe, fazendo-se oportuno destacar que a parte executada poderá impugnar os cálculos apresentados pelo contador caso manifeste eventual discordância.
+Como se vê, o acórdão recorrido enfrentou os aspectos que a parte embargante considera terem sido omitidos.
+A propósito, é importante recordar que não se considera omissa a decisão judicial que contém exposição compreensível, inteligível, sem ambiguidades, inconfundível e exata dos motivos que levaram o órgão julgador a adotar determinada solução, não obstante contrária aointeresse da parte. Veja-se:
+AGRAVO INTERNO NO AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL.EMBARGOS. EXECUÇAO. DECISÃO CONTRÁRIA AOS INTERESSES DO AGRAVANTE NÃO CARACTERIZA OMISSÃO. EXEGIBILIDADE DO TÍTULO EXECUTIVO.PROTESTO. NULIDADE. SÚMULA 7 DO STJ. INOVAÇÃO RECURSAL.PREQUESTIONAMENTO NÃO CARACTERIZADO. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em nulidade do acórdão por omissão, se este examinou e decidiu os pontos relevantes e controvertidos da lide e apresentou os fundamentos nos quais sustentou as conclusões assumidas.
+2. Não há falar, na hipótese, em violação aos arts. 489 e 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida (AgInt no AREsp 1046644/MS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/09/2017, DJe 11/09/2017).
+3. A alteração das premissas do acórdão, no sentido de perquirir sobre a nulidade do protesto ou mesmo a inexigibilidade dos títulos executados dependeria de incursão na seara das provas, soberanamente delineada perante as instâncias ordinárias, de modo que a insurgência esbarra no veto da Súmula 7 desta Corte.
+4. Predomina neste Tribunal Superior que, ainda que sem aceite, a duplicata que houver sido protestada, quando acompanhada de comprovação de realização do negócio jurídico subjacente, revela-se instrumento hábil a fundamentar a execução. Incidência da Súmula 83/STJ.
+5. Quanto à violação ao art. 20 do CPC/73, aplicação da Súmula 211 do STJ é medida que se impõe já que a inexistência de carga decisória a respeito da matéria impede que ela seja apreciada na presente via recursal, tendo em vista a falta de prequestionamento.
+6. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1519538/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/12/2020, DJe 15/12/2020)
+Entendo, pois, que não há omissão a sanar, devendo ser mantida a decisão embargada, tal como lançada.
+Em face do exposto, acolho os embargos, sem efeitos infringentes, apenas para determinar aretificação da autuação, excluindo-se VIAÇÃO CIDADE DO AÇO LTDA.
+ ..
+A motivação exposta nessas duas decisões - a primeira, que deu provimento ao recurso especial, e a segunda, que acolheu em parte os embargos de declaração - não merece reforma, pois está adequada à realidade do caso concreto.
+Afirmei ao apreciar os embargos de declaração que, apesar da crítica da parte agravante, o Tribunal local se manifestou sobre a exclusão do capital garantidor e os parâmetros para apuração do saldo devedor.
+Assim, parece-me que a decisão ora agravada está suficientemente fundamentada. Note-se que foram indicadas com clareza e precisão as questões a respeito das quais houve omissão por parte do Tribunal de origem, sendo demonstrado, outrossim, que os dois outros temas levantados pela parte ora agravante foram enfrentados.
+A queixa apresentada no agravo interno, no sentido de que, ao ser rejeitada (em parte) a pretensão deduzida no recurso especial e reiterada nos embargos de declaração, não houve a devida fundamentação, fica, desse modo, repelida.
+ ..
+Em face do exposto, nego provimento ao agravo interno.
+ ..
+A fundamentação do acórdão embargado é clara, objetiva e suficiente, não havendo necessidade de esclarecimento adicional.
+Não identifico necessidade de modificar aquela fundamentação, sobretudo porque o argumento posto nos presentes embargos é o mesmo apresentado no agravo interno (e nos embargos que o precederam).
+A insinuação de que o acórdão embargado é omisso, traduz, inequivocamente, insatisfação com o sucesso parcial do recurso especial, solução que a parte embargante resiste em aceitar.
+Para finalizar, cumpre rememorar que os embargos de declaração se destinam a aperfeiçoar a decisão judicial, desde que nesta existam vícios. Os limites, a natureza e a finalidade desse instrumento processual não permitem o rejulgamento da causa, como pretende a parte embargante. A atribuição de efeito modificativo só é possível em situações excepcionais, nas quais comprovada obscuridade, contradição, omissão ou erro material, nenhuma delas presente na hipótese vertente.
+Em face do exposto, rejeito os embargos.
+É como voto.
