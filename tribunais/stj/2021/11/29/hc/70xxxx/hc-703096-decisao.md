@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PEDRO PAULO GARCIA DE PAULA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo de Execução Penal n. 0006147-32.2021.8.26.0026).
+Depreende-se dos autos que o paciente encontrava-se em cumprimento de pena no regime fechado. Pleiteada a progressão de regime, o pedido foi deferido pelo Juízo das execuções que "considerou dispensável o cumprimento do prazo de reabilitação de falta disciplinar para o deferimento do benefício, quando o resgate do requisito objetivo ocorrer antes da reabilitação" (e-STJ fl. 10).
+Irresignado, o Ministério Público interpôs agravo em execução no Tribunal de origem, que deu provimento ao recurso "para que o pedido de progressão somente seja analisado após o prazo de reabilitação das faltas graves, bem como para que seja retificado o boletim informativo, atestando-se o mau comportamento do agravado até o decurso do prazo de reabilitação" (e-STJ fl. 13).
+Daí o presente writ, no qual a Defensoria Pública do Estado de São Paulo alega "que, mesmo que o sentenciado registre mau comportamento, se cumprido o requisito objetivo, ele recuperará a boa conduta carcerária para concessão de direitos. Logo, utilizar-se-á como data base para futuras progressões a data do preenchimento do requisito objetivo. Assim, não há que se falar em ausência de requisito subjetivo" (e-STJ fl. 5).
+Assere que, "havendo previsão legal expressa no parágrafo 7º do art. 112 da Lei de Execução Penal, não há que se falar na aplicação de norma administrativa quanto ao prazo de reabilitação da conduta, razão pela qual, resta preenchido o requisito subjetivo para progressão de regime, diante do bom comportamento carcerário" (e-STJ fl. 5).
+Requer, liminarmente e no mérito, "seja cassado o acórdão que determinou a regressão de regime, para o fim de ser restabelecida a decisão de primeiro grau que concedeu a progressão ao regime intermediário, em face da reabilitação da conduta pelo implemento do requisito objetivo" (e-STJ fl. 8).
+Indeferida a liminar (e-STJ fls. 222/223), e prestadas as informações (e-STJ fls. 228/268 e 269/277), manifestou-se o Ministério Público Federal "pelo não conhecimento do habeas corpus e pela concessão de ofício da ordem" (e-STJ fl. 285).
+É, em síntese, o relatório.
+No caso dos autos, o Tribunal de origem deu provimento ao agravo do Ministério Público para "que o pedido de progressão somente seja analisado após o prazo de reabilitação das faltas graves, bem como para que seja retificado o boletim informativo, atestando-se o mau comportamento do agravado até o decurso do prazo de reabilitação" (e-STJ fl. 13). Eis os fundamentos adotados para tanto (e-STJ fls. 11/12):
+O agravado cumpre penas de 8 anos e 10 meses de reclusão, iniciada em 17/3/2015, com término de cumprimento previsto para 14/5/2025.
+Nos últimos anos, praticou cinco faltas disciplinares graves, ensejando, a cada infração, novo período de reabilitação, que se somava, indistintamente, ao período anterior.
+Na hipótese, portanto, o prazo de reabilitação será, de fato, 16/02/2024, porquanto aplicável a regra do artigo 89, inciso II, da Resolução 144/2010, da Secretaria de Administração Penitenciária, competente para regulamentar as consequências das transgressões cometidas nas unidades prisionais.
+Importante mencionar que, nos termos do citado artigo, os prazos para reabilitação do comportamento são contados a partir do cumprimento da sanção imposta. Além disso, o artigo 90, parágrafo único, assim dispõe: "O cometimento de falta disciplinar, durante o período de reabilitação, acarreta a imediata interrupção do tempo até então cumprido. Parágrafo único. Com a prática de nova falta disciplinar, exige-se novo tempo para reabilitação que deve ser somado ao tempo estabelecido para a falta anterior, sendo detraído do total do período já cumprido".
+ ..
+Não se desconhece o novel § 7º do artigo 112 da LEP, com a redação trazida pela Lei n. 13.964/2019 (Pacote Anticrime) dispondo que "o bom comportamento é readquirido após 1 (um) ano da ocorrência do fato, ou antes, após o cumprimento do requisito temporal exigível para a obtenção do direito".
+Todavia, tal dispositivo não faz menção à contagem do prazo para que o sentenciado readquira o bom comportamento carcerário no caso do cometimento de mais de uma falta grave, como na hipótese.
+Assim, considerando o histórico prisional do agravado, sublinhe-se, apesar da apreciação literal do dispositivo (art. 112, § 7º, LEP), que exigirá alguma reflexão, oportunamente, no presente caso, de rigor a aplicação da citada Resolução 144 da Secretaria de Administração Penitenciária, porquanto perpetrou o sentenciado faltas disciplinares graves e sucessivas.
+Com efeito, disciplina a Constituição Federal:
+Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre:
+I - direito tributário, financeiro, penitenciário, econômico e urbanístico;
+ ..
+§ 2º A competência da União para legislar sobre normas gerais não exclui a competência suplementar dos Estados.
+A Lei de Execuções Penais também prevê a competência das autoridades administrativas estaduais, da seguinte forma:
+Art. 47. O poder disciplinar, na execução da pena privativa de liberdade, será exercido pela autoridade administrativa conforme as disposições regulamentares.
+Art. 73. A legislação local poderá criar Departamento Penitenciário ou órgão similar, com as atribuições que estabelecer.
+Art. 74. O Departamento Penitenciário local, ou órgão similar, tem por finalidade supervisionar e coordenar os estabelecimentos penais da Unidade da Federação a que pertencer.
+Como se pode ver, aos estados compete suplementar a legislação penal da União, assim como o poder disciplinar também compete às autoridades administrativas estaduais, tanto que a legislação local pode criar departamento penitenciário, de forma que o governo paulista criou a Secretaria de Administração Penitenciária, a qual, por sua vez, editou a Resolução n. 144/2010.
+Com base nessa competência legal, a referida resolução da Secretaria de Administração Penitenciária disciplinou a reabilitação de faltas disciplinares da seguinte forma:
+Artigo 89 - o preso em regime fechado ou em regime semiaberto tem, no âmbito administrativo, os seguintes prazos para reabilitação do comportamento, contados a partir do cumprimento da sanção imposta:
+I- 03 (três) meses para as faltas de natureza leve;
+II- 06 (seis) meses para as faltas de natureza média;
+III- 12 (doze) meses para as faltas de natureza grave.
+Artigo 90 - o cometimento de falta disciplinar de qualquer natureza, durante o período de reabilitação, acarreta a imediata interrupção do tempo até então cumprido.
+Parágrafo único - com a prática de nova falta disciplinar, exige-se novo tempo para reabilitação que deve ser somado ao tempo estabelecido para a falta anterior, sendo detraído do total o período já cumprido. (Grifei.)
+Enfim, o Estado de São Paulo, ao editar a Resolução SAP n. 144/2010, nada mais fez do que se valer da competência que lhe foi outorgada pela Constituição Federal, ante a inexistência de regulamentação específica sobre o tema.
+Nessas circunstâncias, não verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que o Tribunal de origem, considerando o histórico prisional do sentenciado, que registra 5 (cinco) faltas graves, determinou a retificação do Boletim Informativo elaborado nos termos do arts. 89 e 90 da Resolução SAP n. 144/2010.
+Dessa forma, ainda que se considere que a pretensão da defesa se limita à declaração de inconstitucionalidade dos dispositivos do Regimento Interno Padrão das Unidades Prisionais do Estado de São Paulo que dispõem sobre a interrupção do prazo de reabilitação quando do cometimento de nova falta disciplinar grave no curso de período depurador de outra anteriormente praticada, verifica-se que, ao julgar o Habeas Corpus n. 360.262/SP, em situação similar à dos presentes autos, o Ministro Felix Fischer entendeu que eventual inconstitucionalidade deveria ser perquirida ao Supremo Tribunal Federal, sob pena de usurpação de competência.
+Nesse mesmo sentido os precedentes a seguir:
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME PRISIONAL. ART. 2º, § 1º, DA LEI N. 8.072/1990. FUNDAMENTO INVÁLIDO. DISPOSITIVO DECLARADO INCONSTITUCIONAL PELO STF. ALEGADA OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO STF. EMBARGOS REJEITADOS.
+ ..
+4. Não compete ao Superior Tribunal de Justiça o enfrentamento de dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Embargos de declaração rejeitados (EDcl no AgRg no HC n. 269.951/SP, relator o Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/2/2016, grifei.)
+HABEAS CORPUS SUBSTITUTIVO. DESVIRTUAMENTO. ARTIGO 324 DO CÓDIGO PENAL MILITAR. INÉPCIA DA DENÚNCIA. TESE ALEGADA APÓS A SENTENÇA CONDENATÓRIA. PRECLUSÃO E SUPRESSÃO DE INSTÂNCIA. ABSOLVIÇÃO. DILAÇÃO PROBATÓRIA. IMPROPRIEDADE DA VIA ELEITA. ATO PREJUDICIAL À ADMINISTRAÇÃO MILITAR. CARACTERIZAÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA.TESE NÃO DEDUZIDA PERANTE O TRIBUNAL DE ORIGEM. CONTROLE ABSTRATO DE CONSTITUCIONALIDADE. IMPROPRIEDADE DA VIA ELEITA.
+ ..
+8. A ação constitucional do habeas corpus não é via adequada para se requerer a declaração de inconstitucionalidade de lei, em tese, pois tal matéria é reservada ao controle concentrado de normas, de competência do Supremo Tribunal Federal.
+9. Ordem não conhecida (HC n. 291.368/SE, relato o Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 6/6/2014, grifei. )
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
