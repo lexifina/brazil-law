@@ -1,0 +1,9 @@
+DECISÃO
+Por meio daPetição nº 00110365/2021(fls. 3.591/3.592),Alfredo José Monteiro Scaffmanifestouinteresse em realizar acordo, nos termos do art. 17, § 1º, da Lei nº 8.429/92, e requereu "a intimação do i. representante do Ministério Público Federal para manifestar sua concordância quanto à suspensão do processo, analisar as possibilidades composição, bem como, e se o caso, agendar audiência com os patronos do Recorrente para discutir seus termos" (fl. 3.591).
+Mediante despacho de fls. 3.600/3.601, determinei a suspensão doprocesso, pelo prazo improrrogável de 30 (trinta) dias úteis, a contar da respectiva intimação, para que o requerente,sponte propria, dirigisse sua pretensão ao órgão ministerial proponente da ação.
+Pois bem, na sequência, pela Petição nº 00485445/2021 (fls. 3.629/3.652), o mesmo requerente informou"fato novo", consubstanciado no acórdão da Primeira Turma desta Corte proferido no AREsp 1.314.581/SP, o qual, em seu entender, "autorizou a realizaçãode acordo em Ação de Improbidade Administrativa na fase de Recurso Especial, com parecer favorável do Ministério Público Federal sobre a matéria". Requer, nessa linha de argumentação, "seja expedida nova intimação ao i. representante do Parquet Federal, para que, diante desse fato novo, se manifeste novamente sobre a possibilidade de composição com o Recorrente".
+É O NECESSÁRIO RELATÓRIO. PASSO A DECIDIR.
+Nada obstante a ausência de qualquer erronia no procedimento indicado anteriormente, determino a intimação do Ministério Público Federal (autor),para que, no prazo de 5 (cinco) dias úteis, esclareça se teminteresse em eventual composição com os réuse, em caso positivo, informe o tempo necessário para a realização da eventual avença, a fim de que este Relator delibere acerca da suspensão do processo.
+Aguarde-se na Coordenadoria.
+Publique-se.
+Intime-se.
