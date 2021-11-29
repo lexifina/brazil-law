@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MINISTÉRIO PÚBLICO FEDERAL,mediante o qual se impugna acórdão, promanado do Tribunal Regional Federal da 4ª Região, assim ementado:
+"ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. CONSTRUÇÃO DE CONDOMÍNIO VERTICAL ÀS MARGENS DO CANAL MARAMBAIA EM BALNEÁRIO CAMBORIÚ/SC. ÁREA DE PRESERVAÇÃO PERMANENTE.
+DANOS AMBIENTAIS. DEMOLIÇÃO. INDENIZAÇÃO. DESTINO DA VERBA.
+A responsabilidade civil por danos ao meio ambiente é de natureza objetiva e encontra respaldo no art. 225, § 3º, da Constituição Federal, no art.
+14, § 1º, da Lei n.º 6.938/81, no art. 7º da Lei n.º 7.661/88, no art. 2º, § 1º, do Código Florestal, e nos princípios do poluidor-pagador, da prevenção e precaução (STJ, 2ª Seção, REsp 1114398/PR, Rel. Ministro SIDNEI BENETI, julgado em 08/02/2012, DJe 16/02/2012).
+Em matéria ambiental, não se aplica a teoria do fato consumado, impondo-se a aplicação de sanções de natureza pecuniária, quando inviável a demolição da obra irregular.
+Comprovada a ocorrência de dano ambiental, é devido o pagamento de indenização pelo infrator em montante a ser arbitrado em consonância com as circunstâncias do caso concreto.
+O valor a ser pago a título de indenização deve ser revertido ao Fundo de que trata o art. 13 da Lei n.º 7.347/85" (fl. 1.926e).
+Opostos Embargos de Declaração, restaram parcialmente acolhidos, para fins de prequestionamento, nos seguintes termos:
+"ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. OMISSÃO.CONTRADIÇÃO. OBSCURIDADE.
+Os embargos de declaração constituem recurso interposto perante o magistrado ou colegiado prolator da decisão impugnada, com vistas à supressão de omissão, contradição, obscuridade ou erro material no texto que possa dificultar a exata compreensão da manifestação judicial. E mesmo quando opostos com o objetivo de prequestionar matéria a ser versada em provável recurso extraordinário ou especial, devem atender aos pressupostos delineados no artigo 1.022 do CPC, pois não se prestam, por si só, para forçar o ingresso na instância superior, decorrendo, sua importância, justamente do conteúdo integrador da sentença ou do aresto impugnado. Com efeito, não se revelam meio hábil ao reexame da causa ou modificação do julgado no seu mérito, pois opostos quando já encerrado o ofício jurisdicional naquela instância" (fl. 2.035e).
+No Recurso Especial, manejado com base naalíneaado permissivo constitucional, alega-se a violação aos arts.944 do Código Civil,3ºda Lei 7.347/85,4º, VII, e 14, § 1º, da Lei6.938/81, sustentando que "a sentença rematou por legalizar a ilicitude mediante o pagamento de um valor completamente irrelevante, sendo que o provimento jurisdicional de segundo grau, com as devidas vênias, novamente incorreu nesse vezo, arbitrando valor irrisório a título de indenização pecuniária pelo dano ambiental" (fl. 2.098e).
+Requer, por fim, o provimento do Recurso Especial, "tendo como resultado a reforma parcial do acórdão recorrido e a condenação dos demandados ARRKA CONSTRUTORA E INCORPORADORA LTDA e, subsidiariamente, ROBSON CASSOL E RÔMULO CASSOL, ao pagamento de indenização pecuniária pelo dano ambiental, a ser fixada em valor adequado e proporcional à natureza, extensão e duração da lesão causada ao patrimônio ambiental" (fl. 2.099e).
+Apresentadas contrarrazões.
+O Recurso Especial foi admitido (fls. 2.198/2.139e).
+O Ministério Público Federal, em parecer de fls. 2.250/2.260e, opina pelo conhecimento do agravo para não conhecer do recurso especial de ARKKA Construtora e Incorporador; pelo provimento do recurso especial do IBAMA para anular o acórdão proferido nos embargos de declaração e determinar o retorno dos autos, a fim de que o TRF da 4ª Região renove o julgamento; e caso não provido o recurso do IBAMA, pelo provimento do recurso especial do Ministério Público Federal
+A irresignação está prejudicada.
+Tendo em vista o provimento do Recurso Especial (fls. 2.060/2.078e), interposto pela parte ex adversa, para anular o acórdão recorrido, a fim de que o Tribunal de origem se pronuncie, de maneira motivada, com a análise das alegações da parte recorrente trazidas em Embargos de Declaração, resta prejudicada a presente pretensão recursal de revisão do valor da indenização por dano ambiental.
+Em face do exposto, com fundamento do art. 255, § 4º, inciso I, do RISTJ, julgo prejudicado o presente Recurso Especial.
+I.
