@@ -1,0 +1,6 @@
+DECISÃO
+GILSON FERNANDO LEONEL alega ser vítima de coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que denegou o HC n. 2184490-94.2021.8.26.0000.
+A defesa pretende a soltura do paciente - acusadopela prática do crime de tráfico de drogas - ou a aplicação de medidas cautelares alternativas à prisão, sob os argumentos de ausência de fundamentação idônea para manutenção da segregação cautelar, bem como que esta foi mantida unicamente com base em outra ação em andamento, mas que, todavia, trata-se de acusado primário e domiciliado no distrito da culpa.
+Entretanto, em consulta aos autos principais (n. 1502005-78.2021.8.26.0132) na página eletrônica do TJSP, o gabinete verificou que foi proferida sentença condenado o paciente pela prática delito previsto no art. 33, caput e §4º, da Lei n. 11.343/2006 a 1 ano e 8 meses de reclusão, em regime inicial aberto, e revogada a prisão preventiva com a consequente expedição de alvará de soltura em seu favor em 9/11/2021.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente do seu objeto.
+Publique-se e intimem-se.
