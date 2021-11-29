@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por WELLINGTON SIMAS SANTOS desafiando acórdão do Tribunal de Justiça do Estado da Bahia (HC n. 8017431-95.2020.8.05.0000).
+Consta dos autos que foi o recorrente preso preventivamente pela suposta prática da conduta descrita no art. 121, § 2º, incisos I e IV, do Código Penal (homicídio qualificado).
+Nos termos da peça acusatória, o recorrente e os corréus,comanimus necandie a mando do acusado Ulisses Rubens Almeida Silva, teriam ceifado a vida da vítima, Thompson Santos Macedo, mediante disparos de arma de fogo, causando-lhe lesões que consubstanciaram a causa eficiente de sua morte. Consoante apurado, o crime teria como motivação o fato de a vítima haver presenciado e posteriormente sido arrolada como testemunha de processo criminal relativo ao crime de homicídio supostamente praticado por Ulisses Rubens Almeida Silva contra a vítima Leonardo Calmon da Silva.
+Buscando a revogação da custódia cautelar, impetrou a defesahabeas corpusnoTribunal de Justiça do Estado da Bahia.
+Entretanto, os desembargadores integrantes da Segunda Turma da Primeira Câmara de Direito Criminal denegaram a ordem.
+No Superior Tribunal de Justiça, sustenta a Defensoria Pública a ilegalidade, ante a ausência de fundamentos suficientes, do acórdão que manteve a medida excepcional. Sublinha que a "decisão de pronúncia proferida pelo Juízo de piso, no ponto em que restringiu a liberdade do Recorrente, não justificou a necessidade da custódia, com base em elementos concretos que respaldassem o perigo do Recorrente ser colocado em liberdade, ao revés, se baseou na gravidade abstrata do delito de homicídio, sem nenhuma contextualização fática acerca da conduta do Recorrente" (e-STJ fl. 169).
+Reverbera, outrossim, o excesso de prazo na formação da culpa. Destaca que, embora prolatada sentença de pronúncia, não há previsão para a realização do julgamento pelo Tribunal do Júri.
+Diante disso, pede, em tema liminar, possa o recorrente aguardar em liberdade o julgamento definitivo do presente inconformismo. No mérito, busca o relaxamento ou a revogação da custódia cautelar, com a correspondente expedição de alvará de soltura.
+O pedido liminar foi por mim indeferido (e-STJ fls. 185/187).
+Prestadas as informações de estilo, o Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 257/271).
+É, em síntese, o relatório.
+Decido.
+Das informações prestadas pelo Juízo de primeiro grau, às e-STJ fls. 284/288, verifico que, no dia 15/10/2021, foi realizado o julgamento do recorrente pelo Tribunal do Júri, eprolatada sentença nos autos da Ação Penal n. 0520401-18.2018.8.05.0001, objeto do presente recurso,para condena-lo à pena privativa de liberdade de 16(dezesseis) anos,7(sete) meses e 15 (quinze) de reclusão, em regime inicialfechado, pela prática dos crimes previstos no art. 121, § 2º, I e IV, do Código Penal.Foi-lhe, ainda, negado o benefício de recorrerem liberdade.
+Na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado owritou o recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO E FUNDAMENTAÇÃO. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. PREJUDICIALIDADE. SÚMULA 21/STJ. NOVO TÍTULO. ELEMENTOS CONCRETOS. PERICULOSIDADE. MODUS OPERANDI. MOTIVAÇÃO IDÔNEA A JUSTIFICAR A NECESSIDADE DA PRISÃO CAUTELAR.
+ ..
+2. A superveniência de sentença penal condenatória, por constituir novo título judicial a embasar a constrição cautelar do acusado, torna prejudicado o exame de writ que questiona decreto de prisão preventiva anterior (HC n. 365.344/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/8/2017).
+3. Existência de motivação concreta na decisão que decretou a prisão preventiva do ora agravante, evidenciada a periculosidade acentuada pelo modus operandi do crime praticado contra agente de segurança pública.
+4. Agravo regimental improvido.(AgRg no HC 440.273/SC, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 28/3/2019, DJe 5/4/2019.)
+Insta salientar, por fim, que existe motivação concreta no decreto de prisão para a manutenção da custódia cautelar, calcada na gravidade em concreto dos delitoe na periculosidade do recorrente, que é reincidente na prática de outros delitos e cumpria pena em regime aberto na Comarca de Lauro de Freitas/BA, bem como responde a outros processos criminais, inclusive pela prática de homicídio.Tais circunstâncias demonstram a necessidade da custódia para garantia da ordem pública e para cessar a reiteração delitiva.
+Dessarte, mostra-se patente que o presente recurso, que visava a revogação da prisão do recorrente por excesso de prazo e por falta de fundamentação idônea do decreto constritivo, está prejudicado haja vista a perda superveniente de objeto.
+Ante o exposto,julgo prejudicadoo presente recurso emhabeas corpus.
+Publique-se. Intimem-se.
