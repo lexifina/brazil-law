@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 971/997) interposto contra decisão de minha relatoria que conheceu do agravo e negou provimento ao recurso especial.
+Em suas razões, o agravante alega:
+i) o descabimento de aplicação da Súmula n. 283 do STF, pois afirma que "não há a prescrição ventilada, se a tese defendida é sua inexistência, apontando os motivos de sua não incidência, o combate a tese foi realizado" (e-STJ fl. 974),
+ii)"que não houve alteração do fundo de direito, pautado no art. 6º, § 2º da LINDB cumulado as Súmulas editadas pelo STJ nº 85 e 291 e pelo STF nº 433, que declaram expressamente que não há alteração do direito do autor unilateralmente pela instituição bancária, e que este, por se tratar de complementação de aposentadoria, de trato sucessivo, não possui prescrição vintenária, pois somente se prescrevem as parcelas vencidas 5 anos antes do ingresso da demanda" (e-STJ fl. 975),
+iii) que "não há fundamentação do Tribunal Paulista em seu Acórdão dos motivos de inobservância das Súmulas e Leis invocadas" (e-STJ fl. 986).
+Ao final, pede a reconsideração da decisão monocrática ou sua apreciação pelo Colegiado.
+O agravadoapresentou contrarrazões, requerendo aaplicaçãoda multa prevista no art. 1.021, § 4ºdo CPC/2015(e-STJ fls. 1.001/1.010).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM COBRANÇA. PRESCRIÇÃO E DISSÍDIO.AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF.VIOLAÇÃO DOSARTS. 2º E6º DA LINDB. IMPOSSIBILIDADE. MATÉRIA DE NATUREZA CONSTITUCIONAL. ART. 489, § 1º, IDO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃOOCORRÊNCIA. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. SÚMULA N. 518 DO STJ. DECISÃO MANTIDA.
+1.O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. Consoante a jurisprudência desta Corte, é "inviável o conhecimento do Recurso Especial por violação do art. 6º da LICC, uma vez que os princípios contidos na Lei de Introdução ao Código Civil - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988)"(AgInt no REsp 1790775/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/03/2020, DJe 20/03/2020).
+3.Não há falar em contrariedade ao art. 489, § 1º, I, do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos.
+4.A ofensa a enunciado de súmula não autoriza o ingresso na instância especial, a teor do que dispõe a Súmula n. 518/STJ:"Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula."
+5. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 965/969):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação do art. 489, § 1º, do CPC/2015, (b)inaplicabilidade de teses repetitivas, (c) falta de comprovação do dissídio jurisprudencial alegado (e-STJ fls. 893/896).
+O acórdão recorrido está assim ementado (e-STJ fl. 820):
+APELAÇÃO CÍVEL - Previdência Privada - Ação declaratória cumulada com cobrança - Sentença de improcedência (art. 487, I, do CPC) - Recurso do autor - Pretensão fundada na Portaria nº 966/47, que transferiu o fundo para a PREVI no ano de 1967 - Hipótese em que o autor não busca a revisão do benefício concedido e pago pela PREVI, mas sim a implementação de uma nova complementação de aposentadoria a ser paga pelo ex empregador Banco do Brasil - Inexistência de trato sucessivo - Prescrição vintenária do fundo do direito, que se conhece, por este Acórdão, em reapreciação da arguição feita em contestação e reiterada em contrarrazões de recurso pelo banco réu - Questão de ordem pública que, inclusive, pode ser conhecida de ofício a qualquer tempo e grau de jurisdição - Precedentes - Sentença de improcedência da ação, mantida, mas por outro fundamento - Extinção do processo, com resolução do mérito, pronunciando a prescrição do fundo do direito da ação (art. 487, II, do CPC) - PRESCRIÇÃO PRONUNCIADA. RECURSO PREJUDICADO. Majorados honorários advocatícios (art. 85, § 11, do CPC).
+Os embargos de declaração foram rejeitados (e-STJ fls. 852/858).
+No recurso especial (e-STJ fls. 861/872), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 489, § 1º, IV e VI, do CPC/2015 pois a decisão "apreciou tão somente a questão prejudicial relativa a prescrição, muito embora versam os autos sobre matéria previdenciária, onde não ocorre a prescrição do fundo de direito, prescrevendo, tão somente as prestações anteriores ao quinquênio anterior a propositura" (e-STJ fl. 863),
+(ii) arts. 2º e 6º da LINDB afirmando que, "quando admitido por concurso para trabalhar no Recorrido, instrução interna, a Circular nº 966/47, do Banco do Brasil S/A, assegurou-lhe aposentadoria a título de complementação de seu salário e em valor correspondente a este. Trata-se de direito do Recorrente não sujeito a modificação unilateral, é inalterável. Aqui houve ferimento a direito adquirido" (e-STJ fl. 864),
+(iii) arts. 926, §§ 1º e 2º, e 927 do CPC/2015, sustentando ser firme a jurisprudência "no sentido de que o pagamento de complementação de aposentadoria é obrigação de trato sucessivo, sujeita, pois a prescrição quinquenal que alcança somente as parcelas vencidas anteriormente ao quinquênio que precede o ajuizamento da ação" (e-STJ fl. 868).
+Busca o provimento do recurso especial, para o fim de (e-STJ fls. 872):
+ ..  reformar o v. acórdão provendo o pleito inicial, de modo a reconhecer que não há prescrição no fundo de direito, mas tão somente do quinquênio anterior a propositura da ação, reconhecendo-se assim, o direito do autor ao pagamento de complementação de aposentadoria que é obrigação de trato sucessivo, sujeita a prescrição quinquenal as parcelas vencidas anteriormente ao quinquênio que precede o ajuizamento da ação e não o próprio fundo de direito, como reconhecido no acórdão paradigma e de confronto, tudo como medida de inteira justiça.
+No agravo (e-STJ fls. 899/907), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrido apresentou contraminuta (e-STJ fls. 943/950).
+É o relatório.
+Decido.
+Do direito adquirido
+Quanto à alegada violação dos arts. 2º e 6º da Lei de Introdução às Normas do Direito Brasileiro (antiga LICC), o Superior Tribunal de Justiça entende que os princípios contidos no referido dispositivo - direito adquirido, ato jurídico perfeito e coisa julgada - assumiram contornos nitidamente constitucionais, razão pela qual não podem ser objeto de recurso especial, sob pena de, se analisados, ferir-se a distribuição de competências estabelecida pela Constituição Federal.
+Sobre o tema:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. 1. OFENSA AO ART. 5o, XXXVI, DA CF. IMPOSSIBILIDADE.MATÉRIA CONSTITUCIONAL. 2. VIOLAÇÃO AO ART. 6o, § 1º, DA LINDB.IMPOSSIBILIDADE. MATÉRIA DE NATUREZA CONSTITUCIONAL. 3.POSSIBILIDADE DE REVISÃO DA MULTA. PRECEDENTES. NECESSIDADE DE REDUÇÃO DO VALOR EXECUTADO. 3.1. MONTANTE DESPROPORCIONAL. CONCLUSÃO FUNDADA EM FATOS E PROVAS. SÚMULA 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. É inviável o exame de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+2. Consoante a jurisprudência desta Corte, é "inviável o conhecimento do Recurso Especial por violação do art. 6º da LICC, uma vez que os princípios contidos na Lei de Introdução ao Código Civil - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988)" - (AgRg no REsp n. 1.402.259/RJ, Relator o Ministro Sidnei Beneti, DJe 12/6/2014).
+ ..  4. Agravo interno improvido.
+(AgInt no REsp 1790775/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/03/2020, DJe 20/03/2020.)
+Da ausência de prestação jurisdicional
+Não há falar em contrariedade ao art. 489, § 1º, I, do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. O Tribunal de origem consignou que "o caso envolve pleito de recebimento de complementação de aposentadoria" (e-STJ fl. 823), sendo descabida a tese de que a decisão tratou tão somente da prescrição.
+Verifica-se, na verdade, a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo.
+Da obrigação de trato sucessivo
+O Tribunal de origem assim se pronunciou (e-STJ fl. 823):
+Nestas condições não se trata aqui de discussão de recebimento de diferença de benefício previdenciário pago pela PREVI, a ensejar cômputo de prescrição quinquenal, relacionada a obrigação de trato sucessivo, conforme entendeu o d. Magistrado sentenciante, para apenas pronunciar a prescrição quinquenal das parcelas reclamadas de cinco anos para traz contados do ajuizamento da ação.
+O caso envolve pleito de recebimento de complementação de aposentadoria, em conformidade com a Portaria nº 966/1947, que foi alterada em 15 de abril de 1967, por acordo unilateral entre o Banco do Brasil e PREVI, e, posteriormente, em 24 de dezembro de 1997, com novo acordo entre o banco réu e a PREVI, com os quais não concorda o apelante e alega prejuízos.
+A arguição de prescrição que atinge o direito de fundo, feita pelo apelado em contestação e reiterada em preliminar de contrarrazões (fls. 781/804) e contra a qual defende o apelante, ocorre tão somente com relação às parcelas vencidas no quinquídio anterior à data do ajuizamento da ação (fls. 776 das razões recursais - item IV da conclusão), não pode ser aceito, porquanto o próprio fundo do direito invocado pelo autor está fulminado pelo manto da prescrição da ação.
+Isto porque, a pretensão do apelante surgiu no momento da violação do alegado direito, qual seja, a transferência da obrigação da complementação da aposentadoria pelo ex empregador Banco do Brasil para a PREVI, em 15 de abril de 1967, sendo este o termo inicial do prazo prescricional vintenário, vigente à época, considerando o Código Civil de 1916, cujo lapso transcorreu no ano de 1987, atingindo o fundo de direito do apelante, ao passo que a presente ação apenas foi ajuizada em 10 de maio de 2019, quando há muito fulminado o direito do recorrente.
+A ausência de impugnação de fundamento do acórdão recorrido suficiente para mantê-lo impede o conhecimento do recurso, aplicando-se a Súmula n. 283/STF.
+No caso concreto, o recorrente não refuta o fundamento relativo à prescrição vintenária e à data de início de sua contagem, que é considerada a do momento em que se deu a suposta violação do direito. Ao contrário, cinge-se à impugnação do mérito, qual seja, não ocorrência da prescrição, com base nos arts. 926, §§ 1º e 2º, e 927 do CPC/2015 . Portanto, aplicável a súmula mencionada.
+Do dissídio jurisprudencial
+Ressalte-se que, se a pretensão do recorrente foi afastada por ausência de impugnação a o fundamento central do acórdão recorrido suficiente para mantê-lo, o conhecimento do recurso especial fica inviabilizado tanto pela alínea "a" como pela alínea "c", devido ao óbice da Súmula n. 283 do STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE INCOMPETÊNCIA. LOCAÇÃO. DENÚNCIA VAZIA. 1. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. 2. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO NO APELO EXTREMO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. 3. DISSÍDIO PREJUDICADO. 4. AGRAVO IMPROVIDO.
+(..)
+5. O óbice da Súmula n. 283 do Supremo Tribunal Federal, em razão da ausência de impugnação, inviabiliza o conhecimento do recurso especial no mérito, seja em relação à alínea a, seja em relação à alínea c do permissivo constitucional.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 985.675/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/03/2017, DJe 21/03/2017.)
+Diante do exposto, CONHEÇO do agravo e NEGO PROVIMENTO ao recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Não há comoafastar aaplicação da Súmula n. 283 do STF quanto à prescrição, estendendo-aao dissídio jurisprudencial, tendo a decisão afirmado (e-STJ fl. 967):
+No caso concreto, o recorrente não refuta o fundamento relativo à prescrição vintenária e à data de início de sua contagem, que é considerada a do momento em que se deu a suposta violação do direito. Ao contrário, cinge-se à impugnação do mérito, qual seja, não ocorrência da prescrição, com base nos arts. 926, §§ 1º e 2º, e 927 do CPC/2015. Portanto, aplicável a súmula mencionada.
+A tese deque não houve alteração do fundo de direito-pautado no art. 6º, § 2º, da LINDB e nasSúmulas n. 85 e 291 do STJ e433 doSTF-, não pode ser conhecida, conforme adecisão (e-STJ fl. 966):
+Quanto à alegada violação dos arts. 2º e 6º da Lei de Introdução às Normas do Direito Brasileiro (antiga LICC), o Superior Tribunal de Justiça entende que os princípios contidos no referido dispositivo - direito adquirido, ato jurídico perfeito e coisa julgada - assumiram contornos nitidamente constitucionais, razão pela qual não podem ser objeto de recurso especial, sob pena de, se analisados, ferir-se a distribuição de competências estabelecida pela Constituição Federal.
+No que se refere à violação de súmula, o recurso também não reúne condições de admissibilidade, tendo em vista que a ofensa a enunciado de súmula não autoriza o ingresso na instância especial, a teor da Súmula n. 518/STJ:
+Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula.
+Por fim, conforme delineado na fl. 967 (e-STJ), "não há falar em contrariedade ao art. 489, § 1º, I, do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. O TJSPconsignou que "o caso envolve pleito de recebimento de complementação de aposentadoria" (e-STJ fl. 823), sendo descabida a tese de que a decisão tratou tão somente da prescrição".
+Deixo de aplicar amultaprevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seudireitodepetição,o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
