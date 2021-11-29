@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se de embargos à execução de sentença coletiva. Na sentença, julgou-se parcialmente procedente o pedido para reconhecer excesso de execução. No Tribunal a quo, a sentença foi mantida, conforme o seguinte resumo de ementa do acórdão:
+APELAÇÃO CÍVEL EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA REAJUSTE DOS 317% PAGAMENTOS ATRASADOS JUROS SOBRE AS PARCELAS PAGAS ADMINISTRATIVAMENTE COMPENSAÇÃO POSSIBILIDADE CRITÉRIO DE ATUALIZAÇÃO MONETÁRIA LIMITE TEMPORAL REESTRUTURAÇÃO DA CARREIRA DO MAGISTÉRIO SUPERIOR LEI 10405/2002 MEDIDA PROVISÓRIA 2225-45/2001 RECONHECIMENTO PARCIAL DO EXCESSO DE EXECUÇÃO SUCUMBÊNCIA RECÍPROCA CONFIGURADA MANUTENÇÃO DA SENTENÇA.
+No recurso especial, a parte apresenta os seguintes argumentos:
+Contudo, ao assim decidir, oacardao recorrido incorreu em clara viola ao aos arts. 502, 503, 505 a 508 do NCPC e ao art. 6º, caput e § 3º, da LlNDB. Isso porque os servidores que percebem 0 reajuste de 3,17% com base em uma decisao judicial, tal como no caso dos autos, possuem direito assegurado por urn decisum nao mais passivel de ser alterado, eis que abarcado pelo instituto da coisa julgada.
+ ..
+Portanto, ainda que pudesse ser ultrapassada a existencia da coisa julgada que pudesse sustentar os argumentos relacionados a incorporayBo do percentual de 3,17%, indispensavel constatar que somente houve a efetiva reestruturacao da carreira de docente com 0 advento da Lei nO 11.344/2006.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+Assim, prequestionadosos dispositivos tidos por violados, deve ser afastada a incidência da Súmula 211 do STJ, não havendo como prevalecer a decisãoora agravada.
+ ..
+Diante disso, deve serafastada a aplicação da Súmula 211do STJ, reconhecendo que o acórdão recorrido não se encontraem consonância com a jurisprudência contemporânea e consolidada desta E. Corte sobre a matéria. Por conseguinte, é de seafastar a limitação do reajuste de 3,17% ajunho de 1998 e/ou dezembro de 2001, entendendo comodevida a limitação em1º de maio de2006, pois foi a Lei 11.344/2006 que efetivamente reestruturou a carreirade magistério superior e não as legislações anteriores.
+ ..
+Por fim, importante observar que estaC. Turmajá manifestou a posição defendida pelos ora Agravantes, em casosanálogos, por mais de uma oportunidade. A título de ilustração, cumpre transcrever trechos da decisão monocrática no RESP 1.686.739, interposto pela Universidade Federal de Pernambuco, tratando de assunto absolutamente idêntico.
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE.
+I - Na origem, trata-se de embargos à execução de sentença coletiva. Na sentença, julgou-se parcialmente procedente o pedido para reconhecer excesso de execução. No Tribunal a quo, a sentença foi mantida. Não se conheceu do recurso especial.
+II - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+III - O acórdão objeto do recurso especial está em conformidade com a jurisprudência desta Corte. A jurisprudência do Superior Tribunal de Justiça, tal como decidido pelo Tribunal de origem, entende que "a limitação temporal do reajuste de 3,17% é possível quando este for concedido por decisão judicial, bem como tem orientação de que não viola a coisa julgada a compensação dos 3, 17% com reajustes concedidos por leis posteriores ao trânsito em julgado, como no caso concreto" (STJ, AgRg no REsp 1.542.242/PE, relatorMinistro Humberto Martins, Segunda Turma, DJe de 10/2/2016). No mesmo sentido: STJ, AREsp 1.659.935/RJ, relatorMinistro Herman Benjamin, Segunda Turma, DJe de 26/8/2020; AgInt no REsp 1.243.767/RS, relatoraMinistra Assusete Magalhães, Segunda Turma, julgado em 7/12/2020, DJe 11/12/2020.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+O acórdão objeto do recurso especial está em conformidade com a jurisprudência desta Corte. A jurisprudência do Superior Tribunal de Justiça, tal como decidido pelo Tribunal de origem, entende que "a limitação temporal do reajuste de 3,17% é possível quando este for concedido por decisão judicial, bem como tem orientação de que não viola a coisa julgada a compensação dos 3, 17% com reajustes concedidos por leis posteriores ao trânsito em julgado, como no caso concreto" (STJ, AgRg no REsp 1.542.242/PE, relatorMinistro Humberto Martins, Segunda Turma, DJe de 10/2/2016). No mesmo sentido: STJ, AREsp 1.659.935/RJ, relatorMinistro Herman Benjamin, Segunda Turma, DJe de 26/8/2020; AgInt no REsp 1.243.767/RS, relatoraMinistra Assusete Magalhães, Segunda Turma, julgado em 7/12/2020, DJe 11/12/2020.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
