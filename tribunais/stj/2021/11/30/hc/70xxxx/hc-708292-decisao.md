@@ -1,0 +1,11 @@
+DECISÃO
+ROBSON ABREU DOS SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0000812-23.2021.8.26.0126.
+Em confusas razões de pedir,o impetrante parece se insurgir contra a decisãoque "determinou, de forma genérica, a realização de exame criminológico" para fins de progressão de regime prisional" (fl. 4). Todavia, faz alegações sobre a garantia do due process of law ea invasão domiciliar, bem como sobre o estado de coisas inconstitucional do sistema carcerário brasileiro, a constitucionalidade do art. 283 do CPP e os requisitos da prisão preventiva.Explica que opaciente preenche os requisitos do art. 112 da LEP.
+Requer a concessão da ordem, para que seja determinada a análise dopedido de progressão de regime prisional, independentemente da realização de exame criminológico.
+Decido.
+A deficiência nafundamentação do habeas corpus não permite a a exata compreensão da controvérsia.É possível projetar que o impetrante se insurge contra a decisãoque determinou a realização de exame criminológico para fins de análise do pleito de progressão de regime.
+Todavia, não há prova pré-constituída do alegado direito líquido e certo,pois os documentos que instruem o writ demonstram arealização doestudo de periculosidade, com parecer favorável e o deferimento, pelo Juiz das Execuções, por decisão prolatada em 24/5/2021, da progressão do apenado ao regime semiaberto (fl. 158).
+Ao que parece - e não é referido pelo impetrante - aAdministração Prisional noticiou a existência de óbice para a transferência do apenado, pois existia contra ele outro mandado de prisão, por condenação no Processonº 0001776-61.2009.8.26.0247, da Vara Única do Foro de Ilhabela.O Juiz da VEC, em 6/7/2021, sustou cautelarmenteo regime semiaberto, até a autuação da guia de recolhimento e posterior somatório de penas, nos termos do artigo 111 da LEP.Desde então, já se passaram meses e não se sabe o andamento da execução.
+Por fim, não se constata a inauguração da competência desta Corte para conhecer e processar o habeas corpus, pois, para tanto, era necessário comprovar que a matéria controvertida foi decidida em única ou última instância pelo Tribunal de Justiça, o que não ocorreu.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se e intimem-se.
