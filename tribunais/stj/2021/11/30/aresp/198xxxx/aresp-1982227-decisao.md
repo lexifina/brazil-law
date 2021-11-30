@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por VOLNEI BORTOLOMEDI, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fls. 927-928):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E DE PRESCRIÇÃO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. SERASA LIMPA NOME. PLATAFORMA DE NEGOCIAÇÃO ENTRE CREDOR E DEVEDOR. CONTRATAÇÃO E CESSÃO EVIDENCIADAS. DECLARAÇÃO DE INEXIGIBILIDADE DA DÍVIDA E DETERMINAÇÃO DE EXCLUSÃO DO REGISTRO DA PLATAFORMA. DESCABIMENTO. PRESCRIÇÃO QUE ATINGE A PRETENSÃO DE COBRANÇA JUDICIAL MAS NÃO O DIREITO SUBJETIVO EM SI. DANOS MORAIS NÃO CONFIGURADOS. CADASTRO NÃO DISPONIBILIZADO A TERCEIROS. AUSÊNCIA DE CARÁTER RESTRITIVO DE CRÉDITO. SENTENÇA DE PROCEDÊNCIA REFORMADA. APELAÇÃO DESPROVIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 415-418).
+Nas razões do recurso especial (e-STJ, fls. 429-447), o recorrente apontou violação dos arts.1.022, II, do Código de Processo Civil;206, § 5º, I, do Código Civil; e 37, § 1º, 43, §§ 1º e 5º, 46, 47 e 51 do Código de Defesa do Consumidor.
+Sustentou, em síntese, que houve nulidadejulgado por negativa de prestação jurisdicional.Aduziu que, apesar da oposição de embargos de declaração, o Tribunal de origem não enfrentou os argumentos quanto à necessidade de observância do prazo máximo de manutenção de nomes no cadastro de inadimplentes em 5 (cinco) anos.
+Asseverou que o consumidor não pode ser obrigado ao cadastro na plataforma "SERASA LIMPA NOME" após a prescrição e sem o seu consentimento, destacando ailegalidade da cobrança de dívidas prescritas.
+Argumentou que "a plataforma SERASA LIMPA NOME produz os mesmos efeitos negativos, vexatórios e nefastos do Grupo Serasa Experian" e que "produz efeitos negativos para o consumidor porque é sistema de informação que avalia a capacidade de pagamento do consumidor para concessão de crédito" (e-STJ, fl. 437).
+Salientou, ainda, que o CDC determina que a informação deve ser adequada e clara ao consumidor, sendo vedada a publicidade enganosa e abusiva.Apontou dissídio jurisprudencial, pugnando, ao final,pelo provimento do recurso.
+O Tribunal local inadmitiu o processamento do recurso especial, tendo sido interposto agravo em recurso especial às fls. 511-539 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 1.022 do CPC/2015.
+Dito isso, no que diz respeito à negativa de prestação jurisdicional, com razão a parte recorrente, porquanto evidenciado o vício no acórdão recorrido, uma vez que o Tribunal local deixou de se manifestar acerca dos argumentos apresentados na peça de embargos de declaração às fls. 350-366 (e-STJ), relevantes ao deslindeda controvérsia, notadamente aquele que diz respeito à apontada ofensa aos dispositivos do CDC e à tese de que "o prazo de manutenção de nomes no cadastro de inadimplentes de 05 anos, já que o consumidor não pode ser obrigado ao cadastro na plataforma SERASA LIMPA NOME após a prescrição e sem sua anuência" (e-STJ, fl. 429).
+Nesse sentido, houve ofensa ao art. 1.022 do CPC/2015, devendo, assim, ser complementado o acórdão proferido nos embargos de declaração, para que seja suprido o vício de omissão, sob pena de o recurso especial não poder ser julgado neste Superior Tribunal, nesse enfoque, à míngua do indispensável prequestionamento.
+Sobre o tema, vejam-se:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESSARCIMENTO POR DANOS MORAIS. VÍCIO NÃO CORRIGIDO NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÃO RELATIVA AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DO ART. 1.022 DO NCPC CONFIGURADA. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Se o Tribunal estadual não se manifestou sobre o ponto que pode influir no resultado da demanda, e o recurso especial foi interposto com fundamento na violação do art. 1.022 do NCPC, devem os autos retornar para que o tema seja analisado e solvido.
+(..)
+4. Agravo interno não provido.
+(AgInt no REsp 1893782/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECURSO ESPECIAL INTERPOSTO PELA PARTE ADVERSA. INSURGÊNCIA DOS AGRAVANTES.
+1. Violação ao artigo 1022 do CPC/15 configurada. Acórdão do Tribunal de origem que deixou de se manifestar sobre ponto imprescindível ao adequado deslinde da contenda, qual seja: a impossibilidade de o Tribunal a quo decidir sobre matéria não apreciada pelo juízo de primeiro grau, em ofensa ao princípio constitucional do duplo grau de jurisdição e supressão de instância.
+2. Agravo interno desprovido.
+(AgInt no REsp 1638242/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2020, DJe 07/05/2020)
+Diante do exposto, conheço do agravo para dar parcial provimento ao recurso especial a fim de determinara remessa dos autos ao Tribunal de origem para que proceda à integração do julgado, mediante a análise dos questionamentos deduzidos, mas não apreciadosnos aclaratórios.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL.AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. SERASA LIMPA NOME.NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA. NECESSIDADE DE EXAME, PELO TRIBUNAL ESTADUAL, DOSQUESTIONAMENTOS SUSCITADOSEM EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO DOS AUTOS. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
