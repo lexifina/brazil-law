@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 799):
+AÇÃO DE COBRANÇA. Contratação de obra por empreitada global, com seguro-garantia (construção de escola). Abordagem para compor direitos de contratante (cobrança de resíduo reparatório, após a extinção do vínculo, por culpa da construtora, contratada, a descumprir limites de correta execução da obra encomendada). Decreto extintivo com reconhecimento de prescrição, em relação à seguradora, aqui apelada, e de procedência no plano de construtora, contratada. Apelo do autor. Provimento, para ampliar a condenação, contra ambas as rés, solidariamente.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, II, do Código de Processo Civil; 5º, LV, 93, IX, da Constituição Federal e 206, §1º, II, b,422, 476, 765, 768 e 771 do Código Civil.
+Sustenta que o acórdão recorrido é nulo, pois deixou de mencionar e apreciar o conteúdo das contrarrazões apresentadas pela apelada, baseando sua conclusão tão somente nos argumentos levantados pela apelante.
+Argumenta que "o acórdão incorreu contradição e erro de fato ao consignar que a Seguradora solicitou "novos documentos (fls. 650/651), sem qualquer outra exigência", visto que, em verdade, a Seguradora solicitou os documentos BÁSICOS e indispensáveis ao Processo de Regulação de Sinistro, na forma da Apólice de Seguro".
+Defende a inaplicabilidade da Súmula 229/STJ e existênciadeinércia do recorrido, que somente propôs a ação dois anos após abandonar o processo de regulação de sinistro, de modo que ocorreu a prescrição do direito de cobrança da indenização securitária.
+Alega que o recorridoperdeu o direito ao recebimento da indenização securitária, "visto que deixou de comunicar a Pottencial Seguradora acerca dos graves e reiterados descumprimentos contratuais que ocorreram ao longo da execução do contrato até a sua efetiva rescisão".
+Contrarrazões apresentadas.
+Inadmitido o recurso na origem, a parte interpôs agravo.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, com relação à apontada afronta aos arts. 5º, inciso LV, e 93, IX, da Constituição Federal, a jurisprudência desta Corte é firme no sentido de ser inadmissível, em recurso especial, a análise de suposta violação dedispositivos constitucionais,sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+Quanto àalegaçãode ofensa ao art. 489 do CPC/15, não merece prosperar.
+Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, verifico que o Tribunal de origemresolveu o litígio de forma clara e suficientemente fundamentada,explicitando às partes as motivações do seu convencimento, de modo que não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado por ela.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados.
+No que toca àtese de violação ao art. 206, §1º, II, b, do Código Civil, alterar a conclusão do acórdão recorrido acerca da aplicação da Súmula 229 do STJe ocorrência desuspensão do prazo prescricionalpara acolher a pretensão recursal demandaria o reexame de matéria fática,providência vedada emsede de recurso especial, a teor da Súmula 7 do STJ.
+Por fim, quanto à tese de perda do direito à indenização em razão de descumprimentos contratuais, observo que, tal como reconhecido pela própria recorrente, não houve apreciação da matéria pelo Tribunal de origem, o que impossibilita o julgamento do recurso nesse ponto pela ausência do necessário prequestionamento, nos termos da Súmula 211/STJ, que dispõe:"inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
