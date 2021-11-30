@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por FRIGORIFICO NOSSA SENHORA DA SAUDE LTDA, contra decisão que não admitiu recurso especial (fls. 386/388, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 300/301, e-STJ):
+Apelação. Direito Empresarial. Propriedade industrial. Marca registrada X marca registrada. Ação cominatória de obrigação de não fazer c/c indenizatória por dano material.Autora titular, desde 1982, da marca nominativa "FRIGONOSSA", na classe NCL(10)29. Obtenção pela ré, em 2016 e 2017, do registro da marca "FRIGO NOSSO", nas classes NCL(10)29 e NCL(10)35. Confronto entre duas marcas registradas perante o INPI. Pretensão de abstenção de uso cujo exame implica, ainda que incidentalmente, análise sobre a validade do registro de que a ré é titular. Litígio que envolve duas partes titulares de "marcas registradas", ou seja, "registro X registro". Competência absoluta da Justiça Federal. CF, art. 109, I. STJ, Tema 950 (recursos repetitivos). Observância, nos termos do art. 927, III, do CPC. Incompetência absoluta da Justiça Estadual. Sentença anulada. Extinção do processo sem julgamento do mérito. Inversão dos ônus da sucumbência. Apelo provido.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, arecorrente aponta ofensa aos artigos 124, XIX, XXIII, 129, 130, III, 195, III, da Lei n.º 9.279/96.
+Sustenta, em síntese, que demonstrou a violação da marca "Frigo Nosso" de sua propriedade e a concorrência desleal.
+Contrarrazões (fls. 346/385, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) não houve demonstração das vulnerações legais suscitadas; e (ii) incidência da Súmula 7/STJ.
+Daí o presente agravo (art. 1042 do CPC/15), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 406/420 (e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1.Depreende-se dos autos que o conteúdo normativo dos artigos 124, XIX, XXIII, 129, 130, III, 195, III, da Lei n.º 9.279/96, não foi objeto de exame pelo acórdão recorrido, razão pela qual, incide, na espécie, o óbice inscrito na Súmula 211/STJ, ante a ausência de prequestionamento.
+Tampouco cabe falar em prequestionamento ficto face ao art. 1025 do CPC/15.
+Nos termos da jurisprudência desta Casa, para se possibilitar a sua incidência, cabe a parte alegar, quando de suas razões do recurso especial, a necessária ofensa ao art. 1022 do CPC/15 de modo a permitir sanar eventual omissão através de novo julgamento dos aclaratórios, caso existente, o que não foi feito no presente feito.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei"(REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+2. Ademais, a Corte de origem, ao decidir a lide, consignou o seguinte(fls. 304/305, e-STJ):
+Carece a Justiça Estadual de competência para impor a abstenção de uso de marca devidamente registrada, pois, se para a declaração de nulidade do registro de marca a competência é da Justiça Federal e, compulsoriamente, deve participar da ação judicial o INPI, nos termos do art. 173 da LPI, o reconhecimento incidental de nulidade também deve observar idêntica regra processual. A via correta para a autora obter a pretensão deduzida nesta demanda seria a propositura de ação com pedido de anulação de registro perante a Justiça Federal, com a obrigatória participação do INPI, e pedido de tutela de urgência destinada à cominação de obrigação de não fazer consistente na abstenção do uso da marca cujo registro seria impugnado.
+Da leitura do excerto do acórdão impugnado e das razões recursais, depreende-se a dissonância entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada. Vale dizer, enquanto o Tribunal a quo, com base no artigo 173 da Lei n.º 9.279/96,fundamentou sua decisão no fato deser competência absoluta da Justiça Federal o julgamento da presente demanda, arecorrente pautou seu recurso na suposta ofensa aos artigos aos artigos 124, XIX, XXIII, 129, 130, III, 195, III, da Lei n.º 9.279/96, sustentando terdemonstrado a violação da marca "Frigo Nosso" de sua propriedade e a concorrência desleal
+Dessa forma, há deficiência na fundamentação no recurso especial, incidindo, por analogia, os óbices das Súmulas 283 e 284 do STF, porquanto as razões nele trazidas estão dissociadas das premissas estabelecidas pela Corte local acima transcritas.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
