@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJRJassim ementado (e-STJ fl. 253):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO INDENIZATÓRIA. NEGATIVAÇÃO INDEVIDA. CESSÃO DE CRÉDITO. SENTENÇA QUE ACOLHEU PRELIMINAR DE ILEGITIMIDADE PASSIVA DO CEDENTE E JULGOU PROCEDENTE O PEDIDO EM FACE DO CESSIONÁRIO. AUSÊNCIA DE PROVA DA NOTIFICAÇÃO DO DEVEDOR. A EFICÁCIA DA CESSÃO DE CRÉDITO PERANTE O DEVEDOR SE APERFEIÇOA QUANDO ESTE É DEVIDAMENTE NOTIFICADO. APLICAÇÃO DO ARTIGO290 DO CÓDIGO CIVIL. INEXISTÊNCIA DE COMPROVAÇÃO DA ALEGADA CESSÃO DE CRÉDITO ENTRE CEDENTE E CESSIONÁRIO DURANTE A HIGIDEZ DO TÍTULO. CONFIGURAÇÃODE DANO MORAL. RESPONSABILIDADE SOLIDÁRIA. REDUÇÃODO QUANTUM INDENIZATÓRIO QUE NÃO MERECE PRESTÍGIO, VISTO QUE O JUIZ SENTENCIANTE APLICOU OS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE, ADEQUANDO A INDENIZAÇÃO À REPROVAÇÃO DA CONDUTA DO INFRATOR E À GRAVIDADE DA LESÃO POR ELE CAUSADA. INTELIGÊNCIA DA SÚMULA Nº 343, DESTA EGRÉGIA CORTE: "A VERBA INDENIZATÓRIA DO DANO MORAL SOMENTE SERÁ MODIFICADA SE NÃO ATENDIDOS PELA SENTENÇA OS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE NA FIXAÇÃO DO VALOR DA CONDENAÇÃO." PRECEDENTES DESTA CORTE. SENTENÇA QUE SE REFORMA, EM PARTE, PARA RECONHECER A RESPONSABILIDADE SOLIDÁRIA. RECURSO PARCIALMENTE PROVIDO.
+No recurso especial (e-STJ fls. 280/289), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alega dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 944 do CC/2002 pois "o acórdão violou o referido dispositivo legal, não se atentando para a situação vexatória a qual fora exposto o RECORRENTE, causando-lhe um misto de dor e sofrimento desproporcional ao quantum fixado" (e-STJ fl. 282). Afirma quea "cessão de crédito não obedeceu aos comandos legais do Art. 290 do CC, e que por isso não se aperfeiçoou, não tendo qualquer eficácia em relação ao suposto devedor. Além de prescrito o título, no ato da cessão de crédito não houve a notificação por escrito ao "devedor", como exige a Lei" (e-STJ fl. 282),
+(ii) art. 398 do CC/2002 afirmando que não sepodeadmitir que "a incidência de juros se dê a partir da citação, sendo certo que o correto, de acordo com a legislação vigente, é de que se aplique a partir do evento danoso" (e-STJ fl. 284).
+Busca o provimento do recurso especial, para que (e-STJ fl. 288):
+09.1-Seja conhecido e provido o presente Recurso Especial, acolhendo-o por violação aos artigos Arts. 398 e 944, ambos do C.C./02.
+09.2- Haja a reforma do r. decisum para que sejam MAJORADOS os danos morais arbitrados e que se faça incidir os juros de mora a partir do evento danoso.
+Não foram apresentadas contrarrazões (e-STJ fl. 327).
+Juízo positivo de admissibilidade (e-STJ fls. 330/335).
+É o relatório.
+Decido.
+Do valor da indenização
+O Tribunal de origem assim se pronunciou (e-STJ fl. 257):
+Sendo assim, se por um lado é inquestionável o dever de indenizar, por outro, não pode o magistrado perder de vista o princípio da razoabilidade, adequando a indenização à reprovação da conduta do infrator e à gravidade da lesão por ele causada.
+Dessa forma, a fixação do quantum indenizatório em R$ 5.000,00(cinco mil reais) se revela razoável e proporcional ao caso concreto econsentâneo coma média de valores adotada por esta Corte para hipóteses similares, na forma da Súmula nº 343, deste Egrégio Tribunal, a saber:
+"A VERBA INDENIZATÓRIA DO DANO MORAL SOMENTE SERÁ MODIFICADA SE NÃO ATENDIDOS PELA SENTENÇA OS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE NA FIXAÇÃO DO VALOR DA CONDENAÇÃO."
+A modificação do valor da indenização por danos morais é admitida em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A Corte local, diante das circunstâncias analisadas, fixou a indenização dos danos morais no valor de R$ 5.000,00 (cinco mil reais). Para alterar esse montante e modificar os fundamentos do acórdão recorrido, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO PARA CONTROLE DE TUMORES MALIGNOS. RECUSA INDEVIDA. ABUSIVIDADE RECONHECIDA PELO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SUMULA N. 83/STJ. INDENIZAÇÃO POR DANOS MORAIS DEVIDA. PRECEDENTES. MAIS UMA VEZ, APLICAÇÃO DA SÚMULA N. 83/STJ. MONTANTE INDENIZATÓRIO. PLEITO DE REDUÇÃO. NÃO DEMONSTRADA A ABUSIVIDADE NO VALOR FIXADO NAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DA SÚMULA 7/STJ AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. É pacífica a jurisprudência da Segunda Seção no sentido de reconhecer a existência do dano moral nas hipóteses de recusa injustificada pela operadora de plano de saúde, em autorizar tratamento a que estivesse legal ou contratualmente obrigada, por configurar comportamento abusivo. Incidência, mais uma vez, da Súmula n. 83/STJ.
+3. O valor arbitrado a título de danos morais pelo Julgador a quo observou os critérios de proporcionalidade e de razoabilidade, visto que o montante fixado não se revela exorbitante, e sua eventual redução demandaria reexame de provas (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.415.175/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1º/4/2019, DJe 8/4/2019.)
+No caso dos autos, portanto, a quantia estabelecida pelas instâncias de origem não enseja a intervenção do STJ.
+Dos juros
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+O Tribunal de origem, ao analisar o recurso de apelação, não fez menção ao art. 398 do CC/2002, indicadonas razões recursais, conforme se infere do voto condutor do acórdão recorrido (e-STJ fls. 250/259).
+Assim, incidente o óbice das Súmulas n. 282 e 356 do STF.
+Da divergência jurisprudencial
+A jurisprudência desta Corte está sedimentada no sentido de que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação divergente e demonstração do dissídio, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados.
+Sob esse aspecto, confira-se o seguinte julgado da Corte Especial:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+(..)
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp 1.346.588/DF, Relator Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/3/2014.)
+Na hipótese dos autos, o recorrente não particulariza o dispositivo de lei sobre o qual recaiu a divergência nem realiza o cotejo analítico entre os arestos confrontados, nos termos do art. 1.029, §1º, do CPC/2015. Em tal circunstância, aplica-se ao caso a Súmula n. 284 do STF, tendo em vista a deficiência na fundamentação recursal.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
