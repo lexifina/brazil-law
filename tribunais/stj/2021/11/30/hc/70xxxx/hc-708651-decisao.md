@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de Augusto Ivan Gomes de Moura- condenado como incurso no crime de tráfico de drogas-, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Ação Penal n. 1500172-26.2020.8.26.0531), não comporta processamento.
+Busca a impetração a fixação do regime inicial aberto e a substituição da privativa de liberdade por restritiva de direitos, ao argumento de queo simples fato de o paciente ter sido condenado pelo cometimento de tráfico não enseja o estabelecimento do regime semiaberto pela gravidade emapenas na gravidade abstrata do delito", sugere orientação no sentido de que não se pode presumir a gravidade do fato em tese e com isso aplicar um regime prisional mais gravoso(fls. 16/17), bem como que não subsiste qualquer empecilho à substituição da pena privativa de liberdade pela restritiva de direitos, na hipótese, uma vez que foi afastado o único óbice à benesse, consubstanciado no caráter especial dos rigores do regime integralmente fechado aos crimes hediondos e equiparados (fl. 29).
+Ocorre queé nítida a intenção do impetrante em utilizar a via eleita como uma segunda apelação, o que é inadmissível.
+Ademais, não se evidencia constrangimento ilegal manifesto.
+Da atenta análise do acórdão hostilizadoobserva-se que a pena-base foi fixada acima do mínimo legal, circunstância suficiente, por si só, para justificar a imposição do regime mais rigoroso do que o correspondente à reprimenda imposta, nos termos doart. 33, § 3º, c/c o art. 59, ambos do Código Penal. Ademais, consignou-se que o paciente foi surpreendido, em plena segunda-feira, a transportar expressiva quantidade de drogas, uma delas potentíssima, conforme lição de toxicologia forense supracitada, que dificilmente seria confiada a traficantes iniciantes ou inexperientes (fl. 44), elementos que demonstram não ser a substituição da privativa de direitos socialmente recomendável.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL E SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. UTILIZAÇÃO DO WRIT COMO UMA SEGUNDA APELAÇÃO. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
