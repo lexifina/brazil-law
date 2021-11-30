@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão doTRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, o qual não admitiu recurso especial fundadona alínea "a"do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 43):
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. CÁLCULOS DE LIQUIDAÇÃO ELABORADOS PELO INSS. HOMOLOGAÇÃO. POSTERIOR IMPUGNAÇÃO. IMPOSSIBILIDADE. PRECLUSÃO. ERRO MATERIAL. INOCORRÊNCIA. AGRAVO DE INSTRUMENTO PROVIDO.
+- Deflagrada a execução, o IINSS apresentou memória de cálculo, a qual fora devidamente acolhida e os valores, requisitados. Entrementes, o INSS peticionou nos autos, noticiando a existência de "erro material aritmético "nos cálculos homologados, consistente "na aplicação, por evidente equívoco, de juros de mora de 1% em todo o período da conta e não apenas até 06/2009", oportunidade em que pugnou pelo cancelamento dos ofícios requisitórios expedidos e a homologação da nova memória de cálculo.
+2 - Impossibilidade de impugnação dos cálculos, considerando a ocorrência de preclusão temporal, uma vez que o próprio INSS apresentou a memória de cálculo que fora homologada.
+3- O erro material, passível de retificação a qualquer tempo segundo o art. 463, 1, do CPCI73, consiste nas inexatidões materiais ou nos erros de cálculo aritméticos, sendo vedado pretender-se estender o alcance da norma à discussão dos critérios de juros de mora preconizados pelo julgado exequendo.
+4 - Agravo de instrumento do autor provido.
+Embargos de declaração rejeitados (e-STJ fls. 61/71).
+No recurso especial obstaculizado, a parte recorrente sustentou, preliminarmente,violação do art. 1.022 do CPC/2015, por ausência de prestação jurisdicional, e doart. 1.017, I a III, do CPC/2015, ante a impossibilidadede seconhecer agravo de instrumento manifestamente inadmissível, desprovido de todas as peças necessárias à compreensão da controvérsia.
+No mérito, alegouafronta aos arts. 463, I, 475-G do CPC/1973,494, 509, §4º, do CPC/2015, 876,884 e 885 do CC/2002, sustentando a existência de erro material no cálculo dos primeiros valores apresentados, podendo ser corrigidoa qualquer tempo e em qualquer grau de jurisdição, por não transitarem julgado.
+Ressaltou, ainda, que "os cálculos acolhidos pelo v. acórdão não encontram amparo na coisa julgada formada no processo de conhecimento" (e-STJ fl. 77), caracterizando enriquecimento ilícito da parte autora.
+Contrarrazõesàs e-STJ fls. 88/96.O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, nenhuma contrariedade da norma invocada.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. 1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material. 2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso. 3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018). 4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+Quanto à ausência de todas as peças do agravo de instrumento, oaresto ora recorrido reafirmou a existência depeças essenciais à compreensão da controvérsia, nos seguintes termos (e-STJ 67):
+Ademais, cumpre registrar que o conhecimento do agravo de instrumento era, mesmo, de rigor, a despeito da ausência de todas as peças necessárias à exata compreensão da controvérsia.
+Isso porque, conforme legislação vigente trazida pelo próprio embargante, o recurso fora instruído com as peças indispensáveis à sua apreciação, o que, no aspecto formal, se mostra bastante.
+Assim não há falar em ausência de peças essenciais no agravo de instrumento sem esbarrar no óbice da Súmula 7 do STJ.
+No tocante ao mérito, o aresto recorrido concluiu pela preclusão do direito de o INSS discutiros cálculos por elehomologados, a saber (e-STJ fls. 38/41):
+De acordo com o art. 507 do vigente Código de Processo Civil de2015 (antigo art. 473 do CPC/73), "E vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão ".
+Significa dizer que, uma vez decidida a questão, acaso a parte inconformada não se insurja tempestivamente por meio do recurso adequado, a matéria restará preclusa, vedada sua rediscussão nos autos.
+A esse respeito, Nelson Nery Junior e Rosa Maria de Andrade Nery esclarecem que "A preclusão indica perda da faculdade processual, pelo seu não uso dentro do prazo peremptório previsto pela lei (preclusão temporal), ou, pelo fato de já havê-la exercido (preclusão consumativa), ou, ainda, pela prática de ato incompatível com aquele que se pretenda exercitar no processo(preclusão lógica) ", in Código de Processo Civil Comentado, Editora RT, 16ºedição, p. 1.342/1.343.
+Assim, o questionamento que agora se levanta encontra-se acobertado pela preclusão temporal, uma vez que o próprio IINSS apresentou a memória de cálculo que fora homologada.
+ ..
+Por outro lado, rechaço expressamente a alegação de erro material nos cálculos, consubstanciado na indevida aplicação de juros moratórios em percentual diverso daquele estabelecido pelo acórdão.
+O erro material, passível de retificação a qualquer tempo segundo o art. 463, 1, do CPC/73, consiste nas inexatidões materiais ou nos erros de cálculo aritméticos, sendo vedado pretender-se estender o alcance da norma à discussãodos critérios de correção monetária ou juros de mora preconizados pelo julgado exequendo.
+ ..
+Dessa forma, entendo assistir razão à insurgência ventilada, sendo de rigor a retomada da execução, pelos valores apurados pela memória de cálculo inicialmente apresentada pelo INSS, e devidamente homologada.
+Ante o exposto, dou provimento ao agravo de instrumento interposto pelo autor. (Grifos acrescidos).
+Dessa forma, incide o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+A propósito, mutatis mutandi:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. CUMPRIMENTO DE SENTENÇA PROPOSTO ANTES DO RETORNO DOS AUTOS À ORIGEM. CONCORDÂNCIA DA AUTARQUIA COM OS CÁLCULOS DO EXEQUENTE. VERBA INDEVIDA. INOVAÇÃO RECURSAL. DESCABIMENTO.
+1. Caso em que as instâncias ordinárias deixaram assente o fato de que a autarquia executada não estava inadimplente, visto que a parte exequente promoveu a execução antes dos autos retornarem da instância recursal, ou seja, antes do despacho de "cumpra-se", situação que obsta a condenação em honorários, conforme decisão proferida pela Corte Especial no julgamento do REsp n. 940.274/MS.
+2. Mostra-se inviável conhecer da alegação de inovação acerca do cabimento da verba honorária em execução de requisição de pequeno valor - RPV, ante a preclusão consumativa.
+3. Agravo interno desprovido.
+(AgInt no REsp 1505404/SC, de minha relatoria, PRIMEIRA TURMA, julgado em 08/08/2017, DJe 14/09/2017).
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. EXECUÇÃO. CÁLCULO DO VALOR DEVIDO.HOMOLOGADO. COISA JULGADA. ALTERAÇÃO EM FASE DE EXECUÇÃO.IMPOSSIBILIDADE. ERRO MATERIAL. NÃO CONFIGURAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONHECIDA. SÚMULA 83/STJ.
+1. Defendem os agravantes a existência de valor remanescente devido pelo INSS, porquanto os primeiros cálculos por eles apresentados foram elaborados com erro na planilha do "Excel", cuja correção não implica modificação no montante da execução, pois se trata de correção de erro material no cálculo, para integral cumprimento do julgado.
+2. No caso dos autos o Tribunal de origem entendeu que a reivindicação de complementação de pagamento devido está preclusa, porquanto não se trata de erro de cálculo que é passível de correção, mas de complementação de pagamento, quando o valor já indicado pelos agravantes foi homologado e pago.
+3. Com efeito, nos termos da jurisprudência desta Corte, erro material, passível de alteração a qualquer tempo, é aquele derivado de simples cálculo aritmético, ou inexatidão material, e não decorrente de elementos ou critérios de cálculo.
+4. No caso dos autos, eventual existência de complementação de pagamento do montante devido não decorre de erro material nos cálculos apresentados, homologado e transitado em julgado, não podendo ser corrigido a qualquer momento. Trata-se de título executivo transitado em julgado e passível de preclusão do direito de questioná-lo.
+Agravo regimental improvido.
+(AgRg no AREsp 859.631/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 02/06/2016, DJe 08/06/2016)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
