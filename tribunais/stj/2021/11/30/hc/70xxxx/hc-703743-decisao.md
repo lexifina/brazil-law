@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Eduardo Neves Navarro, condenado pela prática do delito descrito no art. 157, § 2º, II, c/c o art. 61, II, h e j, do Código Penal, à pena de 6 anos e 8 meses de reclusão, em regime fechado, e 90 dias-multa (Processo n. 1507459-76.2020.8.26.0228, da 22ª Vara Criminal da comarca da Capital/SP), apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo.
+Alega a defesa constrangimento ilegal na aplicação da agravante do art. 61, II, j, do Código Penal (calamidade pública) e na fixação do regime fechado.
+Afirma queé necessário o afastamento da agravante do art.61, II, "j", do Código Penal, uma vez que o estado de calamidade decretado em virtude da pandemia em nada contribuiu ou facilitou a execução do delito. Ora, é indispensável a prova do nexo entre a situação vivenciada no período de calamidade e o crime cometido, sob pena de se caracterizar responsabilidade penal objetiva, refutada por nosso ordenamento jurídico(fl. 4).
+Aduz quea gravidade do delito, por si só, não implica adoção do regime inicial fechado. Desse modo, verifica-se que no acórdão não se apontou qual o motivo concreto para imposição desse regime para o início do cumprimento de pena. Ressalte-se que a gravidade do ato ilícito está compreendida na própria incriminação dele. Em outras palavras, não fosse o roubo algo nocivo, não haveria uma previsão legal para tal conduta impondo-lhe a pena de reclusão (fl. 7).
+Requer, assim, a concessão da ordem para que sejaestabelecido o regime prisional semiaberto para o crime de roubo, bem como seja afastada a agravante da calamidade pública, com o consequente ajuste da pena (fl. 9).
+Liminar indeferida (fls. 268/269).
+Informações prestadas (fls. 273/296), o Ministério Público Federal ofereceu parecer pela concessão da ordem de ofício, para que seja fixado o regime semiaberto (fls. 300/310).
+É o relatório.
+Quanto aos temas aqui levantados, o Juízo sentenciante assim decidiu (fl. 196 - grifo nosso):
+ ..
+Na segunda fase, observo que o crime foi cometido em face de pessoa idosa e durante o estado de calamidade pública no estado, decorrente da pandemia COVID-19 (sendo muito mais reprovável o crime patrimonial cometido em contexto social absolutamente excepcional, em que todos passam por dificuldades econômicas e sociais), razões pelas quais a pena seria aumentada em um terço.
+Porém, como o réu confessou a prática do delito, será a pena aumentada em apenas um sexto.
+Fica a reprimenda estabelecida em 5 anos e 68 dias-multa.
+Com relação às agravantes, anoto que: i) a condição de pessoa idosa da vítima é evidente; ii) como já dito, há relação entre a conduta e o estado de calamidade pública pois é mais grave a conduta daquele que despoja outrem de patrimônio em situação em que todos passam por dificuldades; ademais, é razoável presumir que a vítima estaria com dificuldades para aceitar corridas e tenha aceitado o ingresso do acusado e de seu comparsa justamente pela situação de calamidade; por derradeiro, o acusado vale-se do fato de haver menos pessoas na rua para cometer o crime, o que diminuiria a possibilidade de ser preso e apontado como roubador.
+O roubo foi praticado em concurso de agentes. A pena deve ser majorada na proporção mínima de 1/3, resultando 6 anos e 8 meses e 90 dias-multa. Ausentes outras causas de aumento ou diminuição. Desta forma, fixo a pena em definitivo em 6 anos e 8 meses e pagamento de 90 dias-multa.
+Levando-se em consideração o montante da pena e o tipo de delito, que envolve violência contra a pessoa, sendo dos crimes que mais desassossego traz para a sociedade paulistana, o regime inicial de cumprimento de pena do réu será o fechado. O Poder Judiciário deve responder com maior rigor aos crimes que representam maior periculosidade, de forma que seus agentes devem receber punição mais severa.
+ ..
+No recurso de apelação, o Tribunal a quo manteve a sentença nos seguintes termos (fls. 258/260):
+ ..
+A pena base foi fixada no mínimo legal.
+ ..
+A segunda agravante, também deve ser mantida, eis que o crime foi cometido diante da vigência do "estado de calamidade", nos termos do artigo 61, II, "j" do Código Penal. Isso porque reconhecido pelo Congresso Nacional (Decreto Legislativo 6/2020) e pelo Governo do Estado de São Paulo (Decreto n. 64.879/2020). Neste ultimo em seu artigo 1º reconhece o estado de calamidade pública, decorrente da pandemia do COVID-19,que atinge o Estado de São Paulo, possuindo circunstância objetiva, deve ser aplicada.
+ ..
+Quanto ao regime inicial fechado, deve ser mantido, posto que qualificado o delito e bem fundamentado deve permanecer.
+A necessidade de fixação do regime mais rigoroso se dá por ser o intermediário insuficiente para a reprovação e prevenção, o que, aliás, foi feito com base no art. 33, §3º do Código Penal, que determina que a fixação do regime deva ser feita com observância dos critérios previstos no artigo 59 do Código Penal.
+No caso concreto, o apelante entrou no veiculo com o comparsa, simulando serem passageiros e dali, depois de render o taxista, colocando um objeto, que lhe pareceu uma faca, em seu pescoço, subtraíram o aparelho celular. Conduta que vem se tornando corriqueira nesse meio de transporte, devendo ser combatida com rigor, pois vem tirando o sossego dessa classe trabalhadora.
+E ainda, o apelante apresenta envolvimento anterior em crime contra o patrimônio, demonstrando não ser recomendável o regime mais brando, eis que demonstrado sua personalidade voltada à prática criminosa.
+ ..
+Pois bem. É cediço quea incidência da agravante da calamidade pública pressupõe aexistência de situação concreta dando conta de que o paciente seprevaleceu da pandemia para a prática delitiva(HC n. 625.645/SP, Ministro FELIX FISCHER, DJe 4/12/2020).
+No caso, entendo que não ficou demonstrado, de forma concreta, que o paciente se aproveitou do estado de calamidade para a prática do delito, havendo apenas a mera presunção,devendo, assim, ser afastada a agravante prevista no art. 61, II, j, do Código Penal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IRRESIGNAÇÃO MINISTERIAL. ROUBO SIMPLES. AGRAVANTE DO CRIME PRATICADO EM ESTADO DE CALAMIDADE PÚBLICA. NÃO DEMONSTRAÇÃO DE QUE O AGENTE SE PREVALECEU DESSA CIRCUNSTÂNCIA PARA A PRÁTICA DO DELITO. AGRAVANTE AFASTADA, COM A CONSEQUENTE REDUÇÃO DA PENA E ABRANDAMENTO DO REGIME INICIAL.DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva(HC 625.645/SP, Rel.Ministro FELIX FISCHER, DJe 04/12/2020). No mesmo sentido, dentre outros: HC 632.019/SP, Rel. Ministro FELIX FISCHER, DJe 10/2/2021;HC 629/981/SP, Rel. Ministro JOEL ILAN PACIORNIK, DJe 9/2/2021; HC 620.531/SP, Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/2/2021.
+2. Hipótese em que a agravante prevista no art. 61, inciso II, alínea j, do Código Penal foi aplicada apenas pelo fato de o delito ter sido praticado na vigência do Decreto Estadual nº 64.879 e do Decreto Legislativo nº 06/2020, ambos de 20.03.2020, que reconhecem estado de calamidade pública no Estado de São Paulo em razão da pandemia da COVID-19, sem a demonstração de que o agente se aproveitou do estado de calamidade pública para praticar o crime em exame, o que ensejou o respectivo afastamento, com o redimensionamento da pena e o abrandamento do regime inicial.
+3. Agravo regimental não provido.
+(AgRg no HC n. 655.339/SP, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/4/2021, DJe 19/4/2021)
+Quanto ao regime, também vislumbro existência de constrangimento ilegal,já que foi fixado o regime fechado para o início do cumprimento dareprimenda somente com base na gravidade abstrata do crime de roubo. Todavia, o posicionamento pacificado nesta Corte e noSupremo Tribunal Federal é no sentido de que se mostra inadmissível aestipulação de regime prisional mais rigoroso do que aquele previsto paraa sanção corporal aplicada apenas com fundamento na gravidade abstrata dodelito. Nesse sentido, as Súmulas 440/STJ e 718 e 719/STF.
+Como bem afirmou a Subprocuradora-Geral da RepúblicaEliane de Albuquerque Oliveira Recena em seu parecer,a inexistência de circunstâncias judiciais negativas e a primariedade do réu ao tempo do delito, além da ausência de fundamentação concreta e idônea a subsidiara fixação de regime prisional mais gravoso, concluímos que, in casu, o regime mais adequado é, de fato, o semiaberto, nos termos do contido no art.33, § 2º, "b", do Código Penal (fl. 203).
+Fixadas essas premissas, passo ao redimensionamento da pena do paciente.
+Na primeira fase, mantida apena-base no mínimo legal (4 anos de reclusãoe 10 dias-multa). Na segunda fase, deve ser compensada a atenuante da confissão com a agravante do art. 61,II,h,do Código Penal (vítima idosa), mantendo a pena em 4 anos de reclusão e 10 dias-multa. Por fim, na terceira fase, a pena deve ser recrudescida em 1/3, pelo reconhecimento do concurso de agentes, tornando-se definitiva em 5 anos e 4 meses de reclusão, e pagamento de 14 dias-multa, em regime semiaberto.
+Ante o exposto,concedo a ordem para, redimensionando areprimenda do paciente, fixá-la em5 anos e 4 meses de reclusão, e pagamento de 14 dias-multa, em regime semiaberto.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO QUALIFICADO. DOSIMETRIA. AGRAVANTE. CALAMIDADE PÚBLICA. NÃO COMPROVAÇÃO DE QUE O AGENTE SE PREVALECEU DA CIRCUNSTÂNCIA PARA A PRÁTICA DO DELITO. AGRAVANTE AFASTADA. REGIME PRISIONAL MAIS GRAVOSO. AUSÊNCIA DE FUNDAMENTAÇÃO VÁLIDA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
