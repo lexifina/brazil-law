@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, compedido liminar, interposto por MARIO SANAKASCHIWAGUI e MARIO VICTOR KASCHIWAGUI CHICOLIcontra acórdão proferido peloTribunal de Justiça do Estado de São Paulo no HC 2113534-53.2021.8.26.0000.
+Narram os Recorrentes que foi instaurado inquérito policial "a partir de Notícia Crime apresentada por Avel Empreendimentos Imobiliários Ltda., visando à apuração "alternativa"dos crimes de apropriação indébita, estelionato e desobediência, previstos nos artigos 162, 171 e 330, respectivamente, todos do Código Penal" (fl. 732).
+A Defesa impetrouhabeas corpusperante o Tribunal de origem, que denegou a ordem (fls. 803-808).
+Nesta insurgência, os Recorrentes aduzem, inicialmente, que:
+"inobstante a clara repercussão exclusivamente cível sobre os fatos, após oferecimento do relatório final por parte da d. autoridade policial (fls. 422 e ss.), o il. representante do Ministério Público entendeu por apresentar proposta de acordo de não persecução penal (ANPP) aos recorrentes (fls. 436, editado em fl. 458), olvidando da evidente atipicidade da conduta e, portanto, sem aplicar a primeira parte do artigo 28-A, caput, do Código de Processo Penal, que condiciona o instituto negocial à hipótese de não arquivamento do inquérito" (fl. 737).
+Sustentam que, submeter-lhes a uma ação penal, "ou mesmo propor-lhes acordo de não persecução penal, configura no presente caso repudiável constrangimento ilegal, porque baseadas as consequências penais em fato evidentemente atípico" (fl. 738).
+Asseveram que o verbo nuclear previsto no art. 312 do Código Penal é "apropriar-se" e que, "antes mesmo da análise dos demais elementos constitutivos do modal, tem-se que a atipicidade da conduta - e consequentemente a ausência de justa causa para ação penal e ANPP - decorre da própria natureza jurídica da comissão: não se apropria daquilo que lhe foi dado em caráter remuneratório" (fl. 740).
+Aduzem que "estabilizada a evidente atipicidade da conduta e consequente constrangimento ilegal do v. acórdão que não a reconheceu, passa-se à possibilidade de não homologação da proposta de ANPP em sede de controle jurisdicional da justiça negociada, assim como de rejeição da denúncia, em ambos os casos por restar ausente justa causa à ação penal" (fl. 745).
+Argumentam que, há muito, estabilizou-se na doutrina e jurisprudência a "necessidade de prévia valoração do conjunto probatório dos autos no sentido negativo, i.e., de depuração sobre a viabilidade de arquivamento em prejuízo da propositura da ação penal, antes do oferecimento dos benefícios previstos nos artigos 76, caput, segunda parte, e 89, ambos da Lei nº 9.099/95, assim como em sede de ANPP, mais recentemente adicionado ao ordenamento pelo artigo 28-A, do Código de Processo Penal" (fl. 746).
+Requerem, liminarmente, o sobrestamento do feito, para que "não sejam submetidos a se manifestar sobre o acordo de não persecução penal, assim como para que a denúncia já oferecida não seja recebida, até julgamento do presente recurso ordinário constitucional" (fl. 751).
+No mérito, pleiteiam"otrancamento do procedimento originário em razão da evidente atipicidade da conduta dos recorrentes e, consequentemente, em função da ausência de justa causa para o acordo de não persecução penal (artigo 28-A, caput, primeira parte, do Código de Processo Penal) e para a própria ação penal" (fl. 751).
+É o relatório.
+Decido.
+Apretensão veiculada neste recurso já é objeto de discussão noHC n. 685.662/SP, impetrado em favor dos ora Recorrentes, no qual indeferi a liminar, em decisão publicada noDJe 18/08/2021.
+O presente recurso, portanto, é mera reiteração de pedido anterior, em quehá identidade de partes, de pedido e de causa de pedir, além de impugnaremambos o mesmo acórdão e a mesma matéria, o que evidencia a hipótese de litispendência e acarreta a inadmissibilidade dorecurso.
+No mesmo sentido, v.g.: RCD no HC 423.298/SP, Rel. MinistroROGERIOSCHIETTI CRUZ, SEXTA TURMA,DJe 04/12/2017; e AgRg noHC 404.890/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 27/11/2017.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alíneaa,doRISTJ, INDEFIRO LIMINARMENTE a petição recursal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. REITERAÇÃO DE PEDIDO FORMULADO NO HC N. 685.662/SP. LITISPENDÊNCIA.PETIÇÃO RECURSAL LIMINARMENTE INDEFERIDA.
