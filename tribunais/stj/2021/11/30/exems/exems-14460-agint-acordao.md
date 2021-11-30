@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Og Fernandes.
+RELATÓRIO
+Trata-se de agravo interno de fls. 48-52 interposto pela UNIÃO contra decisão monocrática que, em sede de execução em mandado de segurança, afastou a preliminar de coisa julgada suscitada pelo referido ente público, suspendendo o feito até que sobrevenha o trânsito em julgado no âmbito do MS 26.434/DF (no qual se questiona a anulação da portaria de anistia).
+A agravante alega, em síntese, que: (a) no caso dos autos, a portaria de anistia do exequente, ora agravado, foi anulada, o que ensejou a extinção da execução anteriormente proposta sob o registro nº 2018/0299664-0; (b) "a execução do título em tela foi extinta, com resolução de mérito, diante da inexigibilidade do título, sendo que somente por ação rescisória pode a parte desconstituir a coisa julgada que se formou nos autos da ExeMS 14.460 (2018/0299664-0)"; e (c) "desta forma há preclusão máxima, não podendo este juízo rever a decisão acima ante a força da coisa julgada formada", sendo o caso, portanto, de extinguir a execução (e não de suspendê-la).
+Requer, por isso, seja provido o recurso.
+O agravado, por sua vez, pleiteia a manutenção da decisão agravada. Argumenta que não há erro a ser reparado, devendo ser afastada a preliminar de coisa julgada arguida pela UNIÃO.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. ANULAÇÃO DA PORTARIA ANISTIADORA. EXTINÇÃO DA EXECUÇÃO ANTERIORMENTE PROPOSTA. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA NAQUELES AUTOS, TENDO SIDO FACULTADO, PORÉM, O AJUIZAMENTO DE NOVO FEITO EXECUTIVO. AFASTAMENTO DA ALEGAÇÃO DE COISA JULGADA EM RELAÇÃO A ESTA NOVA EXECUÇÃO, JUSTIFICANDO-SE A SUSPENSÃO DESTA ATÉ O TRÂNSITO EM JULGADO NO ÂMBITO DE MANDADO DE SEGURANÇA IMPETRADO, NO QUAL SE DISCUTE A INVALIDAÇÃO DO ATO ANISTIADOR. AGRAVO IMPROVIDO.
+1. A notícia de anulação da portaria de anistia do exequente, ora agravado, ensejou a extinção da execução anteriormente proposta, a ExeMS 14.460/DF (2018/0299664-0). A despeito de informada posteriormente a impetração de um novo mandado de segurança para questionar a referida anulação (in casu, o MS 26.434/DF), decisão proferida naqueles autos concluiu pela impossibilidade de rediscussão da matéria, dada a preclusão consumativa, facultando, porém, ao agravado ajuizar nova execução do título judicial.
+2. Em relação a esta nova execução, sob registro diverso, é o caso de se afastar a coisa julgada arguida pela agravante. Justificável, portanto, a suspensão do presente feito executivo, como determinou a decisão agravada, até que sobrevenha o trânsito em julgado no âmbito do citado writ, no qual se discute a invalidação do ato anistiador.
+3. Agravo interno improvido.
+VOTO
+No caso dos autos, verifica-se que a portaria de anistia do exequente, ora agravado, restou anulada, o que ensejou a extinção da execução anteriormente proposta, a ExeMS 14.460/DF (2018/0299664-0).
+Preclusas as vias impugnativas, o agravado veio a informar a impetração do MS 26.434/DF para questionar a anulação de sua portaria anistiadora.
+Na sequência, decisão proferida naqueles autos assentou a impossibilidade de ali ser rediscutido o provimento jurisdicional que acolhera a impugnação oposta pela UNIÃO, remetendo o agravado para a via judicial adequada. Na ocasião, facultou-se ao anistiado político ajuizar nova execução do título judicial "caso a validade da portaria anistiadora venha a ser restabelecida judicialmente, observado o prazo prescricional para tanto".
+Assim, a coisa julgada impede que se rediscuta, no âmbito da própria ExeMS 14.460/DF (2018/0299664-0), a decisão que ali julgou procedente a impugnação oposta pela UNIÃO para fins de extinguir aquele feito executivo.
+Em relação a esta nova execução, sob registro diverso, é o caso de se afastar a coisa julgada arguida pela agravante.
+Por fim, considerando que a anulação da portaria de anistia do agravado está sendo objeto de questionamento no MS 26.434/DF, é prudente que se aguarde o trânsito em julgado no âmbito da aludida ação mandamental, a fim de que possa ser dado prosseguimento a esta execução. A partir daí, será possível concluir pela inexigibilidade, ou não, do título judicial.
+Justificável, portanto, a suspensão do presente feito executivo, como determinou a decisão agravada, até que sobrevenha o trânsito em julgado do citado writ.
+Desse modo, não merece reparo o mencionado decisum impugnado.
+Ante o exposto, voto por negar provimento ao agravo interno.
