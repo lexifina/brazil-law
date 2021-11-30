@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 32):
+HABEAS CORPUS - IMPETRAÇÂO VISANDO IMPUGNAR A ESTIPULAÇÃO DE REGIME INICIAL EM SENTENÇA CONDENAT RIA, SOB ARGUMENTO DA NECESSIDADE DE OBSERVÂNCIA DA DETRAÇÃO.DESCABIMENTO DA IMPETRAÇÂOIN ADMISSIBILIDADE DO MANEJO DE "WRIT" COMO SUCEDÂNEO DE RECURSO CABÍVEL DE RESTO JÁ INTERPOSTO - VIA ELEITA INADEQUADA PARA O REEXAME DA MATÉRIA, AFIGURANDO-SE EVIDENTE QUE PLEITOS DE MODIFICAÇÃO OU REEXAME DO JUÍZO DE IN Dl VIDUA LIZA ÇÂO DA SANÇÃO PENAI., QUANTO AO ESTABELECIMENTO DO REGIME INICIAL. REQUEREM APROFUNDADA ANÁLISE DOFA TO CRIMINOSO, E DAS CIRCUNSTÂNCIAS PESSOAIS DO AGENTE - CONHECIMENTO DA MATÉRIA JÁ DEVOLVIDO A ESTA INSTÂNCIA PELA VIA DE IMPUGNAÇÂO LEGALMENTE PREVISTA, A OLVIDAR - SE A IMPETRAÇÂO, QUANDO MENOS, DO PRINCÍPIODA UNICIDADE RECURSAL - HABEAS CORPUS INDEFERIDO LIMINARMENTE.
+Consta dos autos condenação pela prática do crime tipificado no art. 129, § 9º, à pena de 4 meses e 2 dias de detenção em regime semiaberto.
+Impetradohabeas corpusna origem, foi indeferido liminarmente pelo Tribunala quo
+Napresente ação, a defesa alega que há 4 meses e 7 dias de prisão a ser detraído, nos termos do § 2º do art. 387 do CPP, com fixação de regime aberto.
+Requer oabrandamento do regime.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+Acerca do regime, o Tribunal de origem assim se manifestou (fls. 33/35):
+ ..  Desde logo, considerando os princípios constitucionais da celeridade e da economia processual, ressalto a desnecessidade de requisitar informações à autoridade tida como coatora, bem como ser dispensável a manifestação da Procuradoria Geral de Justiça, porquanto o presente writ será indeferido liminarmente, nos termos do artigo 663, do Código de Processo Penal, c.c. artigo 168, parágrafo 3o1, do Regimento Interno deste e. Tribunal de Justiça, cabendo não obstante breve relato.
+No caso, o paciente (Calos) foi preso em flagrante - depois preventivamente, sendo denunciado e regularmente processado como incurso no artigo 129, § 9º, do Código Penal - vale dizer, pelo delito de lesão corporal no contexto das relações domésticas, restando a final condenado - por sentença proferida em 30 de agosto último, ao cumprimento de 4 meses e 2 dias de detenção no regime inicial semiaberto, deferindo-se ainda o direito de recorrer solto (grifos nossos).
+E como mostra a consulta agora efetuada ao sistema "e- SAJ" (http://esaj.tjsp.jus.br/cpopg/show.doTI de andamentos criminais desta e. Corte de Justiça, contra o julgado manejaram-se pela Defesa os recursos de embargos de declaração - rejeitados, e de apelação, protocolizada a petição de interposição deste em 16 de setembro de 2021, aguardando-se assim o oferecimento das razões respectivas.
+Sem embargo disso, maneja-se agora a presente impetração com o fim de impugnar a fixação de regime inicial na sentença recorrida, sob argumentos da necessidade de observância do regramento da detração e de alegado cumprimento da sanção corporal.
+Sem razão todavia.
+Desde logo cabe ressaltar que a sentença mostra-se motivada, exposta motivação bastante inclusive no tocante à estipulação de regime inicial, referindo o MM Juiz à reincidência do acusado para a escolha daquele intermediário (v. fl. 241 dos autos principais).
+ ..
+Enfim, já devolvido o conhecimento da matéria a esta Instância pela via de impugnação legalmente prevista, a olvidar-se a impetração, quando menos, do princípio da unicidade recursal, fica o registro de que o julgador deve estar atento à realidade social e, logo, ao enorme volume de processos aguardando solução na Justiça, deve evitar a análise de pedidos inócuos como o ora apresentado, atravancando ainda mais o Poder Judiciário em todas as suas instâncias.
+Diante disso, INDEFIRO LIMINARMENTE o pedido de habeas corpus.
+Como se vê, o regime de cumprimento de pena imposto ao paciente foi estabelecido considerando a reincidência.
+Assim, quanto à pleiteada detração do tempo de prisão preventiva, a fixação do regime inicialnão decorre do quantum da pena imposta, mas da reincidência, de modo que eventual detração do período de prisão não afetaria o regime prisional inicial. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. DOSIMETRIA DA PENA. CONFISSÃO ESPONTÂNEA. RÉU MULTIRREINCIDENTE. COMPENSAÇÃO PARCIAL ADEQUADAMENTE PROCEDIDA PELA JURISDIÇÃO ORDINÁRIA. PREPONDERÂNCIA DA CIRCUNSTÂNCIA AGRAVANTE SOBRE A ATENUANTE NA HIPÓTESE. PRECEDENTES. REGIME PRISIONAL FECHADO JUSTIFICADO PELO RECONHECIMENTO DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS E DA REINCIDÊNCIA DO AGENTE. DETRAÇÃO QUE COMPETE AO JUÍZO DAS EXECUÇÕES CRIMINAIS, NO CASO.INSTAURAÇÃO DE DIVERSOS PROCESSOS QUE O PACIENTE CONSTA COMO RÉU. ORIENTAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA DE QUE, SE NÃO HÁ NOS AUTOS ELEMENTOS SEGUROS QUE PERMITAM A REALIZAÇÃO DA DETRAÇÃO, A QUESTÃO DEVERÁ SER ANALISADA PELO JUÍZO DAS EXECUÇÕES PENAIS, MELHOR APARELHADO PARA A OPERAÇÃO. AGRAVO DESPROVIDO.
+ ..
+2. Na hipótese, "ainda que descontado o período em que permaneceu preso preventivamente, não se admite a alteração do regime prisional, uma vez que estabelecido o meio mais severo de cumprimento da reprimenda em razão da reincidência e da presença de circunstâncias judiciais negativas, não havendo falar em ofensa ao art. 387, § 2º, do CPP" (AgRg no REsp 1.756.250/SE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/11/2018, DJe 22/11/2018).
+ ..
+(AgRg no HC 584.294/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 26/10/2021, DJe 04/11/2021)
+Por fim, a alegação de integral cumprimento de pena deve ser aferido pelo Juízo das execuções, sob pena de supressão de instância.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
