@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por MÁRIO AZAMBUJA SOARES, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SULassim ementado:
+AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. FASE DE CUMPRIMENTO DE SENTENÇA. ASSISTÊNCIA JUDICIÁRIA. GRATUITA. INDEFERIMENTO.
+Defende o insurgente, em síntese, ser necessária a análise em concreto de sua situação financeira para indeferimento do benefício da assistência judiciária gratuita (art. 99, § 2º, do CPC/2015).
+Sem contrarrazões, o recurso especial foi admitido na origem (e-STJ, fls. 80-83).
+É o relatório.
+Esta Corte não pode avançar sobre o exame dos requisitos da assistência judiciária gratuita, sob pena de violar a compreensão consolidada na Súmula n. 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial.").Nesse sentido:
+ ..  1. Quanto à alegação de violação do artigo 99, § 2º, do CPC, destaque-se que a declaração de hipossuficiência importa em presunção juris tantum, suscetível de ser elidida pelo magistrado em face de fundadas razões que o permitam concluir que o requerente não se encontra no estado de miserabilidade anunciado.
+2. Portanto, a reversão do entendimento exposto no acórdão, com o reconhecimento, como pretende a parte ora agravante, de que existem nos autos elementos que evidenciem os pressupostos legais para a concessão da gratuidade de justiça, exige o reexame de matéria fático-probatória, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.834.711/RS, relatorMinistro Mauro Campbell Marques, Segunda Turma,DJe de 26/8/2021).
+ ..  1. No tocante à questão afeta à concessão da assistência judiciária gratuita, importante lembrar que o tema tinha previsão no art. 4º da Lei 1.060/1950, atualmente sendo disciplinado no art. 98 do CPC/2015, que dispõe que a pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios, tem direito à gratuidade de justiça.
+2. O dispositivo em comento traz presunção juris tantum de que o indivíduo que solicita o benefício não tem condições de pagar as despesas do processo sem comprometer seu próprio sustento ou de sua família, pois faculta ao Magistrado indeferir o pedido caso constate nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, conforme previsão contida no art. 99, § 2º, do CPC/2015.
+3. Na presente demanda, considerando que não cabe a essa Corte análise fático-probatória, que a instância a quo não se pronunciou sobre o pedido e que a parte agravada não apresentou impugnação às alegações da agravante, concede-se à parte agravante os benefício s da assistência judiciária gratuita.
+ ..
+(AgInt no AREsp n. 1.842.277/RJ, relator MinistroManoel Erhardt (Desembargador convocado do TRF-5ª Região), Primeira Turma, DJe de 6/8/2021).
+ ..  3. A jurisprudência desta Corte é assente no sentido de que, em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento para que lhe seja concedida a assistência judiciária gratuita. Todavia, o benefício pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica (CPC/2015, art. 99, §§ 2º e 3º).
+4. No caso, as instâncias ordinárias, com base nos elementos dos autos, entenderam pela inexistência da alegada hipossuficiência da parte. A alteração desse entendimento demandaria o reexame do contexto fático-probatório dos autos.
+ ..
+(AgInt no AREsp n. 1.800.972/SP, relatorMinistro Raul Araújo, Quarta Turma, DJe de 1º/7/2021).
+Entretanto, não é esta a pretensão no caso vertente. Discute-se, apenas, se o vencimento bruto pode ser considerado como parâmetro único para a concessão do benefício. Nesse passo, encontra-se o acórdão não só distanciado da jurisprudência histórica desta Corte, como de seu próprio compêndio pretoriano. É que dizer que quem percebe menos de cinco salários mínimos inequivocamente faz jus ao benefício não corresponde a dizer que quem recebe mais que tal valor não o faz. A violação lógica é patente.
+Nessa linha, o estabelecimento de uma tabela genérica e geral como linha de corte do benefício faz letra morta da norma processual, que não só determina a análise em concreto da situação financeira do requerente (arts. 98 e 99, § 2º, do CPC/2015), como presume sua veracidade (art. 99, § 3º, do CPC/2015) e exige a anterior concessão de oportunidade de demonstração pelo interessado da necessidade (art. 99, § 2º, do CPC/2015).
+Além disso, deve-se considerar que, além da concessão genérica da gratuidade, o CPC/2015 ponderou as medidas disponíveis ao julgador, que pode parcelar os valores devidos (art. 98, § 6º, do CPC/2015) ou restringir a isenção a determinados atos ou, ainda, a percentuais deles (art. 98, § 5º, do CPC/2015).
+A rejeição de todas as possibilidade exige fundamentação específica, à luz de cotejo com os elementos de prova de disponibilidades e exigências financeiras colacionados aos autos, sem que se recorra a tabelas genéricas e pré-definidas de valores.
+Assim, afastada a premissa fundamentadora do julgado recorrido, faz-se necessário, ademais, conforme se pleiteou no especial, o retorno dos autos à origem para apreciação concreta das possibilidades e impossibilidades financeiras do requerente, inclusive no que tange às alternativas mitigadoras da concessão total do benefício.
+Nesse sentido:
+ ..  3. Consoante a jurisprudência do STJ, "a simples declaração de pobreza firmada pelo requerente, no pedido de assistência judiciária gratuita, tem presunção relativa, admitindo-se prova em contrário". (AgInt no AREsp 632.890/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 30/10/2017). Nesse sentido: AgRg no AREsp 363.687/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1º/7/2015.
+4. Ademais, quanto ao argumento da recorrente de que percebe remuneração abaixo de 10 (dez) salários mínimos e por isso faz jus à gratuidade, o Superior Tribunal de Justiça vem rechaçando a adoção de critérios únicos não previstos na Lei 1.060/1950, porquanto não representam fundadas razões para denegação da gratuidade de justiça.
+A propósito: AgRg no REsp 1.486.056/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 20/4/2017; AgRg no AREsp 353.863/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/9/2013.
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ 5.
+Agravo Interno não provido.
+(AgInt no REsp n. 1.916.377/PE, relatorMinistro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+ ..  5. De acordo com a jurisprudência desta Corte, "é possível a limitação do benefício da justiça gratuita a determinados atos processuais, abrangência que deve ser examinada pelo magistrado no momento da concessão do benefício" (AgInt no REsp 1.832.379/RO, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 26/05/2020).
+ ..
+(AgInt no REsp n. 1.797.774/RS, relatorMinistro Gurgel de Faria, Primeira Turma, DJe de 18/12/2020).
+Não se trata de afirmar a concessão automática do benefício, senão de afastar sua rejeição igualmente automática por critério genérico não previsto nem mesmo, em análise lógica,no enunciado jurisprudencial invocado como razão de decidir pela origem.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especialparaafastar a premissa genérica de rejeição da assistência judicial gratuita e determinar a apreciação fundamentada da situação financeira concreta do requerente.
+Publique-se. Intimem-se.
