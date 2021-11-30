@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJSC assim ementado (e-STJ fls. 177/178):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR PERDAS E DANOS E REINTEGRAÇÃO DE POSSE. CONTRATO PARTICULAR DE COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. INADIMPLEMENTO ATRIBUÍDO À PROMITENTE COMPRADORA. RECONVENÇÃO. IMÓVEL ADQUIRIDO COM A FINALIDADE DE EXPLORAÇÃO DE UM BAR E WISKERIA. ALVARÁ DE FUNCIONAMENTO DENEGADO PELA MUNICIPALIDADE EM RAZÃO DA INADEQUAÇÃO AO ZONEAMENTO URBANO. PRETENDIDA CONDENAÇÃO DA PROMITENTE VENDEDORA AO PAGAMENTO DE INDENIZAÇÃO PELA DESPESA SUPORTADA COM A EDIFICAÇÃO DO IMÓVEL. INEXISTÊNCIA DE NOTIFICAÇÃO PREMONITÓRIA. CONDITIO SINE QUA NON. DEMANDA EXTINTA SEM RESOLUÇÃO DO MÉRITO NA FORMA DO ART. 267, INC. VI, DO CÓDIGO DE PROCESSO CIVIL. RECURSO DA PARTE AUTORA, DEFENDENDO A EFETIVA CONSTITUIÇÃO EM MORA DA CONTRATANTE. INOCORRÊNCIA. NOTIFICAÇÃO COM AVISO DE RECEBIMENTO (AR) NÃO ENTREGUE À DESTINATÁRIA PELA EBCT. AUSÊNCIA DE REQUISITO OBJETIVO AO PROCESSAMENTO VÁLIDO E REGULAR DA DEMANDA. IMÓVEL URBANO. TERRENO FRUTO DE DESMEMBRAMENTO. APLICAÇÃO DA LEI N. 6.766/79. EXEGESE DA SÚMULA 76 DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO CONHECIDO E DESPROVIDO.
+1. Nos termos de pacífica jurisprudência desta egrégia Corte, o desfazimento do contrato de promessa de compra e venda exige a prévia interpelação do devedor para constitui-lo em mora. Precedentes.
+2. A matéria foi consolidada no enunciado da Súmula 76/STJ, segundo a qual "A falta de registro do compromisso de compra e venda de imóvel não dispensa a prévia interpelação para constituir em mora o devedor".
+3. Há necessidade de prévia notificação para configuração da mora quando se trata da modalidade ex persona, porquanto, segundo assentado em precedentes do Superior Tribunal de Justiça, o disposto no artigo 219 do 1.c. Código de Processo Civil versa somente acerca da mora ex re. Além disso, a citação inicial somente se presta a constituir mora nos casos em que a ação não se funda na mora do réu, hipótese em que esta deve preceder ao ajuizamento, e que não se coaduna com a situação ora tratada.  .. " (Superior Tribunal de Justiça, AgRg no Resp 862.646/ES, 2. Rel. Ministro Raul Araújo, Quarta Turma, j. 13-11-2012).
+A recorrente opôs embargos de declaração, os quaisforam rejeitados (e-STJ fls. 207/227).
+Em suas razões (e-STJ fls. 230/240),fundamentadas no art. 105, III, "a" e "c", da CF, apontaofensa aos seguintes dispositivos legais, vinculados aos respectivos tópicos e argumentos:
+(i) art. 1.022, I, do CPC/2015  negativa de prestação jurisdicional:
+(..) o Tribunal recorrido viola o inc. I, do art. 1.022, do CPC, porquanto verificou-se uma flagrante contradição, porquanto, uma vez que o acórdão que conheceu o recurso de apelação interposto pela Autora, à época Apelante e agora Recorrente, manteve a sentença de primeiro grau por maioria de votos, deveria dar continuidade ao julgamento, na forma do art. 942, do CPC(e-STJ fl. 233).
+(ii) art. 942 do CPC/2015  julgamento ampliado:
+(..) atento ao princípio tempus regit actum, o resultado do recurso, sendo publicado sob a égide do CPC/2015, deve-se se aplicar a suas regras, em razão do que dispõe, inclusive, o caput, do art. 1.046, do CPC: "Art. 1.046. Ao entrar em vigor este Código, suas disposições se aplicarão desde logo aos processos pendentes, ficando revogada a Lei no 5.869, de 11 de janeiro de 1973 (e-STJ fl. 235).
+(..)
+possível a aplicação do art. 942, do CPC, que fora violado, mesmo que não tenha sido reformada a sentença e que ela não seja de mérito (e-STJ fl. 236).
+A parte recorrida nãoapresentou contrarrazões (e-STJ fl. 251).
+É o relatório.
+Decido.
+A controvérsia tem origem em ação de rescisão decontrato de compra e venda de imóvel.
+O Juízo de primeira instânciajulgou extinto o processo,sem resolução de mérito, nos termos do art. 267, VI, do CPC/1973, considerando a ausência de notificação premonitória.
+No Tribunal de Justiça, a sentença foi mantida,por maioria de votos.
+Aautoraopôs embargos de declaração, apontando omissão quantoà regra do art. 942 do CPC/2015. Na sua visão,o julgamento deveria ter prosseguido com a tomada de votos de mais dois julgadores, de modo a assegurar o direito à sustentação oral.
+O recurso foi rejeitado. Segundo o voto condutor do acórdão,a técnica de julgamento ampliadotrazida pelonovo Código de Processo Civil somente seriaexigida no recurso contra sentença de mérito. Ponderou ainda que, "apesar de finalizado no dia 12 de maio de 2016 (..)- na vigência do o CPC/2015 -, o julgamento teve início em 03 de dezembro de 2015, na vigência o no CPC/1973 - quando houve a apresentação do voto e pedido de vista (fl. 128), de modo que, sendo esta a baliza para a prolação do voto, deve também nortear o resultado do julgamento" (e-STJ fl. 216).
+Necessário reconhecer, todavia, que o entendimento adotado na origem diverge da jurisprudência desta Corte, seja quanto à incidência do atual CPC ao caso ou quanto àpossibilidade de se aplicar a técnica de ampliação de julgamento na hipótese de oacórdão manter,por maioria, a sentença terminativa.
+Confiram-se:
+RECURSO ESPECIAL. PROCESSO CIVIL. CPC/2015, ART. 942. TÉCNICA DE AMPLIAÇÃO DE JULGAMENTO. DECISÕES COM MAIOR GRAU DE CORREÇÃO E JUSTIÇA. ECONOMIA E CELERIDADE. APELAÇÃO NÃO UNÂNIME QUE REFORMA OU MANTÉM A SENTENÇA IMPUGNADA. EMPREGO AUTOMÁTICO E OBRIGATÓRIO.
+(..)
+3. Contudo, diferentemente dos embargos infringentes do CPC/1973 - que limitava, no caso da apelação, a incidência do recurso aos julgamentos que resultassem em reforma da sentença de mérito -, a técnica de julgamento prevista no CPC/2015 deverá ser utilizada quando o resultado da apelação for não unânime, independentemente de ser julgamento que reforma ou mantém a sentença impugnada.
+4. A forma de julgamento prevista no art. 942 do CPC de 2015 não se configura como espécie recursal nova, porquanto seu emprego será automático e obrigatório, conforme indicado pela expressão "o julgamento terá prosseguimento", no caput do dispositivo, faltando-lhe, assim, a voluntariedade e por não haver previsão legal para sua existência (taxatividade).
+5. Recurso especial provido.
+(REsp 1733820/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/10/2018, DJe 10/12/2018  grifei.)
+RECURSO ESPECIAL. PROCESSO CIVIL. ART. 942, CAPUT, DO CPC/2015.JULGAMENTO NÃO UNÂNIME. APELAÇÃO. TÉCNICA DE AMPLIAÇÃO DO COLEGIADO.NATUREZA JURÍDICA. INCIDÊNCIA. MARCO TEMPORAL. ABRANGÊNCIA.NULIDADE. CONFIGURAÇÃO.
+6. Diante da natureza jurídica sui generis da técnica de ampliação do colegiado, o marco temporal para aferir a incidência do art. 942, caput, do CPC/2015 deve ser a data da proclamação do resultado não unânime da apelação, em respeito à segurança jurídica, à coerência e à isonomia.
+(..)
+9. A incidência do art. 942, caput, do CPC/2015 não se restringe aos casos de reforma da sentença de mérito, tendo em vista a literalidade da disposição legal, que não estabelece nenhuma restrição semelhante ao regime dos extintos embargos infringentes.
+10. A redação do caput do art. 942 do CPC/2015, que dispõe acerca da apelação, é distinta do § 3º, que regulamenta a incidência da técnica nos julgamentos não unânimes de ação rescisória e agravo de instrumento, para os quais houve expressa limitação aos casos de rescisão ou modificação da decisão parcial de mérito.
+11. Recurso especial provido para, acolhendo a preliminar de nulidade, determinar o retorno dos autos ao Tribunal de origem para que seja convocada nova sessão de prosseguimento do julgamento da apelação, nos moldes do art. 942 do CPC/2015, ficando prejudicadas, por ora, as demais questões.
+(REsp 1762236/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/02/2019, DJe 15/03/2019  grifei.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO APELO EXTREMO DA PARTE ADVERSA.IRRESIGNAÇÃO DOS AUTORES.
+1. "O art. 942 do CPC não determina a ampliação do julgamento apenas em relação às questões de mérito. Na apelação, a técnica de ampliação do colegiado deve ser aplicada a qualquer julgamento não unânime, incluindo as questões preliminares relativas ao juízo de admissibilidade do recurso." (REsp 1798705/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 28/10/2019).
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1601037/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 8/6/2020, DJe 23/6/2020  grifei.)
+Aplica-se, portanto, a Súmula n. 568 do STJ.
+Diante do exposto, DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para julgamento da apelação conforme os termos do art. 942 do CPC/2015.
+Publique-se e intimem-se.
