@@ -1,0 +1,58 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial na Apelação Cível no 1003254-87.2019.811.0010
+Recorrente: ODEILDE PEREIRA DE JESUS MIYAMOTO
+Recorrida: ENERGISA MATO GROSSO DISTRIBUIDORA DE ENERGIA S/A
+Vistos.
+Trata-se de recurso especial (id. 105152463) interposto por ODEILDE PEREIRA DE JESUS MIYAMOTO, com fundamento no art. 105, III, alínea “a”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Privado deste Sodalício, o qual deu parcial provimento ao recurso de apelação manejado pela recorrida, conforme a seguinte ementa (id. 103095981):
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS – COBRANÇA DE FATURA EM VALOR SUPERIOR AO EFETIVAMENTE CONSUMIDO – CONSTATAÇÃO – REFATURAMENTO PELA MÉDIA – REPETIÇÃO SIMPLES DE INDÉBITO – POSSIBILIDADE – INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA – DANO MORAL – OCORRÊNCIA – QUANTUM INDENIZATÓRIO REDUZIDO – PROPORCIONALIDADE E RAZOABILIDADE – INCIDÊNCIA DOS JUROS MORATÓRIOS DESDE A CITAÇÃO E A CORREÇÃO MONETÁRIA A PARTIR DO ARBITRAMENTO – RECURSO PROVIDO PARCIALMENTE.
+Demonstrado o pagamento indevido por parte da autora, tem cabimento a repetição do indébito, na forma simples, vez que não comprovada a má-fé da atuação da empresa requerida, o qual deverá ser compensado com o valor do refaturamento do consumo do mês em discussão, apurado pela média aritmética dos últimos 12 meses, sob pena de enriquecimento ilícito da parte autora.
+A cobrança indevida, seguida de interrupção, também indevida, no fornecimento do serviço, constitui ato ilícito que enseja indenização por danos morais.
+Deve ser reduzido o valor fixado para a indenização decorrente de dano moral que extrapolou os critérios de razoabilidade e proporcionalidade com relação ao grau de culpa, extensão e repercussão dos danos e à capacidade econômica das partes.
+O termo inicial para incidência dos juros de mora, em caso de dano moral, é a data da citação, ao passo que a correção monetária incide a partir da fixação definitiva do quantum indenizatório (Súmula 362/STJ). (RAC n° 1003254-87.2019.811.0010, Rel. MARILSEN ANDRADE ADDARIO, SEGUNDA CÂMARA DE DIREITO PRIVADO, j. em 22/09/2021)”.
+A recorrente sustenta em suas razões:
+(i) violação ao art. 489, § 1°, III, do CPC, ao argumento de que o acórdão não declinou os critérios à ensejar a minoração do “quantum” indenizatório, o que caracteriza falta de fundamentação na decisão. Outrossim, justifica necessidade de intervenção da Corte Superior, em razão de que o acórdão redimensionou o valor arbitrado a título de dano moral, para quantia considerada irrisória.
+(ii) divergência jurisprudencial quanto aos arts. 186 e 927 do CC, mormente a redução do “quantum” indenizatório.
+Recurso tempestivo (id. 105182992).
+Preparo dispensado ante a gratuidade de justiça (Certidão de id. 105184956).
+Contrarrazões (id. 108488971).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação aos arts. 489, § 1°, III, do CPC
+A partir da suposta ofensa aos arts. 489 § 1°, III, do CPC, a recorrente alega que o órgão fracionário deste Tribunal não teria fundamentado suficientemente as razoes que ensejaram a redução do “quantum” indenizatório.
+No entanto, do exame do acórdão, afere-se as seguintes ponderações adotadas nas razões de decidir:
+“No que diz respeito ao dano moral, verifica-se que a cobrança indevida de valores, somada à efetiva interrupção do fornecimento de energia elétrica, atingiu a autora/apelada, a qual ficou impedida de utilizar os serviços de energia, considerados de natureza essencial, demonstram que a conduta adotada pela apelante restou acometida de abuso e importou em ofensa aos direitos básicos do consumidor, o que resulta na existência de ato ilícito a ensejar reparação por danos morais.
+Extrai-se dos autos, que houve corte no fornecimento de energia elétrica, de acordo com o declarado pela parte autora, ora apelada, conforme documento anexo pela própria concessionária de energia no ID 99868954, p.2.
+Desse modo, constata-se a presença da responsabilidade civil, consubstanciada no dever de indenizar o dano moral sofrido, resultante da violação da ordem jurídica com ofensa ao direito alheio.
+(...) sagrou-se no âmbito da doutrina e da jurisprudência nacional o entendimento de que a indenização deve ser justa a ponto de alcançar seu caráter punitivo e proporcionar satisfação ao correspondente prejuízo moral sofrido pelo ofendido.
+Assim, o quantum indenizatório deve ser estipulado como penalidade ao caráter da conduta, sem imputar valores abusivos que incentivem a indústria do dano moral ou representem enriquecimento sem causa. Enfim, deve observar os princípios da razoabilidade e proporcionalidade.
+Portanto, evidenciada a desídia da apelante, bem como os transtornos causados ao consumidor/autor, assim como considerando o grau de culpa da recorrente e a capacidade socioeconômica das partes, tenho que o valor da indenização por dano moral deve ser reduzido para R$ 2.000,00 (dois mil reais), a fim de melhor atender os princípios supra mencionados”. (grifei).
+Com efeito, ao justificar a redução do “quantum” o órgão fracionário colacionou entendimentos do STJ que mantiveram a fixação em valores que não superaram o valor reduzido ao patamar de R$ 2.000,00 (dois mil reais), sem que isso ofendesse os critérios de proporcionalidade e razoabilidade.
+Diante desse quadro, não há evidência de violação aos art. 489 § 1°, III, o que conduz à inadmissão do recurso neste ponto.
+Do reexame de matéria fática (Súmula 07 do STJ)
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não se mostrando possível que se examine matéria fático-probatória, ante o teor da Súmula 07 do STJ:
+“Súmula 07/STJ. A pretensão de simples reexame de prova não enseja recurso especial”.
+O caso dos autos trata-se de ação declaratória de inexistência de débito c/c indenização por danos morais ajuizada pela recorrente, condenando a recorrida, dentre outros, ao pagamento de indenização por dano moral no valor de R$ 8.000,00 (oito mil reais).
+O apelo da recorrida foi parcialmente provido reduzindo o quantum para R$ 2.000,00 (dois mil reais), além de reformar a sentença determinando restituição de valores na forma simples (e não em dobro), bem como autorizando a compensação do consumo do mês de junho/2019 apurado pela média do consumo dos 12 (doze) últimos meses.
+Em que pese a recorrente mencionar em suas razões o disposto no art. 186 e 927 do CC, no intuito de justificar que a redução do valor a título de dano moral atingiu cifra irrisória, tem-se que o recurso não comporta o juízo positivo de admissibilidade, eis que o valor de R$ 2.000,00 (dois mil reais) não se revela ínfimo a ponto de ensejar a revisão pela Corte Superior.
+A pretensão recursal revela apenas e tão somente o interesse na simples revisão do julgado ao seu favor. Todavia, para tanto, seria imprescindível o reexame de premissas fático-probatórias, o que esbarra no óbice da Súmula 07/STJ. A propósito, nesse sentido:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VIOLAÇÃO DO ART. 489, § 1o, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. INOVAÇÃO RECURSAL. VEDAÇÃO. INDENIZAÇÃO. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. AGRAVO INTERNO NÃO PROVIDO. (...) 2. Não há falar em violação do art. 489 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. 3. É vedado o exame de inovação recursal no recurso especial. 4. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula no 7 do STJ. 5. Agravo interno não provido. (AgInt no AREsp 1520108/RJ, Rel. Min. MOURA RIBEIRO, TERCEIRA TURMA, j. em 30/11/2020, DJe 02/12/2020)” (grifei).
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANO MORAL. SUSPENSÃO DE ENERGIA ELÉTRICA. CULPA CONCORRENTE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. VALOR INDENIZATÓRIO. REVISÃO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA. 1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). (...) 3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, diante das peculiaridades apresentadas, o valor estabelecido pelo Tribunal a quo não se mostra ínfimo, a justificar sua reavaliação em recurso especial. 4. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a demonstração da similitude fática entre os acórdãos confrontados. 5. Agravo interno a que se nega provimento. (AgInt no AREsp 1482590/MT, Rel. Min. ANTONIO CARLOS FERREIRA, QUARTA TURMA, j. em 21/10/2019, DJe 25/10/2019)” (grifei).
+A título de esclarecimento, afere-se do inteiro teor do julgado acima, que o valor arbitrado foi na ordem de R$ 1.000,00 (hum mil reais), patamar considerado proporcional e razoável à luz do conteúdo fático probatório.
+Ausência de cotejo analítico
+A hipótese prevista no art. 105, III, alínea “c” da Constituição Federal prescreve a apreciação, pelo STJ, de recurso especial oposto contra acórdão que, em única ou última instância, tenha dado a lei federal interpretação divergente da que lhe haja atribuído outro tribunal.
+Com efeito, fica prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF) quanto aos arts. 186 e 927 do CC, diante da aplicação do verbete sumular 07 do STJ. A propósito, o entendimento da Corte Superior é no sentido de que: “a incidência da Súmula 7 do STJ, prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte” (AgInt no REsp 1884179/PR, Rel. Min, NANCY ANDRIGHI, TERCEIRA TURMA, j. em 30/11/2020, DJe 02/12/2020).
+Ademais, tem-se que, a rigor, o recurso não deve alcançar o normal seguimento, porque a recorrente deixou também de atender o comando dos arts. 255, § 1o, do RISTJ c/c 1.029, § 1o, do CPC.
+Fundando-se o recurso em dissídio jurisprudencial, este deve ser demonstrado mediante a comparação analítica entre as decisões conflitantes de tribunais, com indicação clara e precisa da semelhança de assuntos e interpretações díspares. In casu, não houve comprovação de dissídio jurisprudencial nesse sentido.
+Diante desse quadro, inviável também a admissão do recurso com base na alínea “c” do art. 105, III, da CF.
+Ante o exposto, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
