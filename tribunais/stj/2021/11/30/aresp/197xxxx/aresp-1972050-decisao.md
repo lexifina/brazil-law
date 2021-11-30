@@ -1,0 +1,41 @@
+DECISÃO
+Trata-sede agravo interposto por CINÉPOLIS OPERADORA DE CINEMAS DO BRASIL LTDA.contra decisão que, na origem, não admitiu o recurso especial.
+Na origem, cuida-se de agravo de instrumento interposto pela recorrente contra decisão que rejeitou a impugnação ao cumprimento de sentença e o prosseguimento da execução, ao considerar que a citação foi válida.
+A Vigésima Segunda Câmara de Direito Privado do Tribunal de Justiça de São Paulo negou provimento ao agravo de instrumento, consoante acórdão assim ementado (e-STJ, fls. 177-187):
+AGRAVO DE INSTRUMENTO - NULIDADE DE CITAÇÃO - CITAÇÃO PELO CORREIO COM "AR" - INEXISTÊNCIA DE NULIDADE - TEORIA DA APARÊNCIA - PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS - É válida a citação de pessoa jurídica por via postal, quando efetivada no endereço onde se encontra o estabelecimento do réu, sendo desnecessário que a carta citatória seja recebida e o aviso de recebimento assinado por seu representante legal ou terceiros com poderes específicos. Em conformidade com o princípio da instrumentalidade das formas, que determina a não vinculação às formalidades desprovidas de efeitos prejudiciais ao processo, é de rigor a aplicação da teoria da aparência para reconhecer a validade da citação da pessoa jurídica realizada. Ainda mais, ressalte-se que, não é comum se dispor o diretor ou gerente de empresa a receber os carteiros, sendo, por tal motivo, presumir-se que o empregado ou terceiro colocado nessa função tenha a responsabilidade de promover o devido encaminhamento à correspondência recebida. Recurso não provido.
+Os embargos de declaração opostos contra o acórdão foram rejeitados (e-STJ, fls. 193-198).
+Nasrazões de recurso especial, interposto com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, a recorrente alegou a violação aos arts. 248, § 1º, 280, 281 e 1.022, inciso II, todos do CPC/2015.
+Sustentou que o acórdão recorrido foi omisso ao deixar de enfrentar a questão relativa à falta de identificação do recebedor da carta de citação, o que torna a diligência absolutamente nula.
+Aduziu que o mero rabiscona correspondência de citação é insuficiente para se identificar o recebedor do documento, o que fulminaria a diligência de nulidade absoluta, cognoscível a qualquer tempo, por não preencher as formalidades legais.
+Não foram apresentadas contrarrazões (e-STJ, fl. 214).
+O recurso especial não foi admitido na origem (e-STJ, fls. 215-217).
+Interposto o presente agravo, com as contrarrazões (e-STJ, fls. 239-248), os autos foram remetidos a este Superior Tribunal.
+É o relatório. Decido.
+O recurso especial merece acolhimento no que tange à violação do art. 1.022, inciso II, do CPC/2015.
+De fato, percebe-se que o acórdão recorrido chegou à conclusão de que a citação entregue no endereço da filial constante do contrato social da pessoa jurídica, sem que o recebedor se recusasse a receber, seria suficiente para sua validade, em razão da teoria da aparência. Confira-se (e-STJ, fl. 181):
+Constata-se que o Aviso de Recebimento foi encaminhado e recebido positivamente no endereço da recorrente, inclusive em endereço de uma de suas filiais constantes do contrato social apresentado nos autos principais.
+Ademais, se o aviso de recebimento fosse entregue a pessoa que não pudesse recepcionar, com a devida vênia, haveria a recusa do recebimento, o que não ocorreu, conforme consta do AR.
+Assim, tendo a correspondência sido entregue, de forma efetiva, no endereço da empresa agravante e recebido por pessoa responsável pelo recebimento das correspondências, com a devida vênia, não há que se falar em nulidade da citação, eis que, aplica-se "in casu", a teoria da aparência.
+Tal entendimento encontra-se, de fato,de acordo com a jurisprudência desta Corte Superior. Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. "De acordo com o entendimento desta Corte, que adota a teoria da aparência, considera-se válida a citação postal, desde que comprovada, por meio do aviso de recebimento, a sua entrega na sede ou filial da empresa a uma pessoa que não recusa a qualidade de funcionário. Precedentes" (AgRg no AREsp 163.210/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/02/2014, DJe 24/02/2014).
+2. Na hipótese, o Tribunal de origem, com base nos elementos acostados aos autos, considerou válida a citação, haja vista a aplicação da teoria da aparência. Para rever tais conclusões, seria necessário o revolvimento da matéria fático-probatória constante dos autos, providência vedada nos termos do óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 976.554/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/11/2019, DJe 27/11/2019) (grifo nosso)
+Contudo, na espécie, a pessoa que recebeu a correspondência não foi identificada, sendoque o colegiadodeixou de se manifestar a respeito dessefato, de não ser possível apontar a identidade da pessoa que assinou o aviso de recebimento da carta citatória, uma vez que a rubrica aposta não identifica o recebedor de maneira clara.
+E, embora tenha o recorrente suscitado essa questão, quedou-se omisso o acórdão ora recorrido, mesmo tendo sido opostos embargos de declaração com o objetivo de sanar o vício.
+Não havendo, portanto, decisão sobre relevante alegação que tem total relação com a questão federal suscitada, necessário que o Tribunal de origem se manifeste.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃOCARÁTER INFRINGENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA.
+1. Os embargos de declaração são cabíveis para suprir omissão do acórdão.
+2. Admite-se, excepcionalmente, que os embargos, ordinariamente integrativos, tenham efeitos infringentes, desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil de 2015, cuja correção importe alteração da conclusão do julgado.
+3. Na hipótese, caracterizada a negativa de prestação jurisdicional, impõe-se o reconhecimento de ofensa ao art. 1.022 do CPC/2015, anulando-se o acórdão proferido no julgamento dos aclaratórios e determinando-se o retorno dos autos à origem para que seja sanado o vício apontado.
+4. Embargos de declaração acolhidos com efeitos infringentes. (EDcl no AgInt nos EDcl no AREsp 1623908/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/05/2021, DJe 24/05/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. VIOLAÇÃO AO ART. 1.022 DO CPC DE 1973. OCORRÊNCIA. AGRAVO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015, art. 1.022, II), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+2. Hipótese em que o Tribunal de origem, não obstante provocado pela parte, não se manifestou sobre a alegação de concessão ex officio de efeito suspensivo aos embargos da devedora por ocasião do julgamento do agravo de instrumento interposto pelo credor, uma vez que os embargos foram recebidos sem efeito suspensivo na origem e inexiste recurso da parte contrária. Configuração de omissão relevante.
+3. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial. (AgInt nos EDcl no AREsp 1640867/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/03/2021, DJe 22/03/2021)
+Ante o exposto, conheço doagravopara dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para suprir a omissão constatada.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. OMISSÃO RELEVANTE NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. CONSTATAÇÃO. QUESTÃO RELATIVA AODESCONHECIMENTO DA IDENTIDADE DO RECEBEDOR DA CARTA DE CITAÇÃO.RETORNO DOS AUTOS À ORIGEM PARA SUPRIR A FALTA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
