@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 286/290) interposto contra decisão do Ministro Presidente desta Corte que não conheceu do agravo em recurso especial.
+Em suas razões, oagravante aduz que impugnou todos os fundamentos da decisão de inadmissibilidade do recurso especial, não podendo o agravo ser rejeitado com base na Súmula n. 182/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foram oferecidas contrarrazões (e-STJ fl. 294).
+É o relatório.
+Decido.
+Orecorrente atacou todos os fundamentos da decisão que não admitiu o recurso especial, não havendo falar em aplicação da Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial foi inadmitido em virtude da incidência daSúmulan. 83 do STJ (e-STJ fls. 224/227).
+O acórdão recorrido está assim ementado (e-STJ fl. 169):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO ACOLHIDOS PARA JULGAR EXTINTA A AÇÃO DE EXECUÇÃO, COM FULCRO NO ARTIGO 318, PARÁGRAFO ÚNICO C/C 485, IV, DO CPC. EXTINÇÃO PELA PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. PORÉM, O FALECIMENTO DO EXECUTADO NO CURSO DO PROCESSO ACARRETA A SUCESSÃO PELO SEU ESPÓLIO, COMO DISPÕE O ARTIGO 110 DO CPC. ESPÓLIO QUE RESPONDE PELAS DÍVIDAS DO FALECIDO, NOS TERMOS DO ARTIGO 1.997 DO CC. PATRIMÔNIO DEIXADO PELO DE CUJUS QUE RESPONDERÁ ATÉ O MOMENTO EM QUE FOR REALIZADA A PARTILHA. A HABILITAÇÃO DE CRÉDITO NO INVENTÁRIO, A SER REALIZADA ANTES DA PARTILHA, É MEDIDA DE NATUREZA FACULTATIVA, DISPONIBILIZADA AO CREDOR PARA FACILITAR A SATISFAÇÃO DA DÍVIDA, O QUE NÃO IMPEDE, CONTUDO, O AJUIZAMENTO DE AÇÕES AUTÔNOMAS PARA A MESMA FINALIDADE OU O PROSSEGUIMENTO EM FACE DO ESPÓLIO DAQUELAS JÁ INICIADAS ANTES DO FALECIMENTO DO DEVEDOR.PROSSEGUIMENTO DA EXECUÇÃO QUE SE IMPÕE. ANULAÇÃO DA SENTENÇA.
+RECURSO A QUE SE DÁ PROVIMENTO.
+Os embargos de declaração foram rejeitados(e-STJ fls. 192/197).
+O recurso especial (e-STJ fls. 199/206), fundamentado no art. 105, inc. III, "a" da CF, apontouviolação doart. 642 do CPC/2015. Sustentou que todas as dívidas do espólio teriamde ser cobradas nos autos do inventário, devendo ser extinta a ação autônoma de cobrança.
+As contrarrazões foram apresentadas às fls. 211/216(e-STJ).
+A insurgência não merece prosperar.
+A questão foi decidia pela Corte de origem nos seguintes termos (e-STJ fls. 171/176):
+Nos autos do feito executivo, tombado sob o nº 0024388.- 79.2016.8.19.0202, o ora apelante/embargado pretende o pagamento de honorários contratuais, consistente no pagamento de 30% do valor do imóvel objeto da causa julgada procedente nos autos do processo nº 0065017- 05.2005.8.19.0001. Para se atingir a satisfação do crédito, foi realizada a penhora do aludido imóvel e, ainda, a indicação do leiloeiro.
+Contudo, após o ajuizamento da execução, o executado veio a falecer, razão pela qual o magistrado, ao proferir sentença nos presentes embargos à execução, considerou o seguinte (índice 123):
+"Desse modo, o valor pretendido pelo embargado é o correto, sendo, inclusive, o valor que o próprio embargante arrolou nas primeiras declarações do inventário.
+No entanto, apesar de, no mérito, os embargos serem infundados, a ação de execução em apenso deverá ser extinta, em razão da perda superveniente do interesse processual, já que com o falecimento do devedor, cabe ao juízo orfanológico onde tramita o Inventário dos bens deixados pelo de cujus decidir sobre a alienação dos bens do Espólio para pagamento de todos os credores, que inclusive, já se encontram arrolados nas Primeiras Declarações." (original sem grifos).
+Todavia, não restou configurada a perda superveniente do interesse processual, eis que o exequente, ora embargado, permanece no intuito de obter seu crédito, proveniente do pagamento do valor acordado pelas partes no contrato de honorários.
+É cediço que, com o falecimento da parte, deve ser promovida a sucessão processual por meio do espólio ou dos sucessores, nos termos do artigo 110 do CPC, o que ocorreu nos presentes autos, visto que o espólio, sucessor do executado falecido, propôs os presentes embargos à execução, vindo a acompanhar os atos processuais até então.
+ ..
+Convém ressaltar, ainda, que, como dispõe o artigo 642, do CPC, "Antes da partilha, poderão os credores do espólio requerer ao juízo do inventário o pagamento das dívidas vencidas e exigíveis.".
+Desse modo, o requerimento para pagamento das dívidas vencidas perante o juízo do inventário constitui uma faculdade e, portanto, deve ser considerada a opção do exequente/embargado, ora apelante, que pleiteia o pagamento da verba proveniente do contrato de honorários na ação própria.
+ ..
+Como bem ressaltou o juízo sentenciante, o valor pretendido pelo embargado corresponde ao arrolado pelo próprio embargante nas primeiras declarações do inventário, onde consta a dívida de R$ 118.030,81 em favor do ora embargado (índice 26, fl. 30).
+Ante o exposto, não há de ser extinta a execução por falta de interesse de agir, impondo-se, assim, a anulação da sentença para que se dê prosseguimento ao feito.
+O posicionamentoadotado segue a jurisprudência desta Corte, que entende ser uma faculdade a habilitação do crédito no inventário, podendo também a dívida ser cobrada em ação ordinária autônoma.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO AGRAVADA.AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO POR QUANTIA CERTA AJUIZADA CONTRA ESPÓLIO E HERDEIROS. OFENSA A DISPOSITIVO CONSTITUCIONAL.DESCABIMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ARGUIÇÃO GENÉRICA.SÚMULA 284/STF. HABILITAÇÃO DO CRÉDITO NO INVENTÁRIO. FACULDADE DO CREDOR. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do agravo em recurso especial, por inexistir impugnação específica dos óbices contidos na decisão de admissibilidade do recurso especial. Reconsideração.
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+3. "A habilitação de crédito no inventário, a ser realizada antes da partilha, é medida de natureza facultativa, disponibilizada ao credor para facilitar a satisfação da dívida, o que não impede, contudo, o ajuizamento de ações autônomas para a mesma finalidade, especialmente nas hipóteses em que a dívida não está vencida ou não é exigível" (RMS 58.653/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 2/4/2019, DJe de 4/4/2019). Incidência, na espécie, da Súmula 83 do STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.(AgInt no AREsp 1612510/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. HABILITAÇÃO DE CRÉDITO EM INVENTÁRIO. REMESSA DO PEDIDO AOS MEIOS ORDINÁRIOS.PRETENSÃO RESISTIDA. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1. A sentença que denega a habilitação de crédito na sucessão, por mera discordância de qualquer interessado, não enseja a condenação em honorários advocatícios, pois não torna litigiosa a demanda, não havendo falar em condenação, nem de se cogitar em qualquer proveito econômico, já que o direito ao crédito e à sua cobrança são remetidos às vias ordinárias.
+2. Deveras, "nessa situação não haverá o processamento incidental deste pedido, mas a necessidade de propositura de uma ação própria na qual será discutida a dívida em pauta e a obrigação do espólio arcar, ou não, com ela, daí a remissão às "vias ordinárias" (WAMBIER, Teresa Arruda Alvim. Primeiros comentários ao novo código de processo civil: artigo por artigo. São Paulo: RT, 2016, p. 1095).
+3. Agravo interno não provido.(AgInt no REsp 1792709/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/08/2019, DJe 13/08/2019.)
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. COBRANÇA DE DÍVIDA DIVISÍVEL DO AUTOR DA HERANÇA. EXECUÇÃO MANEJADA APÓS A PARTILHA.ULTIMADA A PARTILHA, CADA HERDEIRO RESPONDE PELAS DÍVIDAS DO FALECIDO NA PROPORÇÃO DA PARTE QUE LHE COUBE NA HERANÇA, E NÃO NECESSARIAMENTE NO LIMITE DE SEU QUINHÃO HEREDITÁRIO. ADOÇÃO DE CONDUTA CONTRADITÓRIA PELA PARTE. INADMISSIBILIDADE.
+1. Com a abertura da sucessão, há a formação de um condomínio necessário, que somente é dissolvido com a partilha, estabelecendo o quinhão hereditário de cada beneficiário, no tocante ao acervo transmitido.
+2. A herança é constituída pelo acervo patrimonial e dívidas (obrigações) deixadas por seu autor. Aos credores do autor da herança, é facultada, antes da partilha dos bens transmitidos, a habilitação de seus créditos no juízo do inventário ou o ajuizamento de ação em face do espólio.
+3. Ultimada a partilha, o acervo outrora indiviso, constituído pelos bens que pertenciam ao de cujus, transmitidos com o seu falecimento, estará discriminado e especificado, de modo que só caberá ação em face dos beneficiários da herança, que, em todo caso, responderão até o limite de seus quinhões.
+4. A teor do art. 1.997, caput, do CC c/c o art. 597 do CPC  correspondente ao art. 796 do novo CPC , feita a partilha, cada herdeiro responde pelas dívidas do falecido dentro das forças da herança e na proporção da parte que lhe coube, e não necessariamente no limite de seu quinhão hereditário. Dessarte, após a partilha, não há cogitar em solidariedade entre os herdeiros de dívidas divisíveis, por isso caberá ao credor executar os herdeiros pro rata, observando a proporção da parte que coube (quinhão), no tocante ao acervo partilhado.
+5. Recurso especial não provido.(REsp 1367942/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/05/2015, DJe 11/06/2015.)
+Aplicável, no ponto, a Súmula n. 83/STJ.
+Ante o exposto, reconsideroa decisão da Presidência desta Corte de fls. 267/269(e-STJ), para CONHECER do agravo nos próprios autos e NÃO CONHECER do recurso especial.
+Mantida a majoração dos honorários aplicada pela decisão agravada.
+Publique-se e intimem-se.
