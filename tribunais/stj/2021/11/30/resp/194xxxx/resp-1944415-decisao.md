@@ -1,0 +1,46 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL.EMBARGOS À EXECUÇÃO FISCAL. RENÚNCIA AO DIREITO SOBRE O QUAL SE FUNDA A AÇÃO. ADESÃO A PROGRAMA DE REGULARIZAÇÃO DE CRÉDITOS TRIBUTÁRIOS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. FIXAÇÃO DE HONORÁRIOS. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. RECURSO ESPECIAL DO ENTE ESTADUAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de recurso especial interpostopelo ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurge contra acórdão proferido pelo TJMG, assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL.ADESÃO AO PROGRAMA DE REGULARIZAÇÃO DE CRÉDITOS TRIBUTÁRIOS. LEI ESTADUAL Nº 22.549, DE 2017, REGULAMENTADA PELO DECRETO ESTADUAL Nº 47.210, DE 2017. HONORÁRIOS ADVOCATÍCIOS. BIS IN IDEM. VERBA INDEVIDA. RECURSO NÃO PROVIDO.
+1. Segundo entendimento do egrégio Superior Tribunal de Justiça, caracteriza bis in idem a condenação do contribuinte em honorários advocatícios quando ele desiste dos embargos à execução para aderir a programa de incentivo fiscal no qual já está previsto o pagamento da verba honorária.
+2. Assim, uma vez que o Decreto estadual nº 47.210, de 2017, que regulamentou a Lei estadual nº 22.549, de 2017, condiciona a adesão ao programa de regularização fiscal ao pagamento dos honorários advocatícios, estes são indevidos no caso de desistência dos embargos à execução com a finalidade de aderir ao plano.
+3. Apelação cível conhecida e não provida, mantida a sentença que deixou de arbitrar honorários advocatícios.(fls. 305).
+2. Os embargos de declaração opostos foram rejeitados (fls. 342/344).
+3. Nas razões do seu recurso especial (fls. 347/372), a parte agravante sustenta violação dos arts. 14, 85, 90, 489 e 1022 do CPC/2015 ao defender a fixação de honorários sucumbenciais em razão da desistência da demanda anulatória proposta pela parte ora recorrida.
+4. O recurso especial foi admitido na origem (fls. 532/534).
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8. A Corte local afastou a condenação de honorários sucumbenciais, na vertente hipótese, sob a seguinte fundamentação (fls. 307/309 e 312):
+Acrescento que o art. 90 do CPC de 2015, estabelece que, no caso de desistência da ação, renúncia ou reconhecimento do pedido, as custas processuais e os honorários advocatícios serão suportados pela parte que desistiu, renunciou ou reconheceu.
+Por outro norte, o Decreto estadual nº 47.210, de 2017, regulamentou a Lei estadual nº 22.549, de 2017, que instituiu o Plano de Regularização de Créditos Tributários relativos ao ICMS. O art. 13, § 2º, do mencionado Decreto estadual, dispõe que os honorários advocatícios, fixados nos percentuais elencados nos incisos I a IV, do mesmo artigo, serão devidos independentemente da verba honorária arbitrada no processo judicial no qual se discute o crédito tributário:
+Art. 13. Serão devidos pelo requerente honorários advocatícios fixados nos seguintes percentuais, calculados sobre o valor do crédito tributário apurado com as reduções previstas neste decreto, observadoso mesmo número de parcelas e datas de vencimento do crédito tributário:
+I - 5% (cinco por cento) para pagamento à vista ou mediante parcelamento em até doze parcelas;
+II - 7,5% (sete inteiros e cinco décimos por cento) para pagamento em até trinta e seis parcelas;
+III - 10% (dez por cento) para pagamento mediante parcelamento superior a trinta e seis parcelas.
+§ 1º - O disposto no caput aplica-se também ao crédito tributário objeto de ação ajuizada pelo contribuinte, ainda que não inscrito em dívida ativa.
+§ 2º - Os honorários devidos na forma do caput e do § 1º não compreendem, não prejudicam e não se compensam com os honorários devidos ou fixados em processo judicial promovido pelo contribuinte para discussão do crédito tributário.
+Por sua vez, o art. 5º da Lei estadual nº 22.549, de 2017, estabelece que o crédito tributário relativo ao ICMS, poderá ser pago à vista ou parceladamente. E o § 4º, inciso II do mencionado dispositivo legal prevê:
+Art. 5º. O crédito tributário relativo ao ICMS, a suas multas e aos demais acréscimos legais, vencido até 31 de dezembro de 2016, formalizado ou não, inscrito ou não em dívida ativa, ajuizada ou não sua cobrança, poderá ser pago à vista ou parceladamente, observados a forma, os prazos e as condições previstos neste artigo e em regulamento.
+(..)
+§ 4º - O disposto neste artigo:
+I - não autoriza a devolução, restituição ou compensação de valores já recolhidos;
+II - fica condicionado:
+a) à desistência de ações ou embargos à execução fiscal, nos autos judiciais respectivos, e à desistência de impugnações, defesas e recursos apresentados no âmbito administrativo;
+b) à renúncia ao direito sobre o qual se fundam ou se fundariam as ações judiciais;
+c) à desistência, pelo advogado do sujeito passivo, de cobrança ao Estado de eventuais honorários de sucumbência;
+d) ao pagamento das custas, das despesas processuais e dos honorários advocatícios;
+III - alcança crédito tributário objeto de ação penal por crime contra a ordem tributária, relativamente a tributo de competência deste Estado, desde que a respectiva sentença condenatória, se proferida, não tenha transitado em julgado.
+Portanto, a adesão ao programa de regularização fiscal fica condicionada a algumas condições, dentre elas, a desistência de ações ou embargos à execução fiscal, bem como ao pagamento das custas, das despesas processuais e dos honorários advocatícios. Ou seja, se o contribuinte aderiu ao programa, pressupõe-se o atendimento aos requisitos legais.
+(..)
+Verifico pela cópia da ação de execução fiscal nº 0024.16.078896-4 (arquivo eletrônico nº 6) que o apelante pretendia o recebimento de crédito de ICMS na importância de R$135.928,26, referente à dívida ativa inscrita em 15.04.2016. Em oposição, a recorrida manejou estes embargos em oposição à execução.
+Posteriormente, a apelada informou adesão ao programa de parcelamento e desistência dos embargos (arquivo eletrônico nº 51).
+De acordo com o art. 5º, § 4º, II, da Lei estadual nº 22.549, de 2017, o pagamento dos honorários advocatícios é condição para aderir ao programa de parcelamento do débito. Ora, a adesão da apelada indica que a verba honorária foi administrativamente quitada. Aliás, no boleto da primeira parcela inserido no arquivo eletrônico nº 54 há discriminado o valor dos honorários advocatícios. Assim, o arbitramento dos honorários advocatícios na via judicial poderia implicar em bis in idem, vedado pelo nosso ordenamento jurídico.
+Também por esse motivo, o art. 90 do CPC de 2015 não se aplica no presente caso.
+Dessa forma, com a desistência manifestada pela apelada aos embargos à execução, resta inviabilizado novo arbitramento da verba honorária. Logo, o inconformismo não tem pertinência. (sem destaques no original)
+9. Como se vê, inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de qualquer erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+10. Ademais, da leitura do acórdão objurgado constata-se que o mérito recursal foi decidido à luz da interpretação da Lei Estadual n. 22.549/2017, regulamentada pelo Decreto estadual n. 47.210/2017. Com efeito, a alteração do julgado, de modo a verificar a fixação dos honorários de sucumbência, demandaria, necessariamente, a análise da legislação local, providência vedada em sede de recurso especial. Desse modo, aplicável à espécie, por analogia, o enunciado da Súmula 280/STF, segundo a qual por ofensa ao direito local não cabe recurso extraordinário.
+11. Em que pese tenha havido a indicação de supostas violações a dispositivos de lei federal, inafastável o entendimento da Súmula 280/STF porquanto o recorrente afirma, nas razões do seu recurso especial, que éincontroverso nos autos que a extinção dos embargos de devedor decorreu de desistência com renúncia ao direito em que se fundava esta demanda em razão de adesão à plano estadual de regularização tributária, cujas regras estão estabelecidas em normas estaduais editadas previamente à adesão, qual seja, a Lei nº 22.549/2017 e seu decreto regulamentador o Decreto 47.210/2017 (fl. 360).
+12. Por fim,ressalta-se que épacífico o entendimento desta Corte Superiorde queos mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciaçãodo dissídio jurisprudencial referenteao mesmo dispositivo de lei federalapontado como violado ou à tese jurídica.
+13. Ante o exposto, nega-se provimento ao Recurso do ente estadual.
+14. Intimem-se. Publicações necessárias.
