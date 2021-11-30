@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de agravo interno interposto por Vera Lúcia de Souza Torres contra decisão da Presidência do STJ que, às fls. 533-536, indeferiu liminarmente os embargos de divergência.
+A agravante em suas razões assevera que a decisão agravada "configura má interpretação e necessita ser revista, pois o direito advém de inobservância ao artigo 54 da Lei n. 9.784/1991" (fl. 542).
+Requer, assim, a "retratação da decisão com fins de admissibilidade do recurso especial e uma nova interpretação das questões apreciadas e relatadas pelo Tribunal de origem, restabelecendo os efeitos do dispositivo da sentença" (fl. 544).
+Sem contrarrazões (cf. certidão de fl. 568).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EMAGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE IMPUGNAÇÃOESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
+1. O recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2.Cuida-se de agravo contra decisão da Presidência desta Corte que inferiu liminarmente os embargos de divergente ao fundamento de que "não se admite a interposição de embargos de divergência na hipótese de não ter sido apreciado o mérito do recurso especial, atraindo, por analogia, o teor da Súmula n. 315/STJ".
+3. À luz do do disposto na Súmula 182/STJ e nos artigos 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ o recorrente impugnará especificadamente os fundamentos da decisão agravada, sob pena de não conhecimento. Precedentes.
+4. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No caso dos autos, a Presidência desta Corte inferiu liminarmente os embargos de divergência, nos seguintes termos(fls. 533-536):
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 182/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido apreciado o mérito do recurso especial, atraindo, por analogia, o teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+ ..
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados desta Corte: EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+Quanto ao paradigma REsp n. 1.726.937/SP, cabe ressaltar que o art. 1043, § 3º, do Código de Processo Civil dispõe serem cabíveis embargos de divergência quando o acórdão paradigma for da mesma turma que proferiu decisão embargada. No entanto, condiciona a incidência dessa hipótese à alteração da composição da Turma julgadora em mais da metade de seus membros, entre a data do julgamento do acórdão embargado e a data de julgamento do acórdão paradigma.A propósito:
+ ..
+No caso, não ocorreu a alteração da composição do órgão fracionário nos termos do art. 1.043, § 3º, do CPC. Não há, pois, como admitir a utilização do REsp n. 1.726.937/SP como paradigma nos autos dos presentes embargos de divergência.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal,indefiro liminarmente os embargos de divergência.
+Ocorre que a agravante em suas razões limitou-se a sustentar quea decisão agravada "configura má interpretação e necessita ser revista, pois o direito advém de inobservância ao artigo 54 da Lei n. 9.784/1991" (fl. 542). Assim, resta evidenciada a ausência de impugnação específica aos fundamentos da decisão agravada.
+À luz dodo disposto na Súmula 182/STJe nos artigos1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJo recorrente impugnará especificadamente os fundamentos da decisão agravada, sob pena de não conhecimento. No mesmo sentido, destaco julgados recentes desta colenda Primeira Seção (grifei):
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA.INCIDÊNCIA DO ART. 1021, § 1º DO CPC/2015. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1.A decisão agravada negou provimento aos embargos de divergência em razão do entendimento firmado no julgamento do EREsp 1.496.347/ES, Rel. p/ acórdão Min. Benedito Gonçalves, no âmbito da 1ª Seção desta Corte Superior (DJe 28/4/2021), no qual foi pacificada a divergência existente sobre o tema, ao fixar a tese jurídica no sentido da impossibilidade de impor cassação de aposentadoria em ação de improbidade administrativa, pois a referida sanção não está prevista taxativamente na LIA e constitui matéria de legalidade estrita, sendo vedado o uso de interpretação extensiva no âmbito do direito sancionador.
+2. A parte recorrente impugnou genericamente os referidos fundamentos, pois apenas se insurgiu contra a pretensa invalidade da pacificação da tese jurídica no julgamento da 1ª Seção, o qual não deveria ser considerado como precedente, sem atacar especificamente o mérito do direito material contido na decisão agravada.
+3. Embora os embargos de divergência não constem expressamente do rol do art. 927 do CPC/2015, é inequívoco que a uniformização de tese jurídica controvertida no âmbito da Corte Superior, além de atender as premissas estabelecidas no art. 926 do CPC/2015, forma precedente obrigatório.
+4. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1.021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. Agravo regimental não conhecido.
+(AgInt nos EREsp 1.761.937/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 22/10/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão ora recorrida não conheceu do expediente em razão de não ser possível o manejo de PUIL em desfavor de decisão proferida pela Presidência da TNU. No recurso de Agravo Interno, a parte assinala que no tocante à pretensão ao percentual de 3,77%, referente à URP de abril e maio de 1988, não incide a prescrição de fundo de direito, mas apenas a parcelar, sem lançar argumentos contra o não conhecimento do pedido.
+2. Neste recurso, a parte agravante não rebate as razões expostas na decisão que visa a impugnar, isto é, a não admissibilidade do PUIL.Aplicável, no caso, a Súmula 182 do STJ, segundo a qual é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Para controverter a decisão agravada que não admitiu o processamento do PUIL, era dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que inexiste o óbice processual ali apontado, o que não ocorreu.
+4. Agravo interno não conhecido.
+(AgInt no PUIL 2.041/DF, Rel. Ministro Manoel Erhardt (Desembargador convocado do TRF5), Primeira Seção, DJe 3/9/2021)
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO NA AÇÃO RESCISÓRIA.RECEBIMENTO COMO AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO CONHECIMENTO DO RECURSO.
+1. É possível conhecer do pedido de reconsideração como agravo interno, em obediência aos princípios da fungibilidade e da economia processuais, desde que observado o prazo recursal correspondente, como ocorreu no presente caso.
+2. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, o que, na hipótese dos autos, não foi atendido.
+3. O agravante reitera as alegações trazidas na inicial no sentido de que teria direito à estabilidade, em razão de ter comprovado o efetivo exercício por mais de dez anos na atividade militar.
+Contudo, o recorrente não logrou confrontar, de maneira especificada, os fundamentos utilizados pela decisão agravada que demonstram que foram preenchidas quaisquer das permissivas legais que autorizam a rescisão do julgado. Da mesma forma, não foi impugnado o fundamento de que a presente rescisória está sendo utilizada como mero sucedâneo recursal, o que não se admite. Além disso, também não foram confrontados os precedentes que foram invocados pela decisão agravada para justificar a extinção liminar da demanda.
+4. Incidência da Súmula 182/STJ, a saber: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.".
+5. Pedido de reconsideração recebido como agravo interno e recurso não conhecido.
+(RCD na AR 6.825/DF, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/9/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. FALTA DE IMPUGNAÇÃO ESPECÍFICA AO ÚNICO FUNDAMENTO DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. AGRAVO NÃO CONHECIDO.
+1. Acerca do princípio recursal da dialeticidade, assinalam JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente se limita a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+2. Também a consolidada jurisprudência do STJ assinala que, "pelo princípio da dialeticidade, impõe-se à parte recorrente o ônus de motivar seu recurso, expondo as razões hábeis a ensejar a reforma da decisão, sendo inconsistente o recurso que não ataca concretamente os fundamentos utilizados no acórdão recorrido" (AgInt no RMS 58.200/BA, Relator Ministro GURGEL DE FARIA, Primeira Turma, DJe 28/11/2018).
+3. No caso, o recorrente não logrou se desvencilhar de tal encargo, uma vez que, nas razões do agravo interno, não houve o combate específico ao único fundamento da decisão agravada.
+4. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no PUIL 1.978/MT, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 7/6/2021)
+Ante o exposto, não conheço do agravo interno.
+É o voto.
