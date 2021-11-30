@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por TC NEXUS I EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA. contra decisão que negou seguimento a recurso especial manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 38):
+AGRAVO DE INSTRUMENTO. Preliminar de não conhecimento rejeitada. Recurso interposto contra decisão que deixa de apreciar objeção de decadência. Questão de mérito não enfrentada pelo juízo a quo. Determinação de apreciação da alegação para não importar supressão de instância. Recurso em parte provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 371, 487, II, 1.015, todos do Código de Processo Civil/2015, em virtude da impossibilidade de interposição do agravo de instrumento para o reconhecimento da decadência.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude do óbice da Súmula 7 do STJ.
+Nas razões deste agravo, a parte agravante afirma que não incide o óbice da Súmula 7 do STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso está prejudicado.
+Consta, no sítio eletrônico do Tribunal de origem que a decadência foi afastada pelo Tribunal de origem em posterior decisão interlocutória proferida em 7/12/2020. Confira-se:
+TCNEXUS I EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA ajuiza ação em face de R. DOS SANTOS MANHÃES - ME. A parte ré apresentou contestação e reconvenção a fls. 798, tendo alegado a incompetência do juízo e a decadência. A decisão de fls. 964 deixou de apreciar a prejudicial de mérito, tendo sido objeto de agravo de instrumento de fls. 1.096. Desta forma, passo a decidir: No que toca a alegação de incompetência do juízo, rechaço, na medida em que as partes são capazes e a cláusula de eleição de foro foi livremente firmada entre elas, sem qualquer ressalva na ocasião, portanto válida e eficaz. Ademais, não há qualquer comprovação de prejuízo para a ré quanto ao acesso ao judiciário, tanto que apresentou defesa e reconvenção tempestivamente, nos autos. Rejeito, também, a prejudicial de mérito de decadência, pois nas demandas em que o vício, por sua natureza, só pode ser conhecido mais tarde, o prazo só se iniciará no momento em que o adquirente tomar conhecimento do vício. No caso em tela, o autor somente ficou sabendo da alegada fraude por meio de e-mail anônimo, não havendo como aplicar o prazo decadencial requerido pela ré de 30 dias. Ademais, os vícios de erro e de dolo acarretam a anulabilidade do negócio, consoante art. 171, II, do Código Civil e o prazo decadencial para a sua anulação é de quatro anos, como disposto no art. 178, II, do Código Civil. Com isso, não há que se falar em decadência. Após o prazo para eventuais recursos, prossiga-se com a perícia  ..  (sem destaque no original).
+Nos termos da jurisprudência desta Corte,a superveniência da sentença ou decisão interlocutóriaproferidas no feito principal enseja a perda de objeto de recursos anteriores que versem sobre questões por elas resolvidas.Confira-se:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM CONTRA DELIBERAÇÃO QUE, EM RECUPERAÇÃO JUDICIAL, MANTEVE A RECUPERANDA NA POSSE DO IMÓVEL DADO EM GARANTIA FIDUCIÁRIA - DECISÃO MONOCRÁTICA QUE JULGOU PREJUDICADO O RECLAMO ANTE O ACORDO DE REESCALONAMENTO DA DÍVIDA FIRMADO ENTRE AS PARTES.
+1. Ocorreu a perda superveniente do interesse recursal ante a homologação do plano de recuperação judicial, tendo as partes integrantes da Cédula de Crédito Bancário firmado aditivo a tal título para o reescalonamento da dívida, encerrando-se a discussão acerca da suspensão do procedimento extrajudicial de consolidação do imóvel, objeto do recurso.
+Eventual inadimplemento do aditivo contratual de reescalonamento da dívida já foi mitigado pela prorrogação do prazo de cumprimento da obrigação.
+2. Agravo interno desprovido.
+(RCD no AREsp 1643224/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/09/2020, DJe 17/09/2020)
+Quanto ao mais, ajurisprudência do Superior Tribunal de Justiça está consolidadano sentido de que as decisões interlocutórias que se pronunciam sobre a decadência ou a prescrição, seja para reconhecê-la, seja para afastá-la, versam sobre o mérito do processo, motivo pelo qual são agraváveis com base no art. 1.015, II, do CPC/2015.
+Com isso, ainda que fosse possível a análise do mérito do recurso, o acórdão proferido pelo Tribunal de origem não merece nenhum reparo, uma vez que está em consonância com o entendimento firmado no STJ.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VIOLAÇÃO DO ART. 1.022, I e II, DO CPC/2015 CONFIGURADA EM PARTE. OMISSÃO QUANTO A ASPECTO FÁTICO RELEVANTE PARA O DESLINDE DO FEITO. AGRAVO DE INSTRUMENTO. DECISÃO INTERLOCUTÓRIA SOBRE MÉRITO DO PROCESSO (PRESCRIÇÃO E DECADÊNCIA) E EXCLUSÃO DE LITISCONSORTE (LEGITIMIDADE DE PARTE). CABIMENTO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1.Deixando a Corte local de se manifestar sobre questão relevante apontada em embargos de declaração que, em tese, poderia infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022, II, do CPC/2015.
+2. Nos termos do art. 487, II, do CPC/2015 - com redação diversa do art. 269, IV, do CPC/1973 -, haverá resolução de mérito quando o juiz decidir acerca da decadência ou da prescrição, reconhecendo ou rejeitando sua ocorrência.
+3. Cabe agravo de instrumento contra decisão que reconhece ou rejeita a ocorrência da decadência ou da prescrição, incidindo a hipótese do inciso II do art. 1.015 do CPC/2015.
+4. O art. 1.015, VII, do CPC/2015 estabelece que cabe agravo de instrumento contra as decisões que versarem sobre exclusão de litisconsorte, não fazendo nenhuma restrição ou observação aos motivos jurídicos que possam ensejar tal exclusão.
+5. É agravável, portanto, a decisão que enfrenta o tema da ilegitimidade passiva de litisconsorte, que pode acarretar a exclusão da parte.
+6. Recurso especial parcialmente provido.
+(REsp 1772839/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/05/2019, DJe 23/05/2019)
+Em face do exposto, nos termos do art. 34, XI, do Regimento Interno doSTJ,julgo prejudicadoo agravo em recurso especial.
+Intimem-se.
