@@ -1,0 +1,11 @@
+DECISÃO
+DIEGO DA SILVA GOMESalega sofrer constrangimento ilegal em razão deacórdão do Tribunal de Justiça do Estado de São Paulo, que não conheceu do writ originário, no qual a impetrante pretendia a suspensão da persecução penal ou, subsidiariamente, o deferimento da proposta de acordo de não persecução penal.
+Em suas razões,a impetrante reitera os pedidos anteriormente aduzidos, sustentando a ausência de fundamentação na decisão que indeferiu a proposta de acordo de não persecução penal, embora preenchidos os requisitos para a obtenção de tal benesse.
+E, assim, pretende " .. a concessão da liminar para determinar a suspensão do andamento da persecução penal até o julgamento do mérito deste "writ" e, ao final,postula que seja concedida a ordem de Habeas Corpus para determinar a oferta do acordo de não persecução penal ou, não sendo assim, a abertura vista ao MPESP para se manifestar sobre o cabimento do acordo de não persecução penal, desconsiderando a argumentação inidônea anteriormente esposada, com a confirmação da liminar." (fl. 14)
+Decido.
+No que tange ao acordo de persecução penal, assinalou o acórdão proferido pelo Tribunal de origem (fls. 30-31):
+Não se conhece do writ. Isto porque consoante as informações complementares extraídas do"site" deste Egrégio Tribunal de Justiça, o Ministério manifestou-se contrário à proposta de acordo de não persecução penal, sendo indeferido o pedido. Nos termos do artigo 28-A, § 14, do Código de Processo Penal, diante da negativa, os autos foram remetidos à Douta Procuradoria Geral de Justiça que manteve o indeferimento. Nessa situação concreta, não tem este Órgão julgador competência para conhecer e julgar o "writ", porque a Procuradoria Geral de Justiça passou a ser a autoridade coatora, devendo ser determinada a remessados presentes Habeas Corpus ao Colendo Órgão Especial desta corte,nos termos dos artigos 13-I-"A" e 103, do Regimento Interno. Dessarte, não se conhece da ordem
+Desse modo, não conhecida a matéria pela Corte local, inviável a análise do tema por essa Corte, sob pena de indevida supressão de instância.
+Ademais, colhe-se das informações extraídas do sítio do Tribunal de origem que houve a prolação de sentença e a substituiçãoda pena por prestação de serviços à comunidade.
+À vista do exposto,não conheço do habeas corpus.
+Publique-se e intimem-se.
