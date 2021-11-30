@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recursos especiais interpostos pela UNIÃO e por AURICELIO SILVA DOS SANTOS contraacórdão do Tribunal Regional Federal da 5ª Regiãoassim ementado (e-STJ fl. 246):
+ADMINISTRATIVO. MILITAR TEMPORÁRIO. LICENCIAMENTO PO TEMPO DE SERVIÇO. PATOLOGIA ORTOPÉDICA AO TEMPO DO SERVIÇO MILITAR. INCAPACIDADE TEMPORÁRIA. TRATAMENTO. POSSIBILIDADE. REINTEGRAÇÃO. CABIMENTO.
+A União sustenta violação doart. 535 do CPC/1973, do art.31, §2º, da Lei n. 4.375/1964, do art.140, 6, §6º, do Decreto n, 57.654/1966,do art. 121, II, §3º, "a" e "b", do Estatuto dos Militares e do art. 1º-F da Lei n. 9494/1997, com redação dada pela Lei n. 11.960/2009.
+Já o particular alega, além de dissídio jurisprudencial, contrariedadedo:
+art. 1º, inc. III, art. 5º, incs. V e X, art. 37, §6º, da CF/88), além de normas infraconstitucionais (art. 50, inciso IV, alíneas "e", "l" e "s", art. 80, art. 81, inciso III, art. 104, inciso II, art. 106, incisos III, art. 108, caput, incisos IV, art. 109, art.110, caput, §1º, todos da Lei no 6.880, de 09 de dezembro de 1980), bem como os arts. 43, 186 e 927, Parágrafo Único, do Código Civil Brasileiro.
+Inadmitido o recurso do ente federal na origem, houve a interposição de agravo, com exceção da questão quanto ao art. 1º-F da Lei n. 9.494/1997.
+É o que importava relatar.
+Adianto que o agravo da União infirmou adequadamente a decisão de inadmissão do apelo especial, autorizando o exame deste recurso.
+Dito isso, em primeiro lugar, registro que não há violação do art. 535 do CPC/1973 (1.022 do CPC/2015) quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado, como no caso dos autos.
+O acórdão se manifestou clara e expressamente sobre as questões controvertidas defendidas nos aclaratórios (necessidade de reintegração de militar temporário incapaz para as funções da caserna).
+Basta a leitura do acórdão para se constatar que foram rejeitados, ainda que por lógica (tacitamente), os fundamentos da Fazenda, ficando claro que queria a embargante rediscutir o mérito da decisão no trecho em que lhe foi desfavorável, não se prestando os aclaratórios a essa função.
+Nesse mesmo sentido: MANOEL ERHARDT (desembargador convocado doTRF5), Primeira Turma, julgado em 14/09/2021, DJe 16/09/2021; EDcl no AgInt no REsp 1.896.032/SP, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, julgado em 08/09/2021, DJe 10/09/2021; EDcl no AgInt no RE nos EDcl no REsp 1.823.284/SP, Rel. Ministro JORGE MUSSI, Corte Especial, julgado em 08/09/2021, DJe 13/09/2021.
+Além disso, o magistrado não está obrigado a responder a todas as alegações das partes, nem tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/09/2014.
+No mérito propriamente dito, entendo que o recurso não pode ser conhecido.
+As conclusões a que chegou a Corte de origem estão em compasso com o entendimento deste Tribunal, no sentido de que se deve reintegrar militar temporário incapacitado, sendo que a incapacidade não precisa ser total, mas somente para os atos relacionados com a função militar, e independe de relação causal entre a incapacidade e o serviço militar.
+Nesse sentido: AgInt no AREsp 1.736.011/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 30/08/2021, DJe 02/09/2021; AgInt no AREsp 1.762.249/RS, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 21/06/2021, DJe 24/06/2021; AgInt no AgInt no AREsp 1.172.753/RS, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 26/10/2020, DJe 12/11/2020.
+Assim, aplico ao caso a súmula 83 deste STJ.
+Em relação ao recurso especial do particular, também não admite conhecimento.
+O órgão de origem, diante das provas apresentadas no processo, concluiu não se tratar de contexto fático favorável à condenação da União em dano moral, situação que não pode ser revista nesta instância recursal, em razão da súmula 7 desta Corte.
+Além disso, esta Corte Superior entende que a aplicação da Súmula 7 em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial (AgInt no AgInt no AREsp 1.618.014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 09/08/2021, DJe 17/08/2021).
+Ante o exposto, CONHEÇO DO AGRAVO da União para CONHECER EM PARTE do apelo especial e, nessa extensão, NEGAR-LHE PROVIMENTO, e NÃO CONHEÇO do recurso especial do particular.
+Publique-se. Intimem-se.
