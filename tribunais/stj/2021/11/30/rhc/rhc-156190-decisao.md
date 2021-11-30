@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, interposto por ÍTALO DOS SANTOS SILVA, em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Sergipe.
+Narra a defesa que o recorrente está preso desde o dia 14/08/2020 pela suposta prática do crime previsto no art. 157, caput, e §2º, II, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação da decisão que decretou a prisão preventiva do ora recorrente. O eg. Tribunal de origem denegou a ordem, em v. acórdão assim ementado:
+"HABEAS CORPUS ROUBO MAJORADO(ART. 157- B do CP) - INDEFERIMENTO DOPEDIDO DE LIBERDADE PROVISÓRIA -ALEGAÇÃO DE QUE A GRAVIDADE EMABSTRATO DO DELITO NÃO ÉFUNDAMENTO IDÔNEO A AMPARAR APRISÃO CAUTELAR - INSUBSISTÊNCIA -DEMONSTRAÇÃO DA GRAVIDADECONCRETA - PACIENTE QUE COMETEU OCRIME EM CONCURSO E VALENDO-SE DESIMULACRO DE ARMA DE FOGOCONDIÇÕES PESSOAIS FAVORÁVEIS(PRIMARIF.DADE, BONS ANTECEDENTESE RESIDÊNCIA FIXA) NÃO OBSTAM ADECRETAÇÃO DA PRISÃO PREVENTIVANEM CONFEREM AO PACIENTE DIREITOSUBJETIVO A AUTOMÁTICACONCESSÃO DE LIBERDADEPROVISÓRIA - PRESENÇA DOSREQUISITOS DO ARTIGO 312 DO CPP EINVIABILIDADE DE EVENTUALSUBSTITUIÇÃO DA SEGREGAÇÃO PORMEDIDAS CAUTELARES DO ARTIGO 319DO CPP - FUMUS COM1SS1 DELICTI EPERICULUM LIBERTATISMATERIALIDADE E INDÍCIOS DEAUTORIA. GRAVIDADE CONCRETA DODELITO IMPUTADO AO PACIENTE ENECESSIDADE DE GARANTIA DA ORDEMPÚBLICA - EXCESSO DE PRAZO -INEXISTÊNCIA DE DESÍDIA DO JUÍZOIMPETRADO -CONSTRANGIMENTOLEGAL NÃO VERIFICADO - ORDEMDENEGADA- DECISÃO UNÂNIME" (fl. 70).
+Daí o presente recurso ordinário, no qual alega a defesa que o recorrente estaria sofrendo constrangimento ilegal em razão da ausência de fundamentação idônea da decisão que determinou sua segregação cautelar, bem como ausentes os requisitos ensejadores da prisão preventiva.
+Defende que o recorrente ostenta condições pessoais favoráveis.
+Sustenta excesso de prazo na formação da culpa.
+Requer, ao final, a revogação da prisão preventiva.
+Pedido de sustentação oral à fl. 89.
+Pedido de liminar indeferido às fls. 144-146.
+O douto Ministério Público Federal manifestou-se, às fls 151-157, pelo não provimento do recurso, em parecer ementado nos seguintes termos:
+"RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. ALEGADO EXCESSO DE PRAZO PARA ENCERRAMENTO DA INSTRUÇÃO CRIMINAL.NÃO CARACTERIZADO. MARCHA PROCESSUAL REGULAR PROPORCIONAL E RAZOÁVEL. PRISÃO PREVENTIVA FUNDAMENTADA, DEVIDAMENTE. MODUS OPERANDI. CRIME PRATICADO MEDIANTE GRAVE AMEAÇA.COM EMPREGO DE SIMULACRO DE ARMA DE FOGO E CONCURSO DEAGENTES. MANUTENÇÃO DA CUSTÓDIA PREVENTIVA QUE SE IMPÕE.INCABÍVEL A APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DAPRISÃO. PARECER PELO NÃO PROVIMENTO DO RECURSO ORDINÁRIO" (fl. 151).
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça, em seu art. 34, XVIII, "b", dispõe queo relator pode decidir monocraticamente para "negar provimento ao recurso ou pedido que for contrárioa tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça ou, ainda,a jurisprudência dominante sobre o tema".
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Opedido encontra-se prejudicado.
+Em consulta ao sítio do Tribunal de origem (www.tjse.jus.br), processo0002307-28.2020.8.25.0074, foi proferida sentença, no dia 22/10/2021, com o seguinte dispositivo "Diante do aduzido, JULGO PROCEDENTE a pretensão punitiva estatal contida na denúncia e, em consequência, CONDENO os réus ITALO DOS SANTOS SILVA e HUMBERTO MENEZES DE OLIVEIRA, como incursos nas sanções do artigo 157, § 2.º, inciso II, do Código Penal. (..) determino a imediata EXPEDIÇÃO dos ALVARÁS DE SOLTURA e cumprimento, SALVO se por outro motivo os sentenciados estiverem custodiados. Quando do cumprimento dos alvarás, deverão ser intimados das medidas cautelares fixadas".
+Ante o exposto, julgo prejudicado o presente recurso ordinário em Habeas corpus.
+P.I.
