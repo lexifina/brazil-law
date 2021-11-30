@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno interposto por Sônia Aparecida Rodrigues Silvério e outros contra decisão por meio da qual determinei o retorno dos autos à origem, com respectiva baixa nesta Corte, porque a questão versada no presente recurso é a mesma tratada no Recurso Extraordinário 827.996, em que reconhecida a repercussão geral da matéria constitucional suscitada (Plenário Virtual, Relator o Ministro Gilmar Mendes).
+O agravo em recurso especial foi interposto por Companhia Excelsior de Seguros contra decisão que negou seguimento ao recurso especial que impugnava acórdão assim ementado:
+SEGURO VINCULADO AO SISTEMA FINANCEIRO HABITACIONAL. INDENIZAÇÃO. DEFEITOS NOS IMÓVEIS ADQUIRIDOS PELOS AUTORES. PERIGO DE DESM RONAM ENTO. COBERTURA CONTRATUAL. PROCEDÊNCIA DO PEDIDO.
+SEGURO VINCULADO AO SISTEMA FINANCEIRO HABITACIONAL. INDENIZACÃO. MULTA DECENDIAL. PREVISÃO CONTRATUAL. CABIMENTO. LIMITAÇÃO AO VALOR DA OBRIGAÇÃO PRINCIPAL.
+1. Legitimidade passiva. A ré integra o grupo de seguradoras que assegura os financiamentos vinculados ao SFH. Reconhecimento.
+2. Interesse da CEF. De acordo com recente decisão do Eg. STJ, nos processos que versam sobre indenização securitária com fundamento em apólice pública (Ramo 66), a CEF pode solicitar seu ingresso nos autos desde que comprove a afetação da indenização ao FVCS. Inocorrência no caso dos autos. Não caracterização de interesse da CEF ou da UF.
+3. Legitimidade dos autores. Autores contratantes da CDHU ou suas respectivas esposas, sub-rogadas. Reconhecimento.
+4. Contratos quitados. Irrelevância. Contratos coligados, mas independentes.
+5. Perícia judicial. Constatação de que os imóveis adquiridos pelos autores têm vícios de construção que afetam suas estruturas. Risco de desmoronamento constatado pelo perito. Necessidade de urgente conserto. Previsão de cobertura expressa na apólice. Indenização devida.
+6. Multa decendial. Previsão na apólice. Limitação ao valor da obrigação principal de cada um dos autores. Precedentes do Eg. STJ. Precedentes do Tribunal.
+Recurso provido para julgar procedente o pedido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, a Seguradora alega violação do artigo 1º da Lei 12.409/2011; 3º e 6º do Código de Processo Civil de 1973; 206, § 1º, II, "b", 458, 757, 760, 771 e 784 do Código Civil; 6º, VIII, do Código de Defesa do Consumidor.
+Apesar de o referido Recurso Extraordinário 827.996 já ter sido julgado pela Suprema Corte, verifico que também se discute, no presente recurso, a "Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação" -, tema esse que foi afetado à Segunda Seção, sob o rito dos repetitivos - artigo 1.036 do Código de Processo Civil -, nos autos dos REsps 1.799.288/PR e 1.803.225/PR (DJe 9.12.2019), de minha relatoria, vinculado ao Tema 1039.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, devem ser devolvidos os autos ao Tribunal de origem, nos termos do artigo 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nos termos do artigo 1.037, II, do Código de Processo Civil, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito do recurso recebido como representativo da controvérsia (Tema 1039), e, após, que se proceda em conformidade com os comandos dos artigos 1.040 e 1.041 do Código de Processo Civil. Prejudicado o agravo interno.
+Intimem-se.
