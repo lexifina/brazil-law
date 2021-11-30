@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito "negativo" por iniciativa de Michele Safra de Oliveira em face do Juízo da 7ª Vara do Trabalho de São Paulo, SP (Reclamação Trabalhista c/c danos materiais/morais 1000438-20.2021.5.02.0607), em que é reclamada GB Zincagem e Tratamento em Superfície Ltda.; do Juízo de Direito da 1ª Vara do Juizado Especial Cível do Foro Regional V - São Miguel Paulista, na mesma capital, em desfavor da mesma ré, GB Zincagem (Ação de Reparação de danos materiais/morais 1007292-72.2021.8.26.0005); e do Juízo Federal da 1ª Vara do Juizado Especial Cível da Seção Judiciária daquela unidade federada (Ação de Reparação de danos materiais/morais 0043571-76.2021.4.03.6301), em que são rés GB Zincagem, a Caixa Econômica Federal - CEF e a União.
+Todos os feitos decorrem do indevido lançamento do número PIS da suscitante pela empresa, simulando inexistente vínculo empregatício nos cadastros públicos, fato que impediu a fruição do auxílio emergencial.
+A Justiça do Trabalho extinguiu o processo, indicando a competência da Justiça comum estadual em virtude da expressa declaração que não existe vínculo empregatício entre as partes (fls. 37/40).
+O Juízo Cível estadual, por sua vez, extinguiu o feito ante a necessidade de que a CEF integrasse o polo passivo, por suposta corresponsabilidade pelo erro cometido (fls. 41/42), o que motivou a distribuição da demanda perante a Justiça Federal.
+O Juízo Federal julgou a demanda no sentido da improcedência dos pedidos, havendo a constatação de que o erro foi cometido exclusivamente pela pessoa jurídica GB (fls. 43/49).
+À fl. 58, foi determinada a complementação da instrução do incidente, com a juntada das petições iniciais de todas as ações.
+A pessoa jurídica e a União foram excluídas da indenizatória;o ente público, porque em seu desfavor tramita ação com o mesmo propósito, já sentenciada, havendo litispendência (fls. 98/99).
+A CEF se manifesta às fls. 96/97 no sentido de que a ação foi julgada pela Justiça Federal, pela improcedência dos pedidos, decisório que estaria sujeito a revisão pela via processual adequada, o que não ocorreu, sobrevindo o trânsito em julgado, de modo que não é possível a utilização do conflito de competência como sucedâneo de recurso.
+Instado a se manifestar, opinou o Ministério Público Federal na linha de que o choque de jurisdições subsiste apenas quanto aos dois primeiros Juízos, devendo ser declarada a competência do Juízo Cível para o processamento e julgamento da controvérsia (fls. 107/110).
+Assim resumidos os fatos, verifica-se que, de fato, deve o Juízo Federal da 1ª Vara do Juizado Especial da SJSP ser excluído do conflito, que não se presta para reverter decisão transitada em julgado, nos termos da Súmula 59/STJ.
+Quanto às autoridades judiciárias remanescentes, necessário consignar que a competência se fixa em razão da causa de pedir e do pedido formulado na inicial que, na hipótese em comento, refere-se a matéria eminentemente de cunho civil.
+Com efeito, pretende a autora ter acesso ao benefício do auxílio emergencial a que está impedida pelo registro de inexistente relação de emprego com a ré, GB Zincagem, que apesar de fornecer declaração nesse sentido, não tomou as providências necessárias para excluí-la dos cadastros que a Caixa Econômica Federal utiliza para a concessão do benefício, situação que é causa de danos materiais e morais.
+Na hipótese dos autos, não controvertem as partes sobre a inexistência de alguma relação de emprego que as vincule.
+Diante dessa constatação, a obrigação não tem como ser apreciada pela Justiça do Trabalho. Os julgados a seguir estão entre os diversos precedentes da Segunda Seção em casos similares:
+Competência. Conflito negativo. Justiça Comum Estadual e Justiça Trabalhista. Ação de indenização. Ausência de relação de trabalho. Competência da Justiça Comum Estadual.
+- Compete à Justiça Comum Estadual o julgamento de ação na qual se pretende indenização por danos morais e materiais se a natureza da relação jurídica estabelecida entre as partes não é de trabalho.
+Conflito de competência conhecido para declarar competente o Juízo suscitado.
+(CC 57.048/SP, Rel. Ministra NANCY ANDRIGHI, unânime, DJU de 15.8.2006)
+CONFLITO NEGATIVO. AÇÃO DE INDENIZAÇÃO. DANOS À IMAGEM. ÁLBUM DE FIGURINHAS. INCLUSÃO DA EFÍGIE DO AUTOR. EDITORA. PRETENDIDA DENUNCIAÇÃO DA LIDE AO EX-EMPREGADOR, CLUBE DE FUTEBOL, AINDA NÃO CONCRETIZADA. INEXISTÊNCIA DE VÍNCULO EMPREGATÍCIO ENTRE AUTOR E RÉU. CONTROVÉRSIA DE NATUREZA CIVIL. JURISPRUDÊNCIA DA SEÇÃO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. A ação indenização por danos à imagem, reclamada de quem não é ou foi empregador, não se configura como ação oriunda da relação de trabalho, tal como descrita na Constituição Federal, art. 114, inciso I, conforme redação introduzida pela Emenda Constitucional 45/2004.
+2. Precedentes da Segunda Seção.
+3. Conflito de competência conhecido para declarar a competência da Justiça comum estadual.
+(CC 121.072/MG, minha relatoria, unânime, DJe de 16.10.2013)
+CONFLITO NEGATIVO. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. PRESTAÇÃO DE DECLARAÇÕES DE AJUSTE ANUAL DO IMPOSTO DE RENDA FALSAS À RECEITA FEDERAL. INCLUSÃO NA "MALHA FINA". CONTRATAÇÃO DE PESSOA JURÍDICA FRANQUEADA. INEXISTÊNCIA DE VÍNCULO EMPREGATÍCIO. CONTROVÉRSIA DE NATUREZA CIVIL. JURISPRUDÊNCIA DA SEÇÃO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. A ação indenização por danos morais que supostamente foram causados à titular de pessoa jurídica franqueada, consistente na apresentação de três falsas declarações de ajuste anual do Imposto de Renda, após a rescisão do contrato de prestação de serviços, não tem pertinência com relação de trabalho, tal como descrita na Constituição Federal, art. 114, inciso I, conforme redação introduzida pela Emenda Constitucional 45/2004.
+2. Conflito de competência conhecido para declarar a competência da Justiça comum estadual.
+(CC 122.011/RS, minha relatoria, unânime, DJe de 20.9.2012)
+Em face do exposto, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara do Juizado Especial Cível do Foro Regional V - São Miguel Paulista, São Paulo, SP.
+Comunique-se. Intimem-se.
