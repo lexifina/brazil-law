@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE REVISÃO CONTRATUAL. ELABORAÇÃO DE PEDIDO INICIAL GENÉRICO. IMPOSSIBILIDADE. INDEFERIMENTO DA PETIÇÃO INICIAL. IMPERATIVIDADE.
+1. De acordo com o artigo 330, §2º do CPC, nas ações que tenham por objeto a revisão de obrigação decorrente de empréstimo, de financiamento ou de alienação de bens, o autor terá de, sob pena de inépcia, discriminar na petição inicial, dentre as obrigações contratuais, aquelas que pretende controverter, além de quantificar o valor incontroverso do débito, o que não é visto nos autos.
+2. No caso, restando incontroversa a elaboração de pedido inicial genérico, correto o decreto extintivo proferido.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Os embargos de declaração opostos foram acolhidos sem efeitos infringentes e foram assim ementados:
+EMENTA: EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. AÇÃO DE REVISÃO CONTRATUAL. ELABORAÇÃO DE PEDIDO INICIAL GENÉRICO. REQUERIMENTO PARA PRODUÇÃO DE PROVA PERICIAL. OMISSÃO CARACTERIZADA. CERCEAMENTO DE DEFESA.INOCORRÊNCIA.
+1. Os Embargos de Declaração (artigo 1.022 do CPC) prestam-se para aclarar, no ato judicial, obscuridade, contradição, ou suprir omissão e erro material sobre ponto acerca do qual se impunha o pronunciamento pelo julgador.
+2. A ausência de deliberação sobre o requerimento devidamente formulado em sede de Apelação caracteriza omissão e fundamenta a oposição dos aclaratórios.
+3. No caso, deve-se afastar a alegação de cerceamento de defesa, em razão da não realização de prova pericial, porquanto esta instrução foi requerida com a nítida finalidade de serem identificados os encargos ilegais incidentes na avença celebrada entre as partes, ônus que, na forma do art. 330, § 2º, do CPC, deveria ter sido atendido pelo autor na inicial.
+EMBARGOS DE DECLARAÇÃO CONHECIDOS E ACOLHIDOS SEM EFEITO INFRINGENTE.
+Nas razões de recurso especial, alega o agravante, em suma, violação dos artigos 369 e 489, § 1º,IV,do Código de Processo Civil; 5º, LV, da Constituição Federal. Sustenta ausência de fundamentação do julgado recorrido nocaso.
+Afirma que "a prova pericial contábil seria imprescindível para aferição de fatos relevantes, sendo certo que o julgamento da lide importa em violação ao contraditório e a ampla defesa.Desta forma, restou cabalmente demonstrado a violação expressa do devido processo legal, eis que, impossibilitou a recorrente a produção de provas imprescindíveis para resolução da lide" (e-STJ, fl.494).
+Assim delimitada a controvérsia, passo a decidir.
+No tocante às alegações de ofensa aoart. 489do Código de Processo Civil de 2015, verifico que essas não merecem prosperar.
+Isso porque não configura ausência de fundamentação ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pela parte recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados. Nesse sentido: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1/3/2016.
+No presente caso, a Corte local, ao julgar a causa, deixou registrado o seguinte (e-STJ, fl. 405):
+No caso, tem-se que a elaboração de pedido inicial genérico restou incontroverso, porquanto o recorrente admitiu essa circunstância nas razões do apelo.
+Ocorre que, ainda que o ônus probatória possa ser invertido em razão da norma consumerista, é dever do autor pormenorizar, de forma detalhada, os encargos que impugna, uma vez que, além da regra legal acima transcrita, o julgador não pode declarar, de ofício, quais os encargos abusivos (Súmula 381 do STJ) e exigir do réu a apresentação de defesa sobre uma circunstância genérica violaria o atendimento do princípio constitucional do contraditório.
+Portanto, revelando-se genérico o pedido de introito, correto se mostra o julgamento de indeferimento da petição inicial.
+Com efeito, necessário consignar que o entendimento proferido está em sintonia com a jurisprudência desta Corte no sentido de que, em se tratando de contratos bancários, não é possível a revisão de ofício de cláusulas contratuais consideradas abusivas, nos termos do enunciado 381 da Súmula do STJ e do REsp em regime repetitivo 1.061.530/RS (SegundaSeção, Rel.Ministra Nancy Andrighi, no ponto por maioria, DJe de 10.3.2009).
+A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO CUMULADA COM REPETIÇÃO DE INDÉBITO. 1. TESE DE INAPLICABILIDADE DO CDC. AUSÊNCIA DE INTERESSE RECURSAL. 2.JULGAMENTO ULTRA PETITA. INEXISTÊNCIA. TRIBUNAL DE ORIGEM QUE SOLVEU A LIDE NOS EXATOS TERMOS DELINEADOS PELAS PARTES. SISTEMA DE AMORTIZAÇÃO FIXADO NA SENTENÇA MANTIDO NO ACÓRDÃO COMBATIDO.INEXISTÊNCIA DE DESCUMPRIMENTO PELA CORTE LOCAL DO DISPOSTO NA SÚMULA 381/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Quanto à inaplicabilidade do CDC ao caso, porquanto pactuado o contrato de mútuo antes da entrada em vigor desse códex, carece de interesse recursal a instituição financeira no ponto, tendo em vista que, não obstante o TJMS tenha assentado pela aplicabilidade da norma consumerista, manteve integralmente a sentença, que afastou expressamente a sua incidência.
+2. Conforme a Súmula 381 do STJ, "nos contratos bancários, é vedado ao julgador conhecer, de ofício, da abusividade das cláusulas".
+3. Ademais, a jurisprudência desta Casa dispõe que "cabe ao julgador a interpretação lógico-sistemática do pedido formulado na petição inicial a partir da análise dos fatos e da causa de pedir, considerados em todo o seu conteúdo, o que permitirá conceder à parte o que foi por ela efetivamente requerido" (REsp 1.741.681/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 23/10/2018, DJe 26/10/2018).No caso, a Corte de origem solveu a lide abarcando todas as questões suscitadas pelos litigantes, notadamente pelos autores da ação revisional. Além disso, verifica-se que o sistema de amortização fixado na sentença foi efetivamente mantido no acórdão recorrido, inexistindo alteração, de ofício, de cláusula contratual e, consequentemente, inobservância ao disposto na Súmula 381/STJ.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1432620/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/06/2019, DJe 25/06/2019.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESERÇÃO.QUESTÃO DECIDIDA. PRECLUSÃO. RAZÕES DO AGRAVO QUE NÃO FAZEM IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. BANCÁRIO. CLÁUSULAS CONTRATUAIS. REVISÃO DE OFÍCIO.IMPOSSIBILIDADE. PRECEDENTES. JUROS REMUNERATÓRIOS. LIMITAÇÃO.DESCABIMENTO. PRECEDENTES.
+1. Havendo pronunciamento anterior sobre a deserção, preclusa a questão que a parte deixa de impugnar no momento oportuno.
+2. Razões do agravo regimental que, ademais, deixam de impugnar especificamente os fundamentos que afastam a deserção.
+3. Nos termos do enunciado nº 381 da Súmula do STJ e do recurso repetitivo REsp 1.061.530/RS, não é possível a revisão de ofício de cláusulas contratuais consideradas abusivas.
+4. Nos contratos bancários, a limitação da taxa de juros remuneratórios só se justifica nos casos em que aferida a exorbitância da taxa em relação à média de mercado, o que não ocorreu na hipótese.
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1403056/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/03/2016, DJe 07/03/2016.)
+Assim, incide a Súmula n. 83do STJ, no caso.
+No acórdão proferido em embargos declaratórios, o Colegiado de origem entendeu que (fl. 478):
+Portanto, não tendo o requerente discriminado (identificado) na petição inicial as cláusulas que entende ilegais, encargo taxativamente estabelecido a ele, na forma do artigo 330, § 2º, do CPC, desnecessária a produção da prova judicial cuja finalidade é, tão somente, atender a obrigação que o postulante deveria ter cumprido na inicial.
+Por essa razão, afasto a alegação de cerceamento do direito de defesa.
+Nesse sentido, verifico que o Tribunal local concluiuque eradesnecessária a produção da prova judicial cuja finalidade é, tão somente, atender a obrigação que o postulante deveria ter cumprido na inicial, tendo esseColegiado estadualafastadoa alegação de cerceamento do direito de defesa nahipótese. Assim,a revisão desseposicionamento, no presente caso, demandaria nova investigação acerca dos fatos e provas contidos no processo, de modo que o recurso especial esbarra na Súmula n. 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de concessão de assistência judiciária gratuita.
+Intimem-se.
