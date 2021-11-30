@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, julgar prejudicado o recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Impedido o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de reexame de conflito de competência, para fins de eventual juízo de adequação ou retratação, em virtude do julgamento proferido pelo Supremo Tribunal Federal em Recurso Extraordinário com Repercussão Geral, conforme previsto no art. 1.030, II, do CPC/15.
+Ação: revisional de benefício de previdência privada complementar, ajuizada por WILMAR FERREIRA ARANTES em face de CAIXA ECONÔMICA FEDERAL e da FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF, por meio da qual pleiteia a inclusão da verba denominada CTVA - Complemento Temporário Variável Ajuste de Mercado - na composição de seu salário de participação, com os devidos reflexos no cálculo de benefício de complementação de aposentadoria.
+Manifestação do Juízo da 2ª Vara Cível de Rio Branco (suscitado): declinou da competência em favor do juízo laboral, sob o argumento de que os pedidos da parte autora decorrem de contrato de trabalho.
+Manifestação do Juízo da 3ª Vara do Trabalho de Rio Branco (suscitante): suscitou o conflito de competência, considerando o julgamento do STF, com repercussão geral, acerca da competência para apreciação de demandas envolvendo complementação de aposentadoria.
+Decisão unipessoal: conheceu do conflito e declarou competente o Juízo da 3ª Vara do Trabalho de Rio Branco/AC, nos limites de sua competência.
+Agravo interno: interposto pela FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF foi desprovido pela Segunda Seção desta Corte. Eis a ementa do julgado ora em reexame:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E JUSTIÇA COMUM. AÇÃO REVISIONAL DE BENEFÍCIO DE APOSENTADORIA COMPLEMENTAR. PLEITOS RELACIONADOS AO CONTRATO DE TRABALHO. REFLEXO NAS CONTRIBUIÇÕES PARA O PLANO DE PREVIDÊNCIA PRIVADA. CUMULAÇÃO DE PRETENSÕES DE NATUREZAS DISTINTAS. SÚMULA 170/STJ. COMPETÊNCIA DA JUSTIÇA ESPECIALIZADA NOS LIMITES DE SUAS ATRIBUIÇÕES.
+1. Compete à Justiça do Trabalho processar e julgar ação trabalhista que discute alterações promovidas no contrato de trabalho e a natureza de verbas recebidas do empregador.
+2. Compete à Justiça Comum o julgamento de ação relacionada a contrato firmado com entidade de previdência complementar, o qual possui natureza eminentemente civil.
+3. Havendo cumulação de pedidos envolvendo matérias de diferentes competências, deve a ação prosseguir perante o juízo onde foi inicialmente proposta, nos limites de sua competência, sem prejuízo do ajuizamento de nova demanda, com o pedido remanescente, no juízo próprio. Entendimento da Súmula 170/STJ. Precedentes.
+4. Agravo interno não provido. (e-STJ, fl. 1.311)
+Embargos de declaração: opostos pela FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF e pela CAIXA ECONÔMICA FEDERAL, ambos foram rejeitados.
+Recurso extraordinário: interpostos pela FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - FUNCEF (e-STJ, fls. 1.435/1.456) e pela CAIXA ECONÔMICA FEDERAL - CEF, (e-STJ, fls. 1.457.1477), nos quais alegam, em síntese, violação aos arts. 114, IX, e 202, § 2º, da CF, bem como ao decidido em sede de repercussão geral pelo Supremo Tribunal Federal no julgamento do RE 586.453/SE. Afirmam, ainda, que o STF assinalou que toda e qualquer demanda ajuizada contra entidade de previdência complementar, com pedido previdenciário, é de competência da Justiça Comum.
+Decisão: diante do julgamento do RE 586.453/SE sob a sistemática da repercussão geral, o Min. Vice-Presidente do STJ determinou o retorno dos autos ao órgão julgador, para os fins do art. 1.030, II, do CPC/15 (e-STJ, fls. 1.513/1.516 e 1.517/1.519).
+É o relatório.
+EMENTA
+CONFLITO DE COMPETÊNCIA. AÇÃO DE REVISÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. JUÍZO DE RETRATAÇÃO. DESNECESSIDADE. SUPERVENIÊNCIA DO JULGAMENTO DE RECURSO ESPECIAL COM MESMA DISCUSSÃO JURÍDICA. EXTINÇÃO DO INCIDENTE.
+1. A superveniência de decisão com trânsito em julgado em recurso especial, cuja discussão jurídica - definição do juízo competente para o processo e julgamento de ação de revisão de complementação de aposentadoria - é a mesma a ser dirimida no presente incidente, enseja a perda de objeto deste último, sem que seja necessária a realização de eventual juízo de retratação.
+2. Juízo de retratação não exercido. Extinção do conflito de competência por perda de objeto.
+VOTO
+O reexame do presente conflito de competência, para fins de eventual juízo de adequação ou retratação, em virtude do julgamento proferido pelo Supremo Tribunal Federal, no RE 586.453/SE, não se faz mais necessário. Isso porque a superveniência de decisão transitada em julgado em recurso especial, cuja discussão jurídica - definição do juízo competente para o processo e julgamento de ação de revisão de complementação de aposentadoria - é a mesma a ser dirimida no presente incidente, prejudica a análise deste último e torna despicienda a realização de eventual juízo de retratação.
+Deveras, diante do trânsito em julgado do decisum proferido no REsp 1.780.372/AC, no qual foi reconhecida a competência da Justiça Laboral para a análise dos pedidos exclusivamente relacionados ao contrato de trabalho, observa-se a perda do objeto do presente incidente, não havendo razão para a sua reanálise , com base no art. 1.030, II, do CPC/15.
+Forte nessas razões, JULGO EXINTO o conflito de competência, ante a perda superveniente de seu objeto, nos termos do art. 34, XI, do RISTJ.
