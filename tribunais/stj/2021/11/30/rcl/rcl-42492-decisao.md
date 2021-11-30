@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de reclamação ajuizada por Daniel Palmeira de Limacontra ato do Juízo de Direito da 3ª Vara Criminal da comarca de Limeira/SP.
+Narram os autos que o reclamante foi processado por meio de ação penal que lhe atribui o crime de participação em organização criminosa, perante oJuízo de Direito da 3ª Vara Criminal da comarca de Limeira/SP (Ação Penal n. 1010685-69.2017.8.26.0320).
+Em 24/11/2020, nos autos do Recurso em Habeas Corpus n. 117.980/SP, proferi voto vencedor reconhecendo a nulidade da decisão que confirmou o recebimento da denúncia, por não enfrentar suficientemente as preliminares defensivas:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. DENÚNCIA. RESPOSTA PRELIMINAR. CONFIRMAÇÃO DO RECEBIMENTO. FUNDAMENTAÇÃO. NECESSIDADE. ANÁLISE, MESMO QUE SUCINTA, DOS ARGUMENTOS DE DEFESA. AUSÊNCIA. NULIDADE. RECURSO PROVIDO.
+I. Ao examinar a resposta preliminar deve o juiz, ao manter o recebimento da denúncia, analisar, mesmo que de forma sucinta, as razões de defesa apresentadas pelo réu sob pena de nulidade.
+II. Não se admite uma decisão que apresenta fundamentação que serve a qualquer resposta à acusação, independentemente dos temas nela trazidos, o que revela a impropriedade da motivação declinada pelo Magistrado de origem (RHC n. 56.980/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/6/2016, DJe 8/6/2016).
+III. Agravo regimental provido para dar provimento ao recurso ordinário, nos termos do dispositivo.
+Agora, o reclamantealega que a autoridade de referida decisão não foi cumprida, uma vez que, apesar de ter proferido nova decisão sobre a resposta à acusação, o Juízo deixou de decidir sobre a questão da nulidade do compartilhamento de provas (fl. 4).
+Aduz que o Juízo de primeiro grau tentou aproveitar os atos nulos dizendo: "No mais, intimem-se as defesas dos réus para que se manifestem sobre eventual concordância e aproveitamento das testemunhas já inquiridas, tal como indicada às fls. 7.433/7.435, possibilitando o prosseguimento do feito apenas em relação as testemunhas ainda não ouvidas nos autos" (fl. 4).
+Postula, então, o processamento e acolhimento da presente reclamação, a fim de que o pedido seja julgado procedente para o fim de se determinar o integral cumprimento da decisão afetada,considerando-se nulas todas as provas, atos e decisões a partir da decisão que rejeitou a resposta à acusação, impedindo-se sejam utilizadas pela autoridade reclamada ou por qualquer outra autoridade (fl. 6).
+É o relatório.
+O presente pedido não comporta acolhimento.
+De início, observo que a decisão proferida por esta Corte, àqual a defesa atribui descumprimento daautoridade, limitou-se a reconhecer a nulidade do decisum que confirmou o recebimento da denúncia por falta de fundamentação, nada afirmando a respeito das comarcas que receberamreceberam compartilhamentos de provas posteriormente à anulação do processo acerca da nulidade de tais atos, desconsiderando-as (fl. 4). Ao proferir nova decisão apreciando as teses defensivas, o Juízo cumpriu a autoridade da decisão do Superior Tribunal.
+A respeito da alegação de que o Juízo tentou aproveitar atos nulos, observa-se que o Magistrado singular, ao indagar a acusação e a defesa a respeito do aproveitamento das testemunhas já inquiridas, assim o fez prezando por economia e celeridade processuais, inexistindo qualquer prejuízo em razão do ato, até porque só ocorreria com a concordância das partes.
+Ademais, em consulta à página eletrônica do Tribunal de Justiça de São Paulo, observa-se que ocorreu suficiente fundamentação a respeito da decisão que decretou a quebra do sigilo dos acusados, bem como da alegada nulidade sobre o compartilhamento das provas oficiadas para outras comarcas.
+Em face do exposto, com fulcro no art. 34, XVIII, a, do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECLAMAÇÃO. ALEGAÇÃO DE DESCUMPRIMENTO DAAUTORIDADE DA DECISÃO PROFERIDA NO RHC N. 117.980/SP. IMPROCEDÊNCIA. DECISÃO QUE ANULA A AÇÃO PENAL DESDE O DECISUM QUE CONFIRMA O RECEBIMENTO DA DENÚNCIA POR AUSÊNCIA DE FUNDAMENTAÇÃO. PROFERIMENTO DE NOVA DECISÃO SUFICIENTEMENTE FUNDAMENTADA. APROVEITAMENTO DOS ATOS PROCESSSUAIS SOMENTE COM A CONCORDÂNCIA DAS PARTES.
+Inicial indeferida liminarmente.
