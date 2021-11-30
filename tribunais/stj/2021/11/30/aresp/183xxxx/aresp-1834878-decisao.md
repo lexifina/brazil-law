@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por RITA DE CASSIA DA SILVA FERNANDES contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, o qual não admitiu recurso especial fundado na alínea "a"do permissivo constitucional paradesafia acórdão assim ementado (e-STJ fls.477/478):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. FORNECIMENTO DE ENERGIA ELÉTRICA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. VISTORIA REALIZADA PELA RÉ, QUE CULMINOU NA LAVRATURA DE TERMO DE OCORRÊNCIA DE IRREGULARIDADE (TOI), COM COBRANÇA DE VALORES A TÍTULO DE RECUPERAÇÃO DE CONSUMO DE ENERGIA ELÉTRICA. PREPOSTOS DA RÉ QUE NÃO GOZAM DE FÉ PÚBLICA. TOI QUE NÃO TEM PRESUNÇÃO DE LEGITIMIDADE. INTELIGÊNCIA DA SÚMULA 256 DESTE TJ. AUSÊNCIA DE LAUDO PERICIAL A DEMONSTRAR IRREGULARIDADE NO MEDIDOR. RESPONSABILIDADE OBJETIVA, NOS TERMOS DO CDC. CARACTERIZADA FALHA NA PRESTAÇÃO DO SERVIÇO. DÉBITO IMPOSTO AO CONSUMIDOR, QUE NÃO SE JUSTIFICA. PRÁTICA ABUSIVA. SITUAÇÃO QUE ULTRAPASSA OSMEROS ABORRECIMENTOS DIÁRIOS, SENDO NECESSÁRIO DEMANDAR EM JUÍZO, PARA EVITAR MAIORES DANOS. ASSIM, INCONTESTE A LESÃO MORAL, QUE OFENDE A DIGNIDADE DA PARTE. SENTENÇA QUE SE REFORMA, PARA CONDENAR A RÉ A PAGAR À AUTORA O VALOR DE R$ 3.000,00 (TRÊS MIL REAIS), A TÍTULO DE DANOS MORAIS, QUE ATENDE AO PRINCÍPIO DA RAZOABILIDADE, A FUNÇÃO PEDAGÓGICA DO INSTITUTO E NÃO REPRESENTA ENRIQUECIMENTO SEM CAUSA. DEVOLUÇÃO EM DOBRO DOS VALORES PAGOS E PAGAMENTO INTEGRAL DAS CUSTAS PROCESSUAIS QUE, ORA, IMPÕEM-SE À RÉ. PRECEDENTES JURISPRUDENCIAIS. PROVIMENTO DO RECURSO.
+Embargos de declaração parcialmente acolhidos (e-STJ fls. 561/564).
+No recurso especial obstaculizado, a parte apontouviolação do art. 5ºdo CPC/2015, argumentando, em suma, que o recorrido, ao deixar de dar quitação das faturas consignadas ao longo do processo, manifestou comportamento contraditório em afronta à boa fé objetiva de ordem processual(e-STJ fls. 566/576).
+Contrarrazõesàs e-STJ fls. 634/640.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+O Tribunal local, no acórdão integrativo, sanou o ponto omisso em relação à consignação dos valores referentes às faturas de consumo, para consignar que "o simples depósito dos valores efetuados pela autora, sem a anuência da ré, não se prestam à quitação dos débitos eventualmente existentes" (e-STJ fl. 563).
+Destacou, ainda, que a ré, ora agravada,"expressamente se opôs à emenda ao pedido inicial, ao contrário do alegado pela autora, que afirma que a concessionária teria se quedado silente quanto à decisão de index 00165"(e-STJ fl. 563).
+Da leitura do acórdão recorrido, observa-se que o Tribunal de origem não emitiu juízo de valor sobre o art. 5º do CPC/2015, sequer de modo implícito,tampouco o seu teor foi ventilado nos embargos de declaração opostos.
+Nessa hipótese, devem incidir os enunciados das Súmulas 211 do STJ e 282 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. FRAUDE DE TERCEIRO. 1. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. 2. SÚMULAS 282/STF E 211/STJ. 3. ART. 70, III, DO CPC/1973. DENUNCIAÇÃO DA LIDE. FALTA DE OBRIGATORIEDADE NO CASO. SÚMULAS 7 E 83/STJ. 4. FALHA NA PRESTAÇÃO DE SERVIÇOS BANCÁRIOS. CARACTERIZAÇÃO DO DANO MORAL. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 5. AGRAVO IMPROVIDO.
+1. Não ocorre violação ao art. 535 do CPC/1973 quando o julgador decide a lide, como no caso examinado, de forma fundamentada, indicando os motivos de seu convencimento, ainda que o resultado seja contrário ao esperado pela parte.
+2. Não se conhece de recurso especial se, mesmo opostos embargos de declaração, não ocorreu o prequestionamento dos preceitos legais ditos violados. Incidência das Súmulas 282 do STF e 211 do STJ.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 894.587/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/08/2016, DJe 29/08/2016)
+Não bastasse isso, o acolhimento das alegações formuladas na peça recursal para a verificação da conduta contraditória apontadademanda imperioso revolver do acervo processual, providência incompatível com a via estreita do recurso especial, de acordo da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
