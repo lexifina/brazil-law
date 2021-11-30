@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SOLY ISAAC SAYEG em face da decisão acostada às fls. 714-719 e-STJ, da lavra deste signatário, que deu parcial provimento ao recurso especial da parte adversa, a fim de julgar procedente em parte a demanda originária, reconhecendo o dever de fornecimento do medicamento somente após o registro perante a ANVISA.
+Nas razões dos aclaratórios (fls. 721-727 e-STJ), a parte embargante aduz a existência de omissão no decisum embargado quanto à necessidade de "modulação dos efeitos do Tema 990/STJ, a fim de que a ação seja julgada procedente, para garantir a cobertura integral do medicamento HARVONI, nos termos da prescrição médica, em atenção ao princípio da segurança jurídica" (fls. 727 e-STJ).
+Impugnação às fls. 731-734 e-STJ.
+É o relatório.Decide-se.
+1. Inicialmente, ressalte-se que os embargos de declaração, conforme o disposto no artigo 1.022 do CPC/15, têm fundamentação vinculada às hipóteses legalmente previstas. Destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou, ainda, corrigir erro material. Não servem, no entanto, como meio de manifestação do inconformismo da parte com a decisão prolatada.
+Citam-se, a título exemplificativo, os seguintes julgados: EDcl no AgRg no Ag 1329960/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/10/2016, DJe 19/10/2016; EDcl no REsp 1597129/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/10/2016, DJe 17/10/2016; EDcl no AgRg na PET na Rcl 22.564/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 18/08/2016.
+No caso em tela, a embargante sustenta a existência de omissão no decisum embargado "quanto à aplicação da modulação dos efeitos do Tema 990/STJ, a fim de que a ação seja julgada procedente, para garantir a cobertura integral do medicamento HARVONI, nos termos da prescrição médica, em atenção ao princípio da segurança jurídica" (fls. 727 e-STJ).
+Razão não lhe assiste.
+Como se vê, a embargante manifesta mera inconformidade com o teor da decisão, não havendo falar em omissão, pois as teses recursais constantes do recurso especial foram devidamente tratadas.
+No caso em tela, entendeu-se que a demanda originária deve ser julgada parcialmente procedente , reconhecendo-se o dever de fornecimento do medicamento buscado após o registro perante o órgão de Vigilância Sanitária.
+Em semelhante sentido à providência ora adotada, citou-se as decisões monocráticas proferida nos autos: AgInt nos EDcl no AREsp 983740/SP, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 30/11/2018; AREsp 1195125/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 14/03/2018.
+Ademais, não houve qualquer modulação de efeitos no julgamento do recurso repetitivo mencionado - nem poderia, sob pena de impor à operadora de plano a prática de saúde infração sanitária, conforme devidamente explicitado naquele julgamento.
+Portanto, tendo a decisão embargada decidido de modo claro e fundamentado, apenas contrário aos interesses da parte embargante, não há de se falar em omissão na decisão recorrida.
+Deste modo, não se vislumbra quaisquer dos vícios descritos do artigo 1.022 do CPC/15 na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, o que resta vedado na seara recursal em foco.
+2. Em que pese a rejeição dos aclaratórios, deixa-se de aplicar a multa prevista no artigo 1.026, § 2º, do CPC/15, pois, em se tratando da primeira oposição, não sobressai o caráter protelatório do recurso.
+No entanto, desde já, adverte-se que a reiteração dos embargos de declaração com o intuito de rediscutir o julgado poderá resultar na qualificação como protelatório, ensejando a aplicação da correspondente penalidade.
+3. Do exposto, rejeitam-se os embargos de declaração.
+Publique-se.Intimem-se.
