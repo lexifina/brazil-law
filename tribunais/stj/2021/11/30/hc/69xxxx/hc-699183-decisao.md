@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 13):
+Habeas corpus - Cometimento de novo crime durante cumprimento de pena - Inconformismo ante determinação de regressão para regime prisional mais gravoso pelo Juízo da Execução - Via inadequada para análise do pedido.
+Em sede de habeas corpus é inviável reexaminar decisão que determinou a regressão do reeducando no respectivo regime prisional. A matéria deve ser apreciada em grau de recurso pelo próprio Tribunal de Justiça, mas em sede de Agravo em Execução.
+Consta dos autos que o Juízo das Execuções, ao analisar notícia de novo delito praticado pelo apenado, o qual se encontrava em livramento condicional, suspendeu o cumprimento da pena no regime aberto e determinou a regressão para o regime fechado.
+Irresignada, a defesa impetrou habeas corpus, tendo o Tribunal de origem indeferido liminarmente o writ, ante a existência de recurso próprio.
+Alega o impetrante que "a r. decisão de fls. 50 de primeiro grau, possui contornos de maior gravidade, pois não estabeleceu justificativa para a efetiva imprescindibilidade da transferência do paciente ao regime fechado indefinidamente".
+Salienta que "a regressão para o regime inicial mais gravoso e a conversão da pena restritiva de direitos em privativa de liberdade caracterizou bis in idem, evidenciando-se a coação ilegal ao direito de liberdade individual do paciente".
+Requer liminarmente e no mérito, "seja fixado o regime aberto ao paciente ou subsidiariamente a prisão domiciliar".
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela prejudicialidade do writ.
+O acórdão impugnado assim dispôs (fls. 14-15):
+Indefere-se liminarmente o presente writ, nos termos do art. 663 do Código de Processo Penal e do art. 248 do Regimento Interno do Tribunal de Justiça de São Paulo.
+A via eleita não se presta a funcionar como substitutivo do agravo em execução, recurso cabível para o reexame da matéria ora ventilada.
+Inviável, no restrito âmbito do writ, o enfrentamento do tema levantado na impetração.
+Ao sentenciado competia manifestar seu inconformismo pela via recursal adequada, que é o agravo em execução.
+Nas hipóteses em que tenha havido interposição dentro do prazo legal, deve o reeducando simplesmente aguardar a decisão do Tribunal; naquelas situações nas quais, todavia, simplesmente deixou que mencionado prazo transcorresse in albis, nada mais há para ser feito, estando a questão preclusa.
+Não se concebe, de qualquer modo, a alegação da i. Defesa no sentido de que a r. decisão recorrida seria deficiente em sua fundamentação.
+O Magistrado a quo fundamentou e bem apreciou os elementos carreados ao feito que estava sendo processado por outro crime, cometido, durante o período de prova, tendo asseverado que sua convicção no sentido da sustação cautelar do regime aberto, determinando-se a transferência do paciente para o regime fechado, sob a seguinte e adequada fundamentação (fls. 50 dos autos principais):
+Haja vista que, conforme documento retro, o (a) sentenciado (a) está sendo processado (a) por outro crime, cometido, durante o período de prova e está preso (a), SUSTO o cumprimento da pena no regime aberto, com data retroativa à da nova prisão. Atualize-se o histórico de partes, emitindo-se a ficha do réu, para apuração da pena restante. Tratando-se de incidente de regressão, com sustação do regime, a natureza da prisão é, em verdade, provisória, semelhante à prisão preventiva, devendo ser cumprida, neste momento, no regime fechado.
+Ante o exposto, indefere-se liminarmente o habeas corpus, nos termos do art. 663 do Código de Processo Penal e do art. 248 do Regimento Interno do Tribunal de Justiça de São Paulo.
+In casu, o paciente cumpria pena em regime aberto, encontrando-se em período de prova, quando cometeu novo delito em 29/7/2020, razão pela qual houve a sustação do regime aberto, bem como a regressão cautelar ao regime fechado, inexistindo qualquer ilegalidade conforme a jurisprudência desta Corte. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. REGRESSÃO PER SALTUM DE REGIME PRISIONAL. POSSIBILIDADE.
+O art. 118, inciso I, da Lei de Execução Penal, estabelece que o apenado ficará sujeito à transferência para qualquer dos regimes mais gravosos quando praticar fato definido como crime doloso ou falta grave, não havendo que se observar a forma progressiva estabelecida no art. 112 do normativo em referência.
+Agravo regimental desprovido. (AgRg no REsp 1575529/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2016, DJe 17/06/2016)
+"HABEAS CORPUS". EXECUÇÃO DA PENA. FALTA GRAVE. REGRESSÃO DE REGIME. PASSAGEM DO REGIME ABERTO PARA O REGIME FECHADO. SUPOSTA ILEGALIDADE NA REGRESSÃO "PER SALTUM". FUNDAMENTAÇÃO SUFICIENTE.
+1. Os Tribunais Superiores restringiram o uso do "habeas corpus" e não mais o admitem como substitutivo de recursos, e nem sequer para as revisões criminais.
+2. A execução da pena se submete à forma regressiva. Por isso, o condenado pode ser transferido para qualquer dos regimes previstos no art. 33, do Código Penal, dependendo de avaliação do Juízo das Execuções ou do Tribunal das circunstâncias e peculiaridades do caso concreto para decidir o regime adequado.
+3. "Habeas corpus" não conhecido. (HC 273.726/MG, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 25/03/2014, DJe 31/03/2014.)
+HABEAS CORPUS. EXECUÇÃO PENAL. PACIENTE CONDENADO POR CRIMES DE ROUBO E TRÁFICO ILÍCITO DE DROGAS. PROGRESSÃO AO REGIME SEMIABERTO. PRÁTICA DE NOVOS DELITOS (TRÁFICO DE DROGAS, ASSOCIAÇÃO AO TRÁFICO E FORNECIMENTO DE ARMA DE FOGO, DE NUMERAÇÃO RASPADA). REGRESSÃO PARA O REGIME FECHADO. POSSIBILIDADE. TRÂNSITO EM JULGADO DE SENTENÇA PENAL CONDENATÓRIA. DESNECESSIDADE. ORDEM DE HABEAS CORPUS DENEGADA.
+1. Nos termos do art. 118 da Lei de Execução Penal, a transferência do condenado, a título de regressão, pode ocorrer para qualquer dos regimes mais rigorosos. Precedentes.
+2. Na hipótese, enquanto cumpria pena no regime semiaberto, o Paciente foi indiciado pelo cometimento de novos crimes (tráfico de drogas, associação ao tráfico e fornecimento de arma de fogo, de numeração raspada). Após ouvido pelo Juízo das Execuções, foi corretamente decretada a sua regressão do regime semiaberto ao fechado, alterada a data-base para o dia 25/02/2011 e decretada a perda de 1/3 dos dias remidos, não se constatando, pois, o apontado constrangimento ilegal.
+3. Basta o cometimento de fato definido como crime doloso para o reconhecimento da falta grave, sendo prescindível o trânsito em julgado da condenação para a aplicação das sanções disciplinares. Precedentes.4. Ordem de habeas corpus denegada. (HC 267.886/RS, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe 26/08/2013.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REGRESSÃO PER SALTUM DE REGIME PRISIONAL. COMETIMENTO DE NOVO DELITO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE.
+1. A execução da pena sujeita-se à forma regressiva, podendo o condenado ser transferido para qualquer dos regimes previstos no art. 33 do Código Penal, consoante a redação do art. 118 da Lei de Execução Penal. Assim, não é necessária a observância da forma progressiva descrita no art. 112 da Lei n.º 7.210/1984, competindo ao julgador analisar as circunstâncias do caso e decidir o regime adequado à espécie.
+2. Agravo regimental a que se nega provimento. (AgRg no REsp 1281950/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 17/09/2013, DJe 25/09/2013.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
