@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DEFAZER.
+I. Manutenção da autora como beneficiária do plano de saúde administrado pela ré nas mesmas condições que usufruía antes da rescisão do contrato de trabalho. Reconhecimento do direito. Irresignação da ré. Afastamento.
+II. Cumprimento da hipótese do artigo 31 da Lei nº 9.656/98. Manifestação da vontade da autora, por escrito, que não pode ser adequadamente balizada como renúncia ao direito à preservação do vínculo securitário, dado o acervo probatório produzido. Configurada a ambiguidade de informações, ademais, impõe-se interpretação favorável ao aderente ao contrato. Inteligência do artigo 423 do Código Civil e do artigo 47 do Código de Defesa do Consumidor. Magistério doutrinário. Direito à preservação do vínculo securitário bem declarado.
+III. Imposição, à segurada, de plano voltado aos funcionários inativos da ex-empregadora. Inadmissibilidade. Dualidade de planos não admitida pela lei. Aplicação do Enunciado nº 36 desta Câmara. Afronta à disposição legal por normas de caráter administrativo, como a RN nº 279/11da ANS. Julgado do Colendo Superior Tribunal de Justiça. Precedentes desta Câmara.
+IV. Novo plano de saúde constituído pela ex-empregadora. Circunstância superveniente que não altera a convicção da abusividade da conduta ou tampouco enseja a perda do objeto da demanda. Contrato celebrado em novembro/2019 junto à mesma operadora, que, tal como o anterior, também realiza a segregação indevida dos colaboradores inativos. Interesse processual que remanesce. Edito condenatório que remanesce hígido.
+SENTENÇA PRESERVADA. APELO DESPROVIDO.
+Alegou-se, no especial, violação dos artigos 1.022 e 489 do Código de Processo Civil sob o argumento de que, "apesar de provocado, o acórdão recorrido deixou de apreciar e valorar pontos essenciais ao julgamento da lide" (e-STJ, fl. 582).
+Assim delimitada a controvérsia, passo a decidir.
+A agravante afirma que "foi clara ao demonstrar que não prospera a argumentação de que a Recorrida não foi adequadamente esclarecida e orientada pela Recorrente ao assinar o documento onde informou a intenção de não permanecer vinculada ao plano de saúde.
+15.Isso porque, ao contrário do entendimento esposado, o documento de fls. 301, assinado pela Recorrida, é em verdade uma declaração de que a beneficiário havia recebido todas as informações referentes à opção de manutenção do plano de assistência médica" (e-STJ, fl. 583).
+O Tribunal local, todavia, concluiu "que a manifestação de vontade da apelada, por escrito, no documento de fl. 301, não pode ser adequadamente balizada como renúncia ao direito à preservação do vínculo securitário.
+Embora tenha ratificado ter lançado sua assinatura no formulário confrontado (fl. 383), é notório o equívoco quanto ao desígnio indicado, dado que, na mesma data, obteve declaração da instituição, revelando o reconhecimento expresso pela instituição de que a apelada, como colaboradora, desejava manter o benefício securitário pleiteado (fl. 22)" (e-STJ, fl. 570).
+Não há, como se vê, omissão alguma no acórdão local, senão julgamento contrário ao interesse da parte, dado que examinou detidamente o documento de fl. 301, como indicado pela agravante, porém em conjunto com outros elementos de prova.
+O que pretende a parte, portanto, é que a prova seja interpretada da maneira que melhor atenda a seus interesses subjetivos, o que não se confunde com omissão passível de correção pela via dos embargos de declaração, que se presta apenas ao saneamento dos vícios constantes em sua norma de regência.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
