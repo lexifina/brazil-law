@@ -1,0 +1,113 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em face acórdão assim ementado:
+
+    “DIREITO TRIBUTÁRIO - EMBARGOS À EXECUÇÃO FISCAL - IPVA - VEÍCULO OBJETO DE ALIENAÇÃO FIDUCIÁRIA - SUSPENSÃO DO PROCESSO - RECURSO EXTRAORDINÁRIO Nº 727.851-MG - INOCORRÊNCIA - LEI ESTADUAL Nº 14.937/2003 - SUJEIÇÃO PASSIVA - PROPRIETÁRIO DO VEÍCULO AUTOMOTOR - CABIMENTO DA EXAÇÃO CONTRA O CREDOR FIDUCIANTE - INCONSTITUCIONALIDADE DA LEI ESTADUAL - INEXISTÊNCIA - PRESUNÇÃO DE CERTEZA E LIQUIDEZ DA CERTIDÃO DE DÍVIDA ATIVA NÃO ELIDIDA POR PROVA INEQUÍVOCA - NULIDADE DA INSCRIÇÃO E DO PROCESSO EXECUTIVO INOCORRÊNCIA - MULTA - LEGALIDADE - EMBARGOS JULGADOS IMPROCEDENTES - SENTENÇA MANTIDA.
+
+    1. Não há previsão legal nem determinação de suspensão do processo em razão do reconhecimento da Repercussão Geral no Recurso Extraordinário nº 727.851-MG.
+
+    2. O artigo 4º da Lei Estadual nº 14.937/2003 dispõe que o ‘contribuinte do IPVA é o proprietário de veículo automotor’, respondendo solidariamente com ele, pelo pagamento do tributo e dos acréscimos legais devidos, o devedor fiduciante, em relação a veículo objeto de alienação fiduciária, ex vi do artigo 5º, inciso I, do mencionado diploma legal.
+
+    3. A Instituição Financeira, como credora fiduciária, detém a propriedade do veículo automotor, razão pela qual tem legitimidade passiva ad causam, o que só por si confere validade à norma estadual que estabelece tal condição.
+
+    4. A multa em 50% (cinquenta por cento) sobre o imposto devido, pela falta de pagamento do tributo (IPVA), configura penalidade legalmente prevista no artigo 12, § 1º, da Lei Estadual nº 14.937/2003.
+
+    5. A dívida regularmente inscrita goza de presunção de certeza e liquidez, somente elidida por prova inequívoca, a cargo do sujeito passivo ou de terceiro a que aproveite, ex vi dos artigos 204 e parágrafo único do Código Tributário Nacional, e 3º e parágrafo único da Lei nº 6.830/1980. Com efeito, não sendo demonstrados quaisquer vícios na inscrição do débito, presume-se certo, líquido e exigível o título executivo que exsurge da Certidão de Dívida Ativa” (pág. 1 do documento eletrônico 5).
+
+    Os embargos de declaração em seguida opostos foram rejeitados (documento eletrônico 7).
+
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 102; 146, III, a e b; 155, III; e 156, II, da mesma Carta.
+
+    A pretensão recursal não merece acolhida.
+
+    Isso porque o recorrente, apesar de afirmar a existência de repercussão geral no recurso extraordinário, não demonstrou as razões pelas quais entende que a questão constitucional aqui versada seria relevante, sob o ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos do processo. Na verdade, cingiu-se a desenvolver considerações genéricas sobre a repercussão geral, sem particularizar a matéria em exame nestes autos.
+
+    Desse modo, a mera alegação de existência do requisito, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC/2015, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPROBIDADE. ADMINISTRATIVO. AUSÊNCIA DE PRELIMINAR FUNDAMENTADA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL. EXIGÊNCIA DE DEMONSTRAÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 279/STF.
+
+    1. A parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. A peça de recurso, portanto, não atende ao disposto no art. 543-A, § 2º, do CPC. Precedente.
+
+    2. A solução da controvérsia demanda a análise da legislação infraconstitucional pertinente e uma nova reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável nesta fase recursal.
+
+    3. Agravo regimental a que se nega provimento” (AI 814.690-AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma).
+
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DEMONSTRAÇÃO DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+
+    I - A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2°, do CPC/1973, introduzido pela Lei 11.418/2006.
+
+    II - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC)” (AI 868.001-AgR/RS, da minha relatoria, Segunda Turma).
+
+    É certo, ainda, que a demonstração fundamentada da existência de repercussão geral das questões constitucionais discutidas também é indispensável nas hipóteses de repercussão geral presumida ou já reconhecida pelo Supremo Tribunal Federal em outro recurso. Com esse entendimento, indico julgados de ambas as Turmas desta Corte, cujas ementas seguem transcritas:
+
+    “DIREITO ADMINISTRATIVO. IPC DE MARÇO DE 1990. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. DEFICIÊNCIA DE FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 543-A, § 2º, DO CPC. REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+
+    1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+
+    2. Deficiência da fundamentação da preliminar de repercussão geral no recurso extraordinário, interposto sob a égide do Código de Processo Civil de 1973. Inobservância do art. 543-A, § 2º, do CPC/1973, c/c art. 327, § 1º, do RISTF.
+
+    3. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no artigo 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+
+    4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa” (RE 1.019.159-AgR/PE, Rel. Min. Rosa Weber, Primeira Turma – grifei).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 13.4.2018. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA.
+
+    1. Nos termos da orientação firmada nesta Corte, cabe ao recorrente demonstrar de maneira formal e fundamentada a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, o que não ocorreu no caso em exame. Mesmo em caso de repercussão geral presumida ou reconhecida em outro recurso, é ônus do recorrente a demonstração da existência desse requisito.
+
+    2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC (ARE 1.102.846-AgR/SC, Rel. Min. Edson Fachin, Segunda Turma – grifei).
+
+    Ademais, para dissentir da conclusão adotada pelo Tribunal de origem e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos e da legislação local aplicável à espécie (Lei Estadual 14.937/2003), o que é vedado pelas Súmulas 279 e 280/STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, destaco julgados desta Corte cujas ementas transcrevo a seguir:
+
+    “DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. CERTIDÃO DE DÍVIDA ATIVA (CDA). IPVA. RESPONSABILIDADE TRIBUTÁRIA. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. LEI Nº 14.937/2003 DO ESTADO DE MINAS GERAIS. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. RECURSO MANEJADO EM 16.02.2016.
+
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+
+    3. Agravo regimental conhecido e não provido” (ARE 936.170-AgR, Rel. Min. Rosa Weber, Primeira Turma).
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Imposto sobre Propriedade de Veículos Automotores (IPVA). 4. Responsabilidade solidária. Alienação fiduciária. 5. Lei estadual 14.937/03. 6. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. 7. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. Precedentes. 8. Ausência de argumentos capazes de infirmar a decisão agravada. 9. Agravo regimental a que se nega provimento” (ARE 935.555-AgR, Rel. Min. Gilmar Mendes, Segunda Turma).
+
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IPVA. ALIENAÇÃO FIDUCIÁRIA. SOLIDARIEDADE PASSIVA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULAS 279/STF E 280/STF.
+
+    1. O Tema 685 da sistemática da repercussão geral, cujo processo paradigma é o RE-RG 727.851, Rel. Min. Marco Aurélio, não se aplica ao caso, uma vez que a controvérsia discutida no paradigma é sobre ‘a extensão da imunidade tributária recíproca ao IPVA de veículos adquiridos por município no regime de alienação fiduciária’, situação diversa da retratada nos presentes autos.
+
+    2. O Tribunal de origem solucionou a controvérsia com fundamento na legislação infraconstitucional e no conjunto fático e probatório, o que não enseja a abertura da via extraordinária. Incidência das Súmulas 279 e 280/STF. Precedentes.
+
+    3. A análise do recurso extraordinário pelo art. 102, III, d, da Constituição Federal depende de demonstração de conflito de competência legislativa entre entes federados, sendo incabível quando há pretensão de revisão da interpretação conferida a norma infraconstitucional.
+
+    4. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+
+    5. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015”(ARE 890.094-AgR/MG, Rel. Min. Roberto Barroso, Primeira Turma).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IPVA. RESPONSABILIDADE POR DÉBITOS FISCAIS. ESTADO DE MINAS GERAIS. LEI ESTADUAL 14.937/2003. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. DESPROVIMENTO.
+
+    1. É inviável o processamento do apelo extremo quando a análise implica rever a interpretação de legislação infraconstitucional de índole local, bem como reexaminar o acervo fático-jurídico subjacente aos autos.
+
+    2. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC” (ARE 1.199.732-AgR/MG, Rel. Min. Edson Fachin, Segunda Turma).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULOS AUTOMOTORES – IPVA. LEGITIMIDADE PASSIVA. LEI ESTADUAL N. 14.937/2003. IMPOSSIBILIDADE DE ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL.CONTRARRAZÕES APRESENTADAS. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL O QUAL SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DO ART. 85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 976.120-AgR/MG, Rel. Min. Cármen Lúcia, Segunda Turma).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. EXAME DE DIREITO LOCAL. INVIABILIDADE. SÚMULA 280/STF.
+
+    1. Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+
+    2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo.
+
+    3. A solução da controvérsia depende da análise da legislação local, o que é incabível em sede de recurso extraordinário, conforme consubstanciado na Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário).
+
+    4. Cabe a majoração de honorários advocatícios na forma do § 11 do art. 85 do Código de Processo Civil de 2015, pois a decisão agravada foi publicada a partir de 18/3/2016, e houve estipulação de honorários nas instâncias precedentes.
+
+    5. Agravo interno a que se nega provimento. Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (CPC/2015, art. 85, § 11)” (ARE 1.047.076-AgR/MG, Rel. Min. Alexandre de Moraes, Primeira Turma).
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – OFENSA INDIRETA À CONSTITUIÇÃO – DIREITO LOCAL – SÚMULA 280/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM – AGRAVO INTERNO IMPROVIDO” (ARE 1.111.805-AgR/MG, Rel. Min. Celso de Mello, Segunda Turma).
+
+    Por fim, é relevante pontuar que o Tema 685 da Repercussão Geral (RE 727.851-RG/MG, de relatoria do Ministro Marco Aurélio) discutiu a extensão da imunidade tributária recíproca ao IPVA de veículos adquiridos por município no regime de alienação fiduciária, situação diversa da debatida nestes autos, referente à responsabilidade solidária do devedor fiduciante e do credor fiduciário pelo pagamento do IPVA, nos termos do art. 5º da Lei 14.937/2003, do Estado de Minas Gerais.
+
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+
+    Publique-se.
+
+    Brasília, 30 de novembro de 2021.
+
+      Ministro Ricardo Lewandowski
+
+Relator
