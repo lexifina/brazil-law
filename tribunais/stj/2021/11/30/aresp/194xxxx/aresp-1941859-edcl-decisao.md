@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 343/347) apresentados contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. ALEGADA VIOLAÇÃO AO PRINCÍPIO DA MENOR ONEROSIDADE. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+A embargante aduz, em síntese, que:
+Na decisão da qual se recorre, observa-se uma clara omissão, uma vez que é alegado o óbice de análise do recurso com fundamento na súmula 7/STJ, todavia, não se analisou o fundamento de revaloração da prova, análise equivocada do precedente do STJ pelo juízo de piso, bem como dissídio jurisprudencial demonstrado em diversos tribunais estaduais.
+Requer sejam acolhidos os embargos.
+Intimado para eventual manifestação, o embargado pugnou pela rejeição dos embargos.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A decisão embargada não se ressente do vício arguido.
+Relativamente ao ponto abordado pela embargante, o decisum em foco registrou o seguinte:
+O Tribunal de origem decidiu que:
+Nesse sentir, vejo que a empresa devedora/agravante ao evento119 do processo relacionado, atravessou uma petição, onde ofereceu em complementação a penhora que já estava efetivada, o imóvel de propriedade de um terceiro, (Concre-Norte Indústria e Comércio Ltda, CNPJ 04.692.327/0001-22) -(Evento 119, OUT3 do proc. rel) - denominado de "Fazenda Piedade, gleba 07, Matrícula 12.944 de 390.17.90 (trezentos e noventa hectares, dezessete ares e noventa centiares),registrada no livro nº 2, do Ofício de Registro de Imóveis da Comarca de Brumadinho-MG" - (Evento 119, OUT4 do proc. rel.) - com o objetivo de garantir o juízo, e assim ter a possibilidade de ajuizar os seus regulares embargos à execução fiscal. (..) Assim, reitero ser legítima a recusa de complementação à penhora já realizada por imóveis pertencentes a terceiros, sobre os quais recaiam diversos outros bloqueios, ou seja, exatamente a situação aqui em epígrafe, já que denominada de "Fazenda Piedade", de propriedade da empresa Concre-Norte Indústria e Comércio Ltda, CNPJ 04.692.327/0001-22, esta como forma de garantia em inúmeras ações trabalhistas, conforme teor da certidão de registro de imóveis que esta anexada ao evento 119,OUT2 do processo originário".
+ ..
+Importante também mencionar que a Magistrada singular dispôs em seu decisum que "apesar de valioso e referendado por avaliação de oficial de justiça, pois a execução rege-se em primeiro lugar na obediência do princípio que a execução existe e se processa no interesse do credor para satisfazer em menor tempo possível o seu direito de crédito e se o bem é de terceiros fica difícil avaliar a extensão do patrimônio disponível deste terceiro e bem como se sobrará valores e não demandará tempo excessivo após o pagamento de débitos trabalhistas que venha recompor o patrimônio do exequente". Destarte os novos bens dado como garantia do juízo, (evento 130), devem ser analisados diretamente pelo juízo a quo, sob pena aqui de indevida supressão de instância".
+ ..
+Destarte, reitero ser legítima a recusa, pela Fazenda Pública, de bem nomeado à penhora, de terceiros, e em desacordo com a ordem legal prevista no art. 11 da Lei º 6.830/80 e no art. 835 do CPC, cabendo à parte executada o ônus de apresentar elementos concretos que justifiquem o afastamento dessa gradação legal, para o que não basta a mera invocação do princípio da menor onerosidade.
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos
+interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015. Ademais, não se pode confundir falta de motivação com fundamentação contrária aos interesses da parte, motivo pelo qual não resta caracterizada ofensa ao art. 489 do CPC/2015.
+ ..
+No mérito, utilizando-me do trecho acima transcrito, o recorrente sustenta que a diligência judicial aplicada pela instância originária viola o princípio da menor onerosidade, todavia avaliar se a medida constritiva em foco terá o condão de comprometer o funcionamento da empresa executada, ensejando suposta violação ao citado princípio da menor onerosidade ao devedor, requer o revolvimento da matéria de fato, providência interditada na via do recurso especial em razão do óbice contido na Súmula 7/STJ.
+ ..
+Cumpre esclarecer que o óbice aplicado impede o conhecimento do recurso por quaisquer das alíneas do permissivo constitucional.
+Como se constata, a decisão embargada contém fundamentação suficiente para demonstrar que não houve violação aos arts. 489 e 1.022 do CPC/2015; bem como, o recorrente sustenta que a diligência judicial aplicada pela instância originária viola o princípio da menor onerosidade, todavia avaliar se a medida constritiva em foco terá o condão de comprometer o funcionamento da empresa executada, ensejando suposta violação ao citado princípio da menor onerosidade ao devedor, requer o revolvimento da matéria de fato, providência interditada na via do recurso especial em razão do óbice contido na Súmula 7/STJ; e, por fim, cumpre esclarecer que o óbice aplicado impede o conhecimento do recurso por quaisquer das alíneas do permissivo constitucional.
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Nesse sentido, o entendimento firmado sob a égide do CPC/1973, mas inteiramente aplicável ao caso em comento: EDcl no AgRg no Ag 538.371/PR, 3ª Turma, Rel. Min. Nancy Andrighi, DJ de 24.5.2004; EDcl no AgRg no REsp 550.972/PR, 1ª Turma, Rel. Min. Luiz Fux, DJ de 24.5.2004.
+Com efeito, a embargante objetiva apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração. Registre-se que os aclaratórios não se prestam a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso.
+Sobre o tema, os seguintes precedentes desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INEXISTÊNCIA.
+1. "A contradição que dá ensejo aos embargos de declaração é a interna, ou seja, aquela que se verifica entre as premissas ou entre estas e a conclusão do julgado embargado" (EDcl nos EDcl no AgRg nos EDcl no REsp n. 790.903/RJ).
+2. Agravo regimental desprovido.
+(EDcl no AREsp 22.011/GO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/04/2015, DJe 23/04/2015)
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. INEXISTÊNCIA DE VÍCIOS NO JULGADO.
+1. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada a controvérsia.
+2. O embargante, inconformado, busca com a oposição destes embargos declaratórios ver reapreciada e decidida a controvérsia de acordo com sua tese. Todavia, não é possível dar efeitos infringentes aos aclaratórios sem a demonstração de eventual vício ou teratologia. Embargos de declaração rejeitados.
+3. Não prosperam os aclaratórios quanto ao pretendido prequestionamento de dispositivos constitucionais, pois não cabe ao Superior Tribunal de Justiça examinar na via especial, a título de prequestionamento, eventual violação de dispositivo constitucional, por ser tarefa reservada pela Constituição da República ao Supremo Tribunal Federal.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 557.772/MG, 2ª Turma, Rel. Ministro Humberto Martins, DJe 03/02/2015)
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CABIMENTO: OCORRÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA DE VÍCIO NA DECISÃO EMBARGADA. EMBARGOS REJEITADOS.
