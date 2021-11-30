@@ -1,0 +1,39 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Extraordinário interposto na Apelação Cível no 1013011-63.2018.8.11.0003
+RECORRENTE: ADEMILSON WERMER MARTINS
+RECORRIDO: RUMO MALHA NORTE S.A
+Vistos.
+Trata-se de recurso extraordinário interposto por ADEMILSO WERMER MARTINS com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado, assim ementado (id 100131476):
+RECURSO DE APELAÇÃO CÍVEL – AÇÃO COMINATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS – PROCEDÊNCIA – PRETENDIDA LIBERAÇÃO PARA DESCARREGAMENTO DE CARGAS NO TERMINAL DA EMPRESA RECORRENTE - DISCUSSÃO E AGRESSÃO ENTRE O AUTOR/MOTORISTA E SEGURANÇAS DA EMPRESA REQUERIDA - BLOQUEIO DOS DADOS DO AUTOR NO SISTEMA DA REQUERIDA - EXERCICIO REGULAR DE DIREITO – AUSÊNCIA DE ATO ILICITO - DANOS MORAIS NÃO CONFIGURADOS – SENTENÇA REFORMADA - RECURSO PROVIDO. Se a empresa apelante restringe a entrada do autor/apelado em suas dependências em razão da agressão física perpetrada contra aos seguranças da recorrente, esta age em exercício regular do direito, pois visa coibir que tal atitude não mais ocorra, bem como para garantir a tranquilidade do terminal, tratando-se de medida de segurança que não ofende os direitos de personalidade do apelado. Logo, resta afastada a ilicitude do fato, nos termos do art. 188, inc. I, do CC, bem como a pretensão de indenização por danos morais.-
+(TJ-MT 10130116320188110003 MT, Relator: MARILSEN ANDRADE ADDARIO, Data de Julgamento: 22/09/2021, Segunda Câmara de Direito Privado, Data de Publicação: 29/09/2021)
+O presente recurso foi interposto contra o acórdão proferido em sede de Apelação, interposta por Rumo Malha Norte S.A, que deu provimento ao recurso para reformar a sentença e julgar improcedentes os pedidos iniciais, bem como para inverter o ônus de sucumbência, observada a gratuidade de justiça.
+A parte recorrente alega a violação ao artigo 5o, incisos LIV e LV da Constituição Federal, ao argumento de que “(...) a decisão recorrida afronta o Direito ao Devido Processo Legal, pois teve por justo o ato arbitrário e abusivo praticado pelo recorrido quando do bloqueio dos dados pessoais do recorrente, sem que aquele, na condição de concessionária do serviço público e exploradora exclusiva das estações ferroviárias, observasse o Direito Fundamental do contraditório e da Ampla Defesa (...)”.
+Aponta a contrariedade ao artigo 5o inciso LVII da Constituição Federal, ao fundamento de que o aresto recorrido violou o princípio da presunção de inocência “(...) ao legitimar a conduta arbitraria e abusiva de bloqueio/restrição dos dados do recorrente, através de uma deforme fundamentação baseada no reconhecimento do exercício regular do Direito, sem que lhe fosse garantido o devido processo legal (...).”
+Recurso tempestivo (id 107555457).
+A parte recorrente é beneficiária da justiça gratuita (id 107546476).
+Contrarrazões apresentadas (id 110851986).
+É o relatório.
+Decido.
+Da sistemática de repercussão geral (Tema 660)
+A parte recorrente sustenta a existência de ofensa ao artigo 5o, incisos LIV e LV da Constituição Federal (violação aos princípios do devido processo legal e da ampla defesa) ao argumento de que “(...) no caso que deu origem ao presente, a recorrida bloqueia os dados pessoais do recorrente, sem der-lhe a possibilidade de se defender e esclarecer os fatos que motivaram o dito bloqueio. (...)”.
+No julgamento do recurso Leading Case ARE 748371 RG/MT (Tema 660) o Supremo Tribunal Federal reconheceu a inexistência de repercussão geral da matéria, como se verifica da seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral. (ARE 748371 RG, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+Ante o exposto, nos termos do art. 1.030, I, “a”, do CPC, diante do reconhecimento da inexistência de repercussão geral da matéria pelo Supremo Tribunal Federal, firmado no paradigma ARE 748371 RG/MT (Tema 660), impõe-se a negativa de seguimento ao Recurso Extraordinário pela sistemática de precedentes.
+Feitas essas considerações, passo à análise dos demais pressupostos de admissibilidade.
+Da ausência de prequestionamento (Súmulas 282 e 356 do STF)
+Como é cediço, a fim de evitar a supressão de Instância, o artigo 105, inciso III, da Constituição Federal estabelece que o reexame pelo Superior Tribunal de Justiça da questão suscitada em sede de Recurso Especial é cabível quando tenha sido decidida em única ou última Instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, conforme estabelece a Súmula 282/STF, ao dispor que “é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”.
+Com efeito, a Súmula 356/STF estabelece que “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+Desse modo, se houver omissão no julgado, para que a matéria seja considerada prequestionada, devem ser opostos Embargos de Declaração com a indicação precisa o ponto supostamente omisso.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 356/STF. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. DISCUSSÃO DE ÂMBITO INFRACONSTITUCIONAL. VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DOS LIMITES DA COISA JULGADA E DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). FALTA DE FUNDAMENTAÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL (TEMA 339). SUBSISTÊNCIA DA DECISÃO AGRAVADA. AGRAVO A QUE SE NEGA PROVIMENTO. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - É inviável o recurso extraordinário cuja questão constitucional nele arguida não tiver sido prequestionada. Incidência das Súmulas 282/STF e 356/STF. III – (...).IV - O Supremo Tribunal Federal já definiu que a violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando implicarem em exame de legislação infraconstitucional, é matéria sem repercussão geral (Tema 660 - ARE 748.371 RG). V - No julgamento do AI 791.292-QO-RG/PE (Tema 339), relatado pelo Ministro Gilmar Mendes, reconheceu-se a repercussão geral e reafirmou-se a orientação no sentido de que a exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique, de forma clara, as razões de seu convencimento. VI - Agravo regimental a que senegaprovimento.(ARE 1257200 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 27/03/2020, PROCESSO ELETRÔNICO DJe-117 DIVULG 11-05-2020 PUBLIC 12-05-2020).
+In casu, a partir da suposta ofensa ao artigo 5o inciso LVII da Constituição Federal, a parte recorrente alega que o aresto recorrido violou o princípio da presunção de inocência.
+Contudo, verifica-se que a questão não foi abordada no aresto ora impugnado, tampouco foram opostos embargos de declaração para prequestionar a matéria, o que obsta a admissão do recurso neste ponto.
+Ante o exposto, nego seguimento ao recurso, com fundamento no art. 1.030, I, “a” (sistemática de precedentes qualificados – Tema 660), e inciso V do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
