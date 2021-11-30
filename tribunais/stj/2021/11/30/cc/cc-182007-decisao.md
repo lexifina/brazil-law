@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, em que é suscitante TRANSPORTADORA TINGUÁ LTDA - EM RECUPERAÇÃO JUDICIAL e suscitados o JUÍZO GESTOR DO CAEX - TRT 1ª REGIÃO e o JUÍZO DA 7ª VARA CÍVEL DA COMARCA DE NOVA IGUAÇU - RJ.
+Ação em trâmite perante o juízo cível: recuperação judicial da suscitante.
+Ação em trâmite perante o juízo trabalhista: regime especial de execução forçada, instaurado em face da suscitante.
+Conflito de competência: insurge-se, em síntese, contra a ordem de execução da garantia ofertada em Plano Especial de Pagamento Trabalhista. Afirma que o único juízo competente para a prática de atos de constrição sobre seu patrimônio é o da recuperação judicial.
+Tutela antecipada:indeferida às fls. 126/127, e-STJ.
+Informações prestadas pelo Juízo Trabalhista: salientou que "como a ordem para liquidação da fiança oferecida espontaneamente pelos autores quando do requerimento do Plano ocorreuapós o requerimento da Recuperação Judicial e mesmo depois de sua decretação, entendi que o crédito seria extraconcursal".
+Informações prestadas pelo Juízo Cível: entendeu não haver conflito de competência, uma vez que não está previsto no plano de recuperação o pagamento das obrigações trabalhistas e que a fiança bancária em execução na Justiça Trabalhista é garantia processual em feitos exclusivos da Justiça Trabalhista.
+Parecer do MPF: manifestou-se pelo não conhecimento do conflito.
+RELATADO O PROCESSO, DECIDE-SE.
+Conforme entendimento da Segunda Seção do STJ, em hipóteses envolvendo execuções contra empresas em recuperação judicial, a caracterização do conflito de competência ocorre quando houver decisões conflitantes proferidas pelos juízos apontados como suscitados (AgInt no CC 170.346/GO, DJe 25/8/2020).
+Com efeito, conforme já declinado na decisão liminar, a análise dos documentos trazidos pela suscitante não revela a existência de ato constritivo sobre o patrimônio da empresa recuperanda por parte do Juízo Laboral, uma vez queque a carta de fiança indicada na inicial não está abrangida pelo plano de recuperação judicial da suscitante, consoante assinalado nas decisões de fls. 114 e 119/120 (e-STJ).
+Em suas informações, o Juízo da Recuperação Judicial bem delineou a questão:
+Enfim, este juízo NÃO revogará nem tornará sem efeito as constrições que forem determinadas pela Justiça do Trabalho, salvo se a garantia das mesmas com ativos da recuperanda e/ou o pagamento das dívidas estiverem previstos expressa e detalhadamente no Plano de Recuperação Judicial.
+Sobre carta de fiança mencionada nesta decisão, entende este juízo que não lhe cabe conhecer do assunto, pois se trata de garantia processual em feitos na Justiça do Trabalho. Aqui, na recuperação judicial, as decisões deste juízo consideram apenas o patrimônio real da empresa e o processo prosseguirá até a cumprimento total do plano, com o pagamento efetivo de todas as condenações transitadas em julgado e/ou cuja execução não esteja suspensa pelo juízo competente (que é a Justiça do Trabalho, para os créditos Trabalhistas.
+Portanto, com relação à carta de fiança NÃO HÁ CONFLITO DE COMPETÊNCIA POSITIVO e este juízo entende, tal como a Justiça do Trabalho, que é aquela Justiça Especializada que deve decidir sobre sua validade ao não, haja vista que impactará na exigibilidade de suas próprias decisões; a Justiça do Trabalho informando que a dívida é exigível, deve ser incluída no plano para pagamento na forma da lei, a Justiça do Trabalho informando que estão suspensas, deve constar como passivo judicial para ciência dos credores que examinarão o Plano da Assembleia Geral e acompanharão seu cumprimento.
+Dessa forma, na linha do parecer Ministerial não obstante as alegações da empresa suscitante acerca da existência do conflito de competência, até o presente momento não há decisões conflitantes entre os Juízos suscitados.
+A propósito, esta Corte de Justiça já sedimentou: "a mera e futura possibilidade de adoção de atos de constrição do patrimônio da Agravada, por si só, não é causa suficiente para a caracterização do presente incidente processual" (AgRg no CC 139.179/MG, SEGUNDA SEÇÃO, DJe 27/04/2016).
+Tal o quadro delineado não se revela caracterizado o conflito de competência, uma vez que não demonstrada a existência de decisões conflitantes entre o Juízo Trabalhista e o Juízo Universal, razão pela qual não se pode conhecer do presente incidente.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. AUSÊNCIA DE DECISÕES CONFLITANTES ENTRE JUÍZOS DISTINTOS. CONFLITO NÃO CONHECIDO.
+1. Há conflito de competência quando dois ou mais juízos se consideram competentes ou incompetentes para processar e julgar a mesma demanda, situação que não ocorre na presente hipótese, visto que não há decisões conflitantes entre os juízos suscitados sobre o patrimônio da empresa em recuperação judicial.
+2. Conflito de competência não conhecido
