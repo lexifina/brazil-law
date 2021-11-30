@@ -1,0 +1,70 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 0003306-18.2009.8.11.0086
+Recorrentes: Comercial Agrícola Produtiva Ltda., Elso Vicente Pozzobon e outros
+Recorrida: Bayer S.A.
+Vistos.
+Trata-se de recurso especial interposto por Comercial Agrícola Produtiva Ltda., Elso Vicente Pozzobon e outros, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, em face do v. acórdão exarado pela Eg. Terceira Câmara de Direito Privado, assim ementado (id 93485034):
+“APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO – PRELIMINARES DE CONEXÃO E ILEGITIMIDADE PASSIVA – ANÁLISE NO DESPACHO SANEADOR – AUSÊNCIA DE INSURGÊNCIA RECURSAL – PRECLUSÃO CONSUMATIVA OPERADA – RECURSO NÃO CONHECIDO NESSA PARTE – MÉRITO - DUPLICATAS SEM ACEITE – EXISTÊNCIA DE PROTESTO – COMPROVAÇÃO DAS NOTAS FISCAIS E ENTREGA DAS MERCADORIAS – NÃO RECONHECIMENTO DAS ASSINATURAS FIRMADAS – AUSÊNCIA DE DEMOSTRAÇÃO DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO AUTOR – ART. 373, II DO CPC - APLICAÇÃO DA TEORIA DA APARÊNCIA - BOA-FÉ OBJETIVA – VALIDADE DO TÍTULO DE CRÉDITO - SENTENÇA MANTIDA – RECURSO CONHECIDO EM PARTE E DESPROVIDO.
+Rejeitadas as preliminares de conexão e/ou litispendência e ilegitimidade passiva em despacho saneador, e não havendo a interposição de recurso no momento oportuno, o Tribunal não pode, em sede de apelação, proferir nova decisão sobre a matéria, sob pena de violação do instituto da coisa julgada.
+As duplicatas sem aceite, acompanhadas de provas escritas, tais como nota fiscal e comprovante de recebimento da mercadoria, levam à conclusão que subsiste a obrigação, podendo ser consideradas títulos hábeis a instruírem a ação executiva, o que é o caso dos autos, restando imperiosa a constituição do crédito aduzido na inicial.
+O comprovante de entrega das mercadorias dispensa tanto a assinatura do representante legal, quanto à de pessoa com poderes específicos para tanto, incidindo a teoria da aparência, sendo válido, portanto, o ato praticado por aquele que aparenta ter os necessários poderes, prevalecendo a boa-fé”. (TJMT – Terceira Câmara de Direito Privado – Apelação n. 0003306-18.2009.8.11.0086, Relatora: Desembargadora Nilza Antônia Siqueira Gonçalves, j. 07/07/2021, p. 09/07/2021).
+Opostos embargos de declaração, estes foram rejeitados no acórdão id 101462995.
+Na espécie, o presente recurso foi interposto contra o aresto que negou provimento à apelação proposta por Comercial Agrícola Produtiva Ltda. e outros, mantendo, assim, a sentença proferida pela MMa Juíza da 2a Vara Cível da Comarca de Nova Mutum-MT, que julgou improcedentes os embargos à execução ajuizados em face da Bayer S.A., bem como condenou os embargantes, ora recorrentes, ao pagamento das custas, despesas processuais e honorários de sucumbência fixados em 10% (dez por cento) do valor atualizado da execução, nos termos do artigo 85, § 2°, do Código de Processo Civil.
+Os recorrentes alegam que o acórdão recorrido violou os artigos 357, §1o, 485, V, §3o, 337, VI e VII, e parágrafos, e artigos 485, V, § 3o, IX e § 7o e 486, do Código de Processo Civil, “ao afirmar que preliminares de conexão/continência e litispendência, e de carência de ação (nulidade da fiança), não podem ser apreciadas em grau recursal por força da preclusão e trânsito em julgado”.
+Assevera que “contrariamente do que informa o v. acórdão, não houve o trânsito em julgado da presente ação, e, tampouco preclusão das preliminares arguidas de (conexão/continência, litispendência e carência de ação – nulidade da fiança). O indeferimento das preliminares deu-se por decisão interlocutória, que não transita em julgado. Tais preliminares são matéria de ordem pública não sujeitas à preclusão, e, que não transita em julgado. O que transita em julgado é a ação judicial e não decisão interlocutória”.
+Argumenta que “a decisão interlocutória, sempre estará sujeita à revisão ou reapreciação enquanto o processo não for extinto com sentença ou acórdão final transitado em julgado, nos termos do art. 485, § 3o, do CPC. Portanto, o §1o do art. 357 fala em decisão estável e não em coisa julgada. Decisão estável não é imodificável, pois coisa julgada inexiste no caso”.
+Suscita afronta ao artigo 15, II, “a”, “b” e “c”, e 16 da Lei n. 5.474/68, e ao artigo 373, I do CPC, porquanto “a duplicata por ser título causal, deve conter a assinatura tem assinatura do cliente. Não foi prestado aceite em qualquer duplicata. Também nenhuma mercadoria foi entregue, e os comprovantes de entrega não tem valor jurídico algum, porque não exarados pelos sócios dos recorridos, ou por pessoa autorizada”.
+Recurso tempestivo (id 104900460) e preparado (id 107546477).
+Contrarrazões no id 110047955.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, a parte recorrente alega que “contrariamente do que informa o v. acórdão, não houve o trânsito em julgado da presente ação, e, tampouco preclusão das preliminares arguidas de (conexão/continência, litispendência e carência de ação – nulidade da fiança). O indeferimento das preliminares deu-se por decisão interlocutória, que não transita em julgado. Tais preliminares são matéria de ordem pública não sujeitas à preclusão, e, que não transita em julgado. O que transita em julgado é a ação judicial e não decisão interlocutória”.
+Quanto a este ponto, no acórdão impugnado ficou consignado, in verbis:
+“Assim, mostra-se inviável o reexame da matéria, de modo que o recurso não deve ser conhecido nesse tocante.
+Até porque, em que pese as matérias de ordem pública poderem ser analisadas a qualquer tempo, tal assertiva não ocorre no julgamento em segunda instância, quando não foi objeto de impugnação específica, e no momento oportuno, consoante disposto no artigo 507 do CPC, que veda a discussão sobre questões já decididas.
+Vale dizer, que este Tribunal somente poderia apreciar, de ofício, como dito pelos apelantes, nos casos em que a matéria efetivamente não tenha sido examinada nos autos, pois, uma vez decidida a questão pelo juiz de primeira instância, sua revisão exige a iniciativa da parte em recorrer pelo meio próprio”. (id 93485034 - Pág. 7)
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ no sentido de que conquanto as matérias de ordem pública não estejam sujeitas à preclusão temporal, uma vez arguidas e apreciadas, não podem ser reapreciadas, conforme se extrai da ementa do julgado abaixo:
+“AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. MATÉRIA DE ORDEM PÚBLICA. QUESTÃO DECIDIDA ANTERIORMENTE. PRECLUSÃO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. 2. HONORÁRIOS RECURSAIS. AGRAVO INTERNO. NÃO CABIMENTO. 3. AGRAVO INTERNO IMPROVIDO.
+1.Segundo a orientação jurisprudencial desta Corte Superior, as matérias de ordem pública podem ser apreciadas a qualquer tempo nas instâncias ordinárias, todavia, existindo decisão anterior, opera-se a preclusão caso não haja impugnação no momento processual oportuno. Súmula n. 83/STJ.
+2. Não cabe a condenação ao pagamento de honorários advocatícios recursais no âmbito do agravo interno, conforme os critérios definidos pela Terceira Turma deste Tribunal Superior nos EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+3. Agravo interno improvido”. (AgInt nos EDcl nos EDcl nos EDcl no AREsp 1289565/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/04/2021, DJe 23/04/2021). (g.n.)
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos 357, §1o, 485, V, §3o, 337, VI e VII, e parágrafos, e artigos 485, V, § 3o, IX e § 7o e 486, do Código de Processo Civil, visto que o entendimento exposto no acórdão recorrido se encontra em sintonia com a orientação sedimentada no STJ.
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. MORTE DE CRIANÇA POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE FATOS E PROVAS. SÚMULA No 7/STJ. INCIDÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. RECURSO NÃO PROVIDO.
+(...)
+4. Rever as conclusões do acórdão recorrido demandaria o reexame de matéria fática e das demais provas constantes dos autos, procedimento inviável em recurso especial, consoante o óbice da Súmula no 7/STJ.
+5. Incide a Súmula no 126/STJ na hipótese em que o acórdão recorrido se assenta em fundamentos de natureza infraconstitucional e constitucional (art. 37, § 6o, da Constituição), qualquer deles suficiente, por si só, para manter a conclusão do julgado e a parte vencida não interpôs o indispensável recurso extraordinário.
+6. É pacífico o entendimento desta Corte Superior de que a Súmula no 83/STJ se aplica a ambas as alíneas (a e c) do permissivo constitucional. Precedentes.
+7. Indenização arbitrada em quantia ínfima (R$ 20.000,00) se comparada a casos análogos.
+8. Agravo interno não provido”. (AgInt no AREsp 924.819/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018). (g.n.)
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Consoante a previsão da Súmula 7 do STJ, em sede de recurso especial não é possível o exame de fatos e provas, pois segundo se depreende do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se exclusivamente à aplicação e à uniformização da interpretação das leis federais.
+A parte recorrente, por sua vez, alega ao artigo 15, II, “a”, “b” e “c”, e 16 da Lei n. 5.474/68, e ao artigo 373, I do CPC, amparada na assertiva de que “nenhuma mercadoria foi entregue, e os comprovantes de entrega não tem valor jurídico algum, porque não exarados pelos sócios dos recorridos, ou por pessoa autorizada”.
+No entanto, neste ponto, constou do aresto impugnado que “o negócio jurídico encontra-se suficientemente demonstrado, isso porque a parte apelada cuidou de acostar os recibos assinados, que comprovam o recebimento da mercadoria, bem como comprovou por meio de recibos que vendeu à empresa de insumos e defensivos agrícolas a mercadoria solicitada, efetivando a entrega no endereço indicado, com a respectiva assinatura no canhoto, o que transparece o recebimento da mercadoria e, por conseguinte, a causa debendi das duplicatas, levadas a protesto e, posteriormente, apresentadas em juízo para execução”.
+Logo, para rever a conclusão adotada no acórdão recorrido sobre a efetiva entrega das mercadorias, imprescindível o reexame do quadro fático-probatório dos autos.
+Nesse sentido:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL DE 2015. AÇÃO DE EXECUÇÃO POR QUANTIA CERTA. EMBARGOS À EXECUÇÃO. ALEGADA OMISSÃO E OBSCURIDADE NO ACÓRDÃO RECORRIDO NÃO DEMONSTRADAS. DUPLICATA MERCANTIL. COMPROVAÇÃO DE ENTREGA DAS MERCADORIAS. ENTENDIMENTO DIVERSO. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. INADMISSIBILIDADE. APLICAÇÃO DO ÓBICE DA SÚMULA 7/STJ. TERMO INICIAL DE INCIDÊNCIA DOS JUROS MORATÓRIOS A PARTIR DO VENCIMENTO DA DÍVIDA. ENTENDIMENTO FIRMADO NA ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO DESPROVIDO”. (AgInt no AREsp 1381529/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/06/2019, DJe 14/06/2019).
+Por se tratar de pretensão de reanálise de fatos e provas, o exame do aventado dissídio jurisprudencial fica prejudicado, em virtude da incidência da Súmula 7/STJ.
+A propósito:
+“PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. POSSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(...)
+VII O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+(...)
+X Agravo Interno improvido”. (AgInt no REsp 1912960/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 29/03/2021, DJe 06/04/2021). [g.n.]
+Dessa forma, o recurso especial não alcança admissão neste ponto, em razão da inviabilidade de revisão do entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos.
+Ante o exposto, inadmito o recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
