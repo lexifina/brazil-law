@@ -1,0 +1,35 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência em que figuram, como suscitante, o Tribunal Regional do Trabalho da 13ª Região e, suscitado, o Juízo de Direito da 4ª Vara da Fazenda Pública de João Pessoa - PB.
+Narram os autos que Adagilza Brito de Lima ajuizou ação de cobrança em desfavor do Município de João Pessoa, pleiteando o recebimento de Vantagem Pecuniária Individual - VPI e reflexos decorrentes da prestação de serviços como agente comunitário de saúde, no período de novembro de 2015 a agosto de 2018.
+O Juízo de Direito declinou da competência, ao fundamento de que as verbas pleiteadas submetem-se ao regime celetista.
+O Juízo Trabalhista, por seu turno, suscitou o presente conflito, ao argumento de que a pretensão deduzida na lide envolve períodos vinculados aos regimes celetista e estatutário, devendo a demanda ser processada no Juízo em que foi inicialmente ajuizada, a fim de quedecida sobre os pedidos abrangidos por aquela jurisdição.
+Parecer do Ministério Público Federal pela competência da Justiça Comum.
+É o relatório.
+Tratando-se de conflito de competência envolvendo tribunal e juízo a ele nãovinculado, conheço do presente incidente, nos termos do art. 105, I, "d", da CF/88.
+O parecer ofertado pelo Parquet bem sintetizou a controvérsia (e-STJ, fl. 216):
+In casu, a servidora ajuizou a ação de cobrança da qual foi tirado o presente conflito perante a Justiça Estadual, alegando que fora contratada pelo Município de João Pessoa - PB em 2008, mediante processo seletivo simplificado, pelo regime celetista, e que a partir de 04/04/2016, com o advento da Lei Municipal 13.187/2016, passou a ser regida pelo regime estatutário - fls. 05/10.
+Verifica-se que a Lei Municipal nº 13.187/2016, de 04 de abril de 2016, submeteu os Agentes Comunitários de Saúde ao regime estatutário - fls. 152.
+Assim, constata-se que até 03/04/2016 a autora estava submetida ao vínculo celetista e, a partir de desta data, com a publicação da Lei Municipal n.º 13.187/2016, a relação de trabalho entre as partes passou a ser estatutária.
+Com efeito, a Lei municipal n. 13.187/2016 modificou o regime jurídico dos agentes comunitários de saúde para o estatutário, consoante se observa na seguinte transcrição:
+Art. 1º. Os atuais ocupantes dos empregos públicos de Agente de Saúde Ambiental e de Agente Comunitário de Saúde terão convertido seu regime jurídico de celetista para o estatutário, passando os mesmos a serem regidos pelo Estatuto dos Servidores do Município de João Pessoa, nos termos da Lei Municipal nº 2380/79 e alterações.
+§ 1º Os Agentes Comunitários de Saúde e os Agentes de Saúde Ambiental, que não se manifestarem contrariamente à conversão de regime no prazo de 30 dias a contar da publicação desta Lei, ingressarão automaticamente no quadro de servidores públicos estatutários do Município de João Pessoa.
+§ 2º Para todos os efeitos legais, ficam os atuais empregos públicos, criados pela Lei Municipal nº 11.045/2007, transformados em cargos públicos, exceto daqueles que expressamente recusarem a conversão de regime jurídico na forma do § 1º.
+§ 3º O Regime de Previdência, dos Agentes Comunitários de Saúde e Agentes de Saúde Ambiental a que se refere o caput deste artigo, passará a ser o Regime Próprio de Previdência Social dos Servidores Municipal de João Pessoa, previsto na Lei Municipal nº 10.684/05 e suas alterações.
+§ 4º Não é admitida a mudança do emprego público de Agente de Saúde Ambiental para o cargo de Agente Comunitário de Saúde, assim como é vedada a passagem do emprego público de Agente Comunitário de Saúde para o cargo de Agente de Saúde Ambiental.
+Como se observa, a contratação se deu, a princípio, pelo regime celetista e, posteriormente, houvealteração para o estatutário por meio da lei local. A autorapleiteia o recebimento de valores relativos a ambos períodos.
+Nesse contexto, o caso é de incidência da Súmulas 97 e 170 desta Corte Superior, respectivamente:
+"Compete à Justiça do Trabalho processar e julgar reclamação de servidor público relativamente a vantagens trabalhistas anteriores à instituição do regime jurídico único.".
+"Compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição, sem prejuízo do ajuizamento de nova causa, com o pedido remanescente, no juízo próprio.".
+No ponto:
+RECONSIDERAÇÃO NO CONFLITO NEGATIVO DE COMPETÊNCIA. AGENTE COMUNITÁRIO DE SAÚDE. PLEITO QUE ABARCA O REGIME CELETISTA E JURÍDICO-ADMINISTRATIVO. INCIDÊNCIA DA SÚMULA 170/STJ. COMPETÊNCIA DA JUSTIÇA TRABALHISTA, NOS LIMITES DE SUA COMPETÊNCIA.
+1. A questão posta nos autos cinge-se em definir a quem compete processar e julgar - se à Justiça Trabalhista ou à Justiça Comum - pedidos decorrentes de relação de trabalho no cargo de Agente Comunitário de Saúde entre a autora e o Município de Casserengue/PB.
+2. Esclarece-se que a questão tratada pelo STF no Tema 928 - em que se reafirmou jurisprudência no sentido de que compete à Justiça do Trabalho processar e julgar ações em que se discute o direito às verbas trabalhistas relativas ao período em que o servidor mantinha vínculo celetista com a Administração, antes, portanto, da transposição para o regime estatutário - é diversa do presente feito.
+3. A partir da Lei Federal n. 11.350/2006, disciplinada pela Lei Municipal n. 188/2009, o regime jurídico aplicável à parte reclamante é o celetista, o que, por conseguinte, atrai a competência da Justiça do Trabalho.
+4. Ocorre que a reclamante em sua inicial informa que "exerce a função de agente comunitário de saúde desde 1998", ou seja, em data muito anterior à edição da referida medida provisória. Devendo-se concluir que quando a reclamante foi admitida pelo município em 1998, o foi sob a forma do art. 37, IX, da CF, cuja natureza da relação de emprego era precária/temporária, em caráter excepcional de interesse público, enquadrando-se no regime jurídico administrativo. A competência para o julgamento nesse período é da Justiça Estadual Comum. Precedente.
+5. Dessa forma, constata-se a existência de acumulação de pedidos de natureza diversa, o que atrai a incidência da Súmula n. 170/STJ: "Compete ao juízo onde primeiro for intentada a ação envolvendo acumulação de pedidos, trabalhista e estatutário, decidi-la nos limites da sua jurisdição, sem prejuízo do ajuizamento de nova causa, com o pedido remanescente, no juízo próprio". A ação teve seu início na Justiça Trabalhista, a qual lhe compete julgar e processar o feito nos limites de sua competência.
+6. Pedido de reconsideração não provido.
+(RCD no CC n. 164.081/PB, relator Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 12/6/2019, DJe de 18/6/2019).
+Tendo a demanda sido ajuizada na Justiça Comum, cabe-lhe prosseguir no julgamento dos pedidos referentes ao período em que o vínculo da servidora passou a ser estatutário.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 4ª Vara da Fazenda Pública de João Pessoa - PB para que aprecie os pleitos formulados pelo demandante com base no regime estatutário.
+Publique-se. Intimem-se.
