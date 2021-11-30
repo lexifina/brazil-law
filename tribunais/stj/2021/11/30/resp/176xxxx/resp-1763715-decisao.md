@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ fl. 3.111):
+AGRAVO DE INSTRUMENTO. Recuperação judicial. Cláusula que estabelece a suspensão das ações e execuções contra terceiros devedores solidários ou coobrigados em geral e a liberação das garantias reais, cambiais e fidejussórias. Insurgência contra a decisão que restringiu a eficácia da cláusula aos credores que com ela expressamente anuíram. Alegação de incompetência do Poder Judiciário para se imiscuir sobre o mérito do plano. Rejeição. Abusividade que não decorre do conteúdo, em si, dada a permissão genérica do art. 49, §2º, da Lei 11.101/05, mas da imposição sobre os demais credores. Norma de ordem pública que confere proteção aos titulares de garantia. Direito patrimonial disponível. Prerrogativa que a lei confere ao próprio titular. Oponibilidade. Inteligência dos arts. 50, §1º e 59 c.c. 49, §1º, todos da LREF. Existência de disciplina específica em relação às garantias reais. Critério da especialidade que se sobrepõe à previsão genérica do art. 49, §2º. Direito real de garantia que se reveste de características específicas como direito de sequela e indivisibilidade, as quais reforçam a necessidade de consentimento expresso do respectivo titular. Ausência de conflito entre normas. Efeitos que devem ser limitados para preservar a validade da cláusula. Ausência de interferência sobre o mérito do plano. Decisão mantida. Recurso improvido.
+Nas razões do recurso (e-STJ fls. 3.126/3.145), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente aponta ofensa aos arts. 35, I, "a", 49 e §§ 1º e 2º, 50 e 59 da Lei n. 11.101/2015.
+Sustenta que deve ser mantida a previsão do plano de recuperação judicial quanto à liberação das garantias reais, cambiais e fidejussórias. Argumenta que (e-STJ fl. 3.135):
+Se os credores aprovaram o plano, não há razões para o Juízo de Piso decidir sobre a ineficácia dos meios de recuperação contemplados nas premissas do plano.
+4.5. O plano de recuperação judicial, devidamente aprovado, ostenta natureza de negócio jurídico de direito privado, que se processualiza com a homologação (LRE, art. 58), passando, a partir daí, a ter plena eficácia. Sobre esse importante tema, o jurista Fábio Ulhoa, em seu curso de Direito Comercial, explica que na hipótese de o plano de recuperação judicial ser aprovado deve o juiz se limitar a homologá-lo (in Comentários à nova Lei de Falências e de recuperação de empresas, Fábio Ulhoa Coelho, 2. ed. rev. - São Paulo: Saraiva, 2005, p. 167).
+Ao final, requer o provimento do recurso.
+Não foram apresentadas contrarrazões (e-STJ fl. 3.165).
+Exercido o juízo de admissibilidade positivo na origem (e-STJ fls. 3.166/3.168), os autos vieram a esta Corte.
+O MPF opinou pelo parcial provimento do recurso (e-STJ fls. 3.189/3.198).
+É o relatório
+Decido.
+O Tribunal a quo decidiu de acordo com o entendimento pacificado no STJ, no sentido de que, "havendo previsão no plano de soerguimento quanto à impossibilidade de os credores buscarem a satisfação de seus créditos em face de garantidores e coobrigados da recuperanda, a validade de tal cláusula está sujeita à anuência dos respectivos titulares" (REsp n. 1895277/RS, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 1/12/2020, DJe 4/12/2020).
+Nesse sentido:
+RECURSO ESPECIAL. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO. NOVAÇÃO. EXTENSÃO. COOBRIGADOS. IMPOSSIBILIDADE. GARANTIAS. SUPRESSÃO OU SUBSTITUIÇÃO. CONSENTIMENTO. CREDOR TITULAR. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se a cláusula do plano de recuperação judicial que prevê a supressão das garantias reais e fidejussórias pode atingir os credores que não manifestaram sua expressa concordância com a aprovação do plano.
+3. A cláusula que estende a novação aos coobrigados é legítima e oponível apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não sendo eficaz em relação aos credores ausentes da assembleia geral, aos que abstiveram-se de votar ou se posicionaram contra tal disposição.
+4. A anuência do titular da garantia real é indispensável na hipótese em que o plano de recuperação judicial prevê a sua supressão ou substituição.
+5. Recurso especial interposto Tonon Bionergia S.A., Tonon Holding S.A. e Tonon Luxemborg S.A. não provido. Agravo em recurso especial interposto por CCB BRASIL - China Construction Bank (Brasil) Banco Múltiplo não conhecido.
+(REsp n. 1794209/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 12/5/2021, DJe 29/6/2021.)
+Em face do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
