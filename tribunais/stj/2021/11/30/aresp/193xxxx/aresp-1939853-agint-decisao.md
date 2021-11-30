@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 645/652) interposto contra decisão do Ministro Presidente desta Corte que não conheceu do agravo em recurso especial.
+Em suas razões, a agravante aduz que impugnou todos os fundamentos da decisão de inadmissibilidade do recurso especial, não podendo o agravo ser rejeitado com base na Súmula n. 182/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foram oferecidas contrarrazões (e-STJ fl. 656).
+É o relatório.
+Decido.
+A recorrente atacou todos os fundamentos da decisão que não admitiu o recurso especial, não havendo falar em aplicação da Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial foi inadmitido em virtude da ausência de comprovação do dissídio e de matéria de prescrição julgada por repetitivo(e-STJ fls. 612/615).
+O acórdão recorrido está assim ementado (e-STJ fls. 519/520):
+APELAÇÃO. AÇÃO REVISIONAL REAJUSTES EM PLANO DE SAÚDE. MUDANÇA DE FAIXA ETÁRIA. PRESCRIÇÃO ALEGADA.LEGALIDADE. REQUISITOS. RAZOABILIDADE. REAJUSTE EXORBITANTE.RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. O colando Superior Tribunal de Justiça, em tese firmada no julgamento do REsp nº 1.361.182/RS, sob a sistemática dos recursos repetitivos, assentou que a prescrição da pretensão de ressarcimento, em ação que versa sobre a nulidade de cláusula de reajuste em plano de saúde, deverá seguir o prazo trienal estabelecido no artigo 206, § 3º, inciso IV, do Código Civil.
+2. Em relação à alegada existência de cláusula contratual prevendo os reajustes realizados e a conformidade de tais ajustes com as regras da ANS, a mera previsão contratual não afasta a possibilidade do reconhecimento futuro de possíveis abusividades.
+3. Segundo a jurisprudência do colendo STJ, para evitar abusividades (Súmula nº 469/STJ) nos reajustes das contraprestações pecuniárias dos planos de saúde, alguns parâmetros devem ser observados, tais como (i) a expressa previsão contratual; (ii) não serem aplicados índices de reajuste desarrazoados ou aleatórios, que onerem em demasia o consumidor, em manifesto confronto com a equidade e as cláusulas gerais da boa-fé objetiva e da especial proteção ao idoso, dado que aumentos excessivamente elevados, sobretudo para esta última categoria, poderão, de forma discriminatória, impossibilitar a sua permanência no plano; e (iii) respeito às normas expedidas pelos órgãos governamentais: a) No tocante aos contratos antigos e não adaptados, isto é, aos seguros e planos de saúde firmados antes da entrada em vigor da Lei nº 9.656/1998, deve-se seguir o que consta no contrato, respeitadas, quanto à abusividade dos percentuais de aumento, as normas da legislação consumerista e, quanto à validade formal da cláusula, as di retrizes da Súmula Normativa nº 3/2001 da ANS.
+4. O reajuste contratual em valor de plano de saúde, derivado da mudança da faixa etária do contratante, não constitui por si só prática vedada pelo ordenamento jurídico pátrio, uma vez que o avançar da idade do consumidor pode representar para o fornecedor um incremento ao risco do negócio, o que consequentemente poderia justificar algum aumento de preço correspondente.
+Nesse sentido, o critério de aferição da existência de abusividade ou não se pauta sobretudo na razoabilidade, na proporcionalidade e na boa-fé objetiva.
+5. Diante de casos semelhantes ao presente, esta Corte de Justiça tem entendido razoável o índice de reajuste de 37% (trinta e sete por cento) em razão da mudança de faixa etária.
+6. Igualmente correto o comando sentenciai ao determinar, neste caso, a correção monetária desde a data do respectivo pagamento, e os juros de mora a partir da citação.
+7. Não procede o argumento da recorrente no sentido de que a inexistência de má-fé da empresa afastaria a condenação da restituição dos valores recebidos a maior, porquanto a ausência de má-fé apenas afasta a restituição em dobro dos valores, mantendo-se, porém, a obrigação da reparação na forma simples, sob pena de enriquecimento ilícito.
+8. Recurso conhecido e parcialmente provido.
+O recurso especial (e-STJ fls. 535/551), fundamentado no art. 105, inc. III, "a" e "c", da CF, aponta, além de dissídio jurisprudencial,violação doart. 206, § 1º, II, do CC/2002. A recorrente defende a prescrição anual, por se tratar de contrato de seguro, e a impossibilidade de decretação de abusividade da cláusula de reajuste por faixa etária.
+Argumenta que "o v. acórdão guerreado entendeu que o aumento da mensalidade em decorrência da mudança de faixa etária é abusivo e ilegal, entendimento completamente oposto, já que entendeu que o exame da possível exorbitância dos valores das mensalidades aumentadas deve ser dado caso a caso, e não ser sempre declarado o aumento abusivo" (e-STJ fl. 548).
+As contrarrazões foram apresentadas às fls. 602/610(e-STJ).
+A insurgência não merece prosperar.
+Inicialmente, quanto à prescrição, o Tribunal de origem negou seguimento ao especial, tendo em vista o julgamento da matéria pela sistemática do recurso repetitivo (Tema n. 610), de modo que o recurso cabível, nos termos do art. 1.030, § 2º, do CPC/2015,é o agravo interno. Assim, não se conhece do agravo nos próprios autosem razão de ser espécie recursal manifestamente incabível.
+No que tange àdivergência jurisprudencial, oconhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio, mediante o exame das circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ).
+No caso concreto,a recorrente, além de não indicar os dispositivos de interpretação controvertida, trouxe paradigma que não guarda semelhança fática com o caso dos autos,tampouco amparasua tese, uma vez que não cuida da impossibilidade de se decretar a abusividade da cláusula de reajuste pela faixa etária do modo como feito no acórdão recorrido.
+Ante o exposto, reconsideroa decisão da Presidência desta Corte de fls. 640/642(e-STJ), para CONHECER do agravo nos próprios autos e NÃO CONHECER do recurso especial.
+Mantida a majoração dos honorários aplicada pela decisão agravada.
+Publique-se e intimem-se.
