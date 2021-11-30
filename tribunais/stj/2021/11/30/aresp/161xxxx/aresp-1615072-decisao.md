@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo fundado no art. 1.042 do CPC interposto pelo NEW WORK COMÉRCIO E PARTICIPAÇÕES LTDA. - EM RECUPERAÇÃO JUDICIAL - contra decisão que negou seguimento ao recurso especial, nos termos do art. 1.030, I, "b", do CPC, por entender que o acórdão recorrido decidiu a questão sobre asuspensão da exigibilidade do crédito tributário em face do parcelamentoem conformidade com o precedente obrigatório formado no julgamento do Recurso Especial Repetitivo 957.509/RS, assentando, ainda, a inadmissibilidade do apelo nobre por entender inexistente a alegada infringência ao art. 1.022 do CPC/2015 e não demonstrado o dissídio jurisprudencial invocado.
+A agravante alega que o acórdão recorrido violou os arts. 805 e 1.022, II, do CPC/2015 e o art. 151, VI, do Código Tributário Nacional, para sustentar, em síntese, que o parcelamento deferido pelo juízo da recuperação judicial é causa para a suspensão daexecução fiscal em comento. Aduz, ainda, que o recurso especial repetitivo cujo julgamento foi citado na decisão agravada para justificar anegativa de seguimento de seu apelo raro "não guarda semelhança fática com o presente caso".
+Passo a decidir.
+O recurso em apreço não merece prosperar.
+Do que se observa, o fundamento condutor adotado na decisãoa quoé o de que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior, firmado no julgamento do REsp 957.509/RS,sendo certo as menções referentes à inocorrência da alegada afronta aoart. 1.022 do CPC/2015 e à não demonstração do dissídio jurisprudencialtambém se refere a essemesmo capítulo, visto que o recurso especial da empresa veicula tão somente o pedido de suspensão da execução fiscal.
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Ante o exposto, com base noart. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
