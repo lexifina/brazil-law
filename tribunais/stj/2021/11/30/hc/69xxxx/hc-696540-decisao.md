@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Weslley Neckel da Silva, em que se aponta como autoridade coatora a Oitava Turma do Tribunal Regional Federal da 4ª Região.
+Consta dos autos que o Juízo da 5ª Vara Federal de Foz do Iguaçu da Seção Judiciária do Paraná condenou o paciente como incurso noart. 33, caput, c/c o art. 40, I, ambos da Lei n. 11.343/2006,à pena de 10 anos, 2 meses e 15 dias de reclusão, em regime fechado (fls. 19/45).
+Opostos embargos de declaraçãopelo Ministério Público Federal, esses foram acolhidos, apenas para agregar fundamentação.
+Em sede de apelação,a Oitava Turma do Tribunal Regional Federal da 4ª Região negou provimento ao recurso (fls. 48/84). Esta, a ementa do julgado (fls. 83/84):
+PENAL E PROCESSUAL PENAL. TRÁFICO INTERNACIONAL DE DROGAS. MATERIALIDADE E AUTORIA. DOSIMETRIA. EXACERBAÇÃO DA PENA-BASE. POSSIBILIDADE VETORIAL CIRCUNSTÂNCIAS DO CRIME NEGATIVA. QUANTIDADE DE DROGA APREENDIDA. REGIME INICIAL DE CUMPRIMENTO DA PENA PRIVATIVA DE LIBERDADE. POSSIBILIDADE DE FIXAÇÃO DE REGIME MAIS GRAVOSO. DETRAÇÃO. ALTERAÇÃO DO REGIME INICIAL DE CUMPRIMENTO. INAPLICABILIDADE. LEI Nº 12.736/12. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. ORIENTAÇÃO FIRMADA PELO SUPREMO TRIBUNAL FEDERAL.
+1. Comprovadas a autoria e a materialidade do delito de tráfico internacional de entorpecentes, por meio das provas produzidas durante a instrução processual.
+2. "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena." (HC 107.409/PE, 1.ª Turma do STF, Rel. Min. Rosa Weber, un., j. 10.4.2012, DJe-091, 09.5.2012).
+Não cabe rever pena fixada em parâmetros legais, razoáveis e adequados em primeiro grau, substituindo a discricionariedade do juiz pela do Tribunal.
+3. É devida a exacerbação da pena-base com base na negativação da vetorial circunstâncias do crime se o meio utilizado para o transporte da droga demonstra haver considerável requinte na prática do delito, não sendo inerente ao tipo penal.
+4. Possível a exacerbação da pena-base em razão da grande quantidade de substância entorpecente apreendida, a teor do art.42 da Lei nº 11.343/2006.
+5. Embora fixada pena privativa de liberdade inferior a 8 (oito)anos, é possível a fixação do regime inicial fechado se, à vista dos critérios do art. 59 do Código Penal, em conjunto com as preponderantes do art. 42 da Lei nº 11.343/2006, concluir-se que a fixação do regime semiaberto não é adequado nem suficiente para reprimir a conduta criminosa praticada.
+6. A detração a ser aplicada ainda no processo de conhecimento, conforme previsto no art. 387, § 2º, com redação dada pela Lei nº12.736/12, tem a finalidade de garantir ao condenado o direito à progressão de regime, já computado o tempo de encarceramento cautelar, não servindo, porém, para fixação do regime inicial de cumprimento da pena, que será decorrente do total da condenação fixada na sentença. Hipótese em que o tempo de privação de liberdade não enseja a alteração do regime inicial de cumprimento da pena. Precedente da 4ª Seção.
+7. Possibilidade de execução provisória da pena segundo orientação firmada pelo Supremo Tribunal Federal.
+8. Apelação criminal improvida.
+No presente writ, a defesa aponta excesso no aumento da pena-base, em 2 anos de reclusão, pelo art. 42 da Lei de Drogas.
+Decisão deste Relatorindeferindo a liminar (fls. 102/103).
+Parecer ministerialopinando pelo não conhecimento do writ (fls. 146/152).
+É o relatório.
+Na hipótese dos autos, a pena-base foi elevada em face da quantidadede drogas, 1.223 kg de maconha, em atenção ao art. 42 da Lei n. 11.343/2016.
+Confira-se a fundamentação trazida na sentença (fls. 19/45 - grifo nosso):
+"Dispõe o artigo 42 da Lei n. 11.343/2006, que, o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente. Não há informações acerca da personalidade e conduta social do réu. No entanto, a quantidade de droga apreendida (mais de 1 tonelada de "maconha") revela elevado risco de lesão ao bem jurídico tutelado, qual seja a saúde pública, de modo que a pena-basedeve ser aplicada acima do mínimo legal.A quantidade colossal da substância proscrita apreendida recomenda especial exasperação da pena-base, na medida em que destoa muito do comumente ocorrido em delitos desta natureza.(..) Considerando as margens penais do crime em exame, tem-se, em regra, um incremento de 06 (seis) meses por vetorial negativa. Na hipótese, entretanto, a quantidade da droga apreendida destoa significativamente do comumente ocorrido em delitos desta natureza, demandando, portanto, incremento da pena-base superior ao ordinariamente aplicado, sob pena de não representar resposta adequada para a gravidade da conduta.
+Considerando tais circunstâncias, aumento a pena em 2 (dois) anos em atenção ao art. 42 da Lei nº 11.343/2006 (quantidade da substância entorpecente) e em 6 (seis) meses em atenção ao art. 59 do Código Pena l(circunstâncias desfavoráveis), ficando a PENA-BASE fixada em 7 (sete) anos e 6 (seis) meses de reclusão."
+Vê-se que houve concreta fundamentaçãoe, de fato, o caso diz respeito à imensa quantidade de drogas. Esta Corte deve intervir apenas quando flagrante a ilegalidade, sem a devida justificativa para tanto.Ademais, verifica-se que, no processo conexoAREspn.1.145.468/PR,foi determinada a redução da pena do paciente, afastando-se o vetor negativado "circunstâncias do crime", todavia reconhecendo como proporcional a exasperação da pena-base com fundamento na fiel aplicação do art. 42 da Lei n. 11.343/2006, vejamos:
+ ..
+No que tange ao aumento relativo à quantidade de drogas (1.223 kg) o aumento operado na primeira fase de dosimetria da pena não se mostra desarrazoado ou excessivo, sobretudo considerando-se a pena mínima e máxima abstratamente cominadas ao delito constante do art. 33 da Lei 11.343/06, que prevê pena reclusiva de 5 a 15 anos.
+ ..
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS.TRÁFICO DE DROGAS. 1.223 KG DE MACONHA. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL, EM DOIS ANOS DE RECLUSÃO. CONCRETA FUNDAMENTAÇÃO. AUSÊNCIA DE ILEGALIDADE.CRITÉRIO IDÔNEO PARA A EXASPERAÇÃO, À LUZ DO ART. 42 DA LEI N.11.343/2006. MATÉRIA JÁ ANALISADA EM SEDE DO ARESP N. 1.145.468/PR.
+Ordem denegada.
