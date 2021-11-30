@@ -1,0 +1,66 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial no Agravo de Instrumento n. 1007083-38.2021.8.11.0000
+Recorrente: Banco Rabobank International Brasil S/A
+Recorridos: Edson Aparecido Andrade e outros
+Vistos.
+Trata-se de recurso especial interposto por Banco Rabobank International Brasil S/A, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, em face do v. acórdão exarado pela Eg. Quarta Câmara de Direito Privado, assim ementado (id 97683956):
+“AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - PROCESSAMENTO - DEFERIMENTO – CONSTATAÇÃO PRÉVIA – AUSÊNCIA DE NECESSIDADE – FACULDADE DO JUÍZO - PRODUTORES RURAIS - INSCRIÇÃO NA JUNTA COMERCIAL - 02 ANOS - COMPROVAÇÃO DO EFETIVO EXCERCÍCIO DA ATIVIDADE RURAL EM PERÍODO ANTERIOR – ART. 51 – REQUISITOS PREENCHIDOS - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+A realização de perícia prévia ao deferimento do processamento da recuperação judicial é facultativa e tem o intuito de auxiliar a análise do cumprimento dos requisitos previstos na Lei 11.101/2005.
+O produtor rural, após obter o registro e passar ao regime empresarial, obtém condição de procedibilidade para requerer recuperação judicial bastando que comprove, no momento do pedido de recuperação, que explora regularmente a atividade rural há mais de 02 anos. Nesse caso, pode computar, para efeito de perfazer os mais de dois anos exigidos na lei (art. 48, da Lei n. 11.101/2005), o período anterior ao registro, quando exercia regularmente sua atividade rural sob o regime do Código Civil”. (TJMT – Quarta Câmara de Direito Privado – RAI n. 1007083-38.2021.8.11.0000, Relator: Desembargador Guiomar Teodoro Borges, j. 11/08/2021, p. 13/08/2021).
+Opostos embargos de declaração, estes foram rejeitados no acórdão id 103090489.
+Na espécie, o presente recurso foi interposto contra o aresto que negou provimento ao agravo de instrumento proposto pelo Banco Rabobank International Brasil S.A, mantendo, assim, a decisão que deferiu o processamento da recuperação judicial promovida por Edson Aparecido Andrade, produtor rural e Elisângela Carissimi Rosalino, produtora rural, e Edson Aparecido Andrade, pessoa jurídica de direito privado e Elisângela Carissimi Rosalino, pessoa jurídica de direito privado.
+A parte recorrente alega violação aos artigos 489, § 1o, IV, e 1.022, II, do Código de Processo Civil, ante a suposta omissão e carência de fundamentação do julgado.
+Suscita afronta aos artigos 1o, 48 e 51, V, da Lei n. 11.101/2005, ao argumento de que “o produtor rural, enquanto não efetuar seu registro na Junta Comercial e não observar os requisitos da Lei n. 11.101/2005, não pode ser considerado empresário e, logo, lhe é defeso o caminho da recuperação judicial, pois não lhe é permitido exercer direitos assegurados exclusivamente a empresários, como é o caso da lei de recuperação de empresas e falências (art. 1o)”.
+Argui contrariedade aos artigos 967, 970 e 971 do Código Civil, porquanto “somente se qualifica como empresário aquele que exerça atividade empresária depois de inscrito no registro público de empresas mercantis. Esse é o regime geral e aplicável a todo e qualquer empresário ou sociedade empresária”.
+Recurso tempestivo (id 105887471) e preparado (id 105740965).
+Contrarrazões no id 109309969.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação aos artigos 489, § 1o, IV, e 1.022, II, do CPC
+A partir da suposta ofensa aos artigos 489, §1o, IV, e 1.022, II, do CPC, a parte recorrente alega que o órgão fracionário deste Tribunal não analisou a questão referente à inexistência de exercício de atividade rural pela Recorrida Elisângela Carissimi Rosalino, no biênio legal ou em período anterior ao seu registro como empresária.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora manifestou-se expressamente em relação ao aludido ponto, como se observa da transcrição abaixo:
+“Por sua vez, ao deferir o processamento da recuperação judicial, o Juízo consignou o fato de que os agravados Edson e Elisangela se encontram inscritos na Junta Comercial em período menor do que o previsto no art. 48 da Lei n. 11.101/2005, contudo, realçou que os documentos atrelados aos autos indicam que exercem a atividade há bem mais de dois anos.
+(...)
+Com efeito, consta que os agravados se encontram registrados na Junta Comercial de Mato Grosso, na qualidade de empresários rurais individuais, desde 20/07/2020 (Edson) e 29/07/2020 (Elisangela). Por sua vez, a recuperação judicial foi ajuizada em 17/09/2020.
+(...)
+Na hipótese, os agravados, demonstraram o efetivo exercício da atividade rural há bem mais de dois anos, o que pode ser aferido por meio dos documentos anexados, dentre eles, matrículas de imóveis com averbação de hipotecas com origem em Cédula Rural Hipotecária firmada com o Banco do Brasil S.A., ao menos desde o ano de 2013, bem como notas fiscais de aquisição de mercadorias para o desempenho da atividade rural.
+Vale aqui o registro que, conquanto os autores, postulantes da recuperação judicial não ostentem a condição de casados, certo é que os documentos apresentados indicam a continuidade do grupo econômico, vale dizer, a intenção de manterem os negócios em parceria, próprio, no caso, por conta da confusão patrimonial.
+Assim, em que pese não ter sido juntado aos autos notas fiscais de compra em nome da agravada Elisangela, tal fato, por si só não desnatura a sua condição de produtora rural, porque a atividade é exercida em conjunto com o agravado Edson, na condição de grupo econômico, em particular se observar que aparece como avalista e fiadora de diversos contratos firmados.
+Aliás, acerca do preenchimento dos requisitos para o processamento da recuperação judicial, bem ponderou o Magistrado:
+‘No concerne aos demais requisitos, elencados nos incisos do artigo 48 da Lei 11.101/2005, os requerentes apresentaram certidão negativa de falência; demonstrações contábeis relativas aos três últimos exercícios sociais; lista de credores; lista de funcionários; declaração de bens; extratos bancários; certidões cartorárias; relatório de ações; bem como exposição das causas concretas da situação patrimonial e das razões da crise econômico-financeira’.” (id 97683956 - Pág. 6/12)
+Diante desse quadro, não há evidência de violação aos artigos 489, §1o, IV, e 1.022, II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, a parte recorrente alega que “o produtor rural, enquanto não efetuar seu registro na Junta Comercial e não observar os requisitos da Lei n. 11.101/2005, não pode ser considerado empresário e, logo, lhe é defeso o caminho da recuperação judicial, pois não lhe é permitido exercer direitos assegurados exclusivamente a empresários, como é o caso da lei de recuperação de empresas e falências (art. 1o)”.
+Assevera que “somente se qualifica como empresário aquele que exerça atividade empresária depois de inscrito no registro público de empresas mercantis. Esse é o regime geral e aplicável a todo e qualquer empresário ou sociedade empresária”.
+Quanto a este ponto, no acórdão impugnado ficou consignado que “(...) o produtor rural, após obter o registro e passar ao regime empresarial, obtém condição de procedibilidade para requerer recuperação judicial bastando que comprove, no momento do pedido de recuperação, que explora regularmente a atividade rural há mais de 02 anos. Nesse caso, pode computar, para efeito de perfazer os mais de dois anos exigidos na lei (art. 48, da Lei n. 11.101/2005), o período anterior ao registro, quando exercia regularmente sua atividade rural sob o regime do Código Civil”. (id 97683956 - Pág. 10).
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ no sentido de que após obter o registro e passar ao regime empresarial, adquire o produtor rural a condição de procedibilidade para requerer recuperação judicial, bastando que comprove, no momento do pedido, que explora regularmente a atividade rural há mais de 2 (dois) anos, conforme se extrai da ementa do julgado abaixo:
+“AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. REGULARIDADE DO EXERCÍCIO DA ATIVIDADE DO EMPRESÁRIO RURAL, CÔMPUTO DO PERÍODO DE EXERCÍCIO DA ATIVIDADE RURAL E ABRANGÊNCIA DAS OBRIGAÇÕES CONTRAÍDAS ANTERIORMENTE AO REGISTRO EMPRESARIAL. OCORRÊNCIA. SÚMULA 83/STJ. CONFIGURAÇÃO DE FRAUDE OU DE ATUAÇÃO COERCITIVA. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Não ofende o princípio da colegialidade a decisão monocrática proferida em atenção à Súmula 568 do STJ, de modo que o relator pode decidir monocraticamente o recurso contrário à jurisprudência dominante. Além disso, eventual nulidade da decisão singular fica superada com a apreciação da matéria pelo órgão colegiado por ocasião do agravo interno.
+2. O atual entendimento de ambas as turmas integrantes da Segunda Seção desta Corte é de que o produtor rural adquire a condição de procedibilidade de requerer a recuperação judicial após o seu registro como empresário e desde que comprove, na data do pedido, o exercício da atividade rural há mais de dois anos, o qual compreende o período anterior ao registro empresarial. Além disso, não há distinção do regime jurídico aplicável às obrigações anteriores ou posteriores à inscrição do empresário rural que postula a recuperação judicial, ficando também abrangidas na recuperação aquelas obrigações anteriormente contraídas e ainda não adimplidas (REsp 1.800.032/MT, Rel. p/ acórdão Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/11/2019, DJe de 10/02/2020; e REsp 1.811.953/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/10/2020, DJe de 15/10/2020).
+3. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. É inviável o conhecimento da configuração de fraude ou de atuação coercitiva, como motivos do não enquadramento como empresário rural, porque tais fatos não foram examinados ou admitidos pelo acórdão recorrido, sendo inviável conhecer deles nesta instância, porque sua verificação não prescindiria do reexame direto das provas dos autos, providência manifestamente proibida, nos termos das Súmulas 7 e 211 do STJ.
+5. Agravo interno a que se nega provimento”. (AgInt no REsp 1886429/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/03/2021, DJe 22/03/2021).
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos 1o, 48 e 51, V, da Lei n. 11.101/2005, e aos artigos 967, 970 e 971 do Código Civil, visto que o entendimento exposto no acórdão recorrido se encontra em sintonia com a orientação sedimentada no STJ.
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. MORTE DE CRIANÇA POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE FATOS E PROVAS. SÚMULA No 7/STJ. INCIDÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. RECURSO NÃO PROVIDO.
+(...)
+4. Rever as conclusões do acórdão recorrido demandaria o reexame de matéria fática e das demais provas constantes dos autos, procedimento inviável em recurso especial, consoante o óbice da Súmula no 7/STJ.
+5. Incide a Súmula no 126/STJ na hipótese em que o acórdão recorrido se assenta em fundamentos de natureza infraconstitucional e constitucional (art. 37, § 6o, da Constituição), qualquer deles suficiente, por si só, para manter a conclusão do julgado e a parte vencida não interpôs o indispensável recurso extraordinário.
+6. É pacífico o entendimento desta Corte Superior de que a Súmula no 83/STJ se aplica a ambas as alíneas (a e c) do permissivo constitucional. Precedentes.
+7. Indenização arbitrada em quantia ínfima (R$ 20.000,00) se comparada a casos análogos.
+8. Agravo interno não provido”. (AgInt no AREsp 924.819/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018). (g.n.)
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Ante o exposto, inadmito o recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
