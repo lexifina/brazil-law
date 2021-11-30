@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+AGRAVO LEGAL. DECISÃO MONOCRATIC CPC, ART. 557. SISTEMA FINANCEIRO DA HABITAÇÃO - SFH. REVISÃO CONTRATUAL. IMPOSSIBILIDADE. PERDA DO OBJETO DA DEMANDA. CONTRATO QUITADO, EXTINGUINDO-SE A RELAÇÃO JURIDICA CONTRATUAL. RECURSO IMPROVIDO.
+1. O art. 557 do Código de Processo Civil autoriza o relator a julgar monocraticamente qualquer recurso - desde que sobre o tema recorrido haja jurisprudência dominante em Tribunais Superiores e do respectivo Tribunal; foi o caso dos autos.
+2. A parte autora não demonstrou justamente a utilidade do processo para obter as finalidades desejadas (pedidos), uma vez que o contrato de mútuo habitacional foi liquidado em 30/03/1997, com a quitação da dívida e o cancelamento da garantia hipotecária (fl. 28), diante do que o contrato foi extinto, caracterizando falta de interesse processual superveniente.
+3. Para que o processo seja útil é preciso que haja a necessidade concreta do exercício da jurisdição e ainda a adequação do provimento pedido e do procedimento escolhido à situação deduzida.
+4. Como o contrato firmado entre os autores e a instituição financeira foi quitado em 30/03/1997, extinguiu-se a relação jurídica contratual, não cabendo, desta forma, mais nenhuma discussão acerca da legalidade ou abusividade das cláusulas nele contidas.
+5. Na verdade a demanda nunca teve objeto válido e deveria desde logo ter sido o feito extinto sem exame de mérito, por ausência de legítimo interesse de agir.
+6. Agravo legal não provido.
+Verifico que se discute, no presente recurso, a "Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação" -, tema esse que foi afetado à Segunda Seção, sob o rito dos repetitivos - artigo 1.036 do Código de Processo Civil -, nos autos dos REsps 1.799.288/PR e 1.803.225/PR (DJe 9.12.2019), de minha relatoria, vinculado ao Tema 1039.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, devem ser devolvidos os autos ao Tribunal de origem, nos termos do artigo 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nos termos do artigo 1.037, II, do Código de Processo Civil, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito do recurso recebido como representativo da controvérsia (Tema 1039), e, após, que se proceda em conformidade com os comandos dos artigos 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
