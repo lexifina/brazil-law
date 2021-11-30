@@ -1,0 +1,30 @@
+DECISÃO
+YARA ANDRADE LEITE PEREIRA (YARA) ajuizou ação de obrigação de fazer c/c indenização por danos morais contra EDIVALDO BRITO (EDIVALDO)alegando, em síntese,que o requerido é proprietário do apartamento de nº 52 e, por deficiência da impermeabilização da laje do terraço deste imóvel, vêm ocorrendo vazamentos e infiltrações que estão deteriorando a unidade 43, de sua propriedade, localizada logo abaixo,impossibilitando seu uso.
+Desta forma, requereu a condenação do réu EDIVALDO(a) a executar os serviços que se fizerem necessários para reparar e corrigir os problemas que vem causando à sua unidade; (b) a indenizar os danos causados em seu apartamento; (c) ao ressarcimento dos valores pagos a contratação de empresa especializada em localizar vazamentos; e (d) ao pagamento de indenização por danos morais.
+Em primeira instância, o pedido foi julgado procedente para condenarEDIVALDO ao pagamento (1) da quantia deR$ 9.200,00 (nove mil e duzentos) referente àsdespesas necessárias para consertar os danos no apartamento de propriedade de YARA; (2) do valor de R$ 10.000,00 (dez mil reais), a título de danos morais; (3) da quantia de R$ 1.500,00 (hum mil e quinhentos reais) referente ao valor pago a empresa especializada em localizar vazamentos contratada por YARA; e (4)das custas processuais e honorários advocatícios fixados em 15% sobre o valor da condenação(e-STJ, fls. 437/440).
+A apelação interposta por EDIVALDO foi parcialmente provida pelo Tribunal de Justiça de São Paulo, nos termos do acórdão relatado pelo Des. CELSO PIMENTEL, assim ementado:
+Em face da origem das infiltrações no apartamento da autora, o de baixo, o réu, titular do apartamento de cima, obriga-se a refazer a impermeabilização da laje de piso de seu terraço e a reparar o apartamento dela. Afasta-se, porém, sua condenação ao pagamento de indenização material, extra petita, e, nas circunstâncias, de indenização moral.Redefine-se a disciplina das verbas de sucumbência e, antes, repele-se reclamo de cerceamento de defesa(e-STJ, fl. 517).
+Os embargos de declaração opostos por YARA foram rejeitados (e-STJ, fls. 541/544).
+Inconformada, YARAmanejou recurso especial com fulcro no art. 105, III, a, da Constituição Federal alegando a violação dos arts. 186, 927 e 944 do CC/02, ao sustentar, em síntese, quehouve abuso do direito de vizinhança, tendo sido devidamente comprovada a prática de ato ilícito, devendo ocorrer a respectiva indenização por danos materiais e morais.
+Contrarrazões apresentadas (e-STJ, fls. 565/568).
+Em juízo de admissibilidade, a presidência da seção de direito privado do TJSP inadmitiu o apelo nobre (e-STJ, fls. 569/572).
+Dessa decisão, foi interposto o presente agravo em recurso especial(e-STJ, fls. 575/585).
+Contraminuta apresentada (e-STJ, fls. 589/594).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O Tribunal paulista, após análise do conjunto fático-probatório dos autos, afastou a condenação por danos morais, bem como a indenização extra petita. Confira-se o aresto recorrido:
+(..).
+8. Todavia e considerado o pedido - condenação do réu a indenizar R$ 1.500,00, custo de "contratação de empresa especialista em caçar vazamentos", os "danos extrapatrimoniais" de R$ 20.000,00, a "fazer as reformas necessárias para findar os problemas de infiltração" e a "consertar o imóvel da autora" (fls. 15/16) -, não se admitia a condenação "ao pagamento" de "R$ 9.200,00" ou de "onze mil e quinhentos reais", "como forma de arcar as despesas necessárias para consertar os danos no apartamento" da autora (fl. 439).
+Nisso há julgamento extra petita, que se afasta, porque, como sustentou o réu, "a conversão da obrigação de fazer em indenização" "implica "pagar à autora uma quantia para que" ele, réu, "tenha que fazer reforma".
+Outra será amanhã a solução, se se exigir a conversão (Código de Processo Civil de 2015, art. 499).
+9. As infiltrações e suas consequências, apesar de se prolongarem por década, refletem prejuízo material, como a eventual locação perdida e seu impedimento, de que a petição inicial não cuidou, mas nãoconfiguram dano moral, porque a autora não reside no apartamento, que, presume-se pela localização, destina-se a veraneio ou a renda.
+Afasta-se a indenização a esse título (e-STJ, fls. 527/528 - sem destaque no original).
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de YARA, nos termos do art. 85, § 11 do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7, DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
