@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl.122):
+AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. ROUBO OCORRIDO NA ESTAÇÃO DO METRÔ QUE SE ENCONTRAVA VAZIA EM RAZÃO DO HORÁRIO (00H18).
+AUTORA QUE AO SE DIRIGIR À BILHETERIA PARA OBTER INFORMAÇÕES ACERCA DO FUNCIONAMENTO DO TRANSPORTE DEPAROU-SE COM UM INDIVÍDUO E AO LHE DIRIGIR A PALAVRA PARA OBTER A INFORMAÇÃO FOI ASSALTADA, TENDO SIDO LEVADA SUA BOLSA COM PERTENCES, INCLUSIVE CELULAR.
+FATO INCONTROVERSO COM RECONHECIMENTO PELO PRÓPRIO RÉU. SENTENÇA JULGOU A DEMANDA PARCIALMENTE PROCEDENTE DETERMINANDO O RESSARCIMENTO DO APARELHO E DANOS MORAIS.
+CONSTATAÇÃO DE QUE, ESPECIFICAMENTE NO CASO CONCRETO, NÃO SE VERIFICOU FALHA NA PRESTAÇÃO DE SERVIÇOS, NÃO SENDO RAZOÁVEL EXIGIR QUE O METRÔ DISPUSESSE DE UM VIGIA EM CADA PONTO DA ESTAÇÃO ÀQUELA HORA DA NOITE.
+SITUAÇÃO QUE NO CASO CONCRETO EXTRAVASA DOS CUIDADOS E DILIGÊNCIA MINIMAMENTE ESPERADOS DA COMPANHIA DE TRANSPORTE.
+RECURSO DA PARTE RÉ PROVIDO PARA JULGAR IMPROCEDENTE A AÇÃO, PREJUDICADO O RECURSO ADESIVO DA AUTORA.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 5º, V, X, e 37, § 6º, da Constituição Federal; e arts. 186, 734, 735 e 927 do Código Civil; bem como divergência jurisprudencial.
+Sustenta que deve ser reconhecida a responsabilidade da recorrida em indenizar arecorrente por danos morais e materiais em virtude de assalto ocorrido na bilheteria do metrô.
+Afirma que "o fato de terceiro não pode ser considerado como caso de fortuito externo, mormente se considerando que o fato ocorreu perante uma bilheteria da Recorrida, não se tratando de fato imprevisível, e por isso devem ser considerados caso de fortuito interno" (e-STJ, fl.144).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar, que não compete a esta Corte Superior a análise de violação a dispositivos constitucionais, sob pena de usurpação da competência atribuída exclusivamente ao Supremo Tribunal Federal.A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. VIOLAÇÃO A DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. EXAME VIA APELO ESPECIAL. IMPOSSIBILIDADE. READEQUAÇÃO DE BENEFÍCIO. REVISÃO. TETOS DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. QUESTÃO DIRIMIDA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. ANÁLISE VEDADA. USURPAÇÃO DA COMPETÊNCIA DO STF. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. 1. O exame da violação de dispositivo constitucional (art. 5º, II, da Constituição Federal) é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal. (..) 5. Recurso Especial não conhecido. (REsp 1.672.259/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27.6.2017, DJe 30.6.2017)
+O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela ausência do dever de indenizar,assim se pronunciando (e-STJ, fls.125/126):
+A regra geral é que a Companhia do Metropolitano não responde por furtos, roubos ou lesões praticadas por terceiros aos seus usuários, uma vez que não detém condições de realizar uma vigilância preventiva apta a evitar tais infaustos acontecimentos.
+Todavia, quando estão presentes elementos que podem ser caracterizados como falhas de segurança ou de pronto atendimento, um ou outro aptos a prevenir ou minimizar danos aos consumidores, nessas hipóteses entende-se que não há como relevar a responsabilidade da transportadora, ainda que o evento tenho ocorrido no ambiente da estação, ou seja, fora dos vagões e do curso do transporte.
+Observa-se que já passava da meia noite e que muito embora o ideal é que o réu pudesse disponibilizar vigilância omnipresente, tal não seria razoável exigir no caso concreto. Teria que haver um vigia em cada setor da estação, quantos seriam necessários Aparentemente o meliante não despertava suspeitas aparentes, tanto é que a autora dirigiu-se a ele para perguntar a respeito da atividade da estação.
+Diante desse contexto, não vejo como responsabilizar o réu, observado o devido respeito ao entendimento manifestado pelo DD Juízo "a quo" e o lamentável episódio suportado pela vítima, ora autora.
+A conclusão acima reproduzida está em perfeita harmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, no sentido de quenão háresponsabilidade da empresa de transporte coletivo em caso deato ilícito praticado por terceiro, alheio e estranho à atividade de transporte, de forma que tal ato rompe o nexo de causalidade e exclui o dever da concessionária de indenizar.A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ASSALTO NA ESTAÇÃO DE METRÔ. AUSÊNCIA DE RESPONSABILIDADE DA TRANSPORTADORA. FATO EXCLUSIVO DE TERCEIRO E ESTRANHO AO CONTRATO DE TRANSPORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência firmada nesta Corte Superior, a responsabilidade do transportador em relação aos passageiros é objetiva, podendo, portanto, ser elidida por fortuito externo, força maior, fato exclusivo da vítima ou por fato doloso e exclusivo de terceiro - quando este não guardar conexidade com a atividade de transporte.
+2. "Assalto ocorrido nas escadas de acesso ao metrô não pode ser considerado como falta do serviço, equiparando-se a assalto ocorrido em transporte coletivo" (REsp 402.708/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, julgado em 24/08/2004, DJ de 28/02/2005).
+3. Na hipótese, afasta-se a responsabilidade da concessionária pelo dano material sofrido em decorrência de roubo cometido por terceiros, na modalidade conhecida como "saidinha de banco", contra vítima que saiu de agência bancária com grande quantia em dinheiro e foi abordada pelos assaltantes na escada de acesso à estação metroviária.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1491619/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/02/2020, DJe 18/02/2020)
+RECURSO ESPECIAL - DIREITO CIVIL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - ATO LIBIDINOSO PRATICADO CONTRA PASSAGEIRA NO INTERIOR DE UMA COMPOSIÇÃO DE TREM DO METRÔ PAULISTA - AUSÊNCIA DE RESPONSABILIDADE DA TRANSPORTADORA - FATO EXCLUSIVO DE TERCEIRO E ESTRANHO AO CONTRATO DE TRANSPORTE - PRECEDENTES DO STJ. INCONFORMISMO DA AUTORA.
+1. Nos termos da jurisprudência desta Corte Superior, não há responsabilidade da empresa de transporte coletivo em caso de ilícito alheio e estranho à atividade de transporte, pois o evento é considerado caso fortuito ou força maior, excluindo-se, portanto, a responsabilidade da empresa transportadora. Precedentes do STJ.
+2. Não pode haver diferenciação quanto ao tratamento da questão apenas à luz da natureza dos delitos.
+3. Na hipótese, sequer é possível imputar à transportadora eventual negligência pois, como restou consignado pela instância ordinária, o autor do ilícito foi identificado e detido pela equipe de segurança da concessionária de transporte coletivo, tendo sido, inclusive, conduzido à Delegacia de Polícia, estando apto, portanto, a responder pelos seus atos penal e civilmente.
+4. Recurso especial desprovido.
+(REsp 1.748.295/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão
+Ministro MARCO BUZZI, QUARTA TURMA, julgado em 13.12.2018, DJe de
+13.2.2019)
+O acórdão recorrido está em consonância com a orientação desta Corte, esbarrando o presente recurso no óbice da Súmula 83/STJ.
+Ademais, aanálise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Em face do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Intimem-se.
