@@ -1,0 +1,20 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por ACS SUMARE EMPREENDIMENTOS IMOBILIARIOS LTDA. e OUTRA, com fundamento no art. 105, III, a, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Compromisso de venda e compra - Rescisão contratual - Atraso na entrega da obra - Cabimento de restituição dos valores pagos e de indenização por lucros cessantes pela não fruição do bem Indenização a ser calculada sobre o valor atualizado do contrato - Recurso das rés não provido, provido em parte o da autora.
+Em suas razões recursais, aponta a parte recorrente ofensa ao disposto nos arts. 393, 402, 403 e 422, do CC.
+Sustenta, em síntese, que teria havido afronta aos princípios da autonomia da vontade, boa fé objetiva e pacta sunt servanda, devendo o acórdão recorrido ser reformado para determinar a retenção de parte do valor a ser devolvido.
+Defende o não cabimento de lucros cessantes, ante a ausência de prejuízos efetivos.
+Contrarrazões ao recurso especial às fls. 524/531.
+Crivo positivo de admissibilidade na origem (fls. 538/542).
+É o relatório. DECIDO.
+2. As matérias tratadas nos artigos 393 e 422, do CC não foram objeto de análise pelo acórdão recorrido. Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem.
+De modo que a ausência de manifestação judicial a respeito das referidas matérias trazidas à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+3. No mais,sobressai a consonância entre o acórdão estadual e a jurisprudência desta Corte, no sentido de que o atraso na entrega do imóvel (objeto de compromisso de compra e venda), sobretudo após o esgotamento da prorrogação estipulada, enseja o pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador (EREsp 1.341.138/SP, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 09.05.2018, DJe 22.05.2018). Incidência, no ponto, da Súmula n. 83/STJ.
+4. Ante o exposto, nego provimento ao recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DE IMÓVEL. ALEGADA VIOLAÇÃO AOS ARTIGOS 393 E 422, DO CC. AUSÊNCIA DE PREQUESTIONAMENTO.APLICAÇÃO DAS SÚMULAS N. 282/STF E N. 356/STF. LUCROS CESSANTES. PRESUNÇÃO DO PREJUÍZO. INCIDÊNCIA DA SÚMULA N. 83/STJ. RECURSO NÃO PROVIDO.
+1. As matérias tratadas nos artigos 393e 422, do CC não foram objeto de análise pelo acórdão recorrido. Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem. De modo que a ausência de manifestação judicial a respeito das referidas matérias trazidas à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+2. Consonância entre o acórdão estadual e a jurisprudência desta Corte, no sentido de que o atraso na entrega do imóvel (objeto de compromisso de compra e venda), sobretudo após o esgotamento da prorrogação estipulada, enseja o pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador (EREsp 1.341.138/SP, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 09.05.2018, DJe 22.05.2018). Incidência da Súmula n.83/STJ.
+3. Recurso especial não provido.
