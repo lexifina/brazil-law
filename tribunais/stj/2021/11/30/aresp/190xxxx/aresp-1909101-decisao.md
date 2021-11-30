@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial, em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. ELEVADA DÍVIDA DE ENERGIA ELÉTRICA DE HOSPITAL. SENTENÇA DE PROCEDÊNCIA.
+RECURSO DA RÉ/NOSOCÔMIO
+HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PLEITO DE MINORAÇÃO AQUÉM DO MÍNIMO LEGAL, DIANTE DO ELEVADO VALOR DA CONDENAÇÃO E AUSÊNCIA DE RESISTÊNCIA AO PEDIDO EXORDIAL. INACOLHIMENTO. INÉRCIA DA RÉ. NÃO DEMONSTRAÇÃO DE RECONHECIMENTO DA PROCEDÊNCIA E DE CUMPRIMENTO INTEGRAL DA PRESTAÇÃO. INAPLICABILIDADE DA REDUÇÃO PELA METADE DA VERBA SUCUMBÊNCIAL, PREVISTA NO ART. 90, § 4º DO CPC. EXISTÊNCIA DE VALOR ATRIBUÍDO À CAUSA, QUE CORRESPONDE AO MONTANTE DO DÉBITO PERSEGUIDO. VERBA QUE DEVE OBSERVAR OS LIMITES DE 10% A 20%, ESTABELECIDOS NO ART. 85, § 2 2 , DO CPC, AINDA QUE O VALOR DA CONDENAÇÃO SEJA ELEVADO. ENTENDIMENTO SUFRAGADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. VERBA JÁ FIXADA NO MÍNIMO LEGAL.MANUTENÇÃO.
+HONORÁRIOS RECURSAIS. PRESENÇA DOS PRESSUPOSTOS LEGAIS. CABIMENTO.
+RECURSO CONHECIDO E DESPROVIDO.
+No recurso especial, a parte agravante aponta violação doart. 85, §2º, I, II, III e IV, do Código de Processo Civil. Alega que"o v. acórdão contrariou e negou vigência:a) ao artigo 85, §2º, I, II, III e IV do Código de Processo Civil, tendo em vista que, não observou os critérios estampados nos incisos asseverados uma que, a demanda não foi contestada, não houve resistência por parte da Recorrente, a ação era de fácil ingresso e o trabalho realizado pelo advogado bem como o tempo exigido para o seu serviço foi demasiadamente curto"(e-STJ fl. 212).
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, o Tribunal estadual, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, deixou registrados os seguintes termos (e-STJ fls. 186-190):
+A ré interpôs recurso de apelação, unicamente, em relação ao valor fixado a título de honorários advocatícios, considerando que foram arbitrados em 10% do valor da condenação, esta que corresponde ao débito de R$ 1.859.287,75 (um milhão, oitocentos e cinquenta e nove mil, duzentos e oitenta e sete reais e setenta e cinco centavos), motivo pelo qual pugna pela minoração do quantum arbitrado a título de honorários de sucumbência. Outrossim, sustenta que não apresentou resistência ao pedido exordial.
+(..).
+A magistrada singular, então, decidindo antecipadamente a lide, julgou procedentes os pedidos iniciais e condenou a parte ré ao pagamento da dívida, no valor de R$ 1.859.287,75 (um milhão, oitocentos e cinquenta e nove mil, duzentos e oitenta e sete reais e setenta e cinco centavos), e ao pagamento dos honorários de sucumbência de 10% do valor da condenação (Evento 24, SENT25).
+Não se desconhece que o Código de Processo Civil prevê possibilidade de redução dos honorários pela metade, conforme o art. 90, §4º:
+Art. 90. Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu.
+(..).
+§ 4º Se o réu reconhecer a procedência do pedido e, simultaneamente, cumprir integralmente a prestação reconhecida, os honorários serão reduzidos pela metade.
+Inclusive, esta Corte de Justiça possui julgados admitindo a redução pela metade dos honorários, na hipótese de reconhecimento da procedência do pedido, prevista no prefalado artigo.
+(..).
+Contudo, inaplicável essa norma ao caso concreto, pois, em que pese a ré não tenha resistido à pretensão exordial, ao não apresentar defesa, não reconheceu expressamente a sua procedência e, nem tampouco, cumpriu integralmente a prestação supostamente reconhecida, tanto que a resolução da lide dependeu da atuação judicial, com prolação de sentença de procedência dos pedidos iniciais.
+Igualmente, frise-se, considerando que não houve acordo nos autos e que foi aberto prazo de contestação, o nosocômio poderia ter, no referido prazo, peticionado esclarecendo o desinteresse em apresentar defesa e reconhecendo, expressamente, a procedência do pedido exordial, mas preferiu permanecer inerte.
+Em relação ao pleito de minoração aquém do mínimo legal, este também não merece acolhimento.
+Isso porque o art. 85, § 2º, do CPC estabelece percentual mínimo de 10% sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, na fixação dos honorários advocatícios, sendo, assim, incabível a inobservância deste percentual mínimo, ainda que a base de cálculo possua valor elevado, como ocorre na espécie.
+Nesse sentido, em recentes julgados, o Superior Tribunal de Justiça firmou posicionamento no sentido de que o fato do valor da causa ser elevado não possui o condão de afastar os critérios estabelecidos no § 2º do art. 85 do CPC, para a fixação dos honorários recursais nos percentuais de 10% a 20%.
+(..).
+Assim, diante do posicionamento sufragado pela Corte da Cidadania, no sentido de observar os limites quantitativos (10 a 20%) do art. 85, § 2º, do Código de Processo Civil, ainda que o valor da causa ou da condenação seja elevado, não há como reduzir o percentual aquém dos 10% fixados na sentença e nem deixar de adotar, como base de cálculo, o valor da condenação.
+No tocante aos critérios qualitativos, previstos nos incisos I a IV do § 2º, do aludido dispositivo, estes já foram sopesados de modo a estabelecer o percentual mínimo de 10%, levando-se em conta a duração da instrução e a natureza da matéria, não sendo possível com base neles reduzir a quantia arbitrada.
+(..).
+Assim, considerando que o juízo a quo já fixou os honorários no mínimo legal (10% sobre o valor da condenação), em observância a norma processual vigente e o entendimento recente do STJ, não se mostra possível sua minoração.
+Observoque o julgado do Tribunal de Justiça, impugnado pelo recurso especial, foi publicado na vigência do Código de Processo Civil de 2015, fl. 197 (e-STJ).
+Constato que o entendimento proferido pelo Colegiado estadual está em sintonia com ajurisprudência deste Superior Tribunal, a qualpossui o posicionamento no sentido de que, ressalvadas as exceções previstas na legislação, na vigência do Código de Processo Civil de 2015, o valor da verba honorária sucumbencial não pode ser arbitrado por apreciação equitativa ou fora dos limites percentuais fixados pelo § 2º do referido dispositivo legal.
+A propósito, guardadas as devidas proporções:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. AUSÊNCIA. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. LIMITES PERCENTUAIS. OBSERVÂNCIA. RECURSO PROVIDO.
+1. Ressalvadas as exceções previstas nos §§ 3º e 8º do art. 85 do CPC/2015, na vigência da nova legislação processual o valor da verba honorária sucumbencial não pode ser arbitrado por apreciação equitativa ou fora dos limites percentuais fixados pelo § 2º do referido dispositivo legal.
+2. Segundo dispõe o § 6º do art. 85 do CPC/2015, " o s limites e critérios previstos nos §§ 2º e 3º  do mesmo art. 85  aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito".
+3. No caso concreto, ante o julgamento de improcedência dos pedidos deduzidos em reconvenção, não se tratando de demanda de valor inestimável ou irrisório, faz-se impositiva a majoração da verba honorária, estipulada em quantia inferior a 10% (dez por cento) do valor atribuído à causa.
+4. Recurso especial provido.
+(REsp 1.731.617/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/04/2018, DJe 15/05/2018.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. 1. APLICAÇÃO DA EQUIDADE PREVISTA PELO ART. 85, § 8º, DO CPC/2015 EM CASO DE ELEVADO VALOR DA CAUSA E DE PROVEITO ECONÔMICO DE VALOR INESTIMÁVEL. NÃO OCORRÊNCIA.2. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. 3. AGRAVO INTERNO DESPROVIDO.
+1. Os honorários advocatícios devem, ordinariamente, ser arbitrados com fundamento nos limites percentuais estabelecidos pelo art. 85, § 2º, do CPC/2015 sobre o proveito econômico obtido, ou, na impossibilidade de identificá-lo, sobre o valor atualizado da causa.
+A equidade prevista pelo § 8º do referido artigo somente pode ser utilizada subsidiariamente, quando não foi possível o arbitramento pela regra geral ou quando inestimável ou irrisório o valor da causa.
+2. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, a condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+3. Agravo interno desprovido.
+(AgInt no REsp 1771319/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/04/2019, DJe 09/04/2019.)
+Realmente, da exegese do art. 85, § 2º, do diploma processual em vigor, extrai-se que deve ser observado, na fixação dos honorários de sucumbência, o limite de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação ou sobre o valor da causa, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito, à exceção do preceito contido no § 8º do art. 85 do CPC.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA Nº 7/STJ. NÃO INCIDÊNCIA. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE. LIMITES LEGAIS. NÃO OBSERVÂNCIA. VALOR IRRISÓRIO. MAJORAÇÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Tribunal Superior de Justiça tem afastado o óbice da Súmula nº 7/STJ, para rever a verba honorária arbitrada nas instâncias ordinárias, quando verifica que o julgador se distanciou dos critérios legais e dos limites da razoabilidade para fixá-la em valor irrisório.
+3. O § 8º do art. 85 do CPC/2015 se aplica somente quando o valor da causa é muito baixo e, além disso, seja irrisório ou inestimável o proveito econômico experimentado. Caso contrário, os honorários advocatícios devem ser arbitrados a partir do valor da causa ou do proveito econômico experimentado, com obediência aos limites impostos pelo § 2º do art. 85 do CPC/2015, os quais se aplicam, inclusive, nas decisões de improcedência e quando houver julgamento sem resolução do mérito.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.187.650/SP, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 30/4/2018.)
+Na hipótese, considerando que o juízo singularfixou os honorários no mínimo legal (10% sobre o valor da condenação), em observância à norma processual vigente e ao entendimento recente do STJ, não se mostra possível sua minoração.
+Assim, verifica-se que a manutenção do posicionamento do Juízo inferior, pelo Tribunal de origem, do valor dos honorários em observância aos limites previstos no referido § 2º do art. 85 do CPC/2015,mostra-se adequada.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
