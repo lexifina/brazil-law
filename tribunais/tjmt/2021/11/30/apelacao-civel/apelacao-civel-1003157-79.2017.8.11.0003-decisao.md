@@ -1,0 +1,88 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1003157-79.2017.8.11.0003
+Recorrente: Rumo Malha Norte S/A
+Recorrida: Acologs Logística e Transporte Ltda. - ME
+Recurso Extraordinário na Apelação Cível n. 1003157-79.2017.8.11.0003
+Recorrente: Rumo Malha Norte S/A
+Recorrida: Acologs Logística e Transporte Ltda. - ME
+Vistos.
+· Do recurso especial
+Trata-se de recurso especial interposto por Rumo Malha Norte S/A, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado, assim ementado (id 94845454):
+“APELAÇÃO CÍVEL – AÇÃO COMINATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS – RECUSA NO RECEBIMENTO DE MARCADORIA EM TERMINAL FERROVIÁRIO – RESTRIÇÃO DO VEÍCULO E DO CNPJ DA TRANSPORTADORA NO SISTEMA DA EMPRESA OPERADORA DE LOGÍSTICA FERROVIÁRIA – FATO ANTERIOR ISOLADO QUE NÃO OBSTA O RECEBIMENTO DE OUTROS FRETES DA TRANSPORTADORA – AUSÊNCIA DE PROVAS QUE DESABONEM AS ALEGAÇÕES AUTORAIS – BLOQUEIO DO VEÍCULO INJUSTIFICADO – INDENIZAÇÃO DEVIDA PELAS HORAS EXTRAS DE ESTADA DO CAMINHÃO EM INATIVIDADE POR CULPA DA RECEBEDORA – DANO MORAL NÃO CONFIGURADO – PESSOA JURÍDICA – INDENIZAÇÃO AFASTADA – RECURSO PARCIALMENTE PROVIDO.
+1. A recusa no recebimento de mercadorias pelo terminal ferroviário por justificativa de fato isolado anterior relacionado a outro frete realizado pela mesma transportadora, não possui força para obstar o descarregamento de outras mercadorias por esse mesmo veículo condutor ou de outro pertencente a frota da empresa de transporte responsável, salvo se houver expressa determinação legal para que assim a operadora o faça, ou, então, haja justificativa intrinsecamente atrelada ao frete a ser realizado e barrado no terminal (ex.: ausência dos padrões de qualidade do produto, etc.).
+2. Não havendo justificativa plausível à recusa do recebimento da mercadoria, o reembolso das horas extras de estadia do caminhão em inatividade por culpa do terminal ferroviário é medida que se impõe, nos moldes do §5o, do art. 11, da Lei no 11.442/2007.
+3. Não há dúvidas de que a ‘pessoa jurídica pode sofrer dano moral’ (STJ, Súmula 227), entretanto, para que surja o dever de indenizar em razão do alegado dano moral sofrido, exige-se da parte postulante a inequívoca comprovação de que tenha sofrido dano à sua honra objetiva, vale dizer, tenha tido atingido o conceito, a credibilidade, de que goza perante à sociedade e terceiros, o que não foi comprovado no caso”. (TJMT – Primeira Câmara de Direito Privado – Apelação n. 1003157-79.2017.8.11.0003, Relator: Desembargador João Ferreira Filho, j. em 13/07/2021, p. 22/07/2021).
+Opostos embargos de declaração, estes foram rejeitados no acórdão id 102683974.
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de apelação proposta por Rumo Malha Norte S.A., em face da sentença proferida pela MMa. Juíza de Direito da 3a Vara Cível da Comarca de Rondonópolis/MT, que nos autos da Ação Cominatória c/c Indenização por Danos Morais e Materiais no 1003157-79.2017.8.11.0003, ajuizada contra a apelante por Acologs Logística e Transporte Ltda. – ME, julgou o pedido parcialmente procedente, para condenar a ré/apelante ao pagamento de R$ 13.364,55 à título de estadia do caminhão, bem como ao pagamento de R$ 5.000,00 à título de indenização por danos morais, acrescidos de correção monetária pelo INPC, a incidir a partir da propositura da ação e juros moratórios de 1% ao mês, a partir da citação; a r. sentença condenou a apelante ao pagamento das despesas processuais e honorários advocatícios, estes fixados em 15% do valor da condenação (id 78996157 - Pág. 8).
+A Câmara julgadora deu parcialmente o recurso, para afastar a condenação da ré/apelante ao pagamento de indenização por danos morais, mantendo incólume o restante da r. sentença. (id 94845454 - Pág. 7)
+A parte recorrente alega violação aos artigos 186 e 927 do Código Civil, além de divergência jurisprudencial, ao argumento de que “não praticou qualquer ato ilícito, ao contrário, resguardou -se no seu direito de não receber carga fora dos padrões previstos, não restando configurado os requisitos ensejadores da reparação da pretensão autoral”.
+Suscita afronta aos artigos 746 e 747 do Código Civil, “a recusa se deu em virtude de alteração nos padrões de qualidade na carga que seria descarregada, visto que estava com evidentes sinais de apodrecimento, o que não poderia ser aceito pela RUMO”.
+Aponta contrariedade ao artigo 373, I do Código de Processo Civil, pois “a Recorrida não fez prova do fato constitutivo do seu direito, haja vista que sequer indicou a data que suspostamente teria chegado ao terminal”.
+Aduz que “faz um rigoroso controle de padrão de qualidade dos grãos que lhe são entregues, a fim de assegurar que a carga tenha condição de suportar o tempo de viagem, chegando ao seu destino final dentro dos padrões de qualidade exigidos, na forma do art. 754 do Código Civil”.
+Assevera ter havido ofensa aos artigos 9o e 11 da Lei n. 11.442/2007, porquanto “agiu apenas para impedir que a Recorrida tentasse utilizar o Terminal de descarregamento para cometimento de atos ilícitos, acionando as autoridades policiais que mantiveram a carga para realização de perícia”.
+Recurso tempestivo (id 106241950) e preparado (id 106162494).
+Contrarrazões no id 110105464.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Consoante a previsão da Súmula 7 do STJ, em sede de recurso especial não é possível o exame de fatos e provas, pois segundo se depreende do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se exclusivamente à aplicação e à uniformização da interpretação das leis federais.
+A parte recorrente, por sua vez, alega violação aos artigos 186, 746, 747 e 927 do Código Civil, 373, I do Código de Processo Civil, 9o e 11 da Lei n. 11.442/2007, amparada na assertiva de que “não praticou qualquer ato ilícito, ao contrário, resguardou-se no seu direito de não receber carga fora dos padrões previstos, não restando configurado os requisitos ensejadores da reparação da pretensão autoral”.
+No entanto, para rever a conclusão adotada no acórdão recorrido sobre a responsabilidade pelo atraso na entrega das mercadorias transportadas, imprescindível o reexame do quadro fático-probatório dos autos.
+Nesse sentido, mutatis mutandis:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO APENAS PARA MODIFICAR O TERMO INICIAL DOS OUROS DE MORA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Cabe ao juiz, como destinatário final das provas, avaliar e deferir a produção probatória que considerar necessária à formação do seu convencimento, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias sem que implique em cerceamento de defesa.
+2. Observa-se que o Tribunal de origem, apreciando o conjunto probatório dos autos, concluiu pela presença dos requisitos ensejadores da responsabilidade civil da ora agravante. A alteração de tal entendimento, como pretendida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. A revisão por esta Corte do montante fixado pelas Instâncias ordinárias a título de dano moral, exige que o valor tenha sido arbitrado de forma irrisória ou exorbitante, circunstância que não se verifica no caso concreto. A condenação cooperativa por dano moral em R$ 200.000,00 (duzentos mil reais), tendo em vista a omissão no atendimento que resultou em óbito do paciente, não se encontra fora dos padrões de razoabilidade e proporcionalidade.
+4. Agravo interno desprovido”. (AgInt no AREsp 1311795/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020). (g.n.)
+Por se tratar de pretensão de reanálise de fatos e provas, o exame do aventado dissídio jurisprudencial fica prejudicado, em virtude da incidência da Súmula 7/STJ.
+A propósito:
+“PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. POSSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(...)
+VII O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+(...)
+X Agravo Interno improvido”. (AgInt no REsp 1912960/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 29/03/2021, DJe 06/04/2021). [g.n.]
+Dessa forma, o recurso especial não alcança admissão neste ponto, em razão da inviabilidade de revisão do entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos.
+Diante desse quadro, é o caso de inadmissão do recurso especial.
+· Do recurso extraordinário
+Trata-se de recurso extraordinário interposto por Rumo Malha Norte S/A, com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado, cuja ementa foi acima transcrita.
+A recorrente alega violação ao artigo 93, IX, da Constituição Federal, ante a suposta e carência de fundamentação do julgado.
+Suscita, ainda, afronta ao artigo 5o, XXXV e LXXVIII, da CF.
+Recurso tempestivo (id 106241950) e preparado (id 106162495).
+Contrarrazões no id 110133469.
+É o relatório.
+Decido.
+Da sistemática de repercussão geral - Tema 339/STF.
+Consoante se verifica da tese recursal, a suposta violação ao artigo 93, IX, da CF, está amparada na alegação de que “o V. Acórdão recorrido deixou de enfrentar os argumentos trazidos ao processo, incidindo, portanto, em vício. Isso porque, ao contrário do entendimento esposado na decisão guerreada, inexiste nexo causal entre qualquer conduta da Recorrente e os fatos narrados”.
+No julgamento do AI 791292 QO-RG/PE (Tema 339), o Supremo Tribunal Federal concluiu que a Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+Confira-se a ementa do julgado:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5o e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”. (AI 791292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, p. 113-118). (g.n)
+Nesse contexto, do exame do acórdão recorrido, verifica-se que o órgão fracionário deste Tribunal manifestou-se expressamente em relação à referida questão, o que está em consonância com o entendimento firmado no Supremo Tribunal Federal.
+Com efeito, constou do acórdão, in verbis:
+“Nas razões recursais, a ré/apelante repete debilmente que a recusa do recebimento da mercadoria transportada pela autora em 15/05/2017 se deu no exercício regular de seu direito, pois, nesta data, o veículo Scania Placa ASL9840 contratado para realizar o transporte da mercadoria, estava bloqueado no sistema do terminal ferroviário da ré/apelante, em razão de que o mesmo caminhão tentou embarcar no terminal da ré em 07/04/2017, com produto ‘fora dos padrões de qualidade’, apresentando sinais de apodrecimento, fato que foi registrado por meio do Boletim de Ocorrência datado em 10/04/2017 (cf. Id. no 78996080).
+Em contrapartida, nada disse a ré/apelante RUMO sobre o fato pontual e decisivo destacado pela r. sentença de que ‘os fretes realizados pela autora, foram contratados por empresas distintas onde os produtos transportados, também, possuem origem diversa’ (cf. Id. no 78996157 – Pág. 2).
+Ora, ainda que a Empresa de Transporte Rodoviário de Cargas (ETC) e o Transportador Autônomo de Cargas (TAC), assumam perante o contratante ‘a responsabilidade pelos prejuízos resultantes da perda, danos ou avarias às cargas sob sua custódia, assim como pelos decorrentes de atrasos em sua entrega’ (art. 7o, inciso II, da Lei 11.442/2017 que dispõe sobre o transporte rodoviário de cargas), o fato isolado ocorrido em 07/04/2015 nada poderia influenciar no embarque das mercadorias no dia 15/05/2015, salvo se a ré/apelante comprovasse a existência de investigação criminal em trâmite determinando-a que se abstivesse do recolhimento de qualquer mercadoria daquele veículo em específico (Scania – Placa ASL9840) ou de outro que pertencesse a frota da transportadora/apelada, ou, ainda, demonstrasse que, naquela ocasião, em 15/05/2017, os produtos não se apresentavam dentro dos padrões de qualidade necessários para que fossem recebidos no terminal rodoviário da RUMO, o que nem de longe foi sequer alegado pela apelante, quanto mais comprovado’.”. (id 94845454 - Pág. 6/7)
+Não há, então, vício no acórdão ora embargado, porque houve decisão clara a respeito, estando o acórdão recorrido em conformidade com a orientação do STF, o que obsta o seguimento do recurso, por aplicação da sistemática de precedentes.
+É o caso, pois, de se negar seguimento ao recurso, com fundamento no artigo 1.030, I, “b”, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da deficiência de fundamentação (Súmula 284 do STF)
+Na interposição do recurso extraordinário, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo constitucional violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+A propósito:
+“EMENTA: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. HORAS EXTRAS. PAGAMENTO DENTRO DO PROGRAMA JORNADA EXTRAORDINÁRIA DE SEGURANÇA – PJES. LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. ENUNCIADOS 279 E 280 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DO ENUNCIADO 284 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO DESPROVIDO.
+1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a análise de matéria infraconstitucional local, bem como para o reexame dos fatos e das provas constantes dos autos (Súmulas 280 e 279 do STF).
+2. O recurso extraordinário é inadmissível quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia, ex vi do enunciado 284 da Súmula do Supremo Tribunal Federal. Precedentes: ARE 1.185.152-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 29/05/19; ARE 707.173AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 23/04/15; ARE 822.208-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 10/12/14.
+3. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4o, do CPC), caso seja unânime a votação.
+4. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2o e 3o e a eventual concessão de justiça gratuita”. (ARE 1338457 AgR, Relator(a): LUIZ FUX (Presidente), Tribunal Pleno, julgado em 04/11/2021, PROCESSO ELETRÔNICO DJe-230 DIVULG 19-11-2021 PUBLIC 22-11-2021). (g.n.)
+Dessa forma, quanto à alegação de ofensa ao ao artigo 5o, XXXV e LXXVIII, da CF, conclui-se pela inadmissão do recurso, porquanto o recorrente limitou-se a reproduzir os dispositivos legais supostamente violados, sem, no entanto, ter demonstrado de forma precisa e concreta a contrariedade alegada e como esta teria ocorrido, impossibilitando, consequentemente, a exata compreensão da matéria apresentada.
+Ante o exposto:
+a) inadmito o recurso especial e o recurso extraordinário, com fundamento no artigo 1.030, V, do CPC; e
+b) nego seguimento ao recurso extraordinário com fundamento no artigo 1.030, I, “b”, do CPC (Tema 339).
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
