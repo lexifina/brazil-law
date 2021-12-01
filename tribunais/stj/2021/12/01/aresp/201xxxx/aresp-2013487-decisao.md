@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por FUNBEP - FUNDO DE PENSÃO MULTIPATROCINADO em face da decisão acostada à fl. 1252/1268,e-STJ, que, em juízo prévio de admissibilidade, negou seguimento aorecurso especial manejado pela ora agravante.
+Na oportunidade, assentou a Corte local que seria aplicáveis ao caso asSúmulas 284 do STF, 7 e 83 do STJ, por ausência de indicação de qual dispositivo infraconstitucional teria sido violado e dada a necessidade de revolvimento de matéria fáticapara o acolhimento do recurso especial. Pontuou-se, ademais, que aorientação contida no acórdão recorrido estaria alinhada ao entendimentodo STJ.
+Inconformado, interpôs a sucumbente presente agravo em recurso especial(fls 1282/1294, e-STJ), no qual aduz estar a matéria prequestionada e não ser caso de revolvimento de matéria fática.
+Contraminuta a fls. 1297/1303, e-STJ.
+É o relatório.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Consoante entendimento desta Corte, nos termos do supracitado preceito,compete à parte recorrente infirmar todos os fundamentos da decisãoagravada, sob pena de não conhecimento do reclamo, nos termos do artigo932, inc. III, do CPC/15.
+No ponto, destaca-se, outrossim, a existência do óbice enunciado na Súmula182 do STJ, a saber: É inviável o agravo do art. 545 do CPC/73 que deixade atacar especificamente os fundamentos da decisão agravada".
+A propósito:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. RAZÕESRECURSAIS QUE NÃO TRATAM DOS ARGUMENTOS DA DECISÃO QUE INDEFERIULIMINARMENTE OS EMBARGOS DE DIVERGÊNCIA. SÚMULA 182/STJ. AUSÊNCIA DEPEDIDO DE REFORMA DA DECISÃO AGRAVADA. PRINCÍPIO DISPOSITIVO. RECURSO NÃOCONHECIDO.
+1. Os agravantes não enfrentaram em seu recurso o fundamento da decisãoagravada, que estabeleceu serem incabíveis embargos de divergência contradecisão monocrática, nem formularam pedido para sua reforma.
+2. Para se viabilizar o conhecimento do agravo regimental, sobretudodiante do princípio da dialeticidade, é necessário que se impugnemespecificamente todos os fundamentos da decisão agravada, o que nãoocorreu na hipótese em exame. A decisão objurgada permanece incólume eatrai o Verbete Sumular n. 182 do STJ.
+3. O princípio dispositivo impõe que a parte recorrente formule pedido dereforma da decisão recorrida, sob pena de não conhecimento do recurso.
+4. Agravo regimental não conhecido.(AgRg nos EAREsp 623.863/RS, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL,julgado em 21/10/2015, DJe 20/11/2015)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA. FALTA DE IMPUGNAÇÃOA TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. MANIFESTA INADMISSIBILIDADE.DESISTÊNCIA PARCIAL. IMPOSSIBILIDADE.
+1. Nos termos do art. 1.042 do CPC/15 c/c 253, parágrafo único, I doRISTJ, incumbe ao agravante o ônus de impugnar, especificamente, todos osfundamentos da decisão proferida pelo Tribunal de origem com o intuito de"destrancar" o recurso especial inadmitido, permitindo, assim, o examedeste pelo STJ.
+2. O agravo é apenas o meio idôneo a viabilizar o juízo definitivo deadmissibilidade por este Tribunal, quando inadmitido na origem o recursoespecial. Desse modo, há uma vinculação do primeiro com o segundo, de modoque, na sistemática de julgamento, o agravo deve ser sempre analisado comos olhos voltados para a admissibilidade do recurso especial e não para oacórdão recorrido.
+3. A partir de tais premissas, é possível inferir que não há como oagravante restringir o efeito devolutivo horizontal do agravo porque esseefeito já foi previamente delimitado pelos fundamentos da decisão exaradapelo Tribunal de origem.
+4. O ordenamento jurídico admite que a parte inconformada recorra,parcialmente, de uma decisão, e, ainda, que o órgão julgador conheça, emparte, do recurso interposto. Não há, entretanto, qualquer previsão queautorize a desistência parcial, tácita ou expressa, do recurso especialapós sua interposição.
+5. É manifestamente inadmissível o agravo que não impugna, de maneiraconsistente, todos os fundamentos da decisão agravada.
+6. Agravo interno no agravo em recurso especial não provido.(AgInt no AREsp 727.579/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA,julgado em 12/12/2017, DJe 19/12/2017)
+No caso em comento, verifica-se que o insurgente, no bojo de seu agravo(art. 1.042 do CPC/2015), reafirma as teses dispostas norecurso especial, alega estar prequestionada a matéria e não ser caso de incidência das Súmulas 5 e 7 do STJ, sem atacar, de modo preciso todos os fundamentado, osfundamentos utilizados pelo Tribunal local para inadmitir o apelo, quaissejam, a incidência das Súmulas 284 do STF e 83 do STJ.
+Destaque-se, por oportuno, que, de acordo com a jurisprudência destaCorte, a impugnação da aplicabilidade ao caso da Súmula 83/STJ exige aapresentação de precedentes, contemporâneos ou supervenientes aosreferidos na decisão agravada, que demonstrem que outra é a orientaçãojurisprudencial nesta Corte Superior. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 182 DOSUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA Nº 83/STJ
+1. Não pode ser conhecido o recurso que não infirma especificamente osfundamentos da decisão agravada, atraindo o óbice da Súmula nº 182 doSuperior Tribunal de Justiça.
+2. Inadmitido o recurso especial na origem com base na Súmula nº 83/STJ,incumbe à parte agravante indicar, na petição de agravo em recursoespecial, os precedentes contemporâneos ou supervenientes aos referidos nadecisão agravada, de forma a demonstrar que outra é a orientaçãojurisprudencial nesta Corte Superior. Precedentes do STJ.
+3. Agravo interno não provido.(AgInt no AREsp 700.771/SE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA,TERCEIRA TURMA, julgado em 02/02/2017, DJe 08/02/2017)
+AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. LIQUIDAÇÃO. AN DEBEATUR.IMPOSSIBILIDADE. SÚMULA N. 83/STJ. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJE ART. 932, III, DO CPC.
+1. Para impugnar a decisão agravada que adota julgado desta Corte comorazões de decidir cabe à parte recorrente demonstrar que outra é apositivação do direito na jurisprudência desta Corte, com a indicação deprecedentes contemporâneos ou supervenientes.
+2. Não havendo impugnação específica acerca de todos os fundamentos dadecisão que deixou de admitir o recurso especial, deve ser aplicado, poranalogia, o teor da Súmula 182 deste Tribunal Superior.
+3. Agravo interno a que se nega provimento.(AgInt no AREsp 1182583/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTATURMA, julgado em 18/10/2018, DJe 23/10/2018)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA -PRESCRIÇÃO - TERMO INICIAL - ENTRADA EM VIGOR DO NOVO CÓDIGO CIVIL -DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ.
+1. "É inviável o agravo do art. 545 do CPC/73 que deixa de atacarespecificamente os fundamentos da decisão agravada" (Súmula 182/STJ).Inteligência, outrossim, do disposto no artigo 1.021, § 1º, do NCPC.
+2. "Quando o inconformismo excepcional não é admitido com fundamento noenunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnaçãodeve indicar precedentes contemporâneos ou supervenientes aos mencionadosna decisão combatida, demonstrando-se que outro é o entendimentojurisprudencial desta Corte. (Cf. AgRg nos EDcl no REsp 1494189/DF, Rel.Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/02/2016,DJe 03/03/2016)
+3. Agravo interno não conhecido.(AgInt no AREsp 816.995/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA,julgado em 14/02/2017, DJe 20/02/2017)
+Nesse sentido, diante da ausência de impugnação a todos os fundamentosque sustentam o juízo de inadmissibilidade do apelo nobre firmado peloTribunal local, inviável o conhecimento do agravo.
+2. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ,não conheço do agravo. Por conseguinte, nos termos do art. 85, § 11, doCPC/2015, majoro em 10% (dez por cento) o valor dos honoráriosadvocatícios arbitrados na origem.
+Publique-se.
+Intimem-se.
