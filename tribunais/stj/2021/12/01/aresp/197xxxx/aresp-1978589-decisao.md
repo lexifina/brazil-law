@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto por EMPORIO PAULISTA DE LINGERIES LTDAem face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"TÍTULOS DE CRÉDITO - DUPLICATAS - Emissão de títulos para cobrança de mercadorias entregues em consignação e vendidas - Alegação de irregularidade na emissão dos títulos no ano de 2016, por se tratar de cobrança de mercadorias vendidas no ano de 2011 - Alegação de ocorrência de prescrição - Ônus da prova que incumbia à autora - Falta de comprovação, pela autora, de que a venda da mercadoria objeto de cobrança ocorreu em 2011 - Ausência de prova do pagamento dos títulos - Dívida remanescente - Ação improcedente - Sentença ratificada nos termos do art. 252 do RITJSP - RECURSO NÃO PROVIDO." (fl. 380)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, aora agravante aponta violação aos arts. 1º, § 1º e 5º, § 1º da Lei nº 5474/68e divergência jurisprudencial, sustentando, em síntese, (a) a irregularidade da duplicata, pois não guarda correspondência com as notas fiscais e(b)divergência jurisprudencial quanto à nulidade do título de crédito em havendo discrepância entre a nota fiscal e a duplicata.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Quanto à exequibilidade da duplicata, dispôs o Tribunal de origem:
+A r. sentença ora impugnada deu adequada solução à demanda e merece prevalecer por seus próprios fundamentos:
+ ..
+A partir da análise dos documentos constantes nos autos, percebe-se a fragilidade da relação comercial estabelecida entre as partes, que sequer utilizaram-se de meios adequados para delimitar a relação jurídica entre elas, muito menos exercer efetivo controle sobre a administração do pacto (verbal) que celebraram. As respectivas obrigações foram totalmente negligenciadas pelas partes, o que dá azo à inúmeras controvérsias.
+As partes divergem, fundamentalmente, sobre o momento em que (e se) ocorreu a venda dos produtos fornecidos em 2011.
+Com relação aos produtos em consignação, apenas duas situações são possíveis: 1) venda dos produtos; 2) não ocorrência de venda dos produtos.
+Nessa ordem de ideias, se vendidos os produtos, deveria a autora pagar por eles; se não vendidos, deveria a autora devolvê-los.
+Pois bem.
+Aduz a autora que a requerida enviou mercadoria em setembro de 2011, a qual foi vendida naquele ano e que não houve a cobrança desta mercadoria.
+Alega que houve reposição que foi cobrada, mas, não a originalmente enviada.
+Evidente que o ônus de comprovar o cumprimento das obrigações assumidas em contrato competia à parte autora, nos termos do artigo 373, I, do NCPC.
+No entanto, nenhum documento foi acostado à inicial para comprovar o alegado. Ademais, em fase de especificação de provas, a autora requereu o julgamento antecipado da lide.
+Portanto, a autora não comprovou que a venda da mercadoria objeto da cobrança ocorreu em 2011. Na medida em que não comprovada a venda da mercadoria no ano de 2011, presume-se legítima a cobrança descrita no título de crédito, cuja emissão de duplicata ocorreu em 07/04/2016 e seu vencimento se deu em 21/04/2016 (fls. 43/45). Por via lógica de consequência, não ocorrida a prescrição trienal.
+Independentemente do quanto acima exposto, observe-se que a autora confessa que não pagou pela mercadoria originalmente enviada, afirmando, estranhamente, que "por imposição da lei deveria a Requerida, após a constatação da sua funcionária de quais mercadorias foram vendidas, ter emitido a nota de venda da mercadoria entregue em consignação e não nota de venda da reposição, como fez. Se tinha a intenção de manter a consignação deveria ter emitido outra nota envio de mercadoria em consignação e maisuma vez vendida a mercadoria a nota fiscal e respectiva duplicata".
+Não só a requerida tinha obrigação legal, mas a própria autora. Adotar entendimento diverso contrariaria a boa-fé e os seus deveres anexos. ..
+Desse modo, não resta comprovada a ocorrência de venda dias após a emissão da nota fiscal de 2011, mas há indícios, por conta da duplicata, de que tal venda ocorreu na data afirmada pela ré.
+ ..
+Diante da regularidade formal dos títulos sacados pela requerida, caberia à requerente, ora apelante, comprovar a situação fática alegada de que as mercadorias constantes das notas fiscais emitidas no ano de 2016 na verdade foram recebidas em consignação e vendidas no ano de 2011 e, na ocasião, não houve a cobrança por parte da requerida.
+Assim, as alegações da recorrente restaram isoladas nos autos, desacompanhadas de outros elementos que conferissem veracidade à sua narrativa, remanescendo como solução adequada ao presente caso a manutenção da r. sentença por seus próprios e jurídicos fundamentos. (fls. 380/382)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, quanto à emissão regular da duplicata,exigiria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 deste Pretório.
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE DUPLICATAS. TABELA PRÁTICA PARA CÁLCULO DE ATUALIZAÇÃO MONETÁRIA DE DÉBITOS JUDICIAIS, FORNECIDA PELA CORREGEDORIA DE JUSTIÇA DO ESTADO DE MINAS GERAIS. DOCUMENTO DISPENSÁVEL PARA AJUIZAMENTO DA EXECUÇÃO.COMPROVAÇÃO DO NEGÓCIO SUBJACENTE. REEXAME DE FATOS E PROVAS.IMPOSSIBILIDADE. REFORMATIO IN PEJUS. AUSÊNCIA DE PREQUESTIONAMENTO.AGRAVO NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, somente são indispensáveis à propositura da ação os documentos que dizem respeito às condições da ação ou a pressupostos processuais e os que se vinculam diretamente ao próprio objeto da demanda ou existência ou extensão da relação jurídica estabelecida entre as partes, o que não é o caso dos autos, em que o documento apontado, além de ser público e de fácil acesso à recorrente, constitui mero manual para elaboração de cálculos.
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que houve a efetiva compra e venda das mercadorias e prestação dos serviços pela recorrida, inclusive com os comprovantes de recebimento devidamente assinados. A modificação de tal entendimento é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1632673/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/03/2020, DJe 02/04/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AUTORA. 1. Reconhecida na origem a existência de relação negocial subjacente ao saque das duplicatas, de modo a patentear a causa debendi que dá sustentáculo à cambial, não há se falar em vício formal do título e, por consequência, na desconstituição do débito por ele representado.
+2. A constatação de que o negócio jurídico não se consumou exige o reexame da conjunto fático-probatório, o que é vedado em sede de recurso especial, em decorrência do enunciado da Súmula 7 do STJ. 3.
+Agravo interno desprovido.
+(AgInt no AREsp 1229116/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/10/2018, DJe 26/10/2018)
+Por fim, verifica-se que o alegado dissenso pretoriano não restou comprovado em razão do descumprimento do disposto nos arts. 541, parágrafo único, do CPC/73 e 255, § 2º, do RISTJ.
+Com efeito, para a caracterização da sugerida divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos mencionados dispositivos.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Segundo a jurisprudência do STJ, é irrecorrível o despacho de mero expediente que não acarreta prejuízo para as partes. Incidência da Súmula 83/STJ. Precedentes.
+1.1. O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação. Hipótese em que não se vislumbra excepcionalidade que autorize o manejo de recurso em situação não prevista na listagem do supracitado artigo.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. Precedentes.
+3. No caso, a recorrente não logrou demonstrar a divergência jurisprudencial nos moldes exigidos pelos artigos 1.029, § 1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ. Isto porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio.
+4. Agravo interno desprovido.
+(AgInt no REsp 1859000/RO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/05/2021, DJe 28/05/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. APONTAMENTO DE VIOLAÇÃO AOS ARTS. 1º, 7º, 9º, 18 e 19 DA LEI COMPLEMENTAR 109/2001. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DIRETA E INEQUÍVOCA DOS TERMOS DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. INTERPRETAÇÃO DE CLÁUSULA DO INSTRUMENTO CONTRATUAL. IMPOSSIBILIDADE. SÚMULA 5 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO E DE SIMILITUDE.
+1. A tese de violação aos arts. 1º, 7º, 9º, 18 e 19 da Lei Complementar n. 109/2001 não pode ser apreciada, em virtude da ausência de prequestionamento. Incidência dos enunciados previstos nas Súmulas 282 e 356 do STF.
+2. A ausência de impugnação direta, inequívoca e efetiva dos fundamentos do acórdão recorrido, fato que, por si só, é suficiente para a subsistência do decisum, atrai a incidência, por analogia, da Súmula 283/STF.
+3. O acolhimento da pretensão recursal de remessa dos autos ao perito para refazer os cálculos considerando a nova DRM tendo em vista o regulamento da recorrente, e sob pena de enriquecimento ilícito dos recorridos, demandaria a interpretação de cláusulas contratuais, o que é inviável nesta via especial, ante o óbice da Súmula 5 do STJ.
+4. Na hipótese em exame, o dissídio jurisprudencial não foi demonstrado, uma vez que a parte recorrente se limitou a citar acórdãos trazidos como paradigmas, sem realizar o necessário cotejo analítico e sem demonstrar a similitude, em desatenção, portanto, ao disposto na legislação processual pátria e no Regimento Interno do Superior Tribunal de Justiça.
+5. Agravo interno não provido.
+(AgInt no AREsp 1587378/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/03/2021, DJe 05/04/2021)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 1.500,00para R$ 1.650,00.
+Publique-se.
