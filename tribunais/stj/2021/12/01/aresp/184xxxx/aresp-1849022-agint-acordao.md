@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se deagravo de instrumento, interposto contra decisão interlocutória, que, nos autos da ação anulatória de débito fiscal, deferiu em parte medida liminar em tutela de urgência, no sentido de determinar a expedição da Certidão Positiva com Efeitos de Negativa, alterar a situação cadastral da agravada para "ativo regular, ordenar que o Estado do Pará se abstenha de reter apreender as mercadorias da autora nas barreiras fiscais. No Tribunal a quo,a decisão foi parcialmente cassada, conforme a seguinte ementa do acórdão:
+AGRAVO DE INSTRUMENTO AÇÃO ORDINÁRIA TUTELA DE URGÊNCIA DÉBITO FISCAL ICMS AQUISIÇÃO DE MATERIAL PARA USO DE CONSUMO DA EMPRESA CADASTRADA EM ATIVO NÃO REGULAR AUSÊNCIA DE GARANTIA DO JUÍZO EXPEDIÇÃO DE CERTIDÃO POSITIVA COM EFEITO NEGATIVA CAUÇÃO NÃO COMPROVAÇÃO ALTERAÇÃO CADASTRAL DA EMPRESA PARA ATIVO REGULAR PRELIMINAR DE OFÍCIO ACOLHIDA APREENSÃO DE MERCADORIA NÃO CABIMENTO APLICAÇÃO DA SÚMULA 323 DO STF PROTESTOS DOS CRÉDITOS TRIBUTÁRIOS POSSIBILIDADE
+No recurso especial, a parte alega violação do art. 116, I, do CTN, bem como aponta divergência jurisprudencial, no que concerne à: I) determinação para o Estado do Pará promover a alteração da situação cadastral da recorrente para "ativo regular", garantindo a expedição de certidão de regularidade fiscal; e II) não realização tanto de apreensões de mercadorias com finalidade arrecadatória quanto de protestos dos créditos exclusivamente discutidos na ação de origem.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários à decisão recorrida.
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. TUTELA DE URGÊNCIA. DÉBITO FISCAL. ICMS. AQUISIÇÃO DE MATERIAL PARA USO DE CONSUMO DA EMPRESA CADASTRADA EM ATIVO NÃO REGULAR.REEXAME DE LIMINAR. NÃO CABIMENTO. SÚMULA 735/STF.
+I - Na origem, trata-se de agravo de instrumento, interposto contra decisão interlocutória, que, nos autos da ação anulatória de débito fiscal, deferiu em parte medida liminar em tutela de urgência, no sentido de determinar a expedição da Certidão Positiva com Efeitos de Negativa, alterar a situação cadastral da agravada para "ativo regular, ordenar que o Estado do Pará se abstenha de reter apreender as mercadorias da autora nas barreiras fiscais. No Tribunal a quo, a decisão foi parcialmente cassada.
+II - É firme a orientação jurisprudencial do Superior Tribunal de Justiça acerca da impossibilidade de rever, em recurso especial, os fundamentos de existência ou não dos requisitos suficientes para a concessão de medida urgente, em razão do óbice do enunciado n. 7 da Súmula do STJ, bem como, por analogia, do enunciado n. 735 da Súmula do do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar." Nesse sentido: AgInt no REsp 1.813.658/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/10/2020, DJe 22/10/2020; AgInt no REsp 1.755.457/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/9/2020, DJe 14/10/2020.
+III - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+É firme a orientação jurisprudencial do Superior Tribunal de Justiça acerca da impossibilidade de rever, em recurso especial, os fundamentos de existência ou não dos requisitos suficientes para a concessão de medida urgente, em razão do óbice do enunciado n. 7 da Súmula do STJ, bem como, por analogia, do enunciado n. 735 da Súmula do do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar."Nesse sentido: AgInt no REsp 1.813.658/RS, relatorMinistro OgFernandes, SegundaTurma, julgado em 13/10/2020, DJe 22/10/2020; AgInt no REsp 1.755.457/RJ, relatorMinistro HermanBenjamin, Segunda Turma, julgado em 28/9/2020, DJe 14/10/2020.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
