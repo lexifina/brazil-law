@@ -1,0 +1,28 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+EMBARGOS DE DECLARAÇÃO No 1016436-05.2021.8.11.0000
+EMBARGANTE: VILMAR RIEDIGER.
+EMBARGADA:AGCO DO BRASIL SOLUCOES AGRICOLAS LTDA.
+DECISÃO MONOCRÁTICA – EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO – CUMPRIMENTO DE SENTENÇA – PENHORA DE ATIVOS FINANCEIROS NOS AUTOS PARA SATISFAÇÃO DO CRÉDITO EXEQUENDO – CONTROVÉRSIA ACERCA DA TEMPESTIVIDADE DA IMPUGNAÇÃO, NULIDADES DE INTIMAÇÃO E POR FALTA DE FUNDAMENTAÇÃO E, AINDA, DE DIVERGÊNCIA DE VALORES EM LAUDO PERICIAL HOMOLOGADO PELO JUÍZO – PREJUÍZO EVIDENCIADO – LIMINAR DEFERIDA – INCONFORMISMO QUANTO À TESE ADOTADA – PRETENSÃO DE REDISCUTIR A MATÉRIA – IMPOSSIBILIDADE – ADVERTÊNCIA – RECURSO REJEITADO.
+O artigo 1.022 do Código de Processo Civil dispõe que os embargos de declaração têm a finalidade de expungir do julgado eventual omissão, contradição ou obscuridade, além de possibilitar a correção de erro material, não se destinando a sanar eventual inconformismo, tampouco o reexame de matéria já decidida.
+DECISÃO MONOCRÁTICA
+Trata-se de embargos de declaração opostos por VILMAR RIEDIGER, contra a decisão monocrática deste Relator que, nos autos do RAI no 1016436-05.2021.8.11.0000, deferiu o pedido liminar para suspender a decisão agravada até o julgamento final do recurso, autorizando a imediata restituição dos valores eventualmente bloqueados à empresa titular, ora embargada. (Id. 102075983).
+Em suas razões, de Id. 103138479, o embargante sustenta que a decisão embargada é obscura e omissa porque: (i) “a questão afeta à solicitação de reabertura de prazo já é matéria acobertada pelo manto da coisa julgada e isso não foi considerado na decisão liminar atacada.”, (ii) “considerou possível a análise e reconhecimento de ofício pelo juízo, mesmo sem a devida provocação tempestivamente pelas partes, de “suposta” discrepância de valores apontados na perícia, lastreado em preceito legal genérico da produção de prova.”,(iii) “não foi apreciada na decisão inaugural, a ausência de enfrentamento dos fundamentos da decisão atacada.”
+Requer, assim, o acolhimento dos embargos para que sejam sanadas as alegadas omissões e obscuridades existentes no julgado e, ao final, após o enfrentando da preliminar de ausência de dialeticidade recursal suscitada em sede de contrarrazões, negar seguimento ao presente agravo, nos termos do art. 932, III do CPC.
+As contrarrazões foram ofertadas, no Id. 104919962, pela rejeição do recurso.
+Eis os relatos necessários.
+Fundamento e DECIDO.
+Os embargos de declaração são cabíveis somente quando houver, na sentença ou no acórdão, obscuridade, omissão ou contradição, não sendo viável a sua oposição com o escopo único de prequestionamento ou reapreciação do julgado, salvo nos casos em que se constate quaisquer dos vícios apontados e a correção destes leve à modificação da decisão embargada. Admite-se, ainda, a possibilidade de acolher os embargos para correção de eventual erro material identificado (art. 1.022 do CPC).
+Ao que se infere das razões, é que a parte embargante entendeu perfeitamente o desfecho dado na decisão e apenas reagita questão sedimentada, por não se conformar com o resultado obtido.
+Confira-se os trechos pertinentes:
+“Restou evidenciada, a priori, a plausibilidade do direito do agravante, tendo em vista a necessidade se apurar a tempestividade da impugnação ofertada ao laudo pericial, uma vez que quando da intimação os prazos estavam suspensos e o acesso aos autos físicos não eram permitidos e a parte prontamente informou o Juízo a quo sobre referida condição e, inclusive, solicitou que fosse determinada nova abertura do prazo.
+Segundo, mesmo em caso de eventual a intempestividade da impugnação, compete ao magistrado valer-se de todos os meios legais disponíveis à busca da verdade real, nos exatos termos do art. 370 do CPC/2015, sendo permitido ao juiz quando constatado discrepância de valores apontados na perícia, remeter os autos para um novo especialista a fim de se dirimir a dúvida, sendo que, inquestionavelmente, a realização da perícia proporcionará novas informações, possibilitando a formação de juízo de certeza quanto ao valor devido, coerentes com o princípio da livre persuasão racional, que informa toda a atividade de produção de prova no processo pátrio.
+Com efeito, não podemos olvidar que o Supremo Tribunal Federal já deixou assentado que não se pode permitir “que o processo se transforme em um instrumento de estratégias totalmente divorciado dos seus princípios básicos, que são a busca da verdade real e a aplicação do direito.” (passagem da ementa do HC 100754/BA, Ministro LUIZ FUX, j. em 03/05/2011, Primeira Turma).
+Assim, por cautela e para evitar prejuízo imediato à recorrente, tendo em vista a possibilidade de eventual levantamento de valores e, ainda, com o fito de evitar a irreversibilidade da medida, determino a suspensão da decisão atacada até o julgamento final deste agravo, devendo ser imediatamente restituídos os valores eventualmente bloqueados para a empresa titular, ora agravante.”
+Desse modo, a toda evidência, há discordância da parte embargante com o posicionamento adotado na decisão. Assim, a reforma deve ser buscada mediante a interposição do recurso adequado, sendo absolutamente impertinente a pretensão articulada por meio de embargos declaratórios, os quais não se prestam à reanálise das questões já decididas.
+Com essas considerações, REJEITO os embargos de declaração.
+Por fim, advirto às partes que nova reiteração da tese aqui tratada ensejará a aplicação da sanção descrita no § 2o do art. 1.026 do CPC.
+Às providências.
+Des. DIRCEU DOS SANTOS
+Relator
