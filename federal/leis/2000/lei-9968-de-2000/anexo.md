@@ -1,1 +1,27 @@
 ANEXO I
+CARGO/DENOMINAÇÃO
+NÍVEL FUNCIONAL
+NÚMERO DE CARGOS
+Analista Judiciário
+Superior
+201
+Técnico Judiciário
+Intermediário
+204
+ANEXO II
+FUNÇÃO/NÍVEL
+NÚMERO DE FUNÇÕES
+FC 09
+21
+FC 08
+20
+FC 07
+12
+FC 05
+04
+FC 04
+126
+FC 02
+20
+FC 01
+02
