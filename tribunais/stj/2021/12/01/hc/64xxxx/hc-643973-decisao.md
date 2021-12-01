@@ -1,0 +1,16 @@
+DECISÃO
+JOSÉ EDUARDO DE LIMAalegasofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulono HC n.2235664-79.2020.8.26.0000.
+O recorrente está preso desde 19/2/2019, pela prática de roubo circunstanciado e organização criminosa.Neste writ, a defesa sustenta haver excesso de prazo na duração da prisão preventiva, bem como na remessa dos autos para a segunda instância a fim de que se julgue a apelação.
+Requer a concessão ao paciente do direito de aguardar o julgamento do recurso em liberdade, ainda que mediante cautelasdiversas.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus ou, subsidiariamente, pela denegação da ordem (fls. 104-108).
+Decido.
+O acusado foi preso preventivamente em 19/2/2019 pela prática dos crimes de roubo majorado e organização criminosa (fl. 22).Sobreveio sentença, em 19/11/2019, que condenou oréua 13 anos, 5 meses e 10 dias de reclusão, em regime inicial fechado, pelos delitos tipificados nos arts. 157, § 2º, I, II, IV e V, do Código Penal e 2º, §§ 2º e 3º, da Lei n. 12.850/2013.
+A defesa interpôs apelação em 13/2/2020, a qual ainda não havia sido remetida à Corte estadual. A alegação de excesso de prazo nasubida dos autos ao órgão recursal está prejudicada, uma vez que, em consulta ao site do TJSP, verificou-se que os autos foram remetidos em 6/10/2020.
+Passo, portanto, a analisar a tese defensiva de excesso de prazo na prisão preventiva do réu.
+É entendimento consolidado neste Superior Tribunal que os prazos indicados na legislação processual penal para a conclusão dos atos processuais não são peremptórios, de maneira que eventual excesso deve ser aferido dentro dos critérios da razoabilidade e da proporcionalidade, levando-se em conta as peculiaridades do caso concreto.
+Na hipótese, não é desproporcional o tempo de prisão- pouco mais de 2 anos e 9meses-, notadamente se considerado que, nesse período, houve a instrução do processo, com a prolação de sentença condenatóriafixando ao réu a pena de 13 anos, 5 meses e 10 dias de reclusão, bem como a interposição de recurso, o qual está concluso para julgamento desde 27/10/2021.
+A respeito do tema, a jurisprudência desta Corte Superior é firme ao asseverar que "o excesso de prazo em caso de demora no julgamento de apelação não se afere com base na soma aritmética dos prazos processuais, devendo ser examinadas as peculiaridades da causa, em especial o quantum da pena aplicada na sentença e a complexidade do feito" (AgRg no HC n. 626.530/CE, Rel.Ministro João Otávio de Noronha, 5ª T., DJe 13/8/2021, grifei).
+No mesmo sentido: AgRg no HC n. 634.368/RS (Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 16/8/2021), HC n. 653.177/RJ (Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 9/8/2021) e AgRg no HC n. 654.855/MG (Rel.Ministro Rogerio Schietti, 6ª T., DJe 13/8/2021).
+A despeito de os autos estarem conclusos há menos de dois meses, houve atraso na suaremessaao Tribunal a quo, razão pela qual deve ser recomendada a priorização do julgamento da apelação interposta pela defesa.
+À vista do exposto, julgo parcialmente prejudicado o habeas corpus e, na extensão conhecida, denego a ordem.Todavia, recomendo à Corte de origem que proceda ao julgamento do recurso de apelação.
+Publique-se e intimem-se.
