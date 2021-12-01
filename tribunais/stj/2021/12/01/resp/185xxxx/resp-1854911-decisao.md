@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULO SÉRGIO ALÇADA e OUTROS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no qual alegam violação do art. 23 da Lei n. 8.906/1994, do art. 85, § 14 do CPC/2015, e do art. 1.022 do CPC/2015, discutindo a legitimidade concorrente da parte e do advogado para interpor recurso com fim de majoração dos honorários advocatícios de sucumbência.
+Contrarrazões apresentadas por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL EURBANO DO ESTADO DE SÃO PAULO - CDHU (fls. 3626/3645).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 3418/3437):
+Por proêmio, não conheço o Recurso de Apelação de Paulo Sérgio Calçada e outros (fis. 285912885) e o Recurso de Apelação de Notre Dame Seguradora S. A. (fis. 296112965) por ilegitimidade recursal, pois tratando-se de apelação apenas para majoração de honorários advocatícios, caberia aos patronos dos apelantes se insurgir contra a decisão.
+Por ocasião do julgamento dos embargos de declaração, foi acrescido à fundamentação (fls. 3578):
+Os embargos de declaração de Paulo Sérgio Calçada e outros (fls. 3230//3238) devem ser parcialmente acolhidos apenas para a concessão dos benefícios da justiça gratuita. Pois, foi devidamente arguido em preliminar do recurso de apelação (fls.2859/2885). Assim, considerando ter a parte se manifestado em todo o processo, tendo inclusive interposto dois agravos de instrumento, como deferimento dos benefícios da justiça gratuita. Bem como, em razão da ausência de análise deste pedido, das declarações de pobreza (fls.311/362), fotos do local de fls.420/462 e por terem sido, os embargantes, admitidos como litisconsortes necessário e por serem possuidores da área objeto da presente lide, concedo os benefícios da justiça gratuita pleiteada por Paulo Sérgio Calçada e outros.
+No mais, a alegação de legitimidade recursal concorrente entre a parte e o advogado; entendo que os presentes embargos têm caráter visivelmente infringente, manifestando a não aceitação da decisão atacada, referem-se apenas a discordância do decidido e foge aos limites específicos dos embargos, cabíveis apenas quanto a sua expressão e não à sua rediscussão.
+Pois bem.
+Embora a lei atribua aos advogados os honorários advocatícios, a orientação deste Tribunal Superior é no sentido de ser concorrente a legitimidade recursal para discuti-los, ainda que após o início de vigência do CPC/2015. A respeito, confira-se:
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXTINÇÃO. AGRAVO DE INSTRUMENTO. HONORÁRIOS DE ADVOGADO. CPC DE 2015. LEGITIMIDADE RECURSAL CONCORRENTE DA PARTE E DO ADVOGADO.
+1. A regra do art. 99, §5º, do CPC, não trata da legitimidade recursal, mas da gratuidade judiciária e, notadamente, do requisito do preparo, deixando claro que, mesmo interposto recurso pela parte que seja beneficiária de gratuidade judiciária, mas que se limite a discutir os honorários de advogado, o preparo deverá ser realizado acaso o advogado também não seja beneficiário da gratuidade.
+2. Não há confundir esse requisito de admissibilidade com aquele relativo à legitimidade recursal concorrente da parte e do próprio titular da verba de discutir os honorários de advogado.
+3. A própria parte, seja na vigência do CPC de 1973, inclusive após o reconhecimento do direito autônomo dos advogados sobre a verba honorária, ou mesmo na vigência do CPC de 2015, pode interpor, concorrentemente com o titular da verba honorária, recurso acerca dos honorários de advogado.
+4. RECURSO CONHECIDO E PROVIDO.
+(REsp 1776425/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/06/2021, DJe 11/06/2021)
+No mesmo sentido, dentre outros: AgInt no REsp 1714481/DF, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 19/10/2020, DJe 22/10/2020; AgInt nos EDcl no REsp 1864129/MS, Rel. Ministro Gurgel De Faria, Primeira Turma, julgado em 24/08/2020, DJe 01/09/2020; AgInt nos EDcl no REsp 1869247/MS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 25/05/2020, DJe 28/05/2020.
+No caso dos autos, o recurso deve ser provido, com determinação de retorno dos autos para a análise e julgamento do recurso de apelação, uma vez que o órgão julgador a quo não o conheceu, por ilegitimidade de parte.
+Ante o exposto, dou provimento ao recurso especial, casso, em parte, o acórdão recorrido e determino o rejulgamento do recurso de apelação do ora recorrente.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS DO ADVOGADO. CONTROVÉRSIA RECURSAL. LEGITIMIDADE CONCORRENTE. ORIENTAÇÃO JURISPRUDENCIAL PACÍFICA. RECURSO PROVIDO.
