@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ARTHUR DE SIQUEIRA TORRES HENDERSONcontra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP) que inadmitiu seu recurso especial.
+Historiam os autos queARTHUR DE SIQUEIRA TORRES HENDERSON propôs "ação de obrigação de não fazer c/cindenização por danos morais" em desfavor do REVIVA - CONDOMÍNIO 2, "(..) afirmando que é morador do condomínio réu e, após o setor administrativo deste autorizar, contratou sociedade empresária para fazer o envidraçamento de sua sacada. Diz que, posteriormente, o réu não permitiu a realização do procedimento, sob a alegação de que somente o aceitaria com Anotação de Responsabilidade Técnica emitida pelo CREA. Requer, liminarmente, que o réu permita o ato. Pleiteia a condenação deste ao pagamento de indenização de danos morais" (fls. 354).
+O il. Juízo da 5ª Vara Cível da Comarca de Campinas/SP julgou o pedido procedente, conforme r. sentença da qual se decalca o seguinte excerto (fls. 355):
+"Em relação à obrigação de fazer, confirmo a antecipação de tutela deferida (fl. 105), posto que o envidraçamento da sacada foi feito.
+DISPOSITIVO: resolvo o mérito (art. 487, inciso I, do Código de Processo Civil) e ACOLHO os pedidos da autora, CONDENANDO a ré ao pagamento de R$ 10.000,00, a título de indenização de danos morais, e CONFIRMANDO a antecipação de tutela anteriormente deferida."
+(destaques no original)
+Inconformado, REVIVA - CONDOMÍNIO 2 interpôs apelação, que foiprovida nos termos do v. acórdão assim ementado (fls. 399):
+"APELAÇÃO. CONDOMÍNIO - Obra de envidraçamento de sacada de unidade - Exigência de ART pelo síndico - Obra já realizada - Aspecto resolvido - Danos morais não configurados - A simples exigência, pelo síndico, de documento destinado à aprovação de determinada obra a ser realizada em unidade integrante do condomínio não tem potencial de causar abalo psicológico ou moral - Verba excluída - Sentença reformada no ponto. - Recurso provido."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 433-436).
+Irresignado, ARTHURDE SIQUEIRA TORRES HENDERSON manejou recurso especial, no qual alega violação aosarts. 187 e 927 do Código Civil;art.373, I do CPC/15 e ao art. 3 da Lei de Introdução às Normas do Direito Brasileiro (LINDB), ao argumento, entre outros, de que a conduta do ora Recorrido acarretou abalo moral que deve ser indenizado. Assevera, também, que "(..)a conduta praticada pelo Recorrido de negar, injustificadamente, e de forma arbitrária e meramente burocrática, o direito ao Recorrente de envidraçar a sacada de seu apartamento, não encontrava respaldo nas normas aplicáveis e, em relação às normas que se aplicavam, o Recorrido alegou desconhecimento de legislação que não lhe seria plausível, nem dado, alegar desconhecer (criação do CAU, emissão de RRT por arquitetos, etc.)"(fls. 452).
+Alega, ainda, que o eg. TJ-SP, ao reconhecer a sucumbência, violou o art. 85 do CPC/15, pois "(..)o arbitramento dos honorários advocatícios sempre se dá sob a perspectiva da causalidade e nos limites (qualitativos e quantitativos) estabelecidos pela lei (CPC, art. 85, § 2º, incisos I a IV)" (fls. 453).
+Intimado, REVIVA - CONDOMÍNIO 2 apresentou contrarrazões (fls. 459-467), pelo desprovimento ao apelo nobre.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 468-469), motivando o manejo do agravo em recurso especial (fls. 472-496) em exame.
+Também foi apresentada contraminuta (fls. 499-509), pelo desprovimento do agravo.
+É o relatório. Passo a decidir.
+Inicialmente, infere-se que o conteúdo normativo do art. 3º da LINDB não foiprequestionadopelo eg. TJ-SP,não tendo sido opostos embargos de declaração para tal finalidade. Assim sendo, nessa parte, o apelo nobre encontra óbice nas Súmulas n. 282 e 356, ambas do col. STF, ante a ausência de prequestionamento. Nesse sentido, destacam-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANO MORAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DECISÃO MANTIDA.
+1. A simples indicação de dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1871270/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021- g. n.)
+"AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1839440/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/09/2020, DJe 24/09/2020 - g. n.)
+Avançando, no tocante à alegada ofensa aos arts.187 e 927 do Código Civil e ao art. 373, I do CPC/15, o eg. TJ-SP, com arrimo no acervo fático-probatório carreado aos autos, concluiu que a conduta do condomínio não geroudanos morais ao ora Recorrente, e, por tal razão, reformou a sentença, excluindo a condenação em indenização a título de danos morais. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 400-402):
+"No caso dos autos, pelo que é dado inferir dos fatos narrados na petição inicial, na contestação e considerada a documentação encartada, o condômino solicitou ao síndico autorização para realizar obra de envidraçamento da sua unidade e, ao que parece, tal obra já foi feita.
+Da notificação de fls. 90/91 e de sua resposta de fls. 95, é possível aferir que a discórdia, em princípio instalada, deveu-se à exigência de um laudo técnico e pelo fato de que também seria necessária uma ART (Anotação de Responsabilidade Técnica), não tendo sido aceito o Registro de Responsabilidade Técnica (RRT) firmado pelo arquiteto responsável pela obra.
+Jungida a discórdia em tais termos, tem-se quadro que é da rotina da vida de quem mora em Condomínio, e longe do que preconizou a sentença (cenário excessivamente burocrático), não se está, à toda evidência, diante de danos morais indenizáveis, porque não abusivas as exigências do Síndico.
+Cabe ao Síndico exigir os documentos relacionados à obra que se pretenda fazer em unidade integrante de condomínio edilício, e, no caso, a exigência não desbordou do ordinário e assim não tem potencial de gerar danos morais. Confira-se, a propósito, o comunicado enviado a todos os condôminos, relativamente às obras nas unidades, especificando as exigências gerais a serem observadas para a segurança dos edifícios, fls. 95.
+(..)
+Conclusivamente, a sentença deve ser reformada, pois verifica-se como lícita a solicitação do Síndico concernente à exibição de documentos relativos à obra que o condômino pretendia promover em sua unidade.
+Dá-se provimento ao recurso para julgar improcedente a pretensão e inverter os encargos de sucumbência, respondendo o autor pelas custas e honorários advocatícios majorados para 11% do valor da causa, nos termos do art. 85, §§ 2º e 11 do CPC."
+(g. n.)
+Nesse contexto, considerando as circunstâncias do caso concreto, a alteração do entendimento ora transcrito - para reconhecer que a condutado condomínio teria gerado danos morais ao ora Recorrente - seria necessário o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, consoante preconiza a Súmula n. 7/STJ.
+Por fim, no que pertine à ofensa ao art. 85 do CPC/15, aduz-se que o "(..)arbitramento dos honorários advocatícios sempre se dá sob a perspectiva da causalidade e nos limites (qualitativos e quantitativos) estabelecidos pela lei (CPC, art. 85, § 2º, incisos I a IV)" (fls. 453).Nesse contexto, a análise de tal alegação também demandaria revolvimento de matéria fático-probatória, atraindo, novamente a incidência da Súmula n. 7/STJ. Nesse sentido, destacam-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO (DPVAT). HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VALOR.REVISÃO. SÚMULAS 7 E 83 DO STJ. MULTA. AGRAVO INTERNO MANIFESTAMENTE INADMISSÍVEL. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção desta Corte Superior pacificou o entendimento de que o § 8º do art. 85, transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.Precedente: (REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe 29/03/2019).
+2. O reexame dos critérios fáticos levados em consideração para fixar os honorários advocatícios, em princípio, é inviável em sede de recurso especial, ante o teor da Súmula 7 do STJ.
+(..)
+4. Agravo interno não provido."
+(AgInt no REsp 1846629/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2020, DJe 18/12/2020 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DA EMBARGADA.
+1. Este Superior Tribunal possui entendimento firmado no sentido de que rever a proporção de vitória/derrota das partes na demanda, para aferir a sucumbência recíproca ou mínima, bem como a impossibilidade de condenação em custas e honorários advocatícios de sucumbência, ante o princípio da causalidade, implica em revisão de matéria fática e probatória, providência inviável de ser adotada, em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp 1351087/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/05/2019, DJe 03/06/2019 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a", do RI-STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
