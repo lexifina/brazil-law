@@ -1,0 +1,49 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por ALPHAVILLE SÃO JOSÉ DOS CAMPOS EMPREENDIMENTOS IMOBILÁRIOS LTDA e OUTRAcontra decisão do Tribunal de Justiça do Estado de São Pauloque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fls. 493-494):
+APELAÇÃO. Ação condenatória. Compra e venda de lote. Atraso na entrega. Procedência para condenar a vendedora na cláusula penal e no ressarcimento de despesas condominiais e IPTU. Inconformismo das partes. RECURSO DAS PROMITENTES VENDEDORAS. IIegitimidade passiva ad causam. Empresa participante da cadeia de consumo. Responsabilidade solidária por força do Código de Defesa do Consumidor. Preceptivos de seu Artigo7º, parágrafo único, e Artigo 25, §1º. Impossibilidade de se limitar a responsabilidade apenas ao valor retido comopagamento de sua atuação. Preliminar afastada. Alegado atraso decorrente de caso fortuito ante entravesadministrativosImpossibilidade. Entravesprevisíveis e inerentes à atividade desenvolvida. Justificativas que encerram"res inter alios acta" em relação ao compromissário adquirente. Dicção da Súmula nº 161, TJSP. Responsabilidade objetiva do fornecedor. Dever de indenizar. Preceptivo do artigo 927, parágrafo único, do CC e dos artigos 12 e 14 do CDC. Condenação mantida.
+Pagamento de taxas condominiais e IPTU. Impossível imputar aos compradores despesas condominiais e IPTU antes da entrega do imóvel. Custos somente devidos pelos promitentescompradores após a imissão na posse, uma vez que até entãonão há fruição dos serviços prestados. Precedentes do A. STJ. Restituição devida.
+RECURSO DO PROMITENTE COMPRADOR
+Condenação da ré a indenizá-lo por lucros cessantes. Impossibilidade. Vedação de cumulação com a cláusula penal. Tese fixada pelo A. STJ, em sede de recurso especial repetitivo, com caráter vinculante (Tema 970). Atendimento ao preceptivo do Art. 927, inciso III, do CPC. RECURSOS DESPROVIDOS
+Nas razões do recurso especial a parte alega ofensa aos arts. 113, 421e 422do CC/02, sustentando, em síntese, a necessidade de observância do princípio da pacta sunt servanda e uma vez "constatada a previsão contratual, descabido é afastar o pactuado entre Recorrente e Recorrido, uma vez que em momento algum tal informação não foi apresentada de forma obscura ao contratante, não infringindo em nenhum momento lei consumerista" (e-STJ, fl.518).
+Apresentadas as contrarrazões, sobrreveio juízo negativo de admissibilidade na origem, advindo, daí, o presente agravo (e-STJ, fls. 539-546).
+É o relatório.
+Passo a decidir.
+A insurgência recursal não prospera.
+Acerca da insurgência da parte recorrente sobre suaresponsabilidade pela inadimplemência contratual e o dever depagamento da multa e doIPTU e taxas associativas, dispôs o acórdão:
+Assim, restando incontroverso a mora das promitentes vendedoras, inegável o direito do autor em ver aplicada a cláusula penal, de forma a receber a multa de 10% do valor atualizado do preço de aquisição do lote, expressamente prevista para tal (cláusula dezessete, fls. 37) não se trata de cláusula genérica, mas de expressa previsão em caso de descumprimento contratual. Mister observar o que as partes livremente estipularam, em consonância ao princípio do pacta sunt servanda, até mesmo porque o valor fixado a título de multa está em plena sintonia com os valores indenizatórios fixados pela jurisprudência em caso de ausência de cláusula penal.
+Superada essa questão, insurge-se, ainda, a recorrente contra a determinação de restituição de taxas condominiais e impostos relativos a período anterior à entrega do bem. Concernente ao pedido de exclusão da condenação de restituir os valores desembolsados pelos autores a título de taxa condominiais e IPTU, sem razão também as rés-apelantes.
+O entendimento assente na jurisprudência é de que essescustos somente são devidos pelos promitentes compradores após a imissão na posse, uma vez que até então não há fruição dos serviços prestados.
+Assim, não imitido na posse do imóvel, o promitente comprador não tem a obrigação de arcar com esses custos. Acerca da impossibilidade de desconto dos débitos do imóvel antes da imissão na posse, já vem decidindo esta Colenda 6º Câmara de Direito Privado (..).
+Entretanto, da leitura das razões posta no apelo nobre, infere-se que as recorrentes, além de, terem se limitado a indicar genericamente que houve violação aos dispositivos legais elencados, não impugnaram especificamentequalquerfundamento em que se apoiou o Tribunal Estadual para justificar a condenção em discussão, atraíndo a aplicação, por analogia, das Súmulas 283 e 284/ STF.
+Ilustrativamente, confira-se o seguinte julgado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL EMBARGOS À EXECUÇÃO DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A alegação de afronta aos artigos 11 e 489 do CPC/15 se deu de forma genérica, tendo a parte se limitado a apontar a deficiência na fundamentação do acórdão, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação.Aplicação da Súmula 284 do STF, por analogia.
+2. Não cabe ao Superior Tribunal de Justiça, em sede de recurso especial, o exame de eventual ofensa a dispositivo da Constituição Federal, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+3. Na hipótese, o acolhimento da tese relacionada à suposta inexistência de simulação e à validade do contrato de mútuo somente poderia ter sua procedência verificada mediante o reexame das cláusulas pactuadas entre as partes, das circunstâncias fáticas pertinentes ao caso e das provas que instruem os autos, o que não se admite em recurso especial, diante da aplicação das Súmulas 5 e 7 desta Corte.
+4. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+5. ..
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1728069/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/06/2021, DJe 11/06/2021)g.n.
+Ademais, atítulo de esclarecimento, cumpre registrar ainda, que oentendimento firmado não destoa da atual jurisprudência doSTJ, segundo a qual,a responsabilidade pelo pagamento do IPTU incide a partir da efetiva posse do imóvel.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO CUMULADA COM DANOS MORAIS E MATERIAIS. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. RESPONSABILIDADE PELO PAGAMENTO DAS DESPESAS CONDOMINIAIS E DANOS MATERIAIS. SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Segundo o entendimento do STJ, "as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente", tendo em vista que, "apesar do IPTU ter como fato gerador a propriedade, o
+domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse"
+(AgInt no REsp 1.697.414/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe de 15/12/2017).
+2.  .. .
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1829925/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/02/2021, DJe 23/02/2021);
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. DESPESAS CONDOMINIAIS E IPTU. RESTITUIÇÃO. POSSIBILIDADE. ILEGITIMIDADE PASSIVA REJEITADA.IMPOSSIBILIDADE DE REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO NA HIPÓTESE. DECISÃO MANTIDA. AGRAVO INTERNO IMPROVIDO.
+1.  ..
+2. Segundo a jurisprudência do STJ, as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente. Isso porque, apesar de ter o IPTU como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse.
+3.  ..
+4. Agravo interno improvido.
+(AgInt nos EDcl no REsp 1839792/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/08/2020, DJe 17/08/2020)
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, majoro os honorários devidos pela parte ora recorrente em 2% sobre o valor fixado em segunda instância, observada a eventual anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento, com majoração de honorários.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. RESPONSABILIDADE DA VENDEDORA. PAGAMENTO DE MULTA CONTRATUAL E IPTU/TAXAS ASSOCIATIVAS. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVOS DE LEI. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULAS 283 E 284/STF. INCIDÊNCIA. ACÓRDÃO EM HARMONIA COM ENTENDIMENTO DO STJ.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL, NA PARTE CONHECIDA.
