@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por CÉLIO BATISTA DA SILVAcontra decisão assim ementada (e-STJ fl. 660):
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). EMBARGOS À EXECUÇÃO. DESPESAS DE CONDOMÍNIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DISPOSIIVOS SUPOSTAMENTE VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA, DESDE LOGO, CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+Nas razões do agravo, a parte agravante pugna pela modificação do julgado, deduzindo que houve sim negativa de prestação jurisdicional, pois o acórdão deixou de se manifestar acerca da aplicação do Tema 492/STF. Afirma que a agravada não é um condomínio regularmente constituído e não pode gerar obrigação compulsória ao agravante de pagar despesas. Aduz que não incide a Súmula 7/STJ, pois a questão é de direito e não envolve reexame de provas. Assevera que não incide a Súmula 7/STJ quer pela alínea "a" quer pela "c" do permissivo constitucional, pois o confronto de panorama fático não demanda reexame de provas.
+Foi apresentada impugnação ao recurso (e-STJ fls. 712-742).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). EMBARGOS À EXECUÇÃO. DESPESAS DE CONDOMÍNIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DISPOSIIVOS SUPOSTAMENTE VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não deve prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parte agravante, capaz de alterar os fundamentos da decisão agravada, faz subsistir incólume o entendimento nela firmado.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enuncia do Administrativo n. 3/STJ.
+Na hipótese, a decisão agravada foi assim proferida (e-STJ fls. 227-231):
+Trata-se de agravo interposto por CÉLIO BATISTA DA SILVA contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 258):
+EMENTA Embargos à execução. Despesas de condomínio. Irrelevância da falta de registro dos atos constitutivos do condomínio no cartório imobiliário. Particularidade de condomínio não deter personalidade jurídica não o impede de demandar e ser demandado no tocante aos assuntos de interesse da comunhão. Impossibilidade de em execução se discutir sobre validade de deliberação de assembleia, tema que deve ser levado à ação própria. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 285-287).
+Nas razões de seu recurso especial, além de divergência jurisprudencial, a parte recorrente sustenta vulneração aos arts. 17, II, e 330 e 1.022, II, do CPC; na medida em que o acórdão não se manifestou sobre questão de ordem relativa à inexistência de condomínio fechado, pois o Recreio Internacional foi registrado e aprovado como loteamento fechado. Aduz que o recorrido não tem personalidade jurídica de condomínio, por não estar regularmente registrado junto ao 2º C.R.I. de Ribeirão Preto. Entende que, ao considerar legais as cobranças realizadas por uma associação a um não associado, o acórdão viola os arts. 7º da Lei 4.591/1964; 1.333, 1.336 do CC, pois de acordo com jurisprudência consolidada em sede de repetitivo (Tema 882/STJ), indevida a cobrança de taxa de manutenção dos moradores e proprietários não associados ou que a ela não anuírem expressamente.
+Não foram apresentadas contrarrazões (e-STJ fl. 574).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 575-579), o que ensejou a interposição do presente agravo.
+É o relatório. Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+A irresignação não merece prosperar.
+Com efeito, quanto à apontada violação aos arts. 17, II, 330 e 1.022 do CPC, entendo que não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que (e-STJ fls. 259-260):
+O apelado ajuizou a execução para reclamar as contribuições condominiais ordinárias pertinentes ao imóvel de propriedade do apelante, que integra Condomínio Recreio Internacional, cujo rateio fora aprovado pela assembleia geral.
+De pronto se há de lembrar que de todo irrelevante se mostrava a particularidade de os atos constitutivos do condomínio não estarem arquivados no cartório imobiliário.
+Realmente, como se vê no artigo 1.336 da lei civil a obrigação de concorrer no rateio das despesas não resulta do registro, mas da própria comunhão, o que torna irrelevante a falta daquela medida.
+ ..
+Do mesmo modo, nem tem relevo a falta de registro da convenção condominial conforme resume a Súmula STJ nº 260:
+"A convenção de condomínio aprovada, ainda que sem registro, é eficaz para regular as relações entre os condôminos."
+Note-se, ainda, que a lei não confere ao condomínio personalidade jurídica, mas nem por isso ele deixa de ter o que se convencionou denominar de personalidade judiciária, que é a aptidão para em nome da comunhão e no interesse dela demandar e ser demandado.
+Disso decorre, pois, que não podiam mesmo ser acolhidas as objeções do embargante quanto a tais temas, cabendo consignar que as alegações atinentes ao regime associativo eram aqui impertinentes porque de associação não se cuidava.
+Certo, ainda, que nos embargos não se havia de questionar a validade da deliberação da assembleia que instituiu o condomínio, eis que enquanto não anulada por via própria ela detinha força vinculante.
+No acórdão integrativo, deixou expresso que (e-STJ fl. 287):
+O acórdão asseverou que a ausência de registro não isentava o embargante da obrigação de concorrer no rateio das despesas comuns (fls. 259).
+Ao lado disso ele consignou que não era caso de nos embargos à execução se aferir a validade da instituição do condomínio sob o aspecto formal, isto é, de se "questionar a validade da deliberação da assembleia que instituiu o condomínio, eis que enquanto não anulada por via própria ela detinha força vinculante."fls. 260).
+Ora, nesse contexto não havia mesmo o acórdão que se manifestar acerca da Lei 4.591/46 ou da Constituição federal relativamente ao aspecto aqui indicado pelo embargante, isto é, a validade daquela instituição do condomínio frente a esses diplomas.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Com relação à apontada violação ao art. 7º da Lei 4.591/1964, o recurso especial não pode ser conhecido, pois, sobre a matéria de que trata essa norma, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+No que tange ao art. 1.333 do CC, sequer se verifica presente o prequestionamento da matéria a ele relativa, porquanto não apreciada pelo julgado recorrido, revelando inclusive razões dissociadas do acórdão, sendo inviável o seu conhecimento nesta sede, nos termos das Súmulas 282 e 356/STF.
+No que diz respeito ao art. 1.336 do CC, o recurso não pode ser conhecido em razão da incidência, por analogia, da Súmula 283/STF.
+Na hipótese, o acórdão recorrido reconheceu, com fundamento no art. 1.336 do CC e na orientação desta Corte Superior enunciada na Súmula 260/STJ, que a ausência de registro da Convenção de Condomínio não isentaria o embargante da obrigação de concorrer no rateio das despesas comuns. Disse, ainda, que não se haveria de questionar a validade da instituição do condomínio sob o aspecto formal (validade da deliberação da assembleia que instituiu o condomínio) em sede de embargos à execução, pois tal deliberação tem força vinculante até que seja anulada por via própria.
+Entretanto, a recorrente argumentou, tão somente, que a convenção de condomínio não foi registrada e, por essa razão, não pode ser considerada condomínio e, como associação que é, não pode compelir a recorrente, não associada, a pagar taxa de manutenção.
+Tais argumentos não são aptos a refutar fundamento suficiente trazido pelo acórdão para indeferir seu pleito.
+Desse modo, a subsistência de fundamento não atacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, elidir as conclusões do aresto impugnado de que a hipótese dos autos não trata de associação, mas de condomínio, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Ressalto que os óbices das Súmulas 7 e 211/STJ, 282 e 283/STF aplicam-se tanto para a interposição do recurso com fundamento na alínea a do permissivo constitucional, quanto para a interposição com base em divergência jurisprudencial.
+Destarte, inviável a pretensão da recorrente.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada. Com base em tais premissas, a título de honorários recursais, sendo fixada inicialmente verba honorária em R$1.000,00 (e-STJ fl. 207), majorados pela Corte Estadual para R$1.500,00 (e-STJ fl. 260) a nova majoração dos honorários para R$2.000,00 é medida adequada à hipótese. Ônus suspensos, entretanto, na hipótese de assistência judiciária, nos termos do art. 98, § 3º, do CPC/2015.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para, desde logo, conhecer em parte do recurso especial e negar-lhe provimento.
+Intimem-se.
+Nas razões do agravo interno, a agravante insiste que houve negativa de prestação jurisdicional que não se manifestou acerca da incidência do Tema 492/STF, sem esclarecer, no entanto, qual a relevância do tema, considerando que o acórdão foi expresso no sentido de que a hipótese dos autos é de condomínio, consoante consta de decisão agravada.
+No mais, a agravante deixou de impugnar a incidência das Súmulas 211/STJ e 282/STF, no que tange à matéria dos arts. 7º da Lei 4.591/1964 e 1.333 do CC, respectivamente, tampouco impugnou a incidência da Súmula 283/STF, no que diz respeito ao art. 1.336 do CPC.
+Com relação à divergência, a agravante limita-se a sustentar que a Súmula 7/STJ não impede o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, não fazendo qualquer referência aos demais óbices apresentados que também impedem o conhecimento do recurso, como as Súmulas 211/STJ, 282 e 283/STF.
+Observo, por fim, que mesmo que fossem aptos os argumentos tecidos pela agravante para afastar a incidência da Súmula 7/STJ à hipótese, o que de fato não ocorre, não haveria alteração na decisão agravada, que se manteria intacta em virtude da incidência dos demais óbices não impugnados.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto mantida a validade dos argumentos que a sustentam, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
