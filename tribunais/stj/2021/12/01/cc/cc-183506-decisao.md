@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 1ª 1ªVARA DE FAMÍLIA, ÓRFÃOS, SUCESSÕES E INTERDITOS DE ITABUNA /BA, suscitante, e o JUÍZO DE DIREITO DA 3ªVARA DE FAMÍLIA E SUCESSÕES DE SOROCABA /SP, suscitado.
+Ação: de inventário e partilha de bens deixados por OLINTO BARRETO CAMPOS, ajuizada por JOSÉ ANTONIO CAMPOS, seu filho.
+Decisão do Juízo Suscitado: declinou de sua competência sob o argumento de que o último domicílio do falecido era Itabuna/BA.
+Decisão do Juízo suscitante: suscitou o presente conflito negativo de competênciapor entender que a competência para o julgamento de ação de inventário é relativa, não passível de declinação de ofício.
+Parecer do MPF: opinou pelo conhecimento do conflito, para declarar competente o Juízo suscitado.
+RELATADO O PROCESSO, DECIDE-SE.
+Este Tribunal consolidou o entendimento de que a competência para o processo sucessório, definida no art. 96 do CPC/73 (atual art. 48 do CPC/15), é relativa, razão pela qual não é cabível a declinação de ofício.
+Nesse sentido, destaquem-se os seguintes precedentes:
+COMPETÊNCIA. CONFLITO. CPC, ART. 96. FORO COMPETENTE. INVENTÁRIO.COMPETÊNCIA TERRITORIAL. NATUREZA RELATIVA. IMPOSSIBILIDADE DE DECLINAÇÃO DE OFÍCIO. ENUNCIADO Nº 33 DA SÚMULA/STJ. FALTA DE ATENÇÃO. CONFLITO CONHECIDO.
+I - Cuidando-se de competência territorial, cuja natureza relativa comporta prorrogação, não é dado ao juiz declarar-se incompetente de ofício, incidindo, no ponto, o enunciado nº 33 da sumula deste Tribunal.
+II - Nos termos do art. 96, CPC, é competente para processar o inventário o foro do domicílio do autor da herança, somente havendo superfície para outras considerações a esse respeito quando ele não tenha tido domicílio certo. III - Sem embargo do habitual e desumano excesso de serviço na Justiça, não se justifica que, em casos como o dos autos, não se dê a devida atenção à espécie, tornando ainda mais difícil, para o cidadão, a prestação jurisdicional. (CC 19.334/MG, 2ª Seção, DJ de 25.02.2002)
+CONFLITO DE COMPETÊNCIA. INVENTÁRIO. COMPETÊNCIA TERRITORIAL.Tratando-se de competência territorial, de natureza relativa, não cabe ao juiz de direito da comarca onde foi instaurado o inventário, suscitar de ofício a sua incompetência, sob a alegação de que o "de cujus" tivera seu último domicílio em outra comarca. (CC 11.629/MG, 2ª Seção, Rel. Min. Ruy Rosado de Aguiar, DJ de 20.02.1995)
+COMPETÊNCIA. ARROLAMENTO DE BENS. É de natureza relativa a competência definida no art. 96 do CPC, não comportando, assim, declinação de ofício, segundo a súmula n. 33/STJ. (CC 15.227/GO, 2ª Seção, DJ de 20.05.1996).
+Nos termos da jurisprudência da Segunda Seção do STJ, a competência relativa não pode ser arguida de ofício pelo Juiz. Incide à espécie a Súmula 33/STJ.
+Forte nessas razões, CONHEÇO do conflito e declaro competente o JUÍZO DE DIREITO DA 3ª VARA DE FAMÍLIA E SUCESSÕES DE SOROCABA /SP, suscitado.
+Publique-se. Intimem-se. Oficie-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. INVENTÁRIO. ÚLTIMO DOMICÍLIO DO AUTOR DA HERANÇA. COMPETÊNCIA TERRITORIAL. RELATIVA. SÚMULA 33/STJ.
+1. A competência para o processo sucessório, definida no art. 96 do CPC/73 (art. 48 do CPC/15), é relativa.
+2. A incompetência relativa não pode ser declarada de ofício. Súmula 33/STJ.
+3. Conflito de competência conhecido para declarar competente o Juízo de Direito da 3ª Vara de Família eSucessões de Sorocaba/SP.
