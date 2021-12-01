@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de Agravo interno, interposto por ELIZIANE DOMINGOS DA SILVA, contra decisão proferida pelo Presidente do STJ, publicada em 01/02/2021, que não conheceu do Recurso em Mandado de Segurança, porque não caberia Recurso em Mandado de Segurançaem face de acórdão que deu parcial provimento ao recurso (fls. 525/526e).
+Inconformada, sustenta a parte agravante que "não há erro grosseiro, assim como, o ROC foi interposta na parte denegada, estando o recurso de forma correta conforme determina a Constituição e a jurisprudência dessa corte, sendo a reforma da decisão medida imposta".
+Com efeito, conforme entendimento desta Corte, "na hipótese de concessão parcial da segurança, é cabível a interposição do recurso ordinário, entretanto, o recurso é restrito à parte denegatória. Nesse sentido: AgInt no RMS 54.832/GO, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/6/2018, DJe 20/6/2018)"(AgInt no AgInt no AgInt no RMS 53.930/BA, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 13/12/2018, DJe 06/02/2019).
+Nesse contexto, acolho as razões lançadas nesse recurso e reconsideroa decisão de fls. 525/526e, tornando-a sem efeito. Retornem-me osautosconclusos, para novo exame do recurso.
+I.
