@@ -1,0 +1,24 @@
+VISTOS.
+Trata-se de recurso especial interposto por MARIA ODORICO DA SILVA E OUTROS, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão proferido pela Primeira Câmara de Direito Público e Coletivo, assim ementado (fl. 29-TJ):
+“PROCESSO CIVIL – AGRAVO INTERNO – APELAÇÃO CÍVEL COM REEXAME NECESSÁRIO – AÇÃO DE COBRANÇA – URV – SENTENÇA EM PARTE RETIFICADA – CORREÇÃO MONETÁRIA – JUROS MORATÓRIOS – DECISÃO CONFORME O ENTENDIMENTO DO STF – REPERCUSSÃO GERAL PENDENTE DE JULGAMENTO – RECURSO DESPROVIDO.
+Ausente qualquer circunstância válida a dar ensejo à inversão da decisão monocrática, o Agravo Interno há de ser desprovido. (N.U 0009154-69.2017.8.11.0000, , MÁRCIO VIDAL, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 10/07/2017, Publicado no DJE 21/07/2017)
+Nas razões do recurso, alega o recorrente, em síntese, violação ao artigo 1o-F da Lei n. 9.494/97, com redação dada pela Lei n. 11.960/09, além de divergência jurisprudencial, ao argumento de que a modulação dos efeitos da declaração de inconstitucionalidade parcial do art. 1o-F da lei n. 9.494/97, com redação dada pela Lei n. 11.960/2009, remete exclusivamente ao regime especial de pagamento de precatórios expedidos ou pagos até 25/03/2015, de modo que a referida modulação não se aplica aos processos em curso.
+Requer o provimento do recurso para que a correção monetária seja calculada com base no INPC até o advento da Lei n. 11/960/2009 (29/06/2009), e após pelo IPCA, índice que melhor reflete a inflação acumulada do período.
+Recurso tempestivo (fl. 33-TJ).
+Contrarrazões às fls. 57/62-TJ.
+Na decisão de fl. 65/65v-TJ foi determinado o sobrestamento do trâmite processual deste recurso, em virtude da interposição de Embargos de declaração nos paradigmas REsp’s ns. 1.495.146/MG, 1.492.221/PR e 1.495.144/RS (Tema 905).
+Em seguida, com fundamento no art. 1.030, II, do CPC, determinou-se o retorno dos autos à Câmara de origem para que se procedesse a eventual juízo de retratação, em razão da aparente desconformidade do aresto com o entendimento do STJ, manifestado no recurso paradigma (Tema 905).
+Em cumprimento à referida determinação, o órgão fracionário prolatou nova decisão e, à unanimidade, exerceu o juízo de retratação para “dar PROVIMENTO, em parte, ao Recurso de Apelação para reformar parcialmente a sentença, e, sob o manto do julgamento do recurso (Leading Case Recursos Especiais 149.5146/MG, 1.492.221/PR e 1.495.144/RS – tema 905) pelo Superior Tribunal de Justiça, no ponto relativo aos consectários legais, determinar que seja aplicado quanto à correção monetária, o Índice de Preços ao Consumidor Amplo Especial (IPCA-E), desde a data em que as parcelas deveriam ter sido pagas, e, os juros de mora, incidentes a partir da citação válida, na ordem de 1% (um por cento), capitalizados de forma simples, até julho de 2001; incidente o percentual de 0,5% (meio por cento), de agosto de 2001 a junho de 2009 e, a partir de julho de 2009, a incidência dos índices da remuneração oficial da caderneta de poupança”.
+É o relatório.
+Decido.
+Da perda do objeto
+Conforme relatado, a Câmara de origem, em juízo de retratação, prolatou novo acórdão, reformando o posicionamento anteriormente adotado, restando assim ementado:
+“JUÍZO DE RETRATAÇÃO – RECURSO DE AGRAVO INTERNO NO RECURSO DE APELAÇÃO COM REEXAME NECESSÁRIO – AÇÃO DE COBRANÇA – SERVIDOR PÚBLICO – CONVERSÃO DE CRUZEIRO REAL PARA URV – DEFASAGEM REMUNERATÓRIA DECORRENTE DA CONVERSÃO ERRÔNEA E PERCENTUAL DEVIDO – SENTENÇA ILÍQUIDA – IMPRESCINDIBILIDADE DE SUA LIQUIDAÇÃO – CORREÇÃO MONETÁRIA E JUROS – OBSERVÂNCIA DO ENTENDIMENTO ESPOSADO NO TEMA No 905/STJ RECURSO, EM PARTE,PROVIDO.
+Em relação ao regime de atualização monetária, em vista das decisões proferidas nas ADIs ns. 4.357 e 4.425, no RE n. 870.947/SE (Tema n. 810) e no REsp n. 1.495.146/MG (Tema n. 905), deve-se utilizar o Índice Nacional de Preços ao Consumidor Amplo Especial (IPCA-E).
+Quanto aos juros moratórios, a partir da citação válida, na ordem de 1% (um por cento), capitalizados de forma simples até julho de 2001; de agosto de 2001 a junho de 2009, incidente o percentual de 0,5% (meio por cento), e a partir de julho de 2009, os índices da remuneração oficial da caderneta de poupança.”
+Desse modo, em análise à pretensão recursal, observa-se que se operou a perda superveniente do objeto do recurso, uma vez que houve a retratação do acórdão e o recorrente, apesar de intimado, não interpôs novo recurso, tampouco ratificou os termos daquele já interposto.
+Ante o exposto, julgo prejudicado o recurso, por perda superveniente do interesse recursal, com fundamento no art. 932, inciso III, do CPC.
+Publique-se. Cumpra-se.
+Às providências.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
