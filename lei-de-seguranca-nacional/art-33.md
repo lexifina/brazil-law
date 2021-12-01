@@ -1,7 +1,0 @@
-Art. 33 - Durante as investigações, a autoridade de que presidir o inquérito poderá manter o indiciado preso ou sob custódia, pelo prazo de quinze dias, comunicando imediatamente o fato ao juízo competente.
-§ 1º - Em caso de justificada necessidade, esse prazo poderá ser dilatado por mais quinze dias, por decisão do juiz, a pedido do encarregado do inquérito, ouvido o Ministério Público.
-§ 2º - A incomunicabilidade do indiciado, no período inicial das investigações, será permitida pelo prazo improrrogável de, no máximo, cinco dias.
-§ 3º - O preso ou custodiado deverá ser recolhido e mantido em lugar diverso do destinado aos presos por crimes comuns, com estrita observância do disposto nos arts. 237 a 242 do Código de Processo Penal Militar.
-§ 4º - Em qualquer fase do inquérito, a requerimento da defesa, do indiciado, de seu cônjuge, descendente ou ascendente, será realizado exame na pessoa do indiciado para verificação de sua integridade física e mental; uma via do laudo, elaborado por dois peritos médicos e instruída com fotografias, será juntada aos autos do inquérito.
-§ 5º - Esgotado o prazo de quinze dias de prisão ou custódia ou de sua eventual prorrogação, o indiciado será imediatamente libertado, salvo se decretadas prisão preventiva, a requerimento do encarregado do inquérito ou do órgão do Ministério Público.
-6º - O tempo de prisão ou custódia será computado no de execução da pena privativa de liberdade.
