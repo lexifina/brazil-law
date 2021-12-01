@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, em que é suscitante JOTUR AUTO ÔNIBUS E TURISMO PALHOCENSE LTDA e suscitados o JUÍZO DA VARA REGIONAL DE REC. JUDICIAIS, FALÊNCIAS E CONCORDATAS DA COMARCA DE FLORIANÓPOLIS - SC e o JUÍZO DA 9ª VARA FEDERAL DE FLORIANÓPOLIS - SC.
+Ação em trâmite na Justiça Estadual: recuperação judicial da suscitante.
+Ação em trâmite na Justiça Federal: execução fiscal movida pelo INMETRO.
+Conflito de competência: alega, em síntese, que o juízo recuperacional é o único competente para dispor sobre o destino do acervo patrimonial de empresas em recuperação judicial, ainda que se trate de execuções fiscais.
+Pedido liminar: deferido às fls. 282/283, e-STJ.
+Manifestação do Juízo da Recuperação: informou que foi deferido o processamento da recuperação judicial em 30/08/2021, que os bens penhorados pelo juízo fiscal foram declarados essenciais à continuação da atividade empresarial e que foi deferido o pedido de substituição do bem penhorado por outro indicado pelas suscitantes.
+Manifestação do Juízo Fiscal: esclareceu que o bem penhorado foi retirado da hasta pública em razão da concessão da liminar por este Juízo.
+Parecer do MPF: manifestou-se pelo conhecimento do conflito para ser declarado competente o juízo universal, Juízo de Direito da Vara Regional de Recuperações Judiciais, Falências e Concordatas de Florianópolis - SC.
+É O RELATÓRIO. DECIDO.
+Depreende-se dos documentos colacionados que o processo de recuperação judicial daempresasuscitanteestá em regular andamento perante Juízo de Direito da Vara Regional de Recuperações Judiciais, Falências e Concordatas de Florianópolis - SC.
+De outro lado, observa-se que oJuízo Federal da 9ª Vara de Florianópolis - SJ/SC determinou atos de constrição de bens e valores daempresasuscitante.
+É pacífica a jurisprudência da Segunda Seção do STJ no sentido de que a execução fiscal não se suspende com o deferimento da recuperação judicial, entretanto, o Juízo universal é competente para praticar atos de apreensão e alienação patrimonial da recuperanda. Nesse sentido: AgInt no CC 166.104/GO, DJe 12/05/2020;AgInt no CC 144.157/SP, DJe 03/05/2017; AgRg no CC 120.432/SP, DJe 19/12/2016; CC 145.027/SC, DJe 31/08/2016; AgInt no CC 140.021/MT, DJe 22/08/2016; AgRg no AgRg no CC 81.922/RJ, DJe 04/03/2016; EDcl no AgRg no CC 137.520/SP, DJe 01/03/2016; AgRg no CC 129.290/PE, DJe 15/12/2015.
+Nessas hipóteses, a restrição patrimonial dos bens que compõem o ativo da recuperanda fatalmente provocará prejuízos que colocarão em risco o próprio cumprimento do plano de recuperação. Dessa forma, impõe-se a conclusão de que o prosseguimento dos atos constritivos no juízo da execução fiscal invade a esfera de competência do Juízo da Recuperação Judicial/Falência.
+Dessa forma, o Juízo perante o qual tramita o processo de recuperação judicial da empresa suscitante é o competente para o exame de quaisquer atos que impliquem em constrição ou expropriação patrimonial da massa, sendo certo que os valores eventualmente constritos pelo Juízo Fiscal devem ser colocados à disposição do Juízo Universal, a quem competirá analisar eventual pedido de levantamento.
+No mesmo sentido, ressaltou o Parquet em sua promoção, que "A presente controvérsia encontra-se sedimentada no âmbito da Segunda Seção desta Egrégia Corte Superior, que reconhece ser o Juízo onde se processa a recuperação judicial o competente para o prosseguimento dos atos de execução dos bens da empresa em recuperação, devendo, portanto, submeter-se ao aludido plano, sob pena de restar inviabilizada a recuperação".
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do Juízo de Direito da Vara Regional de Recuperações Judiciais, Falências e Concordatas de Florianópolis - SC.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO FISCAL. PRÁTICA DE ATOS DE CONSTRIÇÃO DO PATRIMÔNIO DA RECUPERANDA. COMPETÊNCIA DO JUÍZO UNIVERSAL. PRECEDENTES.
+1. A jurisprudência da Segunda Seção do STJ está sedimentada no sentido de que a execução fiscal não se suspende com o deferimento da recuperação judicial, entretanto, o Juízo universal é competente para praticar atos de apreensão e alienação patrimonial da recuperanda. Precedentes.
+2. Conflito conhecido. Estabelecida a competência do Juízo Universal, uízo de Direito da Vara Regional de Recuperações Judiciais, Falências e Concordatas de Florianópolis - SC.
