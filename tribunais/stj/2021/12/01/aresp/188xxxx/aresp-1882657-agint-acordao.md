@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que AARÃO DE JESUS LIMA MARQUES, VITÓRIA DA SILVA GUIMARÃES,MARCOS AURÉLIO VASCONCELOS MARTINS,ANTONIO MIRANDA RAMOS GOMES,MARCOS LUIZ EDUVIRGES DA SILVA,MIGUEL ANGELO DEMÉTRIO CAPUTO,RITA APARECIDA DE OLIVEIRA,MARLENE DA SILVA PONTES, SANDRO JOSÉ DE JESUS, SIMONE MARIA DA SILVA, FERNANDO DA SILVA, JEAN CARLOS ROCHA DO ESPÍRITO SANTO, IAGO CLEMENTE MARTINS, FELIPE THIAGO DA COSTA ePATRICK DA SILVA (AARÃO e outros) ajuizaramação de fazer com pedido de antecipação dos efeitos da tutelacontraAMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. (AMIL)pretendendo a cobertura de tratamento na modalidadehome care.
+No curso da ação, o d. Juízo de primeira instância deferiuo pedido de antecipação de tutelapara fins de determinar que AMIL autorize e arque com as despesas do home care deque AARÃO e outros necessitam. Na ocasião, foi fixado o prazo de 10 (dez) dias para cumprimento, sob pena de incidênciademulta única de R$ 10.000,00 (dez mil reais).
+Contra essa decisão interlocutória, AMIL interpôs agravo de instrumento que não foi providopelo Tribunal de Justiça do Rio de Janeiro, nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. SERVIÇO HOME CARE. DECISÃO RECORRIDA QUE DEFERIU A ANTECIPAÇÃO DOS EFEITOS DA TUTELA. DOCUMENTOS APRESENTADOS AOS AUTOS DA AÇÃO PRINCIPAL QUE SUSTENTAM O PEDIDO FORMULADO PELOS AUTORES NAQUELA. PRESENTES OS REQUISITOS DO ART. 300 DO CPC. DECISÃO AGRAVADA QUE SE ENCONTRA BEM FUNDAMENTADA. CLAUSULA CONTRATUAL QUE AFASTA A PRESTAÇÃO DO SERVIÇO HOME CARE É ABUSIVA. APLICAÇÃO DAS SÚMULAS 211 E 338 DO TJ/RJ. A DECISÃO PROLATADA PELO MAGISTRADO DE PRIMEIRO GRAU DE JURISDIÇÃO QUE NÃO SE MOSTRA TERATOLÓGIA E NEM CONTRÁRIA ÀS PROVAS CONSTANTES DOS AUTOS. PRECEDENTES. CONHECIMENTO E DESPROVIMENTO DO RECURSO. (e-STJ, fl. 96)
+Os embargos de declaração opostos pela AMIL foram rejeitados (e-STJ, fls. 133/138).
+Inconformada, a AMILmanejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação doart.300 do NCPCao sustentar que não estão presentes a probabilidade do direito e o perigo iminente de dano ou de risco ao resultado útil do processo (e-STJ, fls. 141/150).
+O apelo nobre não foi admitido pelo TJRJ em virtude da incidência daSúmulanº 7 do STJe da Súmula nº735 do STF (e-STJ, fls. 173/177).
+Seguiu-se o agravo em recurso especial interposto pela AMIL que, em decisão proferida pelo Ministro Presidente desta Corte, foi conhecido para não conhecer do apelo nobre diante da incidência das Súmulas nºs 735 do STF e 7 desta Corte(e-STJ, fls. 223/225).
+Nas razões do presente agravo interno, AMIL reiterou os fundamentosdo seu apelo nobre e defendeu ainaplicabilidade das Súmulas nºs 7 do STJ e735 do STF.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DEOBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. PLANO DE SAÚDE. AGRAVO DE INSTRUMENTOINTERPOSTO CONTRA DECISÃO LIMINAR/ANTECIPATÓRIA DE TUTELA. SÚMULA Nº 735 DO STF. PRECEDENTES. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Esta Corte, em sintonia com o disposto na Súmula nº 735 do STF entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela. Precedentes.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação do fundamento invocado pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+A irresignação não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar a conclusão adotada pela decisão recorrida.
+Na hipótese, a decisão agravada consignou expressamente que, na espécie, incide, por analogia, oóbice da Súmula nº 735 do STF, pois a jurisprudência desta Corte é no sentido de ser inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, tendo em vista sua natureza precária e provisória, cuja reversão é possível a qualquer momento pela instância ordinária.
+No mesmo sentido, são os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO CIVIL PÚBLICA. EXECUÇÃO PROVISÓRIA.SUSPENSÃO DO TRÂMITE PROCESSUAL. DECISÃO LIMINAR PROFERIDA PELO RELATOR DOS EMBARGOS DE DIVERGÊNCIA. DECISÃO DE NATUREZA PROVISÓRIA. SÚMULA Nº 735 DO STF.AGRAVO INTERNO NÃO PROVIDO, COM APLICAÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Terceira Turma desta Corte, no julgamento do REsp nº 1.723.516/RS, da relatoria do Ministro PAULO DE TARSO SANSEVERINO, entendeu pelo não conhecimento do apelo nobre, uma vez que seu fundamento central está calcado em decisão de natureza precária e transitória, aplicando, por analogia, a ratio decidendi dos precedentes que deram origem à Súmula nº 735 do STF.
+3. A falta de juízo decisório definitivo da controvérsia torna inadmissível a verificação de qualquer irregularidade no acórdão proferido pelo Tribunal Regional Federal da 4ª Região.
+4. Agravo interno não provido, com incidência de multa.
+(AgInt no AREsp 1.377.905/RS, de minha relatoria, Terceira Turma, j.24/6/2019, DJe 26/6/2019 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.EXECUÇÃO. TÍTULO EXTRAJUDICIAL. PENHORA.LEVANTAMENTO PARCIAL. DECISÃO. CASO CONCRETO.CARÁTER LIMIAR. REEXAME. SÚMULAS N. 7/STJ E 735/STF. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.409.234/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta turma, j. 28/5/2019, DJe 3/6/2019 - sem destaque no original)
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação do fundamento invocado pela decisão agravada, mantém-se o julgado, por não haver motivos para a sua alteração.
+Nessas condições, pelo meu voto,NEGO PROVIMENTOao agravo interno.
