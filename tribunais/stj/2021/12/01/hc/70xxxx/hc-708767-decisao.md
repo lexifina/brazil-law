@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ROGER LUIS MACHADO RUIZ contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente foi condenado à pena de 10 anos, 10 meses e 18 dias de reclusão, em regime prisional fechado, como incurso nas sanções do art. 157, caput, quatro vezes, na forma do 71, parágrafo único, do Código Penal.
+Opostos embargos de declaração pela defesa em face do acórdão que deu parcial provimento ao apelo, foram rejeitados.
+Neste writ, a Defensoria Pública estadual pugna pela redução do quantum de aumento da pena pela continuidade delitiva específica.
+É o relatório.
+Decido.
+Esta Corte -HC 535.063, TerceiraSeção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, PrimeiraTurma, Rel. Min.Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, SegundaTurma, Rel. Min.Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Está inscrito no acórdão proferido no julgamento dos embargos de declaração:
+"Assim, conforme se observa das fundamentações transcritas acima, de nenhum modo se verifica a alegada omissão no acórdão embargado quanto ao aumento da pena pela continuidade delitiva, mormente considerando que não houve insurgência no apelo defensivo quanto ao patamar de aumento da pena pela incidência do parágrafo único do art. 71 do CP, mas, tão-somente, postulação de que a continuidade delitiva fosse conhecida na forma do precitado art.V2671, caput, do CP (e não na forma do seu parágrafo único), conforme se vê no evento 123 dos autos n.º 5005161-43.2021.8.21.0022" (e-STJ, fls. 62-63).
+Especificamente com relação ao quantum de aumento de pena pela continuidade específica, verifica-se que a questão não foi objeto de julgamento no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento desta Corte:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019).
+Ante o exposto, não conheço do writ.
+Publique-se. Intimem-se.
