@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por THIAGO DA SILVA NOGUEIRA contra decisão que inadmitiu o seu recurso especial manejado em face do v. acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins.
+Consta dos autos que o agravante foi condenado pelo MM. Juízo de primeiro grau, como incurso nas sanções do art. 33, caput, c/c art. 35, caput, ambos da Lei n. 11.343/06, na forma do art. 69 do Código Penal, à pena de 09 (nove) anos, 08 (oito) meses e 12 (doze) dias de reclusão, em regime inicial fechado, e pagamento de 1.800 (um mil e oitocentos) dias-multa (fls. 351-367).
+Irresignada, a defesa interpôs apelação criminal, com vistas à reforma da sentença condenatória. No Tribunal de origem, ao recurso foi negado provimento (fls. 531-535). O v. acórdão foi ementado nos seguintes termos (fl. 541):
+"APELAÇÕES CRIMINAIS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA FINS DE TRÁFICO. CIRCUNSTÂNCIAS DA APREENSÃO EVIDENCIAM O TRÁFICO. PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. REQUISITOS NÃO PREENCHIDOS. PROVA SUFICIENTE DA ESTABILIDADE E PERMANÊNCIA DO VÍNCULO. ASSOCIAÇÃO DEVIDAMENTE COMPROVADA. RECURSOS CONHECIDOS E NÃO PROVIDOS.
+1. Os depoimentos em juízo dos policiais, corroborados pela apreensão dos entorpecentes e o interrogatório dos próprios réus na fase policial, formam um aparato probatório apto a demonstrar suficientemente a materialidade e a autoria do crime de tráfico de drogas e da associação para o tráfico, restando demonstrado que os réus se agruparam, com animus associativo, de forma estável e permanente, com a finalidade específica de traficar substância entorpecente.
+2. A mudança da versão dos fatos apresentados no inquérito policial não é suficiente para acarretar a absolvição dos denunciados, pois divorciada dos demais elementos de prova produzidos durante a instrução processual, razão pela qual a condenação deve ser mantida.
+3. "Não se aplica a causa especial de diminuição de pena prevista no parágrafo 4º do artigo 33 da Lei n.º 11.343/2006 ao réu também condenado pelo crime de associação para o tráfico de drogas, tipificado no artigo 35 da mesma lei" (HC n. 342.317/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/12/2015, DJe 2/2/2016).
+7. Recursos conhecidos e não providos."
+Sobreveio recurso especial, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se sustentou violação:
+a) aos arts. 33 e 35, ambos da Lei n. 11.343/2006, porquanto não há nos autos provas suficientes para a manutenção do édito condenatório quanto aos crimes de tráfico de drogas e associação para o tráfico; e
+b) ao art. 33, § 4º, da Lei de Drogas, ao argumento de que o recorrente preenche os requisitos para a aplicação da referida causa de diminuição de pena.
+Apresentadas as contrarrazões (fls. 600-608), o Tribunal de origem inadmitiu o apelo nobre, com fundamento nas Súmulas 83 e 7/STJ (fls. 614-617).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 644-653).
+A d. Subprocuradoria-Geral da República apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 683-690).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+O recurso especial foi inadmitido na origem em razão da incidência das Súmulas n. 83 e 7 (fls. 614-617).
+Neste agravo, a Defesa, no entanto, olvidou-se de infirmar, de maneira adequada e suficiente, parte das razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade do óbice apontado na decisão agravada (Súmula 7/STJ).
+De fato, das razões colacionadas na irresignação, verifico que a parte não refutou a aplicação da Súmula 7/STJ de maneira adequada, pois deveria o agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático- probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo , o que não aconteceu.
+Digo, nas razões de fls. 644-653, em uma breve explanação, quanto a incidência da Súmula 7/STJ, o agravante disse apenas que "em que pese o excelso Tribunal tenha apontado que seria necessário o reexame do conjunto probatório para a apreciação da demanda, não se concentra em esmiuçar os elementos que levaram a essa conclusão, se utilizando, em verdade, de uma decisão genérica que serviria a qualquer caso, inadmissão de qualquer matéria de plano, o que se extrai não ser o objetivo da Súmula 7 do STJ, pois o próprio Tribunal Superior excepciona a aplicação da sua jurisprudência quando o caso em concreto aponta no sentido de que a verdade cerne da questão, não obstante o tangenciamento de provas, se refere à análise da aplicação do direito. " (fl. 647).
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios." (AgRg no AREsp n. 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/06/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
