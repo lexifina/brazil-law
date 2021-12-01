@@ -1,0 +1,65 @@
+Habeas corpus contra indeferimento de liminar. Não se conhece de habeas corpus contra indeferimento de liminar em outro habeas corpus requerido a Tribunal Superior. Súmula 691/STF. Tráfico de drogas. Prisão preventiva. Incompatibilidade com o regime inicial de cumprimento de pena (semiaberto) fixado na sentença. Precedentes. Concessão da ordem de ofício.
+
+    Vistos etc.
+
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Altamir Franca em favor de Priscila Sardo Pereira, contra decisão monocrática da lavra do Ministro João Otávio de Noronha, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 708.458/SC(evento 2, fls. 46-7).
+
+    A Paciente foi condenada à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto, pela prática do crime de tráfico de drogas majorado, tipificado no art. 33, caput, c/c o art. 40, VI, ambos da Lei 11.343/2006. Na oportunidade, foi-lhe negado o direito de apelar em liberdade (evento 2, fls. 9-37).
+
+    Extraio do ato dito coator:
+
+    “(…).
+
+    É o relatório. Decido.
+
+      A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não apreciou o mérito do writ originário.
+
+    A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019).
+
+    Confira-se também a Súmula n. 691 do STF:
+
+    Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+
+    No caso, não se visualiza, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular.
+
+      Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus. ”
+
+    No presente writ, o Impetrante pugna, preliminarmente, pelo afastamento da Súmula 691/STF. Alega, em síntese, incompatibilidade da prisão preventiva com o regime inicial semiaberto fixado na sentença condenatória. Aponta fundamentação inidônea para a subsistência da prisão preventiva. Requer, em medida liminar e no mérito, a revogação da prisão preventiva da Paciente.
+
+    É o relatório.
+
+    Decido.
+
+    À falta de pronunciamento final do colegiado do Superior Tribunal de Justiça, a pretensão esbarra na Súmula nº 691/STF: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+
+    Nesse sentido a jurisprudência desta Casa, que, todavia, na linha dos arts. 654, § 2º, do CPP e 192, caput, do RISTF, autoriza o afastamento do óbice em hipóteses excepcionais de flagrante ilegalidade, como ora se identifica, quanto à manutenção da prisão preventiva da Paciente.
+
+    Como dito, a Paciente foi condenada à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, pela prática do crime de tráfico de drogas, em regime inicial semiaberto, mantida a prisão preventiva da paciente.
+
+    Ora, uma vez estabelecido o regime inicial de cumprimento da pena na sentença condenatória – no caso, regime inicial semiaberto, repito -, a denegação do direito do sentenciado recorrer em liberdade (forte na manutenção da prisão preventiva) há de estar compatibilizada às condições do regime determinado na sentença, o que aqui não ocorreu. Firme a jurisprudência deste Supremo Tribunal Federal no sentido de que, fixado o regime inicial menos severo que o fechado, ‘a manutenção da prisão preventiva, própria das cautelares, representaria, em última análise, a legitimação da execução provisória da pena em regime mais gravoso do que o fixado no próprio título penal condenatório’ (HC 165.932/SP, Rel. Min. Edson Fachin, decisão monocrática, DJe 14.12.2018). Precedentes: HC 115.786/MG, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 20.8.2013; HC 114.288/RS, Rel. Min. Dias Toffoli, 1ª Turma, DJe 07.6.2013.
+
+    Na mesma linha, destaco:
+
+    PENAL. HABEAS CORPUS. ROUBO. SENTENÇA CONDENATÓRIA. FIXAÇÃO DE REGIME INICIAL SEMIABERTO. MANUTENÇÃO DA PRISÃO PREVENTIVA. INCOMPATIBILIDADE. PRECEDENTES DA SEGUNDA TURMA. ORDEM CONCEDIDA.
+
+    I - Nos termos da jurisprudência desta Segunda Turma, a manutenção da prisão provisória é incompatível com a fixação de regime de início de cumprimento de pena menos severo que o fechado. Precedentes.
+
+    II Ordem concedida para revogar a prisão preventiva do paciente e determinar a sua imediata soltura, sem prejuízo da fixação pelo juízo sentenciante, de uma ou mais medidas cautelares previstas no art. 319 do Código de Processo Penal, caso entenda necessário (HC 138.122/MG, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 22.5.2017). (original sem destaques).
+
+    Habeas corpus. Penal. Tráfico de drogas. Paciente surpreendido na posse de pouco menos de 7 (sete) quilos de cocaína na tentativa de embarcar para a Nigéria. Condenação. Dosimetria. Incidência da causa especial de pena prevista no § 4º do art. 33 da Lei de Drogas em seu grau máximo. Impossibilidade. Dedicação à atividade criminosa reconhecida por instância ordinária. Impropriedade do habeas corpus para se revolver o contexto fático probatório da causa e para concluir diversamente. Precedentes. Denegação da ordem. Fixação de regime inicial semiaberto. Vedação ao direito de recorrer em liberdade. Incompatibilidade. Violação do princípio da proporcionalidade. Precedentes. Habeas corpus concedido de ofício. (…) 5. A vedação ao direito de recorrer em liberdade revela-se incompatível com o regime inicial semiaberto fixado pelo Tribunal Regional Federal da 3ª Região. 6. A situação traduz verdadeiro constrangimento ilegal, na medida em que se impõe ao paciente, cautelarmente, regime mais gravoso a sua liberdade do que aquele estabelecido no próprio título penal condenatório para o cumprimento inicial da reprimenda, em clara afronta, portanto, ao princípio da proporcionalidade. 7. Ordem concedida de ofício (HC 141.292/SP, Rel. Min. Dias Toffoli, 2ª Turma, DJe 23.5.2017). (original sem destaques).
+
+    Habeas corpus. 2. Posse ilegal de arma de fogo (art. 12 da Lei n. 10.826/2003). Prisão em flagrante convertida em preventiva. 3. Delito punido com detenção. Previsão legal de cumprimento em regime semiaberto ou aberto (CP, art. 33). 4. Violação ao princípio da proporcionalidade: a custódia cautelar se apresenta como medida mais gravosa do que a própria sanção a ser aplicada no caso de eventual condenação. Precedentes. 5. Constrição cautelar excessivamente gravosa. Decreto prisional com fundamentação precária. 6. Decisão monocrática do STJ. Ausência de interposição de agravo regimental. 7. Habeas Corpus não conhecido, entretanto, ordem concedida, de ofício, para revogar a prisão preventiva decretada em desfavor do paciente, determinando ao Juízo de origem a análise da necessidade de aplicação das medidas cautelares previstas no art. 319 do CPP (HC 126.704/MG, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 18.5.2016). (original sem destaques).
+
+    Colho, ainda, de julgado sob a relatoria do Ministro Alexandre de Moraes, ‘que eventual manutenção da prisão preventiva em regime aberto, além de carecer de amparo legal, desvirtua o instituto da prisão preventiva, que, como se sabe, pressupõe cerceamento pleno do direito de locomoção. Tal situação acarreta a admissão de verdadeira antecipação do cumprimento da pena sem a definição da responsabilidade criminal do acusado’ (HC 180.131/MS, DJe 13.02.2020).
+
+    Diante do exposto, supero excepcionalmente o óbice da Súmula 691/STF e forte no art. 192 do RISTF, concedo a ordem, de ofício, para revogar a prisão preventiva da paciente Priscila Sardo Pereira, facultando ao Juízo da Vara Criminal da Comarca de Gaspar/SC (Processo 5003044-86.2021.8.24.0025) a imposição de medidas cautelares diversas da prisão (art. 319 do CPP).
+
+    Oficie-se, com urgência.
+
+    Publique-se.
+
+    Brasília, 1º de dezembro de 2021.
+
+Ministra Rosa Weber
+
+Relatora
