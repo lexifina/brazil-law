@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PAGAMENTO MEDIANTE RPV. HONORÁRIOS ADVOCATÍCIOS. Em princípio, são devidos honorários advocatícios em execução/cumprimento de sentença contra a Fazenda Pública envolvendo crédito sob o regime da RPV.
+Os embargos de declaração opostos foram acolhidos apenas para fins de prequestionamento.
+No presente recurso especial, o recorrente aponta, inicialmente, violação ao art. 1.022 do CPC/2015 ao argumento de que o Tribunal de origem foi omisso acerca da impossibilidade de fixação de honorários advocatícios pelo cumprimento de sentença, na medida em que a autarquia não foi previamente intimada para cumprimento espontâneo da obrigação.
+Alega, ainda, violação aos arts.523, §1º, 526, § 3º, 534 e 535 do CPC/2015. Sustenta, em síntese, que a condenação em honorários advocatícios na fase de cumprimento de sentença, depende de prévia intimação para oportunizar o pagamento voluntário da obrigação.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido da impossibilidade de fixação de honorários advocatícios na fase de cumprimento de sentença, antes da intimação da Fazenda Pública para cumprimento espontâneo da obrigação, nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA NÃO EMBARGADA. RPV.EXECUÇÃO PROMOVIDA ANTES DA INTIMAÇÃO DA FAZENDA PÚBLICA PARA O CUMPRIMENTO ESPONTÂNEO DA DECISÃO. HONORÁRIOS ADVOCATÍCIOS.INVIABILIDADE. PRECEDENTES.
+1. A teor da jurisprudência desta Corte "não é cabível a fixação de honorários advocatícios em Execução contra a Fazenda Pública não embargada, quando a parte dá início ao processo executivo antes de possibilitar o cumprimento espontâneo da obrigação pela Fazenda Pública" (AgInt no REsp 1.397.901/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 3/8/2017). Em igual sentido: REsp 1.532.486/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/8/2015.
+2. Agravo interno não provido.
+(AgInt no AgInt no REsp 1559438/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 19/08/2019, DJe 21/08/2019)
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA NÃO EMBARGADA. RPV. QUITAÇÃO NO PRAZO LEGAL. EXECUÇÃO PROMOVIDA ANTES DA INTIMAÇÃO DA FAZENDA PÚBLICA PARA O CUMPRIMENTO ESPONTÂNEO DA DECISÃO. HONORÁRIOS ADVOCATÍCIOS. INVIABILIDADE.
+1. Cinge-se a controvérsia a definir se é cabível o arbitramento de honorários advocatícios em Execução contra a Fazenda Pública não embargada, na hipótese em que há processo executivo, sem, no entanto, haver intimação do INSS para cumprir espontaneamente a determinação judicial, sendo quitada no prazo legal a RPV.
+2. No caso dos autos, a Execução foi ajuizada sob a sistemática da Requisição de Pequeno Valor, não tendo sofrido resistência pela Fazenda Pública. A parte exequente promoveu execução antes mesmo da devolução dos autos, não dando oportunidade para o INSS promover o pagamento espontâneo do débito, logo, tal qual concluíram as instâncias de origem, inviável pleitear a fixação da verba sucumbencial.
+3. Essa é, de fato, a orientação que merece prevalecer, sobretudo porque, à luz do princípio da causalidade, a Fazenda Pública, no específico contexto dos autos, não deu causa à instauração do rito executivo.
+4. Recurso Especial não provido.
+(REsp 1532486/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/06/2015, DJe 06/08/2015)
+No caso concreto, verifico que o acórdão recorrido destoa do entendimento adota por esta Corte Superior de Justiça.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar a fixação dos honorários advocatícios na execução/cumprimento de sentença, antes da intimação da Fazenda Pública para pagamento espontâneo da obrigação.
+Publique-se. Intimem-se.
