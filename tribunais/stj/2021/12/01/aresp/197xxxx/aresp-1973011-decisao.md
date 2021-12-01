@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - FUNCEF contra a decisão de fls. 817-831 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fl. 740, e-STJ):
+NOVO JULGAMENTO. APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. FUNDAÇÃO FUNCEF. VERBAS REMUNERATÓRIAS RECONHECIDAS PELA JUSTIÇA DO TRABALHO. DIFERENÇAS SALARIAIS. POSSIBILIDADE DE INCORPORAÇÃO. TEMA 955 DO SUPERIOR TRIBUNAL DE JUSTIÇA (RECURSO ESPECIAL NP 1.312.736/RS). ALTERAÇÃO PARCIAL DO JULGADO.
+1. Os autos retornaram do e. Superior Tribunal de Justiça para novo julgamento da matéria referente à pretensão autoral de inclusão, no cálculo do benefício de previdência complementar vinculado ao demandante, de verbas remuneratórias (horas extras) reconhecidas pela Justiça do Trabalho em demanda própria.
+2. No ponto, tem-se que deve ser reformado em parte o acórdão originário, dada a modulação dos efeitos da decisão do e. Superior Tribunal de Justiça, quando do julgamento do Tema 955.
+3. Da leitura do Regulamento vigente quando da concessão da complementação de aposentadoria ao autor, não há previsão no sentido de que, para fins de cálculo do benefício previdenciário, não serão consideradas as horas extras recebidas pelo participante.
+4. Assim, em tendo sido reconhecido, pela Justiça do Trabalho, o direito ao recebimento de horas extras (verbas revestidas de caráter remuneratório), nos termos, inclusive, do acórdão do Recurso Especial em questão, há que se reconhecer a possibilidade de inclusão dos reflexos da referida verba no cálculo da renda mensal inicial do demandante.
+5. Para tanto, a teor do que determinou o c. STJ, para a efetivação da referida inclusão, há que se estipular a premência da recomposição prévia e integral das reservas matemáticas, a qual se dará através do devido aporte pelo demandante de valor a ser apurado, em sede de liquidação de sentença, por adequado estudo técnico atuarial.
+6. Redistribuído o ônus sucumbencial.
+APELAÇÃO PARCIALMENTE PROVIDA, EM NOVO JULGAMENTO.
+Os embargos de declaração opostos foram desacolhidos (fls. 775-782, e-STJ).
+Nas razões do recurso especial (fls. 785-807, e-STJ), a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 506 do Código de Processo Civil de 2015; 3º da Lei Complementar 108/2001; 18, 19 e 21 da Lei Complementar 109/2001.
+Sustentou, em síntese:
+(i)necessidade de inclusão da Caixa Econômica Federal no polo passivo, tendo em vista que a obrigação de recolher a contribuição ao plano de previdência sobre as horas extras era do empregador;
+(ii)que a decisão estadual, além de violar o equilíbrio atuarial do plano de benefícios, revela manifesta intenção da recorrida em alterar a essência de contrato, lícito, perfeito e acabado, ao qual aderiu por vontade própria e livre, sem demonstrar nenhum vício que o inquinasse; e
+(iii)impossibilidade de a criação de despesas (pagamento de benefícios) sem a prévia contribuição para a formação da reserva matemática necessária ao seu custeio.
+Em juízo de admissibilidade (fls. 817-831, e-STJ), o Tribunal de origem negou seguimento ao recurso especial ante aconsonância do acórdão recorrido com a orientação firmada no julgamento doRecurso Especial n. 1.312.736/RS  Tema 955, submetido à sistemática dos recursosespeciais repetitivos, bem como não admitiu seu processamento por falta de prequestionamento dos artigos de lei tidos por vulnerados.
+Irresignada (fls. 834-843, e-STJ), aduz a agravante que o reclamo merece trânsito, limitando-se a repisar as mesmas razões já trazidas no recurso especial e a refutar a ausência de prequestionamento.
+Sem contraminuta, conforme certificado à fl. 844 (e-STJ).
+Brevemente relatado, decido.
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que cabe à parte agravante, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que negou seguimento ao recurso especial, justificando, tese a tese, o cabimento do apelo especial, conforme determina expressamente o art. 932, III, do CPC/2015.
+O entendimento desta Corte é no sentido de que a parte recorrente deve rebater os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge, especificamente, contra todos eles.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CONSIGNATÓRIA C/C REVISIONAL. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. FUNDAMENTO DA ADMISSIBILIDADE NEGATIVA. IMPUGNAÇÃO. AUSÊNCIA. ARTS. 932, INCISO III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial se a parte deixa de impugnar fundamento da decisão de admissibilidade negativa, que obstou o seguimento a parte do apelo por força do artigo 1.030, inciso I, alínea "b", do Código de Processo Civil.
+2. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do CPC e da Súmula 182 do Superior Tribunal de Justiça, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 1.565.679/GO, Rel. Ministra Maria Isabel Gallotti, Quarta Turma julgado em 07/12/2020, DJe 11/12/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ACIDENTE DE TRÂNSITO. AÇÃO INDENIZATÓRIA. DANO MORAL E MATERIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, pois não infirmou devidamente a necessidade de demonstração de prejuízo para que se declare a nulidade processual. Inobservância do art.
+1.021, § 1º, do NCPC e incidência da Súmula nº 182 do STJ3. Agravo interno não provido (AgInt no REsp 1.861.075/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 24/08/2020, DJe 28/08/2020).
+No caso, verifica-se que a agravante não atendeu a esse reclamo, pois não refutou todos os óbices de admissibilidade do recurso especial interposto.
+No tocante à rejeição do recurso especial pela aplicação do art. 1.030 do CPC/2015, em razão da aplicação do entendimento julgado no Recurso Especial n. 1.312.736/RS  Tema 955, julgado sob o rito dos recursos repetitivos, verifica-se, de plano, que tal fundamento não foi sequer mencionado nas razões do agravo.
+Dessa forma, a falta de ataque específico a todos os fundamentos da decisãoagravada encontra óbice no teor do art. 932, III, do CPC/2015,desatendendo a parte recorrenteaoprincípio da dialeticidade exigido na esferarecursal.
+Diante do exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honoráriossucumbenciais fixados em favor do patrono da parte recorrida em R$ 1.000,00 (mil reais).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
