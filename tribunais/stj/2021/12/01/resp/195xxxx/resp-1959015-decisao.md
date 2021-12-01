@@ -1,0 +1,9 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto peloSERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL - SENACcontra decisão que inadmitiu o recurso especial com base nos seguintes fundamentos: a) incidência das Súmulas 7/STJ, a saber: "A pretensão de simples reexame de prova não enseja recurso especial.";e b)83/STJ, a saber: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida)(e-STJ, fls. 1.497-1.502.".
+A agravante sustenta ter demonstrado o dissídio jurisprudencial, sendo indevidamente rigorosa a apreciação de admissibilidade pela origem(e-STJ, fls. 1.545-1.549).
+É o relatório.
+O agravo nada discute sobre os fundamentos da detida análise de inadmissibilidade do recurso especial, mostrando-se absolutamente genérico e inespecífico. A hipótese é de incidência da Súmula 182/STJ: a saber: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.".
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado, na origem, o art. 85, §3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado, na origem, o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
