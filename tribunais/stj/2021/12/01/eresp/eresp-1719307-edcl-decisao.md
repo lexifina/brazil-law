@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Ney Lourenço à decisão proferida por este signatário, nos termosda seguinte ementa (e-STJ, fl. 503):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE COBRANÇA. 1. DIFERENÇAS DE CORREÇÃO MONETÁRIA SOBRE CONTRIBUIÇÕES PESSOAIS. CORREÇÃO MONETÁRIA. ADOÇÃO DA TR. INDEXADOR INIDÔNEO. SUBSTITUIÇÃO. NECESSIDADE. ÍNDICE GERAL DE PREÇOS DE AMPLA PUBLICIDADE. 2. RECURSO PARCIALMENTE PROVIDO EM JUÍZO DE RETRATAÇÃO.
+Em suas razões (e-STJ, fls. 510-512), o embargante sustenta a existência de erro material no julgado, ao argumento de que, com a determinação da substituição da TR pelo INPC/IBGE, a pretensão foi integralmente acolhida, haja vista que todos os outros pedidos constituem meros corolários naturais do pleito principal.
+Argumenta, ainda, que não houve pronunciamento acerca do pedido de condenação do réu ao pagamento dos encargos sucumbenciais e honorários advocatícios.
+Sem impugnação (e-STJ, fl. 515).
+Brevemente relatado, decido.
+Os embargos de declaração, nos termos do art. 1.022, do CPC/2015, apenastêm cabimento quando efetivamente existir omissão, contradição,obscuridade ou erro material no julgado embargado, situação que não seobserva na espécie.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ACIDENTE DE TRÂNSITO ENTRE CAMINHÃO E MOTOCICLETA, COM RESULTADO MORTE.CONDENAÇÃO DO NOSOCÔMIO AO PAGAMENTO DE INDENIZAÇÃO POR DANO MORAL.JULGAMENTO EXTRA PETITA. INOCORRÊNCIA. ILEGITIMIDADE PASSIVA AFASTADA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ASSINADO PARA A PRESTAÇÃO DOS SERVIÇOS HOSPITALARES. REVISÃO DAS CONCLUSÕES ALCANÇADAS PELO TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. VIOLAÇÃO DO ART. 1.022 DO NCPC. CONTRADIÇÃO. NÃO CONFIGURADA.PRETENSÃO DE REJULGAMENTO DA CAUSA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração constituem recurso de estritos limites processuais e destinam-se a suprir omissão, afastar obscuridade, eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Embargos de declaração rejeitados (EDcl no AREsp 1.287.421/SC, Rel. Ministro Moura Ribeiro, terceira Turma, julgado em 11/05/2021, DJe 13/05/2021).
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL- AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO DE SENTENÇA - CONTRATO DE PARTICIPAÇÃO FINANCEIRA - TELEFONIA - OBSERVÂNCIA DA SISTEMÁTICA DOS RECURSOS REPETITIVOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE REJEITOU OS EMBARGOS DE DECLARAÇÃO OPOSTOS DE ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO.INSURGÊNCIA DOS AGRAVANTES.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+(..)
+3. Embargos de declaração rejeitados (EDcl nos EDcl no AgInt nos EDcl nos EDcl no AgInt no AREsp 1.615.441/RS, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 15/12/2020, DJe 17/12/2020).
+Entretanto, no que se refere ao provimento parcial do recurso especial, verifica-se que o embargante encontra-se com a razão, pois, às fls. 332-333 (e-STJ), destacou os pedidos da seguinte forma:
+Com efeito, requer o recorrente o conhecimento do presente recurso especial com fundamento no art. 105, III, "a" e "c" da Constituição Federal e seu ulterior provimento, para, reformando o v. Acórdão, julgar procedente a ação proposta para:
+a) que seja concedido provimento de natureza constitutiva tendente a estabelecer o INPC/IBGE como índice indexador para o reajuste anual do benefício de complementação de aposentadoria, a ser aplicado em seu acumulado anual no mês de julho de cada ano, desde a data de concessão do benefício;
+b) condenar a recorrida ao pagamento das diferenças existentes entre o valor da COMAP reajustado na forma do item anterior e o valor efetivamente desde a data inicial de concessão do benefício até a efetiva alteração da folha de pagamento do recorrente, incluindo-se as gratificações natalinas;
+c) condenar a apelada à obrigação de fazer consistente em promover a alteração da renda mensal do recorrente em folha de pagamento, nos termos acima postulados, sob pena de multa e execução sucessiva das parcelas vincendas.
+Observa-se, portanto, que a alteração do índice indexador para o reajuste anual do benefício de complementação de aposentadoria influencia diretamente o provimento dos pedidos posteriores.
+De fato houve o apontado erro material, razão pela qual o dispositivo passa a ostentar a seguinte redação:
+Diante do exposto, dou provimento ao recurso especial, em juízo de retratação, para determinar a substituição da TR pelo INPC/IBGE, bem como o pagamento das diferenças havidas (observada a prescrição quinquenal de trato sucessivo), acrescido de juros legais a contar da citação e correção monetária.
+Já no tocante aos honorários advocatícios, em razão da sucumbência recíproca, mantenho conforme estipulado em sentença.
+À vista do exposto, acolho os aclaratórios para sanar o erro material apontado, sem efeitos modificativos.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. VÍCIO DO ART. 1.022 DO CPC/2015. ERRO MATERIAL E OMISSÃO. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
