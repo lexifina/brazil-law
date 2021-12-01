@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Diogo Bolognesi e Matheus Bolognesi, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 43):
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - REPRESENTAÇÃO DO ESPÓLIO - INVENTARIANTE DATIVO - Pretensão dos embargantes de que seja reconhecida a irregularidade da representação do espólio - Descabimento - Espólio que é sempre representado pelo inventariante, inclusive quando se tratar de inventariante dativo - Necessidade de intimação dos herdeiros (CPC, art. 75, §1º) que não afasta a representação pelo inventariante - RECURSO DESPROVIDO.
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - CONFUSÃO - Pretensão dos embargantes de que seja reconhecida a extinção da obrigação, pois, como únicos herdeiros do favorecido pela emissão dos cheques, haveria confusão das posições de credor e devedor - Descabimento - Hipótese em que ainda não se verificou a partilha e há grande incerteza quanto à existência de outros herdeiros e também de credores do "de cujus" - Herança considerada como um todo indivisível até a partilha (CC, art.1.791, p. único) - RECURSO DESPROVIDO.
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO - PREJUDICIALIDADE EXTERNA - Alegação da existência de prejudicialidade externa - Descabimento - Hipótese em que não estão presentes os requisitos necessários para a reclamada suspensão por prejudicialidade externa - RECURSO DESPROVIDO.
+Em suas razões de recurso especial (e-STJ, fls. 52-67), os agravantes alegaram violação aos arts. 75, VII e § 1º; 313, IV, a; 616, II; 921, I; todos do CPC/2015, bem como aos arts. 114, 381, 382, 1.791, parágrafo único, e 1.314, todos do CC/2002.
+Sustentaram, em síntese, que nos autos há o enquadramento do instituto da confusão, devendo a obrigação ora executada ser extinta. Defenderam, por consequência, serem os únicos herdeiros legítimos do de cujus, razão pela qual hánecessidade de reconhecimento da confusão.Apontaram a existência de prejudicialidade externa e a irregularidade na nomeação de inventariante dativo.
+Foram apresentadas contrarrazões (e-STJ, fls. 72-79).
+O processamento do apelo especial não foi admitido pela Corte local, levando os insurgentes a interporo presente agravo.
+Nas razões do agravo, aparteagravanteimpugnaos fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal.
+Contraminuta apresentada (e-STJ, fls. 95-99).
+Brevemente relatado, decido.
+O recurso não comporta acolhimento.
+O Tribunal estadual, ao analisar todas as questões postas nos autos, assim fundamentou (e-STJ, fls. 45-49 - sem grifo no original):
+Inicialmente, não há irregularidade na representação processual do espólio exercida pela inventariante dativa.
+É certo que, sendo dativo o inventariante, deverá haver a intimação dos sucessores do falecido nos processos em que for parte o espólio (CPC, art. 75, §1º).
+Contudo, a norma não excepciona a representação do espólio pelo inventariante (CPC, art. 75, inciso VII), como pretendem os agravantes.
+A necessidade de intimação dos sucessores do falecido não confere a eles a representação do espólio, uma vez que "são intimados para poder acompanhar o andamento do processo, e, assim, fiscalizar a atuação do inventariante, que é pessoa estranha à família" (Fredie Didier Jr., Curso de Direito Processual Civil, Vol.1, 22 ed., Salvador, Juspodivm, 2020, p.413).
+Superada essa questão preliminar, tampouco se mostra possível acolher a alegação de confusão, para extinguir a execução.
+A herança, tão logo aberta a sucessão, transmite-se de imediato aos herdeiros legítimos e testamentários (CC, art.1.784); no entanto, "defere-se como um todo unitário, ainda que vários sejam os herdeiros" (CC, art.1.791).
+E, considerando essa peculiaridade, não se pode reconhecer a existência do instituto da confusão, pois, "Até a partilha, o direito dos coerdeiros, quanto à propriedade e posse da herança, será indivisível, e regular-se-á pelas normas relativas ao condomínio" (CC, art.1.791, p. único).
+A confusão é prevista como causa extintiva das obrigações no artigo 381 do Código Civil, sendo requisitos para a sua configuração:
+(..)
+Assim, além de se exigir a coincidência da obrigação e a identificação entre as pessoas do credor e do devedor, deve ser observada a "ausência de separação dos patrimônios, de modo que, p. ex., aberta a sucessão, não se verificará a confusão, enquanto os patrimônios do de cujus e do herdeiro permanecerem distintos, não incorporando o herdeiro, em definitivo, o crédito ao seu próprio patrimônio" (Maria Helena Diniz, Curso de Direito Civil brasileiro, Vol.2, 19 ed., São Paulo, Saraiva, 2004, p.350, destaques nossos).
+Como se vê, somente após a partilha dos bens e direitos, com a atribuição definitiva do crédito exequendo a um dos executados, ou a ambos, se poderá efetivamente reconhecer a confusão, com a extinção total ou parcial do débito.
+Em que pese os agravantes se apresentem como únicos herdeiros do "de cujus", é evidente a grande controvérsia que se instalou no âmbito do inventário.
+De um lado, a neta, Amanda Zanobio Bolognesi, busca o reconhecimento de seus direitos como legatária nos autos do processo n. 1005218-48.2018.8.26.0038.
+É certo que nesses autos houve a prolação de sentença de improcedência em 17 de maio de 2019; no entanto, observa-se que a autora interpôs recurso de apelação, postergando a solução definitiva sobre a questão.
+A neta busca ainda o reconhecimento de sua condição de herdeira, uma vez que, como informado pela inventariante dativa em contrarrazões, promoveu ação de reconhecimento de filiação socioafetiva cumulado com petição de herança em face do espólio (fls.35-36, autos n. 1006634-17.2019.8.26.0038).
+A própria condição de herdeiros dos agravantes é questionada nos autos do processo de exclusão por indignidade (n.1005221-03.2018.8.26.0038); e, apesar de haver sentença de improcedência, houve a também a interposição de recurso.
+Além disso, a ex-esposa do de cujus, Maria Helena Flueti, se apresenta no inventário como credora de expressiva quantia (fls. 356-366 dos autos da execução), correspondente ao valor exigido nesta execução.
+Impugnam os agravantes a conduta de sua mãe no inventário ao afirmar que não existe tal crédito, tratando-se de mera simulação forjada entre ela e o antigo marido; contudo, não há como analisar essa matéria no âmbito dos presentes embargos à execução.
+Não se pode excluir ainda a possibilidade de que outros credores, ou mesmo outros herdeiros, se apresentem e impeçam a atribuição do crédito decorrente dos cheques executados aos agravantes.
+Assim, sem que haja a definitiva atribuição desses créditos aos agravantes no âmbito do inventário, não se verifica a aventada confusão.
+A extinção da obrigação pela confusão causa mortis pressupõe que o crédito do de cujus efetiva e definitivamente seja atribuído ao herdeiro devedor, passando a compor o seu patrimônio.
+Por fim, com relação à prejudicialidade externa, o recurso tampouco comporta provimento.
+Os agravantes requereram que fosse dado provimento ao recurso, "reconhecendo a suspensão pela prejudicialidade externa em face das referidas ações rejeitadas" (fls.16).
+As "ações rejeitadas" são aquelas em que a neta do de cujus pretende o reconhecimento de sua condição de legatária (autos n.1005218-48.2018.8.26.0038) e aquela em que se pretende a exclusão dos herdeiros por indignidade (autos n.1005221-03.2018.8.26.0038).
+Com relação a esta última, não há prejudicialidade, uma vez que, caso venha a ser confirmada a sua improcedência, persistirá a indefinição no inventário acerca da atribuição do crédito em definitivo aos agravantes, como já apontado, impedindo o reconhecimento aqui da alegada confusão.
+Por outro lado, caso a demanda venha a ser julgada procedente, tampouco influirá na decisão a ser proferida nos embargos à execução.
+Excluídos da condição de herdeiros, persistirá apenas a posição de devedores o que se afirma sem analisar as demais questões referentes à validade e exigibilidade dos títulos que foram suscitadas nos embargos.
+O mesmo pode ser dito em relação ao processo em que a neta busca ser reconhecida como legatária.
+Ainda que venha a ser julgado definitivamente improcedente o pedido, persistirá a indefinição no inventário acerca da atribuição do crédito em definitivo aos agravantes, impedindo o reconhecimento da confusão nos presentes autos.
+Nesse contexto, a respeitável decisão agravada deve ser integralmente mantida, pois a decisão a ser proferida nos embargos não depende do julgamento desses outros processos (CPC, art.313, inciso V, "a").
+Da análise do acórdão recorrido, verifica-se que a conclusão do Tribunal a quo quanto às controvérsias sobre a prejudicialidade externa e a aplicação do instituto da confusão está calcada em peculiaridades do caso concreto, relacionada às premissas fáticas dos autos, de modo que rever o entendimento esposado demandaria verdadeiro reexame de fatos e provas, o que encontra óbice na Sumula n. 7/STJ.
+Vale mencionar que, a despeito das alegações de violação à legislação federal, o que pretende aparteé a reanalise das questões fáticas que permeiam o caso, o que é incabível na seara do recurso especial.
+Por fim, quanto aos fundamentos do Tribunal de origem, para afastar qualquer irregularidade na nomeação de inventariante dativo, observa-se que houve correta aplicação da lei, haja vista que, de fato, a legislação concede ao inventariante a legitimidade para representação do espólio (art. 75, VII, CC/2015), não havendo excepcionalidade no caso de ser este dativo.
+Além disso, como bem pontuado no acórdão recorrido, a necessidade de intimação dos sucessores do de cujus, no caso de inventariante dativo(art. 75, § 1º, do CPC/2015), não afasta a respectiva representação do espólio.
+Portanto, sem reparos a decisão nesse ponto.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TESES DE PREJUDICIALIDADE E CONFUSÃO AFASTADAS. DECISÃO CALCADA EM PECULIARIDADES DO CASO. REEXAME INVIÁVEL. PREMISSAS FÁTICAS. SÚMULA N. 7/STJ. REPRESENTAÇÃO DO ESPÓLIO. NOMEAÇÃO DE INVENTARIANTE DATIVO. ALEGAÇÃO DE IRREGULARIDADE DA NOMEAÇÃO AFASTADA. NECESSIDADE DE INTIMAÇÃO DOS HERDEIROS NÃO RETIRA LEGITIMIDADE DO INVENTARIANTE DATIVO PARA REPRESENTAR O ESPÓLIO. ACÓRDÃO MANTIDO NESSE PONTO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
