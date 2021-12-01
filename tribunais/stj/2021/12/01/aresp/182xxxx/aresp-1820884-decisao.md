@@ -1,0 +1,81 @@
+DECISÃO
+B. F. COMÉRCIO DE ELETRÔNICOS EIRELI (B.F. COMÉRCIO)ajuizou ação declaratória de inexistência de débito cumulada com indenização por danos morais contra KAPITAL FACTORING FOMENTO MERCANTIL LTDA. e FS PLAST - COMÉRCIO DE ACESSÓRIOS PLÁSTICOS - EIRELI, alegando ter sido surpreendida com o protesto de duas duplicatas, asseverando que não possui relações comerciais com as rés.
+Em primeira instância, os pedidos foramjulgados procedentes paradeclarar a inexigibilidade das duplicatas, sob os nº 397-A e 397-B, cada qual no valor de R$ 3.550,00, bem como para condenar, solidariamente, as corré s no pagamento de indenização por dano moral no valor de R$ 20.000,00, corrigido monetariamente de acordo com Tabela Prática de E. Tribunal de Justiça de São Paulo e juros de mora 1% ao mês, ambos a contar da publicação dessa sentença. Condeno as corrés, ainda, ao pagamento das custas, despesas processuais e honorários advocatícios que fixo em 10% do valor da condenação (e-STJ, fls. 148/150).
+O Tribunal de Justiça de São Paulo deu parcial provimento à apelação de KAPITAL FACTORING, em acórdão da relatoria do Des. HELIO FARIA, assim ementado:
+APELAÇÃO. Ação declaratória de inexigibilidade de débito, com pedido de indenização por danos morais Duplicatas sem lastro negocial Sentença de procedência Recurso da endossatária corré.
+DUPLICATA Título de crédito causal, cuja legitimidade está condicionada à regularidade do negócio jurídico subjacente Fatura de compra e venda de mercadoria insuficiente para demonstrar a validade do título, suficientemente impugnada Revelia da primeira corré, sacadora Irregularidade formal das duplicatas, emitidas sem causa negocial subjacente Protesto indevido Responsabilidade da corré, na posição de favorecida pelos títulos recebidos em cessão de crédito Inteligência da Súmula nº 475 do C. STJ.
+DANOS MORAIS Ocorrência "in re ipsa" Valor da indenização, arbitrada em R$ 20.000,00, que comporta redução Comprovada negligência da autora em mitigar os danos sofridos Diligência da credora ao notificar a requerente previamente ao apontamento do título a protesto, bem como a promover seu cancelamento tão logo verificada a irregularidade da cobrança Montante indenizatório de R$ 8.000,00 razoável e proporcional aos elementos do caso Responsabilidade solidária das requeridas, porquanto concorreram para o dano causado.
+Recurso parcialmente provido (e-STJ, fl. 186).
+Os embargos de declaração opostos por KAPITAL FACTORINGforam rejeitados(e-STJ fls. 209/214).
+Inconformada, KAPITAL FACTORING manejourecurso especial, com base no art. 105, III, a, da Constituição Federal, alegando violação dos arts. 87, §1º,489,§1º, IV, e 1.022, II, do NCPC; 13,§ 4º, 15, II, b, da Lei nº 5.474/68; 186, 188, I, e 944, parágrafo único, do CC/02, ao sustentar, em síntese: (1) omissão do acórdão recorrido acerca da existência de aceite nos títulos levados a protesto; (2) o descabimento da indenização por danos morais, uma vez que o protesto dos títulos não decorreu de ato ilícito, tendo por objetivo, tão somente, assegurar-lhe o direito de regresso contra o endossante; e(3) a necessidade de fixação proporcional das verbas sucumbenciais, considerando a participação de cada litisconsorte.
+Não houve o oferecimento de contrarrazões (e-STJ, fl. 230).
+O apelo nobre foi inadmitido em virtude da (i) ausência de negativa da prestação jurisdicional; e (ii) falta de demonstração da vulneração aos dispositivos arrolados no especial (e-STJ, fls. 233/235).
+Nas razões do presente agravo em recurso especial, KAPITAL FACTORING reiterou a argumentação deduzida no apelo extremo, insurgindo-se contra os fundamentos da decisão agravada.
+Foi apresentada impugnação requerendo a aplicação da multa por litigância de má-fé (e-STJ, fls. 247/254).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação dos arts.489 e1.022 do NCPC
+Nas razões do recurso respecial, KAPITAL FACTORINGsustentou que o TJSPnão teria apreciado a alegaçãoda existência de aceite nos títulos levados a protesto.
+Contudo, sem razão.
+Ao dar parcial provimento à sua apelação, embora reduzindo o valor da indenização por danos morais, o Tribunal bandeirante manteve a sentença na parte em que reconheceu a inexigibilidade dos títulos, porquanto carecedores de lastro negocial. Confira-se:
+A apelante aduz ter adquirido as duplicatas impugnadas da empresa Kofal na condição de terceiro de boa-fé, tendo adotado todas as cautelas quanto à exigência da documentação para cobrança do título, cientificando a devedora acerca da cessão do crédito, a qual teria se mantido silente até a formalização do protesto. Alega que, tão logo foi notificada acerca da inexigibilidade do título, procedeu ao cancelamento do protesto, antes mesmo do deferimento da tutela provisória, sendo que a duplicata de nº 397-B não foi protestada.
+ ..
+Em primeiro, bem declarada a inexigibilidade dos títulos pelo juízo de origem, uma vez que não se comprovou sua origem em transação regular entre a autora e a primeira corré.
+A duplicata é um título de crédito causal, o que equivale dizer que sua emissão não goza da característica da abstração que torna o título legítimo e exigível pela sua própria emissão, especialmente quando desprovida de aceite, como no caso em tela.
+A duplicata depende, para sua validade, da verificação da relação jurídica subjacente que justifique seu saque, fundamentada em uma relação de compra e venda mercantil ou de prestação de serviços. A inexistência de tal causa subjacente implica a nulidade da duplicata.
+Como bem verificado, a despeito da apresentação de fatura de compra e venda mercantil pela cessionária do crédito, esse documento não demonstra a existência da relação negocial subjacente, uma vez que suficientemente impugnados seus elementos fáticos, cuja verossimilhança prevalece diante da revelia da primeira corré(e-STJ, fls. 187/190).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa ao art. 1.022 do NCPC, o que busca KAPITAL FACTORINGé apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A DELIBERAÇÃO UNIPESSOAL QUE CONHECERA DO AGRAVO (ART. 544 DO CPC/73) PARA, DE PLANO, NEGAR SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+1. Não compete ao STJ o exame de preceitos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpar a competência do Supremo Tribunal Federal. Precedentes.
+2. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+3. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, tendo enfrentado todos os pontos aventados pela parte nas razões do agravo regimental, apenas decidindo de forma contrária aos interesses da embargante, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 469.306/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 1º/12/2016, DJe 7/12/2016 - sem destaque no original)
+Afasta-se, portanto, a alegação de omissão do acórdão recorrido.
+(2) Da indenização por danos morais
+Por sua vez, a insurgente sustentouo descabimento da indenização por danos morais, uma vez que o protesto dos títulos não decorreu de ato ilícito, tendo por objetivo,tão somente, assegurar-lhe o direito de regresso contra o endossante.
+Sobre o tema, o Tribunal paulista assim se pronunciou:
+Com isso, o pleito declaratório de nulidade dos títulos não pode ser abalado pelo recurso interposto, restando averiguar a ocorrência de danos morais indenizáveis, e a responsabilidade da corré apelante. E, também neste ponto, a sentença não merece reforma.
+Verifica-se que a segunda requerida, apelante, figura como favorecida dos títulos apresentados a protesto, e que almejou receber os créditos por ela adquiridos, desprovidos de higidez.
+A parte firmou contrato de cessão de crédito com a primeira requerida, tornando-se pessoalmente responsável por eventuais vícios do título, uma vez que titular do montante perseguido.
+Sofrendo o título de vício formal desde a sua emissão, sem aposição de aceite do sacado a fim de conferir autonomia e abstração à duplicata, responde o endossatário titular do crédito igualmente pelos danos oriundos da cobrança indevida, ressalvado o direito de regresso deste contra o endossante
+(e-STJ, fls. 190/191).
+Como se vê, o Tribunal estadual, ao reconhecer a responsabilidade do cessionário pela higidez do titulo cedido, o fez em conformidade com o entendimento assentado nesta Corte, incidindo, no ponto, o óbice contido na Súmula nº 83 do STJ.
+Nesse sentido, confira-se o precedente da Segunda Seção proferido no julgamento de recurso repetitivo:
+DIREITO CIVIL E CAMBIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC.DUPLICATA DESPROVIDA DE CAUSA RECEBIDA POR ENDOSSO TRANSLATIVO. PROTESTO. RESPONSABILIDADE DO ENDOSSATÁRIO.
+1. Para efeito do art. 543-C do CPC: O endossatário que recebe, por endosso translativo, título de crédito contendo vício formal, sendo inexistente a causa para conferir lastro a emissão de duplicata, responde pelos danos causados diante de protesto indevido,ressalvado seu direito de regresso contra os endossantes e avalistas.
+2. Recurso especial não provido.
+(REsp 1.213.256/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, j. 28/9/2011, DJe 14/11/2011)
+(3) Da incidência da Súmula nº 211 do STJ
+KAPITAL FACTORING indicoua necessidade de fixação proporcional das verbas sucumbenciais, considerando a participação de cada litisconsorte.
+Ocorre que a questão tal como posta não foi enfrentada pelo TJSP, nem mesmo depois da oposição dos embargos de declaração.
+Assim, com base no que dispõe a Súmula nº 211 desta Corte, a matéria não pode ser analisada diretamente no julgamento do presente recurso especial:Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+A jurisprudência do STJ firmou o entendimento de que, para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (AgRg no AREsp 621.867/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 24/3/2015, DJe 27/3/2015).
+No caso, a despeito da KAPITAL FACTORINGter alegado, nas razões do recurso especial, ofensa aos arts. 489 e 1.022 do NCPC, não arrolou, entre os pontos considerados omissos, a questão relacionada a fixação proporcional das verbas sucumbenciais.
+Por fim, há que se ter em mente que a litigância de má-fé, passível de ensejar a aplicação da multa estabelecida no art. 80 do NCPC, configura-se quando houver a prática de atos inúteis ou desnecessários à defesa do direito e a criação de embaraços à efetivação das decisões judiciais, ou seja, na insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios.
+Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DO STJ.AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO CPC/2015.INCIDÊNCIA DA SÚMULA N. 182/STJ. LITIGÂNCIA DE MÁ-FÉ.INEXISTÊNCIA. PEDIDO DE CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. IMPOSSIBILIDADE.AGRAVO INTERNO NÃO CONHECIDO.
+ ..
+2. Pedido de condenação por litigância de má-fé. Não se vislumbra a ocorrência de nenhuma das hipóteses autorizativas previstas no art. 80 do CPC/2015. Frise-se que não se pode confundir má-fé com a equivocada interpretação do direito.
+3. Honorários advocatícios recursais em agravo de instrumento.
+Impossibilidade, nos termos das regras definidas pela Terceira Turma deste Tribunal Superior - nos EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+4. Agravo interno não conhecido.
+(AgInt no AREsp 1.153.557/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 21/11/2017, DJe 5/12/2017 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial, NEGANDO-LHE PROVIMENTO.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de B. F. COMÉRCIO,limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DONCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DOSARTS. 489 E 1.022 DO NCPC. NÃO OCORRÊNCIA. DUPLICATAS EMITIDAS SEM CAUSA NEGOCIAL SUBJACENTE. RESPONSABILIDADE SOLIDÁRIA ENTRE ENDOSSANTE E ENDOSSATÁRIO. PRECEDENTES. FIXAÇÃO PROPORCIONAL DAS VERBAS SUCUMBENCIAIS. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ.APLICAÇÃO DA MULTA POR LITIGÂNCIA DE MÁ-FÉ. IMPOSSIBILIDADE.AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
