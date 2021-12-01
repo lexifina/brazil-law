@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com a Sra. Ministra Relatora.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por ALESSANDRA JORDELINA MARTINS DE OLIVEIRA e ERNESTO DORAT FILHO, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Ação: execução de título extrajudicial, ajuizada por TERRA NOVA SÃO JOSÉ DOS CAMPOS I, em face de ALESSANDRA JORDELINA MARTINS DE OLIVEIRA e ERNESTO DORAT FILHO.
+Decisão interlocutória: deferiu o pedido de penhora do imóvel, identificado sob a matrícula n. 21.465.
+Acórdão: negou provimento ao agravo regimental interposto pelos agravantes.
+Decisão monocrática: não conheceu do agravo em recurso especial, ante a incidência da Súmula 182/STJ, nos termos do art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: sustentam que as razões apresentadas atacaram todos os fundamentos insertos no r. despacho que inadmitiu o recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. INCONFORMISMO QUANTO A INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de execução de título extrajudicial.
+2. A insurgência dos agravantes quanto à incidência das Súmulas 5 e 7/STJ, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por eles manejado.
+3. A ausência de cotejo analítico e a não comprovação da similitude fática, aptos a demonstrar a divergência jurisprudencial sustentada pelos agravantes, violam o art. 1.029, §1º do CPC/2015.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por ALESSANDRA JORDELINA MARTINS DE OLIVEIRA e ERNESTO DORAT FILHO, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Pela análise das razões recursais apresentadas, verifica-se que os agravantes não trouxeram qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Os agravantes se insurgem contra a aplicação da Súmula 182/STJ ao caso, sustentando que os fundamentos foram atacados de forma individualizada.
+Malgrado o inconformismo dos agravantes, mesmo afastando-se a aplicação do óbice sumular 182 desta Corte, é de se observar que razão não lhes assiste, uma vez que em relação ao presente caso incidem os óbices sumulares 5 e 7 desta Corte.
+Nesse sentido, consignou a Corte local que: i) é patente a legitimidade ativa do agravado, quanto à execução das cotas condominiais do imóvel situado na Estrada Velha Rio São Paulo, n. 485, casa n. 440, São José dos Campos -SP, por se tratar de unidade situada no condomínio, o qual foi devidamente instituído por convenção (págs. 17/43 dos autos de origem), ressaltando-se que o contrato juntado aos autos, relativamente à empresa Duplique do Vale Cobranças de Condomínio Ltda., diz respeito à contratação pelo condomínio de empresa especializada em cobrança extrajudicial, o que, por si só, não representa cessão dos créditos inadimplidos (cf. cláusula 4, pág. 240), tampouco aqueles objeto de discussão nos presentes autos; e, ii) tem-se que o pedido de parcelamento está fora dos parâmetros previstos no art. 916 do CPC/15, haja vista que os executados foram citados em março de 2020 (págs. 160/161), deixando decorrer, inclusive, o prazo legal para oferecimento de embargos ou adimplemento da obrigação (cf. pág. 162 dos autos de origem).
+Assim, cumpre ressaltar que, na hipótese em que pretendem impugnar a aplicação das Súmulas 5 e 7/STJ, devem os agravantes não apenas mencionar que os referidos enunciados devem ser afastados, mas, além disso, também deve demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que não restou configurado.
+Por fim, razão também não assistiria aos agravantes no tocante à alegada existência de dissídio jurisprudencial, como defendido em suas razões de recurso especial, uma vez que se observa que os agravantes deixaram de promover o necessário cotejo analítico e a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, uma vez que a análise do recurso especial fundado na alínea "c" do permissivo constitucional exige a comprovação do dissídio, por meio da apresentação de julgados que evidenciem a similitude fática das situações às quais foram dadas soluções distintas, na aplicação do direito à espécie. Nesse sentido: AgInt no AgInt no AREsp 1.589.874/SE, 4ª Turma, DJe 10/12/2020; EDcl nos EDcl no AgInt no AREsp 1.498.018/SC, 4ª Turma, DJe 04/12/2020; AgInt no REsp 1.811.525/DF, 3ª Turma, DJe 01/09/2020; AgInt no AgInt no AREsp 1.579.612/RS, 3ª Turma, DJe 18/08/2020.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
