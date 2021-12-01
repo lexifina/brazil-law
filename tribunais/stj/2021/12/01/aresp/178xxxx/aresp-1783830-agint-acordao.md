@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por ALESSANDRA DE SOUZA ARAUJO,em face de decisãoque conheceu de seu agravo para não conhecer do recurso especial, assim ementada (e-STJ Fls. 875):
+AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE SUSPEIÇÃO. ACOLHIMENTO DA EXCEÇÃO, ANTE O COMPROMETIMENTO DA IMPARCIALIDADE. MODIFICAÇÃO DO ACÓRDÃO, COM AFASTAMENTO DA SUSPEIÇÃO, QUE DEMANDA A INCURSÃO NO MATERIAL PROBATÓRIO DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Reiterou, aparterecorrente, a tese de intempestividade da suspeição, bem como, "ausência da subsunção da conduta da magistrada ora recorrente a um dos fatos objetivos inseridos no rol taxativo do artigo 145, do CPC, do que resulta sua inequívoca vulneração pelo venerando acórdão recorrido, data maxima venia" (e-STJ Fls. 900).
+Alegou, ainda, que "todas as questões trazidas no Recurso Especial e ora revisitadas são exclusivamente de direito" (e-SJT Fls. 887).
+A parte agravada apresentou impugnação (e-STJ fls. 905/926).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE SUSPEIÇÃO. ACOLHIMENTO DA EXCEÇÃO, ANTE O COMPROMETIMENTO DA IMPARCIALIDADE. MODIFICAÇÃO DO ACÓRDÃO, COM AFASTAMENTO DA SUSPEIÇÃO, QUE DEMANDA A INCURSÃO NO MATERIAL PROBATÓRIO DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o presente agravo interno não merece ser provido.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parteagravante, capaz de alterar os fundamentos da decisão agravada, faz subsistir incólume o entendimento nela firmado.
+Com efeito, percebe-se que as razões trazidas no agravo interno, de inaplicabilidade da Súmula nº 7/STJ àpretensãorecursal, não são aptas a desconstituir a decisão recorrida, cujos fundamentos passo aqui a reiterar.
+Ora, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, o Tribunal de origem,relativamente àtesede intempestividade da suspeição, e,imparcialidade da Magistrada a justificar o desacolhimento da exceção de suspeição, asseverou que (e-STJ Fls. 699/707, gn):
+"Inicialmente, afirme-se a tempestividade do incidente.
+É que, em verdade, aqui não houve fato único que revelasse às partes a inclinação íntima da preclara magistrada, mas, a rigor e pela própria narrativa da inicial, uma percepção consolidada aos poucos.
+Até porque, note-se bem, os eventos pontuados pelo excipiente, se tomados em sua individualidade, não revelam mais do que a divergência de compreensão jurídica acerca da causa.
+No entanto, o conjunto que formam sob as circunstâncias de reiteração e linearidade faz ver que a hipótese vai além da insatisfação com decisões contrárias ao interesse da parte.
+Isto é: neste caso concreto, conforme se demonstrará oportunamente, o curso da demanda enredou episódios isolados de modo a deixar ver, em sua consistência e insistência, um prejulgamento pela eminente juíza.
+Portanto, se a causa de pedir é um mosaico, não há falar em extemporaneidade.
+(..)
+Portanto, não se cuidará aqui da retidão profissional ou pessoal da Exmo. Dra. Alessandra Araújo, a qual todos conhecem e admiram nesta Corte, mas do efetivo comprometimento de sua imparcialidade para presidir o feito de origem.
+Ressalve-se, outrossim, que a imparcialidade referida não sugere interesse em favor de uma das partes, mas a ausência de distanciamento necessário do julgador como garantia do devido processo legal.
+Pois bem.
+De saída, informo não desconhecera regra segundo a qual a mera sucessão de decisões desfavoráveis não justifica o reconhecimento da suspeição do magistrado.
+Nada obstante, conforme já se antecipou no tratamento da preliminar, o caso concreto enceta peculiaridades que, em uma leitura contextualizada, extrapolam o alcance preceptivo desta orientação.
+Permita-se, então, resgatar o que já asseverei em decisão proferida nos autos do AI nº 0055416-21.2018.8.19.0000 sobre a história dos autos principais:
+Em 30/11/2016, pela primeira vez, a preclara magistrada convolou, de ofício, a recuperação judicial em falência.
+Desta decisão, foram extraídos três agravos de instrumento (nº 0000372-85.2016.8.19.0000, 0041528-53.2016.8.19.0000 e 0064760-94.2016.8.19.0000), os quais, ao final, foram providos por este Colegiado para asseverar a impossibilidade de implementar a quebra de ofício, forte em que, "o poder decisório toca sempre à assembleia de credores, soberana na aprovação do plano de soerguimento e em sua fiscalização. Ao juiz, competirá o controle de legalidade das cláusulas articuladas, mas nunca a análise operacional e de viabilidade econômico financeira".
+Em prejuízo desta clara orientação da Instância Superior, novamente, em 01/10/2017, o juízo a quo decreta a falência da recuperanda, imbuído daqueles mesmos fundamentos já revistos pelo Colegiado.
+Assim, mais uma vez, esta Eg. Câmara Cível conheceu e proveu os agravos interpostos (nº 0002335-94.2017.8.19.0000, 0057362-62.2017.8.19.0000, 0061868-81.2017.8.19.0000) para restaurar o andamento da recuperação judicial. Com a baixa dos autos para cumprimento das respectivas decisões monocráticas, a magistrada a quo, em tom insurgente, pareceu desafiar os fundamentos então sufragados e chegou a determinar a expedição de ofício ao Insigne Desembargador Presidente da Primeira Câmara Cível para advertir-lhe quanto à existência de denúncia na Operação Lava-Jato contra a recuperanda.
+Ao que parece, pretendia passar por cima do Colegiado para insuflar o Presidente -como se a ele tocasse a função de censor - com questões que, embora alheias à seara cível-empresarial, soam como inflamantes. É o que consta de fls. 6.479/6.480 dos autos principais.
+Ainda irresignada com a revisão de suas decisões, a i. juíza insiste em externar sua íntima convicção sobre a causa nas decisões de fls. 6.508/6.509 e 6.575 do caderno principal. Nem mesmo em sede de informações de agravo para outro órgão fracionário que apenas conhecia incidentalmente o litígio (a Eg. Décima Oitava Câmara Cível), resigna a sua contrariedade com as decisões deste Colegiado, consoante se vê de fls. 6.906/6.908 daqueles autos originários.
+Neste contexto, sobrevém a decisão impugnada por meio deste agravo de instrumento, qual a de indeferimento da formação do condomínio de credores nos termos do que convencionado na assembleia própria.
+Então, por reconhecer que se tratava de mais uma medida apta a alongar o desenvolvimento do processo, deferiu-se efeito suspensivo conforme fls. 23. Por fim, exsurge, como já dito, a destituição do administrador judicial, o que poderia ser interpretado como o ânimo de não cumprir a decisão de fls. 36.
+Como se vê, a excepta não se ateve a sustentar um posicionamento jurídico, mas também: i) violou julgados da Instância Superior, em mais de uma oportunidade, para restabelecer a decretação de quebra; ii) determinou se oficiasse ao Presidente desta Eg. Câmara para lhe relatar suas ideias preconcebidas sobre a causa e solicitar providências; e iii) operou o processo de modo a atrasar ou a inviabilizar o cumprimento do plano de recuperação judicial.
+Mais do que isso, mesmo após este Relator ter desobrigado as partes de darcumprimento a qualquer ato que, mesmo tangencialmente, negasse autoridade às decisões desta Câmara e, bem assim, ter advertido à magistrada de que, a persistir no levantamento de óbices ao prosseguimento do feito, estaria sujeita às eventuais consequências cíveis (art.143, II do Código de Processo Civil), administrativas (art. 35, I da LOMAN) e criminais (art. 319 do Código Penal), sobreveio a negativa de cumprimento sob o pretexto de que a decisão não enfrentara, por escrito, nulidades identificadas pela excepta na escritura de constituição do condomínio de credores. Confira-se:
+Ocorre que, a despeito de sua fundamentação, percebe-se que o referido Administrador destituído apresentou minuta de condomínio com assertivas não determinadas expressamente pelas decisões do Tribunal de Justiça, pela preventa 1ª Câmara Cível. A exemplo, não há qualquer decisão escrita da 1ªCâmara Cível aprovando o espaço em branco que o destituído anterior Administrador Judicial apresentou na minuta a fls. 6674.
+Não há qualquer decisão escrita da 1ª Câmara Cível concordando em restar responsável por parte dos negócios do "condomínio" empresa situada em São Paulo e remunerada em R$ 100.000,00 (fls. 6656, 6659, item 6.1). Não há qualquer decisão escrita da 1ª Câmara Cível chancelando diretrizes de recolhimentos tributários como consta na minuta a fls. 6659, item 6.5.
+Outrossim, também não logrou este Juízo encontrar qualquer decisão escrita da1ª Câmara Cível chancelando abertura de novo CNPJ e conta bancária em nome de outrem (que jamais ingressou no processo) como o destituído Administrador Judicial apresentou na minuta a fls. 6667, item 13.1.
+Não há qualquer decisão escrita da 1ª Câmara Cível concordando a previsão de arbitragem junto o "Centro de Arbitragem e Mediação da Câmara de Comércio Brasil-Canadá" (fls. 6669).
+Nesta toada, urge concluir que o antigo Administrador NÃO DEU CORRETOCUMPRIMENTO AO QUANTO DECIDIDO PELA CÂMARA, incluindo, na ESCRITURA PÚBLICA DE CONVENÇÃO DE CONDOMÍNIO PROINDIVISO E OUTRAS AVENÇAS previsões canhestras e estranhas aos limites impostos nesta Recuperação Judicial. Não tenho dúvidas de que a manutenção de sua destituição é medida que se impõe.
+Não bastasse a irretorquível evidência de quebra de isenção, há diversas manifestações em que a ilustre juíza confessa sua inquebrantável certeza sobre a imoralidade do plano de soerguimento. Confiram-se:
+(..)
+Não há dúvida, pois, de que a eminente magistrada abandonou seu vértice equidistante na tríade processual e agora atua como parte na tentativa de que prevaleça a sua ótica jurídica".
+Diante da fundamentação alhures exposta,dúvidas não restam de que seria indispensável reexaminar o conjunto fático-probatório dos autos a fim de afastar as premissas fixadas no aresto atacado, primeiroa, acerca da tempestividade da suspeição, e, segundo,no sentido de que "a eminente magistrada abandonou seu vértice equidistante na tríade processual e agora atua como parte na tentativa de que prevaleça a sua ótica jurídica".
+Dessarte, mostra-se imperiosa a aplicação da Súmula 7/STJ.
+No mais, insta ressaltar que, de acordo com o entendimento consolidado no Superior Tribunal de Justiça, o reexame do acervo de fatos e provas não se confunde com a "valoração dos critérios jurídicos respeitantes à utilização da prova e à formação da convicção".
+Explica-se: valoração da prova "refere-se ao valor jurídico desta, sua admissão ou não em face da lei que a disciplina, podendo representar, ainda, contrariedade a princípio ou regra jurídica, no campo probatório, questão unicamente de direito, passível de exame, nesta Corte. Diversamente, o reexame da prova implica a reapreciação dos elementos probatórios, para concluir-se se eles foram ou não bem interpretados, matéria de fato, soberanamente decidida pelas instâncias ordinárias de jurisdição e insuscetível de revisão , no Recurso Especial" (AgRg no AREsp 235.460/ES, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 09/09/2014, DJe 16/09/2014).
+Diante de tais considerações, impõe-se a manutenção da decisão ora agravada, uma vez que permanece a validade dos argumentos que a sustentam e não foram apresentados elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa (art. 1.026, § 2º, do CPC).
+É o voto.
