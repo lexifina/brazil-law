@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RAPHAEL HENRIQUE VASCONCELOS GOMES em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n. 0061850-79.2019.8.13.0704).
+Em primeiro grau, o paciente foi condenado às penas de 3 anos, 10 meses e 15 dias de reclusão em regime inicial fechado (fls. 111-135) e de 762 dias-multa pela prática do delito previsto no art. 35, caput, da Lei n. 11.343/2006.
+A defesa alega estar o paciente suportando constrangimento ilegal em sua liberdade de locomoção, porquanto configurado excesso de prazo para o julgamento do recurso de apelação interposto perante o Tribunal de origem. Argumenta que, no caso, está caracterizada desídia estatal na condução do feito, que não possui sequer previsão de julgamento.
+Defende a necessidade de superação da Súmula STJ n. 52, ante a nítida violação ao disposto no art. 5º, LXXVIII, da Constituição Federal. Afirma que o réu, considerando o período de prisão cautelar, teria direito à progressão de regime, casotransitada em julgado a sentença condenatória.
+Requer, liminarmente, a concessão da ordem para que seja assegurado ao paciente o direito de aguardar o julgamento do recurso em liberdade. No mérito, pleiteia a concessão da liberdade provisória.
+O pedido de liminar foi indeferido (fls. 159-160).
+Foram prestadas informações às fls. 164-176 e 177-184.
+O Ministério Público Federal manifestou-se pela concessão da ordem de habeas corpus (fls. 186-189).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal. Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+No tocante à alegada demora no julgamento da apelação pelo Tribunal a quo, esclareça-se que "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade, bem como outros fatores que eventualmente possam influenciar no curso do processo.
+Na situação em apreço, embora a apelação tenha sido distribuída no dia 24/11/2020, é possível verificar que a ação penal originária ostenta considerável complexidade, notadamente ante o elevado número de crimes em apuração, de denunciados e de procuradores responsáveis por suas defesas, de modo que não há falar em excesso de prazo.
+Acrescente-se ainda que no âmbito do Tribunal de origem foi suscitado conflito de competência com o objetivo atribuir ao juízo competente o julgamento da causa, evitando-se eventuais nulidades processuais. Tal medida, inevitavelmente, acarreta certo retardo no julgamento definitivo da demanda, sem, contudo, configurar qualquer constrangimento ilegal.
+Essas peculiaridades explicam a demora na tramitação processual, sem que esteja caracterizada a alegada atuação desidiosa do Poder Judiciário.
+A propósito, sobre o tema, vejam-se os seguintes precedentes: HC n. 567.073/PB, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 23/6/2020; e HC n. 432.568/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 23/3/2018.
+Ressalte-se também que, nos termos da jurisprudência do STJ, "eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade da reprimenda imposta pela sentença condenatória" (HC n. 388.468/BA, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 13/8/2018).
+Na espécie, consoante as informações prestadas às fls. 164-176 e em consulta ao site do Tribunal a quo (Processo n. 0021516-03.2019.8.13.0704), verifica-se que o paciente está em cumprimento de pena, a qual, caso mantida a condenação pelo delito previsto no art. 35, caput, da Lei n. 11.343/2006 (fls. 111-135), será unificada para fins de progressão e ultrapassará os 9 anos, 8 meses e 15 dias de reclusão, não se manifestando desarrazoado o prazo para julgamento da apelação defensiva.
+Caso, pois, de indeferimento das teses defensivas.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
