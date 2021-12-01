@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Givaldo Duarte de Souza Neto, no qual se aponta como órgão coator o Tribunal de Justiça de Pernambuco (Apelação n. 0005609-57.2019.8.17.1130 - fls. 112/133), por manter a sentença proferida pelo Juízo de primeiro grau, que o condenou como incurso no art. 33, caput, da Lei n. 11.343/2006 (quase 20 kg de maconha - fl. 51) à pena de 6 anos e 8 meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 600 dias-multa (fls. 49/63).
+Nesta Casa, a defesa pretende, em suma, a fixação do regime semiaberto para o início do cumprimento da reprimenda, além de irresignar-se contra a pena-base estabelecida.
+Liminar indeferida (fls. 178/179), informações prestadas (fls. 182/212), o Ministério Público Federal opinou pelo não conhecimento do writ, em parecer assim ementado (fl. 216):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. CONDENAÇÃO À PENA DE 05 ANOS E 10 MESES DE RECLUSÃO EM REGIME FECHADO. REGIME MAIS GRAVOSO. JUSTIFICATIVA ADEQUADA. GRAVIDADE CONCRETA DO DELITO EVIDENCIADA PELA QUANTIDADE EXPRESSIVA DE DROGA APREENDIDA (19,89KG DE MACONHA) E INDÍCIOS DE DEDICAÇÃO À ATIVIDADE CRIMINOSA. ATENDIDO O DISPOSTO NO ART. 93, IX, DA CF/88. AUSÊNCIA DE ILEGALIDADE MANIFESTA. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS.
+É o relatório.
+Inicialmente, ressalto que a dosimetria da pena se insere em um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+Quanto à pena-base, as instâncias ordinárias fixaram-na em 8 anos de reclusão, além do pagamento de 700 dias-multa, em razão da análise desfavorável da vetorial das circunstâncias do delito, bem como da grande quantidade do material entorpecente apreendido, qual seja, 19,891 kg de maconha (fls. 129/130), em harmonia, portanto, com a jurisprudência desta Corte, conforme se vê dos seguintes precedentes:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. TRÁFICO, ASSOCIAÇÃO PARA O TRÁFICO, PORTE ILEGAL DE ARMA DE FOGO E RESISTÊNCIA. DOSIMETRIA. ALEGAÇÃO DE FALTA DE FUNDAMENTAÇÃO IDÔNEA QUE JUSTIFIQUE A MAJORAÇÃO DA PENA-BASE E AUSÊNCIA DE INDIVIDUALIZAÇÃO DA PENA. IMPROCEDÊNCIA. QUANTUM DE AUMENTO PROPORCIONAL. DISCRICIONARIEDADE DO JUÍZO. PRECEDENTES DO STJ. MANUTENÇÃO DA DECISÃO QUE SE IMPÕE.
+1. Como é cediço, a teor do art. 42 da Lei n. 11.343/2006, a q uantidade e a natureza da droga apreendida são preponderantes sobre as circunstâncias estabelecidas no art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado (HC n. 409.855/TO, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/11/2017).
+2. O caso em aposto trata de apreensão de 2.575,6 kg de maconha, quantidade essa considerada exorbitante e apta a justificar o recrudescimento da pena-base, tanto no delito de associação ao tráfico (em que a pena-base foi elevada em 1 ano) quanto no crime de tráfico de drogas (em que a pena-base foi elevada em 3 anos).
+ ..
+6. Agravo regimental improvido.
+(AgRg no REsp n. 1.797.518/CE, de minha relatoria, Sexta Turma, DJe 16/04/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. ELEVADA QUANTIDADE DE DROGA. FUNDAMENTO VÁLIDO. CAUSA DE DIMINUIÇÃO DE PENA. VIVÊNCIA DELITIVA. AGRAVO IMPROVIDO.
+1. Na primeira fase da dosimetria - art. 59 do CP - o acórdão utilizou-se da expressiva quantidade do entorpecente - 17,96 kg de maconha - para exasperar a pena-base em 2/3, nos termos do art. 42 da Lei de Drogas, o que reflete o aumento de 3 anos e 4 meses sobre o mínimo legal de 5 anos, perfazendo-se em 8 anos e 4 meses de reclusão.
+2. O afastamento do tráfico privilegiado foi devidamente fundamentado, com base, além da quantidade expressiva de droga apreendida, no fato de o paciente dedicar-se à atividade criminosa, conforme consta no acórdão, em que, destacando-se os elementos de prova dos autos, ressaltou que "Não bastasse isso, trata-se de indivíduo que percorreu cerca de 620 km, em um tráfego interestadual, apenas para chegar ao local em que estaria o automóvel com o entorpecente transportado, sendo pouco crível tratar-se de novado no ramo espúrio".
+3. Nos termos do entendimento firmado pelo STJ, de fato, a quantidade, a natureza e a variedade da droga apreendida, além de outros elementos probatórios que indiquem vivência delitiva, constituem fundamento idôneo a justificar a não aplicação da minorante do tráfico, inexistindo, portanto, ilegalidade a ser sanada.
+4. Agravo regimental improvido.
+(AgRg no HC n. 622.663/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 08/02/2021 - grifo nosso).
+No mesmo sentido, confira-se o julgamento proferido no julgamento do AgRg no HC n. 547.176/SP, Ministra Laurita Vaz, Sexta Turma, DJe 4/2/2020.
+Por fim, não há falar em existência de constrangimento ilegal na fixação do regime fechado para o início do cumprimento de pena inferior a 8 anos de reclusão, tendo em vista a fixação da pena-base acima do mínimo legal (art. 33, § 3º, do Código Penal).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE DE DROGAS. FUNDAMENTAÇÃO IDÔNEA. REGIME FECHADO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
