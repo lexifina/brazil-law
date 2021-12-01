@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARCO ANTÔNIO DO CARMO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão  de fls. 337/339  proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Quanto à controvérsia insurgida, aponta a Defesa menoscabo ao art. 109, inciso VI, do Estatuto Repressor, ao raciocínio de que, "somando-se o tempo que correu antes da suspensão do prazo prescricional com os anos após o retorno do andamento normal do processo", os quais totalizam "05 (cinco) anos e 03 (três) meses" (fl. 345), dessume-se que a alvitrada declaração de extinção da punibilidade Estatal, por incidência da prescrição, é medida que se impõe.
+Para tanto, explicita os seguintes argumentos:
+0 Embargante foi processado criminalmente nestes autos sendo que a ação inaugurou em 16/04/2014 com a distribuição do inquérito e seguiu até 13/07/2017 quando foi suspensa em decorrência de o mesmo não ser encontrado. (fls. 344).
+0 embargante foi denunciado em 07/10/2014. (fls. 344).
+Portanto de 07/10/2014 até 13/07/2017 data da publicação da suspensão passaram-se 02 (dois) anos e 09 (nove meses); (fls. 345).
+0 processo ficou suspenso até 07/03/2018, quando em 14/03/2018 seguiu carta precatória por ter sido encontrado, começando  se novamente a correr o processo e o prazo prescricional. (fls. 344).
+De 14/03/2018 até hoje 06/09/2020, passaram mais 02 (dois) anos e 06 (seis) meses; (fls. 345).
+Assim somando-se o tempo que correu antes da suspensão do prazo prescricional com os anos após o retorno do andamento normal do processo somam-se 05 (cinco) anos e 03 (três) meses, estando portanto prescrito para fins de aplicação e execução da pena  ..  (fls. 345).
+É, no essencial, o relatório. Decido.
+No que concerne ao tema controvertido, o Tribunal bandeirante, ao rejeitar os embargos de declaração, aclarou:
+Inconformado, se insurge contra o v. acórdão, alegando que ocorreu a prescrição.
+É o relatório.
+Conheço dos embargos porque tempestivos, porém, os rejeito, certo que o v. acórdão recorrido não contém nenhum vício e também não ocorreu a alegada prescrição.
+Com efeito, a denúncia foi recebida em 03/12/2014 e o processo foi suspenso em 29/11/2016. O réu foi localizado e citado no mês de maio de 2018. A sentença foi publicada em 19/10/2018.
+Desta forma, considerando os marcos interruptivos de maneira correta, o lapso temporal aplicável ao caso (03 anos), não transcorreu em nenhum desses intervalos. (fls. 338 - g.m.)
+Da compreensão dos excertos transcritos, em cotejo às genéricas e deficientes razões consignadas no apelo raro, reputadas por essa Corte Superior como mera reiteração genérica dos aclaratórios, verifica-se incidir o óbice da Súmula n. 284/STF, sob os contornos do art. 932, inciso III, in fine, do CPC/15, c/c art. 3º do CPP, uma vez que a defesa deixou de infirmar - com a necessária dialeticidade recursal e inobservância ao ônus da impugnação específica - fundamento autônomo e suficiente à manutenção do aresto recorrido.
+In casu, tal fundamento está circunscrito na máxima averbada de que, considerando-se "os marcos interruptivos de maneira correta, o lapso temporal aplicável ao caso (03 anos), não transcorreu em nenhum desses intervalos. (fls. 338 - g.m.).
+Nesse espectro, tendo em vista a ausência de impugnação, específica e pormenorizada, a fundamento determinante averbado no acórdão recorrido, atrai-se a aplicação, por conseguinte, do enunciado encartado na Súmula n. 284/STF, face à deficiência de fundamentação do apelo raro.
+Sobre o tema, este Sodalício tem propalado que o "princípio da dialeticidade, positivado no art. 932, inciso III, do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando todos os fundamentos nela lançados para obstar sua pretensão" (AgRg no AREsp 1684895/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/06/2020, DJe 29/06/2020), sob pena de não cognoscibilidade do apelo raro por incidência da Súmula n.º 284 do STF.
+Com efeito, a "falta de impugnação específica de todos fundamentos utilizados na decisão agravada atrai a incidência do enunciado da Súmula 284 do Supremo Tribunal Federal, por analogia." (AgRg no REsp 1608750/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/10/2016, DJe 09/11/2016 - g.m.).
+No mesmo flanco, esta Corte Superior de Justiça tem assentadoque, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
