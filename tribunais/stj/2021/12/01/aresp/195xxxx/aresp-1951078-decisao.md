@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por NORTEC NORTE ENGENHARIA CIVIL LTDA., com fundamento nas alíneaa do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Rio Grande do Norteassim ementado (e-STJ, fl. 171):
+DIREITO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONDENATÓRIA EM AÇÃO INDENIZATÓRIA POR DANO MATERIAL. PREJUÍZO DECORRENTE DE MÁ PRESTAÇÃO DE SERVIÇO EM DETERMINADA OBRA CONTRATADA JUNTO À COMPANHIA AGRAVADA. RESPONSABILIZAÇÃO SOLIDÁRIA ENTRE A CONSTRUTORA AGRAVANTE E AS DEMAIS EXECUTADAS PARTICIPANTES DA OBRA. RELAÇÃO JURÍDICA ENTRE CORRÉUS DEVIDAMENTE CARACTERIZADA. PRECEDENTES. DECISÃO MANTIDA. CONHECIMENTO E DESPROVIMENTO DO AGRAVO DE INSTRUMENTO.
+No recurso especial, a recorrente apontou violação dos arts. 257, 264 e 265 do CC; e 503, 504 e 509, § 4º, do novo CPC.Esclareceu que se opôs ao acórdão que, no cumprimento de sentença, firmou a responsabilidade solidária das trêsrés.
+Arguiu que essa conclusão foi equivocada, porquanto o julgado exequendo não teria estabelecido essa condição, sendo certo que a imposição dessa solidariedade enseja ofensa à coisa julgada. Frisou que odispositivo do título executivo se limita a condenar a parte demandada ao pagamento da importância de R$ 121.098,60 (cento e vinte e um mil, noventa e oito reais e sessenta centavos), sem que tenha ocorrido determinação de condenação solidária entre as empresas.
+Apontou que a responsabilidade solidária não se presume, dependendo daexistência de previsão legal ou vontade das partes, requisitos que não se observariam. In casu, ponderou que estariam ausentes obrigação legal ou contratualestipulando a responsabilidade solidária. Pleiteou o conhecimento e provimento do recurso especial(e-STJ, fls. 182-200).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 226-237).
+Contraminuta apresentada (e-STJ, fls. 240-256).
+Brevemente relatado, decido.
+O acórdão estadual concluiu que a sentença objeto de execução teria estabelecido a responsabilidade solidária entre as rés, afastando a argumentação no sentido de que o Julgador inicial teria causado ofensa à coisa julgada. Nesse sentido, entendeu-se que oprocesso originária não teria afastado a solidariedade das demandadas, sendo todas, portanto, responsáveis pela condenação.
+Observe-se (e-STJ, fls. 172-173):
+Cumpre discutir se a empresa agravante deveria ser responsabilizada solidariamente com as demais executadas pelos danos materiais sofridos à companhia agravada, decorrentes da comprovação dos prejuízos provocados por serviços mal feitos em determinada obra contratada.
+O magistrado, em sentença, condenou os réus ao pagamento, em favor da autora, de indenização pelos danos materiais sofridos, na importância de R$ 121.098,60.
+Sob tal ótica, considerando a expressa legitimidade passiva dos réus para procederem à devida indenização, entendi que o caso tratou claramente de condenação com o status de responsabilização solidária, conforme previsão estabelecida no art. 264, do Código Civil.
+Eis o dispositivo:
+"Art. 264. Há solidariedade, quando na mesma obrigação concorre mais de um credor, ou mais de um devedor, cada um com direito, ou obrigado, à dívida toda.
+Não restou evidenciado no processo, demonstração cabal para o afastamento da solidariedade, a fim de prevalecer que a restituição determinada na sentença pudesse ocorrer somente em relação ao valor que o agravante entendeu devido.
+Também não aferiu através de elementos probatórios o que lhe conduzira a entender que o valor citado como "apropriado", seria o condizente com o limite de sua responsabilidade pelo dano praticado à companhia recorrida. Tanto assim, que indeferi a ordem liminar.
+Na sentença, não há individualização do pagamento. Todos que praticaram o dano material foram condenados pelos prejuízos sofridos pela companhia agravada. A tese recursal de aplicabilidade dos artigos 257 e 265, ambos do Código Civil, não prospera, pois que restou amplamente configurada a relação de solidariedade na mesma obrigação.
+Máxime, quando concebido na lide mais de um devedor (o que é o caso), e todos condenados em correspondência com a dívida objeto da própria sanção.
+De igual forma, não há que se falar na incidência do art. 509, § 4º, do mesmo diploma, haja vista, a meu juízo, não ter o magistrado inovado em sua decisão monocrática. Seguiu tão somente o prumo sentencial sem dele distorcer.
+Ao contrário do elencado no arrazoado, a responsabilidade conjunta das rés restou patente, conforme prenunciado no próprio , o qual menciona que art. 942 do Código Civil "se a ofensa tiver mais de um autor, todos responderão solidariamente pela reparação".
+Essas ponderações, a respeito da existência de condenação solidária entre as rés, decorreram da apreciação fática da causa, atraindo a aplicação da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO E SENTENÇA. CONCLUSÃO DA SEGUNDA INSTÂNCIA NO SENTIDO DA EXISTÊNCIA DE CONDENAÇÃO ESTIPULANDO A SOLIDARIEDADE ENTRE AS RÉS. AUSÊNCIA DE OFENSA À COISA JULGADA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
