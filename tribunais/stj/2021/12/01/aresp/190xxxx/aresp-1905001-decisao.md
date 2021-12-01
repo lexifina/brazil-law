@@ -1,0 +1,42 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por MAURO MARINI, contra inadmissão, na origem, de recurso especial fundamentado na alínea"a", do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ Fl. 344):
+GRATUIDADE DA JUSTIÇA - Impugnação ao deferimento do benefício - Acolhimento - A ré não presta serviço exclusivamente em favor de idosos, não se enquadrando na previsão do art. 51 do Estatuto do Idoso - Ademais, há indícios de suficiência de recursos para pagamento das custas, despesas processuais e honorários advocatícios - Benefício revogado. RESPONSABILIDADE CIVIL - Descontos indevidos no benefício previdenciário do autor - Inexistência de relação contratual entre as partes - Ante a ausência de demonstração de engano justificável, deve ser devolvida em dobro a quantia indevidamente cobrada - Aplicabilidade do Código de Defesa do Consumidor ao presente caso - Os valores da restituição em dobro devem ser acrescidos de juros moratórios a partir dos respectivos descontos - Adequada a imposição de ressarcimento por danos morais no valor de R$ 5.000,00 (cinco mil reais), o qual não comporta majoração - O montante indenizatório deve ser acrescido de correção monetária desde o arbitramento e de juros moratórios a partir do primeiro desconto indevido - Adequada, também, a fixação dos honorários advocatícios em 15% sobre o valor da condenação - Sentença reformada em parte - RECURSO PARCIALMENTE PROVIDO.
+Em seu recurso especial, orecorrentealegaofensa aos arts. 489, inciso II, e, § 1º,do Código de Processo Civil 2015.
+Aduz"violação às disposições da Lei de Processo, particularmente o art. 489, II e § 1º, sempre que a fundamentação do v. julgado, ao apontar o valor da indenização, deixar de justificar, de fato e de direito, ter relegado critério mínimo ou máximo possível atinente aos valores envolvidos na discussão, utilizando-se de multiplicador irrisório ou exagerado, e/ou para se filiar a outro padrão de quantidade" (e-STJ Fls. 358/359).
+Requer, no mais, a majoração do valor arbitrado a título de danos morais de R$ 5.000,00 (cinco mil reais) para R$ 15.000,00 (quinze mil reais).
+Pedeo provimento do recurso.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Quanto à preliminar de incompletude de prestação jurisdicional suscitada pela parte recorrente, entendo não ter havido deficiência nafundamentação,uma vez que o acórdão recorrido abordou de forma suficiente os pontos cruciais para o embasamento do seu raciocínio lógico-jurídico, conforme se pode observar do seguinte trecho (e-STJ, fl. 347):
+"A indenização em comento deve ser proporcional à gravidade objetiva do fato e de seu efeito lesivo, bem como às condições sociais e econômicas das partes, em tal medida que, por um lado, não signifique enriquecimento do autor e, por outro, produza na ré impacto bastante para dissuadi-la de nova prática ilícita.
+Nessas condições, a quantia fixada pelo douto magistrado a quo, de R$ 5.000,00 (cinco mil reais), se apresenta adequada para fins de reparação dos danos morais sofridos pelo autor, não comportando majoração".
+Nessaesteira, verifica-se que o Tribunal de origem manifestou-se suficientemente acerca dos motivos que levaram ao seu entendimento pelafixação em R$ 5.000,00 a título de dano moral sofrido pelos valores indevidamente descontados a maior do benefício previdenciário do autor ora recorrido.
+Nesse passo, registre-se que a jurisprudência desta Corte superior é firme no sentido de que "não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nemfundamentaçãosucinta comausênciadefundamentação" (EDcl no AgRg nos EREsp 1213226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016).
+No mais, quanto à tese de necessidade de majoração dos danos morais para R$ 15.000,00 melhor sorte não socorre ao recorrente.
+É pacífico nesta Corte Superior o entendimento de que a ausência de indicação, no recurso especial, do dispositivo de Lei Federal tido por infringido configura deficiência na fundamentação recursal, o que atrai a incidência da Súmula 284 do Supremo Tribunal Federal, por analogia.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. REEXAME DE FATOS. SÚMULA Nº 7/STJ. DISPOSITIVO LEGAL. VIOLAÇÃO. INDICAÇÃO. AUSÊNCIA. SÚMULA Nº 284/STF.
+1. Não viola o artigo 535 do Código de Processo Civil de 1973, nem importa negativa de prestação jurisdicional, o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. Rever a conclusão do aresto impugnado encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+3. Se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal.
+4. Agravo interno não provido. (AgInt no AREsp 968.409/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/02/2017, DJe 13/02/2017, grifei)
+Ressalto que tal óbice aplica-se tanto para a interposição do recurso com fundamento na alínea a do permissivo constitucional, quanto para a interposição com base em divergência jurisprudencial, tendo em vista que o recorrente não apontou dispositivo legal que teria obtido interpretação diversa da que foi dada por outro Tribunal (AgRg nos EREsp 382.756/SC, Corte Especial, Rel. Min. Laurita Vaz, DJe de 17/12/2009).
+A propósito:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. SEGURO POR INVALIDEZ. DEVER DE INFORMAÇÃO. ESTIPULANTE. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO DE LEI NÃO INDICADO. SÚMULA Nº 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. COBERTURA SECURITÁRIA.
+RESTRIÇÃO INVIÁVEL. FALHA NA INFORMAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A interposição de recurso pela alínea c exige a indicação do dispositivo de lei sobre o qual haveria divergência jurisprudencial, sem o qual incide a Súmula nº 284 do STF.
+3. A ausência de debate no acórdão recorrido acerca da alegação veiculada no recurso especial evidencia falta de prequestionamento, impossibilitando o conhecimento do recurso.
+4. A pactuação de cobertura por invalidez funcional não é, por si só, abusiva, desde que o consumidor seja prévia e devidamente esclarecido acerca do tipo de cobertura e suas consequências, o que não ocorreu no caso concreto.
+5. Agravo interno não provido.
+(AgInt no AREsp 1287100/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 09/03/2020, DJe 11/03/2020)
+Assim sendo, o não conhecimento do recurso, por ausência de indicação adequada de dispositivo legal supostamente violado, é medida que se impõe.
+Com fundamento noart. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 2%, totalizando 17% sobre o valor atualizado da condenação, observada a eventuale anterior concessão da gratuidade judiciária.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Intime-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DESCONTOS INDEVIDOS NO BENEFÍCIO PREVIDENCIÁRIO DO AUTOR. AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO, AINDA QUE EM SENTIDO CONTRÁRIO À PRETENSÃO DO RECORRENTE. NECESSIDADE DE MAJORAÇÃO DOS DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO CLARA E PRECISA DO DISPOSITIVO DE LEI FEDERAL TIDO POR VIOLADO. APLICAÇÃO DA SÚMULA Nº 284/STF.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
