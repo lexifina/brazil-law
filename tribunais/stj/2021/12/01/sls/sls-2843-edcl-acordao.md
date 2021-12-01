@@ -1,0 +1,68 @@
+EMENTA
+SUSPENSÃO DE LIMINAR E SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO E ERRO MATERIAL INEXISTENTES. INSTRUMENTO LEGAL QUE NÃO ULTRAPASSA A BARREIRA DE CONHECIMENTO/ADMISSIBILIDADE. OMISSÃO DE MÉRITO INEXISTENTE. PRECEDENTES. MERO INCONFORMISMO. DESCABIMENTO DA VIA DECLARATÓRIA.
+1.Os embargos de declaração, cujos pressupostos estão relacionados no art. 1.022 do Código de Processo Civil, visam esclarecer obscuridade, eliminar contradição, suprir omissão a respeito de questão jurídica de especial relevância para o desate da lide ou corrigir erro material.
+2.Oprovimento do agravo interno conduziu a não conhecer-se da própria suspensão de liminar e de sentença, porquanto visualizado que a pretensão da parte era transferir, por meio da nítida utilização do referido instrumento legal como sucedâneo recursal, a competência de eventual efeito suspensivo do recurso especial, que seria dos ministros da Primeira Seção, para a Presidência da Corte Especial, manobra processual manifestamente incabível.
+3. Sea suspensão de liminar e de sentença nem sequer ultrapassou o juízo de conhecimento, é incabível que o embargante suscite omissões e erros materiais relativos ao mérito. Precedentes.
+4. Aalegação de que a suspensão de liminar e de sentença não foi usada como sucedâneo recursal revela mero inconformismo com o entendimento firmado pela Corte Especial em sentido oposto, o que nãoautoriza o manejo de embargos de declaração.
+Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes.
+Licenciado o Sr. Ministro Felix Fischer.
+Presidiu o julgamento o Sr. Ministro Jorge Mussi.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos por MUNICÍPIO DE SALVADOR contra acordão da Corte Especial cujo provimento a agravo interno conduziu ao não conhecimento "da suspensão de liminar e de sentença, cassando, por conseguinte, os efeitos da decisão de fls. 423/427" (fl. 502).
+A ementa do julgado (fl. 497):
+SUSPENSÃO DE LIMINAR E DE SENTENÇA. AGRAVO INTERNO. PRETENDIDO EFEITO SUSPENSIVO DE RECURSO ESPECIAL. CABIMENTO DE MEDIDA CAUTELAR. TRÂNSITO EM JULGADO EM RAZÃO DO NÃO CONHECIMENTO DE RECURSO ESPECIAL.
+1. Pretensão de utilização da via estreita da suspensão de liminar e de sentença como sucedâneo recursal. Inviabilidade.
+2. A suspensão de liminar e de sentença fora manejada como substituto de instrumento processual próprio - medida cautelar inominada - para dar efeito suspensivo a recurso especial não admitido, o qual seria distribuído a um dos ministros da Primeira Seção e não a esta Presidência.
+3. Inviabilidade de concessão de efeito suspensivo a recurso especial não conhecido pela Primeira Turma do STJ.
+Agravo interno provido.
+Nas razões dos aclaratórios (fls. 504-516), a municipalidade embargante aduz que não houve pronunciamento(fl. 509):
+ ..  sobre a existência da Ação Anulatória que tramita na 8ª Vara da Fazenda Pública da Comarca de Salvador/Bahia, a qual discute a legalidade dos atos expropriatórios que teriam originado o suposto direito de compensação alegado, eis que eivados de equívoca nulidade, de modo que a referida omissão se constituiucomo injusto gravame aos interesses jurídicos e jurisdicionais do Município do Salvador.
+Ademais, a decisão embargada incorreu em evidente erro material ao declarar o trânsito em julgado da Ação Ordinária (2020/0243426-1), em relação a qual ainda encontra-se pendente a análise dos Embargos de Declaração opostos pelo Município em 24/03/2021 nos autos do Agravo em Recurso Especial (doc. anexo)
+Argumenta que a suspensão não foi usada como sucedâneorecursal, mas como meio de "evitar grave lesão à ordem administrativae à economia pública em caso de manutençãoda decisãoque se busca suspender os efeitos" (fl. 509).
+Requer, nesse contexto, o acolhimento dos declaratórios para saneamento das vícios apontados e a concessão de excepcional efeito infringente.
+Contrarrazões às fls. 522-526.
+É, no essencial, o relatório.
+EMENTA
+SUSPENSÃO DE LIMINAR E SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO E ERRO MATERIAL INEXISTENTES. INSTRUMENTO LEGAL QUE NÃO ULTRAPASSA A BARREIRA DE CONHECIMENTO/ADMISSIBILIDADE. OMISSÃO DE MÉRITO INEXISTENTE. PRECEDENTES. MERO INCONFORMISMO. DESCABIMENTO DA VIA DECLARATÓRIA.
+1.Os embargos de declaração, cujos pressupostos estão relacionados no art. 1.022 do Código de Processo Civil, visam esclarecer obscuridade, eliminar contradição, suprir omissão a respeito de questão jurídica de especial relevância para o desate da lide ou corrigir erro material.
+2.Oprovimento do agravo interno conduziu a não conhecer-se da própria suspensão de liminar e de sentença, porquanto visualizado que a pretensão da parte era transferir, por meio da nítida utilização do referido instrumento legal como sucedâneo recursal, a competência de eventual efeito suspensivo do recurso especial, que seria dos ministros da Primeira Seção, para a Presidência da Corte Especial, manobra processual manifestamente incabível.
+3. Sea suspensão de liminar e de sentença nem sequer ultrapassou o juízo de conhecimento, é incabível que o embargante suscite omissões e erros materiais relativos ao mérito. Precedentes.
+4. Aalegação de que a suspensão de liminar e de sentença não foi usada como sucedâneo recursal revela mero inconformismo com o entendimento firmado pela Corte Especial em sentido oposto, o que nãoautoriza o manejo de embargos de declaração.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nada a acolher.
+Os embargos de declaração, cujos pressupostos estão relacionados no art. 1.022 do Código de Processo Civil, visam esclarecer obscuridade, eliminar contradição, suprir omissão a respeito de questão jurídica de especial relevância para o desate da lide ou corrigir erro material.
+Conforme destacado no relatório, o provimento do agravo interno conduziu a não conhecer-se da própriasuspensão de liminar e de sentença, porquanto visualizado que a pretensão da parte era transferir, por meio da nítida utilização do referido instrumento legal como sucedâneo recursal,a competência de eventual efeito suspensivo do recurso especial, que seria dosministros da Primeira Seção, para a Presidência da Corte Especial, manobra processual manifestamente incabível.
+A propósito, confira-se excerto do voto (fls. 500-501):
+Por outro lado, mostra-se questionável o cabimento da suspensão de liminar e de sentença, visto que seu manejo decorreu do indeferimento do efeito suspensivo requerido quando da inadmissão do recurso especial, a revelar que a municipalidade se utiliza da presente via como substituto de medida própria, qual seja, o manejo de medida cautelar, a qual seria distribuída a um dos ministros da Primeira Seção e não a esta Presidência.
+Nesse sentido, veja-se o seguinte precedente:
+5. "É pacífico neste Sodalício o entendimento de que o remédio constitucional não é a via adequada para dar efeito suspensivo a recurso especial ou extraordinário, tendo em vista que este pedido normalmente é veiculado por medida cautelar inominada, só sendo acolhido em casos excepcionais, quando comprovada a plausibilidade jurídica do pedido e o risco de lesão grave ou de difícil reparação." (AgRg no HC 500.762/SP, relator Ministro JORGE MUSSI, QUINTA TURMA, DJe 7/5/2019). (AgRg no HC n. 589.252/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/11/2020.)
+Aliás, convém destacar que o AREsp n. 1.762.085/BA, da municipalidade, nem sequer foi conhecido pela Primeira Turma do STJ, o que tornou o pedido de suspensão contido no especial prejudicado, não havendo espaço para que esta Presidência decida em sentido distinto do relator e do colegiado.
+Portanto, se a suspensão de liminar e de sentença nem sequer ultrapassou o juízo de conhecimento, é incabível que o embargante suscite omissões e erros materiais relativos ao mérito, como a apontada existência degrave lesão à ordem administrativa e à economia pública.
+Nesse sentido, confiram-se julgados:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. AGRAVO INTERNO QUE NÃO ULTRAPASSOU A BARREIRA DA ADMISSIBILIDADE.
+1. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC, razão pela qual inviável o seu exame em embargos de declaração.
+2. No caso em tela, a embargante visa à reforma do acórdão, que, de forma escorreita, concluiu pelo não conhecimento do agravo interno em virtude da ausência de impugnação específica dos fundamentos da decisão agravada, nos termos do art. 1.021 do CPC/2015 e da Súmula 182 do STJ.
+3. Se o recurso é inapto ao conhecimento, o colegiado não tem como se pronunciar sobre o mérito, de modo que a falta de exame da matéria de fundo não se caracteriza omissão, senão mera decorrência do exercício do devido juízo de admissibilidade recursal.
+4. EMBARGOS DE DECLARAÇÃO REJEITADOS.(EDcl no AgInt nos EDv nos EAREsp 1514933/RJ, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe 1º/7/2021.)
+1. O não conhecimento do recurso especial, ante a barreira intransponível do enunciado 284 da Súmula do STF, inviabiliza o exame do mérito da controvérsia, não havendo falar em omissão na espécie.(EDcl no REsp 1779097/SC, relator Ministro Sérgio Kukina, Primeira Turma, DJe 24/10/2019.)
+No mais, a alegação de que a da suspensão de liminar e sentença não foi usada como sucedâneo recursal revela mero inconformismo com o entendimento firmado pela Corte Especial em sentido oposto, o que nem de longe autoriza o manejo de embargos de declaração.
+A título exemplificativo, veja-se este trecho de acórdão:
+2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. (EDcl nos EDcl no AgRg nos EDcl no AgRg nos EAREsp n. 548.879/RR, relatorMinistro Paulo de Tarso Sanseverino, Corte Especial, DJe 24/6/2021.)
+Por fim, o acréscimo de fundamentação quanto ao reconhecimento do trânsito em julgado do AREsp n. 1.762.085/BA não vincula a tomada de decisão da pendência de julgamento de embargos de declaração existente naquele agravo em recurso especial, mas apenas fomenta a conclusão de que a pretensão da municipalidade é a utilização da suspensão como sucedâneo recursal de recurso que, tendo a referida turma corroborado a intempestividade do recurso especial, amolda-se àreiterada jurisprudência de que recursos incabíveis ou intempestivos não obstam a formação da coisa julgada. Confiram-se precedentes:
+2. Nos termos da jurisprudência deste Supremo Tribunal Federal, a interposição de recursos manifestamente inadmissíveis não interrompe nem suspende o prazo para o manejo do recurso adequado, tampouco evita a formação da coisa julgada. Precedentes. (RE n. 1.009.865-AgR-ED-EDv-ED-AgR-AgR, relatora Ministra Rosa Weber, Tribunal Pleno, DJe de 5/5/2021.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. INTEMPESTIVIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA NÃO CARACTERIZADA. RETROAÇÃO DA COISA JULGADA.
+1. São intempestivos os embargos de declaração interpostos fora do prazo legal.
+2. A jurisprudência do STF e a do STJ consagram entendimento no sentido de que os recursos manifestamente incabíveis não obstam a formação da coisa julgada, de modo que a decisão que confirma a inadmissão do recurso (extraordinário ou especial) faz retroagir a data do trânsito em julgado ao momento em que esgotado o prazo legal de interposição das espécies recursais não admitidas. Exegese do entendimento firmado no EAREsp 386.266/SP, relator MininistroGurgel de Faria, Terceira Seção, julgado em 12/8/2015, DJe 3/9/2015.
+3. "Os recursos excepcionais (recurso extraordinário e recurso especial), quando declarados inadmissíveis, não obstam a formação da coisa julgada, inclusive da coisa julgada penal, retroagindo a data do trânsito em julgado, em virtude do juízo negativo de admissibilidade, ao momento em que esgotado o prazo legal de interposição das espécies recursais não admitidas. Precedentes" (ARE 969.022 AgR, relatorMinistroCelso de Mello, Segunda Turma, julgado em 13/12/2016, Publicado em 22/2/2017).
+4. Hipótese em que não decorrido o lapso temporal entre os marcos interruptivos, de modo que não configurada a prescrição da pretensão punitiva estatal.
+Embargos de declaração não conhecidos.(EDcl no AgRg nos EDcl no RE no AgRg no AREsp n. 194.082/MS, relator Ministro Humberto Martins, Corte Especial, DJe 25/5/2018.)
+O simples fato de a municipalidade ter oposto embargos de declaração nos autos doAREsp n. 1.762.085/BA não é capaz, por si só, de afastar a formação da coisa julgada como acima destacado, mormente diante dorestritivos contornosao quais se amoldam a via dos declaratórios, previstos no art. 1.022 do CPC.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
