@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 544, CPC/1973) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência das Súmulas n. 5 e7do STJ (e-STJ fls. 272/282).
+O acórdão recorrido está assim ementado (e-STJ fl. 189):
+EMENTA: AÇÃO DE COBRANÇA - CONTRATO DE LOCAÇÃO DE IMÓVEL - TERMOS ADITIVOS SUBSEQUENTES - VINCULAÇÃO DAS PARTES CONTRATANTES ORIGINÁRIAS E SUCESSORAS - RECONHECIMENTO DE IRREGULARIDADE - CESSÃO DE PARTE DE ÁREA LOCADA PARA TERCEIRO ALHEIO AO CONTRATO - VALOR PACTUADO PARA REGULARIZAÇÃO DE FATO PRETÉRITO E ULTERIOR RENOVAÇÃO DO VALOR DO ALUGUEL - AUTONOMIA DE VONTADE - PACTA SUNT SERVANDA - VALORES MENSAIS PAGOS A MENOR - DIFERENÇA DEVIDA - CORREÇÃO MONETÁRIA PELOS ÍNDICES DA TABELA DA CORREGEDORIA-GERAL DE JUSTIÇA E JUROS DE MORA DE 1% AO MÊS. A vontade das partes é considerada como o ponto chave de qualquer contrato jurídico, sendo, portanto, um elemento fundamental para a sua efetivação. Evidenciada de maneira inequívoca a manifestação de vontade das partes quanto à fixação de valor para regularização de fato pretérito e renovação anual do contrato de locação, impõe-se a sua manutenção nos exatos termos pactuados.
+Considerando a existência de acordo entre as partes por fato alheio às previsões do contrato, não há que se falar em encargos contratuais, devendo incidir a correção monetária com base nos índices da Corregedoria-Geral de Justiça deste Estado desde a data em que deveria ter sido efetuado o pagamento e não o foi, bem como juros de mpra de 1% ao mês desde a citação.
+Os embargos de declaração foram rejeitados(e-STJ fls. 228/231).
+No especial (e-STJ fls. 238/255),fundamentadono art. 105, III, "a", da CF, arecorrente alegou ofensa aos arts. 489 e 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Indicou contrariedade ao art. 421 do CC/2002, sustentando que "oque se está a discutir no presente apelo especial é a total desconsideração de uma cláusula que inquestionavelmente existe - portanto, não é uma discussão fática ou contratual - mas foi sumariamente desconsiderada, mesmo sendo o fundamento do acórdão o princípio do pacta sunt servanda" (e-STJ fl. 249).
+No agravo (e-STJ fls. 289/308), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 194/195):
+E de fato, ao contrário do que defendeu o apelante, não só inexiste cláusula contratual estabelecendo a obrigatoriedade do referido acréscimo no valor do aluguel, pelo eventual uso da área locada a terceiros cessionários e contratados da locatária, como inexiste cláusula vedando a cessão do espaço locado a qualquer outra empresa, pela locatária.
+Em verdade, o item 1.2 da Cláusula Primeira do Termo Aditivo, traz uma vedação de sublocação e cessão ao locador e não ao locatário, quando estabelece:
+(..)
+Frise-se por oportuno que, a existência de um Termo Aditivo consignando expressamente o pagamento de um valor a ser acrescido àquele pactuado, pelo tempo de duração do contrato de cessão de espaço entre a antiga locatária TIM e a empresa OI, não implica, por si só, na existência de uma imposição contratual para outras situações semelhantes no futuro.
+(..)
+Assim, considerando que referida vontade deve ser externalizada de maneira inequívoca para sua validação, independente da forma que esta ocorra, tenho que as partes conseguiram demonstrá-la de maneira absolutamente indene de dúvidas, pelo que deve ser cumprida como se um quarto Termo Aditivo ao contrato originário fosse.
+Dadas estas considerações, cai por terra o argumento da apelada de que teria efetuado pagamentos a maior, consubstanciado no cálculo equivocado dos reajustes anuais, existindo em verdade um crédito a ser compensado nos pagamentos das mensalidades locatícias futuras.
+Para alterar tais fundamentos e reconhecer ofensa ao princípio do pacta sunt servanda, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
