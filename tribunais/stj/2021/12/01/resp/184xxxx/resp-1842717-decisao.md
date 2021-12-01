@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por LOURDES DAS LÁGRIMAS AZEVEDO SILVEIRA, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 206):
+AGRAVO INTERNO - Decisão desta Relatoria que, monocraticamente, não conheceu da apelação interposta pela agravante. Agravante que interpôs recurso de apelação contra decisão proferida na primeira fase da ação de exigir contas quando, na realidade, deveria ter agravado de instrumento - Primeira fase que se encerra por meio de decisão interlocutória - Inteligência do artigo art. 550, § 5º, do CPC - Inobservância, ademais, do principio da dialeticidade - Recurso improvido.
+Nas razões do recurso especial, a recorrente aponta, a par de dissídio jurisprudencial, a violação dos arts. 3º, caput, 4º,188,277, 283, 994, 1.009, caput, e 1.013, todos do Código de Processo Civil/2015.
+Sustenta que contestou a ação de prestação de contas afirmando que (1) a via judicial escolhida não era adequada para a satisfação da pretensão, a teor do disposto no art. 919 do Código de Processo Civil/73 (art. 553 do CPC/2015); (2) a pretensãojá havia sidosatisfeita nos autos da Ação de Inventário; e (3) a recorrida carecia de interesse de agir para a propositura da demanda de origem.
+Aduz que a açãofoi julgada procedente e que orecurso de apelação não foi conhecido, sob o fundamento de inadequaçãoda via eleita, sendopossível, nos termos do princípio dainstrumentalidade das formas e da determinação de aproveitamento dos atos processuais, o seu conhecimento.
+Contrarrazões não apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+A recorrente pugna pela aplicação do princípio da fungibilidade na interposição do recurso de apelação contra sentença que julga procedente a primeira fase da ação de prestação de contas.
+No julgamento do recurso de apelação, o Tribunal de origem apenas consignou que (i)a deliberação que reconhece a obrigação de prestar as contas é decisão interlocutória, sendo o recurso cabível o agravo de instrumento, nos termos do artigo 1.015, II, do CPC/2015; e, (ii)não foi observadoo princípio da dialeticidade no recurso de apelação. Confira-se:
+Ao contrario do asseverado pela agravante, não obstante a aparência de sentença, a deliberação que reconhece a obrigação de prestar as contas é decisão interlocutória, sendo o recurso cabível o agravo de instrumento, nos termos do artigo 1.015, II, do CPC.
+ ..
+Se isso não bastasse, a agravante não observou o principio da dialeticidade, reproduzindo alguns trechos, inclusive, de jurisprudências da peça de defesa, finalizando o recurso reiterando, por economia processual, "todos os argumentos, feitos, legislação e documentos evocados, que passam a fazer parte integrantes das presentes razões recursais".
+Em suma, não externou os fundamentos de fato e de direito pelos quais a r. decisão deveria ser modificada, apontando eventual equivoco do juízo em determinar à agravante a prestar as contas referentes à sua administração  ..  (e-STJ, fls. 204/208).
+Com isso, forçoso reconhecer que não há como ser analisada a alegação de incidência da aplicação do princípio da fungibilidade em virtude da falta de prequestionamento, uma vez que o Tribunal de origem não analisou o caso à luz dos requisitos trazidos nas razões do presente recurso.
+Quanto ao mais, a recorrente deixou de impugnar a ausência de dialeticidade do recurso de apelação, como consignado peloTribunal de origem,o que atrai a incidência da Súmula 283 do STFpor analogia.
+Em face do exposto, não conheço do recurso especial.
+Intimem-se.
