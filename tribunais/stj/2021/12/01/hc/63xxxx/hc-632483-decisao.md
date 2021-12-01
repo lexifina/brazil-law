@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Matheus Lodi Lucas contra o ato coator proferido pela Primeira Câmara Criminal do Tribunal de Justiça de Goiás, que, nos autos do HC n.5500877-68.2020.8.09.0000, denegou a ordem, mantendo o paciente preso preventivamente pela suposta prática de conduta descrita como organização criminosa com emprego de arma de fogo (Processo n.0003607-91.2019.8.09.0175, daVara dos Feitos Relativos a Delitos Praticados por Organização Criminosa e de Lavagem ou Ocultação de Bens, Direitos e Valores/GO).
+A impetrante alega, em síntese, queo constrangimento ilegal decorre de decisão que, mediante fundamentação inidônea - pois apoiada somente na gravidade abstrata dos delitos -, decretou e manteve a prisão preventiva em desfavor do ora paciente, sobretudo em razão da existência de excesso de prazo para a finalização da ação penal (fls. 3/22).
+Postula a imediata expedição de alvará de soltura em favor do paciente (fls. 3/22).
+Informações prestadas pela origem às fls. 108/136.
+Liminar indeferida às fls. 138/141.
+O Ministério Público Federal opina pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem, conforme os fundamentos resumidos na ementa do parecer (fl. 147):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO. TRAMITAÇÃO REGULAR DO PROCESSO. AUSÊNCIA DEDESÍDIA DA AUTORIDADE JUDICIÁRIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER PELO NÃO CONHECIMENTO E DENEGAÇÃO DAORDEM.
+- O decreto e a manutenção da custódia provisória estão sobejamente fundamentados nos requisitos insertos no artigo 312do Código de Processo Penal.
+- "Somente se cogita da existência de constrangimento ilegal por excesso de prazo quando este for motivado por descaso injustificado do juízo, o que não se verifica na presente hipótese."(HC 495.492/MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/06/2019, DJe 25/06/2019)
+- Parecer pelo não conhecimento da impetração e, no mérito, pela denegação da ordem.
+É o relatório.
+A impetração pretende a revogação da prisão preventiva, dada a falta de fundamentação do decreto de prisão e o excesso de prazo.
+Em análise mais aprofundada dos autos, entendo não assistir razão à impetração.
+Na decisão de reavaliação da necessidade da prisão, o Juízo de piso estabeleceu o seguinte (fl. 63):
+Em relação a MATHEUS LODI LUCAS, a denúncia relatou que este ocupava a função de "Geral da Rua e Guarda Roupa do Paiol Disciplinar", sendo o responsável pela execução de homicídio e pela prática de crimes de roubos de veículos automotores para a organização criminosa.
+Conforme expus ao decidir monocraticamente, afigura-se inviável acolhera pretensão, porquanto o alegado constrangimentonão está configurado, sobretudo porque a instância de origem fez menção de que o pacienteé membro, na posição de comando,da organização criminosa - com emprego de arma de fogo -primeiro comando da capital - PCC,na qual lhe incumbiria a prática de crimes hediondos e de roubo de veículos, e está respondendo a outras 3 ações penais, pelo cometimento de 2 delitos de homicídio e de tráfico de entorpecentes e está sendo investigado em 2 inquéritos policiais, pela eventual prática de 2 homicídios(fl. 25), o que, em princípio, atrai opericulum libertatise ofumus commici delicti.
+Ilustrativamente:São idôneos os motivos invocados pelo Juízo de origem para fundamentar a ordem de prisão do paciente, diante da gravidade concreta da conduta em tese perpetrada(RHC n. 108.354/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/4/2019).
+Em relação à alegação de excesso de prazo, o Tribunal local não acolheu a pretensão (fl. 29):
+Do ponto de vista da tese excesso de prazo, também não se vê coação ilícita ao direito de locomoção, haja vista que, apesar de o Paciente se achar segregado antecipadamente, desde17/1/2019, estão presentes critérios justificadores.
+Com efeito, o primeiro deles é o estágio em que se encontra a marcha processual, a qual está com a instrução probatória finalizada, dependendo a conclusão da instrução criminal propriamente dita apenas das alegações finais de dois coacusados, pois a defesa do Paciente, de outro coacusado e o Ministério Público já as apresentaram.
+Além disso, merece destaque como fator contemporizador da duração da prisão preventiva do Paciente a condição de que a lide penal tem complexidade estrutural, pois, embora tenha havido o desmembramento do processo em relação ao coacusado Anderson Vieira Sousa, mesmo assim4 (quatro) acusados, com advogados distintos, ainda ocupam o polo passivo da ação penal, na qual se apura a prática de crime de superior danosidade social.
+Enfim, mostra-se legítimo até este instante o tempo de prisão cautelar do Paciente, não havendo se falar em excesso de prazo indevido, quanto mais se considerarmos outros critérios mais genéricos, como a digitalização dos autos e a pandemia do Covid-19, consoante a jurisprudência desta Primeira Câmara Criminal a seguir transcrita:
+Conforme reiterada jurisprudência deste Tribunal Superior, o excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador à luz dos princípios da razoabilidade e da proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar o retardo abusivo e injustificado na prestação jurisdicional.
+A esse respeito, veja-se o HC n. 481.713/PE, Ministro Ribeiro Dantas, Quinta Turma, DJe 8/4/2019.
+No caso,o pacientefoi preso preventivamente em 9/1/2019 ehouve o trâmite regular do processo, em que se verifica elevada complexidade. Com efeito, a ação penal - na qual se apura crime de organização criminosa armada responsável pela prática de diversos crimes, entre eles tráfico de entorpecentes, roubos, entre outros,com estrutura sofisticadae com divisão de tarefas - dirige-se contra sete réus e apura fatos que exigem para sua solução a expedição de cartas precatórias, o que demonstra a relativa complexidade da causa(RHC n. 125.876/MA, da minha relatoria, Sexta Turma, DJe 4/12/2020).
+Não verifico assim dilação de prazo violadora dos princípios da proporcionalidade e da razoabilidade.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA COM EMPREGO DE ARMA DE FOGO. ART. 2º DA LEI N. 12.850/2013. PRISÃO PREVENTIVA.GRAVIDADE CONCRETA. RISCO À ORDEM PÚBLICA. POSSIBILIDADE. PRECEDENTE. EXCESSO DE PRAZO. VIOLAÇÃO DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE NÃO OCORRIDA. ANDAMENTO NORMAL DO FEITO.
+Ordem denegada.
