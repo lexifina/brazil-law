@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deCHARLES HENRIQUE FAGUNDES DE OLIVEIRAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(HC n.1.0000.21.254883-8/000).
+Depreende-se dos autos que o paciente foi preso em flagrante no dia 21/5/2021, custódia essa convertida em preventiva, e condenado à pena de 1 ano, 4 meses e 26 dias de detenção, em regime semiaberto, e ao pagamento de 59 dias-multa, pela prática do crime do art. 12 da Lei n. 10.826/2003 (posse irregular de arma de fogo de uso permitido). Foi-lhe indeferido o recurso em liberdade, ratificando-se os fundamentos do decreto de prisão preventiva.
+Segundo a denúncia, o paciente possuía, no interior de sua residência, 1 arma de fogo calibre 9mm, carregada com 15 munições intactas.
+Impetrado habeas corpus no Tribunal de origem, a medida de urgência foi indeferida.
+Daí o presente writ, no qual alega a defesa a necessidade de superar o enunciado da Súmula n. 691/STF, poiso decreto de prisão preventiva carece de fundamentação idônea.
+Aduz que a condenação em regime semiaberto é incompatível com a segregação cautelar.
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa.
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus impetrado ante decisão que indefere liminar (enunciado 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido.(AgRg no HC n. 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido.(AgRg no HC n. 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Nos caso dos autos, ressalto que a legalidade do decreto de prisão preventiva, reiterado na sentença condenatória, já foi objetode análise no HC 674.949/MG,de minha relatoria, referente à mesma ação penal originária (Processo n. 0672.21.004242-6). Nessewrit, deneguei a ordem dehabeas corpus. Essa decisão foi publicada no DJe de 6/8/2021, valendo transcrever os excertos a seguir:
+A propósito do assunto, a jurisprudência do Superior Tribunal de Justiça, embora ainda um pouco oscilante, optou pelo entendimento de que o risco à ordem pública se constataria, em regra, pela reiteração delituosa e/ou pela gravidade concreta do fato.
+À vista dos vetores interpretativos estabelecidos anteriormente, bem como de uma análise dos excertos expostos acima,verifico que opericulum libertatisestá evidenciado, tendo em vista que o agente"ostenta anterior condenaçãocom trânsito em julgado com força para gerar reincidência pelo delitode roubo majorado". Ademais, destacou-se que "no quarto de Charles, os militares lograram encontrar, debaixo de um móvel, enrolada em uma meia, uma pistola 9mm, da marca Bersa, modelo Thunder 9, carregada com quinze munições"(e-STJ fl. 126).
+Ora, como sedimentado em farta jurisprudência desta Corte, além da especial gravidade da infração, osmaus antecedentes, reincidência, atos infracionais pretéritosou até mesmo outras ações penais ou inquéritos em cursojustificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+ ..
+Ainda que assim não o fosse, não há se falar em incompatibilidade da manutenção da segregação provisória ante a fixação do regime semiaberto na sentença condenatória, cabendo apenas a sua adequação às peculiaridades do regime prisional em questão.
+Nesse sentido:
+ ..  4. Ademais, não há se falar em incompatibilidade da manutenção da segregação provisória ante a fixação do regime semiaberto, cabendo apenas a sua adequação às peculiaridades do regime prisional em questão, providência já tomada pelas instâncias ordinárias, conforme consignado no acórdão impugnado.
+ ..  6. Agravo regimental parcialmente conhecido e, nesse ponto, desprovido.
+(AgRg no HC n. 601.081/SC, de minha relatoria, SEXTA TURMA, julgado em 13/10/2020, DJe 16/10/2020) AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. CUSTÓDIA PREVENTIVA MANTIDA NA SENTENÇA. PERICULUM LIBERTATIS DEMONSTRADO. CONDENAÇÃO A REGIME FECHADO. PROGRESSÃO AO REGIME ABERTO. REALIZADA A COMPATIBILIZAÇÃO ENTRE O MODO DE CUMPRIMENTO E A SEGREGAÇÃO PREVENTIVA. PACIENTE EM PRISÃO DOMICILIAR.
+AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.1. A jurisprudência do STJ é pacífica no raciocínio de que não há incompatibilidade entre a manutenção da prisão cautelar e o regime semiaberto.
+2. Na hipótese, a Corte estadual, confirmou a condenação da ré pelos crimes previstos nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006 e, ao reanalisar a dosimetria da pena, estabeleceu a reprimenda em 25 anos e 20 dias de reclusão, mais multa, em regime fechado, bem como manteve a prisão preventiva. O Juízo da execução entendeu ser o caso de conceder à agente a progressão ao regime semiaberto, ocasião em que a colocou em prisão domiciliar, tudo a evidenciar não haver ilegalidade na manutenção da custódia.
+3. A manutenção da constrição da paciente se deu por decisão devidamente fundamentada, diante da gravidade dos delitos pelos quais ela foi condenada, evidenciada pela grande quantidade de entorpecentes apreendidos - 1.389 quilos de maconha -, tudo a demonstrar que a prisão é necessária para interromper a atuação da organização criminosa à qual a acusada pertence, especializada no tráfico interestadual de drogas em grande escala.
+4. A progressão de regime e a constatação de que a prisão domiciliar tem sido cumprida sem digressões não são razões bastantes para, por si sós, motivar a revogação da constrição, especialmente porque o regime intermediário é plenamente compatível com a providência cautelar, que foi mantida por motivação concreta e idônea.
+5. Agravo regimental não provido. (AgRg no HC n. 610.802/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 6/10/2020, DJe 16/10/2020)
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
