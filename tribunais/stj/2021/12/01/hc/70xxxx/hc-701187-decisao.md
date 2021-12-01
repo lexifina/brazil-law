@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de ADRIANO MOCO AZEVEDO, contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 28-31):
+"AÇÃO MANDAMENTAL DE HABEAS CORPUS. EXECUÇÃO PENAL. PRETENSÃO DE VISITA PERIÓDICA AO LAR. ALEGAÇÃO DE DEMORA NA APRECIAÇÃO DO PEDIDO. PLEITO DE DETERMINAÇÃO À AUTORIDADE IMPETRADA PARA QUE O ANALISE. INFORMAÇÃO PRESTADA PELA REFERIDA AUTORIDADE NOTICIANDO QUE AS PECULIARIDADES DO CASO CONCRETO RECOMENDARAM A REALIZAÇÃO DE EXAMES CRIMINOLÓGICOS, CIRCUNSTÂNCIA QUE RETARDOU A APRECIAÇÃO DO PEDIDO. O EXAME CRIMINOLÓGICO FOI ESTABELECIDO PELO LEGISLADOR (ARTIGO 8º, DA LEI DE EXECUÇÕES PENAIS) E DEVE SER ELABORADO NAS HIPÓTESES EM QUE AS PECULIARIDADES DO CASO CONCRETO O EXIGIREM, SEMPRE EM DECISÃO DEVIDAMENTE FUNDAMENTADA. REQUISITO OBSERVADO. ENTENDIMENTO DAS CORTES SUPERIORES LEGITIMAM A SUA REALIZAÇÃO QUANDO AS CONJUNTURAS A RECOMENDAREM. PACIENTE CONDENADO POR DELITOS PRATICADOS MEDIANTE VIOLÊNCIA E GRAVE AMEAÇA A PESSOA E COM LAPSO TEMPORAL RESTANTE DE PENA A SER CUMPRIDA SUPERIOR A VINTE ANOS. NECESSIDADE DE COMPATIBILIZAR OS INTERESSES DO APENADO/PACIENTE COM A TRANQUILIDADE DE IR E VIR PELA QUAL A SOCIEDADE CLAMA E PORELA PAGA, VIA PESADA CARGA TRIBUTÁRIA. CONSULTA AOS AUTOS DA EXECUÇÃO REVELA QUE OS EXAMES JÁ FORAM ELABORADOS, AS PARTES (MINISTÉRIO PÚBLICO E DEFESA TÉCNICA) JÁ FORAM INSTADAS A SE MANIFESTAR, VISLUMBRANDO-SE PARA DATA PRÓXIMA O PROFERIMENTO DE DECISÃO SOBRE O DIREITO PLEITEADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. IMPROCEDÊNCIA DO PEDIDO."
+Daí o presente writ, no qual a d. Defesa afirma que o paciente sofre constrangimento ilegal pela demora na apreciação de seu pedido junto ao d. Juízo da Execução.
+Explica que "o ora Paciente requereu, em 03/12/2020, a concessão de saída temporária denominada Visita Periódica ao Lar (..) Decorridos 11 (onze) meses do pedido, no entanto, o Juízo a quo ainda não conheceu do pedido. " (fl. 5).
+Requer a concessão da ordem, inclusive LIMINARMENTE, para que "seja determinado ao Juiz da Vara de Execuções Penais do Rio de Janeiro que aprecie o pleito de visita periódica ao lar no prazo máximo de 3 (três) dias, independentemente da juntada do complemento do exame criminológico" (fl. 13).
+O pedido liminar foi indeferido com recomendação, às fls. 34-36.
+Informações, às fls. 40-58.
+O d. Ministério Público Federal oficiou, em r. parecer, semementa (fls. 63).
+É o relatório.
+Decido.
+O presente habeas corpus se encontra-seprejudicado.
+Explico
+Conforme se verifica das informações prestadas (fl. 56):
+"Ao Tombamento para informar se a respectiva CES já foi encaminhada para VEP pelo d. juízo da 2ª Vara da Comarca de Mimoso do Sul/ES, como parece ter ocorrido em 16/12/2020. Em caso negativo, requisite-se com urgência. Tombada a nova execução, voltem conclusos para soma e fixação de novo regime de pena. Sem prejuízo, diante do presente achado e de suas inafastáveis consequências - retorno para o regime fechado e perda de prazo até mesmo para PRSA -, INDEFIRO desde logo o pleito de VPL, incompatível que é com o cumprimento da pena no regime mais gravoso" (grifei).
+Tudo o que impede a análise aqui, pois a decisãoa quo constitui novo título, que modifica drasticamente a situação jurídica antes posta (inércia na prestação jurisdicional de benefício executório) e torna ineficaz qualquer manifestação desta eg. Corte Superior, até mesmo pela falta de dialeticidade das razões apresentadasem face da situação superveniente e atual.
+Ante o exposto, julgo prejudicado o presente mandamus, em razão da perda superveniente do objeto.
+P. I.
