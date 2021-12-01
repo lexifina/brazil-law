@@ -2,15 +2,22 @@ Art. 5º A Contribuição para o PIS/Pasep e a Cofins incidentes sobre a receita
 I - 1,5% (um inteiro e cinco décimos por cento) e 6,9% (seis inteiros e nove décimos por cento), no caso de produtor ou importador; e.
 II - 3,75% (três inteiros e setenta e cinco centésimos por cento) e 17,25% (dezessete inteiros e vinte e cinco centésimos por cento), no caso de distribuidor.
 § 1º Ficam reduzidas a 0% (zero por cento) as alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre a receita bruta de venda de álcool, inclusive para fins carburantes, quando auferida:
-I - por distribuidor, no caso de venda de álcool anidro adicionado à gasolina;
-II - por comerciante varejista, em qualquer caso;
+II - por comerciante varejista, exceto na hipótese prevista no inciso II do § 4º-B; e
 III - nas operações realizadas em bolsa de mercadorias e futuros.
 § 2º A redução a 0 (zero) das alíquotas previstas no inciso III do § 1º deste artigo não se aplica às operações em que ocorra liquidação física do contrato.
-§ 3º As demais pessoas jurídicas que comerciem álcool não enquadradas como produtor, importador, distribuidor ou varejista ficam sujeitas às disposições da legislação da Contribuição para o PIS/Pasep e da Cofins aplicáveis à pessoa jurídica distribuidora.
 § 4º O produtor, o importador e o distribuidor de que trata o caput deste artigo poderão optar por regime especial de apuração e pagamento da Contribuição para o PIS/Pasep e da Cofins, no qual as alíquotas específicas das contribuições são fixadas, respectivamente, em:
 I - R$ 23,38 (vinte e três reais e trinta e oito centavos) e R$ 107,52 (cento e sete reais e cinqüenta e dois centavos) por metro cúbico de álcool, no caso de venda realizada por produtor ou importador;
 II - R$ 58,45 (cinqüenta e oito reais e quarenta e cinco centavos) e R$ 268,80 (duzentos e sessenta e oito reais e oitenta centavos) por metro cúbico de álcool, no caso de venda realizada por distribuidor.
 § 4º-A Na hipótese de venda efetuada diretamente do produtor, da cooperativa de produção ou comercialização de etanol, da empresa comercializadora de etanol ou do importador para as pessoas jurídicas de que tratam os incisos II e III do caput do art. 68-B da Lei nº 9.478, de 6 de agosto de 1997, a alíquota aplicável, conforme o caso, será aquela resultante do somatório das alíquotas previstas:
+I - nos incisos I e II do caput; ou
+II - nos incisos I e II do § 4º, observado o disposto no § 8º.
+§ 4º-B As alíquotas de que trata o § 4º-A aplicam-se nas seguintes hipóteses:
+I - de o importador exercer também a função de distribuidor;
+II - de as vendas serem efetuadas pelas pessoas jurídicas de que trata o inciso II ou III do caput do art. 68-B da Lei nº 9.478, de 1997, quando estes efetuarem a importação; e
+III - de as vendas serem efetuadas pelas demais pessoas jurídicas não enquadradas como produtor, importador, distribuidor ou varejista.
+§ 4º-C Na hipótese de venda de gasolina pelo distribuidor, em relação ao percentual de álcool anidro a ela adicionado, a incidência da Contribuição para o PIS/Pasep e da Cofins ocorrerá, conforme o caso, pela aplicação das alíquotas previstas:
+I - no inciso I do caput; ou
+II - no inciso I do § 4º, observado o disposto no § 8º.
 § 5º A opção prevista no § 4º deste artigo será exercida, segundo normas e condições estabelecidas pela Secretaria da Receita Federal do Brasil, até o último dia útil do mês de novembro de cada ano-calendário, produzindo efeitos, de forma irretratável, durante todo o ano-calendário subseqüente ao da opção.
 § 6º No caso da opção efetuada nos termos dos §§ 4º e 5º deste artigo, a Secretaria da Receita Federal do Brasil divulgará o nome da pessoa jurídica optante e a data de início da opção.
 § 7º A opção a que se refere este artigo será automaticamente prorrogada para o ano-calendário seguinte, salvo se a pessoa jurídica dela desistir, nos termos e condições estabelecidos pela Secretaria da Receita Federal do Brasil, até o último dia útil do mês de novembro do ano-calendário, hipótese em que a produção de efeitos se dará a partir do dia 1º de janeiro do ano-calendário subseqüente.
@@ -20,12 +27,13 @@ II - R$ 58,45 (cinqüenta e oito reais e quarenta e cinco centavos) e R$ 268,80 
 § 11. O preço médio a que se refere o § 10 deste artigo será determinado a partir de dados colhidos por instituição idônea, de forma ponderada com base nos volumes de álcool comercializados nos Estados e no Distrito Federal nos 12 (doze) meses anteriores ao da fixação dos coeficientes de que tratam os §§ 8º e 9º deste artigo.
 § 12. No ano-calendário em que a pessoa jurídica iniciar atividades de produção, importação ou distribuição de álcool, a opção pelo regime especial poderá ser exercida em qualquer data, produzindo efeitos a partir do primeiro dia do mês em que for exercida.
 § 13. O produtor e o importador de álcool, inclusive para fins carburantes, sujeitos ao regime de apuração não cumulativa da Contribuição para o PIS/Pasep e da Cofins podem descontar créditos relativos à aquisição do produto para revenda de outro produtor ou de outro importador.
+§ 13-A. O distribuidor sujeito ao regime de apuração não cumulativa da Contribuição para o PIS/Pasep e da Cofins poderá descontar créditos relativos à aquisição, no mercado interno, de álcool anidro para adição à gasolina.
 § 14. Os créditos de que trata o § 13 deste artigo correspondem aos valores da Contribuição para o PIS/Pasep e da Cofins devidos pelo vendedor em decorrência da operação.
+§ 14-A. Os créditos de que trata o § 13-A correspondem aos valores da Contribuição para o PIS/Pasep e da Cofins que incidiram sobre a operação de aquisição.
 § 15. O disposto no § 14 deste artigo não se aplica às aquisições de álcool anidro para adição à gasolina, hipótese em que os valores dos créditos serão estabelecidos por ato do Poder Executivo.
 § 16. Observado o disposto nos §§ 14 e 15 deste artigo, não se aplica às aquisições de que trata o § 13 deste artigo o disposto na alínea b do inciso I do caput do art. 3º da Lei nº 10.637, de 30 de dezembro de 2002, e na alínea b do inciso I do caput do art. 3º da Lei nº 10.833, de 29 de dezembro de 2003.
 § 17. Na hipótese de o produtor ou importador efetuar a venda de álcool, inclusive para fins carburantes, para pessoa jurídica com a qual mantenha relação de interdependência, o valor tributável não poderá ser inferior a 32,43% (trinta e dois inteiros e quarenta e três centésimos por cento) do preço corrente de venda desse produto aos consumidores na praça desse produtor ou importador.
 § 18. Para os efeitos do § 17 deste artigo, na verificação da existência de interdependência entre 2 (duas) pessoas jurídicas, aplicar-se-ão as disposições do art. 42 da Lei nº 4.502, de 30 de novembro de 1964.
-§ 19. O disposto no § 3º não se aplica às pessoas jurídicas controladas por produtores de álcool ou interligadas a produtores de álcool, seja diretamente ou por intermédio de cooperativas de produtores, ficando sujeitas às disposições da legislação da contribuição para o PIS/Pasep e da Cofins aplicáveis à pessoa jurídica produtora.
 § 20. A cooperativa de produção ou comercialização de etanol e a pessoa jurídica comercializadora de etanol controlada por produtores de álcool ou interligada a produtores de álcool, seja diretamente ou por intermédio de cooperativas de produtores, ficam sujeitas às disposições da legislação da contribuição para o PIS/Pasep e da Cofins aplicáveis à pessoa jurídica produtora.
 § 21. Na hipótese de venda de álcool pelas cooperativas de que trata o § 20, inclusive para a pessoa jurídica comercializadora de etanol nele referida, não se aplicam as disposições dos art. 15 e art. 16 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001.
 § 22. Na hipótese de que trata o § 21, os valores dos repasses recebidos pelos associados, decorrentes da comercialização do álcool por eles entregue a essas cooperativas, devem ser excluídos de sua base de cálculo da contribuição para o PIS/Pasep e da Cofins.
