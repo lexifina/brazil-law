@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se derecurso em habeascorpus interposto porGIOVANNI MENDES VITAL contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (Processo n. 1.0000.21.104066-2/000).
+O recorrente teve a prisão preventiva decretadapela suposta prática do crime previsto no art. 14 da Lei n.10.826/2003.
+Sustentaestar sofrendo constrangimento ilegal decorrente da manutenção de sua prisão preventiva.
+Alega que a decisão que decretou a segregação cautelar carece defundamentação idônea e que não estão presentes os requisitos legais previstos noart. 312do CPP.
+Afirma sersuficiente e adequada ao caso a aplicação de medidas cautelares diversas da prisão previstas no art. 319 do CPP.
+Ressalta que tem residência fixa, profissão definida e ocupação lícita.
+Aponta a possibilidade da concessão de regime domiciliar para presos em regime aberto ou semiaberto tendo, com fulcro na atual crise sanitária e nas recomendaçõesdo CNJ.
+Requer o provimento do recursopara que seja revogada a sua prisão preventiva, sendo expedido o alvará de soltura.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 174-184).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunala quo(fl. 135):
+Como se vê, o decreto de prisão preventiva encontra-se suficientemente fundamentado em dados concretos extraídos dos autos, revelando-se a medida constritiva providência indispensável para a garantia da ordem pública, dada a efetiva possibilidade de reiteração delitiva.
+Na hipótese, tem-se que o paciente é reincidente e portador de maus antecedentes, consoante CAC anexada aos autos (ord. 4, fl. 51/63), possuindo condenações transitadas em julgado pelos delitos de tráfico ilícito de entorpecentes, associação, posse irregular de arma de fogo de uso permitido e crimes de trânsito, além de estar respondendo a outros processos, inclusive, pela prática de homicídio. Outrossim, pelo que consta do r. decisum de ord. 2, fl. 4/5, no dia 08/05/2021, o paciente havia sido colocado em liberdade provisória, sendo que, uma semana após (15/05/2021),praticou o crime de porte ilegal de arma de fogo de uso permitido, ora em exame, e foi preso em flagrante.
+Destarte, sem dúvida, o cenário fático-jurídico delineado nos presentes autos, para além de demonstrar acentuado desprezo pela Justiça, evidencia o perigo concreto que a liberdade do paciente representa à ordem pública, justificando-se, assim, a manutenção da medida restritiva de liberdade.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível asubstituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Note-se que, no presente caso,a reincidência e os maus antecedentes doagentejustificaram a prisão preventiva.
+Conforme orientação jurisprudencial do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Ademais, eventuais condições subjetivasfavoráveisdorecorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+Assim, como não foram demonstradas as situações descritas, não se verifica desrespeito à Recomendação CNJ n. 62/2020.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se.Intimem-se.
