@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP, o qual recebeu a seguinte ementa (e-STJ fl. 109):
+AGRAVO DE INSTRUMENTO. .APROVAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL DA AGRAVADA. AUSÊNCLA DE CREDORES DA CLASSE II. HOMOLOGAÇÃO EM CONFORMIDADE AO ART. 58 DA LEI FEDERAL N.º 11.101 05.
+CARÊNCLA. DESÁGIO. PRAZO. ATUALIZAÇÃO E ILIQLTDEZ DO PLANO. INSURGÊNCLA DE INSTITUIÇÃO FINANCEIRA. QUE APONTA ILEGALIDADES. RECURSO NAO PROVIDO NESTES PONTOS.
+CONTAGEM DO PRAZO DE SUPERVISÃO DE 2 .ANOS (ART. 61, LRF) QUE. ENTRETANTO. DEVERÁ TER INÍCIO A PARTIR DO DECURSO DO PRAZO DE CARÊNCLA. RECURSO PROVIDO PARA ESTE FIM.
+LIBERAÇÃO DE GARANTLA. INEXISTÊNCLA DE DISPOSIÇÃO NO PRJ SOBRE A MATÉRIA. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO NÃO CONHECIDO NESTE PONTO.
+CLÁUSULA 4.5. COMPENSAÇÃO DE CRÉDITOS. NECESSIDADE DE LIMITAÇAO CONFORME OS CRITÉRIOS ESTABELECIDOS NO PRESENTE ACÓRDÃO. RECURSO PARCLALMENTE PROVIDO NESTE PONTO.
+AGRAVO DE INSTRUMENTO PARCLALMENTE PROVIDO, NA PARTE CONHECIDA.
+No recurso especial (e-STJ fls. 133/147), fundamentado no art. 105, III, "a", da CF, a parte recorrente alega ofensa aos arts. 35, 50, 61 e 63 da Lei n. 11.101/2005, sustentando que "não há o que se falar em ilegalidade da compensação, seja qual for a sua forma, se prevista no plano de recuperação judicial e aprovada por maciça maioria dos credores, como ocorreu na hipótese" (e-STJ fl. 144).
+Parecer ministerial pelo não conhecimento do recurso (e-STJ fls. 180/184).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 122/123):
+VI) Quanto à cláusula 4.5, relativa à previsão de compensação, esta é assim redigida:
+(..)
+E, a propósito, ainda que nào haja ilegalidade na previsão de compensação, diante da forma como está redigida, é necessária a adequação de tal cláusula 4.5 ao que já decidiu esta C. Ia Câmara Reservada de Direito Empresarial sobre o tema, conforme se extrai do seguinte trecho de v. Aresto da lavra do Exmo. Des. Francisco Loureiro:
+Dissentir das conclusões do acórdão impugnado implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Além disso, adecisão recorrida está em consonância com a jurisprudência desta Corte, no sentido de que não é possível cláusula geral de compensação que não respeita as particularidades de cada classe de credores,porque a compensação de créditos, no processo recuperacional ou falimentar, coloca sob a mesma dogmática jurídica o pagamento de débitos da recuperanda/falida e o recebimento de créditos pela massa de credores, situações que ordinariamente obedecem a sistemas bem distintos.A compensação, para ser permitida, deve observar e regular cada uma das classes, respeitando suas garantias (REsp 1121199/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/09/2013, REPDJe 12/02/2014, DJe 28/10/2013).
+A esse respeito:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PRAZO PARA PAGAMENTO DOS CREDORES TRABALHISTAS. MARCO INICIAL. ART. 54 DA LEI 11.101/05. DATA DA CONCESSÃO DA RECUPERAÇÃO JUDICIAL. MOMENTO A PARTIR DO QUAL AS OBRIGAÇÕES DEVEM SER CUMPRIDAS.
+1. Recuperação judicial requerida em 15/11/2018. Recurso especial interposto em 15/10/2020. Autos conclusos à Relatora em 9/3/2021.
+2. O propósito recursal consiste em definir o termo inicial da contagem do prazo para pagamento dos credores trabalhistas no procedimento de recuperação judicial do devedor.
+3. A liberdade de negociar prazos de pagamentos é diretriz que serve de referência à elaboração do plano de recuperação judicial.
+Todavia, a fim de evitar abusos que possam inviabilizar a concretização dos princípios que regem o processo de soerguimento, a própria Lei 11.101/05 cuidou de impor limites à deliberação dos envolvidos na negociação. Dentre esses limites, vislumbra-se aquele estampado em seu art. 54, que garante o pagamento privilegiado de créditos trabalhistas. Tal privilégio encontra justificativa por incidir sobre verba de natureza alimentar, titularizada por quem goza de proteção jurídica especial em virtude de sua maior vulnerabilidade.
+4. A par de garantir pagamento especial aos credores trabalhistas no prazo de um ano, o art. 54 da LFRE não fixou o marco inicial para cumprimento dessa obrigação.
+5. Todavia, decorre da interpretação sistemática desse diploma legal que o início do cumprimento de quaisquer obrigações previstas no plano de soerguimento está condicionado à concessão da recuperação judicial (art. 61, caput, c/c o art. 58, caput, da LFRE).
+6. Isso porque é apenas a partir da concessão do benefício legal que o devedor poderá satisfazer seus credores, conforme assentado no plano, sem que isso implique tratamento preferencial a alguns em detrimento de outros. Doutrina.
+7. Vale observar que, quando a lei pretendeu que determinada obrigação fosse cumprida a partir de outro marco inicial, ela o declarou de modo expresso, como ocorreu, a título ilustrativo, na hipótese do inciso III do art. 71 da LFRE (plano especial de recuperação judicial).
+8. Acresça-se a isso que a novação dos créditos existentes à época do pedido (art. 59 da LFRE) apenas se perfectibiliza, para todos os efeitos, com a prolação da decisão que homologa o plano e concede a recuperação, haja vista que, antes disso, verificada uma das situações previstas no art. 73 da LFRE, o juiz deverá convolar o procedimento recuperacional em falência.
+9. Nesse norte, não se poderia cogitar que o devedor adimplisse obrigações antes de ser definido que o procedimento concursal será, de fato, a recuperação judicial e não a falência. Somente depois de aprovado o plano e estabelecidas as condições específicas dos pagamentos é que estes podem ter início. Doutrina.
+10. O fundamento que serve de suporte à conclusão do acórdão recorrido - no sentido de que o pagamento dos créditos trabalhistas deveria ter início imediatamente após o decurso do prazo suspensivo de 180 dias - decorre da compreensão de que, findo tal período, estaria autorizada a retomada da busca individual dos créditos detidos contra a recuperanda. Essa compreensão, contudo, não encontra respaldo na jurisprudência deste Tribunal Superior, que possui entendimento consolidado no sentido de que o decurso do prazo acima indicado não pode conduzir, automaticamente, à retomada da cobrança dos créditos sujeitos ao processo de soerguimento, uma vez que o objetivo da recuperação judicial é garantir a preservação da empresa e a manutenção dos bens de capital essenciais à atividade na posse da devedora. Precedente.
+11. Ademais, a manutenção da solução conferida pelo Tribunal de origem pode resultar em prejuízo aos próprios credores a quem a Lei 11.101/05 procurou conferir tratamento especial, haja vista que, diante dos recursos financeiros limitados da recuperanda, poderão eles ser compelidos a aceitar deságios ainda maiores em razão de terem de receber em momento anterior ao início da reorganização da empresa.
+RECURSO ESPECIAL PROVIDO.
+(REsp n. 1924164/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/6/2021, DJe 17/6/2021.)
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
