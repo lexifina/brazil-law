@@ -1,0 +1,19 @@
+DECISÃO
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO.OS DISPOSITIVOS DITOS POR VIOLADOS NÃO POSSUEMCOMANDO NORMATIVO APTO A SUSTENTAR A TESE RECURSAL OU A INFIRMAR O ACÓRDÃO REGIONAL. SÚMULA 284/STF.TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 282/STF. RECURSO ESPECIAL DA UNIÃONÃO PROVIDO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fulcro na alínea a do art. 105, III,da Constituição Federal, contra acórdão de lavra do TRF da 5ªRegião, assim ementado:
+PROCESSUAL CIVIL AGRAVO DE INSTRUMENTO. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA.INOCORRÊNCIA.
+1. Trata-se de agravo de instrumento interposto contra decisão que rejeitou a prejudicial de prescrição da pretensão executória.
+2. Em suas razões recursais, a parte agravante alega que houve a prescrição da pretensão executória, tendo em vista que o título judicial executado nestes autos transitou em julgado em 16/12/2014 (Id.: 4058500.3355930). Acrescenta que não há ajuizamento de ação rescisória por parte da União, não havendo que se falar em causa suspensiva ou interruptiva da prescrição. Como não houve qualquer suspensão do andamento das execuções ou impedimento para o ajuizamento de novas execuções individuais, não há suspensão do lustro prescricional. Conclui que como esta execução foi proposta mais de 5 (cinco) anos após o trânsito em julgado, a pretensão executiva encontra-se prescrita, nos termos do art. 1º do Decreto nº 20.910/32.
+3. Afirma que o ajuizamento da presente execução ocorreu em 16/12/2019, então não há valores a serem calculados visto que as parcelas anteriores a 16/12/2014 encontram-se totalmente prescritas.
+4. A prescrição da pretensão executiva, por força do artigo 1º do Decreto nº 20.910/32, ocorre quando decorridos cinco anos do trânsito em julgado entre o título executivo e o ajuizamento da ação.
+5. Por sua vez, o art. 132, do Código Civil, dispõe que salvo disposição legal ou convencional em contrário, computam-se os prazos, excluído o dia do começo, e incluído o do vencimento. O parágrafo terceiro do dispositivo acrescenta que os prazos de meses e anos expiram no dia de igual número do de início, ou no imediato, se faltar exata correspondência.
+6. Na hipótese, é incontroverso nos autos que o título judicial transitou em julgado em 16/12/2014 e o ajuizamento da presente execução foi proposto em 16/12/2019. Considerando o teor da norma aplicável, não restam dúvidas de que o último dia deve estar incluído no prazo válido para a propositura da demanda. Precedente: PROCESSO:08186724620184058300, APELAÇÃO CÍVEL, DESEMBARGADOR FEDERAL GUSTAVO DE PAIVA GADELHA(CONVOCADO), 3ª TURMA, JULGAMENTO: 06/02/2020.
+7. Assim, reputa-se não transcorrido o prazo prescricional de cinco anos.
+8. Agravo de instrumento improvido.
+2. A recorrente alegaafronta aosarts. 183,502 do CPC/2015 e132 do Código Civil. Sustenta, em síntese, que ocorreu a prescrição da pretensão executória, porquanto a data do trânsito em julgado -16.12.2014 - só seriaválida para a União e não para o exequente.
+3. É o relatório.
+4. O recurso não merece prosperar.
+5. Toda a argumentação exposta nas razões recursais gira em torno da ocorrência da prescrição da execução, a partir do trânsito em julgado ocorrido em 16.12.2014.No entanto, os dispositivos apontados como violados não possuemcomando normativo capaz de sustentar a tese recursal.Assim, incide a Súmula 284/STF, ante a deficiência da fundamentação impeditiva da exata compreensão da controvérsia.
+6. Ademais, o Tribunal a quo sequer prequestionoua tese trazida no presente recurso, o que atrai também o óbiceda Súmula 282/STF, limitando-se a consignar ser "incontroverso nos autos que o título judicial transitou em julgado em 16/12/2014 e o ajuizamento da presente execução foi proposto em 16/12/2019 (fls. 646).
+7. Diante de tais considerações, nega-se provimento ao Recurso Especial da União.
+8. Publique-se.Intimações necessárias.
