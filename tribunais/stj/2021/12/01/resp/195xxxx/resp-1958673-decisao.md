@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alínea"a", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl.248):
+APELAÇÃO - Ação monitória - Sentença de procedência - Recurso dos réus - Alegação de ausência de documento essencial ao ajuizamento do feito - Não verificada - Ação monitória devidamente instruída com contrato de abertura de crédito em conta corrente e, planilha de cálculo - Observância aos art. 700 e ss. CPC, e súmula 247, C. STJ - Capitalização de juros Inocorrência - Cumulação de comissão de permanência e outros encargos - Não verificada - Inadimplência constatada - Débito devido - Sentença mantida - Recurso dos réus desprovido.
+Nas razões do recurso especial, a parte recorrente aponta violação ao art.5º da MP 2.170-36/01 e ao art. 4º da Lei 4.595/64. Argumentam que deve ser afastada a capitalização mensal de juros diante da ausência deprevisãoem contratode forma expressa e clara.
+Sustentam que "oBanco Recorrido não apresentou os Termos de Autorização para liberação de créditos bem como deixou de apresentar todos os extratos mensais que comprovariam a evolução do débito durante a relação negocial, com a finalidade de demonstrar a efetiva concessão e utilização do crédito descrito na petição inicial e ainda a permissão da capitalização" (e-STJ, fl.261).
+Afirmam que "como não é possível aferir se houve ou não pactuação expressa da capitalização mensal dos juros, presumindo-se verdadeiros os fatos alegados pelo Recorrente nos Embargos, devendo ser excluída a capitalização mensal/diária, por não haver autorização para a incidência de juros capitalizados" (e-STJ, fl.261).
+Contrarrazões apresentadas (e-STJ, fls.272/282).
+Assim delimitada a controvérsia, passo a decidir.
+Verifico que o conteúdo normativo doart. 5º da MP 2.170-36/01 e do art. 4º da Lei 4.595/64 nãofoi objeto de apreciação pelo Tribunal de origem, e a parterecorrente não opôs os embargos de declaração objetivando suprir eventual omissão quanto a esse ponto.
+Assim, incidem os enunciados n. 282 e 356 da Súmula do STF, porquantoausente o prequestionamento, exigido inclusive para as matérias de ordem pública.
+Ainda que superado o referido óbice, acerca da capitalização mensal, o Tribunal local assim se manifestou (e-STJ, fls. 249/250):
+Anota-se que, em se tratando de contrato de abertura de crédito em conta corrente, impossível a ocorrência de capitalização irregular, ante o própriosistema de uso do crédito e a obrigação de compor o saldo devedor nos respectivos vencimentos.
+Ao contrário do que aduzido pela parte ré, os juros cobrados pelo réu encontram-se em consonância com o contrato outrora celebrado entre as partes. Nesse sentido, atestou o i. expert no laudo pericial de fls. 174/176.
+Com efeito, consignou a Corte Local que os juros cobrados pela parte recorridaestavam de acordocom o contrato celebrado entre as partes, conforme atestado emlaudo pericial, fundamento que, todavia, não foi impugnado pela recorrente, de forma a atrair o disposto no verbete n. 283 da Súmula do Supremo Tribunal Federal.
+Ademais, o acolhimento da pretensão recursal, conforme pretendido pelos recorrentes, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o reexame das provas dos autos, o que é vedado em sede de recurso especial, ante a Súmula n. 7/STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
