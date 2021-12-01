@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por MÁRCIA REGINA MENDES MELOcontra decisão que inadmitiu o recurso especial em virtude da incidência das Súmulas n. 5 e 7 do STJ e 284 do STF.
+O acórdão recorrido está assim ementado (e-STJ fl. 3.341):
+APELAÇÃO CÍVEL. PLANO DE SAÚDE SOB AMODALIDADE DE AUTOGESTÃO. INEXISTÊNCIADE RELAÇÃO DE CONSUMO. OBRIGAÇÃO DASEGURADORA DE COBERTURA NA REDECREDENCIADA CONTRATADA, NÃOASSISTINDO AO BENEFICIÁRIO O DIREITO DERECEBER CONTRAPRESTAÇÃO DIVERSA DOPLANO ADQUIRIDO. RECUSA DOATENDIMENTO NÃO COMPROVADA. AUSÊNCIADE PROVA MÍNIMA. SÚMULA 330 DO TJRJ.SENTENÇA REFORMADA EM PARTE.
+1. Preliminar de ofensa ao princípio dadialeticidade arguida em contrarrazões quenão merece prosperar. As razões do apeloimpugnam de forma clara e fundamentada asentença, razão pela qual deve ser integralmenteconhecido.
+2. Preliminar de inaplicabilidade do Códigode Defesa do Consumidor arguida emcontrarrazões acolhida. Matéria enfrentada poresta 20ª Câmara Cível em julgamento de anterioragravo de instrumento. No âmbito dos planos desaúde administrados por entidade de autogestão, jádecidiu o STJ que não se aplica o Código doConsumidor. Súmula nº 608 do STJ.
+3. Parte autora, portadora de neoplasia malignarecidiva, justifica sua pretensão na recusa do planode saúde em reembolsar integralmente as despesasefetuadas fora da rede credenciada.
+4. Cabia à parte autora trazer aos autos provamínima que conferisse verossimilhança às suasalegações quanto ao fato constitutivo do direito, nostermos do art. 373, I do CPC.
+5. Embora a situação em análise seja delicada, aautora não comprovou que se encontravadesamparada dos serviços médicos de quenecessitava, realizando por sua livre escolha otratamento com profissionais não credenciados.
+6. Alegação de que a falta de confiança nosprofissionais credenciados ao plano, por supostoerro médico, a fez procurar atendimento em hospitalnão credenciado, também não restousuficientemente comprovada. Cabia à autora ademonstração de suposto erro médico e, por setratar de questão técnica, a prova pericial seria aúnica apta a confirmar o direito, devendo a autorasofrer as consequências processuais advindas de suanão produção.
+7. Na hipótese de livre escolha, o reembolso deeventuais despesas deve se dar nos termos docontrato celebrado, consoante disposto no artigo 12,VI, da Lei nº 9.656/98.
+8. Reforma parcial da sentença apenas paradeterminar o reembolso pelos valorescomprovadamente despendidos, em razão dotratamento, inclusive os futuros, nos limites docontrato, a ser apurado em liquidação de sentença.PARCIAL PROVIMENTO DO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 3.410/3.419)
+No recurso especial (e-STJ fls. 3.492/3.521),fundamentado no art. 105, III, "a", da CF, a parte recorrente alegouafronta aos arts. 10, 10-A, 12, I, II e VI, da Lei n. 9.656/1998, 371, 489, § 1º, IV, do CPC/2015, 421, 422 e 424 do CC/2002,argumentando que teria comprovado a urgência que justificou a procura por atendimento fora da rede credenciada do seu plano, sendo que a empresa de saúdeteriaresponsabilidade pelo custeio integral dos custos com o tratamento.
+No agravo (e-STJ fls. 3.631/3.657), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O Tribunala quo, soberano no exame dos fatos e das provas dos autos, considerou inexistir situação de urgência ou emergência a justificar o reembolso integral pelo tratamento realizado fora da rede credenciada (e-STJ fls. 3.347/3.357). Alterar tal conclusão é inviável em recurso especial, de acordo com as Súmulas n. 5 e 7 do STJ.
+Além disso, constata-se que o entendimento adotado pelo Tribunal de origem concorda com a jurisprudência do STJ, segundo a qual"o reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento" (EAREsp 1.459.849/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, j. em 14/10/2020, DJe17/12/2020).
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
