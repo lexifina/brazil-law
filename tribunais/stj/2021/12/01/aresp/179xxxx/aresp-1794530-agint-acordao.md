@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno ajuizado em face da decisão proferida pelo Presidente desta Corte às fls. 518-521 (e-STJ), o qual conheceu do agravo para não conhecer do recurso especial interposto pelas partes ora recorrentes.
+Nas razões do presente recurso, as partes agravantes afirmam não ser o caso de aplicar-se o enunciado sumular n. 7 desta Corte na espécie, sustentando que, "No caso em tela, não se vislumbra qualquer indício de boa situação financeira dos Agravantes. Não é crível que tenha se apoiado, unicamente, no montante financeiro percebido pelos Agravantes em especial pelo balanço da Agravante Indústria de Tecidos Biasi Ltda, como incompatível com o estado de insuficiência financeira, na forma do que rege o art. 98 da Legislação Adjetiva Civil" (fl. 532, e-STJ).
+Alegam que "os resultados acima transcritos extraídos das peças contábeis citadas, motivaram e justificaram a concessão do benefício da justiça gratuita aos Agravantes, conforme comprovam as cópias dos v. Acórdãos trasladados, destacando que naqueles autos as custas eram inferiores e mesmo assim, insuportáveis para Agravantes, diante da precariedade financeira dos mesmos" (fl. 533, e-STJ).
+Houve impugnação da parte recorrida (fls. 542-543, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DO JULGADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. GRATUIDADE DE JUSTIÇA. NÃO COMPROVADA. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. No caso, o Tribunal local, lastreado no arcabouço fático constante dos autos, entendeu que não havia elementos suficientes para concessão do pleiteado benefício da gratuidade de justiça.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA): O agravo interno não merece prosperar.
+Na espécie, é incabível o recurso especial porque visa discutir violação de norma constitucional que, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos (fls. 398-399):
+A documentação trazida com este agravo interno não tem o condão de modificar a decisão agravada, pois não há demonstração inequívoca de faltar aos embargantes a alegada condição financeira para o pagamento das custas do processo.
+Como foi ressaltado na decisão agravada, o risco de prejuízo é inerente à atividade empresarial e a hipossuficiência de recursos não se confunde com balanço patrimonial negativo.
+Note-se que o último balancete sintético trazido pelos recorrentes demonstra que a apelante (pessoa jurídica) tem ativo e receitas de cerca de R$ 1.816.940,62 (cf. fls. 27-30), podendo arcar com as despesas processuais, que, embora tenham valor expressivo, podem de ser recolhidas.
+Quanto às pessoas físicas (avalistas), somente agora, neste agravo interno, vieram aos autos as suas declarações de hipossuficiência financeira.
+No entanto, ante a decisão de indeferimento cabia a tais embargantes trazer outros documentos além da declaração de pobreza.
+Conquanto a gratuidade processual  relativamente à pessoa física  possa, em princípio, de ser concedida à vista da simples afirmação de pobreza do interessado (cf. Theotonio Negrão, CPCLPV, Saraiva, 28a ed., 1997, p. 776, art. 4º, lb), por se tratar de presunção juris tantum (cf. RSTJ 7/414; STF-RT 755/182, STF-Bol. AASP 2.071/697 e STJ - RF 329/236), tal regra não é absoluta, devendo ser analisada caso a caso. E a sua aceitação pode ser conjugada com outros elementos, diante da constatação de dados objetivos que possam estar em contradição com a afirmada miserabilidade jurídica, cabendo ao juiz negar o pedido à luz de dados evidentes, elementos informativos concretos ou esclarecimentos insuficientes.
+Não obstante, além das declarações de pobreza, somente uma das embargantes trouxe cópia de sua declaração de imposto de renda, que indica receber ela apenas o beneficio de aposentadoria, sem haver, contudo, qualquer outra informação nos autos  nem sequer houve indicação da conta bancária em que seriam depositados os proventos da aposentadoria (cf. fls. 36-42).
+Tal cenário chama atenção, pois os embargantes são empresários e suas esposas que prestaram aval a uma cédula de crédito bancário de R$ 1.534.645,00 e tentam convencer este Colegiado de sua miserabilidade apresentando apenas a declaração de imposto de renda de um deles (que não declara patrimônio algum), omitindo o patrimônio dos demais, conduta pouco condizente com o dever de comportamento processual de acordo a boa-fé (cf. art. 5º do CPC/2015)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demandar reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Assim, não trazendo as partes recorrentes fundamentos capazes de infirmar a decisão agravada, deve ela prevalecer.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
