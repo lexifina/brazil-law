@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por CENTAURO VIDA PREVIDÊNCIA S.A com fundamento nas alíneas "a" e "c" do permissivo constitucional em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ Fls. 298/299):
+" APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA EM GRUPO. COMPLEMENTAÇÃO DA INDENIZAÇÃO POR INVALIDEZ PERMANENTE POR ACIDENTE DE TRÂNSITO. SENTENÇA DE IMPROCEDÊNCIA.
+RECURSO DO AUTOR. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. PLEITO DE REFORMA DA SENTENÇA VISANDO O PAGAMENTO INTEGRAL DA INDENIZAÇÃO SECURITÁRIA.
+SUBSISTÊNCIA. INCAPACIDADE PARCIAL PERMANENTE ATESTADA EM PERÍCIA JUDICIAL E EXTRAJUDICIAL. APÓLICE SECURITÁRIA COM PREVISÃO DE COBERTURA POR INVALIDEZ POR ACIDENTE.
+INEXISTÊNCIA DE PROVA DA PRÉVIA CIÊNCIA DO CONSUMIDOR ACERCA DE QUAISQUER DISPOSIÇÕES CONTRATUAIS LIMITATIVAS.
+DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO. EXEGESE DOS ARTIGOS 6º, III, E 46, AMBOS DO CDC. INCUMBÊNCIA ATRIBUÍDA À SEGURADORA. INTELIGÊNCIA DOS ARTIGOS 801, § 1º, DO CÓDIGO CIVIL E ARTIGO 7º, PARÁGRAFO ÚNICO DO CDC. ENTENDIMENTO DESTE ÓRGÃO FRACIONÁRIO QUE SE COADUNA COM A ATUAL JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA ACERCA DO TEMA. DIREITO AO RECEBIMENTO DO VALOR TOTAL PREVISTO NO CONTRATO DE SEGURO. CORREÇÃO MONETÁRIA PELO INPC DESDE A DATA DA CONTRATAÇÃO DO SEGURO. JUROS DE MORA A CONTAR DA CITAÇÃO.
+PEDIDO DE FIXAÇÃO DE CORREÇÃO MONETÁRIA DO VALOR PAGO PELA SEGURADORA NA VIA ADMINISTRATIVA DESDE A DATA DA CONTRATAÇÃO DO SEGURO. IMPOSSIBILIDADE. CONDENAÇÃO AO PAGAMENTO DE COMPLEMENTAÇÃO DA INDENIZAÇÃO ATÉ O LIMITE DO CAPITAL SEGURADO, ACRESCIDO DE JUROS DE MORA E CORREÇÃO MONETÁRIA DESDE A CONTRATAÇÃO QUE ENGLOBA EVENTUAL DIFERENÇA MONETÁRIA DO MONTANTE ADIMPLIDO ADMINISTRATIVAMENTE.
+INVERSÃO DO ÔNUS DA SUCUMBÊNCIA. PLEITO AUTORAL ACOLHIDO IN TOTUM . SEGURADORA QUE DEVE ARCAR COM O PAGAMENTO INTEGRAL DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO."
+Opostos embargos de declaração, foram rejeitados às fls. 322/327.
+Nas razões do recurso especial, o recorrente aponta ofensa aos arts. 757 do CC, 47 e 54 do CDC, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, que deve ser aplicada a proporcionalidade da indenização, expressamente prevista no contrato, quando parcial a invalidez do segurado, acentuando que "no presente caso, restou incontestável a verificação da natureza parcial da invalidez que acomete o recorrido, através de perícia médica" - (fl. 348).
+É o relatório. Decido.
+A Corte de origem, com base na análise do lastro probatório colacionado aos autos, verificou que "da análise da documentação, infere-se não haver qualquer assinatura ou indício de ciência da estipulante ou sequer do consumidor acerca de eventuais cláusulas limitativas", frisando que "o conjunto probatório, portanto, é insuficiente à aferição da efetiva ciência, pelo segurado, acerca das limitações impostas ao direito à percepção do pagamento integral do capital segurado em caso de sinistros" - (fl. 293).
+Ocorre que a parte recorrente não impugnou a fundamentação acima, autônoma e suficiente à manutenção do aresto hostilizado, a qual permaneceu incólume. Dessa forma, incide, na espécie, o óbice da Súmula 283 do STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Veja-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. AFRONTA AO ART. 535 DO CPC. INOCORRÊNCIA. APELAÇÃO DESERTA. ARTS. 158 e 511, § 2º, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULAS Nº 211/STJ E Nº 282/STF. FUNDAMENTO INATACADO. SÚMULA Nº 283/STF. COMPROVAÇÃO DA OCORRÊNCIA DO ESBULHO E HONORÁRIOS EXORBITANTES. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. DECISÃO MANTIDA.
+(..)
+3. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal - Súmula nº 283/STF.
+(..)
+5. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 595.189/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/11/2014, DJe 27/11/2014)
+Ademais, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir se houve ou não cumprimento do dever de informação por parte da seguradora, bem como a ciência do segurado acerca das cláusulas limitativas demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório. Em reforço:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. OMISSÃO OU CONTRADIÇÃO. AUSÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DA AUSÊNCIA DE CIÊNCIA DO CONSUMIDOR SOBRE AS LIMITAÇÕES DO CONTRATO. SÚMULAS 5 E 7/STJ.CABIMENTO DA FIXAÇÃO DA INDENIZAÇÃO NO VALOR TOTAL. SÚMULA 83/STJ.
+AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. As ponderações a respeito da falta de conhecimento do aderente às limitações do contrato de seguro foram feitas com base em fatos e provas, atraindo a aplicação das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+3. Consoante a jurisprudência desta Corte Superior, não se revela abusiva a cláusula que prevê a limitação da indenização securitária proporcional ao percentual de invalidez, desde que não haja deficiência no dever de informação, por parte da seguradora, de que a cobertura poderia ser paga em valor inferior ao limite do capital segurado. Dessa forma, o acórdão está em sintonia com o entendimento deste Tribunal - Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1751954/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
