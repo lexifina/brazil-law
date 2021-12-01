@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2046, de 11 de novembro de 2021
+Altera a Instrução Normativa RFB nº 1.751, de 16 de outubro de 2017, que dispõe sobre a permissão de acesso do contribuinte aos serviços disponíveis no Centro Virtual de Atendimento (e-CAC) da Secretaria Especial da Receita Federal do Brasil.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto na Instrução Normativa RFB nº 1.995, de 24 de novembro de 2020, resolve:
