@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A.contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (e-STJ, fl. 225):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. REITERAÇÃO DE ARGUMENTOS JÁ APRESENTADOS EM SEDE DE APELO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS TERMOS DA DECISÃO RECORRIDA. OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL. NÃO CONHECIMENTO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante sustenta ofensa aos arts. 4º, 6º, 485, IV, 489, § 1º, IV, do Código de Processo Civil, alegandoqueimpugnou especificamente os fundamentos da decisão proferida pelo relator e, portanto, o recurso de agravo interno deveria ter sido conhecido. Afirma que o acórdão não apreciou todas as questões suscitadas que vem argumentando desde o recurso de apelação, especialmente o protocolo com a apresentação das contrafés no Cartório, que não foi certidicado nos autos.
+Assim delimitada a controvérsia, passo a decidir.
+Verifico que o Tribunal de origem deixou de conhecer do agravo internopelos seguintes fundamentos (e-STJ, fl. 224):
+No caso dos autos, em sede de agravo interno, o recorrente apenas reitera os argumentos já mencionados em sede de apelação, tese que foi refutada na decisão que julgou o apelo.
+Ao assim agir, o agravante inobserva o Princípio da Dialeticidade Recursal, que norteia todo o ordenamento jurídico pátrio e figura como requisito de admissibilidade dos recursos.
+Observa-seque o acórdão recorrido entendeu que a parte insurgente não impugnou especificamenteos fundamentos da decisão que negou seguimento ao recurso de apelação, pois apenas reiterou seus argumentos anteriormente expendidos.
+Com efeito, é entendimento pacificado neste Superior Tribunal de Justiça que a mera repetição pelo recorrente, nas razões da apelação, do teor da petição inicialou das razões finais, não ofende o princípio da dialeticidade, quando puderem ser extraídos do recurso fundamentos suficientes, notória intenção de reforma da sentença e os demais requisitos previstos no art.1.010 do CPC/15, situação a qual reputo presente nos autos. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO. NÃO CONHECIMENTO.PRINCÍPIO DA DIALETICIDADE. PREENCHIMENTO. PREQUESTIONAMENTO INEQUÍVOCO. ACÓRDÃO DE ORIGEM. TEMA CENTRAL. IMPUGNAÇÃO. NÃO PROVIMENTO.
+1. É entendimento pacificado neste Superior Tribunal de Justiça que a repetição, pelo recorrente, nas razões da apelação, do teor da petição inicial, ou no caso das razões finais, não ofende o princípio da dialeticidade, quando puderem ser extraídos do recurso fundamentos suficientes, notória intenção de reforma da sentença.
+2. O prequestionamento é evidente quando a controvérsia trazida no recurso especial foi o tema central do acórdão recorrido.
+3. O recurso especial que impugnou todos os fundamentos bastantes do acórdão de origem não atrai o verbete n. 283 da Súmula do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1896018/PB, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 8.10.2021);
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL AFASTADA. SENTENÇA ANULADA.RECURSO DO BANCO PREJUDICADO. FUNDAMENTO SUFICIENTE NÃO ATACADO.SÚMULA 283/STF. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pela segunda instância, que sobre ela emitiu pronunciamento de maneira fundamentada.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Conforme jurisprudência desta Corte, "o formalismo na apreciação das razões de apelação não é tão acentuado, bastando, para seu conhecimento, que seja minimamente demonstrada a pretensão de reforma da sentença, com o ataque, mesmo genérico, dos fundamentos da sentença" (AgRg no REsp n. n. 1.107.956/PB, Relator Ministro Ricardo Villas Bôas Cueva, DJe 17/8/2012, sem grifo no original), como ocorreu no presente caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1750861/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 13.5.2021).
+E a jurisprudência deste Superior Tribunal também orienta que "Atende ao princípio da dialeticidade o recurso que apresenta fundamentos suficientes para impugnar a decisão recorrida, ainda que a parte reitere os mesmos argumentos apresentados em peças anteriores"(AgInt no AREsp 1621252/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 17.6.2021).
+No caso dos autos, épossível inferir, da leitura do agravo interno, o seu inconformismo quanto à decisão que negou seguimento ao recurso de apelaçãoe o interesse em ver reformado o julgado. Nas razões dorecurso interposto, verifica-se, inclusive, que a parte recorrente impugnou todosos fundamentos da decisão, citando o protocolo de petição dando cumprimento à determinação de juntada de todas as contrafés da execução, de modo que não há dúvidas quanto à existência depertinência entre as razões do recurso e a decisão atacada.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial paradeterminaro retorno dos autos à origem, a fim de queo Tribunal de origem prossiga com o julgamento do recurso.
+Intimem-se.
