@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão de fls. 373-376, proferida pela Presidência desta Corte Superior, a qual conheceu do agravo em recurso especial para não conhecer do recurso especial interposto pelas partes ora recorrentes.
+As partes agravantes sustentam que não incidem as Súmulas 7/STJ e 126/STF, no presente caso. Argumentam que "a pretensão dos agravantes estava vocacionada a restabelecer a vigência dos arts. 99, § 2º, e 321, parte final, do Código de Processo Civil, sobretudo em virtude da farta prova documental acostada aos autos. Isso porque a própria doutrina, em consonância com o que dispõem os dispositivos violados, impõe ao Poder Judiciário o dever de, antes de indeferir o pedido da gratuidade, oportunizar à parte a comprovação do preenchimento dos requisitos para a respectiva concessão" (fl. 383).
+Alegam que "Vale ressaltar que o próprio acórdão afirmou que, quando do pedido da gratuidade da justiça, os recorrentes juntaram aos autos documentos que reputaram suficientes para provar a respectiva hipossuficiência. Assim o fizeram, sobretudo, porque a CCM é pessoa jurídica. Contudo, no presente caso, os documentos colacionados foram tidos pelo juízo de primeiro grau como insuficientes para comprovar o direito pleiteado. Nesse cenário, o juízo de primeiro grau, em vez de determinar aos recorrentes a complementação de documentos que consideraria necessários para apreciar o pedido nos moldes traçados pelos arts. 99, § 2º, e 321, parte final, do Código de Processo Civil, indeferiu o benefício de plano" (fl. 384).
+Não foi apresentada impugnação pelas partes agravadas (fls. 403-404, e-STJ).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REVISÃO DO JULGADO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7 DO STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA): O inconformismo não merece prosperar.
+No presente caso, o Tribunal estadual assim decidiu (fl. 188):
+Assim, os recorrentes não comprovaram a hipossuficiência aduzida, ainda que momentânea, conforme expressamente exigem os artigos 5º, LXXIV, da Constituição Federal (..) (fls. 188).
+Da análise dos autos, percebe-se que há fundamento constitucional autônomo no acórdão recorrido e não houve apresentação do devido recurso ao Supremo Tribunal Federal.
+Aplicável, portanto, o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui, além de fundamento infraconstitucional, fundamento de natureza constitucional suficiente por si só para a manutenção do julgado.
+Nesse sentido: " ..  firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário. A existência de fundamento constitucional autônomo não atacado por meio de Recurso Extraordinário enseja aplicação do óbice contido na Súmula 126/STJ". (AgInt no AREsp 1.581.363/RN, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.684.690/SP, Relator Ministro Herman Benjamin, Primeira Seção, DJ e de 16/4/2019; AgRg no REsp 1.850.902/MT, Relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 29/6/2020; REsp 1.644.269/RS, Relator Ministro Og Fernandes, Segunda Turma, Dje de 7/8/2020; AgRg no REsp 1.855.895/SC, Relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; AgInt no AREsp 1.567.236/SC, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 4/6/2020; AgInt no AREsp 1.627.369/PE, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/6/2020.
+Ademais, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demandar reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, Relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, Relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Nesse sentido, não trazendo as partes recorrentes fundamentos capazes de infirmar a decisão agravada, deve ela prevalecer.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
