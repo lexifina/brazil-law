@@ -1,0 +1,67 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente feito, pode-se inferir que FUNDAÇÃO BANCO CENTRAL DE PREVIDÊNCIA PRIVADA - CENTRUS (CENTRUS) promoveu execução contra PATRÍCIA MONTEIRO DA SILVA ROLLO (PATRÍCIA) e seu ex-marido, visando a devolução de ações, bem como o recebimento dos valores pagos por estas, além de correção monetária, juros e penalidades decorrentes do contrato de compra e venda de ações da Casa Anglo Brasileira.
+PATRÍCIA explicou que ela assinou o instrumento de compra e venda das ações, juntamente com seu ex-marido, mediante procuração, tendo, por tal motivo, sido incluída no polo passivo da execução. Alegou que foram penhorados vários imóveis deles, que garantem em muito o valor da dívida executada. Sustentou que ela foi intimada da penhora dos bens mediante edital, tendo ocorrido àrevelia, sem a nomeação de defensor público.
+Aduziu que, ato contínuo, foi realizada a penhora de valores relativos a sua herança nos autos do processo em trâmite na 7ª Vara de Família da Comarca de São Paulo, e, novamente, ela não foi intimada acerca dessa penhora.
+Afirmou quefoi determinado, mediante despacho, sua intimação pessoal sobre a penhora para impugnação. Nesse sentido, seu advogado apresentou impugnação e requereu a anulação de todos os atos, já que ela não foi citada e não foi nomeado defensor público para defendê-la. Além disso, foi requerida a declaração de sua ilegitimidade passiva para o feito, a incorreção da penhora e o reconhecimento do excesso de execução.
+Em primeira instância, a impugnação apresentada por PATRÍCIA foi rejeitada.
+Dessa decisão, PATRÍCIA interpôs agravo de instrumento, sustentando que foi prejudicada, uma vez que sua citação e as diversas intimações foram efetuadas pela maneira mais deficitária que existe, qual seja, o edital. Alegou que todos os atos praticados devem ser declarados nulos.
+O agravo de instrumento teve seu seguimento negado, por decisão monocrática, segundo os arts. 522, caput, 525, § 2º, 527, I, e 557, caput, todos do CPC/1973.
+O agravo regimental interposto por PATRÍCIA não foi provido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, nos termos do acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL - AGRAVO REGIMENTAL - DECISÃO QUE NEGA SEGUIMENTO A AGRAVO DE INSTRUMENTO - INTEMPESTIVIDADE - PROTOCOLO NA VARA E NÃO NO TRIBUNAL - ARTIGO 525, §2º DO CÓDIGO DE PROCESSO CIVIL- RECURSO MANIFESTAMENTE INADMISSÍVEL- ARTS. 527, I E 557, CAPUT, AMBOS DO CPC, C/C ART. 66, IX DO RITJDFT - DECISÃO MANTIDA.
+1- O artigo 525, § 2º do Código de Processo Civil preceitua expressamente que, nos agravos de instrumento, "a petição será protocolada no tribunal". Assim, embora interposto tempestivamente na Vara de origem, o agravo de instrumento somente foi protocolizado neste Tribunal após esgotado oprazo recursal, o que implica na sua intempestividade.
+2 - Segundo o art. 557, caput do CPC, o relator negará seguimento a recurso manifestamente inadmissível.
+3 - Não se vislumbrando fundamento para modificar a decisão agravada, não trazendo as razões do agravo regimental fatos capazes de infirmar a justificativa pela qual se negou seguimento a agravo de instrumento por decisão monocrática prevista no art. 557 do CPC, o não provimento do recurso é medida que se impõe.
+4 - Agravo regimental conhecido e não provido (e-STJ, fls. 1.149/1.150).
+Os embargos de declaração opostos por PATRÍCIA foram acolhidos para sanar omissões, sem a atribuição de efeitos infringentes (e-STJ, fls. 1.449/1.459).
+Inconformada, PATRÍCIA manejou recurso especial, com amparo no art. 105, III, alínea c, da CF, apontando divergência jurisprudencial. Sustentou que (1) seu agravo de instrumento foi interposto de forma tempestiva; (2) o agravo de instrumento foi interposto tempestivamente na primeira instância e somente foi endereçado ao Tribunal de Justiça no dia seguinte, e, por isso, foi considerado intempestivo; (3) ocorreu mero erro material; (4) o agravo de instrumento foi distribuído dentro do prazo estabelecido pelo art. 522 do CPC/1973; e(5) a tempestividade é erro sanável.
+Contrarrazões (e-STJ, fls. 1.522/1.524).
+O apelo nobre interposto por PATRÍCIA não foi admitido em virtude do seguinte (1) incidência da Súmula nº 284 do STF (ausência de indicação do dispositivo objeto da divergência); e(2) deficiência do cotejo analítico (aplicação da Súmula nº 284 do STF).
+Seguiu-se o agravo em recurso especial interposto por PATRÍCIA, oportunidade em que foram rebatidos os óbices apontados, tendo ela reiterado os termos do seu recurso.
+Contraminuta (e-STJ, fls. 1.573/1.575).
+Em decisão monocrática da relatoria do Ministro Presidente do STJ, o agravo em recurso especial não foi conhecido, com amparo nos arts. 21-E, V, e 253, parágrafo único, I, do RISTJ, porque não foram atacados especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Nas razões do presente agravo interno, PATRÍCIA alegou que (1) seu agravo de instrumento foi protocolizado no cartório de primeira instância, dentro do prazo do recurso; (2) se trata de erro sanável; (3) houve apenas o protocolo em lugar distinto para o qual foi endereçado, tendo o erro sido sanado assim que verificado; (4) o recurso foi endereçado ao Tribunal competente e distribuído dentro do prazo estabelecido pelo art. 522 do CPC/1973; e(5) foi comprovada a divergência jurisprudencial.
+Houve impugnação ao recurso (e-STJ, fls. 1.604/1.608).
+É o relatório.
+DECIDO.
+Reconsideração dodecisum
+De fato, nas razões do agravo em recurso especial, PATRÍCIA rebateu a incidência daSúmulanº 284 do STF (ausência de indicação do dispositivo objeto da divergênciae deficiência do cotejo analítico), tendo reiteradoos termos do seu recurso.
+Dessa forma, reconsidero a decisão agravada e passo à análise do recurso especial interposto por PATRÍCIA.
+Em seu recurso especial, PATRÍCIAapontoudivergência jurisprudencial, nos termos expostos.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da alegada divergência jurisprudencial.
+PATRÍCIA manejouapelo nobre, apontado dissídio jurisprudencial. Sustentou queo recurso foi endereçado ao Tribunal competente e distribuído dentro do prazo estabelecido pelo art. 522 do CPC/1973.
+Dessa forma, o conhecimento do recurso especial interposto com fundamento na alíneacdo permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação clara e precisa dos dispositivos de lei federal supostamente violados ou objeto de interpretação divergente. Ausentes tais requisitos, incide o óbice da Súmula nº 284 do STF:É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Na hipótese, PATRÍCIAlimitou-se a apontar divergência jurisprudencial, sem indicar, de forma clara e precisa, os dispositivos de lei federal supostamente violados, uma vez que apenas mencionou, nas razões do seu recurso, que seu agravo de instrumento teria sido interposto no prazo estabelecido pelo art. 522 do CPC/1973.
+É relevante ressaltar que a mera citação de dispositivos de lei federal no bojo do recurso não é suficiente para afastar a aplicação da Súmula nº 284 do STF.
+Sobre o tema, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO QUANTO À ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL. OCORRÊNCIA. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NA ALÍNEA "C" DO ART. 105, III, DA CONSTITUIÇÃO FEDERAL. FALTA DE PARTICULARIZAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. INCIDÊNCIA DA SÚMULA 284 DO STF.
+1. A jurisprudência consolidada deste Superior Tribunal de Justiça determina que, na interposição do recurso especial pelo art. 105, III, alínea "c", da Constituição Federal, é preciso particularizar o dispositivo de lei federal violado para a análise da divergência jurisprudencial entre os acórdãos recorrido e paradigma. A falta desse pressuposto enseja deficiência na fundamentação e inviabiliza o conhecimento do recurso, ante a incidência, por analogia, da Súmula 284 do STF.
+2. Embargos de declaração acolhidos, sem alteração no resultado do julgamento.
+(EDcl no AgInt no AREsp 1.407.488/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 17/12/2019, DJe 19/12/2019 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 489 DO CPC/2015. RECURSO ESPECIAL. ALÍNEA "C". INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE DEMONSTRAÇÃO. SÚMULA Nº 284/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em violação do art. 489 do CPC/2015, visto a decisão estar clara e suficientemente fundamentada, solucionando integralmente a controvérsia.
+3. O recurso especial fundamentado no dissídio jurisprudencial exige, em qualquer caso, que tenham os acórdãos - recorrido e paradigma - examinado o tema sob o enfoque do mesmo dispositivo de lei federal. Se nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.384.311/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 29/4/2019, DJe 6/5/2019 - sem destaque no original)
+Por derradeiro, da análise do recurso interposto, é possível verificar que PATRÍCIAnão cumpriu a tarefa no tocante ao dissídio interpretativo viabilizador do recurso especial, que não foi demonstrado nos termos exigidos pela legislação e pelas normas regimentais.
+Isso porque, além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, demonstrando-se a identidade das situações fáticas e a interpretação diversa dada ao mesmo dispositivo legal, o que não ocorreu.
+Portanto, não foram preenchidos os requisitos dos arts. 1.029, § 1º, do NCPC, e 255 do RISTJ, o que inviabiliza o exame de dissídio interpretativo.
+A propósito, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONSÓRCIO. FUNDAMENTAÇÃO DEFICIENTE. DISPOSITIVO LEGAL. VIOLAÇÃO. AUSÊNCIA DE INDICAÇÃO. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF. DANO MORAL. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VALOR ARBITRADO. REEXAME. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO.
+ ..
+6. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 1.029, § 1º, do Código de Processo Civil de 2015 e do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.157.779/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 10/6/2019, DJe 14/6/2019 - semdestaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIAC/C PEDIDO DE INDENIZAÇÃO POR DANO MORAL. DANOS MORAIS. PEDIDO DE ALTERAÇÃO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+2. A análise da divergência jurisprudencial atinente a danos morais mostra-se incabível, porquanto, no aspecto subjetivo, os acórdãos serão sempre distintos.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.430.868/SC, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 20/5/2019, DJe 22/5/2019)
+Nessas condições, dou provimento ao agravo interno paraCONHECERdo agravo, masNÃO CONHECERdo recurso especial.
+Não obstante a aplicabilidade do NCPC, deixo de apreciar tema referente a majoração dos honorários advocatícios, uma vez que foi apreciado agravo de instrumento.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º,ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. EXECUÇÃO.FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI VIOLADO. APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
