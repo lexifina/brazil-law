@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de petição apresentada por FUNDAÇÃO HOSPITALAR DE SAÚDE, fls. 212/235, em que a parte alega:
+Muito embora a decisão que inadmitiu o Ag. Resp. Informe que a agravante foi regularmente intimada para sanar o referido vício e quedou-se inerte, verifica-se nos autos que não houve a devida intimação para regularização do feito. Explico:
+A informação quanto a disponibilização de intimação não consta na resenha processual desde ato, tanto que, apenas, se verifica a disponibilização no diário de justiça com relação ao despacho da decisão publica em 10.11.2021 às 05:02.
+ ..
+Logo, antes de apreciar a admissibilidade do recurso, deveria ter havido a necessária intimação da parte para suprimento do ato/vicío, conforme dispõe o art. 13 do Código de Processo Civil".
+Assim ao decidir pelo não reconhecimento do Ag. resp., data vênia, o v. decisum, cometeu uma ilegalidade, vulnerando não só o art. 13 do CPC, como também o art. 5º LIV da Carta Política eis que, induvidosamente, cerceou a defesa da agravante e desobedeceu ao devido processo legal.
+Por fim, tendo em vista o r. decisão de fls. que declarou pelo não conhecimento do Ag. interposto pela Agravante, por ausente o instrumento de mandato da advogada signatária do referido recurso, requer se digne autorizar a juntada do instrumento de mandato em anexo, que regulariza a representação em juízo da agravante no referido Agravo em Recurso Especial (fls. 212/213).
+Requer a admissão do recurso especial.
+É, no essencial, o relatório. Decido.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do agravo e do recurso especial, Dra. Larissa Andrade Almeida Pimentel .
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo codex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76, c/c o art. 932, parágrafo único, ambos do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que se quedou inerte.
+Ademais, ao contrário do alegado pela parte, em consulta ao Diário de Justiça Eletrônico (https://ww2.stj.jus.br/processo/dj/init), meio oficial pelo qual esta Corte veicula seus atos judiciais, verificou-se que não houve qualquer irregularidade na publicação.
+Constou da referida edição do DJe, n. 3252, disponibilizada em 14/10/2021 e publicada em 15/10/2021, todas as informações necessárias para conferir publicidade à intimação das partes e advogados, nos exatos termos da Lei n. 11.419/2006, entre elas, o número do processo, o nome das partes e de seus representantes.
+No caso, constou ainda da publicação o título "Autos com vistas aos recorrentes". Ficou consignado que "Os processos abaixo relacionados encontram-se com vista ao recorrente para manifestação acerca da "Certidão para Saneamento de Óbices" constante dos autos". A relação de processos publicados veio logo abaixo, incluindo este AREsp n. 1983008. Assim, bastaria a parte acessar os autos eletronicamente, visualizar o inteiro teor da certidão, e cumprir a determinação de regularização do vício.
+Somente agora, a parte trouxe os instrumentos de mandato com o fim de regularizar a representação, no entanto, não podem ser aceitos, em razão da preclusão. (AgInt no AREsp 1520555/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no REsp 1788526/TO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; e AgInt no REsp 1830797/SE, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 18/3/2020.)
+Portanto, correta a decisão que não conheceu do agravo em recurso especial.
+Assim, indefiro o pedido da parte.
+Registre-se que o pedido não tem o condão de interromper ou suspender o prazo para apresentação do recurso cabível. Assim, certifique-se o trânsito em julgado e, após, sejam os autos baixados à origem para as providências cabíveis.
+Publique-se. Intimem-se.
