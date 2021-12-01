@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por AMAURI CÉSAR DE OLIVEIRA JÚNIOR em face de acórdão assim ementado (fl. 395):
+INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. Pedido de arbitramento de honorários advocatícios sucumbenciais. Indeferimento. Precedentes do STJ e desta Corte. Decisão mantida.
+Recurso não provido.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 417/421).
+Nas razões do especial, a parte ora agravante alega ofensa ao art. 85, §2º, do Código de Processo Civil/2015, bem como dissídio jurisprudencial, afirmando que "devida a fixação de honorários sucumbenciais em incidentes de desconsideração da personalidade jurídica, tendo em vista o princípio da causalidade e da sucumbência" (fl. 431).
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+O Tribunal de origem, ao julgar o agravo de instrumento, concluiu pelo não cabimento de honorários advocatícios sucumbenciais, assim se pronunciando (fls. 396/398):
+Como se sabe, o incidente de desconsideração da personalidade jurídica previsto nos artigos 133 e seguintes do Código de Processo Civil, inovação legislativa de 2015, é forma de intervenção de terceiro "pela qual há a introdução de uma nova "demanda" (ou "ação"), embora incidental, no processo" (Cassio Scarpinella Bueno, "in" Cassio Scarpinella Bueno  coord. , "Comentários ao código de processo civil", vol. 1, São Paulo, Saraiva, 2017, p. 579). Vale dizer, não se trata de simples incidente processual, mas de verdadeira demanda incidental.
+Assim sendo, a meu ver, seriam cabíveis honorários advocatícios sucumbenciais em incidente de desconsideração da personalidade jurídica, da mesma forma que são cabíveis honorários advocatícios sucumbenciais nas demandas judiciais em geral.
+(..)
+Ocorre que, bem ou mal, mal ou bem, as Turmas componentes da 2ª Seção do Superior Tribunal de Justiça, em precedentes recentes envolvendo exatamente essa questão, pacificaram o entendimento de que "conforme entendimento da Corte Especial do STJ, em razão da ausência de previsão normativa, não é cabível a condenação em honorários advocatícios em incidente processual, ressalvados os casos excepcionais" (STJ, AgInt-REsp n. 1.834.210-SP, 4ª Turma, j. 12-11-2019, rel. Min. Raul Araújo).
+(..)
+Assim sendo e levando em consideração que o atual sistema processual é pautado por uma política de valorização dos precedentes, chegando-se a impor que "os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente" (artigo 926 do Código de Processo Civil) e ressaltando-se, na exposição de motivos do anteprojeto, que "a jurisprudência do Supremo Tribunal Federal e dos tribunais superiores deve nortear as decisões de todos os tribunais e juízos singulares do país, de modo a concretizar plenamente os princípios da legalidade e da isonomia", curvo-me a essa orientação.
+A conclusão acima reproduzida está em perfeita harmonia com a jurisprudência adotada neste Superior Tribunal de Justiça. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PROCESSUAL CIVIL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. IMPOSSIBILIDADE. AUSÊNCIA DE HIPÓTESE LEGAL. EXCEPCIONALIDADE NÃO EVIDENCIADA. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre. Novo exame do feito.
+2. "Conforme entendimento da Corte Especial do STJ, em razão da ausência de previsão normativa, não é cabível a condenação em honorários advocatícios em incidente processual, ressalvados os casos excepcionais" (AgInt no REsp 1.834.210/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 12/11/2019, DJe de 6/12/2019).
+3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ, que incide pelas alíneas a e c do permissivo constitucional.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial. (AgInt no AREsp 1691479/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 22.3.2021)
+Incidente, no ponto, o óbice da Súmula 83/STJ, aplicável ao recurso especial interposto com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo.
+Intimem-se.
