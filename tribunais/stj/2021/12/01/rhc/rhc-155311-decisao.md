@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto por WALLACE MIRANDA DA SILVA, em face do v. acórdão proferido peloeg.Tribunal de Justiça do Estado do Rio de Janeiro.
+Depreende-se dos autos pronúncia do recorrente pela suposta prática do crime de homicídio qualificado, negado-lhe o direito de recorrer em liberdade.
+A defesa impetrouhabeas corpusperante o eg. Tribunala quo,visando a liberdade do recorrente. O pedido foi denegado em v. acórdão assim ementado:
+"HABEAS CORPUS. HOMICÍDIO QUALIFICADO (ARTIGO 121, § 2º, I E IV DO CÓDIGO PENAL). ALEGAÇÃO DEFENSIVA DE CONSTRANGIMENTO ILEGAL CONSUBSTANCIADO NA AUSÊNCIA DOS REQUISITOS LEGAIS PARA DECRETAÇÃO DA PRISÃO.RECURSO EM SENTIDO ESTRITO ANTERIOR QUE JÁ APRECIOU E VALIDOU OS FUNDAMENTOS DA PRISÃO. AUSÊNCIA DE ILEGALIDADE. CONSIDERAÇÕES ACERCA DO MERITUM CAUSAE E DOSIMETRIA PUNITIVA QUE SÃO INCABÍVEIS NESTA SEDE. PRISÃO QUE SE ENCONTRA SUFICIENTEMENTE FUNDAMENTADA.PRESENÇA DE FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS.RECONHECIMENTO FOTOGRÁFICO QUE FOI VALIDADO EM SEDE JUDICIAL. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+ORDEM CONHECIDA E DENEGADA"(fl. 56).
+Daí o presenterecurso, no qual o recorrente repisa os argumentos lançados nowritoriginário,reafirmando inobservância dos procedimentos do art. 226 do CPP para reconhecimento pessoal, bem como omissão quanto ao cabimento das medidas cautelares diversas da prisão.
+Requer, ao final, a concessão da ordem para a revogação da prisão preventiva, e, subsidiariamente, a substituição por medidas cautelares diversas previstas no art. 319 do CPP.
+O Ministério Público Federal manifestou-se, às fls. 645-658, pelo não provimento do recurso, em parecer ementado nos seguintes termos:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE HOMICÍDIO QUALIFICADO (ART. 121, §2º, I e IV DO CP). NULIDADE DO RECONHECIMENTO FOTOGRÁFICO. DISTINÇÃO RELEVANTE COM O ACÓRDÃO DO HC 598.886/SC, QUE ALTEROU O ENTENDIMENTO SOBRE O VALOR DE TAL MEIO DE PROVA.INSTRUÇÃO CRIMINAL EM ANDAMENTO. JUÍZO MERITÓRIO AINDA NÃO FORMADO. ACÓRDÃO ATACADO ADEQUADAMENTE FUNDAMENTADO. PRISÃO PREVENTIVA. REQUISITOS DA SEGREGAÇÃO CAUTELAR PRESENTES. DECISÃO DEVIDAMENTE EMBASADA, CALCADA NOS ELEMENTOS CONSTANTES DOS AUTOS.INDÍCIOS DE AUTORIA E MATERIALIDADE DO FATO COMPROVADOS.GARANTIA DA ORDEM PÚBLICA CORRETAMENTE DEMONSTRADA.MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE.CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA NO CASO.PARECER PELO NÃO PROVIMENTO DO PRESENTE RECURSO EM HABEAS CORPUS"(fl. 645).
+É o relatório.
+Decido.
+No que se refere à aventada inobservãncia do disposto no art. 226 do CPP, verifica-se do v. acórdão ora combatido que a matéria ora suscitada não foi analisada pelo eg. Tribunal a quono viés em que delineada na irresignação. Assim sendo, fica impedida esta eg. Corte de apreciar a questão, sob pena de indevida supressão de instância.
+Nesse sentido é o entendimento das Turmas que compõem a 3ª Seção desta eg. Corte de Justiça, verbis:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO CONHECIMENTO DO WRIT. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PARA O SEMIABERTO. MANUTENÇÃO DO PACIENTE EM REGIME MAIS RIGOROSO. PLEITO DE REGIME ABERTO. AUSÊNCIA DE POSTULAÇÃO EM 1º GRAU. ILEGALIDADE INEXISTENTE. TEMA NÃO ENFRENTADO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+2. A questão referente à manutenção do paciente no regime mais gravoso do que aquele judicialmente determinado não foi apreciada pelas instâncias ordinárias, o que impede seu conhecimento por esta Corte, sob pena de indevida supressão de instância.
+3. Agravo regimental em recurso ordinário em habeas corpus improvido."
+(AgRg no RHC 48623/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 04/09/2014).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO-CABIMENTO. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL E DESTE SUPERIOR TRIBUNAL DE JUSTIÇA: MATÉRIA DE DIREITO ESTRITO. MODIFICAÇÃO DE ENTENDIMENTO DO STJ, EM CONSONÂNCIA COM O DO STF. RECEPTAÇÃO QUALIFICADA, ADULTERAÇÃO DE SINAL IDENTIFICADOR E FORMAÇÃO DE QUADRILHA. NÃO RECONHECIMENTO DO DIREITO DE APELAR EM LIBERDADE. INDICAÇÃO DE JUSTIFICATIVA CONCRETA PARA A MANUTENÇÃO DA PRISÃO PROCESSUAL. PACIENTE SEGREGADO DESDE O FLAGRANTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO, NO PONTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. MATÉRIA NÃO APRECIADA PELO JUÍZO DAS EXECUÇÕES. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE CONCESSÃO DA ORDEM DE OFÍCIO. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+ ..
+5. O pedido de progressão de regime não foi formulado perante o Juízo das Execuções, razão pela qual não pode ser conhecido originariamente por esta Corte, sob pena de indevida supressão de instância.
+6. Ausência de ilegalidade flagrante que permita concessão da ordem de ofício.
+7. Ordem de habeas corpus não conhecida".
+(HC 220.468/PE, Quinta Turma, Relª. MinªLaurita Vaz, DJe 17/04/2013).
+Igualmente acerca de cada uma das medidas cautelares do art. 319 do CPP, o eg. Tribunal de origem não se pronunciou, muito embora, destacadas que "as circunstâncias concretas do fato delituoso indicam o grau de periculosidade e de insensibilidade moral da parte suplicante e justificam a prisão cautelar (artigo 282, inciso II, do Código de Processo Penal), para o resguardo da ordem pública e para garantir a conveniência da instrução criminal e a aplicação da lei penal, nos termos autorizados pelo artigo 282, inciso II, do Código de Processo Penal" (fl. 60).
+Nesse aspecto,não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial, nos termos da fundamentação retro.
+P. e I.
