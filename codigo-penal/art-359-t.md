@@ -1,0 +1,1 @@
+Art. 359-T. Não constitui crime previsto neste Título a manifestação crítica aos poderes constitucionais nem a atividade jornalística ou a reivindicação de direitos e garantias constitucionais por meio de passeatas, de reuniões, de greves, de aglomerações ou de qualquer outra forma de manifestação política com propósitos sociais.
