@@ -1,0 +1,24 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULOinterpõe recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido peloTribunal de Justiça daquele estadonaApelação Criminal n. 0001046-69.2018.8.26.0559.
+Nas razões do recurso especial, o Parquet aponta violação do art. 33, § 4º, da Lei n. 11.343/2006, sob o argumento de que "a quantidade de drogas, no crime de tráfico, pode fundamentar a exasperação da pena-base e também o afastamento do redutor pela demonstração de dedicação às atividades criminosas, daí não se caracterizando "bis in idem"" (fl. 1.289).
+Requer o provimento do recurso, para que seja recrudescida a pena-base do tráfico.
+Decisão de admissibilidade àfl. 1.453.
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do recurso especial.
+Decido.
+Dado que o recurso especial preenche os pressupostos mínimos de admissibilidade, passo a analisá-lo.
+O Tribunal de origem, ao dar provimento à apelação defensiva, afastou o recrudescimento da pena-base por entender que o Juízo singular houvera operado em indevido bis in idem, in verbis(fls. 1.277-1.278, grifei):
+Quanto ao crime de tráfico de entorpecentes, não há possibilidade de a pena ser agravada pelo mesmo motivo, conquanto assim justificado pela sentença recorrida, tanto na primeira, quanto na terceira fase da graduação da pena. Assim, embora o envolvimento na associação já poderia constituir motivação, não foi esse o motivo adotado pela sentença recorrida.
+Ainda que exorbitante a quantidade de droga apreendida, não pode ser levada em conta tanto, no primeiro momento, para aumentar a pena, quanto na terceira fase, para impedir a incidência da causa especial de redução da pena.
+Para evitar afronta ao princípio constitucional da igualdade, há que ter em conta entendimento unânime do Superior Tribunal de Justiça, que alterou posicionamento anterior (STJ-HC 289.666-SP, j. 15.10.2015, relª. Min. Maria Thereza de AssisMoura), consignado que a utilização da quantidade de droga para exasperação da pena básica e para afastar a aplicação da causa especial de diminuição de pena, representa bis in idem.
+Assim sendo, mantém-se a pena básica, no mínimo legal, e, em face da expressiva quantidade de droga, afasta-se a incidência da causa especial de redução da pena.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06" (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+Por isso mesmo, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que o acusado não integre organização criminosa nem se dedique a atividades delituosas.
+No entanto, faço o registro de que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento doREsp n. 1.887.511/SP(Rel. MinistroJoão Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrerquando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+Dessa forma, uma vez que o Juízo de primeiro grau houvera utilizado omesmofundamento(quantidade de drogas apreendidas) para justificar tanto a exasperação da pena-base quanto a negativa de aplicação da minorante do § 4º do art. 33, o Tribunal estadual agiu com acerto ao reconhecer a ofensa ao princípio done bis in idem.
+Não há, portanto, reparação a ser feita.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. art. 34, XVIII, "b", parte final, do RISTJ, nego provimento ao recurso especial.
+Publique-se e intimem-se.
