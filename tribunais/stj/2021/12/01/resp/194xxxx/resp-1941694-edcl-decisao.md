@@ -1,0 +1,23 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por Emerson Assis Capp e outros contra decisão que determinou o retorno dos autos à origem, tendo em vista que a matéria se encontra afetada à Primeira Seção do Superior Tribunal de Justiça - Tema n. 1.017 -para julgamento pelo rito dos recursos especiais repetitivos.
+Os embargantes alegam que a decisão incorreu em erro material, por entender que a matéria tratada nos autos é distinta do tema apresentado nos Recursos Especiais n. 1.1783.975/RS e 1.177.848/RS.
+Apontam, ainda, que (e-STJ, fl. 1.281):
+No caso em questão, discute-se o termo inicial para o pagamento de parcelas decorrentes de revisão administrativa do ato de aposentação em vista do reconhecimento do direito à averbação, como especial, do tempo de serviço prestado sob condições insalubres.
+Por outro lado, o Tema nº 1.017/STJ versa sobre a seguinte tese:
+Definição sobre a configuração do ato de aposentadoria de servidor público como negativa expressa da pretensão de reconhecimento e cômputo, nos proventos, de direito não concedido enquanto o servidor estava em atividade, à luz do art. 1º do Decreto 20.910/1932 e da Súmula 85/STJ.
+Verifica-se, desse modo, que houve singelo equívoco no r. decisum monocrático, uma vez que a controvérsia destes autos alude ao período inicial para contagem prescricional relativo ao recebimento das diferenças decorrentes da alteração proporcional da aposentadoria dos Autores.
+Ou seja, aqui, o direito já foi reconhecido na esfera administrativa, de sorte que o benefício dos autores foi corrigido pela própria Administração Pública por meio das Portarias revisionais de caráter pessoal e concreto, de sorte que a ação judicial tem como único objetivo o recebimento das parcelas antecedentes decorrentes da revisão havida.
+Requerem, ao final, a correção do erro material para que o recurso especial seja apreciado nesta Corte.
+Impugnação aos embargos de declaração às e-STJ, fls. 1.290-1.292.
+É o relatório.
+Após o exame detido dos autos, constata-seque houve equívoco na indicação do tema afetado.
+No exame do recurso especial apresentado, verifica-se que os recorrentes alegam a existência de contrariedade ao art. 191 do Código Civil, defendendo, em suma, a renúncia da prescrição pela administração pública ao reconhecimento do direito à revisão dos proventos de aposentadoria.
+Igualmente, constata-seque essa questão jurídica encontra-se afetada neste Tribunal, a saber: Definição acerca da ocorrência, ou não, de renúncia tácita da prescrição, como prevista no art. 191 do Código Civil, quando a administração pública, no caso concreto, reconhece o direito pleiteado pelo interessado - constitui tema dos Recursos Especiais n. 1.925.192/RS, 1.925.193/RS e 1.928.910/RS, todos da relatoria do Ministro Sérgio Kukina, submetidos ao rito dos recursos repetitivos, nos termos do disposto nos arts. 1.036 e seguintes do CPC/2015 e na Resolução n. 8/STJ.
+Transcrevo, para tanto, a ementa da proposta de afetação de tema repetitivo:
+DIREITO ADMINISTRATIVO. PROPOSTA DE AFETAÇÃO DE TEMA REPETITIVO. CONTROVÉRSIA 285. SERVIDOR PÚBLICO. ATO REVISIONAL DE APOSENTADORIA. RECONHECIMENTO ADMINISTRATIVO DO DIREITO APÓS O TRANSCURSO DO PRAZO PRESCRICIONAL. RENÚNCIA. POSSIBILIDADE DE SUA OCORRÊNCIA.
+1. Delimitação da controvérsia: "Definição acerca da ocorrência, ou não, de renúncia tácita da prescrição, como prevista no art. 191 do Código Civil, quando a Administração Pública, no caso concreto, reconhece o direito pleiteado pelo interessado".
+Desse modo, a admissão de recurso especial, como representativo da controvérsia, impõe o sobrestamento dos recursos interpostos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamentonesta Corte,seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, acolho os embargos de declaração para correção da indicação do tema afetado edetermino, outrossim, a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação dos acórdãos representativos da controvérsia, o recurso especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior, nos termos do art. 1.040 do CPC/2015.
+Oficie-se ao Presidente do Tribunal de origem, caso ainda não o tenha sido, dando-lhe ciência do inteiro teor desta decisão, para que, em casos idênticos, seja adotado, naquela instância, o mesmo procedimento.
+Publique-se. Intimem-se.
