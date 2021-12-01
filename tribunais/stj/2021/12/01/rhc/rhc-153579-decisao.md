@@ -1,0 +1,17 @@
+DECISÃO
+MORGANA DOS SANTOS FRANCISCO alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça a quo.
+A recorrente foi autuada em flagrante, no dia 15/7/2021 e responde pela prática do crime previsto noart. 155, IV do CP, por 3 vezes, em continuidade delitiva. Foram apreendidos com ela e a outra corré,"01 camiseta azul, 01 jogo de carrinhos, 02 garrafas de wiskhy, 123 desodorantes Dove, 03 sabonetes líquido, 30 essências, 01 garrafa e 01 caneca térmica, embalagem de milho, molho de tomate, 01 pote de nutellae 02 relógios" (fls. 91-92). Nesta via, reputa não atendidos os requisitos da prisão preventiva e pede sua revogação ou substituição.
+O Ministério Público Federal opinou pelo não provimento do recurso ordinário.
+Decido.
+A prisão preventiva é compatível com a presunção de não culpabilidade desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+O Juiz indicou elementos concretos que denotam o risco de reiteração delitiva, o que justifica o acautelamento da ordem pública. A prática de furtos não é atoisolado na vida da paciente, que parece ter uma inclinação para reiterar atos análogos. Confira-se (fl. 93):
+Da análise da FAC da autuada Morgana, pode-se verificar que a mesma já possui 02 condenações pela prática do delito de furto, conforme se infere dos autos de n. 0009552-71.2016.8.16.0045 e 0023977-65.2017.8.16.0014, todos do mesmo modo. Ainda, possui um processo em trâmite pela prática do mesmo delito, conforme se infere dos autos de n. 0036442-72.2018.8.16.0014, na Comarca de Londrina. Evidencia-se, portanto, contexto bastante a justificar a decretação da custódia cautelar da autuada, sendo certo que a aplicação de medidas cautelares diversas da prisão mostrar-se-á ineficaz e infrutífera, pois já demonstrou que não consegue viver em liberdade sem cometer crimes contra o patrimônio alheio.
+A propósito: "inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar. Precedentes do STJ" (RHC n. 106.326/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 24/4/2019, destaquei).
+Todavia, em que pese a fundamentação concreta do periculum libertatis, em situação de delito praticado sem violência/grave ameaça e sem elementos acidentais graves,não parece ser imprescindível o uso da medida extrema, que deve ser ordenada em caráter excepcional, conforme disciplina expressamente o art. 282, § 6º, do Diploma Processual.
+A ré está segregada a algum tempo, o que esmaeceu o risco de reiteração delitiva. O registro mais recente de outro furto é de2018.Assim, emjuízo de proporcionalidade, em atenção à natureza e à gravidade dos fatos delitivos,considerosuficiente e adequada a substituição da medida extrema por outras providências do art. 319 do CPP.
+À vista do exposto, concedo o habeas corpus para substituir a prisão preventiva do paciente por:
+a) proibição de frequentar os estabelecimentos comerciais onde ocorreram os furtos;
+b) monitoração eletrônica e
+c) comparecimento em juízo, quando intimada para comparecer a atos de instrução.
+Não há prejuízo de fixação de outras medidas pelo Juiz natural da causa ou, ainda, de restabelecimento da prisão preventiva, se sobrevier situação que justifique sua necessidade.
+Publique-se e intimem-se.
