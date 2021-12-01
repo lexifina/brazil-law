@@ -1,0 +1,42 @@
+DECISÃO
+MARCONE CEZAR DE BARROS (MARCONE) ajuizou ação de obrigação de fazer em face de AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A (AMIL), alegando ser beneficiário de contrato de plano de saúde e ter tentado por diversas oportunidades a aprovação de uma cirurgia deredução de estômago, com negativa sem justificativa alguma.
+Foi deferida liminar para que, em até 5 dias, fosse autorizada a cirurgia.
+Em primeira instância, o pedido foi julgado procedentepara obrigar AMIL a autorizar a realização do procedimento cirúrgico indicado, bem como outros procedimentos que se fizerem necessários, decorrentes da mesma enfermidade. AMIL foi condenada aopagamento de indenização por dano moral arbitrada em R$ 10.000,00 (dez mil reais). Foi fixada multa diária no valor de R$ 2.000,00 (dois mil reais) até o limite máximo de R$ 100.000,00 (cem mil reais), para hipótese de descumprimento da obrigação de fazer. AMILfoi ainda condenada nasdespesas do processo e honorários advocatícios, arbitrados em 10% da condenação por danos morais.
+A apelação interposta por AMIL foi desprovidapelo Tribunal de Justiça do Rio Grande do Norte, assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃOCÍVEL. AÇÃO DE INDENIZAÇÃO C/C OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NÃO AUTORIZAÇÃO DE CIRURGIA BARIÁTRICA. EXPRESSA INDICAÇÃO DO MÉDICO ASSISTENTE. PACIENTE PORTADOR DE OBESIDADE MÓRBIDA EM GRAU III. NECESSIDADE DE COBERTURA DO PROCEDIMENTOINDISPENSÁVEL AO RESTABELECIMENTO DA SAÚDE DOAPELADO. PRESCRIÇÃO MÉDICA. RECUSA DA OPERADORA DEPLANO DE SAÚDE. ATO ILÍCITO CONFIGURADO. INDENIZAÇÃOPOR DANOS MORAIS DEVIDA. FIXAÇÃO EM MONTANTERAZOÁVEL. OBSERVÂNCIA AOS PRINCÍPIOS DARAZOABILIDADE E PROPORCIONALIDADE. MANUTENÇÃO DASENTENÇA VERGASTADA QUE SE IMPÕE. RECURSO CONHECIDOE DESPROVIDO(e-STJ, fl. 364).
+Inconformada, AMIL manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação dos arts. 10, §4º, da Lei nº 9.656/1998 e 186 do CC, sob os fundamentos de que(1) é legal haver limitações e restriçõesnos contratos privados de assistência à saúde para fins de manter seu equilíbrio econômico-financeiro, sendo válida a cláusula que exclui o procedimento pleiteado e (2) inexistindo descumprimento contratual, não há danos morais(e-STJ, fls. 449/461).
+Não foram apresentadas as contrarrazões.
+O apelo nobre não foi admitido em virtude de (1) existência de entendimento pacífico em relação ao tema, aplicando-se a Súmula nº 83 do STJ,(2) incidência da Súmula nº 7 do STJ e (3) aplicação da Súmula nº 284do STF porque ausente a indicação de dispositivo legal(e-STJ, fls. 478/481).
+Nas razões do presente agravo em recurso especial, AMIL afirmou que (1) não há entendimento pacífico na Corte em relação ao tema em debate,(2) não há necessidade de análise de provas e (3) fundamentou devidamente seu recuso(e-STJ, fls. 484/494).
+Não foi apresentada contraminuta.
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+CONHEÇO do agravo de AMIL e passo ao julgamento do recurso especial.
+(1)(2) Do plano de saúde
+AMIL sustenta que é legal haver limitações e restrições nos contratos privados de assistência à saúde para fins de manter seu equilíbrio econômico-financeiro, sendo válida a cláusula que exclui o procedimento pleiteado. Assim,inexistindo descumprimento contratual, não há danos morais.
+O tema foi assim analisado no acórdão:
+Dos documentos acostados pelo recorrente, verifico que este preenchia todos os requisitos para a realização do procedimento cirúrgico, na medida em que se submeteu a diversos exames médicos, por profissionais de várias áreas da saúde, todos eles tendo emitido pareceres favoráveis à realização do procedimento pretendido (id 4707238, fls. 02/05).
+Ademais, a obesidade interferia em suas atividades profissionais e do sendo portador de apnéia noturna e intolerância à glicose, conforme laudo anexado aos autos cotidiano,(id 4707238, fls. 02).
+Frise-se, por oportuno, que o procedimento médico/cirúrgico buscado pela apelada está compreendido na cobertura mínima ou básica da espécie de plano de saúde suplementar por aquela contratado, segundo a regulamentação da ANS.
+Nesse sentido, o Parecer Técnico n.º 13/2018 da Agência Nacional de Saúde Suplementar, determina:
+"(..) Cobertura obrigatória para pacientes com idade entre 18 e 65 anos, com falha no tratamento clínico realizado por, pelo menos, 2 anos e obesidade mórbida instalada há mais de cinco anos, quando preenchido pelo menos um dos critérios listados no Grupo I e nenhum dos critérios listados no Grupo II:
+a. Índice de Massa Corpórea (IMC) entre 35 Kg/m2 e 39,9 Kg/m2, com comorbidades (doenças agravadas pela obesidade e que melhoram quando a mesma é tratada de forma eficaz) que ameacem a vida (diabetes, ouapneia do sono, ou hipertensão arterial, ou dislipidemia, ou doença coronariana, ou osteoartrites, entre outras);
+b. IMC igual ou maior do que 40 Kg/m2, com ou sem comorbidades"
+Outrossim, destaque-se, em especial, o documento de ID 4707238, emitido pelo médico endocrinologista, atestando ser o autor portador de obesidade mórbida e, em razão disso, necessitar se submeter à intervenção cirúrgica(e-STJ,fls. 366/367).
+Assim, sequer era válida a cláusula de exclusão do procedimento cirúrgico, pois, conforme destacou o acórdão, ele faz parte do rol de procedimentos mínimos a serem cobertos pela operadora de plano de saúde.
+Desse modo, rever as conclusões quanto à existência de abuso da operadora do plano de saúde ao não autorizar procedimento cirúrgicodemandaria, necessariamente, reexame do contrato e doconjunto fático-probatório dos autos, o que é vedado em razão dos óbices das Súmulas nºs 5 e7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+NECESSIDADE DE ANÁLISE DO CONTRATO E DE PROVAS. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO CONSIGNAÇÃO EM PAGAMENTO. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. INCABÍVEL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULA Nº 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+6. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir as Súmulas nºs 5 e 7, ambas do STJ.
+7. Agravo interno não provido.
+(AgInt no AREsp 1693698/SP, de minha relatoria, TERCEIRA TURMA, julgado em 01/06/2021, DJe 07/06/2021)
+O recurso, portanto, não mereceser conhecido quanto ao ponto.
+Assim, reputada abusiva a recursa de cobertura do procedimento médico prescrito para o tratamento da doença que acometeu o  ..  beneficiário, recusa essa que, por causar o agravamento da situação de angústia e/ou a piora do seu estado de saúde, configura dano moral(AgInt no REsp 1961509/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/11/2021, DJe 25/11/2021).
+Nessas condições, CONHEÇOdo agravo para NÃOCONHECERdo recurso especial.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de MARCONE,limitados a 20%, nos termos do art. 85, § 11, do NCPC, devendo ser observada a concessão dos benefícios da justiça gratuita.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC.AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO. NEGATIVA. ROL MÍNIMO DA ANS.REANÁLISE DE CONTRATO E DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. OCORRÊNCIA DE DANO MORAL. AGRAVAMENTO DA ANGÚSTIA DO PACIENTE.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
