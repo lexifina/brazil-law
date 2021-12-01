@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial (CPC/2015, art. 1.029) interposto contra acórdão do TJSPassim ementado (e-STJ fls. 294/295):
+APELAÇÕES CÍVEIS. Compromisso de venda e compra de imóvel. Declarada a nulidade da Cláusula 5.4.1, com reconhecimento de mora da ré. Indenização por danos materiais fixados. Inconformismo das partes.
+RECURSO DA PROMITENTE VENDEDORA
+Mora. Termo inicial para entrega da obra fixado da data de celebração do contrato de financiamento. Abusividade. Em julgamento de Recurso Especial Repetitivo (1729593/SP, Tema 996), a Segunda Seção do Superior Tribunal de Justiça (STJ) fixou entendimento de que, "na aquisição de unidades autônomas em construção, o contrato deverá estabelecer, de forma clara, expressa e inteligível, o prazo certo para a entrega do imóvel, o qual não poderá estar vinculado à concessão do financiamento, ou a nenhum outro
+negócio jurídico, exceto o acréscimo do prazo de tolerância." Atraso na entrega bem reconhecido.
+Lucros cessantes. Cabimento. Tese 1.2 fixada no RecursoEspecial nº 1729593/SP (Tema 996), de que. "no caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma.". Indenização deve ser fixada em 0,5% sobre o valor atualizado do imóvel, por mês de atraso. Condenação mantida, valor de base readequado.
+Incidência da cláusula penal inversa. Impossibilidade de cumulação com os lucros cessantes. Tese fixada pelo A. STJ, em sede de recurso especial repetitivo, com caráter vinculante (Tema 970). Atendimento ao preceptivo do Art. 927, inciso III, do CPC. Condenação afastada.CUB. índice atrelado à variação dos preços dos materiais empregados na construção civil. Todavia, sua incidência somente pode atingir a data máxima prevista para entrega do imóvel, a partir da qual se aplica o índice contratualmente previsto ou, na sua ausência, o IGP-M. Eventuais altas nos insumos necessários à construção não podem mais ser repassadas ao comprador no período de inadimplemento da vendedora. Proteção constitucional do consumidor que se impõe. Restituição das diferenças dos índices empregados devida, com a incidência do CUB até o final do prazo de tolerância, e a aplicação do IGPM após tal fato.
+Devolução da evolução do saldo devedor. Preceptivo da Súmula nº 163 deste E. TJSP. O descumprimento do prazo de entrega do imóvel, embora não cesse a incidência de correção monetária sobre o saldo devedor, tem o condão de cessar os encargos contratuais. Condenação mantida.
+RECURSO DO PROMITENTE COMPRADOR
+Impugnação à gratuidade da justiça concedida à ré. Preenchimento dos requisitos legais. Exegese do artigo 99, §2º, do CPC. Benesse mantida.
+Dano moral. Não configuração. O puro e simples descumprimento de deveres contratuais não autoriza, per si, o reconhecimento de dano moral, resolvendo-se as situações e os eventos no âmbito exclusivamente patrimonial.Precedentes desta Colenda 6a. Câmara de Direito Privado. DESPROVIDO o recurso de apelação do autor e PARCIALMENTE PROVIDO o recurso de apelação interposto pela parte ré, para: (i) fixar a indenização por lucros cessantes no montante de 0,5% ao mês, sobre o valor atualizado do imóvel, por mês de atraso; (ii) afastar a condenação à multa contratual. Observa-se que, após o prazo previsto para conclusão da obra, incluído o prazo de tolerância de 180 dias, deve ser utilizado o índice previsto contratualmente ou, na sua ausência, o IGP-M.
+Nas razões do recurso especial (e-STJ fls. 315/323), fundamentadono art. 105, III, "a", da CF, o recorrente alega que, ante o atraso na entrega da obra pela construtora recorrida, a correção do saldo devedor não deveria ser realizada pelo IGP-M, por acarretar desequilíbrio nos cálculos do valor a ser pago.
+Afirma violação do art. 51 do CDC, visto queo contrato unilateral elaborado pela recorridacom referido índice de correção do saldo devedorconteria cláusula abusiva a seranulada em juízo,por ser prejudicial ao consumidor,ora recorrente.
+Foram ofertadas contrarrazões (e-STJ fls. 345/360).
+O recurso especial foi admitido na origem (e-STJ fls. 361/364).
+É o relatório.
+Decido.
+Em suas razões, o recorrente não indicou a legislação federal objeto de afronta pela Corte de origem ao defender quea correção do saldo devedor não deveria ser realizada pelo IGP-M, por acarretar desequilíbrio nos cálculos do valor a pagar (e-STJ fls. 316/321).
+Ausente citada providência, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF,como óbice ao recurso.
+A propósito: "No recurso interposto pela alínea "a" do permissivo constitucional é imprescindível a individualização do artigo de lei federal tido por violado, sem o que incide, por analogia, a Súmula 284 do STF" (AgInt no AREsp n. 623.110/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+Além disso, o art. 51 do CDC, apontado pelo recorrente para requerer a alteração do índice de correção do saldo devedor, por se tratar de cláusula abusiva, não possui alcance normativo, por si só, para amparar a referida tese, visto que nada dispõe sobre índices de correção contratual.
+Dessa forma, a fundamentação recursal mostra-se deficiente, atraindo a aplicação, por analogia, da Súmula n. 284/STF,como óbice ao recurso. A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR. EXCEÇÃO DE INCOMPETÊNCIA. 1. FORO DE ELEIÇÃO. COMPETÊNCIA FIRMADA PELO TRIBUNAL LOCAL COM BASE NA ANÁLISE DA EXORDIAL, NA TROCA DE CORRESPONDÊNCIA ELETRÔNICA ENTRE AS PARTES E NOS TERMOS DO CONTRATO. CONTROVÉRSIA DOS AUTOS QUE SE RELACIONA À LIQUIDAÇÃO DAS OBRIGAÇÕES DO DISTRATO. SÚMULAS 5 E 7 DO STJ. 2. INVOCAÇÃO DE VIOLAÇÃO DOS ARTS. 87 E 263 DO CPC/1973. AUSÊNCIA DE PERTINÊNCIA COM O OBJETO DA LIDE. SÚMULA 284 DO STF. 3. AGRAVO IMPROVIDO.
+(..)
+2. Os comandos normativos dos arts. 87 e 263 do CPC/1973 não guardam pertinência com o tema da controvérsia. Incide, portanto, a Súmula 284 do STF.
+3. Agravo improvido.
+(AgInt no AREsp n. 1.069.872/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. DESPESAS COM DEPÓSITO E ESTADIA DE VEÍCULOS. CONSTRIÇÃO JUDICIAL. DISPOSITIVO LEGAL QUE NÃO AMPARA A TESE SUSTENTADA PELA INSURGENTE. INCIDÊNCIA DA SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Alegação de incidência de dispositivos legais que não se referem à matéria tratada nos autos. A indicação de dispositivo legal que não ampara a pretensão recursal atrai a incidência da Súmula 284/STF.
+(..)
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 616.268/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/8/2015, DJe 17/8/2015.)
+Outrossim, acolher a tese do recorrente exigiria nova interpretação das cláusulas contratuaise do acervo probatório, providências vedadas em sede de recurso especial, a teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NÃO CONHEÇOdo recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
