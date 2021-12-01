@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo BANCO DO BRASIL S.A. quediscute a legitimidade passiva da instituição bancária gestora e da Uniãopara a ação de ressarcimento de danos decorrentes da administração devalores em conta vinculada ao Programa de Formação do Patrimônio doServidor Público - PASEP, e, consequentemente, a competência para ojulgamento da ação.
+É o relatório. Decido.
+Aquestãoobjeto do recurso especialestáabrangidapelasmatériasidentificadas pela Presidência da ComissãoGestora de Precedentes desta Corte como de passível afetação a julgamentocomo recurso repetitivo, nos termos da Constrovérsia 247:
+1. O Banco do Brasil possui, ou não, legitimidade passiva ad causam parafigurar no polo passivo de demanda na qual se discute eventual falha naprestação do serviço quanto a conta vinculada ao PASEP, saques indevidos edesfalques, além da ausência de aplicação dos rendimentos estabelecidaspelo Conselho Diretor do referido programa.
+2. A pretensão ao ressarcimento dos danos havidos em razão dos desfalquesem conta individual vinculada ao PASEP se submete ao prazo prescricionaldecenal previsto pelo artigo 205 do Código Civil ou ao prazo qüinqüenalestipulado pelo artigo 1º do Decreto nº 20.910/32.
+3. O termo inicial para a contagem do prazo prescricional é o dia em que otitular toma ciência dos desfalques ou a data do último depósito efetuado
+na conta individual vinculada ao PASEP.
+Por ocasião do exame da referida controvérsia para a afetação aojulgamento dos recursos repetitivos, o relator, Ministro Marco Buzzi,declinou da competência para a Primeira Seção, com fundamento no art. 9º,§ 1º, I, do RISTJ, apontando que suas Turmas integrantes têm decidido amatéria de natureza pública. " v.g. REsp 1929030/TO, Rel. Min. OgFernandes, DJe de 13/04/2021; REsp 1928712/SE, Rel. Min. Herman Benjamin,Dje de 13/04/2021; REsp 1928752/TO, Rel. Min. Regina Helena Costa, DJe de08/04/2021" (cf. REsp 1.895.936/TO, Min. MARCO BUZZI, DJe 11/5/2021).
+Com efeito, considerando que a responsabilidade pela prestação de serviçopúblico de gestão do aludido fundo público e/ou da reserva individualacumulada implica, no mínimo, o exame de normas de natureza administrativasobre as atribuições da entidade gestora/operadora, do conselho diretor eda União, determino sejam os autos encaminhados para redistribuição a um
+dos Ministros das Turmas integrantes da Primeira Seção, nos termos do art.9º, § 1º, I, e XIV, do RISTJ.
+Cumpra-se.
