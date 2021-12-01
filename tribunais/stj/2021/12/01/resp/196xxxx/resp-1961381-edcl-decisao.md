@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SERGIO LUIZ SOARES DE OLIVEIRA à decisão de fls. 1029/1030, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Como se extrai da douta decisão informa que a publicação do acórdão guerreado se deu em 18/03/2020, tendo o Recorrente SERGIO LUIZ interposto o Recurso Especial apenas em 22 de junho de 2021, ou seja, 1 (um) ano e 3 (três) meses após.
+Contudo, não procede o indicativo, pois não poderia o Vice- Presidente do Tribunal Regional Federal da 2ª Região ter decidido pela tempestividade, considerando o referido lapso temporal de mais de ano, e, consequentemente, admitido o Recurso Especial na origem.
+Ademais, conforme se depreende do andamento processual após a migração dos autos físicos para eletrônico, é cristalina a informação registrada, o que torna tempestivo o presente especial, senão vejamos:
+ ..
+Como se extrai da imagem acima, a data do início do prazo se deu em 08/06/2021 e teve seu termo final em 22/06/2021, logo ha erro material quanto ao entendimento da data de publicação de 18/03/2020, ou seja, mais de um (1) ano e três (3) meses antecedentes (fls. 1034/1035).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+Diante do alegado pelo embargante, foi solicitado esclarecimentos ao Tribunal de origem sobre a duplicidade das intimações referente ao acórdão da apelação (fl. 1042).
+Em resposta à solicitação, foi lavrada certidão, asseverando que "de fato a publicação do Acórdão (evento 76) ocorreu em 18/03/2020 no DJ-e de 17/03/2020, às páginas 242/243 (evento 112,OUT39, fl. 15), ao tempo em que os autos ainda tramitavam em meio físico, constando devidamente, na publicação, o nome do representante judicial de SERGIO LUIZ SOARES DE OLIVEIRA, ou seja, o Dr. Júlio Cesar do Monte (OAB/RJ 082200)" e ainda que "o Réu SÉRGIO LUIZ SOARES DE OLIVEIRA fora novamente intimado eletronicamente, do teor do referido Acórdão contido no evento 76, tendo como data final da contagem de prazo 14/06/2021, conforme se depreende das informações contidas no evento 126 do feito eletrônico" (fl. 1049).
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Veja-se que houve a disponibilização da decisão do acórdão recorrido em 17/3/2020, considerando-se publicada em 18/3/2020 (fl. 860). Excluindo-se o dia 18/3/2020 (primeiro dia), bem como o período de 19/3/2020 a 14/6/2020 (Resoluções do CNJ n. 313/2020 e 322/2020, Pandemia Coronavírus), inicia-se a contagem no dia 15/6/2020, finalizando o prazo no dia 29/6/2020.
+Dessa forma, o prazo recursal de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal, terminou no dia 29/6/2020, sendo que o recurso especial foi interposto somente em 22/6/2021, fora do prazo.
+Cumpre esclarecer que, conforme entendimento jurisprudencial desta Corte, havendo duplicidade de intimações, prevalece a primeira validamente efetuada.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO CONTRA ACÓRDÃO DA APELAÇÃO. INTEMPESTIVIDADE APONTADA PELA CORTE ESTADUAL. DUPLICIDADE DE INTIMAÇÕES. VALIDADE DA PRIMEIRA INTIMAÇÃO. CIÊNCIA INEQUÍVOCA DAS PARTES. TERMO INICIAL DO PRAZO. SÚMULA 83/STJ. SEGUNDA INTIMAÇÃO OCORRIDA APÓS O TRANSCURSO DO PRAZO LEGAL PARA A OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO.RESTABELECIMENTO DE PRAZO RECURSAL ESGOTADO. DESCABIMENTO. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é pacífica no sentido de que, havendo duplicidade de intimações válidas, deve ser considerada a primeira validamente efetuada. Precedentes. Incidência da Súmula 83/STJ.
+2. Hipótese em que, ademais, a segunda intimação, realizada em 31.3.2018, ocorreu apenas após o transcurso do prazo legal para a oposição de embargos de declaração, contado da primeira intimação, reconhecida como válida, realizada em 20.3.2018. Nesse contexto, o segundo ato processual não tem o condão de reabrir o prazo recursal já esgotado, salvo em caso de decisão expressa a respeito, o que não é o caso dos autos.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1839783/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 04/06/2020.)
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.INTEMPESTIVIDADE. DUPLA INTIMAÇÃO. CONTAGEM A PARTIR DA PRIMEIRA VÁLIDA. RECURSO NÃO PROVIDO.
+1. Conforme entendimento jurisprudencial desta Corte, havendo duplicidade de intimações, prevalece a primeira validamente efetuada. Precedentes.
+2. No caso dos autos, uma das partes recorrentes foi devidamente intimada do acórdão impugnado em 2/3/2018. Portanto, sendo válida essa intimação, a contagem do prazo recursal deve se iniciar desta data, inclusive porque todas as demais partes do processo estão representadas pelos mesmos advogados. Ou seja, os advogados tomaram ciência da decisão quando receberam a primeira intimação.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1768740/PE, relator Ministro Og Fernandes, Segunda Turma, Dje de 27/11/2019.)
+Portanto, ao contrário do alegado pela parte embargante, para efeitos de contagem do prazo recursal, indiferente a nova intimação.
+Observe-se, ainda, que "o juízo de admissibilidade do recurso especial é bifásico, assim, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar novamente o preenchimento dos pressupostos recursais". (EDcl no AgInt no REsp 1781795/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16/6/2020.)
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema, nos autos do processo, atestando a tempestividade do recurso, não impede o reexame desse requisito pelo STJ. Nesse sentido, o AgInt nos EDcl no AREsp 1544693/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 5/5/2020; e o AgInt no AREsp 1547898/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 12/3/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
