@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por CAIXA VIDA E PREVIDENCIA S.A, contra decisão monocrática de fls. 328-330, e-STJ, da lavra deste signatário, que não conheceu do recurso especial do ora agravante.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas ""a"" e "c" da Constituição Federal, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 499, e-STJ):
+SEGURO. A ÇÃO DE COBRANÇA. Negativa de cobertura. Circunstância de a vítima não possuir habilitação para conduzir veículo automotor que não acarretou perda da garantia. Agravamento do risco não evidenciado. Nexo de causalidade entre a morte da vítima e o acidente de trânsito devidamente comprovado. Indenização devida. Precedentes. Correção monetária que seria desde a contratação (Súmula632 do STJ). Fixação do termo inicial na data da comunicação do sinistro que não comporta alteração. Sentença mantida. Recurso desprovido.
+Opostos embargos de declaração, esses foram rejeitados (fls. 194-199,e-STJ).
+Nas razões de recuso especial (fls. 202-222, e-STJ), a recorrente aponta, além de dissídio jurisprudencial, ofensa aos arts. 757, 760 e 768, do CC, sustentando que a cobertura da morte acidental do segurado estaria prejudicada pela existência de cláusula contratual que exclui expressamente a morte acidental em decorrência de acidente automotor de condutor sem a devida habilitação.
+Em decisão monocrática, este relator não conheceu do reclamo ante a incidência daSúmula211 do STJ.
+No presente agravo interno (e-STJ, fls. 332-341), a parte agravante sustenta a inaplicabilidade doreferidoóbice.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, obrigatória a incidência da Súmula 211 do STJ.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Cinge-se a controvérsia recursal sobre a cobertura do seguro de vida por morte acidental no caso de o condutor (vítima) estar dirigindo sem a devida habilitação, sustenta a recorrente que se trata de risco expressamente excluído por clausula contratual.
+No particular, decidiu o Tribunal de piso (fls. 181-182, e-STJ):
+É incontroverso que, no momento do acidente, a vítima conduzia veículo automotor, embora não possuísse habilitação para tanto. Todavia, não há qualquer elemento indicativo de que tal circunstância que caracteriza mera irregularidade administrativa tenha concorrido para o acidente e, efetivamente, agravado o risc o coberto pelo. A apelante sequer juntou a documentação apresentada para regulação do sinistro.
+Como bem observou a respeitável sentença apelada ,no presente caso, não restou demonstrado nos autos que o acidente teria ocorrido por algum comportamento do autor capaz de agravar o risco contratado.
+Assim, caberia à seguradora o ônus de provar que a falta de habilitação seria a causa primordial para ocorrência do acidente.
+E essa prova não foi feita.
+A seguradora ré não produziu qualquer prova no sentido de que o acidente teve relação direta com a ausência de habilitação pelo segurado, pelo contrário, apenas limitou-se a apontar a condução sem habilitação como ato ilícito a agravar o risco, sem coligir aos autos indícios concretos de que houve relação direta entre a inabilitação e o sinistro registrado(fls. 141).
+Era de rigor, portanto, a cobertura do sinistro, com reconhecimento do direito das autoras ao recebimento da indenização do seguro.
+Com efeito, depreende-se do julgado que o Tribunal a quo, embora tenha afirmado que a vítima conduzia veículo automotor, sem possuir habilitação para tanto , não analisou a questão sob a ótica pretendida pelos insurgentes, qual seja, a de que se trata de risco expressamente excluído por cláusula contratual.
+Assim, a tese apresentada pelos agravantes não foi apreciada pelo Tribunal de piso, que se limitou a afirmar que seguradora ré não produziu qualquer prova no sentido de que o acidente teve relação direta com a ausência de habilitação pelo segurado e não restou demonstrado nos autos que o acidente teria ocorrido por algum comportamento do autor capaz de agravar o risco contratado. E, embora opostos embargos de declaração, os insurgentes não apontaram nas razões do apelo extremo, a existência de violação ao art. 1022 do NCPC, a fim de que esta Corte pudesse averiguar eventual omissão do acórdão.
+Portanto, em relação a referida tese, inafastável a incidência da Súmula 211 do STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se a correta interpretação da legislação federal. A propósito, citam-se os precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO DEMONSTRAÇÃO. SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO SUPERIOR TRIBUNAL DE JUSTIÇA.  ..  2. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ. 3. Agravo interno a que se nega provimento. (AgInt no AgRg no AREsp 787.839/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/04/2016, DJe 22/04/2016)  grifou-se
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73.  ..  AUSÊNCIA DE PREQUESTIONAMENTO. OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO, SEM MANIFESTAÇÃO DO TRIBUNAL A QUO. SÚMULA Nº 211 DO STJ. AUSÊNCIA DE ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.  ..  2. Esta Corte admite o prequestionamento implícito dos artigos tidos por violados, mas desde que a tese debatida no apelo nobre seja expressamente discutida no Tribunal de origem. 3. Ausência de alegação de violação do art. 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.  ..  5. Agravo regimental não provido. (AgRg no AREsp 748.582/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/05/2016, DJe 13/05/2016)  grifou-se
+Inafastável, portanto, o óbice da Súmula 211 do STJ.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
