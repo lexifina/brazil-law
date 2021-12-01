@@ -1,0 +1,47 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por ANDRÉ RAMALHO PROJETO RESIDENCIAL LTDA contra decisão do Tribunal de Justiça de São Paulo que não admitiu recurso especial manejado contra acórdão assim ementado:
+COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. Ação de nulidade de ato jurídico cumulada com restituição de valores. Distrato. Sentença de improcedência. Insurgência dos autores. Aplicabilidade do CDC ao caso. A legalidade das cláusulas do distrato pode ser verificada pelo Poder Judiciário. Desistência dos adquirentes. Ilegalidade de retenção de valores no percentual de 12% do valor total do contrato. Abusividade patente, por onerar em demasia os adquirentes. Autores que não chegaram a desembolsar 30% do valor do imóvel. Determinação de devolução aos autores do percentual de 80% do valor efetivamente pago, que se ajusta ao entendimento pacificado na jurisprudência, no sentido de que a retenção em favor do vendedor deve variarentre10%e 25%. Sentença reformada. RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram acolhidos nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. Alegação de omissão. Caso de dúvida acerca da atualização do valor a ser restituído, que deverá ser pela tabela prática do TJSP. Embargos acolhidos.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: art. 104, 110, 421 e 422 do Código Civil. Sustenta a validade do distrato do compromisso de compra e venda, mormente quanto à retenção de valores pagos. Alternativamente, pugna pela retenção de 25% do valor pago pelo imóvel.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+O recurso não merece provimento.
+A jurisprudência desta Corte entende que nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por iniciativa do comprador, é admitida a flutuação do percentual da retenção pelo vendedor entre 10% a 25% do total da quantia paga, conforme as circunstâncias de cada caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE COMPROMISSO DE COMPRA E VENDA DE IMÓVEL AJUIZADA PELOS PROMITENTES COMPRADORES. PERCENTUAL DE RETENÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Verifica-se que o Tribunal estadual entendeu que o desfazimento do contrato decorreu de culpa exclusiva dos promitentes compradores, sendo devida a retenção, pela promitente vendedora, de parte dos valores adimplidos.. Na ocasião, concluiu ser adequada ao caso a retenção do percentual de 10% (dez por cento) do montante já pago. Essa premissa foi fundada em matéria fático-probatória, o que atrai a aplicação da Súmula 7/STJ.
+2. Nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por iniciativa do comprador, é admitida a flutuação do percentual da retenção pelo vendedor entre 10% e 25% do total da quantia paga. Precedentes. Aplicação, no ponto, da Súmula 83/STJ.
+3. Agravo interno improvido.(AgInt no AREsp 1788690/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/05/2021, DJe 13/05/2021) g.n.
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE RESTITUIÇÃO DE QUANTIAS PAGAS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. ATRASO NA ENTREGA DE IMÓVEL. DISTRATO. INICIATIVA DO COMPRADOR. RETENÇÃO ENTRE 10% E 25% DAS PRESTAÇÕES PAGAS.
+1. Ação de rescisão contratual cumulada com pedido de restituição de quantias pagas.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por iniciativa do comprador, é admitida a flutuação do percentual da retenção pelo vendedor entre 10% a 25% do total da quantia paga. Precedentes.
+6. Agravo interno não provido.(AgInt no AREsp 1537311/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/11/2019, DJe 20/11/2019) g.n.
+Da mesma forma, esta Corte entende ser cabível a revisão do distrato do contrato de compra e venda quando há onerosidade excessiva ao consumidor, em nítida afronta ao Código de Defesa do Consumidor.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. CONTRATO DE PROMESSA DE COMPRA E VENDA. DISTRATO. RESCISÃO. PEDIDO DO COMPRADOR. RETENÇÃO. PERCENTUAL. CLÁUSULA. ABUSIVIDADE. DIVERGÊNCIA COMPROVADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça entende ser cabível a revisão de distrato de contrato de compra e venda de imóvel, ainda que consensual, em que, a despeito da quitação ampla, geral e irrevogável, exista cláusula de decaimento (abusiva), prevendo a perda total ou substancial das prestações pagas pelo consumidor, em nítida afronta ao Código de Defesa do Consumidor e aos princípios da boa-fé objetiva e do equilíbrio contratual.
+3. Nas hipóteses de rescisão do contrato de promessa de compra e venda por inadimplemento do comprador, a jurisprudência desta Corte admite a flutuação do percentual de retenção pelo vendedor entre 10% (dez por cento) e 25% (vinte e cinco por cento) do total da quantia paga.
+4. Agravo interno não provido.(AgInt nos EDcl no AgInt no AREsp 1701206/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/06/2021, DJe 17/06/2021) g.n.
+No caso, o Tribunal estadual, considerando a incidência do CDC no contrato pactuado, concluiu pela abusividade da cláusula do distrato que previa a retenção de 12% do preço total da venda do imóvel no caso de desistência dos compradores, fixando a retenção em 20% dos valores efetivamente pagos.
+Por oportuno, transcreve-se o seguinte trecho do acórdão recorrido:
+A despeito de se tratar de distrato, em que as partes aceitaram as condições impostas, e, respeitado o entendimento do MM. Juiz, admite-se a revisão de cláusulas supostamente abusivas e que causaram prejuízos aos consumidores, ainda que a rescisão tenha se dado por interesse destes.
+Isso porque, infere-se do contrato em questão, previsão de retenção de 12% do preço total da venda (fls. 79, item 33 "a"), o que se mostra excessivo e oneroso ao consumidor e tal cláusula por abusiva, deve ser declarada nula.
+Levando em consideração que a rescisão contratual se deu por desistência dos autores, deverá ocorrer a restituição parcial dos valores efetivamente pagos, segundo o disposto na Súmula 543 do Superior Tribunal de Justiça, segunda parte:
+"Na hipótese de resolução do contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao ajuizamento."
+Considerando ainda que o preço do imóvel era R$282.347,78 (duzentos e oitenta e dois mil, trezentos e quarenta e sete reais e setenta e oito centavos) e os valores desembolsados pelos autores, foi de R$75.146,16 (setenta e cinco mil, cento e quarenta e seis reais e dezesseis centavos), ou seja, não chegaram a atingir 30% do valor total do negócio, o percentual de retenção em favor da parte ré deve ser fixado em 20% dos valores efetivamente pagos, com a consequente restituição do equivalente a 80% do valor pago aos autores, por ser condizente para suprir eventuais gastos com rescisão levada a efeito bem como mostra-se adequada e suficiente à hipótese em comento.
+(..)
+Nessas condições, da quantia efetivamente paga pelos autores, deverá ser restituído o valor correspondente à 80%, com correção monetária desde o desembolso de cada parcela e juros de mora de 1% ao mês, a partir do trânsito em julgado, a ser verificado em liquidação de sentença. Deverão ser deduzidos os valores já efetivamente pagos pela parte ré quando do distrato.(e-STJ fls. 302/304)
+Destarte, o acórdão recorrido está em harmonia com a jurisprudência pacificada do STJ quanto ao tema, a justificar sua manutenção com fundamento na Súmula 568/STJ.
+Com fundamento no art. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 2%, totalizando 14% sobre o valor atualizado da condenação, observada a eventual e anterior concessão da gratuidade judiciária.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. DISTRATO. PERCENTUAL DE RETENÇÃO. CLÁUSULA ABUSIVA. ONEROSIDADE EXCESSIVA DO CONSUMIDOR. REVISÃO. POSSIBILIDADE. DETERMINAÇÃO DERESTITUIÇÃO DE 80% DO VALORPAGO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSOESPECIAL, COM MAJORAÇAO DE HONORÁRIOS.
