@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por VALDIRA LUIZ DE CARVALHOcontra a decisão que não conheceudoRecurso Especial, fundamentada na: i. incidência, por analogia, das Súmulas n. 283 e 284, do Supremo Tribunal Federal; e ii. aplicação da Súmula n. 07, do Superior Tribunal de Justiça.
+Sustenta a Agravante, em síntese(fls. 193/196e):
+Entretanto Excelências, com máximo respeito à decisão monocrática prolatada pela Ex. Ministra Relatora, inaplicável tal preceito no particular, de sorte que no item IV.3 do Recurso Especial, a Agravante apontou expressamente a impossibilidade de cobrança do imposto predial e territorial urbano, porquanto era, à época dos fatos, mera detentora do imóvel, sem animus domini, razão pela qual não se enquadraria no conceito de contribuinte.
+ ..
+E isso precisa ficar estreme de dúvidas. A discussão em testilha é unicamente de direito, sendo o ponto da questão a violação aos artigos 32 e 34, ambos do Código Tributário Nacional, porquanto se reconheceu que a Agravante se enquadra na hipótese de contribuinte do importo predial e territorial urbano, enquanto esta é mera detentora do imóvel decorrente do contrato de concessão de uso especial de moradia, não possuindo animus domini, o que afasta, portanto a incidência do imposto no caso em testilha.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 204e).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. IPTU. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. ANIMUS DOMINI DO IMÓVEL. POSSE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ.APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Revela-se deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+III - Rever o entendimento do tribunal de origem acerca do animus domini do imóvel em telademandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte.
+IV -Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V-Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão à Agravante.
+Quanto à questão relativa ao pagamento do IPTU, o tribunal de origem manifestou-se nos seguintes termos (fls. 40/43e):
+Colhe-se da certidão de dívida ativa que os créditos cobrados referem-se ao IPTU e a Taxa de Coleta de Lixo.
+Extrai-se da certidão de Registro de Imóveis que o lote de terreno urbano n. 91, referente ao imóvel objeto da controvérsia dos autos originários, era de propriedade da "Companhia Docas de Imbituba" (fl. 54).
+Também consta anotação datada de 12/12/1991, de que foi emitida certidão de habite-se pela Prefeitura Municipal de Imbituba em 18/01/1990 dando conta de que foi construída edificação residencial de madeira, a qual refere-se a casa da parte agravante.
+Naquela oportunidade também restou consignado no documento que houvera lavratura de termo de "transferência e incorporação", oficializando que o bem passou a ser de propriedade da União Federal.
+Posteriormente, em 03/01/2013, averbou-se "Declaração de Interesse do Serviço Público", de modo que o lote passou a fazer parte da "execução de projeto de regularização fundiária destinada a população de baixa renda".
+Ato contínuo, verifica-se que a União, por meio da SPU, celebrou contrato transferido-lhe a propriedade, "é feita a doação do imóvel antes descrito e caracterizado, a seu ocupante a Sra. Valdira Luiz de Carvalho" (fl. 57).
+Nesse sentido, a agravante sustenta que ocupava o imóvel por meio de concessão de uso para fins de moradia, e, na qualidade de ocupante de bem de propriedade da União, não deve pagar o IPTU, uma vez que incidiria a imunidade recíproca.
+ ..
+Essa espécie de utilização dos terrenos de marinha está prevista na legislação atinente aos bens imóveis da União (Decreto-lei n. 9.760/1946), cujas disposições também se aplicam aos ocupantes, tais como a agravante.
+Segundo o art. 127 da norma supracitada, "os atuais ocupantes de terrenos da União, sem título outorgado por esta, ficam obrigados ao pagamento anual da taxade ocupação".
+A cominação da taxa em apreço, todavia, não possui o condão de afastar a incidência de IPTU sobre o imóvel. Isso porque "A taxa de ocupação é o preço pago à Fazenda Pública pela utilização de bem que lhe pertence. Não possui natureza tributária (Lei n. 4.320/1964, art. 39, § 2º).
+Situa-se, eminentemente, no Direito Público. Apesar de intimamente ligada à realidade da coisa, a taxa de ocupação decorre de uma obrigação pessoal oriunda de relação jurídica entre o ocupante e a Administração Pública" (STJ. REsp n. 1.145.801, Rel. Ministro Humberto Martins, 2" Turma, D. J. 05/10/2010)
+Estipula o Código Tributário Nacional:
+"Art. 32. O imposto, de competência dos Municípios, sobre a propriedade predial e territorial urbana tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel por natureza ou por acessão física, como definido na lei civil, localizado na zona urbana do Município. "
+ ..
+"Art. 34. Contribuinte do imposto é o proprietário do imóvel, o titular do seu domínio útil ou o seu possuidor a qualquer título (grifou-se).
+Confere-se que, a responsabilidade pelo pagamento do IPTU pode ser tanto do proprietário/possuidor, quanto do titular do seu domínio útil, sendo que ambos se afiguram legítimos para compor o polo passivo da relação tributária da aludida exação.
+ ..
+Dessa forma, embora o uso do bem público em apreço constitua concessão especial de uso para fins de moradia, como defende a agravante, é devido o pagamento do respectivo tributo.
+ ..
+Portanto, considerando que a parte agravante era ocupante de terreno da União e possuidora/detentora do bem imóvel, deve ser reconhecida como contribuinte do IPTU, de modo que a decisão deve permanecer inalterada.
+(destaquei)
+Entretanto, as partes recorrentes deixaram de impugnar fundamento suficiente do acórdão recorrido, alegando, tão somente, que é mera detentora do uso do imóvel, que não é de sua propriedade, o que afasta a possibilidade de cobrança do IPTU.
+Desse modo, verifica-se que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CRÉDITOS RURAIS ORIGINÁRIOS DE OPERAÇÕES FINANCEIRAS CEDIDOS À UNIÃO. MEDIDA PROVISÓRIA N. 2.196-3/2001. DÍVIDA ATIVA DA UNIÃO. SÚMULA N. 83/STJ. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIADE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMLA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. FALTA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. MAJORAÇÃO DE HONORÁRIOS. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO CABIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.(..)VI - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+(..)
+IX - Agravo Interno improvido.
+(AgInt no REsp 1629094/RS, de minha relatoria, PRIMEIRA TURMA, julgado em 27/06/2017, DJe 03/08/2017).
+PROCESSUAL CIVIL. BENEFÍCIO ASSISTENCIAL DE PRESTAÇÃO CONTINUADA. VIOLAÇÃO AOS ARTS. 884 E 885 DO CÓDIGO CIVIL E AO ART. 154 DO DECRETO 3.048/1999. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PAGAMENTO INDEVIDO. BOA-FÉ COMPROVADA. ERRO DA ADMINISTRAÇÃO. VERBA DE CARÁTER ALIMENTAR. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. RESTITUIÇÃO DE VALORES. IMPOSSIBILIDADE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. REQUISITOS. ART. 203, V, DA CF/1988. LEI 8.742/93, ART. 20, § 3º. MISERABILIDADE AFERIDA POR OUTROS CRITÉRIOS QUE NÃO A LIMITAÇÃO DA RENDA PER CAPITA FAMILIAR. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Cuida-se, na origem, de ação ordinária em que a parte autora requereu o restabelecimento do benefício de amparo social, bem como a declaração de inexistência de débito perante a Previdência Social. A sentença julgou parcialmente procedente o pedido apenas para declarar a inexistência de débito do autor perante o INSS.
+(..)
+3. Nas razões do Recurso Especial, o INSS sustenta apenas a necessidade de restituição do benefício previdenciário indevidamente pago, sendo esta a interpretação dos arts. 115, II, parágrafo único, da Lei 8.213/1991 e 154, II, § 3º, do Decreto 3.048/1999. Todavia, no enfrentamento da matéria, o Tribunal de origem consignou que "o benefício foi requerido e recebido de boa-fé "e que "não pode agora a autarquia exigir a repetição dos respectivos valores, notadamente por terem caráter alimentar" (fl. 424, e-STJ).
+4. Sendo assim, como o fundamento não foi atacado pela parte recorrente e é apto, por si só, para manter o decisum combatido, permite-se aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+(..)
+11. Recursos Especiais não conhecidos.
+(REsp 1666580/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017).
+Outrossim, este Superior Tribunal de Justiça consolidou entendimento no sentido de que o IPTU tem como fato gerador a propriedade, o domínio útil ou aposse de bem imóvel, por natureza ou acessão física, localizado na zona urbana doMunicípio (REsp. 1.429.505/DF, Rel. Min. OG FERNANDES, Segunda Turma, DJe 18.10.2017).
+No entanto, rever o entendimento do Tribunal de origem, com o objetivo de acolher a pretensão recursal, para verificar se a Recorrente possuía, ou não, animus domini do imóvel em tela, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nessa esteira:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IPTU. O TRIBUNAL DE ORIGEM CONSIGNOU EXPRESSAMENTE A AUSÊNCIA DE PROPRIEDADE, POSSE OU DOMÍNIO ÚTIL SOBRE O IMÓVEL. EXAÇÃO NÃO DEVIDA. PREMISSA FÁTICA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DO MUNICÍPIO DE DIADEMA/SP DESPROVIDO.
+1. O IPTU tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel, por natureza ou acessão física, localizado na zona urbana do Município (REsp. 1.429.505/DF, Rel. Min. OG FERNANDES, DJe 18.10.2017). Em igual sentido: AgInt no REsp.1.716.142/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 12.2.2019.
+2. O Tribunal de origem consignou que no período de cobrança da exação a Empresa não era proprietária, possuidora ou detentora de domínio útil sobre o imóvel, razão pela qual se afastou a incidência de IPTU.
+3. Infirmar as premissas fáticas do aresto - ausência de propriedade, posse ou domínio útil - demanda reexame de fatos e provas, providência essa inviável em sede de recorribilidade extraordinária, ante o óbice da Súmula 7/STJ.
+4. Agravo Interno do MUNICÍPIO DE DIADEMA/SP desprovido.
+(AgInt no AREsp 1168587/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 13/05/2019, DJe 20/05/2019)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. IPTU. CONTRATO DE PROMESSA DE COMPRA E VENDA DO IMÓVEL. ILEGITIMIDADE PASSIVA. PREMISSA FÁTICA DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. O IPTU tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel, e o contribuinte do imposto é o proprietário do imóvel, o titular do seu domínio útil, ou o seu possuidor, a qualquer título. Precedente.
+2. O Tribunal de origem afirmou que foi efetuado o registro da transação em questão, além da transferência da posse, de modo que os argumentos utilizados para fundamentar a pretensão trazida no recurso especial somente poderiam ter sua procedência verificada mediante o reexame de matéria fática, o que é vedado ante o óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1716142/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/02/2019, DJe 12/02/2019)
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se de Agravo Regimental ou interno, interposto em 05/05/2016, contra decisão publicada em 13/04/2016.
+II. De acordo com o art. 546, I, do CPC/73, os Embargos de Divergência somente são admissíveis quando os acórdãos cotejados forem proferidos no mesmo grau de cognição, ou seja, ambos no juízo de admissibilidade ou no juízo de mérito, o que não ocorre, no caso. Incidência da Súmula 315/STJ.
+III. Nos termos da jurisprudência desta Corte, "se o acórdão embargado decidiu com base na Súmula 7 do Superior Tribunal de Justiça, falta aos embargos de divergência o pressuposto básico para a sua admissibilidade, é dizer, discrepância entre julgados a respeito da mesma questão jurídica. Se o acórdão embargado andou mal, qualificando como questão de fato uma questão de direito, o equívoco só poderia ser corrigido no âmbito de embargos de declaração pelo próprio órgão que julgou o recurso especial" (STJ, AgRg nos EREsp 1.439.639/RS, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF/1ª Região), PRIMEIRA SEÇÃO, DJe de 01/12/2015). Em igual sentido: STJ, AgRg nos EAREsp 556.927/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 18/11/2015; STJ, AgRg nos EREsp 1.430.103/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 15/12/2015; ERESP 737.331/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 09/11/2015.
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016 - destaque meu).
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno.
