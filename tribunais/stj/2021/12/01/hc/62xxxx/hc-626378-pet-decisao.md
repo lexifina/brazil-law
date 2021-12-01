@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de pedido de extensão formulado por MARCO JOSE SOUZA DE MELO, no qual requer que seja afastada a valoração negativa do vetor "circunstâncias do crime" na fixação da pena-base, nos moldes do reconhecido nos autos em relação ao paciente, fixando-lhe o regime prisional semiaberto para o início do desconto da reprimenda.
+É o relatório.
+Decido.
+Quanto às circunstancias, o fato do réu ter transportado o corpo da vítima em viatura policial, tendo-o abandonado em local distante do lugar do crime, configura a prática do delito do art. 347, parágrafo único, do CP, pelo qual o réu foi condenado, tendo, porém, sido reconhecida a prescrição da pretensão punitiva. Assim, deve ser afastada a valoração negativa do modus operandi do crime, por restar configurado indevido bis in idem. Quanto ao regime inicial de cumprimento de pena, a Corte de origem estabeleceu a pena-base acima do mínimo legal, por terem sido desfavoravelmente valoradas circunstâncias do art. 59 do Código Penal, o que permite a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu, a teor do disposto no art. 33, § 3º, do CP.
+Ante o exposto concedo a ordem, de ofício, a fim de afastar a valoração negativa das circunstâncias do crime na fixação da pena-base, determinando ao Juízo das Execuções que proceda à nova dosimetria da pena,m atenção ao art. 580 do Código de Processo Penal.
+Publique-se. Intimem-se.
