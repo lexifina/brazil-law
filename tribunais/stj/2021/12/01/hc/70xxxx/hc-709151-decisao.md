@@ -1,0 +1,26 @@
+DECISÃO
+ERTHOS WESLLEY PESSOA DA SILVAalega sofrer coação ilegal diante de decisão proferida pelo Desembargador relator do HC n. 2274234-03.2021.8.26.0000, que indeferiu o pedido liminar lá pleiteado.
+Nesta Corte, a defesa postula, liminarmente e no mérito (fl. 17):
+Seja reconhecida a NULIDADE da busca pessoal e da busca e apreensão domiciliar e de todos os elementos dela derivados, bem como o seu consequente desentranhamento dos autos, forte nos arts. 157, caput e § 1º, e 564, IV, todos do CPP, nos termos do art. 5º, X e XI, da CF, e dos arts. 240, § 1º, e 244, do mesmo diploma, com o consequente trancamento da presente ação penal. In casu, o procedimento é ilegal porque motivado puramente em informações nos meios policiais, que não constituem fundadas suspeitas para autorizá-lo, de acordo com o posicionamento majoritário dos C. Tribunais Superiores;
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores:
+ ..
+1. Não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de Habeas Corpus impetrado contra decisão proferida por relator que indefere o pedido de liminar em Habeas Corpus requerido a tribunal superior, sob pena de indevida supressão de instância (Súmula 691 do STF).
+2. Inexistência de teratologia ou caso excepcional que caracterizem flagrante constrangimento ilegal.
+3. Agravo regimental a que se nega provimento.
+(HC n. 179.896 AgR, Rel. Ministro Alexandre de Moraes, 1ª T., DJe 2/4/2020, grifei)
+ ..
+2. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF. Referido entendimento aplica-se na hipótese em que o writ de origem é conhecido como substitutivo de revisão criminal. Precedentes.
+3. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, pois a fundamentação adotada pelas instâncias ordinárias para fixar o regime inicial semiaberto está em harmonia com a jurisprudência da Suprema Corte e desta Corte Superior no sentido de que não há constrangimento ilegal na fixação de regime mais gravoso de cumprimento de pena caso a pena-base tenha sido fixada acima do mínimo legal por conta do reconhecimento de circunstâncias judiciais desfavoráveis dada a interpretação conjunta dos arts. 59 e 33, §§ 2º e 3.º, ambos do Código Penal. De fato, a imposição do regime prisional não está condicionada somente ao quantum da pena. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 548.761/PE, Rel. Ministra Laurita Vaz, 6ª T., DJe 4/2/2020)
+Na espécie, o Desembargador relator destacou circunstâncias que, a um primeiro olhar, autorizam a abordagem judicial. Confira-se (fls. 18-19, grifei):
+Consta dos autos que no dia 30 de setembro de 2021, policiais militares que faziam patrulhamento de rotina avistaram o Paciente, já conhecido nos meios policiais por envolvimento com o tráfico ilícito, conversando com outro indivíduo também conhecido nos meiospoliciais pela mesma conduta, e resolveram abordá-lo. O Paciente, percebendo a aproximação da polícia, tentou correr, mas foi detido e na revista pessoal foi localizada uma porção de "crack", pesando 0,2g e uma porção de "maconha", pesando 1,6g, além da importância de R$ 190,00.
+Rogério, indivíduo que acompanhava o Paciente, declarou que estava no local comprando droga do Paciente e que já comprou drogas dele anteriormente, inclusive que tinha conhecimento de que o Paciente armazenava droga na residência dele.
+Os policiais que atenderam a ocorrência disseram que após informação de Rogerio de que havia drogas na casa do Paciente, se dirigiram para o local e adentraram no imóvel utilizando a chave que estava com o Paciente.
+No local, os policiais localizaram 01 balança de precisão e 43 porções de "crack", pesando 7,3g e 08 porções e "maconha", pesando 13,0g.
+Tais elementos afastam, em juízo prelibatório, a plausibilidade do direito tido por violado. Assim, não identifico ilegalidade manifesta no ato, fazendo a ressalva de que não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada já a partir da decisão colegiada do tribunal competente.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
