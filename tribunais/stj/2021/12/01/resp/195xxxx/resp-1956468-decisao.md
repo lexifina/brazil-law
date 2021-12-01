@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão da Sétima Câmara de Direito Privado do TJSP.
+Na origem, a parte recorridaajuizou ação objetivando a cobertura de tratamento médico cirúrgico.
+Em primeira instância, os pedidos foram julgados procedentes (e-STJ fls. 203/208).
+A empresa de saúde interpôs apelação, tendo o Tribunal de origem negado provimento ao recurso em acórdão que ficou assim ementado (e-STJ fl. 262):
+Plano de saúde - Negativa de cobertura paraprocedimento cirúrgico fora da área de coberturaregional - Inadmissibilidade, no caso concreto,pois a ré não demonstrou a capacidade técnica doscooperados em realizar o procedimento com ométodo mais moderno e menos invasivo, sem aretirada de material da bacia do paciente paraenxerto - Cerceamento de defesa - Inocorrência,pois cabia a ré demonstrar a especializaçãodiferenciada de seus credenciados - Honoráriosadvocatícios - Afastamento da incidência dosjuros a partir da sentença, devendo incidir a partirdo trânsito em julgado - Recurso parcialmenteprovido.
+Em nova análise dos embargos de declaração, por determinação desta Corte Superior,o TJSPintegrou o acórdão anterior nos seguintes termos (e-STJ fl. 432):
+Devolução dos autos pelo Superior Tribunal deJustiça para sanar a omissão nos Embargos deDeclaração no que tange a apreciação doreembolso parcial à luz do artigo 12, inciso IV daLei nº 9.656/98 - Omissão existente - Víciosanado, sem modificação do julgado, pois oreembolso parcial deve ser aplicado em casos emque o associado opta, em caso de urgência eemergência, pela não utilização dos serviçospróprios e no caso dos autos a prestação deserviço especializado era inexistente, ou seja, nãoconstava como disponível na rede credenciada -Embargos de declaração parcialmente acolhidospara sanar a omissão, mantida a decisão doacórdão da apelação de fls. 261/265.
+Nas razões do recurso especial (e-STJ fls. 438/455), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa ao art. 12, VI,da Lei de Plano de Saúde, argumentando, em síntese, quenão estaria obrigada a custear, de maneira integral, atendimento realizado fora da sua rede credenciada.
+É o relatório.
+Decido.
+O Tribunal de origem reconheceu que era devida a cobertura postulada, pois não existia, na rede credenciada ao plano de saúde, profissionais aptos a realizar a cirurgia na coluna de que necessitava a parte autora, "com técnica especializada e menos invasiva à saúde do paciente, sem a retirada de material da bacia" (e-STJ fl. 434).
+Nesse contexto, entendeu ainda que a cobertura deveria ser integral, pois "o serviço não existia na rede credenciada, não estava disponível, de modo que não é possível contemplar a ré com o benefício da cobertura parcial" (e-STJ fl. 434).
+Portanto, constata-se que o acórdão baseou-se nos elementos fático-probatórios para reconhecer a procedência da pretensão da parte autora.
+Assim, é inviável alterar a conclusão do Tribunal de origem quanto ao tema, pois, para tanto, seria necessário reexaminar fatos e provas, providências vedadas a esta Corte, de acordo com as Súmulas n. 5 e 7 do STJ.
+Ademais, conforme decidido por esta Corte Superior, tratando-se de atendimento médico não prestado pela rede médica ofertada pelo convênio, "não há como se falar em aplicação da tabela da operadora do plano de saúde para atendimentos semelhantes, devendo o reembolso ser realizado de forma integral" (AgInt no AgInt nos EDcl no AREsp 1.704.048/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/8/2021, DJe 1º/9/2021).
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
