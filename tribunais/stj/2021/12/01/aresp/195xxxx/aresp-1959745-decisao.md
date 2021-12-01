@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por JOSÉ ALVES DE BRITO FILHO, contra decisão que não admitiu recurso especial (fls. 430/432 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 369, e-STJ):
+EMBARGOS À EXECUÇÃO. NOTA PROMISSÓRIA. ALEGAÇÃO DE AGIOTAGEM.
+1. Em execução fulcrada em nota promissória, o executado atravessou embargos deduzindo tese de agiotagem.
+2. Ocorre que não havia verossimilhança em suas alegações, impedindo a inversão do ônus da prova preconizada pela M. P. 1.820/99, que em seu art, 3º, reza que: "Nas ações que visem à declaração de nulidade de estipulações com amparo no disposto nesta Medida Provisória, incumbe ao credor ou beneficiário do negócio o ônus de provar a regularidade jurídica das correspondentes obrigações, sempre que demonstrada pelo prejudicado, ou pelas circunstâncias do caso, a verossimilhança da alegação".
+3. Prevaleceu, destarte, a autonomia e cartularidade ínsitas à nota promissória.
+4. E como não cabia inversão do ônus da prova, não vinga a tese de cerceamento de defesa. Recurso não provido, rejeitada a preliminar.
+Opostos embargos de declaração, foram rejeitados (fls. 418/421, e-STJ).
+Em suas razões de recurso especial, orecorrente, ora agravante, aponta ofensa aos artigos 319, 369, 373, 1022, 1025 do CPC/15, 1º e 3º da MP n. 2.173-32/01. Sustenta, em síntese: i) negativa de prestação jurisdicional, pois o Tribunal de origem não se manifestou sobre a ausência de impugnação por parte da recorrida dos fatos narrados; ii) cerceamento de defesa; e, por fim iii) não foi apresentado nenhum documento para comprovar o empréstimo, de forma que não há falar em título executivo extrajudicial; iv) a petição da ação de execução é inepta.
+Sem contrarrazões (fl. 429, e-STJ), o apelo não foi admitido na origem (fls. 430/432, e-STJ), dando ensejo ao agravo (fls. 435/452, e-STJ), visando destrancar o processamento daquela insurgência, no qual orecorrenterefuta os óbices aplicados pela Corte estadual.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1.Inicialmente, verifica-se que a apontada violação do art. 1022 do CPC/15 não se configura, haja vista o Tribunal estadual ter dirimido clara e integralmente a controvérsia acerca da higidez do título, porém em sentido contrário ao pretendido pelo agravante.
+É, aliás, o que se observa dos seguintes excertos do acórdão recorrido (fls. 370/371, e-STJ):
+"Ocorre que não basta a simples arguição ou a existência de meros indícios da prática de agiotagem para a inversão do ônus da prova, mas de subsídios que confiram verossimilhança ao afirmado; o que não ocorre à espécie. Note-se que as afirmações do embargante são vazias: ele menciona a existência de empréstimos (no plural), mas sequer informa os valores originários. Também não apresenta o menor indício das propaladas amortizações. E mais: ao final dos embargos, consigna que "para efeitos de cumprimento do art. 917, 3º, do CPC, caso seja excluída apenas a multa moratória pelos motivos acima expostos, o Embargante declara que entende correto o valor de R$ 200.000,00 (duzentos mil reis), válido para setembro de 2017" (fls. 8). Justamente o valor de faceda promissória. O extrato por ele apresentado, do mês da emissão da cambial, também não lhe favorece, na medida em que, na inicial dos embargos, aduz que a relação entre as partes não dataria da época do preenchimento do titulo, que teria sido sacado como garantia de "empréstimos" (vide fls. 2). Nesse diapasão, não cabe a inversão do ônus da prova. E como o embargante não comprovou suas alegações, prevalecem a autonomia e cartularidade inerentes à nota promissória. As razões recursais, enfim, não abalaram os sólidos fundamentos da sentença reptada, que prevalece higida.".
+Portanto, verifica-se que a controvérsia foi integralmente solucionada pelo Tribunal de origem, com fundamento suficiente, não estando caracterizada a ofensa ao artigo 1.022, CPC/15, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação.
+Nesse sentido:
+PROCESSUAL CIVIL. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. AUSÊNCIA DE ANÁLISE DE QUESTÃO RELEVANTE PARA O JULGAMENTO DA LIDE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N.
+282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 165, 458, II, e 535, II, do CPC/1973 quando o acórdão recorrido apresenta fundamentos suficientes para embasar a decisão, enfrentando todas as questões pertinentes para a solução da lide e manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+(PET no AREsp 489.892/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/02/2018, DJe 12/03/2018)
+2. Constata-se da leitura do acórdão recorrido, que o Tribunal de origem não decidiu acerca dos arts. 319 e 369 do CPC/15, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial.
+Incide, portanto, o óbice disposto na Súmula 282/STF.
+3. Na hipótese, a Corte local concluiu que as alegações do recorrente são vazias, destituídas de prova, de modo que deve prevalecer a autonomia e cartularidade da nota promissória (fls. 370/371, e-STJ).
+Assim, para alterar a conclusão da Corte local no sentido de que as alegações do recorrente são vazias, destituídas de prova, seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada, a teor dos óbices daSúmula7 do STJ.
+Precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. EMBARGOS À AÇÃO MONITÓRIA. DOCUMENTOS. EXISTÊNCIA DA DÍVIDA. COMPROVAÇÃO.CLÁUSULA CONTRATUAL. SÚMULA N. 5 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. HONORÁRIOS RECURSAIS DEVIDOS. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza negativa de prestação jurisdicional.
+2. O recurso especial não comporta exame de questões que impliquem a análise de cláusula contratual e o revolvimento do contexto fático dos autos (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem entendeu que os documentos apresentados na ação monitória seriam suficientes para comprovar a existência da dívida. Alterar esse entendimento demandaria reexame das cláusulas contratuais e do conjunto probatório do feito, vedado em recurso especial.
+4. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil, (b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente, e (c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1644641/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/09/2020, DJe 24/09/2020)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. NOTA PROMISSÓRIA. ALEGAÇÃO DE FRAUDE. INSUFICIÊNCIA DA PROVA TESTEMUNHAL. REEXAME DO CONTEÚDO FÁTICO DA DEMANDA. SÚMULA 7-STJ. PRECEDENTES.
+1. Não se confunde com valoração da prova atribuir suficiência ao conteúdo de testemunho, para concluir em sentido diverso do julgado recorrido, que o considerou incapaz de reverter a presunção legal conferida pela norma ao título de crédito. Incidência do enunciado 7 da Súmula desta Corte. Precedentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1156905/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/05/2015, DJe 02/06/2015)
+4.Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, nego provimento ao agravo, por conseguinte, majoro os honorários advocatícios em 10% sobre o valor fixado na instância de origem, nos termos do art. 85, §11º, do CPC/15.
+Publique-se. Intimem-se.
