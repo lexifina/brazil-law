@@ -1,0 +1,98 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0732259-06.2021.8.07.0000AGRAVANTE(S)ESLANNY JHENYFR ALVARENGA GOMESAGRAVADO(S)UNIAO BRASILEIRA DE EDUCACAO CATOLICARelatorDesembargador ESDRAS NEVES Acórdão Nº1391238
+
+EMENTA
+
+CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. PROBABILIDADE DO DIREITO. NÃO VERIFICAÇÃO. ALUNA UNIVERSITÁRIA. PROBLEMA DE SAÚDE. MATERNIDADE. TRANSFERÊNCIA ENTRE INSTITUIÇÕES DE ENSINO. CURSO DE MEDICINA. EXISTÊNCIA DE VAGA. NÃO COMPROVAÇÃO. SUBMISSÃO A PROCESSO SELETIVO. A tutela de urgência é medida excepcional e somente deverá ser deferida quando presentes simultaneamente os pressupostos autorizadores do artigo 300, do Código de Processo Civil, a saber: a probabilidade do direito, o perigo de dano ou o risco ao resultado útil do processo, bem como a reversibilidade dos efeitos da decisão. Dispõe o artigo 49, da Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/96), que as instituições de educação superior aceitarão a transferência de alunos regulares, para cursos afins, na hipótese de existência de vagas e mediante processo seletivo. Ausente a prova da existência de vaga no curso pretendido da instituição de destino e da aprovação da autora em processo seletivo para seu preenchimento, a manutenção da decisão que indeferiu o pedido liminar é medida que se impõe.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ESDRAS NEVES - Relator, ALFEU MACHADO - 1º Vogal e LEONARDO ROSCOE BESSA - 2º Vogal, sob a Presidência do Senhor Desembargador ESDRAS NEVES, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 10 de Dezembro de 2021
+
+Desembargador ESDRAS NEVESPresidente e Relator
+
+RELATÓRIO
+
+Cuida-se de AGRAVO DE INSTRUMENTO, com pedido de antecipação da tutela recursal, interposto por ESLANNY JHENYFR ALVARENGA GOMES (autora) contra decisão proferida pelo Juízo da 1ª Vara Cível de Águas Claras, que, nos autos do Processo nº 0715311-65.2021.8.07.0007, em que litiga com UNIÃO BRASILEIRA DE EDUCAÇÃO CATÓLICA, indeferiu o pedido formulado em sede de tutela provisória para que a ré promova a matrícula provisória da autora no curso de medicina do Campus de Taguatinga (ID 29756932).
+
+Em suas razões recursais (ID 29756930), a agravante apresenta a seguinte tese: estudante universitária que no decorrer do curso universitário tem direito à transferência, dentro do mesmo sistema de ensino, para a universidade do local em que comprovadamente tiver melhores condições de exercer a maternidade. Narra estar cursando o primeiro semestre do curso de medicina na faculdade ITEPAC - Unidade Porto Nacional/TO e ter desenvolvido problemas de saúde - depressão grave -, necessitando de acompanhamento médico, em razão da ausência de contato físico com a família e principalmente com a sua filha, de apenas 3 anos de idade, em razão da mudança de Brasília. Diz se ver obrigada a renunciar ao direito à educação para exercer a maternidade, devendo ser reformada a decisão agravada, de forma a permitir a transferência para a universidade agravada em tempo hábil para poder ingressar no próximo semestre letivo e organizar sua mudança para Brasília, visto que o semestre já se iniciou e poderá incorrer na reprovação direta por faltas. Argui a relevância da tese veiculada no recurso, pois pode assegurar a concretização dos direitos fundamentais da educação e da maternidade. Cita a Lei 9.536/97, que permite a transferência, independentemente da existência de vagas, do servidor público federal removido ou de seu dependente; o artigo 1º, da Constituição Federal, que assegura a igualdade de gênero e defende a desnecessidade de previsão infraconstitucional para a concessão do pedido, pois a transferência não é facultativa, importando em reconhecimento do direito das estudantes mães à transferência obrigatória, entre instituições de ensino congêneres, quando comprovado que o local da nova universidade apresenta melhores condições para a estudante exercer a maternidade, sem que seja necessário comprovar a existência de vaga e a realização de processo seletivo. Menciona julgados e aponta a existência de dissonância da decisão agravada com a jurisprudência do TRF-1 e com decisão proferida pelo TJTO. Faz considerações sobre a presença dos requisitos para a concessão do pedido em sede de tutela antecipada recursal e requer, ao final, o provimento do recurso para determinar a transferência da agravante para o curso de medicina da agravada, observado o aproveitamento dos créditos acadêmicos da faculdade pretérita, em razão do risco de reprovação por falta em caso de indeferimento da liminar.
+
+Preparo comprovado (ID 29756933).
+
+O pedido liminar foi indeferido (ID 29803305).
+
+Contrarrazões apresentadas no ID 30128932, pelo desprovimento do recurso.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ESDRAS NEVES - RelatorConheço do recurso, porquanto estão presentes os pressupostos de admissibilidade.
+
+No mérito, sem razão a agravante.
+
+É cediço que, nos termos do artigo 300, caput, do Código de Processo Civil, para a concessão de tutela provisória de urgência, devem ser demonstrados os requisitos da probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo. Em outras palavras, faz-se necessário comprovar relevante fundamentação que ateste a plausibilidade do direito vindicado, além da existência de perigo de dano ou risco ao resultado útil do processo.
+
+No caso em análise, o direito alegado não é provável.
+
+A agravante, que está cursando o primeiro semestre do curso de medicina, sequer demonstrou ter pleiteado a transferência para a instituição agravada. Para além desse fato, deve ser ressaltado que o indeferimento do pedido liminar também foi embasado na necessidade de produção de provas do alegado, o que afasta a conclusão sobre a alta probabilidade de veracidade dos fatos narrados.
+
+Em que pese a relevância das alegações da agravante, certo é que as universidades gozam de autonomia, inclusive administrativa (artigo 207, da Constituição Federal), tendo a Lei nº 9.394/96 estabelecido, nos artigos 49 a 51, o procedimento para a transferência pleiteada. Confira-se:
+
+Art. 49. As instituições de educação superior aceitarão a transferência de alunos regulares, para cursos afins, na hipótese de existência de vagas, e mediante processo seletivo.
+
+Parágrafo único. As transferências ex officio dar-se-ão na forma da lei.
+
+Art. 50. As instituições de educação superior, quando da ocorrência de vagas, abrirão matrícula nas disciplinas de seus cursos a alunos não regulares que demonstrarem capacidade de cursá-las com proveito, mediante processo seletivo prévio.
+
+Art. 51. As instituições de educação superior credenciadas como universidades, ao deliberar sobre critérios e normas de seleção e admissão de estudantes, levarão em conta os efeitos desses critérios sobre a orientação do ensino médio, articulando-se com os órgãos normativos dos sistemas de ensino.
+
+O presente caso não se enquadra na hipótese de transferência ex officio, porquanto a recorrente não é servidora pública federal civil ou militar estudante removida ou transferida de ofício, ou seu dependente estudante. Assim, a transferência somente poderia ser efetivada de forma facultativa, consoante caput do supracitado artigo 49, observado ainda o regulamento da recorrida. Veja-se (ID 30128935):
+
+2.1.5.6 TRANSFERÊNCIA EXTERNA FACULTATIVA
+
+2.1.5.6.1 Estudantes regulares de outras Instituições de Ensino Superior (IES) podem solicitar transferência externa facultativa para o preenchimento de vagas existentes.
+
+2.1.5.6.2 A documentação deve ser protocolada no Setor de Atendimento, pelo interessado ou seu representante legal, nos prazos fixados no Calendário Acadêmico e em edital específico.
+
+Destarte, neste contexto, não há que falar, neste momento processual, em transferência para universidade congênere escolhida pela agravante sem a comprovação da existência de vagas e sem a submissão ao processo seletivo prévio, restando não comprovada a probabilidade do direito alegado.
+
+Sobre o tema, já tive a oportunidade de me manifestar:
+
+CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PRELIMINAR. INCOMPETÊNCIA ABSOLUTA. JUSTIÇA FEDERAL. SUPRESSÃO DE INSTÂNCIA. TUTELA DE URGÊNCIA. PROBABILIDADE DO DIREITO. NÃO VERIFICAÇÃO. ALUNA UNIVERSITÁRIA. PROBLEMA DE SAÚDE. NECESSIDADE DE MUDANÇA DE DOMICÍLIO. TRANSFERÊNCIA ENTRE INSTITUIÇÕES DE ENSINO. CURSO DE MEDICINA. EXISTÊNCIA DE VAGA. NÃO COMPROVAÇÃO. SUBMISSÃO A PROCESSO SELETIVO. As questões não submetidas à apreciação do magistrado de origem não podem ser analisadas pela Instância Revisora, sob pena de flagrante supressão de instância. Verificando-se o não preenchimento dos requisitos dispostos no artigo 300, do Código de Processo Civil, a tutela de urgência pleiteada deve ser indeferida. Dispõe o artigo 49, da Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/96), que as instituições de educação superior aceitarão a transferência de alunos regulares, para cursos afins, na hipótese de existência de vagas e mediante processo seletivo. Ausente a prova da existência de vaga no curso pretendido da instituição de destino e da aprovação da autora em processo seletivo para seu preenchimento, a manutenção da decisão que indeferiu o pedido liminar é medida que se impõe.  (Acórdão 1153651, 07217112420188070000, Relator: ESDRAS NEVES,  6ª Turma Cível, data de julgamento: 20/2/2019, publicado no DJE: 25/2/2019)
+
+APELAÇÃO CÍVEL. CIVIL E PROCESSUAL CIVIL. ALUNA UNIVERSITÁRIA BOLSISTA DO FIES. PROBLEMA DE SAÚDE. NECESSIDADE DE MUDANÇA DE DOMICÍLIO. TRANSFERÊNCIA ENTRE INSTITUIÇÕES DE ENSINO. CURSO DE MEDICINA. EXISTÊNCIA DE VAGA. NÃO COMPROVAÇÃO. SUBMISSÃO A PROCESSO SELETIVO. Dispõe o artigo 49, da Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/96), que as instituições de educação superior aceitarão a transferência de alunos regulares, para cursos afins, na hipótese de existência de vagas e mediante processo seletivo. Ausente a prova da existência de vaga no curso pretendido da instituição de destino e da aprovação da autora em processo seletivo para seu preenchimento, a improcedência do pleito é medida que se impõe. A transferência ex offício de alunos universitários é regulamentada pela Lei nº 9.536/1997, que disciplina as hipóteses de trânsito de alunos entre instituições de ensino superior em qualquer época do ano e independente da existência de vaga. Se a situação da autora não se subsume à exceção legal, deve ela se submeter à regra, sob pena de violação à isonomia em relação aos demais possíveis interessados na vaga. (Acórdão n.1130278, 07139962520188070001, Relator: ESDRAS NEVES 6ª Turma Cível, Data de Julgamento: 11/10/2018, Publicado no DJE: 22/10/2018. Pág.: Sem Página Cadastrada.)
+
+Confiram-se também os seguintes precedentes:
+
+AGRAVO DE INSTRUMENTO - MEDIDA CAUTELAR - GUIA DE TRANSFERÊNCIA DE INSTITUIÇÃO DE ENSINO SUPERIOR - RECUSA MOTIVADA - DECISÃO QUE DEFERE LIMINAR CASSADA. 01.As razões recursais merecem ser acolhidas, tendo em vista que o indeferimento do pleito do Agravado não ocorreu porque o mesmo encontrava-se em débito com a instituição de ensino, mas em razão de não ter, comprovadamente, efetivado sua matrícula para o segundo semestre do ano de 2006. 02.Comprovado que a negativa da Agravante foi motivada e se deu dentro das normas que regem a matéria, o indeferimento da liminar se impõe. 03.Recurso provido. Unânime. (Acórdão n.277917, 20070020040564AGI, Relator: ROMEU GONZAGA NEIVA 5ª Turma Cível, Data de Julgamento: 27/06/2007, Publicado no DJU SEÇÃO 3: 09/08/2007. Pág.: 95)
+
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL E REPARAÇÃO POR DANOS MATERIAIS E MORAIS. PRELIMINAR DE ILEGITIMIDADE ATIVA AFASTADA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. TRANSFERÊNCIA DE ALUNO ENTRE INSTITUIÇÕES DE ENSINO SUPERIOR. APROVEITAMENTO DE MATÉRIAS CURSADAS. DIREITO DO ALUNO. MATRÍCULA EFETUADA NO PRIMEIRO SEMESTRE DO CURSO. DESCUMPRIMENTO CONTRATUAL. VIOLAÇÃO AOS PRINCÍPIOS DA LEALDADE CONTRATUAL E BOA-FE OBJETIVA. RESCISÃO CONTRATUAL. RESSARCIMENTO DOS PREJUÍZOS MATERIAIS E MORAIS EXPERIMENTADOS. PREQUESTIONAMENTO. SENTENÇA MANTIDA. ERRO MATERIAL RETIFICADO DE OFÍCIO. 1.  Em ação de reparação de danos materiais, na qual se busca o ressarcimento de mensalidade paga por prestação de serviços educacionais, detém legitimidade para pleitear seu ressarcimento aquele que se responsabilizou pelo seu pagamento. 2.  As Instituições de Ensino Superior, havendo vagas, possuem ampla autonomia para decidirem se recebem ou não o aluno que solicita transferência. Contudo, deve a instituição de ensino de destino proceder ao aproveitamento dos conteúdos integralmente cumpridos pelo aluno na instituição de origem, a fim de proceder sua matrícula em semestre compatível com aquele que o aluno vinha cursando. 3.  Incide em descumprimento contratual, por ofensa aos princípios da lealdade e da boa-fé objetiva, a instituição de ensino superior que pactua com o aluno sua transferência, mediante o aproveitamento de créditos já cursados, e culmina por matriculá-lo no primeiro semestre do Curso pretendido, sem aproveitamento de matérias. 4.  O valor fixado a título de compensação por danos morais, em que pese a falta de critérios objetivos, deve ser pautado pela proporcionalidade e razoabilidade, além de servir como forma de compensação ao dano sofrido e de possuir caráter sancionatório e inibidor da conduta praticada. Respeitados esses critérios, deve ser mantido o quantum fixado na sentença. 5.  O magistrado não está obrigado a manifestar-se expressamente sobre todos os argumentos levantados pelo litigante na via recursal, ou mesmo, a transcrever dispositivos constitucionais ou legais para fins de prequestionamento. Mostra-se suficiente que indique os motivos legais nos quais embasou-se para o deslinde da controvérsia, considerando-se com isso suficientemente motivada sua decisão. 6.  Constatado erro material na r. sentença, no que se refere ao valor desembolsado a título de mensalidade e objeto da determinação de restituição, necessária a retificação, na forma do artigo 463, inciso I, do Código de Processo Civil. 7.  Apelação conhecida, preliminar rejeitada, e não provida. Erro material corrigido de ofício. (Acórdão n.894692, 20130710197517APC, Relator: SIMONE LUCINDO, Revisor: ALFEU MACHADO,  1ª TURMA CÍVEL, Data de Julgamento: 09/09/2015, Publicado no DJE: 28/09/2015. Pág.: 137)
+
+ADMINISTRATIVO. CONSTITUCIONAL. MANDADO DE SEGURANÇA. ENSINO SUPERIOR. TRANSFERÊNCIA DE OFÍCIO DE UNIVERSIDADE ESTRANGEIRA PARA BRASILEIRA. EXISTÊNCIA DE CONGENERIDADE. DOENÇA GRAVE DA GENITORA DA REQUERENTE. HIPÓTESE NÃO CONTEMPLADA NA LEI N. 9.536/97, QUE REGULAMENTOU A LEI N. 9.394/96. SEGURANÇA DENEGADA. RECURSO DESPROVIDO. SENTENÇA MANTIDA. 1. O art. 1º da Lei n. 9.536/97, ao regulamentar o parágrafo único do art. 49 da Lei n. 9.394/96, disciplina que as transferências de ofício entre instituições de educação superior, respeitada a congeneridade, são efetivadas em qualquer época do ano e independem da existência de vaga, quando se tratar de servidor público federal civil ou militar estudante, ou seu dependente estudante, se requerida em razão de comprovada remoção ou transferência de ofício, que acarrete mudança de domicílio para o município onde se situe a instituição recebedora, ou para localidade mais próxima desta. 2.Inexistindo nos autos informações no sentido de ser a impetrante servidora pública federal ou militar estudante ou dependente, e considerando que a legislação de regência não contemplou a hipótese de tratamento de saúde de parente como justificativa para a transferência de ofício entre instituição de ensino superior estrangeira e brasileira (Universidade Nacional de Rosário - Argentina para a FEPECS/ESCS), afasta-se a alegação de direito líquido e certo. 3.A concessão de transferência compulsória de estudantes, sem base legal para atender essa pretensão, pode representar verdadeira afronta à isonomia, principalmente no que tange a cursos e instituições que se submetem a vestibulares mais concorridos. 4. Recurso conhecido e desprovido. Sentença mantida. (Acórdão 896719, 20140111614483APC, Relator: ALFEU MACHADO, , Revisor: FÁTIMA RAFAEL,  3ª TURMA CÍVEL, data de julgamento: 30/9/2015, publicado no DJE: 5/10/2015. Pág.: 207)
+
+O quadro de saúde relatado pela recorrente não dá ensejo à pretendida criação de exceção à regra, sob pena de ferir a isonomia e, de outro lado, impor uma condição que inviabilize as atividades letivas da recorrida. Frise-se que o número de vagas dos cursos é definido pelo Ministério da Educação e deve ser respeitado pelas instituições de ensino, sob pena de sofrerem sanções administrativas e terem o exercício de suas atividades econômico-sociais prejudicado com a redução do número de vagas, suspensão temporária de novos ingressos e de oferta de cursos, consoante disposição do artigo 46, § 3º, da Lei nº 9.394/96.
+
+Há ainda um aspecto que deve ser considerado - a medida pleiteada é irreversível e, pior, acaso deferida e posteriormente não obtenha êxito na demanda, a recorrente ficaria sem vaga na instituição ré, bem como naquela em que está matriculada.
+
+Assim, não sendo provável o direito alegado e diante da irreversibilidade da medida, não é cabível a reforma da decisão de origem, para deferir a tutela antecipada pleiteada. Nesse sentido, confiram-se os seguintes julgados deste Egrégio Tribunal de Justiça:
+
+AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DA TUTELA RECURSAL. CONSUMIDOR. APURAÇÃO DE RESPONSABILIDADE CIVIL. NECESSIDADE DE INSTRUÇÃO PROBATÓRIA. PERIGO DE IRREVERSIBILIDADE DOS EFEITOS DA DECISÃO. 1. É incabível a antecipação da tutela recursal quando o pedido, na forma em que foi apresentado, confunde-se com o próprio mérito da demanda, de modo que a verificação da verossimilhança das alegações somente será possível após a devida instrução processual, realizada sob o crivo do contraditório e da ampla defesa.   2. Recurso conhecido e não provido. (Acórdão 1246562, 07275491120198070000, Relator: DIAULAS COSTA RIBEIRO, 8ª Turma Cível, data de julgamento: 29/4/2020, publicado no DJE: 13/5/2020)
+
+AGRAVO DE INSTRUMENTO. CIVIL E PROCESSUAL CIVIL. TUTELA DE URGÊNCIA. (...) NÃO COMPROVAÇÃO. AUSÊNCIA DE VEROSSIMILHANÇA. IMPOSSIBILIDADE DE CONCESSÃO LIMINAR. DECISÃO MANTIDA. 1. Para concessão de tutela de urgência, seja ela cautelar ou antecipatória de mérito, é necessário demonstrar a presença dos pressupostos do art. 300, caput, do CPC, quais sejam, a subsistência de elementos que evidenciem a probabilidade do direito e, concomitantemente, o perigo de dano ou o risco ao resultado útil do processo. (...) No caso em apreço, constata-se que há necessidade de dilação probatória para afastamento da conclusão da junta médica oficial que, inclusive, se baseou nas afirmações do próprio agravante de que "já tentou retorno com restrição e não conseguiu". 4.Agravo instrumento conhecido em parte e desprovido. (Acórdão 1193810, 07107647120198070000, Relator: ALFEU MACHADO 6ª Turma Cível, data de julgamento: 15/8/2019, publicado no PJe: 21/8/2019) (g.n.)
+
+Portanto, a manutenção da decisão vergastada é medida que se impõe.
+
+Ante o exposto,  conheço do recurso e a ele NEGO PROVIMENTO.
+
+É como voto.
+O Senhor Desembargador ALFEU MACHADO - 1º Vogal Com o relatorO Senhor Desembargador LEONARDO ROSCOE BESSA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
