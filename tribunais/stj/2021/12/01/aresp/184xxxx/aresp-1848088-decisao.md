@@ -1,0 +1,44 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por CARVALHO HOSKEN S.A. ENGENHARIA E CONSTRUÇÕESe outro contra decisão do Tribunal de Justiça do Rio de Janeiro que não admitiu recurso especial manejado contra acórdão, assim ementado:
+APELAÇÃO CÍVEL. CIVIL. Promessa de compra e venda de imóvel em construção. Distrato solicitado pelo promissário comprador. Alegação de que não obteve liberação de crédito para quitação do preço devido à insuficiência da documentação fornecida pela promitente vendedora. Tese infirmada por e-mails, indicativos de que o crédito foi liberado, mas em montante inferior ao saldo devedor. Hipótese de restituição parcial da importância paga. Verbete nº 543, da Súmula do STJ. Retenção de montante razoável a título de indenização do promitente vendedor, a ser fixado entre 10% e 25% do preço pago. Fixação do patamar intermediário de 20%, com juros do trânsito em julgado. Reforma para que a correção monetária incida do desembolso, por consistirem mera reposição do poder aquisitivo da moeda. Dano moral não caracterizado. Inexistência de ofensa a direito da personalidade. Sucumbência recíproca corretamente decretada, considerado o princípio da causalidade e sopesado o êxito de cada litigante. Desprovimento do primeiro recurso, parcial provimento do segundo.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, além de dissídio jurisprudencial, a parte alega ofensa aos seguintes dispositivos legais: art. 86 do CPC,1º, §2º, da Lei 6.899/81.
+Sustenta:(i) que é incabível a aplicação da sucumbência recíproca ao caso dos autos, devendo o recorrido arcar com os ônus sucumbenciaiscom base no princípio da causalidade; (ii) que a correção monetária do valor a ser devolvido em razão do distrato, tem início somente a partirdo ajuizamento da ação.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A pretensão recursal não merece prosperar.
+Na espécie, acerca da sucumbência, com base nos elementos fático-probatórios, a Corte local concluiu o seguinte no acórdão recorrido:
+No tocante aos ônus sucumbenciais, a sentença não merece reparo, considerado o princípio da causalidade (art. 85, §10, do CPC) e sopesado o êxito de cada litigante(art. 86, do CPC).
+Malgrado a demandante tenha acolhido a solicitação de distrato extrajudicialmente, em 16/02/2016 (pasta 123, fls. 123), reteve a integralidade do montante recebido do demandado, compelindo-o ao ajuizamento da demanda em 18/05/2017(pasta 2).
+O demandado, por sua vez, obteve êxito em apenas um dos dois pleitos indenizatórios (por dano material). Logo, correta a condenação de cada parte ao pagamento de metade das despesas processuais e honorários advocatícios em quantia correspondente a 5% do valor da condenação.(e-STJ fls. 528/529)
+É assente, no Superior Tribunal de Justiça, o entendimento de que não cabe a esta Corte Superior rever a conclusão adotada pelo Tribunal de origem, quanto ao princípio da causalidade ou à sucumbência recíproca, por implicar o revolvimento do contexto fático-probatório, inviável na instância especial à luz da sua Súmula 7.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DIREITO PROCESSUAL CIVIL E CIVIL. CONTRATO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. FORÇA MAIOR. NÃO CONFIGURAÇÃO. MULTA POR RESCISÃO CONTRATUAL POR INADIMPLEMENTO. CABIMENTO. ANÁLISE.INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS.VEDAÇÃO. SÚMULAS 5 E 7/STJ. INCIDÊNCIA. ÔNUS DASUCUMBÊNCIA,PRINCÍPIO DACAUSALIDADEE HONORÁRIOS ADVOCATÍCIOS. ANÁLISE. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A conclusão a que chegou o Tribunal de origem, no sentido de que não se configurou nenhum motivo excludente de força maior previsto no contrato apto a causar o atraso na entrega do imóvel, ensejando a multa por rescisão contratual por inadimplemento , também prevista no instrumento, decorreu de convicção formada em face do contrato celebrado entre as partes e dos elementos fáticos existentes nos autos. Rever os fundamentos do acórdão recorrido importa necessariamente na interpretação das cláusulas contratuais e no reexame de provas, o que é vedado nesta fase recursal. Incidência das Súmulas 5 e 7/STJ.
+2. O STJ possui entendimento uniforme no sentido de que a análise sobre a distribuição do ônus dasucumbência,a aplicação do princípio dacausalidadee o valor dos honorários advocatícios demanda o reexame do conjunto fático-probatório, o que é inviável nesta via especial. Incidência da Súmula 7/STJ.
+3. Agravo interno não provido.(AgInt no AgInt no AREsp 1628525/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/06/2020, DJe 03/08/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CULPA DA RÉ NO DESFAZIMENTO DO NEGÓCIO. DISTRIBUIÇÃO DA SUCUMBÊNCIA. REVISÃO.IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A revisão das conclusões estaduais, acerca da distribuição da sucumbência, demandaria o revolvimento do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.(AgInt no REsp 1847303/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/03/2020, DJe 30/03/2020)
+Aincidência do teor da Súmula 7/STJ, impede o conhecimento do reclamo por ambas as alíneas do permissivo constitucional.
+Quanto ao termo inicial para a correção monetária, a jurisprudência desta Corte é assente em afirmar que, em caso de rescisão de contrato de compra e venda de imóvel, a correção monetária das parcelas pagas, para efeitos de restituição, incide sobre cada desembolso, portanto, mais uma vez, não há que se falar em alteração do julgado.
+A propósito, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO CONDENATÓRIO  DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. A parte agravante refutou, nas razões do agravo em recurso especial, a aplicação da Súmula 7/STJ, não incidindo, portanto, o óbice da Súmula 182/STJ. Reconsiderada a decisão singular da Presidência.
+2. A jurisprudência do STJ orienta-se no sentido de que, em caso de rescisão de contrato de compra e venda de imóvel, a correção monetária das parcelas pagas, para efeitos de restituição, incide a partir de cada desembolso. Incidência da Súmula 83/STJ.
+3. Agravo interno provido para reconsiderar a decisão da Presidência de fls. 352-354, e-STJ. Agravo em recurso especial desprovido.(AgInt no AREsp 1731695/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/05/2021, DJe 28/05/2021)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS. DESISTÊNCIA PELO COMPRADOR. RESTITUIÇÃO DE QUANTIAS PAGAS. CORREÇÃO MONETÁRIA. TERMO INICIAL. DESEMBOLSO.
+ ..  3. Em caso de rescisão de contrato de compra e venda de imóvel, a correção monetária das parcelas pagas, para efeito de restituição, incide a partir de cada desembolso.
+4. Embargos de declaração acolhidos para sanar omissão, sem a atribuição de efeitos infringentes. (EDcl no AgInt no REsp 1.813.490/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 16/10/2019).
+Nessa linha, o Tribunal de origem não destoa do entendimento desta Corte, na medida em que concluiu:
+Apenas a correção monetária incide desde o desembolso, como assinalado no segundo apelo, por consistir em mera reposição do poder aquisitivo da moeda.(e-STJ fl. 528)
+Desse modo, a conclusão do Tribunal de origem consona com a jurisprudência desta Corte Superior, o que atrai a incidência do teor da Súmula 83/STJ, a impedir o conhecimento do reclamo por ambas as alíneas do permissivo constitucional.
+Por fim, com fundamento no §11 do art. 85 do CPC, majoro o percentual dos honorários sucumbenciais a que condenadoo recorrente na origem em 2%, observada a eventual e anterior concessão da gratuidade judiciária.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. RESCISÃO. SUCUMBÊNCIA RECÍPROCA DECRETADA. REVISÃO.SÚMULA 7 DO STJ. CORREÇÃO MONETÁRIA. TERMO INICIAL. DESEMBOLSO. ACÓRDÃO EM HARMONIA COM O ENTENDIMENTO DESTA CORTE.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, COM MAJORAÇÃO DOS HONORÁRIOS.
