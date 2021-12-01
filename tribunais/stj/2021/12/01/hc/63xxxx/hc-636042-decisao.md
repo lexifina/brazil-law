@@ -1,0 +1,27 @@
+DECISÃO
+DANIELA VERONEZE DE MORAES MAROSTIGA, advogada em causa própria, impetrahabeas corpus, apontando como autoridade coatoraoTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(HC n. 2287673-18.2020.8.26.0000).
+A impetrantefoi condenada às penas de 5 anos e 4 meses de reclusão e de 53 dias-multa, pela prática do delito descrito no art. 168, § 1º, III, do Código Penal, por meio de sentença datada de 11/11/2020. Na mesma oportunidade, foi decretada a prisão preventivacom a seguinte justificativa (fl. 288):
+A medida é necessária para garantia da ordem pública porque existem indícios de que a ré praticou fatos similares contra diversas pessoas e tem potencial de praticar novos fatos porque continua atuando como advogada e não sofreu ressocialização do Estado.
+Impetrado habeas corpus no Tribunal de origem, o pedido de liminar foi indeferido por decisão monocrática do relator.
+A impetrante alega que respondeu a todo processo em liberdade e está na iminência de ser presa indevidamente, sem que a cautelartenha fundamentos concretos.
+Requer, portanto, seja concedida a ordem a fim de que aprisão preventiva seja revogada e possaresponder ao processo em liberdade.
+O pedido de liminar foi deferido às fls. 304-305.
+As informações foram prestadas às fls. 323-337.
+O Ministério Público Federal manifestou-se pela concessão da ordem de ofício, ante a ausência de fundamentação da prisão preventiva (fls. 340-345).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+O pleito formulado no presente writ é dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+Conforme relatado, a paciente respondeu a todo o processo em liberdade, tendo sido condenadaàs penas de 5 anos e 4 meses de reclusão e de 53 dias-multa, pela prática do delito descrito no art. 168, § 1º, III, do Código Penal.
+Na sentença, o Juízo a quo decretou aprisão preventiva de forma genérica, pautando-se, exclusivamente, pela garantia da ordem públicasem a necessária especificaçãodo risco decorrente da manutenção da liberdade da paciente.
+Nessa situação, vale destacar o que foi exposto na decisão que deferiu a medida liminar(fl. 305):
+No caso, parece-me estar caracterizado constrangimento ilegal manifesto que justifica o deferimento da liminar. Com efeito, verifica-se que a paciente respondeu em liberdade a todos os termos do processo, cuja denúncia foi apresentada em 2018 e se referia a fatos ocorridos em 2014.
+Não há informações a respeito de que a paciente tenha praticado novos delitos após o oferecimento da denúncia que possam justificar a segregação cautelar para garantia da ordem pública.
+Conforme já se decidiu, "a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP)" (HC n. 607.501/SP, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 18/12/2020, destaquei).
+O mero receio de que a paciente volte a delinquir não me parece justificativa suficiente para a decretação da preventiva, que, no caso, assume feições de verdadeira antecipação de pena e afronta o princípio da presunção de inocência.
+Aprisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabívelmediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medidaextrema, nos termos do art. 312 e seguintes do Código de Processo Penal (AgRg no HC n. 697.178/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJe de 25/11/2021).
+Assim, não demonstrada, de forma concreta, a necessidade da segregação cautelar, nemexpostos seus fundamentos determinantes, não há motivo para a manutenção da ordem de prisão, na medida em que nãohá informaçõesde que a paciente tenha praticado novos delitos após o oferecimento da denúncia ou de que se tenha furtado ao cumprimento das determinações legais, de modo que não se justificaa segregação cautelar para garantia da ordem pública no caso concreto.
+Desse modo, verifica-seque odecreto prisional carece de fundamentação idônea, não se autorizando a privação antecipada da liberdade da paciente já que não demonstrados, de forma fundamentada, os requisitos legais, o que exige a confirmação da liminar anteriormente deferida.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus. Concedo a ordem de ofício, confirmando a decisão liminar de fls. 304-305a fim de revogar a decisão que decretou a preventiva,assegurandoà paciente o direito de responder ao processo em liberdade, salvo no caso desuperveniência de decisão fundamentada que justifique a segregação cautelar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
