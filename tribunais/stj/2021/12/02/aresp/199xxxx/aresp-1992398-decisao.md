@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DE RORAIMA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - RAZÕES RECURSAIS QUE NÃO ATACAM ESPECIFICAMENTE OS FUNDAMENTOS DA SENTENÇA IMPUGNADA - AUSÊNCIA DE DIALETICIDADE - RECURSO NÃO CONHECIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente argumenta acerca da ausência de certeza e liquidez do título executivo, trazendo os seguintes argumentos:
+A presunção de certeza e liquidez do título executivo jamais poderá prevalecer, frente à prevalência do interesse público sobre o interesse particular e a consequente presunção de legitimidade dos atos da Administração Pública.
+A referida presunção de legitimidade somente pode ser elidida por meio de uma decisão judicial com trânsito em julgado, que viesse a condenar o Estado no pagamento da quantia supostamente representada no título.
+Ora, tamanho é o cuidado que se deve ter ao lidar com a dívida pública que, além disso, as decisões judiciais devem sempre passar por uma revisão obrigatória  o reexame necessário previsto no art. 496, I, do Código de Processo Civil.
+Um mero título extrajudicial não tem o condão de substituir todo um procedimento que a Constituição Federal impõe que seja observado, quando da condenação da Fazenda Pública. (fl. 225).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+Ademais, o acórdão recorrido assim decidiu:
+O apelo não merece conhecimento.
+Isso porque, da leitura das razões recursais, observa-se que o apelante apresentou tese argumentativa acerca da ausência de liquidez, certeza e exigibilidade do título extrajudicial executado. Todavia, trata-se de ação de cobrança fundada em Notas Fiscais decorrentes de serviços prestados ao Estado de Roraima, não havendo que se falar em liquidez e certeza de título executivo.
+Portanto, evidencia-se que não se pode identificar a contraposição específica aos efetivos fundamentos da sentença impugnada, eis que o recorrente fundamenta suas razões em argumentos totalmente diversos dos consignados na decisão primeva.
+Nesse contexto, é sabido que a motivação de qualquer recurso constitui pressuposto objetivo de admissibilidade, levando sua ausência à inépcia do pedido.
+O art. 1010, II do CPC/2015, assim dispõe:
+"Art. 1010. A apelação, interposta por petição dirigida ao juízo de primeiro grau, conterá:
+(..) II - a exposição do fato e do direito;" Assim, o mero inconformismo da parte não é suficiente para atender o comando da lei adjetiva, devendo as razões recursais guardar pertinência com os fundamentos da sentença recorrida e não em fundamentos diversos.
+ ..
+ISSO POSTO, não conheço do recurso por ausência de dialeticidade. (fl. 208).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão totalmente dissociadas dos fundamentos utilizados no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "Verifica-se que o recurso encontra-se deficientemente fundamentado, uma vez que as razões insertas no recurso não permitem a exata compreensão da controvérsia, na medida em que se encontram dissociadas dos fundamentos da decisão agravada, aplicando-se, ao caso, por analogia, o enunciado da Súmula 284/STF". (AgRg no AREsp 1.394.624/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgRg no AREsp 7.458.831/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 9/3/2018; AgInt nos EAREsp n. 1.371.200/SP, relator Ministro OG Fernandes, Corte Especial, DJe de 13/9/2019; e REsp 1.722.691/SP, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe de 15/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
