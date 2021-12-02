@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial, com pedido de gratuidade de justiça, interposto por AVS SEGURADORA S/A (em liquidação extrajudicial) contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+ADMINISTRATIVO. REEXAME NECESSÁRIO. APELAÇÃO. INADIMPLEMENTO DE CLÁUSULA CONTRATUAL. SEGURO - GARANTIA. OCORRÊNCIA DO SINISTRO É ANTERIOR ALIQUIDAÇÃO EXTRAJUDICIAL DA SEGURADORA. RECONHECIDO DIREITO DE INDENIZAÇÃO. REMESSA OFICIAL E RECURSO PROVIDO
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega, além da ocorrência de divergência jurisprudencial, violação do art. 18, alínea "d", da Lei n. 6.024/1974, sustentando, em síntese (fls. 223/233):
+A Recorrente está submetida a regime de liquidação extrajudicial, regulado pela Lei 6.024/74  ..  é expressa a legislação federal no sentido de que não são exigíveis juros da massa liquidanda enquanto não pago integralmente o seu passivo. O artigo 18, "d", da Lei 6.024/74, veda expressamente a aplicação dos juros a partir da decretação do regime especial de liquidação extrajudicial  ..  Todavia, o v. acórdão deixou de aplicar o dispositivo, sob a desvinculada alegação de que são devidos os juros de mora no período anterior a decretação da liquidação!  ..  Data venta, isso não elide o comando do dispositivo atinente aos juros aplicados posteriormente à data da decretação do regime especial de liquidação extrajudicial, não havendo dúvida de que deve ser aplicado o artigo 18 da Lei 6.024/74 no caso vertente!
+Contrarrazões apresentadas (fls. 294/305).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Considerada a atual situação da recorrente, o pedido de gratuidade de justiça pode ser deferido para o fim de eximi-la do pagamento do preparo do recurso especial.
+Quanto à pretensão recursal, vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fl. 200):
+Conclui-se que o sinistro, do qual nasceu a obrigação do cumprimento da apólice, deu-se em 03.11.2005, 28.10.2005, 10.08.2006, 28.12.2006 e durante o mês de julho de 2006. Todavia, a decretação da liquidação extrajudicial, onde foi reconhecido o vencimento antecipado das obrigações, sucedeu-se em 11.07.2007, posteriormente à data do sinistro. Em consequência, é de se reconhecer o direito de indenização à União estipulada no contrato de seguro. O valor referido na apólice de fis. 35 e 130 deverá ser corrigido monetariamente, bem como sobre ele incidirão juros de mora.
+Os juros de mora são devidos desde a citação, na forma do artigo 405 do Código Civil, ou seja, SELIC (Lei n. 9.065/1995).
+ ..
+Ante o exposto, dou provimento à apelação e à remessa oficial para reformar a sentença e julgar procedente a ação a fim de condenar a ré ao pagamento do valor de R$ 185.962,30, corrigido monetariamente e juros de mora em SELIC, bem como custas e honorários advocatícios de 5% sobre o montante de condenação devidamente atualizada.
+Por ocasião do julgamento dos embargos de declaração, foi acrescido à fundamentação (fls. 214/220):
+O julgado não tem os vícios apontados. O acórdão apreciou de maneira clara todas as matérias por ocasião do apelo do embargado e, no que se refere à incidência dos juros de mora, ficou consignado que o sinistro, o qual nasceu a obrigação ao cumprimento da apólice deu-se anteriormente a decretação da liquidação extrajudicial, onde foi reconhecido o vencimento antecipado das obrigações  ..  Por fim, descabidas as alegações de que a agravante está submetida a regime especial de liquidação extrajudicial decretado pela SUSEP, motivo pelo qual deve ser aplicada a Lei n 6.024/74 por força do artigo 3º da Lei n 10.190/200, bem como não incidam os juros de mora a partir da data da decretação de sua liquidação extrajudicial, consoante artigo 18, alínea "d", da Lei n 6.024/74, corroborada pelo artigo 124 da Lei n 11.101/05, dado que não se aplica aos juros de mora anteriores à decretação da liquidação extrajudicial.
+Pois bem.
+O artigo 18, alínea "d", da Lei n. 6.024/1974 dispõe:
+Art. 18. A decretação da liquidação extrajudicial produzirá, de imediato, os seguintes efeitos:
+ ..
+d) não fluência de juros, mesmo que estipulados, contra a massa, enquanto não integralmente pago o passivo;
+A respeito, é pacífica a orientação jurisprudencial no sentido de que são devidos juros de mora anteriores à decretação da liquidação extrajudicial e a parcela daqueles que lhe são posteriores somente serão excluídos da cobrança, na hipótese em que o ativo não for suficiente para o pagamento integral do passivo. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. MULTA ADMINISTRATIVA. EMPRESA EM LIQUIDAÇÃO EXTRAJUDICIAL. JUROS DE MORA. SUSPENSÃO. INCIDÊNCIA DE MULTA. INEXIGIBILIDADE. ART. 18, "D" E "F", DA LEI 6.024/74. PAGAMENTO PRINCIPAL. ATIVO REMANESCENTE. ENCARGOS. INCLUSÃO.
+1. O artigo 18 da Lei 6.024/1974 estabelece que a decretação da liquidação extrajudicial produzirá, de imediato, a "não fluência de juros, mesmo que estipulados, contra a massa, enquanto não integralmente pago o passivo" (alínea "d"), bem como a "não reclamação de correção monetária de quaisquer divisas passivas, nem de penas pecuniárias por infração de leis penais ou administrativas" (alínea "f").
+2. In casu, ao contrário do alegado pela ora recorrente, o Tribunal a quo não excluiu a incidência de juros moratórios (que continuam devidos antes da decretação de liquidação extrajudicial, independentemente da existência de saldo para pagamento do principal, e ficam suspensos a partir do decreto de liquidação), mas tão somente condicionou a cobrança deles para depois do encerramento da liquidação e da comprovação da existência de ativo suficiente para o pagamento do passivo, o que está em consonância com o entendimento do Superior Tribunal de Justiça.
+3. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." 4. Agravo conhecido para negar provimento ao Recurso Especial.
+(AREsp 1528375/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/10/2019, DJe 18/10/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. REGIME DE LIQUIDAÇÃO EXTRAJUDICIAL. JUROS E CORREÇÃO MONETÁRIA.
+1. A Lei 6.024/74 não determina a exclusão da correção monetária nem dos juros de mora e nem veda ao Judiciário reconhecer, em sede cognitiva, o devido valor da indenização securitária, que deverá ser corrigido, e, ainda, em face da inadimplência da devedora, os juros de mora.
+2. A lei determina, no entanto, a suspensão da exigibilidade dos juros de mora enquanto não satisfeito todo o passivo da sociedade em liquidação. Assim, apenas quando da satisfação dos créditos previstos em sede cognitiva é que o art. 18 da Lei 6.024 receberá a devida eficácia no tocante aos encargos cuja exigibilidade ele suspende.
+3. Imprescindível, ademais, que no título que se forma na ação de cognição - que virá a ser eventualmente habilitado na liquidação - constem as rubricas devidas ao credor: principal, correção e juros, caso contrário não poderá exigí-las uma vez satisfeito todo o passivo.
+4. Para que não haja dúvidas posteriormente, no entanto, destaco que os juros serão adimplidos após a solvência de todo o passivo e não antes.
+5. AGRAVO INTERNO DESPROVIDO, COM OBSERVAÇÃO.
+(AgInt no REsp 1665691/SE, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/08/2019, DJe 30/08/2019)
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. LIQUIDAÇÃO EXTRAJUDICIAL. COBRANÇA DE MULTA FISCAL. DESCABIMENTO. JUROS MORATÓRIOS. FLUÊNCIA. POSSIBILIDADE. PRECEDENTES.
+I - Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Tal como no procedimento falimentar, é inviável a cobrança de multa fiscal na liquidação extrajudicial, a teor do disposto no art. 34 da Lei n. 6.024/74. Precedentes.
+III - Conforme entendimento firmado por esta Corte, são devidos juros moratórios anteriores à decretação da quebra e os que lhes são posteriores, além de não terem a fluência interrompida, serão excluídos somente se o ativo apurado for insuficiente para o pagamento dos passivos.
+IV - Recurso especial parcialmente provido.
+(REsp 1764396/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 09/04/2019, DJe 16/04/2019)
+Portanto, no cálculo dos juros moratórios, deverão ser excluídos aqueles computados após a data de instauração da liquidação somente na hipótese de o ativo não ser suficiente para o pagamento integral do passivo.
+A pretensão recursal de eximir-se do cômputo dos juros moratórios, portanto, não encontra amparo na jurisprudência deste Tribunal Superior.
+Ante o exposto, defiro a gratuidade de justiça; e não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
