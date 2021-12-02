@@ -1,0 +1,17 @@
+DECISÃO
+1. Cuida-se de agravo interposto por JOAO IMERIO ENGEL, GIANE SILMARA ENGEL contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+ADMINISTRATIVO SISTEMA FINANCEIRO DE HABITAÇÃO INDENIZAÇÃO POR DANO MATERIAL CÓDIGO DE DEFESA DO CONSUMIDOR PRESCRIÇÃO QUINQUENAL
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, ofensa ao disposto nos arts.1.022 II, parágrafo único, II e489, §1º, IV e V do CPC, art. 27 do CDC e arts. 206, § 3º,IV e V, e205 do CC, alegando em síntese, omissão no acórdão recorrido e queem virtude da pretensão reparatória decorrer de rescisão/incumprimento contratual, de caráter pessoal, portanto, de cuja natureza deriva o contrato de alienação fiduciária, dentro da teoria da responsabilidade contratual, sem a existência de um acidente de consumo e sem a previsão de um lapso prescricional específico e menor do que a regra geral do Art. 205, do Código Civil.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 651.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação dos arts.1.022 II, parágrafo único, II e 489, §1º, IV e V do CPC. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+4. Outrossim, oacórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor.
+A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, qual seja: que a presente ação objetiva o pagamento de indenização correspondente ao valor das prestações de n. 13 a 35 do contrato de financiamento imobiliário estabelecido entre a CEF e a parte autora, que não foram solicitadas na anterior ação indenizatória. Não sendo dado aos autores, após inércia de mais de 8 anos,pretenderem rediscutir o alcance do dano material antes judicializado e julgado, ao argumento de se tratar de dano novo, pois se verifica que a cobrança do valor ora pretendido de novo nada tem, pois é um fato anterior ao próprio ajuizamento da ação indenizatória anterior de n. 5004887-57.2010.4.04.7108.
+Com isso, impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
