@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de Mandado de Segurança impetrado contra ato do Ministro de Estado da Saúde consubstanciado em alegadaomissão em responder ao pedido de acesso ao medicamento Spinraza para o tratamento da atrofia muscular espinhal tipo II.
+A impetrante afirma que, a despeito de ter feito,em 13.11.2019,cadastro, nos termos da Portaria 1.297/2019 do Ministério da Saúde, para obter acesso ao aludido medicamento, oprotocolo de seu pleito ainda estaria em análise. Informa que sem o deferimento do cadastro não pode receber o medicamento de que necessita. Aduz:
+20. Considerando que a Impetrante é acometida por AME tipo II, incluído na referida Portaria do Ministério da Saúde, realizou seu cadastro na data de 13/11/2019 por meio do canal indicado pelo Ministério da Saúde, o telefone 136, recebendo o número de protocolo 3389531.
+21. Em julho/2020, a Impetrante ligou para o número 136, do Ministério da Saúde, a fim de saber sobre o andamento do seu pedido de fornecimento do fármaco, e, vide ata notarial anexa, foi informada de que "o protocolo ele ainda está sob análise." (sic).
+22. Em julho/2021, a Impetrante novamente ligou para o número 136, do Ministério da Saúde, a fim de saber sobre o andamento do seu pedido de fornecimento do fármaco, e, vide ata notarial anexa, foi informada de que "ele continua em análise, certo, ainda aguardando a resposta da área competente" (sic).
+23. Ou seja, a Impetrante aguarda pelo fornecimento do referido fármaco, sem qualquer retorno, solução ou satisfação por parte do Ministério da Saúde.Enquanto isso, a cada dia que passa a Impetrante está morrendo.
+24. Assim, existe clara e inequívoca conduta omissiva por parte do Impetrado, que está praticando o ato coator de forma continuada, durante todo o período até o dia de hoje, inclusive, e continuará praticando tal ato coator enquanto não for concedida a ordem que se busca por meio do presente writ.
+25. Pela narrativa acima e pela análise da documentação probatória anexa, verifica-se que absolutamente todos os requisitos para a concessão da ordem que se busca encontram-se plenamente preenchidos.
+(..) a) a Impetrante é, comprovadamente, acometida por AME tipo II;
+b) o único tratamento existente no mundo para esta doença é o medicamento Spinraza ;
+c) este medicamento foi incorporado pelo Sistema Único de Saúde - SUS após aprovação pela ANVISA;
+d) o Ministério da Saúde, por meio da Portaria nº. 1.297/2019, instituiu o projeto piloto de acordo de compartilhamento de risco para incorporação de tecnologias em saúde, para oferecer acesso ao medicamento Spinraza  para o tratamento da Atrofia Muscular Espinhal (AME) tipos II e III no âmbito do Sistema Único de Saúde - SUS;
+e) diante desta Portaria acima mencionada, a Impetrante se inscreveu perante o Ministério da Saúde em 13/11/2019 para receber o medicamento, e as duas atas notarias anexas, uma de julho/2020 e outra de julho/2021 provam que o seu pedido se encontra em uma eterna análise, havendo clara omissão de forma continuada por parte do Impetrado.
+Ao final pleiteia:
+a) Seja deferida a concessão de medida liminar, inaudita altera pars, a fim de que seja determinado à Impetrada para que forneça em prazo não superior a 15 (quinze) dias), o fármaco Spinraza  à Impetrante;
+(..)
+d) Findo o prazo para informações, e ouvido o Ministério Público, devem os autos irem à conclusão para a decisão definitiva que será comunicada à autoridade coatora, que, desde já, requer-se seja de total procedência do presente writ, confirmado a medida liminar que se espera tenha sido deferida inicialmente;
+A autoridade apontada coatora defendeu sua ilegitimidade passiva com base no argumento de que "cabe à Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde (SCTIE/MS) os atos necessários à consecução dos objetivos da Portaria nº 1.297/2019, que estabelece o projeto piloto de acordo de compartilhamento de risco para incorporação de tecnologias em saúde, para oferecer acesso ao medicamento Spinraza (Nusinersena)". No mérito, afirma que a segurança deve ser denegada, porque "o fornecimento do Spinraza para tratar AME 5q tipo II só será possível após a conclusão e publicação do PCDT, devendo ainda observar as disposições do referido documento".
+O Ministério Público Federal opinou pela concessão da segurança em parecer cuja ementa é abaixo copiada:
+MANDADO DE SEGURANÇA. DIREITO À SAÚDE.FORNECIMENTO DE MEDICAMENTO. I - É POSSÍVEL O FORNECIMENTO DE MEDICAMENTO, ATÉ MESMO QUANDO NÃO INCORPORADO AO SUS POR PROTOCOLOS CLÍNICOS, DESDE QUE ATESTADAS A IMPRESCINDIBILIDADE DO USO DO FÁRMACO PARA A MANUTENÇÃO DA SAÚDE DO PACIENTE, A INCAPACIDADE FINANCEIRA DE ARCAR COM O CUSTO DO MEDICAMENTO PRESCRITO E A EXISTÊNCIA DE REGISTRO NA ANVISA. PRECEDENTES. II - INCUMBE AO PODER PÚBLICO O DEVER DE VIABILIZAR, GRATUITAMENTE, ÀQUELAS PESSOAS DESPROVIDAS DE RECURSOS FINANCEIROS, O FORNECIMENTO DE MEDICAMENTOS INDISPENSÁVEIS PARA A MANUTENÇÃO DA SAÚDE E DA VIDA. TAL GARANTIA ESTÁ ESTABELECIDA NO ART. 196 DA CF/88. III - PARECER PELA CONCESSÃO DA SEGURANÇA.
+É o relatório.
+Decido.
+A competência originária do STJpara julgar Mandados de Segurança é taxativamente descritano art. 105, I, b, da CF, que possui a seguinte redação:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+I - processar e julgar, originariamente:
+(..)
+b) os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+No caso em exame, não há ato inequívoco praticado pelo Ministro do Estado de Saúde e aalegada omissão na análise do pedido de acesso ao referido medicamento não pode ser a ele imputada.
+Com efeito, consoante se extrai da leitura da Portaria 1.297/2019, cabeà Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde (SCTIE/MS) os atos necessários à consecução dos objetivos da aludida norma, a qual regulamentao projeto piloto de acordo de compartilhamento de risco para incorporação de tecnologias em saúde, para oferecer acesso ao medicamento Spinraza (Nusinersena), in verbis:
+Art. 4º Os pacientes terão acesso ao medicamento Spinraza em centros de referência para o tratamento da AME 5q, com a disponibilização de cuidados multidisciplinares.
+Parágrafo único. Os centros serão selecionados pela SCTIE/MS entre os Serviços de Referência em Doenças Raras e os Hospitais Universitários Estaduais e Federais.
+Art. 5º O monitoramento dos pacientes e a avaliação dos desfechos clínicos nos centros de referência serão coordenados por instituição de pesquisa indicada pela SCTIE/MS, observados os termos acordados entre o Ministério da Saúde e a empresa farmacêutica.
+Parágrafo único. Caberá à SCTIE/MS acompanhar e fiscalizar as atividades realizadas pela instituição de pesquisa de que trata o caput.
+Portanto,o Ministro da Saúde não é parte legítimapara figurar no polo passivo do presente feito, o que afasta a competência do Superior Tribunal de Justiça para processar e julgar o writ. No mesmo sentido, em casos análogos:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. FORNECIMENTODE MEDICAMENTO.INEXISTÊNCIA DE ATO COMISSIVO OU DE OMISSÃO IMPUTÁVEIS AO MINISTRO DE ESTADO DA SAÚDE.ILEGITIMIDADE PASSIVA.
+1. A impetrante não indicou ato comissivo ou omisso imputável ao Ministro de Estado da Saúde para o fornecimento de remédios para tratamento de artrite reumatóide e lúpus eritematoso sistêmico.
+2. Ausente a comprovação de omissão ou de ato comissivo de responsabilidade do Ministro de Estado, resulta na sua ilegitimidade para figurar no polo passivo da lide.
+3. Precedentes: AgRg no MS 14082/DF, Rel. Ministra Denise Arruda, Primeira Seção, julgado em 11.3.2009, DJe 6.4.2009; MS 10.666/DF, Rel. Min. Herman Benjamin, Primeira Seção, julgado em 27.8.2008, DJe 19.12.2008.MandadodeSegurançadenegado, nos termos do art. 267, VI, do Código de Processo Civil, c/c art. 6º, § 5º da Lei n. 12.016/2009. (MS 14.870/DF, Rel. Ministro Humberto Martins, Primeira Seção, DJe 4/3/2010)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. FORNECIMENTODE MEDICAMENTO. INEXISTÊNCIA DE ATO COMISSIVO OU DE OMISSÃO IMPUTÁVEIS AO MINISTRO DE ESTADO DA SAÚDE. ILEGITIMIDADE PASSIVA. EXTINÇÃO DO PROCESSO SEM APRECIAÇÃO DO PEDIDO DE MÉRITO.
+1. Hipótese em que a impetração objetiva suprir suposta omissão do Ministro de Estado da Saúde no fornecimento de remédios para tratamento de cardiopatia e de alergia.
+2. Ausência de comprovação de omissão ou de ato comissivo da autoria pessoal e de responsabilidade funcional do Ministro de Estado, o que resulta na sua ilegitimidade para figurar no polo passivo da demanda. Precedentes do STJ.
+3.MandadodeSegurançaextinto, sem apreciação do pedido de mérito.É facultada à Impetrante a discussão da matéria nas vias ordinárias.(MS 10.666/DF, Relator Ministro Herman Benjamin, Primeira Seção, DJe de 19/12/2008)
+MANDADODESEGURANÇA.FORNECIMENTO DE MEDICAMENTO PARA TRATAMENTO DE HIV/AIDS. EXPEDIÇÃO DE NOTA TÉCNICA N. 18/07. INEXISTÊNCIA DE ATO OMISSIVO OU COMISSIVO IMPUTÁVEL AO MINISTRO DE ESTADO DA SAÚDE. LEGITIMIDADE PASSIVA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. É manifesta a ilegitimidade do Ministro de Estado da Saúde para integrar o polo passivo domandadodesegurançavisando a garantir o fornecimento do medicamento prescrito para tratamento de AIDS, pois não há nos autos comprovação de efetiva execução de ato tido como ilegal praticado pela referida autoridade.
+2. Busca-se com a impetração obter ordem contra a prática de atos decorrentes da aplicação da Nota Técnica n. 18/07, emanada pela Secretaria de Vigilância e Saúde, o que demonstra ser atribuição direta dessa Secretaria, e não do Ministro de Estado da Saúde, a responsabilidade pela programação de compra de medicamentos.
+3. Agravo regimental a que se nega provimento. (AgRg no MS 12.647/DF, Relator Ministro Teori Albino Zavascki, Primeira Seção, DJ de 16/4/2007)
+Ante o exposto, declaro a incompetência do STJ para apreciar o Mandado de Segurança e extingo o feito, nos termos do art. 6º, § 5º, da Lei 12.016/2009.
+Publique-se.
+Intimem-se.
