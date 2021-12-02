@@ -1,0 +1,19 @@
+DECISÃO
+1. Trata-se de recurso especial interposto por BRB BANCO DE BRASILIA SA, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS,assim ementado:
+CONSUMIDOR SERVIDOR PÚBLICO DISTRITAL VÁRIOS EMPRÉSTIMOS CONSIGNAÇÃO EM FOLHA DÉBITO EM CONTACORRENTE LIMITAÇÃO COGESTÃO RESPONSÁVEL DO CRÉDITO CONFIANÇA DEVERES ANEXOS DIGNIDADE DA PESSOA HUMANA.
+Em suas razões recursais, aponta a parte recorrenteofensa ao disposto noart. 1.037 do CPC, uma vez que o Tribunal a quonão sobrestou o feito em decorrência da afetação do Tema 1.085 pelo STJ.
+Crivo positivo de admissibilidade na origem.
+É o relatório.
+2. Com efeito, aSegunda Seção, apreciando o REsp 1.863.973/SP, REsp 1.877.113/SP e REsp 1.872.441/SP, decidiu afetar, como representativo de recurso repetitivo, o tema referente à "aplicabilidade ou não da limitação de 30% prevista na Lei n. 10.820/2003 (art. 1º, § 1º), para os contratos de empréstimos bancários livremente pactuados, nos quais haja previsão de desconto em conta corrente, ainda que usada para o recebimento de salário" (Tema n. 1.085):
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DISCUSSÃO CONSISTENTE EM DEFINIR SE, NO ÂMBITO DO CONTRATO DE MÚTUO BANCÁRIO, EM QUE HÁ EXPRESSA AUTORIZAÇÃO DO MUTUÁRIO-CORRENTISTA PARA O DESCONTO EM CONTA-CORRENTE DAS CORRELATAS PRESTAÇÕES, É APLICÁVEL OU NÃO, POR ANALOGIA, A LIMITAÇÃO DE 30% (TRINTA POR CENTO) PREVISTA NA LEI N. 10.820/2003.
+1. Delimitação da controvérsia: "Aplicabilidade ou não da limitação de 30% prevista na Lei n. 10.820/2003 (art. 1º, § 1º), para os contratos de empréstimos bancários livremente pactuados, nos quais haja previsão de desconto em conta corrente, ainda que usada para o recebimento de salário".
+2. Recurso especial afetado ao rito do artigo 1.036 do Código de Processo Civil.
+No caso, aCorte de origem entendeu pela existência de um diferencial no caso concreto que afastaria o comando desta Corte Superior para suspensão doprocesso(fl. 177):
+Inicialmente, cumpre registrar que a presente lide não está sujeita à suspensão determinada pelo e. STJ no REsp 1.872.441 3/SP (Tema 1.085), pois, na espécie, o apelado-autor é servidor público distrital, portanto, hipótese não abrangida pela delimitação da controvérsia:
+Defato, o referido recurso especial afetado ao rito dos repetitivos versa sobre a aplicabilidade da limitação prevista na Lei n. 10.280/2003, a qual, em seu art. 1º especifica sua incidência nas hipóteses de desconto de prestações em folha de pagamento de empregado regido pela CLT:
+Art. 1ºOs empregados regidos pelaConsolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, poderão autorizar, de forma irrevogável e irretratável, o desconto em folha de pagamento ou na sua remuneração disponível dos valores referentes ao pagamento de empréstimos, financiamentos, cartões de crédito e operações de arrendamento mercantil concedidos por instituições financeiras e sociedades de arrendamento mercantil, quando previsto nos respectivos contratos.
+Nessa linha, entendeu o Tribunala quoestar caracterizada diferença fundamental a excluir os servidores distritais do Tema 1.085, resolvendo a lide com base no Código do Consumidor.
+Dessarte, não se verifica a violação ao art. 1.037 do CPC.
+3. Ante o exposto, nego provimento ao recurso especial.
+Havendo  nos  autos  prévia  fixação  de  honorários  de  advogado  pelas  instâncias  de  origem,  determino  a  sua  majoração,  em  desfavor  da  parte  recorrente,  no  importe  de  10%  sobre  o  valor  já  arbitrado,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil,  observados,  se  aplicáveis,  os  limites  percentuais  previstos  nos  §§  2º  e  3º  do  referido  dispositivo  legal,  bem  como  eventual  concessão  da  gratuidade  da  justiça.
+Publique-se. Intimem-se.
