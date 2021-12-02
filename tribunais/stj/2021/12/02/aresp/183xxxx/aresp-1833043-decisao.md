@@ -1,0 +1,49 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ANIBAL CARLOS DE OLIVEIRA MARQUES contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES - CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL - FINANCIAMENTO ENTRE PARTICULARES -CLÁUSULA QUE PREVÊ CAPITALIZAÇÃO MENSAL - ABUSIVIDADE -RESTITUIÇÃO INTEGRAL DOS VALORES PAGOS - COMPENSAÇÃO DE TRIBUTOS NÃO QUITADOS - POSSIBILIDADE.
+- Não se enquadrando a promitente vendedora no conceito de instituição financeira, nem sendo integrante do Sistema Financeiro Nacional, a cobrança de juros capitalizados de forma mensal revela-se ilegal e abusiva.
+- Considerando que a referida ilegalidade e abusividade do encargo de período da normalidade contratual conduziu à rescisão contratual, o promitente vendedor não pode reter parte dos pagamentos efetuados, valendo-se de cláusula penal contratual.
+- Devem ser restituídos todos os valores pagos pelo promitente-comprador em razão de rescisão por culpa do promitente-vendedor, descontado eventuais tributos incidentes sobre o imóvel e não pagos durante o período de vigência do contrato.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto: no art. 6º, V, do CDC; nos arts. 473, 476, 478 e 479, do CC; e nos arts. 1.022, 1.025 e 489, do CPC.
+Impugnando o recorrente, em síntese:
+a) oreconhecimento de culpa dos vendedores pela rescisão contratual - e,consequentemente, a impossibilidade de retenção, também pelos vendedores, de 20% dos valores pagos pelos compradores, bem comoa forma de incidência da Súmula nº 543/STJ ("Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento"); e
+b)a não aplicação, no caso, dos termos do Tema Repetitivo nº 1.002, deste STJ("Nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei n. 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão").
+Contrarrazões ao recurso especial às fls. 406/413.
+Agravo em recurso especial às fls. 443/454. E correspondente contraminuta às fls. 469/477.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Com base na análise do conjunto fático-probatório constante dos autos, decidiu o Tribunal de origem no sentido de ter o vendedor como responsável pela rescisão do contrato analisado. Oque se verifica nos seguintes termos do acórdão impugnado:
+"Deste modo, razão assiste aos autores quando alegam abusividade no reajuste das parcelas mensais do financiamento do imóvel. A capitalização mensal é em grande parte a causa do reajuste das parcelas que subiram muito acima da inflação, de R$555,55 em maio/2013 para R$899,03 em novembro/2015.
+Tratando-se de encargo do período de normalidade contratual, a abusividade praticada na capitalização possui o condão de descaracterizar a mora (STJ -REsp 1.061.530/RS), bem como permite que a culpa pela rescisão seja atribuída ao réu.
+A cláusula 11 do contrato que autorizou a retenção de 20% do valor da negociação, estabelece que o referido montante é devido à parte "inocente" em caso de rescisão. Dessa forma, em razão da ilicitude constatada, inviável a retenção pelo réu, vejamos (..)."
+Tem-se que, in casu, a reputada "culpa pela rescisão" foi atribuída, na origem,em razão da constatação de que teria havido abusividade no reajuste das parcelas mensais do financiamento do imóvel - que teriam passado de R$ 555,55 para R$ 899,03 em um período de 30 meses.
+Deste modo, somente seria possível se reavaliar o responsável pela rescisão (com vistas a alterar o modo de incidência da Súmula nº 543/STJ)averiguando a ocorrência ou não da mencionada abusividadefrente às provas dos autos. O que é vedado pela Súmula nº 07/STJ.
+Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO. ATRASO NA ENTREGA DE IMÓVEL.CULPA DO VENDEDOR CONFIGURADA. DEVOLUÇÃO DA INTEGRALIDADE DOS VALORES PAGOS CUMULADA COM LUCROS CESSANTES ATÉ A IMISSÃO NA POSSE DO COMPRADOR. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. No caso dos autos, a Corte de origem consignou expressamente que a rescisão contratual decorreu de culpa exclusiva da vendedora, haja vista o descumprimento dos prazos contratados. A modificação quanto à responsabilidade pela rescisão contratual demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. A jurisprudência desta Corte orienta que, em caso de rescisão de contrato de compra e venda de imóvel por culpa da promitente-vendedora, os juros de mora sobre o valor a ser restituído incidem a partir da citação.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1761193/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/03/2021, DJe 13/04/2021)
+4. Por conseguinte, e no que tange a alegação de dissídio jurisprudencial, verifica-se que a agravante promoveu o"cotejo analítico do dissídio jurisprudencial com a decisão de outro tribunal" (fls. 448/451), comparando a conclusão obtida no presente feito com a obtida emum caso objetivamente diverso (Apelação Cível nº 1000823-63.2018.8.26.047, do TJSP). Haja vista este consistir emuma"resolução contratual por inexecução culposa dos promitentes compradores" (g.n.). E sendo certoque o atual processo tampouco trata de imóvel que demande reintegração de posse. O que leva à rejeição da alegação de ocorrência de dissídio jurisprudencial.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. INGRESSO POR COTA RACIAL. DESCLASSIFICAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/1973). INEXISTÊNCIA. REVISÃO DAS CONCLUSÕES DO TRIBUNAL A QUO QUANTO AO NÃO ENQUADRAMENTO COMO CANDIDATO COTISTA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. INAPLICABILIDADE DA TÉCNICA DO JULGAMENTO AMPLIADO. ORIENTAÇÃO FIRMADA EM IAC. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+(..)
+X - Por fim, o dissídio jurisprudencial, viabilizador do recurso especial pela alínea c do permissivo constitucional, não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+XI - Agravo interno improvido.
+(AgInt no REsp 1882090/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 04/10/2021, DJe 07/10/2021)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. VÍCIO DE INTEGRAÇÃO. INOCORRÊNCIA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL REQUISITOS.INEXISTÊNCIA.
+(..)
+5. Nos termos dos arts. 1.029, § 1º, do CPC/2015, 541, parágrafo único, do CPC/1973, e 255, § 2º, do RISTJ, para a comprovação da divergência jurisprudencial, não basta ao recorrente transcrever trechos de ementas ou a íntegra dos julgados apontados como paradigmas, sendo necessária a realização do cotejo analítico, a fim de evidenciar a similitude fática das situações e a divergência de interpretações entre os julgados confrontados.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1860409/AM, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 27/09/2021, DJe 07/10/2021)
+5. Já quanto ao transcrito Tema Repetitivo nº 1.002/STJ, registro ser correta a sua não utilização no caso. Uma vez que, "iniciativa do promitente comprador" diz respeito, em verdade, à sua culpa - e não à sua iniciativa processual. Conforme pode-se aduzir do REsp 1.740.911-DF, Rel. Min. Moura Ribeiro, Rel. Acd. Min. Maria Isabel Gallotti, Segunda Seção, por maioria, julgado em 14/08/2019, DJe 22/08/2019 (Tema 1002):
+RECURSO ESPECIAL REPETITIVO. ACÓRDÃO RECORRIDO PROFERIDO EM JULGAMENTO DE IRDR. PROMESSA DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA. RESOLUÇÃO IMOTIVADA PELO PROMITENTE COMPRADOR. DEVOLUÇÃO DE VALORES PAGOS. CLÁUSULA CONTRATUAL. PEDIDO DE ALTERAÇÃO. SENTENÇA CONSTITUTIVA. TERMO INICIAL DOS JUROS DE MORA. TRÂNSITO EM JULGADO.
+1. Para fins dos arts. 927 e 1.036 a 1.041 do CPC, fixa-se a seguinte tese: - Nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei n. 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão.
+2. Recurso especial provido. (g.n.)
+Ademais, o mencionado Recurso Repetitivo trata do termo inicial para a incidência de juros de mora. Sendo que, conforme o transladado trecho do acórdão, o Tribunal de origem reconheceu a descaracterização da mora no caso concreto.
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
