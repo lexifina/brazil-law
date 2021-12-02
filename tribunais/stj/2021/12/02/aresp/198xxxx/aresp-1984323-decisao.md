@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do CPC/2015), interposto por NOTRE DAME INTERMEDICA SAÚDE S.A., em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 381, e-STJ):
+AGRAVO INTERNO - Interposição contra decisão do relator que negou provimento ao recurso - Inconformismo - Desacolhimento - Parte agravada, portadora de estenose de canal vertebral de C4 a C7 com escoliose local e mielopatia, comprovou que é usuária do plano de saúde e necessitou do procedimento cirúrgico e materiais necessários à sua realização - Negativa de cobertura do procedimento cirúrgico discutido que restringe direito inerente à natureza do contrato, nos termos do art. 51, § 1º, inc. II, do Código de Defesa do Consumidor, sendo patente a abusividade da cláusula invocada pela parte ré, aplicando-se ao caso, ainda, a Súmula 102 deste Egrégio Tribunal de Justiça - Decisão mantida - Pretensão que é manifestamente improcedente - Aplicação de multa de 5% sobre o valor atualizado da causa - Inteligência do art. 1.021, § 4º, do Código de Processo Civil - Recurso desprovido com imposição de multa.
+Nas razões do Recurso Especial (fls. 339-349, e-STJ), arecorrentealega, além de dissídio jurisprudencial,ofensa aos seguintes dispositivos:
+(i) 371 e 479do CPC/2015, porquanto o indeferimento da complementação da prova pericial configura cerceamento de defesa;
+(ii) 421 e 422 do Código Civil, tendo em vista aausência de obrigatoriedade de custeio de procedimento cirúrgico indicado por profissional não credenciado ao plano de saúde, em caso de contrato coletivo de prestação de serviços médicos hospitalares.
+Não foram apresentadas as contrarrazões (fl. 389, e-STJ).
+Em juízo de admissibilidade (fls. 390-392, e-STJ), inadmitiu-se orecurso.
+Irresignada, aagravanteinterpõeo presente agravo, no qual refutaos fundamentos que embasaram odecisumhostilizado (fls. 395-404, e-STJ).
+Contraminuta às fls. 404-409, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1.Ainsurgentesustenta negativa de vigência aosarts.371 e 479 do CPC/2015, porquanto o indeferimento da complementação da prova pericial configura cerceamento de defesa.
+1.1 Acerca da matéria, a Corte local, com base nos elementos fático-probatórios dos autos, declarou a desnecessidade da complementação daprova pericial,conforme excerto a seguir(fl. 334, e-STJ):
+De início, afasto o alegado cerceamento de defesa em razão da alegada necessidade de complementação da perícia. As provas, documental e pericial, são suficientes à resolução da controvérsia.Ademais, o que se nota é a insatisfação da ré com as conclusões periciais que não tem o condão de elidir as constatações de ordem técnica.
+Nesse cenário, alterar a conclusão a que chegou o órgão julgador, no tocante à desnecessidade da complementaçãoda prova requerida, e acolher o inconformismo recursal, no ponto, demandaria o necessário revolvimento dos fatos e das provas dos autos, providência vedada na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DO CUSTEIO DE PROCEDIMENTO CIRÚRGICO. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. DISPENSA DA PRODUÇÃO DE PROVA PERICIAL. SISTEMA DA LIVRE PERSUASÃO RACIONAL DO MAGISTRADO. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. CIRURGIA DE COLUNA. RECUSA INDEVIDA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos da jurisprudência desta Corte, cabe ao Juiz, como destinatário final da prova, respeitando os limites adotados pelo CPC, decidir pela produção probatória necessária à formação do seu convencimento. O Tribunal estadual assentou que não era necessária a produção de prova pericial. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta a Súmula nº 7 do STJ.
+3. A questão relativa a cobertura do plano de saúde para a realização de cirurgia de coluna para a correção de espondilólise, foi solucionada pelo acórdão recorrido com base na aplicação da Súmula nº 609 do STJ, fundamento que não foi impugnado nas razões do recurso especial. Incide, à hipótese, o óbice da Súmula nº 283 do STF, por analogia.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp 1787991/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 10/05/2021, DJe 13/05/2021)
+1.2Ademais, esta Corte tem firmada a jurisprudência no sentido de que o Tribunal de origem é soberano na análise das provas, podendo, portanto, concluir pela necessidade da produção de outras provas ou pela suficiência das já produzidas. Isso porque, o art. 370 CPC/2015 (art. 130 CPC/73) consagra o princípio do livre convencimento motivado, segundo o qual o julgador fica habilitado a valorar as provas apresentadas e sua suficiência ao deslinde da causa.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. VIOLAÇÃO AOS ARTS. 131, 332, 334, I, DO CPC/73. NÃO OCORRÊNCIA. JUIZ É DESTINATÁRIO FINAL DAS PROVAS.JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA.SUFICIÊNCIA DAS PROVAS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. DESCABIMENTO. ACÓRDÃO RECORRIDO PUBLICADO NA VIGÊNCIA DO CPC/73. REFORMA DA DECISÃO AGRAVADA PARA AFASTAR OS HONORÁRIOS RECURSAIS FIXADOS. AGRAVO PROVIDO PARCIALMENTE.
+1.Não se verifica a alegada violação ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015), na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. No que tange ao alegado cerceamento de defesa ante o julgamento antecipado da lide, também não ficou caracterizada a violação de literal disposição legal, pois o juiz, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3. Para se concluir que a prova cuja produção fora requerida pela parte é ou não indispensável à solução da controvérsia, seria necessário se proceder ao reexame do conjunto fático-probatório, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7/STJ.
+4. Impossibilidade de majoração dos honorários recursais, na forma do § 11 do art. 85 do NCPC, visto que o aresto recorrido fora publicado na vigência do CPC/1973.
+5. Agravo interno a que se dá parcial provimento, tão-somente afastar os honorários advocatícios recursais fixados na decisão ora agravada.
+(AgInt no AREsp 1116396/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 26/06/2018, DJe 01/08/2018). Grifou-se
+2. De outra parte, destaca-se que o acórdão recorrido não se manifestou acerca dos arts.421 e 422 do Código Civil, dispositivos que fundamentam aalegadaausência de obrigatoriedade de custeio de procedimento cirúrgico indicado por profissional não credenciado ao plano de saúde, em caso de contrato coletivo de prestação de serviços médicos hospitalares.
+Com efeito, observa-se que o acórdão recorrido negou provimento ao recurso de apelação da insurgente tendo em vista a abusividade da negativa de cobertura de procedimento cirúrgico ante a exclusão de cobertura contratual, não se manifestando sobre a suposta indicação de procedimento por profissional não credenciado ao plano de saúde.
+Talomissão, por sua vez, não foi impugnadapor embargos de declaração, os quais, acaso conhecidos, poderiam dar ensejo à discussão damatéria, e, consequentemente, a seu prequestionamento.
+De fato, para que se configure o requisito de admissibilidade em tela, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, de modo a definir a correta interpretação da legislação federal.
+Nesse contexto, revela-se impossível a admissão do recurso especial, com fulcro nos enunciados firmados pelas Súmulas 282 e 356 do STF.
+Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIO. REQUISITOS PREENCHIDOS. NULIDADE. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL. PROCESSO UTILIZADO COMO DIFUSOR DE ESTRATÉGIAS. IMPOSSIBILIDADE DO MANEJO DA CHAMADA "NULIDADE DE ALGIBEIRA". ALEGADA CONFISSÃO JUDICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STJ E 356/STJ. REVISÃO DAS CONCLUSÕES DO TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+(..)
+5. A Corte regional não apreciou a tese da alegada confissão judicial e a parte recorrente não opôs embargos de declaração objetivando suprir eventual omissão, não estando presente o necessário prequestionamento. Incidência dos enunciados previstos nas Súmulas 282 e 356 do STF.
+(..)
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1181699/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/03/2018, DJe 09/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. EXIBIÇÃO DE DOCUMENTOS. LEGITIMIDADE PASSIVA. INTERESSE DE AGIR. COMPROVAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, tampouco opostos embargos declaratórios para sanar eventual omissão, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 699.757/PB, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 22/05/2018, DJe 28/05/2018)
+3.Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, nego provimento ao agravo. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem.
+Publique-se.
+Intime-se.
