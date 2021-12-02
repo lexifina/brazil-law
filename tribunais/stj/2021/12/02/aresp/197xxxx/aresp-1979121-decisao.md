@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDUARDO SAMPAIO MARBURG contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. EMBARGOS À ARREMATAÇÃO. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. REJEIÇÃO LIMINAR DA PETIÇÃO INICIAL. TERCEIRO QUE NÃO TEM LEGITIMIDADE PARA OPOR EMBARGO À ARREMATAÇÃO, QUE É RECONHECIDA APENAS AO PRÓPRIO DEVEDOR COM BASE NO ART. 746, CAPUT, DO CPC/73, VIGENTE À ÉPOCA DO AJUIZAMENTO DESTA DEMANDA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação do art. 5º, XXXV, da CF/88, no que concerne ao equívoco do acórdão recorrido, eis que não analisou o direito material do recorrente, violando, assim, o princípio da inafastabilidade da jurisdição, trazendo os seguintes argumentos:
+Conforme ficará amplamente demonstrado, o v. acórdão de fls. 218/2020, que rejeitou os embargos de declaração opostos, viola frontalmente o previsto no artigo 5º, inciso XXXV da Constituição Federal, no que tange o princípio da inafastabilidade da jurisdição, segundo o qual a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito, garantindo o livre acesso ao Judiciário, tendo a parte direito a ver apreciadas pelo juízo competente as suas razões e a ver fundamentadas as decisões que lhes negam conhecimento. (fl. 229).
+ ..
+Com o desprovimento do recurso, mais uma vez o recorrente sustenta a sensação de que não há socorro material à sua pretensão, ainda que os fatos demonstrem cabalmente a sua legitimidade como terceiro adquirente de boa-fé, inteiramente prejudicado pelo não acolhimento da ação de embargos. (fls. 234).
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial quando visa discutir violação de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
