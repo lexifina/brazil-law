@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdãoassim ementado (e-STJ fl. 210):
+Agravo de instrumento. Decisão que rejeitou exceção de pré-executividade, homologando os cálculos apresentados pela contadoria judicial com a inclusão dos juros mensais de mora. Inconformismo da ré executada. Em que pese silente o título executivo judicial acerca da incidência de juros moratórios, estes são devidos por força do artigo 407 do CC e artigo 322, § 1º do CPC. Entendimento consolidado no teor da Súmula 254 do STF. Recurso não provido.
+Os embargos de declaração foram acolhidos (e-STJ fl. 231):
+Embargos de declaração. Constatado erro material no relatório do acórdão. Houve, de fato, omissão acerca do termo inicial de incidência dos juros moratórios que deve ser sanado. Os juros devem incidir a partir da prolação da sentença. Embargos acolhidos sem efeitos infringentes.
+No recurso especial (e-STJ fls. 237/253), fundamentado no art. 105, III, "a" e "c", da CF, arecorrentealegou, além de dissídio jurisprudencial, violação dos arts. 394, 395, 396 e 398 do CC/2002, ao deixar o TJSP "de considerar que o tema versa sobre a restituição de valor em razão da rescisão contratual operada exclusivamente por inadimplência da compradora, a decisão foi contraditória julgando o tema como mera dívida em dinheiro, sem avaliar as particularidades do caso" (e-STJ fl. 242).
+Ressaltou que (e-STJ fl. 244):
+Desta feita, afigura-se nítido e cristalino que a obrigação da RECORRENTE em restituir percentual do montante pago pela RECORRIDA somente surgiu com o decreto judicial e, somente com o trânsito em julgado de tal decisão, é que se tornou devida a prestação, inexistindo, por óbvio, mora da RECORRENTE.
+Repita-se, na hipótese dos autos, em que a rescisão contratual se deu por culpa exclusiva da RECORRIDA, inadimplente com relação às parcelas do preço, o termo inicial dos juros moratórios deve ser a data do trânsito em julgado, pois inexiste mora anterior da parte da promitente vendedora, ora RECORRENTE.
+Sustentou que (e-STJ fls. 245/246):
+Antes de adentrarmos no cotejo analítico das decisões divergentes, é oportuno destacar que o C. Superior Tribunal de Justiça proferiu decisão colegiada de afetação do REsp nº 1.740.911/DF como representativo da controvérsia aqui em debate, nos termos do artigo 256-H do RISTJ, c/c os artigos 987, §2º e 1.037 do CPC, para que seja julgado pela Segunda Seção, sob a sistemática de recursos repetitivos.
+A questão controvertida foi assim delimitada: definir o termo inicial dos juros de mora incidentes sobre o valor a ser restituído pelo promitente vendedor de imóvel na hipótese de extinção do contrato por iniciativa do promitente comprador.
+Portanto, exatamente o tema aqui debatido, qual seja: o termo inicial dos juros de mora incidente sobre o valor a ser restituído pelo promitente vendedor do imóvel pela extinção do contrato por culpa do adquirente.
+Diante da questão pendente de julgamento, entendenecessária a suspensão do presente recurso até o julgamento do tema repetitivo nº1002 para posterior aplicação da tese ali definida.
+Destacou que a "C. 3a Turma do C. STJ, ao julgar o referido recurso, ao contrário do v. acórdão recorrido, entendeu que na hipótese de resolução contratual do compromisso de compra e venda em que postulada a restituição das parcelas pagas, os juros moratórios serão computados a partir do trânsito em julgadoda decisão" (e-STJ fl. 248).
+Na petição de fls. 361/427 (e-STJ), a parte agravante requer a concessão de efeito suspensivo ao presente recurso.
+É o relatório.
+Decido.
+Quanto ao termo inicial dos juros de mora, o TJSP entendeu que (e-STJ fl. 234):
+Os juros devem incidir a partir da prolação da sentença.
+Com efeito, em que pese o entendimento anteriormente adotado (no sentido de que os juros de mora são devidos a contar da citação, em virtude do disposto nos artigos 240 do Código de Processo Civil e 405 do Código Civil), este Relator rendeu-se ao entendimento perfilhado por esta Nona Câmara de Direito Privado, que reconhece que os juros de mora, em casos como o dos autos, são devidos apenas após a publicação da sentença.
+Isso porque, somente a partir deste momento, em que há decisão judicial resolvendo o contrato celebrado entre as partes e condenando a fornecedora a restituir ao consumidor percentual do valor por ele pago, é que surge obrigação líquida e certa, de modo que, somente a partir desta data, é que devida a incidência de juros de mora.
+Afasta-se, assim, o pleito das rés, ora apelantes, para aincidência de juros ocorra após o trânsito em julgado, mantendo-se a decisão que homologou os cálculos em que computados juros de mora a partir da prolação da sentença.
+O Tribunal de origem não observou a jurisprudência desta Corte Superior que,no julgamento do REsp n.1.740.911/DF - submetido ao rito dos recursos repetitivos -, estabeleceu que:
+RECURSO ESPECIAL REPETITIVO. ACÓRDÃO RECORRIDO PROFERIDO EM JULGAMENTO DE IRDR. PROMESSA DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA. RESOLUÇÃO IMOTIVADA PELO PROMITENTE COMPRADOR.DEVOLUÇÃO DE VALORES PAGOS. CLÁUSULA CONTRATUAL. PEDIDO DE ALTERAÇÃO. SENTENÇA CONSTITUTIVA. TERMO INICIAL DOS JUROS DE MORA.TRÂNSITO EM JULGADO.
+1. Para os fins dos arts. 927 e 1.036 a 1.041 do CPC, fixa-se a seguinte tese: - Nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei n. 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão.
+2. Recurso especial provido.
+(REsp 1740911/DF, RelatorMinistro MOURA RIBEIRO, Relatorp/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 14/8/2019, DJe 22/8/2019.)
+No voto, a Ministra Maria Isabel Gallotti destacou que:
+A sentença que substitui cláusula contratual, sob esse aspecto, tem claramente natureza constitutiva, com efeitos ex nunc, isto é, a partir da formação da nova obrigação pelo título judicial. A parte condenatória da sentença - restituição dos valores pagos após a revisão da cláusula penal - somente poderá ser liquidada após a modificação, pela decisão judicial, da cláusula questionada.
+Os juros de mora relativos à restituição das parcelas pagas, em consequência, devem incidir a partir da data do trânsito em julgado da decisão, porquanto inexiste mora anterior do promitente vendedor.
+Somente a partir do trânsito em julgado da decisão, portanto, é que poderiam incidir os juros de mora. Antes disso, não há que se falar em mora da vendedora se a rescisão do contrato se deu por culpa dos compradores com pedido de restituição de valores em desconformidade do que fora pactuado.
+Em face do exposto, DOU PROVIMENTO ao recurso especial, determinandoo retorno dos autos ao Tribunal de origem para fixar os juros de mora, nos termos da jurisprudência do STJ,e  JULGO  PREJUDICADO  o  pedido  de  efeito  suspensivo.
+Publique-se e intimem-se.
