@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de Justiça do Estado do Estado de São Paulosob o pálio da seguinte ementa:
+Apelações. Responsabilidade civil. Pedido de indenização por danos morais e estéticos. Erro médico. Ilegitimidade passiva do médico responsável pelo atendimento. Servidor que somente responde administrativa e civilmente perante a pessoa jurídica a qual se vincula. Danos morais e estéticos configurados. Esquecimento de gaze na cavidade abdominal da paciente. Nexo causal entre a cirurgia abdominal e os danos sofridos pela autora. Responsabilidade civil da Fazenda Estadual caracterizada. Faute du servisse. Agente público que, no momento dos fatos, estava no exercício da função, situação que impõe a responsabilidade civil do Estado. Redução do quantum indenizatório. Aplicação do tema 810 do STF. Sentença parcialmente reformada. Ilegitimidade passiva do agente público reconhecida ex officio. Recurso do agente público prejudicado. Recurso da FESP provido em parte.
+A parte recorrente, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação legal, pleiteando, em síntese:
+Demonstrado o cabimento do presente recurso, impõe-se a sua admissão, restando demonstrado o cotejo analítico com o julgado de Tribunal diverso, que mostra com clareza que o v. acórdão recorrido diverge totalmente do entendimento jurisprudencial, motivo pelo deve ser reformado para manter a r. sentença de primeira instância, tendo em vista a justa e necessária indenização moral que os danos sofridos exigem. Assim, contanto com os áureos suprimentos dessa alta Corte, os Recorrentes aguardam com extrema confiança e certeza que essa Colenda Corte, através de seus ilustres e eminentes Ministros, que recebam o presente recurso, conhecendo-o e, revendo a matéria, dê-lhe provimento para reformar o V. Aresto proferido pela 3ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, restabelecendo, desta forma, a aplicação da mais soberana e escorreita JUSTIÇA!
+Contrarrazões apresentadas às fls. 487-502.
+Decisão de admissibilidade do Recurso Especial às fls. 506-507.
+Parecer do Ministério Público às fls. 517-520:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO SEM INDICAÇÃO EXPRESSA DE ALÍNEA DO PERMISSIVO CONSTITUCIONAL. ALEGAÇÃO DE DIVERGÊNCIA PRETORIANA INFERIDA DAS RAZÕES RECURSAIS. AUSÊNCIA DE ESPECIFICAÇÃO DOS DISPOSITIVOS LEGAIS SUPOSTAMENTE CONTRARIADOS PELO ACÓRDÃO RECORRIDO E SOBRE OS QUAIS RECAIRIA O HIPOTÉTICO DISSÍDIO JURISPRUDENCIAL. DEFICIÊNCIA QUE IMPEDE A EXATA COMPREENSÃO DA CONTROVÉRSIA. SÚMULA N.º 284/STF. PARECER PELO NÃO CONHECIMENTO DO RECURSO.
+É o relatório.
+Decide-se
+Os autos foram recebidos neste Gabinete em 10.11.2021.
+Cuida-se de inconformismo contra acórdão do Tribunal de origem que reduziu o valor da indenização por danos morais e estéticos decorrentes deerro médico.
+A irresignação não merece prosperar.
+1. Histórico da demanda
+Na origem, o Juízo de piso julgou parcialmente procedente o pedido de indenização ajuizado por Amanda Caroline de Camargo contraGilberto Pastori, do Hospital das Clínicas de Marília e da FAMEMA - Faculdade de Medicina de Marília, para condenar, solidariamente, os requeridos ao pagamento de R$ 20.000,00 (vinte mil reais), a título de danos morais, em razão do esquecimento de uma gaze dentro do corpo da Autora após a realização de procedimento cirúrgico (e-STJ, fls. 374-379).
+O Tribunal a quo deu parcial provimento à Apelação manifestada pela Fazenda do Estado de São Paulo, para reduzir o montante indenizatório a R$ 10.000,00 (dez mil reais).
+2. Aplicação da Súmula 284/STF
+Com efeito, quanto à tese de dissenso pretoriano em relação ao valor arbitrado a título de danos morais, a verdade é que se deixoude mencionar, nas razões recursais, os dispositivos legais supostamente contrariados pelo acórdão recorrido e sobre os quais recairia a hipotética divergência jurisprudencial.
+Com efeito, a parte recorrente não individualizou os dispositivos normativos violados, tornando patente a falta de fundamentação do Apelo nobre. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Na mesma linha, destaca-se o entendimento do STJ:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 8/8/2014)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. BENEFÍCIO PREVIDENCIÁRIO. RECURSO ESPECIAL INTERPOSTO APENAS PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMOSTRADO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+(..) 3. Para que o Especial seja interposto exclusivamente pelo dissídio jurisprudencial, deve a parte recorrente indicar, de maneira clara e precisa, que artigo de lei federal foi, no seu entender, interpretado de forma equivocada pela Corte de origem, o que não ocorreu na espécie.
+4. Agravo Interno não provido.
+(AgInt no AREsp 872.069/SP, Rel. Ministro HERMAN BENJAMIN - SEGUNDA TURMA, DJe 7/10/2016)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENSÃO MILITAR. FILHA.  ..  AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA RECEBIDO INTERPRETAÇÃO DIVERGENTE DAQUELA FIRMADA POR OUTROS TRIBUNAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. (..).
+(..) IV. Pela divergência jurisprudencial, o Recurso Especial requisita tenham os acórdãos - recorrido e paradigma - examinado a questão sob o enfoque do mesmo dispositivo de lei federal. Tem-se, dessa maneira, que a ausência de particularização do dispositivo de lei federal, ao qual os acórdãos teriam dado interpretação divergente, consubstancia deficiência bastante a inviabilizar o conhecimento do Recurso Especial, ante o óbice da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+(..) VI. Agravo interno improvido.
+(AgInt no REsp 1.377.313/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 26/4/2017)
+Assim, revela notar que "para ter cabimento o recurso especial pela letra "a", é preciso demonstrar de forma inequívoca e frontal a violação ao texto infraconstitucional, e não de forma implícita ou oblíqua" (RSTJ 57/21). Logo, não se viabiliza o Recurso Especial por não estarem cumpridos os requisitos necessários à sua interposição.
+3. Conclusão
+Consubstanciado o que previsto na Súmula Administrativa 7/STJ, condena-se a parte recorrente ao pagamento de honorários advocatícios de 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Pelo exposto, não se conhece do Recurso Especial.
+Publique-se.
+Intimem-se.
