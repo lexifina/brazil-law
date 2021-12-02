@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especialporincidência da Súmula n. 7 do STJ eausência de violação do art. 1.022, I e II, do CPC/2015.
+O acórdão recorrido está assim ementado (e-STJ fls. 1.577):
+AGRAVO DE INSTRUMENTO - AÇÃO MONITÓRIA - ASSISTÊNCIA JUDICIÁRIA GRATUITA - Decisão que revogou o benefício da justiça gratuita - Pleito de reforma da decisão - Não cabimento - Agravante que não pode ser enquadrada na condição de necessitada a que alude o art. 98 do CPC - Declaração de pobreza e documentos juntados aos autos que não são suficientes para demonstrar a hipossuficiência - Decisão mantida - AGRAVO DE INSTRUMENTO não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.628/1.632).
+No recurso especial (e-STJ fls. 1.598/1.616), interposto com base no art. 105, III, "a", da CF, arecorrente apontou violação dos seguintes dispositivos:
+(i) arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, alegando deficiência na prestação jurisdicional e pleiteando seja declarada omissão do acórdão quanto às matéria ventiladas nos embargos de declaração,
+(ii) art. 10 do CPC/2015, afirmando que "o v. acordão, ao entender que a análise da situação financeira da recorrente haveria de ser apurada com base nas condições de seu cônjuge (certamente, sem compreender que ambos se encontram separados de fato em virtude da patologia que acoima a recorrente), apresentou uma base discursiva sobre a qual jamais foi dada a oportunidade da recorrente de se manifestar" (e-STJ fl. 1.611),
+(iii) art. 98 do CPC/2015, sustentando que "o v. acórdão recorrido não abordou, em relação à recorrente, qualquer critério objetivo para elidir a presunção relativa de hipossuficiência financeira, de modo que o pronunciamento objurgado deve serreadequado ao mais contemporâneo entendimento manifestado por esse Superior Tribunal de Justiça" (e-STJ fl. 1.614).
+Busca o provimento do recurso especial, a fim de que (e-STJ fl. 1.615):
+(..) conceda à recorrente os benefícios da justiça gratuita, uma vez que não há condições financeiras de desembolsar as custas devidas em virtude do preparo do presente Recurso Especial.
+Conhecido o apelo nobre, quer pela presença dos requisitos legais, quer em virtude do afastamento do dever acerca do recolhimento do preparo em razão dos benefícios da gratuidade deferidos nesta instância especial, pugna pelo provimento do presente recurso, a fim de que seja declarada a nulidade do v. acórdão, em razão da ausência de fundamentação, em manifesta contrariedade aos comandos normativos expostos em preliminar recursal.
+Anda que superado esse capítulo, requer a recorrente que ao presente seja dado provimento a fim de se reformar o v. acórdão e, ato contínuo, conceder à recorrente os benefícios da gratuidade da justiça.
+Foram oferecidas contrarrazões(e-STJ fls. 1.639/1.653).
+No agravo (e-STJ fls. 1.659/1.677), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 1.681/1.694).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu. Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 489 e 1.022 DO CPC/2015. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ
+3. No caso concreto, o Tribunal de origem concluiu pela inexistência de abusividade da rescisão contratual, pagamento dos danos materiais e ausência de danos morais. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.659.130/RS, de minha relatoria, QUARTA TURMA, julgado em 30/11/2020, DJe 09/12/2020.)
+OTJSPentendeu que a recorrentenão fariajus à gratuidade da justiça pleiteada, afirmando que o patrimônioconjugal afasta a presunção de miserabilidade alegada, segundo se extrai do seguinte excerto (e-STJ fls. 1.579/1.580):
+Com efeito, em que pese nas declarações de imposto de renda da agravante não conste o recebimento de rendimentos nem a existência de bens (fls. 20/27), é sabido que ela é casada sob o regime de comunhão total de bens (fl. 170 dos autos principais), o que exige que se avalie também o patrimônio de seu marido, o Senhor ARNALDO CÂNDIDO RODRIGUES FILHO.
+De acordo com as declarações de imposto de renda juntadas(fls. 171/184 dos autos principais), no ano de 2.015, o patrimônio do Senhor ARNALDO CÂNDIDO RODRIGUES FILHO era de R$ 964.283,44 (novecentos e sessenta e quatro mil, duzentos e oitenta e três reais e quarenta e quatro centavos), o que não condiz com um estado de miserabilidade.
+Também não se pode ignorar que o casal é proprietário de imóvel avaliado em 2.013 em R$ 3.346.000,00 (três milhões, trezentos e quarenta e seis mil reais) (fls. 153 dos autos principais), localizado em condomínio de luxo em Ubatuba. Apesar de sobre o bem recair alienação, não há prova nos autos de que ele foi retomado pelo agravado.
+Note-se, ademais, que a agravante não comprova os gastos que alega ter com o seu tratamento, reduzindo sua capacidade financeira a ponto de não ter condições de arcar com as custas e despesas do processo sem prejuízo do sustento de sua família.
+Desta forma, deve ser mantida a r. decisão de 1ª instância agravada.
+Ultrapassar as conclusões da Corte local quanto à ausência de prova de que arecorrentefaria jus à concessão do benefício da gratuidade da justiça demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula n. 7 do STJ.Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO. EMBARGOS À EXECUÇÃO. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. POSICIONAMENTO DO STJ. INDEFERIMENTO DO PEDIDO DE JUSTIÇA GRATUITA. NÃO COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. APLICAÇÃO DA SÚMULA Nº 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. O STJ adota o posicionamento de que o pedido de gratuidade de justiça pode ser negado se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão do benefício, desde que a parte requerente tenha sido previamente intimada para comprovar a alegada hipossuficiência, o que também atrai a incidência da Súmula nº 83 do STJ, aplicável em ambas as alíneas do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.505.686/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJ 14/09/2020, DJe 17/09/2020.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
