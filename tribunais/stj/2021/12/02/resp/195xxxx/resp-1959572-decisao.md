@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA. TÍTULO EXECUTIVO JUDICIAL. JUROS MORATÓRIOS. DECRETO-LEI N.º 3.365/41. INCONSTITUCIONALIDADE. SUPREMO TRIBUNAL FEDERAL. TEMA 733.
+- O Supremo Tribunal Federal declarou a constitucionalidade art. 15- A, caput, e § 1º, do Decreto-lei n.º 3.365/41 ao julgar o mérito da ADI 2.332/DF, na sessão realizada em 17/05/2018, ou seja, após o trânsito em julgado do acórdão executado, passando a reconhecer o percentual dos juros compensatórios em 6% a.a.
+- O índice de 12% a.a. aplicável para os juros compensatórios foi fixado no título executivo antes do julgamento de ação direta de inconstitucionalidade pelo Supremo Tribunal Federal (ADI 2332), não podendo ser alterado no curso da execução, conforme se depreende do art. 525, §§ 14º a 15º, do CPC.
+- Conforme estabelece a tese firmada no Tema 733 do Supremo Tribunal Federal, a decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das decisões anteriores que tenham adotado entendimento diferente. Para que tal ocorra, será indispensável a interposição de recurso próprio ou, se for o caso, a propositura de ação rescisória própria, nos termos do art. 485 do CPC, observado o respectivo prazo decadencial (art. 495).
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente afirma que a legislação federal foi ofendida. Aduz:
+O presente recurso tem por fundamento o art. 105, inc. III, "a", da Constituição de 1988, tendo em vista contrariedade ou negativa de vigência ao disposto aos arts. 475- L e 741, § único, do CPC (1973), arts. 525, §§ 1º, III e VII e §§ 11 e 12, do NCPC, arts. 404, § único, e 944, do CC, art. 15-A, caput e parágrafos do decreto-lei n.3.365/41, art. 5º, §9º da lei 8.629/93, art. 5º, §3º da lei 8.177/91, Medidas Provisórias n. 1.557/97, 1.901-30/99, 700/15 e 759/16, artigos 3º, III, art.5º, XXIV, 62, §11; 170, 182, §4º, III; 184, 186, I a IV, todos da CF/88.
+(..)
+A) NULIDADE DA DECISÃO - AUSÊNCIA DE DEVIDA FUNDAMENTAÇÃO
+(..)
+Com todo o respeito, mas o v. acórdão de apelação não fundamentou a decisão, nos termos do art. 489 do NCPC, haja vista que apenas se utilizou de conceitos genéricos, invocou argumentos que se prestariam a justi car qualquer outra decisão, não enfrentou a tese exposta pelo INCRA.
+(..)
+B) NEGATIVA DE VIGÊNCIA AO ARTIGO 1.022, II, DO CÓDIGO DE PROCESSO CIVIL/2015): (..)
+B1) Ausência de saneamento da omissão quanto à desnecessidade de ajuizamento de ação rescisória - jurisprudência do Superior Tribunal de Justiça - dos arts. 525, §§ 14 e 15 do CPC e art 15-A do Decreto-Lei n. 3.365/41
+(..)
+B2) Ausência de saneamento da omissão quanto à inexistência de coisa julgada quanto à incidência dos juros legais
+(..)
+B3) Ausência de saneamento da omissão quanto ao pedido subsidiário:da aplicação MP 1.577/97 (vigente ao tempo do trânsito em julgado da sentença - tempus regit actum)
+(..)
+B4) Ausência de saneamento da omissão quanto à aplicação da MP 700/2015 - percentual de 0% de juros compensatórios no período da sua vigência
+É o relatório.
+Decido.
+Preliminarmente, constata-se que não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou o feitotendo enfrentado expressamente os pontos cuja omissão se aduz.
+O Tribunal de origem decidiu a controvérsia relativa aos juros moratórios e analisou a tese relativa àsuperveniência do julgamento pelo STF da ADI 2.332/DF pelo STF, embora contrariamente ao interesse da parte ora recorrente. O aresto vergasto decidiu que existia coisa julgada que somente poderia ser desconstituída pela via da Ação Rescisória.
+Ao decidir a controvérsia, o Tribunala quoconsignou:
+A decisão agravada tem o seguinte teor, no quanto interessa ao exame do presente recurso (evento 43 - DESPADEC1, dos autos originais):
+(..)
+8.1. Dos juros compensatórios
+(..)
+Ademais, quando as expropriadas postularam a execução do título judicial (evento 2 - EXECSENT165), aduzindo serem credoras de indenização complementar no importe de R$ 5.134.602,57 (62,27% para Madeireira Pinhalão S/A Indústria e Comércio e 37,73% para Vimade - Vitória Indústria e Comércio de Madeiras Ltda), a autarquia, devidamente citada, ao interpor os embargos à execução nº 5012400-41.2012.404.7000, nada questionou quanto aos índices adotados a título de juros e correção monetária.
+(..)
+Ou seja, quando do momento para questionar o percentual dos juros compensatórios utilizado pela parte exequente, o INCRA não só deixou de se insurgir, como expressamente afirmou que não foram constada irregularidades na metodologia dos cálculos.
+Assim, ainda que se superasse a arguição de ofensa à coisa julgada, operou- se a preclusão consumativa para a expropriante questionar os cálculos elaborados.
+Em que pese a argumentação da parte agravante, tenho que o decisum merece confirmação, não havendo, por ora, elementos suficientes em sentido contrário.
+(..)
+O título executivo judicial (autos nº 2000.04.01.021278-4) transitou em julgado em 11/10/2011 (evento 2 - OFÍCIO_C167, p. 9, proc. de origem), determinando a incidência de juros compensatórios à razão de 12% ao ano.
+Por sua vez, o Supremo Tribunal Federal declarou a constitucionalidade art. 15-A, caput, e § 1º, do Decreto-lei n.º 3.365/41 ao julgar o mérito da ADI 2.332/DF, na sessão realizada em 17/05/2018, ou seja, após o trânsito em julgado do acórdão executado, passando a reconhecer o percentual dos juros compensatórios em 6% a.a.
+Como se vê, o índice de 12% a.a. aplicável para os juros compensatórios foi fixado no título executivo antes do julgamento de ação direta de inconstitucionalidade pelo Supremo Tribunal Federal (ADI 2332), não podendo ser alterado no curso da execução, conforme se depreende do art.525, §§ 14º a 15º, do CPC, verbis:
+(..)
+A propósito, cumpre referir a tese firmada no Tema 733 daquela Corte: RE 730462 - A decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das decisões anteriores que tenham adotado entendimento diferente. Para que tal ocorra, será indispensável a interposição de recurso próprio ou, se for o caso, a propositura de ação rescisória própria, nos termos do art. 485 do CPC, observado o respectivo prazo decadencial (art. 495).
+Sendo assim, não é possível, neste momento processual, modificar os termos do título executivo, sob pena de afronta à coisa julgada e à segurança jurídica. Se o agravante entende haver vício no julgado apto a ensejar a sua rescisão, deverá fazer uso do meio processual adequado.
+Em caso análogo, o STJ já reconheceu a inexistência de negativa de prestação jurisdicional. A propósito, confira-sa a ementa do referido jugado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA.EXECUÇÃO DE SENTENÇA. JUROS COMPENSATÓRIOS. REVISÃO DOS CRITÉRIOS DE CÁLCULO. PRECLUSÃO E COISA JULGADA MATERIAL. RELATIVIZAÇÃO.IMPOSSIBILIDADE. LEI SUPERVENIENTE. EXAME. CASO CONCRETO.
+INVIABILIDADE.
+1. O Plenário do STJ decidiu que, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2). 2. Não há violação do art. 535 do CPC/1973 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. A primeira Seção desta Casa, no julgamento do REsp 1.189.619/PE, submetido ao rito do art. 543-C do CPC/73, firmou o entendimento de que a norma do artigo 741, parágrafo único, do CPC/73 deve ser interpretada de forma restrita, tendo em vista que representa uma exceção ao princípio da imutabilidade da coisa julgada, abarcando tão somente as sentenças fundadas em norma inconstitucional, assim consideradas as que: "(a) aplicaram norma declarada inconstitucional; (b) aplicaram norma em situação tida por inconstitucional; ou (c) aplicaram norma com um sentido tido por inconstitucional".
+4. Hipótese em que, no título exequendo, ficaram estabelecidas expressamente a base de cálculo e o percentual dos juros compensatórios, à luz do entendimento existente na época do julgamento (Súmulas 110 do extinto TFR, 113 do STJ e 618 do STF), e, apesar de nada constar sobre a aplicação das Medidas Provisórias n. 1.577/1997 e 2.183-56/2001, o expropriante não se manifestou na fase de conhecimento sobre eventual equívoco quanto ao índice aplicado, operando-se a preclusão e o instituto da coisa julgada.
+5. O Supremo Tribunal Federal declarou a constitucionalidade do art. 15-A do Decreto-Lei n. 3.365/1941 no julgamento do mérito da ADI 2.332/DF, na sessão de 17/05/2018, após o trânsito em julgado da sentença, o que reforça o entendimento de que, in casu, não se aplica o art. 741, parágrafo único, do CPC/1973.
+6. Não sendo ultrapassado os requisitos essenciais à cognição da matéria levantada no recurso especial, mostra-se inviável a aplicação da Súmula 456 do STF, competindo ao Juízo da execução analisar a legislação processual superveniente apontada pelo ora agravante (Lei n. 13.465/2017).
+7. Agravo interno desprovido.
+(AgInt no AREsp 929.166/GO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 25/06/2019, DJe 09/08/2019)
+Além disso, o acórdão recorrido, ao reportar-se à sentença recorrida, anotou que houvepreclusão consumativa para a parte recorrente insurgir-se quanto aos juros por deixar de se manifestar, oportunamente, nos Embargos à Execução. Não é o julgador obrigado a manifestar-se quanto a argumento impertinentes ao deslinde do feito.
+Portanto, não há vícios de omissão ou contradição, pois a Corte de origem apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Além disso, a parte recorrente não infirma o argumento de que ocorreupreclusão consumativa, de modo que incide no caso o disposto nas Súmulas 283/STF e 284/STF.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. DESAPROPRIAÇÃO. IMPLANTAÇÃO DO CORREDOR TRANSOLÍMPICO. EXECUÇÃO DE SENTENÇA. IMPUGNAÇÃO. EXCESSO QUANTO AO CÁLCULO DE CORREÇÃO DOS JUROS. DECISÃO DE PROCEDÊNCIA REFORMADA PELO TRIBUNAL A QUO. JUROS COMPENSATÓRIOS. DISCUSSÃO EM RAZÃO DA ADI 2.332/DF. COISA JULGADA. DECISÃO DO STF POSTERIOR À DECISÃO DOS AUTOS. FALTA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO DECISUM.
+INCIDÊNCIA DAS SÚMULAS NS. 283 E 284/STF. PRECLUSÃO. PRECEDENTE ANÁLOGO: ARESP 929.166/GO, PRIMEIRA TURMA. PEDIDO DE TUTELA PROVISORIA DO RECORRIDO. PRESENÇA DO FUMUS BONI IURIS E DO PERICULUM IN MORA. SITUAÇÃO EXCEPCIONAL. DETERMINAÇÃO DA LIBERAÇÃO DE 80% DA VERBA INCONTROVERSA DEPOSITADA.
+I - Na origem, o Município do Rio de Janeiro ajuizou ação contra o Espólio de Nair Louzada, objetivando a desapropriação total do terreno do imóvel de sua propriedade, para fins de utilidade pública, com vistas à implantação do Corredor Transolímpico, tendo sido proferida sentença de procedência do pedido, declarando a área incorporada ao patrimônio público e fixando a respectiva verba indenizatória e aplicação de juros moratórios nos termos do art.
+15-B do Decreto-Lei n. 3.365/1941e juros compensatórios de 12% ao ano.
+II - Em sede de execução de sentença, foi acolhido pedido de impugnação feito pela municipalidade, sob o fundamento de excesso em razão de duplicidade de atualização, na medida em que foram elaboradas duas planilhas: uma para juros moratórios, outra para compensatórios, ambas corrigidas.
+III - Em sede recursal, o Tribunal reformou a sentença e, em sede de embargos declaratórios, determinou a liberação do valor, com expedição do mandado de pagamento em favor do Espólio.
+IV - O recurso especial da municipalidade foi recebido, na origem, com pedido de efeito suspensivo, e seu inconformismo está relacionado com a questão dos juros compensatórios, pugnando pelo índice de 6% (seis por cento) ao ano, decorrente do julgamento da ADI 2332, pelo STF.
+V - O debate acerca dos juros compensatórios sob tal enfoque somente foi levado ao Tribunal a quo em sede de embargos declaratórios, ocasião em que a decisão estaria acobertada pela imutabilidade da coisa julgada, e que a decisão da referida ADI foi posterior ao trânsito em julgado da ação ordinária, tornando imutável e indiscutível a decisão de mérito não mais sujeita a recurso.
+VI - Incidem os enunciados sumulares ns. 283 e 284/STF ao presente recurso, na medida em que o Município deixou de atacar os fundamentos apresentados no julgado acerca do trânsito em julgado da respectiva sentença, embasadora dos cálculos homologados, e sobre a decisão do STF ter sido publicada posteriormente, utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo.
+VII - Ainda que se pudesse ultrapassar tal óbice, o fato é que o recurso especial da municipalidade também não alcançaria sucesso, uma vez que a hipótese se amolda perfeitamente a precedente desta Corte, no qual ficou consignado que a constitucionalidade do art.
+15-A do Decreto-Lei n. 3.365/1941, declarada no julgamento da ADI 2.332/DF, foi posterior ao trânsito em julgado da sentença dos autos, não sendo cabível a alteração no percentual dos juros compensatórios formulada (AgInt no AREsp 929.166/GO, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 09/08/2019) VIII - O Espólio recorrido requereu tutela provisória de urgência, pretendendo a liberação da verba devidamente depositada em juízo desde 2014, em razão do delicado estado de saúde de sua representante, fato devidamente comprovado com a documentação acostada aos autos.
+IX - Evidenciada a presença dos requisitos do fumus boni iuris e do periculum in mora, sendo a hipótese dos autos bastante peculiar, mas não deixando de observar a existência de recurso extraordinário da municipalidade a ser julgado pelo STF, e por poder de cautela, defiro o pedido formulado, determinando, desde logo, a liberação de 80% (oitenta por cento) do valor incontroverso depositado, em favor do recorrido, independentemente de eventual recurso contra a presente decisão do recurso especial.
+X - Recurso especial não conhecido.
+(REsp 1896374/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 17/11/2020, DJe 23/11/2020)
+Ante o exposto, conheço doRecurso Especial, apenas no tocante à alegada violação aos arts. 489 e 1.022 do CPC/2015, e, nessa parte, nego-lhe provimento.
+Publique-se.
+Intimem-se.
