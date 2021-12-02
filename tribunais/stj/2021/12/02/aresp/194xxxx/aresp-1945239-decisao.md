@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS DA FASE EXECUTIVA. EXCLUSÃO DA PARCELA DO CRÉDITO ATINENTE A RESSARCIMENTO DE DESPESAS PROCESSUAIS DA FASE DE CONHECIMENTO. INADEQUAÇÃO. AUSÊNCIA DE FUNDAMENTO LEGAL PARA EXCLUSÃO SEGUNDO A NATUREZA DO CRÉDITO. BASE DE CÁLCULO. VALOR EXEQUENDO AO FINAL DEVIDO. AGRAVO DE INSTRUMENTO PROVIDO.
+Os Embargos de Declaração foram rejeitados (fl. 77).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 85, § 2º, e 1.022 do CPC/2015, sob o argumento de que "não deve incidir honorários sobre a parcela identificada como restituição das custas em sede de cumprimento de sentença" (fl. 92, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26.10.2021.
+Não se configura ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. In casu, fica claro que não há vícios a serem sanados e que os aclaratórios veiculam mero inconformismo com o conteúdo da decisão embargada, que foi desfavorável à recorrente.
+Recorde-se, ademais, que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Precedentes: AgInt nos EDcl no AREsp 1.290.119/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 30.8.2019; AgInt no REsp 1.675.749/RJ, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 23.8.2019; REsp 1.817.010/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 20.8.2019; AgInt no AREsp 1.227.864/RJ, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 20.11.2018.
+No mérito, há precedentes no Superior Tribunal de Justiça no sentido de que a base de cálculo sobre a qual incidem os honorários advocatícios devidos em cumprimento de sentença é o valor da dívida (quantia fixada em sentença ou na liquidação), acrescido das custas processuais, se houver, sem a inclusão da multa de 10% (dez por cento) pelo descumprimento da obrigação dentro do prazo legal (art. 523, § 1º, do CPC/2015).A propósito:
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE PAGAR QUANTIA CERTA. ART. 523 DO CPC/2015. INADIMPLEMENTO DA OBRIGAÇÃO. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. VALOR DA DÍVIDA. NÃO INCLUSÃO DA MULTA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se a verba honorária devida no cumprimento definitivo de sentença a que se refere o § 1º do art. 523 do CPC/2015 será calculada apenas sobre o débito exequendo ou também sobre a multa de 10% (dez por cento) decorrente do inadimplemento voluntário da obrigação no prazo legal.
+3. A base de cálculo sobre a qual incidem os honorários advocatícios devidos em cumprimento de sentença é o valor da dívida (quantia fixada em sentença ou na liquidação), acrescido das custas processuais, se houver, sem a inclusão da multa de 10% (dez por cento) pelo descumprimento da obrigação dentro do prazo legal (art. 523, § 1º, do CPC/2015).
+4. Recurso especial provido.
+(REsp 1.757.033/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 15/10/2018)
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto, conheço do Agravo para negar provimento ao Recurso Especial.
+Publique-se.Intimem-se.
