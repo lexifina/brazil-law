@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de DAVI DE JESUS SCHUNK PAIXÃO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, mais pagamento de 680 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+Neste habeas corpus, alega o impetrante que, embora o paciente tenha se retratado em juízo, a sua confissão extrajudicial foi sopesada para fundamentar a condenação.
+Requer, assim, o reconhecimento da atenuante de confissão espontânea, nos termos da Súmula 545 do STJ, e sua compensação integral com a agravante de reincidência.
+O Ministério Público Federal opinou pela concessão da ordem, de ofício, nos termos requeridos (e-STJ, fls. 67-75).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Assim, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao negar provimento ao apelo defensivo, deixou de reconhecer a atenuante de confissão espontânea com base nos seguintes fundamentos:
+"Não há que se falar em aplicação da atenuante da confissão, pois, ainda que ocorrente de maneira informal, não foi ratificada nas fases policial e judicial. Por outro lado, em nada poderia contribuir para aclarar o fato, já que outros meios de prova eficazes sustentam a condenação, de modo que nada mais fez o Réu do que endossar a segura prova já produzida. Por outras palavras, a confissão em nada contribuiu, já que não foi o único meio de prova a formar a convicção condenatória (afastando, assim, a incidência da Súmula nº 545 do Superior Tribunal de Justiça).
+Foi, aliás, nesse mesmo sentido que decidiu o Supremo Tribunal Federal (HC 101.861/MS, rel. Min. Marco Aurélio, 1ª T., j. em 13.04.2011):
+ ..
+E mais, a confissão espontânea não deve ser tida como simples forma de obter um benefício legal, mas um ato de vontade do agente e útil à persecução penal, como, aliás, nesse mesmo julgamento, assim se manifestou o Min.
+Luiz Fux:
+ ..
+De outra parte, mesmo que reconhecida, e ainda que o Superior Tribunal de Justiça tenha se pronunciado, com caráter geral, sobre a prevalência da atenuante da confissão em relação à agravante da reincidência (Recurso Especial Repetitivo nº 1.341.370/MT, rel. Min.
+Sebastião Reis Júnior, 3ª Seção, j. em 10.04.2013), o Supremo Tribunal Federal, por suas duas Turmas, tomou posição contrária àquele posicionamento dando, pois, por prejudicada aquela tese (já que Supremo é mais que Superior!) , como se vê: 1. (HC nº 105.543-MS, rel. Min. Luís Roberto Barroso, 1ª T., j. em 29.04.2014)" (e-STJ, fls. 56-58)
+Sobre o tema, o Superior Tribunal de Justiça tem entendimento firmado no Enunciado Sumular n. 545, de que a confissão espontânea do réu sempre deve ser reconhecida na segunda fase da dosimetria, ainda que tenha sido parcial, qualificada ou retratada em juízo, se utilizada para fundamentar a condenação (AgRg no REsp 1643268/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, Julgado em 7/3/2017, DJe 17/3/2017).
+No caso, observa-se que a decisão impugnada está em manifesto confronto com o entendimento desta Corte, pois, embora a confissão tenha contribuído para a condenação do agente pelo delito do art. 33, caput, da Lei de Drogas, as instâncias ordinárias deixaram de reconhecer a atenuante respectiva porque ela teria sido retratada em sede judicial. Portanto, deve incidir a atenuante do art. 65, III, "d", do Código Penal.
+Em relação ao pedido de compensação da atenuante da confissão com a agravante da reincidência, melhor sorte assiste à defesa.
+A Terceira Seção desta Corte, no julgamento do Recurso Especial Representativo de Controvérsia n. 1.341.370/MT, realizado em 10/4/2013, firmou o entendimento de que, observadas as especificidades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência", uma vez que são igualmente preponderantes.
+Assim, verificado que uma condenação transitada em julgado foi considerada na segunda etapa da dosimetria, é devida, portanto, a compensação integral da atenuante de confissão espontânea com a agravante da reincidência, ainda que o delito anterior se refira ao tráfico de drogas.
+No mesmo sentido:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO DUPLAMENTE MAJORADO. DOSIMETRIA DA PENA. COMPENSAÇÃO INTEGRAL DA REINCIDÊNCIA ESPECÍFICA COM ATENUANTE DA CONFISSÃO ESPONTÂNEA. POSSIBILIDADE. AUMENTO SUPERIOR AO MÍNIMO LEGAL NA TERCEIRA FASE. CRITÉRIO MATEMÁTICO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. SÚMULA/STJ 443. AGRAVO NÃO PROVIDO.
+ ..
+2. Segundo entendimento firmado na Terceira Seção, no julgamento do Recurso Especial Representativo de Controvérsia 1.341.370/MT, "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência".
+3. Tratando-se de condenado que registra apenas uma condenação transitada em julgado anterior, não há qualquer óbice à compensação integral da atenuante da confissão espontânea com a agravante da reincidência, ainda que esta seja específica, como na hipótese dos autos.
+4. Agravo regimental não provido."
+(AgRg no REsp 1534671/SP, minha relatoria, julgado em 14/3/2017, DJe 22/3/2017);
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. ROUBO MAJORADO. DOSIMETRIA. ART. 67 DO CÓDIGO PENAL. REINCIDÊNCIA ESPECÍFICA E CONFISSÃO. ÚNICA CONDENAÇÃO ANTERIOR. COMPENSAÇÃO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+I - A Terceira Seção deste Superior Tribunal de Justiça, no julgamento dos EREsp n. 1.154.752/RS, consolidou o posicionamento de que a atenuante da confissão espontânea também é circunstância preponderante, na segunda fase da aplicação da pena, devendo ser compensada com a agravante da reincidência, uma vez que ambas envolvem a personalidade do agente.
+II - É possível a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, ainda que esta seja específica, tratando-se de condenado que registra apenas uma condenação transitada em julgado, de acordo com o entendimento desta Corte Superior (precedentes).
+III - De todo modo, " ..  as instâncias ordinárias não declinaram qualquer circunstância específica que pudesse obstar a compensação pretendida" (HC n. 353.126/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/9/2016).
+IV - O fato de o apenado haver sido detido em flagrante não impede a aplicação da atenuante prevista no art. 65, III, "d", do Código Penal. A respeito já decidiu este Superior Tribunal de Justiça que "a referida atenuante deve ser aplicada em favor do sentenciado ainda que a confissão somente corrobore a autoria delitiva já evidenciada pela prisão em flagrante" (AgRg no HC n. 201.797/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 2/2/2015).
+Agravo regimental desprovido."
+(AgRg no HC 363.566/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/12/2016, DJe 1º/2/2017).
+Passo, assim, ao redimensionamento da pena.
+A pena-base foi estabelecida em em 5 anos e 10 meses de reclusão e pagamento de 583, em razão dos maus antecedentes do paciente, nos termos do art. 59 do Código Penal, a qual torno definitiva ante a compensação integral entre a agravante de reincidência e a atenuante de confissão espontânea e por inexistirem causas de aumento ou de diminuição de pena.
+Estabelecida a pena em patamar superior a 4 anos e não excedente a 8 anos, fica mantido o regime inicial fechado, nos termos do art. 33, § 2º, do Código Penal, por se tratar de réu reincidente.
+Ante o exposto, não conheço do habeas corpu s. Contudo, concedo, a ordem, de ofício, para reconhecer a atenuante de confissão espon tânea e compensá-la integralmente com a agravante de reincidência, resultando a sanção do paciente em 5 anos e 10 meses de reclusão, mantido o regime fechado.
+Publique-se. Intimem-se.
