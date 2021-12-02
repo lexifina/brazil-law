@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 533/591) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a parte agravante reitera a tese de negativa de prestação jurisdicional, destacando que(e-STJ fls. 564/565):
+A questão é determinante porque, diante do que consta da S-07/C. STJ, a apreciação expressa pelo v. acórdão do E. TJSP acerca de quais descontos existem em folha, e qual a remuneração decorrente antes da consideração destes descontos, e qual o valor remuneratório hoje do Executado, fazendo constar no corpo da decisão esses elementos, é a única forma de esta Corte Cidadã verificar se o E. TJSP está na prática "driblando" o decisum proferido pelo Ilmo. Min. Antonio Carlos Ferreira, ao fixar percentual de penhora irrisório(5%), praticamente tornando sem efeito a coisa julgada no tema.
+Isso porque o C. STJ pode reenquadrar juridicamente tais fatos, mas não pode revê-los se o E. TJSP nãoos apreciar especificamente. Por isso a nulidade é patente, tendo potencial de trazer prejuízo ao manejo do REsp quanto ao mérito.
+Alega que "não há necessidade de revolvimento fático probatório porque mesmo com todos aqueles descontos voluptuários apontados nos EDcl-AIe não apreciados pelo TJSP (causa do pleito de nulidade por vício no dever de fundamentação), ainda assim o salário "líquido"do Executado em 2015 seria de R$ 4.455,56, o que para a época daria cerca de 5,65 vezes o salário mínimo, o que consta expressamente mencionado pelo E. TJSP" (e-STJ fl. 574) e que "ao decidir o caso autorizando a penhora de apenas 5% da remuneração líquida, após todos os descontos em folha, mesmo os supérfluos, o v. acórdão do E. TJSP está "esvaziando" a decisão do Ilmo. Min. Antonio Carlos Ferreira" (e-STJ fl. 582).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou contrarrazões (e-STJ fls. 594/595).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNONO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. REEXAMEDO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DASÚMULAN.7 DO STJ.DECISÃO MANTIDA.
+1.Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõeaSúmulan. 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu pela impossibilidade de majoração do percentual da penhora sobre os rendimentos líquidos mensais da parte recorrida. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+Não há, no presente recurso, nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 528/530):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência das Súmulas n. 7 e 211 do STJ (e-STJ fls. 454/457).
+O acórdão recorrido está assim ementado (e-STJ fl. 320):
+EMENTA: Agravo de Instrumento Acidente de Trânsito Decisão agravada indeferiu a penhora de percentual de benefício previdenciário para pagamento de verba honorária sucumbencial.
+Acórdão proferido por esta C. Câmara negou provimento ao recurso interposto pela exequente, sob o fundamento de que a exceção constante do § 2º., do art. 833, do CPC, é inaplicável à espécie. Recurso Especial O Colendo Superior Tribunal de Justiça deu provimento ao recurso especial interposto pela ora agravante, determinando que esta C. Câmara analise o caso concreto à luz da jurisprudência do STJ, segundo a qual, os honorários advocatícios são considerados verba alimentar, inclusive para fins do disposto no art. 833, § 2º, do CPC/2015, sendo possível a penhora de verbas remuneratórias para o seu pagamento. Logo, a regra geral da impenhorabilidade dos vencimentos, prevista no inc. IV, do art. 833, deve ser excepcionada, nos termos do § 2º., do mesmo dispositivo, em se tratando de verba honorária, independentemente do valor da verba remuneratória recebida. Frise-se que o C. STJ não determinou a penhora de percentual dos vencimentos do agravado, mas, sim, a análise do caso concreto à luz da jurisprudência daquela E. Corte - Delimitação da matéria objeto de reanálise Admitida a penhora de verba alimentar, há que ser observada, em situações da espécie dos autos, segundo a C.Instância Superior, a Teoria do Mínimo Existencial, sem prejuízo do direito à subsistência do devedor ou de sua família. Análise da questão deve ser pautada nos princípios da proporcionalidade e razoabilidade. O exame dos autos dá conta de que a pretensão concernente a penhora de 30% dos rendimentos líquidos do agravado é inadmissível, pois, ante o que se tem nos autos, caso tal aconteça, a subsistência digna do devedor e de sua família, certamente restará comprometida. Destarte, e atentando-se ao quanto determinado pela C. Superior Instância, tem-se que a penhora de 5% (cinco por cento) dos rendimentos líquidos mensais do agravado, até o montante do débito correspondente aos honorários, face às peculiaridades do feito, afigura-se adequada. Reexaminada, pois, a questão delimitada pelo C. STJ, nos termos do RECURSO ESPECIAL Nº 1.714.440 - SP (2017/0312511-1), de rigor que se dê parcial provimento ao recurso para determinar a penhora de 5% (cinco por cento) dos rendimentos líquidos mensais do agravado, até o montante do débito correspondente aos honorários. Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados(e-STJ fls. 357/365).
+No especial (e-STJ fls. 389/431), fundamentado no art. 105, III, "a", da CF, a recorrente alegou afronta aos arts. 489 e 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Destacou ainda as seguintes ofensas aos arts. 5º, 833, IV e § 2º, 926 do CPC/2015 e 83, I, da Lei n. 11.101/2005, sustentando, em síntese, a necessidade de que a penhora sejamajoradapara 30%(trinta por cento) sobre os rendimentos líquidos mensais.
+No agravo (e-STJ fls. 460/509), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta(e-STJ fls. 512/518).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunala quopronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 327/328):
+Ora, 30% sobre R$ 3.342,01, corresponde a R$ 1.002,60.
+Logo, caso acolhida a pretensão da parte agravante, o agravado passaria a receber, R$ 2.339,41, quantia pouco superior a 02 salários mínimos, considerada a unidade federal vigente, qual seja, R$ 1.039,00.
+Desconsiderando-se os valores correspondentes aos empréstimos consignados em folha, 30% sobre R$ 4.455,56, corresponde a R$ 1.336,66.
+Logo, caso acolhida a pretensão da parte agravante, a agravado passaria a receber, mensalmente, R$ 3.118,90, quantia praticamente equivalente a 03 salários mínimos, pois, R$ 1.039,00 (salário mínimo vigente), multiplicado por 03, perfaz o produto ou resultado correspondente a R$ 3.117,00.
+Isto posto, forçoso convir que a pretensão concernente a penhora de 30% dos rendimentos líquidos do agravado é inadmissível, pois caso tal aconteça, a subsistência digna do devedor e de sua família, certamente restará comprometida.
+Consigne-se, por oportuno, em reforço ao que foi observado que rendimentos correspondentes a 03 salários se constituem paradigma, para concessão por esta C. Câmara da benesse da gratuidade.
+(..)
+De fato, ressalvado o entendimento deste Eg. Tribunal e C. Câmara, mas, atentando-se ao quanto determinado pela C. Superior Instância, tem-se que a penhora de 5% (cinco por cento) dos rendimentos líquidos mensais do agravado, até o montante do débito correspondente aos honorários, face às peculiaridades do feito, afigura-se adequada.
+Para alterar taisfundamentos e reconhecer a possibilidade de majoração do percentual da penhora sobre os rendimentos líquidosmensais da parte recorrida, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Na verdade, sob o pretexto de sanar supostos vícios, a parte demonstra inconformismo com as conclusões do Tribunal de origem. Desse modo, não há falar em violação do art. 1.022 do CPC/2015.
+No caso, o TJSP reconheceu quea pretensão concernente à penhora de 30%(trintapor cento) dos rendimentos líquidos do agravado é inadmissível, pois, caso aconteça, a subsistência digna do devedor e de sua famíliacertamente será comprometida, afigurando-se adequado, em vez disso, o percentual de 5% (cinco por cento).
+Tendo o Tribunal de origem assim decidido com base nos elementos de prova, concluir diversamente atrai aSúmulan. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
