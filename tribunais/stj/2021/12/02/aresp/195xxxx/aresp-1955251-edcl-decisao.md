@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por AMAURY GONÇALVES DE SOUZA e HELENA MONTEIRO DE SOUZA, em face de decisão monocrática da lavra deste signatário (fls. 376/380, e-STJ), que negou provimento ao recurso interposto pela parte adversa.
+Nos presentes embargos de declaração (fls. 382/384, e-STJ), os insurgentes sustentam que a decisão foi omissa no que se refere à majoração dos honorários sucumbenciais recursais, nos termos do disposto no artigo 85, § 11, do CPC/15.
+Impugnação às fls. 387/388, e-STJ.
+É o relatório. Decido.
+Os embargos merecem acolhimento.
+1. Verifica-se que não houve o pronunciamento acerca dos honorários sucumbenciais recursais na decisão singular embargada.
+Como se sabe, o Plenário deste Superior Tribunal de Justiça elaborou enunciados administrativos a fim de orientar a comunidade jurídica acerca das questões de direito intemporal e conferir segurança jurídica aos jurisdicionados.
+Dentre as orientações aprovadas, encontra-se o Enunciado Administrativo n. 7, de seguinte teor: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Nesse sentido, confira-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TARIFAS BANCÁRIAS. ABUSIVIDADE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. REAVALIAÇÃO DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/2015. DECISÃO RECORRIDA PUBLICADA NA VIGÊNCIA DO CPC/2015. CABIMENTO. DECISÃO MANTIDA.  ..  3. Consoante o Enunciado Administrativo n. 7, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016, nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, é possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do CPC/2015. 4. Agravo interno a que se nega provimento. (AgInt no AREsp 1085614/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/08/2017, DJe 16/08/2017)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. COMPENSAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ENUNCIADO ADMINISTRATIVO 2/STJ.  ..  4. Nos termos do Enunciado Administrativo 7 do STJ "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do CPC/15". 5. Agravo interno não provido, com majoração de honorários em favor do agravado. (AgInt no AREsp 1012400/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 02/05/2017, DJe 09/05/2017)
+Na hipótese, levando em conta que o acórdão foi publicado na vigência do CPC/15, mostra-se cabível a majoração dos honorários sucumbenciais.
+Com base em tais premissas, majora-se em 10% o valor dos honorários sucumbenciais já fixados em favor das partes ora embargantes pelas instâncias ordinárias, tendo em conta a exígua tramitação do feito nesta fase processual e a justa remuneração do patrono pelo trabalho acrescentado.
+2. Do exposto, acolho os embargos de declaração apenas para suprir a omissão apontada e, nos termos do art. 85, § 11, do NCPC, majoro em 10% (dez por cento) o valor dos honorários sucumbenciais já fixados na origem em favor das partes ora embargantes.
+Publique-se.
+Intimem-se.
