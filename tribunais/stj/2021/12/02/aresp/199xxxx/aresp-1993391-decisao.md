@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulocuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO - Execução Fiscal - IPTU dos exercícios de 2013 a 2017 - Exceção de Pré-Executividade Decisão agravada que rejeitou a objeção, mantendo o agravante no polo passivo do feito executivo- Promitente-vendedor considerado contribuinte responsável, ante a ausência de registro da promessa de compra e venda, conforme jurisprudência do E. STJ e legislação sobre o tema Decisão mantida - Recurso não provido.
+Os embargos de declaração opostos foram rejeitados, com aplicação de multa.
+No recurso especial, interposto com base naalíneaa do permissivo constitucional, oora agravantesustentaviolação aos arts. 1022 e 1026, § 2º, do CPC/2015, bem como ao art. 34doCTN, alegando, em síntese, que: (a) o acórdão recorrido manteve-se omisso, mesmo após a oposição de embargos de declaração; (b) "se o Município detém a possibilidade de escolher o responsável pelo pagamento do IPTU com fundamento no artigo 34, e sua previsão de alternatividade, não pode o ente tributante agir indiscriminadamente sem observância às demais normas do sistema jurídico"; (c) "a aplicação de multa protelatória nos embargos de declaração é descabida, uma vez que o nítido intuito do Recorrente era prequestionar os dispositivos aventados em sede de agravo de instrumento, a fim de possibilitar a discussão no recurso especial".
+O recurso teve seu seguimento negado, no tocante aostemas julgados pelasistemática dos recursos repetitivos, e foi inadmitido pela decisãodefls. 140/142, cujos fundamentos foram impugnados por meio dopresenteagravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Não compete ao Superior Tribunal de Justiçaanalisar questões às quais cujo seguimento tenha sido negado pelo Tribunal de origem, com base na aplicação de entendimento firmado em julgamento de recursos repetitivos, sendo cabível tão somente Agravo interno ao próprio Tribunal, de acordo com o art. 1.030, § 2º, do mesmo diploma processual. Quanto à matéria remanescente, a irresignação não merece prosperar.
+Constou do acórdão que rejeitou os embargos de declaração opostos pelo agravante que:
+Não se verifica omissão no julgado quanto ao art. 130 do CTN, vez que o dispositivo não se aplica ao caso.
+A sub-rogação de que trata o artigo se opera pela alienação do bem, o que, como fundamentado no Acórdão guerreado, somente ocorre com a transferência formal da propriedade (art. 1.245 do Código Civil),o que não restou comprovado nos autos.
+(..)
+Como exaustivamente fundamentado, a Lei estabelece que o proprietário do imóvel é contribuinte do IPTU (art. 34 do CTN), e, também, que a propriedade só se transmite com o registro competente (art. 1.245 do CC), e não por mera avença de promessa de venda.
+(..)
+Por derradeiro, o julgado invocado pelo recorrente (AI nº 2184396-54.2018.8.26.0000) não possui caráter vinculante, e, de todo modo, o embargante não demonstrou o cumprimento dos requisitos lá elencados (irrevogabilidade, irretratabilidade, transferência imediata da posse e imediata quitação no preço).
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte. Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aoart.1.022 do CPC/2015.
+Diante do exposto, com fundamento no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ e a Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. VIOLAÇÃO AOART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
