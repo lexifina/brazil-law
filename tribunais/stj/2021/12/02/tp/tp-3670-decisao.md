@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de pedido de Tutela Provisória cujo objeto é atribuir efeito suspensivo ao Recurso Especial interposto contra acórdão prolatado pelo Tribunal Regional Federal da 5ª Região que, apreciando a Apelação do requerente, negou-lhe provimento.
+O requerente informa, em suma,o seguinte:
+A presente cautelar inominada para atribuição de efeito suspensivo ativo ao recurso especial admitido até seu julgamento, preenche os requisitos legais autorizadores à concessão, quais sejam, o fumus boni juris e periculum in mora.
+(..)
+No caso concreto, nos autos da Tomada de Contas Especial nº 008.202/2014-1, fora requerida, por parte deste Recorrente, a prorrogação do prazo para apresentar sua defesa no referido procedimento.
+Ao analisar o citado pleito formulado, a Colenda Corte de Contas da União, com base nos argumentos suscitados pelo Sr. Rodrigo Xavier, concluiu por conceder a prorrogação do respectivo prazo para apresentação de defesa dos autos do supramencionado procedimento, contudo, em momento algum fora dada publicidade a respectiva decisão o que, porquanto, ensejou o decurso do aludido prazo processual e à revelia deste Recorrente no âmbito do respectivo procedimento de contas.
+Doutos Julgadores, restou comprovado que não foram enfrentados os capítulos de mérito abordados em sede do recurso de reconsideração, o que caracteriza, na espécie, autêntico caso de cerceamento de defesa, de violação à primazia da decisão de mérito e de inobservância aos postulados do Estado Constitucional Democrático, já que a regra que se impõe é a da efetiva necessidade de fundamentação dos atos decisórios.
+Salienta-se que o vício de nulidade de citação é o defeito processual de maior gravidade em nosso sistema processual civil, tanto que elevado à categoria de vício transrescisório, podendo ser reconhecido a qualquer tempo, até mesmo após o escoamento do prazo para o remédio extremo da ação rescisória, mediante simples alegação da parte interessada (cf. REsp n. 1.138.281/SP, Rel. Ministra Nancy Andrighi, DJe 22/10/2012).
+Excelências, estamos a debater acerca de um ato processual QUE NÃO FORA PUBLICADO.
+(..)
+Douto Julgadores, é fato, na Tomada de Contas objeto de análise - TCE/CE, sob o nº 008.202/2014-1, a Egrégia Corte de Contas da União ao deferir o pedido de prorrogação de prazo realizado pelo Requerente NÃO realizou a devida publicação e notificação do Responsável, ora Recorrente, ficando o Sr. Rodrigo Xavier de Araújo prejudicado e considerado revel, tendo sido admitido o prosseguimento do processo mesmo diante de tão grave cenário.
+Em despacho àfl. 75, e-STJ, determinei a intimação do requerente para que juntasse aos autos cópia do Recurso Especial interposto, do acórdão prolatado pelo Tribunal Regional Federal da 5ª Região, dos Embargos de Declaração opostos na origem e do respectivo acórdão.
+Às fls. 77-166, o requerente apresentou as peças acima referidas.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.11.2021.
+A questão principal do Recurso Especial, assim como do pedido de Tutela Provisória, é a suposta violação ao princípio do contraditório e da ampla defesa no julgamento daTomada de Contas Especial nº 008.202/2014-1.
+Sustenta o recorrente que não foi notificado da decisão do Tribunal de Contas da União que deferiu a prorrogação de prazo para apresentação da defesa administrativa.
+Contudo, o Tribunal Regional Federal da 5ª Região teve outra compreensão, verbis (fl. 86, e-STJ, grifei):
+No caso em apreço, após realizar minudente exame do conjunto probatório formado nos autos, verifica-se que o recorrente, apesar de ter apresentado pedido de prorrogação do prazo para apresentar sua defesa no processo de Tomada de Contas, quedou-se inerte, deixando de apresentar defesa.
+Solicitada a prorrogação de prazo, e constituindo o seu atendimento uma mera liberalidade da Corte de Contas, caberia ao ora recorrente acompanhar o desfecho de seu pleito, não apenas para evitar a perda do prazo na hipótese de indeferimento, mas também para garantir que a sua defesa fosse apresentada dentro do tempo adicional eventualmente concedido.
+Ademais, nos termos da legislação aplicável ao caso, o pedido de prorrogação de prazo para apresentação de defesa junto ao TCU não tem efeito suspensivo, sendo assim o prazo adicional eventualmente concedido por aquela Corte se inicia automaticamente após o término do período regular, independentemente de qualquer notificação acerca do deferimento da referida dilação de prazo, cabendo a forma interessa cumprir com sua obrigação de se defender.
+Como bem destacado na sentença, "pensar de modo diferente, como defende a parte autora, beneficiaria de forma desarrazoada o investigado, que, além de ter um prazo dilatado e diferenciado para apresentação de sua defesa, mediante ato discricionário do Tribunal que deferiu a prorrogação pretendida, ainda teria um prazo adicional injustificável correspondente ao tempo transcorrido entre a elaboração do despacho e a sua pretendida notificação. É interesse do próprio investigado já devidamente citado tomar as diligências para apresentar a sua defesa no tempo oportuno", o que não ocorreu na espécie, inexistindo cerceamento de defesa a ser corrigido pelo Poder Judiciário.
+Ao proferir julgamento através do Acórdão nº 1440/2016, o Tribunal de Contas da União, ante as razões expostas pela relatora do julgado, e mesmo diante da revelia do investigado, ora recorrente, enfrentou de forma exaustiva o mérito da questão, tendo concluído pela não comprovação da boa e regular aplicação dos recursos públicos sob sua guarda.
+Em análise perfunctória dos autos, própria das Tutelas de Urgência, tenho quepara desconstituir as conclusões do Tribunal de origemseria necessário examinar todo o contexto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Pelo exposto, indefiro o pedido com base no art. 34. XVIII, "a", do RISTJ.
+Publique-se.
+Intimem-se.
