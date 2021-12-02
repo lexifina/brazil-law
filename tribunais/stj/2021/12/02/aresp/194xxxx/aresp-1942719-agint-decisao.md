@@ -1,0 +1,7 @@
+DECISÃO
+Cuida-se de Agravo Interno contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Argumenta a parte agravante a existência de afetação do tema ao rito dos recursos repetitivos. Sustenta a necessidade de sobrestamento ou aplicação do entendimento firmado no julgamento.
+Nesses casos, o art. 256-L, caput, do Regimento Interno do Superior Tribunal de Justiça determina a devolução dos autos ao Tribunal de origem, para nele permanecerem suspensos.
+A Corte Especial do STJ afirmou o entendimento no sentido da devolução com fundamento, tanto no art. 256-L do Regimento Interno do STJ, como do art. 1.037 do CPC/2015, mesmo no julgamento de embargos de declaração. Nesse sentido: EAREsp 380.796/RS, Corte Especial, DJe 17/12/2018; AgInt nos EREsp 1.635.236/SE, Corte Especial, DJe 31/5/2019.
+Assim, torno sem efeito a decisão anterior e determino a devolução dos autos ao Tribunal de origem, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC e 1.040 e seguintes do CPC/2015, e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia ou repetitivo: a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
