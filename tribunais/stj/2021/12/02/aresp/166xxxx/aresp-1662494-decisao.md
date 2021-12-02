@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (e-STJ fls. 860/867) interposto contra decisão que negou seguimento ao recurso especial, ante a incidência da Súmula n. 7/STJ (e-STJ fls. 854/857).
+O acórdão recorrido está assim ementado (e-STJ fls. 751/752):
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO C/C PARTILHA DE IMÓVEIS. PRELIMINARES REJEITADAS. ANÁLISE DE PROVAS DOCUMENTAIS COLIGIDAS COM DEPOIMENTOS.HONORÁRIOS ADVOCATÍCIOS. SENTENÇA PROFERIDA EM 2017. INCIDÊNCIA DO NOVO CÓDIGO DE PROCESSO CIVIL. SENTENÇA REFORMADA EM PARTE MÍNIMA.
+1.Devem ser rejeitadas as preliminares de inépcia da inicial e de sentença "extra petita", se o Autor exaustivamente alega fraude na aquisição de imóveis consistente na exclusão de seu nome das transações, razão pela qual a solução lançada na sentença está consentânea e adstrita à causa de pedir e aos pedidos. 1.1. Quando o fundamento da preliminar de impossibilidade jurídica do pedido diz respeito ao mérito da causa, aquela deve ser rejeitada. 1.2. Não há razão para arguir a ilegitimidade passiva de Ré que, comprovadamente, participou da cadeia dominial de um dos imóveis litigiosos. 1.3.Quando a parte que poderia ter integrado o polo passivo presta todas as informações de que tem ciência na qualidade de testemunha, fica afastado qualquer prejuízo, sem o qual não há razão para declarar a nulidade, conforme entendimento do Superior Tribunal de Justiça (REsp 1015547/AM, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/12/2016,DJe 14/12/2016).
+2.Devem ser rejeitadas também as prejudiciais de mérito de cerceamento de defesa e ofensa ao contraditório, porquanto tiveram as partes várias oportunidades de debater e refutar os fatos declinados pelo Autor. 2.1. Não há necessidade de intimar as partes após alegações finais de Ré revel, quando foram prestadas informações coincidentes com as do Autor e já contestadas pelas demais litisconsortes passivas.
+3.Inexistindo qualquer lastro probatório que indique ter sido determinado imóvel adquirido com recursos vertidos por ambos ex-cônjuges e, ao contrário, havendo prova de que a separação de fato ocorreu antes da aquisição de um dos bens, não há como amparar pedido de anulação de venda ou de declaração do direito à metade do valor auferido. 3.1. Por outro lado, no que tange ao segundo imóvel litigioso, diante da pouca idade e ausência de comprovação de renda suficiente da filha que adquiriu o bem associadas à declaração de outra filha de que o imóvel foi comprado com recursos dos genitores na constância do casamento, é possível declarar o direito do ex-cônjuge à metade do imóvel, o que poderá ser por ele buscado em sede de sobrepartilha.
+4.Ausentes as hipóteses que justificam a condenação em litigáncia de má-fé, conforme Art. 80 do CPC, não merece acatamento tal pleito.
+5. São devidos honorários advocatícios ao réu revel, quando este participou do feito prestando depoimento e juntando alegações finais, ficando, todavia, suspensa a exigibilidade quando o sucumbente for beneficiário da justiça gratuita.
+6. Conforme entendimento do Superior Tribunal de Justiça (REsp 1.465.535/SP), se a sentença foi proferida na vigência do novo CPC, é esta a legislação que deve regular o instituto dos honorários, cabendo inclusive majoração em sede recursal.
+7.Apelo do Autor não provido. Apelo das Rés parcialmente provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 797/810).
+Nas razões recursais (e-STJ fls. 204/223), fundamentadas no art. 105, III, "a", da CF, a parte recorrenteapontaofensa aos arts. 10, 330, 373 e 492 do CPC/2015.
+A insurgência cuida dos seguintes temas: (a) inépcia da inicial, (b) julgamento extra petita, (c) pedido juridicamente impossível,(d) cerceamento de defesa e (e) má apreciação das provas do direito do recorrido.
+Foram apresentadas contrarrazões (e-STJ fls. 231/232) e contraminuta (e-STJ fls. 263/265).
+É o relatório.
+Decido.
+Quanto àinépcia e aojulgamento extra petita, o Tribunal a quo assim se manifestou (e-STJ fls.763/765):
+Alegam as Apelantes que não houve na petição inicial e nas emendas pedido ou causa de pedir relativos à anulação do negócio jurídico que envolveu a compra do imóvel na QNP 17 de Ceilândia, sendo inepta a inicial.
+Alegam, ainda, que o pedido de meação deste imóvel é impossível, porquanto não fazia parte do acervo patrimonial do casal. Asseveram que a sentença foi "extra petita", diante da ausência de pedido relativo à nulidade do negócio jurídico e da impossibilidade de meação de bens de terceiros.
+As preliminares suscitadas, como se nota, têm assento emfundamentos que se interligam, razão pela qual as analiso em conjunto neste tópico.
+Inicialmente, não procede a afirmação de que não é possível inferir dos pedidos ou da causa de pedir a anulação dos negócios jurídicos que envolveram os imóveis litigiosos.
+Ora, o Autor exaustivamente alegou em suas manifestações que a ex-esposa, ora Ré/Apelante, inseria os nomes dos filhos nas transações imobiliárias com o fim de que o Autor/Apelado não tivesse direito à partilha dos bens. Tal relato anuncia fraude ou simulação nas transações promovidas pelas Apelantes, o que, por força do Código Civil, dá azo à anulação do negócio jurídico:
+ ..
+Ademais, nos pedidos constantes da emenda de fls. 161/162, há expressa menção à anulação da venda do imóvel em Vicente Pires e partilha do imóvel situado em Ceilândia (QNP 17) em 50% para cada ex-cônjuge. O pedido de anulação do primeiro imóvel foi julgado improcedente pelo magistrado a quo, o que mantenho no presente Voto. Já em relação ao segundo imóvel, o magistrado de piso declarou-o adquirido pelo Autor com a Ré ERINELDA na constância do casamento,cumprindo à parte interessada buscar eventual divisão em sede de sobrepartilha.
+Observe-se, por oportuno, que não é necessário pedido de anulação da compra do imóvel na QNP 17 para resguardar eventual direito patrimonial do Autor em relação a ele, bastando que seja declarado que o bem foi adquirido na constância do casamento do Autor com recursos do casal.
+Percebe-se, assim, que a sentença observou os limites da lide, não sendo "extra petita".
+Quanto à impossibilidade jurídica de meação do imóvel de Ceilândia por se tratar de imóvel de terceiros, é certo que a prova quanto aos direitos postulados diz respeito ao mérito da causa.
+Rejeitadas, portanto, as preliminares supra debatidas.
+Como se observa, o acórdão decidiu em consonância com a jurisprudência desta Corte, no sentido de que o pedido decorre da análise lógico-sistemática da petição inicial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.IRRESIGNAÇÃO DA DEMANDADA.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. Precedentes.
+1.1. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese. Precedentes.
+1.2. Nos termos da jurisprudência desta Corte, o dispositivo legal tido como violado deve conter carga normativa suficiente a alterar o julgado hostilizado, sob pena de incidência da Súmula 284/STF.
+2. Revisar as conclusões acerca do pleito recursal demandaria que a premissa estabelecida sobre o termo inicial do prazo prescricional fosse derruída, providência obstada pela Súmula 7/STJ. Precedentes.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, não há falar em julgamento fora dos limites da demanda quando o julgador, mediante interpretação lógico-sistemática, examina a petição apresentada como um todo. Precedentes. Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.(AgInt no AREsp 1842673/ES, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/10/2021, DJe 04/11/2021.)
+Desse modo, não há falar em defeitos da petição ou em decisão fora dos limites dalide.
+Quanto à possibilidade do pedido, a Corte local decidiu a questão do direito à meação com base nas provas dos autos, de modo que a revisão do julgado exigiria o reexame do conteúdo probatório, o que não se admite em recurso especial (Súmula n. 7/STJ).
+No que diz respeito ao cerceamento de defesa, a Corte local decidiu conformeos seguintes fundamentos (e-STJ fl. 769):
+Nas manifestações das partes e na tomada de depoimentos pessoais, houve farto debate acerca da aquisição ou não dos imóveis litigiosos na constância do casamento. Esse, aliás, foi o cerne dos depoimentos de fls. 466/470.
+Quanto à alegada necessidade de serem intimadas após a apresentação das alegações finas pela Ré KEILA, também não merece acatamento tal apelo, uma vez que, na verdade, a Ré KEILA não apresentou fatos novos ao processo, mas apenas confirmou tudo o que já havia sido alegado pelo Autor, cujas assertivas foram devidamente contestadas pelas Apelantes e rechaçadas em mais de uma oportunidade, a saber: contestação, depoimentos e alegações finais.
+Não se verifica, destarte, violação ao contraditório ou cerceamento de defesa.
+No caso, para verificar as alegações das recorrentes de que os memoriais apresentaram fatos novos, seria necessário o cotejo de provas, o que não se admite na via eleita, a teor da Súmula n. 7/STJ.
+Por fim, o Tribunal de origem decidiu que o recorrido tem direito à meação do imóvel com base no conjunto probatório. Assim, a reversão deste posicionamento também encontra óbice na Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
