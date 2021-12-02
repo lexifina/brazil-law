@@ -1,0 +1,14 @@
+DECISÃO
+1. Cuida-se de agravo interposto por PHASER INCORPORACAO SPE S.A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO DE INSTRUMENTO LIQUIDAÇÃO DE SENTENÇA DECISÃO A QUO QUE AFASTOU A PRETENSÃO DA ORA AGRAVANTE DE RETENÇÃO DO VALOR PAGO PELA AUTORA A TÍTULO DE COMISSÃO DE CORRETAGEM E TAXASATI AGRAVANTE QUE NESTE RECURSO INSISTE NA DEDUÇÃO DO VALORSUPOSTAMENTE PAGO PELA ORA AGRAVADA A TAL TÍTULO INVOCANDO PARATANTO OS TERMOS DO RESP N 1599511/SP TRÂNSITO EM JULGADOQUE NOS TERMOS DO ART 508 DO CÓDIGO DE PROCESSO CIVIL CONSIDERADEDUZIDAS TODAS AS ALEGAÇÕES E DEFESAS QUE A PARTE PODERIA OPOR AO ACOLHIMENTO DO PEDIDO REQUERIDA QUE TINHA CIÊNCIA DA QUANTIAINDICADA PELA AUTORA A TÍTULO DE DEVOLUÇÃO PELA RESCISÃO NÃO TENDOENTRETANTO EM SUAS PETIÇÕES NA FASE DE CONHECIMENTO SUSCITADO A QUESTÃO DA CORRETAGEM OU DA TAXA SATI PLEITO QUE NÃO PODE SERMAIS SER DELIBERADO DECISÃO MANTIDA RECURSO DESPROVIDO
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente,ofensa ao disposto noart. 525, §1º, V do CPC, arts.422, 722, 723, 724 e 725 do CC, alegando em síntese, quenão pode ser compelida a pagar aquilo que não faz parte da condenação, sustenta, que nunca foi objeto da devida restituição os valores concernentes à comissão de corretagem e taxa SATI, havendo excessode execução.
+Contrarrazões ao recurso especial às fls. 127/138.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Quanto aos artigos 422, 722, 723, 724 e 725 do CC e artigo525, §1º, V do CPC,apontados no recurso especial, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal de origem e o recorrente não interpôs embargos de declaração objetivando suprir eventual omissão quanto a esse ponto. Portanto, ausente o prequestionamento, entendido como a necessidade de o tema objeto do recurso ter sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
