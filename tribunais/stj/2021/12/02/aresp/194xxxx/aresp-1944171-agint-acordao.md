@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por ELIANE SEGATO DOS SANTOS contra a decisão da Presidência deste Tribunal (e-STJ, fls. 442-444) que não conheceu do agravo em recurso especial, devido à ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial por ela manejado.
+A agravante, em suas razões (e-STJ, fls. 446-459), sustenta, em suma, que houve impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial, tendo sido observado o princípio da dialeticidade.
+Pleiteia, assim, a reconsideração da decisão agravada ou o julgamento pelo órgão colegiado.
+Impugnação às fls. 463-468 (e-STJ),na qual se pede a condenação da parte agravante por litigância de má-fé e a majoração dos honorários advocatícios sucumbenciais.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC/2015.
+2.Conforme entendimento desta Corte, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo"(AgInt nos EDcl nos EDcl no AgInt nos EDcl nos EAREsp 884.708/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 18/05/2021, DJe 20/05/2021).
+3.Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+4. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela insurgente não são capazes de modificar as conclusões da deliberação unipessoal.
+Com efeito, é dever da parte agravante combater especificamente todos os fundamentos da decisão agravada, demonstrando o desacerto do julgado que não admitiu o recurso especial, nos termos do que preconiza o art. 932, III, do Código de Processo Civil de 2015.
+Esse entendimento foi confirmado pela Corte Especial do Superior Tribunal de Justiça no julgamento dos Embargos de Divergência no Agravo em Recurso Especial n. 746.775/PR.
+Confira-se:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, Relator o Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe 30/11/2018)
+Na decisão ora atacada, não se conheceu do agravo interposto, sob o argumento de que os fundamentos da decisão de inadmissibilidade do apelo especial não foram rebatidos naquele recurso, de acordo com as seguintes justificativas (e-STJ, fls. 442-444):
+Cuida-se de agravo em recurso especial apresentado por ELIANE SEGATO DOS SANTOS contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta a dispositivo legal e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 7/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Por conseguinte, constata-se que, de fato, a agravante, nas razões do agravo em recurso especial (e-STJ, fls. 421-428), não impugnou especificamente o fundamento da decisão agravada atinente à incidência da Súmula 7/STJ, limitando-se a pontuar, de modo genérico, que o teor do referido óbice processual não incide ao caso dos autos.
+Desse modo, à luz do princípio da dialeticidade, a parte agravante deveria ter impugnado todos os fundamentos da decisão de inadmissibilidade do apelo especial, sob pena de seu não conhecimento. Portanto, como não se desincumbiu de tal ônus em sua insurgência, tem-se que é inadmissível o agravo em recurso especial interposto, não podendo ser apreciado por este Superior Tribunal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE REALIZADO COM BASE NO ART. 1.030, I, "B", DO CPC/2015. RECURSO INADEQUADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO ÓBICE DA SÚMULA 7 / STJ. AGRAVO NÃO PROVIDO.
+1. Dentre os fundamentos invocados pelo Tribunal de origem para inadmitir o recurso especial manejado pelo ora agravante, um deles foi a adequação do acórdão recorrido à tese firmada no Tema 905/STJ.
+2. Portanto, nesse fundamento, o juízo de admissibilidade foi realizado com base no art. 1.030, I, "b", do CPC/15 (negar seguimento:  ..  b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos).
+3. Contra decisão fundada em tal dispositivo, o Código de Ritos prevê a possibilidade de interposição de agravo interno, consoante o § 2º do supramencionado artigo legal ("§ 2º da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021").
+4. O presente agravo não merece ser conhecido pela notória inadmissibilidade. Ademais, não se cabe falar em fungibilidade no caso, ante a ausência de dúvida objetiva diante da previsão expressa no código processual. Precedentes.
+5. Por outro lado, inadmitido o apelo nobre com base na Súmula 7 /STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível, o que não ocorreu na espécie.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1893303/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/09/2021, DJe 05/10/2021)
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IPTU, TAXA DE PREVENÇÃO E EXTINÇÃO DE INCÊNCIDOS. TAXA DE COLETA DE LIXO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. AGRAVO INTERNO DO CONTRIBUINTE NÃO CONHECIDO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto às Súmulas 7/STJ e 282/STF.
+Assim, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+5. Inadmitido o recurso especial em razão da dissonância da pretensão com jurisprudência desta Corte Superior, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+6. Ainda, inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+7. Agravo interno do contribuinte não conhecido.
+(AgInt no AREsp 1806404/SP, Rel. Ministro MANOEL ERHARDT, DESEMBARGADOR CONVOCADO DO TRF5, PRIMEIRA TURMA, julgado em 20/09/2021, DJe 22/09/2021)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO DA DECISÃO AGRAVADA. SÚMULA 7/STJ. ALEGAÇÕES GENÉRICAS. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA 1. Ação de obrigação de fazer c/c compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Inadmitido o recurso especial com base na Súmula 7/STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1775476/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/03/2021, DJe 18/03/2021)
+De outro lado, no que tange à pretensão da parte embargada de que seja imposta a penalidade prevista no art. 81do CPC/2015, esta não mereceprosperar, pois, conforme entendimento deste Tribunal, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgInt nos EDcl nos EDcl no AgInt nos EDcl nos EAREsp 884.708/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 18/05/2021, DJe 20/05/2021).
+Quanto ao pedido de fixação de honorários recursais (art. 85, § 11, do CPC/2015), o pleito deve ser examinado à luz das regras definidas pela Terceira Turma deste Tribunal Superior nos EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+Na hipótese, é inadmissível a majoração da verba honorária em favor dos advogados da parte adversa, tendo em vista que, fixados os honorários advocatícios no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+Em arremate, uma vez que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado no aresto impugnado, permanece inalterada a decisão de não conhecimento do agravo em recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
