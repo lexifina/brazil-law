@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial tirado contra acórdão do TJGO assim ementado (e-STJ, fl. 459):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. ASSOCIAÇÃO. ADMISSÃO DE NOVOS ASSOCIADOS. REGIME DEMOCRÁTICO. LIBERDADE E GARANTIAS FUNDAMENTAIS. SENTENÇA MANTIDA. 1 - A prática associativa consiste na organização voluntária de pessoas, sem fins lucrativas, com o objetivo de satisfazer as necessidades coletivas ou alcançar os objetivos comuns, via cooperação.Esta forma de organização coletiva tem como objetivos reforçar os laços de amizade e solidariedade, reunir esforços para reivindicar melhorias na comunidade, defender os interesses dos associados, desenvolver interesses coletivos de trabalho, produzir e comercializar de forma cooperada, melhorar a qualidade de vida e participar no desenvolvimento da região na qual as associações estão inseridas. 2 - As diretrizes de uma associação devem estar elencadas em seu Estatuto. Os estatutos, enquanto conjunto de regras que orientam e regem a atividade e caráter corporativo da associação, dão corpo ao que é, o que se pretende e como funciona a associação. 3 - A Assembleia Geral da associação é o seu órgão máximo, devendo a sua decisão ser preservada, consoante o disposto no estatuto. 4 - No caso dos autos, embora a assembleia geral da associação apelante tenha decidido pelo indeferimento do pedido de filiação dos apelados por existir conflito de interesses entre as categorias (antigos notários e os novos concursados), tal decisão não merece prosperar, tendo em vista que não há justa causa para a aludida recusa. Outrossim, a Lei n.8.935/1994, que dispõe sobre serviços notariais, em seu art. 29, inciso II, confere o direito de se organizarem em associações ou sindicatos de classe e deles participar, sem qualquer distinção entre titulares e substitutos. O direito de associação não pode ser limitado por interesses subjetivos dos atuais associados, consubstanciado na existência de ação judicial contra o concurso público que nomeou os autores/apelados, porquanto se trata de direito de caráter constitucional, previsto no art. 5º, incisos XVII, XVIII, XIX, XX e XXI, da Constituição Federal, devendo ser respeitado o regime democrático de direito.APELAÇÃO CONHECIDA E DESPROVIDA.
+Os embargos de declaração opostos ao aresto foram rejeitados (e-STJ, fls. 470/474 e 499/517).
+Nas razões do especial (e-STJ, fls. 528/533), a recorrente aponta malferido o art. 5º do CPC/2015. Afirma que o acórdão recorrido viola o princípio da boa-fé objetiva.
+Contrarrazões às fls. 543/578 (e-STJ).
+Decisão pela inadmissibilidade do recurso às fls. 580/582 (e-STJ).
+Razões do agravo às fls. 586/590 (e-STJ).
+Contraminuta às fls. 595/630 (e-STJ).
+É o relatório.
+Decido.
+O tema objeto do especial- suposta violação do art. 5º do CPC/2015- não foi objeto de exame pelo acórdão recorrido, carecendo o recurso do necessário prequestionamento.
+Incide o óbice da Súmula n. 211/STJ.
+Registroque " a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei"(AgInt no REsp 1795960/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/09/2021, DJe 04/10/2021).
+Além disso, a conclusão do TJGO fundamenta-se na previsão da norma do art.5º, incisos XVII, XVIII, XIX, XX e XXI, da CF/1988, não cuidando o recorrente de interpor recurso extraordinário.
+Caso de aplicação da Súmula n. 126/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo nos próprios autos.
+Na forma prevista pelo art. 85, § 11, do CPC/2015, MAJORO em 20% (vinte por cento) os honorários advocatícios devidos pela recorrente aos advogados dos recorridos.
+Publique-se. Intimem-se.
