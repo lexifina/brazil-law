@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de Minas Gerais, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local, que deu parcial provimento ao Recurso em Sentido Estrito n. 1.0338.18.006468-9/001 para reformar a decisão de pronúncia e afastar a qualificadora do motivo fútil (fls. 328/334):
+RECURSO EM SENTIDO ESTRITO. TRIBUNAL DO JÚRI. CRIME DE HOMICÍDIO QUALIFICADO PELO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA, CONTRA MULHER EM RAZÃO DO SEXO FEMININO E POR MOTIVO FÚTIL. PRONÚNCIA. DECOTE DAS QUALIFICADORAS. (SÚMULA 64 DO TJMG). CABIMENTO EM RELAÇÃO ÀQUELA MANIFESTAMENTE IMPROCEDENTE. CIÚME NARRADO COMO MOTIVAÇÃO. NÃO CONFIGURAÇÃO DA QUALIFICADORA DO MOTIVO FÚTIL.
+- A qualificadora do crime de homicídio deve ser decotada da pronúncia somente se se revelar manifestamente improcedente. (Súmula 64 do TJMG).
+- O ciúme, por si só, como um sentimento comum à maioria da coletividade, desprovido de outros elementos, não é considerado fútil.
+Opostos embargos de declaração (fls. 340/350), esses foram rejeitados (fls. 353/356):
+EMBARGOS DE DECLARAÇÃO - ALEGAÇÃO DE OMISSÃO E OBSCURIDADE - NÃO OCORRÊNCIA - MERO REEXAME DA MATÉRIA -REGRA DO ART. 414 DO CÓDIGO DE PROCESSO PENAL - EMBARGOS REJEITADOS.
+- Devem ser rejeitados os embargos de declaração opostos sem amparo nas hipóteses previstas no art. 619. do CPP, que busquem apenas o reexame de matéria já decidida pelo Tribunal ou que tenha inovado nessa via recursal.
+- O ciúme, por si só, como um sentimento comum à maioria da coletividade, desprovido de outros elementos, não é considerado fútil.
+O recurso especial aponta a violação dos arts. 121, § 2º, II, do Código Penal; e 413, § 1º, do Código de Processo Penal, pela tese de que, havendo indícios da presença da qualificadora, não poderia o Tribunal de origem fazer juízo de mérito, usurpando a competência exclusiva do Conselho de Sentença.
+Assevera o recorrente que a pronúncia constitui decisão de natureza interlocutória mista não terminativa, encerrando a primeira fase do processo penal nos crimes de competência do Júri. Trata-se de um juízo de fundada suspeita e não um juízo de certeza, sendo que a dúvida nessa fase deve militar em favor da sociedade. Por esta razão, havendo dúvida razoável acerca da configuração ou não de circunstâncias qualificadoras do delito, deve a matéria ser submetida, integralmente, à análise do Tribunal do Júri, constitucionalmente competente para o julgamento da causa (fl. 369).
+Destaca que o decote de qualificadoras somente deve ser admitido como uma medida de caráter excepcional, aplicável tão-somente em situações em que se revelem manifestamente descabidas, sob pena de se retirar do Tribunal do Júri a possibilidade de analisar o delito em todos os seus relevantes aspectos.  ..  É que a qualificadora decotada da pronúncia jamais poderá ser restabelecida. Uma vez excluída na fase de pronúncia, o Júri, em hipótese alguma, poderá se manifestar sobre o seu cabimento. Por outro lado, mantida a circunstância qualificadora, rende-se pleno ensejo ao Conselho de Sentença para apreciar a causa criminal, e, se entender pela improcedência da forma qualificada, terá oportunidade de rechaçá-la (fl. 370).
+Ao final da peça recursal, o Ministério Público de Minas Gerais pugna pelo conhecimento e provimento do presente recurso especial, com vistas a que seja restabelecida a qualificadora do motivo fútil e o recorrido seja pronunciado e julgado pelo Tribunal do Júri como incurso nas sanções do art.121, parágrafo 2º, incisos II, IV e VI, do Código Penal, nos exatos moldes da sentença de pronúncia primeva (fl. 376).
+Oferecidas contrarrazões (fls. 381/387), o recurso especial foi admitido na origem (fls. 408/411).
+O Ministério Público Federal opina pelo provimento da insurgência (fls. 422/425):
+RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO. RÉU PRONUNCIADO COMO INCURSO NO ART. 121, § 2º, INCISOS II, IV E VI, DO CP. EXCLUSÃO DA QUALIFICADORA DO MOTIVO FÚTIL (INCISO II) PELO TRIBUNAL. IMPOSSIBILIDADE QUANDO NÃO SE REVELAR MANIFESTAMENTE IMPROCEDENTE. JURISPRUDÊNCIA DO STJ.
+As qualificadoras do crime de homicídio somente podem ser afastadas se manifestamente improcedentes, sob pena de invadir a competência constitucional do Tribunal do Júri, juiz natural para o julgamento dos crimes dolosos contra a vida.
+Parecer pelo provimento do recurso especial.
+É o relatório.
+Do guerreado aresto extraem-se as razões apresentadas pela Corte de origem para a exclusão da qualificadora do motivo fútil (fls. 332/333 - grifo nosso):
+ ..
+Porém, tem-se que é caso de decote da qualificadora do motivo fútil.
+O ciúme, por si só, como um sentimento comum à maioria da coletividade, desprovido de outros elementos, não é considerado fútil.
+Se diz fútil, na lição de Cleber Masson, aquele motivo "insignificante, de pouca importância, completamente desproporcional á natureza do crime praticado" (MASSON, Cleber. Direito penal esquematizado: parte especial - vol. 2. 6ª ed. rev. e atual. - Rio de Janeiro: Forense; São Paulo: MÉTODO, 2014).
+Nesta ótica, o sentimento humano de ciúme não pode ser considerado insignificante ou desprezível, pois atine à própria essência do ser, não cabendo ao intérprete da lei adjetivá-lo. Diversos crimes são praticados em contexto de relevante carga emocional, funcionando o ciúme como um ingrediente fomentador, o qual, muitas vezes, propicia a utilização pelo agente de meios imoderados para conter sua insatisfação.
+ ..
+Nesses termos, assinalado que fútil seria o motivo insignificante e desproporcional, decota-se essa qualificadora do crime de homicídio praticado contra a vítima, pronunciando-se o réu apenas pelo disposto no art. 121, § 2º, IV e VI, do Código Penal.
+ ..
+Razão assiste ao recorrente.
+Consta do dispositivo da decisão de pronúncia os seguintes termos: No que tange ao motivo, se o fato realmente ocorreu em decorrência de ciúmes, em contexto de bebedeira, tal como informado pelo próprio acusado, não se pode excluir, ao menos por ora, a futilidade de plano, que deverá ser apreciada, com todos os pormenores fáticos, pelos jurados (fl. 267 - grifo nosso).
+Com efeito, ao contrário do estabelecido no acórdão estadual, entendo ser defeso ao Tribunal, ao examinar recurso em sentido estrito contra decisão de pronúncia, excluir qualificadoras, valorando provas e aspectos particulares do caso, porquanto tal competência pertence ao Conselho de Sentença, juiz natural da causa, sob pena de se usurpar as atribuições singulares do Tribunal do Júri (art. 5º, XXXVIII, da CF).
+A propósito.
+PENAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. TRIBUNAL DE ORIGEM. EXCLUSÃO DA QUALIFICADORA PREVISTA NO ART. 121, § 2º, INCISO IV, DO CÓDIGO PENAL. IMPOSSIBILIDADE. COMPETÊNCIA EXCLUSIVA DO TRIBUNAL DO JÚRI. RECURSO ESPECIAL PROVIDO.
+- É firme a jurisprudência desta Corte no sentido de que apenas excepcionalmente se admite a exclusão das qualificadoras da sentença de pronúncia, quando manifestamente improcedentes, uma vez que compete ao Tribunal do Júri a análise plena dos fatos da causa.
+- Ao concluir pela improcedência da qualificadora prevista no inciso IV do § 2º do art. 121 do Código Penal, a Corte de origem fez incursão no material cognitivo produzido nos autos - analisando os depoimentos prestados em Juízo.
+- Aferir se houve ou não o elemento surpresa no desenrolar dos fatos, que culminaram com a morte da vítima, é tarefa da competência exclusiva do Tribunal do Júri, juiz natural dos crimes dolosos contra a vida.
+- Recurso especial provido para restabelecer a decisão de primeiro grau.
+(REsp n. 930.023/DF, Ministra Marilza Maynard (Desembargadora convocada do TJ/SE) Sexta Turma, DJe 7/8/2014 - grifo nosso).
+RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. VIOLAÇÃO DO ART. 619 DO CPP. NÃO OCORRÊNCIA. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. QUALIFICADORAS. MOTIVO FÚTIL. ELEMENTOS PROBATÓRIOS MÍNIMOS. PERIGO COMUM. NÚMERO INDETERMINADO DE VÍTIMAS. RECURSO QUE DIFICULTOU A DEFESA DO OFENDIDO. EXCLUSÃO PELO TRIBUNAL. IMPOSSIBILIDADE. COMPETÊNCIA DO JÚRI. CONCURSO FORMAL. COMPETÊNCIA DO PRESIDENTE DO TRIBUNAL DO JÚRI. RECURSO ESPECIAL PARCIALMENTE PROVIDO.  ..
+4. Não se pode afastar uma qualificadora por mera opção hermenêutica do juiz, de modo que o julgador somente pode retirar da pronúncia a qualificadora que, objetivamente, inexista, mas não a que, subjetivamente, julgar não existir. Em outros termos, não se pode subtrair da apreciação do Conselho de Sentença uma circunstância que, numa análise objetiva, mostra-se procedente, como no caso.
+ ..
+(REsp n. 1.430.435/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/3/2015 - grifo nosso).
+Dessa forma, observa-se que o Tribunal a quo não justificou devidamente a exclusão da qualificadora, a qual não se reputa como manifestamente improcedente, devendo, no caso concreto, o Conselho de Sentença pronunciar-se sobre o caráter fútil ou não da conduta perpetrada pelo recorrido.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. JÚRI. EXCLUSÃO DA QUALIFICADORA DO MOTIVO FÚTIL. CIÚMES. COMPETÊNCIA DO CONSELHO DE SENTENÇA. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. O julgamento monocrático encontra previsão no art. 253, parágrafo único, inciso II, alínea b, do RISTJ, que permite ao relator negar provimento ao recurso quando a pretensão recursal esbarrar em súmula do STJ ou do STF, ou ainda, em jurisprudência dominante acerca do tema, inexistindo, portanto, ofensa ao princípio da colegialidade.
+2. Nos termos da orientação jurisprudencial desta Corte, a exclusão de qualificadoras constantes na pronúncia somente pode ocorrer quando manifestamente improcedente, sob pena de usurpação da competência do Tribunal do Júri, juiz natural para julgar os crimes dolosos contra a vida. (HC 296.167/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 17/2/2017).
+3. Agravo regimental improvido.
+(AgInt no REsp n. 1.746.599/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 17/12/2018 - grifo nosso).
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. MOTIVO FÚTIL. CIÚMES. MANIFESTA IMPROCEDÊNCIA NÃO VERIFICADA NA HIPÓTESE. SUBMISSÃO DA MATÉRIA AO TRIBUNAL DO JÚRI. SÚMULA N. 7/STJ. NÃO INCIDÊNCIA.
+1. Ao contrário do sustentado pelo agravante, no caso, não houve necessidade de incursão no acervo probatório dos autos, para se concluir pela violação aos arts. 413, caput e § 1º, do Código de Processo Penal e 121, § 2º, II, do Código Penal, uma vez que a situação fática já estava delineada no acórdão recorrido. Não há que se falar, portanto, na incidência da Súmula n. 7/STJ.
+2. Com efeito, a qualificadora do motivo fútil foi indevidamente decotada da sentença de pronúncia, pois o Tribunal de origem não demonstrou sua manifesta improcedência. Para justificar a exclusão da majorante, foi realizado indevido juízo de valor, com interpretação que cabia exclusivamente ao Tribunal do Júri.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.743.740/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/9/2018 - grifo nosso).
+Diante do exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especialpara restabelecer a qualificadora prevista no art. 121, § 2º, II, do Código Penal, na decisão de pronúncia.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. VIOLAÇÃO DOS ARTS. 121, § 2º, II E IV, DO CP; E 413, § 1º, DO CPP. DECISÃO DE PRONÚNCIA. RECURSO EM SENTIDO ESTRITO. EXCLUSÃO DE QUALIFICADORA. MOTIVO FÚTIL, EM DECORRÊNCIA DE CIÚMES. IMPOSSIBILIDADE. COMPETÊNCIA DO CONSELHO DE SENTENÇA. AUSÊNCIA DE MANIFESTA IMPROCEDÊNCIA.
+Recurso especial provido nos termos do dispositivo.
