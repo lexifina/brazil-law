@@ -1,0 +1,53 @@
+DECISÃO
+MARCELO RIBEIRO DA SILVA interpõe recurso especial, com fulcro no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região no Agravo em Execução Penal n. 0009894-37.2015.4.03.6181.
+Nas razões recursais, o recorrente postula o reconhecimento da prescrição da pretensão executória, sob o argumento de que o prazo prescricional se inicia com o trânsito em julgado da condenação para a acusação.
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 281-283).
+Decido.
+Consta nos autos que o réu foi condenado a 3 anos de reclusão, em regime aberto, pela prática do delito previsto no art. 289, § 1º, do Código Penal. A sentença transitou em julgado para a acusação em 18/5/2009 (fl. 206). A teor do art. 109, IV, do CP, a perda do direito de executar a sanção imposta ao recorrente ocorre em 8anos.
+Sobre o pleito de prescrição, a Corte de origem dispôs (fls. 205-208, grifei):
+No caso em tela, considerando que o réu foi definitivamente condenado à pena de 03 (três) de reclusão, nos termos do art. 109, IV do Código Penal, a prescrição obedece ao prazo de 08 (oito) anos.
+O mérito recursal se limita à correta verificação do termo inicial da prescrição da pretensão executória do Estado.
+O MM. Juízo de origem entendeu tal marco como sendo a data do trânsito em julgado da sentença condenatória para a acusação.
+E, assim, teria ocorrido a prescrição, posto que entre a data do trânsito em julgado da sentença para a acusação (18/05/2009, fl. 50) e a data da decisão que declarou extinta a punibilidade (20/08/2018, fls. 97/98) já havia transcorrido o prazo de 08 (oito) anos.
+Reconhecendo a divergência jurisprudencial quanto ao termo inicial da pretensão executória, temos que a expressão "trânsito em julgado para a acusação" ou para a defesa deve ser utilizada cum grano salis.
+Com efeito, não se pode entender que a decisão transitou em julgado para a acusação porque ela deixou de recorrer da sentença condenatória, até porque não podia fazê-lo por falta de interesse. Não há ai propriamente trânsito em julgado, pois se a apelação defensiva tivesse provimento, reabrir-se-iam para a acusação as vias recursais.
+A expressão tornou-se comum, porém, em matéria de prescrição retroativa. Aqui, fala-se em "trânsito em julgado para a acusação", não num sentido absoluto, mas naquele em que, havendo recurso exclusivo da defesa, não será possível o agravamento da pena em sede recursal, em razão do princípio da non reformatio in pejus.
+Contudo, como se vê, tal raciocínio é restrito à aferição da definitividade da pena in concreto, para fins de reconhecimento da prescrição retroativa, não havendo sentido em aplicá-lo à pretensão executória.
+A menção do art. 112, I, do Código Penal só faz sentido em um cenário em que admitida a execução provisória da pena, o que era a regra no Código de Processo Penal na sua redação original.
+ ..
+A chamada Lei Fleury (Lei n.5.941/73), que alterou o art. 594 do CPP, reafirma essa regra originária da execução provisória, ao tempo em que cria uma primeira exceção, quando se tratar de réu primário e de bons antecedentes.
+Vê-se, assim, que a sentença condenatória era desde logo executável, razão pela qual a prescrição da pretensão executória começava de logo a correr, caso o Ministério Público não interpusesse recurso, na forma do citado art. 112,I, do CP.
+Contudo, posteriormente, o Supremo Tribunal Federal, interpretando o alcance do princípio constitucional da presunção da inocência, vedou a execução provisória (HC 84.078/MG, rel. Min. Eros Grau, 05.02.2009, Informativo STF nº 534), estando o Ministério Público impedido de pleitear a execução da pena enquanto o feito não transitar em julgado para ambas as partes.
+Seria, na visão do Excelso Pretório, um contrassenso reconhecer a prescrição da pretensão executória pelo transcurso de um lapso temporal durante o qual o Estado-acusação não pode agir e que escoa em beneficio exclusivo das postulações recursais da defesa.
+Com a devida vênia, o pensamento em contrário parece-nos ensejar impunidade e pecar por dar ao art. 112, I, já referido, interpretação que não subsiste, por adequar-se apenas a contexto legislativo pretérito.
+Isso porque a Justiça Pública ainda não podia pretender que se iniciasse a execução da sanção penal cominada ao acusado, o que só passou a ser possível a partir de 10/07/2015, quando a condenação e a sanção penal restaram confirmadas por decisão transitada em julgado (fl. 61).
+Se não bastasse, o Supremo Tribunal Federal, em recente julgamento concluído no dia 07 de novembro de 2019, julgou procedentes as Ações Declaratórias de Constitucionalidade (ADC) 43, 44 e 54, de modo que ficou consignado a constitucionalidade da regra disciplinada no Código de Processo Penal de que é necessário o esgotamento de todas as possibilidades de recursos, ou seja, o trânsito em julgado da ação, para que seja dado início ao cumprimento da pena.
+Por todos estes argumentos, não se pode concluir que houve a prescrição da pretensão executória do Estado, eis que o prazo prescricional de 08 (oito) anos ainda não se ultimou.
+Assento, pois, que o lapso prescricional da pretensão executória não restou ultrapassado, uma vez que teve início somente quando operado o trânsito em julgado do v. acórdão para a acusação e a defesa. É que somente a partir desse momento é que as penas cominadas ao réu se tornaram executáveis, em obediência ao princípio constitucional da presunção de inocência, conforme hermenêutica então adotada pelo STF.
+ ..
+Ademais, vale ressaltar que, neste Tribunal, a E. Quarta Seção já consolidou o entendimento de que o termo inicial da prescrição da pretensão executória é a data do trânsito em julgado da decisão para ambas as partes, uma vez que não se pode dar início ao cumprimento da pena, isto é, à execução, antes desse marco. Citem-se, como exemplos, os seguintes julgados: EIFNU nº 0101800-41.1997.4.03.6181/SP, Rel. Des. Federal Paulo Fontes, v.u., julgado em 16.07.2017, publ. DJE 27.03.2017; EIFNU nº 0004092-43.2011.4.03.6102, Rel.Des. Federal José Lunardelli, v.u., julgado em 21.01.2016, DJE 05.02.2016.
+Assim sendo, conclui-se que os fatos delituosos não foram atingidos pelo fenômeno da prescrição executória, subsistindo, em favor do Estado, o direito de punir e executar a pena cominada ao condenado.
+O curso da prescrição executória é interrompido pelo início ou continuação do cumprimento da pena ou pela reincidência, o que não ocorreu na espécie. A publicação da sentença ou do acórdão condenatório recorrível está relacionada à prescrição da pretensão punitiva.
+Nos termos do art. 112 do CP, a prescrição pela pena em concreto começa a correr "do dia em que transita em julgado a sentença condenatória, para a acusação, ou a que revoga a suspensão condicional da pena ou o livramento condicional" (inciso I) ou, ainda, "do dia em que se interrompe a execução, salvo quando o tempo da interrupção deva computar-se na pena" (inciso II).
+As hipóteses de interrupção da prescrição estão dispostas no art. 117 do Código Penal:
+Art. 117 - O curso da prescrição interrompe-se:
+I - pelo recebimento da denúncia ou da queixa;
+II - pela pronúncia;
+III - pela decisão confirmatória da pronúncia;
+IV - pela publicação da sentença ou acórdão condenatórios recorríveis;
+V - pelo início ou continuação do cumprimento da pena;
+VI - pela reincidência.
+Os incisos I a IV tratam da interrupção da prescrição da pretensão punitiva eos incisos V e VI, da prescrição da pretensão executória.
+O STF reputou constitucional (Tema 788) o debate sobre o termo inicial para a contagem da prescrição executória e reconheceu a sua repercussão geral.Entretanto, não houve determinação de paralisação de processos sob tramitação e o leading case (ARE n. 848.107/DF, da relatoria do Ministro Dias Toffoli) ainda não foi julgado.
+A solução da controvérsia não é uníssona. Também não olvidoque perpassa a perda do poder-dever do Estado de executar a sanção imposta sem que se possa reconhecer sua inércia, porquanto a condenação à pena restritiva de direitos somente pode ser iniciada depois do trânsito em julgado da condenação para ambas as partes.
+Entretanto, no âmbito infraconstitucional, enquanto não modificada a interpretação do art. 112, I, do CP à luz do art. 5º, II e LVII, da CF, prevalece neste Superior Tribunal o entendimento de que, por expressa previsão, à vista do princípio da legalidade, o termo inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação.
+Confira-se:
+ ..
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que, conforme disposto expressamente no art. 112, I, do CP, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado (AgRg nos EAREsp n. 908.359/MG, Terceira Seção, Relator Ministro NEFI CORDEIRO, DJe de 2/10/2018).
+2. A existência de precedente recente do Supremo Tribunal Federal em sentido contrário não tem o condão de alterar o posicionamento pacífico deste Sodalício, a quem compete a uniformização da interpretação da legislação infraconstitucional, uma vez que se trata de decisão proferida pela maioria dos integrantes de apenas um dos órgãos fracionários do Pretório Excelso, que, embora tenha reconhecido a repercussão geral do tema no ARE 848.107 RG/DF, ainda não fixou seu entendimento sobre a questão (AgRg no HC 545.372/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 05/12/2019, DJe 13/12/2019).
+3. Agravo regimental não provido.
+(AgRg nos EDcl no AgRg no AREsp n. 1764481/PR, Rel.Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 12/2/2021).
+Mesmo depois da Constituição Federal de 1988, o legislador optou por não fazer mudanças na redação do art. 112, I, do CP, e a norma não foi revogada por não recepção nem declarada inconstitucional, razões pelas quais permanece sua vigência no ordenamento jurídico pátrio.
+Assim, como em direito penal é incabível a interpretação da lei de forma contrária ao réu, prevalece nesta Corte a estrita observância ao princípio da legalidade e à literalidade do art. 112 do CP (v.g.: RHC n. 89.948/RS, Rel.Ministro Ribeiro Dantas, 5ª T., DJe 25/6/2019; AgRg no RHC n. 107.738/SE, Rel. Ministro Rogerio Schietti, 6ª T., DJe 23/5/2019 e EDcl no AgRg no REsp n.1.706.916/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 29/4/2019).
+À vista do exposto, dou provimento ao recurso especial a fim de declarar extinta a punibilidade do recorrente em virtude da prescrição da pretensão executória.
+Publique-se e intimem-se.
