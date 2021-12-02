@@ -1,0 +1,39 @@
+DECISÃO
+1. Cuida-se de agravo interposto por FUNDAÇÃO FELICE ROSSO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - ILEGITIMIDADE PASSIVA - PRELIMINAR REJEITADA - PRESTAÇÃO DE SERVIÇOS HOSPITALARES - ESTADO DE PERIGO - CONFIGURAÇÃO - ATO JURÍDICO ANULÁVEL - IMPOSSIBILIDADE DE REVALIDAÇÃO DO ATO - IMPROCEDÊNCIA DO PEDIDO - SAÚDE - RESPONSABILIDADE DO ESTADO.
+- A legitimidade de partes deve ser verificada a partir da titularidade da relação jurídica de direito material deduzida em juízo.
+- Improcede o pedido de cobrança de serviços hospitalares prestados em caso em que resta configurado estado de perigo de familiar do contratante, que assumiu obrigação excessivamente onerosa perante entidade hospitalar em situação de grave enfermidade, tornando de nenhuma valia o termo de responsabilidade assinado.
+- Sendo inviável a convalidação de ato jurídico anulável, diante da impossibilidade de pagamento dos serviços prestados e não autorizados pelo paciente, em razão da sua incapacidade momentânea, pode o credor buscar a satisfação do seu crédito junto ao Estado, tendo em vista a sua responsabilidade de garantir o direito constitucional à saúde de toda a população, consoante preceitua o artigo 196 da Constituição da República.
+Opostos 2 (dois) embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos artigos 373, inciso II, do CPC de 2015 e 118 do RITJMG.
+Defende ter havido cerceamento de defesa, ante o indeferimento da assistência requerida. Aduz que "o pedido de assistência formulado pela Embargante, ora Recorrente, figura como exercício regular de seu direito à ampla defesa, razão pela qual seu indeferimento sem qualquer justifica plausível figura como cerceamento de defesa".
+Por outro lado, afirma que, "demonstrado o fato constitutivo do direito da Autora, ora Recorrente (art.373, I, do CPC), esgota-se o seu ônus probatório, cabendo a Ré, ora Recorrida, para afastar sua responsabilidade, demonstrar uma das causas excludentes do nexo causal ou a existência de fato impeditivo, modificativo ou extintivo do direito da Autora (373, inciso II, do CPC)".
+E continua:
+Frise-se, ademais, que na hipótese entender o Juízo a quo pela inversão do ônus de prova, esta deve ocorrer na fase de saneamento do feito, assegurando-se, dessa forma, à parte a quem incumbe a prova dos fatos, a oportunidade de produzir provas, sob pena de cerceamento de defesa.
+ .. .
+No caso em deslinde tem-se que o Juízo de origem entendeu ser imprópria a inversão do ônus de prova, razão pela qual inconteste a condução do feito à luz da pura e simples regra ordinária que atribui o ônus da prova a quem alega.
+Portanto, a comprovação do preenchimento dos requisitos do suposto estado de perigo alegado pela para Ré, ora Recorrida competia a esta, de modo que em não havendo nos autos a demonstração cabal do vício, tal defeito jurídico não poderia ser presumido pelos doutos Julgadores.
+ .. .
+Sobreleva ressaltar, ainda, que na hipótese de a Câmara possuir entendimento diversos quanto ao ônus probatório, deveria ter oportunizado à Autora, ora Recorrente, a produção de provas, sob pena de cerceamento de defesa, bem como afronta à ampla defesa, ao contraditório e a não surpresa, o que não ocorreu.
+Sendo assim, notório o equívoco do Sodalício a quo ao exigir a produção de prova pela ora Recorrente de fato que fora alegado pela Ré quando, em verdade, o ônus de demonstrar o suposto estado de perigo competia à ora Recorrida.
+Por fim, defende o não cabimento da multa aplicada em sede de embargos de declaração.
+É o relatório.DECIDO.
+2.No que tange à alegada violação ao artigo 118 do RITJMG, assinala-se que a indicação de ofensa a resoluções, portarias e circulares, não enseja a abertura da via especial, pois os aludidos atos normativos não se enquadram no conceito de lei previsto no art. 105, inciso III, alínea "a", da Constituição Federal (AgRg no Ag 1.021.960/RJ, Relator o Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 11/9/2008).
+A propósito:
+ADMINISTRATIVO - INTERVENÇÃO DO ESTADO NA PROPRIEDADE - DESAPROPRIAÇÃO - INDENIZAÇÃO - APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL - INVIABILIDADE - COMPETÊNCIA DO STF - PEDIDO DE RECONSIDERAÇÃO DA DECISÃO - INTERRUPÇÃO DO PRAZO RECURSAL - IMPOSSIBILIDADE - AGRAVO DE INSTRUMENTO INTEMPESTIVO - RECURSO ESPECIAL - VIOLAÇÃO A REGIMENTO INTERNO DE TRIBUNAL - INVIABILIDADE - MATÉRIAS NÃO DECIDIDAS NO TRIBUNAL A QUO - AUSÊNCIA DE PREQUESTIONAMENTO - EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS - APLICAÇÃO DE MULTA - MANUTENÇÃO.
+ ..
+4. O recurso especial tem por objetivo o controle de ofensa à legislação federal, nos termos do artigo 105, III, a, b e c, da CF, e, por isso, descabe a análise de suposta violação a portarias, a instruções normativas, resoluções ou regimentos internos dos Tribunais.
+ ..
+9. Recurso especial parcialmente conhecido, mas, nessa parte, não provido. (REsp 1123740/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 04/02/2010, DJe 22/02/2010).
+3. Em relação às alegações relacionadas ao cerceamento de defesa, ante o indeferimento da assistência requerida, e pedido de afastamento da multa aplicada em sede de embargos de declaração,a alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Aplicação da Súmula n. 284/STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. INCIDÊNCIA DAS SÚMULAS 7 e 211 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AGRAVO NÃO PROVIDO.
+ .. .
+4. Em relação à alegação de excessivo valor da indenização e quanto ao termo inicial para correção monetária, constata-se, ao se compulsarem as razões do apelo especial, que a parte recorrente olvidou-se da indicação clara e inequívoca dos dispositivos legais direta e eventualmente violados pelo v. acórdão impugnado, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula 284 do e. Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+5. Agravo interno não provido.
+(AgInt no AREsp 972.110/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+4. No mais, amatériareferenteaoartigo 373, inciso II, do CPC de 2015, relacionado ao ônus da prova,não foiobjeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
