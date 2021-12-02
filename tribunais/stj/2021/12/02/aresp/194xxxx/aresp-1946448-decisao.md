@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. ISS. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. DECADÊNCIA E PRESCRIÇÃO. REJEIÇÃO. ACERTO DA R. DECISÃO AGRAVADA. 1. Nos tributos sujeitos ao lançamento por homologação, tal como o ISS, o prazo para que a autoridade fiscal constitua, de ofício, o crédito tributário não declarado pelo contribuinte, é de cinco anos, contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado, nos termos do artigo 173, I, do CTN. 2. Fato gerador mais antigo que ocorreu em 01/04/2004, de modo que a fluência do prazo decadencial teve início em 01/01/2005, sendo possível o lançamento até 01/01/2010. 3. Lavratura do Auto de Infração em 05/05/2008, e tal procedimento é apto à constituição do crédito tributário, conforme precedentes do Eg. STJ. 4. O oferecimento de recurso no processo administrativo pela agravante, após ser cientificada da lavratura do Auto de Infração em 05/05/2008, teve o condão de suspender a exigibilidade do crédito tributário para todos os efeitos, conforme o artigo 151, III, do CTN. Assim, embora já tivesse ocorrido o lançamento com a lavratura do Auto de Infração, sua eficácia estava suspensa até final decisão no processo administrativo, a qual só foi proferida em 14/08/2013, quando teve início a contagem do prazo prescricional. 5. Execução fiscal ajuizada após a alteração do inciso I, do parágrafo único, do artigo 174 do CTN pela Lei Complementar 118/05, com a interrupção da prescrição com o despacho liminar positivo, proferido em 31/10/2016, quando ainda não decorridos cinco anos daquela data. 6. Inexistência de prescrição intercorrente administrativa se não demonstrado retardo excessivo no andamento do processo respectivo, nem inércia do Fisco, além de ter sido interposto recurso pela agravante, que, logicamente, também causou algum retardo no andamento processual. 7. Acerto da R. Decisão agravada. 8. Desprovimento do recurso.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega violação do art. 110 do CTN e da LC 116/2003.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.11.2021.
+O acórdão recorrido consignou:
+A hipótese é de cobrança de ISS referente ao período de janeiro de 2004 a setembro de 2006.
+Consoante bem explicitado na R. Decisão agravada, quando o sujeito passivo, nos tributos sujeitos à sistemática do lançamento por homologação, não recolhe antecipadamente o tributo devido, que é a hipótese dos autos, o prazo de decadência para a Fazenda Pública apurar e constituir seu crédito por meio do lançamento de ofício começa a contar do primeiro dia útil do exercício seguinte àquele em que o lançamento poderia ter sido realizado, conforme o artigo 173, I, do CTN.
+Nesse sentido a súmula 555 do STJ:
+"Quando não houver declaração do débito, o prazo decadencial quinquenal para o Fisco constituir o crédito tributário conta-se exclusivamente na forma do art. 173, I, do CTN, nos casos em que a legislação atribui ao sujeito passivo o dever de antecipar o pagamento sem prévio exame da autoridade administrativa."
+Nessa esteira, tendo em vista que o fato gerador mais antigo ocorreu em 01/04/2004, a fluência do prazo decadencial teve início em 01/01/2005, de forma que o tributo poderia ser lançado até 01/01/2010.
+E diferentemente do que alega a agravante, a apuração do fato gerador se iniciou com o processo nº 04/356/108/2007, conforme fls. 51 da execução fiscal, e, em 05/05/2008, foi lavrado o Auto de Infração nº 101710, que foi o que deu origem à execução, conforme certificado pela autoridade administrativa, que também certificou a instauração do processo administrativo nº 04/356.046/08, mencionado na R. Decisão agravada.
+Ora, o Eg. STJ já tem entendimento consolidado no sentido de que o Auto de Infração constitui procedimento apto à constituição do crédito tributário. A título de exemplo, veja-se:
+(..)
+Não há dúvida, assim, de que houve o lançamento em 05/05/2008, quando ainda não havia decorrido o prazo decadencial em sua inteireza.
+Já quanto à prescrição, entende-se que também não ocorreu.
+Com efeito, a agravante ofereceu recurso no processo administrativo, após ser cientificada da lavratura do Auto de Infração em 05/05/2008.
+E conforme o artigo 151, III, do CTN 2 , o recurso apresentado no processo administrativo tem o condão de suspender a exigibilidade do crédito tributário para todos os efeitos, inclusive para fins de prescrição, logicamente.
+Assim, embora já tivesse ocorrido o lançamento com a lavratura do Auto de Infração, sua eficácia estava suspensa até final decisão no processo administrativo, a qual só foi proferida em 14/08/2013, conforme fls. 70 da execução.
+A execução fiscal foi ajuizada após a alteração do inciso I, do parágrafo único, do artigo 174 do CTN pela Lei Complementar 118/05, de modo que a prescrição, na hipótese, se interrompeu com o despacho liminar positivo, proferido em 31/10/2016, quando ainda não decorridos cinco anos daquela data.
+Daí a inocorrência da prescrição originária.
+Não há que se falar, ainda, em prescrição intercorrente administrativa, pois não foi demonstrado retardo excessivo no andamento do processo respectivo, nem inércia do Fisco, e, como é cediço, a interposição de recurso pelo contribuinte, muitas vezes até a última instância administrativa, também provoca retardo no andamento do processo, que, no caso, como já se viu, não tramitou por mais de cinco anos.
+Tudo isso considerado, tem-se por correta a R. Decisão agravada ao não reconhecer a decadência e a prescrição na espécie. (fls. 49-52, e-STJ)
+Da leitura do acórdão recorrido infere-se que a tese do Recurso Especial - ausência do fato gerador -, não foi analisada pelo Tribunal local, sendo assim, não está devidamente prequestionada, o que obsta seu exame nessa instância.
+Ademais, rever o entendimento do acórdão recorrido demanda revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em Recurso Especial, por óbice da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
