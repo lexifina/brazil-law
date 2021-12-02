@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MAURICIO BETITO NETO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2139231-13.2020.8.26.0000).
+Consta dos autos que o Paciente foi denunciado como incurso "nos arts. 168, §1º, III, e 299, caput, c.c. 61, II, "b" e 69, todos do Código Penal", pois, "em razão de sua profissão de advogado, apropriou-se da quantia de R$ 4.242,00 em dinheiro, coisa alheia móvel da qual tinha a detenção," bem como "inseriu em documento particular declaração falsa e diversa da que deveria ser escrita, com o fim de prejudicar direito, criar obrigação e alterar a verdade sobre fato juridicamente relevante, para facilitar a impunidade do crime de apropriação indébita" (fls. 173-187).
+Impetrado prévio writ na origem, a Corte local denegou a ordem, nos termos da seguinte ementa (fl. 168):
+"Habeas Corpus. Apropriação indébita qualificada. Impossibilidade de obtenção do salvo conduto pretendido. Isenção de responsabilidade criminal inadmissível. Providências administrativas que não podem ser atacadas por meio deste recurso. - Pedido de trancamento de ação penal. Análise de questão de prova incabível no estreito espaço do habeas corpus. Ordem conhecida em parte e, na parte conhecida, denegada."
+Neste mandamus, a Defesa alega, em suma: a) a ausência de impessoalidade dos promotores que atuam no caso; b) a ausência de justa causa para o prosseguimento da ação penal, porquanto não demonstrado o dolo específico na conduta; e c) a atipicidade da conduta pela inexistência de indício de materialidade delitiva.
+O pedido liminar foi indeferido (fls. 725-727).
+As informações foram apresentadas (fls. 731-748; ).
+O Ministério Público Federal opina pelo não conhecimento do habeas corpus e, se conhecido, denegada a ordem (fls. 774-776).
+É o relatório. Decido.
+Ao consultar o andamento da ação penal na origem, constata-se o superveniente julgamento do pedido.
+O Juízo da Vara Criminal do Foro de São João da Boa Vista/SP acolheu a pretensão punitiva estatal para condenar o Paciente à pena privativa de liberdade de 1 (um) ano e 2 (dois) meses de reclusão e pagamento de 11 (onze) dias-multa, dando-o como incurso no art. 299,caput, cumulado com o art. 61, inciso II, alínea "b", ambos do Código Penal, e à pena privativa de liberdade de 1 (um) ano e 4 (quatro) meses de reclusão e pagamento de 13 (treze) dias-multa, cada qual no mínimo legal, dando-o como incurso no artigo 168, §1º, III, do Código Penal.
+As sanções restritivas de liberdade foram substituídas "por duas penas restritivas de direitos consistentes em prestação de serviços à comunidade ou a entidades públicas pelo mesmo período da privativa de liberdade, de forma e molde a ser deliberado em sede de execução, e pagamento de prestação pecuniária, no valor de um salário mínimo, a entidade pública ou privada, com destinação social".
+Diante do julgamento da ação penal em cognição exauriente, conforme entendimento expresso no enunciado da Súmula n. 648 do Supremo Tribunal Federal, esta Corte entende que perde o objeto a irresignação que busca o trancamento de ação penal por falta de justa causa. (HC 679.045/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/08/2021, DJe 20/08/2021.)
+Quanto aos outros temas, verifica-se da sentença condenatória que eles foram objeto de análise pelo Juízo da causa. Assim, diante do novo título, não há de admitir este habeas corpus como substituto do recurso de apelação, pois constitui ação constitucional, não comportando dilação probatória, inexistindo, in casu, a comprovação de situação excepcional a justificar o manejo do presente writ
+Ante o exposto, JULGO PREJUDICADO o pedido.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.APROPRIAÇÃO INDÉBITA. FALSIDADE IDEOLÓGICA. TRANCAMENTO AÇÃO PENAL. SUPERVENIENTE JULGAMENTO. SÚMULA 648/STF.HABEAS CORPUSPREJUDICADO.
