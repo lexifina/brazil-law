@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLARICE CARNEIRO BACCINI em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+2.12- Portanto, o presente recurso deverá ser conhecido e provido, nos termos do artigo 1022, I, do CPC, em razão da clara obscuridade na decisão deste juízo, ao justificar o não conhecimento do Recurso Especial, em razão do óbice da Súmula 7, do STJ, uma vez que o recurso apresentado versa exclusivamente sobre questão de direito, devendo o recurso ser conhecido e provido para reconhecer que os valores bloqueados na conta bancária da embargante são absolutamente impenhoráveis, de acordo com a redação prevista no artigo 833, X, do CPC, e de acordo com a jurisprudência já consolidada deste Tribunal Superior. (fl. 295).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Alega a parte recorrente a existência de obscuridade no decisum recorrido, uma vez que o recurso por ela interposto versa exclusivamente sobre questão de direito, devendo, assim, ser conhecido e provido para reconhecer que os valores bloqueados em sua conta bancária são absolutamente impenhoráveis, conforme prevê o artigo 833, X, do CPC, e a jurisprudência consolidada deste Tribunal Superior.
+Entretanto, compulsando os fólios, nota-se que a sua insurgência não merece prosperar.
+Isso porque o acórdão proferido pelo Tribunal a quo se manifestou da seguinte forma:
+ ..  deixou a recorrente/embargante de comprovar a titularidade, integral, tanto do saldo remanescente (R$ 6.036,33), quanto do saldo existente em aplicação financeira (R$ 21.559,52), restando inconteste que a cláusula legal de impenhorabilidade (art. 833, inc. IV e X, do CPC) atingirá apenas 50% de tais valores, a fim de resguardar, frisa-se, a metade pertencente à não executada.
+Dessa forma, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+No mesmo sentido, quanto à controvérsia recursal, pela alínea "c", verifica-se que a pretensão da embargante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Portanto, não há qualquer irregularidade sanável por meio dos presentes embargos, não padecendo a decisão recorrida do vício da obscuridade apontada pela recorrente.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
