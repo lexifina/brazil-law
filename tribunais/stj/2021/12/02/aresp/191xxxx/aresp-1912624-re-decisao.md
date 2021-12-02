@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por ALMIR FRANCISCO SIMÕES, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra decisão monocrática proferida pela Presidência desta Corte, nos seguintes termos (e-STJ fls. 244-246):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisãoagravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Os embargos de declaração opostos, na sequência,foram rejeitados (e-STJ fls.268-270).
+Sustenta orecorrente a existência de repercussão geral da matéria debatida, bem como aviolação a dispositivo constitucional.
+Aponta que "não pode o Recorrente debater ponto a ponto do Verando Acórdão que inadmitiu o agravo do regimento em sede Recurso Especial, quando todos os argumento trazidos à baila são pela concessão da gratuidade de justiça em razão da incompetênciano processar e julgar os autos do processo" (e-STJ fl. 282).
+Requer a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Ascontrarrazões foram apresentadas às e-STJ fls. 295-302.
+É o relatório.
+Nos termos do art.102, inciso III, alínea "a", da Constituição Federal, compete ao Supremo Tribunal Federal o julgamento, mediante recurso extraordinário, das causas decididas em única ou última instância.
+No caso dos autos, verifica-se que o recurso extraordinário foi interposto contra decisão monocrática proferida por integrante do Superior Tribunal de Justiça, contra a qual seria cabível agravo interno.
+Dessa forma, ante a ausência de exaurimento das vias recursais nesta instância especial, deve ser aplicado o enunciado 281 da Súmulado Supremo Tribunal Federal, in verbis:
+É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.
+No mesmo sentido:
+Agravo regimental no recurso extraordinário com agravo. Não esgotamento das instâncias ordinárias. Súmula nº 281/STF. Precedentes. 1. Incide no caso a Súmula nº 281 do Supremo Tribunal Federal, pois o recurso extraordinário foi interposto contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE 1246783 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 08/06/2020, PROCESSO ELETRÔNICO DJe-169 DIVULG 03-07-2020 PUBLIC 06-07-2020.)
+Com igual orientação:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS RECURSAIS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 281/STF. AGRAVO A QUE SE NEGA PROVIMENTO. I - Consoante a Súmula 281 do Supremo Tribunal Federal, é inadmissível o recurso extraordinário quando couber na Justiça de origem recurso ordinário da decisão impugnada. II - Agravo regimental a que se nega provimento.
+(ARE 1265496 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 29/05/2020, PROCESSO ELETRÔNICO DJe-138 DIVULG 03-06-2020 PUBLIC 04-06-2020.)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DE INSTÂNCIA. INCIDÊNCIA DO ENUNCIADO 281 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
