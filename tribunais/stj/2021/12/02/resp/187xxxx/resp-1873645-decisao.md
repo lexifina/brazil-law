@@ -1,0 +1,49 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto pela BANCO SANTANDER (BRASIL) S.A.em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ Fl. 2807/2808):
+Ação de Cobrança- Previdência Privada - PLR- Rejeição da preliminar de nulidade da sentença - Funcionário do Banespa - Legitimidade do Banco Santander S. A - Direito aorecebimento- Matéria pacificada - Apelo provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 758/770; 785/797).
+No recurso especial, orecorrentes aponta, além de dissídio jurisprudencial, ofensa aos arts. 112e114 do Código Civile68 da Lei Complementar 109/01.Defende, em síntese, que "por tratar-se de verba extralegal e de cunho benéfico, as disposições dos artigos 48 e 49 (45) do estatuto social do banco e 56 do Regulamento de Pessoal, devem ser analisadas e interpretadas conforme determina o artigo 114 do Código Civil, ou seja, sua interpretação deve ser restritiva não podendo de forma alguma ser ampliada" (e-STJ Fl. 807).Alegaque "a gratificação semestral era verba de natureza extralegal, cuja deliberação dependia da diretoria, enquanto a PLR é negociada entre as categorias profissionais e econômicas, diferenciando-se deste modo" (e-STJ Fl. 807).Sustenta, ainda, que"não há qualquer previsão legal ou convencional que determine o pagamento da participação nos lucros e resultados em substituição à gratificação semestral, sendo certo que o Regulamento de Pessoal não contempla ou autoriza aludida pretensão. Assim sendo, por todo o exposto, não pode ser mantido o v. acórdão do Tribunal de Justiça do Estado de São Paulo, quanto ao pagamento da verba denominada PLR, tendo em vista que o Recorrido é aposentado, não podendo ser comparado com os empregados da ativa" (e-STJ Fls. 808).
+Foram apresentadascontrarrazões às fls. 852/862(e-STJ).
+Admitido o apelo nobre (e-STJ fls. 863/866), vieram os autos conclusos para análise.
+É o relatório.
+Passo a decidir.
+O recurso especial merece prosperar.
+Com efeito,o Tribunal de origem deu provimento à apelação da parte recorrida, nos seguintes termos (e-STJ Fls. 733/737, gn):
+"(..)
+No mérito, a autora demonstrou seu vínculo laboral com o Banco Banespa, a partir de 02.01.1979(fl. 21), percebendo "gratificação semestral" (fls. 22/23), estendida aos funcionários aposentados, conforme previsão expressa no artigo 56 do Regulamento do Pessoal de 1975,verbis:
+"Art. 56 - Dentro das condições estabelecidas pelos Estatutos, serão distribuídas, semestralmente, aos empregados, inclusive aposentados, as gratificações que forem autorizadas pela Diretoria" (FL. 38).
+Ocorre que a autora se aposentou em 31.05.2001 (fl. 148), após a privatização do Banespa, tendo seu adquirente e incorporador, Banco Santander, cassado o pagamento das indigitadas gratificações.
+Isto porque, segundo argumentou o Banco Santander, a autora se aposentou antes do advento da bonificação denominada PLR (participação nos lucros e resultados), instituída pela Lei n.º 10.101/2000, não fazendo jus, daí, ao recebimento desta verba, que difere da gratificação anteriormente paga pelo Banespa, isso sem considerar que inexiste equiparação entre funcionários ativos e inativos.
+Com efeito, o entendimento sufragado pelo Tribunal Superior do Trabalho e por esta C. Corte é de que as verbas denominadas PLR (participação nos lucros) e gratificação semestral possuem a mesma natureza jurídica, tratando-se a PLR, na verdade, de mera alteração de nomenclatura da antiga "gratificação semestral", mesmo porque a Lei n.º 10.101/2000, que dispõe sobre a participação dos trabalhadores nos lucros ou resultados na empresa, não faz qualquer diferenciação entre elas.
+(..)
+Logo, os funcionários admitidospelo Banco Banespa (atual Banco Santander) sob a égide do Regulamento do Pessoal de 1975, estejam eles na ativa ou não, têm direito ao recebimento de PLR, nos termos do seu artigo 56, parágrafo 2º, sobretudo por força do princípio do pacta sunt servanda.
+Cumpre destacar, entretanto, que o reconhecimento do direito da autora ao recebimento de PLR não gera qualquer reflexo em seu benefício de previdência complementar já tal gratificação decorre de previsão do regulamento interno do empregador e, quando desvinculada do desempenho individual do empregado, possui natureza indenizatória, não salarial (art. 7, inciso XI, da Constituição Federal e art. 3º da Lei 10.101/2000), não integrando, assim, o cálculo da previdência suplementar, exceto se houver previsão expressa no estatuto do fundo previdenciário, o que aqui não restou demonstrado.
+Aliás, a Presidência da Seção de Direito Privado desta Corte, ao realizar a admissibilidade de recursos especiais interpostos em casos análogos, ressaltou que a pretensão de pagamento de PLR não possui relação com benefício previdenciário suplementar (vide despachos proferidos nos processos n.º 1003524-30.2017.8.26.0539 e n.º 1002995-95.2018.8.26.0047)".
+Ocorrequea conclusão adotada peloTribunal Estadual não se encontra em harmonia com a jurisprudência do Superior Tribunal de Justiça, eis quea Segunda Seção do Superior Tribunal de Justiça, ao julgar o Recurso Especial Repetitivo nº 1.425.326/RS, consagrou os seguintes entendimentos :
+a) nos planos de benefícios de previdência privada fechada, patrocinados pelos entes federados - inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente -, é vedado o repasse de abono e vantagens de qualquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar nº 108/2001, independentemente das disposições estatutárias e regulamentares;
+b) não é possível a concessão de verba não prevista no regulamento do plano de benefícios de previdência privada, pois a previdência complementar tem por pilar o sistema de capitalização, que pressupõe a acumulação de reservas para assegurar o custeio dos benefícios contratados em um período de longo prazo.
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA.PARTICIPAÇÃO NOS LUCROS. APOSENTADOS. EXTENSÃO. IMPOSSIBILIDADE.FONTE DE CUSTEIO. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Inviável a extensão, aos inativos, da participação nos lucros concedida aos funcionários da ativa, tendo em vista a ausência de prévia reserva matemática.
+3. Agravo interno não provido
+(AgInt no REsp 1.831.728/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/10/2020, REPDJe 12/11/2020, DJe 03/11/2020).
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PREVIDÊNCIA COMPLEMENTAR. GRATIFICAÇÃO SEMESTRAL. INCORPORAÇÃO AO BENEFÍCIO DE COMPLEMENTAÇÃO DE APOSENTADORIA. DESCABIMENTO. PLANO DE PREVIDÊNCIA PATROCINADO PELO BANESPA NA ÉPOCA DA APOSENTADORIA. ENTE DA ADMINISTRAÇÃO INDIRETA DO ESTADO DE SÃO PAULO. APLICAÇÃO DO TEMA 736/STJ.
+1. Controvérsia acerca da incorporação ao benefício de complementação de aposentadoria da parcela denominada "PLR- gratificação semestral".
+2. Caso concreto em que o benefício de complementação de aposentadoria é oriundo de entidade fechada de previdência patrocinada por ente da administração indireta (BANESPA) na época da aposentadoria.
+3. Aplicação ao caso da tese firmada no julgamento do Tema 736/STJ, segundo a qual: "nos planos de benefícios de previdência privada fechada, patrocinados pelos entes federados - inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente -, é vedado o repasse de abono e vantagens de qualquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar n. 108/2001, independentemente das disposições estatutárias e regulamentares" (sem grifos no original).
+4. Descabimento do pagamento da parcela pretendida na espécie.
+5. RECURSO ESPECIAL DESPROVIDO, COM MAJORAÇÃO DE HONORÁRIOS"
+(REsp 1.827.760/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 02/06/2020, DJe 08/06/2020).
+Nessa mesma linha de consideração, os seguintes julgados: REsp 1826521/SP (DJe de 05/04/2021)e REsp 1908794/SP (DJe de 29/03/2021).
+Ante o exposto, douprovimento ao recurso especial para restabelecer a sentença (fls. 637/646, e-STJ), inclusive quanto aos ônus sucumbenciais.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSO CIVIL. PREVIDÊNCIA COMPLEMENTAR. GRATIFICAÇÃO SEMESTRAL. INCORPORAÇÃO AO BENEFÍCIO DE COMPLEMENTAÇÃO DE APOSENTADORIA. DESCABIMENTO. PLANO DE PREVIDÊNCIA PATROCINADO PELO BANESPA NA ÉPOCA DA APOSENTADORIA. ENTE DA ADMINISTRAÇÃO INDIRETA DO ESTADO DE SÃO PAULO. APLICAÇÃO DO TEMA 736/STJ. ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM A JUSIRPRUDÊNCIA DO STJ.
+1. Controvérsia acerca da incorporação ao benefício de complementação de aposentadoria da parcela denominada "PLR - gratificação semestral".
+2. Caso concreto em que o benefício de complementação de aposentadoria é oriundo de entidade fechada de previdência patrocinada por ente da administração indireta (BANESPA) na época da aposentadoria.
+3. Aplicação ao caso da tese firmada no julgamento do Tema 736/STJ, segundo a qual: "nos planos de benefícios de previdência privada fechada, patrocinados pelos entes federados - inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente -, é vedado o repasse de abono e vantagens de qualquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar n. 108/2001, independentemente das disposições estatutárias e regulamentares" (sem grifos no original).
+4. Descabimento do pagamento da parcela pretendida na espécie.
+5. RECURSO ESPECIAL PROVIDO.
