@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+ADMINISTRATIVO. APELAÇÃO CÍVEL. DESAPROPRIAÇÃO. CONCESSIONÁRIA. REGISTRO DO BEM A SER DESAPROPRIADO DIRETAMENTE EM NOME DA UNIÃO. IMPOSSIBILLIDADE. DISPOSIÇÕES DO CONTRATO DE CONCESSÃO.
+1. Considerando as disposições do contrato de concessão, não há como se defender que o bem expropriado deva ser transferido diretamente à União.
+2. Mantida a sentença que determinou a transferência do imóvel ao patrimônio da concessionária.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega que a legislação federal foi ofendida. Afirma:
+II.2 Violação ao art. 1.022, II, do CPC
+Embora a recorrente tenha a convicção de que a matéria legal invocada neste recurso restou prequestionada explícita ou implicitamente, ad argumentandum tantum, na remota hipótese de se entender o contrário em relação a alguma das referidas normas, há de ser provido este especial por violação ao art. 1.022, II, do CPC.
+(..)
+II.3. Violação ao art. 29 do Decreto-lei n. 3.365/41, arts. 167, I, item 34 e 176, § 8º da Lei Federal n. 6.015/1973
+15. Com o devido acatamento, o acórdão recorrido, ao negar provimento aos embargos opostos pela recorrente, não analisou devidamente os dispositivos vinculados ao registro da desapropriação junto ao Registro de Imóveis, a fim da inclusão em definitivo do imóvel expropriado ao patrimônio da União Federal, violando dispositivos legais que possibilitam a transferência do bem ao patrimônio da União Federal.
+(..)
+Veja-se que a concessionária ora recorrente exerce papel intermediário na aquisição do bem expropriado, de modo que é imprescindível que a transferência seja perfectibilizada a quem de direito, in casu, ao Poder Concedente. Afinal, a recorrente age em nome do Poder Público Federal, sendo induvidoso que a carta de adjudicação deve ser expedida em nome da União, única proprietária das terras desapropriadas pela concessionária para a realização das obras de implantação e melhoria nas estradas.
+(..)
+II. 4 Violação ao art. 35, §§ 1º e 3º da Lei Federal n. 8.987/95, aos arts. 99 e 100 do Código Civil, ao art. 1º do Decreto 1.537/77
+(..)
+A partir do Decreto Federal, publicado no DOU n. 154 de 13/08/2014 (evento 1, OUT7, autos de origem), o imóvel objeto da ação foi declarado de utilidade pública, tornando-se bem público da União Federal de uso comum do povo, inalienável, que não pode ser transferido, porque indisponível.
+24. Assim, o r. acórdão viola os arts. 99 e 100 do Código Civil1, pois tal bem passou a integrar o patrimônio público, e como todos os bens públicos, detêm as características da indisponibilidade, impenhorabilidade e imprescritibilidade, não se cogitando possibilidade, portanto, de seu registro imobiliário dar-se em nome da concessionária ora recorrente - pessoa jurídica de direito privado.
+25. Na mesma linha, restaram violados os §§ 1º e 3º, do art. 35 da Lei n. 8.987/95, cujas disposições alertam para a reversão de bens, quando da extinção da concessão, ao Poder Concedente, bem como de que a assunção do serviço autoriza a ocupação e a utilização, pelo poder concedente, de todos os bensreversíveis. Todavia, no caso em apreço não se está cuidando de bem reversível, mas sim, como visto, de bem público de uso comum do povo indisponível, declarado de utilidade pública por ato do Poder Executivo Federal, impossibilitando-se, pois, a manutenção de seu registro em nome da concessionária ora recorrente.
+Vale frisar, o registro do imóvel em nome da recorrente afeta a continuidade da prestação do serviço público objeto da presente desapropriação. O registro direto do imóvel em nome da União privilegia os mais basilares princípios constitucionais insculpidos no art. 37 da Constituição Federal, evitando a necessária e futura transferência do imóvel ao patrimônio federal quando encerrada a concessão, com redução de custos que, em última análise, refletem no valor anual do pedágio. Como sabido, o registro, quando realizado em nome da União, implica, consequentemente, no reconhecimento do direito à isenção do pagamento de custas e emolumentos registrais, nos termos do art. 1º do Decreto n. 1.537/77.
+27. A simplificação do procedimento de registro suprime o duplo registrodo imóvel: inicialmente em nome da concessionária e posteriormente em nome da União, ao fim do contrato de concessão.
+(..)
+II.5 Violação ao art. 489, §1º, IV, CPC
+(..)
+Apesar de interpelado em sede de embargos de declaração o respeitável decisum insistiu em não enfrentar a totalidade de elementos legais e fáticos que, em tese, poderiam influir no resultado da demanda, notadamente o art. 29 do Decreto-lei n. 3.365/41, o art. 167, I, item 34 e o art. 176, § 8º da Lei Federal n. 6.015/1973. 32. Logo, por violar o art. 29 do Decreto-lei n. 3.365/41, os arts. 167, I, item 34 e 176, § 8º da Lei Federal n. 6.015/1973, os art. 35, §§ 1º e 3º da Lei Federal n. 8.987/95, os arts. 99 e 100 do Código Civil, o art. 1º do Decreto nº 1.537/77 e o art. 489, §1º, IV, CPC deve ser reformado o acórdão recorrido.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+Preliminarmente, a parte insurgente sustenta que o art. 1.022, II, do CPC/2015 foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+Ao decidir a controvérsia, o Tribunala quoconsignou:
+A Autopista Litoral Sul S. A. sustenta que a transferência do imóvel desapropriado deveria ser feita diretamente à União. Não lhe assiste razão, contudo. Com efeito, o contrato de concessão de serviço firmado entre a União e a apelante dispõe, em seus itens 16.22 e 16.24 que cabe à concessionária promover desapropriações e suportar os ônus delas decorrentes(CONTR5 do evento 1 dos autos originários, p. 35).
+Ademais, o teor dos itens 3.4, 3.6 e 3.7 do contrato (CONTR5 do evento 1 dos autos originários, p. 11) não deixam dúvidas de que os bens vinculados à concessão reverterão à União apenas na sua extinção, de modo que, até lá, os bens expropriados e adquiridos pela concessionária a integram, verbis:
+3.4. Quaisquer bens imóveis que sejam adquiridos pela Concessionária, inclusive por via de expropriação, integrarão a Concessão, revertendo e incorporando-se ao patrimônio da União na extinção da concessão.3.6 Os bens móveis e imóveis previstos no PER integram a Concessão, devendo ser registrados em nome da Sociedade de Propósito Específico - SPE e constantes de cadastro a ser atualizado permanentemente pela Concessionária e disponibilizado à ANTT sempre que solicitado. 3.7 Ressalvado o disposto neste Contrato, revertem à União, gratuita e automaticamente, na extinção da Concessão, todos os Bens Vinculados à Concessão, nos termos previstos neste Contrato
+Assim, considerando que o concessionário de serviço público possui autorização expressa para promover desapropriações, constante em contrato(art. 3º do Decreto-Lei 3.365/41), não se justifica que, em desacordo como contrato de concessão, o bem expropriado seja transferido diretamente à União.
+Merece destaque também o fato de que a própria União, quando do oferecimento de suas contrarrazões, demonstrou indubitável contrariedade ao pleito formulado pela apelante, conforme trechos que abaixo transcrevo:
+A parte apelante formula pedido totalmente contrário ao disposto no Contrato de Concessão firmado com o Poder Público e na legislação que disciplina o regime de concessão e permissão da prestação de serviços públicos previstos no art. 175 da Constituição Federal. Da leitura do instrumento contratual mantido entre União e Auto Pista Litoral Sul S/A resta induvidoso que a titularidade e a gestão dos imóveis necessários à consecução dos objetivos de contrato devem ficar a cargo da concessionária. Da leitura do instrumento contratual mantido entre União e Auto Pista Litoral Sul S/A resta induvidoso que a titularidade e a gestão dos imóveis necessários à consecução dos objetivos de contrato devem ficar a cargo daconcessionária.
+(..)
+É cláusula padrão nos contratos de concessão de rodovias que quaisquer bens imóveis que sejam adquiridos pela Concessionária, inclusive por via de expropriação, integrarão a Concessão, revertendo e incorporando-se ao patrimônio da União na extinção da Concessão.
+(..)
+Por aí se vê que os bens imóveis desapropriados pela concessionária somente retornam ao poder concedente, após a extinção da concessão, sendo cláusula padrão nos respectivos contratos de concessão, como se pode verificar nos documentos juntados com a inicial.
+Acrescente-se que os bens que integram a concessão, inclusive os expropriados, devem constituir patrimônio da sociedade de propósito específico - SEP - vencedora do certame e registrados em seu nome, devendo ser repassados à concedente ao final do contrato.
+Resta evidente que a expedição de Carta de Adjudicação em nome da União tem o evidente propósito - razão de ser das sociedades empresárias - de evitar despesas com a elaboração de escrituras públicas, registro imobiliário, diligências registrais imobiliárias, recolhimento de impostos de transmissão e de propriedade, etc., potencializando resultados financeiros.
+Contudo, tal procedimento não encontra amparo no instrumento de concessão colacionado à exordial e os custos que envolvem tal atividade obviamente estão contemplados no cálculo da tarifa, que representa a remuneração do concessionário.
+Daí decorre que os bens adquiridos mediante desapropriação só se incorporam ao patrimônio da União ou a ela se revertem ao término da Concessão, portanto, por ora, o bem desapropriado deve ser registrado em nome da concessionária.
+Acrescente-se, ainda, que não faz parte do objeto da ação de desapropriação discussão acerca da regularidade/aplicabilidade de cláusula de Contrato de Concessão, de modo que totalmente descabida a pretensão da apelante em ver o imóvel registrado em favor da União.
+Se a apelante discorda dos termos de cláusula contratual do Contrato de Concessão que firmou com a União, deve buscar as vias próprias para discuti-la.
+O contrato de concessão, até que não haja decisão em contrário, é válido, eficaz e produz efeitos entre as partes. Portanto, correta a decisão que determinou a expedição de Carta de Adjudicação em favor da Concessionária apelante, devendo ser mantida a sentença.
+Documento juntado pela apelante
+A propósito, a apelante altera a verdade dos fatos quando menciona:
+Seguindo essa linha, a União Federal, por meio da AGU, já teceu alguns pareceres em casos análogos envolvendo empresa do mesmo Grupo Econômico da ora peticionaria (doc. anexo), onde manifesta:
+Ora, como se pode observar do documento anexo juntado pela apelante, trata-se de uma petição e não de um parecer da Advocacia Geral da União.
+A conclusão da petição representa entendimento isolado de um membro da AGU e não tem efeito vinculante.
+O mesmo se pode dizer de eventual silêncio da União em face de determinada decisão que tenha deferido o pedido de expedição de Carta de Adjudicação diretamente em nome da União.
+Interesse da União
+Ainda que a União tenha inicialmente manifestado desinteresse na causa, acordo posterior firmado entre as partes, sem a anuência da União (e da ANTT), não pode prever a afetação do bem diretamente à União, de modo contrário ao disposto no Contrato de Concessão.
+A ausência do interesse jurídico da União Federal nas desapropriações envolvendo concessionárias de serviço público remete ao fato de que o bem desapropriado integra o patrimônio da concessionária que somente quando encerrada a concessão será eventualmente revertido para o Ente Federativo.
+Se a Concessionária pretende que o bem desapropriado seja registrado em favor da União, ressurge o interesse jurídico da mesma, uma vez que seu patrimônio jurídico e sua esfera são alcançados.
+Portanto, não merece trânsito o pedido de que o bem seja diretamente registrado em nome da União.
+(..)
+Nesse diapasão, deve ser mantida a sentença que determinou a expedição da Carta de Adjudicação da área desapropriada em favor da concessionária.
+Consoante se verifica do excerto acima transcrito, a controvérsiafoi solucionada à luz do instrumento contratual e do conjunto probatório dos autos, razão pela qual éinviável o conhecimento doRecursos Especial, ante os óbices das Súmulas 5 e 7 do STJ. Confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO. ACORDO ENTRE AS PARTES. ACÓRDÃO RECORRIDO FUNDADO EM ANUÊNCIA DA UNIÃO E CLÁUSULA CONTRATUAL. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283 DO STF.
+PARTICULARIDADES DO CASO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na origem, trata-se de Ação de Desapropriação ajuizada por AutoPista Litoral Sul/PR, para implantação do trevo do km 617 450m, da BR-376/PR, Município de São José dos Pinhais/PR, extinção por sentença homologatória de acordo.
+2. Acolhendo Embargos de Declaração opostos pela União, o Juízo de primeiro grau determinou o registro do bem expropriado em nome da concessionária. A decisão foi mantida no acórdão recorrido sob a seguinte fundamentação: "tendo em vista a manifestação da própria União, bem como o contido no Capítulo III ("Bens da Concessão") do Contrato anexado no evento 1, CONTR5, sobretudo o disposto na cláusula 3.6, que estabelece que "Os bens móveis e imóveis previstos no PER integram a Concessão, devendo ser registrados em nome da Sociedade de Propósito Específico -SPE e constantes de cadastro a ser atualizado permanentemente pela Concessionária e disponibilizado a ANTT sempre que solicitado", onde a abreviatura PER se refere ao Programa de Exploração da Rodovia em questão e a SPE é a própria concessionária AUTO PISTA LITORAL SUL S.A, tem-se que nada impede que seja acatado o pedido do evento 107" (fl. 60, e-STJ).
+3. Como se vê, o Tribunal de origem determinou que a área expropriada fosse registrada em nome da Concessionária Autopista Litoral Sul S/A com fundamento no posicionamento adotado pela União, assim como na cláusula 3.6 do contrato de concessão de serviço público, fundamentos não impugnados por nenhum dos dois Recursos Especiais, o que atrai a incidência, por analogia, da Súmula 283 do STF.
+4. Além disso, tendo a controvérsia sido solucionada à luz do instrumento contratual e do conjunto probatório dos autos, é inviável o conhecimento dos Recursos Especiais, pois esbarram nos óbices das Súmulas 5 e 7 do STJ.
+5. Registre-se, por fim, que o acórdão recorrido foi claro ao determinar "que o registro do imóvel objeto dos autos deve se dar em nome da concessionária AUTO PISTA LITORAL SUL S.A, devendo, quando a extinção da concessão, ser revertido à União" (fl. 60, e-STJ, negritado).
+6. Agravo Interno não provido.
+(AgInt no AREsp 1.728.659/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 1º/7/2021)
+Na mesma linha: AgInt no AREsp 1.886.823/PR, Rel. Min. Sérgio Kukina, DJe 8.10.2021.
+Ante o exposto, nego provimento ao Agravo.
+Publique-se.
+Intimem-se.
