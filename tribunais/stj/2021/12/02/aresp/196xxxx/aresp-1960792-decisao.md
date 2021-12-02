@@ -1,0 +1,19 @@
+DECISÃO
+1. Cuida-se de agravo interposto por FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim ementado:
+APELAÇÃO CÍVEL - IMPUGNAÇÃO A O CUMPRIMENTO DE SENTENÇA - ALEGAÇÃO DE EXCESSO NA EXECUÇÃO - LAUDO PERICIAL CONTÁBIL APRESENTADO - MANUTENÇÃO DA SENTENÇA - LAUDO EDIFICADO ESTRITAMENTE DE ACORDO C O M SENTENÇA - RECURSO CONHECIDO E DESPROVIDO - DECISÃO UNÂNIME.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 917, § 2º, inciso I, do CPC de 2015; 884 do CC,defendendo que teria havido excesso de execução.Ressalta que o ordenamento jurídico veda o enriquecimento ilícito.
+É o relatório.DECIDO.
+2. Amatériareferenteaoartigo 884 do CC não foiobjeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. No mais, com base no conjunto fático-probatório presente nos autos, o Tribunal de origem assim consignou:
+Sendo assim, reputo irretocável a decisão de primeiro grau que julgou improcedente a impugnação ao cumprimento de sentença e encerrou esta fase processual, sobretudo, quando se vislumbra que o expert elaborou criterioso laudo pericial com o demonstrativo, com indicação clara da metodologia utilizada e aos ditames decididos.
+Tal laudo fora objeto de questões, as quais restaram esclarecidas e nesta conclusão se fulcrou o Juiz singular a sua sentença, homologando laudo pericial edificado por profissional técnico habilitado.
+Quanto a assertiva de ter se baseado, o perito, em valores brutos, nada a alterar, vez que na sentença do feito original não houve nenhuma determinação de dedução de valores, portanto fora edificada corretamente.
+Já no ponto relativo aos honorários, pelas mesmas razões do ponto acima, as rejeito.
+Nesse contexto, tem-se que a decisão recorrida adotou como razões de decidir, o conteúdo do laudo apresentado, e assim agiu acertadamente, pois repiso, o laudo fora elaborado de acordo com as prescrições sentenciais.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de acolher as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4.Por fim, impõe-se anotar que a incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
