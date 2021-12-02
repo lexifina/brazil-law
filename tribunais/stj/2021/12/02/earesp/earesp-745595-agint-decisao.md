@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interno da ELETROBRAS S.A. contra decisão em que dei provimento aos embargos de divergência opostos pela VITORIAN COMPRA E VENDA DE BENS S.A. para, com apoio na tese firmada no REsp 1.003.955/RS e no REsp 1.028.592/RS, repetitivos, reformar acórdão proferido pela Segunda Turma desta Corte assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL.EMPRÉSTIMO COMPULSÓRIO SOBRE O CONSUMO DE ENERGIA ELÉTRICA. CONTINUIDADE DE INCIDÊNCIA DE JUROS REMUNERATÓRIOS APÓS CONTABILIZADO O MONTANTE DO CRÉDITO DAS DIFERENÇAS DEVIDAS PELA ELETROBRÁS.
+IMPOSSIBILIDADE. INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS PRÓPRIOS DOS DÉBITOS JUDICIAIS.
+ENTENDIMENTO ADOTADO EM SEDE DE RECURSO ESPECIAL REPETITIVO, NA FORMA DO ART. 543-C, DO CPC.
+1. O recurso representativo (REsp nº 1.003.955/RS) deixou claro que sobre o valor apurado - (a) diferença de correção monetária sobre o principal e os juros remuneratórios dela decorrentes; e (b) correção monetária sobre os juros remuneratórios - "incidem os encargos próprios dos débitos judiciais (correção monetária desde a data do vencimento - e juros de mora desde a data da citação").
+2. Ademais, a Primeira Seção, no julgamento do EREsp 826.809/RS, consolidou entendimento no sentido de que os juros remuneratórios não ultrapassam a data das assembleiasgerais que homologaram as conversões dos créditos em ações.
+3. Agravo regimental não provido.
+Nas razões de agravo interno, sustenta a ELETROBRAS S.A., no que interessa (e-STJ fls. 1.436/1.437):
+ ..  o acórdão ao afirmar o prolongamento de incidência de juros remuneratórios vulnera os itens 5,2.b, 6.1.a, 6.3, 7 e 8-c do Repetitivo 1003955/RS e, subsidiariamente não observa, o ainda válido ERESP 826809/RS que demonstra sabedoria ao aplicar a consolidação da dívida nas datas das assembleias gerais de 1988, 1990 e 2005, de conformidade com o citadorepetitivo requer a Agravante o provimento do presente agravo interno para conhecimento da presente divergência, para adequação do julgado à jurisprudência do E. STJ, a saber de conformidade com os itens 5.2.b, 6.1.a, 6.3, 7 e 8-c do Repetitivo Resp 1.003955/RS, por medida de Justiça, limitando-se os juros remuneratórios a AGE GERAL de 30/06/2005.
+Impugnação apresentada às e-STJ fls. 1.430/1.434.
+Passo a decidir.
+Ao analisar o agravo interno, entendo que a decisão agravada merece ser reconsiderada.
+No tocante ao termo ad quem de incidência de juros remuneratórios sobre créditos do empréstimo compulsório sobre energia elétrica, merece provimento a irresignação.
+Sobre o tema, a Primeira Seção do Superior Tribunal de Justiça, ao julgar os EDcl no EAREsp 790.288/PR, na sessão de julgamento de 10/11/2021, emprestando excepcionais efeitos infringentes aos embargos de declaração, decidiu que, na devolução do empréstimo compulsório, a incidência dos juros remuneratórios, como preconizada pelo art. 2º, § 2º, do Decreto-lei n. 1.512/76, não pode ultrapassar a data da respectiva Assembleia Geral Extraordinária (30/06/2005), autorizadora da terceira conversão dos créditos dos consumidores em ações do capital social da Eletrobras (rel. p/ acórdão Ministro Sérgio Kukina, acórdão pendente de publicação).
+Desse modo, passou a prevalecer o entendimento de que os juros remuneratórios incidem até a época da referida assembleia geral, que homologou as conversões dos créditos em ações, e não mais até o efetivo pagamento da dívida. A partir desse momento, compreende-se que há um crédito consolidado que está sujeito exclusivamente à incidência de correção monetária e dos juros de mora.
+Incide, por conseguinte, in casu o óbice da Súmula 168 do STJ.
+Ante o exposto, com fundamento no caput do art. 259 do RISTJ, RECONSIDERO adecisão agravada(e-STJ fls. 1.418/1.420)e, com base no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO dos embargos de divergência.
+Publique-se. Intimem-se.
