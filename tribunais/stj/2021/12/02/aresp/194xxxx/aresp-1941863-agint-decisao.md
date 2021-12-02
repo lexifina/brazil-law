@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Agravo Interno contra decisão que não conheceu do Agravo em Recurso Especial por ausência de impugnação aos fundamentos do Juízo de admissibilidade.
+O Recorrente insurgiu-se, em seu Recurso Especial, contra a extinção do feito pela ilegitimidade passiva do Banco do Brasil em relação às contas Pasep. Alegou Violação aos arts. 10, 11 e 485, I, do CPC; aos arts. 186, 187 e 927 do Código Civil; ao art. 12 do Decreto 78.276/1976 e aos arts. 14 e 18 do CDC. Seu recurso não foi admitido por incidência das Súmulas 7 e 13/STJ; e pela ausência de cotejo analítico e de juntada dos precedentes que deram origem à Súmula 77 do C. STJ.
+Defende Francisco Aparecido Vila Real:
+Excelências, diante da determinação de suspensão por parte do IRDR afetado perante o colendo STJ de nº 71, - TO (2020/0276752- 2), tema 247 COM DETERMINAÇÃO DE SUSPENSÃO, CONFORME decisão, PUGNA PELA SUSPENSÃO DO FEITO, na forma do parágrafo 3º do artigo 979 CPC, uma vez que após o julgamento do incidente, pode ser aplicada a tese na forma dos parágrafos 1º a 3º do artigo 1040.
+ ..
+Ademais ao analisar a questão e mérito, sobe a premissa da aplicação da súmula 7 e 13 do STJ, negou vigência a própria decisão de afetação do tema conforme temas paradigma supra descrito, onde nitidamente está afeta a apreciação da legislação federal sobre o tema em testilha, que foi objeto do RESP, ficando nítido que ao contrário do alegado a matéria é de direito e não de fato e busca esclarecer a reponsabilidade do BB, como depositário dos valores do Pasep, sobre a sumição dos valores que lá existiam.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26 de novembro de 2021.
+A questão jurídica referente à legitimidade do Banco do Brasil para responder por falha no serviço relativa às contas vinculadas ao PASEP foi objeto da Suspensão de Incidente de Resolução de Demandas Repetitivas, SIRDR 71, determinada pelo Superior Tribunal de Justiça aos processos que possuem como objeto as seguintes questões:
+- O Banco do Brasil possui, ou não, legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao PASEP, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa.
+- A pretensão ao ressarcimento dos danos havidos em razão dos desfalques em conta individual vinculada ao PASEP se submete ao prazo prescricional decenal previsto pelo artigo 205 do Código Civil ou ao prazo quinquenal estipulado pelo artigo 1º do Decreto nº 20.910/32.
+- O termo inicial para a contagem do prazo prescricional é o dia em que o titular toma ciência dos desfalques ou a data do último depósito efetuado na conta individual vinculada ao PASEP.
+Ao acolher o pedido de suspensão nacional dos processos relacionados ao PASEP, nos termos do art. 271-A, § 3º, do RISTJ, determinou-se que "a ordem de suspensão vigorará até o trânsito em julgado da decisão de qualquer dos IRDRs admitidos: 0720138-77.2020.8.07.0000/TJDFT, 0010218-16.2020.8.27.2700/TJTO, 0812604-05.2019.8.15.0000/TJPB ou 0756585-58.2020.8.18.0000/TJP".
+A Controvérsia 247/STJ (REsp 1.895.936/TO e REsp 1.895.941/TO) ainda se encontra pendente de afetação para julgamento repetitivo.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, somente depois de realizada a pacificação do Tema, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte a quo.
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC; e 1.040 e seguintes do CPC/2015, conforme o caso.
+Ante o exposto, torno sem efeito a decisão das fls. 358-360, e-STJ, julgo prejudicado o presente Agravo Interno e determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
