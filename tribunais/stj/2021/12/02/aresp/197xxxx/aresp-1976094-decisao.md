@@ -1,0 +1,34 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO PAN S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. RESERVA DE MARGEM CONSIGNÁVEL EM CARTÃO DE CRÉDITO. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA PARTE AUTORA . MÉRITO.
+ALEGAÇÃO DE NULIDADE DO CONTRATO DE CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL. BANCO RÉU QUE, VIOLANDO O DIREITO DE INFORMAÇÃO, INTERFERIU DIRETAMENTE NA MANIFESTAÇÃO DE VONTADE DO CONSUMIDOR ENSEJANDO NA ACEITAÇÃO DE CONTRATO INEVITAVELMENTE MAIS ONEROSO DENTRE OS DISPONÍVEIS. CONTRATO NULO. CONVERSÃO EM CONSIGNADO.
+DANO MORAL EVIDENTE. ATENTADO CONTRA VERBA DE SUBSISTÊNCIA. JUROS DE MORA DA CITAÇÃO E CORREÇÃO MONETÁRIA DO ARBITRAMENTO.
+QUANDO SE DESVIRTUA OU SE SONEGA O DIREITO DE INFORMAÇÃO, ESTÁ-SE AGINDO EM SENTIDO DIAMETRALMENTE OPOSTO A BOA-FÉ OBJETIVA, ENSEJANDO, INCLUSIVE, A ENGANOSIDADE. A INFORMAÇÃO DEVE SER CLARA, OBJETIVA E PRECISA, POIS, DO CONTRÁRIO, EQUIVALE AO SILÊNCIO, VEZ QUE INFLUI DIRETAMENTE NA MANIFESTAÇÃO DE VONTADE DO CONSUMIDOR SOBRE DETERMINADO SERVIÇO OU PRODUTO - COROLÁRIO DA CONFIANÇA QUE O CONSUMIDOR DEPOSITA NO FORNECEDOR.
+O BANCO, ANTE AS OPÇÕES DE MODALIDADES DE EMPRÉSTIMO AO CONSUMIDOR, SEM DOTÁ-LO DE INFORMAÇÕES SOBRE OS PRODUTOS, FEZ INCIDIR UM CONTRATO DE CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL, QUANDO O INTERESSE DO CONSUMIDOR ERA SIMPLESMENTE OBTER UM EMPRÉSTIMO, HAJA VISTA QUE O CARTÃO DE CRÉDITO NUNCA FOI USADO.
+DEVER DE PROMOVER A DEVOLUÇÃO DOS VALORES COBRADOS INDEVIDAMENTE. FORMA SIMPLES. VEDAÇÃO DO ENRIQUECIMENTO SEM CAUSA.
+SUCUMBÊNCIA. INVERTIDA. HONORÁRIOS RECURSAIS.
+MAJORAÇÃO INVIÁVEL. CRITÉRIOS CUMULATIVOS NÃO PREENCHIDOS (STJ, EDCL NO AGINT NO RESP 1.573.573/RJ).
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 138, 139, 171, II, 177, 188 do CC, artigo 373 do CPC, art. 5º, caput e incisos II, V, X, XXXVI e LIV, e ao art. 170, caput da CF/88, 1º, 6º da Lei 10.820/2003, 3º, 15º da IN 28/200 e 14, § 3º, I e II do Código de Defesa do Consumidor, bem como dissídio jurisprudencial.
+Sustenta "a legalidade das pactuações de contratação de cartão de crédito consignado, não havendo que se falar em anulabilidade ou ainda nulidade do negócio jurídico".
+Decido.
+2. Acerca da legalidade da contratação, o Tribunal local assim se pronunciou:
+Quando se desvirtua ou se sonega o direito de informação, está-se agindo em sentido diametralmente oposto a boa-fé objetiva, ensejando, inclusive, a enganosidade. Ela deve ser clara, objetiva e precisa, pois, do contrário, equivale ao silêncio, vez que influi diretamente na manifestação de vontade do consumidor sobre determinado serviço ou produto - corolário da confiança que o consumidor deposita no fornecedor.
+O direito de informação, porque afeta a fase pré-contratual de escolha do consumidor, é importante ferramenta de equilíbrio na relação de consumo, pois, possibilita uma escolha consciente dos produtos e serviços disponíveis, anulando, em tese, a vulnerabilidade informacional.
+Na espécie, não é crível que o banco réu tenha prestado informações claras e adequadas sobre a existência dos contratos (empréstimo consignado e cartão de crédito com reserva de margem consignável), a diferença dos custos e encargos e os riscos atrelados a cada um. Silenciou e, portanto, afetou a boa-fé objetiva - requisito indispensável a validade do negócio jurídico.
+Ademais, o direcionamento maléfico na manifestação de vontade da parte autora pode ser facilmente vislumbrado a partir do momento que não fez uso do cartão de crédito para aquisição de produtos e serviços de consumo (evento 40, item 4).
+Não é crível que o consumidor submeter-se-ia a um contrato de cartão de crédito sem a intenção de fazer uso deste para os fins que se destina; simplesmente porque não o queria, porque não sabe da sua finalidade, porque só queria o dinheiro do empréstimo.
+(..)
+O banco réu, ciente do interesse da parte, rompendo com a lealdade e boa-fé inerentes a formação do contrato, desvirtuou a real intenção do consumidor exclusivamente em proveito próprio, passando a instituir um contrato de cartão de crédito pernicioso, diametralmente oposto ao empréstimo consignado e, agindo assim, afrontou os mais elementares direitos salvaguardados ao consumidor.
+Desta forma, a partir da redação encartada no art. 51, IV do CDC, faz-se necessário reconhecer a nulidade do contrato de cartão de crédito com reserva de margem consignável, devendo, a partir da vontade declarada do consumidor, instituir um contrato de empréstimo consignado, motivo pelo qual não se procede o pedido de afastamento da contratação na modalidade de crédito consignado.
+Desse modo, verifica-se que o Tribunal de origem, pautado nas provas constantes dos autos, concluiu que não foram prestadas as informações necessárias a respeito do tipo de contrato que seria realizado entre as partes, reconhecendo a nulidade do contrato. Nesse prisma, rever o entendimento firmado no acórdão recorrido encontra óbice nas Súmulas 5 e 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARTÃO DE CRÉDITO. ABUSIVIDADE. AFERIÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. O Tribunal de origem, com base na interpretação dos elementos de convicção anexados aos autos, concluiu pela caracterização do contrato como de cartão de crédito, pela ciência da parte quanto à modalidade de contratação e pela inexistência de abuso na taxa de juros remuneratórios praticada. A alteração das conclusões do julgado demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1518620/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/02/2020, DJe 20/02/2020 - grifei)
+3. Ante o expost o, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se a plicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
