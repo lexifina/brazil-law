@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 218):
+TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. PRESCRIÇÃO QUINQUENAL. INCIDÊNCIA SOBRE ADICIONAIS NOTURNO, DE PERICULOSIDADE E DE INSALUBRIDADE. REFLEXOS PROPORCIONAIS AO AVISO PRÉVIO INDENIZADO. INEXIGIBILIDADE. APELAÇÃO DA UNIÃO (FN) PARCIALMENTE CONHECIDA E, NESSA PARTE, NÃO PROVIDA. APELAÇÃO DAS IMPETRANTES E REMESSA OFICIAL NÃO PROVIDAS.
+1. Não havendo pedido de repetição de valores recolhidos a título de contribuições previdenciárias, mas, apenas o reconhecimento da inexigibilidade do tributo, não deve ser conhecida a apelação da União (FN) nesse ponto, em face de ausência de interesse recursal.
+2. Devida a incidência de contribuição previdenciária sobre os valores pagos a título de adicional noturno e de periculosidade em razão da natureza remuneratória das respectivas verbas.
+Precedente do STJ em recurso repetitivo (REsp 1.358.281/SP).
+3. Legítima a cobrança de contribuição previdenciária sobre o adicional de insalubridade.Precedente do STJ.
+4. Incabível a exigência de contribuição previdenciária sobre o aviso prévio indenizado.Precedente do STJ em recurso repetitivo (REsp 1.230.957/RS).
+5. Reconhecida a inexigibilidade da contribuição previdenciária sobre o aviso prévio indenizado, inadmissível a incidência, também, sobre os reflexos proporcionais a essa verba.
+6. Apelação da União (FN) parcialmente conhecida e, nessa parte, não provida. Apelação das impetrantes e remessa oficial não providas.
+Os embargos de declaração foram rejeitados (fls. 247/250).
+Nas razões do recurso especial, a parte recorrente alega violação dos arts. 489 e 1.022 do CPC e 22 e 28, da Lei n.8.212/91. Aduz, em resumo: (I) omissão no acórdão recorrido que não se manifestou acerca das questões postas nos aclaratórios; e (II) incide a contribuição previdenciária sobre o décimo terceiro proporcional ao aviso prévio indenizado.
+Contrarrazões às fls. 276/282.
+Parecer ministerial às fls. 296/300.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489 e 1.022do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mérito, a irresignação merece prosperar.
+Esta Corte Superior possui entendimento pacificado no sentido de que incide a contribuição previdenciária patronal sobre o 13º salário (gratificação natalina), uma vez que, por possuir caráter permanente, integra o conceito de remuneração, sujeitando-se, assim, à contribuição previdenciária. Com efeito, a Lei 8.620/1993, no art.7º, § 2º, prevê expressamente a incidência da referida contribuição sobre o valor bruto do 13º salário. Orientação firmada no REsp 1.066.682/SP, julgado pelo rito dos Recursos Repetitivos (Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 09/12/2009, DJe 01/02/2010).
+Assim, o fato de o aviso prévio indenizado refletir na composição da gratificação natalina é irrelevante, devendo a contribuição previdenciária incidir sobre o total da referida verba. Dessa forma, conforme jurisprudência assentada nesta Corte, os valores referentes ao 13º proporcional ao aviso prévio indenizado sujeitam-se à incidência da contribuição previdenciária, tendo em vista possuírem natureza remuneratória (salarial).
+Nesse sentido, confiram-se:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.VALORES PAGOS A TÍTULO DE DÉCIMO TERCEIRO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO E FÉRIAS GOZADAS. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A orientação das Turmas que integram a Primeira Seção do STJ é pacífica quanto à incidência da contribuição previdenciária sobre férias gozadas, bem como sobre os valores pagos a título de décimo terceiro salário proporcional ao aviso prévio indenizado.Precedentes: AgInt no REsp 1.836.748/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 17/02/2021; AgInt no REsp 1.849.802/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 03/09/2020; AgInt no AREsp 1.650.746/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/02/2021, DJe 26/02/2021; e AgInt no REsp 1.849.126/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/09/2020, DJe 23/09/2020.
+2. Agravo Interno não provido.
+(AgInt no AREsp 1.624.248/RS, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, julgado em 03/05/2021, DJe 07/05/2021) (grifou-se).
+PROCESSUAL CIVIL E TRIBUTÁRIO. DECISÃO MONOCRÁTICA.CABIMENTO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉCIMO TERCEIRO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO. INCIDÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. Nos termos da Súmula 568 desta Corte e do art. 255, § 4º, do RISTJ, o relator está autorizado a decidir monocraticamente quando houver entendimento dominante sobre o tema.
+3. Hipótese em que a jurisprudência de ambas as Turmas que integram a Primeira Seção do Superior Tribunal de Justiça firmou-se no sentido de que incide contribuição previdenciária patronal sobre o aviso prévio indenizado e seus reflexos, inclusive o décimo terceiro proporcional.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.836.748/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 17/02/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ.TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA A CARGO DA EMPRESA. REGIME GERAL DA PREVIDÊNCIA SOCIAL. INCIDÊNCIA SOBRE GRATIFICAÇÃO NATALINA PROPORCIONAL AO AVISO PRÉVIO INDENIZADO.
+1. "A circunstância de o aviso prévio indenizado refletir na composição da gratificação natalina é irrelevante, devendo a contribuição previdenciária incidir sobre o total da respectiva verba" (AgRg no REsp 1383613/PR, Rel.Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/09/2014, DJe 10/10/2014).Assim, "a jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que "incide contribuição previdenciária sobre os valores relativos ao décimo terceiro proporcional ao aviso prévio indenizado, ante o caráter remuneratório de tais verbas  .. " (AgRg no REsp 1.569.576/RN, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 1º/3/2016)" (REsp 1825158/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/08/2019, DJe 06/09/2019).
+2. Agravo interno não provido.
+(AgInt no REsp 1.849.802/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 03/09/2020)
+Como se vê, o acórdão recorrido se encontra em dissonância com a jurisprudência assentada no STJ sobre o tema, razão pela qual merece reparos.
+ANTE O EXPOSTO, dou parcial provimento ao recurso especial, para que seja reconhecida a incidência de contribuição previdenciária sobre os valores pagos a título de décimo terceiro proporcional aoaviso prévio indenizado.
+Publique-se.
