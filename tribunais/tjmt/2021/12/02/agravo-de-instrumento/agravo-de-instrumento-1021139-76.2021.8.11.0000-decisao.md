@@ -1,0 +1,21 @@
+PRIMEIRA CÂMARA CÍVEL DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO no 1001994-68.2020.8.11.0000 COMARCA DE CUIABÁ
+AGRAVANTE: UNIMED CUIABA COOPERATIVA DE TRABALHO MÉDICO
+AGRAVADO: ROGERIO REGO
+Visto etc.
+Trata-se de recurso de AGRAVO DE INSTRUMENTO interposto pela UNIMED CUIABA COOPERATIVA DE TRABALHO MÉDICO contra a decisão proferida pela MMa. Juíza de Direito da 7a Vara Cível da Comarca de Cuiabá/MT, que nos autos da Ação de Obrigação de Fazer com Tutela de Urgência c.c Danos Morais no 1037855-55.2021.8.11.0041, ajuizada contra a agravante por ROGERIO REGO, deferiu pedido de antecipação da tutela, para impor à Cooperativa o custeio “no prazo de 48h (quarenta e oito horas), de todos os procedimentos/tratamentos/medicamentos indicados ao autor no tratamento da esquizofrenia paranoide (CID F20.0 e F19.7), especialmente aos indicados no ID. 68978134, que deverá ser realizado por clínica/médico credenciado à ré, independente da modalidade e sem limitação ou cobrança de coparticipação, sob pena de multa diária que fixo em R$500,00 (quinhentos reais), em caso de descumprimento da decisão, sem prejuízo das sanções cíveis e criminais” (Id n. 110443453 - págs.1 a 10).
+A agravante alega não tem obrigação legal ou contratual de arcar com o custo de tratamento realizado em clínica que não faz parte da rede credenciada da operadora.
+Sustenta que, da mera leitura dos autos de origem, não se verifica o perigo da demora, pois o quadro clínico do agravado não se configura como hipótese “urgência/emergência”, de acordo com a definição legal do termo, conforme dispõe o artigo 35-C da Lei no 9.656/98.
+Pede, pois, o provimento do recurso, para que seja reconhecida a “inexistência dos requisitos autorizadores da tutela de urgência indevidamente requerida pelo agravado”; de imediato, pede a suspensão dos efeitos da decisão (Id. n. 110425985 - págs. 1 a 29).
+É a suma do necessário.
+D E C I D O
+Na inicial, o agravado narra que é dependente químico, padecendo de grave crise psicótica com agressividade extrema e com auto lesão e a tentativa de suicídio, motivo pelo qual seu parente de 1o. Grau, em atenção a recomendação do médico psiquiatra, vislumbrando a situação lamentável em que se encontrava o Requerente, trazendo risco para si e para outrem, fez contato com a operadora do seu plano de saúde, objetivando o custeio pela operadora do plano de internação em clinica ESPECIALIZADA MULTIDISCIPLINAR E ADEQUADA para tratamento de sua doença: DEPENDENCIA QUÍMICA GRAVE e PROBLEMAS PSIQUIÁTRICOS RELACIONADOS.
+Em resposta, a Unimed negou a internação do requerente, ao fundamento de que inexiste clínicas que realizem tratamento psiquiátrico e internação em regime fechado, para tratamento de adictos graves, em sua rede credenciada.
+In casu, assim como anotado da decisão agravada, perfaz evidenciado a urgência no tratamento do agravado, senão pelo risco de agravamento do quadro clínico do requerente e garantia de sua sobrevivência digna, devendo prevalecer neste momento processual, o direito incondicional à saúde, corolário do princípio da dignidade da pessoa humana, sobretudo porque eventual interrupção no tratamento poderia gerar um retrocesso em seu desenvolvimento.
+Assim, tendo sido demonstrada a urgência da internação, e a previsão contratual de cobertura do tratamento, não houve, em princípio, desacerto na decisão agravada.
+Portanto, ao menos neste momento processual, não vejo razões suficientes para suspender os efeitos da decisão agravada.
+Assim, admito a interposição recursal tal como efetivada (CPC, art. 1.019), pelo que recebo e autorizo o processamento do agravo por instrumento, mas INDEFIRO o pleito de concessão de efeito suspensivo, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, especialmente pelo contraponto ofertado pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se a parte agravada, na forma do art. 1.019, II, do CPC, para que apresente as contrarrazões no prazo de 15 dias, e comunique-se ao MM. Juiz da causa, apenas para fins de conhecimento.
+Cuiabá-MT, 2 de dezembro de 2021.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
