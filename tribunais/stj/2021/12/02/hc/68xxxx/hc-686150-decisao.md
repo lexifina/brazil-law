@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de ERICK GONÇALVES DE CARVALHO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2198981-43.2020.8.26.0000).
+Foi o paciente preso em flagrante pela suposta prática do crime de roubo circunstanciado na forma tentada.
+Segundo o apurado, na data dos fatos, a vítima, motorista que efetua entregas de mercadorias para as empresas Avon e Eudora, dirigiu-se ao local dos acontecimentos para realizar a entrega de uma encomenda. Lá chegando, desceu do carro e abriu o compartimento de carga do veículo. Nesse instante, o paciente e o corréu anunciaram o assalto. Contudo, antes de subtraírem a mercadoria, uma viatura da polícia apareceu no local, o que fez com que os denunciados retornassem ao veículo em que estavam e empreendessem fuga, sendo perseguidos e detidos pelos milicianos.
+A prisão em flagrante foi convertida em preventiva.
+Contra essa decisão insurgiu-se a defesa.
+Entretanto, o Tribunal de Justiça do Estado de São Paulo denegou a ordem de habeas corpus.
+No Superior Tribunal de Justiça, sustenta a defesa a ilegalidade, ante a ausência de fundamentos suficientes do acórdão que manteve a medida excepcional.
+Destaca os predicados pessoais favoráveis do acusado.
+Esclarece "a ocorrência de equívoco na compreensão dos fatos por parte dos agentes no momento da apreensão, uma vez que o Paciente apenas dirigia o seu veículo em trabalho de motorista por aplicativo e não era participante do delito, na forma tentada, por outra pessoa; que o paciente empreendeu fuga no momento da abordagem dos agentes de polícia, de maneira que recaiu a culpa em quem estava em seu veículo trabalhando no local dos fatos" (e-STJ fl. 7).
+Sublinha, outrossim, não estarem presentes na espécie nenhum dos requisitos previstos no art. 312 do Código de Processo Penal.
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva, com ou sem a imposição das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 85/86):
+No caso, há evidente gravidade concreta, que destoa da mera subsunção ao tipo penal em abstrato, uma vez que em superioridade numérica, roubou a vítima, que trabalhava sozinha com entregas. Com efeito, mesmo negando que tinha intenção inicial de roubar, é fato, em cognição sumária, que o suspeito desceu do veículo na companhia de outros dois roubadores, abordando a vítima. Assim, se não queria inicialmente roubar, acabou por ceder a isso e a praticar o delito com grave ameaça, subjugando trabalhador exposto. Inclusive, mencionou em seu interrogatório que Thiago, outro suspeito, estaria até mesmo com arma de fogo consigo, o que torna tudo ainda mais grave.
+Por fim, é bom lembrar que condições pessoais favoráveis, como ausência de passagens pretéritas pela Justiça Criminal, por si, não têm o condão de desautorizar a prisão preventiva.
+Ante o exposto, nos termos do art. 310, II, do Código de Processo Penal, converto a prisão em flagrante em prisão preventiva.
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do paciente, consistente na prática, em tese, de crime de roubo majorado pelo concurso de agentes na forma tentada.
+Destacou o magistrado singular a gravidade concreta da conduta, pois "o suspeito desceu do veículo na companhia de outros dois roubadores, abordando a vítima. Assim, se não queria inicialmente roubar, acabou por ceder a isso e a praticar o delito com grave ameaça, subjugando trabalhador exposto. Inclusive mencionou em seu interrogatório que Thiago, outro suspeito, estaria até mesmo com arma de fogo consigo, o que torna tudo ainda mais grave" (e-STJ fl. 85).
+Tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta, porquanto extrapolam a mera descrição dos elementos próprios do tipo de roubo. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública.
+Nesse sentido:
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. REITERAÇÃO DELITIVA. RECURSO DESPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se a indispensável a demonstração do que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs delineou o modus operandi empregado pelo recorrente e seu comparsa, do qual se depreende emprego de agressão contra a vítima, o que denota sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+ ..  (RHC n. 70.507/BA, de minha relatoria, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+PROCESSUAL PENAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. RECEPTAÇÃO. PORTE DE ARMA DE FOGO. ACÓRDÃO DE TRIBUNAL DE JUSTIÇA DENEGATÓRIO DE HABEAS CORPUS. INTERPOSIÇÃO DE RECURSO EM SENTIDO ESTRITO AO INVÉS DE RECURSO ORDINÁRIO. ERRO GROSSEIRO. HOMENAGEM AO PRINCÍPIO DA AMPLA DEFESA. CONHECIMENTO DA SÚPLICA COMO IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ORDINÁRIO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. ORDEM DENEGADA.
+ ..
+3. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, indicadores da periculosidade do paciente, que, "tripulando veiculo em ocorrência de roubo e portando arma de fogo, diante da iminente abordagem policial, fugiram em alta velocidade, pelas ruas da cidade, e efetuaram disparos contra os policiais militares, abalroando outro veículo e vindo, por fim, a colidir o carro em um poste da via". O magistrado de primeiro grau destacou, ainda, "a necessidade da medida para assegurar a aplicação da lei penal e a instrução criminal, pois o indivíduo que tenta violentamente escapar da polícia não colaborará com a instrução criminal, tampouco aceitará eventual penalidade imposta", tudo a conferir lastro de legitimidade à custódia.
+ ..  (RHC n. 66.609/RS, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 3/3/2016, DJe 10/3/2016, grifei.)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso, o recorrente praticou o crime de roubo mediante o uso de simulacro de arma de fogo, em concurso de agentes, com ameaças de morte à vítima, além de, na companhia dos corréus, ter transportado e conduzido um veículo que sabia ser objeto de outro roubo.
+3. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado, como ocorreu nos presentes autos.
+ ..  (RHC n. 58.952/RJ, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/5/2016, DJe 27/5/2016.)
+No que se refere à alegação de ausência de indícios de autoria, cumpre esclarecer, preliminarmente, que a via estreita do habeas corpus (e do seu recurso ordinário) não comporta o "exame da veracidade do suporte probatório que embasou o decreto de prisão preventiva. Isso, porque, além de demandar o reexame de fatos, é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória" (STF, RHC n. 123.812/DF, relator Ministro TEORI ZAVASCKI, SEGUNDA TURMA, DJe de 20/10/2014).
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO TENTADO E FURTO QUALIFICADO. CÓDIGO PENAL. PRISÃO CAUTELAR. AUSÊNCIA DE INDÍCIOS DE AUTORIA E MATERIALIDADE. ANÁLISE FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. PERICULUM LIBERTATIS. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. PROBLEMAS DE SAÚDE. PRISÃO DOMICILIAR. AUSÊNCIA DE COMPROVAÇÃO DA GRAVIDADE E DA AUSÊNCIA DE ESTRUTURA NO ESTABELECIMENTO PRISIONAL. ORDEM DENEGADA.
+1. A aferição da existência de indícios de autoria e materialidade delitiva demanda revolvimento fático-probatório, não condizente com a angusta via do writ, devendo ser a questão dirimida no trâmite da instrução criminal.
+ ..
+4. Ordem denegada. (HC n. 380.198/DF, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/02/2017, DJe 24/02/2017.)
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ALEGAÇÃO DE INOCÊNCIA. NÃO CABIMENTO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. COAÇÃO ILEGAL NÃO DEMONSTRADA.
+ ..
+2. A alegação de ausência de provas da autoria configura tese de inocência, que não encontra espaço para análise na estreita via do habeas corpus, uma vez que demanda o exame do contexto fático-probatório. Precedentes.
+ ..
+5. Habeas corpus não conhecido. (HC n. 315.877/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.)
+Ademais, o excerto do decreto prisional colacionado acima demonstra que há indícios suficientes de autoria, de modo que, para desconstituir tal entendimento, seria necessário extenso revolvimento do acervo fático-probatório, providência que, conforme delineado, esbarra nos estreitos limites cognitivos da via mandamental.
+Assim, não merece conhecimento a alegação de ausência de indícios de autoria.
+Ante todo o exposto, conheço em parte do habeas corpus e, nessa extensão, denego-lhe a ordem.
+Publique-se. Intimem-se.
