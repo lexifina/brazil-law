@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Habeas Dataimpetrado, com fundamento no art. 5º, LXXII, da CFe na Lei 9.507/1997, contra ato do Ministro de Estado da Saúde.
+A parte impetrante aduz, em síntese:
+17. Em julho/2020, a Impetrante ligou para o número 136, do Ministério da Saúde, a fim de saber sobre o andamento do seu pedido de fornecimento do fármaco, e, vide ata notarial anexa, foi informada deque "o protocolo ele ainda está sob análise."(sic).
+18. Em julho/2021, a Impetrante novamente ligou para o número 136, do Ministério da Saúde, a fim de saber sobre o andamento do seu pedido de fornecimento do fármaco, e, vide ata notarial anexa, foi informada de que "ele continua em análise, certo, ainda aguardando a resposta da área competente"(sic).
+19. Ou seja, a Impetrante aguarda pelo fornecimento do referido fármaco, sem qualquer retorno, solução ou satisfação por parte do Ministério da Saúde. Enquanto isso, a cada dia que passa a Impetrante está morrendo.
+20. Assim, existe clara e inequívoca conduta omissiva por parte do Impetrado, que está omitindo informações, ocultando-as e dando respostas evasivas e genéricas, não fornecendo quaisquer detalhes sobre em que posição e Impetrante encontra-se na fila de espera, em que ritmo as pessoas estão sendo atendidas, qual a previsão para o fornecimento do fármaco para a Impetrante, etc.,, durante todo o período até o dia de hoje, inclusive, e continuará praticando tal ato coator enquanto não for concedida a ordem que se busca por meio do presente writ.
+Distribuído o processoa este Relator, proferi decisão preliminar, em exame superficial, dada a urgência que o processo requer, ocasião em que determinei, após entender pela competência deste Juízo, a adoção das medidas processuais iniciais previstas no art. 9º da Lei 9.507/1997.
+A União requereu seu ingresso no feito (fls. 34-35, e-STJ).
+A autoridade apontada como coatora apresentou suas informações (fls. 43-75, e-STJ).
+O Ministério Público Federal manifestou sua opinião institucional às fls. 111-114, e-STJ.
+Considerando as informações apresentadas pela parte impetrada, entendi ser necessáriointimar a impetranteparamanifestar-se acerca dos documentos acostados aos autos. Regularmente intimada, a parte quedou-se silente (certidão às fls. 118, e-STJ).
+É o relatório.
+Decido.
+Autos conclusos no Gabinete em 12.11.2021.
+Após a devida instrução processual, há que se reconhecer a incompetência absoluta desta Corte Superior para concessão da ordem.
+O Ministério Público Federal, em elucidativo parecer, assim opinou quanto àcompetência deste Juízo:
+De outra banda, à autoridade impetrada assiste razão no que tange à preliminar de ilegitimidade passiva. Nos termos da portaria 1.297/2019 do Ministério da Saúde, a competência para realizar os atos referentes ao fornecimento do medicamento para o tratamento da moléstia da impetrante é da Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde(SCTIE/MS). Conforme se extrai da portaria:
+" ..  Considerando que já foi incorporado o medicamento Spinraza (Nusinersena) no SUS para pacientes com AME 5q Tipo I, sem necessidade de suporte ventilatório invasivo permanente (Portaria nº 24/SCTIE/MS, de 24 de abril de 2019),consoante recomendação da Comissão Nacional de Incorporação de Tecnologias no SUS (CONITEC);Considerando que os pacientes com AME 5q Tipos II e III não foram contemplados na Portaria nº 24/SCTIE/MS, de 24 de abril de 2019;  ..
+Art. 3º O acordo de compartilhamento de risco, a ser pactuado com a empresa farmacêutica, deverá conter:  ..  Parágrafo único. A definição dos termos e condições do compartilhamento de risco de que trata o caput deverá ser devidamente motivada por manifestação da Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos em Saúde (SCTIE/MS) que apresente os fundamentos técnicos para os critérios utilizados.
+Art. 4º Os pacientes terão acesso ao medicamento Spinraza em centros de referência para o tratamento da AME 5q, com a disponibilização de cuidados multidisciplinares. Parágrafo único. Os centros serão selecionados pela SCTIE/MSentre os Serviços de Referência em Doenças Raras e os Hospitais Universitários Estaduais e Federais.
+ ..
+Art. 7º A Secretaria de Ciência, Tecnologia, Inovação e Insumos Estratégicos para a Saúde (SCTIE/MS) deverá realizar avaliações periódicas deste projeto piloto, com o objetivo de subsidiar a futura edição de norma geral acerca do compartilhamento de risco para incorporação de tecnologias em saúde no âmbito do SUS." (Grifos nossos)
+Deveras, em exame mais aprofundado, agora com as informações necessárias para tomada de decisão, verifico a ilegitimidade do Ministro da Saúde para figurar no polo passivo desta ação. Conforme pontuado pelo Parquet federal, a autoridade correta para tanto é oSecretário de Ciência, Tecnologia, Inovação e Insumos Estratégicos para a Saúde.
+Nesse sentido o seguinte precedente:
+CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. HABEAS DATA.INFORMAÇÕES BANCÁRIAS. SISTEMA DE INFORMAÇÕES DE CRÉDITO DO BANCO CENTRAL - SCR. ILEGITIMIDADE PASSIVA AD CAUSAM NO QUE TANGE À INCLUSÃO OU MODIFICAÇÃO DE DADOS NO SISTEMA. RESOLUÇÃO CMN 3.658/2008. FORNECIMENTO DE INFORMAÇÕES E DETALHES DAS ANOTAÇÕES.POSSIBILIDADE. PRECEDENTE DO STJ.
+1. Cuida-se de habeas data impetrado contra o Presidente do Banco Central no qual se postulam o fornecimento de informações constantes no Sistema de Informações de Crédito (SCR) bem como a retificação de anotações negativas ou, ainda, a menção de que parte delas não seria verossímil em razão de decisão judicial favorável ao cliente bancário.
+2. A autoridade coatora, Presidente do Banco Central, não possui legitimidade passiva ad causam em parte do pleito, uma vez que a inclusão ou a retificação de informações no SCR, nos termos do art.
+9º da Resolução CMN n. 3.658/2008, é de exclusiva competência das instituições listadas no art. 4º da referida norma regulamentar.
+3. Mesmo a retificação de informação negativa, cujo teor deva ser modificado em razão de decisão judicial transitada em julgada, deve ser feita no Sistema de Informações de Crédito pela entidade bancária envolvida e não pelo Presidente do Banco Central.
+4. Na mesma linha, o precedente (HD 160/DF, Rel. Ministra Denise Arruda, Primeira Seção, DJe 22.9.2008) fixa que é possível conceder parte da ordem pedida para que haja esclarecimentos e detalhes sobre as anotações existentes no SCR, uma vez que a autoridade indicada é depositária de informações, as quais possuem relevância ao impetrante.Ordem concedida em parte. Agravo regimental prejudicado.(HD 265/DF, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJe 6/5/2014)
+Por conseguinte, não é o Ministro de Estado da Saúde a autoridade competentepara sanar a alegadaomissão no fornecimento de informaçõesacerca de disponibilização de medicamento de alto custo.
+Logo, não sendo o Ministro da Saúde a autoridade coatora, constata-se que a hipótese dos autos não se insere na previsão do art. 105, I, "b", da Constituição Federal.
+Ante o exposto, nos termos do art. 64, § 1º, do CPC, reconheço a incompetência absoluta desta Corte Superior e determino a remessa dos autos, com urgência, à Seção Judiciária do Distrito Federal.
+Publique-se.
+Intimem-se.
