@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do assim ementado:
+CONSTITUCIONAL. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL CONTEMPORÂNEO AOS FATOS ALEGADOS. SÚMULA 149 DO STJ. APLICABILIDADE. QUALIDADE DE SEGURADO NÃO DEMONSTRADA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO DE OFÍCIO. AUSÊNCIA DE PROVA DO TRABALHO RURAL. VERBAS DE SUCUMBÊNCIA. DEVER DE PAGAMENTO SUSPENSO. GRATUIDADE DA JUSTIÇA. APELAÇÃO DA PARTE AUTORA PREJUDICADA.
+1 - A aposentadoria por idade do trabalhador rural encontra previsão no art. 48, §§1º e 2º, da Lei nº 8.213/91.
+2 - Deve a autora comprovar o exercício do labor rural, em período imediatamente anterior ao implemento do requisito etário (2015) por, pelo menos, 180 (cento e oitenta) meses, conforme determinação contida no art. 142 da Lei nº 8.213.
+3 - Foram acostadas aos autos cópias de certidão de casamento, realizada em 1978, na qual o marido da autora foi qualificado como lavrador;
+e de CTPS da autora, na qual constam registros de caráter rural, nos períodos de 30/07/1976 a 31/12/1976, de 1º/08/1977 a 15/01/1978, de 09/11/1981 a 19/03/1982, de 06/10/1982 a 08/01/1989, de 15/02/1989 a 18/03/1989 e de 19/06/1989 a 15/07/1989.
+4 - A certidão de casamento é anterior ao período de carência, logo, não pode ser aproveitada.
+5 - Em relação à CTPS da autora, embora seja prova plena do exercício de atividade laborativa rural nos interregnos nela apontados, não se constitui - quando apresentada isoladamente - em suficiente início de prova material do labor nas lides campesinas em outros períodos que nela não constam. Ademais, todos os vínculos são anteriores ao período de carência.
+6 - Ante a ausência de início de prova material contemporâneo aos fatos alegados, resta inviabilizado o reconhecimento de labor rural por todo o tempo pleiteado.
+7 - Extinção da demanda, sem resolução do mérito, a fim de possibilitar a propositura de nova ação, caso a requerente venha a conseguir documentos que comprovem o labor desenvolvido na qualidade de rurícola até o implemento do requisito etário. Entendimento consolidado do C. STJ, em julgado proferido sob a sistemática dos recursos repetitivos, conforme art. 543-C do CPC/1973: REsp 1.352.721/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 16/12/2015, DJe 28/04/2016.
+8 - Mantida a condenação da parte autora no pagamento das despesas processuais e dos honorários advocatícios, observados os benefícios da assistência judiciária gratuita (arts. 11, §2º, e 12, ambos da Lei 1.060/50, reproduzidos pelo §3º do art. 98 do CPC), já que deu causa à extinção do processo sem resolução do mérito.
+9 - Extinção do processo sem resolução do mérito de ofício. Ausência de prova do trabalho rural. Verbas de sucumbência. Dever de pagamento suspenso. Gratuidade da justiça. Apelação da parte autora prejudicada.
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação do art. 48, § 2º, da Lei 8.213/1991, sob o argumento de que faz jus ao benefício de aposentadoria rural por idade.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 10.11.2021.
+A irresignação não merece prosperar.
+Consoante a jurisprudência do STJ, o reconhecimento de tempo de rurícola exige que a prova testemunhal corrobore um início razoável de prova material, sendo certo que o rol de documentos hábeis à comprovação do exercício de atividade rural, inscrito no art. 106, parágrafo único, da Lei 8.213/1991, é meramente exemplificativo, e não taxativo.
+A propósito:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. RURÍCOLA. ATIVIDADE RURAL. SÚMULA 149/STJ. APLICAÇÃO. COMPROVAÇÃO. ROL DE DOCUMENTOS. EXEMPLIFICATIVO. ART. 106 DA LEI 8.213/91. DOCUMENTOS EM NOME PRÓPRIO E DE TERCEIRO. INÍCIO DE PROVA MATERIAL. CARÊNCIA. ART. 143 DA LEI 8.213/91. DEMONSTRAÇÃO. EXERCÍCIO DE ATIVIDADE URBANA POR MEMBRO DA FAMÍLIA. NÃO DESCARACTERIZAÇÃO DO REGIME DE ECONOMIA FAMILIAR. EXCLUSÃO DE SEGURADO ESPECIAL. ENQUADRAMENTO EM OUTRA CATEGORIA. DECRETO 3.048/99. AGRAVO DESPROVIDO.
+I - O reconhecimento de tempo de serviço rurícola, para efeito de aposentadoria por idade, é tema pacificado pela Súmula 149 desta Egrégia Corte, no sentido de que a prova testemunhal deve estar apoiada em um início razoável de prova material.
+II - O rol de documentos hábeis à comprovação do exercício de atividade rural, inscrito no art. 106, parágrafo único da Lei 8.213/91, é meramente exemplificativo, e não taxativo, sendo admissíveis, portanto, outros documentos além dos previstos no mencionado dispositivo.
+(..)
+VII - Agravo interno desprovido.
+(AgRg no REsp 1.218.286/PR, Quinta Turma, Relator Ministro Gilson Dipp, DJe 28/2/2011)
+Relativamente à eficácia do início de prova material para a comprovação da atividade rural, a jurisprudência do STJ admite como início de prova material, certidões de casamento e nascimento dos filhos, contrato de parceria agrícola em nome do segurado, desde que o exercício da atividade rural seja corroborada por idônea e robusta prova testemunhal.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. PREVIDENCIÁRIO. TRABALHADOR RURAL. APOSENTADORIA. INÍCIO DE PROVA MATERIAL. DOCUMENTOS SUFICIENTES. PROVA TESTEMUNHAL.
+1. Este Superior Tribunal de Justiça considera que contrato de parceria agrícola e carteira de sindicato de trabalhadores rurais são aptos como início de prova material, para fins de comprovação de tempo de serviço de rurícola.
+2. A decisão agravada não contraria as Súmulas n. 7 e 149 desta Corte, ao valorar a prova analisada pela Corte Federal de origem.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.292.386/BA, Quinta Turma, Relator Ministro Jorge Mussi, DJe 21/11/2013)
+Na hipótese destes autos, o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu pela impossibilidade de reconhecimento do exercício de atividade campesina, em razão da inexistência de indício de prova material, conforme se observa do seguinte trecho (fl. 135, e-STJ):
+A autora pleiteia a concessão de aposentadoria por idade rural. Nasceu em 30 de junho de 1960, com implemento do requisito etário em 30 de junho de 2015. Deveria, portanto, comprovar nos autos o exercício do labor rural, em período imediatamente anterior a 2015, ao longo de, ao menos, 180 (cento e oitenta) meses, conforme determinação contida no art. 142 da Lei nº 8.213/91.
+Foram acostadas aos autos cópias de certidão de casamento, realizada em 1978, na qual o marido da autora foi qualificado como lavrador (ID 99363466, p. 13); e de CTPS da autora, na qual constam registros de caráter rural, nos períodos de 30/07/1976 a 31/12/1976, de 1º/08/1977 a 15/01/1978, de 09/11/1981 a 19/03/1982, de 06/10/1982 a 08/01/1989, de 15/02/1989 a 18/03/1989 e de 19/06/1989 a 15/07/1989 (ID 99363466, p. 16-23) A certidão de casamento é anterior ao período de carência, logo, não pode ser aproveitada.
+Em relação à CTPS da autora, embora seja prova plena do exercício de atividade laborativa rural nos interregnos nela apontados, não se constitui - quando apresentada isoladamente - em suficiente início de prova material do labor nas lides campesinas em outros períodos que nela não constam. Ademais, todos os vínculos são anteriores ao período de carência.
+Assim, ante a ausência de suficiente início de prova material contemporâneo aos fatos alegados, resta inviabilizado o reconhecimento de labor rural por todo o tempo pleiteado.
+Nesse panorama, rever o entendimento consignado pelo Tribunal de origem requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Cito:
+PREVIDENCIÁRIO. AGRAVO INTERNO. AÇÃO AJUIZADA COM VISTAS À CONCESSÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TRABALHADOR RURAL. INÍCIO DE PROVA MATERIAL QUE NÃO ABRANGE TODO O PERÍODO PRETENDIDO NEM É CORROBORADO POR ROBUSTA PROVA TESTEMUNHAL. SÚMULA 7/STJ.
+1.Trata-se de ação que visa à concessão de aposentadoria por tempo de contribuição.
+2. No caso dos autos, conforme consignado pela instância de origem, o autor não tem direito a receber o benefício da aposentadoria por tempo de serviço, uma vez que os documentos juntados aos autos, auxiliados pela prova testemunhal, não são suficientes para demonstrar o exercício de atividade rural durante o lapso temporal mencionado.
+3. O início de prova material, para amparar o direito do recorrente, careceria da corroboração de prova testemunhal idônea e robusta, inexistente neste caso.
+4. A revisão do entendimento firmado pelo Tribunal a quo, que afirmou a inexistência de um conjunto probatório harmônico acerca do efetivo exercício de atividade rural, encontra óbice na Súmula 7/STJ.
+5. Agravo Interno não provido.(AgInt no REsp 1.608.837/SP, Segunda Turma, Relator Ministro Herman Benjamin, DJe 3/3/2017)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APOSENTADORIA POR IDADE RURAL. REGIME DE ECONOMIA FAMILIAR. TRABALHO URBANO DO CÔNJUGE POR LONGO PERÍODO (1972 A 1997). EXTENSÃO. IMPOSSIBILIDADE. INÍCIO DE PROVA MATERIAL EM NOME PRÓPRIO QUE NÃO FOI CORROBORADO PELA PROVA TESTEMUNHAL QUE, CONFORME DECLINOU A CORTE DE ORIGEM, SE APRESENTA FRÁGIL E CONTRADITÓRIA.
+1. O STJ, no julgamento do REsp 1.304.479/SP, submetido à disciplina do 543-C do CPC/1973, fixou entendimento de que não é admissível a extensão da qualificação de rurícola de cônjuge que tenha laborado em atividades urbanas. No mesmo sentido o REsp 1.310.096/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 10/3/2014 em que se decidiu: "De acordo com a jurisprudência desta egrégia Corte Superior de Justiça, a despeito de a certidão de casamento qualificar o cônjuge da parte autora como lavrador, tal documento não é suficiente para comprovar início de prova material, quando averiguado - como no presente caso - que o cônjuge exerce atividade urbana em momento ulterior. Incidência da Súmula 149 do STJ".
+2. Início de prova material em nome da autora, que não foi corroborada pela prova testemunhal que, de acordo com o julgador a quo, apresenta-se frágil e contraditória.
+3. A alteração das conclusões retratadas no acórdão recorrido só seriam possíveis mediante novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, a teor do óbice previsto na Súmula n. 7/STJ.
+4. Agravo interno não provido.(AgInt no REsp 1448871/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 10/08/2018)
+In casu, a solução do tema não depende apenas de interpretação da legislação federal, mas efetivamente da análise da documentação contida nos autos, o que não se compatibiliza com a missão constitucional do STJ, em grau recursal.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
