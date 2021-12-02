@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por DIEGO DE SOUSA LEITE, contra acórdão do Tribunal de Justiça do Estado de Goiás.
+Colhe-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva pela suposta prática do delito tipificado no art. 33, caput,da Lei n. 11.343/2006.
+Neste recurso, a defesa sustenta ausência de fundamentação idônea para a custódia cautelar.
+Argumenta que a companheira do recorrente se encontra em gravidez de alto risco e ele é o único responsável pelos seus cuidados, assim como de sua filhae de outras duas criançasde sua companheira.
+Alega que o réu sofre de asma e bronquite aguda, razão pela qual necessita de cuidados especiais.
+Pontuaque o corréu assumiu a propriedade da droga.
+Pleiteia assim a revogação da prisão cautelar.
+O pedido liminar foi indeferido (e-STJ, fls. 147).
+Informações prestadas (e-STJ, fls. 151-158 e 160-167).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ, fls. 160-167).
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+Inicialmente, vale anotar que a tese defensiva de ausência de indícios de autoria não se sustenta, pois, conforme afirmado pelas instâncias ordinárias, há elementos mínimos que indicam a prática do tráfico de entorpecentes pelo recorrente.
+Infere-se dos autos queo acusado e um corréu foram presos em flagrante portando significativa quantidade de entorpecentes no veículo no qual trafegavam, tendo sido destacado pelo Juízo de primeiro grau que:
+"Mauro trazia consigo, 01 (uma)peça de substância análoga à droga conhecida como "skunk" (supermaconha), com aproximadamente 500g(quinhentos gramas) e Diego trazia consigo, dentro da cueca que vestia, 03 (três) peças de maconha e, debaixodo banco do veículo que conduzia, 1,130kg (um quilograma e cento e trinta gramas) de maconha, além da quantia de R$ 1.076,00 (mil e setenta e seis reais) em espécie."(e-STJ, fls. 173-174)
+Logo, qualquer entendimento em contrário para afastar a responsabilizaçãodo acusadono cometimento do delito, demandaimprescindível reexame do conjunto fático-probatório dos autos, o que é inviável nesta Corte.
+Corroboram:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. HABEAS CORPUS
+NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+4. É incabível, na estreita via do habeas corpus, a análise de questões relacionadas à negativa de autoria, por demandarem o reexame do conjunto fático probatório dos autos.
+5. Habeas corpus não conhecido.
+(HC 497.684/MG, de minha Relatoria, QUINTA TURMA, julgado em 04/04/2019, DJe 09/04/2019).
+"HABEAS CORPUS. PROCESSUAL PENAL. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. CORRUPÇÃO ATIVA E PASSIVA. VIOLAÇÃO DE SIGILO FUNCIONAL. CONTRAVENÇÃO PENAL DO "JOGO DO BICHO". ALEGAÇÃO DE FALTA DE INDÍCIOS SUFICIENTES DE AUTORIA. NECESSIDADE DE ANÁLISE DE PROVAS. VIA INADEQUADA. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA DESTINADA À PRÁTICA DE DIVERSAS ESPÉCIES DE CRIMES. GRAVIDADE CONCRETA. ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NO CASO. HABEAS CORPUS CONHECIDO EM PARTE E, NESSA EXTENSÃO, DENEGADA A ORDEM.
+1. Reconhecer a ausência, ou não, de indícios suficientes de autoria acarretaria, inevitavelmente, aprofundado reexame do conjunto fático-probatório, impróprio na via do habeas corpus.
+ ..
+7. Habeas corpus conhecido em parte e, nessa extensão, denegada a ordem."
+(HC 492.144/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em
+26/03/2019, DJe 10/04/2019).
+Por sua vez, aprisão preventiva foi decretada nos seguintes termos:
+No que tange à manutenção, ou não, da prisão cautelar com a sua conversão da espécie "em flagrante" para "preventiva", exigência da Lei em vigor, tenho que a pena aplicável aos indiciados está dentro do permissivo legal para amparar o decreto de prisão preventiva.
+Além disso, o crime foi praticado em circunstâncias dotadas de gravidade concreta, diante da significativa quantidade de substâncias entorpecentes apreendidas em poder dos autuados. Mauro trazia consigo, 01 (uma) peça de substância análoga à droga conhecida como "skunk" (supermaconha), com aproximadamente 500g (quinhentos gramas) e Diego trazia consigo, dentro da cueca que vestia, 03 (três) peças de maconha e, debaixo do banco do veículo que conduzia, 1,130kg (um quilograma e cento e trinta gramas) de maconha, além daquantia de R$ 1.076,00 (mil e setenta e seis reais) em espécie.
+Importante salientar que o conceito de ordem pública não visa apenas prevenir a reprodução de fatos criminosos, mas acautelar o meio social e a própria credibilidade da Justiça, uma vez que a sociedade tem assistido a um significativo recrudescimento de crimes graves.
+ ..
+Não fosse isso, verifico que os autuados possuem personalidades voltadas à práticas criminosas, uma vez que, segundo as suas listas de antecedentes criminais, além deste processo, o acusado Mauro é reincidente, possuindo condenação, já transitada em julgado, por crime da mesma natureza (tráfico de drogas), e o acusado Diego, por sua vez, respondo por outros dois processos criminais, também pela prática de crimes de tráfico de drogas, ficando evidente que são contumazes descumpridores da lei penal com o risco de reiteração delitiva, caso postos em liberdade, não sendo apropriado aplicar outra medida cautelar, em substituição à prisão preventiva, nos termos da legislação vigente.
+ ..
+Destarte, HOMOLOGO O FLAGRANTE LAVRADO e DECRETO A PRISÃO PREVENTIVA de DIEGO DE SOUSA LEITE e MAURO SÉGIO SILVA RIBEIRO, para a garantia da ordem pública, devendo ser expedido e inserido no BNMP o mandado de prisão com validade até 23/09/2041, com o subsequente cumprimento. (e-STJ, fls. 173-184)
+O pedido de revogação da custódia cautelar foi indeferido nos seguintes moldes:
+A prisão preventiva na hipótese em comento, sob minha ótica, neste momento, continua imprescindível para resguardar a ordem pública, tendo em vista que o crime foi praticado em circunstâncias dotadas de gravidade concreta, diante da expressiva quantidade de drogas apreendidas, foram encontradas, dentro da cueca de Diego, 03 (três) porções da droga skunk (supermaconha) e, debaixo do banco do motorista do veículo que estava sendo conduzido por ele, 1,130kg (um quilograma e cento e trinta gramas) da mesma substância junto à quantia de R$ 1.076,00 (mil e setenta e seis reais) em espécie, indicativos de inclinação criminosa e potencialidade lesiva a ordem pública.
+Veja-se que o acusado foi flagrado na posse de mais de 01kg de substância entorpecente, além de entregar, no momento da abordagem policial, 500g de maconha para Mauro. Ademais, foi encontrado junto com Diego a quantia de R$ 1.076,00 (mil e setenta e seis reais) em espécie, possivelmente dinheiro obtido com transações ilícitas de drogas, emergindo dai a conclusão da necessidade de resguardar a ordem pública.
+ ..
+Não fosse isso, verifico que DIEGO possui personalidade voltada à prática criminosa, uma vez que, segundo a sua lista de antecedentes criminais, além deste processo, possui outra ação penal em andamento nesta Vara também pela prática do crime de tráfico de drogas (autos nº 5322682-28.2020.8.09.0011), ficando evidente que é um contumaz descumpridor da lei penal com risco de reiteração delitiva, caso posto em liberdade, não sendo apropriado aplicar outra medida cautelar, em substituição à prisão preventiva, nos termos da legislação vigente.
+ ..
+Isto posto, INDEFIRO o pleito e MANTENHO a prisão preventiva de DIEGO DE SOUSA LEITE, pelos motivos sustentados outrora e que permanecem incólumes. (e-STJ, fls. 131-138)
+O Tribunal de origem denegou a ordem sob os seguintes fundamentos:
+Consoante relatado, trata-se de habeas corpus liberatório impetrado em favor de DIEGO DE SOUSA LEITE ao argumento de que sofre manifesto constrangimento ilegal em razão de não estarem presentes os requisitos autorizadores da prisão preventiva, especialmente porque cabível a aplicação de medidas cautelares diversas da prisão, por ostentar predicados pessoais favoráveis, da excepcionalidade da constrição, por se encontrar dentro do grupo de pessoas com maior risco de contaminação em face da Covid-19 e ser inocente da imputação a ele deduzida.
+Ressalto inicialmente que o habeas corpus, ação mandamental de natureza constitucional e rito célere não admite exame aprofundado de provas. Logo, a assertiva do impetrante que o paciente não sabia que Mauro trazia droga consigo não é cabível de análise na via eleita.
+ ..
+Na decisão que homologou o flagrante e converteu a prisão em preventiva, constata-se que a autoridade impetrada fundamentou sua necessidade, explicitando a presença dos requisitos autorizadores da medida constritiva (mov. 18 dos autos originais):
+ ..
+Não havendo alteração fática, indeferiu o pedido de revogação da constrição (mov. 32 dos autos originais):
+ ..
+Do exposto, vê-se que, ao contrário do asseverado pelo impetrante, as decisões encontram-se devidamente fundamentada em fatos concretos, como garantia da ordem pública, diante da gravidade concreta do delito supostamente praticado, com apreensão de grande quantidade de droga, aliado ao fato do paciente responder a outro processo da mesma natureza. Assim, presentes os requisitos autorizadores da medida constritiva não há constrangimento ilegal a ensejar a concessão da ordem.(e-STJ, fls. 78-82)
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, segundo se infere, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o recorrente foi surpreendido na posse de 500g de skunk,1,130kg de maconha e R$ 1.076,00 em espécie.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..  2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..  Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO Documento: 110596149 Página 2 de 3 Superior Tribunal de Justiça PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Ademais, a custódia cautelar também está suficientemente motivada na garantia da ordem pública em razão dareiterada conduta delitiva doagente.Segundo consta, elejá responde a duas ações penais em curso pela prática do delito de tráfico de drogas.
+Dessarte, segundo jurisprudência desta Corte, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de droga apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, visto que, cerca de trinta dias após haver sido beneficiado com a concessão de liberdade provisória, o acusado foi novamente preso em flagrante, pela suposta prática de delito de mesma natureza, e já registra condenação criminal na ação penal relativa a tais fatos, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal). 4. Denegada a ordem."
+(HC 511.692/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019).
+Nesse contexto, é inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do recorrente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Por fim, quanto à alegação de quesofre de asma e bronquite aguda e quenecessita de cuidados especiais,o Tribunal a quo destacou que
+" .. o risco de contaminação pela Covid 19, em decorrente de doença preexistente (asma) não enseja automaticamente a colocação do paciente em liberdade ou prisão domiciliar, encontrando-se os presídios tomando todos os procedimentos de segurança, visando a diminuição dos riscos aos internos, não havendo comprovação de que se encontre extremamente debilitado ou que necessite de cuidados médicos que não possam ser ministrados no presídio" (e-STJ, fl. 83).
+Desta feita, não foi comprovado perante as instâncias ordinárias que as enfermidades das quais sofre o recorrente o tornem extremamente debilitado ou quenão possam ser tratadas no estabelecimento prisional, motivo pelo qual, mostra-se inviável a concessão de liberdade provisória ou de substituição da prisão preventiva por medidas cautelares.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se
