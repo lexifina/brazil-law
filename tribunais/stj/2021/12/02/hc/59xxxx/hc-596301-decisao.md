@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido de liminar impetrado em favor de EDIVALDO DE FREITAS LIMA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Espírito Santo (HC n. 0008484-10.2020.8.08.0000). Eis a ementa do respectivo acórdão (e-STJ fl. 15):
+HABEAS CORPUS. PRISÃO PREVENTIVA.COVID-19. MANUTENÇÃO DA PRISÃO PREVENTIVA.PACIENTES QUE NÃO INTEGRAM OS GRUPOS DERISCO DA DOENÇA. PERICULOSIDADEEVIDENCIADA. AÇÕES PENAIS EM CURSOGARANTIA DA ORDEM PÚBLICA. ORDEMDENEGADA. 1. A Recomendação nº 62/2020 do CNJtrata-se de orientação, não possuindo caráter vinculante.Busca que o magistrado analise a situação dos presoscaso a caso, levando em consideração não somente afaixa etária e doença preexistente, como também aspeculiaridades de cada um deles. 2. A análise deve serfeita de forma criteriosa e de forma concreta pelomagistrado, não podendo a prisão domiciliar serconcedida de forma indiscriminada, em detrimento àsituação já instável que vive a sociedade, uma vez que amedida beneficiaria todos os apenados, inclusive aquelescondenados por crimes violentos e hediondos. 3. Ospacientes José Felipe e Edivaldo não se tratam deindivíduos idosos, possuindo, respectivamente, 33 (trintae três) e 49 (quarenta e nove) anos. Não bastasse, nãohá nos autos nenhum elemento que indique que elessejam portadores de alguma doença que os façamintegrar os grupos de risco do Covid19. 4. Os paciente,que possuem registros criminais antecedentes, forampresos em flagrante supostamente transportando umacarga roubada, avaliada em mais de cem mil reais, emcircunstâncias que indicam uma articulada associaçãocriminosa, a evidenciar a necessidade da manutenção dacustódia como forma de garantir a ordem pública. 5.Ordem denegada.
+Conforme relatado pela Presidência do Superior Tribunal de Justiça (e-STJ fl. 100):
+O paciente foi preso em flagrante pela suposta prática dos crimes dos arts. 180, 288 e 311 do Código Penal. Posteriormente, a prisão foi convertida em preventiva.
+O impetrante alega fundamentação inidônea do decreto prisional; crime sem violência ou grave ameaça; e ausência de proporcionalidade e razoabilidade da medida extrema.
+Requer, liminarmente e no mérito, a liberdade e/ou conversão da prisão emdomiciliar, com ou sem imposição de medidas cautelares diversas, conforme a Recomendação CNJ n. 62/2020.
+O pedido liminar foi indeferido.
+Prestadas as informações pelas instâncias ordinárias, oMinistério Público Federal exarou parecer opinando pela denegação da ordem.
+É, em síntese, o relatório.
+Decido.
+Em consulta ao andamento processual da ação penal na origem, realizada pelo sítio eletrônico do Tribunal estadual, apurou-sea superveniênciade sentença condenatória em desfavor do paciente.
+Ficou, portanto, semobjeto opedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar,visto que a restrição da liberdade, agora, decorre de novo título, não submetido ao pronunciamento do Tribunal de origem.
+Ante o exposto,julgo prejudicadoo presente writ.
+Publique-se.Intimem-se.
