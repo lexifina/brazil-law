@@ -1,0 +1,22 @@
+DECISÃO
+1. Cuida-se de agravo interposto por UNIMED GOVERNADOR VALADARES COOP DE TRAB MEDICO LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+EMENTA: APELAÇÃO CÍVEL - NÃO INTERVENÇÃO DO MINISTÉRIO PÚBLICO NA PRIMEIRA INSTÂNCIA - AUSÊNCIA DE PREJUÍZO - NULIDADE PROCESSUAL NÃO VERIFICADA - PLANO DE SAÚDE - APLICABILIDADE DO CDC - HOME CARE - DIREITO À SAÚDE - TRATAMENTO DOMICILIAR - PRESCRIÇÃO MÉDICA - MANUTENÇÃO DA PROCEDÊNCIA DA AÇÃO. Ainda que a intervenção do Ministério Público seja obrigatória em face de interesse de incapaz, é necessária a demonstração de prejuízo a este para que se reconheça a nulidade processual advinda da ausência de intervenção do Ministério Público na primeira instância. A finalidade básica do contrato de plano de saúde é garantir atendimento e manutenção da saúde dos seus consumidores, razão pela qual injustificável a recusa para cobertura de tratamento domiciliar prescrito por médico.
+Opostos embargos de declaração, foram acolhidostão-somente para reconhecer o erro material constante do relatório do recurso de apelação, a fim de constar que a apelação foi interposta por Unimed -GV Cooperativa de Trabalho Médico Ltda.
+Nas razões do recurso especial, aponta a parte recorrente, ofensa ao disposto nos arts.4º, 47, 51 do Código de Defesa do Consumidor, 10, 12 e 35-G da Lei 9.956/98 (LPS), sob o argumento de que o contrato de plano de saúde se relaciona com a cobertura de assistência médico-ambulatorial e hospitalar e que a recusa ao tratamento domiciliar tem amparo legal e contratual.
+Contrarrazões ao recurso especial às fls. 294-310.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+O Tribunal de origem entendeu , com base nas provas dos autos que o paciente teve indicação médica para o tratamento de home care,e portanto, o plano de saúde não pode recusar ao tratamento domiciliar, tampouco aos procedimentos que deverão ser tomados para que o tratamento seja eficaz, ainda que o contrato não contemple esta cobertura, pois compete ao médico definir qual é o melhor método a ser ministrado para determinada doença.
+Outro não é o entendimento do STJ a respeito do tema.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. Nos termos da jurisprudência desta Corte, é abusiva a cláusula contratual que veda a internação domiciliar (home care) como alternativa à internação hospitalar. Incidência da Súmula 83/STJ.
+3. Rever a conclusão a que chegou o Tribunal de origem, acerca da desnecessidade de prova pericial, da configuração de dano moral, bem como a revisão dos parâmetros utilizados para arbitramento da indenização - que, no caso, não se mostra excessiva ou irrisória -, encontra óbice na Súmulas 7/STJ 4. Agravo interno desprovido. (AgInt no AREsp 1845118 / DF. Quarta Turma. DJe 08/10/2021. Rel. Ministro MARCO BUZZI.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. PLANO DE SAÚDE. PRESTAÇÃO DE SERVIÇO HOME CARE. TRATAMENTO SOLICITADO PELO MÉDICO. REVISÃO DE CLÁUSULA CONTRATUAL ABUSIVA. AGRAVO DESPROVIDO.
+1. De acordo com a orientação jurisprudencial do STJ, o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma, sendo abusiva a cláusula contratual que exclui tratamento domiciliar quando essencial para garantir a saúde ou a vida do segurado.
+2. Agravo interno desprovido. (AgInt no AREsp1204136/ PE . Quarta Turma. Rel. Ministro LÁZARO GUIMARÃES (desembargador convocado do TRF 5ª Região). DJe 02/04/2018)
+3. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
