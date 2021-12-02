@@ -1,0 +1,31 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos contra decisão desta relatoria assim ementada:
+RECURSO ESPECIAL. BENEFÍCIO DA JUSTIÇA GRATUITA. PESSOA JURÍDICA. NÃO DEMONSTRAÇÃO DA CONDIÇÃO DE MISERABILIDADE. SÚMULA 481/STJ. REVISÃO DOS FUNDAMENTOS ESTAMPADOS NO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ.
+1. A concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor a presunção de insuficiência de recursos, ainda que ela esteja em recuperação judicial. Precedentes.
+2. Diante da premissa fática estabelecida no acórdão recorrido, não há espaço para a revisão da conclusão acerca da não comprovação da hipossuficiência da parte recorrente, tendo em vista o que preconiza a Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Recurso especial não provido.
+Sustenta que o pedido foi manejado em 2018 e que os documentos fiscais da época foram acostados aos autos, quais sejam os extratos bancários e a ausência de apuração do ICMS, trazendo o novo argumento de que adeclaraçãode imposto de renda não mais foi exigida a partir do ano-calendário de 2014, por isso que juntou apenas a de 2013.
+A omissão consiste na não apreciação desses documentosque, à época do pedido, eram atualizados.
+É o relatório.
+2. A decisão embargada registrou que o Juízo de piso negou o pedido de assistência judiciária gratuita tendo em vista que a embargante não se desincumbira do ônus de demonstrar a sua hipossuficiência financeira, da mesma forma que consignou que o Tribunala quoassim se manifestou quanto aos documentos juntados aos autos em sede recursal:
+2. É possível a outorga da gratuidade da justiça à pessoa jurídica, mesmo que de fins lucrativos, quando a situação financeira desta não permitir o pagamento das custas e despesas processuais. Imprescindível, todavia, que a pessoa jurídica evidencie tal situação.
+ ..
+Tal orientação foi consolidada pelo Colendo Superior Tribunal de Justiça mediante a edição da Súmula 481, publicada no DJe de 1.8.2012, a seguir transcrita:
+ ..
+Na hipótese vertente, embora o deferimento da recuperação judicial da postulante não seja condição que permita, por si só, concluir pela impossibilidade de pagamento das custas processuais, os documentos de fls. 59/132 indicam ausência de liquidez por parte da ré, a autorizar o benefício da gratuidade processual. Entretanto, considerando-se que tais documentos não são atuais e que a empresa ré se encontra ativa, o benefício aqui outorgado fica restrito à dispensa do pagamento do preparo recursal, com amparo no § 5º do art. 98 do atual CPC.
+Foi afirmado, ainda, que o Tribunal de origem manteve o seu posicionamento em sede de embargos de declaração, nos seguintes termos:
+A documentação apresentada nos autos principais com o intuito de fundamentar o pedido (fls. 59/132), especialmente a "declaração de informações econômico fiscais da pessoa jurídica" (fls. 73/132), refere-se ao ano base de 2013. Porém, conforme fundamentação exposta no voto condutor, aqui ratificada, o deferimento do processamento da recuperação judicial da ré embargante não permite, por si só, que se conclua pela sua impossibilidade de pagamento das custas e despesas do processo (fls. 196/197 dos autos principais). Tampouco se prestam a demonstrar hipossuficiência financeira (para fins de dispensa de pagamento das custas e despesas do processo) contemporânea à data do pedido, ou seja, 6.9.2018 (fl. 34), os documentos de fls. 59/72, relativos aos meses de dezembro de 2017 e janeiro de 2018. O indeferimento do beneficio em primeiro grau, aliás, decorreu da não demonstração dos respectivos requisitos pela ré  ..
+ ..
+Pretendendo a ré embargante, com o apelo interposto, a reforma da sentença no tópico em que o seu pedido de gratuidade foi rejeitado por ausência de prova de sua hipossuficiência financeira, cabia-lhe instruir o seu recurso com elementos capazes de alterar esse resultado, já que, repise-se, insuficiente se mostra a documentação antes apresentada (fls. 59/132 dos autos principais).
+Como se vê, todas as decisões proferidas na instância ordinária foram no mesmo sentido, qual seja a ausência de comprovação da hipossuficiência financeira, em virtude de não ter acostado aos autos documentação atualizada, não obstante tenha a embargante asseverado que os extratos bancários eram atuais tanto quanto os demais documentos fiscais.
+O argumento de que o IRPJ nãofoi mais exigido a partir do ano-calendáriode 2014 é novo, porquanto apresentado apenas nos presentes embargos de declaração, não tendo sido veiculado em nenhuma daspetiçõesrecursais anteriores.
+Tal fato, por si só, já denota a ausência de omissão dos julgados.
+Somado a isso, tem-se que a fundamentação do acórdão objeto do recurso especial refere-se sim à declaração de imposto de renda, mas não só. Também atestam expressa e claramente que "os documentos de fls. 59/72, relativos aos meses de dezembro de 2017 e janeiro de 2018"igualmente não se prestaram ademonstrar o direito de dispensa de pagamento das custas e despesas do processo, de modo que é forçoso concluir que a Cortea quonão examinou apenas a declaração de imposto de renda de 2013, mas outros documentos expedidos em 2017 e 2018.
+Dessarte, não se verifica nenhuma omissão na decisão embargada que analisou fundamentadamente todos os pontos controvertidos.
+3. Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimações necessárias.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+2. A insuficiência de documentação necessária à demonstração do direito à concessão do benefício da gratuidade de justiça foi asseverada por todas as decisões proferidas na instância ordinária, tendo sido analisados na decisão embargada todos os pontos controvertidos de forma fundamentada, o que denota a ausência de omissão no julgado.
+3. Embargos de declaração rejeitados.
