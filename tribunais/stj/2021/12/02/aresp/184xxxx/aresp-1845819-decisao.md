@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por DEPARTAMENTO DE AGUA E ESGOTO DE MARILIA contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, o qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional paradesafiar acórdão assim ementado (e-STJ fl.328):
+OBRIGAÇÃO DE FAZER. Fornecimento de água. Intermitência dos valores de pressão e vazão com que a água chegaloteamento autor. Fato comprovado por perícia judicial. Defeito naprestação do serviço demonstrada. Inexistência de causa que elida a responsabilidade da ré pela reparação do dano. Prazo fixado para realização das obras, contudo, exíguo. Necessidade de observância do cronograma apresentado pela própria ré. Recurso provido em parte.
+Embargos de declaração rejeitados (e-STJ fls. 349/354).
+No recurso especial obstaculizado, a parte apontou violação do art. 6º, §2º, da Lei n. 6.766/1979, argumentando que a realização de reservatório elevado para manter a distribuição de água internamente é de responsabilidade do recorrido(e-STJ fls. 359/366).
+Contrarrazõesàs e-STJ fls. 370/379.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Quanto à alegada ofensa ao(s) art(s).6º, §2º, da Lei n. 6.766/1979,observa-se que o Tribunal a quo não emitiu juízo de valor sobre os referidos dispositivos, embora suscitados nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento. Incide, na espécie, o óbice da Súmula 211 do STJ.
+É verdade que o art. 1.025 do Código de Processo Civil de 2015 consagrou o "prequestionamento ficto", o qual prescreve, in verbis:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1.067.275/RS, rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/10/2017, DJe 13/10/2017;e AgInt no REsp 1.631.358/RN, rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017), o que não ocorreu, in casu.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10%sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
