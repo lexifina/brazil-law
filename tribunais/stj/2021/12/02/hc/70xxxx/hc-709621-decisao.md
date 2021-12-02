@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JEISON LUIS ASSUNÇÃO DE SOUZA apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul que indeferiu o pleito liminar no HC n. 5237149-19.2021.8.21.7000.
+Infere-se dos autos que o paciente foi preso preventivamente em 27/7/2020, por suposta infração aos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, sob o argumento de que não houve a revisão da custódia preventiva, em afronta ao art. 316 do CPP.
+O Tribunal, contudo, indeferiu o pedido liminar (e-STJ fls. 51/52).
+Na presente impetração, a defesa insiste que no dia 29/11/2021 "atingiu-se 90 (noventa) dias da realização da audiência em que se encerrou a instrução e que o r. juízo de primeiro grau deixou de revisar o decreto preventivo" (e-STJ fl. 5).
+Sustenta ser o caso de superação da Súmula n. 691/STF, pois "sequer foi determinado ao juízo de piso que revisasse a necessidade do encarceramento precoce, eis que já superado o prazo de noventa dias do par. único do art. 316 do CPP." (e-STJ fls. 6/7).
+Argumenta que, nos termos da inovações trazidas pela Lei n. 13.964/2019, "se decorrido o prazo legal, não houver pronunciamento judicial, a prisão torna-se ilegal, devendo ser relaxada." E acrescenta " ..  esse reexame é obrigatório e independe de provocação das partes" (e-STJ fl. 10).
+Diante disso, requer, em liminar e no mérito, seja concedida a liberdade provisória ao paciente ou, subsidiariamente, a substituição da custódia por medidas cautelares alternativas,tudo com a superação da Súmula 691/STJ.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+No mesmo sentido, confira-se o seguinte precedente:
+CRIMINAL. HC. QUADRILHA. FURTO QUALIFICADO. PRISÃO PREVENTIVA. FALTA DE FUNDAMENTAÇÃO. ATO DE DESEMBARGADOR. INDEFERIMENTO DE LIMINAR. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. ORDEM NÃO CONHECIDA.
+1- Não cabe habeas corpus contra indeferimento de liminar, exceto em casos de evidente e flagrante ilegalidade, sob pena de indevida supressão de instância, uma vez que o mérito da ordem originária ainda não foi apreciado no Tribunal a quo.
+2- Súmula 691 que teve sua validade reafirmada pelo Supremo Tribunal Federal, com a ressalva de que o enunciado não impede o conhecimento de habeas corpus, se evidenciado flagrante constrangimento ilegal.
+3- Não sendo possível constatar qualquer ilegalidade na decisão recorrida, deve o paciente aguardar a apreciação do mérito da questão aduzida em segundo grau.
+4- Ordem não conhecida (HC 82.163/SP, Rel. Ministra JANE SILVA, Desembargadora Convocada do TJ/MG, DJe 1º/10/2007).
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não constatada na espécie, não é de se admitir casos como o dos autos.
+Com efeito, na hipótese vertente, consignou o eminente Relator, in verbis (e-STJ fls. 51/52):
+No tocante à revisão da prisão, o advento do chamado Pacote Anticrime - Lei nº 13.964/2018  estabeleceu a necessidade de revisão periódica da prisão preventiva a cada 90 dias, nos termos do artigo 316 do Código de Processo Penal.
+Contudo, o Superior Tribunal de Justiça já se manifestou no sentindo que não se trata de termo peremptório. Eventual atraso na realização deste ato não torna, de plano, ilegal a constrição cautelar, tampouco implica na imediata colocação do custodiado em liberdade, devendo o Juízo competente ser instado a reavaliar a legalidade e a atualidade dos seus fundamentos.
+ .. .
+Desta maneira, considerando que está encerrada a instrução, e o feito está na iminência de ser sentenciado, ocasião em que a prisão preventiva será reapreciada, indefiro a liminar.
+Consoante se observa dos autos, a decisão que indeferiu o pedido liminar na origem não ostenta ilegalidade evidente e apta a desafiar controle antecipado por este Superior Tribunal.
+Cumpre salienta que ofim de assegurar que a prisão não se estenda por período superior ao necessário, configurando verdadeiro cumprimento antecipado da pena, a alteração promovida pela Lei nº 13.964/2019 ao art. 316 do Código de Processo Penal estabeleceu que o magistrado revisará a cada 90 dias a necessidade da manutenção da prisão, mediante decisão fundamentada, sob pena de tornar a prisão ilegal. O parágrafo único do art. 316 do CPP assim dispõe:
+Decretada a prisão preventiva, deverá o órgão emissor da decisão revisar a necessidade de sua manutenção a cada 90 (noventa) dias, mediante decisão fundamentada, de oficio, sob pena de tornar a prisão ilegal.
+Necessário considerar, porém, que assim como se deve proceder em relação a um ocasional excesso de prazo na formação da culpa,para o reconhecimento de eventual constrangimento ilegal pela demora no reexame obrigatório da custódia cautelarexige-se uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+Ora, é certo que em respeito ao princípio da dignidade humana, bem como ao da presunção de não culpabilidade, o reexame da presença dos requisitos autorizadores da prisão preventiva deve ser realizado a cada 90 dias, nos termos da novel norma processual retro citada.
+Contudo, não se trata de termo peremptório, isto é, eventual atraso na execução deste ato não implica automático reconhecimento da ilegalidade da prisão, tampouco a imediata colocação do custodiado cautelar em liberdade.
+Por certo, todas as questões suscitadas pela defesa do paciente serão tratadas naquele mandamus por ocasião do julgamento de mérito, sem o qual esta Corte fica impedida de apreciar (em ampla extensão e profundidade) o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Em conclusão, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Recomendo, entretanto, ao Juízo processante, que revise a necessidade da manutenção da prisão, nos termos do que determina o art. 316 do Código de Processo Penal, com as alterações promovidas pela Lei n. 13.964/2019.
+Intimem-se.
