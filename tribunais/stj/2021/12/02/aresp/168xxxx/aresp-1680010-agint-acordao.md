@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 671/691) interposto contra decisão desta relatoria que não conheceu do agravo nos próprios autos, sob o fundamento de incidência, por analogia, da Súmula n. 182/STJ.
+Os embargos de declaração foram rejeitados (e-STJ fls. 668/669).
+Em suas razões, a agravante requer preliminarmente a concessão de efeito suspensivo à insurgência recursal.
+Aponta ofensa aos arts. 11, 489 e 1.022 do CPC/2015 e 93, IX, da CF, ante "a não fundamentação do julgado quantos aos tópicos mencionados nos aclaratórios anteriores" (e-STJ fl. 677).
+Alega que impugnou todos os fundamentos da decisão de admissibilidade, o que justificaria o afastamento da Súmula n. 182/STJ.
+No mais, repete os argumentos do especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foi apresentada impugnação (e-STJ fls. 694/697).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente a fundamentação recursal que alega negativa de prestação jurisdicional, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro da decisão agravada.
+2. O agravante deve atacar, de forma específica, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. Aplicação do art. 932, III, do CPC/2015 e, por analogia, da Súmula n. 182/STJ.
+3. Segundo a jurisprudência da Corte Especial do STJ, "a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp n. 746.775/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, Relator p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018), o que não ocorreu.
+4. Agravo interno a que se nega provimento.
+AgInt nos EDcl no AGRAVO EM RECURSO ESPECIAL Nº 1.680.010 - SP (2020/0062418-9)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+JULIO JULIO E CIA LTDA
+ADVOGADO
+:
+ANDREI BRIGANÓ CANALES - SP221812
+AGRAVADO
+:
+ARMANDO PANNUNZIO NETO
+ADVOGADO
+:
+RODRIGO CAMARGO KALOGLIAN - SP172014
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fl. 641):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial sob os seguintes fundamentos: (a) ausência de negativa de prestação jurisdicional, e (b) Súmulas n. 5, 7 e 83 do STJ (e-STJ fls. 405/407).
+Em suas razões (e-STJ fls. 478/509), a agravante sustenta a presença de todos os requisitos de admissibilidade do especial. Ao final, pugna pelo conhecimento e pelo provimento do recurso.
+É o relatório.
+Decido.
+O agravo que deixa de refutar especificamente os fundamentos da decisão agravada não é passível de conhecimento, em virtude de expressa previsão legal (CPC/1973, art. 544, § 4º, I, CPC/2015, art. 932, III) e da aplicação, por analogia, da Súmula n. 182/STJ.
+Não foram impugnados os fundamentos relativos à incidência das Súmulas n. 5, 7 e 83 do STJ.
+Assim, é inafastável a aplicação, por analogia, da Súmula n. 182 desta Corte.
+Diante do exposto , NÃO CONHEÇO do agravo.
+Publique-se e intimem-se.
+De início, registre-se que não é viável apreciar, em recurso especial, a tese de ofensa a dispositivos constitucionais, sob pena de usurpação de competência do STF.
+Ademais, a recorrente não demonstrou, clara e objetivamente, quais os pontos supostamente omissos, contraditórios ou obscuros da decisão agravada.
+Por esse motivo, é de rigor rejeitar a preliminar de negativa de prestação jurisdicional.
+Prossigo no exame do recurso.
+De acordo com a jurisprudência do STJ, "inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual" (AgInt no AREsp n. 1.855.586/RJ, Relator Ministro MANOEL ERHARDT - DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO -, PRIMEIRA TURMA, julgado em 9/8/2021, DJe 16/8/2021).
+Do mesmo modo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+2. Para afastar o fundamento, da decisão agravada, de incidência do óbice das Súmulas 5/STJ e 7/STJ não basta apenas deduzir alegação genérica de inaplicabilidade dos referidos óbices ou que a tese defensiva não demanda reexame de provas ou nova interpretação de cláusulas contratuais. Para tanto, o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou.Precedentes.
+3. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+4. Agravo interno não provido, com aplicação de multa.
+(AgInt no AREsp n. 1.687.931/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/8/2020, DJe 9/9/2020.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS - DECISÃO MONOCRÁTICA DA LAVRA DESTE SIGNATÁRIO QUE NÃO CONHECEU DO RECLAMO ANTE A INCIDÊNCIA DO ART. 932, INCISO III, DO CPC/2015, E A APLICAÇÃO, POR ANALOGIA, DO ENUNCIADO Nº 182 DA SÚMULA DO STJ. IRRESIGNAÇÃO DO RÉU.
+1. A ausência de impugnação específica aos fundamentos da decisão que nega seguimento ao recurso especial atrai a incidência do art. 932, III, do CPC/2015 (revogado art. 544, § 4º, I, do CPC/1973), e a aplicação, por analogia, do Enunciado nº 182 da Súmula do STJ.
+Precedentes.
+1.1. Na espécie, a insurgente não impugnou especificamente a incidência do Enunciado nº 7 da Súmula do STJ, de modo que o não conhecimento do agravo em recurso especial se mostrou adequado.
+(..)
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 632.261/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/6/2017, DJe 14/6/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA TOTALIDADE DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO INTERNO IMPROVIDO.
+1. É dever da parte agravante combater especificamente a totalidade dos fundamentos da decisão agravada, demonstrando o desacerto do decisum que negou seguimento ao recurso especial, sob pena de aplicação do art. 932, III, do Código de Processo Civil de 2015.
+2. No caso, não houve impugnação no momento oportuno, sendo insuficientes as alegações genéricas quanto à inaplicabilidade dos óbices das Súmulas 7 e 83/STJ ao presente caso.
+(..)
+6. Agravo interno improvido.
+(AgInt no AREsp n. 1.613.383/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/5/2020, DJe 8/5/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO COMBATIDA. ART. 932, III, DO CPC/2015. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. PRINCÍPIO DA DIALETICIDADE NÃO ATENDIDO. IMPUGNAÇÃO NÃO DEMONSTRADA.
+1. Em que pese o agravante ter abordado em parágrafos distintos as Súmulas 7 e 83 do STJ, a argumentação genérica não se afigura apta ao cumprimento do requisito da dialeticidade.
+(..)
+3. Em relação à incidência da Súmula 7/STJ, não trouxe o agravante alegação efetiva e voltada a afastar as conclusões da decisão combatida, não demonstrando, no cotejo entre o acórdão impugnado e a argumentação trazida no recurso especial, situação que afastasse o referido óbice processual. Precedentes: AgRg no AREsp 766.962/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 20/9/2018.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.042.970/SP, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/6/2020, DJe 24/6/2020.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (14 PORÇÕES DE COCAÍNA, PESANDO 26,30G E 1 PEDRA DA MESMA SUBSTÂNCIA COM PESO DE 1G). MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N.º 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULAS N.º 7 E 83 DO STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nas razões do agravo em recurso especial, não foram rebatidos, especificamente, os fundamentos da decisão agravada relativos à incidência das Súmulas 7 e 83 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula 7/STJ, o Agravante se limitou a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n.º 7 do Superior Tribunal de Justiça.
+(..)
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.677.886/MS, Relator Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/5/2020, DJe 3/06/2020.)
+A parte não se desincumbiu do ônus de impugnar especificamente as Súmulas n. 5 e 7 do STJ, uma vez que se limitou a afirmar genericamente que a matéria discutida seria de direito (e-STJ fls. 485/486).
+No entanto, deixou de trazer alegações efetivas e específicas para afastar as conclusões da decisão de admissibilidade, fazendo afirmações de modo abstrato, no sentido da não incidência do referido óbice processual, com assertivas que, a rigor, poderiam ser utilizadas em qualquer arrazoado.
+E ainda, a recorrente, na petição de agravo nos próprios autos, não rebateu fundamento da decisão de admissibilidade de fls. 405/407 (e-STJ) relativo à incidência da Súmula n. 83/STJ, pelo fato de que o acórdão recorrido, ao fixar o percentual de retenção dentro da margem de 10% (dez por cento) a 25% (vinte cinco por cento) dos valores pagos pelo agravado, observou os parâmetros jurisprudenciais desta Corte Superior (e-STJ fls. 478/509).
+Acrescente-se que "são insuficientes para considerar como impugnação aos fundamentos da decisão que não admite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial. IV - No caso em que foi aplicado o Enunciado n. 83 do STJ, incumbe à parte, no agravo em recurso especial, pelo menos, apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos" (AgInt no AREsp n. 1.565.569/PR, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 29/6/2020, DJe 1º/7/2020).
+A propósito, "para impugnar a decisão agravada que adota julgado desta Corte como razões de decidir cabe à parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes" (AgInt no AREsp n. 1.182.583/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/10/2018, DJe 23/10/2018).
+Na mesma linha:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - PRESCRIÇÃO - TERMO INICIAL - ENTRADA EM VIGOR DO NOVO CÓDIGO CIVIL - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA RÉ.
+1. "É inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula 182/STJ). Inteligência, outrossim, do disposto no artigo 1.021, § 1º, do NCPC.
+2. "Quando o inconformismo excepcional não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte. (Cf. AgRg nos EDcl no REsp 1494189/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/02/2016, DJe 03/03/2016)
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 816.995/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/2/2017, DJe 20/2/2017.)
+De tal ônus a parte não se desincumbiu, visto que deixou de indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão admissibilidade.
+Por esses motivos, incidem o art. 932, III, do CPC/2015 e, por analogia, a Súmula n. 182/STJ.
+Aplica-se também a jurisprudência consolidada da Corte Especial do STJ, segundo a qual, "a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp n. 746.775/PR, Relator p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018).
+Registre-se que a impugnação apenas em sede de agravo interno não é apta a suprir a deficiência verificada.
+Assim, não procedem as alegações constantes no recurso, incapazes de alterar a conclusão da decisão impugnada.
+Desprovido o recurso, não há falar em concessão de efeito suspensivo.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
