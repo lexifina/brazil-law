@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por TELEMAR NORTE LESTE S.A.- em recuperação judicial, contra decisão que inadmitiu recurso especial por aplicação dasSúmulas n. 7 do STJ e 735 do STF (e-STJ fls. 293/295).
+O Tribunal de origem negou provimento ao recurso da recorrente, em julgado que recebeu a seguinte ementa (e-STJ fls. 183/184):
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. LIMINAR. DEFERIMENTO. IRRESIGNAÇÃO DA TELEMAR S/A. JUSTIÇA GRATUITA. PRESUNÇÃO LEGAL. DESCONSTITUIÇÃO. INOCORRÊNCIA. MANUTENÇÃO. PRELIMINARES. ILEGITIMIDADE PASSIVA AD CAUSAM. TELEBRÁS. EMPRESA SUCESSORA. RESPONSABILIZAÇÃO PELAS OBRIGAÇÕES ASSUMIDAS. INTERESSE DE AGIR. ALEGAÇÃO DE AUSÊNCIA. SÚMULA Nº 389 DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO APLICAÇÃO AO CASO DOS AUTOS. REJEIÇÃO. MÉRITO. CÓDIGO DE DEFESA DO CONSUMIDOR. INVERSÃO DOS ÔNUS DA PROVA E DIREITO À INFORMAÇÃO. ADOÇÃO NA ESPÉCIE. DESPROVIMENTO.
+- O benefício da assistência judiciária não atinge apenas os pobres e miseráveis, mas, também, todo aquele cuja situação econômica não lhe permita pagar as custas e demais despesas do processo, sem prejuízo do seu sustento ou da família.
+- Patente o reconhecimento da legitimidade passiva ad causam da Telemar Norte Leste S/A, tornando-se responsável por todos os direitos e obrigações da sucedida, qual seja, a TELEBRÁS S/A.
+- A Súmula nº 389, do Superior Tribunal de Justiça, não encontra respaldo nos autos, haja vista que o enunciado se refere à exibição de documentos.
+- Ao consumidor deve ser assegurado o direito à demonstração de documentos, para conhecimento de contrato e/ou ações porventura existentes, haja vista tratar-se de documento comum entre as partes.
+- A aplicação da legislação consumerista induz, em regra, na inversão do ônus da prova e no direito à informação.
+Os embargos de declaração foram rejeitados (e-STJ fls. 218/235).
+No recurso especial (e-STJ fls. 240/256), com fundamento no art. 105, III, "a", da CF, a recorrente apontou negativa de vigência do art. 1.022, II,do CPC/2015, sustentando a nulidade do acórdão recorrido. Afirmou que a decisão recorrida se omitiu quanto à apreciação da matéria aduzida, especialmente no que respeita à Súmula n. 389 do STJ e aoentendimento jurisprudencialdesta Corte.
+Alegou violação doart. 373, I, § 2º, do CPC/2015, tendo em vista que cabeà parte recorridaprovar os fatos constitutivos do seu direito.Aduziu, ainda, a falta de interesse processual, porquanto inexistente comprovação de requerimento administrativo e pagamento da taxa de serviço, nos moldes da Súmula n. 389 do STJ.
+Por fim, ressaltou afronta aoart. 17 do CPC/2015, destacando que não foi observada a manifesta ilegitimidade da empresa de telefonia recorrente.
+Busca, em suma, o provimento ao recurso especial, a fim de que (e-STJ fl. 256):
+a) Seja declarado nulo o acórdão por ofensa ao artigo 1.022 do Código de Processo Civil, tendo em vista que o tribunal a quo se quedou em se manifestar expressamente sobre toda a matéria aduzida pela Telemar, especialmente sobre a Súmula 389 do STJ eentendimento jurisprudencial;
+b) Seja acolhida a violação ao art. 17 do CPC/15, reconhecendo a ilegitimidade passiva ad causam da ora recorrente, nos termos delineados;
+c) Seja observada a regra do ônus da prova do art. 373, I, do CPC/15, atribuindo-se à autora/recorrida o ônus de provar os fatos constitutivos do seu direito, visto que não há qualquer indício de que firmou qualquer negócio jurídico com a recorrente, aplicando, ainda, o disposto no art. 373, §2º, do CPC/2015 e
+d) Seja cassada a decisão que determinou a exibição dos contratos de participação e dos extratos de movimentações acionárias em nome da autora, sob pena de multa, nos termos do art. 17 do CPC/2015, 100, § 1º, da Lei 6.404/76, da Súmula 389 do STJ e do Recurso Especial nº. 982.133/RS, sendo irrelevante tratar-se de exibição incidental em ação de cobrança.
+Foram oferecidas contrarrazões (e-STJ fls. 271/284).
+No agravo (e-STJ fls. 298/310), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Não foi apresentada contraminuta (e-STJ fl. 314).
+É o relatório.
+Decido.
+O agravo em recurso especial não merece prosperar.
+Cuida-se, na origem, de agravo de instrumento com pedido de antecipação dos efeitos da tutela recursal.
+A jurisprudência desta Corte está sedimentada no sentido de não ser cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em virtude da natureza precária da decisão, a qual está sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. SÚMULA 735 DO STF. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Em sede de recurso especial contra acórdão que nega ou concede antecipação de tutela, o exame feito por esta Corte Superior restringe-se à análise dos dispositivos relacionados aos requisitos da tutela de urgência ficando obstado verificar-se a suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal. Precedentes.
+2. A concessão ou revogação da antecipação da tutela pela instância recorrida fundamenta-se nos requisitos da verossimilhança e do receio de dano irreparável ou de difícil reparação aferidos a partir do conjunto fático-probatório constante dos autos, sendo defeso ao Superior Tribunal de Justiça o reexame dos aludidos pressupostos, em face do óbice contido na Súmula 7 do STJ.
+3. Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, pois "é sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas à base de cognição sumária e de juízo de mera verossimilhança. Por não representarem pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, são medidas, nesse aspecto, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza precária da decisão, em regra, não possuem o condão de ensejar a violação da legislação federal." (AgRg no REsp 1159745/DF, Min. Humberto Martins, Segunda Turma, julgado em 11/05/2010, DJe 21/05/2010).
+4. Agravo interno não provido.
+(AgInt no AREsp 1.292.463/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/8/2018, DJe 28/8/2018.)
+PROCESSO CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ACÓRDÃO QUE DEFERE MEDIDA LIMINAR. RECURSO ESPECIAL. INCABÍVEL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 do CPC.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar". Precedentes.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.256.809/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/5/2018, DJe 17/5/2018.)
+Ressalte-se, ainda, que em sede de recurso especial contra acórdão que nega ou concede antecipação de tutela, a análise desta Corte Superior de Justiça fica limitada à verificaçãodos dispositivos relacionados aos requisitos da tutela de urgência, ficando obstadoo exame dasuposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal.
+Portanto, o recurso especial interposto contra acórdão que julgou a antecipação de tutela ou liminar deve limitar-se aos dispositivos relacionados aos requisitos da tutela de urgência - como, por exemplo, quando há antecipação de tutela nos casos em que a lei a proíbe ou quando, para seu deferimento, não tiverem sido observados os procedimentos exigidos pelas normas processuais -, de modo que fica obstada a análise de suposta violação de normas infraconstitucionais relacionadas ao mérito da ação principal, isso porque as instâncias ordinárias não decidiram efetivamente o tema, sendo proferido, apenas e tão somente, um juízo provisório sobre a questão.
+Aplica-se, por analogia, a Súmula n. 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar."
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do artigo 85, § 11, do CPC/2015, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória, na qual não houve prévia fixação de honorários.
+Publique-se e intimem-se.
