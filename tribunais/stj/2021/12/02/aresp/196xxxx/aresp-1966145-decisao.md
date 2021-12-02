@@ -1,0 +1,14 @@
+DECISÃO
+1. Cuida-se de agravo interposto por VALTUIR LAUREANO MARQUES contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+AGRAVO DE INSTRUMENTO EXCEÇÃO DE PRÉ EXECUTIVIDADE SENTENÇA ARBITRAL CONTRATO DE LOCAÇÃO DE IMÓVEL NULIDADE FIANÇA SEM OUTORGA UXÓRIA BOA FÉ OBJETIVA MATÉRIA ANALISADA TRÂNSITO EM JULGADO TÍTULO EXECUTIVO FORMADO DESPROVIMENTO
+Nas razões do recurso especial, aponta a parte recorrente, ofensa ao disposto nos arts.21, §2º e 32,I e VIII da Lei n.9.307/96 (Lei de Arbitragem),arts. 803, I, 819, 838 e 843, I do CPC e arts. 827, 1.647 e 1.649 do CC, alegando em síntese, ser nula a decisão arbitral, por ofensa aos princípios do contraditório e ampla defesa, que não foi notificado da prorrogação do contrato de locação, não podendo, portanto, ser responsável pelo inadimplemento, e ainda, que afiança "prestada", inexistiu a outorga uxória, requisito imprescindível para a sua validade. Sustenta, também, que a executada possui patrimônio suficiente para saldar a dívida.
+Contrarrazões ao recurso especial às fls. 174/197.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Quanto aos artigos 21, §2ºda Lei n. 9.307/96 (Lei de Arbitragem), arts. 803, I, 819, 838 e 843, I do CPC e arts. 827, 1.647 e 1.649 do CCapontados no recurso especial, verifica-se que seus conteúdos normativos não foram objeto de apreciação pelo Tribunal de origem e o recorrente não interpôs embargos de declaração objetivando suprir eventual omissão quanto a esse ponto. Portanto, ausente o prequestionamento, entendido como a necessidade de o tema objeto do recurso ter sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+4. No mais, alterar o v. acórdão, quanto à verificação da ausência de responsabilidade do fiador, demandaria, necessariamente, a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
