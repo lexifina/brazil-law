@@ -1,0 +1,19 @@
+DECISÃO
+VALERIO LORENZANO NETO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0007528-03.2021.8.26.0050, em que foi cassada a benesse do livramento condicional.
+Consoante assere a defesa, o paciente preenche os requisitos legais para o livramento condicional, "tendo em vista que resgatou o lapso de 1/2 da pena em 27/04/2018, e tem bom comportamento carcerário, sem nenhuma falta disciplinar grave anotada em seu boletim informativo" (fl. 4).
+Requer o restabelecimento da decisão do Juiz da VEC.
+Decido.
+Na hipótese, a Corte de origem, ao cassar a concessão da benesse, ressaltou que "o agravado cumpre pena em regime fechado, e seria necessária a experimentação pelo sentenciado, primeiramente, do regime prisional semiaberto para, posteriormente, fazer jus ao benefício mais amplo" (fl. 24).
+Com efeito, a preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenada a paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+3. A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+4. Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional.
+5. Por fim, a jurisprudência deste Superior Tribunal de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o(a) apenado(a) passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada (HC n. 508.784/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/8/2019, destaquei).
+Da mesma forma, " s egundo a jurisprudência deste Superior Tribunal de Justiça, não há obrigatoriedade de o sentenciado vivenciar primeiramente o regime intermediário para que obtenha o benefício do livramento condicional, em razão da inexistência de tal previsão no art. 83 do Código Penal" (HC n. 482.168/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 19/2/2019).
+Portanto, o que se percebe é que foi indeferida a benesse sem a devida fundamentação, a impor ao paciente patente constrangimento ilegal, dado o preenchimento dos requisitos legais.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem postulada restabelecer a decisão de primeiro grau, que concedeu ao paciente o benefício ao livramento condicional.
+Comunique-se, com urgência, o inteiro teor deste decisum às instâncias ordinárias.
+Publique-se e intimem-se.
