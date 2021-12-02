@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JAQUESON DELMONDES MARTINS contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sulproferido nos autos da Apelação Criminal n. 0001403-17.2018.8.12.0049.
+Consta dos autos que o Paciente foi condenado como incurso no art.33, caput, da Lei n.11.343/2006, àpenade7 (sete) anos de reclusão, em regime inicial fechado, e ao pagamento de 700 (setecentos) dias-multa(fls. 207-217). Em tese, tinha em depósito, com finalidade comercial, "28 g (vinte e oito gramas) de substância entorpecente vulgarmente conhecida como "maconha" e 07 g (sete gramas) de cocaína" (fl. 207).
+O Sentenciado interpôs recurso de apelação, que foi desprovido pela Corte local(fls. 331-347).
+Nestewrit,sustenta a Impetrante, em síntese, oemprego de fundamentação inidônea na exasperação da pena-base, no que se refere à diversidade e à natureza das substâncias entorpecentes apreendidas ("cocaína" e "maconha")-alegando se tratar de quantidade inexpressiva.
+Requer, em liminar e no mérito, seja reduzida a pena-base ao patamar mínimo legal.
+A liminar foi indeferida às fls. 357-358, pelo MinistroJOÃO OTÁVIO DE NORONHA, no exercício da Presidência desta Corte Superior.
+As informações foram prestadas (fls. 361-372).
+O Ministério Público Federal opinou pelonão conhecimento do writ, mas pela concessão da ordem, de ofício, para estabelecer a pena-base no mínimo legal (fls. 383-384).
+É o relatório.
+Decido.
+Inicialmente, cumpre salientar que o habeas corpus foi impetrado contra acórdão já transitado em julgado. Nesse contexto, não deve ser conhecido, na medida em que foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Com efeito, nos termos do art. 105, inciso I, alínea e, da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Sobre a questão, cito os seguintes julgados das Turmas que compõem a Terceira Seção desta Corte:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ARTS. 217-A, CAPUT, NA FORMA DO ART. 71, E 343, NA FORMA DO ART. 70, TODOS DO CÓDIGO PENAL. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. ALTERAÇÃO DO POSICIONAMENTO FIRMADO PELAS INSTÂNCIAS ORDINÁRIAS. NECESSIDADE DE INCURSÃO NOS ELEMENTOS DE FATO E DE PROVA DOS AUTOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito de desclassificação da conduta praticada, depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual.
+2. A alteração do entendimento firmado demandaria a incursão nos elementos de fato e de prova dos autos, providência vedada em habeas corpus.
+3. Agravo Regimental não provido." (AgRg no HC 573.735/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/04/2021, DJe 30/04/2021; sem grifo no original.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE NÃO CONHECEU DO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. INADMISSÍVEL. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III - Sustenta-se, in casu, a ilegalidade da dosimetria das penas dos crimes de lavagem de capitais pelos quais o recorrente foi condenado na Ação Penal n. 5026212-82.2014.4.04.7000/PR.
+IV - A Ação Penal n. 5026212-82.2014.4.04.7000/PR transitou em julgado em 4/12/2019, após a tese de ilegalidade da dosimetria das penas haver sido arguida em recurso especial interposto nesta Corte e em recurso extraordinário interposto no Supremo Tribunal Federal.
+V - Não se admite o conhecimento do presente habeas corpus, porquanto impetrado com a única finalidade de substituir o recurso de revisão criminal, cujo processo e julgamento compete exclusivamente ao Tribunal Regional Federal da 4ª Região, por expressa previsão do art. 108, inciso I, alínea "b", da Constituição Federal, especialmente porque, na espécie, não se vislumbra nenhuma ilegalidade flagrante. Agravo regimental desprovido." (AgRg no HC 610.106/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021; sem grifo no original.)
+Contudo, na espécie, há flagrante ilegalidade, a ensejar a concessão de habeas corpus de ofício.
+É certo que o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime, além das próprias elementares comuns ao tipo. Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o magistrado declinar, motivadamente, as suas razões, pois a inobservância dessa regra implica ofensa ao preceito contido no art. 93, inciso IX, da Constituição da República.
+No caso, o Magistrado singular, ao realizar a dosimetriada pena imposta ao Paciente, assim consignou,in verbis(fls. 213-215, grifos diversos dos originais):
+" ..
+PRIMEIRA FASE CIRCUNSTÂNCIAS JUDICIAIS :
+Nos termos do artigo 42 da Lei nº 11.343/2006, a natureza da droga apreendida (cocaína) deve ser valorada negativamente, pois trata-se de substância com alto poder destrutivo e com intensa aptidão para causar dependência.
+A respeito do artigo 59 do Código Penal, a culpabilidade é normal para a espécie; o réu não é portador de maus antecedentes; não há elementos para aferir sua conduta social nem tampouco sua personalidade; os motivos e as circunstâncias do crime são normais para a espécie. As consequências são próprias do delito. Não há que se falar em comportamento da vítima. Assim, diante de tais elementos, fixo a pena-base em 06 (seis) anos de reclusão e ao pagamento de 600 (seiscentos) dias-multa."
+O Tribunal local, no julgamento do recurso de apelação, assim decidiu (fls. 343-344, sem grifos no original):
+" ..
+Como se observa, a reprimenda basilar foi exasperada mediante a consideração da natureza das drogas.
+Quanto à circunstância constante do art. 42 da Lei de Drogas, de fato, a natureza da droga apreendida é das mais perniciosas (cocaína). Ademais, há de ser considerada, ainda, a diversidade de entorpecentes - maconha e cocaína - fator que inviabiliza a redução almejada pelo recurso defensivo, devendo ser mantida a prejudicial.
+Desse modo, a pena-base foi bem valorada e deve ser mantida em 06 anos de reclusão."
+Como se vê, as instâncias ordinárias fixaram a pena-base relativa ao crime de tráfico 1/5(um quinto) acima do mínimo legal, diante da diversidade dos entorpecentes apreendidos e da natureza de uma das substâncias ("cocaína").
+Não obstante a diversidade de drogas ("maconha" e "cocaína"), bem como a natureza nociva da substância "cocaína", a quantidade total apreendida - "28 g (vinte e oito gramas) de substância entorpecente vulgarmente conhecida como "maconha" e 07 g (sete gramas) de cocaína"" (fl. 207) - não pode ser considerada por demais relevante a ponto de justificar a exasperação da pena-base, pois não demonstra, por si só, maior reprovabilidade da conduta delituosa prevista no art. 33, caput, da Lei n. 11.343/2006.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ABSOLVIÇÃO DO CRIME DE ASSOCIAÇÃO MANTIDA. AUSÊNCIA DE DEMONSTRAÇÃO CONCRETA DA ESTABILIDADE E DA PERMANÊNCIA. TRÁFICO DE DROGAS. DOSIMETRIA. QUANTIDADE E VARIEDADE DE ENTORPECENTES QUE NÃO JUSTIFICAM O AUMENTO DA PENA-BASE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+3. No caso em apreço, 72,6g (setenta e dois gramas e seis decigramas) de cocaína e 4,2g (quatro gramas e dois decigramas) de crack não justificam o aumento da pena-base do crime de tráfico.
+4. Agravo regimental desprovido." (AgRg no HC 595.797/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/02/2021, DJe 02/03/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. MAJORAÇÃO DA PENA-BASE. ART. 42 DA LEI DE DROGAS. QUANTIDADE NÃO EXACERBADA. ILEGALIDADE EVIDENCIADA. AFASTAMENTO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4.º, DA LEI N.º 11.343/2006. FUNDAMENTAÇÃO INIDÔNEA. POSSIBILIDADE DE INCIDÊNCIA DA MINORANTE NA FRAÇÃO DE 3/5 (TRÊS QUINTOS). REGIME INICIAL ABERTO. CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, a quantidade e natureza da droga apreendida - 17,5 gramas de cocaína; 1 (uma) porção de maconha, pesando 33 gramas; e outras 13 (treze) porções de maconha, com o peso total de 26,7 gramas - não demonstram, por si só, maior reprovabilidade da conduta delituosa prevista no tipo penal, a justificar a exasperação da pena-base.
+ ..
+4. Agravo regimental desprovido." (AgRg no HC 517525/SP, Rel. Min. LAURITA VAZ, SEXTA TURMA, julgado em 05/05/2020, DJe 21/05/2020; sem grifos no original.)
+Procedo, portanto, ao redimensionamento das penas do Paciente relativas ao delito de tráfico de drogas.
+1.ª FASE: fixo a pena-base no patamar mínimo legal, em5 (cinco) anos de reclusão,e pagamento de 500 (quinhentos) dias-multa, no valor unitário mínimo legal.
+2.ª FASE:em razão da reincidência, mantenho a fração de aumento adotada pelas instâncias ordinárias em 1/6 (um sexto), fixando a pena intermediária no patamar de5 (cinco) anos e 10 (dez) meses de reclusão, e pagamento de 583 (quinhentos e oitenta e três) dias-multa, fixados no valor unitário mínimo legal.
+3.ª ETAPA:ausentes causas de aumento e diminuição da pena, tornoa pena definitiva em5 (cinco) anos e 10 (dez) meses de reclusão, e pagamento de 583 (quinhentos e oitenta e três) dias-multa, fixados no valor unitário mínimo legal.
+Em razão da reincidência,mantenho o regime inicial fechado para cumprimento da reprimenda, conforme o art. 33, §§ 2.º e 3.º, do Código Penal.
+Ante o exposto, NÃO CONHEÇO do habeas corpus. CONCEDO a ordem, DE OFÍCIO, a fim de redimensionar as penas do Paciente para5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e pagamento de 583 (quinhentos e oitenta e três) dias-multa, fixados no valor unitário mínimo legal.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL E PENAL. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL.FLAGRANTE ILEGALIDADE, NO CASO. DOSIMETRIA. TRÁFICO DE DROGAS. PENA-BASE.QUANTIDADE NÃO EXACERBADA DE SUBSTÂNCIAS ENTORPECENTES.FUNDAMENTAÇÃO INIDÔNEA. PENAS REDIMENSIONADAS. ORDEM CONCEDIDA DE OFÍCIO.
