@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interposto por JOÃO ELIDIO MOREIRA e OUTRO contra decisão de minha lavra, assim concebida (fls. 137/139):
+Trata-se de agravo interposto por JORGE CARLOS PEREIRA e OUTRO de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 57):
+AGRAVO DEI NSTRUMENTO - Cumprimento de sentença - Não acolhimento da impugnação - Justiça gratuita concedida a apenas dois dos dez autores, condenados previamente ao pagamento de custas proporcionais - Sentença e V. Acórdão silentes quando ao rateio proporcional dos honorários sucumbenciais - Observância do disposto no art. 87, §§ 1º e 2º do CPC - Obrigação solidária - R. decisão mantida.
+Recurso desprovido
+Sustenta a parte agravante, no recurso inadmitido, negativa de vigência ao art. 98, § 3º, do CPC (fl. 64):
+ ..  pela teratológica interpretação da processual que deu o acórdão recorrido ao processo em epígrafe, pois, apesar de reconhecer que a existência de "Justiça gratuita concedida a apenas dois dos dez autores, condenados previamente ao pagamento de custas proporcionais" (fls. 57), entendeu que o "art. 87, §2º, do CPC dispõe no sentido de haver solidariedade da condenação dos vencidos no ônus da sucumbência, caso não tenha havido, na respectiva decisão, a individualização da proporcionalidade em que cada um dos vencidos deveria responder ao advogado do vencedor" (fls. 58).
+Nesse sentido, argumenta que (fl. 70):
+Não há razão no acórdão recorrido quando afirma que o art. 87, § 2º, do CPC tem aplicabilidade no presente caso, porque o feito foi distribuído por dez autores na qualidade de litisconsortes facultativos e o artigo 117, do Código de Processo Civil, dispõe que eles serão considerados, em relação à parte adversa, como litigantes distintos:
+Art. 117. Os litisconsortes serão considerados, em suas relações com a parte adversa, como litigantes distintos, exceto no litisconsórcio unitário, caso em que os atos e as omissões de um não prejudicarão os outros, mas os poderão beneficiar.
+ ..
+Trata-se de evidente caso de litisconsórcio facultativo simples, pois, é necessário dimensionar situações individuais de cada um dos autores, tais como a relação de pertencimento à entidade associativa que impetrou o mandado de segurança coletivo, e, se tivessem obtido êxito na demanda, na fase de liquidação, a apuração da situação funcional individual para identificar a quantidade de quinquênios e as verbas eventuais que perceberam no período que era cobrado na demanda.
+O artigo 87, do CPC, prevê que "Concorrendo diversos autores ou diversos réus, os vencidos respondem proporcionalmente pelas despesas e pelos honorários". Por sua vez, o artigo 99, §6º do Código de Processo Civil determina que "O direito à gratuidade da justiça é pessoal, não se estendendo a litisconsorte ou a sucessor do beneficiário, salvo requerimento e deferimento expressos".
+Retoma-se à decisão de fls. 106/108, supracitada, em que o benefício da gratuidade foi concedido aos autores, exceto aos ora recorrentes, JORGE CARLOS PEREIRA DOS SANTOS e JOÃO EGIDIO MOREIRA, justamente porque a pessoalidade da gratuidade não lhes é estendível, razão pela qual ficaram obrigados a recolher proporcionalmente as despesas processuais.
+O §2º , do artigo 98, do CPC, dispõe que a responsabilidade da sucumbência continua sendo do beneficiário da gratuidade processual:
+ ..
+Vê-se que, novamente, é reafirmada a pessoalidade do benefício, pois, se ele não pode ser estendido a outros litigantes, tampouco pode o credor pretender a satisfação de honorários sucumbenciais se não demonstrar que o devedor beneficiário de gratuidade processual teve alterada a sua realidade econômica.
+Daí que a aplicação do artigo 87, §2º, do CPC, invocado na r. decisão recorrida para justificar a obrigação solidária dos ora recorrentes em pagar as quotas partes dos litisconsortes beneficiários da gratuidade da justiça não se aplica no caso de litisconsórcio facultativo simples, e, com isso, o acórdão recorrido nega vigência ao art. 98, §3º , todos do CPC.
+Nas razões do agravo, aduz que os pressupostos de admissibilidade do recurso especial encontram-se presentes, repisando seus argumentos.
+Contraminuta às fls. 109/113.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Presentes os pressupostos de admissibilidade do agravo, examino o próprio recurso especial.
+No caso concreto, entendeu o Tribunal de origem de que ante a ausência de distribuição proporcional dos honorários advocatícios entre os vencidos na ação de conhecimento - dentre os quais os ora recorrentes, não detentores da gratuidade de justiça concedida aos demais litisconsortes ativos facultativos -, a hipótese é de solidariedade entre eles, na forma do art. 87, § 2º, do CPC, in verbis:
+Art. 87. Concorrendo diversos autores ou diversos réus, os vencidos respondem proporcionalmente pelas despesas e pelos honorários.
+§ 1º A sentença deverá distribuir entre os litisconsortes, de forma expressa, a responsabilidade proporcional pelo pagamento das verbas previstas no caput .
+§ 2 o Se a distribuição de que trata o § 1º não for feita, os vencidos responderão solidariamente pelas despesas e pelos honorários.
+(Grifos nossos)
+De se ver, portanto, que a regra contida no art. 98, § 3º, do CPC - que estabelece a suspensão das obrigações decorrentes da sucumbência em relação ao benefício da gratuidade de justiça - não possui comando normativo capaz de solucionar a controvérsia, haja vista que os ora recorrentes não foram beneficiados pela aludida gratuidade de justiça.
+Calha ressaltar, ademais, que o Tribunal de origem não emitiu nenhum juízo de valor acerca do art. 98, § 3º, do CPC, o que caracteriza ausência de prequestionamento.
+Destarte, incidem na espécie as Súmulas 282 e 284/STF.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial.
+Sustenta a parte agravante a inaplicabilidade da Súmula 284/STF.
+Nesse sentido, argumenta que (fl. 144):
+ ..  em nenhum momento a fundamentação foi deficiente de forma a não permitir a exata compreensão da controvérsia. Pelo contrário, de forma minuciosa, os agravantes evidenciaram as razões pelas quais o Tribunal a quo violou flagrantemente os dispositivos do CPC/15, não só alegando que a lei federal foi violada, mas demonstrando cabalmente o motivo pelo qual o tribunal a quo a infringiu, deixando claro do que se tratava a questão dos autos. Assim, pugna pelo afastamento da Súmula nº 284/STF, tendo em vista que os fundamentos arguidos foram suficientes para entender a questão. Nesse sentido, confira-se julgado do Superior Tribunal de Justiça (STJ):
+ ..
+Da mesma forma, aduz que a matéria se encontraprequestionada, nos seguintes termos (fls. 151/152):
+10. No que concerne a suposta ausência de prequestionamento sobre o artigo 98, §3º, do CPC/2015, o que acarretou por Vossa Excelência a aplicação da Súmula 282 do STF, também não há fundamentos jurídicos que legitimem a resposta jurisdicional aplicada no julgamento do recurso especial dos agravantes.11. Isso porque, o prequestionamento do art. 98, §3º, do CPC/2015está implícito, segundo precedentes deste Egrégio Superior Tribunal de Justiça. No julgamento do AgRg no REsp n.º 1.417.199/RS, inclusive, restou assentado que "Nos termos da jurisprudência deste STJ, "não (se) exige o chamado prequestionamento numérico para o conhecimento da questão federal, ou seja, aquele em que necessariamente o acórdão recorrido deve registrar o artigo de lei federal que a parte quer debater. Basta que o Tribunal de origem julgue a matéria federal, explicitamente, ainda que não indique o artigo de lei, que é facilmente identificável"(STJ, AgRg no AgRg no Ag 416.406/MA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/04/2008)." (DJe15/09/2015, grifado e destacado).
+12. Da mesma forma, a Colenda Segunda Turma, ao julgar o REsp n.º 1.639.788/CE (Rel. Min. FRANCISCO FALCÃO, DJe 19/12/2016), expressamente admitiu o "prequestionamento ficto  ..  em conformidade com o art. 1.025 do CPC/2015". E, na espécie, o acórdão recorrido foi prolatado já na vigência do "art. 1.025 do CPC/2015" (em "04de junho de 2020", cfr. fls. 56e-STJ), razão pela qual o precedente supracitado deve ser aplicado ao caso em tela.
+13. Assim, encontrando-se as partes destes autos na mesma situação processual -qual seja a incidência do art. 1.025 do CPC - em relação ao prequestionamento ficto, reconhecido por este Egrégio Superior Tribunal de Justiça. Desta forma, não existindo qualquer circunstância de caráter exclusivamente pessoal que justifique diferenciação, não puderam os agravantes compreender, a teor do princípio da isonomia (art. 5. º, caput, da CF), ser incabível na espécie o exame do mérito do recurso especial, sob o fundamento de que supostamente estaria presente a ausência de prequestionamento o artigo 98, §3º, do CPC/2015.
+14. Portanto, dado ao fato a existência do prequestionamento ficto é de rigor a reconsideração da decisão agrava em relação a aplicação do artigo 282 do STF.
+Quanto ao mérito, repisaos argumentosexpendidos no apelo nobre.
+Por fim, requer a reconsideração ou a reforma da decisão agravada.
+Sem impugnação (fls. 158/159).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+1. Naforma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto"(AgInt no REsp 1.890.753/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 6/5/2021).
+2. Caso concreto em queCorte de origem não emitiu nenhum juízo de valor a respeito do art. 98, § 3º, do CPC, nem sequer tendo sido instadaa fazê-lo por meio de embargos de declaração, o que caracteriza ausência de prequestionamento, nos termos da Súmula 282/STF.
+3. A indicação de ofensa a dispositivo legal cujo comando se encontradissociadoda questão examinada no acórdão recorrido caracteriza deficiência de fundamentação recursal, nos termos da Súmula 284/STF.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator):O presente agravo interno não merece prosperar.
+Cuida-se, na origem, de cumprimento de sentença promovido pela FAZENDA DO ESTADO DE SÃO PAULO eSÃO PAULO PREVIDÊNCIA, objetivando a satisfação dos honorários advocatícios de sucumbência fixadosna ação de conhecimento.
+Por entenderem existir excesso de execução, os agravantes apresentaram impugnação, a qual restou rejeitada pelo Juízo de 1º Grau.
+Contra esse decisum foi interposto agravo de instrumento, o qual restou desprovido pelo Tribunal de origem sob o fundamento de que (fl. 58):
+A r. sentença de mérito, proferida em Primeiro Grau e o V. Acórdão prolatado por esta C. 9ª Câmara de Direito Público, contudo, foram silentes a esse respeito, especialmente no que tange à condenação ao pagamento dos honorários sucumbenciais, conforme se depreende das cópias acostadas a fls. 20/37 dos autos digitais principais.
+Assim, em que pesem as alegações dos agravantes em favor da observância da proporcionalidade, fato é que o art. 87, § 2º, do CPC dispõe no sentido de haver solidariedade da condenação dos vencidos no ônus da sucumbência, caso não tenha havido, na respectiva decisão, a individualização da proporcionalidade em que cada um dos vencidos deveria responder ao advogado do vencedor (CPC/15, art. 87,§ 1º).
+Frise-se que na sistemática antiga do CPC de 1973, caso não houvesse essa individualização haveria a distribuição proporcional do ônus de sucumbência para todos os vencidos. Mas esse sistema foi alterado com o advento do novo diploma processual, daí porque não se pode acolher o pleito dos agravantes.
+Não se trata, portanto, de inovar o decidido, tampouco determinar o cumprimento de medida à revelia da legislação processual civil. O caso demanda, apenas e tão-somente, aplicação da letra da lei à luz do quanto plasmado nas decisões proferidas pelo Poder Judiciário no decorrer da demanda.
+Pois bem.
+Para a abertura da via especial, requer-se o prequestionamento, ainda que implícito, da matéria infraconstitucional. A exigência tem como desiderato principal impedir a condução a este Superior Tribunal de questões federais não debatidas no Tribunal de origem, a teor das Súmulas 282/STF e 211/STJ.
+Calha ressaltar que, na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto"(AgInt no REsp 1.890.753/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 6/5/2021).
+Assim, considerando-se quea Corte de origem não emitiu nenhum juízo de valor a respeito do art. 98, § 3º, do CPC, nem sequer tendo sido instadaa fazê-lo por meio de embargos de declaração, resta caracterizada a ausência de prequestionamento, nos termos da Súmula 282/STF.
+Sobreleva notar, ademais, que a controvérsia apreciada no acórdão recorrido refere-se à interpretação/aplicação da regra contida no art. 87, § 2º, do CPC, inlitteris:
+Art. 87. Concorrendo diversos autores ou diversos réus, os vencidos respondem proporcionalmente pelas despesas e pelos honorários.
+ ..
+§ 2Se a distribuição de que trata o § 1º não for feita, os vencidos responderão solidariamente pelas despesas e pelos honorários.
+Conclui-se, desse modo, que o dispositivo tido por violado se encontradissociado da questão examinada no acórdão recorrido, não possuindo, via de consequência, comando normativo capaz de sustentar a tese recursal em que se pretende a modificação do julgado. Assim, também incide na espécie a Súmula 284/STF.
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
