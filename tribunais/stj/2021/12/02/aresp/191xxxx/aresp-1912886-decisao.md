@@ -1,0 +1,17 @@
+DECISÃO
+1. Cuida-se de agravo interposto por RODNEY FAZZANO POUSA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim ementado:
+AGRAVO DE INSTRUMENTO DECISÃO QUE HOMOLOGOU LAUDO PERICIAL NÃO VERIFICAÇÃO DE QUALQUER UMA DAS HIPÓTESES QUE JUSTIFICAM A REALIZAÇÃO DE NOVA AVALIAÇÃO NOS TERMOS DO ART 480 DO CPC PERITO QUE ADOTOU CRITÉRIOS TÉCNICOS CLAROS EM SEUS CÁLCULOS SEM QUE O AGRAVANTE INFIRMASSE A SUA CORREÇÃO RECURSO IMPROVIDO
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, ofensa ao disposto nos arts.1.022 e 489, §1º, IV,872, I, 477, §2º, I e 805, todos do CPC, alegando em síntese, omissão no acórdão recorrido, quea avaliação do imóvel utilizou tão somente o critério de comparação de preço das unidades, mas sem qualquer identificativo mais circunstanciado ou detalhado de imóvel e da efetiva fonte de valores do mercado imobiliário, alega, ainda, cerceamento de defesa, uma vez que o recorrente pugnou por esclarecimentos ao perito que avaliou o imóvel, mas o laudo foi homologado antes que esse oferecesse os devidos esclarecimentos. Por fim, sustenta que a execução deve se dar da forma menos gravosa ao executado, o que não foi respeitado nos autos.
+Contrarrazões ao recurso especial às fls. 216/220.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação dos artigos 1.022e 489, §1º , IV do CPC. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+4. O acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor.
+A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, qual seja: que o recorrente não comprovou fato constitutivo do seu direito que justificasse a realização de nova perícia, impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+5. No mais, alterar o v. acórdão, quanto à verificação do resultado da laudo homologado, demandaria, necessariamente, a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+6. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
