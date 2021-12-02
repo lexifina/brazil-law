@@ -1,0 +1,63 @@
+DECISÃO: Trata-se de agravo interno interposto contra decisão da Presidência desta Corte que negou seguimento a recurso extraordinário com agravo.
+
+    À luz dos argumentos expostos, RECONSIDERO a decisão agravada, tornando-a sem efeito, JULGO PREJUDICADO o agravo interno e passo ao reexame do recurso extraordinário com agravo.
+
+    Trata-se de agravo objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado com arrimo na alíneas “a”, “c” e “d” do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    “APELAÇÃO CÍVEL - Interposição contra sentença que julgou improcedente ação ordinária. Honorários de perito bem fixados. Sentença suficientemente motivada. Possibilidade de ratificação de seus próprios fundamentos mediante aplicação do disposto no artigo 252 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo. Sentença mantida. Apelação não provida.”
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação dos artigos 1º, inciso III; 5º, incisos II, XXII, XXXV, XXXVI e LV; 22, inciso IV; 93, inciso IX, e 170, inciso II, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, no que tange à alegação de violação do artigo 93, IX, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+
+    Todavia, o artigo 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver se dado exclusivamente com base na sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (artigo 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1.109.295-ED-ED, Plenário, Rel. Min. Cármen Lúcia - Presidente, DJe de 25/9/2018)
+
+    Assim, não conheço do recurso quanto ao capítulo acima referenciado.
+
+    Outrossim, nos autos do ARE 748.371, Relator o Ministro Gilmar Mendes (Tema 660), o Plenário da Corte ratificou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1.143.354-AgR, Plenário, Rel. Min. Dias Toffoli - Presidente, DJe de 1º/2/2019)
+
+    Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    “(...) a respeito dos temas abordados no presente recurso (alegadas irregularidades na construção do imóvel da apelada), note-se que a sentença não se esquivou do devido pronunciamento: (...) A presente ação é improcedente. Com efeito, bem demonstra o laudo pericial a inexistência de construção elaborada pela ré de forma a colocar seu telhado deitando água sobre o do autor. O laudo pericial confirma que toda a fronteira do imóvel é fechada por calhas colocadas pela ré para impedir que a água entre o vão das paredes fronteiriças (fls. 125). O Sr. Perito colocou que tal procedimento é correto (fls. 126). Com isso, nega o perito que o imóvel da ré não deita água sobre o imóvel do autor. Observe-se que a ré efetuou construção sobre o muro do autor somente na parte da garagem. Ora, tal procedimento é permitido pela lei, podendo o vizinho apoiar-se no muro do outro. Note-se, contudo, que a ré não permitiu que tal telhado da garagem não vertesse água para seu lado, utilizando-se de calha que a desvia para o seu lado. O perito, ainda, coloca que o relógio do autor está deteriorado, mas não em decorrência das obras efetivadas pela ré (fls. 130). Por fim, não se constatou qualquer dano ao imóvel do autor (fls. 131). Vê-se, ainda, que o muro do autor está a descoberto (fls. 135/139), enquanto que a ré realizou a devida colocação de calhas e rufos para impedir a sua infiltração. Se danos há, deram-se por conta da falta de conclusão adequada da obra por parte do próprio autor. O fato do muro estar sendo utilizado como elemento de sustentação de um lado da calha não é ilegal. Seria vedada a colocação de elementos construtivos sobre o muro. A colocação de calhas e rufos, contudo, impõe-se para a própria proteção lateral da construção do autor. Ainda que não respeitada a distância mínima de 18cm do Código das Águas, o Sr. Perito considerou como adequados os elementos preservadores colocados para evitar a infiltração da água do telhado da ré na casa do autor, não havendo motivos técnicos para se justificar a discrepância com o laudo do assistente técnico do autor. Assim, a pretensão inicial não comporta acolhida. Pelo exposto, JULGO IMPROCEDENTE a presente ação, movida por WANDERLEY ALVES DE OLIVEIRA contra MARIA EZIA DE ALVARENGA, para condenar o autor no pagamento das custas, despesas e honorários advocatícios, que fixo em 10% do valor atribuído à causa em sede de inicial (...) (fls. 243/245).
+
+    A vasta explanação do juízo acerca dos pontos abordados pelas partes permite concluir ser possível a manutenção da sentença pelos seus próprios fundamentos.
+
+    Deve-se ressaltar que todos os quesitos restaram devidamente respondidos pelo perito às fls. 120/132, que concluiu que não houve construção de muro ou parede ao longo de toda divisa com o muro do apelante. Afirmou, também, que o imóvel da apelada não deita água sobre o imóvel do apelante. Não prospera o argumento de ausência de elucidação por parte do perito, conforme quer crer o apelante de maneira protelatória. O laudo é rico em detalhes e fotos, apresentando claramente que não houve qualquer interferência no imóvel do autor, por parte da ré.
+
+    Às fls. 125/126, o perito judicial elaborou desenho demonstrativo do afastamento entre os muros e da proteção por rufo efetuada pela ré. Às fls. 52/61, há croqui e fotos do estado do muro da casa do autor, antes da edificação por parte da ré. Tal constatação é corroborada pelo laudo pericial (fls. 133/159), a confirmar ser de responsabilidade do apelante o mau estado de conservação de seu imóvel.
+
+    Por fim, deixou claro, ainda, que se há irregularidade, esta se refere à antena de televisão fixada pelo apelante, que invade o imóvel da apelada, conforme se verifica pela foto juntada às fls. 150/152.
+
+    Importante a conclusão pericial (fls. 127), que merece registro: A requerida não construiu muro ou parede ao longo de toda a divisa com o autor, aproveitando o construído pelo autor, construiu apenas na região onde está edificada sua garagem, para apoiar o telhado. A calha está fixada no madeiramento do telhado da requerida, e a aba faz a função de rufo, esta fixada no muro do autor. O imóvel da requerida não deita água sobre o imóvel do autor. O autor fixou antena de televisão que invade o imóvel da requerida.”
+
+    Nesse contexto, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. ALVARÁS INVÁLIDOS. OBRAS REALIZADAS. OBRIGAÇÃO DE DEMOLIR. CONVERSÃO EM PERDAS E DANOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. 1. O recurso extraordinário não se presta à análise de matéria infraconstitucional, tampouco ao reexame dos fatos e das provas constantes dos autos (Súmula 279 do STF). 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1.332.366-AgR, Plenário, Rel. Min. Luiz Fux - Presidente, DJe de 13/10/2021)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. HONORÁRIOS PERICIAIS. PRETENDIDA REDUÇÃO. ALEGADA VIOLAÇÃO AO ARTIGO 37, XI, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos, bem como para a análise de matéria infraconstitucional. Precedentes: ARE 844.039-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 24/08/2015; ARE 1.271.280-AgR, Tribunal Pleno, DJe de 25/09/2020; e ARE 1.238.534-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 15/09/2020. 2. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE 1.297.032-AgR, Plenário, Rel. Min. Luiz Fux - Presidente, DJe de 12/3/2021)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. DEMOLIÇÃO DE IMÓVEL EM SITUAÇÃO IRREGULAR. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. INEXISTÊNCIA DE AFRONTA À RESERVA DE PLENÁRIO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1.323.631-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 7/10/2021)
+
+    Ex positis, RECONSIDERO a decisão agravada, julgo PREJUDICADO o agravo interno e nego seguimento ao recurso extraordinário com agravo (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 2 de dezembro de 2021.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
