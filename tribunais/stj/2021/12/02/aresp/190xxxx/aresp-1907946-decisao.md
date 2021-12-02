@@ -1,0 +1,33 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ADEMIR JOAO CASSOL, ALVARINDO BEGO, AMELIA PALUDO, AMERICO SGARBI, ANTONIO PIZZOLOTTO, AUGUSTO CESAR PIOVESAN, CENIRA ANTÔNIA MARCDELINO, CLOVIS OLIMPIO BONALDO, HERMES BARAZETTI, HILDA MUNNAVEK SCHOENELL, JOAO LEONARDO LENZ, JOSE ADEMAR CAPELETTI, LAURI ALBERTO STRIEDER, LEONIR BAIOCCO, LOURIVAL DIAS MENDES, LOYDE DE SOUZA FERREIRA, MARCOS ELISEU HEUERT, MARGARETE VILETTI, NEIVA VENDRUSCOLO, NELVO DAVID BACH, NEUSA DIGMAYER NORONHA, ROBERTO DEQUECH, RUDIMAR MAFACIOLI, VALERIO REBECHI, VANDA MONTAGNER PIOVESAN contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+AGRAVO DE INSTRUMENTO  AÇÃO DE ADIMPLEMENTO CONTRATUAL EM FASE DE CUMPRIMENTO DE SENTENÇA  DECISÃO OBJURGADA QUE REJEITOU A TESE DE PRESCRIÇÃO  INSURGÊNCIA DA REQUERIDA  PREJUDICIAL NÃO ANALISADA EM RAZÃO DA AUSÊNCIA DE DOCUMENTOS HÁBEIS NA FASE DE CONHECIMENTO  RADIOGRAFIAS DE POSIÇÃO ACIONÁRIA JUNTADAS APENAS EM CUMPRIMENTO DE SENTENÇA  DOCUMENTO IDÔNEO E CAPAZ DE DEMONSTRAR A RELAÇÃO JURÍDICA ENTRE AS PARTES  PRAZO PRESCRICIONAL VINTENÁRIO  TERMO INICIAL  DATA DA SUBSCRIÇÃO DEFICITÁRIA DAS AÇÕES E NÃO A PARTIR DO TRÂNSITO EM JULGADO DA DECISÃO QUE RECONHECE O DIREITO À COMPLEMENTAÇÃO  OCORRÊNCIA DA PRESCRIÇÃO EM RELAÇÃO À MAIORIA DOS AUTORES  MATÉRIA DE ORDEM PÚBLICA  EXTINÇÃO PARCIAL DO PROCESSO, COM RESOLUÇÃO DO MÉRITO  PEDIDO DE AFASTAMENTO DA MULTA PREVISTA NO ART. 1026, § 2º, DO CPC  ACOLHIMENTO  ACLARATÓRIOS QUE NÃO TIVERAM CARÁTER PROTELATÓRIO  CONDENAÇÃO DA AGRAVANTE, CONTUDO, EM LITIGÂNCIA DE MÁ-FÉ E ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA  RECURSO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente,ofensa ao disposto nos arts. 505, 506, 507,508 e 1.022 do CPC, alegando em síntese, negativa de prestação jurisdicionale ainda que a tese da prescrição estaria preclusa.
+Contrarrazões ao recurso especial às fls. 819/833.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil de 2.015. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+4.No tocante à aludida violação dos arts.505, 506, 507, 508 do CPC, tem-se que a Corte a quo concluiu quea matéria referente à prescrição não foi efetivamente apreciada na fase de conhecimento e por isso não estaria preclusa. nos seguintes termos:
+Realmente, em que pese se trate de matéria de ordem pública, a análise da questão referente a prescrição está sujeita a preclusão, não podendo ser arguida "ad eternum", sob pena de afronta a coisa julgada e a segurança jurídica.Contudo, no caso em análise, e conforme constou na decisão embargada, a matéria referente à prescrição não foi efetivamente apreciada na fase de conhecimento, ante a ausência de documentos para tal intuito. Assim, a análise acerca da prescrição não estaria albergada pela preclusão, tendo em vista a impossibilidade de sua devida e aprofundada averiguação. (fls. 733/734)
+Nesse contexto, verifica-se que o entendimento esposado no v. acórdão recorrido está emconsonância com a pacífica jurisprudência do Superior Tribunal de Justiçaassente no sentido de que as questões de ordem públicanão estão sujeitas à preclusão e podem ser apreciadas a qualquer tempo, inclusive de ofício, desde que não tenham sido decididas anteriormente.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO REVISIONAL. CONTRATO BANCÁRIO. HSBC. BAMERINDUS. LEGITIMIDADE PASSIVA. PRECLUSÃO NÃO VERIFICADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. As questões de ordem pública, a exemplo da legitimidade de parte para figurar no polo passivo da demanda, não estão sujeitas à preclusão e podem ser apreciadas a qualquer tempo, inclusive de ofício, desde que não tenham sido decididas anteriormente.
+3. Hipótese em que a análise da questão relativa à legitimidade do HSBC para figurar no polo passivo da demanda foi realizada no julgamento de agravo de instrumento anteriormente interposto pela parte autora, tendo como agravado somente o Banco Bamerindus do Brasil S.A., não se podendo falar, portanto, em preclusão da matéria.
+4. Agravo interno não provido.
+(AgInt no REsp 1733365/TO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/11/2020, DJe 01/12/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE RECONHECIMENTO DE DÉBITO CUMULADA COM COBRANÇA.
+ILEGITIMIDADE PASSIVA. ALEGAÇÃO. MATÉRIA DE ORDEM PÚBLICA. DECISÃO ANTERIOR. LEGITIMIDADE CONFIGURADA. PRECLUSÃO PRO JUDICATO. SÚMULA Nº 568/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. As matérias de ordem pública estão sujeitas à preclusão pro judicato, de modo que não podem ser novamente analisadas se já tiverem sido objeto de anterior manifestação jurisdicional.
+Precedentes.
+3. Na hipótese, inafastável a aplicação da Súmula nº 568/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1435606/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/09/2019, DJe 04/10/2019)
+Dessa forma, incide, in casu, o óbice processual sedimentado no verbete da Súmula 83 deste Pretório.
+Assim, ante da ausência de qualquer subsídio capaz de alterar os fundamentos do acórdão recorrido, subsiste incólume o entendimento nele firmado, não merecendo prosperar, portanto, o presente apelo nobre.
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
