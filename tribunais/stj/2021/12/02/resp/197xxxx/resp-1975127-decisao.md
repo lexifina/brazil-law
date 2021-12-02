@@ -1,0 +1,14 @@
+DECISÃO
+1. Cuida-se de agravo interposto por COMPANHIA DE IMOVEIS,INTERMEDIACAO E ADMINISTRACAO DE IMOVEIS E CONDOMINIOS S/S LTDAem face da decisão que negou seguimento ao recurso especial, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim ementado:
+AGRAVO DE INSTRUMENTO PRAZO PARA FORMULAÇÃO DO PEDIDO PRINCIPAL APÓS EFETIVADA A TUTELA CAUTELAR REQUERIDA EM CARÁTER ANTECEDENTE (CPC ART 308) INTEMPESTIVIDADE DO PEDIDO PRINCIPAL INOCORRÊNCIA
+1. ADMISSIBILIDADE DO AGRAVO DIANTE DA MITIGAÇÃO DA TAXATIVIDADE DO ROL DAS DECISÕES AGRAVÁVEIS (CPC ART 1015) CONFORME ENTENDIMENTO FIRMANDO PELO C STJ NO RESP N 1704520MT (TEMA N 988)
+2. NATUREZA DO PRAZO PRAZO PROCESSUAL VISTO QUE PREORDENADO À PRÁTICA DE ATO ENDOPROCESSUAL PELO QUE SE LHE APLICA A DISCIPLINA CORRESPONDENTE DE CONTAGEM EM DIAS ÚTEIS (CPC ART 219 E § ÚNICO) O PRAZO NÃO É DECADENCIAL POIS SEU DECURSO NÃO IMPLICA PERDA DE DIREITO MAS APENAS A IMPOSSIBILIDADE DE SE POSTULAR NOVAMENTE A TUTELA CAUTELAR COM BASE NO MESMO FUNDAMENTO DE URGÊNCIA (CPC ART 309 INC III E § ÚNICO)
+3. INÍCIO DA CONTAGEM DO PRAZO EFETIVAÇÃO DA TUTELA CAUTELAR REMANESCENDO A CONTROVÉRSIA ACERCA DO CUMPRIMENTO INTEGRAL OU NÃO DA TUTELA NÃO OBSTANTE A REALIZAÇÃO DE DILIGÊNCIAS VÁRIAS CABERÁ AO MAGISTRADO FIXAR O TERMO INICIAL DO PRAZO REMETENDO AO JULGAMENTO DA LIDE PRINCIPAL A CONTROVÉRSIA ACERCA DA CONCRETIZAÇÃO INTEGRAL DA LIMINAR
+4. MANTIDA A DECISÃO QUE DILATOU O PRAZO PARA FORMULAÇÃO DO PEDIDO PRINCIPAL ADMITESE POR CONSEQUÊNCIA A TEMPESTIVIDADE DO PEDIDO PRINCIPAL NEGANDOSE PROVIMENTO AO AGRAVO
+Sustenta a parte recorrente violação aos arts. 1.022, II, parágrafo único II c.c. art. 489, § 1º, IV e VI do CPC, por negativa de jurisdição e ausência de fundamentação do decisum; arts. 308 e 219 do CPC e art. 207 do Código Civil, ante a natureza material do prazo de 30 (trinta) dias da tutela cautelar antecedente e impossibilidade de sua dilação.
+Alega, breve síntese, que o prazo previsto no art. 308 do CPC não comporta dilatação "de ofício", sendo que, no caso, "asituação de dilatação do prazo de trinta dias, por duas vezes, beneficia de maneira abusiva a parte que permaneceu inerte sem deduzir o pedido principal, em total afronta à disposição do art. 308 do CPC, pois, ultraja o texto legal".
+Assere, ademais, que "o objeto cautelar não poderá ser veiculado no pedido se cessada a eficácia, como já visto pela dicção do art. 309, parágrafo único do Código de Processo Civil".
+É o relatório.
+DECIDO.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
