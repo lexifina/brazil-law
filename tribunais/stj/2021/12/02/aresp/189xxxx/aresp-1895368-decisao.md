@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por OI S.A. - EM RECUPERACAO JUDICIAL em face da decisão acostada às fls. 230-231 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pela ora agravante.
+O apelo extremo, fundado naalínea"a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 190-196e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ADIMPLEMENTO CONTRATUAL.INSURGÊNCIA CONTRA DECISÃO QUE ACOLHEU EM PARTE A IMPUGNAÇÃO. RECURSO DA EMPRESA DE TELEFONIA. EXCESSO DE EXECUÇÃO. PARÂMETROS REFERENTES AO VALOR PATRIMONIAL DA AÇÃO, À S TRANSFORMAÇÕES ACIONÁRIAS. UTILIZAÇÃO DA PLANILHA DE CÁLCULO ELABORADA PELA ASSESSORIA DE CUSTAS DA CORREGEDORIA-GERAL DE JUSTIÇA. RECURSO DESPROVIDO.
+Opostos embargos declaratórios (fls. 200-205e-STJ), restaram desacolhidos na origem (fls. 209-212 e-STJ).
+Nas razões de recurso especial (fls. 214-221e-STJ), alegou ainsurgente que o acórdão recorrido violou o artigo 1.022 do CPC/15, porquanto não sanados os vícios apontados nos aclaratórios.
+Sem contrarrazões.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre, o que ensejou a interposição dopresente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 233-240e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 249-253e-STJ.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1.Não se verifica ofensa ao artigo 1.022do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça:AgInt no REsp 1750080/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 21/08/2020;AgInt no AREsp 1507690/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020.
+Alegou a recorrente que o acórdão impugnado padece dos seguintes vícios:
+i) omissão em relação à tese de excesso de execução, pois "se olvida a c. Câmara que o i. expertconsiderou o valor da cotação das ações da Telecom S/A, BRT03 e BRT04, no valor de R$ 61,00 e R$ 19,62 quando o correto é indenizar as ações pelo valor da ação da Brasil Telecom PN (BRT04)";
+ii) omissão e premissa equivocada quanto ao grupamento de ações;
+iii) omissão no que tange ao Valor Patrimonial da Ação (VPA), pois a sentença determinou a observância do balancete do mês da integralização, enquanto o perito teria utilizado valor do mês anterior.
+Quanto ao primeiro e terceiro vícios alegados, extrai-se do aresto proferido pela Corte local (fl. 193 e-STJ):
+Aduz que a diferença de ações a ser apurada deve observar o valor patrimonial da ação da Telebrás vigente na data da assinatura do contrato.
+Quanto às ações emitidas pela Telebrás, sabe-se que "o balancete não é mensal, mas sim trimestral, de modo que para apuração do montante devido o valor deve corresponder àquele vigente no momento da assinatura do pacto, ou seja, anterior a ela e não posterior" (ACV n. 0035583-47.2016.8.24.0000, rel. Des. Guilherme Nunes Bom, julgado em 6-10-2016).
+Do caderno processual verifica-se que o cálculo da contadoria atendeu a esse critério, tendo em vista que a assinatura/integralização do contrato deu-se em 24-4-1987, e foi utilizado o VPA das ações da Telebrás vigente no trimestre em que perfectibilizada a contratação (março, abril e maio de 1987), conforme consta da "Planilha para cálculo de diferença de subscrição de ações de telefonia - BRT", elaborada pela Assessoria de Custas da Corregedoria - Geral de Justiça (Comunicado n. 67 CGJ).
+Também não procede a alegação de que o contador "desmembrou as ações encontradas em Ordinárias e Preferenciais","quando o correto é indenizar as ações pelo valor da ação da Brasil Telecom PN (BRT04)", porquanto das radiografias acostadas às fls. 329 e 330 dos autos principais informam a emissão de ambos os tipos (ON e PN), e não apenas PN.
+Como visto, as teses da insurgente foram apreciadas pelo Tribunal a quo, que as afastou apontando os fundamentos jurídicos para tal.
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: AgInt no AgInt no AREsp 1539179/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020; EDcl no AgInt no AREsp 698.731/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/05/2020, DJe 14/05/2020.
+Afasta-se, portanto, a alegada violação ao artigo 1.022 do CPC/15 no que tange a tais matérias.
+2. No mais, todavia, assiste razão à insurgente.
+Este Superior Tribunal de Justiça reconhece a ocorrência de negativa de prestação jurisdicional quando a Corte de origem, a despeito da oposição de embargos de declaração, omite-se a respeito de ponto essencial ao deslinde da controvérsia.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PERSONALIDADE JURÍDICA. DESCONSIDERAÇÃO. FUNDAMENTAÇÃO INIDÔNEA. ART. 1.022 DO CPC. VIOLAÇÃO.
+1. Configura-se a violação do artigo 1.022 do Código de Processo Civil quando o Tribunal de origem, a despeito da oposição de embargos de declaração, deixa de examinar questão relevante para o deslinde da controvérsia.
+2. "Nos casos em que a aplicação do direito à espécie exige a incursão no substrato fático-probatório dos autos, é imperioso o retorno do feito à instância ordinária, para que a causa seja julgada conforme os parâmetros estabelecidos por este STJ." (AgInt nos EDcl no REsp 1754743/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/12/2019, DJe 12/12/2019) 3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1831870/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 CONFIGURADA. ACÓRDÃO ESTADUAL OMISSO QUANTO A PONTO ESSENCIAL AO DESLINDE DA CONTROVÉRSIA. AGRAVO DESPROVIDO.
+1. Decisão atacada que deu provimento ao recurso especial da parte ora agravada para, reconhecendo violação ao art. 1.022 do CPC/2015, anular o acórdão que julgou os aclaratórios e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, como entender de direito, sanando a omissão reconhecida.
+2. Fica configurada a ofensa ao art. 1.022 do CPC/2015 quando o Tribunal a quo, apesar de devidamente provocado nos embargos de declaração, não se manifesta sobre tema essencial ao deslinde da controvérsia.
+3. Agravo interno desprovido.
+(AgInt no REsp 1754832/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/03/2019, DJe 11/04/2019)
+No caso, em relação aos grupamentos acionários (segundo vício), afirmou o Tribunal de origem (fls. 193-195 e-STJ):
+Alega erro no cálculo quanto às transformações acionárias, porquanto se utiliza do fator de conversão referente à Telesc em vez da Telebrás, com quem celebrou o contrato. Em sequência, aduz, quanto aos reflexos acionários, que devem ser observados os da Telebrás para o pleito indenizatório, notadamente, a cotação das ações registradas sob os códigos TELB3 (ON) e TELB4 (PN). Sem razão, contudo.
+ ..
+Quanto à evolução acionária, já consignou a Câmara que esta "visaretratar o número correto de ações devida à parte ante a desestatização da Telebrás em 12 novas companhias holdings, sendo uma delas a Telesc S/A e, após a incorporação desta pela Telepar e a posterior alteração da Telepar S/A para Brasil Telecom. Acaso isso não ocorra, torna-se inviável apurar eventual diferença de valores, pois a cada incorporação e/ou negociação das ações, elas passavam a representar um capital diferente do anterior" (AI n. 0158326- 93.2015.8.24.0000, de Itaiópolis, rel. Des. Guilherme Nunes Bom, j. em 14-7-2016).
+Assim, tendo o acionista celebrado contrato de participação financeira, com a posterior ocorrência dessas transformações da telefonia fixa, tornou-se detentor do direito aos desdobramentos e grupamentos acionários das ações da empresa de telefonia sucessora da Telebrás, qual seja, Brasil Telecom S/A (atual Oi S/A).
+E sobre a equivalência das ações Telebrás em ações Telesc, retira-se do voto do Eminente Desembargador Guilherme Nunes Bom, proferido na Apelação Cível n. 0013671-17.2019.8.24.0023:
+Como é cediço, na Assembleia Geral Extraordinária realizada em 23/03/1990, restou aprovado o desdobramento das ações componentes do capital social da TELEBRÁS S/A na proporção de 1 (uma) para 1 (uma).
+Assim, ocorreu a dobra acionária da telefonia fixa, ou seja: os acionistas da TELEBRÁS S/A passaram também a serem acionistas da TELESC S/A e com direito à percepção ao mesmo número de ações que possuíam naquela empresa de telefonia, sendo tal modificação aplicada a todos os contratos anteriores à data da referida Assembleia.
+Ainda, com o advento da Emenda Constitucional nº 08/95, da Lei nº 9.472/97 e do Decreto nº 2.546/98, ocorreu a privatização das empresas de telefonia, com a respectiva cisão da TELEBRÁS S/A em 12 (doze) companhias novas. Com tais alterações, restou corroborado o direito de cada acionista da antiga TELEBRÁS S/A de perceber a dobra no tocante às ações da TELESC S/A. (Capital, Primeira Câmara de Direito Comercial, j. 05-12-2019).
+Com efeito, agiu corretamente a contadoria judicial ao aplicar sobre o diferencial acionário encontrado, equivalência entre ações da Telebrás para Telesc, considerando-se o desdobramento acionário ocorrido em 23-3-1990.
+Verifica-se, inclusive, que os cálculos foram realizados com uso da ferramenta disponibilizada pela Corregedoria Geral de Justiça deste Tribunal, cujo uso é recomendado (Comunicado n. 67 CGJ).
+A insurgente, todavia, aponta omissão sobre as seguintes alegações:
+a) "o i. expert utiliza a cotação correspondente ao dia 29/01/2001 no valor de R$ 19,62 (por lote de mil ações = R$ 0,01962 por ação) para as ações da TELESC/Brasil Telecom, porém, a parte autora não observa a transformação estatutária ocorrida, sendo que o valor apresentado não corresponde a maior cotacão já negociada em bolsa" (fl. 217 e-STJ)
+b) "conforme cálculos apresentados por assistente contábil, em 28/02/2000,ocorreu à conversão acionária da Companhia TELESC para TELEPAR, onde, 01 (uma) ação Telesc correspondia a 0,82949 ação Telepar (anexo). Já em 12/09/2000, ocorreu à conversão acionaria da Companhia TELEPAR para BRASIL TELECOM, onde, 01 (uma) ação Telepar correspondia a 39 ações Brasil Telecom" (fls. 217-218 e-STJ);
+c) "a ora recorrente demonstrou taxativamente que os contratos anteriores a 23/03/1990 não podem sofrer o desdobramento acionário ocorrido nesta data, pois o cálculo de equivalência acionário é realizado na data do contrato, aplicando-se posteriormente as alterações societárias da empresa TELESC ocorridas a partir da data contratual, momento que se realiza o cálculo de equivalência contratual" (fl. 218 e-STJ).
+Os mesmos vícios foram suscitados nos aclaratórios opostos na origem (fls. 201-203 e-STJ) - e,de fato, não houve expresso pronunciamento sobre tais pontos.
+A manifestação acerca destas alegações, ainda que para delas não conhecer ou para rechaçá-las, de forma fundamentada, é necessária para a correta prestação jurisdicional - inclusive para possibilitar eventual acesso às instâncias superiores, se for o caso.
+Imperioso, portanto, o reconhecimento da existência de violação ao artigo 1.022 do CPC/15.
+Registra-se, por fim, que a presente decisão não importa em qualquer antecipação de juízo de mérito sobre as teses apresentadas pela parte, constatando, tão somente, a necessidade de manifestação expressa por parte da instância ordinária.
+3. Ante o reconhecimento da negativa de prestação jurisdicional e a necessidade de retorno dos autos à Corte local para correção do vício inferido - omissão - fica prejudicada a análise das demais questões veiculadas no recurso especial.
+4. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo e, de plano, dá-se parcial provimento ao recurso especial, para cassar o acórdão proferido em sede de embargos de declaração, determinando que outro seja proferido, sanando-se a omissão apontada.
+Publique-se.
+Intimem-se.
