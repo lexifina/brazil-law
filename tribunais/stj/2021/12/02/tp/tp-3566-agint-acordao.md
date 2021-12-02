@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por Bons Ares Hotel EIRELI contra a decisão monocrática desta relatoria que indeferiu o pedido de tutela provisória, nos termos da ementa a seguir transcrita (e-STJ, fl. 144):
+PEDIDO DE TUTELA PROVISÓRIA. PRETENSÃO DE CONCESSÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL AINDA NÃO DISTRIBUÍDO A ESTE TRIBUNAL SUPERIOR. DOCUMENTOS JUNTADOS AOS AUTOS COMPLETAMENTE DISSOCIADOS. IMPOSSIBILIDADE DE AFERIÇÃO DA PROBABILIDADE DE PROVIMENTO DO RECURSO. REJEIÇÃO DO PEDIDO QUE SE IMPÕE. PEDIDO INDEFERIDO.
+Nas razões do presente agravo (e-STJ, fls. 168-176), a empresa agravante defende que o mencionado pedido almeja a concessão de efeito suspensivo à decisão que inadmitiu o recurso especial, tendo acostado os documentos suficientes ao seu exame, quais sejam, as razões do recurso especial, a decisão de inadmissão e o correlato agravo.
+Aponta, além disso, que, "muito embora não seja a questão central em discussão no presente feito, a Agravante devidamente transcreveu o aresto do agravo de instrumento nº 2008419-43.2021.8.26.0000 no Recurso Especial" (e-STJ, fl. 172). Em tal contexto, afirma que, "na prática, o v. aresto se encontra nos autos - conforme demonstrado às fls. e-STJ Fl.153 a e-STJ Fl.157, de modo que tal documentos não é um óbice para análise do pedido da Agravante" (e-STJ, fl. 174).
+Ademais, reitera o pedido de tutela provisória, tendo em vista a iminência de expropriação de bem imóvel cujo valor é demasiadamente superior ao montante exequendo, a revelar a onerosidade excessiva da penhora.
+Impugnação apresentada às fls. 178-186 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE TUTELA PROVISÓRIA.PRETENSÃO DE CONCESSÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL AINDA NÃO DISTRIBUÍDO A ESTE TRIBUNAL SUPERIOR. DOCUMENTOS JUNTADOS AOS AUTOS COMPLETAMENTE DISSOCIADOS DO FEITO. IMPOSSIBILIDADE DE AFERIÇÃO DA PROBABILIDADE DE PROVIMENTO DO RECURSO. REJEIÇÃO DO PEDIDO QUE SE IMPÕE. AGRAVO INTERNO DESPROVIDO.
+1. A juntada dos elementos essenciais à análise do pedido de concessão de efeito suspensivo ao recurso - no caso, o inteiro teor do correto acórdão recorrido -enseja o seu indeferimento, porquanto não atendido o disposto no art. 319 do CPC/2015, mesmo após intimadaa parte para sanar a irregularidade.
+2. Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+Com efeito, o deferimento do pedido de concessão de efeito suspensivo ao recurso especial previsto no art. 1.029, § 5º, do CPC/2015 e, por conseguinte, ao agravo em recurso especial pressupõe o preenchimento de dois requisitos, simultaneamente, nos termos do art. 995, parágrafo único, do CPC/2015,a saber:i)a probabilidade de provimento do recurso; eii)o risco de dano grave, de difícil ou impossível reparação.
+Como relatado na decisão ora agravada, constatou-se, inicialmente, a existência de dissociação entre o pedido formulado e a documentação apresentanda, razão pela qual se oportunizou à postulante a juntada dos documentos corretos.
+Contudo, em análise àdocumentação posteriormente colacionada ao feito, em suposto atendimento ao despacho anterior, verifica-se que não foi atendida a intimação desta relatoria, limitando-se a peticionante a juntar documentos que, em sua maioria, já se encontravam nos respectivos autos, não se revelando, portanto, suficientes, a sanar a irregularidade apontada.
+Isso porque, como já mencionado, não só as questões discutidas no recurso especial (e-STJ, fls. 16-25), no agravo em recurso especial (e-STJ, fls. 40-52)e neste pedido de tutela provisória (e-STJ, fls. 3-15) revelam-se completamente dissociadas do apontado acórdão recorrido, como os números dos processos também são distintos (Agravo de Instrumento n. 2008419-43.2021.8.26.0000 e Apelação Cível n. 1001818-97.2018.8.26.0079).
+Convém destacar que, embora alegue a requerente que o processo já esteja no âmbito de agravo em recurso especial e a pretensão de efeito suspensivo refira-se apenas à decisão de inadmissão do apelo especial, a análise da probabilidade do direito, mormente daquelas questões de mérito afetas ao próprio recurso especial, dependem do efetivo exame do aresto hostilizado (relativo ao mencionado Agravo de Instrumento n. 2008419-43.2021.8.26.0000), o qual, ressalte-se, não foi devidamente juntado ao feito.
+Outrossim, conforme registrado na deliberação unipessoal desta relatoria que rejeitou os embargos de declaração,a mera transcrição, nas razões do recurso especial, do acórdão apontado como recorrido não substitui a necessidade de juntada do referido documento ao processo, o qual se revela essencial à análise do recurso especial e, por conseguinte, do presente pedido de tutela provisória àquele correlato.
+Aliás, não se concebe qual a dificuldade da parte requerente em se proceder à juntada do inteiro teor do correto acórdão apontado como recorrido ao feito em julgamento.
+Assim, dos elementos coligidos aos autos, não há como se proceder à análise do pedido everificar a verossimilhança da alegação de probabilidade de provimento do recurso, não se atendendo ao disposto no art. 319 do CPC/2015, sendo de rigor o indeferimento, independentemente de eventual risco de dano, visto que ambos os requisitos devem se fazer presentes.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
