@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por ALFREDO ARIAS VILLANUEVA,com fundamento no art. 102, inciso III, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 3193):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 do STJ).
+3. Agravo interno não provido.
+Sustenta o recorrente a existência de repercussão geral da matéria debatida, e afirma que o acórdão impugnado, que "negou provimento ao recurso por entender que o agravo em recurso especial foi apresentado em total desacordo com os requisitos preconizados pelo artigo 932,III do Código de Processo Civil, bem como informa a incidência da súmula de número 7 do Superior Tribunal de Justiça", não merece prosperar (e-STJ fl. 3209).
+Aduz que "este recurso - como todo recurso extraordinário - tem por finalidade a proteção do direito de forma objetiva, protegendo a norma jurídica constitucional" (e-STJ fl. 3218).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Contrarrazões às fls. 3226/3230.
+É o relatório.
+Da leitura das razões recursais (e-STJ fls. 3206/3219), verifica-se a deficiência de fundamentação do recurso extraordinário, uma vez que o recorrente não indicou o artigo da Constituição Federal que teria sido violado por esta Corte Superior de Justiça no acórdão recorrido, tampouco elucidou em que consistiria a suposta ofensa à Constituição Federal, o que enseja a aplicação do enunciadon. 284 da Súmula do Supremo Tribunal Federal:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. AUSÊNCIA DE PREQUESTIONAMENTO EXPLÍCITO. SÚMULAS 282 E 356 DO STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO APELO EXTREMO. SÚMULA 284 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A matéria constitucional invocada no recurso extraordinário não foi apreciada pelo acórdão recorrido e tampouco foram opostos embargos de declaração a fim de suscitá-la. Súmulas 282 e 356 do STF. Inadmissível o prequestionamento implícito. Precedentes. 2. Ausência de demonstração, nas razões do apelo extremo, de que forma o acórdão recorrido teria violado os dispositivos constitucionais dados como contrariados, o que inviabiliza a sua análise, nos termos da Súmula 284 do STF. 3. Agravo regimental a que se nega provimento.
+(ARE 1235044 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 24/08/2020, PROCESSO ELETRÔNICO DJe-225 DIVULG 10-09-2020 PUBLIC 11-09-2020)
+Com igual orientação:
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DAS RAZÕES RECURSAIS. SÚMULA 284/STF. RECURSO EXTRAORDINÁRIO QUE NÃO ADMITE O EXAME DE NORMAS INFRACONSTITUCIONAIS. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. A parte não indicou de que forma as normas constitucionais mencionadas teriam sido violadas pelo acórdão recorrido, o que leva à aplicação do óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). 2. O aresto impugnado, com fundamento na legislação ordinária e no substrato fático constante dos autos, rejeitou a exceção de suspeição e impedimento, matéria situada no contexto normativo infraconstitucional. Inviável, ademais, o reexame de provas em sede de recurso extraordinário, conforme Súmula 279 ("Para simples reexame de prova não cabe recurso extraordinário"). 3. Agravo Regimental a que se nega provimento.
+(ARE 1272389 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-213 DIVULG 26-08-2020 PUBLIC 27-08-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admiteo recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO.AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS CONSTITUCIONAIS VIOLADOS. INCIDÊNCIA DO ENUNCIADO 284 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL.RECURSO NÃO ADMITIDO.
