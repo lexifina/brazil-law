@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão proferido pelo Tribunal de Justiça daquela Unidade Federativa no Agravo em Execução Penal n. 1.0481.15.013678-8/001.
+Consta nos autos que o Recorrido cumpria pena de 17(dezessete) anos,3(três) meses e 6 (seis) dias de reclusão, em regime fechado, pelocrimede roubo majorado, quando sobreveio nova condenação, pelo crime de disparo de arma de fogo, à pena de 2(dois) anos de reclusão, em regime aberto, substituída por 2 (duas) penas restritivas de direitos. Diante da incompatibilidade entre as penas privativas de liberdade e restritivas de direitos, o Juízo de origem reconverteu as penas substitutivas e unificou as sanções, fixando o prosseguimento da execução no regime fechado (fls. 2-4).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que deu provimento ao agravo em execução penal para restabelecer a pena restritivas de direitos, determinando a suspensão da sua execução até que o Reeducando se encontre em regime de cumprimento de pena com ela compatível (fls. 65-69).
+Os embargos de declaração do Ministério Públicoforam rejeitados (fls. 85-93).
+Nas razões do recurso especial, o Parquet estadual aponta ofensa aos arts. 111,capute parágrafo único,181,caput e § 1.º, alíneae,da Lei de Execução Penal, bem como aos arts. 44, §§ 4.º e 5.º;e 76, ambos do Código Penal. A esse respeito,argumenta, em síntese, que, em razão de não ser possível o cumprimento simultâneo da pena privativa de liberdade em regime fechadoe das penas restritivas de direitos, essas devem ser reconvertidas (fls. 104-112).
+Contrarrazões às fls. 211-214.
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 230-234).
+É o relatório.
+Decido.
+A Corte de origem, na análise do tema em debate, decidiu nos seguintes termos (fls. 65-69, grifei):
+"Analisei com cuidado as razões e contrarrazões recursais, bem como o parecer da Procuradoria-Geral de Justiça, comparando-os com a decisão impugnada e demais documentos disponíveis no SEEU e verifico que a pretensão Defensiva deve ser acolhida.
+Em consulta ao SEEU, afere-se que o recuperando estava em cumprimento da primeira guia (0044800-69.2015.8.13.0481), em que foi imposta pena privativa de liberdade de 17 anos, 06 meses e 06 dias de reclusão.
+Posteriormente, foi juntada nova guia (0041093-83.2014.8.13.0431), em que a pena foi substituída por restritiva de direito, tendo o Magistrado, realizado a unificação das penas, decidindo que:
+ ..
+Com a devida vênia ao il. Magistrado, a decisão deve ser reformada.
+Estabelece o artigo 44, §50 , do Código Penal que "sobrevindo condenação a pena privativa de liberdade, por outro crime, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior".
+A Lei de Execuções Penais, por sua vez, prevê como uma das hipóteses de conversão das penas de prestação de serviços à comunidade e limitação de fim de semana em privativa de liberdade, a condenação do apenado "por outro crime à pena privativa de liberdade, cuja execução não tenha sido suspensa"(ad. 181, §1º, "e", §2º, da LEF).
+Conforme se constata, os referidos dispositivos prevêem a possibilidade de conversão da pena restritiva de direitos em privativa de liberdade, quando, estando o apenado em cumprimento de pena restritiva de direitos, é condenado à pena privativa de liberdade.
+Entretanto, essa não é a hipótese dos presentes autos, em que ocorreu exatamente o contrário: o agravado estava em cumprimento de pena privativa de liberdade, em regime semiaberto, quando sobreveio nova condenação, na qual a pena privativa de liberdade foi substituída por restritiva de direitos.
+ ..
+Ora, além das hipóteses legais supramencionadas, não é conferido ao juízo da execução penal o poder de converter a pena restritiva de direitos em privativa de liberdade, sob pena de violação à coisa julgada, tendo em vista que, uma vez concedido o benefício através de decisão judicial definitiva, passa ele a ser direito subjetivo do apenado.
+Assim, a decisão que concedeu a substituição da pena privativa de liberdade por restritiva de direitos deve ser cumprida na íntegra, nos moldes em que foi proferida, não podendo ser alterado, posteriormente.
+Oportuno consignar que o art. 111, caput, e parágrafo único, da LEP, estabelece que seja feito o somatório das penas, apenas para fins de fixação de regime prisional para cumprimento de penas privativas de liberdade, não havendo previsão de unificação de penas para determinar a substituição das penas restritivas de direito. Entender o contrário, ou seja, unificar as penas também para analisar a possibilidade da substituição da pena por restritiva de direitos, constituiria verdadeira analogia in malam partem, violando, pois, o princípio da legalidade.
+ ..
+Desta forma, determino a suspensão da condenação imposta relativa à segunda guia, ficando, por conseguinte, afastado o marco inicial fixado pelo magistrado na decisão agravada.
+Diante de todo o exposto, DOU PROVIMENTO ao recurso, para restabelecer a pena restritiva de direitos, determinando a sua suspensão, até que o agravante se encontre em regime de cumprimento de pena com ela compatível."
+Todavia, a jurisprudência desta Corte Superior uniformizou a interpretação da legislação federal no sentido de que " .. no caso de nova condenação a penas restritivas de direitos a quem esteja cumprindo pena privativa de liberdade em regime fechado ou intermediário, é inviável a suspensão do cumprimento daquelas - ou a execução simultânea das penas. Nesses casos, nos termos do art. 111 da LEP, deve-se proceder à unificação das penas, não sendo aplicável o art. 76 do Código Penal". (AgRg no HC 627.731/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021).
+Portanto, no caso, em razão de o regime imposto à pena privativa de liberdade (fechado) impossibilitar o cumprimento simultâneo das penas restritivas de direitos, é necessária a reconversão das penas substitutivas e a unificação das sanções privativas de liberdade.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO.EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. IMPOSSIBILIDADE DE CUMPRIMENTO SIMULTÂNEO DE PENA RESTRITIVA DE DIREITOS E PRIVATIVA DE LIBERDADE EM REGIME FECHADO. RECONVERSÃO. POSSIBILIDADE. WRIT NÃO CONHECIDO.
+ ..
+2. A superveniência de nova condenação que impossibilite o cumprimento simultâneo das reprimendas, independentemente de a condenação à pena restritiva de direitos ser anterior ou posterior à privativa de liberdade, justifica a reconversão daquela e a consequente unificação, nos termos do art. 111 da Lei n. 7.210/84.
+3. Habeas corpus não conhecido."(HC 696.993/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/10/2021, DJe 26/10/2021, grifei.)
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONDENAÇÃO À PENA RESTRITIVA DE DIREITOS NO CURSO DO CUMPRIMENTO DE REPRIMENDA CORPORAL EM REGIME FECHADO. IMPOSSIBILIDADE DE CUMPRIMENTO SIMULTÂNEO. RECONVERSÃO. PRECEDENTES.
+1. "É assente neste Superior Tribunal de Justiça o entendimento de que, quando sobrevier nova condenação que, não sendo suspensa, tornar incompatível o cumprimento da pena restritiva de direitos com a pena privativa da liberdade, posterior ou anterior, deve-se reconverter a pena substitutiva em reprimenda corporal (art. 181, §1º, alínea "e", da LEP, c/c artigo 44, §5º, do Código Penal)"(AgRg no REsp n.1610082/MG, rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 23/8/2016, DJe 1º/9/2016).
+2. Agravo regimental desprovido."(AgRg no REsp 1.740.641/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 21/08/2018, DJe 30/08/2018, grifei.)
+Ante o exposto, DOU PROVIMENTO ao recurso especial para cassar o acórdão recorrido e restabelecer a decisão do Juízo das Execuções Penais que reconverteu as penas restritivas de direitos em pena privativa de liberdade (fls. 2-4).
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE. SUPERVENIÊNCIA. NOVA CONDENAÇÃO. PENA RESTRITIVA DE DIREITOS. INCOMPATIBILIDADE. CONVERSÃO DEVIDA. UNIFICAÇÃO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
