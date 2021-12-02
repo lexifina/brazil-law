@@ -1,0 +1,16 @@
+DECISÃO
+1. Cuida-se de agravo interposto por AGOSTINHO RAUPP VALIM contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+APELAÇÃO CÍVEL EMBARGOS DE TERCEIRO SENTENÇA DE PROCEDÊNCIA RECURSO DE UM DOS EMBARGADOS PRELIMINARES 1) ALEGADA ILEGITIMIDADE ATIVA INSUBSISTÊNCIA EMBARGANTES QUE ALEGAM A POSSE SOBRE O IMÓVEL E DEMONSTRAM A AQUISIÇÃO DO BEM TEORIA DA ASSERÇÃO PERTINÊNCIA SUBJETIVA VERIFICADA 2) ALEGADO CERCEAMENTO DE DEFESA NÃO ACOLHIMENTO ELEMENTOS SUFICIENTES À FORMAÇÃO DO CONVENCIMENTO MOTIVADO AUSÊNCIA DE FUNDAMENTAÇÃO DA IMPRESCINDIBILIDADE DA PROVA TESTEMUNHAL OITIVA QUE TERIA EFEITO PURAMENTE P
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts.1022, I e II,927 § 3º e 4º,85, § 2º, I, II, III e IV e85, § 8º, todosdo CPC, alegando em síntese, haver omissão e contradição no acórdão recorrido e ainda que oshonorários sucumbenciais fixados em 18% sobre o valor atualizado da causa implicaria violação aos princípios da razoabilidade e proporcionalidade, acarretando enriquecimento sem causa e gravame excessivo ao recorrente.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 450.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil de 2.015. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+4. O acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor.
+A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, qual seja: se o recorrente discordava da fixação de percentual da verba honorária deveria ter impugnado pela via adequada e não por oposição de embargos de declaração, impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
