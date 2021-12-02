@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência daSúmulan.7 do STJ (e-STJ fls. 543/546).
+O acórdão recorrido está assim ementado (e-STJ fls. 467/468):
+EMPREENDIMENTO IMOBILIÁRIO - RESCISÃO -INICIATIVA DO COMPRADOR - DEVOLUÇÃO PARCIAL - MANTIDA SENTENÇA Apelação. Empreendimento Imobiliário. Rescisão contratual requerida pelo comprador por impossibilidade de suportar o pagamento da aquisição da unidade. A sentença julgou parcialmente procedente o pedido e determinou que a restituição seja de 80% dos valores pagos, excluída a taxa de corretagem, se houver, com correção monetária a contar do desembolso e incidindo juros de mora a partir do trânsito em julgado. Determinou sucumbência recíproca. Apelo do réu com pretensão de reforma para a improcedência do pedido ou que a retenção seja de 50%, excluído o sinal e que os honorários advocatícios sejam fixados por equiparação equitativa. Possibilidade de rescisão pelo comprador. Inadimplência que caracteriza a dificuldadefinanceira de honrar com os compromissos não havendo que se falar em falta de prova. Superveniência de leilão que não afasta o direito de devolução de valores pagos. Percentual de retenção que deve ser mantido conforme fixado em sentença. Arras que são confirmatórias, não cabendo o perdimento total. Sucumbência mantida. Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 499/506).
+Nas razões do recurso especial (e-STJ fls. 508/520), fundamentado no art. 105, III, "a", da CF, a recorrente alegouofensa aos arts. 489 e 1.022 do CPC/2015, por negativa de prestação jurisdicional.
+Apontou contrariedade aoart. 413do CC/2002, pois o acórdão teria reduzido, sem parâmetros claros, a cláusula penal avençada entre as partes.
+Indicou afronta aoart. 1.026, § 2º, do CPC/2015 afirmando que os aclaratórios não seriam protelatórios.
+No agravo (e-STJ fls. 562/573), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 577).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Quanto à cláusula penal, a jurisprudência do Superior Tribunal de Justiça tem considerado razoável que o percentual de retenção dos valores pagos pelo promitente comprador - que deu causa à rescisão contratual - seja arbitrado entre 10% (dez por cento) e 25% (vinte e cinco por cento), conforme as circunstâncias de cada caso.
+Para tanto, devem ser avaliados os prejuízos suportados, notadamente com "as despesas administrativas havidas com a divulgação, comercialização e corretagem, o pagamento de tributos e taxas incidentes sobre o imóvel e a eventual utilização do bem pelo comprador" (REsp n. 1.224.921/PR, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/4/2011, DJe 11/5/2011).
+O Tribunal de origem, soberano na análise do material cognitivo dos presentes autos, concluiu que o percentual de retenção de 20% (vintepor cento) sobre os valores pagos bastaria para indenizar a recorrente pelos prejuízos oriundos da resilição contratual (e-STJ fl. 476).
+Alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ.
+Em relação à multa imposta à recorrente, constata-se que a interposição dos embargos declaratórios, na Corte de origem, decorreu do legítimo exercício do direito de recorrer da parte, que se valeu do referido recurso para tentar combater decisão que lhe era desfavorável, apontandoinclusivesuposta omissão constanteno acórdão impugnado.
+Além disso, os embargos de declaração foram opostos com o nítido caráter prequestionador, motivo pelo qual deve ser afastada a sanção prevista no art. 1.026, § 2º, do CPC/2015, nos termos da Súmula n. 98/STJ.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO PARCIAL ao recurso especial, a fim de afastar a multa do art. 1.026, § 2º, do CPC/2015.
+Publique-se e intimem-se
