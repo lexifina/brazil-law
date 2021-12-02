@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por ROGÉRIO BENICIO ESMERALDO contra acórdão do Tribunal de Justiça do Estado do Ceará (HC n. do 0634782-10.2021.8.06.000).
+Orecorrente teve a prisão preventiva decretada em 8/6/2021, diante de representação da autoridade policial (fl. 33). Foi denunciadopor suposta prática do delito descrito no art. 158do Código Penal.
+O decreto prisional fundou-se nos indícios de autoria, na gravidade da conduta, tendo em vista as graves ameaças e a periculosidade do recorrente (fls. 46-47).
+Impetrado writ originário, a ordem foi denegada (fls. 44-45).
+Orecorrente alega que está sendo vítima de constrangimento ilegal, pois está configurado o excesso de prazo na formação da culpa (fl. 67).
+Sustenta que se encontrapreso há quase 6 meses, sem previsão deencerramento da instrução processual (fl. 68).
+Requer a concessão de liberdade provisóriacom a imposição demedidas cautelares alternativas.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fl. 49-52):
+Seguindo adiante, quanto à alegação de excesso de prazo na formação da culpa, o argumento da parte impetrante que versa sobre a falta de respeito aos prazos legais é deveras frágil, haja vista que já é entendimento consolidado dos tribunais superiores que tais prazos não devem ser contados separadamente de forma aritmética, mas sim levando em consideração as nuances do caso concreto, à luz do princípio da razoabilidade. Para a determinação da razoabilidade do prazo, devem ser analisados, basicamente, três elementos: (a) complexidade do assunto; b) atividade processual do interessado (que obviamente não poderá se beneficiar de sua própria demora); e c) conduta das autoridades judiciais (polícia, Ministério Público, juízes, servidores, etc.).
+Ademais, pontua-se que eventual excesso de prazo somente convola a prisão do réu em arbitrária se decorrente exclusivamente de diligências suscitadas pela acusação ou resulte de inércia do próprio aparato judicial. Não lhes sendo imputável, descarta-se o alegado constrangimento ilegal.
+ ..
+Diante desse cenário, constato que a alegação de constrangimento ilegal face o excesso de prazo para formação da culpa não encontra suporte nos autos, eis que o feito tem curso aceitável, compatível com as peculiaridades do caso, tais como, pluralidade de réus, expedição de cartas precatórias, aditamento da denúncia e declínio de competência, inexistindo notícias de que esteja ocorrendo morosidade ou retardo excessivo na implementação dos atos processuais, tampouco desídia ou inércia na prestação jurisdicional.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus, ficando prejudicado o pedido de liminar.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
