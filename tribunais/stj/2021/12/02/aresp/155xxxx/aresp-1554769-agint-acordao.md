@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+A Sra. Ministra Assusete Magalhães e o Sr. Ministro Herman Benjamin votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Francisco Falcão e Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOAGRAVO EMRECURSO ESPECIAL. OFENSA AOSARTS. 489, § 1º, IV, E 1.022 DO CPC.OMISSÃO. INEXISTÊNCIA.REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se configurou a ofensa aosarts.489, § 1º, IV, e 1.022, II, do CPC, pois o Tribunal de origemfundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parterecorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração.
+3.Segundo a jurisprudência do STJ, "cabe ao juiz, como destinatário da prova, indeferir as que entender impertinentes, sem que tal implique cerceamento de defesa. Rever as conclusões do órgão julgador quanto à suficiência das provas apresentadas demanda o reexame do acervo fático-probatório dos autos, providência vedada pela Súmula 7 do STJ."(AgInt no AREsp 1.571.478/SP, Rel. Min. Marco Buzzi, Quarta Turma, julgado em 23/3/2020, DJe 25/3/2020).
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado por WAL MART BRASIL LTDA.contra decisão por meio da qual conheci do agravo para não conhecer do recurso especial.
+Em suas razões recursais, a agravante revisita a tese de ofensa aos arts.347, 350, 351, 352, 355, 369, 375, 378, 370 e 371 do Código de Processo Civil ao argumentodeque o novo CPC prevê expressamente o direito das partes se utilizaram de todos os meios de provas admitidos pelo direito, bem como que não poderia ser negada a possibilidade de a parte produzir prova judicial pretendida, sob pena de cerceamento de defesa.
+Argumenta que o Colegiado local, não obstante a oposição de embargos declaratórios, não sanou a omissão apontada, em especial sobre o pedido de produção de prova pericial.Aduz, no contexto, que o "acórdão proferido deixou de ofertara devida prestação jurisdicional e promoveu injustiça, eis que a Agravante ficou impossibilitada de produzir prova pericial e não obteve nenhuma resposta quanto ao seu requerimento inaugural e recursal nesse sentido". (e-STJ, fl.644).
+Aponta, ainda, que seria inaplicável ao caso o óbice da Súmula 7/STJ.
+Semimpugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOAGRAVO EMRECURSO ESPECIAL. OFENSA AOSARTS. 489, § 1º, IV, E 1.022 DO CPC.OMISSÃO. INEXISTÊNCIA.REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não se configurou a ofensa aosarts.489, § 1º, IV, e 1.022, II, do CPC, pois o Tribunal de origemfundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parterecorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração.
+3.Segundo a jurisprudência do STJ, "cabe ao juiz, como destinatário da prova, indeferir as que entender impertinentes, sem que tal implique cerceamento de defesa. Rever as conclusões do órgão julgador quanto à suficiência das provas apresentadas demanda o reexame do acervo fático-probatório dos autos, providência vedada pela Súmula 7 do STJ."(AgInt no AREsp 1.571.478/SP, Rel. Min. Marco Buzzi, Quarta Turma, julgado em 23/3/2020, DJe 25/3/2020).
+4. Agravo interno a que se nega provimento.
+VOTO
+Na petição de recurso especial, apontou-sequeo Colegiado local, não obstante a oposição de embargos declaratórios, não sanou a omissão indicada, em especial sobreatese de que oColegiado local,não obstante a oposição de embargos declaratórios, não sanou a omissão apontada, em especial sobre opedido de produção de prova pericial.
+Contudo, como registrado na decisão inaugural, verifica-se que não merece prosperar a tese de violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015porquanto o acórdão combatido fundamentou claramente seu posicionamento, consignando, expressamente, que não seria caso de reconhecer possibilidade de realização de prova pericial requerida pela parte contribuinte, uma vez que esta não possuiria o condão de retratar fatos pretéritos.No ponto(e-STJ, fls. 410-411):
+Desse modo, observa-se que o laudo técnico produzido pela autora não especifica o consumo de energia elétrica efetivamente utilizado no processo de industrialização da unidade autuada. Demonstra, na verdade, o consumo nas áreas produzidas nos estabelecimentos com o mesmo formato, representado por 53,2% (fls. 89). Além disso, como consignou a r. sentença, foi elaborado tomando por base os meses de setembro, outubro e novembro, todos do ano de 2007 (fls. 88), não dizendo respeito, portanto, ao período objeto da autuação: 2009 e 2010. A fls. 85/87, o laudo ofertado pela autora relaciona os estabelecimentos visitados e nos quais se realizou o levantamento: dentre eles não se inclui o estabelecimento autuado, situado na cidade de Diadema (SP). Desse modo, fica afastada a preliminar de cerceamento de defesa.
+Como assinalado em primeiro grau, "a prova pericial postulada não teria, por impossibilidade fática, como retratar fato pretérito" (fls. 318).
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunala quohaver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nemoutra causa passível de exame mediante a oposição de embargos de declaração.
+Sobre o tema:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INSUFICIÊNCIA DA PENHORA. REFORÇO. INTIMAÇÃO NECESSÁRIA. AUSÊNCIA. RECURSO REPETITIVO RESP 1.127.815/SP. NÃO SURPRESA. ART. 10 DO CPC/2015. PROVIMENTO.
+1. Não se configurou a ofensa ao art. 1.022, II. do CPC/2015, pois o Tribunal de origem julgou integralmente a lide e refutou, ao seu ver, a aplicação do precedente aventado.
+2. O Tribunal regional confirmou sentença que extinguiu Embargos à Execução fiscal apenas em virtude da insuficiência do valor penhorado.
+3. Não obstante, o próprio precedente usado pela Corte de origem como fundamento decisório, o REsp 1.127.815/SP, expressamente diz no item 9 de sua ementa que cabe ao juiz, antes da sentença terminativa, abrir prazo para que a parte reforce a penhora. Tal providência prestigia o contraditório, a ampla defesa e o princípio da não surpresa, hoje positivado no art. 10 do CPC/2015.
+4. "A insuficiência de penhora não é causa bastante para determinar a extinção dos embargos do devedor, cumprindo ao magistrado, antes da decisão terminativa, conceder ao executado prazo para proceder ao reforço, à luz da sua capacidade econômica e da garantia pétrea do acesso à justiça" (REsp 1.127.815/SP, Rel. Ministro Luiz Fux, Primeira Seção, DJe 14/12/2010).
+5. Recurso Especial provido, para que o juízo de origem oportunize o reforço da penhora.
+(REsp 1.809.124/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/6/2019, DJe 1/7/2019).
+PROCESSUALCIVIL. RECURSO ESPECIAL. ART. 489, §1º, IV, DO CPC/2015. VIOLAÇÃO.INEXISTÊNCIA.HONORÁRIOSDE SUCUMBÊNCIA.PRESENÇA DE CAUSALIDADE. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1.Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador,de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2.Àluzdoprincípiodacausalidade,aqueleque deu causa à instauraçãodoprocessodeveresponderpelaverba honorária de sucumbência.
+3."Apretensãodesimples reexamede prova não enseja recurso especial" (Súmula 7/STJ).
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.364.626/PE, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/5/2019, DJe 12/6/2019).
+No mais, a empresarecorrente revisita a tese decerceamento de defesa ante a impossibilidade de produção de prova pericial. Ocorre queesta Corte Superior possui o entendimento firmado de reconhecer que o magistrado, com base no livre convencimento motivado, pode deferir ou indeferir a produção de provas.No caso, o Tribunal de origem consignou, com suporte nos documentos colecionado aos autos, que a perícia não seria necessária, uma vez que "a prova pericial postulada não teria, por impossibilidade fática, como retratar fato pretérito" (e-STJ, fl. 411).
+Revisar tal juízo de valor na instância extraordinária, por seu turno, demanda o revolvimento dos aspectos fáticos da causa, o que atrai o óbice constante da Súmula 7/STJ, a saber: "A pretensão de simples reexame de prova não enseja recurso especial.".
+A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO EXECUTADO.
+1. Segundo a jurisprudência desta Corte, cabe ao juiz, como destinatário da prova, indeferir as que entender impertinentes, sem que tal implique cerceamento de defesa. Rever as conclusões do órgão julgador quanto à suficiência das provas apresentadas demanda o reexame do acervo fático-probatório dos autos, providência vedada pela Súmula 7 do STJ. Precedentes.
+2. Com amparo no acervo fático-probatório constante dos autos, a Corte Estadual concluiu que a propriedade do imóvel discutido na lide é incontroversa e que a questão da forma de pagamento está suficientemente comprovada nos autos. Rever tal entendimento implicaria no reexame fático-probatório da demanda e na análise do contrato entabulado entre as partes, providências vedadas mediante os óbices das Súmulas 5 e 7 do STJ.
+3. A distribuição dos ônus sucumbenciais envolve ampla análise de questões de fato e de prova, consoante as peculiaridades de cada caso concreto, providência incabível em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.571.478/SP, Rel. Min. MARCO BUZZI, QUARTA TURMA, julgado em 23/3/2020, DJe 25/3/2020).
+PROCESSUAL CIVIL. ADMINISTRATIVO. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 11, 336, 350, 357, 369, 371, 373, 438, I E 1.022, II E PARÁGRAFO ÚNICO, II, C/C O ART. 489, §1º, IV E V, TODOS DO CPC/15, E DO ARTIGO 2º DA LEI N. 8.429/92. APLICABILIDADE DA LEI N. 8.429/92 AOS AGENTES PÚBLICOS. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO DO JUIZ PARA DEFERIR OU REJEITAR A PRODUÇÃO DE PROVAS. INEXISTÊNCIA DE OMISSÃO OU VÍCIO DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO.
+I - Trata-se, na origem, de ação rescisória visando à desconstituição do trânsito em julgado de acórdão por meio do qual a agravante foi condenada pela prática de ato de improbidade administrativa. No Tribunal a quo, o recurso foi julgado improcedente.
+II - O recorrente alega violação dos arts. 11, 336, 350, 357, 369, 371, 373, 438, I e 1.022, II e parágrafo único, II, c/c o art. 489, § 1º, IV e V, todos do CPC/15, e do artigo 2º da Lei n. 8.429/92.
+III - Quanto à apontada omissão atinente à inaplicabilidade da Lei de Improbidade Administrativa aos prefeitos, cuida-se de argumentação que não tem substância. O Tribunal Regional Federal, aplicando o entendimento consolidado no Supremo Tribunal Federal e no Superior Tribunal de Justiça, discorreu claramente sobre a aplicabilidade da Lei n. 8.429/92 aos agentes públicos. Sobre o assunto, destaca-se o seguinte precedente desta Corte Superior: EREsp 1344725/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 27/3/2019, DJe 1/4/2019.
+IV - A alegação de cerceamento de defesa por indeferimento da produção de provas também foi refutada em decisão devidamente fundamentada pelo Tribunal de origem. O acórdão ressaltou corretamente que o juiz possui livre convencimento para deferir ou rejeitar a produção de provas.
+V - Ainda que assim não fosse, rever se o indeferimento da produção de provas acarretou cerceamento da defesa implicaria revolvimento do conjunto fático probatório, o que encontra óbice do enunciado da Súmula 7 do STJ.
+Vejam-se precedentes: AgInt no AREsp 1410272 / GO, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/5/2019, DJe 23/05/2019; AgInt no REsp 1678327 / MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 26/2/2019, DJe 1/3/2019.
+VI - Em conclusão, não houve omissão ou vício de fundamentação do acórdão recorrido, nem tampouco é possível sindicar a avaliação do Tribunal de origem quanto ao tema correção ou não do indeferimento de provas na ação originária, uma vez que implicaria, claramente, em incursão no conjunto fático-probatório.
+VII - Agravo interno improvido.
+(AgInt no AREsp 1.457.439/BA, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 1º/10/2019, DJe 3/10/2019).
+Diante desse contexto, inafastável aSúmula 7/STJ no caso em análise.
+Acrescento que a incidência da Súmula 7/STJ impede o conhecimento do recursolastreado, também, pela alínea c do permissivo constitucional, na medida emque falta identidade entre os paradigmas apresentados e osfundamentos do acórdão recorrido, tendo em vista a situação fáticade cada caso.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
