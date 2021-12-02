@@ -1,0 +1,32 @@
+DECISÃO
+A parte interpôs Recurso Especial contra acórdão da Corte Especial assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DISSENSO QUANTO A REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. IMPOSSIBILIDADE. ACÓRDÃO PARADIGMA PROFERIDO POR TURMA QUE NÃO MAIS POSSUI COMPETÊNCIA REGIMENTAL PARA A MATÉRIA. IMPOSSIBILIDADE DE UTILIZAÇÃO COMO PARADIGMA. SÚMULA 158 DO STJ.
+1. Os paradigmas AREsp 1.672.043/RS e REsp 1.140.662/RS, proferidos, respectivamente, pelas Quarta e Sexta Turmas, não examinaram o mérito recursal em virtude da aplicação das Súmula 5 e 7/STJ. Portanto, os citados julgados não servem para comprovar a divergência quanto à controvérsia, nos termos do disposto no arts. 1.043 do CPC/2015 e 266 do RISTJ.
+2. Além disso, quanto à divergência jurisprudencial suscitada em relação aos paradigmas REsp 1.140.662/RS, AgRg no Ag 795.201/RS e REsp 1.103.105/RJ, todos da Sexta Turma, cumpre observar que eles não servem para justificar o dissídio. Isso porque, desde a edição da Emenda Regimental 14/2011, a Quinta e a Sexta Turmas, que compõem a Terceira Seção do STJ, passaram a ter jurisdição somente em questões de Direito Penal e Processual Penal, não sendo mais competentes para processar e julgar a matéria objeto da divergência em análise, consoante a Súmula 158 do STJ: "Não se presta a justificar embargos de divergência o dissídio com acórdão de Turma ou Seção que não mais tenha competência para a matéria neles versada."
+3. Agravo Interno não provido.
+A parte pleiteia:
+Outrossim, o Recorrente requer seja CONHECIDO E DADO PROVIMENTO AO PRESENTE RECURSO ESPECIAL para, restabelecendo o império da Lei Federal, que seja reformado o v.Acórdão do Egrégio Tribunal de Justiça do Estado de São Paulo, para o fim de:
+a) Preliminarmente, seja reconhecida a nulidade dos atos processuais firmados após o falecimento da Recorrida Mônica, ou seja, após 05/02/2021, não informado por seu procurador, como lhe competia;
+b) Dar eficácia e abrangência ao disposto no artigo 1.043, III, do Código de Processo Civil, reconhecendo o cabimento dos Embargos de Divergência e, consequentemente, a divergência consistente no acórdão embargado e o paradigma AREsp 1.672.043/ RS,reformando a decisão que deu provimento ao Recurso Especial da Recorrida após a oposição do 2º Embargos de Declaração da Decisão que não o conheceu (ARESP).
+É o relatório.
+Decido.
+O Recurso Especial é manifestamente inadmissível, porquanto não está caracterizada nenhuma das hipóteses do art. 105, III, da CF que autoriza sua interposição.
+Não cabe examinar alegada nulidade decorrente de citadofalecimento da parte recorrida. Diante dos princípiosdo pas nullité sans grief eda instrumentalidade das formas, insculpido no artigo 289, § 2º, do CPC/2015, não faz sentido pronunciar a nulidade, nem mandar repetir o ato nulo, quando a nulidade aproveita àrecorrida, e não ao recorrente.
+Além disso, a jurisprudência do STJ é de que a nulidade deve ser alegada na primeira oportunidade, conforme art. 278 do CPC/2015, sendo inadmissível a nulidade de algibeira.
+Nessa linha:
+ADMINISTRATIVO - RECURSO ESPECIAL - DESAPROPRIAÇÃO - PRELIMINAR DE NULIDADE AFASTADA - ART. 33, § 2º, DO DL 3.365/41 - LEVANTAMENTO DE 80% DO DEPÓSITO - INCIDÊNCIA SOBRE A QUANTIA INICIALMENTE DEPOSITADA, ACRESCIDA DO DEPÓSITO COMPLEMENTAR PARA FINS DE IMISSÃO NA POSSE.
+1. O Superior Tribunal de Justiça, ao conferir a correta interpretação ao direito infraconstitucional, não deve desprezar os princípios da instrumentalidade das formas e, bem assim, da celeridade processual, devendo adotar a interpretação do art. 249, § 2º, do CPC, segundo o qual "não se deve decretar a nulidade do julgado quando puder decidir o mérito em favor da parte a quem aproveita a declaração".
+2. O § 2º do art. 33 do Decreto-Lei 3.365/41 faculta ao desapropriado o levantamento de até 80% (oitenta por cento) do depósito realizado para o fim previsto no seu caput (pagamento do preço fixado por sentença) e no art. 15 de mesmo diploma legal (quantia arbitrada para fins de imissão provisória na posse).
+3. Entende-se por "quantia arbitrada para fins de imissão provisória na posse" o valor inicialmente depositado acrescido, se for o caso, do depósito complementar obtido mediante avaliação judicial provisória.
+4. Recurso especial não provido.
+(REsp 1.181.868/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 17/5/2010)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. ADVOGADO SEM PROCURAÇÃO NOS AUTOS. DESOBEDIÊNCIA AO DISPOSTO NOS ARTS. 76, § 2º, E 932, PARÁGRAFO ÚNICO, AMBOS DO NCPC. REPRESENTAÇÃO PROCESSUAL NÃO REGULARIZADA. PRECLUSÃO. ARGUIÇÃO DA NULIDADE SOMENTE APÓS RESULTADO DESFAVORÁVEL NO PROCESSO. CONFIGURAÇÃO DE NULIDADE DE ALGIBEIRA.VIOLAÇÃO DO PRINCÍPIO DA BOA-FÉ PROCESSUAL. NULIDADE ABSOLUTA NÃO COMPROVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Conforme o disposto nos arts. 76, § 2º, I, e 932, parágrafo único, ambos do NCPC, não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual.
+3. O Superior Tribunal de Justiça considera inexistente o recurso no qual o advogado subscritor não possui procuração ou substabelecimento nos autos, consoante a aplicação da Súmula nº 115 desta Corte.
+4. Esta Corte de Justiça, em diversas oportunidades, tem exarado a compreensão de que a suscitação tardia da nulidade, somente após a ciência de resultado de mérito desfavorável e quando óbvia a ciência do referido vício muito anteriormente à arguição, configura a chamada nulidade de algibeira, manobra processual que não se coaduna com a boa-fé processual e que é rechaçada pelo Superior Tribunal de Justiça inclusive nas hipóteses de nulidade absoluta (REsp 1.714.163/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 24/9/2019, DJe 26/9/2019).
+5. Agravo interno não provido.
+(AgInt no AREsp 1.561.078/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 1º/7/2020)
+Ante o exposto, transcorridoo prazo recursal do aresto de fls. 820-826 e certificado o trânsito em julgado do recurso, devem os autos ser arquivados.
+Publique-se.
+Intimem-se.
