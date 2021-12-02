@@ -1,0 +1,15 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ELIUD DE SOUZA LOPES contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+Direito do consumidor. Plano de saúde coletivo empresarial.Rescisão unilateral do plano empresarial pela operadora.Regularidade da rescisão reconhecida em decisão judicial que transitou em julgado. O art. 17 da Resolução nº 195/09 da ANS estabelece que "os contratos de planos privados de assistência à saúde coletivos por adesão ou empresarial somente poderão ser rescindidos imotivadamente após a vigência do período de doze meses e mediante prévia notificação da outra parte com antecedência mínima de sessenta dias". Ausência de abusividade na resilição do contrato. Possibilidade de migração para plano de saúde individual que não integra a causa de pedir da autora, não podendo nesta sede ser examinada.Improcedência da demanda que se impõe. Recurso a que se dá provimento.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente,ofensa ao disposto noart.13, parágrafo único, II da Lei 9.656/98 e do art. 22 do CDC e art. 1.022, II do CPC, alegando em síntese, omissão no acórdão recorrido, que a operadora de plano de saúde coletivo tem o dever jurídico de viabilizar a migração dos seus participantes para planos de saúde individual, conformeTema 1.034.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 908.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. O acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor.
+A subsistência de fundamento inatacados aptos a manter a conclusão do aresto impugnado, qual seja: a vedação trazida pelo art 13, II da Lei n.9.656/98, veda a rescisão unilateral exclusivamente para os casos de contrato individual de assistência médica e que o art. 22 do CDC, exige a continuidade no fornecimento de serviço, trata de serviço essencial prestado por órgãos públicos, por si ou suas empresas, concessionárias, ou permissionárias, que não é o caso dos autos, de prestação de serviço de saúde por empresas particulares.
+Assim,impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
