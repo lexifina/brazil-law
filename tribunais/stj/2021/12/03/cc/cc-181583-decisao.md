@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado nos autos de pedido de Alvará Judicial formulado por MARIA DAS GRAÇAS TAVARES PINTO e OUTROS em face da CAIXA ECONÔMICA FEDERAL, objetivando o saque de quantia depositada em conta bancária pertencente ao falecido marido da primeira requerente, pai dos demais co-requerentes.
+Inicialmente o processo foi distribuído ao Juízo de Direito da 2ª Unidade Jurisdicional da Fazenda Pública do Juizado Especial da Comarca de Belo Horizonte/MG, ora suscitado, quedeclinou da competência por entender que, tratando-se a CAIXA ECONÔMICA FEDERAL de uma empresa pública, o feito deve ser processado e julgado na Justiça Federal (fls. 11/13).
+A seu turno, o Juízo da 33ª Vara Federal do Juizado Especial Cível de Belo Horizonte - SJ/MG, ora suscitante,também declinou da competência sob o fundamento de que "tratando-se de ação de jurisdição voluntária, mesmo que estejam figurando em um dos pólos as entidades mencionadas no art. 109, I, da CF/88, são de competência da Justiça Comum dos Estados. Somente no caso de oposição do ente federal, se justifica o deslocamento de competência à Justiça Federal" (fl. 16).
+O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República BRASILINO PEREIRA DOS SANTOS, opinou pelo conhecimento do presente conflito, para que seja declarado competente para processar e julgar a demanda o Juízo de Direito da 2ª Unidade Jurisdicional da Fazenda Pública do Juizado Especial da Comarca de Belo Horizonte/MG, ora suscitado (fls. 24/26).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Conheço do conflito, porquanto suscitado entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal.
+Dito isto, é firme o entendimento desta Corte nos sentido de que"em casos de pedido de expedição de alvará judicial, procedimento de jurisdição voluntária, é competente a Justiça estadual"(CC 117.499/PI, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 06/09/2011).
+ANTE O EXPOSTO, conheço do conflito para declarar competente para processar e julgar a causao Juízo de Direito da 2ª Unidade Jurisdicional da Fazenda Pública do Juizado Especial da Comarca de Belo Horizonte/MG, ora suscitado.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se. Cumpra-se.
