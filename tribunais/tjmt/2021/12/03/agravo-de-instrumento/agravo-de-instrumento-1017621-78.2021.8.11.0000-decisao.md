@@ -1,0 +1,39 @@
+RECURSO DE AGRAVO DE INSTRUMENTO – AUTOS N. 1017621-78.2021.8.11.0000 – COMARCA DE NOVA MUTUM/MT
+Agravante: Estado de Mato Grosso
+Agravado: Biomas – Reaproveitamento de Vegetais Ltda.
+Visto.
+Cuida-se de agravo de instrumento com pedido de efeito suspensivo interposto pelo Estado de Mato Grosso contra decisão interlocutória proferida pelo Juízo da 2a Vara da Comarca de Nova Mutum que, nos autos de execução fiscal n. 1001425-03.2020.8.11.0086, movida em face de Biomas Reaproveitamento de Vegetais Ltda., reconheceu a prescrição dos créditos constituídos no ano de 2014, tendo recebido a inicial em relação ao crédito tributário constituído em 07/08/2015 e determinado as providências de cunho legal.
+Segundo o agravante, a Certidão de Dívida Ativa objeto da execução possui oito lançamentos, dos quais sete foram realizados no ano de 2014, e um no ano de 2015, sendo que o magistrado de instância singela não teria se atentado para o termo inicial correto para delimitação do prazo prescricional.
+Assegura que a data da constituição definitiva do crédito ocorreu em 10/08/2017, com a conclusão do processo administrativo pertinente ao Aviso de Cobrança n. 1821122.
+Dessa forma, sustenta que não houve consumação da prescrição pertinente a nenhum fato gerador constante da CDA em tela, uma vez que a execução fiscal foi ajuizada dentro do quinquênio legal – 17/06/2020.
+Discorre sobre os requisitos para a concessão da tutela antecipada recursal, alegando que estão presentes o fumus buni iuris e o periculum in mora, este último fundado no fato do Estado ver a execução fiscal frustrada por não alcançar seu objetivo de satisfazer o valor integral da CDA, inclusive em decorrência de eventual prescrição intercorrente.
+Assim, requer seja atribuído o efeito suspensivo almejado e, no mérito, o provimento do recurso para reformar a decisão agravada.
+É o relatório.
+Decido.
+Para a concessão da liminar em sede recursal, necessária se faz a presença dos requisitos exigidos pelos artigos 1.019, inciso I, e 995, parágrafo único, ambos do Código de Processo Civil, quais sejam, a probabilidade de provimento do recurso e de risco de dano grave, de difícil ou impossível reparação.
+Extrai-se dos autos da ação de base que a Fazenda Pública Estadual pretende o recebimento de créditos tributários decorrentes de operações e prestações escrituradas nos livros fiscais, pela falta de recolhimento de a menor do ICMS – infração 2.1.1, bem como pela falta de recolhimento de Taxa de Incêndio (Tacin) – infração 19.10.1, inscritas na CDA no 2017472019, a qual possui seguintes lançamentos:
+a) Fato gerador 02/2014 – Constituição do Crédito 06/03/2014 – Valor R$ 19.080,02;
+b) Fato gerador 05/2014 – Constituição do Crédito 06/06/2014 – Valor R$ 20.052,92;
+c) Fato gerador 06/2014 – Constituição do Crédito 06/07/2014 – Valor R$ 10.161,51;
+d) Fato gerador 07/2014 – Constituição do Crédito 06/08/2014 – Valor R$ 13.275,75;
+e) Fato gerador 08/2014 – Constituição do Crédito 06/09/2014 – Valor R$ 6.980,58;
+f) Fato gerador 09/2014 – Constituição do Crédito 06/10/2014 – Valor R$ 682,62;
+g) Fato gerador 03/2014 – Constituição do crédito 01/05/2014 – Valor R$ 1.111,20;
+h) Fato gerador 07/2015 – Constituição do Crédito 07/08/2015 – Valor 1.311,25.
+A controvérsia reside na prescrição ou não dos créditos constituídos no ano de 2014, que, segundo observado no relatório de atualização do débito, se referem à infração 2.1.1, isto é, operações e prestações escrituradas nos livros fiscais, pela falta de recolhimento de a menor do ICMS.
+In casu, o magistrado de instância originária entendeu que as evidências são de que operou no caso concreto a prescrição, uma vez que o prazo prescricional de 05 (cinco) anos passa a fluir com a constituição definitiva do crédito (2014), à luz da regra contida no art. 174 do Código Tributário Nacional.
+Sucede, todavia, que nos tributos sujeitos à lançamento por homologação, como é o caso do ICMS (hipótese correspondente à infração 2.1.1), quando o contribuinte não antecipar o pagamento nem fizer a declaração do débito, o Fisco terá o prazo decadencial de 05 anos para fazer o lançamento de ofício a partir do fato gerador, cuja constituição definitiva do crédito tributário se dá com a notificação do sujeito passivo acerca do lançamento, quando tem início o prazo prescricional.
+Nesse sentido se posiciona o Superior Tribunal de Justiça:
+“PROCESSUAL CIVIL. TRIBUTÁRIO. PRESCRIÇÃO. AUTO DE INFRAÇÃO. INÍCIO DA PRESCRIÇÃO DA DEMANDA COM A NOTIFICAÇÃO DO CONTRIBUINTE ACERCA DA CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. TERMO INICIAL DA FLUÊNCIA DA PRESCRIÇÃO. NOTIFICAÇÃO DO LANÇAMENTO TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. PRECEDENTES. I - Na origem, trata-se de ação de execução ajuizada pela Fazenda Pública do Estado de Rondônia objetivando o recebimento de valores que entende devidos relativos ao ICMS. II - Não havendo, no acórdão recorrido, omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do Código de Processo Civil de 1973. III - Sobre o tema, esta Corte Superior de Justiça firmou compreensão de que, uma vez constituído o crédito tributário pela notificação do auto de infração, não há falar em decadência, mas em prescrição, cujo termo inicial é a data da constituição definitiva do crédito, que se dá, nos casos de lançamento de ofício, quando não couber recurso administrativo ou quando se houver esgotado o prazo para sua interposição. Precedentes: AgRg no AREsp 800.136/RO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/2/2016, DJe 2/3/2016; EDcl no AgRg no AREsp 439.781/RO, Rel. Ministro Humberto Martins, Segunda Turma, DJe 31/03/2014; EDcl no AREsp 197.022/RS, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 20/03/2014; e AgRg no AREsp 424868/RO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 25/6/2014. IV - Agravo interno improvido. (AgInt no REsp 1616541/RO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/12/2017, DJe 14/12/2017).
+A propósito, colha-se também o entendimento deste Tribunal:
+“AGRAVO DE INSTRUMENTO – EXCEÇÃO DE PRÉ-EXECUTIVIDADE – ICMS - LANÇAMENTO DE OFÍCIO – TERMO FINAL – NOTIFICAÇÃO DO SUJEITO PASSIVO – PRESCRIÇÃO – NÃO OCORRÊNCIA – PROSSEGUIMENTO DA EXECUÇÃO FISCAL – DECISÃO MANTIDA - RECURSO DESPROVIDO. ‘O crédito referente ao ICMS não declarado e nem pago será lançado de ofício, com o prazo decadencial nos termos da regra do art. 173, I, do CTN e sua constituição se dá com a notificação do sujeito passivo do lançamento. Deve ser afastada a prescrição da pretensão executiva, quando não evidenciado o escoamento do prazo de cinco (5) anos, entre a data de constituição do crédito e a da distribuição da ação, observadas as hipóteses elencadas no artigo 174 do Código Tributário Nacional.” (AI 124014/2014, DRA. VANDYMARA G. R. P. ZANOLO, TERCEIRA CÂMARA CÍVEL, Julgado em 05/05/2015, Publicado no DJE 12/05/2015)
+No presente caso, a princípio, infere-se que a decisão guerreada confundiu a data de ocorrência do fato gerador e de vencimento para o pagamento do tributo com a data da constituição definitiva do respectivo crédito.
+De fato, extrai-se da Certidão de Dívida Ativa que os fatos geradores do imposto em questão ocorreram em 2004, porém, o crédito foi constituído definitivamente por meio do Aviso de Cobrança n. 1821122, em 10/08/2017, vindo a ser ajuizada a execução fiscal em 17/06/2020.
+Logo, nesta fase de cognição sumária, é de se admitir que não houve o transcurso do prazo quinquenal entre a constituição definitiva do crédito e o ajuizamento da ação, não havendo falar, aparentemente, em prescrição na hipótese.
+Assim, defiro o efeito suspensivo almejado.
+Comunique-se o juízo de origem.
+Intime-se o agravado para apresentar contrarrazões, no prazo de 15 (quinze) dias.
+Às providências.
+Cuiabá/MT, data da assinatura digital.
+Alexandre Elias Filho
+Relator Convocado
