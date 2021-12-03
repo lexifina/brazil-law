@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado pela Agência Nacional de Saúde Suplementar (ANS) contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 155):
+DIREITO PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EXTINÇÃO A PEDIDO, EM RAZÃO DE PAGAMENTO. ALEGAÇÃO DE QUE HOUVE EQUÍVOCO E QUE O DÉBITO REFERENTE AOS JUROS SUBSISTE. PRECLUSÃO TEMPORAL. RECURSO DESPROVIDO.
+1. Informado pela exequente o pagamento do débito executado é correta a extinção da execução fiscal, nos termos do artigo 924, II, CPC, não configurando erro material a constatação posterior de que o fato jurídico alegado não ocorreu.
+2. O erro material, corrigível até mesmo de ofício pelo juiz, diz respeito a vícios como erro de cálculo, erro na grafia de palavras ou expressões, não permitindo, porém, a correção de manifestação quanto à situação fático-jurídica, após proferida com base nela ato processual, como ocorrido na espécie.
+3. Afirmar que houve pagamento envolve declaração de relevo e importância jurídico-processual e, portanto, não cabe escusa fundada em erro material, pois importaria em criar insegurança jurídica no processo, ao afastar o princípio da preclusão com risco de graves alterações fático-jurídicas a qualquer tempo no curso do processo, bastando que se alegue erro material sempre que conveniente.
+4. Apelação desprovida.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 494, I, do CPC. Sustenta que é cabível a correção de erro material na sentença de piso, porquanto, na espécie, foi declarada extinta a execução fiscal quando "documentalmente, está comprovado nestes autos, que o débito não foi quitado." (fl. 167).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A insurgência não prospera.
+Ao dirimir a controvérsia, a Corte regional consignou (fls. 153/154):
+Senhores Desembargadores, proposta execução fiscal, em 06/10/2016, houve citação do executado em 16/12/2016 (ID 108028091, f. 18), que peticionou pelo pagamento parcelado do débito, com depósito de 30% do valor da execução, o que foi deferido em 02/05/2017 (ID 108028091, f. 50/51).
+Instada sobre eventual quitação do débito, a exequente requereu a conversão em renda do montante depositado. Transmitidos os valores, a exequente requereu a extinção da execução fiscal em face da quitação da dívida (ID 108028091, f. 85/87).
+O pedido de reforma é infundado.
+Com efeito, foi expressa a manifestação da ANS no sentido de "requerer a extinção e o arquivamento da presente execução em face da quitação da dívida" (ID 108028091, f. 85/87), dispondo o artigo 200, CPC, que "os atos das partes consistentes em declarações unilaterais ou bilaterais de vontade produzem imediatamente a constituição, modificação ou extinção de direitos processuais".
+Trata-se de preclusão que impede seja o pedido, acolhido por sentença, rediscutido, como ora se pretende, menos ainda a título de erro material, que se refere a erro de cálculo ou inexatidão material, mas não abrange a hipótese de erro de fato ou de direito.
+(..)
+De fato, o erro material, corrigível até mesmo de ofício pelo juiz, diz respeito a vícios como erro de cálculo, erro na grafia de palavras ou expressões, não permitindo, porém, a correção de manifestação quanto à situação fático-jurídica, após proferida com base nela ato processual, como ocorrido na espécie.
+Afirmar que houve pagamento envolve declaração de relevo e importância jurídico-processual e, portanto, não cabe escusa fundada em erro material, pois importaria em criar insegurança jurídica no processo, ao afastar o princípio da preclusão com risco de graves alterações fático-jurídicas a qualquer tempo no curso do processo, bastando que se alegue erro material sempre que conveniente.
+Verifica-se que a Instância a quo, com base em premissas fáticas, concluiu que o erro apontado pela ANS não se caracterizava como erro material. Assim, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se houve erro material decorrente de alegado equívoco nadeclaração de quitação da dívida,demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
