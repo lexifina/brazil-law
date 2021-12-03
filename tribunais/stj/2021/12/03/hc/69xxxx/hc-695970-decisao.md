@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim ementado (fl. 26):
+HABEAS CORPUS. ARTIGO 157, PARÁGRAFO 2º, INCISO II DO CÓDIGO PENAL. SENTENÇA CONDENATÓRIA. FIXAÇÃO DE REGIME FECHADO. MANUTENÇÃO DA PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO. CUSTÓDIA DEVIDAMENTE JUSTIFICADA. RISCO DE REITERAÇÃO DELITIVA. NECESSIDADE DE RESGUARDAR A APLICAÇÃO DA LEI PENAL. PACIENTE QUE RESPONDEU TODO PROCESSO SOB CUSTÓDIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+Consta dos autos que apaciente foi condenada à pena de 7 anos, 2 meses e 12 dias de reclusão e mais 17 dias-multapela prática docrimedescritonoart. 157, § 2º, II do Código de Penal, sendo mantida sua prisão preventiva.
+Sustenta oimpetrante, em síntese, ausência dos requisitos ensejadores da prisão preventiva.
+Requer, liminarmente, a concessão de liberdade provisória até mesmo com a imposição de medidas cautelares diversas da prisão para que aguarde em liberdade o julgamento dos recursos interpostos contra a sentençae, no mérito, a concessão da ordem em definitivo.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público manifestou-se pelo não conhecimento ou, se conhecido, pela denegação da ordem.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Consta do autos que o Juizsentenciante manteve a prisão preventiva pelos seguintes fundamentos(fls. 48/49):
+Da manutenção da prisão preventiva:
+Diante do contido no §1º, do artigo 387, do Código de Processo Penal, mantenho a decisão de decretação da prisão preventiva da ré, pois a manutenção em custódia é justificável porque a materialidade e a autoria delitivas restaram amplamente comprovadas, verificando-se, portanto, os preceitos primários da constrição cautelar (fummus comissi delicti e periculum libertatis).
+A manutenção da prisão preventiva justifica-se, igualmente, pela necessidade de conservação da Paz Social, devendo ser observado, inclusive, que ela é reincidente específica, indicando, assim, a iminente reiteração delituosa e gerando risco direto à ordem pública. Tais circunstâncias revelam, ainda, o descompromisso da réem questão com a aplicação da Lei Penal, o que, somado aos demais elementos já mencionados, torna imperiosa a manutenção das constrições cautelares.
+Como já adiantado no exame da liminar, consta da decisão de manutenção daprisão fundamentação válida,evidenciadana reiteração delitiva, uma vez queela é reincidente específica, indicando, assim, a iminente reiteração delituosa e gerando risco direto à ordem pública.
+A periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Havendo, portanto, a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n.325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel.Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
