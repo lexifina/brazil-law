@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCO ANTÔNIO DE OLIVEIRA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação n. 1501320-79.2019.8.26.0540.
+Consta dos autos que o Juízo da 1.ª Vara Criminal da Comarca de Mauá/SP acolheu a pretensão punitiva estatal para condenar o Paciente pela prática do crime previsto no art. 155, § 4.º, inciso IV, combinado com o art.14, inciso II, ambos do Código Penal, à pena de 2 (dois) anos, 1 (um) mês e 27 (vinte e sete) dias de reclusão, no regime inicial fechado, além de 9 (nove) dias-multa, sendo o valor do dia-multa de 1/30 (um trinta avos)do salário mínimo (fls. 24-27).
+O Tribunal de origem, no acórdão impugnado, deu parcial provimento à apelação para diminuir as penas a 1 (um) ano, 4 (quatro) meses, 24 (vinte e quatro) dias de reclusão e 6 (seis) dias-multa e modificar o regime inicial ao semiaberto, mantida, no mais, a sentença (fls. 29-32).
+No presente writ, sustenta o cabimento do regime inicial menos gravoso para o início do cumprimento da pena privativa de liberdade.
+Busca, assim, em liminar, a suspensão de cumprimento do acórdão e, no mérito, a fixação do regime aberto.
+É o relatório. Decido.
+Procedo ao julgamento imediato do pedido, isso porque " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria"(AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No caso, a Corte estadual manteve a sentença que fixou o regime inicial semiaberto para o cumprimento da pena do Paciente,nos seguintes termos (fls. 31-32):
+"No tocante ao regime, possível a fixação do semiaberto, em que pese a reincidência, observada a Súmula/STJ, nº269, tanto pela quantidade de pena, ausência de violência e, ainda, como estímulo à ressocialização, mas não a concessão do privilégio do § 2º e substituição por restritivas de direitos - a despeito do CP, art. 44, § 3º -, porque não se mostraria socialmente recomendável e suficiente à prevenção e repressão do delito, assim como o sursis, mormente porque já condenado por crimes de receptação."
+Com efeito, o acórdão recorrido está em conformidade com a jurisprudência desta corte Superior, que orienta no sentido de que "em se tratando de condenado reincidente, ainda que a pena final seja inferior a 4 (quatro) anos e não haja circunstâncias judiciais desfavoráveis, é vedada a fixação do regime aberto, por imperativo legal constante do art. 33, § 2.º, alínea c, do Código Penal, sendo o regime prisional semiaberto o mais brando legalmente admitido"(AgRg no AREsp 1.776.666/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/03/2021, DJe 11/03/2021, sem grifos no original).
+No mesmo sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. EMBRIAGUEZ NA CONDUÇÃO DE VEÍCULO AUTOMOTOR. REGIME PRISIONAL SEMIABERTO. REINCIDÊNCIA ESPECÍFICA.
+1. Deve ser mantida a decisão monocrática em que se indefere liminarmente a inicial, quando não evidenciado manifesto constrangimento ilegal à liberdade de locomoção.
+2. Malgrado a pena-base tenha sido fixada no mínimo legal, em vista da favorabilidade das circunstâncias judiciais, com reprimenda final estabelecida em patamar inferior a 4 anos de detenção, tratando-se de réu reincidente, não há falar em fixação do regime prisional aberto, nos termos do art. 33, § 2º c, do Código Penal. Precedentes.
+3. Agravo regimental improvido."(AgRg no HC 549.500/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/02/2020, DJe 28/02/2020;sem grifos no original.)
+Ante o exposto, DENEGO A ORDEM.
+Publique-se.  Intimem-se.
+EMENTA
+HABEAS CORPUS.  PENAL  E  PROCESSUAL  PENAL.  TENTATIVA DE FURTO QUALIFICADO. RÉU REINCIDENTE. REGIME INICIAL SEMIABERTO.ORDEM DENEGADA.
