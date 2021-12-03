@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de WELLINGTON DOS SANTOS, no qual se indica como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, prolator de acórdão assim ementado (e-STJ, fls. 596-610):
+"APELAÇÃO CRIMINAL - JÚRI - HOMICÍDIOTENTADO - DECISÃO POPULAR DIVORCIADADA PROVA DOS AUTOS - CASSAÇÃO -SUBMISSÃO DO RÉU A NOVO JULGAMENTO -RECURSO MINISTERIAL PROVIDO.
+Restando manifestamente contrária a prova dosautos a decisão absolutória do Júri, impõe-se asua nulidade. Anula-se o julgamento para queoutro seja realizado.
+APELAÇÃO PROVIDA. DECISÃO UNÂNIME".
+Em suas razões, a parte impetrante alega que não seria possível a cassação, por manifesta contrariedade às provas dos autos, do veredito absolutório fundado no quesito genérico, mormente quando os jurados apenas optaram por uma das versões apresentadas em plenário.
+Liminar indeferida à fl. 1.326 (e-STJ) e parecer ministerialpela denegação da ordem às fls. 1.329-1.339 (e-STJ).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 - pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo, assim, à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão de habeas corpus de ofício -que, já adianto, deve ser deferida no presente caso.
+Sabe-se que, pela atual jurisprudência deste STJ, é cabível em tese a anulação do veredito absolutório, desde que a conclusão adotada pelos jurados esteja completamente dissociada de qualquer elemento de prova dos autos. Se, diferentemente, o júri apenas acata uma das versões apresentadas em plenário, o veredito não pode ser cassado pelo Tribunal, ainda que este não concorde com a conclusão dos jurados sobre o valor que deram às provas. A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 121, § 2º, III, DO CP.VÍCIO NA QUESITAÇÃO. NÃO ALEGAÇÃO NO MOMENTO OPORTUNO. PRECLUSÃO. ANÁLISE DO ELEMENTO SUBJETIVO DO TIPO. AFERIÇÃO DA EXISTÊNCIA DE CULPA CONSCIENTE OU DOLO EVENTUAL. COMPETÊNCIA DO TRIBUNAL DO JÚRI. QUALIFICADORA DO PERIGO COMUM. ALEGADO BIS IN IDEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. JULGAMENTO MANIFESTAMENTE CONTRÁRIO À PROVA DOS AUTOS. NÃO OCORRÊNCIA. REVISÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+5. A teor do entendimento desta Corte, não é manifestamente contrária à prova dos autos a decisão dos jurados que acolhe uma das versões respaldadas no conjunto probatório produzido, quando existente elemento probatório apto a amparar a decisão dos jurados.
+ ..
+7. Agravo regimental improvido".
+(AgRg no REsp 1885871/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 05/03/2021)
+No presente caso, como se colhe da ata da sessão de julgamento (e-STJ, fls. 29-31), a defesa expôs a tese de legítima defesa, que também foi narrada pelo próprio paciente em seu interrogatório. Essa informação também consta no acórdão recorrido (e-STJ, fl. 607), com uma distinção fundamental: enquanto o júri deu crédito à palavra do réu, considerando-a uma narrativa confiável a respeito dos fatos, o TJ/SE divergiu de sua conclusão, a partir da análise dos outros depoimentos colhidos em juízo (e-STJ, fls. 606-607).
+Ou seja: como admite o próprio Tribunal de origem, os jurados optaram por uma das linhas argumentativas - a da defesa. Por isso, consoante o entendimento jurisprudencial acima referenciado, não poderia a Corte local ter dado provimento à apelação doParquet.
+Não cabe a este STJ avaliar a procedência ou improcedência das teses e provas defensivas - e isso não se discute. A questão é quetambém não compete ao TJ/SE fazê-lo, pois é do júri a atribuição constitucional de examinar as provas dos autos e decidir pela absolvição ou condenação do réu. Para anular o veredito, o Tribunal local avocou para si a tarefa de valorar, amplamente, todos os elementos probatórios, inclusive rejeitando a tese de legítima defesa, mas sem demonstrar que tal argumento da defesa não encontraria suporte em nenhuma das provas dos autos.
+Em outras palavras, não basta que o Tribunal aponte elementos de prova favoráveis à argumentação doParquet;para se anular um veredito favorável ao réu, é preciso que os julgadores expliquem que a tese defensiva não corresponde anenhumelemento de prova, e isso não foi feito pelo TJ/SE.
+Se estivéssemos diante de outro crime, certamente seria válida avaloração sobre as provas feita pela Corte local. No entanto, no específico caso de homicídio doloso, é ao júri que cabe o ônus de examinar as provas e sobre elas decidir.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus, mas concedo a ordem de ofício, para restaurar a sentença absolutória.
+Publique-se. Intimem-se.
