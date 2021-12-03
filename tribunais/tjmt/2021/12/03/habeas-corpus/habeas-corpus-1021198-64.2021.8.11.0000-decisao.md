@@ -1,0 +1,20 @@
+Vistos etc.
+Trata-se de Habeas Corpus com pedido liminar impetrado em favor de Antônio Joao de Campos contra ato do Juízo da 3a Vara Criminal de Cáceres/MT., que o estaria submetendo a constrangimento ilegal, diante da inobservância do prazo de 24 horas após a realização da prisão para o juiz promover audiência de custódia.
+Alega-se, ainda, que sequer houve pedido da autoridade policial ou do Ministério Público para conversão do flagrante em prisão preventiva e defende que inexistiu situação de flagrante a ensejar a prisão do paciente, pois, inexistentes quaisquer das situações elencados no art. 302 do CPP.
+Por fim, sustenta a inocência do paciente ou atipicidade da sua conduta (Id. 110610964).
+Anexou-se documentos (Id. 110610963).
+Em plantão judiciário o pedido liminar foi indeferido, contudo, o impetrante pleiteia sua reconsideração (Id. 110655994).
+Extrai-se do Boletim de Ocorrência e declarações das testemunhas que a vítima procurou os policiais e lhes informou que estava sendo ameaçada em seu local de trabalho por alguns indivíduos que se declararam membros da facção criminosa conhecida como Comando Vermelho. Na ocasião, eles teriam afirmado à vítima que, se não entrassem num acordo, ela deveria fechar as portas de seu comércio, porque estavam ali para “organizar e resolver toda essa situação deles”. Com a chegada dos policiais, a vítima lhe informou que os indivíduos criminosos haviam saído dali em um veículo Voyage prata, placa OAT1223; em seguida, os agentes da Lei avistaram o veículo apontado pela vítima e realizaram a abordagem dos indivíduos que se encontravam no seu interior, sendo eles: Jean Carlos Jose Soares, Danyllo de Souza Guedes e o paciente.
+Assim, os sujeitos foram presos em flagrante delito pela suposta autoria dos crimes de Extorsão majorada (art. 158, § 1o, CP) e Associação criminosa (art. 288, CP).
+Primeiramente, importante consignar que, após a impetração, fora devidamente realizada a audiência de custódia, ocasião em que a prisão em flagrante do paciente foi convertida em preventiva, nos termos da decisão colacionada ao Id. 111226953.
+Portanto, fica prejudicada a irresignação do impetrante quanto ao excesso de prazo para submissão do paciente à audiência de custódia, até mesmo porque acompanho o entendimento sedimentado pelo STJ de que “"a conversão do flagrante em prisão preventiva torna superada a alegação de nulidade relativamente à falta de audiência de custódia" (RHC 117.991/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/12/2019, DJe 19/12/2019). (...)” (AgRg no RHC 151.227/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/09/2021, DJe 04/10/2021).
+Superada também a tese de ausência de pedido para decretação da prisão preventiva, pois, da ata de audiência de custódia extrai-se que o Parquet pleiteou a medida extrema de privação da liberdade.
+Quanto às alegações de que inexistiu qualquer situação de flagrância elencada no art. 302 do CPP, ao menos por ora, entendo de forma diversa, pois, os policiais civis que atenderam a ocorrência declaram na delegacia que logo após ouvirem os relatos da vítima quanto às ameaças sofridas, eles lograram êxito em localizar o paciente e seus comparsas, prendendo-os em flagrante delito. Ou seja, no momento em que haviam acabado de cometer o ilícito penal que lhes é imputado (“Art. 302. Considera-se em flagrante delito quem: (...) II - acaba de cometê-la”).
+Por fim, no concernente às alegações acerca da inocência do paciente ou de atipicidade da conduta, cediço que o Habeas Corpus, como ação constitucional de cognição sumária que é, não comporta o enfrentamento da tese de negativa de autoria ou atipicidade da conduta, pois a respectiva análise é estritamente meritória e deve ser feita perante o juízo de origem, durante a instrução criminal.
+Por todo o exposto, INDEFIRO o pedido de reconsideração.
+Com o aporte das informações judiciais, colha-se o parecer da PGJ e voltem-me os autos conclusos.
+Intimem-se.
+Cumpra-se.
+Cuiabá, 3 de dezembro de 2021.
+Rondon Bassil Dower Filho
+Relator
