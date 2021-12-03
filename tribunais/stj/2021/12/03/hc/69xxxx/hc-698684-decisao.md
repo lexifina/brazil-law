@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de GLEYDSON LUIZ DE OLIVEIRA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime fechado, como incurso no art. 288, parágrafo único, do CP.
+A defesa apresentou revisão criminal perante a Corte de origem, que julgou improcedente o pedido. Eis a ementa do julgado:
+"REVISÃO CRIMINAL - PENA-BASE EXACERBADA EM RAZÃO DAS PECULIARIDADES DA AÇÃO DELITIVA - QUADRILHA DESTINADA A ROUBO A BANCOS - INEXISTÊNCIA DE ERRO TÉCNICO EM DOSIMETRIA - LEI MAIS BENÉFICA AO AUTOR - MATÉRIA AFETA AO JUÍZO DA EXECUÇÃO - IMPROCEDÊNCIA DO PLEITO - Se a majoração da pena-base se dera em razão das peculiaridades da prática infracional, havendo tomado em consideração a magistrada a extensão dos crimes perpetrados por quadrilha especializada em roubo a bancos, descabido se mostra o pedido de redução da reprimenda aviado em sede revisional.
+- Cumpre ao Juízo da execução a aplicação da pena mais branda originária da superveniência de lei mais benéfica, nos moldes previstos no art. 66, I, da LEP."(e-STJ, fl. 44)
+Neste habeas corpus, o impetrante sustenta que, à exceção dos antecedentes, todas as demais circunstâncias judiciais valoradas de forma negativa carecem de fundamentação idônea.
+Aduz, ademais, que o aumento da pena-base foi desproporcional, sobretudo em razão de ficar próximo ao estabelecido para a pena máxima do delito (3 anos).
+Requer, assim, a concessão da ordem, a fim de que a pena do paciente seja ajustada para mais próximo ao mínimo legal.
+Sem pedido de liminar (e-STJ, fl. 52).
+O Ministério Público Federal opinou pelo não conhecimento do writ, mas pela concessão da ordem, de ofício (e-STJ, fls. 57-63).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+No tocante à dosimetria penal, consta da sentença condenatória:
+"IV. 3 - co-réu Gleidson
+Antecedentes
+O acusado tem péssimos antecedentes criminais, já respondendo processo por latrocínio (fls. 1.67/168).
+Culpabilidade
+A culpabilidade está elevada, o crime foi preparado há muito tempo e já se encontra sedimentado.
+Conduta Social
+A conduta social é boa (fls.99).
+Circunstâncias
+As circunstâncias foram graves, porque o acusado planejava novo assalto a banco no momento da prisão.
+Personalidade
+A personalidade está voltada para o crime, apresentando progressão nos crimes contra o patrimônio.
+Motivo
+O motivo deve aumentar a pena, porque o réu não apenas visava o lucro, mas fez do crime o meio de vida.
+Conseqüências
+As conseqüências foram graves, porque a associação possibilitou o envolvimento com vários delitos graves noticiados nos autos.
+Considerando cinco circunstâncias judiciais desfavoráveis, fixo a pena em 02 anos e 06 meses de reclusão, a qual aumento do dobro, por força do parágrafo único, do dispositivo legal, concretizando a pena em 05 (cinco) anos de reclusão, tornando-a definitiva na falta de outras condições legais."(e-STJ, fls. 27-28)
+A Corte de origem, por sua vez, assim se manifestou no julgamento da revisão criminal:
+"Tomando-se em consideração, portanto, a extensão e a gravidade dos crimes, não se tem por desarrazoada a metodologia fixada em sentença para a fixação da pena-base em dois anos e seis meses de reclusão, mostrando-se exacerbada a culpabilidade do autor justamente em face de prévio ajuste para a prática delitiva.
+Também não se tem por equivocado o dispositivo a considerar desfavoráveis as circunstâncias e a motivação do delito, referindo-se a magistrada ao planejamento de novos assaltos, evidenciando-se não só o propósito de lucro, mas, ainda, a adoção do crime como meio de vida.
+O envolvimento da associação em diversos delitos graves foram ressaltados pela magistrada ao propósito de avaliação das consequências do crime, tendo-se por pertinente, portanto, a quantificação da reprimenda nos moldes estabelecidos em sentença, ainda que não haja se submetido o autor a exame psicológico necessário a lhe aferir a personalidade."(e-STJ, fl. 45)
+A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Conforme se observa, a pena-base do paciente foi exasperada em 1 ano e 6 em razão da valoração negativa da culpabilidade, dos antecedentes, da personalidade dos motivos, das circunstâncias e consequências do crime.
+Contudo, da leitura atenta da decisão acima transcrita, verifica-se que não houve a indicação de elementos idôneos para subsidiar o incremento das penas iniciais pela aferição desfavorável dos vetores referentes à culpabilidade, à personalidade, motivos, circunstâncias e consequências do crime. Como cediço, argumentos genéricos e inerentes ao tipo penal em questão não servem para o agravamento penal.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO PRIVILEGIADO. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL. PERSONALIDADE VOLTADA À PRÁTICA DE CRIMES. FUNDAMENTO INIDÔNEO. FRAÇÃO DE 1/6 (UM SEXTO) DE AUMENTO. PROPORCIONALIDADE E RAZOABILIDADE. RECURSO DESPROVIDO.
+1. Na esteira da orientação jurisprudencial desta Casa, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. No caso, verificou-se ser inidôneo o aumento da pena-base, considerando desfavorável o vetor relativo à personalidade do agente, no sentido de que ele seria propenso à prática de crimes, pois, nos termos do entendimento firmado nesta Corte, mesmo "as diversas condenações pretéritas devem ser atreladas apenas aos maus antecedentes, afastando a valoração negativa da conduta social e da personalidade do réu, na primeira fase da dosimetria da pena"(AgRg no HC n. 377.016/SC, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 4/12/2018, DJe 14/12/2018), de modo que tal vetor foi afastado.
+3. Ademais, a jurisprudência desta Corte Superior de Justiça é no sentido de que é proporcional a fração de 1/6 (um sexto) de aumento, calculado a partir da pena mínima abstratamente prevista, para cada vetorial negativa considerada na fixação da pena-base.
+4. Agravo regimental desprovido."
+(AgRg no HC 626.522/PE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/02/2021, DJe 09/02/2021, grifou-se);
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO.PECULATO-DESVIO. DISPENSA ILEGAL DE LICITAÇÃO. DOSIMETRIA.CULPABILIDADE ACENTUADA. MAIOR GRAU DE CENSURA EVIDENCIADO.PERSONALIDADE DESVIRTUADA DO AGENTE. FUNDAMENTAÇÃO IDÔNEA.CIRCUNSTÂNCIAS DO CRIME. UTILIZAÇÃO DE ELEMENTOS INERENTES À PRÁTICA DELITIVA. IMPOSSIBILIDADE. CONSEQUÊNCIAS. CORRETA VALORAÇÃO DO EXPRESSIVO PREJUÍZO CAUSADO AO ERÁRIO. DESPROPORCIONALIDADE DO AUMENTO NA PRIMEIRA FASE DA DOSIMETRIA. INOCORRÊNCIA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ .. .
+5. As circunstâncias do crime devem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o fato delituoso. In casu, o modus operandi dos delitos não revela gravidade concreta superior à ínsita a tais crimes, não tendo sido declinada motivação concreta para a exasperação das penas por tal vetor. O desprezo pelo ordenamento jurídico e a certeza de que seus crimes não seriam descobertos e punidos são elementos inerentes à prática delitiva.
+6. Em relação às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se correta se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal. Na hipótese, o valor exorbitante do contrato, o qual foi desviado em curto espaço de tempo, gerando danos expressivos ao erário justifica a exasperação da pena-base.
+8. Writ não conhecido. Ordem concedida de ofício, a fim de reduzir a reprimenda do paciente para 6 anos, 8 meses e 15 dias de reclusão pela prática de peculato-desvio, mais 4 anos e 2 meses de detenção por dispensa indevida de licitações."
+(HC 633.480/AP, minha Relatoria, QUINTA TURMA, julgado em 23/02/2021, DJe 26/02/2021, grifou-se);
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO. AUMENTO DA PENA-BASE. POSSIBILIDADE. CIRCUNSTÂNCIAS NEGATIVAS. EMPREGO DE VIOLÊNCIA QUE EXTRAVASA O TIPO PENAL. MAJORANTES DO ROUBO. ALEGAÇÃO DE BIS IN IDEM. NÃO VERIFICAÇÃO. PENA-BASE EXASPERADA PELO MODUS OPERANDI (SOCOS NA FACE) E NÃO PELAS MAJORANTES. HABEAS CORPUS NÃO CONHECIDO.
+1. O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento do habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+2. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+3. Nesse contexto, elementos próprios do tipo penal, alusões à potencial consciência da ilicitude, à gravidade do delito, ao perigo da conduta, à busca do lucro fácil e outras generalizações sem suporte em dados concretos não podem ser utilizados para aumentar a pena-base.
+ ..
+6. Habeas corpus não conhecido."
+(HC 377.234/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2016, DJe 1/2/2017, grifou-se);
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. DECISÃO AGRAVADA. IMPUGNAÇÃO SUFICIENTE. RECONSIDERAÇÃO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA DO DELITO NEGATIVADA. INIDONEIDADE DO FUNDAMENTO. REDIMENSIONAMENTO. POSSIBILIDADE. SÚMULA 443/STJ. ILEGALIDADE FLAGRANTE. INCIDÊNCIA. REGIME PRISIONAL. SEMIABERTO. ART. 33, § 2º, b, do CP. AGRAVO REGIMENTAL PROVIDO.
+1. Impugnada suficientemente a decisão de inadmissão do recurso especial, deve ser conhecido o agravo.
+2. Embora não se preste o recurso especial à revisão da dosimetria da pena estabelecida pelas instâncias ordinárias, é plenamente possível o reexame nos casos de manifesta violação dos critérios dos arts. 59 e 68 do CP, de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica, sem que isso implique ofensa à Súmula 7/STJ.
+3. A fixação da pena-base deve ser fundamentada de forma concreta, idônea e individualizada, não sendo suficiente referências a conceitos vagos e genéricos, máxime quando ínsitos ao próprio tipo penal (AgRg no HC 243.350/MT, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/02/2017, DJe 09/02/2017).
+4. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado pelo emprego de arma de fogo e concurso de agentes, praticado anteriormente à vigência da Lei 13.654/2018, exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Incidência da Súmula 443/STJ.
+5. Reduzida a pena, impõe-se o regime semiaberto, nos termos dos arts. 33, § 2º, b, do CP.
+6. Agravo regimental provido para conhecer do agravo a fim de dar provimento ao recurso especial."
+(AgRg nos EDcl no AREsp 1669750/RO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/08/2020, DJe 14/08/2020, grifou-se).
+Desta feita, merece reparos a reprimenda.
+Passo à dosimetria da pena:
+Na primeira etapa, afastada a análise desfavorável da culpabilidade, da personalidade do agente, dos motivos, circunstâncias e consequências do crime e mantida apenas a valoração negativa dos antecedentes, fixo a pena-base em 1 ano e 3 meses de reclusão, adotando a fração ideal de 1/8 de aumento, calculada sobre o intervalo entre as penas mínima e máxima cominadas ao delito (1 a 3 anos).
+Na segunda etapa não existem circunstâncias atenuantes ou agravantes a considerar.
+Em vista da novatio legis in mellius trazida com a Lei n. 12.850/2013, a qual reduziu o quantum da causa de aumento do parágrafo único do art. 288 do Código Penal para1/2, na terceira fase majoro a pena em 1/2 e não mais no dobro, como previa a redação anterior. Assim, a reprimenda totaliza 1 ano, 10 meses e 15 dias e reclusão.
+Quanto ao regime prisional, a existência de circunstância judicial desfavorável autoriza a fixação do regime imediatamente mais gravoso que o cabível em razão da quantidade de pena aplicada. Portanto, em função dos maus antecedentes do paciente, fixo o regime inicial semiaberto para o cumprimento da pena, salvo se o pacienteestiver, por outro fato, descontando pena em regime mais severo.
+Por fim, nota-se que a dosimetria da pena dos corréus RIOMAR PEREIRA DOS SANTOS e MARCOS VINÍCIUS NOGUEIRA MARQUES foram idênticas à do paciente, de modo que, em atenção ao disposto no art. 580 do CPP, estendo os efeitos dessa decisão e refaço a dosimetria dos mesmos.
+Na primeira etapa, afastada a análise desfavorável da culpabilidade, da personalidade do agente, dos motivos, circunstâncias e consequências do crime e mantida apenas a valoração negativa dos antecedentes, fixo a pena-base em 1 ano e 3 meses de reclusão, adotando a fração ideal de 1/8 de aumento, calculada sobre o intervalo entre as penas mínima e máxima cominadas ao delito (1 a 3 anos).
+Na segunda etapa não existem circunstâncias atenuantes ou agravantes a considerar.
+Em vista da novatio legis in mellius trazida com a Lei n. 12.850/2013, a qual reduziu o quantum da causa de aumento do parágrafo único do art. 288 do Código Penal para 1/2, na terceira fase majoro a pena em 1/2 e não mais no dobro, como previa a redação anterior. Assim, a reprimenda totaliza 1 ano, 10 meses e 15 dias e reclusão.
+Quanto ao regime prisional, a existência de circunstância judicial desfavorável autoriza a fixação do regime imediatamente mais gravoso que o cabível em razão da quantidade de pena aplicada. Portanto, em função dos maus antecedentes dos corréus RIOMAR e MARCOS, fixo o regime inicial semiaberto para o cumprimento da pena, salvo se elesestiverem, por outro fato, descontando pena em regime mais severo.
+Ante o exposto, não conheço do habeas corpus. Conduto, concedo a ordem, de ofício, para redimensionar a sanção final da paciente para 1 ano, 10 meses e 15 dias de reclusão e fixar o regime inicial semiaberto, salvo se o paciente estiver, por outro fato, cumprindo pena em regime mais grave. Nos termos do art. 580 do CPP, estendo os efeitos dessa decisão aos corréus RIOMAR PEREIRA DOS SANTOS e MARCOS VINÍCIUS NOGUEIRA MARQUES, reduzindo-lhes a reprimenda final ao quantum de 1 ano, 10 meses e 15 dias de reclusão e fixando o regime semiaberto, salvo se estiverem descontando pena, por outro fato, em regime mais grave.
+Publique-se. Intimem-se.
