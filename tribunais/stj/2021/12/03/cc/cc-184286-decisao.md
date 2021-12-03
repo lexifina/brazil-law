@@ -1,0 +1,12 @@
+DECISÃO
+Viação Caiçara Ltda., em recuperação judicial, suscita o presente conflito positivo de competência, apontando como suscitados o Juízo de Direito da 1ª Vara de Falências e Recuperações Judiciais de São Paulo - SP e o Juízo de Direito da 10ª Vara do Juizado Especial Cível de Leopoldina - RJ.
+Alega a suscitante que o Grupo Itapemirim, do qual faz parte, ingressou com pedido de recuperação judicial (Processo n. 0006983- 85.2016.8.08.0024), sendo deferido, em 18/3/2016, seu processamento pelo Juízo de Direito da 13ª Vara Cível Especializada Empresarial de Recuperação Judicial e Falência de Vitória/ES, com a prorrogação do prazo de suspensão previsto no art. 6º, § 4º, da Lei n. 11.101/2005, até a realização da assembleia geral de credores.
+Afirma, também, que os autos do processo de soerguimento foram encaminhados ao Juízo da 1ª Vara de Falências e Recuperações Judiciais de São Paulo - SP e lá autuados sob o n. 0060326-87.2018.8.26.0100, ocasião em que se determinou a suspensão de todas as obrigações ou execuções em face do grupo recuperando, o qual a suscitante pertence.
+Não obstante a referida decisão de suspensão de todas as constrições havidas no patrimônio das empresas recuperandas, o Juízo de Direito da 10ª Vara do Juizado Especial Cível de Leopoldina - RJ, nos autos do Cumprimento de Sentença nº 0037470-51.2019.8.19.210, determinou o prosseguimento da execução contra a suscitante, em manifesta violação à competência do Juízo Recuperacional.
+Busca, assim, em caráter liminar, "a imediata suspensão dos autos do Cumprimento de Sentença de nº 0037470-51.2019.8.19.0210 em trâmite perante o Juízo de Direito da 10ª Vara do Juizado Especial Cível de Leopoldina - RJ, nos termos do que prescreve o artigo 300 e seguintes do Código de Processo Civil, a fim de que possam ser minorados os prejuízos que este Suscitante vem sofrendo demasiadamente em face dos errôneos bloqueios havidos em suas operações financeiras" (e-STJ, fl. 30), e, no mérito, seja reconhecida a competência do Juízo da Recuperação Judicial.
+Brevemente relatado, decido.
+O conflito não merece conhecimento.
+Com efeito, a parte suscitante, mesmo após ser intimada (e-STJ, fl. 241), deixou dejuntar a decisão do Juízo de Direito da 10ª Vara do Juizado Especial Cível de Leopoldina - RJ, que teria supostamente invadido a competência do Juízo da Recuperação Judicial.
+Logo, não se revela possível analisar os argumentos suscitados no presente conflito.
+Ante o exposto, não conheço do conflito de competência.
+Publique-se.
