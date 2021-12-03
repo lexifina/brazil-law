@@ -1,0 +1,47 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. AÇÃO ANULATÓRIA. ICMS. DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA DE COMUNICAÇÃO À REPARTIÇÃO PÚBLICA, EM ATÉ 5 (CINCO) DIAS, DA UTILIZAÇÃO EXTEMPORÂNEA DOS CRÉDITOS DO ICMS. Sentença de procedência parcial determinando a redução da multa ao equivalente à 25.000 UFIRs. Recurso do Estado réu pugnando pela redução da multa ao teor do artigo 62-C, VII, da Lei 2.657/96 para o percentual de 5% sobre o valor do crédito tributado. Insurgência recursal da parte autora afirmando vícios da Resolução Secretaria Estadual da Fazenda - SEF 2.455/94; que houve a devida comunicação mensal para convalidação e da apuração do ICMS e a correta tipificação e aplicação da alíquota de 5%. Inexistência de qualquer vício quanto a aplicação da Resolução da SEF 2.455/94. Legislação tributária que prevê que a restituição de indébito fiscal depende de processo administrativo tributário, dispensando este último apenas quando se tratar de crédito de ICMS correspondente à diferença de pagamento a maior que o valor do imposto devido. Constatação de ter a parte autora deixado e comunicar à Autoridade Fazendária do suposto crédito do ICMS, tendo procedido sua compensação em desacordo com a norma contida no 2°, § 1° da Resolução acima indicada. Multa que se mantém. Redução da multa que se impõe para o percentual de 5% (cinco por cento do valor do crédito escriturado), em atendimento ao disposto no artigo 62-C, VII, da Lei 2.657/96. Conhecimento e provimento do recurso do recurso da parte ré. Conhecimento e provimento parcial do recuso da parte autora.
+
+    Opostos os embargos de declaração, foram acolhidos em parte.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5°, II; 155, II, § 2º, I, XII da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    Trata-se de ação anulatória de débito fiscal visando a desconstituição da multa aplicada processo administrativo de número E-04/061568/2009 e consignado no Auto de Infração 03.239431-4, por ter a empresa autora infringido a legislação tributária ao realizar a compensação indevida e créditos de ICMS, sem, contudo, cumprir o previsto no parágrafo primeiro do artigo 2º da Resolução da Secretaria Estadual de Fazenda nº 2.455/94. Como bem asseverou a parte autora, a matéria devolvida a este Tribunal diz respeito débito de maio/2009 que a sentença limitou à 25.000 Ufir’s, nos termos do artigo 62-B, da Lei 2.657/96; que não há possibilidade de aplicação da multa; vícios da Resolução SEF 2.455/94; que há a devida comunicação mensal para convalidação e da apuração do ICMS; que houve a correta tipificação e aplicação da alíquota de 5%. E por seu turno, o Estado réu afirma a incorreta fundamentação quanto a redução da multa, requerendo assim, a reformar a r. sentença e se reduzir a multa aplicada no Auto de Infração n° 03.239431-4 ao patamar de 5% (cinco por cento) do valor do valor do crédito escriturado, em atendimento ao disposto no artigo 62-C, VII, da Lei 2.657/96. Com efeito, o regime de compensação de débitos e créditos, previsto no artigo 155, inciso II, e § 2.º, inciso I, da Constituição Federal, como forma de materializar o princípio da não-cumulatividade, não faculta ao contribuinte satisfazer manu militari, independentemente de prévia análise e autorização da autoridade competente, eventual crédito existente contra a Fazenda Pública, decorrente de repetição de indébito. Nessa linha de raciocínio, a legislação tributária prevê que a restituição de indébito fiscal depende de processo administrativo tributário, dispensando este último apenas quando se tratar de crédito de ICMS correspondente à diferença de pagamento a maior que o valor do imposto devido. Dispõem os artigos 1.º e 2.º da Resolução SEEF n.º 2.455, de 30 de junho de 1994, vigente na data em que foi lavrado o auto de infração, in verbis:
+
+    (...)
+
+    Destarte que a parte autora confessou ter deixado e comunicar à Autoridade Fazendária do suposto crédito do ICMS, tendo procedido sua compensação em desacordo com a norma contida no 2º, § 1º da Resolução acima indicada. Não se pode acolher a pretensão recursal da parte autora de que diante da ausência de informação seria desproporcional à aplicação da multa, diante da obrigatoriedade de comunicação prevista na legislação estadual indicado, sendo indiscutível a violação da Resolução 2.455/94. Logo, conclui-se pela higidez do auto de infração lavrado, eis que decorrente da utilização de procedimento diverso do previsto pela legislação tributária para a repetição de indébito, posto que competia à parte autora solicitar previamente a restituição do ICMS e aguardar a análise do pedido antes de creditar o imposto eventualmente pago a maior, sem o devido deferimento administrativo. Consequentemente, afiguram-se legítima a multa aplicada, decorrente do creditamento indevido realizado pelo autor contribuinte.
+
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+
+    Regimental. ICMS. Isenção fiscal. Creditamento do imposto. Não cumulatividade. Prova da efetivação da isenção. Exigências contidas em decreto. Comprovação. Reexame de legislação local e das provas dos autos. Súmulas nºs 279 e 280 do STF. 1. O acórdão recorrido dirimiu a controvérsia com base na legislação local aplicável à espécie e no conjunto fático-probatório constante dos autos. Inadmissível o recurso extraordinário, dado que eventual ofensa à Constituição seria apenas indireta ou reflexa. Incidência, das Súmulas nºs 279 e 280 do STF. 2. Agravo regimental não provido. (AI nº 720.665/MA – AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 8/9/11)
+
+    AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ICMS. REMISSÃO. REQUISITOS. DISCUSSÃO SOBRE A NATUREZA JURÍDICA DO DECRETO 56.179/2010 DO ESTADO DE SÃO PAULO. CONTROVÉRSIA A RESPEITO DA HARMONIA DE DECRETO EXECUTIVO EM FACE DA LEI QUE LHE DÁ FUNDAMENTO DE VALIDADE. CRISE DE LEGALIDADE. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO. (ARE nº 1.113.780/SP – AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 10/10/19).
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1.210.720-AgR, Rel. Min. Dias Toffoli (Presidente), Tribunal Pleno, DJe de 18/9/2019).
+
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636.” (AI 518.895-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/2005)
+
+    No mesmo sentido: RE 1.231.979-ED, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 18/12/2019; RE 1.173.779-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 31/5/2019 e RE 832.960-AgR, Rel. Min Luiz Fux, Primeira Turma, DJe de 21/5/2019.
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 3 de dezembro de 2021.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
