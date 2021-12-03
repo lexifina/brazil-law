@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto em face de acórdão assim ementado (fls. 58-59):
+HABEAS CORPUS. CRIME DO ARTIGO 16, DA LEI 10.832/03. PACIENTE PRESO EM FLAGRANTE COM TRÊS CARREGADORES DE PISTOLA GLOCK 9MM, UM CARREGADOR ESTENDIDO DE PISTOLA GLOCK 9MM, 1 CARREGADOR DE FUZIL 5.56, 32 MUNIÇÕES DE FUZIL 5.56, 41 MUNIÇÕES DE PISTOLA 9MM, 2 PORTA-CARREGADORES DE PISTOLA 9MM. E 1 CANIVETE. Paciente foi preso em flagrante em 24/07/2021, foi convertida em preventiva no dia 26/07/2021 em sede de Audiência de Custódia, reavaliada e mantida a prisão na decisão que recebeu a denúncia, em 09/08/2021. Além do porte ilegal de arma de fogo, os disparos desferidos contra os policiais, quando da abordagem ao paciente, demonstram a necessidade e contemporaneidade da segregação cautelar, para garantia da ordem pública, e do equilíbrio da instrução criminal, nos termos do artigo 282, incisos I e II, e artigo 312, ambos do Código de Processo Penal. O tipo penal imputado - artigo 16, da Lei 10826/03 - autoriza a decretação da prisão preventiva, visto que a pena privativa de liberdade máxima prevista supera 04 anos de reclusão, nos termos do artigo 313, inciso I, do Código de Processo Penal. No tocante à aplicação do princípio da homogeneidade, somente no momento da sentença é que o magistrado poderá dispor de elementos sufi- cientes que lhe permitam aferir a autoria do crime, qual a pena a ser aplicada, qual o regime inicial adequado, ou mesmo se cabível a substituição da pena corporal por medidas alternativas. Constrangimento ilegal não verificado. ORDEM DENEGADA.
+Colhe-se dos autos que o recorrente foi preso em flagrante em 24/7/2021, custódia convertida em preventiva, sendo denunciado pela prática do crime previsto no art. 16 da Lei 10.826/2003.
+Impetrado mandamus na origem, a ordem restou denegada.
+Daí o presente recurso, em que sustenta a defesa ausência de fundamentação do decreto prisional, bem como dos requisitos autorizadores da custódia cautelar, previstos no art. 312 do CPP.
+Sustenta a desproporcionalidade da prisão preventiva, a qual se deu com base exclusivamente na gravidade abstrata do delito.
+Requer, portanto, liminarmente e no mérito, a revogação da custódia, com a aplicação de medidas cautelares menos severas.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo desprovimento do recurso.
+Na origem, processo n. 0166785-12.2021.8.19.0001, verifica-se a prolação de sentença condenatória em 9/11/2021, conforme informação processual eletrônica extraída do site do Tribunal a quo em 30/11/2021.
+Conforme relatado, foi proferida sentença (fls. 180-181) em que o ora recorrente foi condenado pela prática do delito previsto no art. 16 da Lei 10.826/03, a 3 de reclusão e 10 dias-multa, no regime aberto, substituindo-se a pena privativa de liberdade por duas restritivas de direito, expedindo-se o competente alvará de soltura.
+Desse modo, não há como negar a prejudicialidade deste writ, ante a perda superveniente do objeto.
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
