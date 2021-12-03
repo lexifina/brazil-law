@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 3ª Região cuja ementa é a seguinte:
+ADMINISTRATIVO. AGÊNCIA NACIONAL DO PETRÓLEO. LEI 9.847/99. AUTO DE INFRAÇÃO. VAZAMENTOEM MANGUEIRA DA BOMBA DE COMBUSTÍVEL. MULTA. CABIMENTO. APELAÇÃO DESPROVIDA.
+1. A Lei n.9.847/99 determina a imposição de multa em caso de operação dos equipamentos necessários ao exercíciodas atividades de abastecimento nacional de combustíveisem desacordo com a legislação de regência.
+2. Uma vez constatado o mau funcionamento da bomba de combustíveis a legislação estabelece a aplicação demulta. Inexistindo. na regulamentação própria, notificação prévia para regularização ou possibilidade decancelamento da sanção pecuniária em caso de correção da irregularidade. Precedente.
+3. A nova determinação do INMETRO (Portaria n.486). a respeito da natureza prioritariamente orientadora dasfiscalizações em postos de combustíveis, entrou em vigor em outubro de 2018. ou seja. em momento posterior aautuação em comento, que seu deu no ano de 2015. razão pela qual não é aplicada àhipótese dos autos.
+4. A multa no valor de R$ 9.000,00 (nove mil reais), conforme disposto no artigo 3º,IX,da Lei nº 9.847/90, foi aplicadadentro dos limites legais e de acordo com os princípios da proporcionalidade e razoabilidade.
+5 Apelação desprovida.
+Os Embargos de Declaração foram rejeitados (fls. 676-681, e-STJ).
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 489, § 1º, e 1.022, I e II, do CPC/2015; e 2º,caput, e 50, II, da Lei 9.784/1999. Afirma (fl. 700, e-STJ):
+Com efeito, a violação da Lei Federal ocorreu, haja vista quelhe foi atribuída interpretação diversa à letra da lei. penalizando a recorrenteque estava cumprindo estritamente a letra da lei.
+Em outras palavras, se vêclaro erro de subsunção da normaao caso concreto, gerando violação da norma por meia da interpretaçãodiversa à letra da lei. Nesse viés. conforme o doutrinador Nélson Nery Júniornegar vigência à lei significa "declinar-se de aplicar a lei. Isto é negar vigência.E não se aplicar a lei de um modo correto também é negar vigência a leifederal"
+Veja. V. Excelência, que não se trata de reavaliação deprovas, com vistas a entender se a recorrida incorreu vício nas decisõesadministrativas, mas sim a aplicação das normas aqui retratadas no casoconcreto, pois sua utilização implica em negativa de vigência à Lei Federal.
+Não há dúvidas quanto ao foto do processo, apenas sobre a subsunção incorreta da norma, que validou processo ilegal e sem fundamentação legal,ou seja, a aplicação da Lei Federal em relação ao casoconcreto.
+Contrarrazões apresentadas às fls. 706-713, e-STJ.
+Decisão de inadmissibilidade às fls. 715-716, e-STJ.
+Petição de Agravo em Recurso Especial às fls. 719-729, e-STJ.
+Contraminuta às fls. 734-738, e-STJ.
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 28.9.2021.
+Preliminarmente, constato que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, alegando que o Tribunal de origem não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, nota-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art.1.022-CPC/2015).
+2. Hipótese em que não há no julgado nenhuma situação que dê amparo ao recurso integrativo.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1.544.177/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 5/8/2016)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. REJEIÇÃO.
+1. Esta Corte Superior de Justiça firmou compreensão segundo a qual, nos termos da legislação processual de regência, prestam-se os embargos declaratórios ao suprimento de omissão, à harmonização de pontos contraditórios ou ao esclarecimento de obscuridades, com o intuito de se ter por afastados óbices que, porventura, comprometam a viabilidade da execução do decisum.
+2. Seguindo a mesma esteira de posicionamento, a rejeição será inevitável quando ausentes os vícios previstos no art. 1.022, caput, parágrafo único e respectivos incisos, do CPC/2015, sobretudo por não se coadunar a via aclaratória com o propósito de rejulgamento da causa.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 828.944/SP, Rel. Ministra DIVA MALERBI (Desa. Convocada do TRF 3ª Região), SEGUNDA TURMA,DJe 28/6/2016)
+Em relação ao mérito, o Tribunal de origem consignou (fls. 641-642, e-STJ):
+Verifica-se,deste modo,que,uma vez constatado o mau funcionamento da bomba de combustível, a legislaçãoestabelece a aplicação de multa, inexistindo na regulamentação própria, notificação prévia para regularizaçãoou possibilidade de cancelamento da sanção pecuniária em caso de correção da irregularidade.
+(..)
+Ademais, cumpre asseverar que o fato de o autor ter sanado rapidamente o defeito na mangueira da bomba decombustível não impede  imposição da pena de multa, mas tão somente  interdição do estabelecimento ou doequipamento com defeito.
+Registre-se que a nova determinação do MMETRO (Portaria ne 486),a respeito da natureza prioritariamenteorientadora das fiscalizações em postos de combustíveis, entrou em vigor em outubro de 2018,ou seja, emmomento posterior a autuação em comento, razão pela qual nãoéaplicada a hipótese dos autos.
+A Lei n.9 847/99. por seu turno, determina a imposição de multa em caso de operação dos equipamentos necessários ao exercíciodas atividades de abastecimento nacional de combustíveis, em desacordo com a legislaçãode regência. Veja-se:
+(..)
+Considerando, assim, que a multa foi aplicada no valor de RS 9.000,00 (nove mil reais),dentro dos parâmetroslegais, eque a decisão administrativa do segunda instância foi devidamente fundamentada, se valendo doParecer PF/ANP-DF/PGF/AGU como razão de decidir,  r. sentença deve ser mantida tal como lançada,condenando-se o autor ao pagamento de honorários advocatícios fixados em 10% (dez por cento) sobre o valoratualizado da causa, nos termos do artigo 85,§ 2ºdo Código de Processo Civil.
+Nesse contexto, para infirmar as conclusões do julgado sobre a regularidade do procedimento administrativo, tal como sobre a razoabilidade e proporcionalidade do valor da multa aplicada, seria necessária a revisão de matéria fática, o que é inviável Recurso Especial, ante o disposto na Súmula 7/STJ, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE MULTA ADMINISTRATIVA POR INFRAÇÃO AMBIENTAL. VALOR PROPORCIONAL CONSIDERANDO A CONDUTA DANOSA DA AUTORA. IMPOSSIBILIDADE DE ALTERAR O JULGADO SEM O REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO DAS PREMISSAS DO ARESTO RECORRIDO. AGRAVO INTERNO DA PETROBRÁS TRANSPORTE S.A-TRANSPETRO A QUE SE NEGA PROVIMENTO.
+1. Considerando que o dano ambiental ficou evidente, a Corte Estadual entendeu que a multa foi consequência lógica do evento provocado pela parte, sendo inevitável a aplicação da penalização respectiva.
+2. Para se alterar a conclusão da Corte de origem, seria necessário o reexame do contexto fático-probatório do autos, providência vedada, a princípio, em sede de Recurso Especial.
+3. Cabe destacar que a fundamentação sobre possíveis atenuantes para a classificação da pena aplicada, não foi prequestionada pela instância ordinária, não proferindo juízo de valor sobre o tema, incidindo a Súmula 282/STF, aplicada por analogia.
+4. Agravo Interno da PETROBRAS TRANSPORTE S.A-TRANSPETRO a que se nega provimento. (AgInt no AREsp 1.159.312/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 10/4/2019)
+ADMINISTRATIVO. AUTO DE INFRAÇÃO. IMPOSIÇÃO DE MULTA. AUSÊNCIA DE PRÉVIA AUTORIZAÇÃO DE FUNCIONAMENTO. ALEGAÇÃO DE INEXISTÊNCIA DE INFRAÇÃO E ALTERAÇÃO DAS SANÇÕES IMPOSTAS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+II - No que diz respeito à alegação de violação de lei federal, verifica-se que a irresignação vai de encontro às convicções do julgador a quo, que com lastro no conjunto probatório constante dos autos assim decidiu (fls. 399-404): "Analisando o presente feito, verifica-se a legalidade da autuação (AI nº 19417) e consequente imposição da penalidade de multa pecuniária pela Agência Nacional de Saúde - ANS, por intermédio do PA 25785.001264/2006-25. A empresa impetrante tem como objeto social a administração de planos de saúde, e, portanto deveria estar registrada perante a ANS, bem como necessitava de prévia autorização de funcionamento. ..  Sobre o tema, a despeito da aplicação da letra fria da lei, não se pode deixar de considerar que a razoabilidade e o senso de justiça devem orientar a prática administrativa, de forma a permitir que no caso concreto diante das peculiaridades que a situação apresenta, seja passível de redução o valor da penalidade administrativa.  ..  No caso, a multa é devida, visto que efetivamente a empresa deu causa à autuação".
+III - Para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o enunciado n. 7 da Súmula do STJ.
+IV - A incidência do óbice sumular n. 7/STJ impede o exame do dissídio, na medida impossibilidade da existência de identidade entre os paradigmas apresentados.
+V - Ademais, a pretensão recursal também demandaria análise das Resoluções citadas pela recorrente, atos de natureza normativa que não se equiparam à lei federal para fins de interposição de recurso especial, conforme farto entendimento jurisprudencial.
+VI - Dessa forma, em razão do mesmo óbice, o recurso com base na divergência jurisprudencial não cabe prosperar.
+VII - Agravo interno improvido. (AgInt no AREsp 1.022.608/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA,DJe 10/4/2018)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RAZÕES RECURSAIS QUE NÃO INFIRMAM FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. MULTA ADMINISTRATIVA. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DO VALOR. ADEQUAÇÃO AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O recurso especial não impugna fundamento basilar que ampara o acórdão recorrido, qual seja, o de que, uma vez observado o parágrafo único do art. 64 da Lei nº 9.784/99, não se vislumbra hipótese de reformatio in pejus no âmbito administrativo. Aplicação da Súmula 283/STF.
+2. A Corte de origem decidiu, com base no acervo probatório dos autos, que a multa administrativa imposta pela Anatel veio amparada em critérios objetivos e dados concretos apurados pela sua fiscalização, por isso que o valor da sanção estava adequado aos princípios da proporcionalidade e da razoabilidade. Nesse contexto, a revisão de tal conclusão ensejaria o reexame de matéria fática, providência vedada no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+3. A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão dos valores fixados a título de honorários advocatícios, ante a necessidade de incursão na seara fálico -probatória dos autos, o que atrai a incidência da Súmula 7/STJ. No caso, não restou configurada a excepcionalidade exigida pela jurisprudência desta Corte, merecendo confirmação o acórdão local.
+4. Agravo interno a que se nega provimento.
+(Aglnt no REsp 1.472.354/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 11/9/2017)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto,conheço do Agravo para conhecer parcialmente do Recurso Especial,com relação à preliminar de violação dos arts. 489 e 1.022 doCPC/2015, e, nessa parte, negar-lhe provimento.
+Publique-se.
+Intimem-se.
