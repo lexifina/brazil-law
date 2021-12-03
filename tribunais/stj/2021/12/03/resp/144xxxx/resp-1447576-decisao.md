@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto porAUTO VALE CACHOEIRINHA LTDA, com fundamento no art. 105, III, alíneas ae c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+Na instância de origem, a parte ora recorrenteinterpôsapelação contra a sentença que extinguiu o feito de execução, acolhendo os embargos opostos pela recorrida ao fundamento de que a decisão proferida em mandado de segurança não podeconstituir título executivo judicial por ser desprovido de caráter condenatório, mas tão somente declaratório e mandamental.
+O valor atribuído à causa é de (fl. 7):R$ 152.075,05 (cento e cinquenta e dois mil,setenta e cinco reais e cinco centavos), em junho de 2012.
+O Tribunal a quo negouprovimento ao recurso, em acórdão assim ementado (fl. 899):
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. MANDADO DE SEGURANÇA. INADEQUAÇÃO DA VIA ELEITA.
+"O mandado de segurança não é substitutivo de ação de cobrança." Súmula nº 269 do STF.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, o recorrente alega ofensa ao artigo 475-N, I, do CPC/1973, porquanto é possível a execução fundada em sentença declaratória que reconhecerindébito tributário e assegura o direito à compensação, ainda que prolatada em sede de mandado de segurança, não havendo necessidade de se ingressar na via ordinária para a mesma discussão já solucionada nomandamus.
+Suscita divergência jurisprudencial com julgado deste Superior Tribunal de Justiça data de setembro de 2011.
+Contrarrazões às fls. 933-938, pelo não conhecimento ou desprovimento do recurso especial.
+É o relatório. Decido.
+A decisão recorrida foi publicada sob a égide da legislação processual civil anterior. Por isso, em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, observam-se as regras do Código de Processo Civil de 1973, diante do fenômeno da ultra-atividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+No que diz respeito à alegada ofensa ao artigo 475-N, I, do CPC/1973, vinculado ao argumento de que a decisão proferida em mandado de segurança serve como título executivo para restituição de indébito, observa-se que o artigo indicado como violado não contém comando normativo capaz de sustentar a tese suscitada. Aplica-se à hipótese a Súmula 284/STF. Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. APLICAÇÃO DO ART. 1º-F DA LEI 9.494/97 (COM REDAÇÃO DADA PELA LEI 11.960/2009) ÀS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CASO EM QUE DEVE SER APLICADO O IPCA-E A TÍTULO DE CORREÇÃO MONETÁRIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+III - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1888761/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 23/02/2021, DJe 01/03/2021)
+Observa-se, ainda,que a Corte de origem concluiu pelo descabimento do pleito fundamentando-se em legislação própria do mandado de segurança. Confira-se (fl. 896):
+Vale lembrar que a execução da sentença concessiva da segurança é imediata, específica ou in natura, ou seja, mediante o cumprimento da providência determinada pelo juiz, sem a possibilidade de ser substituída por reparação pecuniária. Assim, havendo danos patrimoniais a compor, far-se-á dita composição por ação direta e autônoma, não sendo o mandado de segurança meio idôneo a amparar lesões de natureza pecuniária.
+Desta feita, não cabe o mandado de segurança para reparação de danos patrimoniais, pois seu objeto é a invalidação de atos de autoridades, não possuindo eficácia condenatória (efeito patrimonial ex tunc), senão meramente mandamental (efeito patrimonial eventual é ex nunc), conforme determina a Lei 12.016/09:
+Art. 14. Da sentença, denegando ou concedendo o mandado, cabe apelação
+..
+§ 4o O pagamento de vencimentos e vantagens pecuniárias assegurados em sentença concessiva de mandado de segurança a servidor público da administração direta ou autárquica federal, estadual e municipal somente será efetuado relativamente às prestações que se vencerem a contar da data do ajuizamento da inicial.
+A propósito, não cabe invocar o inciso I do art. 475-N do CPC, na redação da Lei nº 11.232,de 2005, que dispõe ser título judicial "a sentença proferida no processo civil que reconheça a existência de obrigação de fazer, não fazer, entregar coisa ou pagar quantia", por isso que a Lei do Mandado de Segurança, sendo regra especial e ainda por cima mais recente, dispõe em sentido diametralmente oposto (§ 4º do art. 14, retrocitado).
+O recorrente, ao elaborar seus argumentos de recurso especial no sentido de que o caráter declaratório do decisumem mandado de segurança não ser suficiente para lhe retirar o potencial executivo, se distanciou do fundamento adotado pelo acórdão recorrido a respeito da legislação específica sobre indébito reconhecido em mandamus.
+Uma vez apresentadas razões de recurso especial dissociadas do fundamento do acórdão combatido que se mostra suficiente para manter a decisãoatacada, resta inviabilizada a exata compreensão da controvérsia por deficiência na argumentação recursal. Incidência das Súmulas 284/STF e 283/STF. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. NOTIFICAÇÃO PARA APRESENTAÇÃO DE DEFESA PRÉVIA (ART. 17, §7º, DA LEI 8.429/92). NULIDADE RELATIVA. NÃO COMPROVAÇÃO DO PREJUÍZO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+ ..
+2. A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência da Súmula 283.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1754247/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. INEXISTÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC. FUNDAMENTO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO PRODUZIDO NOS AUTOS. SÚMULA 7 DO STJ. APLICAÇÃO DA SÚMULA 283 DO STF.
+ ..
+5. Existe fundamento não impugnado pelo recorrente nas razões do Recurso Especial, visto que se limitou a manifestar seu inconformismo com o resultado que lhe foi desfavorável e deixou de refutar especificamente os fundamentos do acórdão objurgado. Logo, estando as razões do recurso dissociadas da fundamentação adotada na origem, incide na hipótese, por analogia, a Súmula 283 STF.
+6. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp 1653723/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/02/2021, DJe 01/03/2021)
+Ainda que superado todos os referidos óbices processuais e apenas a título de reforço de fundamentação, registre-se que a mais recente jurisprudência desta Corte Superior é firme no sentido de que a sentença declaratória que reconhece indébito tributário proferida em mandado de segurança refere-se apenas a restituição administrativa. Confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DIVERGÊNCIA INTERPRETATIVA NO ÂMBITO DO MESMO TRIBUNAL. SÚMULA Nº 13 DO STJ. EXCLUSÃO DO ICMS-ST (SUBSTITUIÇÃO TRIBUTÁRIA) DA BASE DE CÁLCULO DO PIS E DA COFINS.TRIBUTO CALCULADO POR FORA. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. MANDADO DE SEGURANÇA. EFICÁCIA EXECUTIVA DA SENTENÇA. OPÇÃO PELA COMPENSAÇÃO OU RESTITUIÇÃO ADMINISTRATIVA DO INDÉBITO. SÚMULA Nº 461 DO STJ.
+ ..
+4. A Segunda Turma desta Corte no REsp 1.873.758/SC, Rel. Min.Herman Benjamin, DJe 17/9/2020, reafirmou que, nos autos do mandado de segurança, a opção pela compensação ou restituição do indébito, na forma da Súmula 461 do STJ c/c os arts. 66, § 2º, da Lei nº 8.383/1991 e 74, caput, da Lei nº 9.4390/1996, se refere à restituição administrativa do indébito e não à restituição via precatório ou RPV, uma vez que a pretensão manifestada na via mandamental de condenação da Fazenda Nacional à restituição de tributo indevidamente pago no passado, viabilizando o posterior recebimento desse valor pela via do precatório, implica utilização do mandado de segurança como substitutivo da ação de cobrança, o que não se admite, conforme entendimento cristalizado na Súmula nº 269 do STF.
+5. Recurso especial da empresa conhecido em parte e, nessa extensão, parcialmente provido.
+(REsp 1864092/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/03/2021, DJe 09/04/2021)
+Prejudicado o exame da alegada divergência jurisprudencial, pois o apelo proposto pela alínea c do permissivo constitucional diz respeito aos mesmos dispositivos legais e teses jurídicas que não foram conhecidos por incidência de enunciados sumulares. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. FRAUDE À LICITAÇÃO. DANO AO ERÁRIO IN RE IPSA. OFENSA AO ART. 10 DA LEI N. 8.429/1992. REVISÃO DAS SANÇÕES IMPOSTAS. PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+ ..
+3. A inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+4. Agravo interno não provido.
+(AgInt no REsp 1857348/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/11/2020, DJe 18/11/2020)
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
