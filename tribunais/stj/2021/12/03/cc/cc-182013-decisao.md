@@ -1,0 +1,26 @@
+DECISÃO
+Linhas de Macapá Transmissora de Energia S.A. suscitouo presente conflito de competência apontando, como suscitados, Juízos de Direito e Federais de Macapá, assim como Juízo Federal de Brasília, devidamente nominados na inicial.
+Aduziu que o Estado do Amapá vivenciou uma crise energética, no final do ano de 2020, que ocasionou interrupção do fornecimento de energia elétrica por diversos dias, e que a suscitante, na qualidade de concessionária do respectivo serviço público, passou a figurar com ré em diversas ações relativamente a pedidos indenizatórios.
+Alegando, em síntese, que as questões jurídicas que compõem tais ações vem sendo resolvidas de formas distintas, e até mesmo contraditórias, envolvendo inclusive debate acerca da competência para dirimir os pedidos, requereu a fixação da competência do Juízo da 2ª Vara Federal do Amapá ou da 4ª Vara Federal do Distrito Federal, de forma provisória, bem como sejam suspensas as demais ações.
+Após a juntada de documentação referente às citadas ações (fls. 504-1.023), proferi decisão designando, de forma precária,o Juízo da 2ª Vara Federal do Amapá para deliberar acerca de eventuais pedidos e medidas urgentes (fls. 1.028-1.029).
+Às fls. 1.044-1.047, o Ministério Público Federal apresentou parecer pelo não conhecimento do conflito.
+É o relatório. Decido.
+Inicialmente é preciso considerar que Linhas de Macapá Transmissora de Energia S.A. suscitou conflito de competência positivo, nos termos do art. 66, I, do CPC/2015, afirmando que as ações por ela indicadas, teriam, ao final, a mesma causa de pedir: o incidente do apagão energético ocorrido em novembro de 2020.
+Em exame da documentação acostada referente às indicadas ações, tem-se que, além da ação popular ajuizada, as demais cuidam de pedidos indenizatórios, por danos materiais e morais decorrentes do indigitado "apagão", com evidente natureza de defesa de direito do consumidor.
+Vale ressaltar os seguintes precedentes desta Corte:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CONTRATO BANCÁRIO. FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL PROPOSTA PELOCONSUMIDORNO FORO ONDE O RÉU POSSUI FILIAL. POSSIBILIDADE. PRINCÍPIO DO JUIZ NATURAL. OMISSÃO. INEXISTÊNCIA.
+1. Consoante esclarecido na decisão embargada, a jurisprudência recente desta egrégia Corte está alinhada no sentido de que, "nos casos em que oconsumidor,autor da ação, elege, dentro das limitações impostas pela lei, a comarca que melhor atende seus interesses, a competência é relativa, somente podendo ser alterada caso o réu apresente exceção de incompetência (CPC, art. 112), não sendo possível sua declinação de ofício nos moldes da Súmula 33/STJ".
+2. Aos litigantes em geral é dado escolher, dentro das limitações legais, o foro onde pretendem contender, cumprindo ao réu apresentar exceção de incompetência, sob pena de vê-la prorrogada, não havendo razão para negar essa possibilidade justamente aoconsumidor.
+3. Embargos de declaração rejeitados.(EDcl no AgRg no CC 125.259/DF, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe 27/08/2013)
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. CONTRATO BANCÁRIO. FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL. AÇÃO PROPOSTA PELOCONSUMIDORNO FORO ONDE O RÉU POSSUI FILIAL. POSSIBILIDADE.
+1. Nos casos em que oconsumidor,autor da ação, elege, dentro das limitações impostas pela lei, o foro que melhor atende seus interesses, a competência é relativa, somente podendo ser alterada caso o réu apresente exceção de incompetência (CPC, art. 112), não sendo possível sua declinação de ofício, nos termos da Súmula 33/STJ.
+2. Aos litigantes em geral é dado escolher, dentro das limitações legais, o foro onde pretendem contender, cumprindo ao réu apresentar, se for o caso, exceção de incompetência, sob pena de prorrogação da competência. Assim, não há razão para negar essa possibilidade justamente aoconsumidor,a quem o legislador conferiu especial proteção.
+3. Agravo regimental a que se nega provimento. (AgRg no CC 130.813/DF, Rel. Min. Raul Araújo, DJe 3.8.2016)
+Verifica-se, ademais, que a União se manifestou de forma expressa sobre não possuir interesse nas demandas indenizatórias ajuizadas por consumidores que, supostamente teriam sido atingidos pelo episódio (fl. 984), situação que leva à incidência da Súmula n. 150/STJ.
+Nesse panorama, valho-me das razões expendidas pelo parecer ministerial,in verbis:
+A suscitante se insurge contra decisões proferidas por juízes estaduais em processos diferentes, não havendo conflito a ser dirimido.
+Verifica-se, ainda, que pretende reverter as decisões de Juízes Estaduais que se julgaram competentes para apreciar os feitos por entenderem que não é caso de formação de litisconsórcio passivo necessário com os entes federais já mencionados.
+Ocorre que o conflito de competência não é substitutivo de recurso, sendo inviável a sua utilização para firmar competência nessa hipótese.
+Ante o exposto, não conheço do presente conflito de competência, declarando prejudicada a decisão de fls. 1.028-1.209de designação de juízo precário.
+Oficiem-se, com urgência, aos Juízos suscitados, informando-os do teor da presente decisão.
+Publique-se. Intimem-se.
