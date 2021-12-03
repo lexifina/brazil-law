@@ -1,0 +1,17 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1021277-43.2021.8.11.0000 - CLASSE 202 - CNJ - SINOP
+Agravante : SINOPEMA S.A. - INDÚSTRIA E COMÉRCIO DE MADEIRAS
+Agravados : MONTEVEDE MADEIRAS LTDA – EPP e outros
+Número do Protocolo: 1021277-43.2021.8.11.0000
+Trata-se de Recurso de AGRAVO DE INSTRUMENTO interposto por SINOPEMA S.A. - INDÚSTRIA E COMÉRCIO DE MADEIRAS contra a decisão proferida pelo MM. Juiz de Direito da 3a Vara Cível da Comarca de Sinop/MT, que nos autos da ação de “Execução de Título Extrajudicial” (Proc. no 1009240-70.2020.8.11.0015), ajuizada pela agravante contra MONTEVEDE MADEIRAS LTDA – EPP, CHARLES LENZI e RENATO LUIZ LENZI, indeferiu o pedido da exequente de levantamento dos valores penhorados no feito ao postergar pronunciamento a respeito da questão para momento posterior ao “julgamento dos embargos à execução em apenso” (Proc. no 1015497-14.2020.8.11.0015) (cf. Id. no 60799705 dos autos de origem).
+A agravante afirma que “os Embargos à Execução de no 1015497-14.2020.8.11.0015 foram recebidos sem atribuição de efeito suspensivo, e, se não bastasse, (...) o próprio Magistrado de 1o Grau acabou por julgar improcedentes os embargos à execução, (...), portanto, não há razão para que a decisão agravada postergasse a expedição de alvará e liberação de valores”, afinal, “sendo julgados improcedentes os embargos à execução, a cobrança do título executivo extrajudicial possui natureza equivalente a execução definitiva. Nesse sentido é a Súmula 317 do STJ”.
+Pede, então, o provimento do recurso, para que, reformada a decisão agravada, “independentemente do trânsito em julgado dos Embargos à Execução de no 1015497-14.2020.8.11.0015, seja determinado o levantamento dos valores penhorado s no feito executivo”; de imediato, pede a antecipação da tutela recursal (cf. Id. no 110767978).
+É o breve relatório.
+Em análise inicial, admito que a fundamentação recursal é bastante convincente quanto ao provável desacerto da decisão agravada, tendo em vista que, ao que tudo indica, não subsiste qualquer motivo juridicamente idôneo para a resistência do MM. Juiz em prosseguir com os atos processuais executórios vocacionados à satisfação forçada do crédito exequendo, pois, para além de os embargos à execução conexos não terem sido recebidos com efeito suspensivo, a sentença de improcedência do pedido produz efeitos imediatos, a partir de sua publicação, porquanto se trata de uma das hipóteses em que o recurso de apelação será dotado apenas de efeitos devolutivo (CPC, art. 1.012, §1o, III).
+Portanto, admito a interposição recursal tal como efetivada, de modo que recebo e autorizo o processamento do agravo de instrumento, e DEFIRO o pedido de antecipação da tutela recursal para autorizar a imediata liberação dos valores penhorados nos autos em favor da exequente/agravante, devendo o Juízo de origem adotar as providências necessárias para esse fim, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intimem-se os agravados, na forma do art. 1.019, II, do CPC, para que respondam no prazo de 15 dias.
+Expeça-se o necessário.
+Cuiabá-MT, 3 de dezembro de 2021.
+Des. JOÃO FERREIRA FILHO
+Relator
