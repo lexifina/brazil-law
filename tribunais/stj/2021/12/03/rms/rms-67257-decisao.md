@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por JORGE LUIZ DONATTI, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+MANDADO DE SEGURANÇA. POLICIAL MILITAR DA RESERVA REMUNERADA. ENTRADA EM VIGOR DA LEI COMPLEMENTAR N. 765/2020. REGIME REMUNERTORIO ESPECIAL DOS MILITARES ESTADUAIS. INEXISTÊNCIA DE AFRONTA AO DIREITO ADQUIRIDO. IRREDUTIVIDADE DE VENCIMENTOS NÃO VERIFICADA. PRETENSÃO DE CUMULAÇÃO DE VANTAGENS COM A APLICAÇÃO DE FORMA CONJUGADA DO SISTEMA REMUNERATORIO ANTERIOR (LEI COMPLEMENTAR N. 614/2013) E O ATUAL (LEI COMPLEMENTAR N. 765/2020). IMPOSSIBILIDADE. NOVA NORMATIVA QUE CONCEDE AO AGENTE A POSSIBILIDADE DE VINCULAÇÃO AO REGIME REMUNERATORIO DE PREFERÊNCIA. DIREITO LÍQUIDO E CERTO NÃO COMPROVADO. ORDEM NÃO CONCEDIDA. (fl. 200)
+Na origem, a parte recorrente aduziu que tem direito líquido e certo à remuneração compatível com um posto acima, conforme tabela remuneratória constante na Lei Complementar n. 765/2020, revertendo-se a alteração supostamente ilegal das condições em que recebe seus proventos de inativo.
+Valor dado à causa: R$ 43.123,20 (quarenta e três mil, cento e vinte e três reais e vinte centavos), em fevereiro de 2021.
+Foram apresentadas contrarrazões pelo desprovimento do recurso.
+Parecer ministerial pelo não conhecimento do recurso, ou, caso conhecido, pelo improvimento recursal.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conforme bem observado no parecer ministerial, cujos fundamentos adoto, a parte recorrente deixou de impugnar especificamente importante argumento constante da decisão agravada, qual seja, de que o servidor público não tem direito adquirido a regime jurídico. E que a prerrogativa de irredutibilidade salarial foi respeitada, no caso. Aplicando-se, portanto, a Súmula 283 do STF, por analogia: (fl. 259)
+Preliminarmente, a leitura das razões recursais indica que o recorrente nãose desincumbiu do ônus de impugnar especificamente os fundamentos do acórdão recorrido, notadamente quanto à assertiva de que "o servidor público não possui direito adquirido a regime jurídico, mas sim a prerrogativa de irredutibilidade remuneratória, o que conforme se verificou restou devidamente preservada".
+Assim sendo, é o caso de aplicação, por analogia, do entendimento enunciado na Súmula 283 do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ c/c a Súmula 568/STJ, não conheço do Recurso Ordinário em Mandado de Segurança.
+Publique-se. Intimem-se.
