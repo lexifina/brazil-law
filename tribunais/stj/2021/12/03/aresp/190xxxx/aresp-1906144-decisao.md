@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por Fernando Queyroicontra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, Fernando Queyroi ajuizou ação ordinária contra oEstado do Rio de Janeiro e Fundação Centro Estadual de Estatística, Pesquisa e Formação de Servidores Públicos do Rio de Janeiro-CEPERJ, objetivando a aplicação do fator de correção na nota da prova de Planejamento, a aprovação do autor para o cargo de Especialista em Políticas Públicas e Gestão Governamental, bem como a anulação da questão 9 da prova de Planejamento, com a consequente atribuição dos pontos nos mesmos critérios observados no certame.
+Deu-se a causa o valor de R$ 1.000,00(mil reais) em setembro de 2012.
+Asentença julgou improcedente o pedido.
+Interposta apelação, o Tribunal de Justiça do Estado do Rio de Janeiro, negou provimento ao recurso, em acórdão assim ementado (fls. 365-366):
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. ANULAÇÃO DE ATO ADMINISTRATIVO. CONCURSO PÚBLICO. PRESUNÇÃO DE LEGALIDADE E LEGITIMIDADE NÃO AFASTADA. PRETENSÃO DE ANULAÇÃO DE QUESTÃO. PRINCÍPIO DA SEPARAÇÃO DOS PODERES. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. INCABÍVEL A PRODUÇÃO DE PROVA TÉCNICA PARA ALTERAÇÃO DO CRITÉRIO DA CORREÇÃO. TEMA VINCULADO AO MÉRITO ADMINISTRATIVO. QUESTÕES ANULADAS QUE BENEFICIARAM O AUTOR. E RECONTAGEM DE PONTOS QUE VIOLARIA O PRINCÍPIO DA ISONOMIA. DESPROVIMENTO DO RECURSO.
+1. Ação de anulação de ato administrativo em que pretende o autor, ora apelante, o reingresso no certame promovido pela CEPERJ, para cargo de especialista em políticas públicas e gestão governamental, a partir da recontagem de seus pontos ou anulação de questão da prova, fixando critério específico para a correção de sua prova.
+2. Autor que se beneficiou da anulação das questões e da aplicação do fator de correção.
+3. Não é possível substituir a banca examinadora por expert do juízo para atender ao interesse específico de candidato, o que afrontaria à isonomia do concurso, sendo certo que, na hipótese, a anulação de questão não beneficiaria o candidato que não logrou obter pontuação mínima exigida em prova objetiva.
+4. Cerceamento de defesa não caracterizado. 5. Desprovimento do recurso.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa encontra-seacima transcrita, Fernando Queyroi interpôs recurso especial, alegandoviolação dos arts. 373 e 489, §1º, IV,do CPC/2015, sob o argumento de deficiência na fundamentação da decisão.
+Contrarrazões apresentadas pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo orecorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando que oagravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Com relação à indicada violação do art.489, § 1º, IV, do CPC/2015, não se vislumbra a alegação de que o acórdão recorrido não se manifestou acerca de pontos tidos como essenciais para o julgamento da lide.
+De acordo com a orientação do Superior Tribunal de Justiça, os embargos de declaração destinam-se a suprir eventual omissão, obscuridade ou contradição, não tendo o Órgão Julgador a obrigação de se manifestar expressamente acerca de todos as disposições legais que as partes entendam ser aplicáveis, devendo, é claro, motivar suas decisões, de maneira fundamentada.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. APLICAÇÃO DA SÚMULA 106/STJ. REEXAME PROBATÓRIO. SÚMULA 7/STJ. ART. 1.022 DO CPC/2015. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU CARÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA.
+1. Os embargos declaratórios, nos termos do art. 1.022, e seus incisos, do CPC/2015, são cabíveis quando houver: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; ou d) o erro material. No caso dos autos, tais hipóteses não estão presentes.
+2. Não há vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia de maneira sólida e fundamentada, tal qual se constata no caso concreto.
+3. A análise da tese recursal que busca afastar a aplicação da Súmula 106/STJ demanda incursão na seara probatória, o que não é cabível na via especial. Incidência da Súmula 7/STJ.
+4. Esta Corte Superior possui entendimento de que a existência de penhora no rosto dos autos do processo falimentar impõe à Fazenda Pública a paralisação do executivo fiscal até que se verifique a possibilidade de satisfação do crédito, sem que essa paralisação seja imputada à inércia do ente público.
+5. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 600.416/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/03/2017, DJe 27/03/2017.)
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação doembargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Ademais, quanto ao outro dispositivo legal tido por violado, verifica-se que a irresignação do recorrente vai de encontro às convicções do julgador a quo, que com lastro no conjunto probatório constante dos autos, concluiu que (fl. 368):
+(..)
+No mérito, convém ressaltar que se trata de questão envolvendo matéria delimitada pelo direito administrativo, cujo regramento remete a observância de alguns princípios que informam esse ramo do direito, quais sejam, legalidade, moralidade e publicidade, preconizados no artigo 37 da Constituição Federal, sob pena de nulidade.
+Ressalta-se, por oportuno, que à Administração Pública cabe estabelecer as bases do concurso e os critérios de julgamento, sendo certo que o edital, lei do concurso, deve ser rigorosamente observado por todos os candidatos (princípio da isonomia) que a ele aderem no ato da inscrição e sem qualquer impugnação a seus preceitos.
+Com efeito, na hipótese dos autos, a escolha das questões e o critério de contagem dos pontos cabem à própria comissão. Não havendo que se falar em violação de quaisquer dos princípios acima mencionados, não há, por conseguinte, qualquer mácula à regularidade do ato impugnado.
+Assim sendo, não cabe ao Poder Judiciário substituir a banca examinadora, reapreciando teor de questões ou de gabaritos em razão única a exclusiva da insatisfação do recorrente quanto ao seu resultado.
+Ademais, a adoção do critério de contagem dos pontos sugerido pelo apelante (aplicação isolada do multiplicador 1,429 aos 6 pontos que ele obteve) ofenderia o princípio da isonomia, haja vista que nenhum dos concorrentes foi favorecido por essa aplicação do multiplicador, fato que subverteria a própria isonomia do certame.
+(..)
+Nesse diapasão, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o enunciado da Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Aplica-se o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), pelo que, majoro em um ponto o percentual já fixado, relativo aos honorários advocatícios, respeitados os limites legais, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso.
+Publique-se. Intimem-se.
