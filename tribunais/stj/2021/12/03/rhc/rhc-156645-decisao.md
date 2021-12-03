@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por SILVIO ABRANTES TORRES NETO contra acórdão da 3.ª Câmara Criminal do Tribunal de Justiça de Minas Gerais, no HC n.º 1.0000.21.191370-2/000, assim ementado:
+"EMENTA: HABEAS CORPUS-EMBRIAGUEZ AO VOLANTE - DIREÇÃO INABILITADA-NULIDADE DA PRISÃO EM FLAGRANTE - REITERAÇÃO DA ORDEM - PEDIDO JÁ JULGADO POR ESTE TRIBUNAL - NÃO CONHECIMENTO - NULIDADE DA AUDIÊNCIA DE CUSTÓDIA -INEXISTÊNCIA - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO -REVOGAÇÃO DA MONITORAÇÃO ELETRÔNICA PELA MAGISTRADA SINGULAR - INTELIGÊNCIA DO ARTIGO 659 DO CÓDIGO DE PROCESSO PENAL - WRIT PARCIALMENTE PREJUDICADO. Não se conhece de "habeas corpus" que seja mera reiteração de outro já julgado. Inexistindo comprovação de prejuízo advindo da alegada nulidade da audiência de custódia, inviável a concessão da ordem. Diante da substituição da medida cautelar de monitoração eletrônica, forçoso reconhecer, em parte, a prejudicialidade da presente ação autônoma de impugnação, por perda superveniente do objeto, nos termos do que prescreve o artigo 659 do Código de Processo Penal." (e-STJ, fl. 24)
+Em seu pedido final, alega e requer:
+"a - a oitiva da Douta Procuradoria de Justiça na condição de "custos legis", para que apresente parecer;
+b - da justiça gratuita, o mesmo está desempregado e faz jus ao deferimento do mesmo, é o que se requer;
+c -foi determinada fiança em delegacia, mas o mesmo não tem dinheiro para pagar, desta forma requer que este fato seja levado em consideração, e que omandado de segurança seja totalmente provido, com seu pedido de LIMINAR DEFERIDO.
+d - foi abordado por guardas civis SEM FLAGRANTE, que não tem esse poder de fiscalizar trânsito, apenas a PM especializada em trânsito, desta forma pede a nulidade absoluta do processo, por extrema ilegalidade no procedimento da segurança pública. E JÁ DE REPERCUSSÃO GERAL ESSE TEMA PERANTE O STF;
+e - a retirada das multas e de qualquer outro tipo de reprimenda, pois se trata de prisão ilegal e o processo é nulo, REQUER TAMBÉM A APLICABILIDADE DAS SÚMULAS QUE FULMINAM ESSE PROCESSO, POIS O TJMG NÃO SEGUE SÚMULAS;
+f - REQUER TAMBÉM QUE POR VÁRIAS ILEGALIDADES O PROCESSO TENHA NULIDADE ABSOLUTA, E QUE TAMBÉM TODOS OS SEUS EFEITOS SEJAM ANULADOS (MULTAS, BAIXA NO SETARIN DA POLÍCIA CIVIL, ENTRE OUTROS), POIS EIVADO DE INCONSTITUCIONALIDADE, ABSURDO EXCELÊNCIA.
+g - que a não realização da audiência de custódia, conforme podemos ver em ata, e em súmulas e julgados colacionados, torne de plano e com a urgência devida todo o processo nulo." (e-STJ, fls. 22-23; grifos e destaques no original.)
+O pedido liminar foi indeferido (e-STJ, fl. 210).
+Foram prestadas as informações solicitadas (e-STJ, fls. 215-216).
+O Ministério Público opinou pelo não conhecimento do recurso (e-STJ, fls. 220-221).
+Peticionando aos autos, o recorrente apontaa ilegalidade da prisão de ofício e pugna pela anulação de todo o processo diante das irregularidades ocorridas na audiência de custódia (e-STJ, fls. 223-232).
+É o relatório.
+Decido.
+Os autos revelam que parte da matéria aliquestionada não foi apreciada pelo Tribunal Estadual, o qual não conheceu da impetração originária sob o fundamento de que se tratava de reiteração de pedidos anteriores, já julgados (HC n.º 1.0000.20.545804-5/000).
+A insurgência relativa ao pedido de revogação da medida cautelar de monitoração eletrônica foi julgada prejudicada, diante de sua substituição pelo comparecimento mensal em juízo.
+Relativamente àparte conhecida da impetração, apenas uma delas - nulidade da audiência de custódia - é alvo de impugnação por meio do presente recurso. Quanto ao ponto, a Corte estadual decidiu que:
+" ..  não restou demonstrado o prejuízo à defesa do paciente e como é amplamente cediço, no sistema processual penal brasileiro, vige o brocado pas de nullité sans grief, positivado na letra do artigo 563 do Código de Processo Penal, segundo o qual, nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa.
+No caso em tela, após a realização da audiência de custódia, o paciente foi colocado em liberdade com aplicação de medidas cautelares diversas da prisão, inexistindo, portanto, demonstração de evidente irregularidade a ensejar a declaração de nulidade do feito.
+Ademais, a irresignação da impetração em relação à audiência de custódia e consequente aplicação da medida cautelar de monitoração eletrônica não mais subsiste, vez que, conforme consignado linhas acima, tal medida foi substituída por outra menos restritiva." (e-STJ, fls. 27-28)
+De antemão, verifica-se a existência de diversas contradições nas alegações constantes na inicial do presente recurso e na petição protocolada a posterioripelo recorrente (e-STJ, fl. 223-232), em que de um lado se aponta nulidade em razão da não realização da audiência de custódia, ao mesmo tempo em que transcreve a ata da audiência realizada em 25/9/2020 - na qual a magistrada singular concedeu a liberdade provisória ao acusado, mediante a imposição de medidas cautelares, tal como referido no acórdão aqui impugnado - e pugna pela anulação de todo o processo diante das supostas irregularidades ocorridas na referida audiência, apontando ilegalidade nadecretação deprisão, de ofício, pelo magistrado, quandotal situação não ocorreu na espécie.
+É sabido que a audiência de custódia é um momento pré-processual, sendo presidida por autoridade que exerce o controle judicial imediato paraanalisar a legalidade da prisão, tendo como finalidade fundamental evitar prisões ilegais, arbitrárias ou desnecessárias.Oobjeto dessa audiência é restrito à necessidade decontrole jurisdicional daprisão decorrente do flagrante.
+É o que dispõe do art. 310 do Código de Processo Penal, que delimita a atuação do juiz responsável pelo exame da regularidade do flagrante. Confira-se:
+"Art. 310. Ao receber o auto de prisão em flagrante, o juiz deverá fundamentadamente:
+I - relaxar a prisão ilegal; ou
+II - converter a prisão em flagrante em preventiva, quando presentes os requisitos constantes do art. 312 deste Código, e se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão; ou
+III - conceder liberdade provisória, com ou sem fiança.
+Parágrafo único. Se o juiz verificar, pelo auto de prisão em flagrante, que o agente praticou o fato nas condições constantes dos incisos I a III do art. 23 do Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal, poderá, fundamentadamente, conceder ao acusado liberdade provisória, mediante termo de comparecimento a todos os atos processuais, sob pena de revogação."
+In casu, a juíza singular procedeu em total conformidade com a legislação processual penal, não havendo qualquer ilegalidade a ser reconhecida na hipótese.
+Ante o exposto,nego provimento ao recurso emhabeas corpus.
+Publique-se. Intimem-se
