@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TJMG assim ementado (fl. 459):
+APELAÇÃO CÍVEL - TRIBUTÁRIO - EMBARGOS A EXECUÇÃO FISCAL - DESISTÊNCIA PARA INCLUSÃO NO PARCELAMENTO TRIBUTÁRIO DO PROGRAMA REGULARIZE - CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - BIS IN IDEM  NÃO CABIMENTO - RESP N. 1.143.320 - RECURSO IMPROVIDO. - Considerando que o col. Superior Tribunal de Justiça, firmou entendimento no sentido do não cabimento de honorários advocatícios em ação judicial extinta por desistência imposta ao contribuinte, como condição para adesão a programas de facilitação de pagamento de débitos fiscais (REsp. n. 1.143.3201R5), forçoso reconhecer a impossibilidade de fixação de verba honorária em favor do apelante, sob pena de bis in idem, razão pela qual imperioso o não provimento do recurso.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos arts. 489, §1º, inc. VI, e 1022, parágrafo único, inc. II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de questões relevantes ao deslinde da controvérsia.
+Quanto à questão de fundo, aponta violação do art. 90 do CPC/2015. Sustenta, em síntese, o cabimento da verba honorária na hipótese em que a parte desiste da ação de embargos para aderir a parcelamento tributário. Afirma que o Decreto Estadual que instituiu o programa de regularização definiu apenas os percentuais devidos a título de honorários nas execuções, não alcançando verbas honorárias devidas em outros processos judiciais. Defende a inaplicabilidade do decidido no REsp 1.143.320/RS ao caso dos autos.
+Com contrarrazões (fls. 536/548).
+Juízo positivo de admissibilidade às fls. 551/557.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada ofensa aosarts. 489, §1º, inc. VI, e 1022, parágrafo único, inc. II, do CPC/2015, pois a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+No que diz respeito à ofensaao art. 90 do CPC/2015, evidencia-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamento no Decreto Estadual 46.817/2015, razão por que o recurso especial não deve ser conhecido nesta Corte Superior por demandar interpretação de normativo estranho à legislação federal.
+Da mesma forma, ressalta-se que conquanto tenha sido indicada ofensa ao referido dispositivo de lei federal, evidencia-se que a análise da própria tese recursal depende do exame das normas estaduais de regência.
+Aplica-se ao caso,a Súmula 280/STF.
+Ante o exposto,conheço parcialmente do recurso especiale, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, §1º, INC. VI, E 1022, PARÁGRAFO ÚNICO, INC. II, DO CPC/2015. NÃO OCORRÊNCIA. EMBARGOS À EXECUÇÃO FISCAL. DESISTÊNCIA E RENÚNCIA AO DIREITO. ADESÃO A PLANO DE PARCELAMENTO DE CRÉDITO TRIBUTÁRIO. HONORÁRIOS ADVOCATÍCIOS. PAGAMENTO ADMINISTRATIVO. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
