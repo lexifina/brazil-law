@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais cuja ementa é a seguinte:
+APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. PEDIDO DE EXCLUSÃO DOS COOBRIGADOS. AUSÊNCIA DE LEGITIMIDADE DA PESSOA JURÍDICA. INTERESSE EXCLUSIVO DOS COOBRIGADOS. ISSQN. LISTA DE SERVIÇOS. INTERPRETAÇÃO EXTENSIVA. OPERAÇÕES EMINENTEMENTE FINANCEIRAS. AUSÊNCIA DE OBRIGAÇÃO DE FAZER. NÃO INCIDÊNCIA DO IMPOSTO SOBRE SERVIÇOS.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta ofensa ao art. 1.022, II, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas.
+No mérito, alega violação aos arts. 1º, § 4º, da LC 116/2003; bem como divergência jurisprudencial.
+Aduz não importar se a atividade é meio ou fim, acessória ou principal, permanente ou eventual, defendendo que, se a atividade constituir um serviço e este for remunerado, ocorre o fato gerador do ISS. Bem como, incide o ISS sobre a receita decorrente da "Tarifa de Adiantamento a Depositantes", destacando que sobre essa tarifa, que não se confunde com o montante adiantado no mútuo nem com os juros que o remuneram, não pode incidir IOF, mas sim ISS.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 1247/1251, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem decidiu que:
+Em primeiro lugar, a instituição financeira afirma que as receitas de "Tarifa de Adiantamento a Depositantes" não se submeteria à incidência do ISSQN, pois se cuidaria de atividade principal de natureza eminentemente financeira e tributável pelo IOF.
+De fato, analisando os documentos que tratam da espécie ora analisada, tem-se que não há uma prestação de serviços, não há uma obrigação de fazer, mas, sim, a disponibilização de crédito ao cliente, independentemente de serviço de análise de crédito ou qualquer outra prestação, o que configura uma relação jurídica de natureza estritamente financeira.
+ ..
+Ato contínuo, a parte recorrente afirma que também não incidiria ISS sobre as "rendas de empréstimos" e "rendas de financiamentos", pois, segundo alega, também seriam apenas operações de natureza financeira, sem qualquer prestação de serviços ao consumidor.
+Assim como as "rendas de adiantamentos a depositantes", as rubricas de "rendas de empréstimos" e "rendas de financiamentos" referem-se à operações financeiras, não podendo ser consideradas fatos jurígenos de ISSQN, já que não implicam a prestação material de serviços ao cliente ou consumidor.
+ ..
+Por derradeiro, destaca-se a receita decorrente de "contratação de operações ativas", que se origina, segundo esclarecimentos periciais de f. 786, de "tarifas cobradas dos clientes pela contratação/renovação de operações ativas em suas diversas carteiras, e estas constituem parte do custo da operação de crédito respectiva."
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+No mérito, verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  "analisando os documentos que tratam da espécie ora analisada, tem-se que não há uma prestação de serviços, não há uma obrigação de fazer, mas, sim, a disponibilização de crédito ao cliente, independentemente de serviço de análise de crédito ou qualquer outra prestação, o que configura uma relação jurídica de natureza estritamente financeira"  , é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+A corroborar com esse entendimento, destacam-se:
+AGRAVO INTERNO. PROCESSUAL CIVIL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. REEXAME DE PROVAS, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE.
+1. Não há falar em omissão, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, não cabendo confundir omissão com entendimento diverso do perfilhado pela parte.
+2. A conclusão do Tribunal de origem acerca de ter havido homologação de laudo pericial, preclusão consumativa e desnecessidade de produção de nova prova pericial, decorreu do exame dos elementos constantes nos autos, de modo que não pode ser revista em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt na TutPrv no REsp 1536408/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/11/2017, DJe 24/11/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA DE IMÓVEL. AVALIAÇÃO REALIZADA POR OFICIAL DE JUSTIÇA. IMPUGNAÇÃO. DISCUSSÃO SOBRE A NECESSIDADE DE NOMEAÇÃO DE AVALIADOR OFICIAL. ACÓRDÃO RECORRIDO FULCRADO NAS PECULIARIDADES DO CASO CONCRETO. REEXAME DE PROVA. ÓBICE DA SÚMULA 7/STJ.
+1. É certo que a orientação das Turmas que integram a Primeira Seção/STJ pacificou-se no sentido de que o art. 13, § 1º, da Lei 6.830/80 deve ser aplicado, ainda que a avaliação tenha sido efetuada por oficial de justiça, ou seja, "impugnada a avaliação, pelo executado, ou pela Fazenda Pública, antes de publicado o leilão, o juiz, ouvida a outra parte, nomeará avaliador oficial para proceder a nova avaliação", conforme dispõe o preceito legal referido.
+2. No entanto, em caso análogo, a Segunda Turma/STJ mitigou a regra prevista no art. 13, § 1º, da Lei 6.830/80, aplicando o óbice da Súmula 7/STJ, na hipótese em que o Tribunal de origem afirmou inexistir situação concreta apta a invalidar a avaliação realizada pelo oficial de justiça avaliador (REsp 1259854/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/08/2011, DJe 01/09/2011).
+3. No presente caso, considerando que o Tribunal afirmou que, "neste momento, deve ser prestigiada a presunção de legitimidade do laudo produzido pela auxiliar do juízo, não havendo elementos mínimos a autorizar, por ora, nova avaliação do imóvel", é imperioso concluir que a análise da alegada afronta ao art. 13, § 1º, da Lei 6.830 encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1524901/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016)
+Cumpre esclarecer que o óbice aplicado impede o conhecimento do recurso por quaisquer das alíneas do permissivo constitucional.
+Diante do exposto, com fundamento no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. ISS. LISTA DE SERVIÇOS. ALEGADA PRESTAÇÃO DE SERVIÇO. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
