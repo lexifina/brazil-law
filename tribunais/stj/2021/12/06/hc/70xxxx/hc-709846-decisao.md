@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de SUZI HERMANN em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2234057-94.2021.8.26.0000).
+A paciente teve a prisão preventiva decretada, em 6/12/2020, e foi denunciada por suposta prática dos crimes de lesões corporais graves.
+Impetrado writ originário, a ordem foi denegada (fl. 43).
+A defesa alega que a paciente está sendo vítima de constrangimento ilegal, pois há excesso de prazo na formação da culpa, em previsão de audiência para oitiva de testemunhas, estando presa há quase 1 ano (fl. 4).
+Sustenta que estão ausentes os fundamentos da prisão cautelar - os requisitos da medida extrema (fl. 5).
+Aduz que a paciente possui residência fixa no distrito da culpa e um filho menor de 12 anos, fazendo jus à prisão domiciliar (fl. 10).
+Requer a revogação da prisão preventiva e a expedição de alvará de soltura em favor da paciente; subsidiariamente, pleiteia a substituição da prisão preventiva por medidas cautelares alternativas.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+No que diz respeito aos fundamentos da prisão preventiva, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fl. 45):
+Inexiste a alegada demora na formação da culpa. Aliás, convém lembrar que decisões judiciais mais justas decorrem da aplicação das normas jurídicas vigentes da forma preconizada pelo teoricamente chamado sistema jurídico aberto, ou seja, considerando-se não só as regras, mas também os princípios que regem o Direito Positivo.
+Assim, independentemente da letra do artigo 400 do Estatuto Rito, absolutamente irreal para as condições brasileiras, penso que o princípio da razoabilidade justifica, plenamente, a demora que se observa na prolação da sentença, até porque a complexidade do processo principal, por ela própria, impede que o feito corra com mais desenvoltura.
+Ressalto que a instrução está em andamento, e que a audiência de instrução, debates e julgamento, em continuação, foi designada para o dia 11 de novembro próximo. Então, inexistindo desídia do Juiz na condução do processo, também inexiste constrangimento ilegal por excesso de prazo na formação da culpa.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+A despeito da linha argumentativa de que a paciente preenche os requisitos para substituição da prisão preventiva pela domiciliar, porquanto é cuidadora exclusiva de seu filho de 12 anos de idade, registre-se que, não obstante o disposto no art. 318-A, a substituição da custódia preventiva não é automática, dependendo de preenchimento dos requisitos legais e de inequívoca comprovação de ser ela a única responsável pelo menor.
+No caso dos autos, os crimes foram praticados com violência, uma vez que a paciente jogou soda cáustica nos rostos de dois milicianos, causando-lhes sérias lesões, não se podendo falar em concessão do benefício, conforme previsto no art. 318-A, I, do CPP.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex offici o.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
