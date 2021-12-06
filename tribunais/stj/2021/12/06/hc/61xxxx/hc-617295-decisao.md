@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MAYRLA LIMA DA SILVA contra acórdão do Tribunal de Justiça do Estado do Acre proferido na Apelação Criminal n. 0014882-67.2017.8.01.0001.
+Constanos autos que a Paciente foi denunciada como incursa no art. 155, § 4.º, inciso IV, do Código Penal, juntamente com Milena Ribeiro dos Santos, porque "subtraíram para elas, coisas alheias móveis, quais sejam: 02 (duas) pranchas da marca TAIFF LOOK, ambas no valor de R$ 340,00 (trezentos e quarenta reais) cada, 01 (uma) prancha da marca TAIF LOOK450, no valor de R$ 388,00 (trezentos e oitenta e oito reais), 01 (um) tablete de chocolate da marca Nestlé, no valor de R$ 2,00 (dois reais), 01 (uma) tinta para cabelo da marca Alfaparf Alta Moda, no valor de R$ 10,00 (dez reais), de propriedade da vítima José de Oliveira Cruz" (fl. 76).
+Concluída a instrução criminal, foi condenada pela prática do delito previsto no art. 155, § 4.º, inciso IV, do Código Penal, às penas de 2 (dois) anos de reclusão, em regime inicial semiaberto, e 10 (dez) dias-multa.
+A sentença condenatória foi integralmente mantida pela Corte de origem, que negou provimento ao recurso de apelação interposto pela Defesa, em acórdão assim ementado (fl. 183):
+"Penal. Processual Penal. Apelação Criminal. Furto qualificado.Pena. Substituição. Requisitos. Ausência.
+- A substituição da pena privativa de liberdade por restritiva de direitos pressupõe o preenchimento dos requisitos previstos na Lei. A ausência de qualquer um deles obsta a concessão do referido benefício.
+- Recurso de Apelação Criminal desprovido."
+Neste writ, a Defesa alega, em síntese, que "ocorreu erro e injustiça no tocante à não aplicação da substituição da pena privativa de liberdade por restritiva de direitos, em total desrespeito ao que preconiza a doutrina e a legislação pátria, pois violou os artigos 44 do Código Penal, artigo 381, inciso III, do Código de Processo Penal, e artigo 93, IX da CF" (fl. 6).Aduz que a Paciente preenche os requisitos para a substituição da pena reclusiva por reprimendasrestritivas de direitos, já que não é reincidente específica e a medida é socialmente recomendável na hipótese.
+Requer, em liminar, a suspensão dos efeitos do acórdão impugnado e, no mérito, a conversão da pena privativa de liberdade por sanções restritivas de direitos.
+O pedido liminar foi indeferido (fls. 201-203).
+As informações foram dispensadas.
+O Ministério Público Federal, em seu parecer de fls. 183-187, opina pela concessão da ordem.
+É  o  relatório. Decido.
+O pleitodefensivo comporta concessão.
+Ao  condenar  a  Paciente,  o  Juiz  calculou a pena,alvitrou  o  regime  semiaberto  e negou a substituição da reprimenda corporal por penas restritivas de direitos sob os seguintes fundamentos (fls. 138-139; grifos diversos do original):
+"4.1. Fixação da pena:
+4.1.1 Da individualização da pena da acusada MAYRLA LIMA DA SILVA.
+a) Pena base (Art. 155, §4º, inciso IV, do Código Penal):
+1. culpabilidade: Culpabilidade normal a espécie, nada tendo a se valorar.
+2. antecedentes: Em consulta ao SAJ (pp. 69/70), verifica-se que a ré é reincidente, todavia deixo de valorar nesta fase para garantir a inocorrência do bis in idem.
+3. conduta social: Poucos elementos foram coletados a respeito de sua conduta social, razão pela qual nada a considerar.
+4. personalidade do agente: Poucos elementos se coletaram sobre a personalidade do agente, razão pela qual nada a considerar.
+5. motivos: O motivo do crime está relacionado ao propósito de obtenção de lucro fácil, inerente ao tipo penal, não servindo de causa a exasperar a pena-base.
+6. circunstâncias: As circunstâncias do crime foram normais à espécie, não sendo, portanto, causa de valoração da pena.
+7. consequências: As consequências do crime não ultrapassam aquelas que constituem a materialidade do delito em questão, tendo em vista que a vítima conseguiu recuperar os bens furtados, não servindo, portanto, de causa a exasperar a pena.
+8. comportamento da vítima: A atitude da vítima em nada contribuiu no cometimento do delito, razão pela qual, não há de se considerar.
+Considerando que os antecedentes do crime são desfavoráveis ao acusado, fixo a pena-base em 02 (dois) anos de reclusão.
+b) Circunstâncias atenuantes e agravantes:
+Em que pese tenha sido decretada a revelia da ré, reconheço em seu favor a atenuante da confissão espontânea, tendo em vista que a mesma confessou os fatos em sede de inquérito policial, o que foi corroborado pela prova oral colhida em juízo, bem como em seu desfavor a agravante da reincidência, por ter sido condenada por crime de Tráfico de Drogas e Condutas Afins, conforme consulta ao site do TJAC às pp. 69/70 (Processo nº.0005952-94.2016.8.01.0001).
+Concorrendo a circunstância atenuante prevista no artigo 65, III, alínea "d" do CP (confissão), com a circunstância agravante prevista no artigo 61, I, do Código Penal (reincidência), em observância ao artigo 67 do CP e do posicionamento jurisprudencial mais recente, entendo que ambas as causas devem ser igualmente valoradas e, portanto, opera-se a compensação, por se tratar a confissão de circunstância afeta à personalidade do agente.
+Assim, concorrendo ambas as circunstâncias e por terem igual valor, mantenho a pena em 02 (dois) anos de reclusão.
+Nesse sentido decidiu o STJ, informativo 498: ..
+c) Causas de aumento e de diminuição
+Não existem causas de aumento ou de diminuição da pena, razão pela qual, à míngua de outras causas modificadoras, torno-a definitiva e concreta em 02 (dois) anos de reclusão.
+d) Pena de multa
+Em caráter cumulativo, condena-se, ainda, a acusada ao pagamento de 10 (dez) dias-multa, observando-se, para tanto, as diretrizes do Art. 59 do Código Penal, e os demais elementos acima analisados, ao valor de 1/30 (um trinta avos) do salário mínimo vigente à época dos fatos, cujo recolhimento dar-se-á através de guia própria, até o 11º (décimo primeiro) dia do trânsito em julgado desta decisão, sob pena de ser lançada na dívida ativa do Estado (Art. 51, do Código Penal).
+e) Regime da pena
+Em vista do quanto disposto pelo art. 33, §2º, alínea "b", do Código Penal aliado com a Súmula nº 269 do STJ, determino que o cumprimento da pena dos réus seja iniciado no REGIME SEMIABERTO, considerando a reincidência da ré, o que lhe impõe o agravamento do regime para o imediato subsequente na gradação do dispositivo, qual seja, regime semiaberto.
+De acordo com esse entendimento vale citar o teor das seguintes Súmulas do Superior Tribunal de Justiça e do Supremo Tribunal Federal, in verbis:
+Súmula 269 - STJ:
+"É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais."
+Súmula 718 - STF:
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada".
+Súmula 719 - STF:
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+Não é cabível a aplicação da substituição da pena privativa de liberdade por restritiva de direitos, uma vez que não preenchidos os requisitos do Art. 44 do Código Penal, em face da reincidência, razão pela qual deixo de conceder essa benesse."
+O Tribunal  a  quo  ratificou  a negativa dasubstituição da reprimenda corporal por sanções restritivas de direitos, in verbis(fls. 185-187):
+"Não há discussão sobre a autoria e a materialidade do crime praticado pela apelante. A sua insurgência se limita à negativa de substituição da pena privativa de liberdade por restritiva de direitos. Diz que a sua reincidência não é específica e não impede a substituição pleiteada.
+É certo que a gravidade genérica da conduta não caracteriza óbice à substituição prevista no artigo 44, do Código Penal. A possibilidade de concessão do benefício deve ser analisada caso a caso, em respeito à garantia constitucional da individualização das penas.
+A ficha de antecedentes criminais juntada nas páginas 69 e 70, demonstra que a apelante é reincidente em crime doloso - tráfico de drogas.
+Na hipótese dos autos, o requisito objetivo previsto no artigo 44, inciso II, não está presente. A apelante é reincidente em crime doloso. Portanto, não é cabível a substituição da pena privativa de liberdade por restritivas de direitos.
+Nesse sentido são os precedentes no âmbito do Superior Tribunal de Justiça:
+ ..
+Como já mencionado, trata-se de ré reincidente em crime doloso. Julgo que a substituição da pena privativa de liberdade por restritiva de direitos não é socialmente recomendável. Ela tem reiterado na prática de condutas delituosas, o que demonstra que a adoção de medidas alternativas não se mostra suficiente para reprimir e prevenir a prática de crimes.
+Com esses fundamentos, negoprovimento ao Recurso."
+Como se vê,concluiu-se que a substituição não seria socialmente recomendável em razão da reincidência da Paciente,tendo o Tribunal a quoconsignado que ela foi condenada anteriormente por crime de tráfico de drogas e condutas afins.Na certidão de antecedentes criminais (fl. 81), consta também ocumprimento de pena por delito de desacato.
+Entretanto, o indeferimento da substituição é ilegalidade a ser reparada.
+Isso porque o art. 44, inciso I, do Código Penal admite a conversão da reprimenda corporal por sanções restritivas dedireitos no caso em que se tratar de crime culposo ou, em caso de crime doloso não cometido com violência ou grave ameaça à pessoa, caso a pena privativa de liberdade não seja superior a quatro anos.
+Ademais, a substituição de pena é admitida também ao condenado reincidente, conforme literalidade do art. 44, § 3.º, do Código Penal, desde que, em face da condenação anterior, a medida seja socialmente recomendada e a reincidência não tenha se operado em razão da prática do mesmo delito.
+Desse modo, na presente hipótese, não havendo reincidência específica, a pena foi fixada em patamar inferior a 4 (quatro) anose as circunstâncias judiciais foram consideradas favoráveis,deve ser reconhecida a viabilidade da substituição prevista no art. 44 do Código Penal.
+Nesse sentido, cito os seguintes julgados:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA 182/STJ. FUNDAMENTOS IMPUGNADOS.CONHECIMENTO. FURTO. REINCIDENTE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE RECONHECIDA. REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO E PROVER O RECURSO ESPECIAL.
+1. Devidamente impugnados os fundamentos da decisão de inadmissão do recurso especial, é de ser reconsiderada a decisão que não conheceu do agravo.
+2. O art. 44, II, do Código Penal veda a substituição da pena privativa de liberdade por pena restritiva de direitos ao acusado reincidente em crime doloso, salvo se, em face de condenação anterior, a medida for socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime (§ 3º).
+3. "Na hipótese, a negativa de substituição da pena privativa de liberdade por restritivas de direitos não está devidamente justificada. Isso, porque o Tribunal local não procurou demonstrar o porquê de não ser recomendável a substituição, tendo em vista as circunstâncias delineadas no caso concreto, além da reincidência. Vale dizer, ao contrário do que entendeu a instância a quo, a reincidência não específica, de modo isolado, não evidencia a insuficiência das penas alternativas (art. 44, § 3.º, do Código Penal)" (HC 436.307/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/08/2018, DJe 24/08/2018).
+4. Agravo regimental provido para conhecer do agravo e prover o recurso especial, a fim de substituir a pena privativa de liberdade por penas restritivas de direitos, que devem ser fixadas pelo Juízo da execução."(AgRg no AREsp 1.793.700/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 03/08/2021, DJe 09/08/2021; sem grifos no original.)
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO.SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. RÉU REINCIDENTE NÃO ESPECÍFICO. POSSIBILIDADE. AUSÊNCIA DE FUNDAMENTOS CONCRETOS DEMONSTRANDO SER A MEDIDA SOCIALMENTE NÃO RECOMENDADA. FLAGRANTE ILEGALIDADE EVIDENCIADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 44, I, do Código Penal estabelece que será admitida a conversão da pena corporal por restritiva de direitos se "aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo".
+2. A substituição de pena é admitida também ao reincidente, tanto que o art. 44, § 3º, do Código Penal permite a concessão da benesse, desde que, em face da condenação anterior, a medida seja socialmente recomendada e a reincidência não tenha se operado em razão da prática do mesmo delito.
+3. Tratando-se de paciente reincidente não específico, cuja pena imposta foi fixada aquém dos 4 anos, com todas as circunstâncias judiciais favoráveis, deve ser reconhecida a viabilidade da concessão da benesse prevista no art. 44 do Código Penal, pois, além da ausência de fundamentação concreta apta ao indeferimento da benesse, o agravado possui uma única condenação anterior.
+4. Agravo regimental desprovido."(AgRg no HC 658.399/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/06/2021, DJe 21/06/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS.EMBRIAGUEZ NA CONDUÇÃO DE VEÍCULO AUTOMOTOR. DOSIMETRIA.SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. INCIDÊNCIA DO § 3º DO ART. 33 DO CÓDIGO PENAL. MATÉRIA NÃO APRECIADA PELO CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.REINCIDÊNCIA. DIVERSAS ANOTAÇÕES CRIMINAIS NA FOLHA ANTECEDENTES, AINDA SEM TRÂNSITO EM JULGA. MEDIDA NÃO RECOMENDADA SOCIALMENTE.AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.decisão vergastada pelos próprios fundamentos.
+II - O tema constante do § 3º do art. 44 do Código Penal (Se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime" - grifei), não foi objeto de análise da Corte de Origem. Desse modo, inviável o exame do pleito, na hipótese, pois tal proceder configuraria indevida supressão de instância, situação rechaçada por esse Tribunal Superior.
+III - O § 3º do art. 44, do Código Penal prevê a possibilidade de substituição se a medida for socialmente recomendada e a reincidência não tenha se operado em virtude de prática do mesmo crime.
+IV - No caso concreto, a medida não é socialmente recomendada, haja vista a gravidade da recidiva pratica, ou seja, crime de ameaça, além da constatação feita pelo v. acórdão impugnado, na primeira fase da dosimetria, de que o embargante ostenta diversas anotações em sua folha de antecedentes criminais, ainda sem trânsito em julgado (fl. 72).
+Agravo Regimental desprovido."(AgRg nos EDcl no HC 545.644/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/05/2020, DJe 19/05/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. ART. 16, PARÁGRAFO ÚNICO, LEI 10.826/03.DOSIMETRIA. ARMA MUNICIADA. AUMENTO DA PENA-BASE. CIRCUNSTÂNCIA SOPESADA NEGATIVAMENTE. DESCABIMENTO. FATOR COMUM À ESPÉCIE.SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. PACIENTE REINCIDENTE POR CRIME PRATICADO COM VIOLÊNCIA.REINCIDÊNCIA NÃO ESPECÍFICA. REQUISITOS DO ART. 44, § 3º, DO CP PREENCHIDOS. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. Não se mostra necessário, para a tipificação do crime previsto no art. 16 da Lei 10.826/2003, que a arma esteja municiada. Contudo, o fato de assim se apresentar não pode constituir fundamento idôneo, e concreto, para aumento da pena-base, motivada na maior reprovabilidade da conduta, por se tratar de circunstância comum à espécie.
+2. Reduzida a pena-base ao mínimo legal, a sanção final a patamar inferior a 4 anos de reclusão, e não sendo o réu reincidente específico, é devida a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44, § 3º, do Código Penal.
+3. Agravo regimental improvido."(AgRg no HC 547.030/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/02/2020, DJe 14/02/2020; sem grifos no original.)
+Ante  o  exposto,  CONCEDO  a  ordem  de  habeas  corpusa fim de substituir a pena privativa de liberdade por restritiva de direitos, nos moldes do art. 44 do Código Penal, a serestabelecidapelo Juízo das Execuções Criminais.
+Publique-se.  Intimem-se.
+EMENTA
+HABEAS  CORPUS.  PENAL.  FURTO QUALIFICADO.  REINCIDÊNCIA NÃO ESPECÍFICA. PENA RECLUSIVA INFERIOR A QUATRO ANOS. CIRCUNSTÂNCIAS JUDICIAIS CONSIDERADAS FAVORÁVEIS. VIABILIDADE DA SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS.  ORDEM  DE HABEAS CORPUS CONCEDIDA.
