@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUCILENE DE JESUS ANATOLIO à decisão de fls. 225/226, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A agravante em seu recurso informou que os autos originários foram digitalizados o que por si só já dispensa a feitura dos alegados traslados na forma do artigo 1.017 do C.P.C.: (fl. 228).
+ ..
+Por uma simples e detida leitura do artigo citado artigo verifica-se em seu parágrafo 5º a dispensa das peças referidas nos incisos I e II do caput, quando os autos do processo forem eletrônicos.
+A agravante ainda assim na sua última petição anexou aos autos todas as peças ditas essenciais do processo originário para comprovar que é beneficiária da assistência judiciária gratuita e o nobre relator não visualizou tais peças, renegadas no último despacho. A agravante nessas peças não visualizadas ou tidas como inexistentes prova que: (fl. 229).
+ ..
+Os pedidos abaixo não foram analisados pelo nobre relator e foram feitos na última petição da agravante, e tem a ver com as custas processuais:
+a) Que lhe seja deferido o benefício da gratuidade da Justiça atualmente em razão da impossibilidade financeira de arcar com o pagamento das custas processuais sem comprometer o sustento próprio;
+b) Ou que lhe seja permitido parcelar o valor das custas processuais se devido em três parcelas, integral ou em dobro, o que fará com a ajuda da caridade alheia.
+(pedidos da última petição) (fl. 230).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que o recurso especial não foi instruído com a guia de custas e respectivo comprovante de pagamento, tampouco houve a comprovação, no momento da interposição, de que a parte litiga sob os efeitos da gratuidade de justiça.
+A mera alegação da parte, na petição recursal, de que é beneficiária da assistência judiciária gratuita não é suficiente para o afastamento da deserção, isto é, deve haver a comprovação dessa condição no ato da interposição do recurso, ou quando da intimação para regularização do vício. Nesse sentido: AgInt no AREsp 1545172/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 5/6/2020.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, uma vez que os documentos juntados às fls. 174/220 não são suficientes para comprovar sua condição de beneficiária da gratuidade. No caso, deveria a parte ter trazido cópia integral dos respectivos autos ou certidão comprobatória do tribunal de origem do deferimento da benesse.
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Registre-se que a dispensa prevista no art. 1017, § 5º, do CPC se aplica à interposição do agravo de instrumento para o Tribunal de Justiça, ou seja, a dispensa está voltada ao primeiro e ao segundo graus de jurisdição, tendo em vista que, a princípio, compartilhariam o mesmo sistema eletrônico. Nesse sentido, o AgInt no REsp 1869850/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 17/02/2021; AgInt no AREsp 1691791/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/11/2020; AgInt no AREsp 1504387/RJ, relator Ministro Og Fernandes, Segunda Turma, Dje de 27/02/2020.
+Portanto, conclui-se que, a referida dispensa não se estende ao STJ, cabendo à parte providenciar a juntada dos documentos pertinentes aos autos quando da interposição de recurso a esta Corte.
+No mais, impende ressaltar que é despiciendo eventual deferimento do benefício da justiça gratuita nesse momento processual pois a suposta benesse somente teria efeitos futuros, não sendo capaz de isentar a parte embargante das custas processuais referentes aos atos anteriores, porquanto, apesar de o pedido de justiça gratuita poder ser formulado a qualquer tempo e instância, ele não retroage para alcançar encargos processuais anteriores. Nesse sentido: AgInt no AREsp 1619350/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1820544/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/3/2020; e AgInt no AREsp 1215154/RJ, relator Ministro Gurgel De Faria, Primeira Turma, DJe de 24/10/2019).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
