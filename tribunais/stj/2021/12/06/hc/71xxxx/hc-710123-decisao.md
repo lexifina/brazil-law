@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de SANTOS SABINO DE SOUSA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.21.234698-5/000).
+O paciente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público (fls. 61-64) por suposta prática do delito descrito no art. 121, §2º, II, na forma do art. 14, II, ambos do Código Penal.
+O decreto prisional fundou-se na gravidade concreta do delito. Impetrado writ originário, a ordem foi denegada.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois a prisão preventiva fundou-se na gravidade abstrata do delito.
+Aduz que os requisitos para a manutenção da custódia cautelar não foram preenchidos.
+Afirma que a medida cautelar imposta é desnecessária e pugna pela aplicação de medidas cautelares diversas da prisão.
+Requer a expedição de alvará de soltura em favor do paciente.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 158-162, destaquei):
+Norteando-me pela certeza de que não existem direitos absolutos e de que é preciso que todos eles convivam harmonicamente na ordem jurídica, vejo que, no caso dos autos, há motivação idônea amparando a constrição cautelar do paciente.
+Isso porque, não vislumbro qualquer irregularidade nas r. decisões proferidas, estando devidamente calcadas em dados concretos dos autos e fundamentadas na garantia da ordem pública, permitindo, desta forma, saber os reais motivos que ensejaram a adoção e manutenção da medida cautelar extrema, senão vejamos:
+ .. .
+Assim, não há que se falar em revogação da prisão por ausência de fundamentação, vez que a douta autoridade coatora expôs de maneira fundamentada a necessidade da segregação, em especial para garantia da ordem pública.
+Ademais, sem a pretensão de se adentrar ao mérito da causa, bem como de revolver as provas dos autos, o que é incabível nesta sede, tem-se que, no presente caso, a infração penal imputada ao agente encerra elevada reprovabilidade social, visto cuidar-se, em tese, de um homicídio qualificado tentado, praticado com emprego de arma branca, por motivação fútil e suposta embriaguez, o que indica a imprescindibilidade da medida constritiva a fim de se preservar a integridade física da vítima.
+Assim, percebe-se facilmente que a infração imputada ao paciente encerra elevada gravidade concreta, extrapolando os níveis ínsitos ao tipo penal teoricamente infringido, o que demonstra periculosidade do agente, ensejando, assim, a manutenção da prisão preventiva, como forma de garantia da ordem pública
+ ..
+Vislumbra-se, portanto, não apenas a presença dos pressupostos fáticos (artigo 312 do Código de Processo Penal), a saber, a garantia da ordem pública, mas também de um dos requisitos instrumentais (artigo 313, I, do mesmo codex), qual seja, prática de crime doloso punido com pena máxima privativa de liberdade superior a 04 (quatro) anos, mostrando-se necessária a manutenção da prisão preventiva.
+ ..
+Nesse contexto, conforme dito alhures, a gravidade concreta dos fatos apurados, aliado à prova da materialidade da infração penal em voga e a indícios suficientes de autoria do ora paciente, revelam a necessidade de se manter a prisão preventiva, ora fustigada, pelo que a aplicação de outras medidas cautelares diversas do acautelamento não seria suficiente para se garantir a ordem pública.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Observa-se que a gravidade concreta do delito, bem como a periculosidade do paciente foram consideradas pelo Tribunal de origem para denegar a ordem.
+O entendimento acima está em consonância com a jurisprudência do STJ de que "a gravidade concreta do crime como fundamento para a decretação ou manutenção da prisão preventiva deve ser aferida, como no caso, a partir de dados colhidos da conduta delituosa praticada pelo agente, que revelem uma periculosidade acentuada a ensejar uma atuação do Estado cerceando sua liberdade para garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal" (HC n. 596.566/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/9/2020).
+Ademais, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
