@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por WADRES FERNANDO SILVA COSTAcontra acórdão do Tribunal de Justiça do Estado do Tocantins (HC n. 0000215-65.2021.8.27.2700).
+Orecorrente teve a prisão em flagrante convertida em preventivae foi denunciadopor suposta prática dos delitos descritos nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na quantidadee natureza dos entorpecentes apreendidos - 8,6g de maconha, 15,1g de crack e8kg em tabletes de maconha -, juntamente com um pé de maconha. Impetradowrit na origem, a ordem foi denegada.
+O recorrente afirma que sofre constrangimento ilegal, pois a decisão fundou-se na gravidade abstrata do delito, poisnão apresentou elementos concretos do presente caso que justificassem a aplicação da medida cautelar mais gravosa.
+Afirma que a pequena porção de maconha apreendida era para consumo próprio e que não possui vínculo com a porção de 8kg.
+Sustenta que éprimário, tem bons antecedentes, possui residência fixa, resideno distrito da culpa e está matriculado em instituição de ensino médio.
+Pugna pela aplicação do benefício do tráfico privilegiado, haja vista seus predicados pessoais favoráveis e a pequena quantidade deentorpecentes apreendida.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura com aplicação de medidas cautelares alternativas.
+O pedido de liminar foi indeferido às fls. 128-129.
+As informações foram prestadas às fls. 135-141 e 143-149.
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso em habeas corpus (fls. 151-155).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fls. 68-69, Apenso 1):
+Na situação in judice, observa-se que a acusada foi flagrada na posse de quantidade substancial de substâncias entorpecentes análogas a maconha (cerca de 8kg em barra) além de uma muda da planta, conforme auto de prisão em flagrante, auto de exibição e apreensão e laudo preliminar de constatação de drogas, que indicam a prática do crime de tráfico de drogas.; A materialidade delitiva encontra-se vastamente evidenciada (evento 01).
+ ..
+De igual modo, embora o terceiro acusado tenha aparentes bons antecedentes, isso por si só não ilide a gravidade do crime e a quantidade de droga apreendida durante a apreensão, que indica associação clara para o crime de tráfico, devendo ser mantido segregado e à disposição do Poder Judiciário.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Observa-se quea quantidade deentorpecentes apreendida(8,6g de maconha, 15,1g de crack e 8kg em tabletes de maconha) foi considerada pelo Juízo de primeiro grau para a decretação da prisão preventiva e justifica a imposição da medida extrema para garantia da ordem pública, em detrimento das demais cautelares substitutivas.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, eventuais condições subjetivasfavoráveisdo recorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Por fim, ressalte-se que a alteração da decisão que decretou a preventiva no que se refere à existência de indícios de autoria e de prova da materialidade do delito demanda dilação probatória, procedimento incompatível com a estreita via do habeas corpus, devendo a questão ser dirimida no trâmite da instrução criminal. Nesse sentido: HC n. 504.546/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/10/2019; e RHC n. 123.822/DF, relator Ministro Teori Zavascki, Segunda Turma, DJe de 20/10/2014.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
