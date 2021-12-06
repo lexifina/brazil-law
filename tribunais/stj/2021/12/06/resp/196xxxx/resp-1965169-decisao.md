@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 2ª Região cuja ementa é a seguinte:
+TRIBUTÁRIO. CIVIL. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REDIRECIONAMENTO DA EXECUÇÃO FISCAL PARA O AGRAVANTE. INEXISTÊNCIA DEDISSOLUÇÃO IRREGULAR. LAPSO PRESCRICIONAL SUPERIOR A CINCO ANOS. DECISÃOAGRAVADA REFORMADA.
+1 - A questão gira em torno da insatisfação do agravante pelo fato do Juízo a quo ter rejeitado a exceção de pré-executividade proposta. O prazo prescricional para o redirecionamento da execução fiscal conta-se da data em que o exequente tem ciência da dissolução irregular da empresa, contudo no caso em tela a empresa executada foi regularmente citada e participou da relação processual.
+2 - A empresa executada compareceu espontaneamente no feito em 30/08/1999, sendo que este ato supriu a citação da mesma.
+3 - Saliente-se que o requerimento da União Federal/Fazenda Nacional para inclusão do agravante data de 19/10/2014, fazendo menção de que a empresa executada não foi localizada, o que não se coaduna com as provas dos autos, haja vista que a mesma foi regularmente citada e participou da relação processual.
+4 - Ademais, a jurisprudência do STJ é no sentido de que a citação da sociedade executada interrompe a prescrição em relação aos seus sócios-gerentes para fins de redirecionamento da execução fiscal, que deverá ser promovida no prazo de cinco anos, de tal modo que no caso em tela há que se reconhecer o lapso prescricional, pois decorreram mais de cinco anos entre a citação da empresa e a citação do agravante.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts. 135, III, 174, caput, e parágrafo único, I, III, todos do CTN, com a redação determinada pela Lei Complementar 118/2005, porquanto "a Corte Regional concluiu que não havia dissolução irregular comprovada, tendo em vista que a empresa fora regularmente citada e participara do feito. No entanto, a dissolução irregular é fato incontroverso".
+Em suas contrarrazões, o recorrido pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido pela decisão de fls. 450/453.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem decidiu que "saliente-se que o requerimento da União Federal/Fazenda Nacional para inclusão do agravante data de19/10/2014, fazendo menção de que a empresa executada não foi localizada, o que não se coaduna com as provas dos autos, haja vista que a mesma foi regularmente citada e participou da relação processual".
+Verifica-se que, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado  ausência de dissolução irregular  , é necessário o reexame de matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na Súmula 7/STJ.
+A corroborar com esse entendimento, destacam-se:
+AGRAVO INTERNO. PROCESSUAL CIVIL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. REEXAME DE PROVAS, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE.
+1. Não há falar em omissão, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, não cabendo confundir omissão com entendimento diverso do perfilhado pela parte.
+2. A conclusão do Tribunal de origem acerca de ter havido homologação de laudo pericial, preclusão consumativa e desnecessidade de produção de nova prova pericial, decorreu do exame dos elementos constantes nos autos, de modo que não pode ser revista em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt na TutPrv no REsp 1536408/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/11/2017, DJe 24/11/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA DE IMÓVEL. AVALIAÇÃO REALIZADA POR OFICIAL DE JUSTIÇA. IMPUGNAÇÃO. DISCUSSÃO SOBRE A NECESSIDADE DE NOMEAÇÃO DE AVALIADOR OFICIAL. ACÓRDÃO RECORRIDO FULCRADO NAS PECULIARIDADES DO CASO CONCRETO. REEXAME DE PROVA. ÓBICE DA SÚMULA 7/STJ.
+1. É certo que a orientação das Turmas que integram a Primeira Seção/STJ pacificou-se no sentido de que o art. 13, § 1º, da Lei 6.830/80 deve ser aplicado, ainda que a avaliação tenha sido efetuada por oficial de justiça, ou seja, "impugnada a avaliação, pelo executado, ou pela Fazenda Pública, antes de publicado o leilão, o juiz, ouvida a outra parte, nomeará avaliador oficial para proceder a nova avaliação", conforme dispõe o preceito legal referido.
+2. No entanto, em caso análogo, a Segunda Turma/STJ mitigou a regra prevista no art. 13, § 1º, da Lei 6.830/80, aplicando o óbice da Súmula 7/STJ, na hipótese em que o Tribunal de origem afirmou inexistir situação concreta apta a invalidar a avaliação realizada pelo oficial de justiça avaliador (REsp 1259854/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/08/2011, DJe 01/09/2011).
+3. No presente caso, considerando que o Tribunal afirmou que, "neste momento, deve ser prestigiada a presunção de legitimidade do laudo produzido pela auxiliar do juízo, não havendo elementos mínimos a autorizar, por ora, nova avaliação do imóvel", é imperioso concluir que a análise da alegada afronta ao art. 13, § 1º, da Lei 6.830 encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1524901/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016)
+Diante do exposto, com base no art. 932, III, do CPC/2015, c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. ALEGADA DISSOLUÇÃO IRREGULAR. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
