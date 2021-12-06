@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+- A todo tempo e mediante simples declaração dá-se a qualquer dos litigantes pedir o benefício da assistência judiciária gratuita, que, porém, não se defere se as circunstâncias desmentirem a alegação de pobreza - Agravo não provido.
+Alegou-se, no especial, violação dos artigos 1.022, 99, § 2º e § 7º, e 493, do Código de Processo Civil, sob o argumento de que o acórdão local é omisso e que o recorrente tem direito aos benefícios da gratuidade de justiça, não tendo sido determinado "prazo para juntar documentos, antes de indeferir o pedido", bem como"considerados fatos novos relevantes sobre o estado de saúde do agravante".
+Assim delimitada a controvérsia, passo a decidir.
+Não é omisso, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+No caso, entendo que o Tribunal de origem se manifestou de clara forma sobre a questão, in verbis:
+Neste caso, não foi comprovada a alegação deque o agravante seja, juridicamente, pobre.
+Nas cópias juntadas com a petição de agravo consta que ele é "advogado" (fl. 1 do agravo).
+Ocorre que nenhum dos documentos de fls.14/262 do agravo e de fls. 242/491 e 629/653, 708/752, 770/811, 826/876 do processo digital, consistentes em declaração de renda, extratos de contas correntes, protestos, receitas e diagnósticos médicos, acórdãos e decisões, consulta a órgãos de proteção, servem para comprovar a necessidade do benefício, porque são todos do anos de 2018 e 2019.
+O executado não juntou declaração do exercício de 2020, tendo apenas apresentado a do exercício de 2018, mais de uma vez (fls. 694/702, 753/761, 811/820 do processo digital), o que impede a análise da evolução do seu patrimônio financeiro, bem como não juntou extratos atuais da sua conta bancária, limitando-se a apresentar, por três vezes, os extratos de abril a maio de 2018 (fls. 703/707, 762/766, 821/825 do processo digital).
+A autora, por sua vez, juntou fotos do FACEBOOK, nas quais o executado exibiu viagens em 2020 para a praia (fls. 891/892, 928/930 do processo digital), passeios de mountain bike em 2020 (fls. 893, 897/898, 931, 939, 941 do processo digital), bem como o indeferimento do benefício no Agravo Interno nº 2181367-59.2019.8.26.0000/50000 (fls. 904/911 do processo digital), e em outros recursos em 2019 (fls. 912/925 do processo digital).
+As fotos revelam que o agravante não está com tantos problemas de saúde quanto quer fazer crer, ao contrário, aparenta boa saúde, a ponto de realizar passeios de bicicleta.
+Ademais, a concessão do benefício da justiça gratuita deriva de dificuldades financeiras, não de supostos problemas desaúde, a não ser que influam, decisiva e necessariamente, na renda do pretendente ao benefício, o que, como se viu, não é o caso do agravante.
+Pese a declaração apresentada ao INSS (fl. 10 do agravo), o agravante não negou a realização dos passeios de bicicleta, afirmando que "o problema de saúde do advogado subscritor é crônico e possui criterioso acompanhamento médico, para que sejam realizados alguns exercícios, inclusive, passeios de bicicleta, desde que o nervo não esteja inflamado" (sic, fl. 953 do processo digital).
+A afirmação, evidentemente, não convence.
+Andar de bicicleta exige muito esforço físico e não é compatível com a alegada impossibilidade de o réu exercer a advocacia, não sendo crível que esteja impedido de trabalhar, o que, diante do que há nos autos, beira a má- fé.
+O fato é que não há nenhum documento comprovando renda e patrimônio atuais do agravante, porque ele não juntou nenhum documento atual, sem o que não é possível concluir que ele não possa suportar o pagamento das custas e das despesas processuais.
+O agravante é profissional liberal autônomo a declaração de renda não se embasa em documentos, mas na deliberação do agravante e não é possível partir da premissa de que "advogado" faça, necessariamente, jus ao benefício pretendido.
+Ora, o agravante teve seu pedido negado em 1º Grau e, mesmo assim, nada trouxe ao agravo para comprovar o montante dos seus gastos e sua renda.
+E, embora o § 2º do artigo 99 do Código de Processo Civil assegure à parte o direito de comprovar que faz jus ao benefício, antes de ele ser indeferido, não vieram aos autos, como dito, nem mesmo com o agravo, provas convincentes da sua impossibilidade financeira.
+Cabia ao agravante fazer prova concludente de sua condição de necessitado. De tal ônus, porém, ele não se desincumbiu.
+Quanto ao mais, a conclusão da Corte de origem, no sentido de que não teria comprovado os requisitos necessários à concessão da gratuidade de justiça, é imune ao crivo do recurso especial, como ensina o verbete n. 7 da Súmula desta Casa.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA.PESSOA FÍSICA. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC DE 2015.INEXISTÊNCIA. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CARACTERIZADA. FALTA DE COMPROVAÇÃO DA NECESSIDADE DO BENEFÍCIO. REVISÃO DA CONCLUSÃO ALCANÇADA NA ORIGEM. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação ao art. 1.022 do CPC de 2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento.
+2. "Se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+3. De acordo com entendimento do STJ, a declaração de pobreza, com o intuito de obter os benefícios da assistência judiciária gratuita, goza de presunção relativa, admitindo, portanto, prova em contrário.
+4. Além disso, o Superior Tribunal de Justiça já decidiu que "o pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado." (AgRg no Ag 881.512/RJ, Rel. Ministro Carlos Fernando Mathias (Juiz Federal Convocado do TRF 1ª Região), Quarta Turma, julgado em 02/12/2008, DJe 18/12/2008).
+5. A conclusão a que chegou o Tribunal a quo, no sentido de indeferir a benesse pretendida, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Revê-la importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal pelo teor da Súmula 7 do STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1792605/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+Diante do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
