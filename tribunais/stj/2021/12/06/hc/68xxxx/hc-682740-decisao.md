@@ -1,0 +1,39 @@
+DECISÃO
+GERALDO ELIAS PEREIRA, de próprio punho, impetra habeas corpus com pedido de liminar. Aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Processo n. 0009351-03.2019.8.26.0496).
+Quando em cumprimento de pena corporal em regime semiaberto, o Juízo da execução penal reconheceu a prática pelo paciente defalta disciplinar grave consistente em desobediência de ordem recebida. Em consequência, determinou a regressão ao regime fechado, a perda de 1/3 dos dias remidos e a alteração da data-base para a progressãode regimea partir da falta grave apurada (fls. 47-49)
+Assistido pela Defensoria Pública da União, alega o pacientehaver constrangimento ilegal por ter sido determinado a regressão de regime semter sido oportunizadaaudiência de justificação, aduzindo que os testemunhos dos policiais são divergentes e frágeis, além dainsuficiência de probatória.
+Nega a autoria dos fatos e faz referência ao princípio do in dubio pro reo.
+Requer, liminarmente e no mérito, seja cassado o acórdão e determine-se ao Juízo da execução que realize, com brevidade, a audiência de justificação, para posterior reapreciação da regressão de regime.
+A liminar foi indeferida (fl. 28).
+As informações foram prestadas (fls. 37-96).
+O Ministério Público Federal opinoupela denegação da ordem(fls. 98-100).
+É o relatório. Decido.
+A matéria de fundo não foi apreciada no Tribunal de origem.
+Assim, o Superior Tribunal de Justiça não pode conhecer da questão, sob pena de indevida supressão de instância.
+A propósito, confira-se o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS. PLEITO POR UMA RESTRITIVA E UMA MULTA. SUPRESSÃO DE INSTÂNCIA. EFEITO DEVOLUTIVO DO RECURSO DE APELAÇÃO CRIMINAL LIMITADO PELA PRETENSÃO DEDUZIDA NAS RAZÕES RECURSAIS OU NAS CONTRARRAZÕES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL PASSÍVEL DE CORREÇÃO DE OFÍCIO. WRIT NÃO CONHECIDO. AGRAVO DESPROVIDO.
+ ..
+2. A despeito de conferir-se ao recurso de apelação efeito devolutivo amplo, esse é limitado ao que deduzido nas razões recursais ou nas contrarrazões. Dessa forma, em habeas corpus impetrado perante esta Corte, não é possível apreciar pretensão não ventilada nas instâncias antecedentes, sob pena de supressão de instância.
+3. Ademais, não se constata constrangimento ilegal, passível de correção de ofício, porque "nos termos da jurisprudência consolidada por esta Corte Superior, não existe direito subjetivo do réu em optar, na substituição da pena privativa de liberdade, se prefere duas penas restritivas de direitos ou uma restritiva de direitos e uma multa" (AgRg no HC n. 456.224/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 01/04/2019).
+4. Agravo regimental desprovido. (AgRg no HC n. 587.473/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 4/9/2020.)
+Contudo, atuação de ofício é medida a ser tomada, quando demonstrada, de plano, a apontada ilegalidade, o que se verifica na hipótese destes autos.
+Constata-se das informações prestadas e constantes no site do Tribunal de origem -autos do Processo n. 0009351-03.2019.8.26.0496 -que, em 20/11/2020, o Juízo da execução determinou a regressão ao regime fechado, a perda de 1/3 dos dias remidos e a alteração da data-base para a progressão de regime a partir da falta grave apurada.
+No entanto, não há notícia da realização de audiência de justificação (fl. 37).
+De acordo com o entendimento pacificado noSuperior Tribunal de Justiça, mostra-se correta a regressão de regime prisional, que ocorre quando há a prática de falta grave pelo sentenciado, nos termos dos arts. 52 e 118, I, da Lei de Execução Penal.
+A esse respeito, menciono: AgRg no HC n. 618.454/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 12/11/2020; e AgRg no HC n. 594.828/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/10/2020.
+Desse modo, aconclusão do Juízo singular não se coaduna com a jurisprudência firmada pelo Superior TribunaldeJustiça no sentidodeque, no casode regressãodefinitivaderegime pela práticadefalta disciplinar grave, deve haver a prévia oitiva judicial do executado, nos termos do art. 118, § 2º, da LeideExecução Penal, sob penadenulidade.
+Confiram-sejulgados nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO COLEGIADO. INOCORRÊNCIA. DECISÃO MONOCRÁTICA PROFERIDA NOS TERMOS LEGAIS. POSSIBILIDADE DE REAPRECIAÇÃO PELO ÓRGÃO COLEGIADO. EXECUÇÃO PENAL. FALTA GRAVE. APURAÇÃO MEDIANTE REGULAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. AUSÊNCIA DE OITIVA JUDICIAL DO SENTENCIADO. REGRESSÃO DE REGIME PRISIONAL. VIOLAÇÃO AO ART. 118, § 2º, DA LEP. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No que concerne à aduzida usurpação de competência dos órgãos colegiados, como é cediço, é possível o julgamento monocrático quando manifestamente inadmissível, prejudicado, com fundamento em súmula ou, ainda, na jurisprudência dominante desta Corte Superior, como no caso vertente, exegese dos arts. 34, inciso XVIII, alínea "c", e 255, § 4º, inciso III, ambos do RISTJ, e da Súmula n. 568/STJ. Ademais, a possibilidade de interposição de agravo regimental, com a reapreciação do recurso pelo órgão colegiado, torna superada eventual nulidade da decisão monocrática por suposta ofensa ao princípio da colegialidade. Precedentes.
+2. "A jurisprudência desta Corte tem se posicionado pela prescindibilidade da realização da audiência de justificação para homologação de falta grave, desde que a apuração da falta disciplinar tenha se dado em regular procedimento administrativo, no qual tenha sido assegurado ao apenado o contraditório e a ampla defesa" (AgRg no HC 533.904/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/10/2019, DJe 28/10/2019).
+3. Nas hipóteses em que o reconhecimento da falta grave acarreta a regressão definitiva do regime prisional, contudo, é firme o entendimento deste Superior Tribunal de Justiça no sentido de que o § 2º do art. 118 da LEP exige a oitiva prévia do apenado pelo Juízo da Execução. Precedentes.
+4. In casu, em que pese o apenado tenha sido ouvido no procedimento disciplinar, na fase administrativa, na presença da defesa técnica (e-STJ fl. 262), imprescindível a realização de audiência de justificação, porquanto determinada a regressão definitiva de regime prisional, contexto que ensejou a cassação da decisão que homologou da falta grave e a determinação de que outra seja proferida, com observância da prévia oitiva judicial do sentenciado, o que não merece reparos.
+5. Agravo regimental não provido. (AgRg no REsp n. 1.928.971/SP, relatorMinistro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/8/2021.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE. REGRESSÃO DEFINITIVA DE REGIME. PRÉVIA OUVIDA JUDICIAL. NECESSIDADE. ART. 118, § 2º, DA LEI DE EXECUÇÕES PENAIS. AGRAVO NÃO PROVIDO.
+1. De acordo com o entendimento pacificado neste Superior Tribunal de Justiça, é imprescindível a realização de audiência de justificação no procedimento administrativo disciplinar para apuração de falta grave, quando houver regressão definitiva de regime prisional.
+2. Agravo regimental a que se nega provimento. (AgRg no REsp n. 1.810.856/SC, relatorMinistro Ribeiro Dantas, Quinta Turma, DJe de 25/6/2019.)
+Desse modo, verifica-se flagrante ilegalidade, apta a justificar a concessão da ordemdeofício pelo STJ.
+Ante o exposto, não conheço do habeas corpus, masconcedoa ordemdeofício, com fundamento no art. 654, § 2º, do CódigodeProcesso Penal, para cassar adecisãodainstânciaordináriano que concerne àregressãodefinitivaderegime, devendo o Juízo da execução penal proferir outra decisão com observância deprévia oitiva judicial do paciente, ficando prejudicadas as demais questões arguidas.
+Publique-se. Intimem-se.
+Cientifique o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
