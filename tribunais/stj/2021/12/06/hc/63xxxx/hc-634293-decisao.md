@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EVERTON CHAVES CAVALINI apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1511342-31.2020.8.26.0228).
+Depreende-se dos autos que o paciente "foi condenado à pena de 06 anos, 09 meses e 20 dias de reclusão, em regime inicial fechado, bem como ao pagamento de multa equivalente a 680 dias-multa, no valor mínimo legal, e à pena de 03 meses e 15 dias de detenção, pela prática da conduta descrita no artigo 33, caput, da Lei 11.343/06 e artigo 307, c. c artigo 61, inciso II, alínea j, ambos do Código Penal" (e-STJ fl. 79), tendo em vista a apreensão de "143 (cento e quarenta e três) invólucros contendo cocaína, com peso líquido de 71,9 gramas" (e-STJ fl. 78).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso em acórdão assim ementado (e-STJ fl. 78):
+Tráfico ilícito de drogas e falsa identidade - Absolvição Impossibilidade Afastamento da agravante relativa ao artigo 61, inciso II, alínea j, do Código Penal - Incabível Redução da pena conforme dispõe o artigo 33, parágrafo 4º, da Lei 11.343/06, reconhecendo-se o bis in idem entre o aumento da sanção em face da agravante relativa à reincidência e a não aplicação do referido redutor Inadmissível Fixação de regime semiaberto para o início do cumprimento da pena Impertinente Concessão do benefício de recorrer em liberdade Inatendível - Justiça gratuita - Inapropriado Pena e regime mantidos Recurso desprovido.
+Daí o presente writ, no qual sustenta a defesa que "deve ser afastada a agravante do artigo 61, inciso II, alínea j, do Código Penal, pois não há relação direta entre o delito cometido e a situação vivenciada no período de calamidade pública causada pela COVID-19" (e-STJ fl. 5).
+Requer, ao final, o redimensionamento da reprimenda do paciente.
+O pedido liminar foi indeferido às e-STJ fls. 96/97.
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem (e-STJ fls. 106/110).
+É o relatório.
+Decido.
+In casu, colhe-se do acórdão recorrido (e-STJ fls. 85/90):
+M. M. Juízo a quo aplicou a pena na sentença, fixada de acordo com os parâmetros previstos em lei, motivada e individualizada, condenando o apelante à pena-base de 05 anos de reclusão, bem como ao pagamento do montante equivalente a 500 dias-multa, no valor mínimo legal, quanto ao crime de tráfico de drogas, bemcomo à pena-base de 03 meses de detenção, com relação ao delito de falsa identidade.
+Na segunda fase da dosimetria, foi corretamente aplicada a agravante genérica da calamidade pública, aumentando a sanção em 1/6, perfazendo 05 anos e 10 meses de reclusão, bem como ao pagamento do montante equivalente a 583 dias-multa, no valor mínimo legal, quanto ao crime de tráfico de drogas, bem como à pena-base de 03 meses e 15 dias de detenção, com relação ao delito de falsa identidade.
+Não se cogita o afastamento desta circunstância agravante, uma vez que os crimes foram praticados durante o período de pandemia pelo COVID-19, no qual foi declarada a calamidade pública.
+Ademais, a prática de crimes durante este período demonstra a insensibilidade do agente, uma vez que enquanto todos deveriam permanecer em casa, visando o bem comum, o acusado,além de descumprir com os regramentos sociais, o faz para o cometimento de delitos.
+ ..
+Mas não é só. O estado de calamidade pública facilita a prática de crimes, pois diminui a vigilância nas ruas.
+Portanto, correta a aplicação desta agravante.
+Na mesma etapa, em face da agravante relativa à reincidência, a pena foi novamente majorada em 1/6, atingindo o patamar de 06 anos, 09 meses e 20 dias de reclusão, bem como ao pagamento do montante equivalente a 680 dias-multa, no valor mínimo legal, quanto ao crime de tráfico de drogas. Já com relação ao delito de falsa identidade, houve a compensação da referida agravante com a atenuante relativa à confissão espontânea, mantendo-se inalterada a sanção.
+Incabível o pleito defensivo de redução da pena prevista no artigo 33, § 4º, da Lei 11.343/06, diante da reincidência do réu, o que, por si só, impede a aplicação do referido redutor da pena, por expressa previsão legal.
+A aplicação do referido redutor só sejustifica em hipóteses bastante reduzidas e, tendo em vista as circunstâncias do caso concreto, impossível a redução da reprimenda.
+Outrossim, anoto que não caracteriza ofensa ao princípio do ne bis in idem a utilização da reincidência para o aumento da pena na segunda fase da dosimetria e, ainda, sua consideração para fins de afastamento do redutor previsto na Lei 11.343/06, visto que tal conjuntura, na segunda e terceira etapas de dosagem das sanções, possui natureza jurídica diversa.
+ ..
+Ainda, inatendível o pleito defensivo de fixação de regime semiaberto para o início do cumprimento da pena, diante do quantum da reprimenda aplicada e da reincidência do apelante, conforme expressamente previsto no artigo 33, §§ 2º e 3º, do Código Penal. Ademais, a referida agravante confere ainda maior gravidade ao delito.
+Com relação àagravante do art. 61, inciso II, alínea "j", do Código Penal, em tese seria cabível em desfavor do paciente, em face da crise causada pela pandemia, de ordemeconômica, social e sanitária, já que o crime foi cometido na vigência do Decreto Legislativo 6/2020, de 20/03/2020.
+Todavia, a despeito da prática do crime em ocasião de calamidade pública e do desvalor, sem dúvida, da conduta do paciente, não é suficiente, a meu sentir, a existência do decreto que reconheceu o estado de calamidade pública para incidência da aludida agravante, uma vez que é imprescindível a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática da traficância, e isso não foi devidamente demonstrado no caso em análise.
+Evidente, portanto, o constrangimento ilegal apontado.
+Dessa forma, passo a análise da dosimetria da pena do paciente:
+Na primeira fase, preserva-se a pena-base no mínimo legal de 5 anos de reclusão, mais pagamento de 500 dias-multa, em relação ao crime de tráfico de drogas, e3 meses de detenção, com relação ao delito de falsa identidade.
+Na segunda e terceira etapa, excluída a agravante genérica descrita no art. 61, inciso II, alínea "j", do Código Penal, bem como reconhecida a circunstância agravante da reincidência, a pena do crime de tráfico perfaz o total de 5 anos e 10 meses de reclusão e 583 dias-multa.
+Jáem relação ao crime de falsa identidade, mantenho inalterada a reprimenda pelo reconhecimento da atenuante da confissão espontânea e sua compensação com a agravante da reincidência.
+Por fim, devido ao concurso material de crimes (tráfico e falsa identidade), a reprimenda fica estabelecida definitivamente em 6 anos e 1 mês de reclusão e 583 dias-multa.
+À  vista  de  tais  pressupostos,  concedo  a  ordem  para  afastar  a  agravantegenérica descrita no art. 61, inciso II, alínea "j", do Código Penal, redimensionando a pena definitiva do paciente para 6 anos e 1 mês de reclusão e 583 dias-multa, mantidos os demais termos da condenação.
+Publique-se.  Intimem-se.
