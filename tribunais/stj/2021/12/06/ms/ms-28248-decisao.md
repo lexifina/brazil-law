@@ -1,0 +1,34 @@
+DECISÃO
+Vistos.
+Trata-se de Mandado de Segurança, com pedido de liminar, impetrado por JUSTE VIERGELIEcontra suposto ato omissivo do Sr. Ministrode Estado das Relações Exteriores, objetivando provimento mandamental para determinar o seu ingresso no território nacional de forma excepcional, nos termos do art.174 do Decreto n. 9.199//2017.(fls. 3/29e).
+O mandamus visa "autorizar a admissão excepcional do impetrante, determinando-se àautoridade coatoraque permita a entrada do mesmo no Brasil", ou, alternativamente venha a "processar e analisar o pedido de visto do impetrante." (fl.28e).
+Aduz o Impetrante que a norma reguladora do procedimento para aconcessão de visto temporário para ingresso no território brasileiro exige o agendamento prévio perante a embaixada do Brasil em Porto Príncipe.
+Prossegue esclarecendo que "a teor da Portaria Interministerial 658/2021, a entrada do Impetrante no Brasil sem portar o visto, acarretaria, entre outras sanções, a sua deportação sumária e a inabilitação do pedido de refúgio (art. 7º, I, II e III)" (fl.07e).
+Denuncia o fato deque, a despeito da necessidade de agendamento prévio perante a embaixada do Brasil em Porto Príncipe, cujo funcionamento permanece sendo remoto por força das medidas de precaução ante a pandemia instalada, o site disponibilizado para a interação com o público inviabilizaria o pleito, porquanto ausentes os formulários específicos para a solicitação de visto por razões humanitárias.
+Afirma o Impetrante àfl.12: "as pessoas originárias do Haiti sequer podem efetuar tal requerimento, pela simples inexistência desse formulário no site".
+E conclui: "depreende-se da situação narrada que o impetrante detém de pleno direito de requerer seu pedido de visto perante o consulado, de modo que existindo óbice que impeça a concessão do visto, vício proveniente do próprio sistema administrativo, há clara violação ao seu direito, permitindo que ao impetrante seja concedida a admissão excepcional de entrada no Brasil, com fundamento no art. 174, I e III do Decreto n. 9.199/2017".
+Não há, na exordial do writ, argumentos outros acerca da legitimidade passiva doSr. Ministro de Estado das Relações Exteriores.
+Sustenta o Impetrante, diante da "indisponibilidade do sistema de solicitação de visto impossibilitar-lhe efetuar seurequerimento, resta caracterizada a pretensão resistida formulada no presente mandamus, considerando que o sistema do consulado é o meio adequado para requerer o visto de entrada"(fl. 20e).
+Requer "a concessão de medida liminar inaudita altera pars, a fim de autorizar a admissão excepcional do impetrante, determinando-se a autoridade coatora para que permita a entrada do mesmo no Brasil; ou a processar e analisar o pedido de visto do impetrante."(fl.28).
+No mérito, busca ver "julgado procedente o presente Mandado de Segurança, tornando-se definitiva a liminar concedida, para conceder a admissão excepcional postulada, determinando-se à autoridade coatora para que emita autorização ao impetrante, JUSTE VIERGELIE para entrada no Brasil"(fl.27e).
+Gratuidade de justiça deferida à fl.45e.
+Os autos foram a mim distribuídos em 01.12.2021. (fl. 49e).
+Feito breve relato, decido.
+Nos termos do art. 105, I, b, da Constituição da República, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+No caso, apesar das alegações do Impetrante, conclui-se inexistir qualquer ato coator praticado pelo Sr. Ministro de Estado das Relações Exteriores, que atrairia a competência desta Corte, nos termos do 105, I, b, da Constituição da República.
+Com efeito, consoante afirmado pelo próprio Impetrante, o direito que lhe parece líquido e certo estaria sendo obstado por uma deficiência no sistema do Ministério das Relações Exteriores, todavia, não há nos autos qualquer documentação comprobatória da ação ou omissãoda autoridade coatora, de forma específica, no sentido de lesar ou ameaçar lesar o direito perseguido.
+Dessa forma, não sendo o Sr. Ministrode Estado das Relações Exteriores parte legítima para compor o polo passivo do mandamus, resta afastada a competência originária desta Corte para o processo e julgamento do feito.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. PROGRAMA "MAIS MÉDICOS PARA O BRASIL". ILEGITIMIDADE DO MINISTRO DE ESTADO DA SAÚDE. COMPETÊNCIA DO SECRETÁRIO DE GESTÃO DO TRABALHO E DA EDUCAÇÃO NA SAÚDE (SGTES/MS). PRECEDENTES DO STJ. MANDAMUS DENEGADO.
+1. Cuida-se de Mandado de Segurança cujo pleito é que seja determinado, em caráter liminar, inaudita altera parte, à autoridade coatora que efetue a inscrição do impetrante no programa "Mais médicos para o Brasil" através do Edital 12/2017.
+2. O presente mandamus foi proposto por médico cubano, com diploma revalidado no Brasil. Alega o impetrante que participou do Projeto até o dia 1º/8/2017, quando ocorreu o seu desligamento sem a possibilidade de renovação. Ainda, que ao tentar se inscrever para a chamada pública do 15º ciclo para adesão ao Projeto, no dia 28/11/2017, o impetrante não obteve acesso ao SGP sob justificativa de desligamento voluntário do Projeto.
+3. Na espécie, o impetrante não comprova nenhum ato que, de forma concreta e específica, possa ser atribuído ou imputado ao Ministro de Estado da Saúde. Limitou-se a juntar aos autos a comunicação eletrônica do Departamento de Planejamento e Regulação da Provisão de Profissionais de Saúde - DEPREPS noticiando o seu desligamento do programa anterior.
+4. No caso dos autos, infere-se da legislação de regência do projeto "Mais Médicos para o Brasil" que a gestão dos procedimentos necessários à adesão de médicos é responsabilidade da Secretaria de Gestão do Trabalho e da Educação na Saúde (SGTES/MS), gerida pelo respectivo Secretário.
+4. Mandado de Segurança denegado.
+(MS 23.919/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 09/05/2018, DJe 20/11/2018).
+PROCESSO CIVIL. MANDADO DE SEGURANÇA. AUTORIDADE COATORA.
+Ato do Diretor-Geral do Fundo de Financiamento Estudantil - FIES não pode ser contrastado em mandado de segurança originário perante o Superior Tribunal de Justiça, nada obstante essa autoridade seja subordinada ao Ministro da Educação; só ato praticado por este está sujeito, originariamente e nessa via, ao crivo do Tribunal.
+Agravo regimental desprovido.
+(AgRg no MS 19.563/DF, Rel. Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, julgado em 23/10/2013, DJe 14/03/2014).
+Posto isso, INDEFIRO a petição inicial do Mandado de Segurança, com fundamento nos arts. 10 da Lei n. 12.016/2009, e 212 do Regimento Interno desta Corte e, nos termos do art. 109, VIII, da Constituição da República.
+Publique-se. Intimem-se. Cumpra-se.
