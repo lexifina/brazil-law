@@ -1,0 +1,57 @@
+DIREITO PROCESSUAL CIVIL E DO TRABALHO. EXECUÇÃO CONTRA AUTARQUIA FEDERAL. AUSÊNCIA DE DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 1.035, §§ 1º E 2º, DO CPC/2015. REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO.
+
+    Vistos etc.
+
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Instituto Nacional do Seguro Social (INSS). Aparelhado o recurso na afronta ao art. 109, I, da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    Preenchidos os pressupostos extrínsecos.
+
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+
+    Transcrevo a fundamentação acerca da repercussão geral apresentada nas razões do apelo extremo:
+
+    “DA EXISTÊNCIA DE REPERCUSSÃO GERAL
+
+    O art. 1.035 do Novo Código de Processo Civil disciplina a repercussão geral como condição de admissibilidade dos Recursos Extraordinários.
+
+    Em seu § 1º, esse dispositivo define o que vem a ser repercussão geral, nos seguintes termos: o "Para efeito da repercussão geral, será considerada a existência, ou não, de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo".
+
+    O parágrafo 2º, por sua vez, prevê a competência exclusiva do Col. Supremo Tribunal Federal para apreciação da repercussão geral.
+
+    Já seu parágrafo 3º dispõe que: "Haverá repercussão geral sempre que o recurso impugnar decisão contrária a súmula ou jurisprudência dominante do Tribunal."
+
+    Não aceitar a competência da justiça federal para apreciar e julgar execução contra Autarquia Federal, quando não for hipótese de competência delegada ou de ação de acidente de trabalho, é contrariar expressamente comando constitucional (art. 109 da CF), que prevalece sobre quaisquer outras normas infraconstitucionais. Há de se respeitar o princípio da prevalência das normas constitucionais.
+
+    Assim, o presente recurso atende ao requisito da repercussão geral, pelo que merece recebimento e provimento”.
+
+    Não está demonstrada de forma efetiva, no recurso extraordinário, interposto de acórdão cuja publicação se deu após a Emenda Regimental nº 21, de 30.4.2007, a repercussão geral da matéria constitucional versada no apelo extremo.
+
+    O preenchimento desse requisito demanda a demonstração, no caso concreto, da existência de questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos do processo (art. 1.035, §§ 1º e 2º, do CPC/2015). A afirmação genérica da existência de repercussão geral ou a simples indicação de tema ou precedente desta Suprema Corte são insuficientes para o atendimento do pressuposto.
+
+    A jurisprudência desta Corte é firme no sentido de que deficiência de fundamentação da preliminar acarreta a inadmissibilidade do recurso extraordinário, mesmo nos casos de repercussão geral presumida ou reconhecida em outro processo. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Repercussão geral não demonstrada. Requisito de admissibilidade. Precedentes. 1. A ausência de argumentação expressa, formal e objetivamente articulada pela parte recorrente para demonstrar, nas razões do recurso extraordinário, a existência de repercussão geral da matéria suscitada, inviabiliza o exame do referido recurso mesmo na hipótese de repercussão geral presumida ou já reconhecida pelo Supremo Tribunal Federal em outro feito. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.” (ARE 1135507 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, DJe 20-11-2018)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 13.4.2018. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA. 1. Nos termos da orientação firmada nesta Corte, cabe ao recorrente demonstrar de maneira formal e fundamentada a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, o que não ocorreu no caso em exame. Mesmo em caso de repercussão geral presumida ou reconhecida em outro recurso, é ônus do recorrente a demonstração da existência desse requisito. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC.” (ARE 1102846 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, DJe 21-08-2018)
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL. TÍTULO DE CRÉDITO. NOTA PROMISSÓRIA. AÇÃO DE EMBARGOS À EXECUÇÃO. ALEGAÇÃO DE AFRONTA AO ARTIGO 114, I E IX, DA CONSTITUIÇÃO FEDERAL. PRELIMINAR FORMAL DE REPERCUSSÃO GERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. ARTIGO 543-A, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 1973 C.C. ARTIGO 327, § 1º, DO RISTF. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. AGRAVO INTERNO DESPROVIDO.” (ARE 1.129.441-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 17.9.2018)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 23.2.2018. PRELIMINAR DE REPERCUSSÃO GERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. 1. Nos termos da orientação firmada nesta Corte, cabe à parte recorrente demonstrar fundamentadamente a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, mediante o desenvolvimento de argumentação que, de maneira explícita e clara, revele o ponto em que a matéria veiculada no recurso transcende os limites subjetivos do caso concreto do ponto de vista econômico, político, social ou jurídico. 2. Revela-se deficiente a fundamentação da existência de repercussão geral de recurso extraordinário que se restringe à alegação genérica de que a questão em debate é dotada de repercussão geral. 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Inaplicável o artigo 85, § 11, CPC, porquanto não houve fixação de honorários anteriormente.” (ARE 1.090.571-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 03.9.2018)
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. RAZÕES RECURSAIS INATACADAS. SÚMULAS 283 E 284, AMBAS DO STF.” (RE 1.119.001-AgR, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 30.8.2018)
+
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+
+    Nego seguimento (art. 21, § 1º, do RISTF). Honorários advocatícios majorados em 10% (dez por cento), em desfavor da parte recorrente, caso fixada a verba honorária na origem, observados os limites previstos nos §§ 2º, 3º e 11 do art. 85 do CPC/2015, bem como a eventual concessão do benefício da gratuidade da Justiça.
+
+    Publique-se.
+
+    Brasília, 06 de dezembro de 2021.
+
+Ministra Rosa Weber
+
+Relatora
