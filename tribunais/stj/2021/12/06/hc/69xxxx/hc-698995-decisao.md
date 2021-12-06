@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de CARINO MAMANTE DA CAMPO JUNIOR, condenado a 5 anos, 5 meses e 10 dias de reclusão, em regime inicial fechado, pela prática do crime de roubo, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+A defesa busca o abrandamento do regime e a substituição da pena por restritiva de direitos.
+Acontece que o Tribunal a quo não se manifestou sobre esses temas. Assim, a sua análise, diretamente por esta Corte, acarreta indevida supressão de instância.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. EXTORSÃO. CONDENAÇÃO À PENA DE 6 ANOS DE RECLUSÃO. MODIFICAÇÃO DO REGIME PARA O SEMIABERTO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. FUNDAMENTOS CONCRETOS. PACIENTE QUE RESPONDEU PRESO A TODA A AÇÃO PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. ORDEM NÃO CONHECIDA. PREJUDICADO O PEDIDO DE EXTENSÃO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Não tendo o pedido de fixação do regime inicialmente semiaberto de cumprimento da pena sido apreciado pelo órgão colegiado da Corte a quo, não pode ser objeto de exame por este Tribunal, por configurar supressão de instância.
+ ..
+8. Ordem não conhecida. Prejudicado o pedido de extensão.
+(HC 413.829/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 28/11/2017).
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SENTENÇA. REGIME INICIAL MENOS GRAVOSO. FRAÇÃO DO REDUTOR DO ART. 33, § 4º, DA LEI 11.343/06. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. MATÉRIAS NÃO APRECIADAS PELA CORTE DE ORIGEM NO ACÓRDÃO COMBATIDO. RECURSO DE APELAÇÃO CRIMINAL PENDENTE DE APRECIAÇÃO. SUPRESSÃO DE INSTÂNCIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. SEGREGAÇÃO FUNDADA NO ART. 312 DO CPP. NATUREZA DA SUBSTÂNCIA TÓXICA ENCONTRADA. CIRCUNSTÂNCIAS DO DELITO. EXERCÍCIO DO COMÉRCIO NEFASTO EM SUA RESIDÊNCIA E COM O AUXILIO DAS FILHAS MENORES. ACUSADA QUE SE ENCONTRAVA EM LIBERDADE PROVISÓRIA QUANDO DA PRÁTICA DO PRESENTE CRIME. REITERAÇÃO DELITIVA. PROBABILIDADE CONCRETA. GARANTIA DA ORDEM E SAÚDE PÚBLICA. RÉ QUE PERMANECEU PRESA DURANTE TODO O PROCESSO. CUSTÓDIA JUSTIFICADA E DEVIDA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. NECESSIDADE DE ADEQUAÇÃO DA EXECUÇÃO PROVISÓRIA AO REGIME SEMIABERTO IMPOSTO EM SENTENÇA. COAÇÃO ILEGAL, EM PARTE, DEMONSTRADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O STF passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que foi aqui adotado, ressalvados os casos de flagrante ilegalidade, quando a ordem poderá ser concedida de ofício.
+2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, das alegações de possibilidade de aplicação do redutor de pena na fração máxima, de substituição da pena privativa de liberdade por restritiva de direitos ou até mesmo de fixação de regime inicial menos gravoso, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, que destacou a pendência de apelação interposta.
+3. Prescreve o art. 387, § 1º, do CPP, que o Juiz deve decidir, por ocasião da prolação da sentença, de maneira fundamentada, acerca da manutenção ou, se for o caso, da imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação interposta.
+4. Conforme reiterada jurisprudência desta Corte Superior de Justiça, a preservação da custódia processual imposta antes do trânsito em julgado de sentença penal condenatória exige a indicação de elementos concretos a justificar a sua necessidade, à luz do art. 312 do CPP.
+ ..
+12. Habeas corpus não conhecido, concedendo-se, contudo, a ordem de ofício, para determinar que a paciente aguarde o julgamento da apelação em estabelecimento adequado ao regime prisional fixado - o semiaberto
+(HC 373.686/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA,DJe 23/3/2017).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
