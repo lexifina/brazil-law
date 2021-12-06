@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Marco Aurélio Bellizze.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por Rio Paraná Companhia Securitizadora de Créditos Financeiros contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 246):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. TESE DE OFENSA AO ART. 10 DO CPC/2015. FUNDAMENTO INATACADO. SÚMULA 283/STF. 2. SALDO EM CONTA-CORRENTE. MONTANTE INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. PRECEDENTES. 3. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DESPROVÊ-LO.
+Em suas razões, a insurgente defende não incidir o enunciado n. 283 da Súmula do Supremo Tribunal Federal à espécie, já que teria impugnado suficientemente todos os fundamentos do acórdão estadual, salientando inexistir sustentação para o fundamento estadual de que a norma não exigiria a intimação do credor sobre o pleito do executado.
+Sustenta não ter sido indicada, em seu apelo especial, afronta ao art. 833, X, do CPC/2015, não sendo a jurisprudência colacionada, portanto, apta a rechaçar a sua pretensão recursal.
+Afirma que o art. 833, IV, do CPC/2015 não é o único citado em sua insurgência, remanescendo a necessidade de apreciação da tese de ofensa aos outros dispositivos legais.
+Reitera as alegações do apelo especial.
+Sem impugnação (e-STJ, fls. 266-268).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TESE DE OFENSA AO ART. 10 DO CPC/2015. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. VERBA SALARIAL. COMPROMETIMENTO DA SUBSISTÊNCIA DA PARTE DEVEDORA. IMPOSSIBILIDADE DE CONSTRIÇÃO. SALDO EM CONTA-CORRENTE. MONTANTE INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. ALEGAÇÃO DE OMISSÃO NA DECISÃO MONOCRÁTICA. VIA IMPRÓPRIA. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Nas razões do apelo especial, a ora insurgente não impugnou um dos fundamentos da decisão estadual que rechaçou a tese de ofensa ao art. 10 do CPC/2015, o que atrai a incidência do verbete sumular n. 283 da Suprema Corte.
+2. Segundo entendimento jurisprudencial desta Corte Superior, é vedada a penhora de valores decorrentes de remuneração ou proventos do executado quando a constrição acarretar a inviabilidade da subsistência do devedor.
+3. A proteção conferida pela regra da impenhorabilidade abrange todos os valores depositados em conta-corrente, poupança ou outras aplicações financeiras.
+4. Ao contrário do que alega, a parte fundamentou o apelo especial também no inciso X do art. 833 do CPC/2015.Ainda que assim não fosse, tem-se que a deliberação unipessoal é clara no sentido de afastar não apenas a possibilidade de penhora de valores contidos em poupança, mas também de verbas salariais mantidas em conta-corrente, como pretende a ora recorrente.
+5.Consoante a jurisprudência desta Corte, o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015.
+6. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+VOTO
+A irresignação não merece prosperar.
+No tocante à alegação de ofensa ao princípio da não surpresa, cumpre transcrever o seguinte excerto do acórdão estadual que tratou sobre o tema (e-STJ, fls. 52-53):
+Depreende-se da Execução de Título Extrajudicial (autos nº 0000758-83.1999.8.16.0004) ajuizada por Banco do Estado do Paraná S/A (posteriormente sucedido pela Rio Paraná Companhia Securitizadora de Créditos Financeiros) em face de Marcos Luz da Rocha e outros, que foi deferido o bloqueio de valores nas contas em nome dos executados, o que se fez com fulcro no art. 854, do CPC (mov. 17.1) 3 , que restou frutífero, vez que foram encontrados R$ 725,06 (setecentos e vinte e cinco reais e seis centavos) em conta corrente do executado Marcos Luz da Rocha junto à Caixa Econômica Federal.
+Ocorre que, logo em seguida, veio aos autos o executado Marcos Luz da Rocha pleiteando a liberação dos valores constritos, por conta de sua natureza salarial, nos termos do artigo 833, IV, do novo CPC (movs. 43.1 a 43.6), quando então prontamente decidiu o Magistrado pela liberação dos referidos valores, por meio da decisão interlocutória ora hostilizada 4  (mov. 45.1).
+Cabe salientar, já de início, que não vislumbro qualquer irregularidade do ponto de vista processual na decisão do magistrado, visto que assim como o art. 854, "caput" do novo CPC, não exige a ciência prévia do devedor sobre o bloqueio de valores, por meio de sistema eletrônico 5 , o disposto nos § 3º e 4º, da mesma disposição, igualmente não exigem a intimação do Exequente sobre o pleito do executado, permitindo ao Julgador a decisão, de plano, sobre a questão, sem que, assim o fazendo, se ofenda a regra do aludido art. 10, do CPC.
+Para além disso, é evidente, no caso dos autos, a impenhorabilidade dos valores constritos por conta da natureza salarial da verba, de modo que, mesmo que fosse permitida a manifestação da parte adversa, o resultado prático e material seria, inarredavelmente, o mesmo, o que, também por este fundamento, seria caso de se refutar a arguida nulidade.
+Em face disso, verifica-se que a Corte estadual consignou que o art. 854 do CPC/2015 não demandaria a prévia ciência da exequente sobre o pedido da parte adversa e que eventual pronunciamento da credora não teria o condão de modificar o resultado prático e material do julgado.
+Nas razões do apelo especial, todavia, a ora insurgente não impugnou o primeiro motivo da decisão recorrida-suficiente e autônomo para a manutenção da convicção estadual- o que atrai a incidência do verbete sumular n. 283 da Suprema Corte.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO CIVIL PÚBLICA. TELEFONIA PÚBLICA. CONCESSÃO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 16 E 492 DO CPC E 95 DO CDC. INCIDÊNCIA DA SÚMULA N. 211/STJ. MULTA DIÁRIA. VALOR. OBRIGAÇÃO DE PUBLICAÇÃO DA SENTENÇA EM JORNAL DE GRANDE CIRCULAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. MESMA TESE DESENVOLVIDA COM BASE NA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. CONHECIMENTO PREJUDICADO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+III - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+(..)
+IX - Agravo Interno improvido.
+(AgInt no REsp 1885880/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 25/10/2021, DJe 27/10/2021)
+Quanto à possibilidade de penhora dos valores depositados em conta-corrente, o Tribunal de origem entendeu pela inviabilidade da constrição, em virtude da natureza salarial da quantia, bem como do seu insignificante auxílio na satisfação do crédito almejado.
+De fato, segundo entendimento jurisprudencial desta Corte Superior, é vedada a penhora de valores decorrentes de remuneração ou proventos do executado quando a constrição acarretar a inviabilidade da subsistência do devedor.
+A esse respeito:
+AGRAVO INTERNO PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO. PENHORA SOBRE SALÁRIO. POSSIBILIDADE DE FLEXIBILIZAÇÃO DA IMPENHORABILIDADE DE VERBA REMUNERATÓRIA. EXCEPCIONALIDADE.
+1. A regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvando-se eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família.
+2. Na hipótese, o valor originário da dívida objeto de cumprimento de ação de enriquecimento ilícito relativa a cheque emitido por pessoa física e endossado por pessoa jurídica, corresponde a R$ 5.026,58 (cinco mil e vinte seis reais). Não sendo dívida de verba alimentar, ausente notícia de verba salarial mensal superior a 50 salários mínimos, bem como ausente qualquer notícia do acórdão recorrido de particularidade no caso, impõe-se o respeito a regra da impenhorabilidade.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1847365/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/08/2020, DJe 13/08/2020)
+Na hipótese dos autos, ficou consignado que a verba constrita seria essencial ao sustento do devedor e de sua família.
+Outrossim, importa ponderar que a jurisprudência do Superior Tribunal de Justiça entende que a proteção conferida pela regra da impenhorabilidade abrange todos os valores depositados em conta-corrente, poupança ou outras aplicações financeiras do devedor até o limite de 40 (quarenta) salários mínimos.
+Confiram-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTA BANCÁRIA HÍBRIDA (CONTA-CORRENTE E POUPANÇA). LIMITE DE 40 (QUARENTA) SALÁRIOS-MÍNIMOS. IMPENHORABILIDADE. DECISÃO MANTIDA.
+1. "Reveste-se (..) de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)." (REsp 1230060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/08/2014, DJe 29/08/2014).
+2. Agravo interno desprovido.
+(AgInt no REsp 1876987/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/12/2020, DJe 14/12/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PENHORA. LIMITE. EXPEDIÇÃO. OFÍCIO. INSTITUIÇÃO FINANCEIRA. DESNECESSIDADE. INTERESSE RECURSAL. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que são impenhoráveis os valores de até 40 (quarenta) salários mínimos poupados ou mantidos pelo devedor em conta-corrente ou em outras aplicações.
+3. Na hipótese, a apresentação de defesa independe da identificação do tipo de conta onde os valores, inferiores a 40 (quarenta) salários mínimos, estão depositados.
+4. O interesse recursal não está demonstrado quando o recurso não é necessário para atingir o fim pretendido pelo promovente.
+5. Agravo interno não provido.
+(AgInt no REsp 1914004/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/08/2021, DJe 03/09/2021)
+Dessa forma, a liberação dos valores depositados na conta-corrente da parte contrária é procedimento que está em consonância com a jurisprudência desta Corte.
+Ressalte-se, oportunamente, ter constado nas razões do apelo especial argumentação no sentido de que os "Valores ( ) NÃO encontram proteção no art. 833, IV, X, do CPC/15 diante de sua flagrante desnaturação, pois NÃO se enquadram nem como "reserva financeira" e nem como necessários ao "mínimo existencial" do devedor e de sua família" (e-STJ, fls. 137-138).
+Nesse contexto, é certo que a ora insurgente, ao contrário do que alega, fundamentou sua insurgência também no inciso X do art. 833 do CPC/2015.
+Ainda que assim não fosse, tem-se que a deliberação unipessoal é clara no sentido de afastar não apenas a possibilidade de penhora de valores contidos em poupança, mas também de verbas salariais mantidas em conta-corrente, como pretende a ora recorrente.
+Por fim, vale pontuar, quanto à suposta existência de outras questões jurídicas não apreciadas na deliberação pessoal, que caberia à parte recorrente opor embargos declaratórios para sanar possível vício integrativo na decisão, e não aventá-lo no agravo interno.
+A título exemplificativo:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO NA DECISÃO MONOCRÁTICA AGRAVADA APRESENTADA EM SEDE DE AGRAVO INTERNO. NÃO CABIMENTO. MATÉRIA QUE DEVERIA TER SIDO OBJETO DE EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. ERRO GROSSEIRO. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+1. O agravo interno não se revela como recurso cabível para se apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, sendo os embargos de declaração a via adequada para tanto, nos termos do art. 1.022 do Código de Processo Civil. Precedentes.
+2. "O principio da fungibilidade incide quando preenchidos os seguintes requisitos: a) dúvida objetiva quanto ao recurso a ser interposto; b) inexistência de erro grosseiro; e c) que o recurso interposto erroneamente tenha sido apresentado no prazo daquele que seria o correto. A ausência de quaisquer desses pressupostos impossibilita a incidência do princípio em questão." (AgRg no AgRg no AREsp 616.226/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 21/05/2015)
+(..)
+4. Agravo interno não conhecido, com aplicação de multa.
+(AgInt nos EDcl no AREsp 1531976/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/02/2020, DJe 05/03/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE VÍCIOS INTEGRATIVOS NA DECISÃO MONOCRÁTICA AGRAVADA APRESENTADA EM SEDE DE AGRAVO INTERNO. NÃO CABIMENTO. MATÉRIA QUE DEVERIA TER SIDO OBJETO DE EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE, EM RAZÃO DO ERRO GROSSEIRO E DA INOBSERVÂNCIA DO PRAZO DOS ACLARATÓRIOS. AGRAVO INTERNO DA MUNICÍPIO DE GUARUVA/RS NÃO CONHECIDO.
+1. Consoante a jurisprudência desta Corte Superior, o Agravo Interno não é o recurso cabível para apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, pois são os Embargos de Declaração a via adequada para tanto, nos termos do art. 1.022 do Código Fux. Julgados: AgInt no REsp. 1.685.572/ES, Rel. Min. MAURO CAMPBELL MARQUES, DJe 13.9.2018; AgInt no REsp. 1.656.690/RJ, Rel. Min. REGINA HELENA COSTA, DJe 16.11.2017; AgRg no AREsp. 397.336/MG, Rel.
+(..)
+4. Agravo Interno do MUNICÍPIO DE GUARUVA/RS não conhecido.
+(AgInt no REsp 1667361/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 28/10/2019, DJe 18/11/2019)
+Ante o exposto, conheço em parte do agravo interno e, nessa extensão, nego-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
