@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Jhonatan Medeiros Lima e Tamara da Silva Nascimento, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo(HC n. 2072021-08.2021.8.26.0000 - fls. 107/119), por manter a prisão preventivadecretada pelo Juízo de primeiro grau, em razão da suposta prática docrimede tráfico de drogas(mais de 2,5 kg de maconha)- (Processo n.1507986-91.2021.8.26.0228 - fls. 72/74).
+A defesa afirma afalta de fundamentação idônea no decreto prisional. Sustenta que os pacientes sãoprimáriose possuem bons antecedentes.Nesses termos, requer a revogação da custódia ou, subsidiariamente, a aplicação de medidas cautelares alternativas ou a concessãode prisãodomiciliar,inclusive em razão da pandemia causadapelo novo coronavírus (Covid-19).
+Liminar indeferida (fls. 136/137) einformações prestadas (fls. 143/161), o Ministério Público Federal opinou pelo nãocabimento do habeas corpus(fls. 163/165).
+É o relatório.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+No caso, o decreto prisional estáidoneamente fundamentado na quantidade de drogas apreendida, a saber,2.535,7 gde maconha(fl. 73).
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DA DROGA APREENDIDA. QUASE DOIS QUILOS DE MACONHA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, para a garantia da ordem pública, notadamente se considerada a quantidade das drogas apreendidas - quase dois quilos de maconha - além de informações de que o paciente atuava na distribuição da droga para traficantes locais, circunstâncias indicativas de um maior desvalor da conduta em tese perpetrada, bem como da periculosidade concreta do agente, tudo a revelar a indispensabilidade da imposição da medida extrema. Precedentes.
+III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+I V - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC n. 652.690/MG, Ministro Felix Fischer, Quinta Turma, DJe 25/05/2021 - grifo nosso).
+Assim, nos termos da jurisprudência desta Corte, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva, sendo certo que,concretamente demonstrada pelas instâncias ordinárias a necessidade da custódia, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Por fim, quantoà Recomendação 62 do CNJ, não se verifica a presença dos requisitos nela disciplinados. Apesar de o crime não ser com violência ou grave ameaça, não foi demonstrado o real comprometimento do estado de saúde do reeducando; que o seu tratamento está sendo prestado de maneira deficitária, ou que haja risco de agravamento de sua condição de saúde pelo risco de contágio pela Covid-19(AgRg no HC n. 648.764/SP,Ministro Olindo Menezes - Desembargador convocado do TRF/1ª Região -, Sexta Turma,DJe 20/8/2021).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE DA DROGA.FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
