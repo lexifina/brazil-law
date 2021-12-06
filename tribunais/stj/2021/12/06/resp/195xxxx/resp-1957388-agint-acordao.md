@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (e-STJ fls. 427-429):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REVISÃO DE APOSENTADORIA. CONTAGEM DE TEMPO DE SERVIÇO INSALUBRE. RECONHECIMENTO ADMINISTRATIVO. ATRASADOS. PRESCRIÇÃO QUINQUENAL A PARTIR DO AJUIZAMENTO DA AÇÃO. RECURSO NÃO PROVIDO.
+A agravante alega que não ocorreu a prescrição das parcelas anteriores a 5/11/2006, pois "Se o requerimento administrativo foi protocolizado em 2008, e a portaria administrativa foi publicada nesse mesmo ano, conferindo efeitos financeiros retroagindo a 2006, os atrasados reconhecidos na decisão administrativa deveriam ter retroagido aos 5 anos anteriores ao requerimento administrativo, ou seja, à data correspondente do ano de 2003, e não a uma data aleatória em 2006" (e-STJ fl. 439).
+Com impugnação (e-STJ fls. 447-448).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REVISÃO DE APOSENTADORIA. CONTAGEM DE TEMPO DE SERVIÇO INSALUBRE. RECONHECIMENTO ADMINISTRATIVO. ATRASADOS. PRESCRIÇÃO QUINQUENAL A PARTIR DO AJUIZAMENTO DA AÇÃO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+2. Aparte autora ajuizou a presente ação em 17/12/2012 pretendendo o recebimento de atrasados de sua aposentadoria voluntária com proventos integrais, revisada pela Administração em 18/8/2008,relativo aoperíodode20/06/2003 a 05/11/2006.
+3. Oentendimento pacífico desta Corte é no sentido de que, nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, não ocorre a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, nos termos da Súmula 85 do STJ.
+4. Considerando que o ato administrativo que revisou a aposentadoria da recorrente ocorreu em 18/8/2008e a presente ação foi ajuizada em 17/12/2012, estão prescritas as parcelas relativas ao período de 20/06/2003 a 05/11/2006.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados noagravo internonão se vislumbram razões para reformar a decisão agravada.
+Como assinalado, o entendimento pacífico desta Corte é no sentido de que,nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, não ocorre a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, nos termos da Súmula 85 do STJ.
+O Tribunal de origem, ao reconhecer a prescrição das parcelas referentes ao período de 20/6/2003 a 5/11/2006, assim se manifestou (e-STJ fls. 285-287, grifos no original):
+2. Das parcelas remuneratórias em atraso
+Nesta demanda, pretende a parte autora o recebimento de atrasados de sua aposentadoria voluntária com proventos integrais relativo a dois períodos: o de06/11/06 a 18/08/2008, que afirma não ter recebido embora tenha sido reconhecido pela Administração; e o de 20/06/2003 a 05/11/06, referente ao restante do quinquênio que antecedeu o requerimento administrativo protocolizado em 20/06/08.
+No que concerne ao acréscimo do tempo insalubre no cômputo do tempo de serviço, houve o reconhecimento do pedido na esfera administrativa (Portaria nº 356, de 18/08/2008), conforme Orientação Normativa SRH/MPOG nº 03 de 18/05/2007 e Memorando Circular CGRH/SAA/SE/MS nº 37/2007, que adotaram as orientações contidas no Acórdão 2008/2006 TCU, Plenário, publicado no DOU de 06/11/2006, segundo o qual o servidor público que exerceu, como celetista, no serviço público, atividades insalubres, penosas e perigosas, no período anterior à vigência da Lei 8.112/1990, tem direito à contagem especial de tempo de serviço para efeito de aposentadoria.
+Cumpre notar que o Memorando Circular nº 37/2007/CGRH/SAA/SE/MS de 18/07/2007, visando orientar as Unidades de Recursos Humanos acerca da questão, com base nos referidos atos normativos, determinou que, relativamente aos servidores aposentados, "conforme o caso, dever-se-á proceder ao apostilamento da portaria de aposentadoria, alterando a proporcionalidade dos proventos, ou integralizando-os, desde a data da aposentadoria, mediante publicação de portaria em D. O. U. dando-se os efeitos financeiros a partir de 06/11/2006, data da publicação, em Diário Oficial da União, do Acórdão TCU nº 2008/2006 Plenário".
+Cumprindo tal determinação, restou fixada, na Portaria nº 356, de18/08/2008, a concessão de efeitos financeiros a partir de 06/11/2006, data da publicação, em Diário Oficial da União, do Acórdão TCU nº 2008/2006 Plenário"(evento 45, OUT18).
+Ocorre que o Superior Tribunal de Justiça já manifestou entendimento no sentido de que, por se tratar de obrigação de trato sucessivo, e havendo manifestação expressa da Administração Pública concedendo o direito pleiteado, não ocorre a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação (enunciado nº 85 da Súmula do STJ).
+ ..
+Na espécie, como a presente demanda foi ajuizada em 17/12/12 (evento01), verifica-se que a prescrição relativa às parcelas do período de 20/06/2003 a 05/11/06 já estava integralmente consumada, nos termos do enunciado nº 85 da Súmula do STJ.
+Desse modo, não procede a irresignação da parte autora, impondo-se a manutenção da sentença que condenou a União a pagar a autora os valores atrasados oriundos da conversão de sua aposentadoria de "proventos proporcionais" a "proventos integrais" pelo período de 06/11/2006 a 18/08/2008.
+Desse modo, o acórdão recorrido aplicou corretamente o entendimento desta Corte acerca da matéria.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. ORIENTAÇÕES NORMATIVAS 3 E 7 DO MPOG. REVISÃO DO ATO DE APOSENTADORIA. RENÚNCIA À PRESCRIÇÃO CONFIGURADA. AGRAVO NÃO PROVIDO.
+1. É assente a jurisprudência desta Corte no sentido de que não ocorre renúncia da administração pública à prescrição referente a ação de revisão de aposentadoria na hipótese em que reconhece, por meio das Orientações Normativas 3 e 7, de 2007, do MPOG, o direito à contagem de tempo de serviço especial para aposentadoria de servidor público.
+2. No entanto, ao contrário do alegado pela recorrente, o Tribunal de origem não reconheceu a ocorrência de renúncia à prescrição em razão da edição dessas orientações normativas, mas sim em decorrência do reconhecimento administrativo do direito dos recorridos à revisão de suas aposentadorias, mesmo após o transcurso do lapso prescricional.
+3. A posição firmada no acórdão recorrido, portanto, não merece reparo, por estar em consonância com a orientação firmada na jurisprudência desta Corte, no sentido de que o reconhecimento administrativo do direito, após o transcurso do prazo prescricional, inclusive pela administração pública, implica renúncia à prescrição. Precedentes.
+4. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp1.930.009/RS, Relator MinistroOG FERNANDES, Segunda Turma, DJe 28/9/2021)
+ADMINISTRATIVO. PRESCRIÇÃO. RECONHECIMENTO ADMINISTRATIVO DO DIREITO. INTERRUPÇÃO DO LUSTRO, QUE RECOMEÇA A CORRER PELA METADE, NOS TERMOS DO ART. 9º DO DECRETO N. 20.910/32. SÚMULA 85/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+ ..
+3. O ato administrativo de reconhecimento do direito pelo devedor importa (a) interrupção do prazo prescricional, caso ainda esteja em curso (art. 202, VI, do CC de 2002); ou (b) sua renúncia, quando já se tenha consumado (art. 191 do CC de 2002). Interrompido o prazo, a prescrição volta a correr pela metade (dois anos e meio) a contar da data do ato que a interrompeu ou do último ato ou termo do respectivo processo, nos termos do que dispõe o art. 9º do Decreto n.º 20.910/32.
+4. Ajuizada a ação após esse termo, aplica-se ao caso tão somente o enunciado da Súmula nº 85 do STJ.
+(..)
+(AgRg no REsp 1.329.574/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 19/5/2015)
+ADMINISTRATIVO. PRESCRIÇÃO. RECONHECIMENTO ADMINISTRATIVO DO DIREITO. INTERRUPÇÃO DO LUSTRO, O QUAL RECOMEÇA A CORRER PELA METADE, NOS TERMOS DO ART. 9º DO DECRETO N. 20.910/32. SÚMULA 85/STJ.
+1. Por força do princípio da actio nata, o direito de ação de indenização em face da administração pública exsurge com a efetiva lesão do direito tutelado.
+2. O ato administrativo de reconhecimento do direito pelo devedor importa (a) interrupção do prazo prescricional, caso ainda esteja em curso (art. 202, VI, do CC de 2002); ou (b) sua renúncia, quando já se tenha consumado (art. 191 do CC de 2002). Interrompido o prazo, a prescrição volta a correr pela metade (dois anos e meio) a contar da data do ato que a interrompeu ou do último ato ou termo do respectivo processo, nos termos do que dispõe o art. 9º do Decreto n.º 20.910/32.
+3. Sendo a ação ajuizada após esse termo, aplica-se ao caso tão somente o enunciado da Súmula nº 85 do STJ. Agravo regimental improvido.
+(AgRg no AgRg no REsp 1.309.843/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 3/12/2014)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
