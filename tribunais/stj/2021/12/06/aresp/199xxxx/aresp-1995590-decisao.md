@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO - CORSAN, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 02/07/2021.
+Concluso ao gabinete em: 29/11/2021.
+Ação: de revisão contratual, ajuizada por NELSON VOLMAR MOTA RODRIGUES, em face da agravante, fundada na abusividade de cláusulas contratuais.
+Sentença: julgou procedente a ação para limitar os juros remuneratórios a 12% ao ano, vedar a capitalização mensal e permitir a incidência de correção monetária pelo índice contratado, e encargos fiscais devidos, bem como as taxas pactuadas para o caso de mora. Determinou a repetição do indébito, de forma simples, com atualização pelo IGPM, desde os desembolsos, acrescidos de juros de mora desde a citação.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE REVISÃO DE CONTRATO. PRELIMINARES RECURSAL E CONTRARRECURSAL. REJEIÇÃO. MÉRITO. CONTRATOS ENTIDADE DE EMPRÉSTIMO. FUNCORSAN. PREVIDÊNCIA PRIVADA COMPLEMENTARJUROS REMUNERATÓRIOS E CAPITALIZAÇÃO.
+Preliminar recursal. Ausência de interesse processual no que tange a capitalização de juros. A presente ação revisional é via necessária e útil para a parte-autora resolver sua pretensão, razão pela qual preenchido o requisito do interesse processual. Preliminar rejeitada. Preliminar contrarrecursal. Ausência de interesse recursal quanto a capitalização de juros. O interesse recursal é um dos requisitos intrínsecos de admissibilidade dos recursos. Preliminares rejeitadas. Do mérito. Juros remuneratórios. A apelada é uma Entidade Fechada de Previdência Complementar e, após o advento da Lei Complementar n 2 109/2001, não pode se valer das disposições legais que regem os contratos firmados com instituições financeiras, devendo observar os limites estabelecidos na Lei de Usura (Decreto nº 22.626/33). Desse modo, os juros incidentes devem obedecer ao percentual máximo de 1% ao mês, equivalente a 12% ao ano. Sentença reformada no ponto. Capitalização. É incabível a capitalização mensal dos juros remuneratórios, em face do que dispõem o artigo 4º do Decreto nº 22.626/33 e Súmula nº 121 do STF. Ademais, por se tratar de contratos de mútuo, tem aplicação o disposto no artigo 591 do CCB. Hipótese dos autos em que sequer a capitalização em periodicidade anual prevista no art. 591 do CC pode ser cobrada, pois ausente previsão expressa nos contratos revisandos, conforme o entendimento do Superior Tribunal de Justiça - REsp nº 1.388.972/SC. Todavia, no cálculo da parcela mensal há incidência da capitalização mensal, devendo ser mantida a sentença também, neste tocante.
+REJEITARAM AS PRELIMINARES E, NO MÉRITO, NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO. UNÂNIME.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação do art. 1.022 do CPC/15.
+A agravante afirma haver omissão em relação às questões aduzidas nos embargos de declaração, relativas à ausência de comprovação da incidência da capitalização de juros e à impossibilidade de alteração de cláusula contratual, especialmente quanto aos juros remuneratórios, em razão da necessidade de manutenção do equilíbrio atuarial da carteira de empréstimos por ela administrada, considerada a sua natureza jurídica.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da incidência da capitalização de juros e da viabilidade de revisão contratual, considerando, inclusive, a natureza da agravante (e-STJ fl. 142/156), de maneira que os embargos de declaração opostos pelo agravante de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 18% do valor a ser restituído (e-STJ, fls. 156) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONRATUAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de revisão contratual, fundada na abusividade de cláusulas contratuais.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Agravo em recurso especial conhecido. Recurso especial conhecido e não provido, com majoração de honorários
