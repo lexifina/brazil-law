@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por CESAR HENRIQUE DOS SANTOS SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n.2160143-94.2021.8.26.0000).
+Depreende-se dos autos que o recorrente encontra-se preso preventivamente pela prática, em tese, de roubo circunstanciado.
+O Tribunal de origem denegou a ordem, nos termos da seguinte ementa (e- STJ fl. 173):
+Habeas Corpus. Roubo. Alegação de que houve ilegalidade na realização do reconhecimento fotográfico do paciente. Inocorrência. A vítima compareceu em solo policial e após visualizar o arquivo de fotos existentes na delegacia, reconheceu o paciente sem sombra de dúvidas. O auto de reconhecimento fotográfico foi assinado pela autoridade competente, pelo reconhecedor e por duas testemunhas. Reconhecimento pessoal que à época restou impossibilitado de ser realizado pelo fato de que o paciente estava foragido.
+Assim, ao menos por ora,o reconhecimento se sustenta, não havendo óbice para que durante o processo e, sob o crivo do contraditório, sejam produzidos, a requerimento das partes, todos os meios de prova, inclusive o reconhecimento pessoal que, se realizado, deverá, dentro do possível, observar os requisitos do art. 226 do Código de Processo Penal.
+Constrangimento ilegal não verificado no caso concreto. Requisitos da preventiva que estão presentes. Ordem denegada.
+Daí o presente recurso, no qual alega a defesa que "o órgão acusatório opinou pela decretação da prisão preventiva do Paciente. Por sua vez, o Juízo de primeiro grau recebera a denúncia, bem como decretara a extrema medida de segregação cautelar  tudo respaldado, exclusivamente, em mero reconhecimento fotográfico realizado 5 meses após a fase inquisitorial, longe do contraditório e da realidade fática dos fatos, e ainda à margem das garantias estabelecidas no art. 226 do CPP" (e-STJ fl. 190).
+Requer, liminarmente, seja "relaxada ou revogada a prisão preventiva, com a consequente suspensão somente em seu favor da tramitação dos autos n.º 1505995- 34.2021.8.26.0114 em trâmite na 4.ª Vara Criminal da Comarca de Campinas/SP, uma vez que há audiência de instrução e julgamento designada para o próximo dia 25 de novembro de 2021, às 13h30min., até que o mérito deste recurso seja julgado pelo colegiado" (e-STJ fl. 10). No mérito, pede a constatação da ilicitude do reconhecimento fotográfico e o relaxamento da custódia cautelar.
+É o relatório.
+Decido.
+Não há como dar curso à irresignação, tendo em vista que este recurso é mera reiteração do HC n. 702.811/SP, impetrado em favor do ora recorrente, contra o mesmo acórdão de origem e no qual foram formuladas as mesmas alegações aqui ventiladas, estando o referidowritem vias de ser julgado.
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se. Intimem-se.
