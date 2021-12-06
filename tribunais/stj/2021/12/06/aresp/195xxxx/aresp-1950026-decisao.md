@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo manejado pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS em face da decisão que inadmitiu recurso especial interposto contra acórdão do eg. Tribunal de Justiça daquela Unidade Federativa.
+Consta dos autos que o juízo singular atendeu ao pedido ministerial pela regressão cautelar do regime de cumprimento de pena, do aberto para o fechado, em razão de novo crime supostamente praticado pelo reeducando (fls. 2-3).
+O eg. Tribunal a quo deu parcial provimento ao apelo da defesa para manter a regressão cautelar, mas determinar, contudo, o regime semiaberto (fls. 41-48). O v. acórdão foi ementado nos seguintes termos (fl. 43):
+"AGRAVO EM EXECUÇÃO. NOVO CRIME. REGRESSÃO. CAUTELAR. PARCIAL PROVIMENTO. LIVRAMENTO CONDICIONAL. SUPRESSÃO. INSTÂNCIA. 1 - Praticada falta grave, cabível a regressão cautelar sem a oitiva prévia do condenado. 2 - Constatado o cometimento de crime, possível a regressão (118, I, LEP). Porém, a colocação no fechado, sem passar pelo regime intermediário semiaberto, fere os princípios da proporcionalidade e razoabilidade. Precedentes. 3 - Mantida a regressão, deve ser modificado para o semiaberto. 4 - Não é possível apreciar o pedido de concessão de livramento condicional, sob pena de supressão de instância. Agravo parcialmente provido."
+Interposto recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, a acusação alegou ofensa ao art. 118, incido I, da LEP, porquanto "A correta exegese da norma permite concluir que, enquanto a progressão não pode ser realizada por saltos, isto é, diretamente do regime fechado para o aberto, impondo-se, necessariamente, a passagem pelo regime intermediário, o mesmo não ocorre no caso de regressão, a qual pode ser realizada per saltum  especialmente quando se dá de forma cautelar, como no presente caso" (fl. 57).
+Apresentadas as contrarrazões (fls. 79-88), sobreveio juízo negativo de admissibilidade fundado na aplicação da Súmula 7/STJ, pois a análise do acórdão recorrido implicaria em revolvimento de matéria fático-probatória (fls. 91-92).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 98-105).
+A d. Subprocuradoria-Geral da República apresentou parecer pelo provimento do agravo e do recurso especial (fls. 124-127), conforme seguinte ementa:
+"ARESP. DECISÃO QUE NEGA SEGUIMENTO ARECURSO ESPECIAL. EXECUÇÃO PENAL. REGRESSÃO DE REGIME PER SALTUM. NÃOAPLICAÇÃO DA SÚMULA 7/STJ.
+- O exame da alegada violação ao 118, I, da LEP, não exige reexame de provas. Trata-se de matéria exclusiva direito, consistente na análise de normas legais que tratam da regressão de regime. - Parecer pelo provimento.
+RECURSO ESPECIAL. EXECUÇÃO PENAL. REGRESSÃO DE REGIME PER SALTUM. POSSIBILIDADE. PRECEDENTES DO STJ.
+- A jurisprudência desta Corte Superior é no sentido deque o art. 118, inciso I, da Lei de Execução Penal, estabelece que o apenado ficará sujeito à transferência para qualquer dos regimes mais gravosos quando praticar fato definido como crime doloso ou falta grave, não havendo que se observar a forma progressiva estabelecida no art. 112 do normativo em referência (AgRg no resp 1773347/RO; 5ª Turma; Rel. Min. Reynaldo Soares da Fonseca; DJe 10/12/2018). - Parecer pelo provimento."
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A questão a ser analisada cinge-se à aplicação da regressão per saltum.
+O eg. Tribunal a quo, no que importa ao caso, assim se manifestou sobre o ponto (fls. 44-46, grifei):
+"Em consulta ao SEEU, tem-se que o reeducando cumpre pena de 3(três) anos e 4 (quatro) meses de reclusão, aberto, por infração do artigo 33 da Lei 11.343; já cumpriu 83% de sua sanção. Em 30.6.2020, foi preso em flagrante pela prática de novo crime (tráfico).
+ ..
+Portanto, constatado o cometimento de fato definido como crime, possível a regressão (118, I, LEP).
+Porém, entendo que a colocação no fechado, sem passar pelo regime intermediário, semiaberto, fere os princípios regentes da execução penal, inclusive inadmitida regressão por salto. Nesse sentido, confira diversos precedentes deste Tribunal:
+ ..
+Assim, mantida a regressão, deve ser modificado do aberto para o semiaberto. Oportuno mencionar, neste ponto, que "o cometimento de falta grave ou de crime doloso, no curso da execução da pena, autoriza a regressão do regime de cumprimento de pena do reeducando, mesmo que seja estabelecido de forma mais gravosa do que a fixada na sentença condenatória (LEP, art. 118, I), não havendo falar em ofensa a coisa julgada" (STJ, AgRg no REsp 1778649/PA, Rel. Ministro RIBEIRO DANTAS,QUINTA TURMA, julgado em 18/02/2020, DJe 28/02/2020)."
+Pois bem.
+O art. 118, inciso I, da Lei de Execução Penal estabelece que o apenado ficará sujeito à transferência para qualquer dos regimes mais gravosos quando praticar fato definido como crime doloso ou falta grave, não havendo que se observar a forma progressiva estabelecida no art. 112 da Lei de Execuções Penais.
+Nos termos da jurisprud ncia deste Superior Tribunal, " ..  O art. 118, inciso I, da Lei de Execução Penal, estabelece que o apenado ficará sujeito à transferência para qualquer dos regimes mais gravosos quando praticar fato definido como crime doloso ou falta grave, não havendo que se observar a forma progressiva estabelecida no art. 112 do normativo em referência" (AgRg no REsp n. 1.575.529/MS, Quinta Turma, Rel. Min. Felix Fischer, DJe 17/06/2016, destaquei).
+No mesmo sentido:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA GRAVE. FUGA DO ESTABELECIMENTO PRISIONAL. REGRESSÃO PARA O REGIME FECHADO. OFENSA AO PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. NÃO OCORRÊNCIA.
+1. Segundo a jurisprudência pacificada desta Corte de Justiça, a prática de falta grave no curso da execução (fuga do estabelecimento prisional) autoriza a transferência do reeducando para quaisquer dos regimes prisionais mais rigorosos.
+2. A concessão de benefícios pelo Juízo da Execução em descompasso com o entendimento desta Corte não enseja o esvaziamento do recurso manejado pelo Parquet.
+3. Agravo regimental a que se nega provimento." (AgRg no REsp 1379261/RS, Quinta Turma, Rel. Min. Gurgel de Faria, DJe 13/05/2015, grifei)
+"HABEAS CORPUS". EXECUÇÃO DA PENA. FALTA GRAVE. REGRESSÃO DE REGIME. PASSAGEM DO REGIME ABERTO PARA O REGIME FECHADO. SUPOSTA ILEGALIDADE NA REGRESSÃO "PER SALTUM". FUNDAMENTAÇÃO SUFICIENTE.
+1. Os Tribunais Superiores restringiram o uso do "habeas corpus" e não mais o admitem como substitutivo de recursos, e nem sequer para as revisões criminais.
+2. A execução da pena se submete à forma regressiva. Por isso, o condenado pode ser transferido para qualquer dos regimes previstos no art. 33, do Código Penal, dependendo de avaliação do Juízo das Execuções ou do Tribunal das circunstâncias e peculiaridades do caso concreto para decidir o regime adequado.
+3. "Habeas corpus" não conhecido" (HC n. 273.726/MG, Quinta Turma, Rel. Min. Moura Ribeiro, DJe de 31/3/2014, grifei).
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COMETIMENTO DE FALTA GRAVE. REGRESSÃO PER SALTUM DE REGIME PRISIONAL. POSSIBILIDADE.
+1. A jurisprudência desta Corte Superior é no sentido de que o art. 118, inciso I, da Lei de Execução Penal, estabelece que o apenado ficará sujeito à transferência para qualquer dos regimes mais gravosos quando praticar fato definido como crime doloso ou falta grave, não havendo que se observar a forma progressiva estabelecida no art. 112 do normativo em referência (STJ. AgRg no REsp 1575529/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2016, DJe 17/06/2016) (AgRg no REsp 1672666/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, j. 13/03/2018, DJe 26/03/2018).
+2. Agravo regimental não provido." (AgRg no REsp n. 1.773.347/RO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/12/2018).
+Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de reconhecer a possibilidade de regressão per saltum, nos termos da fundamentação retro.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REGRESSÃO PER SALTUM. POSSIBILIDADE. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
