@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Paraná contra acórdão daquele estado no qual julgado:
+Em suas razões recursais, alega o embargante, que o r. acórdão é omisso e contraditório, no tocante ao enquadramento do embargado em abril de 2015 para a Classe NA III - Referência 9, ato comissivo, de efeitos concretos, sendo contra esse enquadramento que se insurge o embargado, sob a alegação de que deveria ter sido enquadrado na Referência 10. Sustenta que o Superior Tribunal de Justiça possui entendimento firmado sobre a questão, de que quando Lei Estadual estabelece novo enquadramento dos servidores públicos, esta lei é ato único de efeitos concretos e aplica-se a prescrição do fundo de direito, quanto à pretensão de se questionar o enquadramento. Aduz omissão quanto ao argumento do embargado de que o ato coator consistiria na Informação 625/2017-SEFAZ, pois, se considerada tal informação, também resta configurado o prazo decadencial, uma vez que a segurança foi impetrada em 19.03.2019. Ainda, afirma que houve contradição no tocante ao índice de correção monetária para a condenação de natureza previdenciária, requerendo a aplicação do INPC, referente ao período do controverso enquadramento do seu cargo.
+ ..  O acórdão embargado entendeu pela a inocorrência da prescrição do fundo de direito, em virtude da omissão do Poder Público em reenquadrar o embargado na Classe NA III - Referência 10 a que tinha direito e por se tratar de relação de trato sucessivo, senão vejamos: "O direito do impetrante surgiu com a edição da Lei 18.008/2014, sendo que até o momento nenhum ato foi praticado pela Administração Pública no sentido de promover o seu enquadramento no quadro dos peritos. Deste modo, não há que se falar na ocorrência de decadência do direito, uma vez que se está diante de relação de trato sucessivo, que se renova mensalmente, pela omissão do Poder Público em efetuar o reenquadramento do impetrante. " Desta forma, não há que se falar em omissão ou contradição quanto à prescrição do fundo de direito.
+No especial, argumenta-se que "o Tribunal local não acatou a alegação trazida pelas autoridades coatoras no sentido de que o enquadramento ocorrido em abril de 2015 configurou início do prazo decadencial para a impetração da segurança".
+Argumenta-se que
+o Tribunal de origem reconheceu: que uma nova lei promoveu uma restruturação em 2014, criando o Quadro Próprio dos Peritos Oficiais do Estado do Paraná; que o servidor aposentado foi enquadrado em 2015 na nova carreira. Contudo, entendeu que o enquadramento não foi adequado, ou seja, entendeu que a Impetrante deveria ter sido enquadrado na Referência 9 e não na 10, sendo que uma omissão se prolongou no tempo, configurando relação de trato sucessivo, afastando a aplicação do artigo 23 da 12.016/2009.
+ ..  O Tribunal reconheceu que a Paranaprevidência enquadrou a Impetrante em 2015 na Referência 9, mas tratou o caso como se nenhum enquadramento da Impetrante na nova carreira tivesse ocorrido.
+Apresentadas contrarrazões.
+É o relatório. Decido.
+Verifico, com efeito, que o Tribunal de origem não dirimiu, tal como deveria, as questões que lhe foram submetidas.
+Sabe-se que, "deixando o acórdão de se manifestar sobre matéria relevante ao deslinde da controvérsia, rejeitando os embargos declaratórios e persistindo na omissão oportunamente alegada, incorre em ofensa ao art. 1.022, II, do CPC/2015, reiterada, em sede de Recurso Especial" (AgInt no AREsp 1521778/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 20/02/2020).
+Dessarte, necessário "o retorno dos autos à origem a fim de que, em novo julgamento dos Aclaratórios, o Tribunal a quo se manifeste expressamente acerca do ponto omisso" (REsp 1844941/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019).
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questão relevante apontada em embargos de declaração, tem-se por configurada a violação dos arts. 489 e 1.022 do CPC/2015, devendo o recurso especial ser provido para que os autos retornem à origem, a fim de que seja suprido o vício verificado.
+2. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1911324/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/09/2021, DJe 23/09/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. OMISSÃO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. PRESTAÇÃO JURISDICIONAL DEFICIENTE.
+1. Interpostos embargos de declaração pelo ora recorrentes, aduzindo omissão e contradição relevantes, o Tribunal não se manifestou sobre esses pontos, consoante se observa do aresto que julgou os aclaratórios.
+2. Havendo deficiência na prestação jurisdicional realizada no Tribunal de origem, é de se acolher a preliminar de violação do art.
+1.022 do CPC/2015 para determinar o retorno dos autos para que sejam sanadas as contradições e omissões apontadas.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte a fim de conhecer do agravo para dar provimento ao recurso especial.
+(AgInt no AREsp 1827367/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/09/2021, DJe 17/09/2021).
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA ORIGEM. VÍCIO NO JULGADO. OCORRÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC CONFIGURADA. RETORNO DOS AUTOS. RECURSO ESPECIAL PROVIDO.
