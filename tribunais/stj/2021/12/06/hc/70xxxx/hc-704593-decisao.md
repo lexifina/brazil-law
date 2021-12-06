@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, em face de acórdão assim ementado (fl. 872):
+LEI DE EXECUÇÃO PENAL. AGRAVO EM EXECUÇÃO. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO NÃO ATENDIDO. ART. 83, INCISO III, DO CÓDIGO PENAL. OBSERVÂNCIA OBRIGATÓRIA. PRAZO DE AFERIÇÃO DO COMPORTAMENTO DO SENTENCIADO. TODA A EXECUÇÃO DA PENA. RECURSO CONHECIDO E DESPROVIDO.
+1. O preenchimento do art. 83, inciso III, do Código Penal, com as alterações promovidas pela Lei nº 13.964/2019, é obrigatório, caso contrário poderia colocar cm risco a coletividade com prematura liberdade condicional do apenado.
+2. Para a concessão da benesse é necessário que o sentenciado possua bom comportamento carcerário aferido durante toda a execução da pena.
+2. 1. A presença de pluralidade de faltas graves durante a expiação de suas penas demonstra a não observância do requisito subjetivo legal.
+3. Recurso conhecido e desprovido.O paciente, em cumprimento de pena em regime fechado, com término previsto para 10/12/2030, formulou pedido de livramento condicional, indeferido pelas instânciasa quo.
+Consta dos autos que o Juízo das execuções indeferiu pedido de livramento condicional, o que foi mantido no exame do agravo em execução.
+A defesa sustenta que não subsiste razão para negar o benefício buscado pelo paciente, devendo ser deferido, em razão do preenchimento de todos os requisitos exigidos.
+Requer a concessão do livramento.
+Prestadas informações, o Ministério Público Federal sugeriu o não conhecimento ou denegação da ordem.
+O pleito defensivo foi indeferido na origem aos seguintes fundamentos (fls. 877/880):
+ ..  O objeto de insurgência restringe-se a analisar se o apenado preencheu ou não todos os requisitos legais, objetivos e subjetivos, para a concessão do beneficio do livramento condicional.
+É cediço que o art. 83 do Código Penal, com as alterações promovidas pela Lei 13.964/2019 (Pacote Anticrimes), prevê requisitos objetivos (incisos I, II, IV e V) e subjetivo (inciso III) necessários para a concessão do benefício legal, in verbis:
+ ..
+Com efeito, não basta o lapso temporal, há de ser demonstrado comportamento carcerário satisfatório, ou seja, a conduta prisional do apenado deve sinalizar a possibilidade de sua ressocialização segura e harmônica, principalmente aos condenados por crime doloso, como na espécie. Tanto o é que, em determinados delitos, inclusive, não basta o histórico favorável do apenado, mas pode o d. Juízo das Execuções Penais entender ser necessária realização de exame criminológico para melhor aferir suas condições psicossociais e os efeitos de sua eventual reinserção na sociedade.
+A informação sob o ID 28665948 - Pág. 239 atesta que o recorrente praticou 2 (duas) faltas graves (fuga e ausência de comparecimento judicial durante o cumprimento da pena em regime aberto) no curso da expiação de suas penas, o que fulmina o requisito relativo ao bom comportamento durante a execução da pena.
+Neste sentido, o col. Superior Tribunal de Justiça já decidiu que o comportamento do apenado deve ser analisado durante toda a execução para fins de livramento condicional:
+ ..
+Não se discute aqui o cumprimento do requisito objetivo exigido para obtenção do livramento condicional por parte do sentenciado, mas, sim, se ele, além disso, preencheu o requisito subjetivo para concessão da benesse.
+Portanto, sem desconsiderar a alegação da Defesa de que o agravante cometeu falta grave há mais de 12 (dose) meses, o fato é que para a concessão do livramento condicional deve ser analisado o comportamento global do apenado durante todo o período de execução da reprimenda, a fim de que seja demonstrado seu senso de responsabilidade para com o cumprimento da pena quando colocado em situação de menor vigilância. E o cometimento de falta grave impõe o indeferimento do livramento condicional, por ausência do requisito subjetivo previsto no Código Penal.
+Desta forma, em razão do comportamento carcerário insatisfatório, está evidenciada a inaptidão do sentenciado para o convívio social desvigiado, por hora, sendo inviável a concessão do benefício do livramento condicional. Registre-se que o regramento aplicável à concessão do livramento condicional, relativo ao comportamento do apenado durante a pena, difere do requisito subjetivo exigido para a progressão de regime, indulto e demais benefícios. Ora, são institutos diversos e com requisitos próprios, portanto, incomparáveis.
+Tanto o é que o recorrente foi agraciado com a progressão de regime para semiaberto, como já mencionado, porém, não se mostra recomendável seu livramento condicional.  ..
+Como se vê, em que pese a alegação defensiva, as instâncias ordinárias entenderamnão estar preenchido o requisito subjetivo, apontando a existência de 2 faltas disciplinares de natureza grave registradas em 2019, constando duas fugas (fls. 789/791).
+É certo que, no critério objetivo, o cometimento de faltas disciplinares antigas não é fundamento apto a afastar a concessão da benesse, nos termos do art. 83, III, do Código Penal (AgRg no HC 549.649/SC, RelatorMinistro Nefi Cordeiro, Sexta Turma, DJe 08.06.2020). Contudo, podem ser consideradas no critério subjetivo "bom comportamento durante a execução da pena".
+Com efeito, "a inclusão da alínea "b" no inciso III do art. 83 do Código Penal pela Lei n. 13.964/2019, não significa que a ausência de falta grave no período de doze meses seja suficiente para satisfazer o requisito subjetivo exigido para a concessão do livramento condicional, tampouco que eventuais faltas disciplinares ocorridas anteriormente não possam ser consideradas pelo Juízo das Execuções Penais para aferir fundamentadamente o mérito do Apenado." (AgRg no HC 666.504/SP, RelatoraMinistra Laurita Vaz, Sexta Turma, DJe 16/06/2021).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
