@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ALTOS DA GLÓRIA EMPREENDIMENTO IMOBILIÁRIO SPE LTDA. contraa decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"DIREITO DO CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. DESISTÊNCIA POR PARTE DO COMPRADOR. SÚMULA 543 DO STJ. SENTENÇA QUE FIXOU O PERCENTUAL DE RETENÇÃO EM 20% (VINTE POR CENTO) DO VALOR PAGO, EM SINTONIA COM A JURISPRUDÊNCIA DO STJ QUE, EM HIPÓTESES SEMELHANTES, TEM ADMITIDO PERCENTUAL DE RETENÇÃO ENTRE 10% (DEZ POR CENTO) E 25% (VINTE E CINCO POR CENTO). PARCIAL PROVIMENTO AO RECURSO APENAS NO QUE SE REFERE AO TERMO A QUO DA INCIDÊNCIA DOS JUROS DE MORA. DESISTÊNCIA DO CONTRATO POR PARTE DO COMPRADOR, NÃO HAVENDO QUE SE FALAR EM MORA ANTERIOR DA RÉ. SENTENÇA DESCONSTITUTIVA. INCIDÊNCIA DOS JUROS DE MORA A CONTAR DO TRÂNSITO EM JULGADO"(fl. 259e-STJ).
+Nas razões do recurso especial, além de dissídio jurisprudencial, aagravante alegou violação dos arts.422, 722 e 725 do Código Civil e927, III, 1.039 e 1.040 do Código de Processo Civil de 2015.
+Sustentou, em síntese, que:
+a)a pretensão de restituição das parcelas devidas a título de comissão de corretagem tem prazo prescricional trienal;
+b) éválida a transferência da comissão de corretagem ao consumidor ante a suaciência prévia e inequívoca;
+c) impossível adevolução do valor pago a título de comissão de corretagem, visto que o serviço de intermediação imobiliária foi devidamente prestado, e
+d) é legal acláusula que prevê a retenção de 50% (cinquenta por cento) dos valores pagos.
+Com as contrarrazões, o recurso foi inadmitido na origem.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que se refere à ofensa aos arts. 422, 722 e 725 do CC e927, III, 1.039 e 1.040 do CPC/2015,verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+Na hipótese, observa-se, ainda, que a Corte local, a despeito da oposição de embargos de declaração, não decidiu a controvérsia à luz datesedefendidapela recorrente de queé legal a cláusula que prevê a retenção de 50% (cinquenta por cento) dos valores pagos.
+De fato, para que se configure o prequestionamento, é necessário que o tribunal de origem se pronuncie especificamente a respeito da matéria articulada pela parte, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto. Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ademais, no caso concreto, a parte recorrente não indicou a contrariedade ao art. 1.022 do CPC/2015.
+Registra-se, ainda, queno recurso especial a recorrente deixou de indicar, com clareza e objetividade, os dispositivos de lei federal que teriam sido ofendidos ou interpretados divergentemente no acórdão recorrido, visto que sequer houve o prequestionamento dos dispositivos apontados no recurso especial. Dessa forma, inadmissível o recurso especial que não indica com precisão o dispositivo de lei federal supostamente violado ou deixa de especificar de que forma ele teria sido contrariado pelo acórdão recorrido, nos termos da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Por fim,a admissão de recurso por divergência requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Além disso,registra-se quea falta de prequestionamento inviabiliza o recurso especial também pela alínea "c" do permissivo constitucional, restando, portanto, prejudicado o exame da divergência jurisprudencial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação,os quais devem ser majorados para 15% (quinzepor cento)em favor do advogado da parte recorrida, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se. Intimem-se.
