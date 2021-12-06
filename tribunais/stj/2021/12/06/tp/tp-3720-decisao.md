@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de pedido de tutela de urgência cautelar antecedente apresentado por ARAGUAIA EMPREENDIMENTOS IMOBILIÁRIOS E PARTICIPAÇÕES S/A em face de EVERYWHERE ADMINISTRAÇÃO E PARTICIPAÇÕES S/A (a qual adquiriu os direitos do credor originário BANCO ABC BRASIL S/A), visando atribuir efeito suspensivo ao recurso especial a ser interposto nos autos do Agravo de Instrumento nº 2271032-18.2021.8.26.0000.
+Extrai-se dos autos que o BANCO ABC BRASIL S/A propôs ação de execução por título extrajudicial contra ARAGUAIA e OUTROS (devedores solidários), fundada em Instrumento Particular de Confissão de Dívida com Cessão Fiduciária de Direitos de Crédito,com valor inicial de R$ 3.731.018,44 (e-STJ, fls. 102-114).
+Foi deferida a penhora sobre o imóvel situado à Rua Rodrigues dos Santos nº 30/60, Brás, Município de São Paulo/SP. Nomeado perito judicial para avaliação do aludido imóvel, este apresentou laudo técnico, estimando o valor do bem em R$ 7.055.620,00 (sete milhões, cinquenta e cinco mil, seiscentos e vinte reais) - fls. 222-247 (e-STJ).
+O exequente pediu a adjudicação do imóvel pelo valor da avaliação, mas o juízo de origem entendeu prematuro o pedido de adjudicação, em razão da necessidade de regularização processual nos autos (e-STJ, fls. 292-295).
+Renovado o pedido (e-STJ, fls. 446-451), ojuízo de origem homologou o laudo pericial, fixando o valor do imóvel em R$ 7.055.620,00e, considerando que o imóvel avaliado pertenceà executada ARAGUAIA, já devidamente citada e com patrono nos autos, deferiu o pedido de adjudicação (e-STJ, fl. 461).
+Contra tal decisão foi interposto agravo de instrumento (Processo nº 2271032.18.2021.8.26.0000- fls. 42-62 (e-STJ).
+O Relator, Desembargador Gilberto dos Santos, indeferiu o efeito suspensivo, por entender "ausentes os requisitos legais, especialmente a demonstração da probabilidade do direito" (e-STJ, fl. 474).
+Contra a decisão do Desembargador Gilberto dos Santos, ARAGUAIAinterpôs agravo interno(e-STJ, fls. 478-495) - ainda pendente de julgamento -, bem como impetrou mandado de segurança(Processo nº 2275581-71.2021.8.26.0000) - fls. 498-525 (e-STJ), cuja petição inicial foi indeferida pelo Relator, Desembargador Cerqueira Leite (e-STJ, fl. 526).
+Daí o presente pedido de tutela de urgência para atribuir efeito suspensivo ao recurso especial a ser interposto.
+A ora Requerente alega que os então executados apresentaram laudo pericial divergente, concluindo a assistente técnica por eles indicada que o imóvel teria o valor de R$ 25.550.000,00 (vinte e cinco milhões, quinhentos e cinquenta mil reais), não podendo se permitir que o exequente se apodere do imóvel por preço vil.
+Pondera que, ao tempo do pedido de adjudicação, a Requerente não estava representada regularmente nos autos, donde se deduz que, à luz do princípio da publicidade, não foi devidamente intimada.
+Afirma que "lançou mão de todos os mecanismos processuais de que dispunha para discutir a ilegalidade do ato judicial expropriatório, sem, contudo, até aqui,obter a resposta judicial para o seu cristalino pleito. Avizinha-se, por outro lado, a interposição de recurso especial contra o aresto a ser lançado no Agravo Interno. Mas de qualquer modo, acha-se a parte requerente totalmente desfalcada de sua própria jurisdição, senão ampla e de cognoscibilidade plena, então suficiente para por termo à ameaça de lesão a seu patrimônio, com potencial prejuízo de milhões de reais" (e-STJ, fl. 10).
+Com relação ao fumus boni iuris, aponta afronta aos arts. 5º, XXXV, LIV e LV, da CF, 7º, 9º, 10, 489, § 1º, e incisos, 876, § 1º, e 877do CPC/2015.
+Quanto ao periculum in mora, sustenta ser notório o perigo de efetivação do dano e da impossibilidade de restituição ao status quo ante.
+É o relatório. Decido.
+Na hipótese, a Requerente objetiva a concessão de tutela de urgência, a fim de que seja concedido efeito suspensivo a futuro recurso especial a ser interposto contra acórdão ainda nãoproferido.
+Como visto, a instância ordinária ainda não foi exaurida, pois pendentes de julgamento: (i) o agravo interno interposto contra a decisão do relator que indeferiu o efeito suspensivo ao agravo de instrumento; (ii) o agravo de instrumento em si.
+Com efeito, a competência do STJ para o exame de tutela de urgência que visa obter efeito suspensivo a recurso especial instaura-se somente após a publicação da decisão sobre a admissibilidade do apelo nobre, como expressamente dispõe o art. 1.029, § 5º, I, do CPC/2015:
+Art. 1.029.  ..
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+Somente em casos excepcionais, diante de flagrante ilegalidadeda decisão impugnadae da demonstração derisco dedano irreparável cuja gravidade mostra-se de pronto, esta Corte supera o obstáculo para deferir tutela de urgência a recurso especial ainda pendente de juízo de admissibilidade.
+No caso, todavia, além de não ter sido interposto o recurso especial, não houve sequer o exaurimento dainstânciaordináriaacerca da controvérsia, não se sabendo, antecipadamente, os fundamentos do acórdão recorrido contra o qual será interposto ofuturo recurso especial. Sem o conhecimento dos fundamentos que serão adotados pelo eg. Tribunal de origem, é inviável examinar a plausibilidade do direito a ser invocado no recurso especial.
+Nessas condições, esta Corte entende pela inadmissibilidade do pedido, a teor dos seguintes julgados:
+"PROCESSUAL CIVIL. TUTELA PROVISÓRIA. EFEITO SUSPENSIVO A RECURSO ESPECIAL AINDA NÃO INTERPOSTO. EXCEPCIONALIDADE DA MEDIDA.REQUISITOS. DECISÃO MONOCRÁTICA QUE NEGA PROVIMENTO. INSTÂNCIA ORDINÁRIA NÃO ESGOTADA. PRETENSÃO INADMISSÍVEL NO STJ. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO NA TUTELA PROVISÓRIA DE URGÊNCIA. RECURSO QUE NÃO COMBATE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182 DO STJ. DECISÃO MANTIDA.
+1. A jurisprudência do STJ admite, em situações excepcionalíssimas, a apreciação do pedido de concessão de efeito suspensivo quando ainda pendente o juízo de admissibilidade do Recurso Especial pelo Tribunal de origem ou, até mesmo, na extremada hipótese de não ter sido ainda interposto recurso especial, desde que para salvaguardar o direito da parte e quando o acórdão a ser impugnado apresente-se teratológico ou manifestamente contrário à jurisprudência deste Tribunal, esteja evidenciado, de plano, a probabilidade de êxito do apelo nobre e visível o perigo da demora na análise da irresignação.
+Precedentes.
+2. Esta Corte superior perfilha o entendimento de que, não obstante seja possível, em caráter excepcionalíssimo, a atribuição de efeito suspensivo a recurso especial ainda não interposto, não há como se afastar o requisito do necessário exaurimento das instâncias ordinárias a respeito da controvérsia instaurada nos autos.
+Precedentes.
+(..)
+4. Agravo interno a que se nega provimento."
+(RCD na PET no TP 920/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/10/2017, DJe 06/11/2017) - grifou-se.
+"AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. PROCESSUAL CIVIL. PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL AINDA NÃO INTERPOSTO. APLICAÇÃO, POR ANALOGIA, DAS SÚMULAS 634 E 635, AMBAS DO STF. AGRAVO DESPROVIDO.
+1. Conforme dispõem as Súmulas 634 e 635 do STF, aplicadas por analogia, compete ao Presidente do Tribunal de origem a análise e julgamento de medida cautelar para concessão de efeito suspensivo a recurso especial pendente de admissibilidade na instância ordinária.
+Excepcionalmente, o STJ afasta a incidência dessas Súmulas na hipótese de manifesta ilegalidade do v. acórdão estadual.
+2. Na espécie, é inviável a análise de eventual manifesta ilegalidade, pois nem sequer foi esgotada a jurisdição do eg. Tribunal Estadual, uma vez que estão pendentes de julgamento embargos de declaração opostos ao v. acórdão proferido em sede de agravo de instrumento. Não se trata, portanto, de recurso especial pendente de admissibilidade, pois o acórdão estadual ainda será integrado por outro que vier a julgar os embargos de declaração.
+3. Agravo regimental desprovido."
+(AgRg na MC 25.612/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017) - grifou-se.
+"PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA PROVISÓRIA DE URGÊNCIA.INDEFERIMENTO LIMINAR DA CAUTELAR. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO AINDA NÃO INTERPOSTO. IMPOSSIBILIDADE. INSTÂNCIA ORDINÁRIA NÃO ESGOTADA. PRETENSÃO INADMISSÍVEL NO STJ. DECISÃO MANTIDA.
+1. Esta Corte Superior não detém competência para atribuir efeito suspensivo a recurso especial ainda não interposto, especialmente quando pendentes de julgamento embargos declaração opostos na instância ordinária.
+2. Agravo interno a que se nega provimento."
+(AgInt no TP 280/PA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/04/2017, DJe 05/05/2017)
+Ressoa evidente a incompetência absoluta do STJ para ojulgamento do pleito de tutela de urgência em questão.
+Consoante a jurisprudência desta Corte Superior, para que seinaugureesta via extraordinária, é imprescindível o exaurimento dajurisdiçãoordinária e a existência de meio processual hábil a essafinalidade, o recurso especial, ainda que pendente dojuízo de admissibilidade de competência do Tribunal de origem.
+Embora se admita a flexibilização dessa regra, tal não ocorre naespécie.
+No caso, como nem sequer foi julgado o agravo de instrumento interposto na origem e,consequentemente,não foi exaurida a jurisdição do Tribunal a quo -imprescindível ao manuseio do recurso especial (que, no caso, também nem pode ser interposto), consoante o disposto no art. 105, III, da ConstituiçãoFederal -, não se cogita da análise da sustentada ilegalidade poresta Corte, ante a pretensão, per saltum, de abertura destainstância superior.
+Em tais circunstâncias, inviável autorizar o acesso excepcional a este Tribunal Superior.
+Ante o exposto, indefiro o pedido.
+Publique-se.
