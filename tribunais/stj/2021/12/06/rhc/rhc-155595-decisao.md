@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por LUCAS TEIXEIRAS FARIAS contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul (HC n. 1410347-68.2021.8.12.0000).
+O recorrente foi condenado à pena de 4 anos e 2 meses de reclusãoem regime inicial semiabertopela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006. Foi-lhe indeferido o direito de recorrer em liberdade.
+Impetrado writ originário, a ordem foi denegada.
+O recorrente sustenta a existência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea do decreto preventivo.
+Defende a aplicação de medidas cautelares mais brandas.
+Requer a concessão da ordem para que seja concedida a sua liberdade provisória, ainda que mediante aplicação de cautelares diversas do cárcere.
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso em habeas corpus,com a concessão da ordem de ofício apenas para adequar a prisão cautelar ao regime imposto na sentença condenatória (fls. 127-130).
+É o relatório. Decido.
+Aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Confira-se excerto da sentença, que, ao condenar o recorrente à pena de 4 anos e 2 meses de reclusão em regime inicial semiaberto, considerou presentes os requisitos para manutenção de segregação cautelar (fl. 28):
+As circunstâncias ensejadoras da manutenção da prisão do acusado se mantiveram inalteradas, motivo pelo qual deve o acusado ser mantido preso, como passou todo o processo, devendo ser readequada ao regime determinado nesta sentença.
+A propósito, assim se manifestou o Tribunala quo(fl. 87):
+De fato, recentemente, no habeas corpus n. 1415879-57.2020.8.12.0000, esta c. 1ª Câmara Criminal assentou a necessidade da prisão preventiva do paciente em razão da gravidade concretada conduta (apreensão de elevada quantidade de entorpecentes), e não surgiu qualquer situação fática que seja capaz de modificar a conclusão acercada existência de risco que a liberdade representa para a ordem pública.
+Isso porque além da grande quantidade de maconha que era mantida na residência do paciente (mais de 44 quilos), foram apreendidos no local uma balança de precisão e embalagens plásticas, petrechos estes, característicos da narcotraficância, bem como determinada quantia em dinheiro. Inclusive, quando questionado pelos policiais que participaram da diligência, o paciente confirmou que adquiriu os entorpecentes pelo valor de R$ 12.000,00 (doze mil reais), com a intenção de fracionarem pequenas quantidades e revendê-las.
+O entendimento acima está em consonância com a jurisprudência do STJ de que não há constrangimento ilegal em negar ao réu o direito de recorrer em liberdade quando remanescerem os fundamentos que ensejaram a custódia cautelar, principalmente se, durante toda a instrução criminal, ficou preso provisoriamente (HC n. 463.428/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 9/4/2019).
+Além disso, também de acordo com a jurisprudência do STJ, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Por sua vez, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+E a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2020).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
