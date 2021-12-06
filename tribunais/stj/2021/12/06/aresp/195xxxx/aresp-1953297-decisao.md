@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto porVALTER ANTUNES MELGAREJO contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, inciso III, alíneas"a" e "c", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sulassim ementado:
+"PRESCRIÇÃO.
+APLICAÇÃO, NO CASO VERTENTE, DO PRAZO PRESCRICIONAL DECENAL, PREVISTO PELO ART. 205, DO CÓDIGO CIVIL, HAJA VISTA QUE, CONFORME REGRA DE TRANSIÇÃO ESTABELECIDA PELO ART. 2.028, NA ENTRADA EM VIGOR DO NOVO REGRAMENTO, NÃO HAVIA TRANSCORRIDO MAIS DA METADE DO PRAZO PRESCRICIONAL ESTABELECIDO PELO CÓDIGO REVOGADO. DECLARAÇÃO DA PRESCRIÇÃO QUE MERECE AFASTADA, HAJA VISTA A NÃO FLUÊNCIA DO PRAZO DE 10 (DEZ) ANOS, ENTRE A ENTRADA EM VIGOR DO NOVO CÓDIGO (11/01/2003) E A DATA DO AJUIZAMENTO DA AÇÃO (03/01/2013).
+MÉRITO:
+PRETENSÃO DA PARTE AUTORA, DE RECEBER INDENIZAÇÃO RELATIVA À DOBRA ACIONÁRIA, SOB O ARGUMENTO DE NÃO TER RECEBIDO NENHUMA AÇÃO POR OCASIÃO DA CISÃO DAS EMPRESAS. INCONTROVERSO O RECEBIMENTO, PELOS ACIONISTAS, NO PROCEDIMENTO DE CISÃO, EM RAZÃO DA DOBRA ACIONÁRIA, D E IGUAL NÚMERO DE AÇÕES QUE DETINHAM NA COMPANHIA DE TELEFONIA FIXA. INCUMBIA AO AUTOR, NO CASO A COMPROVAÇÃO DOS FATOS CONSTITUTIVOS DE SEU DIREITO, CONFORME PRECONIZA O ART. 373, I, DO CPC, DE MODO QUE, NADA COMPROVANDO, DE RIGOR A IMPROCEDÊNCIA DOS PEDIDOS. COM FUNDAMENTO NO ART. 1.013, § 3º, DO CPC, JULGADO IMPROCEDENTES OS PEDIDOS. MANTIDOS OS ÔNUS SUCUMBENCIAIS CONFORME FIXADOS PEL A SENTENÇA.
+DERAM PROVIMENTO AO RECURSO PARA AFASTAR A PRESCRIÇÃO E, COM FUNDAMENTO NO ART. 1.013, § 3º, DO CPC, JULGARAM IMPROCEDENTE O PEDIDO. UNÂNIME"(fl. 205/206e-STJ).
+Os embargos de declaraçãoforam rejeitados (fls. 241/247 e-STJ).
+No especial, além de dissídio jurisprudencial, oagravante alegouviolação dos arts.373, I e II, 489, § 1º, I, II e IV ,e 1.022, I e II, do Código de Processo Civil de 2015 e31, § 1º, e 100, II, da Lei nº 6.404/1976.
+Sustentou, em síntese, que:
+a) houve negativa de prestação jurisdicional;
+b)não há prova da alienação das ações pelo seu titular antes da cisão da companhia, salientando que "só existe prova de que as ações da extinta CRT (telefonia fixa) estão depositadas na Central de Liquidação e Custódia da Bolsa de Valores, desde o dia 26/11/1996)" (fl.269 e-STJ), e
+c) a recorrida deveria ter apresentado o Termo de Transferência de Ações e Debêntures - TRAD ou a cópia do livro de registro de transferência de ações, documentos que comprovariam a efetiva transferência/alienação das ações, no entanto não cumpriu com o ônus que lhe incumbia.
+Ao final, pugnou pelo provimento do recurso e pela procedência do pedido de emissão das ações originárias da Celular CRT Participações S/A que lhe foram sonegadas por ocasião da cisão da companhia.
+Com as contrarrazões e i  nadmitido o recurso, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, conforme se observa às fls. 241/247 e-STJ.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+Na hipótese, observa-se que as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado a seguir transcritos:
+"(..)
+Conforme entendimento sedimentado na jurisprudência, tanto desta Corte quanto do Tribunal de Justiça, no que atine à dobra acionária, é reconhecido o direito da parte ao recebimento de indenização relativa a eventual diferença apurada em subscrição a menor das ações da telefonia fixa.
+Isso por que, no momento em que realizada a cisão, cada acionista recebeu, na empresa de telefonia celular constituída, igual número de ações que detinha da telefonia fixa.
+Tal fato é público e notório, sendo reconhecido como incontroverso pela jurisprudência.
+Contudo, no presente caso, o autor sustenta não ter recebido nenhuma ação por conta da dobra acionária, razão do aforamento da presente demanda, colimando este reconhecimento e, por consequência a condenação da demandada a indenizá-lo.
+Neste sentido, o sucesso da pretensão esposada na peça inicial dependeria da demonstração, contundente, do autor de que não teria recebido ações da telefonia celular, posto ser público e notório que, em razão da dobra acionária, recebeu igual número ao que detinha na companhia de telefonia fixa.
+Como nenhuma prova aportou aos autos, a conformar a pretensão inicial, impositivo o reconhecimento da improcedência da ação.
+No processo civil, no qual quase sempre predomina o princípio dispositivo, que entrega a sorte da causa à diligência ou interesse da parte, assume especial relevância a questão pertinente ao ônus da prova. Esse ônus consiste na conduta processual exigida da parte para que a verdade dos fatos por ela arrolados seja admitida pelo juiz.
+Não há um dever de provar, nem à parte contrária assiste o direito de exigir a prova do adversário. Há um simples ônus, de modo que o litigante assume o risco de perder a causa se não provar os fatos alegados e do qual depende a existência do direito subjetivo que pretende resguardar através da tutela jurisdicional. Isto porque, segundo antiga máxima, fato alegado e não provado é o mesmo que fato inexistente.
+(..)
+No caso concreto, pelo que se observa, o autor não comprovou não ter recebido ações por ocasião da dobra acionária, contestando o entendimento sedimentado da jurisprudência, deixando, assim, na orfandade a alegação.
+Diante desta realidade, sendo incontroverso o recebimento de ações pelos acionistas, na cisão das empresas, em igual número ao que detinham da companhia fixa e, não tendo a parte autora logrado constituir o seu direito, comprovando não ter recebido as ações em questão, de rigor, a improcedência da ação, com manutenção dos ônus sucumbenciais conforme fixados pela sentença recorrida"(fls. 203/204e-STJ).
+Desse modo, denota-se que não há como rever as conclusões do tribunal de origem que resultaram da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda em virtude da incidência da Súmula nº 7/STJ.
+Registra-se que ""A Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame"(REsp 1665411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 05/09/2017, DJe 13/09/2017)"(AgInt no AREsp 1199439/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/03/2018, DJe 09/03/2018).
+Ademais, no tocante à alegação de que o tribunal de origem não se baseouem provas concretas, ressalta-se que cabe ao magistrado, respeitando oslimites adotados pelo Código de Processo Civil, dirigir a instrução edeferir a produção probatória que considerar necessária à formação do seuconvencimento, assim como a livre apreciação das provas das quais é odestinatário.
+Destaque-se ser inviável a esta Corte a análise da suficiência das provase da satisfação do ônus probatório das partes, pois esta providênciaesbarra também no óbice do enunciado da Súmula nº 7/STJ.
+Por fim, verifica-se não merecer conhecimento o recurso pela alínea "c" do permissivo constitucional, pois, nos termos dos arts. 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie.
+Não basta a simples transcrição de ementas e de parte dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Acrescenta-se, ainda, que a aplicação daSúmulas nº7/STJ quanto ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para conhecer em parte o recurso especial, masnegar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em R$ 788,00 (setecentos e oitenta e oito reais), os quais devem ser majorados para R$ 900,00 (novecentos reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
