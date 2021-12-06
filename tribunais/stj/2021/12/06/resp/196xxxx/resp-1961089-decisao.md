@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALFREDO CARMO DOS SANTOS COSTA JÚNIOR, com apoio no art. 105, III, "a", da Constituição Federal, em oposição a acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO CRIMINAL LESÃO CORPORAL LEVE - Tribunal do Júri - Réu pronunciado como incurso no art. 121, "caput", c.c. o art. 14, II, ambos do CP - Tese desclassificatória acolhida pelo Conselho de Sentença - Preliminar - Nulidade por carência de motivação, em ofensa ao art. 93, IX, da CF - Inocorrência - Concisão que não se confunde com falta de motivação - Magistrado que pontuou os elementos que o levaram à formação da convicção - Falta de representação da vítima - Não verificação - Prescindibilidade de formalidade do ato de representação - Ofendido que demonstrou interesse no prosseguimento da persecução penal - Decadência não verificada - Mérito - Materialidade e autoria sobejamente demonstradas - Condenação bem lançada - Maus antecedentes e reincidência adequadamente reconhecidos - Folha de antecedentes - Credibilidade - Documento oficial, extraído do sistema de automação do Tribunal de Justiça - Inviabilidade - Não caracteriza "bis in idem" a valoração de uma condenação definitiva como circunstância desfavorável, na primeira fase, e, de outra, como agravante, na segunda etapa do itinerário trifásico - Inviável a substituição da pena corpórea por restritivas de direitos, à luz do art. 44 do Código Penal - Preliminares rejeitadas e recurso desprovido." (e-STJ, fl. 301).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fl. 329).
+A defesa aponta, inicialmente, ofensa ao disposto no artigo 381, II e III, do Código de Processo Penal, uma vez que "o Tribunal de origem deixou de reconhecer a nulidade da r. sentença que se furtou de analisar as teses da autodefesa do acusado, de legítima defesa ou mesmo de lesão corporal culposa" (e-STJ, fl. 349).
+Caso não seja esse o entendimento, pretende seja reconhecida a "contrariedade ao artigo 65, III, "d", do Código Penal, tendo em vista que o acusado admitiu ter efetuado, ainda que em legítima defesa ou de forma involuntária, o golpe que atingiu a vítima. Tal alegação foi arguida pela defesa em sede de razões recursais, e ignoradas pelo r. acórdão sobre o qual esta se insurge, o que o macula de nulidade, também por falta de motivação" (e-STJ, fl. 353).
+Desse modo, tendo o "réu duas condenações transitadas em julgado (e-STJ, fls. 311), sendo apenas uma delas passível de gerar efeitos no que tange à reincidência, é correto afirmar que merece a circunstância agravante da reincidência ser compensada pela atenuante da confissão espontânea" (e-STJ, fl. 353).
+Sustenta, ainda, a violação ao art. 33, §3º, do Código Penal, haja vista a inadequação do de regime semiaberto, em consideração às circunstâncias do artigo 59 do CP (e-STJ, fl. 355).
+Foram apresentadas as contrarrazões (e-STJ, fls. 360-365).
+Admitido o recurso (e-STJ, fls. 368-370), subiram os autos a este Superior Tribunal de Justiça.
+O Ministério Público Federal opinou pelo não provimento do agravo (e-STJ, fls. 247-249).
+É o relatório.
+Decido.
+A irresignação não merece acolhimento.
+Conforme se extrai dos autos, o recorrente foi denunciado e pronunciado como incurso no artigo 121, "caput", c/c o artigo 14, II, ambos do Código Penal. Submetido a julgamento popular, os jurados decidiram que o réu não quis matar a vítima, tendo sido declinada a competência do julgamento para o juízo singular.
+Inicialmente, no tocante à suscitada violação ao art. 381, II e III, do CPP, sob o argumento de que o Tribunal de origem não examinou as teses da autodefesa do acusado, de legítima defesa ou mesmo de lesão corporal culposa, colhe-se do aresto recorrido:
+"Fadada ao insucesso a aventada carência de fundamentação adequada.
+Ao revés do que sustenta o apelante, basta um passar de olhos na r. sentença ora combatida para constatar que o douto magistrado sentenciante pontuou, ainda que sucintamente, as provas que sustentaram a solução adotada, podendo ser extraídos de seu bojo os elementos que levaram à formação da convicção para lançar a condenação naqueles moldes.
+De fato, entendeu-se pela presença do dolo na conduta do acusado, cabendo ressaltar que, proferida a condenação por lesão corporal dolosa, afastou-se tacitamente a tese de legítima defesa, tendo sido ressaltado que o próprio réu admitiu a conduta ao aclarar que feriu o pescoço da vítima fazendo uso de uma faca.
+Portanto, embora abreviada, suficiente a motivação empregada, não havendo que se confundir concisão com ausência de fundamentação Nessa esteira, já decidiu o Superior Tribunal de Justiça:
+(..)." (e-STJ, fl. 303).
+Como se vê, as instâncias ordinárias, após o detido exame dos autos, afastaram a teses de legítima defesa e ausência de dolo na lesão corporal.
+Assim, vê-se que o TJSP, embora de forma concisa, pronunciou-se de modo fundamentado acerca das questões de fato e de direito, suficientes à prolação do édito condenatório, uma vez que concluiu que o crime foi cometido com animus nocendi.
+Portanto, não se verifica, na espécie, a apontada ofensa aos arts. 381, II e III, do Código de Processo Penal.
+De outra parte, quanto à tese amparada na suposta negativa de vigência ao art. 65, III, "d", do Estatuto Repressivo, verifica-se que essa não foi examinada pelo Tribunal de origem, tampouco foi objeto dos embargos de declaração opostos pela defesa (e-STJ, fls. 323-326). Sendo assim, o tema carece do necessário prequestionamento, o que atrai o óbice da Súmula n.º 282 do Supremo Tribunal Federal.
+Por fim, no tocante ao regime inicial fixado para o resgate da reprimenda, a Corte de origem destacou:
+"Noutro giro, diante do cotejo entre as circunstâncias desabonaras acima aludidas (maus antecedentes e golpe de faca na região do pescoço) e a reincidência ostentada pelo recorrente, não sendo cabível a imposição de meio mais brando que o semiaberto, a teor do disposto no art. 33, §2º, "b" e "c", e §3º, do Código Penal.
+Vale-se, aqui, das ponderações efetuadas quando da análise da pena-base, salientando-se que os predicados pessoais do réu, enaltecidos pela defesa, consistem em dever cívico de cada indivíduo, não tendo o condão de alterar o regime inicial fixado.
+Em verdade, tanto os maus antecedentes como a reincidência derivam de condenações atinentes a crimes de roubo, de modo que, também por este ângulo, recomendável o regime semiaberto." (e-STJ, fl. 314).
+Com efeito, embora o réu tenha sido condenado à pena definitiva de 7 meses de detenção, verifica-se que ele, além de ter maus antecedentes, é reincidente, de modo que o regime semiaberto é o cabível à espécie, como o imediatamente mais grave, segundo o quantum da sanção aplicada.
+Corrobora:
+" ..
+- O regime inicial semiaberto foi estabelecido ao paciente, por expressa determinação legal, nos termos do art. 33, § 2º, "a" e § 3º, do Código Penal, em função dos maus antecedentes e de sua reincidência, inexistindo ilegalidade a ser sanada, porquanto tais fundamentos são idôneos para recrudescer o regime prisional, em detrimento apenas do quantum de pena imposta. Precedentes.
+- Agravo regimental não provido.
+(AgRg no HC 660.640/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/04/2021, DJe 03/05/2021)
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do Regimento Interno do STJ, conheço em parte do recurso especial para, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
