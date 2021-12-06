@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BELDINA JASTROW ARNHOLZ e OUTROS, à decisão de fls. 467/468, que não conheceu do recurso.
+Sustenta a parte embargante que:
+As embargadas indicaram devidamente os atos normativos que suspenderam os prazos processuais no âmbito do Tribunal de Justiça do Estado do Espírito Santo, a saber, Ato Normativo TJES n.º 064/2020, n.º 68/2020, n.º 71/2020 e n.º 76/2020 .
+ ..
+Vale o registro que a questão relativa a tempestividade sequer foi abordada na decisão e-STJ 459, proferida pelo Vice-Presidente do Tribunal de Justiça do Estado do Espírito Santo e que determinou a remessa dos autos ao C. Superior Tribunal de Justiça. Isso porque não há que se falar em intempestividade recursal
+ ..
+De todo o modo, verifica-se que há ERRO MATERIAL na r. decisão objurgada, posto que considerou que o agravo apresentado pelas embargantes foi protocolizado em 10/12/2020, todavia, o seu protocolo (n.º 202000418552) se deu em 03/06/2020:
+ ..
+Por fim, em que pese a fundamentação contida na r. decisão recorrida de que "Para fins de aplicação do art. 1º da Lei n.º 9.800/1999, o e-mail não configura meio eletrônico equiparado ao fac-símile", o recurso foi aceito e devidamente protocolizado pelas Câmaras Cíveis Reunidas do Tribunal de Justiça do Estado do Espírito Santo.
+Em razão do regime de Plantão Extraordinário decorrente da pandemia da COVID-19, o Tribunal de Justiça do Estado do Espírito Santo publicou o Ato Normativo n.º 064/2020 possibilitando que no período de SUSPENSÃO DE ATENDIMENTO PRESENCIAL fossem realizados peticionamentos por e-mail:
+ ..
+Desse modo, a r. decisão recorrida também restou OMISSA quanto a possibilidade de peticionamento por e-mail, haja vista a suspensão dos atendimentos presenciais, na forma do Ato Normativo TJES n.º 064/2020, o que se confirma pelo recebimento e protocolo do recurso pelas Câmaras Reunidas Cíveis do TJES. (fls. 472/475).
+ ..
+Por oportuno, reitera para que seja deferida a assistência judiciária gratuita às embargantes, uma vez que são pobres nos termos da lei (fl. 477).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme já consignado na decisão ora embargada, que agora se repete, a jurisprudência firmada no âmbito deste Superior Tribunal de Justiça consolidou o entendimento de que, para fins de aplicação do art. 1.º da Lei n. 9.800/1999, o e-mail não configura meio eletrônico equiparado ao fac-símile, como, de fato, foi o modo de interposição recursal na espécie (fls. 445/456).
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 1295788/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/5/2019; AgInt no AREsp 1216048/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 22/4/2019; AgInt no AREsp 1113888/MG, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe de 1º/2/2019.
+Ademais, não procede a alegação da existência de Portaria no Tribunal de origem permitindo a prática de atos processuais, via sistema de correio eletrônico (e-mail), nos processos que tramitam por meio físico, uma vez que não se aplica aos recursos dirigidos a esta Corte, cujo processamento é regulado por lei federal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO VIA E-MAIL. INEXISTENTE. INTEMPESTIVIDADE. PORTARIA CONJUNTA 37/2018 DO TJDFT. NÃO APLICAÇÃO AOS RECURSOS DIRIGIDOS A ESTA CORTE. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta eg. Corte de Justiça é firme no sentido de que o "recurso interposto via e-mail é tido por inexistente, não podendo ser considerado o correio eletrônico instrumento similar ao fac-símile para fins de aplicação do disposto na Lei n.º 9.800/99, na medida em que, além de não haver previsão legal para sua utilização, não guarda a mesma segurança de transmissão e registro de dados" (AgRg no Ag 1.111.475/MG, Rel. Min. LAURITA VAZ, DJe de 25.5.2009).
+2. A Portaria conjunta nº 37/2018, editada pelo Tribunal de Justiça do Distrito Federal e dos Territórios, com a finalidade de permitir o envio de petições àquele Tribunal por correio eletrônico (e-mail), não se aplica aos recursos dirigidos a esta Corte, cujo processamento é regulado em lei federal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1414107/DF, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/9/2019.).
+Ademais, no momento da interposição do agravo a parte sequer juntou referida autorização do tribunal de origem nesse sentido.
+Assim, ainda que a interposição do apelo especial tenha ocorrido no dia 3/6/2020, conforme certificado à fl. 535, a petição não pode ser considerada porque apresentada via e-mail.
+Quanto às comprovações da suspensão dos prazos, cumpre esclarecer que o STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção nas razões recursais. Nesse sentido, AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Ademais, nos termos do art. 1.042, §§ 2º e 4.º do Código de Processo Civil, a competência do Tribunal a quo, na análise do agravo em recurso especial, restringe-se apenas à possibilidade de eventual retratação.
+Registre-se que a competência para o julgamento do referido agravo é deste Superior Tribunal de Justiça, conforme estabelecido nos §§ 3º e 4º do mencionado dispositivo, os quais preveem que logo após o oferecimento da resposta do agravado, os autos devem ser remetidos a esta instância superior.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgIn/t/ no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, como indicado pela certi dao de fl.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Portanto, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
