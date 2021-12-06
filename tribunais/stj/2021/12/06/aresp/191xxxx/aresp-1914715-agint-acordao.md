@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DE ASSOCIADOS DO SUL DE MATO GROSSO - SICREDI SUL MT, contra decisão assim ementada (e-STJ, fl. 373):
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL. REQUISITOS NECESSÁRIOS AO DEFERIMENTO DO PEDIDO. AUSENTES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DANO MORAL INDENIZÁVEL CONFIGURADO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL NA PARTE CONHECIDA.
+Nas razões do presente recurso, a parte agravante sustenta, em síntese, que "os requisitos ensejadores foram devidamente cumpridos, visto que, para a excepcional concessão do efeito suspensivo, mostra-se necessária a comprovação de dois requisitos legais, quais sejam, a evidente probabilidade do provimento do recurso, isto é, plausibilidade substancial do direito invocado com força suficiente a autorizar a suspensão da decisão recorrida(fumus boni iuris),bem como o perigo da demora representado pela possibilidade de prejuízo advindo do retardamento da tutela jurisdicional pleiteada, pela insuportabilidade dos danos emergentes do próprio ato impugnado ou pela necessidade de se garantir a posterior eficácia do julgamento definitivo a ser proferido por este Tribunal (periculum in mora)" (e-STJ fl. 384).
+Afirma, ainda, que "a reforma da decisão agravada é medida que se impõe, visto que o acórdão e a decisão hostilizada sequer enfrentou os precedentes e os acórdãos paradigmas acostados no bojo processual" (e-STJ, fl. 387).
+Aduz que a "questão posta no recurso especial, concernente ao critério normativo adequado e aplicado, quanto a dinamização do ônus da prova é eminente jurídico, ou seja, requisito processual, dispensando in casu, o reexame de prova, sendo inaplicável o óbice da súmula 7 do STJ, uma vez que, para se apreciar as questões suscitadas no recurso especial, não há necessidade de revolvimento de questões fáticas probatórias" (e-STJ, fl. 390).
+Por fim, assevera que o julgamento monocrático da presente lide fere o RI desta Corte.
+Impugnação às fls. 400/411.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DIREITO CIVIL E PROCESSUAL CIVIL. CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL. REQUISITOS NECESSÁRIOS AO DEFERIMENTO DO PEDIDO. AUSENTES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DANO MORAL INDENIZÁVEL CONFIGURADO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA.
+AGRAVO INTERNODESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Reanalisando os autos, é de se observar que, no que tange ao pedido de suspensão do recurso especial, prefacialmente, verifica-se que os recorrentes não lograram êxito em demonstrar a existência dos requisitos autorizadores do excepcional provimento acautelatório almejado, quais sejam, o fumus boni juris e o periculum in mora.
+No que tange à alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência. Da leitura dos autos, verifica-se que a Corte estadual julgou fundamentadamente a matéria, expondo as razões que levaram às suas conclusões. Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+No que concerne ao mérito, extrai-se do acórdão que o Tribunal de origem, soberano na análise das provas carreadas aos autos, concluiu que "o grave e lesivo constrangimento ilícito a que foi submetido o autor/apelante graças a iniciativa adotada pela gerência do Banco/réu, que convocou a Polícia à agência para bancária e indigitou o autor, sob o mais absoluto desemparo de aspectos minimamente consistentes com aptidão para sustentar uma mera suspeição, fez surgir, à luz do art. 188 do CC, a obrigação civil indenizatória" - fl. 208.
+Diante de tais considerações, não há como rever as premissas fáticas alcançadas pelas instâncias ordinárias sem a inevitável reapreciação de fatos e provas, providência vedada no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+Por fim, "esta Corte Superior possui firme jurisprudência no sentido de que a legislação processual (art. 932 do CPC/2015 combinado com a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt no AgInt no AREsp 1852010/SE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/09/2021, DJe 07/10/2021).
+Nesse passo, advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
