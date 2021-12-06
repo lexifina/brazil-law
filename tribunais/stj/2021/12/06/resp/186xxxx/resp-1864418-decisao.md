@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS -IBAMA contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. AMBIENTAL. PERDIMENTO. NULIDADE DO PROCESSO ADMINISTRATIVO. LUCROS CESSANTES. ÔNUS DAPROVA.
+1. O art. 127-A do Decreto nº 6.686/08 prevê expressamente o recurso de ofício quando a decisão de primeira instância explicitamente o determina ou, ainda, nas hipóteses dos incisos I a III do art. 93 da IN IBAMA nº 10/12, sendo que especificamente o inciso II resta previsto seu cabimento quando a decisão de primeira instância anule ou cancele auto de infração.
+2. Inexiste previsão de recurso de ofício para a segunda instância administrativa em caso de revogação de apreensão e determinação de devolução de bem apreendido em autuação ambiental.
+3. para o reconhecimento da ocorrência do lucro cessante e subsequente cálculo é imprescindível a comprovação de dados e valores para cotejamento e subsequente condenação, ônus do postulante
+Embargos declaratórios rejeitados.
+Nas razões de recurso especial manejado com fundamento na alínea "a" do permissivoconstitucional, aponta a autarquia recorrente violação aos artigo 1.022 c/c 489 §1º, arts. 25ºe 72, inciso V §6º,da Lei 9.605/98 c/c53 e 54 da Lei 9.784/99.
+Sustenta, em síntese, que: a) deve o acórdão embargado ser anulado, pois não sanou a apontada omissão; b) adecisão administrativa contrariou texto de lei expresso onde previsto o perdimento do bem utilizado na prática da infração e por isso mesmo não pode prevalecer por contrariar texto de lei expresso.
+Foram apresentadas contrarrazões.
+Após juízo positivo de admissibilidade do recurso especial, ascenderam os autos a esta Corte.
+É o relatório.Decido.
+Inicialmente, a alegada violação dos artigo 1.022 c/c 489 §1º, pressupõe sejademonstrado, fundamentadamente, que: (a) a questão supostamente omitida foi tratada naapelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuida de matéria deordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houveinterposição de aclaratórios para indicar à Corte local a necessidade de sanear a omissão; (c) atese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulaçãoou reforma.
+Esses requisitos são cumulativos e devem ser abordados de maneira fundamentada napetição recursal, sob pena de não se conhecer da alegação por deficiência de fundamentação,dada a generalidade dos argumentos apresentados.
+No caso, a recorrente apontou violação do art. 535, I e II, do CPC/1973, porque oaresto recorrido teria sido omisso quanto aos pontos levantados nos aclaratórios, sem explicitar,contudo, os diversos requisitos acima mencionados, o que inviabiliza o conhecimento do recurso,no ponto.Nesse ponto, aplica-se o disposto na Súmula 284/STF: "É inadmissível o recursoextraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+No mérito,verifica-se que os arts. 25ºe 72, inciso V § 6º,da Lei 9.605/98c/c53 e 54 da Lei 9.784/99,não possuem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido que, a rigor, examinou a possibilidade ou não de recurso ex oficio no âmbito administrativo, bem como suas consequência. A propósito, citam-se osfundamentos que lastrearam as razões decidir:
+"há expressa previsão de recurso de ofício quando a decisão de primeira instância explicitamente o determina ou, ainda, nas hipóteses dos incisos I a III do art. 93 supratranscrito (sic Decreto nº 6.686/08) sendo que especificamente o inciso IIp revê seu cabimento quando a decisão de primeira instância anule ou cancele auto de infração.No caso dos autos, a decisão objeto de recurso de ofício não o mencionou nem providenciou a anulação do Auto de Infração nº 571075,apenas determinou a devolução do bem objeto do Termo de Apreensão nº456252, que com o auto de infração não se confunde.
+Desta forma, desimportam os fundamentos da decisão de segunda instância que decretou o perdimento, desimportanto também as alegações do IBAMA acerca da boa-fé ou não de VITOR. Considerando que a mesma foi reconhecida em primeira instância em decisão da qual não cabe recurso de ofício, nesta seara judicial cabe, exclusivamente, em ação anulatória proposta pelo próprio VITOR, analisar a legalidade do procedimentoadministrativo e, entendendo, como de fato entendo, pela irregularidade, confirmar a decretação de nulidade do recurso de ofício e a restauração da decisão de primeira instância que determinou a devolução do bem.
+O próprio parecer técnico recursal enfatiza que "como não há previsão legal para o recurso de ofício da decisão da autoridade julgadora, nos termos do art. 23 da revogada IN IBAMA nº 08/2003 e art. 117 da IN IBAMA nº14/2009, sugiro o não conhecimento do recurso interposto" (evento 1,PROCADM7).
+Vale destacar que as razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do julgado Para tanto, deve ater-se aos fundamentos decisórios. Não sendo este o caso, aplica-se, por analogia, o disposto nas Súmulas 284/STF e 283/STJ.
+Nesse sentido, mutatis mutandis oseguinteprecedente:
+AGRAVO REGIMENTAL. ADMINISTRATIVO. AGRAVO EM RECURSOESPECIAL. MANDADO DE SEGURANÇA. PERDA DE OBJETO. RAZÕESRECURSAIS DISSOCIADAS DO JULGADO E QUE NÃO INFIRMAM OFUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS283 E 284 DO STF.
+1. É inadmissível o recurso especial que apresenta razões dissociadas do quadrofático e das premissas jurídicas expostos no acórdão recorrido. Incidência daSúmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiênciana sua fundamentação não permitir a exata compreensão da controvérsia.").
+2. As razões recursais não infirmam fundamento basilar que ampara o acórdãorecorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe:"É inadmissível o recurso extraordinário, quando a decisão recorrida assenta emmais de um fundamento suficiente e o recurso não abrange todos eles".
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 208.137/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRATURMA, julgado em 05/03/2013, DJe 11/03/2013)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso
+especial.
+Publique-se. Intimem-se.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1022. SUMULA 284. PROCESSO ADMINISTRATIVO. RECURSO EX OFICIO. SUMULA 283 E 284/STF. RECURSO NÃO CONHECIDO.
