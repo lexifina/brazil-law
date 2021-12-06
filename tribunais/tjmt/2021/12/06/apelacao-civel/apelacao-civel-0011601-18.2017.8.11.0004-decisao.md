@@ -1,0 +1,15 @@
+VISTOS
+1. Trata-se de apelação cível interposta pelo ESTADO DE MATO GROSSO contra sentença do juízo da 4a Vara Cível da Comarca de Barra do Garças, que julgou procedente o pedido nos autos da Ação Declaratória de Dependência Econômica c/c Pedido de Tutela de Urgência c/c Habilitação e Recebimento de Direito Previdenciário n. 011601-18.2017.811.0004 (código 258163) ajuizada por VALDENOR COELHO DE CARVALHO e MARIA MADALENA LIMA SILVA CARVALHO (id. 109221529/109221530).
+O recurso aportou neste Tribunal aos 12/11/2021, e foi distribuído à minha Relatoria em razão de possível prevenção com a Apelação/Remessa Necessária relativa à lide mesma lide, cujo v. acórdão declarou de ofício a nulidade da r. sentença, com a reabertura de instrução probatória, ou seja, trata-se de novo recurso de apelação nos mesmos autos (id. 44354484 e id. 10951998787).
+Não obstante, o Registro de Pesquisa consigna que “A Relatora Desa. Maria Aparecida Ribeiro é atual Vice Presidente do TJMT. Gestão 2021/2022” (id. 109519987).
+Desse modo, conquanto a regra do art. 80, § 1o do RI/TJMT, em razão de ter sido eleita para o cargo de Vice-Presidente deste Tribunal de Justiça na sessão do Tribunal Pleno ocorrida em 26/11/2020, esta Desembargadora não pode, até sessenta dias da posse, concorrer à distribuição, por força do art. 83, XVII, “a”, do RI/TJMT.
+Em consequência, mesmo os processos em que haja alegação de prevenção devem ser submetidos à livre distribuição (sorteio), conforme entendimento consignado pelo então Presidente deste Tribunal de Justiça, Desembargador Rui Ramos Ribeiro, na Consulta n. 0095734-68.2018.8.11.0000, veja-se:
+“[...] os processos com existência de possível prevenção de Membros desta Corte de Justiça que estejam excluídos da distribuição por força de eleição/ascensão para os cargos de Presidente, Vice-Presidente ou Corregedor-Geral da Justiça deverão, após a certificação de tal circunstância, ser submetidos à livre distribuição (sorteio)”. (Consulta CIA n. 0095734-68.2018.8.11.0000).
+Nesse sentido:
+“AGRAVO REGIMENTAL CÍVEL – PRELIMINAR – INTEMPESTIVIDADE DO RECURSO DE APELAÇÃO – CIÊNCIA INEQUÍVOCA – CARGA DOS AUTOS – RECURSO TEMPESTIVO – INCOMPETÊNCIA ABSOLUTA DO JUÍZO – PREVENÇÃO - DESEMBARGADOR QUE ASSUMIU CARGO DE DIREÇÃO DO TRIBUNAL - REMESSA ÀQUELE QUE O SUBSTITUIU - IMPOSSIBILIDADE - REGIMENTO INTERNO - PREVENÇÃO DO RELATOR, E NÃO DA CÂMARA – PRELIMINAR AFASTADA – TUTELA DE EVIDÊNCIA – REINTEGRAÇÃO DE POSSE - REQUISITOS PREENCHIDOS – RECURSO DESPROVIDO.
+[...]
+II - A prevenção de que trata o Regimento Interno é do relator, e cessa quando ele se afasta para exercer cargo de direção, de forma que os recursos não podem ser encaminhados a quem o substitui na Câmara.
+[...]
+(N.U 0003602-19.2014.8.11.0004, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, NILZA MARIA POSSAS DE CARVALHO, Primeira Câmara de Direito Privado, Julgado em 26/08/2020, Publicado no DJE 05/02/2021)
+2. Assim, encaminhem-se os autos ao Departamento Judiciário Auxiliar para redistribuição, na forma regimental.
+3. Cumpra-se, com as anotações de estilo.
