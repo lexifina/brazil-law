@@ -1,0 +1,6 @@
+DECISÃO
+Em razão do despacho de fls. 378/379, determinei a redistribuição do presente feito a um dos Ministros integrantes da Segunda Seção, sob o fundamento de que a natureza jurídica litigiosa não gira em torno do FIES, mas, sim, de obrigação que a instituição de ensino deveria ter realizado, através da CPSA, junto ao SIsFIES(Sistema Informatizado do FIES), para que fosse viabilizada a efetivação da matrícula da autora.
+Para reforçar essa compreensão, cito a decisão monocrática proferida no AREsp 1.358.704/SP, DJe de 3/12/2018.
+Nada obstante, ao examinar os autos, o eminente Ministro Raul Araújo reconheceu a competência da Primeira Seção para apreciar a matéria, porque o"recurso especial aborda a violação do art. 3º, I, "a", "b"e "c"da n. Lei 10.260/2001, sustentando-se a necessidade de que a recorrente promova a reabertura de prazo para que a recorrida possa realizar o aditamento do Financiamento Estudantil - FIES" (fl. 387).
+Assim, vislumbra-se, em um primeiro momento, a existência de um conflito negativo de competência, o que deveria ensejar a instauração doincidente perante a Corte Especial, nos termos do art. 16, IV, do RISTJ.
+Dessa forma, devolvo os autos à elevada consideração do Exmo. Ministro Raul Araújo.
