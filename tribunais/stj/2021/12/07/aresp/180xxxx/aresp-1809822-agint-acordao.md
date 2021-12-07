@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. LUCROS CESSANTES. LEGITIMIDADE ATIVA DO CONSUMIDOR CEDENTE. ATRASO ANTERIOR À CESSÃO ONEROSA. INDENIZAÇÃO LIMITADA AO PERÍODO CORRESPONDENTE. PREQUESTIONAMENTO (SÚMULA 211 DO STJ). AUSÊNCIA. ARGUMENTAÇÃO INSUFICIENTE (SÚMULA 284 DO STF). AGRAVO INTERNO DESPROVIDO.
+1. Fica inviabilizado o conhecimento de dispositivos legais indicados como violados, sobre os quais, a despeito da oposição de embargos de declaração, não houve emissão de nenhum juízo de valor pelo Tribunal de Justiça, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 211 do Superior Tribunal de Justiça.
+2. O v. acórdão recorrido, ao reconhecer a legitimidade do consumidor cedente para pleitear a indenização, foi expresso em afirmar ter o atraso da obra ocorrido durante o vínculo contratual originário, ou seja, antes de realizada a cessão, acarretando prejuízo, na modalidade de lucros cessantes, a ser indenizado, ainda que a indenização devesse ser limitada ao período antecedente à cessão. Por outro lado, o fato de ter havido posterior cessão onerosa, ainda que com ganho de capital, em nada infirma o prejuízo reconhecido antes de cessão, quando houve a inviabilidade de utilização do bem, que é o objeto da indenização.
+3. É inadmissível o inconformismo quando as razões do recurso estão dissociadas do decidido no acórdão recorrido e se mostram insuficientes, ainda que em tese, para demonstrar a ofensa alegada à legislação. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi e Luis Felipe Salomão (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por MGR - INCORPORAÇÕES LTDA contra decisão desta relatoria (e-STJ, fls. 640/641), que conheceu do agravo para dar parcial provimento a seu recurso especial, a fim de afastar a condenação em indenização por danos morais. Quanto às demais questões devolvidas, o recurso especial não foi conhecido ante a incidência das Súmulas 211 do Superior Tribunal de Justiça e 284 do Supremo Tribunal Federal.
+Nas razões recursais, a agravante reitera que as questões foram objeto de prequestionamento, tendo sido enfrentadas no julgamento dos embargos de declaração opostos perante o Tribunal local. Acrescenta que o recurso especial foi claro e preciso quanto às violações apontadas.
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+Devidamente intimada, a parte agravada apresentou impugnação às fls. 671-673.
+É o relatório.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (RELATOR):
+A despeito do esforço argumentativo da agravante, as razões do presente recurso não são aptas a alterar os fundamentos da decisão agravada.
+Insistem as razões do presente agravo que teriam sido devidamente prequestionados os arts. 113, 421 e 425 do Código Civil e 373 do Código de Processo Civil, quando da apreciação, pelo eg. Tribunal de Justiça, dos aclaratórios.
+Contudo, a fundamentação daquele acórdão integrativo enfrentou a matéria da legitimidade ativa dos agravados tão somente a partir da interpretação sistemática dos arts. 51 do CDC e 286, 287 e 884 do CC.
+Assim, de fato, não foram prequestionados os dispositivos legais indicados como violados, uma vez que sobre seus respectivos conteúdos normativos não houve a emissão de nenhum juízo de valor. A propósito, o acórdão foi assim fundamentado:
+"Primeiramente, não há qualquer contradição no reconhecimento da legitimidade ativa dos embargados, limitada até a data da cessão dos direitos sobre o contrato.
+Como expressamente fundamentado, até a data da cessão, os direitos do contrato eram dos embargados, ou seja, de receber o imóvel pronto e acabado. Se houve atraso até a data da cessão, o prejuízo foi dos embargados, por não ter podido exercer os direitos sobre o imóvel comprado, até o cederem a terceiros.
+Nada disso viola os artigos 286 e 287 do Código Civil: a cessão dos direitos pelos embargados leva à perda do direito deles a partir da cessão, mas não impossibilita a indenização pelo período anterior, quando eles eram os titulares da posição jurídica.
+Quanto à multa incidente, o acórdão considerou a cláusula 9.8, j, porque é a cláusula que fixa taxa de ocupação, valor locatício, para o imóvel.
+A outra cláusula referida, 9.1, c, era prevista para o atraso da parcela do comprador, obrigação que é heterogênea em relação à obrigação da embargante, de entrega o imóvel, fazer a construção.
+Foi a primeira cláusula a considerada porque é a cláusula cuja aplicação reversa atende às teses firmadas pelo E. Superior Tribunal de Justiça nos temas 970 e 971 de recursos repetitivos: é a que prevê valor locatício e que equivale à conversão das obrigações heterogêneas das partes.
+A embargante alega que haveria enriquecimento sem causa dos embargados (art. 884, CC), com a aplicação do valor locatício da cláusula 9.1, c.
+Trata-se de alegação que viola a boa fé e é abusiva em relação ao consumidor: a vendedora pretende que a cláusula, do percentual que ela afirma ser excessivo para a locação do imóvel, seja aplicado somente ao comprador em caso de rescisão do contrato, mas que não lhe seja imputado em caso de culpa dela. Esse entendimento viola o artigo 51, inciso IV, do Código de Defesa do Consumidor." (e-STJ, fl. 439)
+Outrossim, no que se refere à vedação de enriquecimento sem causa, o recurso especial não deixa claro em que medida estaria configurada sua violação, atraindo a incidência analógica da Súmula 284 do STF.
+Nota-se que o acórdão recorrido, ao reconhecer a legitimidade do cedente, foi expresso em afirmar que o atraso da obra, ocorrido durante o vínculo contratual originário, ou seja, antes de realizada a cessão, acarretaria prejuízo, na modalidade de lucros cessantes, a ser indenizado, ainda que a indenização devesse ser limitada ao período que antecedeu a cessão.
+Por outro lado, o fato de ter havido posterior cessão onerosa, ainda que com ganho de capital, em nada infirma o prejuízo reconhecido antes de cessão, quando houve a inviabilidade de utilização do bem, que é o objeto da indenização.
+Daí por que, de fato, os argumentos aduzidos são insuficientes para demonstrar, ainda que em tese, a violação dos dispositivos legais indicados como violados, os quais, em verdade, não guardam pertinência com o decisum recorrido e sua fundamentação.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA DE DANOS MORAIS E MATERIAIS. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. INDENIZAÇÃO POR DANOS MORAIS. DISPOSITIVO LEGAL TIDO POR VIOLADO E EM TORNO DO QUAL HAVERIA DISSÍDIO JURISPRUDENCIAL COM CONTEÚDO NORMATIVO INSUFICIENTE PARA FUNDAMENTAR A PRETENSÃO RECURSAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. JUROS DE MORA. INDICAÇÃO DE OFENSA A DISPOSITIVOS NÃO PREQUESTIONADOS. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. APLICAÇÃO DA SÚMULA Nº 283 DO STF. LUCROS CESSANTES. PRESUNÇÃO DE EXISTÊNCIA DA LESÃO. APLICAÇÃO DA SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula nº 284 do Supremo Tribunal Federal.
+3. Nos termos da Súmula nº 211 do STJ, considera-se não prequestionado o tema que, a despeito dos embargos de declaração opostos pela parte, não foi devidamente examinado pelo órgão julgador.
+4. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.
+5. O STJ firmou o entendimento de que, descumprido o prazo para a entrega do imóvel objeto do compromisso de compra e venda, é cabível a condenação por lucros cessantes, sendo presumido o prejuízo do promissário comprador. Precedentes. Incidência da Súmula nº 568 do STJ.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido.
+(AgInt no REsp 1.879.425/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/11/2020, DJe de 27/11/2020, g.n.)
+Com esses fundamentos, nego provimento ao agravo interno.
+É como voto.
