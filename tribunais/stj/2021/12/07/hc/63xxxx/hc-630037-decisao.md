@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RENATO ROCHA DA SILVAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL(Recurso Em Sentido Estrito n.0001181-44.2020.8.12.0028).
+Depreende-se dos autos que o paciente,preso preventivamente em 26/12/2019, pela prática, em tese, do delito de homicídio simples tentado, teve deferida a liberdade provisória com imposição de medidas cautelares diversas(e-STJ fls. 79/80).
+Inconformado, o órgão ministerial interpôs recurso em sentido estrito, ao qual foi dadoprovimento peloTribunal de origem. Eisa ementa(e-STJ fl. 145):
+RECURSO EM SENTIDO ESTRITO -TENTATIVA DE HOMICÍDIO - DECRETAÇÃO DE PRISÃO PREVENTIVA - REQUISITOS LEGAIS PREENCHIDOS - GRAVIDADE CONCRETA DA CONDUTA - AGENTE MULTIRREINCIDENTE - HABITUALIDADE CRIMINOSA - FUNDADO RECEIO DE REITERAÇÃO DELITIVA - GARANTIA DA ORDEM PÚBLICA - INSUFICIÊNCIA DE MEDIDAS CAUTELARES ALTERNATIVAS - CUSTÓDIA CAUTELAR DECRETADA - RECURSO PROVIDO.
+I A decretação da prisão preventiva do recorrido justifica-se em virtude da gravidade concreta do delito a ele imputado e, sobretudo, do fundado receio de reiteração delitiva, haja vista que este registra três condenações anteriores transitadas em julgado, fato capaz de fundamentar a imposição da medida mais gravosa. Junto a isso, a censurabilidade do crime noticiado diversos golpes de arma branca ("facão") em desfavor da vítima , realça traços de periculosidade que fragilizam a paz social por todos almejada, tornando-se, portanto, imprescindível a custódia cautelar como forma de garantir a ordem pública.
+II Inviável a aplicação de medidas cautelares diversas da prisão, haja vista que as circunstâncias aferidas no caso concreto demonstram que estas não seriam suficientes para a garantia da ordem pública, considerando-se a censurabilidade da conduta imputada ao recorrido e, sobretudo, a habitualidade criminosa.
+III A Recomendação n. 62/2020 do CNJ não é norma impositiva que autoriza indistintamente a libertação de presos provisórios e definitivos, cabendo a análise das circunstâncias de cada caso e das condições pessoais de cada interno, as quais, nestes autos, não recomendam a substituição da prisão preventiva por medidas alternativas, diante da particular gravidade da conduta atribuída ao recorrido e do fundado receio de reiteração delitiva. Ademais, inexiste informação de que o autuado faça parte do chamado grupo de risco para o novo "Coronavírus", nada obstando que, em caso de eventual infecção, receba o tratamento médico adequado no interior do estabelecimento prisional.
+IV Com o parecer, recurso provido, para decretar a segregação cautelar do recorrido Renato Rocha da Silva, expedindo-se o respectivo mandado de prisão.
+Daí o presente writ, no qual alega a defesa que a decisão que decretou a prisão preventiva do paciente carece de fundamentação idônea.
+Tece, ainda,considerações acerca da crise sanitária frente à pandemia dacovid-19, razão por que é desproporcional edesnecessária a custódia cautelar,revelando-se adequadas e suficientes medidas diversas da prisão.
+Assim, requer, liminarmente, a suspensão dos efeitos do acórdão impugnadoe, no mérito, o restabelecimento da decisão desubstituição da prisão preventiva por medidas cautelares diversas.
+O pedido liminar foi indeferido.
+Prestadas as informações pelas instâncias ordinárias, o Ministério PúblicoFederal manifestou-se opinando pelo não conhecimento do writ e/ou denegação daordem.
+É, em síntese, o relatório.
+Decido.
+Em consulta ao andamento processual da ação penal na origem, apurou-sea superveniência de sentença de pronúncia prolatada em desfavor do ora paciente,oportunidade em que foi mantida a prisão preventiva.
+Ficou, portanto, sem objeto o pedido contido na inicial, em que a defesainsurgia-se contra a custódia cautelar, visto que a restrição da liberdade, agora, decorrede novo título, não submetido ao pronunciamento do Tribunal de origem.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno doSuperior Tribunal de Justiça, julgo prejudicado o presente writ.
+Publique-se. Intimem-se.
