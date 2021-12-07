@@ -1,0 +1,36 @@
+DECISÃO
+1. Trata-se de petição apresentadapor EMC2 - ENGENHARIA, MANUTENÇÃO, CONSTRUÇÃO E CONSULTORIA LTDA em 3/12/2021, alegando a prevenção da Ministra Isabel Gallotti em razão do REsp 1.677.680-RJ.
+Sustenta a parterequerente que "anteriormente à interposição do presente recurso, a Agravante e a Agravada também interpuseram recurso especial nº 1.677.680/RJ, autuado em 21/09/2016 e relatado pela i. Ministra Maria Isabel Gallotti, em que discutem a condenação proferida nos autos da ação nº 0044174-48.2007.8.19.0001, a qual ensejou o cumprimento de sentença objeto do presente recurso" (fl. 300).
+Pede a redistribuição do processo à eminenteMinistra Isabel Gallotti.
+Decido.
+2. Afalta de apreciação de ofício de eventual prevenção de Ministro ou mesmo prevenção de Turma não gera vício de omissão.
+De acordo com o entendimento desta Corte, a competência dos órgãos fracionários deste Tribunal é de natureza relativa, de modo que qualquer arguição a esse respeitodeve ser feita após a distribuição do feito até o iníciodo julgamento, monocrático ou colegiado,do recurso, sob pena de preclusão.
+Nessa linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONSTITUCIONAL E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CORREIÇÃO PARCIAL AO INVÉS DE AGRAVO DE INSTRUMENTO. POSSIBILIDADE. PRINCÍPIO DA FUNGIBILIDADE RECURSAL.
+1. "A competência traçada pelo art. 71 do Regimento Interno do Superior Tribunal de Justiça - RISTJ é de natureza relativa, porquanto regulada por regimento interno, de sorte que deve ser suscitada após a distribuição do feito até o início do julgamento, consoante disposição do parágrafo 4º do referido dispositivo regimental". (AgRg no REsp 1360424/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/02/2014, DJe 11/03/2014).
+2. Nos termos da Súm 211 do STJ, é "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+3. "Correição parcial. Interposição ao invés de agravo de instrumento. Pedido expresso de aplicação do princípio da fungibilidade recursal. Possibilidade. Erro grosseiro não caracterizado" (RMS 16.218/SP, Rel. Ministro FRANCISCO PEÇANHA MARTINS, SEGUNDA TURMA, julgado em 13/09/2005, REPDJ 21/11/2005, p.
+172, DJ 17/10/2005).
+4. Agravo interno não provido.
+(AgInt no REsp 1486727/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/05/2020, DJe 12/05/2020)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE PREVENÇÃO. OMISSÃO VERIFICADA (CPC/2015, ART. 1.022).COMPETÊNCIA INTERNA ARGUIDA EM AGRAVO INTERNO. COMPETÊNCIA RELATIVA.PRECLUSÃO. ART. 71, § 4º, DO RISTJ. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Constatada omissão no acórdão quanto à questão arguida nas razões do agravo interno, os embargos devem ser acolhidos para sanar o vício.
+3. A competência interna desta Corte é de natureza relativa, razão pela qual eventual prevenção deve ser suscitada até o início do julgamento, sob pena de preclusão, nos termos do art. 71, § 4º, do RISTJ.
+4. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+(EDcl no AgInt no REsp 1772010/CE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/02/2020, DJe 03/03/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE.COMPETÊNCIA INTERNA. NATUREZA RELATIVA. HONORÁRIOS DE SUCUMBÊNCIA.IMPOSSIBILIDADE DE MAJORAÇÃO. APLICAÇÃO DO CPC/1973. RECURSO PARCIALMENTE PROVIDO.
+1. Não se conhece do agravo que não impugna especificamente os fundamentos da decisão que nega seguimento ao recurso especial, devendo ser observado o princípio da dialeticidade, consagrado e positivado pelo sistema processual brasileiro (arts. 544, § 4º, I, do Código de Processo Civil de 1973; 932, III, e 1.021, § 1º, do atual Código de Processo Civil; e 259, § 2º, do Regimento Interno do Superior Tribunal de Justiça).
+2. "A competência interna desta Corte é de natureza relativa, razão pela qual a prevenção ou a prorrogação apontada como indevida deve ser suscitada até o início do julgamento, sob pena de preclusão, nos termos do art. 71, § 4º, do RISTJ" (EDcl no AgInt no REsp 1309945/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 6/2/2018, DJe 14/2/2018).
+3. Incabível a majoração dos honorários de sucumbência quando do julgamento dos recursos interpostos com fundamento no CPC/1973, relativos a decisões publicadas até 17 de março de 2016, pois a eles não se aplicam as disposições do CPC/2015, conforme dispõe o Enunciado Administrativo nº 2/STJ.
+4. Agravo interno parcialmente provido para afastar a majoração dos honorários advocatícios de sucumbência.
+(AgInt no AREsp 1191735/ES, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/10/2018, DJe 23/10/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1.PREVENÇÃO. COMPETÊNCIA RELATIVA. ALEGAÇÃO TARDIA. ART. 71, § 4º, DO RISTJ. 2. SUSPEIÇÃO DO MAGISTRADO NÃO CONFIGURADA. INEXISTÊNCIA DE TRATAMENTO DESIGUAL ENTRE AS PARTES. REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Dispõe o § 4º do art. 71 do Regimento Interno desta Corte que "a prevenção, se não for reconhecida, de ofício, poderá ser arguida por qualquer das partes ou pelo órgão do Ministério Público, até o início do julgamento". Contudo, se não for suscitada a prevenção até o início do julgamento do apelo extremo - entendimento este que se aplica também às decisões monocráticas proferidas pelo relator -, mas apenas na interposição do agravo interno, tem-se por preclusa a questão.
+2. É vedado em recurso especial o reexame das circunstâncias fáticas da causa, ante o disposto no enunciado n. 7 da Súmula do STJ: "A pretensão de simples reexame de provas não enseja recurso especial." 2.1. Na hipótese, o Tribunal de Justiça, soberano no exame do acervo fático-probatório dos autos, concluiu que não foi configurada a suspeição. Assim, não é possível rever esta conclusão ante o óbice do enunciado de súmula supramencionado.
+3. Não cabe a condenação ao pagamento de honorários advocatícios recursais no âmbito do agravo interno, conforme os critérios definidos pela Terceira Turma deste Tribunal Superior nos EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+4. Agravo interno improvido.
+(AgInt no AREsp 1372756/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/03/2019, DJe 28/03/2019)
+No caso dos autos,se a parte entendia que havia prevenção da Ministra Isabel Gallotti, deveria ter arguido a referida tese antes do julgamento monocrático. No entanto, a parte requerente somente suscitou a prevenção após ser proferidadecisão monocrática desfavorável.
+3.Ante o exposto, indefiro o pedido de redistribuição, com a manutenção do agravo interno na pauta da sessão virtual da Quarta Turma com início em 7/12/2021 e término em 13/12/2021.
+Publique-se. Intimem-se.
