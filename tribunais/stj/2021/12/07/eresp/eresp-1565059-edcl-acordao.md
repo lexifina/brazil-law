@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer, sendo substituído pela Sra. Ministra Maria Isabel Gallotti, nos termos do disposto nos arts. 2º, § 2º, e 55 do RISTJ.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de embargos de declaração opostos contra acórdão desta colenda Corte Especial, assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. NÃO CONFIGURAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO DESPROVIDO.
+1. Não fica caracterizado o dissídio jurisprudencial, apto a ensejar o cabimento dos embargos de divergência, quando os acórdãos embargado e paradigmas não possuírem entre si similitude fático-jurídica.
+2. Agravo interno a que se nega provimento.
+Em suas razões, a parte embargante alega que o aresto hostilizado incorreu em obscuridade, porquanto: (i) houve a devida demonstração da similitude fática entre os acórdãos confrontados. Afirma, para tanto, que, "nos acórdãos paradigmas, exarados pelas Terceira e Quarta Turmas dessa e. Corte em contexto fático semelhante - pagamento de imposto de renda incidente sobre valores pagos em razão de decisão judicial - foram analisados os mesmos dispositivos legais e regulamentares dos autos, sendo adotada tese jurídica oposta, no sentido de que o imposto de renda incidente sobre valores pagos por força de decisão judicial é de responsabilidade exclusiva da fonte pagadora. No caso dos autos, o e. Tribunal a quo, ao analisar a mesma questão jurídica, decidiu pela existência de solidariedade entre a fonte pagadora e o beneficiário, afastando a tese da responsabilidade exclusiva da fonte pagadora"; (ii) não houve apreciação da tese de que "o que se pretende nos autos é que essa h. Corte supere a divergência de entendimento, esclarecendo, com base nos artigos 45 e 46 da Lei n.º 8.541/92, se a responsabilidade pelo pagamento do imposto de renda incidente sobre os valores pagos em razão de decisão judicial é exclusivamente da fonte pagadora, ou se é possível, em caso de inadimplemento da fonte pagadora, exigir o imposto de quem recebeu os valores, mesmo que este tenha declarado os valores recebidos".
+Devidamente intimada, a parte embargada não apresentou impugnação.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+In casu, inexistem os vícios apontados nos declaratórios.
+No acórdão ora embargado, ficou consignado, de forma clara e fundamentada, o seguinte:
+Como se vê, na hipótese em apreço, o v. acórdão embargado é da col. Segunda Turma e os paradigmas são de diversos órgãos julgadores deste Tribunal Superior (Primeira, Segunda, Terceira e Quarta Turmas). Há, portanto, superposição de competências para julgamento dos presentes embargos de divergência.
+Assim, relativamente aos paradigmas das Primeira e Segunda Turmas, a competência é da eg. Primeira Seção (art. 12, parágrafo único, I, do RISTJ). Por sua vez, em relação aos demais paradigmas das Terceira e Quarta Turmas, a competência é desta colenda Corte Especial, nos termos do art. 11, XIII, do RISTJ.
+Destarte, conforme consignado na decisão ora agravada, o julgamento dos embargos de divergência deve ser cindido para cada um dos órgãos fracionários competentes, com primazia do colegiado mais amplo. A propósito, citam-se os seguintes precedentes da Corte Especial: EREsp 223.796/DF, Rel. Min. JOSÉ DELGADO, Rel. p/ acórdão Min. FERNANDO GONÇALVES, DJ de 15/12/2003; AgRg nos EREsp 640.803/RS, Rel. Min. LAURITA VAZ, DJ de 12/2/2007; AgRg nos EDcl nos EAg 901.062/SP, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 26/9/2011.
+Nesse contexto, nesta eg. Corte Especial, realmente deve ser apreciada a divergência suscitada tão somente em relação aos paradigmas da Terceira Turma (AgRg no AREsp 634.452/RS) e da Quarta Turma (AgRg no AREsp 124.248/RS).
+Em relação a tais paradigmas, entendeu-se na monocrática ora hostilizada que o recurso uniformizador não merecia conhecimento, diante da ausência de similitude fático-jurídica entre os acórdãos confrontados.
+De fato, os arestos apontados como paradigmas não encerram hipótese semelhante à dos presentes autos, de maneira que há de ser mantida a decisão ora agravada, senão vejamos.
+No acórdão ora embargado, a colenda Segunda Turma analisou a existência, ou não, de responsabilidade solidária/subsidiária do substituído para o recolhimento de imposto de renda em caso de omissão, pelo substituto, da retenção e recolhimento do tributo na fonte. Concluiu, na ocasião, que "a responsabilidade da fonte pagadora não afasta a responsabilidade solidária do contribuinte. Portanto, ao contrário do que reitera o agravante, a responsabilidade não é única e exclusiva da fonte pagadora, visto que a ausência de recolhimento do tributo por esta não exime a responsabilidade do contribuinte em oferecer o rendimento à tributação".
+Por sua vez, nos paradigmas das Terceira e Quarta Turmas (AgRg no AREsp 634.452/RS e AgRg no AREsp 124.248/RS, respectivamente), examinou-se a responsabilidade pelo recolhimento do imposto de renda incidente sobre valores devidos em virtude de decisão judicial, concluindo ser da fonte pagadora, no caso a entidade de previdência privada.
+Portanto, não há como afastar a conclusão de que as questões jurídicas trazidas nos acórdãos embargado e paradigmas são diversas, não havendo o indispensável dissenso a respeito da solução da questão de direito material controvertida. Assim, os paradigmas apresentados não são passíveis de caracterizar a divergência jurisprudencial suscitada pela parte embargante.
+A respeito do tema, a jurisprudência deste Tribunal Superior já pacificou entendimento de que somente "são cabíveis os Embargos de Divergência quando os arestos trazidos à colação firmaram posição antagônica sobre os mesmos fatos e questões jurídicas deduzidos no acórdão embargado. Ao contrário, devem ser indeferidos os embargos quando, considerando as peculiaridades de cada caso concreto, foram dadas soluções diferentes para as hipóteses confrontadas" (EREsp 443.095/SC, Segunda Seção, Rel. Min. CASTRO FILHO, DJ de 2/2/2004).
+Em reforço, confiram-se:
+(..)
+Diante do exposto, tendo a parte ora agravante conseguido infirmar os fundamentos da decisão ora agravada, nega-se provimento ao agravo interno.
+Oportunamente, remetam-se os autos à colenda Primeira Seção para análise dos presentes embargos de divergência no âmbito de sua competência regimental.
+Vê-se, pois, que não houve omissão ou obscuridade no aresto embargado, mas apenas julgamento contrário à pretensão do recorrente, porquanto entendeu-se inexistente a similitude entre os acórdãos confrontados a possibilitar o conhecimento dos embargos de divergência.
+Nos termos da jurisprudência firmada no âmbito do Superior Tribunal de Justiça, é indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É como voto.
