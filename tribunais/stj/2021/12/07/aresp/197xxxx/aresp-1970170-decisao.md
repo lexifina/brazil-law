@@ -1,0 +1,63 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que foi iniciado o inventário dos bens deixados pelo falecimento de MARIO GABRIELE CASO.
+No curso da ação, o d. juízo de primeira instância indeferiu a produção de prova testemunhal, uma vez que a estreita via do inventário não permite a dilação da instrução probatória, devendo as questões de alta indagação serem dirimidas em ações autônomas perante o respectivo e competente juízo. Rejeitou-se, ainda, a impugnação com relação ao imóvel porquanto não restou comprovado que o produto da venda do bem dado à viúva foi destinado à compra do imóvel adquirido na constância do casamento.
+Contra essa decisão interlocutória, BIANCA ROSA POSENATO (BIANCA) interpôs agravo de instrumento alegando que as provas juntadas aos autos demonstram de forma inequívoca que o apartamento objeto do litígio foi adquirido com o produto da venda do imóvel que lhe foi doado por seus pais.
+O Tribunal de Justiça de São Paulo negou provimento ao recurso, em acórdão da relatoria do Des. JOSÉ RUBENS QUEIROZ GOMES, assim ementado:
+AGRAVO DE INSTRUMENTO. Ação de inventário. Insurgência contra decisão que indeferiu a produção de prova testemunhal, por entender que a estreita via do inventário não permite dilação probatória, devendo ser dirimida em ação autônoma e rejeitou a impugnação com relação ao imóvel. Pedido da viúva para que seja excluído do inventário o bem em comento por se tratar de sua propriedade particular. Controvérsia instaurada pelos herdeiros do inventariado sustentando que o casamento foi realizado sob o regime da separação de bens. Hipótese em que a discussão deve ser remetida para as vias ordinárias, por ser debate de alta indagação, com o exercício do contraditório e da ampla defesa.Impossibilidade de processamento no bojo limitado da ação de inventário.Incomprovação de que a questão em relação ao automóvel tenha sido objeto de apreciação pelo Juízo de origem, razão pela qual não pode ser analisado por este Tribunal, sob pena de supressão de instância. Recurso a que se nega provimento na parte conhecida (e-STJ, fl. 52).
+Os embargos de declaração opostos por BIANCA foram rejeitados (e-STJ, fls. 102/104).
+Inconformada, BIANCA manejourecurso especial com base no art. 105, III, a, da CF, alegando a violação dos arts. 4º, 7º, 489, § 3º, 490 e 1.022, I, do NCPC, e 1.659, I e II,do CC/02, ao sustentar que (1) o acórdão recorrido possui contradição interna, pois, a despeito de consignar que as matérias de mérito não podem ser analisadas no bojo do inventário, o órgão julgador não anulou a decisão de primeira instância que manteve o imóvel na partilha dos bens inventariados;e (2) excluem-se da comunhão os bens adquiridos com valores exclusivamente pertencentes a um dos cônjuges em sub-rogação dos bens particulares.
+Houve o oferecimento de contrarrazões (e-STJ, fls. 109/121).
+O apelo nobre foi inadmitido em virtude da (i) ausência de negativa da prestação jurisdicional; e (ii) falta de demonstração da alegada vulneração aos dispositivos arrolados no especial; e (iii) incidênciadas Súmulas nºs 5 e 7 do STJ (e-STJ, fls. 122/124).
+Nas razões do presente agravo em recurso especial, BIANCA reiterou a argumentação deduzida no apelo extremo, insurgindo-se contra os fundamentos da decisão agravada (e-STJ, fls. 127/140).
+Foi apresentada impugnação (e-STJ, fls. 142/155).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada contradição do acórdão
+Nas razões do recurso especial, BIANCA alegou a existência de contradição interna no aresto recorrido,pois,a despeito de consignarque as matérias de mérito não podem ser analisadas no bojo do inventário, o órgão julgador não anulou a decisão de primeira instância que manteve o imóvel na partilha dos bens inventariados.
+Contudo, sem razão.
+Ao negar provimento ao agravo de instrumento interposto pela ora insurgente, no qual requereu que fosse excluído do inventário o imóvel em que reside por se tratar de sua propriedade particular, o Tribunal bandeiranteassim se pronunciou:
+No caso, há controvérsia entre a viúva e os herdeiros do inventariado em relação ao imóvel nos bens arrolados a partilhar. A agravante defende que o bem é de sua propriedade particular, ao passo que os agravados sustentam que o casamento foi realizado sob o regime da separação de bens.
+Nesse contexto, afigura-se inviável abrir tal discussão no bojo limitado dos autos do inventário em nome da celeridade processual, cabendo oportunizar às partesa ampla produção de provas, inclusive as testemunhais aqui requeridas, se o caso, a fim de que não se cometa nenhuma injustiça.
+Logo, a questão em debate, é de alta indagação, devendo ser solucionada pela via própria, conforme consignou o Magistrado a quo.
+De fato, reitere-se, não há como dirimir essa questão no âmbito restrito do inventário, sendo assim necessária a propositura de ação ordinária em respeito ao princípio do devido processo legal, na qual possa ser exercido o direito ao contraditório e a ampla defesa.
+A propósito, vale ressaltar que, questão de alta indagação "são aquelas em que aparecem elementos de fato que exigiriam processo à parte, com rito próprio. Questões só de direito são questões puras, em que não se precisa investigar fato ou apurar provas; Alta indagação ou maior indagação não é indagação difícil, mas busca de prova fora do processo e além dos documentos que o instruem". (RJTJRS 102/287).
+Além do que, não se vislumbra, por ora, prejuízo à agravante, diante do direito real de habitação que exercerá sobre o bem(e-STJ, fls. 53/54).
+Não há falar, portanto, em negativa de prestação jurisdicional, pois, a pretexto da alegação de ofensa aos arts. 489 e 1.022 do NCPC, o que busca BIANCA é apenas manifestar o seu inconformismo com o resultado do julgamento que lhe foi desfavorável, não se prestando a estreita via dos embargos de declaração a promover o rejulgamento da causa, já que inexistentes quaisquer dos vícios elencados no referido dispositivo da lei adjetiva civil.
+A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019 - sem destaques no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A DELIBERAÇÃO UNIPESSOAL QUE CONHECERA DO AGRAVO (ART. 544 DO CPC/73) PARA, DE PLANO, NEGAR SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+1. Não compete ao STJ o exame de preceitos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpar a competência do Supremo Tribunal Federal. Precedentes.
+2. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+3. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, tendo enfrentado todos os pontos aventados pela parte nas razões do agravo regimental, apenas decidindo de forma contrária aos interesses da embargante, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 469.306/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 1º/12/2016, DJe 7/12/2016 - sem destaques no original)
+Afasta-se, portanto, a alegação de contradição do acórdão recorrido.
+(2) Da incidência das Súmulas nºs 282 e 356 do STF
+Por sua vez, também sustentou a insurgente que, excluem-se da comunhão os bens adquiridos com valores exclusivamente pertencentes a um dos cônjuges em sub-rogação dos bens particulares, nos termos do que dispõe o art. 1.659, I e II, do CC/02.
+Ocorre que, da leitura dos fundamentos transcritos no item anterior, verifica-se que, no caso,o Tribunal paulista limitou-se a consignarque, havendo controvérsia entre a viúva e os herdeiros do inventariado em relação ao imóvel arrolado nos bens a partilhar, não há como dirimir a questão no âmbito restrito do inventário, devendo a questão ser solucionada pela via própria, na esteira do que asseverou o magistrado a quo.
+Nesse sentido, observa-seque a Corte local não se pronunciou acerca do conteúdo normativo doart. 1.659 do CC/02,indicadoviolado, sendo de se ressaltar que o tema nem sequer foi suscitado por ocasião da oposição dos embargos de declaração.
+Assim, não há como ser analisada a tese trazida no recurso especial, em virtude da falta de prequestionamento.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. MÁ PRESTAÇÃO DE SERVIÇOS.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. TEORIA DO ADIMPLEMENTO SUBSTANCIAL. AUSÊNCIA DE PREQUESTIONAMENTO.RESPONSABILIDADE INDENIZATÓRIA. REVISÃO DE VALOR.IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Recurso especial que suscita negativa de prestação jurisdicional, nos termos do art. 1.022 do CPC/2015, sem indicar precisamente o ponto que supostamente estaria omisso, contraditório, obscuro ou com erro material, é deficiente em sua fundamentação e atrai a aplicação do óbice descrito na Súmula 284/STF.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.191.997/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 17/11/2020, sem destaque no original)
+Incide, quanto ao ponto, os óbices das Súmulas nsº 282 e 356 do STF, por analogia.
+Nessas condições, CONHEÇO do agravo paraNÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INVENTÁRIO. ARTS. 489 E 1.022 DO NCPC. CONTRADIÇÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. OFENSA AO ART. 1.659, I E II, DO CÓDIGO CIVIL. FALTA DE PREQUESTIONAMENTO. APLICAÇÃO DAS SÚMULAS NºS 282 E 356 DO STF, POR ANALOGIA.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
