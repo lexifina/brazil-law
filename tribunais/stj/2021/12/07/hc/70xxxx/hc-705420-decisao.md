@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deVICTOR HUGO PEREIRAem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Goiás(HC n. 5571323-62.2021.8.09.0000).
+Opaciente foi presoem flagrante pela suposta prática docrimedescritono art. 171, §§ 2º e4º, do Código Penal.
+Em audiência de custódia, foi concedida liberdade provisória aopaciente mediante pagamento de fiança no valor de R$ 8.640,00.
+Impetrado writ na origem, o pedido de liminar foi parcialmente concedido, reduzindo-se a quantia arbitrada a título de fiança para o valor de R$ 7.000,00.
+Nas razões do presente habeas corpus, a defesa alega a ocorrência de constrangimento ilegal consubstanciado no condicionamento da liberdade provisória do paciente ao pagamento de fiança.
+Ressalta a hipossuficiência do paciente, assim como a não observância da proporcionalidade e da razoabilidade para a fixação da fiança.
+Requer, liminarmente e no mérito, a concessão da ordempara que seja expedido alvará de soltura em favor do paciente.
+O pedido de liminar foi deferido (fls. 42-44).
+As informações foram prestadas às fls. 53-58.
+O Ministério Público Federal manifestou-se pelo não conhecimento do write pela concessão de ofício (fls. 61-63).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, o pleito formulado no presente writ é dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que restou demonstrado nos autos.
+Conforme descrito na decisão que deferiu o pedido de liminar, a liberdade provisória do paciente foi concedida mediante o pagamento da fiança, sendo este o único motivo que o mantinha preso preventivamente.
+Portanto, o entendimento adotado pelo Tribunal de origem para negar o pedido de liberdade provisória viola jurisprudência firmada nos autos do HC n. 568.693/ES, em que a Terceira Seção do STJ concedeu a ordem coletiva e determinou a soltura de todas as pessoas do país cuja liberdade provisória fora condicionada ao pagamento de fiança e ainda estão submetidas à privação cautelar de liberdade devido ao não pagamento do valor. Confira-se a ementa do julgado:
+HABEAS CORPUS COLETIVO. PROCESSO PENAL. PRISÃO PREVENTIVA. PRESOS QUE TIVERAM A LIBERDADE PROVISÓRIA CONDICIONADA AO PAGAMENTO DE FIANÇA. CONTEXTO DA PANDEMIA DE COVID-19. RECOMENDAÇÃO N. 62/CNJ. EXCEPCIONALIDADE DAS PRISÕES. ORDEM CONCEDIDA. EXTENSÃO DOS EFEITOS PARA TODO O TERRITÓRIO NACIONAL.
+ ..
+19. Ordem concedida para determinar a soltura, independentemente do pagamento da fiança, em favor de todos aqueles a quem foi concedida liberdade provisória condicionada ao pagamento de fiança no estado do Espírito Santo e ainda se encontram submetidos à privação cautelar de liberdade em razão do não pagamento do valor, com determinação de extensão dos efeitos desta decisão aos presos a quem foi concedida liberdade provisória condicionada ao pagamento de fiança, em todo o território nacional. Nos casos em que impostas outras medidas cautelares diversas e a fiança, fica afastada apenas a fiança, mantendo as demais medidas. Por sua vez, nos processos em que não foram determinadas outras medidas cautelares, sendo a fiança a única cautela imposta, é necessário que os Tribunais de Justiça estaduais e os Tribunais Regionais Federais determinem aos juízes de primeira instância que verifiquem, com urgência, a conveniência de se impor outras cautelares em substituição à fiança ora afastada. Oficiem-se os Presidentes dos Tribunais de todos os estados da Federação e os Presidentes de todos os Tribunais Regionais Federais para imediato cumprimento. (HC n. 568.693/ES, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 16/10/2020, destaquei.)
+Assim, é imperiosa a concessão da ordem de ofício, confirmando a liminar já concedida, para afastar a fiança arbitrada na origem e revogar a prisão preventiva do paciente, sem prejuízo da fixação de medidas cautelares diversas previstas no art. 319 do CPP.
+Ante o exposto,  com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus, mas concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para confirmar a decisão de fls. 42-44 e afastar, definitivamente, a fiança arbitrada na origem, sem prejuízo da fixação, fundamentada, de medidas cautelares alternativas que o Juízo de primeiro grau julgar necessárias.
+Ressalte-se que, como a ação penal originária passou a ser de competência da Justiça do Rio Grande do Sul, a decisão deve ser comunicada ao TJRS.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
