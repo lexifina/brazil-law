@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado peloJUÍZO DE DIREITO DA 2A VARA CRIMINAL DE CAXIAS DO SUL - RS em face doJUÍZO DE DIREITO DA VARA ÚNICA DE SÃO LOURENÇO DO OESTE - SC,nos autos deinquérito policial que apura supostos crimes de fraude eletrônica, receptação, constituição de organização criminosae lavagem de capitais.
+Os fatos e fundamentos que deram ensejo à instauração do presente incidente foram devidamente delineados pelo Parquet,in verbis(e-STJfls.  47/48):
+Colhe-se da decisão do juízo suscitado:
+ A s diligências realizadas pela Autoridade Policial aumentaram exponencialmente a gravidade do caso, uma vez que foi incluído, ao menos, a prática do crime de organização criminosa, assim como de lavagem de capitais.
+Conforme o art. 70 do Código de Processo Penal, a competência é ordinariamente do local onde se consumou o delito.
+Acrescenta-se ao debate, ainda, o art. 76 da mesma legislação, o qual pontua que a competência será determinada pela conexão: I -se, ocorrendo duas ou mais infrações, houverem sido praticadas, ao mesmo tempo, por várias pessoas reunidas, ou por várias pessoas em concurso, embora diverso o tempo e o lugar, ou por várias pessoas, umas contra as outras; II -se, no mesmo caso, houverem sido umaspraticadas para facilitar ou ocultar as outras, ou para conseguir impunidade ou vantagem em relação a qualquer delas; III -quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração.
+No caso, os crimes apurados possuem conexão entre si, pois há liame entre uma e outra infração penal. Há conexão intersubjetiva por concurso (várias pessoas cometeram vários crimes, havendo vínculo subjetivo entre elas), conexão objetiva (entre a lavagem de capital e o crime antecedente), assim como existe conexão instrumental (a prova de um dos crimes influencia nos demais).
+Nesse cenário, em que pese este Juízo tenha antecedido ao outro na prática de atos e determinação de algumas medidas de caráter urgente, a citar decretação da prisão preventiva antes do oferecimento da denúncia, convém destacar que não foi nesta Comarca que ocorreu a maior parte das infrações, sequer a infração mais grave, como bem apontado pelo Parquet.
+Nesse rumo, destaca-se a pena dos crimes em questão:
+Receptação -pena de reclusão, de 1 (um) a 4 (quatro) anos.
+Organização Criminosa -pena de reclusão, de 3 (três) a 8 (oito) anos.
+Fraude eletrônica -pena de reclusão, de 4 (quatro) a 8 (oito) anos
+Lavagem de capitais -pena de reclusão de 3 (três) a 10 (dez) anos.
+Assim, em apurada análise dos autos, e das alterações dadas pela Lei 14.155/21 que incluiu o art. 70, §4º do Código de Processo Penal, entendo que apenas o crime de fraude eletrônica, praticado mediante transferência de valores como forma de pagamento ao veículo clonado, gera competência à Comarca de São Lourenço do Oeste/SC, pois é o local do domicílio da vítima Fernando Tres.
+Sobre a determinação da competência pela conexão envolvendo jurisdição da mesma categoria, vale recordar que há critérios antecedentes ao da prevenção, conforme o art. 78 do Código de Processo Penal. Destaca-se o lugar da infração onde foi cominada a pena mais grave-Lavagem de Capitais, que gera competência à Comarca de Taquara/RS, e o local com maior número de infrações, que leva a competência à Comarca de Caxias do Sul/RS -sede da organização criminosa.
+Por tais razões, este Juízo, neste momento, de fato, não detém competência para o processamento e julgamento dos crimes.
+Sendo assim, acolho o parecer ministerial, o qual adoto como razão para proceder a "mitigação" da regra de fixação de competência prevista no art. 78, inciso II, "a" do Código de Processo Penal. Portanto, com base no art. 76 do Código de Processo Penal, e para fins de otimização da produção de provas durante a instrução processual, determino a remessa dos autos à Comarca de Caxias do Sul/SC, para eventual oferecimento de denúncia pelo Ministério Público, e/ou regular prosseguimento das investigações pela devida Autoridade Policial. (e-STJ Fls. 34/35)
+Por sua vez, o Juízo Federal em Maringá/PR suscitou o presente conflito negativo de competência, acolhendo a manifestação ministerial abaixo transcrita:
+ O  MP reporta-se integralmente ao argumento e postulado pelo signatário nos autos do feito vinculado 5032006-51.2021.8.21.0010, aonde foi postulado que fosse decretada a incompetência de Caxias do Sul, declinando-se a competência para São Lourenço do Oeste/SC, suscitando, para tanto, conflito negativo perante o Superior Tribunal de Justiça. (e-STJ Fls. 39)
+Não consta dos autos a manifestação ministerial a que faz referência acima, acerca da incompetência do Juízo de Caxias do Sul.
+Ao final, oMinistérioPúblicoFederalmanifestou-se pela competência do JUÍZO DE DIREITO DE TAQUARA/RS, em parecer assim ementado(e-STJfl.  47):
+EMENTA: INQUÉRITO POLICIAL. Apuração de delitos de fraude eletrônica, receptação, falsificação de documento público, adulteração de sinal identificador de veículo automotor, organização criminosa e lavagem de capitais. Conexão verificada. Competência para acompanhamento das investigações que cabe ao juízo do lugar em que ocorrido o delito mais grave (lavagem de dinheiro).
+PELA COMPETÊNCIA DO JUÍZO DE DIREITO DE TAQUARA/RS, APESAR DE NÃO INTEGRAR O PRESENTE CONFLITO.
+Éorelatório.
+Decido.
+Cuida-se de incidente instaurado entre juízes vinculados a tribunais diversos,  razão pela qual,  nos termos do art.  105,  I,  d,  da Constituição Federal,  conheço do conflito.
+Cinge-se a controvérsia posta nos autos à definição da competência para processar inquérito instaurado para apurar aprática dos delitos de fraude eletrônica (art. 171, § 2º-A, do Código Penal -pena de reclusão, de 4 a 8 anos), receptação (art. 180 do Código Penal -pena de reclusão, de 1 a 4 anos), constituição de organização criminosa (Art. 2º, caput, da Lei n. 12.850/2013 -pena de reclusão, de 3 a 8 anos) e lavagemde capitais (Art. 1º, caput e §1º, I, da Lei n. 9.613/1998 -pena de reclusão, de 3 a 10 anos).Tais delitos, ao que se tem dos autos,teriam sido consumados por diversos investigados em locais distintos.
+Nos termos do art. 76 do Código de Processo Penal, a competência será determinada pela conexão nas seguintes hipóteses:
+I - se, ocorrendo duas ou mais infrações, houverem sido praticadas, ao mesmo tempo, por várias pessoas reunidas, ou por várias pessoas em concurso, embora diverso o tempo e o lugar, ou por várias pessoas, umas contra as outras;
+II - se, no mesmo caso, houverem sido umas praticadas para facilitar ou ocultar as outras, ou para conseguir impunidade ou vantagem em relação a qualquer delas;
+III - quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração.
+In casu, os Juízos envolvidos no presente conflito não discordam quanto àpresença de elementos aptos a caracterizar a conexão subjetiva, objetiva e probatória das condutas investigadas, nos termos do citado art. 76, I, II e III, do CPP. Isso, porque várias pessoas cometeram os crimes, havendo vínculo subjetivo entre elas;o crime de lavagem de capitais foi praticadovisando encobrir os crimes antecedentes; e a prova de um delito influirá na prova dos demais.
+Diante disso, incide, no caso, o disposto no art. 78, II, do Código Processual Penal, que determina a seguinte regra para a fixação da competência:
+Il - no concurso de jurisdições da mesma categoria:
+a) preponderará a do lugar da infração, à qual for cominada a pena mais grave;
+b) prevalecerá a do lugar em que houver ocorrido o maior número de infrações, se as respectivas penas forem de igual gravidade;
+c) firmar-se-á a competência pela prevenção, nos outros casos;
+Registre-se que, conforme orientação desta Corte, "é competente o juízo do lugar do crime em que a pena máxima cominada é a mais alta, e não o daquele em que a pena mínima é maior"(HC n. 190.756/RS, relatoraMinistra LAURITA VAZ, QUINTA TURMA, julgado em 23/10/2012, DJe 31/10/2012).
+No presente caso, a infração cominada com reprimenda mais severa é a lavagem de capitais, punida com pena de três a dez anos de reclusão (art. 1º da Lei n. 9.613/1998), que teria sido consumadana cidade de Taquara/RS.
+Por fim, não se deve perder de vistaque esta Corte admite que seja indicado como competente juízo que não figure como parte no incidente. A propósito, dentre vários outros julgados:CC n. 168.575/MS, relatorMinistro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 9/10/2019, DJe 14/10/2019.
+Ante o exposto,conheço do conflito e dou por competente o Juízo da Comarca deTaquara/RS.
+Publique-se. Comunique-se.
