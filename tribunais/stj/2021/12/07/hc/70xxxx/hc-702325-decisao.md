@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em face de acórdão assim ementado (fl. 31):
+Apelação da Defesa - Roubo - Réu preso em flagrante logo após o assalto e reconhecido pessoalmente pela vítima - Confissão parcial em Juízo - Impossibilidade de desclassificação para o delito de furto - Arrebatamento violento do bem, causando lesões corporais à vítima, suficiente a caracterizar a elementar do crime de roubo - Condenação de rigor - Pena-base bem exasperada ante os maus antecedentes do réu - Circunstâncias agravantes da reincidência, da senilidade da vítima e do estado de calamidade pública parcialmente compensadas com a circunstância atenuante da confissão espontânea Regime inicial fechado mantido Necessidade de maior rigor no início do cumprimento da pena dos delitos praticados com violência à pessoa Vida pregressa do réu a obstar a concessão de benesses Recurso de apelação desprovido.
+O paciente foi condenadoà pena de 5 anos, 5 meses e 10 dias de reclusão e ao pagamento de 12 dias-multa, no valor mínimo, por infração ao artigo 157, caput, do Código Penal.
+Sustenta a impetrante que "Não ficaram comprovadas na conduta do paciente a violência ou a grave ameaça exigidas para a configuração do roubo, pois, como demonstrado nos autos, o arrebatamento da res deu-se sem emprego de violência ou grave ameaça à pessoa. A violência, como restou entendido, foi empregada contra a coisa subtraída, não tendo sido a ação do agente direcionada ao corpo da vítima" (fl. 5).
+Requer a concessão da ordem para desclassificar a conduta imputada para furto (art. 155 do CP).
+Prestadas as informações, manifestou-se o Ministério Público de São Paulo pela denegação da ordem.
+Ao afastar a pretendida desclassificação, consignou a sentença condenatória (fl. 20):
+Inviável a desclassificação para tipo penal maisbrando (furto), pois o ofendido descreveu no contraditório a prática de violência - o acusadopuxou a corrente que estava no pescoço do idoso, vindo por trás, ato sorrateiro, e disso resultouarranhão (lesão leve) no pescoço da vítima.
+A ausência de exame de corpo de delito não abalaa versão acusatória, pois vítima e testemunhas (policiais militares) mencionaram que a rapinacausou machucado no pescoço do idoso. Está caracterizada a violência, que pode ser demonstradaatravés da colheita da prova oral em juízo.
+Consta do acórdão impetrado (fls. 32-34):
+Consta da denúncia que no dia 04 de março de 2021, por volta das 13,34 horas, na Rua Quinze de Novembro nº 89, cidade de São Paulo, SÉRGIO LUÍS PEREIRA DOS SANTOS JÚNIOR subtraiu para si, mediante violência real exercida contra a vítima protegida (Provimento 32/2000 da CGJ), uma corrente de ouro.
+Segundo o apurado, a vítima caminhava na via pública quando o acusado arrebatou o seu colar e empreendeu fuga, mas foiperseguido por policiais militares, que o detiveram.
+Interrogado em Juízo, o réu admitiu parcialmente a acusação, alegando que arrebatou a corrente de ouro pertencente à vítima, mas sem lhe causar qualquer lesão. Afirmou ainda que a joia caiu ao solo durante a sua tentativa de fuga.
+Contudo, a despeito das alegações do acusado, não há de se falar em desclassificação para o crime previsto no artigo 155 do Código Penal, posto que a violência, circunstância elementar do crime de roubo, ficou bem demonstrada pelas provas coligidas aos autos.
+A vítima, ouvida em ambas as fases dainvestigação, esclareceu que sua corrente foi arrebatada violentamente, causando-lhe lesões corporais de natureza leve.
+Não se pode olvidar o significativo valor probatório a ser atribuído às declarações da vítima, porquanto é ela quem se submete à grave ameaça e tem contato direto com o assaltante. Ademais, o depoimento do ofendido se trata de prova desinteressada, não havendo sequer indícios que lancem suspeitas sobre a veracidade de seu relato.
+Ademais, é necessário reconhecer que o arrebatamento é suficiente para configurar o delito do roubo quando a violência exercida contra a coisa tem repercussão contra a pessoa, à semelhança da hipótese ora apurada.
+Vê-se que as instâncias ordinárias concluíram, com apoio nas provas dos autos, em especial osdepoimentos judiciais da vítima e das testemunhas, que restou devidamente caracterizada a violência, elementar do tipo, ainda que decorrente de arrebatamento do objeto, porquanto resultou em lesão corporal leve,no pescoço da vítima.
+Nesse contexto, inviável o acolhimento do pleito de desclassificação para furto, pois a desconstituição das premissas fáticas fixadas na origem demandaria o revolvimento probatório, o que não se admite na via estreita do habeas corpus, pois tem por objeto sanar ilegalidade verificada de plano.Confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO. DESCLASSIFICAÇÃO PARA O CRIME DE FURTO. INSTÂNCIAS ORDINÁRIAS QUE CONCLUÍRAM QUE O AGENTE SE UTILIZOU DE VIOLÊNCIA PARA A PRÁTICA DO DELITO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DELITO DE DESOBEDIÊNCIA. DESCUMPRIMENTO DA ORDEM DE PARADA EMANADA DE POLICIAIS MILITARES NO DESEMPENHO DE ATIVIDADE OSTENSIVA. TIPICIDADE CONFIGURADA.
+1. A desclassificação da imputação da prática do delito de roubo para o delito de furto encontra óbice na impossibilidade de revolvimento dos fatos e provas na estreita via do habeas corpus, mormente na hipótese em que tanto o Magistrado de primeiro grau quanto o Tribunal a quo expressamente afirmaram que ficou caracterizada a ocorrência de violência contra a pessoa.
+ ..
+3. Agravo regimental improvido.
+(AgRg no HC 583.781/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 28/09/2021, DJe 30/09/2021).
+PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. 2. CRIME DE ROUBO. SUBTRAÇÃO POR MEIO DE ARREBATAMENTO. PEDIDO DE DESCLASSIFICAÇÃO PARA FURTO. EXAME QUE DEMANDA REVOLVIMENTO FÁTICO-PROBATÓRIO. PLEITO INVIÁVEL NA VIA ELEITA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. 3. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. Prevalece no Superior Tribunal de Justiça o entendimento no sentido de que o arrebatamento de coisa presa ao corpo da vítima tem o condão de comprometer sua integridade física, tipificando, assim, o crime de roubo e não de furto. Assim, tendo as instâncias ordinárias reconhecido que a subtração do bem se deu por meio de arrebatamento, não é possível, na via eleita, examinar o pedido de desclassificação, uma vez que se trata de providência que demanda aprofundado exame do arcabouço fático-probatório carreado nos autos, o que não se revela consentâneo com o instrumento processual utilizado.
+3. Habeas corpus não conhecido.
+(HC 372.085/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/10/2016, DJe 27/10/2016)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
