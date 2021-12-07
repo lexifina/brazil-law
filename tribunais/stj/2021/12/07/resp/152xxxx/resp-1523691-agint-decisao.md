@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão de minha lavra, em que conheci em parte dos recursos especiais e, nessa extensão, neguei-lhes provimento (e-STJ fls. 360/362).
+Sustenta o recorrente que houve omissão na origem quanto ao Tema 476 doSTJ; em razão disso,caracterizada violação do art. 535 do CPC/1973. Argumenta, ainda, não ser compatível o não reconhecimento da omissão alegada e aplicar o óbice da súmula 7.
+Sem impugnação ao recurso.
+Entendo que o recurso merece guarida.
+Na decisão monocrática, entendi não haver violação do art. 535 do CPC/1973, por compreender, na ocasião, que a questão relativa à limitação do título executivo havia sido enfrentada diretamente no acórdão regional.
+A agravante, todavia, ressalta que a omissão não se deveu ao tema em geral, mas ao fato de que o órgão de origem em nenhum momento examinou a questão à luz do Tema 476 doSTJ, vigente à época e defendido desde a origem.
+De fato, esta Corte, em sede de recurso repetitivo (REsp 1.235.513/AL, Rel. Ministro CASTRO MEIRA, Primeira Seção, julgado em 27/06/2012, DJe 20/08/2012), já havia sedimentado o entendimento de que, nos embargos à execução, a compensação só pode ser alegada se não pôde ser objetada no processo de conhecimento. "Se a compensação se baseia em fato que já era passível de ser invocado no processo cognitivo, estará a matéria protegida pela coisa julgada".
+No particular, tenho que não foi promovido o devido exame dessas questões pelo Tribunal a quo, mesmo tendo sido defendida expressamente pela parte recorrente. Aquele juízo se limitou a permitir a compensação com reestruturação da carreira, sem enfrentar a celeuma sob a ótica do precedente acima invocado.
+A compensação/limitação é possível, ainda que não tenha constado expressamente no título, mas é necessário que se faça o exame de qual será o ato normativo que porá fim à execução, para que não se permita alegar compensação com diploma legal que já existia na fase de ação de conhecimento, mas não foi alegado pela recorrida como limitador do direito.
+Além disso, em face da impossibilidade de revolver o exame de matéria de fato no bojo deste recurso, não cabe a esta Corte avaliar se a matéria (compensação com uma dada reestruturação de carreira), na espécie, foi ou não deduzida na ação de conhecimento.
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 360/362 e DOU PROVIMENTO AO RECURSO ESPECIAL do particular, a fim de anular o acórdão recorrido, por violação do art. 535 do CPC/1973, determinando o retorno dos autos ao Tribunal de origem, para que reaprecie os embargos de declaração opostos e sane os vícios de integração ora identificados, nos termos da fundamentação desenvolvida nesta decisão e para que reexamine o caso à luz do recurso representativo de controvérsia acima citado.
+JULGO PREJUDICADO O RECURSO ESPECIAL da Universidade.
+Publique-se. Intimem-se.
