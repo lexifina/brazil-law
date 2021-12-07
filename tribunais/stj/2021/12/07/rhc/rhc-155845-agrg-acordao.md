@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO REGIMENTAL EM RHC. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. CONDENAÇÃO. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. EXCESSO DE PRAZO. DEMORA NA REMESSA DOS AUTOS PARA O TRIBUNAL. TESE SUPERADA. AGRAVO DESPROVIDO.
+1. "O alegado excesso de prazo ante a demora para encaminhamento dos autos à segunda instância está superado com a remessa dos autos ao Tribunal de Justiça." (HC 394.073/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 13/06/2017, DJe 23/06/2017). No caso, os autos foram remetidos para o Tribunal revisor após o julgamento do writ originário. Parecer ministerial: "os Autos Principais foram remetidos ao Tribunal Revisor, encontrando-se, atualmente, conclusos ao Relator (desde 8/11/2021), inclusive já com o parecer ministerial apresentado em 6/10/2021.". Alegação superada. Precedente.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por LUCAS HENRIQUE SOARES DA SILVA contra decisão monocrática que não conheceu do recurso em habeas corpus, pela perda superveniente do objeto (e-STJ fls. 125/127).
+Consta dos autos que o recorrente foi preso em flagrante no dia 28/11/2017, pela suposta prática do delito tipificado no art. 33 e 35, c/c art. 40, IV, ambos da Lei nº. 11.343/2006, na forma do art. 69 do Código Penal Brasileiro (e-STJ fl.55). Em audiência de custódia, no dia 29/11/2017, a prisão foi convertida em preventiva (e-STJ fl. 29).
+Nas razões do presente agravo, a defesa alega que a tese objeto de debate foi a de excesso de prazo para a formação da culpa. Argumenta que a simples remessa dos autos para o Tribunal revisor não torna razoável o tempo de tramitação do processo e nem legitima os atrasos anteriores.
+Diante disse, pede a reconsideração da decisão agravada ou que o recurso seja julgado pelo Colegiado para dar provimento ao recurso em habeas corpus.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+A decisão deve ser mantida.
+Com razão o parecer ministerial, o qual adoto como fundamento para decidir (e-STJ fl. 121):
+ ..
+Cumpre destacar que, por meio de consulta ao endereço eletrônico do Tribunal de Justiça do Estado do Espírito Santo, o Subprocurador- Geral da República signatário desta manifestação, por sua Assessoria de Gabinete, obteve o informe de que, em 21/9/2021, os Autos Principais foram remetidos ao Tribunal Revisor, encontrando-se, atualmente, conclusos ao Relator (desde 8/11/2021), inclusive já com o parecer ministerial apresentado em 6/10/2021.
+Destarte, torna-se inviável prosseguir com o presente recurso em habeas corpus, haja vista a perda superveniente do objeto.
+Com efeito, por ocasião da impetração já havia sentença condenatória, portanto, incidindo, no caso, o entendimento firmado na Súmula 52 desta Corte.
+Ainda, de acordo com as razões do writ originário e o relatório do acórdão, a alegação da defesa consistia na demora da remessa para o Tribunal estadual, aspecto devidamente examinado pelo Colegiado. Confira-se (e-STJ fl. 75):
+(..) No início da pandemia teve uma advogada de um dos réus, que fez carga do processo e ficou com ele de fevereiro a junho e depois: que foi possível devolver, o processo retornou a marcha em julho/2020.
+O MM. Juiz manda certificar os recursos e em setembro o processo volta para ele e dar o despacho: falando o seguinte: "Conclusão desnecessária, cumpra o meu despacho que é determinado".
+O processo desceu, cumpriu o despacho e volta concluso em dezembro/2020 e ficou parado em dezembro/2020 até o momento em que foi prestar as informações nesse Habeas Corpus. Ficou parado de 02/12/2020 até 25/05/2021 quase seis meses e só teve a movimentação para poder prestar informação desse Habeas Corpus.
+Quando foi prestar informação desse Habeas Corpus, fazendo o histórico, para percebermos a dinâmica da condução do processo. O MM. Juiz disse: "Que não tinha subido, ainda, porque faltará a contrarrazão de um dos réus". E, assim determinou que fosse intimado esse réu e apresentado a contrarrazão e justificaria a permanência dos autos de 1º Grau, só que depois do despacho que ele deu, foi juntado na petição imediatamente, a petição de final 1281, que já tinha sido protocolizada desde dezembro, ou seja, quase seis meses já no cartório, com isso cumpriu. Aquilo que o MM. Juiz falou que faltava que era contrarrazão, na verdade, já estava juntado no processo há quase seis meses, só que o Cartório negligenciou nesse ponto e no fez juntada no processo.
+É cediço, a defesa sabe por excesso de prazo não decorre de soma aritmética, do passar do tempo:, não basta ficar aqui quatro anos preso, provisoriamente, tem que ser analisado as" peculiaridades do caso e principalmente o excesso de prazo, ele tem que decorrer da desídia do juízo natural na condução da causa. Se pelas peculiaridades do caso, tiver o processo demorar dez anos, dez anos não será excesso de prazo. Entretanto, se decorrer de desídia do Judiciário, desídia, um dia, de prisão cautelar a mais, por desídia do Judiciário, é suficiente para caracterizar o excesso de prazo.
+Portanto, à época do julgamento do writ originário, os autos ainda não tinham registro no Tribunal revisor, razão pela qual o habeas corpus foi julgado. Com a confirmação da remessa dos autos, fica superada a alegação defensiva. Em outras palavras, "O alegado excesso de prazo ante a demora para encaminhamento dos autos à segunda instância está superado com a remessa dos autos ao Tribunal de Justiça." (HC 394.073/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 13/06/2017, DJe 23/06/2017).
+Ainda, cito caso análogo:
+PROCESSUAL PENAL. HABEAS CORPUS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL PELA DEMORA NO JULGAMENTO DA IMPETRAÇÃO ORIGINÁRIA. PRESTAÇÃO JURISDICIONAL PELO TRIBUNAL A QUO. PREJUDICIALIDADE DA ORDEM. ADITAMENTO À IMPETRAÇÃO. DEMORA INJUSTIFICADA NA INTIMAÇÃO DA SENTENÇA CONDENATÓRIA. REMESSA DOS AUTOS AO TRIBUNAL DE APELAÇÃO PARA O JULGAMENTO DO RECURSO. DISCUSSÃO SUPERADA.
+1. A apreciação da pretensão fundada na alegação de constrangimento ilegal em razão da demora na prestação jurisdicional perante o Tribunal a quo encontra-se prejudicada, não só pela superveniência de sentença condenatória nos autos do processo criminal, mas, também, porque o writ ali impetrado em favor dos pacientes já foi julgado, de acordo com as informações prestadas, dando conta, inclusive, que o acórdão transitou em julgado
+2. Quanto ao aditamento feito à impetração, superada também se encontra a discussão, visto que já houve remessa dos autos do processo penal ao Tribunal a quo para o julgamento da apelação interposta, não havendo mais que falar em demora excessiva na intimação da sentença.
+3. Ordem prejudicada.
+(HC 38.709/SP, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 27/09/2005, DJ 24/10/2005, p. 351)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
