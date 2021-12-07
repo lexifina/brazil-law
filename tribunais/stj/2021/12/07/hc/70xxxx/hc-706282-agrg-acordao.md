@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DANRLEI RODRIGO JUNGcontra a decisão de fls. 106-108, que não conheceu dohabeas corpus impetrado em seu favor, no qual fora apontado como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Processo n. 5055931-25.2021.8.24.0000).
+Oagravanteteve aprisão em flagrante decretada, posteriormente convertida em preventiva, pela suposta prática dos delitos descritos nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006 (fls. 50-61).
+No presente writ,foi mantida a segregação cautelar para garantia da ordem pública, a fim de conter o risco de reiteração delitiva, tendo em vista os apetrechos apreendidos relacionados ao comércio de entorpecentes e aimpossibilidade de desconstituição da custódia cautelar com base tão somente nas condições pessoais favoráveis do agravante.
+Nas razões deste recurso, oagravanteinsiste na tese de que a decretação da prisão preventiva carece de fundamentação. Afirmaque não estão preenchidos os requisitos da custódia cautelar.
+Argumenta que foi apreendidaquantidade ínfima de entorpecente e que possui condições pessoais favoráveis.
+Requera reconsideração da decisão agravada ou o provimento do recurso e, consequentemente, a concessão da ordem para revogar a custódia cautelar,aplicando-se as medidas alternativas previstas no art. 319 do CPP.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO.RISCO DE REITERAÇÃO DELITIVA. APETRECHOS. ENVOLVIMENTO HABITUAL COM A NARCOTRAFICÂNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1.A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+2. A apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância.
+3.As condições pessoais favoráveis do agente não impedem, por si sós, a manutenção da segregação cautelar devidamente fundamentada.
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção dapreventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. É o que se extrai dosseguintes excertos da decisão agravada (fl. 107):
+A propósito, assim se manifestou o Tribunal a quo (fl. 102, destaquei):
+ ..
+No que se refere aos fundamentos autorizadores da prisão preventiva, imperioso reconhecer que inexiste constrangimento ilegal a ser sanado, uma vez que a custódia cautelar encontra-se devidamente justificada em dados concretos extraídos dos autos. Apesar da pequena quantidade de cocaína encontrada (2 buchas boiando no vaso sanitário) - que, por si só, não seria suficiente para justificar a prisão, mesmo diante da natureza especialmente deletéria da droga - as demais circunstâncias do flagrante revelam que o paciente e a namorada, associados, faziam do tráfico o seu meio de vida, pois em sua residência também foram localizados um caderno com anotações envolvendo facção criminosa, dois aparelhos celulares (um, inclusive, o paciente admitiu informalmente que quebrou quando notou a chegada da polícia),além de diálogos interceptados envolvendo a negociação de entorpecentes com uma usuária, as quais indicam que há pelo menos dois meses ambos estão associados e praticam tráfico de drogas.
+Tais fatores, inobstante a primariedade do paciente, são indicativos de dedicação ao comércio proscrito e de probabilidade efetiva de continuidade no cometimento dos referidos delitos, caso seja libertado. Ou seja, bem demonstrado o periculum libertatis exigido para a decretação e preservação da custódia antecipada.
+No presente caso, a apreensão de apetrechos relacionados ao tráfico(cadernos de anotações acerca da facção criminosa) foiconsideradapelo Tribunal de origem para manutenção da prisão preventiva.
+Ressalte-se que a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2020).
+Ademais, eventuais condições subjetivas favoráveis do agravante, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Portanto, visto que oagravantenão apresentouargumento novo capaz de infirmar o decisum impugnado, mantenho-o por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
