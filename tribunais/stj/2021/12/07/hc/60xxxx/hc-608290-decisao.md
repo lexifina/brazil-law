@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de WELLINGTON GUSTAVO PEREIRA DE OLIVEIRA apontando como autoridade coatora o Tribunal de Justiça do Estado de Rondônia (Agravo de Execução Penal n.0804723-45.2020.8.22.0000).
+Os autos dão conta de que o Juízo da 2ª Vara Genérica da Comarca de Cerejeiras/RO, "após conceder ao agravado  ora paciente  o direito à prisão domiciliar, com fundamento em uma decisão coletiva nos autos n.4000023-49.2020.8.22.0013, ainda lhe concedeu o direito ao trabalho externo" (e-STJ fl. 85).
+Irresignado, o Ministério Público interpôs recurso de agravo em execução perante o Tribunal de origem, que lhe deu provimento nos termos do acórdão assim ementado (e-STJ fl. 92):
+Agravo em execução penal. Ministério Público. Prisão domiciliar.Afastamento da autorização de trabalho externo. Necessidade. COVID-19.Recurso provido.
+Necessária a desconstituição da autorização de trabalho externo concedida pelo juízo a quo, ante os termos da decisão coletiva que determinou regime domiciliar aos apenados do semiaberto em virtude da pandemia do COVID- 19, pois esta decretou que os reeducandos deverão se manter no domicílio pelo período integral, objetivando evitar o contágio e disseminação da doença.
+No presente writ, a Defensoria Pública do Estado de Rondônia afirma que (e- STJ fls. 6/7):
+É sabido que a população mundial encontra-se em uma situação delicada devido à ocorrência de Pandemia do Covid-19, mas restringir direitos de reeducando que já se encontram em prisão domiciliar, ou seja, não possuem nenhum contato físico com agentes e demais reeducandos do regime fechado, caracterizaria um retrocesso nas condições de cumprimento da pena após o início da epidemia do coronavírus.
+Ademais, conforme mencionou-se na própria manifestação da Casa de Detenção de Cerejeiras/RO (mov. 62.1 dos autos de n. 4000023- 49.2020.8.22.0013): a coordenadoria geral do sistema prisional foi provocada a se manifestar, e o fez favorável, conforme processo, SEI, nº.0033.172536/2020- 09, ID. 0011332397, considerando que os reeducandos, nesse primeiro momento, retornarão aos seus respectivos domicílios, com as cautelas de praxe.
+Ainda, ressaltou-se que a grande maioria dos reeducandos presta trabalho no convênio celebrado entre o Conselho da Comunidade e Prefeitura Municipal de Cerejeiras, e que a Srª. Elisete Marth, prefeita municipal de Cerejeiras/RO, solicitou junto ao presidente do Conselho da Comunidade, Drª. Luciana, a possibilidade do retorno ao trabalho externo dos reeducandos (informações nos autos de n. 4000023- 49.2020.8.22.0013).
+Ademais, como bem frisou ou diretor geral da Casa de Detenção de Cerejeiras/RO nos autos do processo 4000023-49.2020.8.22.0013, a fiscalização continua e continuará com o monitoramento eletrônico, na grande maioria, assim como a fiscalização com visitas aos domicílios, pela polícia penal.
+Finalizou relatando que autorizado o trabalho externo, este não causará prejuízo à fiscalização, bem como, a liberação será efetuada de maneira gradativa, com análise individual, no que tange a prevenção do novo coronavírus.
+Percebe-se, outrossim, que a Casa de Detenção encontra-se em plena consonância com o respeito dos direitos dos reeducandos, assegurando a volta ao trabalho externo de maneira consciente com as medidas sanitárias.
+Além disso, percebe-se que o pedido do retorno dos presos do regime semiaberto ao trabalho, não colocará em risco os demais presos que estão reclusos nessa Unidade, por estarem em prisão domiciliar e não precisam voltar para a Casa de Detenção, fato que assegura a segurança de todos.
+Sustenta que "a decisão proferida pelo Tribunal de Justiça de Rondônia (autos de n. 0804723-45.2020.8.22.0000) merece reforma quanto a ordem de suspensão do trabalho externo do paciente no período de Pandemia do novo Coronavírus - Covid-19,  uma  vez que desrespeita o disposto no artigo 37 da Lei n.7.210/84" (e-STJ fl. 8).
+Por isso, requer, inclusive liminarmente, seja determinado "o imediato retorno do paciente ao seu ambiente de trabalho, para que possa receber prover o auxílio financeiro de sua família, bem como restabelecer seu direito de remição de pena por atividade laboral" (e-STJ fl. 9).
+A medida liminar foi deferida (e-STJ fls. 101/104).
+Informações prestadas.
+O Ministério Público Federal opinou pela concessão da ordem (e-STJ fls. 133/138).
+É o relatório. Decido.
+Em consulta ao andamento da execução penal no Sistema Eletrônico de Execução Unificado - SEEU (0001689-03.2013.8.22.0013), verifica-se que em 11/10/2021 foi concedida a progressão do paciente ao regime aberto.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
