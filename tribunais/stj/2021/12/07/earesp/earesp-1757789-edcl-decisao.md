@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porDIEGO VALENCA DE MEDEIROS PIMENTEL CORREIA contra decisão de minha lavra (fls. 515-517) que indeferiu liminarmente os embargos de divergência, consoante a seguinte ementa:
+"EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE RATIFICOU A DECISÃO DA PRESIDÊNCIA DE INTEMPESTIVIDADE DO RECURSO ESPECIAL, POR NÃO TER SIDO JUNTADO, EM TEMPO OPORTUNO, DOCUMENTO HÁBIL A COMPROVAR SUA TEMPESTIVIDADE. DISSÍDIO INEXISTENTE. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS."
+Sustenta o Embargante, em suma, que não foi considerado oprintda tela dos atos de comunicação do TJDFT, sendo este "a única prova capaz de comprovar a alegação do embargante, eis queem referido sitio não há como extrair documento próprio ou qualquer certidão que seja capaz dedemonstrar e comprovar o termo inicial e final do prazo para a interposição do recurso competente" (fl. 523).
+Requer, pois, o acolhimento dos embargos de declaração, "com efeitos infringentes, para sanar a omissão apontada para que seja conhecido eprovido os Embargos de Divergência" (fl. 524).
+É o relatório.
+Decido.
+Não há omissão alguma na decisão embargada, que foi expressa ao consignar que (sublinhei):
+"Mostra-se, pois, evidente que o acórdão embargado não divergiu do entendimento dos arestos paradigmas apontados pelo Embargante, ao revés, o reafirmou expressamente: "não se desconhece o entendimento firmado na Corte Especial, no julgamento do EAREsp1.663.952/RJ, no sentido de que, quando houver duplicidade das intimações eletrônicas previstas na Lei 11.419/06 - especificamente pelo Diário da Justiça Eletrônico (DJe) e pelo portal eletrônico -, deve prevalecer, para efeitos de contagem de prazos processuais, a intimação que tiver sido realizada no portal eletrônico."
+Contudo, foi mantida a decisão de intempestividade do recurso, pelo fato de não ter sido juntado pelo Recorrente, em tempo oportuno, documento hábil a comprovar a sua tempestividade, fundamento, aliás, que sequer foi impugnado pelo ora Embargante em suas razões recursais."
+O Embargante, ao arguir, agora, a suposta validade de printda tela dositedo Tribunal a quo, inova na argumentação deduzida nos embargos de divergência, a qual ficou adstrita à tese de prevalência da intimação por portal eletrônico em detrimento da realizada via publicação no Diário de Justiça Eletrônico, matéria em que, repita-se,inexiste divergência entre os acórdãos comparados.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE RATIFICOU A DECISÃO DA PRESIDÊNCIA DE INTEMPESTIVIDADE DO RECURSO ESPECIAL, POR NÃO TER SIDO JUNTADO, EM TEMPO OPORTUNO, DOCUMENTO HÁBIL A COMPROVAR SUA TEMPESTIVIDADE. ALEGADA DIVERGÊNCIA ACERCA DA PREVALÊNCIA DA INTIMAÇÃO VIA PORTAL SOBRE A REALIZADA PELO DJE. DISSÍDIO INEXISTENTE. ALEGADA OMISSÃO. VÍCIO INEXISTENTE. ADITAMENTO ÀS RAZÕES RECURSAIS. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
