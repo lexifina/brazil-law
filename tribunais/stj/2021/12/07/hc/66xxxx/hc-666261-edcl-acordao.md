@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer dos embargos.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOHABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. INOVAÇÃO RECURSAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+I - Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+II -A matéria aventada nos presentes embargos, não foi suscitada por ocasião da impetração do habeas corpus, tratando-se de inovação recursal. Na linha da orientação jurisprudencial desta Corte, mostra-se inadmissível a apreciação de teses não aventadas pela defesa na inicial do writ.
+Embargos de declaração não conhecidos.
+RELATÓRIO
+Trata-se de embargos de declaração, opostos em benefício de JOSIMAR PAZ ROCHA, contra acórdão de minha relatoria, que negou provimento ao agravo regimental, interposto contra decisão monocrática, de minha relatoria, que não conheceu do habeas corpus impetrado contra o v. acórdão proferido pelo eg. Tribunal de Justiça do Estado da Paraíba, mas concedeu a ordem de ofício,para fixar a pena definitiva, somente em relação ao crime de tráfico de entorpecentes, em 07 (sete) anos, 11 (onze) meses e 08 (oito) dias de reclusão, e 793 (setecentos e noventa e três) dias-multa e com guarida no artigo 580 do Código de Processo Penal, estendeu os efeitos da decisão aos corréus.
+Nestes aclaratórios, o embargante sustenta, em síntese, que: "o redimensionamento da pena concedido ao embargante deve ser expresso e individualizado, como forma até mesmo de se requerer a modificação da pena no juízo de execução penal. Dito de outro modo: nos termos delineados no acórdão se torna um tanto dúbio apresentar na instância de primeiro grau cópia do acórdão, pois nem sequer menciona o nome do embargante e tampouco anova dosimetria da reprimenda. Isso caracteriza uma omissão a ser declarada por este douto Ministro de forma a ser sanada tal lacuna como forma de melhor esclarecimento do trecho decisório que concedeu a extensão do julgado ao mesmo".
+Requer, ao final, sejam sanadas referidas omissões, "de modo a fazer constar a nova dosimetria de forma individualizada, inclusive com registro expresso do nome do mesmo para que o documento sirva de prova nas instâncias ordinárias"(fls. 213-216).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOHABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. INOVAÇÃO RECURSAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+I - Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+II -A matéria aventada nos presentes embargos, não foi suscitada por ocasião da impetração do habeas corpus, tratando-se de inovação recursal. Na linha da orientação jurisprudencial desta Corte, mostra-se inadmissível a apreciação de teses não aventadas pela defesa na inicial do writ.
+Embargos de declaração não conhecidos.
+VOTO
+Preambularmente, convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+O embargante sustenta, em síntese, que: "o redimensionamento da pena concedido ao embargante deve ser expresso e individualizado, como forma até mesmo de se requerer a modificação da pena no juízo de execução penal. Dito de outro modo: nos termos delineados no acórdão se torna um tanto dúbio apresentar na instância de primeiro grau cópia do acórdão, pois nem sequer menciona o nome do embargante e tampouco anova dosimetria da reprimenda. Isso caracteriza uma omissão a ser declarada por este douto Ministro de forma a ser sanada tal lacuna como forma de melhor esclarecimento do trecho decisório que concedeu a extensão do julgado ao mesmo".
+A matéria aventada nos presentes embargosnão foi suscitada por ocasião da impetração do habeas corpus, tratando-se de inovação recursal,não podendo, portanto, serexaminadapor esta Corte Superior, conforme reiterada jurisprudência.
+Acaso o embargante queira uma análise minuciosa e específica da sua dosimetria deverá seguir os ditames processuais cabíveis, poissequer é parte da presenteação constitucional.
+Destarte, não houve omissão no julgado, de modo que demais ilações a respeito da insurgência do embargante, acarretará no reexame de matéria já julgada, situação que não se coaduna com o instrumento dos declaratórios.
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
