@@ -1,0 +1,37 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONCUSSÃO E PECULATO. INCOMPETÊNCIA DO TJ/RJ RECONHECIDA COM BASE EM DECISÃO DO STF QUE DECLAROU INCONSTITUCIONAL NORMA DA CONSTITUIÇÃO ESTADUAL. ATOS DECISÓRIOS E PROVAS PRODUZIDAS ANTES DA MANIFESTAÇÃO DO STF. TEORIA DO JUÍZO APARENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A declaração de inconstitucionalidade da norma estadual que instituía o foro por prerrogativa de função aos vereadores foi motivada pela decisão do STF no RHC 181.895/RJ, proferida no ano de 2020, quando já haviam sido realizadas diligências probatórias e praticados atos decisórios no presente processo.
+2. Até a decisão do STF, todavia, a norma estadual previa a competência originária do TJ/RJ, que era aparentemente competente para o processamento da causa. Teoria do juízo aparente. Precedentes.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por LUIS RAMOS BASTOS, contra decisão monocrática que negou provimento ao seu recurso especial (e-STJ, fls. 1.463-1.465).
+A parte agravante aduz, em síntese, que: (I) a teoria do juízo aparente não seria aplicável ao caso dos autos; e (II) como consequência, seriam ilícitas as provas produzidas pelo TJ/RJ, já que a competência caberia ao juízo de primeiro grau.
+Pede, ao final, o provimento do presente agravo, para prover também o recurso especial.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONCUSSÃO E PECULATO. INCOMPETÊNCIA DO TJ/RJ RECONHECIDA COM BASE EM DECISÃO DO STF QUE DECLAROU INCONSTITUCIONAL NORMA DA CONSTITUIÇÃO ESTADUAL. ATOS DECISÓRIOS E PROVAS PRODUZIDAS ANTES DA MANIFESTAÇÃO DO STF. TEORIA DO JUÍZO APARENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A declaração de inconstitucionalidade da norma estadual que instituía o foro por prerrogativa de função aos vereadores foi motivada pela decisão do STF no RHC 181.895/RJ, proferida no ano de 2020, quando já haviam sido realizadas diligências probatórias e praticados atos decisórios no presente processo.
+2. Até a decisão do STF, todavia, a norma estadual previa a competência originária do TJ/RJ, que era aparentemente competente para o processamento da causa. Teoria do juízo aparente. Precedentes.
+3. Agravo regimental desprovido."
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Como afirmei quando do julgamento monocrático, o acórdão recorrido indica que a declaração de inconstitucionalidade da norma estadual que instituía o foro por prerrogativa de função aos vereadores foi motivada pela decisão do STF no RHC 181.895/RJ, proferida no ano de 2020, quando já haviam sido realizadas diligências probatórias e praticados atos decisórios no presente processo. Até a decisão do STF, todavia, a norma estadual previa a competência originária do TJ/RJ, que era aparentemente competente para o processamento da causa, o que motivou a Corte local a manter a validade dos atos até então consumados.
+Esse entendimento está em sintonia com a jurisprudência do STJ, que, ao contrário do que afirma a defesa, permite a aplicação da teoria do juízo aparente. Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TESE DE NULIDADE DA DECISÃO DE INTERCEPTAÇÃO TELEFÔNICA POR INCOMPETÊNCIA DO JUÍZO ESTADUAL. VALIDADE DA DECISÃO. TEORIA DO JUÍZO APARENTE. POSTERIOR RATIFICAÇÃO DO ATO PELO JUÍZO FEDERAL. AGRAVO DESPROVIDO.
+1. No caso, a internacionalidade/transnacionalidade dos fatos - circunstância que altera a competência para o julgamento do feito da Justiça Estadual para a Justiça Federal - foi evidenciada após a decisão de interceptação telefônica, com o desenvolvimento das investigações, de modo que o Juízo Estadual de Porto Murtinho/MS era o competente para tal decisão. Outrossim, efetuada a remessa dos autos ao Juízo Federal, foram ratificados todos os atos decisórios praticados pelo Juízo inicialmente competente.
+2. Considerada essa conjuntura, não há como reconhecer a ilegalidade apontada pela Defesa. Isso tanto em razão da teoria do juízo aparente, consagrada na jurisprudência, quanto pela possibilidade de posterior ratificação do ato na eventual hipótese de reconhecimento da incompetência do Juízo.
+3. Agravo regimental desprovido".
+(AgRg no HC 668.544/MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 22/06/2021, DJe 30/06/2021)
+"PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. OPERAÇÃO ANTISSEPSIA. ALEGAÇÃO DE NULIDADE DA INICIAL ACUSATÓRIA. ELEMENTOS INFORMATIVOS COLHIDOS POR AUTORIDADE POLICIAL ESTADUAL. DENÚNCIA OFERECIDA PELO MINISTÉRIO PÚBLICO FEDERAL. INCIDÊNCIA DA TEORIA DO JUÍZO APARENTE. PROCEDIMENTO INVESTIGATIVO. CONTRADITÓRIO DIFERIDO. RECURSO DESPROVIDO.
+1. Busca-se no presente recurso em habeas corpus o reconhecimento da nulidade da denúncia oferecida pelo Ministério Público Federal ao fundamento de que estaria "lastreada de elementos tomados por autoridade incompetente". O Juízo de Primeiro Grau afastou a alegação de nulidade da inicial acusatória com esteio na Teoria do Juízo Aparente bem como ao fundamento de ausência de contaminação da ação penal com supostos vícios ocorridos durante a investigação criminal. Tais fundamentos foram reputados idôneos pelo Tribunal a quo.
+2. Nesta Corte Superior de Justiça é pacífica a aplicabilidade da Teoria do Juízo Aparente para ratificar medidas cautelares no curso do inquérito policial quando autorizadas por Juízo aparentemente competente. No caso dos autos, sequer se faz menção a atos praticados por autoridade judicial incompetente em razão da matéria, mas tão somente se imputa nula a denúncia fundada em elementos informativos colhidos pela investigação de policiais civis estaduais anteriormente à identificação de verbas federais, que levou o deslocamento da competência para a Justiça Federal. Nesse contexto, atos meramente investigatórios praticados pela polícia civil estadual antes do reconhecimento do interesse da União podem ser aproveitados. Uma vez admitida a Teoria do Juízo Aparente para o aproveitamento de atos decisórios emanados por autoridade judicial que à época era tida por competente, com maior razão podem ser ratificados atos meramente investigatórios praticados no curso de inquérito.
+3. Ademais, considerada a natureza jurídica do inquérito policial de procedimento investigatório inquisitivo, não se identifica violação à ampla defesa, porquanto eventuais máculas porventura existentes no inquérito não se comunicam para a ação penal, na qual será exercido o contraditório perante a autoridade judicial competente, conforme preceitua o devido processo legal. Precedentes.
+4. Recurso ao qual se nega provimento".
+(RHC 122.565/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/08/2020, DJe 31/08/2020)
+Logo, a decisão monocrática agravada permanece incólume por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
