@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus no qual se busca "a absolvição do Paciente, subsidiariamente a aplicação do artigo 28 da lei 11.343/2006 ou o redutor do parágrafo 4º, do artigo 33 da Lei de Drogas, e seja fixado regime menos gravoso ao Paciente" (fls. 7/8).
+Acontece que os temas já foram apreciados no HC n. 658766/SP, impetrado contra acórdão proferido pelo Tribunal a quo na Apelação n. 0001310-81.2018.8.26.0205, ora impugnado.
+Confira-se, a propósito, a fundamentação apresentada:
+"Primeiro porque dian te  do  novel  posicionamento  jurisprudencial  do  STF  e  desta  Corte  onde  não  deve  ser  conhecido  o  habeas  corpus  substitutivo  de  recurso  próprio,  sendo possível tão  somente  verificar a  existência  de  eventual  constrangimento  ilegal  que  autorize  a  concessão  da  ordem  de  ofício, o que não ocorre nessa impetração.
+Em segundo lugar porque o pedido relativo à alegada de nulidade decorrente da violação de domicílio, sem autorização e sem mandado de busca e apreensão não foi submetido ou analisado no acórdão atacado, circunstância que impede a manifestação desta Corte Superior sobre o tema, vedada a supressão de instância.
+Ilustrativamente:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIME CONTRA A ORDEM TRIBUTÁRIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. SUPRESSÃO DE INSTÂNCIA. MATÉRIA DE ORDEM PÚBLICA. INSTRUÇÃO DEFICIENTE DA IMPETRAÇÃO. MARCO INICIAL NÃO DEMONSTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Constata-se que a insurgência relativa à prescrição alegada pela defesa, não foi objeto de análise pela Corte local, na medida em que, não houve pronunciamento de órgão colegiado sobre a matéria.
+Assim, considerando que o eg. Tribunal de origem não se pronunciou sobre a mencionada controvérsia, esta Corte Superior fica impedida de se debruçar sobre as matérias, sob pena de incorrer em indevida supressão de instância. Precedentes.
+III - Conquanto a extinção da punibilidade, em razão da prescrição da pretensão punitiva, seja matéria de ordem pública, que pode ser conhecida de ofício, em qualquer grau de jurisdição, nos termos do artigo 61 do Código de Processo Penal, verifica-se que não há nos autos elementos seguros e suficientes a atestar os marcos interruptivos da prescrição, como certidão emitida pelo órgão competente a respeito da data da constituição definitiva dos tributos. Precedentes.
+Agravo regimental desprovido. (AgRg no HC 577.186/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 23/06/2020)
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO PUNITIVA E PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. REGIME PRISIONAL SEMIABERTO MANTIDO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO DESPROVIDO.
+1. No caso, verifica-se que os pleitos de extinção da punibilidade pela prescrição da pretensão punitiva e de concessão de prisão domiciliar no contexto da pandemia de COVID-19 não foram objeto de cognição pelo Colegiado de origem, o que obsta o exame de tais matérias por este Superior Tribunal de Justiça, sob pena de incidir em indevida supressão de instância e em violação da competência constitucionalmente definida para esta Corte.
+2. Conforme a dicção do art. 33, §§ 2º e 3º, do CP, considerando a presença de três vetoriais desabonadoras, bem como a fixação de pena superior a 4 anos e inferior a 8 anos de reclusão, seria possível, de fato, a fixação do regime prisional fechado, sendo, portanto, o estabelecimento do meio prisional intermediário bastante benéfico ao réu.
+3. Agravo regimental desprovido. (AgRg no HC 565.979/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 28/05/2020)
+Por fim, os pedidos subsidiários de desclassificação para o artigo 28 da Lei 11.343/2006, da aplicação do redutor do parágrafo 4º, do artigo 33 da Lei de Drogas, e de fixação de regime prisional menos gravoso ao Paciente já foram analisados no HC n. 586.886/SP, sob a Relatoria do Ministro Jorge Mussi, tratando, portanto, de inadmissível reiteração de pedidos".
+Cuida-se, portanto, de indevida reiteração de pedido.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
