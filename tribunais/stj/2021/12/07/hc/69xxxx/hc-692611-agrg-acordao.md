@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por WELLINGTON MORENO DA SILVAcontra decisão de minha lavra na qual não conheci do habeas corpus.
+No presente recurso,reitera os argumentos deausência dos requisitos para a manutenção da prisãopreventiva, ressaltando suas condições pessoais favoráveis, de modo que, em caso de eventual condenação, farájus ao reconhecimento do tráfico privilegiado, o que demonstraa desproporcionalidade da segregação.
+Requer, assim, a reconsideração da decisão ou o julgamento pelo órgão colegiado.
+É o breve relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. IMPUGNAÇÃO QUANTO À MANUTENÇÃO DA CUSTÓDIA CAUTELAR. FUNDAMENTAÇÃO CONCRETA.QUANTIDADE DADROGAAPREENDIDA. CIRCUNSTÂNCIAS DO DELITO. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÊNCIA. DESPROPORCIONALIDADE ENTRE A SEGREGAÇÃO PREVENTIVA E PENA PROVÁVEL. INVIABILIDADE DE EXAME NA VIA ELEITA.INSUFICIÊNCIA. RECURSO DESPROVIDO.
+1. Presentes elementos concretos para justificar a manutenção da prisão preventiva, para a garantia da ordem pública. Como visto, as instâncias ordinárias afirmaram que, em liberdade, o paciente representava risco concreto ao meio social em razão da gravidade concreta da conduta e da periculosidade do agravante,evidenciadas pela quantidade da droga apreendida - aproximadamente 4,66kg de maconha - o que, somado à apreensão de balança de precisão, demonstra o maior envolvimento com o narcotráfico e risco ao meio social.
+2.É entendimento do Superior Tribunal de Justiça queas condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+3. Não há falar em desproporcionalidade entre o decreto prisional preventivo e eventual condenação, tendo em vista ser inadmissível, em habeas corpus, a antecipação da quantidade de pena que eventualmente poderá ser imposta, menos ainda se o réu iniciará o cumprimento da reprimenda em regime diverso do fechado.
+4. Agravo regimental desprovido.
+VOTO
+A decisão impugnada deve ser mantida por seus próprios fundamentos.
+Como ressaltado, oJuízo de primeiro grauconverteu a prisão em flagrante em preventiva sob os seguintes fundamentos:
+"O autuado foi preso em flagrante por infração ao artigo 33, "caput", da Lei no 1 1.343/06.
+Consta dos autos que os policiais militares estavam em patrulhamento quando avistaram o autuado conduzindo um veiculo Hyundai/Veloster, placas em atitude suspeita, motivo pelo qual resolveram abordá-lo. Em revista, encontraram no veiculo três tijolos de maconha. Indagado, o autuado confessou que venderia cada tijolo de maconha por R$ 1.800,00 e que na sua residência havia mais drogas.
+Em seguida, os policiais foram à residência do autuado, onde encontraram mais dois tijolos de maconha, uma balança, uma faca e R$ 100,00.
+ ..
+Em que pese o autuado ser primário, a quantidade de droga apreendida e a situação fática que ensejou a prisão obstam, ao menos nessa fase, o reconhecimento da figura privilegiada, afastando a aplicação da decisão exarada pelo E. Superior Tribunal de Justiça no HC coletivo nº 596.603.
+Desse modo, a prisão cautelar revela-se necessária para garantia da ordem pública, tratando-se, ao menos por ora, do meio adequado a impedira reiteração delitiva (arts. 312 e 314,CPP),de forma que as medidas cautelares diversas da prisão mostram-se insuficientes (art.282, § 6º do CPP). Os elementos de convicção contidos nos autos não revelam a existência das excludentes previstas no art.23, incisos I, II e III, do Código Penal." (fls. 96/97)
+Por seu turno, o Tribunal estadual salientou:
+"O paciente foi preso em flagrante e está sendo investigado pela prática, em tese, do delito previsto no artigo 33 "caput" da Lei n.º 11.343/06, porque, segundo consta, no dia 15 de fevereiro de 2020, às 10h27min, na Rua dos Trabalhadores, nº 10, Bairro Bon sucesso, cidade e comarca de Guarulhos, transportava, para fins de entrega a consumo de terceiros, 5 tablets de maconha, pesando 4,66kg, substância entorpecente que determina dependência física e psíquica, o que fazia sem autorização legal ou regulamentar.
+ ..
+Cumpre destacar que a custódia cautelar não se afigura desproporcional, especialmente considerando-se a gravidade dos fatos a que o paciente estaria envolvido, com destaque para as circunstâncias de comissão do crime, indicativas de ousadia e experiência na prática delitiva.
+ ..
+A quantidade de drogas apreendidas é elevada, cinco tijolos de maconha, com o peso líquido de 4,66kg e, as circunstâncias da apreensão revelam que a conduta não é esporádica e que o paciente estaria envolvido na disseminação de droga, atividade ilícita e nociva que deve ser eficazmente combatida, sendo lícito afirmar que a rápida soltura coloca em risco a garantia da segurança social, a regular instrução penal e a aplicação da lei penal, em razão da possibilidade de fuga, estimulando, por consequência, a criminalidade." (fls. 168/176)
+Como visto, as instâncias ordinárias afirmaram que, em liberdade, opacienterepresentavarisco concretoao meio socialem razão da gravidade concreta dacondutae da periculosidade do agravante, evidenciadas pela quantidade da droga apreendida - aproximadamente 4,66kg de maconha - o que, somado à apreensão de balança de precisão, demonstra o maior envolvimento com o narcotráfico e risco ao meio social.
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+Nesse sentido, seguem os seguintes julgadosdesta Corte:
+ROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. AGRAVO REGIMENTAL CONTRA DECISÃO MONOCRÁTICA. NEGATIVA DE SEGUIMENTO. SUPERAÇÃO DE ÓBICE IMPOSTO PELO ENUNCIADO DA SÚMULA N. 691 DO STF. IMPOSSIBILIDADE. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A defesa se insurge contra a decisão monocrática que indeferiu liminarmente o seguimento do habeas corpus, com espeque no enunciado da Súmula n. 691 do Supremo Tribunal Federal.
+2. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+3. No particular, não se vislumbra teratologia na decisão que indeferiu o pedido liminar no writ originário, que considerou fundamentada a prisão preventiva do paciente na gravidade concreta do delito, tendo em vista a quantidade de substância entorpecente apreendida (mais de 1 kg de maconha, e uma balança de precisão).
+4. Agravo regimental conhecido e não provido.
+(AgRg no HC 580.221/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 15/6/2020).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT INDEFERIDO LIMINARMENTE. PRISÃOPREVENTIVA. FUNDAMENTAÇÃO CONCRETA. RELEVANTE QUANTIDADE DA DROGA APREENDIDA. GARANTIA DAORDEM PÚBLICA. RECOMENDAÇÃO 62/2020 DO CNJ. REQUISITOS NÃO DEMONSTRADOS. AGRAVO IMPROVIDO.
+1. A interposição de agravo regimental contra decisão monocrática do relator (art. 34, XX - RISTJ) torna superada eventual violação do princípio da colegialidade, tendo em vista que se devolve a matéria recursal ao órgão julgador competente (AgRg no AREsp 1780917/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/02/2021, DJe 26/02/2021).
+2. Hipótese em que resta devidamente fundamentada a prisão preventiva, diante da gravidade concreta dos fatos, evidenciada especialmente na relevante quantidade de droga apreendida (cerca de 5 quilos de maconha), o que, consoante a jurisprudência desta Corte, justifica a prisão preventiva para a garantia da ordem pública, não havendo falar em substituição por medidas cautelares menos gravosas.
+3. Não se verifica manifesto constrangimento ilegal, se não houve a demonstração de que o agravante faça parte do grupo de risco ou de que possa ter sua atual condição de saúde agravada pelo risco de contágio pela Covid-19, nos termos da Recomendação n. 62/2020.
+4. Agravo regimental improvido.
+(AgRg no HC 660.507/SC, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, DJe 20/8/2021).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. RECOMENDAÇÃO N. 62/2020 DO CNJ. TEMA NÃO ANALISADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. FUNDAMENTO IDÔNEO. RECURSO NÃO PROVIDO.
+1. O pedido de revogação da prisão, à luz da Recomendação n. 62/2020 do CNJ, não foi objeto de cognição pelo Tribunal de origem. Logo, inviável seu enfrentamento por esta Corte Superior, sob pena de incorrer em indevida supressão de instância. Precedentes.
+2. De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+3. No caso, segundo se infere, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, tendo em vista que o agravante fazia o transporte de grande quantidade de entorpecente: 5 Kg de maconha.
+4. Inviável a substituição da prisão preventiva por medidas cautelares diversas quando a gravidade concreta da conduta delituosa indica que a ordem pública nãoestaria acautelada com a soltura do agravante. Precedentes.5. Agravo regimental não provido.
+(AgRg no HC 657.226/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 23/8/2021).
+Ressalto que a presença de condições pessoais favoráveis não impede a decretação da prisão preventiva.
+O entendimento deste Superior Tribunal de Justiça é no sentido de ser inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para manutenção da ordem pública.
+Por fim, não é possível afirmar que a medida excepcional se mostra desproporcional em relação à eventual condenação que o réu venha sofrer no fim do processo, porquanto, em habeas corpus, é inviável concluir a quantidade de pena que poderá ser imposta, tampouco se iniciará o resgate da reprimenda em regime diverso do fechado
+Desse modo, não se verifica a existência de ilegalidade na manutenção da custódia cautelar que justifique a reforma da decisão impugnada.
+Ante o exposto, voto no sentido denegar provimento ao presente agravo regimental.
