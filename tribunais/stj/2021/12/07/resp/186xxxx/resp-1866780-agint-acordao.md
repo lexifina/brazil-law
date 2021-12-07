@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. DEFINIÇÃO DOS CRITÉRIOS PARA PAGAMENTO DE JUROS E CORREÇÃO MONETÁRIA. CONSECTÁRIOS DA CONDENAÇÃO. MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE DE ANÁLISE EX OFFICIO PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE REFORMATIO IN PEJUS. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo já consignado na decisão agravada, os critérios dos juros de mora e da correção monetária são consectários legais da condenação e, por conseguinte, constituem matéria de ordem pública, cognoscível ex officio pelas instâncias ordinárias, não havendo que se falar em reformatio in pejus quando o Tribunal de origem define referidos critérios em recurso de apelação interposto exclusivamente pelo ente público ou em sede de reexame necessário.
+2. "A correção monetária, assim como os juros de mora, incide sobre o objeto da condenação judicial e não se prende a pedido feito em primeira instância ou a recurso voluntário dirigido à Corte de origem. É matéria de ordem pública, cognoscível de ofício em sede de reexame necessário, máxime quando a sentença afirma a sua incidência, mas não disciplina expressamente o modo como essa obrigação acessória se dará no caso" (REsp nº 1.853.369/CE, Rel. Min. Herman Benjamin, Segunda Turma, DJe 24/06/2020).
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela UNIÃO contra decisão proferida às e-STJ fls. 395/398, por meio da qual conheci parcialmente do recurso especial e, nessa extensão, neguei-lhe provimento, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ALEGAÇÕES GENÉRICAS. SÚM. N. 284/STF. AFERIÇÃO DE PRESCRIÇÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚM. N. 283/STF. DEFINIÇÃO DOS CRITÉRIOS PARA PAGAMENTO DE JUROS E CORREÇÃO MONETÁRIA. ORDEM PÚBLICA. AUSÊNCIA DE REFORMATIO IN PEJUS. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+Nas razões do agravo interno, a agravante alega (e-STJ fls. 406/408):
+Em primeiro lugar, resta expor que houve afronta ao artigo 512 e 513 CPC e art. 405 do CC, havendo precedentes recentes desta Eg. Corte que acolhem a pretensão da União, concluindo pela possibilidade de aplicação do princípio da vedação do reformatio in pejus nos casos como o presente, vedando a alteração/retroação do termo inicial dos juros. Vejam-se os seguintes precedentes:
+ ..
+Insta ressaltar, portanto, a existência de controvérsia neste STJ quanto ao tema, sendo inaplicável a Sumula 83/STJ.
+A decisão da origem, incidiu em "reformatio in pejus", pois agravou a situação da apelante determinando que a mora flua desde o 61º dia da edição do ato, em violação ao que dispõe o artigo 405 do Código Civil. Ressalta-se que tal questão não foi levada ao Tribunal, quer porque: não foi objeto de decisão do juízo de primeiro grau; quer porque: apenas a União recorreu da decisão e não questionou o termo inicial dos juros de mora.
+Não foi apresentada impugnação ao agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. DEFINIÇÃO DOS CRITÉRIOS PARA PAGAMENTO DE JUROS E CORREÇÃO MONETÁRIA. CONSECTÁRIOS DA CONDENAÇÃO. MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE DE ANÁLISE EX OFFICIO PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE REFORMATIO IN PEJUS. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo já consignado na decisão agravada, os critérios dos juros de mora e da correção monetária são consectários legais da condenação e, por conseguinte, constituem matéria de ordem pública, cognoscível ex officio pelas instâncias ordinárias, não havendo que se falar em reformatio in pejus quando o Tribunal de origem define referidos critérios em recurso de apelação interposto exclusivamente pelo ente público ou em sede de reexame necessário.
+2. "A correção monetária, assim como os juros de mora, incide sobre o objeto da condenação judicial e não se prende a pedido feito em primeira instância ou a recurso voluntário dirigido à Corte de origem. É matéria de ordem pública, cognoscível de ofício em sede de reexame necessário, máxime quando a sentença afirma a sua incidência, mas não disciplina expressamente o modo como essa obrigação acessória se dará no caso" (REsp nº 1.853.369/CE, Rel. Min. Herman Benjamin, Segunda Turma, DJe 24/06/2020).
+3. Agravo interno não provido.
+VOTO
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Razão não assiste à agravante.
+Segundo já consignado na decisão agravada, os critérios dos juros de mora e da correção monetária são consectários legais da condenação e, por conseguinte, constituem matéria de ordem pública, cognoscível ex officio pelas instâncias ordinárias, não havendo que se falar em reformatio in pejus quando o Tribunal de origem define referidos critérios em recurso de apelação interposto exclusivamente pelo ente público ou em sede de reexame necessário.Nesse sentido os seguintes julgados desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL E FALÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. CREDOR RETARDATÁRIO. TRAMITAÇÃO DO FEITO. CIÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA. ALTERAÇÃO DO TERMO INICIAL. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283/STF.
+4. Na hipótese, a reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial devido ao óbice da Súmula nº 7/STJ.
+5. Os juros de mora e a correção monetária constituem matéria de ordem pública, de modo que aplicar, alterar ou modificar seu termo inicial, de ofício, não configura julgamento extra petita nem reformatio in pejus. Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp 1344054/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/06/2020, DJe 19/06/2020)
+PROCESSUAL CIVIL. OBSERVÂNCIA DA CORREÇÃO MONETÁRIA EM REEXAME NECESSÁRIO. NÃO OCORRÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DO NON REFORMATIO IN PEJUS E DA INÉRCIA DA JURISDIÇÃO. MATÉRIA DE ORDEM PÚBLICA QUE NÃO DEPENDE DE RECURSO VOLUNTÁRIO PARA O TRIBUNAL DE ORIGEM.
+1. A correção monetária, assim como os juros de mora, incide sobre o objeto da condenação judicial e não se prende a pedido feito em primeira instância ou a recurso voluntário dirigido à Corte de origem. É matéria de ordem pública, cognoscível de ofício em sede de reexame necessário, máxime quando a sentença afirma a sua incidência, mas não disciplina expressamente o modo como essa obrigação acessória se dará no caso.
+2. A explicitação do modo em que a correção monetária deverá incidir feita em sede de reexame de ofício não caracteriza reformatio in pejus contra a Fazenda Pública, tampouco ofende o princípio da inércia da jurisdição. A propósito: AgRg no REsp 1.291.244/RJ, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 5/3/2013; e AgRg no REsp 1.440.244/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 10/10/2014.
+3. Recurso Especial não provido.
+(REsp 1853369/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/03/2020, DJe 24/06/2020)
+Por fim, importante destacar que os precedentes invocados pela agravante tratam de situação jurídica diversa e, por tal razão, não servem para infirmar os fundamentos da decisão agravada.
+Isso porque nos precedentes invocados reconheceu-se a impossibilidade de alteração dos critérios de juros de mora e correção monetária nesta Corte Superior, quando do julgamento do recurso especial, sem prévio requerimento das partes no recurso, sob pena de reformatio in pejus.
+No presente caso, a definição do termo inicial dos juros de mora foi apreciada ex officio pelo Tribunal de origem, ou seja, nas instâncias ordinárias, onde é permitida tal providência, não havendo que se falar em reformatio in pejus.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
