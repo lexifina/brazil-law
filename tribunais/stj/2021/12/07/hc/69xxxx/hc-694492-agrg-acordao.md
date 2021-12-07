@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto porMarcus Alessandro de Oliveira Araújocontra a decisão, de minha lavra, que denegou a ordem dowritem favor dele. Esta, a ementa da decisão (fl. 73):
+HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS, ORGANIZAÇÃO CRIMINOSA, PECULATO E CONCUSSÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEMPÚBLICA. AUSÊNCIA DECONSTRANGIMENTO ILEGAL. PARECERACOLHIDO.
+Ordem denegada.
+O agravante repisa as alegações apresentadas na inicial dohabeas corpus, destacando quea gravidade ou alta reprovabilidade da conduta por si so", ate" mesmo em casos que o sujeito integre organização criminosa, não são suficientes para justificar a prisão preventiva para garantia da ordem pu"blica(fl. 877).
+Aduz queexerce atividade de delegado de polícia civil, sem históricopessoal ou profissional que desabone sua conduta, primário e portador de bons antecedentes(fl. 878).
+Requer a reconsideração da decisão ou o julgamento pela Turma julgadora, afim de que a decisão seja reformada e concedida a ordem nos termos em que foi proposta.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTALEMHABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS, ORGANIZAÇÃO CRIMINOSA, PECULATO E CONCUSSÃO. PRISÃOPREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEMPÚBLICA. AUSÊNCIA DECONSTRANGIMENTO ILEGAL.
+1.Na hipótese, o acórdão impugnado apresentou fundamentos concretos a justificar a medida cautelar, em especiala gravidade em concreto dos delitos ea posição de chefe da organização criminosa (célula-policial) exercida pelo recorrente, agente público, Delegado de Polícia, com acesso a informações importantes.
+2. Nos termos da jurisprudência do Supremo Tribunal Federal, a custódia cautelar visando à garantia da ordem pública legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa (RHC n. 122.182, Ministro Luiz Fux, Primeira Turma, julgado em 19/8/2014).
+3. Agravo regimental improvido.
+VOTO
+Não obstante asalegações do agravante, não lhe assiste razão, devendo a decisão agravada ser mantida.
+Na hipótese, o acórdão impugnado apresentou fundamentos concretos ajustificar a medida cautelar, em especiala gravidade em concreto dos delitos, senão vejamos (fl. 41 - grifo nosso):ao Paciente, delegado da Polícia Civil, se atribui a formação de organização criminosa voltada para a produção e comércio de substâncias entorpecentes ilícitas, mediante emprego de arma de fogo, conluio e coação a traficantes de drogas locais, valendo-se para tanto da sua função de policial e das informações inerentes a essa condição.Ressalte-se queo Paciente é apontado como líder da "célula policial" da suposta súcia, e em vez de combater a prática delitiva, imputa-se a ele a conduta de não só utilizar os bens públicos sob a sua responsabilidade, mas, também, valendo-se do cargo de Coordenador da 13" Coordenadoria Regional de Interior  COORPIN/Seabra, envolver outros órgãos administrativos na prática espúria, inclusive a estrutura da Polícia Militar local.Tais atos, assim, não se encerram na esfera de atuação do Paciente, vez que expõem toda a credibilidade da instituição que ele integra e, ainda, outro órgão da segurança pública.
+Assim, da atenta análise dos autos, está clarividente que o paciente, agente público, integrava grande e estruturada organização criminosa, pertencendo à célula-policial. E, nos termos da jurisprudência do Supremo Tribunal Federal, a custódia cautelar visando à garantia da ordem pública legitima-se quando evidenciada a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa (RHC n. 122.182, Ministro Luiz Fux, Primeira Turma, julgado em 19/8/2014). E mais: HC n. 95.024/SP, Ministra Cármen Lúcia, Primeira Turma, DJe 20/2/2009.
+Ante o exposto,nego provimentoao agravo regimental.
