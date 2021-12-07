@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELIZIA MATEUS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE RESTITUIÇÃO DE VALORES CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. TERMO DE ADESÃO A CARTÃO DE CRÉDITO CONSIGNADO COM AUTORIZAÇÃO PARA DESCONTO EM FOLHA DE PAGAMENTO. RESERVA DE MARGEM CONSIGNÁVEL (RMC) DESCONTADA DIRETAMENTE DE BENEFÍCIO PREVIDENCIÁRIO. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSOS DA PARTE RÉ.
+PRELIMINAR. ALEGADA NECESSIDADE DE OBSERVÂNCIA DE PRECEDENTE DA TURMA DE UNIFORMIZAÇÃO (ENUNCIADO N. XIV).
+INVIABILIDADE. GRUPO DE CÂMARAS DE DIREITO COMERCIAL QUE NÃO ADMITIU INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS RELATIVO À MATÉRIA. IMPRESCINDIBILIDADE DE ANÁLISE DO COMPORTAMENTO DA PARTE CONSUMIDORA EM CADA CASO. PREFACIAL AFASTADA.
+AUSÊNCIA DE COMPROVAÇÃO DE UTILIZAÇÃO DO CARTÃO DE CRÉDITO. CONTRATO COM PREVISÃO DE ENCARGOS SUPERIORES AO ADMITIDO PELO BANCO CENTRAL PARA CRÉDITO CONSIGNADO A APOSENTADOS E PENSIONISTAS DO INSS. VIOLAÇÃO AO DIREITO DE INFORMAÇÃO. PRÁTICAS ABUSIVAS DEMONSTRADAS.
+APLICABILIDADE DO ART. 39, I, III E IV, DO CÓDIGO DE DEFESA DO CONSUMIDOR. ENTENDIMENTO DESTA CÂMARA PARA DETERMINAR A ADEQUAÇÃO DA MODALIDADE CONTRATUAL PARA EMPRÉSTIMO CONSIGNADO QUE NÃO PODE SER ADOTADO, ANTE O CONFORMISMO DAS PARTES COM A SOLUÇÃO DEFINIDA NO JUÍZO DE PRIMEIRO GRAU. MANUTENÇÃO DA SENTENÇA QUE ANULOU A CONTRATAÇÃO. MPOSSIBILIDADE DE MANUTENÇÃO DOS DESCONTOS A TÍTULO DE RMC NO BENEFÍCIO DA PARTE AUTORA DIANTE DA DETERMINAÇÃO DE RETORNO DAS PARTES AO ESTADO ANTERIOR.
+RESTITUIÇÃO DE VALORES. INSURGÊNCIA CONTRA A REPETIÇÃO DO INDÉBITO EM DOBRO E PEDIDO DE RESTITUIÇÃO NA FORMA SIMPLES. SOLUÇÃO DADA NA SENTENÇA. AUSÊNCIA DE INTERESSE RECURSAL. APELO DA PARTE RÉ NÃO CONHECIDA NESSE PONTO.
+PEDIDOS SUCESSIVOS. RESTITUIÇÃO DOS VALORES RECEBIDOS PELA PARTE AUTORA OU COMPENSAÇÃO ENTRE ESTES E OS VALORES A QUE A PARTE TIVER DE RESTITUIR. PRETENSÕES ATENDIDAS NA SENTENÇA. AUSÊNCIA DE INTERESSE RECURSAL.
+APELO DA PARTE RÉ NÃO CONHECIDA NESSES PONTOS.
+DANO MORAL. CONDUTA ILÍCITA DA INSTITUIÇÃO BANCÁRIA.
+RESPONSABILIDADE OBJETIVA. TEORIA DO RISCO. DANO MORAL CONFIGURADO. DEVER DE INDENIZAR CARACTERIZADO. VEDAÇÃO DA COMPENSAÇÃO DA VERBA FIXADA, A TÍTULO DE DANO MORAL, COM EVENTUAL SALDO DEVEDOR. PRECEDENTES.
+QUANTUM INDENIZATÓRIO. REDUÇÃO. ACOLHIMENTO. VALOR FIXADO NA SENTENÇA QUE SE MOSTRA EXACERBADO NO CASO CONCRETO. ADEQUAÇÃO QUE SE IMPÕE. DECISUM MODIFICADO NO PONTO.
+ÔNUS SUCUMBENCIAIS INALTERADOS.
+RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 944 do Código Civil, no que concerne à possibilidade de majoração dos valores arbitrados a título de danos morais, trazendo os seguintes argumentos:
+No caso concreto, onde a única renda da parte recorrente sofre descontos reconhecidamente como indevidos, prejudicando a sua subsistência, o valor fixado na indenização pelo Tribunal de Justiça se mostra irrisório e insuficiente para reparar o dano sofrido, devendo ser reformada a decisão, majorando a indenização por danos morais para o valor de R$ 10.000,00 (dez mil reais), o que se requer e espera. (fl. 359).
+É, no essencial, o relatório. Decido.
+No que diz respeito à controvérsia, na espécie, o Tribunal de origem assim decidiu:
+Analisando o caso concreto, consoante já anotado, a parte autora teve parcela do seu benefício previdenciário retida pela instituição financeira ré, o que, por certo, gerou-lhe graves prejuízos.
+No que tange à condição social e econômica das partes, tem-se que a parte ré é instituição financeira de considerável porte econômico, enquanto a parte autora é pessoa física, hipossuficiente, aposentada, cuja condição demonstra sua dependência de crédito e vulnerabilidade.
+À luz dessas ponderações e aliado aos parâmetros costumeiramente usados por este Órgão Julgador, deve-se reformar em parte a sentença para reduzir o valor da condenação por danos morais para R$ 5.000,00, por ser este montante proporcional e razoável no caso concreto. (fls. 344-345).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
