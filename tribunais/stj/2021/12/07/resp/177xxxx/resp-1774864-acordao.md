@@ -1,0 +1,60 @@
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. TERMO INICIAL. JUROS COMPENSATÓRIOS EM DESAPROPRIAÇÃO INDIRETA. APOSSAMENTO ADMINISTRATIVO.
+1. Nos termos do art. 15-A, "caput" e § 3.º, do Decreto-Lei 3.365/1941, o termo inicial da incidência dos juros compensatórios conta-se da imissão do Poder Público na posse do imóvel, o que na desapropriação indireta significa o indevido apossamento administrativo.
+2. Recurso especial provido. Embargo de declaração (Petição Edcl 00702241/2018) prejudicados.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, deu provimento ao recurso especial; prejudicados os embargos de declaração (Petição EDcl 00702241/2018), nos termos do voto do Sr. Ministro Relator."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+Ausente, ocasionalmente, o Sr. Ministro Francisco Falcão.
+SUSTENTAÇÃO ORAL
+Dr(a). FERNANDA FIGUEIRA TONETTO, pela parte RECORRIDA: DEPARTAMENTO AUTONOMO DE ESTRADAS DE RODAGEM
+RELATÓRIO
+Gladis Hedy Mattje interpõe recurso especial com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República, contra o acórdão prolatado pelo Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, ementado assim:
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. DESAPROPRIAÇÃO INDIRETA. INDENIZAÇÃO. JUROS COMPENSATÓRIOS DE 12% AO ANO. SÚMULA 618 DO STF. TERMO INICIAL. DATA DA PERÍCIA. JUROS MORATÓRIOS DE 6% AO ANO. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS. CUSTAS PROCESSUAIS.
+1. Sentença prolatada sob a égide do CPC/1973. Reexame necessário. Valor da condenação que ultrapassa aquele previsto no art. 475, § 2º, doCPC/1973.
+2. Mantido o valor da indenização fixado na sentença, pois observou a conclusão do laudo pericial judicial não impugnado pelas partes.
+3. Juros compensatórios de 12% em conformidade com a Súmula 618 do STF, incidentes da data da perícia, conforme Súmula345 do STF.
+4. Os juros moratórios incidem no percentual de 6% ao ano a partir do mês de janeiro do exercício seguinte àquele em que o pagamento deveria ser feito, conforme disposto no art. 15-B do Decreto-lei nº 3.365/41.5. Correção monetária. Após a entrada em vigor da Lei n. 11.960/2009, aplica-se o índice oficial de remuneração básica da caderneta de poupança(TR). A partir de 25.03.2015, incidência do índice de Preços ao Consumidor Amplo Especial (IPCA-E), conforme julgamento das Ações Diretas de Inconstitucionalidade 4425 e 4357 pelo STF em 25.03.2015.
+6. Honorários advocatícios mantidos no percentual fixado na sentença (5%), incidentes sobre o valor da diferença entre o preço oferecido e aquele fixado na sentença, conforme 27, § 1º, do Decreto-lei n. 3.365/41.
+7. Não há que se falar em isenção dos entes públicos ao pagamento das custas e despesas processuais, uma vez que foi declarada a inconstitucionalidade da Lei nº 13.741/2010, por meio do Incidente de Inconstitucionalidade nº70041334053 e ADI n2 70038755864.
+APELO PARCIALMENTE PROVIDO. MODIFICADA A SENTENÇA, EM REEXAME NECESSÁRIO.
+Trata-se originalmente de pretensão indenizatória por desapropriação indireta em que a autora afirmava ter o Departamento Autônomo de Estradas de Rodagem (DAER) se apossado indevidamente de uma área de 1.497,42 m  de imóveis de sua propriedade, com o fim de realizar obras de ampliação da rodovia estadual RS-240.
+Houve sentença de acolhimento da pretensão, na ocasião estipulando-se indenização na ordem de R$ R$ 80.112,39 (oitenta mil, cento e doze reais e trinta e nove centavos), a ser corrigido pelo IGPM/FGV a partir da data do laudo pericial (14.08.2008), e devidamente acrescida de juros compensatórios de 12% a.a. (doze por cento ao ano) desde 01.12.1989, de juros moratórios de 6% a.a. (seis por cento ao ano), a partir de 1.º de janeiro do exercício seguinte ao ano em que ocorrer o trânsito em julgado, e de honorários advocatícios sucumbenciais de 5% (cinco por cento) sobre o valor da condenação.
+Houve recurso somente da autarquia estadual, e o Tribunal da origem proveu-o parcialmente no concernente ao termo inicial da contagem dos juros compenstaórios, com o fim de que observasse a data da elaboração do laudo pericial (14.08.2008), e na parte referente à atualização monetária, de maneira que refletisse o índice oficial de remuneração básica da caderneta de poupança (TR) no período compreendido entre a entrada em vigor da Lei 11.990/2006 e o dia 25.03.2015, depois disso aplicando-se Índice de Preços ao Consumidor AmploEspecial (IPCA-E).
+Disso advém recurso especial unicamente da desapropriada, que assenta tese singular relacionada ao termo inicial de incidência dos juros compensatórios, que deve observar a data da imissão na posse, no caso o apossamento administrativo, para tanto apregoando a violação ao art. 15-A do Decreto-Lei 3.365/1941 e aos arts. 186, 884 e 927 do Código Civil de 20o2, e a divergência para com as Súmulas 164/STF e 69 e 114, estas do Superior Tribunal de Justiça.
+Contrarrazões em e-STJ fls. 510/513.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. TERMO INICIAL. JUROS COMPENSATÓRIOS EM DESAPROPRIAÇÃO INDIRETA. APOSSAMENTO ADMINISTRATIVO.
+1. Nos termos do art. 15-A, "caput" e § 3.º, do Decreto-Lei 3.365/1941, o termo inicial da incidência dos juros compensatórios conta-se da imissão do Poder Público na posse do imóvel, o que na desapropriação indireta significa o indevido apossamento administrativo.
+2. Recurso especial provido. Embargo de declaração (Petição Edcl 00702241/2018) prejudicados.
+VOTO
+O feito observa o teor do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+As razões recursais colhem procedência.
+O único tema devolvido ao conhecimento do Superior Tribunal de Justiça é o relativo ao termo "a quo" dos juros compensatórios, e sobre esse aspecto é forçoso salientar que a definição do termo inicial de incidência dos juros compensatórios é feita explicitamente no texto do art. 15-A do Decreto-Lei 3.365/1941, cuja cabeça e o parágrafo terceiro assentam o seguinte:
+Art. 15-A No caso de imissão prévia na posse, na desapropriação por necessidade ou utilidade pública e interesse social, inclusive para fins de reforma agrária, havendo divergência entre o preço ofertado em juízo e o valor do bem, fixado na sentença, expressos em termos reais, incidirão juros compensatórios de seis por cento ao ano sobre o valor da diferença eventualmente apurada, a contar da imissão na posse, vedado o cálculo de juros compostos.
+ ..
+§ 3o O disposto no caput deste artigo aplica-se também às ações ordinárias de indenização por apossamento administrativo ou desapropriação indireta, bem assim às ações que visem a indenização por restrições decorrentes de atos do Poder Público, em especial aqueles destinados à proteção ambiental, incidindo os juros sobre o valor fixado na sentença.
+Dessa forma, é equivocado, como feito na origem, estipular data coincidente com a elaboração do laudo pericial se o texto legal é explícito em sentido oposto, havendo considerar ainda que o julgamento da ADI 2.332/DF, rel. Ministro Roberto Barroso, em nada alterou esse aspecto específico do regime de juros compensatórios, embora outras temáticas inseridas no mesmo art. 15-A tenham sido examinadas pelo Supremo Tribunal Federal, como se colhe da ementa do julgado:
+ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. REGIME JURÍDICO DOS JUROS COMPENSATÓRIOS E DOS HONORÁRIOS ADVOCATÍCIOS NA DESAPROPRIAÇÃO. PROCEDÊNCIA PARCIAL.
+1. A jurisprudência desta Corte é firme no sentido de que o controle judicial dos pressupostos constitucionais para a edição das medidas provisórias tem caráter excepcional, justificando-se apenas quando restar evidente a inexistência de relevância e urgência ou a caracterização de abuso de poder do Presidente da República, o que não ocorre no presente caso.
+2. É constitucional o percentual de juros compensatórios de 6% (seis por cento) ao ano para a remuneração do proprietário pela imissão provisória do ente público na posse do seu bem, na medida em que consiste em ponderação legislativa proporcional entre o direito constitucional do proprietário à justa indenização (art. 5º, XXIV, CF/88) e os princípios constitucionais da eficiência e da economicidade (art. 37, caput, CF/88).
+3. Declaração da inconstitucionalidade do termo "até" e interpretação conforme a Constituição do caput do art. 15-A, de maneira a incidir juros compensatórios sobre a diferença entre 80% do preço ofertado pelo ente público e o valor fixado na sentença.
+4. Constitucionalidade dos §§ 1º, 2º e 4º, do art. 15-A, do Decreto-lei nº 3.365/1941, ao determinarem a não incidência dos juros compensatórios nas hipóteses em que (i) não haja comprovação de efetiva perda de renda pelo proprietário com a imissão provisória na posse (§ 1º), (ii) o imóvel tenha "graus de utilização da terra e de eficiência na exploração iguais a zero" (§ 2º), e (iii) sobre o período anterior "à aquisição da propriedade ou posse titulada pelo autor da ação". Voto reajustado para expressar o entendimento da maioria.
+5. É constitucional a estipulação de parâmetros mínimo e máximo para a concessão de honorários advocatícios, previstos no § 1º, do art. 27, do Decreto-lei nº 3.365/1941.
+6. Declaração da inconstitucionalidade da expressão "não podendo os honorários ultrapassar R$ 151.000,00 (cento e cinquenta e um mil reais)" por inobservância ao princípio da proporcionalidade e por possibilitar violação reflexa ao justo preço na indenização do expropriado (art. 5º, XXIV, CF/88).
+7. Ação direta julgada parcialmente procedente. Fixação das seguintes teses:
+"(i) É constitucional o percentual de juros compensatórios de 6% (seis por cento) ao ano para a remuneração pela imissão provisória na posse de bem objeto de desapropriação;
+(ii) A base de cálculo dos juros compensatórios em desapropriações corresponde à diferença entre 80% do preço ofertado pelo ente público e o valor fixado na sentença;
+(iii) São constitucionais as normas que condicionam a incidência de juros compensatórios à produtividade da propriedade;
+(iv) É constitucional a estipulação de parâmetros mínimo e máximo para a concessão de honorários advocatícios em desapropriações, sendo, contudo, vedada a fixação de um valor nominal máximo de honorários."
+Assim, dou provimento ao recurso especial.
+Julgo prejudicados os embargos de declaração de que trata a Petição Edcl 00702241/2018.
+Deixo de condenar em honorários recursais.
+É que na origem já houve a sua estipulação em cinco por cento sobre a condenação, que constitui o limite máximo permitido pelo o art. 27, § 1.º, do Decreto-Lei 3.365/1941.
+Na medida em que assim se procedeu, é de fato vedado a este Tribunal Superior fazer incidir a majoração prevista no art. 85, § 11, do CPC/2015.
+A questão que a mim parece primordial considerar é que o regime do CPC/2015 estabelece também o seu próprio limite para as causas em que a fazenda pública for litigante, os honorários recursais, como se vê do texto, igualmente insertos nesse limite, de forma que o Tribunal, diante desse quadro, somente majorará os honorários fixados anteriormente quando não ultrapassar os respectivos limites.
+A regra dos honorários recursais, portanto, é de que somente incidam se e quando não ultrapassados os limiares previstos nos §§ 2.º e 3.º do mesmo art. 85.
+Para os processos judiciais de desapropriação, os limites são outros, mas a regra é mesma, de respeito a eles, de sorte que ao observar o atingimento dos cinco por cento desde o acórdão da origem, deixo de majorá-los, também com fundamento no art. 27, § 3.º, inciso II, do Decreto-Lei 3.365/1941.
+É o voto.
