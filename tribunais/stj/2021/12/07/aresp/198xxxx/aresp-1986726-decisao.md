@@ -1,0 +1,29 @@
+DECISÃO
+BESSA & SILVA TRANSPORTE E LOGISTICA LTDA, representada por ANA PAULA BESSA, MARLI APARECIDA LEITE SILVA, APARECIDO ALVES LOPES, ANAPAULA BESSA e MARLI APARECIDA DE BESSA LOPES (BESSA e outros) ajuizaram embargos à execução contra o BANCO DO BRASIL S.A. (BB) tendo por objeto contrato de cédula de crédito bancário, sob a alegação de excesso de execução.
+A sentença julgou o pedido de embargos à execução improcedente (e-STJ, fls. 298/306).
+BESSA e outros interpuseram recurso de apelação apreciado em acórdão assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO.INEXIGIBILIDADE E ILIQUIDEZ DO TÍTULO EXECUTADO.INOCORRÊNCIA. ANIMUS NOVANDI EXPRESSO DOS DÉBITOS QUE DERAM ORIGEM À CÉDULA. EXIGIBILIDADE E LIQUIDEZ DO TÍTULO DEMONSTRADA. SENTENÇA MANTIDA.
+Estando devidamente demonstrada a expressa intenção de novar da parte devedora, e tendo o credor apresentado o demonstrativo atualizado do débito e o título executado, não há que se falar em inexigibilidade ou iliquidez do título executado.
+APELAÇÃO CÍVEL CONHECIDA E NÃO PROVIDA (e-STJ, fl. 477).
+Os embargos de declaração de BESSA e outros foram rejeitados (e-STJ, fls. 551/555).
+BESSA e outros interpuseram recurso especial com base no art. 105, III,aec, da CF, onde alegaram violação dos arts.360, 783 e 803, I, do NCPC e dissídio jurisprudencial pelos fundamentos assim sintetizados (1) o título executivo é inexigível, pois se trata de renegociação para solver débitos anteriores, não se configurando o instituto da novação; (2) deve ser aplicado o CDC com a inversão do ônus probatório; (3) ficou caracterizado o excesso de execução pela cobrança de juros remuneratórios extorsivos, devendo ser excluída a cobrança dos juros capitalizados.
+Foram ofertadas contrarrazões (e-STJ, fls. 609/615).
+O Tribunal recorrido inadmitiu o recurso nobre por (1) se aplicarem as Súmulas nºs 5 e 7 do STJ; (2)a inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da CF em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial.
+BESSA e outros ingressaram com agravo em recurso especial no qual reiteraram os termos do recurso nobre, afirmando ao final a petiçãoquenão há a incidência da sumula 5 e 7 do STJ(e-STJ, fl. 672).
+Foi apresentada contraminuta (e-STJ, fls. 677/685).
+É o relatório.
+DECIDO
+A irresignação não comporta conhecimento.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O recurso nobre foi inadmitido com suporte nas Súmulas nºs 5 e 7 do STJ.
+Contudo, da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra os fundamentos da decisão agravada, pois a agravante não infirmou devidamente os seus esteios, deixando de refutar, de forma arrazoada, a incidência dasSúmulanºs 5 e 7 do STJ invocada decisão agravada para inadmitir o recurso tanto pela alínea aquanto pela alínea c, mas repisouliteralmente os fundamentos do recurso especial para ao final se limitarem adizerque não há a incidência da sumula 5 e 7 do STJ (e-STJ, fl. 672)
+Na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência das referidas súmulas, oagravante deve não apenas mencionar que os referidoenunciados deves ser afastados, mas também demonstrar de forma fundamentada que a solução da controvérsia independe do reexame de provas e fatos e dareinterpretação de cláusulas contratuais, não sendo suficiente a assertiva pura e simples de não aplicação das súmulas.
+Na hipótese examinada, observa-se, como já dito, que os agravantes não procederamà correta impugnação dos óbices sumulares.
+Portanto, por ter sido apresentado em desacordo com os requisitos do art. 932, III, do NCPC, o recurso não se mostra viável.
+A propósito, cita-se o seguinte precedente:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182/STJ. DECISÃO MANTIDA. 1. O agravante deve atacar, de forma específica, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. Aplicação do art. 932, III, do CPC/2015 e, por analogia, da Súmula n. 182/STJ. 2. Segundo a jurisprudência da Corte Especial do STJ, "a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp n. 746.775/PR, Relator Ministro JOÃO OTÁVIO DE NORONHA, Relator p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018), o que não ocorreu. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1740789/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+Nessas condições, nos termos do art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. CONTRATOS BANCÁRIOS. AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DO ART. 932, III, DO NCPC. AGRAVO NÃOCONHECIDO.
