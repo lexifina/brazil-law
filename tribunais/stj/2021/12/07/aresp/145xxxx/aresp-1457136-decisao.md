@@ -1,0 +1,62 @@
+DECISÃO
+EVERALDO DOS SANTOS NASCIMENTO (EVERALDO) ajuizou ação declaratória cumulada comcondenatória em face de ADÃO ÍRIS DE SOUZA (ADÃO), sob o fundamento de que em 10/1/2014 celebrou com este um contrato de compra e venda de ponto comercial, no valor de RS 70.000,00 (setenta mil reais), mas não foi comunicado por ele de que o lugar era objeto de ação de reintegração de posse, razão pela qual foi surpreendido quando intimado de mandado de reintegração, cujo cumprimento acarretou a perda do estabelecimento empresarial. Alegou que este réu agiu de má-fé ao omitir a informação, sendo de rigor a declaração de resolução do contrato e a sua condenação ao pagamento de indenização por danos materiais, no valor pago no negócio, danos morais e lucros cessantes.
+A sentença julgou parcialmente procedentes os pedidos iniciais, declarando-se rescindido o contrato celebrado entre as partes e condenando-se o Réu à restituição dos valores que recebeu no negócio, com os encargos legais, e ao pagamento de indenização pelos danos morais suportados pelo Autor, no valor de R$ 25.000,00, também com os encargos legais(e-STJ, fls. 282/285).
+O Tribunal de Justiça de São Paulonegou provimento ao recurso de apelação manejado por ADÃOem acórdão da relatoria do Des. AUGUSTO REZENDE, que foi assim ementado:
+Prazo. Contestação e reconvenção. Retomada de contagem de prazo suspenso. Não incidência do art.184, § 1º, do CPC/73. Intempestividade reconhecida.Revelia. Cerceamento de defesa não configurado.
+Recurso improvido.
+Estabelecimento comercial. Compra e venda. Evicção.Comprador que foi obrigado a deixar o ponto comercial em razão de ordem judicial emanada de ação possessória movida contra o vendedor. Sentença prolata muito antes da realização do negócio. Situação não ressalvada no instrumento. Rescisão contratual decretada. Indenização imposta. Recurso improvido(e-STJ, fl. 337).
+Irresignado, ADÃO manejou recurso especial com fundamento no art. 105, III,a, da CF, no qual alegoua violação dos arts.184, § 1º, I, do CPC/73 e 345, 349 e 355, todos do NCPC(1)a contestação e a reconvenção são tempestivas, tendo em vista queo dia do vencimento se tratou de sábado, dia em que não há funcionamento do fórum, não houve expediente forense, mormente porque em decorrência da mudança de instalações daquele Foro Regional, o expediente normal retornaria somente em 03/08 p.p., 1º dia útil subsequente;(2)devem ser afastados os efeitos da revelia;(3)há nulidade por cerceamento de defesa, especialmente porque não foram deferidas as provas requeridas; e(4)odano moral deve ser excluído ou minorado (e-STJ, fls. 345/367).
+As contrarrazões não foram apresentadas (e-STJ, fl. 370)
+O recurso especial foi inadmitido pelo TJSP(e-STJ, fls. 371/372).
+ADÃO então manifestou o presente agravo em recurso especial sustentando o desacerto da decisão que inadmitiu o apelo nobre (e-STJ, fls. 375/385).
+A contraminuta não foi apresentada (e-STJ, fl. 387).
+É o relatório.
+DECIDO.
+O agravo merece ser conhecido, porém o apelo nobre adjacente não pode ser conhecido, nos termos da seguinte fundamentação.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nela prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada violação dos arts.184, § 1º, I, do CPC/73 e 345, 349 e 355, todos do NCPC
+Verifica-se, de plano, que o conteúdo normativo referente a quase todos os mencionados dispositivos de lei não foi objeto de debate no v. acórdão recorrido, carecendo, portanto, do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Ressalte-se que é exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância pela Corte de origem, não sendo suficiente a parte discorrer sobre o dispositivo legal que entende infringido. É imprescindível que se tenha emitido juízo de valor sobre os preceitos indicados como violados, o que não ocorreu na hipótese examinada.
+Aplicável, assim, por analogia, a Súmula nº 282 do STF, a qual estabelece serinadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Além disso, destaca-se que, nas razões do especial,ADÃO não apresentou argumentos claros e concatenados que pudessem esclarecer os fundamentos ou motivos pelos quais entendeu violado os mencionados dispositivos. Por conseguinte, não houve a demonstração, clara e precisa, da necessidade de reforma do acórdão recorrido, o que impede compreender a exata medida da controvérsia, ensejando a aplicação da Súmula nº 284 do STF, por analogia.
+Nesse sentido, vejam-se os precedentes a seguir:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DO STJ. MATÉRIA CONSTITUCIONAL.IMPOSSIBILIDADE DE APRECIAÇÃO. AÇÃO ANULATÓRIA. NULIDADE. DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. UTILIZAÇÃO DA FÓRMULA ""E SEGUINTES"".FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+ ..
+3. Segundo a jurisprudência do STJ, "o uso da fórmula aberta "e seguintes" para a indicação dos artigos tidos por violados revela fundamentação deficiente, o que faz incidir a Súmula n. 284/STF.
+Isso porque o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardoiura novit curiae, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente"(AgInt no AREsp n. 1.411.032/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/9/2019, DJe 30/9/2019).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.839.853/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 16/8/2021, DJe 19/8/2021 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER.PLANO DE SAÚDE. 1. VIOLAÇÃO AOS ARTS. 757 E SEGUINTES DO CC.FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. 2. DANO MORAL. AUSÊNCIA DE INDICAÇÃO DE ARTIGO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 3. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. 4. AGRAVO INTERNO IMPROVIDO.
+1. Segundo a jurisprudência do STJ, o uso da fórmula aberta ""e seguintes" para a indicação dos artigos tidos por violados revela fundamentação deficiente, o que faz incidir a Súmula n. 284/STF.
+ ..
+4. Agravo interno improvido.
+(AgInt no REsp 1.882.521/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 11/11/2020, DJe 16/11/2020- sem destaque no original)
+Ainda que superado os óbices acima, verifica-se que ADÃO, em que pese ter insistido nasteses de que a contestação e a reconvenção são tempestivas; quedevem ser afastados os efeitos da revelia; e quehá nulidade por cerceamento de defesa, especialmente porque não foram deferidas as provas requeridas, não cuidou de afastar os fundamentos de que (1)nos termos do art. 184, § 1º, do CPC/73 (vigente à época dos atos aqui considerados), o início ou o término do prazo deveria ser prorrogado para o primeiro dia útil subsequente; mas que essa regra, contudo, não incide quando apenas retomada a contagem de prazo suspenso, como ocorreu no caso; (2)não vem em socorro do apelante a invocação das disposições do novo código, que entraram em vigor após a data da apresentação da contestação e reconvenção; e (3)reconhecida a revelia, a autorizar o julgamento antecipado da lide, resulta impertinente a alegação de cerceamento de defesa (e-STJ, fls. 335/342), o que implica a incidência da Súmula nº 283 do STF, por analogia.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO PROTOCOLADO VIA FAX. ART. 2º DA LEI N. 9.800/99. NÃO IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO AUTÔNOMO. SÚMULA N. 283/STF. DIVERGÊNCIA JURISPRUDENCIAL.SÚMULA N. 83/STJ. AFERIÇÃO DA DATA DE PROTOCOLO. SÚMULA N. 7/STJ.
+1. A não impugnação específica dos fundamentos da decisão recorrida suficientes para mantê-la enseja o não conhecimento do recurso. Incidência da Súmula n. 283 do STF.
+ ..
+4. Agravo regimental parcialmente conhecido e desprovido.
+(AgRg no AREsp nº 673.529/ES, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe 28/8/2015 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 283/STF. INTERPRETAÇÃO DE CLÁUSULA E REEXAME DE PROVA. SÚMULAS NºS 5 E 7/STJ. INVIABILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja a incidência, por analogia, da Súmula nº 283 do Supremo Tribunal Federal.
+ ..
+4. Agravo regimental não provido.
+(AgRg no AREsp nº 643.078/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 2/9/2015 - sem destaque no original)
+(2) Do dano moral
+No que se refere ao tema,ADÃO defendeu queo dano moral deve ser excluído ou minorado.
+Contudo, destaca-se que, nas razões do especial,ADÃO não indicou, de forma clara e objetiva, quais os dispositivos legais que porventura foram violados pelo TJSP.
+Por conseguinte, não houve a demonstração, clara e precisa, da necessidade de reforma do acórdão recorrido, o que impede compreender a exata medida da controvérsia, ensejando a aplicação da Súmula nº 284 do STF, por analogia:É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, vejam-se os seguintes precedentes: AgInt no AREsp 802.042/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 29/8/2016; AgRg no Ag 1.265.361/RS, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 25/5/2016; AgInt no AREsp 893.976/SP, minha relatoria, Terceira Turma, DJe 29/6/2016; AgRg no REsp 1.389.799/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 14/4/2016.
+Assim, quanto ao ponto, está claro que o recurso especial não ultrapassa nem sequer a barreira do conhecimento.
+Ainda que assim não fosse,ovalorfixadoa título de danomoral, porque arbitradocom fundamento no arcabouço fático-probatório carreado aos autos, só podeser alteradoem hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante, o que não ocorreu no caso, em que odano imaterial foi fixado em R$ 25.000,00 (vinte e cinco mil reais).
+Nesse sentido, veja-se os seguintes julgados da eg. Terceira Turma:AgInt no AREsp 1.895.220/RJ, minha relatoria, julgado em 11/10/2021, DJe 14/10/2021;AgInt no REsp 1.901.318/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, julgado em 4/10/2021, DJe 7/10/2021; eAgInt no AREsp 1.866.310/PE, Rel. Ministra NANCY ANDRIGHI, julgado em 20/9/2021, DJe 22/9/2021.
+Assim, está claro que o recurso especial não ultrapassa nem sequer a barreira do conhecimento.
+Nessas condições,CONHEÇOdo agravo paraNÃO CONHECERo recurso especial.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de EVERALDO, limitados a 20%, nos termos do art. 85, § 11, do NCPC.Deveráserobservado, se for o caso, o benefício da gratuidade dajustiça, nostermosdo art. 98, § 3º, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSOMANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE RITO ORDINÁRIO. ESTABELECIMENTO COMERCIAL. COMPRA E VENDA. EVICÇÃO. RESOLUÇÃO CONTRATUAL. FALTA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA Nº 282 DO STF.DEFICIÊNCIA DA FUNDAMENTAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A ARGUMENTO ESPECÍFICO. MATÉRIA ACERCA DA QUAL NÃO SE DECLINOU DISPOSITIVO DE LEI VIOLADO.INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS NºS 283 E 284, AMBAS DO STF. REFORMA DO JULGADO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA Nº 7 DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
