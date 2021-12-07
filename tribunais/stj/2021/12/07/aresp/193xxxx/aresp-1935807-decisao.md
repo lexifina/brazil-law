@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  ADELMO LEONARDO DA SILVA FILHO contra  a  decisão  do  Tribunal  de Justiça do Estado de Alagoas  que  inadmitiu  recurso  especial  fundamentado  no  art.  105,  inciso  III,  alínea  a,  da  Constituição  da  República,  manifestado  contra  o  acórdão  prolatado  na  Apelação  Criminal  n.  0048987-53.2011.8.02.0001.
+Consta  dos  autos  que  o  Agravante  foi  absolvido  da  acusação  referente  ao  delito  previsto  no  art.  33,  c.c.  o  art.  40,  inciso  V I,  da  Lei  n.  11.343/06,  por  ausência  de  provas  para  a  condenação,  nos  termos  do  art.  386,  inciso  VII,  do  Código  de  Processo  Penal  (fls.  291-298).
+Irresignado,  o  Ministério  Público  estadual  recorreu  ao  Tribunal  de origem,  que  deu  provimento  à  apelação  acusatória  para  "condenar o réu pelo delito de tráfico de drogas majorado (art. 33, caput, c/c art. 40, VI, da Lei n.11.343/2006), cominando-lhe a pena de 06 (seis) anos, 09 (nove) meses e 07 (sete) dias de reclusão, a ser cumprida em regime inicialmente semiaberto, cumulada ao pagamento de 675 (seiscentos e setenta e cinco) dias-multa" (fl. 346).
+Nas  razões  do  recurso  especial,  aduz  a  Defesa,  inicialmente,  ofensaao art. 386, inciso VII,do Código de Processo Penal, sob o argumento de que não foram produzidas provas suficientes da ocorrência do delito de tráfico de drogas.
+Aponta-se, ainda, violação  do art. 42  da  Lei  n.  11.343/2006 e do art. 65, inciso III, alínea d, do Código Penal.  A  esse  respeito,  assevera  que  a quantidade de drogas apreendidasnão justifica o aumento empreendido na pena-base e que a confissão extrajudicial do Recorrente deve ser considerada como circunstâncias atenuante na dosimetria da pena.
+O  recurso  especial  não  foi  admitido  pelo  Tribunal  de  origem  em  razão  do  óbice  da  Súmula  n.  7  desta  Corte  Superior  (fls.  382-383).
+O  Ministério  Público  Federal  opinou  pelo  desprovimento  do  agravo  (fls.  431-433).
+É  o  relatório.  Decido.
+Preliminarmente, verifico que não há interesse recursal, pois apretensão punitiva já foi extinta pela prescrição penal retroativa.
+Com efeito, não há recurso acusatório e a pena concretamente aplicada ao Recorrente é inferior a 8 (oito) anos,razão pela qual seria aplicável o prazo prescricional de12 (doze) anos, nos termos do art. 109, inciso II, do Código Penal.
+Contudo, o Réu tinha idade inferior a 21 (vinte e um) anos na data do fato (fl. 345), o que reduz pela metade o prazo prescricional, nos termos do art. 115 do Código Penal.
+Assim, verifica-se que, entre a data do recebimentoda denúncia (19/06/2012 - fl. 230) e a data do julgamento do recurso acusatório em que o Réu foi condenado (14/10/2020 - fl. 338), houve o transcurso de períodotemporal superior a 6(seis)anos, razão pela qual a pretensão punitiva estatal já estavafulminadapela prescrição penal retroativa no momento em que foi interposto o recurso especial e o subsequente agravo.
+Ante o exposto, DECLARO extinta a punibilidade do Recorrente, em razão daprescrição da pretensão punitiva retroativa, nos termos do art. 107,inciso IV, c.c. o art. 109, inciso II, o art. 110, § 1.º,e o art. 115, todos do Código Penal. Por consequência, NÃO CONHEÇO do agravo em recurso especial, ante a ausência de interesse recursal.
+Publique-se. Intimem-se.
+EMENTA
+  AGRAVO  EM  RECURSO  ESPECIAL.  TRÁFICO  DE  DROGAS.  PRESCRIÇÃO DA PRETENSÃO PUNITIVA RETROATIVA. AUSÊNCIA DE INTERESSE RECURSAL. DECLARADA A PRESCRIÇÃO, DE OFÍCIO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
