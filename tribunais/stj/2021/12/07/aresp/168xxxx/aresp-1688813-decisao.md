@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto pelo DISTRITO FEDERAL contra decisão de inadmissibilidade do recurso especial, fundado na alínea "a" do permissivo constitucional, que desafiou acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, em que se discute, entre outros temas, a incidência de contribuição previdenciária sobre o terço constitucional de férias pago a servidores públicos.
+Interposto recurso extraordinário, o Presidente do TJDFT determinou seu sobrestamento ante a afetação da temática a julgamento pelo rito da repercussão geral pelo Supremo Tribunal Federal no RE 592.068/SC (Tema 163).
+Passo a decidir.
+O Supremo Tribunal Federal, nos autos do RE 593.068/SC, decidiu que "não incide contribuição previdenciária sobre verba não incorporável aos proventos de aposentadoria do servidor público, tais como terço de férias, serviços extraordinários, adicional noturno e adicional de insalubridade. " (Tema 163 do STF).
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça sobre a mesma controvérsia, os autos devem retornar à Corte de origem, para a oportuna realização do juízo de conformação com a decisão vinculativa a ser proferida pelo STF, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que proceda ao oportuno juízo de conformação com o acórdão a ser proferido no julgamento do RE 593.068/SC (Tema 163 do STF).
+Publique-se. Intimem-se.
