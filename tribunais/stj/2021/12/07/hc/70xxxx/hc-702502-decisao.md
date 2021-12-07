@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de DANIEL ALEXANDRE BARBOSA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1500841-15.2020.8.26.0617).
+Consta dos autos que o paciente foi condenado às penas de 5 anos de reclusão e 500 dias-multa, em regime inicial fechado, como incurso no art. 33, caput, da Lei n. 11.343/2006, porque foi surpreendido com aproximadamente 38g (trinta e oito gramas) de cocaína e 30g (trinta gramas) de maconha (e-STJ fl. 12).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi desprovido, nos termos da ementa ora transcrita (e-STJ fl. 23):
+TRÁFICO ILÍCITO DE ENTORPECENTES. Recurso defensivo. ABSOLVIÇÃO. Impossibilidade. Autoria e materialidade bem delineadas, o que afasta a almejada desclassificação para uso. DOSIMETRIA. Penas bem estabelecidas. Inaplicabilidade do redutor (art. 33, § 4º) e da benesse do CP, art. 44. Regime fechado preservado. DESPROVIMENTO.
+Na presente impetração a defesa assere que deve ser concedida a minorante do tráfico privilegiado em seu grau máximo.
+Requer, ao final, o redimensionamento da reprimenda do paciente.
+O pedido liminar foi indeferido (e-STJ fls. 420/421).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 449/455).
+É o relatório.
+Decido.
+In casu, colhe-se do acórdão recorrido (e-STJ fls. 25/26):
+As bases foram estabelecidas no piso, 5 anos de reclusão e 500 dias-multa. Ausentes agravantes, prejudicada a atenuante da menoridade relativa, nos termos da Súmula/STJ, n.231.
+Inexistentes causas de aumento, impossível a incidência da minorante do art. 33, § 4º, cuja razão, conforme o STJ, é justamente punir com menos rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, cometendo um fato isolado, acaba incidindo na conduta típica prevista no art. 33 (REsp 1341280/MG, Ministro ROGERIO SCHIETTI CRUZ, DJe 29/09/2014).
+ ..
+Por isso, para a aplicação da redução são exigidos, além da primariedade e dos bons antecedentes, que não integre organizaçãocriminosa ou se dedique a atividades delituosas.
+No caso, a despeito da primariedade, como bem consignado, "possui inúmeros registros de atos infracionais, que indicam que ele vinha se dedicando de forma profissional e exclusiva ao crime, o que impede o reconhecimento do tráfico privilegiado" (fls. 278), indicando dedicação a atividades criminosas, salientando-se ainda que a mitigação não é direito subjetivo.
+De acordo com o disposto no art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes e não se dedique a atividades criminosas nem integre organização criminosa.
+Sob esse prisma, não vislumbro constrangimento ilegal, pois as instâncias de origem não reconheceram a incidência da minorante com base na dedicação dopaciente à atividade criminosa,pela anterior prática de atos infracionais, e excluíram a possibilidade de aplicação do pretendido redutor, com observância aos pormenores da situação concreta e respeitando os critérios estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AGRAVO NÃO CONHECIDO POR INCIDÊNCIA DA SÚMULA 182/STJ. FUNDAMENTOS IMPUGNADOS. CONHECIMENTO. CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI 11.343/2006. AFASTAMENTO. ATOS INFRACIONAIS. DEDICAÇÃO À ATIVIDADE CRIMINOSA. POSSIBILIDADE. SÚMULA 83/STJ. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL, MAS LHE NEGAR PROVIMENTO.
+1. Havendo impugnação específica aos fundamentos da decisão agravada, deve ser conhecido o recurso.
+2. A existência de atos infracionais praticados pelo agente, embora não caracterizem reincidência ou maus antecedentes, podem denotar dedicação às atividades criminosas, de modo a justificar a negativa da minorante do § 4º do art. 33 da Lei 11.343/2006, ante o não preenchimento dos requisitos legais. Incidência da Súmula 83/STJ.
+3. Agravo regimental provido para conhecer do agravo em recurso especial, mas lhe negar provimento.
+(AgRg no AREsp 1.630.635/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. CIRCUNSTÂNCIAS CONCRETAS IDÔNEAS QUE EMBASAM A CONCLUSÃO DE QUE O PACIENTE SE DEDICAVA A ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. REGIME PRISIONAL FECHADO. VALORAÇÃO NEGATIVA DA QUANTIDADE E NATUREZA DA DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Rever o entendimento externado pela Corte de origem para o fim de aplicar o redutor previsto no § 4º do art. 33 da Lei 11.343/2006 demandaria, necessariamente, o reexame do conjunto fático-probatório, inviável em sede de habeas corpus. Ademais, consta dos autos que o paciente cometeu atos infracionais enquanto adolescente, o que também constitui óbice à incidência do redutor, na medida em que a jurisprudência desta Corte firmou-se no sentido de que o registro de atos infracionais é elemento idôneo para afastar a figura do tráfico privilegiado, quando evidenciar a propensão do agente a práticas criminosas (AgRg no REsp 1.816.895/DF, Relator Ministro LEOPOLDO DE ARRUDA RAPOSO, Quinta Turma, DJe 11/10/2019).
+2. A valoração negativa da quantidade e natureza dos entorpecentes constitui fator suficiente para a determinação de regime inicial de cumprimento da pena privativa de liberdade mais gravoso. Hipótese em que as instâncias ordinárias fixaram o regime prisional mais gravoso com lastro na natureza especialmente deletéria da droga apreendida - 100 eppendorfs de cocaína -, sopesada na primeira fase da dosimetria, fundamento idôneo e suficiente para o recrudescimento, a teor do disposto no art. 33, §§ 2º e 3º, do Código Penal.
+3. Agravo regimental não provido. (AgRg no HC 580.797/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/06/2020, DJe 15/06/2020, grifei.)
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
