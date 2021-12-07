@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto porIAGO SANTOS DE ALMEIDA, VICTOR JUSTINO CELESTINO, em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado Espírito Santo.
+Depreende-se dos autos que os recorrentes forampresos em flagrante e, posteriormente, tiveramsuas prisõesconvertidas em preventiva pela prática, em tese, do delito previsto no art. 33, caput,da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação do decreto prisional. O eg. Tribunal de origem denegou a ordem, em v. acórdão assim ementado:
+"PENAL E PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REQUISITOS DA PRISÃO PREVENTIVA CONSTATADOS. PROVA DE EXISTÊNCIA DO CRIME E INDÍCIOS DE AUTORIA.GRAVIDADE CONCRETA DO DELITO. REGISTROS CRIMINAIS. ORDEM DENEGADA.1. Em que pesem os argumentos defensivos, há prova da existência do crime e indícios suficientes de autoria, sendo estes dois dos requisitos previstos no art. 312 do CPP.2. Além disso, é pacífico o entendimento da Corte Superior de que a quantidade e natureza das drogas apreendidas são elementos aptos para fundamentar a segregação cautelar e garantir a ordem pública, na medida em que indicam a gravidade em concreto da conduta delituosa (HC 469.222/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).3. Ademais, conforme relatado na decisão impugnada, o denunciado Iago possui uma condenação por crime de roubo majorado e o réu Victor possui duas ações penais em tramitação, uma por crime de trânsito e outra por roubo majorado, elementos que, aliados à gravidade concreta do crime, derivada da quantidade, variedade e alta nocividade dos entorpecentes apreendidos, são aptos a configurar os requisitos do art.312 do CPP. Precedentes.4. As condições pessoais, mesmo que favoráveis, não têm o condão de, isoladamente, garantirem a concessão da liberdade, se há nos autos elementos suficientes a demonstrar a necessidade da manutenção da prisão cautelar, como demonstrado in casu, em razão da presença dos requisitos do art. 312 do CPP.5. Ordem denegada" (fl. 106).
+Daí o presente recurso ordinário, no qual alegam os recorrentes que estariam sofrendo constrangimento ilegal em razão da ausência de fundamentação idônea da decisão que determinou suas segregaçõescautelares
+Pondera, neste sentido, que a prisão cautelar foi decretada pela gravidade em abstrato da conduta supostamente praticada.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a substituição da prisão preventiva por medida cautelar diversa, prevista no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 143-145.
+As informações foram prestadas às fls. 149-167.
+O Ministério Público Federal, às fls. 119-122, manifestou-se pelo não conhecimento do recurso, em razão da perda superveniente do objeto, em parecer assim ementado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE TRÁFICO DE DROGAS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DA AUSÊNCIA DE REQUISITOS PARA A PRISÃO PREVENTIVA. INFORMAÇÕES PRESTADAS PELA ORIGEM , NO SENTIDO DE QUE FOI CONCEDIDA LIBERDADE PROVISÓRIA AO RECORRENTE. PERDA SUPERVENIENTE DO OBJETO. PELO NÃO CONHECIMENTO DO RECURSO ORDINÁRIO" (fls. 171).
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Segundo informações prestadas pelo d. juízo de origem, colacionadas às fls. 149-167, verifica-se que proferida sentença absolvendo os recorrentes, nos termos do art. 386, inciso VII, com expedição de alvarás de soltura(e-STJ fl. 150).
+Nesse contexto, verifico que o presente recurso ordinário perdeu o objeto, uma vez que já atingida a pretensão nele requerida.
+Ante o exposto, com fulcro no art 34, XI, do RISTJ, julgo prejudicado o presente recurso ordinário.
+P. e I.
