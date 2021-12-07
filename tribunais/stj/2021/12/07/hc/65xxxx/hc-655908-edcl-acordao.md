@@ -1,0 +1,19 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por AMADOU JULDE BARI, contra acórdão de fls. 212/216, proferido por esta egrégia Quinta Turma, de minha relatoria, no qual foram acolhidos os embargos de declaração, sem efeitos modificativos.
+O embargante ratifica a alegação já trazida nos embargos de declaração opostos anteriormente, alegando que a Corte estadual foiomissa quanto ao pedido pleiteado a respeito da alegação de ilegalidade no ato do Juiz de primeiro grau, que decretou de ofício, sem qualquer pedido ou representação, a preventiva do embargante no momento que proferiu a sentença condenatória.
+Requer, assim, "sejam acolhidos os presentes embargos com efeitos infringentes ou que seja concedido habeas corpus de ofício, dada a ilegalidade que sofre o paciente. Assim, requer sejam acolhidos os embargos para que seja o ponto contraditório devidamente esclarecido"(fls. 218/235).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOSEMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOHABEAS CORPUS. APONTADA OMISSÃO NO ACÓRDÃO EMBARGADO QUANTO À ILEGALIDADE NA SENTENÇA PROLATADA PELO JUIZ DE PRIMEIRO GRAU. MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO. INCONFORMISMO COM O JULGADO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal - CPP, pressupostos não caracterizados na hipótese dos autos.
+2. No caso em apreço, foi reconhecida a omissão apontada pelo embargante, no que diz respeito à alegação de ilegalidade no ato do Juiz de primeiro grau, porquantopleiteada na petição inicial do writ. Todavia, ressaltou-se que tal tese não foi objeto de análise pela Corte estadual, haja vista que limitou seus fundamentos na presença dos requisitos para a manutenção da custódia cautelar, o que impediria o exame direto de referida matéria por este Tribunal Superior de Justiça, sob pena de incorrer em indevida supressão de instância.
+3. Não há falar em omissão no julgado, uma vez que foram explicitadas de forma clara as razões de decidir. Assim, o que se verifica é a nítida intenção do embargante, inconformado com o resultado do julgamento, em rediscutir a matéria apreciada e já decidida por esta egrégia Quinta Turma.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal, pressupostos não caracterizados na hipótese dos autos.
+No caso em apreço, foi reconhecida a omissão apontada pelo embargante,no que diz respeito à alegação de ilegalidade no ato do Juiz de primeiro grau, porquantopleiteada na petição inicial do writ.Todavia, ressaltou-seque tal tese não foi objeto de análise pela Corte estadual, haja vista que limitou seus fundamentos na presença dos requisitos para a manutenção da custódia cautelar, o que impediriao exame direto de referida matéria por este Tribunal Superior de Justiça, sob pena de incorrer em indevida supressão de instância.
+Dessa forma, não há falar em omissão no julgado, uma vez que foram explicitadas de forma clara as razões de decidir. Assim, o que se verifica é a nítida intenção do embargante, inconformado com o resultado do julgamento, em rediscutir a matéria apreciada e já decidida por esta egrégia Quinta Turma.
+Ante o exposto, voto no sentido de rejeitar os presentes embargos de declaração.
