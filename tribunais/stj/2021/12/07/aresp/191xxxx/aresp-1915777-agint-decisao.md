@@ -1,0 +1,52 @@
+DECISÃO
+DÉCIO IVAU NAKAMA (DÉCIO) promoveu ação de obrigação de fazer cumulada com cobrança contra MARIA JOSÉ DA SILVA NAKAMA E PAULO YASUNOBU NAKAMA (MARIA e outro), sob a alegação de que enviou valores para seu irmão para aquisição de imóvel, o qual foi adquirido somente no nome do seu irmão. Requer o desmembramento do imóvel ou indenização por perdas e damos.
+Em primeira instância, o d. Juízo extinguiu o feito com resolução de mérito, nos termos do art. 487, II, do NCPC (e-STJ, fls. 188/190).
+A apelação interposta por DÉCIO foi provida pelo TJ/SP, nos termos do v. acórdão prolatado pela Desa. Marcia Dalla Déa Barone, assim ementado:
+Ação de obrigação de fazer Plano de saúde Sentença de extinção com resolução do mérito com reconhecimento de prescrição Insurgência da parte autora Nulidade da r. sentença apelada não caracterizada- Prescrição caracterizada Incidência do artigo 205 do Código Civil Recurso não provido (e-STJ, fl. 254).
+Os embargos de declaração opostos por DÉCIO foram rejeitados (e-STJ, fls. 264/269).
+Inconformado, DÉCIO interpôs recurso especial, com amparo no art. 105, III, a, da CF, alegando violação dos arts. 489 e 1.022 do NCPC, 397 E 189 do CC/2002.
+O apelo nobre não foi admitido em virtude da (1) não demonstração da vulneração dos dispositivos tidos por violados; (2) incidência da Súmula nº 7 do STJ; e, (3) não demonstração do dissenso jurisprudencial.
+Seguiu-se o agravo em recurso especial interposto que, em decisão monocrática da lavra do Ministro Presidente do STJ, o agravo em recurso especial não foi conhecido, com amparo no art. 21-E, V, c/c o art. 253, parágrafo único, I, do RISTJ, porque não foram atacados especificamente os fundamentos da decisão agravada.
+Nas razões do presente agravo interno, RENATO alegou que não foi alegado divergência jurisprudencial.
+Houve impugnação ao recurso (e-STJ, fls. 353/363).
+É o relatório.
+DECIDO.
+Tendo em vista as alegações trazidas no agravo interno, reconsidero a decisão agravada para conhecer do agravo em recurso especial e passo à nova análise do recurso especial.
+O recurso não comporta provimento.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Não merece respaldo a assertiva de que o v. acórdão não teria se manifestado sobre a fluência do prazo prescricional, uma vez que o Tribunal local consignou, expressamente:
+No mérito, trata-se de recurso de apelo interposto contra a r. sentença apelada que extinguiu, com resolução do mérito, a presente ação em função do reconhecimento da prescrição da pretensão da parte requerente. Sustenta o apelante a não ocorrência de prescrição, uma vez que as partes não teriam estipulado data certa para o cumprimento da obrigação objeto desta lide.
+Ocorre, entretanto, que sendo a pretensão da parte autora fundada em suposto negócio jurídico celebrado pelo autor com réus para a aquisição conjunta de bem imóvel, e não tendo sido estipulado prazo para que a referida aquisição ocorresse, mister reconhecer que referida obrigação tornou-se exigível, e, consequentemente o prazo prescricional incidente à pretensão do requerente passou a fluir, em dezembro de 1998, data em que os requeridos receberam a última parcela de valores encaminhados pelo autor para a suposta aquisição do referido bem, conforme admitido à petição inicial pelo próprio requerente. Por seu turno, a aquisição dobem imóvel se deu, através de inscrição junto ao registro imobiliário em nome dos réus em 19.01.1995, a partir de quando o autor teve inequívoca ciência do ato.
+Ademais, deve-se destacar, também, que inexistindo prazo específico na legislação vigente aplicável à pretensão de cumprimento de obrigação contratualmente assumida ou à conversão desta em obrigação pecuniária, mister reconhecer a aplicação do prazo geral à hipótese.
+Desse modo, no presente caso, deve será plicado o prazo decenal de 10 anos, previsto no artigo 205 do Código Civil, uma vez que até a entrada em vigor do referido diploma normativo, não havia transcorrido mais da metade do prazo de 20 anos previsto no Código Civil de 1916.
+Como consequência, tendo a presente ação sido proposta somente em 2019, o reconhecimento da prescrição da pretensão da parte autora e, consequentemente, a manutenção da r. sentença apelada se faz impositiva (e-STJ, fls. 256/257).
+Desta forma, não há que se falar em negativa de prestação jurisdicional, pois o tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Assim, constata-se que não há quaisquer dos vícios elencados no art. 1.022 do NCPC.
+Ademais, constata-se que o acórdão recorrido foi devidamente fundamentado, não se podendo falar em violação dos arts. 489, § 1º, e 1.022 do NCPC, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+De outra parte, na hipótese, o v. acórdão recorrido consignou expressamente que a pretensão da parte autora fundada em suposto negócio jurídico  ..  para a aquisição conjunta de bem imóvel, e não tendo sido estipulado prazo para que a referida aquisição ocorresse, mister reconhecer que referida obrigação tornou-se exigível,  ..  o prazo prescricional incidente à pretensão do requerente passou a fluir, em dezembro de 1998  ..  , a aquisição do bem imóvel se deu, através de inscrição junto ao registro imobiliário em nome dos réus em 19.01.1995, a partir de quando o autor teve inequívoca ciência do ato.
+Por oportuno, transcrevo trecho do v. acórdão recorrido:
+No mérito, trata-se de recurso de apelo interposto contra a r. sentença apelada que extinguiu, com resolução do mérito, a presente ação em função do reconhecimento da prescrição da pretensão da parte requerente. Sustenta o apelante a não ocorrência de prescrição, uma vez que as partes não teriam estipulado data certa para o cumprimento da obrigação objeto desta lide.
+Ocorre, entretanto, que sendo a pretensão da parte autora fundada em suposto negócio jurídico celebrado pelo autor com réus para a aquisição conjunta de bem imóvel, e não tendo sido estipulado prazo para que a referida aquisição ocorresse, mister reconhecer que referida obrigação tornou-se exigível, e, consequentemente o prazo prescricional incidente à pretensão do requerente passou a fluir, em dezembro de 1998, data em que os requeridos receberam a última parcela de valores encaminhados pelo autor para a suposta aquisição do referido bem, conforme admitido à petição inicial pelo próprio requerente. Por seu turno, a aquisição do bem imóvel se deu, através de inscrição junto ao registro imobiliário em nome dos réus em 19.01.1995, a partir de quando o autor teve inequívoca ciência do ato.
+Ademais, deve-se destacar, também, que inexistindo prazo específico na legislação vigente aplicável à pretensão de cumprimento de obrigação contratualmente assumida ou à conversão desta em obrigação pecuniária, mister reconhecer a aplicação do prazo geral à hipótese.
+Desse modo, no presente caso, deve será plicado o prazo decenal de 10 anos, previsto no artigo 205 do Código Civil, uma vez que até a entrada em vigor do referido diploma normativo, não havia transcorrido mais da metade do prazo de 20 anos previsto no Código Civil de 1916.
+Como consequência, tendo a presente ação sido proposta somente em 2019, o reconhecimento da prescrição da pretensão da parte autora e, consequentemente, a manutenção da r. sentença apelada se faz impositiva (e-STJ, fls. 256/257).
+Dessa forma, observa-se que não houve a impugnação do referido fundamento, o que atrai a incidência da Súmula nº 283 do STF, por analogia: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+ ..
+3. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1.603.851/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 22/6/2020, DJe 25/6/2020 - sem destaques no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA
+ ..
+4. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.868.333/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 29/6/2020, DJe 3/8/2020 - sem destaques no original)
+Nessas condições, DOU PROVIMENTO ao agravo interno para CONHECER do agravo em recurso especial e NEGAR PROVIMENTO ao apelo nobre.
+Deixo de majorar os honorários advocatícios, em razão do limite de 20% estabelecido no art. 85, §§ 2º e 11, do NCPC.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. PROVA PERICIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL E NEGAR PROVIMENTO AO APELO NOBRE.
