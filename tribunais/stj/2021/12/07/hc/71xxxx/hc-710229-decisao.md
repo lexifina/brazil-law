@@ -1,0 +1,26 @@
+DECISÃO
+IGOR LUIZ RIBEIRO DE CARVALHOalega ser vítima de coação ilegal em decorrência de decisão de Desembargador do Tribunal de Justiça do Estado do Rio de Janeiro no HC n. 0080865-73.2021.8.19.0000.
+Consta dos autos que o paciente foi condenado à pena de 13 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 33,capute § 1º, I, II e III, 34, todos da Lei n. 11.343/2006.
+A defesa "levando em consideração o término da instrução processual penal, requer a revogação da prisão preventiva até ocorrer o transito em julgado da sentença penal condenatória, posto que pendente de julgamento os recurso excepcionais, eis que inexistentes os motivos ensejadores da custódia cautelar, para que o requerente possa recorrer em liberdade, como se depreende da decisão do pretório excelso, que estabelece o seguinte (fl. 7).Aduz, para tanto, ter havido invasão de domicílio e não estar evidenciada nenhuma das hipóteses previstas no art. 312 do CPP.
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento da impetração.
+Decido.
+Conforme explicitado no HC n. 669.748/RJ, reitero que este habeas corpusnão há como ser conhecido.Isso porque a pretendida concessão do direito de recorrer em liberdade não foi analisada pelo Tribunal de origem, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir na indevidasupressão de instância.
+Ademais, esclareço que, segundo o relatório apresentadopelo próprio impetrante na petição inicial do habeas corpus, "a defesa interpôs o recurso de apelação, que veio a ser processado e julgado pela 2ª Câmara Criminal do Tribunal de Justiça do estado do Rio de Janeiro.Em síntese, a pretensão recursal defensiva se lastreava nos seguintes pontos: desclassificação da conduta para a prevista no artigo 28, Lei de Drogas; incidência do redutor previsto no artigo 33, § 4º, Lei de Drogas e afastamento da condenação pelo delito previsto no artigo 34, Lei de Drogas em razão do princípio da consunção" (fl. 5).
+Ou seja, a defesa, em suas razões recursais, não apresentou nenhuma insurgência em relação à negativa do direito de recorrer em liberdade.
+Saliento que tal matériadeveriahaver sido suscitadano momento oportuno e perante o Juízo competente, até para possibilitar à instância recursal um pronunciamento seguro sobre a questão, sendo, por isso mesmo, vedada a inauguração, em habeas corpus, de tese(s) defensiva(s) não aventada(s) e não debatida(s) na via ordinária.
+Ainda, consta a impetração dowritperante a Corte de origem, cujo seguimento foi negado, nos seguintes termos:
+O impetrante sustenta que o paciente permanece preso desde 26 de novembro de 2019, sem previsão de data para julgamento de seus recursos, daí o constrangimento ilegal a que está submetido.
+De acordo com a consulta aos autos do processo n.º 0298590-59.2019.8.19.0001, no sítio eletrônico deste Tribunal de Justiça, depreende-se que, após a condenação do paciente no juízo originário, foi interposto recurso de apelação.
+Distribuído e submetido a julgamento perante esta Segunda Câmara Criminal, por unanimidade de votos, foi negado provimento ao recurso defensivo, em 18 de março de 2021.
+Posteriormente, foram interpostos os recursos constitucionais, inadmitidos pela E. Terceira Vice-Presidência, em 22/05/2021, sendo interpostos agravos contra tais decisões.
+Os autos foram remetidos aos Tribunais Superiores em 07/07/2021 e lá permanecem desde então.
+Como se vê, as aludidas decisões proferidas por este Tribunal de Justiça, por meio da E. Terceira Vice-Presidência, foram combatidas por Agravo em Recurso Especial e Agravo em Recurso Extraordinário e, portanto, não cabe apontar o Juízo originário (l a Vara Criminal Regional de Bangu) como Autoridade coatora, já que tal órgão exauriu sua competência com a prolação da sentença.
+Assim, se há eventual excesso de prazo no julgamento dos recursos constitucionais, isso não se insere na competência deste Tribunal (fls. 19-20, grifei).
+Deve-se frisar quenão houve a interposição de agravo regimental, de modo a oportunizar o debate do tema pelo respectivo órgão colegiado e posterior impetração da ordem perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento destemandamus.
+Nesse passo, por todos:
+ ..
+I. O inconformismo dirigido contra decisão de Desembargador componente da Turma Criminal do Tribunal a quo, sem que tenha sido ajuizado o agravo interno e alcançado tal decisum o trânsito em julgado, inviabiliza o acesso a esta Corte Superior, em razão do não esgotamento das instâncias ordinárias.
+II. Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância  ..  (HC n. 164.785/MS, Rel. Min.Gilson Dipp, 5ª T., DJe 8/6/2011, grifei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ,não conheço do habeas corpus.
+Publique-se e intimem-se.
