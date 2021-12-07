@@ -1,0 +1,56 @@
+DECISÃO
+SANES BRASIL AGROINDUSTRIAL LTDA. (SANES)ajuizou ação de obrigação de fazer cumulada com indenizaçãocontraSEPETIBA TECON S.A. (SEPETIBA)alegando que mercadoria perecível importada se encontra paralisada em contêineres no terminal de cargas operado pela ré, a qual não adota as medidas logísticas necessárias para a retirada da mercadoria pela autora, mesmo após a liberação da carga pela Receita Federal. Aduz que a demora da ré acarretou o vencimento do freetimedos contêineres com as mercadorias importadas, devendo a autora arcar financeiramente pela sobre-estadia. Afirma ainda que a mercadoria importada seria distribuída ao mercado de consumo para as festividades de fim de ano, tratando-se de carga sazonal, sendo que o atraso na disponibilização dos produtos acarreta graves prejuízos à autora. Requer a liberação das mercadorias para retirada, além de indenização por danos morais e materiais, sendo que em relação aos últimos tanto o dano emergente quanto o lucro cessante.
+Em primeira instância, o pedido foi julgado procedente paraconfirmar a decisão de antecipação de tutelae condenar a parte ré a restituir à parte autora o valor comprovadamente pago, a título de armazenagem e fornecimento de energia, após a citação da demandada, relativamente aos contêineres objeto da lide, com correção monetária e juros de mora de 1% ao mês a contar de cada pagamento, conforme apurado em liquidação de sentença. Ante a sucumbência recíproca, ficaram compensadas as despesas processuais. As partes foram condenadas, reciprocamente, ao pagamento dos honorários de advogado da parte adversa (art. 85, §14, NCPC), no montante de 10% do valor da condenação em favor do advogado da parte autora e de 5% do valor da causa atualizado, em favor do advogado da parte ré.
+O TJRJ negou provimento à apelação interposta por SEPETIBA e à apelação da SANES, em acórdão assim ementado:
+Apelação Cível. Demanda indenizatória proposta em razão de demora por parte da ré em liberar contêineres no terminal de cargas, embora já liberados pela Receita Federal. A sentença confirmou a tutela deferida, que determinou que a ré realizasse a movimentação para fins de liberação dos contêineres já desembaraçados pela aduana brasileira, e condenou a suplicada, a restituir à parte autora o valor comprovadamente pago, a título de armazenagem e fornecimento de energia para refrigeração dos contêineres, após a citação. Apelação da ré pleiteando a improcedência do feito. Apelação adesiva da autora requerendo que se considere o lapso temporal de dez dias como período razoável para liberação dos contêineres.
+1. Dano material evidente que decorre da demora incontroversa da ré em liberar os contêineres da autora.
+2. Ressarcimento das despesas relativas a título de armazenagem e fornecimento de energia que é devido. Sentença que fixou como termo a quo a data da citação.
+3. Pleito da autora para que o prazo seja contado após o décimo dia de estadia que se trata de inovação recursal, eis que não pleiteado na exordial. Além do mais, o documento citado pela autora-plano mestre do porto -não comprova que, na época dos fatos,o prazo médio, efetivamente, seria de dez dias.
+4. Diante da falta de regramento próprio, não há base legal para se admitir o prazo de dez dias, sustentado pela autora, devendo a mora ser considerada a partir da citação, como determina o art. 240 CPC.
+5. Sentença que não merece qualquer reparo.
+6. NEGADO PROVIMENTO AOS RECURSOS. (e-STJ fl. 570)
+Os embargos de declaração opostos pela SEPETIBAforam rejeitados(e-STJ, fls. 592/595).
+Irresignada,SEPETIBA interpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação dos arts. 17, 489, 1.022 e 1.025 do NCPC e 186 e 187 do CCao sustentar que(1) o TJRJ não teria apreciado a alegação de que não foi oportunizado prazo razoável para a liberação das mercadorias e que estariam ausentes o interesse e ato ilícito passível de reparação;(2) inexiste interesse de agir, poisnão foioportunizado prazo razoável para posicionamento e nunca houveresistência da recorrente para liberação da carga; (3) não houve negativa de liberação dos contêineres pela recorrente, motivo pelo qual, ausente o ato ilícito, indevida a indenização (e-STJ, fls. 597/608).
+Foram apresentadas as contrarrazões.
+O apelo nobre não foi admitido em virtude da incidência das Súmulas nº 5 e 7 do STJ (e-STJ, fls. 643/653).
+Nas razões do presente agravo em recurso especial, SEPETIBAafirmou a inaplicabilidade das Súmulas nº 5 e 7 do STJ(e-STJ, fls. 668/676).
+Foi apresentada contraminuta.
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da ausência de violação do art. 1.022, do NCPC
+Nas razões do seu recurso, SEPETIBAalegou a violação do art. 1.022, do NCPC ao sustentar queo TJRJ não teria apreciado a alegação de que não foi oportunizado prazo razoável para a liberação das mercadorias e que estariam ausentes o interesse eato ilícito passível de reparação.
+Contudo, verifica-se que o TJRJse pronunciou sobre os temas consignando que a SEPETIBA atrasou a liberação das mercadorias e que esta conduta acarretou prejuízos à autora, que não podem ser justificados pelo aumento da demanda. A propósito, confira-se:
+Resta evidente que havia necessidade da demanda eis que os contêineres só foram liberados após a citação e intimação da ré para cumprimento da medida antecipatória.
+No mérito, a autora demonstrou que a ré não liberou os contêineres, embora já liberados pela Receita Federal, ultrapassando o período de isenção (freetime), gerando incidência de sobrestadia (demurrage).
+(..)
+A ré não nega a demora para movimentação dos contêineres no período, atribuindo-a ao aumento de demanda, o que não afasta sua responsabilidade. A empresa ré, responsável pela exploração e gerenciamento do terminal de contêineres do Porto de Itaguaí, tem como função promover a logística para a liberação dos produtos. A alegação de que as dificuldades operacionais foram decorrentes do aumento da demanda de importação não afasta a responsabilidade da apelante. Por tais razões, a sentença foi proferida condenando a ré a indenizar à autora os danos materiais, decorrentes do período entre a citação e a efetiva liberação dos contêineres, além de confirmar a tutela deferida. (e-STJ, fls. 576/577)
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Afasta-se, portanto, a alegada violação.
+(2) Da incidência da Súmula nº7 do STJ
+A recorrente afirmou quenão houve negativa de liberação dos contêineres, motivo pelo qual, ausente o ato ilícito, é indevida a indenização em favor do recorrido.
+Conforme se nota no trecho do acórdão estadual transcrito alhures, o TJRJconsignou que a condenação da SEPETIBA ao pagamento de indenização à autora tem como fundamento o atraso injustificado na liberação da mercadoria, o que acarretou danos materiais à empresa.
+Assim, rever as conclusões quanto a este pontodemandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. QUANTUM INDENIZATÓRIO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte de origem, amparada nos elementos fático-probatórios dos autos, concluiu pela existência do ato ilícito apto a gerar o dever de indenizar. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame de fatos e provas dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+2. A jurisprudência do STJ se consolidou no sentido de que os valores fixados a título de danos morais porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, o que não ocorre na hipótese vertente.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1723070/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 1º/12/2021 - destacou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. COBERTURA PARA DOENÇAS CRÔNICAS GRAVES. 1. PRAZO PRESCRICIONAL. DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 2. ATO ILÍCITO CONFIGURADO. INDENIZAÇÃO POR DANOS MORAIS.ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 3. REVISÃO DO VALOR INDENIZATÓRIO. MODIFICAÇÃO. SÚMULA N. 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. Quanto ao prazo prescricional para pleitear a indenização por danos morais, verifica-se que a matéria não foi objeto de apreciação pelo Tribunal de origem. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada, o que atrai a incidência da Súmula n.
+211/STJ.
+2. Para acolher a pretensão recursal, quanto à existência de ato ilícito a ensejar a indenização por danos morais, seria necessário o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. A revisão do montante arbitrado para a indenização por danos morais também encontra óbice na Súmula 7/STJ, somente sendo possível superar tal impedimento nos casos de valor irrisório ou exorbitante, o que não é o caso dos autos.
+4. Agravo interno improvido.
+(AgInt no AREsp 1852254/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma,DJe 19/11/2021 - destacou-se)
+O recurso, portanto, não mereceser conhecido quanto ao ponto.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de SANES, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO VERIFICADA. FALHA NA PRESTAÇÃO DO SERVIÇO COMPROVADA. DANOS MATERIAIS CARACTERIZADOS. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
