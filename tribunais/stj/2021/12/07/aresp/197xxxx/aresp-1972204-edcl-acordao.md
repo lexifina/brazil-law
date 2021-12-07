@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. PRAZO DE QUINZE DIAS. PANDEMIA DO NOVO CORONAVIRUS. SUSPENSÃO DOS PRAZOS NO TRIBUNAL LOCAL. AUSÊNCIA DE COMPROVAÇÃO. OMISSÃO E CONTRADIÇÃO.INEXISTÊNCIA. MERA IRRESIGNAÇÃO.EMBARGOS REJEITADOS.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Na espécie, à conta de omissão e contradição no v. acórdão, pretende o embargante a alteração da decisão que negou provimento ao agravo regimental, o que traduz, a bem da verdade, mero inconformismo, inviável na via eleita.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração interpostos peloMARIO LUIS FURTADO DE MORAIS,contra acórdão da eg. Quinta Turma, que negou provimento ao agravo regimental (fls. 733-738), consoante a seguinte ementa (fls. 731-732):
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.RECURSO ESPECIAL INTEMPESTIVO. PRAZO DE QUINZE DIAS. PANDEMIA DO NOVO CORONAVIRUS. SUSPENSÃO DOS PRAZOS NO TRIBUNAL LOCAL. AUSÊNCIA DE COMPROVAÇÃO.AGRAVO REGIMENTAL DESPROVIDO.
+I - No presente caso, a parte recorrente foi intimada do acórdão recorrido em 17/04/2020, sendo o recurso especial interposto somente em 10/08/2020, além do prazo de 15 (quinze) dias corridos, portanto, intempestivo.
+II - Ademais, cumpre frisar que, nessa linha, a Corte Especial, no julgamento do AREsp n.957.821/MS, realizado no dia 20/11/2017, decidiu, por maioria, não admitir a comprovação do feriado local em momento posterior à interposição do recurso, quando este for interposto contra decisão publicada na vigência do CPC de 2015, em respeito ao art. 1003, § 6º, do novo CPC.
+III -No caso específico da pandemia do novo coronavírus, os prazos processuais dos autos físicos foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ nº 313/2020 e 322/2020, e voltaram a fluir, para os processos físicos, em 15/6/2020.
+IV -Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso, o que não ocorreu.
+Agravo regimentaldesprovido."
+
+Nas razões deste recurso (fls. 740-753), a defesa sustenta a ocorrência de contradiçãona decisão embargada, ao argumento de que "é nítido o referi do vício no presente caso, uma vez que, no bojo do Recurso Especial, quando de sua interposição, foram dedica das linha s p ara demonstrar sua tempestividade" (fl. 745).
+Ainda, o agravante alega que é "Importa destacar que essa prorrogação até a data de 03/08/2020 ocorrera por liberalidade do próprioTRF3, em atenção à mencionada Resolução nº 322/2020 do CNJ" (fl. 745).
+Questiona, ainda,"Excelências, fora efetivamente mencionado quando da interposição recursal que a suspensão dos prazos se dava até o dia 03/08/2020. Ora, o recurso fora interposto perante o próprio Tribunal que assim determinou e portanto, qual seria a necessidade de realizar, exemplificativamente, a juntada da mencionada portaria  "(fl. 745).
+Alega, ainda, omissão, pois "percebe-se ter sido ignorado o fato de que o embargante, no momento da interposição recursal perante o Tribunal a quo, destacou em parágrafo especificamente dedicado a tanto a absolutatempestividade da interposição, tendo em vista que os prazos voltariam a correr na data de 03 de agosto de 2020"(fls. 750-751).
+Requer, ao final, o acolhimento dos embargos declaratórios, com o fim de sanar os vícios apontados.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. PRAZO DE QUINZE DIAS. PANDEMIA DO NOVO CORONAVIRUS. SUSPENSÃO DOS PRAZOS NO TRIBUNAL LOCAL. AUSÊNCIA DE COMPROVAÇÃO. OMISSÃO E CONTRADIÇÃO.INEXISTÊNCIA. MERA IRRESIGNAÇÃO.EMBARGOS REJEITADOS.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Na espécie, à conta de omissão e contradição no v. acórdão, pretende o embargante a alteração da decisão que negou provimento ao agravo regimental, o que traduz, a bem da verdade, mero inconformismo, inviável na via eleita.
+Embargos de declaração rejeitados.
+VOTO
+Presentes os pressupostos de admissibilidade, conheço dos embargos.
+Destaque-se, ab initio, conforme pacífica jurisprudência desta eg. Corte, que são cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Além disso, é cediço que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada, repito, não padecer dos vícios que autorizariam a sua interposição.
+Na hipótese, não vislumbro qualquer vício existente no acórdão embargado, tendo a col. Quinta Turma se manifestado de forma cristalina acerca da intempestividade do apelo, em especial quanto a necessidade de comprovação da suspensão dos prazos, no Tribunal de origem, fora do período indicado nas Resoluções do CNJ nº 313/2020 e 322/2020,no momento da interposição do recurso,conforme a seguir indicado (fls. 735-736, grifei):
+"In casu, a parte recorrente foi intimada do acórdão recorrido em 17/04/2020, sendo o recurso especial interposto somente em 10/08/2020, além do prazo de 15 (quinze) dias corridos, portanto, intempestivo.
+Ademais, cumpre frisar que, nessa linha, a Corte Especial, no julgamento do AREsp 957.821/MS, realizado no dia 20/11/2017, decidiu, por maioria,não admitir a comprovação do feriado local em momento posterior à interposição do recurso, quando este for interposto contra decisão publicada na vigência do CPC de 2015, em respeito ao art. 1003, § 6º, do novo CPC.
+ ..
+No caso específico da pandemia do novo coronavírus, os prazos processuais dos autos físicosforam suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ nº 313/2020 e 322/2020, e voltaram a fluir, para os processos físicos, em 15/6/2020.
+Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso, o que não ocorreu."
+Não há na decisão embargada, portanto, qualquer vício, de modo que não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto as teses levantadas no recurso foram apreciadas, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição.
+Com efeito, tais questionamentos e a repetição das supracitadas questões, traduzem, a bem da verdade, mero inconformismo com o que decidido nos autos, situação que enseja, a mais não poder, o revolvimento do quanto já sobejamente decidido nos autos, e, repita-se, é providência incabível na via eleita.
+Nesse sentido, colaciono precedentes dessa Corte Superior de Justiça:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ERRO MATERIAL. CORREÇÃO DEVIDA. REGIME PRISIONAL SEMIABERTO. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DA DROGA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. AGENTES NA CONDIÇÃO DE "MULA". BIS IN IDEM NÃO VERIFICADO. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. A teor do disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte. Precedente.
+(..)
+4. Embargos de declaração parcialmente acolhidos para retificar o acórdão impugnado e restabelecer o regime semiaberto como o inicial para o cumprimento da pena reclusiva" (EDcl no AgRg no REsp n. 1.789.170/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 11/06/2019 - grifei).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ORGANIZAÇÃO CRIMINOSA. FACILITAÇÃO DE DESCAMINHO, DESCAMINHO, CORRUPÇÃO ATIVA E PASSIVA. INTERCEPTAÇÃO DE COMUNICAÇÃO TELEFÔNICA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO EMBARGADO. INOCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO A DISPOSITIVOS DA CONSTITUIÇÃO DA REPÚBLICA. VIA INADEQUADA, AINDA QUE PARA FINS DE PREQUESTIONAMENTO. COMPETÊNCIA DO PRETÓRIO SUPREMO TRIBUNAL FEDERAL. EMBARGOS REJEITADOS.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e pela jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Mostra-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento que desproveu o agravo regimental pois, na espécie, à conta de omissão no decisum, pretende o embargante a rediscussão de matéria já apreciada.
+III - Não compete a este Superior Tribunal o exame das supostas violações a dispositivos da Constituição da República (artigos 5º, incisos II, LV e LVI, e 93, inciso IX), ainda que para fins de prequestionamento, por estarem restritas à análise do Pretório Supremo Tribunal Federal, por expressa previsão constitucional.
+Embargos de declaração rejeitados" (EDcl no AgRg nos EDcl no AREsp n. 1.205.732/SP, Quinta Turma, Rel. Min.Felix Fischer, DJe de 12/11/2018).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+1. Inexistindo no acórdão embargado quaisquer dos vícios previstos no art. 619 do Código de Processo Penal, que permitem o manejo dos aclaratórios, não há como esses serem acolhidos.
+2. Na espécie, inexiste o equívoco apontado pela parte, tendo o acórdão embargado apreciado a insurgência de forma clara e fundamentada, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+3. Embargos de declaração rejeitados" (EDcl no AgRg nos EDv nos EAREsp n. 655.714/CE, Corte Especial, Rel. Min. Jorge Mussi, DJe de 09/11/2018).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. VIOLAÇÃO AO ART. 203 DO CÓDIGO DE PROCESSO PENAL. NULIDADE DE DEPOIMENTO PRESTADO EM INQUÉRITO POLICIAL. EVENTUAL IRRELARIDADE EM SEDE INQUISITIVA NÃO CONTAMINA A AÇÃO PENAL. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. INEXISTÊNCIA DE OMISSÃO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Conforme dispõe o art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no decisum.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados" (EDcl no AgInt no AREsp n. 1.277.345/PR, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 25/09/2018).
+Na espécie, à conta de omissão e contradição no v. acórdão, pretende o embargante a alteração da decisão que negou provimento ao agravo regimental, o que traduz, a bem da verdade, mero inconformismo, inviável na via eleita.
+Rejeito, portanto, os embargos de declaração.
+É o voto.
