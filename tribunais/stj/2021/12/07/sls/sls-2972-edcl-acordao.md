@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer, sendo substituído pela Sra. Ministra Maria Isabel Gallotti, nos termos do disposto nos arts. 2º, § 2º, e 55 do RISTJ.
+Presidiu o julgamento o Sr. Ministro Jorge Mussi.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos de declaração opostos, às fls. 2.358-2.368, por CLEONES OLIVEIRA MATOScontra acórdão de fls. 2.345-2.346, que negou provimento ao agravo interno interposto contra decisão que indeferiu o pedido de suspensão às fls. 1.057-1.061.
+A Corte Especial do Superior Tribunal de Justiça assim decidiu a respeito da controvérsia apresentada na presente suspensão (fl. 2.345):
+AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. IMPOSSIBILIDADE LEGAL DE UTILIZAÇÃO DO INCIDENTE PROCESSUAL DA SUSPENSÃO COMO SUCEDÂNEO RECURSAL. NÃO COMPROVAÇÃO INEQUÍVOCA DE VIOLAÇÃO DOS BENS JURÍDICOS TUTELADOS PELA LEGISLAÇÃO DE REGÊNCIA.1. O deferimento do pedido de suspensão está condicionado à cabal demonstração de que a manutenção da decisão impugnada causa efetiva lesão ao interesse público.2. A suspensão de liminar e de sentença é medida excepcional que não tem natureza jurídica de recurso, razão pela qual não propicia a devolução do conhecimento da matéria para eventual reforma.3. As questões eminentemente jurídicas debatidas na instância originária são insuscetíveis de exame na via suspensiva, cujo debate tem de ser profundamente realizado no ambiente processual adequado4. Não se comprovou, de forma inequívoca, em que sentido a manutenção da decisão impugnada causa grave lesão à ordem, à saúde, à segurança e à economia públicas. Agravo interno improvido.
+Alega a parte embargante que houve omissão no julgado por não ter sido enfrentada a questão da legalidade ou não do afastamento cautelar do agente público, bem como aduz que houve contradição sob o argumento de que não há necessidade de esgotamento davia recursal para possibilidade de propositura de suspensão.
+Às fls. 2.373-2.390, foi apresentada impugnação aos embargos declaratórios em comento, sob o argumento de que não foram caracterizadas omissão e contradição, havendo tão somente insurgência meritória diante da não aceitação da fundamentação exposta na decisão embargada. Destaca que em nenhum momento houve fundamentação na decisão impugnada no sentido de esgotamento de vias recursais, como também não há nenhuma omissão, uma vez que a suspensão não permite a análise meritória da ação originária.
+É, no essencial, o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. NÃO CABIMENTO.
+1. Os embargos de declaração, recurso de natureza integrativa destinado a sanar obscuridade, contradição, omissão ou erro material, são incabíveis quando a parte embargante pretende apenas a obtenção de efeitos infringentes.
+2. As apontadas omissões e contradições configuram insurgência meritória, não aceitação da fundamentação exposta, e não omissão propriamente dita.
+3. Em vez da caracterização de alguma falha no julgado, os embargos ora em análise se propõem a alterá-lo em razão da discordância com a fundamentação apresentada.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Os embargos de declaração, cujos pressupostos estão relacionados no art. 1.022 do Código de Processo Civil, visam esclarecer obscuridade, eliminar contradição, suprir omissão a respeito de questão jurídica de especial relevância para o desate da lide ou corrigir erro material.
+Importa asseverar, de plano, que as apontadas contradição e omissão configuram na verdade insurgência meritória, não aceitação da fundamentação exposta, e não omissão/contradição propriamente dita.
+A parte embargante impugna as razões fundamentadoras da decisão que julgou o agravo, mas não aponta de fato omissões ou contradições na dita decisão. Ao contrário, tão somente apresenta inconformismo com a fundamentação desenhada no acórdão, discordando da conclusão de que não houve comprovação inequívoca de que a ordem, a saúde, a segurança e a economia públicas estão sendo afetadas em decorrência do deferimento de liminar para afastamento cautelar da função pública, consubstanciado na análise fática realizada pela instância originária.
+Não há nenhuma omissão no julgado por não ter sido enfrentada a questão da legalidade do afastamento cautelar do agente público, porquanto a suspensão de liminar e de sentença é medida excepcional que não tem natureza jurídica de recurso. Outrossim, não houve caracterização da alegada contradição de que houve fundamento a respeito de necessidade de esgotamento da via recursal, simplesmente porque em nenhum momento foi desenhado tal fundamento na decisão impugnada.
+Vê-se que, ao apresentar os embargos de declaração, na verdade, em vez de caracterizar realmente alguma falha no julgado, objetiva mudá-lo por discordar com a fundamentação apresentada. Tal proceder argumentativo não é cabível no recurso de embargos de declaração, que não serve para insurgência contra o mérito da decisão.
+Nesse sentido, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material. Confira-se julgado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA SUSPENSÃO DE SEGURANÇA. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. NÃO CABIMENTO.
+1. Os embargos de declaração, recurso de natureza integrativa destinado a sanar obscuridade, contradição, omissão ou erro material, são incabíveis quando a parte embargante pretende apenas a obtenção de efeitos infringentes.
+2. Embargos de declaração rejeitados. (EDcl no AgInt na SS n. 3.135/BA, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 16/6/2020.)
+Destaque-se que o simples descontentamento com o decidido não leva ao cabimento dos embargos de declaração, recurso de rígidos contornos processuais que serve ao aprimoramento da decisão, mas não à sua modificação, que excepcionalmente é admitida.
+Ante o exposto, rejeito os embargos declaratórios.
+É como penso. É como voto.
