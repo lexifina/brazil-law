@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial, interposto por EXPRESSO COLETIVO FORGUILHINHA LTDA. e OUTROS contraacórdão assim ementado:
+CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. LEI Nº 12.546, DE 2011. BASE DE CÁLCULO. EXCLUSÃO DOS VALORES ATINENTES AO ISSQN, PIS E COFINS.
+Não tem o contribuinte o direito de excluir os valores atinentes ao ISSQN, ao PIS e à COFINS da base de cálculo da contribuição previdenciária sobre a receita bruta (CPRB).
+Passo a decidir.
+A questão jurídica referente à exclusão dos valores relativos ao PIS e à COFINS da base de cálculo da Contribuição Previdenciária sobre a Receita Bruta (CPRB) será enfrentada pelo Supremo Tribunal Federal, em virtude do reconhecimento da repercussão geral da matéria (RE n. 1.341.464, Tema n. 1.186).
+Encontrando-se o tema afetado à repercussão geral, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+A esse respeito, confiram-se os seguintes precedentes: EDcl no REsp 1.456.224/MS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 05/02/2016; AgRg no AgRg no AREsp 552.103/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 28/11/2014; e AgRg no AREsp 153.829/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012. Nesse mesmo sentido, as seguintes decisões monocráticas: REsp 1.588.019/GO, Rel. Min. Regina Helena Costa, DJe 17/3/2016; REsp 1.533.443/RS, Rel. Min. Benedito Gonçalves, DJe 17/3/2016.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso deverá ser encaminhado para esta Corte, para serem analisadas as questões jurídicas neles suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a sua respectiva baixa, para que, após a publicação do acórdão proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015, negue seguimento ao recurso, caso a decisão recorrida coincida com a orientação emanada pelo Tribunal Superior ou proceda ao juízo de retratação, na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
