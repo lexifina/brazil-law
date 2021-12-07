@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto peloMINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA, assim ementado (e-STJ, fls. 147-155):
+"Agravo em execução. Falta grave. Insurgência defensiva. Decisão de reconhecimento de falta disciplinar, consistente em fuga de presídio com danos ao patrimônio. Ausência de oitiva judicial do reeducando, medida imprescindível no caso de regressão de regime prisional. Inteligência do art.118, § 2º, da LEP. Nulidade reconhecida de ofício. Agravo provido para anular a decisão".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 59 e 118, § 2º da Lei de Execuções Penais; 563, 564 e 572, II do Código de Processo Penal. Aduz para tanto, em síntese, que a ausência de oitiva do reeducando em juízo para regressão de regime quando configurada a prática de falta grave não enseja eventualnulidade, uma vez que respeitado o contraditório e ampla defesa no procedimento administrativo prévio.
+Sem contrarrazões (e-STJ, fl. 223), o recurso especial foi admitido na origem (e-STJ, fls. 226-228).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo parcial conhecimento do recurso especial e, nessa extensão, pelo não provimento (e-STJ, fls. 237-240).
+É o relatório.
+Decido.
+Sobre a controvérsia em análise - regressão de regime, o Tribunal a quo se manifestou nos seguintes termos:
+"De qualquer modo, ainda que afastada tal alegação preliminar, verifico, de ofício, hipótese de nulidade processual em razão da ausência de oitiva judicial do agravante.
+No caso em exame, o reeducando, ouvido apenas em sede administrativa (fl. 20), foi regredido ao regime prisional fechado por ter supostamente cometido falta disciplinar de natureza grave, consistente em desobediência a ordem emanada por servidor, conforme acima mencionado.
+Contudo, o art. 118 da Lei de ExecuçãoPenal é categórico ao disciplinar, em seu § 2º, que na regressão pelo cometimento de falta grave "deverá ser ouvido previamente o condenado".
+Um dos princípios basilares regentes da Execução Penal é da jurisdicionalidade, segundo o qual toda e qualquer decisão é de competência judicial, ficando restrita à apreciação por juiz togado, cabendo à Administração tão somente sua execução.
+Pensar o contrário é admitir verdadeira inversão de competências, desrespeitando, inclusive, a divisão dos poderes. Nesse sentido, vimos entendendo:
+ .. .
+Com efeito, sendo o procedimento de cunho jurisdicional, fundamental pautar-se no contraditório e na ampla defesa, visto que sua decisão implicará em possível regressão de regime, restando imprescindível a prévia oitiva do réu, pelo juiz, respeitadas a autodefesa e a defesa técnica, antes da imposição de eventual gravame. Aqui, novamente, temos entendido:
+ .. .
+Na mesma esteira, oportuno colacionar decisão proferida pelo Superior Tribunal de Justiça, amoldável ao presente caso apenas para demonstrar a relevância da ampla defesa na apuração de falta grave, nos casos de regressão definitiva de regime prisional, in verbis:
+ .. .
+De tal sorte, verifica-se que a decisão agravada está em desacordo com preceituado pelo art. 118, § 2º, da Lei de Execução Penal, porquanto determinou a regressão do sentenciado ao regime prisional fechado sem, antes, realizar a oitiva de justificação do agravante.
+Em suma, o agravante jamais teve a oportunidade de prestar esclarecimentos em juízo, ou seja, o magistrado a quo reconheceu a prática de falta grave, decretou a perda dos dias remidos e regrediu o sentenciado, sem nunca o ter ouvido, ensejando nulidade absoluta da decisão proferida.
+Desse modo, por tais motivos, outra solução não resta senão a declaração de nulidade da decisão guerreada" (e-STJ, fls. 150-154).
+Como se vê, o entendimento adotado pelo Tribunal de origem se alinha à diretriz desta Corte Superior de que nos "termos do art. 118, § 2º, da Lei de Execução Penal, é imprescindível, para a regressão definitiva de regime carcerário, a prévia oitiva do apenado em juízo, sob pena de nulidade"(HC 407.808/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/10/2017, DJe 13/10/2017). Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO COLEGIADO. INOCORRÊNCIA. DECISÃO MONOCRÁTICA PROFERIDA NOS TERMOS LEGAIS. POSSIBILIDADE DE REAPRECIAÇÃO PELO ÓRGÃO COLEGIADO. EXECUÇÃO PENAL. FALTA GRAVE. APURAÇÃO MEDIANTE REGULAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. AUSÊNCIA DE OITIVA JUDICIAL DO SENTENCIADO. REGRESSÃO DE REGIME PRISIONAL. VIOLAÇÃO AO ART. 118, § 2º, DA LEP. AGRAVO REGIMENTAL NÃO PROVIDO.
+ .. .
+3. Nas hipóteses em que o reconhecimento da falta grave acarreta a regressão definitiva do regime prisional, contudo, é firme o entendimento deste Superior Tribunal de Justiça no sentido de que o § 2º do art. 118 da LEP exige a oitiva prévia do apenado pelo Juízo da Execução. Precedentes.
+4. In casu, em que pese o apenado tenha sido ouvido no procedimento disciplinar, na fase administrativa, na presença da defesa técnica (e-STJ fl. 262), imprescindível a realização de audiência de justificação, porquanto determinada a regressão definitiva de regime prisional, contexto que ensejou a cassação da decisão que homologou da falta grave e a determinação de que outra seja proferida, com observância da prévia oitiva judicial do sentenciado, o que não merece reparos.
+5. Agravo regimental não provido".
+(AgRg no REsp 1928971/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/08/2021, DJe 10/08/2021)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE.REGRESSÃO DE REGIME. AUSÊNCIA DE OITIVA JUDICIAL DO APENADO.CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. Esta Corte já se manifestou no sentido de que, "nos termos do art. 118, § 2º, da Lei de Execução Penal, é imprescindível, para a regressão definitiva de regime carcerário, a prévia oitiva do apenado em juízo, sob pena de nulidade" (HC n. 407.808/SP, relatora a Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 13/10/2017).
+2. Agravo regimental a que se nega provimento".
+(AgRg no HC 651.089/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO,SEXTA TURMA, julgado em 24/08/2021, DJe 31/08/2021)
+Por fim, não há como conhecer do apelo nobre com base na alínea "c", porquanto a aventada divergência jurisprudencial não foi demonstrada nos termos exigidos pela legislação processual de regência. Isso porqueas teses jurídicas manifestadas no acórdão recorrido e no paradigma são divergentes, sobretudo pelo fato de que a dispensa deouvida do reeducando ocorre apenas nos casos de homologação de falta grave precedida de regular procedimento administrativo, no qual foi assegurado o contraditório e ampla defesa, com a participação de defesa técnica, o que não se alinha à hipótese dos autos, uma vez que a decisão do juízo da execução não se limitou a homologar a falta grave, tendo sidodeterminada a regressão definitiva de regime prisional.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do Regimento Interno do STJ,conheço em partedo recurso especial e, nesta extensão,nego-lhe provimento.
+Publique-se. Intimem-se.
