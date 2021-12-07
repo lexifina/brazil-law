@@ -1,0 +1,39 @@
+DECISÃO
+LUANA FILICIO (LUANA) ajuizou ação de usucapiãoextraordinário em face de ELIETE CURI DE MORAES FORJAZ, GARCIA NEVES DE MORAES FORJAZ NETO, EMERSON JAMIL OSTERNACK, SILVANA SCARANO CURI, ELIANE OSTERNACK CURI E ARGEU LAGE FILHO (ELIETE e outros) requerendo a aquisição da posse porque reside no imóvel pelo prazo necessário, sem qualquer interrupção.
+Em primeira instância, o julgador homologou acordo firmado entre as partes e extinguiu o feito com resolução do mérito.
+A apelação interposta por ELIETE e outrosfoi providapelo Tribunal de Justiça do Paraná, estando o acórdão assim ementado:
+DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO. ACORDO REALIZADO ENTRE AS PARTES. IMPOSSIBILIDADE DE HOMOLOGAÇÃO JUDICIAL PARA A FINALIDADE DE DECLARAR A AQUISIÇÃO ORIGINÁRIA DA PROPRIEDADE. AÇÃO QUE EXIGE O PREENCHIMENTO DO REQUISITOS LEGAIS REFERENTE À PRESCRIÇÃO AQUISITIVA. CARÁTER ERGA OMNES (INTERESSE SOCIAL). RELAÇÃO JURÍDICA QUE OSTENTA CARÁTER DIVERSO. CONTRAPRESTAÇÃO. AJUSTE DE PAGAMENTO DE PREÇOE GRAVAME SOBRE O BEM IMÓVEL QUE DESNATURA A NATUREZA JURÍDICA DE AQUISIÇÃO ORIGINÁRIA DA PROPRIEDADEPELA USUCAPIÃO. NULIDADE DA DECISÃO JUDICIAL. NECESSIDADE DE DECISÃO JUDICIAL DECLARATÓRIA.
+1. A usucapião, conforme se extrai da atual normativa civil, é modo originário de aquisição da propriedade e de outros direitos reais suscetíveis de exercício continuado pela posse prolongada no tempo, acompanhada, então, de certos requisitos exigidos pela lei.
+2. O entendimento jurisprudencial deste egrégio tribunal de Justiça em casos análogos aloca-se no seguinte sentido: "Reconhecer a posse ad usucapionem é um dos modos de regularização da propriedade perante a sociedade, portanto, o autor da usucapião é sempre o atual possuidor, porém, o polo passivo não é formadoexclusivamente pelo detentor do direito real, nele também figurando os confrontantes, proprietários ou possuidores sem título e, em última análise, a sociedade, eis que a ação de usucapião é erga omnes, ou seja, todos são réus, havendo evidente carta de interesse social. À míngua de comprovação dos requisitos legais para configurar a prescrição aquisitiva da propriedade, não há como homologar a transação firmada pelo autor e o titular do registro dominial para julgar procedente a pretensão de aquisição originária da propriedade, todavia, nada obsta que o acordo extrajudicial seja levado à registro junto ao Cartório de Registro de Imóveis como título de transmissão de propriedade, importando na perda do interesse de agir na presente demanda, como reconhecido na decisão agravada. Recurso não provido.(TJPR -18ª Câm. Cível -Apel. Cível n. 0065364-34.2019.8.16.0000 -Campo Largo -Rel.: Des. Péricles Bellusci de Batista Pereira -Unân. -j. 16.03.2020)
+3. Além da existência de entendimentos opostos em relação a possibilidade de se reconhecer a prescrição aquisitiva mediante transação, a condução dos termos do contrato firmado entre os Demandantes não se coaduna e, até mesmo, desnatura a natureza jurídica da ação de usucapião proposta.
+4. Dos Autos, extrai-se circunstâncias fáticas e procedimentais que, então, obstam a homologação do acordo firmado pelos Litigantes, o que, então, legitima a nulidade da decisão judicial homologatória e a recondução do trâmite procedimental.
+5. Recurso de apelação cível conhecido, e, no mérito, provido.(e-STJ, fls. 668/669).
+Inconformada, LUANA manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação doart. 841 do CC, sob os fundamentos de que(1) é possível a transação sobre direitos patrimoniais de caráter privado, não sendo viável afastara possibilidade de homologação do acordo realizado entre as partes em que foi reconhecida a prescrição aquisitiva sobre o imóvel usucapiendo, mencionando julgados em apoio a sua tese(e-STJ, fls. 702/712).
+Foram apresentadas as contrarrazões (e-STJ, fls. 726/741).
+O apelo nobre não foi admitido em virtude de (1) incidência da Súmula nº 7 do STJ(e-STJ, fls. 742/744).
+Nas razões do presente agravo em recurso especial, LUANA afirmou que (1)não há necessidade de análise de provas(e-STJ, fls. 760/773).
+Foi apresentada contraminuta (e-STJ, fls. 787/800).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+CONHEÇO do agravo de LUANA e passo ao julgamento do recurso especial.
+(1) Da transação em usucapião
+LUANA afirma queé possível a transação sobre direitos patrimoniais de caráter privado, não sendo viável afastara possibilidade de homologação do acordo realizado entre as partes em que foi reconhecida a prescrição aquisitiva sobre o imóvel usucapiendo, mencionando julgados em apoio a sua tese.
+O tema foi assim examinado no acórdão:
+Além da divergência em relação a possibilidade de reconhecer a aquisição originária da propriedade mediante acordo, as peculiaridades do caso concreto obstam, também, a homologação do acordo nos moldes propostos.
+Dos Autos se extrai, inicialmente, que os Apelantes consignaram a desistência dos termos do acordo (seq. 310.1), antes da decisão judicial homologatória.
+Os Apelantes sustentaram a inviabilidade do reconhecimento da prescrição aquisitiva por transação, a impossibilidade jurídica do cumprimento do acordo (transferência de propriedade pela via escolhida), além do fato de que a Apelada, preteritamente, já descumpria o pacto estabelecido pelas Partes(e-STJ,fl. 678).
+Assim, da análise das razões do presente recurso verifica-se que o referido fundamento, relacionado à desistência anterior sobre o acordo,não foi impugnado, o que atrai a incidência da Súmula nº283 do STF, por analogia.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. BENS PERTENCENTES AO DEVEDOR. ATIVIDADE PROFISSIONAL. UTILIDADE COMPROVADA. IMPENHORABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS MENCIONADOS NO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284/STF. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência do STJ, "a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido  ..  denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF" (AgInt no AREsp 1.500.950/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 05/11/2019, DJe 12/11/2019).
+2. No caso em exame, a parte recorrente não rebateu o fundamento do acórdão recorrido de que a concessão da garantia da impenhorabilidade dos bens do devedor requer apenas a comprovação de sua utilidade.
+3. Estando as conclusões do acórdão recorrido alicerçadas em elementos de fatos e provas existentes nos autos, descabe ao Superior Tribunal de Justiça rever o posicionamento adotado, pois vedado pela Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1798630/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/05/2021, DJe 13/05/2021)
+O recurso, portanto, não pode ser conhecido quanto ao ponto.
+Nessas condições, CONHEÇOdo agravo para NÃOCONHECERdo recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC.AÇÃO DE USUCAPIÃO. TRANSAÇÃO. DESISTÊNCIA.AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS MENCIONADOS NO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
