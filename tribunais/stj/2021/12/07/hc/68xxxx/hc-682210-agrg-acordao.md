@@ -1,0 +1,33 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PEDIDO DE FIXAÇÃO DO REDUTOR DO TRÁFICO PRIVILEGIADO E ALTERAÇÃO DO REGIME PRISIONAL. TESES JÁ ANALISADAS NO ARESP 1.322.916/SP. REITERAÇÃO DE PEDIDO. RECURSO NÃO PROVIDO.
+1. Em consulta na base de dados processuais desta Corte, verifica-se que este writ traz pedido idêntico ao deduzido e já apreciado por este Tribunal de Justiça, no julgamento do AREsp 1.322.916/SP.
+2. Na oportunidade, destacou-se que "a instância antecedente negou aos recorrentes o benefício legal, pois foram "surpreendidos com quantidade expressiva de entorpecente, de natureza diferenciada e alto poder lesivo (aproximadamente 3 kg de cocaína, na forma de crack), além da apreensão de balança de precisão e faca contendo resquícios da aludida droga". Assim, assentado pela instância antecedente, soberana na análise dos fatos, que o réu se dedica ao tráfico de entorpecentes, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+3. Ademais, ressaltou-se que, "embora os recorrentes sejam primários e as penas tenham sido estabelecidas em patamar superior a quatro e inferior a oito anos de reclusão, revela-se correta a imposição do regime inicial fechado, dada a valoração negativa da quantidade e da natureza da droga, na primeira fase da dosimetria, nos termos do art. 33, § 2º, "a", e § 3º, c/c o art. 59, ambos do Código Penal."
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de agravo regimental interposto por WILLIAN MARTINELI DOS REIS, de decisão na qual não conheci do habeas corpus (e-STJ, fls. 158-159).
+Alega o agravante, em suma, que "Ainda que tais questões tenham sido, de fato, trazidas no feito precedente (AREsp 1.322.916/SP), a ausência de decisão colegiada a respeito da matéria, como já dito, inviabiliza uma prestação jurisdicional condizente com os direitos e garantias fundamentais, sendo imperioso a análise do tema pela 5ª Turma do Superior Tribunal de Justiça." (e-STJ, fl. 163)
+Aduz que "No tocante à ilegalidade aduzida na presente impetração (vedação à aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas, bem como a fixação de regime mais gravoso do que o permitido), a Jurisprudência deste Superior Tribunal de Justiça, bem como do Supremo Tribunal Federal é uníssona em reconhecer a possibilidade de concessão da ordem ex officio para sanar a ilegalidade trazida ao conhecimento de Vossas Excelências, inclusive com entendimento sumulado" (e-STJ, fl. 163)
+Requer, portanto, a reconsideração da decisão agravada ou a submissão do feito à apreciação da Turma.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PEDIDO DE FIXAÇÃO DO REDUTOR DO TRÁFICO PRIVILEGIADO E ALTERAÇÃO DO REGIME PRISIONAL. TESES JÁ ANALISADAS NO ARESP 1.322.916/SP. REITERAÇÃO DE PEDIDO. RECURSO NÃO PROVIDO.
+1. Em consulta na base de dados processuais desta Corte, verifica-se que este writ traz pedido idêntico ao deduzido e já apreciado por este Tribunal de Justiça, no julgamento do AREsp 1.322.916/SP.
+2. Na oportunidade, destacou-se que "a instância antecedente negou aos recorrentes o benefício legal, pois foram "surpreendidos com quantidade expressiva de entorpecente, de natureza diferenciada e alto poder lesivo (aproximadamente 3 kg de cocaína, na forma de crack), além da apreensão de balança de precisão e faca contendo resquícios da aludida droga". Assim, assentado pela instância antecedente, soberana na análise dos fatos, que o réu se dedica ao tráfico de entorpecentes, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+3. Ademais, ressaltou-se que, "embora os recorrentes sejam primários e as penas tenham sido estabelecidas em patamar superior a quatro e inferior a oito anos de reclusão, revela-se correta a imposição do regime inicial fechado, dada a valoração negativa da quantidade e da natureza da droga, na primeira fase da dosimetria, nos termos do art. 33, § 2º, "a", e § 3º, c/c o art. 59, ambos do Código Penal."
+4. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (RELATOR):
+A pretensão recursal não merece êxito, uma vez que o agravante não apresentou fundamentos capazes de modificar o entendimento anteriormente adotado.
+Dessa forma, mantenho a decisão agravada a seguir transcrita, por seus próprios fundamentos:
+"Em consulta na base de dados desta Corte, verifica-se que opedidode reconhecimento do redutor do tráfico privilegiado e alteração do regime inicial de cumprimento da pena já foramobjeto de análise no julgamento do AREsp 1.322.916/SP. Logo, este habeas corpus trata-se de mera reiteração de outrofeito, razão pela qual não merece conhecimento.Confira-se:
+ .. ." (e-STJ, fls. 158-159)
+Com efeito, este recurso traz pedido idêntico ao deduzido e já apreciado por este Tribunal de Justiça, no julgamento do AREsp 1.322.916/SP, sendo que, na oportunidade, destacou-se que, "a instância antecedente negou aos recorrentes o benefício legal, pois foram "surpreendidos com quantidade expressiva de entorpecente, de natureza diferenciada e alto poder lesivo (aproximadamente 3 kg de cocaína, na forma de crack), além da apreensão de balança de precisão e faca contendo resquícios da aludida droga".
+Assim, assentado pela instância antecedente, soberana na análise dos fatos, que o réu se dedica ao tráfico de entorpecentes, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+Ademais, ressaltou-se que, "embora os recorrentes sejam primários e as penas tenham sido estabelecidas em patamar superior a quatro e inferior a oito anos de reclusão, revela-se correta a imposição do regime inicial fechado, dada a valoração negativa da quantidade e da natureza da droga, na primeira fase da dosimetria, nos termos do art. 33, § 2º, "a", e § 3º, c/c o art. 59, ambos do Código Penal."
+Portanto, houve o esgotamento desta Corte para o conhecimento do tema.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
