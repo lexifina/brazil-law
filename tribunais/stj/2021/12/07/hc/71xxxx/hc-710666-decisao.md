@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Rodrigo do Nascimento Silva, apontando-se como autoridade coatora a Décima Primeira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, ao denegar a ordem postulada no HC n. 2209868-52.2021.8.26.0000, manteve a prisão preventiva decretada pelo Juiz de Direito da 2ª Vara Criminal da comarca de Suzano/SP (Autos n. 1506857-18.2020.8.26.0606).
+Colhe-se dos autos que o paciente foi preso temporariamente, custódia convertida, em seguida, pelo Magistrado de primeiro grau, em preventiva, tendo sido, ainda, denunciado e posteriormente pronunciado pela prática, em tese, do crime previsto no art. 121, § 2º, III, IV e VI, e § 2º-A, I, c/c o art. 14, II, do Código Penal (fls. 28/33).
+No presente writ, alega a parte impetrante constrangimento ilegal, decorrente da ilegalidade da manutenção da prisão preventiva do paciente, que não oferece nenhum tipo de risco a ordem pública (fl. 11).
+Sustenta a ausência dos requisitos para o decreto de prisão, já que o paciente, até o presente momento, nunca ostentou nenhum tipo de comportamento a fim de minar, ou dificultar a instrução criminal, possui trabalho, endereço conhecido e jamais se furtarão a se defenderem da acusação que lhe é imputada, bem como a ausência de justa causa para a pronúncia (fls. 12/17).
+Requer, em liminar e no mérito, a imediata expedição de alvará de soltura, para que o paciente possa responder ao seu processo em liberdade, e o trancamento da ação Penal, com base nas alegações da suposta Vítima Sra. Regiane (fl. 19).
+É o relatório.
+Não obstante a argumentação desenvolvida pela defesa, a leitura das peças apresentadas revela que a parte impetrante deixa de juntar aos autos a cópia da decisão, proferida pelo Juiz singular, que decretou, originariamente, a prisão preventiva do paciente, o que torna inviável não só a compreensão exata da controvérsia, mas também o exame da plausibilidade do direito alegado, bem como de eventual constrangimento ilegal que poderia justificar, excepcionalmente, o seguimento da impetração.
+A jurisprudência desta Corte adverte que é cogente ao impetrante a apresentação de elementos documentais suficientes para permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Veja-se a PET no HC n. 583.103/PB, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/6/2020 e o AgRg no HC n. 572.683/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/5/2020.
+Por tais razões, com fulcro no art. 210 do RISTJ, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PENAL. PRISÃO PREVENTIVA. ART. 121, § 2º, III, IV E VI, e § 2º-A, I, C/C O ART. 14, II, DO CP. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. INSTRUÇÃO DEFICIENTE. FALTA DE CÓPIA DE PEÇA ESSENCIAL. ÔNUS DA DEFESA.
+Writ não conhecido.
