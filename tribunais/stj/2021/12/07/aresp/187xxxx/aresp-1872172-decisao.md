@@ -1,0 +1,40 @@
+DECISÃO
+CARLOS ANTONIO DIAS SILVA REIS e MONICA ZENDER ETCHENIQUE REIS (CARLOS ANTONIO e outra) ajuizaram ação declaratória em face de BANCO SANTANDER (SANTANDER), alegando, em síntese,que em 22/3/2018 contrataram mútuo no valor de R$ 398.000,00. Ao empréstimo, deram como garantia, por meio de alienação fiduciária, os imóveis matriculados sob o nº 34.825 e 34.826. Em razão da inadimplência de 3 (três) parcelas do empréstimo foram notificados à purgação da mora de R$ 8.733,26, sob pena de consolidação da propriedade dos imóveis alienados. Inadimplentes, alegam que tomaram ciência, por agência estranha à relação contratual de mútuo, da realização, pela instituição bancária, de leilão dos bens imóveis dados em garantia ao empréstimo.
+Em primeira instância o pedido foi julgado improcedente (e-STJ, fls. 253/258).
+Interposta apelação por CARLOS ANTONIO e outra, o Tribunal de Justiça de São Paulo negou provimento ao recurso, nos termos do acórdão relatado pelo Des. DIMAS RUBENS FONSECA, assim ementado:
+ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL - LEI Nº 9.514/97. AÇÃO DECLARATÓRIA. Pronunciamento que contém os requisitos exigidos no art. 489 do CPC, obediente ao preceito contido no inciso IX do art. 93 da CF.
+Apelantes que assinaram o contrato de financiamento e ofereceram os imóveis em garantia fiduciária, sem qualquer ressalva, não podendo isentar-se da obrigação livremente assumida, sob pena de se caracterizar o axioma venire contra factum proprium non potest. Notificações enviadas aos devedores no procedimento de consolidação da propriedade e antes das datas dos leilões, que se apresentam válidas. Compreensão dos arts. 26 e 27 da Lei nº 9.514/97. Contrato firmado sob a égide da Lei nº 13.465/2017 que alterou a Lei 9.514/1997, cujo art. 27, §2º- B, não mais contempla a possibilidade de purgação da mora após a averbação da consolidação da propriedade em nome do credor. Orientação firmada no julgamento do Incidente de Resolução de Demandas Repetitivas (IRDR) nº 2166423-86.2018.8.26.0000 (tema 26). Recurso desprovido (e-STJ, fl. 332).
+Os embargos de declaração opostos por CARLOS ANTONIO e outra foram rejeitados (e-STJ, fls. 413/416).
+Irresignados,CARLOS ANTONIO e outra interpuseram recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação doart: 1.022 do CPC/15, sob o entendimento de queo acórdão impugnado foi omisso a respeito do valor atualizado da dívida, o que é necessário para o cumprimento integral do art. 27 da Lei n. 9.514/97.
+Não foram apresentadas contrarrazões (e-STJ, fl. 435).
+O apelo nobre não foi admitido na origem, ante a inexistência de violação ao art. 1.022 do CPC/15 (e-STJ, fls. 436/437).
+Dessa decisão, CARLOS ANTONIO e outra manejaram agravo em recurso especial, no qual refutou o óbice de prelibação (e-STJ, fls. 440/447).
+Contraminuta não foi apresentada (e-STJ, fl. 540).
+É o relatório.
+DECIDO.
+O presente recurso não merece conhecimento, devendo prevalecer o acórdão relatado pelo Des. DIMAS RUBENS FONSECA.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação doart. 1022 do NCPC
+CARLOS ANTONIO e outra,alegando a violação do art: 1.022 do CPC/15, sob o entendimento de queo acórdão impugnado foi omisso a respeito do valor atualizado da dívida, o que é necessário para o cumprimento integral do art. 27 da Lei n. 9.514/97.
+A propósito do tema, o acórdão dos aclaratórios expressamente consignou:
+A redação do art. 1022 do CPC não admite dúvidas quanto ao seu desiderato e alcance, tendo hipótese de incidência restrita, visando o acertamento de pontos que merecem uma explicitação maior do que a realizada no julgado. Isso não implica, com certeza, admitir uma nova discussão do thema decidendum na sua inteireza, sob pena de emprestar-lhe efeito infringente, o que não é possível.
+Na hipótese, o V. Acórdão consignou que foram válidas as notificações enviadas aos devedores fiduciantes, ora embargantes, no procedimento de consolidação da propriedade em nome do credor fiduciário, bem como antes das datas dos leilões designados, sendo certo, ainda, que não há mais possibilidade de purgação da mora após a averbação da consolidação da propriedade em nome do credor, nos termos da Lei nº 13.465/2017 que alterou a Lei 9.514/1997, conforme orientação firmada no julgamento do Incidente de Resolução de Demandas Repetitivas(IRDR) nº 2166423-86.2018.8.26.0000 (tema 26).
+Ainda, assinalou o julgado que é impertinente a discussão sobre a alegada desproporção entre o valor dos bens dados em garantia e o valor da divida contratual, devendo eventual saldo em favor dos devedores ser pleiteado em sede própria, uma vez que o pedido formulado na demanda se limitou à suspensão dos leilões para permitir a purgação da mora, sendo o expendido suficiente para justificar o entendimento adotado.
+Neste sentido, os embargos possuem caráter infringente, com intuito próprio para modificação do julgado (e-STJ, fls. 414/415, sem destaques no original).
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.Precedente: AgRg no AREsp 529.018/MS, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 1º/9/2014.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. RESPONSABILIDADE PELOS SERVIÇOS PRESTADOS. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. 3. PRINCÍPIOS DA CONGRUÊNCIA OU DA ADSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. A revisão das conclusões estaduais (quanto à responsabilidade pelos serviços contratados) demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7 do STJ.
+3. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.487.975/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 17/02/2020, DJe 19/02/2020)
+Afasta-se, portanto, a alegada violação.
+Nessas condições, CONHEÇO do agravo, para NÃO CONHECER dorecurso especial.
+Majoro em 5% os honorários advocatícios fixados em desfavor de CARLOS ANTONIO e outra, nos termos do art. 85, § 2º, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DECLARATÓRIA.VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO OCORRÊNCIA. AGRAVO CONHECIDO.RECURSO ESPECIAL NÃO CONHECIDO.
