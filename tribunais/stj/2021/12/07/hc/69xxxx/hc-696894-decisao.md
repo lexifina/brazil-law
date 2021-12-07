@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUAN SANTOS DE PAULAem face da decisão proferida às e-STJ fls. 334/343.
+Em suas razões(e-STJ fls. 345/348), o embargante alega que a decisão embargada foi omissa ao não examinar a alegada insuficiência de provas acerca dos fatos que ensejaram a negativação da vetorial conduta social, no exame das circunstâncias judiciais. Reitera que a negativação da conduta social baseou-se em testemunho de ouvir dizer dos policiais, não corroborados por outras provas.
+Ao final, pede o acolhimento dos presentes embargos, com efeitos infringentes, para que seja afastado o desvalor da vetorial conduta social, no exame da pena-base.
+É o relatório. Decido.
+É ressabido que os embargos de declaração são cabíveis quando o provimento jurisdicional padece de ambiguidade, obscuridade, contradição ou omissão, nos ditames do art. 619 do Código de Processo Penal, bem como para sanar eventual erro material.
+No caso, inexiste omissão, contradição, obscuridade ou ambiguidadea ser dirimida, tendo em vista que a insurgência relativa à insuficiência de provas sobre os fatos utilizados para negativar a conduta social foi efetivamente examinada, nos termos seguintes (e-STJ fls. 339/341- grifei):
+Extrai-se da transcriçãosupra que apena-base do paciente foi exasperadacom fulcro no desvalordas vetoriais culpabilidade, personalidade, conduta sociale expressiva quantidade das drogas apreendidas.Desconstituir as premissas fáticas declinadas na origem para justificar o desvalor das vetoriais impugnadas demandaria o reexame do conjunto fático-probatório, o que é inviável na via estreita do habeas corpus.
+Entretanto,é pacífica ajurisprudência desta Corte no sentido de quea prática deatoinfracionalnãojustifica a exasperação da pena base, por não configurar infração penal,não podendo ser valorada negativamente na apuraçãodavidapregressadoréu atítulodeantecedentes, personalidade ou conduta social(HC n. 354.300/SC, RelatorMinistro RIBEIRO DANTAS, Quinta Turma,DJe 9/11/2016).A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO TENTADO. DOSIMETRIA. ATOS INFRACIONAIS. VALORAÇÃO NEGATIVA PARA EXASPERAR A PENA-BASE. IMPOSSIBILIDADE. REGIME INICIAL DE CUMPRIMENTO DA PENA FECHADO COM BASE NA GRAVIDADE ABSTRATA DO DELITO. DESCABIMENTO. PENA-BASE NO MÍNIMO LEGAL. RÉUPRIMÁRIO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA INFERIOR A 4ANOS. REGIME ABERTO. ADEQUADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - A jurisprudência desta Corte Superior é pacífica no sentido de que atos infracionais não podem ser considerados maus antecedentespara a elevação da pena-base, tampouco podem ser utilizados paracaracterizar personalidade voltada para a pratica de crimes ou máconduta social.
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício para afastar a análise negativa da personalidade, mas sem reflexo na pena finaldo paciente, e fixar o regime inicial aberto para o cumprimento dapena, mantidos os demais termos da condenação(HC 499.987/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 4/6/2019).
+Além disso, o perfil truculento e violento do paciente com as pessoas da comunidade em que vive somente possui aptidão para negativar a vetorialconduta social, o que torna imperativo o decote do desvalor atribuído às vetoriaisculpabilidadeepersonalidade.Sobre o tema:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES.DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. CONDUTA SOCIAL E QUANTIDADE DE DROGAS (1,700KG DE OXI E 63,8G DE COCAÍNA). MINORANTE. MANUTENÇÃO DA FRAÇÃO DE REDUÇÃO EM 1/6. PROPORCIONALIDADE. REGIME FECHADO.
+PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS.INVIABILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 44 DO CÓDIGO PENAL.
+ ..
+2. "O conceito de conduta social tem por fim examinar a interação do agente em seu meio, ante familiares, amigos e vizinhos, razão pela qual a motivação referente à ausência de trabalho lícito, por si só, não justifica a valoração negativa da circunstância referente à conduta social do sentenciado" (HC n. 146.041/MG, relator Ministro NEFI CORDEIRO, Sexta Turma, DJe 26/8/2015). No caso em apreço, foi devidamente considerada como negativa a conduta social do réu, que era conhecido no bairro da Pranchinha por se envolver em atos irregulares e ilícitos, além de ser considerado o maior traficante da cidade e supostamente oferecer propina aos policiais.
+ ..
+7. Agravo regimental a que se nega provimento(AgRg no HC 463.100/PA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/5/2020, DJe 3/6/2020).
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO DO MINISTÉRIO PÚBLICO FEDERAL. TRÁFICO DE DROGAS. DOSIMETRIA.PENA-BASE. FIXAÇÃO ACIMA DO MÍNIMO LEGAL. CONDUTA SOCIAL.FUNDAMENTAÇÃO INIDÔNEA. MODO DE VIDA NO CRIME. DECISÃO MANTIDA.INSURGÊNCIA DESPROVIDA.
+ ..
+3. Nos termos da jurisprudência desta Corte Superior de Justiça, "a conduta social constitui o comportamento do réu na comunidade, ou seja, entre a família, parentes e vizinhos, não se vinculando ao próprio fato criminoso, mas à inserção do agente em seu meio social, não se confundindo com seu modo de vida no crime" (REsp nº 1.405.989/SP, Ministro Rel. SEBASTIÃO REIS JÚNIOR, Ministro Rel. p/ acórdão NEFI CORDEIRO, Sexta Turma, DJe 23/9/2015).
+ ..
+6. Agravo regimental desprovido(AgRg no AgRg no HC 517.906/TO, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 15/10/2019, DJe 23/10/2019).
+Nesse contexto, subsistindo apenas aconduta sociale aexpressiva quantidade das drogas apreendidaspara fundamentar a exasperação da pena-base, reduzo o incremento operado na primeira fase da dosimetria para apenas 1/3 sobre o patamar mínimo legal.
+Com efeito, examinar as provas produzidas na instrução para concluir pela insuficiência de provas no sentido de que o paciente era truculento e violento com as pessoas da comunidade em que vive, efetivamente, demandaria o exame do conjunto fático-probatório, providência inviável na via estreita do writ, tal como afirmado na decisão embargada.
+Portanto, os presentes embargos declaratórios não comportam acolhimento, na medida em que a decisão embargadanão incorreu em nenhum vício que demande integração.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
