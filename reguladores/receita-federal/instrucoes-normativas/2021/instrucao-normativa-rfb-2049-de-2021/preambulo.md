@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2049, de 6 de dezembro de 2021
+Altera a Instrução Normativa RFB nº 1.850, de 29 de novembro de 2018, que dispõe sobre o despacho aduaneiro de exportação em consignação de pedras preciosas ou semipreciosas e de joias.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 595 do Decreto nº 6.759, de 5 de fevereiro de 2009, e na Instrução Normativa RFB nº 1.702, de 21 de março de 2017, resolve:
