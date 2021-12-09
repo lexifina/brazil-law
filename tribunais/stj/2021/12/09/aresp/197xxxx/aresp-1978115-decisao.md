@@ -1,0 +1,37 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por ESPLANADA PARTICIPAÇÕES LTDA contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fl.2356):
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. EXTINÇÃO SEM JULGAMENTO DE MÉRITO. ART. 485, INCISO III DO CPC. ABANDONO DA CAUSA. NÃO CONFIGURADO. AUSÊNCIA DE REQUERIMENTO DOS RÉUS. SÚMULA 240 DO STJ. RECURSO CONHECIDO E PROVIDO. SENTENÇA CASSADA.
+1. Uma vez perfectibilizada a citação das partes, não pode o juiz extinguir o processo de ofício, sob o fundamento de abandono da causa, uma vez que tal providência depende de requerimento do réu, conforme determina o artigo 485, § 6º do CPC e a Súmula 240 do STJ. Precedentes.
+2. In casu, a relação processual já está devidamente estabelecida e, embora o autor tenha sido desidioso em atender os chamados judiciais, não houve o requerimento dos réus para a extinção do feito por abandono.
+3. Recurso conhecido e provido. Sentença cassada.
+Nas razões do recurso especial a parte alega, além de divergência jurisprudencial, ofensa ao artigo 485, III, do CPC. Sustenta, em síntese, a desnecessidade de requerimento do réu para extinção da liquidação de sentença, por abandono do autor, porquanto não houve contestação/resposta à liquidação (e-STJ, fl.2.412).
+Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade na origem, advindo, daí, o presente agravo (e-STJ, fls.2.452-2.465).
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+Isso porque, a jurisprudência desta Corte é pacífica no sentido de que é defeso ao juiz extinguir o processo de ofício, sendo imprescindível o requerimento prévio do réu.
+É o que prescreve o enunciado da Súmula 240/STJ: "A extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu".
+Nesse sentido, cita-se, ilustrativamente:
+RECURSO ESPECIAL. AÇÃO DE APURAÇÃO DE HAVERES DE QUOTAS DE SÓCIO EXCLUÍDO. EXTINÇÃO DE OFÍCIO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. ABANDONO DA CAUSA. ART. 267, INCISO III, § 1º, CPC/1973. REQUERIMENTO DA PARTE RÉ. NECESSIDADE. SÚMULA Nº 240/STJ. INTIMAÇÃO PESSOAL FRUSTRADA. ENDEREÇO ESTRANHO AOS AUTOS. INTIMAÇÃO POR EDITAL. NECESSIDADE.
+1. O recurso especial tem origem em ação de apuração de haveres de quotas de sócio excluído, que foi extinta sem resolução do mérito por abandono da causa pelo autor.
+2. Segundo a jurisprudência desta Corte, consolidada na Súmula nº 240/STJ, é defeso ao juiz extinguir o processo por abandono da causa de ofício, sendo imprescindível o requerimento do réu, pois, de um lado, não é dado presumir desinteresse da parte contrária já citada no prosseguimento e solução da causa e, de outro, ao autor não poderia ser imposta tal sanção sem o requerimento prévio da parte ré, pois sua inércia, nesse caso, não estaria suficientemente evidenciada.
+3. Vale ressaltar que a inteligência da Súmula nº 240/STJ foi incorporada ao Código de Processo Civil de 2015 que passou a prever, em seu artigo 485, § 6º, que, oferecida a contestação, a extinção do processo por abandono da causa pelo autor depende de requerimento do réu.
+4. A extinção do processo por abandono da causa pelo autor pressupõe a sua intimação pessoal que, se for frustrada por falta de endereço correto, deve se perfectibilizar por edital. Precedentes.
+5. Recurso especial provido.
+(REsp 1596446/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 20/06/2016)
+Com efeito, o Tribunal de origem, soberano na análise dos fatos e provas, e embasado no conjunto probatório carreado aos autos, reconheceu a "necessidade apresentação de requerimento da parte adversa para a extinção do feito por abandono, ao etendimento de que uma vez perfectibilizada a citação das partes, não pode o juiz extinguir o processo de ofício" (e-STJ, fl.2359). . Senão, vejamos:
+Nesse contexto, compulsando os autos, verifica-se que, de fato o autor, ora apelante, deixou de responder aos comandos judiciais. Contudo, a relação processual entre as partes já havia sido estabelecida, o que atrai a aplicação da legislação e do entendimento jurisprudencial acima descritos.
+Veja-se que a apelada Global Distribuidora de Combustíveis vem atuando desde o início da fase de conhecimento, com a apresentação de contestação (ID 23452519), buscando o afastamento da responsabilidade imputada pela apelante e reconhecida. A apelada também já interpôs diversos recursos nos autos e, mesmo após o início da fase de cumprimento de sentença (ID 23452730), vem apresentando inconformismo com os pedidos deduzidos contra si, como por exemplo, a petição de ID 23452734 entre tantas outras constantes dos autos.
+Em relação à apelada Esplanada Participações Ltda, verifica-se que foi incluída nos autos em razão do reconhecimento de sua responsabilidade solidária no cumprimento da obrigação exequenda, por meio da decisão de ID 23452747. A referida pessoa jurídica já foi citada e apresentou sua insurgência (ID 23452813), bem como interpôs recurso nos autos.
+Registre-se que este julgador não desconhece o entendimento jurisprudência alegado pela apelada Esplanada Participações em suas contrarrazões, no sentido de que não se aplica o entendimento da Súmula 240/STJ nos casos em que não resta aperfeiçoada a relação processual ou, mesmo quando intimada, a parte adversa não comparece aos autos para resistir à pretensão inicial. Contudo, este entendimento não é aplicável ao caso em análise, visto que, conforme já consignado, a relação processual entre as partes restou devidamente aperfeiçoada, com a apresentação de irresignação por ambas apeladas.
+Frise-se, a liquidação de sentença somente não prosseguiu, pois as partes interpuseram agravo de instrumento em face da decisão que converteu o cumprimento da obrigação em perdas e danos e determinou a liquidação para apuração do valor devido (ID 23452825). A referida decisão foi reformada por esta eg. Turma Cível no Agravo de Instrumento nº 0701704-11.2018.8.07.0000, contudo, ainda não houve trânsito em julgado, razão pela qual o Juízo a quo entendeu necessário aguardar o julgamento do referido recurso. Assim, não assiste razão à apelada Esplanada ao afirma que não apresentou contestação na liquidação, pois é certo que após a determinação do Juízo, houve a clara resistência de sua parte.
+Nesse contexto, verifica-se que, a Corte de origem, decidiu em harmonia com o entendimento do STJ, no sentido de que, se a relação processual entre as partes já restou aperfeiçoada, imprescindível o requerimento do réu para o reconhecimento do abandono da causa.
+Observe-se que, acolher a tese pleiteada pela agravante, de que não houve a citação, exigiria exceder os fundamentos do acórdão atacado e adentrar no contexto fático dos autos, procedimento vedado em recurso especial, a teor da Súmula nº 7/STJ.
+A pretensão recursal, portanto, não merece prosperar.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+Ante o exposto, conheço do agravo para NEGAR PROVIMENTO ao recurso especial.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/15. AÇÃO MONITÓRIA. EXTINÇÃO DO PROCESSO COM FUNDAMENTO NO ART. 485, III, DO CPC. ABANDONO DA CAUSA. RECONHECIMENTO DE OFÍCIO. IMPOSSIBILIDADE. IMPRESCINDIBILIDADE DE REQUERIMENTO DA PARTE RÉ. SÚMULA 240/STJ. ACÓRDÃO EM HARMONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
