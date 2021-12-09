@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por COMPANHIA DE SEGUROS PREVIDÊNCIA DO SUL fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Ação declaratória c/c indenizatória - Contrato bancário - Conta corrente e seguro - Pedido fundamentado no desconto de indevidas parcelas de contrato de seguro, que o autor não celebrou, em sua conta corrente - Aplicação do CDC às instituições financeiras - Súm. 297 do STJ - Ilegitimidade passiva não verificada - Oferta do contrato por meio de consórcio entre os réus e a seguradora - Incidência dos arts. 34, 18 e pg. ún. do art. 7º, todos do CDC - Banco corréu, ademais, que descurou seu dever enquanto depositário Responsabilidade objetiva - Incidência do pg. ún., do art. 927, do CC e da Súm. 479 do STJ - Falha do banco evidenciada - Incidência do art. 14 do CDC Inconformismo com relação ao valor da indenização por dano moral (R$ 2.000,00) - Montante fixado fora dos critérios da razoabilidade e proporcionalidade - Condenação majorada para R$ 20.000,00 - Valor condizente com o dano Repetição em dobro das parcelas indevidamente descontadas incabível - Ausência de demonstração de má-fé do banco réu - Recurso do banco corréu parcialmente provido - Recurso do autor provido" (e-STJ fl. 303).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 489, §1º, IV, e 1.022, I e II, do Código de Processo Civil de 2015, ao fundamento de que o acórdão combatido incorreu em negativa de prestação jurisdicional ao não apreciar as questões postas nos embargos declaratórios;
+(ii) arts. 186, 422, 757, 760, 764, 765, 927 e 944 do Código Civil, 7º, parágrafo único, 14, 18, 34 do Código de Defesa do Consumidor e 39 da Lei nº 7.357/1985, pois o recorrido não faz jus aos danos morais, ante a inexistência de ato ilícito praticado pela recorrente, bem como a verba indenizatória foi fixada em valor exorbitante e deve ser reduzida;
+(iii) art. 1.026, § 2º, do Código de Processo Civil de 2015, porque que não houve má-fé ou intuito protelatório na oposição dos embargos de declaração, devendo ser afastada a multa aplicada, e
+(iv) art. 85, §§ 2º e 11 do Código de Processo Civil de 2015, haja vista a majoração dos honorários recursais em desconformidade com os parâmetros legais.
+Com as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No tocante à aludida ofensa aos arts. 186, 422, 757, 760, 764, 765, 927 e 944 do Código Civil, 7º, parágrafo único, 14, 18, 34 do Código de Defesa do Consumidor e 39 da Lei nº 7.357/1985, a pretensão do recorrente é ver afastada sua responsabilidade pelo evento danoso. Ocorre que, tendo em vista as provas constantes dos autos e as circunstâncias fáticas que permearam a demanda, as instâncias ordinárias rechaçaram as teses defensivas ora ventiladas e reconheceram seu dever de indenizar.
+É o que se extrai da simples leitura dos votos condutores da apelação e dos embargos de declaração:
+"(..)
+Os réus integram a mesma cadeia de fornecimento e realizaram o desconto do pagamento do contrato de seguro mediante consórcio.
+(..)
+A solidariedade, em casos assim, é evidente, ressalvado aos réus discutir em ação própria o proceder de seu parceiro comercial.
+(..)
+Os danos materiais estão demonstrados, na medida em que a instituição financeira ré não logrou êxito em demonstrar que os descontos infirmados foram realizados pelo próprio autor, que deverá ser ressarcido.
+Com efeito, a responsabilidade civil emerge da conjunção de três pressupostos: - ação, comissiva ou omissiva (fato lesivo); - dano (lesão a bem jurídico), moral ou patrimonial; e - nexo de causalidade entre o dano e a ação (fato gerador da responsabilidade).
+No caso em comento, os três requisitos estão presentes, afigurando-se caracterizada a responsabilidade do banco réu, que agiu incidiu na prática de ato ilícito em proceder a cobrança de parcelas de contrato que o autor não celebrou.
+(..)
+Destarte, tendo o autor verificado verdadeiro abalo moral e não mero dissabor com os indevidos descontos das parcelas do contrato de seguro que o autor não celebrou, em patente ilicitude verificada na conduta dos réus, mormente no que tange ao dever de cuidado e não se verificando também na espécie nenhuma das hipóteses excludentes do dever de indenizar, devem eles responder pelos prejuízos que causaram" (e-STJ fls. 305/308).
+"(..)
+Embora a decisão não tenha acolhido a tese da embargante ela não deixou de apreciar os fatos. Assim, cai por terra a alegação de que o acórdão foi omisso ou até mesmo obscuro. A matéria foi devidamente apreciada, ocorrendo, na realidade, mera discordância com o que foi decidido.
+Vale consignar que o acórdão estabeleceu de forma absolutamente cristalina que todos os réus integram, em parceria, a mesma cadeia de fornecimento e contribuíram para o desconto do pagamento do contrato de seguro, aplicando-se ao caso o parágrafo único, do artigo 7º, artigo 18 e artigo 34, todos do Código de Defesa do Consumidor.
+E mais, o acórdão vergastado registra inequivocamente que a solidariedade entre os fornecedores é clara, ficando ressalvado aos réus, inclusive à embargante, questionar pela via judicial adequada o proceder de seu consorciado.
+E ainda que assim não fosse, anota-se que a embargante sequer apresentou apelação a justificar a omissão do acórdão acerca da sua efetiva participação no ato ilícito verificado" (e-STJ fls. 449/450).
+Assim como posta a matéria, a verificação da procedência dos argumentos expendidos no recurso intentado exigiria o reexame de matéria fática, o que é vedado pela Súmula nº 7/STJ, consoante iterativa jurisprudência desta Corte.
+Quanto à pretensão recursal de reduzir o valor arbitrado a título de indenização por danos morais, inviável também o seu acolhimento na estreita via do recurso especial.
+O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que não se pode afirmar desarrazoado o arbitramento da indenização devida solidariamente pelos réus no valor de R$ 20.000,00 (vinte mil reais).
+Não se pode dizer que a referida quantia destoa dos parâmetros adotados por esta Corte em precedentes análogos, ao revés, revelam-se perfeitamente adequadas diante das especificidades do caso concreto, sendo inarredável, assim, a aplicação à espécie do óbice inserto no mencionado verbete sumular nº 7/STJ.
+Também não merece acolhida a pretensão de afastamento da multa imposta com fundamento no art. 1.026 do CPC/2015.
+De fato, extrai-se dos autos que a parte recorrente não buscava, na origem, a correção de nenhum dos vícios ensejadores dos aclaratórios, mas, sim, a alteração do julgado embargado pela reapreciação de questões já rechaçadas pela Corte local.
+Por esse motivo, foi condenada ao pagamento de multa, o que se coaduna com o entendimento desta Corte de que "A oposição de embargos declaratórios, pretendendo a rediscussão do julgado e invocando questões suficientemente decididas no acórdão embargado, caracteriza o manifesto intuito protelatório, sendo correta a aplicação da multa prevista no art. 1.026, §2º, do CPC/2015" (AgInt nos EDcl no AREsp 1.738.606/ES, Relator Ministro Antônio Carlos Ferreira, DJe 17/5/2021).
+Em relação aos honorários de advogado, a jurisprudência deste Superior Tribunal é firme no sentido de que a revisão da condenação demanda o revolvimento das circunstâncias fáticas do caso, salvo nas hipóteses de condenações irrisórias ou excessivas, circunstâncias inexistentes no presente caso, em que o Tribunal local, ao fixar o valor dos honorários, o fez em estrita obediência aos ditames do art. 85 do CPC/2015.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA. HONORÁRIOS ADVOCATÍCIOS. EXORBITÂNCIA. NÃO EXISTÊNCIA. APLICAÇÃO DE MULTA.
+1. Somente em situações em que os honorários de sucumbência sejam fixados valores exorbitantes ou irrisórios, caberá sua revisão em grau de recurso especial. Excepcionalidade não configurada no caso em exame.
+2. Agravo regimental a que se nega provimento, com aplicação de multa de 1% sobre o valor atualizado da causa (CPC, art. 557, § 2º), ficando a interposição de novos recursos condicionada ao prévio recolhimento da penalidade imposta" (AgRg no AREsp 277.459/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 20/3/2013 - grifou-se).
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 20% (vinte por cento) sobre o valor atualizado da condenação, não cabendo a majoração estabelecida no art. 85, § 11, do Código de Processo Civil de 2015, por já estar no limite máximo estabelecido no § 2º do mesmo dispositivo legal.
+Publique-se. Intimem-se.
