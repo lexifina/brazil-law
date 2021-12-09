@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de APARECIDO LAMBERTIcontra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2237813-48.2020.8.26.0000.
+Consta dos autos que o Paciente foi preso em flagrante delito, no dia 22/06/2020, pela suposta prática do crime previsto noart. 12 da Lei n.10.826/2003, porque estava"na posse de uma espingarda calibre 20, capacidade de 2 tiros, n.º da arma 44694, marca Boito, a qual mantinha em sua residência no Sítio Nossa Senhora Aparecida" (fl. 14), sendo arbitrada fiança no valor de R$ 2.100,00 (dois mil e cem reais).
+Irresignada, a Defesa impetrou préviowritperante o Tribunal estadual.
+No presente habeas corpus, a Parte Impetrante aduz aausência de justa causa para o indiciamento do Paciente, em razão da falta de materialidade do delito. Sustenta que o Paciente"está sendo processado por uma conduta atípica, afinal resta comprovado através do Certificado de Registro Federal de Arma de Fogo, apresentado no inquérito policial, que a ESPINGARDA apreendida apesar de estar com seu registro vencido era devidamente registrada no SINARM, em nome de seu proprietário e também dono da propriedade rural onde fora encontrada, o Sr. ABILIO MILANEZ" (fl. 6).
+Argumenta, ainda, que, " a pesar de estar com seu registro vencido, este pode ser solicitado a qualquer momento, assim o mero registro é suficiente para elidir a situação de risco à incolumidade pública, bem jurídico tutelado pelo Estatuto do Desarmamento" (fl. 7).
+Requer, liminarmente, a suspensão do Processo n.1500345-92.2020.8.26.0129.No mérito, busca o trancamento do feito.
+O pedido liminar foi indeferido (fls. 69-70).
+As informações foram apresentadas (fls. 77-130 e 144-158).
+O Ministério Público Federal opina pela denegação da ordem (fls. 161-163).
+É o relatório. Decido.
+O Tribunal de origem ao reconhecer a inadequação do pleito defensivo pontuou(fls. 64-66):
+"No presente caso, os elementos constantes nos autos apontam, ao menos em cognição sumária, a existência de prova da materialidade da conduta criminosa, além de indícios da autoria delituosa.
+Além disso, o exame das questões arguidas enseja a análise aprofundada de matéria probatória e de mérito, o que se reserva ao Juiz Natural que, na instrução criminal, observados o contraditório e a ampla defesa, colherá elementos para formação de seu convencimento, não podendo ser analisadas na estreita via do writ.
+ ..
+Em conclusão, não se observa qualquer ilegalidade ou constrangimento no ato do pelo Juízo de Direito da 1ª Vara Criminal da Comarca de Casa Branca - SP."
+Nos termos do entendimento consolidado desta Corte, o trancamento da ação penal, inquérito policial ou procedimento investigativo por meio do habeas corpus é medida excepcional. Por isso, será cabível somente quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito (RHC 146.643/ES, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/09/2021, DJe 27/09/2021).
+Neste caso, a pretensão defensiva é o reconhecimento da atipicidade da conduta indicando a mera irregularidade no registro administrativo da arma de fogo, além de atribuir a titularidade do artefato a terceiro.
+Não se desconhece o entendimento firmado pelo Superior Tribunal de Justiça no julgamento da APn n. 686/AP (Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe 29/10/2015) e reiterado no âmbito das Turmas de Direito Penal (RHC 73.548/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 18/11/2016; RHC 60.739/MG, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 05/10/2016; RHC 66.698/CE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 04/05/2016), segundo o qual a mera expiração do prazo de vencimento do registro de arma de fogo não é suficiente para caracterizar o crime de posse ilegal de arma, constituindo mera irregularidade administrativa, a ensejar a apreensão do artefato e a aplicação de multa.
+Contudo, diante das alegações formuladas pelo Impetrante, o reconhecimento de eventual atipicidade da conduta exige profundo exame do contexto probatório dos autos, providência que se mostra inviável na via estreita deste writ, em especial porque se constata a ausência de manifestação da Corte de origem quanto aos temas suscitados e a ausência de prova pré-constituída das alegações. Nesse sentido:
+"PROCESSUAL PENAL. PATROCÍNIO INFIEL E TERGIVERSAÇÃO. TRANCAMENTO DO INQUÉRITO POLICIAL. ALEGADA ATIPICIDADE DA CONDUTA. NÃO DEMONSTRAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1 - Só se admite o trancamento de inquérito policial, na estreita via do habeas corpus, quando demonstrada, de plano, por prova pré-constituída, a atipicidade do fato ou a inexistência de indícios de autoria, o que não ocorre no presente caso.
+2 - Discussões aprofundadas acerca da constituição de elementares do tipo, que demandem, por exemplo, o exame acerca do efetivo prejuízo experimentado pelos representados ou a análise sobre a regularidade formal da ação penal em face da qual se imputa ao réu o delito de patrocínio infiel, não se mostram próprias deste momento processual, devendo ser relegadas à sentença, que só após a produção de provas, em cognição vertical e exauriente, poderá concluir acerca da atipicidade da conduta.
+3 - Agravo regimental improvido."(AgRg no HC 456.639/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/10/2018, DJe 26/10/2018; sem grifos no original)
+Não se colacionando aos autos elementos a embasar as alegações, a via estreita do writ, na qual se exige prova pré-constituída e incontroversa, mostra-se inadequada para fins de extinguir as investigações.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. PORTE ILEGAL DE ARMA DE FOGO. TRANCAMENTO DA AÇÃOPENAL. ALEGADA ATIPICIDADE DA CONDUTA. NÃO DEMONSTRAÇÃO. ORDEM DENEGADA.
