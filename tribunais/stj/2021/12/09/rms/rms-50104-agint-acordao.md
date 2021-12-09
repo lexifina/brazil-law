@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA.
+1. Segundo a Súmula 283 do STF, aplicado analogicamente ao caso, "é inadmissível o Recurso Extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Na espécie, o juízo de origem amparou-se, como primeiro fundamento, na impossibilidade de o Judiciário, notadamente em sede de mandado de segurança, rever o mérito das decisões proferidas pelas Corte de Contas, se respeitados os aspectos formais do devido processo legal, sendo certo que este fundamento, inclusive isoladamente, é capaz de preservar toda a higidez da decisão combatida, e não foi devidamente impugnado no recurso.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Benedito GonÃ§alves.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão de minha lavra, em que não conheci do recurso ordinário em mandado de segurança (e-STJ fls. 2.741/2.743).
+Sustenta a parte recorrente, em resumo, que o TJPR em momento algum recusou a análise do mérito administrativo, tampouco a isto foi provocado, tendo tão somente decidido que, no caso concreto, inexistia demonstração de direito líquido e certo (sustentando serem necessárias provas, alheias ao rito do mandado de segurança). Defende que essa questão foi impugnada especificamente no recurso, admitindo seu conhecimento.
+Impugnação ao recurso (e-STJ fls. 2.760/2.763).
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA.
+1. Segundo a Súmula 283 do STF, aplicado analogicamente ao caso, "é inadmissível o Recurso Extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Na espécie, o juízo de origem amparou-se, como primeiro fundamento, na impossibilidade de o Judiciário, notadamente em sede de mandado de segurança, rever o mérito das decisões proferidas pelas Corte de Contas, se respeitados os aspectos formais do devido processo legal, sendo certo que este fundamento, inclusive isoladamente, é capaz de preservar toda a higidez da decisão combatida, e não foi devidamente impugnado no recurso.
+3. Agravo interno não provido.
+VOTO
+Adianto que o recurso não merece acolhimento.
+Ao contrário do que foi alegado no recurso, o primeiro fundamento exposto na decisão recorrida foi da impossibilidade de imersão no mérito das decisões da Corte de Contas, centrando-se o controle de legalidade na garantia do devido processo legal.
+Transcrevo trecho do acórdão nesse sentido:
+10. Inicialmente, registre-se que perlustrando os documentos que acompanham a petição inicial, constata-se que aos impetrantes foram assegurados o contraditório e a ampla defesa no processo administrativo instaurado, tanto que se limitam a reprisar neste writ os argumentos que lá foram lançados e desacolhidos pela Corte de Contas, órgão colegiado apontado coator, consoante a dicção da Súmula Vinculante nº 03 do Supremo Tribunal Federal, assim redigida:
+"Nos processos perante o tribunal de contas da união asseguram-se o contraditório e a ampla defesa quando da decisão puder resultar anulação ou revogação de ato administrativo que beneficie o interessado, excetuada a apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão."
+11. Deveras, é da jurisprudência que em se tratando de mandado de segurança questionando acórdão do Tribunal de Contas, o que, em princípio, se revisa da deliberação da Corte de Contas em sede jurisdicional é a preservação das garantias da cláusula do devido processo legal no processo administrativo, por força do contido no art. 5º, LV, da Constituição Federal.
+ ..
+"Ao Poder Judiciário no presente caso compete julgar tão somente (sic) quanto à legalidade do procedimento de auditoria, porque, segundo o estabelecido em nossa Carta Magna, compete ao Congresso Nacional o controle externo do Poder Executivo (art. 70, da CF/88), que o exercerá com o auxílio do Tribunal de Contas da União (art.71, caput, e seu inciso II da CF/88), ao qual compete julgar as contas dos administradores e demais responsáveis por dinheiro, bens e valores públicos. Recurso improvido." (TRF/2ª Região, 5" T, decisão mantida pelo STF no ARAI. 660.578 em 08.11.2011) (e-STJ fls. 2.667/2.668)
+Como dito, esse fundamento, por si só, seria suficiente para manutenção do acórdão, e não foi impugnado.
+Assim, reitero a decisão monocrática ora impugnada:
+Entendo que o recurso não merece conhecimento, porque a falta de combate aos fundamentos que embasaram o aresto impugnado, suficientes para mantê-lo, acarreta a incidência do óbice das Súmulas 283 do STF e 284/STF.
+Consoante jurisprudência do STJ, padece de irregularidade formal o recurso em que a recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade (AREsp 1.519.064/CE, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe 05/11/2019). A propósito: AgInt no RMS 58.200/BA, desta Relatoria, Primeira Turma, DJe 28/11/2018; AgRg no RMS 44.887/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/11/2015; AgRg no RMS 43.815/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 27/5/2016.
+Em complemento, esta Corte entende que "o recurso ordinário em mandado de segurança, como espécie recursal que é, reclama, para sua admissibilidade, a fiel observância do princípio da dialeticidade, impondo-se à parte recorrente o ônus de expor, com precisão e clareza, os erros - de procedimento ou de aplicação do direito - que justificam a reforma do acórdão recorrido, não bastando, para isso, a simples insatisfação com a denegação da ordem." (AgInt no RMS 41.710/BA, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 26/03/2018).
+Na espécie, o juízo de origem amparou-se, como primeiro e principal fundamento, na impossibilidade de o Judiciário, notadamente em sede de mandado de segurança, rever o mérito das decisões proferidas pelas Corte de Contas, se respeitados os aspectos formais do devido processo legal.
+Aliás, a decisão está em consonância com o entendimento deste Superior Tribunal (MS 22.289/DF, Rel. Ministro GURGEL DE FARIA, Primeira Seção, julgado em 26/09/2018, DJe 25/10/2018; MS 15828/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 12/04/20) Este fundamento, inclusive isoladamente, é capaz de preservar toda a higidez da decisão combatida, e não foi devidamente impugnado no recurso.
+A parte impetrante se limitou a combater o mérito em si da decisão do Tribunal de Contas do Paraná, sem infirmar o argumento central do acórdão recorrido.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO AO AGRAVO.
+É como voto.
