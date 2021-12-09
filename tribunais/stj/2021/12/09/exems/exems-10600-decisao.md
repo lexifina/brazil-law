@@ -1,0 +1,14 @@
+DECISÃO
+A despeito de o óbito do anistiado político CARLOS DE SOUZA FREITAS ter ocorrido no curso da ação mandamental (antes do trânsito em julgado da fase de conhecimento), observa-se que a decisão de fls. 60-62 afastou o pleito de extinção da execução formulado pela UNIÃO.
+Nessa ocasião, este juízo entendeu pela possibilidade de habilitação do espólio ou dos herdeiros/sucessores, determinando a intimação da parte interessada, na pessoa do advogado, para que promovesse a sucessão processual, no prazo de 5 (cinco) dias.
+Contudo, consoante certidão de fl. 72, decorreu o prazo sem manifestação.
+Na sequência, o despacho de fl. 75 determinou a intimação pessoal dos advogados subscritores da petição de fls. 57-58, bem como de TEREZINHA DA SILVA FREITAS (no endereço constante da notificação de fls. 66-67), para que, no prazo de 20 (vinte) dias, efetuassem a habilitação em comento, sob pena de extinção do processo, sem resolução de mérito.
+Em atendimento ao aludido despacho de fl. 75, o advogado da parte exequente, por meio da petição de fls. 89-91, pugnou pela suspensão da execução até que seja requerida a habilitação. A esse respeito, o decisum de fl. 93 entendeu por suspender a execução, bem como deferir o pedido de dilação de prazo, porém por mais 60 (sessenta) dias, para atendimento da diligência determinada nos autos.
+De igual forma, houve o transcurso do prazo in albis, consoante certificado à fl. 96. Um dosprocuradoreslimitou-se a requerer a juntada de substabelecimento por meio da petição de fls. 97-99.
+É o relatório. Decido.
+Suspenso o processo em razão do falecimento do beneficiário, a disposição contida no art. 313, § 2º, II, do CPC, estabelece que o juiz determinará a intimação de seu espólio ou dos herdeiros/sucessores para que manifestem interesse na sucessão processual e promovam a respectiva habilitação no prazo designado, sob pena de extinção do processo, sem resolução de mérito.
+Conquanto tenham sido fixados três prazos para atendimento a essa diligência, constata-se que houve o transcurso sem qualquer manifestação.
+Em consequência, a hipótese dos autos reclama a extinção do feito. Nesse sentido, confira-se: "(..) A ausência de habilitação inviabiliza a continuidade do feito ante a falta de pressuposto de constituição e de desenvolvimento válido e regular do processo; ensejando, assim, a extinção do processo sem resolução de mérito, consoante determinado no artigo 485, IV, do CPC/2015" (REsp 1623603/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/10/2017, DJe 19/12/2017, grifou-se).
+Ante o exposto, julgo extinto o processo, sem resolução de mérito, nos termos dos arts. 313, § 2º, II, c/c 485, IV, do CPC.
+Resta prejudicado, portanto, o pleito de suspensão da execução de fls. 65-71, formulado pela UNIÃO, em que esta alegava ter instaurado procedimento revisional da portaria anistiadora.
+Publique-se. Intimem-se.
