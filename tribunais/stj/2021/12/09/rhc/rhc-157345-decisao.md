@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpuscom pedido liminar interposto porLUIZ HENRIQUE MOTA DE SOUZA FRATELLIdesafiando acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(HC n.1.0000.21.227139-9/000).
+Depreende-se dos autos que o recorrente encontra-se segregado cautelarmente, desde o dia 20/4/2021,pela prática, em tese, do delito tipificado no art. 121,caput, c/c o art. 14, II, ambos do Código Penal(homicídio tentado).
+Narram os autos que (e-STJ fl. 188):
+ ..  Consta dos autos que, no dia 04/04/2021, por volta das 13 horas, na rua Getúlio Lara Amorim, 155, no bairro Cecília Meireles, nesta cidade de Pará de Minas/MG, o denunciado, previamente ajustado entre si com terceira pessoa não identificada, de forma livre e consciente, por motivo ainda não esclarecido, tentou matar Kefferson Lúcio da Silva, vulgo "Keke", mediante disparos de arma de fogo, apenas não consumando o delito por circunstâncias alheias a sua vontade, eis que a mãe da vítima interveio empurrando a mão do denunciado no momento em que fez alguns dos disparos, bem assim a vítima recebeu pronto atendimento médico, logrando sobreviver. Consta, ainda, que o crime foi praticado mediante recurso que dificultou a defesa da vítima.
+Conforme apurado, no dia dos fatos, por volta das 09:00 horas, o denunciado pediu à testemunha Marcelo Rodrigues Soares Lemos seu veículo, modelo FIAT/Uno, placa GVH-8385, cor prata, emprestado, sob o pretexto de que iria utilizá-lo para fazer compras.
+Por volta das 13 horas o denunciado, juntamente com terceira pessoa que ia na direção do veículo, dirigiu-se para a casa da vítima, a quem não conhecia muito bem, tendo o veículo sido estacionado por ali. Em seguida, o denunciado, de posse de uma arma de fogo, bateu no portão da residência, tendo a vítima atendido.
+Neste momento, o denunciado perguntou à vítima se ela se chamava "Keke", ao que ela respondeu que sim; de imediato, o denunciado, dificultando a defesa da vítima, eis que nunca poderia esperar ser alvejada naquela situação, sacou uma arma de fogo e efetuou um disparo que atingiu Kefferson no rosto. Ele, então, correu para dentro de casa, ao que o denunciado foi em seu encalço e desferiu mais tiros, cujos projéteis tiveram a trajetória alterada pela ação da mãe da vítima, que empurrou o braço do denunciado, impedindo que os projéteis atingissem Kefferson.
+Por fim, o denunciado voltou correndo para o veículo FIAT/Uno, tendo fugido do local. Mais tarde, por volta das 15 horas, o denunciado devolveu veículo ao proprietário  ..
+Impetrado préviowritna origem, a ordem foi denegada. O acórdão foi assim ementado (e-STJ fl. 610):
+HABEAS CORPUS. TENTATIVA DE HOMICÍDIO. RECORRER EM LIBERDADE. IMPOSSIBILIDADE. FUNDAMENTAÇÃO SUFICIENTE.GRAVIDADE E CENSURABILIDADE DA CONDUTA. PRESENÇA DOS REQUISITOS DO ART. 312 DO CPP. GARANTIA DA ORDEM PÚBLICA.CONDIÇÕES FAVORÁVEIS DO PACIENTE. IRRELEVÂNCIA. ORDEM DENEGADA.
+- A censurabilidade e a gravidade da conduta justificam o decreto prisional, inexistindo situação de constrangimento ilegal na manutenção da custódia, encontrando-se presentes os requisitos do art. 312 do CPP. - As condições pessoais favoráveis do paciente, não autorizam, por si sós, a concessão da ordem, quando os demais elementos dos autos recomendam a manutenção da custódia.
+Daí o presente recurso ordinário, no qual sustenta a defesa ilegalidade no reconhecimento fotográfico (e-STJ fls. 629/630).
+Afirma que, tendo em vista a ilegalidade no reconhecimento policial, a prisão preventiva deve ser revogada (e-STJ fl. 640).
+Aduzque a prisão preventiva carece de fundamentação idônea.
+Diante dessas considerações, requer, inclusive liminarmente, a revogação da prisão preventiva, ainda que com a imposição de medidas cautelares diversas.
+O pedido liminar foiindeferido.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Inicialmente, com relação à ilegalidade no reconhecimento fotográfico, constata-se que a Corte de origem não se pronunciou a respeito de tal tema, o que torna inviável a análise diretamente por este Tribunal superior, sob pena de incorrer em indevida supressão de instância.
+Com relação aos fundamentos da prisão preventiva,insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, são estes os fundamentos invocados para a manutenção da prisão preventiva, na decisão de pronúncia (e-STJ fl. 575):
+11.4. DA PRISÃO CAUTELAR
+O réu encontra-se preso preventivamente e dessa forma deve permanecer, pois subsistem os motivos que autorizaram a segregação, expostos na decisão de ff. 151/152 (art. 312 e 313, I, todos do CPP). Dessa forma, mantenho a prisão até o julgamento pelo Júri.
+O decreto preventivo, por sua vez, dispôs que (e-STJ fls. 103/104):
+Como garantia da ordem pública, a lei busca a manutenção da paz no corpo socai, impedindo que o réu volte a delinquir durante a investigação ou instrução criminal, reafirmando a validade e a autoridade da ordem jurídica, posta em xeque pela conduta criminosa e por sua repercussão na sociedade. Ensina a doutrina que:
+ ..
+Voltando ao caso vertente, nota-se a especial periculosidade do agente que supostamente, de forma premeditada, dirigiu-se à entrada da residência da vítima e, ainda em via pública, efetuou vários disparos de arma de fogo contra ela. Com efeito, a prisão preventiva faz-se imperiosa para garantia da ordem pública.
+Por fim, deve-se salientar que a conveniência e oportunidade da decretação da prisão preventiva (medida excepcional só comportável em casos excepcionais e cominados) deve ser deixada sempre ao prudente arbítrio do juiz do processo, mais próximo do fato e das pessoas nele envolvidas. Nesse sentido já decidiu o E. Tribunal de Justiça de Minas Gerais:
+ ..
+O exame dos excertos acima transcritos, contidos na sentença de pronúncia, evidenciaque o disposto no art. 413, § 3º, do Código de Processo Penalfoi devidamente observado, pois foram indicados fundamentos concretos para a manutenção da prisão cautelar anteriormente imposta aorecorrente.
+Segundo o disposto no referido comando normativo, "ojuiz decidirá, motivadamente, no caso de manutenção, revogação ou substituição da prisão ou medida restritiva de liberdade anteriormente decretada e, tratando-se de acusado solto, sobre a necessidade da decretação da prisão".
+No presente caso, com efeito, vê-se que a prisão foi decretada e mantida em decorrência das circunstâncias dos delitos praticados, tendo em vista que "a especial periculosidade do agente que supostamente, de forma premeditada, dirigiu-se à entrada da residência da vítima e, ainda em via pública, efetuou vários disparos de arma de fogo contra ela", o que justifica a decretação e manutenção da prisão preventiva e a consequente negativa do direito de recorrer em liberdade.
+Da mesma forma decidiu esta Corte noseguintejulgado:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.HOMICÍDIO QUALIFICADO. NEGATIVA DE MATERIALIDADE E AUTORIA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE NÃO AGREGA FUNDAMENTOS AO DECRETO PRISIONAL.AUSÊNCIA DE PREJUDICIALIDADE. IMPOSSIBILIDADE NA VIA ELEITA. PRISÃO PREVENTIVA. REVOGAÇÃO DA CUSTÓDIA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE EVIDENCIADA. MODUS OPERANDI. RÉU QUE PERMANECEU PRESO DURANTE TODA A INSTRUÇÃO.CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES ALTERNATIVAS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.HABEAS CORPUS NÃO CONHECIDO.
+ ..
+5. No caso dos autos, verifico que a prisão preventiva foi adequadamente motivada pelas instâncias ordinárias, tendo sido demonstradas, com base em elementos concretos, a periculosidade do agente e a gravidade do delito, evidenciadas pelo modus operandi da ação delituosa, pois o acusado, sabendo do propósito criminoso, teria fornecido a arma do crime para que o corréu Adélio, a mando de Adilson, efetuasse os disparos contra o ofendido, o qual mantinha relacionamento amoroso com a ex-companheira do mandante do delito, circunstâncias que demonstram risco ao meio social, recomendando sua custódia cautelar para garantia da ordem pública.
+6. Tendo o paciente permanecido preso durante toda a instrução processual, não deve ser permitido recorrer em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada sua soltura após a condenação pelo Tribunal do Júri.
+ .. (HC n. 485.201/SC, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 17/12/2019, DJe 19/12/2019.)
+Os fundamentos acima delineados indicam, portanto, a necessidade de se manter o recorrentesegregado, não se revelando adequado possibilitar-lhe recorrer em liberdade.
+No mais, frise-se que as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública. A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido.(HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/8/2017, DJe 4/9/2017.)
+Ante o exposto,nego provimentoao recurso emhabeas corpus.
+Publique-se. Intimem-se.
