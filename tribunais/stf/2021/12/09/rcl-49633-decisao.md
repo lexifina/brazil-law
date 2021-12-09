@@ -1,0 +1,103 @@
+Decisão: Trata-se de reclamação com pedido liminar, ajuizada pelo Estado de São Paulo em face de decisão do Colégio Recursal de Araçatuba-SP, proferida nos autos do Processo 0000075-73.2021.8.26.0076.
+
+    Na petição inicial, a Fazenda Pública estadual alega que no âmbito das ADIs 6.442, 6.447, 6.450 e 6.525, todas de relatoria do Ministro Alexandre de Moraes, o STF assentou a constitucionalidade dos arts. 7º e 8º da Lei Complementar 173/2020.
+
+    Ressalva que, posteriormente, no bojo do tema 1.137 da repercussão geral, cujo paradigma é o RE 1.311.742, rel. Min. Presidente, reafirmou-se a higidez do art. 8º da LC 173/2020.
+
+    Nesses termos, sustenta que o ato reclamado conferiu interpretação distinta daquela preconizada por esta Corte:
+
+    “Não há espaço hermenêutico para que o Colégio Recursal de Araçatuba negue a aplicação integral e literal da norma, sem afrontar diretamente a diretriz esposada pela Suprema Corte. Erra, portanto, ao condenar a Fazenda Pública do Estado de São Paulo a efetuar a contagem de tempo de serviço de servidor público estadual, no período compreendido entre 27 de maio até 31 de dezembro de 2021, anotando tais períodos para efeitos de adicionais temporais (quinquênio e sexta-parte) e licença prêmio, com o consequente apostilamento do direito em suas fichas funcionais”. (eDOC 1, p. 13)
+
+    Alude, ainda, que há um “quadro geral de insubordinação do Colendo Colégio Recursal de Araçatuba/SP”, haja vista que ocorrem sob a jurisdição desse juízo dezenas de demandas semelhantes. Logo, narra a seguinte problemática local:
+
+    “A primeira manobra esboçada pelo juízo de piso foi negar conhecimento a alguns recursos inominados, alegando descumprimento do princípio da dialeticidade. O único fundamento utilizado nos acórdãos foi o de que a Fazenda Pública teria utilizado o mesmo texto nas peças de contestação e de recurso de sentença, muito embora tivesse identificado seus fundamentos e impugnado especificamente a decisão. Tal interpretação do princípio da dialeticidade é exótica e contraria jurisprudência pacífica do Colendo Superior Tribunal de Justiça e do Egrégio Tribunal de Justiça de São Paulo. O propósito é claro: negando o julgamento do mérito do recurso, visa a bloquear a interposição de recurso extraordinário que evidencie o desrespeito à tese de precedente vinculante.
+
+    Em seguida, o primeiro recurso extraordinário que acabou por subir ao STF, por força de agravo de despacho negatório (art. 1030, V, do CPC) voltou com a determinação de readequação do acórdão. A apreciação da decisão da Suprema Corte estava designada para o dia 31 de maio de 2021. Pois bem, o Ilustre Relator tirou o recurso da pauta, momentos antes de seu julgamento. Posteriormente, na sessão ocorrida no dia 28 de junho de 2021, o órgão fracionário negou-se a readequar seu acórdão, insistindo em não aplicar o inciso IX do art. 8º da Lei Complementar 173/2020.
+
+    Para piorar a situação, a Ilustre Presidência do Colégio Recursal passou a negar seguimento aos recursos extraordinários interpostos pela Fazenda Pública afirmando que o acórdão (pasme-se!) estaria em consonância com o entendimento do STF. E qual seria o propósito de tal manobra? Alterando o fundamento do despacho denegatório para o art. 1030, I, a, do CPC, bloqueou a possibilidade de manejo do agravo em recurso extraordinário pelo Estado, cujo envio ao juízo ad quem é obrigatório.
+
+    Contra tal decisão é cabível agravo interno (art. 1030, § 2º, do CPC), a ser decidido pelo próprio Colégio Recursal de Araçatuba, em acórdão do qual não cabe recurso algum, por ausência de previsão legal. É evidente a tentativa de uso do sistema de ‘circuito fechado’ adotado pela legislação processual para evitar a ingerência do Excelso STF e a correção de rota nos futuros julgamentos”. (eDOC 1, pp. 14-15)
+
+    Requer assim a concessão de medida liminar para suspender os efeitos do ato reclamado, até o trânsito em julgado desta reclamação. No mérito, pugna pela cassação do ato reclamado, de maneira a se garantir a vigência do referidos artigos da lei complementar em questão, ensejando novo julgamento da causa, desta feita em conformidade com a orientação firmada pelo STF em controle abstrato.
+
+    Deferi a liminar para sobrestar o andamento do Processo 0000075-73.2021.8.26.0076 no Colégio Recursal de Araçatuba-SP, até a resolução do mérito da presente reclamação. (eDOC 10)
+
+    A autoridade reclamada prestou informações. (eDOC 15)
+
+    Citado, o beneficiário Geraldo José Teixeira deixou de apresentar contestação, consoante eDOC 21.
+
+    É o relatório. Decido.
+
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+
+    Ressalto, inicialmente, que reclamação, tal como prevista no art. 102, I, l, da Constituição, e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+
+    No presente caso, sustenta-se que o ato reclamado afronta as decisões proferidas nos autos das ADIs 6.442, 6.447, 6.450 e 6.525, rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 23.03.2021. Eis o teor da ementa dos paradigmas evocados:
+
+    “AÇÕES DIRETA DE INCONSTITUCIONALIDADE. LEI COMPLEMENTAR 173/2020. PROGRAMA FEDERATIVO DE ENFRENTAMENTO AO CORONAVÍRUS (COVID-19). ALTERAÇÕES NA LEI DE RESPONSABILIDADE FISCAL - LC 101/2000. PRELIMINARES. CONHECIMENTO PARCIAL DA ADI 6442. § 5º DO ART. 7º. NORMA DE EFICÁCIA EXAURIDA. MÉRITO. ARTS. 2º, § 6º; 7º E 8º. CONSTITUCIONALIDADE FORMAL DAS NORMAS. NORMAS GERAIS DE DIREITO FINANCEIRO E RESPONSABILIDADE FISCAL. COMPETÊNCIA LEGISLATIVA DA UNIÃO. CONSTITUCIONALIDADE MATERIAL. PRINCÍPIOS FEDERATIVO E DA SEPARAÇÃO DOS PODERES. PADRÕES DE PRUDÊNCIA FISCAL. MECANISMOS DE SOLIDARIEDADE FEDERATIVA FISCAL. ENFRENTAMENTO DE CRISE SANITÁRIA E FISCAL DECORRENTES DA PANDEMIA. COMPETÊNCIA BASEADA NO ART. 169 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA EFICIÊNCIA, DA IRREDUTIBILIDADE DE VENCIMENTOS, DA PROPORCIONALIDADE, DA VEDAÇÃO AO RETROCESSO. DEVIDO PROCESSO LEGAL. RENÚNCIA DE DEMANDA JUDICIAL. NORMA DE CARÁTER FACULTATIVO. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA DIRIMIR CONFLITOS FEDERATIVOS. IMPROCEDÊNCIA. 1. A Jurisdição Constitucional abstrata brasileira não admite o ajuizamento ou a continuidade de ação direta de inconstitucionalidade de lei ou ato normativo já revogado, substancialmente alterado ou cuja eficácia já tenha se exaurido, independentemente do fato de terem produzido efeitos concretos residuais. Precedentes. Não conhecimento da ADI 6442 quanto à impugnação do art. 5º, § 7º, da LC 173/2020. 2. Ausência de violação ao processo legislativo em razão de as deliberações no Congresso Nacional terem ocorrido por meio do Sistema de Deliberação Remota. Normalidade da tramitação da lei. Ausência de vício de iniciativa legislativa, uma vez que as normas versadas na lei não dizem respeito ao regime jurídico dos servidores públicos, mas sim sobre a organização financeira dos entes federativos. 3. O § 6º do art. 2º da LC 173/2020 não ofende a autonomia dos Estados, Distrito Federal e Municípios, uma vez que a norma apenas confere uma benesse fiscal condicionada à renúncia de uma pretensão deduzida em juízo, a critério do gestor público respectivo. 4. O art. 7º, primeira parte, da LC 173/2020, reforça a necessidade de uma gestão fiscal transparente e planejada, impedindo que atos que atentem contra a responsabilidade fiscal sejam transferidas para o próximo gestor, principalmente quando em jogo despesas com pessoal. A norma, assim, não representa afronta ao pacto federativo, uma vez que diz respeito a tema relativo à prudência fiscal aplicada a todos os entes da federação. 5. Quanto à alteração do art. 65 da LRF, o art. 7º da LC 173/2020 nada mais fez do que possibilitar uma flexibilização temporária das amarras fiscais impostas pela LRF em caso de enfrentamento de calamidade pública reconhecida pelo Congresso Nacional. 6. A norma do art. 8º da LC 173/2020 estabeleceu diversas proibições temporárias direcionadas a todos os entes públicos, em sua maioria ligadas diretamente ao aumento de despesas com pessoal. Nesse sentido, a norma impugnada traz medidas de contenção de gastos com funcionalismo, destinadas a impedir novos dispêndios, congelando-se o crescimento vegetativo dos existentes, permitindo, assim, o direcionamento de esforços para políticas públicas de enfrentamento da calamidade pública decorrente da pandemia da COVID-19. 7. Os arts. 7º e 8º da LC 173/2020 pretendem, a um só tempo, evitar que a irresponsabilidade fiscal do ente federativo, por incompetência ou populismo, seja sustentada e compensada pela União, em detrimento dos demais entes federativos. A previsão de contenção de gastos com o aumento de despesas obrigatórias com pessoal, principalmente no cenário de enfrentamento de uma pandemia, é absolutamente consentânea com as normas da Constituição Federal e com o fortalecimento do federalismo fiscal responsável. 8. As providências estabelecidas nos arts. 7º e 8º da LC 173/2020 versam sobre normas de direito financeiro, cujo objetivo é permitir que os entes federados empreguem esforços orçamentários para o enfrentamento da pandemia e impedir o aumento de despesas ao fim do mandato do gestor público, pelo que se mostra compatível com o art. 169 da Constituição Federal. Não há redução do valor da remuneração dos servidores públicos, uma vez que apenas proibiu-se, temporariamente, o aumento de despesas com pessoal para possibilitar que os entes federados enfrentem as crises decorrentes da pandemia de COVID-19, buscando sempre a manutenção do equilíbrio fiscal. 9. O art. 2º, § 6º da LC 173/2020, ao prever o instituto da renúncia de direito material em âmbito de disputa judicial entre a União e os demais entes não viola o princípio do devido processo legal. Norma de caráter facultativo. 10. Incompetência originária do SUPREMO TRIBUNAL FEDERAL para conhecer e dirimir conflito decorrente da aplicação do § 6º do art. 2º da LC 173/2020. Inaplicabilidade do art. 102, I, f, da CF, por ausência de risco ao equilíbrio federativo. 11. Conhecimento parcial da ADI 6442. Julgamento pela improcedência das ADIs 6442, 6447, 6450 e 6525”. (grifei)
+
+    No ponto, destaco que essa Corte, reconhecendo a existência de repercussão e reafirmando sua jurisprudência, fixou a tese do tema 1.137-RG, cujo paradigma é o RE 1.311.742, Rel. Min. Presidente, Tribunal Pleno, DJe 26.05.2021. Eis a ementa do referido paradigma:
+
+    “RECURSO EXTRAORDINÁRIO. REPRESENTATIVO DA CONTROVÉRSIA. ADMINISTRATIVO E FINANCEIRO. PROGRAMA FEDERATIVO DE ENFRENTAMENTO AO CORONAVÍRUS SARS-COV-2 (COVID-19). SERVIDOR PÚBLICO. CONTENÇÃO DE DESPESAS COM PESSOAL. ARTIGO 8º, INCISO IX, DA LEI COMPLEMENTAR 173/2020. CONSTITUCIONALIDADE. AÇÕES DIRETAS DE INCONSTITUCIONALIDADE 6.442, 6.447, 6.450 E 6.525. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. CONTROVÉRSIA CONSTITUCIONAL DOTADA DE REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO.” (grifei)
+
+    Entretanto, no caso da decisão hostilizada, verifico que a autoridade reclamada manteve as razões de decidir da sentença proferida pelo Juízo de origem, o qual determinou a continuidade do cômputo do tempo de serviço para todos os fins, bem como a implementação de todas as vantagens por tempo de serviço que deixaram de ser concedidas, pelo não cômputo do tempo de serviço do período de 28.5.2020 a 31.12.2021. Eis o teor desse julgado na parte em que interessa:
+
+    “Sem dúvida, cabe à União editar lei complementar para tratar de finanças públicas, incluindo o trato da responsabilidade na gestão fiscal.
+
+    Essa lei complementar, aliás, é uma verdadeira lei nacional, que obriga a todos os entes federados (...) Não obstante, uma lei complementar de responsabilidade fiscal não pode invadir outros campos materiais de competência que se situem fora das finanças públicas e da responsabilidade fiscal.
+
+    Não é possível, por exemplo, que haja alteração no regime remuneratório dos Servidores Públicos estaduais, sem uma lei estadual, de iniciativa do excelentíssimo Governador do Estado de São Paulo, nos termos do já citado art. 37, inciso X, da Constituição Federal.
+
+    Quanto à sexta parte e quinquênio, o tema exige ainda mais cuidado. Isso porque essas vantagens estão previstas na Constituição Estadual e a supressão ou suspensão desses benefícios exigiria alteração na Constituição Estadual.
+
+    Em outras palavras, a competência da União para editar lei complementar nacional sobre finanças públicas e responsabilidade na gestão fiscal não poderia, em tese, passar por cima do regime constitucional de competências materiais atinente à remuneração dos Servidores Públicos Estaduais.
+
+    É preciso salientar que a Lei Complementar nº 173/2020, no art. 8º, inciso IX, suspendeu a contagem de tempo para fins de licença-prêmio, quinquênio e sexta parte.
+
+    Parece claro que referida legislação está a tratar do regime remuneratório dos Servidores Públicos.
+
+    Ora, no caso específico dos Servidores que compõem o Poder Executivo, é preciso que haja iniciativa de lei, por parte do Chefe desse poder sem o quê, não pode haver alteração no regime remuneratório dos Servidores Públicos.
+
+    Quando a Constituição Federal permite a uma lei complementar, de irradiação nacional, tratar de finanças públicas, essa lei complementar, de irradiação nacional, tem que tratar, genuinamente, de finanças públicas.
+
+    Não poderá entroncar-se, para apanhar temas que estão sob o campo de incidência de outras leis.
+
+    A questão se torna ainda mais grave, quando a legislação, de cunho nacional, pretende invadir a esfera de competência do Estado-membro.
+
+    (...)
+
+    No caso dos autos, a competência legislativa envolve finanças públicas/responsabilidade fiscal na gestão pública e, também, regime remuneratório de servidores públicos estaduais.
+
+    A competência da União para editar lei complementar de âmbito nacional não pode subtrair a competência do Estado de São Paulo de legislar, com iniciativa do Governador, sobre o sistema remuneratório dos Servidores Públicos Estaduais.
+
+    Assim, o Estado deve continuar a contar o tempo de serviço da parte autora, para fins de licença-prêmio (mediante conversão em pecúnia), quinquênio e sexta-parte.
+
+    Posto isso, JULGA-SE PROCEDENTE o pedido, para: a) determinar que a requerida passe a contar o tempo de serviço da parte autora, para fins de licença-prêmio (mediante conversão em pecúnia), quinquênio e sexta parte; b) determinar a continuidade do cômputo do tempo de serviço para todos os fins, inclusive para obtenção de vantagens por tempo de serviço como o quinquênio, a sexta-Parte e a licença-prêmio e o direito de sua conversão em pecúnia, com a consequente apostila do direito em suas fichas funcionais; c) condenar a ré na implementação ao autor, de todas as vantagens por tempo de serviço que deixaram de ser concedidas a estes, pelo não cômputo do tempo de serviço do período de 28/05/2020 a 31/12/2021 para estes fins, além do pagamento dos valores pretéritos, no valor a ser apurado em cumprimento de sentença, por meio de simples cálculo aritmético, com atualização monetária pelo Índice de Preços ao Consumidor Amplo Especial (IPCA-E) desde o pagamento não realizado (evento lesivo) e juros de mora segundo o índice de remuneração básica da poupança, a partir da citação, por versar, o caso dos autos, de débitos de natureza não tributária, nos termos da decisão do Supremo Tribunal Federal, em sede de Repercussão Geral (Recurso Extraordinário 870947), respeitada a prescrição quinquenal a partir da data do ajuizamento desta ação; d) condenar a ré para indenizar a parte autora, pelos períodos de Licença-Prêmio, cujo pedido de conversão em pecúnia porventura vier a ser indeferido, em desrespeito ao estabelecido na LC nº 1.015/07, no valor a ser apurado em cumprimento de sentença, com atualização monetária pelo Índice de Preços ao Consumidor Amplo Especial (IPCA-E) desde o pagamento não realizado (evento lesivo) e juros de mora segundo o índice de remuneração básica da poupança, a partir da citação, por versar, o caso dos autos, de débitos de natureza não tributária, nos termos da decisão do Supremo Tribunal Federal, em sede de Repercussão Geral (Recurso Extraordinário 870947)”. (eDOC 6, p. 1-9)
+
+    Dessarte, constato que o ato reclamado afronta o que decidido por esta Corte nos paradigmas suscitados pela parte reclamante, dada a negativa de aplicação da orientação deste STF pela constitucionalidade da LC 173/2020 ao caso concreto relativo a servidor paulista.
+
+    Confira-se, a propósito, a argumentação do Ministro Alexandre de Moraes na Rcl 48.157, de sua relatoria, DJe 07.07.2021:
+
+    “Com efeito, ao afirmar que a norma em questão deve ser interpretada de outra forma para harmonizá-la ao cânone constitucional do pacto federativo, bem como que com essa interpretação, a norma atacada não pode ser inquinada de inconstitucional, o Juízo Reclamado acabou por realizar uma peculiar interpretação conforme à constituição de norma já declarada constitucional por esta CORTE em ação concentrada e reafirmada em Repercussão Geral, o que se mostra incomum e indevido.
+
+    Assim, diante do reconhecimento da constitucionalidade por este SUPREMO quanto à norma em discussão, destaque-se a impossibilidade, na espécie, de se dar interpretação conforme a Constituição, pois essa técnica só e utilizável quando a norma impugnada admite, dentre as varias interpretações possíveis, uma que a compatibilize com a Carta Magna, e não quando o sentido da norma é unívoco, como sucede no caso presente (ADI 1344 MC, Rel. Min. MOREIRA ALVES, Tribunal Pleno, julgado em 18/12/1995).
+
+    Destaque-se, também, que houve manifestação expressa nos precedentes paradigmas citados quanto à compatibilidade entre a norma e o Pacto Federativo, motivo pelo qual mostra-se desalinhada ao que decidido por esta CORTE a nova interpretação dada pela Autoridade Reclamada à norma (...) Desse modo, a interpretação dada pelo Juízo da origem ao art. 8º, IX, da Lei Complementar 173/2020, no sentido de que a impossibilidade de contagem desse período como aquisitivo, merece ser interpretado apenas como a suspensão do pagamento da vantagem pecuniária pelo período de incidência da lei, ou da fruição no caso da licença-prêmio, substituiria, em sua essência, a decisão da CORTE quanto à matéria.
+
+    É que, conforme fiz constar em meu voto na ADI 6442, o art. 8º da LC 173/2020 se revela como um importante mecanismo que justifica atitudes tendentes a alcançar o equilíbrio fiscal. Com efeito, admitir a proposição inserta no ato reclamado, dando continuidade ao cômputo do tempo de serviço e da licença-prêmio, mantendo apenas a suspensão do pagamento e da fruição de tais benefícios durante o período de 27 de maio de 2020 a 31 de dezembro de 2021, para além de ir de encontro à literalidade da norma e do que decidido por esta CORTE nos precedentes paradigmas, daria azo a que fossem pleiteados o direito à fruição de tais benefícios no dia imediato ao término do prazo suspensivo.
+
+    A consequência prática seria, portanto, o pagamento acumulado de todos os benefícios que preencheram os requisitos dentro do prazo da suspensão, prejudicando justamente o equilíbrio fiscal buscado com a proposição legislativa. Trata-se, pois, de interpretação judicial que esvazia por completo o intuito legislativo busca pelo equilíbrio fiscal para combater a pandemia , dando sentido diverso à norma, caracterizando a indevida atuação como legislador positivo do Poder Judiciário, o que também é inadmissível”.
+
+    No mesmo sentido, cito: Rcl 48.153, de minha relatoria, DJe 24.09.2021; Rcl 48.178, Rel. Min. Cármen Lúcia, DJe 07.07.2021; Rcl-MC 49.054, Rel. Min. Rosa Weber, DJe 27.08.2021; Rcl-MC 48.277, Rel. Min. Roberto Barroso, DJe 03.08.2021; e Rcl-MC 48.801, Rel. Min. Ricardo Lewandowski, DJe 26.08.2021.
+
+    Ante o exposto, confirmo a liminar anteriormente deferida e julgo procedente a presente reclamação a fim de cassar o ato reclamado e determinar que outro seja proferido, levando em consideração o decidido por esta Corte nos autos das ADIs 6.442, 6.447, 6.450 e 6.525 (art. 21, § 1º, do RISTF).
+
+    Comunique-se. Publique-se.
+
+    Brasília, 9 de dezembro de 2021.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
