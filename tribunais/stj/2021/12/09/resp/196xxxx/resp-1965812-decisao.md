@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por Computer Serviços de Informática Eireli, com fulcro no art. 105, III, a e c, da Constituição da República, contra acórdão proferido peloTribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fl. 88):
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL E PROCESSUAL CIVIL.EXECUÇÃO EXTRAJUDICIAL. NOTA PROMISSÓRIA. SALÁRIO.REMUNERAÇÃO. IMPENHORABILIDADE. NATUREZA ALIMENTAR.DECISÃO MANTIDA.
+1. Os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos, as pensões, os pecúlios e os montepios são absolutamente impenhoráveis, nos termos do art. 833, inc. IV, do CPC.
+2. É possível a penhora da verba considerada impenhorável, como na hipótese de dívida advinda de prestação alimentícia, bem como de importâncias excedentes a 50 (cinquenta) salários-mínimos mensais.
+3. Não se tratando de dívida oriunda de verba alimentar e não sendo a verba salarial superior a 50 (cinquenta) salários-mínimos, deve ser mantida a decisão judicial que indeferiu a penhora da verba salarial, cujo caráter alimentar fundamenta sua impenhorabilidade.
+4. Agravo conhecido e desprovido. Decisão mantida.
+Nas razões do recurso especial, a recorrente alega, além dedivergência jurisprudencial,violação ao art. 833, IV, do CPC/2015.
+Sustenta, em síntese,a possibilidade de penhora do salário da parte recorrida para o pagamento do crédito exequendo (honorários advocatícios), por entender que, na hipótese,a constrição do percentual de 30% não fere a dignidade nem compromete a subsistência da devedora.
+As contrarrazões não foram apresentadas (e-STJ, fl. 115).
+O processamento do recurso especial foi admitido na origem (e-STJ, fls. 117-118).
+Brevemente relatado, decido.
+Com efeito, o Tribunal de origem, ao julgar o agravo de instrumento interposto pela recorrente, manteve a decisão unipessoal que reconheceu a impenhorabilidade da verba salarial da parte recorrida, com base nos seguintes fundamentos (e-STJ, fls. 92-96):
+A controvérsia recursal consiste em saber se é possível a penhora de verba salarial para fins de pagamento de crédito derivado de nota promissória (ID 58352902 - Pág. 1) e se tal hipótese está abarcada exceção descrita pelo art. 833, §2º, do Código de Processo Civil.
+Primeiramente, cumpre ressaltar que o art. 833, IV e X, do CPC, estabeleceu regras de impenhorabilidade absoluta, para a qual previu, de forma expressa, as exceções, consoante §2º do mesmo dispositivo. Nos termos dos preceitos citados:
+(..)
+Vale destacar que a própria legislação trouxe hipóteses de exceção à regra da impenhorabilidade, sendo possível a penhora de verba considerada impenhorável, como na hipótese de dívida advinda de prestação alimentícia, bem como de importâncias excedentes a 50 (cinquenta) salários-mínimos mensais.
+No caso em apreço, não se trata de cobrança de dívida alimentar, tampouco há provas de que os vencimentos do devedor superam 50 salários mínimos mensais, razão pela qual não há que falar em penhora da remuneração da Agravada.
+Este Tribunal já se manifestou acerca do tema, no sentido de que, não sendo a dívida oriunda de verba alimentar e não sendo a verba salarial superior a 50 (cinquenta) salários-mínimos, a impenhorabilidade é medida que se impõe, não havendo falar em mitigação da penhora sobre vencimentos. Confira-se:
+(..)
+No caso concreto, a declaração de imposto de renda da Agravada consta do ID 78204460 - Pág. 9. De fato, verifica-se que a Agravada aufere, em média, salário bruto de, aproximadamente, R$7.900,00. No entanto, não há provas robustas de que a Agravada não teria sua subsistência afetada com o desconto de 10%-30% na sua renda.
+Entretanto, é impositiva a impenhorabilidade do salário, sobretudo quando a execução visa à satisfação de crédito não alimentar.
+Dessa forma, deve ser mantida a decisão judicial que indeferiu a penhora de verba salarial da parte Agravada para satisfação do crédito.
+Com essas considerações, CONHEÇO e NEGO PROVIMENTO ao recurso para manter a decisão agravada por seus próprios fundamentos.
+Dos trechos acima transcritos observa-se que, na compreensão do colegiado estadual, sobretudo em se tratando de dívida não alimentar, as verbas recebidas pelo executado, em patamares inferiores a 50 (cinquenta) salários mínimos mensais, seriam impenhoráveis.
+Contudo, oentendimento acima externadodiverge da jurisprudência do Superior Tribunal de Justiça, segundo a qual a regra geral de impenhorabilidade de salários (art. 649, IV, do CPC/1973; art. 833, IV, do CPC/2015) pode ser excepcionada - ainda que os valores mensais percebidos pelo executado estejam abaixo de 50 (cinquenta) salários mínimos e que a penhora vise à satisfação de crédito não alimentar -, desde que haja manutenção de percentual dessa verba capaz de guarnecer a dignidade do devedor e sua família.
+Confiram-se:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.SALÁRIO. PENHORABILIDADE. ART. 833, IV, DO CPC/2015. ERESP N.1.582.475/MG. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte, "a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, DJe 16/10/2018).
+(..)
+4. Agravo interno a que se nega provimento.(AgInt no REsp 1.937.739/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/9/2021, DJe 23/9/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.AÇÃO DE CONHECIMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA. PREPARO. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO E COMPLEMENTAÇÃO (ART. 1007, §4º, DO CPC/2015). PENHORA DA REMUNERAÇÃO DO DEVEDOR. INTERPRETAÇÃO DADA AO ART. 833, IV, DO CPC/15. POSSIBILIDADE DE PENHORA DA REMUNERAÇÃO A DEPENDER DA HIPÓTESE CONCRETA. JULGAMENTO PELO CPC/15.DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+(..)
+4. No julgamento do REsp 1.815.055/SP, (julgado em 03/08/2020, DJe 26/08/2020), a Corte Especial decidiu que a exceção contida na primeira parte do art. 833, § 2º, do CPC/15 é exclusivamente em relação às prestações alimentícias, independentemente de sua origem, isto é, oriundas de relações familiares, responsabilidade civil, convenção ou legado, não se estendendo às verbas remuneratórias em geral, dentre as quais se incluem os honorários advocatícios.
+5. Registrou-se, naquela ocasião, todavia, que, na interpretação da própria regra geral (art. 649, IV, do CPC/73, correspondente ao art. 833, IV, do CPC/15), a jurisprudência desta Corte se firmou no sentido de que a impenhorabilidade de salários pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1582475/MG, Corte Especial, julgado em 03/10/2018, REPDJe 19/03/2019, DJe de 16/10/2018).
+6. Agravo interno no recurso especial não provido.(AgInt no REsp 1.900.494/MS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/6/2021, DJe 25/6/2021)
+Nessa linha de entendimento, faz-se necessária a análise, em cada caso concreto, das circunstâncias pessoais do devedor, para que se possa decidir, de maneira fundamentada, sobre a possibilidade ou não de flexibilização da regra de impenhorabilidade dos vencimentos. Essa avaliação, em princípio, deve ser feita pelas instâncias ordinárias, dada sua maior proximidade com os fatos da causa.
+Ante o exposto, dou provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para que, à luz da mais recente orientação jurisprudencial desta Corte Superior, realize novo julgamento do agravo de instrumento, como entender de direito.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.PENHORA DE PERCENTUAL DE VENCIMENTOS E PROVENTOS. POSSIBILIDADE DE RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. PRECEDENTES. NECESSIDADE DE ANÁLISE DO CASO CONCRETO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM QUE SE IMPÕE. RECURSOPROVIDO.
