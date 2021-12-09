@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto em face de acórdão assim ementado (fl. 122):
+HABEAS CORPUS-TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO -DISCUSSÃO AUTORIA -IMPOSSIBILIDADE -VEDAÇÃO À VALORAÇÃO PROBATÓRIA -LIBERDADE PROVISÓRIA -IMPOSSIBILIDADE -AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEAPARA DECRETAÇÃO DE PRISÃO TEMPORÁRIA -INOCORRÊNCIA -IMPRESCINDIBILIDADE PARA APROFUNDAMENTO NA INVESTIGAÇÃO CRIMINAL -EXCESSO DE PRAZO PRISÃO TEMPORÁRIA -INOCORRÊNCIA -PRISÃO DOMICILIAR -PEDIDO NÃO ANALISADO NA PRIMEVA INSTÂNCIA -SUPRESSÃO.
+I. Como é sabido doutrinária e jurisprudencialmente, a ação constitucional de habeas corpus não se presta a discutir qualquer matéria que envolva dilação probatória. A discussão acerca da autoria do delito exige valoração de provas carreadas aos autos, matéria própria de apelação criminal, não alcançando a presente ação constitucional a análise de tal pedido.
+II. A doutrina e a jurisprudência entendem que toda e qualquer espécie de prisão, antes do trânsito em julgado da sentença condenatória, tem natureza cautelar, o que significa dizer, deve estar devidamente comprovada a necessidade de tal restrição da liberdade. Demonstrada a complexidade dos fatos e reiteração delitiva dos agentes, é cabível a prisão temporária para aprofundamento das investigações.
+III. A contagem de prazo da prisão temporária tem por critério legal o art. 798, §1º, do CPP, o qual prevê "que não se computará no prazo o dia do começo, incluindo-se, porém, o do vencimento", critério diverso daquele disposto no art. 10, do Código Penal, o qual é usado apenas para prisão definitiva.
+IV. Não tendo a autoridade primeva se manifestado acerca de pedido inserto no bojo desta ação constitucional, não deve esta Corte se pronunciar sob pena de indevida supressão de instância.
+Consta dos autos que orecorrentefoi presotemporariamente por supostamente integrarorganização criminosa voltada para a prática de tráfico de drogas.
+No presente recurso, alega a defesa a prorrogação ilegal daprisãotemporária, cujo prazo já foi extrapolado.
+Pontua a possibilidade de deferimento da prisão domiciliar considerando que é portador de doença renal crônica grave, necessitade tratamento específico semanal, e considerando, ainda, as disposição da Recomendação CNJ n. 62/2020.
+Requer, a defesa, liminarmente e no mérito, que seja concedida a liberdade aorecorrente, ou a prisão domiciliar.
+De plano, evidencia-se que o presente recurso trata-se de mera reiteração do HC n.705.581/MG impetrado anteriormente em favor do recorrente em face do mesmo acórdão, apontando as mesmas ilegalidades. Observa-se, inclusive, que o pleito liminar já foi apreciado, tendo sido indeferido, estando o mandamus em fase de colheita de informações da autoridade coatora.
+Assim, sendo a matéria previamente analisada por esta Corteem impetração formulada pelo ora recorrente, inviável proceder-se a outro exame, eis que"A impetração dehabeas corpuscom objeto idêntico ao de outroremédio constitucional anteriormente impetrado caracteriza indevidareiteração de pedidos, o que impede o conhecimento do writ" (AgRg noHC 196.027/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA,julgado em 06/12/2011, DJe 01/02/2012).
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
