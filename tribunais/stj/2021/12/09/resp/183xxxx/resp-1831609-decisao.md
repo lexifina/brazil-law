@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TJRO, assim ementado (fl. 260):
+Apelação. Ação demolitória. Cerceamento de defesa. Não ocorrência. Imóvel. Próximo à margem da água. Área de preservação permanente. Ausência de utilidade pública e interesse social.Documentação de tentativa de legalização da situação. Não juntado aos autos. Medida de demolição. Regularidade da conduta da administração. Direito à moradia. Não absoluto. Precedentes.Arguição incidental de inconstitucionalidade. Não ocorrência.Recurso improvido.
+O recorrente alega violação dos artigos 8º, da Lei n. 12.651/12 e 54 e parágrafos, da Lei n. 11.977/2009. Defende, em síntese, que a posse do recorrente, desde o princípio, respeitou a função social da propriedade "ora tornando-a produtiva, ora sendo sua moradia.Logo, a demolição da propriedade do Recorrido e sede montra verdadeiro abuso, tendo em vista que, além dos argumentos aqui estão esposados, as casas construídas em APPs podem ser objeto de regularização fundiária." (fls. 280).
+Ainda, afirma que a posse do recorrente, no que cabe a sua responsabilidade atende à todos os requisitos ensejadores para que a posse seja regularizada, passando assim para propriedade do mesmo.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 300.
+É o relatório. Passo a decidir.
+No caso dos autos, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aos artigos 8º, da Lei n. 12.651/12 e 54 e parágrafos, da Lei n. 11.977/2009, e que se encontram desassociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+E ainda que fosse possível superar o óbice anterior, verifica-seque a Corte de origem, com base no conjunto fático probatório dos autos, asseverou expressamente que não há utilidade pública ou interesse social na manutenção da residência do recorrente em área de preservação permanente, nos seguintes termos (fls. 267/268):
+Nessa toada, pode-se concluir que não há utilidade pública ou interesse social na manutenção da residência do apelante em área de preservação permanente, mormente se o imóvel encontra-se alugado para terceiros, servido para fins comerciais.
+Outrossim, frisa-se que o apelante em nenhum momento consegue colacionar qualquer tipo de documentação que buscasse a regularização ou, pelo menos, que buscasse legalizar sua situação, tendo em vista a irregularidade encontrada por parte da fiscalização municipal.
+Por oportuno, assinalo que a simples alegação de que não houve prévia fiscalização pela municipalidade não legitima a construção irregular, pois a demora no exercício do Poder de Polícia não minimiza ou faz cessar a potencialidade lesiva da ocupação irregular do solo e também não gera, para o particular, o direito de ocupar, edificar ou permanecer em construção realizada em aérea pública.
+Dessa forma, o exame do mérito da ação demolitória, deve limitar-se a examinar a regularidade da conduta da administração na identificação de uma construção ou alteração ilegal e de ser legítima a pretensão de promover a medida de demolição.
+Portanto, comprovada a ocupação irregular de área pública - APP, a medida não pode ser outra, mostrando-se adequada, necessária e proporcional a demolição do imóvel construído naquela área.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO DEMOLITÓRIA. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. AUSÊNCIA DE UTILIDADE PÚBLICA E INTERESSE SOCIAL.REVISÃO DE CONTEÚDO FÁTICO-PRATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
