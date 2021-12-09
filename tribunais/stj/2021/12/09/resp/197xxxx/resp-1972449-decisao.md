@@ -1,0 +1,41 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PETIÇÃO INICIAL INDEFERIDA. FALTA DE ATENDIMENTO À DETERMINAÇÃO PARA SUPRIMENTO DE IRREGULARIDADE NA PETIÇÃO INICIAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO.DESNECESSIDADE DE INTIMAÇÃO PESSOAL.AUSÊNCIA DE PREVISÃOLEGAL. SÚMULA 83/STJ. AGRAVOCONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DO PARTICULAR.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto porGERALDO PINHEIRO SILVA, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurge contra acórdão proferido pelo egrégio Tribunal Regional Federal da 3ª Região, assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. INDEFERIMENTO DA PETIÇÃO INICIAL. INTIMAÇÃO PESSOAL DESNECESSÁRIA. DECISÃO MONOCRÁTICA.AGRAVO INTERNO DA PARTE AUTORA. MANUTENÇÃO DO JULGADO AGRAVADO. AGRAVO DESPROVIDO.
+- Inviabilidade do agravo interno quando constatada, de plano, a improcedência da pretensão recursal, mantidos os fundamentos de fato e de direito do julgamento monocrático, que bem aplicou o direito à espécie.
+- Agravo interno desprovido.(fls. 282/290).
+2. Nasrazões do seurecurso especial (fls. 304/311), a parte agravante sustenta,além de divergência jurisprudencial, violação do art. 485, § 1º, do CPC/2015, argumentando, em suma, quedeveria ter ocorrido a sua intimação pessoal antes do indeferimentoda petição inicial.
+3. Devidamente intimada (fls. 313), a parte agravada deixou de apresentar contrarrazões.
+4. Sobreveio o juízo de admissibilidade negativo(fls. 315/317),fundado na Súmula 83/STJ,razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8.A parte se insurgecontra o acórdão do egrégio TRF da 3ªRegião que confirmou a sentença de extinção do feito sem resolução do mérito, uma vez que oautor, embora intimado, não supriuirregularidade processual referenteà petição inicial.
+9. Na ótica dorecorrente, teria havido, na espécie, violação do art. 485,§ 1º, do CPC/2015, que assim dispõe:
+Art. 485. O juiz não resolverá o mérito quando:
+I - indeferir a petição inicial;
+II - o processo ficar parado durante mais de 1 (um) ano por negligência das partes;
+III - por não promover os atos e as diligências que lhe incumbir, o autor abandonar a causa por mais de 30 (trinta) dias;
+(..)
+§ 1º Nas hipóteses descritas nos incisos II e III, a parte será intimada pessoalmente para suprir a falta no prazo de 5 (cinco) dias.
+10. No entanto, a Corte Local compreendeu que não era o caso de intimação pessoal doautor, na medida em que ocorreu caso de indeferimento da petição inicial, o que atrai o art. 485, I, do CPC/2015, e não os incisos II e III. Notem-se os termos do aresto:
+ V erificando o juiz que a petição inicial não preenche os requisitos exigidos nos artigos 319, 320 e 321 do Código de Processo Civil, não poderá decretar a extinção do processo, sem antes determinar a emenda da inicial.
+No entanto, se a parte descumpre a diligência, deixando de emendar a inicial, a petição inicial deve ser indeferida. ..
+No caso dos autos, a parte autora foi intimada, pelo despacho Id. 134703966 -pag. 01 a emendar a inicial, para no prazo de 15 dias, sob pena de indeferimento: a) trazer cópias dos documentos necessários (petição inicial, sentença, acórdão e certidão de trânsito em julgado) dos autos do(s) processo(s) nº(s) 5016494-75.2018.4.03.6183, à verificação de prevenção; b) especificar, no pedido, em relação a quais empresas/locais de trabalho e respectivos períodos pretende haja controvérsia; c) trazer aos autos cópias das simulações administrativas de contagem de tempo de contribuição, feitas pela Administração; d) trazer prova documental do prévio pedido administrativo - concessório ou revisional - afeto ao pedido de "aposentadoria especial", a justificar o efetivo interesse na propositura da lide, tendo em vista a especificidade da pretensão.
+Intimada a parte autora, esta deixou de atender à determinação do MM Juízo a quo, sobrevindo sentença que indeferiu a inicial e julgou extinto o processo sem a resolução de mérito.
+Verifica-se que o magistrado determinou expressamente que a inicial fosse emendada pela autora, que não cumpriu a determinação judicial, razão pela qual a petição inicial foi indeferida e o processo extinto, sem resolução do mérito, nos termos do artigo 485, inciso I, do CPC/2015.
+Destaco, por oportuno, que a necessidade de intimação pessoal da parte, prevista no parágrafo 1º do artigo 485 do CPC/2015, que reproduz o parágrafo 1º do artigo 267 do CPC/1973, não se aplica ao caso de indeferimento da inicial.(fls. 297/299).
+11. Assim, não ocorreuviolação do art. 485, § 1º, do CPC/2015, uma vez que, nos termos da jurisprudência do STJ, o não atendimento da ordem de emenda à inicial pelo autor enseja a extinção do feito sem resolução de mérito, sendo desnecessária a intimação pessoal do demandante. A propósito, cito os seguintes julgados desta Corte:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE USUCAPIÃO.DETERMINAÇÃO DE EMENDA À INICIAL. NÃO ATENDIMENTO. EXTINÇÃO DO PROCESSO. DESNECESSIDADE DE INTIMAÇÃO PESSOAL. PRECEDENTES. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. Nos termos da jurisprudência do STJ, o não atendimento da ordem de emenda à inicial pelo autor enseja a extinção do feito sem resolução de mérito, sendo desnecessária a intimação pessoal do autor. Incidência da Súmula 83.
+3. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt nos EDcl no AREsp 1801005/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/05/2021, DJe 30/06/2021).
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROCESSO EXTINTO SEM JULGAMENTO DO MÉRITO, COM BASE NO ART. 267, I E IV DO CPC/1973.AUSÊNCIA DE PROMOÇÃO DA EMENDA À INICIAL. DESNECESSIDADE DE INTIMAÇÃO PESSOAL. ALEGAÇÃO DE AUSÊNCIA DE INITIMAÇÃO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DOS PARTICULARES QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte é firme quanto a ser desnecessária a intimação pessoal do art. 267, § 1o. do CPC/1973, quando o processo é extinto sem julgamento do mérito, em virtude de não ter sido promovida a emenda da petição inicial. Nesse sentido: AgInt no REsp 1.419.086/SP, Rel. Min. BENEDITO GONÇALVES, DJe 16.5.2018 e AgRg no AREsp 370.970/RJ, Rel. Min. SÉRGIO KUKINA, DJe 1.10.2014.
+2. Alterar o entendimento do acórdão recorrido de que houve intimação das partes para promoverem a emenda à inicial demanda reexame fático-probatório, obstado pela Súmula 7/STJ 3. Nega-se provimento ao Agravo Interno dos Particulares.
+(AgInt nos EDcl no REsp 1738250/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020).
+12. Verifico, portanto, que a conclusão veiculada no acórdão está em harmonia com a orientação do STJ sobre o tema, incidindo à hipótese o disposto na Súmula 83/STJ, segundo a qual não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+13. Cumpre ressaltar que a referida orientação é aplicável também aosrecursos interpostos pela alínea a do art. 105, III, da CF/1988. A propósito:AgInt no AREsp648.333/ES, Rel. Min. GURGEL DE FARIA, DJe17.5.2018;AgInt no AREsp895.402/SP, Rel. Min.HUMBERTO MARTINS,DJe 30.8.2016;REsp 1.186.889/DF,Rel.Min.CASTRO MEIRA, DJe de 2.6.2010.
+14.Ante o exposto, conheço do agravo para não conhecer do recurso especial do particular.
+15. Publique-se. Intimações necessárias.
