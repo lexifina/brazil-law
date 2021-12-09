@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo manifestado pelo Banco do Brasil S/A contra decisão quenegou seguimento a recurso especial, no qual se alega violação dos arts. 1.022, II, do Código de Processo Civil; 6º e 20 da Medida Provisória n. 168/1990, convertida na Lei n. 8.024/1990; 6º da Lei n. 8.088/1990; 4º, VI, e 9º da Lei n. 4.595/1964; 1º, §§ 1º e 2º, da Lei n. 6.899/1981,além de dissídio jurisprudencial.Oacórdão recorrido está retratado na seguinte ementa (fl. 791/792):
+APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CÉDULA PIGNORATÍCIA RURAL. TUTELA ANTECIPADA NA SENTENÇA, POSSIBILIDADE. AUSÊNCIAS DE CERCEAMENTO DO DIREITO DE DEFESA E DE OFENSA AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. INEXISTÊNCIA DE NEGATIVA DA PRESTAÇÃO JURISDICIONAL. PRAZO PRESCRICIONAL VINTENÁRIO. REPETIÇÃO DE INDÉBITO. POSSIBILIDADE DE COBRANÇA. ÍNDICES DE POUPANÇA. INDEXAÇÃO. PLANO COLLOR. MARÇO/1990. BTNF. CORREÇÃO MONETÁRIA. TERMO INICIAL. JUROS REMUNERATÓRIOS AFASTADOS. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS MANTIDOS. SENTENÇA REFORMADA, EM PARTE.
+1. Da simples leitura do art. 516 do CPC/73, vigente à época, e do inciso V do art. 1.012 do CPC/15, percebe-se ser possível o deferimento de tutelas provisórias quando da prolação do ato sentencial.
+2. Não ocorre nulidade da sentença por cerceamento de defesa, em decorrência do julgamento antecipado do mérito, quando, diante da natureza da matéria controvertida, mostrar-se desnecessária a produção de outras provas para a correta e adequada resolução da lide, mormente quando já apresentadas pelas partes provas documentais suficientes para a formação do convencimento do magistrado. Ademais, as provas são dirigidas ao julgador, a quem compete, exclusivamente, a análise acerca de sua pertinência, utilidade e suficiência.
+3. Versando a controvérsia instalada sobre questão unicamente de direito, o feito foi conduzido na mais perfeita legalidade, obedecendo os ditames processuais, de modo que não há falar-se em ofensa ao princípio do devido processo legal.
+4. Nula é a decisão órfã de fundamentação, não a decisão breve, concisa, sucinta. Assim, vez que fundamentada a sentença, ainda que brevemente, não merece prosperar as alegações de omissão do referido "decisum".
+5. O fato do contrato discutido já ter se encerrado não obsta o pedido formulado, porquanto a cobrança indevida, supostamente ocorrida, não se convalida como ato jurídico perfeito, tendo em vista que eivada de nulidade.
+6. A prescrição para a repetição de valores pagos indevidamente em virtude de contrato bancário segue os prazos previstos no art.177 do Código Civil de 1916 e no art. 205 do Código Civil de 2002,respeitada a norma de transição do artigo 2.028 deste último diploma legal.
+7. O BTNF de 41,28% é o índice que deve servir de base para a correção monetária do saldo devedor em detrimento do IPC, para o chamado Plano Collor (março/1990).
+8. O montante do indébito deve ser corrigido monetariamente pelos índices oficiais de correção a partir pagamento indevido e os juros de mora de 1% ao mês desde a citação.
+9. Não é possível o deferimento, ao consumidor, da incidência dos mesmos encargos que lhe foram cobrados pela instituição financeira, no caso de acolhimento da pretensão à repetição de indébito. Assim, as diferenças a serem restituídas devem sofrer incidência apenas de correção monetária e juros de mora, sendo incabível pretender cumulá-las com juros remuneratórios, motivo pelo qual a sentença merece ser reformada.
+10. Em observância aos requisitos legais do artigo 20, § 3º, do Diploma Processual Civil/73, os honorários advocatícios sucumbenciais devem ser mantidos em 20% (vinte por cento) sobre o valor da condenação, porquanto, embora tenha ocorrido o julgamento antecipado da lide, verifica-se complexidade da causa capaz de ensejar o máximo permitido em lei.
+APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 818):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. OMISSÃO INEXISTENTE.
+1. Os embargos de declaração não constituem a via adequada para o exame das razões referentes ao inconformismo da parte, tampouco é meio de revisão, rediscussão e reforma de matéria já decidida, sendo sua função complementar o julgado quando presente algum dos vícios catalogados no artigo 1.022 do CPC.
+2. Ausentes as hipóteses elencadas expressamente no art. 1.022 do CPC, a rejeição dos embargos de declaração opostos é medida que se impõe. EMBARGOS DE DECLARAÇÃO CONHECIDOS, PORÉM REJEITADOS.
+Sustenta o agravante que é cabível a aplicação da variação do IPC como fator de atualização monetária das cédulas rurais.
+Assim posta a questão, passo a decidir.
+Inicialmente,não conheço do recurso no tocante à alegação de violação doart. 1º, §§ 1º e 2º, da Lei n. 6.899/1981,pois a despeitodeorecorrenteter mencionado oreferidodispositivo, nãoexplicitoudequeforma eleteriasido violadopeloacórdão recorrido,o quefazincidir oenunciado n. 284 daSúmula do STF, quanto ao ponto.
+Comrelação à suposta ofensa ao art. 1.022 do Código deProcesso Civil, verifico que não existe omissão ou ausência defundamentação na apreciação das questões suscitadas.
+Além disso, não se exige do julgador a análise de todos os argumentos daspartes, a fim de expressar o seu convencimento. O pronunciamento acercados fatos controvertidos, a que está o magistrado obrigado, encontra-seobjetivamente fixado nas razões do acórdão recorrido.
+Observo, por outro lado, que o acórdão recorrido está em consonância com a jurisprudência desta Corte, que assentou ser cabível a repetição da diferença entre o IPC e o Bônus doTesouro Nacional Fiscal (BTNF), quando aplicado aquele em detrimento desteno mês de março de 1990 ao saldo devedor de contratos de empréstimosvinculados a títulos rurais, se atrelada a correção monetária à poupançapopular. Nesse sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CÉDULAS RURAIS. CORREÇÃO MONETÁRIA. DIFERENÇAS.MARÇO/1990. APLICAÇÃO. BTNF. INCIDÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É entendimento consolidado no Superior Tribunal de Justiça de que o indexador de correção monetária aplicável às cédulas de crédito rural no mês de março de 1990 é o BTNF de 41,28% (quarenta e um vírgula vinte e oito por cento).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.430.024/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19.8.2019, DJe de 27.8.2019)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DO INDÉBITO. CÉDULA DE CRÉDITO RURAL. ATUALIZAÇÃO MONETÁRIA. EXPURGOS INFLACIONÁRIOS. MARÇO DE 1990. BTNF.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, incide o BTNF de março de 1990 na atualização monetária do saldo devedor de cédula de crédito rural.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 773.215/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 2.8.2016, DJe de 5.8.2016)
+Em face do exposto, nego provimento ao agravo.
+Deixo de majorar os honorários advocatícios nos termosdo art. 85, § 11,do CPC/15, em razão de ter sido estabelecido o percentual máximo permitidona instância de origem.
+Intimem-se.
