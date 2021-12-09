@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Tatiane Cristina Cortapasso àdecisão da minha lavra, em que concedi liminarmente a ordem impetrada, para determinar a compatibilização da segregação cautelar mantida na sentença condenatória com o regime inicial semiaberto, fixado na condenação. Eis a ementa (fl. 35):
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO E NEGATIVA DE RECORRER EM LIBERDADE. IMPOSIÇÃO DO REGIME INICIAL SEMIABERTO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. NECESSIDADE DE COMPATIBILIZAÇÃO DA SEGREGAÇÃO COM O REGIME INICIAL DA CONDENAÇÃO.
+Ordem liminarmente concedida nos termos do dispositivo.
+Alega a embargante, em síntese, que a decisão se apresentou omissa no tocante ao direito de aguardar o trânsito em julgado da condenação, uma vez que a manutenção dela em regime semiaberto é suficiente, por si só, para causar-lhe constrangimento ilegal, pois impedir que se conceda que a ré recorra em liberdade, perpetua os efeitos da prisão preventiva, visto que no caso em tela não mais subsiste(fl. 40).
+Postula, então,seja concedida ordem liminar em seu favor para que possa aguardar em liberdade, até o trânsito em julgado da sentença, estabelecendo medidas alternativas a prisão, expedindo-se Alvará de Soltura com os comprometimentos de praxe, e no mérito, requer seja confirmada a liminar, por ser medida de salutar justiça(fl. 40).
+É o relatório.
+Os presentes embargos comportam acolhimento apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
+Com efeito, a ordem concedida no writ se limitou a assegurar à ré as regras do regime semiaberto, imposto na sentença condenatória, tendo em vista que amanutenção da segregação cautelar se mostraria mais rigorosa que a própria condenação.
+Ou seja, a única possibilidade de conceder à embargante o direito de aguardar o trânsito em julgado da condenação em liberdade seria reconhecendo a inidoneidade dos fundamentos da sentença no ponto em que manteve a prisão preventiva. E tal providência se mostra inviável, uma vez que a sentença condenatória manteve a segregação cautelar com base na persistência dos fundamentos da decisão que impôs a segregação cautelar no início da ação penal, e tal decisão nem sequer consta dos autos para fins de aferição.
+Em face do exposto, acolho os embargos de declaração, apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EMHABEAS CORPUS.TRÁFICO DE DROGAS. CONDENAÇÃO E NEGATIVA DE RECORRER EM LIBERDADE. IMPOSIÇÃO DO REGIME INICIAL SEMIABERTO. CONCESSÃO DA ORDEM PARA GARANTIR À RÉ A SUBMISSÃO ÀS REGRAS DO REGIME SEMIABERTO, DIANTE DA INCOMPATIBILIDADE COM A MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. ALEGAÇÃO DE OMISSÃO NO TOCANTE AO DIREITO DE AGUARDAR O TRÂNSITO EM JULGADO DA CONDENAÇÃO EM LIBERDADE. SENTENÇA QUE SE REFERE À PERSISTÊNCIA DOS FUNDAMENTOS DA PRISÃO PREVENTIVA. AUSÊNCIA DE DECISÃO NOS AUTOS. ESCLARECIMENTO QUE SE IMPÕE. MODIFICAÇÃO DA CONCLUSÃO DO JULGADO. AUSÊNCIA.
+Embargos de declaração acolhidos apenas para fins de esclarecimentos, sem atribuição de efeitos modificativos.
