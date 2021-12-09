@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 5ª Vara da Fazenda Pública de João Pessoa/PB (suscitante) e o Juízo da 4ª Vara do Trabalho de João Pessoa/PB (suscitado), nos autos de ação trabalhista proposta por Aline Rodrigues de Alencar em face do Município de João Pessoa, objetivando compelir o réu ao depósito na conta bancária vinculada ao Fundo de Garantira sob Tempo do Serviço (FGTS) durante o período prestado como agente comunitário de saúde.
+O Juízo suscitadoacolheu a preliminar de incompetência absoluta da Justiça Trabalhista para o processamento e julgamento da questão,por considerar que a relação jurídica entre o autor da ação e o réu seria jurídico-administrativa (fls. 48-49).
+O Juízo de Direito da 5ª Vara da Fazenda Pública de João Pessoa/PB suscita o conflito aoentendimento, na espécie,a relação estabelecida entre o autor e município demandado não é regidopor regime estatutário, mas,em verdade, as normas celetistas, de forma que a competência é da Justiça Especializada Trabalhista (fls. 59-62).
+É o relatório. Passo a decidir.
+De início, dispensa-se a oitiva do Ministério Público Federal,emprestígio aos princípios da celeridade e da economia processual, alémdocaso dos autos estar fora das hipóteses previstas no artigo 178doCPC/2015.
+O conflito de competência merece conhecimento, visto que osrequisitoslegais previstos na alínea d do inciso I do artigo 105 daConstituiçãoFederal estão preenchidos.
+A controvérsia gravita em torno dacompetênciapara processar e julgar demanda ajuizada por servidor público contra oMunicípio de JoãoPessoa/PB, objetivando compeliro réu ao depósito na conta bancária vinculada ao Fundo de Garantira sob Tempo do Serviço (FGTS) durante o período prestado como agente comunitário de saúde.
+Com efeito, esta Corte, em sintonia com a jurisprudência doSupremoTribunal Federal, tem entendimento de que a competênciaparaprocessar ejulgar os litígios instaurados entre o Poder Público e seusagentesdepende da natureza jurídica do vínculo entre as partes, cabendo àjustiçatrabalhista o exame das relações fundadas na CLT e à JustiçaComum,Federal ou Estadual, aquelas sujeitas a regime estatutáriooujurídico-administrativo. Precedentes:CC 129.447/RN, Rel. MinistroSérgio Kukina, Primeira Seção, DJe:30/9/2015.
+No caso concreto, a autora fez constar na inicial que(fl. 27):
+ ..  foi admitida pela reclamada em 01/06/2003, com remuneração de R$1.216,80 (-) mensais, para a função de Agente Comunitário de Saúde.Todavia em junho de 2014 teve sua CTPS registrada com data retroativa de 15 de fevereiro de 2006.
+Tal registro se deu por força da Lei 11.350/2006, obrigando o Município a admitir a parte Reclamante em caráter Celetista, conforme dispõe Emenda Constitucional n.51.
+Conforme dito acima, apenas no mês de Abril de 2014 o Município realizou as anotações devidas, fazendo constar a data de admissão em 15.02.2014, por força, também, do Decreto Municipal n.8.170 de 02 de abril de 2014, que foi promulgado em atendimento a determinação Judicial.
+ .. apesar de ter sua CTPS anotada o Município Reclamado não efetuou o depósito do Fundo de Garantia por tempo de serviço passando a fazê-lo a partir de julho de 2014, usurpando assim direitos da trabalhadora, e enriquecendo-se ilicitamente.
+Nesse contexto, verifica-se que, em razão do regramento municipal,o regime jurídico aplicável à parte reclamante é o celetista, o que, por conseguinte, atrai acompetênciada Justiça do Trabalho para o processamento e julgamento da questão. A propósito:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA.AGENTE COMUNITÁRIO DE SAÚDE. REGIME CELETISTA. OBSERVÂNCIA.
+1. O art. 8º da Lei n. 11.350/2006 estabeleceu o regime celetista nas hipóteses de contratação de agente comunitário de saúde, salvo se o ente público adotar forma diversa por meio de lei local, de modo que "será celetista o regime aplicável apenas se Estados, Distrito Federal e Municípios não dispuserem de forma diversa" (AgRg no CC 136.320/RS, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 17/11/2014).
+2. Hipótese em que a parte agravante foi contratada para a referida função sob o pálio do regime celetista, o qual foi mantido pela Lei Municipal n. 523/2007, o que atrai a competência da Justiça Obreira para julgar o feito.
+3. Agravo interno desprovido.
+(AgInt no CC 160.975/PE, Rel. Ministro Gurgel de Faria, Primeira Seção,DJe 29/8/2019)
+No mesmo sentido, destaco também as seguintes decisões, inclusive de minha relatoria: CC n. 182.380/PB, Rel. Ministra Assusete Magalhães, DJe: 01/9/2021;CC 160141 , Rel. Ministro Benedito Gonçalves, DJe: 01/3/2019.
+Ante o exposto, conheço doConflitopara, à luz das peculiaridades do caso concreto, declarar competente o Juízo da 4ª Vara do Trabalho de João Pessoa/PB (suscitado),para o processamentoe o julgamento da demanda,com fundamento no artigo 34, XXII, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. AGENTE COMUNITÁRIO DE SAÚDE. REGIME CELETISTA. COMPETÊNCIA DA JUSTIÇA TRABALHISTA (SUSCITADO).
