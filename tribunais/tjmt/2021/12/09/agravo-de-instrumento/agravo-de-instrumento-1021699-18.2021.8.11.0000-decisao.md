@@ -1,0 +1,33 @@
+RAI No. 1021699.18.2021.811.0000
+Vistos, etc...
+Trata-se de recurso de agravo de instrumento interposto por SONIA BATISTA, em face da r. decisão proferida pelo juízo da 1a Vara Cível da Comarca de Tangará da Serra/MT, que nos autos da ação de Indenização Securitária n. 1010766-15.2021.8.11.0055 movida em desfavor de BRADESCO VIDA E PREVIDENCIA S.A., determinou a intimação da parte autora para, no prazo de 15 dias, EMENDAR a inicial a fim de demonstrar que buscou a exibição dos documentos requeridos no item “e” da exordial pela via administrativa, na forma do artigo 320 do CPC, sob pena de extinção, conforme preceitua o artigo 321, parágrafo único, da mesma Lei.
+Assevera que a r. decisão deve ser revista, eis que fere a morte o principio da constitucional da inafastabilidade da jurisdição cujo conteúdo encontra-se encartado no art. 5°, XXXV, da Constituição Federal.
+Sustenta, que, nos termos do art. 5°, XXXIV, da Constituição o direito de petição do cidadão não está condicionado ao esgotamento da via administrativa, sendo prescindível que, antes de ajuizar a demanda de cobrança de seguro, o segurado faça pedido diretamente à seguradora para o fornecimento de apólice de seguro de vida em grupo, o qual é firmado entra a empresa estipulante e a seguradora, e não com o segurado.
+Argumenta que os documentos em posse da seguradora e requeridos na inicial (pedido ‘e’) são de difícil acesso ao segurado que não tratou diretamente com a seguradora, sendo, por outro lado, de fácil exibição pela requerida em sede de contestação na presente demanda.
+Requer a antecipação da tutela recursal, nos termos do art. 1.019, I, do CPC, a fim de determinar ao Juízo a quo, que receba a inicial manejada, dando prosseguimento a marcha processual independentemente da comprovação da recusa administrativa da seguradora; caso, não seja o entendimento, requer nos termos do artigo acima citado, que seja atribuído ao presente agravo efeito suspensivo, comunicando ao juiz sua decisão.
+No mérito, seja processado e julgado procedente, o presente pedido, com a conseqüente reforma da r. decisão agravada, a fim de reconhecer o interesse de agir da parte agravante, bem como a desnecessidade de pedido administrativo de exibição de documentos para ajuizamento da ação de indenização securitária ora manejada.
+Por fim, requer-se a concessão à parte autora do benefício da Justiça Gratuita para o presente recurso tendo em vista não ter condições de arcar com as custas processuais, conforme já comprovado ao juízo da origem.
+É o relatório do essencial.
+Decido
+A concessão do efeito suspensivo condiciona-se à relevância da fundamentação formulada pelo Agravante, bem como à possibilidade de lesão grave e de difícil reparação, nos termos dos artigos 995, § único, do Código de Processo Civil:
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Por sua vez, para a concessão do efeito ativo pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo. ”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”;
+Pois bem,
+Em sede de cognição sumária, não se vislumbra, prima facie, a presença dos pressupostos autorizadores para se deferir o efeito suspensivo pleiteado.
+A propósito:
+“EXIBIÇÃO DE DOCUMENTO – ESGOTAMENTO DA VIA ADMINISTRATIVA – DEMONSTRADA - STJ – JULGAMENTO EM SEDE DE RECURSOS REPETITIVOS - HONORÁRIOS ADVOCATÍCIOS – CONDENAÇÃO – SENTENÇA ALTERADA - RECURSO PROVIDO. A medida cautelar de exibição de documentos é o meio adequado para ter acesso aos documentos comuns, desde que comprovado o prévio requerimento administrativo. Entendimento sedimentado no REsp 1.349.453/MS. No caso, o requerente demonstrou que realizou o pedido administrativo para exibição documento, contudo, não obteve qualquer resposta do banco. O simples fato de ter dado causa a demanda e ao seu indevido prolongamento, implica na condenação sucumbencial. (N.U 1029424-66.2020.8.11.0041, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, CARLOS ALBERTO ALVES DA ROCHA, Terceira Câmara de Direito Privado, Julgado em 28/07/2021, Publicado no DJE 04/08/2021)”.
+Nesse REsp ficou assim consignado:
+Não pairam dúvidas de que a relação entre os bancos e seus correntistas é regida pelo Código de Defesa do Consumidor. Igualmente, é indisputável que o contrato e os extratos são documentos comuns e que o banco tem o dever de fornecê-los ao cliente, quantas vezes for solicitado. Mas o banco não pode adivinhar que determinado cliente deseja a segunda, a terceira ou a quarta via de tal ou qual documento. Não é razoável que o pedido seja feito diretamente perante o Judiciário, sem que tenha sido solicitado extrajudicialmente ao banco. Assim, é pressuposto para configurar o interesse de agir a demonstração de que o banco, ciente da pretensão, não se dispôs a fornecer os documentos em tempo hábil. Tal demonstração pode decorrer de negativa explícita ou da mera omissão.
+Assim, por ora, tenho que o caso não comporta o efeito almejado, uma vez que os argumentos do juízo a quo são consistentes.
+Com esses apontamentos, em sede de cognição sumária, julgo pertinente a manutenção da decisão agravada.
+Posto isso, ausentes os requisitos necessários para a sua concessão, INDEFIRO o efeito almejado, ficando assim acertado, até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, possa decidir com certeza e segurança sobre o mérito do recurso.
+Defiro a concessão dos benefícios da justiça gratuita à agravante nesta instância.
+Comunique-se ao juiz da causa, facultando-lhe prestar informações.
+Intime-se a agravada para, querendo, apresentar contrarrazões, no prazo legal.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
