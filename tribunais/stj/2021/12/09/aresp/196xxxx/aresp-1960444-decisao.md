@@ -1,0 +1,43 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por MARIA CONCEICAO CARDOSO, em face de decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. DECISÃO QUE AFASTOU A PRESCRIÇÃO DA PRETENSÃO INICIAL. INSURGÊNCIA DA PARTE EMBARGANTE/EXECUTADA.
+DÍVIDA LÍQUIDA CONSTANTE DE INSTRUMENTO PARTICULAR DE PRESTAÇÃO DE SERVIÇO. LAPSO PRESCRICIONAL DE 5 (CINCO) ANOS, PREVISTO NO ARTIGO 206, § 5º, I, DO CÓDIGO CIVIL. TERMO INICIAL.DATA DE VENCIMENTO DA ÚLTIMA PRESTAÇÃO (CC, ART. 189).
+Prescreve, em cinco anos, a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular, conforme dispõe o artigo 206, § 5º, I, do Código Civil.
+NOTAS PROMISSÓRIAS. PRAZO PRESCRICIONAL DE 3 (TRÊS) ANOS A CONTAR DO VENCIMENTO, NOS TERMOS DO ART. 70 DO DECRETO N. 57.663/1966.
+A pretensão de cobrança de nota promissória prescrevem em 3 (três) anos a contar do seu vencimento, a teor do art. 70 do Decreto n. 57.663/1966.
+INTERRUPÇÃO DO LAPSO PRESCRICIONAL NA DATA DO DESPACHO CITATÓRIO. POSSIBILIDADE.TENTATIVAS FRUSTRADAS DE LOCALIZAÇÃO DA PARTE EXECUTADA. ATO CITATÓRIO MOROSO.AUSÊNCIA DE DESÍDIA DA PARTE EXEQUENTE, QUE IMPULSIONOU O FEITO NA FORMA QUE LHE COMPETIA.INTELIGÊNCIA DA SÚMULA 106 DO STJ. PRESCRIÇÃO INEXISTENTE.
+O prazo prescricional interrompe-se na data do despacho citatório e retroage à data da propositura da demanda nos casos em que a demora na realização da triangularização processual der-se em razão da morosidade do judiciário. Não há interrupção do lapso prescricional, quando a demora da citação decorrer da desídia do autor no cumprimento de diligências determinadas pelo juízo.
+RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 119/128)
+Nas razões recursais, arecorrente alega, além de divergência jurisprudencial, violação aos arts. 206 e 240 do CPC e 202 do CC, sustentando a consumação da prescrição por falta de citação por desídia da parte recorrida.
+É o relatório.
+Passo a decidir.
+A irresignação recursal não merece acolhida.
+O Tribunal de origem, considerando os elementos constantes dos autos, concluiu que a parte observou o prazo prescricional para o ajuizamento da ação e que a dificuldade na efetivação do ato citatório não pode ser a ela atribuída, haja vista que não decorreu de sua inércia, mas em razão do trâmite do processo, nestes termos:
+Na espécie, em que pese a coerência interna dos argumentos desenvolvidos em favor da tese de prescrição, observa-se que a demora entre a data do protocolo do pedido e cada um dos atos subsequentes se deve ao tempo do trâmite do processo (§ 2º, art. 219, do CPC/73), e não à inércia da parte autora, que atuou no processo em busca do endereço da parte ré, tendo apresentado mais de 10 (dez) petições solicitando diligências, indicando o endereço para citação, requerendo o auxílio do Juízo na pesquisa ou requerendo a citação por edital (fls. 106-108 na origem), razão pela qual não pode ser penalizada.
+Dessa feita, infere-se o esforço da parte exequente a fim de citar a parte executada, de tal modo que a dificuldade na efetivação do ato citatório não pode a ela ser atribuída, que atendeu às determinações judiciais para impulsionar o processo, bem como observou o prazo prescricional para o ajuizamento da ação (de cinco anos para a cobrança de dívidas líquidas e certas constantes de instrumento público ou particular, a teor do disposto no art. 206, § 5º, inc. I, do CC/02 e de três anos, em se tratando de nota promissória (art. 70 do Decreto n. 57.663/66)).
+Compulsando os documentos carreados no processo de origem, verifica-se que o vencimento das notas promissórias datam de julho de 2009 a dezembro de 2009 e o contrato, por sua vez, foi firmado em 3.3.2009. Tendo sido a ação proposta em 19.11.2010, depreende-se que não decorreu o prazo prescricional de cinco e três anos, respectivamente.(e-STJ fl. 82).
+Assim, firmadas as premissas estabelecida pelo Tribunal de Justiça nos elementos constantes dos auto, inviável se torna a revisão da conclusão, de quea demora da citação válida darecorrente deu-se por motivos inerentes aos mecanismos da justiça, uma vez quedemandaria o revolvimento do contexto fático probatório dos autos o que se mostra inviável em sede de recurso especial a teor da Súmula nº 7/STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO. INEXISTÊNCIA. SÚMULA Nº 106/STJ. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DISSÍDIO NÃO CONFIGURADO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A demora na citação por motivos inerentes ao mecanismo da Justiça não ampara o reconhecimento da prescrição, conforme o disposto na Súmula nº 106/STJ.
+3. A verificação da procedência dos argumentos expendidos no recurso especial exigiria, por parte desta Corte, o reexame de matéria fática, procedimento vedado pela Súmula nº 7/STJ.
+4. Rever o conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+5. Agravo interno não provido (AgInt nos EDcl no AREsp 1243403/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/06/2019, DJe 14/06/2019).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CONCLUSÃO ESTADUAL NO SENTIDO DA AUSÊNCIA DE PRESCRIÇÃO. NÃO CARACTERIZAÇÃO DE INÉRCIA DO CREDOR. EQUÍVOCO IMPUTADO AO PODER JUDICIÁRIO. SÚMULA 7/STJ. JULGADO EM HARMONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A conclusão no sentido de que não transcorreu o prazo prescricional, pois a parte exequente não teria sido desidiosa, mas agido dentro do prazo legal, foi fundada em fatos e provas - aplicação da Súmula 7/STJ.
+2. É sabido que "é firme o entendimento do STJ no sentido de que somente a inércia injustificada do credor caracteriza a prescrição intercorrente na execução, o que não se verifica no caso concreto, já que a demora no andamento do feito se deu por motivos inerentes ao próprio mecanismo judiciário (Súmula 106/STJ)" (AgInt no AREsp 1.169.279/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/5/2018, DJe 23/5/2018). Incidência da Súmula 83/STJ.
+3. Agravo interno desprovido" (AgInt no AREsp 1552863/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/03/2020, DJe 30/03/2020).
+Quanto ao dissídio jurisprudencial, a jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c, do permissivo constitucional.
+À propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - REQUISITOS DO ARTIGO 927 DO CPC - SÚMULA 7/STJ - IMPOSSIBILIDADE DE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL POR RECLAMAR CONSIDERAÇÃO SOBRE A SITUAÇÃO FÁTICA - DECISÃO AGRAVADA MANTIDA
+1.- A revisão, em autos de Recurso especial, das conclusões levadas a efeito pelas decisões precedentes acerca da satisfação dos requisitos do artigo 927 do CPC para o provimento do pedido de reintegração de posse encontra óbice na súmula 7/STJ.
+2.- Impossível se torna o confronto entre os paradigmas e o acórdão recorrido, quando a comprovação do alegado dissenso reclama consideração sobre a situação fática própria de cada julgamento, o que não é possível de se realizar nesta via Especial, por força do enunciado 07 da Súmula desta Corte.
+3.- Agravo Regimental improvido. (AgRg no AREsp 279.116/MG, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 23/04/2013, DJe 07/05/2013 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intime-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. DECISÃO QUE AFASTOU A PRESCRIÇÃO DA PRETENSÃO INICIAL. CITAÇÃO.DEMORA INERENTE AOS MECANISMOS DA JUSTIÇA. INSURGÊNCIA DA PARTE EMBARGANTE/EXECUTADA.IMPOSSIBILIDADE. REVISÃO. SÚMULA Nº 7/STJ.DISSÍDIO JURISPRUDENCIAL. SÚMULA Nº 7/STJ.APLICAÇÃO DO REFERIDO ÓBICE POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
