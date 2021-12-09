@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de PEDRO ARILDO RUIZ FILHOcontra decisão de Desembargador doTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁque indeferiu liminarmente oHC n. 0071748-42.2021.8.16.0000.
+Extrai-se dos autos que no bojo da denominada "Operação Metástase" o paciente responde a diversas outras ações penais, nas quais está preso preventivamente, e, especificamentena Ação Penal n.0007630-23.2021.8.16.0173,foi denunciado pela suposta prática dos crimes previstos no art. 299, caput, c/c o art. 29, caput, por no mínimo 57 vezes; no art. 312, caput, c/c o art. 327, §1º, por no mínimo 66 vezes, na forma no art. 71, caput, todos do Código Penal (falsidade ideológica em concurso de pessoas e peculato em continuidade delitiva); e no art. 1º, caput, da Lei n. 9.613/1998, c/c o art. 29, caput, do Código Penal, por no mínimo 3 vezes (lavagem de capitais em concurso de pessoas). Ao receber a denúncia, em 6/7/2021, o Juízo de primeiro grau decretou a prisão preventiva do réu.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual, por decisão monocrática do relator,indeferiu liminarmente a impetração, em decisão assim ementada:
+"DECISÃO MONOCRÁTICA. PRETENSÃO HABEAS CORPUS. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA DECRETADA POR CAUTELARES DIVERSAS. AUSÊNCIA DE INTERESSE DE AGIR. PACIENTE QUE JÁ SE ENCONTRA ENCARCERADO. DUAS PRISÕES ANTERIORES, INCLUSIVE, QUE JÁ FORAM APRECIADAS E MANTIDAS POR ESTA CÂMARA. AUSÊNCIA NÃO ADMITIDO. DE UTILIDADE. WRIT EXTINÇÃO DO PROCESSO, SEM JULGAMENTO DO MÉRITO." (fl. 106).
+Daí o presente writ, no qual o impetrante sustenta a ilegalidade da decisão impugnada, destacando estar demonstrado o interesse de agir do agente, tendo em vista que cada decreto de prisão preventiva deve ser analisado à luz dos arts. 312 e 315, c/c o art. 319, todos do CPP.
+Afirma que a prisão preventiva decretada nos autos daAção Penal n. 0007630-23.2021.8.16.0173 ainda não teria sido submetida à análise do Tribunal de origem, não havendo falar em reiteração de pedido, nem tampouco em falta de interesse de agir. Aponta, portanto, ser equivocada a decisão impugnada que sequer determinou o processamento do writ.
+Indica ser caso de superação da Súmula 691/STF.
+Requer, em liminar e no mérito, a determinação de que oHC n. 0071748-42.2021.8.16.0000 seja processado na Corte de origem.
+É o relatório.
+Decido.
+No caso, mesmo em juízo perfunctório, é possível identificar de plano o constrangimento ilegal aventado, bem como a presença dofumus boni iurise dopericulum in mora, elementos autorizadores para a concessão da tutela de urgência.
+Isso porque, conforme se verifica dos autos, o Desembargador relator indeferiu liminarmente a impetração, deixando de analisar os fundamentos da prisão preventiva decretada nos autos da Ação Penal n.0007630-23.2021.8.16.0173, em evidente negativa de prestação jurisdicional, considerando que tal análise não teria sido avaliada nas impetrações anteriores, sendo, ainda, imperioso destacar que a existência de decreto preventivo anterior em ação penal diversa, não implica em ausência de interesse de agir na hipótese dos autos.
+Diante do exposto, defiro a liminar para determinar que o Tribunal de Justiça do Estado do Paraná proceda o processamento doHC n. 0071748-42.2021.8.16.0000, com aanalise da impetração como entender de direito.
+Oficie-se à autoridade coatorapara adoção das medidas cabíveis. Na ocasião requisitem-lhe, no prazo legal, as informações pertinentes a seremprestadas, preferencialmente, pela Central do Processo Eletrônico - CPE do STJ. Requisita-se, também, o envio de senha para acesso ao processo.
+Após, encaminhem-se os autos ao Ministério Público Federal para parecer.
+Publique-se.
+Intimem-se.
