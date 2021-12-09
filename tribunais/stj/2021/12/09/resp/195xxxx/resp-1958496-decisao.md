@@ -1,0 +1,45 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto porMAURICIO CORDENONZI e OUTROS,com fundamento nasalíneas "a" e "c", do inciso III, do artigo 105, da Constituição Federal contra acórdão do Tribunal de Justiça do Estado do Tocantins assim ementado:
+APELAÇÃO. EXECUÇÃO DE TÍTULOEXTRAJUDICIAL. CONDENAÇÃO EM HONORÁRIOS DESUCUMBÊNCIA. ARTIGO 12 DA LEI 13.340/2016. RENEGOCIAÇÃO E LIQUIDAÇÃO DE CÉDULA DE CRÉDITORURAL. LEI ESPECIAL. RECURSO NÃO PROVIDO.
+1. Nos casos de extinção da ação executiva por renegociação ouliquidação da dívida, a parte executada não pode ser condenada aopagamento dos honorários advocatícios ao patrono da parteexequente, tendo em vista que a lei especial, qual seja, Lei13.340/2016, em seu artigo 12, estabelece que tal verba é deresponsabilidade de cada parte.
+2. Em se tratando de relação jurídica decorrente de operações decrédula de crédito rural, não há que se falar em aplicação doprincípio da causalidade para fins de condenação daquele que deucausa ao ajuizamento da ação ao pagamento dos honoráriosadvocatícios, consoante disposição do art. 12 da Lei 13.340/2016.
+3. Recurso conhecido e não provido.
+Em suas razões, a parte recorrente alega, além de divergência jurisprudencial,ofensa aos arts. 85, §§ 1º, 2º e 10 do CPC; 23 e 24 da Lei nº 8.906/94 e 12 da Lei nº 13.340/2016, sustentando que o ônus da sucumbência, bem como o pagamento de custas deve ser suportado por quem deu causa à instauração do processo.Defende, em síntese, a existência de equívoco do Tribunal de origem ao afastar o princípio da causalidade e que, em momento algum o artigo 12 da Lei n 13.340/2016 isentaria o pagamento dos honorários advocatícios, uma vez que esses não pertencem as partes, e sim aos advogados que atuaram no processo.Alega que "não há que se falar acordo entre as partes, o que houve de fato foi a perda superveniente do interesse de agir por parte do exequente, pois este jamais poderia prosseguir com uma execução onde o crédito devido foi renegociado".
+É relatório.
+Passo a decidir.
+A irresignação recursal não mereceprosperar.
+Quanto aos honorários advocatícios, a Corte estadual assim se manifestou acerca da controvérsia,verbis:
+As partes celebraram acordo nos termos da Lei 13.340/2016, cujo artigo 12, que dispõe acerca dos honorários advocatícios, prescreve que: Art. 12. Para os fins do disposto nos arts. 1o a 3o desta Lei, os honorários advocatícios e as despesas com custas processuais são de responsabilidade de cada parte e a falta de seu pagamento não obsta a liquidação ou repactuação da dívida, conforme o caso. O dispositivo (art. 12, Lei 13.340/2016), numa interpretação teleológica, objetiva desonerar as partes da condenação de honorários sucumbenciais, demonstrando sua nítida natureza conciliatória, que visa estimular a auto composição pacífica e resolução da lide. Por isso mesmo, não há como se cogitar na condenação do embargante/apelado nos honorários sucumbenciais, conforme pretende o apelante, face à disposição específica contida no artigo.
+Nesse caso, a renegociação e respectiva quitação da dívida resultado do crédito rural caracteriza espécie de transação judicial, sendo que, de acordo com a lei que rege tal renegociação, há dispositivo liberando as partes de eventual condenação de honorários sucumbenciais. Nesse sentido:
+ .. .(e-STJ fls. 473/474).
+Desse modo, constata-se que o Tribunal de origem decidiu de modo consonante com a jurisprudência desta Corte Superior uma vez que a renegociação da dívida nos termos da Lei n. 13.340/2016 traz como resultado a extinção imprópria do processo de execução e tem disposição expressa no sentido de que os honorários advocatícios são de responsabilidade de cada uma das partes, regra que se coaduna com o princípio da causalidade e com a equidade na atribuição da responsabilidade pela verba honorária.
+Nesse mesmo sentido:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO.CÉDULAS DE CRÉDITO RURAL PIGNORATÍCIAS E HIPOTECÁRIAS. RENEGOCIAÇÃO DA DÍVIDA. EXTINÇÃO DO PROCESSO. HONORÁRIOS ADVOCATÍCIOS.DESCABIMENTO. PREVISÃO ESPECÍFICA DO ART. 12 DA LEI 13.340/2016.
+1. Embargos à execução opostos em 30/11/2011. Recurso especial interposto em 06/02/2019 e concluso ao Gabinete em 16/09/2019.
+2. O propósito recursal consiste em dizer se, em razão da renegociação, realizada com fundamento na Lei 13.340/16, de dívida inscrita em cédulas de crédito rural pignoratícias e hipotecárias, com a consequente extinção dos embargos à execução, devem os executados-embargantes ser condenados a pagar honorários advocatícios em favor dos patronos do Banco exequente-embargado.
+3. A condenação do vencido ao pagamento de honorários advocatícios surgiu, por razão de equidade, como fator de recomposição do patrimônio do vencedor, a fim de que este recebesse, ao final do processo, não apenas o direito material vindicado, mas, também, a restituição das despesas em que incorreu no curso da demanda, de modo a se restabelecer a situação econômica que teria se não fosse o litígio.
+4. A destinação dos honorários de sucumbência ao advogado do vencedor tratou-se de opção do legislador infraconstitucional, ao editar o art. 23 da Lei 8.906/94 (Estatuto da Advocacia).
+5. De modo semelhante, por opção de política legislativa, há normas especiais que excepcionam a aplicação dos princípios da sucumbência e da causalidade, isentando as partes do pagamento da verba honorária, até mesmo das custas e despesas processuais.
+6. Nesse sentido, optou o legislador, ao editar a Lei 13.340/2016 - que trata de plano de recuperação de dívidas de crédito rural -, por não incrementar o dispêndio financeiro das partes, em especial do agricultor mutuário, com o pagamento de honorários advocatícios à parte adversa. Aplicação da norma especial que afasta a incidência da regra geral.
+7. Recurso especial conhecido e não provido.
+(REsp 1836470/TO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 02/02/2021, DJe 05/02/2021)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PREQUESTIONAMENTO. AUSÊNCIA.SÚMULA 211/STJ. EXECUÇÃO. CÉDULA DE CRÉDITO RURAL. RENEGOCIAÇÃO DA DÍVIDA. EXTINÇÃO IMPRÓPRIA. MODIFICAÇÃO DO DIREITO DE CRÉDITO.HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. CAUSA SUPERVENIENTE. RESPONSABILIDADE.ATUAÇÃO BILATERAL DAS PARTES. ART.12 DA LEI 13.340/16. ART. 90, § 2º, DO CPC/15. DISTRIBUIÇÃO IGUALITÁRIA.
+1. Cuida-se de execução fundada em Cédula de Crédito Rural Pignoratícia e Hipotecária que foi extinta em razão da renegociação da dívida, nos termos da Lei 13.340/16.
+2 Recurso especial interposto em: 09/04/2019; conclusos ao gabinete em: 09/09/2019. Aplicação do CPC/15.
+3. O propósito recursal consiste em determinar se, em virtude da renegociação, realizada com fundamento na Lei 13.340/16, da dívida inscrita em cédula de crédito rural pignoratícia e hipotecária, com a consequente extinção do processo executivo, devem ser os executados condenados a pagar honorários advocatícios em favor dos patronos do exequente.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. A condenação ao pagamento de honorários advocatícios é uma consequência objetiva da extinção do processo, sendo orientada, em caráter principal, pelo princípio da sucumbência e, subsidiariamente, pelo da causalidade.
+6. O princípio da causalidade atende a uma razão de justiça distributiva e demanda que se questione comportamento das partes antes e no decorrer do processo.
+7. A aplicação da causalidade e a justa distribuição das despesas e dos honorários resulta na imputação da responsabilidade a quem tornou necessário o processo ou quem seja responsável pela causa superveniente que ensejou sua extinção. Precedentes.
+8. O processo executivo pode encontrar termo de maneira anômala e antecipada nos casos em que se extingue o próprio direito de crédito do exequente, por qualquer dos meios liberatórios previstos no direito material, ainda que extraprocessuais.
+9. O acordo bilateral entre as partes, envolvido na renegociação da dívida, demanda reciprocidade das concessões, não caracteriza sucumbência e é resultado da conduta de ambas as partes. Nessa situação, os honorários devem ser arcados por cada parte, em relação a seu procurador (arts. 90, § 2º, do CPC/15 e 12 da Lei 13.340/16).
+10. Recurso especial parcialmente conhecido e, no ponto, desprovido.
+(REsp 1836703/TO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/10/2020, DJe 15/10/2020)
+Nesse contexto, ante a incidência da Súmula 568 deste Superior Tribunal de Justiça o desprovimento do recurso émedida que se impõe.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do Código de Processo Civil de 2015 (cf. Enunciado Administrativo n. 3 deste Superior Tribunal de Justiça).
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. HONORÁRIOS. RESPONSABILIDADE DE CADA PARTE. ART. 12 DA LEI N. 13.340/2016. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR.
+RECURSO ESPECIAL DESPROVIDO.
