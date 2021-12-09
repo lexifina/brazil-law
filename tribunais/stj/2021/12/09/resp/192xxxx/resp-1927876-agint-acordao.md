@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Trata-se  de  agravo  interno  interposto  por ALTAIR VACINESKI STEGUES,  contra  decisão  de fls. 732/738, queconheceu parcialmente o recurso especial do INSS e, nessa extensão, deu-lhe provimento, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. NOVO JUÍZO DE CONFORMAÇÃO. TEMA 995/STJ. IRRECORRÍVEL. JUROS MORATÓRIOS DEVIDOS EM CASO DE DESCUMPRIMENTO DA OBRIGAÇÃO. INCIDÊNCIA A PARTIR DE 45 DIAS DA IMPLANTAÇÃO DO BENEFÍCIO. PRECEDENTE DO STJ. RECURSO ESPECIAL DA AUTARQUIA PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+2.  Em  suas  razões  (fls.  732/738),  a  parte  agravante  alega, em suma, que: (i) determinar que os juros moratórios sejam fixados em momento posteriora reafirmação da DER viola o art. 240 do CPC/1973; (ii) a questão atinente àincidência dos juros demora não faz parte da tese delimitada no julgamento do Tema 995/STJ.
+3.  Requer,  ao  final,  o  provimento  do  agravo  interno,  para  que  seja  negado provimento ao  recurso  especial  nos  termos  pleiteados.
+4.  Não  houve  impugnação  ao  recurso  (fls.  750).
+5.  É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL E PREVIDENCIÁRIO.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REAFIRMAÇÃO DA DER. TEMA 995/STJ. JUROS MORATÓRIOS DEVIDOS EM CASO DE DESCUMPRIMENTO DA OBRIGAÇÃO. INCIDÊNCIA A PARTIR DO TÉRMINO DO PRAZO DE 45 DIASFIXADO PARA A IMPLANTAÇÃO DO BENEFÍCIO. PRECEDENTE DO STJ.  AGRAVO  INTERNO  DO PARTICULAR  NÃO  PROVIDO.
+1.  A Primeira Seção do STJ, no julgamento dos Embargos de Declaração no REsp 1.727.063/SP, Tema 995/STJ, submetidos ao regime de recursos repetitivos, de relatoria do eminente Ministro MAURO CAMPBELL MARQUES,concluiu que os juros de mora, nos casos de reafirmação da Data de entrada do requerimento - DER para data posterior ao ajuizamento da ação, somente incidem a partir do prazo de 45 (quarenta e cinco) dias fixado pelo juízo para a implantação do benefício.
+2.  O Tribunal de origem - ao determinar a incidência de juros de mora a partir da reafirmação da DER - destoou da jurisprudência desta Corte sobre o tema, não havendo razões para modificar a decisão recorrida.
+3.  Agravo  interno  do particular não provido.
+VOTO
+1.  O  recurso  não  merece  prosperar.
+2.  Inicialmente,  é  importante  ressaltar  que  o  presente  recurso  atrai  a  incidência  do  Enunciado  Administrativo  3  do  STJ,  segundo  o  qual,  aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016),  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  Código.
+3. A parte agravante pretende que não seja aplicado o decidido no Tema 995/STJ ao caso, sob pena de violar oart. 240 do CPC/1973. Aponta, ainda, quea questão relativa aos juros de mora não foiobjeto de afetação.
+4. Ocorre que a matéria foi expressamente decidida quando houve o julgamento dos aclaratórios opostos pelo INSS.
+5.Conforme destacado na decisão agravada, o acórdão recorrido, ao fixar os juros moratórios na data da reafirmação da DER, destoou da orientação desta Corte Superior.
+6. A Primeira Seção, no julgamento dos Embargos de Declaração no REsp 1.727.063/SP, Tema 995/STJ, submetidos ao regime de recursos repetitivos, de relatoria do eminente Ministro MAURO CAMPBELL MARQUES, concluiu que os juros de mora, nos casos de reafirmação da Data de entrada do requerimento - DER para data posterior ao ajuizamento da ação, somente incidem a partir do prazo de 45 (quarenta e cinco) dias fixado pelo juízo para a implantação do benefício. Confira-se, por oportuno, a ementa do referido precedente:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITO MODIFICATIVO.
+1. Embargos de declaração opostos pelo INSS, em que aponta obscuridade e contradição quanto ao termo inicial do benefício reconhecido após reafirmada a data de entrada do requerimento.
+2. É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+3. Conforme delimitado no acórdão embargado, quanto aos valores retroativos, não se pode considerar razoável o pagamento de parcelas pretéritas, pois o direito é reconhecido no curso do processo, após o ajuizamento da ação, devendo ser fixado o termo inicial do benefício pela decisão que reconhecer o direito, na data em que preenchidos os requisitos para concessão do benefício, em diante, sem pagamento de valores pretéritos.
+4. O prévio requerimento administrativo já foi tema decidido pelo Supremo Tribunal Federal, julgamento do RE 641.240/MG. Assim, mister o prévio requerimento administrativo, para posterior ajuizamento da ação, nas hipóteses ali delimitadas, o que não corresponde à tese sustentada de que a reafirmação da DER implica na burla do novel requerimento.
+5. Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV. No caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirão, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, embutidos no requisitório de pequeno valor.
+6. Quanto à obscuridade apontada, referente ao momento processual oportuno para se reafirmar a DER, afirma-se que o julgamento do recurso de apelação pode ser convertido em diligência para o fim de produção da prova.
+7. Embargos de declaração acolhidos, sem efeito modificativo.
+(EDcl no REsp 1727063/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 19/05/2020, DJe 21/05/2020)
+7. Assim, tendo em vista que as alegações declinadas no presente agravo interno não são capazes de alterar o entendimento anteriormente manifestado, mantenho incólume a decisão agravada.
+8.  Ante  o  exposto,  nego  provimento  ao  agravo  interno  do particular.
+9.  É  como  voto.
