@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado de próprio punho por GUSTAVO DE SA FERRAZ apontando como autoridade coatora o TribunaldeJustiçadoEstadodeSão Paulo.
+O impetrante/paciente informa que foi condenado a 5 anos de reclusão, no regime inicial fechado, negado o direito de recorrer em liberdade, pela prática do delito inscrito no art. 33 da Lei n. 11.343/2006 (tráfico de drogas).
+Não obstante, informa que esta Corte,no julgamento do HC n. 959.535/SP, teria determinado a substituição da prisão por medidas cautelares.
+Alega que essa decisão estaria sendo desrespeitada em razão da determinação de expedição de mandado de prisão pelo magistrado de primeiro grau.
+Aduz que, "quando a Juíza cita.. "a prisão determinada às fls. 655 decorre da condenação, com trânsito em julgado, enquanto a decisão do HC do C. ST. I abrange, tão-somente, a prisão cautelar.", para a mantença de sua decisão, ignora que a decisão do STJ, não abrange, tão somente prisão cautelar, pois o que depreende da leitura do voto do eminente Ministro Antônio Saldanha Palheiro, é a abordagem da condenação e execução da pena, é abordado o regime de cumprimento. A decisão não ABRANGE, tão somente a prisão cautelar, ela determina a substituição do regime, fechado, para medidas cautelares, conforme Art. 319 do CPP. A decisão abrange o cumprimento da pena e seu regime. As medidas cautelares estão inseridas na decisão de alteração de regime de cumprimento de pena. Percebe-se uma aplicação errônea do termo abrange, pois, dentro da decisão do STJ se discorre sobre a condenação" (e- STJ fl. 3)
+Daí o presente writ, no qual requer, liminarmente e no mérito, a expedição de contramandado de prisão..
+O pedido liminar foi indeferido (e-STJ fls. 8/9).
+Informações prestadas às e-STJ fls. 18/74, 75/78 e 80/85.
+A Defensoria Pública do Estado de São Paulo ingressou no feito (e-STJ fls. 91/93).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 97/99).
+É, em síntese, ao relatório.
+O alegado descumprimento do comando inserto na decisão por mim proferida no HC n. 659.535/SP não se configurou.
+No referido habeas corpus, concedi a ordem apenas para "substituir a prisão preventiva por outras medidas cautelares constantes do art. 319 do Código de Processo Penal.."
+A ordem de prisão emanada do Juízo de primeiro grau, por sua vez, decorreu do trânsito em julgado da condenação. Ou seja, não mais subsistindo a prisão cautelar, a decisão exarada por esta Corte perdeu sua eficácia.
+O Tribunal de origem esclareceu que a decisão que havia determinado a substituição da prisão preventiva por medidas cautelares foi cumprida e, somente após o trânsito em julgado da condenação, é que foi determinada a expedição de mandado de prisão. Confira-se (e-STJ fls. 65/66):
+Com efeito, verifica-se que Gustavo foi condenado pela prática dos crimes dos artigos 33, caput, da Lei nº 11.343/06, e 12 da Lei nº 10.826/03, ao cumprimento de 05 (cinco) anos de reclusão, em regime inicial fechado; e 01 (um) ano de detenção, em regime aberto. Em22.04.2021, o C. Superior Tribunal de Justiça, nos autos do habeas corpus nº 659.535/SP, impetrado em face do acórdão condenatório, concedeu a ordem liminarmente para "substituir a prisão preventiva por outras medidas cautelares constantes do art. 319 do Código de Processo Penal a serem definidas pelo Juízo local". Diante disso, na mesma data diversamente do alegado pela impetrante o MM. Juízo a quo deu cumprimento à decisão proferida pela E. Corte Superior, e fixou medidas alternativas ao cárcere, determinando a expedição de alvará de soltura, o qual foi expedido e cumprido no mesmo dia.
+Todavia, em 23.04.2021 foi certificado o trânsito em julgado do acórdão condenatório, ocorrido em 19.04.2021.Posteriormente, em 16.07.2021, a d. Magistrada de piso determinou a expedição de mandado de prisão, o qual foi expedido em 09.08.2021, encontrando-se pendente de cumprimento (fls. 621/653, 641/655, 646, 647/648, 657/659, 650, 655 e 671 processo nº 1506606-67.2020.8.26.0228).
+Assim, quanto ao pedido de expedição de contramandado de prisão com fundamento na decisão proferida pelo C.STJ, como visto acima, o decisum foi devidamente cumprido pelo MM.Juízo a quo, com a expedição do respectivo alvará de soltura. Contudo, sobreveio a certificação do trânsito em julgado do acórdão, e, por conseguinte, foi expedido mandado de prisão definitiva.
+Portanto, não há constrangimento ilegal a reparado.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
