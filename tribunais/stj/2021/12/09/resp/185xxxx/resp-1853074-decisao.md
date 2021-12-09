@@ -1,0 +1,23 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por BANCO PAN S/A, em face de acórdão do TJRO, assim ementado:
+Busca e apreensão. Bem apreendido liminarmente. Improcedência do pedido. Determinação de restituição. Alienação a terceiros. Multa. Art. 3º, § 6º, do Decreto-Lei n. 911/69. Astreintes.
+A ausência de constituição em mora do devedor, bem como de comprovação da inadimplência na data do ajuizamento da ação são fatores que implicam a improcedência do pedido de busca e apreensão de veículo alienado fiduciariamente.
+Julgado improcedente o pedido inicial, há que se condenar o credor fiduciário ao pagamento da multa prevista no § 6º do art. 3º do Decreto-Lei n. 911/69 se alienado, antecipadamente, o bem apreendido.
+Devem ser mantidas as astreintes fixadas para o caso de descumprimento de ordens judiciais, bem como mantidos os valores arbitrados frente o porte econômico e a recalcitrância da parte em não cumprir os comandos.
+No recurso especial, interposto com fundamento naalíneaa do permissivo constitucional, orecorrente apontou ofensa ao art. 3º, §1º, do Decreto-lei 911/69. Afirmou que (I) a mora estava presente no ajuizamento da demanda, sendo que para afastá-la seria necessário o pagamento integral do débito, englobando parcelas vencidas e vincendas; (II) "a multa por descumprimento de ordem pode, e deve, ser revista ou limitada a qualquer tempo, mesmo porque no caso dos autos a obrigação é impossível de ser cumprida, adequando-a a sua primordial função, qual seja, de estimular o cumprimento da obrigação, bem como para evitar a violação ao princípio do enriquecimento sem causa; (III) a imposição de multa mesmo com a obrigação impossível de ser cumprida viola o princípio do non bis in idem.
+Foram apresentadas contrarrazões ao recurso especial (fls. 360/369).
+É o relatório.
+Passo a decidir.
+O recurso especial não comporta conhecimento porquantoexsurge deficiente a fundamentação recursal, pois o recorrente limita-se a indicar o dispositivo supostamente violado, deixando de informar de que modo a legislação federal foi violada ou teve negada sua aplicação. Assim, não conheço do recurso, ante a incidência da Súmula 284/STF.
+Ademais, a tese do recorrente é no sentido de que a purgação da mora somente se dá havendo o pagamento integral do débito, das parcelas vencidas e vincendas. Ocorre que o Tribunal de origem não analisou tal questão, não tendo havido prequestionamento da matéria, tampouco a oposição de embargos de declaração com o objetivo prequestionatório, a atrair o óbice da Súmula 282/STF.
+Ressalto que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrigui, Terceira Turma, julgado em 04/04/2017, DJe 10/04/2017), o que não ocorreu. Logo, não há como se ter como prequestionada a matéria. Nesse sentido: AgInt no AREsp 1043549/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 01/08/2017; AgInt no REsp 1633039/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/05/2017, DJe 24/05/2017.
+Sobre (I) a exclusão da multa por descumprimento e (II) a caracterização da dupla punição pelo mesmo ato, o recurso especial também não reúne condições de admissibilidade, pois orecorrentenão indicouos dispositivos legais que teriam sido violados, indicando precisamente a questão federal controvertida, incidindo, assim, o óbice da Súmula 284/STF (REsp 963.528/PR, Corte Especial, Rel. Min. Luiz Fux, DJe de 04/02/2010).
+Ressalto que tal óbice aplica-se tanto para a interposição do recurso com fundamento na alínea a do permissivo constitucional, quanto para a interposição com base em divergência jurisprudencial, tendo em vista que o recorrente também não apontou dispositivo legal que teria obtido interpretação diversa da que foi dada por outro Tribunal (AgRg nos EREsp 382.756/SC, Corte Especial, Rel. Min. Laurita Vaz, DJe de 17/12/2009).
+Por fim, com fundamento no §11 do art. 85 do CPC, majoro o percentual dos honorários de advogado a que condenada o recorrentena origem em R$500,00.
+Ante o exposto, não conheço do recurso especial.
+Advirto as partes da multa prevista ao agravo interno manifestamente improcedente (art. 1.021, §4º, do CPC).
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF.
+RECURSO ESPECIAL NÃO CONHECIDO.
