@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por HESA 136 - INVESTIMENTOS IMOBILIÁRIOS LTDA., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 475):
+COMPROMISSO DE COMPRA E VENDA - RESCISÃO DE CONTRATO CUMULADA COM RESTITUIÇÃO DE VALORES - Procedência Parcial -Inadimplência ou desistência do compromissário comprador e que não constitui óbice para que postulem a rescisão da avença, tampouco a devolução do quanto adimpliram - Inteligência da Súmula 1 deste E. Tribunal de Justiça e art. 53 do CDC - Sentença que determinou de 80% dos valores pagos pelos autores - Cabimento - Precedentes do STJ e desta Corte - Insurgência quanto ao termo inicial de cômputo dos juros de mora - juros de mora incidem a partir do trânsito em julgado da decisão - Tese fixada em Recurso Repetitivo - Resp 1.740.911/DF - Sentença parcialmente reformada - Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 569-573).
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação doart. 1º da Lei n. 6.899/1981.
+Esclareceu que se opôs ao acórdão que, na restituição de valores em decorrência do desfazimento de promessa de compra e venda de imóvel, determinou a correção monetária calculada a partir dodesembolso de cada parcela adimplida pelos recorridos, o que não pode prosperar.
+Afirmou queo montante a ser restituídodeve observar a referida Lei, incidindo a correção monetária a partir do ajuizamento da ação, e não do desembolso, porquanto não houve a configuração de mora da insurgente, descumprimento da obrigação de pegarou ilícito contratual. Logo, não haveria falar em estipulaçãode atualização monetária nos termos dos arts.398 e 404 do CC. Pleiteou a aplicação a Súmula 43/STJ. Requereu o provimento do recurso especial(e-STJ, fls. 485-505).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 596-620).
+Contraminuta não apresentada (e-STJ, fl. 602).
+Brevemente relatado, decido.
+O acórdão proferido nos embargos de declaração firmou que a questão acerca do momento a partir do qual deveria incidir correção monetária não teria sido objeto da apelação proposta pela então embargante, ora insurgente.
+Veja-se (e-STJ, fls. 570-571):
+Com efeito, a questão da correção monetária em quese alega omissão, não objeto do recurso de apelação. E se tal matéria não foi ventilada, evidentemente não há omissão.
+Se não vejamos.
+Temos às fls. 407, item 5: "5. Contudo, a ré apenas irá recorrer do cômputo de juros a partir da citação equivalente ao percentual de devolução de 80% os quais perfazem a monta de R$ 1.052,80 (um mil, cinquenta e dois reais e oitenta centavos) e dos honorários advocatíciosno valor de R$ 1.874,50 (uni mil, oitocentos e setenta e quatro reais e cinquenta centavos), conforme cálculo anexo."
+Logo, infere-se desse julgado que seu fundamento central foi a ocorrência de inovação recursal. Essa premissa, a toda evidência, não foi objeto de ataque no recurso especial, atraindo-se a aplicação da Súmula 283/STF.
+A questão jurídica acerca do momento inicial de incidência de correção monetária não foi objeto de apreciação na segunda instância - inexistência de prequestionamento. Embora opostos e julgados os embargos de declaração, a insurgente não apontou ofensa ao art. 1.022 do CPC/2015 em seu apelo especial, ocasionado o óbice da Súmula 211/STJ - inviabilidade de prequestionamento ficto.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. PREQUESTIONAMENTO FICTO NÃO RECONHECIDO. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO AO ART.1.022 DO CPC/2015. ART. 1º DA LEI 12.016/2009. NÃO CABIMENTO DE MANDADO DE SEGURANÇA PREVENTIVO, NO CASO CONCRETO. REVISÃO.IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. O art. 12, I, da Lei Complementar 87/96 não foi apreciado pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento.Aplica-se à hipótese a Súmula 211/STJ.
+2. Esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 10/04/2017). In casu, nota-se que a parte recorrente não sustentou ofensa ao art. 1.022, do mesmo diploma processual, alegando a existência de possível omissão, o que impede o reconhecimento do prequestionamento ficto. Precedente: AgInt no REsp 1682293/PB, Rel.Ministra Regina Helena Costa, Primeira Turma, DJe 10/11/2017.
+ ..
+4. Na forma da jurisprudência desta Corte, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional". Precedentes: AgInt no AREsp 912.838/BA, Rel.
+Ministro Herman Benjamin, Segunda Turma, DJe 03/03/2017; AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 24/03/2017.
+5. Agravo interno não provido.
+(AgInt no REsp 1945504/MT, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 03/11/2021, DJe 05/11/2021)
+Ante o exposto, conheço do agravo para conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida 17% (dezessete por cento), seguindo a mesma forma de cálculo prevista à fl. 481 (e-STJ).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA - IMÓVEL. FUNDAMENTO NO ARESTO - INOVAÇÃO RECURSAL - NÃO ATACADO NO RECURSO ESPECIAL. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
