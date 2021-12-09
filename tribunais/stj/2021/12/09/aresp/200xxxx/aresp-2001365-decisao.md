@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO DO BRASIL S.A. contra a decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugnaacórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. CONSTITUCIONAL. AÇÃO CIVIL PÚBLICA Nº 94.008514-1. CÉDULA RURAL PIGNORATÍCIA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. LEGITIMIDADE PASSIVA BANCO DO BRASIL. MP 2.196-3/2001. SOLIDARIEDADE ENTRE OS DEVEDORES. LITISCONSÓRCIO PASSIVO NECESSÁRIO. DESNECESSIDADE. CHAMAMENTO AO PROCESSO. IMPOSSIBILIDADE NA FASE EXECUTIVA. EXECUÇÃO DIRECIONADA APENAS CONTRA O BANCO DO BRASIL. COMPETÊNCIA. ART. 109, I. CF/88. SÚMULAS 508 E 556 DO STF. PRECEDENTES DO STJ.
+1. Na Ação Civil Pública nº 94.008514-1, ajuizada pelo Ministério Público Federal perante a Justiça Federal do Distrito Federal, foi reconhecida que, para os financiamentos rurais pignoratícios tomados com recursos da poupança, deveriam ser reajustados, para o mês de março de 1990, pelo BTNF (correspondente ao percentual de 41,28%), e não pelo IPC (de 84,32%).
+2. Embora tenha sido reconhecida, na ação civil pública originária, a solidariedade entre o Banco do Brasil, União e Banco Central, não há necessidade de formação de litisconsórcio passivo necessário para buscar a cobrança dos valores devidos com fundamento no título judicial (art. 275 do CC e precedentes desta Corte).
+3. Logo, mesmo sendo o caso de solidariedade entre os devedores, porém estando o credor autorizado contra quem deseja direcionar a execução, pois afastada a exigência de formação do litisconsórcio passivo necessário, e tendo optando por ajuizar apenas em face do Banco do Brasil, sociedade de economia mista, não há fundamento, à luz do disposto no art. 109, I, da CF/88, que justifique a atração da demanda para a Justiça Federal. Por outro lado, ainda que se busque apoio no art. 516, inc. II, do CPC/2015, tal dispositivo legal não pode constituir fundamento para superar o comando de natureza constitucional, este aplicável somente aos casos expressamente nele previstos, ou seja, quando houver o interesse dos entes lá elencados.
+4. A jurisprudência do STJ é assente no sentido da impossibilidade de chamamento ao processo na fase de execução (cumprimento) de sentença, e, ainda que fosse possível, não poderia ser admitido em face da inexistência de identidade de ritos. Ou seja, enquanto a União e o BACEN estão submetidos ao regime de precatório, o Banco do Brasil segue o regime de execução comum.
+5. Na mesma direção do comando constitucional, o STF editou a Súmula nº 508 (Compete à Justiça Estadual, em ambas as instâncias, processar e julgar as causas em que for parte o Banco do Brasil S.A.), cuja leitura, em conjunto com a Súmula 556 do mesmo Tribunal (É competente a Justiça Comum para julgar as causas em que é parte sociedade de economia mista), confirma a necessária revisão de entendimento acerca da competência sobre a questão.
+6. Embora este Tribunal venha admitindo o processamento na Justiça Federal do cumprimento individual da sentença proferida na Ação Civil Pública nº 94.008514-1, necessário revisar o entendimento para adequar-se à posição do STJ no sentido de atribuir a competência para o julgamento dos feitos em que o exequente optou por ajuizar apenas em face do Banco do Brasil à Justiça Estadual (AREsp 1642795/RS, REsp 1812319/RS, AREsp 1608199/RS, AREsp 1531963/RS, AREsp 1361998/SP, AREsp1608188/RS, AREsp 1518676/D, REsp 1812394/RS, REsp 1822728/RS e AREsp 1532021/RS)" (e-STJ fls. 142/143).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 199/206).
+No especial (e-STJ fls. 219/250), além da divergência jurisprudencial, o recorrente alega violação dos artigos43, 130, 131, 516, II, 1.022, 1.035,§ 5º, e 1.037, II e § 8º, do Código de Processo Civil de 2015 e93 e 98, § 2º, I, do Código de Defesa do Consumidor.
+Aduz que o aresto recorrido incorreu em negativa de prestação jurisdicional ao deixar de se manifestar a respeito das questões suscitadas, referentes à demonstração da cessão das operações ao Tesouro Nacional e da incidência ao caso dos dispositivos legais apontados como violados.
+Sustenta quea Justiça Federal é competente para conduzir as liquidações/cumprimentos individuais vinculados à demanda coletiva, tanto mais que restou comprovada a securitização das operações e sua cessão à União Federal.
+Assinala a necessidade do chamamento ao processo, tendo em vista a condenação solidária, na modalidade unitária,estabelecida entre o Banco do Brasil, o Banco Central e a União, nos termos do julgamento proferido no REsp n. 1.319.232/DF.
+Afirma que a distribuição da petição inicial define a competência e, no caso em exame, a ação coletiva proposta pelo Ministério Público foi ajuizada em vara da justiça federal.
+Ao final, requer o provimento do recurso.
+Sem contrarrazões(e-STJ fl. 280), e não admitido o recurso na origem, adveio o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+De início, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+De fato, a instância ordinária não enfrentou a questão referente a eventual cessão de crédito àUniãopor entender que cabe ao juiz competente decidir sobre ela, conforme demonstra a leitura dosseguintestrechosdo voto condutor do acórdão:
+"(..)
+Diante disso, tendo sido direcionada a execução apenas e tão-somente contra o Banco do Brasil, reitera-se a compreensão de que a competência para seu processamento recai sobre a Justiça Estadual.
+Além disso, eventual alegação de ter sido o crédito transferido para a União, até porque sequer aventado na inicial e não dispondo de elementos para aferição, deve ser suscitada e apreciada pela Justiça que se mostra, no momento, competente para apreciar a questão. Alterações das circunstâncias fática e jurídicas ocorridas no processamento podem até mesmo resultar no redirecionamento da execução para a Justiça Federal. Porém, somente mediante decisão do juízo competente enquanto apenas o Banco do Brasil figurar como parte executada por opção do Exequente quando do ajuizamento da ação"(e-STJ fl. 164).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+No que diz respeito à ventilada incompetência da Justiça Estadual, este Superior Tribunal de Justiça, reiteradamente, manifesta-se no sentido de que, nos termos do artigo 109, inciso I, da Carta Magna, a competência é definida em razão das pessoas envolvidas no processo.
+Sobre o tema:
+"PROCESSUAL CIVIL.  ..  COMPETÊNCIA DA JUSTIÇA ESTADUAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+ ..
+II - Consoante inteligência do art. 109, I, da Constituição da República, como regra, a competência da Justiça Federal, em matéria cível, é estabelecida em razão da pessoa, abrangendo as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho.
+III - Compete à Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas públicas, a teor da Súmula 150/STJ.
+ ..
+VIII - Agravo Interno improvido" (AgInt no CC 143.871/BA, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 28/11/2018, DJe 04/12/2018).
+Neste sentido, considerando que o presente processo foi interposto unicamente em desfavor do Banco do Brasil, sociedade de economia mista, não há razão para a remessa do processo à Justiça Federal, devendo permanecer tramitando na Justiça Estadual.
+No que diz respeito ao litisconsórcio passivo necessário, o entendimento desta Corte Superior é no sentido de que a solidariedade obrigacional não tem comoconsequência a exigibilidade da obrigação em litisconsórcio passivo necessário.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. COMPRA E VENDA DE VEÍCULO. DENUNCIAÇÃO DA LIDE. AUSÊNCIA DE ACEITAÇÃO PELO DENUNCIADO. INEXISTÊNCIA DE LITISCONSÓRCIO PASSIVO. INAPLICÁVEL O PRAZO EM DOBRO PREVISTO NO ART. 191 DO CPC/1973. AGRAVO DESPROVIDO.
+1. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça.
+2. Nos termos da jurisprudência sedimentada por esta Corte Superior, no julgamento do Recurso Especial repetitivo n. 1.145.146/RS (Primeira Seção, Relator Ministro Luiz Fux, julgado em 9/12/2009, DJe 1º/2/2010), "a solidariedade obrigacional não importa em exigibilidade da obrigação em litisconsórcio necessário (art. 47 do CPC)".
+3. Agravo interno desprovido" (AgInt no REsp 1.743.193/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/9/2018, DJe 27/9/2018).
+Assim, verifica-se que a Corte estadual alinhou-se ao posicionamento deste Tribunal Superior, de modo que se aplica a Súmula 568/STJ, estando afastada, em consequência, a alegação de dissídio interpretativo.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), tendo em vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
