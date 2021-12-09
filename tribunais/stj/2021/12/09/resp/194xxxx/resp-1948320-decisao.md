@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Estado do Paraná, com amparo na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão dorespectivo Tribunal de Justiçaassim ementado (e-STJ, fl. 279):
+RECURSO DE APELAÇÃO CÍVEL. JUÍZO DE RETRATAÇÃO. RITO DO ARTIGO 1.030, INCISO II DO NOVO CÓDIGO DE PROCESSO CIVIL. AÇÃO PREVIDENCIÁRIA. RECURSO ESPECIAL INTERPOSTO. REEXAME DA MATÉRIA. CONTRIBUIÇÃO PREVIDENCIÁRIA. MATÉRIA QUE POSSUI CARÁTER TRIBUTÁRIO. CRITÉRIO PARA APURAÇÃO DA CORREÇÃO MONETÁRIA E JUROS SOBRE PARCELAS VENCIDAS. ÍNDICES ESTABELECIDOS NO TEMA 905 DO STJ E 810 DO STF EM CONJUGAÇÃO COM A LEGISLAÇÃO ESTADUAL APLICÁVEL AO CASO CONCRETO.APLICAÇÃO DOS MESMOS ÍNDICES DE JUROS E CORREÇÃO MONETÁRIA UTILIZADOS PELA FAZENDA PÚBLICA PARA REMUNERAR SEUS PRÓPRIOS CRÉDITOS. TAXA SELIC QUE DEVE SER APLICADA DESDE O VENCIMENTO DE CADA PARCELA VEDADA A CUMULAÇÃO COM QUALQUER OUTRO ÍNDICE. ACÓRDÃO PARCIALMENTE REFORMADO. JUÍZO DE RETRATAÇÃO EXERCIDO.
+Os embargos de declaraçãoopostos pelo ente federativoforam acolhidos para explicitar que a incidência da taxa Selic somente terá início a partir do trânsito em julgado.
+Em suas razões, o recorrente aponta violação dos arts. 1º-F da Lei n. 9.494/1997e 381 do CCB,além de dissídio jurisprudencial.
+Sustenta, em síntese, que"a questão referente aos índices de juros e correção monetária em face do artigo 1º-F, da Lei n. 9.494/97encontra-se pendente de posicionamento definitivo por parte do STJ, que já reconheceu que a posição adotada até então merece ser revista, em face das inúmeras ações questionando sua validade" (e-STJ, fl. 314).
+Aduz, ainda, queo ente federativo não deveria ser condenado ao pagamento das custas processuais, em razão da confusão entre os sujeitos ativo e passivo da exação.
+Sem contrarrazões recursais.
+Admitido o recurso especial na origem (e-STJ, fls. 345-346), subiram os autos a esta Corte.
+Decido.
+No que tange à apontada contrariedade aoart. 381 do Código Civil brasileiro, o recurso não merece conhecimento.Isso porque, nesse aspecto, o Tribunal de origem adotou como fundamento a Lei estadual n. 15.942/2008, conforme se extrai do seguinte trecho (e-STJ, fl. 209):
+Em que pese à natureza jurídica das custas processuais, não persiste hipótese de isenção de seu pagamento.
+Não há na lei de regência (LEI ESTADUAL 6.149/1970) previsão de isenção do ESTADO em relação ao pagamento de custas processuais.
+Além disso, ao contrário do que sustenta o Apelante, as custas processuais arrecadas pelas serventias estatizadas integram fundo específico, qual seja o Fundo da Justiça (FUNJUS), nos termos do artigo 3º da Lei nº. 15.942/2008, que tem por objetivo prover os recursos orçamentários e financeiros necessários às despesas decorrentes do processo de estatização das unidades estatais do 1º Grau de Jurisdição do Estado do Paraná, inclusive da remuneração dos servidores.
+integrando o fundo Têm, portanto, destinação própria estadual, e específica, a afastar, sob não o global comum do tesouro argumento da confusão entre credor e devedor, a isenção buscada.
+Tal circunstância torna inviável o acolhimento do recurso especial, consoante aplicação analógica do enunciado n. 280 constante da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário.".
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO À SAÚDE. CONDENAÇÃO DA FAZENDA PÚBLICA ESTADUAL AO PAGAMENTO DAS CUSTAS PROCESSUAIS. ALEGADA VIOLAÇÃO AO ART. 381 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 17/04/2017, que, por sua vez, julgara recurso interposto contradecisumpublicado na vigência do CPC/2015.
+II.Trata-se, na origem, de ação de obrigação de fazer, proposta pela parte ora agravada em face do Estado de Tocantins, objetivando o fornecimento de medicação necessária ao tratamento de doença que a acomete.
+III. Não tendo o acórdão hostilizado expendido qualquer juízo de valor sobre o art. 381 do Código Civil, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+IV. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação da legislação local (Leis estaduais 1.286/2001 e 954/1998). Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgRg no AREsp 853.343/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/04/2016; AgInt no AREsp 935.121/PB, Rel.Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 17/10/2016.
+V. Agravo interno improvido.
+(AgInt no REsp n. 1.662.867/TO, relatora MinistraAssusete Magalhães, Segunda Turma,DJe de 24/8/2017).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL. LEI ESTADUAL QUE EXIGE O RECOLHIMENTO DE CUSTAS.CONFRONTO COM LEI FEDERAL. COMPETÊNCIA DA CORTE SUPREMA. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF.
+1. Não ocorre contrariedade ao art. 535, inc. II, do Código de Processo Civil quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame, assim como não há que se confundir entre decisão contrária aos interesses da parte e inexistência de prestação jurisdicional.
+2. Não se mostra possível o conhecimento do conflito entre a Lei Estadual n. 3.550/99, que instituiu a taxa judiciária para interposição do agravo regimental, e os arts. 511 e 557, § 1º, do Código de Processo Civil, uma vez que, nos termos do art. 102, inc.III, alínea "d", da Constituição Federal, é de competência do Supremo Tribunal Federal o julgamento de lei local contestada em face de Lei Federal.
+3. De qualquer modo, a questão controvertida dos autos perpassa pela análise de lei local - a qual exige preparo em agravo regimental -, pelo que é de rigor a incidência da Súmula 280 do STF.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 388.793/RJ, de minha relatoria, Segunda Turma,DJe de 25/2/2014).
+Referenteà alegada afronta ao art. 1º-F da Lei n. 9.494/1997,observa-se que o acórdão que realizou o juízo de conformidade (e-STJ, fls. 279-287) está em consonância com a tese de repercussão geral firmada pelo Supremo Tribunal Federal, haja vista a determinação de que os índices de correção monetária e juros de mora sejam fixados nos exatos termos do RE n. 870.947/SE.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC,c/c o art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especiale, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
