@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloMUNICÍPIO DE MACEIÓ, com amparo na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOASassim ementado (e-STJ, fl.46):
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA RECHAÇADA. POSSIBILIDADE DE JULGAMENTO EM BLOCO DE PROCESSOS IDÊNTICOS. APLICAÇÃO DOS ARTS. 458 E 249, § 1º, DO CPC. RECONHECIMENTO DE OFÍCIO DA PRESCRIÇÃO, NOS MOLDES DO ART. 219, § 5º, DO CPC. NÃO COMPROVAÇÃO DE PARCELAMENTO DO DÉBITO (ART. 174, W, DO CTN) OU QUALQUER OUTRA ESPÉCIE DE CONFISSÃO DA DÍVIDA PELO DEVEDOR, CASO EM QUE O ÔNUS DA PROVA INCUMBE AO AUTOR (ART. 333, I, CPC). INAPLICABILIDADE DA SÚMULA 106 DO STJ. PRESCRIÇÃO TOTAL DOS CRÉDITOS POR INÉRCIA DA FAZENDA PÚBLICA. MANUTENÇÃO DA SENTENÇA. REEXAME NECESSÁRIO- SEM ACARRETAR OFENSA = VIOLAÇÃO AO ART. 475, I, DO CPC, DESNECESSÁRIO FAZÊ-LO, UMA VEZ QUE, ALÉM DA PROVADA AUSÊNCIA DE PREJUÍZO À PARTE, OS TEMAS OBJETO DO RECURSO VOLUNTÁRIO MANEJADO PELA FAZENDA PÚBLICA FORAM PLENA, CABAL E EXAUSTIVAMENTE EXAMINADOS. DOUTRINA E JURISPRUDÊNCIA. RECURSO CONHECIDO E NÃO PROVIDO.
+Não houve oposição de embargos de declaração.
+Alega o recorrente ofensa ao art. 174 do CTN, ao argumento de que "a ação executiva restou proposta dentro do prazo instituído no art. 174 do CTN, mas que o Juízo originário não promoveu o impulso inicial do feito" (e-STJ, fl. 92).
+Aponta, ainda, violação do art. 219, § 5º, do CPC, sustentando que ele não se aplicaria às execuções fiscais.
+Admitido o apelo na origem (e-STJ, fls. 98-100), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+A Corte local reconheceu a ocorrência de prescrição da pretensão de cobrança do crédito tributário sob o seguinte fundamento (e-STJ, fls. 61-62):
+Dessa forma, analisando caso a caso, deve-se, primeiramente, verificar se há, nos autos, despacho determinando a citação. Em caso positivo, se este proferido antes ou após 09.06.2005, relativamente à data da entrada em vigor da Lei Complementar sob nº 118/2005, para definir se o marco interruptivo da prescrição é, respectivamente, a efetiva citação ou o despacho que a determinou. Em ambos os casos, consoante entendimento recente do STJ, a interrupção da prescrição retroagirá à data da propositura da ação.
+ ..
+Feitas estas considerações, note-se que, no caso dos autos, até a prolação da sentença, não houve despacho algum por parte do magistrado singular, tampouco houve a efetiva citação do réu. Assim, não se havendo de cogitar da presença de causa interruptiva, inevitável a constatação de que, ao continuar a seguir o curso natural, a prescrição alcançou todos os créditos tributários do apelante =recorrente.
+Tal como transcrito, a Colegiado local reconheceu que,no caso em análise "não houve despacho algum por parte do magistrado singular, tampouco houve a efetiva citação do réu"(e-STJ, fl. 62).
+Contudo, " ..  a jurisprudência do STJ possui entendimento no sentido deque, nas hipóteses em que o despacho citatório ainda não foi proferido, éincabível falar em ocorrência de prescrição. Precedente: (AgRg no AREsp n.425.986/DF, relatora MinistraAssusete Magalhães, Segunda Turma, DJe de 1º/7/2015)"(REsp n. 1.774.550/AL, relator MinistroHerman Benjamin, Segunda Turma, DJe de8/2/2019).
+No ponto, em caso análogo:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. ART.174, I DO CTN. DESPACHO CITATÓRIO NÃO REALIZADO. CONDIÇÃO NECESSÁRIA PARA RECONHECIMENTO DA PRESCRIÇÃO. SÚMULA 106/STJ. MORA DO JUDICIÁRIO. SÚMULA 7/STJ.
+1. Em julgamento de apelação interposta contra sentença que extinguiu execução fiscal, o Tribunal local reconheceu o decurso da prescrição aplicando o § 5º do art. 219 do Código de Processo Civil de 1973 e o inciso I do art. 174 do Código Tributário Nacional.Também consignou que a execução fiscal foi ajuizada dentro do prazo quinquenal, bem como que não foi ordenado despacho citatório.
+2. O entendimento da Turma é no sentido de que "nas hipóteses em que o despacho citatório ainda não foi proferido, é incabível falar-se em ocorrência de prescrição" (AgRg no AREsp 425.986/DF, Rel.Ministra Assusete Magalhães, Segunda Turma, julgado em 23/6/2015, DJe 1º/7/2015).
+3. Aplicação do entendimento da Súmula 106/STJ, pois o acórdão recorrido, reconheceu a desídia do Judiciário na condução do processo. Inaplicabilidade da Súmula 7/STJ ante a impossibilidade de modificar a conclusão a que chegou o Tribunal a quo.
+4. Recurso Especial provido.
+(REsp n. 1.85.6910/AL, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/5/2020).
+Logo, incide na espécie a orientação fixada pela Súmula n. 568 do STJ: "Orelator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ounegar provimento ao recurso quando houver entendimento dominante acerca dotema.".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, §4º, III, do RISTJ, dou provimento ao recurso especial para determinar queprossiga a execução fiscal.
+Publique-se. Intimem-se.
