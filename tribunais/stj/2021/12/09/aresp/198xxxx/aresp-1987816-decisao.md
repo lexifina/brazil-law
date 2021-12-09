@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto porRICARDO CALDEIRA DOS SANTOScontra decisão que inadmitiu recurso especial (e-STJ, fls. 224-225)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fl. 185):
+APELAÇÃO CÍVEL. AÇÃO DE DESPEJO C/C COBRANÇA DE ALUGUÉIS. PARCIAL PROCEDÊNCIA DOS PEDIDOS.
+NULIDADE DA SENTENÇA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. DILAÇÃO PROBATÓRIA. DESNECESSIDADE. MATÉRIA DE DIREITO APTA PARA JULGAMENTO. DOCUMENTOS ACOSTADOS AOS AUTOS SUFICIENTES PARA ELUCIDAÇÃO DO CASO. JULGAMENTO ANTECIPADO DA LIDE. PERTINÊNCIA.
+- Não há que se falar em nulidade da sentença por cerceamento de defesa quando o julgador vislumbra elementos suficientes nos autos à formação de sua convicção.
+AFASTAMENTO DA MULTA COMPENSATÓRIA. CABIMENTO. MULTA COMPENSATÓRIA E MORATÓRIA QUE POSSUEM O MESMO FATO GERADOR. CUMULAÇÃO INDEVIDA.
+- Não se admite a cobrança de multa compensatória e moratória quando se constata o mesmo fato gerador, neste caso, em razão do inadimplemento contratual.
+Apelação Cível parcialmente provida.
+Nas razões do recurso especial, o recorrente alegou, com fulcro na alínea a do permissivo constitucional, violação aos arts. 85,§§ 1º e 11, do CPC/2015; e 884 do CC/2002.Defendeu a imprescindibilidade de redistribuição do ônus sucumbencial, alegando que arecorridasucumbiu em partecom o julgamento da demanda.
+Afirmou que, com a declaração de nulidade das cláusulas contratuais, houve a redução de 30% do valor da condenação.Frisou que faz jus à majoração dos honorários recursais.Asseverou que o reconhecimento da sucumbência mínima daagravadaacarreta enriquecimento ilícito.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 224-225).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da distribuição do ônus sucumbencial, o Tribunal de origem assim se manifestou (e-STJ, fl. 189):
+Por fim,sobre a inversão da sucumbência, a conduta do réu/apelante certamente deixou a autora sem outra alternativa que não o ajuizamento da presente ação de despejo, fato que, em atenção ao princípio da causalidade, admite a condenação dele ao pagamento do ônus sucumbencial, ainda que se tenha duas cláusulas nulas do contrato.
+ ..
+Desse modo, considerando que o réu deu causa ao ajuizamento da ação, e o autor sucumbiu de forma mínima, não se justifica a modificação da sucumbência já fixada na sentença, qual seja: condenação do réu ao pagamento das custas processuais e dos honorários advocatícios, os quais arbitro em 10% do valor da condenação, levando em consideração a complexidade da matéria, tempo tomado para transcurso do feito e quantidade de atos processuais, com observância da assistência judiciária gratuita (mov. 54.1).
+Cabe ressaltar que a jurisprudência do Superior Tribunal de Justiça entende que "a verificação do grau de sucumbência de cada parte, para fins de distribuição das despesas processuais e honorários advocatícios, enseja incursão à seara fático-probatória dos autos, vedada pelo enunciado da Súmula 7/STJ"(AgInt nos EDcl no AREsp 1.800.745/SP, Rel. Ministro LuisFelipeSalomão, QuartaTurma, julgado em 20/09/2021, DJe 27/09/2021).
+Nesse mesmo sentido, confira-se julgado da Terceira Turma do STJ:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL.CIVIL. AÇÃO DE INDENIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CARÊNCIA DE FUNDAMENTAÇÃO. NÃO VERIFICADA. CASO FORTUITO/FORÇA MAIOR. NÃO OCORRÊNCIA REVISÃO DO JULGADO.IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. IMPOSTO DE RENDA. NÃO DEVIDO. PENSÃO. LIMITE. 24 ANOS DE IDADE. VALOR INDENIZATÓRIO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. TERMO INICIAL DOS JUROS DE MORA. ÔNUS SUCUMBENCIAIS. DISTRIBUIÇÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE.INCIDÊNCIA DO ENUNCIADO N.º 7/STJ.
+1. Inexistência de maltrato ao art. 1.022, incisos I e II, do Código de Processo Civil, quando o acórdão recorrido, ainda que de forma sucinta, aprecia com clareza as questões essenciais ao julgamento da lide.
+2. Não ocorrência de afronta ao art. 489, § 1º, incisos II e IV, do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. No caso, o Tribunal de Justiça de origem analisou as provas contidas no processo para afastar a alegação de caso fortuito ou força maior. Alterar esse entendimento demandaria reexame do conjunto probatório do processo, vedado em recurso especial.
+4. Julgados no âmbito do Superior Tribunal de Justiça no sentido de que a conversão da reparação por danos materiais em pensão vitalícia não causa a mudança da natureza indenizatória da verba, sobre a qual, por conta disso, não cabe a retenção do Imposto de Renda.
+5. O Superior Tribunal de Justiça, afastando a incidência do Enunciado n.º 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando esse valor se revela irrisório ou abusivo.
+6. Segundo a jurisprudência do Superior Tribunal de Justiça, os juros de mora na condenação por dano moral são contados da citação ou do evento danoso, conforme se trate de responsabilidade contratual ou extracontratual, respectivamente.
+7. Pelo princípio do ne reformatio in pejus, impede-se que a situação jurídica da parte recorrente seja prejudicada em razão do julgamento do recurso.
+8. Nos termos da jurisprudência do Superior Tribunal de Justiça, a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese o Enunciado n.º 7/STJ.
+9. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+10. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp 1750080/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 21/08/2020)
+Quanto à análise acerca da violação aos arts. 85,§ 11, do CPC/2015 e 884 do CC/2002, da apreciação dos fundamentos do acórdão impugnado, constata-se que o Tribunal estadual não examinou o conteúdo jurídico dos mencionados dispositivos.
+Logo, inexistindo o devido prequestionamento, aplica-se o disposto nasSúmulas 282 e 356 do Supremo Tribunal Federal, bem como o enunciado da Súmula 211/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 2% sobre o percentualfixado pela instância originária, devidamente atualizado.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ÔNUS SUCUMBENCIAL. DISTRIBUIÇÃO. REVISÃO. SÚMULA 7/STJ. VIOLAÇÃO AOS ARTS. 85,§ 11, DO CPC/2015 E 884 DO CC/2002. TESES NÃO PREQUESTIONADAS.SÚMULAS 282 E 356 DO STF. SÚMULA 211 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
