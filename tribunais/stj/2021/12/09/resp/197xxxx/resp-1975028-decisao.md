@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"TRIBUTÁRIO. AGRAVO DE INSTRUMENTO EM EXECUÇÃO FISCAL.PEDIDO DE UTILIZAÇÃO DO SISTEMA RENAJUD PARA ANOTAÇÃO DE CIRCULAÇÃO DE VEÍCULO.
+O RENAJUD consiste em sistema de restrição judicial de veículos que autoriza a comunicação eletrônica entre o Poder Judiciário e o DENATRAN (Departamento Nacional de Trânsito), permitindo a efetivação de ordens judiciais de restrição de veículos automotores na base de dados do Registro Nacional de Veículos Automotores - RENAVAM.
+No caso em exame, a restrição de transferência do bem já se mostra suficiente ao fim pretendido, sendo desnecessária a imposição de medida mais gravosa" (fl. 31e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 41/46e), os quais restaramrejeitados, nos termos da seguinte ementa:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO.OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. PREQUESTIONAMENTO.
+1. São cabíveis embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição; suprir omissão ou corrigir erro material, conforme dispõe o artigo 1.022 do CPC.
+2. Não se verifica a existência das hipóteses ensejadoras de embargos de declaração quando o embargante pretende apenas rediscutir matéria decidida, não atendendo ao propósito aperfeiçoador do julgado, mas revelando a intenção de modificá-lo, o que se admite apenas em casos excepcionais, quando é possível atribuir-lhes efeitos infringentes.
+3. O prequestionamento de dispositivos legais e/ou constitucionais que não foram examinados expressamente no acórdão, encontra disciplina no artigo 1.025 do CPC, que estabelece que nele consideram-se incluídos os elementos suscitados pelo embargante, independentemente do acolhimento ou não dos embargos de declaração" (fl. 54e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente apontaviolação aos arts. 139, 154, 797, 839, 845, 1.022 do CPC/2015, 10 e 11 da Lei 6.830/80, sustentando que: a) "não há outra opção senão cassar o acórdão proferido nos declaratórios, já que o INMETRO tem direito à prestação jurisdicional em sua totalidade, mormente quando o deslinde da controvérsia passa pelo exame do conjunto probatório, matéria cuja última instância é a Corte Regional" (fl. 67e); b) "o credor o direito em ser satisfeito seu crédito e utilizar-se do aparato judicial para que sua pretensão seja atendida assegurando-se a efetividade do processo executivo" (fl. 69e); c) "há base legal para o pedido de restrição sobre a circulação do veículo, para viabilizar o exercício regular do direito de penhora (arts. 845 e art. 839 do CPC), demonstrando-se a necessidade da medida" (fl. 70e); e d)"a restrição veicular é uma medida idônea apta e legal para asseguração do direito do credor que no caso é estampado pela pretensão ao crédito representado pela certidão de dívida ativa" (fl. 71e).
+Por fim, requer o provimento do Recurso Especial.
+Não foram apresentadas contrarrazões.
+O Recurso Especial foi admitido, pelo Tribunal de origem (fls. 76/77e).
+A irresignação merece prosperar.
+Na origem, trata-se de Agravo de Instrumentointerposto pela parte ora recorrente, em face de decisão proferida nos autos de execução fiscal, a qual indeferiu o pedido de restrição de livre circulação dos veículos da executada.
+O Tribunal local negou provimento ao Agravo de Instrumento.
+Daí a interposição do presente Recurso Especial.
+Inicialmente, verifica-se que a matéria recursal foi devidamente analisada, pelo acórdão recorrido, restando prequestionada, razão pela qual é desnecessária a análise de afronta ao art. 1.022 do CPC/2015.
+No mais, constata-se que o Tribunal de origem adotou orientação dissonante do entendimento manifestado pela Segunda Turma do STJ, no sentido da possibilidade de se impor a restrição de circulação de veículo, através do sistema RENAJUD.
+Nesse sentido:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULO. RENAJUD. POSSIBILIDADE.
+1. O Superior Tribunal de Justiça possui precedentes favoráveis à possibilidade de restrição de circulação de veículo, por via do sistema Renajud, para viabilizar a localização e apreensão do bem, a fim de que seja realizada a penhora e a consequente satisfação do crédito exequendo.
+2. Agravo Interno não provido" (STJ, AgInt no REsp 1.820.182/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/10/2019).
+"EXECUÇÃO FISCAL. SISTEMA RENAJUD. APREENSÃO DO VEÍCULO. IMPOSIÇÃO LEGAL. PENHORA. EFETIVAÇÃO.
+I - A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que é legal a localização e restrição de circulação de veículo, por meio do sistema RENAJUD. Precedentes: AgInt no REsp n. 1.678.675/RS, Rel. Min. Og Fernandes, DJe 13/3/2018 e REsp n. 1.744.401/MG, Rel. Min. Nancy Andrighi, DJe 22/11/2018.
+II - A viabilização da localização e restrição da circulação do veículo objetiva a realização da penhora, tendo como consequência natural a apreensão do bem, sendo indevida autorização para manter a circulação deste, dificultando a satisfação do crédito.
+III - Recurso especial provido" (STJ, REsp 1.778.360/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 14/02/2019).
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULO. RENAJUD. POSSIBILIDADE.
+1. O Superior Tribunal de Justiça possui precedentes favoráveis à possibilidade de restrição de circulação de veículo, por via do sistema RENAJUD, para viabilizar a localização e apreensão do bem, a fim de que seja realizada a penhora e a consequente satisfação do crédito exequendo. Nesse sentido, as seguintes decisões monocráticas: REsp 1.669.427/RS, Rel. Ministro Mauro Campbell Marques, DJe 9/6/2017; AREsp 1.165.070/MG, Rel. Ministro Marco Aurélio Bellizze, DJe 7/11/2017; AREsp 1.076.857/MG, Rel. Ministro Luis Felipe Salomão, DJe 5/5/2017; AREsp 1.071.742/MG, Rel. Ministra Isabel Gallotti, DJe 18/4/2017; AREsp 1.062.167/MG, Rel. Ministro Antonio Carlos Ferreira, DJe 5/9/2017; e AREsp 1.155.900/MG, Rel. Ministro Moura Ribeiro, DJe 2/10/2017.
+2. Agravo interno a que se nega provimento" (STJ, AgInt no REsp 1.678.675/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 13/03/2018).
+Destarte, aplica-se, ao caso, entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, a fim de possibilitar a restrição de circulação de veículo, através do sistema RENAJUD.
+I.
