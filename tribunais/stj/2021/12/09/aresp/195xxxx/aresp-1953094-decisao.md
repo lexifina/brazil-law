@@ -1,0 +1,32 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por IDEAL CLUBE DE BENEFICIOS, em face de decisão que inadmitiu recurso especial, aviado pela alínea "a", inciso III, art. 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO. AÇÃO DE COBRANÇA. CONTRATO DE PROTEÇÃO VEICULAR JUSTIÇA GRATUITA. BENEFÍCIO SOLICITADO NA INICIAL E CONCEDIDO NOS PRÓPRIOS AUTOS. REVOGAÇÃO QUE DEPENDE DA PROVA EM CONTRÁRIO.
+IMPUGNAÇÃO DESPROVIDA DE PROVAS. ÔNUS DO IMPUGNANTE.
+BENEFÍCIO MANTIDO. BOLETIM DE ACIDENTE DE TRÂNSITO EXPÕE QUE O CONDUTOR POSSIVELMENTE DORMIU AO VOLANTE. AGRAVAMENTO DO RISCO. NÃO COMPROVADO. ART. 768, DO CC. DEVER DE INDENIZAR.
+DECISÃO SANEADORA DETERMINOU A INVERSÃO DO ÔNUS DA PROVA.
+REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. CABIMENTO. HONORÁRIOS RECURSAIS. RECURSO PARCIALMENTE PROVIDO.
+Em seu recurso especial, a parte recorrente alega violação aoartigo 86, parágrafo únicodo CPC/2015, sustentando indevida distribuição da sucumbência, uma vez que sucumbiu em parte mínima do pedido, devendo o ônus de sucumbência ser transferido exclusivamente para a parte autora.
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Esta Corte tem entendimento assente no sentido de que a verificação da proporção em que cada parte restou vencedora ou vencida, bem como a aferição de sucumbência mínima são providências que fogem à competência desta Corte por implicarem revolvimento do conjunto fático-probatório dos autos, atraindo a incidência do óbice contido na Súmula nº 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. DIVULGAÇÃO DE LISTA DE INADIMPLENTES. ATO ILÍCITO CONFIGURADO. REEXAME. IMPOSSIBILIDADE. VALOR DA INDENIZAÇÃO. SUCUMBÊNCIA RECÍPROCA. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO.
+INVIABILIDADE. SÚMULA 7/STJ. (..)
+4. O STJ já consolidou o entendimento de que a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda e a existência de sucumbência mínima ou recíproca demandam revolvimento de matéria fática, obstado pela Súmula 7/STJ. (..)
+6. Agravo Regimental não provido.
+(AgRg no AREsp 14364/MG, SEGUNDA TURMA, Rel. Min. HERMAN BENJAMIN, DJe 12/09/2011)
+PROCESSUAL CIVIL - SUCUMBÊNCIA RECÍPROCA - ART. 21, "CAPUT", DO CPC.I - Se restou consignado no aresto recorrido que em face da extensão das sucumbências cada parte arcaria com os honorários de seus patronos, rateando-se as custas, foi aplicado o contido na norma do art. 21, "caput", da legislação processual, reconhecida a sucumbência recíproca. Discussão acerca do percentual ou em que proporção devem tais verbas serem deferidas, por implicar em reexame de matéria fática, é vedada em sede de Especial. (..)
+III - Recurso não conhecido
+(REsp 127611/DF, TERCEIRA TURMA, Rel. Min. WALDEMAR ZVEITER, DJ 14/12/1998, p. 228).
+Da mesma forma a jurisprudência do STJ entende não ser possível, por meio de recurso especial, rever os critérios de justiça e de razoabilidade utilizados pelas instâncias ordinárias para fixação da sucumbência, haja vista tal providência depender da reapreciação dos elementos fático-probatórios do caso concreto. Incidente, assim, a Súmula nº 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS DE ADVOGADO. SUCUMBÊNCIA RECÍPROCA. FIXAÇÃO. SÚMULA 7/STJ. 1. A jurisprudência do STJ firmou entendimento de não ser possível, em sede de recurso especial, nem a revisão do percentual de honorários de advogado fixado nas instâncias ordinárias, ressalvadas as hipóteses de arbitramento em valores ínfimos ou exorbitantes, tampouco a revisão acerca do quantitativo em que autor e réu decaíram do pedido, para fins de aferição da ocorrência de sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, o que é vedado, nos termos da Súmula 7/STJ. 2. Agravo regimental a que se nega provimento. (AgRg no AREsp 491.633/RJ, Segunda Turma, Rel. Ministro Og Fernandes, julgado em 18/06/2014, DJe 25/06/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NOVA SISTEMÁTICA IMPOSTA PELA LEI N. 11.232/2005. CONDENAÇÃO EM HONORÁRIOS. POSSIBILIDADE. REVISÃO. SÚMULA N. 7/STJ. (..) 2. O reexame dos critérios fáticos sopesados de forma equitativa para a fixação dos honorários advocatícios (art. 20, §§ 3º e 4º, do CPC), revelam-se, em princípio, inviáveis de análise em sede de recurso especial, em virtude do óbice erigido pela Súmula n. 7 do STJ. (..) 5. Agravo regimental desprovido." (AgRg no AREsp n. 133.984/RS, 1ª Turma, Rel. Min. Antonio Carlos Ferreira, DJe 26/6/2012) Da mesma forma, razão não assiste ao recorrente no que tange ao dissídio jurisprudencial, pois ausente o devido cotejo analítico. Nesse sentido: O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos moldes exigidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC. (AgRg no AREsp 578.166/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/06/2015, DJe 12/06/2015).
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 12% sobre o valor da condenação,a majoração dos honorários devidos pela parte ora recorrente para 15% é medida adequada ao caso, observada a eventual anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para não conhecerdo recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AÇÃO DE COBRANÇA. DISTRIBUIÇÃO DO ÔNUS DE SUCUMBÊNCIA.REVISÃO. SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECERDO RECURSO ESPECIAL, COM MAJORAÇÃO DE HONORÁRIOS.
