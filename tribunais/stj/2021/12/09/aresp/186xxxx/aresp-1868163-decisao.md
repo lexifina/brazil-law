@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/1), interposto por BANCO ORIGINAL DO AGRONEGÓCIO S/A, contra decisão que não admitiu recurso especial (fls. 210/213 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alíneas"a" e "c", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 142, e-STJ):
+CUMPRIMENTODESENTENÇAIMPUGNAÇÃOREJEIÇÃO ALEGAÇÃO DE ERRO NO CÁLCULO DAVERBA HONORÁRIA DE SUCUMBÊNCIA CABIMENTO Os honorários advocatícios de sucumbência foram fixados em10% sobre o valor da condenação, e foi majorada em grau recursal em 10% sobre a verba honorária anteriormente arbitrada, o que resulta num montante final de 11% sobre o valor do benefício econômico auferido Decisão reformada - Impugnação acolhida Recurso provido.
+Em suas razões de recurso especial, o recorrente, ora agravante, aponta ofensa aoartigo85 do CPC/15. Sustenta, em síntese, que "os honorários correspondem ao somatório do percentual fixado na instância de origem de 10% (dez por cento) e do percentual de 10% (dez por cento) arbitrado no julgamento do AREsp n.º 938.889/SP, totalizando o percentual de 20% (vinte por cento) sobre o valor da condenação" (fl. 158, e-STJ), e não 11% como entendeu o Tribunal local.
+Após a apresentação das contrarrazões (fls. 190/196, e-STJ),o apelo não foi admitido na origem (fls. 210/213, e-STJ), dando ensejo ao agravo (fls. 216/222, e-STJ), visando destrancar o processamento daquela insurgência, no qual orecorrenterefuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 224/227, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1.Na hipótese, a Corte local entendeu "A parte final do v. acórdão proferido no AREsp nº 938889, da Quarta Turma do Superior Tribunal de Justiça, sob relatoria do E. Min. MARCO BUZZI, assim dispôs sobre a majoração dos honorários advocatícios:"Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, nego provimento ao agravo e, por conseguinte, majoro os honorários advocatícios em 10% sobre o valor fixado na instância de origem, nos termos do art. 85, §11º, do CPC/15." g. n.(fls. 72/73).  .. Dessa forma, inegável que foi atribuída à majoração o importe de 10% sobre o valor fixado na primeira instância para os honorários de sucumbência, no caso em 10% sobre o valor da obrigação, que resulta num aumento de 1% sobre esta e um somatório de 11% sobre a mesma base." (fls. 144/145, e-STJ).
+Com efeito,tendo havido a majoraçãoem 10% (dez por cento) do valor dos honorários de sucumbência já fixado pela Corte, totaliza-se, de fato, a título de verba honorária, 11% do valor do proveito econômico, e não 20% como sustenta a parte recorrente.
+2.Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, nego provimento ao agravo.
+Publique-se. Intimem-se.
