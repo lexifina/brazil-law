@@ -1,0 +1,8 @@
+DECISÃO
+O presente writ, impetrado em benefício deKaue Gonçalves Costa - cumprindo pena privativa de liberdade de 11 anos e 9meses de reclusão e beneficiado com progressão ao regime semiaberto (PEC n. 0007309-67.2018.8.26.0026) -contra ato coator do Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0007573-79.2021.8.26.0996), não comporta processamento.
+Com efeito, busca a impetração seja fixada comodata-base para nova progressão de regime o dia do adimplemento do requisito objetivo, ao argumento dequeo exame criminológico não constitui a aptidão subjetiva do sentenciado para a progressão de regime de cumprimento de pena. Ele somente a declara (fl. 5).
+Ocorre queas instâncias ordinárias decidiram em consonância com oentendimento deste Superior Tribunal, no sentido de quea data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112da Lei n. 7.210/1984, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo, não havendo falar em constrangimento ilegal em razão da consideração do adimplemento do requisito subjetivo somente com a realização do exame criminológico.A propósito:HC n. 670.866/SP,Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma,DJe 5/11/2021.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS.PROGRESSÃO DE REGIME.DATA-BASE PARA A PROGRESSÃO AO REGIME ABERTO. REALIZAÇÃO DEEXAME CRIMINOLÓGICO.CONSTATAÇÃO DO REQUISITO SUBJETIVO.INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. Inicial indeferida liminarmente.
