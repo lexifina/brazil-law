@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, interposto em face de acórdão assim relatado (fl. 131-132):
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensora Pública Renata Moura Gonçalves em favor de PETERSON SANTOS GONÇALVES ao fundamento, em breve síntese, de que o paciente estaria sofrendo ilegal constrangimento, porque teve a prisão em flagrante convertida em preventiva, sem que estivessem presentes os pressupostos para tanto (fls. 1/16 e documentos fls. 17/92).
+A impetrante argumenta, em suma, sobre (i) a inocorrência das hipóteses da prisão preventiva, referindo-se à inidoneidade na fundamentação da r. decisão hostilizada, que deixou de demonstrar claramente como a liberdade do paciente poderia colocar em risco a ordem pública, a instrução processual, ou mesmo a aplicação da lei penal, no caso de condenação, tendo sido olvidada ausência de violência ou grave ameaça à pessoa na suposta prática do delito em questão, o que possibilitaria a substituição da medida constritiva por cautelares menos gravosas; e (ii) a desproporcionalidade da prisão, pois caso eventualmente condenado, o paciente poderá iniciar o cumprimento da pena em regime diverso do fechado, situação menos gravosas do que a atual. Paralelamente, tece considerações acerca da atual crise sanitária, citando dentre outras a Recomendação nº 62/2020 do Conselho Nacional de Justiça, que vem orientando Tribunais e Magistrados a evitarem a prisões provisórias desnecessárias, como é a hipótese dos autos, para impedir a disseminação da doença denominada COVID 19 na unidade prisionais.
+Requer, com a presente impetração, a concessão da liberdade provisória asem fiança ao paciente, expedindo-se em favor dele o alvará de soltura.
+Indeferida a liminar (fls. 96/98), consta dos autos as informações do r. Juízo apontado como coator (fls. 105/106) e o parecer da douta Procuradoria Geral de Justiça, que opina pela denegação da ordem (fls. 109/114).
+É o relatório.
+Consta dos autos que o paciente foi preso em flagrante, convertido em prisão preventiva, pela prática do delito de furto qualificado tentado.
+A impetrante argumenta, em suma, que a decisão que decretou a prisão preventiva carece de fundamentação idônea. Destaca as condições pessoais favoráveis do paciente e que, em hipótese de condenação, cumprirá pena em regime aberto, podendo, ainda, ser beneficiado com acordo de não persecução penal.
+Requer, liminarmente e no mérito, seja revogada a prisão preventiva do paciente.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Em consulta ao andamento processual no site do Tribunal de origem, verifica-se que foi proferida sentença em 18/11/2021, na qual o paciente restou condenado, nos termos da denúncia, à pena reclusiva de 1 ano, em regime aberto, substituída por uma restritiva de direitos e multa, constandoinformação de que, em 20/11/2021, foi juntado aos autos alvará de soltura devidamente cumprido (Ação Penal1518643-92.2021.8.26.0228).
+Ante o exposto, julgo prejudicado ohabeas corpus.
+Publique-se.
+Intimem-se.
