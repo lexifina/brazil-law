@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim ementado (fl. 133):
+PENAL. PROCESSO PENAL. APELAÇÃO. TRÁFICO DE DROGAS. PEDIDO DE RECONHECIMENTO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 41 DA LEI 11.343/06. ALEGAÇÃO DE COLABORAÇÃO PREMIADA NÃO COMPROVADA. ERRO NA DETERMINAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DE PENA. RÉU REINCIDENTE. NÃO ACOLHIMENTO. MANUTENÇÃO DO REGIME INICIAL FECHADO. RECURSO CONHECIDO E NÃO PROVIDO.
+I - O apelante foi condenado pela prática do crime de tráfico de drogas à pena de 5 (cinco) anos de reclusão, em regime inicialmente fechado, e 500 (quinhentos) dias-multa, uma vez que foi flagrado com 3.583kg (três quilos e quinhentos e oitenta e três gramas) de maconha e 95g (noventa e cinco gramas) de cocaína.
+II O acusado alega que colaborou com as investigações e forneceu nome de acusado que culminou em sua prisão. Ocorre que não há informações ou documentos da efetiva colaboração do acusado, nem mesmo indícios da identificação de integrantes de organização criminosa ou recuperação total ou parcial de produtos do crime.
+III A reincidência do acusado restou comprovada nos autos, portanto o regime inicial de cumprimento de pena no fechado foi devidamente justificada pelo juiza quo.
+IV Não é possível, em sede de apelação, o reconhecimento de prescrição de sentença penal condenatória transitada em julgado, que aguarda o julgamento de revisão criminal.
+V Recurso conhecido e não provido.
+Consta dos autos que o paciente foi condenado, em grau de apelação, às penas de 5 anos de reclusão e 500 dias-multa, em regime inicial fechado, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Daí o presente mandamus,em que alega a defesa, em suma, ilegalidade do acórdão impugnado, visto ter concluído que o réu, ora paciente, dedicava-se à atividade criminosa, em razão de ter respondido a outro processo criminal, por outro crime,cuja prescrição é patente.
+Assim, pugna pelo reconhecimento da prescrição do crime que ensejou a reincidência.Busca ainda seja reconhecidoo benefício do redutor de pena previsto no§ 4º do art. 33 da Lei Antidrogas porser portador de condições pessoais favoráveis, preenchendo assimtodos os pressupostos para a concessão da benesse, alterando também o regime prisional.
+Requer, liminarmente, a sustação da execução da pena em regime fechado com expedição de alvará de solturae, no mérito, a extinção dapunibilidade do processo 0001843-20.2010.8.02.0001 e por consequência seja concedido o benefício da causa de diminuição da pena prevista no§ 4º do art. 33 da Lei Antidrogas eseus consectários legais.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público manifestou-se pela denegação do habeas corpus.
+Relativamente à dosimetria, a sentença encontra-se assim fundamentada (fls. 115/116):
+ ..
+Assim, deve o réu ser responsabilizado pela conduta descrita no art. 33 da Lei 11.343/2006, levando-se em consideração, para fins de dosimetria da pena, a quantidade da droga apreendida, a personalidade do réu e a conduta por ele praticada, que deve ser avaliada pelo modus operandi.
+Registre-se ainda que o réu não faz jus à causa de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/06, porquanto não preenche os requisitos ali previstos, especialmente por ser reincidente, uma vez que se encontraem regime de execução de pena(autos nº 0002106-42.2016.8.02.0001).
+Outrossim, não deve ser aplicada em favor do acusado a causa de diminuição disposta no art. 41 do mesmo diploma legal, uma vez que não houve comprovação da relevância e da eficácia objetiva das declarações prestadas pelo acusado quanto à identificação dos demais co-autores ou partícipes do crime. Ressalte-se que, nas hipóteses de colaboração premiada, como é o cado dos autos, a confissão do colaborador deve possibilitar a obtenção de algum resultado prático positivo, resultado que não teria sido alcançado sem as suas declarações, o que não restou demonstrado pela defesa do réu.
+III. DISPOSITIVO
+Ante as razões explanadas, JULGO PROCEDENTE a pretensão punitiva do Estado para CONDENAR o Réu JHONATAN AUGUSTO LEITE DA SILVA, como incurso nas sanções penais do art. 33 da Lei nº 11.343/06.
+Atendendo às circunstâncias previstas no art. 59 e levando em consideração as diretrizes do art. 68, ambos do Código Penal, passo à DOSIMETRIA DA PENA.
+Analisadas as diretrizes do art. 59 do Código Penal, denota-se que o Réu agiu com a culpabilidade normal do tipo; possui antecedentes criminais, em vista da informação trazida à fl. 268, mas deixo para valorá-la na fase posterior do processo de dosimetria, pois incide simultaneamente em reincidência, garantindo-se com isso a preservação da inocorrência do bis in idem; não há elementos suficientes para valorar a personalidade ou a conduta social do Acusado; o motivo do delito o desfavorece, mas deixo de valorá-lo por fazer parte da própria estrutura do tipo penal; as circunstâncias encontram-se detalhadas nos autos, sendo normais ao tipo; as consequências penais e extrapenais não foram graves; não houve vítima.
+Assim, fixo-lhe a pena base em 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, estes no valor unitário de 1/30 (umtrigésimo) do salário mínimo vigente ao tempo do fato, considerando que não há elementos suficientes quanto aos rendimentos do Réu.
+Incide, in casu, a agravante da reincidência, haja vista que, quando praticado o delito, o réu cumpria pena em razão de condenação pretérita transitada em julgado e cuja execução processa-se nos autos nº 0002106-42.2016.8.02.0001. Ocorre que o réu faz jus à atenuante da confissão espontânea (art. 65, III, d), devendo haver compensação entre ambas as circunstâncias, em observância ao art. 67 do CP e à luz da jurisprudência consolidada do STJ, razão pela qual deverá ser mantida a pena fixada.
+Não havendo causas de aumento ou diminuição da pena, torno-a definitiva.
+Para fins de fixação do regime inicial de cumprimento de pena, tendo em vista que o Réu encontra-se preso desde 10/12/2020, detraio a pena em 04 (quatro) meses e 22 (vinte e dois) dias, passando ao patamar de 04(quatro) anos, 07 (sete) meses e 08 (oito) dias de reclusão, pelo que a referida deve ser cumprida inicialmente em regime fechado, com fulcro no art. 33, §2º, "b" e §3º do CP.
+Deixo de substituir a pena privativa de liberdade por penas restritivas de direito, por não se encaixar em nenhuma das hipóteses do art. 44 do Código Penal.
+Extrai-se, ainda, do acórdão (fls. 137/139):
+Feito o juízo de prelibação do presente recurso, verifica-se a existência dos seus requisitos intrínsecos e extrínsecos de admissibilidade.
+Ab initio, cabe assentar que o instituto da prescrição da pretensão punitiva, regulado pelos arts. 109 a 111 do Código Penal, não incide no caso em exame, porquanto o lapso prescricional previsto não se consumou nem é iminente.
+As razões recursais versam apenas quanto à dosimetria da pena e o regime inicial de cumprimento estabelecido.
+Inicialmente, o apelante requer o reconhecimento da causa de diminuição prevista no art. 41 da Lei 11.343/06, apontando que apesar de não ter sido proposto acordo formal, indicou a pessoa que tinha pedido para ele transportar as drogas, indicando também o local onde deixaria o material. Afirma que suas declarações levaram a outras prisões.
+ ..
+Em análise aos depoimentos prestados pelo acusado e testemunhas na fase inquisitorial, não é possível verificar as afirmações da defesa de que houve colaboração (fls. 6, 9 e 13), inclusive o acusado afirmou que não sabia o nome da pessoa com a qual negociou as drogas.
+Durante a instrução processual, os policiais afirmaram que o acusado confessou a propriedade da droga e disse que traficava há pouco tempo. Já o acusado informou que faria o transporte da droga a pedido de "Betinho" que mora no Conjunto Medeiros Neto, no bairro Santa Amélia. Relata que alguns dias após a sua prisão, um policial o procurou em busca de informações, então repassou.
+ ..
+Ocorre que, como bem destacado na sentença, não há comprovação nenhuma de que as informações supostamente prestadas pelo acusado à um policial, ou mesmo as que foram prestadas em sede de instrução processual, culminaram na prisão de outros acusados, conforme afirmado pela defesa.
+Para que senha reconhecida a causa de diminuição, são necessários alguns requisitos, conforme jurisprudência do STJ:
+ ..
+Desta forma, além de não estar comprovado que as informações foram repassadas, não há informação alguma da prisão do outro acusado.
+Quanto ao regime inicial de cumprimento da pena, o apelante aduz que a reincidência foi gerada devido à processo criminal que estaria prescrito e aguarda o julgamento de revisão criminal, suscitando o afastamento. No entanto, deve-se sopesar que não é lícito afastar a reincidência sob a justificativa de prescrição de um processo criminal que sequer foi julgado em sede de revisão.
+Neste sentido, o cumprimento de pena foi assim estabelecido em sentença:
+ ..
+Nesta situação, a reincidência do acusado justifica o cumprimento inicial da pena em regime fechado, nos termos da jurisprudênciado STJ:
+ ..
+Como se vê, o tribunal de origem, ao denegar o afastamento da agravante de reincidência em vista da prescrição, entendeu que "não é lícito afastar a reincidência sob a justificativa de prescrição de um processo criminal que sequer foi julgado em sede de revisão".
+Verifica-seque a reincidência está embasada em prévia condenação no processo n. 0001843-20.2010.8.02.0001 (processo de execução n.0002106-42.2016.8.02.0001). No entanto, conforme a decisão de fls. 196/200do Tribunal de Justiçaque proferiu o acórdão de revisão criminal, em 19/10/2021, reconheceu-se a prescrição da pretensão punitiva e consequente extinção da punibilidade no tocante à condenação proferida nos autos citado acima.
+Assim, "oreconhecimento da prescrição da pretensão punitiva extingue tanto os efeitos primários como secundários da condenação, a qual não pode ser considerada como reincidência tampouco como maus antecedentes"(EDcl no AgRg no Ag no REsp 1.864.887/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/08/2020, DJe 13/08/2020).
+Por tanto, deve ser afastado o aumento da pena pela reincidência.
+Na terceira fase, extrai-se da sentença que a reincidência foi o único fundamento para justificar a não incidência do tráfico privilegiado, bem como a fixação de regime mais gravoso.
+Diante desse cenário fático, impõe-se a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/06, no patamar máximo de 2/3, nos termos da orientação jurisprudencial desta Corte.
+Dessa forma, passo à dosimetria da pena.
+Fixada a pena-base em 5 anos de reclusão e 500 dias-multa, a qual, na segunda fase, fica mantida no mesmo patamar, não obstante a presença da atenuante da confissão espontânea, com fundamento na Súmula n.231 deste Tribunal. Na terceira fase,aplico a fração máxima de 2/3 pela incidência da minorante do tráfico privilegiado, resultando a pena em 1 ano e 8 meses de reclusão e 166 dias-multa, a qual torno definitiva.
+No que concerne à fixação do regime prisional, considerada a primariedade do réu eoquantumde pena aplicado, cabível a fixação do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos, nos estritos termos dos arts. 33 e 44 do Código Penal.
+Ante o exposto, concedo ohabeas corpuspara estabelecer a pena definitiva do paciente em 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa, substituindo a pena privativa de liberdade por restritivas de direitos, a serem estabelecidas pelo Juízo da Execução.
+Comunique-se.
+Publique-se.
+Intimem-se.
