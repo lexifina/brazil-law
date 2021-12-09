@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos pela UNIÃO, em 11/11/2021, a decisão de minha lavra, que conheceu do Agravo para não conhecer do Recurso Especial, interposto por LUIZ HENRIQUE DUPRAT D AVILA.
+Sustenta a embargante a existência de omissão, eis que, "o recurso objeto de julgamento foi interposto em face de acórdão/decisão publicado(a) já na vigência do novo Código de Processo Civil (e-STJ Fl.367) e houve condenação anterior em honorários advocatícios (e-STJ Fl.344), de modo que, nos termos do Enunciado Administrativo nº7 do Superior Tribunal de Justiça, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11 do CPC/15" (fls. 496/497e).
+Nas razões de impugnação, a parte embargada pugna pela rejeição dos Embargos Declaratórios (fls. 501/504e).
+Os Embargos de Declaração merecem prosperar.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Na hipótese, constata-se a ocorrência de omissão, quanto aos honorários recursais.
+Assim, em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), devem ser majorados honorários advocatícios devidos por LUIZ HENRIQUE DUPRAT D AVILA, em favor da UNIÃO, em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015. Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+Fica, assim, sanado a referida omissão.
+Ante o exposto, acolho os Embargos de Declaração da União (fls. 496/498e), apenas para sanar a omissão indicada.
+I.
