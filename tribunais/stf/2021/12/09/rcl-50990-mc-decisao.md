@@ -1,0 +1,79 @@
+Decisão: Trata-se de reclamação constitucional com pedido de liminar, ajuizada por Rodoviário Bedin LTDA., em face de acórdão do Tribunal Regional do Trabalho da 4ª Região, proferido nos autos do Processo 0020175-30.2020.5.04.0405, por suposto descumprimento ao decidido no julgamento da ADC 48/DF.
+
+    Em suas razões, a reclamante aduz que a parte beneficiária ajuizou reclamação trabalhista em seu desfavor e requereu o reconhecimento do vínculo empregatício. Afirma, no entanto, a inexistência de relação de emprego, tendo em vista se tratar de relação comercial por envolver a incidência da Lei 11.442/2007.
+
+    Alega assim a incompetência da justiça trabalhista para processar e julgar a demanda, tendo em vista a constitucionalidade da Lei 11.442/2007, assentada no julgamento da ADC 48.
+
+    Nesses termos, assevera que “[a] decisão proferida pela 5ª turma do TRT da 4ª Região violou frontalmente a decisão de mérito da ADC 48/DF, que reconheceu expressamente a constitucionalidade da Lei 11.442/2007”. (eDOC 1, p. 4)
+
+    Sustenta ainda que cabe à Justiça Comum a análise e discussão acerca do preenchimento dos pressupostos e requisitos da Lei 11.442/2007.
+
+    Requer assim a concessão de liminar para suspender os efeitos do ato decisório reclamado e, ao final, sua cassação, reconhecendo-se a competência da justiça comum.
+
+    É o relatório. Passo a análise do pedido liminar.
+
+    A reclamação, tal como prevista no art. 102, I, “l”, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+
+    No caso, a parte reclamante sustenta a incompetência da Justiça especializada para processar e julgar o Processo 0020175-30.2020.5.04.0405, em razão do decidido por esta Corte nos autos da ADC 48.
+
+    No ponto, cumpre registrar que o Plenário desta Corte, na Sessão Virtual de 3.4.2020 a 14.4.2020, apreciando o mérito da ADC 48/DF, julgou procedente a ação a fim de reconhecer a constitucionalidade da Lei 11.442/2007. Eis a ementa desse julgado:
+
+    “Direito do Trabalho. Ação Declaratória da Constitucionalidade e Ação Direta de Inconstitucionalidade. Transporte rodoviário de cargas. Lei 11.442/2007, que previu a terceirização da atividade-fim. Vínculo meramente comercial. Não configuração de relação de emprego. 1. A Lei nº 11.442/2007 (i) regulamentou a contratação de transportadores autônomos de carga por proprietários de carga e por empresas transportadoras de carga; (ii) autorizou a terceirização da atividade-fim pelas empresas transportadoras; e (iii) afastou a configuração de vínculo de emprego nessa hipótese. 2. É legítima a terceirização das atividades-fim de uma empresa. Como já foi decidido pelo Supremo Tribunal Federal, a Constituição não impõe uma única forma de estruturar a produção. Ao contrário, o princípio constitucional da livre iniciativa garante aos agentes econômicos liberdade para eleger suas estratégias empresariais dentro do marco vigente (CF/1988, art. 170). A proteção constitucional ao trabalho não impõe que toda e qualquer prestação remunerada de serviços configure relação de emprego (CF/1988, art. 7º). Precedente: ADPF 524, Rel. Min. Luís Roberto Barroso. 3. Não há inconstitucionalidade no prazo prescricional de 1 (um) ano, a contar da ciência do dano, para a propositura de ação de reparação de danos, prevista no art. 18 da Lei 11.442/2007, à luz do art. 7º, XXIX, CF, uma vez que não se trata de relação de trabalho, mas de relação comercial. 4. Procedência da ação declaratória da constitucionalidade e improcedência da ação direta de inconstitucionalidade. Tese: 1 A Lei 11.442/2007 é constitucional, uma vez que a Constituição não veda a terceirização, de atividade-meio ou fim. 2 O prazo prescricional estabelecido no art. 18 da Lei 11.442/2007 é válido porque não se trata de créditos resultantes de relação de trabalho, mas de relação comercial, não incidindo na hipótese o art. 7º, XXIX, CF. 3 Uma vez preenchidos os requisitos dispostos na Lei nº 11.442/2007, estará configurada a relação comercial de natureza civil e afastada a configuração de vínculo trabalhista. (ADC 48, Rel. Min. Roberto Barroso, Tribunal Pleno, DJe 19.5.2020) (grifei)
+
+    Ora, a questão constitucional então debatida residiu em saber se a opção legislativa de afastar a configuração de vínculo de emprego nas relações dos trabalhadores autônomos de cargas violaria as normas constitucionais protetivas da relação de trabalho.
+
+    Nesse corolário, esta Corte entendeu que o legislador fez uma opção política compatível com a Constituição e que deve ser respeitada, de forma que, uma vez preenchidos os requisitos dispostos na Lei 11.442/2007, estará configurada a relação comercial de natureza civil e afastada a configuração de vínculo trabalhista.
+
+    No entanto, verifico que a autoridade reclamada, proferiu decisão no seguinte sentido:
+
+    “Recentemente foi declarada constitucional a Lei nº 11.442/07, em julgamento procedido pelo Plenário do STF na ADC 48 MC/DF (Relator Min. Roberto Barroso, Tribunal Pleno, Sessão Virtual de 03 a 14-04-2020), sendo firmada a seguinte tese:
+
+    1 - A Lei nº 11.442/2007 é constitucional, uma vez que a Constituição não veda a terceirização, de atividade-meio ou fim.
+
+    2 - O prazo prescricional estabelecido no art. 18 da Lei nº 11.442/2007 é válido porque não se trata de créditos resultantes de relação de trabalho, mas de relação comercial, não incidindo na hipótese o art. 7º, XXIX, CF.
+
+    3 - Uma vez preenchidos os requisitos dispostos na Lei nº 11.442/2007, estará configurada a relação comercial de natureza civil e afastada a configuração de vínculo trabalhista.
+
+    (...)
+
+    Observo que a decisão proferida na ADC 48 não afasta a competência da Justiça do Trabalho para julgamento da demanda trabalhista ajuizada pelo ora recorrente, ainda que se considere a tese firmada pelo Plenário do STF em seu item 3, acima reproduzido.
+
+    Para aferição da competência necessário examinar a natureza da relação mantida entre as partes. Presentes os requisitos dos arts. 2º e 3º da CLT, a competência será desta Justiça Especializada, caso contrário, configurada a hipótese da Lei nº 11.442/2007, evidenciada estará a relação civil, de competência da Justiça Comum.
+
+    (...)
+
+    Nas razões recursais, como visto, o reclamante delimita o período que trabalhou para a reclamada na condição de empregado, de 04 de agosto de 2016 até 29-02-2019, sustentando que em tal período não possuía os requisitos mínimos para aplicação da Lei nº 11.442/2007, requerendo o reconhecimento do vínculo de emprego.
+
+    Não obstante a alegação da defesa de trabalho autônomo, a questão de fundo a ser examinada é a presença dos elementos da relação de emprego, na forma dos arts. 2º e 3º da CLT, o que atrai a competência desta Justiça Especializada para processar e julgar a ação, nos termos do art. 114, I, da Constituição Federal.
+
+    (...)
+
+    Pelo exposto, dou provimento ao recurso para afastar a declaração de incompetência material da Justiça do Trabalho e determinar o retorno dos autos à origem para prosseguimento da fase de instrução e julgamento, com exame da matéria de fundo, nos termos da fundamentação, para o período delimitado no recurso, qual seja, de 04 de agosto de 2016 até 29-02-2019”. (eDOC 26, pp. 4-6)
+
+    Assim, numa análise preliminar, parece-me que o Juízo reclamado, ao declarar que o julgamento dos pedidos deduzidos na inicial é de competência da Justiça do Trabalho, afrontou a decisão desta Corte que afastou a configuração de vínculo de emprego nas relações dos trabalhadores autônomos de cargas, relações comerciais essas de natureza civil e que devem ser analisadas pela justiça comum.
+
+    Nesse sentido, destaco o seguinte precedente:
+
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. VIOLAÇÃO AO QUE DECIDIDO NA ADC 48. COMPETÊNCIA DA JUSTIÇA COMUM PARA JULGAR CAUSA ENVOLVENDO RELAÇÃO JURÍDICA COMERCIAL. AGRAVO INTERNO PROVIDO. 1. No julgamento da ADC 48, o Ministro Relator Roberto Barroso consignou em seu voto que a Lei 11.442/2007, ‘disciplina, entre outras questões, a relação comercial, de natureza civil, existente entre os agentes do setor, permitindo a contratação de autônomos para a realização do Transporte Rodoviário de Cargas (TRC) sem a configuração de vínculo de emprego’. 2. As relações envolvendo a incidência da Lei 11.442/2007 possuem natureza jurídica comercial, motivo pelo qual devem ser analisadas pela justiça comum, e não pela justiça do trabalho, ainda que em discussão alegação de fraude à legislação trabalhista, consubstanciada no teor dos arts. 2º e 3º da CLT. 3. Agravo Interno provido”. (Rcl 43.544 AgR, Rel. Min. Rosa Weber, Relator(a) p/ Acórdão: Alexandre de Moraes, Primeira Turma, DJe 3.3.2021) (Grifei)
+
+    Cito ainda os seguintes precedentes monocráticos: Rcl 43.982, Rel. Min. Roberto Barroso, DJe 2.3.2021; Rcl 46.069, Rel. Min. Alexandre de Moraes, DJe 5.3.2021 e Rcl 46.356, Rel. Min. Cármen Lúcia, DJe 23.3.2021
+
+    Ante o exposto, reservando-me o direito a exame mais detido da controvérsia por ocasião do julgamento do mérito, presentes os pressupostos de periculum in mora e fumus boni iuris, defiro o pedido de liminar, para determinar a suspensão do Processo 0020175-30.2020.5.04.0405 até a decisão final da presente reclamação.
+
+    Solicitem-se informações à autoridade reclamada (art. 989, I, NCPC).
+
+    Cite-se o beneficiário (art. 989, III, NCPC).
+
+    Intime-se, se necessário, o reclamante, para que forneça o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, sob pena de extinção do feito (arts. 319, II; 321; e 989, III, do CPC).
+
+    Sem prejuízo, abra-se vista dos autos à Procuradoria-Geral da República, pelo prazo de 5 dias (art. 991, CPC).
+
+    Publique-se.
+
+    Brasília, 9 de dezembro de 2021.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
