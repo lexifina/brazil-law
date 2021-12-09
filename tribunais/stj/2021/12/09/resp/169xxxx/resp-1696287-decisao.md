@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial manejado por Wal Mart Brasil Ltdacom fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 291):
+AÇÃO CAUTELAR - PRESENÇA DOS REQUISITOS DO "FUMUS BONI IURIS" E DO "PERICULUM IN MORA" - AÇÃO PROCEDENTE - SENTENÇA CONFIRMADA NO SUBSTANCIAL.
+Opostos embargos declaratórios, foram rejeitados (fls. 345/349).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 535, II, 826 e 827 do CPC/73; e151, II, 205 e 206 do CTN. Sustenta que:(I)o acórdão recorrido foi omisso; e(II)"é pacificado nessa corte que a suspensão da exigibilidade do crédito fiscal, mediante depósito em dinheiro, impede a inscrição do contribuinte no CADIN e nos órgãos de restrição de crédito, no caso o SERASA" (fl. 356).
+Contrarrazões às fls. 456/459.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 -- devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, constata-se que apretensão recursal merece acolhida pelo art. 535 do CPC/73, pois a parte agravante, nas razões dos embargos de declaração e do recurso especial, alega que houve violação aos arts.826 e 827 do CPC/73; e 151, II, 205 e 206 do CTN, considerando que a suspensão da exigibilidade do crédito tributário obstaria sua inscrição em órgãos de proteção ao crédito.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios do ora agravante, em franca violação ao art. 535 do CPC/73, porquanto não prestada a jurisdição de forma integral.
+O enfrentamento explícito e direto das alegações da parte se mostra imprescindível no presente caso, considerando que este Superior Tribunal, em mais de uma oportunidade, já determinou a exclusão do nome de contribuintes de órgãos como o SERASA, em função da existência de garantia da dívida fiscal. É ver:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. INSCRIÇÃO DE DEVEDORES TRIBUTÁRIOS DO ESTADO DE GOIÁS NO CADASTRO DE PROTEÇÃO AO CRÉDITO (SERASA). DÍVIDA GARANTIDA EM EXECUÇÃO FISCAL. FATO SUPERVENIENTE INCONTROVERSO. ART. 462 DO CPC. HIPÓTESE DE CANCELAMENTO DA INSCRIÇÃO, SEGUNDO INFORMAÇÕES DA AUTORIDADE COATORA.
+1.  ..
+3. Na hipótese dos autos, há fato incontroverso de que, após a impetração, a execução fiscal da dívida em questão veio a ser garantida por meio de fiança bancária devidamente aceita pela Fazenda estadual.
+4. Esse fato superveniente (art. 462 do CPC), conforme esclarecido pela própria autoridade apontada como coatora, é suficiente para evidenciar que não mais subsiste razão para a permanência do nome do recorre em face desse débito junto aos cadastros da Serasa. Nesse mesmo sentido já julgou a Segunda Turma ao apreciar recursos idênticos interpostos por outros sócios "positivados" em face do mesmo débito fiscal em comento. Confiram-se: RMS 33.381/GO, Rel.Ministro Mauro Campbell Marques, DJe 14/06/2011; e 34.931/GO, Rel.Min. Mauro Campbell Marques, DJe 13/12/2011.
+5. Agravo regimental não provido.
+(AgRg no AgRg no RMS 33.789/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 24/4/2012, DJe 27/4/2012)
+ANTE O EXPOSTO, dou provimento ao recurso especial por violação ao art. 535 do CPC/73, determinando o retorno dos autos à origem, para novo julgamento dos aludidos embargos de declaração.
+Publique-se.
