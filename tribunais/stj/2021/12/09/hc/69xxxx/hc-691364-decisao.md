@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus, se pedido de liminar, impetrado em face de acórdão assim ementado (fl. 39):
+Apelação Roubo (157, § 2º, incisos I e II, c. c artigo 70, todos do Código Penal) Sentença condenatória Alegação de insuficiência probatória Não ocorrência - Materialidade e autoria delitivas comprovadas Pretensão a desclassificação do crime para o delito de receptação, em relação ao réu Wilson Impossibilidade - Readequação do quantum fixado em razão da reincidência específica dos acusados - Manutenção do regime aplicado Recursos parcialmente providos, readequando-se a pena imposta aos recorrentes, mantendo-se, no mais a r. sentença por seus próprios e jurídicos fundamentos.
+Consta dos autos que o paciente fora condenado e primeira instância como incurso nas penas do art. 157, § 2º, incisos I e II, c/c artigo 70, todos do Código Penal, a uma pena de 8 anos, 6 meses e 20 dias de reclusão, mais 34 dias-multa.
+Irresignada com a decisão, a defesa interpôs recurso de apelação ao Tribunal de Justiça do Estado de São Paulo que deu parcial provimento ao referido recurso, reduzindo a reprimenda para 7 anos, 8 meses e 12 dias de reclusão.
+Sustenta o paciente em síntese, pela ilegalidade do aumento da pena na terceira fase no patamar de 3/8.
+Aduz que tal aumento não possui fundamentação idônea, tendo em vista que o número de causas de aumento e da gravidade destas, quais sejam, uso de arma de fogo e concurso de pessoas, por si só, não é argumento suficiente para embasar a decisão
+Por fim, alega que a sentença viola expressamente o enunciado n. 443 da Súmula do STJ.
+Requer seja readequada a pena do paciente, com a fixação da fração de majoração na terceira fase da dosimetria em 1/3.
+Sem pedido liminar.
+Prestadas as informações, manifestou-se o Ministério Público pela concessão da ordem, para reduzir a fração de aumento empregada na terceira fase da dosimetria da apena.
+Consoante relatado, pretende a defesa a revisão da dosimetria da pena.
+Inicialmente, ressalto que a individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório.
+No caso dos autos, a dosimetria da pena foi assim estabelecida na sentença (fls. 35-36, e-STJ):
+Atento as diretrizes do artigo 59, do Código Penal, observo que o réu MILTON é reincidente, circunstância a ser analisada a seguir, razão pela qual fixo a pena-base, no mínimo legal, em 04 (quatro) anos de reclusão e 10 (dez) dias-multa.
+Na segunda fase de fixação da pena, presente a circunstância agravante da reincidência específica (fls. 218), razão pela qual elevo a pena em 1/3 (um terço), fixando-a em 05 (cinco) anos e 04 (quatro) meses de reclusão e 13 (treze) dias-multa.
+Na terceira fase de mensuração da pena, vislumbro a presença das causas de aumento de pena referentes ao emprego de arma e o concurso de agentes, o que motiva a elevação do quantum até aqui apurado em 3/8 (três oitavos), perfazendo 07 (sete) anos e 04 (quatro) meses de reclusão e 17 (dezessete) dias-multa.
+ ..
+Em razão do concurso formal de delitos, exaspero a pena-base em 1/6 (um sexto), considerando que foram duas as vítimas atingidas, para fixá-la em 08 (oito) anos. 06 (seis) meses e 20 (vinte) dias de reclusão.
+A pena de multa, no entanto, deve ser fixada nos termos do artigo 72 do Código Penal, em 34 (trinta e quatro) dias-multa.
+Nos termos do artigo 33, § 2º. do Código Penal, fixo o regime fechado para o início do cumprimento da pena, pois o réu é reincidente.
+Por sua vez, o Tribunal de origem assim se manifestou (fls. 45-46):
+Quanto ao réu Milton, na primeira fase da dosimetria da pena imposta, em razão da ausência de circunstâncias desfavoráveis, o magistrado fixou a pena-base no mínimo legal, qual seja, 04 anos e pagamento de 10 dias-multa.
+Na segunda fase de fixação da pena, presente a circunstância agravante da reincidência específica (fls. 218), foi a reprimenda elevada em 1/3 (um terço), fixando-a em 05 (cinco) anos e 04 (quatro) meses de reclusão e 13 (treze) dias- multa.
+De igual modo, entendo que a fiação de 1/5 mostra-se mais adequada ao caso em comento.
+Assim, readequando-se a reprimenda, fica estabelecida em 04 anos, 09 meses e 18 dias de reclusão e pagamento de 12 dias-multa.
+Na terceira fase de mensuração da pena, em razão da presença das causas de aumento de pena referentes ao emprego de arma e o concurso de agentes, elevou-se a pena em 3/8 (três oitavos), perfazendo 06 anos. 07 meses e 06 dias de reclusão e pagamento de 16 dias-multa.
+Em razão do concurso formal de delitos, exaspero a pena-base em 1/6 (um sexto), considerando que foram duas as vítimas atingidas, para fixá-la em 07 anos. 08 meses e 12 dias de reclusão. A pena de multa, no entanto, deve ser fixada nos termos do artigo 72 do Código Penal, em 32 dias-multa.
+Nos termos do artigo 33, § 2º, do Código Penal, foi fixado o regime fechado para o início do cumprimento da pena, pois o réu é reincidente.
+Por fim, entendo ser incabível a fixação de regime mais brando, conforme pleiteiam as defesas, já que os apelantes, reincidentes, demonstram culpabilidade acima do normal, com alta periculosidade, praticando o delito em concurso de agentes e com emprego de arma de fogo, tudo indicando que regime menos gravoso não terá o condão de repreende-los, tampouco evitar futuras incursões.
+Por todo o exposto, dá-se parcial provimento aos recursos, readequando-se as penas impostas aos réus, mantendo-se, no mais a r. sentença por seus próprios e jurídicos fundamentos.
+No caso, vê-se que, ao contrário do que afirmou as instâncias de origem, a escolha da fração relativa às majorantes do roubo tanto na sentença, como no acórdão da apelação, se deu somente com base no número de majorantes, o que vai de encontro com o disposto na Súmula 443 do STJ. Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ROUBO CIRCUNSTANCIADO. CAUSAS DE AUMENTO. FRAÇÃO DE 3/8. FUNDAMENTAÇÃO GENÉRICA. SÚMULA N. 443 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal  STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, como no caso dos autos, ressalvando-se, porém, a possibilidade de concessão da ordem, de ofício, se constatada a existência de flagrante ilegalidade na liberdade de locomoção do paciente.
+2. Na terceira fase da dosimetria, a pena foi aumentada em 3/8, exclusivamente com fundamento no número de majorantes (art. 157, § 2º, I e II, do Código Penal  CP), em desrespeito ao disposto no enunciado n. 443 da Súmula do STJ.
+3. Habeas corpus não conhecido, mas concedida a ordem, de ofício, para reduzir a fração de aumento da pena na terceira fase da dosimetria, com extensão ao corréu, nos termos do art. 580 do Código de Processo Penal  CPP.
+(HC 671.048/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 14/09/2021, DJe 17/09/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL SUM. 182/STJ. FUNDAMENTOS ATACADOS. AFASTAMENTO QUE SE IMPÕE. ROUBO DUPLAMENTE CIRCUNSTANCIADO PELO EMPREGO DE ARMA DE FOGO E CONCURSO DE AGENTES. AUMENTO DA TERCEIRA FASE DA DOSIMETRIA. FUNDAMENTAÇÃO ABSTRATA. REDUÇÃO A 1/3 (UM TERÇO).
+I - O agravo regimental é tempestivo e foi rebatido o fundamento da decisão agravada - Súm. n. 182/STJ. Da mesma forma a decisão que inadmitiu o recurso especial, em face da incidência das Súmulas 7, 83 e 518 do STJ e 284 do STF, foi igualmente impugnada, por ocasião do agravo em recurso especial.
+II - Pacífica é a jurisprudência desta Corte Superior no sentido de que, para a elevação da pena em fração superior a 1/3 (um terço), na terceira fase da dosimetria da pena, no crime de roubo, é insuficiente a menção ao número de majorantes, sendo indispensável motivação concreta, calcada nas características do delito.
+III - Nesse sentido, foi editada a Súm. n. 443/STJ, segundo a qual "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+IV - Na hipótese, o percentual de 3/8 (três oitavos) foi estabelecido tão somente em razão do número de majorantes, o que se afigura inaceitável, devendo ser reduzido o percentual de aumento para 1/3 (um terço), totalizando as reprimendas dos agravantes em 5 (cinco) anos e 4 (quatro) meses de reclusão, mais 13 (treze) dias-multa.
+V - Diante do quantum da pena imposta, não há que se falar em alteração do regime prisional para aberto, conforme determina o art. 33, §2º, "b", do Código Penal.
+VI - Agravo regimental provido para, afastada a incidência da Súm. n. 182, conhecer do agravo e dar parcial provimento ao recurso especial reduzindo para 5 (cinco) anos e 4 (quatro) meses de reclusão, mais 13 (treze) dias-multa, as penas impostas aos agravantes, mantido o regime prisional semiaberto.
+(AgRg no AREsp 1866504/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/06/2021, DJe 14/06/2021)
+Passa-se, assim, a redimensionamento da pena do crime de roubo (art. 157, § 2º, I e II, c/c art. 70, ambos do CP), que na primeira fase foi fixada em 4 anos de reclusão e 10 dias-multa e, na segunda fase, em função da agravante de reincidência específica, a pena fora elevada em 1/5, sendo fixada em 4 anos e 9 meses e 18 dias de reclusão e 12 dias-multa.
+Em face das causas de aumento de pena previstas no § 2º, I e II, do mesmo art. 157 do Código Penal, aumento-as em 1/3, tornando-as definitivas, pois, em 6 anos e 4 meses e 24 dias de reclusão e 16 dias-multa.
+Em função do concurso formal de delitos, aumento a pena em 1/6, tornando-a definitiva em 7 anos, 5 meses e 18 dias de reclusão, mais 18 dias-multa.
+Em relação ao cumprimento da pena, em função das circunstâncias do caso concreto, fixo o regime fecho como bem determinou a origem ao afirmar que "(..) os apelantes, reincidentes, demonstram culpabilidade acima do normal, com alta periculosidade, praticando o delito em concurso de agentes e com emprego de arma de fogo, tudo indicando que regime menos gravoso não terá o condão de repreende-los, tampouco evitar futuras incursões" (fl. 46).
+Ante o exposto, concedo o habeas corpus para reduzir a pena do paciente pelo crime do art. art. 157, § 2º, I e II, do CP, à 7 anos, 5 meses e 18 dias de reclusão e 18 dias-multa, mantido o regime inicial fechado de cumprimento da pena.
+Comunique-se.
+Publique-se.
+Intimem-se.
