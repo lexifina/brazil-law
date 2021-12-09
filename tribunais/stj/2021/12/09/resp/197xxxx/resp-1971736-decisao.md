@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por VALDIR FRANCISCO DA SILVA contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. AGENTE NOCIVO ELETRICIDADE. REQUISITOS NÃO PREENCHIDOS
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação dos arts. 489 e 1.022 do CPC/2015, sustentando, em síntese (fls. 506/510):
+No caso dos autos, foram acostados aos autos PPP e Laudo Técnico com informações divergentes, acerca de período trabalhado na COMPANHIA BRASILEIRA DE TRENS URBANOS, de 05/07/1989 a06/05/2015, na função de Assistente de Manutenção, com exposição do demandante ao agente nocivo "eletricidade", em intensidade superior a 250V.5.
+No PPP juntado pelo autor consta a informação de que não eram fornecidos EPI"s e EPC"s eficazes (nos campos EPI e EPC eficazes consta "N"). Por sua vez, o Laudo Técnico que embasa este PPP descreve que foram fornecidos equipamentos de proteção individual e coletivo, a exemplo de calçado de segurança, capacete de segurança, bloqueio do religamento automático, aterramento nas instalações elétricas, entre outros.
+Neste caso, diante da divergência constatada e inexistindo nos autos outros elementos de prova robustos, a fim de possibilitar uma análise precisa e imparcial da real condição de trabalho a que o requerente estava exposto, é de rigor determinar a realização de perícia técnica, nos termos do art. 938, § 3º, do CPC.
+Contrarrazões apresentadas pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (fls. 520/524).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Na linha das decisões proferidas por este Tribunal Superior, "a admissibilidade do recurso especial exige a clara indicação dos dispositivos supostamente violados, bem como em que medida teria o acórdão recorrido afrontado cada um dos artigos atacados ou a eles dado interpretação divergente da adotada por outro tribunal" (REsp 1.114.407/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 18/12/2009). No mesmo sentido, entre outros: AgRg nos EAREsp 75.689/RJ, Rel. Ministro Humberto Martins, Corte Especial, DJe 04/08/2015).
+Por isso, é pacífico o entendimento jurisprudencial segundo o qual não se pode conhecer do recurso especial, quanto à tese de violação à lei ou de divergência jurisprudencial referente à sua interpretação, quando as razões recursais não contiverem, expressamente, a causa de pedir correlata, a qual deve ser específica e suficiente à compreensão da forma como o acórdão recorrido estaria ofendendo a norma legal. Observância da Súmula 284 do STF.
+No caso dos autos, o recurso não pode ser conhecido porque as alegações recursais são genéricas, sem causa de pedir recursal específica que sirva à impugnação da conclusão do acórdão recorrido, que está assim: "considerando que os elementos de prova indicam que a empresa empregadora toma as medidas de proteção adequadas, entende-se descaracterizada a especialidade do período trabalhado sob a exposição ao agente nocivo eletricidade (19/05/1986 a 13/11/2012), de modo que se afigura indevida a concessão da aposentadoria especial determinada pelo decisum".
+Aliás, atentando-se para o delineamento fático descrito pelo órgão julgador a quo, ainda que fosse possível superar a deficiência técnica da petição recursal acima apontada, o conhecimento do recurso encontraria óbice na Súmula 7 do STJ, pois não há como se chegar à conclusão diversa sem o reexame de provas.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
