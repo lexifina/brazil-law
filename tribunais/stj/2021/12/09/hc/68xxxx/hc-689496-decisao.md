@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Luiz Marius Soares-presopreventivamente pela prática, em tese, dodelitode tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro, que indeferiu o pedido liminar no writ ali impetrado (Habeas Corpus n. 0030456-93.2021.8.19.0000), mantendo a prisão preventiva dopaciente decretada pelo Juízo de Direito da 1ªVara Criminalda comarca de Resende/RJ (Autos n. 0002706-15.2021.8.19.0066).
+Alega-se, em síntese, constrangimento ilegal consistente na decretação da prisão preventiva do paciente, ao argumento de insuficiência de fundamentação, e pleiteia-se a concessão de prisão domiciliar, em razão do risco de contaminação pela Covid-19.
+Postula-se, ao final, a concessão da ordem para que a prisão preventiva seja revogada.
+Deferi o pedido liminar para assegurar ao paciente a substituição da prisão preventiva por medidas cautelares diversas da prisãoaté o julgamento de mérito do presente writ (fls. 120/122).
+Prestadas informações (fls. 126/132 e 133/137), o Ministério Público Federal opinou pelo não conhecimento da impetração (fl. 141).
+É o relatório.
+As Turmas integrantes da Terceira Seção desta Corte, na esteira do preceituado no enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada perante os Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Em consulta ao portal eletrônico do Tribunal de Justiça do Rio de Janeiro, observei que houve a superveniência do julgamento da impetração originária, com a denegação da ordem. Portanto, necessário confirmar a liminar anteriormente deferida.
+Na presentehipótese, não entendo ser o caso da concessão de prisão domiciliar em razão do risco de contaminação pela Covid-19.
+No entanto, acerca da fundamentação do decreto preventivo, observo que, não obstante as relevantes considerações realizadas pelo Magistradosingular relacionadas à prática do crime, em especialàs circunstâncias do delito (fl. 51 - apreensão de25,2 g de maconha individualmente embaladas e passagem por tráfico de drogas), entendo que existem medidas outras suficientes a evitar a reiteração delitiva, considerando a situação calamitosa dos presídios estaduais e ofatode o crime, apesar de grave, ter sido cometido sem violência ou grave ameaça à pessoa.
+Assim, a substituição da prisão por medidas cautelares, consistentes em:a) comparecimento periódico em juízo para informar e justificar suas atividades (art. 319, I, do CPP); b) proibição de acesso a determinados lugaresa serem identificados pelo Magistrado singular, relacionados à prática dos crimes imputados (art. 319, II, do CPP); e c) recolhimento domiciliar no período noturno e nos dias de folga (art. 319, IV, do CPP), mostra-se proporcional e adequada à situação dos autos, como forma de evitar a reiteração delitiva.
+Em face do exposto, concedo a ordem impetrada, confirmandoa liminar anteriormente deferida, para substituir a prisão preventiva imposta ao paciente pelas medidas alternativas à prisão previstas no art. 319, I, II e IV, do Código de Processo Penal, a serem implementadas e fiscalizadas pelo Magistrado singular.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. SÚMULA 691/STF.WRIT IMPETRADO CONTRADECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EMMANDAMUSORIGINÁRIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE 25,2 G DE MACONHA, E PACIENTE COM ANTECEDENTE CRIMINAL. DELITO COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA. ART. 319 DOCPP. POSSIBILIDADE. NECESSIDADE DE CONFIRMAÇÃO DA LIMINAR ANTERIORMENTE CONCEDIDA.CONSTRANGIMENTO ILEGAL MANIFESTO.
+Ordem concedidanos termos do dispositivo.
