@@ -1,0 +1,23 @@
+DECISÃO
+Esta medida de urgência foi requerida por LEANDRO MUSSI, AGROPECUÁRIA MUSSI LTDA. e COMPANY LEANDRO MUSSI LLC (LEANDRO e outros), por conexão ao REsp nº 1.680.016-SP, de minha Relatoria, para o fim de suspender o andamento da execução em trâmite perante a 6ª Vara Cível do Foro Central da Comarca de São Paulo - SP (Processo nº 1087584-60.2015.8.26.0100).
+Porque ausentes os pressupostos indispensáveis ao deferimento da medida urgente postulada, o pedido foi indeferido (e-STJ, fls. 1.040/1.042).
+Contra essa decisão, LEANDRO e outros opuseram embargos de declaração que foram rejeitados (e-STJ, fls. 1.178/1.181).
+Inconformados, eles interpuseram agravo interno no qual apresentaram pedido de reconsideração da decisão proferida, postulando processamento e julgamento do feito (e-STJ, fls. 1.187/1.247).
+Este, em síntese, o relatório.
+DECIDO.
+O recurso especial que originou o pedido de tutela provisória formulado nestes autos não foi conhecido, conforme acórdão publicado em 14/10/2021, cuja ementa transcrevo:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE CONTRATOS DE PENHOR DE COTAS SOCIETÁRIAS, PENHOR AGRÍCOLA E HIPOTECA. EXCEÇÃO DE INCOMPETÊNCIA. IRRESIGNAÇÃO SUBMETIDA AO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. PRETENSÃO DE INCIDÊNCIA DA CLÁUSULA DE ELEIÇÃO DE FORO INSERIDA NO CONTRATO CONEXO DE MÚTUO. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. HIPOTECA. DISCUSSÃO AFETA A IMÓVEL SITUADO NO BRASIL. COMPETÊNCIA DA JUSTIÇA BRASILEIRA. CLÁUSULA DE ELEIÇÃO DE FORO NA CIDADE DE SÃO PAULO. ALEGAÇÕES DE INVALIDADE QUE ESBARRAM NA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Não se reconhece a violação do art. 1.022 do NCPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. A validade em abstrato da cláusula que elege a Justiça de outro país como competente para decidir eventuais controvérsias instauradas acerca de um dado contrato é reconhecida pela jurisprudência desta Corte e pelo art. 25 do NCPC.
+4. No caso dos autos, porém, as instâncias de origem entenderam que os contratos de penhor e de hipoteca que amparam a execução são autônomos em relação àquele de mútuo no qual se teria estipulado o foro da cidade de Nova Iorque, nos Estados Unidos, como competente para dirimir eventuais controvérsias entre os contratantes.
+5. Além disso, nem sequer ficou certificado nos autos, a premissa fática destacada no recurso especial, de que referido contrato de financiamento, ao qual pretensamente subordinadas as garantias pignoratícias e hipotecária, indicava como foro de eleição, de forma peremptória e exclusiva, cidade localizada fora do Brasil.
+6. A alteração das conclusões fixadas na origem com relação à vinculação necessária entre os contratos e, bem assim, quanto à existência de uma cláusula de eleição de foro afastando a competência da Justiça Brasileira esbarra, portanto, nas Súmulas nºs 5 e 7 do STJ.
+7. Compete a autoridade judiciária brasileira conhecer de ações relativas a imóveis situados no Brasil, como aquela intentada para fazer valer uma hipoteca constituída sobre imóvel localizado em território nacional.
+8. A alegação de que a cláusula de eleição de foro estabelecida nos contratos de penhor e de hipoteca seria inválida porque imposta de forma cogente, em contrato de adesão, esbarra, igualmente, na Súmula nº 7 do STJ, porque o Tribunal estadual afirmou que as partes contratantes se pautaram com ampla liberdade e equivalência de condições durante a negociação.
+9. As instâncias de origem assinalaram que os recorrentes não eram vulneráveis para efeito da aplicação da teoria finalista mitigada, mostrando-se impossível, por conseguinte, qualificá-los como consumidores sem ultrapassar o óbice da Súmula nº 7 do STJ.
+10. Recurso especial não conhecido.
+Desse modo, ante o julgamento do aludido recurso, não mais subsiste o presente pedido de tutela provisória que, portanto, perdeu seu objeto.
+Ressalto que o julgamento declarando a perda de objeto da tutela provisória não depende do trânsito em julgado da decisão que julgou o recurso especial.
+Nessas condições, JULGO PREJUDICADO o agravo interno interposto, por perda superveniente do interesse recursal, nos termos do art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, ficando mantida a extinção deste pedido de concessão de tutela provisória.
+Publique-se. Intimem-se.
