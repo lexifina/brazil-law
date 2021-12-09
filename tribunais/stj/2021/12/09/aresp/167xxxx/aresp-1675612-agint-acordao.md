@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Estado de Mato Grosso contra decisão que negou provimento ao agravo em recurso especial, ante a incidência da Súmula 282/STF (fls. 806/807).
+Inconformado, o agravante afirma que "a tese aventada pelo ora Agravante foi analisada pelo Tribunal a quo, por meio, inclusive, de exame jurisprudencial, não havendo que se cogitar, portanto, na incidência da Súmula 211/STJ, uma vez que atendido o requisito do prequestionamento. Importante consignar, ainda, que a tese defendida pelo Ente Público está em consonância com a jurisprudência mais recente desta Egrégia Corte, no sentido de que a prescrição, nos casos em que há reestruturação de determinada carreira, atinge o fundo de direito (e não somente as parcelas anteriores ao quinquênio prescricional) e possui como termo inicial a data dessa reestruturação." (fl. 815).
+Requer o processamento do apelo nobre.
+Não houve impugnação da parte agravada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. URV. PRESCRIÇÃO DO FUNDO DE DIREITO. REESTRUTURAÇÃO DA CARREIRA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF.
+1. O Tribunal de origem não examinou a tese recursal sob o enfoque pretendido, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Calha ressaltar que, na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp 1.890.753/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 6/5/2021).
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Consoante anteriormente mencionado, quanto ao tema da prescrição, colhe-se do aresto estadual a seguinte fundamentação (fls. 326/327):
+Consoante relatado, cuida-se de recurso de Agravo Interno em que se objetiva a retratação da decisão monocrática que deu parcial provimento ao Apelo e retificou parcialmente sentença.
+O ESTADO DE MATO GROSSO, de forma retorica e insistente, requer o reconhecimento da prescrição do fundo de direito, para a percepção de vantagens decorrentes da URV, ao argumento que é inaplicável o Enunciado Sumular n.º 85/STJ.
+Isso porque, encontra-se em harmonia com a jurisprudência hodierna do Superior Tribunal de Justiça, segundo o qual não se opera a prescrição do fundo de direito, nos casos em que se busca o pagamento de diferenças salariais decorrentes da errônea conversão em URV, atingindo apenas as parcelas anteriores ao quinquênio que precedeu à propositura da ação, pois se trata de relação de trato sucessivo, conforme preconizado na Súmula 85/STJ.
+Para corroborar o alegado, colacionado recente jurisprudência da Corte de Justiça, que analisou situação homologa oriunda deste Sodalício, in verbis:
+(..)
+Nesse contexto, reitera-se que o Tribunal de origem não examinou a tese recursal sob o enfoque pretendido, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Sabe-se que o Supremo Tribunal Federal, nos autos do RE 870.947/SE (repercussão geral reconhecida), em 20/11/2017, assentou que o IPCA-E deve ser utilizado como índice de correção monetária, consignando que o direito fundamental de propriedade (art. 5º, XXII, CF/1988) repugna o disposto no art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, porquanto a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina. Em decisão plenária, datada de 3/10/2019, o STF rejeitou todos os embargos declaratórios opostos ao julgamento do RE 870.947, sem modular os efeitos da decisão anteriormente proferida. Acontece que a sentença executada pela agravante, em seu dispositivo, expressamente determinou que os juros moratórios e a correção monetária incidentes sobre o valor da condenação devem observar o Manual de Orientação de Procedimentos para os cálculos da Justiça Federal, aprovado pelo Conselho da Justiça Federal, por meio da Resolução 134, de 21/12/2010.
+A Resolução CJF 134/2010, por sua vez, por ser anterior ao julgado do STF, atendia ao disposto na Lei 9.494/1997, prevendo a TR como indexador de correção monetária das condenações impostas à Fazenda Pública. Assim, há de se respeitar a coisa julgada, nos termos do título judicial exequendo (o qual somente poderia ser desconstituído por meio de ação rescisória), que previu a aplicação do Manual de Cálculos da Justiça Federal na redação aprovada pela Resolução 134/2010.
+Deve, portanto, ser mantida a decisão agravada, por seus próprios fundamentos.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
