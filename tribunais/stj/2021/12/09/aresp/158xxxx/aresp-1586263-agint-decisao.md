@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interno manejado por Makro Atacadista S.A.contra decisão da Presidência que não conheceu do seu agravo em recurso especial por intempestividade.
+Inconformada, defende a parte agravante "que  ..  demonstrou de maneira inequívoca a tempestividade do recurso especial (doc.1). Isso porque  ..  juntou, às fls. 833/838 (STJ), as cópias do Diário da Justiça Eletrônico do E. TJ/SP, com os Comunicados nºs 77, 79, 87 e 88/2018, que suspenderam os prazos processuais nos dias 24, 25, 28, 29 e 30 de maio de 2018 em razão dos transtornos causados pela paralização dos caminhoneiros. Além disso,  ..  juntou cópia do Provimento CSM nº 2.457/2017, que determina que não haveria expediente no Foro Judicial de Primeira e Segunda Instâncias do Estado e na Secretaria do E. TJSP no dia 31 de maio e 1º de junho de 2018 em razão do feriado de Corpus Christi.Como se vê, tendo sido realizada a juntada de documentos oficiais e idôneos, no ato da interposição do recurso, o requisito previsto no 6º do artigo 1.003 do CPC foi plenamente atendido, não havendo que se falar em intempestividade" (fls. 985/986). Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+Aberta vista à parte agravada, transcorreu in albis o prazo para impugnação (fl. 999).
+É O BREVE RELATO. PASSO A DECIDIR.
+Diante das peculiaridades apontadas pela parte agravante, exercendo o juízo de retratação, reconsidero a decisão agravada de fls. 979/980, tornando-a sem efeito.
+Após, voltem-me os autos conclusos para novo e oportuno exame do agravo em recurso especial de Makro Atacadista S.A..
+Publique-se.
