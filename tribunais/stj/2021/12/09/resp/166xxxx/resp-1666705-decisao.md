@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Companhia Brasileira de Distribuiçãocom fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 263):
+EXECUÇÃO FISCAL- ICMS - GARANTIADO JUÍZO -FIANÇA BANCÁRIADECISÃO AGRAVADA QUEDETERMINA A INTIMAÇÃO DA AGRAVANTE PARACOMPLEMENTAÇÃO DA CARTA DE FIANÇA
+- Viabilidade Acréscimo de 30% Aplicabilidade do artigo656, §2º do CPC às execuções fiscais
+- Necessidade da carta-fiança apresentada estar nas condições estabelecidas no artigo 656, §2º, do CPC e, ainda, garantir os acréscimos previstos na CDA - Decisão agravada mantida. Agravo de instrumento não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 283/289).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 535, II, 620 e 656,§ 2º,do CPC/73; 2º e 5º da LINDB; e 1º, 9º, II,§ 3º,11 e 15, I, da LEF. Sustenta que:(I)o acórdão recorrido foi omisso; e(II)"ainda que se pudesse considerar a possibilidade de aplicação subsidiária do§ 2º do art. 656 à Lei de Execuções Fiscais - o que não ocorre conforme será visto adiante -, a hipótese prevista naquele dispositivonão se subsume ao caso em análise" (fl. 301), sendo que a legislação, ao dispor sobre a garantia em execução fiscal, nada dispõe "quanto à eventual necessidade de complementação desse valor com o percentual de 30%" (fl. 302), situação que, ademais, "assegurou à Recorrenteforma mais gravosa de garantia de seu débito" (fl. 305)
+Contrarrazões às fls. 325/329.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 -- devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, verifica-senão ter ocorrido ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto ao mérito da controvérsia, razão assiste à recorrente.
+Na hipótese, a Corte de origem reputou que a carta-fiança ofertada como garantia seria insuficiente, com base nos seguintes fundamentos (fls. 264/265):
+Considerando o valor atualizado da dívida (memória de cálculo-fl. 233),tenho que a carta -fiança oferecida não é suficiente para garantir o juízo, aenglobar os juros, multa, honorários e as custas, além do acréscimo de 30%previsto no artigo 656, § 2º, do Código de Processo Civil.
+Isto, pois o artigo 656, § 20, do Código de Processo Civil é expresso ao prever a possibilidade do executado pleitear a substituição da penhora por "fiança bancária ou seguro garantia judicial, em valor não inferior ao do débito constante na inicial, mais 30% (trinta por cento)", admitindo a legislação que se proceda dessa maneira, com o objetivo de garantir-se o débito em questão, para efeito de discussão do mesmo em Juízo.
+ ..
+No caso específico da exigência do reforço de 30% sobre o valor da garantia na carta de fiança, as previsões do Código de Processo Civil são bem vindas, mormente porque a Lei de Execuções Fiscais não regulamenta as condições de aceitação da carta de fiança.
+A questão já foi bem analisada e decidida em voto prolatado pelo eminente Desembargador Wanderley José Federighi, Agravo de Instrumento no2039894-27.2015.8.26.0000, julgado em 28/5/2015, cujas palavras, que adoto como razão de decidir, tomo a liberdade de transcrever:
+"No tocante ao fato de não se tratar, in casu, de substituição de penhora anteriormente efetivada, impende-se ressaltar que não há fundamento para tal diferenciação. Ora, qual a razão de se estabelecer um acréscimo em casos de substituição propriamente dita de penhora e afastar-se tal exigência em casos de garantia originária
+ ..
+Por conseguinte, é possível concluir-se que a mens legis já considera afiança bancária como forma subsidiária de garantia, não se equiparando à penhora em dinheiro, motivo pelo qual o crédito estará assegurado de forma mais eficaz com o acréscimo impugnado.
+ ..
+Outrossim, é cediço que o crédito exequendo cresce ininterruptamente até a sua efetiva quitação, em razão de sua atualização e mora; portanto, o acréscimo de trinta por cento do valor dado como garantia da execução se justifica plenamente, tendo-se em vista a sua diária desatualização".
+Sendo assim, de rigor a manutenção da r. decisão agravada.
+Ocorre que a jurisprudência deste Superior Tribunal já se sedimentou no sentido de que "a exigência mais gravosa para o executado relativa ao acréscimo de 30%, na hipótese de substituição da penhora por fiança bancária ou seguro garantia judicial, não se aplica, em princípio, ao caso da penhora inicial, dada a ausência de previsão legal" (AgInt no REsp 1.316.037/MA, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22/9/2016). Ainda nessa linha:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS EXECUÇÃO FISCAL. SEGURO-GARANTIA RECUSA INJUSTIFICADA. SÚMULA 83/STJ. APLICAÇÃO.
+1.  ..
+2. A hipótese não é de substituição de penhora, mas de garantia inicial prestada em Execução Fiscal, logo após a citação, razão pela qual, em tese, não se aplicaria o art. 656, § 2º, do CPC/1973, já que este apenas estabelece a necessidade de acréscimo nos casos em que há substituição da penhora.
+3. É permitido ao executado, em garantia da execução fiscal, oferecer fiança bancária ou seguro-garantia e nomear bens à penhora, desde que observada a ordem de preferência do art. 11 da Lei 6.830/80. O seguro-garantia é equiparado a dinheiro apenas para fins de substituição, não como bem preferencial e originário para penhora. Inteligência dos arts. 9º e 11 da Lei 6.830/80 c.c. art.835, § 2º, do CPC (REsp 1.508.171/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 6.4.2015).
+4.  ..
+6 Agravo conhecido para não se conhecer do Recurso Especial.
+(AREsp 1.564.019/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 3/11/2020, DJe 18/12/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. TRIBUTÁRIO. EXECUÇÃO FISCAL. SEGURO GARANTIA JUDICIAL. ACRÉSCIMO DE 30% SOBRE O VALOR DO DÉBITO FISCAL. ART. 848, PARÁGRAFO ÚNICO, DO CPC/2015. IMPOSSIBILIDADE. PRECEDENTES.
+1. "É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual a exigência mais gravosa para o executado relativa ao acréscimo de 30%, na hipótese de substituição da penhora por fiança bancária ou seguro garantia judicial, não se aplica, em princípio, ao caso da penhora inicial, dada a ausência de previsão legal" (AgInt no REsp 1316037/MA, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 13/09/2016, DJe 22/09/2016).
+2. Agravo interno não provido.
+(AgInt no AREsp 1.427.130/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/4/2019, DJe 26/4/2019)
+PROCESSUAL CIVIL. IMPOSSIBILIDADE. ACRÉSCIMO DE 30%. PENHORA ORIGINAL. DÍVIDA GARANTIDA. FIANÇA BANCÁRIA.
+1. O art. 656, § 2º, do CPC/1973 exige, por ocasião da substituição da penhora por fiança bancária ou seguro-garantia judicial, que o valor corresponda ao débito atualizado acrescido de 30% (trinta por cento). 2. O objetivo da norma insculpida no § 2º do art. 656 do CPC/1973 é evitar a procrastinação do feito, com a substituição de um bem penhorado por outro. Dessa forma, a exigência do acréscimo de 30% (trinta por cento) somente se revela razoável no caso de substituição de penhora. Fora dessa hipótese, a imposição do acréscimo mostra-se desnecessário e até mesmo desproporcional.
+3.Diferentemente do alegado pela recorrente, apenas nas hipóteses de substituição da garantia originária da dívida é razoável exigir o aumento.
+4. Recurso Especial não provido.
+(REsp 1.674.655/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 5/9/2017, DJe 9/10/2017)
+Assim, na medida em que a Corte de origem destoou da jurisprudência do STJ ao entender necessário o acréscimo de 30% na carta-fiança ofertada como garantia inicial, é o caso de se devolver os autos ao juízo de segundo grau, para que faça nova avaliação do preenchimento de seus requisitos, considerando a jurisprudência do STJ acima elencada.
+ANTE O EXPOSTO, dou provimento ao recurso especial, determinando o retorno dos autos à origem, para a correta aplicação do Direito à espécie.
+Publique-se.
