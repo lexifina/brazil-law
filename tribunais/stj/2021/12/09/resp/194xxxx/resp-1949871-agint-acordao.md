@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 178):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. NÃO OCORRÊNCIA. ARTS. 286, INC. I, 516, INC. II, E 966, INC. II, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
+A agravante alega que, quanto aos arts. 286, inc. I, 516, inc. II, e 966, inc. II, do CPC/2015, "(..) requereu sim, desde a interposição do agravo de instrumento, o prequestionamento desses dispositivos legais tidos por violados, que embasam uma das teses que seria suficiente para que a decisão recorrida fosse reformada, (..). (..) Já contra o acórdão que negou provimento ao agravo de instrumento, e que foi omisso em relação ao pedido de prequestionamento, a recorrente interpôs embargos de declaração requerendo o prequestionamento dos artigos 286, inc. I, 516, inc. II, e 966, inc. II, do CPC/2015, e das respectivas teses, conforme expressamente requerido no item II, dos embargos de declaração apresentados às fls. 49-54" (fls. 184-185), sendo que o Tribunal de origem aplicou, no ponto, o art. 1025 do CPC/2015. Acrescenta que indicou, no recurso especial, ofensa ao art. 1022 do CPC/2015.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+A agravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 211/STJ.
+Ocorre que o prequestionamento é requisito previsto no inc. III do art. 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+No caso, a Corte de origem não se pronunciou a respeito dos arts. 286, inc. I, 516, inc. II, e 966, inc. II, do CPC/2015 (e das teses a eles vinculadas), não obstante terem sido opostos e julgados os embargos de declaração, o que denota a falta de debate ou prequestionamento sobre a controvérsia suscitada.
+Veja-se que, como explicitado na decisão agravada, no caso, não cabe falar em prequestionamento ficto face ao art. 1025 do CPC/2015, pois, nos termos da jurisprudência desta Corte Superior, para se possibilitar a sua incidência, cabe à parte alegar, nas razões do seu recurso especial, ofensa ao art. 1022 do CPC/2015, de modo a permitir que seja sanada eventual omissão através de novo julgamento dos aclaratórios, caso existente, providência esta não observada pela recorrente em relação aos dispositivos em exame. Com efeito, a ofensa ao art. 1022 do CPC/2015 foi indicada no apelo nobre em razão de suposto "(..) equívoco e contradição no acórdão apenas em relação ao fato de ter o Tribunal considerado que a pensão por morte era precedida da aposentadoria, quando se trata de pensão não precedida." (fl. 107).
+Outrossim, oportuno ressaltar que, como colocado pela Corte de origem e inclusive transcrito pela parte neste agravo, nos termos do art. 1025 do CPC/2015, o reconhecimento do prequestionamento ficto depende de que esta Corte Superior reconheça ocorrido qualquer dos vícios autorizativos previstos no art. 1022 do mesmo códex (erro, omissão, contradição ou obscuridade) - daí advindo a exigência de indicação da sua ofensa. No caso, inobstante, não foi reconhecido qualquer defeito no julgado, tendo sido afastada a alegada violação do art. 1022 do CPC/2015, ponto sobre o qual a parte não se insurgiu no presente recurso.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 211/STJ:
+Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
