@@ -1,0 +1,39 @@
+DECISÃO
+Da leitura da minuta de agravo de instrumento, extrai-se que AGROBANCOBANCO COMERCIAL S.A. EM LIQUIDAÇÃO (AGROBANCO) propôs ação de execução contra CASSIA MARIA MARTINS e SEBASTIÃO BENEDITO NETTO (CASSIA e SEBASTIÃO).
+O magistrado de primeira instância determinou a intimação do credor para colacionar o auto de penhora e avaliação, sob pena de sobrestamento da praça.
+O agravo de instrumentointerpostopor CASSIA e SEBASTIÃO foi parcialmente providopelo Tribunal de Justiça de Goiás, nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. RECURSO SECUNDUM EVENTUM LITIS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. COISA JULGADA. INÉRCIA DO EXEQUENTE NÃO CONFIGURADA. NULIDADE DA PENHORA. NULIDADE DE ALGIBEIRA. COMPORTAMENTO INCOMPATÍVEL COM A BOA-FÉ PROCESSUAL. EXCESSO DE PENHORA. PENDÊNCIA DO JULGAMENTO NA ORIGEM. NULIDADE DO LEILÃO. MATÉRIA NÃO APRECIADA PELO JUIZ A QUO. SUPRESSÃO DE INSTÂNCIA. DECISÃO REFORMADA.
+1. O Agravo de Instrumento é um recurso secundum eventum liis, o que implica que o órgão revisor está jungido a analisar somente o acerto, ou desacerto da decisão impugnada, sendo-lhe vedado incursionar nas questões relativas ao mérito da ação, que deu origem a este recurso, sob pena de prejulgamento.
+2. A coisa julgada material evidencia-se pela preclusão máxima, porquanto essa eficácia, conferida à decisão de mérito transitada em julgado, vincula as partes e os demais órgãos julgadores à matéria apreciada por decisão judicial, impedindo, assim, a reanálise do tema, ainda que se refira a questão de ordem pública.
+3. Resta sedimentado na jurisprudência que, além da fruição do prazo sem a prática de ato, é necessário, para configurar a prescrição intercorrente, a conduta desidiosa do Autor que, devidamente
+intimado a se manifestar, deixa o processo a deriva pelo período de prescrição contido na lei material.
+4. No caso em comento, em que pese o longo lapso temporal de tramitação do feito, é possível observar que o Exequente não deu causa a estagnação dos autos, tendo em vista a prática de atos processuais constantes, tendo comparecido aos autos todas as vezes em que foi chamado.
+5. A nulidade, seja de qual ordem for, absoluta, ou relativa, deve ser alegada na primeira oportunidade, sob pena de preclusão, consoante disposição do artigo 278 do CPC/15. No caso dos autos, os Recorrentes deixaram para assim procederem somente após o bem penhorado ser levado a leilão, na tentativa de se beneficiarem com a inércia processual provocada pela não alegação da nulidade, no momento oportuno, traduzido em nulidade de algibeira, estratégia rechaçada pela jurisprudência do Superior Tribunal de Justiça, porquanto incompatível com o princípio da Boa-fé, que norteia o sistema judicial, exigindo lealdade e cooperação de todos os sujeitos envolvidos na relação jurídico-processual.
+6. A decisão não deliberou acerca do pedido de redução da penhora, estando pendente a apreciação da matéria pelo magistrado condutor do feito originário, que determinou a apresentação da documentação pertinente, para análise do pleito, de forma que fica vedado o exame das alegações, estranhas ao decisum agravado, em reverência ao princípio do Juiz Natural, sob pena de supressão de instância. No entanto, verifica-se prudente obstar o prosseguimento da arrematação, até que seja proferida decisão acerca do tema, para evitar possíveis prejuízos irreversíveis aos Executados, bem como, ao terceiro arrematante.
+7. O tema referente a nulidade do leilão, por ausência de intimação da avaliação judicial, não foi abordado na origem, não sendo objeto da decisão recorrida. Portanto, incabível a referida discussão, neste grau recursal, uma vez que, apreciar matéria diversa daquela tratada pelo condutor do feito, significaria antecipar posicionamento a respeito de conteúdo ainda não decidido, incorrendo em clara supressão de instância, prática vedada no ordenamento jurídico pátrio.
+AGRAVO DE INSTRUMENTO CONHECIDO E PARCIALMENTE PROVIDO. (e-STJ, fls. 141/142).
+Os embargos de declaração opostos por AGROBANCO foram rejeitados (e-STJ, fls. 164/176).
+Inconformados, CASSIA e SEBASTIÃO manejaramrecurso especial com fulcro no art. 105, III, a e c, da Constituição Federal alegando a violação dos arts. (1) 278, parágrafo único, 489, § 1º, III, IV e VI, 917, § 2º, II, e 1.022, II, do NCPC, em virtude de (1) ausência de fundamentação e negativa de prestação jurisdicional; e (2) que a nulidade da penhora que recai sobre coisa diversa da indicada pelo credor não se sujeita a preclusão(e-STJ, fls. 183/208).
+As contrarrazõesforam apresentadas (e-STJ, fls. 221/229).
+Em juízo de admissibilidade, a terceira vice-presidência do TJGOinadmitiu o apelo nobre pelofundamentodeincidência do óbice da Súmula nº 7 do STJ(e-STJ, fls. 243/245).
+Dessa decisão, foi interposto o presente agravo em recurso especial por CASSIA e SEBASTIÃO reiterando as razões do apelo nobre (e-STJ, fls. 249/254).
+A contraminuta foi apresentada (e-STJ, fls. 260/266).
+É o relatório.
+DECIDO.
+A irresignação não comporta conhecimento.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Observa-se, da leitura das razões recursais, que o inconformismo não sedirigiu de forma específica contra os fundamentos da decisãoagravada, pois CASSIA e SEBASTIÃOnão infirmaramseus esteios,na medida em que não refutou de forma arrazoada aincidência daSúmulanº 7 do STJ.
+Em suma, CASSIA e SEBASTIÃOlimitou-se a repisar os fundamentos de seu apelo nobre.
+Assim, não tendo o recurso impugnado especificamente os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, ônus do qual não se desincumbiu a parte insurgente. Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 )
+Nessas condições, nos termos do art. 932, III, do NCPC, NÃO CONHEÇOdo agravo.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNAOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
