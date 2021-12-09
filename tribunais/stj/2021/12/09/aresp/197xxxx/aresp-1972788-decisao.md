@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Maurício Dal Agnol, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fl. 269):
+APELAÇÃO CÍVEL. MANDATO. INDENIZATÓRIA. PRELIMINAR CONTRARRECURSAL DE INTEMPESTIVIDADE. ACOLHIMENTO. RECURSO DO AUTOR NÃO CONHECIDO. ART. 940 DO CC. RECONHECIMENTO DO ADIMPLEMENTO DOS VALORES. MÁ-FÉ NÃO COMPROVADA. PRELIMINAR CONTRARRECURSAL ACOLHIDA. RECURSO DO AUTOR NÃO CONHECIDO. RECURSO DO RÉU DESPROVIDO.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 288):
+EMBARGOS DE DECLARAÇÃO. AÇÃO INDENIZATÓRIA. MANDATO. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL NÃO CONSTATADOS. INOCORRÊNCIA DAS HIPÓTESES DO ARTIGO 1.022 DO CPC. EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Em suas razões de recurso especial (e-STJ, fls. 294-307), o agravante alegou violação aos arts. 940 do Código Civil de 2002 e 1.022, I, do Código de Processo Civil de 2015.
+Sustentou, em síntese, que o acórdão recorrido foi contraditório e obscuro com relação ao afastamento da litigância de má-fé.Apontou que ficou claro nos autos, de acordo com as provas juntadas, a caracterização da conduta de má-fé pela parte adversa, devendo incidir a multa prevista no art. 940 do CC/2002.Requereu, dessa forma, o provimento do recurso.
+Não foram apresentadas contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Contraminuta apresentada.
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Outrossim, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+No que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito doora recorrente, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. LEGITIMIDADE PASSIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. TÍTULO DE CRÉDITO. PROTESTO INDEVIDO. DANO MORAL IN RE IPSA. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. A Corte "a quo" pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em princípio, poderiam infirmar a conclusão adotada pelo Juízo, não havendo falar em ausência de prestação jurisdicional. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza negativa de prestação jurisdicional, tampouco viola os arts. 1.022 e 489 do CPC/2015.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). O Tribunal de origem asseverou que: (i) o título levado a apontamento estava quitado, (ii) a nota fiscal estava em nome da recorrente, (iii) apesar da cessão do crédito a terceiros, a duplicata foi emitida após tal contratação, e (iv) a certidão de protesto comprova que a recorrente não é parte estranha à lide.
+Desse modo, concluiu a Corte local que a "inserção, de forma indevida, gera automaticamente o constrangimento ao consumidor, pois atribui a pecha de mau pagador àquele que, até prova em contrário, honra seus compromissos financeiros e negociais pontualmente".
+Alterar esse entendimento demandaria o reexame das provas, o que é vedado em recurso especial.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, na hipótese de protesto indevido de título ou de inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa - independentemente de prova. Aplicação da Súmula n. 83 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1679481/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020)
+Na hipótese ora em análise, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (e-STJ, fls. 273-274):
+O recorrente postula a condenação do autor à pena prevista no art. 940 do CC.
+A sanção prevista no art. 940 do CC exige a comprovação da intenção dolosa da parte ao demandar por dívida já paga, ficando obrigada ao pagamento do dobro do valor que houver cobrado ou, se reconhecido o adimplemento parcial, ao equivalente do que exigiu.
+Compulsando os autos, observo que o réu juntou aos autos recibos comprovando o repasse ao autor dos valores dos alvarás levantados (fls. 156 e 163).
+Em réplica (fl. 167), o demandante impugnou os recibos anexados ao processo, requerendo a procedência total da demanda.
+Após a juntada dos recibos originais (fls. 187/188) por determinação judicial (fl. 180), o autor se manifestou, reconhecendo o adimplemento dos valores (fl. 190).
+Nesse contexto, havendo o reconhecimento do pagamento, não há se falar em repetição em dobro, pois o autor concordou com o adimplemento das quantias apontado pelo réu, não restando demonstrada má-fé ou dolo no seu agir.
+Dessa forma, a revisão das conclusões estaduais - acerca de estarem presentes os requisitos para imposição demultaao autor da demanda - demandaria, necessariamente, a incursão no acervo fático-probatório dos autos, o que não se admite no âmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. MANDATO. INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. RECONHECIMENTO DO ADIMPLEMENTO DOS VALORES. MÁ-FÉ NÃO COMPROVADA. ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
