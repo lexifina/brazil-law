@@ -1,0 +1,56 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por BANCO MERCANTIL DO BRASIL S.A contra inadmissão, na origem, de recurso especial fundamentado naalínea"c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 195):
+EMENTA: APELAÇÃO CÍVEL -AÇÃO INDENIZATÓRIA -DESCONTO INDEVIDO EM BENEFÍCIO PREVIDENCIÁRIO -CONTRATAÇÃO COM ANALFABETO -INEXISTÊNCIA DE MANDATÁRIO CONSTITUÍDO MEDIANTE INSTRUMENTO PÚBLICO -INVALIDADE DO NEGÓCIO -INDENIZAÇÃO DEVIDA -DANO MORAL -QUANTUM -RAZOABILIDADE -PROPORCIONALIDADE -REPETIÇÃO INDÉBITO.
+-A aposição da digital de analfabeto em contrato de empréstimo bancário é insuficiente para demonstrar a manifestação de vontade válida do contratante.
+-Para ser válido, o contrato de empréstimo bancário celebrado por analfabeto deve possuir assinatura de mandatário constituído por instrumento público.
+-A cobrança indevida de quantia por meio de desconto em benefício previdenciário, referente a empréstimo não contratado pela parte autora, é ato ilícito que enseja o dever indenizatório.
+-O valor da indenização a título de dano moral deve ser fixado em observância da natureza e da intensidade do dano, da repercussão no meio social, da conduta do ofensor, bem como da capacidade econômica das partes envolvidas.
+-A repetição do indébito deverá ocorrer de forma simples, quando ausente a má fé.
+Opostos embargos de declaração, esses foram rejeitados (fls. 218-220, e-STJ).
+Nas razões de seu recurso especial, a parte recorrente sustenta divergência jurisprudencial na interpretação do art. 27 do CDC, relativamente ao termo inicial do prazo prescricional para o pedido de repetição de indébito formulado pela ora parte autora, ora recorrida.
+Defende ainda,"que o entendimento externado no acórdão recorrido é frontalmente contrário a entendimentos de diversos tribunais pátrios, que reconhecem como sendo lícitas as contratações realizadas por pessoa analfabeta, não sendo necessária a lavratura de escritura pública para tal" (e-STJ, fl. 235).
+Contrarrazões ao recurso especial apresentadasàs fls. 270-294(e-STJ), sobreveio juízo negativo de admissibilidade do Tribunal de origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 308-323).
+É o breve relatório.
+Passo a decidir.
+Inicialmente, registre-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ.
+Quanto ao alegado dissídio pretoriano relativamenteao art. 27 do CDC,constata-se que incide, no caso, por analogia, o óbice das Súmulas 282 e 356 do Supremo Tribunal Federal e da Súmula 211 deste Superior Tribunal de Justiça.
+Com efeito, no acórdão recorrido, o Tribunal de origem não se manifestou acerca datesedefendidapela parte no recurso especialreferenteao termo inicial da prescrição da pretensão da autora, que carece, portanto, do necessário prequestionamento.
+Cumpre ressaltar que, de acordo com o entendimento deste Superior Tribunal de Justiça, na via do recurso especial, a admissão do prequestionamento ficto, nos moldes do que dispõe o art. 1.025 do CPC/2015, demanda que o recorrente, após opor embargos de declaração em face do acórdão recorrido, suscite, nas razões do recurso especial, a violação do art. 1.022 do mesmo diploma legal, a fim de que esta Corte possa examinar a eventual existência de vício no acórdão recorrido e verificar a possibilidade de supressão da manifestação sobre o tema pelo Tribunal de origem.
+A propósito, confira-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. HONORÁRIOS RECURSAIS. CABIMENTO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. Não tendo havido, mesmo após a interposição de aclaratórios, pronunciamento do Colegiado estadual acerca da suposta afronta ao art. 85, § 10, do CPC/2015, incide na espécie o enunciado n. 211 da Súmula do STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+2. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau - providência não adotada no recurso especial apresentado.
+3. A majoração da verba honorária sucumbencial independe da existência de má-fé na interposição do recurso, exigindo apenas que: (i) a decisão recorrida tenha sido publicada na vigência do NCPC; (ii) o recurso tenha sido desprovido ou não conhecido integralmente; e (iii) tenha havido condenação ao pagamento de honorários advocatícios desde a origem.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1533297/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019, grifei)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+1.1. In casu, deixou a recorrente de indicar, nas razões do apelo extremo, a violação ao art. 1022 do CPC/15, a fim de que esta Corte pudesse averiguar possível omissão no julgado quanto ao tema.
+1.2. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+2. Para acolher o inconformismo recursal no sentido de verificar se a autoria da fotografia foi comprovada, a prática do ato ilícito ou o apontado excesso do valor da indenização por danos morais, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai o óbice estabelecido pela Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1518081/PB, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 09/12/2019, DJe 12/12/2019, grifei)
+Contudo, no caso sob apreciação, a recorrente deixou de indicar eventual ofensa ao art. 1.022 do CPC/2015 no recurso especial, razão pela qual a análise da matéria permanece inviabilizada, por ausência de prequestionamento.
+No que diz com a alegada divergência jurisprudencial relativamente à suposta licitude da contratação de empréstimos por pessoa analfabeta e a defendida prescindibilidade de celebração do instrumento por meio de escritura pública, constata-se que não houve indicação de qualquer dispositivo de lei federalobjeto de interpretação dissonante.
+Ora, é pacífico no Superior Tribunal de Justiça o entendimento de que a parte recorrente deve identificar o dispositivo de lei federal cuja interpretação teria sido divergente, não cabendo ao julgador extrair das razões formuladas o preceptivo legal sobre o qual pretenderia a parte sustentar a existência de dissídio, o que claramente violaria o princípio da igualdade e do impulso oficial.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DO STJ. MATÉRIA CONSTITUCIONAL.IMPOSSIBILIDADE DE APRECIAÇÃO. AÇÃO ANULATÓRIA. NULIDADE. DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. UTILIZAÇÃO DA FÓRMULA ""E SEGUINTES"".FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não constitui via adequada para análise de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+3. Segundo a jurisprudência do STJ, "o uso da fórmula aberta "e seguintes" para a indicação dos artigos tidos por violados revela fundamentação deficiente, o que faz incidir a Súmula n. 284/STF.Isso porque o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente" (AgInt no AREsp n. 1.411.032/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/9/2019, DJe 30/9/2019).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1839853/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/08/2021, DJe 19/08/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR ROMPIMENTO UNILATERAL DE NOIVADO. DANOS MORAIS. CONFIGURAÇÃO E MINORAÇÃO DO MONTANTE INDENIZATÓRIO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL.DESCABIMENTO. AGRAVO DESPROVIDO.
+1. A indicação de dispositivo legal violado - contrariado ou objeto de interpretação divergente - é requisito constitucional de admissibilidade do recurso especial, exigido mesmo em caso de dissídio notório, sob pena de aplicação da Súmula 284/STF.Precedentes.
+2. É incabível revisão do montante indenizatório estabelecido a título de danos morais com base em dissídio jurisprudencial, pois, ainda que haja grande semelhança nas características externas e objetivas, haverá distinção no aspecto subjetivo dos julgados confrontados. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1347855/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018).
+Por conseguinte, a deficiência detectada na fundamentação recursal quanto ao ponto,consistente na ausência de indicação do dispositivo de lei federal objeto de interpretação divergente, obsta o apelo nobre, incidindo ao caso, por analogia, a Súmula 284/STF.
+Destarte, inviável a pretensão dorecorrente.
+Ante o exposto, conheço do agravo para NÃO CONHECERdo recurso especial.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DESCONTO INDEVIDO EM BENEFÍCIO PREVIDENCIÁRIO. REPETIÇÃO DO INDÉBITO.ALEGAÇÃO DE PRESCRIÇÃO DO DIREITO DA AUTORA.CARÊNCIA DO NECESSÁRIOPREQUESTIONAMENTO. SÚMULA 211/STJ. INCIDÊNCIA.NÃO ALEGADA VIOLAÇÃO AO ART. 1022 DO CPC/15. PREQUESTIONAMENTO FICTO. INVIABILIDADE. LICITUDE DA CONTRATAÇÃO. AUSÊNCIA DE INDICAÇÃO DE QUALQUER ARTIGO TIDO POR OFENDIDO OU OBJETO DE INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. APLICAÇÃO.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
