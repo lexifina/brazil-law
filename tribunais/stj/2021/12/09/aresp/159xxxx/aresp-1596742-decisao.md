@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravoem recursoespecial interpostopor CHRISTINA KEIKO YAMADAcontra decisão que inadmitiu seurecursoespecial que interpôs, fundamentadono art. 105, inciso III, Constituição Federal.
+Ação: declaratória de manutenção no plano de saúde ajuizada pela agravante em face de FUNDAÇÃO SAÚDE ITAÚ.
+Sentença: julgou improcedente a demanda.
+Acórdão: negou provimento à apelação da recorrente, nos termos da seguinte ementa:
+PLANO DE SAÚDE. EMPREGADO APOSENTADO. MANUTENÇÃO. VALOR DA MENSALIDADE. ARTIGO 31 DA LEI 9.656/1998. Sentença de improcedência. Irresignação da autora. Vedação à pactuação de dois contratos distintos, um para os ativos e outro para os inativos. Contrato da apelada, porém é único para os empregados ativos e para os inativos. Empregados arcam com mensalidade diminuída por conta de subsídio da empregadora. Cota patronal correspondente ao valor remanescente para totalização da mensalidade do plano escolhido. Aposentadanão possui mais descontos sobre a base no salário e, por tanto, deve arcar com o pagamento integral. Ausência de violação ao artigo 31 da Lei 9.656/1998. Recurso desprovido.
+Recurso especial:aponta ofensa ao art. 31 da Lei 9656/98, sustentando ser devida a manutenção de ex-empregado no plano de saúde coletivo, nas mesmas condições de cobertura que usufruía enquanto vigente seu contrato de trabalho.
+RELATADO O PROCESSO, DECIDE-SE.
+Observa-se que, por ocasião da admissibilidade do recurso especial, a esse foi negado seguimento, tendo em vista que o posicionamento adotado pelo acórdão recorrido encontra-se em harmonia com a orientação desta Corte Superior sedimentada em julgamento de recurso repetitivo (Tema 1034), nos termos do art. 1.030, I, "b", do CPC/15.
+De início, impõe-se ressaltar que o agravo em recurso especial foi interposto contra decisão publicada em 10/10/2019, após a entrada em vigor do CPC/15, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista.
+Com efeito, após o advento do CPC/15, passou a existir expressa previsão legal determinando o cabimento de agravo interno contra decisão que nega seguimento ao recurso especial em virtude de tese firmada sob o rito dos recursos repetitivos (art. 1.030, I, "b", e §2º).
+Portanto, a interposição de agravo em recurso especial, nesta hipótese, constitui erro grosseiro, em razão da inexistência de dúvida objetiva. Registro, inclusive, que a jurisprudência do STJ já se consolidou nesse sentido: AgInt no AREsp 1.003.647/BA, 2ª Turma, DJe de 22/2/2017; AgInt no AREsp 951.728/MG, 4ª Turma, DJe de 7/2/2017; AgInt no AREsp 983.653/MG, 3ª Turma, DJe de 9/12/2016; AREsp 959.991/RS, 3ª Turma, DJe de 26/8/2016.
+Forte nessas razões, NÃO CONHEÇO doagravoem recurso especial, interpostopela agravantecom fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto aos advogados da parte agravada, em virtude da interposição destes recursos, majoro os honorários fixados anteriormente em 15 % sobre o valor da causa (e-STJ, fls. 354) para 18%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
