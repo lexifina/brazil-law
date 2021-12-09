@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por HELIBASE SERVICOS, COMERCIO E MANUTENÇÃO AERONAUTICA LTDA.contra decisão de minha lavra,e-STJ fls. 2.011/2.015,em que provi orecurso especial da parte agravada para anularo acórdão prolatado em sede de embargos declaratórios edeterminar o retorno dos autos ao Tribunal a quo, a fim de que fosse analisada a questão omitida.
+Sustenta a parte recorrente, em suma, que "o capítulo do v. Acórdão recorrido que trata da legitimidade da AGRAVADA, interpretando a sua condição de assistente - se simples ou litisconsorcial -, não viola os dispositivos por ela invocados em seu Recurso Especial, tampouco era vedado à luz do exposto e da jurisprudência dessa Col. Corte Superior"(e-STJ fls. 2.020/2.021).
+Impugnação apresentada às e-STJ fls. 2025/2031.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VIOLAÇÃO. OCORRÊNCIA.
+1.Há ofensa ao art. 1.022 do CPC de 2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não sana vício de integração sobre questão relevante ao deslinde da controvérsia e que tinha sidoventiladana apelação.
+2. Agravo interno desprovido.
+VOTO
+Nada obstante as razões invocadas, adecisão recorrida não merece reparos.
+Como ali anotado, há ofensa ao art. 1.022 do CPC de 2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não sana vício de integração sobre questão relevante ao deslinde da controvérsia.
+In casu,a insurgência do agravado se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, tendo em vista que a Corte de origem não exprimiu juízo de valor sobre a necessidade de oitiva do Ministério Público e a ocorrência da preclusão na alteração da natureza da intervenção da parte agravante no feito originário (de assistente litisconsorcial para assistente simples), temas que foram ventilados na apelação e nos embargos de declaração ali opostos, respectivamente.
+Logo, estando configurada a negativa de prestação jurisdicional, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que o vício seja sanado pela Corte a quo, ficando prejudicadas as demais questões discutidas no apelo raro.
+A ocorrência de vício de integração justifica a nulidade do acórdão recorrido, por violação do art. 1.022 do CPC/2015, para que as questões levantadas pela recorrente sejam apreciadas pelo Tribunal de origem, à luz do caso concreto, até mesmo para fins de efetivo prequestionamento, sob pena de inviabilizar o acesso à instância especial, nos termos da Súmula 211 do STJ.
+A propósito:
+PROCESSUAL CIVIL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA.1. A falta ou manifestação insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola o artigo 1.022 do CPC/2015.2. Agravo conhecido para dar provimento ao recurso especial e determinar o retorno dos autos à origem para novo julgamento dos embargos de declaração. (AREsp 1.553.983/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 26/05/2020, DJe 17/06/2020).
+PROCESSUAL CIVIL E TRIBUTÁRIO. QUESTÃO RELEVANTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PRONUNCIAMENTO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. RETORNO DOS AUTOS À CORTE DE ORIGEM. 1. Incide em violação ao art. 1.022 do CPC/2015 o órgão julgador que, instado a se pronunciar sobre questão relevante para o deslinde da controvérsia, permanece silente a seu respeito, causando prejuízo à parte embargante. 2. Deve-se reconhecer a existência de omissão no acórdão impugnado; daí a necessidade de que seja proferido novo julgamento dos Embargos, analisando-se, desta vez, o ponto apresentado pela parte recorrente: "por força da previsão no edital e expresso entendimento do ilustre Magistrado da 4ª Vara Especializada de Execuções Fiscais, os Arrematantes/Embargados, no caso concreto, são responsáveis pelo pagamento dos tributos com fatos geradores anteriores à arrematação". 3. Recurso Especial provido, determinando-se o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto suscitado nos aclaratórios. (REsp 1.695.486 / SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
