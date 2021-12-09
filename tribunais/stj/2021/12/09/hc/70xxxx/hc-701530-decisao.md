@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fl. 24):
+Trata-se de habeas corpus impetrado em favor de NEDISON EZIEL DA COSTA, apontando como autoridade coatora o MM. Juiz de Direito da 2ª Vara Judicial da Comarca de Sobradinho, que decretou a prisão preventiva do paciente pela prática, em tese, dos delitos de tráfico de drogas.
+Sustenta o impetrante que suficiente a imposição de medidas cautelares diversas à prisão, no caso em tela. Aponta que nenhum indício havia que o paciente estava praticando o tráfico de entorpecentes, bem como ressalta que apenas duas buchas de entorpecentes foram apreendidas, sendo possivelmente para seu consumo. Tece considerações acerca dos predicados pessoais deste. Pugna, liminarmente, a concessão da ordem da habeas corpus, com expedição do respectivo alvará de soltura ou, subsidiariamente, a concessão de medidas cautelares alternativas à prisão.
+A liminar foi indeferida.
+O Ministério Público opinou pela denegação da ordem.
+É o relatório.
+O paciente foi preso em flagrante, convertido em prisão preventiva, como incurso nos delitos de tráfico de drogas e crimes contra a fauna.
+Em síntese, a defesa entende inexistirpericulum libertatis. Destaca a pequena quantidade de entorpecentes encontrada, além de condições pessoais favoráveis.
+Busca a imediata revogação da custódia, mediante fixação de medidas cautelares diversas.
+Indeferida a liminar e prestadas informações, oMinistério Público Federal sugeriu a denegação da ordem.
+Na origem, processo nº5001132-02.2021.8.21.0134, foi protalada sentença, condenando o paciente a 6 anos e 8meses de reclusão, e 660 dias-multa, pelo tráfico de drogas, e 7meses de detenção e 12 dias-multa, por crimes contra a fauna. Fixou-se o regime inicial fechado e indeferiu-seo direito de recorrer em liberdade (cópia da sentença às fls. 66-84).
+Como cediço, a prisão preventiva (ou o não cabimento da substituição por outra medida cautelar), admitida excepcionalmente antes do trânsito em julgado de eventual sentença penal condenatória, deverá ser justificada em concreto e de forma individualizada, nos termos do art. 312 do Código de Processo Penal.
+A sentençamanteve a custódia preventiva nos seguintes termos (fls. 79-80):
+MEDIDAS CAUTELARES. Diante da condenação do réu a regime fechado de cumprimento da pena e inalterados os motivos, fundamentos e pressupostos que ensejaram a custódia cautelar, permanecem hígidos os motivos quea determinaram. Visando evitar repetições desnecessárias nesse sentido, reporto-me ao teor das decisões anteriores proferidas nesse sentido.
+Acautelar extrema foi assim fundamentada (fls. 26-27):
+Ademais, o fato narrado no Auto de Prisão em Flagrante não é isolado, já que o mandado de busca e apreensão cumprido tinha como objeto, justamente, a apreensão de entorpecentes, tendo em vista as diversas notícias no sentido da traficância de drogas no local, pelo flagrado e outras pessoas. A prisão em flagrante vem confirmar o que já vinha sendo investigado, revestindo de maior certeza as informações recebidas pelos agentes policiais no sentido de que o acusado estaria no local para a prática do delito de tráfico de drogas.
+Ainda, o flagrado Nedison também é suspeito da prática de outros crimes, além do tráfico de drogas. Soma-se também o fato de o indiciado ter sido posto em liberdade, mediante condições, a aproximadamente 60 dias, o qual havia sido preso em flagrante pela Brigada Militar, no mês de março de 2020, pela prática do crime de roubo a posto de combustível em Arroio do Tigre. Presente, portanto, o fumus comissi delicti, considerado pressuposto para a decretação da prisão preventiva, em conformidade com o que dispõe 313, inciso I, do CPP.
+ ..
+Relata o condutor que o flagrado ao ver os policiais retornou para o interior da residência, sendo abordado pelos policiais dentro do banheiro dispensando a droga pela pia, sendo que parte da droga foi recuperada, estando uma bucha de cocaína sobre a pia e a outra bucha no bolso de Nedilson. No galpão foram encontrados papéis e plásticos, utilizadas para embalar e comercializar drogas. No interior da residência também foram encontrados dinheiro, aparelhos de celular, chip de celular e 05 pássaros silvestres em gaiolas.
+Os demais depoimentos ratificaram o depoimento do policial condutor do flagrado.
+Embora devidamente acompanhado por advogado, por ele indicado, o flagrado optou por somente se manifestar em juízo.
+Efetivamente, pela dinâmica em que os fatos foram apresentados, é provável que qualquer medida diversa da prisão (art. 319 do CPP) não seja eficaz o suficiente para conter a prática do crime de traficância, posto que, em liberdade, recentemente já vinha praticando crimes novamente.
+Como se vê, a custódia preventiva foi decretada com esteio em fundamentaçãoidônea, diante da reiteração delitiva, visto que havia sido posto em liberdade mediante condições há aproximadamente 60 dias.Além disso, o paciente foi encontrado "dispensando a droga pela pia, sendo que parte da droga foi recuperada, estando uma bucha de cocaína sobre a pia e a outra bucha no bolso de Nedilson".
+"Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC 107.238/GO, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/03/2019).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
