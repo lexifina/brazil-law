@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, oMunicípio de Curitiba ajuizou execução fiscal para cobrança de tributos pertinentes aos exercícios de 2000, 2001 e 2002.A sentença julgou extinta a execução fiscal, diante da prescrição dos créditos tributários, condenando o Município exequente ao pagamento das custas processuais, excetuada a taxa judiciária. No Tribunal a quo, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. ISS. EXTINÇÃO DO PROCESSO, EMRAZÃO DA PRESCRIÇÃO MATERIAL. EXERCÍCIOS DE 2000 A 2002. DATA DEVENCIMENTO DO TRIBUTO QUE NÃO CONSTOU NA CDA.PRAZOPRESCRICIONAL QUE DEVE SER CONTADO A PARTIR DO PRIMEIRO DIA DOEXERCÍCIO SUBSEQUENTE (ART. 173, INCISO I, DO CTN).DESPACHOCITATÓRIO ANTERIOR À LEI COMPLEMENTAR Nº 116/2005.CITAÇÃOEFETIVADA MUITO ALÉM DO PRAZO LEGAL DE 05 (CINCO) ANOS.PRESCRIÇÃO MATERIAL EVIDENCIADA. DEMORA QUE NÃO PODE SERIMPUTADA AOS MECANISMOS DA JUSTIÇA. CONDENAÇÃO DO MUNICÍPIOAO PAGAMENTO DAS CUSTAS PROCESSUAIS. EXCLUSÃO DO VALOR DATAXA JUDICIÁRIA. ART. 3º, "I", DO DECRETO ESTADUAL Nº 962/1932 JÁDECRETADA PELO JUÍZO A QUO.
+O feito decorre de execução fiscal no valor de R$ 53.313,07 (cinquenta e três mil, trezentos e treze reais e sete centavos).
+No recurso especial, o recorrente indica violação dos arts. 174 do CTN e 8º e 25 da Lei n. 6.830/1980, alegando, em síntese, que, da análise dos autos, não foi comprovada negligência da exequente pela paralisação do executivo fiscal e que não ocorreu a pronunciada prescrição, tendo em vista a falta de intimação pessoal da FazendaPública.
+Após decisum que negou seguimento ao recurso especial, na parcela referente à violação do art. 174 do CTN, e inadmitiu o recurso especial, na parte atinente à ofensa ao art. 25 da Lei n. 6.830/1980, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+ ..
+Porém, tal entendimento está equivocado, porque a falta de intimação aventada no especial, não é sobre prévia manifestação antes de o juízo singular, de ofício, em primeiro grau, manifestar-se sobre prescrição "ex officio", mas sim, por ausência de intimação de dificuldades ou negativa de diligência citatória, no começo da lide, como deveria ser feito, nos prazos razoáveis, ficando anos o feito parado em cartório (atraso em devolução de mandado citatório), o que atrai inclusive aplicabilidade da Súmula 106 do E. STJ, o que encontra respaldo em favor do Município de Curitiba, em face do precedente RESP 1.350.533-RS, em recurso repetitivo que orienta pela prévia intimação da não realização da citação, após requerido seu diligenciamento, sem o que não pode se iniciar prescrição intercorrente, tampouco prescrição material ordinária, pelo que aplicável ao caso, a Súmula 106 do E. STJ., para afastar qualquer forma das duas modalidades de prescrição.
+Assim, os motivos atrelados à inexistência de intimação contidos no especial, não se amoldam aos motivos examinados na decisão aqui agravada.
+ ..
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. ISS. EXTINÇÃO DO PROCESSOEM RAZÃO DA PRESCRIÇÃO MATERIAL. EXERCÍCIOS DE 2000 A 2002. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de execução fiscal para cobrança de tributos pertinentes aos exercícios de 2000, 2001 e 2002. A sentença julgou extinta a execução fiscal, diante da prescrição dos créditos tributários, condenando o município exequente ao pagamento das custas processuais, excetuada a taxa judiciária. No Tribunal a quo, a sentença foi mantida.
+II - Diante da negativa de seguimento à parcela recursal referente à violação dos arts. 174 do CTN e 8º da Lei n. 6.830/1980, pelo juízo de admissibilidade realizado no Tribunal de origem, deve-se frisar que o presente recurso especial versará apenas acerca da parcela remanescente, qual seja, a suposta ausência de intimação pessoal da exequente.
+III - Sobre a alegada violação do art. 25 da Lei n. 6.830/1980, deve-se registrar que o juízo monocrático, ao apreciar o conjunto fático e probatório dos autos, consignou expressamente que "constatada a ocorrência de prescrição foi o exequente intimado nos termos do artigo 10 do NCPC, sendo que se insurgiu quanto a tal fato".
+IV - Dessa forma, para rever tal posição, referente à suposta ausência de intimação da Fazenda Pública, e interpretar o dispositivo legal indicado como violado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+V - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+Diante da negativa de seguimento à parcela recursal referente à violação dos arts. 174 do CTN e 8º da Lei n. 6.830/1980, pelo juízo de admissibilidade realizado no Tribunal de origem, deve-se frisar que o presente recurso especial versará apenas acerca da parcela remanescente, qual seja, a suposta ausência de intimação pessoal da exequente.
+Sobre a alegada violação do art. 25 da Lei n. 6.830/1980, deve-se registrar que o Juízo monocrático, ao apreciar o conjunto fático e probatório dos autos, consignou expressamente que "constatada a ocorrência de prescrição foi o exequente intimado nos termos do artigo 10 do NCPC, sendo que se insurgiu quanto a tal fato".
+Dessa forma, para rever tal posição, referente à suposta ausência de intimação da Fazenda Pública, e interpretar o dispositivo legal indicado como violado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
