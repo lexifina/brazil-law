@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S.A,contra decisão exarada pela Presidência desta Corte a qual não conheceu do agravo diante da sua intempestividade (e-STJ, fls. 272-273).
+Nas razões do presente recurso, a parte agravante sustenta, em síntese, que "o Tribunal de Justiça da Bahia editou o Decreto Judiciário n. 211, suspendendo os prazos processuais a partir de16.03.2020" , determinando a retomada dos prazos processuais, atráves do Ato Conjunto 20, em 15.07.2021", ficando comprovado que o prazo para interposição do agravo em recurso especial ficou suspenso de 16.03.2020 a 02.08.2021(e-STJ fl. 278).
+Defende a possibilidade de comprovação posterior da suspensão dos prazos. Requer provimento.
+Impugnação às fls. 381-389.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNONO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA EXISTÊNCIA DE FERIADO LOCAL OU DE SUSPENSÃO DOS PRAZOS DEVIDO A COVID-19 NO ATO DE INTERPOSIÇÃO DO RECURSO. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR EM SEDE DE AGRAVO INTERNO. ART. 1.003, § 6º, DO CPC/2015. NOVO REGRAMENTO PROCESSUAL EXPRESSO. SUPERAÇÃO DO ENTENDIMENTO ANTERIOR, APLICÁVEL SOMENTE AOS RECURSOS INTERPOSTOS COM FUNDAMENTO NO CPC/1973. ORIENTAÇÃO CONSOLIDADA NO JULGAMENTO DO RECURSO ESPECIAL N. 1.813.684/SP. MODULAÇÃO DE EFEITOS APLICÁVEL APENAS AO FERIADO REFERENTE À SEGUNDA-FEIRA DE CARNAVAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Mediante a reanálise do agravo interposto,constata-se que a agravantefoi intimada da decisão de admissibilidade do recurso especial pela Corte Estadual em 04/08/20200, sendo o agravo em recurso especialsomente interposto em 07/10/2020.
+Assim, orecurso é, de fato, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+É de se observar que, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, ao presente caso aplicam-se as regras do CPC de 2015. Assim, no código atual, o prazo para a interposição de agravo e de recurso especial é de 15 dias úteis, nos termos do art. 219, caput, c/c os arts. 994, VI e VIII, 1.003, § 5º, 1.029 e 1.042, caput, todos do CPC.
+Na vigência do CPC de 1973, a jurisprudência admitia a comprovação posterior da tempestividade. (AgInt no AREsp 1576616/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 26/5/2020; e EDcl no AgInt no AREsp 1008329/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 9/9/2019.). Contudo, esse entendimento não subsiste em razão de disposição expressa do CPC vigente, cujo art. 1.003, § 6º, dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento apto a comprová-la ser juntado aos autos no momento da interposição do recurso.
+Em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+Reforço que oSTJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Registre-se ainda que a Corte Especial, por maioria, acolheu a questão de ordem para reconhecer que a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita aos recursos interpostos até 17/11/2019 e alcança apenas o feriado de segunda-feira de carnaval, ou seja, não se aplica aos demais feriados, inclusive aos feriados locais. (QO no REsp 1813684/SP, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 28/2/2020.) Assim, só a segunda-feira de carnaval até 2019 poderia ser comprovada posteriormente, excluindo-se qualquer outro feriado, como no caso dos autos.
+Assim, a pretensão do agravante não merece prosperar, mantendo-se a decisão agravada por seus próprios fundamentos.
+Nesse passo, advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
