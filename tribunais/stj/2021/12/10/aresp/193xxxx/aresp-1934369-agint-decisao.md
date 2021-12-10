@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Presidência do STJ que não conheceu do apelo, tendo em vista o óbice da Súmula 115/STJ.
+O agravante afirma que o recurso deve ser conhecido, pois inexistente defeito de representação. Nesse sentido, sustenta que "a Certidão expedida pela Coordenadoria de Recebimento, Controle e Autuação de Processos Recursais(e-STJ fl. 749), dando conta de que a parte Autora estava devidamente representada desde o protocolo do recurso, não tendo sido enviado o instrumento de procuração por equívocodo TJ/RS na remessados documentos(já que a interposição do Agravo em Recurso Especial se dá junto ao Tribunal de Origem), bem como comprovado que houve silêncio à intimação para demonstrar a regularidade da representação por erro técnico do sistema da OAB/RS na distribuição das Notas de Expediente(conforme a própria informação expedida pela OAB/RS) e, por fim, considerando que o Tribunal de Origem supriu/corrigiu a falha havida, enviando a integralidade dos documentos e, dentre eles, o comprovante de que a representação se encontrava regular desde o princípio " (fl. 768).
+É o relatório. Decido.
+Diante dos argumentos trazidos pela parte agravante, com a demonstração de que consta dos autos (fl. 757-781) a cadeia completa de procurações que confere poderes à subscritora da petição do agravo e do recurso especial, exerço o juízo de retratação, nos termos do caput do artigo 259 do RI/STJ, para tornar sem efeito a anterior decisão da Presidência.
+Após, retornem-me os autos conclusos.
+Publique-se. Intimem-se.
