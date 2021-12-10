@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARCELO MENDES DE AZEVEDO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HC n. 0025837-23.2021.8.19.0000, relatora Desembargadora Katya Maria de Paula Menezes Monnerat).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese, de tentativa de homicídio qualificado.
+O Tribunal de origem denegou a ordem ao habeas corpus antecedente em acórdão assim ementado (e-STJ fls. 133/134):
+HABEAS CORPUS - HOMICÍDIO TRIPLAMENTEQUALIFICADO TENTADO - PACIENTE DENUNCIADOCOM OUTROS 03 (TRÊS) CORRÉUS PELA PRÁTICA DEDELITO DE EXTREMA GRAVIDADE - PRETENSÃO ÀREVOGAÇÃO DA PRISÃO PREVENTIVA ANTE AALEGADA AUSÊNCIA DOS REQUISITOSAUTORIZADORES DO ART. 312 DO CPP, SUADESNECESSIDADE, BEM COMO DEFICIÊNCIA NAFUNDAMENTAÇÃO DA DECISÃO QUE, INDEFERINDOPLEITO DE REVOGAÇÃO, MANTEVE A CUSTÓDIACAUTELAR DO PACIENTE QUE SE REJEITA - PLEITOSUBSIDIÁRIO QUE BUSCA A SUBSTITUIÇÃO DA PRISÃOPREVENTIVA POR MEDIDAS CAUTELARES DIVERSAS DAPRISÃO ELENCADAS NO ART. 319 DO CPP QUE NÃO SEACOLHE - DECISÃO IDONEAMENTE FUNDAMENTADANA NECESSIDADE DA MANUTENÇÃO DA SEGREGAÇÃOCAUTELAR, DEMONSTRANDO A PROVA DAMATERIALIDADE E FORTES INDÍCIOS DE AUTORIA -PRESSUPOSTOS DO ART. 312 DO CÓDIGO DE PROCESSOPENAL PRESENTES. INVIABILIDADE, NO CASO DESUBSTITUIÇÃO DA CUSTÓDIA CAUTELAR PELASMEDIDAS CAUTELARES DE NATUREZA PESSOALDIVERSAS DA PRISÃO PREVISTAS NO ART. 319 DO CPP -PRIMARIEDADE, RESIDÊNCIA FIXA E TRABALHO LÍCITONÃO POSSUEM O CONDÃO DE ASSEGURAR ALIBERDADE DO PACIENTE. RECOMENDAÇÃO Nº 62/2020DO CNJ, NÃO AGASALHA A IMPETRAÇÃO -NECESSIDADE DE AVALIAÇÃO CASO A CASO -PERMANECEM ÍNTEGROS OS MOTIVOS QUE ENSEJARAMA PRISÃO CAUTELAR - DISCUSSÃO MERITÓRIA NÃO SECOADUNA COM A VIA ESTREITA DO WRIT - PRISÃOPREVENTIVA REAVALIADA EM 06/04/2021 - ART. 316,PARÁGRAFO ÚNICO, DO CPP- INOCORRÊNCIA DECONSTRANGIMENTO ILEGAL - ORDEM DENEGADA,COM RECOMENDAÇÃO PARA QUE A AUTORIDADEAPONTADA COMO COATORA PROVIDENCIE AIMEDIATA EXPEDIÇÃO DE OFÍCIO À SEAP PARAENCAMINHAMENTO DO PACIENTE PARA AVALIAÇÃOMÉDICA.
+Daí o presente writ, no qual alega a defesa que o decreto de prisão preventiva carece de fundamentação idônea.
+Acrescenta que, "no crime ora imputado ao acusado, apesar do grande esforço do órgão investigatório, até a presente data NENHUMA prova sequer serve para apontar ao Paciente qualquer conduta criminosa que indique a prática do crime previsto na denúncia" (e-STJ fl. 9).
+Aduz, ainda, que o paciente faz jus à prisão domiciliar, porquanto seria obesoe portador de hipertensão arterial.
+Argumenta, por fim, estar configurado constrangimento ilegal pela falta de realização de audiência de custódia.
+Assim, requer, liminarmente, a expedição de alvará de soltura. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa ou prisão domiciliar.
+O pedido liminar foi indeferido.
+Prestadas as informações pelas instâncias ordinárias, o Ministério PúblicoFederal manifestou-se opinando pelo não conhecimento do writ e/ou denegação daordem.
+É, em síntese, o relatório.
+Decido.
+Em consulta ao andamento processual da ação penal na origem, apurou-sea superveniência de sentença de pronúncia prolatada em desfavor do ora paciente,oportunidade em que foi mantida a prisão preventiva.
+Ficou, portanto, sem objeto o pedido contido na inicial, em que a defesainsurgia-se contra a custódia cautelar, visto que a restrição da liberdade, agora, decorrede novo título, não submetido ao pronunciamento do Tribunal de origem.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno doSuperior Tribunal de Justiça, julgo prejudicado o presente writ.
+Publique-se. Intimem-se.
