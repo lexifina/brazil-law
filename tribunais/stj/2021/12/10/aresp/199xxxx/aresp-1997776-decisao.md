@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA LÚCIA MIRANDA DE MELO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+DIREITO CIVIL. APELAÇÃO. ALEGAÇÃO DE AUSÊNCIA DE INTIMAÇÃO DA PENHORA. INOCORRÊNCIA. CITAÇÃO POR EDITAL. MEAÇÃO.
+DÍVIDA CONTRAÍDA PELO CÔNJUGE VARÃO. BENEFÍCIO DA FAMÍLIA. ÔNUS DA PROVA DA MEEIRA. PRECEDENTES STJ. RECURSO NÃO PROVIDO.
+1.- Trata-se os autos de embargos de terceiro relativo ao processo de execução proveniente de cheques inadimplidos pelo cônjuge da embargante, ora apelante, em que a penhora recaiu sobre bens do casal sem a observância dos limites da meação.
+2.- Compulsando os autos da ação de execução, constata-se que o juízo de primeira instância procedeu impecavelmente, pois determinou a intimação da ora apelante, mulher do executado, para a ciência da penhora e, caso quisesse, apresentar embargos a execução, conforme edital de citação (fls. 192 e 196), tanto é que esta ingressou com a presente demanda.
+3.- "Tratando-se de dívida contraída por um dos cônjuges, a regra geral é a de que cabe ao meeiro o ônus da prova de que a dívida não beneficiou a família, haja vista a solidariedade entre o casal" (STJ. AgRg no AREsp n. 427.980/PR, .. ).
+4.- Aqui, a dívida do processo execução era proveniente de cheques inadimplidos pelo cônjuge da embargante, ora apelante, logo não oriunda de ato ilícito. Então, deve ser aplicada a regra geral, de modo que cabia à meeira, ora apelante, o ônus de provar que a dívida não foi contraída em benefício da família a fim de preservar sua meação, o que não ocorreu.
+5.- Recurso conhecido e não provido.
+Sustenta a parte recorrente, pela alínea "a" do permissivo constitucional, violação do art. 3º da Lei 4.121/62, no que concerne à exclusão da meação das medidas executivas, trazendo o(s) seguinte(s) argumento(s):
+Consoante restou exaustivamente ostentado nos autos, a penhora ocorrida no feito originário, processo de Execução, foi procedida sem respeitar a meação da embargante, aqui recorrente. Ademais disso, não restou comprovado nos autos, posto que a parte adversa não se desincumbiu de provar que o valor do empréstimo realizado pelo cônjuge varão por utilizado em proveito do casal.
+ .. .
+Constata-se assim que em razão da inexistência de intimação do cônjuge virago perante o feito executório e pela ausência de comprovação de que o proveito econômico decorrente do empréstimo foi destinado ao casal, notadamente porque o credor, parte recorrida não cuidou de comprovar minimamente a existência de tal alegação, a meação da parte recorrente não pode responder pela dívida contraída pelo marido, violando desse modo, o art. 3 2 , Lei Federal de nº 4.121/62. (fls. 435/438).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Passa-se a análise do ônus da prova relativa à utilização da quantia executada em prol do casal instituído em comunhão universal de bens.
+Acerca do ônus probatório de reversão das dívidas contraídas por um dos cônjuges em benefício familiar, há duas situações: como regra, o ônus probatório pertence ao meeiro, haja vista a solidariedade entre o casal.
+Apenas em se tratando de enriquecimento proveniente de ato ilícito, afasta- se a presunção de solidariedade, incumbindo ao credor, o ônus da prova.
+Aqui, a dívida do processo execução era proveniente de cheques inadimplidos pelo cônjuge da embargante, ora apelante, logo não oriunda de ato ilícito.
+Então, deve ser aplicada a regra geral, de modo que cabia à meeira, ora apelante, o ônus de provar que a dívida não foi contraída em benefício da família a fim de preservar sua meação, o que não ocorreu na hipótese dos autos (fls. 630/631).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
