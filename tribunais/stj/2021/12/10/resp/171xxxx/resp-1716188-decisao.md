@@ -1,0 +1,78 @@
+DECISÃO
+Ordem dos Advogados do Brasil, Seção de Santa Catarinaajuizou execução de título executivo extrajudicial, em desfavor de Fernando Cesar Dambros, visando à satisfação de crédito decorrente de anuidades de advogado inscrito, no valor de R$ 1.895,52 (mil, oitocentos e noventa e cinco reais, e cinquenta e dois centavos), valor histórico de janeiro de 1999.
+Transcorridos mais de 7 anos da suspensão do feito por ausência de bens do devedor, a exequente requereu penhora via BACENJUD, que não foi frutífera.
+Diante disso, o Juízo de primeira instância decretou, de ofício, a prescrição intercorrente (fls. 173-175).
+O Tribunal Regional Federal da 4ª Região negou provimento ao recurso, nos termos assim ementados (fl.. 230):
+EXECUÇÃO. OAB. ANUIDADES. PRESCRIÇÃO INTERCORRENTE.
+- Deve ser respeitado o princípio da utilidade da execução, não se permitindo a continuidade indefinida do processo executório se não foi citada a parte devedora e se tampouco há indícios da existência de bens penhoráveis, necessários à satisfação do crédito excutido.
+- Na condução da execução deve-se atentar à possibilidade, efetiva, de satisfação da parte exequente, sob pena de se admitir o trâmite de um processo que não se destinaria a encontrar qualquer solução.
+- O prosseguimento da execução, quando o credor não providencia sequer a citação da parte devedora e não acena com bens suscetíveis de penhora, afronta apenas contribuiria para o congestionamento do Poder Judiciário e representaria evidente ofensa ao princípio da razoável duração do processo e da celeridade na tramitação das ações.
+Os declaratórios opostos foram parcialmente acolhidos para fins de prequestionamento (fls. 247-250).
+Ordem dos Advogados do Brasil interpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal. Indicou a ofensa ao art. 489 e 1.022, ambos do CPC/2015, sustentando, em resumo, quenão obstante a oposição dos embargos de declaração, o Tribunal de origem não considerou que não transcorre a prescrição enquanto o feito está suspenso por força do art. 791, III, do CPC/1973.
+No mérito, aduziu, além de dissídio jurisprudencial, a ofensa ao art. 791, III, do CPC/1973. Alegou, em síntese, que, estando suspensa a execução em razão da ausência de bens expropriáveis do devedor, não se configura inércia do credor para fins de aplicação da prescrição intercorrente, se este diligencia no sentido de encontrar bens do patrimônio do executado. Ademais, sustentou que deveria ter sido intimado previamente à decretação da prescrição.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Não há que se falar em negativa de prestação jurisdicional.
+O Tribunal de origem partiu do pressuposto de que, na hipótese em que não são localizados bens do devedor passíveis de penhora, o processo de execução deve ser suspenso conforme o artigo 791, III, do CPC/1973 (fl. 227).
+Ou seja, partiu do fundamento que foi alegado pela parte recorrente como omisso.
+Contudo, o Tribunal de origem apresentou conclusão contrária à pretensão da parte recorrente.
+Observou o julgador a quo que, no caso, foram adotadas inúmeras providências no intuito de satisfação do crédito, sendo que "todos os procedimentos levados a efeito restaram infrutíferos. Desde que proposta a ação executiva até, no mínimo, a prolação da sentença recorrida, nenhum indício da existência de bens penhoráveis foi evidenciado nos autos." (fl. 227).
+A alegação de omissão consistiu, pois, em mero descontentamento com as conclusões a que chegou o Tribunal de origem, devendo ser afastada a alegada violação dos arts. 489 e 1.022, do CPC/2015, nos termos dos seguintes precedentes;
+ADMINISTRATIVO E PROCESSUAL CIVIL. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. ART. 1022 DO CPC/2015. OFENSA NÃO VERIFICADA. BASE DE CÁLCULO DA CONTRIBUIÇÃO DEVIDA AO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+3. Agravo interno desprovido.
+(AgInt no REsp 1.643.573/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 8/11/2018, DJe 16/11/2018.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ausentes os vícios do art. 1022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1.719.870/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 24/9/2018, DJe 26/9/2018.)
+Quanto ao mais, o recurso não comporta provimento.
+No caso, conforme constou da sentença, o despacho que determinou a suspensão do feito por ausência de bens do devedor foi proferido em 13/08/2001, do que a parte exequente intimada em 20/11/2011 (fl. 186).
+Em 12/4/2010o exequente requereu a penhora via BACENJUD, que, contudo, não foi frutífera.
+Diante disso, o Juízo de primeira instância decretou, de ofício, a prescrição intercorrente, em julho de 2016.
+Não há razão para se afastar a decretação da prescrição.
+Isso porque no caso a execução foi suspensa sem prazo determinado, por ausência de bens penhoráveis, de modo que o prazo prescricional anteriormente interrompido reiniciou-se após o transcurso de 1 (um) ano a partir da intimação da providência infrutífera.
+Esse entendimento está em consonância com a jurisprudência deste Superior Tribunal de Justiça, que, por sua Segunda Seção, em Incidente de Assunção de Competência, Tema n. 1, nos autos do REsp 1604412/SC (Rel. Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 27/06/2018, DJe 22/08/2018), definiu as seguintes teses a respeito da prescrição intercorrente:
+1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002;
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980);
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual);
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+No mais, a alegação de inexistência de prévia oitiva do exequentenão comporta acolhimento.
+Está pacificado no Superior Tribunal de Justiça o entendimento de que é possível conhecer da prescrição, de ofício, desde que assegurado o prévio contraditório, a fim de possibilitar ao credor a oposição de fato obstativo, em vez do impulso do processo - providência própria do abandono processual.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. INTIMAÇÃO DA PARTE PARA DAR ANDAMENTO AO FEITO. DESNECESSIDADE. FORMALIDADE QUE APENAS SE IMPÕE NOS CASOS DE EXTINÇÃO DO FEITO POR ABANDONO DA CAUSA. PRECEDENTES. NECESSIDADE. OBSERVÂNCIA DO CONTRADITÓRIO RESPEITADA. IAC NO RESP N. 1.604.412/SC. AGRAVO DESPROVIDO.
+1. Em conformidade com a orientação jurisprudencial firmada no Tema 1 do Incidente de Assunção de Competência (IAC) - REsp 1.604.412/SC -, precedente de observância obrigatória nos termos do art. 927, III, do CPC/2015, nas execuções paralisadas sem prazo determinado, inclusive no caso de suspensão por ausência de bens penhoráveis (art. 791, III, do CPC/1973), o prazo prescricional da pretensão de direito material anteriormente interrompido reinicia após o transcurso de 1 (um) ano a partir do último ato do processo. Além disso, é possível conhecer da prescrição, de ofício, desde que assegurado o prévio contraditório, a fim de possibilitar ao credor a oposição de fato obstativo, em vez do impulsionamento do processo - providência própria do abandono processual.
+2. Prescrição intercorrente que se verifica na hipótese dos autos.
+3. Agravo interno desprovido. (AgInt no REsp 1635114/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/06/2019, DJe 25/06/2019).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL C/C TUTELA PROVISÓRIA. PROCESSO CIVIL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. REQUISITOS DEFINIDOS EM IAC NO RESP 1604412/SC.
+1. "Nas execuções paralisadas sem prazo determinado, inclusive no caso de suspensão por ausência de bens penhoráveis (art. 791, III, do CPC/73), o prazo prescricional da pretensão de direito material anteriormente interrompido reinicia após o transcurso de 1 (um) ano a partir do último ato do processo."
+2. "Por se tratar de matéria de ordem pública, pode-se conhecer da prescrição de ofício, desde que assegurado o prévio contraditório, a fim de possibilitar ao credor a oposição de fato obstativo, em vez do impulsionamento do processo, porque esta providência é própria do abandono processual, hipótese de extinção do processo sem julgamento de mérito, que, para sua decretação, independe da prescrição".
+3. O caso dos autos não atende aos requisitos fixados no precedente de observância obrigatória.
+4. AGRAVO INTERNO DESPROVIDO. (AgInt no AREsp 1391813/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 10/06/2019, DJe 14/06/2019)
+No caso, o contraditório foi estabelecido na primeira instância, em consonância com a jurisprudência deste Superior Tribunal de Justiça.
+Ademais, tem-se que a intimação da parte exequente visa a que apresente alegação quanto a eventual ocorrência de fato impeditivo, interruptivo ou suspensivo da prescrição, e não para que dê andamento ao feito.
+Portanto, o simples requerimento, no caso, de medida já caracterizada como infrutífera não se adequa à necessidade de manifestação, que, na primeira oportunidade, deve ilidir a prescrição intercorrente. A exigência de mera formalidade evoluiu para a análise do conteúdo da manifestação da parte exequente.
+Confiram-se:
+AGRAVO INTERNO. AGRAVO INTERNO. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. EXTINÇÃO DO PROCESSO PELA PRESCRIÇÃO INTERCORRENTE. INÉRCIA DA PARTE POR PRAZO SUPERIOR AO DE PRESCRIÇÃO DO DIREITO MATERIAL VINDICADO. CONTRADITÓRIO ASSEGURADO. AMPLA OPORTUNIDADE DADA À EXEQUENTE PARA EXPOR SEUS ARGUMENTOS ACERCA DE FATO IMPEDITIVO DA OCORRÊNCIA DE PRESCRIÇÃO.
+1. A jurisprudência do STJ firmou o entendimento no sentido de que incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando a parte exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002, sendo que o termo inicial do prazo prescricional (na vigência do CPC/1973) conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei n. 6.830/1980).
+2. Agravo interno a que se nega provimento. (AgInt no AgInt no REsp 1680005/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 10/08/2020, DJe 14/08/2020).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. INTIMAÇÃO DO EXEQUENTE. PRINCÍPIO DO CONTRADITÓRIO OBSERVADO. DESNECESSIDADE DE RETORNO DOS AUTOS À ORIGEM. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Consoante o entendimento consolidado pela Segunda Seção desta Corte, mesmo sendo possível o reconhecimento de ofício da prescrição intercorrente, é necessário o prévio contraditório, não para que a parte exequente promova, extemporaneamente, o andamento do processo, mas para assegurar a oportunidade de apresentar defesa quanto à eventual ocorrência de fatos impeditivos, interruptivos ou suspensivos da prescrição (Incidente de Assunção de Competência no REsp 1.604.412/SC, Rel. Ministro Marco Aurélio Bellizze, julgado em 27/06/2018, DJe de 22/08/2018).
+2. No caso, houve o transcurso de período superior ao prazo prescricional do título executivo, estando configurada a prescrição intercorrente. Uma vez demonstrada a observância ao contraditório e cumprida tal diligência ainda no primeiro grau, torna-se desnecessário o retorno dos autos à origem.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para decretar a prescrição intercorrente. (EDcl no AgInt no AREsp 1356274/PR, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 04/05/2020, DJe 18/05/2020).
+AGRAVO INTERNO NO RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. INTIMAÇÃO. JURISPRUDÊNCIA. RECURSO REPETITIVO. NECESSIDADE DE PRÉVIA INTIMAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, antes de se reconhecer a prescrição, deve haver intimação da parte interessada, não para dar andamento ao feito, mas para lhe assegurar a oportunidade de apresentar defesa quanto à eventual ocorrência de fatos impeditivos, interruptivos ou suspensivos.
+3. Agravo interno não provido. (AgInt no REsp 1760497/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 09/03/2020, DJe 13/03/2020).
+PROCESSUAL CIVIL E TRIBUTÁRIO. PRESCRIÇÃO ORDINÁRIA OU DIRETA. INTIMAÇÃO DA FAZENDA PÚBLICA ANTES DA EXTINÇÃO DA EXECUÇÃO FISCAL. DECRETAÇÃO DE OFÍCIO NA VIGÊNCIA DO CPC DE 2015. IMPOSSIBILIDADE.
+ ..
+II - No julgamento do REsp Repetitivo n. 1.340.553/RS, acerca da necessidade de intimação da Fazenda Pública antes da decretação da prescrição intercorrente, foi exarado o seguinte entendimento, in verbis: "Desse modo, a jurisprudência do STJ então evoluiu da necessidade imperiosa de prévia oitiva da Fazenda Pública para se decretar a prescrição intercorrente (EREsp n. 699.016/PE, Primeira Seção, Rel. Min. Denise Arruda, DJ 17/3/2008) para a análise da utilidade da manifestação da Fazenda Pública na primeira oportunidade em que fala nos autos a fim de ilidir a prescrição intercorrente (precedentes suso citados). Evoluiu-se da exigência indispensável da mera formalidade para a análise do conteúdo da manifestação feita pela Fazenda Pública."
+ ..
+V - Recurso especial provido. (REsp 1829939/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 09/06/2020, DJe 17/06/2020).
+Assim, não há fundamento para afastar a decretação da prescrição.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
