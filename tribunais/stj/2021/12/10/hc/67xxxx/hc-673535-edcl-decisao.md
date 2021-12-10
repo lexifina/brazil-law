@@ -1,0 +1,16 @@
+DECISÃO
+LUCIANO DOS REIS BASILIO opõe embargos declaratórios contra a decisão monocrática de minha relatoria em que deneguei a ordem do habeas corpus, para preservar sua prisão preventiva.
+Nas razões dos aclaratórios, oembargante sustenta omissão no julgado impugnado e reitera que o réu preenche os requisitos para responderem liberdade ao trânsito em julgado de sua condenação.
+Requer, assim, o acolhimento dos embargos de declaração, com efeitos infringentes, para que seja concedido o habeas corpus.
+Decido.
+Não obstante os esforços perpetrados pelo ora embargante, não constato os vícios apontados na decisaoembargada.
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos deambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Na hipótese em exame,o Juízo singular decretou a prisão preventiva e posteriormente a manteve tendo como fundamentoa maior periculosidade do réu e agravidade concreta do delito, pois "constam dos autos a existência de antecedentes em atos infracionais, fato que, somado a quantidade  1.529,8 gramas de maconha e forma de acondicionamento de substancia entorpecente, em conjunto com os apetrechos localizados, evidencia a necessidade de sua custódia para a garantia da ordem pública" (fl. 110).
+Nessa direção, é firme a jurisprudência deste Superior Tribunal de que, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência,atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. MinistroAntonio Saldanha Palheiro, DJe 11/6/2019).
+Ademais, urge consignar que a jurisprudência desta Corte Superior é firme ao asseverar " não ser  ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão dagravidadein concretodos fatos delituosos, cifrada na significativa quantidade de substância entorpecente apreendida" (RHC n. 93.740/MG, Rel. MinistraMaria Thereza de Assis Moura, 6ª T., DJe 12/3/2018, destaquei).
+Tais elementos constituem motivos idôneos para embasar a manutenção da prisão provisória do acusado.
+Diante de tais considerações, não existem os vícios descritos no art. 619 do CPP no aresto combatido. Noto que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
