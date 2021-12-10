@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ISMAEL DA SILVA DA FONSECA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Agravo em Execução n. 70072018849).
+Na hipótese, tem-se que o paciente cometera falta disciplinar de natureza grave consistente em fugas em 9/7/2016, 10/7/2016 e 23/8/2016. O Juízo de primeiro grau reconheceu a infração, aplicando os respectivos consectários (e-STJ fls. 111/113).
+A defesa, então, interpôs agravo em execução, o qual foi provido, por maioria, para declarar a nulidade do reconhecimento da falta grave pela ausência de instauração de PAD, havendo, na sequência, a interposição de recurso extraordinário pelo Ministério P blico. Posteriormente, o Tribunal de origem, em juízo de retratação após decisão acerca da quaestio em repercussão geral, negou provimento ao agravo (e-STJ fls. 307/316).
+Daí o presente writ, no qual sustentou a prescrição da falta, uma vez que a retratação da decisão que resultou na restauração da falta ocorreu na sessão de julgamento realizada em 24/9/2020, após três anos, portanto, da prática da falta disciplinar.
+Requer, assim, a concessão da ordem para declarar a prescrição da falta disciplinar.
+A liminar foi indeferida (e-STJ fls. 325/326).
+Informações prestadas (e-STJ fls. 331/362 e 368/371).
+O Ministério Público Federal, às e-STJ fls. 373/375, manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+Acerca da quaestio, assim consignou o Tribunal de origem (e-STJ fls. 319/320):
+E, no caso vertente, tem-se que, retratado o acórdão que invalidou o reconhecimento da falta grave pelo juízo da origem, voltou a valer a decisão lá proferida que, em 13 de outubro de 2016 (fl. 54), reconheceu infração disciplinar praticada em 23 de agosto de 2016, não havendo falar, pois, no decurso de prazo prescricional de três anos.
+Mais, ainda que se cuidasse de prazo prescricional de natureza penal (referência feita ad argumentandum tantum), tenho que, no período em que sobrestado o julgamento do recurso extraordinário por força do reconhecimento da repercussão geral da questão (tema 941), aquele se encontraria suspenso, por aplicação analógica da causa suspensiva prevista no artigo 116, inciso I, do Código Penal, consoante já decidiu o Plenário do Supremo Tribunal Federal (STF. Plenário. RE 966.177 RG/RS, Rel. Min. Luiz Fux, julgado em 7/6/2017, Info 868).
+Por conseguinte, suspenso o prazo prescricional entre 18 de setembro de 2017 (sobrestamento do recurso extraordinário, fls. 121-122) e 4 de maio de 2020 (data do julgamento do recurso extraordinário representativo da controvérsia), nem sequer haveria falar no decurso de prazo de três anos entre o acórdão que, em 15 de julho de 2015, invalidara o reconhecimento da falta grave e aquele que, em 24 de setembro de 2020, retificou a anterior decisão colegiada, mantendo o reconhecimento da infração disciplinar pelo juízo da execução.
+Em tal contexto, inviável o reconhecimento da extinção da punibilidade pela ocorrência da prescrição.
+O entendimento do Tribunal de origem não merece reparos.
+Por esgotar a controvérsia, adoto, como razões de decidir, o parecer do Ministério Público Federal, in verbis (e-STJ fl. 374):
+ ..  No mérito, não há manifesta ilegalidade a justificar a concessão da ordem. O Tribunal de origem reformulou seu próprio julgado que anulara as faltas praticados pelo paciente, em virtudo da falta de PAD.
+Contra essa decisão, o Ministério Público recorreu extraordinariamente ao STF. A Suprema Corte, por sua vez, em decisão (RE 9722598) sob a sistemática da repercussão geral, "afastou a imprescindibilidade da prévia instauração de PAD para o reconhecimento de infração disciplinar de natureza grave" (e-STJ Fl. 310), sob a seguinte tese:
+ A  altiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena. (e-STJ Fl. 310)
+Em juízo de retratação, o TJRS julgou "suficiente a oitiva do apenado em audiência de justificação - realizada, no particular, no dia 23 de fevereiro de 2015, oportunidade em que o apenado foi assitido por defensor público -," (e-STJ Fl. 310) para confirmar a falta grave praticada pelo paciente, por entender que a anulação do reconhecimento judicial de infração disciplinar de natureza grave contraria a nova orientação do STF.
+Houve, então, a retificação da decisão anterior, com o consequente desprovimento do agravo da defesa.
+Não há ilegalidade na adequação do julgado à orientação do STF sobre o caso, tampouco cabe ao STJ emitir juízo quanto aos limites de novas balizas definidas pelo STF, em tema de ordem constitucional, sob a sistemática da repercussão geral. (Grifei.)
+De fato, havendo juízo de retratação do Tribunal de origem após decisão do STF em repercussão geral acerca da matéria, com o consequente desprovimento do agravo em execução anteriormente interposto pela defesa, voltou a vigorar a decisão de primeira instância que reconheceu a prática de falta grave pelo paciente, proferida dentro do lapso prescricional preconizado pela jurisprudência de três anos para tal reconhecimento.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
