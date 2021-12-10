@@ -1,0 +1,33 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por GRIMM SA INDUSTRIA E COMERCIO E OUTROS em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO. CONFISSÃO DE DÍVIDA. PRELIMINARES DE CERCEAMENTO DE DEFESA E ILEGITIMIDADE ATIVA. AFASTADAS. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. AUSENTE INDICAÇÃO DO VALOR INCONTROVERSO.Fundados os embargos no excesso de execução, devem vir acompanhados de memória de cálculo, bem como conter a indicação do valor incontroverso. Aplicação do disposto no art. 917, g 3º e 4º, do CPC. Afastadas as preliminares de cerceamento de defesa e ilegitimidade ativa da parte adversa. APELAÇÃO DESPROVIDA.
+Os embargos de declaração foram rejeitados.
+No recurso especial, os recorrentes apontam, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos: (a) arts. 45 e 51, § 3º, do CC e 70 do CPC, sustentando que a empresa executada, por ter sidoextinta por liquidação voluntária, não possui personalidade jurídica e, portanto,capacidade processual para estar em juízo; e (b) art. 373, § 1º,do CPC, defendendo a necessidade de inversão do ônus da prova para que a recorrida junte aos "autos os documentos que deram origem a operação de factoring e posteriormente resultaram numa confissão de dívida". No mais, citam ofensa aos arts. 139, 141, 489, IV, e 492 do CPC, afirmando ter ocorrido negativa de prestação jurisdicional,cerceamento de defesa e julgamento citra e extra petita.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+O recurso especial não pode ser conhecido.
+Com relação às apontadas violações aos arts. 45 e 51, § 3º, do CC e 70 e 373, § 1º, do CPC,não houve emissão de juízo pelo acórdão recorrido sobre as matérias de que tratam essas normas,mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+Vale lembrar que "o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na presente hipótese" (AgInt no AREsp 1733343/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021).
+Ademais, o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, afirmou o seguinte:
+Não merece acolhimento a arguição de falta de capacidade processual do embargado, haja vista que como bem arguido pelo mesmo, o art. 75, IX, do CPC, dispõe que a sociedade irregular será representada em juízo pela pessoa que lhe couber a administração.
+Assim, não havendo provas de que o embargado não é representado por Genésio Antônio Hall, resta evidenciada a regularidade da capacidade processual.
+(..)
+Ademais, ainda que possível a discussão da causa jurídica subjacente à emissão das promissórias, não se verifica a possibilidade de procedência dos embargos, porquanto o embargante não logrou êxito em comprovar, de modo suficiente, os fatos constitutivos de seu direito, ou seja, que teria vício na constituição do crédito.
+lnexiste, ademais, prova de que teria havido cobrança de juros extorsivos, acima do limite aceitável como comissão na aquisição de créditos do faturizado.
+Logo, não restando demonstrado nos autos, ainda que minimamente, ter havido efetiva incidência de juros abusivos sobre o principal da dívida, o que não se desincumbiu o embargante.
+Como se sabe, o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Assim, ilidir o afirmado pelas instâncias ordinárias demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Além disso, as razões recursais não refutaram o fundamento disposto - "a sociedade irregular será representada em juízo pela pessoa que lhe couber a administração" -, atraindo, ainda,o óbice do enunciado da Súmula 283/STF, aplicávelpor analogia: "É inadmissível o recurso extraordinário, quando a decisão recorridaassenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Por fim, o recurso especial possui fundamentação vinculada, com forma e conteúdo próprios, e se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa.
+Assim, exsurge deficiente a fundamentação recursal, pois os recorrentes limitaram-se a indicar os dispositivos supostamente violados (arts. 139, 141, 489, IV, e 492 do CPC),deixando de informar de que modo a legislação federal foi violada ou teve negada sua aplicação, dando azo à aplicação, por analogia, do óbice da Súmula 284/STF.
+Com efeito, "a alegação de ofensa à lei federal presume a realização do cotejo entre o conteúdo preceituado na norma e os argumentos aduzidos nas razões recursais, com vistas a demonstrar a devida correlação jurídica entre o fato e o mandamento legal. Nesse passo, a simples referência a dispositivo legal, desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal, não é suficiente para o conhecimento do recurso especial. Incidência da Súmula 284 do STF" (AgInt no AREsp 1.025.432/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe de 15/09/2017).
+Em derradeiro, registro que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", o que prejudica a análise do dissídio jurisprudencial.
+Diante do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios devidos ao(s) advogado(s) da parte recorrida de R$ 2.800,00 para R$ 3.100,00, observada a gratuidade da justiça.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa.
+Intime-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/15. EMBARGOS À EXECUÇÃO. CONFISSÃO DE DÍVIDA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS APONTADOS COMO VIOLADOS. SÚMULA 211/STJ. PRETENSÃO QUE, ADEMAIS, DEMANDA O REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. VEDAÇÃO. SÚMULA 7/STJ. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF.FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SIMPLES REFERÊNCIA A DISPOSITIVO LEGAL DESACOMPANHADA DA NECESSÁRIA ARGUMENTAÇÃO. SÚMULA 284/STF.
+RECURSO ESPECIAL NÃO CONHECIDO.
