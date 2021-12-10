@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso especial interposto por LILIANA EVANGELISTA SALES, fundamentado naalínea"c" do permissivo constitucional.
+Recurso especial interposto em: 10/12/2020.
+Concluso ao gabinete em: 06/10/2021.
+Ação: de obrigação de fazer ajuizada pela recorrente em face de AMIL MÉDICA INTERNACIONAL S.A. visando a sua manutenção, por prazo indeterminado,em plano de saúde coletivo, de titularidade de seu companheiro, já em período de extensão após a cessação do vínculo empregatício, com prazo final em 31/07/2020, por estar em tratamento de câncer.
+Sentença: julgou procedente a demanda para condenar a recorrida na obrigação de manter o plano de saúde da recorrente, nas mesmas condições em que contratado, até a alta médica.
+Acórdão: deu provimento à apelação da recorrida, nos termos da seguinte ementa:
+PLANO DE SAÚDE. COLETIVO. AUTORA BENEFICIÁRIA DE APÓLICE COLETIVA EMPRESARIAL, ESTIPULADA PELA EX-EMPREGADORA DE SEU COMPANHEIRO, POR FORÇA DE VÍNCULO EMPREGATÍCIO JÁ EXTINTO. MANUTENÇÃO NA QUALIDADE DE BENEFICIÁRIO QUE SE DEU POR PERÍODO PREDETERMINADO, CONSOANTE DETERMINA O ART. 30, § 1º, DA LEI 9.656/98, ATÉ JULHO DE 2020. PEDIDO DE EXTENSÃO DO PRAZO ALI DEFINIDO, A FIM DEMANTER-SE COBERTA PELA APÓLICE DURANTE TRATAMENTO QUIMIOTERÁPICO, QUE SE PROLONGOU PARA ALÉM DA DATA DE TÉRMINO DO BENEFÍCIO. DESCABIMENTO, EM VIRTUDE DE EXPRESSA DISPOSIÇÃO LEGAL (ART. 30, § 1º DA LEI N. 9.656/98). MIGRAÇÃO PARA CONTRATO INDIVIDUAL OU FAMILIAR, SEM NECESSIDADE DE CUMPRIMENTO DE NOVOS PRAZOS CARENCIAIS. INVIABILIDADE, NO CASO CONCRETO. MALGRADO PREVISTA NA RESOLUÇÃO 19/1999 DO CONSU, TAL POSSIBILIDADE SE CONDICIONA À OFERTA, PELA SEGURADORA, DE PLANOS DE TAL NATUREZA. REQUERIDA QUE, NO CASO, NÃO COMERCIALIZA APÓLICES INDIVIDUAIS OU FAMILIARES. PEDIDO IMPROCEDENTE. SENTENÇA REFORMADA. RECURSO PROVIDO.
+Recurso especial: alega dissídio jurisprudencial com o recurso paradigma Resp 1.818.495/SP a respeitode rescisão do plano de saúde beneficiário em tratamento de saúde e com o Resp 1.603.764/SP no tema da possibilidade da prorrogação do prazo do art. 30 da Lei 9656/98, enquanto perdurar a doença.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da manutenção do plano de saúde na constância do tratamento. Súmula 568/STJ
+De início, cumpre destacar que a jurisprudência desta Corte Superior de Justiça é firme no sentido de que em se tratando de dissídio notório, mitigam-se os requisitos de admissibilidade para o conhecimento do recurso especial. Nesse sentido:AgInt nos EDcl no AgInt nos EDcl no AgRg no REsp 1557560/SP, 4ª Turma, DJe 15/10/2021 AgInt no REsp 1843825/RS, Rel. Ministro MOURA RIBEIRO, 3ª Turma, DJe 10/03/2021.
+E o presente caso se amolda à referida hipótese tendo em vista que a jurisprudência desta Corte Superior de Justiça se firmou no sentido de que, visando resguardar interesse do consumidor, hipossuficiente, na constância de tratamento médico necessário à manutenção de sua vida, inviável a resilição de contrato de plano de saúde. Nesse sentido:AgInt no REsp 1954882/SP, 3ª Turma, DJe 28/10/2021;AgInt no REsp 1954882/SP, 3ª Turma, DJe 28/10/2021;AgInt no AREsp 1834218/DF, 4ª Turma, DJe 24/09/2021; eAgInt no REsp 1890669/SP, 4ª Turma, DJe 26/03/2021.
+Desse modo, merece reforma o acórdão recorrido, mantendo o provimento da demanda, nos termos da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para restaurar a sentença de procedência da demanda, determinando a manutenção da recorrente no plano de saúde até a alta médica.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. PRORROGAÇÃO DE PRAZO APÓS A CESSAÇÃO DO VÍNCULO. CONSTÂNCIA DETRATAMENTO MÉDICO NECESSÁRIO. MANUTENÇÃO DO PLANO. PRECEDENTES.
+1.É abusiva a rescisão contratual de plano de saúde, por parte da operadora, independentemente do regime de contratação (individual ou coletivo), durante o período em que a parte segurada esteja submetida a tratamento médico de emergência ou de urgência garantidor da sua sobrevivência e/ou incolumidade física. Precedentes.
+2. Recurso especial conhecido e provido.
