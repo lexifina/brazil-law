@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado por CESAR AUGUSTO GONÇALVES em face da decisão que inadmitiu recurso especial interposto contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o juízo de primeiro grau condenou o agravante à pena de 08 (oito) anos de reclusão, em regime fechado, mais de 1200 (um mil e duzentos)dias-multa, no mínimo legal, como incurso no art.33, caput, c/c oart.35, caput, ambos da Lei n.11.343/2006 (fls. 351-357).
+O eg. Tribunal a quo negou provimento ao apelo da defesa, mantendo a sentença condenatória (fls. 497-514).O v. acórdão foi ementado nos seguintes termos (fl. 498):
+"MATERIALIDADE - auto de apreensão e laudo toxicológico que restou positivo para a presença do elemento ativo - comprovação de que os materiais apreendidos são drogas(maconha, cocaína e crack).
+AUTORIA - depoimento policial que indica a apreensão de droga - validade - depoimento policial só deve ser visto com reserva quando a imputação ao réu visa justificar eventual abuso praticado - inocorrência no caso em tela.
+TRÁFICO - destinação à terceiros - quantidade incompatível com a figura do usuário - variedade - local conhecido como ponto de venda de entorpecentes - forma de acondicionamento própria para venda a varejo - dinheiro.
+PENA - primeira fase - base fixada do mínimo legal - mantença, ausente recurso ministerial - segunda fase - ausentes agravantes e atenuantes - terceira fase - ausentes causas de aumento e de diminuição - inaplicado o redutor previsto no art.33, § 4ª da Lei de Drogas - não preenchidos os requisitos - quantidade e natureza da as drogas.
+REGIME - regime fechado - o regime necessário para dissuadir o réu de retornar a delinquir (Beccaria) - necessidade de regime mais brando - impossibilidade - circunstâncias desfavoráveis ao réu - quantidade expressiva da droga - variedade - maus antecedentes - improvimento ao recurso."
+Interposto recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, a Defesa alegou ofensa: a) ao art.33, § 4º, da Lei n.11.343/2006, porquanto o acusado preenche os requisitos necessários para a aplicação do tráfico privilegiado; e b)aos art.33, § 3º, 44 e 59, todos do Código Penal, ao argumento de que o acusado faz jus ao regime aberto para início do cumprimento da pena e para a substituição da pena corporal por restritivas de direito.
+Apresentadas as contrarrazões (fls. 544-569), sobreveio juízo negativo de admissibilidade fundado: i) na aplicação da Súmula 7/STJ, pois a análise do acórdão recorrido implicaria em revolvimento de matéria fático-probatória; e ii) na incidência da Súmula 283/STF, tendo em vista a deficiência na fundamentação do recurso especial.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 579-585).
+A d. Subprocuradoria-Geral da República apresentouparecer peloconhecimentodo agravo e desprovimento do recurso especial (fls. 612-615), conforme seguinte ementa:
+"AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONDENAÇÃO. APLICAÇÃO DA REDUTORA PREVISTA NO §4º DO ART. 33 DA LEI DE DROGAS. IMPOSSIBILIDADE. DEDICAÇÃO ÀS ATIVIDADES CRIMINOSAS DEVIDAMENTE DEMONSTRADA NOS AUTOS. REGIME FECHADO. MANUTENÇÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DELIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. PARECER PELO CONHECIMENTO DO AGRAVO, PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL."
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, parte das razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência daSúmula7/STJ.
+No caso, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Digo, nas razões de fls. 579-585, em uma breve explanação, o agravante, quanto a incidência da Súmula 7/STJ, argumentou apenas que "Não se cuida de provar ou deixar de provar fatos ou circunstâncias, mas, estando estes já provados, cuida-se sim, de adequá-los ou não às situações previstas na norma. Este questionamento não é fático, e sim jurídico, razão pela qual é perfeitamente possível fazê-lo em sede de recurso especial." (fl. 582).
+Desse modo, a ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE FIXAÇÃO DE REGIME INICIAL DE PENA MAIS BRANDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula 284 do STF.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido." (AgInt no AREsp n. 1140814/SP, Quinta Turma, Rel. Min. Felix Fischer, DJe 16/02/2018)
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA.VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos." (AgRg no AREsp n. 1074077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 19/12/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
