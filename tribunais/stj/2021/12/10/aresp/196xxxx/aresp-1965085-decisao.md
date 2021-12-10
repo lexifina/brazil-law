@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 378, e-STJ):
+REMESSA NECESSÁRIA E APELAÇÃO - SERVIDORA PÚBLICA MUNICIPAL - INCORPORAÇÃO DO ADICIONAL DE PRODUTIVIDADE AO SALÁRIO BASE - ARTIGO 41, DA LEI MUNICIPAL DE PARANAÍBA Nº 46, de 06/04/2011 - PREENCHIMENTO DOS REQUISITOS LEGAIS - ADICIONAL DEVIDO - JUROS E CORREÇÃO MONETÁRIA CONTRA A FAZENDA PÚBLICA - JUROS DE MORA A CONTAR DA CITAÇÃO - MOMENTO DA FIXAÇÃO DO PERCENTUAL DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - RECURSO CONHECIDO E NÃO PROVIDO - SENTENÇA MANTIDA EM REMESSA NECESSÁRIA.
+1. Controvérsia centrada na incorporação ao salário base da servidora municipal de Paranaíba do adicional de produtividade do artigo 41, da Lei Municipal nº 46, de 06/04/2011.
+2. A leitura do disposto no artigo 41, da Lei Municipal nº 46, de 06/04/2011 torna cristalina a necessidade de o servidor estar recebendo o "adicional de produtividade" até a data da aprovação da Lei Municipal nº 46, de 06/04/2011, como condição para se incorporar tal verba ao seu salário base, o que restou demonstrado na espécie, sobretudo porque a própria municipalidade reconheceu tal condição em caso paradigma, julgado administrativamente.
+3. Para atualização monetária, revela-se inconstitucional o art. 1º- F, da Lei nº 9.494, de 10/09/97, com a modificação da Lei n. 11.960, de 29/06/2009, devendo-se utilizar o IPCA-E (Índice de Preços ao Consumidor Amplo Especial) - RE 870.947/SE -, aplicado para todo o período, pois a modulação dos efeitos, mencionada no Recurso Extraordinário nº 870.947/SE, diz respeito à fase de precatórios, quando expedidos até a data de 25/03/2015, o que não é o caso dos autos (STJ, Resp. Repetitivo nº REsp 1495146 / MG).
+4. Os juros de mora no caso de pagamentos de verbas remuneratórias em atraso são devidos a partir da citação. Precedentes.
+5. Em qualquer das hipóteses do § 3 o , do art. 85, do Código de Processo Civil/2015, não sendo líquida a sentença, a definição do percentual, nos termos previstos nos incisos I a V, somente ocorrerá quando liquidado o julgado.
+6. Apelação conhecida e não provida. Sentença mantida em Remessa Necessária.
+Os Embargos de Declaração foram rejeitados (fls. 418-423, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, que houve violação, em preliminar, do art. 1.022 do Código de Processo Civil; e, no mérito, do art. 4º da Lei de Introdução às Normas do Direito Brasileiro (LINDB) e do art. 373, II, do CPC. Afirma, em síntese, que houve a indevida inversão do ônus da prova e que a Lei Municipal foi desconsiderada para a utilização de parecer jurídico como prova. Alega, ainda, que o intuito ao opor Aclaratórios foi o de obter o prequestionamento, razãopela qual requer o afastamento da multa prevista no art. 1.026, § 2º, do CPC.
+Contrarrazões às fls. 453-461, e-STJ.
+Sem Contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 19.11.2021.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (fls. 372-373, e-STJ):
+Conforme estabelecido no artigo 41 da Lei Municipal nº 46, de 06/04/2011, "o servidor público que estiver percebendo o adicional de produtividade até a data de aprovação desta Lei Complementar, terá o valor do referido adicional incorporado ao seu salário base. Parágrafo único - a partir da aprovação desta Lei Complementar ficará extinto o adicional de produtividade profissional".
+A leitura do dispositivo legal em referência torna cristalina a necessidade de o servidor estar recebendo o "adicional de produtividade" até a data da aprovação da Lei Municipal nº 46, de 06/04/2011, como condição para se incorporar tal verba ao seu salário base.
+Importa realçar que, pelo artigo 373, do Código de Processo Civil/2015, o ônus da prova incumbe ao autor, quanto ao fato constitutivo do seu direito (inciso I), e ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor (inciso II).
+E, na espécie, a parte autora carreou aos autos provas suficientes de que vinha percebendo o adicional de produtividade até o mês anterior à data da aprovação da Lei Municipal nº 46, de 06/04/2011 (f. 10).
+(..)
+E é aqui que encontra abrigo a pretensão da parte autora, pois na via administrativa (Processo Administrativo nº 605/2018), sabe-se que o próprio representante do Município reconheceu que pouco antes da publicação da Lei Municipal nº 46, de 06/04/2011 ninguém recebia o "Adicional de Produtividade Profissional" para fins de incorporação, mas sim a "Gratificação por Trabalho Técnico".
+Logo, há nos autos provas de que a autora-recorrida vinha sim recebendo o adicional que ora se objetiva a incorporação, mesmo que sob outra denominação.
+Com efeito, observa-se que a controvérsia foi dirimida com fundamento constitucional e em direito local (Lei Complementar 46/2011), de modo que o Recurso Especial se apresenta inviável, seja porque usurparia a competência reservada pela Constituição ao Supremo Tribunal Federal, seja porque pressupõe reexame de legislação estadual, obstado pela Súmula 280/STF, segundo a qual: "por ofensa ao direito local não cabe recurso extraordinário, ensejando o não conhecimento do recurso especial".
+Nessa linha:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADICIONAL DE INSALUBRIDADE. REEXAME DE LEI LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. USURPAÇÃO DE COMPETÊNCIA DO STF.
+1. A análise da controvérsia posta demandaria o exame de legislação local, tendo em vista que o Tribunal de origem adotou como fundamento do decisum a Lei estadual n. 66/93/PA.
+2. Tal circunstância torna inviável o acolhimento do recurso especial, de acordo com a aplicação analógica do Enunciado n. 280 constante da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+3. A Corte de local fundamentou a concessão do adicional de insalubridade com base em matéria constitucional (art. 7º, XXIII, da CF). Em recurso especial não se analisa suposta afronta a dispositivo constitucional, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.449.305/AP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 27/08/2019).
+Ademais, a desconstituição das premissas lançadas pela instância ordinária, no sentido de que a parte autora demonstrou que preencheu os requisitos legais para a incorporação do adicional de produtividade, demanda reexame de matéria de fato, procedimento vedado em Recurso Especial, consoante previsto na Súmula 7/STJ.
+No que concerne à ofensa ao art. 1.026 do CPC/2015, com relação à multa aplicada, por ter entendido o Tribunal de origem que os Embargos de Declaração eram protelatórios, esclareço que modificar tal conclusão, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
