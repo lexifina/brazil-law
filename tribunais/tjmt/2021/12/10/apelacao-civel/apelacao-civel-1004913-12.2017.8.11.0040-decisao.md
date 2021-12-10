@@ -1,0 +1,45 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial na Apelação Cível no 1004913-12.2017.8.11.0040
+RECORRENTE: HELIO EXPEDITO DA SILVA
+RECORRIDO: ESTADO DE MATO GROSSO
+Vistos.
+Trata-se de recurso especial interposto por HELIO EXPEDITO DA SILVA, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Público e Coletivo, assim ementado (id. 98239955):
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA – SERVIDOR PÚBLICO – POLÍCIA MILITAR – PROMOÇÃO DE FORMA RETROATIVA À GRADUAÇÃO DE 3o SARGENTO - PRESCRIÇÃO DO FUNDO DE DIREITO - OCORRÊNCIA – PRESCRIÇÃO RECONHECIDA. RECURSO PROVIDO.
+1. O Superior Tribunal de Justiça firmou que é de cinco anos o prazo prescricional para o servidor militar postular promoção por ressarcimento de preterição, nos termos do art. 1o do Decreto 20.910/32, caso em que a prescrição atinge o próprio fundo de direito, não se cogitando de relação de trato sucessivo.
+2. Prescrição reconhecida. Recurso provido.” (TJMT – Primeira Câmara de Direito Público – ApRemNec. no 1004913-12.2017.8.11.0040, Relator: Juiz Convocado YALE SABO MENDES, j. em 09/08/2021).
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de apelação cível, que deu provimento ao recurso para julgar improcedente o pleito inicial.
+Alega o recorrente a ocorrência de violação ao artigo 1.014, do Código de Processo Civil, sob o argumento de que “(...) o estado Recorrido em suas razões de recurso de apelação, levantou diversas questões de direito, sendo elas, a prescrição, a irretroatividade da lei civil para fatos pretéritos a sua vigência, e a suposta criação de um ‘interstício global’ por parte autor, as quais não haviam sido suscitadas”, razão pela qual não deveriam ter sido analisadas pelo acórdão.
+Ainda, aduz que “Resta claro, que o que prescreve são apenas as parcelas da dívida da fazenda pública estadual nos 05 (cinco) anos anteriores ao ajuizamento da ação, mas não o fundo de direito, qual seja a retificação da data da promoção de Cabo a Terceiro Sargento do Recorrente, com contagem a partir de 26/03/2015, a qual veio a ser concedida em favor do mesmo, administrativamente em 21/04/2018, ausente de efeitos retroativos”.
+Recurso tempestivo (id. 101560493) e preparado (id. 101550499).
+Contrarrazões em id. 104070471.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, razão pela qual não incinde, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da ausência de prequestionamento (Súmulas 282 e 356 do STF)
+Com o fito de evitar a supressão de Instância, nos termos do artigo 105, inciso III, da Constituição Federal, para que o Superior Tribunal de Justiça possua condições de reexaminar a controvérsia suscitada, é necessário que a questão tenha sido decidida em única ou última Instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi Súmula 282/STF, de seguinte teor: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”.
+Além disso, ainda que o julgado incorra em eventual omissão, para que a matéria seja considerada prequestionada, é imprescindível que sejam opostos Embargos de Declaração, com a indicação precisa do ponto supostamente omisso, conforme disposição da Súmula 356/STF – “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+A propósito:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALABURIDADE. DIREITO A PERCEPÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - Ausência de prequestionamento das questões constitucionais suscitadas. Incidência da Súmula 282/STF. Ademais, não havendo embargos declaratórios para suprir essa omissão, é inviável o recurso, nos termos da Súmula 356/STF. II - E inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, uma vez que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo. III - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4o, do CPC)”. (STF - AgR ARE: 1241421 AP - AMAPÁ 0005387-76.2016.8.03.0001, Relator: Min. RICARDO LEWANDOWSKI, Data de Julgamento: 04/05/2020, Segunda Turma, Data de Publicação: DJe-118 13-05-2020)
+No caso dos autos, a tese legal apontada, qual seja, a violação ao artigo 1.014, do CPC, não foi ventilada pelo acórdão hostilizado, tampouco foi arguida para fins de prequestionamento em sede de embargos de declaração, situação que obsta o seu exame pelo Superior Tribunal de Justiça e impede a admissão do recurso nesse quesito.
+Necessidade de identificação do dispositivo legal violado (Súmula 284 do STF)
+Como é cediço, na interposição do Recurso Extraordinário, é necessário que as razões recursais sejam redigidas com fundamentações precisas, com a devida identificação do suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF:
+Súmula 284/STF: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES. CONTRATO DE CESSÃO DE COTAS. ENRIQUECIMENTO ILÍCITO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 5 E 7 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SUMULA 284 DO STF. AGRAVO INTERNO NÃO PROVIDO. 1. O Tribunal de origem, amparado nos elementos fático-probatórios dos autos, concluiu que não restou caracterizado o enriquecimento ilícito dos requeridos, não estando configurada a hipótese de restituição de valores prevista no artigo 884 do Código Civil de 2002. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame de fatos, provas, e do contrato social, o que é vedado em sede de recurso especial, em razão dos óbices das Súmulas 5 e 7 do STJ. 2. A parte recorrente não demonstrou, de forma direta, clara e particularizada, como o acórdão recorrido violou cada um dos dispositivos de lei federal apontados, o que atrai, por conseguinte, a aplicação da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". 3. Agravo interno não provido.”
+(STJ - AgInt no AgInt nos EDcl no AREsp: 1582646 SP 2019/0273048-3, Relator: Ministro LUIS FELIPE SALOMÃO, Data de Julgamento: 06/10/2020, T4 - QUARTA TURMA, Data de Publicação: DJe 16/10/2020)
+“PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. VIOLAÇÃO DO ART. 557, § 1o, DO CPC/73. INEXISTÊNCIA. SÚMULAS 282, 356 E 284 DO STF.
+1. Não há de se falar de violação do art. 557, § 1o, do CPC/73 quando o colegiado mantém a decisão por não haver comprovação de efetivo prejuízo da parte.
+2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+4. Agravo interno a que se nega provimento.”
+(AgInt no AREsp n. 461.849/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 2/5/2017, DJe 5/5/2017.)
+Dessa forma, em que pese tenha alegado o recorrente que não há a prescrição do fundo de direito, mas apenas as parcelas vencidas 5 (cinco) anos antes do ajuizamento da ação, não demonstrou de forma precisa e individualizada quais dispositivos restaram supostamente ofendidos, o que faz incidir o óbice sumular supracitado, conduzindo à inadmissão do recurso neste ponto.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V (Súmulas 282, 284 e 356 do STF), do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
