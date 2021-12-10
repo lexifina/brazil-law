@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Fls. 856/858e - Trata-se depetição atravessada porJOAQUIM DE SOUZA GOMES,mediante a qual informa que, em31.03.2020, a Procuradoria Geral da Fazenda Nacional teria formalizadoproposta de acordo de transação extraordinária referente à dívida junto à Receita Federal no valor de R$ 9.766,35 (nove mil setecentos e sessenta e seis reais e trinta e cinco centavos), correspondente à não apresentação do automóvel Chevrolet Corvette, chassi n.1G1YY25U775112139, placas IQK -0321, cadastrado no RENAVAM sob n.911395008, nas dependências da Alfândega da Receita Federal em Porto Alegre.
+Destaca, ainda, ter sido possibilitado oparcelamento da dívida em até 97 (noventa e sete) meses para a integralização do valor total devido.
+Afirma sua intenção de formalizar o acordo entre as partes, realizando, inclusive, o pagamento integral do valor total devido à Fazenda Nacional, porém, com algumas ressalvas, já quedeseja possuir a segurança de que, ao consentir com o pagamento nos termos da mencionada proposta, tal acordo dará fim definitivo e absoluto em qualquer tipo de nova cobrança fiscal que venha a ser realizada no tocante à importação do veículo em referência, bem como que opagamento da multa garanta quenão haverárisco de perdimento novamente.
+Por fim, requera intimação da Procuradoria Geral da Fazenda Nacional para que a mesma se manifeste acerca das condições impostas para prosseguimento do acordo, quais sejam, o fim definitivo e absoluto de todo e qualquer tipo de cobrança fiscal que venha a ser taxado no tocante à importação do veículo, bem como não haver, nunca mais, o risco de perdimento do veículo.
+Feito breve relato, decido.
+Observo que, nos termos dos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 253, II, a, do RISTJ, conheci doAgravo para não conhecer do Recurso Especial, interposto pelo ora Requerente, pela incidência, por analogia, a Súmula n. 284 do Supremo Tribunal Federal, tanto para alínea a quanto para a c, do permissivo constitucional (fls. 814/816e).
+Opostos embargos de declaração (fls. 822/833e), foram rejeitados(fls. 849/854e), cuja decisão foi disponibilizada no Diário de Justiça Eletrônico/STJ,em 13.04.2020, e considerada publicada em 14.04.2020 (certidão de fl. 855e).
+Em sequência o Agravante atravessou a mencionada petição de fls. 856/858e.
+Conforme consignado na decisão de fls. 814/816e, o Recurso Especial foi interposto contra acórdão da 2ª Turma do Tribunal Regional Federal da 4ª Região, que, por unanimidade, negou provimento à apelação, assim ementado(fl. 636e):
+IMPORTAÇÃO DE VEÍCULO. PENA DE PERDIMENTO.FATURA COMERCIAL. FALSIDADE MATERIAL. MULTA.EMBARAÇO À FISCALIZAÇÃO ADUANEIRA.
+1. Demonstrada a falsificação material da fatura comercial que instruiu a declaração de importação, além do subfaturamento, cabível a aplicação da pena de perdimento das mercadorias, nos termos do art. 105 do Decreto-Lei nº 37, de 1966.
+2. Aplica-se pena de multa de R$ 5.000,00 a quem, por qualquer meio ou forma, omissiva ou comissiva, embaraçar, dificultar ou impedir ação de fiscalização aduaneira (art. 107, IV, alínea "c", do Decreto-Lei 37, de 1966).
+Assim, diante do não conhecimento do Recurso Especial, o mencionado provimento jurisdicional da Corte a quarestou inalterado, no qual, reitere-se, restaram mantidas a pena de perdimento e a aplicação de multa.
+Desse modo, a eventual adesão àproposta de transação extraordinária não teria o condão de influir na pena de perdimento mantida pelo Tribunal de origem, e sequer analisada por esta Corte, em razão da incidência de óbices de admissibilidade, razão pela qual não pode ser apreciados os requerimentos formulados às fls. 856/858e.
+Posto isso,NÃO CONHEÇOdo pedido de fls. 856/858e.
+Publique-se e intimem-se.
