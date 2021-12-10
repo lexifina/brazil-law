@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. SÚMULA 7/STJ.DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Para afastar o entendimento a que chegou o Tribunal de origem, de modo a albergar as razões sustentadas no especial, especialmente quanto às assertivas de que não foram realizadas todas as buscas necessárias antes da decretação da suspensão da execução e, ainda, de que "o Estado sequer teve ciência do que estava havendo no processo e em nenhum momento teve a oportunidade de se manifestar" (e-STJ, fl. 91), é necessário o revolvimento do acervo fático-probatório dos autos, providência inviável em recurso especial, considerado o óbice do enunciado 7 da Súmula do STJ respectivamente: "A pretensão de simples reexame de prova não enseja recurso especial.".
+2. Pacífica a jurisprudência desta Corte de que a incidência do enunciado7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado pelo Estado do Ceará contra decisão quenão conheceu do recurso especial (e-STJ, fls. 124-127).
+O insurgente aduz, em suma,inaplicável o óbice do verbete 7 da Súmula do STJ. No aspecto, assevera (e-STJ, fl. 134):
+A intenção do Agravante não é discutir as premissas fáticas dos autos, mas sim a adequação desses fatos que deram base ao acórdão recorrido pelo especial. Ou seja, diante da moldura fática do acórdão e a ausência de comprovação de que ocorreram todas as tentativas de busca é que resta demonstrado que não há como incidir a Súmula 7/STJ no presente caso.
+A agravada não apresentou contraminuta (e-STJ, fl. 139).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. SÚMULA 7/STJ.DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Para afastar o entendimento a que chegou o Tribunal de origem, de modo a albergar as razões sustentadas no especial, especialmente quanto às assertivas de que não foram realizadas todas as buscas necessárias antes da decretação da suspensão da execução e, ainda, de que "o Estado sequer teve ciência do que estava havendo no processo e em nenhum momento teve a oportunidade de se manifestar" (e-STJ, fl. 91), é necessário o revolvimento do acervo fático-probatório dos autos, providência inviável em recurso especial, considerado o óbice do enunciado 7 da Súmula do STJ respectivamente: "A pretensão de simples reexame de prova não enseja recurso especial.".
+2. Pacífica a jurisprudência desta Corte de que a incidência do enunciado7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto.
+3. Agravo interno a que se nega provimento.
+VOTO
+O interessado não trouxe fundamentos aptos a desconstituir o pronunciamento impugnado.
+Conforme reconhecido na decisão monocrática, para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as razões sustentadas no especial, especialmente quanto às assertivas de que não foram realizadas todas as buscas necessárias antes da decretação da suspensão da execução e, ainda, de que "o Estado sequer teve ciência do que estava havendo no processo e em nenhum momento teve a oportunidade de se manifestar" (e-STJ, fl. 91), é necessário o revolvimento do acervo fático-probatório dos autos, providência inviável em recurso especial, considerado o óbice do enunciado 7 da Súmula do STJ respectivamente: "A pretensão de simples reexame de prova não enseja recurso especial.".
+Nesse sentido, destaco o seguinte trecho do acórdão recorrido (e-STJ, fl. 77):
+Extrai-se da leitura do referido artigo, que o legislador ao prever que o Juiz suspenderá o curso da execução, enquanto não for localizado o devedor ou encontrados bens sobre os quais possa recair a penhora, possibilitou a suspensão do feito fiscal pelo julgador a depender da situação em que se encontre o processo, dispondo de alternâncias e, estando uma delas preenchida, poderá aplicar a referida suspensão. No caso, o Juiz da causa determinou a citação do devedor, todavia esse não foi localizado. Posteriormente, houve sua citação por edital, transcorrendo in albis o prazo para manifestação, configurando, assim, motivo para a suspensão da Ação de Execução Fiscal.
+No mesmo sentido da decisão agravada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. PREENCHIMENTO DOS REQUISITOS À APLICAÇÃO IMEDIATA DO ART. 40 DA LEI 6.830/80. PREMISSA DE QUE NÃO FORAM ENCONTRADOS BENS SOBRE OS QUAIS POSSA RECAIR A PENHORA. REVISÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBLIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. O comando do art. 40 da LEF, que prevê hipótese de suspensão daexecução fiscal, pressupõe a existência de devedor não localizado ou que não foram encontrados bens sobre os quais possa recair a penhora.
+3. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu pela possibilidade de aplicação do art. 40 da Lei 6.830/80, porquanto "configurado um dos requisitos do mencionado dispositivo, que é a não localização dos bens sobre os quais possa recair a penhora" (fl. 570, e-STJ).
+4. Resolvido o litígio à luz da premissa de que não foram encontrados bens sobre os quais possa recair a penhora, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.615.787/PE, relator MinistroHERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/8/2016, DJe de 9/9/2016).
+Por fim, com relação à alegada divergência jurisprudencial,o mesmo impedimento aplicável ao recurso interposto com base na alínea "a" - no caso, enunciado 7 da Súmulado STJ -impede a análise do recurso especial manejado com suporte na alínea "c" do permissivo constitucional.
+No aspecto:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO POPULAR. CERCEAMENTO DE DEFESA. REVISÃO DE PROVAS. SISTEMA DE PERSUASÃO RACIONAL. FORMAÇÃO DE LITISCONSÓRCIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. PREJUÍZOS CAUSADOS AO ERÁRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DO ENUNCIADO DA SÚMULA 7 DO STJ.
+1. Rever o entendimento do Tribunal de origem, no tocante à não ocorrência de cerceamento de defesa do direito dos agravados, implica o imprescindível reexame das provas constantes dos autos, o que é defeso em recurso especial, ante o que preceitua a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial.".
+2. Esta Corte já se manifestou no sentido de que, no sistema de persuasão racional adotado pelo Código de Processo Civil nos arts. 130 e 131, em regra, não cabe compelir o magistrado a autorizar a produção desta ou daquela prova, se por outros meios estiver convencido da verdade dos fatos, tendo em vista que o juiz é o destinatário final da prova, a quem cumpre a análise da conveniência e necessidade de sua produção. O que ocorreu no caso específico.
+3. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+4. O Tribunal de origem entendeu pela existência de prejuízos suportados pela administração, em razão do procedimento realizado pelos agravados, com suporte nas provas dos autos. Incidência da Súmula 7 do STJ.
+5. O apelo extremo fundado na alínea "c" do dispositivo constitucional, é pacífica a jurisprudência desta Corte de que a incidência do enunciado n. 7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.249.277/SP, de minha relatoria, SEGUNDA TURMA, julgado em 16/10/2018, DJe de 22/10/2018).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
