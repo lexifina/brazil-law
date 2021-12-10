@@ -1,0 +1,36 @@
+DECISÃO
+ALESSANDRO CAMPOS JÓE e VANDRESSA RENATA AGUSTONI JÓE (ALESSANDRO e outra) ajuizaram ação de obrigação de não fazer c/c indenização por danos morais contra ALDO LUPO MEDINA (ALDO), alegandoque sua residência faz fundo com o salão de eventos pertencente a ALDO, onde são realizados eventos com um nível de barulho ensurdecedor e funciona sem autorização do poder público. Pleiteia, assim, seja ALDO impedido de promover eventos festivos em qualquer dia e horário, bem como seja condenado ao pagamento de indenização por danos morais.
+Em primeira instância, o pedido foi julgado procedente impondo ao acionado obrigação de não-fazer, para que se abstenha de promover, em seu estabelecimento, eventos com ruído excessivo e sem autorização do poder público, pena de multa de R$ 30.000,00 (trinta mil reais)por evento, revertida aos autores, em caso de descumprimento do preceito, e para condenar o acionado ao pagamento, em beneficio dos autores a importância de R$ 5.000,00 (cinco mil reais), condenando-se ALDO ao pagamento das custas processuais e honorários advocatícios fixados em R$ 2.000,00 (dois mil reais).
+A apelação interposta por ALDO foi desprovidapelo Tribunal de Justiça de São Paulo, acórdão da relatoria do DesembargadorL. G. COSTA WAGNER,assim ementado:
+Apelação. Direito de vizinhança. Ação de obrigação de não fazer c./c. indenização por danos morais. Sentença de procedência. Alegação de barulho, som e ruídos excessivos advindo do imóvel vizinho no qual está instalada empresa de eventos. Citação válida (art. 248, §4º, do CPC). Ausência de contestação. Revelia. Efeitos da revelia bem reconhecidos. Documentos da inicial que comprovam os fatos narrados. Ofícios expedidos que indicam que a empresa de eventos não possui licença da Prefeitura e deve adequar suas instalações devido Laudo Técnico de Ruído. Réu que alega ilegitimidade passiva porque é mero sócio da empresa que emitiria os ruídos, mas não nega ser o proprietário do imóvel no qual está estabelecida a empresada qual é um dos sócios. Réu que não nega os fatos narrados na inicial de que tenha se comprometido a realizar obras no imóvel, atitude típica de proprietário do bem. Direito de vizinhança. Obrigação propter rem, que gera a responsabilidade de qualquer um que tenha relação direta com o imóvel, seja relação de propriedade, seja relação de posse. Precedentes do STJ e TJSP. Não comprovado que houve adequação do local conforme exigido pela Prefeitura. Danos morais bem reconhecidos. Sentença mantida. Honorários majorados. RECURSO DESPROVIDO(e-STJ, fl. 128).
+Inconformada, ALDO manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação doart.345, IV, do NCPC, sob os fundamentos de que(1) na revelia, a presunção de veracidade dos fatos narrados na inicial não se aplica nos casos em que as alegações do autor estiverem em contradição com a prova constante dos autos, e, no caso, na inicial, houve comprovação de que o local tinha licenciamentopara festas(e-STJ, fls. 139/142).
+Foram apresentadas as contrarrazões (e-STJ, fls. 148/153).
+O apelo nobre não foi admitido em virtude de (1) incidência da Súmula nº 7 do STJ(e-STJ, fls. 154/157).
+Nas razões do presente agravo em recurso especial, ALDO afirmou que (1) não há necessidade de análise de provas(e-STJ, fls. 160/163).
+Foi apresentada contraminuta (e-STJ, fls. 166/170).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+CONHEÇO do agravo de ALDO e passo ao julgamento do recurso especial.
+(1) Da incidência da Súmula nº 7 do STJ
+ALDO assevera quena revelia, a presunção de veracidade dos fatos narrados na inicial não se aplica nos casos em que as alegações do autor estiverem em contradição com a prova constante dos autos, e, no caso, na inicial, houve comprovação de que o local tinha licenciamento para festas.
+O tema foi assim analisado no acórdão:
+Não apresentada contestação, correto o reconhecimento da revelia da Apelante.
+Em relação aos efeitos da revelia, foram corretamente reconhecidos, eis que os documentos apresentados na inicial e os ofícios expedidos pelo Juízo, confirmam que a Polícia foi diversas vezes acionadas em razão do excesso de ruído advindo daquele imóvel e a empresa instalada no endereço não possui licença para funcionamento junto à Prefeitura  ..
+ ..
+Acresça-se que, em resposta ao ofício, a Secretaria de Segurança Pública Polícia Militar do Estado de São Paulo, informou que o Auto de Vistoria do Corpo de Bombeiros (AVCB) foi emitido em 22/11/2019 com validade até 19/11/2021 para ocupação de salão de festas (fls. 56).
+Assim, o AVCB é posterior ao ajuizamento da ação (29/10/2019) indicando que o local funcionava de modo irregular. Analisadas as provas e confirmada a ausência de licença de funcionamento, impunha-se o reconhecimento dos efeitos da revelia, ou seja, que os fatos narrados eram verdadeiros(e-STJ,fls. 132/133).
+Assim, rever as conclusões quanto à ausência de licenciamento demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. REINTEGRAÇÃO DE POSSE. ACORDO HOMOLOGADO JUDICIALMENTE. INEXISTÊNCIA DE OFENSA AO ART. 535 DO CPC/73. REEXAME DE PROVA. AUSÊNCIA DE PREQUESTIONAMENTO.INCIDÊNCIA DAS SÚMULAS NºS 7 E 211 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. A desconstituição da premissa estabelecida no acórdão recorrido acerca do cumprimento do acordo e da validade do termo de licenciamento apresentado pressupõe o revolvimento do conjunto fático-probatório, procedimento inviável na via especial em virtude da vedação contida na Súmula nº 7 do STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 788.330/RS, de minha relatoria, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016)
+O recurso, portanto, não mereceser conhecido quanto ao ponto.
+Nessas condições, CONHEÇOdo agravo para NÃOCONHECERdo recurso especial.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de ALESSANDRO e outra,limitados a 20%, nos termos do art. 85, § 11, do NCPC, devendo ser observada a concessão dos benefícios da justiça gratuita.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC.AÇÃO DE INDENIZAÇÃO. APELAÇÃO. CASA DE FESTAS. REVELIA. LICENCIAMENTO.REANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
