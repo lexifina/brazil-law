@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE CURITIBA (PR), suscitante, e o JUÍZO DE DIREITO DA 1ª VARA DE BALNEÁRIO PIÇARRAS (SC), suscitado, no âmbito de açãoajuizada por RECICLE CATARINENSE DE RESÍDUOS LTDA contra o espólio de IRMGARD INGE BRONZEL LIPINSKI, para cobrar taxa de coleta de lixo relativa a imóvel localizado na cidade de Penha (SC).
+O Juízo suscitado aduziu o seguinte (fls. 189-190):
+Trata-se de Ação de Cobrança proposta por Recicle Catarinense de Resíduos Ltda envolvendo Tarifa de Coleta de Lixo em imóvel localizado nesta Comarca.
+Ocorre que, conforme endereço constante na petição do acordo ev 57, a parte requerida reside na cidade de Curitiba, Estado do Paraná. Nos termos da jurisprudência (em sentido contrário):
+ ..
+Assim, não possuindo natureza tributária os valores cobrados, sendo espécie de preço público exigido por empresa prestadora de serviço público (concessionária ou permissionária), incide na espécie as normas do Código de Defesa do Consumidor (TJSC, Agravo de Instrumento 4010259-50.2017.8.24.0000, Relator Desembargador Luiz Fernando Boller), inclusive com possibilidade de o magistrado declinar de ofício dacompetência para o foro de domicílio do consumidor.
+Sobre o assunto, transcrevo como razões de decidir:
+O magistrado pode, de ofício, declinar de sua competência para o juízo do domicílio do consumidor, porquanto a jurisprudência do STJ reconheceu que o critério determinativo da competência nas ações derivadas de relações de consumo é de ordem pública, caracterizando-se como regra de competência absoluta. (STJ, Recurso Especial 1.032.876, Relator Ministro João Otávio de Noronha).
+Ademais, o artigo 46 do Código de Processo Civil dispõe que a ação fundada em direito pessoal ou em direito real sobre bens móveis será proposta, em regra, no foro de domicílio do réu.
+ISSO POSTO, reconheço de ofício a incompetência deste Juízo, nos termos do artigo 64, parágrafo 1º, do Código de Processo Civil, e determino a remessa dos autos à Comarca de Curitiba, Estado do Paraná.
+O Juízo suscitante sustenta (fls. 5-6):
+Inobstante o respeitável posicionamento, entendo ser inadmissível a declinação, de ofício, de competência pelo Juízo.
+Isso porque no caso ora em análise a coleta de lixo remunerada por tarifa tem sua cobrança justificada na utilização, efetiva ou potencial, do serviço público prestado ou posto à disposição do contribuinte, de modo que inexiste relação jurídica entre o usuário e o concessionário apta a caracterizar a relação consumerista. Isto é,não se verifica a adesão voluntária do contribuinte com a prestação de serviços, havendo, pois, a imposição de contribuição do usuário pelo serviço público prestado/oferecido.
+Nesse prisma, afastando-se a relação de consumo, verifica-se ser incabível o declínio ex officio pelo Juízo de competência territorial de natureza relativa, nos termos da Súmula nº 33 do col. STJ: "A incompetência relativa não pode ser declarada de ofício.".
+A respeito do tema, aliás, foi a compreensão do Excelentíssimo Ministro OG FERNANDES do STJ em caso semelhante, no julgamento do Conflito de Competência n.168.656/PR, que assim ponderou:
+"Como percucientemente salientou o Parquet Federal, no parecer da lavra do Subprocurador-Geral da República Aurélio Virgílio Veiga Rios, "os serviços públicos remunerados por tarifas ou preços públicos possuem como característica a voluntariedade da adesão, com sua exclusiva cobrança apenas nas hipóteses de adesão do usuário. Diversamente, no caso posto sob análise, a cobrança se faz justificada na utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, postos à disposição do contribuinte. Inexiste, portanto, relação jurídica entre o usuário e o concessionário, o que impede a aplicação das normas consumeristas" (e-STJ, fl. 264). Tratando-se, pois, de competência territorial de natureza relativa, não poderia o Juízo suscitado decliná-la de ofício. O caso é de aplicação da Súmula 33 desta Corte: "A incompetência relativa não pode ser declarada de ofício." (..) Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 2ª Vara Cível de São José/SC, o suscitado."
+ ..
+Como se vê, induvidoso que o presente feito deve ter continuidade no Juízo da 1ª Vara Cível da Comarca de Balneário de Piçarras/SC, razão pela qual suscito o conflito negativo de competência, com amparo no art. 66, inc. II, do CPC.
+Opinou o Ministério Público Federal (fls. 221-225) pela aplicação da Súmula 33/STJ e o consequente reconhecimento da competência do Juízo suscitado.
+É o relatório. Decido.
+Como bem observou a douta Subprocuradora-Geral da República, tratando-sede competênciaterritorialde naturezarelativa,não poderia o Juízo suscitado decliná-la de ofício. O caso é de aplicação da Súmula 33 desta Corte: "A incompetênciarelativanão pode ser declarada de ofício."
+Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. ALVARÁ JUDICIAL.LEVANTAMENTO DE VALORES DEPOSITADOS NO PROGRAMA DE INTEGRAÇÃO SOCIAL - PIS. MORTE DO TITULAR DA CONTA. INCOMPETÊNCIA RELATIVA. PRINCÍPIO DA PERPETUATIO JURISDICTIONIS. AUSÊNCIA DA OPOSIÇÃO DA EXCEÇÃO DECLINATÓRIA DO FORO. SÚMULA 33 DO STJ.
+1. O conflito negativo de competência ocorre no momento em que dois ou mais juízes declaram-se incompetentes em ato jurisdicional válido. Desta sorte, é mister verificar se a lei admite que o Juiz se declare incompetente.
+2. A incompetência relativa deve ser arguida por meio de exceção, não podendo ser declarada de ofício. Incidência da Súmula 33/STJ, segundo a qual: "a incompetência relativa não pode ser declarada de ofício".
+3. Na hipótese, a ação foi proposta no foro de domicílio dos sucessores do instituidor da conta vinculada do PIS/Pasep.
+4. Conflito conhecido para declarar competente o Juízo de Direito da 5ª Vara de Família e Sucessões de Santo Amaro/SP.
+(CC 102.965/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 25/03/2009, DJe 06/04/2009).
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço dopresente conflitopara declarar competente o Juízo suscitado ou seja, o JUÍZO DE DIREITO DA 1ª VARA DE BALNEÁRIO PIÇARRAS (SC).
+Publique-se. Intimem-se.
