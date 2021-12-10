@@ -1,0 +1,10 @@
+DECISÃO
+THAIS BARAO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 2246778-78.2021.8.26.0000, em que foi mantida a negativa do recurso em liberdade.
+Depreende-se dos autos que "a paciente foi condenada à pena total de 08 anos de reclusão, em regime inicial fechado, e ao pagamento de 510 dias-multa, porque incursa no artigo 33, caput, da Lei Antidrogas e artigo 16, parágrafo único, inciso IV, da Lei nº 10.826/2003 e na r. sentença foi indeferido à paciente o direito de apelar em liberdade" (fl. 106).
+Na senteça condenatória, o Juízo singular salientou ser necessária a amanutenção da medida cautelar máxima. Desde o decreto preventivo, já havia assentado ser premente "considerar a natureza e quantidade dos produtos entorpecentes apreendidos, bem como a maneira como encontrados (quarenta porções de crack, duas porções do mesmo produto, sem embalagem fracionária (granel), com peso de 447,37g), ao lado dos apetrechos comumente utilizados para o respectivo acondicionamento (vinte eppendorfs vazios), o que, de acordo com a experiência forense, destoa daquela localizada com o mero viciado" (fl. 41, sublinhei).
+A esse respeito, friso que a quantidade da droga apreendida é circunstância que, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, pode evidenciar a prática habitual da conduta ilícita e, assim, denotar a gravidade em concreto do delito pratica, de modo a salientar a necessidade de imposição da medida cautelar extrema.
+Confira-se:
+ ..
+2. Hipótese em que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, uma vez que o agente foi preso em flagrante na posse de 330g de crack, além de balança de precisão, embalagem para droga e dinheiro em espécie  ..  (AgRg no HC n. 693.201/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 29/11/2021).
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o recurso em habeas corpus.
+Publique-se e intimem-se.
