@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Eudálio Monteiro da Silva Filho - preso temporariamente em 17/6/2020, pela prática, em tese, do crime de tráfico de drogas e associação para o tráfico -, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo, que denegou a ordem no HC n. 2157975-56.2020.8.26.0000 (fls. 46/51), mantendo a segregação cautelar imposta pelo Juízo de Direito da 2ª Vara Criminal da comarca de Guararapes/SP (Processo n. 1500270-77.2020.8.26.0218 - fls. 96/100).
+Alega o impetrante, em síntese, constrangimento ilegal suportado pelo ora paciente em razão da ausência dos requisitos legais autorizadores da prisão temporária.
+Ressalta, ademais: (i)as condições pessoais de favorabilidade para a concessão de liberdade provisória; (ii) a ausência dos pressupostos previstos no art. 312 do Código de Processo Penal; (iii)a inconstitucionalidade da vedação de liberdade provisória no crime de tráfico de drogas; (iv)a excepcionalidade do momento em que vivenciamos em decorrência da pandemia do coronavírus (Covid-19) e o risco de contágio no estabelecimento carcerário, sendo mais adequada a sua migração para a prisão domiciliar; e (v) a possibilidade, in casu, da aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+Requer, assim (fls. 44/45):
+ ..  seja LIMINARMENTE CONCEDIDA a ordem de HABEAS CORPUS, para revogar a prisão temporária, e ou conceder ao paciente o benefício de aguardar em liberdade o desenrolar de seu processo, mediante termo de comparecimento a todos os atos, decidindo pela revogação da prisão temporária, bem como liberdade provisória imposta ao paciente em virtude da ausência dos requisitos necessários a sua manutenção, e ou prisão domiciliar, a fim de que seja efetuada a medida de isolamento adequado, bem como para o enfrentamento emergencial de saúde pública de importância internacional decorrente do Coronavírus, para o fim de colocar em liberdade sendo expedido Alvará de Soltura, em favor do mesmo.
+Caso se entenda presentes os elementos constantes do art. 312 e 313, do CPP, que se aplique LIMINARMENTE, e ou no julgamento uma ou mais das MEDIDAS CAUTELARES DIVERSAS DA PRISÃO previstas no art. 319, do Diploma Processual Penal, conforme fundamentação constante do corpo desta petição.
+Ao final sejaCONCEDIDA a ordem, do presente WRIT, seja após o julgamento do mérito, imediatamente o paciente colocado em liberdade e, por corolário, possa continuar normalmente o exercício de suas ocupações habituais, auxiliando os órgãos legais para o deslinde da ação penal.
+ ..
+À fl. 228, assim despachei:
+Antes de tomar qualquer decisão neste writ, solicitem-se informações pormenorizadas ao Juízo de Direito da 2ª Vara Criminal da comarca de Guararapes/SP, no prazo de 72 horas, sobre os fatos alegados na inicial, notadamente se houve pedido específico de substituição da prisão temporária por domiciliar formulado em prol de Eudálio Monteiro da Silva Filho, bem como se ele está inserido no grupo de risco elencado na Resolução n. 62/2020 (informar a idade do ora paciente), juntando-se documentos pertinentes.
+A solicitação deverá ser acompanhada da petição de fls. 3/45.
+Após, devolvam-se os autos para apreciação do pleito liminar.
+Em 19/8/2020, o Magistrado singular noticiou que(fl. 231 - grifo nosso):
+ ..
+O paciente teve sua prisão temporária decretada em 15/6/2020 após representação da autoridade policial por haver indícios razoáveis de que teria praticado o crime de tráfico de drogas.
+Conforme o depoimento de Gabriel Fialho de Camargo e o relatório de investigação da Polícia Civil (fls. 08/09 e 13/15), os elementos indicam de forma satisfatória, ao menos para esse estágio processual, a existência de fundadas razões da autoria dos crimes imputados aos averiguados Arthur, Eudálio e Fabiano, que teriam se associado para a prática do crime de tráfico de drogas nesta cidade, sendo que Arthur seria o responsável pelo gerenciamento da distribuição da droga. Consta ainda que Arthur e o policial Vitor Hugo, em maio deste ano, teriam agredido Gabriel Fialho de Camargo, porque este, quando apreendido anteriormente pela polícia portando um simulacro de arma de fogo, teria denunciado as atividades ilícitas de Arthur. Também Gabriel relata que está sendo ameaçado de morte por Arthur.
+O mandado de prisão foi cumprido em 17/06/2020.
+A autoridade policial representou pela prorrogação da prisão temporária, o quefoi deferido em 13/07/2020.
+Nos autos do IP 1500298-45.2020.8.26.0218, foi decretada a prisão preventiva do paciente em 13/8/2020.
+ ..
+À fl. 235, proferi o seguinte despacho:
+Como nas informações prestadas (fls. 231/32) o Juízo de Direito da 2ª Vara Criminal da comarca de Guararapes/SP nada disse sobre a existência de pedido específico de substituição da prisão temporária por domiciliar formulado em prol de Eudálio Monteiro da Silva Filho, bem como se ele está inserido no grupo de risco elencado na Resolução n. 62/2020 (informar a idade), solicite-se ao Magistrado sob comento que "complemente as informações", no prazo de 72 horas, juntando-se documentos pertinentes.
+Após, devolvam-se os autos para apreciação do pleito liminar.
+Em 31/8/2020, chegaram estas informações complementares (fl. 244 - grifo nosso):
+ ..
+Não há nestes autos pedido específico de substituição da prisão temporária por domiciliar formulado em prol do paciente.
+Informo ainda que o paciente é nascido em 17/6/1996, contando com 24 anos de idade.
+ ..
+Estes autos foram a mim distribuídos por prevenção do HC n. 602.743/SP.
+Indeferi a liminar, em 2/9/2020, sob estas razões (fls. 249/250):
+Desprovida de previsão legal específica (arts. 647 a 667 do CPP),a liminarem sede de habeas corpus, admitida pela doutrina e jurisprudência pátrias, reclama, por certo, a demonstração inequívoca dos requisitos cumulativos das medidas cautelares, quais sejam, o periculum in mora e o fumus boni iuris.
+Relativamente à idoneidade da fundamentação da prisão temporária, cumpre-me, desde logo, anotar, que a referidamatéria está superada, uma vez que já houve a decretação da prisão preventiva do paciente em 13/8/2020, conforme informou o Juízo de primeiro grau competente (fl. 231).
+Quanto às demais alegações, insta crucial registrar que o acórdão hostilizado limitou-se, além da apreciaçãoda prisão temporária,a tecerconsiderações no tocante àpandemia do coronavírus (Covid-19), de modo que, então, somente sobre tal ponto é que recairá o exame da tutela de urgência.
+Sobre o tema, o Tribunal a quo consignou (fls. 50/51 - grifo nosso):
+No tocante à pandemia viral da COVID-19, a despeito de a questão ter sido aventada somente nesta Instância, dada a gravidade da atual conjuntura, impõe-se sua análise assinalando-se desde já, que a questão não justifica a pretensa reversão da custódia cautelarmente imposta. Nesse sentido, considera-se que não há notícias de que o local em que o ora paciente se encontra segregado apresente caso de contaminação pelo COVID-19, ou que o estabelecimento descumpra as recomendações a serem adotadas para os casos suspeitos ou confirmados no âmbito do sistema prisional.
+Tampouco há comprovação de debilidade da saúde física do custodiado ou, de que detenha qualquer predisposição para contaminação, vale dizer, de que integre o grupo de risco.
+No mais, é certo que o Estado vem adotando medidas preventivas contra a propagação do Coronavírus (Covid-19), no âmbito do sistema dos Sistemas da Justiça Penal.
+Convém apontar, conforme último relatório apresentado pela Secretaria de Administração Penitenciária, de 13 de julho de 2020, que a taxa de mortalidade aferida entre os reeducandos está muito abaixo da população em geral, enquanto a recuperação dos enfermos beira os 55% no índice mundial, 60% no brasileiro e no sistema penitenciário paulista 80,67% para os servidores e 89,35% para os presos, numa clara indicação de acerto nas medidas até então adotadas (sic).
+Desse modo, o panorama atual de saúde pública, por si só, não pode justificar a colocação em liberdade ou a transferência para domiciliar daquele que justificadamente se encontra custodiado.
+ ..
+Pois bem. Sob essa moldura, o acórdão hostilizado não ostenta ilegalidade manifesta, perceptível primus ictus oculi, o que exclui o quantum de evidência da plausibilidade jurídica do pedido, necessário ao acolhimento do pleito cautelar initio litis.
+Ao Colegiado cabe, por prudência, o exame do thema decidendum.
+Indefiro, portanto, a liminar.
+Solicitem-se informações à autoridade tida coatora, no prazo de 20 dias, e, com essas, abra-se vista ao Ministério Público Federal.
+Após, devolvam-se os autos.
+Publique-se.
+A autoridade indigitada prestou informações às fls. 254/263.
+O Ministério Público Federal opinou pela prejudicialidade do habeas corpus (fls. 268/270).
+É o relatório.
+Está sob discussão no presente writ: (i) a ausência dos requisitos legais autorizadores da prisão temporária; e (ii) a adequação da prisão domiciliar, ante o risco de contágio pelo novo coronavírus (Covid-19) no estabelecimento carcerário.
+Como já dito por ocasião da análise do pleito liminar e agora redito, relativamente à idoneidade da fundamentação da prisão temporária a matéria está superada, uma vez que já houve a decretação da prisão preventiva do paciente em 13/8/2020, conforme informação prestada pelo Magistrado singular competente (fl. 231).
+Quanto à prisão domiciliar em razão da pandemia do novo coronavírus (Covid-19), o acórdão hostilizado consignou o seguinte (fls. 50/51):
+No tocante à pandemia viral da COVID-19, a despeito de a questão ter sido aventada somente nesta Instância, dada a gravidade da atual conjuntura, impõe-se sua análise assinalando-se desde já, que a questão não justifica a pretensa reversão da custódia cautelarmente imposta. Nesse sentido, considera-se que não há notícias de que o local em que o ora paciente se encontra segregado apresente caso de contaminação pelo COVID-19, ou que o estabelecimento descumpra as recomendações a serem adotadas para os casos suspeitos ou confirmados no âmbito do sistema prisional.
+Tampouco há comprovação de debilidade da saúde física do custodiado ou, de que detenha qualquer predisposição para contaminação, vale dizer, de que integre o grupo de risco.
+No mais, é certo que o Estado vem adotando medidas preventivas contra a propagação do Coronavírus (Covid-19), no âmbito do sistema dos Sistemas da Justiça Penal.
+Convém apontar, conforme último relatório apresentado pela Secretaria de Administração Penitenciária, de 13 de julho de 2020, que a taxa de mortalidade aferida entre os reeducandos está muito abaixo da população em geral, enquanto a recuperação dos enfermos beira os 55% no índice mundial, 60% no brasileiro e no sistema penitenciário paulista 80,67% para os servidores e 89,35% para os presos, numa clara indicação de acerto nas medidas até então adotadas (sic).
+Desse modo, o panorama atual de saúde pública, por si só, não pode justificar a colocação em liberdade ou a transferência para domiciliar daquele que justificadamente se encontra custodiado.
+ ..
+Pois bem. O inconformismo, nesse ponto, não merece acolhimento.
+Dúvidas não há de que, ante a crise de pandemia mundialmente causada pelo novo coronavírus(Covid-19) e, especialmente, a gravidade do quadro nacional, intervenções e atitudes mais ousadas sãodemandadas das autoridades públicas, inclusive do Poder Judiciário.
+Entretanto, tais atitudes devem ser tomadas em conformidade com aRecomendação n. 62/2020 do Conselho Nacional de Justiça, que orienta aos magistrados com competência para a fase de conhecimento que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, reavaliem as prisões provisórias.
+No que concerneà aplicação da Recomendação CNJ n. 62/2020, ressalte-se que esta Corte Superior firmou o entendimento de que o risco trazido pela propagação da Covid-19 não é fundamento hábil a autorizar a revogação automática de toda custódia cautelar, sendo imprescindível, para tanto, que haja comprovação de que o réu se encontra inserido na parcela mais suscetível à infecção, bem comoque haja possibilidade da substituição da prisão preventiva imposta (HC n. 578.982/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 29/6/2020). Confiram-se, também, o AgRg no RHC n. 127.112/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/6/2020; e o HC n. 575.241/SP, Ministra Laurita Vaz, Sexta Turma, DJe 3/6/2020.
+Para tanto, é necessária a demonstração de que o paciente preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à Covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/5/2020).
+No caso, verifica-se dos trechos supramencionados que o Tribunal estadual afirmouque, até o momento, não há provas de que opaciente faça parte do grupo de risconemque o local onde se encontra segregado apresente caso de contaminação pelo novo coronavírus (Covid-19), tampouco que o estabelecimento esteja descumprindo as recomendações a serem adotadas para os casos suspeitos ou confirmados no âmbito do sistema prisional(fls. 50/51).
+Portanto, eventual conclusão no sentido da ilegalidade na manutenção da segregação,à luz da referida recomendação, depende da análise das condições do estabelecimentoprisional em si (art. 4º, I,b, da Recomendação n. 62/CNJ).
+A propósito, os seguintes precedentes: AgRg no no HC n. 694.864/SP, Ministra Laurita Vaz, Sexta Turma, DJe 4/11/2021; AgRg no HC n. 693.696/MS, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 28/10/2021; AgRg no HC n. 618.772/SP, Ministra Laurita Vaz, Sexta Turma, DJe 25/10/2021; e HC n. 667.457/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 8/10/2021.
+Nesse contexto, não verifiquei o alegado constrangimento ilegal sustentado peloimpetrante.
+Ante o exposto, julgo parcialmente prejudicado o presente writ e, no mais, denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO TEMPORÁRIA. TESE DE INIDONEIDADE DA FUNDAMENTAÇÃO. SUPERVENIÊNCIA DE PRISÃO PREVENTIVA. PERDA DE OBJETO. PRISÃO DOMICILIAR. RISCO DE CONTÁGIO PELO NOVO CORONAVÍRUS (COVID-19) NO ESTABELECIMENTO PRISIONAL. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. PACIENTE NÃO INSERIDO NA EXCEPCIONALIDADE. CONSTRANGIMENTO ILEGAL AUSENTE.
+Writ parcialmente prejudicado e, no mais, denegada a ordem.
