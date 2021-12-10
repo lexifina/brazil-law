@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de consulta sobre aprevençãoalegada pelo Município deDiadema,em razão de ter sido a mim distribuído o AREsp 1.209.825-SP, no qual proferi decisão, mantida pela Turma em acórdão contra o qual foram opostos embargos de divergência que aguardam o julgamento da Corte Especial.
+Trata-se, no presente caso, de recurso com origem no pedido individual de cumprimento da sentença proferida na ação nº 0007455-34.1994.8.26.0161, ajuizada pelo Sindicato dos Funcionários Públicos do Município deDiadema(SINDEMA) para cobrar diferenças nos vencimentos dos substituídos, relativas ao índice ICV-DIEESE.
+Discute-se aqui, tal como naquele outro recurso, sobre a prescrição da pretensão executória diante do ajuizamento de ação rescisória contra o título judicial e, incidentalmente, de medida cautelar que suspendia as execuções coletiva e individuais. Tal questionamento poderá se reproduzir em tantos quantos forem os recursos que cheguem a esta Corte com origem na mesma demanda.
+Sabe-se que a competência dos órgãos julgadores do STJ, ou seja, a competência interna da Corte, é relativa. Bem por isso, e ainda porque, conforme a orientação traçada pela Presidência desta Corte para os trabalhos da Secretaria Judiciária, no Despacho Administrativo n. 1.153.690, a interpretação do art. 71 do RISTJ deve ser feita de acordo com a jurisprudência consolidada do STJ, que não reconhece interesse a justificar aprevençãopara o julgamento das execuções individuais advindas de ação coletiva.
+A propósito, ver, entre outros: PET no AGRAVO EM RECURSO ESPECIAL Nº 1.408.793 - RJ, Relatora Ministra Assusete Magalhães; PET no AREsp 1447346, Relator Ministro Francisco Falcão.
+Assim sendo, rejeito a alegadaprevenção.
+Devolvam-se os autos ao Exmo. Min. Og Fernandes com as homenagens de estilo.
+Publique-se. Intimem-se.
