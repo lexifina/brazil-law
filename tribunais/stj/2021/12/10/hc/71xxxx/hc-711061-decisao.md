@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor deJULIANA LOPES APOLINARIOapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Apelaçãon. 1515770-22.2021.8.26.0228).
+Depreende-se dos autos que a paciente foi condenada à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicialmente fechado, e ao pagamento de 680 dias-multa, pela prática do crime do art. 33,caput, da Lei n. 11.343/2006 (tráfico de drogas), tendo em vista a apreensão de aproximadamente 10g (dez gramas) de cocaína e 39g (trinta e nove gramas) de maconha- e-STJ fl. 42.
+A apelação criminal manejada pela defesa foi parcialmente provida, a fim de afastar a circunstância agravante do art. 61, II, alíneaj, do Código Penal, sem reflexo na sanção definitiva cominada na sentença.
+Daí o presente writ, no qual sustenta a defesa ilegalidade na segunda etapa da dosimetria da pena, uma vez que a Corte de origem afastou a circunstância agravante da calamidade pública, porém deixou de proceder à integral compensação entre a reincidência e a atenuante da confissão espontânea.
+É, em síntese, o relatório.
+Decido.
+Preliminarmente, cumpre salientar que é competência do relator, em decisão in limine, aplicar jurisprudência pacífica do colegiado, conforme expressamente dispõem os incisos XVIII e XX do art. 34 do Regimento Interno do Superior Tribunal de Justiça, bem como julgados nesse sentido das turmas criminais desta Corte (vide AgRg no HC n. 622.778/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 10/12/2020; AgRg no HC n. 622.822/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/11/2020).
+Acerca da controvérsia, consta que o Tribunal de origem deu provimento ao recurso do Ministério Público estadual, a fim de readequar a dosimetria da pena nos seguintes termos (e-STJ fl. 35):
+Por outro lado, não há que se compensar a reincidência da acusada (processo n.0005297-18.2012 fls. 119/122) com a atenuante da confissão espontânea, visto que, nos termos do artigo 67, do Código Penal, a primeira prepondera sobre a segunda, observando-se que a confissão é ato posterior ao cometimento do crime, não tendo qualquer relação com ele, mas, tão somente, com o interesse pessoal e a conveniência da imputada durante o desenvolvimento do processo penal, motivo pelo qual não se inclui no caráter subjetivo das razões determinantes do crime, ou na personalidade do agente, razão pela qual o afastamento da agravante da calamidade pública não resulta em reflexos nas penas finais estabelecidas.
+Esta Corte firmou o entendimento de que a confissão espontânea deve ser compensada com o instituto da reincidência de forma ampla, seja específica ou não, excetuando-se apenas a multirreincidência, conforme se extrai dos seguintes julgados:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. DOSIMETRIA. COMPENSAÇÃO CONFISSÃO E REINCIDÊNCIA ESPECÍFICA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+II - A Terceira Seção deste Superior Tribunal de Justiça, quando do julgamento do habeas corpus n. 365.963/SP, em 11/10/2017, firmou a compreensão da "possibilidade de se compensar a confissão com o gênero reincidência, irradiando seus efeitos para ambas espécies (genérica e específica), ressalvados os casos de multireincidência".
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício. (HC n. 527.517/SP, relator Ministro LEOPOLDO DE ARRUDA RAPOSO, Desembargador convocado do TJPE), QUINTA TURMA, julgado em 12/11/2019, DJe 20/11/2019.)
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO SIMPLES. DOSIMETRIA. CONFISSÃO PARCIAL. POSSIBILIDADE DE RECONHECIMENTO DA ATENUANTE. SÚMULA 545/STJ. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. REINCIDÊNCIA ESPECÍFICA. ÚNICA CONDENAÇÃO. POSSIBILIDADE. CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO. MOTIVAÇÃO CONCRETA. REGIME INICIAL FECHADO. REINCIDÊNCIA E QUANTUM DE PENA APLICADA. FUNDAMENTAÇÃO IDÔNEA. DETRAÇÃO. MATÉRIA NÃO ENFRENTADA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+V - Na hipótese, não obstante seja o paciente reincidente específico, entendo que podem ser compensadas a agravante da reincidência (específica) com a atenuante da confissão espontânea, mormente se considerada a ausência de qualquer ressalva no entendimento firmado por ocasião do julgamento do recurso especial repetitivo sobre o tema.
+ ..
+Ordem concedida de ofício para reconhecer a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, redimensionando a pena do paciente para 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, mantidos os demais termos da condenação. (HC n. 365.963/SP, relator Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 23/11/2017.)
+Na espécie, portanto, evidente o constrangimento ilegal.
+Procedo, assim, à readequação da dosimetria da pena do delito, conservando os parâmetros adotados na origem.
+Na primeira etapa, mantenho a pena-base em 5 anos e 10 meses de reclusão, mais pagamento de 583 dias-multa.
+Na segunda fase, compenso a agravante da reincidência com a atenuante da confissão, permanecendo inalterada a sanção.
+Ausentes causas de aumento ou de diminuição, torno a pena definitiva em 5 anos e 10 meses dereclusão, além do pagamento de 583 dias-multa.
+Por fim, permanece o regime fechado para o início do cumprimento da reprimenda, tendo em vista a reincidência da ré.
+Ante o exposto, concedo a ordem, in limine, para compensar, na segunda etapa da dosimetria, a agravante da reincidência com a atenuante da confissão espontânea e, assim, reduzir a reprimenda da paciente para 5 anos e 10 meses de reclusão, em regime fechado, mais 583 dias-multa, mantidas as demais disposições do acórdão.
+Publique-se. Intimem-se.
