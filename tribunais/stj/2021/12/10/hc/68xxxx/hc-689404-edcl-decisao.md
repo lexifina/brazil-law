@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por HELIO NOSE contra decisão, da minha lavra, assim ementada (fl. 57):
+"HABEAS CORPUS. EXECUÇÃO PENAL. COVID-19. PEDIDO DE PRISÃO DOMICILIAR FUNDADO NA RESOLUÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 605.671/SP. COISA JULGADA. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL."
+Aduz o Embargante que a presente impetração "não se tratade mera reiteração de pedido anterior, visto que os argumentos, documentos e fundamentos jurídicos são completamente diferentes" (fl. 65), poistrouxe documentação médica atualizada, datada de abril de 2021, comprovando ser portador de hipertensão e diabetes, eo presente pedido de prisão domiciliar se alicerça no art. 318, inciso II, do Código de Processo Penal, enquanto o anterior buscava o benefício nos termos da Recomendação n. 62 do Conselho Nacional de Justiça.
+Busca, assim, o provimento dos aclaratórios com efeitos modificativos, concedendo a medida liminar para substituir a prisão preventiva por prisão domiciliar.
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado, bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado.
+No caso, o Embargante não demonstrou, em suas argumentações, a ocorrência de quaisquer das hipóteses legais ensejadoras dos embargos declaratórios.
+Na verdade, o pedido de prisão domiciliar nos termos do art. 318, inciso II, do CPPé inovação recursal, haja vista que nos presentes autos alegou-se o cabimento do benefícionos termos da Recomendação n. 62/CNJ, tendo em vista ser pessoa idosa, com 62 (sessenta e dois) anos de idade, acometido de hipertensão e diabetes, estando preso provisoriamente por delitos praticados sem violência ou grave ameaça à pessoa,nos moldes doacórdão denegatórioimpugnado.
+Destaco que, de acordo com a jurisprudência desta Corte Superior ""é vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso, inovando questões não suscitadas anteriormente"(AgRg no REsp 1.592.657/AM, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/9/2016, DJe 21/9/2016)" (AgRg no HC 665.846/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/09/2021, DJe 04/10/2021; sem grifos no original).
+No tocante à prisão domiciliar, consignou o acórdão impugnado o seguinte (fls. 29-31; sem grifos no original):
+"Trata-se de Habeas Corpusimpetrado por Rafael Garcia Spirlandeli e Jucelio Cruz da Silva, com pedido de liminar, em favor de Helio Nose, buscando possa o paciente responder em liberdade à ação penal.
+Alegam fazer jus ao benefício, nos termos da Recomendação 62, de 17/03/2020, do CNJ, tendo em vista ser pessoa idosa, com 62 anos de idade, acometido de hipertensão, estando preso provisoriamente por delitos praticados sem violência ou grave ameaça à pessoa.
+Sustentam que a decisão da origem, que indeferiu pedido de prisão domiciliar, carece de fundamentação idônea.
+Subsidiariamente, buscam a substituição da prisão por outra medida cautelar.
+ ..
+Consoante as informações prestadas pela autoridade apontada como coatora e documentos que instruem o mandamus, o paciente foi condenado a 15 anos e 10 meses de reclusão, em regime inicial fechado, por infração aos artigos 333, § único, nos termos do artigo 71, ambos do Código Penal, artigo 1º, "caput", c.c. o § 4º, da Lei n. 9.613/98, artigo 2º, "caput", c.c. os §§ 3º e 4º, inciso II, da Lei n. 12.850/2013, bem como a 10 meses de prisão simples, em regime aberto, por incurso no artigo 58, "caput", do Decreto-Lei n. 6.259/44, por diversas vezes.
+O feito está em fase recursal, estando o paciente preso provisoriamente em razão da condenação.
+Em que pese deferida inicialmente a liminar, o caso é de denegação da ordem.
+O paciente permaneceu preso durante a ação penal e foi condenado a penas que ultrapassam 15 anos de reclusão.
+Há que se ter em mente que, se conservada a segregação no decorrer da formação da culpa, é porque se reputaram presentes os motivos ensejadores da medida, situação, em regra, não alterada pela superveniência da condenação.
+Ainda aplicável, portanto, o entendimento de que, se preso provisoriamente durante a instrução, por razões diretamente ligadas à necessidade da sequela da sua liberdade, com muito maior razão deve sermantida a detenção provisória do réu, após a prolação do decreto condenatório. Por outro lado, contudo, se solto aguardou o julgamento, não se entendendo presentes os requisitos justificadores da prisão preventiva, não há motivo para que a prisão processual decorra, unicamente, da condenação (RJDTACRIM 4/156-158).
+ ..
+Diante da necessidade da custódia, evidentemente as medidas cautelares subjetivas revelam-se inadequadas e insuficientes para garantir-se a ordem pública.
+Frise-se, quanto à pandemia do Covid-19, que, apesar da excepcionalidade da atual situação de saúde pública, a impetração não indica concretamente a imprescindibilidade da medida postulada.
+Não se ignora ser o paciente idoso, contudo apresentou receita médica datada de 2017, que não demonstra que sua saúde esteja abalada na atualidade ou até que haja incapacidade de assistência médica ou tratamento no interior da Unidade Prisional.
+Além disso, outros setores do Poder Público têm atribuição e competência para enfrentarem o grave problema, e o estão fazendo."
+De fato, aquestão já foi analisada nos autos do HC n. 605.671/SP, impetrado em favor do Embargante, em decisão,de minha relatoria, confirmada em sede de agravo regimental pela Sexta Turma do Superior Tribunal de Justiça em acórdãotransitado em julgado,no dia 18/12/2020, assim ementado:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.CRIMES DE ASSOCIAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO E CORRUPÇÃO ATIVA. PROCESSUAL PENAL. PRISÃO PREVENTIVA.FURTO. PLEITO DE PRISÃO DOMICILIAR NOS TERMOS DA RECOMENDAÇÃO N. 62/2020 DO CNJ. IMPOSSIBILIDADE.REQUISITOS NÃO ATENDIDOS. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. Não se evidencia ilegalidade no decisum, notadamente porque o Agravante não demonstrou a inviabilidade de receber o tratamento de que necessita no ambiente carcerário. A Recomendação n. 62/2020 do CNJ não orienta a concessão de liberdade indistinta a quaisquer presos, mas sugere a análise individualizada das condições do encarceramento.
+2. Consoante a jurisprudência desta Corte, para ser concedido o pedido de prisão domiciliar, fundamentado na mencionada recomendação, faz-se necessário que o eventual beneficiário do instituto demonstre, cumulativamente:
+"a) sua inequívoca adequação no chamado grupo de vulneráveis do COVID19;
+b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, causa mais risco do que o ambiente em que a sociedade está inserida."(AgRg no HC 561.993/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 04/05/2020), o que não ocorreu no caso.
+3. Agravo regimental desprovido."
+Ademais, ainda que se entenda pela inexistência de reiteração de pedido, pois o pedido de prisão domiciliar nos termos do art. 318 do CPP não se confunde com a concessão do mesmo benefício pela Recomendação n. 62/CNJ, bem como diante da existência de novos laudos médicos sobre o estado de saúde do Embargante,em nada se modifica o entendimento da decisão embargada sobre o indeferimento liminar da petição inicial, uma vez que a matéria destes autos não foi suscitada etampoucoapreciada no julgado de apelação impugnado, impedindo esta Corte Superior de Justiça de se manifestar sob pena de supressão de instância.
+Desse modo, verifica-se que os presentes embargos de declaração foram opostos com o inequívoco intento de viabilizar debate a respeito de assunto que não foi decidido sequer pelo Juízo das Execuções, o que sabidamente não se coaduna com a sua finalidade processual.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. REDISCUSSÃO DE MATÉRIA SUFICIENTEMENTE DECIDIDA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
