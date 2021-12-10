@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRENO GUSTAVO DE OLIVEIRA ARAUJO, contra decisão proferida pelo Desembargador Relator doTribunal de Justiça do Estado de São Paulono HC n. 2259841-73.2021.8.26.0000.
+Consta dos autos que o Juízo da Execução Penal, em decisão proferida no dia 04/11/2021, indeferiu o pleito de livramento condicional do Apenado.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal estadual, cujo pedido liminar foi indeferido.
+Daí o presente mandamus, em que a Parte Impetrante aduz que o Paciente sofre constrangimento ilegal, porquanto estão reunidos os requisitos objetivo e subjetivo, especialmente diante do bom comportamento carcerário, "não tendo praticado falta grave que ensejasse o mau comportamento nos últimos meses" (fl. 5). Salienta que "as faltas disciplinares de natureza grave alegadas pelo juiz a quo, já foram reabilitadas, não ensejando a quebra do requisito subjetivo" (ibidem).
+Requer, liminarmente e no mérito, a concessão do livramento condicional ao Paciente ou, subsidiariamente, "seja aplicada qualquer das medidas cautelares previstas no artigo 319 do Código de Processo Penal" (fl. 9).
+É o relatório.
+Decido.
+Conforme entendimentofirmado pelo Supremo Tribunal Federal e por estaCorte, não se admite habeas corpus contra decisão negativa de liminarproferida em outro writ na instância de origem, sob pena de indevidasupressão de instância.
+É o que está sedimentado na Súmula n. 691 do Supremo Tribunal Federal("Não compete ao Supremo Tribunal Federal conhecer de habeas corpusimpetrado contra decisão do Relator que, em habeas corpus requerido atribunal superior, indefere a liminar"), aplicável, mutatis mutandis, aoSuperior Tribunal de Justiça (v.g.: AgInt no HC 495.842/PR, Rel. MinistraNANCY ANDRIGHI, TERCEIRA TURMA, DJe 16/10/2019; AgInt no HC 486.524/SP,Rel. Ministra ISABEL GALLOTTI, QUARTA TURMA, DJe 07/06/2019; AgRg no HC568.995/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 04/05/2020; AgRgno HC 550.844/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/02/2020).
+Assim, ordinariamente, não pode ocorrer a superação de tal óbiceprocessual, salvo nas hipóteses em que se evidenciar situaçãoabsolutamente teratológica e desprovida de qualquer razoabilidade (porforçar o pronunciamento adiantado da Instância Superior e suprimir ajurisdição da Inferior, em subversão à regular ordem de competências).
+No caso, não verifico patente ilegalidade na decisão proferida pelo Desembargador Relator, que indeferiu o pedido liminar à base da seguinte motivação (fl. 11):
+"Entretanto, são necessárias informações atualizadas a respeito da efetiva situação processual do ora paciente.
+Logo, inviável a concessão da pretensão pela via provisória da decisão liminar, uma vez que não se pode acelerar procedimentos ou reformar decisão judicial referente a incidentes atinentes ao processo de execução.
+A medida liminar em habeas corpus é cabível quando o constrangimento ilegal é manifesto e detectado de imediato, através do exame sumário da inicial, o que não ocorre no presente caso, razão pela qual fica indeferida. Com a vinda das informações, os integrantes da Mesa Julgadora terão mais elementos para decidir a respeito do presente caso.
+É necessário conhecer a efetiva motivação do fato, para que se possa decidir sobre a atual situação do ora paciente.
+Requisitem-se, com urgência, as informações à respectiva vara das execuções acerca do processo de execução, notadamente em relação ao pedido de livramento condicional."
+Como se vê, o pedido liminar foi indeferido sob o fundamento de que são imprescindíveis as prévias informações do Juízo da Execução Penal a respeito do cumprimento da pena imposta ao Paciente, providência que não se mostra carente de razoabilidade. Dessa forma, a matéria não foi examinada na decisão liminar ora impugnada.
+Assim, por não se observar, ao menos primo ictu oculi, nenhumateratologia, não há como superar o óbice processual previsto na Súmula n.691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamenteratificada por julgados do Pretório Excelso e deste Superior Tribunal deJustiça.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RegimentoInterno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petiçãoinicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO QUE INDEFERIUO PEDIDO LIMINAR EM OUTROHABEAS CORPUSNA ORIGEM, AINDA NÃO JULGADO.IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIADE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTEINDEFERIDA.
