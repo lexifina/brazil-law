@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+UNIÃO interpôs agravo interno contra decisão desta Relatoria assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL.PODER DE POLÍCIA. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL.NÃO CARACTERIZADA. RESSARCIMENTO AO SUS. EXPRESSA PREVISÃO NO TÍTULO EXECUTIVO JUDICIAL ACERCA DA LIMITAÇÃO TEMPORAL NO PAGAMENTO DAS DIFERENÇAS ANTERIORES À REESTRUTURAÇÃO DAS TABELAS DO SUS. IMPOSSIBILIDADE DE ALTERAÇÃO EM EMBARGOS À EXECUÇÃO. COISA JU.LGADA. PRECEDENTES. SÚMULA 568/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL
+Alega a agravante, em síntese, que: a)a alegação da limitação dos reajustes a out/99 pode e deve ser invocada em sede de execução/embargos por configurar excesso de execução, sem que tal argumento venha a ferir a coisa julgada; e b)não se operam os efeitos da coisa julgada que impôs uma condenação a ressarcir valor a maior do que o devido - osacórdãos do Superior Tribunal de Justiça, proferidos em recursos especiais oriundos do mesmo título executivo (ação civil pública 1999.71.00.021045-6), já concordaram com a limitação temporal da condenação a outubro de 1999:
+É o relatório.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PODER DE POLÍCIA. RESSARCIMENTO AO SUS. EXPRESSA PREVISÃO NO TÍTULO EXECUTIVO JUDICIAL ACERCA DA LIMITAÇÃO TEMPORAL NO PAGAMENTO DAS DIFERENÇAS ANTERIORES À REESTRUTURAÇÃO DAS TABELAS DO SUS. IMPOSSIBILIDADE DE ALTERAÇÃO EM EMBARGOS À EXECUÇÃO. COISA JULGADA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, a limitação temporal da incidência do índice de 9,56% apenas até 1º/10/1999 (data da Portaria 1.323/99), em sede de embargos à execução, só é possível, sem ofensa à coisa julgada, se a questão temporal não foi expressamente decidida durante o processo de conhecimento, o que não é o caso dos autos, em que houve previsão expressa no título judicial.
+2. Em virtude da expressa previsão no título executivo da aplicação do índice de 9,56% sobre os pagamentos de procedimentos custeados pelo SUS no período compreendido entre 18/08/1999 e 30/11/1999, é que a limitação temporal da aplicação de referido índice não pode ser alterada em sede de embargos à execução, sem ofensa à coisa julgada.
+3. Agravo interno não provido.
+VOTO
+A pretensão recursal não merece acolhimento.
+No caso em apreço, segundo consta da decisão do Juízo a quo, foi expressamente previsto no título executivo judicial a aplicação do índice de 9,56% pelos serviços e procedimentos prestados ao SUS no período de 18/08/1999 e 30/11/1999.
+Nos termos da Jurisprudência do Superior Tribunal de Justiça, a limitação temporal da incidência do índice de 9,56% apenas até 1º/10/1999 (data da Portaria 1.323/99) em sede de embargos à execução só é possível, sem ofensa à coisa julgada, se a questão temporal não foi expressamente decidida durante o processo de conhecimento, o que não é o caso dos autos, em que houve previsão expressa no título judicial.
+Nesse sentido, vejam-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REAJUSTE DA TABELA DO SUS. LIMITAÇÃO TEMPORAL. QUESTÃO DECIDIDA NA AÇÃO DE CONHECIMENTO. REDISCUSSÃO EM EMBARGOS À EXECUÇÃO. INVIABILIDADE. COISA JULGADA. ALTERAÇÃO DA CONCLUSÃO DO TRIBUNAL DE ORIGEM. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Com efeito, o Superior Tribunal de Justiça, no julgamento do REsp 1.179.057/AL, submetido à sistemática dos recursos repetitivos, previsto no art. 543-C do CPC/73, firmou a tese de que o índice de 9,56%, decorrente da errônea conversão em real, somente é devido até 1º de outubro de 1999, data do início dos efeitos financeiros da Portaria 1.323/99, que estabeleceu novos valores para todos os procedimentos.
+2. Todavia, na hipótese dos autos, há determinação expressa no título exequendo (REsp 422.671/RS), quanto ao termo final de incidência do índice de reajuste de 9,56%, relativo ao mês de novembro de 1999, razão pela qual não pode ser alterada no âmbito do Embargos à Execução, sem ofensa à coisa julgada.
+3. Ademais, para modificar a conclusão a que chegou a Corte a quo sobre o limite e o alcance da coisa julgada na hipótese dos autos, é necessário reexame de provas, impossível ante o óbice da Súmula 7 do STJ.
+4. Agravo Interno não provido.
+(AgInt no REsp 1887288/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020)
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. REAJUSTE DA TABELA DO SUS. LIMITAÇÃO TEMPORAL. QUESTÃO EXPRESSAMENTE APRECIADA NO TÍTULO EXECUTIVO. REDISCUSSÃO DA MATÉRIA, EM IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. No acórdão objeto do Recurso Especial, o Tribunal de origem negou provimento a Agravo de Instrumento, interposto, pela parte agravada, contra decisão proferida nos autos de cumprimento de sentença, que acolhera o pedido da União, ora agravante, quanto à limitação temporal, até 01/10/1999, do reajuste de 9,56% sobre os pagamentos relativos aos serviços prestados ao SUS. Na decisão agravada foi dado provimento ao Recurso Especial, a fim de reconhecer a incidência do índice de reajuste de 9,56% até novembro de 1999, conforme estabelecido no título executivo judicial.
+III. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a limitação temporal da incidência do índice de 9,56% apenas até 1º/10/1999 (data da Portaria 1.323/99) em sede de embargos à execução só é possível, sem ofensa à coisa julgada, se a questão temporal não foi expressamente decidida durante o processo de conhecimento" (STJ, AgInt nos EDcl no AREsp 1.457.285/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/08/2020).
+Nesse sentido: STJ, AgInt no REsp 1.812.777/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 02/12/2019; AgInt no REsp 1.660.287/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 07/11/2017; AgRg no REsp 1.405.371/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 04/11/2014.
+IV. No caso, o título executivo foi expresso ao "esclarecer que o pagamento dos reajustes deve ocorrer até novembro de 1999", de modo que a rediscussão da matéria, em impugnação ao cumprimento de sentença, viola a coisa julgada.
+V. Agravo interno improvido.
+(AgInt no REsp 1861864/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 30/11/2020, DJe 09/12/2020)
+Portanto, em virtude da expressa previsão no título executivo da aplicação do índice de 9,56% sobre os pagamentos de procedimentos custeados pelo SUS no período compreendido entre 18/08/1999 e 30/11/1999, é que a limitação temporal da aplicação de referido índice não pode ser alterada em sede de embargos à execução, sem ofensa à coisa julgada.
+Dessa forma, deve ser mantida a decisão recorrida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
