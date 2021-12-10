@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SIMMONS CRISTIMAN DE MELO contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n. 0010751-36.2021.8.26.0996.
+Consta dos autos que, em 22/07/2021, o Juízo das Execuções Penais indeferiu o pedido de retificação dos cálculos formulado pelo Ministério Público, adotando o entendimento de que o marco para a progressão ao regime aberto deveria ser a data em que preenchido o requisito objetivo para progressão ao regime semiaberto.
+Inconformado, o Ministério Público estadual interpôs agravo em execução penal, que foi provido pelo Tribunal local para considerar como data-base para a contagem do lapso para nova progressão de regime a data em que houve a constatação do preenchimento de ambos os requisitos, qual seja, a data em que foi concluído o exame criminológico favorável (fls. 88-91).
+Neste writ, a Impetrante sustenta, em suma, que "a contagem do lapso temporal para a segunda progressão de regime inicia-se na data em que os requisitos da primeira foram atingidos, pois a decisão judicial apenas declara a progressão de regime ao invés de constituí-la, de modo a impedir que eventual demora na elaboração ou análise do pedido progressivo possa prejudicar o jurisdicionado" (fl. 10).
+Requer, em liminar e no mérito, a retificação do cálculo de liquidação das penas para que afastar o entendimento de que o marco inicial para a concessão a progressão ao regime aberto fosse a data do efetivo ingresso do Executado ao regime prisional intermediário.
+É o relatório.
+Decido.
+Verifico que nos autos do HC n. 707.479/SP,o qual impugnou o mesmo acórdão ora em exame, deneguei a ordem de habeas corpus, em decisão publicada no dia 24/11/2021, uma vez que o entendimento adotado pelo Tribunal estadual "está em harmonia com a jurisprudência desta Corte, não havendo nenhum constrangimento ilegal, devendo ser mantida como data-base para a progressão de regime o dia em que realizado o exame criminológico com resultado favorável ao Paciente". Assim, a matéria referente à data-base para a progressão ao regime aberto já foi apreciada naquele feito, tratando-se, portanto, de reiteração de pleito.
+Dessa forma, friso que o presentemandamus está assentado em premissa equivocada, porquanto, ao revés do afirmado, o Tribunal de origem não adotou como "marco inicial para a concessão da progressão ao regime aberto fosse a data do efetivo ingresso do Executado ao regime prisional intermediário" (fl. 11), mas o dia em que preenchido o último dos requisitos.
+Ante o exposto, INDEFIRO LIMINARMENTE o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA PROGRESSÃO DE REGIME. PREENCHIMENTO DO ÚLTIMO DOS REQUISITOS (OBJETIVO E SUBJETIVO). CONCLUSÃO DO EXAME CRIMINOLÓGICO. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 707.479/SP. LISTISPENDÊNCIA. WRIT LIMINARMENTE INDEFERIDO.
