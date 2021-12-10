@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por BANCO FIBRA S.A. contra acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. MAJORAÇÃO DO VALOR DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. ART. 85, § 11, DO CPC/2015. OBSERVÂNCIA DOS PARÂMETROS LEGAIS E DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE.
+AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+Em suas razões, oembargantealega, em síntese, que é "totalmente descabida a absurda penalização do banco, quer seja pela imputação de pagamento de verba honorária em virtude de golpe que sofreu, praticado pelo devedor e pela embargada, que culminou na transferência irregular do bem e desfazimento irregular do patrimônio ante processo de execução de vultoso valor em andamento, quer seja pela descabida majoração dos honorários em 15% pura e simplesmente porque pretendeu ver seu recurso conhecido por esse Egrégio Tribunal Superior, ante os relevantes argumentos que restaram devidamente comprovados" (e-STJ fl. 331). Pugna, ao final, pelo arbitramento de honorários em montante fixo, e não em percentual do valor da causa.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ARTIGO1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARÁTER PROTELATÓRIO.
+EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+VOTO
+Eminentes colegas, os embargos de declaração devem ser rejeitados.
+Nos rígidos limites estabelecidos pelo artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes, quando algum desses vícios for reconhecido.
+No caso sob apreciação, não houve a configuração no aresto ora embargado de qualquer omissão, contradição, obscuridade ou erro material que permitam a oposição dos aclaratórios.
+Da leitura do acórdão embargado, verifica-se que esta Corte Superior expôs, de forma clara e suficientemente fundamentada, os motivos pelos quais entendeu que, no caso concreto, não se vislumbra qualquer irregularidade na majoração do valor dos honorários advocatícios de sucumbência em sede recursal.
+Com efeito, não se analisou o mérito da controvérsia, uma vez que o agravo em recurso especial nem mesmo foi conhecido, mas somente foi aplicado o comando expresso previsto no artigo 85, § 11, do CPC/2015, conforme registrado no seguinte trecho da fundamentação do acórdão embargado:
+"Por fim, no que tange à majoração de 15% (quinze por cento) sobre o valordos honorários advocatícios de sucumbência já arbitrados na origem, não merece acolhimento a insurgência, uma vez que, na decisão agravada, apenas se observou o disposto no art. 85, § 11, do CPC/2015, segundo o qual "o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento"." (e-STJ fls. 321-322).
+Quanto ao pedido de arbitramento de honorários em montante fixo, e não em percentual do valor da causa, trata-se de matéria não veiculada no agravo interno interposto pela parte, mas apenas nos presentes embargos de declaração, representando inviável inovação recursal.
+Ressalta-se, porém, que não se caracterizou ofensa aos princípios darazoabilidade e da proporcionalidade na majoração estabelecidapela Presidência deste Superior Tribunal de Justiça em 15% (quinze por cento) sobre o valor dos honorários advocatícios de sucumbência já arbitrados na origem.
+Assim, verifica-se que os presentes embargos de declaração, sem sequer identificarem precisamente o suposto vício presente no acórdão embargado,apenas traduzem inconformismo com este, pretendendo rediscutir o que já foi decidido somente porque o que restou assentado é contrário ao interesse da parte.
+Nesse contexto, em virtudedo manifesto caráter protelatório dos presentes embargos, aplico, com fulcro no art. 1.026, § 2º, do Código de Processo Civil de 2015, multa de 1% (um por cento) sobre o valor atualizado da causa, advertindo-se para a possibilidade de majoração da multa, em caso de reiteração.
+Ante o exposto, rejeito os embargos de declaração e aplico multa de 1% (um por cento) sobre o valor atualizado da causa.
+É o voto.
