@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por Cargill Agrícola S.A., contra a decisão de minha relatoria, assim ementada:
+TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. RAZOÁVEL DURAÇÃO DO PROCESSO. OFENSA. SÚMULA N. 283/STF. VIOLAÇÃO DO ART. 151 DO CTN. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões recursais, aagravante sustenta que procurou combater os fundamentos do acórdão recorrido, não sendo aplicável o óbice da Súmula n. 283/STF. Ademais,com relação ao art. 151 do CTN, vinculado à tese de impossibilidade de compensação de créditos da agravante com débitos com aexigibilidade suspensa, argumenta que se trata de ponto expressamente destacado no acórdão, bem como foi alvo dos embargos de declaração, de forma que não se poderia falar em ausência de prequestionamento.
+Pugna, por fim, pela reforma da decisão agravada para que seja conhecido e provido o recurso especial.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. RAZOÁVEL DURAÇÃO DO PROCESSO. OFENSA. SÚMULA N. 283/STF. VIOLAÇÃO DO ART. 151 DO CTN. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.A despeito da argumentação do agravo interno, a parte restou inerte nas razões do especial acerca dos fundamentos de decidir do decisium, quais sejam, o prazo legal diz respeito à prática de atos administrativos e não aos depósitos e a necessidade de dotação orçamentária.Súmula n. 283/STF.
+2. Ocumprimento do requisito do prequestionamento se observa com o debate sobre a tese jurídica específica, isto é, com a emissão de juízo de valor sobre determinada norma e a sua aplicabilidade ao caso concreto, não bastando a simples provocação para que a Corte a quo se manifeste, consoante ocorreu nesses autos quando da oposição dos aclaratórios.
+3. Não tendo o aresto combatido se manifestado acerca do art. 151 do CTN, o especial não pode ser conhecido no ponto em virtude da incidência da Súmula n. 211/STJ.
+4. Agravo interno não provido.
+VOTO
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ, segundo a qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Cuida-se, na origem, de mandado de segurança impetrado pela ora agravante pleiteando a determinação do pagamento do saldo creditório objeto de pedidos de ressarcimento.
+No presente, a parte pretende afastar a incidência das Súmulas n. 283/STF e 211/STJ a fim de ver analisado o mérito do especial.
+Primeiramente, no que diz respeito à ofensa ao art.24 da Lei n. 11.457/07, vinculado à tese de ofensa à razoável duração do processo, o acórdão recorrido fundamentou que(e-STJ fls. 277/278):
+O art. 24 da Lei 9784/99 refere-se prática de atos administrativos e não a depósitos, salientando que o imediato ressarcimento de créditos ao contribuinte por meio do creditamento do valor em sua conta bancária, viola o poder-dever da Autoridade Fiscal de imputar o crédito a ressarcir em compensação com débitos desse contribuinte, ato administrativo vinculado da Fazenda Pública, com base no § 1o do art. 7o do Dl 2.287/1986:
+ ..
+Consolidados os créditos do contribuinte, remanesce ao Fisco o direito de os direcionar à compensação de débitos exigíveis a sua escolha. O direito de imputação compete ao Fisco.
+Além disso, em precedente desta Primeira Turma, ao julgar apelação e remessa necessária em mandado de segurança, resolveu que o efetivo ressarcimento dos créditos reconhecidos administrativamente em favor do contribuinte depende de dotação orçamentária:
+ ..  3. O disposto no artigo 24 da Lei n. 9.784/99 não assegura o creditamento no prazo de cinco dias, sendo certo que os casos de restituição ou ressarcimento devem seguir a dotação orçamentária, ressalvando-se que o mandado de segurança não é substitutivo da ação de cobrança. ..
+(TRF4, Primeira Turma, 5004138-36.2016.404.7203, rel. Roger Raupp Rios, j. 8set.2017).
+A despeito da argumentação do agravo interno, a parte restou inerte nas razões do especial acercadosfundamentos de decidir do decisium, quais sejam,o prazo legal diz respeito à prática de atos administrativos e não aos depósitos e a necessidade de dotação orçamentária.
+O excerto colacionado no presente agravo em que a parte supostamente estaria rebatendo os mencionados pontos foi retirado dos embargos de declaração opostos na origem. Entretanto, os fundamentos deveriam ter sido impugnados no recurso especial.
+Inafastável, portanto, o óbice da Súmula n. 283/STF.
+A propósito, os seguintes precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA.REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.RESSARCIMENTO AO ERÁRIO. INATACADO FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1. O Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Nos termos da jurisprudência firmada no âmbito desta Corte de Justiça, a prova tem como destinatário o magistrado, a quem cabe avaliar sua suficiência, necessidade e relevância, de modo que não constitui cerceamento de defesa a mera existência de desacordo entre as premissas suscitadas pela defesa e as conclusões fixadas pela Corte de piso.
+3. A alteração das conclusões adotadas pela Corte de origem quanto à ilegalidade na prestação de contas demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. No que concerne aos valores arbitrados a título de ressarcimento ao erário, observa-se que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, de modo que a pretensão esbarra, pois, no obstáculo da Súmula 283/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 742.152/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/10/2021, DJe 22/10/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL APOSENTADO ANTES DA EC 41/2003.PENSIONISTA. GRATIFICAÇÃO DE QUALIFICAÇÃO. TRIBUNAL DE ORIGEM QUE, COM BASE NAS DISPOSIÇÕES DA PORTARIA 132-DGP/2013, JULGOU PROCEDENTE O PEDIDO. REVISÃO. IMPOSSIBILIDADE, EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. PARIDADE ENTRE ATIVOS E INATIVOS. ARTS. 5º E 40, § 8º, DA CONSTITUIÇÃO FEDERAL. ACÓRDÃO RECORRIDO COM BASE EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. FUNDAMENTO DA CORTE DE ORIGEM INATACADO, NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+ ..
+VI. No caso, ademais, o Tribunal de origem manteve a sentença de procedência da pretensão autoral, no tocante ao mérito, ao fundamento de que "o art. 189, da Lei n.º 8.112/90 garante aos servidores inativos a extensão das vantagens conferidas aos ativos".
+VII. Certa ou errada, tal fundamentação restou incólume, nas razões do Recurso Especial. Portanto, é de ser aplicado o óbice da Súmula 283/STF, por analogia. Precedentes do STJ.
+VIII. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no REsp 1616835/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/10/2021, DJe 22/10/2021)
+Com relação ao malferimento do art. 151 do CTN, a parte limitou-se a argumentar que o acórdão recorrido debateu acerca da questão, mas deixou de destacar o trecho em que a Corte local analisou o dispositivo ou a tese a ele vinculada.
+Ademais, vale destacar queo cumprimento do requisito do prequestionamento se observa com o debate sobre a tese jurídica específica, isto é, com a emissão de juízo de valor sobre determinada norma e a sua aplicabilidade ao caso concreto, não bastando a simples provocação para que a Corte a quo se manifeste, consoante ocorreu nesses autos quando daoposiçãodos aclaratórios.
+Não tendo o aresto combatido se manifestado acerca do art. 151 do CTN, o especial não pode ser conhecido no ponto em virtude da incidência da Súmula n. 211/STJ.
+Colaciono:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DOS ARTS. 505 E 507 DO CPC/2015.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CÁLCULOS DA CONTADORIA JUDICIAL. JUROS E CORREÇÃO MONETÁRIA. PARÂMETROS ADEQUADOS. ALTERAÇÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A alegação de violação dos art. 505 e 507 do CPC/2015 não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, demanda, além da alegação, a discussão e apreciação judicial pelo tribunal de origem. Com efeito, a jurisprudência desta Corte Superior considera que a ausência de enfrentamento pelo tribunal de origem da matéria impugnada, objeto do recurso excepcional, não obstante oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+2. O Tribunal de origem reconheceu que foi desacolhida a impugnação ofertada pelo credor e homologado a conta de liquidação elaborada pelo órgão auxiliar do juízo, estando certos os parâmetros dos juros moratórios e da atualização dos valores atrasados.
+3. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+4. Agravo interno do particular que se nega provimento.
+(AgInt no AREsp 1462196/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 25/10/2021, DJe 27/10/2021)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA CIVIL DO DISTRITO FEDERAL. AVALIAÇÃO PSICOLÓGICA. ELIMINAÇÃO DO CERTAME. SUBJETIVIDADE DOS CRITÉRIOS PREVISTOS NO EDITAL. ALEGADA OFENSA AO ART. 535 DO CPC/73. SÚMULA 284/STF. INEXISTÊNCIA.
+INCONFORMISMO. INFRINGÊNCIA AOS ARTS. 267, I, E 295, I E PARÁGRAFO ÚNICO, II, DO CPC/73. INÉPCIA DA INICIAL. FALTA DE COMANDO NORMATIVO SUFICIENTE PARA INFIRMAR OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO.INCIDÊNCIA DA SÚMULA 284/STF. TESE RECURSAL NÃO PREQUESTIONADA.SÚMULA 211 DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+VI. Por simples cotejo das razões recursais e dos fundamentos do acórdão recorrido, percebe-se que a tese recursal de inépcia da exordial por incoerência lógica, vinculada aos dispositivos tidos como violados  arts. 267, I, e 295, I e parágrafo único, II, do CPC/73  , não foi apreciada, no voto condutor, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem, incidindo o óbice da Súmula 211/STJ.
+VII. Embora o recorrente tenha oposto Embargos de Declaração, em 2º Grau, para fins de prequestionamento dos dispositivos tidos por violados, o Tribunal a quo não decidiu tal questão, incidindo, nesse passo, o óbice da Súmula 211/STJ.
+VIII. Com efeito, "não há contradição em afastar a alegada violação ao art. 535 do CPC/73, e, ao mesmo tempo, não conhecer do recurso, por ausência de prequestionamento, porque é perfeitamente possível o julgado encontrar-se devidamente fundamentado, sem, no entanto, ter decidido a questão à luz dos preceitos jurídicos desejados pela parte, sobretudo diante do brocardo da "mihi factum, dabo tibi jus"" (STJ, AgInt no REsp 1.570.854/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 23/04/2018).
+IX. Agravo interno improvido.
+(AgInt no AgInt no AREsp 965.092/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/10/2021, DJe 22/10/2021)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
