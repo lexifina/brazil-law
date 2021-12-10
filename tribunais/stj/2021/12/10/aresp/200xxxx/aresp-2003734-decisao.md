@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por AUTO VIAÇÃO TIJUCA S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AÇÃO REGRESSIVA. INDENIZAÇÃO SECURITÁRIA PAGA EM BENEFÍCIO DE SEGURADO VÍTIMA DE ACIDENTE DE TRÂNSITO OCASIONADO POR COLETIVO DA EMPRESA RÉ. SUB ROGAÇÃO LEGAL. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÃO DO RÉU, ORA APELANTE QUE NÃO MERECE PROSPERAR. ART.373,II DO CPC. BR AT ACOSTADO QUE DESCREVE A DINÂMICA DOS FATOS DEMONSTRANDO A VEROSSIMILHANÇA DAS ALEGAÇÕES AUTORAIS. SENTENÇA QUE SE PRESTIGIA. RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 5º, LV, da CF, no que concerne à utilização de prova produzida de forma unilateral como fundamentação para condenação da recorrente, trazendo os seguintes argumentos:
+Ocorre que o acórdão restou omisso quanto a utilização de uma prova produzida de forma unilateral como fundamentação para condenação da empresa Recorrente, tendo mantido a r. sentença, utilizando apenas a análise do elucidativo BRAT, para atribuir a culpa do acidente ao preposto do coletivo da empresa Recorrente.
+Ao que se refere o V. Acórdão, a manutenção da r. Sentença está fundamentada com base em um documento produzido de forma unilateral e que não está condizente com as versões trazidas aos autos pelo próprio autor através de sua peça inicial.
+E, ainda que opostos os Embargos de Declaração, para sanar a referida omissão, a Turma Julgadora entendeu pela manutenção da decisão recorrida, sem se manifestar sobre o referido Artigo.
+A parte Recorrente, através de seu apelo, se manifesta quanto a utilização de um documento produzido pelo Autor sem o crivo do contraditório, eis que sequer os fatos foram apurados em sede policial. O BRAT é uma prova de natureza penal admitida na esfera civil e, assim sendo, as normas de natureza penal que dispõem sobre a prova no Processo Penal serão, necessariamente, valoradas, apreciadas, consideradas e respeitadas no Processo Civil.
+ ..
+À luz do exposto, resta evidente que o acórdão recorrido violou norma infraconstitucional, ofendendo de forma direta o ARTIGO 5º, INCISO LV DA CONSTITUIÇÃO FEDERAL, na forma do exposto acima, ensejando, assim, a interposição do presente recurso com fundamento no art.105, inciso III, alínea  a  da Constituição da República. (fls. 207-208).
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial quando visa discutir violação de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
