@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim relatado (fls. 94/95):
+1. Trata-se de Habeas Corpus, com pedido liminar, impetrado pela zelosa Defensoria Pública em favor de Tomaz Simões da Paz, sob o argumento de que o paciente (denunciado por tráfico de substância entorpecente) sofre constrangimento ilegal por parte do E. Juízo de Direito da 1a Vara Criminal da Comarca de Guarujá nos autos do Processo nº 1502484-23.2021.8.26.0536, consistente na conversão da prisão flagrancial em preventiva.
+Postula-se a libertação, sob as seguintes alegações: a) a r. decisão hostilizada possui fundamentação inidônea;
+b) "nem com eventual sentença o paciente, primário, terá sua segregação social decretada - revela-se, portanto, verdadeiro contrassenso a sua prisão processual, já que nem ao fim do processo será encarcerado" (fls. 04).
+Recusada a tutela preambular (fls. 66/7), prestou informações a honrada autoridade apontada como coatora (fls. 69/70). Sobreveio parecer da doutaProcuradoria de Justiça especializada no sentido da denegação (fls. 76/9).
+Consta dos autos que o paciente foi preso preventivamente pela prática docrimetipificadonoart. 33 da Lei 11.343/2006.
+No presente writ, a impetrante sustenta que o paciente foi preso por crime sem violência ou grave ameaça à pessoa, bem como que a prisão foi decretada com base na gravidade abstrata do crime. Invoca a aplicação da Recomendação 62 do CNJ, apontando a superlotação dos presídios.
+Requer a concessão da ordem para que seja revogada a prisão preventiva do paciente ou substituída por medida cautelar alternativa.
+A liminar foi deferida, para soltura do paciente.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pela concessão da ordem.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Consta do decreto de prisão (fls. 18/20):
+O (a) indiciado(a) foi preso(a) em flagrante delito e é acusado(a) de praticar crime de tráfico, equiparado aos hediondos, que, por força da Constituição Federal, exige tratamento mais rigoroso que os demais (artigo 33 da Lei 11.343/06). O crime é doloso e a pena privativa de liberdade prevista no preceito secundário do tipo penal supera 04 anos, ainda que considerada a causa obrigatória de diminuição da pena contida no parágrafo quarto (artigo 313, inciso I, doCódigo de Processo Penal).
+Existem indícios de autoria e prova da materialidade do delito, notadamente quando o requerido foi surpreendido na atividade típicas do comércio, conforme narra o auto de prisão em flagrante.
+A medida cautelar em apreço é adequada à gravidade do crime, às circunstâncias do fato e às condições pessoais do acusado, eis que, em caso de procedência da pretensão punitiva, a pena que ao final poderá ser aplicada seria cumprida em regime inicialmente fechado. Os antecedentes, a quantidade da droga e qualidade da droga, aparentemente, afastam a incidência da minorante em favor do acusado, mormente diante das circunstâncias da sua prisão.
+Destarte, a própria Constituição Federal veda a liberdade provisória com fiança, demonstrando que as demais medidas cautelares em meio aberto são insuficientes e inadequadas à gravidade do fato (artigo 5º, inciso XLIII, CF).
+Evidente, ainda, a necessidade da cautela processual para aplicação da lei penal e para a instrução criminal, assim como para evitar a prática de infrações penais (artigo 282, inciso I, c.c. artigo 312, ambos do Código de Processo Penal).
+Como se depreende dos parcos elementos de prova carreados aos autos, fase processual sujeita ao princípio do "in dubio pro societate", ainda que possua o mínimo de vinculação ao distrito da culpa pela mera declaração de residência na comarca, as circunstâncias sinalizam que qualquer medida cautelar em meio aberto, por certo, seria inadequada e insuficiente para evitar a prática de novos crimes pelo custodiado.
+Não se pode perder de vista que a manutenção da custódia é necessária para resguardar da ordem pública diante da grave ameaça às pessoas pela comercialização ilícita de entorpecentes, prática criminosa que diariamente faz diversos viciados, assim como gera o desassossego familiar pela violência e furtos por parte deste membro dependente químico. Como se não bastasse, são inequívocos os reflexos sociais dessa conduta, já que esse crime é responsável por uma cadeia de atentados contra o patrimônio para a manutenção de vício, o que gera, por sua vez, uma aflição social.
+As circunstâncias revelam que a aplicação de medidas cautelares, nesta oportunidade, seriam insuficientes para afastá-lo do mundo marginal, assim como induziria à falsa sensação de impunidade e até estímulo a perpetuação de condutas subversivas ao sistema penal, autorizando, portanto, a prisão preventiva, nos termos do artigo 312, parágrafo único, CPP.
+Nestes termos, com fundamento no artigo 310, inciso II do Código de Processo Penal converto a prisão em flagrante em PRISÃO PREVENTIVA. Expeça-se mandado de prisão.
+Como visto, não consta no decreto de prisão fundamento idôneo, pois apenas destacou-se as circunstâncias já elementares do delito, valendo-se de motivos abstratos e com genérica regulação da prisão preventiva, além de presunções.
+A propósito:
+PENAL. PRISÃO. TRÁFICO DE DROGAS. REVOGAÇÃO DA PRISÃO PREVENTIVA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. FUNDAMENTAÇÃO GENÉRICA. GRAVIDADE EM ABSTRATO DO DELITO. VOTO PELA CONCESSÃO DA ORDEM.
+1. Decretada a prisão preventiva do paciente por suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+2. Ainda que tenha o juízo primevo feito referência à quantidade de drogas apreendida (72.90g de substância análoga à cocaína), o fez apenas como indicativo de materialidade delitiva, sendo que, ao tratar dos requisitos e necessidade da custódia cautelar, não trouxe qualquer motivação concreta para a custódia, fazendo referência às circunstâncias já elementares do delito, valendo-se de fundamentação abstrata e com genérica regulação da prisão preventiva, além de presunções e conjecturas, evidenciando a ausência de fundamentos para a medida extrema.
+3. Habeas corpus concedido para soltura do paciente (HC n. 542.358/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 4/2/2020, DJe 10/2/2020).
+Além do mais, na hipótese, foramapreendidos 4 gramas de cocaína - fl. 29, quantidade que não se mostra excessiva a ponto de justificar a imposição da medida de prisão.
+Com efeito, emcasosanálogos, "a Sexta Turma desta Corte tem entendido que o tráfico flagrado de não relevante quantidade de drogas somente com especial justificação permitirá a prisão por risco social "(HC567.850/GO, Rel.Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em23/06/2020, DJe30/06/2020).
+Ante o exposto, concedo o habeas corpus para, confirmando a liminar, revogar a prisão preventiva do paciente.
+Comunique-se.
+Publique-se.
+Intimem-se.
