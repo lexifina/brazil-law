@@ -1,0 +1,15 @@
+DECISÃO
+YURI GRANATA DELALIBERA suscita conflito de competência diante do JUÍZO DE DIREITO DA 4ª VARA CRIMINAL DE SANTO ANDRÉ - SP e do JUÍZO DE DIREITO DA VARA CRIMINAL DE SALVADOR - BA.
+Em suas razões, alega o suscitante, em síntese, que propôs representação para que fosse instaurado processo penal na Comarca de Santo André - SP, onde reside, por suposta prática de estelionato.
+Entretanto, o Ministério Público entendeu que eventual crime de estelionato de que haveria sido vítima, relativamente à aquisição de um automóvel, seria de atribuição do Ministério Público da Bahia, local onde estaria localizada a conta beneficiária da transferência para aquisição do automóvel (do susposto estelionatário).
+Diante disso, requer seja firmada a competência por esta Corte, bem como seja determinada a quebra de sigilo bancário e decretação de prisão preventiva dos supostos envolvidos, bem como sejam determinadas todas as diligências necessárias para o esclarecimento dos fatos.
+Ouvido, manifestou-se o Ministério Público Federal pelo n ao conhecimento do conflito de competência (fls. 183-188).
+Decido.
+Correto o Parquet Federal que atua perante este Superior Tribunal. Não ficou plenamente caracterizado o conflito de competência, o qual pressupõe a existência de dois ou mais juízes, vinculados a tribunais diversos, que se consideram incompetentes e atribuem, um ao outro, a competência.
+Decerto que o presente incidente processual pode ser suscitado pela parte, como ocorre na hipótese. Todavia, é necessário que haja a manifestação de dois juízos que se declarem competentes ou incompetentes para o julgamento do mesmo processo (v.g. AgRg no CC n. 113.767/DF, Rel. Ministro Castro Meira, Corte Especial, DJe 14/10/2011).
+No caso, embora haja a decisão proferida pelo Juízo da 4ª Vara Criminal de Santo André - SP, na qual declina da competência, não há (ou não foi juntada) nenhuma decisão do Juízo de Salvador - BA que também haja se considerado incompetente. Assim, eventual insurgência da parte contra a decisão de Magistrado que conduz o processo e que venha a se declarar incompetente para o julgamento do feito deve ser impugnada pela via própria.
+De fato, "a divergência de entendimento entre a parte e o magistrado que conduz a demanda sobre a sua competência para o julgamento da controvérsia não se resolve por meio do conflito de competência, mas, sim, por meio do recurso próprio que deve ser interposto a tempo e modo contra a decisão do julgador que rejeitar a alegação de sua incompetência absoluta" (CC n. 156.957/SP, Rel. Ministro Reynaldo Soares da Fonseca, DJe 15/3/2018).
+Além disso, como bem pontuou o Ministério Público Federal, as "manifestações de Promotores de Justiça sobre a causa não são elementos hábeis a consubstanciarem a efetiva instauração do conflito, como pretende o suscitante, pois inexiste conflito de competência entre juiz de direito e membro do ministério público" (fl. 187). Nesse sentido, por todos, o seguinte aresto: CC n. 183244/SP, Rel. Ministro João Otávio de Noronha, DJe de 29/11/2021.
+À vista do exposto, não conheço do conflito de competência.
+Dê-se ciência aos Juízos suscitados.
+Publique-se e intime-se.
