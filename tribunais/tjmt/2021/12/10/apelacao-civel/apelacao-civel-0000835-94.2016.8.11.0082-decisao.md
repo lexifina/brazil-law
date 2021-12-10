@@ -1,0 +1,49 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial na Apelação Cível n. 0000835-94.2016.8.11.0082
+RECORRENTE: BIOLOGICA COMERCIO E MANIPULACAO DE MEDICAMENTOS LTDA – EPP
+RECORRIDO: MUNICIPIO DE CUIABÁ
+Vistos.
+Trata-se de recurso especial interposto por BIOLOGICA COMERCIO E MANIPULACAO DE MEDICAMENTOS LTDA – EPP, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Público assim ementado (id. 57923966):
+“ADMINISTRATIVO E CONSTITUCIONAL – APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE INEXISTENCIA DE RALAÇÃO JURIDICA – FARMÁCIA DE MANIPULAÇÃO – EXIGÊNCIA DE LICENÇA AMBIENTAL – UNIÃO, ESTADOS E MUNICÍPIOS – COMPETÊNCIA MATERIAL COMUM – CONSELHOS ESTADUAIS DE MEIO AMBIENTE – APTO PARA TIPIFICAR ATIVIDADE POLUIDORA – LEGALIDADE – SENTENÇA MANTIDA – RECURSO DESPROVIDO.
+Mostra-se legítima a atuação da administração pública municipal, consistente na exigência de licenciamento ambiental de Farmácia e Drogaria, haja vista que essa atividade comercial, está relacionada, na resolução do Conselho Estadual do Meio Ambiente do Estado de Mato Grosso, como potencial causadora de impacto ambiental para a localidade.”
+(TJMT – Segunda Câmara de Direito Público – ApCiv. n. 0024907-08.2015.8.11.0042, Relator: Juiz Convocado GILBERTO LOPES BUSSIKI, j. em 09/09/2020).
+Opostos embargos de declaração, estes foram rejeitados em acórdão de id. 93576454.
+Alega a recorrente que “(...)o v. acórdão além de adotar entendimento diverso ao artigo 1o da Lei Estadual n.o 9.522/11, contraria o artigo 8o, inciso XIV, do artigo 9o, inciso XIV, letra “a”, do artigo 13 e do artigo 17, todos da Lei Complementar n.o 140/2011”, inexistindo qualquer respaldo diante da lógica e sistemática jurídica vigente que justifique a exigência da licença ambiental pelo Município de Cuiabá.
+Ainda, assevera que a atividade exercida pela apelante não se enquadra na resolução CONSEMA/MT no 85/41, eis que o licenciamento ambiental é exigido apenas para as atividades de comércio varejista de produtos, ao passo que, “(...)de acordo com as disposições da Lei Federal n.o 13.021/14, que corrobora o quanto já previsto na Lei Federal n.o 5.991/73 e na Resolução RDC/ANVISA n.o 67/07), a farmácia de manipulação é uma unidade de prestação de serviço, voltada para a transformação de insumos inertes e ativos em medicamentos ou outras preparações magistrais”.
+Recurso tempestivo (id. 95938957) e preparado (id. 96117965).
+Contrarrazões em id. 97465975.
+É o relatório.
+Decido.
+Não aplicação da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Ausência de prequestionamento (Súmula no 211 do STJ).
+Com o objetivo de evitar a supressão de Instância, nos termos do artigo 105, inciso III, da Constituição Federal, para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última Instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi Súmula 211/STJ, segundo a qual é “inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo”.
+Saliente-se, ainda, que nos termos do artigo 1.025 do CPC, “consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade”.
+No entanto, segundo a jurisprudência do Superior Tribunal de Justiça, na hipótese de a questão controvertida não ter sido abordada no aresto impugnado, e a parte recorrente ter suscitado a matéria nas razões dos embargos de declaração, por si só, tal fato não implica em prequestionamento ficto.
+Isso porque, a Corte Superior já firmou o entendimento no sentido de que “a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO EXTREMO.INSURGÊNCIA DA AUTORA.
+1. A ausência de enfrentamento da matéria inserta nos dispositivos apontados como violados pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+1.1. In casu, deixou a parte recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+1.2. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese.
+2. O Tribunal a quo, com base no conjunto fático e probatório carreado aos autos, entendeu que o episódio narrado nos autos não gerou dano moral indenizável. A alteração de tais conclusões demanda a incursão nas questões de fato e de prova dos autos, inadmissível por esta via especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido”. (AgInt no AREsp 1711642/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/11/2020, DJe 04/12/2020). (g.n.)
+Dessa forma, verifica-se que o recorrente assevera a ocorrência de ofensa clara ao artigo 3o, da Lei Federal no 13.021/2014 e à Resolução RDC/ANVISA no 67/07, “pela não subsunção do fato à norma, o Município de Cuiabá jamais poderia exigir o licenciamento ambiental das farmácias de manipulação, ainda que se considerasse competente para tanto”.
+No entanto, as questões não foram abordadas pelo acórdão impugnado, e, embora tenham sido opostos embargos de declaração, para o prequestionamento destes dispositivos legais, não houve alegação de violação ao artigo 1.022 do CPC, situação que obsta o seu exame pelo Superior Tribunal de Justiça e impede a admissão do recurso, ante a incidência da Súmula 211/STJ.
+Violação de direito local (Súmulas 280 do STF)
+Com base na interpretação do artigo 105, III, da CF, pode-se afirmar que o recurso especial tem como finalidade impugnar decisões que violem ou neguem vigência à lei federal, que julguem válido ato de governo local contestado em face de lei federal e quando houver divergência de interpretação da lei federal.
+Logo, não é cabível recurso especial contra decisão judicial que viola direito local, consoante dispõe a Súmula 280/STF, aplicada por analogia ao caso em análise.
+Nesse sentido:
+“PROCESSUAL CIVIL E TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. IPTU. LEGITIMIDADE ATIVA. RAZÕES RECURSAIS DISSOCIADAS DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA 280/STF. 1. Inexistente a alegada violação do Art. 535 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, como se depreende da análise do acórdão recorrido, que rejeitou a preliminar de ilegitimidade ativa e estendeu a declaração de inexigibilidade parcial do IPTU, nos moldes do Art. 7o da Lei Municipal n. 3.895/2005, aos exercícios de 2006, 2007 e 2008. 2. Constatada a dissociação entre as razões do recurso especial e do acórdão recorrido, o conhecimento do recurso especial, neste aspecto, encontra óbice nas Súmulas 283 e 284 do Supremo Tribunal Federal. 3. O exame da controvérsia demanda interpretação da Lei Municipal n. 3.895/2005, o que é inviável na via do recurso especial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual “Por ofensa a direito local não cabe recurso extraordinário”. Agravo regimental improvido. (STJ AgRg no AREsp 622209/RJ, Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 19/02/2015)
+Nessa perspectiva, a revisão pretendida pelo recorrente em decorrência de suposta violação aos artigos 8o, XIV, 9o, XIV, alínea “a”, 13 e 17, todos da Lei Complementar n.o 140/2011, extrapola as hipóteses de cabimento do recurso especial, eis que depende do enfrentamento de direito local.
+Isso porque se verifica que, na verdade, a recorrente busca a revisão da conclusão do Tribunal de origem feita com base na interpretação do direito local – Lei Complementar Municipal no 146/2007, Lei Estadual no 9.522/2011 e Resolução no 85/2014, do CONSEMA/MT (Conselho Estadual do Meio Ambiente do Estado de Mato Grosso) –,o que é vedado, em virtude da Súmula 280 do STF, segundo a qual ‘por ofensa a direito local não cabe recurso extraordinário’.
+Assim sendo, por analogia, não é cabível recurso especial contra decisão judicial que viola direito local, consoante dispõe a Súmula 280/STF.
+Portanto, a revisão do julgado impugnado, por depender de enfrentamento de lei local, excede os requisitos para cabimento do recurso especial e, por consequência, impede a sua admissão.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V (Súmulas 211 do STJ e 280 do STF), do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
