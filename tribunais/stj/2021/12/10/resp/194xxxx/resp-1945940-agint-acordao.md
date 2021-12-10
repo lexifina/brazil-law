@@ -1,0 +1,88 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS PROTELATÓRIOS. APLICAÇÃO DE MULTA. REEXAME DOS FATOS. SÚMULA 7/STJ.
+1. No julgamento dos aclaratórios, a Corte de origem consignou (fls. 342-344, e-STJ): "O que se vê das alegações produzidas pelo embargante é a pretensão de revisão da decisão hostilizada, a fim de que nova avaliação do tema seja realizada. Portanto, o que vejo é que os embargos aviados tem o único propósito de hostilizar a decisão tal como produzida, declinando omissão e contradição que na verdade inexiste, de modo que se o embargante entende que a decisão produzida se mostra injusta, não será na via dos embargos declaratórios que obterá provimento jurisdicional colidente com aquele já manifestado, se não pela via do virtual recurso que pudesse aviar contra a decisão da turma julgadora (..) E a pretensão, tal como deduzida, ao contrário do que entendem tantos neste Egrégio Tribunal, deriva da prática processual abusiva e do nítido caráter protelatório do recurso produzido, tal como, aliás, já foi pacificado tanto no Supremo Tribunal Federal, como no Superior Tribunal de Justiça (..) Neste contexto os embargos são manifestamente improcedentes e necessariamente protelatórios, buscando o que efetivamente não lhe seria lícito na via recursal, o que, aliás, tem sido uma constante neste Tribunal diante da leniência com que a norma jurídica vem tratando a hipótese da multa processual, que no caso em tela, deve ser aplicada como meio de contenção da ilícita ação processual buscada já que os embargos declaratórios não tem por escopo a modificação do julgado se não o seu aclaramento, expondo, portanto, as condições declinadas pelo art. 1.026, § 2º, do Código de Processo Civil. Diante do exposto, por qualquer ângulo que se analise a questão, rejeito os embargos declaratórios aviados, impondo ao embargante multa de 1% (um por cento) sobre o valor dado à ação, nos termos do art. 1.026, § 2º, do Código de Processo Civil."
+2. Assim, por entender o Tribunal a quo que os Embargos de Declaração eram protelatórios, esclareço que modificar tal conclusão, de modo a acolher a tese do recorrente demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ. A propósito: AgInt no REsp 1.920.415/SE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 7.10.2021; AgInt no AREsp 1.617.337/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13.5.2021; AgInt no AREsp 1.740.475/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28.4.2021; AgInt no REsp 1.851.731/AL, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 22.9.2021; e AgInt no AREsp 1.441.228/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 17.3.2020.
+3. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: "A SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, decidiu negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão (fls. 431-435, e-STJ) que não conheceu do recurso.
+O agravante sustenta (fls. 439-442, e-STJ):
+Com a devida vênia, a solução da lide não passa pela incursão no acervo fático/probatório (todo ele delineado no acórdão recorrido, inclusive a finalidade de suprir omissão no julgado e prequestionamento da matéria), e sim pela correta aplicação do art. 1.026, §2º do CPC, o que afasta a incidência da súmula 07/STJ ao caso, com a devida vênia.
+(..)
+Diante das razões expostas, e infirmados os fundamentos da decisão agravada, requer o ESTADO DE MINAS GERAIS a reconsideração da decisão impugnada, ou, no caso de sua manutenção, a submissão do feito à apreciação do colendo órgão colegiado, provendo-se o presente Agravo Interno para que, ao final, seja provido o Recurso Especial a que ele se refere, excluindo a multa aplicada pelo TJMG.
+Sem impugnação, conforme certidão de fl. 446, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS PROTELATÓRIOS. APLICAÇÃO DE MULTA. REEXAME DOS FATOS. SÚMULA 7/STJ.
+1. No julgamento dos aclaratórios, a Corte de origem consignou (fls. 342-344, e-STJ): "O que se vê das alegações produzidas pelo embargante é a pretensão de revisão da decisão hostilizada, a fim de que nova avaliação do tema seja realizada. Portanto, o que vejo é que os embargos aviados tem o único propósito de hostilizar a decisão tal como produzida, declinando omissão e contradição que na verdade inexiste, de modo que se o embargante entende que a decisão produzida se mostra injusta, não será na via dos embargos declaratórios que obterá provimento jurisdicional colidente com aquele já manifestado, se não pela via do virtual recurso que pudesse aviar contra a decisão da turma julgadora (..) E a pretensão, tal como deduzida, ao contrário do que entendem tantos neste Egrégio Tribunal, deriva da prática processual abusiva e do nítido caráter protelatório do recurso produzido, tal como, aliás, já foi pacificado tanto no Supremo Tribunal Federal, como no Superior Tribunal de Justiça (..) Neste contexto os embargos são manifestamente improcedentes e necessariamente protelatórios, buscando o que efetivamente não lhe seria lícito na via recursal, o que, aliás, tem sido uma constante neste Tribunal diante da leniência com que a norma jurídica vem tratando a hipótese da multa processual, que no caso em tela, deve ser aplicada como meio de contenção da ilícita ação processual buscada já que os embargos declaratórios não tem por escopo a modificação do julgado se não o seu aclaramento, expondo, portanto, as condições declinadas pelo art. 1.026, § 2º, do Código de Processo Civil. Diante do exposto, por qualquer ângulo que se analise a questão, rejeito os embargos declaratórios aviados, impondo ao embargante multa de 1% (um por cento) sobre o valor dado à ação, nos termos do art. 1.026, § 2º, do Código de Processo Civil."
+2. Assim, por entender o Tribunal a quo que os Embargos de Declaração eram protelatórios, esclareço que modificar tal conclusão, de modo a acolher a tese do recorrente demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ. A propósito: AgInt no REsp 1.920.415/SE, Rel. Ministro Og Fernandes, Segunda Turma, DJe 7.10.2021; AgInt no AREsp 1.617.337/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 13.5.2021; AgInt no AREsp 1.740.475/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28.4.2021; AgInt no REsp 1.851.731/AL, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 22.9.2021; e AgInt no AREsp 1.441.228/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 17.3.2020.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 25.10.2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignei no decisum, no julgamento dos aclaratórios, a Corte de origem consignou (fls. 342-344, e-STJ):
+Trata-se de embargos declaratórios aviados pelo Estado de Minas Gerais, em face do acórdão que à unanimidade, confirmou a sentença no reexame necessário, dando por prejudicado o recurso voluntário, em que sustenta, para fins de pré-questionamento, contradição no julgado no que tange à correção monetária, tecendo suas considerações a respeito do tema. Requer o acolhimento dos embargos.
+É o relatório.
+Passo ao voto.
+Conheço dos presentes embargos, eis que tempestivos.
+De início, é preciso que se diga que as decisões judiciais não são destinadas ao deslinde de teses, o que é reservado às atividades acadêmicas ou literárias, de modo a impor a conclusão de que não é o só fato da dedução de questões que impõe a análise, mas, tão-somente, a sua adequação às deduções lógicas e jurídicas passíveis de sustentação com vistas aos fatos que se possam analisar, de modo que não se mostra necessária a indicação dos artigos de lei referidos por qualquer das partes.
+O que se vê das alegações produzidas pelo embargante é a pretensão de revisão da decisão hostilizada, a fim de que nova avaliação do tema seja realizada.
+Portanto, o que vejo é que os embargos aviados tem o único propósito de hostilizar a decisão tal como produzida, declinando omissão e contradição que na verdade inexiste, de modo que se o embargante entende que a decisão produzida se mostra injusta, não será na via dos embargos declaratórios que obterá provimento jurisdicional colidente com aquele já manifestado, se não pela via do virtual recurso que pudesse aviar contra a decisão da turma julgadora
+(..)
+E a pretensão, tal como deduzida, ao contrário do que entendem tantos neste Egrégio Tribunal, deriva da prática processual abusiva e do nítido caráter protelatório do recurso produzido, tal como, aliás, já foi pacificado tanto no Supremo Tribunal Federal, como no Superior Tribunal de Justiça
+(..)
+Neste contexto os embargos são manifestamente improcedentes e necessariamente protelatórios, buscando o que efetivamente não lhe seria lícito na via recursal, o que, aliás, tem sido uma constante neste Tribunal diante da leniência com que a norma jurídica vem tratando a hipótese da multa processual, que no caso em tela, deve ser aplicada como meio de contenção da ilícita ação processual buscada já que os embargos declaratórios não tem por escopo a modificação do julgado se não o seu aclaramento, expondo, portanto, as condições declinadas pelo art. 1.026, § 2º, do Código de Processo Civil.
+Diante do exposto, por qualquer ângulo que se analise a questão, rejeito os embargos declaratórios aviados, impondo ao embargante multa de 1% (um por cento) sobre o valor dado à ação, nos termos do art. 1.026, § 2º, do Código de Processo Civil.
+Sustenta o agravante, nas razões do Recurso Especial, que os Embargos de Declaração não são protelatórios, tendo a finalidade de prequestionamento, razão pela qual afirma ser descabida a multa aplicada.
+No que tange ao afastamento da multa prevista no art. 1.026, § 2º, do CPC/2015, a pretensão não merece prosperar.
+O Tribunal a quo rejeitou os Embargos de Declaração opostos por ter concluído que o insurgente opôs os Aclaratórios com fins unicamente protelatórios, objetivando rejulgamento da matéria, o que é incompatível com a via eleita, conforme se verifica no trecho anteriormente transcrito.
+Acolher a tese do agravante de que não há caráter protelatório nos Embargos de Declaração opostos, a fim de modificar a conclusão a que chegou a Corte de origem, também demanda o reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. (..) MULTA DO ART. 1.026, § 2º, DO CPC/2015. EXCLUSÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS.
+(..)
+2. Ao julgar os embargos de declaração, a Corte local consignou que "os Embargos realmente não podem ser conhecidos porque não apontaram qualquer vício autorizador. Não foi indicada a omissão, contradição, obscuridade ou erro material. Logo, a fixação de multa é medida que se impõe".
+3. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese da parte agravante de que os aclaratórios não tiveram caráter procrastinatório, demanda o reexame do acervo fático-probatório dos autos, o que é inviável em recurso especial, sob pena de violação da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1920415/SE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 07/10/2021)
+PROCESSUAL CIVIL. (..) MULTA DO ARTIGO 1.026, § 2º, DO CPC/2015. CARÁTER PROTELATÓRIO DOS ACLARATÓRIOS. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+(..)
+3. A análise da violação do artigo 1.026, §2º, do CPC/2015 depende do exame do juízo de valor dado pelo Tribunal de origem, o que demanda o necessário revolvimento de matéria fático-probatória e, por conseguinte, obsta o conhecimento do recurso especial por força da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1617337/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 13/05/2021)
+PROCESSUAL CIVIL. (..) REVISÃO DE MULTA APLICADA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+(..)
+VII - No tocante à violação do art. 1.026, §2º, do CPC/2015, quanto ao descabimento da multa protelatória aplicada pelo Tribunal de origem, melhor sorte não socorre à recorrente, porquanto a incidência da Súmula n. 7/STJ também impede a revisão da conclusão a que chegou do Tribunal "a quo", de que os embargos declaratórios tiveram caráter protelatório, o que culminou na aplicação da multa prevista no referido dispositivo. Por oportuno, vejamos: AgInt no REsp 1835027/PR, Relator Ministro OG FERNANDES, SEGUNDA TURMA, Julgamento em 06/02/2020, DJe 11/02/2020.
+(..)
+IX - Agravo interno improvido.
+(AgInt no AREsp 1740475/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 28/04/2021)
+PROCESSUAL CIVIL (..) MULTA DO ART. 1026 DO CPC/2015. ÓBICE DA SÚMULA 7 DO STJ.
+(..)
+4. Por fim, quanto à ofensa ao art. 1.026 do CPC/2015, com relação à multa aplicada, o Tribunal a quo consignou: "Inexistindo, no acórdão ora embargado, quaisquer dos vícios indicados na lei processual e sendo inadmitido nessa fase o reexame da matéria já debatida e decidida, a rejeição dos embargos é medida que se impõe, restando caracterizado o seu efeito protelatório" (fl. 406, e-STJ).
+5. Assim, por entender a Corte de origem que os Embargos de Declaração eram protelatórios, esclareço que modificar tal conclusão, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+6. Agravo Interno não provido. (AgInt no AREsp 1709175/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 01/07/2021)
+ADMINISTRATIVO E PROCESSUAL CIVIL. (..) MULTA. ART. 1.026, § 2º, DO CPC/2015. AGRAVO INTERNO IMPROVIDO.
+(..)
+VI. Na forma da jurisprudência do STJ, "a reiteração dos argumentos já repelidos, de forma clara e coerente, configura o caráter protelatório a ensejar a aplicação da multa do art. 1026, § 2º, do CPC/2015" (STJ, AgInt no AREsp 1.586.049/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 19/08/2021).
+VII. Ademais, "a análise do art. 1.026, § 2º, do CPC/2015, que trata da penalidade por oposição de embargos de declaração protelatórios, demanda reexame do acervo fático-probatório dos autos. Incidência da Súmula 7/STJ" (STJ, REsp 1.931.702/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 17/08/2021). Nesse sentido: STJ, AgInt no AREsp 1.709.175/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 01/07/2021; e AgInt no AREsp 1.441.228/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 17/03/2020.
+VIII. Agravo interno improvido.
+(AgInt no REsp 1851731/AL, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 22/09/2021)
+PROCESSUAL CIVIL. ADMINISTRATIVO. (..). EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. VERIFICAÇÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. "É pacífico no STJ que a análise do artigo 1.026, § 2º, do CPC, que trata da multa por interposição de Embargos de Declaração protelatórios, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ". (REsp 1802785/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/05/2019, DJe 19/06/2019)
+5. Agravo interno não provido.
+(AgInt no AREsp 1441228/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 17/03/2020)
+(..) EMBARGOS PROTELATÓRIOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+5. O Tribunal estadual, soberano no exame do acervo fático - probatório dos autos, entendeu pelo evidente intuito protelatório dos embargos de declaração, razão pela qual a pretensão de afastamento da multa prevista no art. 1.026, § 2º, do CPC de 2015 encontra óbice na Súmula 7 desta Corte.
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.625.724/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 30/6/2020)
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. (..)
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O intuito protelatório da parte embargante, evidenciado pela mera repetição dos argumentos já examinados e repelidos pelo acórdão embargado, justifica a imposição da multa prevista no art. 1.026, § 2º, do CPC.
+3. Para a análise das questões afetas ao mérito da pretensão indenizatória é necessário o reexame dos fatos da causa, providência vedada em recurso especial, ante o óbice contido no enunciado da Súmula nº 7 do STJ.
+(..)
+(AgInt no AREsp 1.527.145/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 19/2/2020)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
