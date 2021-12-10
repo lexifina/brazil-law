@@ -1,0 +1,5 @@
+DECISÃO
+ASLAN SOUZA DA SILVA, condenado por roubo circunstanciado ao cumprimento de 10 anos de reclusão, interpõe recurso em habeas corpus contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, que denegou a ordem impetrada naquela Corte, na qual pretendia a defesa lhe fosse concedido o direito de recorrer em liberdade.
+Entretanto, verifico a existência do RHC n. 157.271/BA, proposto em favor do mesmo paciente e com idêntico pedido e causa de pedir, a evidenciar que se trata de mera reiteração de pretensão já formulada.Consoante pacífica orientação desta Corte, "a impetração de habeas corpus com objeto idêntico ao de recurso  ..  anteriormente interposto perante este Sodalício caracteriza indevidareiteração de pedido,o que obstaculiza o conhecimento do writ"(HC n. 217.454/SE, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), 6ª T., DJe 27/6/2012).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ,não conheço do habeas corpus.Registro, por fim,que o RHC n. 157.271/BA seráanalisado oportunamente.
+Publique-se e intimem-se.
