@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso extraordinário, com pedido de efeito suspensivo,interposto por ASSOCIACAO PARAIBANA DOS SERVIDORES MILITARES LICENCIADOS,com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 745):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSUFICIÊNCIA DO PREPARO. INCIDÊNCIA DO ART. 1.007, § 4º, DO CPC. DESERÇÃO. PRINCÍPIOS OBSERVADOS PELO LEGISLADOR. AGRAVO NÃO PROVIDO.
+1. A decisão de inadmissibilidade do recurso especial está em conformidade com o entendimento estabelecido pela Primeira Seção desta Corte, de acordo com o qual, " ..  uma vez deferido prazo para regularização das custas, com o recolhimento em dobro, conforme previsto no art. 1.007, § 4º, do CPC/2015, a insuficiência do preparo provoca a deserção do recurso, e mostra-se inviável a concessão de nova oportunidade de retificação, nos termos do disposto no § 7º do mesmo preceito legal" (AgInt nos EDv nos EREsp 1.667.087/RS, Rel. Min. Sérgio Kukina, Primeira Seção, julgado em 18/8/2020, DJe 21/8/2020). Precedentes.
+2. Os princípios da boa-fé, da cooperação processual e da primazia do julgamento do mérito não afastam a preclusão do direito de comprovar o recolhimento integral do preparo e, consequentemente, a deserção do recurso.
+3. Isso porque o próprio legislador, em observância a essas normas principiológicas, estabeleceu a necessidade de intimação prévia da parte interessada para a regularização do preparo antes que seja decretada a deserção, o que não foi atendido pela agravante.
+4. Agravo interno a que se nega provimento.
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ fls. 785/788).
+Sustenta a recorrenteque existerepercussão geral na questão tratada, destacando aviolação do artigo 93, inciso IX, da Constituição Federal.
+Alega que, o aresto que rejeitou os embargos de declaração, "teria deixado de seguir precedente invocado no agravo interno, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento, o que caracterizaria violação do art. 1.022, II, do CPC/2015" (e-STJ fl. 799).
+Assevera que o referido acórdão não restaria devidamente fundamentado, "eis que não se manifestou sobre o que foi invocado" (e-STJ fl. 802).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls. 811/819.
+É o relatório.
+Ao interpretar o art. 93, inciso IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag nº 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O a rt. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118.)
+Na espécie, da leitura dos arestos questionados constata-se que foram declinadas as razões pelas quais foi negado provimento ao agravo interno e rejeitados os embargos de declaração, valendo destacar os seguintes excertos dos julgados:
+Acordão referente ao agravo interno(e-STJ fls. 748/750):
+Conforme narrado na decisão impugnada, foi determinada a intimação da associação recorrente para realizar o recolhimento do preparo em dobro, em face da ausência de recolhimento no ato de interposição do recurso e do indeferimento da gratuidade de justiça (e-STJ, fls. 653-654).
+Houve o recolhimento das custas na forma simples (e-STJ, fls. 657-659). Foi então reconhecida a deserção e, consequentemente, inadmitido o recurso especial (e-STJ, fls. 662-663).
+Com efeito, a decisão de inadmissibilidade do recurso especial está em conformidade com o entendimento estabelecido pela Primeira Seção desta Corte, de acordo com o qual, " ..  uma vez deferido prazo para regularização das custas, com o recolhimento em dobro, conforme previsto no art. 1.007, § 4º, do CPC/2015, a insuficiência do preparo provoca a deserção do recurso, e mostra-se inviável a concessão de nova oportunidade de retificação, nos termos do disposto no § 7º do mesmo preceito legal" (AgInt nos EDv nos EREsp 1.667.087/RS, Rel. Min. Sérgio Kukina, Primeira Seção, julgado em 18/8/2020, DJe 21/8/2020).
+ ..
+Ressalta-se que os princípios da boa-fé, da cooperação processual e da primazia do julgamento do mérito não afastam a preclusão do direito de comprovar o recolhimento integral do preparo e, consequentemente, a deserção do recurso.
+Isso porque o próprio legislador, em observância a essas normas principiológicas, estabeleceu a necessidade de intimação prévia da parte interessada para a regularização do preparo antes que seja decretada a deserção, o que não foi atendido pela agravante.
+Ante o exposto, nego provimento ao agravo interno.
+Acordão referente aos embargos de declaração (e-STJ fls. 786/788):
+Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos declaratórios são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material do julgado.
+A tese recursal da embargante foi devidamente enfrentada e refutada no acórdão recorrido, com base na jurisprudência consolidada desta Corte, à luz do CPC/2015. Por sua vez, o precedente invocado pela embargante foi proferido muito antes da entrada em vigor do atual Código de Ritos e nem sequer tem similitude com o caso tratado nos presente autos, em que houve determinação, não cumprida, de recolhimento em dobro do preparo, na forma do art. 1.007, § 4º, do CPC/2015.
+Dessa forma, não são cabíveis os presentes embargos, haja vista que a real intenção da parte embargante não é sanar alguma omissão, contradição ou obscuridade no acórdão impugnado, e sim rediscutir o que ficou claro e coerentemente decidido, buscando efeitos infringentes em situação na qual não são cabíveis.
+Registre-se, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+Ante o exposto, rejeito os embargos de declaração.
+Conclui-se, portanto, que oacórdãoencontra-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. (..) FUNDAMENTAÇÃO SUFICIENTE. QUESTÃO DE ORDEM NO AGRAVO DE INSTRUMENTO 791.292 - TEMA 339. AGRAVO A QUE SE NEGA PROVIMENTO. (..) 5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que cumpre a regra do art. 93, IX, da CF a decisão judicial que seja fundamentada, ainda que de modo sucinto, sendo desnecessário o exame pormenorizado de cada uma das alegações ou provas dos autos (AI 791.292 - Tema 339 da sistemática da repercussão geral). (..) 7. Agravo a que se nega provimento.
+(Rcl 41510 ED, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01-09-2020.)
+No mesmo diapasão:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TEMA 339 DA REPERCUSSÃO GERAL. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. 1. No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente. 2. Decisão recorrida em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL. 3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(ARE 1266033 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/08/2020, PROCESSO ELETRÔNICO DJe-204 DIVULG 14-08-2020 PUBLIC 17-08-2020.)
+Por fim, mantida a decisão recorrida em todos os seus termos, não se vislumbra, consequentemente, plausibilidade no pleito de concessão de efeito suspensivo.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. SEGUIMENTO NEGADO.
