@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpusinterposto por FABRICIO ALEXANDRE DA SILVAcontra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(HC n. 2040944-78.2021.8.26.0000). Eis aementa do respectivo acórdão (e-STJ fl. 85):
+HABEAS CORPUS ARTIGO 157, § 2º, I E II, DO CÓDIGO PENALEXPEDIÇÃO DE MANDADO DE PRISÃO INEXISTÊNCIA DECONSTRANGIMENTO ILEGAL.
+PRISÃO DOMICILIAR ALEGAÇÃO DE QUE O RÉU É PAI DE UMACRIANÇA PORTADORA DE MICROCEFALIA HIPÓTESE EM QUE NÃORESTOU DEMONSTRADO QUE SEJA O ÚNICO RESPONSÁVEL PELOSCUIDADOS DA FILHA.
+ORDEM DENEGADA.
+Conforme relatado peloParquetFederal ao exararpareceropinando pelo desprovimento do recurso (e-STJ fls. 116/117):
+1. Trata-se de recurso em habeas corpus, interposto em 14-04-2021,em favor do réu FABRÍCIO ALEXANDRE DA SILVA, contra acórdão da 11ª Câmarade Direito Criminal do TJSP (fls. 84-88) que, em 12-04-2021, denegou a ordem no HCnº 2040944-78.2021.8.26.0000, impetrado contra decisão do Juízo de Direito da VaraCriminal da Comarca de Indaiatuba/SP (fls. 08-09) que, em 11-02-2021, em razão dotrânsito em julgado da condenação, determinou a expedição de mandado de prisão emdesfavor do recorrente Fabrício e do corréu Harryson Maurício da Silva.
+1.1. Em 27-05-2016, o Juízo de Direito da 2ª Vara Criminal daComarca de Indaiatuba/SP (fls. 13-6) condenou os réus RAFAEL PICASSO eFABRÍCIO ALEXANDRE DA SILVA, como incursos no art. 157, § 2º, incisos I eII, na forma do art. 70, do CP, às penas de 07 anos e 04 meses de reclusão, em regimefechado, e 17 dias-multa, cada um; e o réu HARRYSON MAURÍCIO DA SILVA,como incurso no art. 157, § 2º, incisos I e II, na forma do art. 70, do CP, às penas de08 anos, 06 meses e 20 dias de reclusão, em regime fechado, e 20 dias-multa (no dia05-09-2011, na Av. Coronel Antônio Estanislau do Amaral, nº 1.009, emIndaiatuba/SP, os réus, agindo em concurso e mediante grave ameaça exercida comemprego de arma de fogo, subtraíram a quantia aproximada de R$ 1.300,00,pertencentes à Marmoraria Decorgran, 01 aparelho de telefone celular, pertencentea Patrícia da Silva Rossetti e uma aliança pertencente a Mauro de tal; fls. 11-2)(Ação Penal nº 9913148-33.2011.8.26.0248).
+1.2. A defesa alega, em síntese, que, mesmo com a ocorrência dotrânsito em julgado da condenação para o recorrente, os recursos especial eextraordinário interpostos pelo corréu Harryson estão pendentes de julgamento;portanto, não se justifica a expedição de mandado de prisão contra o ora recorrente, jáque os recursos do corréu poderão influir na dosimetria da pena e em sua condenação,nos termos do art. 580 do CPP.
+É o relatório.
+Decido.
+Depreende-se dos autos que o presente recursoé mera reiteração do pedido feito no HC n. 659.632/SP, também deminha relatoria.
+Ante o exposto, diante da constatação de que o presente recurso é mera reiteração de outro processo anteriormente impetrado nesta Corte,nego-lhe conhecimento.
+Publique-se. Intimem-se.
