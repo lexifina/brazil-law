@@ -1,0 +1,63 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso infere-se que A&F ADMIINISTRAÇÃO DE MÓVEIS PRÓPRIOS EIRELI - ME (A&F) promoveu ação de cumprimento de sentença em desfavor de PAUO HENRIQUE RODRIGUES DO VALE e DENNER FERNANDO LOPES TRISTÃO (PAULO HENRIQUE e DENNER).
+No curso do feito foi proferida decisão indeferindo o pedido de penhora de 20% da contra do salário doexecutado.
+Contra essa decisão interlocutória, A&F interpôs agravo de instrumento, alegando aviabilidade do desconto requerido, porquanto o salário do agravado perfaz a quantia de 12.413,31 (doze mil quatrocentos e treze reais e trinta e um centavos), não gerando, portanto, nenhum impacto financeiro. Aduziu, também quea Jurisprudência entende ser cabível a penhora de parte do salário do devedor para se dar efetividade à entrega jurisdicional.
+Ao julgar o agravo, a Corte distrital negou-lhe provimento, em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PENHORA. SALÁRIO. IMPENHORABILIDADE ABSOLUTA.ARTIGO 833, IV, DO CÓDIGO DE PROCESSO CIVIL. IMPOSSIBILIDADE DE PENHORA.RECURSO NÃO PROVIDO.
+1. O artigo 833, inciso IV, e parágrafo segundo, do Código de Processo Civil, dispõe sobre a impenhorabilidade do salário, somente reputando válida a penhora quando as quantias excederem a 50 (cinquenta) salários-mínimos mensais e para satisfazer débito referente à prestação alimentícia.
+2. A norma do artigo 833, inciso IV, parágrafo segundo, do Código de Processo Civil, enquanto limitadora de direitos, deve ser aplicada de forma restritiva.
+3. Agravo de Instrumento conhecido e não provido. (e-STJ, fls. 312).
+Os embargos de declaração de A&F foram rejeitados (e-STJ, fls. 348/352).
+No recurso especial, interposto com esteio no art. 105, III, a e c, da CF, A&F alegou violação do art. 833, IV do NCPC, afirmando ser possível a penhora salarial, por ser o único meio de alcançar o pagamento do débito exequendo.
+Após a apresentação das contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O recurso comporta provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da (im)penhorabilidade do salário (art. 833, IV, do NCPC).
+Conforme antes relatado, o recurso especial de A&F sustentou a possibilidade de penhora de 20% do rendimentos do executado,por ser o único meio de alcançar o pagamento do débito exequendo, decorrente de cobrança de aluguel e outros encargos contratuais devidos por PAULO HENRIQUE, sendo RENNER seu fiador.
+Com relação ao tema, o acórdão recorrido destacou o seguinte:
+O deslinde da questão reside na possibilidade ou não de penhora de parte do salário do agravado, mesmo não se tratando de dívida de natureza não alimentar.
+Com efeito, não desconheço julgados deste Egrégio Tribunal no sentido da penhorabilidade de até 30% (trinta por cento), mensalmente, do salário do réu.
+Porém, no meu entender, peço vênia aos valorosos entendimentos contrários, não pode o devedor, mesmo ao se considerar possíveis esses descontos em conta corrente, ficar privado do mínimo necessário à sua sobrevivência, sob pena de a cobrança do crédito, exercício regular de um direito, tornar-se abusiva, afrontando-se a Dignidade da Pessoa Humana.
+O artigo 833, inciso IV e parágrafo 2º, do Código de Processo Civil, dispõe sobre a impenhorabilidade do salário, só reputando válida a penhora quando as quantias excederem a 50 (cinquenta) salários-mínimos mensais e para satisfazer débito referente à prestação alimentícia, in verbis:
+"Art. 833. São impenhoráveis:
+(..) IV - os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2º.
+§ 2o O disposto nos incisos IV e X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais, devendo a constrição observar o disposto no art. 528, § 8o, e no art. 529, § 3o."
+Assim, a norma do artigo 833, inciso IV, parágrafo 2º, do Código de Processo Civil, enquanto limitadora de direitos, deve ser aplicada neste particular de forma restritiva. Portanto, ao meu entender, não há que se falar em flexibilização da impenhorabilidade de salários.
+No caso em tela, tem-se a notícia de que o agravado aufere uma renda mensal de aproximadamente R$ 12.413,31 (doze mil quatrocentos e treze reais e trinta e um centavos). Ora, a verba que se busca penhorar é decorrente de trabalho, possuindo natureza alimentar e não se insere nas exceções elencadas pelo dispositivo da Lei.
+Portanto, impenhorável a verba salarial do agravado, visto ser recurso imprescindível para a subsistência da devedora e de sua família, sob pena de ofensa aos princípios da Proteção Legal do Salário (Constituição Federal, artigo 7º, inciso X) e da Dignidade da Pessoa Humana (Constituição Federal, artigo 1º, inciso I). (e-STJ, fl. 314).
+Pois bem.
+Segundo a jurisprudência desta Corte, "a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 3/10/2018, DJe 16/10/2018).
+Deveras, a jurisprudência do STJ vem entendendo que a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art.833,IV, c/c o § 2º do CPC/2015, quando se voltar:
+I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvadas eventuais particularidades do caso concreto (AgInt no AREsp nº 1.486.968/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 10/9/2019).
+Conforme se nota, o entendimento desta Corte Superior é no sentido de que, mesmo quando os valores recebidos pelo executado não forem superiores a 50 salários mínimos mensais, é possível a mitigação da regra de impenhorabilidade de vencimentos em situações absolutamente excepcionais que devem ser averiguadas diante das peculiaridades caso concreto.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECONHECIMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA. PREPARO. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO PARA REGULARIZAÇÃO E COMPLEMENTAÇÃO (ART. 1007, §4º, DO CPC/2015).PENHORADA REMUNERAÇÃO DO DEVEDOR. INTERPRETAÇÃO DADA AO ART.833,IV, DO CPC/15. POSSIBILIDADE DEPENHORADA REMUNERAÇÃO A DEPENDER DA HIPÓTESE CONCRETA. JULGAMENTO PELO CPC/15. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+ ..
+4. No julgamento do REsp 1.815.055/SP, (j. m 03/08/2020, DJe26/08/2020), a Corte Especial decidiu que a exceção contida na primeira parte do art.833,§ 2º, do CPC/15 é exclusivamente em relação às prestações alimentícias, independentemente de sua origem, isto é, oriundas de relações familiares, responsabilidade civil, convenção ou legado, não se estendendo às verbas remuneratórias em geral, dentre as quais se incluem os honorários advocatícios.
+5. Registrou-se, naquela ocasião, todavia, que, na interpretação da própria regra geral (art. 649, IV, do CPC/73, correspondente ao art.833,IV, do CPC/15), a jurisprudência desta Corte se firmou no sentido de que a impenhorabilidade de salários pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1582475/MG, Corte Especial, julgado em 03/10/2018, REPDJe 19/03/2019, DJe de 16/10/2018).
+6. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1900494/MS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 22/6/2021 - destacou-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DEINSTRUMENTO. CUMPRIMENTO DE SENTENÇA.PENHORADE PERCENTUAL DE SALÁRIO. DÍVIDA DE NATUREZA NÃO ALIMENTAR. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. PRECEDENTES. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ.
+AGRAVO INTERNO DESPROVIDO.
+1. De acordo com o entendimento da Corte Especial do STJ, a regra geral de impenhorabilidade de salários (art. 649, IV, do CPC/1973;
+art.833,IV, do CPC/2015) pode ser excepcionada, ainda que para fins de satisfação de crédito não alimentar, desde que haja manutenção de percentual dessa verba capaz de guarnecer a dignidade do devedor e sua família.
+2. A revisão da conclusão do Tribunal de origem (acerca da razoabilidade do percentual a ser penhorado) demandaria o reexame do conjunto fático-probatório dos autos, o que não é possível no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1906957/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 25/3/2021 - destacou-se)
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SALÁRIO.PENHORABILIDADE. ART.833,IV, DO CPC/2015. ERESP N. 1.582.475/MG.ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE.SÚMULA N. 83 DO STJ. REEXAME DO CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte, "a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art.
+649, IV, do CPC/73; art.833,IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, DJe 16/10/2018).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou as provas para concluir que não foi comprovado que apenhoranão seria capaz de afetar a subsistência familiar. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1937739/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 23/9/2021 - destacou-se)
+No presente feito, o Tribunal distritalnão considerou o entendimento do STJ a respeito da matéria e indeferiu o pedido depenhorado salário do devedor somente porque o débito em testilha não decorre de prestação alimentícia e o devedor não percebe valores superiores a 50 salários mínimos mensais, sem analisar se, no caso concreto, há a possibilidade de deferimento dapenhorasem prejuízo da dignidade do devedor e de sua família.
+Desse modo, o presente recurso comporta provimento, para determinar o retorno dos autos ao TJDFT, a fim de que lá se aprecie novamente o pedido depenhorado salário do devedor, desta vez à luz da jurisprudência do STJ, considerando o acervo fático-probatório dos autos, que não pode ser objeto de análise na estreita via do recurso especial, consoante dispõe a Súmula nº 7 do STJ.
+Nessas condições, DOU PROVIMENTO ao recurso especial, nos termos acima explicitados.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSAUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGENIA DO NCPC. CUMPRIMENTO DE SENTENÇA. PEDIDO DE PENHORA DE PERCENTUAL DO SALÁRIO DO DEVEDOR. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. NECESSIDADE DE APRECIAÇÃO DAS PECULIARIDADES DO CASO CONCRETO. INVIABILIDADE, NA VIA ELEITA. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM.RECURSO ESPECIAL PROVIDO.
