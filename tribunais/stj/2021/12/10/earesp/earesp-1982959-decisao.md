@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONSTRUTORA CANADA LTDA. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. PEDIDO DE STAY PERIOD INDEFERIDO. PROSSEGUIMENTO DOS AUTOS EXECUTIVOS. ALTERAÇÃO DA VERDADE DOS FATOS. LITIGÂNCIA DE MÁ-FÉ APLICADA.
+1. Sendo indeferido o pedido de prorrogação do stay period previsto no art. 6º, § 4º, da Lei nº 11.101/05, pelo Juízo Recuperacional, não há que se falar em suspensão das ações executivas.
+2. Frente a regência do princípio da boa-fé, estabelecido no art. 5º do CPC, a que ficam os litigantes adstritos quanto aos atos processuais que patrocinam, em ação ou defesa, e observado que a agravada buscou, de modo evasivo, alterar a verdade dos fatos para obter reconhecimento de direito não condizente com a realidade, portanto, em conduta enquadrável na hipótese de má-fé prevista no inciso II do art. 80 do CPC, aplicável é a pena prevista no art. 81.
+AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação dos arts. 5º, 80, II, e 81 do CPC, no que concerne à inocorrência de litigância de má-fé, trazendo os seguintes argumentos:
+A incursão desta Corte Superior é a de direito, decorrente de má aplicação de regramento legal, vez que o Tribunal Estadual de Goiás afronta as disposições dos artigos 5º, 80, II, e 81, do Código de Processo Civil.
+ ..
+Portanto, o propósito recursal consiste em afastar a multa por litigância de má-fé aplicada a Recorrente pelo Egrégio Tribunal de Justiça do Estado de Goiás.
+Pelo acórdão do Tribunal de Justiça do Estado de Goiás colhe-se que o entendimento da Segunda Câmara Cível, que a parte atuou de má-fé ao informar nos autos que estava vigente o "stay period" da recuperação judicial da Recorrente, consoante se verifica do voto do Relator, vejamos:
+ ..
+Entretanto, não merece guarida o entendimento, vez que destoa dos dos artigos 5º, 80, II, e 81, do Código de Processo Civil, assim como do entendimento atual proliferado na jurisprudência do C. STJ, onde se reconhece que a caracterização da litigância de má-fé depende da intenção dolosa do litigante, o que não aconteceu no presente caso.
+ ..
+Por essa razão, a decisão objurgada não merece prosperar, vez que o ato praticado pela Recorrente situaram-se nos limites regulares do seu direito de defesa.
+O comando legal esculpido no artigo 80, II, do CPC, contém previsão e que será multado somente aquele que "alterar a verdade dos fatos", o que não ocorreu no bojo dos autos originários, vez que a Recorrente se comportou de acordo com a boa-fé, com padrão ético de conduta, sem qualquer intenção dolosa. (fls. 64-66).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No presente caso, observa-se que, de fato, a agravada pretendeu de modo ardiloso levar a Magistrada singular em erro, levando-a a acreditar que de fato houve o deferimento do pedido de prorrogação do stay period, pois juntou aos autos uma decisão antiga e sem validade jurídica, vez que já revogada por decisão posterior.
+Os autos recuperacionais, se estendem desde o ano de 2017, e conta com 599 (quinhentos e noventa e nove) eventos e 37 (trinta e sete) processos conexos/apensos, o que dificulta a busca da verdade por parte do julgador, que em tais casos, é levado a acreditar na conduta proba e revestida de boa-fé e lealdade processuais dos litigantes.
+ ..
+A agravada feriu os princípios da boa-fé, da cooperação, da lealdade, dentre outros, ao afirmar que lhe fora deferido um pedido que sabia não ser verdade.
+ ..
+Frente a regência do princípio da boa-fé, estabelecido no art. 5º do CPC, a que ficam os litigantes adstritos quanto aos atos processuais que patrocinam, em ação ou em defesa, e observado que a agravada buscou, de modo evasivo,alterar a verdade dos fatos para obter reconhecimento de direito não condizente com a realidade, portanto, em conduta enquadrável na hipótese prevista no inciso II do art. 80 do CPC, aplicável é a pena de litigância de má-fé contida no art. 81 do mesmo códex  ..
+Considerando a litigância de má-fé, e levando em consideração o que dispõe o art. 81 do CPC (De ofício ou a requerimento, o juiz condenará o litigante de má-fé a pagar multa, que deverá ser superior a um por cento e inferior a dez por cento do valor corrigido da causa, a indenizar a parte contrária pelos prejuízos que esta sofreu e a arcar com os honorários advocatícios e com todas as despesas que efetuou - grifei), e que o valor dado à causa é R$ 107.278,97 (cento e sete mil,duzentos e setenta e oito reais e noventa e sete centavos), fixo a condenação em 3% (três por cento) sobre o valor corrigido da causa. (fls. 48-50).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não de má-fé na conduta do litigante exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a revisão da conclusão do acórdão recorrido, no que se refere à caracterização de litigância de má-fé do recorrido, demandaria o revolvimento do suporte fático-probatório dos autos, inviável em sede de recurso especial, ante o óbice do Enunciado n. 7/STJ" (AgInt no REsp 1.743.609/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 21/8/2020).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.644.759/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no AREsp 1.326.352/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 25/6/2020; e AgInt no AREsp 1.443.702/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/11/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
