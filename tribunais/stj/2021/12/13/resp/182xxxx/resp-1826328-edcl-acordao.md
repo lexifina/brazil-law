@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por TREVO EMPREENDIMENTOS E PARTICIPACOES LTDA contra acórdão que negou provimento a agravo interno, assim ementado:
+PROCESSUAL CIVIL. ALEGADA NULIDADE DA DECISÃO AGRAVADA. OFENSA AOS ARTS. 9º E 10 DO CPC/2015. NÃO PREENCHIMENTO DOS REQUISITOS DO RECURSO ESPECIAL. INEXISTÊNCIA DE NULIDADE. PROVIMENTO DE UM DOS RECURSOS. ANULAÇÃO DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. PREJUDICADO RECURSO PARTE EX ADVERSA.
+1. A teor da jurisprudência do Superior Tribunal de Justiça, o decisum que não conhece do recurso especial por inobservância dos requisitos legais ou constitucionais não ofende o princípio da não surpresa, explicitado nos arts. 9º e 10 do CPC/2015, pois a fundamentação amparada em lei não constitui inovação no litígio nem adoção de entendimento desconhecido das partes. Precedentes.
+2. O provimento do recurso de uma das partes, anulando o acórdão que julgou os embargos declaratórios no Tribunal de origem, como determinando o retorno dos autos para novo julgamento, torna prejudicado o recurso da parte ex adversa.
+3. Agravo interno não provido.
+A parte embargante aponta contradição e omissão no acórdão embargado, sustentando, em síntese, que (i) a contradição teria ocorrido em virtude de a recorrente ter sido considerada parte ex adversa em relação ao Estado da Bahia, ao invés de ser considerada litisconsorte passiva, visto que não atua em polo processual oposto ao do Estado da Bahia. Alega que esse "aspecto é de extrema relevância, pois os dois Recursos Especiais são independentes entre si. Com o provimento do Apelo Excepcional do ente estatal, anulou-se o julgamento dos Embargos de Declaração por ele opostos, restando intacto o julgamento dos Aclaratórios protocolizados pela Peticionária perante o Tribunal de 2ºGrau. Por se tratarem de decisões diversas, o mérito de cada um dos Recursos Excepcionais versa sobre matérias distintas. Assim, os Apelos Especiais não guardam relação de subordinação entre si, de maneira que o provimento do Recurso Especial pelo Estado da Bahia provoque a perda do objeto do Apelo Excepcional interposto pela Peticionária" (fl. 1498/1500); (ii) a omissão, por sua vez, se deve ao fato de não ter havido manifestação quanto à aplicação ao caso da Súmula 579/STJ, conforme alegado nas razões do agravo interno.
+Com impugnação às fls. 1509/1512 e 1.515/1.519.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGSO DE DECLARAÇÃONO RECURSO ESPECIAL. VÍCIODE INTEGRAÇÃO CONFIGURADO EM PARTE. CORREÇÃO. SEM EFEITOS INFRINGENTES.ERRO MATERIAL. RETIFICAÇÃO DE OFÍCIO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3A contradição que autoriza embargos de declaração é aquela interna ao julgado, entre os fundamentos da decisão e a conclusão a que se chegou. Situação não evidenciada nos autos.
+4. Constatada omissão na tese relativa à aplicação, na espécie, da Súmula 579/STJ,impõe-se o acolhimento parcial dos embargos de declaração, tão somente para sanar o vício apontado.
+5. No caso dos autos, de ofício, deve-se corrigir erro material no acórdão embargado, quando se refere àrecorrente e ao Estado da Bahia como partes contrárias, porquanto se tratade litisconsortes passivos.
+6. Embargos de declaração acolhidos em parte, sem efeitos infringentes.Correção, de ofício, de erro material constante do acórdão embargado.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A contradição que autoriza embargos de declaração é aquela interna ao julgado, entre os fundamentos da decisão e a conclusão a que se chegou.
+A este respeito, é pacífica a orientação deste Superior Tribunal de Justiça, como se verifica no seguintejulgado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INOCORRÊNCIA.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+2. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art.535 do CPC/1973).
+3. O vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ. (EDcl no AgRg nos EAREsp 252.613/MG, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 05/08/2015, DJe 14/08/2015).
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1221142/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 10/10/2017, DJe 14/12/2017)
+No caso dos autos, não se verifica a alegada contradição apontada, visto que há perfeita compatibilidade entre o dispositivo e a fundamentação adotada no acórdão embargado.
+A propósito, confira-se o seguinte excerto do voto condutor
+De início, anote-se que a teor da jurisprudência desta Corte, o decisum que não conhece do recurso por inobservância dos requisitos legais ou constitucionais não ofende o princípio da não surpresa, explicitado nos arts. 9º e 10 do CPC/2015, pois a fundamentação amparada em lei não constitui inovação no litígio nem adoção de entendimento desconhecido das partes.
+A propósito:
+ ..
+Nesse contexto, não há que se falar em decisão surpresa aquela que julga prejudicado o recurso por ausência superveniente de interesse recursal.
+Também não há como ser acolhida a alegação da recorrente de que não houve perda de objeto de seu recurso especial em virtude do provimento do recurso do Estado da Bahia, porque não haveria relação de subordinação/prejudicialidade entre eles.
+No caso, a decisão agravada deu provimento ao recurso especial do Estado da Bahia para anular o acórdão que julgou os embargos declaratórios no Tribunal de origem, determinando o retorno dos autos para novo julgamento, sanando-se a omissão quanto ausência de citação do litisconsorte passivo necessário.
+Nesse contexto, com a anulação do julgamento anterior dos embargos de declaração, os autos devem retornar ao status em que se encontravam antes do julgamento desse recurso, de forma que, havendo a interposição de mais de um recurso, o provimento de um deles torna sem objeto o outro, que não tem viabilidade de ser provido pelo mesmo fundamento, violação do art. 1022.
+Não significa dizer que um recurso é, necessariamente, subordinado ao outro, mas que a prejudicialidade é decorrência lógica da anulação do julgamento dos embargos de declaração, com o retorno dos autos a fase processual anterior, a dos embargos de declaração, de forma que não há como não ficar prejudicado o recurso, caso contrario poderia haver tumulto processual.
+Embora a recorrente também alegue violação do art. 1022 do CPC/2015, observa-se que as razões deduzidas nos embargos de declaração opostos no Tribunal de origem não correspondem àquelas constantes do recurso especial, sob o pretexto de omissão.
+Proferido novo julgamento desses embargos, será franqueado às partes a oportunidade de interpor novo recurso especial, trazendo a esta Corte Superior sua irresignação. Ante o exposto, nego provimento ao agravo interno.
+No que diz respeito à omissão, assiste razão à embargante, visto que não houve manifestação quanto à Súmula 579/STJ.
+Contudo, não há como ser acolhida.
+Do voto condutor acima citado, observa-se que a o recurso especial do Estado da Bahia foi provido para anular o acórdão que julgou os embargos declaratórios no Tribunal de origem, determinando o retorno dos autos para novo julgamento, sanando-se a omissão quanto ausência de citação do litisconsorte passivo necessário. Por conseguinte, com a anulação do julgamento anterior dos embargos de declaração, os autos devem retornar ao status em que se encontravam antes do julgamento desse recurso, de forma que, havendo a interposição de mais de um recurso, o provimento de um deles torna sem objeto o outro.
+A Súmula 579/STJ, por sua vez, aplica-se quando há interposição do recurso especial anteriormente à publicação do julgamento dos aclaratórios, na origem, pela parte contrária àquela que opôs os embargos de declaração.
+Situação não evidenciada nos autos, visto que houve tão somente determinação de rejulgamento pelo Tribunal de origem dos embargos anteriormente julgados, em virtude da omissão reconhecida por esta Corte Superior.
+Por fim, observa-se, a existência de erro material passível de correção de ofício, no tocante à consideração de que a recorrente e o Estado da Bahia seriam partes ex adversas.
+Assim, impõe-se a correção do equívoco:
+onde se lê: "O provimento do recurso de uma das partes, anulando o acórdão que julgou os embargos declaratórios no Tribunal de origem, como determinando o retorno dos autos para novo julgamento, torna prejudicado o recurso da parte ex adversa." (fl. 1491);
+leia-se: "O provimento do recurso de uma das partes, anulando o acórdão que julgou os embargos declaratórios no Tribunal de origem, como determinando o retorno dos autos para novo julgamento, torna prejudicado o recurso da outra parte, que atua como litisconsorte passiva.".
+Ante o exposto, acolho, em parte, os embargos de declaração para sanar a omissão apontada, sem efeitos infringentes,ecorrijo, de ofício, o erro materialconstante do acórdão embargado.
+É como voto.
