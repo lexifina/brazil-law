@@ -1,0 +1,122 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE RESCISÃO DE CONTRATO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. RECONSIDERAÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. DEPÓSITO DO VALOR DA CONDENAÇÃO EM JUÍZO. ATO INCOMPATÍVEL COM VONTADE DE RECORRER. PRECLUSÃO LÓGICA RECONHECIDA. DIVERGÊNCIA DO ENTENDIMENTO DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem adotar fundamentação contrária à pretensão da parte, uma vez que o acórdão recorrido indicou, de forma clara e coerente, fundamentos suficientes para decidir integralmente a controvérsia.
+2. O Tribunal de origem, assentando expressamente a existência de ressalva do interesse de recorrer, concluiu no sentido de serem incompatíveis o depósito judicial integral do valor da condenação e a interposição do recurso cabível, reconhecendo a preclusão lógica. Esse entendimento diverge da interpretação do Superior Tribunal de Justiça acerca do art. 1.000 do CPC/2015, segundo a qual a prática de ato incompatível com a vontade de recorrer deve ser inequívoca. Precedentes.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, conhecer do agravo para dar provimento ao recurso especial.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno (fls. 304-309) interposto por BRASÍLIA PARQUE CONSTRUÇÃO E INCORPORAÇÃO S/A e OUTROS contra decisão (fls. 298-301), de relatoria da Presidência do STJ, que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, sob os seguintes fundamentos:
+a) Ausência de violação do art. 1.022 do CPC/2015;
+b) Incidência da Súmula 7/STJ, no tocante ao art. 1.000 do CPC/2015;
+c) Incidência da Súmula 7/STJ pela alínea "c" do permissivo constitucional; e
+d) Em relação à alínea "c", também obstou o recurso especial por afrontar a jurisprudência desta Corte, que é firme "(..) no sentido de que os acórdãos proferidos em sede de habeas corpus, mandado de segurança, recurso ordinário, conflito de competência e ação rescisória não se prestam a comprovar dissídio jurisprudencial".
+Nas razões do agravo interno, alegam que "não há no caso em tela nenhuma necessidade de revolvimento de matéria fática, vez que o parágrafo único do art. 1.000, do Código de Processo Civil, estabelece, expressamente, que a preclusão só se aplica se não houver nenhuma ressalva (reserva) por parte do recorrente" (fl. 853).
+Aduzem, também, que, "em que pese um RMS ter sido utilizado na comprovação da controvérsia, a Agravante também fundamentou, e realizou o devido cotejo analítico, seus argumentos em outros julgados desta e. corte" (fl. 854).
+Sustentam, ainda, que, "Conforme restou demonstrado, o acórdão recorrido foi omisso quanto ao fato de que para existir preclusão lógica não deve haver reserva pela parte que praticou o ato dito incompatível com a vontade de recorrer. No entanto, apesar da oposição de Embargos de Declaração, a r. instância "a quo" deixou de se manifestar quanto ao tema, mantendo a omissão suscitada no acórdão recorrido, em flagrante violação ao art. 1.022, II, CPC" (fl. 858).
+Ao final, pleiteia-se a reconsideração da decisão agravada ou o julgamento pelo Órgão Colegiado.
+Impugnação apresentada às fls. 862-865.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE RESCISÃO DE CONTRATO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. RECONSIDERAÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. DEPÓSITO DO VALOR DA CONDENAÇÃO EM JUÍZO. ATO INCOMPATÍVEL COM VONTADE DE RECORRER. PRECLUSÃO LÓGICA RECONHECIDA. DIVERGÊNCIA DO ENTENDIMENTO DO STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem adotar fundamentação contrária à pretensão da parte, uma vez que o acórdão recorrido indicou, de forma clara e coerente, fundamentos suficientes para decidir integralmente a controvérsia.
+2. O Tribunal de origem, assentando expressamente a existência de ressalva do interesse de recorrer, concluiu no sentido de serem incompatíveis o depósito judicial integral do valor da condenação e a interposição do recurso cabível, reconhecendo a preclusão lógica. Esse entendimento diverge da interpretação do Superior Tribunal de Justiça acerca do art. 1.000 do CPC/2015, segundo a qual a prática de ato incompatível com a vontade de recorrer deve ser inequívoca. Precedentes.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, conhecer do agravo para dar provimento ao recurso especial.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.851.737 - DF (2021/0065601-7)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+BRASILIA PARQUE CONSTRUCAO E INCORPORACAO S/A
+AGRAVANTE
+:
+HC INCORPORADORA S/A
+AGRAVANTE
+:
+HC CONSTRUTORA S/A
+ADVOGADO
+:
+LUIZ FILIPE RIBEIRO COELHO - DF005297
+ADVOGADA
+:
+CAROLINA NEDDERMEYER VON PARASKI - DF023426
+AGRAVADO
+:
+MAGNA RITA ANTUNES DE FARIA
+ADVOGADOS
+:
+NEIVA ESSER - DF019205
+JULIANA AL HAKIM SALGADO - DF038538
+INTERES.
+:
+BANCO INTER S.A.
+OUTRO NOME
+:
+BANCO INTERMEDIUM SA
+ADVOGADO
+:
+JOSÉ ARNALDO JANSSEN NOGUEIRA E OUTRO(S) - MG079757
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+À vista das razões expendidas no agravo interno, reconsidero a decisão monocrática e passo a novo exame do feito.
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão assim ementado:
+"CIVIL E DIREITO DO CONSUMIDOR. AÇÃO DE RESCISÃO DE CONTRATO. INCORPORAÇÃO IMOBILIÁRIA. UNIDADE AUTÔNOMA. CONTRATO DE PROMESSA DE COMPRA E VENDA E SUBSEQUENTE COMPRA E VENDA COM ALIENAÇÃO FIDUCIÁRIA. UNIDADE IMOBILIÁRIA. VÍCIO DE QUALIDADE. DESCONFORMIDADE COM O PROMETIDO. FALHAS ESTRUTURAIS. RESCISÃO DO NEGÓCIO. COMPREENSÃO DO CONTRATO DE FINANCIAMENTO. CONTRATO CONEXO. INVIABILIDADE DE PERDURAÇÃO SEM A SUBSISTÊNCIA DA COMPRA E VENDA QUE O LASTREARA. RESCISÃO. OPÇÃO RESGUARDADA À CONSUMIDORA. RESCISÃO DO CONTRATO. DIREITO DA PROMITENTE COMPRADORA. RESTITUIÇÃO DAS PARTES AO ESTADO ANTERIOR. DEVOLUÇÃO INTEGRAL DAS PARCELAS PAGAS. IMPERATIVO LEGAL. INDENIZAÇÃO DAS BENFEITORIAS AGREGADAS AO IMÓVEL, DOS DANOS EMERGENTES E DO DANO MORAL SOFRIDO PELA ADQUIRENTE. PEDIDO. ACOLHIMENTO. CONSTRUTORA E INCORPORADORA. APELAÇÃO. RECOLHIMENTO DO EQUIVALENTE À CONDENAÇÃO, SEGUNDO O APURADO PELAS RÉS. ATO INCOMPATÍVEL COM A VONTADE DE RECORRER E COMPORTAMENTO CONTRADITÓRIO. RECONHECIMENTO DO PEDIDO. PRECLUSÃO LÓGICA. RECURSO NÃO CONHECIDO (CPC, ART. 1.000). INSTITUIÇÃO FINANCEIRA. CREDORA FIDUCIÁRIA. LEGITIMIDADE AD CAUSAM. MUTUANTE FOMENTADOR DO EMPRÉSTIMO QUE VIABILIZARA A QUITAÇÃO DO PREÇO. PERTINÊNCIA SUBJETIVA E INDISPENSABILIDADE DE INTEGRAR A RELAÇÃO PROCESSUAL. PRELIMINAR REJEITADA. CONDENAÇÃO. SOLIDARIEDADE. INEXISTÊNCIA. MODULAÇÃO. APELO DO MUTUANTE PARCIALMENTE PROVIDA. SENTENÇA PARCIALMENTE REFORMADA. HONORÁRIOS RECURSAIS. FIXAÇÃO.
+1. Partindo da premissa de que não encerra pressuposto recursal a garantia do juízo com o recolhimento do equivalente à condenação, não é passível de conviverem, na conformidade da lógica processual, o recolhimento do montante ao qual fora condenada a ré e o alinhamento de fundamentação visando a reforma do decidido, à medida em que o depósito do equivalente à condenação, ressalvado eventuais diferenças, encerra nitidamente o reconhecimento do acerto do decisório, pois implica o reconhecimento e realização do pedido na conformidade do que fora acolhido, recobrindo a faculdade que a assistia de recorrer com o aperfeiçoamento da preclusão lógica, expressão do princípio que coíbe o comportamento contraditório, obstando o conhecimento do apelo formulado sob essa realidade (CPC, art. 1.000, caput e parágrafo único)
+2. Descerrando o depósito do montante condenatório reconhecimento do pedido acolhido, pois não pode ser interpretado como simples garantia do juízo, pois dispensável como pressuposto recursal, implica a prática de ato inexoravelmente incompatível com a vontade de recorrer, donde o apelo aviado pela parte ré, sob essa realidade, encerra comportamento contraditório, não podendo ser conhecido, por não convivem na harmonia e lógica procedimental o reconhecimento do pedido, manifestado pela realização da obrigação, e a manifestação de desconformidade com o decidido, impactando o havido o recobrimento da faculdade que a assistia, pois, pela preclusão lógica, corroborado pelo princípio que coíbe o comportamento contraditório expresso no dispositivo invocado.
+3. Concertada compra e venda de imóvel cujo preço fora parcialmente solvido através de mútuo bancário garantido por alienação fiduciária, alienante e mutuante estão revestidos de legitimidade para ocuparem a angularidade passiva da ação que tem como objeto o distrato do negócio originário - compra e venda -, e, como consectário, do empréstimo, com lastro na existência vício de qualidade, notadamente porque não pode o negócio jurídico do qual participara e para cuja consecução concorrera ser debatido e resolvido sem a indispensável participação do mutuante na exata expressão do devido processo legal.
+4. A instituição bancária, como agente financiador do mútuo que viabilizara a compra e venda de imóvel, está inexoravelmente revestida de vinculação subjetiva com a pretensão deduzida pela adquirente almejando a rescisão do negócio, a repetição do preço vertido e a composição dos danos que experimentara sob a alegação de vício afetando o bem negociado, porquanto, em se tratando de negócio complexo que envolvera compra e venda e financiamento, alienante e mutuante devem compor a relação processual na qual é controvertido, ficando patente a legitimidade do agente financiador para ocupar a angularidade passiva da lide, inclusive porque juridicamente inviável se distratar a compra e venda e deixar remanescer vigente o mútuo bancário que viabilizar a consumação daquele negócio subjacente (CDC, arts. 7º e 18).
+5. Aferida a culpa da construtora pela rescisão contratual em virtude da construção da unidade imobiliária com falhas estruturais e sem vinculação com a oferta difundida, a adquirente, optando pelo desfazimento do negócio, faz jus à devolução das parcelas do preço pagas, na sua integralidade, inclusive as vertidas em pagamento das parcelas derivadas do empréstimo que lhe fora fomentado, por traduzir corolário lógico e primário do desfazimento do contrato de compra e do contrato conexo de financiamento, não assistindo à alienante e ao agente fiduciário suporte para reter qualquer importância que lhe fora destinada por ter sido a vendedora a culpada pelo desfazimento do vínculo.
+6. Resolvida a compra e venda por culpa da alienante, repercutindo na necessária resolução do contrato de financiamento com alienação fiduciária que lhe era conexo e viabilizara a consumação do negócio subjacente, pois não pode subsistir de forma independente, pois vinculado e dependente da operação antecedente, o agente fiduciário, não tendo concorrido para a resolução, não pode ser solidariamente responsável pela composição das perdas e danos sofridos pela compradora/mutuária, devendo a obrigação passível de lhe ser imputada ser restringida à repetição do que lhe fora destinado, tão somente, ressalvado eventual direito de regresso, pois não pode a compradora sofrer quaisquer prejuízos provenientes dum negócio resolvido em razão do inadimplemento de sua parceira negocial.
+7. Desprovido ou não conhecido o recurso, a resolução implica a majoração dos honorários advocatícios originalmente imputados à parte recorrente, porquanto o novo estatuto processual contemplara o instituto dos honorários recursais, devendo a majoração ser levada a efeito mediante ponderação dos serviços executados na fase recursal pelos patronos da parte exitosa e guardar observância à limitação da verba honorária estabelecida para a fase de conhecimento (NCPC, arts. 85, §§ 2º e 11).
+8. Apelação das rés não conhecida. Apelação do réu conhecida e parcialmente provida. Preliminar de não conhecimento acolhida. Preliminar de ilegitimidade passiva rejeitada. Unânime. (e-STJ, fls. 684/685)
+Os embargos de declaração opostos pelos ora agravantes foram rejeitados.
+Na leitura das razões do apelo nobre, os agravantes alegaram dissídio jurisprudencial e violação dos arts. 1.000 e 1.022 do CPC/2015. A par da negativa de tutela jurisdicional adequada, os agravantes sustentaram que o Tribunal local não observou a expressa ressalva quanto ao interesse de recorrer explicitada nas razões de sua apelação, momento em que também comprovou a realização de depósito judicial. Acrescentaram que sua realização afasta a incidência de juros moratórios e correção monetária, finalidade visada pelos ora agravantes, de modo que o depósito judicial integral, por si só, não configura ato incompatível com o desejo de recorrer.
+No que respeita à alegação de violação do art. 1.022 do CPC/2015, extrai-se da leitura minudente do v. acórdão recorrido que o eg. Tribunal de origem se manifestou expressamente acerca do tema, consignando que os ora agravantes, em suas razões de apelação, expressaram que o depósito judicial tinha por finalidade o afastamento dos encargos legais e ressaltaram a manutenção do interesse recursal.
+É o que se extrai do seguinte trecho do acórdão:
+"Promovendo o recolhimento do montante apurado, alinharam ao final da peça recursal a seguinte ressalva, verbis:
+"2.10. DA GARANTIA DO JUÍZO - DO DEPÓSITO DA CONDENAÇÃO As Apelantes, visando, inicialmente, conter a incidência de juros e correção monetária, arrola, na oportunidade, o comprovante do depósito judicial do valor integral da condenação, no montante de R$472.795,72 (quatrocentos e setenta e dois mil reais setecentos e noventa e cinco reais e setenta e dois centavos). Trata-se, sobretudo, além de garantir o juízo, de demonstrar a boa-fé das Apelantes, as quais, firmes nas suas alegações, acreditam, fielmente, na possibilidade de reversão do julgado. Não se cuida, portanto, de recuso meramente protelatório, mas, sim, da busca da aplicação da melhor solução ao caso concreto, que pode ser encontrada por meio das razões expostas." 2
+Alinhados esses fatos processuais emerge inexorável que as empresas apelantes efetivamente praticaram ato incompatível com a vontade de recorrer, incorrendo em comportamento contraditório e ensejando o aperfeiçoamento da preclusão lógica. A par do fato de que, como cediço, não encerra pressuposto recursal a garantia do juízo com o recolhimento do equivalente à condenação, não é passível de conviverem, na conformidade da lógica processual, o recolhimento do montante ao qual foram condenadas e o alinhamento de fundamentação visando a reforma do decidido. Ora, o depósito do equivalente à condenação, ressalvado eventuais diferenças, encerra nitidamente o reconhecimento do acerto do decisório, pois implica a realização do pedido na conformidade do que fora acolhido.
+Descerrando o depósito do montante condenatório reconhecimento do pedido acolhido, pois não pode ser interpretado como simples garantia do juízo, pois dispensável como pressuposto recursal, implica a prática de ato inexoravelmente incompatível com a vontade de recorrer, consoante preceitua o artigo 1.000 e seu parágrafo único do CPC  .. "
+(e-STJ, fl. 689, g.n.)
+Nesse contexto, embora o v. acórdão tenha concluído no sentido de que a parte recorrente teria agido de forma contraditória ao recorrer e simultaneamente efetuar o depósito integral da condenação, nota-se que os contornos fáticos foram bem delineados, e os fundamentos, expressamente declinados. Assim, não se cogita de nenhum dos vícios previstos no art. 1.022 do CPC/2015 no caso dos autos.
+Salienta-se, por oportuno, que esta Corte Superior tem entendimento pacífico de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, colhem-se estes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA RECURSAL DO AUTOR.
+(..)
+2. Não constatada a alegada violação aos artigos 489, § 1º, inc. IV, e 1.022, inc. II, do CPC/15, porquanto todas as questões submetidas a julgamento foram apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente, ainda que em sentido contrário a pretensão recursal.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp 1.378.786/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/03/2019, DJe de 15/03/2019 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DOIS RECURSOS INTERPOSTOS CONTRA A MESMA DECISÃO. PRECLUSÃO. UNIRRECORRIBILIDADE. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO DE PRECEITO LEGAL. DISSÍDIO JURISPRUDENCIAL NÃO VERIFICADO.
+(..)
+2. Não se viabiliza o recurso especial pela indicada violação dos artigos 489 e 1.022 do Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, ainda que em sentido contrário à pretensão da parte recorrente.
+(..)
+7. Agravo interno de fls. 720-730 não conhecido. Agravo interno de fls. 707-717 não provido."
+(AgInt no AREsp 1.270.355/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/03/2019, DJe de 19/03/2019 - g. n.)
+No que tange à alegação de ofensa ao art. 1.000 do CPC/2015, todavia, é de rigor o reconhecimento de que os fundamentos adotados como razões de decidir pelo Tribunal local divergem frontalmente de jurisprudência firme desta Corte Superior.
+Com efeito, o trecho do acórdão acima transcrito evidencia o reconhecimento pelas instâncias ordinárias de que houve expressa ressalva da parte quanto ao interesse de recorrer, de forma que o depósito judicial efetuado se destinava exclusivamente a fazer cessar os consectários da dívida. Portanto, a existência dessa ressalva expressa é fato incontroverso nos autos, limitando-se o debate devolvido à aplicação do direito em tese, no que tange à possibilidade de convivência do depósito judicial integral com a interposição do recurso cabível.
+Acerca dessa questão, o Superior Tribunal de Justiça assentou que o ato incompatível com a vontade de recorrer deve ser inequívoco, o que não ocorre nos casos em que se realiza depósito judicial, porém expressamente se restringe seus efeitos, deixando a salvo o interesse da parte em recorrer.
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CESSÃO DE DIREITOS CREDITÓRIOS CONSTANTES DE CONTRATOS DE PEX E PCT. CONVERSÃO DAS AÇÕES EM PERDAS E DANOS. ALEGAÇÃO DA PARTE RECORRIDA DE PERDA SUPERVENIENTE DO OBJETO DO RECURSO. INEXISTÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÕES. OCORRÊNCIA. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA SANAR AS MÁCULAS SUSCITADAS. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO NA HIPÓTESE. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte dispõe que a aceitação tácita da sentença ou decisão, que caracterize ato incompatível com a vontade de recorrer, deve se afigurar inequívoca, o que não se evidencia na espécie. Precedente.
+2. Verifica-se que o Tribunal local não analisou devidamente todas as questões relevantes para a solução da lide, sendo impositivo o reconhecimento da negativa de prestação jurisdicional, a demandar o retorno dos autos à origem que a Corte estadual pronuncie-se sobre as matérias tidas por omissas.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese ora examinada.
+4. Agravo interno desprovido.
+(AgInt no AREsp 799.829/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/04/2020, DJe 24/04/2020, g.n.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. NULIDADE DE INTIMAÇÃO NO PROCESSO DE CONHECIMENTO. ACÓRDÃO PROFERIDO EM EMBARGOS DE DECLARAÇÃO OPOSTOS AO ARESTO DA APELAÇÃO, CUJA INTIMAÇÃO NÃO OBSERVOU O PEDIDO EXPRESSO DE QUE AS FUTURAS INTIMAÇÕES FOSSEM FEITAS EM NOME DOS PATRONOS INDICADOS PELA PARTE. ARTS. 154, 245, 236, § 1º, e 247 DO CPC. OFENSA CARACTERIZADA. ART. 503, PARÁGRAFO ÚNICO, DO CPC. PRECLUSÃO LÓGICA NÃO EVIDENCIADA. RESSALVA FEITA PELO RECORRENTE AO EFETUAR O DEPÓSITO. APELO NOBRE
+ ..
+4. A instituição financeira, ao efetuar o depósito da importância de R$ 2.659.591,43, ressalvou a sua intenção de impugnar a execução, motivo pelo qual viola o art. 503, parágrafo único, do CPC, a orientação firmada pela Corte de origem, que desconsiderando a expressa ressalva do Banco, concluiu que o mencionado depósito consistiu em ato incompatível com a vontade de recorrer, sobretudo na hipótese vertente, em que, além da ressalva de que iria oferecer impugnação à execução, o Banco requereu que fosse indeferido qualquer pedido de levantamento que viesse a ser formulado pelo ora recorrido e alertou que ainda se encontrava pendente o pedido de devolução do prazo recursal em razão da nulidade de intimação já referida.
+5. Recurso especial parcialmente provido, para declarar a nulidade absoluta dos atos processuais praticados após o julgamento dos embargos de declaração 85820/2009 (fls. 155/159) pela eg. Corte Estadual, determinando-se nova publicação, constando os nomes dos advogados indicados pelas partes.
+(REsp 1213920/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/06/2011, DJe 05/08/2011, g.n.)
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO PREVIDÊNCIA PRIVADA.
+RESGATE DE CONTRIBUIÇÕES. PRESCRIÇÃO. SÚMULAS 291 E 427. PERDA DE DE OBJETO. NÃO OCORRÊNCIA. DO 83/STJ.
+1. O depósito efetivado em execução provisória de sentença, com a nítida finalidade de procurar evitar a aplicação da multa prevista no art. 475-J do CPC, não torna sem objeto agravo de instrumento interposto com a finalidade de destrancar o recurso especial e nem configura ato incompatível com a vontade de recorrer.
+2. Prescrevem em cinco anos as ações que tenham por objeto diferenças de complementação de aposentadoria ou restituição de contribuição (reserva de poupança), de participantes de entidades de previdência privada que desligam do plano (Súmulas 291 e 427 do STJ), considerando-se como termo inicial "a data em que houver a devolução a menor das contribuições pessoais recolhidas pelo associado ao plano previdenciário" (REsp 1.111.973/SP, submetido ao rito dos recursos repetitivos, CPC, art. 543-C).
+3. Agravo regimental da PREVI parcialmente provido. Agravo regimental de Sérgio Luiz Zanchi a que se nega provimento.
+(AgRg no Ag 843.911/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/09/2011, DJe 06/10/2011, g.n.)
+Portanto, tendo o acórdão recorrido dissentido frontalmente do entendimento desta Corte Superior, é de rigor o provimento do recurso especial, nos termos da Súmula 568/STJ, a fim de afastar o não conhecimento do recurso de apelação.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão monocrática de fls. 844-849, conhecer do agravo e dar provimento ao recurso especial, determinando o retorno dos autos ao eg. Tribunal de origem para que prossiga no julgamento da apelação interposta pelos ora agravantes, na esteira do devido processo legal.
+É como voto.
