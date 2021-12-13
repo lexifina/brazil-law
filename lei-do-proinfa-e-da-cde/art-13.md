@@ -18,6 +18,7 @@ XIII-A - prover recursos, exclusivamente por meio de encargo tarifário, e permi
 XIV - prover recursos para o custeio das isenções e do desconto de que tratam as disposições da lei resultante da conversão da Medida Provisória nº 1.010, de 25 de novembro de 2020.
 XV - prover recursos para fins de modicidade tarifária no Ambiente de Contratação Regulada (ACR) por meio de créditos em favor das concessionárias e permissionárias de distribuição de energia elétrica;
 XVI - promover incentivo ao agrupamento de outorgas de que trata o art. 4º-E da Lei nº 9.074, de 7 de julho de 1995.
+XVII - prover recursos, arrecadados exclusivamente por meio de encargo tarifário, para a amortização de operações financeiras vinculadas a medidas de enfrentamento aos impactos financeiros no setor elétrico decorrentes da situação de escassez hídrica e dos diferimentos aplicados no processo tarifário anterior à liberação dos recursos da operação financeira, conforme definido em regulamento.
 § 1º Os recursos da CDE serão provenientes:
 I - das quotas anuais pagas por todos os agentes que comercializem energia com consumidor final, mediante encargo tarifário incluído nas tarifas de uso dos sistemas de transmissão ou de distribuição ou cobrado diretamente dos consumidores pela CCEE, conforme regulamento da Aneel;
 II - dos pagamentos anuais realizados a título de uso de bem público;
@@ -30,6 +31,11 @@ VI - (VETADO).
 § 1º-C. O ativo constituído de acordo com o inciso IX do caput é limitado à disponibilidade de recursos de que trata o § 1º-B, destinados a esse fim, vedados o repasse às quotas anuais e a utilização dos recursos de que trata o § 1º.
 § 1º-F. Aos recursos de que trata o § 1º deste artigo serão, excepcionalmente, acrescidos os recursos de que trata o art. 5º-B da Lei nº 9.991, de 24 de julho de 2000, conforme regulamento e sob a fiscalização da Aneel.
 § 1º-G. Fica a União autorizada a destinar recursos para a CDE, limitados a R$ 80.000.000,00 (oitenta milhões de reais), para o custeio de que trata o inciso XIV do caput deste artigo.
+§ 1º-H O Poder Executivo federal poderá estabelecer condições e requisitos para a estruturação das operações financeiras e para a disponibilização e o recolhimento dos recursos de que trata o inciso XVII do caput.
+§ 1º-I Os montantes a serem captados por meio das operações financeiras de que trata o § 1º-H deverão observar os custos adicionais decorrentes da situação de escassez hídrica e dos diferimentos aplicados no processo tarifário anterior à liberação dos recursos da operação financeira, condicionada a captação à prévia aprovação pela Aneel.
+§ 1º-J O encargo de que trata o inciso XVII do caput terá recolhimento específico nas faturas de energia elétrica até a amortização das operações financeiras.
+§ 1º-K Os custos administrativos e financeiros e os encargos tributários incorridos nas operações financeiras previstas no § 1º-H serão integralmente custeados pelo encargo de que trata o inciso XVII do caput.
+§ 1º-L Caso ocorra captação em valor superior aos custos referidos no § 1º-I, a distribuidora deverá ressarcir o consumidor proporcionalmente aos custos e aos encargos tributários relativos ao valor excedente, conforme apuração pela Aneel.
 § 2º O montante a ser arrecadado em quotas anuais da CDE calculadas pela Aneel corresponderá à diferença entre as necessidades de recursos e a arrecadação proporcionada pelas demais fontes de que trata o § 1º.
 § 2º-A. O poder concedente deverá apresentar, conforme regulamento, até 31 de dezembro de 2017, plano de redução estrutural das despesas da CDE, devendo conter, no mínimo:
 I - proposta de rito orçamentário anual;
