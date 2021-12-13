@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial sob argumento de incidência da Súmula n. 83/STJ.
+Na origem, a parte ora recorridaajuizou ação indenizatória contra a parte ora recorrente(e-STJ fls. 29/35).
+Em primeira instância, a demanda foi julgada procedente, tendo havido apelação da agravante, à qual foi negado conhecimento em acórdão com a seguinte ementa (e-STJ fl. 318):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO PORDANOS MATERIAIS E MORAIS. RESSARCIMENTO DEDESPESAS MÉDICAS DECORRENTE DE NEGATIVA DECOBERTURA. SENTENÇA DE PROCEDÊNCIA.INSURGÊNCIA DA REQUERIDA.PEDIDO DE JUSTIÇA GRATUITA. HIPOSSUFICIÊNCIADEMONSTRADA. BENESSE CONCEDIDA COMEFEITO EX NUNC.RAZÕES RECURSAIS QUE REPRODUZEM IPSISLITTERIS AS MESMAS TESES LANÇADAS NACONTESTAÇÃO. IRREGULARIDADE FORMAL.NECESSIDADE DE FUNDAMENTAÇÃO FÁTICA EJURÍDICA ACERCA DOS TERMOS DA DECISÃO OBJETODA IRRESIGNAÇÃO. OFENSA AO PRINCÍPIO DADIALETICIDADE CONFIGURADA.HONORÁRIOS RECURSAIS. EXEGESE DO ART. 85,§11, DO CÓDIGO DE PROCESSO CIVIL. EXIGIBILIDADESUSPENSA A TEOR DO ART. 98, §3º DO CPC.RECURSO NÃO CONHECIDO.
+Os embargos de declaração opostos foram rejeitados, com imposição de multa (e-STJ fls. 358/365).
+Sobreveio o recurso especial (e-STJ fls. 225/231),fundamentadono art. 105, III, "a", da CF, no qual a recorrente sustentou violação do art. 1.010 do CPC/2015, sob alegação de quea reprodução dos argumentos da contestação não justifica, por si só, a inadmissibilidade do apelo.
+Aduziu, assim, que o recurso especial deve ser provido a fim de se determinar o retorno dos autos à origem para que o Tribunal de Justiça conheça da apelaçãoe julgue-a em seu mérito.
+Suscita ainda ser indevida a multa por embargos protelatórios aplicada na origem.
+No agravo (e-STJ fls. 419/431), afirma a presença dos requisitos de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+Ao considerar que a apelação era inadmissível, afirmou o Tribunal de origem que "a Apelante simplesmente transcreveu novamente sua contestação"(e-STJ fl. 326).
+Constata-se que a orientação adotada pelo Tribunal estadual diverge da jurisprudênciado STJ, segundo a qual a mera repetição dos argumentos defensivos apresentados na apelação não implica em ausência de impugnação específica da sentença, de modo que pode ser admitida, como exame casuístico, no qual se averigue caso as razões recursaisguardem alguma pertinência com a matéria decidida na sentença.Confiram-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. PRINCÍPIO DA DIALETITICIDADE. PRINCÍPIO DISPOSITIVO. INSTRUMENTALIDADE DAS FORMAS. HARMONIZAÇÃO. ARTS. 1.010 E 1.013 DO CPC/15. REPRODUÇÃO DAS ALEGAÇÕES DA INICIAL NA FUNDAMENTAÇÃO DO APELO. CONHECIMENTO.POSSIBILIDADE. CONDIÇÃO. EFETIVA DEMONSTRAÇÃO DA IRRESIGNAÇÃO E DO PROPÓSITO DE OBTER NOVO JULGAMENTO. HIPÓTESE CONCRETA. OCORRÊNCIA PARCIAL.
+1. Ação declaratória de inexistência de débito cumulada com indenização de danos materiais e compensação de danos morais, por meio da qual se sustenta ter sido descumprido acordo verbal para a imediata imissão na posse de imóvel e estar sendo cobrada dívida condominial extraordinária não imputável ao promitente comprador.
+2. Recurso especial interposto em: 09/12/2016; conclusos ao gabinete em: 25/04/2017; aplicação do CPC/15.
+3. O propósito recursal é determinar se: a) a mera reprodução, na apelação, das alegações da inicial acarreta, necessariamente, violação ao princípio da dialeticidade e enseja, assim, o não conhecimento de referido recurso; b) na hipótese concreta, as razões da apelação apresentadas pelo recorrente infirmam todos os fundamentos da sentença recorrida.
+4. O principal efeito dos recursos é o devolutivo, já que destinado a impedir o trânsito em julgado da sentença, permitindo o reexame, a nova apreciação, da matéria já decidida pelo Judiciário por outro órgão funcionalmente superior.
+5. O efeito devolutivo é regido pelo princípio dispositivo e pelo tantum devolutum quantum appellatum, pois, por meio do recurso, somente se devolve ao órgão superior a matéria recorrida pela parte interessada.
+6. A jurisprudência do STJ privilegia a instrumentalidade das formas, adotando a orientação de que a mera circunstância de terem sido reiteradas, na petição da apelação, as razões anteriormente apresentadas na inicial da ação ou na contestação, não é suficiente para o não conhecimento do recurso, eis que a repetição dos argumentos não implica, por si só, ofensa ao princípio da dialeticidade.
+7. É essencial, todavia, que as razões recursais da apelação guardem alguma pertinência com a matéria decidida na sentença.
+8. Na hipótese concreta, do cotejo entre as razões da apelação e a fundamentação da sentença, infere-se, no que diz respeito ao capítulo referente ao pedido de restituição dos valores pagos a título de despesas condominiais extraordinárias, que o recorrente logrou aduzir argumentos suficientes, ainda que em tese, para impugnar os correspondentes fundamentos da decisão judicial de mérito.
+9. Quanto ao capítulo referente à imissão na posse, contudo, a apelação sequer minimamente indica a irresignação do apelante quando à fundamentação da sentença, tampouco seu propósito de obter novo julgamento a respeito da matéria.
+10. Recurso especial parcialmente provido.
+(REsp 1665741/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 03/12/2019, DJe 05/12/2019.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.AÇÃO ORDINÁRIA VISANDO O APROVEITAMENTO DE CRÉDITOS DE ICMS.SENTENÇA DE IMPROCEDÊNCIA DA AÇÃO. APELAÇÃO QUE, ALÉM DE REITERAR OS ARGUMENTOS DEDUZIDOS NA PETIÇÃO INICIAL, APRESENTA RAZÕES RECURSAIS QUE IMPUGNAM OS FUNDAMENTOS DA SENTENÇA. AUSÊNCIA DE VIOLAÇÃO AO ART. 514 DO CPC/73. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+ ..
+III. Na forma da jurisprudência dominante do STJ, a repetição dos argumentos elencados na petição inicial ou na contestação não implica, necessariamente, na inadmissibilidade do recurso de apelação, desde que, dos fundamentos de fato e de direito do apelo, fique evidenciada a intenção de reforma da sentença, como no presente caso. Precedentes: STJ, REsp 493.484/PR, Rel. Ministro BARROS MONTEIRO, QUARTA TURMA, DJU de 27/06/2005; REsp 771.382/PR, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 26/06/2008; REsp 976.287/MG, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe de 08/10/2009; REsp 1.065.412/RS, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe de 14/12/2009; REsp 1.109.440/PR, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 24/09/2009; AgRg no AREsp 694.714/AM, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 06/11/2015.
+IV. O exame atento da Apelação revela que, além de reproduzir alguns trechos da petição inicial, o ora agravado atendeu, naquele recurso, às prescrições do art. 514 do CPC 73. Com efeito, a Apelação indicou os nomes e a qualificação das partes, os fundamentos de fato e de direito demonstradores do inconformismo do apelante com a sentença, e formulou o pedido de sua reforma, impugnando, especificamente, os fundamentos que motivaram a sentença.
+V. Ao contrário do que consta do acórdão recorrido e deste Agravo interno, as razões recursais, apresentadas pela parte autora em sua Apelação, não estão dissociadas dos fundamentos da sentença, que foi efetivamente impugnada, pelo que deve ser mantido o provimento dado ao Recurso Especial, para determinar que o Tribunal de origem prossiga, no julgamento da Apelação.
+VI. Agravo interno improvido.
+(AgInt no REsp 1282123/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 29/04/2020, DJe 05/05/2020.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUNAL DO JÚRI.IMPUGNAÇÃO DOS FUNDAMENTOS DA SENTENÇA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. INEXISTÊNCIA. LEGÍTIMA DEFESA. SÚMULA N. 7/STJ.RECURSO DESPROVIDO.
+1. A mera repetição, no recurso de apelação, dos termos da petição inicial ou da contestação, não é fator suficiente a ensejar o não conhecimento do recurso por ofensa o princípio da dialeticidade.
+Precedentes.
+2. A análise acerca da ocorrência de legítima defesa implica o reexame do material fático-probatório dos autos, providência inadmissível na via do recurso especial. Óbice do enunciado n. 7 da Súmula desta Corte.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 1304723/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/10/2018, DJe 26/10/2018.)
+APELAÇÃO. REPRODUÇÃO DOS ARGUMENTOS DEDUZIDOS NA CONTESTAÇÃO.REQUISITOS SATISFEITOS.
+A reprodução na apelação das razões articuladas na defesa não acarreta a inadmissibilidade do recurso, especialmente quando as alegações são suficientes à demonstração do interesse da parte pela reforma da sentença. Precedentes do STJ.
+Recurso especial conhecido e provido.
+(REsp 512.969/DF, Rel. Ministro BARROS MONTEIRO, QUARTA TURMA, julgado em 14/06/2005, DJ 19/09/2005, p. 329.)
+Diante do exposto, CONHEÇO do agravo e DOU PROVIMENTO PARCIAL ao recurso para determinar o retorno dos autos ao Tribunala quo, para que seja novamente apreciadoo recurso de apelação, considerando os parâmetros traçados pela jurisprudência do STJ no julgamento da causa. Prejudicadas as demais alegações recursais.
+Publique-se. Intimem-se.
