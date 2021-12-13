@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno interposto por BANCO REGIONAL DE DESENVOLVIMENTO DO EXTREMO SUL - BRDE contra decisão da il. Presidência deste Tribunal Superior que, com apoio nas Súmulas 5 do STJ e 284 do STF, ao conhecer do agravo, não conheceu de recurso especial, em que discute a anulação de cláusula contratual que impõe a renúncia, pelo advogado contratado, dos honorários sucumbenciais nas ações ajuizadas em prol do banco contratante.
+Cumpre esclarecer que, nas razões do especial, o banco alega violação do art. 55, inciso XI, da Lei n. 8.666/1993, por entender que, ante a vinculação ao instrumento convocatório, não poderia a parte recorrida postular honorários advocatícios de sucumbência, após a extinção do contrato administrativo, por decurso de tempo, porquanto fora devidamente remunerado durante o período de sua execução, conforme as regras acordadas.
+No agravo interno, a parte agravante sustenta, em síntese (fls. 457/462):
+No caso em tela se afigura absolutamente desnecessário adentrar na análise de cunho contratual porque o acórdão do TJSC já pontificou que na relação jurídica material o vínculo entre as partes se deu por meio de contrato administrativo. Assim, a partir desse fato incontroverso (e que por conseguinte não precisa ser revisitado por esta Corte Superior) a questão que se impõe é estritamente jurídica: se o preço estabelecido em um contrato administrativo foi totalmente pago e se esse contrato administrativo decorre de uma licitação em que constava a correspondente minuta do instrumento é válido admitir a hipótese de um arbitramento judicial de "sobrepreço" ao que foi pactuado  Ou isso viola o princípio da vinculação ao instrumento convocatório e, em consequência, caracteriza negativa de vigência ao artigo 55, XI, da Lei nº 8.666/93  Ora, essa é a tese do recurso especial!
+ ..
+é inaplicável ao caso em tela o enunciado nº 284 da Súmula do STF haja vista que o fundamento jurídico utilizado pelo Tribunal a quo para relativizar a aplicação da regra prevista no art. 55, XI, da Lei 8.666/93 foi a suposta necessidade de evitar o enriquecimento sem justa causa do ora Recorrente e as razões do recurso especial impugnaram especificamente tal fundamento, como se viu dos excertos acima colacionados.
+Sem impugnação por BEDIN ADVOCACIA E CONSULTORIA (fl. 466).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Não sendo caso para observância dos referidos óbices sumulares e com o fim de melhor análise da matéria, a decisão agravada deve ser reconsiderada.
+Ante o exposto, reconsidero a decisão agravada.
+Dê-se vista ao Ministério Público Federal para oferecimento de parecer.
+Publique-se. Intime-se.
