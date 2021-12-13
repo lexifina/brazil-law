@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+1. Cuida-se de agravo interno interposto por ALICE MARIA ELEUTERIO GALI, FABIANA FRASCARELLI NICOLIELO, JOSE APARECIDO PEREIRA, PEDRO PEREIRA DE ANDRADE, ROSA HELENA RAMOS, ROSANGELA APARECIDA DE ANDRADE, sob a vigência do Novo Código de Processo Civil, contra decisão deste relator, que deuprovimento ao recurso especial interposto pela parte contrária, a fim de remeteros autosà Justiça Federal para análise do interesse jurídico da CEF para ingressar no feito.
+Inconformada, a parte ora agravante, em apertada síntese, sustenta queas apólices de seguro dos ora Agravantes não são publicas, ou seja, do ramo 66, e que"nos feitos em que se discute a respeito de contrato de seguro privado, apólice de mercado, Ramo 68, adjeto a contrato de mútuo habitacional, por envolver discussão entre a seguradora e o mutuário, e não afetar o FCVS (Fundo de Compensação de Variações Salariais), não existe interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário, sendo, portanto, da Justiça Estadual a competência para o seu julgamento" (fls. 473-482).
+Contrarrazões ao agravo interno às fls. 486-496.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO HABITACIONAL. SFH. AÇÃO AJUIZADA ANTES DA VIGÊNCIA DA MP 513/2010, CONVERTIDA NA LEI 12.409/2011, INTERESSE JURÍDICO DA CEF. COMPETÊNCIA DA JUSTIÇA FEDERAL. RE 827.996/PR, REPERCUSSÃO GERAL. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO NÃO PROVIDO.
+1. Segundo o estabelecido pelo STF, no julgamento do RE 827.409/PR, com repercussão geral, "a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS", sendo "aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010)".
+2. Ainda de acordo com a tese firmada no julgamento do RE 827.409/PR (item 1.1), nos processos ainda sem sentença de mérito (na fase de conhecimento) quando da entrada em vigor da MP 513/2010, devem os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011.
+3. Hipótese em que não havia sentença de mérito na fase de conhecimento em 26.11.2010, devendo ser acolhido o pedido de remessa dos autos à Justiça Federal, competente para decidir acerca do interesse jurídico do FCVS e a legitimidade da CEF para intervir na causa.
+4. Agravo interno não provido.
+VOTO
+2. O agravo interno não merece ser acolhido.
+O Supremo Tribunal Federal, no julgamento do RE 827.996, submetido ao rito da repercussão geral, estabeleceu as seguintes teses:
+1) Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010):
+1.1.) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011; e
+1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença; e
+2) Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011".
+No caso presente, a ação originária foi protocolada no dia 03/12/2013 (fl. 6), e não havia sentença de mérito quando da edição da MP 513, de 26.11.2010, convertida na Lei 12.409/2011, na medida em que a sentença de mérito somente foi prolatada em 30/9/2015 (fl. 156).
+A decisão interlocutória agravada, contra a qual interposto o agravo de instrumento do qual tirado orecurso especial, indeferiu a participação da CEF na relação processual e a remessa dos autos à Justiça Federal, em contrariedade, portanto, à orientação firmada pelo STF (item 1.1 acima transcrito).
+Portanto, os autos devem ser remetidos à Justiça Federal para análise do interesse jurídico da CEF para ingressar no feito.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
