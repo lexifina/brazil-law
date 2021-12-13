@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EDENISE CHRISTOFOLI HAMUCHE, à decisão de fls. 1636/1637, que não conheceu do recurso.
+Sustenta a parte embargante que:
+01. A decisão recorrida aponta intempestividade do recurso de Agravo em Recurso Especial, porquanto teria sido interposto fora do prazo.
+No entanto, a decisão ou omite ordem cronológica importante ou está eivada de erro material.
+ ..
+Em julgamento de apelação, a decisão restou disponibilizada em 10.12.2019. Tendo sido opostos embargos de declaração, a decisão referente a este recurso restou publicada em 06.03.2020.
+O Recurso Especial restara interposto em 18.05.2020, tendo em ponto deste recurso sido explicitado a respeito da tempestividade. Veja-se:
+ ..
+Não havia no caso qualquer necessidade de comprovação de feriado local ou similar, posto que o Recurso Especial fosse direcionado ainda à instância de segundo grau e a suspensão dos prazos pelo TJSP e posteriormente pelo CNJ eram de conhecimento público, o primeiro, pelo próprio Tribunal de Justiça de São Paulo, o qual apreciaria o cabimento do Recurso Especial, e, em segundo pelo Conselho Nacional de Justiça, que opera em âmbito nacional.
+Não sendo o caso, portanto, de ausência de comprovação de "feriado local" ou algo analógico a isto, posto que a suspensão dos prazos fosse de conhecimento dos julgadores que apreciariam o Recurso em âmbito do próprio Tribunal de Justiça.
+Em razão de que o Recurso Especial era dirigido ao juízo de segundo grau, e a este não era preciso comprovador o motivo da suspensão dos prazos, posto que promovido pelo próprio tribunal.
+Inclusive, na decisão que inadmiti o Recurso Especial, sequer é feita qualquer menção a intempestividade.
+ ..
+Sendo que o Agravo em Recurso Especial fora interposto em 26.08.2020, dentro do prazo de quinze dias úteis, a contar do dia útil seguinte à publicação, que remonta a data de 05 de agosto de 2020.
+Dessa senda, denota-se que não há qualquer intempestividade, seja do Agravo em Recurso em Recurso Especial, ou quer seja, do próprio Recurso Especial (fls. 1639/1641).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Veja-se que houve a disponibilização da decisão do acórdão recorrido em 6/3/2020, considerando-se publicada em 9/3/2020 (fl. 1555). Excluindo-se o dia 9/3/2020 (primeiro dia), inicia-se a contagem no dia 10/3/2020 até o dia 18/3/2020. Exclui-se da contagem o período de 19/3 a 30/4/2020 (suspensão dos prazos pelo CNJ), bem como o dia 1º/5/2020 (feriado nacional). Após, a contagem é reiniciada no dia 4/5/2020 finalizando o prazo no dia 13/5/2020, devendo ser comprovada a suspensão do expediente forense, acaso existente.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 13/5/2020, sendo que o recurso especial foi interposto somente em 18/5/2020, fora do prazo.
+Cumpre esclarecer que em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme Resolução do CNJ n. 313, de 19 de março de 2020, voltando a fluírem, para os processos eletrônicos, em 4/5/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+A propósito: AgRg no AREsp 1774897/PB, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 28/06/2021; AgInt no AREsp 1724837/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Dje de 16/06/2021; AgInt no AREsp 1756715/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 04/06/2021; AgInt no AREsp 1757717/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/05/2021.
+Ademais, observe-se que "o juízo de admissibilidade do recurso especial é bifásico, assim, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar novamente o preenchimento dos pressupostos recursais". (EDcl no AgInt no REsp 1781795/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16/6/2020.)
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema, nos autos do processo, atestando a tempestividade do recurso, não impede o reexame desse requisito pelo STJ. Nesse sentido, o AgInt nos EDcl no AREsp 1544693/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 5/5/2020; e o AgInt no AREsp 1547898/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 12/3/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
