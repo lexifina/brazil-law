@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que, sob argumento de incidência daSúmulan. 83 do STJ, negou seguimento ao recurso especial.
+O aresto impugnado apresenta a seguinte ementa (e-STJ fl. 747):
+Obrigação de fazer c/c indenizatória.Plano de saúde coletivo.Pretensão de permanecer no plano de saúde oferecido pelas rés, nas mesmas condiçõesde cobertura de que gozava quando da vigência de seu contrato de trabalho, apósdemissão sem justa causa.Sentença de procedência.Apelações.Aplicação das regras da lei civil, olhos postos na Súmula 608, recém editada pela 2ªSeção do Superior Tribunal de Justiça, aos 17/04/18, no sentido de que "Aplica-se oCódigo de Defesa do Consumidor aos contratos de plano de saúde, salvo osadministrados por entidades de autogestão".
+"1. Tese para os fins do art 1.040 do CPC/2015: Nos planos de saúde coletivoscusteados exclusivamente pelo empregador não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário, salvo disposiçãocontrária expressa prevista em contrato ou em acordo /convenção coletiva de trabalho,não caracterizando contribuição o pagamento apenas de coparticipação, tampouco seenquadrando como salário indireto. 2. No caso concreto, recurso especial provido"(REsp 1.680.318/SP - Min. Ricardo Villas Boas Cueva - Segunda seção - DJe24/08/2018).
+Em que pese o longo período de serviços prestados a ex-empregadora, fato é que oplano de saúde oferecido aos empregados era custeado integralmente pela ré ClaroS. A., conforme consta dos regulamentos acostados, por isso que "não é consideradacontribuição a coparticipação do consumidor, única e exclusivamente, emprocedimentos, como fator de moderação, na utilização dos serviços de assistênciamédica ou hospitalar" (§ 6o do art. 30 da Lei 9.656/98).
+Contudo, deve-se facultar à apelada, nos termos do pedido subsidiário da primeiraapelante, sua migração para um plano de saúde individual correndo às próprias custas orespectivo pagamento, sem carência qualquer à vista do longo período em que associadaà AMO.
+Ônus sucumbenciais redistribuídos.
+Recurso da 2ª ré provido, parcialmente provido o outro.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 764/767).
+Sobreveio o recurso especial (e-STJ fls. 769/786), fundamentado no art. 105, III, "a", da CF, no qual a recorrente sustentou violação dos arts. 30da Lei n. 9.656/1998 458, § 2º, da CLT, argumentando que, no caso, a parte recorrida não teria preenchido os requisitos necessários para sua manutenção no plano de saúde, ante a ausência de contribuição diretaao tempo da prestação de serviços.
+No agravo (e-STJ fls. 818/832), afirma a presença dos requisitos de admissibilidade do recurso especial.
+É o relatório.
+Decido.
+Inicialmente, ao apreciar o caso, entendeu o Tribunal de origem que não seria devida a manutenção do beneficiário no convênio vigente, durante a relação empregatícia, ante a ausência de contribuição direta para o seu custeio.
+Registrou-se, porém, que, "Malgrado tudo isso deve-se facultar à apelada, nostermos do pedido subsidiário da primeira apelante (fls. 3 deste voto, "infine"), sua migração para um plano de saúde individual correndo àspróprias custas o respectivo pagamento, sem carência qualquer à vistado longo período em que associada à AMO, observada a portabilidadeespecial de que trata a Resolução Operacional n. 2.470/2019 da ANS" (e-STJ fl. 755).
+O fundamento do acórdão recorrido não foi impugnado especificamente, o que atrai o óbice da Súmula n. 283 do STF.
+Constata-se, ademais, queos dispositivos supostamente afrontados (art. 30 da Lei de Planos de Saúde e 458, § 2º, da CLT) são incapazesde infirmar a conclusão do acórdão recorrido, uma vez que o Tribunal de origem reconheceu a impossibilidade de manutenção da parte beneficiária no plano de saúde existente, durante a vigência da relação trabalhista (e-STJ fls. 752/754).
+Nesses termos, a impertinência temática entre a norma legal tida por violada enseja reconhecera inaptidão das razões do recurso para infirmar a conclusão do acórdão recorrido, sendo inadmissível o recurso, conforme orienta o enunciado n. 284 da Súmula do STF. Cito, a propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. OFENSA AO ART. 530 DO CPC. AUSÊNCIA DE PERTINÊNCIA TEMÁTICA. ARTS. 128 E 460 DO CPC. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA CONGRUÊNCIA. APOSENTADO. MANUTENÇÃO NAS MESMAS CONDIÇÕES DE COBERTURA EXISTENTES QUANDO DA VIGÊNCIA DO CONTRATO DE TRABALHO. ALEGAÇÃO DE OFENSA A RESOLUÇÕES. INVIABILIDADE DA ABERTURA DA INSTÂNCIA ESPECIAL. AGRAVO IMPROVIDO.
+1. É firme a jurisprudência desta Corte no sentido de que "a impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula 284 do STF" (STJ, AgRg no AREsp 144.399/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 18/6/2012).
+(..)
+(AgRg no AREsp 546.537/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/10/2015, DJe 4/11/2015.)
+PROCESSUAL CIVIL E CIVIL. AÇÃO RENOVATÓRIA. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DESOCUPAÇÃO DO IMÓVEL. MULTA CONTRATUAL E LEGAL. DISPOSITIVOS IMPERTINENTES EM RELAÇÃO À TESE DA RECORRENTE. ENUNCIADO N. 284 DA SÚMULA DO STF. HONORÁRIOS ADVOCATÍCIOS. VALOR ÍNFIMO NÃO VERIFICADO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+1. Os arts. 4º e 56 da Lei n. 8.245/1991 não guardam relação com a tese da recorrente, no sentido de conferir à ação renovatória o efeito de manter em vigor ou de considerar prorrogado o respectivo contrato até o julgamento da lide. O art 4º apenas estabelece que o locatário, antes do prazo contratual, poderá devolver o imóvel mediante pagamento da multa eventualmente pactuada. Quanto ao art. 56, a lei esclarece tão somente que, encerrado o prazo pactuado, cessa o contrato de locação e que a prorrogação por prazo indeterminado se verifica quando o locatário permanecer por mais de trinta dias sem oposição do locador. Nesse contexto, ausente a indicação de dispositivos próprios e adequados para rediscutir a premissa jurídica fundamental do recurso, incide, ainda, o enunciado n. 284 da Súmula do STF.
+(..)
+(AgRg no AREsp 140.581/SP, de minha relatoria, QUARTA TURMA, julgado em 18/12/2014, DJe 4/2/2015.)
+PROCESSUAL CIVIL E TRIBUTÁRIO - VIOLAÇÃO AO ART. 535 DO CPC NÃO CONFIGURADA - EXECUÇÃO FISCAL - DÉBITO DE PEQUENO VALOR - ARQUIVAMENTO - ART. 20 DA LEI N. 10522/2002 - SUSPENSÃO DA PRESCRIÇÃO - INEXISTÊNCIA - NECESSIDADE DE INTIMAÇÃO DO DESPACHO QUE ORDENA O ARQUIVAMENTO - FUNDAMENTAÇÃO DEFICIENTE - INCIDÊNCIA DA SÚMULA 284 STF - PRECEDENTES STJ.
+(..)
+2. Não se conhece do recurso especial quando o dispositivo legal indicado como violado é incapaz de infirmar a conclusão do acórdão recorrido, a teor do disposto na Súmula 284 STF.
+(..)
+(REsp 1015220/PE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 21/8/2008, DJe 26/9/2008.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. REGIME DE DRAWBACK. IMPERTINÊNCIA DOS DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. INCAPACIDADE DE INFIRMAR O ARESTO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PRESCRIÇÃO. PRAZO A PARTIR DO DESCUMPRIMENTO DO TERMO. SÚMULA 568/STJ.
+1. Os artigos de lei apontados como violados são considerados impertinentes quando não possuem comandos legais suficientes para afastar a tese adotada no acórdão regional.
+(..)
+(AgInt no AREsp 871.981/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10/5/2016, DJe 16/5/2016.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
