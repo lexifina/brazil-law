@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por João Custódio de Oliveira contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, pela falta de impugnação ao fundamento da inadmissão do apelo nobre, pelo Tribunal de origem.
+Alega o Agravante ter impugnado todos os fundamentos da decisão agravada, inclusive a aplicação da Súmula 7 do Superior Tribunal de Justiça.
+Sustenta, em síntese, que "não há que se falar na pretensão de reexame de prova (Súmula 7 do STJ), uma vez que a questão que se coloca nas razões recursais diz respeito exclusivamente à matéria de direito - e não ao reexame do conjunto fático-probatório dos autos - sendo perfeitamente cabível que esta Colenda Corte Superior, no cumprimento do seu dever constitucional venha a zelar pela uniformização das decisões proferidas no âmbito dos Tribunais de Justiça, fato veemente suscitado no Recurso Especial que não teve provimento." (e-STJ fls. 594-601).
+Por fim, pede a reconsideração da decisão agravada, ou a submissão do regimental ao Colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Registra-se que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016, que dispõe.
+Na espécie, a decisão ora agravada não conheceu do agravo em razão da ausência de impugnação específica do fundamento da decisão que inadmitiu o recurso especial em razão da incidência da Súmula 7/STJ. (e-STJ fls. 582).
+A insurgência não merece prosperar.
+O Tribunal de origem inadmitiu o recurso especial pela aplicação da Súmula n. 7 do STJ.
+Quanto à incidência da Súmula 7 do STJ, disse o Agravante, no agravo em recurso especial (fl. 468):
+De antemão, importante deixar claro que o presente recurso não tem como finalidade o reexame fático da matéria, até porque inadmissível neste momento processual- rechaçado pela Súmula nº 7 STJ. Muito pelo contrário!
+As questões sobre as quais nos debruçamos são incontroversas nos autos.
+Isto é, não se trata de mero inconformismo, mas sim, de que seja aplicada corretamente a legislação vigente e a própria jurisprudência sobre os temas.
+Segundo a decisão do vice-presidente da Seção, não houve ofensa ao art. 1.022 do CPC, já que inexistente qualquer vício a ser corrigido porquanto o acórdão guerreado manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+Como já dito acima, andou mal o ilustre Desembargador Presidente ao fundamentar a negativa do recurso com base nas súmulas 7 do STJ, posto que, EM MOMENTO ALGUM FOI SUSCITADO QUE FOSSE REVISADA A SI- TUAÇÃO FÁTICA.
+Como já dito acima, andou mal o ilustre Desembargador Presidente ao fundamentar a negativa do recurso com base nas súmulas 7 do STJ, posto que, EM MOMENTO ALGUM FOI SUSCITADO QUE FOSSE REVISADA A SI- TUAÇÃO FÁTICA.
+Da mesma forma, não há que se falar em aplicação da súmula 7 do STJ quando da análise do dissídio jurisprudencial, já que todos os paradigmas indicados no recurso especial tratam exatamente da matéria aborda na peça recursal e são arestos do STJ.
+No que tange ao descumprimento do requisito indicado no art. 1.029 § 1º do CPC, lembramos que a jurisprudência indicada é do próprio Superior Tribunal de Justiça, de forma que não se justifica tal afirmação.
+Assim, ratifica-se o acórdão paradigma utilizado no recurso especial, o qual explana o entendimento firmado pelo próprio Superior Tribunal de Justiça:
+ ..
+Ou seja, a prova pericial produzida nos autos não pode ser ignorada.
+Nesta toada, o Superior Tribunal de Justiça há tempos admite que apesar de não ser possível o reexame de prova, é possível, se descumpridos os preceitos processuais relativos à produção da prova, a revaloração da prova, por meio do recurso especial.
+Em questão probatória, a diferença entre questão de fato e questão de direito dá origem à distinção entre reexame e revaloração da prova, para admitir esta e não aquele em sede de recurso especial, conforme entendimento já pacificado pelo Superior Tribunal de Justiça.
+ ..
+É importante ter em mente que a vedação inserta no enunciado n. 7 da Súmula do Superior Tribunal de Justiça diz respeito apenas à inadmissibilidade de recurso com fito de simples reexame de matéria fática. Não há dúvida de que é impertinente recurso especial com mero intuito de reapreciação de provas. Nem é possível o exame de prova não considerada pelo tribunal de origem ao decidir a questão de fato a ela ligada. Porém, ultrapassado o juízo de admissibilidade, e tendo a Corte Superior que decidir a causa, ela pode examinar, o que difere de reexaminar, questão de fato ainda não solucionada, e cuja apreciação é indispensável à solução da espécie. Tanto quanto sutil, a diferença é relevante.
+A valoração da prova será permitida na esfera do recurso especial quando o julgador ao apreciar o caso concreto, deixa de aplicar determinada prova prevista em lei federal. Ou, ao contrário, aprecia apenas um tipo de prova, quando a lei determina o meio de prova que deverá ser apreciado.
+ ..
+Como se depreende, nas razões do agravo em recurso especial, o Agravante se limitou a sustentar, genericamente, que não seria caso de reexame de prova, sem explicitar, à luz da tese recursal trazida no recurso especial e, especialmente, dos elementos constantes do acórdão recorrido, de que maneira a análise não dependeria do reexame de provas, como afirmado na decisão de inadmissão do apelo nobre, a qual deve ser mantida.
+Com efeito, ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Consoante entendimento consolidado nesta Corte, incumbe ao agravante infirmar, especificamente, os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+Nessa linha: "a ausência de impugnação a algum dos fundamentos da decisão que negou trânsito ao recurso especial imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio do agravo previsto no art. 1.042 do CPC de 2015 (art. 544 do CPC de 1973), quanto ao óbice levantado pela decisão que não admitiu o recurso especial." (AgInt no AREsp 1.802.143/PR, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 25/3/2021)
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa é a determinação contida nos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Por outro lado, deve ser registrado também que a tese de que "todo trabalhador rural, da agropecuária ou do agronegócio deve ter presumida a exposição aos agentes nocivos, uma vez que tais trabalhadores exercem funções próprias da atividade agrícola, conforme previsto no item 2.2.1, do Decreto 53.831/64." nem sequer foi debatida pela Corte de origem carecendo, portanto, do requisito do prequestionamento, malgrado a oposição dos aclaratórios, o que impõe também a inadmissão do apelo por força da Súmula 211/STJ.
+Outrossim, convém ressaltar que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 10/4/2017), o que não ocorreu no caso, pois o recorrente, nas razões do presente recurso, deixou de apontar violação do art. 1.022 do CPC/2015.
+Na mesma linha: AgInt no REsp 1.843.034/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 15/05/2020; AgInt no AREsp 828.758/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 4/5/2020.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
