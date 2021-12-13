@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COBRANÇA DE ADICIONAL DE BANDEIRA TARIFÁRIA. CONTA DE DESENVOLVIMENTO ENERGÉTICO. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. ILEGALIDADE NA AUSÊNCIA DO REPASSE. SÚMULAS 5 E 7 D O STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Impossibilidade de conhecimento do recurso especial em relação à alegada ofensa ao art. 1.022 do CPC, a qual foi formulada de forma genérica, sem a especificação dos dispositivos legais ou teses sobre as quais o acórdão recorrido teria deixado de se manifestar. Dessa forma, em razão da deficiente fundamentação recursal no ponto, incide a Súmula nº 284 do STF.
+2. "Avaliar a gestão dos recursos financeiros que são direcionados à Conta de Desenvolvimento Econômico (CDE) demanda o cotejo de decretos da União e a apreciação de complexo material fático e probatório que impedem a apreciação recursal do tema em Recurso Especial, incidindo, no caso, os óbices das Súmulas 5 e 7/STJ". (EDcl no REsp 1.752.945/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/02/2019, DJe 18/03/2019). No mesmo sentido: AgInt no REsp 1834276/SC, de minha relatoria, SEGUNDA TURMA, julgado em 19/10/2020, DJe 23/10/2020).
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Trata-se de agravo interno interposto por METALURGIA MARTINAZZO LTDA contra decisão monocrática assim ementada:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. COBRANÇA DE ADICIONAL DE BANDEIRA TARIFÁRIA. CONTA DE DESENVOLVIMENTO ENERGÉTICO. ILEGALIDADE NA AUSÊNCIA DO REPASSE. SÚMULAS 5 E 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões, a agravante afirma que o Tribunal de origem afetou recursos que tratam da mesma questão para serem decididos sob o regime dos recursos repetitivos.
+Insurge-se contra a incidência da Súmula n. 284/STF, afirmando não haver deficiência na fundamentação do recurso especial quanto aos arts. 489 e 1.022 do CPC/2015.
+Insurge-se contra a incidência das Súmulas n. 5 e 7/STJ, aduzindo que (e-STJ, fl. 991):
+A suscitada violação à legislação infraconstitucional vai muito além, daquilo que limitou-se o Exmo. Min. Relator. Ou seja, não cumpre avaliar a gestão do repasse dos valores pelo Tesouro Nacional à CDE, nesta ocasião, mas sim, reconhecer a flagrante ilegalidade dos Decretos nº 7.945/2013, 8.203/2014, 8.221/2014 e 8.272/2014, , que extrapolaram os limites previamente listados pela Lei nº 10.438/2002, que instituiu a Conta de Desenvolvimento Energético -CDE.
+A Lei que regula a matéria previu rol taxativo de finalidades para a CDE e os Decretos extrapolaram o poder regulamentar da Administração Pública incluindo, indevidamente, finalidades ao encargo, aumentando indevidamente seu cômputo, violando o art. 175 da CF.
+Ou seja, não se trata de ofensa a um princípio de sentido amploe abrangente, mas de uma regra constitucional que prevê, concretamente, a incidência da reserva legal para as políticas tarifárias nacionais.
+Cristalinamente, a inclusão dessas finalidades através dos citados decretos violou não só o art. 175 da CF, como o art. 37, caput, que impõe aos entes da administração pública direta e indireta (União, Estados, Distrito Federal e Municípios) obediência ao princípio de legalidade, previsto no art. 5º, II da CF, também violado.
+Pugna pela reconsideração da decisão agravada ou julgamento pelo Colegiado.
+Foram apresentadas contrarrazões.
+É o relatório
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. COBRANÇA DE ADICIONAL DE BANDEIRA TARIFÁRIA. CONTA DE DESENVOLVIMENTO ENERGÉTICO. IMPOSSIBILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL. ILEGALIDADE NA AUSÊNCIA DO REPASSE. SÚMULAS 5 E 7 D O STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Impossibilidade de conhecimento do recurso especial em relação à alegada ofensa ao art. 1.022 do CPC, a qual foi formulada de forma genérica, sem a especificação dos dispositivos legais ou teses sobre as quais o acórdão recorrido teria deixado de se manifestar. Dessa forma, em razão da deficiente fundamentação recursal no ponto, incide a Súmula nº 284 do STF.
+2. "Avaliar a gestão dos recursos financeiros que são direcionados à Conta de Desenvolvimento Econômico (CDE) demanda o cotejo de decretos da União e a apreciação de complexo material fático e probatório que impedem a apreciação recursal do tema em Recurso Especial, incidindo, no caso, os óbices das Súmulas 5 e 7/STJ". (EDcl no REsp 1.752.945/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/02/2019, DJe 18/03/2019). No mesmo sentido: AgInt no REsp 1834276/SC, de minha relatoria, SEGUNDA TURMA, julgado em 19/10/2020, DJe 23/10/2020).
+3. Agravo interno não provido
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): As razões do agravo interno não merecem acolhida.
+Inicialmente, ao contrário do que afirma a agravante, não foi esclarecido o vício em que teria incorrido o Tribunal de origem, de modo a caracterizar a adequada fundamentação da suposta ofensa aos arts. 489 e 1.022 do CPC/2015, sendo inafastável a incidência da Súmula n. 284/STF.
+Além disso, sustenta a agravante que não há que falar em aplicabilidade das Súmulas n. 5 e 7/STJ, uma vez que a análise da incompatibilidade das finalidades especificadas dos decretos com a legislação federal é matéria de direito, devendo o STJ fazer apenas novo reenquadramento fático dos fatos incontroversos consolidados no acórdão recorrido.
+Contudo, conforme disposto na decisão ora agravada, o Tribunal de origem, após análise dos fatos e demais elementos dos autos, concluiu que a utilização da CDE em alguns itens não encontrava amparo nas finalidades previstas nas Leis nº 10.438/02 e que tais previsões contidas nos decretos transbordavam evidentemente dos limites legais, permitindo a conclusão de sua ilegalidade por excesso na regulamentação.
+Para o correto deslinde da controvérsia, o Tribunal de origem passou a examinar se, de fato, as finalidades instituídas por meio dos Decretos 7.945/2013, 8.203/2014, 8.221/2014 e 8.272/2014 desbordaram dos limites legais estabelecidos na Lei 10.438/02.
+Nesse sentido, conforme se extrai da decisão agravada, admitir entendimento contrário ao que adotado no acórdão recorrido, ou seja, revisar para atestar a legalidade no cálculo da CDE e reconhecer que os Decretos 7.891/2013, 7.945/2013, 8.203/2014 e 8.221/2014 não transbordaram os limites regulamentares legais, sob o argumento de que a conta passou a custear uma maior quantidade de dispêndios e beneficiou a coletividade dos consumidores, demandaria, necessariamente, em revolvimento do acervo fático-probatório dos autos, inviável nos termos das Súmulas 5 e 7/STJ. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. BANDEIRAS TARIFÁRIAS E CONTA DE DESENVOLVIMENTO ENERGÉTICO. COTEJO DE DECRETOS DA UNIÃO E APRECIAÇÃO DE COMPLEXO MATERIAL FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada.
+2. Avaliar a gestão dos recursos financeiros direcionados à Conta de Desenvolvimento Econômico (CDE) demanda cotejo de decretos da União e apreciação de complexo material fático e probatório que impedem a apreciação recursal do tema em Recurso Especial. Incidem as Súmulas 5 e 7/STJ.
+3. Agravo Interno não provido.
+(AgInt no REsp 1810713/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/09/2020, DJe 01/12/2020)
+Dessa forma, conclui-se que a agravante busca na verdade o reexame de fatos e provas e não seu reenquadramento jurídico, com o fim de, então, prevalecer, para efeito de rejulgamento da causa em seu benefício, matéria que a mim parece escapar do âmbito do recurso especial, diante do teor da Súmula 07/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Por fim, quanto ao pedido de suspensão do feito, não obstante a parte alegue que a matéria versada no apelo foi qualificada como representativa de controvérsia na instância de origem, em outro Recurso Especial, registre-se que, enquanto a questão não for efetivamente submetida ao rito do art. 1.036 e seguintes do CPC/2015, não haverá fundamento para sobrestar o feito.
+Assim, não vislumbro motivo para reconsiderar a monocrática.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto
