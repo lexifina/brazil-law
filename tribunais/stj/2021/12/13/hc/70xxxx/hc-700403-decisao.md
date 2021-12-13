@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 46):
+RECURSO DE AGRAVO EM EXECUÇÃO PENAL.PRETENSÃO DE INDULTO. DECRETO Nº 9.246/2017.INDEFERIMENTO. IRRESIGNAÇÃO DO EXECUTADO.ALEGAÇÃO DE QUE O COMETIMENTO DE DELITO FORA DO CÁRCERE NÃO CONSTITUI FALTA GRAVE. PLEITO DE DEFERIMENTO. DECISÃO ALICERÇADA NO DISPOSTO NO ARTIGO 52, DA LEI DE EXECUÇÃO PENAL. PRÁTICA DE CRIME DOLOSO NOS DOZE MESES DE CUMPRIMENTO DA PENA, QUE ANTECEDERAM O ATO NORMATIVO PRESIDENCIAL QUE CARACTERIZA FALTA DE NATUREZA GRAVE. REQUISITO SUBJETIVO NÃO PREENCHIDO. PRECEDENTES DESTA CORTE E DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA.DESPROVIMENTO DO RECURSO.
+Sustenta a impetrante que o paciente faz jus aoindulto previsto no Decreto 9.246/2017, porquanto cumpridos os requisitos objetivo e subjetivo.Argumenta que "não houve punição por prática de falta grave no período aquisitivo do indulto" (fl. 7).
+Requer, liminarmente e no mérito, a concessão da ordem para a reconhecer odireito do pacienteao indulto previsto no mencionado Decreto.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus.
+O acórdão impetrado, ao negar provimento ao agravo em execução, assim decidiu (fls. 46-51):
+É cediço o entendimento de que o indulto é instrumento de política criminal, colocado à disposição do Estado para a reinserção e ressocialização dos condenados que a ele façam jus, segundo a conveniência e oportunidade do Presidente da República, sendo uma das formas de extinção da pena, conforme os artigos 107, inciso II, do Código Penal e 187 a 193 da Lei nº 7.210/84.
+Nesse passo, não se afigura cabívelo seu deferimento como pretendido, haja vista que o agravante fora preso em situação de flagrância, no dia 17/06/2017, pela prática do crime previsto no artigo 33, caput, da Lei nº 11.343/06, que deu azo à ação penal de nº 0149847-78.2017.8.19.0001, cuja sentença condenatória ainda não transitou em julgado.
+Portanto, no período de 12 meses do cumprimento da pena e antecedentes à data da publicação do Decreto nº 9.246/2017, ocorrida em 22/12/2017, o reeducando cometeu crime doloso, não logrando, assim, preencher o requisito subjetivo para o almejado indulto.
+Vê-se que, conforme o acórdão, o reeducando não preenche o requisito subjetivo para o indulto do previsto noDecreto 9.246/2017, pois praticou crime doloso no período de12 mesesde cumprimento da pena, contados retroativamente à data de publicação do decreto, mesmo que a condenação ainda não tenha transitado em julgado.
+O acórdão impetrado coaduna-se com a jurisprudência firmada no âmbito daTerceira Seção desta Corte Superior, no julgamento do EREsp n.1.549.544/RS, no sentido da possibilidade do indeferimento de indulto ou comutação de pena em razão de falta grave que tenha sido praticada nos doze meses anteriores ao decreto presidencial, ainda que homologada após a sua publicação.
+No mesmo sentido:EREsp 1477886/RS, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 08/08/2018, DJe 17/08/2018;AgRg no AREsp 1828124/PR, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 28/09/2021, DJe 06/10/2021.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
