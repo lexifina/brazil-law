@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA QUE EXTINGUIU A IMPETRAÇÃO POR SUPERVENIENTE PERDA DE INTERESSE. AUSÊNCIADE ESGOTAMENTO DA INSTÂNCIAORDINÁRIA. RECURSO ORDINÁRIO DO MUNICÍPIONÃO CONHECIDO.
+1. Trata-se de Recurso Ordináriointerposto pelo MUNICÍPIO DE ESTÂNCIA VELHA/RS, com fundamento na alínea b do artigo 105, II, da Constituição Federal, contra a decisão singular que extinguiu sem resolução do mérito a sua impetração mandamental,assim ementada:
+MANDADO DE SEGURANÇA.MUNICÍPIO DE ESTÂNCIA VELHA. PANDEMIA CAUSADA PELO NOVO CORONAVÍRUS (COVID-19). DECRETO ESTADUAL Nº 55.154/2020. ALTERAÇÃO PELO DECRETO ESTADUAL Nº 55.184/2020. VEDAÇÃO À ABERTURA DO COMÉRCIO NOS MUNICÍPIOS DA REGIÃO METROPOLITANA DE PORTO ALEGRE. REGRA QUE NÃO MAIS SUBSISTE. REVOGAÇÃO PELO DECRETO ESTADUAL Nº 55.240/2020. PERDA SUPERVENIENTE DO OBJETO. EXTINÇÃO DO FEITO. PRECEDENTES DESTA CORTE.
+- O Município impetrante pretendia invalidar parte do Decreto Estadual nº 55.154, de 1º de abril de 2020, com alteração pelo Decreto Estadual nº 55.184, de 15 de abril de 2020, especificamente a proibição de abertura dos estabelecimentos comerciais situados na região metropolitana de Porto Alegre, no que se inclui o Município de Estância Velha.
+- Entretanto, tal regra proibitiva não mais subsiste, pois o Decreto Estadual nº 55.154/2020 e suas alterações foram expressamente revogados pelo Decreto Estadual nº 5 5.240, de 10 de maio de 2020, que institui o Sistema de Distanciamento Controlado para fins de prevenção e de enfrentamento à epidemia causada pelo novo Coronavírus (COVID-19) no âmbito do Estado do Rio Grande do Sul.
+- Não obstante o Município sustente que o objeto do mandamus não se limita ao Decreto Estadual nº 55.154/2020 e suas alterações, da leitura da inicial, resta claro que a impugnação se restringe àquele regramento, pretendendo o impetrante fosse restabelecida a autorização para legislar sobre o comércio local da mesma forma que os demais municípios, não inseridos na respectiva vedação. Outrossim, verifica-se que a atual regulamentação - Decreto Estadual nº 55.240/2020 - não reproduz comando de proibição semelhante.
+- Dessa forma, ante a superveniente ausência de interesse processual verificada em face da perda do objeto, este mandado de segurança deve ser extinto, sem resolução do mérito , na forma do artigo 485, inciso V I, do CPC.
+EXTINÇÃO DO MANDADO DE SEGURANÇA EM DECISÃO MONOCRÁTICA(fls. 257/258).
+2. Na irresignação recursal que ora se apresenta, a parterecorrente afirma ser cabível o recurso ordinário mesmo contra decisão que extingue omandamussem resolução do mérito, bem como, no mérito, entende que não houve a apontada perda do objeto mandamental.
+3. Devidamente intimada, a parte recorrida apresentou as contrarrazões de fls. 323/336.
+4. Sobreveio o parecer ministerial, assim ementado:
+RECURSO ORDINÁRIO EM MANDADO DESEGURANÇA. VEDAÇÃO À ABERTURA DO COMÉRCIO NOS MUNICÍPIOS DA REGIÃO METROPOLITANA DE PORTO ALEGRE. PANDEMIA CAUSADA PELO NOVO CORONAVÍRUS (COVID-19). DECRETO ESTADUAL Nº 55.154/2020. ALTERAÇÃO PELO DECRETO ESTADUAL Nº 55.184/2020. REGRA QUE NÃO MAIS SUBSISTE. REVOGAÇÃO PELO DECRETO ESTADUAL Nº55.240/2020. EXTINÇÃO DO FEITO. RECURSO INTERPOSTO CONTRA DECISÃO SINGULAR DE RELATOR. INADMISSIBILIDADE. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. JUSTO RECEIO NÃO CONFIGURADO. PRETENSÃO A MANDAMENTO GENÉRICO. SITUAÇÃO FUTURA. VIOLAÇÃO A DIREITO LÍQUIDO E CERTONÃO EVIDENCIADO.
+- Parecer pelo não conhecimento do recurso e, acaso conhecido, pelo seu desprovimento(fls. 413).
+5. É o relatório.
+6. In casu, mostra-se incabível a análise do recurso, uma vez que a competência do STJ, em Recurso Ordinário em Mandado de Segurança, somente se instaura diante de decisões colegiadas emanadas de Tribunais, ficando, assim, afastada a possibilidade de insurgência contra aquelas proferidas por Relator, monocraticamente.
+7. Na hipótese, a parte recorrente não esgotou a via recursal, porquanto não interpôs Agravo Interno contra a decisão singular atacada, tornando incabível o presente recurso. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. NÃO CABIMENTO. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisão publicada na vigência do CPC/73.
+II. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que "é inviável o conhecimento de recurso em mandado de segurança quando não há exaurimento das instâncias recursais ordinárias" (STJ,RMS35.923/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 19/04/2013).
+III. Agravo interno improvido (STJ, AgInt noRMS32.272/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe de 17.5.2017).
+"PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA.INTERPOSIÇÃO DE RECURSO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DE INSTÂNCIA.
+1. No caso dos autos, o recurso ordinário em mandado de segurança foi interposto contra decisão monocrática oriunda do Tribunal de Justiça do Estado do Mato Grosso.
+2. É firme a jurisprudência no sentido de que não cabe recurso ordinário contra decisão monocrática do relator que julga o mandado de segurança na origem, sob pena de indevida supressão de instância.Precedentes.
+Agravo regimental improvido (AgRg noRMS49.776/MT, Rel. Min. HUMBERTO MARTINS, DJe de 14.12.2015).
+8. Ante exposto, não conheço do Recurso Ordinário em Mandado de Segurança da municipalidade.
+9. Publique-se.
+10. Intimações necessárias.
