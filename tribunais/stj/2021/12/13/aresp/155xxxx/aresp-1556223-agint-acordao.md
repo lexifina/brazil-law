@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por MÁRCIO ALVES GERMANO contra a decisão desta relatoria que conheceu do agravo para não conhecer do recurso especial.
+Naquela oportunidade, a seguinte questão foi decidida: ausência de prequestionamento do art. 523 do Código de Processo Civil de 2015 - incidência da Súmula nº 282/STF.
+Em suas razões(fls. 867/872 e-STJ), o agravante sustenta, em síntese, que "(..) toda a discussão tratada no processo em referencia está pautada no descumprimento do art. 523 do CPC/2015, não estando correta a r. Decisão ora recorrida pois, a questão foi sim objeto de debate" (fl. 871 e-STJ).
+Ao final, requer a reforma da decisão atacadaou a submissão do feito ao órgão julgador colegiado.
+Devidamente intimada, a parte contráriaapresentou impugnação (fls. 877/886 e-STJ)na qual pleiteia a manutenção da decisão combatida.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MULTA DIÁRIAREVOGADA. DEVOLUÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282/STF.
+3. A admissão de prequestionamento ficto (art. 1.025 do Código de Processo Civil de 2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do Código de Processo Civil de 2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+4. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece acolhida.
+Com efeito, conforme asseverou a decisão recorrida, observa-se que o art. 523 do CPC/2015não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar vício porventura existente.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. (..)
+1. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. Incidência das Súmulas 282/STF e 356/STF.
+(..)
+3. Agravo interno não provido" (AgInt no AREsp 913.735/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 15/12/2016, DJe 2/2/2017 - grifou-se).
+Por certo, para que se configure o prequestionamento, é necessário que a Cortelocal se pronuncie especificamente a respeito da matéria articulada pela parte, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto. Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Observa-se, ainda, que, de acordo com a jurisprudência deste Tribunal Superior, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do Código de Processo Civil de 2015, exige que no mesmo recurso seja indicada violação do art. 1.022 do Código de Processo Civil de 2015, o que não é o caso dos autos.
+Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei"(REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 12/9/2017, DJe 15/9/2017).
+Assim, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
