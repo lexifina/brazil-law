@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdãos, assim ementados (e-STJ fls. 789-790):
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. PRESCRIÇÃO. CÔMPUTO DO PRAZO. SISTEMÁTICA QUE SE ESTENDE AO PARTICULAR O QUAL TAMBÉM SE BENEFICIOU DO ATO ÍMPROBO. AGRAVO INTERNO DO PARQUET PROVIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DA EMPRESA, ROGANDO VENIA AO MINISTRO RELATOR.
+O embargante, sob a pecha de serem omissos os acórdãos embargados, argumenta o seguinte (e-STJ fls. 836-838):
+O digno Ministro NAPOLEÃO NUNES MAIA FILHO, dissentindo da maioria, entendeu pela incidência do instituto da prescrição quanto à pretensão do Ministério Público em impor ao ora embargante as penalidades constantes da Lei de Improbidade Administrativa.
+Ampara sua compreensão indagando o prazo no qual foi proposta Ação Civil Pública pelo MP/SP, somente no final de 2009, mais especificamente em 30/12/2009, "questionando contratações emergenciais sucessivas, sem licitação, firmados entre o MUNICÍPIO DE CUBATÃO/SP e a empresa TERRACOM CONSTRUÇÕES LTDA., por aproximadamente dois anos e meio, em contratos firmados entre julho de 2001 e janeiro de 2004".
+Questionou a tempestividade da propositura da ação, uma vez que a última contratação apontada como ilegal se findou em 06/01/2004, data que entende como dies a quo do lapso prescricional, percepção esta que se encontra corroborada no processo, inclusive "porque esses fatos foram, na época, como relatados nos autos, objeto de ampla intervenção do Tribunal de Contas de São Paulo, do Ministério Público e até mesmo judicial".
+Questionou, também, a inércia do Parquet, uma vez que, se se aplicasse a extensão do art. 23, I, da Lei de Improbidade à embargante, "a ACP poderia ser proposta, pois nenhum agente público desfruta de imunidade substantiva ou processual quanto à ação que visa a aplicar sanções por ato de improbidade: mesmo no desempenho de mandato, função, emprego ou comissão, o agente pode ser acionado a teor da Lei 8.429/92, pelo que não há falar em imunidade temporária".
+Em face da compreensão do Tribunal a quo, que apontou a extensão ao particular do lapso prescricional previsto no art. 23, I, da Lei 8.429/92 aplicado ao agente público, qual seja o término do mandato, o Ministro NAPOLEÃO entendeu ser la incabível, pela inaplicabilidade extensiva das regras prescricionais entre circunstâncias fáticas que não conversam entre si, "e tanto é assim, que a Lei 8.429/92, apesar de prever,
+em seu art. 3o., a hipotética punição do terceiro que, em conluio com o agente público, ao menos corroborou com a prática do ato desonesto punível, não incluiu o particular como destinatário do prazo prescricional definido em seu art. 23, I e II".
+Reiterou ainda, que a própria Lei de Improbidade Administrativa dispõe sobre diferentes prazos prescricionais para os diversos vínculos mantidos com o Poder Público, logo, da ocorrência de ato ímprobo, em havendo mais de um agente envolvido, lhes serão estabelecidos diferentes contagens. Sendo comum, a ocorrência de prescrição de forma avulsa em face de um determinado agente mantendo-se a pretensão dos demais. Eis o princípio da individualidade e subjetividade da pretensão sancionatória e do instituto da prescrição e nesse sentido há entendimentos dessa colenda Corte.
+Comimpugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOSNÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Registra-se, inicialmente, que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2015.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, verifica-se que a decisão embargada decidiu a controvérsia de forma clara e fundamentada, ao assentar que "O entendimento da jurisprudência do Superior Tribunal de Justiça é no sentido de nos termos do artigo 23, I e II, da Lei 8.429/92, aplica-se aos particulares, réus na ação de improbidade administrativa, a mesma sistemática atribuída aos agentes públicos para fins de fixação do termo inicial da prescrição" (AgInt no REsp 1.868.436/RN, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 2/12/2020), com arrimo em reiterados precedentes.
+Ora, a mera discordância com a solução jurídica empregada no bojo do decisum embargado não dá ensejo à oposição de embargos de declaração, na medida em que tal modalidade recursal apenas ostenta efeito integrativo.
+As alegações do embargante não dizem respeito a vícios de integração constantes da decisão embargada, razão pela qual a sua não concordância com as teses nela sufragas deve ser manifestada na via recursal adequada.
+Isso posto, rejeito os embargos de declaração, considerando a inexistência dos vícios previstos no artigo 1.022 do CPC/2015.
+É como voto.
