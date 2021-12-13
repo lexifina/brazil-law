@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Cuida-se  de  Embargos  de  Declaração  no  Agravo  Interno  no  Agravo  em  Recurso  Especial  opostos  por  MANIKRAFT GUAIANAZES INDÚSTRIA DE CELULOSEE PAPEL LTDA.  ao  acórdão  assim  ementado:
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL . DECISÃO DO MINISTRO PRESIDENTE PELO NÃO CONHECIMENTO DO RECURSO, ANTE A INCIDÊNCIA DO ÓBICE DA SÚMULA 182/STJ.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  SÚMULA  182/STJ.  AGRAVO  INTERNO  DA EMPRESA NÃO  CONHECIDO.
+1.  A  parte  agravante  deve  infirmar  os  fundamentos  da  decisão  impugnada,  mostrando-se  inadmissível  o  recurso  que  não  se  insurge  contra  todos  eles  -  Súmula  182  do  Superior  Tribunal  de  Justiça.
+2.  Pela  leitura  das  razões  recursais,  constata-se  que  a  parte  agravante  não  rebateu,  como  lhe  competia,  o  fundamento  da  decisão  ora  agravada  referente  à  aplicação  da  Súmula  182/STJ.  Na  verdade,  comete  o  mesmo  equívoco  ocorrido  quando  da  interposição  do  Agravo  em  Recurso  Especial.
+3.  Agravo  Interno  da empresa  não  conhecido.
+2.  A  parte  embargante  sustenta,  em  síntese,  que não houve a apreciação das questões apresentadas pela parte, bem como da alegação de afronta direta aos direitos constitucionais.
+3.  Às  fls.  310  ,  certificou-se  o  decurso  de  prazo  para  impugnação.
+4.  É  o  relatório.
+EMENTA
+  TRIBUTÁRIO  E  PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO,  OBSCURIDADE  OU  CONTRARIEDADE.  AUSÊNCIA.  MERO  INCONFORMISMO  DA  PARTE.  ALEGAÇÕES GENÉRICAS DE OMISSÃO. NÃO  CABIMENTO  DOS  DECLARATÓRIOS.  EMBARGOS  DE  DECLARAÇÃO  OPOSTOS  PELA EMPRESA  REJEITADOS.
+1.  Os  Embargos  de  Declaração  são  modalidade  recursal  de  integração  e  objetivam  sanar  obscuridade,  contradição,  omissão  ou  erro  material,  de  maneira  a  permitir  o  exato  conhecimento  do  teor  do  julgado.  Eles  não  podem  ser  utilizados  com  a  finalidade  de  sustentar  eventual  incorreção  dodecisum  hostilizado  ou  de  propiciar  novo  exame  da  própria  questão  de  fundo.
+2.  As  alegações  deduzidas  revelam  o  caráter  nitidamente  infringente  dos  aclaratórios,  o  que  não  se  compatibiliza  com  a  via  dos  Embargos.  A  parte  embargante  tenta  rediscutir  a  decisão  proferida  como  derradeira  manifestação  de  inconformidade  com  o  resultado  do  julgamento, uma vez que alega de forma genérica a existência de supostas omissões no aresto recorrido, sem a indicação específica dos pontos sobre os quais o julgador deveria ter se manifestado, inviabilizando a compreensão da controvérsia.
+3.  Logo,  a  prestação  jurisdicional  se  exauriu  satisfatoriamente,  não  se  constatando  a  presença  de  quaisquer  dos  vícios  elencados  no  art.  1.022  do  NCPC,  mas  apenas  a  discordância  das  partes  quanto  ao  conteúdo  da  decisão  embargada,  o  que  não  autoriza  o  pedido  de  declaração,  que  tem  pressupostos  específicos,  os  quais  não  podem  ser  ampliados.
+4.  Registre-se,  ainda,  que  a  oposição  de  novos  recursos  a  fim  de  postergar  o  trânsito  em  julgado  do  feitoensejará  aplicação  de  multa,  com  fundamento  nos  arts.  77  e  1.026  do  CPC/2015.
+5.  Embargos  de  Declaração  opostos  pela empresa  rejeitados.
+VOTO
+1.  Os  Embargos  de  Declaração  são  modalidade  recursal  de  integração  e  objetivam  sanar  obscuridade,  contradição,  omissão  ou  erro  material,  de  maneira  a  permitir  o  exato  conhecimento  do  teor  do  julgado.  Eles  não  podem  ser  utilizados  com  a  finalidade  de  sustentar  eventual  incorreção  do  decisum  hostilizado  ou  de  propiciar  novo  exame  da  própria  questão  de  fundo.
+2.  As  alegações  deduzidas  revelam  o  caráter  nitidamente  infringente  dos  aclaratórios,  o  que  não  se  compatibiliza  com  a  via  dos  Embargos.  A  parte  embargante  tenta  rediscutir  a  decisão  proferida  como  derradeira  manifestação  de  inconformidade  com  o  resultado  do  julgamento, uma vez quealega de forma genérica a existência de supostas omissões no aresto recorrido, sem a indicação específica dos pontos sobre os quais o julgador deveria ter se manifestado, inviabilizando a compreensão da controvérsia.
+3.  Logo,  a  prestação  jurisdicional  se  exauriu  satisfatoriamente,  não  se  constatando  a  presença  de  quaisquer  dos  vícios  elencados  no  art.  1.022  do  NCPC,  mas  apenas  a  discordância  das  partes  quanto  ao  conteúdo  da  decisão  embargada,  o  que  não  autoriza  o  pedido  de  declaração,  que  tem  pressupostos  específicos,  os  quais  não  podem  ser  ampliados.
+4.  Registre-se,  ainda,  que  a  oposição  de  novos  recursos  a  fim  de  postergar  o  trânsito  em  julgado  do  feitoensejará  aplicação  de  multa,  com  fundamento  nos  arts.  77  e  1.026  do  CPC/2015.
+5.  Diante  dessas  considerações,  rejeitam-se  os  Embargos  de  Declaração  opostos  pela empresa.
+6.  É  como  voto.
