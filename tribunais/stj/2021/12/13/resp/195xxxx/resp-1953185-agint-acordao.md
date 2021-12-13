@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CARLOS BORGES DE OLIVEIRA em face da decisão que conheceu parcialmente do recurso especial interposto pelo agravante e, nessa extensão, negou-lhe provimento.
+Ação: de obrigação de fazer cumulada com pedido de indenização por danos morais ajuizada pelo recorrente em desfavor de BRB - BANCO DE BRASÍLIA, na qual postula a limitação dos descontos realizados em sua conta corrente às parcelas do contrato de empréstimo, cessando o desconto das mensalidades não pagas em virtude de liminar concedida em outra ação, bem como restituindo tais valores.
+O pedido indenizatório por danos morais está assentado na alegação de retenção indevida do salário, o qual constitui verba alimentar.
+Sentença: julgou improcedentes os pedidos, sob o fundamento de que a revogação da liminar opera efeitos ex tunc, de modo que é cabível o desconto das mensalidades não pagas quando da sua vigência.
+Acórdão: negou provimento à apelação interposta pelo recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C/C INDENIZAÇÃO. PRELIMINARES. OFENSA À COISA JULGADA. REJEITADA. PRELIMINAR DE NULIDADE DA SENTENÇA. NÃO CONHECIDA. RECURSO CONHECIDO EM PARTE. MÉRITO. CONTRATO. EMPRÉSTIMO. DESCONTO. CONTA CORRENTE. LIMITAÇÃO POR MEIO DE DECISÃO LIMINAR. DECISÃO REVOGADA. MORA. EXISTENTE. COBRANÇA. DEVIDA. IMPENHORABILIDADE. INAPLICABILIDADE. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA.
+1. O reconhecimento de ofensa à coisa julgada pressupõe a existência de ação anterior idêntica com decisão transitada em julgado. A ação é considerada idêntica quando houver as mesmas partes, o mesmo pedido e a mesma causa de pedir.
+1.1. No caso dos autos, embora haja identidade de partes, a causa de pedir e o pedido são diversos da ação anterior, portanto, não há que se falar em ofensa à coisa julgada. Preliminar rejeitada.
+2. Não se conhece da preliminar arguida nos pedidos recursais, quando ausente qualquer fundamentação nas razões do recurso. Preliminar de nulidade da sentença não conhecida. Recurso conhecido em parte.
+3. A suspensão do desconto em conta não afasta a mora do consumidor e nem gera, por si só, a novação da obrigação, de forma que uma vez revogada a decisão liminar, volta a plena vigência o contrato, devendo seus termos serem respeitados, em atenção ao pacta sunt servanda.
+4. Os valores não pagos pela parte devedora durante a vigência da liminar concedida, são considerados em mora e podem ser cobrados pelo banco credor, mediante desconto em conta.
+5. Não se aplica ao caso a proteção da impenhorabilidade salarial, uma vez que a conduta do banco apelado não tem natureza de constrição, restringindo-se ao cumprimento das disposições contratuais estabelecidas entre as partes.
+6. Preliminar em contrarrazões rejeitada. Preliminar de ofício suscitada. Recurso parcialmente conhecido e, na parte conhecida, não provido. Sentença mantida.
+Recurso especial: alega violação aos arts. 8º, 833, IV, do CPC/2015 e aos arts. 6º, I e 51, IV, do CDC, além de dissídio jurisprudencial com precedentes do STJ. Aduz que, ao apropriar-se integralmente do seu salário, a recorrida praticou ato ilícito. Refere que a jurisprudência do STJ veda a retenção integral do salário para saldar dívida contraída com instituição financeira. Sustenta, ademais, que a retenção enseja o dever de indenizar.
+Juízo prévio de admissibilidade: o TJ/DF inadmitiu o recurso especial, ensejando a interposição do recurso cabível, o qual foi reatuado para melhor exame da matéria.
+Agravo interno: alega que o Tribunal de origem concluiu que todos os descontos realizados na conta corrente pelo Banco de Brasília o foram para pagamento das parcelas em atraso. Defende, assim, que se aplica ao caso o entendimento do STJ segundo o qual a instituição financeira não pode reter integralmente o salário do correntista para saldar débito contraído.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO. DESCONTOS EM CONTA-CORRENTE. LIMINAR REVOGADA. EFEITOS EX TUNC.DESCONTO DAS PARCELAS EM ATRASO. POSSIBILIDADE.
+1.Os efeitos da revogação da tutela antecipada devem ser suportados pela parte que a requereu, de modo que cassada a decisão, os efeitos retroagem, fazendo desconstituir a situação conferida de forma provisória.
+2."É lícito o desconto em conta-corrente, ainda que usada para recebimento de salário, das prestações de contrato de empréstimo bancário livremente pactuado, sem que o correntista tenha revogado a autorização" (REsp 1.555.722/SP, Segunda Seção).
+3. Agravo interno não provido.
+VOTO
+O propósito recursal consiste em dizer sobre a possibilidade de a instituição bancária apelada realizar descontos na conta corrente do recorrente de valores não adimplidos durante a vigência de medida liminar.
+Na hipótese, conforme extrai-se do acórdão recorrido, foi concedida tutela antecipada de urgência nos autos nº 0725416-90.2019.8.07.0001, para fins de limitar os descontos realizados pela recorrida na conta corrente do recorrente a 30%.
+Posteriormente, foi prolatada sentença de improcedência, que revogou a medida liminar.
+Por conta disso, a instituição financeira voltou a descontar as parcelas nos moldes contratados, bem como realizou o desconto, em uma única oportunidade, das diferenças que não haviam sido pagas em virtude da medida liminar.
+A propósito da matéria, a jurisprudência do STJ é no sentido de que "os efeitos da revogação da tutela antecipada devem ser suportados pela parte que a requereu, de modo que cassada a decisão, os efeitos retroagem, fazendo desconstituir a situação conferida de forma provisória. Em outras palavras, os efeitos são imediatos e ex tunc, impondo à parte beneficiada pela liminar o ônus de recompor o status quo anterior ao deferimento da medida" (AgInt no AREsp 1100564/RS, Terceira Turma, DJe 26/02/2018. Da mesma forma: AgInt no REsp 1678210/SP, Terceira Turma, DJe 02/08/2019; AgInt no REsp 1938969/DF, Quarta Turma, DJe 01/10/2021).
+É verdade que a jurisprudência desta Corte se firmou no sentido de que, ainda que expressamente acordada entre o correntista e a instituição financeira a possibilidade de utilização de valores depositados em conta-corrente para saldar o pagamento de débito contraído, a retenção integral do provento pelo banco para esse fim é ilícito e acarreta dano moral (REsp 1021578/SP, Terceira Turma, DJe 18/06/2009).
+A hipótese, todavia, é diversa, já que é inegável a existência de contrato de empréstimo com cláusula autorizativa de descontos na conta corrente do agravante. Nessas situações, o STJ entende que "é lícito o desconto em conta-corrente, ainda que usada para recebimento de salário, das prestações de contrato de empréstimo bancário livremente pactuado, sem que o correntista tenha revogado a autorização" (REsp 1.555.722/SP, Segunda Seção, DJe 25/09/2018). Na mesma direção:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CLÁUSULAS CONTRATUAIS. DESCONTOS. PARCELAS. CONTA-CORRENTE. SALÁRIO. DEPÓSITO. EMPRÉSTIMOS CONSIGNADOS. HIPÓTESES DISTINTAS. LIMITAÇÃO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, é lícito o desconto em conta-corrente, ainda que usada para recebimento de salário, das prestações de contrato de empréstimo bancário livremente pactuado, sem que o correntista tenha revogado a autorização. Precedentes.
+3. Na hipótese, inaplicável a limitação de 30% (trinta por cento) prevista em lei específica para os contratos de empréstimo consignado em folha de pagamento.
+4. Agravo interno não provido.
+(AgInt no REsp 1921441/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/09/2021, DJe 24/09/2021) (grifou-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL CUMULADA COM INDENIZATÓRIA. JUÍZO DE ADMISSIBILIDADE IMPLÍCITO. EMPRÉSTIMOS. DESCONTOS EM CONTA BANCÁRIA. LIMITAÇÃO DE 30% DA REMUNERAÇÃO. JURISPRUDÊNCIA DESTA CORTE SUPERIOR. RECURSO NÃO PROVIDO.
+1. "Esta Corte Superior pode realizar o juízo de admissibilidade de forma implícita, sem necessidade de exposição de motivos, onde o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito" (EREsp 1.119.820/PI, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe de 19/12/2014).
+2. É lícito o desconto em conta corrente bancária comum, ainda que usada para recebimento de salário, das prestações relativas a contratos de empréstimos, financiamentos, cartões de crédito e outros serviços bancários livremente pactuados entre o correntista e a instituição financeira. Precedentes.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, "por se tratar de hipóteses diversas, não é possível aplicar, por analogia, a limitação legal de descontos firmados em contratos de empréstimo consignado aos demais contratos firmados com cláusula de desconto em conta corrente" (AgInt no AREsp 1.527.316/DF, Rel.
+Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 13/2/2020).
+4. Agravo interno não provido.
+(AgInt no REsp 1865084/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/08/2020, DJe 26/08/2020) (grifou-se)
+Portanto, não se verifica ilicitude na conduta da recorrida que procedeu ao desconto das parcelas atrasadas.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
