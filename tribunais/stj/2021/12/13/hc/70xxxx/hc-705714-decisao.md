@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 53):
+Habeas Corpus Roubo duplamente agravado (duas vezes) Insurgência contra a manutenção da custódia cautelar Alegações de ausência de fundamentação e dos requisitos da prisão preventiva Inadmissibilidade Decretação e manutenção da prisão preventiva, para garantia da ordem pública e viabilidade da instrução criminal, com motivação pautada pela gravidade in concreto do crime, reveladora da periculosidade do agente, e pelo descumprimento de medidas cautelares alternativas ao cárcere (indicação de endereço residencial incorreto) - Descabimento, por inadequação, de qualquer das medidas cautelares previstas no art. 319 do Código de Processo Penal, com a redação dada pela Lei nº 12.403/2011, mormente em face da norma inscrita no art. 282, inc. II, do mesmo Código. Ordem denegada.
+Consta dos autos que o paciente foi preso preventivamente e denunciado como incurso no art. 157, § 2º, II, e § 2º-A, I, c/c o art. 61, II, "j", ambos do Código Penal.
+Impetrado mandamus na origem, a ordem foi denegada.
+No presente writ, a defesa alega que o paciente não tem a intenção de se furtar da ação penal ou eventual reprimenda, afirmando que a tentativa de citação ocorreu em endereço errado, e que à época "o mesmo se encontrava acolhido para tratar sua dependência toxicológica".
+Sustenta a fundamentação inidônea do decreto prisional, baseado na gravidade do delito, ausentes os requisitos ensejadores da cautelar prisional.
+Requer, assim, liminarmente e no mérito, a revogação da prisão preventiva.
+Na origem, processo n. 0003185-61.2021.8.26.0050, verifica-se que, após a realização de audiência de instrução e julgamento em 18/11/2021, tão somente aguarda-se a conclusão dos laudos periciais requeridos pela defesa, a fim de seintimaras partes para apresentaremalegações finais, conforme informação prestada às fls. 70/71.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação do writ.
+Não obstante a excepcionalidade que é a privação da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A prisão preventiva foi decretada nos seguintes termos (fl. 34):
+Ante a gravidade dos fatos imputados, com elementos de prova já colhidos de forma antecipada, reforçando aqueles trazidos no inquérito, e observando especialmente que a não localização do réu impede o prosseguimento do feito, e consequentemente a aplicação da lei penal, tendo ele sido antes solto com a obrigação de manter seu endereço atualizado, inclusive com recolhimento noturno, acolho o requerimento ministerial e decreto a prisão preventiva de Jhonatan Vinicius Soares.
+A negativa de revogação da prisão foi assim fundamentada(fl. 51):
+2- Em que pese a alegação da defesa de tentativa de citação em endereço equivocado, e ainda que tenha sido mesmo equívoco, o fato é que foi tentada a citação no endereço informado pelo réu quando de sua prisão (fls. 33/34), no qual constou como sendo na cidade de São Paulo, e não em Ribeirão Grande da Serra.
+Ademais, tinha ele a obrigação, fixada como medida cautelar, de manter endereço atualizado nos autos, o que o próprio documento de fls. 238 indica ter descumprido, já que estaria em outra cidade desde novembro de 2020, sem qualquer comunicação ao juízo.
+Ou seja, mesmo que tivesse sido tentada sua citação pessoal em Ribeirão Grande, teria sido infrutífera, já que já na época de cumprimento do mandado (fls. 162), não estava mais ele lá.
+Assim, evidencia-se que houve, sim, o descumprimento da medida cautelar, permanecendo o fundamento da prisão preventiva, que fica mantida.
+Consoante adiantado no juízo liminar, as decisões apresentam fundamentação quedevem ser entendidas como válidas para a prisão preventiva, tendo em vista o descumprimento da medida cautelar consistente em manter o endereço atualizado nos autos.
+O entendimento desta Corte Superior é no sentido de que o descumprimento de medida cautelar imposta para a concessão da liberdade provisória justifica a custódia cautelar. Nesse sentido: RHC n. 49.126/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 26/09/2014; HC n. 281.472/MG - 5ª T. - unânime - Rel. Min. Jorge Mussi - DJe 18/06/2014; HC n. 269.431/GO - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz, DJe 11/04/2014; HC n. 275.590/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz, DJe 26/02/2014.
+Ademais, mostra-se incabível o exame da questão referente à não ocorrência do descumprimento das medidas cautelares, porquanto necessário o revolvimento de prova, providência que não se coaduna com o rito célere e de cognição sumária do habeas corpus.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
