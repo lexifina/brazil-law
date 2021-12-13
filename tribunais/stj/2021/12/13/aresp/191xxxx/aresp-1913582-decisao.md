@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação dos arts. 489 e 1.022do CPC/2015, (b) aplicação das Súmulas n. 211 do STJ, 283 e 284 do STF (e-STJ fls. 697/705).
+O acórdão recorrido está assim ementado (e-STJ fl. 575):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA FUNDADA EM INSTRUMENTO DE CONFISSÃO DE DÍVIDA. ART. 1.102-A DO CPC/73 E ARTS. 700 E SEGUINTES DO CPC/15. SENTENÇA DE PROCEDÊNCIA. REITERAÇÃO DO AGRAVO RETIDO EM SEDE DE APELAÇÃO, EM CUMPRIMENTO AO DISPOSTO NO ART. 523 § 1º DO CPC/73. CONTUDO, O MESMO MERECE SER DESPROVIDO UMA VEZ QUE A PERÍCIA CONTÁBIL DEVE COMPREENDER A ANÁLISE DAS ALEGAÇÕES DE EXCESSO DE COBRANÇA E NÃO O EXAME DA NULIDADE DOS TÍTULOS, APRECIAÇÃO ESSA QUE DEVE SER LEVADA A EFEITO PELO MAGISTRADO. APELO DA RÉ NO SENTIDO DE INEXISTÊNCIA DE OBRIGAÇÃO A CUMPRIR OU VALOR A PAGAR. DESCABIMENTO. LAUDO PERICIAL QUE CONTÉM O EXAME DE TODA A DOCUMENTAÇÃO, ATESTANDO A EXISTÊNCIA DE CRÉDITO EM FAVOR DA PARTE AUTORA. APELANTE QUE NÃO LOGROU ÊXITO EM PRODUZIR QUALQUER PROVA NO SENTIDO DE QUE O INSTRUMENTO DE CONFISSÃO DE DÍVIDA POSSUA ALGUM VÍCIO CAPAZ DE ENSEJAR A SUA NULIDADE/ANULABILIDADE. DEPOIMENTO DAS TESTEMUNHAS QUE NÃO POSSUEM O CONDÃO DE RECHAÇAR A PROVA DOCUMENTAL DOS AUTOS, TENDO UMA DELAS INCLUSIVE AFIRMADO QUE UM DOS DOCUMENTOS ACOSTADOS PELO RÉU NÃO CORRESPONDERIA À REALIDADE. MANUTENÇÃO DA SENTENÇA. MAJORAÇÃO DA VERBA HONORÁRIA, NOS TERMOS DO ART. 85, §11, CPC. RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 635/640).
+No recurso especial (e-STJ fls. 658/670), fundamentado no art. 105, III, "a", da CF, a recorrente alegouviolação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, IV, e 1.022, II,do CPC/2015 afirmando "omissão quanto à inobservância do laudo pericial à prova oral e à totalidade da documentação fornecida" (e-STJ fl. 661),
+(ii) arts. 522 e 523 do CPC/2015 e 480 do CC/2002 sustentando que "o Agravo Retido atacou justamente o fato de que a decisão de 1º Grau, quando delimitou os pontos controvertidos, deixou de incluir a questão quando à validade e origem do negócio jurídico, e justamente por esta omissão foi que a prova deferida se limitou apenas, e tão somente, à apuração de excesso no valor executado" (e-STJ fl. 666),
+(iii) art. 702, § 1º, do CPC/2015 apontando que é "contraditório o v. acórdão vergastado quando, ao mesmo tempo que nega provimento ao Agravo Retido que tinha por objetivo ver alargados o ponto contraditório e o escopo da perícia deferida, acaba por afirmar que a Recorrente, in verbis, "não logrou êxito em produzir qualquer prova no sentido de que o instrumento de fls. 19 (index 000100) possua algum vício capaz de ensejar a sua nulidade/anulabilidade"" (e-STJ fl. 668).
+Busca o provimento do recurso especial, para o fim de (e-STJ fl. 670):
+31.1. Seja anulado o V. Acórdão dos Declaratórios, para que a C. Câmara do Tribunal Local profira outro em seu lugar, com o enfrentamento objetivo da essencial das omissões e contradição existentes, inclusive nos termos da Súmula 211 do STJ; ou, se assim não entender em razão do disposto no art. 1.025 do CPC,
+31.2. Reformar o V. acórdão que julgou a Apelação, para anular a r. sentença de 1º grau para determinar o refazimento da prova pericial, ampliando-se o ponto controvertido a ser resolvido, qual seja, a origem e validade do título que ensejou a confissão de dívida executada, com o que se distribuirá a costumeira JUSTIÇA.
+No agravo (e-STJ fls. 733/744), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fls. 751/763).
+É o relatório.
+Decido.
+Da negativa de prestação jurisdicional
+Inicialmente, não há falar em negativa de prestação jurisdicional, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos (e-STJ fl. 584):
+Rechaçam-se as alegações recursais de que o laudo pericial não considerou os cheques e notas fiscais acostados.
+O Perito, para chegar ao valor devido, ponderou tais documentos, conforme depreende-se dos seguintes trechos extraídos do laudo pericial:
+(..)
+Todavia, em depoimento pessoal (mídia digital) afirmou a Autora não ter recebido ou não se lembrar de ter recebido nenhum fardo de açúcar à época dos fatos. Com relação à empresa MERKAN, do Sr. José Carlos, a Autora afirmou conhecê-lo, sem, contudo, ter-lhe outorgado autorização para retirada dos fardos em seu nome.
+A testemunha José Carlos Ribeiro afirmou ter retirado alguns fardos em nome da Autora, de 500 em 500, contudo, alega que a autorização de 5.500 fardos não é verdadeira, estimando ter transportado "cinco ou seis caminhões".
+Igualmente, o Sr. Manoel Gomes de Azevedo, testemunha arrolada cujo depoimento foi colhido em mídia digital, afirmou não se recordar muito bem dos fatos em decorrência do lapso temporal decorrido, contudo, informou que à época prestava serviço de frete autônomo, levando cerca de 500 (quinhentos) pacotes de açúcar, mais ou menos 15.000 quilos, a mando do Sr. José Carlos Ribeiro, não afirmando em nenhum momento ter colocado o produto à disposição da Autora.
+Dessa forma, por qualquer ângulo que se examine a questão, não merece reforma a sentença recorrida já que tudo o que a Ré possui a seu favor é o depoimento de uma testemunha, a qual afirma que uma das autorizações não seria verdadeira, devendo, assim, prevalecer as ponderadas conclusões da perícia contábil realizada, que concluiu pela dívida em nome da parte ré, no montante indicado no dispositivo sentencial.
+Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação da tese de ofensa aoart. 1.022 do CPC/2015.
+Da ausência de prequestionamento
+A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento.
+O Tribunal de origem, ao analisar o recurso de apelação, não fez menção aos arts. 522, 523 e 702, § 1º, do CPC/2015 e 480 do CC/2002, indicados nas razões recursais, conforme se infere do voto condutor do acórdão recorrido (e-STJ fls. 574/585). Além disso,o recorrente nem sequerinvocou tais artigosnos embargos de declaração.
+Assim, incidente o óbice das Súmulas n. 282 e 356 do STF.
+Diante do exposto, CONHEÇO do agravo e NEGO PROVIMENTO ao recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
