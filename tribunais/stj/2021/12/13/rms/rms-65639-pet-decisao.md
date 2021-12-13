@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de exceção de suspeição (e-STJ fls. 1.344/1.376) oposta por IDÍLIO NUCCI e SOUAD GOERGES ABOU SAADA NUCCIcontra esta relatoria, nos autos do RMS de n. 65.639/SP.
+Sustentam os excipientes, em síntese, que esta relatoria seria suspeita e impedida, pois "estava com o julgamento pronto, antecipado, favorecendo os requeridos" (e-STJ fl. 1.348).
+Afirma a parte que este relator estariasofrendo pressão do TJSP e que não teria tomado "as providências necessárias" quanto às suscitadas ilegalidades ocorridas perante o trâmite do feito na instância de origem, referente às "certidões falsas de trânsito em julgado", sendo que não teria apresentado à Quarta Turma do STJ os documentos comprobatórios dessasirregularidades. Assim, postula a anulação de "todo o processo que está no acervo do Doutor Ferreira"(e-STJ fl. 1.373).
+É o relatório.
+Decido.
+Nos termos do art. 146, § 1º, do CPC/2015, cabe ao juizreconhecer ou afastar a alegação de suspeição, antes de determinar a autuação em apartado da peça.
+Nesse sentido, recuso a suspeição.
+Com efeito, o recurso ordinário da parte ora requerente não foi conhecido, em decisão monocrática desta relatoria, com base na Súmula n. 267/STF(e-STJ fls.586/588).
+A propósito, anteriormente, o Ministério Público Federal se manifestou, em parecer,no mesmo sentido, pelo não provimento do recurso ordinário, por aplicação analógica da Súmula n. 267/STF (e-STJ fls. 580/584).
+A decisão desta relatoria foi impugnado por agravo interno, o qual não foi conhecido, de forma unânime, pela Quarta Turma do STJ (e-STJ fls. 957/961).
+Opostos aclaratórios, foram rejeitados também sem divergências pela Quarta Turma(e-STJ fls. 1.336/1.339).
+Nesse contexto, de início, constata-se a intempestividade da exceção. Conforme o art. 146, caput, do CPC/2015, a exceção deve ser oposta em 15 (quinze) dias a contar do conhecimento do fato pela parte excipiente.
+Entretanto, os fatos que supostamente teriam ocasionado a suspeição desta relatoria (estar com o julgamento pronto antecipadamente do recurso ordinário e do agravo internoe não apresentar à Quarta Turma os documentos constantes dos autos) ocorreram entre os meses de abrile agostode 2021,tendo a parte oposto sua exceção apenas em 30/11/2021(e-STJ fl. 1.376). Portanto, vencido em muito o prazo quinzenal.
+Além disso, ao contrário do que suscitado pelos excipientes, esta relatoria não está sofrendo qualquer pressão do egrégio TJSP para julgar seu pleito,nem favorecendo dolosamente a parte contrária, tendo o recurso ordinário seguido o fluxo normal de andamento perante o STJ, sendo facultado aos recorrentes,neste Tribunal Superior, a utilização dos meios necessáriospara submeter seu recurso ao exame dos demais ministros da Quarta Turma, dos quais, inclusive, fizeramuso, ao interporemagravo interno e embargos de declaração, ambos analisados pelo referido órgão colegiado.
+Ressalte-se quenão se impediuo acesso de qualquer membro da Quarta Turma aos documentos constantes dos autos, sendo que o recurso ordinário, perante o STJ, tramita em autos eletrônicos, instruídocom toda a documentação virtual juntada pelos próprios recorrentes, ora excipientes, a qual não poderia simplesmente ser sonegada por esta relatoria de forma anônima, sem qualquerregistro nos autos, sendo possível, desse modo, a qualquer ministro do colegiado, caso assim entendesse, pedir vista para melhor análise dosdocumentos apresentados pelos recorrentes.
+Diante do exposto, com fundamento no art. 146, § 1º, do CPC/2015, NÃO RECONHEÇO a alegação de suspeição e determino a autuação da petição em apartado, oportunidade em que prontamente encaminho o presente como razões de não reconhecimento.
+Distribua-se no âmbito da Segunda Seçãoao relator (art. 278 do RISTJ), cumprindo a declaração dos efeitos em que é recebida a exceção (art. 146, § 2º, do CPC/2015), a importar no prosseguimento ou não do julgamento deste recurso ordinário.
+Publique-se e intimem-se.
