@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se habeas corpus, com pedido liminar, impetrado em favor de FÁBIO DE OLIVEIRA, contra acórdão Tribunal de Justiça do Estado de São Paulo.
+Extrai-se dos autos que o paciente foi condenado a 7 anos de reclusão, em regime inicial fechado, por violação art. 121, caput, do Código Penal Brasileiro.
+O Tribunal de origem negou provimento ao recurso do paciente, nos termos da seguinte ementa:
+"APELAÇÃO CRIMINAL - JÚRI - HOMICÍDIO SIMPLES - Alegação defensiva de decisão manifestamente contrária à prova dos autos - Inocorrência - Pedido de reconhecimento da excludente da legítima defesa - Impossibilidade - Existência de elementos razoáveis a propósito do envolvimento do acusado no delito - Jurados que optaram por versão razoavelmente comprovada nos autos - Condenação mantida - Recurso desprovido." (e-STJ, fl. 24)
+Nesta Corte, a defesa requer seja compensada a reincidência com a confissão espontânea e fixado regime mais favorável.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Os capítulos acerca da análise da compensação da reincidência com a confissão espontânea e da fixação de regime mais favorável não foram apreciados pelo Tribunal a quo, pois apenas foi devolvido para a análise da Corte estadual tema afeto à anulação do julgamento sob o fundamento de que a decisão dos jurados foi manifestamente contrária à prova dos autos. Portanto, como não há decisão de Tribunal, inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República, que exige decisão de Tribunal.
+Confira-se:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)
+A teor do entendimento consolidado na Súmula 713/STF, "o efeito devolutivo da apelação contra decisões do júri é adstrito aos fundamentos da sua interposição".
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
