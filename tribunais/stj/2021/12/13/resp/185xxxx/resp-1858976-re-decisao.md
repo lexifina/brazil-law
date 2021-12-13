@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por EDUARDO BENES ABRIGATO BARRA eBRENDA ANNE ABRIGATO BARRA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 486):
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO MONITÓRIA. PROCESSO INCLUÍDO EM PAUTA E NÃO JULGADO NA DATA PREVISTA. DESNECESSIDADE DE NOVA INCLUSÃO DO FEITO EM PAUTA. JULGAMENTO DO FEITO EM PRAZO RAZOÁVEL. INCIDÊNCIA DA SÚMULA 83/STJ. APLICAÇÃO A AMBAS AS ALÍNEAS DO ART. 105, III, DA CONSTITUIÇÃO FEDERAL. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A jurisprudência do STJ é firme no sentido de que após o processo ter sido regularmente incluído em pauta, tendo sido as partes devidamente intimadas da data da sessão de julgamento, que, contudo, não se realiza no dia designado, não é necessário sua reinclusão em pauta ou nova intimação das partes, mormente quando o feito é levado a julgamento em tempo razoável.
+2. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+3. A Súmula 83 do STJ é aplicável aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da Constituição Federal.
+4. Agravo interno a que se nega provimento.
+Os dois embargos de declaração opostos foram rejeitados, os segundos com aplicação de multa (e-STJ fls. 536-542 e 567-572).
+Sustentamos recorrentes que houve violação do art. 93, inciso IX, da Constituição Federal.
+Alegam que o acórdão recorrido desconsiderou a "disposição constitucional relacionada à imperiosa e obrigatória de fundamentação das decisões judiciais" (e-STJ fl. 583), sendo de rigor a análise da questão pela Corte Suprema.
+Aduzem que a ausência de análise da tese"de que a apelação fora julgada em uma Sessão Extraordinária que não teve a pauta publicada no órgão oficial/diário oficial como obriga o art.934 do CPC que, portanto, restou violado a atrair a procedência da rescisória" (e-STJ fl. 586) constitui negativa de prestação jurisdicional.
+Requerem, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls. 604-617.
+É o relatório.
+Ao interpretar o art. 93, inciso IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118.)
+Na espécie, da leitura do julgado questionado, constata-se que foram declinadas as razões pelas quais foi negado provimento ao agravo interno,valendo destacar o seguinte excerto (e-STJ fls. 490):
+"O presente recurso não merece prosperar.
+Não há como afastar o óbice da Súmula 83/STJ, porquanto o Tribunal de origem, fundamentadamente, solucionou a controvérsia à luz da jurisprudência do STJ, o que inviabiliza o recurso especial nos termos da referida Súmula, que aliás, é aplicável ao recurso especial interposto tanto pela alínea "a" quanto pela alínea "c" do inciso III do art. 105 da Constituição Federal.
+Sobreleva destacar que a Corte Especial do Superior Tribunal de Justiça, ao interpretar o art. 1.021, § 3º, do CPC/2015, assentou que o dispositivo não impõe ao julgador a obrigação de reformular a decisão agravada para, em outros termos, reiterar os seus fundamentos, notadamente diante da falta de argumento deduzido pela parte capaz de modificar a decisão recorrida (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, julgado em 15/6/2016, DJe de 3/8/2016)."
+Conclui-se, portanto, que o acórdão encontra-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ELEITORAL E CRIMINAL.  ..  ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL (TEMA 339 DA REPERCUSSÃO GERAL). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.  ..  III - Conforme assentado no julgamento do AI 791.292-QO-RG (Tema 339 da repercussão geral), de relatoria do Ministro Gilmar Mendes, o art. 93, IX, da Lei Maior exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.  ..  V - Agravo regimental a que se nega provimento.
+(ARE 1343342 ED-AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, julgado em 04/11/2021, PROCESSO ELETRÔNICO DJe-221 DIVULG 08-11-2021 PUBLIC 09-11-2021)
+No mesmo diapasão:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO.  .. TEMAS 339, 424 E 660. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.  ..  2. Esta Corte, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.  ..  4. Agravo regimental a que se nega provimento.
+(ARE 1305399 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 25/10/2021, PROCESSO ELETRÔNICO DJe-224 DIVULG 11-11-2021 PUBLIC 12-11-2021)
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. SEGUIMENTO NEGADO.
