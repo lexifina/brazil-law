@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1. Trata-se de agravo interno interposto pelo ESTADO DO RIO GRANDE DO SUL contra decisão que deu parcial provimento ao recurso especial dos recorridos, assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA. PEDIDO DE FIXAÇÃO DA VERBA HONORÁRIA. PRECLUSÃO INEXISTENTE. RECURSO ESPECIAL DOS EXEQUENTES PARCIALMENTE PROVIDO. (fls. 187)
+2. Em suas razões (fls. 196/205), a parte agravante sustenta, em suma, que somente após a expedição da RPV é que os exequentes se pronunciaram quanto ao arbitramento da verba honorária na fase executiva, em ofensa ao art. 503 do atual diploma processual.
+3. Requer, ao final, o provimento do agravo interno para que seja provido o recurso especial nos termos pleiteados.
+4. Não houve impugnação ao recurso (fls. 209/211).
+5. É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM EXECUÇÃO. PRECLUSÃO. INEXISTÊNCIA. JULGADO MONOCRÁTICO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DO STJ.AGRAVO INTERNO DO ENTE FEDERATIVO DESPROVIDO.
+1. Nostermos do entendimento jurisprudencial desta Corte Superior, não há preclusão para a fixação dos honorários advocatícios na execução em face da Fazenda Pública, ainda que já tenham sido realizados a expedição ou o pagamento de RPV, ante a ausência de previsão legal definindo um momento para o arbitramento dos honorários.
+2. Agravo interno do ente federativo a que se nega provimento.
+VOTO
+1.Não assiste razão à parte agravante.
+2. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+3. Acerca da matéria controvertida, a Corte estadual assim se manifestou:
+A parte embargante alega que o acórdão recorrido deixou de mencionar expressamente a aplicação do art. 85, § 14, do CPC, pelo que caracterizada omissão. Sustenta que deve ser afastada a preclusão reconhecida, na medida em que o exequente se insurgiu contra o indeferimento do pedido de fixação de honorários. Pugna pelo acolhimento dos aclaratórios. Vieram os autos conclusos. É o relatório.
+(..)
+No caso telado, o acórdão recorrido apreciou adequadamente, de forma clara e inteligível, a questão controvertida - o pleito de fixação de honorários em hipótese de execução invertida, conforme pode ser observado no trecho do acórdão transcrito a seguir:
+Compulsando os autos, verifica-se que, apresentada a execução de sentença, o magistrado a quo entendeu não ser caso de fixação de honorário, por não se enquadrar o crédito originário em crédito de pequeno valor (fl. 45).
+(..)
+Ato contínuo, o juiz proferiu decisão, determinando expedição de RPV, sem nada referir acerca do pedido relativo aos honorários executivos (fl. 50).
+Em seguida, a parte exequente reiterou o pedido de fixação de honorários para a fase de cumprimento de sentença por meio da petição de fl. 52, tornando a reiterá-lo, após, na petição de fl. 56.
+Sobreveio a decisão recorrida (fls. 58/61).
+Isso posto, tendo-se em vista que a parte recorrente impugnou a decisão que indeferiu o pedido de fixação de honorários para a fase executiva por meio de reiterados pedidos de reconsideração e não por meio de recurso cabível, no prazo estabelecido no CPC, está caracterizada a preclusão da matéria.
+Nessa esteira, não prospera a irresignação da parte, uma vez que não se configurou qualquer hipótese de contradição, obscuridade, omissão ou erro material no acórdão recorrido, pois foram apreciadas as questões suscitadas. Assim, a interpretação diversa da pretendida pela parte não induz à conclusão de equívoco, ausência de prestação jurisdicional, contradição, omissão, obscuridade ou erro material na decisão. (fls. 125/128).
+4. Como visto, o Tribunal de origemconsignou que se operou a preclusão da matéria, ao fundamento de que os recorrentes não manejaram o recurso cabível, no prazo estabelecido na legislação processual, contra a decisão que indeferiu a verba honorária, limitando-se a apresentar reiterados pedidos de reconsideração.
+5. Esta Corte Superior tem a diretriz de que não ocorre a preclusão quanto à verba honorária, mesmo após o pagamento do ofício requisitório.
+6. A esse propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO APÓS A EXPEDIÇÃO OU O PAGAMENTO DE PRV. POSSIBILIDADE. AUSÊNCIA DE PRECLUSÃO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo já consignado na decisão agravada, a jurisprudência deste Tribunal Superior firmou-se no sentido de que não há preclusão para a fixação dos honorários advocatícios na execução em face da Fazenda Pública, ainda que já tenham sido realizados a expedição ou o pagamento de RPV, ante a ausência de previsão legal definindo um momento para o arbitramento dos honorários.
+2. Agravo interno não provido (AgInt no REsp 1.826.250/PE, Rel. Min. MAURO CAMPBELL MARQUES, DJe 23.10.2020).
+PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PEQUENO VALOR. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. PRECLUSÃO. NÃO OCORRÊNCIA. PRECEDENTES.
+1. Ao declarar a não ocorrência de preclusão, o acórdão proferido pelo Tribunal de origem deu parcial provimento à Apelação e determinou que os honorários advocatícios fossem fixados pelo juízo de origem. Assim ficou decidido in verbis: Portanto, seguindo o entendimento já reiterado do Superior Tribunal de Justiça, não há preclusão ao pedido de arbitramento de verba honorária, no curso da execução por RPV.
+2. Com efeito, não há preclusão quanto aos honorários advocatícios que não se tornaram questão decidida nos autos da ação principal de execução, tendo em vista que a jurisprudência do STJ, firmada no julgamento do REsp 1.252.412/RN, submetido ao rito do art. 543-C do CPC/1973, declara a não ocorrência da preclusão quanto à fixação dos honorários advocatícios, ainda que não tenham sido requeridos no começo da execução e já tenha ocorrido o pagamento do ofício requisitório.
+3. Agravo Interno não provido (AgInt no REsp 1.743.643/RS, Rel. Min. HERMAN BENJAMIN, DJe 11.3.2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. RPV. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. PRECLUSÃO. NÃO OCORRÊNCIA.
+1. A teor da jurisprudência desta Corte não há falar em preclusão no pedido de arbitramento de verba honorária, no curso da execução, mesmo que a referida verba não tenha sido pleiteada no início do processo executivo, e apesar de já ter havido o pagamento da RPV, tendo em vista a inexistência de dispositivo legal que determine o momento processual para esse pleito. Precedentes: AgRg no REsp 1.397.117/RS, Rel. Min. ASSUSETE MAGALHÃES, Segunda Turma, DJe 9.9.2015; AgRg no REsp 1.397.478/RS, Rel. Min. BENEDITO GONÇALVES, Primeira Turma, DJe 17.6.2015; AgRg no REsp 1.355.571/RS, Rel. Min. MAURO CAMPBELL MARQUES, Segunda Turma, DJe 11.6.2013.
+2. Agravo interno não provido (AgInt no REsp 1.725.649/RS, Rel. Min. BENEDITO GONÇALVES, DJe 14.11.2018).
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. EXECUÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. PRECLUSÃO. NÃO OCORRÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO. DESCUMPRIMENTO DOS REQUISITOS LEGAIS.
+(..)
+2. Nos termos da jurisprudência pacífica do STJ, não há preclusão no pedido de arbitramento de verba honorária, no curso da execução, mesmo que a referida verba não tenha sido pleiteada no início do processo executivo, e apesar de já ter ocorrido pagamento da RPV, tendo em vista a inexistência de dispositivo legal que determine o momento processual para esse pleito. Precedentes: AgRg no REsp 1.188.906/RS, Rel. Min. MAURO CAMPBELL MARQUES, Segunda Turma, DJe 26.11.2014; AgRg no AREsp 268.392/RS, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 7.3.2013.
+3. A divergência jurisprudencial deve ser comprovada, cabendo ao recorrente demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base no art. 105, III, alínea c, da Constituição Federal.
+4. Recurso Especial não conhecido(REsp 1.681.096/RN Rel. Min. HERMAN BENJAMIN, DJe 10.10.2017).
+7. Como visto, nas razões de seu agravo interno, a parte vindica a reforma da solução unipessoal, ao argumento de quesomente após a expedição da RPV os exequentes se manifestaram acerca da fixação de honorários advocatícios para execução, o que caracteriza total afronta ao que dispõe o artigo 503 do atual CPC (dispositivo que corresponde ao artigo 473 do Código de Processo Civil de 1973). Veja-se que a parte restou silente após o despacho do juiz de piso, que afastou a pretensão de fixação de honorários quanto ao seu pedido apresentado na inicial executiva, restando precluso, portanto, o momento para se manifestar acerca da aludida verba (fls. 197).
+8. No entanto, consoante mencionado, em ocasiões como a dos presentes autos, a parte possuidireito, a qualquer tempo, mesmo depois da expedição do pagamento do ofício requisitório, à fixação dos honorários advocatícios. A decisão agravada não está, portanto, a merecer reparos.
+9. Mercê do exposto, nega-se provimento ao Agravo Interno do Ente Federativo.
+10. É como voto.
