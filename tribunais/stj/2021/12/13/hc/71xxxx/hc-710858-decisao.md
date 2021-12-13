@@ -1,0 +1,42 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor deEderson Pereira da Silva- condenado à pena total de 7 anos, 9 meses e 10 dias de reclusão (Apelação Criminal n. 0053701-14.2018.8.19.0203, do Tribunal de Justiça do Rio de Janeiro), como incurso nos crimes tipificados nos arts.157, § 2º, I, § 2º-A, I, e 158, § 1º, na forma doart. 70, todosdo Código Penal -, sob alegação de constrangimento ilegal na fixação do regime inicial fechado para o cumprimento da pena, requer-se, em liminar e no mérito, o abrandamento do regime inicial de pena.
+É o relatório.
+A ordem merece concessão.
+Extrai-se dos autos que a pena imposta ao paciente foi fixada no mínimo legal e em patamar inferior a 8 anos de reclusão (fls. 30/32):
+ ..
+Passo a fixar a pena do réu Ederson Pereira da Silva.
+Considerando as circunstâncias judiciais do art. 59, caput, do CP, verifico que a pena base deve ser fixada no mínimo legal. A culpabilidade é normal ao tipo penal. O réu não tem maus antecedentes, conforme a FAC de fls. 117/134. Não há tio- s autos informe seguro com relação à conduta social do réu e à sua personalidade, de modo que ambas não podem prejudicá-lo. As circunstâncias e as consequências dos crimes são ordinárias. O motivo dos crimes e o comportamento da vítima não impõem o aumento da pena. Por isso: (a) com relação ao crime de roubo, fixo a pena base em 4 anos de reclusão e 10 dias-multa, no valor mínimounitário, com base no art. 60, caput, do CP; (b) com relação ao crime de extorsão, fixo a pena base em 4 anos de reclusão e 10 dias- multa, no valor mínimo unitário, de acordo com o art. 60, caput, do CP.
+Considerando a inexistência de circunstância atenuante e considerando a inexistência de circunstância agravante, mantenho a reprimenda. Por isso: (a) com relação ao crime de roubo, fixo a pena intermediária em 4 anos de reclusão e 10 dias-multa, no valor mínimo unitário, com base no art. 60, caput, do CP; (b) com relação ao crime de extorsão, fixo a pena intermediária em 4 anos de reclusão e 10 dias-multa, no valor mínimo unitário, de acordo com o art. 60, caput, do CP.
+Considerando a ausência de causa de diminuição de pena, considerando a presença das causas de aumento de pena previstas no art. 157, § 2º, II, e § 2º-A, I, do CP, e no art. 158, § 1º, do CP, aumento a reprimenda em 2/3, por força do art. 68, p1arágrafo único, do CP, com relação ao crime de roubo, e aumento a reprimenda em metade porque o crime foi praticado por duas pessoas e com emprego de arma, com relação ao crime de extorsão. Por isso: (a) com relação ao crime de roubo, fixo a pena intermediária em 6 anos e 8 meses de reclusão e 16 dias-multa, no valor mim e unitário, com base no art. 60, caput, do CP; (b) com relação ao crime deextorsão, fixo a pena intermediária em 6 anos de reclusão e 15 dias- multa, no valor mínimo unitário, de acordo com o art. 60, caput, do CP.
+Considerando o concurso formal de crimes, aplico a mais grave das penas privativas de liberdade, que é de 6 anos e 8 meses, acrescida de 1/6, diante do número de crimes, com base no art. 70, caput, do CP. Além disso, aplico as penas de multa de maneira cumulativa, com base no art. 72, caput, do CP. Por esses motivos, com relação ao réu Ederson Pereira da Silva, fixo a pena total em 7 anos. 9 meses e 10 dias e 31 dias-multa, no valor mínimo unitário, com base no art. 60, caput, do CP.
+ ..
+Tais circunstâncias, aliadas à condição de réu primário, implicam a possibilidade de fixação do regime semiaberto, nos termos do art. 33, § 2º,b, do Código Penal.
+Ocorre que, no caso, as instâncias ordinárias fixaramoregime mais gravoso (fechado) com base na gravidade abstrata do delito e sopesandoelementos ínsitos aocrime de roubo(fls. 32/33 e 69):
+ ..
+Considerando as normas do art. 33, caput, do CP, fixo o regime fechado para o início do cumprimento da pena privativa de liberdade.
+Aliás, no que atine à fixação do regime fechado, cabe salientar que este Magistrado adere ao seguinte ensinamento jurisprudencial.
+ ..  Não há que se falar em fixação de regime semiaberto para início do cumprimento da pena. Trata-se de crime de roubo qualificado. As consequências que este tipo de delito gera em nossa sociedade são graves, pois leva medo e intranquilidade a todas as pessoas, que são obrigadas a transitar sobressaltadas pela cidade, criando instabilidade social. Regime fechado se mostra o mais adequado para a prevenção e repressão do delito de roubo imputado ao apelante  ..  (TJRJ. Quarta Câmara Criminal, Relatora Des. Gizelda Leitão Teixeira, Apelação Criminal 0117947-87.2011.8.19.0001, julgado em 20/09/2016)
+Indenização.
+Deixo de condenar o réu Ederson Pereira da Silva ao pagamento de indenização em favor da vítima, já que não revelado com segurança o prejuízo material experimentado, o que não impede o ajuizamento da ação própria.
+ ..
+Quanto ao pedido de fixação de regime prisional menos gravoso, tal pretensão merece prosperar. O regime fechado deve ser fixado, eis que melhor se coaduna com as peculiaridades do caso em apreço, considerando que o delito foi praticado por meio de grave ameaça à vítima com uso de arma de fogo.
+O crime de roubo tem causado grande intranquilidade à população de nossa cidade, de vez que seus autores têm agido com extrema violência, sem qualquer respeito ou piedade pelos seus semelhantes, devendo por conseguinte, ser aplicado o regime mais severo. A aplicação de regime de menor rigor não teria o condão de retirar o agente do convívio da sociedade, sendo certo que se não permanecer isolado continuará na prática criminosa, como tem normalmente acontecido.
+ ..
+Em casos que tais, a jurisprudência desta Corte tem orientado no sentido da ilegalidade da fixação do regime inicial mais severo:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA MANTIDA PELO TRIBUNAL A QUO. REGIME PRISIONAL FECHADO. RÉU PRIMÁRIO. PENA-BASE NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. QUANTUM DA REPRIMENDA NÃO SUPERIOR A 8 ANOS. GRAVIDADE ABSTRATA DO DELITO. ELEMENTOS ÍNSITOS AO TIPO PENAL. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL CONFIGURADO. DECISÃO MANTIDA POR SEUS PRÓPRIOS E JURÍDICOS FUNDAMENTOS.
+1. Deve ser mantida por seus próprios e jurídicos fundamentos a decisão monocrática que concedeu a ordem.
+2. In casu, o regime inicial fechado foi determinado com base na gravidade em abstrato do tipo de roubo majorado (concurso de agentes e emprego de arma de fogo), não tendo sido apresentado qualquer fundamento especificamente referido no caso concreto para imposição de regime mais gravoso do que o originalmente cabível em razão do quantum de pena aplicado. Com efeito, a simples menção fim de ludibriar a vítima e assim facilitar o roubo (fl. 59) não revela a gravidade concreta do crime; em verdade, a referida expressão, sem maiores detalhes, posta em termos genéricos, confunde-se com as elementares do tipo penal do crime de roubo.
+3. Agravo regimental improvido.
+(AgRg no HC n. 385.136/SP, de minha relatoria, Sexta Turma, DJe 16/8/2017 - grifo nosso)
+ ..
+2. Nos termos do Enunciado n.º 269 da Súmula desta Corte Superior de Justiça, "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais ", justificando, assim, a concessão de habeas corpus de ofício.
+3. Ademais, à luz do reiterado entendimento adotado por este Sodalício, não configura fundamento idôneo para a imposição de regime prisional mais gravoso do que o quantum de pena permite, a indicação da gravidade em abstrato do delito e de elementos ínsitos ao próprio tipo incriminador. Inteligência do Enunciado Sumular n.º 440/STJ
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 381.938/SP, Ministro Jorge Mussi, Quinta Turma, DJe 22/3/2017).
+Ante o exposto,concedoa ordema fim de fixar o regime inicial semiaberto para o cumprimento da pena imposta ao paciente (Processo n. 0053701-14.2018.8.19.0203, da 1ª Vara Criminal da comarca de Jacarepaguá/RJ).
+Dê-se ciência ao Tribunal local e ao Juízo de primeiro grau.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO E EXTORSÃO MAJORADA. SUPOSTA ILEGALIDADE NO REGIME INICIAL DE PENA. PROCEDÊNCIA. REPRIMENDA TOTAL QUE NÃO ULTRAPASSA 8 ANOS. PENA-BASE NO MÍNIMO LEGAL. RÉU PRIMÁRIO. REGIME FECHADO ESTIPULADO SEM FUNDAMENTAÇÃO IDÔNEA. ABRANDAMENTO DO REGIME INICIAL DE CUMPRIMENTO PARA O SEMIABERTO.
+Ordem concedida nos termos do dispositivo.
