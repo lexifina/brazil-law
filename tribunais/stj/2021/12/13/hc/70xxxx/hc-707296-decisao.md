@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GIOVANE MACHADO ANDREZA apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Agravo de Execução Penal n. 0007825-28.2019.8.24.0020).
+Consta dos autos que o Juízo da Vara das Execuções Criminaishomologou 88 (oitenta e oito) dias de remição da pena do paciente.
+Irresignada, a defesainterpôs recurso de agravo em execução, que foi desprovido pelo Tribunal de origem. Eis a ementa (e-STJ fl. 62):
+AGRAVO DE EXECUÇÃO PENAL. APENADO APROVADO INTEGRALMENTE NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENSE ADULTOS (ENCCEJA). POSTULADA MAJORAÇÃO DOS DIAS REMIDOS. INVIABILIDADE. APROVAÇÃO EM TODAS AS ÁREAS DE CONHECIMENTO QUE IMPLICA A REMIÇÃO DE 88 (OITENTA E OITO) DIAS DE PENA, EM OBSERVÂNCIA ÀS DETERMINAÇÕES DO ART. 126, §1º, I E §5º, DA LEP E DA RECOMENDAÇÃO N.44/2013 DO CNJ. PRECEDENTES DESTA CORTE. RECURSO CONHECIDO E DESPROVIDO.
+O presente habeas corpus, alega a defesa,"visa a desconstituir o acórdão ilegal do Órgão Fracionário do TJSC que, ao julgar o agravo em execução penal interposto pela Defensoria Pública, deliberou que o PACIENTE tivesse remidos tão somente 88 dias, quando, em verdade, o período a ser remido é de 177 dias, conforme Recomendação n. 44/2013 do Conselho Nacional de Justiça" (e-STJ fl. 6).
+Assere, ainda, que "a Defensoria Pública já impetrou habeas corpus perante este SUPERIOR TRIBUNAL DE JUSTIÇA (autuado sob a rubrica HC n. 554.984/SC), em que sustentou o reconhecimento do direito do PACIENTE à remição da pena no cômputo total de 177 dias pela aprovação total no ENCCEJA relativo ao ensino fundamental. Em decisão monocrática, o Exmo. Ministro Relator denegou a ordem do habeas corpus.Ocorre que, diante da uniformização do tema pelo SUPERIOR TRIBUNAL DE JUSTIÇA, o habeas corpus agora tem nova causa de pedir. Em outras palavras, o presente habeas corpus não encontra óbice na coisa julgada, porque não há tríplice identidade com a demanda anterior, diante da diversidade da causa de pedir"(e-STJ fl. 10).
+Sustenta, por fim, que "está claro quea aprovação total no ENCCEJA dá direito à remição de 133 dias (mais 1/3): 1.600 horas equivalentes aos 50% da carga horária do ensino fundamental divididos pelas 12 horas de estudo que servem à remição de 1 dia de pena (1.600 / 12 = 133 dias) acrescidos da bonificação de 1/3 pela conclusão do ensino fundamental (1/3 de 133 dias = 44 dias), resultando em 177 dias a serem remidos. Logo, no caso concreto, considerando-se que o PACIENTE foi aprovado em todos os campos de conhecimento, tem direito à remição de 177 dias de pena, e não a apenas 88 dias" (e-STJ fl. 10).
+Requer, ao final (e-STJ fls. 11/12):
+a) Liminarmente, CONCEDA-SE a ordem de habeas corpus parareconhecer o direito do PACIENTE à remição de 177 dias de sua pena (e não apenas 88 dias),até julgamento do writ;
+b) Seja dispensada a requisição de informações à autoridade coatora, porquanto a presente ação é instruída com cópia integral dos autos;
+c) Promova-se a oitiva do membro do Ministério Público;
+d) Ao final, concedida ou não a liminar, seja reconhecido o direito do PACIENTE à remição da pena no cômputo total de 177 dias pela aprovação total no ENCCEJA relativo ao ensino fundamental.
+Subsidiariamente, caso não seja conhecido o habeas corpus, que a ordem seja concedida de ofício, diante da manifesta ilegalidade (CRFB/88, art. 5.º, LXVIII; CPP, art. 654, § 2.º).
+Indeferida a liminar (e-STJ fls. 72/74) e prestadas as informações (e-STJ fls. 78/87 e 88/105), manifestou-se o Ministério Público Federal pelo não conhecimento dohabeas corpus(e-STJ fls. 107/109).
+É, em síntese, o relatório.
+Consoante se verificadas informações prestadas pelo Tribunal de origem, o pedido feito nestehabeas corpusjá foi acolhido, visto que já foi deferida a remissão de 177 dias, em razão da aprovação no ENCCEJA pela conclusão no ensino fundamental (vide e-STJ fls. 88/89 e 103).
+Aliás, outra não foi a conclusão a que chegou o Ministério Público Federal (e-STJ fls.107/109).
+Desta forma, diante da alteração da realidade fática, julgo prejudicado o presentehabeas corpus.
+Publique-se. Intimem-se.
