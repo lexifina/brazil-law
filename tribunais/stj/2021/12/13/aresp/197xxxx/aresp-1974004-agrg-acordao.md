@@ -1,0 +1,40 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182/STJ.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por GEOVANE VIEIRA DA SILVA contra decisão proferida pelo Ministro Presidente, às fls. 338-339 (e-STJ), que não conheceu do agravo em recurso especial.
+A defesa alega que "da leitura do agravo, constata-se o necessário enfrentamento de todo o conteúdo do despacho denegatório, especificamente da equivocada aplicação da Súmula 07/STJ, que foi tratada, mesmo que objetivamente, à fl. 320. Aliás, o próprio recurso especial já havia debatido essa matéria às fls. 290/291." (e-STJ, fl. 346).
+Requer, assim, a reconsideração da decisão ou a submissão do feito ao colegiado.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182/STJ.
+2. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+A decisão que inadmitiu o recurso especial na origem foi pautada na incidência das Súmulas 7 e 83/STJ.
+No entanto, constata-se que o recorrente impugnou o fundamento da incidência da Súmula 7/STJ de forma genérica, o que não supre, evidentemente, a exigência de impugnação da decisão denegatória, na medida em que é imprescindível demonstrar, de forma clara e objetiva, com o devido desenvolvimento argumentativo, o desacerto da decisão agravada, em relação a cada um de seus fundamentos.
+Ademais, em recente julgamento dos EAREsp 746.775/PR, datado de 19/09/2018 e publicado em 30/11/2018, a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ. Eis a ementa do aresto:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos".
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+Por conseguinte, a Súmula 182/STJ impede o conhecimento da irresignação recursal.
+Por fim, em relação à concessão da ordem de habeas corpus de ofício, ressalte-se que é descabida a referida postulação, como sucedâneo recursal ou como forma de se tentar burlar a inadmissão do recurso próprio, tendo em vista que o seu deferimento se dá por iniciativa do próprio órgão jurisdicional, quando verificada a existência de ilegalidade flagrante ao direito de locomoção.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS PROTELATÓRIOS NÃO INTERROMPEM O PRAZO PARA INTERPOSIÇÃO DO RECURSO ESPECIAL. INTEMPESTIVIDADE. HABEAS CORPUS DE OFÍCIO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Tendo sido considerados protelatórios os embargos de declaração, esses não tiveram o condão de interromper o prazo recursal, nos termos da jurisprudência deste Sodalício, motivo pelo qual se afigura intempestivo o recurso especial (AgRg no REsp 1564614/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/4/2017, DJe 5/5/2017).
+2. "Não cabe pedido de concessão de ordem de habeas corpus de ofício, como meio de burlar a não admissão do recurso especial" (AgRg no AREsp 1527547/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 26/11/2019, DJe 2/12/2019 ).
+3. Agravo regimental desprovido."
+(AgRg no AgRg no AREsp 1.601.896/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020, grifou-se).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
