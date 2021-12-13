@@ -1,0 +1,95 @@
+DECISÃO
+
+RECLAMAÇÃO. CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO COM AGRAVO N. 1.121.633-RG, TEMA 1.046. DETERMINAÇÃO DE SUSPENSÃO NACIONAL. DESCUMPRIMENTO CONFIGURADO. RECLAMAÇÃO JULGADA PROCEDENTE.
+
+Relatório
+
+    1. Reclamação, com requerimento de medida liminar, ajuizada por Orbenk Administração e Serviços Ltda., em 1º.12.2021, contra sentença do juízo da Quinta Vara do Trabalho de Joinville e acórdão da Primeira Câmara do Tribunal Regional do Trabalho da Décima Segunda Região, no Processo n. 0000296-76.2021.5.12.0050, pelos quais teria sido desrespeitada a autoridade da decisão proferida por este Supremo Tribunal no Recurso Extraordinário com Agravo n. 1.121.633-RG, Tema 1.046.
+
+O caso
+
+    2. Em 13.9.2021, o juízo da Quinta Vara do Trabalho de Joinville indeferiu o pedido de sobrestamento formulado pela reclamante e julgou procedente o pedido formalizado por Daine Maiara Peixe na Reclamação Trabalhista n. 0000296-76.2021.5.12.0050, para “condena[r] a Ré ORBENK ADMINISTRACAO E SERVICOS LTDA (...), [a] pagar diferenças de adicional de insalubridade, mais reflexos” (fls. 174-190, e-doc. 3).
+
+    Em 17.11.2021, a Primeira Câmara do Tribunal Regional do Trabalho da 12ª Região negou provimento ao recurso ordinário interposto pela Empresa ré e manteve a sentença por seus próprios fundamentos.
+
+    Quanto ao pedido de sobrestamento do feito, o órgão colegiado de segunda instância decidiu:
+
+    “FUNDAMENTOS: 1.Sobrestamento do feito: Pretende a ré o sobrestamento do feito em face do RE 1121633 de Goiás, cujo Relator é Ministro Gilmar Mendes (tema 1046 do STF). Conforme exposto em primeiro grau, para a determinação de suspensão, exarada nos autos do processo ARE 1121633/GO, diz respeito aos feitos que tratem de "validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente" (Tema 1046 da Tabela de Repercussão Geral), matéria não discutida na presente demanda. Rejeito” (fl. 236, e-doc. 3).
+
+    3. Contra essas decisões, Orbenk Administração e Serviços Ltda. ajuíza a presente reclamação.
+
+    A reclamante informa ter “se manifest[ado] nos autos, pugnando pelo sobrestamento do feito, já que a matéria objeto do recurso é sensível ao Tema n. 1046 reconhecido pelo STF em repercussão geral” (fl. 2), o que foi indeferido pela autoridade reclamada.
+
+    Sustenta que “a controvérsia versa sobre direito ao pagamento do adicional de insalubridade em grau máximo quando as convenções coletivas da categoria asseguram o pagamento da parcela em grau médio, as quais foram invocadas pela defesa como óbice ao direito postulado na peça de ingresso” (fl. 2).
+
+    Alega que “o presente caso incontestavelmente comporta debate acerca da validade ou não de normas coletivas restritivas de direito assegurado ao trabalhador, pois a parte autora já recebia adicional de insalubridade em grau médio mediante direito assegurado em convenção coletiva” (fl. 5).
+
+    Ressalta que este Supremo Tribunal, “no julgamento do ARE 1.121.633, reconheceu a repercussão geral de matéria nele debatida, resultando na determinação de suspensão de todos os processos pendentes, individuais ou coletivos, em trâmite no território nacional, que versem sobre a validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente, nos termos do art.1035, § 50, do CPC – Tema 1046” (fl. 5).
+
+    Informa que “o adicional de insalubridade encontra-se assegurado na Constituição da República, ex vi do disposto no inc. XXIII do art. 7º (adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei), o que, num primeiro momento, poderia levar ao entendimento de não ser o caso de sobrestamento. Contudo, também é certo que o pagamento da parcela é devido em razão do grau da insalubridade, estando este assegurado na CLT (art. 192), ou seja, na legislação infraconstitucional” (fl. 6).
+
+    Afirma “não compet[ir] ao Poder Judiciário apreciar o mérito da negociação coletiva, os termos desse pacto, a justiça das deliberações, mesmo porque, ante a ampla liberdade sindical consagrada constitucionalmente, é vedado ao Estado interferir e intervir na organização e - acrescento - atuação sindicais, nos termos do art. 8º, I da CF/88, prevalecendo, assim, a supremacia da negociação coletiva frente ao protecionismo individual” (fl. 7).
+
+    Assevera que a ação “aborda a validade de norma coletiva que limita ou restringe direito trabalhista não assegurado constitucionalmente, nos moldes do Tema supramencionado, por isso deveria ter sido determinado o sobrestamento dos processos com tal discussão” (fl. 8).
+
+    Pede “seja concedida a tutela de Evidência para fazer respeitar a decisão desse E. Supremo Tribunal Federal, determinando a suspensão imediata do Processo 0000296-76.2021.5.12.0050 e a nulidade de todos os atos processuais posteriores ao ajuizamento da presente reclamação, haja vista o descumprimento da decisão que determinou o sobrestamento de todos os processos abarcados pelo Tema 1.046 até o julgamento final pelo plenário do STF acerca da validade do acordado sobre o legislado” (fl. 11).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    4. No parágrafo único do art. 161 do Regimento Interno deste Supremo Tribunal se dispõe que “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”, como se tem na espécie.
+
+    5. Põe-se em foco nesta reclamação se, ao indeferir o requerimento de suspensão do trâmite da Reclamação Trabalhista n. 0000296-76.2021.5.12.0050, a autoridade reclamada teria descumprido a determinação de suspensão nacional proferida por este Supremo Tribunal no Recurso Extraordinário com Agravo n. 1.121.633, Tema 1.046.
+
+    6. Na espécie em exame, a sentença pela qual indeferido o sobrestamento da ação foi proferida em 13.9.2021, após o Ministro Gilmar Mendes ter determinado a suspensão de todos os processos pendentes, individuais ou coletivos, que versem sobre a validade de norma coletiva de trabalho limitadora ou restritiva de direito trabalhista não assegurado constitucionalmente (Tema 1.046, em decisão publicada no Diário da Justiça de 1º.8.2019).
+
+    Pela petição inicial da ação trabalhista objeto desta reclamação, verifica-se que a pretensão da autora é o recebimento de adicional de insalubridade em grau máximo e seus reflexos (fls. 3-16, e-doc. 3).
+
+    Em contestação, Orbenk Administração e Serviços Ltda. argumentou:
+
+    “(...) estabelece o artigo 611-A, inciso XII, da CLT que a convenção coletiva de trabalho prevalece sobre a lei quando dispuser sobre enquadramento do grau de insalubridade. Logo, não há falar em pagamento de adicional de insalubridade em grau máximo, como pretendido pela parte autora, tendo em vista a previsão convencional de pagamento do adicional em tela em grau médio. Necessário repisar que o pagamento do adicional de insalubridade foi pago, conforme preconiza as Convenções Coletivas de Trabalho. Nesse mesmo sentido, necessário destacar que a negociação coletiva tem o condão de flexibilizar as normas trabalhistas atendendo as dificuldades e exigências práticas de cada categoria profissional.
+
+    Desta forma, a cláusula referente ao pagamento do adicional de insalubridade para o servente não pode ser analisada isoladamente em virtude de que integra uma Convenção Coletiva de Trabalho que foi ajustada após intensas negociações entre os Sindicatos Patronal e Laborais e que por tratar-se de um instrumento de negociação coletiva deve trazer benefícios para as duas partes, ampliando os direitos dos trabalhadores de forma global” (fls. 41-42, e-doc. 3).
+
+    7. Embora na decisão reclamada se tenha afirmado que a questão posta nos autos não se amoldaria ao Tema 1.046 por tratar-se de adicional de insalubridade assegurado pela Constituição da República, constata-se que a controvérsia na origem é a mesma cuidada no paradigma de repercussão geral do Recurso Extraordinário com Agravo n. 1.121.633-RG, Tema 1.046. Questiona-se a validade de normas coletivas de trabalho pelas quais se relativizam direitos trabalhistas.
+
+    Em reclamações análogas à presente, os Ministros deste Supremo Tribunal têm deferido a suspensão do andamento dos processos.
+
+    Na Reclamação n. 34.564-MC, o Ministro Gilmar Mendes ressaltou:
+
+    “No caso dos autos, sem prejuízo de melhor análise por ocasião do julgamento de mérito, parece-me que assiste razão ao reclamante quanto à alegada aplicação equivocada do tema 762 da repercussão geral.
+
+    Isso porque, o Plenário dessa Corte Suprema, por unanimidade, reconheceu a existência de repercussão geral da questão referente à validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente (tema 1.046 da sistemática da repercussão geral, cujo paradigma é o ARE-RG 1.121.633, de minha relatoria, DJe 3.5.2019).
+
+    No ponto, destaco que o tema foi por mim proposto objetivando a revisão das teses firmadas pelo Plenário Virtual nos autos do AI-RG 825.675, de minha relatoria, DJe 25.3.2011 (tema 357), e do RE-RG 820.729, Rel. Min. Teori Zavascki, DJe 3.10.2014 (tema 762), tendo em vista manifestações desta Corte no sentido do caráter constitucional da matéria referente à supremacia dos acordos coletivos.
+
+    Ante o exposto, reservando-me o direito a exame mais detido da controvérsia por ocasião do julgamento do mérito, presentes os pressupostos de periculum in mora e fumus boni iuris, defiro o pedido de liminar para determinar a suspensão do Processo 25-09.2011.5.09.0242 até a decisão final da presente reclamação” (DJe 10.5.2019).
+
+    Na Reclamação n. 37.497/MG, na qual se impugna marcação de audiência de instrução em reclamação trabalhista, o Relator, Ministro Luiz Fux, decidiu:
+
+    “Com efeito, o Ministro Gilmar Mendes determinou a imediata suspensão de todos os feitos que envolvam a aplicação do Tema 1.046 da Repercussão Geral.
+
+    Da análise dos autos, verifica-se que a pretensão deduzida pelo autor da demanda de origem envolve a validade de cláusulas referentes aos temas turnos alternantes de trabalho e minutos residuais, previstos em acordo coletivo de trabalho, matéria relacionada diretamente ao aludido tema da Repercussão Geral.
+
+    Por essa razão, neste juízo prévio, entendo que a decisão que determinou a suspensão de todos os feitos que envolvam a aplicação daquele tema abarca o caso concreto.
+
+    In casu, formulado pedido de suspensão ao Juízo reclamado, com base na decisão proferida no ARE 1.121.633, conforme demonstrado pela parte reclamante, mesmo assim restou indeferido.
+
+    A ordem de suspensão contida na decisão proferida por esta Corte torna-se vinculativa a partir da publicação no Diário da Justiça, ocorrida em 1º/8/2019, antes, portanto, da decisão reclamada, proferida em 14/10/2019.
+
+    Este fato evidencia afronta à autoridade de decisão desta Corte, uma vez que os processos que tratem sobre a validade das normas coletivas deverão ser suspensos até que seja julgado o mérito do recurso (CPC, art. 1.035, § 5º).
+
+    Em recentes decisões, o Ministro Alexandre de Moraes deferiu o pedido nas reclamações 36.890 (DJe de 20/9/2019) e 36.993 (DJe de 27/9/2019) para determinar a suspensão dos processos que envolvam a aplicação do Tema 1.046 da Repercussão Geral.
+
+    Ex positis, por entender que os argumentos da parte reclamante são plausíveis, DEFIRO a MEDIDA LIMINAR, com fundamento no artigo 989, inciso II, do Código de Processo Civil, para suspender os efeitos da decisão reclamada e a tramitação do Processo 0010804-47.2017.5.03.0026, que tramita na 1ª Vara do Trabalho de Betim/MG, até o julgamento final desta reclamação” (DJe 22.10.2019).
+
+    Confiram-se também como exemplos as seguintes decisões monocráticas, nas quais determinada a observância da suspensão nacional estabelecida pelo Ministro Gilmar Mendes no Recurso Extraordinário n. 1.121.633: Reclamação n. 37.943/MG, Relator o Ministro Edson Fachin, DJe 18.11.2019; Reclamações ns. 37.899/MG e 37.900/MG, Relator o Ministro Alexandre de Moraes, DJe 12.11.2019; Reclamação n. 37.788/MG, Relator o Ministro Edson Fachin, DJe 7.11.2019; e Reclamação n. 37.397/MG, Relator o Ministro Edson Fachin, DJe 4.11.2019.
+
+    8. Pelo exposto, julgo procedente a reclamação, para cassar a sentença proferida pelo juízo da Quinta Vara do Trabalho de Joinville na Reclamação Trabalhista n. 0000296-76.2021.5.12.0050 e determinar seja a ação suspensa até decisão de mérito a ser proferida no Recurso Extraordinário com Agravo n. 1.121.633-RG, Tema 1.046, ressalvada eventual necessidade de produção antecipada de provas para evitar perecimento de direito.
+
+    Publique-se.
+
+    Brasília, 13 de dezembro de 2021.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
