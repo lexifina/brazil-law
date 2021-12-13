@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por CLEIDE CARDOSO DE SOUZA BOMBONATO, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra decisão monocrática proferida pelo eminente Ministro Sérgio Kukina, que deu provimento ao recurso especial do ora recorrido para decretar a prescrição da pretensão executória(e-STJ fls. 120/130).
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 146/156).
+Sustenta a recorrente a existência de repercussão geral da matéria tratada e aponta a violação dos arts. 1º, 5º, inciso XXXVI, e 37, caput, da Constituição Federal, aduzindo ofensa ao Estado Democrático de Direito e aos princípios da segurança jurídica e da legalidade.
+Esclarece que é servidora pública estadual e o presente caso versa sobre cumprimento de sentença individual, no qual se pretende a execução de título executivo decorrente de ação coletiva movida por sindicato em face da Administração Pública e do Instituto de Previdência do Estado.
+Diz que o prazo prescricional da pretensão executiva contra a Fazenda Pública é de cinco anos e que o verbete 150 da Súmula do Supremo Tribunal Federal "demonstra que após o trânsito em julgado da fase de conhecimento renasce o prazo quinquenal de prescrição para ajuizamento da execução, como bem decidido pelo magistrado a quo" (e-STJ fl. 164).
+Afirma que a pretensão executiva do título em lide não estaria prescrita e pondera que nas execuções de servidores contra a Fazenda Pública há duas fases, sendo que a primeira diz respeito à obrigação de fazer, que consiste no apostilamento dos títulos nos prontuários dos servidores, e a segunda referente à obrigação de pagar, não sendo possível "iniciar a obrigação de pagar se ainda não há o apostilamento do título, tendo em vista que os cálculos devem ser realizados adotando-se como termo inicial a data correspondente ao lustro anterior ao ajuizamento da demanda e, como termo final, o apostilamento, sem o qual o torna-se inexequível" (e-STJ fl. 165).
+Destaca que, "tendo em vista o apostilamento promovido em 14 agosto de 2018, o prazo prescricional para o ajuizamento da obrigação de pagar começa a contar a partir da obrigação de fazer, logo, o início da obrigação de pagar se deu a partir de tal data" (e-STJ fl. 165).
+Defende que não incidiria à espécie o entendimento fixado por esta Corte no REsp n. 1.340.444/RS, "haja vista que a hipótese do recurso repetitivo girou em torno da necessidade da sentença transitada em julgado condicionar a execução da obrigação de pagar ao encerramento da obrigação de fazer" (e-STJ fl. 166).
+Assevera que preenche os requisitos para a aplicação dos efeitos moduladores do Tema 880 do STJ e argumenta que o prazo prescricional de cinco anos para propositura da execução ou cumprimento de sentença "conta-se a partir de 30/06/2017, sendo assim o termo final para a propositura do presente cumprimento é junho de 2022" (e-STJ fl. 170), restando configurado o seu direito de buscar o recebimento de seu crédito.
+Requera admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (e-STJ fl. 197).
+É o relatório.
+Nos termos do art.102, inciso III, alínea "a", da Constituição Federal, compete ao Supremo Tribunal Federal o julgamento, mediante recurso extraordinário, das causas decididas em única ou última instância.
+No caso dos autos, verifica-se que o recurso extraordinário foi interposto em face de decisão monocrática proferida por integrante deste Superior Tribunal de Justiça, contra a qual seria cabível agravo interno.
+Dessa forma, ante a ausência de exaurimento das vias recursais nesta instância especial, deve ser aplicado o enunciado n. 281 da Súmulado Supremo Tribunal Federal, in verbis:
+É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.
+No mesmo sentido:
+Agravo regimental no recurso extraordinário com agravo. Não esgotamento das instâncias ordinárias. Súmula nº 281/STF. Precedentes. 1. Incide no caso a Súmula nº 281 do Supremo Tribunal Federal, pois o recurso extraordinário foi interposto contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+(ARE 1246783 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 08/06/2020, PROCESSO ELETRÔNICO DJe-169 DIVULG 03-07-2020 PUBLIC 06-07-2020)
+Com igual orientação:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS RECURSAIS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 281/STF. AGRAVO A QUE SE NEGA PROVIMENTO. I - Consoante a Súmula 281 do Supremo Tribunal Federal, é inadmissível o recurso extraordinário quando couber na Justiça de origem recurso ordinário da decisão impugnada. II - Agravo regimental a que se nega provimento.
+(ARE 1265496 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 29/05/2020, PROCESSO ELETRÔNICO DJe-138 DIVULG 03-06-2020 PUBLIC 04-06-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DE INSTÂNCIA. INCIDÊNCIA DO VERBETE N. 281 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
