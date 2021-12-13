@@ -1,0 +1,65 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO AGRAVO DE INSTRUMENTO No 1014167-90.2021.8.11.0000
+RECORRENTE (s): BANCO DO BRASIL S.A.
+RECORRIDO (s): DARCIRO BERNARDO DIEHL
+Vistos.
+Trata-se de recurso especial interposto pelo BANCO DO BRASIL S.A. com fundamento no artigo 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado que, por unanimidade, desproveu o recurso, nos termos da seguinte ementa (id. 104812955):
+“AGRAVO DE INSTRUMENTO – LIQUIDAÇÃO DE SENTENÇA COLETIVA – SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA - IMPUGNAÇÃO – ILEGITIMADADE ATIVA AFASTADA – DESNECESSIDADE DE CHAMAMENTO DA UNIÃO E BACEN – CREDOR QUE PODE OPTAR EM PROPOR A AÇÃO SOMENTE EM FACE DO BANCO - DECISÃO MANTIDA – RECURSO DESPROVIDO.
+Na hipótese, o Agravado é parte legítima para figurar no polo ativo, eis que consta na Cédula Pignoratícia objeto da lide a sua assinatura, de modo que não há falar em ilegitimidade ativa.
+Desnecessário o chamamento ao processo da União e Bacen, tendo em vista a falta de interesse desses se o Autor optou para propor a ação apenas em face do Banco do Brasil.
+O Superior Tribunal de Justiça consolidou o entendimento de que se o Autor optou pela propositura da liquidação e execução exclusivamente contra o Banco do Brasil, cuja natureza jurídica é de sociedade de economia mista, fica afastada a competência da Justiça Federal”. (TJMT – Segunda Câmara de Direito Privado – RAC n. 1014167-90.2021.8.11.0000, Relator (a): CLARICE CLAUDINO DA SILVA, j. em 06/10/2021).
+A parte recorrente alega violação aos artigos 43, 130, III, e 516, II, do Código Processo Civil; artigos 93 e 98, § 2o, do Código de Defesa do Consumidor, além de divergência jurisprudencial, ao argumento de que: (a) deve ocorrer o chamamento ao processo - litisconsórcio passivo necessário (União e Bacen), tendo em vista a responsabilidade legal de todos os requeridos e (b) é da Justiça Federal a competência para julgar o presente feito.
+Recurso tempestivo (id. 107831970).
+Contrarrazões (id. 110028979).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+No caso, a parte recorrente alega que: (a) deve ocorrer o chamamento ao processo - litisconsórcio passivo necessário (União e Bacen), tendo em vista a responsabilidade legal de todos os requeridos e (b) é da Justiça Federal a competência para julgar o presente feito.
+No acórdão impugnado ficou consignado que:
+“(...) Desnecessário o chamamento ao processo da União e Bacen, tendo em vista a falta de interesse desses se o Autor optou para propor a ação apenas em face do Banco do Brasil.
+O Superior Tribunal de Justiça consolidou o entendimento de que se o Autor optou pela propositura da liquidação e execução exclusivamente contra o Banco do Brasil, cuja natureza jurídica é de sociedade de economia mista, fica afastada a competência da Justiça Federal”. (id. 104812955)
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai da ementa do julgado abaixo:
+“DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. IMPUGNAÇÃO À FASE DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA RURAL. EXPURGOS INFLACIONÁRIOS. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte tem decidido reiteradamente não se justificar o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide, sendo, pois, competente a Justiça Estadual para o julgamento da demanda, quando figura como parte apenas o Banco do Brasil com instituição financeira que celebrou a avença com a parte.
+2. Reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. É possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União.
+3. Agravo interno não provido”. (AgInt no AREsp 1309643/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe 02/05/2019). (g.n.)
+“AGRAVO EM RECURSO ESPECIAL No 1958222 - RS (2021/0247120-9) DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S.A. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. CONSTITUCIONAL. AÇÃOCIVIL PÚBLICA No 94.008514-1. CÉDULA RURAL PIGNORATÍCIA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. LEGITIMIDADE PASSIVA BANCO DO BRASIL. MP 2.196-3/2001. SOLIDARIEDADE ENTRE OSDEVEDORES. LITISCONSÓRCIO PASSIVO NECESSÁRIO. DESNECESSIDADE. CHAMAMENTO AO PROCESSO. IMPOSSIBILIDADE NA FASE EXECUTIVA. EXECUÇÃO DIRECIONADAAPENAS CONTRA O BANCO DO BRASIL. COMPETÊNCIA. ART. 109,I. CF/88. SÚMULAS 508 E 556 DO STF. PRECEDENTES DO STJ.
+1. (...).
+(...) DECIDO.
+A irresignação não merece prosperar.
+(...) De fato, a instância ordinária consignou, ao analisar a controvérsia, o seguinte:
+"Embora tenha sido reconhecida, na ação civil pública originária, a solidariedade entre o Banco do Brasil, União e Banco Central, não há necessidade de formação de litisconsórcio passivo necessário para buscar a cobrança dos valores devidos com fundamento no título judicial (art. 275 do CC e precedentes desta Corte).
+Logo, mesmo sendo o caso de solidariedade entre os devedores, porém estando o credor autorizado contra quem deseja direcionar a execução, pois afastada a exigência de formação do litisconsórcio passivo necessário, e tendo optando por ajuizar apenas em face do Banco do Brasil, sociedade de economia mista, não há fundamento, à luz do disposto no art. 109, I, da CF/88, que justifique a atração da demanda para a Justiça Federal. Por outro lado, ainda que se busque apoio no art. 516, inc. II, do CPC/2015, tal dispositivo legal não pode constituir fundamento para superar o comando de natureza constitucional, este aplicável somente aos casos expressamente nele previstos, ou seja, quando houver o interesse dos entes lá elencados.
+A jurisprudência do STJ é assente no sentido da impossibilidade de chamamento ao processo na fase de execução (cumprimento) de sentença, e, ainda que fosse possível, não poderia ser admitido em face da inexistência de identidade de ritos. Ou seja, enquanto a União e o BACEN estão submetidos ao regime de precatório, o Banco do Brasil segue o regime de execução comum. Na mesma direção do comando constitucional, o STF editou a Súmula no 508 (Compete à Justiça Estadual, em ambas as instâncias, processar e julgar as causas em que for parte o Banco do Brasil S. A.), cuja leitura, em conjunto com a Súmula 556 do mesmo Tribunal (É competente a Justiça Comum para julgar as causas em que é parte sociedade de economia mista)" (fls. 107/108, e-STJ). Não reparos, portanto, a fazer no acórdão recorrido, porquanto está em sintonia com a orientação desta Corte.
+(...) AgInt no AREsp 1.309.643/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/4/2019, DJe 2/5/2019).
+Cita-se, também, o REsp no 1.837.628/RS, Relator Ministro Ricardo Villas Bôas Cueva, DJe de 28/5/2020. Incide, na espécie, a Súmula no 568/STJ. Ante o exposto, conheço do agravo para negar provimento ao recurso especial. Deixo de majorar os honorários recursais nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, considerando que o acórdão recorrido é proveniente de julgamento de agravo de instrumento sem o arbitramento de honorários advocatícios”. (AGRAVO EM RECURSO ESPECIAL No 1958222 – RS, Ministro RICARDO VILLAS BÔAS CUEVA Relato, (Ministro RICARDO VILLAS BÔAS CUEVA, 08/10/2021). (g.n)
+“(...) AGRAVO EM RECURSO ESPECIAL No 1936434 - RS (2021/0214598-1) DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 10, 130, 131, 516, II, 1.022 e 1.025 do Código de Processo Civil, 93 e 98, caput, e § 2°, I, do Código de Defesa do Consumidor, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fls. 143/144):
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. BANCO DO BRASIL. AÇÃO CIVIL PÚBLICA No 94.008514-1. CÉDULA DE CRÉDITO RURAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. AJUIZAMENTO EXCLUSIVAMENTE CONTRA O BANCO DO BRASIL. COMPETÊNCIA. CONFIRMAÇÃO DA DECISÃO MONOCRÁTICA QUE AFIRMOU A INCOMPETÊNCIA DA JUSTIÇA FEDERAL.
+(...) O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Quanto à competência e à pretensão de chamamento da União e do Banco Central, esta Corte tem decidido que é mesmo da Justiça estadual quando a parte opta por ajuizar a execução apenas contra a instituição financeira, sem que haja demonstração de interesse de algum ente constante do art. 109, I, da Constituição Federal. A propósito, confira-se:
+“(...) Registro, ademais, que, na hipótese de devedores solidários - como sucede no caso vertente -, não se configura o litisconsórcio passivo necessário, podendo a parte credora exigir o pagamento (do débito) de qualquer dos devedores. Nesse sentido, cito o seguinte precedente:
+(...) III - Não se trata de litisconsórcio passivo necessário, podendo a parte intentar a demanda contra qualquer um dos entes federativos (solidariamente passivos) para responder pela totalidade da dívida; a faculdade do autor-credor de litigar com qualquer um dos co-obrigados é decorrência legítima da solidariedade passiva.
+IV – (...). VI - O recurso especial, interposto pela alínea a e/ou pela alínea c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula 83/STJ.
+VII – (...). VIII - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida. IV - Agravo Interno improvido. (AgInt no REsp 1.617.502/PI, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 27.6.2017, DJe de 2.8.2017) Em face do exposto, nego provimento ao agravo.Intimem-se.Brasília, 01 de outubro de 2021. (AREsp 1936434, MARIA ISABEL GALLOTTI, Relatora, Publicado 08/10/2021). (g.n)
+Desse modo, deve ser aplicado o referido verbete sumular para as alíneas “a” e “c”, do artigo 105, III, da CF, quanto à suposta afronta aos artigos 43, 130, III, e 516, II, do CPC e artigos 93 e 98, § 2o, do CDC, visto que o entendimento exposto no acórdão recorrido se encontra em sintonia com a orientação sedimentada no STJ.
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO MONITÓRIA. PROCESSO INCLUÍDO EM PAUTA E NÃO JULGADO NA DATA PREVISTA. DESNECESSIDADE DE NOVA INCLUSÃO DO FEITO EM PAUTA. JULGAMENTO DO FEITO EM PRAZO RAZOÁVEL.INCIDÊNCIA DA SÚMULA 83/STJ. APLICAÇÃO A AMBAS AS ALÍNEAS DO ART.105, III, DA CONSTITUIÇÃO FEDERAL. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. (...).
+2. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+3. A Súmula 83 do STJ é aplicável aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do inciso III do art.105 da Constituição Federal.
+4. Agravo interno a que se nega provimento”. (AgInt no REsp 1858976/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/12/2020, DJe 11/12/2020). (g.n.)
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
