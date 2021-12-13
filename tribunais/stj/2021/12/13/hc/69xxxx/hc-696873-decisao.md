@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado(fl. 77):
+RECURSO EM SENTIDO ESTRITO. Artigos 33, caput, da Lei 11.343/06 e 14, da Lei 10.826/03. Decisão que revogou a prisão preventiva. RECURSO DO MINISTÉRIO PÚBLICO. Reforma da decisão, com a decretação da prisão preventiva. Garantia da ordem pública e conveniência da instrução criminal.
+Hipótese de crimes graves, considerando a grande quantidade e a natureza da droga apreendida e agente reincidente. O atual quadro pandêmico não se constitui em fundamentação idônea para a concessão, em massa, de liberdade provisória. O Recorrido trazia consigo considerável quantidade de cocaína, qual seja: "200 Unidade(s) Cocaína (pó) (Outros) Observação: ostentando etiqueta de papel com imagem de um rosto masculino e inscrição "PORRADA NA CARA CV R$30,00 FGB", além de portar arma de fogo com munição, evidenciando a necessidade de proteção à ordem pública.
+RECURSO PROVIDO.
+Consta dos autosque o paciente, presoem flagrante pela prática do delito previsto no art. 33, caput, da Lei 11.343/06, teve a prisão preventiva revogada pelo Juízo de primeiro grau. Desta decisão,o Ministério Público interpôs recurso em sentido estrito, ao qual se deu provimento para decretar a prisão preventiva dopaciente.
+No presente mandamus, sustenta a defesa que opaciente sofre constrangimento ilegal, em síntese, pois ausentes quaisquer das hipóteses do art. 312 do CPP.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente.
+A liminar foi indeferida. Prestadas as informações, o Ministério Público Federal se manifestou pela denegação da ordem.
+No tocante à prisão preventiva, a decisão do Tribunal de origem que a decretou foi assim fundamentada (fls. 16-17):
+Em que pese a decisão recorrida ter sido fundamentada no fato de os crimes pelos quais o Recorrido foi denunciado terem sido praticados sem grave ameaça ou violência, não se justificando a prisão, ainda, em razão da pandemia, o fato é que, ainda persistem dados concretos para manutenção da custódia cautelar.
+ ..
+Como se vê, o atual quadro pandêmico não se constitui em fundamentação idônea para a concessão, em massa, de liberdade provisória.
+Ademais, como se observa dos autos, o Recorrido trazia consigo considerável quantidade de cocaína, qual seja: "200 Unidade(s) Cocaína (pó) (Outros) Observação: ostentando etiqueta de papel com imagem de um rosto masculino e inscrição "PORRADA NA CARA CV R$30,00 FGB" (Doc. 000022), bem como portava uma arma de fogo municiada (Doc. 000022).
+Ressalte-se que, o Recorrido ostenta em sua Folha de Antecedentes Criminais, duas condenações com trânsito em julgado, pelo crime de tráfico ilícito de drogas, evidenciando a necessidade de proteção à ordem pública e garantia da aplicação da lei penal (Doc. 000036).
+Portanto, o restabelecimento da prisão cautelar mostra-se necessário e urgente, vez que presentes os requisitos legais do artigo 312, do Código de Processo Penal.
+Ante o exposto, voto pelo PROVIMENTO DO RECURSO, para decretar a prisão preventiva de Leonardo dos Santos da Silva.
+Como se vê, consta da decisão de prisão fundamento que se considera válido, evidenciado na natureza e quantidade apreendida de entorpecente- 200 unidades de cocaína -, o porte deuma arma de fogo municiada, além de ser o paciente reincidente, ostentando em "em sua Folha de Antecedentes Criminais, duas condenações com trânsito em julgado, pelo crime de tráfico ilícito de drogas".
+É entendimento nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade das drogas apreendidas. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Ademais, esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
