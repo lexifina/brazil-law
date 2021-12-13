@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por ANNA MARIA RODRIGUES em face de decisão monocrática da lavra da Presidência desta Corte Superior que não conheceu do agravo em recurso especial.
+O aludido apelo extremo, fundado na alínea "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul assim ementado:
+" APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - CONTRATO DE EMPRÉSTIMO CONSIGNADO - COMPROVAÇÃO DA CELEBRAÇÃO DO CONTRATO DE EMPRÉSTIMO CONSIGNADO - DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO - POSSIBILIDADE - INEXISTÊNCIA DE ATO ILÍCITO - DANO MORAL NÃO CARACTERIZADO - LITIGÂNCIA DE MÁ-FÉ POSSIBILIDADE - RECURSO DESPROVIDO. In casu, conclui-se que a instituição bancária não cometeu qualquer ilicitude ao realizar o desconto no benefício previdenciário da apelante para fins de quitação das parcelas do contrato regularmente celebrado entre as partes, ou seja, o banco comprovou, nos termos do art. 373, II, do CPC, que houve a regular contratação e a disponibilização do valor mutuado na conta da autora, motivo pelo qual deve ser mantida a sentença que julgou pela improcedência dos pedidos iniciais. Tendo a parte apelante realmente recebido os valores contratados, deduz-se que há nítida distorção dos fatos com o objetivo de enriquecimento, postura essa que se enquadra no inciso II do artigo 80 do Código de Processo Civil, a ensejar condenação em multa por litigância de má-fé".
+___ .
+Opostos embargos de declaração, esses foram rejeitados.
+Nas razões do especial, a parte recorrente sustenta violação aos arts. 489 e 1022 do Código de Processo Civil de 2015, defendendo, genericamente, que a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional;
+Aduz violação do art. 373, II, do CPC, do art. 14, §3º, do CDC e do art. 6º da Lei n. 10.820/03, sustentando, em síntese, que competia à instituição financeira recorrida comprovar a regularidade da contratação e o recebimento do crédito do empréstimo concedido na conta em que a parte recorrente recebia benefício previdenciário.
+Aponta vulneração dos arts. 79, 80 e 373 do CPC/15, ao argumento de inexistência de dolo ou culpa grave que pudessem caracterizar a litigância de má-fé.
+Indica, ainda, divergência jurisprudencial.
+O Tribunal local negou seguimento ao recurso especial (fls. 502-505, e-STJ), o que ensejou o manejo do agravo (fls. 507-518, e-STJ), que não foi conhecido ante a aplicação, por analogia, da Súmula 182/STJ pela Presidência desta Corte Superior (fls. 534-536, e-STJ).
+No presente agravo interno, a agravante sustenta ter impugnado especificamente os fundamentos da decisão de inadmissibilidade do reclamo, razão pela qual defende o conhecimento ao agravo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. CONTRATO DE EMPRÉSTIMO CONSIGNADO. RELAÇÃO JURÍDICA DEMONSTRADA E VÁLIDA. DISPONIBILIZAÇÃO DO PRODUTO DO MÚTUO. AUSÊNCIA DE VÍCIO DE CONSENTIMENTO. LITIGÂNCIA DE MÁ-FÉ. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. A alegação de afronta ao artigo ao artigo 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+3. A modificação das conclusões a que chegou o Tribunal a quo, quanto à existência de prova da contratação do empréstimo, de distorção dos fatos com intuito de enriquecimento e de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 desta Corte.
+4. A incidência do referido óbice impede o conhecimento do recurso lastreado na alínea "c" do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática. Precedentes.
+5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Cuida-se de agravo interno interposto contra decisão da Presidência do STJ (fls. 534-536, e-STJ) que não conheceu do agravo nos próprios autos, por falta de impugnação de fundamento da decisão do Tribunal de origem que inadmitiu o recurso especial.
+No entanto, o agravo nos próprios autos refutou adequadamente a monocrática que negou seguimento ao especial.
+Desse modo, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo ao exame do especial.
+3. Inicialmente, não se pode conhecer da apontada violação aos arts. 489 e 1.022 do CPC/15, pois as alegações que a fundamentaram são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais tenha incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+A propósito: AgInt no AREsp 1352510/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018 e AgInt no AREsp 1702142/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/12/2020, DJe 16/12/2020.
+4. Melhor sorte não ampara a alegada violação do art. 373, II, do CPC, do art. 14, §3º, do CDC e do art. 6º da Lei n. 10.820/03.
+Sobre a questão da comprovação da contratação do empréstimo, o Tribunal de origem expressamente assentou:
+"No caso vertente, embora a apelante alegue que o contrato seja fraudulento, na fls. 154/173 encontram-se as provas de que esta contratou o empréstimo, visto que o contrato possui sua assinatura de seus documentos pessoais . Então, por não haver nenhuma alegação nos autos de que esses documentos seriam falsos, ou teriam se extraviado, por certo a apelante os apresentou no momento da contratação. Também restou comprovado a disponibilização do valor contratado conforme extrato de sua conta corrente de fl. 153, onde consta transferência eletrônica disponibilizada à recorrente. Ademais cabia à apelante desconstituir as provas apresentadas pelo lo banco, ou seja, incumbia à autora apresentar o extrato sua conta para eventualmente desconstituir o TED, o que não o fez, simplesmente alegando de forma genérica que nada recebeu, sem comprovar o não recebimento do TED. Portanto, conclui-se que a instituição bancária não cometeu qualquer ilicitude ao realizar o desconto na aposentadoria da apelante, para fins de quitação das parcelas do contrato regularmente celebrado entre as partes, ou seja, o banco comprovou, nos termos do art. 373, II, do CPC, que houve a regular contratação e a disponibilização do valor mutuado na conta do apelante.
+ ..
+Ressalta-se que, a simples condição de aposentada não é suficiente para macular a validade de um negócio quando se verifica que a apelante subscreveu de forma livre e consciente os termos do contrato redigidos de modo claro e preciso.À vista do exposto, considerando a contratação válida, não há falarem declaração de inexistência de débito, devolução em dobro dos descontos efetuado se, muito menos, em indenização por danos morais".
+___ .
+Dessa forma, a modificação das conclusões a que chegou o Tribunal a quo, quanto à existência de prova da regularidade da contratação do empréstimo demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 desta Corte.
+5. Também não prospera a apontada ofensa aos arts. 79 e 80 do CPC/15. Nesse ponto, a parte alega a inexistência de dolo ou culpa grave que pudessem caracterizar a litigância de má-fé.
+Todavia, sobre o tema, a Corte estadual constatou o seguinte:
+"Ademais, o apelante insurge-se contra a sentença, especificamente,sobre a condenação ao pagamento de multa por litigância de má-fé, ao argumento de que não houve alteração dos fatos narrados pelo recorrente, razão pela qual a multa é descabida. Nas ações dessa espécie que julgava antes de ocupar cargo na Administração deste Soldalício não era comum a condenação em litigância de má-fé. Ocorre que o aumento do volume de ações despertou nos juízes a dúvida sobre a veracidade das contratações e, em trabalho conjunto com os demais órgãos da administração da justiça foi possível perceber que em alguns casos a contratação existiu e que há um esquema de fraude envolvendo consignação em benefícios do INSS. Diante desse cenário, analisando com mais acuidade o caso e concluindo que a parte apelante realmente recebeu os valores contratados, deduz-se quehá nítida distorção dos fatos com o objetivo de enriquecimento, postura essa que se enquadra no inciso II do artigo 80 do Código de Processo Civil  .. ".
+___ .
+Dessa forma, a modificação das conclusões a que chegou o Tribunal a quo, quanto à existência de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 desta Corte.
+A propósito:
+"PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃODE RESSARCIMENTO POR COMPRA DE GARAGEM COM METRAGEM INFERIOR À CONTRATADA. ABATIMENTO PROPORCIONAL DO PREÇO. PRAZO DECADENCIAL DE UM ANO. PRECEDENTES. CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO INTERPRETIVO PREJUDICADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A exclusão da multa por litigância de má-fé depende, na hipótese, da análise do conteúdo fático da demanda, providência que esbarra no óbice da Súmula nº 7 do STJ.
+(..)
+7. Agravo interno não provido." (AgInt no AREsp 1809808/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/05/2021, DJe 28/05/2021).
+___ .
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM  DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVADA.
+(..)
+3. A conclusão a que chegou o Tribunal de origem, relativa à inexistência de alteração da verdade dos fatos, com a consequente exclusão de multa por litigância de má-fé, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido." (AgInt no AREsp 1670656/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/06/2020, DJe 30/06/2020).
+___ .
+6. Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE DESPEJO. ALEGAÇÃO DE EXISTÊNCIA DE CONTRATO VERBAL DE LOCAÇÃO. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO IMPROVIDO. (..) 2. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. Precedentes. 3. Agravo regimental improvido." (AgRg no AREsp 834.644/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/03/2016, DJe 12/04/2016).
+___ .
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. SÚMULA 7 DO STJ. 1. Ação de indenização por danos materiais e morais. 2. O reexame de fatos e provas não é possível na via especial, devido ao óbice da Súmula 7 desta Corte. 3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. 4. Agravo interno no agravo em recurso especial não provido." (AgInt no AREsp 1423333/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 29/04/2019, DJe 02/05/2019).
+___ .
+7. Ante o exposto, RECONSIDERO a decisão da Presidência do STJ e, em novo exame, NEGO PROVIMENTO ao agravo em recurso especial.
+É o voto.
