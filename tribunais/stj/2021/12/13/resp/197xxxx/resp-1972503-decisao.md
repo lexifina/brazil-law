@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 172):
+APELAÇÃO. TAXA ASSOCIATIVA. Sentença que julgou improcedente a ação. Inconformismo da parte autora. A associação de moradores é constituída com a finalidade de rateio de serviços. O princípio de que "ninguém será compelido a associar-se ou a permanecer associado", não pode ser invocado a fim de se eximir da obrigação que anuiu, ainda que de forma tácita, devendo ser sempre sopesado com outros, tal como o da vedação do enriquecimento sem causa, ou ser ainda relativizado não podendo haver vantagem de um associado em detrimento dos demais. A obrigatoriedade de contribuição com a taxa de manutenção é "propter rem", ou seja, própria da coisa, assim como é no caso das contribuições com as despesas condominiais. Sentença reformada. Recurso provido.
+No recurso especial (e-STJ fls. 187/191), fundamentado no art. 105, III, "a" e "c", da CF, arecorrenteaponta, além de divergência jurisprudencial, ofensa ao art. 884 do CC/2002.
+Insurge-se quanto à taxa associativa afirmando que, "quando da aquisição do imóvel a Incorporadora (vendedora do imóvel), não foi clara, de que para adquirir o imóvel teria a ora Recorrente de se associar a uma Associação de forma compulsória"(e-STJ fl. 188).
+Sustenta que a "taxa associativa, diferentemente da taxa condominial, tem natureza pessoal, de modo que somente é possível a cobrança de quem a ela anuiu" (e-STJ fl. 190). Ressalta, ainda, "quetodos os serviços que a Recorrida diz prestar são de inteira responsabilidade do PODER PÚBLICO, não existindo outros benefícios prestados, além daqueles, que por conta dos tributos recolhidos são de responsabilidades do Poder Municipal e Estadual" (e-STJ fl. 189).
+Busca a reforma do acórdão recorrido para que seja restabelecida a sentença que julgou improcedente a pretensão da ação de cobrança.
+Não foram apresentadas contrarrazões (e-STJ fl. 193).
+O recurso foi admitido na origem, nos termos da decisão de fls. 194/196 (e-STJ).
+É o relatório.
+Decido.
+O Tribunal de origem consignou (e-STJ fls. 175/177):
+Na hipótese, a administração do condomínio tem o caráter de associação, com direitos e deveres estipulados, por livre e espontânea vontade, entre seus associados, para a consecução dos objetivos comuns.
+Assim, o princípio de que "ninguém será compelido a associar-se ou a permanecer associado", não pode ser invocado a fim de se eximir da obrigação que anuiu, ainda que de forma tácita, devendo ser sempre sopesado com outros, tal como o da vedação do enriquecimento sem causa, ou ser ainda relativizado não podendo haver vantagem de um associado em detrimento dos demais.
+Ad argumentandum tantum, consoante se depreende pelos elementos trazidos à colação, a ora apelante foi devidamente constituída e registrada, de modo que se impõe, obrigatoriamente, não só para os condôminos que tenham ou não participado da aprovação do estatuto, como também sobre qualquer ocupante da unidade.
+Não há como afastar, portanto, o fato de que a parte autora, ora apelada, se beneficia dos serviços prestados, pois é evidente que as melhorias implantadas nas áreas comuns do loteamento fechado, valorizaram seu imóvel, com o consequente aumento de seu valor de mercado.
+Importante obtemperar que a obrigatoriedade de contribuição com ataxa de manutenção é propter rem, ou seja, própria da coisa, assim como é no caso das contribuições com as despesas condominiais.
+As obrigações propter rem são prestações impostas ao titular de determinado direito real, pelo simples fato de assumir tal condição. Vale dizer, a pessoa do devedor será individualizada única e exclusivamente pela titularidade de um direito real. Está vinculada à titularidade do bem, sendo esta a razão pela qual será satisfeita determinada prestação positiva ou negativa, impondo-se sua assunção a todos os que sucedam ao titular na posição transmitida. A obrigação nasce com o direito real e com ele se extingue.
+(..)
+Destarte, não pode, o proprietário do imóvel se furtar do pagamento das taxas de manutenção, sob a alegação de não associação, uma vez que não se trata de uma obrigação assumida com a associação, mas sim de uma obrigação como proprietário do imóvel.
+(..)
+Nas palavras da Ministra Nancy Andrighi no AgRg no Recurso Especial nº 490.419-SP (2003/0007665-8), j. em 10.6.03 pela 3ª Turma: "O proprietário de lote integrante de loteamento aberto ou fechado, sem condomínio formalmente instituído, cujos moradores constituíram sociedade para prestação de serviços de conservação, limpeza e manutenção, deve contribuir com o valor correspondente ao rateiodas despesas daí decorrentes, pois não se afigura justo nem jurídico que se beneficie dos serviços prestados e das benfeitorias realizadas sem a devida contraprestação. Precedentes".
+Das razões do recurso especial, observa-se que arecorrente limitou-se a argumentar que não sabia, ao comprar o lote, que deveria ser obrigada a se associar.
+Trouxe argumentação deque todos os serviços prestadossão de inteira responsabilidade do poder público.Deixando de impugnar diretamente o fundamento do julgado de que a taxa associativa em questão advém de uma obrigação como proprietário do imóvele de que a recorrente também se beneficia dos serviços prestados dentro do loteamento fechado (e-STJ fls. 175/177).
+Assim, não impugnadofundamento suficiente à manutenção das conclusões do acórdão recorrido, incide o óbice da Súmula n. 283/STF.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
