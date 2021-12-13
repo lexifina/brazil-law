@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recursoespecialinterpostocontra acórdão que rejeitou embargos de declaração a acórdão que negou provimento ao apelo defensivo, assim ementado:
+EMBARGOS DE DECLARAÇÃO. ANALISANDO OS EMBARGOS OPOSTOS, ENTENDO QUE ESTES DEVAM SER REJEITADOS, PORQUE NA INTELIGÊNCIA DO ART. 619, DO CÓDIGO DE PROCESSO PENAL, AOS ACÓRDÃOS PROFERIDOS PELOS TRIBUNAIS DE APELAÇÃO, CÂMARAS OU TURMAS, PODERÃO SER OPOSTOS EMBARGOS DE DECLARAÇÃO, NO PRAZO DE 02 (DOIS) DIAS CONTADOS DA PUBLICAÇÃO QUANDO HOUVER URNA SENTENÇA AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO.EMBARGOS CONHECIDO E REJEITADOS.
+Alega o recorrente violação do art. 155, caput, do CPP, ao argumento de que indevida a incidência da majorante do emprego de arma, "em razão de ausência de provas produzidas em contraditório judicial" (fl. 414), bem como do art. 619 do CPP.
+Requer o provimento dorecurso, com vistas ao afastamento das majorantes do emprego de arma e do concurso de agentes, desclassificando-se o delito para roubo simples.
+Contrarrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo não conhecimento dorecurso.
+De início, não se constata a alegada omissão da Corte de origem, porquanto presentes no acórdão recorrido fundamentos suficientes à análise da questão de fundo, ora suscitada, consubstanciada na tese de ofensa ao art. 155 do CPP.
+Ressalte-se que não está o magistrado obrigado a rebater, pormenorizadamente, todas as questões trazidas pelas partes, configurando-se a negativa de prestação jurisdicional somente nos casos em que o Tribunal de origem deixa de emitir posicionamento acerca de matéria essencial, o que não ocorreu na presente hipótese. Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. EVASÃO DE DIVISAS. INÉPCIA DA DENÚNCIA E PROVA PERICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. CÓPIA INTEGRAL DO PROCESSO DO QUAL FORAM EXTRAÍDAS PROVAS EMPRESTADAS. DESNECESSIDADE. COMPARTILHAMENTO DE DADOS SIGILOSOS. INSTITUIÇÕES DE CONTROLE. POSSIBILIDADE. RESPONSABILIDADE OBJETIVA. NÃO OCORRÊNCIA. CONDUTA DEVIDAMENTE INDIVIDUALIZADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO PROCEDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. O simples fato de não se refutarem expressamente todos os argumentos expostos pela defesa, de per si, não significa ausência de prestação jurisdicional quando a motivação apresentada possibilita aferir as razões pelas quais se acolheram ou rejeitaram as pretensões deduzidas.
+6. Agravo regimental não provido (AgRg no REsp 1322125/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/10/2018, DJe 08/11/2018).
+Sobre a questão, o Tribunal de origem asseverou que (fl. 374):
+A existência (materialidade) dos fatos, resta demonstrada por me Policial, autos de prisão em flagrante, fotos e pelo conjunto da prova testemunhal colhida em sede policial e judicial.
+Uma vez comprovada a materialidade, cumpre passar ao exame da autoria delitiva.
+O réu, em juízo, nega a prática delitiva, contudo, da prova judicializada vê-se a comprovação da autoria delitiva na pessoa do réu. O art. 157 do CP criminaliza a conduta de subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência à pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência.
+No caso em tela, demonstraram as provas colhidas nos autos que os réus em comunhão de esforços, subtraíram para si coisa móvel alheia pertencentes à vítima, utilizando- se, para tanto, de grave ameaça praticada.
+É, igualmente, inequívoco, consoante acima demonstrado, que o crime foi praticado em concurso de duas ou mais pessoas, situação prevista no art. 157, do CP. Ao mesmo tempo, vale ressaltar que a ameaça foi exercida com o emprego de violência física e psicológica, o que provoca a incidência da causa de aumento de pena prevista no citado dispositivo legal.
+Neste contexto, não havendo causas excludentes de ilicitude e culpabilidade a se reconhecer, é medida que se impõe a condenação do réu em face do cometimento do crime previsto no art. 157, do código penal brasileiro.
+Com efeito, ao que consta do acórdão recorrido,não se verifica a alegada ofensa ao art. 155 do CP, na medida em que baseada a condenação nas provas colhidas nas fases inquisitorial e judicial, inexistindo ilegalidade a ser sanada na via do especial. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. QUESTÃO ENFRENTADA NO ACÓRDÃO RECORRIDO. ÓBICES DAS SÚMULAS 282 E 356/STF. AFASTAMENTO. VIOLAÇÃO DO ART. 155 DO CPP. NÃO OCORRÊNCIA. TESE DE INSUFICIÊNCIA DE PROVAS QUANTO À INCIDÊNCIA DA MAJORANTE DO CONCURSO DE PESSOAS. SÚMULA 7/STJ. AGRAVO PROVIDO EM PARTE PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Afasta-se a incidência das Súmulas 282/STF e 356/STF, quando possível inferir o exame da questão no acórdão recorrido.
+2. Não há falar em violação do art. 155 do CPP se o Tribunal de origem, soberano na análise das provas dos autos, concluiu que teria sido devidamente comprovada a incidência da majorante do concurso de agentes, por meio de provas colhidas tanto na fase investigatória quanto judicialmente, sob o crivo do contraditório.
+3. Uma vez assentado pelo Tribunal de origem que as provas demonstram que o terceiro participou de forma decisiva e eficaz para a consumação do crime, a pretendida revisão do julgado, com vistas ao afastamento da majorante, importaria em reexame de fatos e provas, o que não se admite a teor do óbice da Súmula 7/STJ.
+4. Agravo regimental provido em parte para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AgRg no AREsp 1708503/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/12/2020, DJe 07/12/2020)
+Por outro lado, embora o recorrente pugne pelo afastamento de ambas as majorantes, efetivamente apenas apresenta fundamentação no que diz respeito à majorante do emprego de arma, o que atrai a incidência da Súmula 284/STF.
+De qualquer sorte, considerando os fundamentos recursais atinentes ao afastamento da causa de aumento relativa ao emprego de arma, ainda que procedente, não teria o condão de reduzir a pena aplicada, na medida em que fixado o aumento na terceira fase, por ambas as majorantes, no mínimo legal.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
