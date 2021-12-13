@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de embargos dedeclaraçãoopostos pelaUniãodesafiando acórdãoprolatado pelaPrimeiraTurma, assim ementado (fl. 1.380):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TERRENO DE MARINHA. NULIDADE DO PROCESSO DEMARCATÓRIO.PRESCRIÇÃO. TERMO A QUO. QUESTÃO NÃO ANALISADA PELA CORTE DE ORIGEM. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CONFIGURADA.
+1. O Tribunal de origem, não obstante instado a se manifestar acerca da data em que a parte teve ciência da condição do imóvel como terreno de marinha, para fins de cômputo do lapso prescricional, quedou silente sobre tal argumentação, rejeitando os pertinentes aclaratórios, incorrendo em franca violação ao art. 535, II, do CPC/73, porquanto não prestada a jurisdição de forma integral.
+2. Agravo interno não provido.
+Irresignada, a parte embargante alega que o acórdão embargado teria incorrido em omissão. Antes de apontar o mencionado vício, afirma que "o agravo interno interposto pela União foi desprovido com base nas mesmas razões de decidir exaradas na decisão agravada" (fl. 1.392). Aduz, ainda, que "a devolução dos autos ao Tribunal de origem é, a nosso ver, completamente infrutífera, pois o prazo prescricional não se renova no momento da aquisição do imóvel" (fl. 1.393). Por fim, argumenta que "há efetiva omissão na decisão agravada, que deixou de se pronunciar sobre questão processual que impede o Tribunal de origem de se pronunciar sobre alegação que não devolvida ao seu conhecimento, restando, dessa forma, preclusa" (fl. 1.393).
+O recurso foi impugnado às fl. 1.395/1.401.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveisembargos de declaração nas hipóteses de obscuridade, contradição, omissãoou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão,pois o acórdão embargado enfrentou e decidiu, de maneira integral e comfundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto dealegadas omissões no julgado combatido, traduzem, na verdade, oinconformismo da parte com a decisão tomada, buscando rediscutir o quedecidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator):Não prospera a irresignaçãodaparte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada. Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado, no aresto hostilizado, que ocorreu negativa de prestação jurisdicional quando o Tribunal Regional deixou de analisar a tese jurídica que defende comotermo inicial do prazo prescricional a data da ciência inequívoca do ocupante da demarcação do imóvel como terreno de marinha, o que pode ocorrer, por exemplo, a partir da válida intimação do antigo ocupante do imóvel acerca do procedimento demarcatório, ou da primeiranotificaçãopara pagamento da taxa de ocupação. Daí a imprescindível necessidade de retorno dos autos à Corte de origem.
+A propósito, confira-se o seguinte trecho do acórdão embargado (fls. 1.382/1.385):
+Com efeito, conforme constou do decisum singular, a parte autora, nas razões dos embargos de declaração e do recurso especial, alegou que o Tribunal a quo não se manifestou acerca do termo inicial do prazo prescricional, isto é, sobre a data em que teria ocorrido sua efetiva ciência quanto à condição do imóvel como terreno de marinha.
+Note-se que, conforme jurisprudência deste Sodalício, seguindo o princípio da actio nata, a pretensão de anulação do procedimento demarcatório tem início a partir do momento em que a parte toma ciência de que a área em questão se refere a terreno de marinha.
+ ..
+Contudo, o Tribunal de origem, não obstante instado a se pronunciar, quedou silente sobre tal argumentação, rejeitando os pertinentes aclaratórios aviados pela parte, incorrendo em franca violação ao art. 535, II, do CPC/73, porquanto não prestada a jurisdição de forma integral.
+Nesse vértice, confiram-se:
+AGRAVO REGIMENTAL. PROCESSO CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL CARACTERIZADA. OFENSA AO ART. 458 DO CPC CONFIGURADA.
+1 - O Tribunal de origem, mesmo instado em sede de embargos declaratórios, omitiu-se sobre o exame de questão oportunamente suscitada e relevante para o deslinde da controvérsia.
+2 - Precedentes.
+3 - Agravo regimental improvido.
+(AgRg no AREsp 148.524/PI, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/12/2015, DJe 3/2/2016)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. ADESÃO AO PROGRAMA DE PARCELAMENTO INSTITUÍDO PELA LEI 17.082/2012, DO ESTADO DO PARANÁ. HONORÁRIOS ADVOCATÍCIOS. OMISSÃO CONFIGURADA. TRIBUNAL QUE DEIXA DE SE MANIFESTAR SOBRE AS ALEGAÇÕES DO RECORRENTE, NOTADAMENTE EM RELAÇÃO AO FATO DE O ACORDO FISCAL CONTEMPLAR HONORÁRIOS ADVOCATÍCIOS NO IMPORTE DE 1% DO VALOR DO DÉBITO. PROVIMENTO DO APELO NOBRE PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO.AGRAVO INTERNO DO ESTADO DO PARANÁ A QUE SE NEGA PROVIMENTO.
+1. Apresentados Embargos de Declaração, solicitando expressamente a manifestação do Colegiado sobre fato superveniente à propositura da ação, atinente à adesão do Contribuinte ao programa de parcelamento da dívida tributária previsto na Lei 17.082/2012, do Estado do Paraná, que dispõe sobre a verba honorária da Fazenda Pública do Estado do Paraná no montante de 1% sobre o valor atualizado destes débitos, cabia ao Tribunal de origem analisá-lo. Entretanto, não tendo o Tribunal sequer feito referência a essas alegações, de fato, houve negativa de prestação jurisdicional, o que resulta na necessidade de anulação da decisão.
+2. Assim, pelo fato de ter o acórdão recorrido deixado de analisar relevante fundamento para a solução da controvérsia, inviabilizando o conhecimento do Apelo Especial por ausência de prequestionamento, e tendo a parte recorrente alegado negativa de prestação jurisdicional, merece prosperar o Recurso Especial para anular o acórdão proferido nos Embargos de Declaração, determinando o retorno dos autos ao Tribunal Paranaense, para que analise as questões omissas.
+3. Agravo Interno do Estado do Paraná a que se nega provimento.
+(AgInt no REsp 1.387.673/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/2/2018, DJe 7/3/2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. DECADÊNCIA TRIBUTÁRIA. ALEGATIVA DE EXISTÊNCIA DE DOCUMENTOS QUE COMPROVAM PAGAMENTO PARCIAL A ATRAIR A INCIDÊNCIA DO ART.150, § 4º, DO CTN. QUESTÃO JURÍDICA RELEVANTE. ACÓRDÃO RECORRIDO. OMISSÃO. NULIDADE.
+1. A respeito da controvérsia ora em debate, o Superior Tribunal de Justiça firmou compreensão de que a decadência tributária, na hipótese de pagamento parcial do tributo sujeito a lançamento por homologação, tem início com a ocorrência do fato gerador. Precedentes: AgRg no AREsp 706.556/MG, Rel.Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, julgado em 19/4/2016, DJe 27/4/2016; AgRg no AREsp 132.784/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 15/3/2016, DJe 1º/4/2016).
+2. Na espécie, assiste razão à parte recorrente no ponto em que sustenta violação do art. 535, II, do CPC, pois uma análise detida das decisões
+proferidas pelo Tribunal de origem, em cotejo com os recursos do contribuinte, revela que houve omissão no acórdão recorrido quanto à alegativa de que há informações constantes dos autos que seriam relevantes ao deslinde da controvérsia, notadamente aquelas que comprovariam a existência de pagamento parcial do tributo a atrair a orientação jurisprudencial pacificada no STJ no sentido de que a decadência tributária, nessas hipóteses, tem início com a ocorrência do fato gerador, e não a partir do primeiro dia do exercício seguinte.
+3. Não havendo o Tribunal a quo se pronunciado a respeito dessas alegativas, caracteriza-se afronta ao art. 535 do CPC, impondo-se a anulação da decisão proferida nos embargos, a fim de que outra seja proferida com apreciação da questão.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1.633.154/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 5/12/2017)
+Nesse contexto, a decisão agravada merece subsistir.
+Assim, não podem ser acolhidos embargos declaratórios que, a pretexto da alegada omissão do acórdão embargado, traduzem, na verdade, oinconformismo da parte embargante com a decisão tomada, pretendendorediscutir o que já foi decidido. Nesse panorama, inexistente qualqueromissão no julgado embargado, conforme exige o art. 1.022 do CPC/2015,impõe-se a rejeição dos presentes embargos de declaração. A propósito,destacam-se os seguintes julgados:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIAEMAGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOSNÃOCONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissãoou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qualeranecessáriamanifestação, mas apenas a discordância da parte com asolução apresentadano julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordonomesmo julgado, gerando ilogicidade ao texto. Mas desse problema nãoseressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um porcento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS,Rel. Ministro OG FERNANDES, PRIMEIRASEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+Por derradeiro, cumpre ressaltar que o acórdão que julgou o agravo interno, ao manter os fundamentos da decisão agravada, incluiu remansosa jurisprudência deste Tribunal Superior, acerca da necessidade de se anular julgamento realizado em sede de aclaratórios quando o Tribunal a quo, embora devidamente instado para tanto, deixa de analisar relevante fundamento para o deslinde da controvérsia.
+Nesse contexto, revela-se absolutamente equivocado conceber que o acórdão ora atacado teria se limitadoa reproduzir a decisão agravada.
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
