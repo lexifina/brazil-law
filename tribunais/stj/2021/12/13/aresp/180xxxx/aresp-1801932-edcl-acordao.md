@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Marli da Conceição Nejo opõe embargos de declaração contra acórdão assim ementado (fl. 541):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INTEMPESTIVIDADE DO RECURSO. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR EM AGRAVO INTERNO. IMPOSSIBILIDADE PARA RECURSOS INTERPOSTOS A PARTIR DA VIGÊNCIA DO CPC/2015. PRECEDENTES.
+1. Nos termos do vigente Código de Processo Civil (Lei nº 13.105/2015), não é cabível a comprovação posterior de feriado local, o qual deve ser demonstrado no ato da interposição do recurso (art. 1.003, § 6º). Precedentes.
+2. A modulação de efeitos implementada pela Corte Especial no REsp 1.813.684/SP é restrita ao feriado de segunda feira de Carnaval, e tão-somente para os casos anteriores à publicação do acórdão do referido precedente, ocorrida no DJe de 18.11.2019, não valendo para os demais feriados.
+3. A Corte Especial, no julgamento do AREsp 1.481.810/SP, reafirmou sua orientação no sentido de que a modulação de efeitos relativa ao feriado de segunda feira de Carnaval não deve ser estendida aos demais feriados locais, valendo a regra geral instituída pelo Código de Processo Civil quanto à necessidade de comprovação da tempestividade no ato de interposição do recurso.
+4. Agravo interno a que se nega provimento.
+Alega a embargante que "o recurso especial não foi protocolado no prazo em função de impossibilidade técnica do próprio Tribunal de origem o que só foi apurado posteriormente ao evento não podendo, data venia a parte ser responsabilizada por algo que não deu causa" (fl. 554).
+Afirma que não se tratou de feriado local, e sim de impossibilidade técnica do sistema que foi detectada quando terminou o prazo para a interposição do recurso, motivo pelo qual a embargante não pôde comprovar o ocorrido no ato da interposição do recurso.
+Argumenta, por outro lado, que as assinaturas constantes dos contratos celebrados com o banco não são da embargante.
+A parte embargada apresentou impugnação às fls. 561/563.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE. OMISSÃO. CONTRADIÇÃO. ERRO MATERIAL. INEXISTÊNCIA.
+1. Os embargos de declaração somente se prestam a sanar obscuridade, omissão ou contradição e erro material porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O recurso não prospera.
+Inicialmente, não verifico no acórdão ora embargado os vícios previstos no art. 1.022, I, II e III, do Código de Processo Civil, quais sejam, omissão, obscuridade, contradição ou erro material.
+Com efeito, conforme destacado no acórdão recorrido, no sistema implementado pelo Código de Processo Civil vigente não mais é possível a comprovação posterior de feriado local, devendo ser comprovada a existência do feriado já no ato de interposição do próprio recurso (nesse sentido: Aglnt nos EDcl no AREsp 1221383/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 31/8/2020, DJe 4/9/2020; Aglnt no REsp 1849541/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 31/8/2020, DJe 3/9/2020; Aglnt no AREsp 1604436/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/8/2020, DJe 27/8/2020).
+Além disso, ressalto que não se aplica à espécie a modulação de efeitos adotada pela Corte Especial no julgamento do REsp 1.813.684/SP, uma vez que ficou expressamente determinado, em questão de ordem, que tal modulação seria restrita tão somente ao feriado de segunda-feira de Carnaval e para os casos anteriores à publicação do acórdão do referido precedente, não valendo para os demais feriados. Confira-se a ementa do referido julgado:
+QUESTÃO DE ORDEM. CONTRADIÇÃO ENTRE NOTAS TAQUIGRÁFICAS E VOTO ELABORADO PELO RELATOR PARA ACÓRDÃO. PREVALÊNCIA DAS NOTAS TAQUIGRÁFICAS, QUE REFLETEM A MANIFESTAÇÃO DO COLEGIADO. SESSÕES DE JULGAMENTO DO RESP 1.813.684/SP. LIMITAÇÃO DO DEBATE E DA DELIBERAÇÃO À POSSIBILIDADE DE COMPROVAÇÃO POSTERIOR ACERCA DO FERIADO DE SEGUNDA-FEIRA DE CARNAVAL, DIANTE DAS PECULIARIDADES QUE MODIFICARIAM A SUA NATUREZA JURÍDICA. VOTO DO RELATOR PARA ACÓRDÃO QUE ABRANGE MAIS DO QUE A MATÉRIA DECIDIDA COLEGIADAMENTE, ESTENDENDO O REFERIDO ENTENDIMENTO TAMBÉM AOS DEMAIS FERIADOS. REDUÇÃO DA ABRANGÊNCIA EM QUESTÃO DE ORDEM. POSSIBILIDADE.
+1 - O propósito da presente questão de ordem é definir, diante da contradição entre as notas taquigráficas e o acórdão publicado no DJe de 18/11/2019, se a modulação de efeitos deliberada na sessão de julgamento do recurso especial, ocasião em que se permitiu a posterior comprovação da tempestividade de recursos dirigidos a esta Corte, abrange especificamente o feriado da segunda-feira de carnaval ou se diz respeito a todos e quaisquer feriados.
+2 - Havendo contradição entre as notas taquigráficas e o voto elaborado pelo relator, deverão prevalecer as notas, pois refletem a convicção manifestada pelo órgão colegiado que apreciou a controvérsia. Precedentes.
+3 - Consoante revelam as notas taquigráficas, os debates estabelecidos no âmbito da Corte Especial, bem como a sua respectiva deliberação colegiada nas sessões de julgamento realizadas em 21/08/2019 e 02/10/2019, limitaram-se exclusivamente à possibilidade, ou não, de comprovação posterior do feriado da segunda-feira de carnaval, motivada por circunstâncias excepcionais que modificariam a sua natureza jurídica de feriado local para feriado nacional notório.
+4 - Tendo o relator interpretado que a tese firmada por ocasião do julgamento colegiado do recurso especial também permitiria a comprovação posterior de todo e qualquer feriado, é admissível, em questão de ordem, reduzir a abrangência do acórdão.
+5 - Questão de ordem resolvida no sentido de reconhecer que a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita ao feriado de segunda-feira de carnaval e não se aplica aos demais feriados, inclusive aos feriados locais.
+(QO no REsp 1.813.684/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 3.2.2020, DJe de 28.2.2020)
+Tal posicionamento foi reafirmado quando do julgamento do Aglnt no AREsp 1.481.810/SP, em que se reiterou o entendimento no sentido de que a modulação de efeitos relativa ao feriado de segunda-feira de Carnaval não deve ser estendida aos demais feriados locais, valendo a regra geral instituída pelo Código de Processo Civil, no sentido de necessidade de comprovação no ato de interposição do recurso.
+Dessa forma, considerando não se tratar da hipótese ressalvada na modulação de efeitos e não tendo havido comprovação do feriado local no ato da interposição do recurso, improsperável a pretensão, devendo ser prestigiada e mantida a decisão da Presidência desta Corte Superior.
+Em face do exposto, rejeito os embargos de declaração.
+É como voto.
