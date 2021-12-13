@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+PREVIDENCIARIO E CONSTITUCIONAL. PENSÃO POR MORTE RURAL. SOLDADO. DA , BORRACHA. ART. 54 DO ADCT. LEI 7.986/1999. ESPOSA. DEPENDÊNCIA ECONÔMICA PRESUMIDA. PREENCHIMENTO DOS REQUISITOS LEGAIS. SENTENÇA MANTIDA.
+1. Para que os dependentes do segurado tenham direito à percepção do benefíciode pensão por morte, perfaz-se necessária a presença de alguns requisitos à sua concessão, quais sejam: a) o óbito do segurado; b) a qualidade de dependente; e c) a dependência econômica, que pode ser presumida ou comprovada (art. 16, § 4º, da Lei 8.213/91).
+2. Segundo a orientação jurisprudencial do Superior Tribunal de Justiça e desta Corte, deve-se aplicar, para a concessão de beneficio de pensão por morte, a legislação vigente ao tempo do , óbito do instituidor (AgRg no REsp 778.012/MG, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 20/10/2009, DJe 09/11/2009 e AC 2006.38.00.027290-4/MG, Rel. Desembargador Federal Francisco De Assis Betti, Segunda Turma,e-15JF1 p.225 de 29/10/2009).
+3. In casu, o instituidor(a)da pensão faleceu na vigência da Lei n. 8.213/91. 4. O art. 54, do Ato das Disposições Constitucionais Transitórias, regulamentado pela 7.986/1989, prevê a concessão de pensão vitalícia ao seringueiro carente que trabalhou na produção de borracha por ocasião da Segunda Guerra Mundial.
+5. Inexiste restrição à cumulação da pensão especial de seringueiro, prevista no art. 54 do ADCT, com qualquer benefício previdenciário, por Isso que a Portaria 4.630/90, do MPAS, estabelecendo proibição à tal cumulação, padece de ,ilegalidade, porquanto desbordou do seu poder regulamentar. Precedentes do STJ.
+6. Na hipótese, houve a apresentação da certidão de óbito, ocorrido em 7/10/2005 (fls. 17) e a certidão de casamento, onde consta a autora como seu consorte (fls. 18), reputando-se presumida a dependência econômica, a teor do art. 16, 1, § 4º, da Lei n. 8.213/91.
+7. O início razoável de prova material, representado pelos documentos catalogados à inaugural, corroborado por prova testemunhal Idônea e inequívoca, comprova a condição de segurado especial do Instituidor da pensão.
+8. O termo inicial deve ser fixado a partir do requerimento administrativo, e, na sua ausência, a partir da citação, conforme definição a respeito do tema em decisão proferida pelo. e. STJ, em sede de recurso representativo de controvérsia (REsp 1369165/SP), respeitados os limites do pedido Inicial e da pretensão recursal, sob pena de violação ao princípio da non reformatio In pejus.
+9. Os honorários advocaticios devem ser fixados em 10% das prestações vencidas até a prolação da sentença de procedência, ou do acórdão que reforma o comando de improcedência da pretensão vestibular, sendo devida, a parcela mesmo nos feitos em que não houve prévia postulação administrativa.
+10. A correção e juros de mora devem observar o MCJF.
+11. Apelação do INSS desprovida e remessa oficial, tida por interposta, parcialmente provida quanto aos ajustes dos consectários legais.
+Os embargos declaratórios opostos pelo recorrente foram rejeitados.
+Em razões de recurso especial manejado com fundamento na alínea "a" do permissivo constitucional, o recorrente alega violação ao artigo 1022, I,II e parágrafo único, do CPC/2015.
+Argumenta que "postulou-se nos Embargos de Declaração desta autarquia previdenciária que fosse sanada OBSCURIDADE no julgado referente à espécie de benefício concedido nestes autos à parte autora. Isto porque a Turma Julgadora do TRF1 ora dá a entender, no acórdão da Apelação, ser devido à parte autora a PENSÃO POR MORTE RURAL prevista no art. 74 e seguintes da Lei n.8.213/91, ora dá a entender ser devido à demandante a PENSÃO MENSAL VITALÍCIA prevista no art. 54 do ADCT c/c a Lei n.7.986, de 1989".
+Assevera que " é de rigor que seja esclarecida qual a espécie de benefício deferida nestes autos, a PENSÃO POR MORTE RURAL prevista na Lei n.8.213/91 ou a PENSÃO ESPECIAL VITALÍCIA prevista no art. 54 do ADCT c/c a Lei 7.986, de 1989".
+O prazo para apresentação de contrarrazões transcorreu in albis.
+É o relatório.
+Decido.
+Inicialmente cumpre dizer que recai ao presente recurso o Enunciado Administrativo 3/STJ.
+Reconhece-se a existência da indigitada violação do artigo 1022 do CPC/2015, uma vez que o acórdão de origem não se pronunciou acerca de teses desenvolvidas nos embargos de declaração, qual seja, de que "seja esclarecida qual a espécie de benefício deferida nestes autos, a Pensão por Morte Rural prevista na Lei n.8.213/91 ou a Pensão Especial Vitalícia prevista no art. 54 do ADCT c/c a Lei n.7.986, de 1989".
+A jurisprudência deste Superior Tribunal de Justiça é assente no sentido de que a existência de um dos vícios descritos no artigo 1022 do CPC/2015 enseja a devolução do feito à origem para a completa análise dos pedidos da parte e integração do julgado.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO. OFENSA AOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. CONFIGURAÇÃO. RETORNO DOS AUTOS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Configurada a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tem-se correto o parcial provimento do recurso especial interposto pela agravada em virtude da necessidade de que o tribunal de origem se manifeste acerca das questões suscitadas nos embargos de declaração ante a relevância da omissão apontada.
+3. Agravo interno não provido. (AgInt no AgInt no REsp 1829014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 27/04/2020)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, e na Súmula 568/STJ, dou provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração do INSS.
+Publique-se Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADOADMINISTRATIVO N. 3/STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OCORRÊNCIA. OMISSÃO CARACTERIZADA. NULIDADE DO ACÓRDÃO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. RECURSO ESPECIAL PROVIDO.
