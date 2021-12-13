@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra a decisão, complementada pela de fls. 314-318, que deu provimento ao Recurso Especial de Mariza Gomes da Silva (fls. 296-298, e-STJ).
+Sustenta o Agravante, em síntese (fl. 331, e-STJ):
+No caso, conforme a própria decisão, a renda mensal do segurado recluso era superior ao limite estabelecido pela legislação previdenciária da época, não havendo direito ao benefício pleiteado. Assim, com o advento da Lei nº 13.846/2019, que atualizou a Lei nº 8.213/91, bem como do Decreto nº 10.410/2020, que atualizou o regulamento da previdência social (Decreto 3.048/99), os critérios para a concessão de auxílio- reclusão foram atualizados, razão pela qual mostra-se descabida a persistência dessa jurisprudência no sentido da possibilidade de flexibilização do critério econômico para o deferimento do benefício em tela, mormente porque o valor legalmente previsto será constantemente atualizado.
+Argumenta (fl. 332, e-STJ):
+A reconsideração, pelo e. Ministro Relator, da r. decisão prolatada, em consonância com o artigo 1.021, §2º do CPC, seja para retomar o procedimento de julgamento do presente REsp como representativo de controvérsia, conforme originalmente delineado por esse eg. STJ ou, no mérito, desprover o REsp, conforme acima fundamentado.
+Por fim, requer o provimento do recurso - para que seja reformada a decisão impugnada - ou, alternativamente, o pronunciamento do colegiado.
+Impugnação às fls. 337-339, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUXÍLIO-RECLUSÃO. FLEXIBILIZAÇÃO DO CRITÉRIO ECONÔMICO ABSOLUTO PREVISTO NA LEGISLAÇÃO PREVIDENCIÁRIA, AINDA QUE O SALÁRIO DE CONTRIBUIÇÃO DO SEGURADO SUPERE O VALOR LEGALMENTE FIXADO COMO CRITÉRIO DE BAIXA RENDA. POSSIBILIDADE. PREVALÊNCIA DA FINALIDADE DE PROTEÇÃO SOCIAL DA PREVIDÊNCIA SOCIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+1. Inicialmente, como consignado na decisão agravada, "em 9/4/2021, o Ministro Paulo de Tarso Sanseverino, Presidente da Comissão Gestora de Precedentes - Portaria STJ 299/2017 -, cancelou a afetação do presente recurso como representativo da controvérsia" (fl. 314, e-STJ).
+2. Quanto ao pedido de concessão do auxílio-reclusão, a jurisprudência do STJ admite a flexibilização do critério econômico para a concessão do auxílio-reclusão, notadamente quando a diferença entre a remuneração do preso e o teto legal for ínfimo, como ocorre no presente caso.
+3. Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos nesse Gabinete em 27.10.2021.
+Inicialmente, como consignado na decisão agravada, "em 9/4/2021, o Ministro Paulo de Tarso Sanseverino, Presidente da Comissão Gestora de Precedentes - Portaria STJ 299/2017 -, cancelou a afetação do presente recurso como representativo da controvérsia" (fl. 314, e-STJ).
+Quanto ao pedido de concessão do auxílio-reclusão, a jurisprudência do STJ admite a flexibilização do critério econômico para a concessão do auxílio-reclusão, notadamente quando a diferença entre a remuneração do preso e o teto legal for ínfimo, como ocorre no presente caso.
+Nesse sentido:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUXÍLIO-RECLUSÃO. FLEXIBILIZAÇÃO DO CRITÉRIO ECONÔMICO ABSOLUTO PREVISTO NA LEGISLAÇÃO PREVIDENCIÁRIA, AINDA QUE O SALÁRIO DE CONTRIBUIÇÃO DO SEGURADO SUPERE O VALOR LEGALMENTE FIXADO COMO CRITÉRIO DE BAIXA RENDA. POSSIBILIDADE. PREVALÊNCIA DA FINALIDADE DE PROTEÇÃO SOCIAL DA PREVIDÊNCIA SOCIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. AGRAVO INTERNO CONTRA DECISÃO FUNDAMENTADA NAS SÚMULAS 83 E 568/STJ (PRECEDENTE JULGADO SOB O RITO DOS RECURSOS REPETITIVOS). MANIFESTA IMPROCEDÊNCIA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É possível a flexibilização do critério econômico definidor da condição de baixa renda, para efeito de concessão do auxílio-reclusão, quando na análise do caso concreto restar demonstrado a necessidade de proteção social dos dependentes do segurado recluso.
+III - In casu, o salário-de-contribuição do segurado recluso ultrapassou em valor ínfimo o limite normativo para o período - somente R$ 2,69 (dois reais e sessenta e nove centavos) - o que autoriza a flexibilização do critério de renda do instituidor do benefício.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Honorários recursais. Cabimento.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta improcedência do recurso a autorizar sua aplicação.
+VII - Considera-se manifestamente improcedente e enseja a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 nos casos em que o Agravo Interno foi interposto contra decisão fundamentada em precedente julgado sob o rito dos Recursos Repetitivos (Súmulas ns. 83 e 568/STJ).
+VIII - Agravo Interno improvido, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(AgInt nos EDcl no REsp 1.741.600/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 4/4/2019)
+PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. QUALIDADE DE SEGURADO. DEPENDÊNCIA ECONÔMICA. FLEXIBILIZAÇÃO DO CRITÉRIO ECONÔMICO. PROTEÇÃO SOCIAL DOS DEPENDENTES DO SEGURADO. POSSIBILIDADE. JURISPRUDÊNCIA DO STJ.
+1. Hipótese em que o Tribunal de origem concluiu: "nos termos da IN 77/2015, para ter direito ao beneficio, a renda mensal do(a) detento(a) deveria ser inferior a R$ 1.025,81, à época da prisão (art. 13 da EC 20/98). O recluso estava empregado quando do encarceramento. Mantinha vínculo com a empresa CEI Comércio e Instalações Elétricas desde 16/06/2014, registro de salário em CTPS de R$ 1.067,00. A remuneração constante do sistema CNIS é parcial, de R$ 533,50. Assim, deve ser utilizada a renda constante da CTPS. Mesmo se verificada a última remuneração integral, relativa ao vínculo anterior (03/03/2014 a 28/05/2014, empresa Sullivan Stefani), o limite estaria extrapolado, já que a remuneração foi de R$ 1.111,32 em abril/2014. Ultrapassado o limite legal para o recebimento do beneficio, em qualquer das hipóteses acima, com o que o beneficio não pode ser concedido" (fl. 133, e-STJ).
+2. A jurisprudência do STJ assentou que os requisitos para a concessão do benefício devem ser verificados no momento do recolhimento à prisão, em observância ao princípio tempus regit actum. A questão foi pacificada após o julgamento do REsp 1.485.416/SP, submetido à sistemática dos Recursos Especiais Repetitivos.
+3. O Superior Tribunal de Justiça entende ser cabível a flexibilização do critério econômico para deferimento do beneficio de auxílio-reclusão, ainda que o salário de contribuição do segurado supere o valor legalmente fixado como critério de baixa renda, quando for necessária a proteção social dos dependentes do segurado, como no caso dos autos. No mesmo sentido: AREsp 589.121/SP, Relatora Ministra Assusete Magalhães, DJe 28/4/2015; REsp 1.694.029/SP, Rel. Min. Mauro Campbell Marques, DJe de 12/9/2017; REsp 1.754.722/PR, Rel. Ministro Mauro Campbell Marques, DJe 24/8/2018; REsp 1.742.998/RS, Min. Sérgio Kukina, 13/06/2018; REsp 1.656.708/SP, Min. Mauro Campbell Marques, 7/4/2017; AREsp 585.428/SP, Min. Regina Helena Costa, 17/9/2015; AREsp 590.864/SP, Min. Sérgio Kukina, 14/8/2015.
+3. Recurso Especial provido.
+(REsp 1.759.338/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 04/2/2019)
+Assim, em que pese às alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+Ante o exposto, nego provimento ao Agravo.
+É como voto.
