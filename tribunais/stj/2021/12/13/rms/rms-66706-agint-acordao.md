@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão de fls. 280-284, e-STJ, que negou provimento ao Recurso Ordinário da parte ora agravante, sob o fundamento de ser incabível a extensão aos inativos de gratificação propter laborem.
+O agravante sustenta, em suma (fl. 292, e-STJ):
+Inobstante os fundamentos adotados, de fato, tenham o condão de conduzir à conclusão exarada na r. decisão agravada, pretende o Agravante, nas razões deste recurso, demonstrar que tais, com a devida venia, não se fazem presentes no caso a envolver o pagamento da "bonificação por desempenho" devida aos servidores ativos ocupantes do cargo de Auditor Fiscal da Receita Estadual no Estado do Espírito Santo, eis que, ao contrário do que ficou decidido, é no entender do Agravante, verba paga a todos os servidores em atividade de forma linear, no mesmo valor e data (basta a sua adesão ao programa de otimização da receita), e ainda em caráter permanente (não eventual, mesmo que paga semestralmente, a depender da performance arrecadatória prevista em lei), razão pela qual está a merecer reforma a r. decisão agravada.
+Requer a reconsideração da decisão agravada ou provimento, pelo colegiado, do Agravo Interno.
+Impugnação ao Agravo apresentada às fls. 304-310, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. GRATIFICAÇÃO NÃO CONCEDIDA EM CARÁTER GERAL. PRO LABORE FACIENDO. PAGAMENTO AOS INATIVOS E PENSIONISTAS NOS MESMOS MOLDES DOS SERVIDORES DA ATIVA. INADMISSIBILIDADE.
+1. Cuida-se de inconformismo do agravante que visa estender a Gratificação por Desempenho instituída pela Lei Estadual 10.824/2018 aos Auditores Fiscais da Receita Estadual inativos.
+2. Destacam-se os fundamentos utilizados pelo acórdão recorrido (fl. 197, e-STJ): "É dizer: somente as gratificações ou vantagens concedidas aos servidores da ativa com características de generalidade e impessoalidade é que se estendem aos inativos, o que não ocorre, conforme vimos até aqui, com a bonificação reclamada pelo Sindicato impetrada, por ser paga apenas transitoriamente e em decorrência do exercício do cargo, após aderir ao Programa de Garantia e Otimização da Receita Tributária. Em tom conclusivo, entendo não haver ilegalidade a ser afastada pela via mandamental, na medida em que as autoridades impetradas limitaram-se ao escorreito cumprimento do que dispõe a Lei Estadual no 10.824/2018, que expressamente veda, repito, o pagamento da Bonificação por Desempenho aos Auditores Fiscais da Receita Estadual inativos, ocupantes de mandatos de qualquer natureza, bem como aos cedidos a outros órgãos pertencentes à administração direta e indireta para atividades dentro ou fora do Poder Executivo Estadual e para exercício de mandato eletivo. Ante o exposto, por serem desnecessárias outras considerações, denego a segurança".
+3. No caso do autos, a gratificação não foi aplicada em caráter geral, dependendo do preenchimento de diversos requisitos, os quais não foram demonstrados pelo recorrente.
+4. O STF e o STJ já se manifestaram pela inexistência de mácula no tratamento diferenciado entre ativos e inativos, em relação à vantagem propter laborem ou pro labore faciendo, razão pela qual se mostra possível a implementação de gratificação que estabeleça valores diferenciados para servidores em atividade e para os aposentados e pensionistas, não havendo inconstitucionalidade na quebra da paridade em tais casos.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 3.11.2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignei no decisum, o agravante visa estender a Gratificação por Desempenho instituída pela Lei Estadual 10.824/2018 aos Auditores Fiscais da Receita Estadual inativos.
+Sobre o tema, destaco os fundamentos utilizados pelo acórdão recorrido (fl. 197, e-STJ):
+É dizer: somente as gratificações ou vantagens concedidas aos servidores da ativa com características de generalidade e impessoalidade é que se estendem aos inativos, o que não ocorre, conforme vimos até aqui, com a bonificação reclamada pelo Sindicato impetrada, por ser paga apenas transitoriamente e em decorrência do exercício do cargo, após aderir ao Programa de Garantia e Otimização da Receita Tributária.
+Em tom conclusivo, entendo não haver ilegalidade a ser afastada pela via mandamental, na medida em que as autoridades impetradas limitaram-se ao escorreito cumprimento do que dispõe a Lei Estadual no 10.824/2018, que expressamente veda, repito, o pagamento da Bonificação por Desempenho aos Auditores Fiscais da Receita Estadual inativos, ocupantes de mandatos de qualquer natureza, bem como aos cedidos a outros órgãos pertencentes à administração direta e indireta para atividades dentro ou fora do Poder Executivo Estadual e para exercício de mandato eletivo.
+Ante o exposto, por serem desnecessárias outras considerações, denego a segurança.
+No caso do autos, a Corte a quo consignou que a gratificação não foi aplicada em caráter geral, dependendo do preenchimento de diversos requisitos, os quais não foram demonstrados pelo recorrente.
+Anote-se que o Supremo Tribunal Federal já se manifestou pela inexistência de mácula no tratamento diferenciado entre ativos e inativos, em relação à vantagem propter laborem ou pro labore faciendo, razão pela qual se mostra possível a implementação de gratificação que estabeleça valores diferenciados para servidores em atividade e para os aposentados e pensionistas, não havendo inconstitucionalidade na quebra da paridade em tais casos.
+Ao contrário do que alega o agravante, não há nos autos elementos para definir que a gratificação é concedida em caráter geral.
+Confira-se a orientação do STJ:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO. CARÁTER PROPTER LABOREM. INATIVO. EXTENSÃO. IMPOSSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL.
+1. Este Tribunal firmou entendimento no sentido de que apenas as vantagens de caráter geral podem ser estendidas aos inativos, com fundamento no artigo 40, § 8º, da Constituição do Brasil.
+2. A análise da natureza jurídica da parcela discutida - se vantagem pessoal ou geral - depende do exame da legislação infraconstitucional que disciplina a espécie. Agravo regimental a que se nega provimento.
+(AgR 536002/RJ, Segunda Turma, Rel. Min. Eros Grau, DJe de 14.03.2008).
+PROCESSUAL CIVIL. ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO N. 3/STJ. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DE FUNÇÃO ESPECIAL NATUREZA PROPTER LABOREM. EXTENSÃO AOS INATIVOS. IMPOSSIBILIDADE. GRATIFICAÇÃO NÃO CONCEDIDA EM CARÁTER GERAL. INCORPORAÇÃO AOS PROVENTOS DOS INATIVOS. IMPOSSIBILIDADE. PRECEDENTES DESTA CORTE. PRECEDENTE DA CORTE SUPREMA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Da leitura do acórdão recorrido, verifica-se que a gratificação não foi concedida em caráter geral. Ainda, foi concedida apenas como retribuição de prestação de serviço efetivo e concreto, ou seja, tem aspecto proptem laborem. Entendimento desta Corte, firmado no sentido de que a gratificação em análise possui natureza pro labore faciendo, o que inviabiliza sua extensão aos servidores inativos e pensionistas. Entendimento do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+(AgInt nos EDcl no RMS 55.451/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/04/2018)
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. EXTENSÃO DA GDPGPE AOS INATIVOS. IMPOSSIBILIDADE. REGULAMENTAÇÃO GERAL. DECRETO N. 7.133/2010. AVALIAÇÃO COM EFEITO FINANCEIRO RETROATIVO POR FORÇA DA PRÓPRIA LEI. NATUREZA PRO LABORE FACIENDO.
+1. A jurisprudência do STJ já se consolidou no sentido da impossibilidade de extensão a inativos de vantagens de natureza propter laborem devidas aos servidores, em razão de trabalho a ser realizado.
+2. "O Superior Tribunal de Justiça já entendeu que é incogitável, no caso da GDPGPE, pagamento linear, e que, consequentemente, não subsiste base legal para equiparação entre ativos e inativos.  ..  A GDGPE é devida no patamar de 80% de seu valor máximo até a regulamentação da matéria e implementação dos efeitos da primeira avaliação de desempenho dos servidores, que retroagem a 1º de janeiro de 2009, de forma que não há falar em caráter de generalidade da gratificação em período posterior" (EDcl no AREsp 429.853/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/3/2014, DJe 27/3/2014).
+Agravo regimental improvido.
+(AgRg no AREsp 580.543/SE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 28/10/2014)
+ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE JURÍDICA - GDAJ. NATUREZA PROPTER LABOREM. EXTENSÃO AOS INATIVOS. IMPOSSIBILIDADE.
+1. Segundo jurisprudência firmada do STJ, a Gratificação de Desempenho de Atividade Jurídica - GDAJ possui natureza propter laborem, inviabilizando sua extensão aos servidores inativos e pensionistas, com base no art. 40, § 8º, da CF/1988.
+2. Agravo regimental não provido.
+(AgRg no REsp 1209509/ES, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 22/04/2013).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
