@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PIONEIRA SANEAMENTO E LIMPEZA URBANA LTDA em face de decisão proferida pelo Tribunal de Justiça do Estado de São Pauloque inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 905e-STJ):
+IMPROBIDADE ADMINISTRATIVA PRELIMINAR DE CERCEAMENTO DE DEFESA Inocorrência Provas dos autos suficientes para convencer o juízo Produção de prova pericial não justificável na espécie PRESCRIÇÃO Inocorrência de prescrição da pretensão do Ministério Público Prazo quinquenal de cinco anos que deve ser contado a partir do fim do último mandato do Chefe do Executivo Municipal Entendimento pacífico do E. STJ Prática de conduta ímproba descrita no art. 11, inciso I, da Lei de Improbidade Administrativa Violação do princípio da legalidade Dispensa injustificada de licitação Conduta dolosa que reside na consciência inequívoca da ilegalidade da contratação direta no caso concreto Sentença mantida Recursos não providos.
+Houve a oposição de embargos de embargos de declaração, os quais foram rejeitados nos seguintes termos (fl. 972 e-STJ):
+EMBARGOS DE DECLARAÇÃO  Recurso com nítido caráter infringente  Pretensão da embargante à reforma do acórdão, sob a alegação de omissão  Vício inexistente  Mera discordância com o julgado  Embargos rejeitados.
+No recurso especial, interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, o recorrente apontou violação aos seguintes dispositivos: a) arts. 489 e 1.022 do CPC/2015, sustentando que o Tribunal de origem não se manifestou sobre temas relevantes ao julgamento do feito; b) arts. 355, I, 370 e 464, § 1º, do CPC/2015, suscitando que houve cerceamento de defesa diante do julgamento antecipado da lide; c) art. 23, I, da Lei 8.429/92, apontando que a pretensão recursal está prescrita; d) art. 11 da Lei 8.429/92, eis que não estão presentes os pressupostos necessários à caracterização do ato ímprobo.
+O Ministério Público do Estado de São Paulo apresentou contrarrazões às fls. 1188/1222 e-STJ.
+O recurso especial não foi admitido pelo Tribunal de origem à consideração de que: a) não há falar em negativa de prestação jurisdicional na hipótese; b) a pretensão recursal demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado a teor da Súmula 7/STJ.
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+O Ministério Público do Estado de São Paulo apresentou contraminuta às fls. 1402/1437 e-STJ.
+É o relatório. Passo a decidir.
+Faz-se necessário consignar que os presentes recursos atraem a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, considerando o preenchimento dos requisitos de admissibilidade do agravo e as peculiaridades do caso concreto, o agravo deve ser provido para que seja realizada a sua reautuação como recurso especial.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. IMPUGNAÇÃO DOS TERMOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. AGRAVO CONHECIDO PARA REAUTUAÇÃO EM RECURSO ESPECIAL.
