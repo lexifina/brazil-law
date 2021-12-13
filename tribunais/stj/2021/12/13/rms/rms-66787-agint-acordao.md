@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Walfrido Rodrigues em face de decisão proferida pela Presidência desta Corte não conhecendo de recurso em mandado de segurança ao fundamento de que não foi ele "devida e oportunamente preparado", incidindo o disposto na Súmula n. 187 do STJ, levando à deserção do recurso.
+Nas razões do agravo interno, a parte recorrente alega que "a publicação para sanar o vício contrariou o expresso no art. 1.007, §7º, do CPC, na medida que sequer subsistia dúvida razoável acerca do recolhimento de custas, pois (i) era o único recurso cabível; (ii) a guia indicava o número dos autos e o nome das partes; (iii) o valor da guia era superior, sequer existindo montante a ser complementado".
+Aduz, ainda, que "não suficiente, observou-se que a publicação do prazo para sanar o vício ocorreu, ainda, em contrariedade 269, §2º, e 270, ambos do CPC, na medida em que não foi juntado cópia da decisão/despacho/certidão ou qualquer outro documento comprovando a abertura de prazo e sobre o que versava, tão somente que os autos "encontravam-se com vistas para as partes".
+Contraminuta ao agravo interno às fls. 558/560.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO EM MANDADO DE SEGURANÇA. PREPARO. GUIA DE RECOLHIMENTO. ERRO NO PREENCHIMENTO. CLASSE DO RECURSO. DESERÇÃO. SÚMULA 187 DO STJ.
+1. O entendimento do Superior Tribunal de Justiça firmou-se no sentido de considerar deserto o recurso especial interposto com o comprovante do preparo, mas sem o correto preenchimento das guias de recolhimento, inclusive, quanto à indicação da classe do recurso.
+2. A parte agravante, regularmente intimada para juntar aos autos a guia de recolhimento e o comprovante de pagamento, quedou-se inerte.
+3. Incide à espécie, por analogia, o enunciado da Súmula 187 do STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos".
+4. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Eis os fundamentos da decisão agravada:
+Cuida-se de recurso em mandado de segurança, interposto com base no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por WALFRIDO RODRIGUES, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Verificou-se que o recolhimento das custas judiciais foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, porquanto no momento do preenchimento do formulário eletrônico a parte indicou erroneamente o "tipo de ação ou recurso escolhido". Assim, em vez de recolher as custas do recurso em mandado de segurança, fez o recolhimento sob rubrica diversa.
+Percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, quedou-se inerte.
+Assim, o recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Opostos embargos de declaração foram eles rejeitados com os seguintes fundamentos:
+No caso dos autos, a parte embargante não cumpriu devidamente os requisitos relativos ao preparo, mesmo após intimada para regularização, conforme faculdade conferida sob a égide do Código de Processo Civil em vigor.
+As custas devidas ao Superior Tribunal de Justiça são fundamentadas na Resolução STJ/GP n.º 2, de 1º de fevereiro de 2017, bem como na Instrução Normativa STJ/GP n.º 2, de 21 de janeiro de 2020. A Resolução STJ/GP n.º 2, de 1º de fevereiro de 2017, por meio dos seus artigos 5º e 6º, dispõe sobre o modo de recolhimento das referidas custas, o que não foi observado pela parte embargante, no caso.
+De fato, cumpre esclarecer que, no ato de interposição do recurso em mandado de segurança, a parte deve anexar a guia de recolhimento das custas devidamente preenchida, bem como o respectivo comprovante de pagamento, ambos de forma visível e legível. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PREPARO. COMPROVANTE DE PAGAMENTO ILEGÍVEL. DESERÇÃO. ALEGADA FALHA NA DIGITALIZAÇÃO DOS AUTOS, DESACOMPANHADA DE COMPROVAÇÃO IDÔNEA. AGRAVO INTERNO IMPROVIDO.
+I. Trata-se de Agravo interno aviado contra decisão que julgara recurso interposto contra acórdão publicado na vigência do CPC/73.
+II. Consoante pacífica jurisprudência desta Corte, firmada à luz do CPC/73, as guias (GRU) e os comprovantes de pagamento do preparo constituem peças essenciais à formação do recurso, porquanto somente com esses documentos torna-se possível verificar a sua regularidade.Assim, os recursos interpostos devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Precedentes do STJ.
+III. O entendimento desta Corte orienta-se no sentido de que "eventual falha na digitalização dos autos deve ser demonstrada por meio de certidão comprobatória do tribunal de origem, não sendo suficiente para tanto a mera afirmação da parte recorrente" (STJ, AgInt no REsp 1.737.036/RN, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 22/05/2019). No mesmo sentido: STJ, AgInt nos EAREsp 814.129/ES, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 09/10/2018; AgRg no AREsp 794.865/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 08/08/2018; AgRg no REsp 1.390.521/GO, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 14/12/2015.
+IV. No caso, a deserção foi declarada, pois o comprovante de pagamento do preparo está ilegível. Nas razões deste Agravo interno, a parte agravante sustenta que "a declaração existente na decisão agravada, de estar deserto o recurso da parte agravante, em função de estar ilegível o documento que comprova o recolhimento das custas processuais, não é de responsabilidade da parte agravante, conforme determina a resolução desse Sodalício". Todavia, segundo certidão de validação, exarada pela Corte de origem, "os autos eletrônicos correspondem aos físicos, adquirindo suas páginas nova numeração eletrônica". A desconstituição de tal ato, dotado de fé pública, dependeria da juntada de nova certidão, que comprovasse a alegada falha na digitalização dos autos, o que não ocorreu, in casu.
+V. Agravo interno improvido.(AgInt no RMS 51.502/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 11/06/2019, DJe 17/06/2019)
+Registre-se que é responsabilidade da parte observar o correto procedimento para apresentação de recursos e petições perante os tribunais.
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl no Aresp 883235/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/12/2020.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Conforme bem consignado na decisão agravada, o agravante fez o recolhimento das custas sob a rubrica errada, com a indicação incorreta do tipo de recurso escolhido, ou seja, em vez de recolher as custas do recurso em mandado de segurança, fez o recolhimento sob rubrica diversa (fl. 407) - "recurso ordinário cível", rubrica exclusiva para o recurso ordinário interposto com fundamento no art. 105, II, c, da Constituição Federal.
+Ademais, a parte agravante foi regularmente intimada para sanar o vício, conforme certidão de fl. 490, na qual é apontado o vício, bem como a certidão de publicação de fl. 492, que é clara ao indicar tratar-se de vista "vista ao recorrente para manifestação acerca de vício certificado", permanecendo inerte, não havendo, assim, que se falar em contrariedade aos artigos 269, §2º, e 270, do Código de Processo Civil.
+Sobre a questão, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. RECOLHIMENTO DO PREPARO. IRREGULARIDADE. NÚMERO DE AUTUAÇÃO DO PROCESSO. REGULARIZAÇÃO. PROVIDÊNCIA NÃO TOMADA, APESAR DA INTIMAÇÃO DA RECORRENTE. AUSÊNCIA. DESERÇÃO.
+1. É dever do recorrente o correto recolhimento do preparo no momento da interposição do recurso.
+2. O número constante da guia de recolhimento da GRU deve guardar exata correspondência com o número de referência do processo, sob pena de deserção.
+3. Apesar de intimada nos termos do § 7º do art. 1.007 do CPC/2015 para regularizar o recolhimento das custas judiciais - com a indicação do número do processo na origem -, a parte recorrente deixou de tomar as providências cabíveis.
+4. Esta Corte possui o entendimento de que a irregularidade no preenchimento das guias do preparo no ato da interposição do recurso caracteriza a sua deserção, sendo inviável nova intimação para sanar o vício.
+5. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.435.121/PE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 26/9/2019.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A SUA DESERÇÃO. INSURGÊNCIA RECURSAL DA RÉ.
+1. A jurisprudência deste Tribunal Superior assevera que é deserto o recurso especial, na hipótese em que a parte recorrente, mesmo após intimada a regularizar o preparo, não o faz devidamente (art. 1.007, § 7º, do CPC/2015).
+2. É dever da recorrente apontar o correto preenchimento das guias de recolhimento que compõem às custas do preparo, sob pena de deserção do recurso. A exigência do correto preenchimento da guia, longe de ser mero formalismo, presta-se a evitar fraudes contra o Judiciário, impedindo que se use a mesma guia para interposição de diversos recursos.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.796.899/AM, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 6/9/2019.)
+Com efeito, embora seja permitida a posterior retificação de erro no preenchimento das guias de preparo, deve a parte proceder à correção e, mantendo-se inerte, o recurso deve ser considerado deserto.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, deve ser ela integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
