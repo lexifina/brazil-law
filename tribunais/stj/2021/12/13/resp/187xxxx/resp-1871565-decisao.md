@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especialinterposto porISABELA MASSI, com fundamentono art. 105, III, "a" e "c", da CF, contra acórdão proferido peloTribunal Regional Federal da 3ª Região, assim ementado (fl. 218):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AUXÍLIO-RECLUSÃO. DEPENDÊNCIA ECONÔMICA. QUALIDADE DE SEGURADO. SALÁRIO DE CONTRIBUIÇÃO. DESEMPREGADO. TERMOINICIAL. VALOR DO BENEFÍCIO. JUROS DE MORA. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS. CUSTAS.
+I - Dependência econômica presumida, nos termos do § 4º, do artigo 16, da Lei nº 8.213/91 por se tratar de dependentes arrolados no inciso I.
+II - Qualidade de segurado do detento restou demonstrada nos autos, consoante dados do CNIS, que revelam que seu último contrato de trabalho findou em 01.09.2014, sendo que o salário de contribuição correspondia a R$ 1.234,81, relativo ao mês de agosto de 2014, acima, portanto do valor fixado no artigo 13 da Emenda Constitucional nº 20, de 15.12.1998, equivalente a R$ 360,00,atualizado para R$ 1.025,81 pela Portaria nº 19, de 10.01.2014.
+III - Irrelevante o fato de o segurado recluso ter recebido salário de contribuição pouco acima do limite legalmente estabelecido em seu último contrato de trabalho, vez que não estava exercendo atividade laborativa no momento em que foi preso.
+IV - Termo inicial do benefício fixado na data do encarceramento(28.11.2014), vez que não corre o prazo prescricional em desfavor de absolutamente incapaz. V - Em razão da ausência de salário de contribuição na data do efetivo recolhimento do segurado à prisão, o valor do benefício será de um salário mínimo.
+VI - Verba honorária fixada em 15% do valor das prestações vencidas até a presente data, uma vez que o pedido foi julgado improcedente no juízo "a quo", nos termos da Súmula 111 do E. STJ - em sua nova redação, e de acordo com o entendimento firmado por esta 10ª Turma.
+VII - As autarquias são isentas das custas processuais (artigo 4º,inciso I da Lei 9.289/96), devendo reembolsar, quando vencidas, as despesas judiciais feitas pela parte vencedora. VIII - Apelação da autora parcialmente provida.
+Opostos embargos de declaração, foram rejeitados (fls. 264/271).
+Nas razões do apelo especial, aponta a parte recorrente violação aos arts. 28, 29, 33, 75 c/c art. 80, da Lei n. 8.213/1991, afirmando que, "conforme legislação, com a devida vênia, é certo que o valor do auxílio-reclusão a ser calculado deverá observar o quanto previsto nos arts. 28, 29, 33 e 75, ou seja, deverá calculado nas mesmas condições da pensão por morte (art. 80, da Lei n. 8213/1991), isto é, pela média aritmética simples dos maiores salários-de-contribuição correspondentes a oitenta por cento de todo o período contributivo (desde julho/94)" (fl. 286).
+Sem contrarrazões.
+Parecer do Ministério Público às fls. 334/336, sob a pena do Subprocurador-Geral da República, dr. Flávio Giron, pelo conhecimento e provimento do recurso.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignaçãonão comporta acolhida.
+Inicialmente, observa-se que o Tribunal de origem não examinou acontrovérsia sob o enfoque da tese trazida nas razões do recurso especial, apesar de instado a fazê-lopor meio dos competentes embargos de declaração. Nesse contexto, caberia àparte recorrente, nas razões do apelo especial, indicar ofensa ao art.1.022 do CPC/2015, alegando a existência de possível omissão, providênciada qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito daoposição de embargos declaratórios, não foi apreciada pelo tribunal aquo.").
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão deprequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exigeque no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, paraque se possibilite ao Órgão julgador verificar a existência do vícioinquinado ao acórdão, que uma vez constatado, poderá dar ensejo àsupressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG,Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe10/04/2017).
+No mesmo sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSOCIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DEPREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. APLICABILIDADE. ART.1.025 DO CÓDIGO DE PROCESSO CIVIL. ARGUMENTOS INSUFICIENTES PARADESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO.APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em09.03.2016, o regime recursal será determinado pela data da publicação doprovimento jurisdicional impugnado. In casu, aplica-se o Código deProcesso Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia peloTribunal a quo, não obstante oposição de Embargos de Declaração, impede oacesso à instância especial, porquanto não preenchido o requisitoconstitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do Código de Processo Civil de 2015 prevê que estaCorte considere prequestionada determinada matéria apenas caso alegada ereconhecida a violação ao art. 1.022 do Código de Processo Civil de 2015.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes paradesconstituir a decisão recorrida.
+V - Honorários recursais. Cabimento.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º,do Código de Processo Civil de 2015 em razão do mero desprovimento doAgravo Interno em votação unânime, sendo necessária a configuração damanifesta inadmissibilidade ou improcedência do recurso a autorizar suaaplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1682293/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRATURMA, julgado em 24/10/2017, DJe 10/11/2017)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
