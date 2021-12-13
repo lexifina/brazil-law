@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo internointerposto por Julio Maria Laviola de Freitas contra decisão da Presidência desta Corte Superior de Justiça que conheceu do agravo para não conhecer do recurso especial em razão da incidência da Súmula 211 do STJ, assim fundamentada (e-STJ fl. 498):
+"Quanto à primeira e à segunda controvérsias, na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que as questões não foram examinadas pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+ .. "
+Embargos de declaração rejeitados (e-STJ fls. 514-516).
+O agravante em suas razões sustenta, em síntese, que a decisão recorrida deve ser reformada haja vista que "em todas as oportunidades o autor/recorrente apontou todas as questões constitucionais envolvidas, bem como as violações a dispositivos da legislação federal" tendo inclusive "feitouso dosembargos de declaração." assim, " ..  todas as opções processuais cabíveis, ao alcance do recorrente, foram utilizadas e, portanto, revelam-se suficientes para demonstrar o requisito prequestionamento." (e-STJ fl. 521).
+No mais, reiteraos mesmos argumentos dos recurso anteriores.
+Requer, ao final, a reconsideração da decisão agravada, a fim de que"seja admitido o Recurso Especial interposto." (e-STJ fls. 523).
+Impugnação às e-STJ fls. 528-530.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+3. Em conformidade com a jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 10/4/2017), o que não ocorreu no caso, pois o recorrente, nas razões do presente recurso, deixou de apontar violação do art. 1.022 do CPC/2015.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC, nos termos do Enunciado Administrativo 3/STJ.
+Dito isso, observa-se que a irresignação não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Consigne-se que o agravante desde a origem se insurge contra sentença que julgou improcedentes os pedidos formulados e, por conseguinte, julgou extinto o feito, com resolução do mérito, na forma do art. 487, I do CPC, "afastando a possibilidade de estender a aplicação da Gratificação de Encargos Especiais ao autor, ante o entendimento consolidado de incidência restrita aos coronéis mencionados no processo administrativo E-12/790/94, não consubstanciando-se em função do Poder Judiciário deferir aumento a servidor sob o argumento de critério isondmico." (e-STJ fls. 139-142).
+O acórdão recorrido negou provimento à apelação mantendo a sentença, ao fundamento (e-STJ fls. 218-220):
+ ..
+Cumpre consignar que inexiste qualquer permissivo legal que autorize a extensão da gratificação aos militares que viessem a ser promovidos a coronel após a sua criação.
+Ademais, o STJ já pacificou o entendimento no sentido de que a Gratificação de Encargos Especiais concedida aos coronéis da Policia Militar e dos Bombeiros Militares, no processo administrativo E/12/790/94 possui natureza pro labore faciendo de maneira que não se estendem a outros militares, ativos ou inativos, nos termos da Súmula Vinculante 37 do STF (antiga Súmula 339 do STF).
+ ..
+Assim, considerando a orientação jurisprudencial acima mencionada, não é possível a extensão da GEE aos servidores militares ativos ou inativos do Estado do Rio de Janeiro, ainda que na condição de coronel, a pretexto de isonomia, porque ela tem caráter propter laborem, não sendo genérica como antes se entendia."
+O recurso especial foi inadmitido em razão da incidência da Súmula 83 do STJ, interposto agravo esse foi conhecido para não conhecer do recurso especial, em decisão unipessoal da Presidência desta Corte assim fundamentada:
+"Quanto à primeira e à segunda controvérsias, na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que as questões não foram examinadas pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+ .. "
+Ocorre que no presente feito os agravantes em suas razões limitou-se a sustentar que "todas as opções processuais cabíveis, ao alcance do recorrente, foram utilizadas e, portanto, revelam-se suficientes para demonstrar o requisito prequestionamento." (e-STJ fl. 521), contudo, sem demonstrar que a matéria foi efetivamente debatida no acórdão recorrido.
+Com efeito, o prequestionamento significa o prévio debate da questão no tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados, o que não ocorreu no caso dos autos, em que a insurgência não foi analisado pelo tribunal de origem sob o viés defendido pela parte autora, ora recorrente, nem mesmo no julgamento dos embargos de declaração.
+Assim, não se considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes, mas sim que a respeito tenha havido debate no acórdão recorrido.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.".
+Outrossim, convém ressaltar que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 10/4/2017), o que não ocorreu no caso, pois o recorrente, nas razões do presente recurso, deixou de apontar violação do art. 1.022 do CPC/2015.
+A propósito:
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INOVAÇÃO DE TESE RECURSAL. IMPOSSIBLIDADE. PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. A introdução de argumento novo, que não foi ventilado no recurso especial, configura inovação recursal, cuja análise é incabível no âmbito do agravo interno, em razão da preclusão consumativa. Nesse sentido: AgInt no REsp 1.651.178/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 5/3/2020.
+2. "O requisito do prequestionamento é exigido por este STJ inclusive para as matérias de ordem pública" (AgInt no REsp 1.814.124/RO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 12/12/2019).
+3. Na forma da jurisprudência desta Corte, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação, ou não, ao caso concreto" (AgInt no AREsp 1.473.375/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 10/03/2020).
+ ..
+6. Agravo interno não provido. (AgInt no AREsp 828.758/SP, Rel. Min.Sérgio Kukina, Primeira Turma,DJe 4/5/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SFH. SEGURO HABITACIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ILEGITIMIDADE DA SEGURADORA PARA RECORRER. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+2. Em conformidade com a jurisprudência do STJ, para ocorrência do prequestionamento ficto previsto no artigo 1.025 do CPC/2015, deve a parte ter alegado em suas razões recursais ofensa art. 1022 do NCPC, de modo a permitir sanar eventual omissão através de novo julgamento dos embargos de declaração, caso existente, o que não é o caso dos autos. Precedente: AgInt no REsp 1.737.467/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 8/6/2020, DJe 17/6/2020.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+4. Agravo interno não provido. (AgInt no REsp 1.843.034/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 15/05/2020)
+Ante o exposto, não conheço do agravo em recurso especial.
+É o voto.
