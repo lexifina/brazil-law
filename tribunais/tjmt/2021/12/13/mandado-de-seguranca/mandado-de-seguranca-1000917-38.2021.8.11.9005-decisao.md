@@ -1,0 +1,37 @@
+Mandado de Segurança:
+1000917-38.2021.8.11.9005
+Impetrante:
+BANCO BRADESCO FINANCIAMENTOS S/A
+Impetrado:
+MM. JUIZ DE DIREITO DO JUIZADO ESPECIAL CIVEL E CRIMINAL DO FORO DA COMARCA DE JUÍNA/MT
+Juiz Relator:
+JORGE ALEXANDRE MARTINS FERREIRA
+DECISÃO
+Trata-se de Mandado de Segurança impetrado por BANCO BRADESCO FINANCIAMENTOS S/A contra o MM. JUIZ DE DIREITO DO JUIZADO ESPECIAL CIVEL E CRIMINAL DO FORO DA COMARCA DE JUÍNA/MT, que proferiu nos autos n. 1003369- 92.2021.8.11.0025, decisão que deferiu a tutela de urgência pleiteada nos referidos autos para suspender descontos no benefício previdenciário da autora, sob pena de multa diária no importe de R$ 200,00 (duzentos reais), limitada a R$ 5.000,00 (cinco mil reais).
+Inicialmente cumpre ressaltar que nos Juizados Especiais Cíveis as decisões interlocutórias são irrecorríveis, e assim o são justamente por conta da celeridade e simplicidade que devem conduzir essa justiça especializada.
+Sobre o tema, Joel Dias Figueira Júnior explica que o princípio da irrecorribilidade das decisões nos feitos sob o rito dos Juizados Especiais Cíveis “cinge-se às interlocutórias, para evitar a paralisação, mesmo que parcial, dos atos ou qualquer tumulto que possa prejudicar o bom andamento do processo". (In: Comentários à Lei dos Juizados Especiais Cíveis e Criminais. São Paulo: Revista dos Tribunais, 1995, p. 48-9).
+Da mesma forma leciona Ricardo Cunha Chimenti:
+“Diante dos princípios da celeridade (art. 2o da Lei n. 9.099/95) e da concentração, que determinam a solução de todos os incidentes no curso da audiência ou na própria sentença (art. 29), a quase totalidade da doutrina sustenta a irrecorribilidade das decisões interlocutórias proferidas na fase de conhecimento do processo. Como decorrência, tais decisões não transitam em julgado e poderão ser impugnadas no próprio recurso interposto contra sentença, sendo por isso incabível o agravo de instrumento (CHIMENTI, Ricardo Cunha; SANTOS, Marisa Ferreira dos, Juizados especiais cíveis e criminais: estaduais e federais 13. ed. – São Paulo: Saraiva Educação, 2019, p. 87.)”
+Veja-se que não foi por descuido do legislador, mas sim por opção a fim de agilizar o andamento dos feitos, limitando o número de recursos, atendendo assim aos princípios da celeridade e da concentração.
+Certo ou errado, a irrecorribilidade imediata das interlocutórias foi vontade do legislador, devendo ser respeitada.
+Nesse sentido é o entendimento do Eg. STF, como repercussão geral, e que deve ser obedecido por todos os juízos do país:
+RE 576.847/BA - BAHIA RECURSO EXTRAORDINÁRIO Relator(a): Min. EROS GRAU - Julgamento: 20/05/2009 – Órgão Julgador: Tribunal Pleno. REPERCUSSÃO GERAL – MÉRITO DJe-148 DIVULG 06-08-2009 PUBLIC 07-08-2009 RTJ VOL-00211- PP-00558 EMENT VOL-02368-10 PP-02068 LEXSTF v. 31, n. 368, 2009, p. 310-314 Ementa EMENTA: RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. REPERCUSSÃO GERAL RECONHECIDA. MANDADO DE SEGURANÇA. CABIMENTO. DECISÃO LIMINAR NOS JUIZADOS ESPECIAIS. LEI N. 9.099/95. ART. 5o, LV DA CONSTITUIÇÃO DO BRASIL. PRINCÍPIO CONSTITUCIONAL DA AMPLA DEFESA. AUSÊNCIA DE VIOLAÇÃO. 1. Não cabe mandado de segurança das decisões interlocutórias exaradas em processos submetidos ao rito da Lei n. 9.099/95. 2. A Lei n. 9.099/95 está voltada à promoção de celeridade no processamento e julgamento de causas cíveis de complexidade menor. Daí ter consagrado a regra da irrecorribilidade das decisões interlocutórias, inarredável. 3. Não cabe, nos casos por ela abrangidos, aplicação subsidiária do Código de Processo Civil, sob a forma do agravo de instrumento, ou o uso do instituto do mandado de segurança. 4. Não há afronta ao princípio constitucional da ampla defesa (art. 5o, LV da CB), vez que decisões interlocutórias podem ser impugnadas quando da interposição de recurso inominado. Recurso extraordinário a que se nega provimento.
+No mesmo sentido o Agravo Regimental no RE n. 650.293-PB:
+EMENTA AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. JUIZADOS ESPECIAIS. DECISÃO INTERLOCUTÓRIA. MANDADO DE SEGURANÇA. NÃO CABIMENTO DO MANDAMUS. PRECEDENTES. 1. O Plenário desta Corte, no julgamento do RE no 576.847/BA, Relator o Ministro Eros Grau, DJe de 6/8/09, firmou entendimento no sentido de não ser cabível mandado de segurança contra decisões interlocutórias exaradas em processos da competência dos juizados especiais. 2. Agravo regimental não provido. (STF - RE: 650293 PB, Relator: Min. DIAS TOFFOLI, Data de Julgamento: 17/04/2012, Primeira Turma, Data de Publicação: ACÓRDÃO ELETRÔNICO DJe-099 DIVULG 21-05-2012 PUBLIC 22-05-2012)
+Por outro lado, excepcionalmente, a jurisprudência dos nossos tribunais superiores, tanto o Superior Tribunal de Justiça como o Superior Tribunal Federal, tem admitido a impetração do mandado de segurança quando, e tão somente, houvesse teratologia, ilegalidade ou abuso flagrante no ato judicial.
+Esse é o posicionamento do Supremo Tribunal Federal, vejamos:
+“EMENTA Agravo regimental em mandado de segurança. Impetração contra contra ato revestido de conteúdo jurisdicional emanado do próprio Supremo Tribunal Federal. Incidência da Súmula no 267/STF. Inexistência de teratologia, ilegalidade ou abuso flagrante a justificar a mitigação do enunciado em questão. Agravo regimental não provido. 1. A jurisprudência da Suprema Corte é firme no sentido de ser inadmissível a impetração de mandado de segurança contra ato revestido de conteúdo jurisdicional. Incide, na espécie, a Súmula STF no 267. 2. O mandado de segurança somente se revelaria cabível se, no ato judicial, houvesse teratologia, ilegalidade ou abuso flagrante, o que não se verifica na espécie. 3. Agravo regimental não provido. (STF - AgR MS: 34471 PE - PERNAMBUCO 0060174-27.2016.1.00.0000, Relator: Min. DIAS TOFFOLI, Data de Julgamento: 16/12/2016, Segunda Turma, Data de Publicação: DJe-035 22-02-2017)”
+In casu, merece parcial acolhimento a pretensão da parte Impetrante.
+Isso porque o art. 537, do Código de Processo Civil, determina que a multa em sede de tutela provisória pode ser aplicada desde que seja suficiente e compatível com a obrigação e que se determine prazo razoável para cumprimento do preceito.
+No caso em tela, temos que a decisão vergastada quanto ao prazo obedece aos critérios estabelecidos pelo diploma legal, contudo os valores fixados estão em dissonância com outros casos semelhantes.
+Desta forma, considerando que a multa aplicada foi na modalidade diária, é necessária a concessão da tutela requerida, pois em razão do descumprimento pelo impetrante, este seria compelido a pagar o mencionado teto estabelecido pelo juízo a quo, o que no meu entender não guarda relação com os princípios da proporcionalidade e razoabilidade.
+Ante o exposto, resta cabível a impetração de Mandado de Segurança em face da decisão interlocutória objurgada, assim DEFIRO, em parte, a tutela de urgência pleiteada, a fim de reduzir/aplicar à impetrante multa fixa no importe de R$ 2.000,00 (dois mil reais), em homenagens aos postulados acima, mantidos os demais termos da decisão.
+Notifique-se a Autoridade coatora para, no prazo de 10 (dez) dias, prestar as informações que entender necessárias.
+Intime-se o litisconsorte passivo para prestar informações, querendo, também no prazo de 10 (dez) dias.
+Em seguida, encaminhem-se os autos ao Ministério Público Estadual para manifestação.
+Após, voltem-me os autos conclusos para ulterior deliberação.
+Às providências.
+Expeça-se o necessário.
+Cumpra-se.
+JORGE ALEXANDRE MARTINS FERREIRA
+Juiz de Direito Relator
