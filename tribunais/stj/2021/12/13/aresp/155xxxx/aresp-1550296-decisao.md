@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo manejado pelaCOMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE contra decisão que inadmitiu o recurso especial interposto em oposição a acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIROassim ementado(e-STJ, fls. 40-41):
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPETIÇÃO DE INDÉBITO, EM FASE DE LIQUIDAÇÃO DE SENTENÇA. DECISÃO DO JUÍZO SINGULAR QUE DETERMINOU À CEDAE QUE CANCELASSE A RECLASSIFICAÇÃO E RETIFICAÇÃO DO CADASTRO DO CONDOMÍNIO. INCONFORMISMO DA CEDAE.
+- A meu ver, sem razão a Recorrente.
+- De início, não há que se falar em ofensa ao à decisão proferida por este Órgão Fracionário, no julgamento do agravo de instrumento nº 0007489-35.2013.8.19.0000.
+- O referido recurso foi provido para "para cassar a decisão recorrida, autorizando a Agravante a cobrar sua tarifa pelo valor medido pelo hidrômetro, utilizando-se da tabela progressiva, conforme decidido na fase de conhecimento". - Como se vê, a matéria que está acobertada pelos efeitos da preclusão máxima, é a possibilidade da Agravante cobrar pela tabela progressiva, porém, sobre o consumo registrado no hidrômetro, e, no ponto, o julgado nada alterou.
+- Portanto, a decisão impugnada se mostra acertada ao determinar o cancelamento da reclassificação e retificação do cadastro do Condomínio/Agravado, levado a efeito pela Recorrente após o trânsito em julgado.
+- Isto porque, ao proceder a alteração do cadastro de 159 (cento e cinquenta e nove) economias residenciais e 37 (trinta e sete) economias comerciais, que totalizam 196 (cento e noventa e seis)economias, passando a considerar como sendo 1 (uma) economia residencial, e 1 (uma) economia comercial, ficou inviabilizada a aplicação da progressividade da tabela.
+- Destarte, desta maneira se desprezaria o consumo médio de cada economia, e se levaria em consideração o consumo de todas elas somadas, sendo certo que esta solução impediria que o Agravado jamais se adequasse ao perfil de consumo da primeira faixa.
+- Sobre o tema a jurisprudência deste Tribunal está consolidada no sentido de que a aplicação da tabela de tarifa progressiva na cobrança de água e esgoto só é cabível após a apuração do consumo médio, resultante da divisão do consumo total pelo número de economias.
+- PRECEDENTE DESTE TRIBUNAL.
+- RECURSO CONHECIDO E DESPROVIDO.
+É o relatório.
+A Primeira Seção desta Corte, nos autos dosREsps n. 1.937.887/RJ e 1.937.891/RJ,propôs a revisão da tese firmada no Tema Repetitivo n. 414/STJ - forma de cálculo da tarifa progressiva dos serviços de fornecimento de água e de esgoto sanitário em unidades compostas por várias economias e hidrômetro único, após a aferição do consumo -, questão jurídica tratada no presente recurso.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
