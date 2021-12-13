@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto porLEONARDO DA SILVA SANTOScom fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO em julgamento de apelação criminal n.1501038-16.2020.8.26.0537.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 157do Código Penal (roubo), à pena de 4 (quatro)anos de reclusão, em regime inicial fechado, e 10 (dez)dias-multa (fls. 139/147).
+Recurso de apelação manejado pela Defesa buscando o reconhecimento da tentativa e, subsidiariamente, o abrandamento do regime prisional foi desprovido, aos fundamentos consignados no acórdão de fls. 195/201.
+Em sede de recurso especial (fls. 213/219), a Defesa apontou violação ao art. 33, § 2º, b, do Código Penal, porque a Corte recorrida manteve o regime inicial fechado para cumprimento da pena com base apenas na gravidade em abstrato do delito. Também apontou negativa de vigência ao art. 387, §§ 1º e 2º do Código de Processo Penal, porque o Tribunal absteve-se de aplicar a detração penal quando da imposição do regime prisional.
+Requer a fixação de regime menos gravoso.
+Contrarrazões doMINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO(fls. 224/228).
+Admitido o recurso no TJ (fl. 231), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo não conhecimento do recurso especial (fls. 240/244).
+É o relatório.
+Decido.
+O recurso merece parcial provimento.
+No que tange ao regime prisional, a Corte de origem consignou:
+"O regime adequado para o cumprimento da pena reclusiva é mesmo o fechado, já que condenado por crime de roubo, infração penal repugnante que, por suas circunstâncias e consequências, desassossega a sociedade e causa traumas profundos em suas vítimas.
+ ..
+Importante consignar, a propósito,que não há qualquer ilegalidade na fixação do regime inicial como fechado, e nem ofensa às Súmulas 718 e 719, do Excelso Supremo Tribunal Federal, pois os fatos concretos e as circunstâncias judiciais concretamente aferidas (emprego de simulacro e violência contra a vítima, causando-lhe lesões corporais de natureza leve), devidamente extraídos dos autos, demonstram não ser recomendável a adoção de regime prisional mais brando, sobretudo para não se provocar afrouxamento excessivo e intolerável estímulo ao criminoso, forjando, em seu espírito, a sensação de uma ilusória impunidade."(fls. 199/200 - grifos acrescidos)
+Com efeito, em que pese a pena imposta tenha sido de quatro anos de reclusão, houve o reconhecimento de circunstâncias concretasnegativas, o que autoriza a fixação do regime prisional mais gravoso, consoante jurisprudência desta Corte firmada no sentido de que"tendo em vista a presença de circunstâncias judiciais desfavoráveis ao agravante, ainda que a pena definitiva tenha sido fixada em quantum inferior a 4 anos de reclusão, autorizado está o recrudescimento do regime"(AgRg no AREsp 1099114/PB, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 06/05/2019).
+Entretanto, diante doquantumde pena aplicada (quatro anos de reclusão), o regime inicial mais gravoso, no caso, é o semiaberto, nos termos do art. 33, § 2º, b, do Código Penal.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO TENTADO. REGIME INICIAL MAIS GRAVOSO (SEMIABERTO). GRAVIDADE CONCRETA. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É possível o estabelecimento de regime inicial mais gravoso do que o indicado pelo quantum da reprimenda (o semiaberto para condenação inferior a 4 anos de reclusão), quando se verifica a gravidade concreta do delito - na hipótese, a intensa violência praticada contra a Vítima -, a revelar a maior reprovabilidade da conduta.
+2. Agravo regimental desprovido."
+(AgRg no AgRg no AREsp 1816265/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 21/06/2021)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. APLICAÇÃO DO REGIME PRISIONAL MAIS GRAVOSO. FUNDAMENTAÇÃO VÁLIDA. RECURSO IMPROVIDO.
+1. Nos termos dos arts. 33 e 59 do Código Penal e em sintonia com a orientação das Súmulas n. 440/STJ, 718 e 719/STF, observada a existência de circunstância judicial desfavorável, correta a imposição do regime mais gravoso, qual seja, o semiaberto, ao réu condenado a pena inferior a 4 anos de reclusão. Pelas mesmas razões, não preenchidos os requisitos do art. 44 do Código Penal, inviável a substituição da pena privativa de liberdade. Precedentes.
+2. Agravo regimental improvido."
+(AgRg no AREsp 1846543/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 27/05/2021)
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SEQUESTRO E INJÚRIA. REGIME PRISIONAL. PENA APLICADA INFERIOR À 4 (QUATRO) ANOS. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME SEMIABERTO ADEQUADO AO CASO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+Regime inicial semiaberto. Pena fixada inferior a 4 (quatro) anos. Ausência de ilegalidade. Isso porque, há circunstância judicial desfavorável - consequências do crime -, elementos que impõem o regime inicial semiaberto, como preceitua a jurisprudência desta Corte Superior. Precedentes. Agravo regimental desprovido."
+(AgRg no REsp 1918546/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 09/03/2021)
+Quanto ao pedido de detração, a jurisprudência desta Corte é firme no sentido de que, já que não aplicada pelo juiz sentenciante, a detração penal deverá ser pleiteada e analisada pelo juízo das execuções.
+Nesse sentido:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM ECONÔMICA. AUSÊNCIA DE DOLO. PRETENSÃO DE RECONHECIMENTO DO ERRO DE TIPO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. I - Esta Corte Superior de Justiça, possui entendimento no sentido de que se estiverem ausentes, nos autos, os elementos necessários à aplicação do disposto no art. 387, § 2º, do Código de Processo Penal, caberá ao Juízo das Execuções examinar se o tempo de prisão cautelar do paciente autoriza a fixação de regime mais brando (Precedentes).II - Na hipótese, o Tribunal de origem ao julgar o recurso de apelação, em consonância com o entendimento desta Corte, reconheceu que a detração, já que não aplicada pelo juiz sentenciante, deverá serpleiteada e analisada pelo juízo das execuções, porquanto este tem, de fato, mais elementos para avaliar a possibilidade do recorrente iniciar o cumprimento da pena em regime mais brando, considerando o tempo de prisão cautelar.Agravo regimental desprovido.
+(AgRg no REsp 1733132/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 09/05/2018).
+Ressalta-se que"as alterações trazidas pela Lei n. 12.736/2012 não afastaram a competência concorrente do Juízo das Execuções para a detração, nos termos do art. 66 da Lei n. 7.210/1984, sempre que o magistrado sentenciante não houver adotado tal providência"(AgRg no REsp 1716664/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28/05/2018).
+Diante do exposto, com fundamento no Enunciado da Súmula n. 568 do STJ, dou parcial provimento ao recurso especial para reformar o acórdão recorridoe fixar o regime inicial semiabertopara cumprimento da pena do recorrente.
+Publique-se. Intimem-se.
