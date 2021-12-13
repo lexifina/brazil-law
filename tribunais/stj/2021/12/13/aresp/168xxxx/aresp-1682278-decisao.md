@@ -1,0 +1,51 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. MULTA ADMINISTRATIVA. VIOLAÇÃO A DECRETO. NÃO CABIMENTO. AFRONTA AO ART. 57 DO CDC/1990. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARANÃO CONHECER DORECURSO ESPECIAL DA SOCIEDADE EMPRESÁRIA.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto pelo BANCO PAN S.A, com fundamento no art. 105, inciso III, alíneasa e c,da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado do Goiás, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE MULTA ADMINISTRATIVA. PROCON. LEGALIDADE. PROCEDIMENTO ADMINISTRATIVO CONDUZIDO SOB O CRIVO DA LEGALIDADE, CONTRADITÓRIO E DA AMPLA DEFESA. DECISÃO ADMINISTRATIVAFUNDAMENTADA E MOTIVADA. SENTENÇA REFORMADA.
+1. O PROCON, como órgão fiscalizador que é, tem poder de polícia para impor multas decorrentes de transgressão às regras ditadas pela Lei n. 8.078/90. Precedentes.
+2. Não merece ser desconstituída decisão administrativa proferida no âmbito do PROCON Municipal que aplica multa a instituição financeira que infringiu as normas consumeristas, respeitando aos princípios da legalidade, contraditório e ampla defesa e observando a proporcionalidade, mediante ponderação sobre a gravidade da infração, vantagem auferida e condição econômica do fornecedor.
+APELAÇÃO CÍVEL CONHECIDA E PROVIDA. SENTENÇA REFORMADA (fls. 250/256).
+2. Opostos embargos declaratórios, foram rejeitados (fls. 286/299).
+3. Nasrazões do seurecurso especial (fls. 304/316), a parte agravante sustenta, além de dissídio jurisprudencial,violação dos arts. 56 e 57do CDC/1990 e do art. 25do Decreto2.181/1987. Argumenta, para tanto, que o PROCON não teria competência para impor sanção de restituição em dobro da quantia cobrada de forma incorreta.
+4. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 327/330).
+5. Sobreveio o juízo de admissibilidade negativo(fls. 348/349),fundadona(a) incidências das Súmulas 282/STF e7/STJ,razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+9. Quanto à alegada violação a dispositivos do art. 25 doDecreto 2.181/1987, registro que, consoante pacífica jurisprudência desta egrégia Corte Superior, o conceito de tratado ou lei federal, inserto no art. 105, inciso III, alínea a, da CF/1988, deve ser considerado em seu sentido estrito, sendo inadmissível o recurso especial manejado em face dos aludidos atos normativos. Aliás, colaciono a ementa dos arestos deste STJ, no que interessa:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. FILHA DE MILITAR. REINCLUSÃO EM FUNDO DE SAÚDE DA AERONÁUTICA. REVISÃO DAS CONCLUSÕES DO TRIBUNAL A QUO. NECESSIDADE DE INTERPRETAÇÃO DE NORMAS INFRALEGAIS. IMPOSSIBILIDADE. PRECEDENTES.
+(..).
+III - Conforme entende a jurisprudência do Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas, atos administrativos normativos e instruções normativas.
+(..)
+V - Agravo interno improvido.(AgInt no REsp 1.865.474/CE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 8/2/2021, DJe 12/2/2021 - sem destaques no original).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. INSTRUÇÃO NORMATIVA. ANÁLISE. INVIABILIDADE. IMPOSTO DE RENDA RETIDO NA FONTE (IRRF). NEGOCIAÇÃO DE ORTN"S ANTES DO VENCIMENTO. DISCIPLINA DE INCIDÊNCIA. INAPLICABILIDADE.
+(..)
+3. A via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal.
+(..).
+6. Recurso especial conhecido em parte e, nessa extensão, provido, a fim de restabelecer os efeitos da sentença.(REsp 1.404.038/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 2/6/2020, DJe 29/6/2020 - sem destaques no original).
+10. Além disso, a alegação de violação do art. 57 do CDC/1990 não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, demanda, além da alegação, a discussão e apreciação judicial pelo tribunal de origem. Com efeito, a jurisprudência desta Corte Superior considera que a ausência de enfrentamento pelo tribunal de origem da matéria impugnada, objeto do recurso excepcional, não obstante interposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+11. Em relação ao art. 56do CDC/1990, este egrégio Superior Tribunal de Justiça já se manifestouno sentido de que éinadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido, incidindo, por analogia, o Enunciado Sumular284/STF, segundo oqualé inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. A propósito, cito os seguintes julgados desta Corte Superior, naquilo que interessa:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..).RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+(..).
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+(..).
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento. (AgInt nos EDcl no AREsp 1.700.429/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/4/2021, DJe 29/4/2021 - sem destaques no original).
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO.INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO.RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+(..).
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+(..).
+VIII - Agravo interno improvido.(AgInt no REsp 1.806.873/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/11/2020, DJe 25/11/2020 - sem destaques no original).
+12. Em relação ao dissídio, esclareça-se ser pacífico o entendimento desta Corte Superior de queos mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciaçãodo dissídio jurisprudencial referenteao mesmo dispositivo de lei federalapontado como violado ou à tese jurídica.Nesse sentido, cito os seguintes julgados deste Superior Tribunal de Justiça, naquilo que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Não se conhece de Recurso Especial no que se refere à violação aos arts. arts. 489 e 1.022 do Código de Processo Civil/2015 e aos arts. 186 e 927 do Código Civil/2002 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+3. A revisão desse entendimento implica reexame de matéria fático-probatória, o que atrai o óbice da Súmula 7/STJ. Precedente: AgInt no AREsp 1.587.838/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24.4.2020; e AgInt nos EDcl no REsp 1.839.027/MS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 19.6.2020.
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido. (AgInt no REsp 1.878.337/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020 - sem destaques no original).
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3,17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF.ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+(..)
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento. (AgInt no REsp 1.503.880/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/2/2018, DJe 8/3/2018 - sem destaques no original).
+13. Em face do exposto, conheço do agravo para não conhecer do recurso especial da instituição financeira.
+14. Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+15. Publique-se. Intimem-se.
