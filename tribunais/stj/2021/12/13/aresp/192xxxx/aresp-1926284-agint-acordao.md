@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI contra decisão monocrática desta relatoria (e-STJ, fls. 525-528)assim ementada:
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONCESSÃO DE BENEFÍCIO DA PREVIDÊNCIA PRIVADA E COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EXCESSO DE EXECUÇÃO E ENRIQUECIMENTO ILÍCITO. FALTA DE PREQUESTIONAMENTO DAS MATÉRIAS OU TESES. SÚMULA 211 DO STJ. MARCO DA VIGÊNCIA DO BENEFÍCIO. INVERSÃO DO JULGADO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 530-552), a insurgente assevera que demonstrou a ocorrência de negativa de prestação jurisdicional no acórdão estadual e defende a inaplicabilidade das Súmulas 5 e 7 /STJ ao caso, ao argumento de que a matéria ventilada no recurso especial é apenas de direito.
+Sustenta a não incidência da Súmula 211/STJ em virtude da admissão do prequestionamento de acordo com o disposto no art. 1.025 do CPC/2015.
+Suscita, ainda, a prescrição da pretensão da parte agravada, apontando que é de 5 (cinco) anos oprazo prescricional para pleitear a cobrança de parcelas de complementação de aposentadoria pela previdência privada.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONCESSÃO DE BENEFÍCIO DA PREVIDÊNCIA PRIVADA E COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. EXCESSO DE EXECUÇÃO E ENRIQUECIMENTO ILÍCITO. FALTA DE PREQUESTIONAMENTO DAS MATÉRIAS OU TESES. SÚMULA 211/STJ. MARCO DA VIGÊNCIA DO BENEFÍCIO. INVERSÃO DO JULGADO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. ALEGAÇÃO DEPRESCRIÇÃO. INOVAÇÃO RECURSAL.AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2.Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal de origem (Súmula 211/STJ).Também não é o caso de se considerar a ocorrência do prequestionamento ficto previsto no art. 1.025 do CPC/2015.
+3. No caso, acolher as teses recursais e alterar a convicção a que chegou a Corte de origem (quanto ao direito de a autora receber o benefício discutido nos autos retroativamente à data da morte do segurado) exigiria o reexame do conjunto fático-probatório dos autos e a análise de termos contratuais, o que é vedado, no âmbito do recurso especial, devido ao óbice das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. Inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa.
+5. Agravo interno desprovido.
+VOTO
+Da leitura das razões recursais, constata-se que a parte recorrente não trouxe nenhum argumento capaz de modificar a conclusão da decisão agravada, a qual deve ser mantida por seus próprios fundamentos.
+Quanto à alegação de negativa de prestação jurisdicional, conforme consignado na decisão agravada, nota-se que a parte ora agravante limitou-se a defender genericamente a ocorrência de violação ao art. 1.022 do CPC/2015, sem especificar concretamente sobre quais questões teria a Corte de origem incorrido nos vícios de omissão, contradição ou obscuridade, de maneira que se revela inadmissível o recurso especial no ponto, ante a deficiência em sua fundamentação, conforme jurisprudência consolidada na Súmula n. 284 do Supremo Tribunal Federal, aplicada analogicamente pelo Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. PROVAS. INDEFERIMENTO. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INCÊNDIO EM TERMINAL DE ADMINISTRAÇÃO. DANOS MORAIS. INEXISTÊNCIA. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial que indica violação do artigo 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+ ..
+(AgInt no AREsp 1704662/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/08/2021, DJe 03/09/2021)
+De outra parte, o Tribunal de origem concluiu que a autora faz jus ao recebimento de benefício de previdência complementar administrado pela ora insurgente, de acordo com as seguintes justificativas (e-STJ, fls. 320-322):
+O segundo fundamento da apelante para reforma da sentença é de que na época em que a apelada fez seu requerimento administrativo não demonstrou que percebia benefício pelo INSS, e por este motivo não pode pretender pagamento retroativo.
+Verifica-se que a alegação da apelante não encontra respaldo no regulamento do plano complementar pela mesma administrado, no qual está disposto que a data do requerimento administrativo é o marco definidor de sua vigência ou da retroação de sua vigência:
+Subseção VII - Do Complemento de Pensão por Morte Art. 50 - O Complemento de Pensão por Morte é devido em decorrência do falecimento de participante e será concedido ao conjunto de seus beneficiários habilitados pela PREVI, na forma do que estabelece a Seção II do Capítulo II deste Regulamento, mediante requerimento.
+§1º - O Complemento de Pensão por Morte, quando devido, vigerá a partir da data de falecimento do participante, se requerido até 90 (noventa) dias após o falecimento, ou a partir da data do requerimento, se decorrido esse prazo.
+§2º - Quando se tratar de morte presumida, a data de falecimento a ser considerada para efeito do que dispõe o parágrafo anterior será aquela indicada em decisão judicial.
+Assim, importante é que a vigência do benefício retroage à data do óbito do segurado quando requerido em até noventa dias. Como visto, a prova do preenchimento dos requisitos necessários para acesso ao benefício não é o marco da sua vigência.
+A prova realizada, ainda que posteriormente, serve para dar segurança a uma decisão de caráter declaratório, a qual tem por escopo eminentemente reconhecer aquilo que já existia. A tal respeito, podemos usar a lição do professor Daniel Amorim Assumpção Neves, o qual leciona que "a tutela meramente declaratória resolve uma crise de certeza; ao declarar a existência, inexistência ou o modo de ser de uma relação jurídica, e excepcionalmente de um fato".
+Deste modo, também nesta parte se mostrou correta a sentença recorrida, não merecendo qualquer alteração.
+No que diz respeito à alegada violação aos arts. 917 do CPC/2015; 884 e 886 do Código Civil, concernentes à alegação de excesso de execução e enriquecimento sem causa da parte recorrida, nota-se, da leitura dos trechos acima, que os conteúdos normativos dos referidos dispositivos não foram objeto de análise pelo acórdão impugnado, assim como, apesar da oposição dos embargos de declaração, não se prestaram a justificar a conclusão adotada pela Corte local. Desatendido, de fato, nesse ponto, o requisito do prequestionamento, nos termos da Súmula 211/STJ.
+Ademais, segundo entendimento da jurisprudência desta Corte, "para a configuração do prequestionamento na forma do art. 1.025 do CPC/2015, é necessária não apenas a indicação de contrariedade ao art. 1.022 do mesmo código, mas também o conhecimento da respectiva tese e a configuração de um dos vícios descritos na norma" (AgInt nos EDcl no AREsp n. 1.507.172/RS, Rel. Ministro Og Fernandes,Segunda Turma,DJe de 02/09/2020).
+Desse modo, considerando que o recurso especial não mereceu conhecimentoquanto à alegada violaçãoao art. 1.022 do CPC/2015, ante a deficiência em sua fundamentação, verifica-se que não foram observados os requisitosprevistos no art. 1.025 do CPC/2015 para fins de consideração do prequestionamento ficto, em relação às teses vinculadas aos arts. 917 do CPC/2015; 884 e 886 do Código Civil.
+Além disso, tal como registrado na decisão agravada, acolher as teses recursais e alterar a convicção a que chegou a Corte de origem (quanto ao direito de a autora receber o benefício discutido nos autos retroativamente à data da morte do segurado) exigiria o reexame do conjunto fático-probatório dos autos e a análise de termos contratuais, o que é vedado, no âmbito do recurso especial, devido ao óbice das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Por fim, cabe registrar que não é possível conhecer da alegação da prescrição do fundo de direito veiculada no presente agravo interno, uma vez que a referida tese não foi oportunamente trazida pela parte agravante, no momento da interposição do apelo especial, caracterizando, portanto, indevida inovação recursal.
+Com efeito, é vedado à parte insurgente, nas razões do agravo interno, alegar questão jurídica que não foi aventada por ocasião da interposição do recurso especial, ante a ocorrência de preclusão.
+Confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. Em se tratando de demanda buscando a revisão da renda mensal inicial do benefício de previdência privada, por se tratar de prestação de trato sucessivo, a prescrição não atinge o próprio fundo do direito, mas apenas as parcelas vencidas anteriormente ao quinquênio que antecede o ajuizamento da ação. Precedentes.
+3. Compete à Justiça Comum o processamento de demandas ajuizadas contra entidades privadas de previdência com o propósito de obter ou rever complementação de aposentadoria. Tese firmada em Repercussão Geral pelo Supremo Tribunal Federal (Tema 190).
+4. Na linha dos precedentes do STJ, os argumentos apresentados em momento posterior à interposição do recurso especial não são passíveis de conhecimento por importar em inovação recursal, a qual é considerada indevida em virtude da preclusão consumativa.
+5. Agravo interno desprovido.
+(AgInt no REsp 1909740/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/08/2021, DJe 02/09/2021)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. PENHORA SOBRE O FATURAMENTO DE EMPRESA. INEXISTÊNCIA DE BENS PENHORÁVEIS. REEXAME DE PROVAS. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. INOVAÇÃO PROCESSUAL. INVIABILIDADE. RECURSO PROTELATÓRIO. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+(..)
+3. Não é possível, em agravo interno, analisar questões somente arguidas nas suas razões, por caracterizar inovação de fundamentos.
+(..)
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1457380/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/06/2019, DJe 19/06/2019)
+Ainda nesse contexto, cabe consignar que a jurisprudência do Superior Tribunal de Justiça entende que,no âmbito do recurso, mesmo em relação às questões de ordem pública, é indispensável o requisito do prequestionamento.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO HIPOTECÁRIA. EMBARGOS. PRAZO. MANDADO DE CITAÇÃO. JUNTADA. NULIDADE DA PENHORA E PRESCRIÇÃO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. NECESSIDADE. SÚMULA Nº 283/STF. CLÁUSULAS CONTRATUAIS. ABUSIVIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Após a vigência da Lei nº 11.382/2006, o prazo para oposição de embargos à execução passou a ser de 15 (quinze) dias, contados, no entanto, a partir da juntada aos autos do mandado de citação.
+3. A falta de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283/STF.
+4. A ausência de prequestionamento da matéria suscitada no recurso especial impede o conhecimento do apelo nobre (Súmula nº 282/STF). As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Agravo interno não provido. (AgInt no REsp 1633820/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
