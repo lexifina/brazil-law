@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT).
+RELATÓRIO
+Cuida-se de agravo regimental interpostocontra a decisão em que indeferi liminarmente ohabeas corpus, como se verifica do seguinte excerto:
+"Com efeito, constata-se que o julgado atacado encontra-se de acordo com ajurisprudência desta Corte, a qual já assentou que "a absolvição em relação ao delito de competência da Justiça Comum não retira a sua competência quanto ao crime de menor potencial ofensivo, em razão da aplicação da regra da perpetuatio jurisdictionis"(HC 82.258/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 23/08/2010)." (fls. 636/637)
+A defesa busca afastar a decisão agravada, ao argumento de que o pleito não é manifestamente incabível. Para tanto, alega:
+" ..  deve ser concedida a ordem em habeas corpus - ainda que de ofício - a fim de reconhecer e declarar a nulidade da sentença e do acórdão proferidos pelos magistrados que integral o Tribunal de Justiça do Distrito Federal e Territórios.
+Isso porque há nulidade absoluta nos autos, que não convalesce pelo decurso do tempo.
+Na espécie, fora violada regra de competência absoluta, pois os autos, obrigatoriamente, deveriam ter sido encaminhados a um dos doutos juizados especiais criminais da Circunscrição Judiciária do Paranoá -DF." (fl. 654)
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. VARA CRIMINAL. ACUSAÇÃO DA PRÁTICA DE DOIS CRIMES. EXTINÇÃO DA PUNIBILIDADE DODELITO DE MAIOR POTENCIAL OFENSIVO. CONDENAÇÃO EM RELAÇÃO AO CRIME DE MENOR POTENCIAL PELA VARA CRIMINAL. INCOMPETÊNCIA. AFASTAMENTO.AGRAVO REGIMENTAL DESPROVIDO.
+1. "Ainda que desapareça a causa que atraiu a competência para determinado órgão jurisdicional, a regra da perpetuatio jurisdictionis (CPP, art. 81) impõe ao magistrado a continuidade no julgamento da causa, aproveitando-se a instrução criminal realizada, de modo a possibilitar um trilhar menos oneroso às partes e ao Estado - sem, obviamente, olvidar os direitos individuais do acusado - atendendo-se, assim, aos princípios da economia processual e da identidade física do juiz. (HC 217.363/SC, Rel. Ministro CAMPOS MARQUES (Desembargador convocado do TJPR), QUINTA TURMA, DJe 7/6/2013)"(RHC 90.845/MT, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 28/9/2018).
+2. Agravo regimental desprovido.
+VOTO
+Consta dos autos que o paciente foi condenado à pena de 6 meses de detenção, no regime aberto, substituída a pena privativa de liberdade por uma restritiva de direitos, pela prática do crime previsto no art. 331 do Código Penal (desacato).
+No writ, a defesa sustentouque teria ocorrido violação à "regra de competência absoluta, pois os autos, obrigatoriamente, deveriam ter sido encaminhados a um dos doutos juizados especiais criminais da Circunscrição Judiciária do Paranoá -DF" (fl. 5), em razão da extinção da punibilidade quanto ao crime de dano.
+Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+Com efeito, constata-se que o julgado atacado encontra-se de acordo com ajurisprudência desta Corte, a qual já assentou que "a absolvição em relação ao delito de competência da Justiça Comum não retira a sua competência quanto ao crime de menor potencial ofensivo, em razão da aplicação da regra da perpetuatio jurisdictionis"(HC 82.258/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 23/8/2010).
+A corroborar esse posicionamento:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E PORTE DE ARMAS. COMPETÊNCIA DA JUSTIÇA FEDERAL EM RAZÃO DE CONEXÃO OU CONTINÊNCIA. MATÉRIA FÁTICO PROBATÓRIA. REUNIÃO COM PROCESSO NO QUAL O RECORRENTE FOI ABSOLVIDO. REGRA DA PERPETUATIO JURISDICTIONIS. PROCESSO JÁ EM FASE DE APELAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO ORDINÁRIO EM HABEAS CORPUS IMPROVIDO.
+1. Na reunião de processos em razão da conexão ou continência entre a Justiça Federal e a estadual, prevalece a competência federal, conforme Súmula 122 desta Corte: Compete à Justiça Federal o processo e julgamento unificado dos crimes conexos de competência federal e estadual  .. .
+2. Na espécie, embora a ação penal objeto do habeas corpus verse sobre crimes estaduais, foi a competência federal atraída pela conexão (processo n. 986-42.2017.4.01.3605), estando já concluso para julgamento de apelação, de forma que para desconstituir a conclusão, firmada até em sentença, de que a competência federal ocorreu em razão da conexão e continência, seria necessário um revolvimento fático/probatório dos autos, incompatível com a via célere do habeas corpus.
+3. Ainda que desapareça a causa que atraiu a competência para determinado órgão jurisdicional, a regra da perpetuatio jurisdictionis (CPP, art. 81) impõe ao magistrado a continuidade no julgamento da causa, aproveitando-se a instrução criminal realizada, de modo a possibilitar um trilhar menos oneroso às partes e ao Estado - sem, obviamente, olvidar os direitos individuais do acusado - atendendo-se, assim, aos princípios da economia processual e da identidade física do juiz. (HC 217.363/SC, Rel. Ministro CAMPOS MARQUES (Desembargador convocado do TJPR), QUINTA TURMA, DJe 7/6/2013).
+4. No caso, embora o recorrente tenha sido absolvido nos autos em que foi firmada a competência federal e que atraiu a competência do processo em curso, este deve continuar sendo julgado na Justiça Federal, pela regra da perpetuatio jurisdictionio, art. 81 do CPP, mormente por estar em fase adiantada, concluso para julgamento de apelação.
+5. Recurso Ordinário em habeas corpus improvido.
+(RHC 90.845/MT, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe28/9/2018).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ART. 60 DA LEI N. 9.099/1995. CONCURSO MATERIAL DE INFRAÇÕES DE MENOR POTENCIAL OFENSIVO. SOMA DAS PENAS: SUPERIOR A 2 ANOS. COMPETÊNCIA DA JUSTIÇA COMUM. POSTERIOR ABSOLVIÇÃO SUMÁRIA. COMPETÊNCIA MANTIDA NA JUSTIÇA COMUM. PRECEDENTES.
+Agravo regimental improvido.
+(AgRg no AREsp 875.258/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 27/6/2016).
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. DESCLASSIFICAÇÃO PARA RECEPTAÇÃO. SENTENÇA CONDENATÓRIA. CRIMES OCORRIDOS EM LOCAIS DISTINTOS. ALEGAÇÃO DE INCOMPETÊNCIA DO JUÍZO. PRINCÍPIO DA PERPETUATIO JURISDICTIONIS. ART. 81 DO CPP. NULIDADE. NÃO OCORRÊNCIA. RECURSO NÃO PROVIDO.
+1. Hipótese em que se objetiva a nulidade do feito, por incompetência do Juiz prolator da sentença, ao argumento de que o crime pelo qual o recorrente foi condenado ocorreu em outra comarca.
+2. O acusado se defende dos fatos a ele imputados e não da qualificação jurídica definida na denúncia, a qual poderá, inclusive, ser revista pelo julgador (emendatio libelli), desde que não haja alteração da narrativa fática dada pelo órgão acusador, nos termos do art. 383 do Código de Processo Penal.
+3. "Ainda que desapareça a causa que atraiu a competência para determinado órgão jurisdicional, a regra da perpetuatio jurisdictionis (CPP, art. 81) impõe ao magistrado a continuidade no julgamento da causa, aproveitando-se a instrução criminal realizada, de modo a possibilitar um trilhar menos oneroso às partes e ao Estado - sem, obviamente, olvidar os direitos individuais do acusado - atendendo-se, assim, aos princípios da economia processual e da identidade física do juiz." (HC 217.363/SC, Rel. Ministro CAMPOS MARQUES (Desembargador convocado do TJPR), QUINTA TURMA, DJe 7/6/2013).
+4. Recurso não provido.
+(RHC 58.987/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 1º/8/2018).
+Portanto, inexiste constrangimento ilegal apto a modificar a competência, como quer a defesa.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
