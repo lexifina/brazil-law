@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado, em favor de ENRIQUE FRANCISCO CAPELLA,contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no Agravo de Execução Penal n.0008166-56.2021.8.26.0496.
+Consta dos autos que oJuízo das Execuções indeferiu ao paciente a progressão de regime prisional.Irresignada, a defesa interpôs agravo noTribunal de origem, que negou provimento ao recurso,em julgamento assim resumido:
+"AGRAVO EM EXECUÇÃO PENAL - INDEFERIMENTO DE PEDIDO DE PROGRESSÃO AO REGIME PRISIONAL SEMIABERTO - Manutenção - Necessidade - Ausência de preenchimento do requisito subjetivo - Exame criminológico que apresenta aspectos desfavoráveis - AGRAVO DESPROVIDO."(fl. 134)
+No presente writ, a impetrantealega o preenchimento dos requisitos necessários para progressão de regime, sendo, assim, desnecessária a realização do exame criminológico. Assevera que as razões trazidas nas decisões das instâncias ordinárias são genéricas e estão pautadas, unicamente, na gravidade abstrata do delito, o que estaria em desacordo com a súmula n. 439 desta Corte.
+Aponta, ainda, o atestado de bom comportamento carcerário, bem como a ausência da prática de falta grave.
+Pugna, destarte, em liminar e no mérito, o afastamento da realização do exame criminológico, bem como, a concessão da progressão do regime semiaberto.
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, casoconstatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.Isso porque, conforme consignado na origem:
+"De fato, no caso em apreço, não vislumbro o preenchimento do requisito subjetivo, diante do resultado do exame psicológico, que apresentou pontos desfavoráveis, conforme bem fundamentado pelo douto Magistrado. Com efeito, a análise do relatório psicológico atestou que o sentenciado "(..) demonstrou pouca consciência dos danos causados em outras pessoas e a seu próprio ser. No contexto prisional denota agir com certa adequação diante e situações que causam frustração e apresenta bom comportamento nesta instituição. Em relação ao delito cometido não apresenta crítica satisfatória. Sem elementos de convicção para elucubrar sobre possíveis indícios de reincidência. No momento os valores internos do sentenciado não demonstram estabilidades..". Também, na conclusão do relatório psicológico, constou que o sentenciado "no momento não revela capacidade de estabelecer relações entre causa e efeito, não apresenta sentimento de remorso.."(fls.21)." (fl. 85)
+Para se desconstituir a conclusão a que chegou as instâncias ordinárias, sobre o não preenchimento do requisito subjetivo, é necessário o exame aprofundado do conjunto fático-probatório, inviável em habeas corpus.A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO AUSENTE. DECISÃO FUNDAMENTADA. EXAME CRIMINOLÓGICO DESFAVORÁVEL. ALTERAÇÃO DE ENTENDIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIA. VIA IMPRÓPRIA. AGRAVO NÃO PROVIDO.
+1. Não se constata constrangimento ilegal no indeferimento do pedido, na medida em que o Tribunal de origem entendeu que o caso em questão requer cautela, diante do exame criminológico desfavorável à pretendida progressão do apenado, não preenchendo assim o requisito subjetivo.
+2. O "atestado de boa conduta carcerária não assegura o livramento condicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena" (AgRg no HC 572.409/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 2/6/2020, DJe 10/6/2020).
+3. Para alterar a decisão, nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, sendo isso um procedimento incompatível com a estreita via do writ.
+4. Agravo regimental desprovido.
+(AgRg no HC 644.491/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 08/03/2021).
+Ante o exposto, com fulcro no art. 34, XX, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
