@@ -1,0 +1,14 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especialmanejado pelaCOMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE contra decisão que inadmitiu o recurso especial interposto em oposição a acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIROassim ementado (e-STJ, fl. 694):
+Apelação. Consumidor. Ação de obrigação de fazer c/c indenizatória fundada em falha na prestação do serviço de fornecimento de água consistente na aplicação indevida da tarifa mínima multiplicada pelo número de unidades autônomas (economias). Laudo conclusivo.
+Aplicação do REsp 1.166.561/RJ, representativo de controvérsia. Ilegalidade da cobrança da tarifa de fornecimento de água, no valor referente ao consumo mínimo multiplicado pelo número de unidades existentes no imóvel, quando houver um único hidrômetro no local.
+Medição que deve ser feita pelo consumo real aferido.
+Comprovada parceria na divisão das atividades de esgotamento sanitário e abastecimento de água entre as demandadas, sendo o faturamento pelo serviço respectivo repassado de uma para outra. Restituição dos valores que deve ser feita de forma solidária pelas rés a partir de maio de 2012, e exclusivamente pela primeira ré, até abril de 2012, respeitando-se a prescrição decenal, devendo o valor apurado ser acrescido de atualização monetária e de juros de mora a contar de cada desembolso. Reforma parcial da sentença.
+RECURSO PARCIALMENTE PROVIDO.
+É o relatório.
+A Primeira Seção desta Corte, nos autos dosREsps n. 1.937.887/RJ e 1.937.891/RJ, propôs a revisão da tese firmada no Tema Repetitivo n. 414/STJ - forma de cálculo da tarifa progressiva dos serviços de fornecimento de água e de esgoto sanitário em unidades compostas por várias economias e hidrômetro único, após a aferição do consumo - questão jurídica tratada no presente recurso.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
