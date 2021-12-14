@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DRIANA ANTONUCCI SILVEIRA GOUVEIA e outra, com fundamento no art. 1.022 do novo CPC, à decisão monocrática desta relatoria de fls. 1.173-1.179 (e-STJ), que conheceu do agravo para conhecer parcialmente dorecurso especial, entretanto, na extensão conhecida, negou-lhe provimento.
+Defendem ter havido omissões na decisão embargada, quais sejam: carência de análise acerca da completude daprestação jurisprudencial (ausência de debate no acórdãoa respeito de tópico contido em preliminar de apelação); apreciação no decisumora embargadosobre o reconhecimento da Cetesb,em 27/9/2019, a respeito da restrição de uso de águas subterrâneas por toda a área do empreendimento, em razão de contaminação, e no tocante à desvalorização da propriedade. Pleiteiam o acolhimento destes embargos de declaração(e-STJ, fls. 1.181-1.192).
+Contraminutaapresentada pleiteando a manutenção da decisão questionada e a aplicação de multa (e-STJ, fls. 1.195-1.200).
+Brevemente relatado, decido.
+Não há nenhuma omissão ou mesmo contradição a serem sanadas no julgado ora embargado, portanto inexistentes os requisitos para cabimento destes embargos declaratórios, nos termos do art. 1.022 do novo CPC.
+A decisão desta relatoria dirimiu a controvérsia com base em fundamentação sólida, tendo apenas resolvido a celeuma em sentido contrário ao postulado pelos insurgentes. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Estão claras as circunstâncias que ensejaram a inviabilidade de acolhimento das teses suscitadas no recurso especial. Demonstrou-se não haver vícios no julgamento da segunda instância, que teria analisado todas as questões relevantes para a solução da demanda e externado fundamentação suficiente e precisa.
+Demonstrou-se que debater a necessidade de dilação probatória esbarraria no texto da Súmula 7/STJ.Também com suporte nesse verbete sumular, pontuou-se que as embargantes já tinham ciência das limitações existentes sobre a propriedade, razão por que seriam incabíveis as vindicadas condenações por danos morais e materiais.
+No mais, demonstrou-se quea restrição na matrícula do imóvel não causou depreciação no valor dessebem adquirido pelas insurgentes, fundamento do julgado que não teria sido adequadamente atacado no apelo especial (Súmula 283/STF); e justificou-se que o registro de restrição ao uso de imóvel no cartório imobiliário operaria efeitos erga onnes e que, portanto, não se poderia falar em seu desconhecimento pelas partes (Súmula 83/STJ).
+Destarte, como o julgado está devidamente fundamentado, não é caso de cabimento destes embargos de declaração. O que se busca, em verdade, é a concessão de efeitos infringentes, sem os vícios a ampará-los.
+Veja-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. CONFLITO NEGATIVO ENTRE OS JUÍZOS FEDERAL E ESTADUAL. AÇÃO ORDINÁRIA OBJETIVANDO DECLARAÇÃO DE VALIDADE DE DIPLOMA DE CURSO SUPERIOR C/C INDENIZAÇÃO POR DANOS MORAIS.INSTITUIÇÃO DE ENSINO PRIVADA. AUSÊNCIA DE INTERESSE DA UNIÃO A JUSTIFICAR A COMPETÊNCIA DA JUSTIÇA FEDERAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS.IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no CC 177.015/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 18/08/2021, DJe 20/08/2021)
+Não se verifica, por hora, a existência de má-fé ou intuito meramente protelatório com o manejo destes aclaratórios, portanto não cabe a pretendida penalidade (multa).
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO OU CONTRADIÇÃO NÃO VERIFICADAS. DECISÃO EMBARGADA DEVIDAMENTE FUNDAMENTADA. CONCLUSÃO AMPARADA NAS SÚMULAS7 E 83/STJ E 283/STF. INVIABILIDADE DE CABIMENTO DO RECURSO DO ART. 1.022 DO NOVO CPC. EMBARGOS DE DECLARAÇÃO REJEITADOS.
