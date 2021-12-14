@@ -1,0 +1,22 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+JAILTON FONTES GRAMA agrava da decisão de fls. 529-531, que não proveu seu agravo.
+O insurgente explica que "o conhecimento do recurso especial interposto não depende de revolvimento de matéria fática", pois alegou "nulidade da decretação da revelia, eis que  ..  estava preso em outra unidade da federação, não tendo sido requisitado ou apresentado". Assim, "não é possível aplicar o ar. 367 do Código de Processo Penal, devendo a audiência de instrução e julgamento ser redesignada" (fl. 537).
+Requer, por isso, a reforma do julgado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 7 DO STJ. PRETENSÃO DE EXAME DE PROVAS NÃO DELINEADAS NO ARESTO RECORRIDO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Paraacolher a tese do recurso especial, de nulidade do processo, seria necessárioaveriguar, de forma inédita, circunstância fática não admitidapelas instâncias ordinárias, o que não se admite no âmbito superior, a teor da Súmula n. 7 do STJ. A pretensão não é de revaloração, mas de exame de provas não delineadas no aresto recorrido.
+2. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+O réu, condenado por receptação, alega que o recurso especial preenche os requisitos para ser processado e que é equivocada a aplicação da Súmula n. 7 do STJ para obstar o seu conhecimento. Reitera a assertiva de violação do art. 564, IV, do CPP, visto que não participou da audiência de instrução por estar preso em outro Estado. Afirma que sua revelia foi declarada de forma equivocada e é garantida ao acusado a presença nos atos instrutórios, como decorrência direta do princípio da ampla defesa. Requer seja declarada a nulidade processual, determinando-se designação deaudiência de instrução e julgamento.
+Está correta aincidência da Súmula n. 7 do STJ.
+O réu explica que na data da audiência de instrução e julgamento (26/6/2020)ele estava custodiado em outro Estado e deixou de ser apresentado, por falha estatal, para participar do ato, o que causou prejuízo à sua defesa. Ainda, apesar de responder em liberdade a ação penal, alega que foi equivocada a declaração da revelia.
+A circunstância fática aventada pelo agravante (custódia em outro Estado) não foi reconhecido pelo Juiz ou pelo Tribunal de origem e não está delineada no aresto recorrido. Confira-se (fls. 451-452, destaquei):
+Jailton teve concedida liberdade provisória mediante fiança. Foi citado por edital, visto que não foi encontrado no endereço fornecido. Assim, o feito foi suspenso nos termos do artigo 366 do Código de Processo Penal, sem prejuízo da decretação da prisão preventiva. Com a prisão do acusado foi ele citado pessoalmente e solto por este processo, mas permaneceu custodiado na cidade de Aracajú, Estado de Sergipe, por força de outro processo criminal.
+Foi encaminhada carta precatória para o interrogatório de Jailton, o que não foi possível, visto que, afinal solto, Jailton se encontrava então em local desconhecido. Restaram efetuadas várias diligências e o acusado não foi localizado, sendo a última tentativa no local em que estivera preso e foi liberado, mais precisamente na cidade de Socorro, Estado de Sergipe.
+Assim, ante a resposta da carta precatória, o Ministério Público, requereu a decretação da revelia, nos termos do artigo 367 do Código de Processo Penal. Logo, não há que se falar em nulidade assim como pleiteia a Defesa, tendo em vista que, na verdade, Jailton estava afinal solto e, em face da presente investigação, encontrava-se inicialmente em liberdade provisória mediante fiança.
+Assim, não há prova delineada no aresto recorrido que permita o reconhecimento danulidade processual. Para acolher as alegações do agravante seria necessário, antes, determinar e examinar provas para dirimir fato não reconhecido pelas instâncias ordinárias, o que não é cabível no âmbito superior. Não se identifica pretensão de mera revaloração legal de dados reconhecidos pelo Tribunal, à luz da jurisprudência desta Corte.
+À vista do exposto, nego provimento ao agravo regimental.
