@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por ODONTO SUL LTDA. - EPPcom fundamento no art. 105, inciso III, alínea "a", da CF/1988contra acórdão do TRF da 4ª Região assim ementado (e-STJ fl. 2.665):
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO FISCAL.MASSA FALIDA. DOCUMENTOS. FALIDA. CITAÇÃO. EXIBIÇÃO.IMPOSSIBILIDADE.
+Não cabe ao juízo dos embargos à execução opostos pela massa falida determinar a citação da falida para exibir documentos, pois o administrador judicial tem a atribuição de arrecadá-los, devendo ser postuladas ao juízo da falência as medidas necessárias ao seu cumprimento, conforme art. 108 da Lei nº 11.101, de 2005.
+No especial, a parte alega, em síntese, violação do art. 401 do CPC, ao argumento de que " n ão há motivos para não se determinar a apresentação dos documentos nestes autos, mesmo a alegação de que isto poderia ser requerido na falência" (e-STJ fl. 2.678); e que o requerimento no processo falimentar é possível, mas fazê-lo lá faria com que o prazo neste processo transcorresse provavelmente sem cumprimento, perdendo a massa falida o direito da produção da prova e prejudicando os credores.
+Contrarrazões apresentadas às e-STJ fls. 2.686/2.688.
+O recurso especial foi admitido na origem (e-STJ fl. 2.691).
+Passo a decidir.
+Considerado isso, importa mencionar que o recurso especial se origina de agravo de instrumento interposto por ODONTO SUL LTDA. - EPP contra decisão judicial que, nos autos de embargos à execução fiscal, indeferiu o pedido de citação da massa falida para juntar documentos necessários ao processo.
+O Tribunal de origem negou provimento ao agravo de instrumento.Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 2.663/2.664):
+Pelo que se vê dos autos, na decisão do evento 3 do processo originário o juiz determinou a intimação da parte embargante para especificar e comprovar documentalmente (tais documentos devem ser juntados aos autos e não apenas apresentados a eventual perito judicial - "quod non est in actis non est in mundo") sobre quais competências incidiu o ICMS da base de cálculo da COFINS e das contribuiçõesprevidenciárias patronais. Em resposta, a parte embargante alegou não estar na posse dos documentos necessários ao cumprimento da determinação judicial, os quais estariam com a falida, que deveria ser citada para apresentá-los, o que foi indeferido pela decisão agravada, pelo motivo antes indicado.
+Ora, ao administrador judicial na falência compete zelar pelos interesses da massa falida, praticando todos os atos conservatórios de direitos e ações e inclusive arrecadar os bens e documentos do falido (cf. art. 22 da Lei nº 11.101, de 2005). Ainda, o art. 108 da Lei nº 11.101, de 2005, estabelece que pode o administrador judicial requerer ao juiz as medidas necessárias para a arrecadação de documentos.
+Como a parte agravante indica que o administrador judicial não cumpriu com essas tarefas, deve postular as medidas necessárias ao cumprimento no juízo da falência, não havendo motivo para alterar a decisão agravada que concluiu ser indevida a citação do falido para apresentar documentos necessários à conservação de direitos da massa.
+Não foram apresentadosembargos de declaração.
+Pois bem.
+Não é possível conhecer do recurso especial quando o artigo de lei apontado como violado nas razões do apelo não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, o que atrai a aplicação, por analogia, da Súmula 284 do STF - "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Sobre a questão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.  ..  DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284/STF.  ..  AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF  ..
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal  ..
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.656.968/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 06/06/2017, DJe 16/06/2017).
+Esse é o caso dos autos, porquanto o art. 401 do CPC não possui comando normativo capaz de afastar o fundamento adotado pelo Tribunal de origem, segundo o qual o cumprimento da determinação constante no art. 104, inciso V,da Lei n. 11.101/2005 - obrigação de entregar documentos -, pelo representante legal do falido, deve ser postulado junto ao juízo falimentar, competente para tal.
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial origina-se de agravo de instrumento.
+Publique-se. Intimem-se.
