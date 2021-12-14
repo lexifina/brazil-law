@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo Federal da 4ª Vara Criminal de Foz do Iguaçu/SJPRem face do Juízo de Direito da Vara de Execuções Penais e Corregedoria dos Presídios de Cascavel/PR, versando sobre a definição do foro competente para a execução de pena de multa cumulativamente imposta a pena privativa de liberdade, substituída por penas restritivas de direito.
+O Juízo suscitante entende que a cobrança da pena de multa imposta na condenação compete ao mesmo Juízo que executa a pena restritiva de direito, asseverando a racionalidade de existir uma execução penal única para cada apenado; sustenta que a negativa do Juízo Estadual contraria recente orientação jurisprudencial dos Tribunais Superiores.
+O Juízo suscitado afirma que a pena de multa deve executada no próprio juízo da condenação, ou seja, o prolator da sentença penal.
+O Ministério Público Federal considera assistir razão ao juízo suscitante, já que compete ao juízo estadual a execução da pena de multa imposta pela Justiça Federal, cumulativamente imposta com penas restritivas de direitos executadas por aquele.
+É o relatório.
+Conheço do conflito, uma vez que os juízos que suscitam a incompetência estão vinculados a Tribunais diversos, o que atrai a competência originária do Superior Tribunal de Justiça, consoante o disposto no art. 105, inciso I, alínea "d", da Constituição Federal.
+A execução da pena de multa aplicada cumulativamente com pena restritiva de direito compete ao Juízo das Execuções Penais, de maneira a se prestigiar a unidade da execução penal. Este o entendimento consolidado no STJ(CC 168.815/PR, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 10/06/2020, DJe 16/06/2020).
+Registro, ainda, que os valores recolhidos por força de condenações derivadas da Justiça Comum, seja ela Estadual ou Federal, têm o mesmo destino, tal seja, o Fundo Penitenciário Nacional (nos termos do art. 2º, inciso V, da Lei Complementar nº 79/1994), não interferindo, portanto, na fixação da competência.
+Com essas considerações, acolhendo o parecer ministerial, conheço do conflito para declarar competente o Juízo de Direito da Vara de Execuções Penais e Corregedoria dos Presídios de Cascavel/PR, o suscitado.
+Dê-se ciência aos Juízos suscitante e suscitado.
+Vistas ao MPF. Nada mais havendo, ao arquivo
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZES VINCULADOS A TRIBUNAIS DIVERSOS. COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA PARA SOLUÇÃO DO CONFLITO. EXECUÇÃO DE PENA DE MULTA APLICADA CUMULATIVAMENTE COM PENA PRIVATIVA DE LIBERDADE, SUBSTITUÍDA POR PENAS RESTRITIVAS DE DIREITOS. NATUREZA PENAL SANCIONATÓRIA DA MULTA. UNICIDADE DA EXECUÇÃO PENAL. VALORES DESTINADOS AO FUNDO PENITENCIÁRIO NACIONAL. AUSÊNCIA DE INTERESSE ESPECÍFICO DA UNIÃO. COMPETÊNCIA DO JUÍZO ESTADUAL.
+1. O Superior Tribunal de Justiça é competente para o julgamento de conflito entre Juízos vinculados a Tribunais diversos, a teor do disposto no art. 105, inciso I, alínea "d", da Constituição Federal.
+2. A execução da pena de multa aplicada cumulativamente com pena privativa de liberdade compete ao Juízo das Execuções Penais, prestigiando-se a unidade da execução penal.
+3. Os valores recolhidos por força de condenações derivadas da Justiça Comum Estadual e da Justiça Comum Federal têm o mesmo destino, o Fundo Penitenciário Nacional, nos termos do art. 2º, inciso V, da Lei Complementar nº 79/1994, não interferindo, portanto, na fixação da competência.
+4. Conflito conhecido para declarar competente o Juízo de Direito da Vara de Execuções Penais e Corregedoria dos Presídios de Cascavel/PR.
