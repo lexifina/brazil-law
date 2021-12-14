@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+ALEX ROQUE ARSEGOinterpõe agravo regimental contra decisão doPresidente do STJque não conheceu do agravo em recurso especial com base na aplicação, por analogia, da Súmula n. 182 do STJ.
+Sustentaque a decisão não deve prevalecer uma vez que apresentou tópico com o fito exclusivo de atacar a aplicabilidade do óbice levantado quanto a não incidência da Súmula n. 83 do STJ, relativamente ao tema da substituição da pena corporal por restritivas de direitos.
+Afirma que (fls. 518-519):
+É importante ressaltar que a impugnação específica prescindiria da citação direta ao artigo art. 44, § 2º, do CP, quando a essência deste pode ser claramente encontrada na argumentação apresentada.
+De toda forma, foi explicitamente debatido o assunto e, logo após, feito o cotejo analítico de seu conteúdo e os julgados utilizados para demonstrar a existência de entendimento do STJ no sentido de que deve haver motivação idônea para o afastamento da substituição da pena privativa de liberdade por restritivas de direitos, sendo que foram citados os julgados AgRg no HC 353.512/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 30/06/2016, DJe 03/08/2016 e HC 334.986/SP, Rel. Ministro JORGEMUSSI, QUINTA TURMA, julgado em 03/03/2016, DJe 16/03/2016, para demonstrar que a existência da circunstância judicial maus antecedentes por si só não pode afastar o referido benefício.
+Requero provimento do presente agravocom sua análise pela Turma paraconhecimento e provimento do recurso especial.
+O Ministério Público do Estado de Santa Catarina pleiteia"o conhecimento do agravo regimental interposto, mantendo-se, todavia, a decisão que admitiu o recurso especial pelo óbice da Súmula n. 83 do STJ" (fl. 541).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE FURTO MAJORADO. DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 83 DO STJ. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANUTENÇÃO DA SÚMULA N. 182 DO STJ. DECISÃO MANTIDA.AGRAVO REGIMENTAL DESPROVIDO.
+1. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+2. Para impugnar a incidência da Súmula n. 83 do STJ, o agravante devedemonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar queoutro é o entendimento jurisprudencial do STJ.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+Consta da decisão que inadmitiu o processamento do recurso especial, proferida no Tribunal de origem, a aplicação da Súmulan.83 do STJ relativamente aos temas dos arts. 2º, parágrafo único,e 28-A do Código de Processo Penal (possibilidade de oferta de acordo de não persecução penal) e44, § 2º, do Código Penal (substituição da pena restritiva de liberdade por restritiva de direitos).
+Diante de tal panorama, constatando-se que não foiimpugnada, especificamente, a incidência da Súmula n. 83 do STJ relativamente à pretendida substituição da pena corporal por restritiva de direitos, e considerando-se o que dispõem os arts. 932, III, do Código de Processo Civil e 253, parágrafo único, I, do Regimento Interno do STJ, concluiu-sepelo não conhecimento do agravo em recurso especial. Consequentemente, aplicou-se ao caso o comando da Súmula n. 182 do STJ, com o que discorda o agravante.
+Entretanto, diante das razões do agravo em recurso especial, observa-se realmente que não houve impugnação específica da incidência da já mencionada Súmula n. 83 do STJ.
+Arefutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgRg no AREsp n. 1.708.623/SE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 31/8/2020; e AgRg no AREsp n. 1.373.929/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/2/2019), o que não ocorreu na espécie.
+Ressalte-se que a alegaçãoapresentadano agravo em recurso especial quanto ao mérito e com arrimo em jurisprudência antiganão constitui impugnação específica e efetiva da aplicação da Súmula n. 83 do STJ, principalmente se considerada a jurisprudência ali colacionada a respeito da matéria de mérito.
+Até porque, paraimpugnar a incidência dessa súmula, deve a parte demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que é outro o entendimento jurisprudencial do STJ. Nesse mesmo sentido: AgRg no AREsp n. 1.620.996/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 4/5/2020; e AgRg no AREsp n. 1.553.028/RJ, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 28/10/2019.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Dessa forma, não tendo a parte agravanteapresentado argumentos suficientes para modificação do decisum agravado, mantenho-o por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
