@@ -1,0 +1,19 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+GEORGE MICHAEL SIQUEIRA agrava da decisão de fls. 973-974. Busca a detração do período em que esteve sob a cautelar demonitoração eletrônica, de 28/8/2015 até o dia 30/10/2019, sem intervalo de permanência obrigatória em domicílio.Explica que "não esteve foragido, apenas realizava tratamentos para se ver livre de dependência química" (fl. 7).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MONITORAÇÃO ELETRÔNICA SEM INTERVALO DE PERMANÊNCIA EM DOMICÍLIO. DETRAÇÃO PENAL. IMPOSSIBILIDADE. FALTA DE PREVISÃO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante entendimento majoritário desta Corte, a medida diversa da prisão que impede o acautelado de sair de casa após o anoitecer e em dias não úteis assemelha-se ao cumprimento de pena em regime prisional semiaberto. Por isso, o tempo de permanência obrigatório em domicílio deve ser computado para fins de detração penal.
+2. Não se aplica, à hipótese, a mesma ratio decidendi adotada pela Terceira Seção, pois o agravante foi beneficiado com a liberdade provisória sob monitoração eletrônica, sem intervalo algum de recolhimento domiciliar compulsório. À míngua de previsão legal, o período relacionado à cautelar do art. 319, IX, do CPP não pode ser abatido das penas a ele impostas.
+3. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+O paciente foi condenado a 1 ano de reclusão em regime aberto, pena esta substituída por restritiva de direitos. Posteriormente, sobreveio outra condenação, a 2 anos de reclusão, em regime aberto,também alterada paraduas restritivas de direitos. Por fim, adveio aos autos da execução nova sentença, desta veza6 anos de reclusão.
+Insta destacar que, com a ressalva de meu entendimento pessoal sobre o tema, prevalece no âmbito da Terceira Seção a compreensão de que "a medida diversa da prisão que impede o acautelado de sair de casa após o anoitecer e em dias não úteis assemelha-se ao cumprimento de pena em regime prisional semiaberto" (HC n. 455.097/PR, Rel. Ministra Laurita Vaz, 3ª S., DJe 7/6/2021, destaquei) e, portanto, deve ser reconhecida como pena efetivamente cumprida para fins de detração do art. 42 do CP.
+Prevaleceu o entendimento deque "o tempo a ser computado como pena cumprida, para fins de detração penal, limita-se aos intervalos em que o constrito permaneceu obrigatoriamente recolhido em seu domicílio. Os períodos em que lhe foi permitido sair, ou em que se encontrava voluntariamente em casa, não devem ser descontados" (AgRg no HC 652.810/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 24/9/2021).
+Na hipótese, contudo, não se aplica a mesma ratio decidendi adotada pela Terceira Seção no julgamento do HC n. 455.097/PR, pois o agravantenão estava submetido a recolhimento domiciliar compulsório e não sofreu evidente restrição ao seu status libertatis.
+O insurgente "permaneceu em liberdade provisória sob a aplicação de  ..  cautelar diversa da prisão, consistente em monitoração eletrônica" (fl. 22). O acórdão destaca sua fuga "por longo tempo  .. " (fl. 926), vez que desrespeitou os limites geográficos da medida.
+Mesmo com o uso da tornozeleira eletrônica, o denunciado dispôs da mesma autodeterminação de uma pessoa livre, pois não houvefiscalização de intervalo de permanência obrigatória em domicílio. Assim, à míngua de previsão legal, o período relacionado à providência do art. 319, IX, do CPP, não pode ser objeto de detração penal.
+À vista do exposto, nego provimento ao agravo regimental.
