@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por Maria de Fátima de Sousa - Supermercadodesafiando decisão do Tribunal de Justiça do Estado de Goiás que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, manejado, por sua vez, contraacórdão assim ementado (e-STJ, fl. 416):
+AGRAVO INTERNO. APELAÇÃO CÍVEL. VALIDADE DO ATO PROCESSUALPRATICADO DURANTE A SUSPENSÃO DOS PRAZOS POR FORÇA DO DECRETOJUDICIÁRIO 632/2020. RETOMADA. DECRETO JUDICIÁRIO 866/2020. INOBSERVÂNCIA. INTEMPESTIVIDADE CONFI-GURADA. AUSÊNCIA DE FATOSNOVOS. MANUTENÇÃO DO DECISUM.
+I - Como consignado no ato objurgado, o que se verifica é o inconformismo da ora agravante com o não conhecimento do recurso de apelação, eis que o período de suspensão dos prazos processuais não impede que juízes, servidores e secretarias efetuem seu trabalho e que, consequentemente, sejam efetivadas as publicações. Assim, o sobrestamento dos prazos não afeta o expediente interno. Precedentes do STJ e do TJGO.
+II - Diante da inexistência de motivo plausível para a reforma, vez que ausentes novos elementos capazes de modificar a convicção inicial do relator, visando o recurso, apenas, o reexame de matéria já decida, deve ser mantido o decisum combatido.
+AGRAVO INTERNO CONHECIDO, MAS DESPROVIDO.
+Nas razões do recurso especial, a agravante alegou ofensa aoart. 224, § 3º, do CPC de 2015.
+Enfatizoua tempestividade da apelação sustentando que (e-STJ, fl. 430):
+O dia 31/03/2020 foi apenas a data da intimação eletrônica. Esta intimação foi publicada no dia 05/05/2020, vez que os prazos estavam suspensos entre os dias 19/03/2020 a 30/04/2020 e o primeiro dia útil após esta suspensão foi dia 04/05/2020.
+Portanto, tendo em vista que a intimação é publicada no Diário Eletrônico nos 2 (dois) dias úteis subsequentes a intimação eletrônica, conforme informado no sistema PROJUDI/GO, e que o primeiro dia útil no presente caso a ser contabilizado após a retomada dos prazos foi dia 04/05/2020, deve-se considerar como data de publicação dia 05/05/2020.
+Assim, o prazo final para a interposição do apelo encerrou-se na data de 26/05/2020, data esta na qual a apelação foi interposta (evento 53).
+Foram apresentadas contrarrazões (e-STJ, fls. 444-451).
+O Tribunal local inadmitiu o processamento do recurso especial pela incidência daSúmulan.7 do STJ.
+Irresignada, a recorrenteinterpõe agravo refutando oóbiceapontadopela Corte estadual.
+Contraminuta às fls. 481-486 (e-STJ).
+Brevemente relatado, decido.
+A jurisprudência deste Tribunal Superior era no sentido de que, havendo intimação eletrônica e publicação da decisão recorrida no Diário de Justiça Eletrônico, prevaleceria essa última para fins de contagem do prazo recursal (AgInt nos EDcl no REsp 1.849.284/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 19/4/2021, DJe 23/4/2021).
+Entretanto, em recente julgamento, a Corte Especial do Superior Tribunal de Justiça voltou a examinar a questão da duplicidade de intimações.O entendimento que agora prevalece é o de que a intimação feita no portal eletrônico dos tribunais prepondera sobre a publicação no Diário da Justiça eletrônico.O precedente em questão é o EAREsp 1.663.952/RJ, derelatoria do Ministro Raul Araújo, publicado em 9/6/2021.
+Confira-se, a propósito, a ementa do julgado:
+DIREITO PROCESSUAL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSO JUDICIAL ELETRÔNICO. DUPLICIDADE DE INTIMAÇÕES: PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO E POR PORTAL ELETRÔNICO (LEI 11.419/2006, ARTS. 4º E 5º). PREVALÊNCIA DA INTIMAÇÃO PELO PORTAL ELETRÔNICO. RECURSO CONHECIDO E PROVIDO.
+1. A Lei 11.419/2006 - Lei do Processo Judicial Eletrônico - prevê dois tipos de intimações criados para atender à evolução do sistema de informatização dos processos judiciais. A primeira intimação, tratada no art. 4º, de caráter geral, é realizada por publicação no Diário da Justiça Eletrônico; e a segunda, referida no art. 5º, de índole especial, é feita pelo Portal Eletrônico, no qual os advogados previamente se cadastram nos sistemas eletrônicos dos Tribunais para receber a comunicação dos atos processuais.
+2. Embora não haja antinomia entre as duas formas de intimação previstas na Lei, ambas aptas a ensejar a válida intimação das partes e de seus advogados, não se pode perder de vista que, caso aconteçam em duplicidade e em diferentes datas, deve ser garantida aos intimados a previsibilidade e segurança objetivas acerca de qual delas deve prevalecer, evitando-se confusão e incerteza na contagem dos prazos processuais peremptórios.
+3. Assim, há de prevalecer a intimação prevista no art. 5º da Lei do Processo Eletrônico, à qual o § 6º do art. 5º atribui status de intimação pessoal, por ser forma especial sobre a genérica, privilegiando-se a boa-fé processual e a confiança dos operadores jurídicos nos sistemas informatizados de processo eletrônico, bem como garantindo-se a credibilidade e eficiência desses sistemas.
+Caso preponderasse a intimação por forma geral sobre a de feitio especial, quando aquela fosse primeiramente publicada, é evidente que o advogado cadastrado perderia o prazo para falar nos autos ou praticar o ato, pois, confiando no sistema, aguardaria aquela intimação específica posterior.
+4. Embargos de divergência conhecidos e providos, afastando-se a intempestividade do recurso especial.
+(EAREsp 1.663.952/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 19/5/2021, DJe 9/6/2021).
+No caso dos autos, oentendimento adotado pelo Tribunal local, ao apreciar a tempestividade da apelação interposta, não destoa do atual posicionamento desta Corte Superior sobre o tema acima referido.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PROCESSO JUDICIAL ELETRÔNICO. DUPLICIDADE DE INTIMAÇÕES: PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO E POR PORTAL ELETRÔNICO (LEI 11.419/2006, ARTS. 4º E 5º). PREVALÊNCIA DA INTIMAÇÃO PELO PORTAL ELETRÔNICO. ENTENDIMENTO ADOTADO PELA CORTE ESPECIAL DESTE TRIBUNAL SUPERIOR NO JULGAMENTO DO EARESP N. 1.663.952/RJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
