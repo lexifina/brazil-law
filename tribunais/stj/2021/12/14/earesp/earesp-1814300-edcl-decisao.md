@@ -1,0 +1,38 @@
+DECISÃO
+LUCIO PAULO DE ARAÚJO AZEREDO e outra (LUCIO e outra) ajuizaram ação de usucapião em desfavor de UP GRANDE COLORADO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (UP), alegando terem adquirido o imóvel por contrato particular de compra e venda entabulado com MAURO ASSUNÇÃO DE CAMARGO e sua esposa, exercendo posse mansa e pacífica do bem há mais de vinte anos.
+Citada, UP ofereceu reconvenção, requerendo sua imissão na posse, tendo em vista a propriedade do bem. Alternativamente, requereu que fosse ressarcida pelos custos e ônus para regularização da área.
+Em primeira instância, o pedido principal foi julgado improcedente e o pedido reconvencional foi julgado procedente, para determinar a imissão de UP na posse do imóvel. Ainda, LUCIO e outra e UP foram condenados ao pagamento das custas processuais e honorários advocatícios, estes fixados em R$ 15.000,00 (quinze mil reais), a serem suportados na proporção de 50% por cada polo processual (e-STJ, fls. 695/702).
+Opostos embargos de declaração por LUCIO e outra, foram rejeitados (e-STJ, fl. 716).
+As apelações interpostas por LUCIO e outra e por UP não foram providas pelo TJ/DF nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO. PRELIMINAR DE NULIDADE POR FALTA DE MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO NO 1º GRAU. PRELIMINAR REJEITADA. DEMANDA ENTRE PESSOA JURÍDICA DE DIREITO PRIVADO E PESSOAS FÍSICAS, MAIORES E CAPAZES. TERRENO LOCALIZADO EM CONDOMÍNIO IRREGULAR. NECESSIDADE DE PRÉVIA REGULARIZAÇÃO DA ÁREA DO CONDOMÍNIO, MEDIANTE O CUMPRIMENTO DE NORMAS AMBIENTAIS, URBANÍSTICAS E DE PARCELAMENTO. TRANSCURSO DO PRAZO ESTABELECIDO NO ART. 1.238 DO CC PARA A AQUISIÇÃO PELA USUCAPIÃO COMEÇA DA INDIVIDUALIZAÇÃO DO LOTE. RECURSO DA PARTE AUTORA CONHECIDO, PRELIMINAR REJEITADA E, NO MÉRITO, DESPROVIDO. RECURSO DA PARTE RÉ CONHECIDO E DESPROVIDO.
+1. Não há que se falar em nulidade da sentença por ausência de intervenção do Ministério Público, uma vez que o Parquet se manifestou no sentido de que não há interesse que justifique a sua intervenção. Preliminar rejeitada
+2. Os direitos derivados do loteamento do solo urbano somente podem ser exercidos em sua plenitude se o loteamento for constituído conforme as diretrizes estabelecidas na Lei 6.766/79, a qual requer o cumprimento de exigências urbanísticas e ambientais, fixadas pela Administração Pública, com base na legislação sobre o assunto, conforme se infere dos artigos 10, 11 e 12 da referida Lei.
+3. In casu, não houve o transcurso do prazo estabelecido no art. 1.238 do CC para a aquisição pela usucapião, vez que o Condomínio foi inicialmente implantado como loteamento irregular, porém foi regularizado somente em 6/10/2016, sendo que a pretensão para usucapir o referido imóvel começa desta data.
+4. Não havendo provas para a imputação de má-fé ao caso, deve-se reconhecer a boa-fé do ocupante do imóvel, pois o loteamento foi efetivado há anos por pessoa que afirmou ser a titular dos direitos sobre o bem.
+5. É de notório conhecimento que o problema da irregularidade urbana ocorreu em todo o Brasil e principalmente no Distrito Federal pela falta de uma política responsável de produção de lotes regulares, para todas as camadas sociais.
+6. O possuidor de boa-fé tem direito à indenização de todas as benfeitorias realizadas, nos termos do artigo 1.255 do Código Civil a ser apurado em liquidação por arbitramento, in verbis: "Aquele que semeia, planta ou edifiica em terreno alheio perde, em proveito do proprietário, as sementes, plantas e construções; se procedeu de boa-fé, terá direito a indenização".
+7. RECURSO DA PARTE AUTORA CONHECIDO, PRELIMINAR REJEITADA E, NO MÉRITO, DESPROVIDO. RECURSO DA PARTE RÉ CONHECIDO E DESPROVIDO. Sentença mantida (e-STJ, fls. 912/913).
+Os embargos de declaração opostos por LUCIO e outra foram rejeitados (e-STJ, fls. 944/949).
+Irresignados, LUCIO e outra interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando a violação do art. 1.238 do CC/02, bem como dissídio jurisprudencial, ao sustentar que é possível o reconhecimento de usucapião, ainda que o imóvel não tenha sido regularizado.
+O apelo nobre não foi admitido em virtude da incidência da Súmula nº 7 do STJ (e-STJ, fls. 1.045/1.047).
+Nas razões do presente agravo em recurso especial, LUCIO e outra afirmaram que não se aplica o óbice sumular (e-STJ, fls. 1.051/1.063).
+Foi apresentada contraminuta (e-STJ, fls. 1.085/1.101).
+O agravo foi conhecido para dar provimento ao recurso especial, em decisão de minha lavra assim ementada:
+CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE USUCAPIÃO. LOTEAMENTO IRREGULAR. PLANALTINA/DF. POSSIBILIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO (e-STJ, fl. 1.130).
+Nas razões dos presentes embargos de declaração, LUCIO e outra afirmaram a existência de contradição ou erro material na decisão embargada, porquanto, embora provido o recurso, constou na fundamentação que não comportava acolhimento, bem como a expressão "no mesmo sentido", indicando consonância entre o acórdão recorrido e a jurisprudência do STJ (e-STJ, fls. 1.135/1.138).
+Foi oferecida impugnação (e-STJ, fls. 1.140/1.142).
+É o relatório.
+A irresignação merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, LUCIO e outra afirmaram a existência de violação do art. 1.022, do NCPC em virtude de contradição ou erro material na decisão embargada, porquanto, embora provido o recurso, constou na fundamentação que não comportava acolhimento, bem como a expressão "no mesmo sentido", indicando consonância entre o acórdão recorrido e a jurisprudência do STJ.
+Com efeito, a decisão incorreu em erro material, ao consignar na fundamentação que o apelo nobre não merecia acolhimento e ao utilizar o termo "no mesmo sentido" ao relacionar o acórdão vergastado e o entendimento jurisprudencial desta Corte.
+Na verdade, à e-STJ, fl. 1.132, onde se lê "o recurso não comporta acolhimento", leia-se "o recurso comporta acolhimento". Mais adiante, à e-STJ, fl. 1.133, onde se lê "no mesmo sentido", leia-se "contudo".
+Nessas condições, ACOLHO os embargos de declaração, apenas para sanar erros materiais, sem efeitos infringentes.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ERRO MATERIAL. CORREÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
