@@ -1,0 +1,9 @@
+Solução de Consulta Cosit nº 98451, de 30 de novembro de 2021
+Assunto: Classificação de Mercadorias
+Código NCM 8525.80.29
+Mercadoria: Câmera visual digital com sensor CMOS 1/2", própria para captação de imagens aéreas e transmissão a dispositivo externo (controle remoto), gravação em memória interna ou cartão de memória, e câmera termográfica por infravermelho com sensor microbolômetro VOx, própria para gravação de vídeo, integradas a um helicóptero de quatro rotores teleguiado, também chamado de "drone" ou "quadricóptero", com dimensões de 322x242x140mm e peso de 1100 g, apresentadas como um sortido para venda a retalho numa maleta com controle remoto, carregador, cabos de comunicação e de energia, três pares de hélices, um par de stick, alto falante, holofote, farol, cobertura de entrada estendida e manual. O equipamento possui oito câmeras com sensores não fotográficos para navegação e tomada de decisão autônoma e dois captadores infravermelhos para a detecção de obstáculos, sem capacidade de registro de imagens, receptor GNSS, slot para cartão microSD, autonomia máxima de voo de 31 minutos e velocidade de 72 km/h. O controle remoto possui tela integrada e opera nas frequências de 2,4 GHz e 5,8 GHz, com distância máxima de transmissão de 10km.
+Dispositivos Legais: RGI 1 (texto da posição 85.25), RGI 3 b), RGI 6 (texto da subposição 8525.80) e RGC 1 c/c RGI 3 c) (textos da Nota 3 da Seção XVI, do item 8525.80.2 e do subitem 8525.80.29) da NCM constante na TEC, aprovada pela Resolução Camex nº 125, de 2016, e na Tipi aprovada pelo Decreto 8.950, de 2016, na Instrução Normativa RFB nº 1.926/2020, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435/1992, e atualizadas pela IN RFB nº 1.788/2018, e alterações posteriores.
+SC Cosit nº 98.451-2021
+[arquivo anexo: SC Cosit nº 98.451-2021.pdf]
+DANIELLE CARVALHO DE LACERDA
+Presidente da 3ª Turma
