@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus preventivo, com pedido liminar, impetrado em favor de FABIANO DA SILVA DIAScontra ato omissivo do Tribunal de Justiça do Estado de Minas Geraisno Agravo em Execução n.1468566-47.2021.8.13.0000.
+Consta dos autos que o Paciente foi condenado à pena de 1 (um) ano e 2 (dois) meses de reclusão, no regime aberto, pela prática do crime previsto no art. 147 do Código Penal (fls. 19-22).
+Narra a Impetrante que no dia 16/04/2021 o Juiz de primeiro grau, na audiência admonitória, impôs as condições para o cumprimento do regime aberto (fls. 29-30). Ocorre que "os militares estiveram (dia 15/05/2021) no imóvel do paciente para confirmar que o mesmo estava cumprindo corretamente" as condições impostas, sendo registrado boletim de ocorrência informando o descumprimento da ordem judicial (fl. 5).
+Recebido o boletim de ocorrência, o Juízo da Varadas Execuções Penais da Comarca de Frutal/MG regrediu cautelarmente o Paciente para o regime fechado e determinoua suspensão dos demais benefícios prisionais (fl. 11).
+Inconformada, a Defesa interpôs agravo em execução perante o Tribunal de origem, ainda pendente de julgamento.
+Neste writ, a Defesaalega, em suma, que "o paciente não pode ser penalizado pelo cometimento da suposta falta grave, sem que haja o devido processo legal, face à ofensa aos princípios do contraditório e ampla defesa, bem como por entender que o referido incidente não enseja uma regressão tal grave assim, já que temos outras modalidades de repressão do ato, como uma advertência, já que o principio ressocializador da pena insculpido na CF traz" (fl. 9).
+Assim, requer a concessão da ordem "para cassar a decisão de regressão cautelar com expedição de mandado de prisão, para que o paciente tenha seu stato a quo restalecido, para que responda ao presente incidente de regressão solto  .. "(fl. 9). Subsidiariamente, pede "uma nova oportunidade, já que analisando os autos, constata-se que esta é a primeira falta do mesmo, e por não ter causado maiores danos há não ser ao próprio paciente que teve seus benefícios suspensos (trabalho externo, progressão de regime aberto e expedido contra si mandado de prisão), entende a defesa que esta sanção de suspensão dos benefícios já fora suficiente para repressão do ato" (fl. 9).
+É o relatório.Decido.
+Na espécie, verifico que a matéria trazidaneste writ ainda não foi apreciadapelo Tribunal estadual, o que torna proibitivo ao Superior Tribunal de Justiçaexaminar o pleito, porquanto caracterizaria a indevida supressão de instância.
+Com efeito, esta Corte não pode manifestar-seper saltumsobre a pretensão defensiva, pois compete ao Superior Tribunal de Justiça, na via processual dohabeascorpus, apreciar questão debatida colegiadamente por um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República), o que não é o caso, pois o mérito da alegação defensiva não foi julgado.
+A propósito, destaco o seguinte julgado, mutatis mutandis:
+"HABEASCORPUS  .. . MATÉRIA AINDA NÃO SUBMETIDA AO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA.PEDIDO QUE NÃO SE CONHECE.
+ ..
+2- Não se pode conhecer de pedido que não foi submetido ao Tribunal a quo, sob pena desupressão de instância.
+ .. .
+4- Não se conhece do pedido." (STJ, HC 83.402/SP, Rel. Ministra JANE SILVA - Desembargadora convocada do TJ/MG -, QUINTA TURMA, DJ 24/09/2007.)
+Contudo, considerandoos argumentos expostos na inicial e à luz do princípio da duração razoável do processo, previsto no art. 5.º, inciso LXXVIII, da Constituição da República, acrescido pela Emenda Constitucional n. 45/2004 ("a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação"), entendo necessário, diante da alegação de que o Paciente "possui pouco mais de 05 meses de pena remanescente" (fl. 7),seja imprimida celeridade na apreciação do recurso defensivo pela Corte a quo.
+Ante o exposto, NÃO CONHEÇO do pedido dehabeascorpus, com a recomendação de que o Tribunal de Justiça do Estado de Minas Gerais empregue celeridade no julgamentodo Agravo em Execução Penal n. 1468566-47.2021.8.13.0000, julgando-o como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL ESTADUAL. SUPRESSÃODE INSTÂNCIA. EXCESSO DE PRAZO NO EXAME DO RECURSO DEFENSIVO INTERPOSTO. RAZOÁVEL DURAÇÃO DO PROCESSO. WRIT NÃO CONHECIDO, COM RECOMENDAÇÃO DE CELERIDADE NA APRECIAÇÃO NO AGRAVO DE EXECUÇÃO PENAL.
