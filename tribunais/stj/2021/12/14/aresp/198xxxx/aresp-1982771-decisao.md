@@ -1,0 +1,40 @@
+DECISÃO
+1. Cuida-se de agravo interposto por PLANTA 7 S/A EMPREENDIMENTOS RURAIS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+EMENTA: DIREITO CIVIL  PROCESSO CIVIL - AÇÃO RESCISÓRIA  AUSÊNCIA DE PRESSUPOSTO PROCESSUAL  MÉRITO - VIOLAÇÃO LITERAL A DISPOSIÇÃO DE LEI  AÇÃO DE RESCISÃO DE CONTRATO - REDISCUSSÃO DAS PROVAS  IMPOSSIBILIDADE.
+1. As questões pertinentes ao cabimento da ação rescisória e ao sucesso/insucesso da pretensão autoral confundem-se com mérito da demanda, uma vez que sua devida análise não se mostra possível sem o necessário cotejo com o próprio direito de obter a rescisão do julgado, conduzindo-se, portanto, a um juízode improcedência do pedido e não extinção do processo sem resolução do mérito, caso acolhido o argumento da parte ré.
+2. A ação rescisória é uma ação autônoma, que tem como objetivo desfazer os efeitos de sentença já transitada em julgado, ou seja, da qual já não caiba mais qualquer recurso, tendo em vista vicio existente que a torne anulável. Tem a natureza desconstitutiva (retira os efeitos de outra decisão que está em vigor) ou, para alguns autores, declaratória de nulidade de sentença, reconhecendo que a sentença não pode gerar efeitos por possuir vícios.
+3. A ação rescisória fundada em literal violação de lei deve ser entendida de forma que a análise do julgamento pregresso permita concluir, objetivamente, que o julgador afrontou disposição expressa de texto legal, não se admitindo seja utilizada apenas para questionar a justiça do julgado, caso em que a pretensão assumiria feições tipicamente recursais.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts.128, 130, 460 e 485,V, do Código de Processo Civil de 1973, 489, §1º, IV, 966,V e 1.022, II, do Código de Processo Civil, do Código Civil de 2015.
+Alegaprestação jurisdicional incompleta e assevera ter havido decisão ultra petita, o que afronta princípio da congruência.
+Argumenta, ademais, a inexistência de provas indispensáveis ao sustentável julgamento da lide, nos autos originários.
+Contrarrazões aorecurso especial às fls.982-1014.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação dos arts.489, § 1º, inciso IV, e 1.022, inciso II, e Parágrafo Único, inciso II, do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Para além disso, a jurisprudência do Superior Tribunal de Justiça é pacífica ao reconhecer que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram" (STJ, Segunda Turma, REsp 1656135/RS, Rel. Ministro Herman Benjamin, j. 20/04/2017, DJe 02/05/2017).
+4. Quanto à alegação de decisão ultra petita, a Corte de origem ao apreciar o feito entendeu que a sentença, na parte em que foi mantida pelo acórdão, não extrapolou os limites da demanda, apenas tendo utilizado os resultados encontrados pela perícia, nos termos em que a prova foi realizada.
+Logo, alterar tal decisão seria necessário o revolvimento de matéria fático-probatória, inviável na via eleita em razão de encontrar óbice na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO DE LITERAL DISPOSITIVO DE LEI E ERRO MATERIAL. ALEGAÇÃO DE JULGAMENTO EXTRA E ULTRA PETITA AFASTADA NA ORIGEM. REEXAME DA PROVA DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso, o Tribunal de origem examinou a prova dos autos e julgou improcedente ação rescisória fundada em violação de literal dispositivo de lei e erro de fato porque concluiu não ter ocorrido julgamento extra ou ultra petita na sentença rescindenda. Alterar tal entendimento é inviável em recurso especial, em virtude do óbice da referida súmula.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 246.681/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/11/2013, DJe 29/11/2013)
+6. No que concerneà alegação deinexistência de provas indispensáveis ao sustentável julgamento da lide, entendeu o Tribunal a quo queas alegações de insuficiência de prova técnica e necessidade de se levar em conta o resultado liquido do empreendimento já foram devidamente analisados pelo acórdão de fls.932/937, sendo vedada a rediscussão da sentença no presente momento.
+A revisão dos fundamentos do acórdão recorrido nesse ponto demandaria, inevitavelmente, o reexame de provas, o que atrai o óbice da Súmula 7 desta Corte, impedindo o conhecimento do recurso.
+A propósito:
+AGRAVO INTERNO. EMBARGOS À EXECUÇÃO. TÍTULO EXTRAJUDICIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. MERA INSATISFAÇÃO COM O JULGADO. PRODUÇÃO DE PROVAS. VERIFICAÇÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Não há falar em violação do art. 1.022 do CPC/2015, pois o Tribunal a quo dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma clara e fundamentada. 2. A tutela jurisdicional foi efetivamente prestada, apenas em desconformidade com os interesses da parte recorrente, circunstância que não revela nenhuma irregularidade no julgamento a quo.
+3. Os embargos de declaração não constituem meio idôneo a sanar eventual error in judicando, não lhes sendo atribuível efeitos infringentes caso não haja, de fato, omissão, obscuridade ou contradição.
+4. O Tribunal local, ao analisar a apelação, concluiu que os esclarecimentos solicitados pela parte se mostravam uteis e necessários à busca da verdade real. No entanto, em virtude do falecimento do perito, constatou-se a impossibilidade de resposta aos questionamentos realizados pela parte. Assim, a instância a quo, considerando a imprescindibilidade da prova pericial, entendeu que o magistrado deveria determinar a realização de nova perícia.
+5. O entendimento do STJ é no sentido de que, tendo o Tribunal estadual se pronunciado sobre a necessidade de produção de provas, a inversão do que foi decidido na origem demandaria, necessariamente, o reexame do acervo fático-probatório contido nos autos, providência que desafia a Súmula 7/STJ.
+6. Não prospera a afirmação de que o art. 739-A, § 5º, do CPC/1973 deveria ter sido considerado prequestionado, tendo em vista que o referido dispositivo legal não foi objeto de debate na origem, pois, uma vez acolhido o agravo retido, as alegações contidas nos apelos ficaram prejudicadas. Incidência da Súmula 211/STJ.
+7. Fica prejudicada a análise da divergência jurisprudencial, pois a tese defendida pela recorrente esbarrou no óbice da Súmula 7/STJ quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+8. Agravo Interno não provido.
+(AgInt no AREsp 1108381/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/06/2018, DJe 14/06/2018)
+7. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
