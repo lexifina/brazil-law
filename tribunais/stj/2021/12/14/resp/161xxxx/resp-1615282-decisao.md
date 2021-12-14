@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recursos especiais interpostoscom fundamento no permissivo constitucionalcontra acórdão do Tribunal Regional Federal da 3ª Região, que deu parcial provimento a agravo de instrumento interposto pela GREIF EMBALAGENS INDUSTRIAIS DO BRASIL LTDA para permitir o levantamento e a conversão em renda dos valores depositados de acordo com a planilha de cálculos apresentada pela impetrante, garantindo-se ao fisco apurar eventuais diferenças e lançá-las, caso entenda pela insuficiência do pagamento(e-STJ fl. 208).
+Em consulta realizada no site do Tribunal Regional Federal da 3ª Região deacesso público, constata-se que houve baixa definitiva do feito naquele juízo em 08/02/2008.
+A hipótese se amolda às situações em que, dada a superveniência de julgamento na ação originária na qual se discute decisão interlocutória, não mais persiste a discussão acerca da decisão interlocutória.
+Em semelhante sentido: AgInt no REsp 1.586.850/SP, rel. Ministro FRANCISCO FALCÃO, Segunda Turma, julgado em 06/06/2019, DJe 14/06/2019 AgInt na Pet 11.504/AM, rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 15/5/2018, DJe 21/5/2018; AgInt no AREsp 922.790/BA, rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 7/11/2017, DJe 17/11/2017;
+Ante o exposto, JULGO PREJUDICADO o julgamento dos recursos especiais.
