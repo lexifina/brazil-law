@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por LIDERANÇA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. em face de acórdão assim ementado (fl. 1.087):
+AGRAVO INTERNO - JUSTIÇA GRATUITA - PESSOA JURÍDICA - NECESSIDADE DE COMPROVAÇÃO DA CARÊNCIA FINANCEIRA.
+- A pessoa jurídica que pretender a concessão da justiça gratuita deverá comprovar cabalmente a sua condição de miserabilidade para receber o benefício. Constatada a inexistência de incapacidade financeira, impõe- se o indeferimento da gratuidade judiciária.
+- A Súmula nº 481 do STJ, dispõe: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais."
+Nas razões do especial, a parte ora agravante alega ofensa aos arts. 98, 489, caput, e II, e §1º, IV, e 1.022, caput, II, e parágrafo único, II, do Código de Processo Civil/2015. Preliminarmente, aponta omissão do Tribunal de origem, ao não se pronunciar sobre as questões postas em debate nos embargos de declaração. No mérito, argui que "por diversos motivos alheios a sua vontade, vem enfrentando GRAVES DIFICULDADES FINANCEIRAS, atreladas a vultuoso estado de INADIMPLÊNCIA, levando em consideração sua atual situação patrimonial e econômica" (fl. 1.103) sendo, por isso, cabível a concessão da gratuidade de justiça.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Inicialmente, verifico que não há omissão alguma ou ausência de fundamentação na apreciação das questões suscitadas.
+Ressalte-se que não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões proferidas pela origem.
+Esclareça-se, também, que não se traduz em omissão a motivação contrária ao interesse da parte ou que deixe de se pronunciar acerca de pontos considerados irrelevantes.
+Observe-se, ainda, que "A jurisprudência é firme no sentido de que os embargos de declaração, ainda que opostos com o objetivo de prequestionamento visando à interposição de recursos nos Tribunais Superiores, não podem ser acolhidos quando inexistentes omissão, contradição ou obscuridade na decisão recorrida" (EDcl no AgInt no AREsp 156.220/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 27.2.2018).
+Quanto ao mais, o Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela não configuração dos requisitos necessários à concessão da gratuidade de justiça, assim se pronunciando (fls. 1.089/1.091):
+(..) os argumentos trazidos nas razões do agravo interno não justificam a modificação da decisão que indeferiu o benefício, a qual deve ser mantida por seus próprios fundamentos.
+O art. 98 do Código de Processo Civil/2015 dispõe que "a pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei".
+Por sua vez, o art. 99, § 2º, do mesmo Código, estabelece que "o juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade", devendo, antes, intimar o requerente para comprovar que faz jus ao benefício.
+O § 3º do mesmo dispositivo prevê que a alegação de carência financeira do requerente tem presunção de veracidade.
+Confira:
+(..)
+Tal presunção de veracidade é relativa, uma vez que o art.
+5º, LXXIV, da Constituição Federal de 1988, estabelece que a dispensa do pagamento de custas e honorários advocatícios, vértice da assistência judiciária integral a ser prestada pelo Estado, não está isenta da comprovação da insuficiência de recursos.
+No caso em exame, como consignado na decisão monocrática, o requerente não demonstrou inequivocamente sua carência financeira.
+Com ficou assinalado, em se tratando de pessoa jurídica, certo é que não existe impedimento legal à concessão do benefício de assistência judiciária às pessoas jurídicas. No entanto, segundo precedentes jurisprudenciais do Superior Tribunal de Justiça, na interpretação do artigo 5º, inciso LXXIV, da Constituição Federal, há a necessidade de demonstração cabal, por parte da pessoa jurídica, da hipossuficiência. Isto, porque a mera declaração do estado de miserabilidade, prevista na Lei nº. 1.060/50, só alcança as pessoas naturais.
+É o que se extrai do enunciado da Súmula n. 481, do Superior Tribunal de Justiça:
+(..)
+Para o deferimento da gratuidade judiciária à pessoa jurídica, não basta a simples declaração de pobreza, sendo imprescindível a demonstração de sua insuficiência financeira, a juntada dos balanços, livros comerciais, documentos fiscais, declaração de rendas ou declaração de seu contador, comprovando que, efetivamente, não tem a empresa condições financeiras para arcar com as despesas processuais e honorários advocatícios, sem o comprometimento de suas atividades sociais.
+Registre-se, por outro lado, que o benefício deve ser concedido somente aos realmente necessitados, pois, caso contrário, não tem o Estado como custear as despesas dos efetivamente carentes que precisam recorrer à Justiça.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte. Nessa direção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA COM PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+(..)
+4. A pretensão de que seja avaliada, pelo Superior Tribunal de Justiça, a condição econômica da parte agravante, para fins de concessão da gratuidade de justiça, exigiria o reexame de provas, o que é vedado em sede de recurso especial, em face do óbice contido na Súmula 7 do STJ.
+5. Agravo interno desprovido. (AgInt no AREsp 1902388/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 4.11.2021)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. HIPOSSUFICIÊNCIA NÃO RECONHECIDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015).
+2. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem indeferiu o pedido de gratuidade, pois concluiu pela inexistência da alegada hipossuficiência da agravante. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Nos termos da jurisprudência desta Corte, "a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento para que lhe seja concedida a assistência judiciária gratuita. Todavia, o benefício pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica - CPC/2015, art. 99, §§ 2º e 3º" (AgInt no AREsp n. 1.716.192/SC, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/11/2020, DJe 18/12/2020).
+6. Agravo interno a que se nega provimento. (AgInt no REsp 1868575/AM, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 1.7.2021)
+Acrescente-se que a parte recorrente não impugnou todos os fundamentos do acórdão recorrido, não havendo alegado divergência acerca do entendimento da Súmula 481/STJ. Assim, inviável o provimento do especial, também, por aplicação da Súmula 283/STF.
+Verifique-se, por fim, que a Corte local utilizou-se de fundamento constitucional para decidir e a recorrente não interpôs recurso extraordinário para impugná-lo. Incidência do enunciado 126 da Súmula do STJ.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo.
+Intimem-se.
