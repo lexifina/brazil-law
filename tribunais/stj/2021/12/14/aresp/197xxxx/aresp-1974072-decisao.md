@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS ALFREDO BITENCOURT TULIO contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 1.166):
+APELAÇÃO CÍVEL. PREVIDÊNCIA COMPLEMENTAR. PLANO FECHADO - FUNCEF. AÇÃO DE REVISÃO DO BENEFÍCIO COMPLEMENTAÇÃO DE APOSENTADORIA. PEDIDO JULGADO IMPROCEDENTE. PLANO (I)PREVIDENCIÁRIO REG/REPLAN SALDADO. PRETENDIDA IMPLANTAÇÃO NO BENEFÍCIO DO AUTOR DE REAJUSTE DE 49,15% CORRESPONDENTE AO INPC/IBGE ACUMULADO ENTRE SETEMBRO DE 1995 E AGOSTO DE 2001. PLEITO DE REAJUSTE IMEDIATO. INVIABILIDADE. DIFERENÇA DECORRENTE DE PERÍODO DE CONGELAMENTO DOS SALÁRIOS DOS ECONOMIÁRIOS E TAMBÉM DAS CONTRIBUIÇÕES. NÃO FORMAÇÃO DE RESERVAS PARA CUSTEAR O AUMENTO DO BENEFÍCIO. IMPLEMENTAÇÃO IMEDIATA DO REAJUSTE QUE VIOLARIA O ART. 202 DA CONSTITUIÇÃO FEDERAL E OS ARTS. 1º E 18 DA LEI COMPLEMENTAR 109/2001 E OCASIONARIA DESEQUILÍBRIO FINANCEIRO E ATUARIAL DO SISTEMA. ARTIGO 115 E PARÁGRAFO SEGUNDO DO REGULAMENTO DO FUNCEF. LEGALIDADE E VALIDADE. REPOSIÇÃO DAS PERDAS E REVISÃO DO BENEFÍCIO CONDICIONADAS A RESULTADO FINANCEIRO SUPERAVITÁRIO DO PLANO. DISPOSIÇÃO QUE PRESERVA A SOLVABILIDADE DO PLANO E VIABILIZA A RECOMPOSIÇÃO DAS PERDAS, AINDA QUE DE MODO DIFERIDO. PRECEDENTES DESTA CORTE. (II)INSURGÊNCIA QUANTO AO MONTANTE DOS HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO POR EQUIDADE SOMENTE AUTORIZADO NAS HIPÓTESES DO ART. 85, §8º, DO CPC. INOCORRÊNCIA NO CASO CONCRETO. OBEDIÊNCIA AOS PATAMARES MÍNIMO E MÁXIMO DO ART. 85, §2º, DO CPC. DISPOSIÇÃO EXPRESSA DO ART. 85, §6º, DO CPC E PRECEDENTES DO STJ. READEQUAÇÃO DOS HONORÁRIOS PARA PERCENTUAL SOBRE O VALOR ATUALIZADO DA CAUSA. SENTENÇA PARCIALMENTE REFORMADA NESTE ASPECTO. RECURSO PARCIALMENTE PROVIDO.
+Inconformado, o demandante interpôs recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, apontando, além de divergência jurisprudencial, violação aos arts. 114, 186, 421, 422, 423, 424, 478 e 927 do CC/2002.
+Sustentou, em síntese, que faz jus à incorporação do reajuste de 49,15%, correspondente ao INPC/IBGE acumulado entre 1º/9/1995 e 31/8/2001, nos valores de complementação de aposentadoria complementar, e pagamentos das parcelas vencidas e vincendas.
+Contrarrazões apresentadas às fls. 1.210-1.229 (e-STJ).
+Juízo negativo de admissibilidade (e-STJ, fls. 1.230-1.231)
+Brevemente relatado, decido.
+No tocante aos arts. 114, 186, 421, 422, 423, 424, 478 e 927 do CC/2002, verifica-se que seus conteúdos normativos não foram apreciados pelo Tribunal de origem. Portanto, ausente o prequestionamento, entendido como a necessidade de o tema objeto do recurso ter sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária, incide, por analogia, o enunciado n. 282/STF.
+Destarte, não há como proceder à análise do dissídio jurisprudencial, ante a ausência de prequestionamento.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. ARRENDAMENTO MERCANTIL. OFENSA AOS ARTS. 6º, III E V, E 52, II, DO CÓDIGO DE DEFESA DO CONSUMIDOR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO PROVIDO.
+(..)
+3. A iterativa jurisprudência desta Corte é no sentido de que o conhecimento do recurso especial - pela alínea c do permissivo constitucional - também exige o prequestionamento dos temas vinculados aos artigos objeto da suposta divergência jurisprudencial.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.425.676/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/5/2019, DJe 24/5/2019).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PREVIDÊNCIA PRIVADA. 1. AUSÊNCIA DE PREQUESTIONAMENTO. ALÍNEAS A E C. SÚMULA 282/STF. 2. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
