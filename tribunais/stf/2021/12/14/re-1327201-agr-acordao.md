@@ -1,0 +1,575 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 12
+
+14/12/2021
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.327.201 CEARÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: GRENDENE S A
+: RAFAEL FERREIRA DIEHL
+: UNIÃO
+: PROCURADOR-GERAL DA FAZENDA NACIONAL
+
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO.
+TRIBUTÁRIO. REINTEGRA. BENEFÍCIO FISCAL. LEI 13.043/2014.
+REGULAMENTAÇÃO.
+DECRETOS
+8.415/2015
+E
+8.543/2015.
+INTERPRETAÇÃO DA MOTIVAÇÃO E FINALIDADE DA NORMA
+REGULAMENTADA.
+COMPATIBILIDADE
+DAS
+NORMAS
+REGULAMENTARES. CONTROLE DE LEGALIDADE. QUESTÃO
+INFRACONSTITUCIONAL.
+1. A verificação da sujeição de atos regulamentares às respectivas leis
+de regência sujeitam-se ao controle de legalidade e não de
+constitucionalidade..
+2. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Segunda Turma do Supremo Tribunal Federal, em Sessão Virtual de 3 a
+13 de dezembro de 2021, sob a Presidência do Senhor Ministro Nunes
+Marques, na conformidade da ata de julgamento e das notas
+taquigráficas, por unanimidade de votos, em negar provimento ao agravo
+regimental, nos termos do voto do Relator.
+Brasília, 14 de dezembro de 2021.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código A775-E962-F473-AFD0 e senha 27E1-F45D-DCE2-3A12
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 12
+
+14/12/2021
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.327.201 CEARÁ
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: GRENDENE S A
+: RAFAEL FERREIRA DIEHL
+: UNIÃO
+: PROCURADOR-GERAL DA FAZENDA NACIONAL
+RE LAT Ó RI O
+
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Trata-se de agravo
+regimental interposto por GRENDENE S.A. em face de decisão
+monocrática em que neguei seguimento a recurso extraordinário também
+por ela interposto nestes termos (eDOC 7):
+“Trata-se de recurso extraordinário da GRENDENE S.A.
+interposto contra acórdão do Tribunal Regional Federal da 5ª
+Região (eDOC 1, 171-173), que considerou que as alterações
+promovidas pelos Decretos 8.415/2015 e 8.543/2015,
+relativamente à alíquota do benefício fiscal do REINTEGRA,
+deveriam respeitar os princípios da irretroatividade e da
+anterioridade geral e nonagesimal.
+No recurso extraordinário, interposto com fundamento no
+art. 102, III, alínea a, da Constituição Federal, sustenta-se a
+violação aos artigos 5º, II, 37, 49, V, 84, VI, 93, IX, 94, 150, I, III,
+“b” e “c”; 153, §1º, 155, §4º, IV, e 177, §4º, I, do texto
+constitucional.
+Nas razões recursais, argumenta-se, em síntese, que
+(eDOC 1, p. 303-312):
+“Com
+efeito,
+se
+não
+reconhecido
+o
+prequestionamento da matéria veiculada neste recurso, é
+consectário lógico o reconhecimento de que o v. Acórdão
+objurgado incorreu em cabal violação a dispositivos
+processuais e constitucionais da mais alta relevância,
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4B78-4730-CB69-226F e senha B750-ABA6-D755-DB5C
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 12
+
+RE 1327201 AGR / CE
+notadamente o artigo 93, IX, da CF, que impõe que todos
+as decisões proferidas pelo Poder Judiciário devem ser
+devidamente fundamentas.
+(…)
+Em que pese o respeito que nutre a Recorrente pelo
+colendo Órgão Colegiado a quo, na espécie, considera que
+o v. acórdão recorrido ao se coadunar com a redução das
+alíquotas de Reintegra nos moldes em que se deram pelos
+Decretos nº 8.415/15, 8.543/15 e seguintes, com efeitos até o
+ano de 2018, incorreu em patentes violações a dispositivos
+constitucionais da mais alta relevância, notadamente, aos
+que disciplinam a observância à legalidade, a finalidade,
+a moralidade e à proibição da edição de Decreto
+Autônomo (exceto nas restritas hipóteses previstas na
+Constituição Federal), quais sejam, artigos 5º, II; 37; 49, V;
+84, VI; 94; 150, I, III, “b” e “c”; 153, §1º; 155, §4º, IV; 177,
+§4º, I, todos da Constituição Federal.
+(…)
+A partir desse conjunto normativo, é fácil perceber
+que a definição do benefício, inicialmente prevista na Lei
+n. 12.546/11, teve por justificativa assegurar a
+recuperação/ressarcimento do resíduo tributário (dentre o
+qual o PIS e a COFINS) incidentes nas fases antecedentes.
+Dito de outro modo, a única possibilidade de o Poder
+Executivo alterar as alíquotas do benefício em questão,
+mas respeitando a faixa prevista legalmente, justificar-seia exatamente porque, como o resíduo tributário existente
+na cadeia do produtor-exportar pode variar internamente
+(notadamente PIS e COFINS), apenas um ato
+administrativo teria condições de, simultaneamente, fazer
+a correspondência respectiva em relação ao REINTEGRA.
+Ou seja, as alíquotas do benefício devem,
+necessariamente, variar conforme o “resíduo tributário”
+(notadamente do PIS/COFINS) nas fases antecedentes à
+exportação. A relação de causa/efeito é indissociável e
+advém, repita-se, da própria justificativa do benefício
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4B78-4730-CB69-226F e senha B750-ABA6-D755-DB5C
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 12
+
+RE 1327201 AGR / CE
+inserida desde a Lei n. 12.546/11.
+(…)
+Não obstante, e sem qualquer demonstração de
+alteração do resíduo tributário suportado pelas empresas
+relativamente, o Decreto 8.415/2015 reduziu a alíquota do
+REINTEGRA para 1% de março de 2015 a 31 de dezembro
+de 2016, e para 2% para todo o ano de 2017. Apenas oito
+meses depois o Decreto 8.543/15 foi instituído para
+reduzir a alíquota do REINTEGRA para 0,1% de
+dezembro de 2015 a dezembro de 2016, mantendo os 2%
+para o ano de 2017, porém garantindo que retornaria ao
+percentual de 3% para o ano de 2018.
+Observa-se que não há motivação alguma em
+exposição de motivos e, ainda que houvesse, esta não se
+encontraria em conformidade com a finalidade do
+benefício (eliminar o resíduo tributário) prevista em lei
+para as reduções de alíquota perpetradas, visto que não se
+tem notícia de alteração de alíquotas ou da repercussão
+dos tributos no cenário econômico nacional!
+(…)
+Assim, diversamente do consignado no v. acórdão,
+resta claro que a redução de alíquota do REINTEGRA
+perpetrada pelos Decretos nº 8.415/2015, 8.543/2015, e
+seguintes, com efeitos até o ano de 2018, são ilegítimas em
+razão do desvio de finalidade e da ausência de motivação
+fática adequada, sublinha-se, o que restou corroborado
+por meio dos termos do v. acórdão recorrido.
+(…)
+Em segundo lugar cumpre salientar que qualquer
+alteração que não respeite o standard previsto em Lei
+(alteração do resíduo tributário na cadeia do produtorexportador) é ilegítima, até porque, do contrário, admitirse-ia não apenas uma atuação arbitrária do Executivo,
+como também uma atividade administrativa fora dos
+parâmetros e standards fixados na lei de regência do
+benefício, isso é, verdadeira delegação em branco, em
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4B78-4730-CB69-226F e senha B750-ABA6-D755-DB5C
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 12
+
+RE 1327201 AGR / CE
+flagrante violação ao princípio da legalidade, sublinha-se,
+o que restou corroborado pelo r. acórdão recorrido, em
+cabal violação ao quanto disposto nos arts. 5º, II e 150, I da
+CF5 e, especificamente no que respeita à concessão de
+incentivos fiscais, ao art. 150, §6º, também da
+Constituição, bem como o art. 97, II do CTN6. Os referidos
+artigos constitucionais assim dispõem:
+(…)
+Por fim, ao contrário do que afirma o acórdão
+recorrido - “Saliente-se que , no mais, a autorização legal
+para edição dos decretos pelo Poder Executivo está
+prevista no art. 22, § 1º da Lei 13.043/2014, que reinstituiu
+o REINTEGRA, com alteração das alíquotas dentro da
+margem dos percentuais ali fixados.” - não basta que o
+percentual do REINTEGRA varie entre 0,1 a 3% para que
+ele esteja de acordo com o artigo 22, §1º, da Lei nº
+13.043/2014. A legislação é clara em afirmar que o
+percentual somente pode variar se, paralelamente, varia o
+resíduo tributário na cadeia do produtor exportador,
+hipótese que não se implementou no presente caso,
+impondo-se a reformado o acórdão recorrido.”
+É o relatório. Decido.
+A irresignação não merece prosperar.
+O acórdão a quo dirimiu a controvérsia nos seguintes
+termos (eDOC 1, p. 169-171):
+“Não desconhece que "o critério temporal, entre
+outros, é relevante para a dinâmica própria do mercado de
+exportação,
+e
+sua
+estipulação
+decorre
+da
+discricionariedade técnica que é exigida do regulamento.
+A fixação de percentuais variáveis, por períodos, não
+extrapola o comando do art. 22, § 1º, da Lei n. 13.043/2014.
+7. Recurso especial parcialmente conhecido e, nessa parte,
+não provido."(STJ, 1ª T., REsp 1.732.813, Rel. Ministro
+GURGEL DE FARIA , DJE 12/06/2019)
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4B78-4730-CB69-226F e senha B750-ABA6-D755-DB5C
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 12
+
+RE 1327201 AGR / CE
+Com efeito, em que pese a atribuição ao Poder
+Executivo para estabelecer o percentual a ser aplicado (art.
+22 da Lei 13.043/2014) e a admissão de variação do
+referido índice (entre 0,1% e 3%), admitida, inclusive, a
+diferenciação por bem (§ 1º), a aplicação do disposto nos
+referidos Decretos 8.415/2015 e 8.543/2015 configura
+aumento indireto de tributos mediante redução de
+alíquota (revogação de benefício fiscal)
+De acordo com os referidos dispositivos
+constitucionais invocados, é vedado cobrar tributos "no
+mesmo exercício financeiro em que haja sido publicada a
+lei que os instituiu ou aumentou" (art. 150, III, "b", da
+CF/1988) e " antes de decorridos noventa dias da data em
+que haja sido publicada a lei que os instituiu ou
+aumentou, observado o disposto na alínea b (art. 150, III,
+"c", da CF/1988), além da vedação " em relação a fatos
+geradores ocorridos antes do início da vigência da lei que
+os houver instituído ou aumentado (art. 150, III, "a", da
+CF/1988).
+Ocorre que o Decreto 8.415/2015, de 27/02/2015, em
+seu art. 2º, § 7º, e o Decreto 8.543/2015, de 21/10/2015, em
+seu art. 2º, § 7º, estabeleceram escalonamento de
+percentuais aplicáveis, a partir de 01/03/2015 (de 3% para
+1%) e a partir de 01/12/2015 (de 1% para 0,1%),
+respectivamente.
+Nesse passo, apesar de a edição dos referidos
+Decretos decorrer do mero exercício da prerrogativa legal
+em conformidade com os interesses administrativo-fiscais,
+quando da fixação de percentuais válidos para cada
+período, bem como mesmo que observado o patamar dos
+percentuais passíveis de concessão (entre 0,1% e 3%)
+dentro do âmbito de competência conferido pela Lei
+13.043/2014, ocorreu a inobservância do princípio in casu,
+da anterioridade, geral e nonagesimal (art. 150, III, b e c,
+da CF/1988), associado ao principio da "não-surpresa
+tributária" e corolário lógico do princípio da segurança
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4B78-4730-CB69-226F e senha B750-ABA6-D755-DB5C
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 12
+
+RE 1327201 AGR / CE
+jurídica.
+(…)
+Saliente-se que , no mais, a autorização legal para
+edição dos decretos pelo Poder Executivo está prevista no
+art. 22, § 1º da Lei 13.043/2014, que reinstituiu o
+REINTEGRA, com alteração das alíquotas dentro da
+margem dos percentuais ali fixados.”
+Como se observa, inviável a interposição de recurso
+extraordinário quanto ao ponto, por revelar questão que se
+resolve na seara infraconstitucional. Com efeito, o juízo sobre a
+validade de ato infralegal, considerando os limites estabelecidos
+pela lei da qual aquela norma é derivada, não dispensa a
+interpretação da legislação infraconstitucional aplicável à
+espécie, o que se revela inviável em sede de recurso
+extraordinário, por configurar ofensa indireta à Constituição da
+República. Nesse sentido, destaco os seguintes julgados:
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO.
+ADMINISTRATIVO.
+INEXISTÊNCIA DE CONTRARIEDADE AO INC. IX DO
+ART. 93 DA CONSTITUIÇÃO DA REPÚBLICA.
+DECRETO
+MUNICIPAL
+N.
+56.981/2016.
+EXTRAPOLAÇÃO DOS LIMITES DA LEGISLAÇÃO
+FEDERAL REGULAMENTADORA: CONFLITO DE
+LEGALIDADE.
+AUSÊNCIA
+DE
+OFENSA
+CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL
+AO QUAL SE NEGA PROVIMENTO.” (RE 1.142.881-AgR,
+de relatoria da Min. Cármen Lúcia, Segunda Turma, DJe
+25.10.2019)
+“Agravo
+regimental
+em
+ação
+direta
+de
+inconstitucionalidade. Decisão agravada mediante a qual
+se
+negou
+seguimento
+à
+ação
+direta
+de
+inconstitucionalidade. Incisos I e II do art. 9º da Resolução
+nº 15/2018 GS/SEED da Secretaria de Educação do Estado
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4B78-4730-CB69-226F e senha B750-ABA6-D755-DB5C
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 12
+
+RE 1327201 AGR / CE
+do Paraná. Ato normativo de natureza secundária.
+Ausência de autonomia nomológica. Necessidade de
+análise prévia de outras normas infraconstitucionais para
+verificar a suposta ofensa à Constituição Federal. Ofensa
+reflexa. Crise de legalidade para cujo exame não se abre o
+controle concentrado de normas. Agravo regimental ao
+qual se nega provimento.1. A jurisprudência da Corte é
+pacífica no sentido de não se admitir o controle
+concentrado de normas secundárias, editadas com o fim
+de regulamentar a legislação infraconstitucional
+pertinente, tais como a resolução analisada na ADI, pois
+elas não retiram seu fundamento de validade diretamente
+da Constituição Federal.2. No caso dos autos, não é
+possível verificar as supostas inconstitucionalidades dos
+incisos I e II do art. 9º da Resolução nº 15/2018 GS/SEED
+da Secretaria de Educação apenas pelo confronto desse ato
+normativo com a própria Constituição Federal. Para que se
+evidenciem tais alegações, faz-se imprescindível averiguar
+como as Leis Complementares estaduais nº 174/2014 e nº
+103/2004 dispuseram acerca da distribuição da carga
+horária entre os professores da rede pública de ensino e se
+a resolução objurgada dispôs de modo diverso sobre o
+tema.3. Fazendo-se necessário esse exame, constata-se que
+se está diante de típica ofensa reflexa ou indireta ao texto
+constitucional, para cujo deslinde não se presta o controle
+concentrado de normas.4. Agravo regimental ao qual se
+nega provimento.” (ADI 5.904/AgR, de relatoria do Min.
+Dias Toffoli, Pleno, DJe 28.05.2018)
+“DIREITO PREVIDENCIÁRIO. AGRAVO INTERNO
+EM RECURSO EXTRAORDINÁRIO. APOSENTADORIA
+URBANA. PENSÃO POR MORTE DE NATUREZA
+RURAL. CUMULAÇÃO. POSSIBILIDADE. DECRETO Nº
+83.080/1979 E LEI COMPLEMENTAR Nº 11/1971.
+COMPATIBILIDADE.
+CONTROVÉRSIA
+QUE
+DEMANDA
+A
+ANÁLISE
+DE
+LEGISLAÇÃO
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4B78-4730-CB69-226F e senha B750-ABA6-D755-DB5C
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 12
+
+RE 1327201 AGR / CE
+INFRACONSTITUCIONAL. NOVA APRECIAÇÃO DOS
+FATOS E PROVA DOS AUTOS. SÚMULA 279/STF.
+CARÁTER PROTELATÓRIO. IMPOSIÇÃO DE MULTA.1.
+Situa-se no âmbito da legalidade, e não da
+constitucionalidade, a discussão que envolve eventual
+extrapolação pela norma regulamentadora em face de
+comando legal regulamentado. Precedentes.2. A solução
+da
+controvérsia
+demanda
+análise
+de
+matéria
+infraconstitucional, bem como nova reapreciação dos fatos
+e do material probatório constantes dos autos (Súmula
+279/STF),
+procedimentos
+inviáveis
+em
+recurso
+extraordinário.3. Nos termos do art. 85, § 11, do CPC/2015,
+fica majorado em 25% o valor da verba honorária fixada
+anteriormente, observados os limites legais do art. 85, §§
+2º e 3º, do CPC/2015.4. Agravo interno a que se nega
+provimento, com aplicação da multa prevista no art. 1.021,
+§ 4º, do CPC/2015.” (RE 936.557-AgR, de relatoria do Min.
+Roberto Barroso, Primeira Turma, DJe 19.12.2016)
+“DIREITO AMINISTRATIVO. TRANSPORTE DE
+PASSAGEIROS. REGULAMENTAÇÃO POR ÓRGÃO
+ESTATAL. OFENSA À CONSTITUIÇÃO FEDERAL NÃO
+CONFIGURADA.
+FUNDAMENTO
+INFRACONSTITUCIONAL
+SUFICIENTE
+PARA
+MANUTENÇÃO DO JULGADO. SÚMULA 283/STF.
+ACÓRDÃO
+RECORRIDO
+PUBLICADO
+EM
+21.01.2009.Para divergir do entendimento do Tribunal a
+quo seria necessário analisar se a norma regulamentadora
+(Resolução nº 4.107/2004) teria ou não extrapolado os
+limites impostos pela lei regulamentada (Lei Estadual nº
+7.105/1977 e Decreto nº 29.767/1980), discussão que
+restringe-se ao plano da legalidade, não alcançando
+estatura constitucional.A jurisprudência desta Corte não
+admite recurso extraordinário contra acórdão que contém
+fundamento
+infraconstitucional
+suficiente
+para
+manutenção do julgado. Aplicação da Súmula 283/STF: “É
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4B78-4730-CB69-226F e senha B750-ABA6-D755-DB5C
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 12
+
+RE 1327201 AGR / CE
+inadmissível o recurso extraordinário, quando a decisão
+recorrida assenta em mais de um fundamento suficiente e
+o recurso não abrange todos eles.” Agravo regimental
+conhecido e não provido.” (AI 780.456-AgR, de relatoria
+da Min. Rosa Weber, Primeira Turma, DJe 21.08.2014)
+Ante o exposto, nego provimento ao recurso
+extraordinário, nos termos do art. 932, IV, a e b, do Código de
+Processo Civil e art. 21, §1º, do RISTF.
+Sem honorários, por se tratar de mandado de segurança
+(Súmula 512/STF e art. 25 da Lei 12.016/2009).”
+
+Nas razões recursais, sustenta-se, em síntese, que (eDOC 10, p. 5):
+“Com efeito, diversamente do entendimento do i.
+Relator, verifica-se que o debate trazido à baila é
+eminentemente constitucional, uma vez que que o v. acórdão
+recorrido ao se coadunar com a redução das alíquotas de
+Reintegra nos moldes em que se deram pelos Decretos nº
+8.415/15, 8.543/15 e seguintes, com efeitos até o ano de 2018,
+incorreu em patentes violações a dispositivos constitucionais da
+mais alta relevância, notadamente, aos que disciplinam a
+observância à legalidade, a finalidade, a moralidade e à
+proibição da edição de Decreto Autônomo (exceto nas restritas
+hipóteses previstas na Constituição Federal), quais sejam,
+artigos 5º, II; 37; 49, V; 84, VI; 94; 150, I, III, “b” e “c”; 153, §1º;
+155, §4º, IV; 177, §4º, I, todos da Constituição Federal, de modo
+que é cristalina a ofensa direta à Constituição Federal.”
+
+A parte agravada não se manifestou (eDOC 14).
+É o relatório.
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4B78-4730-CB69-226F e senha B750-ABA6-D755-DB5C
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 11 de 12
+
+14/12/2021
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.327.201 CEARÁ
+VOTO
+
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Não assiste razão à
+parte agravante.
+A parte insurgente não trouxe argumentos com aptidão suficiente
+para infirmar a decisão agravada.
+Com efeito, conforme posto na decisão recorrida, a verificação da
+sujeição de atos regulamentares às respectivas leis de regência sujeitam-se
+ao controle de legalidade e não de constitucionalidade.
+É o caso dos autos em que se pretende rever as conclusões adotadas
+pelo Tribunal de origem quanto a motivação e a finalidade buscada pela
+lei ordinária que prevê benefício fiscal, para demonstrar a
+incompatibilidade de decretos regulamentares.
+Seguindo essa orientação, reitero os precedentes citados, por terem
+tratado de questão análoga a dos autos.
+Ante o exposto, voto pelo não provimento do presente agravo
+regimental.
+É como voto.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código B17B-B82F-65BC-9A38 e senha D9FB-AE1B-4A4E-5717
+
+Supremo Tribunal Federal
+Extrato de Ata - 14/12/2021
+
+Inteiro Teor do Acórdão - Página 12 de 12
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.327.201
+PROCED. : CEARÁ
+RELATOR : MIN. EDSON FACHIN
+AGTE.(S) : GRENDENE S A
+ADV.(A/S) : RAFAEL FERREIRA DIEHL (40911/RS, 336616/SP)
+AGDO.(A/S) : UNIÃO
+ADV.(A/S) : PROCURADOR-GERAL DA FAZENDA NACIONAL (00000/DF)
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. Segunda Turma, Sessão
+Virtual de 3.12.2021 a 13.12.2021.
+Composição: Ministros Nunes Marques (Presidente), Gilmar
+Mendes, Ricardo Lewandowski e Edson Fachin.
+Hannah Gevartosky
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4438-E56D-62E3-98E2 e senha A118-6DAE-E965-8CB8
