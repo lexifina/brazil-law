@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto, por Julhano Savadintzky de Almeida, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"AGRAVO REGIMENTAL. HABEAS CORPUS OBJETIVANDO TRANCAMENTO DA AÇÃO PENAL E INSTAURAÇÃO DE INCIDENTE DE INSANIDADE. PRISÃO EM FLAGRANTE E USO DE DROGAS. RISCO AO DIREITO DE LIBERDADE. INEXISTÊNCIA. DESCABIMENTO DO WRIT. IMPETRAÇÃO MANIFESTAMENTE INADMISSÍVEL.
+1. Os Tribunais Superiores já firmaram entendimento no sentido de ser imperiosa a necessidade de racionalização do writ, devendo ser observada sua função constitucional de sanar ilegalidade ou abuso de poder que resulte coação ou ameaça à liberdade de locomoção.
+2. A utilização de habeas corpus para suspensão de ação penal ou inquérito para instauração de incidente de insanidade mental é medida excepcionalíssima, cabível apenas quando constatada de plano, por prova pré-constituída, a suposta inimputabilidade, pois inviável a incursão probatória em sede de habeas corpus.
+3. O cometimento de crimes sob o efeito de drogas ou álcool, com comportamento agressivo e resistência à autoridade estatal, embora seja circunstância comum em processos criminais das mais variadas espécies delitivas, por si só, não é suficiente para configurar dificuldade de compreensão sobre a ilicitude dos fatos, e autorizar a instauração do incidente de insanidade mental, sobretudo quando o juiz da causa não tem dúvidas sobre a imputabilidade.
+4. Inexistindo flagrante ilegalidade, sendo incabível a via estreitado habeas corpus para exame de matéria de prova, e ausente risco ou ameaça ao direito de liberdade do paciente - pois eventual concessão da ordem não acarretaria sua soltura - é manifestamente inadmissível a impetração, nos termos do art. 148 do Regimento Interno do TRF4." (fl. 54)
+O defesa busca o deferimento do pedido de instauração de insanidade mental, ao argumento de que o recorrenteapresentou um comportamento agressivo e incomum no momento da prisão em flagrante.
+A liminar foi indeferida por decisão de fls. 87/88.
+O Ministério Público Federal opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Para melhor compreensão, transcrevo excerto do voto condutor:
+"Busca o impetrante o trancamento da ação penal que tramita na primeira instância (autos nº 50074907220204047005 em curso na 4ª Vara Federal da Subseção Judiciária de Cascavel/PR) e a instauração de incidente de insanidade mental do paciente, por suposto comportamento patológico e uso de substâncias entorpecentes que caracterizariam inimputabilidade.
+Como já referido, a utilização de habeas corpus para suspensão de ação penal ou inquérito para instauração de incidente de insanidade mental é medida excepcionalíssima, cabível apenas quando constatada de plano, por prova pré-constituída, a suposta inimputabilidade, pois inviável a incursão probatória em sede de HC.
+No caso em exame, não verifico flagrante ilegalidade na decisão de primeiro grau, pois consignado pelo magistrado que preside a causa que "os elementos dos autos não indicam haver dúvida razoável sobre a inimputabilidade do indiciado", o que afasta a alegação da defesa.
+Para a instauração do incidente de insanidade mental é necessária dúvida razoável a respeito da sanidade mental do acusado ou réu, e o juiz não está obrigado a instaurar o incidente quando não estiver convencido de sua necessidade ou utilidade, o que restou demonstrado pela decisão de primeira instância." (fls. 51/52)
+Como visto, a instância ordinária reconheceu a inexistência de dúvida acerca da sanidade mental do réu e, desta forma,indeferiuo pleito de produção de prova técnica, sendo que para se concluir de forma diversa, mostra-se necessário o exame aprofundado de provas, providência incabível na via eleita.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INCIDENTE DE INSANIDADE MENTAL.PROVA CONSIDERADA MERAMENTE PROTELATÓRIA. AUSÊNCIA DE INDÍCIOS DE NECESSIDADE DA DILIGÊNCIA. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - In casu, apreende-se, da leitura dos autos, que as instâncias ordinárias apontaram a inexistência de dúvida razoável acerca da sanidade mental do agravante, em especial, por exercer função de professor em no mínimo duas escolas, formar uma família, possuir grau de instrução elevado, bem como, conforme os autos e os pareceres médicos, inteligência acima da média e histórico totalmente incompatível com a semi-imputabilidade, assim, consignando a imprestabilidade da prova requerida.
+III - Assente nesta eg. Corte que, "acerca do amplo direito à produção da provas necessárias a dar embasamento às teses defensivas, ao magistrado, mesmo no curso do processo penal, é facultado o indeferimento, de forma motivada, das diligências protelatórias, irrelevantes ou impertinentes. Cabe, outrossim, à parte requerente demonstrar a real imprescindibilidade na produção da prova requerida. Precedentes (..). No caso em exame, o magistrado processante motivou o indeferimento da produção de laudo pericial requerido pela defesa com base na não demonstração de sua necessidade, consignando a inexistência de dúvidas acerca da higidez mental do recorrente (..)" (RHC n. 89.950/MG, Quinta Turma, Rel.Min. Ribeiro Dantas, DJe de 1º/12/2017).
+IV - No mais, a d. Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+(AgRg no HC 645.764/RS, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, DJe 24/08/2021).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO ESPECIAL. RECONSIDERAÇÃO. FURTO QUALIFICADO. INCIDENTE DE INSANIDADE MENTAL. INDEFERIMENTO. AUSÊNCIA DE DÚVIDA RAZOÁVEL.CERCEAMENTO DE DEFESA NÃO CONFIGURADO. DECISÃO RECONSIDERADA PARA CONHECER DO AGRAVO E NÃO CONHECER DO RECURSO ESPECIAL.
+1. Esta Corte já se manifestou no sentido de que, em ações que tratam de matéria penal ou processual penal, a contagem dos prazos correrá em cartório e será contínua e peremptória, sem interrupção por férias, domingo ou feriado; também, de que não se computará no prazo o dia do começo, porém se incluirá o do vencimento (art. 798 do CPP).
+2. No caso concreto, o recurso especial foi interposto dentro do prazo legal de 15 dias, motivo pelo qual dou provimento ao agravo regimental, para reconsiderar a decisão agravada e analisar o agravo em recurso especial.
+3. A jurisprudência desta Corte Superior é firme em assinalar que, apenas quando evidenciada dúvida razoável acerca da sanidade mental do acusado, se torna imperiosa a instauração do respectivo incidente. Precedentes.
+4. As instâncias ordinárias consignaram não haver sido demonstrados pela defesa indícios mínimos acerca da incapacidade da ré de entender o caráter ilícito da conduta supostamente praticada e, inexiste dúvida razoável apta a ensejar a instauração do referido incidente.
+5. Para rever a conclusão das instâncias antecedentes seria necessária a dilação probatória, medida inviável em recurso especial.
+6. Agravo regimental provido, para reconsiderar a decisão recorrida, com o fim de conhecer do agravo e não conhecer do recurso especial.
+(AgInt no AREsp 1.142.435/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 09/06/2021).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. INDEFERIMENTO DE PROVA. CERCEAMENTO DE DEFESA. NÃO CONFIGURAÇÃO. DESCLASSIFICAÇÃO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Faz-se possível ao juiz indeferir as provas consideradas irrelevantes, impertinentes ou protelatórias desde que o faça de forma fundamentada (art. 400, § 1º - CPP).
+2. Não instaurado o incidente de insanidade mental pelo juízo de origem, diante da ausência de dúvida sobre a higidez mental do acusado, a revisão das premissas fáticas do julgado demandaria o revolvimento do conjunto fático-probatório, inadmissível a teor da Súmula 7/STJ.
+3. Tendo as instâncias de origem, com apoio nas provas dos autos, concluído pela presença de elementos de convicção suficientes para embasar a condenação em desfavor do acusado, o acolhimento do pleito de desclassificação encontra também óbice na Súmula n. 7/STJ.
+4. Agravo regimental improvido.
+(AgRg no AREsp 1.824.473/MG, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA,DJe 22/10/2021).
+Ante o exposto, nego provimentoao recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
