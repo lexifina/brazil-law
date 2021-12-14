@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por In-Haus Industrial e Serviços de Logística Ltda. (SERVTEC Instalações e Manutenção Ltda.) à decisão de fls. 973-975 (e-STJ), que indeferiu liminarmente os embargos de divergência.
+Sustenta a embargante, em síntese, que o recurso deve ser apreciado, tendo em vista o disposto no art. 5º, inciso LV, da Constituição Federal.
+Aduz, ainda, "queo compulsar dos autos revela a similaridade fática e cotejo analítico já apresentados desde à época do recurso especial interposto pela Embargante, no qual restou provado que "o mero ato de não juntar a GRU ao EXTRATO BANCÁRIO emitido por internet banking e emissão do respectivo comprovante, juntados aos autos, não tem o condão de invalidar o recolhimento das custas/preparo, tendo emvista que todos os recursos recolhidos através de GRU são repassados à Conta Única do Tesouro Nacional, conforme dispõem o Decreto n. 4.950/2004 e a Instrução Normativa STN n. 02, de 22 de maio de 2009"" (e-STJ, fls. 979-980).
+Brevemente relatado, decido.
+A decisão embargada está assim fundamentada:
+De início, vale destacar que o exame dos presentes embargos dedivergência está limitado ao capítulo recursal que aponta como paradigma o acórdão da Quarta Turma do STJ, tendo em vista que, em relação aos demais paradigmas, a competência é da Corte Especial, a qual, inclusive, já foi exaurida.
+Feito esse esclarecimento, verifica-se que o presente recurso não ultrapassa nem sequer o juízo de admissibilidade.
+A uma, porque não se admite a oposição dos embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, como no caso, tendo em vista o que dispõe o enunciado n. 315 da Súmula desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+A duas, porque a embargante aponta como paradigma acórdão da própria Quarta Turma desta Corte Superior, o que não se admite, pois, nos termos do art.1.043, inciso I, do CPC/2015, "é embargável o acórdão de órgão fracionário que (..) em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito".
+Vale ressaltar, ademais, que no presente caso não incide o disposto no § 3º do referido dispositivo legal, o qual permite o cabimento dos embargos de divergência " quando o acórdão paradigma for da mesma turma que proferiu a decisão embargada, desde que sua composição tenha sofrido alteração em mais da metade de seus membros", tendo em vista que não houve qualquer alteração nos membros da Quarta Turma.
+E, a três, porque não houve a demonstração da divergência nos termos exigidos legalmente, pois a embargante não efetuou o devido cotejo analítico dos arestos confrontados, a fim de demonstrar a similitude fática com soluções jurídicas distintas.
+Diante do exposto, indefiro liminarmente os embargos de divergência.
+Como visto, os embargos de divergência foram indeferidos liminarmente em razão de três óbices - Súmula 315/STJ, acórdão paradigma da mesma Turma que proferiu o decisum embargado e ausência de cotejo analítico -, não havendo qualquer omissão a ser sanada.
+Na verdade, as razões dos presentes aclaratórios apenas demonstram a insatisfação da embargante com o resultado do julgamento,sendo manifestamente impertinentes as alegações apontadas no presente recurso, pois demonstram apenas a tentativa de rediscutir os fundamentos consignados no decisum embargado, o que não se coaduna com a finalidade dos embargos declaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO NA DECISÃO EMBARGADA. MERO INTUITO DE REDISCUSSÃO DOS FUNDAMENTOS QUE EMBASARAM O INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. EMBARGOS REJEITADOS.
