@@ -1,0 +1,43 @@
+DECISÃO
+José Elisvalter Alves Calheira e Evanilce Barreto Pina interpõem agravo interno contra decisão da Presidência do STJ proferida nos seguintes termos (e-STJ, fls. 1.118-1.119):
+Mediante análise do recurso de JOSE ELISVALTER ALVES CALHEIRA e OUTRO, a parte recorrente foi intimada da decisão agravada em 15/04/2020, sendo o agravo somente interposto em 28/05/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6.º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+ ..
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Em suas razões recursais (e-STJ, fls.1.151-1.155), a parte agravante defende a tempestividade do agravo em recurso especial interposto.
+Menciona que, em razão da Pandemia da Covid-19, o Tribunal local publicou o Decreto Judiciário 211/2020 e o Ato Conjunto 7/2020, prorrogando a suspensão dos prazos dos processos físicos até 15/5/2020 (e-STJ, fls. 1.160-1.164; 1.171-1.173).
+Pondera que, de acordo com a legislação processual civil, deve-se conceder prazo para parte sanar o vício apontado na decisão recorrida.
+Afirma ser beneficiário da justiça gratuita.
+Ao final, pleiteia o provimento do recurso.
+Impugnação apresentada (e-STJ, fls. 1.183-1.190).
+No caso, considerando a pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme art. 5º da Resolução CNJ n. 313, de 19 de março de 2020.
+Posteriormente, o CNJ editou a Resolução 314, de 20/04/2020, a qual, com algumas modificações, prorrogou a Resolução 313, até o dia 15/05/2020, sendo que, em relação aos prazos dos processos físicos, disciplinou, em seu art. 2º, que estes permaneceriam suspensos.
+Em seguida, o CNJ editou a Resolução 318, de 07/05/2020, que, além de prorrogar a vigência das Resoluções 313 e 314 até o dia 31 de maio, mantendo a fluência dos prazos dos processos eletrônicos desde 04/05/2020, permitiu a suspensão dos prazos, caso autoridade estadual determinasse medidas restritivas (lockdown), ou a pedido do próprio Tribunal, suspensão que seria válida somente para aquela unidade da federação. Assim, de acordo com a Resolução CNJ 318 (art. 2º), caso ocorresse a imposição do lockdown, por autoridade estadual competente, ou seja, a imposição de medidas sanitárias restritivas à livre locomoção de pessoas, ficariam automaticamente suspensos os prazos processuais dos feitos eletrônicos e físicos.
+Após, o CNJ publicou a Resolução 322, de 1º/7/2020, possibilitando, em seu art. 3º, aos Tribunais locais, manterem a suspensão dos prazos dos processos físicos.
+A respeito dessa questão, cabe mencionar a jurisprudência do STJ, a qual destaca que, "em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos, para os processos físicos, no período de 19/03/2020 a 14/06/2020, conforme Resoluções do CNJ nº 313/2020 e 322/2020, bem como Portaria nº 79/2020 do CNJ, voltando a fluir o prazo, para os processos físicos, em 15/06/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso, sendo inviável a comprovação posterior em sede de agravo interno" (AgInt no AREsp 1.878.580/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/8/2021, DJe 26/8/2021, sem grifo no original).
+Assim, considerando o disciplinado nas Resoluções do CNJ supracitadas, verifica-se que merece reforma a decisão, uma vez que o agravo em recurso especial foi apresentado antes de 14/6/2020.
+Portanto, com apoio no art. 259 do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão de fls. 1.118-1.119 (e-STJ).
+Passo à análise do agravo em recurso especial.
+Trata-se de agravo apresentado contra decisão que não admitiu recurso especial interposto José Elisvalter Alves Calheira e Evanilce Barreto Pina com fundamento no art. 105, III, da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Goiás (e-STJ, fl. 785):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE AUTOMOBILÍSTICO. NÃO ACIONAMENTO DE AIR BAG. INEXISTÊNCIA DE DEFEITO COMPROVADA POR PROVA PERICIAL. NULIDADE DA PERÍCIA. INVIABILIDADE. PREVISÃO NO MANUAL DE UTILIZAÇÃO. SISTEMA QUE NÃO DISPARA O ACIONAMENTO DAS BOLSAS EM COLISÕES TRASEIRAS, LATERAIS OU CAPOTAIVIENTO. DANO MORAL DESCARACTERIZADO. RECURSO CONHECIDO E DESPROVIDO. COMANDO SENTENCIAL MANTIDO.
+Nas razões do recurso especial (e-STJ, fls. 798-805), a parte recorrente apontou violação aos arts. 5º, LIV e LV, da CF e 192 do CPC/2015, aduzindo a ocorrência de cerceamento de defesa.
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da incidência da Súmula 284/STF (STJ, fls. 1.111-1.113).
+Foi interposto agravo em recurso especial às fls. 937-941 (e-STJ), e apresentada contraminuta às fls. 957-987 (e-STJ).
+Brevemente relatado, decido.
+De início, em relação à suposta ofensa ao art. 5º, LIV e LV, da CF, é evidente a inadequação da via recursal eleita, porquanto, conforme a jurisprudência do Superior Tribunal de Justiça, "é inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal". (EDcl no AgInt no REsp 1828610/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 22/11/2021, DJe 25/11/2021).
+Além disso, a parte recorrente sustenta a ocorrência de cerceamento de defesa e, para tanto, aponta afronta ao art. 192 do CPC/2015. Contudo, verifica-se que a parte insurgente não relacionou a contento a tese recursal com a ofensa ao dispositivo mencionado no recurso, o que atrai a incidência da Súmula 284/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Além disso, importante ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos ou interpretados distintamente de outro tribunal pela decisão recorrida, sob pena de inadmissão.
+Veja-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. CUMULAÇÃO DE CLÁUSULA PENAL E LUCROS CESSANTES. BIS IN IDEM. AUSÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. REVISÃO DO VALOR. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015). Ausentes tais requisitos, incide a Súmula n. 284/STF.
+3. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n.
+284/STF).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1860286/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020)
+Ante o exposto, em juízo de reconsideração da decisão de fls. 1.118-1.119 (e-STJ), conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO. NOVO EXAME DO AGRAVO EM RECURSO ESPECIAL. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. CERCEAMENTO DE DEFESA. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
