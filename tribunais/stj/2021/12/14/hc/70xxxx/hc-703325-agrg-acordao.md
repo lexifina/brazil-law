@@ -1,0 +1,59 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. REMIÇÃO POR ESTUDO À DISTÂNCIA. FALTA DE CONTROLE SOBRE AS HORAS EFETIVAMENTE ESTUDADAS. IMPOSSIBILIDADE. PRECEDENTES DESTA CORTE. AGRAVO DESPROVIDO.
+1. No caso, embora conste dos documentos acostados a carga horária total do curso, não restou demonstrado que o sentenciado efetivamente cumpriu a frequência escolar exigida pelo artigo 126, § 1º, da LEP, já que não há qualquer informação sobre a frequência efetiva dele nas atividades realizadas, tampouco da realização das atividades para fins de avaliação. A mera referência da média e de que houve aprovação no curso não se mostra suficiente para comprovar, por si só, o tempo despendido pelo sentenciado para a realização das atividades do curso. Dessa forma, impossível aferir o número de horas correspondente à efetiva frequência do apenado nas atividades educacionais.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por DIEGO FELIX DE OLIVEIRA contra a decisão de fls. 85-88 (e-STJ), que não conheceu do habeas corpus.
+O agravante sustenta que o paciente faz jus à remição de pena, diante do preenchimento dos requisitos legais, considerando restou devidamente comprovada a conclusão do curso profissionalizante nos autos.
+Ressalta que não deve prosperar a tese de que o curso à distância concluído pelo Paciente não existe certificação da Autoridade Educacional competente, pois se trata de curso profissionalizante que dispensa referida formalidade.
+Alega que "é possível verificar com certeza que o agravado concluiu o curso profissionalizante, o qual foi realizado em 360 (trezentas e sessenta) horas, devidamente fiscalizadas pelo órgão público competente, bem como pela própria Unidade Prisional" (e-STJ, fl. 100).
+Requer a reconsideração da decisão agravada ou a submissão do feito à Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. REMIÇÃO POR ESTUDO À DISTÂNCIA. FALTA DE CONTROLE SOBRE AS HORAS EFETIVAMENTE ESTUDADAS. IMPOSSIBILIDADE. PRECEDENTES DESTA CORTE. AGRAVO DESPROVIDO.
+1. No caso, embora conste dos documentos acostados a carga horária total do curso, não restou demonstrado que o sentenciado efetivamente cumpriu a frequência escolar exigida pelo artigo 126, § 1º, da LEP, já que não há qualquer informação sobre a frequência efetiva dele nas atividades realizadas, tampouco da realização das atividades para fins de avaliação. A mera referência da média e de que houve aprovação no curso não se mostra suficiente para comprovar, por si só, o tempo despendido pelo sentenciado para a realização das atividades do curso. Dessa forma, impossível aferir o número de horas correspondente à efetiva frequência do apenado nas atividades educacionais.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A irresignação não merece guarida.
+Observa-se que o agravante não trouxe argumentos suficientemente capazes de infirmar o decisum agravado, motivo pelo qual o mantenho por seus próprios fundamentos, os quais restaram assim consignados (e-STJ, fls. 85-88):
+"A controvérsia gira em torno da contagem de tempo da remição de pena em razão de horas de estudo concluídas pelo paciente.
+É direito do apenado a remição de penas pelo estudo, desde que as atividades, que poderão ser desenvolvidas de forma presencial ou a distância, sejam certificadas pelas autoridades educacionais competentes dos cursos frequentados, conforme os requisitos previstos na Recomendação CNJ n. 44/2013.
+O Tribunal de origem reformou a decisão de Primeiro Grau, sob os seguintes fundamentos (fl. 49):
+"No entanto, no caso em questão, muito embora o agravado tenha juntado o certificado de conclusão relativo a curso realizado à distância (fls. 19/20), não restou demonstrado o preenchimento dos requisitos previstos no artigo 126 da LEP e disciplinados pela Resolução nº 391, de 10.05.2021, do Conselho Nacional de Justiça.
+De fato, não há qualquer evidência nos autos de que o curso realizado integra o projeto político-pedagógico (PPP) da unidade ou sistema prisional, tampouco que foi oferecido por instituição evidamente autorizada ou conveniada com o poder público para esse fim. Frise-se que a documentação juntada se limitou a indicar o conteúdo programático do curso, não havendo qualquer menção ao projeto pedagógico, tampouco à autorização ou convênio com o poder público (fls. 19/20), sequer constando dos autos manifestação da unidade prisional acerca da realização de acompanhamento das atividades e de seu projeto político-pedagógico.
+Nesse contexto, muito embora conste dos documentos acostados a carga horária total do curso, não restou demonstrado que o sentenciado efetivamente cumpriu a frequência escolar exigida pelo artigo 126, § 1º, da LEP, já que não há qualquer informação sobre a frequência efetiva dele nas atividades realizadas, tampouco da realização das atividades para fins de avaliação. Neste ponto, consigne-se que a mera referência da média e de que houve aprovação no curso não se mostra suficiente para comprovar, por si só, o tempo despendido pelo sentenciado para a realização das atividades do curso. Dessa forma, impossível aferir o número de horas correspondente à efetiva frequência do apenado nas atividades educacionais.
+Assim, considerando que os documentos juntados não se mostram suficientes para comprovar o preenchimento dos requisitos exigidos pelo artigo 126 da LEP e disciplinados pela Resolução nº 391, de 10.05.2021, do Conselho Nacional de Justiça, impossível a concessão da pretendida remição por estudo." (e-STJ, fls. 16-17)
+A remição da pena pela realização de estudo, demanda um controle mínimo para seu reconhecimento, com intuito de evitar a facilitação de fraudes e inadvertida concessão do benefício.
+Ocorre que, como bem observado pela Autoridade Coatora, o paciente formulou pedido de remição da pena pelo estudo, apresentando certificados da carga horária total do curso, contudo "não restou demonstrado que o sentenciado efetivamente cumpriu a frequência escolar exigida pelo artigo 126, § 1º, da LEP, já que não há qualquer informação sobre a frequência efetiva dele nas atividades realizadas, tampouco da realização das atividades para fins de avaliação."
+Desse modo, não há como se aferir o efetivo tempo dedicado pelo ora paciente ao estudo, conforme preceitua a lei, para a realização do cálculo da remição a ser concedida.
+Ademais, rever o entendimento adotado pela instância ordinária e decidir de forma contrária demandaria revolvimento fático-probatório, inviável na estreita via do habeas corpus.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELO ESTUDO À DISTÂNCIA. ART. 126, § 1º, DA LEP. RECOMENDAÇÃO N. 44 DO CNJ. ENTIDADE DE ENSINO NÃO CREDENCIADA. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, o que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, apta a gerar constrangimento ilegal, seja recomendável a concessão da ordem de ofício.
+II - "Não obstante o caráter de ressocialização do estudo, o art. 126 da Lei de Execução Penal e Resolução n. 44 do Conselho Nacional de Justiça deixam evidente que a remição da pena pelo estudo depende da efetiva participação do Reeducando nas atividades educacionais. Tal efetividade está sujeita à valoração pelo Poder Público, que pode ser exercida por autoridade educacional ou, até mesmo, pelo sistema prisional local (art. 126, § 2.º, da LEP e art. 1.º, inciso I, da Resolução n. 44/2013)" (HC 462.379/MG, Sexta Turma, Rel. Min. Laurita Vaz, DJe 28/03/2019).
+III - "No caso, a Entidade não é conveniada com a Unidade Penitenciária, motivo pelo qual o Tribunal a quo entendeu pela impossibilidade de aferir a inidoneidade da declaração de conclusão dos cursos profissionalizantes. Para afastar essa percepção é imprescindível o reexame do acervo fático-probatório, o que é todo inviável no âmbito do habeas corpus" (HC 462.379/MG, Sexta Turma, Rel. Min. Laurita Vaz, DJe 28/03/2019). No mesmo sentido, as decisões monocráticas desta Quinta Turma, todas do ano de 2019, nos HCs n. 516.182/SP, n. 506.705/SC e n. 478.721/SP.
+Habeas corpus não conhecido."
+(HC 517.422/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 01/10/2019, DJe 08/10/2019, grifou-se).
+"HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO. NECESSIDADE DE CREDENCIAMENTO DA INSTITUIÇÃO DE ENSINO. ART. 126 DA LEI DE EXECUÇÕES PENAIS E RESOLUÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA. ORDEM DENEGADA.
+1. O presente mandamus busca a remissão de pena pelo estudo, em razão dos certificados de conclusão de dois cursos à distância (Curso de Formação para Eletricista e Curso de Auxiliar de Oficina Mecânica) ofertados pelo Centro de Educação Profissional - CENED, totalizando uma carga horária de 360 horas de estudo.
+2. Não obstante o caráter de ressocialização do estudo, o art. 126 da Lei de Execução Penal e Resolução n. 44 do Conselho Nacional de Justiça deixam evidente que a remição da pena pelo estudo depende da efetiva participação do Reeducando nas atividades educacionais.
+3. Tal efetividade está sujeita à valoração pelo Poder Público, que pode ser exercida por autoridade educacional ou, até mesmo, pelo sistema prisional local (art. 126, § 2.º, da LEP e art. 1.º, inciso I, da Resolução n. 44/2013).
+4. No caso, a Entidade não é conveniada com a Unidade Penitenciária, motivo pelo qual o Tribunal a quo entendeu pela impossibilidade de aferir a inidoneidade da declaração de conclusão dos cursos profissionalizantes. Para afastar essa percepção é imprescindível o reexame do acervo fático-probatório, o que é todo inviável no âmbito do habeas corpus.
+5. Ordem denegada."
+(HC 462.379/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/03/2019, DJe 28/03/2019, grifou-se).
+Ante o exposto, não conheço da ordem."
+No mesmo sentido, cito os recentes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. REMIÇÃO POR ESTUDO À DISTÂNCIA. INEXISTÊNCIA DE CONVÊNIO PARA A PRESTAÇÃO DO CURSO. FALTA DE CONTROLE SOBRE AS HORAS EFETIVAMENTE ESTUDADAS. IMPOSSIBILIDADE. PRECEDENTES DESTA CORTE.
+Agravo regimental improvido."
+(AgRg no HC 674.369/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/10/2021, DJe 13/10/2021)
+"HABEAS CORPUS. REMIÇÃO POR ESTUDO A DISTÂNCIA. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONVÊNIO PARA A PRESTAÇÃO DO CURSO. FALTA DE CONTROLE SOBRE AS HORAS EFETIVAMENTE ESTUDADAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Lei de Execução Penal permite a remição por estudo a distância, desde que observados alguns cuidados para comprovação da frequência e do aproveitamento escolares.
+2. Consoante descrito no acórdão inquinado coator, "não há qualquer informação sobre plano de estudo, bem como relatórios de frequência e de aproveitamento básicos, requisitos que impossibilitam o preenchimento dos parâmetros relacionados à conclusão do ensino, em observância às disposições legais (LEP, art. 126, §1º, inciso I)".
+3. Agravo regimental não provido."
+(AgRg no HC 647.091/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/03/2021, DJe 30/03/2021)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
