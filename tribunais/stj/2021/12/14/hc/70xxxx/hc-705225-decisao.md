@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fls. 11-12):
+APELAÇÃO CRIME. RECEPTAÇÃO. ART. 180, DO CP. USO DE DOCUMENTO FALSO. ART. 304, DO CP.
+MATERIALIDADE E AUTORIA DELITIVAS COMPROVADAS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. ART. 311, DO CP. ABSOLVIÇÃO MANTIDA.
+I - Analisando o conjunto probatório, embora o acusado tenha sido flagrado na posse do veículo automotor de procedência ilícita, e seja o principal interessado na adulteração dos seus sinais identificadores a fim de encobrir a origem espúria, os autos não fornecem provas suficientes para a condenação. Isso porque a mera apreensão do bem com as placas adulteradas em poder dos réus não autoriza a conclusão de que foram eles os responsáveis por adulterar ou remarcar as placas, sendo plausível que o tenha recebido já alterado. Meros indícios são insuficientes para alicerçar condenação criminal, juízo que depende de prova segura e irrefutável. A possibilidade ou probabilidade de que tenha sido eles os autores do fato, não autoriza a condenação.
+II - O delito de receptação dolosa exige a comprovação do dolo direto do agente, ou seja, a conduta somente se enquadrará na aludida modalidade típica se restar demonstrado que ele, ao receber e conduzir o automóvel, em proveito próprio, sabia da sua origem ilícita. O réu não apresentou qualquer elemento de prova para justificar a posse lícita do veículo, o que não piora sua situação, mas tampouco minora a presunção tácita acerca da ciência criminosa do bem. Resta inequívoco, portanto, que o acusado sabia da procedência espúria do veículo, não havendo que se falar emreceptação culposa.
+III - Quanto ao delito de uso de documento falso, para sua consumação, pressupõe que a cártula saia da esfera de domínio pessoal do sujeito ativo, independentemente da sua apresentação ter sido espontânea ou provocada. Tendo o acusado praticado o verbo nuclear do tipo penal, utilizando a documentação inautêntica, é irretocável a condenação.
+RECURSOS DESPROVIDOS.
+Consta dos autos que o paciente foi condenado à pena de5 anos e 6 meses de reclusão, no regime inicial semiaberto, como incurso nas sanções do art. 180, caput, e art. 304 c/c artigo 297, todos do Código Penal, em concurso material.
+Em sede de apelação, os recursos da acusação e da defesa foram improvidos.
+Daí o presente writ, no qual alega o impetrante que foi utilizada uma fração superior a 1/6(um sexto) para cada vetorial em razão dos antecedentes criminais e das circunstâncias negativasdo paciente, contrariando, em tese, os arts. 59 e 61 do Código Penal, além dajurisprudência desta Corte. Ainda, sustenta que houve ausência de fundamentação para agravar a pena nos delitos de receptação e uso de documento falso.
+Requer a concessão da ordem, liminarmente, para a suspensão do processoe, no mérito, para que seja readequada a reprimenda imposta, de modo a incidir o aumento de 1/6para cada vetorial negativa.
+A liminar foi indeferida.
+Prestadas informações, o Ministério Público Federal opinou pelo não conhecimento do writ.
+Em relação à dosimetria da pena, assim consta da sentença (fls. 374-377):
+ ..
+PASSO A FIXAR A PENA PARA O CRIME DE RECEPTAÇÃO:
+Atendendo o comando do art. 68 do CP, bem como os vetores do art. 59 do mesmo Diploma Legal, verifico que o réu registra antecedentes. Conduta social sem elementos nos autos. Quanto à sua personalidade, não há dados que indiquem possíveis transtornos sociopsicológicos. Os motivos são inerentes à espécie.As circunstâncias do crime são desfavoráveis, eis que conhecido por policias em região de tráfico de drogas. As consequências do crime não foram graves. A vítima é o Estado.
+Dessa forma, conforme seja necessário e suficiente para a prevenção e reprovação do crime, a culpabilidade deve ser mensurada acima do mínimo legal.
+Assim, fixo a pena-base em 1 ano e 07 meses de reclusão.
+Presente circunstância agravante da reincidência,aumento a pena em 07 meses, Ausentes atenuantes e inexistindo circunstâncias majorantes e minorantes, transformo a pena provisória em pena definitiva que estabeleço em 02 anos e 02 meses de reclusão.
+O regime inicial para o cumprimento de pena, segundo preceitua o art. 33 do CP, considerando a reincidência, é o semiaberto.
+DA PENA DE MULTA Atendendo o comando do art. 49 do CP, bem como os vetores do art, 59 do mesmo diploma legal, fixo a pena de multa na razão de 20 dias-multa no valor de um trigésimo do salário - mínimo mensal vigente ao tempo do fato, para cada unidade de dias fixados, diante da situação econômica do condenado.
+DA SUBSTITUIÇÃO DO APENAMENTO:
+No teor da redação do art. 44 do CP, verifico a impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos, sendo a substituição insuficiente para a reprovação do delito, pois o réu registra antecedentes e tem os vetores do art. 59 do CP desfavoráveis, além de ser reincidente.
+PASSO A FIXAR A PENA PARA O CRIME DE USO DE DOCUMENTO FALSO:
+Atendendo o comando do art. 68 do CP, bem como os vetores do art. 59 do mesmo Diploma Legal, verifico que o réu registra antecedentes. Conduta social sem elementos nos autos. Quanto à sua personalidade, não há dados que indiquem possíveis transtornos sociopsicológicos. Os motivos são inerentes à espécie.As circunstâncias do crime são desfavoráveis, eis que conhecido por policias em região de tráfico de drogas. As consequências do crime não foram graves. A vítima é o Estado.
+Dessa forma, conforme seja necessário e suficiente para a prevenção e reprovação do crime, a culpabilidade deve ser mensurada acima do mínimo legal.
+Assim, fixo a pena-base em 2 anos e 09 meses de reclusão, considerando o apenamento mínimo e máximo desse tipo a exigir rigor maior que o do crime de receptação.
+Presente circunstância agravante da reincidência, aumento a pena em 07 meses. Ausentes atenuantes e inexistindo circunstâncias majorantes e minorantes, transformo a pena provisória em pena definitiva que estabeleço em 03 anos e 04 meses de reclusão.
+O regime inicial para o cumprimento de pena, segundo preceitua o art. 33 do CP, considerando a reincidência, é o semiaberto.
+DA PENA DE MULTA
+Atendendo o comando do art. 49 do CP, bem como os vetores do art. 59 do mesmo diploma legal, fixo a pena de multa na razão de 25 dias-multa no valor de um trigésimo do salário - mínimo mensal vigente ao tempo do fato, para cada unidade de dias fixados, diante da situação econômica do condenado.
+DA SUBSTITUIÇÃO DO APENAMENTO:
+No teor da redação do art. 44 do CP, verifico a impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos, sendo a substituição insuficiente para a reprovação do delito, pois o réu registra antecedentes e tem os vetores do art. 59 do CP desfavoráveis, além de ser reincidente.
+Aplico o concurso material, art. 69 do CP, e fixo a pena privativa de liberdade definitiva em 05 anos e 06 meses de reclusão.
+O regime é o semiaberto em face da reincidência.
+Diante do apenamento aplicado, defiro o direito ao réu de apelar em solto.
+Consta ainda do acórdão (fls. 15-19):
+Em termos de antecedentes, registro que o acusado ostenta condenações definitivas pelos delitos de lesão corporal, sequestro e cárcere privado e dano, extinta ou cumprida no dia 28/10/2015; porte ilegal de arma de fogo, extinta ou cumprida em 22/01/2016; porte ilegal de arma, transitada em julgado em 22/01/2008; tráfico de drogas, extinta ou cumprida em 07/02/, ação penal 018. Além disso, possui uma ação penal em andamento por organização criminosa, com denúncia recebida em 30/03/2017, conforme certidão juntada no evento 3 - PROCJUDIC5.
+A materialidade delitiva restou consubstanciada pelos boletins de ocorrência (evento 3, ação penal - fls. 10/13 e 65/66), auto de apreensão (evento 3, ação penal - fl. 28/29), auto de avaliação (evento 3, ação penal - fl. 72), laudos periciais (fls. 102/104 e 130/133, consulta de veículo (evento 3, ação penal - fl. 64), bem como pela prova oral coligida aos autos.
+ ..
+Quanto ao apenamento, nada a alterar.
+A pena base restou fixada um pouco acima do mínimo legal em razão dos antecedentes criminais e das circunstâncias negativas, visto que o réu foi flagrado em local conhecido de ponto de tráfico, conforme apontou a prova dos autos, o que merece maior reprovabilidade, restando fixada em 01 (um) ano e 07 (sete) meses para o delito de receptação e em 02 (dois) anos e 09 (nove) meses para o delito de uso de documento falso.
+Presente a agravante da reincidência, visto que o denunciado ostenta condenações transitadas em julgado anteriores ao presente feito, fixando a pena provisória em 02 (dois) anos e 02 (dois) meses de reclusão para o delito de receptação, e em 03 (três) anos e 04 (quatro) meses de reclusão ao delito de uso de documento falso.
+Operando-se o concurso material, a pena corporal restou definitiva em 05 (cinco) anos e 06 (seis) meses de reclusão, em regime semiaberto.
+Inviável a isenção da pena de multa, pois esta integra o preceito secundário do tipo penal, imposição que não comporta relativização, face àausência de previsão legal para tanto. Eventual impossibilidade de pagamento deverá ser deduzida perante o Juízo da Execução (art. 66 da LEP).
+Ademais, o número de dias-multa está proporcional, considerando as circuntâncias do art. 59, do CP, corretamente fixadas um pouco acima do mínimo legal.
+Pelo exposto voto por NEGAR PROVIMENTO aos recursos.
+Como visto, a fundamentação para a exasperação da pena-base teve como parâmetros os maus antecedentes e as circunstâncias do crime.
+Em relação aos maus antecedentes, correta a exasperação, eis que devidamente fundamentada, pois "o acusado ostenta condenações definitivas pelos delitos de lesão corporal, sequestro e cárcere privado e dano, extinta ou cumprida no dia 28/10/2015; porte ilegal de arma de fogo, extinta ou cumprida em 22/01/2016; porte ilegal de arma, transitada em julgado em 22/01/2008; tráfico de drogas, extinta ou cumprida em 07/02/, ação penal 018" (fl. 15).
+Salienta-se que é admitida "a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes ficando apenas vedado o bis in idem" (HC 602.919/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 25/08/2020, DJe 03/09/2020).
+Ademais, "A utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes e, ainda, para exasperar a pena, em razão da agravante da reincidência, não caracteriza bis in idem, desde que as sopesadas na primeira fase sejam distintas da valorada na segunda" (HC 645.844/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/04/2021, DJe 16/04/2021).
+Ressalte-se, ainda, quenão há desproporcionalidade no recrudescimento da pena-base em 1/3, tendo em vista que o réu possui mais de uma condenação com trânsito em julgado. Nesse sentido:AgRg no HC 587.700/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 07/12/2020, DJe 10/12/2020.
+Todavia, em relação às circunstâncias do crime, não houve fundamentação idônea, tendo em vista que não houve correlação entre os delitos praticados pelo paciente (receptação e uso de documento falso) e o fato de a região ser conhecida como ponto de tráfico.
+Apesar de uma região poder estar dominada pelo tráfico de drogas, devem conter nos autos elementos que liguem a conduta do acusado à traficância ou, pelo menos, que se aproveite de tal situação ou do aparelhamento de eventual organização criminosa para que as circunstâncias do crime sejam consideradas negativas, o que não ocorreu no caso.
+Ajurisprudência desta Corte Superior de Justiça é no sentido deque a pena-base não pode ser fixada acima do mínimo legal comfundamento em elementos constitutivos do crime ou com base emreferências vagas, genéricas, desprovidas de fundamentação objetivapara justificar a sua exasperação. Precedentes: HC n. 272.126/MG,Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/3/2016,DJe 17/3/2016; REsp n. 1.383.921/RN, Relatora Ministra MARIA THEREZADE ASSIS MOURA, Sexta Turma, julgado em 16/6/2015, DJe 25/6/2015;HC n. 297.450/RS, Relator Ministro JORGE MUSSI, Quinta Turma,julgado em 21/10/2014, DJe 29/10/2014.
+Passo ao redimensionamento da pena.
+No delito de receptação, a pena-base deve ser majorada em 1/3em razão dos maus antecedentes, resultando em 1 ano e 4meses de reclusão e 13dias-multa.
+Na segunda fase, incide a agravante da reincidência na razão de 1/6, resultando em uma pena de 1 ano, 6meses e 16dias de reclusão e 14 dias-multa, que passa a ser a pena definitiva em virtude da ausência de causas de aumento ou de diminuição da pena.
+No delito de uso de documento falso, a pena-base deve ser majorada em 1/3em razão dos maus antecedentes, resultando em 2anose 8 meses de reclusão e 13dias-multa.
+Na segunda fase, incide a agravante da reincidência na razão de 1/6, resultando em uma pena de 3anos, 1mêse 10dias de reclusão e 15dias-multa, que passa a ser a pena definitiva em virtude da ausência de causas de aumento ou de diminuição da pena.
+Em razão do concurso material, a soma das penas perfaz 4 anos e 7meses e 10 diasde reclusão,observando-se a regra do art. 72 do Código Penal quanto às penas de multa.
+Mantidos o regime inicial semiaberto e a impossibilidade de substituição da pena pelos argumentos já expostos na sentença.
+Ante o exposto, concedoa ordem de habeas corpus para reduzir a pena do paciente ao total de 4 anos,7mesese 10 dias de reclusão, mantido o regime inicial semiaberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
