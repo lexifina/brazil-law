@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por Joeber Márcio Gonçalves Batistacontra a decisão de fls. 50/55,a qualindeferiu liminarmente o habeas corpus, porquanto o pleito de aplicação do redutor da pena previsto no § 4º do art. 33 da Lei n. 11.343/2006 demandaria o exame aprofundado de provas, providência incabível na via eleita.
+A defesa diz que a aplicação deste benefício não dependeria do óbice indicado na decisão agravada, ao argumento de que o paciente foi absolvido do crime de associação para o tráfico.
+Aduz, ainda, que a quantidade de entorpecentes apreendidos não seria suficiente para afastar o redutor.
+Requer a reconsideração do decisum ou o provimento do agravo regimental, para a concessão da ordem.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DA PENA. RECONHECIMENTO. IMPOSSIBILIDADE.EXAME APROFUNDADO DE PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+1.Ainstância ordinária afastou a aplicação do redutor da pena, não somente pela grande quantidade de drogas apreendidas, mas, também, em virtude de outros elementos fáticos do caso tratado nos autos, notadamente as modificações realizadas na estrutura do caminhão dopatrão do paciente para ocultar o transporte de drogas, a caracterizar a sua dedicação ao tráfico, pois não houve um simples ocultamento do transporte de 263 kge 815 g de cocaína, no meio da carga transportada, mas a alteração da carroceria do caminhão, com a criação de fundos falsos que poderiam ser usados inúmeras vezes para ocultar entorpecente.
+2. Assim, a modificação desse entendimento com a finalidade de aplicar o redutor da penademanda o exame aprofundado de provas, o que é vedado na estreita via do habeas corpus.
+3.Agravo regimental desprovido.
+VOTO
+Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+O paciente foi preso em flagrante, juntamente com outros corréus, por que transportaram e mantinham em depósito, para fins de comercialização e difusão ilícita a terceiros, aproximadamente 300 kg de cocaína, razão pela qual foi condenado por tráfico ilícito de drogas, nestes termos:
+"Sejamos realistas, nenhum motorista de caminhão, máxime nos dias de hoje, contrataria um frete como aquele que o acusado José Jorge Ribeiro de Brito disse ter pactuado.
+Não se concebe, ademais, que se tenha alterado o seu caminhão, sem a sua percepção e a sua concordância.
+É óbvio que ele sabia muito bem aquilo que transportava, tanto que sequer conseguiu formular exculpação minimamente crível para o espúrio depósito das drogas.
+ ..
+O acusado Joeber Márcio Gonçalves Batista, por sua vez, era o ajudante do dono do caminhão, que trouxe os estupefacientes. Afirmou, inclusive, que auxiliou a descarregar a carreta, malgrado tenha consignado que isso se deu sob ameaça de arma de fogo. Então, ele transportou e desembarcou os tabletes de cocaína. Difícil acreditar que foi obrigado a tanto. Trata-se, aqui, de tráfico de drogas de grande envergadura, interestadual, que se dá sem amadorismo." (fls. 21/22)
+No julgamento da apelação criminal, o Tribunal a quo manteve incólume a reprimenda, consignando:
+"As penas-base, para todos os acusados foram adequadamente majoradas em 1/2 (metade), em vista da expressiva quantidade de entorpecente apreendido (263Kg 815g), circunstância que, a teor do art. 42, da Lei 11.343/06, deve ser considerada como preponderante e confere contornos de gravidade diferenciada ao caso em tela.
+As penas foram, então, majoradas em 1/6 (um sexto), pela causa especial de aumento prevista no art. 40, V, da Lei 11.343/06, cujo reconhecimento encontra seguro apoio nos autos, índice que se apresenta como compatível com o caso em tela e deve prevalecer.
+Os apelantes não fazem jus à redução de suas penas, com fundamento no art. 33, § 4º, da Lei 11.343/06, pois, embora primários, as circunstâncias do caso concreto revelam razoável envolvimento com a criminalidade ligada ao tráfico ilícito de entorpecentes.
+Importa ressaltar, neste aspecto, que a expressiva quantidade e natureza do entorpecente apreendido, à evidência, constitui veemente indício do envolvimento dos acusados com a criminalidade ligada ao tráfico de entorpecente.
+Esta conclusão encontra suporte no art. 239 do Cód. Proc. Penal, que trata da prova indireta, qual seja, a indiciária, cujo valor, no âmbito do sistema do livre convencimento motivado, é o mesmo da direta, em conformidade com o que expressamente é assinalado na exposição de motivos do estatuto adjetivo penal.
+Importa anotar, ainda, que os indícios a serem considerados são apenas os veementes, como ocorre no caso em tela.
+ ..
+No que tange ao regime prisional fixado para início do cumprimento da pena privativa de liberdade, o fechado, apresenta-se como compatível com as circunstâncias concretas do caso em tela." (fls. 37/39)
+Como visto, ainstância ordináriaafastou a aplicação do redutor da pena, não somente pela grande quantidade de drogas apreendidas, mas, também, em virtudede outros elementos fáticos do caso tratado nos autos, notadamente as modificações realizadas na estrutura docaminhão do patrão do paciente para ocultar o transporte de drogas, a caracterizar a sua dedicação ao tráfico, pois não houve um simples ocultamento do transporte de 263 kg e 815 g de cocaína, no meio da carga transportada, mas a alteração da carroceria do caminhão, com a criação de fundos falsos que poderiam ser usados inúmeras vezes para ocultar entorpecente.
+Assim,a modificação desse entendimento com a finalidade de aplicar o redutor da pena, demanda o exame aprofundado de provas, o que é vedado na estreita via do habeas corpus. Confiram-se, a propósito, os seguintes julgados:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PEDIDO DE ABSOLVIÇÃO. CONDENAÇÃO FUNDAMENTADA EM ELEMENTOS SUFICIENTES. REVOLVIMENTO FÁTICO PROBATÓRIO. INVIABILIDADE. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. RÉU QUE SE DEDICA À ATIVIDADE CRIMINOSA. ALTERAÇÃO DESSE ENTENDIMENTO. REEXAME DE FATOS. AGRAVO NÃO PROVIDO.
+1. Apoiada a condenação pelo delito de tráfico de entorpecentes em prova suficiente, o acolhimento do pedido de absolvição demanda o exame aprofundado dos fatos, o que é inviável em habeas corpus. Segundo se infere, há testemunhos seguros, somado ao conjunto probatório trazido como fundamento no acórdão recorrido (auto de prisão em flagrante, auto de exibição e apreensão e laudo de exame toxicológico), de que o agravante e os corréus, agindo em concurso, tinham em depósito, guardavam e transportavam, para fins de entrega a consumo de terceiros, 622,10g de cocaína e um total de 192,4g de maconha fracionados, em desacordo com a lei ou norma regulamentar.
+2. Hipótese em que a Corte de origem manteve afastado o tráfico privilegiado, por entender que a quantidade de drogas apreendidas e as anotações da contabilidade da atividade criminosa evidenciam a habitualidade delitiva do réu. Logo, assentado no acórdão impugnado que o ora agravante se dedica ao tráfico de entorpecentes, a modificação desse entendimento - a fim de fazer incidir a minorante do art. 33, § 4º, da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, providência inadmissível em sede de habeas corpus.
+3. Agravo regimental não provido.
+(AgRg no HC 631.665/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 30/4/2021).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO À ATIVIDADES CRIMINOSAS. QUANTIDADE E NATUREZA DE DROGAS. REGIME DEVIDAMENTE FUNDAMENTADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 não foi aplicada em razão das circunstâncias apuradas na instrução processual. Ficou evidenciado que o paciente se dedicava à atividades criminosas. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto, demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+3. A quantidade e a natureza da droga demonstram a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena.
+4. Habeas corpus não conhecido.
+(HC 633.408/SP, de minha relatoria, QUINTA TURMA, DJe 7/5/2021).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
