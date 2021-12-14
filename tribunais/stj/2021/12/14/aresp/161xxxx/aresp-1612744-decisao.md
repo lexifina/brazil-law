@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo manejado por Itaú Unibanco S.A. contra decisão que não admitiu o recurso especial, este interposto com fundamento no art. 105, III, a e c da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 493):
+APELAÇÃO CÍVEL. EMBARGOS A EXECUÇÃO FISCAL. ISS. SERVIÇOS BANCÁRIOS. SENTENÇA QUE JULGA PARCIALMENTE PROCEDENTES OS PEDIDOS INICIAIS. INSURGÊNCIA RECURSAL DA INSTITUIÇÃO FINANCEIRA EMBARGANTE. INEXISTÊNCIA DE CERCEAMENTO DE DEFESA E DE NULIDADE DOS AUTOS DE INFRAÇÃO E DA CDA. REQUISITOS DO LANÇAMENTO TRIBUTÁRIO PREENCHIDOS. POSSIBILIDADE DE EFETIVAÇÃO DO CONTRADITÓRIO E DA AMPLA DEFESA. FATO GERADOR DO ISS CONSTATADO. INTERPRETAÇÃO EXTENSIVA DA LISTA ANEXA À LC 116/2003. ITEM 15. PRECEDENTES DO STF E DO STJ APLICAÇÃO DA SÚMULA 424/STJ SENTENÇA MANTIDA. DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. MANUTENÇÃO. RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 526/534).
+A parte recorrente aponta violação aos arts. 108 § 1º, do CTN; 1º e lista Anexa da LC 116/2003. Sustenta, além da existência de dissídio jurisprudencial, que "as contas "tarifas interbancárias", "operações ativas". "emissão de cartão magnético e fornecimento de chegues" e "serviços prestados a receber" não podem ser tomadas como passíveis de gerar a incidência do ISS, uma vez que não se enquadram na hipótese de incidência deste imposto." (fl. 547).
+Às fls. 730/732, proferi decisão determinando o retorno dos autos à origem para que fosse realizada a adequação ao que decidido pelo STF no RE 784.439/DF, Tema 296.
+Às fls. 876/879, o Vice-Presidente do Tribunal localnegou seguimento ao recurso especial com base nos Temas 132 do STJ e 296 do STF e o inadmitiu no que remanesce.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, quanto à tese acerca do caráter taxativo da lista de serviços sujeitos ao ISS, verifica-se que o juízo de admissibilidade negou seguimento ao recurso especial, com base no art. 1.030, I, do CPC/2015, por entender que o acórdão recorrido coincide com a orientação do Superior Tribunal de Justiça, decidida com base no rito dos
+recursos repetitivos, no Tema 296 do STJ bem como em conformidade com o Tema 296 do STF.
+Consoante o disposto no art. 1.030, § 2º, do novo Código de Processo Civil, o recurso cabível contra a decisão que nega seguimento a recurso especial, com base no art. 1.030, I, b, do aludido diploma legal, é o agravo interno. Assim, não é possível tratar sobre tal ponto nesta via recursal.
+No que remanesce, destaca-se a seguinte fundamentação do aresto impugnado (fl. 500):
+Apesar de ser taxativa a enumeração apresentada na lista de serviços bancários discriminados na Lei Complementar nº 116/2003, estritamente no que concerne ao gênero desses serviços, admite-se a interpretação ampla e extensiva de seus itens, para abranger outros serviços similares aos expressamente previstos, atendendo-se à natureza essencial dos mesmos e não à nomenclatura específica que lhe possa atribuir a instituição financeira em particular.
+Não importa, deste modo, o nome atribuído ao serviço realizado, bastando que esta atividade seja correlata a determinado item da lista. Com isto. é possível a tributação sem a necessidade de que a terminologia especifica dada ao serviço conste na lista.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem acerca do enquadramento da atividade desempenhada com a legislação que rege o ISS, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EMBARGOS À EXECUÇÃO FISCAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ISS. INCIDÊNCIA SOBRE OS SERVIÇOS BANCÁRIOS CONGÊNERES. LEGITIMIDADE. SÚMULA 424/STJ. VERIFICAÇÃO DO CORRETO ENQUADRAMENTO DA ATIVIDADE DESEMPENHADA NA LISTA DE SERVIÇOS. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA FÁTICA. INCIDÊNCIA DO ÓBICE DA SÚMULA 7/STJ.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa aos arts. 489 e 1.022 do CPC/2015.
+2. A Primeira Seção desta Corte Superior, quando do julgamento do REsp 1.111.234/PR, submetido ao rito dos recursos repetitivos, firmou o entendimento de que a Lista de Serviços anexa ao Decreto-lei 406/68, para efeito de incidência de ISS sobre serviços bancários, é taxativa, mas não veda a interpretação extensiva, sendo irrelevante a denominação atribuída.
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo interno não provido.
+(AgInt no AREsp 1.860.387/RR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/09/2021, DJe 17/09/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. ISS SOBRE AS CONTAS CONTÁBEIS DE TARIFAS INTERBANCÁRIAS. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. "A jurisprudência do STJ define que o exame da compatibilidade dos serviços previstos na Lista é da competência das instâncias ordinárias. Sendo assim, rever o entendimento do Tribunal de origem acerca da incidência do ISS na espécie requer revolvimento do conjunto fático-probatório, o que é inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ" (AgInt no AREsp 1.611.422/PR, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 15/9/2020, DJe 5/10/2020).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.856.657/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 23/09/2021, DJe 14/10/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. ISS. SERVIÇOS BANCÁRIOS. AUTO DE INFRAÇÃO. RUBRICAS ALI CONSTANTES. REVOLVIMENTO FÁTICO-PROBATÓRIO.
+IMPOSSIBILIDADE.
+1. A Primeira Seção desta Corte Superior, quando do julgamento do REsp 1.111.234/PR, submetido ao rito dos recursos repetitivos, firmou o entendimento de que, embora taxativa a Lista de Serviços anexa ao Decreto-Lei n. 406/1968, para efeito de incidência de ISS, admite-se o emprego da interpretação extensiva para serviços congêneres, independentemente da nomenclatura adotada.
+2. Nos termos da Súmula 424 do STJ, "é legítima a incidência de ISS sobre os serviços bancários congêneres da lista anexa ao DL 406/1968 e à LC 56/1987".
+3. Hipótese em que o acórdão recorrido, adotando essa mesma diretriz jurisprudencial, com base na realidade fática descrita nos autos, decidiu que algumas das rubricas consideradas pelo auto de infração não representam receitas de prestação de serviços bancários sujeitos ao ISS, de modo que a revisão dessa conclusão exige o reexame de matéria fático-probatória, medida inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.529.603/CE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/04/2021, DJe 05/05/2021)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
