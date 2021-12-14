@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por ELOA SATSUKI SUZUKI KAWANISHIem face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, que negou admissibilidade a recurso contra acórdão assim ementado:
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO DE AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. NÃO ADOÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. 1. Trata-se de recurso de agravo interno interposto contra decisão monocrática que não conheceu do recurso de agravo de instrumento, por não se tratar de hipótese de cabimento, ante a expressa determinação do art. 1.015, p. único, do CPC. 2. Almeja a recorrente a reforma da decisão monocrática, sob a alegação de que contra decisão de cunho decisório proferida em sede de cumprimento de sentença é cabível agravo de instrumento. 3. Cuida-se, "in casu", de decisão que acolheu a impugnação da Fazenda Pública reconhecendo a prescrição do débito e extinguiu o feito com resolução do mérito, com base no art. 487, inciso II do CPC. Trata-se de sentença, recorrível, portanto, por recurso de apelação, nos termos do art. 1.009 do CPC. Erro grosseiro. Ausência de dúvida objetiva por parte da recorrente, embora instada a se manifestar. Impossibilidade de aplicação da fungibilidade recursal. Decisão mantida. Recurso não provido.
+Houve a oposição de embargos de declaração, os quais foram rejeitados.
+No especial, fundamentado no artigo 105, III, "X" e "X", da Constituição Federal, alegou-se contrariedade às disposições dos artigos XXX.
+Apresentadas contrarrazões.
+A decisão agravada negou seguimento ao especial sob a compreensão de que não é possível a revisão de fatos em recurso especial e porque não houve demonstração da divergência jurisprudencial.
+Nas razões do agravo, o recorrente sustenta a não incidência dos óbices reconhecidos na decisão de inadmissão do recurso especial.
+Ofertada contraminuta.
+É o relatório. Decido.
+A pretensão não merece acolhida.
+De fato, o julgado que resolve a impugnação ao cumprimento de sentença e também extingue a execução não possui natureza de decisão interlocutória, mas sim de sentença. Dessa forma, o recurso cabível deve ser o de apelação. Além disso, tem-se que eventual interposição de agravo de instrumento não pode ser conhecido como apelação por ser considerado erro grosseiro.Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DEALIMENTOS. DECISÃO QUE NÃO PÔS FIM À EXECUÇÃO. CABIMENTO DE AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO.
+1. A decisão que julga impugnação ao cumprimento de sentença sem extinguirfase executiva desafia agravo de instrumento, sendo impossível conhecera apelação interposta com fundamento no princípio da fungibilidade recursal, tendo em vista a existência de erro grosseiro.
+2. Agravo interno não provido.
+(AgInt no AREsp 1380373/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA,julgado em 20/05/2019, DJe 22/05/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. ENQUADRAMENTO. EXECUÇÃO INDIVIDUAL. ERRO GROSSEIRO. CONFIGURAÇÃO.
+1. Caso em que contra sentença que julgou improcedente Impugnação à execução de julgado, apelou a Prefeitura Municipal. No que tange à alegação da ocorrência de erro grosseiro por parte do Município aointerpor o recurso de Apelação, o Tribunal de origem consignou: "Ainda quea decisão recorrida não tenha sido extintiva do processo, pois, emprincipio, a execução prosseguirá, ela tem natureza jurídica de sentença ea fungibilidade recursal permite conhecer o recurso de apelação,assegurando-se o acesso à jurisdição".
+2. A jurisprudência do STJ é uníssona ao afirmar que a decisão que resolve Impugnação ao Cumprimento de Sentença e extingue a execução deve ser combatida através de Apelação, enquanto aquela que julga o mesmo incidente, mas sem extinguir a fase executiva, por meio de Agravo de Instrumento. É firme, também, o entendimento de que, em ambas as hipóteses, não é aplicável o princípio da fungibilidade recursal. Neste sentido: AgInt nos EDcl no AREsp 1.137.181/SC, Rel. Ministro Lázaro Guimarães, Quarta Turma, DJe 8/8/2018; AgInt no AREsp 891.145/MS, Rel.Ministra Maria Isabal Gallotti, Quarta Turma, DJe 20.11.2017; AgInt no AREsp 700.905/PA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 21.2.2017;AgInt nos EDcl no AREsp 147.396/SP, Rel. Ministro Ricardo Villa BôasCueva, Terceira Turma, DJe 24.10.2016; AgRg no AREsp 538.442/RJ, Rel.Ministra Assusete Magalhães, Segunda Turma, DJe 23.2.2016; AREsp1.431.810/SP, Rel. Ministro Sérgio Kukina, DJe 07.2.2019.
+4. Recurso Especial provido.
+(REsp 1803176/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em09/05/2019, DJe 21/05/2019)
+PROCESSUAL CIVIL. RECURSOS. CPC/2015. DECISÃO QUE ENCERRA FASE PROCESSUAL. SENTENÇA, CONTESTADA POR APELAÇÃO. DECISÕES INTERLOCUTÓRIAS PROFERIDAS NA FASE EXECUTIVA, SEM EXTINÇÃO DA EXECUÇÃO. AGRAVO DE INSTRUMENTO.
+1. Caso em que a Corte de origem entendeu que é cabível Apelação da decisão que julga procedente impugnação em cumprimento de sentença.
+2. O STJ, julgando o tema recentemente, decidiu que "no sistema regido pelo NCPC, o recurso cabível da decisão que acolhe impugnação aocumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento" (REsp 1.698.344/MG, Rel. MinistroLuis Felipe Salomão, Quarta Turma, DJe 1/8/2018.
+3. Recurso Especial não provido.
+(REsp 1767663/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/11/2018, DJe 17/12/2018)
+Ante o exposto conheço do agravo em recurso especial para negar provimento do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JULGADO QUE EXTINGUE FASE DE CUMPRIMENTO DE SENTENÇA. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. IMPOSSIBILIDADE. NÃO ADOÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
