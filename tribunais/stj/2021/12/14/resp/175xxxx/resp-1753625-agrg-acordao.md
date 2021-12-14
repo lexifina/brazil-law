@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JARBAS LUCIO DELA COLETA interpõe agravo regimental contra a decisão de fls. 429-433, por meio da qual neguei provimento ao recurso especial.
+Em suas razões, o agravante sustenta que, "no caso em tela, o laudo pericial era imprescindível para se atestar e identificar quais as substâncias que foram apreendidas e por fim, se de fato, fazem parte do rol de proibição de seu armazenamento ou de sua comercialização" (fl. 438).
+Defende que "não restou caracterizada a hipótese de enquadramento na Súmula n. 83 desta Corte de Justiça, diante das peculiaridades específicas do caso em tela" (fl. 437).
+Requer a reconsideração do decisum agravado e, subsidiariamente, o acolhimento do regimental a fim de que seja provido o recurso especial para absolvê-lo, por ausência de comprovação da materialidade delitiva.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DELITO DO ART. 5º DA LEI N. 7.802/1989. CRIME DE PERIGO ABSTRATO. PROVA PERICIAL. PRESCINDIBILIDADE. SÚMULA N. 83 DO STJ. INCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Aos ditames da orientação desta Corte Superior, o crime tipificado no art. 15 da Lei n. 7.802/1989 trata-se de delito de perigo abstrato que cria risco não permitido a bem jurídico de extrema relevância para a sociedade e que se consuma independentemente de algum resultado naturalístico ou de efetiva lesão a integridade de terceiro.
+2. Assim, para o deslinde da causa, despicienda a produção da prova pericial, bastando, para tanto, que o produto apreendido seja classificado como agrotóxico, seus componentes e afins, o que ocorreu in casu.
+3. Incide, na hipótese, o disposto na Súmula n. 83 do STJ, porquanto o acórdão recorrido vai ao encontro da jurisprudência desta Corte Superior.
+4. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+5 Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos expendidos pela defesa, não identifico suficientes razões para alterar a conclusão da decisão impugnada.
+Conforme consignado no decisum agravado, o recorrente foi denunciado pela suposta prática do delito tipificado no art. 15 da Lei n. 7.802/1989, porque, "no dia 12 de março de 2012, por volta de 12h00, na sede do estabelecimento empresarial Casa do Sítio/Della Coleta e Cia Ltda.-ME,  ..  comercializava agrotóxico, seus componentes e afins, em descumprimento às exigências estabelecidas na legislação pertinente" (fl. 315).
+Segundo narrou o órgão de acusação, "fiscais da Secretaria de Agricultura e Abastecimento do Estado de São Paulo efetuaram fiscalização no estabelecimento empresarial denominado Casa do Sítio, e constataram a comercialização de produtos agrotóxicos sem registro no Ministério da Agricultura, Pecuária e Abastecimento MAPA -, além da venda fracionada de tais produtos sem a devida autorização, tudo conforme o auto de infração" (fl. 315).
+Encerrada a instrução criminal, o réu foi condenado, nos termos da denúncia, à pena de 2 anos de reclusão, em regime inicial aberto, e ao pagamento de 10 dias-multa, substituída a reprimenda privativa de liberdade por duas restritivas de direitos. Na oportunidade, o Magistrado sentenciante indicou o que segue (fls. 318-319):
+ ..  restou incontroverso nos autos que a fiscalização da Secretaria Estadual da Agricultura, em diligência, no dia 12 de março de 2012, apreendeu o inseticida Gastoxin-B57 (fl. 10), o herbicida Rondup Original (fl. 11), os agrotóxicos Tordon (f1.35), Lannate BR (fl. 38) e Regent (fl. 44), de comércio controlado, no estabelecimento comercial de propriedade do acusado, que não tinha autorização para comercializar esses tipos de produtos em seu estabelecimento.
+Só pela inovação do réu na fase judicial já ficava provado que ele mentira em juízo. Isso porque, na fase policial, havia informado que, em verdade, naquela ocasião foi constatada a venda fracionada de agrotóxico, fato que nunca mais se repetiu após tal vistoria. Em juízo, de forma inovadora, disse que na ocasião dois agricultores levaram os produtos até seu estabelecimento, que foram fracionados pelo interrogando, e deixaram as embalagens vazias no local. Todavia, sequer arrolou como testemunhas esses agricultores para fazer prova de sua versão.
+A fotografia de fl. 13 também comprova que o acusado estava praticando o fracionando irregular de agrotóxico dentro de seu estabelecimento
+Desta feita e com o devido respeito, basta o mínimo de bom senso e de coerência para verificar que o réu tinha propositalmente aqueles produtos na loja para comercialização. É fácil a alegação de que a guarda de produto proibido se destinava a descarte ou devolução.
+Não ganha relevo, também, a escusa apresentada pelo acusado; pois, se os produtos fossem mesmo de propriedade de terceiro ou fossem destinados à devolução ou descarte, eles não seriam guardados, coincidentemente, ao lado de outros produtos efetivamente vendidos na loja; pois seria providenciada, de forma rápida e imediata, pelo menos a separação daquele agrotóxico para que pudesse ser devolvido posteriormente.
+Nesse contexto, a prova indiciária tem especial relevância, sob pena de bastar o réu alegar que o bem não era destinado ao comércio para eximi-lo da responsabilidade penal. Assim, de rigor é a condenação do acusado.
+Inconformada, a defesa interpôs recurso de apelação, ao qual o Tribunal a quo negou provimento. A tese objeto da insurgência especial foi assim tratada no acórdão impugnado (fls. 389-390, grifei):
+A materialidade restou comprovada pelo auto de infração (fls. 07/47), bem como pela prova oral colhida.
+Apesar da insurgência defensiva acerca da necessidade de realização de laudo pericial para atestar que os produtos apreendidos em poder do Réu são agrotóxicos, tal medida não é imprescindível, como mencionado pelo Magistrado "a quo" no despacho de fls. 141/143:
+".. certo é que a prova técnica não se mostra imprescindível em todos os casos, não se podendo extrair tal conclusão tão somente da leitura do disposto no art. 158 do CPP.
+Em diversas circunstâncias a materialidade delitiva pode aflorar do conjunto de provas documentais e orais, ou mesmo da prova técnica indireta, sem que tenha sido levado a efeito perícia direta no material encontrado e interditado pela fiscalização da secretaria da agricultura e abastecimento".
+Ressalte-se que uma vez que os produtos químicos de venda restrita foram apreendidos em suas respectivas embalagens, o magistrado pode considerar tal prova como suficiente, não restando obrigado a determinar a realização de perícia que entenda desnecessária, em atenção ao princípio da discricionariedade.
+Da leitura do aresto recorrido, verifico que a materialidade delitiva foi comprovada por meio da apreensão dos produtos, em relação aos quais o acusado não possuía autorização para comercializar, "em suas respectivas embalagens" (fl. 390), bem como do auto de infração e de testemunhos colhidos na fase judicial.
+Aos ditames da orientação desta Corte Superior, o crime tipificado no art. 15 da Lei n. 7.802/1989 trata-se de delito de perigo abstrato, que cria risco não permitido a bem jurídico de extrema relevância para a sociedade e que se consuma independentemente de algum resultado naturalístico ou de efetiva lesão a integridade de terceiro.
+Assim, para o deslinde da causa, despicienda a produção da prova pericial, bastando, para tanto, que o produto apreendido seja classificado como agrotóxico, seus componentes e afins, o que ocorreu in casu.
+Constato, pois, que a conclusão a que chegou o Tribunal estadual está em harmonia com a jurisprudência desta Corte Superior, senão vejamos:
+ ..
+3. A materialidade do delito restou devidamente demonstrada pela presença inequívoca das embalagens do agrotóxico ARTYS descartadas no local em desacordo com a legislação pertinente, o que ficou devidamente comprovado por meio do auto de infração de n. 676753-0, comunicação de crime, relação de pessoas envolvidas na Infração ambiental, certidão e relatório de fiscalização, bem como pelos depoimentos colhidos nos autos em juízo. Nesse contexto, despicienda a realização de perícia para a comprovação da materialidade delitiva.
+4. Além disso, o crime do artigo 15 da Lei n. 7.802/1989 é crime de perigo abstrato, ou seja, não se exige a existência de uma situação de efetivo perigo, pois ela é presumida, como tampouco se exige a produção de resultado naturalístico para que se verifique a sua consumação. Desse modo, é prescindível a realização de perícia.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 910.522/RO, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 10/5/2021)
+ ..
+4. No presente caso, o Paciente, representante de empresa, expôs à venda 08 litros do produto denominado "Score" (embalagem de 01 litro), e 04 galões do produto chamado "Contain" (embalagem de 05 litros), todos com as respectivas datas de validade vencidas. A hipótese dos autos, portanto, é diversa da que se exigiu perícia para aferição da lesividade do produto. Na espécie trata-se de comercialização de agrotóxico, que por si só, sem maiores discussões, é produto perigoso ao manuseio humano. Não só isso, repita-se, os produtos tinham prazo de validade vencido.
+5. À luz do art. 18, § 6.º, do Código de Defesa do Consumidor, "São impróprios ao uso e consumo: I - os produtos cujo prazo de validade estejam vencidos".
+6. Despicienda, portanto, nesta hipótese, a perícia, pois absolutamente "desnecessária a comprovação da materialidade delitiva por meio de laudo pericial" (REsp 1060917/RS, Rel. Min. ARNALDO ESTEVES LIMA, 5.ª Turma, DJe 13/04/2009).
+7. Habeas corpus denegado.
+(HC n. 115.650/SP, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 22/11/2010).
+Portanto, está correta a decisão que inadmitiu na origem a pretensão recursal, haja vista que incide na hipótese o disposto na Súmula n. 83 do STJ.
+Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
