@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+WESLEY DONIZETI RAMOS DOS SANTOSagrava de decisão na qual a Presidência desta Corte Superior não conheceu do agravo em recurso especial de fls. 407-413 ante a incidência da Súmula n. 182 do STJ ao caso.
+A parte explica que impugnou especificamente os argumentos utilizados para inadmissão do seu recurso especial e requer a cassação do decisum.
+O Ministério Público Federal manifesta-sepelo não provimento do regimental.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDOS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nas razões de pedir do agravo em recurso especial, a parte deixou de refutar, especificamente, os fundamentos utilizados da decisão impugnada, o que atraiu a incidência da Súmula n. 182 do STJ.
+2. O insurgente não indicou trechodo acórdão da apelação que consubstancia o prequestionamento das controvérsias relacionadas à detração penal e à ofensa do princípio ne bis in idem.
+3. Para impugnar a incidência da Súmula n. 83 do STJ, era necessário demonstrar que a jurisprudência indicada na decisão que inadmitiu o recurso especial é inaplicáveis ao caso, o que não ocorreu.
+4. É insuficiente, para requerer o afastamento do óbice da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas.
+5. Agravo regimental não provido.
+VOTO
+O agravante foi condenado por incursão no art. 16, parágrafo único, IV, da Lei n. 10.826/2003, ao cumprimento de 3 anos e 6 meses de reclusão, em regime semiaberto, mais pagamento de multa, porquanto, em 10/5/2019, possuía "revólver calibre 38, marca Taurus, numeração suprimida, com 2 (duas) munições picotadas, sem autorização e em desacordo com determinação legal ou regulamentar" (fl. 362).
+A defesa interpôs o recurso especial de fls. 375-388, com fundamento no art. 105,III,"a", da CF, no qual alegou a violação dos arts. "13, 33, 59 e 68 do Código Penal,  .. 41, 155, 156, e 387, parágrafo 2ºentre outros dispositivos conexos" (fl. 377). Sustentou as seguintes teses: a) atipicidade da conduta; b) necessidade de detração penal para fixação do regime prisional aberto. Pediu a absolvição e a alteração do modo de cumprimento da pena.
+O Tribunal a quo inadmitiu a insurgência, por: a) falta de prequestionamento da matéria relacionada ao art. 387, § 2º, do CPP e do alegado bis in idem na consideração da reincidência e c) incidência dasSúmulas n. 7 e 83 do STJ.
+A decisão foi atacadaàs fls. 407-413, em agravo não conhecido por decisão da Presidência desta Corte, ante a incidência da Súmula n. 182 do STJ.
+Este regimental não merece provimento.
+O insurgente, para ver orecurso especial inadmitido ascender a esta Corte Superior, precisa, primeiro, desconstituir os fundamentos indicados para a negativa de seu seguimento, sob pena de vê-lomantido. Não é suficiente, para tanto, o emprego de assertivas genéricas.
+Conforme consignou o Tribunal de origem na decisão de fls. 400-402, no julgamento da apelação (fls. 360-367), não houve exame das teses relacionadas à detração penal ou aobis in idem(falta de prequestionamento). Ainda, a orientação desta Corte se firmou no mesmo sentido do aresto recorrido e, para refutar suas conclusões, para o fim de absolver o réu, seria necessário o reexame de provas (Súmulas n. 7 e 83 do STJ).
+O agravante não transcreveu trechodo acórdão da apelação com a manifestação sobre o desconto dos quase três meses de prisão preventiva para efeito de fixação do regime prisional ousobre eventualbis in idem na consideração da reincidência para fins de escolha do regime inicial semiaberto. Não demonstrou, pois, o prequestionamento.
+Para impugnar a incidência da Súmula n. 83 do STJ, era preciso comprovar que os precedentes indicados na decisão que inadmitiu o recurso especial são inaplicáveis ao caso oucolacionar outros julgados, contemporâneos, para evidenciar que é diverso oentendimento desta Corte Superior, o que não ocorreu.
+Por fim, é insuficiente, para pedir o afastamento da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas. É preciso exibir prova oupremissa fática,admitidas pelo Tribunal a quo, a qual, uma vez revalorada, permita o acolhimento da pretensão defensiva. No ponto, o contexto delineado noaresto recorrido não possibilita a absolvição do réu.
+Nesse cenário, está correta a aplicação daSúmulan. 182 do STJ.
+Por fim, não diviso patente ilegalidade no aresto recorrido. Deveras, "é irrelevante estar a arma desmuniciada para a configuração do delito de posse ilegal de arma de fogo de uso restrito, por se tratar de crime de mera conduta e de perigo abstrato"(AgRg no HC n. 450.234/MS, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 21/11/2018) e, mesmo com o decote dos quase três meses de prisão preventiva, "éadmissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais" (Súmula n. 269 do STJ).
+Finalmente: "afixação do regime prisional segue as regras do artigo 33 do Código Penal. A dosimetria da pena, por sua vez, respeita os critérios definidos pelos arts. 59 e 68 do Código Penal. Assim, inexiste bis in idem quando a reincidência é utilizada para agravar a pena, na segunda fase da dosimetria, e, novamente, para fundamentar o regime mais gravoso"(HC n. 463.769/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 13/9/2018).
+À vista do exposto, nego provimento ao agravo regimental.
