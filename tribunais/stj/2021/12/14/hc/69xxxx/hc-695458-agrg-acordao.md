@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO SIMPLES. PEDIDO DE ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REINCIDÊNCIA E MAUS ANTECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Pedido de aplicação do princípio da insignificância. Inaplicabilidade. Com efeito, "a Terceira Seção desta Corte, no julgamento dos EREsp n.221.999/RS, estabeleceu a tese de que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, o aplicador do direito verificar que a medida é socialmente recomendável" (RHC n. 118.548/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 13/12/2019).
+III - Na hipótese em foco, observa-se não ser recomendável a aplicação do princípio da insignificância. Isso porque o paciente ostenta diversos maus antecedentes e, ainda, é reincidente. Ademais, o ínfimo valor da res furtiva, diante das referidas circunstâncias não tem o condão de, por si só, atrair a incidência do princípio bagatelar. Nesse sentido: AgRg no AREsp n. 1.553.855/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/11/2019; AgRg no HC n. 516.674/MG, Quinta Turma, Leopoldo de Arruda Raposo (Desembargador Convocado Do TJ/PE), DJe de 29/10/2019; e HC n. 540.456/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 09/12/2019.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por HARLEY CRISTÓFARO DA SILVA contra a decisão de fls. 277-279, que não conheceu do habeas corpus.
+Nas razões do presente inconformismo (fls. 285-302), a parte agravante alega que, "em relação à reincidência que pesa sobre o agravante e que foi destacado na r. decisão, não se deve ser analisado com critérios subjetivos e sim objetivos, que significa afirmar que a análise consiste em verificar se o fato tem ou não relevância para o Direito Penal, sob o prisma da fragmentariedade e da intervenção mínima. As circunstâncias de ordem subjetiva, como a reincidência e/ou maus antecedentes, não impedem o reconhecimento do fato como bagatelar, sob pena de se implementar, no âmbito da caracterização do crime, o Direito Penal do Autor. Assim, a reiteração delitiva não é hábil a afastar a incidência do princípio da insignificância, pois se julga o fato delitivo e não o seu agente" (fl. 289).
+Afirma ser possível a aplicação do princípio da insignificância aos reincidentes e portadores de maus antecedentes, segundo a jurisprudência dos Tribunais Superiores.
+Requer a absolvição do paciente.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO SIMPLES. PEDIDO DE ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REINCIDÊNCIA E MAUS ANTECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Pedido de aplicação do princípio da insignificância. Inaplicabilidade. Com efeito, "a Terceira Seção desta Corte, no julgamento dos EREsp n.221.999/RS, estabeleceu a tese de que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, o aplicador do direito verificar que a medida é socialmente recomendável" (RHC n. 118.548/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 13/12/2019).
+III - Na hipótese em foco, observa-se não ser recomendável a aplicação do princípio da insignificância. Isso porque o paciente ostenta diversos maus antecedentes e, ainda, é reincidente. Ademais, o ínfimo valor da res furtiva, diante das referidas circunstâncias não tem o condão de, por si só, atrair a incidência do princípio bagatelar. Nesse sentido: AgRg no AREsp n. 1.553.855/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/11/2019; AgRg no HC n. 516.674/MG, Quinta Turma, Leopoldo de Arruda Raposo (Desembargador Convocado Do TJ/PE), DJe de 29/10/2019; e HC n. 540.456/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 09/12/2019.
+Agravo regimental desprovido.
+VOTO
+Inicialmente, consigna-se que se encontram presentes os pressupostos de admissibilidade, razão pela qual conheço do presente agravo regimental.
+A parte agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, assim proferida:
+"A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração a absolvição do paciente, ante a incidência do princípio da insignificância.
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"E, no caso em análise, conforme se extrai da CAC de fls. 53/54v, o apelante é reincidente em crimes patrimoniais e possuidor de maus antecedentes, o que impede a aplicação do princípio da bagatela, em face da reprovabilidade do comportamento do agente" (fls. 182-183).
+Com efeito, "a Terceira Seção desta Corte, no julgamento dos EREsp n.221.999/RS, estabeleceu a tese de que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, o aplicador do direito verificar que a medida é socialmente recomendável" (RHC n. 118.548/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 13/12/2019).
+Na hipótese em foco, observa-se não ser recomendável a aplicação do princípio da insignificância. Isso porque o paciente ostenta diversos maus antecedentes e, ainda, é reincidente. Ademais, o ínfimo valor da res furtiva, diante das referidas circunstâncias não tem o condão de, por si só, atrair a incidência do princípio bagatelar. Nesse sentido: AgRg no AREsp n. 1553855/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 26/11/2019; AgRg no HC n. 516.674/MG, Quinta Turma, Leopoldo de Arruda Raposo (DESEMBARGADOR CONVOCADO DO TJ/PE), DJe de 29/10/2019; e HC n. 540.456/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 09/12/2019.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I."
+A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
