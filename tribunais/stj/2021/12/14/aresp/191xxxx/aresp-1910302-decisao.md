@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.contra decisão que negou seguimento ao seu recurso especial, fundamentado naalínea"a" do inciso III do artigo 105 da Constituição Federal, manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo,assim ementado (fl. 459):
+EMBARGOS DE TERCEIRO. Inserção de gravame em veículo da Embargante pela Embargada sem as devidas cautelas legais necessárias, inclusive com ausência de requisito regulamentar necessário. Ausência de prova de danos materiais pela Embargante, não apresentada nem mesmo nas presentes razões recursais. Valor dos danos morais fixado de forma razoável e conforme a condição concreta das partes. RECURSO DA EMBARGADA NÃO PROVIDO. RECURSO DA EMBARGANTE NÃO PROVIDO.
+A instituição financeiraagravantesustenta, nas razões de recurso especial, ofensa aos artigos 186 e 927 do Código Civil; e373, I, do Código de Processo Civil, alegando que foram comprovados os danos extrapatrimoniais, que não podem ser presumidos.
+Assim delimitada a controvérsia, passo a decidir.
+Verifico que o Tribunal de origem confirmou a sentença, que reconheceu a configuração dos danos morais com as seguintes considerações (fl. 388):
+Em suma, o que se denota é a falha do banco réu ao anotar a restrição financeira no registro de veículo de propriedade da autora por débito contraído por terceiro, de sorte que deve mesmo responder objetivamente pelo dano moral sofrido pela vítima, em virtude do constrangimento, angústia e desassossego decorrentes do gravame financeiro lançado indevidamente no cadastro de veículo de sua propriedade (arts. 927, § único, do Código Civil e 14 do Código de Defesa do Consumidor).
+Nesse contexto, sem sombra de dúvida, o dano extrapatrimonial restou evidenciado, uma vez constatada a existência de pendência financeira e a necessidade de medida judicial para excluir o gravame e, assim, deixar o veículo livre e desembaraçado.
+Conforme consignado na decisão agravada, a adoção de entendimento diverso por esta Corte quanto ao ponto, contrariamente àconclusão das instâncias ordinárias, demandaria reexame do acervo fático-probatóriodos autos, o que é vedado,a teor do enunciado n. 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
