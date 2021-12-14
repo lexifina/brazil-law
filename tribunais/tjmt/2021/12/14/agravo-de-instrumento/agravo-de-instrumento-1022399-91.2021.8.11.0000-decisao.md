@@ -1,0 +1,24 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 10222399-91.2021.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto pela UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO em virtude da decisão proferida pelo Juiz 7.a Vara Cível da Comarca da Capital que, nos autos da Ação de Obrigação de Fazer c/c Pedido de Tutela de Urgência proposta por JOSÉ LOPES VIEIRA, deferiu o pedido de antecipação de tutela e determinou que a Agravante autorize/custeie imediatamente a internação hospitalar requisitada, bem como os procedimentos solicitados pelo médico responsável pelo tratamento do Agravado, no prazo de 24 horas, sob pena de multa diária de R$ 5.000,00 (cinco mil reais) até o limite de R$ 50.000,00 (cinquenta mil reais).
+Em suas razões, a Agravante sustenta que a internação solicitada foi negada em razão de estar cumprindo prazo de carência de 180 (cento e oitenta) dias para internações, ou seja, trata-se de negativa por carência contratual.
+Assevera que o contrato de prestação de serviços do Agravado, assim como todos os contratos de planos de saúde, de acordo com a legislação pertinente, possui período de carência para cada procedimento a ser realizado, entre estes as internações clínicas e cirúrgicas. E o período de carência para o Recorrido, conforme previsão contratual, vencerá somente em 01/04/2022.
+Afirma que os planos de saúde são submissos à Lei 9.656/98, e as carências contratuais estipuladas nos contratos estão em consonância com o referido regramento normativo. Explica que o instrumento contratual consta, de forma clara e precisa, na Cláusula XVII, denominada “Carências Contratuais,” item 13-IV - 180 dias para internação hospitalar.
+A corroborar sua argumentação, cita artigos da Lei 9.656/98, Resolução 428/2017 (art. 13) da ANS, Consu 13/1998, da ANS (art. 2.o e 3.o).
+Ademais, enfatiza que não desrespeitou o artigo 51 do Código de Defesa do Consumidor, já que a limitação do contrato não pode ser considerada iníqua ou abusiva, pois está compreendida na própria lei de regência, não podendo, desta forma, agir em descompasso com o contrato firmado.
+Consigna que a manutenção da decisão objurgada trará efeitos econômicos importantes sobre a estabilização do mercado de planos de saúde, com potenciais consequências sobre toda a gama de consumidores que contribuem mensalmente para o equilíbrio econômico e atuarial do plano contratado.
+Sob tais argumentos, pugna pela concessão do efeito suspensivo ao instrumental para, desde logo, sobrestar a decisão vergastada na origem até o julgamento do mérito deste Instrumental.
+Eis o relatório. Decido.
+Recebo o Agravo de Instrumento, pois o recurso é tirado em virtude de decisão interlocutória, o que é autorizado pelo inciso I, do artigo 1.015, do Código de Processo Civil, bem como está instruído com os documentos necessários para sua análise e conhecimento.
+Como é cediço, o artigo 1.019, inciso I, do Código de Processo Civil, dispõe que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada à plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+O parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Da análise dos autos, não entrevejo a confluência dos requisitos para concessão do pedido liminar, eis que, nos termos da jurisprudência atual, o prazo de carência não pode servir de óbice à efetiva prestação do serviço, ou seja, o referido prazo não deve ser levado em consideração em caso de urgência ou emergência, em detrimento da proteção à vida e à saúde da paciente.
+Na hipótese, o médico que acompanha o Agravado, Dr. Allyson Gabriel Araújo Correia (CRM/MT – 11.311), atestou a necessidade de internação em leito de UTI para estabilização do quadro clínico do paciente, o que demonstra a urgência dos cuidados médicos (ID. 70374448).
+De igual modo, não entrevejo o perigo de dano decorrente da manutenção da decisão invectivada até o julgamento do mérito recursal, pois, inobstante a Recorrente afirmar que o cumprimento da decisão lhe causará custos elevados, a irreversibilidade desse custo não está comprovada.
+Meras conjecturas não têm o condão de afastar o direito do consumidor em ser atendido diante da necessidade comprovada pela documentação que escolta o pedido.
+Portanto, ausentes os requisitos, indefiro o pedido de efeito suspensivo.
+Intime-se a parte agravada para, querendo, apresentar contraminuta, nos termos do art. 1.019, II, do CPC.
+Cumpra-se.
+Cuiabá, 14 de dezembro de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
