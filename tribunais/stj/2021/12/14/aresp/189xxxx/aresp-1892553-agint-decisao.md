@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Agravo Interno contra decisão da Presidência que conheceu do Agravo para não conhecer doRecurso Especial (fls. 900-902, e-STJ).
+A referida matéria foi afetada, pela Primeira Seção do STJ, para julgamento segundo o Rito dos Recursos Repetitivos, previsto nos arts. 1.036 e seguintes do CPC/2015, nos REsp 1.878.849/TO, REsp 1.878.854/TO e REsp 1.879.282/TO, de relatoria do Ministro Napoleão Nunes Maia Filho (Tema 1.075/STJ).
+Na ocasião, a controvérsia a ser dirimida foi assim delimitada: "Legalidade do ato de não concessão de progressão funcional do Servidor Público, quando atendidos todos os requisitos legais, sob o fundamento de que superados os limites orçamentários previstos na Lei de Responsabilidade Fiscal, referentes a gastos com pessoal de Ente Público".
+Nesse julgamento, determinou-se, com fundamento no art. 1.037, II, do Código de Processo Civil de 2015, "a suspensão de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão delimitada e que tramitem no território nacional".
+Dessa forma, nos termos do art. 1.040, II, do CPC/2015, publicado o acórdão paradigma, o órgão que proferiu o acórdão recorrido, na origem, reexaminará o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior. E, versando o recurso interposto sobre outras questões, diversas da examinada no repetitivo, "caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões" (art. 1.041, § 2º, do CPC/2015).
+Ante o exposto, torno sem efeito a decisão das fls. 900-902, julgo prejudicado o presente Agravo Interno e determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
