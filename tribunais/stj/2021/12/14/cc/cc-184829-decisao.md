@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado por Francisco Fernandes em que aponta como suscitados o Tribunal de Justiça de São Paulo e o Juízo da 37ª Vara do Trabalho de São Paulo/SP.
+Afirma que o Juízo trabalhista, no bojo da Execução Trabalhista de n. 0002216-55.2011.5.02.0037, negou o cancelamento da penhora efetivada no imóvelmóvel de matricula n.165.980, localizado na Rua Doutor Ângelo Vita, n.112, apto 133, Edifício Residencial La Dolce Vita, Tatuapé, São Paulo/SP, o qual teve sua impenhorabilidade reconhecida, por se tratar de bem de família, em decisão proferida pela Vigésima Câmara de Direito Privado do Tribunal de Justiça de São Paulo, no Agravo de Instrumento n. 2103015-92.2016.8.26.0000.
+Alega, ainda, que foi incluído na execução trabalhista por ser sócio de Italspeed Automóveis Ltda. - em recuperação judicial -, que teve sua personalidade jurídica desconsiderada. Assim, prosseguindo-se com atos executórios em desfavor do sócio, a Justiça trabalhista determinou a penhora do aludido imóvel.
+Todavia, "em que pese àvasta documentação anexada e alegações acerca da matéria de ordem publica já apreciada e decidida em segunda instância pelo Tribunal de Justiça do Estado de São Paulo, o Magistrado considerou que o direito de arguir tal pretensão ESTAVA PRECLUSO não considerando a impenhorabilidade do imóvel" (e-STJ, fl. 5).
+Diante disso, sustenta que "oconflito suscitado decorre da anterior apreciação de fatos, decidida pelo Tribunal de Justiça do Estado de São Paulo, em acórdão TRANSITADO EM JULGADO, portanto, não mais sujeito a recursos ou a reexame, e da atual insubordinação e acatamento perpetrados pelo Magistrado Trabalhista de primeiro grau" (e-STJ, fl. 5).
+Pugna, portanto, pela concessão de tutela de urgência para sobrestar a execução trabalhista, impedindo a expropriação do imóvel, e, no mérito, reconhecer a competência da Justiça comum estadual acerca da decisão transitada em julgado que reconheceu a impenhorabilidade do imóvel constrito.
+Brevemente relatado, decido.
+Com efeito, nos termos do art. 66 do CPC/2015, somente se configura conflito positivo de competência quando dois ou mais juízes se consideram competentes para o julgamento de uma mesma causa.
+Na espécie, não se verificam os pressuspostos para a configuração do conflito, haja vista que a decisão proferida pelo Juízo trabalhista não busca usurpar da competência do Juízo comum.
+Nota-se que a decisão proferida pelaVigésima Câmara de Direito Privado do Tribunal de Justiça de São Paulo, no Agravo de Instrumento n. 2103015-92.2016.8.26.0000, em nada se relaciona à execução trabalhista, pois acoisa julgada ali formada é restritas às partes,não podendo prejudicar terceiros, consoante determina o art. 506 do CPC/2015.
+Assim, nota-se que a coisa julgada formada no aludido agravo de instrumento foi formada apenas em relação ao suscitante e ao Banco KDB do Brasil S.A., sendo de todo inoponível ao ora interessado, Sr. Francisco Pereira da Cunha, pois não constituiu nenhum dos polos daquela relação jurídica.
+Desse modo,estender a coisa julgada formada nos autos do agravo de instrumento a todo e qualquer processo em que é parte o ora suscitante contraria o comando legal e, até mesmo, inverteria a lógica do sistema constitucional, pautado nos princípios do contraditório e da ampla defesa.
+Diante disso, o que se vê é a tentativa de utilização do incidente de conflito de competência como sucedâneo recursal para discussão do mérito da causa, medida que não se admite.
+A propósito:
+AGRAVO INTERNO NOCONFLITO DE COMPETÊNCIA- AUSÊNCIA DE DIVERGÊNCIA ENTRE OS JUÍZOS A RESPEITO DA COMPETÊNCIA PARA EXAME DA AÇÃO - DESCABIMENTO DO INCIDENTE COMO SUCEDÂNEO RECURSAL - DELIBERAÇÃO MONOCRÁTICA QUE NÃO CONHECEU DOCONFLITO DE COMPETÊNCIA.INSURGÊNCIA DA AUTORA.
+1. Oconflito de competêncianão é meio idôneo ao julgamento do mérito da causa, tampouco pode ser utilizado como sucedâneo recursal. Precedentes: AgInt no CC 150.026/DF, Rel. Min. Antonio Carlos Ferreira, DJe 03/05/2017; AgRg nos EDcl no CC 133.281/RS, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 19.11.2014.
+2. Agravo interno desprovido. (AgInt no CC 159.321/RJ, Rel. Min. MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 22/5/2019, DJe 30/5/2019)
+Ante o exposto, não conheço do conflito de competência.
+Publique-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. CONFIGURAÇÃO APENAS QUANDO DOIS OU MAIS JUÍZES SE CONSIDERAM COMPETENTES PARA JULGAR A MESMA CAUSA. INEXISTÊNCIA. CONFLITO NÃO CONHECIDO.
