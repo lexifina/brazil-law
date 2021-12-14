@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ANDERSON PEREIRA JESUS, em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos que o recorrente foi preso em flagrante, em 03/02/2021, e teve a prisão convertida em preventivapela suposta prática do crime de homicídio qualificado (fls. 84-85).
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação da decisão que decretou a prisão preventiva do ora recorrente. O eg. Tribunal de origem denegou a ordem, em v. acórdão assim ementado:
+"HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO EM FLAGRANTECONVERTIDA EM PREVENTIVA. EXCESSO DE PRAZO. INOCORRÊNCIA.PROCESSO QUE VEM TRAMITANDO REGULARMENTE. NÃO HAVENDODESÍDIA POR PARTE DO JUDICIÁRIO. PFRÍODO ATÍPICO DE PANDEMIAQUE JUSTIFICA EVENTUAL ATRASO. EFETIVA NECESSIDADE DASEGREGAÇÃO CAUTELAR. AUSÊNCIA DE CONSTRANGIMENTOILEGAL.ORDEM DENEGADA"(fl. 47).
+Daí o presente recurso ordinário, no qual alega a Defesa que o recorrente estaria sofrendo constrangimento ilegal em razão do excesso de prazo para a formação da culpa, aduzindo para tanto que o recorrente encontra-se preso "há 07 meses" (fl. 57).
+Requer, ao final, a concessão da ordem para revogar a prisão preventiva.
+Pedido de liminar indeferido às fls. 80-81.
+Informações prestadas às fls. 84-87.
+O Ministério Público Federal, às fls. 92-95, manifestou-se pelo Desprovimento do recurso, em parecer que restou assimementado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIOQUALIFICADO. EXCESSO DE PRAZO. ILEGALIDADE NAOVERIFICADA. TRÂMITE REGULAR PROCESSO.DESPROVIMENTO" (fl. 92).
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça, em seu art. 34, XVIII, "b", dispõe queo relator pode decidir monocraticamente para "negar provimento ao recurso ou pedido que for contrárioa tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça ou, ainda,a jurisprudência dominante sobre o tema".
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Assim, passo ao exame das razões ventiladas no presente recurso ordinário.
+Pretende o recorrente, em síntese, por meio do presente recurso ordinário, o reconhecimento do excesso de prazo para a formação da culpa
+Relativamente ao pretendido excesso de prazo, o Juízoa quo manifestou:
+"Em 03 de fevereiro de 2021, o paciente e o corréu Anderson PereiraJesus foram presos em flagrante pela prática, em tese do delito de homicídioqualificado.
+Com vista dos autos, o Ministério Público requereu a decretação daprisão preventiva, enquanto que a Defesa Pública requereu a liberdade provisória.
+Pelo juízo foi dito que (evento 16):
+ ..
+O Ministério Público ofereceu denúncia contra os réus, como incursosnas sanções do artigo 121, parágrafo 2o, incisos II e IV, combinado com o artigo 29,ambos do Código Penal (evento 44), sendo recebida pelo Juízo e determinada acitação (evento 48).
+Em 05/03/2021 a Defesa Pública apresentou defesa prévia em favordos acusados (evento 60), tendo sido determinado, no mesmo dia, pelo juízo queviessem aos autos os laudos periciais da Autoridade Policial para prosseguimento dofeito (evento 68).
+Em 22/03/2021 o paciente constitui defensor que requer abertura deprazo para arrolamento de testemunhas (evento 89), o que é indeferido pelo Juízo,observando que o ingresso de novo procurador nos autos se dá na fase em que estese encontra (evento 99).
+Em 05/08/2021, o cartório certifica acerca do prazo de 90 diasreferente ao tempo de segregação cautelar (evento 140). O Ministério Público comvista, manifesta-se pela manutenção das prisões (evento 144), e o juízo as mantém(evento 146):
+ .. " (fls. 84-87-grifei)
+Ressalte-se que, na linha dos precedentes desta Corte, outra não é a conclusão a que se chega senão a de que o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+Nesse sentido, colhem-se os seguintes precedentes:
+"PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE JULGOU PREJUDICADO O HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO. PREJUDICADA. MATÉRIA APRECIADA NO HC N. 485.254/RJ INEXISTÊNCIA DE DESÍDIA DO PODER JUDICIÁRIO OU DO MINISTÉRIO PÚBLICO FEDERAL. ALEGAÇÃO DE AUSÊNCIA DE PRESSUPOSTOS E/OU FUNDAMENTOS. PREJUDICADA. MATÉRIA APRECIADA NO HC N. 481.628/RJ. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - A alegação de excesso de prazo da custódia cautelar se encontra prejudicada, porquanto já foi objeto de apreciação por esta Relatoria, nos autos do HC n. 485.254/RJ, em 25/3/2019, o qual foi alvo, inclusive, do recurso de agravo regimental, oportunidade em que se restou consignado que, uma vez oferecida a denúncia pelo Ministério Público Federal, houve a perda do objeto do writ.
+III - Na linha dos precedentes desta Corte, o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar por meio do juízo de razoabilidade, não se ponderando a mera soma aritmética dos prazos para os atos processuais.
+IV - A tese de ilegalidade da prisão preventiva por ausência dos pressupostos e/ou fundamentos já foi devidamente considerada pela Quinta Turma desta Corte Superior, no julgamento do AgRg no HC n.
+481.628/RJ, em 19/2/2019, oportunidade em que o agravo regimental foi desprovido, à unanimidade, restando-se clara a existência de reiteração de pedidos.
+Agravo regimental desprovido" (AgRg no HC n. 500.217/RJ, Quinta Turma, rel. min. Felix Fischer, DJe de 30/04/2019 - grifei).
+"HABEAS CORPUS. PROCESSUAL PENAL. CRIME PREVISTO NO ART. 157, § 3.º, DO CÓDIGO PENAL, NA REDAÇÃO ANTERIOR À VIGÊNCIA DA LEI N.º 13.654/2018. INSURGÊNCIA QUANTO À FUNDAMENTAÇÃO DO DECRETO DE PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO QUANTO À PACIENTE CRISTIANE DE ALMEIDA PEREIRA E SUPRESSÃO DE INSTÂNCIA QUANTO AOS DEMAIS ACUSADOS. TESE DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. DESÍDIA DA AUTORIDADE JUDICIAL NÃO EVIDENCIADA. ORDEM DE HABEAS CORPUS PARCIALMENTE CONHECIDA E, NESSA PARTE, DENEGADA.
+1. No que diz respeito à alegada falta de fundamentação do decreto de prisão preventiva, verifica-se que o presente writ, quanto à Paciente CRISTIANE DE ALMEIDA PEREIRA, veicula mera reiteração de pedido já formulado no RHC n.º 98.579/MG, julgado pela Sexta Turma desta Corte.
+2. Quanto à suposta ausência dos requisitos da segregação cautelar relacionada aos demais Pacientes e ao pleito de aplicação de medidas cautelares diversas da prisão, cuida-se de teses não apreciadas pelo Tribunal impetrado, o que torna inviável o seu exame por esta Corte, sob pena de supressão de instância. Precedentes.
+3. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, pois variam conforme as peculiaridades de cada processo, razão pela qual eles têm sido mitigados pela jurisprudência dos Tribunais Pátrios, à luz do princípio da razoabilidade. Desse modo, somente se cogita da existência de constrangimento ilegal por excesso de prazo quando esse for motivado por descaso injustificado do Juízo processante, o que não se verifica na hipótese.
+4. De fato, conforme consignou a Corte estadual, "o feito originário é dotado de certa complexidade, uma vez que envolve pluralidade de réus (quatro) e, ao menos, oito (08) testemunhas, o que justifica a dilação do prazo para o encerramento do feito". Registre-se, ainda, que, em consulta formulada na primeira instância, no endereço eletrônico mantido pelo Tribunal a quo, constatou-se ter havido expedição de cartas precatórias para Comarcas diversas da localidade do fato delituoso, tendo sido designada audiência de instrução e julgamento para o próximo mês de abril (1º/04/2019).
+5. Ordem de habeas corpus parcialmente conhecida e, nessa parte, denegada" (HC n. 486.286/MG, Sexta Turma, Relª. Minª Laurita Vaz, DJe de 30/04/2019-grifei).
+In casu, pelas informações do juízo a quo o recorrente foi preso em flagrante, em 03/02/2021, e teve a prisão convertida em preventiva pela suposta prática do crime de homicídio qualificado. Tenho que não há qualquer elemento que evidencie a desídia do aparelho judiciário na condução do feito.
+Assim sendo, por ora, não se vislumbra qualquer ilegalidade passível de ser sanada pelo presente recurso.
+Dessa feita, estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso, o enunciado da Súmula n. 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, nos termos do art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+P. e I.
