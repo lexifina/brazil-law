@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de ANDRE PEREIRA SALOMAO, indiciado pelo crime do art. 171, caput,do Código Penal, por valer-sede sua condição de entregador da Pizzaria Vrumm para, no momento de entrega e pagamento da pizza, copiar os dados do cartão bancário da vítima, sendo que,mediante tal fraude, realizou recarga de aparelho celular e compras de jogos eletrônicos(fl. 53 - grifo nosso).
+Impugna-se o acórdão doTRIBUNAL DE JUSTIÇADO RIO DE JANEIRO, proferido nos termos desta ementa (fl. 49):
+HABEAS CORPUS. LIMINAR NÃO CONCEDIDA.PACIENTE INDICIADO PELO CRIME PREVISTO NO ARTIGO 171, CAPUT, CÓDIGO PENAL. ACORDO DE NÃO PERSECUÇÃO PENAL. PEDIDO DE TRANCAMENTO DO INQUÉRITO POLICIAL.IMPETRAÇÃO QUE ALEGA INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. ATIPICIDADE DA CONDUTA NÃO EVIDENCIADA. VALOR DA RES FURTIVAE QUE ULTRAPASSA PATAMAR DE 10% DO SALÁRIO-MÍNIMO VIGENTE. PRECEDENTE NO EG.STJ. ORDEM DENEGADA.
+Argumenta-se queaconduta suspostamente perpetrada pelo agente,é irrelevante para o direito penal, o delito em tela: estelionato para compra de jogos eletrônicos e recargas telefônicas se insere perfeitamente na concepção doutrinária e jurisprudencial de crime de bagatela(fl. 7).
+Em caráter liminar e no mérito, busca-se a concessão da ordem para reconhecer a absolvição do paciente, com fundamento no art. 386, III, do Código de Processo Penal ou para trancar a ação penal.
+É o relatório.
+No caso, de acordo com a jurisprudência do Superior Tribunal de Justiça, inexiste evidência de constrangimento ilegal.
+A conduta, consistente emcopiar os dados do cartão bancário da vítima, sendo que,mediante tal fraude, realizou recarga de aparelho celular e compras de jogos eletrônicos(fl. 53) -que representava, à época dos fatos, valor acima de 10% do salário mínimo vigente -, possui considerável grau de reprovabilidade do comportamentoe não permite a incidência do princípio da insignificância para exclusão da tipicidade penal, sobretudo considerando que o crime foi cometido para garantir a aquisição de bens que não eram de primeira necessidade (recarga de celular e jogos eletrônicos).
+De acordo com precedentes desta Casa, não há como reconhecer o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, de forma a viabilizar a aplicação do princípio da insignificância, pois, além de o valor subtraído ser superior a 10% do salário mínimo vigente à época do fato criminoso, consta do acórdão recorrido que o agravante é reincidente específico (AgRg no AREsp n. 1.308.314/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 4/9/2018).
+Nessa linha, entre outros, por exemplo: AgRg no HC n. 434.913/MG, Ministra Laurita Vaz, Sexta Turma, DJe 25/9/2018; HC n. 434.086/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 23/5/2018; e AgRg no AREsp n. 1.163.158/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/10/2017.
+Assim, com base na jurisprudência, indefiro liminarmente o habeas corpus (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. ESTELIONATO (ART. 171, CAPUT, DO CP). ATIPICIDADE DA CONDUTA. INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. DESCABIMENTO. BENS SUBTRAÍDOS COM EXPRESSÃO RELATIVA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
