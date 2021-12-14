@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCIO FABIANO DE CARVALHOcontra a decisão de fls. 156-158, que negou provimento ao agravo em recurso especial.
+O agravante foi preso e denunciado pela suposta prática dos delitos descritos nos arts. 121, § 2º, I (motivo torpe) e III (perigo comum), c/c o art. 14, II, do Código Penal, na forma da Lei n. 8.072/1990, e 2º, § 2º (com emprego de arma de fogo), com a agravante prevista no § 3º da Lei n. 12.850/2013 (organização criminosa), incluindo-se em ambos a agravante do art. 61, I (reincidência), do Código Penal, na forma do art. 69, caput, do Código Penal.
+A prisão em flagrante foi convertida em preventiva no dia 3/6/2019, tendo sido realizada a prisão no dia 11/6/2019 (fl. 97).
+Em suas razões, alega o agravante que, "em relação ao excesso de prazo para formação de culpa, é imprescindível destacar que este resta configurado, uma vez que, além do excessivo lapso temporal entre o fato que ensejou a denúncia e a decretação da segregação cautelar do acusado,  .. soma cerca de dois anos e meio" (fl. 162).
+Sustenta ainda que não estão presentes os requisitos da prisão preventiva.
+Requer seja o presente agravo recebido e julgado procedente para quesejarevogada a prisão preventiva ou substituídapor medidas cautelares alternativas.
+O Ministério Público Federal opinou pelo não conhecimento do recurso (fls. 174-179).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EMHABEAS CORPUS.HOMICÍDIOS DUPLAMENTE QUALIFICADOS NA FORMA TENTADA.PRISÃO PREVENTIVA. REQUISITOS. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA.AGRAVO REGIMENTAL DESPROVIDO.
+1. O não enfrentamento de matéria pelas instâncias originárias impede sua análise pelo STJ, sob pena de supressão de instância.
+2.Não há excesso de prazo nas hipóteses em quenão há procrastinação do andamento processual por parte da acusação ou por desídia do Poder Judiciário.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+Inicialmente, no que diz respeito aos requisitos da preventiva, a questão não foi examinada pelo Tribunal a quo. Confira-se trecho do acórdão (fl. 115):
+No mais, conforme explicitado em sede liminar, a questão atinente à necessidade e à legalidade da segregação preventiva já foi apreciada no julgamento das ações constitucionais nº 70083712968, nº 70084348820 e nº 70084748763.
+Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ademais, consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 115-116, destaquei):
+Lado outro, tampouco há que se falar em excesso de prazo para a formação da culpa, ainda que o paciente esteja com a liberdade tolhida desde 04/06/2019, perfazendo 2 anos, 2 meses e 19 dias(observada a data do início desta sessão virtual eletrônica).
+Conforme antecipei em sede de cognição sumária, deve-se atentar à crise sanitária estabelecida pela pandemia do coronavírus Sars-CoV-2, que afetou largamente o andamento processual de todos os feitos(AgRg no HC 642.872/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 6/4/2021, DJe 15/4/2021),bem ainda que a maior delonga na marcha processual se dá também em razão da conjuntura fática e da complexidade da ação penal, que conta com pluralidade de réus (oito), com defesas diversas.
+No mais, consoante noticia o sistema informatizado desta Corte, verifica-se que as audiências de inquirição de testemunhas foram realizadas no dia 29/6/2021 e 11/8/2021, com a designação de nova solenidade para o dia 4/10/2021,verbis:
+Aberta a audiência, presente a representante do Ministério Público, a Defensora Pública e os Advogados. Ausentes os réus, que foram dispensados na solenidade anterior. Foram inquiridas astestemunhas Adelaide e Daniela presencialmente, e as testemunhas Lilian, Everson e Vagner de modo virtual. Ausente a testemunha Dienifer, que não foi localizada, e José Valdir, do qual não retornou o mandando. As defesas de Gustavo e de Renato referiram que vão atuar como patronos dos réus em ambos os processos. Pelas defesas de todos os acusados foi requerido prazo para peticionar. Pelo Ministério Público foi postulado a juntada do mandado de José Valdir, e após, vista dos autos para se manifestar sobre as testemunhas faltantes. Pela Juíza foi concedido o prazo de 24 horas para as defesas peticionarem. Com as requerimentos, dê-se vista ao Ministério Público para que se manifeste dos pedidos defensivos, bem como para que diga a respeito das testemunhas José Valdir e Dienifer. Ademais, designo audiência virtual para oitiva das testemunhas faltantes para o dia 04/10/21 às 9h30.A solenidade ocorrerá através do link:<https://vc.tjrs.jus.br/webapp/conference conference=vmr-frnovohambjz1vcri@tjrs.jus.br>. As testemunhas de defesa comparecerão independente de intimação. Os réus foram novamente dispensados para o ato por seus patronos. Presentes intimados. Nada mais.
+Não se observa, no presente momento, portanto, qualquer desídia na condução do feito.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Registre-se ainda ser notório que a pandemia de covid-19 acarretou prolongamento no trâmite processual de causas em todo o território nacional. Nesse sentido, não há como ignorar o impacto dessa circunstância concreta no funcionamento do Poder Judiciário, razão pela qual não há falar em violação dos princípios da razoável duração do processo e da proporcionalidade.
+No caso, observa-se que o feito tramita de forma regular, não havendo indícios de desídia estatal, pois a causa é complexa e envolve pluralidade de réus, devendo ser considerada também a situação excepcional de pandemia.
+Ante o exposto,nego provimento ao agravo regimental.
+É o voto.
