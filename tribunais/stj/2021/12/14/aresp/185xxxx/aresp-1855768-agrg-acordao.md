@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+ANDREIA TAVEIRA PACHECO agrava de decisão na qual a Presidência desta Corte Superior não conheceu do agravo em recurso especial ante a incidência da Súmula n. 182 do STJ ao caso.
+A parte explica que impugnou especificamente os argumentos utilizados para inadmissão do seu recurso especial e requer a cassação do decisum.
+O Ministério Público Federal manifesta-sepelo provimento do regimental.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDOS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nas razões de pedir do agravo em recurso especial, a parte deixou de refutar, adequadamente, os fundamentos utilizados da decisão impugnada, o que atraia incidência da Súmula n. 182 do STJ.
+2. Paraimpugnar a assertiva deausência de similitude fática entre os casos confrontados, o agravantedeve demonstrar as circunstâncias que os assemelhem, o que não ocorreu.
+4. Não é suficiente, para requerer o afastamento do óbice da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas. Era preciso especificar a provadelineada e admitida pelo Tribunal a quo que, uma vez revalorada, permitisse aabsolvição por ausência de dolo ou erro de tipo.
+5. Agravo regimental não provido.
+VOTO
+A postulante foi condenada por incursão no art. 168, § 1º, III, do CP, pois, em6/5/2011,apropriou-se de R$ 11.000,00, pertencentes às vítimas, de que teve a posse em razão de sua profissão de advogada. Ela foi contrata, durante processo de execução (Processo 1684/2008) e recebeu de seus clientes aquantia de R$ 11.000,00 com a finalidade de quitar a dívida com o credor. Ocorre que se aproprioudo valor recebido.
+No recurso especial, interposto com fulcro no art. 105, III, "a" e "c", da CF, a parte pede a absolvição, porquantorecebeu a quantia a título de honorários advocatícios e "não restou demonstrado minimamente a presença do elemento subjetivo do tipo" (fl. 473). Apontou a violação do art. 20 do CP,pois "acreditava estar apenas recebendo por seu trabalho" (fl. 478) e, portanto, pede o reconhecimento doerro de tipo.O Tribunal a quo inadmitiu a insurgência, por: a) falta de demonstração da similitude fática entre os acórdãos confrontados eb) incidência da Súmula n. 7 do STJ.
+A decisão foi atacadapor meio do agravo de fls. 510-516, não conhecido por decisão da Presidência desta Corte, ante a incidência da Súmula n. 182 do STJ.
+Esteregimental não merece provimento.
+A insurgente, para ver orecurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos indicados para a negativa de seu seguimento, sob pena de vê-lomantido. Não é suficiente, para tanto, o emprego de assertivas genéricas.
+O Tribunal de origem assinalou que caberia à recorrente "demonstrar a similitude fática entre os julgados confrontados" (fl. 506), o que não ocorreu.No agravo de fls. 510-516, não foram mencionadas as circunstâncias fáticas, transcritas no recurso especial inadmitido, queassemelhem os casos indicados para demonstração da divergência jurisprudencial.Aparte não refutou adequadamente a decisão agravada.
+Nota-se que naAPL n.1.0317.15.004475-6/001, foi julgada situação em que as supostas vítimas deixaram com o advogado, voluntariamente, o cartão bancário, sendo verossímil a alegação de que os saques realizados pelo profissional foram acordados, parapagamento de honorários, durante serviços prestados em ação previdenciária. A situaçãodesses autos não é semelhante:os ofendidos entregaram dinheiro à advogada, contratada para atuar em processo deexecução. Existia umadívida a ser quitada e nãoexpectativa de ganharem verbas do INSS. A similitude fática não foi demonstrada no REsp ou no AREsp.
+É insuficiente, para pedir o afastamento da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas. Era necessária a transcrição de elemento probatório delineadopelo Tribunal a quoque, uma vez revalorado juridicamente, permitisse a pretendida absolvição por ausência de dolo ou erro de tipo.
+O acórdão da apelação descreveu os seguintes elementos de convicção:
+a) na fase do inquérito, a advogada disse que foi contratada, mas que os clientes a enrolavam. Inicialmente,"não pensou em se apropriar dos valores, os quais não lhe pertenciam, porém foi instruída por um colega, a fazer um recibo e dizer que teria feito um acordo, para que conseguisse receber os devidos honorários advocatícios e  ..  teve a infelicidade de assinar este recibo" (fl. 453).
+b) em juízo, a ré negou a versão inicial, de modo inconsistente, pois não apresentou o contrato ou o recibo de seus honorários;
+c) os ofendidos, a seu turno, foram uníssonos em seus depoimentos, durante a investigação e em Juízo, e apresentaram comprovantesdo valor entregue para quitação de dívida com a imobiliária, assinados pela advogada,o que comprova que entregaram R$ 11 milàprofissional para extinção da execução e não para pagamento de honorários;
+c) administrador de imóveis, arrolado como testemunha da defesa,confirmou que esteve no escritório da ré para negociar o débito de seus clientes, o que reforça apalavradas vítimas.
+Esse é o acervo probatório (prova oral e documental), que não autoriza o pretendido reconhecimento de erro de tipo ou de ausência de dolo.
+O juiz tem liberdade para decidir sobre o caso concreto e, portanto, sobre a versão mais coerente dos fatos, desde que indique provas admitidas em direito para a formação do seu convencimento.Em recurso especial, não se pode reexaminar o caderno probatório para discordar de suas razões subjetivas.
+Quanto à valoração jurídica da prova, não existe essa liberdade. Por isso, discussões sobre a inadmissibilidade e a inidoneidade do elemento probatório ou informativosão permitidas no recurso endereçado a esta Corte.
+A agravantenão explicou o motivo pelo qual as provas delineadas no acórdão da apelação merecemreceber um tratamento legal distinto (por exemplo, por serem ilícitas, ilegítimas, ilegais ou eivadas de irregularidades que comprometam sua validade ou idoneidade). Assim, não impugnou a incidência da Súmula n. 7 do STJ.
+Nesse cenário, está correta a aplicação daSúmulan. 182 do STJ.
+À vista do exposto, nego provimento ao agravo regimental.
