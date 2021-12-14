@@ -1,0 +1,16 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BERENICE MARIA PIMENTA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+AÇÃO DE EXIGIR CONTAS - PRONUNCIAMENTO JURISDICIONAL QUE JULGA A PRIMEIRA FASE DA AÇÃO DE EXIGIR CONTAS - RECURSO CABÍVEL AGRAVO DE INSTRUMENTO - DÚVIDA OBJETIVA ACERCA DO CABIMENTO RECURSAL E INEXISTÊNCIA DE ERRO GROSSEIRO - APLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL - PRECEDENTES DO STJ - CONHECIMENTO DA APELAÇÃO CÍVEL - PRIMEIRA FASE DA PRESTAÇÃO DE CONTAS - CERCEAMENTO DE DEFESA - NÃO OCORRÊNCIA - PROVA TESTEMUNHAL - DESNECESSIDADE - INVENTÁRIO AINDA NÃO ENCERRADO - IRRELEVÂNCIA - PRETENSÃO GENÉRICA DE EXIGIR CONTAS - INCORRÊNCIA
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, ofensa ao disposto nosarts. 492 e 618, VII do CPC, alegando em síntese, aimpossibilidade de se aferir um efetivo resultado da gestão da inventariante, vez que sequer encerrado o processo de inventário, bem como, rogando pela análise do pleito para que o termo inicial daprestação de contas se dê apenas a partir de 25/11/2016, data do falecimento do herdeiro José Pimenta de Figueiredo.
+Não foram apresentadas contrarrazões ao recurso especial.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Quanto aoartigo492 do CPC apontadono recurso especial, verifica-se que seuconteúdonormativonão foi objeto de apreciação pelo Tribunal de origem e o recorrente não interpôs embargos de declaração objetivando suprir eventual omissão quanto a esse ponto. Portanto, ausente o prequestionamento, entendido como a necessidade de o tema objeto do recurso ter sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+4. No mais, oacórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor.
+A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, qual seja: a ausência de previsão legislativa que afasta a ação de exigir contas sem que o inventário tenha sido finalizado, impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
