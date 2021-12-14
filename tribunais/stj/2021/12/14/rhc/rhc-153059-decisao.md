@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido liminar, interpostoem face de acórdão assim ementado (fl. 149):
+EMENTA: HABEAS CORPUS  EXECUÇÃO PENAL  REITERADO DESCUMPRIMENTO DAS CONDIÇÕES IMPOSTAS PARA A OBTENÇÃO DA PRISÃO DOMICILIAR  CONFIRMAÇÃO DA REGRESSÃO DO REGIME DE CUMPRIMENTO DE PENA  NECESSIDADE  ORDEM DENEGADA. Demonstrado nos autos que o paciente descumpriu reiteradamente as condições impostas para a obtenção da prisão domiciliar, imperiosa a manutenção da regressão do seu regime de cumprimento de pena.
+Consta dos autos que, em 5/7/2021, foi proferida decisão reconhecendo a prática de falta grave e determinando a regressão definitiva do recorrentepara o regime semiaberto.
+Alega a defesa, em síntese, que "a prisão a que está submetido o paciente é aquela característica do regime fechado, o que por si só demonstra de forma cabal o constrangimento ilegal" (fl. 150).
+Acrescenta ainda que "durante o trâmite de processamento, o Juízo de Execução, regrediu de forma definitiva o regime, para o regime semi-aberto, sem, contudo possibilitar ao paciente as benesses do regime semi-aberto" (fl.150).
+Requer, liminarmente e no mérito, a suspensão da prisão em regime fechado, uma vez que o recorrentejá se encontra no regime semiaberto.
+Requer, ainda, alternativamente, a aplicação de medidas cautelares diversas da prisão.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo conhecimento parcial do recurso e, na parte conhecida, por seu desprovimento.
+O acórdão impugnado assim dispôs (fls. 133-136):
+Como visto, almejam os impetrantes a concessão da liberdade ao sentenciado.
+Depreende-se dos autos que o paciente foi condenado pela prática dos delitos previstos nos artigos 33, caput, da Lei 11.343/06 e 16 da Lei 10.826/03, à pena total de 08 (oito) anos de reclusão, em regime inicial semiaberto, bem como ao pagamento de 510 (quinhentos e dez) dias-multa, sendo-lhe deferida, em 14 de maio de 2018, a progressão para o regime aberto, ocasião em que também foi concedida prisão domiciliar (fls. 14/15 do documento único do JPe).
+No entanto, posteriormente, aportaram informações de que o reeducando teria praticado fatos passíveis de serem, em tese, reconhecidos como falta grave, o que ensejou a regressão cautelar de regime em 9 de novembro de 2020 (fls. 20/21 do documento único do JPe).
+Em consulta ao Sistema Eletrônico de Execução Unificado, é possível verificar que, no dia 5 de julho de 2021, foi prolatada decisão determinando a regressão definitiva do reeducando ao regime semiaberto e reconhecendo a prática de falta grave, nos termos do art. 50, inciso V c/c art. 118, inciso I e art. 57, todos da LEP (seq. 89.1  autos nº 0135342-49.2016.8.13.0433).
+Pois bem.
+Após detido exame dos autos, constata-se que, cientificado das condições impostas para a obtenção da prisão domiciliar, especialmente a exigência de "Comparecer ao PRESP mensalmente para justificar suas atividades, no período compreendido entre os dias 20 a 30 de cada mês, quando será colhida sua assinatura em termo próprio", o apenado, durante período significativo, deixou de comparecer mensalmente ao PRESP.
+A este respeito, registro que, em que pese o reeducando afirme que somente deixou de comparecer porque o seu horário de trabalho coincide com o horário de funcionamento do PRESP e que recebeu informações de que, em virtude da COVID-19, as assinaturas estavam suspensas, o seu inadimplemento é anterior ao atual contexto pandêmico, tendo o MM. Juiz a quo destacado, a prestar as informações de praxe, que ele "deixou decomparecer ao Presp, nos meses de setembro, outubro, novembro e dezembro de 2019, bem como nos mesesde janeiro a fevereiro de 2020".
+Destarte, restando devidamente comprovado nos autos que o sentenciado reiteradamente descumpriu as condições impostas para a obtenção da prisão domiciliar, demonstrando senso de indisciplina e irresponsabilidade para o cumprimento da pena, imperiosa a manutenção da regressão do seu regime de cumprimento de pena, nos exatos termos do art. 50, inciso V, no art. 118, inciso I, e no art. 146-C, todos da Lei de Execução Penal.
+ ..
+Ora, no caso em tela, o apenado não apresentou qualquer justificativa plausível para o descumprimento, não sendo o atual cenário pandêmico motivo suficiente para a inobservância da exigência fixada, até porque antes mesmo da pandemia ocasionada pelo COVID19 ele já vinha deixando de comparecer mensalmente ao PRESP.
+Assim, de rigor a manutenção da decisão proferida em primeira instância, a qual, diga-se de passagem, encontra-se devidamente fundamentada e pautada nas particularidades do caso concreto, não merecendo, portanto, ser desconstituída.
+Convém ressaltar, por fim, que não há que se falar em cumprimento de pena em regime mais gravoso, uma vez que, como é cediço, o que diferencia os regimes fechado e semiaberto é o grau de vigilância exercida sobre os condenados, já que, em ambos, os presos são submetidos a tratamento idêntico, permanecendo reclusos durante o dia, exceto quando beneficiados com o trabalho externo, saídas temporárias ou permissão de saída.
+Feitas tais considerações, voto no sentido de ACOLHER A DECISÃO PROFERIDA PELO STJ NO RHC 149.018/MG e DENEGAR A ORDEM.
+Nesse contexto, conforme se conclui da leitura dos fatos constantes dos autos, a conduta praticada pelo recorrente, deixar de comparecer mensalmente ao PRESP,é passível de se enquadrar no inciso V,do art. 50, da Lei de Execuções Penais.
+Logo, oacórdão recorrido encontra-se em consonância com a orientação jurisprudencial desta Corte de que "no curso da execução da pena, a prática de falta grave legitima a regressão de regime prisional, nos termos do art. 118, I, da Lei de Execução Penal" (AgRg no HC 606.300/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 25/05/2021, DJe 28/05/2021). Nesse sentido: AgRg no HC 654.884/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/06/2021, DJe 25/06/2021.
+Ante o exposto, nego provimento ao recurso emhabeas corpus.
+Publique-se.
+Intimem-se.
