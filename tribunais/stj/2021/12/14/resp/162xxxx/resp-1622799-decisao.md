@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recursos especiais interpostos por LUIZ CLÁUDIO DE LEMOS TAVARES e MINISTÉRIO PÚBLICO FEDERALcom arrimo no permissivo constitucionalcontra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 1.004):
+AÇÃO POPULAR. CERTIFICADO DE ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL (CEBAS). MEDIDA PROVISÓRIA N.º 446/2008.
+1. A Medida Provisória n.º 446/2008, que dispôs sobre a certificação das entidades beneficentes de assistência social, foi rejeitada pelo Congresso Nacional, o qual não editou ato disciplinando as relações jurídicas estabelecidas no período de sua vigência (art. 62, § 11, da CF), tornando aplicáveis as respectivas disposições.
+2. A possibilidade de o Poder Judiciário apreciar a presença dos requisitos de relevância e urgência, previstos no art. 62 da Constituição Federal, é admitida em casos excepcionais de abuso da discricionariedade do Presidente da República. Não sendo essa a hipótese dos autos, o que se infere pelos motivos que ensejaram sua edição, não há invalidade a ser reconhecida.
+3. Tampouco há inconstitucionalidade material, pois a expedição de certificado pelo Conselho Nacional de Assistência Social, no período de vigência da referida Medida Provisória, não exime a entidade beneficiária de implementar os demais requisitos legais para fruição da imunidade prevista no art. 195, § 7º, da Constituição Federal.
+4. Inexistindo elementos suficientes para formação de qualquer juízo acerca do efetivo implemento ou não dos requisitos previstos na legislação de regência, tal análise deve se dar na via administrativa, oportunamente.
+Os embargos de declaração opostos foram acolhidos, em parte, para fins de prequestionamento.
+No especial, o particular alega:
+De toda sorte, ingressa-se com o presente Recurso especial, já que:
+a) O artigo 37 da MP 446 era formal e materialmente inconstitucional;
+b) O artigo 37 da MP 446 foi rejeitado pelo Congresso Nacional, sendo inconstitucional, por violação ao artigo 62, § 3º, da CF, atribuir-lhe eficácia após sua rejeição.
+ ..
+Ainda que não apreciadas todas as causas de pedir na sentença, já que o acolhimento de uma delas é suficiente para conduzir à procedência da Ação Popular, nos termos do artigo 1.013, § 2º, do novo CPC, todas elas foram submetidas ao Tribunal em virtude da apelação dos réus:
+Art. 1.013. A apelação devolverá ao tribunal o conhecimento da matéria impugnada.
+§ 1o Serão, porém, objeto de apreciação e julgamento pelo tribunal todas as questões suscitadas e discutidas no processo, ainda que não tenham sido solucionadas, desde que relativas ao capítulo impugnado.
+§ 2o Quando o pedido ou a defesa tiver mais de um fundamento e o juiz acolher apenas um deles, a apelação devolverá ao tribunal o conhecimento dos demais.
+ ..
+Como o TRIBUNAL DA CIDADANIA, no Recurso Especial nº 1.554.815, já proveu, em omissão idêntica do TRF da 4ª Região, recurso de Luiz Cláudio de Lemos Tavares, será ele considerado como PARADIGMA para fins do artigo 105, III, "c", da CF.
+O MPF, a seu turno, defende a existência de violação aos arts. 1.022 do CPC/2015 e 2º, 128 E 460, do CPC/73, equivalente aos arts.2º, 141 E 492, do CPC/2015, alegando omissão do acórdão e que "O v. acórdão a quo, ao considerar que o autor não demonstrou que a entidade ré não preenche os requisitos legais para a outorga do CEBAS, extrapolou abertamente os comandos legais acima indicados, oferecendo decisão extra petita"(e-STJ fl. 1.893).
+Passo a decidir.
+De início, cumpre observar queo Superior Tribunal de Justiça firmou o entendimento de que não há violação do art. 1.022 do CPC/2015, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1.340.652/SC, rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 13/11/2015).
+Acerca do tema, conferir ainda: REsp 1.388.789/RJ, rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe 04/03/2016, e AgRg no REsp 1.545.862/RJ, rel. Ministro OG FERNANDES, Segunda Turma, DJe 18/11/2015.
+No caso, no julgado recorrido, o Tribunal a quo decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado.
+Quanto ao mérito, o fundamento do acórdão regional impede a análise dos recursos especiais, visto que a modificação do julgado implicaria necessariamente a reapreciação da matéria constitucional por esta Corte - arts. 62, § 3º, e 195, § 7º, da Constituição Federal -, o que é inviável sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+Nesse mesmo sentido é o precedente da Segunda Turma deste Tribunal:
+ADMINISTRATIVO. RENOVAÇÃO AUTOMÁTICA DO CEBAS. ACÓRDÃO RECORRIDO. ABORDAGEM DA MATÉRIA DISCUTIDA COM ENFOQUE CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE.
+1. Hipótese em que o Tribunal de origem consignou: "O entendimento que se consolidou é de que no caso da Medida Provisória nº 446/2008 não houve abuso da discricionariedade do Presidente da República, tampouco há inconstitucionalidade material, pois a renovação automática do certificado das entidades beneficentes de assistência social, no período de vigência da referida Medida Provisória, não exime a entidade beneficiária de implementar os demais requisitos legais para fruição da imunidade prevista no art. 195, § 7o, da Constituição Federal. Do mesmo modo, entendeu-se que o parágrafo 11, combinado com o 3º do artigo 62 da Constituição Federal, estão a justificar a manutenção dos atos que foram praticados com base na MP 446 objeto de contestação nesta ação. As relações jurídicas estabelecidas sob a vigência da MP 446/08, assim, permanecem por ela regidas, sendo certo que a renovação automática do certificado de entidade beneficente de assistência social não tem o condão de eximir a entidade beneficiária de implementar os demais requisitos legais para fruição da imunidade prevista no art. 195, § 7º, da Constituição Federal, o que se deve dar na via administrativa".
+2. A instância de origem decidiu a controvérsia com fundamento constitucional (arts. 62 e 195, § 7º, da Constituição Federal, dispositivos cujo exame é da competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal).
+3. Recurso Especial não conhecido.
+(REsp 1.621.767/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/05/2017, DJe 12/05/2017).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE dos recursos especiais e NEGO-LHES PROVIMENTO na parte conhecida.
+Publique-se. Intimem-se.
