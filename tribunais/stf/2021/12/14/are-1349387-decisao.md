@@ -1,0 +1,47 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+
+    “APELAÇÃO CÍVEL. SENTENÇA (INDEX 489) QUE JULGOU PROCEDENTE O PEDIDO PARA CONDENAR A REQUERIDA AO PAGAMENTO DO SALDO DEVEDOR RELATIVO AO CONTRATO MENCIONADO NA INICIAL. RECURSO DA RÉ AO QUAL SE NEGA PROVIMENTO. O Banco Autor propôs ação de cobrança em face da Ré referente a contrato de crédito pessoal, apontando débito correspondente a 57 parcelas de R$ 992,12, a ser atualizado monetariamente. A sentença julgou procedente o pedido para condenar a Demandada ao pagamento da dívida indicada em inicial. Insurge-se a Requerida contra a sentença, alegando que deixou de quitar o empréstimo, em razão da diminuição significativa da sua renda, devendo ser aplicada ao caso a teoria da imprevisão. Alega, ainda, que o Banco Autor teria efetuado cobrança indevida de juros capitalizados. No caso em exame, as partes, em 18/03/2014, celebraram contrato de renegociação de empréstimo, por meio do qual a Executada se comprometeu a pagar sessenta parcelas de R$ 992,12. Segundo o instrumento contratual colacionado no index 44, foram ajustados juros de 1,89% ao mês, e 25,19% ao ano. Sobre os juros, a jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça se consolidou no sentido de que as instituições financeiras se regem pela Lei n.º 4.595/1964 e que somente poderão ser considerados abusivos quando forem excessivos em relação à taxa média de mercado. Assim, não havendo na legislação vigente qualquer disposição que limite os juros remuneratórios cobrados pelas instituições financeiras, não se tem como estabelecer tais restrições, alterando a base objetiva do contrato. Todavia, deve-se observar a taxa média de mercado. Analisando-se as informações disponíveis no sítio do Banco Central do Brasil (BACEN), observa-se que a taxa média de juros na data da contratação do empréstimo, para empréstimo não consignado, foi de 2,53% ao mês, e 35,77% ao ano. In casu, foram cobrados percentuais inferiores à taxa média de mercado, não havendo que se falar, portanto, em revisão do contrato neste ponto. Por outro lado, anatocismo (capitalização mensal de juros) é a prática mediante a qual os juros são calculados sobre os próprios juros devidos. Igualmente, o Superior Tribunal de Justiça firmou tese, sob o rito do artigo 543-C do Código de Processo Civil (REsp. 973.827/RS), no sentido de que às operações realizadas por instituições integrantes do Sistema Financeiro Nacional é permitida a capitalização mensal de juros, desde que expressamente pactuada. Na hipótese, o financiamento bancário foi contraído em dezembro de 2012, quando já em vigor a aludida Medida Provisória n.º 1.963-17/2000, e, portanto, poderia ser cobrada a capitalização mensal de juros, desde que prevista contratualmente. Além disso, segundo posicionamento do Superior Tribunal de Justiça, na Súmula n.º 541, a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada. Assim, como foi prevista taxa de juros anual superior ao duodécuplo da mensal (juros 1,89% ao mês, e 25,19% ao ano), possível concluir que houve previsão de capitalização mensal de juros no contrato, sendo, portanto, lícita sua cobrança. Ademais, verifica-se que a Ré teve ciência dos termos do contrato e do valor da prestação. Por fim, cabe consignar que a cláusula rebus sic stantibus ou teoria da imprevisão tem aplicação quando se constata, durante a execução do contrato, que, por algum motivo imprevisto e imprevisível, uma das prestações se tornou excessivamente onerosa, causando desequilíbrio entre os contratantes, ou até mesmo inviabilizando o cumprimento do contrato. Todavia, no caso em apreço, como destacado na sentença, ´na relação de consumo de fornecimento de crédito, ocorre o princípio da autonomia da vontade, momento em que a autora se tornou consciente dos valores que pagaria pelo contrato, não estando reduzido à mera aceitação de seu conteúdo. Tinha, portanto, conhecimento de que a avença obedecia aos juros noticiados, o que afasta a alegação de onerosidade excessiva para o consumidor. A hipótese não é de situação imprevista ou variação excessiva de tarifas de correção.´” (pág. 153 do documento eletrônico 7, grifos no original)
+
+    Os embargos de declaração que se seguiram foram parcialmente providos apenas para correção de erro material, sem alteração do julgamento (pág. 43 do documento eletrônico 8).
+
+    No RE, fundamentado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação do art. 93, IX, da mesma Carta, além de ofensa aos princípios da proporcionalidade e razoabilidade.
+
+    Bem examinados os autos, decido.
+
+    Os Ministros deste Tribunal, no julgamento do AI 791.292-QO-RG/PE (Tema 339), de relatoria do Ministro Gilmar Mendes, reconheceram a repercussão geral e reafirmaram a jurisprudência desta Corte no sentido de que a exigência do art. 93, IX, da Constituição não impõe que a decisão seja exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu. Nesse sentido, transcrevo a ementa do referido precedente:
+
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°).
+
+    2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+
+    3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+
+    4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+
+    Ademais, os dispositivos constitucionais tidos por violados não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+
+    Efetivamente, a matéria constitucional foi trazida aos autos somente nos embargos declaratórios, o que não é o bastante para suprir o requisito do prequestionamento, nos termos da Súmula 356 desta Corte. Inviável, portanto, o recurso extraordinário. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. IMPUGNAÇÃO DE CÁLCULOS.
+
+    1. Inexistência de contrariedade ao art. 93, inc. IX, da Constituição da República.
+
+    2. Ausência de prequestionamento da matéria constitucional suscitada. Questões arguidas pela primeira vez em embargos de declaração: Súmula n. 282 do Supremo Tribunal Federal.
+
+    3. Alegada contrariedade aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal. Limites objetivos da coisa julgada. Necessidade de análise de matéria infraconstitucional: ofensa constitucional indireta. Precedentes. 4. Agravo regimental ao qual se nega provimento” (ARE 665.211-AgR/BA, Rel. Min. Cármen Lúcia; grifei).
+
+    Além disso, verifica-se que, para analisar os argumentos trazidos no apelo extremo quanto à abusividade de cláusulas contratuais e divergir do entendimento do Juízo a quo, seria necessário o reexame do conjunto fático-probatório constante dos autos, a análise das cláusulas do contrato firmado entre as partes e a interpretação das normas infraconstitucionais aplicáveis à espécie, o que atrai a incidência das Súmulas 279 e 454 desta Corte e a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Em sentido similar:
+
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 454/STF. 1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie e o revolvimento de cláusulas contratuais. Providências vedadas neste momento processual. 2. Agravo regimental desprovido” (AI 731.560-AgR/DF, Relator o Ministro Ayres Britto). “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO. CÉDULA DE CRÉDITO COMERCIAL. JUROS: APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR E DO DECRETO N. 22.626/33. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 617.814-AgR/GO, Relatora a Ministra Cármen Lúcia).
+
+    “Agravo regimental e recurso extraordinário com agravo. 2. Direito do Consumidor. Revisão de contratos bancários. 3. Impossibilidade de análise de legislação infraconstitucional e de reexame do conjunto fático-probatório e de cláusulas contratuais. Súmulas 279 e 454 do Supremo Tribunal Federal. 4. Agravo regimental a que se nega provimento”. (ARE 953.845 AgR, Rel. Min. Gilmar Mendes)
+
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+
+    Publique-se.
+
+    Brasília, 14 de dezembro de 2021.
+
+                      Ministro Ricardo Lewandowski
+
+                                  Relator
