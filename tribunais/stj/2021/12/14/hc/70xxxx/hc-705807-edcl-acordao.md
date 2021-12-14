@@ -1,0 +1,39 @@
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO DECISUM EMBARGADO. PEDIDO DE ABSOLVIÇÃO DO PACIENTE. SUPRESSÃO DE INSTÂNCIA. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS COM EFEITOS INFRINGENTES. RAZÕES DE DECIDIR DEVIDAMENTE APRESENTADAS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+- Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+- A insurgência do impetrante/paciente para que ele seja absolvido da prática delitiva, por violação do art. 157, do Código de Processo Penal ao argumento de que sua condenação haveria sido fundamentada em materialidade forjada, portanto em provas ilícitas; Por violação dos arts. 145, I usque IV, 146 e 147, todos do CPP; E por alegada violação de seu domicílio, não foram submetidas à apreciação e tampouco analisadas pelo Tribunal estadual, tratando-se, portanto, de matérias novas, somente aventadas nesta impetração, o que impede seu conhecimento diretamente por esta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+- A pretensão do embargante é rediscutir questão já tratada e devidamente analisada, o que não se admite nessa via recursal, porquanto, conforme reiterado entendimento desta Corte, é inadequada a pretensão de rejulgamento da causa na via dos embargos de declaração (EDcl no AgRg nos EAREsp n. 97.444/MG, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, DJe 20/2/2015).
+- Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de embargos de declaração opostos por CLEBER JOSÉ AMORIM CAMACHO, contra decisão de minha Relatoria, na qual concedi a ordem ex officio, para redimensionar as sanções do impetrante/paciente para 7 anos e 6 meses de reclusão, e 750 dias-multa, mantidos os demais termos da condenação.
+Nesta oportunidade, a defesa do embargante afirma que houve omissão/obscuridade na decisão proferida quanto à análise do pleito absolutório, pois embora a exordial haja sido redigida por pessoa leiga, a argumentação relacionada à violação dos arts. 145, 146 e 147 do CPP diz respeito à configuraçãda autoria, em especial, à divergência existente nos autos no que concerne à correta localização da bolsa que continha a droga apreendida (ambas à e-STJ, fl. 66).
+Diante disso, requer o processamento dos embargos aclaratórios, com efeitos modificativos, uma vez satisfeito o art. 619, do Código de Processo Penal, além dos arts. 5º, II, XXXV, XLVI, LII, LIV e 93, IX, ambos da Constituição da República, para que haja a manifestação desta Corte Superior acerca do pleito absolutório do embargante.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO DECISUM EMBARGADO. PEDIDO DE ABSOLVIÇÃO DO PACIENTE. SUPRESSÃO DE INSTÂNCIA. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS COM EFEITOS INFRINGENTES. RAZÕES DE DECIDIR DEVIDAMENTE APRESENTADAS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+- Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+- A insurgência do impetrante/paciente para que ele seja absolvido da prática delitiva, por violação do art. 157, do Código de Processo Penal ao argumento de que sua condenação haveria sido fundamentada em materialidade forjada, portanto em provas ilícitas; Por violação dos arts. 145, I usque IV, 146 e 147, todos do CPP; E por alegada violação de seu domicílio, não foram submetidas à apreciação e tampouco analisadas pelo Tribunal estadual, tratando-se, portanto, de matérias novas, somente aventadas nesta impetração, o que impede seu conhecimento diretamente por esta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+- A pretensão do embargante é rediscutir questão já tratada e devidamente analisada, o que não se admite nessa via recursal, porquanto, conforme reiterado entendimento desta Corte, é inadequada a pretensão de rejulgamento da causa na via dos embargos de declaração (EDcl no AgRg nos EAREsp n. 97.444/MG, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, DJe 20/2/2015).
+- Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Os embargos de declaração são tempestivos, contudo, não merecem ser acolhidos, pois é cediço que eles possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+Conforme relatado, busca o impetrante/paciente sua absolvição pela prática do delito de tráfico de drogas ou, ao menos, o redimensionamento de suas penas.
+E, ao compulsar os autos, verifiquei que a insurgência do impetrante/paciente para que ele fosse absolvido da prática delitiva, por violação do art. 157, do Código de Processo Penal ao argumento de que sua condenação haveria sido fundamentada em materialidade forjada, portanto em provas ilícitas; Por violação dos arts. 145, I usque IV, 146 e 147, todos do CPP; E por alegada violação de seu domicílio, não foram submetidas à apreciação e tampouco analisadas pelo Tribunal estadual, tratando-se, portanto, de matérias novas, somente aventadas nesta impetração, o que impedia seu conhecimento diretamente por esta Corte Superior, sob pena de indevida supressão de instância.
+Nessa esteira:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INTERPOSIÇÃO DE MAIS DE UM AGRAVO REGIMENTAL. PRECLUSÃO CONSUMATIVA. UNIRRECORRIBILIDADE RECURSAL. REITERAÇÃO DE PEDIDO JÁ ANALISADO POR ESTA CORTE. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. TEMA NÃO ANALISADO PELA CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+- A questão da progressão de regime sequer foi submetida à análise da Corte local, de forma que sua apreciação, nesta oportunidade, implicaria indevida supressão de instância.
+- Agravo regimental a que se nega provimento. (AgRg no HC n. 673.694/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 22/6/20215, DJe 28/6/2021)
+PROCESSUAL PENAL. AGRAVO INTERNO. HABEAS CORPUS. (..). RECURSO A QUE SE NEGA PROVIMENTO.
+ ..
+2. A ausência de manifestação do Tribunal de origem sobre a matéria suscitada na impetração impede sua apreciação por esta Corte Superior, sob pena de indevida supressão de instância.
+3. Agravo regimental a que se nega provimento. (AgInt no HC n. 366.298/PB, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, Julgado em 6/9/2016, DJe 16/9/2016, grifei)
+Nesse contexto, o que a defesa do embargante pretende é a rediscussão de questão já tratada e devidamente analisada, o que não se admite nessa via recursal, porquanto, conforme reiterado entendimento desta Corte, é inadequada a pretensão de rejulgamento da causa na via dos embargos de declaração (EDcl no AgRg nos EAREsp n. 97.444/MG, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, DJe 20/2/2015).
+Ante o exposto, rejeito os presentes embargos.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
