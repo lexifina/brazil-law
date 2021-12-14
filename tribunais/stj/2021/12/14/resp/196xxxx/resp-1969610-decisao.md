@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial, interposto por VALDO FAVORETO e OUTRA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 63, e-STJ):
+AGRAVO DE INSTRUMENTO. EMBARGOS DE TERCEIRO. CUMPRIMENTO DE SENTENÇA DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PRESCRIÇÃO INTERCORRENTE. NÃO CONFIGURAÇÃO. EXECUÇÃO NÃO PARALISADA POR PERÍODO SUPERIOR AO PRAZO PRESCRICIONAL. DESNECESSIDADE DE INTIMAÇÃO PESSOAL DO EXEQUENTE PARA DAR ANDAMENTO AO FEITO. TESE FIRMADA NO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA DO STJ N. 1.604.412. EXTINÇÃO DO PROCESSO. IMPOSSIBILIDADE. MANUTENÇÃO DA DECISÃO AGRAVADA.
+Não resta configurada a prescrição intercorrente se a pretensão executória não permaneceu paralisada por período superior ao prazo prescricional, que neste caso, é de 05 anos.
+Agravo de Instrumento não provido.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial (fls. 109/121, e-STJ), os recorrentes apontam ofensa aoartigo 1056 do CPC/15.
+Sustentam, em síntese, que deveser decretar a prescrição intercorrente com a extinção da execução.
+Sem contrarrazões.
+Após a decisão de admissão do recurso especial (fls. 209/211, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, cabe ressaltar, de acordo com a jurisprudência do STJ, "somente a inércia injustificada do credor caracteriza a prescrição intercorrente na execução"(AgInt no AREsp 1556710/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/10/2019, DJe 04/11/2019).
+Outrossim, a Segunda Seção deste Superior Tribunal de Justiça, por ocasião do julgamento do Incidente de Assunção de Competência no REsp 1.604.412/SC, em 27/06/2018, uniformizou as seguintes teses acerca da prescrição intercorrente nas execuções ajuizadas antes da vigência do CPC/2015:
+(i) Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002;
+(ii) O termo inicial do prazo prescricional, na vigência do CPC/1973, conta- se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de 1 (um) ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980);
+(iii) O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual); e
+(iv) O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+Confira-se a ementa do referido julgado:
+RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA.AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE.OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO.RECURSO ESPECIAL PROVIDO. 1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes: 1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002. 1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual). 1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório. 3. Recurso especial provido.(REsp 1604412/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 27/06/2018, DJe 22/08/2018)
+Outrossim, a prescrição relativa à pretensão de cobrança de honorários de sucumbência é quinquenal, nos termos do art. 25, inciso II, da Lei n.º 8.906/1994 (EOAB).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO NO ACÓRDÃO ESTADUAL.PERTINÊNCIA DA MULTA DO ART. 1.026, § 2º, DO CPC APLICADA PELO TRIBUNAL A QUO. AFASTAMENTO DA INCIDÊNCIA DA SÚMULA 98/STJ.EXECUÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA. PRESCRIÇÃO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.(..)2. "A jurisprudência desta Casa firmou o entendimento de que a regra de prescrição para a ação de cobrança de honorários advocatícios, prevista no art. 25 da Lei nº 8.906/1994 (Estatuto da OAB), por força do princípio da especialidade, prevalece sobre a regra geral disposta no Código Civil. Precedentes. Incidência da Súmula nº 83 do STJ." (AgRg no AREsp 784.642/DF, Rel. Ministro Moura Ribeiro, DJe 12/08/2016) 3. Agravo interno não provido.(AgInt no AREsp 1491782/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe 17/03/2020)
+Na espécie, a Corte de origem, ao decidir a demanda, adotou os seguintes fundamentos (fls. 65/70, e-STJ):
+Prescrição Intercorrente
+Cinge-se a controvérsia recursal em esclarecer se ocorreu a prescrição intercorrente no caso em exame.
+Como se sabe, para que se reconheça a prescrição intercorrente é imprescindível que esteja caracterizada a inércia do credor em promover atos de sua incumbência, bem como o transcurso do prazo prescricional sem qualquer movimentação do processo.
+(..)
+Extrai-se da análise dos autos que o cumprimento de sentença em discussão está fundamentado em honorários advocatícios de sucumbência decorrente do julgamento dos embargos de terceiro (mov. 1.89). Sendo assim, o prazo prescricional aplicável à hipótese é o de 05 anos, nos termos do art. 25, inc. II, da Lei 8.906/94.
+(..)
+Pois bem. Verifica-se do exame dos autos que após várias movimentações processuais, foi determinado o arquivamento do feito, em 10/04/2015 (mov. 1.103).
+Em 08/03/2017 (mov. 1.106) o exequente compareceu aos e requereu o desarquivamento do feito e sua carga.
+Na sequência, os autos foram digitalizados (mov. 1.107).
+Em 30/10/2017 o exequente juntou substabelecimento nos autos (mov. 09) e em 23/08/2017 (mov. 14) requereu a remessa dos autos ao Contador, pedido esse que foi indeferido (mov. 17.1).
+Intimado o exequente o exequente para dar andamento ao feito (mov. 28.1), este se manifestou requerendo a penhora no rosto dos autos de inventário (mov. 43), a qual foi deferida (mov. 46.1).
+Em mov. 58.1 o agravante apresentou exceção de pré-executividade, requerendo o reconhecimento da prescrição intercorrente. O pleito foi indeferido (mov. 65), ensejando a interposição do presente recurso.
+Nesse contexto, considerando as regras da prescrição intercorrente, aplicável no caso o art. 1056 do CPC, pois o processo se encontrava suspenso na data da entrada em vigor do novo no Código de Processo Civil de 2015.
+(..)
+Com efeito, na hipótese, o termo inicial do prazo prescricional de 05 anos deve ocorrer um ano após a entrada em vigor do referido Código, que ocorreu em 18/03/2016.
+Assim, considerando o início do prazo prescricional em 18/03/2017, tem-se que o termo final ocorreria em 18/03/2022. Logo, evidente a inocorrência da prescrição intercorrente.
+Dessa forma, além de o aresto recorrido encontrar apoio na orientação jurisprudencial firmada por esta Colenda Corte sobre a matéria, o que atrai a incidência do óbice contido na Súmula 83/STJ, para infirmar as conclusões a que chegou o Tribunal de origem, demandaria, necessariamente, o reexame das provas carreadas aos autos, o que é vedado nesta instância extraordinária, a teor da Súmula 7/STJ.
+2. Ante o exposto, nego provimento ao recurso especial, com amparo no artigo 932 do NCPC c/c súmula 568/STJ.
+Publique-se.
+Intimem-se.
