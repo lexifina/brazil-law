@@ -1,0 +1,57 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+
+    “Tráfico de entorpecentes – Acordo de não persecução penal – Matéria nova e que não tem aplicação em grau de recurso, inclusive porque a medida não é cabível em casos de tráfico – Indeferimento – Preliminar rejeitada; Tráfico de entorpecentes – Ingresso em penitenciária – Meio absolutamente eficaz – Depoimentos de agentes penitenciários – Responsabilidade comprovada – Incidência da causa de aumento prevista no art. 40, inciso III, da Lei de Drogas – Condenação mantida – Fixação do regime aberto – Substituição da carcerária por restritivas de direitos – Pedido expresso da Defesa – Possibilidade – Recurso parcialmente provido”. (Documento eletrônico 8)
+
+    Os embargos de declaração que se seguiram foram rejeitados (documento eletrônico 12).
+
+    Neste RE, fundamentado no art. 102, III, a, da Constituição Federal, alega-se, em suma, violação do art. 5°, XL, da mesma Carta.
+
+    Bem examinados os autos, decido.
+
+    O Tribunal de origem assim decidiu a controvérsia:
+
+    “ [...] Entretanto, ao contrário, nos casos de processo em andamento, como é a hipótese dos autos, não se vê como razoável a conversão do julgamento em diligência para que seja avaliada a possibilidade de acordo, seja pela indiscutível impossibilidade de aferir o preenchimento de seus requisitos, seja porque a fase processual em que seria cabível o benefício já está totalmente superada pelo oferecimento e recebimento da denúncia e consequente instauração do processo, seja ainda porque, no caso, o acusado veio investigado por crime de tráfico de entorpecentes, cuja pena mínima cominada é superior a quatro anos de reclusão e onde, evidentemente, as medidas despenalizadoras propostas no § 1º, do art. 28-A, não se mostram suficientes para a reprovação e prevenção do delito”. (pág. 5 do documento eletrônico 8, grifei).
+
+    Este Supremo Tribunal Federal consolidou orientação no sentido de que o acordo de não persecução penal aplica-se a fatos ocorridos antes da Lei 13.964/2019, desde que a denúncia não tenha sido recebida. Nesse sentido, cito os seguintes precedentes:
+
+    “Direito penal e processual penal. Agravo regimental em habeas corpus. Acordo de não persecução penal (art. 28-A do CPP). Retroatividade até o recebimento da denúncia.
+
+    1. A Lei nº 13.964/2019, no ponto em que institui o acordo de não persecução penal (ANPP), é considerada lei penal de natureza híbrida, admitindo conformação entre a retroatividade penal benéfica e o tempus regit actum.
+
+    2. O ANPP se esgota na etapa pré-processual, sobretudo porque a consequência da sua recusa, sua não homologação ou seu descumprimento é inaugurar a fase de oferecimento e de recebimento da denúncia.
+
+    3. O recebimento da denúncia encerra a etapa pré-processual, devendo ser considerados válidos os atos praticados em conformidade com a lei então vigente. Dessa forma, a retroatividade penal benéfica incide para permitir que o ANPP seja viabilizado a fatos anteriores à Lei nº 13.964/2019, desde que não recebida a denúncia.
+
+    4. Na hipótese concreta, ao tempo da entrada em vigor da Lei nº 13.964/2019, havia sentença penal condenatória e sua confirmação em sede recursal, o que inviabiliza restaurar fase da persecução penal já encerrada para admitir-se o ANPP.
+
+    5. Agravo regimental a que se nega provimento com a fixação da seguinte tese: ‘o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia’” (HC 191.464 AgR/SC, Rel. Min. Roberto Barroso).
+
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. DIREITO PENAL E PROCESSUAL PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. AGRAVO INTERNO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ARTS. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL E 317, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. ACORDO DE NÃO PERSECUÇÃO PENAL. AUSÊNCIA DOS REQUISITOS. OMISSÃO. CONTRADIÇÃO. INOCORRÊNCIA. MANUTENÇÃO DO DECISUM. DECLARATÓRIOS REJEITADOS.
+
+    1. Não se prestam os embargos de declaração, não obstante a vocação democrática e a finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas no acórdão embargado.
+
+    2. Não padece dos vícios da omissão e da obscuridade, ao feitio legal, o decisum no qual assentado, de forma inequívoca, a inviabilidade da análise do mérito do recurso ante o não atendimento do requisito de regularidade formal expresso nos arts. 1.021, § 1º, do Código de Processo Civil e 317, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+
+    3. Crime contra a ordem tributária. Acordo de não persecução penal. Retroatividade da Lei nº 13.964/2019 no que diz respeito à possibilidade de iniciar tratativas sobre o acordo de não persecução penal (ANPP). Jurisprudência da Primeira Turma desta Corte no sentido de que a retroatividade atinge casos anteriores à entrada em vigor de referida lei, desde que não recebida a denúncia. Inexistência de ilegalidade manifesta, teratologia ou frontal contrariedade à jurisprudência desta Suprema Corte. Precedentes.
+
+    4. Ausência de omissão justificadora da oposição de embargos declaratórios, nos termos do art. 619 do Código de Processo Penal, a evidenciar o caráter meramente infringente da insurgência. 5. Embargos de declaração rejeitados” (ARE 1.294.303 AgR-segundo-ED/PE, Rel. Min. Rosa Weber)
+
+    “AGRAVO REGIMENTAL. HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL EM RELAÇÃO AO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS (ART. 35 DA LEI 11.343/2006). INVIABILIDADE.
+
+    1. As condições descritas em lei são requisitos necessários para o oferecimento do Acordo de Não Persecução Penal (ANPP), importante instrumento de política criminal dentro da nova realidade do sistema acusatório brasileiro. Entretanto, não obriga o Ministério Público, nem tampouco garante ao acusado verdadeiro direito subjetivo em realizá-lo. Simplesmente, permite ao Parquet a opção, devidamente fundamentada, entre denunciar ou realizar o acordo, a partir da estratégia de política criminal adotada pela Instituição.
+
+    2. O art. 28-A do Código de Processo Penal, alterado pela Lei 13.964/19, foi muito claro nesse aspecto, estabelecendo que o Ministério Público ‘poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime, mediante as seguintes condições’.
+
+    3. A finalidade do ANPP é evitar que se inicie o processo, não havendo lógica em se discutir a composição depois da condenação, como pretende a defesa (cf. HC 191.464-AgR/SC, Primeira Turma, Rel. Min. ROBERTO BARROSO, DJe de 26/11/2020).
+
+    4. Agravo Regimental a que nega provimento” (HC 191124 AgR/RO, Rel. Min. Alexandre de Moraes).
+
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+
+    Publique-se.
+
+    Brasília, 14 de dezembro de 2021.
+
+                      Ministro Ricardo Lewandowski
+
+                                  Relator
