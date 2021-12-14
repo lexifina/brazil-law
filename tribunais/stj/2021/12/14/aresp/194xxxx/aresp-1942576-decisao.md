@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. CONTA CORRENTE. SENTENÇA DE PARCIAL PROCEDÊNCIA DOS PEDIDOS. IRRESIGNAÇÃO DA INSTITUIÇÃO FINANCEIRA RÉ. PRELIMINARMENTE. INÉPCIA DA INICIAL. INOCORRÊNCIA. PEDIDO CERTO E JUROS REMUNERATÓRIOS. INSTRUMENTO DETERMINADO. CONTRATUAL QUE NÃO INDICA A TAXA DE JUROS INCIDENTE. LIMITAÇÃO À TAXA MÉDIA PRATICADA PELO MERCADO DEVIDA. CIÊNCIA DO DEMANDANTE ACERCA DOS JUROS POR OUTROS MEIOS NÃO DEMONSTRADA NOS AUTOS. CAPITALIZAÇÃO DE JUROS. IMPOSSIBILIDADE. AUSÊNCIA DE PACTUAÇÃO EXPRESSA. SENTENÇA MANTIDA, COM A FIXAÇÃO DE HONORÁRIOS RECURSAIS RECURSO CONHECIDO E NÃO PROVIDO.
+A parte agravante sustenta que o acórdão estadual é omisso, pois não emitiu juízo acerca dos documentos que comprovam apactuação dos juros por meio da ciência em extratos bancários e no sítio eletrônico da instituição financeira.
+Sem razão, contudo. Acerca do tema, a Corte de origem assim fundamentou seu entendimento:
+Importanteregistrar, ainda, que embora o banco apelante afirme que os extratos da conta corrente informam as taxas de juros referentes ao período, a análise dos extratos que acompanham a peça inicial (mov. 1.7 a 1.20) revela a ausência de qualquer informação a respeito dos juros.
+Outrossim, a ciência do apelado acerca dos outros meios de aferição da taxa de juros remuneratórios (site, aplicativo, etc) não restou demonstrada nos autos por qualquer elemento probatório.
+Deste modo, considerando que o instrumento contratual firmado entre as partes (mov. 27.4 e 72.2) não contém previsão acerca da taxa de juros incidentes, ônus que pertencia à instituição financeira apelante conforme estabelecido por ocasião do saneamento e organização do processo (mov. 40.1), a limitação à média de mercado é medida correta.
+Houve, portanto, expresso pronunciamento da Turma julgadora sobre o tema, não havendo de se falar na violação do art. 1.022 do Código de Processo Civil.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
