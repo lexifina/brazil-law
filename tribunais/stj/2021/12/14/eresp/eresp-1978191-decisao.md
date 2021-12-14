@@ -1,0 +1,8 @@
+DECISÃO
+1. Cuida-se de agravo interposto por PAULO ROBERTO CUNHAcontra decisão que negou seguimento ao recurso especial, por sua vez manejado em combate a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE CLÁUSULAS CONTRATUAIS C/C REPETIÇÃO DE INDÉBITO. CUMPRIMENTO DE SENTENÇA.RECURSO SECUNDUM EVENTUM LITIS. REPETIÇÃO DE INDÉBITO.CONDICIONADA A EXISTÊNCIA DE SALDO EM FAVOR DO AGRAVANTE. 1. O agravo de instrumento tem natureza secundum eventum litis, devendo o Relator limitar-se ao exame do acerto ou desacerto do que fora decidido pelo Juiz de Direito na instância singela, sendo defeso conhecer de questões não apreciadas pelo juízo singular. 2. A fase de cumprimento de sentença deve se limitar aquilo que foi decidido na sentença. A coisa julgada torna certa e imutável, tornando-se inadmissível estabelecer outros parâmetros em relação a repetição de indébito, sob pena de afronta à coisa julgada e, ainda, aos princípios do contraditório e da ampla defesa. 3.AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO".
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, sustenta violação dos arts. 489, 502, 503, 1.022, incisos II e III, do CPC/2015; 42, parágrafo único, do CDC,5º, § 6-A, inciso I, e 6º da Lei nº 9.138/1995 e884 do Código Civil.
+DECIDO.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
