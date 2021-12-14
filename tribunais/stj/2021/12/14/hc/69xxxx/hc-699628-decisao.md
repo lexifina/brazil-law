@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de TIAGO FRANCISCO DE OLIVEIRA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, o qual negou provimento ao agravo em execução defensivo, nos termos do acórdão de e-STJ, fls. 25-28, não ementado.
+Neste writ, o impetrante alega constrangimento ilegal causado ao paciente, na medida em foi negado o pedido de remição por estudo, em afronta ao art. 126, §§ 1º e 2º, da LEP.
+Sustenta que o art. 126, § 2º, da LEP, não exige o certificado de órgão público, incorrendo a autoridade coatora em equívoco ao exigir o documento.
+Defende que não cabe ao Poder Judiciário a exigência de requisitos não previstos em lei e que as autoridades educacionais competentes seriam os dirigentes, autoridades e professores da escola que ministrou o curso frequentado.
+Assevera que se pretende o exame do alcance dos dispositivos legais mencionados, pois não se discute a realização ou não do curso, mas a necessidade de a autoridade competente ser vinculada ao poder público.
+Por fim, aduz inobservância da Resolução n. 391/2021 do CNJ, pois inviabilizar o estudo à distância é aviltar um dos objetivos primordiais do cumprimento de pena, que é a ressocialização.
+Requer a concessão da ordem para que seja reconhecida a remição de 244 dias, em razão da comprovação da carga horária de 2.924 horas, nos termos do art. 126, § 1º, I, c. c. o art. 126, § 2º, da LEP.
+Prestadas as informações (e-STJ, fls. 35-61), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 73-78).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Juízo monocrático indeferiu o pedido de remição da pena por estudos, nestes termos:
+"A remição da pena por estudo com base no certificado acostado nos autos, não merece ser reconhecido. Vejamos.
+Estabelece o artigo 126 da Lei de Execuções Penais:
+O Tribunal de origem, por sua vez, consignou o seguinte (e-STJ, fls. 17-19):  ..
+O(A) sentenciado(a) juntou aos autos certificado emitido pelo "CTB/EAD", que atesta a conclusão de curso de qualificação profissional de:
+Economia (período de 01/06/2019 a 31/05/2020, com duração equivalente a 1464 horas) fls. 120/123;
+Gerente de Vendas (período de 01/06/2018 a 31/05/2019, com duração equivalente a 1460horas) fls. 124/127.
+Entretanto, referidos certificados são assinados tão somente pelo Diretor da Instituição, ou seja, não consta do documento a certificação por Autoridades Educacionais, conforme exigido em lei. Em consulta ao sítio eletrônico do próprio CBT, tal constatação pode ser confirmada ao mencionar que os cursos livres não são passiveis de regulação por parte do Ministério da Educação (MEC).
+E ainda que se entenda que a certificação realizada pelo Diretor da instituição seja suficiente, seria necessária a comprovação da realização das atividades pela Unidade Prisional, o que não ocorre no presente caso.
+A respeito da obrigatoriedade da certificação por Autoridade Educacional, colaciono os seguintes julgados:  ..
+Ademais, de acordo com a Resolução 391/2021 do Conselho Nacional de Justiça, as formas de acesso à educação nas prisões devem estar integradas ao projeto político-pedagógico (PPP) da unidade ou sistema prisional (artigos 2º, 3º e 8º), e devem ser oferecidas por instituição devidamente autorizada ou conveniada com o Poder Público, o que não é o caso. Neste sentido:  ..
+Ante o exposto, indefiro o pedido de TIAGO FRANCISCO DE OLIVEIRA,  .. ." (e-STJ, fls. 18-24).
+O Tribunal Estadual confirmou o decisum, às seguintes considerações:
+"O agravante formulou pedido de remição de pena por ter estudado e obtido aprovação em curso de economia e gerente de vendas realizado à distância, cujo certificado foi emitido pelo "CBT/EAD" (fls. 08/15).
+Contudo, não foram preenchidos os requisitos legais exigidos pelo artigo 126, §§ 1º e 2º, da Lei 7.210/84, segundo o qual, para se ter o direito à remição por estudo, é necessária a comprovação de frequência escolar, devidamente chancelada pelas autoridades educacionais.
+Isto porque para fazer jus à remição de um dia de pena, o condenado deve comprovar a frequência escolar de 12 horas aulas, divididas, em, no mínimo, 03 (três) dias, e, muito embora esteja especificada a carga horária diária aplicada aos cursos realizados, não há comprovação da efetiva frequência do sentenciado, de modo que, sem o registro de participação da pessoa privada de liberdade nas atividades realizadas, não há como se reconhecer a remição pretendida (art. 4º, da Resolução 391 CNJ, de 10/05/2021).
+No caso, embora os documentos juntados aos autos atestem o total da carga horária de estudo, não comprovam o período e as horas efetivamente estudadas, nem o acompanhamento ou fiscalização da unidade prisional.
+Nesse sentido é o entendimento do Superior Tribunal de Justiça:  ..
+Ademais, os documentos apresentados pelo agravante estão certificados somente pelo diretor da instituição particular de ensino, não satisfazendo, portanto, a exigência legal de certificação por autoridades educacionais.
+Destarte, porque os documentos apresentados pelo sentenciado estão em desacordo com os requisitos exigidos para o reconhecimento da remição por estudo, previstos na LEP, mantem-se a r. decisão agravada.
+Diante do exposto, nega-se provimento ao recurso." (e-STJ, fls. 26-28).
+Conforme se depreende dos autos, a defesa formulou pedido de remição da pena pelo estudo, apresentando certificados emitidos pelo CBT/EAD, que atestam a conclusão dos cursos de economia e de gerente de vendas.
+O art. 126 da Lei de Execução Penal permite ao condenado que cumpre pena em regime fechado ou semiaberto remir, por estudo, parte do tempo de execução da pena, determinando que a contagem do tempo seja feita à razão de 1 dia de pena a cada 12 horas de frequência escolar.
+Ocorre que, como bem observado pelas instâncias ordinárias, não consta nos autos certificação dos referidos cursos pelas autoridades educacionais competentes, além de não haver informação segura da distribuição da carga horária respectiva.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme ao asseverar que, "ainda que concluído o curso na modalidade à distância - in casu - a remição em decorrência do estudo exige, para cada dia de pena remido, a comprovação de horas de estudo, que, dada a sistemática da lei de execução penal, encontrando-se o apenado sob a custódia do Estado, deve preceder de fiscalização e autenticidade do cumprimento dos requisitos legais" (AgRg no HC n. 478.271/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/8/2019).
+Portanto, o óbice destacado encontra respaldo no entendimento firmado pelo Superior Tribunal de Justiça, segundo o qual " a  remição de pena pelo estudo, nos termos do art. 126, § 2º, da Lei de Execução Penal, depende da certificação do curso frequentado pelas autoridades educacionais competentes, por meio de documento idôneo, a fim de cumprir os requisitos exigido na Recomendação n. 44 do Conselho Nacional de Justiça" (AgRg no HC n. 460.196/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 1º/7/2019).
+Ademais, rever o entendimento adotado pela instância ordinária e decidir de forma contrária demandaria revolvimento fático-probatório, inviável na estreita via do habeas corpus.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO POR ESTUDO A DISTÂNCIA. AUSÊNCIA DE COMPROVAÇÃO DAS HORAS EFETIVAMENTE ESTUDADAS. AGRAVO DESPROVIDO.
+1. A Lei de Execução Penal permite a remição por estudo a distância, desde que observados alguns cuidados para comprovação da frequência e do aproveitamento escolares.
+2. Consoante descrito no acórdão tido como coator, "os documentos trazidos aos autos não trazem a certificação adequada do curso realizado, bem como não são capazes de comprovar a devida frequência do sentenciado e o número de horas cursadas por dia, inviável o desconto de suas penas, não merecendo guarida o pleito defensivo".
+3. Agravo regimental desprovido." (AgRg no HC 675.530/SP, deste Relator, QUINTA TURMA, julgado em 05/10/2021, DJe 13/10/2021).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO. NECESSIDADE DE COMPROVAÇÃO DE FISCALIZAÇÃO. AUSÊNCIA DE ILEGALIDADE.
+1. Ao contrário do que alega a defesa, na unidade prisional em que se encontra o agravante existem salas utilizadas para o ensino formal e para os cursos presenciais, devidamente supervisionadas pelo estabelecimento penitenciário.
+2. O art. 126 da Lei de Execução Penal permite ao condenado que cumpre pena em regime fechado ou semiaberto remir, por estudo, parte do tempo de execução da pena. No caso, a defesa não se desincumbiu de demonstrar a carga horária de efetivo estudo realizado pelo executado.
+3. Agravo regimental improvido." (AgRg no HC 546.234/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/02/2020, DJe 28/02/2020).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELO ESTUDO À DISTÂNCIA. ART. 126, § 1º, DA LEP. RECOMENDAÇÃO N. 44 DO CNJ. ENTIDADE DE ENSINO NÃO CREDENCIADA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - "Não obstante o caráter de ressocialização do estudo, o art. 126 da Lei de Execução Penal e Resolução n. 44 do Conselho Nacional de Justiça deixam evidente que a remição da pena pelo estudo depende da efetiva participação do Reeducando nas atividades educacionais. Tal efetividade está sujeita à valoração pelo Poder Público, que pode ser exercida por autoridade educacional ou, até mesmo, pelo sistema prisional local (art. 126, § 2.º, da LEP e art. 1.º, inciso I, da Resolução n. 44/2013)" (HC 462.379/MG, Sexta Turma, Rel. Min. Laurita Vaz, DJe 28/03/2019).
+III - "No caso, a Entidade não é conveniada com a Unidade Penitenciária, motivo pelo qual o Tribunal a quo entendeu pela impossibilidade de aferir a inidoneidade da declaração de conclusão dos cursos profissionalizantes. Para afastar essa percepção é imprescindível o reexame do acervo fático-probatório, o que é todo inviável no âmbito do habeas corpus" (HC 462.379/MG, Sexta Turma, Rel. Min. Laurita Vaz, DJe 28/03/2019). No mesmo sentido, as decisões monocráticas desta Quinta Turma, todas do ano de 2019, nos HCs n. 516.182/SP, n. 506.705/SC e n. 478.721/SP.
+Habeas corpus não conhecido." (HC 517.422/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 01/10/2019, DJe 08/10/2019, grifou-se).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
