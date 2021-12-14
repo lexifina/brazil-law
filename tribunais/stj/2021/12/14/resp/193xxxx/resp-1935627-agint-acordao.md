@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANGELA MARTINS BELISARIOcontra decisão de minha lavra, em que não conheci do recurso especial, em face do disposto naSúmula283 do STF(e-STJ fls. 296/300).
+Sustenta a parte agravante que não se aplica o referido óbice sumular, porquantoa controvérsia trazida noapelo nobre diz respeito ao não conhecimento do recurso de apelação com fundamento da legitimidade exclusiva da defensoria pública para recorrer, sendo certo que apenas após o julgamento do referido recurso éque se poderia apreciar questão de mérito sobre os honorários de sucumbência.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Impugnação apresentada às e-STJ fls. 313/318.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL.RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA.
+1. Incide a Súmula 283 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido.
+2. Hipótese em que o Tribunal de origem, apesar de não ter conhecido da apelação interposta pela autora, por ilegitimidade e falta de interesse para questionar unicamente os honorários sucumbenciais, acabou apreciando o mérito recursale a parte recorrente, no apelo nobre,insurgiu-sesomente contra aquestão preliminar, deixando incólume os demais fundamentos do aresto recorrido.
+3. Se o recurso especial limitou-se a alegar alegitimidade concorrente da parte vencedora e do causídico para questionar matéria referente aos honorários advocatícios, não há como determinar o retorno dos autos ao Tribunal de origem para o conhecimento da apelação se o mérito dorecurso já foi efetivamente apreciado e o apelo nobre não apontou sequereventual ofensa ao art. 1.022 do CPC/2015.
+4. Agravo interno desprovido.
+VOTO
+Conforme registrada na decisão ora combatida,embora o Tribunal de origem não tenha conhecido da apelação interposta pela autora, por ilegitimidade e falta de interesse para questionar unicamente os honorários sucumbenciais, acabou apreciando o mérito recursal e a parte recorrente, no apelo nobre, insurgiu-se somente contra aquestão preliminar, deixando incólumes os demais fundamentos do aresto recorrido, incidindo in casu, assim, a Súmula 283 do STF.
+Por oportuno, transcrevo os fundamentos da decisão ora agravada(e-STJ fls. 297/300):
+Dito isso, verifica-se que o juízo de primeira instância julgou procedente o pedido da parte autora, para condenar o Município da Paranaíba e o Estado de Mato Grosso do Sul ao fornecimento do "tratamento denominado "Radioiodoterapia em dose de 10MCI", conforme prescrição médica, preferencialmente em hospital da rede pública" (e-STJ fl. 94 - destaque do original).
+Na oportunidade, condenou o Município ao pagamento de honorários advocatícios em favor da Defensoria Pública estadual no valor de R$ 1.000,00 (mil reais), nos termos do art. 85, § 8º, do CPC de 2015 (e-STJ fl. 95).
+O Tribunal de origem negou provimento à remessa necessária, reconhecendo a responsabilidade solidária dos entes políticos pelo custeio do tratamento pleiteado (e-STJ fls 159/162), e acolheu, de ofício, preliminar de não conhecimento do recurso interposto pela parte autora, por ilegitimidade ativa e falta de interesse recursal, sob os seguintes fundamentos, in verbis (e-STJ fl. 165):
+Portanto, como, à luz do ordenamento jurídico pátrio, apenas e tão somente o advogado da parte vencedora terá legitimidade para interpor recurso que tenha por objetivo unicamente a modificação dos honorários sucumbenciais, por força do disposto no art. 23 da Lei 8.906/64, c/c art. 85, § 14 do novo CPC e, por isso, não conhecer do recurso de apelação interposto pela parte autora é medida de rigor.
+A Defensoria Pública opôs embargos de declaração alegando que "não tendo a Colenda Câmara Cível, em sede de reexame necessário, revisto a sentença na parte dos honorários sucumbenciais, deve ser sanada essa omissão, por meio destes embargos de declaração" (e-STJ fl. 186), os quais foram conhecidos, porém rejeitados nos seguintes termos (e-STJ fls. 220/223):
+Na hipótese, a Defensoria Pública é órgão do Estado, desprovida de personalidade jurídica, que presta função jurisdicional essencial ao Estado, conforme preceitua a Lei Complementar Federal nº 80/94.
+Logo, se faz parte do próprio Estado, não pode ter proveito relativo ao recolhimento de honorários sucumbenciais em demandas em que o vencido é o próprio ente do qual faz parte, devendo ser observado o disposto no art. 381 do Código Civil, havendo a ocorrência da confusão entre o credor e o devedor, que, no caso, são a mesma pessoa jurídica de direito público.
+Conforme já declinado no julgamento embargado, o Superior Tribunal de Justiça já se pronunciou diversas vezes acerca da matéria, mesmo após a entrada em vigor da Lei 132/2009, conforme julgados a seguir:
+(..)
+Assim, ao caso, impositiva se mostra a aplicação da Súmula nº 421 da Corte Superior, in verbis: Os honorários advocatícios não são devidos à Defensoria Pública quando ela atua contra a pessoa jurídica de direito público à qual pertença.
+Sem prejuízo, cabe destacar que embora reconhecida a repercussão geral ao RE 1.140.005 que cuida da matéria - Tema nº 1002 do STF - a questão ainda não foi apreciada e, tampouco, foi determinado sobrestamento das ações em trâmite, logo, não vejo óbice para continuar aplicando o entendimento externado acima e reiteradamente adotado por este Tribunal de Justiça, in verbis:
+(..)
+De outro vértice, levando-se em conta o inestimável proveito econômico discutido na causa, que visou tutela judicial de preceito cominatório, com o fito de compelir os entes públicos demandados a disponibilizar tratamento de saúde em favor da parte autora, defeso falar-se em aplicação do que dispõe o § 4º do art. 85 do CPC, aplicando-se ao caso o que dispõe o § 8º, do mesmo dispositivo legal, tal como corretamente fixado na sentença, razão pela qual a insurgência da ora embargante nesse aspecto sequer foi objeto de análise em reexame necessário.
+Portanto, inexiste qualquer omissão ou outro vício no julgamento embargado, rejeitar os embargos é medida que se impõe.
+É certo que esta Casa de Justiça possui entendimento de que há legitimidade concorrente da parte vencedora e de seu advogado para discutir os honorários de sucumbência.
+Nesse sentido, confira-se:
+(..)
+Todavia, no caso dos autos, o aresto combatido, no relatório, destacou que o recurso de apelação da parte autora se insurge contra a ausência de condenação do Estado ao pagamento de honorários de sucumbência em favor da Defensoria Pública estadual (e-STJ fl. 158), tendo o aresto integrativo se manifestado expressamente sobre as verbas sucumbenciais e os motivos pelos quais afastou a condenação do ente político estadual.
+Nesse passo, constata-se claramente que a recorrente não se insurgiu contra todos os motivos que conferem sustentação jurídica ao aresto impugnado, circunstância que atrai a aplicação da Súmula 283 do STF.
+Nessa quadra, se o recurso especial limitou-se a alegar a legitimidade concorrente da parte vencedora e do causídico para questionar matéria referente aos honorários advocatícios, não há como determinar o retorno dos autos ao Tribunal de origem para o conhecimento da apelação se o mérito do recurso já foi efetivamente apreciado e o apelo nobre não apontou sequer eventual ofensa ao art. 1.022 do CPC/2015.
+Assim, devidamente analisadas e discutidas as questões de mérito, e fundamentadoo acórdão recorrido, de modo a esgotar a prestação jurisdicional, mostra-se inviável a devolução dos autos à origem, nos termos pretendidos, notadamente se o apelo nobre não ultrapassou o óbice de conhecimento, em face da aplicação da Súmula 283 do STJ.
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
