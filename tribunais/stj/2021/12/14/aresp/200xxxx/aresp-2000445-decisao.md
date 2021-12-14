@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravos interpostos por BANCO DO BRASIL S.A. e SOLANGE MARIA FERNANDES BEZ contra acórdão proferido pela Terceira Câmara de Direito Comercial do Tribunal de Justiça de Santa Catarina, assim ementado (e-STJ, fl. 217):
+APELAÇÕES CÍVEIS. EMBARGOS DE TERCEIRO. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES. BLOQUEIO DE VALORES DA EMBARGANTE EM CONTA BANCÁRIA CONJUNTA COM O EXECUTADO. SOLIDARIEDADE PASSIVA SOMENTE PERANTE ÀS DÍVIDAS COM A INSTITUIÇÃO FINANCEIRA, SEM EXTENSÃO PARA TERCEIROS. PRESUNÇÃO, NO CASO CONCRETO, DE QUE CADA TITULAR É DETENTOR DE METADE DO SALDO BANCÁRIO. PRECEDENTES. "Na conta conjunta solidária prevalece o princípio da solidariedade ativa e passiva apenas em relação ao banco - em virtude do contrato de abertura de conta-corrente - de modo que o ato praticado por um dos titulares não afeta os demais nas relações jurídicas e obrigacionais com terceiros, haja vista que a solidariedade não se presume" (REsp. n. 1.184.584/MG, Rel. Min. Luis Felipe Salomão, j. 22-4-2014). AUSÊNCIA DE DEMONSTRAÇÃO DE QUE OS VALORES CONSTRITADOS SÃO PROVENIENTES DE VERBA ALIMENTAR.ÔNUS QUE INCUMBIA À EMBARGANTE, NOS TERMOS DO ART. 373, I, DO CPC. ALEGADA PRESCRIÇÃO INTERCORRENTE. ARQUIVAMENTO ADMINISTRATIVO DO PROCESSO. NOTA DE CRÉDITO COMERCIAL. INTERREGNO INFERIOR AO PRAZO PRESCRICIONAL DO TÍTULO EXECUTIVO (TRÊS ANOS), A TEOR DO ART. 52 DO DECRETO - LEI N. 413 E DO ART. 70 DA LEI UNIFORME DE GENEBRA. PRESCRIÇÃO INTERCORRENTE NÃO CARACTERIZADA. DECISUM MANTIDO. HONORÁRIOS RECURSAIS. ART. 85, §§1º E 11, DO CPC/15. MAJORAÇÃO DEVIDA. CRITÉRIOS CUMULATIVOS PREENCHIDOS (STJ, EDCL NO AGINT NO RESP 1.573.573/RJ). RECURSOS CONHECIDOS E DESPROVIDOS.
+Opostos embargos de declaração por ambas as partes, estes foram rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 327-339), a instituição financeira apontou divergência jurisprudencial quanto ao art. 85, § 2º, do CPC/2015.Afirmou a necessidade de redução do valor arbitrado a título de remuneração do procurador do recorrido.
+As contrarrazões foram juntadas às fls. 357-362 (e-STJ).
+No apelo extremo apresentado por Solange Maria Fernandez Bez, com fulcro na alínea a do permissivo constitucional, a agravantealegou ofensa aos arts. 489 e 1.022 do CPC/2015.
+Sustentou, em síntese, negativa de prestação jurisdicional e deficiência na fundamentação do acórdão recorrido por ausência de manifestação quanto ao disposto nos arts. 197, 199 e 202 do Código Civil.Apontou a ocorrência da prescrição intercorrente, sob o argumento de que o mero pedido de desarquivamento dos autos não interrompe o prazo prescricional.
+Contrarrazões apresentadas por Banco do Brasil S.A. (e-STJ, fls. 367-375).
+Juízo negativo de admissibilidade (e-STJ, fls. 378-381 e 384-385).
+Brevemente relatado, decido.
+No tocante à prescrição intercorrente, consta do acórdão recorrido (e-STJ, fls. 222-224):
+De outro vértice, sustenta a embargante a ocorrência de prescrição intercorrente do crédito executado, pois os autos permaneceram paralisados por tempo suficiente ao seu reconhecimento.
+Como cediço, a prescrição intercorrente é o fenômeno jurídico que extingue a pretensão executória ante a inércia do credor em realizar as diligências que lhe competiam, por prazo superior ao lapso temporal previsto em lei para o exercício do direito material.
+( )
+Sobre a matéria, registra-se, ainda, que o Superior Tribunal de Justiça, através do julgamento do REsp n. 1.604.412/SC, submetido ao rito do art. 947, § 4º, do CPC/15, sedimentou entendimento referente ao termo inicial para contagem da prescrição intercorrente nos seguintes termos:
+RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA.
+CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes:
+1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73,quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei6.830/1980).
+1.3. O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido (Rel. Min. Marco Aurélio Bellizze, j. 27.06.2018).
+À luz dessas orientações, em resumo, afere-se que o Superior Tribunal de Justiça estabeleceu os seguintes requisitos necessários ao reconhecimento da prescrição intercorrente:
+(i) inércia do exequente por período superior ao prazo prescricional relativo ao direito material vindicado;
+(ii) na vigência do Código de Processo Civil de 1973, do decurso do lapso de suspensão do processo; ou em não tendo sido fixado prazo pelo juiz, do transcurso do período de 1 (um) ano, a contar da decisão que deferiu a suspensão;
+(iii) a intimação prévia do exequente, por meio de seu defensor, para que lhe seja oportunizado o exercício do contraditório e da ampla defesa, no que pertine à ocorrência ou não da prescrição.
+Assim, considerando que o caso em apreço encontra-se pautado em execução de nota de crédito comercial, impositiva a incidência do prazo prescricional de 03 (três) anos, nos termos do art. 52 do Decreto-Lei n. 413, de09-01-1969; do art. 70 da Lei Uniforme de Genebra (Decreto n. 57.663/1966), e do art. 206, § 3º, VIII, do Código Civil.
+Observa-se que o arquivamento administrativo do processo foi em 14/12/2012, na vigência do Código de Processo Civil de 1973, e considerando que não assinalado prazo pelo Juízo do lapso de sobrestamento, o termo inicial para contagem do prazo prescricional ocorreria a partir do transcurso de 1 (um)ano do seu arquivamento, ou seja, em 14/12/2013.
+Entretanto, a instituição exequente requereu o desarquivamento dos autos em 11/07/2016, ou seja, antes do transcurso do prazo de 3 (três) anos, razão pela qual não se operou a prescrição intercorrente.
+Observa-se, por fim, que, após o arquivamento administrativo, o feito não restou paralisado, visto que a instituição financeira se manifestou nas ocasiões em que fora intimada.
+Nessa toada, não tendo havido paralisação injustificada, não há falar na consumação do aludido instituto jurídico.
+No entanto, esta Corte firmou entendimento no sentido de que o pedido de desarquivamento dos autos não tem o condão de interromper o prazo prescricional, por ser incapaz de evidenciar o interesse no cumprimento da sentença.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. IMPOSSIBILIDADE DE ANÁLISE DO CONTEÚDO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. INADMISSIBILIDADE.
+(..)
+3. Ainda que assim não fosse, verifica-se que o acórdão recorrido, em relação ao fundamento de que o pedido de desarquivamento não interrompe a prescrição, encontra-se em consonância com o entendimento consolidado no Superior Tribunal de Justiça. Nesse sentido: REsp 1.155.060/DF, Rel. Min. Marco Buzzi, Quarta Turma, DJe 10.3.2016 e REsp 1.522.523/ES, Rel. Min. Herman Benjamin, Segunda Turma, DJe 5.8.2015.
+4. Recurso Especial não conhecido.
+(REsp 1724396/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/03/2018, DJe 13/11/2018)
+RECURSO ESPECIAL. DIREITO CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. TÍTULO EXECUTIVO FORMADO NO BOJO DE AÇÃO CONDENATÓRIA. RESPONSABILIDADE CIVIL. SÚMULA 150 DO STF. REPARAÇÃO CIVIL. PRAZO DE TRÊS ANOS, ART. 206, § 3º, V, CÓDIGO CIVIL. TRÂNSITO EM JULGADO. INTERRUPÇÃO DO LAPSO PRESCRICIONAL. PEDIDO DE DESARQUIVAMENTO DOS AUTOS. CONTRARIEDADE AOS ARTIGOS 202 E 206 DO CÓDIGO CIVIL. OCORRÊNCIA DA PRESCRIÇÃO. RECURSO ESPECIAL PROVIDO.
+(..)
+2. A petição onde consta o pedido de desarquivamento dos autos não pode ser tida como causa interruptiva da prescrição, visto que não se amolda às hipóteses descriminadas nos incisos do artigo 202 do Código Civil.
+3. O pedido de cumprimento de sentença é que tem o condão de interromper a prescrição.
+4. Do trânsito em julgado, ou ainda, da intimação das partes do retorno dos autos à origem até a interposição do pedido de cumprimento de sentença, transcorreu período superior a 3 (três) anos, prazo este previsto no inciso V do § 3º do art. 206 do Código Civil, portanto o prazo prescricional restou alcançado.
+5. Recurso especial provido para reconhecer a ocorrência da prescrição da pretensão executória.
+(REsp 1155060/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/03/2016, DJe 10/03/2016)
+Assim, verifica-se que o Tribunal de origem, ao entender que o pedido de desarquivamentoteria interrompido o prazo prescricional, dissentiu da jurisprudência desta Casa.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial deSOLANGE MARIA FERNANDES BEZ, a fim de determinar o retorno dos autos à origem para que, à luz da jurisprudência do STJ, faça uma nova análise acerca da implementação, ou não, do prazo prescricional.Julgo prejudicadoo recurso interposto pela instituição financeira.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVOS EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. 1. PEDIDO DE DESARQUIVAMENTO. NÃO INTERRUPÇÃO DO LAPSO PRESCRICIONAL. DECISÃO RECORRIDA EM DISSONÂNCIA À JURISPRUDÊNCIA DO STJ. 2. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL INTERPOSTO POR SOLANGE MARIA FERNANDES BEZ.RECURSO INTERPOSTO PORBANCO DO BRASIL S.A.PREJUDICADO.
