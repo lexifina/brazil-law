@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por Porto Seguro Companhia de Seguros Gerais contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 463):
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO DPVAT. 1. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE SIMILITUDE FÁTICA. 2. VERBA HONORÁRIA. POSSIBILIDADE DE ARBITRAMENTO POR EQUIDADE. VALOR DA CONDENAÇÃO MUITO BAIXO. SÚMULA 83/STJ. 3. HONORÁRIOS SUCUMBENCIAIS. MONTANTE FIXADO PELAS INSTÂNCIAS ORDINÁRIAS. EXORBITÂNCIA NÃO EVIDENCIADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO. DESPROVIDO.
+Em suas razões, a agravante alega que "há clara similitude fática entre o acórdão eleito como paradigma do caso e aquele objeto do recurso extremo" (e-STJ, fl. 472).
+Entende que, havendo regra geral de fixação dos honorários entre 10% e 20% sobre o valor da condenação, não seria cabível o seu arbitramento de forma equitativa.
+Assevera que a verba honorária deve, ao menos, ser reduzida, de acordo com o critério da razoabilidade, já que a quantia arbitrada ultrapassa o valor da condenação.
+Relata só ser possível a fixação de honorários recursais quando a verba tiver sido estabelecida nos termos do art. 85, § 2º, do CPC/2015, considerando a necessidade de obediência aos limites de 10% a 20% do valor da condenação.
+Pretende, ao final, a reforma da decisão agravada.
+Sem impugnação (e-STJ, fl. 509).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO DPVAT. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE SIMILITUDE FÁTICA. VERBA HONORÁRIA. POSSIBILIDADE DE ARBITRAMENTO POR EQUIDADE. VALOR DA CONDENAÇÃO MUITO BAIXO. SÚMULA 83/STJ. HONORÁRIOS SUCUMBENCIAIS. MONTANTE FIXADO PELAS INSTÂNCIAS ORDINÁRIAS. EXORBITÂNCIA NÃO EVIDENCIADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS RECURSAIS. CABIMENTO. AGRAVO DESPROVIDO.
+1. Não há dissonância jurisprudencial entre o acórdão proferido pelo Tribunal de origem e o julgado desta Corte Superior indicado nas razões do apelo especial, em virtude da falta de similitude fática entre os casos cotejados.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, nas causas em que o valor da condenação for muito baixo, como na espécie, os honorários de sucumbência devem ser fixados por apreciação equitativa do juiz. Incidência do enunciado n. 83 da Súmula desta Corte Superior.
+3. Inviável o acolhimento da pretensão de minoração dos honorários sucumbenciais, "pois demandaria necessariamente nova análise do conjunto fático-probatório do autos, o que é vedado pela Súmula nº 7 do STJ, até porque a verba fixada não se afigura exorbitante." (AgInt no REsp 1.894.530/MT, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 2/2/2021, DJe 8/2/2021).
+4. É plenamente possível o arbitramento de honorários recursais quando a verba fixada na origem o for de maneira equitativa, não havendo falar, nesse caso, em observância aos limites de 10% a 20%, a que alude o art. 85, § 2º, do CPC/2015.
+5. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+Conforme consignado na decisão agravada, não há dissonância jurisprudencial entre o acórdão proferido pelo Tribunal de origem e o julgado desta Corte Superior indicado nas razões do apelo especial, em virtude da falta de similitude fática entre os casos cotejados.
+Isso porque o presente caso versa sobre o cabimento da fixação da verba honorária, de forma equitativa, quando a obediência aos limites previstos no art. 85, § 2º, do CPC/2015 importar em quantia irrisória; enquanto o acórdão paradigma trata sobre a possibilidade de arbitramento dos honorários sucumbenciais, equitativamente, quando a observância dos parâmetros previstos no referido dispositivo legal resultar em valor exorbitante.
+Dessa forma, fica claro que se trata de processos com circunstâncias fáticas diferentes, não havendo, portanto, como reconhecer a suposta divergência jurisprudencial.
+A título exemplificativo:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PRAZO DECADENCIAL CONFIGURADO. REEXAME. VEDADO A TEOR DA SÚMULA 7/STJ. SIMPLES NACIONAL. REINCLUSÃO. COTEJO ANALÍTICO. SIMILITUDE FÁTICA NÃO COMPROVADA. AGRAVO INTERNO DA EMPRESA NÃO PROVIDO.
+(..)
+2. No que concerne à alegação de dissídio jurisprudencial, não ficou comprovada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação de forma divergente.
+3. Agravo Interno da Empresa a que se nega provimento.
+(AgInt no AREsp 1801284/SP, Rel. Ministro MANOEL ERHARDT DESEMBARGADOR CONVOCADO DO TRF5, PRIMEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO VERIFICADA. AUSÊNCIA DE SIMILITUDE FÁTICA. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação divergente e demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015). No caso, inexiste similitude fática.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1894157/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/10/2021, DJe 28/10/2021)
+Outrossim, é certo que a verba sucumbencial foi arbitrada de forma equitativa, por concluir o colegiado estadual que importaria em quantia irrisória a sua fixação dentro dos limites de 10% a 20% sobre o valor da condenação, nos termos da fundamentação a seguir transcrita (e-STJ, fls. 249-250):
+No que tange ao arbitramento dos honorários advocatícios em 15% (quinze por cento) sobre o valor da condenação, mais uma vez, sem razão a apelante.
+É que, como a condenação, na espécie, foi arbitrada no diminuto valor de R$ 1.350,00 (mil trezentos e cinquenta reais), os honorários advocatícios, se fixados em 15% sobre esse valor, o que corresponde a R$ 202,50 (duzentos e dois reais e cinquenta centavos) se mostrará irrisórios.
+Dessa forma, os honorários advocatícios devem estar, como de fato estão, arbitrados por apreciação equitativa, em perfeita harmonia com o que preceitua o parágrafo 8º, do artigo 85, do Código de Processo Civil.
+Em face disso, constata-se que o valor da condenação é realmente muito baixo, motivo pelo qual era mesmo de rigor o estabelecimento dos honorários de sucumbência nos moldes do art. 85, § 8º, do CPC/2015.
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. HONORÁRIOS. PRINCÍPIO DA CAUSALIDADE. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte possui firme o entendimento no sentido de que, nas causas em que, havendo ou não condenação, for inestimável ou irrisório o proveito econômico ou, ainda, for muito baixo o valor da causa, deverão os honorários de sucumbência ser fixados por apreciação equitativa do juiz. Precedentes.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1782332/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/08/2021, DJe 09/09/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NPC. AÇÃO DECLARATÓRIA DE RECONHECIMENTO DE PATERNIDADE/MATERNIDADE SOCIEDADE. ARTS. 1.022 E 489 DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TRIBUNAL LOCAL QUE FIXOU OS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA EM CONFORMIDADE COM A ORIENTAÇÃO ASSENTADA PELA SEGUNDA SEÇÃO DO STJ. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA. DESCONSTUIÇÃO DAS PREMISSAS ADOTADAS PELO ACÓRDÃO RECORRIDO PARA FIXAR A VERBA SUCUMBENCIAL. IMPOSSIBILDADE. SÚMULA Nº 7 DO STJ. PRECENTES. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A Segunda Seção do STJ consolidou o entendimento de que o NCPC instituiu, no art. 85, § 2º, do NCPC, regra geral obrigatória no sentido de que os honorários advocatícios devem ser fixados sobre o valor da condenação ou do proveito econômico ou, não sendo possível identificá-lo, sobre o valor da causa, restringindo-se o comando excepcional do § 8º do art. 85, do mesmo diploma legal, de fixação por equidade, às causas em que for inestimável ou irrisório o proveito ou, ainda, em que o valor da causa for muito baixo. Regra subsidiária que se aplica aos autos.
+(..)
+5. Agravo interno não provido.
+(AgInt no REsp 1835089/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/06/2021, DJe 08/06/2021)
+Assim, visto que a orientação adotada no acórdão recorrido está em harmonia com a jurisprudência desta Corte, o acolhimento da tese recursal encontra óbice no enunciado sumular n. 83/STJ.
+Além disso, revela-se inviável o acolhimento da pretensão de minoração dos honorários sucumbenciais, "pois demandaria necessariamente nova análise do conjunto fático-probatório do autos, o que é vedado pela Súmula nº 7 do STJ, até porque a verba fixada não se afigura exorbitante" (AgInt no REsp 1.894.530/MT, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 2/2/2021, DJe 8/2/2021).
+Oportunamente, confira-se ainda:
+AGRAVO INTERNO. RECURSO ESPECIAL. RAZÕES DO RECURSO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INADMISSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. APRECIAÇÃO EQUITATIVA. POSSIBILIDADE. HARMONIA DO JULGADO COM A JURISPRUDÊNCIA DESTA CORTE. VALOR ARBITRADO. REEXAME DE FATOS E PROVAS. INVIABILIDADE.
+(..)
+4. A revisão dos critérios de equidade utilizados pelas instâncias de origem para a fixação dos honorários advocatícios é vedada no âmbito do recurso especial (Súmula 7/STJ), salvo na hipótese de valores desarrazoados ou desproporcionais, o que não se verifica na hipótese dos autos.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1892500/MT, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/03/2021, DJe 06/04/2021)
+Quanto aos honorários recursais, vale pontuar que esta Corte Superior já definiu que, para o estabelecimento da referida verba, deve haver a:
+b) observância do padrão de arbitramento utilizado na origem, ou seja, se os honorários foram fixados na instância a quo em valor monetário, por meio de apreciação equitativa (§ 8º), é interessante que sua majoração observe o mesmo método; se, por outro lado, a verba honorária foi arbitrada na origem com base em percentual sobre o valor da condenação, do proveito econômico ou do valor atualizado da causa, na forma do § 2º, é conveniente que o tribunal mantenha a coerência na majoração utilizando o mesmo parâmetro;
+A propósito, confira-se a ementa do referido julgado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO CONFIGURADA. ACOLHIMENTO DOS EMBARGOS PARA SANAR O VÍCIO. CABIMENTO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. REQUISITOS.
+I - Para fins de arbitramento de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC de 2015, é necessário o preenchimento cumulativo dos seguintes requisitos: Direito Intertemporal: deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado 7 do Plenário do STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC"; o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente; a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso; não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido; não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo; não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba.
+II - A título exemplificativo, podem ser utilizados pelo julgador como critérios de cálculo dos honorários recursais: a) respeito aos limites percentuais estabelecidos nos §§ 2º e 3º do art. 85 do CPC de 2015; b) observância do padrão de arbitramento utilizado na origem, ou seja, se os honorários foram fixados na instância a quo em valor monetário, por meio de apreciação equitativa (§ 8º), é interessante que sua majoração observe o mesmo método; se, por outro lado, a verba honorária foi arbitrada na origem com base em percentual sobre o valor da condenação, do proveito econômico ou do valor atualizado da causa, na forma do § 2º, é interessante que o tribunal mantenha a coerência na majoração utilizando o mesmo parâmetro; c) aferição do valor ou do percentual a ser fixado, em conformidade com os critérios estabelecidos nos incisos I a IV do § 2º do art. 85; d) deve ser observado se o recurso é parcial, ou seja, se impugna apenas um ou alguns capítulos da sentença, pois em relação aos demais haverá trânsito em julgado, nos termos do art. 1.002 do CPC de 2015, de modo que os honorários devem ser arbitrados tendo em vista o proveito econômico que a parte pretendia alcançar com a interposição do recurso parcial; e) o efetivo trabalho do advogado do recorrido.
+III - No caso dos autos, além de o recurso especial ter sido interposto quando ainda estava em vigor o CPC de 1973 e não haver sido fixada verba honorária na origem, por se tratar de decisão interlocutória, a parte ora embargante pretende o arbitramento dos honorários recursais previstos no § 11 do art. 85 do Novo CPC no âmbito do agravo interno, o que, como visto, não é cabível.
+IV - Embargos de declaração acolhidos para, sem atribuição de efeitos infringentes, sanar a omissão no acórdão embargado.
+(EDcl no AgInt no REsp 1573573/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/04/2017, DJe 08/05/2017)
+Nesse contexto, pode-se concluir, mediante a leitura do referido precedente, ser plenamente possível o arbitramento de honorários recursais quando a verba fixada na origem o for de maneira equitativa, não havendo falar, por óbvio, em observância aos limites de 10% a 20%, a que alude o art. 85, § 2º, do CPC/2015.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
