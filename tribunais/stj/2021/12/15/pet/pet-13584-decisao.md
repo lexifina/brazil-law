@@ -1,0 +1,8 @@
+DECISÃO
+PROCESSUAL CIVIL. MANEJO DE RECURSO ORDINÁRIO, QUANDO SERIA CASO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DA INSURGÊNCIA.
+1. Trata-se de Recurso Ordinário interposto por HELENILDO RODRIGUES DE LIMA E OUTRO contra acórdão do egrégio Tribunal de Justiça do Estado de Goiás que, ao dar provimento à Apelação interposta pelo ESTADO DE GOIÁS, julgou improcedente a pretensão contida em ação de conhecimento, que buscava revisão de ato administrativo alusivo a promoção de militar. Note-se:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. POLICIAL MILITAR. PROMOÇÃO POR ATO DE BRAVURA. INDEFERIMENTO. DISCRICIONARIEDADE ADMINISTRATIVA. CONTROLE DE LEGALIDADE. PODER JUDICIÁRIO. VIOLAÇÃO AO PRINCÍPIO DA IGUALDADE NÃO COMPROVADA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO (fls. 353).
+2. Esta Corte Superior tem a diretriz de queo Recurso Ordinário não foi interposto dentro de uma das hipóteses de cabimento previstas no art. 105, II, da CF/1988 ou no art. 1.027, II, do CPC/2015. O recebimento do recurso ordinário como recurso especial não é devido, pois se trata de um erro grosseiro que afasta o princípio da fungibilidade (AgInt no RO 232/BA, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 30.09.2021).
+3. Cuida-se, como se vê, de hipótese de não cognoscibilidade da insurgência veiculada a esta Corte Superior, por ter sido manejada súplicaque não é aadequadapara a situação processual, sendo caso de Recurso Especial, nos termos do art. 105, III, da CF/1988, não de Recurso Ordinário. O recurso não deve ser conhecido.
+4. Mercê do exposto, não se conhece do Recurso Ordinário.
+5. Publique-se. Intimações necessárias.
