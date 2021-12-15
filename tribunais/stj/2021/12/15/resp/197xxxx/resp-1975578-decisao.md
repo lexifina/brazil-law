@@ -1,0 +1,47 @@
+DECISÃO
+NEDIO CHIEZA (NEDIO) requereucumprimentoindividual de sentença proferida em ação civil pública, ajuizada pelo INSTITUTO BRASILEIRO DE DEFESA DO CONSUMIDOR (IDEC) contra o BANCO DO BRASIL S.A. (BANCO DO BRASIL) visando ao pagamento de diferenças sobre o saldo da caderneta de poupança oriundas dos expurgos inflacionários do denominado Plano Verão (janeiro/89).
+O Juízo de 1º Grau desacolheu os pedidos requeridos na exceção de pré-executividade.
+Contra essa decisão, o BANCO DO BRASIL interpôs agravo de instrumento que não foi providopelo TJRSem acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CUMPRIMENTO DE SENTENÇA.EXPURGOS INFLACIONÁRIOS. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. ADMISSIBILIDADE RECURSAL.SOBRESTAMENTO. ABRANGÊNCIA TERRITORIAL DA SENTENÇA COLETIVA. ILEGITIMIDADE ATIVA.LIQUIDAÇÃO DE SENTENÇA.
+ADMISSIBILIDADE. Tratando-se de recurso contra decisão quer resolveu exceção de pré-executividade, a matéria devolvida ao conhecimento do Órgão recursal fica adstrita às questões de ordem pública.
+Igualmente, não se conhece do recurso quanto ao protesto interruptivo de prescrição, visto que a demanda foi proposta em 24/10/2014, antes do marco prescricional, que ocorreu em 27/10/2014.
+EXCEÇÃO DE PRÉ-EXECUTIVIDADE. A exceção de pré- executividade é instituto de defesa processual largamente aceito na jurisprudência, e não se limita ao prazo da impugnação ao cumprimento de sentença.
+SOBRESTAMENTO. O Ato nº 021/2016-P editado pela Presidência do Tribunal de Justiça do RS orientou no sentido de reativação dos processos sobrestados em decorrência das controvérsias destacadas no Recurso Especial nº 1.391.198/RS.
+A orientação repassada pela Corte Superior, quando da afetação do Tema 948 restringe-se à Recursos Especiais e Agravos em Recursos Especiais.
+Não há determinação de suspensão em relação aos recursos de apelação cível e/ou de agravo de instrumento.
+IMPUGNAÇÃO AO BENEFÍCIO DE AJG. Tendo o benefício da assistência judiciária gratuita sido anteriormente deferido, a sua revogação depende de demonstração pela parte Agravante/Impugnante de ocorrência de fato superveniente capaz de alterar a situação fática que ensejou o deferimento do beneplácito. Ônus que a parte não se desincumbiu.
+LEGITIMIDADE E COMPETÊNCIA TERRITORIAL. A sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva nº 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal.
+Reconhece-se ao beneficiário o direito de ajuizar ocumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal.
+Os poupadores ou seus sucessores detêm legitimidade ativa, independentemente de fazerem parte ou não dos quadros associativos do IDEC, para o cumprimento individual da sentença coletiva proferida na ação civil pública nº 1998.01.1.016798- 9 pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF.
+No caso, em razão do entendimento consolidado pelo Superior Tribunal de Justiça, no julgamento do REsp nº 1.391.198/RS, em respeito ao instituto da coisa julgada, inaplicáveis as decisões do RExt nº 573.323/SC e RExt nº 885.856/SP.
+A existência de coisa julgada material afasta o sobrestamento do feito comandado no recurso extraordinário afetado sob o Tema 1075, conforme esclarecido pelo eminente Ministro Relator nos Embargos de Declaração decididos no bojo daquele recurso.
+LIQUIDAÇÃO. Desnecessária a prévia liquidação de sentença se o pedido de cumprimento atende a regra do art. 475-B, do CPC/1973, atual art. 509, § 2º, do CPC/2015.
+AGRAVO DE INSTRUMENTO PARCIALMENTE CONHECIDO E, NA EXTENSÃO, DESPROVIDO(e-STJ, fls. 231/128).
+Irresignado, o BANCO DO BRASIL interpôs recurso especial com fundamento no art. 105, III, a, da CF/88, alegando violação dos arts. 503 e509, II, ambos do NCPC, 884 do CC/02,e 2º-A da Lei nº 9.494/97, sustentando, em síntese, (1)ausência de condição de associado para postular a execução de sentença proferida em ação civil pública, bem como a necessidade de suspensão do processo;(2)necessidade de liquidação de sentença proferida em ação civil pública; e(3)ofensa a coisa julgada e enriquecimentosem causa.
+O recurso foi admitido na origem (e-STJ, fls. 213/222).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1)Da ilegitimidade ativa
+O BANCO DO BRASIL afirmou a ilegitimidade ativa dorecorridopara executar o título em questão, tendo em vista a ausência de comprovação da condição de associados ao IDEC, à época da propositura da ação coletiva.
+A Segunda Seção deste Superior Tribunal de Justiça consolidou entendimento, nos moldes dos Recursos Repetitivos, Temas nºs 723 e 724, no sentido de que a sentença proferida na Ação Civil Pública n.º 1998.01.1.016798-9 se aplica indistintamente a todos os correntistas do Banco do Brasil detentores de caderneta de poupança com vencimento em janeiro de 1989. Confira-se a ementa do julgado:
+AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. SENTENÇA PROFERIDA PELO JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA/DF NA AÇÃO CIVIL COLETIVA N. 1998.01.1.016798-9 (IDEC X BANCO DO BRASIL). EXPURGOS INFLACIONÁRIOS OCORRIDOS EMJANEIRO DE 1989 (PLANO VERÃO). EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE E ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA.OBSERVÂNCIA À COISA JULGADA.
+1. Para fins do art. 543-C do Código de Processo Civil: a) a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n. 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal; b) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do Idec, de ajuizarem o cumprimento individual da sentença coletiva proferida na Ação Civil Pública n. 1998.01.1.016798- 9, pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF.
+2. Recurso especial não provido.
+(REsp 1.391.198/RS, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 2/9/2014)
+Nesse ponto, portanto, não merece reparos o acórdão recorrido.
+(2)Da necessidade de liquidação da sentença
+A Segunda Seção dessa Corte, no julgamento do EREsp n. 1.705.018/DF,firmou entendimento no sentido de queo cumprimento da sentença genérica proferida em ação civil públicaque condenaao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comumpara a definição da titularidade do crédito e do valor devido, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado.
+Referido julgado negou provimento aos embargos de divergência mantendo o acórdão proferida pela Quarta Turma desta Corte, no julgamento do REsp nº 1.705.018/DF, da relatoria do Ministro LUIS FELIPE SALOMÃO, assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SENTENÇA. PRÉVIA LIQUIDAÇÃO. NECESSIDADE. RECURSO NÃO PROVIDO.
+1. De acordo com o entendimento desta Corte, é necessária a liquidação da sentença genérica proferida em ação civil pública para a definição da titularidade do crédito e do valor devido. Precedentes.
+2. Agravo interno a que se nega provimento.
+Assim sendo, merece reforma o acórdão recorrido que entendeu não ser necessária a prévia liquidação do julgado.
+(3) Coisa julgada e enriquecimento sem causa
+Tendo em vista o reconhecimento da necessidade de prévia liquidação da sentença coletiva, a análise das referidasquestões está prejudica.
+Nessas condições, DOUPARCIAL PROVIMENTO ao recurso especiala fim de determinara prévia liquidação da sentença.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS.LEGITIMIDADE ATIVA. ACÓRDÃO EM CONSONÂNCIA COM ENTENDIMENTO FIRMADO NO JULGAMENTO DE RECURSO REPETITIVO.LIQUIDAÇÃO DA SENTENÇA. NECESSIDADE.RECURSO ESPECIALPARCIALMENTE PROVIDO.
