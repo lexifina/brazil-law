@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado, em benefício de LUCAS GABRIEL DA SILVA,contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2096495-43.2021.8.26.0000).
+Consta dos autos que opacientefoipresoem flagrante e denunciadopela suposta pela prática dos delitos tipificados nos arts. 33da Lei n.11.343/06 e 16, § 1º, IV, da Lei n. 10.826/03 (tráfico ilícito de drogas e posse ilegal de arma de fogo). A prisão em flagrantefoi convertida em preventiva.
+Inconformada, a defesa impetrou préviowrit, o qual foi denegado nos termos da seguinte ementa:
+"Habeas Corpus - Paciente denunciado como incurso no artigo 33, caput, da Lei 11.343/06 c.c artigo 16, §1º, IV, da Lei 10.826/93.
+Responsabilidade penal do paciente deve ser decidida no curso da ação penal - Matéria de prova - Estreita via do "habeas corpus"que não comporta dilação probatória - Alegação não conhecida.
+Nulidade do flagrante - Inocorrência - Tráfico de drogas é crime permanente, sendo possível o ingresso forçado no domicílio.
+Liberdade provisória - DECISÃO FUNDAMENTADA - Presentes os requisitos previstos no artigo 312, do Código de Processo Penal - Desde que a permanência do réu em liberdade possa dar motivo a novos crimes ou cause repercussão danosa no meio social, cabe ao Juiz manter a custódia cautelar como garantia da ordem pública - Indícios de autoria e prova da materialidade.
+Primariedade, residência fixa e trabalho lícito são circunstâncias que não impedem a medida constritiva.
+Inexistência de constrangimento ilegal.
+Impetração parcialmente conhecida e, na parte conhecida, ordem denegada."(fl. 35)
+Em suas razões, oimpetrante sustenta a ilicitude da prova obtida através dabusca e apreensão realizada no domicílio dopaciente, sem mandado judicial ou indício daocorrência de flagrante delito.
+Afirmaque não havia fundada razão para a entrada dos policias na residência, sendo oúnicomotivo a denúncia anônima da prática dodelito de roubo.
+Aduz ausência de requisitos para a prisão preventiva, segundo o art. 312 do Código de Processo Penal.
+Requer, pois, o trancamento da ação penal, pois baseada em provas obtidas por meio ilícito. Subsidiariamente, pugna pela aplicação de medidas cautelares diversas da prisão.
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, oMinistério Público Federal opinou pela denegação da ordem, em parecer que recebeu a seguinte ementa:
+"PENAL - PROCESSUAL PENAL - HABEAS CORPUS - REVOGAÇÃO DA PRISÃO PREVENTIVA - TRÁFICO DE DROGAS - PORTE ILEGAL DE ARMAS. PRISÃO EM FLAGRANTE. CONVERSÃO EM PREVENTIVA A PEDIDO DO MP/SP. FUNDAMENTAÇÃO IDÔNEA. RESGUARDAR A ORDEM PÚBLICA. REQUISITOS DO ART. 312 DO CPP.MEDIDAS CAUTELARES DIVERSAS - INVIABILIDADE.PRECEDENTES JURISPRUDENCIAIS. INVASÃO DOMICILIAR. NÃO RECONHECIMENTO. ALEGAÇÃO DESACOMPANHADA DE ELEMENTOS HÁBEIS PARA SUA DEMONSTRAÇÃO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL - GARANTIA DA ORDEM PÚBLICA.
+PARECER PELA DENEGAÇÃO DA ORDEM." (fl. 84)
+É o relatório.
+Decido.
+Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+A primeira controvérsia diz respeito à legalidade da prisão e apreensão de substâncias entorpecentes.
+Mediante consulta ao andamento do Processo n.1500127-26.2021.8.26.0583, nositedo Tribunala quo,constata-se que policiais militares, em diligências acerca de um crime de roubo anterior, abordaram doisindivíduos em praça pública, o paciente e outro menor. Na oportunidade, foram questionados pela Senhora Jacimeire, genitora de Lucas, que após ser informada dasuspeita de ambos no cometimento daquele delito, franqueou o acesso dos policiais à sua residência, onde foram encontrados drogas, armas, munições, além das vestes e do carro utilizadono cometimento do roubo, que prontamente foi confessado pelo suspeito.
+Nesse contexto, para se acolher a tese da defesa e concluir pela nulidade e trancamento da ação penal,seria necessário o reexame de todo o conjunto probatório, providência vedada em habeas corpus, procedimento de cognição sumária e rito célere.Ilustrativamente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS.CRIME DE ROUBO MAJORADO. ALEGAÇÃO DE NULIDADE DAS PROVAS OBTIDAS MEDIANTE VIOLAÇÃO DE DOMICÍLIO. INOCORRÊNCIA. ENTRADA DOS POLICIAIS FRANQUEADA PELO MORADOR.CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS.MODIFICAÇÃO QUE INCIDE EM REVISÃO FÁTICO-PROBATÓRIA. DOSIMETRIA DA PENA. POSSIBILIDADE DE APLICAÇÃO DAS DUAS CAUSAS DE AUMENTO, MEDIANTE FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO.
+1. O Superior Tribunal de Justiça já decidiu que, apesar de o ingresso em domicílio sem mandado judicial exigir fundadas razões de crime em desenvolvimento, não há ilicitude se "o próprio paciente franqueou a entrada dos agentes públicos em sua residência" (HC n. 440.488/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe de 16/8/2018).
+2. Na hipótese, as instâncias ordinárias foram categóricas ao afirmarem que o morador autorizou a diligência policial em sua residência, o que afasta a suposta nulidade por invasão domiciliar. A modificação dessa premissa, como pretende a defesa, implica no revolvimento da matéria probatória, o que, como consabido, é vedado na via eleita.
+3. Esta Corte Superior considera legítima a aplicação cumulada das majorantes relativas ao concurso de pessoas e ao emprego de arma de fogo, no crime de roubo, quando as circunstâncias do caso concreto demandarem uma sanção mais rigorosa, especialmente diante do modus operandi do delito.
+4. Inexiste ilegalidade no cálculo da terceira fase da pena quando o Juízo sentenciante apresenta motivação concreta para o cúmulo de duas causas de aumento, no crime de roubo, referentes ao concurso de pessoas (na fração de 1/3) e ao emprego de arma de fogo (na fração de 2/3), com referência a peculiaridades do caso em comento, notadamente o roubo praticado por 3 agentes e no período noturno, demonstrando que o modus operandi do delito refletiu especial gravidade, o que encontra guarida na jurisprudência desta Corte.
+5. Agravo regimental improvido.
+(AgRg no HC 666.284/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 08/06/2021).
+Noutro enfoque,este Tribunal Superior firmou posicionamento segundo o qual, considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição e manutenção quando evidenciado, de forma fundamentada em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP.
+Convém, ainda, ressaltar que, considerando os princípios da presunção da inocência e a excepcionalidade da prisão antecipada, a custódia cautelar somente deve persistir em casos em que não for possível a aplicação de medida cautelar diversa, de que cuida o art. 319 do CPP.
+Na hipótese dos autos,constata-se que há fundamentação concreta para a manutenção da segregação cautelar, pois além dos indícios razoáveis de autoria e materialidade delitiva, o envolvimento de adolescente na empreitada delitiva por parte do réu justifica a sua custódia, para garantia da ordem pública.
+A propósito, vejam-se os seguintes precedentes:
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. SUBSTITUIÇÃO POR CAUTELARES MENOS GRAVOSAS. SITUAÇÃO NÃO RECOMENDADA. TRÁFICO NO INTERIOR DA RESIDÊNCIA, COM O ENVOLVIMENTO DE ADOLESCENTE. ORDEM DENEGADA.
+1. Não obstante a pequena quantidade de droga apreendida, a prática do delito com envolvimento de adolescente constitui motivação idônea à prisão preventiva para a garantia da ordem pública.
+2. O depósito da droga na residência do paciente, que se valia de adolescente para efetuar a venda externa, não recomenda a prisão domiciliar com monitoração eletrônica, por se revelar insuficiente à interrupção da atividade criminosa.
+3. A existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita ou residência fixa, por si só, não obsta a custódia antecipada.
+4. A desproporcionalidade da pena ou do regime prisional eventualmente impostos na sentença não pode ser aferida antes da dosimetria da pena.
+5. Ordem denegada.
+(HC 648.803/SC, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, DJe 31/05/2021).
+Ademais, o entendimento desta Corte Superior de Justiça é no sentido de ser inaplicávelmedida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para manutenção da ordem pública. Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS E ASSOCIAÇÃO AO TRÁFICO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE DO AGENTE MODUS OPERANDI DO DELITO. GRANDE QUANTIDADE DE DROGAS. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+4. Consoante pacífico entendimento deste Superior Tribunal, a quantidade e a natureza, bem como a diversidade dos entorpecentes apreendidos são fundamentos aptos a justificar o decreto de prisão preventiva.
+5. As condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, entre outras, não têm o condão de, por si sós, garantirem ao recorrente a revogação da prisão preventiva, se há, nos autos, elementos hábeis a recomendar a manutenção de sua custódia cautelar, como é o caso desta hipótese.
+6. É "indevida a aplicação de medidas cautelares diversas da prisão quando esta encontra-se justificada na gravidade concreta do delito e na periculosidade social do réu, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública" (HC 315.151/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 28/4/2015, DJe de 25/5/2015.
+7. Habeas corpus não conhecido.
+(HC 293.355/GO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 19/05/2017).
+HABEAS CORPUS. TRÁFICO DE DROGAS. ILEGALIDADE. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. AUSÊNCIA DE PRÉVIA OITIVA DO INDICIADO. NULIDADE DA PROVA. LEITURA DE CONVERSAS EM APLICATIVO NO CELULAR DO PACIENTE. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. SUPRESSÃO DE INSTÂNCIA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO SUFICIENTE. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. ORDEM DENEGADA.
+1. As questões atinentes à ilegalidade da conversão da prisão em flagrante em custódia preventiva, diante da ausência de prévia oitiva do acusado, à nulidade das provas obtidas pela leitura de conversas em aplicativo instalado no celular do paciente e ao excesso de prazo para o encerramento do feito não foram examinadas no acórdão recorrido, de modo que sua apreciação diretamente por esta Corte Superior implicaria indevida supressão de instância.
+2. A jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a determinação de segregar cautelarmente o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP.
+3. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a garantia da ordem pública, evidenciada pela gravidade concreta da conduta delitiva, ao ressaltar a grande quantidade de entorpecentes apreendidos - cerca de 3 kg de maconha -, a denotar o envolvimento do réu com a prática habitual de delitos de tal natureza.
+4. Por idênticas razões, as medidas cautelares diversas da prisão não constituem instrumentos eficazes para obstar a reiteração da conduta delitiva.
+5. Ordem denegada.
+(HC 383.625/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 25/05/2017).
+Ante o exposto, não conheço da presente impetração.
+Publique-se.
+Intimem-se.
