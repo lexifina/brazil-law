@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EDUARDO AMARO DOS SANTOS contra decisão de minha lavra, na qual não conheci ohabeas corpus, contudo, concedi a ordem, de ofício, para aplicar a redutora do tráfico e redimensionar a pena (e-STJ fls. 371/385).
+Aduz o embargante que a decisãoembargada padece de omissão, pois não obstante tenha reconhecido o tráfico privilegiado, não afastou o caráter hediondo do crime.
+Pugna, assim, pelo acolhimento dos presentes embargospara queseja suprida a omissão.
+É o relatório. Decido.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisium embargado.
+Na hipótese, os embargos merecem prosperar, tendo em vista à omissão em relação ao afastamento do caráter hediondo do delito.
+Passo, então a sanar o alegado vício.
+A Terceira Seção desta Corte, em 23/11/2016, ao julgar a Petição n. 11.796/DF, cancelou o enunciado n. 512 da Súmula deste Superior Tribunal de Justiça, em acórdão assim sintetizado:
+PENAL E PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS NA SUA FORMA PRIVILEGIADA. ART. 33, § 4º, DA LEI Nº 11.343/2006. CRIME NÃO EQUIPARADO A HEDIONDO. ENTENDIMENTO RECENTE DO PLENO DO SUPREMO TRIBUNAL FEDERAL, NO JULGAMENTO DO HC 118.533/MS. REVISÃO DO TEMA ANALISADO PELA TERCEIRA SEÇÃO SOB O RITO DOS REPETITIVOS. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA Nº 1.329.088/RS. CANCELAMENTO DO ENUNCIADO Nº 512 DA SÚMULA DO STJ.
+1. O Supremo Tribunal Federal, no recente julgamento do HC 118.533/MS, firmou entendimento de que apenas as modalidades de tráfico ilícito de drogas definidas no art. 33, caput e § 1º, da Lei nº 11.343/2006 seriam equiparadas aos crimes hediondos, enquanto referido delito na modalidade privilegiada apresentaria "contornos mais benignos, menos gravosos, notadamente porque são relevados o envolvimento ocasional do agente com o delito, a não reincidência, a ausência de maus antecedentes e a inexistência de vínculo com organização criminosa." (Rel. Min. Cármen Lúcia, Tribunal Pleno, julgado em 23/06/2016).
+2. É sabido que os julgamentos proferidos pelo Excelso Pretório em Habeas Corpus, ainda que por seu Órgão Pleno, não têm efeito vinculante nem eficácia erga omnes. No entanto, a fim de observar os princípios da segurança jurídica, da proteção da confiança e da isonomia, bem como de evitar a prolação de decisões contraditórias nas instâncias ordinárias e também no âmbito deste Tribunal Superior de Justiça, é necessária a revisão do tema analisado por este Sodalício sob o rito dos recursos repetitivos (Recurso Especial Representativo da Controvérsia nº 1.329.088/RS - Tema 600).
+3. Acolhimento da tese segundo a qual o tráfico ilícito de drogas na sua forma privilegiada (art. 33, § 4º, da Lei n. 11.343/2006) não é crime equiparado a hediondo, com o consequente cancelamento do enunciado 512 da Súmula deste Superior Tribunal de Justiça.
+Ao final, ficou firmada a seguinte tese:
+O TRÁFICO ILÍCITO DE DROGAS NA SUA FORMA PRIVILEGIADA (ART. 33, § 4º, DA LEI N. 11.343/2006) NÃO É CRIME EQUIPARADO A HEDIONDO.
+Dessarte, considerando ser pacífica a jurisprudência deste Superior Tribunal de Justiça em afastar a natureza hedionda do tráfico privilegiado, impõe-se o afastamento do caráter hediondo do delito, para todos os efeitos.
+A propósito: HC 372.492/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 1º/12/2016, DJe 13/12/2016; e HC 414.078/SP, Rel Ministro RIBEIRO DANTAS, Quinta Turma, DJe 1º/9/2017.
+Ante o exposto, acolho os embargos de declaração paraafastar o caráter hediondo do delito.
+Intimem-se.
