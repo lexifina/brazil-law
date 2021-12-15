@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por Jorge de Matos Cardozo Junior contra a decisão que inadmitiu o recurso especial com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, Jorge de Matos Cardozo Junior,policial militar, inscrito no concurso para ingresso no Curso de Formação de Sargentos da Polícia Militar do Estado do Rio de Janeiro (CFS/2006), ajuizou ação ordinária contra o Estado do Rio de Janeiro, objetivandoa anulação dequestões das provas de Instrução Policial Militar e Português que integraram a prova objetiva do referido certame, com a recontagem dos pontos por ele obtidos, e em consequência, seu prosseguimento no certame.
+Deu-se à causa o valor de R$ 5.000,00 (cinco mil reais) em março de 2015.
+A sentença acolheua prejudicial de prescrição e julgou o feito extinto, na forma do inciso II do art. 487 do CPC/2015.
+Interposta apelação, o Tribunal de Justiça do Estado do Rio de Janeiro negou provimento ao recurso, nos termos da ementa a seguir transcrita (fl. 289):
+APELAÇÃO CIVIL. ADMINISTRATIVO. AÇÃODE OBRIGAÇÃO DE FAZER C/CANULATÓRIADE ATO ADMINISTRATIVODE PRETERIÇÃO DO AUTOR DAS ETAPAS DO CURSO DE FORMAÇÃO DE SARGENTOS DA PMERJ. SENTENÇA DE IMPROCEDÊNCIAEM QUE HOUVE RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO AUTORAL DE ACORDO COM O ART. 1º DO DEC. 20.910/32. SENTENÇA QUE NÃO MERECE REFORMA. RECURSOAO QUALSE NEGA PROVIMENTO.
+Contra a decisão cuja ementa encontra-se acima transcrita, Jorge de Matos Cardozo Junior interpôs o presente recurso especial, apontandoviolação doart. 1º do Decreto 20.910/32, aduzindo para tanto a inocorrênciada prescrição.
+Contrarrazões apresentadas pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial,foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O acórdão resolveu a questão nos seguintes termos (fl. 290):
+(..)
+Compulsando detalhadamente os autos, constata-se que o presente recurso não merece prosperar, visto que se operou a prescrição prevista no artigo 1º do Decreto nº 20.910/1932, in verbis:
+"Art. 1º As dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem."
+Desta forma, impõe-se o reconhecimento da prescrição quinquenal quanto à pretensão autoral, pois o termo inicial do prazo prescricional foi no momento de publicação do Boletim PM nº 001/2008, pois foi quando se tornou pública a relação dos candidatos que tiveram notas alteradas em razão da anulação de questões do concurso. Entretanto, o apelante, que se sentiu prejudicado, somente ingressou com ação em 31/03/2015 para pleitear pretensão a que teria direito, momento em que a prescrição já estava inegavelmente consolidada.
+Assim, não assiste razão ao apelante quanto a sua alegação de que a publicação do Boletim PM nº 031/2014 teria o condão de reabrir o prazo prescricional de sua pretensão, uma vez que tal ato não possui conteúdo decisório e somente foi editado para esclarecer os efeitos de decisões judiciais relativas ao concurso interno para Curso de Formação de Sargentos da PMERJ (CFS/2006).
+Além do mais, não há que se falar em ampliação das decisões judiciais elencadas pelo apelante, as quais possuem efeitos inter partes, ao presente processo, visto que elas foram provenientes de ações individuais, nas quais o autor não faz parte.
+(..)
+Da análise dos autos, verifica-se que a interpretação de dispositivos legais que exija o reexame dos elementos fático-probatórios não é viável em sede de recurso especial, em vista do óbice contido no enunciado n. 7 (a pretensão de simples reexame de prova não enseja recurso especial) da Súmula do STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Aplica-se o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), pelo que, majoro o valor relativo aos honorários advocatícios fixados na origem em um ponto percentual, respeitados os limites legais, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso.
+Publique-se. Intimem-se.
