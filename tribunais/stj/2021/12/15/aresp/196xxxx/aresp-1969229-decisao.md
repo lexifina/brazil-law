@@ -1,0 +1,32 @@
+DECISÃO
+MAURITI CARDOSO DUARTE (MAURITI) interpôs agravo de instrumento contra decisão que nos autos de cumprimento de sentença homologou cálculo e determinou a liberação de valores ao CONDOMÍNIO EDIFÍCIO CARAVELAS (CONDOMÍNIO).
+Em decisão monocrática foi dado provimento ao agravo de instrumento (e-STJ, fls. 465/470).
+CONDOMÍNIO interpôs agravo interno o qual foi apreciado nos termos do acórdão assim ementado:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO.CONDOMÍNIO. CUMPRIMENTO DE SENTENÇA.
+No caso em comento, o condomínio agravante ajuizou duas ações a fim de cobrar a dívida condominial do réu, a primeira relativa ao período de 07/1994 a 09/2007, e a segunda, de 10/2007 a 12/2014.
+De rigor a determinação da remessa dos autos à contadoria para a correção do cálculo, uma vez que o valor pretendido pelo autor excedeu o limite da dívida, devendo esta ser apurada na data da arrematação do imóvel, qual seja, 12/2014.
+Não há que se falar em coisa julgada arguida pelo recorrente, haja vista a indispensabilidade de expedição de alvarás para o pagamento da dívida pretendida pelo autor, bem como para a restituição de valores apurados em excesso, devido à extrapolação da diferença levantada pelo recorrente.
+Manutenção da decisão monocrática hostilizada.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME(e-STJ, fl. 522).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 563/568).
+CONDOMÍNIO interpôs recurso especial com base no art. 105, III,a, da CF, onde alegou violação dos arts.5º, inciso XXXV e 93, inciso IX, da CF,489, III, IV e V, 503, 505 e 507 do NCPC, pelos fundamentos assim sintetizados (1) falta de fundamentação no acórdão recorrido e sua nulidade;(2) ofensa à coisa julgada; (3) incompetência da Câmara; (4)os cálculos apresentados no acórdão recorrido estão errados.
+Foram ofertadas contrarrazões (e_ STJ, fls. 604/614).
+O Tribunal recorrido inadmitiu o recurso nobre por (1) ser incabível recurso especial fundado em ofensa a dispositivo constitucional; (2) não se verificar ofensa ao art. 489 do NCPC; (3) se aplicar a Súmula nº 7 do STJ.
+CONDOMÍNIO ingressou com agravo em recurso especial reiterando os termos do recurso especial e sustentando que (1) o recurso não objetiva a reapreciação de prova; (2) foi demonstrada a ofensa ao art. 489 do NCPC e dos demais artigos mencionados.
+Foi apresentada contraminuta (e-STJ, fls. 673/693).
+É o relatório.
+DECIDO
+A irresignação não comporta conhecimento.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Observa-se que a presente petição recursal não refutou de forma arrazoada todos os fundamentos da decisão agravada, mais especificamente o de ser descabida a interposição de recurso especial sob alegação de ofensa a dispositivo constitucional e aplicação da Súmula nº 7 do STJ,limitando-se quanto a esta a afirmar genericamentequeo recurso não objetiva a reapreciação de prova (e-STJ, fl. 647).
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso.
+O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida nos arts. 932, III, do NCPC e 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de que o recurso nobre atendeu aos requisitos de admissibilidade.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. INTEGRATIVO REJEITADO. 1. O presente recurso foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. O acórdão embargado não foi omisso e, com clareza, concluiu fundamentadamente que não se mostrou viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugnou todos os fundamentos da respectiva inadmissibilidade (descabimento de análise de afronta a normas constitucionais). (..) (EDcl no AgInt no AREsp 1530392 - RS, desta relatoria, j. 15/04/2019, DJe 22/04/2019)
+Nessas condições, NÃO CONHEÇO do agravo em recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, pode rá acarretar condenação das penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do NCPC .
+Publique-se. Intimem-se.
+EMENTA
+CUMPRIMENTO DE SENTENÇA AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
