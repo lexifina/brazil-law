@@ -1,0 +1,25 @@
+DECISÃO
+LEVI CABRAL SIMÕES (LEVI) interpôs agravo de instrumento contra decisão que nos autos de cumprimento de sentença manteve a penhora do bem imóvel.
+O Tribunal Estadual negou provimento ao agravo de instrumento em acórdão da relatoria do Des. LUIZ ANTONIO COSTA assim ementado:
+Agravo de Instrumento Cumprimento de sentença sobre alienação judicial Imóvel em questão objeto de penhora em diversos outros processos Hipótese de impenhorabilidade já afastada em outros autos Recurso improvido(e-STJ, fl. 490).
+LEVI interpôs recuso especial com base no art. 105, III,a, da CF, onde alegou violação do art. 1º da Lei 8009/1990, sob o fundamento de que o bem imóvel é bem de família e, portanto, impenhorável.
+Sem contrarrazões.
+O Tribunal recorrido inadmitiu o recurso nobre por (1) não ter sido demonstrada a infringência do preceito legal arrolado; (2) se aplicar a Súmula nº 7 do STJ.
+LEVI ingressou com agravo em recurso especial reiterando os termos do recurso especial afirmando a necessidade de reforma da decisão agravada.
+Sem contraminuta.
+É o relatório.
+DECIDO
+A irresignação não comporta conhecimento.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da leitura das razões recursais, observa-seque o inconformismo não se dirigiu de forma específica contra os fundamentos da decisão agravada, pois a agravante não infirmou devidamente os seus esteios, deixando de refutar, de forma arrazoada, a incidência daSúmulanº 7 do STJ,limitando-se a reiterar a fundamentação expendida no recurso especial.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso.
+O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida nos arts. 932, III, do NCPC e 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de que o recurso nobre atendeu aos requisitos de admissibilidade.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. INTEGRATIVO REJEITADO. 1. O presente recurso foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. O acórdão embargado não foi omisso e, com clareza, concluiu fundamentadamente que não se mostrou viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugnou todos os fundamentos da respectiva inadmissibilidade (descabimento de análise de afronta a normas constitucionais). (..) (EDcl no AgInt no AREsp 1530392 - RS, desta relatoria, j. 15/04/2019, DJe 22/04/2019)
+Nessas condições, NÃO CONHEÇO do agravo em recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, pode rá acarretar condenação das penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do NCPC .
+Publique-se. Intimem-se.
+EMENTA
+CUMPRIMENTO DE SENTENÇA AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
