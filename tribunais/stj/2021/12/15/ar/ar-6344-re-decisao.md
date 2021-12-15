@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por MARIA MAGARETH BRASIL PETRY,com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 511):
+AÇÃO RESCISÓRIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA.TELEFONIA FIXA. SUBSCRIÇÃO DE AÇÕES. LIQUIDAÇÃO DE SENTENÇA. BALANCETE MENSAL. CÁLCULO. COISA JULGADA.VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. O ponto central da controvérsia reside em saber se o acórdão rescindendo, proferido na fase de cumprimento de sentença, ao definir o balancete mensal como critério de apuração do valor patrimonial da ação - VPA - teria ofendido a coisa julgada operada na liquidação de sentença.
+2. Não tendo a sentença que transitou em julgado definido os detalhes da liquidação, mormente o critério jurídico para aferição do VPA, não há como se cogitar de ofensa à coisa julgada pela decisão de liquidação.
+3. Pedido rescisório julgado improcedente.
+Sustenta a recorrente a repercussão geral da matéria tratada, aduzindoque o aresto impugnado violaria o art. 5º, incisos XXXVI, LIV e LV, da Constituição Federal.
+Para tanto, afirma ser imperiosa a procedência da presente ação rescisória, na medida em que "caso mantida a decisão do STJ, provoca-se modificação dos critérios determinados em decisão abarcada pelo trânsito em julgado, relativizando princípio fundamental da Carta Magna" (e-STJ fl. 593).
+Adverte que "o acórdão recorrido está, por vias avessas, alterando a decisão que homologou os cálculos de liquidação, devidamente transitada em julgado, conforme determinou o tribunal estadual, o que não se mostra juridicamente possível" (e-STJ fl. 594).
+Argumenta, nesse viés, que "como não recorreu do acórdão que fixou o valor patrimonial das ações da data da assinatura do contrato e nem da decisão final que homologação o cálculo na liquidação declarando a mesma devedora da quantia de R$ 583.526,38, em 27.07.2007, estas transitaram em julgado, não havendo qualquer matéria a ser discutida, ainda que exista decisão em sentido contrário no STJ" (e-STJ fl. 597).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Contrarrazõesàs e-STJ fls. 608/620.
+É o relatório.
+Pacificou-se no Supremo Tribunal Federal o entendimento de que a apontada afronta aos princípios do contraditório, da ampla defesa edo devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nessa esteira é o Tema 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE 748.371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+No mesmo vértice:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA. OFENSA CONSTITUCIONAL REFLEXA. (..) 3. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 4. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(RE 1276856 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/09/2020, PROCESSO ELETRÔNICO DJe-234 DIVULG 22-09-2020 PUBLIC 23-09-2020)
+Na espécie, a suposta ofensa à coisa julgada e ao devido processo legal depende do exame do art. 966 do CPC/2015, bem como do entendimento jurisprudencial acerca da matéria infraconstitucional discutida, em especial, a referente àorientação sedimentada no enunciado 371 da Súmula do STJ,razão pela qual incide o Tema 660/STF.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AO DEVIDO PROCESSO LEGAL E ÀCOISA JULGADA. TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
