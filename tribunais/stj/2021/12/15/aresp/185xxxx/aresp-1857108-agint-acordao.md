@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por ADRIANA NOVÔA BRAMBILA BRESSAN contra a decisão mediante a qual neguei provimento a seu agravo em recurso especial.
+O acórdão recorrido tem a seguinte ementa:
+INVENTÁRIO. Decisão que declara incidentalmente a nulidade de doações feitas pela autora da herança a dois de seus três filhos, por inobservância da forma prescrita em lei. Desacerto. Preliminar de intempestividade repelida. Doações celebradas há quase três décadas. Abertura da sucessão sob a vigência do CC/1916, que deve ser aplicado ao caso concreto. Doações puras (ou simples) que não podem ser convertidas em promessa de doação, conforme entendimento do STJ. Evidente, à vista das circunstâncias do caso concreto, que a autora da herança teve a intenção de partilhar em vida os bens que seriam deixados aos três filhos. Análise dos efeitos restituitórios patrimoniais das doações supostamente nulas.
+Na lição da melhor doutrina, não se estende a imprescritibilidade das ações declaratórias de nulidade a eventual pretensão indenizatória ou restituitória dela decorrente. O genitor dos agravados (filho pré-morto da autora da herança) anuiu às três doações feitas pela genitora em favor de seus dois irmãos.
+Herdeiro pré-morto supostamente preterido tomou conhecimento dos negócios jurídicos desde a data de sua celebração, mas contra elas nunca se insurgiu, o que confere verossimilhança à alegação de que também figurou como donatário em contrato de doação de imóvel diverso. Prazo prescricional da pretensão restituitória dos bens doados em vida pela autora da herança no ano de 1.995.
+Teoria da actio nata. Aplicação do prazo ordinário, com adoção da regra de transição estampada no art. 2.028 do CC/2002. Efeitos restituitórios do negócio nulo fulminados pela prescrição desde janeiro de 2.013. Ainda que se aplique o prazo vintenário da data da conclusão dos negócios, também estaria prescrita a pretensão restituitória. Não se cogita de doação inoficiosa, cujos efeitos também se encontram fulminados pela prescrição. Contratos de doação (justo título) acompanhados de transferência da posse celebrados há mais de duas décadas, a evidenciar que os donatários também já adquiriram a propriedade dos imóveis doados pela prescrição aquisitiva. Inviável declarar incidentalmente a nulidade de doações após o decurso de 17 (dezessete) anos da data da abertura da sucessão e 24 (vinte e quatro) anos da data dos negócios. Sob qualquer ângulo que se analise a matéria, encontra-se consumada a prescrição dos efeitos restituitórios do negócio nulo. Recurso provido.
+A agravante sustenta que a questão dos autos é eminentemente jurídica e não depende da revisão de fatos. Entende não ser aplicável ao caso a Súmula 7/STJ. Argumenta que o Tribunal de origem presumiu indevidamente a existência de doação.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INVENTÁRIO. NULIDADE DE DOAÇÕES. CONHECIMENTO DOS NEGÓCIOS PELO HERDEIRO PRESUMIDAMENTE PRETERIDO. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI(Relatora): O agravo não prospera.
+Com efeito, o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Nos embargos de declaração de fls. 329/335, a agravante buscou pronunciamento sobre o que entendeu ser omissão e obscuridade do acórdão embargado, a respeito de matérias que, todavia, já haviam sido apreciadas, em termos que são abaixo transcritos.
+Rejeito, portanto, a alegação de contrariedade ao art. 1022 do CPC.
+Ademais, o recurso especial não dispensa o reexame de provas. A parte agravante afirma que as doações feitas pela falecida são nulas, dado que herdeiro necessário foi preterido, de modo que os bens devem ser colacionados no inventário. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ, fl. 291):
+Salta aos olhos que o genitor dos agravados WALTER NOVÔA anuiu às três doações feitas por sua genitora a seus dois irmãos, e disso decorre que o herdeiro supostamente preterido tomou conhecimento dos negócios jurídicos desde a data de sua celebração.
+Como é elementar, vigora em nosso ordenamento a teoria da actio nata (actioni nondum natae non praescribitur). Na lição de Orlando Gomes, "o prazo prescricional corre a partir do momento em que o credor pode lançar mão da pretensão, se necessário, por uma ação em juízo" (Introdução ao Direito Civil, p. 499; também Humberto Theodoro Júnior, Comentários, cit., p. 176).
+A moderna doutrina e o atual Código Civil não exigem a existência de uma ação exercitável (actio nata), mas apenas uma pretensão para que se possa falar em prescrição (cfr. Carlos Roberto Gonçalves, Direito Civil Brasileiro Parte Geral, 8ª ed., 2010, p. 513).
+Cediço que a discussão em torno da prescrição apenas tem lugar quando há inércia do titular da pretensão.
+No caso, a anuência prestada pelo herdeiro pré- morto WALTER NOVÔA impõe a conclusão de que eventual pretensão nasceu a partir da celebração das doações, pois desde então tinha conhecimento das doações.
+Frise-se que não se alegou em momento algum a falsidade das assinaturas da doadora e do anuente WALTER NOVÔA. Sob esse enfoque, irrelevante que a autenticação das assinaturas tenha ocorrido apenas após a abertura da sucessão.
+O que se indaga, portanto, é o prazo prescricional da pretensão restituitória dos bens doados em vida pela autora da herança.
+Absolutamente irrelevante o argumento dos agravados no sentido de que o prazo prescricional somente teria termo inicial na data da escritura de doação, que nunca foi outorgada. Isso porque o filho WALTER NOVOA consentiu nas promessas de doações feitas em favor de seus irmãos, de modo que tinha desde as celebrações inequívoco conhecimento dos negócios benéficos e supostamente inoficiosos.
+Não há como afastar essas conclusões em recurso especial, conforme dispõe a Súmula 7 do STJ.
+Quanto à interposição pela alínea "c", do art. 105, III, da Constituição Federal, esta Corte tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso com base na qual deu solução à causa o Tribunal de origem.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
