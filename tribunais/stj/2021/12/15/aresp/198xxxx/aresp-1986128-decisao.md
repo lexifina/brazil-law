@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALTOS DO PARQUE CUIABÁ EMPREENDIMENTOS IMOBILIÁRIOS LTDA (SPE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO DE CONTRATO C.C. RESTITUIÇÃO DE VALORES PAGOS E INDENIZAÇÃO POR DANOS MORAIS - ATRASO NA ENTREGA DA OBRA - FALHA NA PRESTAÇÃO DO SERVIÇO - CULPA EXCLUSIVA DA CONSTRUTORA - RESTITUIÇÃO INTEGRAL E IMEDIATA DOS VALORES PAGOS - JUROS DE MORA INCIDEM DA CITAÇÃO - CORREÇÃO MONETÁRIA INCIDE DE CADA DESEMBOLSO - DANO MORAL - CONFIGURADO - QUANTUM - ADEQUADO - ÔNUS DE SUCUMBÊNCIA - MANTIDOS - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+O atraso injustificado na entrega da obra, por período longo, constitui falha na prestação do serviço que permite a rescisão do contrato por culpa exclusiva da construtora e demanda a restituição integral dos valores pagos.
+Na restituição dos valores pagos, o termo inicial dos juros de mora é a data da citação e para correção monetária a data de cada desembolso.
+Configurado o dano moral, porquanto embora o descumprimento contratual, em regra, não implique em indenização por danos morais, no caso resta evidente a angústia e o sofrimento experimentados pelos autores não só pelo atraso na entrega da obra, mas pela completa falta de previsão de conclusão da obra.
+No que se refere ao arbitramento do valor indenizatório, levam-se em conta as circunstâncias do caso concreto, as condições das partes, o grau de culpa e, principalmente, a finalidade da reparação do dano moral, que é a de compensar o dano ocorrido, bem como inibir a conduta abusiva.
+Mantida integralmente a sentença, não há falar-se em inversão da sucumbência e nem em condenação pro rata, mormente porque o autor decaiu de parte mínima. (fls. 366/367)
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega a violação do art. 944 do CC, aduzindo que deve ser reduzido o valor exorbitante fixado a título de indenização por dano moral, trazendo os seguintes argumentos:
+À guisa de preâmbulo, cumpre salientar que o cerne da controvérsia reside na valoração do dano moral arbitrado pelo colegiado recursal no importe de R$ 5.000,00 (cinco mil reais), com incidência de correção monetária pelo INPC desde o arbitramento e juros moratórios de 1% ao mês a partir da citação.
+A quantia arbitrada a título de condenação afronta os princípios constitucionais implícitos de razoabilidade e proporcionalidade.
+A decisão recorrida, portanto, incorreu em violação ao artigo 944 do Código Civil
+ ..
+No caso ora em apreço tem-se que o valor do dano moral fixado, mostrou-se exorbitante e desarrazoado, e se for mantido tal valor, ocorrerá o enriquecimento ilícito da Recorrida.
+Assim, necessário se faz a redução do valor de R$ 5.000,00 arbitrado por danos morais, para valores razoáveis e atendendo ao princípio da proporcionalidade e razoabilidade. (fls. 426/427)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No que tange ao quantum arbitrado para o dano moral, considerada a extensão do dano, as condições socioeconômicas e culturais dos envolvidos, as condições psicológicas das partes e o grau de culpa do agente, bem como respeitado o critério da razoabilidade, deve ser mantido o valor de R$5.000,00. (fl. 372)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
