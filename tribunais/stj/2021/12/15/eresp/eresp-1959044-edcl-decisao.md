@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face da decisão que deuprovimento ao recurso especial da parte embargada, para reconhecera aplicação do prazo de prescriçãodecenal à hipótesedos autos,por se tratar de inadimplementocontratual.
+Em seu recurso, a embargante sustenta a ocorrência de omissão destacandoque: "há relevantes fundamentos não impugnados pela Embargada nas razões recursais, principalmente no que tange aos motivos que levaram o Tribunal Estadual a reconhecer que a natureza da ação de origem é de cunho indenizatório civil, e não decorrente de mero inadimplemento contratual (ponto não apreciado na r. decisão embargada).Além disso, a r. decisão embargada também não se manifestou a respeito da aplicabilidade da Súmula nº 7 ao caso concreto, visto que a pretensão recursal da Recorrente/Embargada pretende a modificação da premissa fática adotada pelo Tribunal de origem a respeito da natureza da pretensão indenizatória em regresso" (e-STJ, fl. 808).
+Defende que: "a r. decisão embargada foi igualmente omissa quanto à inadmissibilidade do recurso em razão da ausência de demonstração do cotejo analítico entre o acórdão paradigma e ao acórdão recorrido, o que também enseja o acolhimento destes aclaratórios"; bem como que: "Outrossim, verifica-se que a r. decisão embargada incorreu em omissão em relação aos fundamentos que levaram o Tribunal de origem a reconhecer a prescrição trienal no lugar da prescrição decenal" (e-STJ, fl. 808).
+Intimada, a parte embargada apresentou impugnação destacando que: "nada, absolutamente nada, evidencia qualquer omissão da r. decisão embargada, sendo desnecessárias, com o máximo respeito às alegações da EMBARGANTE, maiores considerações sobre a manifesta improcedência deste recurso de EMBARGOS, que deverão, por conseguinte, ser amplamente rejeitados" (e-STJ, fl. 813).
+Assim posta a questão, passo a decidir.
+Não se verificam os vícios apontados, devendo-se manter a decisão impugnada por seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à sua oposição: omissão, obscuridade ou contradição.
+O julgado embargado é específico em suas premissas e objetivo em suas conclusões, não existindo vício a ser sanado. Apenas, a solução prestigiada não corresponde à desejada pela embargante, circunstância que não eiva o acórdão de nulidade.
+Quanto ao tema, ao oposto do que pretende fazer crer a parte embargante, não houve omissão "a respeito das questões postas em Contrarrazões ao Recurso Especial", apenas as correspondentesteses não lograramacolhimento, tendo em vista que o recurso especial da parte embargada se encontra em plenas condições de admissibilidade; sendo relevante ainda destacar quefoi aplicada a jurisprudência desta Corte Superior àhipótese, no sentido de que o prazo de prescrição a ser considerado em casos de inadimplemento contratual é de 10 anos, situação que pode ser reconhecida sem nenhuma infringência à Súmula 7/STJ.
+Não se vislumbra, portanto, nenhuma hipótese de cabimento dos embargos de declaração em análise.
+Vale ressaltar que os embargos de declaração possuem regramento próprio, voltado à complementação ou declaração do verdadeiro sentido de uma decisão eventualmente omissa, contraditória ou obscura, não sendo dotados, em regra, de efeito modificativo.
+Verifico, assim, que a parte embargante pretende, sob o pretexto de existência de vício na decisão embargada, o protelamento do feito.
+Por outo lado, os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio. Eles servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. INVIABILIDADE.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. (..)
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 890.127/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 29/8/2017)
+Diante do exposto, rejeito os embargos de declaração.
+Intimem-se.
