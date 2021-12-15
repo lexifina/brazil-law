@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 314):
+RECURSO AGRAVO DE INSTRUMENTO LOCAÇÃO DE IMÓVEIS AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA FASE DE CUMPRIMENTO DE SENTENÇA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA DESCABIMENTO. Locatária pessoa jurídica. Não localização de bens passíveis de saldar a execução. Desconsideração da personalidade jurídica deferida em face do sócio que, atualmente, compõe o quadro social isoladamente. Falta de bens também desse sócio. Pretensão da exequente de desconsideração da personalidade jurídica para alcançar bens dos ex-sócios, retirados da sociedade depois da configuração do crédito, pois teriam se utilizado da prática fraudulenta de se retirarem da sociedade mediante a inclusão de pessoa "laranja" para integrá-la isoladamente, como meio de blindagem patrimonial. Ficha cadastral da empresa, contudo, a demonstrar que o sócio remanescente, contra o qual já houve a desconsideração da personalidade jurídica, compôs a sociedade desde a sua fundação, dela se retirando em determinado momento e retornando a ela no ano de 2014, antes do início do contrato de locação, no ano de 2016 e da configuração dos débitos em execução. Utilização da pessoa jurídica com o propósito de lesar credores ou praticar atos ilícitos não verificada. Fraude não detectada. Desconsideração da personalidade jurídica inviável, pois a só falta de patrimônio da empresa executada não é motivo legal para a desconsideração, em respeito ao princípio da autonomia patrimonial. Desconsideração somente possível se comprovados os requisitos legais do artigo 50 do Código Civil. Decisão agravada mantida. Recurso de agravo de instrumento não provido.
+No recurso especial (e-STJ fls. 321/337), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente aponta,além de divergência jurisprudencial, ofensa aos arts. 50 e 186 do CC/2002.
+Sustentaque ocorreu desvio de finalidade, pois os dois sócios ora recorridos usaram intencionalmente a pessoa jurídica com o nítido propósito de lesar a recorrente, que erasua credora, praticando um ato ilícito, razão pela qual pleiteia a declaração da desconsideração da personalidade jurídica.
+Requer seja determinadaa desconsideração da personalidade jurídica da empresa executada para que o montante da dívida recaia sobre seus sócios.
+Não foram apresentadas contrarrazões (e-STJ fl. 341).
+O recurso foi admitido na origem, nos termos da decisão de fls. 342/344 (e-STJ).
+É o relatório.
+Decido.
+Da desconsideração da personalidade jurídica
+O Tribunal de origem destacou (e-STJ fls. 316/318):
+Em que pese ser possível reconhecer que ex-sócios se retiraram da sociedade depois daconfiguração do crédito exequendo (crédito correspondente aos alugueis vencidos de setembro a outubro de 2017; retirada do quadro social em dezembro de 2017), não se encontram outros elementos que autorizem a desconsideração da personalidade jurídica em desfavor dos ex-sócios por fraude, como pretende a agravante.
+Com efeito, não se pode dizer que o sócio remanescente, contra o qual já ocorreu a desconsideração da personalidade jurídica, seja "laranja" dos ex-sócios, pois a ficha cadastral completa da sociedade empresária demonstra que ele compôs o quadro social da executada desde a sua fundação, no ano de 2011, havendo dela se retirado ainda em 2011 e tornado a ela em 2014, compondo-a com os demais sócios até dezembro de 2017, quando se retiraram do quadro social (folhas 256/258).
+Portanto, dos elementos constantes da ficha cadastral da empresa retira-se que o sócio considerado pela agravante como "laranja" fez parte da sociedade em dois momentos (de 2011 a 2011 e de 2014 até o momento).
+Assim, quando da própria contratação da locação, em 05 de novembro de 2016, o sócio considerado como "laranja" já compunha o quadro societário da executada.
+Não se verifica, portanto, a alegada manobra sustentada pela agravante de retirada de sócios com o aproveitamento do patrimônio da executada e a locação de sócio "laranja" sem patrimônio em seu lugar.
+E nessa circunstância, ou seja, não configurada fraude de blindagem patrimonial alegada, o pedido de desconsideração da personalidade jurídica para atingir os ex-sócios não deve prevalecer, pois, como bem registrou a juíza "aquo", a insuficiência patrimonial da executada não autoriza o redirecionamento da execução a eles (ex-sócios), sendo necessária a demonstração dos requisitos legais do artigo 50 do Código Civil, caracterizados pelo desvio de finalidade, demonstrado pela utilização da pessoa jurídica com o propósito de lesar credores e praticar atos ilícitos, ou confusão patrimonial.
+Nesse aspecto, para analisar a pretensão recursal a fim de concluir pela presença dos requisitos legais para que ocorra a desconsideração da personalidade jurídica, seria imprescindível a reavaliação das provas dos autos, inviável em recurso especial, tendo em vista o óbice da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. CITAÇÃO POR EDITAL. SÓCIO CITADO PARA EXERCÍCIO DE SUA DEFESA. NULIDADE. INEXISTÊNCIA. 2.DESCONSIDERAÇÃODAPERSONALIDADE JURÍDICA. REQUISITOSPREENCHIDOS. REVISÃO DO QUADRO FÁTICO DELINEADO PELO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE.SÚMULA7/STJ. 3. RESPONSABILIDADE DO SÓCIO. LIMITAÇÃO TEMPORAL.INAPLICABILIDADE DOS ARTS. 1.003 E 1.032 DO CC. PRECEDENTES. 4.AGRAVO DESPROVIDO.
+1. É válida a citação por edital quando esgotados os meios necessários para a localização do endereço do réu. Ademais, o sócio foi regularmente citado para exercício do contraditório e da ampla defesa.
+2. Adesconsideraçãodapersonalidade jurídicaocorreu em razão do desfazimento dos bens da sociedade empresária para inviabilizar o adimplemento da dívida. Rever as conclusões do acórdão recorrido demandaria o reexame do conjunto fático-probatório dos autos, atraindo a incidência daSúmula7/STJ.
+3. Não são aplicáveis os arts. 1.003 e 1.032 do CC aos casos dedesconsideraçãodapersonalidade jurídica,pois esta tem como fundamento o abuso de direito efetivado quando a parte ainda fazia parte do quadro societário da pessoajurídicaalvo da execução, enquanto os referidos dispositivos dizem respeito às responsabilidades obrigacionais ordinárias. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1034255/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/04/2017, DJe 09/05/2017.)
+Do dissídio jurisprudencial
+A falta de demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos moldes exigidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º do CPC/2015, impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+Nesse sentido, confiram-sejulgados das Terceira e Quarta Turmas desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. PRINCÍPIO DA FUNGIBILIDADE. ACLARATÓRIOS RECEBIDOS COMO AGRAVO REGIMENTAL. ARTIGO 332 DO CPC. OCORRÊNCIA DE CULPA CONCORRENTE. NÃO DEMONSTRAÇÃO. PRETENSÃO DE REEXAME DAS PROVAS PERICIAL E TESTEMUNHAL COLHIDAS NOS AUTOS. IMPOSSIBILIDADE. SÚMULA 07/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. NÃO OCORRÊNCIA.
+EMBARGOS DECLARATÓRIOS RECEBIDOS COMO AGRAVO REGIMENTAL, MAS NÃO CONHECIDO.
+(..)
+2. A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados."
+3. Embargos de declaração recebidos como agravo regimental, mas não conhecido.
+(EDcl no AREsp n. 320.967/RS, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/6/2014, DJe 20/6/2014.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DE RECURSO. VIOLAÇÃO DO ART. 525, §2º, DO CPC. FALTA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO, INCIDÊNCIA DA SÚMULA 280/STF E FALTA DE SIMILITUDE FÁTICA.
+(..)
+2. Para a análise da admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, torna-se imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, a fim de demonstrar a divergência jurisprudencial existente, o que não ocorreu no caso em apreço.
+3. Além disso, constata-se a ausência de similitude fática entre o acórdão recorrido e o paradigma colacionado capaz de evidenciar o dissídio jurisprudencial.
+4. Agravo regimental não provido.
+(AgRg no AREsp 490.109/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 6/5/2014, DJe 13/5/2014.)
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
