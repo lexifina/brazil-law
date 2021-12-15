@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Trata-se de agravo interno interposto por Dante Gazoli Conselvancontra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 366):
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. SUSPENSÃO DA EXECUÇÃO. PRAZO SUPERIOR A UM ANO. REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 373-375), oagravante defendea violação do art. 313 do CPC/2015, aduzindo que não é necessário analisar o conjunto fático-probatório, devendo ser afastada a incidência daSúmulan. 7/STJ, uma vez que basta enfrentar a questão de direito, qual seja, se a suspensão de um ato processual (leilão do complexo industrial penhorado na execução) pode exceder o prazo de 1 (um) ano.
+Foi apresentada impugnação (e-STJ, fls. 378-380).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. SUSPENSÃO DA EXECUÇÃO. PRAZO SUPERIOR A 1 (UM) ANO. REEXAME. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1.Reverter a conclusão do colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado daSúmulan.7 do Superior Tribunal de Justiça.
+2. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento.
+Conforme consignado na decisão agravada, Tribunal de origem, ao julgar o agravo de instrumento, consignou o seguinte (e-STJ, fls. 185-187):
+Trata-se de Agravo de Instrumento interposto por CARGILL AGRÍCOLA S/A contra decisão proferida pelo Juízo da Vara Cível da Comarca de Cambará, que, nos autos de Execução de Título Executivo Extrajudicial nr.0000241-75.2006.8.16.0055, reafirmou decisão anterior de suspensão de leilão de imóveis penhorados nos autos até decisão a ser proferida em feito diverso (no qual discutidas quais as frações ideias e a quem pertencem), nos seguintes termos:
+(..)
+Irresignada, a Agravante-exequente interpôs o presente recurso defendendo a reforma da decisão ao argumento de que sem justificativa a manutenção da referida suspensão, especialmente porque há muito superado o prazo ânuo do §4º, do art.313, do CPC, não podendo a Execução (e atos que possam levar à satisfação de débitos)permanecer suspensa por tempoindeterminado, para além de que há na ação que ampara a suspensão laudo pericial já apresentado, que permite o prosseguimento do leilão dos imóveis constritos. Assim, postulou pelo provimento do recurso para o regular prosseguimento do feito executivo.
+Admitido o processamento do recurso e ausente pleito de concessão de efeitos, determinou-se a intimação dos Agravados, que se manifestaram nos movs. 44.1 e47.1, um pelo Dante Gazoli Conselvan (pelo desprovimento do recurso) e outra pelos demais agravados (pelo provimento do recurso).(..)
+Presentes os pressupostos recursais de admissibilidade intrínsecos e extrínsecos, conheço do recurso, cujas razões se cingem em ver determinado o prosseguimento da demanda.
+Com acerto.
+É que, ainda que este Relator tenha anuído com a suspensão da execução quando do julgamento do Agravo de Instrumento nr. 0022994-40.2019.8.16.0000, o fato é que desde a primeira suspensão de atos processuais na Execução, especialmente do leilão de bens imóveis constritos (ocorrida em 14/12/2018- mov. 232.1), em muito já restou superado o prazo ânuo máximo imposto pelo § 4º, do art. 313, para a hipótese de suspensão de demandas por prejudicialidade externa.
+No mais, basta a inclusão no edital de leilão da existência de processos em que se discute a eventual propriedade de frações ideais e a posterior reserva dos respectivos valores, sendo possíveis outros questionamentos apenas em momento oportuno e através das vias processuais adequadas, caso terceiros sintam-se prejudicados. Ainda, importante apontar que a demanda que ensejou a suspensão do feito vem se movendo a passos infantes, o que contraria a sistemática do feito executivo, que visa sempre a célere satisfação dos créditos exequendos, de modo que as suspensões devem sempre que possível preservar o exato tempo máximo previsto na lei processual.
+Por fim, ao contrário do que sugere a magistrada de origem, em momento algum este Relator e esta Colenda Câmara autorizaram uma suspensão sine die da Execução, figura que sequer persiste no ordenamento processual civil (vide redação do art. 921, do CPC). (Sem grifo no original).
+Na análise dos embargos de declaração, o Tribunal estadual assim se manifestou (e-STJ, fls. 238-239):
+Em que pese o conhecimento dos Embargos, vez que tempestiva sua oposição, não merecem acolhimento, já que ausente qualquer vício no julgado objurgado, especialmente erro material.
+Para tanto, basta simples leitura do acórdão para se perceber que a Execução se mantinha paralisada há muito (e, portanto, suspensa), o que não se justifica porque "basta a inclusão no edital de leilão da existência de processos em que se discute a eventual propriedade de frações ideais e a posterior reserva dos respectivos valores, sendo possíveis outros questionamentos apenas em momento oportuno e através das vias. processuais adequadas, caso terceiros sintam-se prejudicados".
+Assim, não se partiu de qualquer premissa equivocada, senão exclusivamente da realidade fático-processual, que importa em concluir que a tentativa de suspensão de quaisquer atos constritivos até que finda a açãonr. 22314-38.2004.8.16.0014 tem como único objetivo retardar a marcha processual da Execução.
+(..)
+Portanto, percebe-se que o Embargante pretende unicamente a reforma e a rediscussão do tema versado no acórdão, objetivando a manutenção da suspensão da Execução no que pertine aos aludidos imóveis, o que não se mostra cabível por esta via processual, nos exatos limites do art. 1.022, do novo CPC. (Sem grifo no original).
+Dessa forma, ratifica-se que a revisão das conclusões a que chegou o colegiado estadual reclama a incursão no contexto fático-probatório dos autos, providência inviável no âmbito do recurso especial, o que torna inarredável a incidência do óbice da Súmula n. 7/STJ.
+A propósito, guardadas as devidas particularidades:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DA EXECUÇÃO. TÍTULO EXTRAJUDICIAL. NÃO INDICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA 284 DO STF. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. AUSÊNCIA DE NULIDADE DA INTIMAÇÃO. CARGA DOS AUTOS PELO ADVOGADO. PRECEDENTES DO STJ. MATÉRIA CONSTITUCIONAL. INVIABILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Incidência da Súmula 284 do STF.
+2. A reforma do acórdão estadual no tocante a impossibilidade de suspensão da execução, exige a análise minuciosa dos elementos configuradores da conexão entre ações - identidade de objetos ou de causa de pedir -, o que demandaria o reexame do conjunto fático-probatório dos autos. Incidência da Súmula 7 do STJ.
+3. Esta Corte Superior possui entendimento pacífico no sentido de ser possível afastar a regra geral das intimações pela publicação na imprensa oficial, quando a parte tenha tomado ciência inequívoca da decisão que lhe é adversa por outro meio qualquer, iniciando a partir daí a contagem do prazo para interposição do recurso cabível. Incidência da Súmula 83 do STJ.
+4. Ao STJ não é permitido interferir na competência do STF, sequer para prequestionar questão constitucional suscitada em sede de embargos de declaração, sob pena de violar a rígida distribuição de competência recursal disposta na Constituição Federal.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.285.728/PR, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/8/2018, DJe 23/8/2018).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
