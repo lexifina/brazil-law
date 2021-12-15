@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto em face da decisão assim ementada (e-STJ fl. 5.724):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL.VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS. IMUNIDADE TRIBUTÁRIA. REQUISITOS NÃO PREENCHIDOS. REVISÃO. REEXAME DO QUADRO FÁTICO- PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES.RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E NESSA EXTENSÃO, NÃO PROVIDO.
+Em suas razões, o agravante repete sua argumentação no sentido de restar violado os arts. 489 e1.022 do CPC/2015 e ser desnecessário a incidência da Súmula 7/STJ para verificar a presença dos requisitos necessários para o reconhecimento da imunidade tributária.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS. IMUNIDADE TRIBUTÁRIA. REQUISITOS NÃO PREENCHIDOS. REVISÃO. REEXAME DO QUADRO FÁTICO- PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES.
+1. Afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, apenas não adotando as razões do recorrente, o que não configura violação do dispositivo invocado. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+2.Na hipótese, o Tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, concluiu pela inexistência dos requisitos legais para a concessão da imunidade constitucional pretendida. Revisar esse entendimento demandaria o revolvimento de matéria fático-probatória, o que é vedado por força do óbice da Súmula 7/STJ. Precedentes:AgRg no AREsp Nº 258.388/PE, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 21/08/2013;AgInt no AREsp 871101/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 16/06/2017.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+De inicio, afasta-se a alegada violação dos artigos 489 e 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, apenas não adotando as razões do recorrente, o que não configura violação do dispositivo invocado. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Com efeito, assim se manifestou a Corte de origem sobre os requisitos necessários para o reconhecimento da imunidade:
+ ..  Portanto, além dos requisitos do art. 14 do CTN, deverá a parte autora comprovar que se trata de entidade beneficente de assistência social, conforme entendimento do STF.
+Através do laudo pericial (evento 91), pode-se concluir que a entidade atende aos requisitos exigidos pelo artigo 14 do CTN. Contudo, não há como chegar a essa conclusão em relação aos demais requisitos da Lei nº 12.101/2009, in verbis:
+ ..
+8.2 - Âmbito Administrativo
+No âmbito administrativo para atendimento das exigências da Lei 12.101/2009 e conforme os questionamentos da ré, constatou-se que a entidade não atendeu os requisitos previsto na referida Lei, pois, há fragilidade na produção dos relatórios exigidos, o que ensejou o indeferimento do pleito pelo Ministério da Educação.
+Dessa forma, por não atender a entrega dos elementos de provas a este perito, requisitados na forma da lei e determinações desse juízo, não há como confirmar se a instituição cumpriu as exigências questionadas pela parte ré, referente a legislação do Cebas.
+É importante destacar que o requerimento de concessão do Cebas, de acordo com o processo SEI de nº 23123.000223/2011-47, foi indeferido pelo Minstério da Educação, tendo em vista que entidade não cumpriu integralmente com os requisitos previstos na Lei nº 12.101/2009 e Decreto nº 7.237/10, em conformidade com a nota técnica nº 138/2017/DIAN/CGCEBAS/DPR/SERES/SERES, que é parte do referido processo.
+Portanto, não possuindo o Certificado de Entidade Beneficente de Assistência Social - CEBAS, bem como não comprovando que atende aos requisitos previstos nas leis de regência, a parte autora não faz jus à imunidade prevista no § 7º do artigo 195 da CF/88.
+ ..
+Na hipótese, o Tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, concluiu pela inexistência dos requisitos legais para a concessão da imunidade constitucional pretendida. Revisar esse entendimento demandaria o revolvimento de matéria fático-probatória, o que é vedado por força do óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EMRECURSO ESPECIAL. ICMS. IMUNIDADE. REQUISITOS. CEBAS. RENOVAÇÃO.NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. DIREITO ADQUIRIDO A REGIME JURÍDICO TRIBUTÁRIO. INEXISTÊNCIA. SÚMULA 352/STJ. CONVERGÊNCIA ENTRE A ORIENTAÇÃO FIRMADA PELO TRIBUNAL DE ORIGEM E O POSICIONAMENTO DESTA CORTE. APLICAÇÃO DA SÚMULA 83/STJ. VIOLAÇÃO DOS ARTS. 515 E 535 DO CPC. NÃO OCORRÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF.
+ ..  3. O Tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, concluiu pela inexistência dos requisitos legais para a concessão da imunidade constitucional pretendida. Revisar esse entendimento demandaria o revolvimento de matéria fático-probatória, o que é vedado por força do óbice da Súmula 7/STJ.
+4. O Superior Tribunal de Justiça possui jurisprudência firmada no sentido de que as entidades beneficentes devem preencher as condições estabelecidas pela legislação superveniente para fins de renovação do Certificado de Entidade Beneficiente de Assistência Social - CEBAS e consequente fruição da imunidade tributária (Súmula 352/STJ).
+5. Agravo regimental não provido (AgRg no AREsp Nº 258.388/PE, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 21/08/2013, grifo nosso).
+TRIBUTÁRIO. ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS. IMUNIDADE TRIBUTÁRIA. REQUISITOS NÃO PREENCHIDOS.PREENCHIMENTO. REVISÃO. MATÉRIA INCOMPATÍVEL COM O ÂMBITO ESPECIAL POR IMPLICAR REEXAME DO QUADRO FÁTICO-PROBATÓRIO.AFASTAMENTO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC/1973.REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. A Corte local concluiu que a agravante não preenche os requisitos para desfrutar da imunidade tributária pretendida. Assim, é evidente que, para modificar o entendimento firmado no acórdão recorrido, é necessário exceder as razões expostas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+2. Com relação à multa do art. 538 do CPC/1973, aplicada na primeira instância, é também indispensável o revolvimento fático-probatório para afastar a multa do art. 538, parágrafo único, do CPC/1973, o que atrai a aplicação do óbice da Súmula 7/STJ.
+3. Agravo Interno não provido (AgInt no AREsp 871101/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 16/06/2017, grifo nosso).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
