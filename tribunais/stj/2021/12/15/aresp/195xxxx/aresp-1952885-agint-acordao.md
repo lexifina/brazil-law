@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se de agravo interno interposto por AMIR FRANCISCO LANDO,contra decisão unipessoal que não conheceu do agravo em recurso especial.
+Ação: embargos à execução opostos pelo agravante, contra execução de notas promissórias movida por EDUARDO DORFMANN ARANOVICH & CIA., ADVOGADOS.
+Decisão de inadmissibilidade do TJ/RS: inadmitiu o recurso especial pelos óbices da (i) súmula 83/STJ (inexiste nulidade processual quando ausente prejuízo às partes); (ii) Súmula 7/STJ (ausência de prejuízos à parte); (iii) Súmula 7/STJ (ocorrência ou não de prescrição da pretensão executiva ou da prescrição intercorrente); (iv) Súmula 7/STJ (liquidez, certeza e exigibilidade das notas promissórias); (v) Súmula 7/STJ (excesso de execução) e (vi) ausência de similitude fática.
+AREsp de AMIR FRANCISCO LANDO: não demonstrou, de maneira consistente, a inaplicabilidade dos itens (iii) Súmula 7/STJ (ocorrência ou não de prescrição da pretensão executiva ou da prescrição intercorrente); (iv) Súmula 7/STJ (liquidez, certeza e exigibilidade das notas promissórias); (v) Súmula 7/STJ (excesso de execução) e (vi) ausência de similitude fática.
+Agravo interno: alega em síntese que demonstrou indubitavelmente acerca da não aplicação da Súmula 7/STJ. Sustenta ainda que o "AREsp bem demonstrou que no caso em concreto não poderia se aplicar a referida Súmula 7 porque restou demonstrado nos autos, por meio de prova produzida pelo próprio TJ/RS e pela confissão da Agravada, que os prazos prescricionais se exauriram em função da desídia da Agravada, desídia esta comprovada por meio de inúmeras certidões nos autos, todas elas assinaladas e reproduzidas na peça do AREsp." (e-STJ fl. 823). Alega também a não incidência da Súmula 7/STJ no que diz respeito à alegação de falta de liquidez dos títulos, uma vez que restou confessado pela agravada que não prestou os serviços até o final. Sustenta igualmente que, quanto a alegação de excesso de execução, demonstrou que impugnou a Súmula 7/STJ. Por derradeiro, assevera que combateu o óbice relativo à ausência de similitude fática entre o acórdão recorrido e o paradigma.(e-STJ fls. 821/839)
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de embargos à execução.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial. Agravo em recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial com fundamento na Súmula 182/STJ, pela falta de impugnação ao não cabimento de recurso especial que alega violação de dispositivo constitucional.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Especificamente no que diz respeito às razões tecidas pela parte no sentido de desnecessidade de reexame de fatos e provas, estas não foram suficientes a afastar os óbices aplicados.
+Isso porque, não obstante a parte alegue que se trata apenas de revaloração das provas, em sua peça de Agravo em Recurso Especial faz remissão e inclusive colaciona documentos e provas que foram produzidos durante o processo com o intuito de embasar suas alegações, configurando-se um verdadeiro reexame de provas e questões fáticas.
+Valoração da prova refere-se ao valor jurídico desta, sua admissão ou não em face da lei que a disciplina, podendo representar, ainda, contrariedade a princípio ou regra jurídica, no campo probatório, questão unicamente de direito, passível de exame, nesta Corte.
+Diversamente, o reexame da prova implica a reapreciação dos elementos probatórios, para concluir-se se eles foram ou não bem interpretados, matéria de fato, soberanamente decidida pelas instâncias ordinárias de jurisdição e insuscetível de revisão, no Recurso Especial, como é a hipótese dos autos.
+Ademais, aSúmula 7/STJ tem incidência quando é necessário o exame de fatos que não foram consignados no acórdão do Tribunal de origem, como é o casodo presente recurso de Agravo em Recurso Especial.
+Registre-se que o Superior Tribunal de Justiça não é uma Corte revisora. Na verdade, o seu funcionamento visa a unificar a interpretação dada à questão federal suscitada nos tribunais estaduais e de cunho exclusivamente jurídico.
+Imperioso frisar que as razões do agravo interno não se prestam a sanar a deficiência do agravo não conhecido, em razão da preclusão consumativa operada pela interposição do recurso antecedente. Nesse sentido: AgInt no AREsp 936439/SP, 3ª Turma, DJe de 22/03/2017.
+Nesse contexto, ressalte-se que o art. 34, XVIII, "a", do RISTJ exige a impugnação específica e consistente a todos os fundamentos da decisão de inadmissibilidade do recurso especial, motivo pelo qual referidos pontos deveriam ter sido combatidos na peça de agravo de e-STJ fls. 727/771
+E, consoante entendimento pacífico desta Corte, o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial não deve ser conhecido, conforme disposto na Súmula 182/STJ, a qual se subsume perfeitamente ao presente recurso.
+Assim, a incidência da Súmula 182/STJ deve ser mantida.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
