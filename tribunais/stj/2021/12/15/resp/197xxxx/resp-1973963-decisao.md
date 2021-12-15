@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Paraná contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, no qual alega violação do art. 40 da Lei n. 6.830/1980, discutindo a não ocorrência de prescrição intercorrente, no processo executivo fiscal.
+Sem contrarrazões.
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+O recurso não pode ser conhecido porque o acórdão recorrido, além de não revelar contrariedade à orientação deste Tribunal Superior, firmada no julgamento REsp 1340553/RS, repetitivo,não faz menção a situação fática que indique equívoco na aplicação da tese repetitiva, de tal sorte que eventual acolhimento da tese dependeria do reexame fático-probatório, o que não é adequado no recurso especial, consoante enuncia a Súmula 7 do STJ.
+A propósito, vejamos o voto condutor do acórdão:
+Dcpreende-se, portanto, que a prescrição intercorrente da pretensão executória fiscal pode ocorrer diante de duas hipóteses distintas. Na primeira delas, a suspensão da execução pelo prazo de 1 ano se dá *no primeiro momento em que constatada a não localização do devedor", enquanto na segunda "após a primeira tentativa infrutífera de localização de bens penhoráveis".
+Em ambos os casos, após decorrido o período de suspensão, dá-se inicio automaticamente à contagem do prazo prescricional.
+A sistemática para a contagem do prazo prescricional deve observar, ainda, as causas interruptivas da prescrição do crédito tributário elencadas pelo artigo 174, parágrafo único1, do Código Tributário Nacional, bem como a "efetiva constrição patrimonial e a efetiva citação (ainda que por edital)", que, na forma do entendimento firmado pelo Superior Tribunal de Justiça "são aptas a interromper o curso da prescrição intercorrente".
+No caso dos autos, verificam-se os seguintes marcos relevantes para a contagem prazo prescricional: a citação da executada Dipapel Indústria Gràfica Ltda pela via editalicia no dia 23.11.05; a citação do executado Nilton Carlos Dadalio, no dia 31.03.2006 e; a primeira tentativa infrutífera de localização de bens penhoráveis de propriedade do executado Nilton Carlos Dadalio, no dia 06.04.2006.
+Tem-se, portanto, que o último marco interruptivo da prescrição ocorreu no dia 31.03.2006, com a efetiva citação do executado Nilton Carlos Dadalio, e, a partir dc dia 06.04.2006, após a primeira tentativa infrutifera de localização de bens penhoráveis, iniciou-se automaticamente a contagem do prazo prescricional de 6 anos. Com efeito, a pretensão executória foi fulminada pela prescrição no dia 06.04.2012, isto é, anteriormente à prolação da sentença recorrida.
+Assim, ainda que a sentença que reconheceu a prescrição intercorrente tenha deixado de observar certas formalidades necessárias - como a intimaçáo prévia da Fazenda Pública e a indicação objetiva dos marcos intcrruptivos da prescrição  , a pretensão executória encontra-se invariavelmente fulminada pela prescrição intercorrente, na forma da sistemática firmada pelo Superior Tribunal de Justiça no julgamento do REsp 1.340.553/RS.
+Nessa lógica, a anulação da sentença pela mera inobservância das referidas formalidades não surtiria qualquer efeito prático senão a movimentação despropositada da máquina judiciária, razão pela qual deixa-se de exercer o juízo de retratação no presente caso.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
