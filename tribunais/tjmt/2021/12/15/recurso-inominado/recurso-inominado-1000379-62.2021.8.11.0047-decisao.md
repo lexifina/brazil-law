@@ -1,0 +1,56 @@
+Recurso Inominado: 1000379-62.2021.8.11.0047
+Origem: JUIZADO ESPECIAL CÍVEL E CRIMINAL DE JAURU
+Recorrente: INUBIA FERNANDA SANCHES MARTINS
+Recorrida: TELEFONICA BRASIL S/A
+Juíza Relatora: LAMISSE RODER FEGURI ALVES CORRÊA
+EMENTA:
+RECURSO INOMINADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. RELAÇÃO DE CONSUMO. NEGATIVA DE CONTRATAÇÃO. INSCRIÇÃO INDEVIDA NOS ÓRGÃOS DE RESTRIÇÃO AO CRÉDITO. AUSÊNCIA DE COMPROVAÇÃO DA RELAÇÃO JURÍDICA ENTRE AS PARTES. TELAS SISTÊMICAS. RESPONSABILIDADE CIVIL. DANO MORAL CONFIGURADO. QUANTUM FIXADO EM OBSERVÂNCIA AOS POSTULADOS DA RAZOABILIDADE E PROPORCIONALIDADE. SENTENÇA REFORMADA. DECISÃO MONOCRÁTICA. RECURSO PROVIDO. (ART. 932, V, “A” DO CPC).
+1. Trata-se de ação na qual a parte consumidora, ora Recorrida, postula declaração de inexistência de débito, bem como indenização por danos morais decorrente de inscrição indevida oriunda de suposto débito com a empresa Recorrente.
+2. Diante da negativa da parte Recorrida em ter celebrado contrato com a empresa Recorrente, cabia a esta o ônus de provar a regularidade da contratação e a higidez do débito, entretanto, não acostou aos autos qualquer documento capaz de demonstrar a existência das negociações.
+3. As telas sistêmicas colacionadas aos autos são documentos unilaterais e não se prestam a comprovar a efetiva contratação e utilização dos serviços pelo consumidor.
+4. Possível fraude perpetrada por terceiro, cuja responsabilidade é da empresa Recorrente ao não tomar as cautelas necessárias ao contratar, certificando-se da identidade de quem contrata consigo.
+5. A inscrição indevida em cadastro de maus pagadores, basta, por si só, para a concessão de indenização, pois macula o nome do consumidor e obsta a obtenção de crédito - situações que ultrapassam o mero transtorno e dissabor cotidiano -, configurando o dano moral puro, ensejador da reparação pretendida na esfera extrapatrimonial.
+6. Súmula no. 22 do Turma Recursal do TJ/MT: "A inserção indevida do nome do consumidor em cadastro de órgãos de proteção ao crédito gera o dano moral na modalidade "in re ipsa", salvo se houver negativação preexistente." (Aprovada em 19/09/2017).
+7. Na fixação do montante da condenação a título de danos morais, deve-se atender a uma dupla finalidade: reparação e repressão. Portanto, há que se observar a capacidade econômica do atingido, mas também a do ofensor, com vistas a evitar o enriquecimento injustificado, mas também garantir o viés pedagógico da medida, desestimulando-se a repetição do ato ilícito.
+8. Quantum indenizatório fixado em R$ 10.000,00 (dez mil reais), que se mostra adequado à reparação dos danos, sem que importe em enriquecimento ilícito do Recorrente e com suficiente carga punitiva pedagógica para evitar nova ocorrência de atos desta natureza.
+9. Sentença reformada.
+10. Recurso Conhecido e Provido. (art. 932, v, “a” do CPC).
+DECISÃO MONOCRÁTICA:
+VISTOS, ETC.
+Trata-se de ação indenizatória em que a parte consumidora postula reparação por danos morais e desconstituição de débitos, em razão de o seu nome ter sido inscrito indevidamente nos órgãos de proteção ao crédito.
+Contestado o feito, foi proferida sentença de improcedência do pedido inicial e procedência do pedido contraposto, com a condenação da consumidora ao pagamento da dívida discutida nos autos no importe de R$ 93,00 (noventa e três reais).
+Inconformada, a parte Recorrente nas razões recursais, pugna pela reforma da sentença objurgada, a fim de a ação seja julgada procedente, com a declaração de inexistência do débito discutido nos autos e condenação da empresa Recorrida ao pagamento de indenização por danos morais.
+Não aportaram aos autos as contrarrazões recursais.
+Pois bem.
+Malgrado a empresa demandada alegue a existência de relação jurídica com a parte consumidora, não comprovou o alegado. Registre-se que, nessas circunstâncias, competia à própria Recorrente trazer aos autos documentos consistentes que pudessem comprovar a contratação dos seus serviços pela parte consumidora, ou da gravação, no caso desta ter sido realizado verbalmente, mediante “call center”, ônus do qual não se desincumbiu, consoante prescrição do art. 333, II, do Código de Processo Civil.
+Neste contexto, os “print screen”, retirados das telas dos próprios computadores da empresa Recorrida não são provas hábeis a comprovar a efetiva contratação/utilização dos serviços pela consumidora, ante a fragilidade e unilateralidade da prova.
+A propósito, averbe-se aresto pertinente:
+“CONSUMIDOR. SERVIÇOS DE TELEFONIA. CONTRATAÇÃO. PROVA. ÔNUS DO FORNECEDOR. INSCRIÇÃO EM CADASTROS DE INADIMPLENTES. SÚMULA 385 DO STJ. QUESTÃO AJUIZADA. INAPLICABILIDADE. RECURSO CONHECIDO MAS IMPROVIDO. 1. INCUMBE AO FORNECEDOR A PROVA DA CONTRATAÇÃO E DA PRESTAÇÃO DOS SERVIÇOS COBRADOS, NÃO SE PRESTANDO A ISSO IMPRESSÕES DE TELAS DE SEUS PRÓPRIOS COMPUTADORES. 2. INEXISTENTE A PROVA DA CONTRATAÇÃO E FRUIÇÃO, INDEVIDO O VALOR COBRADO E ILEGÍTIMA A INSCRIÇÃO EM CADASTROS DE INADIMPLENTES.(TJ-DF - ACJ: 20120710318826 DF 0031882-70.2012.8.07.0007, Relator: FLÁVIO AUGUSTO MARTINS LEITE, Data de Julgamento: 13/08/2013, 2a Turma Recursal dos Juizados Especiais Cíveis e Criminais do DF, Data de Publicação: Publicado no DJE : 15/08/2013 . Pág.: 236)”.
+Assim sendo, não logrando a empresa em comprovar a regularidade do débito e, via de consequência de que a inscrição estava calcada no inadimplemento de alguma obrigação pecuniária assumida pela parte consumidora, a declaração da ilegalidade do débito é medida impositiva.
+Diante desse contexto, considerando que se mostra incontroverso que o apontamento realizado pela empresa em nome da parte Recorrente foi indevido, pois ausente à comprovação da relação jurídica subjacente, cabível a indenização por dano moral, que configura na modalidade in re ipsa.
+Sobre a matéria esta E. Turma Recursal Única possui remansoso entendimento, consoante teor da Súmula no 22, que assim dispõe:
+"A inserção indevida do nome do consumidor em cadastro de órgãos de proteção ao crédito gera o dano moral na modalidade "in re ipsa", salvo se houver negativação preexistente." (Aprovada em 19/09/2017).
+Feitas tais ponderações, passo a análise do arbitramento do valor indenizatório.
+Como cediço, o valor a ser arbitrado a título de dano moral deve ser compatível com a reprovabilidade da conduta ilícita, a intensidade e duração do sofrimento experimentado pela vítima, a capacidade econômica do causador do dano, as condições sociais do ofendido, e outras circunstâncias mais que se fizerem presentes.
+Nesse sentido, valho-me da lição de SÉRGIO CAVALIERI FILHO[1], litteris:
+Não há realmente, outro meio mais eficiente para fixar o dano moral a não ser o arbitramento judicial. Cabe ao Juiz, de acordo com o seu prudente arbítrio, atentando para a repercussão do dano e a possibilidade econômica do ofensor, estimar uma quantia a título de reparação pelo dano moral.
+[...]
+De igual modo, preconiza a jurisprudência do STF:
+"[...] o valor da indenização há de ser eficaz, vale dizer, deve, perante as circunstâncias históricas, entre as quais avulta a capacidade econômica de cada responsável, guardar uma força desencorajada de nova violação ou violações, sendo como tal perceptível ao ofensor, e, ao mesmo tempo, de significar, para a vítima, segundo sua sensibilidade e condição sociopolítica, uma forma heterogênea de satisfação psicológica da lesão sofrida. Os bens ideais da personalidade, como a honra, a imagem, a intimidade da vida privada, não suportam critério objetivo, com pretensões de validez universal, de mensuração do dano à pessoa." (STF RE 447.584-7/RJ, Rel. Min. Cezar Peluso, j. em 28/11/2006).
+No mesmo rumo são as lições do Colendo STJ:
+“PROCESSUAL CIVIL. INDENIZAÇÃO. DANO MORAL. (...) QUANTUM DA INDENIZAÇÃO. (...) 7. O critério que vem sendo utilizado por essa Corte Superior na fixação do valor da indenização por danos morais, considera as condições pessoais e econômicas das partes, devendo o arbitramento operar-se com moderação e razoabilidade, atento à realidade da vida e às peculiaridades de cada caso, de forma a não haver o enriquecimento indevido do ofendido, bem como que sirva para desestimular o ofensor a repetir o ato ilícito. 8. Ressalte-se que a aplicação irrestrita das "punitive damages” encontra óbice regulador no ordenamento jurídico pátrio que, anteriormente à entrada do Código Civil de 2002, vedava o enriquecimento sem causa como princípio informador do direito e após a novel codificação civilista, passou a prescrevê-la expressamente, mais especificamente, no art. 884 do Código Civil de 2002. 9. Assim, cabe a alteração do quantum indenizatório quando este se revelar como valor exorbitante ou ínfimo, consoante iterativa jurisprudência desta Corte Superior de Justiça. (...)” (STJ REsp 913.131/BA, Rel. Ministro CARLOS FERNANDO MATHIAS (JUIZ FEDERAL CONVOCADO DO TRF 1a REGIÃO), QUARTA TURMA, julgado em 16/09/2008, DJe 06/10/2008).
+Sopesando tais critérios e considerando as peculiaridades do caso concreto, que trata de inscrição indevida em órgãos de restrição ao crédito, entendo como necessário e suficiente à reparação pelo dano moral a condenação no valor de R$ 10.000,00 (dez mil reais), o qual se mostra adequado, sem que importe em enriquecimento ilícito da parte Recorrente e com suficiente carga punitiva pedagógica para evitar nova ocorrência de atos desta natureza.
+Conforme regra do art. 932, V, “a” do CPC, o Relator pode, monocraticamente, dar provimento ao recurso para reformar decisão que esteja em confronto com a jurisprudência dos Tribunais Superiores.
+“Art. 932. Incumbe ao relator:
+(...)
+V - depois de facultada a apresentação de contrarrazões, dar provimento ao recurso se a decisão recorrida for contrária a:
+a) súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do próprio tribunal;”
+Não diferente, a Súmula n.o 02 desta E. Turma Recursal de Mato Grosso também autoriza o provimento pelo Relator, monocraticamente, do recurso que impugna decisão que esteja em desacordo com a jurisprudência dominante do respectivo Tribunal.
+SÚMULA 02: O relator, em decisão monocrática, poderá dar provimento a recurso se a sentença estiver em manifesto confronto com súmula ou jurisprudência dominante de Tribunal Superior ou da Turma Recursal Única, cabendo recurso interno para a turma recursal, no prazo de cinco dias.
+Posto isso, CONHEÇO o recurso interposto por INUBIA FERNANDA SANCHES MARTINS, ante a sua tempestividade e, no mérito, DOU-LHE PROVIMENTO, monocraticamente, para declarar inexistente o débito discutido nos autos e condenar a empresa Recorrida TELEFÔNICA S/A ao pagamento de indenização por danos morais no valor de R$ 10.000,00 (dez mil reais).
+Este valor deverá ser corrigido monetariamente pelo índice INPC/IBGE, a partir desta data, e acrescido de juros moratórios de 1% (um ponto percentual) ao mês, a partir da data do evento danoso (disponibilização da inscrição).
+Sem custas e sem honorários advocatícios, em razão do resultado do julgamento, nos termos do que dispõe o artigo 55, caput, da Lei no 9.099/95.
+Preclusa a via recursal, devolva-se o feito à comarca de origem.
+LAMISSE RODER FEGURI ALVES CORRÊA
+JUÍZA DE DIREITO - RELATORA
+[1] CAVALIERI FILHO, Sergio. Programa de Responsabilidade Civil. 10. ed. rev. e ampl.– São Paulo: Ed. Atlas, 2008. p. 103-105.
