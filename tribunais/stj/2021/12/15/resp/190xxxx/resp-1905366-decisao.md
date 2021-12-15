@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloESTADO DE MATO GROSSO DO SUL, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SULassim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - PRELIMINAR DE CERCEAMENTO DE DEFESA - REJEITADA - MÉRITO - CURSO TÉCNICO EM AGRONEGÓCIO OFERECIDO POR ESCOLA ESTADUAL - NÃO RECONHECIMENTO DO CURSO PELO ÓRGÃO CLASSE - CREA/MS - IMPOSSIBILIDADE DE EXPEDIÇÃO DE CARTEIRA PROFISSIONAL AOS EGRESSOS - IMPEDIMENTO AO EXERCÍCIO DA ATIVIDADE - AUSÊNCIA DE INFORMAÇÃO NO EDITAL QUANTO AO REGISTRO DO CURSO JUNTO AO CREA/MS - OMISSÃO DO ENTE PÚBLICO - RESPONSABILIDADE SUBJETIVA - DANOS MORAIS CONFIGURADOS - QUANTUM INDENIZATÓRIO. FIXAÇÃO DENTRO DOS CRITÉRIOS DA PROPORCIONALIDADE E RAZOABILIDADE - JUROS DE MORA E CORREÇÃO MONETÁRIA - APLICAÇÃO DA LEI N 11.960/2009 QUE DEU NOVA REDAÇÃO AO 1º-F DA LEI 9.494/97 - DANOS MATERIAIS - AUSÊNCIA DE COMPROVAÇÃO - ÔNUS AUTOR - ART. 333, I, DO CPC - PREQUESTIONAMENTO - RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 356-361).
+O recorrente defende, em síntese, a aplicabilidade da TR para correção monetária de todas as condenações contra a Fazenda havidas após 29/6/2009 (arts. 1º-F da Lei n. 9.497/1997).
+Apresentadas contrarrazões (e-STJ, fls. 378-384), o recurso especial foi admitido na origem, após juízo negativo de retratação (e-STJ, fls. 516-518).
+Processo com preferência legal (art. 12, § 2º, VII, do CPC/15, c/c a Meta 2/CNJ/2021- "Identificar e julgar, até 31/12/2021, 99% dos processos distribuídos até 31/12/2016e 95% dos distribuídos em 2017").
+É o relatório.
+Esta Corte fixou a seguinte orientação vinculante sobre a matéria (grifei):
+Tese 905/STJ
+1. Correção monetária:  ..  1.2 Não cabimento de modulação dos efeitos da decisão. A modulação dos efeitos da decisão que declarou inconstitucional a atualização monetária dos débitos da Fazenda Pública com base no índice oficial de remuneração da caderneta de poupança, no âmbito do Supremo Tribunal Federal, objetivou reconhecer a validade dos precatórios expedidos ou pagos até 25 de março de 2015, impedindo, desse modo, a rediscussão do débito baseada na aplicação de índices diversos. Assim, mostra-se descabida a modulação em relação aos casos em que não ocorreu expedição ou pagamento de precatório.  ..
+3. Índices aplicáveis a depender da natureza da condenação.
+3.1 Condenações judiciais de natureza administrativa em geral. As condenações judiciais de natureza administrativa em geral, sujeitam-se aos seguintes encargos: (a) até dezembro/2002: juros de mora de 0,5% ao mês; correção monetária de acordo com os índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) no período posterior à vigência do CC/2002 e anterior à vigência da Lei 11.960/2009: juros de mora correspondentes à taxa Selic, vedada a cumulação com qualquer outro índice; (c) período posterior à vigência da Lei 11.960/2009: juros de mora segundo o índice de remuneração da caderneta de poupança; correção monetária com base no IPCA-E.
+Como se evidencia, houve, na verdade, equívoco no juízo de adequação pela Presidência da Corte local, conquanto o acórdão recorrido encontra-se convergente com a tese vinculante deste Tribunal. Extrai-se o seguinte excerto do acórdão de retratação (e-STJ, fl. 480):
+Nesse cenário, no caso em apreço adota-se o IPCA-E para atualização dos débitos judiciais das Fazendas Públicas, afastando a possibilidade de utilização da TR. Consequentemente, o acórdão não deve ser retificado já que aplicou o IPCA-E durante todo o período da condenação imposta.
+Portanto, incidiria o inciso I do art. 1.040 do CPC/2015, não o inciso II. Ademais, deve-se consignar que mesmo na hipótese do inciso II, será ainda necessário o exame pleno dos pressupostos de admissibilidade recursal pela origem, nos termos do § 2º do artigo 1.041. Transcrevo as normas aludidas (grifei):
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+ ..
+Art. 1.041. Mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º.
+ ..
+§ 2º Quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
