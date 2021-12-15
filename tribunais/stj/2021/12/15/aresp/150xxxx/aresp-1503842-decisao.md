@@ -1,0 +1,21 @@
+DECISÃO
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. ALEGAÇÃO DE FALTA DE INTERESSE PROCESSUAL. ART. 485, VI, DO CPC/2015. FALTA DE PREQUESTIONAMENTO. 211/STJ.AGRAVO CONHECIDO PARANÃO CONHECER DORECURSO ESPECIAL DA SOCIEDADE EMPRESÁRIA.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto pela PETROBRAS DISTRIBUIDORA S.A., com fundamento no art. 105, inciso III, alíneaa,da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL - DIREITO ADMINISTRATIVO -CONCURSO PÚBLICO - ENGENHEIRO MECÂNICO JUNIOR - PETROBRÁS - AUTOR CLASSIFICADO FORA DO NÚMERO DE VAGAS PREVISTO NO EDITAL -
+CADASTRO DE RESERVA - PRETERIÇÃO COMPROVADA -SENTENÇA DE TOTAL PROCEDÊNCIA, PROFERIDA SOB A ÉGIDE DO CPC/2015
+-ALEGAÇÃO AUTORAL DE PRETERIÇÃO EM DECORRÊNCIA DA CONTRATAÇÃO DE TERCEIRIZADOS PARA EXERCÍCIO DO CARGO PARA O QUAL FOI APROVADO - FATOS COMPROVADOS
+-RAZÕES DE APELO DA EMPRESA RÉ - DIREITO SUBJETIVO À ADMISSÃO APENAS PARA CANDIDATOS APROVADOS NO LIMITE DAS VAGAS EXISTENTES - CONTRATAÇÕES ILEGAIS NÃO COMPROVADAS - RESSALVADAS AS HIPÓTESES DE ILEGALIDADE, SÃO INSUSCETÍVEIS DE CONTROLE PELO PODER JUDICIÁRIO AS RAZÕES EM QUE SE ESTRIBAM AS DECISÕES DE GESTÃO DA PETROBRAS, COMO A QUE DEFINE OS QUANTITATIVOS E O MOMENTO DE CONTRATAÇÃO DE PESSOAL -IMPROCEDÊNCIA
+-OS CANDIDATOS APROVADOS E CLASSIFICADOS FORA DO NÚMERO DE VAGAS NÃO POSSUEM DIREITO SUBJETIVO DE SEREM NOMEADOS, MAS MERA EXPECTATIVA DE DIREITO, QUE SE CONVOLA EM DIREITO LÍQUIDO E CERTO QUANDO HÁ A COMPROVAÇÃO DA NECESSIDADE DE PREENCHIMENTO DE VAGA, O QUE SE PERFAZ MEDIANTE A CONTRATAÇÃO TEMPORÁRIA REITERADA DE PESSOAL OU A TERCEIRIZAÇÃO DO EXERCÍCIO DAS RESPECTIVAS FUNÇÕES, EM DETRIMENTO DA EXISTÊNCIA DE CANDIDATOS APROVADOS EM CONCURSO, EM NÚMERO IGUAL OU SUPERIOR AO DA CLASSIFICAÇÃO DOS AUTORES NO CERTAME
+-HONORÁRIOS RECURSAIS. ART. 85, CAPUT, §§ 1º E 11, DO CPC - APRESENTAÇÃO DE CONTRARRAZÕES PELO RECORRIDO - MAJORAÇÃO DA VERBA SUCUMBENCIAL FIXADA NA ORIGEM.
+NEGA-SE PROVIMENTO AO RECURSO (fl. 3.806/3.816).
+2. Os embargos de declaração opostos foram rejeitados (fls. 3.826/3.829).
+2. Nasrazões do seurecurso especial (fls. 3.831/3.837), a parte agravante sustenta violação doart. 485, VI,do CPC/2015.Argumenta, em suma, que faltainteresse processual da parte ora agravada em participar de processo seletivo encerrado, no qual fora aprovado fora das vagas existentes para cadastro de reserva.
+3. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 3.846/3.870).
+4. Sobreveio o juízo de admissibilidade negativo(fls. 745/746),fundadona incidência das Súmulas 7 e 83 do STJ; razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8. No mais, aalegação de violação do art. 485, VI, do CPC/2015não é suficiente para se ter a questão de direito como prequestionada, instituto que, para sua caracterização, demanda, além da alegação, a discussão e apreciação judicial pelo tribunal de origem. Com efeito, a jurisprudência desta Corte Superior considera que a ausência de enfrentamento pelo tribunal de origem da matéria impugnada, objeto do recurso excepcional, não obstante interposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+9. Em face do exposto, conheço do agravo para não conhecer do recurso especial da sociedade empresária.
+10. Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+11. Publique-se. Intimem-se.
