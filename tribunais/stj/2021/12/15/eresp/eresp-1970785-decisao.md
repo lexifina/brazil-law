@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRS assim ementado (e-STJ fls. 264/265):
+APELAÇÕES CÍVEIS. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. CONTRATOS DE MÚTUO FIRMADOS COM A FUNDAÇÃO CORSAN. PRESCRIÇÃO. PRAZO DECENAL. HIPÓTESE EM QUE ESTÁ DEMONSTRADA A OCORRÊNCIA DE SUCESSÃO NEGOCIAL. ENTIDADE DE PREVIDÊNCIA PRIVADA. LEI COMPLEMENTAR 109/2001. VEDADA INCIDÊNCIA DE JUROS SUPERIORES A 12% AO ANO. PROIBIDA A CAPITALIZAÇÃO MENSAL DE JUROS NÃO CONTRATADA. COMPENSAÇÃO DO INDÉBITO/REPETIÇÃO DE VALORES. POSSIBILIDADE. REDIMENSIONAMENTO DA SUCUMBÊNCIA.
+1. No que tange à prescrição, incide sobre a ação revisional o prazo prescricional de dez anos previsto no artigo 205 do Código Civil, cujo termo inicial é a data de vencimento do instrumento contratual ou a data do último pagamento realizado.Ainda, na hipótese em exame, os demonstrativos analíticos de empréstimo evidenciam que, de fato, houve sucessão negocial. Nesse contexto, não há prescrição a ser reconhecida.
+2. Tratando-se de entidade de previdência privada fechada, a requerida não pode se valer das disposições legais que regem os contratos firmados com instituições financeiras, motivo pelo qual não pode estipular juros livremente em seus contratos, devendo observar os limites estabelecidos na Lei de Usura (Dec. 22.626/33), cujo art.1º veda a cobrança de juros superiores a 12% ao ano. Ademais, desde a entrada em vigor Lei Complementar nº 109/2001, como entidade de previdência privada fechada que é, não mais poderia conceder empréstimos aos seus associados. Assim, tendo sido concedido o empréstimo nessas condições, o contrato firmado entre as partes deverá ser avaliado como se mútuo entre particulares fosse, mediante limitação dos juros no patamar de 12% ao ano.
+3. Outrossim, na hipótese dos autos, os demonstrativos analíticos de empréstimo colacionados sinalizam a prática de capitalização mensal, que deve ser afastada ante a proibição do 591 do Código Civil.
+4. A jurisprudência do STJ está consolidada no sentido de admitir a compensação de valores e a repetição do indébito sempre que constatada cobrança indevida do encargo exigido, sem que, para tanto, haja necessidade de ser comprovado erro no pagamento, a fim de ser evitado o enriquecimento ilícito da parte beneficiada.
+5. Diante da solução endereçada em âmbito recursal, cabível o redimensionamento da sucumbência, bem como a readequação dos honorários sucumbenciais.
+RECURSO DE APELAÇÃO DA RÉ DESPROVIDO. RECURSO DE APELAÇÃO DO AUTOR PROVIDO.
+Os embargos de declaração foram rejeitados(e-STJ fls. 288/292).
+Nas razões recursais (e-STJ fls. 298/310), fundamentadas no art. 105, III, "a" e "c", da CF, arecorrenteaponta dissídio jurisprudencial e ofensa aoart. 205 do CC, sustentando, em síntese, que "o prazo prescricional aplicável para cada um dos contratos deve ser contado a partir da assinatura de cada pacto e não do vencimento ordinário da avença ou do último pagamento realizado, como entendido, em lapso, na r. decisão recorrida, como se a existência de repactuações contratuais tivesse o condão de modificar o marco inicial à contagem do termo prescricional" (e-STJ fl. 303).
+Foram apresentadas contrarrazões (e-STJ fls. 326/346).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Com efeito, oacórdão recorrido rejeitou a alegação de prescrição sob o entendimento de que, como houve novação contratual, o termo inicial para a contagem do prazo é a data do vencimento do instrumento contratual ou do último pagamento realizado, salientando que, "como a contratação mais recente foi celebrada em 2011, com último vencimento em abril de 2016, evidente que não há prescrição a ser reconhecida, eis que o ajuizamento da ação (em 20/11/2019) respeitou o prazo decenal aplicável" (e-STJ fl. 260).
+Tal entendimento, no entanto, está em desacordo com a jurisprudência do STJ, segundo a qual o termo inicial do prazo prescricional, na hipótese em que o mutuário pretende rever cláusulas de contrato de empréstimo pessoal, é a data da assinatura de cada contrato. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE MÚTUO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ASSINATURA DO AJUSTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme entendimento desta Corte Superior, o termo inicial do prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Precedentes.
+2. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1917613/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/06/2021, DJe 21/06/2021.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE CONTRATO DE MÚTUO. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. EXIGÊNCIA DO ART. 1.021, § 1º, DO CPC/2015 NÃO ATENDIDA. 2. PRAZO PRESCRICIONAL DECENAL. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. 3. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. 4. MULTA DO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. 5. AGRAVO IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do Código de Processo Civil de 2015, cabe à parte agravante, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. A ausência de fundamentos válidos para impugnar a decisão proferida no agravo em recurso especial impõe o não conhecimento do recurso.
+2. Com efeito, a jurisprudência desta Corte Superior se firmou no sentido de ser aplicável às ações revisionais de contrato bancário o prazo prescricional vintenário na vigência do CC/1916, ou o decenal, quando vigente o CC/2002.
+2.1. De fato, segundo entendimento jurisprudencial do STJ, o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato.
+3. Os julgados supostamente divergentes não guardam similitude fática com o acórdão recorrido.
+4. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não verificada a manifesta inadmissibilidade ou improcedência do pedido.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1717411/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/03/2021, DJe 17/03/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. MÚTUO BANCÁRIO.PRESCRIÇÃO. TERMO A QUO. DATA DA ASSINATURA DO AJUSTE.
+1. Ação revisional de contrato.
+2. O termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Súmula 568/STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1897309/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/03/2021, DJe 18/03/2021.)
+No entanto, considerando que não cabe ao STJ reexaminar provas, não é possível prosseguir no exame daprescrição no caso concreto. Nesse contexto, afigura-se necessária a remessa dos autos à origempara que a Corte local, à luz do entendimento desta Corte, prossiga no exame da matéria.
+Ante o exposto, DOU PROVIMENTO ao recurso especiala fim de determinar o retorno dos autos ao TJRS, para reapreciar a tese deprescriçãoà luz do entendimento deste Tribunal.
+Publique-se e intimem-se.
