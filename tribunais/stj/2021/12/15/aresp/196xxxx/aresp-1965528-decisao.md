@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou admissão a recurso especial interposto pelo Estado do Tocantins, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Tocantins, assim ementado: (fls. 177-178)
+APELAÇÃO CÍVEL. REPOSIÇÃO SALARIAL. MILITARES. REVISÃO GERAL ANUAL DE 4,68%. LEI ESTADUAL Nº2.426/2011. DÉBITO TRANSFORMADO NA LEI ESTADUAL Nº2.984/2015. PREVISÃO LEGAL. ACORDO ENTABULADO. PAGAMENTO DA DÍVIDA EM 16 PARCELAS. TESE DE PRESCRIÇÃO. PREJUDICIAL DE MÉRITO AFASTADA. ALEGAÇÃO DE AUSÊNCIA DE DIREITO À DIFERENÇA SALARIAL ORA RECLAMADA. NÃO COMPROVAÇÃO. LIMITAÇÃO TEMPORAL E IMPUGNAÇÃO AO VALOR DA CAUSA. PEDIDOS REJEITADOS. CORREÇÃO MONETÁRIA. INICIO DESDE A DATA DO INADIMPLMENTO (RE 870947). JUROS. ART. 1º-F, DA LEI 9.494/97. RECURSO CONHECIDO E IMPROVIDO.
+1- Considerando-se que a ação foi proposta dentro do prazo prescricional de 5 anos, contagem esta que teve início a partir de agosto de 2015 (data início do inadimplemento do acordo), ou seja, sem configurar uma continuidade ou retomada de prazo, sem qualquer suspensão ou interrupção da prescrição, não há como dizer que ocorrera à prescrição alegada pelo apelante.
+2- Restando pendente diferença salarial inadimplida pelo contratante, é direito do servidor público estadual o recebimento da mesma, cabendo, assim, ao ente público adotar as medidas pertinentes a fim de concretizar os direitos subjetivos do servidor público, consubstanciados na concessão de vantagens funcionais asseguradas por lei (no caso, Lei Estadual nº 2.426/2011c/c Medida Provisória nº 33/2015), de caráter eminentemente alimentar.
+3- O Estado do Tocantins não trouxe qualquer comprovação do efetivo pagamento da diferença salarial, ora reclamada, uma vez que as leis estaduais por ele citadas (Lei 2.328/2010 - dispõe sobreo Realinhamento e o Reescalonamento dos Cargos da Polícia Militar; Lei 2.823/2013 - dispõe sobre a Carreira e Subsídio dos Policiais Militares), nada dispõe a respeito do objeto da presente demanda, não logrando o recorrente, portanto, êxito em cumprir o disposto no art. 373, II, do CPC/2015.
+4- No que tange a limitação temporal, observo que não merece acolhimento, haja vista que o débito foi transformado em lei em data posterior ao lapso temporal apresentado pela recorrente, ou seja, em 2015, consoante a Lei Estadual nº 2.984.
+5- Rejeito a impugnação ao valor da causa, para apresentação do numerário apenas em sede de cumprimento de sentença, eisque "toda causa será atribuído valor certo, ainda que não tenha conteúdo econômico imediatamente aferível", com fulcro no art.291 do NCPC.
+6- Em relação o termo inicial de juros e correção monetária, correta foi a sentença singular, devendo os valores ser corrigidos monetariamente pelo IPCA-E, nos termos do (RE) 870947, desde a data em que a verba deveria ter sido ser paga a verba devida ao recorrido, e com juros de mora calculados conforme índices aplicáveis à caderneta de poupança, nos termos do art. 1.º-F, da Lei n.º 9.494/97 (desde a citação válida).
+7- Recurso conhecido e improvido.
+8- Sentença mantida.
+A demanda tem origem em ação de cobrança ajuizada por VITOR GONÇALVES FERREIRA contra a parte ora recorrente, objetivando o pagamento de quatorze parcelas relativas à reposição salarial e tidas por não adimplidas.
+Valor dado à causa: R$ 4.968,88 (quatro mil, novecentos e sessenta e oito reais e oitenta e oito centavos), em março de 2020.
+Os embargos de declaração opostos foram improvidos.
+Nas razões do recurso especial, alega-se violação dos artigos 1º e 9º do Decreto n. 20.910/32, sustentando-se, em síntese, que:
+(..) nota-se que a presente ação foi proposta muito tempo depois desse prazo final, razão pela qual deveria ter sido reconhecida a prescrição da pretensão autoral. Ao deixar de fazê-lo, o Tribunal de Justiça do Estado do Tocantins violou frontalmente o disposto nos arts. 1º e 9º do Decreto 20.910/32. (fl. 239)
+Foram apresentadas contrarrazões pela inadmissão do recurso.
+A decisão de inadmissibilidade do recurso especial fundou-se nas Súmulas 7/STJ e 280/STF.
+O agravo apresenta argumentos que visam infirmar o fundamento da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2.016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Estadual n. 2.426/2011, dentre outras normas estaduais, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: Por ofensa a direito local não cabe recurso extraordinário.
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. ANÁLISE. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 85 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Infirmar as razões do apelo nobre, a fim de acolher a tese de ofensa do art 2º da Lei 9.784/1999, encontra óbice na Súmula 7 do STJ.
+5. É deficiente de fundamentação alegação de tese recursal genérica e deficiente. Incidência da Súmula 284 do STF.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de atender os requisitos necessários para sua comprovação.
+7. Agravo interno desprovido
+(AgInt no REsp 1690029/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/09/2020, DJe 16/09/2020)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
