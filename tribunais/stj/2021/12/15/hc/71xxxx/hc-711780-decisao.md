@@ -1,0 +1,36 @@
+DECISÃO
+No Processo n. 0002751-62.2019.8.12.0008, o Juízo da Vara de Execução Penal do Interior da comarca de Campo Grandeconverteu a pena restritiva de direitos deMarco Antonio de Oliveiraem privativa de liberdade, considerando a existência de pena ativa anteriorcom cumprimento em regime fechado.
+Ao agravo de execução penal interposto pela defesa,o Tribunal de Justiça de Mato Grossodo Sul negou provimento, nos termos desta ementa (fl. 267):
+EMENTA - AGRAVO DE EXECUÇÃO PENAL - SUPERVENIÊNCIA DE NOVA CONDENAÇÃO A PENA PRIVATIVA DE LIBERDADE - RECONVERSÃO DA PENA RESTRITIVA DE DIREITOS EM PRIVATIVA DE LIBERDADE - INCOMPATIBILIDADE COM CUMPRIMENTO DA PENA ALTERNATIVA COM A ANTERIORMENTE IMPOSTA - NÃO PROVIMENTO.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, "no caso de nova condenação a penas restritivas de direito a quem esteja cumprindo pena privativa de liberdade em regime fechado ou semiaberto, é inviável a suspensão do cumprimento daquelas - ou a execução simultânea das penas. Nesses casos, as penas restritivas de direito devem ser convertidas em sanção privativa de liberdade, unificando-se as reprimendas, nos termos dos arts. 181 e 111 da Lei de Execução Penal, respectivamente, não sendo aplicável o art. 76 do Código Penal." (HC 400.480/RS, Rel.Min. Félix Fischer, 5ª Turma, DJe 21/9/2017).
+Recurso não provido, com o parecer.
+Sobreveio, então, estewrit, em que a Defensoria Pública argumenta quea reconversãotem lugar quando a condenação por pena em regime mais gravoso se dá POSTERIORMENTE àquela que se encontra o reeducando, que não era o caso dos autos, onde a situação era inversa, já que o Paciente estava cumprindo pena reclusiva em regime fechado quando sobreveio a nova condenação, com substituição da pena corporal por restritiva de direitos(fl. 7).
+Aduz a impetrante quenão há impedimento que o ora Paciente dê início ao cumprimento da pena restritiva de direito após sua progressão para um regime mais brando, porquanto dispõe o artigo 76 do Código Penal que a execução das penas sempre terá início pelo cumprimento das penas mais graves(fl. 10).
+Busca a concessão liminar da ordem para que seja determinada a retificação do cálculo de pena com aplicação da regra da prevalência, determinando-se: primeiro, o cumprimento da pena privativa de liberdade, por ser a mais grave, suspendendo-se o cumprimento da pena restritiva de direito para cumprimento em momento posterior (fl. 15).
+É o relatório.
+No caso, a Cortea quodecidiu nos exatos termos da nossa jurisprudência. Quer dizer, não há falar em flagrante ilegalidade a ser reparada no momento.
+Com efeito, firmou-seaquio entendimento de que, independentemente de a condenação à pena restritiva de direitos ser anterior ou posterior à sanção privativa de liberdade, o único critério utilizável para manter a pena substitutiva é a compatibilidade de cumprimento simultâneo das reprimendas, quando da unificação (HC n. 328.923/SP, Ministro Gurgel de Faria, Quinta Turma, DJe 9/12/2015).
+Nessa linha, confiram-se:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. IMPOSSIBILIDADE DE CUMPRIMENTO SIMULTÂNEO DE PENA RESTRITIVA DE DIREITOS E PRIVATIVA DE LIBERDADE EM REGIME FECHADO. RECONVERSÃO. POSSIBILIDADE. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal -STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A superveniência de nova condenação que impossibilite o cumprimento simultâneo das reprimendas, independentemente de a condenação à pena restritiva de direitos ser anterior ou posterior à privativa de liberdade, justifica a reconversão daquela e a consequente unificação, nos termos do art. 111 da Lei n. 7.210/84.
+3. Habeas corpus não conhecido.
+(HC n. 696.993/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/10/2021 - grifo nosso)
+AGRAVO REGIMENTAL. HABEAS CORPUS INDEFERIDO LIMINARMENTE. EXECUÇÃO PENAL. PACIENTE QUE CUMPRIA PENA PRIVATIVA DE LIBERDADE EM REGIME SEMIABERTO. NOVA CONDENAÇÃO A SANÇÕES ALTERNATIVAS. CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE. UNIFICAÇÃO DAS PENAS (ARTS. 76 E 111 DO CP E ART. 181, § 1º DA LEP). INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. ENTENDIMENTO CONSOLIDADO. DECISÃO MONOCRÁTICA. ADMISSIBILIDADE.
+1. Inexiste violação ao princípio da colegialidade, a teor do art. 34, XX, do RISTJ, quando a decisão monocrática for proferida com base na jurisprudência dominante do Superior Tribunal de Justiça.
+2. É pacífico o entendimento desta Corte segundo o qual, havendo nova condenação no curso da execução e não sendo compatível o cumprimento concomitante da reprimenda restritiva de direitos com a privativa de liberdade anteriormente imposta, faz-se necessária a unificação das penas (art. 181, § 1º, e, da LEP e art. 44, § 5º, do CP).
+3. Agravo regimental improvido.
+(AgRg no HC n. 381.235/MG, de minha relatoria, Sexta Turma, DJe 27/3/2018 - grifo nosso)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. APENADO EM REGIME FECHADO. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO COM PENA RESTRITIVA DE DIREITOS. INCOMPATIBILIDADE E IMPOSSIBILIDADE DE CUMPRIMENTO SIMULTÂNEO. RECONVERSÃO.
+1. É assente neste Superior Tribunal de Justiça o entendimento de que, quando sobrevier nova condenação que, não sendo suspensa, tornar incompatível o cumprimento da pena restritiva de direitos com a pena privativa da liberdade, posterior ou anterior, deve-se reconverter a pena substitutiva em reprimenda corporal (art. 181, § 1º, alínea "e", da LEP, c/c artigo 44, § 5º, do Código Penal).
+2. Agravo regimental improvido. (AgRg no REsp n. 1.610.082/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 1º/9/2016 - grifo nosso)
+PENAL E EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. PACIENTE QUE CUMPRE PENA PRIVATIVA DE LIBERDADE EM REGIME SEMIABERTO. NOVA CONDENAÇÃO A SANÇÕES RESTRITIVAS DE DIREITO. IMPOSSIBILIDADE DE CUMPRIMENTO CONCOMITANTE OU DE SUSPENSÃO DAS PENAS ALTERNATIVAS. CONVERSÃO DAS PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DE LIBERDADE QUE SE IMPÕE. NECESSIDADE DE UNIFICAÇÃO DAS PENAS. INTERPRETAÇÃO DOS ARTS. 76 E 111 DO CÓDIGO PENAL E DO ART. 181, § 1º DA LEP. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - Esta Corte pacificou entendimento no sentido de que, no caso de nova condenação a penas restritivas de direito a quem esteja cumprindo pena privativa de liberdade em regime fechado ou intermediário, é inviável a suspensão do cumprimento daquelas - ou a execução simultânea das penas. Nesses casos, nos termos do art. 111 da LEP, deve-se proceder à unificação das penas, não sendo aplicável o art. 76 do Código Penal.
+Habeas Corpus não conhecido.
+(HC n. 346.851/RS, Ministro Felix Fischer, Quinta Turma, DJe 5/5/2016)
+À vista do exposto,indefiro liminarmenteowrit,nos termos do art. 210 do RISTJ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. CONVERSÃO DA REPRIMENDA RESTRITIVA DE DIREITOS. VIABILIDADE. ANTERIOR PENA PRIVATIVA DE LIBERDADE EM REGIME FECHADO. INCOMPATIBILIDADE PARA O CUMPRIMENTO SIMULTÂNEO. PRECEDENTES DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writindeferido liminarmente.
