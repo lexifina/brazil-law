@@ -1,0 +1,10 @@
+DECISÃO
+Às fls. 125-479, a defesa esclarece que o pedido de concessão do regime aberto ou de prisão domiciliar à pacienteainda não foi apreciado pelo Juízo de primeiro grau.
+Apresenta documentos e postula a reconsideração dodecisumde fls. 123-124.
+Diante da juntada das peças faltantes,conheço do habeas corpus.
+Tal como assevera a defesa na inicial destewrite na petição de fls. 125-126, trata-se desituação grave e que demanda análise com urgência. Isso porque a paciente- presa em 13/11/2021 para o início do cumprimento da pena, em regime semiaberto, decorrente de condenação por crime de roubo, já transitada em julgado- é portadora do vírus HIV,está no terceiro trimestre de gravidez e tem outros dois filhos, um com 7 anos e outra com 12 anos, conforme documentação anexada aos autos.
+Assim, épremente que o pleito de conversão da pena em regime aberto ou prisão domiciliar seja prontamente examinado. Todavia, ainda não foi proferida decisão sobre o tema pelo Juízo de primeiro grau, tampouco pelo órgão colegiado da Corte estadual. Logo, verifica-se situação em que hádupla supressão de instância, o que obsta o exame do tema diretamente neste feito.
+Os documentos apresentados pela defesa dão conta de que até o momentonão houve manifestação do Ministério Público, na origem, sobre o pedido, embora haja sido intimado em duas oportunidades para tanto (em 17/11/2021 e em 7/12/2021, respectivamente às fls. 468-469 e 476-478).Desse modo, considero cabível a determinação, ao Juízo singular, para que aprecie o pedido da defesa em até 48 horas, independentemente de manifestação ministerial no sobre a matéria, dada a urgência da situação narrada nos autos.
+À vista do exposto, reconsidero a decisão de fls. 123-124 econcedo a ordem,in limine, para determinar ao Juízo de primeiro grau que aprecie o pleito defensivo em até 48 horas, independentemente de manifestação do Ministério Público sobre a questão.
+Comunique-se,com urgência, o inteiro teor destedecisumàs instâncias ordinárias.
+Publique-se e intimem-se.
