@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por MAYARA SILVA SOUZA, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará assim ementado (fl. 231):
+APELAÇÃO CÍVEL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA EXARADA EM MANDADODE SEGURANÇA COLETIVO. REAJUSTE SALARIAL DETERMINADO POR DECISÃOJUDICIAL QUE ABRANGE TODOS OS SERVIDORES PÚBLICOS MUNICIPAIS EFETIVOS DE PARAUAPEBAS À ÉPOCA. ILEGITIMIDADE ATIVA DA PARTE APELANTE. SERVIDORA PÚBLICA ESTÁVEL QUE INGRESSOU NO QUADRO MUNICIPAL PERMANENTE A PARTIRDE 2015, APÓS O LITÍGIO JUDICIAL. ENTENDIMENTO ASSENTE NO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO DA SÚMULA VINCULANTE Nº 37 DO STF. RECURSO CONHECIDO E DESPROVIDO, À UNANIMIDADE.
+Na origem, a parte ora recorrente requereu o cumprimento individual de sentença proferida em mandado de segurança coletivo (reajuste da base salarial do servidores públicos) contra o MUNICÍPIO DE PARAUAPEBAS pleiteando, em suma, o "pagamento do débito, no prazo legal, com juros e correção monetária". (fl. 11)
+Valor dado à causa: R$ 10.861,33 (dez mil, oitocentos e sessenta e um reais e trinta e três centavos), em setembro de 2019)
+Os embargos de declaração opostos foram desprovidos unânimamente.
+No presente recurso especial, aponta-se, além de divergência jurisprudencial, ofensa ao art. 22 da Lei n. 12.016/2009, sustentando-se, em síntese, que:
+(..) o Tribunal de Justiça do Estado do Pará contrariou o disposto no art. 22, da lei 12.016/2009, pois que restringiu a aplicabilidade de decisão proferida em Mandado de Segurança Coletivo, negando os efeitos do MSC à mesma. Há de se ponderar ainda, que a decisão do Tribunal de Justiça do Estado do Pará deu ao dispositivo supra citado, e à Sumula 37 do STF, interpretação divergente que lhe deu os demais tribunais pátrios (..) (fl. 316)
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Eis que o tribunal de origem fundamentou sua decisão também no artigo 37, X, da Constituição Federal, porém, a parte recorrente não interpôs Recurso Extraordinário. Ora, não é viável o recurso especial quando o irresignado não impugnar, através da via processual adequada, fundamento constitucional registrado no julgado combatido. Aplica-se, no caso, o teor da Súmula 126/STJ. Importante ressaltar que o referido enunciado não se confunde com a previsão contida no art. 1.032 do CPC/2015 que trata da hipótes do acórdão com fundamento unicamente constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
