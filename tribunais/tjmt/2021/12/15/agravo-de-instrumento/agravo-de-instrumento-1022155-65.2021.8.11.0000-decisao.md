@@ -1,0 +1,20 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1022155-65.2021.8.11.0000 - CLASSE 202 - CNJ - PRIMAVERA DO LESTE
+Agravante: ESPÓLIO DE VALDOMIRO GUENO
+Agravado: DU PONT DO BRASIL S.A.
+Número do Protocolo: 1022155-65.2021.8.11.0000
+Trata-se de recurso de AGRAVO DE INSTRUMENTO interposto pelo ESPÓLIO DE VALDOMIRO GUENO contra a decisão proferida pela MMa. Juíza de Direito da 3a Vara Cível da Comarca de Primavera do Leste/MT, que nos autos da ação de “Execução de Título Extrajudicial” (Proc. no 0001226-68.2008.8.11.0037- cód. 53607), ajuizada contra o agravante por DU PONT DO BRASIL S.A., indeferiu o pedido de suspensão da execução formulado pelo Espólio/agravante, por entender que “a habilitação do crédito nos autos do inventário constitui mera faculdade do credor, que pode optar pelo prosseguimento da execução autônoma” (cf. Id. no 112422450 - pág. 1/3).
+O agravante alega que a decisão agravada partiu de premissa equivocada ao determinar o prosseguimento da ação de execução, desconsiderando totalmente que a parte agravada já havia se habilitado nos autos de arrolamento de bens (Proc. no 0007829-74.2019.8.11.0037), buscando a satisfação do débito exequendo, situação que, à toda evidência, não pode prevalecer, eis que, permitirá que o credor/agravado utilize “concomitantemente dois meios para cobrar a dívida”.
+Prossegue dizendo que o credor/agravado foi intimado para apresentar cópia da matricula do imóvel penhorado nos autos da ação de execução para posterior avaliação e atos expropriatórios, sem, contudo, permitir que o devedor/agravante se manifestasse sobre o cálculo atualizado do débito “violando o Direito de Propriedade estabelecido constitucionalmente (...) não agindo de acordo com os parâmetros legais, doutrinários e jurisprudenciais que disciplinam seu elevado mister” (cf. Id. no 112414495 - pág. 6).
+Por tais razões, pede que o recurso seja provido, para que, desde já, seja sobrestado o trâmite da ação de execução (cf. Id. no 112414495 - pág. 9).
+É o breve relatório.
+Em análise inicial, os fundamentos recursais não convencem minimamente do desacerto técnico da decisão agravada, nem, por conseguinte, da probabilidade do direito alegado (CPC, art. 300), até porque o agravante apenas insiste em que a parte agravada já se habilitou nos autos de arrolamento de bens para a satisfação do débito exequendo, esquecendo-se de que a habilitação do crédito nos autos do inventário constitui mera faculdade do credor, que poderá optar pelo prosseguimento (ou não) da ação de execução.
+E no caso dos autos, há manifestação expressa do credor/agravado requerendo tanto o prosseguimento da ação de execução como também “a reavaliação do imóvel penhorado, e conseguinte os atos de expropriação”, ressaltando, ainda, que, “a informação deste crédito no inventário não é razão de suspensão desta execução”, apenas mantém resguardado no inventário “o direito da exequente de seguir com a execução e os atos de expropriação sobre o imóvel penhorado” (cf. Id. no 64064423).
+Portanto, a habilitação de crédito no processo de inventário é mera faculdade conferida ao credor, nos termos do art. 642, caput, do CPC, não trazendo qualquer prejuízo ao Espólio, na medida em que os herdeiros somente recebem a herança após a solução de todas as pendências com os credores.
+Pelo exposto, admito a interposição recursal tal como efetivada, de modo que recebo e autorizo o processamento do agravo de instrumento, mas INdefiro o pedido de antecipação da tutela recursal, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se a parte agravada, na forma do art. 1.019, II, do CPC, para que responda no prazo de 15 dias.
+Expeça-se o necessário.
+Cuiabá-MT, 15 de dezembro de 2021.
+Des. SEBASTIÃO BARBOSA FARIAS
+Relator em Substituição
