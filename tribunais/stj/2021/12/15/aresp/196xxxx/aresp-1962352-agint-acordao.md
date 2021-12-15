@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se de agravo interno interposto porFundação Forluminas de Seguridade Social - Forluz contra decisão desta relatoria assim ementada (e-STJ, fl. 782):
+AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE OBRIGAÇÃO DE FAZER. VERBAS DE CUSTEIO E DESPESAS ADMINISTRATIVAS. DESCONTOS. INEXIGIBILIDADE DECLARADA. DIREITO ADQUIRIDO RECONHECIDO. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA 126/STJ. INCIDÊNCIA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PREVIC. ATUAÇÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões recursais, aagravante alega que as questões que entende essenciais ao deslinde do feito não foram examinadas pelo acórdão recorrido(e-STJ, fl. 793).
+Sustenta ter demonstrado a necessidade de ser dado conhecimento à União da oneração ao pacto firmado com a PREVIC, atraindo, assim, a competência da Justiça Federal(e-STJ, fl. 794).
+Aduz que não há a incidência do entendimento disposto na Súmula 126/STJ, na medida em que "o acórdão alvo do Recurso Especial interposto pela Agravante fez uma pura e simples menção ao dispositivo constitucional que estabelece o respeito ao direito adquirido"(e-STJ, fl. 795).
+Foi apresentada impugnação (e-STJ, fls. 805-808).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. 1.PREVIDÊNCIA PRIVADA. DESCONTOS DE VERBAS. IMPEDIMENTO. DIREITO ADQUIRIDO. RECONHECIMENTO. 2. FUNDAMENTO CONSTITUCIONAL. EXISTÊNCIA. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. AUSÊNCIA. SÚMULA 126/STJ. APLICAÇÃO. 3.VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA.4.RAZÕES RECURSAIS INSUFICIENTES. 5.AGRAVO INTERNO IMPROVIDO.
+1.Possuindoo acórdão recorridotambém fundamento constitucional - o reconhecimento do direito adquirido à impossibilidade de serem realizados descontos nos proventos dos autores -e não tendo sidointerpostorecurso extraordinário, aplica-se, à espécie, o disposto no enunciado n. 126 da Súmula do Superior Tribunal de Justiça.
+2.Não se configuroua violação doart. 1.022 do CPC/2015, uma vez que o Tribunal estadual se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno a que se nega provimento.
+VOTO
+Os argumentos trazidos pela parte insurgente não são capazes de modificar as conclusões da decisão agravada.
+De fato, foi consignado que, além de ter se manifestado na apelação sobre os pontos principais da demanda - afastando a pretensão de deslocamento da competência de julgamento da ação para a Justiça Federal e a impossibilidade de ser invocado TAC que prevê, expressamente, a observância de direitos adquiridos -, ao julgar os embargos de declaração, o Tribunal estadual se expressou motivada e adequadamente, solucionando a controvérsia com a aplicação do direito que entendeu cabível, não havendo como afirmar que a Corte local não se pronunciou sobre o pleito da parte agravante, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+Assim sendo, conforme asseverado na decisão agravada,não ficou configurada a alegada ofensa ao art. 1.022 do CPC/2015, uma vez que a Corte local examinou, de maneira fundamentada e satisfatória, todas as questões submetidas à apreciação judicial na medida que entendeu necessária para o deslinde da controvérsia.
+Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todos os pontos suscitados pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito na hipótese.
+Relativamente à alegada competência da Justiça Federal, ficou bem claro que o entendimento adotado pelo Tribunal local está em consonância com a jurisprudência desta Corte Superior, na medida em que"aatuação meramente normativa e fiscalizadora da Secretaria de Previdência Complementar não gera, por si só, interesse jurídico em relação a lide entre particulares, de modo a atrair a presença da União como litisconsorte necessário" (AgInt no AREsp 1237479/SP, Rel. Ministro Lázaro Guimarães, Desembargador Convocado do TRF 5ª Região, Quarta Turma, julgado em 16/08/2018, DJe 22/08/2018).
+No caso, conforme consignado pelo acórdão, não há previsão legal que indique a necessidade de citação da PREVIC, pois, embora lhe caiba fiscalizar e controlar as atividades das entidades de previdência complementar, ela não possui relação direta sobre a controvérsia sub judice, que é de natureza contratual e eminentemente civil.
+Por sinal, como bem sabe a agravante, a própria PREVIC deixou de manifestar interesse no ingresso neste caso, porque, segundo consta do acórdão dos embargos de declaração, foi juntado documento que nem sequer se refere a este feito (e-STJ, fl. 691).
+Quanto à incidência da Súmula 126/STJ,a Corte estadual assim se manifestou, conforme, aliás, foi transcrito na decisão agravada(e-STJ, fls. 633-634):
+Extrai-se dos autos que os apelados são empregados aposentados da Cemig, admitidos em 1978, e se filiaram ao Plano BD de previdência privada da apelante no mesmo ano. Posteriormente, em 2004, os apelados receberam proposta de migração para um novo plano criado (Plano A), na qual foram informados de que, assim como no primeiro plano, não teriam que arcar com qualquer custeio administrativo. Os recorridos optaram pela adesão ao novo plano e, desde então, não sofriam nenhum tipo de desconto em seus respectivos proventos, isto é, permanecia a condição de ausência de paridade contributiva, ficando esta a cargo exclusivo das patrocinadoras (Companhia Energética de Minas Gerais, Cemig Distribuição S/A e Cemig Geração e Transmissão S/A). Não obstante, desde o ano de 2016, os apelados passaram a ter descontado em seus proventos não só valores relativos ao custeio mensal, mas, também, relativos ao custeio retroativo, em razão da celebração de um TAC da apelante com a PREVIC (Superintendência Nacional da Previdência Complementar).
+Ora, a Constituição Federal é muitoclara ao dispor sobre o dever de observância ao direito adquirido.
+É ver:
+"Art. 5º(..)XXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada;"
+Ademais, o próprio TAC celebrado prevê expressamente que (doc. 7):
+"CONSIDERANDO que o custeio administrativo dos planos de benefícios foi definido em negociações ocorridas entre a COMPROMISSÁRIA FORLUZ, as suas PATROCINADORAS e os participantes e assistidos, para fins de saldamento do antigo plano de benefício definido (BD), com a criação dos planos Saldado (A) e Misto (B), devendo ser observado o direito adquirido desses participantes e assistidos.
+Por conseguinte, muito ao contrário do que alega a agravante, não houve "pura e simples menção ao dispositivo constitucional".
+Para tanto, basta uma simples leitura da ementa do acórdão recorrido (e-STJ, fl. 629).
+Ficou bem claro e fundamentado que o desconto, implementado muitos anos depois da migração de plano ocorrida em 2014, descumpria o dever de observância ao direito adquirido e que o próprio TAC previa o acatamento a tal prerrogativa.
+Frise-se, por relevante, que a falta de interposição do recurso extraordinário, por si só, já seria bastante e suficiente para a inadmissão do recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
