@@ -1,0 +1,42 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloINSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃOassim ementado:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. MULTA ADMINISTRATIVAIBAMA RECORRENTE AMPARADA POR LIMINAR CONCEDIDA EM AÇÃO CIVIL PÚBLICA. AUTUAÇÃO INSUBSISTÊNCIA. RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 82-91).
+O recorrente defende, em síntese: i) vício de fundamentação acerca da revogação da liminar por desistência da ação e ausência de boa-fé (art. 535 do CPC/1973); e ii) impossibilidade de concessão de efeitos futuros definitivos a provimento liminar, que insubsistem após a desistência da ação (art. 273, § 2º, do CPC/1973).
+Apresentadas contrarrazões (e-STJ, fls. 110-120), o recurso especial foi admitido na origem (e-STJ, fl. 126).
+Processo com preferência legal (art. 12, § 2º, VII, do CPC/15, c/c a Meta 12/CNJ/2021 - "Identificar e julgar 40% dos processos relacionados às ações ambientais, distribuídos até 31/12/2020") e prioridade legal (art. 1.048, I, do CPC/2015, c/c o art. 71 da Lei n. 10.741/2003).
+É o relatório.
+Conforme o acórdão integrativo, a parte não suscitou as matérias aludidas nos aclaratórios em qualquer momento processual anterior, de modo a configurar-se inovação recursal. Transcrevo (e-STJ, fl. 86):
+O que ocorre, na verdade, é que o ora embargante não apresentou contrarrazões ao agravo de instrumento, utilizando-se dos embargos da declaração para suprir sua falta e atacando o mérito do recurso, sob a alegação de suposta omissão quanto à análise de questões que nunca trouxe aos presentes autos. Infere-se, portanto, que o IBAMA pretende inovar no feito, rediscutindo o tema sob um novo enfoque, o que é inadmissível em sede de embargos de declaração. Insta ressaltar que as questões que deixam de ser alegadas oportunamente não podem ser suscitadas em sede de embargos de declaração, justamente porque se não foram alegadas não há que se falar em omissão por parte do órgão jurisdicional.
+Entretanto, a matéria não só era o fundamento essencial da decisão agravada, como foi enfrentada diretamente pelo acórdão principal. Confira-se (e-STJ, fls. 63-67):
+O MM. Juiz de primeiro grau afastou a alegada nulidade da CDA com base nos seguintes fundamentos:
+ ..  Ocorre que, em consulta ao processo nº 20045101013217-2 pelo sistema processual Apolo, verifiquei que, de fato, houve a desistência da ação pela parte autora, que foi devidamente homologada por sentença, que extinguiu o processo sem resolução de mérito.
+Tal extinção da ação civil pública tornou sem efeito a referida medida liminar que obstava o auto de infração que fundamentou o processo administrativo e toda a presente execução fiscal. Logo, a referida sentença proferida no âmbito do processo nº 20045101013217-2, que tacitamente revogou a liminar, tem efeito ex tunc, retroagindo para o momento do auto de infração, fazendo com que este tenha plenos efeitos, inclusive sendo devidos os juros e multa moratórios, pelo não pagamento do tributo por parte da executada, pois a parte que se abriga nos efeitos de decisão liminar, assume os riscos de seu caráter precário.
+ .. Assim, no caso ora em exame, o fato é que, ao tempo da autuação, a recorrente encontrava-se amparada por liminar que a isentava do cumprimento da obrigação contida na Resolução nº 291/2001 do CONAMA. Não há como se cogitar o reconhecimento da infração regulamentar se, à época, a conduta da agravante estava chancelada por decisãojudicial. Entendimento em sentido contrário acabaria por esvaziar a eficácia do decisum proferido na ação coletiva.
+Assim, embora o fundamento de rejeição dos aclaratórios não subsista, o fato é que tampouco há a omissão alegada, na medida em que o acórdão principal tratou expressa e diretamente dos efeitos da liminar sobre a autuação.
+No mérito, tem razão a recorrente. A cessação de efeitos da liminar não confirmada pela sentença, por extinção do feito por desistência do autor, implica sua perda de eficáciaex tunc. Nesse sentido:
+ ..  XI - Verifica-se que a hipótese gravita em torno da importação de mercadoria vedada à importação, mas cuja importação foi autorizada por decisão judicial precária. Por se tratar de decisão provisória, ulterior cassação implica a perda de sua eficácia, com efeitos ex tunc, fazendo desaparecer a situação conferida provisoriamente pela decisão liminar, sob inteira responsabilidade de quem a requereu.
+Nesse sentido, confiram-se: (REsp n. 1.011.609/MG, relator Ministro Luiz Fux, Primeira Turma, julgado em 23/6/2009, DJe 6/8/2009 e AgRg no REsp n. 1.278.672/MG, relator Ministro Castro Meira, Segunda Turma, julgado em 13/12/2011, DJe 16/2/2012).
+XII - Agravo interno improvido.
+(AgInt no REsp 1737502/PE, relatorMinistro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/11/2020, DJe 25/11/2020).
+PROCESSUAL CIVIL E TRIBUTÁRIO. CPMF. LIMINAR EM AÇÃO CIVIL PÚBLICA.CASSAÇÃO. JUROS E MULTA DE MORA. INCIDÊNCIA.
+ ..  2. "Denegado o mandado de segurança pela sentença, ou no julgamento do agravo dela interposto, fica sem efeito a liminar concedida, retroagindo os efeitos da decisão contrária" (Súmula 405/STF).
+3. Agravo regimental não provido.
+(AgRg no REsp n. 1 278.672/MG, relator Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 13/12/2011, DJe de 16/2/2012).
+ ..  1. O STJ pacificou a orientação de que a suspensão de medida liminar possui efeitos retroativos, com o retorno da situação dos autos ao status quo ante. Assim, "denegado o mandado de segurança pela sentença, ou no julgamento do agravo dela interposto, fica sem efeito a liminar concedida, retroagindo os efeitos da decisão contrária" (Súmula 405/STF).
+ ..
+(REsp n.1.252.694/MG, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/6/2011, DJe de 31/8/2011).
+ ..  1. O provimento liminar, seja em sede de Mandado de Segurança, seja por via de antecipação de tutela ou ainda em ação civil pública, decorre sempre de um juízo provisório, passível de alteração a qualquer tempo, quer pelo próprio juiz prolator da decisão, quer pelo Tribunal ao qual encontra-se vinculado; a parte que se beneficia da medida acautelatória, fica sujeita à sua cassação, devendo arcar com os consectários decorrentes do atraso ocasionado pelo deferimento da medida, cuja cassação tem eficácia ex tunc.
+ ..
+(REsp n. 1.011.609/MG, relator Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 23/6/2009, DJe de 6/8/2009).
+ ..  3. Os efeitos da revogação da tutela antecipada devem ser suportados pela parte que a requereu, de modo que cassada a decisão, os efeitos retroagem, fazendo desconstituir a situação conferida de forma provisória. Em outras palavras, os efeitos são imediatos e ex tunc, impondo à parte beneficiada pela liminar o ônus de recompor o status quo anterior ao deferimento da medida. Aplicação, por analogia, da Súmula nº 405/STF.
+ ..
+(AgInt no AREsp n. 1.100.564/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/2/2018, DJe 26/2/2018).
+ ..  1. Caso em que decisum recorrido extinguiu o feito sem apreciação do mérito, pela revogação administrativa do ato coator. Todavia, havia sido concedida liminar para obstar a aplicação do teto constitucional, fixado pela Emenda Constitucional 41/2003, cujos efeitos não foram cassados, apesar da denegação.
+2. Deve ser provido o recurso, uma vez que o Tribunal de origem firmou a manutenção dos efeitos de liminar apesar de cassar os seus efeitos por meio da denegação da ordem. Com a extinção do feito e a denegação da segurança não é possível manter a eficácia jurídica do provimento precário, conforme art. 7º, § 3º, da Lei n. 12.016/2009.
+Deve ser aplicada a Súmula 405/STF. Precedentes: RMS 45.736/SP, Rel.Ministro Humberto Martins, Segunda Turma, DJe 23/09/2014; RMS 32.408/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 10.11.2010.
+ ..
+(RMS n. 48.028/SP, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 1º/9/2016, DJe de 6/10/2016).
+Ante o exposto, com fulcro no art. 932, IV e V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento em parte ao recurso especialpararestabelecer a sentença, que rejeitou a exceção de pré-executividade fundada unicamente no impedimento judicial da autuação, ora afirmado como inexistente.
+Publique-se. Intimem-se.
