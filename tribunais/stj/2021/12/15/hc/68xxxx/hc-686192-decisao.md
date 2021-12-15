@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 125):
+Agravo em Execução. Indeferimento do pedido de remição de pena por estudos com base conclusão de cursos para "Gerente de Vendas" e "Desenvolvimento Humano e a Vida em Sociedade" CBT/EAD.
+Sentenciado que, muito embora tenha comprovado a conclusão e a carga horária total de cada um dos cursos, não logrou êxito em atestar a frequência efetiva diária em cada um deles não preenchimento dos requisitos trazidos nos artigos 126 e 129,ambos da Lei de Execução Penal, além do art. 4º, da Recomendação nº 391/2021,do CNJ (que revogou a Recomendação 44/2013) Certificados apresentados que são insuficientes para a concessão da remição. Recurso desprovido.
+Consta dos autos que o Juízo da Execução indeferiu o pedido de remição da pena num total de 243 dias de estudo com carga horária de 2.920 horas, na modalidade à distância. Em razão disso, a defesa interpôs agravo em execução junto ao Tribunal de Justiça do Estado de São Paulo que manteve a decisão de primeiro grau, negando provimento ao recurso defensivo.
+Sustenta, em síntese, que as decisões de origem ferem o ordenamento jurídico, tendo em vista que a Lei de Execução Penal não exige que o certificado de conclusão do curso seja referendado pelos órgãos públicos competentes.
+Aduz ainda, que o certificado apresentado fora emitido pelas autoridades da escola responsáveis pelo curso ministrado, sendo elas dirigentes e professores.
+Requer seja concedida a ordem do habeas corpus para que seja computado os 243 dias na remição da pena do paciente.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+A decisão de primeiro grau indeferiu o pedido nos seguintes termos (fls. 17-18, e-STJ):
+O sentenciado juntou aos autos certificado emitido pelo "CBT/EAD", que atesta a conclusão de curso de Desenvolvimento Humano e a Vida em Sociedade (período de janeiro de 2018 a dezembro de 2018, com duração equivalente a 1460 horas).
+Entretanto, tal certificado não atende aos requisitos legais necessários para a concessão de remição de pena, visto que não contemplado nas hipóteses previstas no artigo 126 da Lei de Execução Penal, cujo rol é taxativo.
+Como se vê, a remição por estudo prevista na Lei nº 7.210/84 abarca situações nas quais os sentenciados qualificam-se durante o cumprimento da pena mediante frequência escolar em nível fundamental, médio, superior ou, ainda, em cursos profissionalizantes.
+Desse modo, o curso realizado pelo reeducando não comporta remição porquanto não se enquadra em nenhuma das hipóteses previstas em lei.
+Não há dúvida de que a frequência em cursos promovidos no cárcere deve ser incentivada, no entanto, por ausência de previsão legal, o desenvolvimento de tais atividades não enseja o deferimento de remição da pena, conquanto sirvam de ferramentas importantes no processo de ressocialização dos apenados.
+Ainda, cabe ressaltar que o certificado apresentado é assinado tão somente pelo Diretor da Instituição, ou seja, não consta do documento a certificação por Autoridades Educacionais, conforme exigido em lei.
+ ..
+E ainda que se entenda que a certificação realizada pelo Diretor da instituição seja suficiente, seria necessária a comprovação da realização das atividades pela Unidade Prisional, o que não ocorre no presente caso.
+ ..
+Assim, resta incabível o acolhimento da remição pleiteada.
+O Tribunal de origem ratificou a decisão de primeiro grau, negando provimento ao agravo defensivo nos seguintes termos (fl. 23, e-STJ).
+Com efeito, neste caso concreto, verifica-se que o sentenciado logrou êxito em comprovar a carga horária total e diária dos cursos, porém, não restou comprovada nos autos a frequência efetiva do reeducando, o que impossibilita a remição da pena à luz do art. 4º, parágrafo único, da Recomendação 391/2021 do CNJ.
+Além disso, tem-se que o art. 129, caput, da Lei nº 7.210/84, também prevê a necessidade de acompanhamento por parte da autoridade administrativa quanto à realização dos estudos pelo sentenciado e à sua frequência nos cursos, o que não restou comprovado nos autos.
+Assim, conclui-se que o reeducando não trouxe aos autos provas concretas de que tenha efetivamente cumprido a carga horária dos referidos cursos na forma preconizada pelo art. 126, da Lei de Execução Penal, o que inviabiliza a concessão da remição no presente caso.
+Nota-se, pois, que as decisões de origem indeferiram o pedido por entenderem que da leitura do documento acostado aos autos, não é possível concluir pela comprovação da realização das atividades pela Unidade Prisional, bem como pelo fato de não ser possível averiguar a efetiva frequência do paciente nos cursos apresentados, o que impede a consideração das referidas horas para fins de remição de pena.
+Não se desconhece a jurisprudência deste Superior Tribunal de Justiça, que já se manifestou no sentido de que "a norma do art. 126 da LEP, ao possibilitar a abreviação da pena, tem por objetivo a ressocialização do condenado" (REsp 744.032/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 5/6/2006), "além de ser um dos objetivos da Lei de Execução Penal, ao instituir a remição, incentivar o bom comportamento do sentenciado e sua readaptação ao convívio social, a interpretação extensiva do mencionado dispositivo impõe-se nessas circunstâncias, o que revela, inclusive, a crença do Poder Judiciário na leitura como método factível para o alcance da harmônica reintegração à vida em sociedade" (AgRg no HC 323.766/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 09/10/2015).
+Ademais, tendo o acórdão consignado pela ausência de idoneidade do documento apresentado, no que tange a averiguação da frequência no curso realizado à distância, o que impede a consideração das referidas horas para fins de remição de pena, a revisão desta conclusão demandaria reexame do acervo fático-probatório dos autos, o que é inviável na estreita via do habeas corpus. Nesse entendimento: AgRg no HC 574.605/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 08/09/2020, DJe 22/09/2020.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REMIÇÃO POR ESTUDO A DISTÂNCIA. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONVÊNIO PARA A PRESTAÇÃO DO CURSO. FALTA DE CONTROLE SOBRE AS HORAS EFETIVAMENTE ESTUDADAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Lei de Execução Penal permite a remição por estudo a distância, desde que observados alguns cuidados para comprovação da frequência e do aproveitamento escolares.
+2. Consoante descrito no acórdão inquinado coator, "na hipótese dos autos, além de inexistir a certificação do curso frequentado pelo agravante, decorrente de ato da autoridade educacional competente, não é possível aferir se foi respeitada a carga horária máxima de 04 horas de estudos diários estabelecida pelo artigo 126, § 1º, inciso I, da Lei de Execução Penal".
+3. Agravo regimental não provido.(AgRg no HC 655.672/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/04/2021, DJe 30/04/2021.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se
