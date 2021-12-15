@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por SOLÁRIO PARTICIPAÇÕES E AQUISIÇÕES LTDA. tendo por objeto reforma de decisão proferida às fls. 2.881/2.884.
+A agravante refuta a decisão agravada, arguindo que os requisitos necessários ao deslinde da questão "já foram devidamente analisados pelo Tribunal de origem e há a conclusão sobre a inaplicabilidade da Súmula 389/STJ" (fl. 2.917) não tendo havido "demonstração de omissão ou contradição" (fl. 2.922) pela parte ora agravada.
+Requer, outrossim, a retratação desta Relatora ou o provimento do recurso pelo órgão colegiado.
+Impugnação de OI S.A. (fls. 2.931/2.979) pelo não provimento do agravo.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. OMISSÃO. OCORRÊNCIA. RETORNO DOS AUTOS À ORIGEM. NECESSIDADE. NÃO PROVIMENTO.
+1. Omisso o acórdão recorrido acerca das questões postas em debate, necessário o retorno dos autos à origem para dirimi-las.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O presente recurso não merece provimento.
+Os argumentos jurídicos trazidos nas razões do presente recurso não se prestam a modificar o posicionamento anteriormente adotado.
+A decisão agravada ficou assim redigida (fls. 2.881/.2.884):
+Trata-se de recurso especial interposto por OI S.A., contra acórdão assim ementado (fl. 2.639):
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA DE ADIMPLEMENTO CONTRATUAL. REAPRECIAÇÃO DE PARTE DA MATÉRIA EM CUMPRIMENTO A DECISÃO PROFERIDA PELO SUPERIOR TRIBUNAL DE JUSTIÇA QUANDO DO JULGAMENTO DE RECURSO ESPECIAL INTERPOSTO PELA OI S/A.
+NECESSIDADE DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. SÚMULA Nº 389 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRÉVIO REQUERIMENTO ADMINISTRATIVO REALIZADO PELOS AUTORES. EMPRESA QUE NÃO RESPONDEU AO REQUERIMENTO OU TAMPOUCO INFORMOU A RESPEITO DA NECESSIDADE DE QUALQUER RECOLHIMENTO. SATISFEITA A EXIGÊNCIA DA SÚMULA.
+CONTEMPORÂNEOS PRECEDENTES DESTA CORTE DE JUSTIÇA.
+EXISTÊNCIA DO INTERESSE DE AGIR DA PARTE AUTORA. ACÓRDÃO PARCIALMENTE REFORMADO APENAS EM SEUS FUNDAMENTOS E MANTIDO QUANTO AO DESPROVIMENTO DO RECURSO.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 2.685/2.690 e 2.745/2.754).
+Em suas razões a recorrente alega ofensa aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil/2015, por omissão do Tribunal de origem, ao não se pronunciar sobre as seguintes questões: I) "imprestabilidade da notificação apresentada pela Solário e que ela, como consequência, não cumpriu com a exigência do enunciado nº 389 da Súmula dessa e. Corte Superior" (fl. 2.773); II) "necessidade de que fosse observada, antes de mais nada, a circunstância de que a presente demanda foi distribuída apenas 15 (quinze) dias após o envio da notificação, isto é, sem qualquer tempo hábil para resposta adequada por parte da Oi" (fl. 2.773); III) "a citação do processo não esmaece a ausência de cumprimento adequado, antes do ajuizamento da demanda, dos requisitos previstos no enunciado nº 389 da Súmula dessa e. Corte Superior" (fl. 2.774); IV) "apresentou resposta à notificação extrajudicial encaminhada pela Solário, conforme documento acostado no movimento PROJUDI nº 66.1." (fl. 2.777); V) "Na referida resposta, inclusive, a Oi destacou, expressamente, a impossibilidade de exibição dos documentos requeridos, inclusive em virtude de não ter sido efetuado o pagamento da taxa de serviço exigida no verbete n o 389 da Súmula da e. Corte Superior" (fl. 2.777); VI) "inepto o requerimento que simplesmente solicita à Cia. eventuais contratos de participação financeira celebrados por terceiros, tal como se dá aqui, sem sequer demonstrar, nem minimamente, a existência de cessão regular" (fl. 2.779); VII) "esse e. Superior Tribunal de Justiça já decidiu que a ausência de eventual prova da cobrança da taxa de serviço não induz ao reconhecimento do interesse de agir do autor, uma vez que o comprovante de pagamento da taxa administrativa, repita-se, é requisito de procedibilidade do ajuizamento da ação" (fl. 2.781).
+No mérito argui afronta ao art. 100, § 1º, da Lei n. 6.404/76, afirmando que não cumpridos os requisitos necessários à configuração do interesse de agir da ora recorrida.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+O entendimento desta Corte firmado diante do julgamento proferido no REsp nº 982.133/RS, afetado à Segunda Seção, com base no procedimento da Lei de Recursos Repetitivos, tendo como Relator o Ministro Aldir Passarinho Junior, consagrou a orientação no sentido de que "falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo 1º, da Lei 6.404/1976". Nesse sentido, o enunciado 389 da Súmula da jurisprudência deste Tribunal:
+A comprovação do pagamento do "custo do serviço" referente ao fornecimento de certidão de assentamentos constantes dos livros da companhia é requisito de procedibilidade da ação de exibição de documentos ajuizada em face da sociedade anônima.
+O Tribunal de origem, ao julgar a questão, entendeu que cumpridos os requisitos necessários à propositura da ação, assim se pronunciando (fls. 2.642/2.643):
+(..) cumpre frisar que a presente demanda (Ação de Adimplemento Contratual com Pedido Incidental de Exibição de Documento) se difere da ação cautelar de exibição de documento, razão pela qual não se aplica o enunciado 389 da súmula da Corte Superior; (..) Aliás, registre-se que, mesmo que se reconhecesse a aplicabilidade do entendimento sumulado em comento, ainda sim seria devida a exibição dos documentos.
+O enunciado nº 389 da súmula do STJ prescreve que "a comprovação do pagamento do custo do serviço referente ao fornecimento de certidão de assentamentos constantes dos livros da companhia é requisito de procedibilidade da ação de exibição de documentos ajuizada em face da sociedade anônima".
+Com efeito, se fosse aplicável o entendimento, seriam três os requisitos a serem observados para a propositura da ação cautelar de exibição de documentos, quais sejam: a) demonstração da existência de relação jurídica entre as partes; b) prévio requerimento na esfera administrativa; e c) pagamento do custo do serviço conforme previsão contratual.
+E, no presente caso, patente é o preenchimento por parte da Autora/Agravada dos requisitos elencados.
+Colhe-se dos autos que a Requerente juntou a documentação comprovando a relação jurídica (mov. 1.2/1.12), a qual esclarece acerca da celebração do "Instrumento Particular de Cessão de Direitos" e aponta o número do contrato de participação financeira vinculado ao Cedente, especificando, por sua vez, o pedido de quais documentos pretende ver exibidos.
+Some-se a isso o fato de que a Autora/Agravada também fez prova de haver solicitado junto à Oi S/A a documentação exigida na demanda, conforme se extrai do pedido administrativo de mov. 1.12, evidenciando-se o preenchimento do segundo requisito.
+Quanto ao pagamento de taxa para apresentação da documentação, cumpre sublinhar que a Oi S/A, ora Agravante, sequer fez prova de que essa só seria realizada mediante pagamento de taxa de serviço previamente estipulada. Aliás, conforme restou expressamente consignado no requerimento administrativo, a Autora requereu que, dentro do prazo de 5 (cinco) dias, fosse "apresentado o valor eventualmente decido por conta da presente solicitação, bem como a indicação acerca do procedimento para recolhimento de referida importância aos cofres da Companhia"
+Assiste razão à recorrente.
+O acórdão recorrido efetivamente foi omisso, não abordando as questões supracitadas e a omissão não foi suprida, a despeito da oposição de embargos de declaração.
+Em face do exposto, prejudicada a análise dos demais pontos, conheço do agravo para, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dar provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, com vistas ao julgamento das questões postas em discussão desde a apelação, devendo ser aplicado o direito à espécie.
+Intimem-se.
+Omisso o acórdão recorrido acerca das questões em debate, necessário o retorno dos autos à origem para dirimi-las.
+Esclareça-se que o objetivo do decidido não é uma nova decisão de mérito no recurso especial, mas, tão somente, um esclarecimento acerca da condenação, ou não, da parte ora agravada.
+Em face do exposto, não havendo o que se reformar, nego provimento ao agravo interno.
+É como voto.
