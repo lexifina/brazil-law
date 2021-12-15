@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se de agravo interno interposto por UNIMED PAULISTANA SOC COOPERATIVA DE TRABALHO MEDICO - EM LIQUIDACAO EXTRAJUDICIAL contra decisão unipessoal que não conheceu do recurso especial que interpusera.
+Ação: declaratória, ajuizada pela agravante, em face de UNIMED DO ESTADO DE SÃO PAULO - FEDERAÇÃO ESTADUAL DAS COOPERATIVAS MÉDICAS, na qual alega - em síntese - que a demandada pleiteou a instauração de processo arbitral tendo por objeto "a cobrança de débitos decorrentes da prestação de serviços em sede de intercâmbio", do qual a parte autora (UNIMED PAULISTANA SOC COOPERATIVA DE TRABALHO MEDICO - EM LIQUIDACAO EXTRAJUDICIAL) foi notificada acerca da instauração do procedimento arbitral e apresentação de defesa preliminar que restou protocolizada em 03/02/2016, tendo as partes formalizado a lavratura do compromisso arbitral em 31/03/2016 (e-STJ, fls.150/156), seguindo-se o trâmite do processo arbitral, com a formação do contraditório, que culminou com a prolação de sentença de fls. 342/350 (e-STJ), complementada pela decisão de fls. 360/362 (e-STJ), pela qual foi acolhido o pedido formulado pela ré (UNIMED DO ESTADO DE SÃO PAULO - FEDERAÇÃO ESTADUAL DAS COOPERATIVAS MÉDICAS), com a declaração de compensação dos créditos e fixação do débito remanescente no montante de R$ 2.332.872,82 em favor da parte ré (UNIMED DO ESTADO DE SÃO PAULO - FEDERAÇÃO ESTADUAL DAS COOPERATIVAS MÉDICAS) nestes autos.
+Sustenta a autora a nulidade da sentença arbitral, pois essa não observou os requisitos previstos na Lei de Arbitragem, em razão da impossibilidade de deliberação de compensação dos créditos, em inobservância do concurso de credores decorrente da decretação de sua liquidação extrajudicial.
+Sentença: julgou parcialmente procedente o pedido, para determinar a nulidade da sentença arbitral proferida nos autos do Processo 069/2015 perante a Câmara Arbitral do Fórum Unimed.
+Acórdão: negou provimento à apelação interposta pela agravante (UNIMED PAULISTANA SOC COOPERATIVA DE TRABALHO MEDICO - EM LIQUIDACAO EXTRAJUDICIAL); deu provimento à apelação interposta pela agravada (UNIMED DO ESTADO DE SÃO PAULO - FEDERAÇÃO ESTADUAL DAS COOPERATIVAS MÉDICAS), para reformar a sentença, mantendo-se a decisão do juízo arbitral.
+Nesse sentir, é a amenta dos julgados:
+Apelação. Ação declaratória de nulidade de sentença arbitral. Alegação de que o reconhecimento de nulidade da sentença proferida em procedimento arbitral enseja pronunciamento de nova decisão. Descabimento, pois não verificada hipótese de nulidade. Decisão proferida pelo Tribunal Arbitral que observou os limites da convenção de arbitragem. Possibilidade de compensação dos créditos, pois constituídos anteriormente ao decreto de liquidação extrajudicial. Inocorrência de violação ao concurso de credores. Manutenção da sentença arbitral que é de rigor. Recurso da autora desprovido e provido o da ré. (e-STJ, fl. 737)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão monocrática: não conheceu do recurso especial interposto pela agravante, com fundamento no art. 932, III, do CPC/15 (e-STJ, fls. 824/827).
+Agravo interno: alega, em síntese, a não aplicação da Súmula 7/STJ. Sustenta que o recurso especial versa apenas sobre teses jurídicas, existindo impossibilidade de compensação do crédito na situação em análise (e-STJ, fls. 830/839).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação declaratória.
+2 Alterar o decidido no acórdão impugnado, no que se refere à possibilidade de compensação do valor perseguido pela recorrente, tendo em vista que foram constituídos e encaminhados a protesto antes da decretação da liquidação extrajudicial da referida parte, bem como no que tange à liquidez dos créditos compensados, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada não conheceu do recurso especial interposto pela parte agravante, em razão da incidência da Súmula 7/STJ.
+- Julgamento: CPC/15.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir entendimento firmado na decisão ora agravada.
+1. Do reexame de fatos e provas
+A incidência da Súmula 7/STJ deve ser mantida, pois eventual alteração do entendimento do acórdão recorrido, no que se refere à possibilidade de compensação do valor perseguido pela agravante, tendo em vista que foram constituídos e encaminhados a protesto antes da decretação da liquidação extrajudicial da referida parte, bem como no que tange à liquidez dos créditos compensados, demandaria desta Corte, inevitavelmente, a incursão na seara fático-probatória dos autos.
+A esse propósito, é o teor do acórdão recorrido:
+Cabe registar que, havendo a decretação da liquidação extrajudicial em 26 de janeiro de 2016 (fl. 32), não seria possível efetuar a compensação de créditos e débitos constituídos após esta data, uma vez que tal conduta acarretaria evidente violação ao par conditio creditorum.
+A liquidação extrajudicial, por se tratar de sucedâneo administrativo da falência, deve observar os mesmos critérios de pagamento de credores, não podendo autorizar a compensação de créditos constituídos após a sua decretação, conforme se afere pela leitura do artigo 34 da Lei n.º 6.024/74 e do artigo 24-D da Lei n.º 9.656/98.
+3. Na hipótese, contudo, verifica-se que os títulos representativos do crédito perseguido pela Unimed Paulistana, totalizando o valor de R$ 1.095.605,48 (fls. 02/03), foram constituídos e encaminhados a protesto antes da decretação da liquidação extrajudicial.
+(..)
+Portanto, da análise das provas constantes nos autos, nota-se que a Unimed Paulistana possuía um crédito de R$ 1.095.605,48 e um débito de R$ 3.428.476,29, resultando em saldo a favor da Unimed do Estado de São Paulo FESP, no montante de R$ 2.332.872,92, constituído antes da decretação da liquidação extrajudicial da Unimed Paulistana, razão pela qual cabível a compensação determinada pelo juízo arbitral.
+Com efeito, por se tratarem de créditos e débitos relativos a período anterior à decretação da liquidação extrajudicial (26.01.2016), estão presentes todos os requisitos previstos em lei para autorização da compensação legal (art. 369 do Código Civil). Ambas as partes possuíam entre si dívidas líquidas, vencidas e de coisas fungíveis, o que implica na extinção dos créditos e débitos até onde se compensarem. (e-STJ, fls. 741/742) (grifo nosso)
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
