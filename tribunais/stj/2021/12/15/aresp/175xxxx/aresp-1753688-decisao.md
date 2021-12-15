@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto porALTO MAR PESCADOS LTDA.contra decisão que inadmitiu o recurso especial ao argumento de incidência das Súmulas 211/STJ (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo), 356/STF (O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento), 282/STF (É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada), 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia), 283/STF (É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles) e 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial)(e-STJ, fls. 498-503).
+A parte agravante sustenta: i) o trânsito do recurso quanto à prescrição, por ser matéria de ordem pública; ii) ter sido discutido o cerceamento de defesa; e iii) não incidir a Súmula 7/STJ(e-STJ, fls. 533-538).
+Contraminuta àfl.549 (e-STJ).
+Parecer pelo não conhecimento (e-STJ, fls. 563-567).
+Processo com preferência legal (art. 12, § 2º, VII, do CPC/15, c/c a Meta 12/CNJ/2021 - "Identificar e julgar 40% dos processos relacionados às ações ambientais, distribuídos até 31/12/2020").
+É o relatório.
+Como se percebe do quanto relatado, a agravante não impugnou de forma específica todos os fundamentos da decisão de inadmissibilidade, de modo a atrair a incidência da Súmula 182/STJ (É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada).
+Com efeito, torna-se imprescindível o confronto específico de todos os fundamentos, a fim de demonstrar o desacerto da decisão, não bastando o combate genérico e parcial.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+2. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 600.416/MG, de minha relatoria, SEGUNDA TURMA, julgado em 10/11/2016, DJe de 18/11/2016).
+Frise-se que a ausência de impugnação específica de todos os fundamentos da decisão que nega admissibilidade ao recurso especial impede o conhecimento do agravo, independentemente de se tratar de fundamento autônomo ou não (cfr. EAREsp nos AREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, Rel. p/ acórdão Min. Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018).
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado na origem o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado na origem o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
