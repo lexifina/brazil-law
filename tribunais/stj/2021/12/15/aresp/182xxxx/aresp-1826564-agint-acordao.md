@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por BRADESCO SAÚDE S/A contra decisão proferida pela Presidência desta Corte Superior, assim disposta (fls. 651/653):
+Cuida-se de agravo apresentado por BRADESCO SAUDE S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PLANO DE SAÚDE - Contrato coletivo - Reajustes por sinistralidade - Sentença que afastou os reajustes por sinistralidade aplicados, determinando a incidência apenas dos índices da ANS - Recursos das corrés - Pretensão à manutenção dos reajustes por sinistralidade - Reajuste que, em princípio, não precisa observar os índices autorizados pela ANS - Necessidade, no entanto, de comprovação de que o aumento foi necessário para restabelecer o equilíbrio econômico financeiro do contrato, em razão de aumento de sinistralidade - Comprovação que não foi realizada - Reajustes corretamente afastados - Hipótese, no entanto, em que deve haver apuração do percentual adequado, na fase de cumprimento de sentença, por meio de cálculos atuariais - Restituição simples dos valores pagos a maior, observada a prescrição trienal - Recursos parcialmente providos.
+Quanto à controvérsia, alega violação dos arts. 16, XI, da Lei n. 9.656/98, 478 e 479 do CC, e 6º, III, do CDC, insurgindo-se contra o afastamento dos reajustes por sinistralidade, trazendo os seguintes argumentos:
+12. No caso em espécie, importa tecer considerações sobre o reajuste em virtude da sinistralidade, pois é ele que aumenta quando o grupo segurado passa a utilizar dos serviços do seguro com frequência muito maior, a fim de se readequar o equilíbrio econômico-financeiro do contrato. Nenhuma injustiça há nisso, pois este o princípio dos seguros, do risco versus prêmio, no que consiste toda a matemática atuarial, que estuda a mutualidade a ele inerente.
+13. É necessário que fique bem claro que o aumento do prêmio securitário em virtude do incremento da sinistralidade nada tem de abusivo, de sorte que perfeitamente adequado ao Código de Defesa do Consumidor. Na verdade, busca ele apenas e tão somente restabelecer o equilíbrio econômico do contrato, o que não é vedado nem pelo CDC, tampouco pelos princípios norteadores do direito (fl. 545).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+As rés não demonstraram, técnica ou atuarialmente, as razões para a incidência dos reajustes aplicados ao contrato da autora, limitando-se a vagas alusões à necessidade de se manter o equilíbrio econômico financeiro, sem especificar como chegaram aos índices aplicados.
+Nessas circunstâncias, os reajustes, tais como estabelecidos pelas rés, devem ser afastados (fl. 534).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Desse modo, mutatis mutandis, "Na hipótese, o Tribunal de origem afastou a índole abusiva do reajuste por sinistralidade do valor da mensalidade do plano de saúde coletivo, sendo inviável a modificação de tal entendimento, em razão da incidência das Súmulas 5 e 7 do STJ." (AgInt no AREsp 1.696.601/SP, relator Ministro Raul Araújo, Quarta Turma, DJe 20/10/2020.) Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019;
+AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+A agravante refuta a decisão agravada, combatendo a aplicação das Súmulas 5 e 7/STJ e alegando afronta aos arts. 371, 373, 375, 464 e 489, II, do Código de Processo Civil/2015 por entender que "o cálculo atuarial é necessariamente complexo, razão pela qual negar sua aplicação pela justificativa de que ele não restou demonstrado, significa negar a própria essência deste reajuste, que necessita de dados matemáticos complexos" (fl. 664).
+Requer, outrossim, a retratação desta Relatora ou o provimento do recurso pelo órgão colegiado.
+Impugnação de ITALBRONZE LTDA. (fls. 676/683), pelo não provimento do agravo; e pela aplicação de multa (art. 1.021, §§ 4º e 5º, do Código de Processo Civil/2015).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE. NECESSIDADE. NÃO DEMONSTRAÇÃO. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência desta Corte. Súmula 83/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Inicialmente, a pretensão de aplicação de multa, requerida em contrarrazões, é descabida, pois, não identificado o caráter protelatório no presente recurso.
+Quanto ao mais, o presente recurso não merece provimento.
+O Tribunal de origem, com base nos fatos e provas dos autos, concluiu que não houve a demonstração da necessidade do reajuste aplicado pela ora agravante, assim se pronunciando (fl. 532):
+As rés não demonstraram, técnica ou atuarialmente, as razões para a incidência dos reajustes aplicados ao contrato da autora, limitando-se a vagas alusões à necessidade de se manter o equilíbrio econômico financeiro, sem especificar como chegaram aos índices aplicados.
+Nessas circunstâncias, os reajustes, tais como estabelecidos pelas rés, devem ser afastados.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Acrescente-se que a conclusão acima reproduzida está em perfeita harmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, no sentido de que necessária a demonstração do aumento de sinistralidade condizente com o reajuste aplicado ao plano de saúde coletivo. Nessa direção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A alegação de afronta ao art. 1.022 do CPC/15 apresentada de forma genérica, sem a efetiva demonstração da ocorrência de omissão, contradição, obscuridade ou erro material, atrai a incidência, por analogia, do óbice da Súmula 284/STF.
+2. Nos termos da jurisprudência desta Corte, é válida a cláusula que autoriza o reajuste de plano de saúde com base na sinistralidade, ressalvadas as hipóteses de abusividade do percentual aplicado. Precedentes. 2.1. No caso, o Tribunal local considerou que não houve indicação dos critérios que embasaram o reajuste, que também não encontrava lastro no relatório de desempenho apresentado pela operadora. A revisão dessa conclusão exigiria a incursão nos fatos e provas coligidos aos autos. Incidência das Súmulas 5 e 7/STJ.
+3. Agravo interno desprovido. (AgInt no AREsp 1.567.127/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 25.11.2019)
+AGRAVO INTERNO. RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PLANO DE SAÚDE. REAJUSTE ANUAL. TESE DO RECURSO ESPECIAL QUE DEMANDA ANÁLISE DE CLÁUSULAS CONTRATUAIS E REEXAME DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7 DO STJ. REAJUSTE POR IMPLEMENTO DE IDADE. LEGALIDADE. SÚMULA Nº 83/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. É "possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade" (AgRg nos EDcl no AREsp 235.553/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 2/6/2015, DJe de 10/6/2015). Incidência das Súmulas nº 5 e 7, do STJ.
+3. Nos termos da jurisprudência consolidada deste Superior Tribunal de Justiça, são validos os reajustes em razão da mudança de faixa etária, desde que atendidas as seguintes condições: a) previsão no instrumento negocial; b) respeito aos limites e demais requisitos estabelecidos na Lei Federal n. 9.656/98; e c) observância do princípio da boa-fé objetiva, que veda índices de reajuste desarrazoados ou aleatórios, que onerem em demasia o segurado. (REsp 1280211/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 23/4/2014, DJe 4/9/2014).
+4. Agravo interno a que se nega provimento.(AgInt nos EDcl no REsp 1.481.925/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 15.6.2018)
+Incidente, no ponto, o óbice da Súmula 83/STJ, aplicável ao recurso especial interposto com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal.
+Em face do exposto, não havendo o que se reformar, nego provimento ao agravo interno.
+É como voto.
