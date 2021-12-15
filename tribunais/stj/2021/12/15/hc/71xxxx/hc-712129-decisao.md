@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de THIAGO NOGUEIRA DA SILVAcontra o ato coator proferido peloTRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO, que não conheceu dos EmbargosInfringentes e de Nulidade n. 0261387-666668.2016.8.19.0001.Eis a ementa do acórdão ora impugnado (fls. 174/175):
+EMBARGOS INFRINGENTES E DE NULIDADE EM AGRAVO DE EXECUÇÃO PENAL. Decisão do Juízo da VEP que declarou nulo o Procedimento Disciplinar nº E-21/047/180/2020, indeferindo, por conseguinte, o requerimento do Ministério Público de interrupção do prazo para progressão de regime, determinando a exclusão da respectiva anotação da TFD do ora Embargante. Acórdão da E. Primeira Câmara Criminal que, por maioria de votos, deu provimento ao Agravo em Execução interposto pelo Ministério Público, para homologar o Procedimento Administrativo e determinar a regressão do ora Embargante, para o regime fechado, na forma do artigo 118, I, da Lei 7.210/84. Pretensão ao acolhimento do r. Voto Vencido, que conheceu e negou provimento ao Agravo em Execução interposto pelo Ministério Público, para manter, na íntegra, a decisão do Juízo de Direito da Vara de Execuções Penais, que declarou a nulidade do PAD.
+Conforme disposto nos artigos 609, caput e seu parágrafo único, e 610, todos do Código de Processo Penal, os Embargos Infringentes são cabíveis apenas contra decisões majoritárias proferidas em sede de Apelação e Recurso em Sentido Estrito, sendo, portanto, inadmissíveis nas hipóteses de Agravo em Execução, como no presente caso.
+Embargos Infringentes dos quais não se conhece, ante afalta de previsão legal.
+EMBARGOS NÃO CONHECIDOS.
+Argumenta-se, em síntese, que o cabimento dos embargos infringentes e de nulidade não se restringe à apelação e ao recurso em sentido estrito, aplicando-se a qualquer decisão de segunda instância desfavorável ao réu.Ainda que assim não fosse, e de fato existisse a limitação mencionada no acórdão a quo, é certo que a doutrina e a jurisprudência reconhecem que o agravo em execução penal possui a mesma natureza do recurso em sentido estrito, diante do conteúdo veiculado nos incisos XI, XII, XVII, XIX, XX, XXI, XXII, XXIII e XXIV do art. 581 do Código de Processo Penal - todos sobre matéria de execução penal, que acabou absorvida pelo agravo previsto no art. 197 da Lei de Execução Penal(fl. 6).Assim, com a adoção do mesmo rito previsto para o recurso em sentido estrito, há que se reconhecer igualmente o cabimento dos embargos infringentes e de nulidade, na forma do art. 609, parágrafo único, do Código de Processo Penal(fl. 8).
+Pede-se, em caráter liminar e no mérito,desde logo, seja determinado à autoridade impetrada que aprecie o mérito dos embargos infringentes, afastada a tese de não cabimento.
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre aimpetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, é evidente a existência do constrangimento ilegal.
+A Segunda Câmara Criminal do Tribunal estadual, ao decidir como decidiu, foi de encontro com a jurisprudência do Superior Tribunal de Justiça a respeito do tema.
+Não é de hoje que esta Casa afirma queécabível a oposição de embargos infringentes de decisão não-unânime proferida em sede de agravo de execução. Precedentes do STJ e do STF(REsp n. 336.607/DF, Ministro GILSON DIPP, QUINTA TURMA, DJ 13/5/2002).
+Quando do julgamento do HC n. 10.556/RJ (DJ 14/2/2000), nessa mesma linha, o Ministro Felix Fischer fez questão de agregar aos seus fundamentos o parecer da Subprocuradora-Geral da República Ela Wiecko de Castilho, deste teor (fls. 50/51 daqueles autos):
+Os embargos infringentes no processo penal, foram introduzidos pela Lei n. 1.720-B, de 3 de novembro de 1952, que acrescentou parágrafo único ao art. 609, do CPP. O instituto tem como pressuposto decisão não unânime da segunda instância. A interpretação de sua aplicabilidade não deve ficar adstrita à denominação do Capítulo (Do processo e julgamento dos recursos em sentido estrito e das apelações nos Tribunais de Apelação) porquanto ultrapassada. Basta ver que não mais existem Tribunais de Apelação. O que deve contar é o espírito da lei. Nesse sentido, o caput do artigo, ao falar genericamente em "recursos, apelações e embargos" autoriza a interpretação de que são cabíveis os embargos infringentes e de nulidade em acórdão proferido no recurso de agravo na execução.
+Mais recente, este precedente:
+HABEAS CORPUS. PROCESSO PENAL. EMBARGOS INFRINGENTES OPOSTOS À DECISÃO NÃO UNÂNIME EM SEDE DE AGRAVO EM EXECUÇÃO. CABIMENTO. ART.609 DO CPP. ORDEM CONCEDIDA.
+1. É cabível a oposição de embargos infringentes à decisão não unânime proferida em sede de agravo em execução - inteligência do art. 609 do Código de Processo Penal.
+2. Habeas corpus concedido para determinar a apreciação dos embargos infringentes opostos pela defesa no segundo grau de jurisdição.
+(HC n. 509.869/SP, Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 12/8/2019)
+Ante o exposto,concedoliminarmente a ordem para determinarque o Tribunal de Justiça aprecie, como entender de direito, os embargos infringentes opostos pela defesa.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS.PROCESSO PENAL. EXECUÇÃO PENAL. AGRAVO EM EXECUÇÃO. EMBARGOS INFRINGENTES. CABIMENTO.ART. 609 DO CPP. PRECEDENTES.
+Ordem concedidaliminarmente nos termos do dispositivo.
