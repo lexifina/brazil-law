@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por RUMO S/A e RUMO MALHA SUL S/A em face do acórdão que negou provimento ao agravo interno que interpuseram, nos termos da seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO DE CONTRATO DE LOCAÇÃO C/C PERDAS E DANOS. BUILT TO SUIT. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. REEXAME DE FATOSE PROVAS. INTERPRETAÇÃODECLÁUSULASCONTRATUAIS. IMPOSSIBILIDADE. HONORÁRIOSRECURSAIS. EXCESSIVIDADENÃO CONFIGURADA.
+1. A jurisprudência do STJ é firme no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+2. Para alterar a conclusão alcançada na origem seria necessário o revolvimento do acervo fático-probatório e a interpretação de cláusulas contratuais, e não mera revaloração jurídica, o que é vedado pelos óbices das Súmulas 5 e 7 do STJ.
+3. A incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+4. Não se mostram excessivos os honorários recursais, porque incidiram sobre a mesma base de cálculo utilizada na origem e foram arbitrados com base no trabalho desempenhado pelo patrono da contraparte.
+5. Agravo interno não provido.
+Nas razões, alegam que o acórdão recorrido contém omissões, uma vez que o trecho colacionado do acórdão estadual demonstra que a Corte de origem não indicou de onde extraiu a conclusão de que não há defeito no imóvel, bem como não foi analisadoo argumento de que o recurso especial deve ser conhecido com base na alínea "x", pois a aplicação da Súmula 13 decorreu de erro de fato.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. AUSÊNCIA. INTUITO DE REDISCUSSÃO. DESCABIMENTO.
+1.O recurso de embargos de declaração somente é cabível nas hipóteses emque haja, no julgado impugnado, obscuridade, contradição, omissão ou erromaterial. Não se prestam, assim, à simples reanálise da causa, nem sãovocacionados a modificar o entendimento do órgão julgador.
+2. Embargos de declaração rejeitados.
+VOTO
+Com relação à primeira omissão suscitada, constata-se que o acórdão recorrido expressamente destacou que "a Corte estadual formou sua convicção com base nas provas produzidas nos autos" (e-STJ, fl. 2686) e, no mérito, ressaltou que "com assento no conjunto probatório constante dos autos, o Tribunal a quo constatou que, em verdade, não seria o caso de rescisão motivada. Isso porque, as recorrentes deixaram o local não em decorrência dos supostos vícios existentes no imóvel, mas sim porque não tinham mais interesse em dar prosseguimento às suas atividade", de modo que "para alterar a conclusão alcançada na origem seria necessário o revolvimento do acervo fático-probatório e a interpretação de cláusulas contratuais, e não mera revaloração jurídica, o que é vedado pelos óbices das Súmulas 5 e 7 do STJ" (e-STJ, fl. 2688).
+Assim, não há que se falar em omissão.
+Acerca da segunda omissão apontada, também não procede a irresignação, tendo em vista restou expressamente decidido que:
+A incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República (AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018). (e-STJ, fl. 2688)
+Destarte, a pretexto de apontar supostos vícios, a embargante pretende, em verdade, a rediscussão de questõesjá decididas, o que é descabido na via dos aclaratatórios.
+Forte nessas razões, REJEITO os embargos de declaração.
