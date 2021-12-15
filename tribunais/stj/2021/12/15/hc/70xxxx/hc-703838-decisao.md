@@ -1,0 +1,91 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de GILBERTO DA SILVA GOMES, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o paciente teve a prisão preventiva decretada pelo suposto cometimento do delito tipificado no art. 33, caput, da Lei n. 11.343/2006.
+Inconformada, a defesa impetrou prévio writ no Tribunal de origem, que denegou a ordem.
+Neste habeas corpus, alega o impetrante ausência de elementos concretos para custódia cautelar, cuja motivação estaria amparada apenas nas gravidade abstrata do delito e na ínfima quantia de entorpecente apreendida.
+Salienta ser primário, de bons antecedentes, possuir residência fixa e emprego lícito.
+Aduz ser mero usuário de drogas, sendo o crack a solução para tratamento de dores na coluna decorrentes de um acidente, visto que não tem condições de arcar com os medicamentos de alto custo.
+Destaca que em sua residência foram encontradas apenas 4 pedras da referida substância, as outras 25 foram levadas à delegacia pelos policias, após a autuação do flagrante, sob a alegação de que um indivíduo havia dispensado um pote com as drogas em frente ao domicílio do paciente ao ver a ação policial.
+Requer, assim, a revogação da preventiva.
+Liminar indeferida (e-STJ, fls. 93).
+Informações prestadas (e-STJ, fls. 96-98).
+O Ministério Público Federal opinou pela denegação da ordem (e-STJ, fls. 100-106).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Assim, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao denegar a ordem, manteve a prisão preventiva do paciente com base nos seguintes fundamentos:
+"Colaciono trechos das razões da decisão, de lavra do ilustre Des.
+Jose Antonio Cidade Pitrez, de modo a evitar desnecessária tautologia:
+"Adianto que indefiro o pedido de concessão da ordem impetrada em caráter liminar, figura de criação pretoriana e destinada a casos excepcionais, nos quais não se enquadra o presente.
+Colhe-se dos autos que o paciente foi preso em flagrante, quando do cumprimento de mandado de busca e apreensão, na data de 23SET2021, pela prática, em tese, do delito de tráfico de drogas.
+A decisão pontua:
+"Vistos.
+Cuida-se de auto de prisão em flagrante lavrado contra GILBERTO DA SILVA GOMES, pela prática do delito previsto no artigo 33, caput, da Lei 11.343/2003, ocorrido, em tese, em 23/09/2021, por volta das 16h00min, em Imbé/RS.
+É o breve relato.
+Decido.
+Foram observadas as garantias legais, constitucionais e infra, na medida em que: ouvido o condutor, inquiridas duas testemunhas, comunicada a prisão à pessoa indicada pelo flagrado, o conduzido foi interrogado na presença de defensor ou lhe foi facultada tal condição, recebeu nota de culpa e foi cientificado de seus direitos.
+A situação de flagrância, conforme se extrai do expediente, é a prevista no artigo 302, inciso I, do Código de Processo Penal.
+Em razão do exposto, HOMOLOGO este APF.
+Quanto à audiência de custódia, resta inviável a sua realização em razão do momento pandêmico vivido, seja pela impossibilidade de apresentação imediata do preso, em razão do reduzido efetivo da SUSEPE e da Polícia Civil, ou impossibilidade técnica da realização do ato por videoconferência na forma preconizada pelo CNJ na Resolução 357/2020. No entanto, em razão disso, foi observado todo o procedimento previsto na Recomendação 62/2020 do CNJ.
+Em atendimento à Recomendação º 68/2020 do CNJ, a qual acrescentou o artigo 8º-A à Recomendação nº 62/2020, dê-se vista ao Ministério Público para que se manifeste acerca da prisão processual (art. 8º-A, III, da Recomendação nº 62/2020 - CNJ). A defesa já acostou manifestação. Caso a manifestação do MP retorne após o horário de expediente, façam-se os autos conclusos ao Juiz plantonista para decisão.
+Cumpra-se com urgência.
+Demais diligências legais".
+Após intercorrênicas e redistribuição do feito, exarado o decreto de prisão abaixo colacionado:
+"Vistos, etc.
+1. Cuida-se de APF de GILBERTO DA SILVA GOMES, pela prática, em tese, do crime de tráfico de entorpecentes, art. 33 da Lei 11.343/06 - HOMOLOGADO.
+Com VISTA ao MP, aportou parecer pelo decreto de prisão preventiva.
+Aportou pedido da DEFESA pela concessão de liberdade provisória ou aplicação de medidas cautelares diversas da prisão.
+Dito isso, passo ao exame do cabimento de conversão do flagrante em preventiva, ou se é possível fixação de medidas cautelares ou concessão de liberdade provisória, artigo 310 do CPP.
+De ressalatar, de plano, que a localização da substância entorpecente se deu após representação de MBA pela autoridade policial, que apontava o agora flagrado como já investigado /suspeito.
+Há prova da materialidade e indícios de autoria, considerando a situação de flagrância.
+A manutenção da segregação se impõe, para a garantia da ordem pública, tendo em vista a gravidade concreta do delito - crime este inafiançável e equiparado a hediondo, dado à sua propensão em fomentar a criminalidade e a violência, gerando alta lesividade social.
+Alega a defesa que o autuado faz uso de crack em razão de fortes dores que sente em decorrência de um acidente sofrido, no entanto, no local não foram localizados e apreendidos artefatos utilizados para o consumo da substância ilícita, além de que apreendida quantia em dinheiro em notas diversas.
+Inobstante os argumentos defensivos, este tipo de crime - tráfico de entorpecentes, atinge índices alarmantes, sendo que tal conduta traz, como consequência, imediata desordem familiar e insegurança social, reclamando das autoridades competentes rigoroso combate e repressão, a fim de se evitar a fragilização e o abalo da ordem pública.
+Salienta-se que a existência de condições pessoais favoráveis, tais como a eventual primariedade, bons antecedentes, residência fixa, trabalho lícito, conduta abonada, entre outros, não é suficiente para determinar a liberdade provisória, mormente quando constatado, a partir das circunstâncias, que a decretação da prisão é devida, como no caso.
+Também não há falar em prejuízo à presunção de inocência e tampouco em antecipação de pena, porquanto a prisão preventiva não possui a função de antecipar eventuais efeitos condenatórios, mas, tão somente, de afastar o agente do convívio social.
+De outra parte, o estabelecimento de quaisquer das outras cautelares (CPP, art.
+319) seriam inócuas para salvaguardar a ordem pública, já que não impediriam a recidiva delituosa por parte do agente, inclusive com consequências mais gravosas, de ordem imprevisível.
+Assim, diante das circunstâncias do fato e gravidade do crime, a segregação cautelar é necessária para a garantia da ordem pública, tornando inviável a substituição por outra medida cautelar, pelo que, nesse contexto, converto a prisão em flagrante de GILBERTO DA SILVA GOMES em preventiva, com base no art. 312 do CPP.
+Expeça-se mandado de prisão no BNMP2.
+Comunicações de praxe. Aguarde-se o IP no prazo de réu preso".
+Consta dos autos que o paciente já figurava como suspeito pela prática do delito de tráfico de drogas, o que gerou expedição de mandado de busca e apreensão no local, diante da contínua movimentação de pessoas no local, característica da ocorrência de tal infração penal.
+Quando de dito cumprimento, o paciente admitiu possuir 4 pedras de crack, sendo localizada, ainda, a quantia de mais de setecentos reais em espécie, em notas e moedas trocadas.
+O delito imputado ao paciente prevê a pena máxima superior a quatro anos de reclusão, de modo que cabível a decretação da preventiva com base no artigo 313 - I, do CPP.
+Ainda, afastada a possibilidade de aplicação de alguma das medidas cautelares introduzidas pela Lei nº 12.403/11, diante de sua notória insuficiência e inadequação para o delito de que tratam os autos.
+Assim, não resta outra alternativa a não ser a denegação da ordem, uma vez que o paciente não sofre constrangimento ilegal em sua liberdade de locomoção.
+A decisão vergastada se mostra adequada e não enseja alteração, mostrando-se formalmente perfeita. No caso, prestigia-se a visão privilegiada da autoridade apontada como coatora, próxima dos fatos e das pessoas nele envolvidas.
+O âmbito estreito do habeas corpus não comporta aprofundado exame da prova, como esboçado na inicial, inviabilizando que se aquilate se a conduta do paciente configura o delito de tráfico de drogas ou o de posse de entorpecente para uso próprio.
+Além disso, eventual tese de enxerto de parte da droga, pelos policiais, é matéria que demanda exame de prova, vedado na esterita via do writ.
+Segundo alega a defesa, o paciente possuia apenas as 4 pedras de crack, sendo viciado neste tipo de droga, apontando que as demais 25 pedras foram trazidas já ao final da lavratura do APF do paciente e atribuída a este, eis que ditos policiais permaneceram em vigília naquele lugar e viram quando terceiro se aproximou do local investigado e, fugindo, dispensou um pote com as 25 pedras de crack, droga esta que foi vinculada ao ora paciente.
+Destaco que para a decretação da prisão pelo delito de narcotráfico, basta a apreensão da droga localizada com o paciente, 04 pedras de crack.
+Predicados pessoais favoráveis não constituem obstáculo à manutenção da custódia prévia, nem atenta esta contra o princípio constitucional da presunção de inocência.
+Indefiro a liminar.
+Como se observa, o decreto prisional encontra-se suficientemente fundamentado na garantia da ordem pública e embasado em circunstâncias específicas do caso concreto, havendo comprovação da materialidade e suficientes indícios da autoria delitiva em nome do paciente.
+A corroborar o acima exposto, colaciono trecho do parecer ministerial de lavra do Dr. LUIZ CARLOS ZIOMKOWSKI, Procurador de Justiça, que apresentou a questão em liça de maneira adequada e nos termos aos quais me coaduno:
+"Ab initio, constata-se que, ao contrário do sustentado, a segregação cautelar foi devidamente fundamentada na necessidade de garantia da ordem pública, pois, presente prova da materialidade do crime e indícios mais que suficientes da sua autoria, emergem evidenciados o fumus bonus iuris e o periculum libertatis como exigido pelos artigos 312, 313 e 282, incisos I e II, do Código de Processo Penal.
+Segundo o apurado, em razão de denúncia dando conta que um indivíduo de nome Gilberto estaria desempenhando a traficância no imóvel localizado na Rua Z1, n.º 2565, Balneário de Albatroz, Município de Imbé/RS, a autoridade policial representou pela expedição de mandado de busca e apreensão para aquele endereço e, quando do cumprimento da ordem judicial, arrecadaram no interior da residência do paciente quatro (4) porções de crack, e a importância de R$ 721,00 (setecentos e vinte e um reais), além de diversos bens de origem não comprovada, e, posteriormente, pilharam um indivíduo em frente ao imóvel, o qual, ao perceber a presença dos agentes, dispensou um volume contendo outras vinte e cinco (25) porções também de crack, e o valor de R$ 154,00 (cento e cinquenta e quatro reais), cenário mais que suficiente para bem evidenciar a atividade ilícita desempenhada pelo coacto e justificar a necessidade de sua constrição para a garantia da ordem pública, tal como decidido.
+Portanto, diante do desvelado, emerge evidente que a prisão preventiva do segregado está plenamente fundamentada diante da crescente propagação do tráfico de drogas, crime que gera consequências nefastas à segurança e à saúde pública, notadamente quando realizado em situação de pandemia e envolvendo entorpecente de alta lesividade, exigindo pronta e eficaz resposta do sistema de justiça para o acautelamento da ordem pública e da paz social.
+Lado outro, como consabido, condições pessoais favoráveis, o que não é o caso do paciente, pois registra condenação por lesão corporal6 , ocupação lícita e residência fixa, não asseguram, por si só, a liberdade provisória, quando demonstrada a necessidade de segregação cautelar (..)" - grifei.
+Nesse contexto, reforço ser inviável o exame aprofundado das provas em sede de habeas corpus. A comprovação ou não da efetiva participação do paciente na prática do delito imputado constitui matéria de alta indagação, a demandar dilação probatória, razão pela qual deve ser realizada no bojo da ação de conhecimento.
+Ademais, como já referido, predicados pessoais favoráveis, por si só, não justificam a concessão da liberdade provisória, bem como não autorizam a aplicação de medidas cautelares diversas da prisão, neste momento, pois insuficientes e inadequadas ao caso em concreto.
+Assim, por haver prova da materialidade e suficientes indícios da autoria delitiva, com o decreto prisional devidamente fundamentado, sendo a prisão necessária para garantia da ordem pública, deve ser mantida a segregação cautelar do paciente.
+No que tange ao pedido subsidiário formulado pelos impetrantes de aplicação das medidas cautelares previstas no art.319 do Código de Processo Penal, tenho por bem indeferi-lo, dado o caráter permanente do crime de tráfico de drogas, sendo latente o risco de reiteração da atividade criminosa pelo paciente, diante das circunstâncias do caso em tela" (e-STJ, fls. 84-90)
+Dispõe o art. 312 do Código de Processo Penal que: "a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria".
+Na hipótese, o decreto preventivo está fundamentado apenas na gravidade abstrata do delito e em elementos inerentes ao próprio tipo penal (apreensão de droga). Ademais, nem mesmo a quantidade de droga apreendida - 4 pedras de crack (0,30g) e outras 25 pedras da mesma substância (2,20g) -, aliada às circunstâncias do flagrante (apreensão de dinheiro), podem ser consideradas relevantes para autorizar o encarceramento cautelar, sobretudo quando considerada a primariedade do agente.
+Nesse contexto, deve ser concedido ao paciente o direito de responder ao processo em liberdade.
+A propósito:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. AUSÊNCIA DE INDÍCIOS SUFICIENTES DE AUTORIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. PRISÃO PREVENTIVA. GRAVIDADE ABSTRATA DO DELITO. AUSÊNCIA DE FUNDAMENTOS CONCRETOS A JUSTIFICAR A MEDIDA EXTREMA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. RECURSO PROVIDO.
+ ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+3. No caso dos autos, não há fundamentos idôneos que justifiquem a prisão processual do recorrente. A alegação da necessidade de preservação da ordem pública, motivada nos efeitos devastadores do tráfico de drogas à sociedade, especialmente na disseminação de outros delitos, configura nítido constrangimento ilegal. Cumpre ressaltar, ainda, que, além de não ter sido apreendida grande quantidade de droga (seis comprimidos de ecstasy e um microponto de LSD), o recorrente não ostenta maus antecedentes, sendo, a princípio, primário.
+Recurso em habeas corpus provido para revogar a prisão preventiva, ressalvada a aplicação de medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal, a serem definidas pelo Juiz de primeiro grau, observada a possibilidade de decretação de nova prisão, devidamente fundamentada, desde que demonstrada concretamente sua necessidade."
+(RHC 85.010/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 3/8/2017, DJe 14/8/2017);
+"HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO. IMPOSSIBILIDADE. TRÁFICO DE ENTORPECENTES PRÓXIMO A ESTABELECIMENTO DE ACOLHIMENTO DE ADOLESCENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CPP. REDUZIDA QUANTIDADE DE MATERIAL TÓXICO APREENDIDO. CONDIÇÕES PESSOAIS FAVORÁVEIS. PROVIDÊNCIAS CAUTELARES ALTERNATIVAS. ART. 319 DO CPP. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL EM PARTE DEMONSTRADA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. A aplicação de medidas cautelares, aqui incluída a prisão preventiva, requer análise, pelo julgador, de sua necessidade e adequação, a teor do art. 282 do CPP, observando-se, ainda, se a constrição é proporcional ao gravame resultante de eventual condenação.
+3. A prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar e quando realmente se mostre necessária e adequada às circunstâncias em que cometido o delito e às condições pessoais do agente. Exegese do art. 282, § 6º, do CPP.
+4. No caso, mostra-se devida e suficiente a imposição de medidas cautelares alternativas, dada a apreensão de reduzida quantidade de estupefacientes e as condições favoráveis pessoais do agente.
+5. Habeas corpus não conhecido, concedendo-se, contudo, a ordem de ofício, para substituir a cautelar da prisão pelas medidas alternativas previstas no art. 319, I, IV e V, do Código de Processo Penal."
+(HC 400.580/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 8/8/2017, DJe 17/8/2017).
+Ante o exposto, não conheço do habeas corpus. Não obstante, concedo a ordem, de ofício, para revogar a prisão preventiva imposta ao paciente mediante a aplicação de medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+Publique-se. Intimem-se.
