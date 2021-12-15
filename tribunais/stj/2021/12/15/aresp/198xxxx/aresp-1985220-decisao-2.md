@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado peloMunicípio de São Paulocontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 346):
+APELAÇÃO - Embargos à execução fiscal - Parcial procedência - Extinção do feito nos termos do art. 487, inc. I, do CPC - Acolhimento parcial do recurso da Municipalidade - Admissibilidade da incidência de juros caso existente saldo remanescente após quitação integral do passivo - Exegese do art. 18, alínea "d", da Lei 6.024/74 - Não acolhimento das alegações da embargante, relativas à inexigibilidade dos créditos e impossibilidade de penhora em razão da liquidação extrajudicial, bem como de admissibilidade de questionamento dos débitos objeto de adesão ao PPI - Precedentes deste Tribunal - Recurso da Municipalidade parcialmente provido, desprovido o recurso da autora.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC (fls. 648/651 e 711/713).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1.022 do CPC; 18,f, da Lei nº 6.021/74;1º do Decreto-Lei nº 1.477/76;1º da Lei nº 6.899/81; e 46 do ADCT. Sustenta que:(I)o acórdão recorrido foi omisso; e(II)"o art. 1º do Decreto-lei 1477/76, art. 1º do 6988/81 e art. 46 do ADCT acarretam a inaplicabilidade do artigo 18, "f", da Lei 6.024/74, de sorte que é devida correção monetária das sociedades em liquidação extrajudicial, mesmo após a data do decreto de liquidação" (fl. 735), sendo que "o art. 46 do ADCT é expresso ao determinar a incidência de correção monetária sobre as dívidas das entidades submetidas a liquidação extrajudicial, de sorte que se pode entender não tenha sido recepcionada a norma do art. 18, "f", da Lei 6024/74" (fl. 739).
+Ausentes as contrarrazões.
+Contraminuta ao agravo às fls. 834/839.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte agravante, nas razões dos embargos de declaração e do recurso especial, alega que: (I)o art. 1º do Decreto-Lei nº 1.477/76 revogou o disposto no art. 18,f, da Lei nº 6.024/74; e(II)este dispositivo legal não foi recepcionado pelo art. 46 do ADCT.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios do ora agravante, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+No caso, a Corte de origem, adotando a sentença como razões de decidir, analisou tão somente o disposto na Lei nº 6.899/81, deixando de se manifestar acerca dos demais diplomas legais e constitucionais trazidos na argumentação do Município. Veja-se (fl. 253):
+No que tange à correção monetária, aplica-se ao caso, o dispostono art. 18 da Lei nº 6.024/1974:
+ ..
+Importante ressaltar que a Lei n.º 6.899/81, que trata da correção monetária, não revogou a Lei n. 6.024/74, eis que esta é específica em relação à liquidação extrajudicial.
+Assim, é o caso de reconhecer a ocorrência de omissão.
+ANTE O EXPOSTO,conheço do agravo para dar provimento ao recurso especial, em ordem a anular o acórdão que apreciou os aludidos embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento da questão aqui tida por omitida.
+Publique-se.
