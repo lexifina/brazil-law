@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ANTONIO CARLOS DE OLIVEIRA, à decisão de fls. 386/387, que não conheceu do recurso.
+Sustenta a parte embargante que "Com efeito, conforme documento colacionado às fls. 6 e 7, do id. Número 94750545, o procurador do INSS extraviou os autos físicos tendo sido determinado pelo MM Juízo de piso que procedesse à restauração dos autos, em que não só constava o instrumento de mandato, como também o despacho que concedeu a gratuidade de justiça ao autor da demanda" (fl. 389).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a recorrente, no momento da interposição dos recursos, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao Dr. Jairo Andrade de Miranda e ao Dr. Alan Miranda, subscritores do recurso especial.
+Veja-se que o extravio dos autos se deu em 2013, sendo que o recurso especial foi apresentado em 2017, assim, ainda que a restauração não tenha sido integral, poderia a parte ora recorrente, ao interpor o recurso especial, juntar o respectivo instrumento de mandato a fim de sanar o vício, o que não ocorreu.
+Quanto à gratuidade, registre-se que ficou consignado na decisão ora embargada que, como o recurso especial versa exclusivamente sobre honorários, a gratuidade somente será observada se o próprio advogado fosse beneficiário. Assim, é impossível o deferimento de gratuidade ao advogado se encontrar na parte extraviada, uma vez que o tema foi debatido apenas no recurso especial em 2017, sendo que a restauração se deu em 2013.
+Não fosse isso, foi oportunizada, novamente, a regularização (fl. 379), publicada em 1/9/2021 (fl. 381), mas, a parte embargante quedou-se inerte (fl. 384).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
