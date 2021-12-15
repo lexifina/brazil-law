@@ -1,0 +1,28 @@
+DECISÃO
+REGINALDO TEIXEIRA RODRIGUES alega sofrer coação ilegal em virtude de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1345087-17.2021.8.13.0000.
+A defesa aponta excesso de prazo na constrição, pois o pacienteestá preso desde 20/7/2020 e o processo ainda não chegou ao seu fim. Argumenta: "A defesa do paciente vem trabalhando de forma firme e dentro da legalidade afim de buscar dar vigência as ADCs, 43, 44, e 54, do STF, que modularam os efeitos da prisão em segunda instância e acredita que a decisão do Excelso Tribunal, será validade nesta instância superior" (fl. 270).
+Lembra que os fatos em apuração aconteceram há aproximadamente 13 anos e exalta as condições favoráveis do insurgente, bem como o fato de ter filhos menores de 12 anos e o risco aumentado de contaminação por Covid-19 nos presídios brasileiros.
+Requer a revogação da custódia cautelar, ainda que com a imposição de outras medidas.
+Prestadas as informações, o Ministério Público Federal opinou pelo não provimento do recurso.
+Decido.
+Consta dos autos que o paciente teve sua prisão temporária decretada, de modo queestá custodiado desde 23/6/2020.
+Segundo as informações prestadas, o processo, distribuído inicialmente ao Juízo da 1ª Vara de Mateus Leme, precisou ser redistribuído, em virtude de suspeição da Magistrada lá oficiante.
+A prisão temporária foi convertida em preventiva por ocasião do recebimento da denúncia. Foi realizada audiência de instrução em 20/11/2020, continuadaem 27/11/2020, quando foi interrogado o réu.
+Apresentadas as alegações finais pelas partes, foi proferida decisão de pronúncia em 8/2/2021. A defesa interpôs recurso em sentido estrito, que ainda pende de julgamento.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global, e o reconhecimento do excesso de prazo na prisão deve se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso em sua particularidade.
+Na hipótese, como destacado pelo Tribunal a quo, não se verifica constrangimento ilegal, pois o feito registra andamento dentro da razoabilidade, o que se evidencia, especialmente, pelo fato de a instrução criminal já haver se encerrado e haver sido prolatada decisão de pronúncia.
+Tais circunstâncias demonstram ser inafastável a aplicação da Súmula n. 21 do STJ, in verbis(destaquei): "Pronunciado o réu,fica superada a alegação de constrangimento ilegal por excesso de prazo na instrução".
+A propósito:
+RECURSO EM SENTIDO ESTRITO. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO. RECLAMO APRECIADO. DELONGA NÃO EVIDENCIADA E JÁ SUPERADA. ORDEM DENEGADA.
+1. Ausente desídia ou negligência do Juízo singular, que vem sendo diligente na condução do processo, já quem em menos de um ano houve a prolação de sentença de pronúncia em desfavor do réu e, passado menos de outro ano, teve o recurso em sentido estrito julgado pela Corte de origem.
+2. Habeas corpus parcialmente conhecido e, nesta extensão, denegada a ordem.
+(HC n. 287.426/RS, Rel. MinistroJorge Mussi, 5ª T., DJe 1º/8/2014)
+Lembro que aconstrição provisória é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Como constatado pela Corte local, asegregação processual do réu foi devidamente mantida na pronúncia, pois o Magistrado primevo destacou (fls. 66-67, grifei):
+ ..  apontam as investigações que ao longo de décadas o denunciado vem praticando delitos desta e de outras naturezas, fazendo uso de sua influência no município e dos meios a que tem acesso para impedir a investigação dos crimes.
+Ressalte-se que aponta a autoridade policial, após concluir as investigações einquirir diversas testemunhas que o denunciado é ligado à prática de diversos outros crimes, que por sua vez estão conectados a outros criminosos, atuando este como possível chefe de organizações criminosas voltadas ao tráfico de drogas e à "grilagem" de terrenos, asseverando assim, ser a referida pessoa de alta periculosidade, que conta com a certeza da impunidade em razão de, anteriormente, ter exercido funções análogas à de policial civil nesta urbe bem como ocupado cargo de Vereador, tendo convívio com as mais diversas classes e espécies de indivíduos e garantindo favores a estes, tudo como forma de proteção à reputação e perpetuação da influência que exerce sobre as pessoas neste município.
+Além disto, registre-se que o denunciado está sendo processado neste mesmo Juízo pela prática de outro homicídio, na modalidade tentada, e outro na modalidade consumada, além dos delitos previstos nos artigos 299 e 312 do Código Penal  .. .
+Embora o insurgente não refute os fundamentos da prisão preventiva, entendo necessário esclarecer que, no presente caso, a custódia foi mantida por fundamentos idôneos e contemporâneos - especialmente, diante das notícias de reiteração delitiva ao longo dos anos-o que, aliado à constatação de que o processo tem seguido em prazo razoável, demonstra não haver que se falar em antecipação de pena e muito menos em desobediência às ADCs n. 43, 44 e 54 do STF, máxime porquenão há condenação.
+À vista do exposto, nego provimento ao recurso ordinário.
+Publique-se e intimem-se.
