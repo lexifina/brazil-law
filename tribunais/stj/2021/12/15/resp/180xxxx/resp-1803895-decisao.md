@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMT assim ementado (e-STJ fl. 550):
+RECURSO DE AGRAVO DE INSTRUMENTO. CONTROLE JUDICIAL DE LEGALIDADE DO PLANO DE RECUPERAÇÃO JUDICIAL APROVADO PELA ASSEMBLEIA GERAL DE CREDORES. POSSIBILIDADE. PREVISÃO DE SUPRESSÃO DAS GARANTIAS REAIS E PESSOAIS. VINCULAÇÃO APENAS DOS CREDORES QUE CONCORDARAM EXPRESSAMENTE COM A APROVAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL. MANUTENÇÃO DAS OBRIGAÇÕES CONTRAÍDAS PELOS FIADORES E COOBRIGADOS. RECURSO DESPROVIDO.
+Ainda que sejam soberanas, as decisões da Assembleia Geral de Credores não podem contrariar o ordenamento jurídico e, na espécie, não podem alcançar os credores que não manifestaram expressa anuência com a suspensão das próprias garantias reais e pessoais, muito menos, extinguir as obrigações contraídas pelos fiadores e coobrigados.
+Nas razões do recurso (e-STJ fls.560/595), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente apontadivergência jurisprudencial e ofensa aos arts. 35, I, "a", 49, §§ 1º e 2º, 50 e 59 da Lei n. 11.101/2005.
+Sustenta que aassembleia geral de credores tem soberania para deliberar sobre o mérito do plano de recuperação judicial, devendo prevalecer aquilo que foi decidido pela maioria.
+Afirma que "é vedado ao Judiciário imiscuir-se, por conta própria, na substância do plano de recuperação, não competindo a ele substituir o papel dos credores e adentrar na estratégia de recuperação, sobretudo porque o plano sempre tem como objeto direito disponível, de maneira que a insurgência contra ele é ato privativo dos credores" (e-STJ fls. 574/575).
+Defende que, diante da natureza negocial, são válidas as cláusulas do plano de recuperação judicial livremente aprovadas na assembleia geral de credores. Dessa forma, independente da concordância expressa do credor, é possível, por decisão da maioria em assembleia, a supressão das garantias e a extinção de todas as execuções contra a recuperanda e os coobrigados.
+Foram apresentadas contrarrazões (e-STJ fls. 665/673 e 675/695).
+Exercido o juízo de admissibilidade positivo na origem (e-STJ fls. 719/722), os autos vieram a esta Corte.
+O MPF opinou pelo não conhecimento do recurso (e-STJ fls. 758/762).
+É o relatório.
+Decido.
+O Tribunal de origem decidiu em consonância com o entendimento firmado no STJ, segundo o qual a supressão da garantia prevista em cláusula do plano de recuperação judicial não pode atingir o credor que não manifestou expressa concordância. Esta Corte também pacificou a jurisprudência no sentidode que a recuperação judicial do devedor principal não impede o prosseguimento das execuções contra os coobrigados.
+Confiram-se:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL E AÇÃO TRABALHISTA. INEXISTÊNCIA DE ATOS DE CONSTRIÇÃO DIRECIONADOS AO PATRIMÔNIO DA EMPRESA RECUPERANDA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PROMOVIDA NO JUÍZO LABORAL. POSSIBILIDADE. CONFLITO NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte Superior de Justiça possui firme o entendimento no sentido de que os atos de constrição tendentes à expropriação de bens essenciais à atividade empresarial e ao próprio soerguimento da empresa devem ser submetidos ao controle do Juízo da recuperação, até mesmo nos casos em que o crédito não se submeta ao plano de recuperação judicial, na esteira do regramento do artigo 49, e parágrafos, da Lei 11.101/2005.
+2. Todavia, no caso sob análise, inexiste demonstração de constrição patrimonial direcionada à suscitante, mas apenas à sócios e coobrigados.
+3. Segundo a redação da Súmula 581/STJ, "a recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória".
+4. A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005 (REsp 1333349/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/11/2014, DJe 02/02/2015).
+5. Não configura conflito de competência, em regra, a constrição de bens dos sócios da empresa em recuperação judicial, à qual foi aplicada, na Justiça Especializada, a desconsideração da personalidade jurídica (AgInt no CC 155.358/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 23/05/2018, DJe 30/05/2018) 6. Agravo interno não provido.
+(AgInt no CC 180.309/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 19/10/2021, DJe 22/10/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 211/STJ. ALEGAÇÃO GENÉRICA DE OFENSA DE OFENSA À LEI. SÚMULA 284/STF. SUPRESSÃO DE GARANTIAS. INEFICÁCIA DA CLÁUSULA DO PLANO EM RELAÇÃO AOS CREDORES QUE COM ELA NÃO ANUÍRAM. PRECEDENTES DA SEGUNDA SEÇÃO DO STJ. AFASTAMENTO DA RESPONSABILIDADE DOS COOBRIGADOS/CODEVEDORES. IMPOSSIBILIDADE.
+1. Ação de recuperação judicial.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A Segunda Seção do STJ firmou entendimento no sentido de que a cláusula do plano de recuperação judicial que prevê a supressão de garantias somente é eficaz em relação aos credores que com ela anuíram.
+4. A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei 11.101/2005.
+5. Agravo interno não provido.
+(AgInt no REsp 1853498/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/10/2021, DJe 06/10/2021.)
+RECURSO ESPECIAL. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO. NOVAÇÃO. EXTENSÃO. COOBRIGADOS. IMPOSSIBILIDADE. GARANTIAS. SUPRESSÃO OU SUBSTITUIÇÃO. CONSENTIMENTO. CREDOR TITULAR. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se a cláusula do plano de recuperação judicial que prevê a supressão das garantias reais e fidejussórias pode atingir os credores que não manifestaram sua expressa concordância com a aprovação do plano.
+3. A cláusula que estende a novação aos coobrigados é legítima e oponível apenas aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não sendo eficaz em relação aos credores ausentes da assembleia geral, aos que abstiveram-se de votar ou se posicionaram contra tal disposição.
+4. A anuência do titular da garantia real é indispensável na hipótese em que o plano de recuperação judicial prevê a sua supressão ou substituição.
+5. Recurso especial interposto Tonon Bionergia S.A., Tonon Holding S.A. e Tonon Luxemborg S.A. não provido. Agravo em recurso especial interposto por CCB BRASIL - China Construction Bank (Brasil) Banco Múltiplo não conhecido.
+(REsp 1794209/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 12/05/2021, DJe 29/06/2021.)
+Em face do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
