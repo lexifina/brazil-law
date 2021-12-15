@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 368/372).
+O acórdão recorrido está assim ementado (e-STJ fl. 329):
+EMENTA: < APELAÇÃO CÍVEL - RESPONSABILIDADE CIVIL - IMPORTAÇÃO DIRETA - ATUAÇÃO DE EMPRESA COMO CONSULTORA NA IMPORTAÇÃO E DESEMBARAÇO ADUANEIRO, SEM PARTICIPAÇÃO NO NEGÓCIO OU ASSUNÇÃO DA RESPONSABILIDADE PELA INTEGRIDADE DO PRODUTO - CDC - INAPLICABILIDADE - PERECIMENTO NO TRANSPORTE - PERDA TOTAL - IMPOSSIBILIDADE DE SE IMPUTAR À APELANTE A RESPONSABILIDADE PELO PREJUÍZO - PEDIDOS JULGADOS IMPROCEDENTES. Nos contratos firmados entre pessoas jurídicas, uma de consultoria em importação e outra de alimentos, não há que se aplicar o Código de Defesa do Consumidor, devendo prevalecer, na espécie, o regramento civilista conjugado com o CPC e com as regras de comércio internacional. Pela teoria da asserção, a legitimidade deve ser aferida em abstrato, ou seja, legitimados para a ação são os sujeitos da lide. Assim, a legitimidade ativa cabe ao titular do interesse pleiteado na inicial e a passiva ao titular do interesse que se opõe ou resiste à pretensão autoral. Para que surja o dever de indenizar, deve-se concluir pela presença dos três elementos caracterizadores da responsabilidade civil, a saber: conduta ilícita, o dano e o nexo de causalidade. Restando aferido que a compra de peixe congelado proveniente da China consistiu em uma importação direta da autora com o fornecedor externo, e que a participação da ré foi de mera orientação e desembaraço aduaneiro, não pode a empresa de consultoria, neste caso, ser condenada a indenizar os prejuízos decorrentes do perecimento da mercadoria.>
+No recurso especial (e-STJ fls. 342/359),fundamentado no art. 105, III, "a", da CF, a recorrente alega ofensa:
+(i) ao art. 2º do CDC. Sustenta que (e-STJ fls. 350/353):
+ ..  é patente a relação de consumo, sendo a Recorrente consumidora e se encaixando perfeitamente ao conceito de destinatária final, em observância ao disposto no Art. 2º do Código de Defesa do Consumidor, não havendo nenhum empecilho por se tratarem de pessoas jurídicas,  ..
+existe a Teoria Finalista Mitigada ou Finalista Aprofundada, que forma intermediária, que não observa apenas a destinação do produto ou serviço adquirido, levando em consideração, também, o porte econômico do consumidor.
+ .. verifica-se que a Recorrente adquiriu o serviço da Recorrida justamente como destinatária final, eis que possuía vulnerabilidade em relação ao serviço contratado, não possuindo conhecimento para tanto.
+(ii) ao art. 14 do CDC, pois (e-STJ fl. 356):
+ ..  a responsabilidade do fornecedor é objetiva, ou seja, independente de dolo ou culpa. Logo, é certa a obrigação do fornecedor em ressarcir os danos sofridos pelo consumidor.
+No caso em tela, restou demonstrada a falha na prestação dos serviços pela Recorrida, sendo incontestável a responsabilidade desta pelo prejuízo material causado a Recorrente.
+A farta documentação coligida aos autos demonstrou que a Recorrida foi contratada pela Recorrente para operacionalizar o processo de importação discutido nos autos e devidamente comprovado no momento oportuno, por meio de prova testemunhal.
+No agravo (e-STJ fls. 375/379), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Quanto às alegações de aplicação da teoria finalista mitigada diante da vulnerabilidade da recorrente, bem como de ofensa ao art. 14 do CDC, não houve pronunciamento do Tribunal a quo sobre essas questões, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência, por falta de prequestionamento. Assim, devem ser aplicadas as Súmulas n. 282 e 356 do STF.
+Ante o exposto, CONHEÇO do agravo e NEGO PROVIMENTO ao especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
