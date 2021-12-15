@@ -1,0 +1,27 @@
+DECISÃO
+  PROCESSUAL  CIVIL  E  ADMINISTRATIVO.  RECURSO  ESPECIAL.  EXECUÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. HONORÁRIOS SOBRE HONORÁRIOS. FASES DIVERSAS. CABIMENTO.  RECURSO  ESPECIAL  DO  INSS  NÃO  PROVIDO.
+1.  Trata-se  de  recurso  especial  interposto  pelo  INSS,  com  fundamento  no  art.  105,  inciso  III,  alínea  a,  da  CF/1988,  no  qual  se  insurge  contra  acórdão  proferido  pelo  TRF  da  4ª  Região,  assim  ementado:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. POSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS SOBRE HONORÁRIOS, SEM QUE ISSO IMPLIQUE BIS IN IDEM, QUANDO REFERENTE A FASE PROCESSUAL DIVERSA (EXECUÇÃO). DECISÃO MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO (fls. 44).
+2. Opostos embargos de declaração, foram acolhidos para efeito de prequestionamento.
+3.  Nas  razões  do  seu  recurso  especial  (fls.  76/85),  a  parte  recorrente  sustenta  violação  dos  arts 1.022, por omissão no julgado, e 884 do CC/2002, argumentado quedeve ser excluída a fixação de honorários no procedimento de cumprimento de sentença, uma vez que possui como objeto a execução de verba honorária já fixada em fase executiva, caracterizando bis in idem.
+4.  Devidamente  intimada,  a  parte  recorrida  apresentou  as  contrarrazões  (fls.  90/91).  O  recurso  especial  foi  admitido  na  origem  (fls.  94).
+5.  É  o  relatório.
+6.  A  irresignação  não  merece  prosperar  .
+7.  Inicialmente,  é  importante  ressaltar  que  o  presente  recurso  atrai  a  incidência  do  Enunciado  Administrativo  3  do  STJ,  segundo  o  qual,  aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016),  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  Código.
+8. Ainda, em caráter preliminar, inexiste a alegada violação do art.1.022do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de qualquer erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+9.  Nos  exatos  termos  do  acórdão  recorrido,  a  Corte  local  assim  se  manifestou  sobre  o  tema:
+A discussão versa sobre sobre a fixação de honorários advocatícios na fase de cumprimento de sentença.
+No entendimento do STJ, há "possibilidade da fixação de honorários sobre honorários, sem que isso implique bis in idem, porquanto referente a fase diversa (execução)." (REsp 1809214 / RS; Ministro Herman Benjamin; DJe 01/07/2019).
+A decisão recorrida deve ser mantida.
+Ante o exposto, voto por negar provimento ao agravo de instrumento, nos termos da fundamentação (fls. 46/47).
+10. Com efeito,é firme a jurisprudência do STJ quanto à possibilidade de fixação de honorários advocatícios na execução dos próprios honorários, desde que não se refiram à mesma fase procedimental, visto que ensejaria indiscutível bis in idem. A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. OFENSA AO ART. 1.022 DO CPC/2015 NÃO DEMONSTRADA. HONORÁRIOS SOBRE HONORÁRIOS. FASES DIVERSAS. CABIMENTO. IMPUGNAÇÃO PARCIAL. HONORÁRIOS INCIDENTES SOBRE PARCELA IMPUGNADA.
+1. Não se configura a ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. O acórdão recorrido está em concordância com o atual entendimento do Superior Tribunal de Justiça quanto à possibilidade da fixação de honorários sobre honorários, sem que isso implique bis in idem, porquanto referente a fase diversa (execução).
+3. Também não diverge da jurisprudência do STJ o entendimento de que, no caso de impugnação parcial, os honorários incidem sobre a parcela contestada. Nesse sentido: AgInt no REsp 1.618.060/RS, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2017. 4. Recursos Especiais conhecidos em parte, somente quanto à preliminar de violação do art. 1.022 do CPC, e, nessa extensão, não providos(REsp. 1.809.214/RS, Rel. Min.HERMAN BENJAMIN,DJe 1o.7.2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA. CABIMENTO DE HONORÁRIOS EM EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS, SEM QUE ISSO IMPLIQUE BIS IN IDEM, PORQUANTO SE REFEREM À FASE DIVERSA DO PROCESSO. AGRAVO INTERNO DA UNIVERSIDADE FEDERAL DE SANTA MARIA - UFSM A QUE SE NEGA PROVIMENTO.
+1. É entendimento desta Corte Superior a possibilidade de fixação de honorários advocatícios na execução dos próprios honorários, desde que não se refiram à mesma fase procedimental, visto que ensejaria indiscutível bis in idem. Nesse sentido: REsp. 1.659.466/RS, Rel. Min. HERMAN BENJAMIN, DJe 16.6.2017.
+2. Agravo Interno da UNIVERSIDADE FEDERAL DE SANTA MARIA - UFSM a que se nega provimento(AgInt no REsp. 1.528.264/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 25.6.2019).
+11. Vale acrescentar que a análise sobre se o processo se encontra na mesma fase executiva ou não, para fins de bis in idem, tratando da mesma matéria, pressupõe o reexame dos elementos fático-probatórios contidos nos autos, inclusive com o cotejamento de peças processuais, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ.
+12.  Ante  o  exposto,  nega-se  provimento  ao  Recurso  Especial  do  INSS.
+13.  Publique-se.  Intimações  necessárias.
