@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus interposto em face de acórdão assim relatado (fl. 23):
+O Dr. Michael Pereira Lima Morandin, advogado, impetrou a presente ordem de "habeas-corpus", com pedido de liminar, em favor de Valdeir Antunes, aduzindo que está ele sofrendo constrangimento ilegal por parte do MM. Juiz de Direito da 6ª Vara Criminal da Comarca de Campinas, eis que preso em flagrante, em 21 de junho de 2021, por suposta infração aos artigos 14, "caput", e 15, "caput", da Lei nº 10.826/2003, na forma do artigo 69, "caput", do Código Penal, teve sua prisão convertida em preventiva, em despacho não fundamentado, e indeferido seu pedido de revogação da referida medida, encontrando-se indevidamente encarcerado até a presente data, muito embora ausentes seus requisitos autorizadores da medida cautelar.
+Sustenta o digno impetrante que o ora paciente é primário, possui bons antecedentes, residência fixa e emprego lícito.
+Alega, ainda, que em virtude da pandemia da "Covid-19", o Conselho Nacional de Justiça, através da Recomendação nº 62, lançou decisão favorável à liberdade provisória, com a reavaliação das prisões, o que se amolda ao caso em tela.
+Postula, pois, a revogação da prisão preventiva, deferindo a liberdade provisória com a aplicação de de medidas cautelares diversas à prisão ou, então, a prisão domiciliar, expedindo-se Alvará de Soltura. (fls. 01/12).
+A liminar foi indeferida consoante o r. despacho de fls.153/154.
+As informações solicitadas encontram-se às fls.
+157/158.
+O ilustre Dr. Procurador de Justiça, em seu Parecer de fls. 161/166, opinou pela denegação da ordem.
+É O RELATÓRIO.
+Consta dos autos que o paciente foi preso em flagrante, convertido em prisão preventiva, pela prática dos crimes previstos nos arts.14, "caput", e 15, "caput", da Lei nº 10.826/2003, na forma do artigo 69, "caput", do Código Penal.
+O impetrante argumenta, em suma, que a decisão que decretou a prisão preventiva carece de fundamentação idônea, pois se baseou em argumentos abstratos. Destaca a falta de proporcionalidade da prisão.
+Requer, liminarmente e no mérito, seja expedidoalvará de soltura para a colocação do paciente em liberdade.
+A liminar foi indeferida. Prestadas as informações, o Ministério Público Federal se manifestou pelo não conhecimento da ordem.
+Consta das informações atualizadas que a audiência de instrução e julgamento foi designada para dia 26/1/2022.
+A decisão que decretou a prisão preventiva do paciente foi assim fundamentada (fls. 84-86):
+ .. . Cuida-se de crimes dolosos cujas penas privativas de liberdade máxima somadas superam os 4 anos previstos no artigo 313, I, CPP. É dos autos que o autor, além de ter realizado um disparo de arma de fogo para o alto sem motivo aparente, quando questionado, efetuou mais dois disparos na direção de sua ex-enteada e do namorado dela, onde ainda se encontravam as duas filhas da vítima, colocando todos em risco.
+Ademais, o agente, alcoolizado, tentou se evadir dirigindo um carro e resistiu à abordagem policial, segurou um podão em mãos e portava mais dois facões em sua cintura.
+No veículo do averiguado foram encontrados 12 cartuchos de calibre 12 defragados e, no terreno próximo a ele, foi localizada a espingarda com mais dois cartuchos deflagrados.
+Tudo isso demonstra a intenção de o agente se furtar à aplicação da lei penal, prejudicar a instrução processual, além de evidenciar que a liberdade de Valdeir representa risco concreto à integridade física da vítima.
+Assim, converto a prisão em flagrante em preventiva.
+Expeça-se mandado de prisão.
+Como se vê, consta do decreto deprisão preventiva fundamentação suficiente, com destaque paraas circunstâncias em que cometido o delito, tendo o paciente disparado arma de fogo para o alto e em direção de sua ex-enteada e seu namorado, os quais estavam próximos a outras pessoas. Demais disso, tentou fugir e resistiu à abordagem policial.
+A jurisprudência desta Corte Superior é no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confira-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Ademais, esta Corte entende que a tentativa de fuga no momento da abordagem policial, após a prática criminosa, inclusive com resistência física, perseguição em alta velocidade, e troca de tiros com agentes policiais, são circunstâncias fáticas que justificam a prisão preventiva. Conforme os seguintes precedentes: RHC 71.563/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/8/2016, DJe 9/8/2016; HC 398.318/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/8/2017, DJe 29/8/2017; HC 403.269/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe 1/12/2017; RHC 74.131/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/12/2016, DJe 01/02/2017.
+A desproporcionalidade da constrição cautelar somente poderá ser aferida após a sentença, não cabendo, na via eleita, a antecipação da análise quanto à possibilidade de cumprimento de pena em regime menos gravoso que o fechado, caso seja proferido édito condenatório, porque exige produção de prova, o que não é permitido no procedimento do habeas corpus. A esse respeito: AgRg no RHC 77.138/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017; e HC 360.342/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
