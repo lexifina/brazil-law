@@ -1,0 +1,17 @@
+DECISÃO
+MARCOS VINICIUS DE SOUZAalega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeirona Apelação n. 0327050-90.2018.8.19.0001.
+Neste habeas corpus, a defesa afirmaser o caso de reconhecimento do concurso formal próprio, entre os crimes de roubo e latrocínio, pois não foi comprovada a existência de desígnios autônomos entre as condutas.
+Indeferida a liminar e dispensadas as informações, veio o parecer do Ministério Público Federal, que opinou pela denegação da ordem (fls. 142-147).
+Decido.
+O Tribunal de origem assim se pronunciou acerca da existência de concurso formal impróprio(fls. 58-60):
+ ..  A defesa pugna pelo reconhecimento do crime continuado entre o latrocínio e o roubo. Sem razão, porém. É certo que os crimes de latrocínio e roubo aconteceram nas mesmas condições de tempo e lugar. Contudo, são crimes claramente distintos, sendo inviável reconhecer que um é continuação do outro, porque foram vulnerados, no primeiro, avida e o patrimônio, e no segundo, somente o patrimônio da vítima. Ainda que os crimes em questão sejam do mesmo gênero, porque ambos vulneram o patrimônio, não podem ser considerados da mesma espécie. Falta, portanto, um dos requisitos para a caracterização do crime continuado, a saber, que sejam crimes da mesma espécie. O Superior Tribunal de Justiça tem decidido que latrocínio e roubo não são crimes da mesma espécie, e portanto não é viável o reconhecimento do crime continuado .. . Portanto, fica mantido o concurso formal impróprio de crimes. Somadas as penas impostas pela prática dos crimes do artigo 157 §3º inciso II e artigo 157 §2º inciso II e §2º-A inciso I do Código Penal, obtêm-se as penas, ora reduzidas, de 28 (vinte e oito) anos de reclusão e 30 (trinta) dias-multa  .. .
+Como se observa, a Corte local concluiu pela hipótese de concurso formal impróprio, ante a constatação de ser hipótese de desígnios autônomos e crimes diversos de roubo e latrocínio.
+Portanto, não verifico a ocorrência da ilegalidade apontada, pois o Tribunal local decidiu em harmonia com o posicionamento assentado nesta Corte Superior.Ademais, para alterar a conclusão adotada pela instância de origemseria necessária a dilação probatória, procedimento vedado em habeas corpus. A propósito, mutatis mutandis:
+ ..
+1. A jurisprudência desta Corte, ao analisar o tema, firmou-se no sentido de que, configurado o crime de latrocínio, com o objetivo de única subtração patrimonial, mas com a presença de desígnios autônomos de obter mais de um resultado morte, fica caracterizado o concurso formal impróprio, previsto no art. 70, parte final, do Código Penal, segundo o qual as penas cominadas serão aplicadas cumulativamente, seguindo a previsão do concurso material de crimes.
+2. A distinção entre o concurso formal próprio e o impróprio relaciona-se com o elemento subjetivo do agente, ou seja, a existência ou não de desígnios autônomos (AgRg no REsp 1.299.942/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 21/6/2013).
+3. A análise da alegação de que as tentativas de latrocínio praticadas decorrem de desígnio único demandaria, necessariamente, o reexame do conjunto fático-probatório, inviável em sede de habeas corpus.
+4. Agravo regimental não provido.
+(AgRg no HC n. 612.147/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 20/10/2020, destaquei)
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
