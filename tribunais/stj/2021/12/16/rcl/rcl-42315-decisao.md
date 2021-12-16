@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de reclamação ajuizada em face de acórdão assim ementado (fl. 256):
+DECISÃO RECURSO AGRAVO INTERNO EM RECURSO ESPECIAL - MONOCRÁTICA QUE NEGA SEGUIMENTO A ESPECIAL  CONFORMIDADE À TESE FIRMADA PELO STJ SOB O TEMA 984 - HONORÁRIOS  ADVOGADO DATIVO  TABELA DA OAB/ES  CARÁTER NÃO VINCULANTE  REFERÊNCIA - RECURSO CONHECIDO E NÃO PROVIDO.
+1  Ao julgar o REsp 1656322/SC, sob a sistemática da repetitividade recursal (Tema 984). o Tribunal da Cidadania fixou teses no seguinte sentido:
+"I") As tabelas de honorários elaboradas unilateralmente pelos Conselhos Seccionais da OAB não vinculam o magistrado no momento de arbitrar o valor da remuneração a que faz jus o defensor dativo que atua no processo penal; servem como referência para o estabelecimento de valor que seja justo e que reflita o labor despendido pelo advogado; 2") Nas hipóteses em que o juiz da causa considerar desproporcional a quantia indicada na Tabela da OAB em relação aos esforços despendidos pelo defensor dativo para os atos processuais praticados. poderá. motivadamente, arbitrar outro valor 2  Assim, de acordo com o precedente vinculante. os valores da tabela da OAB não são vinculantes para fins de fixação de honorários em favor de defensor dativo. Todavia, devem valer de referência, de tal modo que, se entendidos como elevados, deverá o juiz assim expor e motivar a escolha de critério outro para tal desiderato.
+3  Sob esse prisma, encontra-se em conformidade com o entendimento firmado sob o Tema 984 do STJ o acórdão que fixe honorários em favor do advogado dativo em quantia inferior ao previsto na Tabela da OAB. sem desconsiderar a existência dela, mas ressaltando a ausência de caráter vinculante. fundamentando o quantum arbitrado em circunstâncias especificas relativas ao desempenho do munus.
+5  Agravo interno conhecido e não provido.
+Consta dos autos que a reclamante atuou no processo n. 0000663-75.2015.8.08.0049 perante o Tribunal de Justiça do Estado do Espírito Santo como advogada dativa. Pela sua atuação nas duas instâncias teve os honorários fixados em R$ 1.200,00.
+Irresignada, interpôs recurso especial na origem, o qual foi inadmitido. Em seguida, a reclamante interpôs agravo interno perante o Tribunal de origem, que também foi improvido.
+Sustenta a reclamante que o acórdão impugnado não observouas premissas de fixação dos honorários advocatícios em processos criminais, estabelecidaspor este Superior Tribunal de Justiça no Tema Repetitivo nº 984. O valor arbitrado pelas instâncias ordinárias "além de aviltar os honorários, não remunera a Reclamante de forma digna" (fl. 10).
+Requer o provimento da reclamação para que o acórdão seja cassado de modo a ser promovida nova fixação dos honorários advocatícios.
+Prestadas informações, o Ministério Público Federal opinou pelo não conhecimento da reclamação.
+Com efeito, conforme apontado pelo parecer do Ministério Público,"segundo a orientação deste Superior Tribunal, firmada pela Corte Especial por ocasião do julgamento da Reclamação n. 36.476/SP, é inviável a utilização da reclamação para exame de indevida aplicação de precedente oriundo de recurso especial repetitivo" (AgRg na Rcl 38.094/GO, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 14/6/2021).
+Ainda nesse sentido:
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. CUMPRIMENTO SUCESSIVO DE PENAS PRIVATIVAS DE LIBERDADE. ART. 76 DO CÓDIGO PENAL  CP. MATÉRIA NÃO TRATADA NO RESP N. 1.364.192/RS, REPRESENTATIVO DE CONTROVÉRSIA. UTILIZAÇÃO DA RECLAMAÇÃO PARA GARANTIR A AUTORIDADE DE DECISÃO PROFERIDA EM RECURSO REPETITIVO. NÃO CABIMENTO. ORIENTAÇÃO FIRMADA PELA CORTE ESPECIAL NA RECLAMAÇÃO N. 36.476. AGRAVO REGIMENTAL DESPROVIDO.
+1. A matéria decidida na origem refere-se ao cumprimento sucessivo de penas privativas de liberdade, nos termos do art. 76 do Código Penal, sem nenhuma relação com a tratada no REsp n. 1.364.192/RS, representativo de controvérsia.
+2. Ademais, "segundo a orientação deste Superior Tribunal, firmada pela Corte Especial por ocasião do julgamento da Reclamação n. 36.476/SP, é inviável a utilização da reclamação para exame de indevida aplicação de precedente oriundo de recurso especial repetitivo" (AgRg na Rcl 38.094/GO, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 14/6/2021).
+3. Agravo regimental desprovido.
+(AgRg na Rcl 41.389/SP, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 08/09/2021, DJe 10/09/2021)
+Ante o exposto, não conheço da presente reclamação.
+Publique-se.
+Intimem-se.
