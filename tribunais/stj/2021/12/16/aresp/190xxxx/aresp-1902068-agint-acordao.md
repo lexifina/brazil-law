@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto pelo Estado do Alagoas contra decisão (fls. 611-613, e-STJ) proferida pela Presidência do STJ que não conheceu do Recurso Especial, ante óbice das Súmulas 282 e 356/STF.
+A parte agravante sustenta:
+O e. Relator negou provimento/seguimento ao Recurso - o qual atacou cada um dos argumentos lançados pelo TJAL para inadmitir o recurso aforado pelo Estado -, chancelando o entendimento de que a obrigação estatal seria líquida e atraindo, por consequência, que os juros moratórios tenham como termo inicial o inadimplemento de cada parcela.
+Entendimento este com o qual o Estado de Alagoas não concorda, com a devida vênia, por estar contrário à jurisprudência desta Corte, inclusive em julgados decididos sob a sistemática dos recursos repetitivos, sendo patente o reconhecimento da iliquidez da obrigação.
+(..)
+Por isso, está mais do que evidente que o Estado de Alagoas não pretende revolvimento fático-probatório, mas simplesmente a revaloração jurídica dos equívocos cometidos em sede de TJAL.
+Dessa forma, inaplicável a Súmula 7 do STJ - o que possibilita o pleno conhecimento da matéria trazida nas razões do Agravo e do Recurso Especial.
+Por outro lado, perceba-se que o dissenso jurisprudencial ainda é atual, merecendo a necessária análise por parte deste egrégio Tribunal - o que afasta, igualmente, a aplicação da Súmula 83 do STJ.
+Ademais, importante considerar que essa questão acessória referente à liquidez, ou não da obrigação, circunda o tema principal concernente ao objeto da ação e, por consequência, dos recursos apresentados, tendo o TJAL se debruçado sobre a questão, ao menos implicitamente, quando do deferimento dos juros de mora retroativo à data do pagamento a menor, e não à data da citação válida. Assim, também inaplicável a Súmula 282 e 356 do STF e a Súmula 211 do STJ, por estar devidamente prequestionada a matéria. Inclusive sendo, portanto, dispensável o apontamento de violação ao art. 1.022 do CPC.(fls. 616-617, e-STJ)
+Aduz que "o recurso especial deve ser provido para, considerando a obrigação ilíquida, fixar a data da citação do Estado como termo inicial dos juros moratórios" (fl. 622, e-STJ).
+Requer, ao final, a reconsideração do decisum agravado ou a submissão do feito ao Órgão Colegiado.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONTRATAÇÃO PRECÁRIA. ALEGADA OFENSA AOS ARTS. 240 DO CPC/2015 E 405 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. Cuida-se de inconformismo contra decisão da Presidência do STJ que conheceu do Agravo para não conhecer do Recurso Especial.
+2. O Tribunal a quo não se manifestou acerca dos dispositivos infraconstitucionais tidos por violados em seu Recurso Especial (arts. 240 do CPC/2015 e 405 do Código Civil), motivo pelo qual, à falta do prequestionamento, não se poderia conhecer do Recurso Especial nesse ponto, sendo aplicável ao caso o princípio estabelecido na Súmula 282/STF. Ressalte-se que nem sequer se opuseram Embargos de Declaração visando suprir eventual omissão.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 18 de outubro de 2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+O Recurso Especial (art. 105, III, "a", da CF/1988) foi interposto contra acórdão do Tribunal de Justiça do Estado de Alagoas assim ementado:
+APELAÇÃO CÍVEL. AÇÃO EM QUE SE PRETENDE O PAGAMENTO DE VERBAS A SERVIDOR CONTRATADO PRECARIAMENTE. SENTENÇA PROCEDENTE. APELAÇÃO DO ESTADO. TESE DE NÃO CABIMENTO DA CONDENAÇÃO AO PAGAMENTO DOS VALORES RELATIVOS AO FGTS. CONTRATO SEM PRÉVIA APROVAÇÃO EM CONCURSO PÚBLICO. CONTRATO NULO. INTELIGÊNCIA DO ART. 37, § 2º, DA CONSTITUIÇÃO FEDERAL. DIREITO SOMENTE À PERCEPÇÃO DE SALDO DE SALÁRIO E FGTS. SÚMULAS 363 DO TST E 466 DO STJ. PRECEDENTES DO STJ E DO TJ/AL. TESE DO APELANTE REJEITADA. DESCABIMENTO DA INVERSÃO DO ÔNUS DA SUCUMBÊNCIA. FIXAÇÃO DE OFÍCIO DOS CONSECTÁRIOS LEGAIS DA CONDENAÇÃO. RECURSO CONHECIDO E NÃO PROVIDO. UNANIMIDADE.
+Em suas razões recursais, aduz violação dos arts. 240 do CPC/2015 e 405 do Código Civil, defendendo, em suma, "que o termo inicial de incidência de juros de mora deve ser a partir da citação válida e não do inadimplemento." (fl. 551, e-STJ).
+Para melhor elucidação da controvérsia, cumpre transcrever, no que interessa, trecho do acórdão proferido pelo Tribunal de origem:
+A matéria devolvida a análise para esta Corte consiste na possibilidade de pagamento pelo Estado de Alagoas de valores relativos a FGTS  Fundo de Garantia por Tempo de Serviço, a pessoa contratada temporariamente sem concurso público para prestação de serviços de professor/monitor.
+Como é cediço, a Constituição Federal de 1988 previu o concurso público como requisito necessário à admissão nos cargos públicos, salvo as exceções previstas pelo próprio texto constitucional. Nesse cenário, o art. 37, IX" , da Constituição Federal de 1988, autoriza a contratação por tempo determinado para atender necessidade temporária de excepcional interesse público.
+Quando não demonstrada a excepcionalidade ou o caráter urgente dos serviços prestados pela parte contratada, tendo sua contratação sido realizada de forma direta, sem a observância das normas constitucionais, há o ensejo da nulidade do ato, nos termos do artigo 37, §2º, da CF.
+Nesses casos, embora a contratação ocorra de maneira irregular, uma vez comprovada que a contratada efetivamente fez parte dos quadros de servidores do ente público, faz-se necessário o pagamento da contraprestação adequada, sob pena de ensejar enriquecimento sem causa do ente público em detrimento do particular.
+No caso dos autos, tal ponto não foi questionado pelo apelante, tendo o Estado de Alagoas se insurgido apenas em relação ao pagamento dos valores relativos ao FGTS pelos serviços prestados pela apelada.
+Nesse ponto, a jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que a contratação temporária feita em desconformidade com os requisitos constitucionais não gera efeitos jurídicos válidos em relação aos contratados, apenas o direito à percepção dos salários referentes ao período trabalhado e o levantamento dos valores de FGTS.
+(..)
+Assim, não assiste razão ao apelante, devendo ser mantida a condenação ao pagamento dos valores relativos ao FGTS, bem como a condenação ao ônus da sucumbência.
+Em relação à condenação, verifico que o magistrado a quo incorreu em singelo lapso em relação aos consectários legais, motivo pelo qual determino, de oficio, que tanto a correção monetária quanto os juros incidirão desde o inadimplemento, conforme disposto no art. 397, do CC/02 e na súmula 43, do STJ. Os juros de mora deverão ser fixados no percentual estabelecido para a caderneta de poupança, e a correção monetária pelo IPCA-E. (fls. 535-538, e-STJ).
+Conforme assentado na decisão monocrática, a Corte de origem não emitiu manifestação acerca dos dispositivos infraconstitucionais tidos por violados (arts. 240 do CPC/2015 e 405 do Código Civil), motivo pelo qual, à falta do prequestionamento, não se pode conhecer do Recurso Especial, sendo aplicável ao caso o princípio estabelecido na Súmula 282/STF.
+Ressalte-se que nem sequer foram opostos Embargos de Declaração visando suprir eventual omissão.
+Registro que, nos termos da reiterada jurisprudência deste Tribunal Superior, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate, à luz da legislação federal indicada, com manifestação da Corte de origem, a qual deverá emitir juízo de valor sobre os dispositivos legais ao decidir pela sua adoção ou seu afastamento em relação a cada caso concreto, o que não se deu na espécie.
+Destaca-se ainda que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, é admissível somente quando, após a oposição de Embargos de Declaração na origem, a parte recorrente apontar violação do art. 1.022 do mesmo diploma, porquanto só dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada in casu.
+Ilustrativamente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR. URV. REAJUSTE DE 11, 98%. JUROS DE MORA. ALEGADA OFENSA AOS ARTS. 219 DO CPC/1973; 240 DO CPC/2015; E 397, PARÁGRAFO ÚNICO, E 405 DO CÓDIGO CIVIL. PREQUESTIONAMENTO NÃO CARACTERIZADO. AUSÊNCIA DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. SÚMULA 211/STJ.
+1. Nas razões do Recurso Especial, a parte recorrente aponta ofensa aos 219 do CPC/1973; 240 do CPC/2015; e 397, parágrafo único, e 405 do Código Civil, argumentando que "é descabido o pagamento administrativo de juros de mora em hipótese em que a Administração pagou o valor principal espontaneamente, sem necessitar de propositura de ação própria e sem ter sido citada previamente em ação própria, eis que não restou configurada a mora" (fl. 150, e-STJ).
+2. O Tribunal Regional não emitiu nenhum juízo sobre os dispositivos legais cuja afronta se aduz. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por malferidos não foram apreciados pela Corte a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento.
+3. Em conformidade com a orientação remansosa do STJ, caberia à parte, nas razões do seu Recurso Especial, alegar violação do artigo 535 do CPC/1973 (art. 1.022 do CPC/2015), a fim de que o STJ pudesse averiguar a existência de possível omissão no julgado, o que não foi feito. Incide, na espécie, a Súmula 211/STJ.
+4. Recurso Especial não conhecido.
+(REsp 1755138/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 22/4/2019).
+Conclui-se que o Recurso Especial não merece conhecimento, devendo ser mantida a decisão da Presidência.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
