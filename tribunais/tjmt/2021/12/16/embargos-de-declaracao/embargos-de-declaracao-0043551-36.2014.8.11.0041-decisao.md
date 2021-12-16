@@ -1,0 +1,24 @@
+RECURSO DE EMBARGOS DE DECLARAÇÃO N.o 0043551-36.2014.8.11.0041
+Vistos etc.
+Cuida-se de Embargos de Declaração oposto pela empresa Formax Construções Civis Ltda. - ME, ao argumento de que há omissão no despacho de Id. 111021493, em que determinei sua intimação para recolher o preparo recursal em dobro, no prazo de 05 (cinco) dias, sob pena de deserção.
+Alega que não formulou pedido de gratuidade durante o trâmite da ação e, “em respeito ao juízo de admissibilidade do recurso realizado pelo r. Juízo a quo, apresentou o referido requerimento na peça de ingresso, pois sequer existia na r. sentença e/ou na r. decisão que rejeitou os embargos o indeferimento do pedido de justiça gratuita.”
+No seu entender, como a petição de ingresso do Recurso de Apelação é dirigida ao Juízo de primeiro grau, nos termos do artigo 1.010, do CPC, “caberia a ele, como de costume, a apreciação do referido pedido, inclusive, nos termos do art. 99 do CPC.”
+Insiste na tese de que, como “ainda não havia formulado o pedido de justiça gratuita, o que, por consequência, não foi objeto de decisão pelo r. Juízo a quo, não existia razões recursais para apresentar fundamentos quanto ao pleito de assistência judiciária.”
+Também reitera que “apresentou o pedido na peça de ingresso justamente porque caberia ao r. Juiz a quo o juízo de admissibilidade, inclusive, com indeferimento ou deferimento da gratuidade, o que ainda não ocorreu.”
+A Embargante vai além e formula a seguinte pergunta:
+Se os benefícios da justiça gratuita ainda não haviam sido pleiteados, como poderia recorrer ou a presentar razões recursais nesse sentido?
+Na sequência, a empresa Embargante afirma que esta Corte Estadual “já reconheceu da possibilidade do pedido de justiça gratuita quando da interposição do recurso” e transcreve precedente da Primeira Câmara de Direito Público, julgado em 24/11/2021, donde se extrai o seguinte trecho (sem grifos no original):
+[...] 4. Se no ato da interposição da apelação o recorrente não comprovar o recolhimento das custas processuais tampouco formular pedido de gratuidade da justiça, impõe-se a aplicação do disposto no §4o do artigo 1.007 do CPC, a fim de oportunizar o recolhimento do preparo em dobro.
+5. A falta de recolhimento do preparo recursal após a intimação da parte Agravante impõe a inadmissibilidade do recurso por deserção.
+Ainda alega que o caput do artigo 99, do CPC, “não prevê em qual momento é necessário apresentar o pedido de justiça gratuita, seja na peça de ingressa ou nas razões recursais."
+Com esses fundamentos, pugna seja sanada a alegada omissão e conhecido o pedido de gratuidade.
+Nos termos da Jurisprudência pacífica do STJ, não é cabível a oposição de aclaratórios contra o despacho que determina a intimação da parte regularizar o preparo do recurso, porque tal ato não possui natureza decisória. (AgInt nos EDcl no AREsp 1604404/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/05/2021, DJe 17/05/2021).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. APLICAÇÃO DA PENA DE DESERÇÃO. 1. Na égide do CPC/2015, não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, após intimado, o recorrente deverá realizar o recolhimento em dobro, sob pena de deserção (art. 1004, caput e § 4o, do CPC). 2. O CPC/2015 é expresso em afirmar que, caso o recolhimento não seja comprovado no momento de interposição do recurso, ele deve ser realizado em dobro. 3. Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso e não atendendo a determinação legal de, após intimado, efetuar o recolhimento em dobro, é de rigor que à parte recorrente seja imposta a pena de deserção do recurso. 4. Ademais, cumpre ressaltar ser "(...) incabível a oposição de embargos de declaração em face de ato judicial que determina a intimação da parte para regularizar o preparo. Isso porque esse ato possui natureza jurídica de despacho e não de decisão, sendo portanto, irrecorrível, nos termos do art. 1.001 do CPC/15." (EDcl no AgInt nos EDcl no AREsp 1381749/SE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/11/2019, DJe 27/11/2019). 5. Agravo interno não provido. (AgInt no AREsp 1524472/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2020, DJe 02/02/2021). (sem grifos no original)
+Assim, não conheço do Recurso de Embargos de Declaração porque o ato judicial que determina o recolhimento do preparo tem natureza de despacho e, de conseguinte, é irrecorrível.
+Certifique-se se houve o recolhimento do preparo, no valor e prazo constante do Id. 111021493.
+Após, conclusos.
+Cumpra-se.
+Cuiabá-MT, 16 de dezembro de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
