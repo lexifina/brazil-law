@@ -1,0 +1,63 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta pelo Estado do Espírito Santo, em face da decisão proferida pelo Juízo da 4ª Vara do Trabalho de Brasília/DF nos autos do Processo 0000138-24.2018.5.10.0004.
+
+    Na petição inicial, o Estado reclamante sustenta, em síntese, que a decisão reclamada ofende a autoridade desta Corte, consubstanciada nas ADPFS 114/PI, 275/PB, 387/PI e 485/AP.
+
+    Colhem-se dos autos as seguintes informações:
+
+    “AURELILEIDE BARBOSA DE LACERDA ajuizou Reclamação Trabalhista em desfavor de COZISUL - ALIMENTAÇÃO COLETIVA EIRELI, SÉRGIO NUNES GÓES e DISTRITO FEDERAL, qualificados nos Autos n. 0000138-24.2018.5.10.0004, denunciando irregularidades no curso do contrato de trabalho, consoante narrativa propedêutica. Pretendeu a Autora manifestação judicial positiva quanto aos pedidos de fls. 12/14 dos Autos supra, pugnando pela condenação dos Reclamados, sendo o segundo de forma solidária e o DF de forma subsidiária.
+
+    O d. Juízo da causa julgou procedentes em parte os pedidos formulados pela Autora, condenando a primeira reclamada (COZISUL) ao adimplemento de obrigações salariais/rescisórias reconhecidas em sentença proferida nos Autos n. 0000138-24.2018.5.10.0004 (Id c591d7c), deferindo também o pedido de desconsideração da personalidade jurídica da primeira reclamada, com a responsabilização solidária do segundo reclamado - SÉRGIO NUNES GÓES e, ainda, absolvendo a terceira reclamada – DISTRITO FEDERAL – de qualquer parcela oriunda do contrato de trabalho em análise.
+
+    O trânsito em julgado da sentença proferida na fase de conhecimento se deu em 24/09/2018.
+
+    Iniciada a execução definitiva, o h. Juízo determinou o bloqueio de quaisquer créditos da empresa executada COZISUL - ALIMENTAÇÃO COLETIVA EIRELI - porventura existentes e em poder da Secretaria de Estado da Justiça do Estado do Espírito Santo até o importe de R$ 16.229,07 (Id a57ae55), expedindo, em ato consequente, Carta Precatória Executória, dirigida a uma das Varas do Trabalho de Vitória-ES, visando à penhora de créditos da Empresa executada jutos a terceiros (CartPrecCiv 0000526-49.2020.5.17.0007)”. (eDOC 1, p. 2)
+
+    Afirma que a constrição patrimonial em torno de recursos públicos estaduais configura manifesto vilipêndio a inúmeras garantias do reclamante, e que o bloqueio de verbas públicas, para fins de garantir o recebimento de verbas trabalhistas, afronta o decidido por esta Corte no julgamento das ADPFs 114, 275, 387 e 485, e Rcl 40.898-MC.
+
+    Requer assim a concessão de medida liminar para suspender os efeitos da decisão reclamada e, ao final, a cassação do ato.
+
+    Deferi a liminar para determinar a suspensão dos efeitos da decisão proferida nos autos do Processo 0000138-24.2018.5.10.0004, bem como qualquer determinação de bloqueio de créditos supostamente existente. (eDOC 13)
+
+    A autoridade reclamada prestou informações. (eDOC 23)
+
+    Regularmente citada, Aurelileide Barbosa de Lacerda, beneficiária da ação, deixou de apresentar contestação, consoante certificado no eDOC 40.
+
+    A Procuradoria-Geral da República manifestou-se pela procedência da reclamação, consoante parecer assim emendado:
+
+    “RECLAMAÇÃO. DECISÕES PROFERIDAS NAS ADPFS 114/PI, 485/AP, 387/PI E 275/PB. BLOQUEIO DE RECEITAS PÚBLICAS POR DECISÃO JUDICIAL PARA SATISFAÇÃO DE CRÉDITOS TRABALHISTAS. OFENSA CONFIGURADA. PROCEDÊNCIA. 1. Decisão judicial que determina a constrição (bloqueio, penhora ou liberação em favor de terceiros) de receitas que estejam sob a disponibilidade do Poder Público, para a satisfação de créditos trabalhistas, viola a autoridade dos julgados proferidos nas ADPFs 114/PI, 485/AP, 387/PI e 275/PB. — Parecer pela procedência do pedido”. (eDOC 25)
+
+    É o relatório. Decido.
+
+    Entendo existir plausibilidade jurídica na tese defendida pelo reclamante.
+
+    Com efeito, no julgamento da ADPF 485, de relatoria do Min. Roberto Barroso, DJe 4.2.2021, esta Suprema Corte assentou a impossibilidade de constrição judicial (bloqueio, penhora ou liberação em favor de terceiros) de receitas que estejam sob a disponibilidade do Poder Público, para a satisfação de créditos trabalhistas. Nesses termos, julgou a ação parcialmente procedente, para declarar a inconstitucionalidade de atos constritivos sobre verbas públicas, consoante os termos do acórdão assim ementado:
+
+    “DIREITO CONSTITUCIONAL E PROCESSO CONSTITUCIONAL. ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. BLOQUEIO, PENHORA E SEQUESTRO DE VERBAS PÚBLICAS PELA JUSTIÇA DO TRABALHO. CABIMENTO DA ADPF PARA IMPUGNAR ATO JURISDICIONAL. 1. Arguição proposta pelo Governador do Amapá contra decisões judiciais proferidas sob a jurisdição do TRT-8ª Região que determinaram o bloqueio, a penhora e/ou o sequestro de verbas estaduais, ao fundamento de que os valores em questão constituiriam créditos devidos pelo Estado a empresas que são rés em ações trabalhistas. 2. As decisões judiciais se enquadram na definição de ‘ato do poder público’ de que trata o caput do art. 1º da Lei nº 9.882/1999, o que as sujeita ao controle concentrado de constitucionalidade via ADPF. A jurisprudência desta Corte firmou-se no sentido de que o requisito da subsidiariedade é satisfeito quando inexiste, no caso, outro meio processual eficaz para sanar a lesão a preceito fundamental de forma ampla, geral e imediata. Precedentes. 3. Atos de constrição praticados pela Justiça do Trabalho sobre verbas públicas, sob alegação de que as empresas reclamadas deteriam créditos a receber da administração estadual. Violação do contraditório, da ampla defesa, do princípio do juiz natural, do sistema de precatórios e da segurança orçamentária. Precedentes. 4. Conversão da apreciação da liminar em exame de mérito, para julgar procedente o pedido, com fixação da seguinte tese: ‘Verbas estaduais não podem ser objeto de bloqueio, penhora e/ou sequestro para pagamento de valores devidos em ações trabalhistas, ainda que as empresas reclamadas detenham créditos a receber da administração pública estadual, em virtude do disposto no art. 167, VI e X, da CF, e do princípio da separação de poderes (art. 2º da CF)’.” (ADPF 485, Rel. Min. Roberto Barroso)
+
+    No mesmo sentido, vale ressaltar o julgamento da ADPF 275 (Rel. Min. Alexandre de Moraes, DJe 27.6.2019, Tribunal Pleno), assim emendada:
+
+    “CONSTITUCIONAL. ADPF. BLOQUEIO DE RECEITAS PÚBLICAS POR DECISÕES JUDICIAIS. CRÉDITOS TRABALHISTAS DEVIDOS POR ENTE DA ADMINISTRAÇÃO INDIRETA. INDEPENDÊNCIA ENTRE OS PODERES E LEGALIDADE ORÇAMENTÁRIA. ARGUIÇÃO PROCEDENTE. 1. Decisões judiciais que determinam o bloqueio, penhora ou liberação de receitas públicas, sob a disponibilidade financeira de entes da Administração Pública, para satisfação de créditos trabalhistas, violam o princípio da legalidade orçamentária (art. 167, VI, da CF), o preceito da separação funcional de poderes (art. 2º c/c art. 60, § 4º, III, da CF), o princípio da eficiência da Administração Pública (art. 37, caput, da CF) e o princípio da continuidade dos serviços públicos (art. 175, da CF). Precedente firmado no julgamento da ADPF 387 (Rel. Min. GILMAR MENDES, Tribunal Pleno, julgado em 23/3/2017). 2. Arguição conhecida e julgada procedente”.
+
+    Na hipótese dos autos, o Juízo reclamado determinou a retenção de créditos supostamente existentes, devidos à empresa então reclamada, e que se encontravam em poder de órgão público estadual, conforme a seguinte decisão:
+
+    “Acolho o pedido formulado pelo autor às fls. 487 e 507. Determino o bloqueio de quaisquer créditos da empresa executada COZISUL - ALIMENTACAO COLETIVA EIRELI - CNPJ: 02.373.492/0001-96 porventura existentes e em poder da Secretaria de Estado da Justiça do Estado do Espírito Santo até o importe de R$16. 229,07.
+
+    Incumbirá ao gestor responsável colocar o referido numerário em conta judicial CEF (Agência 3920 - PAB Justiça do Trabalho) à disposição deste Juízo e vinculada ao processo em epígrafe no prazo de 10 dias.
+
+    Como medida de celeridade, confiro a este ato força de OFÍCIO”. (eDOC 10)
+
+    Assim, entendo que o ato reclamado, ao determinar a constrição de de receita sob disponibilidade do Estado do Espírito Santo, diferentemente do que sustenta o Juízo Reclamado, afrontou as decisões vinculantes formalizadas por esta Suprema Corte no julgamento da ADPF 275 e ADPF 485.
+
+    Nesse mesmo sentido, confiram-se as seguintes decisões: Rcl 39.101, Rel. Min. Luiz Fux, DJe 10.2.2020; Rcl 39.252, Rel. Min. Luiz Fux, DJe 19.2.2020; Rcl 39.267, Rel. Min. Edson Fachin, DJe 21.2.2020; e Rcl 39.285, Rel. Min. Roberto Barroso, DJe 3.3.2020.
+
+    Ante o exposto, confirmo a liminar anteriormente deferida e julgo procedente a reclamação, para cassar a decisão reclamada, proferida nos autos do Processo n. 0000138- 24.2018.5.10.0004, em trâmite na 4ª Vara do Trabalho de Brasília, determinando que outra seja proferida, observando o entendimento firmado na ADPF 275/PB e ADPF 485/AP.
+
+    Publique-se.
+
+    Brasília, 16 de dezembro de 2021.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
