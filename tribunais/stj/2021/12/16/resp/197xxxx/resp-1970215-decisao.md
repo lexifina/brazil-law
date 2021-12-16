@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão do Tribunal Regional Federal da 1ª Região assim ementado:
+EXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS PORINSTITUIÇÕES DE EDUCAÇÃO ESTRANGEIRA (REVALIDA). MOMENTO DEAPRESENTAÇÃO DO DIPLOMA PARA FINS DE INSCRIÇÃO NO REVALIDA.
+1. A Terceira Seção desta Corte ao julgar o Incidente de Resolução de Demandas Repetitivas (IRDR), em 19/02/2019 firmou a seguinte tese: "Não há ilegalidade ou abuso de poder na exigência, no ato da inscrição, de diploma devidamente reconhecido pelo Ministério da Educação ou por órgão correspondente no país de conclusão do curso, para fins de participação no Exame Nacional de Revalidação de Diplomas Médicos expedidos por universidades estrangeiras (Revalida)".
+2. Os efeitos da tese jurídica firmada no IRDR aqui citado foram assim modulados: "d) Para os procedimentos de revalidação de diploma que ocorreram no ano de 2017 e anteriores, as inscrições realizadas por força de medida liminar, excepcionalmente, devem ser homologadas, e os processos extintos, com resolução de mérito, uma vez que não é mais possível o retorno ao status quo ante. Determinação que também será aplicável aos recursos em curso".
+3. A parte impetrante objetivou inscrição no Revalida do ano de 2017. As inscrições foram realizadas por meio de liminar deferida em 15/08/2017, pelo que a manutenção da sentença é medida que se impõe.
+4. Negado provimento à apelação e à remessa oficial
+Os Embargos de Declaração foram desprovidos nos seguintes termos (fls. 196-205, e-STJ):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Não há omissão, erro, obscuridade e/ou contradição no acórdão embargado. A conclusão a que chegou o órgão julgador nas questões suscitadas está coerente com os fundamentos de fato e de direito considerados.
+2. Não se faz presente qualquer das situações do art. 1.022 do Código de Processo Civil. Verifica-se, sim, mero inconformismo com o resultado do julgamento. A irresignação da parte embargante deve ser veiculada na via recursal própria.
+3. Dispõe o art. 1.025, do CPC/2015: "Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de prequestionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+4. Embargos de declaração não providos.
+O recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 10, 296, 300, 302, 493 e 1.022 do CPC/2015,do art. 41 da Lei 8.666/1993,dos arts. 48, 53, V, e 54 da Lei 9.394/1996 e do art. 207 da Constituição Federal. Afirma (fls. 219-222, e-STJ):
+Da análise do autos, verifica-se que o Tribunal de origem decidiu em patente afronta aos termos da LDB, bem como da Resolução nº 01/2002, do CNE/CES.
+(..)
+Fixadas as premissas acima, é possível afirmar que o instrumento editalício produzido pelo INEP, e disponível para todos os inscritos no processo seletivo, pode e deve estipular os requisitos a serem observados para fins de revalidação, sendo inaceitável a concessão e privilégios a um ou outro candidato.
+In casu, o recorrido não logrou demonstrar o cumprimento do requisito supramencionado (diploma autenticado por autoridade consular), não havendo falar em direito líquido e certo à revalidação do diploma.
+Sem contrarrazões.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 229-230, -e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3.12.2021.
+Inicialmente, constata-se que não se configura a alegada ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou de maneira amplamente fundamentada a controvérsia, em conformidade com o que lhe foi apresentado.
+Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de correção de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses do insurgente
+A mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração, recurso que se presta tão somente a sanar os vícios previstos no art. 1.022 do CPC/2015, pertinentes à análise dos temas trazidos à tutela jurisdicional no momento processual oportuno.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. (..)
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.(..)
+(AgInt no REsp 1.630.265/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6/12/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. (..) VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. (..)
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.(..)
+(AgInt no AREsp 801.104/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13/10/2016)
+Ademais, é inviável a discussão em Recurso Especial acerca de suposta ofensa a dispositivo constitucional, porquanto seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da CF. Não se pode, portanto, conhecer do apelo em relação à contrariedade ao art. 207 da Constituição Federal de 1988.
+Confiram-se:
+(..) RECURSO ESPECIAL. (..)
+1. Descabe o exame de violação de dispositivos constitucionais em recurso especial, por faltar a este Superior Tribunal de Justiça essa competência.(..)
+4. Recurso especial não conhecido.
+(REsp 1.195.328/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 13/3/2018)
+(..) PROCESSUAL CIVIL. (..) ANÁLISE DE VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE, NA VIA DE RECURSO ESPECIAL. (..)
+(..)
+III. A análise de suposta ofensa a dispositivos constitucionais compete exclusivamente ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Constituição da República, sendo defeso o seu exame, no âmbito do Recurso Especial, ainda que para fins de prequestionamento, conforme pacífica jurisprudência do STJ.(..)
+(AgInt no AREsp 1.179.536/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 8/3/2018)
+Em relação ao mérito, observa-se que a solução da controvérsia implica exame de violação reflexa ou indireta a texto de lei federal, já que o caso necessita primordialmente da análise da Resolução 01/2002, do CNE/CES.
+Para efeito de admissibilidade do Recurso Especial, à luz de consolidada jurisprudência do STJ, o conceito de lei federal (art. 105, III, "a", da CF) compreende tanto atos normativos (de caráter geral e abstrato) produzidos pelo Congresso Nacional (lei complementar, ordinária e delegada), como medidas provisórias e decretos expedidos pelo Presidente da República. Nesse sentido: EDcl no REsp 663.562/RJ, Rel. Min. Castro Meira, Segunda Turma, DJ 7/11/2005 p. 212; REsp 627.977/AL, Rel. Min. Teori Albino Zavascki, Primeira Turma, DJ 7/12/2006; EREsp 663.562/RJ, Rel. Min. Ari Pargendler, Corte Especial, DJ 18/2/2008, p. 21.
+Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa a atos normativos secundários produzidos por autoridades administrativas, quando analisados isoladamente - sem vinculação direta ou indireta a dispositivos legais federais -, tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos das autarquias, regimentos internos de Tribunais, enunciado de súmula (cf. Súmula 518/STJ) ou notas técnicas. Precedentes do STJ: REsp 88.396, Rel. Min. Sálvio de Figueiredo Teixeira, Quarta Turma, DJ de 13/8/1996; AgRg no Ag 573.274, Rel. Min. Franciulli Netto, Segunda Turma, DJ de 21/2/2005; REsp 352.963, Rel. Min. Castro Meira, Segunda Turma, DJ 18/4/2005; REsp 784.378, Rel. Min. José Delgado, Primeira Turma, DJ 5/12/2005; AgRg no Ag 21.337, Rel. Min. Garcia Vieira, Primeira Turma, DJ de 3/8/1992; REsp. 169.542/SP, Rel. Min. Sálvio de Figueiredo, Quarta Turma, DJ 21/9/1998; AgRg no REsp 958.207/RS, Rel. Min. Luiz Fux, Primeira Turma, DJe 3/12/2010; AgRg no REsp 1.430.240/RN, Rel. Min. Humberto Martins, Segunda Turma, DJe 26/8/2014.A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. OMISSÃO NÃO CONFIGURADA. MANDADO DE SEGURANÇA. REVALIDAÇÃO DE DIPLOMA DE MEDICINA. CURSO SUPERIOR REALIZADO NO ESTRANGEIRO. EXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS. APRESENTAÇÃO DE DIPLOMA NO MOMENTO DA INSCRIÇÃO. RESOLUÇÃO 1/2002, DO CNE/CES. DISPOSIÇÃO NORMATIVA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. INVIABILIDADE.
+1. Constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada.
+2. Em relação ao mérito, observa-se que a solução da controvérsia implica o exame de violação reflexa ou indireta a texto de lei federal, já que o caso necessita primordialmente da análise da Resolução 01/2002 do CNE/CES.
+3. Para efeito de admissibilidade do Recurso Especial, à luz de consolidada jurisprudência do STJ, o conceito de lei federal (art. 105, III, "a", da CF) compreende tanto atos normativos (de caráter geral e abstrato) produzidos pelo Congresso Nacional (lei complementar, ordinária e delegada) como medidas provisórias e decretos expedidos pelo Presidente da República. Nesse sentido: EDcl no REsp 663.562/RJ, Ministro Castro Meira, Segunda Turma, DJ 7/11/2005 p. 212; REsp 627.977/AL, Rel. Min. Teori Albino Zavascki, Primeira Turma, DJ 7/12/2006; EREsp 663.562/RJ, Ministro Ari Pargendler, Corte Especial, Dj 18/2/2008, p. 21.
+4. Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa a atos normativos secundários produzidos por autoridades administrativas, quando analisados isoladamente - sem vinculação direta ou indireta a dispositivos legais federais -, tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos das autarquias, regimentos internos de Tribunais, enunciado de súmula (cf. Súmula 518/STJ) ou notas técnicas. Precedentes do STJ: REsp 88.396, Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, DJ de 13/8/1996; AgRg no Ag 573.274, Ministro Franciulli Netto, Segunda Turma, DJ de 21/2/2005; REsp 352.963, Min. Castro Meira, Segunda Turma, DJ 18/4/2005; REsp 784.378, Min. José Delgado, Primeira Turma, DJ 5/12/2005; AgRg no Ag 21.337, Min. Garcia Vieira, Primeira Turma, DJ de 3/8/1992; REsp. 169.542/SP, Rel. Min. Sálvio de Figueiredo, Quarta Turma, DJ 21/9/1998; AgRg no REsp 958.207/RS, Ministro Luiz Fux, Primeira Turma, DJe 3/12/2010; AgRg no REsp 1.430.240/RN, Rel. Ministro Humberto Martins, Segunda Turma, DJe 26/8/2014.
+5. Agravo Interno não provido
+(AgInt no AREsp 1.924.808/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1º/7/2021)
+Por tudo isso, conheço parcialmente do Recurso Especial, tão somente quanto à violação do art. 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
