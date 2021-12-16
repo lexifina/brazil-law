@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo manejado por Biomig Materiais Medico-hospitalares Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 98):
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - BASE DE CÁLCULO DO ICMS - MERCADORIAS SUPOSTAMENTE DADAS EM BONIFICAÇÃO - PROVA PRÉ-CONSTITUÍDA - NATUREZA DAS BONIFICAÇÕES - NÃO ESCLARECIDA - NECESSIDADE DE DILAÇÃO PROBATÓRIA - INADEQUAÇÃO DA VIA ELEITA - SEGURANÇA DENEGADA.
+- A ausência de prova pré-constituida do direito líquido e certo,consubstanciada em documentação que comprove a natureza das bonificações nas transferências das mercadorias, para fins de isenção de ICMS, impõe a denegação da ordem impetrada, com fulcro nos artigos 10 da Lei n. 12.016/2009.
+- Recurso não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 130/134).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1.022 do CPC e 13 da LC 87/96. Sustenta que: (I) a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso acerca das questões neles suscitadas e; (II)"O indeferimento da inicial sob o argumento de que não restou suficientemente comprovada a natureza das bonificações concedidas pela Recorrente não se revela suficiente para afastar a pretensão deduzida, eis que o Recorrente instruiu a inicial com os documentos necessários, tendo carreado as notas fiscais emitidas nas operações em que houve remessa de mercadoria em bonificação" (fl. 148) e defende que as bonificações em mercadoria não podem integrar a base de cálculo do ICMS.
+Parecer do Ministério Público Federal pelo desprovimento do agravo (fls. 264/271)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art.1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Outrossim, destaca-se a fundamentação do aresto impugnado (fl. 103):
+Não obstante, aquele mesmo Tribunal Superior assentou que as bonificações excluídas da base de cálculo do ICMS são somente aquelas de natureza incondicional, ou seja, não condicionadas a evento futuro e incerto, nos moldes previsto no Decreto nº43.080/2002, que aprova o Regulamento do ICMS (RICMS).
+No caso em apreço, a prova pré-constituída não se afigura suficiente para comprovar a natureza das bonificações nas transferências das mercadorias, havendo a necessidade de dilação probatória.Em assim sendo, não tendo sido demonstrado, de plano, a existência da liquidez e certeza, não há direito a ser amparado na estreita via mandamental, data venia.
+Nesse contexto, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART.535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL.DECRETO N. 43.080/2002 - RICMS/MG. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. OFENSA À SÚMULA. CONCEITO DE TRATADO OU LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA DA SÚMULA N. 518/STJ.ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno e para o Agravo em Recurso Especial, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973. II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+IV - Consoante pacífica jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos. Incidência da Súmula n. 518 do Superior Tribunal de Justiça.
+V - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VI - Honorários recursais. Não cabimento.
+VII - Agravo Interno improvido.
+(AgInt no AREsp 1.007.758/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 03/08/2017, DJe 10/08/2017)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
