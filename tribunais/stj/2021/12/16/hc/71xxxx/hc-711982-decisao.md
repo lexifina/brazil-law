@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deFERNANDO PEDRO RODRIGUEScontra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n.2282489-47.2021.8.26.0000).
+Consta dos autos que o pacientefoi preso em flagrante no dia 23/2/2021 (prisão convertida em preventiva) e denunciadopela suposta prática do crime previstono art. 155, §4.º, inciso I, c/cartigo 14, inciso II, ambos do Código Penal, porque (e-STJ fl. 127):
+ .. por volta das 16h53, na Avenida Arthur Balsi, n. 386, Núcleo Habitacional Naza Arradi Nahas, nesta cidade e comarca de Barra Bonita -SP, FERNANDOPEDRO RODRIGUES tentou subtrair, para si ou para outrem, coisa alheia móvel (bateria automotiva do veículo de placas BNG8091, de propriedade de MARCIO JOSE CARDOSO DA SILVA), mediante rompimento de obstáculo (danificou a fechadura do veículo para abri-lo), não consumando seu intento por circunstâncias alheias a sua vontade (a vítima e populares o contiveram).
+A defesa formulou pedido de liberdade provisória, alegando, em síntese, ausência dos requisitos autorizadores para prisão preventiva. Todavia, o pleito foi indeferido pelo juízo singular (e-STJ fl. 189).Posteriormente, impetrou habeas corpusna Corte estadual alegando, em síntese, constrangimento ilegal por fundamentação inidônea, ausência dos requisitos autorizadores da medida extrema, excesso de prazo, risco em função do novo coronavírus e, por fim, discorreuquanto ao princípio da insignificância.
+O Relator, contudo, indeferiu a liminar, por entender quenos autos só existem as alegações da parte impetrante, não há como se avaliar a existência do "fumus boni juris" e do "periculum in mora" (e-STJ fl. 247).
+Na presente oportunidade, o impetrante alega que diante do constrangimento ilegal, decorrente do período no cárcere e pela insignificância da conduta denunciada, há margem para superar a Súmula n.691 do STF.
+Sustenta que a conduta do paciente é materialmente atípica e, por isto, não há justa causa para persecução penal.
+Ainda, argumenta que não háindícios de risco àordem pública ou àinstrução criminal, ou seja, inexiste fundamentação para a manutenção da prisão preventiva com base nas hipóteses legais (art. 312 do CPP).
+Por fim, aduz desproporção e excesso na detenção do paciente, além do risco relacionado a Covid-19, para defender a tese de aplicação de medidas cautelares alternativas.
+Diante disso, pede, liminarmente, concessão da ordem para que o paciente aguarde o julgamento em liberdade. No mérito, postula a revogação da prisão preventiva, expedindo-se o respectivo alvará de soltura.
+É o relatório, Decido.
+Com efeito, não há como prosseguir a irresignação.
+Isso porque o habeas corpus não foi devidamente instruído, uma vez que não foramcolacionados documentos indispensáveis à instrução do mandamus, especialmente o inteiro teor da sentença condenatória. Efetivamente, não há nos autos informação que efetivamente afastem o risco à ordem pública ou à instrução criminal, ou mesmo que tenha sido condenado, como afirma na inicial.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, RelatorMinistro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+De igual maneira, em que pesem os judiciosos argumentos expendidos pela impetrante, é assente a jurisprudência do Superior Tribunal de Justiça nosentido de não caber habeas corpus contra decisão que indefere liminar na origem, naesteira do enunciado da Súmula n. 691 do Supremo Tribunal Federal, aplicável poranalogia, salvo se demonstrada flagrante ilegalidade.
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DELIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DOENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE.ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. AGRAVOREGIMENTAL DESPROVIDO.
+Não se admite, em princípio, a impetração de habeas corpus contradecisão que denega pedido liminar em sede de writ impetrado naorigem, sob pena de se configurar indevida supressão de instância.(Enunciado 691, da Súmula do STF), ressalvadas as decisõesteratológicas ou com deficiência de fundamentação, o que não ocorrena hipótese.
+Agravo regimental desprovido.
+(AgRg no HC n. 306.319/CE, RelatorMinistro FELIX FISCHER, Quinta Turma, julgado em 9/6/2015, DJe19/6/2015)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEASCORPUS. INDEFERIMENTO LIMINAR DE HABEAS CORPUS.APLICAÇÃO DA SÚMULA 691 DO SUPREMO TRIBUNALFEDERAL. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DOWRIT ORIGINÁRIO, NO TRIBUNAL DE ORIGEM. PERDA DEOBJETO DO PRÓPRIO WRIT. AGRAVO REGIMENTALPREJUDICADO.
+1. Tratando-se de impetração contra decisão monocrática, proferida por Desembargador Relator do Tribunal Estadual, que indeferiu pedido de liminar, em que não se observa teratologia ou falta de fundamentação, não há que ser mitigada a aplicação da Súmula n. 691 do STF.
+2. Nos termos da jurisprudência do Supremo Tribunal Federal e destaCorte, a superveniência de acórdão, apreciando o mérito do writoriginário, impetrado em 2º Grau, torna prejudicada a análise dohabeas corpus, impetrado neste Superior Tribunal de Justiça.
+3. Prejudicado o agravo regimental, em face da perda superveniente deobjeto deste writ, pelo julgamento do habeas corpus na origem.
+4. Agravo Regimental prejudicado.
+(AgRg no HC n. 288.056/SP,Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em12/5/2015, DJe 26/5/2015)
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente e habeas corpus.
+Intimem-se.
