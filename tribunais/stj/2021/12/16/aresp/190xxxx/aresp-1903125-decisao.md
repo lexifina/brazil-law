@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por DISTAK DISTRIBUIÇÃO DE JORNAIS E REVISTAS EIRELI - ME e OUTRO, contra decisão que inadmitiu recurso especial. O apelo extremo,fundamentado no artigo 105, inciso III, alíneas "a" e "c", da ConstituiçãoFederal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Distrito Federal e dos Territórios, assim ementado:
+"PROCESSO CIVIL. APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. CITAÇÃO POR EDITAL. DILIGÊNCIAS. PARTE RÉ. ENDEREÇOS. SISTEMAS OFICIAIS. PESQUISAS. ENDEREÇOS DILIGENCIADOS. REGULARIDADE.
+1. A citação por edital é medida excepcional, devendo ser aplicada quando esgotados os meios possíveis para a localização da parte, com vistas ao cumprimento da regra de sua citação pessoal. No entanto, a aludida regra não possui caráter absoluto.
+2. Em homenagem aos princípios do acesso à justiça e da razoável duração do processo, o entendimento de que todos os meios de localização do réu necessitam de exaurimento deve ser relativizada.
+3. Para o deferimento da citação por edital não se exige o esgotamento absoluto de todos os meios possíveis para a localização do réu, tendo somente que ser verificada a adoção de medidas que indiquem que este se encontra em local incerto ou ignorado, o que ocorreu na espécie, porquanto as várias tentativas de citação da parte ré, ora embargante, por meio de indicação de endereços obtidos em consulta aos sistemas públicos BACENJUD, RENAJUD, INFOJUD e SIEL, restaram frustradas e de informação sobre a impossibilidade de localizá-la.
+4. Recurso conhecido e desprovido" (fl. 69 e-STJ).
+Não foram opostos embargos de declaração.
+No recurso especial (fls. 76/86 e-STJ), os agravantes apontam, além de divergência jurisprudencial,a violação doartigo 256, § 3º, do Código de Processo Civil.
+Sustentam a nulidade da citação por edital argumentando que "cabia à recorrida empreender todas as diligências para localização do recorrente ou comprovar que todos os esforços para o encontrar foram infrutíferos" (fl. 82 e-STJ).
+Afirmam que as tentativas não foram esgotadas, tendo em vista que "não foi realizada remessa de ofício às operadoras de telefonia móvel a fim de se obter informações acerca do endereço da Ré" (fl. 82 e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se aoexame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado navigência do Código de Processo Civil de 2015 (Enunciados Administrativosnºs 2 e 3/STJ).
+A insurgênciamerece prosperar.
+O entendimento pacífico do Superior Tribunal de Justiça é no sentido de que a citação por edital pressupõe oesgotamento dos meios de localização do executado, inclusive com a requisição, pelo juízo, de informações acerca de seu endereço nos cadastros de órgãos públicos ou de concessionárias de serviços públicos,sob pena de nulidade, nos termos do art. 256, § 3º, do CPC/2015.
+Em reforço:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CITAÇÃO POR EDITAL. NECESSIDADE DE ESGOTAMENTO DE TODOS OS MEIOS DE LOCALIZAÇÃO DA EXECUTADA. ACÓRDÃO A QUO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ.
+REVER AS SUAS CONCLUSÕES. IMPOSSIBILIDADE. SÚMULA 7/STJ. MULTA. NÃO INCIDÊNCIA. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior é tranquila em entender que a citação por edital pressupõe o esgotamento dos meios de localização do executado, sob pena de nulidade. No caso, não houve o exaurimento dos meios para localização do réu. Acórdão em harmonia com a jurisprudência desta Corte. Súmula 83/STJ.
+2. Rever as conclusões do acórdão recorrido demandaria reexame de provas, o que atrai a incidência da Súmula 7/STJ.
+3.O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno desprovido"(AgInt nos EDcl no AREsp 1.394.396/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO.CITAÇÃO POR EDITAL. NECESSIDADE DE ESGOTAMENTO DE TODOS OS MEIOS DE LOCALIZAÇÃO DOS EXECUTADOS. SÚMULAS 7 E 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO IMPROVIDO.
+1. Na hipótese, o acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que a citação por edital pressupõe o esgotamento dos meios de localização dos executados. Precedentes.
+2. Tendo o Tribunal local concluído com base no conjunto fático-probatório, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fática própria de cada julgamento, o que não é possível de ser feito nesta via excepcional, por força da Súmula 7 desta Corte.
+3. Agravo interno improvido"(AgInt no AREsp 1.198.285/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/4/2019, DJe 23/4/2019 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Nos termos da jurisprudência desta Corte, a citação por edital somente é admitida quando previamente esgotadas as tentativas de localização da parte demandada.A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada na instância ordinária no tocante à ciência acerca do paradeiro da parte demandada ou mesmo sobre a inexistência de prévias diligências para a obtenção do seu endereço comercial, medida vedada pela via do recurso especial. Incidência da Súmula 7 do STJ.
+2. Agravo interno desprovido"(AgInt no AREsp 1.346.536/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/9/2019, DJe 07/10/2019).
+Sobre o tema, a Terceira Turma do STJ também já decidiu que não subsiste o fundamento de inexistir "comando legal impondo ao autor o dever de provocar o juízo no sentido de expedir ofícios a órgãos ou prestadores de serviços públicos a fim de localizar o réu" para eximir o autor de esgotar os meios de localização do réu",como se observa da ementa do seguinte julgado:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/15. AÇÃO MONITÓRIA. CITAÇÃO POR EDITAL. NECESSIDADE DE ESGOTAMENTO DE TODOS OS MEIOS DE LOCALIZAÇÃO DO RÉU. PESQUISA DO ENDEREÇO NOS CADASTROS DE ÓRGÃOS PÚBLICOS OU DE CONCESSIONÁRIAS DE SERVIÇOS PÚBLICOS. ART. 256, § 3º, DO CPC. NULIDADE PROCESSUAL CARACTERIZADA.
+1. Controvérsia em torno da legalidade da citação do recorrente por edital.
+2. O novo regramento processual civil, além de reproduzir a norma inserta no art. 231, II, do CPC/73, estabeleceu que o réu será considerado em local ignorado ou incerto se infrutíferas as tentativas de sua localização, inclusive mediante requisição pelo juízo de informações acerca de seu endereço nos cadastros de órgãos públicos ou de concessionárias de serviços públicos.
+3. No caso, o fundamento utilizado pelo acórdão recorrido de inexistir comando legal impondo ao autor o dever de provocar o juízo no sentido de expedir ofícios a órgãos ou prestadores de serviços públicos a fim de localizar o réu não subsiste ante a regra expressa inserta no § 3º, do art. 256, do CPC.
+4. RECURSO ESPECIAL PROVIDO PARA DECLARAR A NULIDADE DA CITAÇÃO POR EDITAL" (REsp 1.8286.219/RO, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 03/09/2019, DJe 06/09/2019 - grifou-se).
+No presente caso, é incontroverso nos autos que, embora tenha havido algumas diligências frustradas para a localização do executado, bem como consultas nos sistemas à disposição do Juízo, não foram esgotados os meios para a localização do executado, como se observa do seguinte trecho do acórdão recorrido:
+"(..)
+A parte embargante/apelante defende a nulidade de citação por ausência da expedição de ofícios às concessionárias de serviços públicos, com a finalidade de diligenciar endereços constantes em seus cadastros, como pertencendo à parte ré.
+Como dito em linhas anteriores, a citação por edital é medida excepcional, devendo ser aplicada quando esgotados os meios possíveis para a localização da parte. No entanto, a aludida regra não possui caráter absoluto.
+Em homenagem aos princípios do acesso à justiça e da razoável duração do processo, o entendimento de que todos os meios de localização do réu necessitam de exaurimento deve ser relativizada.
+Para o deferimento da citação por edital não se exige o esgotamento absoluto de todos os meios possíveis para a localização do réu, tendo somente que ser verificada a adoção de medidas que indiquem que este se encontra em local incerto ou ignorado, o que ocorreu nestes autos.
+Diante desse quadro, conclui-se que foram satisfatoriamente buscados e diligenciados endereços tanto para busca, apreensão dos bens e citação da parte ré, antes da conversão da ação em Execução, quanto após essa dita conversão, atendendo-se a regra de exceção, prevista no artigo 256 do CPC, segundo a qual cabe a citação ficta do réu em local desconhecido, incerto ou inacessível, após frustração das diligências realizadas pelo Juízo em cadastros de órgãos públicos, como se nota no caso, em que foram consultados todos os sistemas à disposição do Juízo, com a finalidade de buscar endereços onde pudesse ser encontrada a parte ré para busca, apreensão dos bens e citação" (fl. 72/73 e-STJ - grifou-se).
+Desse modo, o acórdão recorrido destoa da jurisprudência desta Corte Superior, devendo ser reformado.
+Ante o exposto, conheço do agravo para dar provimento aorecurso especial a fim de declarar a nulidade da citação por edital.
+Intimem-se.
+Publique-se.
