@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo de CONFECCOES E ENXOVAIS HALLIN LTDA - EPP contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA. IRRESIGNAÇÃO DO RÉU/EMBARGANTE.SUSTENTADO CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PROVA EXCLUSIVAMENTE TESTEMUNHAL. OBRIGAÇÃO SUPERIOR A 10 SALÁRIOS MÍNIMOS ENTÃO VIGENTES. INVIABILIDADE. ART. 401 DO CPC/73 C/C 1.047 DO CPC/15.ALEGADA EXCEÇÃO PESSOAL. QUITAÇÃO POR OUTRO MEIO.INOPONIBILIDADE. CIRCULAÇÃO DOS CHEQUES. INEXISTÊNCIA DE PROVA DA MÁ-FÉ DO TERCEIRO.RECURSO CONHECIDO E DESPROVIDO." (e-STJ fl. 324)
+Nas razões do recurso especial, o agravante alega violação dos arts. 333, II e 1.102-C, §2º do CPC sustentando, em síntese, que: 1) a Corte de origem não oportunizou à recorrente a produção de prova requerida e desconsiderou toda a prova documental juntada, o que configurou cerceamento de defesa, sendo caso de nulidade do processo e 2) os embargos da ação monitória seguem o rito ordinário, mas no presente caso não houve audiência conciliatória ou oportunidade de a Recorrente esclarecer a necessidade da prova testemunhal e documental requerida.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Com a alegação de ofensa aos arts. 333, II e 1.102-C, §2º do CPC o recorrente alega, em síntese, que houve cerceamento de defesa por não lhe ter sido oportunizada a produção das provas necessárias à comprovação de sua tese.
+Ocorre que, sobre o tema, a Corte de origem consignou:
+"Antes de adentrar o mérito, afasto a prefacial de cerceamento de defesa, porquanto os fatos alegados pela parte apelante, mesmo que provados, não infirmariam o direito da parte apelada no recebimento dos valores pleiteados.
+Tal fundamento será melhor explorado a seguir, mas isso revela, adianto, a desnecessidade de produção da prova requerida, motivo pelo qual não há falar em cerceamento de defesa.
+(..)
+Ora, se a instaladora fosse a embargada, seria possível a oposição de exceções pessoais (TJSC, Apelação Cível n. 0801059-41.2013.8.24.0082, de Joinville, rel. Luiz Zanelato, Primeira Câmara de Direito Comercial, j. 06-12-2018).
+Entretanto, se trata de terceiro, caso em que a discussão da causa do débito exige, antes de tudo, comprovação de sua má-fé (TJSC, Apelação Cível n. 0015878- 42.2012.8.24.0020, de Criciúma, rel. Tulio Pinheiro, Terceira Câmara de Direito Comercial, j. 20-02-2020), o que não ocorre no presente caso.
+Nessa senda, o mais importante é que não há sequer um início de prova de qualquer relação entre o apelado e a instaladora que não seja mera alegação e, bem se sabe que allegatio et non probatio, quasi non allegatio.
+Fica óbvio, por todo o exposto, que as provas não só são insuficientes, como também contrariam as alegações da parte apelante, que já são suficientemente contraditórias isoladamente.
+Com isso, para provar qualquer coisa em relação ao apelado - posto que nenhum início de prova há contra ele -, seria necessário o meio exclusivamente testemunhal, que não era admitido ao tempo da sentença por disposição do art. 401 do CPC/73: A prova exclusivamente testemunhal só se admite nos contratos cujo valor não exceda o décuplo do maior salário mínimo vigente no país, ao tempo em que foram celebrados." (e-STJ fl. 328/329)
+Como visto, o Tribunal de origem consignou expressamente que as provas pleiteadas pelo recorrente, ainda que produzidas, não seriam relevantes para o deslinde do feito, pois são contrárias às próprias alegações trazidas na petição inicial e relativas à causa do débito, cuja discussão não é oponível a terceiros.
+Contudo, tais fundamentos, autônomos e suficientes à manutenção do v. acórdão recorrido, não foram impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Neste sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA DAS RAZÕES DO ACÓRDÃO ESTADUAL. INCIDÊNCIA DO VERBETE Nº 283/STF.EXECUÇÃO. CÉDULA RURAL. ARGUIÇÃO DE EXCESSO DE COBRANÇA. ANÁLISE. SÚMULAS 5 E 7/STJ.
+1. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, o óbice da Súmula nº 283, do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 687.997/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/11/2018, DJe 13/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE COLETIVO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência e/ou incolumidade física, como no caso em apreço, no qual a segurada diagnosticada com câncer se encontra em tratamento oncológico.
+3. Agravo interno não provido.
+(AgInt no AREsp 1298878/SP, de minha Relatoria, QUARTA TURMA, julgado em 23/10/2018, DJe 31/10/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% sobre o valor da dívida.
+Publique-se.
