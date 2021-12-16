@@ -1,0 +1,77 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por João Pereira Neto, em favor de Elena Iara Dornelles Contreira e Marilaine Medina Ribeiro, contra decisão proferida por Ministro do Superior Tribunal de Justiça (STJ), que negou provimento ao HC n° 710.029/RS.
+
+    Colho o relatório da decisão impugnada:
+
+    “Trata-se habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de ELENA IARA DORNELLES CONTREIRA, MARILAINE MEDINA RIBEIRO, em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Sul, no qual postula o impetrante, em síntese, a revogação da prisão preventiva decretada em desfavor das pacientes por alegada ausência de fundamentação concreta e idônea para a segregação cautelar.
+
+    Requer, ainda, a revogação da prisão preventiva das pacientes, em razão do alegado excesso de prazo para a formação da culpa.
+
+    É o breve relatório.” (eDOC 3, p. 1)
+
+    No STJ, o writ impetrado teve a liminar indeferida e foram solicitadas informações ao Tribunal de origem.
+
+    Nesta Corte, o impetrante reitera os pedidos pretéritos e enfatiza o argumento no sentido de que as rés sofrem constrangimento ilegal em razão da carência de fundamentação concreta do decreto cautelar, reputando ausentes os requisitos autorizadores da medida, previstos no artigo 312 do CPP.
+
+    É o relatório.
+
+    Decido.
+
+    De início, verifico que o pedido esbarra na Súmula 691 desta Corte, razão por que dele não posso conhecer.
+
+    É bem verdade que o rigor na aplicação da Súmula 691/STF tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ 25.6.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; e HC 88.229/SE, Rel. Min. Marco Aurélio, Red. para o acórdão, Min. Ricardo Lewandowski, 1ª Turma, maioria, DJ 23.2.2007; e as seguintes decisões monocráticas: HC 85.826/SP (MC), de minha relatoria, DJ 3.5.2005; e HC 86.213/ES (MC), Rel. Min. Marco Aurélio, DJ 1º.8.2005).
+
+    Na hipótese dos autos, não há ilegalidade a reparar de ofício.
+
+    Colaciono dos autos, trechos do acordão proferido pelo TJRS em sede de análise de HC:
+
+    “Quanto ao mais, colhe-se terem sido as pacientes presas preventivamente em razão de representação formulada pela autoridade policial que as apontava como autoras do homicídio qualificado de Selma Mattos de Melo, fato ocorrido em 08 de fevereiro de 2021.
+
+    Por outro turno, a decisão atacada traz adequada fundamentação para a decretação da prisão preventiva, fazendo alusão às circunstâncias que envolveram a prática do crime e trazendo argumentos plausíveis para a decretação da segregação cautelar, como forma de garantia da ordem pública, verbis:
+
+    [...]
+
+    Cuida-se de representação formulada pela Excelentíssima Delegada de Polícia de São Borja pela Prisão Preventiva de MARILAINE MEDINA RIBEIRO e ELENA IARA DORNELLES CONTREIRA, tendo o Ministério Público se manifestado pelo deferimento da representação, asseverando a presença dos fundamentos que autorizam a segregação cautelar das representadas, conforme art. 312 e seguintes do CPP. O pedido tem por base o Inquérito Policial nº 131/2021/152328/A, a ocorrência policial nº 644/2021/152329, As declarações de MARILAINE MEDINA RIBEIRO, Luis Antônio Belmonte Wolfart, Raiana Pereira Viana, ELENA IARA DORNELLES CONTREIRA, Margarete Masques de Souza, Andria Brites Barros, Maria Eduarda de Souza, bem como Relatório de Diligências, Auto de Levantamento Fotográfico do local do crime e laudo pericial (INQ 6, fl. 9). Conforme investigações levadas a efeito até o presente momento, há fortes indícios da participação das investigadas na morte da vítima SELMA MATTOS DE MELO, uma vez que, nos termos do Relatório de Diligências (INQ 5, fls. 5-10), nas imagens das câmeras de segurança do local do crime e imediações, verifica-se que o veículo GM/Corsa, cor branca, de propriedade de MARILAINE MEDINA RIBEIRO, esteve no local do fato, no horário do crime, e ficou parado exatamente no local onde o corpo da vítima foi encontrado, sendo que no período de monitoramento, não se observou nenhum dos veículos aos quais as investigadas atribuíram a autoria do delito. Evidenciada discrepância e contradição entre os depoimentos das pessoas ouvidas e os relatos de MARILAINE e ELENA, sobretudo por atribuírem a autoria da morte a indivíduos que não estariam na cena do crime, bem como a respeito de dívidas que a vítima teria com narcotraficantes locais, as quais não se comprovaram. Em depoimento prestado à Autoridade Policial, a testemunha JEFERSON NASCIMENTO DORNELES, informou que a investigada MARILAINE MEDINA RIBEIRO confidenciou que havia matado SELMA, atingindo-a com uma pedra na cabeça e que ELENA também estava no veículo usado para levar a vítima até o local do crime. Em cumprimento a MBA, na casa de MARILAINE foi encontrada uma camiseta, semelhante a que era utilizada pela vítima na data do crime. O carro utilizado por MARILAINE e que foi flagrado no local do crime por câmeras de segurança, foi imediatamente vendido pela representada, sendo entregue pelo novo proprietário à autoridade policial, para fins de perícia, havendo fortes elementos que indicam a autoria ou participação das representadas. Assim, quanto à medida cautelar de prisão preventiva, presentes os pressupostos (CPP, art. 312, in fine) do fumus comissi delicti, ante a juntada de prova de existência do crime, notadamente por meio do mapa das regiões anatômicas e laudo pericial (INQ 6, fl. 9), evidenciando morte por traumatismo cranioencefálico consecutiva a ferimento por arma de fogo e instrumento contundente, bem como evidentes indícios de sua autoria, por meio dos depoimentos das testemunhas ouvidas perante a autoridade policial, sobretudo pelo depoimento da testemunha JEFERSON, o qual declarou que a investigada MARILAINE confirmou que havia matado SELMA, atingindo-a com uma pedra na cabeça; dos requisitos (CPP, art. 282 e 313), ante a necessidade e adequação da medida, insuficiência de cautelares diversas e por se tratar de crime doloso cometido contra a vida, punido com reclusão superior a quatro anos; e fundamento (CPP, art. 312, primeira parte) do periculum libertatis pela garantia da ordem pública, em razão da elevada gravidade em concreto, tendo em vista que o delito foi perpetrado com extrema violência física, sendo a vítima atingida em região vital; não bastasse, a prisão cautelar encontra fundamento na necessidade de assegurar a instrução criminal, como também para assegurar a aplicação da lei penal, sendo que conforme se observou na investigação, a representada MARILAINE chegou a vender o veículo que utilizaram no dia do crime, o que pressupõe a tentativa de eliminar provas em seu desfavor; além disso, a prisão cautelar das representadas permitirá a conclusão dos trabalhos de elucidação, não se afigurando suficientes, por ora, a fixação de medidas cautelares diversas da prisão. Desse modo, DECRETO a prisão preventiva de MARILAINE MEDINA RIBEIRO e ELENA IARA DORNELLES CONTREIRA. [...]
+
+    Presentes, pois, existência do fato e indícios da autoria, perceptíveis na bem lançada fundamentação contida na decisão hostilizada que traz argumentos suficientes para a decretação da segregação e que mostram presentes os requisitos postos no art. 312 do Código de Processo Penal.
+
+    Mais, a gravidade do fato cuja prática é imputada às pacientes (em virtude de desentendimentos anterores, teriam buscado a vítima em sua residência, sob o pretexto de fazerem um passeio, e a levado a local ermo, onde, de inopino, nessa desferiram golpes na cabeça e efetuaram isparo de arma de fogo que a atingiu no ouvido) revela a índole violenta do agente e a presença de concreto risco à ordem pública, a ensejarem a prisão cautelar e demonstrando, consequentemente, a insuficiência das demais medidas cautelares de que trata o art. 319 do Código de Processo Penal. Claro está, nesse quadro, que a decisão hostilizada teve como fundamento – juntamente com a periculosidade do agente – a gravidade concreta do crime, o que, ao contrário do sustentado, justifica a prisão preventiva, nos termos da uníssona jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça, que ilustro por amostragem:
+
+    […]
+
+    E, na esteira de posicionamento jurisprudencial do Superior Tribunal de Justiça, saliento que “condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade, como na espécie”1 , com o que o fato de serem as pacientes primárias e ostentarem residência fixa em nada obsta sua segregação cautelar.
+
+    Por outro turno, o constrangimento ilegal como decorrência de excesso de prazo na formação da culpa constitui antiga criação pretoriana que, preteritamente, contemplava mera soma de prazos processuais.
+
+    Todavia, justamente por resultar de tal criação, com o passar do tempo, constatando se não ser razoável a desconsideração de circunstâncias peculiares a cada processo, passou a jurisprudência a se orientar no sentido de que a determinação de eventual excesso não decorre de mera operação aritmética, devendo levar em conta fatores outros, tendo-se como inaceitável a extrapolação dos prazos, se decorrente de inércia ou negligência do juízo, não se podendo ter por abusiva, se justificada por razões outras, como complexidade da causa e atuação das partes.” (eDOC 2, p. 56-57)
+
+    Pontuo, que apenas em hipóteses excepcionais esta Corte tem deferido ordem de habeas corpus pelo excesso de prazo de prisão cautelar, quando a mora processual: a) seja decorrência exclusiva de diligências suscitadas pela atuação da acusação (cf.: HC 85.400/PE, rel. Min. Eros Grau, 1ª Turma, unânime, DJ 11.3.2005; e HC 89.196/BA, rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, DJ 16.2.2007); b) resulte da inércia do próprio aparato judicial em atendimento ao princípio da razoável duração do processo, nos termos do art. 5º, LXXVIII (cf.: HC 85.237/DF, Pleno, unânime, rel. Min. Celso de Mello, DJ 29.4.2005; HC 85.068/RJ, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 3.6.2005;); ou c) seja incompatível com o princípio da razoabilidade (cf.: HC 84.931/CE, rel. Min. Cezar Peluso, 1ª Turma, unânime, DJ 16.12.2005), ou, ainda, quando o excesso de prazo seja gritante (cf.: HC 81.149/RJ, rel. Min. Ilmar Galvão, 1ª Turma, unânime, DJ 5.4.2002; RHC 83.177/PI, rel. Min. Nelson Jobim, 2ª Turma, unânime, DJ 19.3.2004).
+
+    Essas hipóteses decorrem do firme entendimento deste Supremo Tribunal Federal no sentido de que o excesso de prazo apenas se caracteriza a partir da deficiente atuação das instituições jurídicas, que torna evidente o desprezo estatal pela liberdade
+
+    Considerando-se que o ordenamento brasileiro não define prazos específicos para a realização do processo ou da investigação criminal, afirma-se que a adoção da doutrina do não prazo pressupõe a definição judicial de critérios para aferição do excesso. Aponta-se que as Cortes Internacionais (CIDH e TEDH) adotam três parâmetros: a) complexidade do caso; b) atividade processual do interessado (imputado); c) a conduta das autoridades judiciárias (BADARÓ, Gustavo Henrique; LOPES JÚNIOR, Aury. Direito ao processo penal no prazo razoável. Rio de Janeiro: Lumen Juris, 2006. p. 127; FERNANDES, Antonio Scarance. Processo Penal Constitucional. 7ª ed. São Paulo: 2012. p. 127).
+
+    Logo, não se verificando a desídia, mas a realização atempada dos atos processuais, pelo percurso de várias instâncias judiciárias, não se impõe a libertação do acusado preso, quando persistentes os motivos para sua custódia cautelar. Retiro do acórdão publicado pelo TJRS:
+
+    “No caso presente, entretanto, diversamente do sustentado pela impetrante, não se evidencia o alegado constrangimento ilegal, na medida em que, decretada a prisão preventiva das pacientes em 19 de março de 2021 (evento 46, 5000500-94.2021.8.21.0030), foi oferecida denúncia em 05 de abril (evento 1, n. 5001067-28.2021.8.21.0030), recebida em 06 de abril (evento 3), oportunidade em que determinada citação das rés e deferidas diligências; em 26 de abril, apresentada resposta à acusação (evento 21); em 11 de maio, o juízo determinou a intimação das partes para regularização processual (evento 33); em 09 de junho, a defesa juntou os respectivos instrumentos de procuração, regularizando a representação processual (evento 47); em 18 de junho, não absolvidas as rés sumariamente, foi designada audiência para o dia 04 de novembro (evento 54); em 08 de julho, o juízo indeferiu pedido de antecipação da audiência, pois preenchida a pauta de réus presos (evento 65); em 14 de julho, o juízo indeferiu pedido defensivo acerca do inquérito policial, bem assim reexaminou e manteve a prisão das pacieente (evento 73); em 04 de novembro, a audiência restou cancelada, em virtude de "férias do Juiz titular e de colidência com a pauta do Juiz em substituição", sendo transferida a aduiência para 12 de maio de 2022 (evento 135); em 05 de novembro, o magistrado indeferiu pedido de revogação da prisão preventiva e antecipou a audiência para o dia 27 de janeiro de 2022 (evento 143). Nesse contexto, não verifico desídia ou inércia por parte do juízo, aguardando-se, no momento, a realização da solenidade aprazada, cuja data foi antecipada para janeiro próximo, com o que não há falar no excesso de prazo aventado pela defesa, salientando-se que os prazos podem ser compensados, eventualmente, nas fases processuais seguintes. Daí por que voto por denegar a ordem. “ (eDOC 2, p. 57)
+
+    Desse modo, não reputo presentes quaisquer ilegalidades manifestas, constrangimento ilegal ou abuso de poder passíveis de desconstituição nesta via estreita, em relação ao excesso de prazo da prisão preventiva, alegado pela defesa.
+
+    Por fim, em relação há ausência de idoneidade da prisão preventiva decretada em desfavor das pacientes, reputo a afirmação trazida pelo TJRS, que a prisão foi decretada na necessidade de garantia da ordem pública, ameaçada com a liberdade do paciente, diante dos fatos acima descritos.
+
+    Por oportuno, destaco precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública. (HC 122.894/PR, de minha relatoria, Segunda Turma, DJe 1º.9.2014; HC-AgR 125.290/MG, rel. Min. Cármen Lúcia, Segunda Turma, DJe 19.12.2014; HC 119.715/TO, rel. Min. Teori Zavascki, Segunda Turma, DJe 29.5.2014; HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015; e HC 127.043/MG, de minha relatoria, Segunda Turma, DJe 7.5.2015).
+
+    E em consulta, ao sítio eletrônico do STJ revelou que o habeas corpus foi impetrado em 01.12.2021 e informações foram solicitadas na análise da liminar no dia 02.12.2021. Aguarde-se lá o julgamento.
+
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+
+    Publique-se.
+
+    Intime-se.
+
+    Brasília, 16 de dezembro de 2021
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
