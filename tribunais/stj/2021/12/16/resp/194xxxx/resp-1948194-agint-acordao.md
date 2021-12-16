@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão que negou provimento ao recurso.
+A parte agravante sustenta, em suma:
+Como mencionado, na r. decisão agravada, o Exmo. Relator deixou de acolher a pretensão recursal, no que diz respeito à violação ao artigo 1022 do Código de Processo Civil, sob o fundamento de que o acórdão recorrido não teria incorrido nos vícios estipulados por tal dispositivo. Entretanto, com o devido respeito, se o acórdão proferido pelo E. Tribunal a quo não contivesse os vícios apontados no tópico 3 do recurso especial, possivelmente, o apelo sequer precisaria ser interposto.
+Ocorre que os pontos que deveriam, de fato, ser objeto de apreciação, ou foram esquecidos ou foram apreciados de forma obscura e/ou contraditória, o que ocasionou a interposição do recurso na origem.
+Feitas essas considerações, passa-se a demonstrar a razão pela qual o v. acórdão recorrido deve ser anulado, em atenção à previsão constante do artigo 1022 do Código de Processo Civil.
+Inicialmente, convém destacar que a matéria objeto do presente recurso não foi debatida e esclarecida no v. acórdão recorrido. Isso porque o Egrégio Tribunal Regional Federal da 1a Região, em expresso desacordo com o título executivo transitado em julgado, afirmou que Lei n. 9.030/95 reajustou os valores das rubricas DAS e FG em percentual superior ao índice de 3,17 %, a partir de 1º de março de 1995, devendo referido reajuste incidir sobre tais rubricas apenas nos meses de janeiro e fevereiro de 1995, bem como determinou a aplicação dos juros de mora a partir do trânsito em julgado. Em outras palavras, percebe-se clara ofensa à coisa julgada.
+Com o devido respeito à decisão monocrática exarada pelo Exmo. Ministro Relator, há obscuridade/contradição no v. acórdão atacado, na medida em que não foram objeto de análise os fundamentos da coisa julgada quanto à limitação da incidência dos 3,17% sobre as funções comissionadas e gratificadas à edição da Lei nº 9.030/95, bem como a necessidade de contagem dos juros de mora a partir da citação não obstante tenha suscitado.
+Destaque-se que estas questões vêm sendo arguidas desde o início dos embargos à execução que originaram este recurso, bem como foram suscitadas em apelação e embargos declaratórios.
+Ao deixar de se pronunciar sobre as mencionadas violações arguidas, não suprindo a obscuridade/contradição entre a fundamentação e o acórdão o Egrégio Tribunal Regional Federal da ia Região violou o disposto no art. 1022, incisos I e II, do CPC/2015, bem como maculou o direito à prestação jurisdicional (acesso ao Poder Judiciário, art. 5o, inciso XXXV, CF) e o princípio do devido processo legal (art. 5º, inciso LV, CF).
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211 DO STJ. REEXAME NECESSÁRIO. REFORMATIO IN PEJUS. ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE.
+1. Quanto à alegada necessidade de contagem dos juros de mora a partir da citação, tendo em vista o "efeito translativo pleno da remessa necessária", não se pode conhecer da irresignação, pois a tese legal apontada não foi analisada pelo acórdão hostilizado, apesar da oposição de Embargos de Declaração. Incide, na espécie, a Súmula 211/STJ. Ressalte-se que a parte recorrente não apontou omissão no julgado em relação ao ponto, o que impede a análise de eventual ofensa ao art. 1.022 do CPC.
+2. Ademais, a jurisprudência do STJ entende que o Reexame Necessário não pode implicar reformatio in pejus à Fazenda Pública, tendo em vista o teor da Súmula 45/STJ.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 26.10.2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignado no decisum agravado, quanto à alegada necessidade de contagem dos juros de mora a partir da citação, tendo em vista o "efeito translativo pleno da remessa necessária", não se pode conhecer da irresignação, pois a tese legal apontada não foi analisada pelo acórdão hostilizado, apesar da oposição de Embargos de Declaração. Incide, na espécie, a Súmula 211/STJ.
+Ressalte-se que a recorrente não apontou omissão no julgado em relação ao ponto, o que impede a análise de eventual ofensa ao art. 1.022 do Código de Processo Civil de 2015.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. DELEGADO DE POLÍCIA. EXERCÍCIO FUNCIONAL COMO DIRETOR DE CADEIA PÚBLICA. DESVIO DE FUNÇÃO. NÃO OCORRÊNCIA. INDENIZAÇÃO AFASTADA PELA CORTE DE ORIGEM. VIOLAÇÃO DE DISPOSITIVOS LEGAIS FEDERAIS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211 DO STJ. CONTROVÉRSIA ENFRENTADA COM BASE EM LEI LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF.
+1. Extrai-se do acórdão recorrido que os dispositivos legais apontados como violados e as matérias a eles correlatas não foram objeto de apreciação pelo Tribunal de origem, nem sequer implicitamente. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado. Aplicação do óbice fundado na Súmula 211 do STJ.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.665.746/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 18/12/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ANISTIA. INDENIZAÇÃO POR DANOS MORAIS. ALEGADA AFRONTA AOS ARTS. 398 DO CÓDIGO CIVIL DE 2002 E 962 DO CÓDIGO CIVIL DE 1916. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. PRETENDIDA REDUÇÃO DO QUANTUM INDENIZATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. O Recurso Especial é manifestamente inadmissível, por falta de prequestionamento, no que tange à tese recursal de violação aos arts. 398 do Código Civil de 2002 e 962 do Código Civil de 1916, pois não foi ela objeto de discussão, nas instâncias ordinárias, sequer implicitamente, razão pela qual não há como afastar o óbice da Súmula 211/STJ.
+IV. Não havendo sido apreciada a questão suscitada nas razões da Apelação, mesmo após a oposição dos Embargos Declaratórios, a parte recorrente deveria vincular a interposição do Recurso Especial à violação ao art. 1.022 do CPC/2015 e, não, aos dispositivos apontados como violados, mas não apreciados, tal como ocorreu, na espécie. Precedentes do STJ.
+(..)
+VI. Agravo interno improvido. (AgInt no REsp 1.759.122/PR, Rel. Min.ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 19/12/2018)
+Ademais, a jurisprudência do STJ entende que o reexame necessário não pode implicar em reformatio in pejus à Fazenda Pública, tendo em vista o teor da Súmula 45/STJ.
+A propósito:
+AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. CONTRATAÇÕES PARA CARGOS EFETIVOS SEM CONCURSO PÚBLICO. REEXAME NECESSÁRIO. REFORMATIO IN PEJUS. ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO. DOLO GENÉRICO RECONHECIDO. DOSIMETRIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. ÓBICE SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NA PARTE CONHECIDA, NEGAR-LHE PROVIMENTO.
+(..)
+III - Diversamente do sustentado pelo recorrente, no duplo grau de jurisdição obrigatório - estabelecido pelo art. 475 do CPC/1973 -, inexiste necessidade de apreciação de todas as questões decididas pelo Juízo de Primeiro Grau, mas apenas daquelas desfavoráveis ao ente público, uma vez que o reexame necessário não pode implicar em reformatio in pejus à Fazenda Pública, consoante enunciado da Súmula n. 45/STJ. Precedentes: REsp 1.726.937/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 20/3/2018, DJe 13/11/2018;AgInt no AREsp 932.368/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 20/2/2018, DJe 5/3/2018.
+(..)
+VII - Agravo conhecido para conhecer parcialmente do recurso especial interposto pelo réu a fim de, na parte conhecida, negar-lhe provimento. (AREsp 995.494/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 17/3/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. GRATIFICAÇÃO DE PRODUTIVIDADE. PLEITO INDEFERIDO EM PRIMEIRA INSTÂNCIA. AUSÊNCIA DE RECURSO DO PARTICULAR. REMESSA NECESSÁRIA. CONCESSÃO DA VANTAGEM PECUNIÁRIA PELO TRIBUNAL DE ORIGEM. REFORMATIO IN PEJUS. IMPOSSIBILIDADE.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem que agravou a condenação do ente público por ocasião do julgamento do reexame necessário.
+2. O acórdão objurgado, ao substituir o benefício concedido na sentença por outro mais vantajoso ao segurado, incorreu em inadmissível reformatio in pejus, porquanto a ora recorrida não se insurgiu contra a decisão de primeiro grau, não havendo espaço para o Tribunal, de ofício, melhorar a situação da parte que ficou inerte, em detrimento do interesse coletivo, que é objeto de proteção do reexame necessário.
+3. A vedação à reformatio in pejus é imposta pela Súmula 45 do Superior Tribunal de Justiça, que assim dispõe: "No reexame necessário, é defeso, ao Tribunal, agravar a condenação imposta à Fazenda Pública." 4. Note-se que a concessão de vantagem pecuniária, qual seja a gratificação de produtividade não se traduz em questão de ordem pública, que gozaria da prerrogativa do efeito translativo, passível de reconhecimento de ofício. Por conseguinte, impossível, in casu, o julgamento daquilo que não foi devolvido ao conhecimento do Tribunal (REsp 1.600.115/GO. Ministro Herman Benjamin. Segunda Turma. DJe 12/9/2016; e REsp 1.612.917/DF. Ministro Mauro Campbell Marques. Segunda Turma. DJe 28/9/2017).
+5. Recurso Especial provido. (REsp 1.726.937/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 13/11/2018)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
