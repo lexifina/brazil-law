@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por IVANA DE BITENCOURT MARTINS contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. EMBARGOS À EXECUÇÃO. IMPENHORABILIDADE DO BEM DE FAMÍLIA.
+1) Trata-se de embargos à execução opostos na execução de título extrajudicial advindo de ação de indenização por danos morais, julgado improcedente na origem.
+2) Apenas o bem de família que sirva como residência está albergado pelas disposições insertas na Lei nº 8.009/90, que dispõe acerca da impenhorabilidade. Assente, também, que a interpretação dada aos dispositivos da Lei 8.009/90 deve ser a mais ampla possível, porquanto decorre do direito constitucional à moradia estabelecido no caput do art. 6º da CF. Precedentes do STJ.
+3) No caso telado, restou suficientemente comprovado que o imóvel, objeto da penhora, constitui a residência da embargante, de modo que resta caracterizada situação que autoriza a proteção concedida pelo artigo 1º da lei nº 8.009/90. Imperioso que se reconheça a impenhorabilidade do imóvel de matrícula nº 52.282, por se tratar de bem de família, porquanto resta comprovado que a embargante reside no imóvel penhorado, além do que não restou comprovado nos autos que possua outro imóvel de sua propriedade.
+5) Sentença reformada.
+APELAÇÃO PROVIDA" (fl. 207, e-STJ).
+Os embargos de declaração opostos foram parcialmente acolhidos, com efeitos infringentes apenas em relação à suspensão da exigibilidade das verbas sucumbenciais em virtude da concessão da assistência judiciária gratuita (fls. 231/237, e-STJ).
+No especial, a recorrente aponta violação dos arts. 77, I e IV, 374, III e IV, e 797, III, do Código de Processo Civil de 2015, argumentando, em síntese, que "restou devidamente comprovado nos autos, nas declarações de imposto de renda da parte adversa (fls. 268/280), que esta é proprietária de dois imóveis, não utilizando nenhum deles para fins de aluguel tendo em vista que não há qualquer referência a tal fato em mencionadas declarações de IR" (fl. 254, e-STJ), motivo pelo qual deve ser afastada a impenhorabilidade decretada.
+Apresentadas contrarrazões às fls. 263/268 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Nesse contexto, considerando que a embargante é pessoa de saúde debilitada, porquanto portadora de carcinoma basocelular à direita, sofreu Acidente Vascular Cerebral, e, após este episódio apresenta epilepsia (CID I 64 e CID 40.4), conforme atestados médicos de fls.26 e 27, firmados por médicos com endereço profissional na cidade de Porto Alegre, bem como teve episódios de internação hospitalar de emergência (fls. 22/23; 25), também na cidade de Porto Alegre, e ainda, consta nas declarações do Imposto de Renda da embargante, o endereço residencial como Duque" de Caxias n. 955 apto. 406 - Bloco C, nesta Capital, além das faturas telefônicas enviadas em nome da embargante para o referido endereço (fls. 106/108), documento que, costumeiramente, se presta a comprovar o endereço residencial, não pairam dúvidas de que a embargante, de fato, reside no imóvel penhorado.
+Nesse contexto, imperioso que se reconheça a impenhorabilidade do imóvel de matrícula n. 52.282, por se tratar de bem de família, a teor do que estabelece a lei n. 8.009/90, porquanto resta comprovado que a embargante reside no imóvel, além do que não restou comprovado nos autos que possua outro imóvel de sua propriedade" (fl. 218, e-STJ).
+Diante das premissas fáticas estabelecidas no acórdão, no tocante à comprovação de que o imóvel objeto da penhora configura bem de família, a reforma do aresto demandaria o reexame de matéria fático-probatória, providência inviável em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ABANDONO DE CAUSA. NÃO CONFIGURAÇÃO. BEM DE FAMÍLIA. IMPENHORABILIDADE. REQUISITOS NÃO COMPROVADOS. AGRAVO NÃO PROVIDO.
+1. A extinção do processo por abandono do autor pressupõe o ânimo inequívoco, ante a inércia manifestada quando, intimado pessoalmente, permanece silente quanto ao intento de prosseguir no feito. Para o acolhimento da tese do insurgente acerca da adequada intimação pessoal da parte exequente para promover o andamento do feito executivo, seria imprescindível promover o reenfrentamento do acervo fático-probatório dos autos, providência sabidamente vedada a esta Corte Superior ante o óbice da súmula 7/STJ.
+2. Do mesmo modo, rever o acórdão recorrido e acolher a pretensão recursal quanto à comprovação da impenhorabilidade do imóvel demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno não provido" (AgInt no AREsp 1.582.256/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/06/2020, DJe 12/06/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO EM EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. BEM DE FAMÍLIA. MORADIA. COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULA Nº 282 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Após a análise do conjunto fático-probatório, o Tribunal estadual concluiu que o imóvel é impenhorável porque destinado à moradia da entidade familiar. Assim, alterar as conclusões do acórdão impugnado exigiria indevida incursão fático-probatória, o que não é admitida nesta instância recursal, sob pena de indevida afronta à Súmula nº 7 do STJ.
+3. A ausência de debate no acórdão recorrido, quanto aos temas suscitados no recurso especial e sobre os quais não foram opostos embargos de declaração, evidencia a falta de prequestionamento, incidindo o disposto na Súmula nº 282 do STF.
+4. Agravo interno não provido" (AgInt no AREsp 1.582.068/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/06/2020, DJe 04/06/2020).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários advocatícios foram fixados em R$ 2.100,00 (dois mil e cem reais), os quais devem ser majorados para R$ 2.500,00 (dois mil e quinhentos reais) em favor do advogado da recorrida, observada a assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
