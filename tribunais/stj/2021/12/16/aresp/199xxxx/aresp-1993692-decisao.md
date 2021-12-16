@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de Justiçado Estado de Minas Gerais sob o pálio da seguinte ementa:
+REEXAME NECESSÁRIO. APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. OMISSÃO. ADOÇÃO DA TEORIA SUBJETIVA. JUCEMG - JUNTA COMERCIAL DO ESTADO DE MINAS GERAIS. REGISTRO DE ATO DE MICROEMPREENDEDOR INDIVIDUAL. NÃO APRESENTAÇÃO DOS DOCUMENTOS UTILIZADOS NO MOMENTO DO ATO REGISTRAL. FRAUDE. INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO AO NOME. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA LÍQUIDA E CONDENATÓRIA. ARBITRAMENTO IMEDIATO. - O ordenamento jurídico pátrio adotou, como regra, a teoria subjetiva da responsabilidade civil, como se nota dos arts. 186, 927 e seguintes do  Código Civil. - A responsabilidade civil das pessoas juridicas de direito publico é, em regra, objetiva - independente de prova de culpa, porque amparada na teoria do risco administrativo, prevista no art. 37, § 60 da Constituição da República Federativa do Brasil de 1.988. - Quando o fato danoso se deve a uma omissâo, decorrente de faute du service (o serviço não funcionou, funcionou atrasado ou funcionou de forma ineficiente), aplica-se a teoria da responsabilidade subjetiva. - Mesmo que a Junta Comercial do Estado de Minas Gerais não possua a atribuição de conferência da documentação apresentada para o ato de registro de empresário ou de sociedade empresária, deverá verificar a regularidade formal dos documentos, exigindo a exibição daqueles que a lei determina para fins do referido registro. - Não tendo sido juntado aos autos os documentos exibidos para o registro da sociedade empresária, deixou a ré de demonstrar a caracterização de fato extintivo, impeditivo ou modificativo do direito a uto ra 1. - O registro fraudulento de sociedade empresária acarreta dano moral, 19 por violação do direito ao nome. - Sendo líquida e condenatória a sentença, os honorários advocatícios de sucumbência deverão ser arbitrados desde logo, com observância às regras trazidas pelo art. 85, % 20 e 30, do Código de ProcessoCivil de 2.015.
+Embargos de Declaração não acolhidos às fls. 191-195.
+Recurso Especial às fls. 199-208.
+Contrarrazões não apresentadas (fl. 211).
+Decisão pela inadmissibilidade do Recurso Especial às fls. 218-223.
+A parte agravante ataca os fundamentos que ensejaram a inadmissão do recurso excepcional e, no mais, repisa os argumentos nele deduzidos. Pleiteia, em suma:
+Assim, tem-se que a matéria debatida no recurso raro foi objeto de análise pelo v. acórdão recorrido, não havendo que se falar em ausência de prequestionamento. Em vista do exposto, sendo cabível o recurso especial com base no disposto na letra "a" do inciso III, do artigo 105 da Constituição, nos termos das razões acima, a decisão denegatória, data venia, mostra-se contrária ao direito aplicável, merecendo por isso, pronta reforma. DO PEDIDO Ante o exposto, requer seja conhecido e provido o presente agravo para que o Recurso Especial seja julgado por este Superior Tribunal de Justiça.
+Contraminuta não ofertada (fl. 287).
+Decisum do Tribunal de origem que mantém a decisão agravada por seus próprios fundamentos, à fl. 288.
+É o relatório.
+Decide-se.
+Os autos foram recebidos neste Gabinete em 21.11.2021.
+Cuida-se de inconformismo contra decisum do Tribunal de origem que não admitiu o Recurso Especial, sob o fundamento de ausência de prequestionamento.
+A irresignação não merece prosperar.
+A recorrente aponta, ainda, em suas razões recursais,ofensa ao disposto no art. 407 do Código Civil, para defender a incidência de juros moratórios a partir da fixação do quantum indenizatório, e não da data da citação, como teria ficado assentado no acórdão recorrido. Assevera que, nos casos envolvendo indenização por danos morais, existindo apenas prejuízo estimado, mas não determinado, o dever de indenizar está atrelado à decisão judicial que institui o dano e o quantifica, pelo que entende que a incidência dos juros deve ocorrer a partir da fixação da respectiva indenização.
+Quanto ao dispositivo legal invocado pelo recorrente, o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo, não tendo havido, portanto, o necessário prequestionamento.
+O STJ entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ: "Inadmissível recurso especial quanto a questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Da mesma sorte, incide, por analogia, o Enunciado 282 da Súmula do Excelso Pretório, que versa sobre o óbice decorrente da ausência de prequestionamento: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. FUNDAMENTO SUFICIENTE INATACADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO.
+(..)
+4. A falta de prequestionamento da questão federal, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula 211 do STJ).
+5. Recurso especial parcialmente conhecido e, nessa parte, desprovido.
+(REsp 872.706/RJ, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 6.2.2007, DJ 22.2.2007 p. 169).
+ADMINISTRAÇÃO. SERVIDOR PÚBLICO. URV. LEI DELEGADA 43/2000. DIREITO LOCAL. SÚMULA 280/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Controverte-se sobre o direito de servidores públicos de receber diferenças oriundas da URV em virtude de reestruturação do sistema remuneratório dos militares determinada pela Lei Delegada 43/2000.
+2. A alegação de ofensa aos arts. 368 e 369 do CC, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal de origem. Incidência da Súmula 211/STJ.
+3. A conclusão assentada na origem teve como premissa a interpretação de lei local, de modo que a reforma daquele entendimento esbarra no óbice da Súmula 280/STF: "Por ofensa a direito local, não cabe recurso extraordinário". Precedentes: REsp 1.290.833/MG, Rel. Min. Castro Meira, DJe 19.12.2011; AgRg no REsp 1.312.402/MG, Rel. Min. Benedito Gonçalves, DJe 22.5.2012; AgRg no REsp 1.253.650/MG, Rel. Min. Humberto Martins, DJe 4.10.2011.4. Agravo Regimental não provido
+(AgRg no REsp 1.256.721/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/9/2012, DJe 24/9/2012).
+Consubstanciado o que previsto na Súmula Administrativa 7/STJ, condena-se a parte recorrente ao pagamento de honorários advocatícios de 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Pelo exposto, conhece-se do Agravo para não se conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
