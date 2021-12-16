@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CONCESSIONÁRIA DO SISTEMA ANHANGUERA - BANDEIRANTES S/Acontra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP) que inadmitiu seu recurso especial.
+Historiam os autos que KÁTIA REGINA SILLMAN, ora recorrida, ajuizou "ação possessória" emdesfavor de CONCESSIONÁRIA DO SISTEMA ANHANGUERA - BANDEIRANTES S/A, cujo pedido foi julgado procedente, conforme r. sentença da qual se decalca o seguinte excerto (fls. 652-654):
+"Portanto, sob este aspecto, conclui-se que deixa a desejar quanto ao cumprimento de suas obrigações assumidas contratualmente, considerando que que o projeto de reforma do acesso foi elaborado em julho de 2002. Seis anos sepassaram e não iniciou as obras de modernização do acesso. Ao invés de cumprir com as normas do Poder Público, fechou o acesso à propriedade da autora, utilizando este expediente como forma coercitiva de forçá-la a arcar com os custos da obra, quando deveria utilizar os expedientes legais para exigir tal contribuição.
+O direito a passagem forçada é atribuído ao titular do terreno vizinho como forma de garantir o direito de ir e vir do imóvel encravado. Ele tem natureza de direito potestativo e obrigacional e funda-se na inexistência de alternativa para acesso ao imóvel, conforme dispõe o artigo 1.285 do Código Civil (Art. 559, do CC/16).
+Por conseguinte, através da prova pericial, a constatação é a de imóvel encravado e se mostra irrefragavelmente útil ao imóvel da autora autilização da saída para a Rodovia que está sob guarda da ré, tanto que já a utiliza desde 1963, quando recebeu a utorização do antigo administrador da rodovia. De outro lado, está fartamente demonstrada a utilização econômica do imóvel, sua destinação para comércio e que isso é imprescindível para a sobrevivência da autora.
+(..)
+Em face do exposto, JULGO PROCEDENTE O PEDIDO INICIAL para tornar definitivos os efeitos da liminar concedida e, em conseqüência, EXTINGUIR o processo, com julgamento de mérito, fazendo-o a termo do artigo 269,1, do Código de Processo Civil."(g. n.)
+Inconformada, CONCESSIONÁRIA DO SISTEMA ANHANGUERA - BANDEIRANTES S/Ainterpôs apelação, que foi desprovida pelo eg. TJ-SP, nos termos do v. acórdão assim ementado (fls. 706):
+"POSSESSÓRIA - PEDIDO DE REABERTURA DE ACESSO À PROPRIEDADE DA AUTORA DELIBERADAMENTE FECHADO PELA CONCESSIONÁRIA QUE ADMINISTRA A RODOVIA ANHANGUERA - INEXISTÊNCIA DE OUTRO ACESSO À VIA PÚBLICA -IMÓVEL ENCRAVADO - IMPOSSIBILIDADE DE FECHAMENTO SEM QUE UMA ALTERNATIVA SEJA ANTERIORMENTE ENCONTRADA, SOB PENA DE CERCEAMENTO DO DIREITO DE IR E VIR DA AUTORA - AUTORIZAÇÃO PARA ABERTURA DO ACESSO CONCEDIDA PELO DER HÁ APROXIMADAMENTE 50 ANOS - SENTENÇA QUE DETERMINOU A REABERTURA MANTIDA - APELO DESPROVIDO."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 727-731).
+Irresignada, CONCESSIONÁRIA DO SISTEMA ANHANGUERA - BANDEIRANTES S/A manejou recurso especial (fls. 734-751), com arrimo na alínea "a" do permissivo constitucional, alegando, preliminarmente, violação ao art. 535 do CPC/73, afirmando que o eg. TJ-SP não sanou os vícios suscitados nos embargos de declaração.
+Ultrapassada a preliminar, assevera que "(..) pois houve (i) nítida ofensa ao disposto no artigo 1.285, §2ºdo Código Civil, pois reconheceu o direito a manutenção de acesso irregular à Via Anahnguera, sem considerar que o encravamento da propriedade da Recorrida se deu em razão de desmembramento de área maior; (ii) negativa de vigência ao art. 6º da Lei de Concessões (Lei 8.987/95), com iguais prejuízos a adequada prestação dos serviços por parte da Recorrente, notadamente em relação à garantia da segurança dos usuários da Via Anhanguera" (fls. 743).
+Não foram apresentadas contrarrazões (vide certidão à fls. 755).
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 756-757), motivando o manejo do agravo em recurso especial (fls. 762-779) em exame.
+Tampoucofoi oferecida contraminuta (vide certidão à fls. 783).
+É o relatório. Passo a decidir.
+Inicialmente, rejeita-se a alegada violação ao art. 535 do CPC/73, uma vez que o eg. Tribunal de Justiça do Estado de São Paulo analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, colhem-se os recentes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DA DEMANDADA.
+1. As questões postas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões ou contradição, portanto, deve ser afastada a alegada violação ao artigo 535 do CPC/73, vigente à época. Precedentes.
+(..)
+6. Agravo interno parcialmente provido para reconsiderar, em parte, a decisão singular e, de plano, conhecer do agravo para dar parcial provimento ao apelo extremo."
+(AgInt no AREsp 746.850/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/10/2021, DJe 04/11/2021 - g. n.)
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. PENHORA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. RAZÕES RECURSAIS. FUNDAMENTAÇÃO DEFICIENTE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp 1525665/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/10/2021, DJe 08/10/2021)
+Avançando, tem-se que o conteúdo normativo do art. 6º da LINDB não foi apreciado pelo eg. TJ-SP, acarretando a ausência de prequestionamento.
+Impende salientar que não há contradição em se reconhecer a ausência de violação ao art. 535do CPC/73, e assentar que o referido artigo não foi prequestionado, pois o exame da lide sob a ótica desta norma não constou das razões da apelação (fls. 663-677), mas, somente, em sede de embargos de declaração (fls. 720-724), quando operada a preclusão. Com efeito, a inovação recursal trazida emembargos de declaração caracteriza mero pós-questionamento, que não é admitido por esta eg. Corte. Nessa linha de intelecção, além dos precedentes já homenageados na decisão vergastada, destacam-se:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INOVAÇÃO DE ARGUMENTOS. PREQUESTIONAMENTO. INVIABILIDADE. SÚMULA 211/STJ. PREPARO POSTERIOR À INTERPOSIÇÃO DO RECURSO ESPECIAL. DESERÇÃO. PRECEDENTES DO STJ. LITIGANTE DE MÁ-FÉ. CARACTERIZAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. A pretensão de ver analisados argumentos não veiculados anteriormente, mas trazidos somente agora, sem sede de agravo interno, não configura prequestionamento, e sim pós-questionamento. Incidência da Súmula 211/STJ.
+(..)
+4. Agravo interno não provido."
+(AgInt nos EDcl no AREsp 1.165.982/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/06/2018, DJe de 29/06/2018 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. REEXAME. SÚMULA N. 7/STJ. PREQUESTIONAMENTO. TENTATIVA. PÓS-QUESTIONAMENTO. SÚMULA N. 211/STJ. DANO MORAL. VALOR. HONORÁRIOS ADVOCATÍCIOS. REEXAME. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+(..)
+3. As questões que somente foram alegadas em embargos de declaração opostos ao acórdão de apelação cível traduzem tentativa de pós-questionamento, inadmissível. Incidência da Súmula n. 211 desta Corte.
+(..)
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.133.717/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/04/2018, DJe de 02/05/2018 - g. n.)
+Melhor sorte não socorre ao recurso no tocante à suposta violação ao art. 1.285, § 2º, do Código Civil. Com efeito, oeg. TJ-SP, com arrimo no acervo fático probatório carreado aos autos, expressamente assentou que tal norma não era aplicável ao caso, como se infere da leitura do seguinte excerto do v. acórdão estadual(fls. 708-710):
+"Em exame ao apelo, cumpre-me primeiro destacar a impossibilidade de aplicação do contido no § 2º, do artigo 1.285, do Código Civil eis que não restou suficientemente demonstrado nos autos que o imóvel da autora é fruto de anterior desmembramento, tendo o perito concluído a partir do exame da matrícula do imóvel: ".. salvo prova em contrário, que referido imóvel é oriundo de desmembramento posterior a construção da Rodovia Anhanguera ( g. n.) (fls. 474).
+Dessa forma, inviável o acolhimento do pleito da apelante porquanto não demonstrada nos autos a alegada alienação parcial do imóvel que autorizaria à autora formular pedido de passagem ao proprietário vizinho. Ademais, a suposta alienação teria se dado há aproximadamente 50 anos atrás, sendo certo que desde então a autora contava com autorização (à época expedida pelo DER) para utilização do acesso à Rodovia Anhanguera (fls. 18/19).
+É certo que referida autorização possui caráter precário e pode ser a qualquer tempo revogada. No entanto, no caso, a questão não pode ser resolvida da forma arbitrária como foi eis que, fechado o acesso, o imóvel da autora fica encravado, sem qualquer saída para a via pública, não sendo possível, ainda, segundo a prova pericial produzida nos autos, construir e/ou viabilizar outros acessos, face às vultosas construções vizinhas edificadas nas laterais e fundos do terreno(fls. 473).
+(..)
+O fechamento do único acesso (entrada e saída) ao imóvel da autora foi realizado pela ré sendo, pois, de rigor que figure no polo passivo desta ação. Ademais, a ela cabe gerir e administrara Rodovia em tela de modo que perfeitamente pertinente sua condenação à reabertura do acesso."
+(g. n.)
+Nesse contexto, a alteração do entendimento ora transcrito demandaria reexame de matéria fático-probatória, pretensão inviável em sede de recurso especial, consoante preconiza a Súmula n. 7/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a" e "b", do RI-STJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
