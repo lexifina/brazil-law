@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto porUNIMED CUIABÁ  COOPERATIVA DE TRABALHO MÉDICO contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grossoassim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL, CUMULADA COM PEDIDO DE CONDENAÇÃO EM OBRIGAÇÃO DE FAZER - CONTRATO COLETIVO - FALECIMENTO DA TITULAR -DEPENDENTE MENOR - PRETENSÃO DE MANUTENÇÃO DO BENEFÍCIO -INTERPRETAÇÃO EXTENSIVA DOS PRECEITOS LEGAIS - PRECEDENTES DOS TJ - SENTENÇA MANTIDA - RECURSO DESPROVIDO, EM CONSONÂNCIA COM A PGJ.
+A Terceira Turma do Superior Tribunal de Justiça decidiu que, na hipótese de falecimento do titular do plano de saúde coletivo, seja este empresarial ou poradesão, nasce para os dependentes já inscritos o direito de pleitear a sucessão da titularidade, nos termos dos arts. 30 ou 31 da Lei 9.656/1998, desde que assumam o seu pagamento integral (REsp 1.871.326/RS, julgado em 01/09/2020, DJe 09/09/2020)." (e-STJ fls. 394/395).
+As razões do recurso especial alegama violação dos artigos16, 30da Lei 9.656/98, 421 e422 do Código Civil.
+Sustentaque, com a morte do titular, não é possível a continuidade do contrato coletivo, diante da ausência de previsão contratual.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No caso, o Tribunal de origem determinou a manutenção doora recorridocomo beneficiáriodo plano de saúde após o óbito de sua mãe, titular do plano, com base nos seguintes fundamentos:
+"A respeito do direito de manutenção dos dependentes em caso de morte do titular, o artigo 8º da Resolução Normativa nº 279 de 2011 da Agência Nacional de Saúde Suplementar - ANS, prevê que "em caso de morte do titular é assegurado o direito de manutenção aos seus dependentes cobertos pelo plano privado de assistência à saúde, nos termos do disposto nos artigos 30 e 31 da Lei nº 9.656, de1998."
+Muito embora, à primeira vista, a redação do art. 30, §1º, da Lei nº 9.656/1998 leve a crer que a condição de beneficiário em casos como o presente deverá ser assegurada apenas temporariamente, a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que, em caso de morte do titular (hipótese prevista no §3º), os dependentes dispõem do direito de continuar no plano de saúde,preservadas as condições anteriormente contratadas, desde que assumam as obrigações dele decorrente." (e-STJ fl.400).
+De fato, a jurisprudência desta Corte firmada no sentido de que "ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumindo as obrigações dele decorrentes" (AgInt no AREsp 1.428.473/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/6/2019, DJe 28/6/2019).
+Além disso, alterar as conclusões alcançadas pelas instâncias ordinárias, a partir da tese de que o contrato não prevê a manutenção do dependente no plano de saúde por tempo indeterminado após o óbito do titular, demandaria a análise de circunstâncias fático-probatórias dos autos e de cláusulas contratuais, o que é inviável no recurso especial pela incidência das Súmulas nºs 5 e 7/STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. EXTINÇÃO. MOVIMENTAÇÃO DE USUÁRIO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ.
+1. A Corte local, com base nos elementos fático-probatórios dos autos e na interpretação do contrato, concluiu pela inexistência de previsão contratual quanto à extinção do contrato de plano de saúde em razão do óbito de usuário titular, bem como pela existência de cláusula autorizativa da movimentação de usuário dependente para a posição de titular.
+2. Para desconstituir o entendimento exposto pelo Tribunal local e acolher a pretensão recursal seria imprescindível o reexame de prova e a interpretação de cláusulas contratuais, o que é defeso nesta instância especial. Incidência das Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 296.052/GO, Rel. Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, QUARTA TURMA, julgado em 15/5/2018, DJe 21/5/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em metade para cada parte, em virtude da sucumbência recíproca. Sendo assim, deve ser majorada em mais 5% (cinco por cento) a verba a ser paga em favor do advogado da parte recorrida, nos termos do art. 85, §§ 2º e 11, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
