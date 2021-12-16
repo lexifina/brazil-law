@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (e-STJ fls. 800/812) interposto contra decisão que negou seguimento ao recurso especial, ante a incidência da Súmula n. 211/STJ(e-STJ fls. 784/786).
+O acórdão recorrido está assim ementado (e-STJ fls. 542/543):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA.NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO E JULGAMENTO CITRA PETITA.NULIDADE REJEITADA.
+1. Não carece de fundamentação a sentença que indica os motivos que formaram o convencimento do julgador, que apreciou as questões de fato e de direito relevantes a formar a sua convicção, em conformidade com o princípio do convencimento motivado ou persuasão racional do juiz, nos termos dos artigos 93, inc. IX, da Constituição Federal e 371 e 489 do CPC/15.
+2. Em que pese ter deixado de analisar todas as teses invocadas pela parte autora, é cediço que não detém o magistrado o ônus de apreciar, em sua integralidade, todos os argumentos e dispositivos legais arguidos pelas partes, mas tão somente aqueles que foram capazes de infirmar, em tese, o seu convencimento, nos termos do que rege o art. 489, § 1º, inciso IV, do CPC vigente.
+DECLARAÇÃO DE INEXIGIBILIDADE DE PAGAMENTO C/C INDENIZAÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. APRESENTAÇÃO DAS TRÊS VIAS ORIGINAIS EMITIDAS. AUSÊNCIA DE PLAUSIBILIDADE. VIA NEGOCIÁVEL QUE PERTENCE AO CREDOR. DEMAIS VIAS ENTREGUESAOS CONTRATANTES. CRÉDITO NÃO TRANSFERIDO A TERCEIROS. IMPROCEDÊNCIA.
+3. Carece de plausibilidade jurídica o pedido de apresentação das três vias originais emitidas da cédula de crédito bancário, vez que, nos termos do art. 29 da Lei nº 10931/04 (que dispõe sobre os títulos de crédito), somente a via do credor é negociável, enquanto as outras (não negociáveis) são entregues aos próprios contratantes.
+4. Não há sequer indícios de que o banco credor tenha colocado as outras duas vias das cártulas de crédito em circulação, tendo em vista a inexistência de endosso ou cessão de crédito a terceiros, muito possivelmente porque não as detém, já que são entregues aos contratantes.
+AÇÃO ANULATÓRIA. GARANTIA REAL. PREVISÃO EXPRESSA NA CÉDULA DE CRÉDITO. AUSÊNCIA DE NULIDADE. NÃO VIOLAÇÃO AO PRINCÍPIO DA LITERALIDADE. ESPECIFICAÇÃO DA GARANTIA E DO BEM OFERECIDO.
+5. Havendo expressa previsão contratual da constituição da garantia de alienação fiduciária, bem como a individualização e descrição do bem imóvel oferecido em garantia, não prospera a alegação de ofensa ao princípio da literalidade e não cabe escusa de seu cumprimento com amparo na ignorância a respeito da lei.
+6. Não padece de nulidade a garantia real de alienação fiduciária constituída no título e averbada à margem da matrícula do imóvel, tendo em vista que amparada em cláusula contratual a que expressamente anuiu o consumidor, podendo o credor se valer da garantia real em caso de inadimplemento.
+OUTORGA UXÓRIA. AUSÊNCIA DE NULIDADE.
+7. Não prospera a nulidade da outorga uxória, tendo em vista que o cônjuge do contratante assinou todas as vias e páginas do contrato, de onde se presume sua expressa anuência, independentemente do local em que foi aposta sua assinatura, sobretudo por ausência de constatação a quaisquer dos vícios deconsentimento aptos a ensejar a declaração de nulidade do contrato.
+POSSIBILIDADE DE ALIENAÇÃO FIDUCIÁRIA SOBRE BEM IMÓVEL DE PROPRIEDADE DO DEVEDOR. NÃO CONFIGURAÇÃO DE DESVIO DE FINALIDADE. UTILIZAÇÃO DO INSTITUTO EM OPERAÇÕES DE CRÉDITO DE QUALQUER NATUREZA.
+8. Muito embora a alienação fiduciária de imóveis tenha sido introduzida em nosso ordenamento jurídico pela Lei nº 9.514/1997, que dispõe sobre o Sistema de Financiamento Imobiliário, seu alcance ultrapassa os limites das transações relacionadas à aquisição de imóvel e pode ser contratada em qualquer modalidade de operação de crédito, ou seja, desprovida da finalidade de aquisição, construção ou reforma do imóvel oferecido em garantia.
+9. A lei não exige que o contrato de alienação fiduciária de imóvel se vincule ao financiamento do próprio bem, de modo que é legítima a sua formalização como garantia de toda e qualquer obrigação pecuniária. Precedentes do STJ.
+10. Apelação conhecida e improvida.
+Nas razões recursais (e-STJ fls. 624/639), fundamentadas no art. 105, III, "a" e "c", da CF, a parterecorrenteaponta, além de dissídio jurisprudencial,ofensa aos arts. 29, §§1º e 3º, da Lei n. 10.391/2004, 423 do CC/2002, 805 do CPC/2015 e 47 do CDC.
+Alega que o banco deve apresentar as três vias originais da cédula de crédito e que o contrato deve ser interpretado de forma favorável ao aderente.
+Foram apresentadas contrarrazões (e-STJ fls. 759/765) e contraminuta(e-STJ fls. 918/922).
+É o relatório.
+Decido.
+O Tribunal a quo decidiu a questão da apresentação dos documentos nosseguintes termos (e-STJ fls. 550/551):
+Não antevejo, de início, conforme já consignado alhures, a plausibilidade jurídica no pedido de obrigar o banco apelado a apresentar nos autos as três vias originais emitidas da cédula de crédito bancário aqui discutida.
+Com efeito, nos termos do art. 29 da Lei nº 10931/04, 2 que dispõe sobre os títulos de crédito, somente a via do credor é negociável, enquanto as outras (não negociáveis) são entregues aos próprios contratantes.
+A parte autora trouxe aos autos cópia da via negociável pertencente ao banco, que foi registrada em cartório, de onde se presume que as outras duas vias foram entregues aos próprios apelantes no momento da assinatura do instrumento contratual, não se podendo cogitar em retenção indevida pelo banco.
+Ademais, não há sequer indícios de que o banco credor tenha colocado as outras duas vias das cártulas de crédito em circulação, tendo em vista a inexistência de endosso ou cessão de crédito a terceiros, muito possivelmente porque não as detém, já que são entregues aos contratantes.
+Assim também se revela sem sentido a declaração de inexigibilidade de pagamento das cédulas de crédito bancário representadas pelas vias não negociáveis, já que o banco não transferiu o crédito a terceiros.
+Desse modo, neste particular, deve ser rejeitado o pedido de condenação do banco requerido a apresentar as três vias negociáveis, bem como a declaração de inexigibilidade do pagamento c/c indenização.
+Os recorrentes se limitam a defender a necessidade de apresentação de todas as vias, mas não refutam, de forma específica, o fundamento de que as demais vias não são negociáveis e o de que ainstituição financeiraprovavelmentenão detém a posse de tais documentos. Incidência da Súmula n. 283/STF.
+Os demais artigos apontados como violados não foram objeto de decisão pela Corte local, de modo que falta ao recurso o requisito do prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio, mediante o exame das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 255, §§ 1º e 2º, do RISTJ).
+No caso concreto, os recorrentes não comprovaram o dissídio porque, quanto à documentação, os casos foram decididos com base nas peculiaridades fáticas, não havendo semelhança e, quanto à interpretação, amatéria não foisequer decidida pela Corte local.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
