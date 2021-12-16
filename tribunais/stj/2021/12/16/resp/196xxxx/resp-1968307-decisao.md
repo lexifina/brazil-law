@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fl. 549, e-STJ):
+PREVIDENCIÁRIO. TEMPO DE SERVIÇO ESPECIAL. APOSENTADORIA ESPECIAL. NÃO CONCESSÃO. PEDIDO SUCESSIVO.APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO.CONCESSÃO. CONSECTÁRIOS. IMPLANTAÇÃO DO BENEFÍCIO.
+Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer- se a especialidade da atividade laboral por ele exercida.
+Não tem direito à aposentadoria especial o segurado que não possui tempo de serviço suficiente à concessão do benefício.
+A possibilidade da reafirmação da DER foi objeto do REsp 1.727.063/SP, REsp 1.727.064/SP e REsp 1.727.069/SP, representativos da controvérsia repetitiva descrita no Tema 995 - STJ, com julgamento em 22/10/2019, cuja tese firmada foi no sentido de que é possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+Considerado o pedido sucessivo, tem direito à aposentadoria por tempo de serviço/contribuição o segurado que, mediante a soma do tempo judicialmente reconhecido com o tempo computado na via administrativa, possuir tempo suficiente e implementar os demais requisitos para a concessão do benefício.
+Correção monetária a contar do vencimento de cada prestação, calculada pelo INPC, para os benefícios previdenciários, a partir de 04/2006, conforme o art. 31 da Lei n.º 10.741/03, combinado com a Lei n.º 11.430/06, precedida da MP n.º 316, de 11/08/2006, que acrescentou o art. 41-A à Lei n.º. Juros de mora simples a contar da citação (Súmula 204 do STJ), conforme o art. 5º da Lei 11.960/2009, que deu nova redação ao art.1º-F da Lei 9.494/1997.
+Determinada a imediata implantação do benefício.
+Os Embargos de Declaração foram rejeitados nos seguintes termos (fl. 583, e-STJ):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS.REDISCUSSÃO: IMPOSSIBILIDADE. PREQUESTIONAMENTO.
+1. Os embargos de declaração tem cabimento contra qualquer decisão e objetivam esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material.
+2. O recurso é descabido quando busca meramente rediscutir, com intuito infringente, o mérito da ação, providência incompatível com a via eleita.
+3. Em face da discussão acerca do prequestionamento e considerando a disciplina do art. 1.025 do CPC/2015, os elementos que a parte suscitou nos embargos de declaração serão considerados como prequestionados mesmo com sua rejeição, desde que tribunal superior considere que houve erro, omissão, contradição ou obscuridade.
+A parte recorrente alega que houve violação, em preliminar, do art. 1.022, II, do CPC/2015; e, no mérito, dos arts. 85,caput, e 927, III, ambos também do CPC/2015, e dos arts. 389, 394, 395 e 396 do CC/2002.
+Afirma, em síntese, que não foram observados os parâmetros do Tema 995 do STJ e que, portanto, devem ser afastados os juros de mora e os honorários advocatícios.
+Sem contrarrazões, conforme certidão de fl. 601, e-STJ.
+O Tribunal de origem admitiu o Recurso Especial(fls. 604-607, e-STJ).
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 1º.12.2021.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+No mérito, a controvérsia do caso reside na incidência dos juros moratórios em desfavor da autarquia recorrente.
+Cumpre lembrar, inicialmente, que o Superior Tribunal de Justiça firmou o posicionamento de que "é possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir" (Tema 995).
+No julgamento dos Embargos de Declaração no Recurso Especial repetitivo 1.727.063/SP, a Primeira Seção estabeleceu:
+Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV.
+No caso da reafirmação da DER, conforme delimitado no acórdão embargado, o direito é reconhecido no curso do processo, não havendo que se falar em parcelas vencidas anteriormente ao ajuizamento da ação.
+Por outro lado, no caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirá, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, a serem embutidos no requisitório.
+Nesse contexto, merece prosperar a irresignação do recorrente, já que o acórdão recorrido está em desacordo com a jurisprudência desta Corte. A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITO MODIFICATIVO.
+1. Embargos de declaração opostos pelo INSS, em que aponta obscuridade e contradição quanto ao termo inicial do benefício reconhecido após reafirmada a data de entrada do requerimento.
+2. É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+3. Conforme delimitado no acórdão embargado, quanto aos valores retroativos, não se pode considerar razoável o pagamento de parcelas pretéritas, pois o direito é reconhecido no curso do processo, após o ajuizamento da ação, devendo ser fixado o termo inicial do benefício pela decisão que reconhecer o direito, na data em que preenchidos os requisitos para concessão do benefício, em diante, sem pagamento de valores pretéritos.
+4. O prévio requerimento administrativo já foi tema decidido pelo Supremo Tribunal Federal, julgamento do RE 641.240/MG. Assim, mister o prévio requerimento administrativo, para posterior ajuizamento da ação, nas hipóteses ali delimitadas, o que não corresponde à tese sustentada de que a reafirmação da DER implica na burla do novel requerimento.
+5. Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV. No caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirão, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, embutidos no requisitório de pequeno valor.
+6. Quanto à obscuridade apontada, referente ao momento processual oportuno para se reafirmar a DER, afirma-se que o julgamento do recurso de apelação pode ser convertido em diligência para o fim de produção da prova.
+7. Embargos de declaração acolhidos, sem efeito modificativo.
+(EDcl no REsp 1.727.063/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 21/5/2020)
+Por fim, no que concerne aos honorários advocatícios, reexaminar a decisão do Tribunal de origem quanto à distribuição da sucumbência implicaria violação da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto,conheço do Recurso Especial para dar-lhe parcial provimento, a fim de afastar somente a incidência dos juros de mora.
+Publique-se.
+Intimem-se.
