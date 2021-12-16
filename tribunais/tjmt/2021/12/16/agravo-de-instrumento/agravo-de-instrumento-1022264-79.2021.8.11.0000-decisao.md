@@ -1,0 +1,31 @@
+Recurso de Agravo de Instrumento no 1022264-79.2021.8.11.0000 – Capital.
+Agravante: Vyacheskav Rysin
+Agravados: Sergii Antonenko
+V I S T O S.
+Trata-se de recurso de agravo de instrumento com pedido de tutela antecipada recursal interposto por Vyacheskav Rysin, em face da decisão interlocutória proferida pelo MMa Juíza de Direito da 2a Vara Cível da Comarca de Juína, nos autos da Tutela Antecipada em Caráter Antecedente n. 1000436-49.2021.8.11.0025, proposta por Sergii Antonenko, que deferiu a tutela de urgência para declarar revogada a procuração outorgada à Odete Maria Biava, bem como para suspender os efeitos da Cláusula Quinta da 9a Alteração Contratual e da 10a Alteração Contratual realizadas em face da pessoa jurídica LVR Comércio e Extração Mineral Ltda., até o julgamento definitivo da ação principal.
+Inconformado, narra o agravante que as partes são sócias na empresa LVR Comércio e Extração Mineral Ltda., sendo o agravante, sócio administrador. Que durante os anos fez vários aportes e investimentos no empreendimento, mas, todavia, não procedeu o arquivamento dos registros dos lançamentos.
+Diz que em razão dos desiquilíbrios nas quotas sociais, fora orientado pela contadora da empresa, a doação de cotas empresariais a fim de que a divisão social fosse equânime ao investimento realizado, o que justificou a elaboração das alteração contratuais 9a e 10a, onde consta a doação de 1.330.828 quotas em favor do agravante, que fora realizada mediante com a utilização de procuração publica conferida pelo agravado à Sr. Odete, então contadora da empresa.
+Alega que a decisão que determinou a suspensão das alterações contratuais é precipitada, porque se omitiu quanto à pretensão inicial sobre a proibição da elaboração de novas alterações contratuais, e que o agravado se valendo da omissão do juízo a quo, elaborou a 11a Alteração Contratual, por meio da qual destituiu o agravante do cargo de sócio administrador e alterou as porcentagens das quotas societárias, gerando prejuízos a este.
+Aduz que a tutela de urgência perdeu sua eficácia, por não ter sido deduzido o pedido principal no prazo legal, oportunidade em que requer a extinção da medida.
+A par de tais argumentos, sustentando a presença dos requisitos legais, requer a concessão da tutela antecipada recursal, a fim de que seja concedido o efeito suspensivo postulado.
+É o relatório.
+Decido.
+Cuida-se na origem, de Tutela Antecipada em Caráter Antecedente, na qual se busca a revogação da procuração outorgada por escritura pública à requerida Odete Maria Biava, e a suspensão dos efeitos da 9a e da 10a Alteração Contratual levada a registro perante a Junta Comercial referente a pessoa jurídica - LVR Comercio e Extração Mineral Ltda.
+Insurge-se o agravante, contra o pronunciamento do togado a quo que deferiu a tutela de urgência para suspender os efeitos da Cláusula Quinta da 9a Alteração Contratual e da 10a Alteração Contratual realizadas em face da pessoa jurídica LVR Comércio e Extração Mineral Ltda., até o julgamento definitivo da ação principal.
+Sustenta que a decisão é temerária, porque ao omitir-se quanto à pretensão inicial sobre a proibição da elaboração de novas alterações contratuais, permitiu que o agravado procedesse à 11a Alteração contratual, por meio da qual destituiu o agravante do cargo de sócio administrador e alterou as porcentagens das quotas societárias, acarretando-lhe graves prejuízos e à empresa.
+Ab initio, faz-se necessário analisar o preenchimento dos requisitos de admissibilidade do presente recurso.
+Como se sabe, para cada tipo de decisão corresponde um recurso cabível, observando-se que a inadequação da via eleita acarreta a inadmissibilidade deste, em consonância ao princípio da taxatividade recursal.
+Nesse contexto, a pretensão se enquadra no inciso I do art. 1.015, do CPC, porquanto interposto contra decisão que indeferiu pedido de tutela provisória.
+Assim, superada a admissibilidade, nos termos § único, do art. 995 do CPC/15, a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade do direito vindicado.
+Ressalta-se que referidos requisitos devem ser examinados nos autos considerando-se a profundidade de cognição típica deste momento processual.
+Assim é que, num juízo de cognição sumária, não vislumbro a presença dos pressupostos processuais indispensáveis à concessão da tutela recursal initio litis, isto porque, ao que se verifica dos autos, a revogação do instrumento de mandato outorgado à requerida, poderia, inclusive, ser realizado sem a intervenção judicial, por ato do próprio outorgante perante a Serventia Extrajudicial, e a suspensão dos efeitos da Clausula de doação constantes da 9a e 10a Alteração do Contrato Social, decorrem da possibilidade da extrapolação dos poderes conferidos à outorgada por meio do instrumento de mandato então revogado, que por cautela se fez necessário enquanto se discute a legalidade do ato de liberalidade.
+Lado outro, a alegada omissão da decisão agravada quanto ao pedido e proibição de alteração contratual, que, segundo alega o agravante, teria permitido ao agravado a redistribuição das cotas sociais diminuindo consideravelmente a participação do agravante no capital social da pessoa jurídica , e a destituição do administrador, sobrepuja os limites da decisão agravada, até porque ao que se afigura, foi formulado em caráter subsidiário.
+Assim sendo, nesta quadra preambular as razões do juiz monocrático são consistentes e merecem prevalecer até julgamento do mérito do presente recurso, sendo mister aguardar a manifestação da douta magistrada, bem como da contraminuta que poderá trazer elementos que possibilitem a melhor análise da questão agravada.
+Ressalto que os fundamentos aqui postos não vinculam a análise do mérito do agravo.
+Diante do exposto, indefiro o almejado efeito suspensivo.
+Intime-se o agravado para, querendo, apresentar resposta no prazo de 15 (quinze) dias, nos termos do inc. II, do art. 1.019, do CPC.
+Oficie-se a douta juíza a quo para que preste as informações necessárias.
+P. I.
+Cuiabá, 16 de dezembro de 2021.
+CARLOS ALBERTO ALVES DA ROCHA
+Relator.
