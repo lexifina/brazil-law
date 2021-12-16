@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 715/736) opostos contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA A ARTIGO DE LEI FEDERAL APONTADO COMO CONTRARIADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REDIRECIONAMENTO DA EXECUÇÃO FISCAL. PRESCRIÇÃO. ESPECIAL EFICÁCIA VINCULATIVA DO ACÓRDÃO PROFERIDO NO RESP 1.201.993/SP. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+A embargante aduz, em síntese, que:
+Sendo assim, resta demonstrada a omissão da r. Decisão embargada, que, com a devida vênia, deixou de apreciar ponto essencial acerca do Recurso Especial interposto, especialmente no que tange à violação ao artigo 926 do CPC, bem como incorreu em contradição ao afirmar que o r. Acórdão recorrido estaria em consonância com o decidido por esta Corte Superior no REsp 1201993/SP, uma vez que está evidente que o marco inicial do prazo prescricional para o redirecionamento da execução fiscal adotado no presente caso está em desconformidade com o marco inicial elencado no Tema nº 444 dos Recursos Repetitivos, o que implica em violação aos arts. 927 e 928 do Código de Processo Civil.
+Impugnação às fls. 788/792.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De acordo com o artigo 1.022 do CPC/2015, os embargos declaratórios são cabíveis quando houver, na decisão judicial, obscuridade ou contradição, quando for omitido ponto sobre o qual deveria se pronunciar o juiz ou tribunal ou quando vislumbrada a existência de erro material.
+O decisum embargado contém fundamentação suficiente para demonstrarque não houve violação aoart. 489 do CPC/2015,bem como a incidência, na presente lide, das Súmulas 7/STJ e 284/STF (por analogia).
+Desse modo, a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Ademais, conforme entendimento pacífico desta Corte, "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.719.219/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 19/4/2018, DJe 23/5/2018).
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos. Nesse sentido: EDcl no AgRg no Ag 1.218.989/SP, 2ª Turma, Rel. Min. Humberto Martins, DJe de 7.5.2010; EDcl no REsp 1.118.103/SP, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJe de 20.4.2010.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. EMBARGOS REJEITADOS.
