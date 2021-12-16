@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdãocuja ementa é a seguinte (fl. 349, e-STJ):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DEINSTRUMENTO. DECISÃO MONOCRÁTICA QUE, COM FULCRO NO ARTIGO 932 DO NOVO CÓDIGO DE PROCESSO CIVIL, CONHECEU NÃO DO RECURSO POR MANIFESTA INADMISSIBILIDADE. AGRAVO DE INSTRUMENTO INTERPOSTO EM FACE DE DECISÃO TERMINATIVA NO PROCESSO DE EXECUÇÃO. NATUREZA DE SENTENÇA. AUSÊNCIA DE DÚVIDA OBJETIVA. RECURSO CABÍVEL: APELAÇÃO.IMPOSSIBILIDADE DE APLICAÇÃO DA FUNGIBILIDADE RECURSAL.INEXISTÊNCIA DE ELEMENTOS APTOS A MODIFICAR A DECISÃO RECORRIDA. MANUTENÇÃO DO DECISUM. AGRAVO INTERNO.CONHECIDO E DESPROVIDO.
+Os Embargos de Declaração foram rejeitados (fl. 410, e-STJ).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 475-M, § 3º, do CPC/1973;11, 203, 489, 1.015 e 1.022, II e III, do CPC/2015; e884 do CC, sob o argumento (fl. 424, e-STJ):
+(i) a decisão agravada não extinguiu o cumprimento de sentença, mas tão somente julgou parcialmente procedente a impugnação à justiça gratuita, reduzindo o valor das astreintes para montante ainda considerado excessivo, tendo, para tanto, juntado decisões proferidas pelo STJ corroborando o aduzido; (ii) o parágrafo único do art. 1015 do CPC/15 é cristalino ao dispor que o recurso correto para atacar uma decisão proferida em sede de cumprimento de sentença é agravo de instrumento e não o recurso de apelação; (iii) o Juízo de primeiro grau proferiu decisão interlocutória, com fulcro no art. 203 do CPC/15, sendo cabível, portanto, recurso de agravo de instrumento e não apelação; (iv) por cautela, seria possível a aplicação do princípio da fungibilidade, haja vista, no caso concreto, haver justificada dúvida quanto ao recurso cabível - apelação ou agravo de instrumento - tendo em vista o magistrado ter claramente proferido decisão interlocutória e não extinguido o feito, tendo apenas julgado parcialmente procedente a impugnação ao cumprimento de sentença para reduzir ao valor de R$ 22.500,00 (vinte e dois mil e quinhentos reais).
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.11.2021.
+Preliminarmente, constata-se que não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia.
+Não há vícios de omissão ou contradição, pois a Corte de origem apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mais, aCorte de origem consignou (fl. 351, e-STJ):
+Isto porque a decisão recorrida, conforme salientado no despacho (ID 1927058), a natureza jurídica do provimento jurisdicional atacado é de sentença, por haver extinto a fase de cumprimento de sentença, dele sendo cabível, portanto, o recurso de apelação, conforme restou decidido pelo Superior Tribunal de Justiça:
+(..)
+Como já dito na decisão monocrática ora agravada, entendo que referida decisão foi terminativa, já que pôs termo ao processo, tendo natureza jurídica de sentença e, em assim sendo, o recurso cabível é o de apelação, e não o de agravo de instrumento como interposto pela agravante, não havendo qualquer dúvida objetiva a ser debatida no presente caso.
+Dito isto, a decisão combatida não possui natureza de decisão interlocutória, ainda que tenha ocorrido no âmbito do processo de execução, mas de sentença, porque expressamente pôs fim ao procedimento.
+A jurisprudência do STJ é uníssona ao afirmar que a decisão que resolve impugnação ao cumprimento de sentença e extingue a execução deve ser atacada mediante Apelação, enquanto aquela que julga o mesmo incidente, mas sem extinguir a fase executiva, por meio de Agravo de Instrumento.
+É firme, também, o entendimento de que, em ambas as hipóteses, é inaplicável o princípio da fungibilidade recursal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.SERVIDOR AUTÁRQUICO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA.DECISÃO QUE NÃO ENCERRA FASE EXECUTIVA. AGRAVO DE INSTRUMENTO.IMPOSSIBILIDADE DE APLICAÇÃO DA FUNGIBILIDADE RECURSAL. PRECEDENTES DO STJ. DECISÃO QUE DEU PROVIMENTO AO RECURSO ESPECIAL DA PARTE EXEQUENTE. MANUTENÇÃO.
+1. Segundo a jurisprudência deste Superior Tribunal, "a decisão que resolve Impugnação ao Cumprimento de Sentença e extingue a execução deve ser atacada através de Apelação, enquanto aquela que julga o mesmo incidente, sem extinguir a fase executiva, deve ser atacada por meio de Agravo de Instrumento, bem como que, em ambas as hipóteses, não é aplicável o princípio da fungibilidade recursal.Precedentes: AgRg no AREsp 538.442/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 23/2/2016; AgInt no AREsp 1.467.643/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 13/12/2019, e AgInt no AREsp 1.453.448/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/10/2019"(AgInt no AREsp 1.466.324/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/11/2020 - Grifos nossos).
+2. Considerando-se que no caso concreto a decisão do Juízo de primeiro grau se limitou a julgar improcedente a impugnação apresentada pelo Município de Sorocaba à execução de título executivo judicial ajuizada em seu desfavor pela parte ora recorrente (fls. 115/117), é de se constatar que a interposição de recurso de apelação (fls. 140/144) caracterizou erro grosseiro, inviabilizando a aplicação do princípio da fungibilidade recursal.
+3. Daí o acolhimento de ofensa aos arts. 203 e 1.015, parágrafo único, do CPC, cuja natureza prejudicial tornou desnecessário o exame das demais teses deduzidas no apelo nobre.
+4. Decisão de provimento ao recurso especial interposto pela parte agravada mantida.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.834.307/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 8/11/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015.ACÓRDÃO ESTADUAL FUNDAMENTADO. RECURSO EM FACE DE DECISÃO QUE DETERMINOU O ARQUIVAMENTO DO FEITO EXECUTIVO COM A RESPECTIVA BAIXA.NATUREZA TERMINATIVA. RECURSO CABÍVEL. APELAÇÃO. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+(..)
+2. "O entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, segundo a qual o provimento que determina a baixa e arquivamento da execução, como a hipótese dos autos, tem natureza de sentença, pois põe termo ao processo e, portanto, deve ser atacada por apelação" (AgInt no REsp 1.572.856/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 11/6/2018).
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp 1.611.768/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 3/11/2021)
+Por fim, quanto aospedidos de revisão do valor da multa arbitrada e de substituição de penhora pela carta de fiança, não se pode conhecer da irresignação, pois os temas não foram analisados pela instância de origem, tendo em vista o não conhecimento do Agravo de Instrumento. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Por tudo isso, conheço do Agravo para conhecer em parte do Recurso Especiale, nessa extensão,negar-lheprovimento.
+Publique-se.
+Intimem-se.
