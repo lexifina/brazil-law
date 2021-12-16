@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno interposto porSÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESÁRIA LIMITADA contra decisão monocrática proferida pela Presidência desta Corte (e-STJ, fls. 313-315), que não conheceu do agravo em recurso especial, com fundamento na ausência de impugnação ao fundamento da decisão então agravada consistente na aplicação da Súmula 83/STJ.
+Em suas razões recursais, a parte agravante defende a demonstração da interposição do recurso especial com base na divergência jurisprudencial, além da negativa de vigência de dispositivos legais aplicáveis.
+Impugnação não apresentada (e-STJ, fl. 325).
+É o relatório. Decido.
+A questão de direito objeto do recurso especial -obrigatoriedade de custeio pelo plano de saúde de cirurgia plástica após cirurgia bariátrica- foi afetada à Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, tendo as decisões de afetação dos REsps 1.870.834/SP e 1.872.321/SP delimitado o Tema 1.069 nos termos da seguinte ementa:
+PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS RECURSOS REPETITIVOS. CIVIL. PLANO DE SAÚDE. PACIENTE PÓS-CIRURGIA BARIÁTRICA. DOBRAS DE PELE. CIRURGIAS PLÁSTICAS. COBERTURA. NATUREZA E FINALIDADE DO PROCEDIMENTO.
+1. Delimitação da controvérsia: definição da obrigatoriedade de custeio pelo plano de saúde de cirurgias plásticas em paciente pós-cirurgia bariátrica.
+2. Recurso especial afetado ao rito do artigo 1.036 do CPC/2015.
+(ProAfR no REsp 1870834/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 06/10/2020, DJe 09/10/2020)
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, em juízo de reconsideração,determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo: i)negue-se seguimento ao recurso especialno caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou ii)proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
