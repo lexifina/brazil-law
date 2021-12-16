@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por IN TACTO INDÚSTRIA E COMÉRCIO DE CONFECÇÕES EIRELI.ME e OUTROS com fulcro no art. 105, inciso III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO INTERLOCUTÓRIA QUE REJEITOU A IMPENHORABILIDADE DE VALORES CONSTRITOS.
+RECURSO DA PARTE EXECUTADA.
+IMPENHORABILIDADE DE VALORES BLOQUEADOS PELO BACEN JUD EM CONTA DE TITULARIDADE DA EXECUTADA. ALEGAÇÃO DE QUE A VERBA É PROVENIENTE DE SAQUE DO FUNDO DE GARANTIA POR TEMPO DE SERVIÇO (FGTS) E, POR ISSO, REVESTIDA DE CARÁTER ALIMENTAR. TESE REJEITADA. TÍTULO EXECUTIVO REPRESENTATIVO DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. VERBA DOTADA DE IGUAL CARÁTER ALIMENTAR. EXCEÇÃO À REGRA DA IMPENHORABILIDADE INCIDENTE NO CASO CONCRETO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. "Esta Corte admite a penhora de verbas de natureza alimentar, bem como de valores decorrentes de FGTS, depositadas em conta-corrente somente nos casos de execução de alimentos. Nas demais execuções, as referidas verbas estão resguardadas pela impenhorabilidade prevista no art. 649, inciso IV do CPC.  .. ". (AgRg no REsp 1570755/PR, Rel. Ministro NAPOLEÃONUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 03/05/2016, DJe18/05/2016).
+2. " ..  não se reconhece a impenhorabilidade do saldo de caderneta de poupança quando se tratar de execução de prestação alimentícia, qualquer que seja sua origem (art. 833, §2º)". (JÚNIOR, Humberto Theodoro. Curso de Direito Processual Civil, volume III. Editora Forense. Rio de Janeiro. 2018. p.476-477).
+RECURSO CONHECIDO E DESPROVIDO" (fl. 1.641, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 1.680/1.690, e-STJ).
+No especial, os recorrentes apontam, além de divergência jurisprudencial, violação dos arts. 833, IV, do Código de Processo Civil de 2015 e 2º, § 2º, da Lei nº 8.036/1990, argumentando, em síntese, a impenhorabilidade do saldo de FGTS pois se trata de verba salarial.
+Afirma que "é evidentemente possível afirmar que somente as prestações alimentícias configuram exceção à impenhorabilidade, o que restou evidente não se tratar o caso dos autos, o qual trata-se de verba exequenda oriunda de honorários advocatícios" (fl. 1.730, e-STJ).
+Apresentadas contrarrazões (fls. 1.762/1.764, e-STJ), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Contudo, a impenhorabilidade dos valores provenientes da relação de trabalho (FGTS, no caso), bem como daqueles que alcançam a monta de 40 (quarenta) salários mínimos, é relativa, ou seja, comporta exceção, conforme preceitua o § 2º, do art. 833, do CPC , que assim dispõe:
+(..)
+Assim, tanto a regra da impenhorabilidade de valores relativos à relação de trabalho, como aquela referente ao resguardo da monta de até 40 (quarenta) salários mínimos depositados em caderneta de poupança do devedor, possuem exceção, como se verifica justamente no caso dos autos.
+Na espécie, parte do débito reivindicado é proveniente de condenação referente aos honorários advocatícios de sucumbência devidos aos advogados de DALCY PEREIRA UGIONI (Evento 10 dos Autos Originários). Logo, a verba em epígrafe possui caráter alimentar, situação que, conforme acima delineado, configura exceção à aplicação da regra de impenhorabilidade prevista nos incisos IV e X, do art. 833, do CPC, tanto quanto ao FGTS bem como à penhora no rosto dos autos.
+Com efeito, a natureza alimentar da verba relativa a honorários advocatícios, seja ela de natureza contratual ou sucumbencial, é tema pacífico na jurisprudência.
+(..)
+Dessa forma, não obstante os argumentos da agravante quanto a impenhorabilidade do valor constrito, por se tratar de verba com natureza alimentar (FGTS e honorários), independentemente da comprovação ou não do alegado, tem-se que, diante da natureza alimentar da verba exequenda, é incabível o reconhecimento da impenhorabilidade, porquanto plenamente possível a manutenção da penhora sobre o estipêndio encontrado.
+Nesse contexto fático, não se constata a probabilidade de provimento do reclamo e tampouco dano grave irreparável, à agravante, pelo cumprimento de decisão impugnada, porquanto o suposto dano, não obstante sua aparência de realidade, não se apresenta contra o direito, mas sim é consequência dele" (fls. 1.645/1.648, e-STJ - grifou-se).
+A jurisprudência desta Corte Superior firmou entendimento no sentido de que a exceção à regra da impenhorabilidade contida no art. 833, § 2º, do Código de Processo Civil de 2015 se aplica somente aos casos de prestação alimentícia, não se estendendo às hipóteses de verba de natureza alimentar, como são os honorários advocatícios.
+Entretanto, ressalvou-se a hipótese em que, com base na regra geral do artigo 833, IV, do Código de Processo Civil de 2015, a penhora é deferida, mas com a preservação de percentual capaz de garantir a subsistência digna do devedor e de sua família, matéria fática que não foi examinada no tribunal de origem.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR. EXCEÇÃO DO § 2º DO ART. 833. DIFERENÇA ENTRE PRESTAÇÃO ALIMENTÍCIA E VERBA DE NATUREZA ALIMENTAR. PENHORA DE SALDO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. ART. 833, IV, DO CPC/15. SUBSISTÊNCIA DIGNA DO DEVEDOR. AVALIAÇÃO CONCRETA. IMPOSSIBILIDADE. IMPUGNAÇÃO DA SÚMULA 568 DO STJ NÃO REALIZADA.
+1. Execução, em cumprimento de sentença.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Em que pese as razões do agravo interno quanto ao ônus da prova, referida tese não foi mencionada nos embargos de declaração opostos na origem e nem do recurso especial, o que caracteriza indevida inovação recursal nesse momento processual.
+4. As exceções destinadas à execução de prestação alimentícia, como a penhora dos bens descritos no art. 833, IV e X, do CPC/15, e do bem de família (art. 3º, III, da Lei 8.009/90), assim como a prisão civil, não se estendem aos honorários advocatícios, como não se estendem às demais verbas apenas com natureza alimentar. Precedente da Corte Especial.
+5. É possível, no entanto, a penhora com fundamento no art. 833, IV, do CPC/15, para pagamento de honorários advocatícios, quando, concretamente, ficar demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família. Precedente da Corte Especial.
+6. Na espécie, a verificação foi realizada pelo Tribunal de origem, que concluiu que não foi comprovado "de que o referido saldo não se reverterá em favor da subsistência do participante e de sua família".
+7. A aplicação da Súmula 568/STJ é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada, o que não ocorreu na hipótese.
+8. Agravo interno não provido" (AgInt no REsp 1.869.029/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/11/2021, DJe 18/11/2021).
+"CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO. PENHORA DE RENDIMENTOS PREVIDENCIÁRIOS. CRÉDITO ORIUNDO DE HONORÁRIOS ADVOCATÍCIOS. IMPENHORABILIDADE. ORIENTAÇÃO RECENTEMENTE FIRMADA PELA CORTE ESPECIAL. MITIGAÇÃO. POSSIBILIDADE À LUZ DA PRESERVAÇÃO DA DIGNIDADE E SUBSISTÊNCIA DO DEVEDOR E DE SEU NÚCLEO FAMILIAR. BENEFÍCIO PREVIDENCIÁRIO DE VALOR DIMINUTO. EXCEPCIONALIDADE NÃO CARACTERIZADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.815.055/SP, fixou o entendimento de que a exceção à impenhorabilidade prevista no § 2º do art. 833 do CPC não abarca créditos relativos a honorários advocatícios, porquanto não estão abrangidos pelo conceito de "prestação alimentícia".
+3. Do mencionado aresto constou a possibilidade de mitigação da impenhorabilidade de salários desde que preservada parcela suficiente para resguardar a dignidade e subsistência do devedor e de seu núcleo familiar.
+4. No caso em tela, o valor do benefício previdenciário percebido pelo devedor é insuficiente para comportar a penhora sem substancial prejuízo à sua dignidade e subsistência ou e de sua família.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, mantém-se o julgado, por não haver motivos para a sua alteração.
+6. Agravo interno não provido" (AgInt no REsp 1938376/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/09/2021, DJe 23/09/2021).
+Ante o exposto, dou parcial provimento ao recurso especial, para determinar o retorno dos autos à origem para novo exame do agravo de instrumento, à luz do entendimento supracitado.
+Publique-se.
+Intimem-se.
