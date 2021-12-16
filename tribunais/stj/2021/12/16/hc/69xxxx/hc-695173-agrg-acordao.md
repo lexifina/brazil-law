@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS. HABITUALIDADE DELITIVA RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO. REEXAME DE PROVA. IMPROPRIEDADE DA VIA ELEITA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme a jurisprudência deste Superior Tribunal, no tocante ao crime continuado, exige-se, como requisito de ordem subjetiva, o dolo global ou unitário entre os crimes parcelares, isto é, para ficar caracterizada a continuidade delitiva, além dos requisitos objetivos, é necessária a demonstração da unidade de desígnios.
+2. A Corte estadual, soberana no tocante à análise do arcabouço fático-probatório acostado ao caderno processual, entendeu pela existência de desígnio autônomo em cada delito, apontando o Agravante como habitual praticante de delitos contra o patrimônio, o que afasta a aplicação da continuidade delitiva, por ser merecedor de tratamento penal mais rigoroso.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por FABIO ALVES MAGALHAES contra decisão de minha lavra, por meio da qual foi denegada a ordem de habeas corpus, nos termos da seguinte ementa (fl. 123):
+"HABEAS CORPUS. EXECUÇÃO PENAL. ROUBOS CIRCUNSTANCIADOS. CONTINUIDADE DELITIVA. RECONHECIMENTO DE AUSÊNCIA DE UNIDADE DE DESÍGNIOS PELO TRIBUNAL ESTADUAL. REVOLVIMENTO FÁTICO PROBATÓRIO. VIA ESTREITA. IMPOSSIBILIDADE. AUSÊNCIA DE MANIFESTA SIMILITUDE. ORDEM DENEGADA."
+Reitera o Agravante, em síntese, que estão presentes os requisitos subjetivo e objetivo para o reconhecimento da continuidade delitiva.
+Assim, requer a reconsideração da decisão agravada ou, caso assim não se entenda, a apreciação do agravo regimental pela da Sexta Turma do Superior Tribunal de Justiça, com o provimento do agravo e a concessão da ordem pleiteada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS. HABITUALIDADE DELITIVA RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO. REEXAME DE PROVA. IMPROPRIEDADE DA VIA ELEITA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme a jurisprudência deste Superior Tribunal, no tocante ao crime continuado, exige-se, como requisito de ordem subjetiva, o dolo global ou unitário entre os crimes parcelares, isto é, para ficar caracterizada a continuidade delitiva, além dos requisitos objetivos, é necessária a demonstração da unidade de desígnios.
+2. A Corte estadual, soberana no tocante à análise do arcabouço fático-probatório acostado ao caderno processual, entendeu pela existência de desígnio autônomo em cada delito, apontando o Agravante como habitual praticante de delitos contra o patrimônio, o que afasta a aplicação da continuidade delitiva, por ser merecedor de tratamento penal mais rigoroso.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Na espécie, o Tribunal estadual assim consignou quanto ao afastamento da continuidade delitiva entre os delitos praticados pelo Agravante (fls. 111-112):
+"Conforme se depreende dos autos, o agravante pretende unificar as penas de delitos de roubo, pelo reconhecimento da continuidade delitiva. Afirma que são eles da mesma espécie, tendo sido cometidos com poucos dias ou mesmo horas de intervalo, na mesma cidade e com maneiras de execução semelhantes.
+Todavia, os delitos foram praticados em datas ou situações diferentes, com intervalos significativos entre eles, em regiões variadas do município, bem como contra vítimas diversas.
+Não há como se atribuir relação entre as infrações penais praticadas pelo agravante. Não houve, em tais atos, aproveitamento algum de conduta anterior.
+Nota-se do panorama extraído da documentação juntada a fls. 21/30, 33/35, 36/38, 39/43, 46/47, 48/49,50/54 e 57/67, consistente nas denúncias e sentenças referentes às condutas que o agravante pretende unificar, que ele cometeu os crimes sempre em concurso com Alan Pereira de Jesus, mas em locais diferentes, com intervalo de tempo entre eles, além de contra vítimas diversas, tudo a demonstrar que as condutas não seguiram o mesmo contexto fático.
+Assim, depreende-se da análise de cada uma das ações delitivas que, de fato, não houve aproveitamento algum da conduta anterior.
+O simples êxito de uma empreitada criminosa, que acaba por estimular a prática de outras, não pode servir de fundamento para se reconhecer a continuidade delitiva. Ausente, portanto, no caso dos autos, a unidade de desígnios, ou seja, o elemento subjetivo, capaz de demonstrar que o agravante praticou os delitos subsequentes em continuidade aos anteriores.
+Ao contrário, os delitos de roubo praticados pelo agravante revelam tratar-se de um criminoso habitual, o que acarreta a imposição das penas isoladamente, em concurso material."
+Esclareço que, conforme a jurisprudência deste Superior Tribunal, no tocante ao crime continuado, exige-se, como requisito de ordem subjetiva, o dolo global ou unitário entre os crimes parcelares, isto é, para ficar caracterizada a continuidade delitiva, além dos requisitos objetivos, é necessária a demonstração da unidade de desígnios.
+No caso, a Corte estadual, soberana no tocante à análise do arcabouço fático-probatório acostado ao caderno processual, entendeu pela existência de desígnio autônomo em cada delito, porquanto, em verdade, o ora Agravante seria uma criminoso habitual, que pratica reiteradamente delitos contra o patrimônio, o que afasta a aplicação da continuidade delitiva, por ser merecedor de tratamento penal mais rigoroso.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. SUSTENTAÇÃO ORAL. NULIDADE. CONTINUIDADE DELITIVA. PREENCHIMENTO DOS REQUISITOS OBJETIVOS E SUBJETIVOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. "A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC n. 485.393/SC, Quinta Turma, Rel. Min. Felix Fischer, DJe 28/03/2019). Nos termos do art. 159, IV, do RISTJ, não haverá sustentação oral no julgamento de agravo.
+2. As instâncias ordinárias não reconheceram a continuidade delitiva, sob o fundamento de ter a paciente praticado diversas condutas criminosas com desígnios autônomos, sendo cada ação individualmente planejada, a revelar não o aproveitamento das condições criadas pelo crime antecedente, mas, sim, evidente habitualidade criminosa.
+3. A revisão do entendimento adotado na origem, que não reconheceu a continuidade delitiva por não estarem preenchidos os requisitos subjetivos e objetivos que evidenciassem a unidade de desígnios e que as condutas posteriores eram desdobramento das anteriores, exigiria a incursão nos fatos e provas, providência incompatível com a via do writ.
+4. Agravo regimental improvido." (AgRg no HC 680.548/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1.ª REGIÃO), SEXTA TURMA, julgado em 05/10/2021, DJe 11/10/2021; sem grifos no original.)
+Assim, na ausência de argumento apto a infirmar as razões consideradas no julgado ora agravado, deve ser mantida a decisão por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
