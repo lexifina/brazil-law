@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência em que figuram, como suscitante, o Juízo de Direito da 1ª Vara da Fazenda Pública, Acidentes do Trabalho e Registros Públicos de Blumenau - SCe, suscitado, o Juízo Federal da 2ª Vara de Blumenau - SJ/SC,nos autos de mandado de segurança impetrado por Amazonas Comércio de Combustíveis Ltda. contra ato do Gerente Regional da Celesc em Blumenau.
+O Juízo federaldeclinou da competência ao fundamento de que, embora a prestação do serviço de energia elétrica seja realizadosob concessão, deve-se reconhecer a natureza privada da relação jurídica entre a concessionária e usuário, porquanto a controvérsia envolve mera discussão contratual.
+Por sua vez, o Juízo estadual instaurou este incidente, explicitando que a competência para o julgamento do mandado de segurança é determinada em função da hierarquia da autoridade tida como coatora, e não da relação jurídica alcançada pelo ato coator. Logo, tratando-se de autoridade delegatária do serviço público de energia elétrica, titularizado pela União, deve-se reconhecer a competência da Justiça Federal.
+O Ministério Público Federal opina pela competência do Juízo suscitado.
+É o relatório.
+O Supremo Tribunal Federal, no julgamento do Tema n. 722, sob o regime da repercussão geral, firmou a seguinte tese vinculante:
+Compete à justiça federal comum processar e julgar mandado de segurança quando a autoridade apontada como coatora for autoridade federal, considerando-se como tal também os dirigentes de pessoa jurídica de direito privado investidos de delegação concedida pela União.
+No caso, tratando-se de mandado de segurança impetrado contra ato de concessionária do serviço de energia elétrica, de titularidade da União, deve-se reconhecer a competência da Justiça Federal para o exame da lide. Isso porque, em tal situação, a autoridade impetrada atua no exercício de funçãofederal delegada, nos termosdo art. 21, XII, b, da CF/1988.
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. DIRIGENTE DE CONCESSIONÁRIA DE ENERGIA ELÉTRICA. ATO QUE DETERMINOU A SUSPENSÃO DO FORNECIMENTO DE ENERGIA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Cuida-se de conflito negativo suscitado pelo Juízo da Quinta Vara Federal de Ribeirão Preto alegando que, no caso de mandado de segurança impetrado contra dirigente de concessionária de energia elétrica, em face de suspensão no fornecimento de energia elétrica, a competência é da justiça estadual pois a ação volta-se contra ato de gestão administrativa da empresa em questão.
+2. A competência para julgar mandado de segurança deve levar em consideração a natureza ou condição da pessoa que pratica o ato e não a natureza do ato em si. Assim, o argumento de que a competência para julgar o feito seria da Justiça Estadual porque o ato praticado pelo dirigente da concessionária teria natureza administrativa não pode prevalecer. No caso de mandado de segurança, a competência está estabelecida no retrocitado artigo 109, VIII da Constituição Federal. Efetivamente, é competência da Justiça Federal processar e julgar os mandados de segurança contra ato de autoridade federal, considerando-se como tal também o agente de empresa concessionária de serviços públicos de energia elétrica, quando pratica o ato no exercício de função federal delegada. No caso de empresa concessionária dos serviços públicos de energia elétrica, o poder concedente é a União, conforme decorre do art. 21, XII, "b", da Constituição.
+3. Conflito conhecido para declarar a competência da Justiça Federal.
+(CC n. 54.854/SP, relator Ministro José Delgado, Primeira Seção, DJ de 13/3/2006, p. 172.)
+CONFLITO DE COMPETÊNCIA -MANDADO DE SEGURANÇA IMPETRADO CONTRA DIRIGENTE DE CONCESSIONÁRIA DE ENERGIA ELÉTRICA -COMPETÊNCIA DA JUSTIÇA FEDERAL -CORTE NO FORNECIMENTO DE ENERGIA ELÉTRICA - SENTENÇA PROFERIDA PELO JUÍZO DE DIREITO NÃO INVESTIDO DE JURISDIÇÃO FEDERAL -INCOMPETÊNCIA DO TRIBUNAL REGIONAL FEDERAL PARA APRECIAÇÃO DE RECURSO ADVINDO DA SENTENÇA -SÚMULA 55/STJ.
+1. Concluiu a Primeira Seção que, no caso de mandado de segurança, contra ato de autoridade federal, considerando-se como tal também o agente de empresa concessionária de serviços públicos de energia elétrica, quando pratica o ato no exercício de função federal delegada, a competência para o processamento da lide é da Justiça Federal.
+2. Hipótese dos autos em que o mandado de segurança preventivo foi impetrado perante o Juízo de Direito que prolatou a sentença determinando a continuidade dos serviços de fornecimento de energia elétrica.
+3. Se o Juízo Estadual não está investido de jurisdição federal, compete ao Tribunal de Justiça Estadual julgar o recurso.
+4."Tribunal Regional Federal não é competente para julgar recurso de decisão proferida por juiz estadual não investido de jurisdição federal". (Súmula 55/STJ).
+5. Conflito de competência conhecido para declarar competente o Tribunal de Justiça do Estado da Paraíba, o suscitado.
+(CC n. 54.140/PB, relatoraMinistra Eliana Calmon, Primeira Seção, DJ de 2/5/2006, p. 238.)
+Destaco, ainda, a seguinte decisão monocrática: Conflito de Competêncian. 178.006/SP, relatorMinistroMauro Campbell Marques, DJede 15/3/2021.
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 2ª Vara de Blumenau - SJ/SC.
+Publique-se. Intimem-se. Comuniquem-se, com urgência.
