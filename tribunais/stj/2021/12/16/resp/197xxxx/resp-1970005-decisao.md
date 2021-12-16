@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por FLAVIO DOS SANTOS e OUTRA com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+" EMENTA Compromisso de venda e compra de imóvel. Ação de rescisão contratual. Falta de pagamento do saldo do preço. Prescrição que no caso de rescisão fundada na falta de pagamento do preço segue o prazo de cinco anos. Art.206 § 5º inciso I do Código Civil. Se para cobrar o saldo do preço o credor dispunha de cinco anos, para rescindir o contrato sob essa justificativa não se haveria de adotar prazo diverso. Causa extintiva em concreto não consumada. Apelação não provida." (e-STJ,fl.225)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl.242/245)
+Em suas razões recursais, a recorrente aponta violação dos arts. 489, § 1º, II, III e IV, do Código de Processo Civil vigente, assim como ao art. 39, XII, do Código de Defesa do Consumidor, sustentando, em síntese, que: 1) houve omissão no acórdão recorrido quanto à alegação de ofensa ao art. 39, inciso XII, da Lei 8.078/90 e 2) é vedado ao fornecedor deixar de estipular prazo para o cumprimento de sua obrigação, razão pela qual, na ausência de fixação de prazo para a retirada do gravame incidente sobre o imóvel, deve ser considerada a decadência ou prescrição do direito de exigir o pagamento.
+Apresentadas contrarrazões às fls. 274/281 (e-STJ)
+É o relatório. Passo a decidir.
+A irresignação não merece prosperar.
+Quanto à alegação de que houve omissão no acórdão recorrido quanto à ofensa ao artigo. 39, inciso XII, da Lei 8.078/90, assim constou no acórdão recorrido:
+"Em suas razões de apelação os recorrentes não se animaram a alegar a ocorrência de prática abusiva da embargada com fundamento no artigo. 39, inciso XII, da Lei 8.078/90, razão pela qual não haviam de esperar manifestação do acórdão sobre o tema.
+Aliás, tal alegação não fora apresentada nem na contestação, o que impedia a Corte de conhecer do assunto por retratar inovação frente ao que os demandados alegaram à Juíza.
+Os embargantes afirmaram, é verdade, que "ninguém pode ficar sujeito a regime contratual por prazo indeterminado, ainda mais se tratando de relação de consumo" (fls. 200), mas isso apenas para sustentar "que a sentença prolatada merece a necessária correção, especificamente quanto à aplicação da regra geral do prazo decadencial ou prescricional para o exercício da pretensão judicial de rescisão contratual" (fls. 201).
+E aqui eles nem informam como a aplicação de dispositivos do Código de Defesa do Consumidor afetaria a contagem do prazo prescricional." (e-STJ fl. 244)
+Como visto, a Corte de origem consignou expressamente que não caberia manifestação sobre o artigo. 39, inciso XII, da Lei 8.078/90, por se tratar de inovação recursal e por não ter sido explicitado de que forma o referido dispositivo afetaria a contagem do prazo prescricional.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PROVAS. REEXAME. INADMISSIBILIDADE. SÚMULA N. 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS N. 282 E 356/STF. DANOS IMATERIAIS. QUANTUM INDENIZATÓRIO. REVISÃO. EXCEPCIONALIDADE. EXORBITÂNCIA. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. Não se configura violação dos arts. 489 e 1.022 do CPC/2015 quando o Tribunal se manifesta sobre tema suscitado em embargos de declaração, embora com conclusão contrária à tese deduzida pela parte.
+1.1. "Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação" (EDcl no AgRg nos EREsp 1213226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016).
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1774591/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/11/2021, DJe 02/12/2021)
+Ademais, considerando que a Corte de origem concluiu tratar-se a alegada violação artigo. 39, inciso XII, da Lei 8.078/90 de inovação recursal, resta ausente o indispensável prequestionamento da matéria. Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE SEGURO DE VIDA EM GRUPO. ALEGADA OFENSA AO ART. 535 DO CPC. OMISSÃO DESCARTADA. VIOLAÇÃO DA COISA JULGADA MATERIAL. INOVAÇÃO RECURSAL SURGIDA NOS EMBARGOS DECLARATÓRIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. COMPLEMENTAÇÃO DA INDENIZAÇÃO SECURITÁRIA. NÃO COMPROVAÇÃO DO FATO CONSTITUTIVO. ÔNUS PROBATÓRIO. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA Nº 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO A ARGUMENTO ESPECÍFICO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 283 DO STF. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os beneficiários não apresentaram argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado para negar seguimento ao recurso especial.
+2. Não subsiste a alegada ofensa ao art. 535 do CPC porque a Corte estadual enfrentou todas as questões postas, não havendo no acórdão recorrido omissão, contradição ou obscuridade.
+3. O tema relativo a ofensa à coisa julgada material não foi apreciado pelo acórdão impugnado por se tratar de inovação recursal, surgida somente na oposição dos embargos declaratórios, ressentindo o recurso especial do indispensável prequestionamento. Incide, portanto, à espécie, a Súmula nº 211 do STJ.
+4. Para infirmar a conclusão a que chegou o Tribunal de origem acerca da ausência de prova do fato constitutivo do direito, no sentido de demonstrar a incorreção do valor pago pela seguradora, seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial.
+5. Ausente a impugnação a fundamento suficiente para manter o acórdão recorrido, o recurso não merece ser conhecido. Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp 1466273/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/10/2015, DJe 10/11/2015)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 15% para 16% sobre o valor da condenação.
+Publique-se.
