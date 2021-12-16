@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por ANDERSON FUMAGALLIe OUTRO,com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE REPARAÇÃO DE DANOS DECORRENTES DA EVICÇÃO - PRESCRIÇÃO - INOCORRÊNCIA - PRAZO DECENAL - PRECEDENTES - REGRA GERAL DO ARTIGO 205, DO CÓDIGO CIVIL - TERMO - - TRÂNSITO A QUO ACTIO NATA EM JULGADO DA SENTENÇA QUE CULMINOU NA PERDA DOS BENS IMÓVEIS - NULIDADE DA REFERIDA SENTENÇA - EVENTUAL OCORRÊNCIA A SER ARGUIDA EM AÇÃO AUTÔNOMA APROPRIADA - OCORRÊNCIA DA EVICÇÃO INCONTROVERSA - INDENIZATÓRIO - INTELIGÊNCIA DO ARTIGO 450, QUANTUM PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL - PREÇO DO BEM À ÉPOCA EM QUE SE EVENCEU - CORREÇÃO MONETÁRIA - ADEQUAÇÃO DE OFÍCIO - OBSERVÂNCIA À MÉDIA ENTRE O INPC E O IGP-DI - MATÉRIA DE ORDEM PÚBLICA - RECURSO NÃO PROVIDO, COM A ADEQUAÇÃO, DE OFÍCIO, DA CORREÇÃO MONETÁRIA." (fl. 625)
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 17, do CPC/2015, 206, do Código Civil, sustentando, em síntese: (a) "A Recorrida teve ciência da ação judicial que poderia anular a venda dos imóveis aos Recorrentes no dia 28 de maio de 1997, quando houve a averbação da existência da citada ação na matrícula dos imóveis" (fl. 650); (b) ilegitimidade da recorrente Simone Fumagalli.
+É o relatório. Decido.
+O Tribunal de origem afastou a prescriçãodestacando que o termo inicial para o cômputo do prazo é a data da ciência do dano, ou seja, da perda do bem. Leia-se, a propósito, o seguinte trecho do acórdão:
+"Havendo a perda dos bens, em decorrência de decisão judicial, desfaz-se o negócio, respondendo a parte ré pela evicção.
+O instituto está estritamente ligado à perda do bem, sendo esta a ocasião determinante da actio nata. Ouseja, apenas a partir da efetiva perda do bem nasce o direito de ação e, consequentemente, tem início o prazo prescricional.
+(..)
+Na hipótese em apreço, portanto, a pretensão nasceu com o trânsito em julgado da sentença que culminou na perda dos bens, o que ocorreu em 12/12/2014. (mov. 1.12) Ademais, o prazo prescricional é o decenal, previsto na regra geral do artigo 205, do Código Civil, haja vista a ausência de previsão da evicção nas hipóteses específicas do artigo 206, do mesmo estatuto.
+(..)
+Considerando, pois, que a prescrição teve início em 12/12/2014, bem que a presente demanda foi ajuizada em 17/07/2015, o lapso prescricional não se esgotou.
+Por amor à argumentação, destaca-se que mesmo que se aplicasse o prazo trienal previsto no artigo 206, inciso V, do Código Civil (mais benéficos aos réus), não haveria que se falar em prescrição, porquanto do seu termo (12/12/2014) até a propositura da demanda (14/07/2015) o transcurso do prazo foi a quo inferior a um ano."
+Sobre a questão, ajurisprudência do Superior Tribunal de justiça entende que, em razão do princípio da actio nata, o termo a quo para a contagem do prazo prescricional se dá a partir da ciência inequívoca do ato lesivo. Nesse sentido, colhem-se os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL.PRESCRIÇÃO. DEVOLUÇÃO DE VALORES. TAXA DE CORRETAGEM OU DE SERVIÇOS DE ASSISTÊNCIA TÉCNICO-IMOBILIÁRIA. TEORIA DA ACTIO NATA. TERMO INICIAL. EFETIVO PAGAMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No tocante à prescrição, a jurisprudência do Superior Tribunal de Justiça tem adotado a teoria da actio nata, segundo a qual a pretensão surge apenas quando há ciência inequívoca da lesão e de sua extensão pelo titular do direito violado. Precedentes.
+3. Para fins do art. 1.040 do Código de Processo Civil de 2015, a tese firmada no REsp nº 1.551.956/SP, julgado sob a sistemática dos repetitivos, limitou-se a reconhecer que é trienal o prazo prescricional para a restituição dos valores pagos a título de comissão de corretagem ou de serviço de assistência técnico-imobiliária (SATI).
+4. O termo inicial de fluência do prazo prescricional do direito ao reembolso de valores pagos a título de comissão de corretagem é a data do efetivo pagamento.
+5. Agravo interno não provido."
+(AgInt no AREsp 1741583/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2021, DJe 29/04/2021)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.SUPOSTOS ILÍCITOS COMETIDOS DURANTE A ADMINISTRAÇÃO SOCIETÁRIA.PRESCRIÇÃO. TERMO INICIAL. CIÊNCIA INEQUÍVOCA DO DANO. ENTENDIMENTO DO ACÓRDÃO LOCAL EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência do STJ, "o curso do prazo prescricional do direito de reclamar inicia-se somente quando o titular do direito subjetivo violado passa conhecer do fato e a extensão de suas consequências, conforme o princípio da actio nata" (AgInt nos EDcl no REsp 1.811.735/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/09/2019, DJe de 07/10/2019).
+2. Agravo interno não provido."
+(AgInt no AREsp 1572791/PR, de minha relatoria, QUARTA TURMA, julgado em 23/11/2020, DJe 17/12/2020, g.n.)
+Sobre a ilegitimidade da recorrente Simone Fumagalli, assim se manifestou o acórdão recorrido:
+"Vencida a questão acima e passando a analisar o mérito do recurso, impende consignar que a ocorrência da evicção é incontroversa, limitando-se os apelantes a alegarem que a sentença que culminou com a perda do bem não se aplicaria à corré Simone, pois não teria participado daquela demanda, embora constasse como proprietária do imóvel e, por isso, aquela sentença padeceria de nulidade.
+Sem razão.
+Isso porque, o dever de reparação que decorre da evicção, como já explanado, exige tão somente a perdada coisa em virtude de sentença judicial, o que já evidencia o prejuízo da autora e, de fato, ocorreu no caso em análise, sendo, aliás, questão incontroversa.
+Some-se a isso, que não cabe por meio da presente demanda qualquer análise acerca da eventual nulidade daquela sentença, o que, em sendo o caso, comporta arguição em ação autônoma, específica para tal fim ( querela nullitatis)."(fls. 634/635, grifou-se)
+Contudo, taisfundamentos, autônomos e suficientes à manutenção do v. acórdão recorrido, não foramimpugnados nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majorooshonoráriosadvocatícios devidos à parte recorrida de15% para 16%sobreovalor da condenação.
+Publique-se.
