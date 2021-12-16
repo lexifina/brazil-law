@@ -1,0 +1,11 @@
+DECISÃO
+IVALDO SEVERINO DA SILVA e MAURO SANTOS alegam ser vítimas de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n.1503300-10.2018.8.26.0536.
+Consta dos autos que os pacientes foram condenados, cada um, à pena de 5 anos, 7 meses e 15 dias de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa pleiteia, por meio deste writ, a aplicação da minorante descrita no § 4º do art. 33 da Lei de Drogas, a fixação de regime inicial mais brando e a substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Decido.
+Em consulta processual realizada na página eletrônica desta Corte Superior de Justiça, verifico a anterior impetração do HC n. 529.072 em favor do paciente Ivaldo, sendo que o referido habeas corpus também se insurgiu contra o mesmo acórdão aqui apontado como ato coator (Apelação Criminal n. 1503300-10.2018.8.26.0536) e, nele, a defesa pleiteou:a) a redução da pena-base; b) a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas; c) a fixação de regime mais brando para o início do cumprimento da reprimenda; d) a substituição da pena privativa de liberdade por restritiva de direitos.
+Quanto ao paciente Mauro, constato que houve a anterior impetração do HC n. 531.271, por meio do qual a defesa almejou a fixação de regime inicial mais brando, nos autos da ação penal objeto deste writ. Em relação à minorante prevista no § 4º do art. 33 da Lei de Drogas, constato que essa matéria também já foi objeto de análise por este Tribunal, por ocasião do julgamento do HC n. 521.510.
+Saliento, por oportuno, que os três habeas corpus referidos já foram julgados por esta Corte Superior e todos eles tiveram a ordem denegada.
+Assim, tendo em vista que este habeas corpus se trata de mera reiteração de pedidos, não se pode dele conhecer.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus, não sem lamentar a falta de cooperação da parte quanto à economia processual que há de nortear a atuação de todos os sujeitos processuais, máxime em um quadro de hiperjudicialização dos conflitos, a abarrotar os escaninhos (físicos ou eletrônicos) dos tribunais.
+Publique-se e intimem-se.
