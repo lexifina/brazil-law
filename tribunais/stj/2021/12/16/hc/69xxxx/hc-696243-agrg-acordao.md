@@ -1,0 +1,41 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO PARA ACUSAÇÃO. EXTINTA A PUNIBILIDADE DO AGENTE. IRRESIGNAÇÃO DO MPF. RECURSO NÃO PROVIDO.
+1. A jurisprudência majoritária desta Corte Superior é firme em assinalar que o termo inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado do art. 112, I, do CP.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão proferida por este Relator, que concedeu a ordem, de ofício (e-STJ, fls. 145-147).
+Nas razões recursais (e-STJ, fls. 150-155), o recorrente sustenta que "não há que se cogitar da ocorrência da prescrição da pretensão executória. Isso porque, uma vez assegurado ao réu o direito de recorrer em liberdade na sentença penal condenatória, o marco inicial do prazo da prescrição da pretensão executória deve coincidir com a data do trânsito em julgado para ambas as partes (03/12/2020), quando se torna possível ao Estado a execução do título judicial, e não a data do trânsito em julgado para a condenação".
+Requer que seja reconsiderada a decisão agravada ou seja provido o recurso por este Órgão Julgador.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. DATA DO TRÂNSITO EM JULGADO PARA ACUSAÇÃO. EXTINTA A PUNIBILIDADE DO AGENTE. IRRESIGNAÇÃO DO MPF. RECURSO NÃO PROVIDO.
+1. A jurisprudência majoritária desta Corte Superior é firme em assinalar que o termo inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado do art. 112, I, do CP.
+2. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A irresignação não merece guarida.
+Observa-se que o agravante não trouxe argumentos suficientemente capazes de infirmar o decisum agravado, motivo pelo qual o mantenho por seus próprios fundamentos, os quais restaram assim consignados:
+"Não se desconhece que "a questão discutida seja objeto de repercussão geral perante o STF - ARE n. 848.107/DF, da relatoria do Ministro Dias Toffoli - Tema n. 788 -, o Plenário do Supremo Tribunal Federal decidiu que a suspensão do processamento prevista no artigo 1.035, § 5º, do CPC/2015 não é decorrência necessária do reconhecimento da repercussão geral, tendo o Relator do Recurso Extraordinário como paradigma a faculdade de determinar ou não tal sobrestamento" (AgRg no REsp 1796232/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/11/2019, DJe 22/11/2019).
+Todavia, a jurisprudência majoritária desta Corte Superior é firme em assinalar que o termo inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado.
+Nesse sentido, confiram-se os recentes julgados:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. INTERPRETAÇÃO LITERAL DO ART. 112, I, DO CÓDIGO PENAL.
+1. A orientação jurisprudencial pacífica desta Corte é a de que o termo a quo para contagem do prazo, para fins de prescrição da pretensão executória, é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal do art. 112, I, do Código Penal, mais benéfica ao condenado.
+2. Agravo regimental desprovido." (AgRg nos EDcl nos EREsp 1.376.031/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, TERCEIRA SEÇÃO, julgado em 10/02/2021, DJe 12/02/2021, grifou-se).
+"PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MARCO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ART. 112, INCISO I, DO CÓDIGO PENAL. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que, conforme disposto expressamente no art. 112, I, do CP, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado (AgRg nos EAREsp n.
+908.359/MG, Terceira Seção, Relator Ministro NEFI CORDEIRO, DJe de 2/10/2018).
+2. A existência de precedente recente do Supremo Tribunal Federal em sentido contrário não tem o condão de alterar o posicionamento pacífico deste Sodalício, a quem compete a uniformização da interpretação da legislação infraconstitucional, uma vez que se trata de decisão proferida pela maioria dos integrantes de apenas um dos órgãos fracionários do Pretório Excelso, que, embora tenha reconhecido a repercussão geral do tema no ARE 848.107 RG/DF, ainda não fixou seu entendimento sobre a questão (AgRg no HC 545.372/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 05/12/2019, DJe 13/12/2019).
+3. Agravo regimental não provido." (AgRg nos EDcl no AgRg no AREsp 1764481/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/02/2021, DJe 12/02/2021, grifou-se).
+"AGRAVOS REGIMENTAIS NO RECURSO ESPECIAL INTERPOSTOS PELO MPF E PELO MPSP. UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO DOS APRESENTADOS POSTERIORMENTE PELO MPSP. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. OCORRÊNCIA. MARCO INICIAL. DATA DO TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. INTELIGÊNCIA DO ART. 112, I, DO CÓDIGO PENAL. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. AGRAVO IMPROVIDO.
+1. Interpostos três recursos idênticos pelo MPSP contra a mesma decisão, não se conhece daqueles apresentados posteriormente, por força dos princípios da unirrecorribilidade e da preclusão consumativa.
+2. Nos termos do art. 112, I, do Código Penal, o termo inicial do prazo da prescrição da pretensão executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado, a qual independe de qual seja a compreensão vigente acerca da possibilidade de execução da pena antes do trânsito em julgado da condenação. Precedentes.
+3. Transcorrido lapso temporal superior a 4 anos, desde o trânsito em julgado da sentença condenatória para o Ministério Público, ocorrido em 20/2/2017 e ainda não iniciada a execução da pena dentro do aludido prazo prescricional, está configurada a prescrição da pretensão executória, nos termos do art. 109, IV, c/c os arts. 110, § 1º, 112, I, e 119, todos do CP.
+4. Não cabe a esta Corte manifestar-se sobre suposta afronta a princípios constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Agravo regimental improvido." (AgRg no REsp 1894483/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/02/2021, DJe 08/02/2021, grifou-se).
+Nesse passo, o Tribunal Estadual considerou que a prolação do acórdão confirmatório é marco interruptivo, afastando o reconhecimento da prescrição executória, em entendimento dissonante com o adotado por este Superior Tribunal de Justiça, razão pela qual deve ser reformado.
+Ante o exposto, não conheço do habeas corpus. Todavia, concedo a ordem, de ofício, para restabelecer a decisão do Juízo da Execução, que declarou extinta a punibilidade do delito pela prescrição da pretensão executória da pena, nos termos dos artigos 107, inciso IV; 109, incisos IV; 110, caput e §1º e 112, I, todos do Código Penal, sem as alterações da Lei 13.234/201.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
