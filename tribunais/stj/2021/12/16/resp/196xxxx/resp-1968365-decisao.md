@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fls. 137-138, e-STJ):
+PREVIDENCIÁRIO. PENSÃO POR MORTE. TRABALHADOR RURAL. QUALIDADE DE SEGURADO DO INSTITUIDOR COMPROVADA. DEPENDÊNCIA ECONÔMICA. FILHO MENOR. PROVA DOCUMENTAL CORROBORADA POR PROVA TESTEMUNHAL. TERMO A QUO. JUROS DE MORA. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS. CUSTAS.
+1. Para obtenção do benefício de pensão por morte é necessária a comprovação do óbito; a qualidade de segurada da instituidora do benefício e a condição de dependente do beneficiário.
+2. Segundo orientação jurisprudencial do Superior Tribunal de Justiça e desta Corte, deve-se aplicar, para a concessão do beneficio de pensão por morte, a legislação vigente ao tempo do óbito do instituidor (Súmula 340/STJ).
+3. Os documentos trazidos com a inicial, em especial a certidão de óbito de fl. 17, que indica a profissão de "agricultor" do de cujus, são válidos como início de prova material da atividade rural alegada, vez que apontam o desempenho do trabalho campesino em regime de economia familiar, conforme entendimento jurisprudencial pacificado nesta e. Corte.
+4. Comprovada a qualidade de segurado instituidor da pensão, deve ser reconhecido o direito à pensão por morte, na qualidade de dependente previdenciário.
+5. No caso dos autos, por se tratar de dependente absolutamente incapaz, não corre prescrição, nos termos art. 198, inciso I do CC 2002 e art. 103, parágrafo único, da Lei 8.213/91, razão pela qual não se aplica a regra estatuída no art. 74 da Lei n. 8.213/91, com a redação dada pela Lei n. 9.528/97. Portanto, o termo inicial do benefício deve ser fixado a partir da data do óbito no que diz respeito ao filho menor ao tempo do óbito. (AgRegAGRESP N. 269.887- PE/STJ).
+6. As condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/91. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei 9.494/97, com redação dada pela Lei n. 11.960/2009), conforme fundamentos utilizados pelo STF no julgamento das ADI nº 493 e 4.357/DF, e ainda pelo STJ nos julgamentos do REsp nº 1.270.439/PR, pelo rito do art. 543-C do CPC e do REsp nº 1495146/MG, julgado em 02/03/2018.
+7. Os honorários advocatícios devem ser fixados em 10% (dez por cento) sobre o valor da condenação, correspondente às parcelas vencidas até o momento da sentença de procedência, de acordo com a Súmula 111, do Superior Tribunal de Justiça e com fundamento no art. 85, §3º, 1 do CPC/2015.
+8. Tratando-se de causas ajuizadas perante a Justiça Federal, o INSS está isento de custas por força do art. 4º , inc. I, da Lei 9.289/96, abrangidas, inclusive, as despesas com oficial de justiça.
+9. Apelação do INSS e remessa oficial desprovidas.
+Os Embargos de Declaração foram rejeitados (fls. 148-151, e-STJ).
+A parte recorrente alega que houve violação do art. 1.022, III, do Código de Processo Civil. Afirma, em síntese, que houve julgamento extra/ultra petita, visto que a parte ora recorrida teria pleiteado a pensão por morte a partir da data do requerimento administrativo, e não da data do óbito, como estabelecido pelo órgão julgador. Afirma, assim, que o Tribunal de origem não sanou o suposto erro material.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 29.11.2021.
+Merece prosperar a irresignação.
+Em Embargos de Declaração, o recorrente requereu a manifestação acerca do seguinte ponto (fl. 142, e-STJ):
+Caso seja mantida a condenação, o que se admite tão somente para fins de argumentação, postula-se seja sanado erro material/obscuridade existente no julgado, referente ao termo inicial (DIB) do benefício deferido nestes autos.
+Ora, essa Turma Julgadora manteve a sentença proferida em primeira instância que fixou a DIB da Pensão por Morte deferida nestes autos, A PARTIR DA DATA DO ÓBITO.
+É patente, no caso dos autos, a ocorrência de JULGAMENTO EXTRA/ULTRA PETITA, eis que esse órgão colegiado do TRF1 acabou por conceder bem jurídico diverso do pleiteado pelo autor na sua petição inicial.
+Cumpre recordar que o requerente postulou em sua inicial a concessão e o pagamento de pensão por morte em seu favor A PARTIR DA DATA DO REQUERIMENTO ADMINISTRATIVO (26/02/2008).
+A corte de origem, contudo, ao julgar os Aclaratórios, manteve-se silente quanto à questão. Houve, portanto, omissão quanto à análise da aplicação do ponto, que configura matéria relevante para o deslinde da controvérsia.
+Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos Embargos de Declaração. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. OFENSA AO ART. 1022, II, DO CPC/2015. AUSÊNCIA DE ANÁLISE DE TESES APRESENTADAS NO AGRAVO DE INSTRUMENTO. INCIDÊNCIA DO ART. 1057 DO CPC/2015 E EXCESSO DE EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA COMPLEMENTAÇÃO DO JULGADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência deste Tribunal Superior firmou-se no sentido de que o provimento do recurso especial por contrariedade ao art. 1022 do CPC/2015 pressupõe que sejam demonstrados, fundamentadamente, os seguintes motivos: (a) que a questão supostamente omitida tenha sido invocada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuide de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) a oposição de aclaratórios para indicar à Corte local a necessidade de sanar a omissão em relação ao ponto; (c) que a tese omitida seja fundamental à conclusão do julgado e, se examinada, poderá conduzir a anulação ou reforma do julgado; (d) a inexistência de outro fundamento autônomo, suficiente para manter o acórdão.
+2. In casu, o Tribunal de origem não enfrentou as matérias suscitadas nas razões do agravo de instrumento, mesmo após a oposição de embargos de declaração, em que pese sua relevância para a solução da controvérsia, restando configurada a ofensa ao art. 1022, II, do CPC/2015, por negativa de prestação jurisdicional, devendo os autos serem devolvidos para a complementação do julgado, a fim de que sejam apreciadas a tese de inaplicabilidade do art. 535 do CPC/2015, em razão da regra previ sta no art. 1057 do mesmo diploma, bem como sobre a tese de excesso de execução.
+3. Agravo interno não provido.
+(AgInt no REsp 1.913.400/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 16/9/2021)
+Diante do exposto, dou provimento ao Recurso Especial, determinando o retorno dos autos à Corte de origem para novo julgamento dos Embargos de Declaração.
+Publique-se.
+Intimem-se.
