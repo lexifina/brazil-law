@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por ANTÔNIO GALEASSI contra decisão que conheceu do agravo para dar provimento ao recurso especial manejado pela parte adversa, a fim de afastar as parcelas referentes às ações da telefonia móvel (dobra acionária).
+Em suas razões, a embargante sustenta que há omissão/contradição na decisão embargada, na medida em que "as ações oriundas da telefonia móvel/celular ("DOBRA ACIONÁRIA"), foram expressamente contempladas no título judicial, transitado em julgado, na fase de conhecimento, motivo pelo qual, com a devida vênia, aludida decisão não merece prevalecer, sob pena de configurar OFENSA À "COISA JULGADA MATERIAL" prevista no artigo 5º, inciso XXXVI, da CF/88 e artigo 502, do CPC." (fl. 351)
+Devidamente intimada, a embargada deixou de apresentar impugnação (certidão de fl. 362).
+É o relatório.
+Os embargos de declaração tem como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Na hipótese, não se verifica qualquer omissão no julgado.
+Como dito, o eg. Tribunal Estadual registrou a impossibilidade de ser afastada a dobra acionária, sob o entendimento de que há disposição implícita sobre a matéria na sentença. Desse modo, o Sodalício a quo sublinhou que, apesar do desacerto na forma, porquanto este tipo de condenação deve ser expresso no dispositivo da sentença, o ora embargante não poderia ser prejudicado por um erro judicial.
+Todavia, o entendimento proferido diverge da jurisprudência consolidada nesta Corte Superior, no sentido de que não é possível a inclusão de parcelas referentes às ações da telefonia móvel (dobra acionária) em sede de cumprimento de sentença, sem que exista condenação expressa no processo de conhecimento, sob pena de ofensa à coisa julgada.
+Portanto, as razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas e decididas, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
