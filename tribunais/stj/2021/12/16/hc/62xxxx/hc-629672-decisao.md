@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Cicero Flor da Silva - preso preventivamente pela prática, em tese, do delito de homicídio qualificado e disparo de arma de fogo -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que deu provimento ao recurso ali interposto para decretar a prisão preventiva do paciente, na ação penal que tramita no Juízo de Direito da Vara do Júri, Execuções, Infância e Juventude da comarca de Franco da Rocha/SP (Processo n. 1501021-952018.8.26.0198).
+Alega-se, em síntese, constrangimento ilegal consistente na deficiência de fundamentação da decisão que decretou a prisão preventiva do paciente.
+Postula-se, ao final, a concessão liminar da ordem para que seja revogada a prisão imposta ao paciente até o julgamento de mérito do presente writ.
+A liminar foi indeferida às fls. 34/35.
+Solicitadas informações, estas foram devidamente prestadas às fls. 39/40.
+Instado a se manifestar, o Ministério Público Federal opinou pela negação da ordem (fl. 55).
+Em consulta realizada no portal do Tribunal estadual, na internet, foi possível observar que a prisão foi reavaliada e mantida na data de 9/12/2021, ea solenidade do Júri designada para 28/4/2022.
+É o relatório.
+Busca a impetração a revogação da prisão preventiva imposta ao paciente, ao argumento da ausência de fundamentação para tanto.
+Quanto ao fatos, consta dos autos que (fl. 26):
+ ..  no dia 18 de dezembro de 2018, defronte à empresa em que trabalhava, o ora recorrido matou a vítima, de surpresa, fato que impossibilitou a defesa da vítima, mediante a efetivação de cinco disparos de arma de fogo que foram a causa efetiva da sua morte.
+Consta ainda que, nas mesmas circunstâncias descritas, o recorrido efetuou dois disparos de arma de fogo em lugar habitado e na via pública.
+Em 21/1/2019, o paciente teve aprisão preventiva relaxada. Ao final da instrução(1º/8/2019),foi pronunciadopela suposta prática dos crimes previstos nos arts. 121, § 2º,IV, do Código Penale15, caput, da Lei n. 10.826/2003, oportunidade em que lhe foi concedido o direito de aguardar o julgamento em liberdade.
+Irresignado, o Ministério Público estadual apresentou oRecurso em Sentido Estrito n. 0000876-79.2019.8.26.0198 perante o Tribunal de Justiça,que, em 28/8/2019, deu provimento ao reclamo, destacando que (fls. 26/29):
+Tem-se, pois, que no caso estão presentes os requisitos do art. 312 e 313, inciso I, do Código de Processo Penal, pois, muito embora a defesa tenha aduzido que o recorrido se apresentou de maneira espontânea e entregou o instrumento belicoso, a par de possuir residência fixa e ocupação lícita, não se pode olvidar que se trata de delito de homicídio, supostamente praticado pelo agente em meio a outros colegas de trabalho.
+Assim, em que pesem os argumentos constantes da r.decisão combatida, tem-se que a prisão do acusado se mostra necessária para a garantia da ordem pública, da instrução processual, bem como para a aplicação da lei penal, pois a sua permanência em liberdade causa a intranquilidade das testemunhas que presenciaram a ação criminosa.
+O quadro fático traçado revela que os policiais militares se encontravam em patrulhamento de rotina quando foram informados sobre a ocorrência de um homicídio, razão pela qual se deslocaram até o local informado, onde encontraram a vítima que foi conduzida até o hospital, mas faleceu em decorrência dos ferimentos.
+Foram cientificados que o ofendido chegava ao trabalho, quando foi surpreendido pelo incriminado, que contra ele desferiu oito disparos de arma de fogo (revólver calibre .38), dos quais cinco atingiram a vítima, dois na região do tórax e três na região lombar. A fim de empreender fuga, o acusado efetuou mais três disparos para o alto.
+Pelas imagens registradas pelas câmeras de segurança o autor dos disparos foi identificado e constataram que o ofendido foi atingido tão logo chegou ao local de trabalho.
+Uma das testemunhas presenciou o desdobramento delituoso e reconheceu o interessado como autor dos disparos.
+Tem-se, pois, que além dos indícios de autoria e prova da materialidade, estão presentes os demais requisitos necessários para a manutenção da prisão cautelar, sendo patente, nessa oportunidade, o periculum libertatis, caracterizado especialmente para a garantia da ordem pública, considerando a gravidade do crime que lhe é imputado, havendo probabilidade de causar riscos a manutenção de sua liberdade.
+Note-se que o interessado já foi denunciado (fls. 133/134), o que traz maior embasamento para a alegação da presença dos indícios de autoria e existência da materialidade delitiva.
+Assim, e tendo em vista que a ação penal seguirá seu curso, mais adequada é a decretação da prisão preventiva, para que as testemunhas prestem seus informes sem receio de qualquer tipo de intercorrência.
+Observe-se que o juízo que ora se realiza não se vincula à culpabilidade do agente, mas sim à sua periculosidade concreta, ponderação esta que revela a necessidade da retirada cautelar e temporária do paciente do convívio social.
+Por oportuno, tais observações traçadas não se confundem com meras conjecturas ou argumentação abstrata, pois levam em consideração a dinâmica fática noticiada nos autos, já devidamente relatada.
+ ..
+Tem-se, portanto, que, além dos indícios de autoria e prova da materialidade, estão presentes os demais requisitos necessários para a decretação da prisão-cautela, especialmente para a garantia da ordem pública.
+Ressalte-se, inclusive, que tal postura não acarreta violação à presunção de inocência, e constitui fundamento válido para a imposição de qualquer modalidade de prisão cautelar, nos termos da lei processual.
+Diante de todo o exposto, restou evidenciado que a prisão do incriminado se mostra necessária para garantia da ordem pública, da instrução processual e para a aplicação da lei penal.
+Sendo assim, de rigor o deferimento do recurso, em consonância com o que restou decidido por ocasião do julgamento da cautelar inominada nº 2011111-83.2019.8.26.0000, que já havia atribuído efeito ativo integral ao presente recurso em sentido estrito.
+No caso, a necessidade da prisão do pacienteestá devidamente embasada em elementos do caso concreto e nos fundamentos autorizadores da medida extrema, sobretudo para a garantia da ordem pública, vulnerada em razãoda gravidade do delito e domodus operandi empregado na empreitada (que, segundo consta, ocorreuno instante em que oofendido chegava ao trabalho, sendo surpreendido pelo acusado, que efetuou diversosdisparos de arma de fogo, atingindo-o na região do tórax e da lombar e, afim de empreender fuga, efetuou mais 3disparos para o alto- fl. 27).Circunstâncias essas que conferem lastro de legitimidade à manutenção da medida extrema.
+Não é outra a opinião do Subprocurador-Geral da República Durval Tadeu Guimarães, para quem o acórdão recorrido se encontrasuficientemente fundamentado(fl. 55).
+Com efeito,a jurisprudência desta Corte Superior possui entendimento consolidado no sentido de que a periculosidade do agente, revelada pelo modo de agir, justifica a decretação da prisão preventiva, nos termos do art. 312 do Código de Processo Penal(RHC n. 81.343/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/4/2017).
+Destaque-se, ainda,que eventuais condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a custódia antecipadaquando, como na hipótese, estão presentes os requisitos autorizadores da decretação da medida constritiva de liberdade.Nessa linha: RHC n. 62.112/MG, da minha relatoria, Sexta Turma, DJe 19/11/2015; RHC n. 124.546/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/3/2020; e HC n. 544.358/PR, Ministra Laurita Vaz, Sexta Turma, DJe 16/3/2020).
+Logo, tenho que ficou demonstrada a necessidade da prisão preventiva, não se revelando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ACUSADO PRONUNCIADO. PRISÃO PREVENTIVA RESTABELECIDA PELO TRIBUNAL LOCAL. FUNDAMENTAÇÃO IDÔNEA.GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA EMODUSOPERANDI.AUSÊNCIA DE ILEGALIDADE. PARECER ACOLHIDO.
+Ordem denegada.
