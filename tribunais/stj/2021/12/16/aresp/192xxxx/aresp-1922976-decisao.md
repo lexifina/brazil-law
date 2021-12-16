@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão de ausência de violação de dispositivos legais(e-STJ fls. 224/226).
+O acórdão recorrido está assim ementado (e-STJ fl. 172):
+RECURSO Agravo de Instrumento Insurgência contra a r.decisão que rejeitou a impugnação ao cumprimento de sentença dentre outras medidas Admissibilidade parcial Não constatada alteração na situação financeira da agravante que resulte em revogação do benefício Gratuidade de justiça mantida Concessão da gratuidade de justiça que não afasta o dever da beneficiária de pagar multas que lhe sejam impostas Inteligência do art. 98, §4º, CPC Impugnação acolhida apenas para determinar a exclusão do valor das custas do cálculo apresentado pelo exequente Litigância de má-fé não observada Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 190/193).
+Nas razões do recurso especial (e-STJ fls. 196/203), interposto com fundamento no art. 105, III, "a", da CF, a recorrentealega violação dos seguintes dispositivos legais:
+(i) arts. 1.022 e 489, § 1º, do CPC/2015, tendo em vista que houve "omissão do julgado quanto a aplicação da suspensão de exigibilidade prevista no 98, §3º, do CPC às multas processuais, contudo, o recurso foi rejeitado de forma absolutamente genérica" (e-STJ fl. 199), e
+(ii) art. 98, § 3º, do CPC/2015, pelos seguintes fundamentos (e-STJ fls. 200/201):
+Trata-se de execução de multa processual fixada pelo Supremo Tribunal Federal, em valor equivalente a 1% (um por cento) do valor atualizado da causa. Ocorre que, inobstante o benefício da gratuidade de justiça deferido à Recorrente, ignorando o comando expresso no artigo 98, §3º, do CPC, que determina que as obrigações devidas pelos beneficiários de justiça gratuita ficarão sob condição suspensiva, podendo ser executadas no prazo de 5 (cinco) anos, desde que comprovado que a situação de insuficiência de recursos deixou de existir, o Recorrido apresentou cumprimento de sentença, pleiteando a satisfação do valor de R$ 15.653,54 (quinze mil, seiscentos e cinquenta e três reais e cinquenta e quatro centavos).
+Assim, considerando a sistemática do Código de Processo Civil e a decorrência lógica da aplicação da suspensão, em face dos beneficiários de gratuidade de justiça, da exigibilidade das multas processuais, apresentou a Recorrente tempestiva impugnação ao cumprimento de sentença, oportunidade em que demonstrou que sua reconhecida hipossuficiência financeira para pagamento das custas processuais e eventuais verbas sucumbências deveria ser estendida ao pagamento das multas processuais, por força da previsão do artigo 98, §3º, do CPC.
+Na oportunidade, esclareceu que apesar do dever de pagar as multas processuais aplicadas ao longo da tramitação do processo, na forma do artigo 98, §4º, do CPC, as obrigações do beneficiário de justiça gratuita ficam sob condição de exigibilidade suspensa (artigo 98, §3º, do CPC), não tendo o credor logrado êxito em comprovar que não existe mais a hipossuficiência de recursos da parte executada, aqui Recorrente.
+Buscaque seja "deferido o processamento do presente RECURSO ESPECIAL e seu consequente encaminhamento à elevada apreciação do Superior Tribunal de Justiça, a fim de que seja reconhecida a aplicação da suspensão prevista no §3º, do artigo 98, do CPC, às multas processuais, quando demonstrada a situação de hipossuficiência que ensejou o deferimento de justiça gratuita, reformando-se o acórdão recorrido para acolher a impugnação apresentada e extinguir o cumprimento de sentença em razão da inexigibilidade dos valores pretendidos" (e-STJ fl. 203).
+No agravo (e-STJ fls. 229/235), afirmaa presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 238/243).
+É o relatório.
+Decido.
+Inicialmente, não há falar em negativa de prestação jurisdicional, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação da violação do art. 1.022 do CPC/2015.
+Segundo o TJSP, a recorrente não poderia ser beneficiado pela justiça gratuita, nos termos do art. 98, § 3º, do CPC/2015, tendo em vista a exceção do § 4º do referido dispositivo legal, que dispõe que as multas processuais deverão ser pagas ao final do processo, nos seguintes termos (e-STJ fl. 176 - grifei):
+De outra banda, no que tange ao cumprimento da decisão que condenou a agravante no pagamento de multa processual no valor correspondente a 1% (um por cento) calculado sobre o valor atualizado da causa, não assiste razão à agravante.
+Com efeito, determina o art. 99, §4º do Código de Processo Civil que:
+"§ 4º A concessão de gratuidade não afasta o dever de o beneficiário pagar, ao final, as multas processuais que lhe sejam impostas".
+Desta forma, ainda que a agravante fosse beneficiária da gratuidade da justiça quando foi condenada ao pagamento da referida multa subsiste a obrigação de pagar as multas processuais que foram impostas conforme texto da lei acima destacado.
+No mesmo sentido, encontra-se a jurisprudência desta Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO 3/STJ. A GRATUIDADE DE JUSTIÇA NÃO AFASTA A RESPONSABILIDADE POR PENALIDADES PROCESSUAIS. SÚMULA 568/STJ.
+1. O presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O art. 98, § 4º, do CPC/2015, atribui ao beneficiário da gratuidade da justiça o dever de pagar, ao final, as multas processuais que lhe sejam impostas, razão pela qual estão excluídas do rol da gratuidade da justiça eventuais multas processuais praticadas em decorrência da litigância temerária do beneficiário.Precedentes.
+3. A impugnação da Súmula 568/STJ deve ser procedida com a indicação de precedentes contemporâneos ou supervenientes aos apontados pela decisão agravada, de forma a demonstrar que outra é a orientação jurisprudencial desta Corte Superior, o que não foi procedido na espécie.
+4. Agravo interno não provido.
+(AgInt no AREsp 1710737/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/02/2021, DJe 26/02/2021 - grifei.)
+PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. ACÓRDÃO QUE APONTA A AUSÊNCIA DE COMPROVAÇÃO DA CONDIÇÃO DE SEGURADO ESPECIAL. REEXAME DE PROVAS. SÚMULA 7/STJ. BENEFICIÁRIO DA JUSTIÇA GRATUITA. EMBARGOS DE DECLARAÇÃO DE IDÊNTICO TEOR AOS ANTERIORES JÁ REJEITADOS. APLICAÇÃO DA MULTA A QUE ALUDE O ART. 1.026, § 2º, DO CPC/15. POSSIBILIDADE.
+ ..
+4. Conforme o disposto no § 4º do art. 98 do CPC/15, a concessão da gratuidade da justiça não afasta o dever de o beneficiário pagar, ao final, as multas processuais que lhe foram impostas. Contudo, nessas hipóteses, o litigante não se sujeita ao depósito prévio para fins de posterior interposição de recurso, conforme prescreve o art. 1.026, § 3º, do CPC/15.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl nos EDcl no AREsp 905.809/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 29/09/2017.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPOSSIBILIDADE DE SUSPENSÃO DA EXIGIBILIDADE DA MULTA. BENEFICIÁRIO DA JUSTIÇA GRATUITA. ART. 98, § 4o. DO CÓDIGO FUX. EMBARGOS DE DECLARAÇÃO DO PARTICULAR REJEITADOS.
+1. O Código Fux, em seu art. 98, § 4o., expressamente estabelece que a concessão de gratuidade de justiça não afasta o dever de o beneficiário pagar, ao final as multas processuais que lhe sejam impostas.
+2. Embargos de Declaração do Particular rejeitados.
+(EDcl no AgInt no AREsp 1426972/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 03/03/2020, DJe 10/03/2020.)
+Diante do todo o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
