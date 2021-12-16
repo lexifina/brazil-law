@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor deJOSÉ MARIA SARTORIO BLANCOem que se aponta como autoridade coatoraTribunal de Justiça do Estado de São Paulo(HC n. 2104309-09.2021.8.26.0000).
+O paciente encontra-se preso preventivamente, arequerimento do Ministério Público, pela prática dos crimes descritos nos arts. 16 e 17 da Lei n. 10.826/2003.
+A defesa alega que osprintsde conversas de aplicativo de celular acostados aos autos foram obtidos ilicitamente pelos policiais civis responsáveis pela operação. Informa que pessoa desconhecida, nem sequer arrolada como testemunha neste processo, entregou à autoridade policial, sem consentimento ou autorização judicial, conversas de aplicativo de celular que supostamente fazem prova contra o paciente, o que denota a precariedade dos motivos que deram ensejo à persecução penal em curso.
+Requer, portanto, seja determinado o desentranhamento das conversas eletrônicas acostadas às fls.520, 621-626 e 946-947 dos autos principais, por serem consideradas provas ilícitas, não podendo ser utilizadas em desfavor do paciente.
+O pedido de liminar foi indeferido às fls. 245-246.
+As informações foram prestadas às fls. 250-252 e 253-307.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls. 313-316).
+A defesa ainda apresentou petição, pleiteandoa intimação prévia para realização de sustentação oral (fls. 318-319).
+É o relatório. Decido.
+Preliminarmente, cumpre destacar ser inviável a sustentação oral no julgamento monocrático da ação dehabeas corpusquando odecisumse enquadrar nas hipóteses autorizadoras da atuação individual previstas no art. 34, XVIII, b, do RISTJ.
+Ademais, adecisão monocrática proferida por relator não afronta o princípio da colegialidade,tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante(AgRg no HC n. 485.393/SC, Quinta Turma, relator MinistroFelix Fischer, DJe de 28/3/2019).
+Por oportuno, ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal, situação não evidenciada nestes autos.
+Na situação dos autos, verifica-seque o Tribunal de origem limitou-se a afirmar que a alegação de ilicitude das provas não merecia acolhida, porquantoos referidos printsdas conversas eletrônicas nem sequer foram acostados à exordialacusatória, não servindo, portanto, como fundamento para a instauração da persecução penal em desfavor do paciente. No caso, os indícios de autoria e materialidade foram suficientemente demonstrados por outros elementos de prova, como o boletim de ocorrência, auto de exibição e apreensão de objetos provenientes de crime, bem como a prova oral produzida em juízo.
+É o que se vê do seguinte trecho do voto condutor do acórdão (fls. 240-241):
+No entanto, no caso "sub judice", não se vislumbra a alegada ilicitude.
+De mais a mais, resultaram comprovados indícios suficientes de autoria delitiva e materialidade, consoante documentos juntados nos autos do processo de conhecimento: boletim de ocorrência, auto de exibição e apreensão eprova oral coligida aos autos, o suficiente para caracterizar a suposta prática dos crimes imputados ao paciente, delineando-se que os "prints" apontados pelo impetrante nem sequer foram anexados aos autos, constando na exordial que eles teriam sido fornecidos por um denunciante anônimo.
+Portanto, a atribuição de responsabilidade criminal do acusado se deu em virtude das demais provas angariadas ao feito.
+Assim, diante das informações e documentos apresentados nestes autos e do enfrentamento da matéria pela Corte de origem, constata-se que a alegação da defesa demandaria necessária produção de prova nesta instância extraordinária, o que é vedado no rito especial dehabeas corpus.
+Vale dizer, consoante entendimento firmado pelo STJ,não constatada nenhuma flagrante ilegalidadede plano, é inviáveldesconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos e provas, pois os estreitos limites do habeas corpusnão admitem dilação probatória nem aprofundado exame do acervo da ação penal (AgRg no HC n. 691.609/SP, relator Ministro Jesuíno Rissato,Desembargador convocado do TJDFT, Quinta Turma, DJe de 25/11/2021).
+Não cabe, portanto, o desentranhamento de provas que, nos termos decididos pelo Tribunal de origem, nem sequer foram utilizadas para fundamentar o oferecimento e recebimento da denúncia.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
