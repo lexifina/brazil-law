@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto contra acórdão do Tribunal Regional Federal da 1ª Região assim ementado (fl. 162, e-STJ):
+PREVIDENCIÁRIO. TRABALHADOR RURAL. PENSÃO POR MORTE. ÓBITO DO CÔNJUGE/GENITOR NA VIGÊNCIA DA LEI 8.213/91 E DA LEI 9.528/97. DEPENDÊNCIA PRESUMIDA. ATIVIDADE RURAL COMPROVADA POR INÍCIO DE PROVA MATERIAL CORROBORADA POR PROVA TESTEMUNHAL.
+1. A pensão por morte é benefício previdenciário regido pela lei vigente à época do óbito do segurado instituidor e, nos termos do art. 74 da Lei 8.213/91, é paga aos dependentes do segurado falecido, aposentado ou não, sendo necessária, para tanto, a comprovação do óbito, a qualidade de segurado do instituidor da pensão e a condição de dependente do beneficiário.
+2. Na hipótese, o início de prova material e a prova testemunhal coerente e robusta comprovam a qualidade de trabalhador rural do instituidor do benefício e confirmam que, à época do evento morte, a parte autora e o de cujus viviam sob o mesmo teto.
+3. A dependência econômica do cônjuge, da companheira, do companheiro e do filho não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido é presumida (Lei 8.213/91, art. 16, I e § 4º), conquanto cabível prova em contrário.
+4. Apelação da parte autora provida para, reformando a sentença, conceder o benefício de pensão por morte.
+Os Embargos de Declaração foram rejeitados nos seguintes termos (fl. 193, e-STJ):
+EMBARGOS DE DECLARAÇÃO REJEITADOS À MÍNGUA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC/1973 OU DO ART. 1.022 DO CPC/2015. INTUITO INFRINGENTE IMPRÓPRIO À VIA. PREQUESTIONAMENTO.
+1. A contradição que autoriza o uso dos embargos declaratórios - em sentido técnico, não o coloquial empregado na linguagem comum - é a que se verifica entre as proposições do acórdão ou entre as premissas e o resultado do julgamento. Não é sinônimo de inconformismo com a tese jurídica adotada.
+2. O julgador não está obrigado a discorrer sobre todas as teses apresentadas pela defesa, pois apenas é necessário fundamentar adequadamente sua convicção e externar seus pontos de sustentação, nos termos do art. 93, IX da Constituição Federal e conforme o princípio da livre convicção motivada.
+3. A omissão que enseja acolhimento dos embargos de declaração é aquela que diz respeito a um necessário pronunciamento pelo acórdão na ordem de questões examinadas para a solução da lide, não se confundindo com eventual rejeição de pedido, em razão de o posicionamento adotado ser contrário à pretensão da parte embargante.
+4. Pretendendo a parte embargante a reforma do entendimento lançado no acórdão - aqui invocado "per relationem" - por mero inconformismo com seu resultado, a via adequada não é a dos embargos de declaração.
+5. Na hipótese, a parte embargante não demonstra a existência no julgado de obscuridade, contradição, omissão ou erro material, que conduzam à necessidade de retificação do julgado ou alterem o entendimento nele estampado no acórdão impugnado.
+6. A pretensão de utilizar os embargos de declaração para fins de prequestionamento resta inviabilizada em razão da ausência de necessidade de manifestação sobre dispositivos legais que não se demonstraram necessários à composição da lide, sendo farta a jurisprudência que rejeita tal anseio, pois a estreita via dos embargos de declaração demanda a demonstração dos vícios passíveis de correção nas hipóteses previstas no art. 1.022, I, II e III do CPC de 2015.
+7. Embargos de declaração rejeitados.
+O recorrente sustenta que houve violação dos arts. 141, 489, § 1º, 492 e 1.022 do Código de Processo Civil/2015. Defende (fls. 204-207, e-STJ, grifos no original):
+Ocorre que, analisando a inicial e a apelação, verifica-se que o pedido do autor se referiu explicitamente à DIB na data do requerimento administrativo (e não no óbito).
+Interpostos embargos declaratórios discutindo-se tal ERRO MATERIAL e a AUSÊNCIA DE APELAÇÃO DA PARTE AUTORA em relação a tal ponto, o e. Tribunal negou-se a se pronunciar sobre as questões neles suscitadas, sob fundamento GENÉRICO de que o recurso evidenciaria a pretensão de reforma do julgado e de que não existiria o defeito alegado.
+O acórdão merece reforma, porquanto contém vícios.
+(..)
+Ante o exposto, requer seja conhecido e provido o presente Recurso Especial, para: (i) anular-se o v. acórdão que julgou os embargos de declaração, determinando-se o retorno dos autos ao Tribunal a quo, para que supra o vício apontado; ou (ii) reformar o acórdão para fixar a DIB na DER para os requerentes menores.
+Contrarrazões às fls. 208-211, e-STJ.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 215-216, e-STJ).
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2.12.2021.
+A irresignação merece parcial acolhida.
+Transcrevo as alegações apresentadas nos Embargos Declaratórios(fls. 173-175, e-STJ, grifos no original):
+DA CONTRADIÇÃO E DA OMISSÃO - DECISAO EXTRA PETITA
+O acórdão ora recorrido, no voto condutor, determinou o seguinte:
+Ante o exposto, dou provimento à apelação, para julgar procedente o pedido e condenar o INSS a implantar o benefício de pensão por morte à parte autora, a ser rateado entre os requerentes, na forma da lei, a contar da data do óbito do ex-segurado, em favor dos requerentes menores, e da data do requerimento administrativo, em favor do cônjuge do falecido, ou, à sua falta, a data da data do ajuizamento da ação, e a pagar as diferenças vencidas, respeitada a prescrição quinquenal, nos termos da fundamentação acima" (grifos acrescidos).
+Ocorre que, analisando a inicial, verifica-se que o pedido do autor se refere explicitamente à DIB na data do requerimento administrativo (e não no óbito).
+Pois bem. Nos termos da lei processual civil, o pedido deve ser interpretado restritivamente e tem por objeto a delimitação da lide. É importante destacar que é imprescindível haver correlação entrea tutela concedida e o pedido de tutela formulado, consoante o Novo Código de Processo Civil
+(..)
+Vale dizer, imposto que é ao julgador não se pronunciar sobre o que não constitua objeto do pedido, cumpre-lhe, em caso de dúvida, interpretar o pedido restritivamente, evitando, assim, de decidir extra ou ultra petita.
+Não se trata de prevalência do rigorismo formal em detrimento do fim a que se destina o processo. Na realidade, é a própria lei processual civil que impõe a interpretação restritiva do pedido.
+É de rigor, portanto, seja sanado o erro material apontado, excluindo do corpo do voto-condutor a referência à DIB para os requerentes menores na data do óbito, sob pena de se incorrer em julgamento extra/ultra petita, em flagrante ofensa aos arts. 141 e 492 do NCPC.
+(..)
+Por todo o exposto, o INSS reitera o pedido de que seja sanado o erro material apontado, excluindo do corpo do voto-condutor a referência à DIB no óbito para os requerentes menores, eis que não foi postulado pela parte autora em sua petição inicial, sob pena de se incorrer em julgamento extra/ultra petita, em flagrante ofensa aos arts. 141 e 492 do NCPC.
+O Tribunal de origem rejeitou os Embargos, fazendo constar do voto (fls. 184-187, e-STJ):
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado (art. 1.022 do CPC/2015).
+A contradição que autoriza o uso dos embargos declaratórios é a que se verifica entre as proposições do acórdão ou entre as premissas e o resultado do julgamento. Não é sinônimo de inconformismo da parte com a tese jurídica adotada. Existe um sentido técnico de "contradição" que não se confunde com o sentido coloquial que é empregado na linguagem comum.
+A omissão que enseja acolhimento dos embargos de declaração é aquela que diz respeito a um necessário pronunciamento pelo acórdão na ordem de questões examinadas para a solução da lide, não se confundindo com eventual rejeição de pedido em razão de o posicionamento adotado ser contrário à pretensão da parte embargante.
+Todavia, na hipótese, o que a parte embargante demonstra, na verdade, é inconformismo com o teor do voto embargado, aqui invocado "per relationem" e "aliunde".
+Não se admitem embargos de declaração infringentes, isto é, que a pretexto de esclarecer ou completar o julgado anterior, na realidade buscam alterá-lo.
+O julgador não está obrigado a discorrer sobre todas as teses apresentadas pela defesa, pois apenas é necessário fundamentar sua convicção, nos termos do art. 93, IX, da Constituição Federal e conforme o princípio da livre convicção motivada.
+(..)
+Pretendendo exatamente rediscutir as razões de decidir do acórdão, o recurso próprio não são os embargos de declaração.
+A pretensão de utilizar os embargos de declaração para fins de prequestionamento resta inviabilizada em razão da ausência de necessidade de manifestação sobre dispositivos legais que não se demonstraram necessários à composição da lide, sendo farta a jurisprudência que rejeita tal anseio, pois a estreita via dos embargos de declaração demanda a demonstração dos vícios passíveis de correção nas hipóteses previstas no art. 1.022, I, II e III, do CPC de 2015 (art. 535 do CPC de 1973).
+(..)
+É oportuno ressaltar que o posicionamento mais recente do Superior Tribunal de Justiça sobre o tema, pacificou o entendimento de que embargos interpostos com nítido caráter infringente, longe de ter por objetivo prequestionar dispositivos legais, na verdade tem manifesto caráter protelatório, o que inclusive possibilita a imposição das sanções previstas na codificação processual.
+(..)
+De qualquer sorte, no que se refere à ausência de manifestação em face de argumentação trazida pela parte embargante, por ocasião do recurso interposto, vale destacar que o juízo não está obrigado a responder a todas as alegações das partes, sobretudo quando já tenha encontrado alicerce suficiente para fundamentar a sua decisão.
+A função judicial é prática, só lhe importando as teses discutidas no processo enquanto necessárias ao julgamento da causa. Mesmo no caso de embargos de declaração com o fim de prequestionamento, não há lugar para o reexame da causa.
+Dessa forma, para a composição da lide são suficientes as razões constantes da fundamentação do julgado.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Verifica-se que os Embargos Declaratórios manejados foram rejeitados sem nenhuma menção, mesmo que indireta, aos pontos levantados pelo recorrente.
+Como consequência, impõe-se seja proferido novo julgamento dos Embargos, analisando-se, desta vez, o tópico apresentado pelo insurgente.
+A propósito:
+(..) OFENSA AOS ART. 1.022, II, E 489, § 1º, DO CPC/15. OMISSÕES. (..) AUSÊNCIA DE PRONUNCIAMENTO QUANTO A ASPECTOS ENVOLVENDO MATÉRIA FÁTICO-PROBATÓRIA RELEVANTE. DEVOLUÇÃO DOS AUTOS À ORIGEM. NECESSIDADE. PRECEDENTES.
+(..) II - De acordo com o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e iii) corrigir erro material.
+III - A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento. Considera-se omissa, ainda, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, do CPC/15. (..)
+VI - Extrai-se dos julgados deste Superior Tribunal sobre a matéria que o reconhecimento de eventual violação ao art. 1.022 do CPC/15 dependerá da presença concomitante das seguintes circunstâncias processuais: i) oposição de embargos de declaração, na origem, pela parte interessada; ii) alegação de ofensa a esse dispositivo, nas razões do recurso especial, de forma clara, objetiva e fundamentada, acerca da mesma questão suscitada nos aclaratórios; iii) publicação do acórdão dos embargos sob a vigência do CPC/15; e iv) os argumentos suscitados nos embargos declaratórios, alegadamente não examinados pela instância a quo, deverão: iv.i) ser capazes de, em tese, infirmar as conclusões do julgado; e iv.ii) versar questão envolvendo matéria fático-probatória essencial ao deslinde da controvérsia.
+VII -In casu,verifica-se a ausência de pronunciamento da Corte de origem a respeito de matéria fática relevante.
+VIII - Recurso especial provido para determinar o retorno dos autos à origem, nos termos da fundamentação.
+(REsp 1.670.149/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 22/3/2018)
+PROCESSUAL CIVIL (..). OMISSÃO VERIFICADA. AUSÊNCIA DE ENFRENTAMENTO DA TESE PELO TRIBUNAL LOCAL. NECESSIDADE DE NOVO JULGAMENTO DOS DECLARATÓRIOS. (..)
+1. Assiste razão à parte recorrente no que tange às afrontas aos artigos 11, 489, §1º, 1.022, I, II, III, todos do CPC/2015 pelo Tribunal local.
+2. O acórdão atacado manteve a sentença de piso que julgou improcedente o pedido da recorrente, que, em suma, almejava o direito de utilizar "créditos tributários calculados sobre produtos químicos relacionados á higienização e desinfecção de máquinas e equipamentos do processo industrial" (fl. 199, e-STJ).
+3. A Corte mineira adotou a Instrução Normativa 01/1986, que define o "conceito do produto intermediário, para efeito do direito de crédito do ICMS" (fls. 200-202, e-STJ).
+4. Não obstante, vê-se que um dos argumentos centrais da recorrente - e ventilado já na Apelação - é o da possível inconstitucionalidade e ilegalidade da mesma Instrução Normativa aplicada pela Corte estadual, a qual teria, contra os ditames da LC 87/1996 e do art. 155, XII, "c", da Constituição Federal, mantido "a exigência quanto à necessidade de os produtos intermediários serem consumidos no processo de industrialização, ou integrarem o produto final" (fls. 131-132, e-STJ).
+5. Após alegar tal omissão, o Tribunal mineiro se limitou a dizer que "o julgado objurgado reconheceu a legalidade das leis e atos normativos que regem a espécie, aplicando-as. Considerou-se que as normas infralegais apenas completavam o sentido da norma constitucional, em nada confrontando-a" (fl. 229, e-STJ).
+6. Na verdade, observa-se que o colegiado estadual não apreciou efetivamente a tese exposta pela parte, pois somente mencionou que a Carta Magna não impediu o legislador ordinário de regulamentar o regime de compensação do ICMS de forma mais benéfica ao contribuinte.
+7. Falhou, portanto, o Tribunal mineiro, pois se omitiu em sua decisão, na medida em que não enfrentou a tese de ilegalidade e inconstitucionalidade da Instrução Normativa 01/1986 em relação à LC 87/1996 e ao art. 155, XII, "c", da Constituição Federal. Análise do dissídio jurisprudencial prejudicada.
+8. Recurso Especial provido, determinando-se o retorno dos autos à Corte de origem, para que, em novo julgamento dos Embargos de Declaração, manifeste-se expressamente quanto à possível ilegalidade e inconstitucionalidade da Instrução Normativa 01/1986 no que toca à LC 87/1996 e ao art. 155, XII, "c", da Constituição Federal.
+(REsp 1.780.149/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/3/2019)
+Diante do exposto,dou parcial provimento ao Recurso Especial, a fim de anular o aresto proferido nos Embargos de Declaração e determinar o retorno dos autos ao Tribunal de origem para que proceda a novo julgamento, abordando as questões mencionadas nas razões dos Aclaratórios(fls. 173-175, e-STJ).
+Publique-se.
+Intimem-se.
