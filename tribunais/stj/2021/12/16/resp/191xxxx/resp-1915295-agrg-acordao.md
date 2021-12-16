@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO - MPEem face de decisão de folhas 279/283 quenão conheceudo seu recurso especial em razão da falta de prequestionamento.
+O agravante sustenta que o voto condutor do acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO - TJRJ demonstra que foi atendido o requisito do prequestionamento ao art. 621 do Código de Processo Penal -CPP. Afirma se desnecessária a abordagem da narrativa do MPE, pois o TJRJ se utilizou de revisão criminal como se apelaçãofosse para refazer a dosimetria da pena, invocando critério de razoabildiade e proporcionalidade.
+Requer a reconsideração ou o provimento do agravo regimental com conhecimento e provimento do recurso especial.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.VIOLAÇÃO AO ART. 621, I, DO CÓDIGO DE PROCESSO PENAL -CPP. AUSÊNCIA DE PREQUESTIONAMENTO. VÍCIO SUPOSTAMENTE SURGIDO NO JULGAMENTO DE REVISÃO CRIMINAL. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O apontamento deviolação ao art. 621, I, do CPP, foi sustentado pela tese segundo a qual a revisão criminal não abrangeria o proceder adotado no Tribunal de Justiçapara refazimento da dosimetria da pena no caso concreto. A referida tese não foi prequestionada. Tendo a suposta ilegalidade surgida no julgamento da revisão criminal, imprescindível seria a oposição de embargos de declaração para fins do prequestionamento. Precedentes.
+2. Agravo regimentaldesprovido.
+VOTO
+O agravo regimental deve ser conhecido, eis que impugnadasas razões da decisão agravada, bem como observado os limites do recurso especial. Apesar dos argumentos veiculados no presente agravo regimental, a decisão agravada deve ser mantida.
+Sobre a violação ao art. 621, I, do CPP, o TJRJ não tratou da tese posta no recurso especial segundo a qual a revisão criminal não seria cabível para o refazimento da dosimetria da pena no caso concreto. Cita-se o que constou nos votos a respeito da dosimetria:
+"VOTO PARCIALMENTE VENCIDO QUANTO AO ROUBO COM RESULTADO MORTE Entendi que as penas relativas ao crime de latrocínio, ou seja, 30 (trinta anos) de reclusão e 360 (trezentos e sessenta) dias-multa, deveriam ser confirmadas, eis que a conduta do requerente e dos outros condenados, policiais e ex-policiais, retratou extrema crueldade, cinismo, além de revelar extrema nocividade social.
+Mas, no particular, fiquei vencido." (fl. 164)
+"DECLARAÇÃO DE VOTO No presente, faço a presente declaração de voto, para estabelecer o acréscimo pelo latrocínio em valoração negativa, que corresponde, ao artifício empregado, utilizando-se, dos coletes da Polícia Civil, e assim, não só facilitando o ingresso, no estabelecimento hoteleiro, e permitindo a consecução criminosa; como também denegrindo a imagem da Polícia e, arredando a valoração negativa genérica, que resulta do crime, e pertinente ao "abalo à sociedade, intranquilidade", sendo que a fração que melhor se ajusta, inclusive, em critério de razoabilidade e proporcionalidade, é a de  , a totalizar 25 anos de reclusão, no regime fechado.
+Esta é a minha declaração de voto." (fl. 166)
+Extrai-se dos trechos acima que até mesmo o voto vencido manteve a pena dosada porque compreendeu justificada nas circunstâncias do crime. A tese de que a revisão criminal não se presta para o proceder adotado nos votos vencido e vencedor não foi, portanto, prequestionada. Tendo a suposta ilegalidade surgida no julgamento da revisão criminal, imprescindível seria a oposição de embargos de declaração para fins do prequestionamento. Citam-se precedentes (grifos nossos):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. NULIDADES.PRINCÍPIO PAS DE NULLITÉ SANS GRIEF.NECESSIDADE DE ALEGAÇÃO EM MOMENTO OPORTUNO E DE DEMONSTRAÇÃO DE PREJUÍZO.INTIMAÇÃO PARA A SESSÃO DE JULGAMENTO DA APELAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO.EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS.NECESSIDADE. SÚMULAS 282 E 356/STF. NÃO INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA 284/STF.OITIVA DAS TESTEMUNHAS. DEGRAVAÇÃO.DESNECESSIDADE. DISPONIBILIZAÇÃO INTEGRAL ÀS PARTES. ART. 405 DO CPP. OBSERVÂNCIA.RECONHECIMENTO DO PRIVILÉGIO E AFASTAMENTO DA QUALIFICADORA DE MOTIVO FÚTIL. JULGAMENTO CONTRÁRIO À PROVA DOS AUTOS. NÃO OCORRÊNCIA. SÚMULA 7/STJ. PENA-BASE. DADOS CONCRETOS. AUMENTO. POSSIBILIDADE.PRECEDENTES DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO IMPROVIDO.
+ ..
+2. A tese de nulidade da sessão de julgamento do apelo defensivo, diante da ausência de intimação prévia do advogado constituído, não foi objeto de debate pela Corte de origem, tampouco foram opostos embargos de declaração, visando o prequestionamento, indispensável ainda que a matéria seja de ordem pública.
+ ..
+15. Agravo regimental improvido.
+(AgRg no AREsp 1361583/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/5/2019).
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. PLEITO DESCLASSIFICATÓRIO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.ÓBICE DA SÚMULA N. 7/STJ. AGRAVO IMPROVIDO.
+ ..
+DOSIMETRIA. PENA-BASE. AFRONTA AO ART.617 DO CPP. PREQUESTIONAMENTO. NECESSIDADE.
+1. A afronta ao art. 617 do CPP, no que se refere à alteração pela Corte recorrida quanto à vetorial negativa estabelecida pelo magistrado singular na primeira fase da dosimetria é matéria que não pode ser analisada na presente via, tendo em vista que não houve debate pela Corte de origem, não tendo havido sequer oposição de embargos declaratórios para manifestação da instância a quo, estando patente a ausência de prequestionamento sobre o tema, que é imprescindível, inclusive, na hipótese de tratar-se de matéria de ordem pública e de que a questão controvertida tenha surgido na prolação do acórdão.Incidência das Súmulas n. 282 e 356/STF.
+2. Agravo improvido.
+(AgInt no AREsp 1475163/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 1º/7/2019).
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.ART. 619 DO CPP. VIOLAÇÃO. INOCORRÊNCIA.APRECIADAS TODAS AS QUESTÕES SUSCITADAS PELA PARTE. RÉ QUE COMPLETOU 70 ANOS APÓS A SENTENÇA CONDENATÓRIA. ART. 115 DO CÓDIGO PENAL. REDUÇÃO DO PRAZO PRESCRICIONAL PELA METADE. IMPOSSIBILIDADE. ESGOTAMENTO DA INSTÂNCIA ADMINISTRATIVA. DESNECESSIDADE. NÃO SE APLICA A SÚMULA VINCULANTE N. 24 AOS CRIMES DE LAVAGEM DE DINHEIRO E CONTRA O SISTEMA FINANCEIRO. CONTINUIDADE DELITIVA. QUESTÃO FEDERAL SURGIDA POR OCASIÃO DA PROLAÇÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE PREQUESTIONAMENTO. EXASPERAÇÃO DA PENA- BASE. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS JUDICIAIS NEUTRAS. REDUÇÃO DA PENA-BASE.IMPOSSIBILIDADE. EXECUÇÃO PROVISÓRIA DA PENA.VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. Segundo entendimento pacífico desta Corte, ainda que a pretensa violação de lei federal tenha surgido na prolação do acórdão recorrido, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a questão. Se assim não se fez, está ausente o necessário prequestionamento. Aplicação da Súmula 282/STF. (AgRg no REsp 1066014/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/04/2013, DJe 26/04/2013).
+ ..
+8. Agravo regimental improvido.
+(AgRg no AREsp 949.110/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 23/10/2017).
+Ressalte-se que sequer o inciso I do art. 621 do CPP foi declinado no acórdão de folhas 134/166 como hipótese normativa a amparar o decidido.
+Diante do exposto, voto pelo desprovimento do agravo regimental.
