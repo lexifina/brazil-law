@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a" e "c", da Constituição da República) contra acórdão assim ementado (fl. 2.077, e-STJ):
+AGRAVO REGIMENTAL. AÇÕES ANULATÓRIA E CAUTELAR DE CAUÇÃO. SUBSTITUIÇÃO DA CAUÇÃO FIANÇA BANCÁRIA POR SEGURO GARANTIA. CABIMENTO.
+A garantia da execução por seguro garantia produz os mesmos efeitos da penhora, podendo ser oferecida em cautelar de caução para garantir futura execução, bem como para obter expedição de certidão positiva com efeitos de negativa.
+Arts. 9º e 16 da Lei nº 6.830/80, observada a redação dada pela Lei nº 13.043/14.
+Constatada a suficiência do valor do seguro garantia para o débito executado possível a substituição da caução com fiança bancária.
+Precedentes do TJRS e STJ.
+AGRAVO REGIMENTAL PROVIDO.
+Aponta a parte recorrente, em Recurso Especial, além de divergência jurisprudencial, violação dos arts. 20, §§ 3º, "a", "b" e "c", e 4º, 538 e 535 do CPC/1973 e22 e 32 da Lei 8.906/1994. Defende:
+(..) embora também julgado totalmente procedente a Ação Cautelar da CIMPOR, o juízo singular, ao arrepio do art. 20, §4º do CPC, condenou o RS ao pagamento de honorários advocatícios no importe de R$ 2.100,00 (dois mil e cem reais"", quantia absurdamente irrisória quando comparada à complexidade e ao valor do Auto de Infração objeto da presente demanda, o qual ultrapassa R$ 15.000.000,00 (quinze milhões de reais) em valores históricos, e hoje atingem valores próximos a R$ 21.532.912,22 (vinte e um milhões, quinhentos e trinta e dois mil, novecentos e doze reais e vinte e dois centavos)".
+(..)
+O que há que se ter em mente, é que comprovadamente os patronos da CIMPOR enfrentaram claras dificuldades no deslocamento entre as Comarcas, restando claro que o dispêndio no importe de quase 3 mil reais se deu não somente em uma, mas em várias oportunidades (ajuizamento da Medida Cautelar e Despacho de Pedido Liminar em Canoas, ajuizamento da Ação Anulatória e Despacho de Pedido Liminar em Canoas, apresentação de Razões Finais, Resposta à Contestação, Distribuição do Parecer do Prf. Marco Aurélio Greco, Produção de Provas, Agravo de Instrumento, Recurso de Apelação, Julgamento no TJ/RS, Embargos de Declaração, etc..) 43. Tal fato por certo demonstra o zelo - alínea a, §3º e §4º do art. 20º, CPC - dos patronos com a condução do presente feito, especialmente em virtude do êxito total quanto à pretensão de demonstrar a nulidade do crédito tributário em voga (Ação Anulatória) e a idoneidade da garantia do débito mediante oferecimento de fiança bancária (Medida Cautelar), de toda a dívida cobrada.
+44. Frise-se, de igual modo, que até mesmo o valor das custas pagas pela CIMPOR no importe aproximado de R$ 6.972,78 (seis mil, novecentos e setenta e dois reais e setenta e oito centavos) é superior ao montante fixado a titulo de honorários advocatícios quando em 1" instância, reforçando ainda mais a irrisoriedade da verba arbitrada ; ainda que tenha sido majorada para R$ 15.000,00.
+45. Já no que diz respeito à natureza e, sobretudo, a importância e as dificuldades do processo - alínea c, §3º e §4º do art. 20º, CPC  são irrefutáveis. Não há que se desprezar a responsabilidade que o patrono assume, ao aceitar defender seu cliente numa Anulatória de mais de quinze milhões de reais, sobretudo tendo em vista que a tese alegada, é a de nulidade do débito, não tendo sido o trabalho dos patronos em momento algum facilitado, já (i) ajuizou Medida Cautelar tendo apresentado naqueles autos todas as manifestações cabíveis, (h) no curso da Ação Anulatória, agravou da decisão que lhe indeferiu produção de provas, apresentou Impugnação à Contestação, Contrarrazões em Apelação, etc.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3 de dezembro de 2021.
+Preliminarmente, constato que não se configurou a ofensa ao art. 535 do Código de Processo Civil de 1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13/8/2007, e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28/6/2007.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida. Confira-se:
+AGRAVO REGIMENTAL. ALEGADA OFENSA AOS ARTIGOS 273, 458, II, 473, 535, II DO CÓDIGO DE PROCESSO CIVIL E 11 DA LEI N. 8692/93. SÚMULAS 05 E 07 DO STJ. EM VIRTUDE DA FALTA DE ARGUMENTOS CAPAZES DE PROVOCAR UM JUÍZO DE RETRATAÇÃO, RESTA MANTIDA A DECISÃO ANTERIOR.
+I - Os embargos de declaração são recurso de natureza particular, cujo objetivo é esclarecer o real sentido de decisão eivada de obscuridade, contradição ou omissão.
+II - O simples descontentamento dos embargantes com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento, mas não, em regra, à sua modificação, só muito excepcionalmente admitida.
+(..)
+VI - Agravo improvido. (AgRg nos EDcl no Ag 975.503/MS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 11/9/2008)
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Ademais, vencida a Fazenda Pública, a fixação dos honorários advocatícios não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NULIDADE DO TÍTULO EXECUTIVO. HONORÁRIOS. EXORBITANTES. MODIFICAÇÃO. POSSIBILIDADE. PRECLUSÃO. INEXISTÊNCIA.
+1. A jurisprudência do STJ reconhece que os honorários advocatícios são passíveis de modificação na instância especial, tão somente quando se mostrarem irrisórios ou exorbitantes, de modo a afastar o óbice da Súmula 7/STJ.
+2. Vencida a Fazenda Pública, a fixação dos honorários advocatícios não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade.
+3. "A remessa oficial devolve ao Tribunal o reexame de todas as parcelas da condenação suportadas pela Fazenda Pública, inclusive dos honorários de advogado" (Súmula 325 do STJ), o que afasta a alegação de preclusão ante a ausência de apelação por parte do ente público.
+Agravo regimental improvido.(AgRg no AREsp 20.294/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 14/10/2011)
+Acrescente-se que o STJ pacificou a orientação de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração previstos na lei processual, e sua fixação é ato próprio dos juízos das instâncias ordinárias, às quais competem a cognição e a consideração das situações de natureza fática.
+Nesses casos, esta Corte Superior atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura neste caso. Assim, o reexame das razões de fato que conduziram a Corte de origem a tais conclusões significaria usurpação da competência das instâncias ordinárias.
+Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implicaria, necessariamente, o reexame da matéria fático-probatória, o que é obstado a este Tribunal Superior, conforme determinado na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+PROCESSUAL CIVIL. VERBA HONORÁRIA. ART. 20, § 4º, DO CPC. VALOR IRRISÓRIO. INOCORRÊNCIA. MAJORAÇÃO. SÚMULA 07/STJ.
+1. Nas causas em que for vencida a Fazenda Pública, os honorários advocatícios devem ser fixados de acordo com o artigo 20, § 4º, do Código de Processo Civil.
+2. A jurisprudência desta Corte adotou o entendimento de que os honorários advocatícios são passíveis de modificação na instância especial tão-somente quando se mostrarem irrisórios ou exorbitantes.
+3. Não sendo desarrazoada a verba honorária, sua majoração importa, necessariamente, no revolvimento dos aspectos fáticos do caso, o que é defeso no âmbito do apelo nobre, a teor da Súmula 07/STJ.
+4. Agravo regimental improvido.(AgRg no Ag 775.536/RS, Rel. Ministro CASTRO MEIRA, DJ de 29/9/2006)
+Por fim, destaco que a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+A propósito:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO COMPULSÓRIA PARA A SAÚDE. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO EMINENTEMENTE CONSTITUCIONAIS. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+(..)
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Regimental não provido. (AgRg no REsp 1.472.530/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 31/10/2014)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço parcialmente do Recurso Especial, apenas com relação à violação do art. 535 do CPC, e, nessa parte, não o provejo.
+Publique-se.
+Intimem-se.
