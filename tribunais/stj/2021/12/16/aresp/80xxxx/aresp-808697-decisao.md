@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PHONESUL COMERCIALIZAÇÃO DE EQUIPAMENTO E TERMINAIS TELEFÔNICOS SC LTDA e MAURO FREGONESEcontra decisão que inadmitiu o recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado do Paraná(TJ-PR), assim ementado (fl. 225):
+Incidente de falsidade documental julgada improcedente. Recurso de Apelação - impossibilidade de discussão de falsidade ideológica - incidente que se presta a aferir a falsidade material e não ideológica - inexistência de interesse de agir - ausência de utilidade no provimento demandado - data e assentimento aposto no documento que pode ser enfrentada na fase instrutória dos autos principais. Recurso conhecido e não provido.
+Os embargos de declaração opostos foram rejeitados (acórdão de fls. 241/248).
+As razões do recurso especial, fundamentadas na alínea "a" do permissivo constitucional, apontam a violação (i) do art. 535 do CPC/73, ao argumento de que haveria omissão quanto ao cabimento do incidente de falsidade e recusa ilegítima dos recorridos de apresentar o documento original; (ii) dos arts. 372, 387, parágrafo único, 390 do CPC/73, uma vez que o documento impugnado fora falsificado de forma ideológica e material, razão pela qual caberia o incidente pleiteado; (iii) dos arts. 358, inciso II, e359, inciso II, do CPC/73, porquanto o documento que se pretende comprovar a falsidade seria essencial para o deslinde da controvérsia.
+Decisão que inadmitiu o recurso especial às fls. 309/311.
+Contraminuta às fls. 334/345.
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação do art. 535 do CPC/73, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - g.n.)
+O recurso também aponta a violação dos arts. 372, 387, parágrafo único, 390 do CPC/73, uma vez que o documento impugnado fora falsificado de forma ideológica e materialmente, razão pela qual caberia o incidente pleiteado. O eg. Tribunal estadual, por sua vez, concluiu pelo descabimento da medida incidental, pois é reservada para as hipóteses de falsidade material. À título elucidativo, colacionam-se os seguintes trechos do v. acórdão vergastado (fl. 227):
+In casu, narra a inicial que o documento seria "fabricado", pois a correspondência aposta às folhas 26 dos autos principais seria pós datada e jamais teria contado com o assentimento, antecedente, concomitante ou superveniente dos apelantes.
+Bem de se ver que a "confecção" de documento, tal qual invoca a exordial, traduz em falso ideológico, já que a falsidade material está intimamente ligada à contrafação do documento (do ponto de vista físico),enquanto a falsidade ideológica diz respeito à declaração em si consubstanciada no documento.
+(..)
+Logo, considerando que os excipientes impugnam justamente a veracidade da declaração contida na correspondência, bem assim a sua data, não havendo questionamento quanto à essência física e/ou material do documento, não há porque se admitir o incidente.
+Com efeito, segundo entendimento do Superior Tribunal de Justiça, "A instauração de incidente de falsidade é possívelmesmo quando se tratar de falsidade ideológica, mas desde que odocumento seja narrativo, isto é, que não contenha declaração devontade, de modo que o reconhecimento de sua falsidade não impliquea desconstituição de relação jurídica, quando será necessário oajuizamento de ação própria". (REsp 1637099/BA, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/09/2017, DJe 02/10/2017).
+No caso, contudo, o eg. Tribunal estadual concluiu "(..) falece interesse de agir aos excipientes não havendo utilidade no provimento incidental, vez que o documento invocado não assume verdadeiramente relevância ao deslinde da causa"(fl. 229).
+Dessa forma, para modificar o entendimento adotado pelo eg. TJ-PR e verificar a violação dos arts.358, inciso II, e 359, inciso II, do CPC/73, seria necessário revolver o acervo fático e probatório dos autos, providência incompatível com o apelo nobre, a teor da Súmula n. 7/STJ.
+Diante do exposto, conheço do agravo para desprover o recurso especial.
+Publique-se.
