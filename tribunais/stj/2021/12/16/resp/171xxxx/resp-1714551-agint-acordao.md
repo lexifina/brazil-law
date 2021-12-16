@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer, sendo substituído pela Sra. Ministra Maria Isabel Gallotti, nos termos do disposto nos arts. 2º, § 2º, e 55 do RISTJ.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Trata-se de agravo interno interposto por SUZANO S.A. contra decisão que negou seguimento ao recurso extraordinário, assim ementada (e-STJ fl. 2.144):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. SEGUIMENTO NEGADO. VIOLAÇÃO DO ART. 5º, CAPUT E ART. 97 DA CONSTITUIÇÃO FEDERAL. CLÁUSULA DE RESERVA DE PLENÁRIO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. RECURSO NÃO ADMITIDO.
+Sustenta aagravante que seria necessário proceder a uma distinção entre o precedente de repercussão geral e o caso em análise.
+Afirma que "ao contrário do que afirma a decisão agravada,o entendimento trazido no referido precedente não poderia ter sido aplicado à presente demanda, visto que não houve, na presente hipótese, o devido enfrentamento ou fundamentação dos aspectos essenciais à solução da lide, nem mesmo de forma sucinta." (e-STJ fl. 2.160).
+Aduz que esta Cortenão explicitou em que medida o TCRA seria aplicável à questão das APPs de topo de morro, questão que seria essencial para o deslinde da controvérsia.
+Contrarrazões às fls. 2.192/2.197.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. DESPROVIMENTO DO RECLAMO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+2. Agravo interno não provido.
+VOTO
+Inicialmente, tendo em vista que a decisão impugnada foi publicada em 06/08/2021 (e-STJ fl. 2.150), cumpre atestar a tempestividade da insurgência, pois interposta no dia 27/08/2021 (e-STJ fl. 2.167), ou seja, dentro do prazo recursal.
+Não obstante as razões declinadas pela agravante, a decisão monocrática deve ser mantida.
+Isso porque, ao interpretar o art. 93, inciso IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O a rt. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118)
+Na espécie, da leitura do julgado questionado, constata-se que foram declinadas as razões pelas quais a Turma julgadora deu provimento ao recurso especial da parte ora agravada, valendo destacar o seguinte excerto(e-STJ fls. 1.276/1.281):
+"Trata-se, na origem, de Ação Civil Pública propostapelo Ministério Público do Estado de São Paulo contra Fibria Celulose S/A, alegando, em síntese, que, conforme apurado em inquérito civil, a ora recorrida explora vegetação exótica do tipo eucalipto em Áreas de Preservação Permanente, Área de Proteção Ambiental e de Reserva Legal. Em vistoria na referida fazenda, o Departamento Estadual de Proteção de Recursos Naturais constatou o cultivo de eucalipto e relatou a existência de termo de ajustamento de conduta firmado com a recorrida para a recuperação de intervenção de áreas de preservação permanente, o qual não teria sido cumprido.
+A sentença julgou parcialmente procedente a ação, nos seguintes termos:
+Por primeiro, enfatizo que a presente ação deve ser julgada com vista à aplicação do Novo Código Florestal, instituído pela Lei 12.651/2012. Este é o entendimento do E. Tribunal de Justiça de São Paulo, que tem entendido que o Novo Código Florestal deve ser aplicado a todas as ações em andamento, mesmo nos casos em que o julgamento de primeira instância analisou a demanda com base na legislação revogada.(..)Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a presente ação proposta pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra FIBRIA CELULOSE S. A., para condenar a empresa ré a promover, no prazo de 90 dias a contar do trânsito em julgado da presente sentença, a entrega ao órgão ambiental competente de projeto de retirada das árvores de eucalipto e reflorestamento das áreas de APP especificadas, em verde, no croqui de fls. 742, bem como de medidas para sanar os dois processos de erosão apontados às fls. 756/757, de caráter mecânico e vegetativo para sua contenção, iniciando os trabalhos no prazo de 30 dias a contar da aprovação do projeto por referido órgão, sob pena de multa diária de R$ 2.000,00 (dois mil reais). Em consequência, JULGO EXTINTA a presente ação, com resolução do mérito, nos moldes do preconizado no artigo 269, inciso I, do Código de Processo Civil.
+O Tribunal de origem manteve o decisum de primeiro grau por entender:
+ ..
+O STJ consolidou o entendimento de que o novo Código Florestal não pode retroagir para atingir o ato jurídico perfeito, os direitos ambientais adquiridos e a coisa julgada. Realmente, uma vez celebrado oacordo e cumpridas as formalidades legais, o Termo de Ajustamento de Conduta - TAC constitui ato jurídico perfeito, imunizado contra alterações legislativas posteriores que enfraqueçam as obrigações ambientais nele previstas. Deve, assim, ser cabal e fielmente cumprido, vedado ao juiz alterar, sob qualquer pretexto, o seu conteúdo, seja em processo de conhecimento, seja de execução, pois do contrário desrespeitaria a garantia da irretroatividade da lei nova, prevista no art. 6º da Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei 4.657/1942).
+A propósito:
+ ..
+Diante do exposto, dou provimento ao Recurso Especial.
+É como voto."
+Conclui-se, portanto, que o acórdão encontra-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. (..) FUNDAMENTAÇÃO SUFICIENTE. QUESTÃO DE ORDEM NO AGRAVO DE INSTRUMENTO 791.292 - TEMA 339. AGRAVO A QUE SE NEGA PROVIMENTO. (..) 5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que cumpre a regra do art. 93, IX, da CF a decisão judicial que seja fundamentada, ainda que de modo sucinto, sendo desnecessário o exame pormenorizado de cada uma das alegações ou provas dos autos (AI 791.292 - Tema 339 da sistemática da repercussão geral). (..) 7.
+Agravo a que se nega provimento.
+(Rcl 41510 ED, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01- 09-2020.)
+No mesmo diapasão:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TEMA 339 DA REPERCUSSÃO GERAL. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. 1.
+No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente. 2. Decisão recorrida em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL. 3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(ARE 1266033 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/08/2020, PROCESSO ELETRÔNICO DJe-204 DIVULG 14-08-2020 PUBLIC 17-08-2020.)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
