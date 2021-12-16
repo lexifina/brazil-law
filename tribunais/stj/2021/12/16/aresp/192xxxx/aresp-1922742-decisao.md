@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação daSúmula n. 283/STF (e-STJ fls. 429/432).
+O acórdão do tribunal de origem está assim ementado (e-STJ fls. 383/394):
+APELAÇÃO CÍVEL. RESCISÃO CONTRATUAL C/C INDENIZATÓRIA. COMPRA E VENDA DE IMÓVEL. DESISTÊNCIA DOS PROMITENTES COMPRADORES. 1. Pretendem os autores a rescisão contratual de compra e venda de imóvel, com a respectiva restituição de 90% do valor total pago. 2. A sentença confirmou a tutela concedida e acolheu parcialmente os pedidos iniciais, rescindindo o contrato celebrado pelas partes, com a devolução de 75% do valor vertido para os demandantes, acrescido de juros de 1% ao mês a partir da citação e correção monetária a contar da data do desembolso. 3. Apelo interposto pela parte ré, somente para que os juros de mora sejam aplicados a partir do trânsito em julgado da sentença e a correção monetária desde o trânsito em julgado ou ao menos da data da distribuição da ação. 4. Na presente hipótese, a promessa de compra e venda foi firmada em agosto de 2013, tendo a autora desistido do negócio em virtude de problemas financeiros 5. Com relação ao termo a quo para a incidência dos juros de mora, somente no caso de resolução do compromisso de compra e venda de imóvel por inciativa dos compradores, a incidência dos juros de mora é a partir do trânsito em julgado, posto que inexiste mora anterior do promitente vendedor. (STJ o REsp nº 1.740.911/DF, julgado sob a sistemática dos recursos repetitivos RELATOR: MINISTRO MOURA RIBEIRO - Julgamento: 12/06/2019). 6. Contudo, no que diz respeito à correção monetária, a jurisprudência é pacífica no sentido de que deve incidir desde o desembolso, por se tratar de mera recomposição da moeda 7. Parcial provimento ao recurso apenas para estabelecer que o termo inicial da incidência dos juros de mora é partir do trânsito julgado.
+Os embargos de declaração foram rejeitados (e-STJ fls. 401/406).
+Nas razões do recurso especial (e-STJ fls. 408/413),fundamentado no art. 105, III, alínea"a", da CF, arecorrenteaduziu ofensa aos arts. 85, §§ 1º, 2º,e 10º, e 86, caput, do CPC/2015, pois "não se pode admitir que os recorridos, promitentes compradores que inadimpliram a promessa de compra e venda quanto à obrigação do pagamento, sejam eximidos do pagamento das custas e despesas processuais, além dos honorários advocatícios de sucumbência" (e-STJ fl. 413).
+Defendeu que entendimento contrário também afrontaria o princípio da causalidade (e-STJ fl. 413).
+Nesse contexto, sustentou que teria decaído de parcela mínima dos pedidos e, caso assim não se admita, defendeuquehaveria sucumbência recíproca das partes.
+Foram ofertadas contrarrazões, requerendo o arbitramento de honorários recursais(e-STJ fls. 422/427).
+No agravo (e-STJ fls. 453/458), afirmaa presença de todos os requisitos de admissibilidade do especial.
+Contraminutaapresentada, reiterando o pedido de fixação de honorários recursais (e-STJ fls. 464/470).
+É o relatório.
+Decido.
+A Corte local não examinou o pedido da recorrente de revisão da distribuição dos encargos sucumbenciais, assentando que (e-STJ fl. 406):
+Cabe ressaltar que a parte ré não recorreu acerca dos ônus sucumbenciais, tratando-se do pedido agora uma inovação recursal em sede de embargos.
+Constata-se, portanto, que aCorte local não se manifestou quanto aos arts. 85, §§1º, e 10º, e 86, caput, do CPC/2015. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tais dispositivos carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal de origem não debateu o conteúdo doart. 85, §2º,do CPC/2015, a despeito dos aclaratórios opostos.Inafastável, dessa maneira, o óbice das Súmulas n. 282 do STF e 211 do STJ.
+Ademais, a parte não rechaçou especificamente o fundamento da inovação recursalmencionado pelo TJRJ, o que atrai o empecilho da Súmula n. 283/STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
