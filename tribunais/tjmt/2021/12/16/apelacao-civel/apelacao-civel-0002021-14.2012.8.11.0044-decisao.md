@@ -1,0 +1,44 @@
+RECURSO DE APELAÇÃO CÍVEL N.o 0002021-14.2012.8.11.0044
+Vistos etc.
+Trata-se de Recurso de Apelação Cível interposto pela Colonizadora Gaúcha Ltda. em virtude da sentença proferida pelo Juiz da 1.a Vara da Comarca de Paranatinga que, nos autos da Ação de Usucapião, julgou procedentes os pedidos formulados por Arlindo Martins Alves e sua esposa Edilene Pinesso Alves e, via de consequência, reconheceu o domínio do imóvel usucapiendo.
+Ainda consignou que era desnecessária a intimação do INTERMAT para manifestar anuência em relação ao georrefereciamento, já que o Instituto costuma ser consultado pela Procuradoria do Estado.
+Registrou que é dispensável a intimação dos confrontantes, pois em que pese cientificados da ação, nada opuseram.
+O Juiz sentenciante, também, anotou que à espécie não incide ITBI, nos termos do art. 2.°, inciso IV, da Lei 795/2011.
+Determinou, por fim, que após o trânsito em julgado da sentença, o INCRA seja intimado do teor da decisão para fins de cadastramento do imóvel rural, nos termos do art. 22, §5.°, da Lei 4.947/66, fazendo constar no mandado a identificação do imóvel, na forma do §3.°, do art. 225 da Lei 6.015/73, e o endereço completo do usucapiente.
+Diante da sucumbência, condenou a Parte Ré (Colonizadora) ao pagamento das custas processuais e honorários advocatícios, os quais fixou em 10% do valor da causa.
+Nas razões recursais, a Apelante alega que os requisitos mínimos exigidos para a instrução da ação de usucapião não foram observados pela parte Apelada.
+Aduz que o julgamento antecipado da lide cerceou o seu direito de defesa, já que o caso não versa sobre questão eminentemente de direito, mas contém fatos contraditórios que requerem o exaurimento na fase de instrução probatória.
+Assegura que os Apelados deixaram de demonstrar o lapso temporal da posse mansa e pacífica, apto ao reconhecimento da prescrição aquisitiva (art. 1.238, CC).
+Firme nesses argumentos, requer a nulidade da sentença. De modo alternativo, pugna pelo provimento do recurso a fim de que os pedidos iniciais sejam julgados improcedentes.
+Contrarrazões no ID. 99580984.
+Eis o relatório. DECIDO.
+De início, verifica-se que este Apelo não ultrapassa o Juízo de admissibilidade.
+Com efeito, a Recorrente assegura que o Apelo é tempestivo, já que a sentença foi publicada em 20/07/2020 e, diante da suspensão do prazo processual, a contagem iniciou em 21/09/2020, findando em 09/10/2020.
+Ressalta que a contagem dos prazos processuais dos processos físicos ficou suspensa em razão da pandemia da COVID-19, e está devidamente regulamentada pela Resolução 670/2020 do STF, Resolução 313/2020 do CNJ, Resolução 318/2020 do CNJ e, sobretudo, na Portaria 247/2020-PRES TJMT, Portaria 321/2020-PRES TJMT, Portaria 428/2020-PRES TJMT.
+Da leitura da Resolução 670 anexada no ID. 99580984 – Pág. 33 até 37, observa-se que a norma estabelece medidas temporárias de prevenção ao contágio pelo Novo Coronavírus (COVID-19) para o Supremo Tribunal Federal (STF). Portanto, sem olvidar que o processo em exame tramita pelo Poder Judiciário do Estado de Mato Grosso, tem-se que a Resolução não se aplica ao caso concreto.
+A Resolução 313/2020 do CNJ defendida pela Apelante dispôs sobre o regime de Plantão Extraordinário no âmbito do Poder Judiciário Nacional, para uniformizar o funcionamento dos serviços judiciários e garantir o acesso à justiça neste período emergencial, com o objetivo de prevenir o contágio pelo novo Coronavírus – Covid-19. E, nesse aspecto, suspendeu o trabalho presencial de magistrados, servidores, estagiários e colaboradores nas unidades judiciárias, assegurada a manutenção dos serviços essenciais em cada Tribunal.
+No que tange a contagem dos prazos, o artigo 5.o estabeleceu:
+Art. 5.o - Ficam suspensos os prazos processuais a contar da publicação desta Resolução, até o dia 30 de abril de 2020.
+Já a Resolução 318/2020 do CNJ, conforme se observa no ID. 99580984 – Pág. 44 até 46, trouxe em seu artigo 1.o a prorrogação dos prazos processuais para 31/05/2020.
+Art. 1o - Ficam prorrogados para o dia 31 de maio de 2020 os prazos de vigência das Resoluções n.o 313, de 19 de março de 2020, e no 314, de 20 de abril de 2020, que poderão ser ampliados ou reduzidos por ato da Presidência deste Conselho, caso necessário.
+No que tange às Portarias elencadas pela Apelante, observa-se que a de n.o 247/2020 publicada por este Tribunal, dispôs sobre medidas temporárias de prevenção ao contágio pelo COVID-19 (Novo Coronavírus), no âmbito do Poder Judiciário do Estado de Mato Grosso, e no artigo 9.o determinou a suspensão dos prazos dos processos físicos e eletrônicos durante o período de 17/03/2020 até 20/04/2020.
+Art. 9o Ficam suspensos, no âmbito do Poder Judiciário do Estado de Mato Grosso, os prazos processuais dos processos judiciais e administrativos físicos e eletrônicos, no período de 17 de março a 20 de abril de 2020, salvo quanto às medidas urgentes e processos de adolescentes em conflito com a lei com internação provisória decretada. (Redação dada pela Portaria-Conjunta n. 249, de 18 de março de 2020).
+Já a Portaria Conjunta 321/2020-PRES-CGJ/TJMT, que regulamentou a prorrogação do prazo de fechamento das portas do Palácio da Justiça, dos Fóruns das Comarcas do Estado de Mato Grosso e, também, do regime obrigatório de teletrabalho, manteve a suspensão dos prazos dos processos físicos até 31/05/2020:
+Art. 2o O art. 9o da Portaria-Conjunta n. 247, de 16 de março de 2020, passa a vigorar com a seguinte redação:
+“Art. 9o Ficam suspensos, no âmbito do Poder Judiciário do Estado de Mato Grosso, os prazos processuais dos processos judiciais e administrativos físicos, no período de 17 de março a 31 de maio de 2020, salvo quanto às medidas urgentes e processos de adolescentes em conflito com a lei com internação provisória decretada”.
+Oportuno registrar que, consoante Certidão anexada no ID. 99580984 – Pág. 1, a Ação de Usucapião tramitou de modo híbrido desde 08/06/2020.
+Certifico que, conforme Portaria-Conjunta n. N. 371 PRES-CGJ, de 08 de junho de 2020, a partir desta data estes autos passarão a tramitar virtualmente, motivo pelo qual serão admitidos apenas peticionamentos por meio do Portal Eletrônico do Advogado – PEA.
+A Portaria Conjunta n.o 428/2020-PRES, de 13/07/2020, vale anotar, dispôs sobre a reabertura dos prédios do Poder Judiciário do Estado de Mato Grosso, institui o Plano de Retorno Programado às Atividades Presenciais (PRPAP) e, no artigo 15, estabeleceu a suspensão dos prazos processuais em processos híbridos durante a primeira etapa do PRPAP, devendo ser retomada a contagem 14 dias após o início da segunda etapa do PRPAP.
+Importante anotar que os autos originam-se da Comarca de Paranatinga e, de acordo com a Portaria 534/2020-TJMT a primeira etapa do Plano de retorno Programado às Atividades Presenciais (PRPAP) naquela Comarca se deu em 24/08/2020.
+Não se pode perder de vista, no entanto, que a sentença desafiada neste Apelo foi publicada em 20/07/2020, ou seja, após o término da suspensão do prazo prevista nas respectivas normas regulamentadoras (Certidão de Publicação - ID. 99580984 – Pág. 5).
+Consoante dicção do artigo 1.003, caput, do Código de Processo Civil, é de 15 (quinze) dias o prazo para a interposição de recurso.
+De acordo com o art. 219 do CPC, a contagem do prazo processual ocorre somente nos dias úteis.
+Sob esse enfoque, levando em consideração a publicação da sentença em 20/07/2020 (segunda feira), a inexistência de Portaria ou outra normal regulamentadora disciplinando sobre a suspensão dos prazos processuais nessa data (20/07/2020), e a contagem em dias úteis do prazo quinzenal para a interposição de recurso (arts. 1.003 e 219, do CPC), dessume-se que o prazo final para protocolizar o Apelo ocorreu em 10/08/2020, e não em 09/10/2020 como defende a Apelante.
+Da análise da peça recursal, todavia, verifica-se que o recurso foi protocolizado somente em 13/10/2020 (tendo em vista a indisponibilidade do sistema PEA em 09/10/2020), ou seja, extemporaneamente.
+Feitas essas considerações, não conheço do Recurso de Apelação por ser manifestamente intempestivo.
+Diante do resultado deste julgamento, majoro os honorários advocatícios para 12% do valor atualizado da causa, eis que presentes os requisitos exigidos pelo Superior Tribunal de Justiça para a aplicação do artigo 85, § 11, do CPC, a saber: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios, desde a origem, no feito em que interposto o recurso. (EDcl nos EDcl nos EDcl no AgInt no AgInt no REsp 1714418/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/06/2021, DJe 29/06/2021).
+Publique-se.
+Intime-se.
+Cuiabá, 16 de dezembro de 2.021.
+Desa. Clarice Claudino da Silva
+Relatora
