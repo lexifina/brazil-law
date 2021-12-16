@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Roberta Daniela Mandel, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina.
+Narram os autos que a paciente cumpre pena privativa de liberdade, tendo sido beneficiada com a remição de 66 dias de pena, em razão da aprovação nas cinco áreas de conhecimento do ENCCEJA-Exame Nacional para Certificação de Competências de Jovens e Adultos (ensino médio) - (PEC n. 0001046-76.2014.8.24.0038).
+Inconformada com o cálculo do benefício, a defesa interpôs agravo de execução penal na colenda Corte de origem, que negou provimento ao apelo (Agravo de Execução Penal n. 0000217-42.2020.8.24.0020 - fl. 67):
+RECURSO DE AGRAVO DE EXECUÇÃO PENAL. DECISÃO QUE DEFERE REMIÇÃO. RECURSO DO APENADO. 1. REMIÇÃO PELO ESTUDO. APROVAÇÃO NO ENCCEJA NÍVEL MÉDIO (CNJ, RECOMENDAÇÃO 44/13; E LEP, ART. 126, § 5º). 2. CARGA HORÁRIA (CNE, RESOLUÇÃO 03/10). CONTAGEM DE TEMPO (LEP, ART.126, § 1º, I). 3. LEI DE DIRETRIZES E BASES (LEI 9.394/96). CARGA HORÁRIA (ARTS. 24, I, E 32, CAPUT). CRIANÇAS E ADOLESCENTES (ART. 4º, I). PESSOA PRESA.
+1. A aprovação do apenado no Exame Nacional para Certificação de Competências de Jovens e Adultos, nível médio, confere-lhe o direito de remir 66 dias da pena.
+2. A Recomendação 44/13 do Conselho Nacional de Justiça, em seu art. 1º, IV, expressamente aponta, como base de cálculo para o cômputo da remição decorrente de aprovação no ENCCEJA, a metade da carga horária prevista na Resolução 03/2010 do Conselho Nacional de Educação, que, para o ensino médio, é de 1200 horas, de modo que o máximo de remição a ser considerado pela aprovação no exame são 50 dias, ou seja, 10 dias para cada área de conhecimento e redação, resultado da divisão de 600 horas pelas 12 horas diárias previstas no art. 126, § 1º, I, da Lei de Execução Penal, sendo possível o acréscimo de 16 dias se a aprovação for integral e levar à conclusão do ensino fundamental (LEP, art. 126, § 5º), totalizando 66 dias de remição.
+3. Não se aplica ao preso a carga horária mínima de7200 horas, prevista para o curso regular do ensino fundamental na Lei 9.394/96, pois esta traz diretrizes nacionais para a educação básica obrigatória e gratuita dos4 aos 17 anos de idade, devendo ser aplicadas aos reeducandos as regras específicas da Educação de Jovens e Adultos.
+RECURSO CONHECIDO E DESPROVIDO.
+Daí a presente impetração, em que se alega constrangimento ilegal na consideração de 600 horas como o equivalente a 50% da carga horária do Ensino Médio, cálculo que resulta em 66 dias de remição (com o acréscimo de 1/3), quando o Superior Tribunal de Justiça firmou orientação no sentido de que as 1.200 horas do Ensino Médio já equivalem a 50% da carga horária, fazendo jus a paciente a 133 dias de remição.
+Postula-se, então, a concessão liminar da ordem, nos termos propostos.
+É o relatório.
+O presente pedido comporta pronto acolhimento, diante da jurisprudência pacificada da Corte a respeito da questão.
+De fato, na ocasião do julgamento do Habeas Corpus n. 602.425/SC, de relatoria do Ministro Reynaldo Soares da Fonseca, julgado em 10/3/2021, este Superior Tribunal firmou orientação, ressalvado meu entendimento pessoal, no sentido de quea base de cálculo de 50% da carga horária definida legalmente para o ensino fundamental deve ser considerada 1.600 horas, a qual, dividida por doze, resulta em 133 dias de remição em caso de aprovação em todos os campos de conhecimento do ENCCEJA, entendimento que, aplicado no caso do Ensino Médio, resulta no cálculo de 1.200 horas divididas por 12, que resulta em 100 dias, os quais, acrescidos de 1/3 (art. 126, § 5º, da LEP), ficam em 133, conforme sustentado na impetração.
+Ante o exposto, concedo liminarmente a ordem para determinar o cômputo de 133dias de remição à paciente pela aprovação (total) no ensino médio em 5 áreas de conhecimento do ENCCEJA.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO. REMIÇÃO PELO ESTUDO. APROVAÇÃO INTEGRAL NO ENCCEJA (ENSINO MÉDIO). CONSIDERAÇÃO DE 50% DAS 1.200 HORAS DOENSINO MÉDIO. RECOMENDAÇÃO N. 44/2013 DO CNJ. RESOLUÇÃO N. 3/2010 DO CNE. APROVAÇÃO TOTAL. CONCESSÃO DE 133 DIAS.
+Ordem concedidaliminarmente nos termos do dispositivo.
