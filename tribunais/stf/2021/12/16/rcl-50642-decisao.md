@@ -1,0 +1,83 @@
+DECISÃO:
+
+    1. Trata-se de reclamação, com pedido liminar, ajuizada pelo Instituto de Previdência do Estado do Rio Grande do Sul, em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Autos nº 5064995-29.2020.8.21.7000) que, em agravo interno, manteve decisão que negara seguimento a recurso extraordinário, com base no Tema 396 da repercussão geral (art. 1.030, I, a, do CPC).
+
+    2. A parte reclamante alega que houve violação à decisão proferida por esta Corte no julgamento do RE 603.590, paradigma do Tema 396 da repercussão geral. Aduz que foi reconhecido o direito à paridade de pensionista "cuja pensão deriva de óbito de servidor aposentado sem o cumprimento dos requisitos previstos no artigo 3º da EC 47/2005". Relata que, ante a incorreta aplicação do Tema 396, interpôs recurso extraordinário que teve seu seguimento negado em decisão que foi mantida no julgamento do agravo interno subsequente.
+
+    3. Defende que restou incontroverso nos autos de origem que o instituidor da pensão era policial civil estadual aposentado sem o cumprimento da regra do art. 3º da EC 47/2005, em razão de não ter completado trinta e cinco anos de contribuição e que o preenchimento deste requisito é irrescindível para que a pensionista tenha direito à paridade, tendo em vista que o óbito do instituidor foi posterior à EC 41/03. Argumenta que o Tribunal reclamado "invocou o TEMA 396 do STF para manter a concessão da pensão por morte em paridade com os servidores em atividade ao mesmo tempo que vulnera a regra contida no artigo 3º, incisos I e II, da EC 47/05 ao minorar o tempo nela previsto (35 anos de contribuição e 60 anos de idade), em face das regras relativas à aposentadoria especial, da qual a categoria do servidor falecido é beneficiária".
+
+    4. Requer, em caráter liminar, a suspensão da decisão reclamada, e, ao final, a sua cassação, para que outra seja proferida, em conformidade com o paradigma suscitado.
+
+    5. É o relatório. Decido.
+
+    6. Dispenso as informações, devido à suficiente instrução do feito, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único). Deixo, ademais, de determinar a citação da parte beneficiária da decisão reclamada, em face da manifesta inviabilidade do pedido.
+
+    7. Foi cumprido o requisito previsto no art. 988, § 5º, II, do CPC/2015 – esgotamento das instâncias ordinárias – para ajuizamento de reclamação por alegação de afronta a tese firmada em repercussão geral. O presente feito foi ajuizado em face de acórdão proferido em agravo interno em recurso extraordinário (conforme art. 1.030, I, a, do CPC/15).
+
+    8. No julgamento do RE 603580 (Rel. Min. Ricardo Lewandowski), paradigma do Tema 396, o Plenário do Supremo Tribunal Federal (STF) fixou tese nestes termos: “Os pensionistas de servidor falecido posteriormente à EC 41/2003 têm direito à paridade com servidores em atividade (EC 41/2003, art. 7º), caso se enquadrem na regra de transição prevista no art. 3º da EC 47/2005. Não tem, contudo, direito à integralidade (CF, art. 40, § 7º, inciso I).
+
+    9. Em se tratando de alegação de má aplicação de tese fixada em tema da repercussão geral, o Supremo Tribunal Federal entende que, além do esgotamento das instâncias, há necessidade de demonstração de teratologia na decisão reclamada quanto à subsunção do caso individual ao decidido pela Corte. Nesse sentido, cito as Rcl 49.797-ED, Rel. Min. Alexandre de Moraes; Rcl 49.284-AgR, Relª. Minª. Cármen Lúcia; Rcl 49.032-AgR, Rel. Min. Gilmar Mendes; Rcl 48.275-AgR, Rel. Min. Ricardo Lewandowski; Rcl 47.463-AgR, Rel. Min. Dias Toffoli; e Rcl 48.213-AgR, Relª. Minª. Rosa Weber, cuja ementa ora transcrevo:
+
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO CONSTITUCIONAL. AGRAVO QUE NÃO ATACA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. IRREGULARIDADE FORMAL. ART. 317, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. OBSERVÂNCIA DA SISTEMÁTICA DA REPERCUSSÃO GERAL PELO TRIBUNAL DE ORIGEM. TEMAS 181, 339 e 660. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. TERATOLOGIA NÃO IDENTIFICADA. FUNDAMENTO UTILIZADO PARA AJUIZAMENTO DA RECLAMAÇÃO NÃO ANALISADO, EXPRESSAMENTE, NO ATO RECLAMADO. AUSÊNCIA DE ADERÊNCIA ESTRITA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. INVIABILIDADE. 1. Não preenchimento do requisito de regularidade formal expresso no art. 317, § 1º, do Regimento Interno do Supremo Tribunal Federal: A petição conterá, sob pena de rejeição liminar, as razões do pedido de reforma da decisão agravada. Ausência de ataque, nas razões do agravo regimental, a todos os fundamentos da decisão agravada. 2. Firme a jurisprudência desta Suprema Corte quanto à excepcionalidade do cabimento da reclamação constitucional para observância da finalidade do sistema de repercussão geral. Além do esgotamento das instâncias ordinárias, constitui pressuposto de cabimento a demonstração de teratologia na decisão reclamada quanto à subsunção do caso individual, representado pela controvérsia objeto do recurso extraordinário, à decisão proferida em repercussão geral. Precedentes. 3. A decisão reclamada foi proferida em harmonia com as teses jurídicas firmadas no julgamento do RE 598.365-RG/MG (Tema 181), do AI 791.292-QO-RG/PE (Tema 339) e do ARE 748.371-RG/MT (Tema 660). Usurpação da competência desta Suprema Corte não demonstrada. Teratologia não identificada. 4. Nos termos da jurisprudência consolidada desta Suprema Corte, não cabe reclamação por omissão, sendo, pois, imprescindível que o ato reclamado haja abordado, expressamente e sob o ângulo trazido em sede reclamatória, o tema versado na referência paradigmática. 5. A reclamação constitucional é ação vocacionada para a tutela específica da competência e autoridade das decisões proferidas por este Supremo Tribunal Federal, pelo que não se consubstancia como sucedâneo recursal ou ação rescisória. 6. Agravo regimental não conhecido.” (Grifei)
+
+    10. No caso em exame, o órgão reclamado, com base no Tema 396 da repercussão geral, manteve a negativa de seguimento a recurso extraordinário interposto na origem. O reclamante objetivava impugnar acórdão que negou provimento ao agravo de instrumento interposto em face de decisão proferida em cumprimento individual de sentença em ação coletiva na qual reconhecido o direito à paridade da parte beneficiária. Transcrevo trecho pertinente da decisão reclamada:
+
+    2. O recurso extraordinário interposto pelo Agravante teve seguimento negado em razão do RE 603.580/RJ (TEMA 396), no qual o Supremo Tribunal Federal, em regime de repercussão geral, assentou que "Os pensionistas de servidor falecido posteriormente à EC 41/2003 têm direito à paridade com servidores em atividade (EC 41/2003, art. 7º), caso se enquadrem na regra de transição prevista no art. 3º da EC 47/2005. Não tem, contudo, direito à integralidade (CF, art. 40, § 7º, inciso I)”, em acórdão assim ementado:
+
+    [...]
+
+    O acórdão da Segunda Câmara Cível, integrado pelos embargos de declaração rejeitados, negou provimento ao agravo de instrumento interposto pelo Agravante pelos seguintes fundamentos:
+
+     ‘Sem razão a parte agravante.
+
+    A matéria alvo da controvérsia cinge-se a perquirir se a parte exequente possui o direito assegurado constitucionalmente à paridade, nos termos do título judicial transitado em julgado, proferido no Acórdão n. 70075664425. Primeiramente imperioso transcrever as diretrizes elencadas no título judicial transitado em julgado, iniciando pela sentença, a qual foi explicitada e mantida pelo Acórdão n. 70075664425. A sentença manifestou-se nos seguintes termos, no que é pertinente: (...)
+
+    Como se vê, tanto a sentença, quanto o acórdão que a confirmou, são claros no sentido que os pensionistas de policiais civis possuem o direito aos reajustes previstos nas Leis Estaduais nº 14.072/12 e nº 14.073/12, desde que tenham direito à paridade, nos termos dispostos pela Constituição Federal. O fato de o título ter mencionado um dos requisitos elencados pela Constituição (ingresso do servidor público antes da vigência da EC nº 20/1998) para aferir quem possui direito à paridade, não significa dizer que seja o único a ser analisado em cada caso concreto, sob pena, inclusive, de afronta aos dispositivos constitucionais.
+
+    Com efeito, para cada pensionista de ex-servidores da policia civil, deverão ser analisados os requisitos previstos na Constituição Federal, bem como no julgamento do RE 603580/RJ (Tema 396 do STF), para verificar se o beneficiário possui direito à paridade, uma vez que em relação ao reajustes das Leis Estaduais nº 14.072/12 e nº 14.073/12 não há mais discussão a respeito, porquanto expressamente deferido no título judicial.
+
+    A Ementa Constitucional nº 47/2005 estendeu as garantias previstas no art. 7º, da EC nº 41/2003, também, aos servidores que ingressaram no serviço público até a data da publicação da emenda (31/12/2003), garantindo, ainda, idêntico direito aos servidores que ingressaram no serviço público até a publicação da EC nº 20/1998, conforme estabelecem os seus arts. 2º e 3º: [...]
+
+    Extrai-se que as pensões decorrentes de óbitos ocorridos após a EC 41/2003, se derivadas dos proventos dos servidores falecidos que tiverem se aposentado de acordo com o artigo 3º da EC 47/2005, possuem paridade com os servidores ativos.
+
+    Em outros termos, a EC 47/2005 garantiu o direito à paridade aos pensionistas, ainda que o óbito do instituidor da pensão tenha ocorrido após a EC n. 41/03, desde que o instituidor da pensão possuísse os requisitos elencados no artigo 3º da EC 47/2005, ratificados pelo Tema 396 do STF.
+
+    Importante registrar, ainda, que a EC 47/2005 estendeu aos pensionistas apenas o direito à paridade. Não lhes concedeu o direito à integralidade. Previu que os pensionistas teriam direito à revisão do valor de sua pensão nos termos do art. 7º da EC nº 41/2003, mas não estabeleceu que perceberiam o mesmo valor dos proventos percebidos pelo servidor falecido. É necessária tal consignação para que não se confundam as regras da integralidade (critério de fixação do próprio valor do benefício) com as da paridade (critério de reajustamento dos benefícios).
+
+    Para o caso dos autos, aplica-se, ainda, a Lei Complementar n. 51/1985, a qual dispõe sobre a aposentadoria do servidor público policial, nos termos do § 4o do art. 40 da Constituição Federal:
+
+    Art. 1o O servidor público policial será aposentado: (Redação dada pela Lei Complementar n° 144, de 2014)
+
+    II - voluntariamente, com proventos integrais, independentemente da idade: (Redação dada pela Lei Complementar n° 144, de 2014)
+
+    a) após 30 (trinta) anos de contribuição, desde que conte, pelo menos, 20 (vinte) anos de exercício em cargo de natureza estritamente policial, se homem; (Incluído pela Lei Complementar n° 144, de 2014)
+
+    Com efeito, para os policiais civis não se exigem os 35 anos de contribuição previstos no artigo 3º, I, da EC 47/2005, mas sim, 30 anos, para fins de aposentadoria com proventos integrais. Tal, por conseguinte, deverá ser observado como regra especial para fins de garantir à paridade aos pensionistas.
+
+    No caso concreto, o instituidor da pensão Sr. Antonio Nilson Ferreira de Souza faleceu em 03/03/2006, conforme documento juntado no Evento 18 - Laudo 2. Verifica-se da documentação, que o Sr. Antonio ingressou no serviço público no dia 01/10/1973, possuía 31 anos e 01 meses de contribuição e 27 anos e 01 meses de efetivo exercício no serviço público, tendo, portanto, preenchido os requisitos do artigo 3º da EC 47/2005, cumulados com a regra especial prevista a na Lei Complementar n. 51/1985, razão pela qual faz jus a exequente à paridade em relação aos reajustes previstos nas Leis Estaduais nº 14.072/12 e nº 14.073/12.
+
+    [...] ‘
+
+    A hipótese, portanto, era de negativa de seguimento ao recurso extraordinário, porquanto o acórdão da Segunda Câmara Cível, ao reconhecer o direito à paridade, com o registro de que o instituidor da pensão preencheu "os requisitos do artigo 3º da EC 47/2005", não destoa da tese firmada no RE 603.580/RJ (TEMA 396). “
+
+    11. Na decisão reclamada, reconheceu-se que a EC 47/2005 garantiu o direito à paridade aos pensionistas, ainda que o instituidor da pensão tenha falecido após a EC 41/03, desde que preenchidos os requisitos elencados no art. 3º da EC 47/2005, conforme dispõe a tese fixada no Tema 396 da repercussão geral. Para aferir o cumprimento do dispositivo legal, atraiu a incidência da Lei Complementar 51/1985, que dispõe sobre a aposentadoria do servidor público policial e que exige trinta anos de contribuição para fins de aposentadoria integral. Nesse cenário, não vislumbro teratologia na aplicação do Tema 396 à hipótese dos autos, tendo em vista que o reconhecimento do direito à paridade teve por fundamento o fato de ter o instituidor da pensão preenchido os trinta anos de contribuição necessários conforme a LC 51/1985, regra especial aplicável em face da condição de policial civil. Não se vislumbra, portanto, desrespeito à autoridade da decisão proferida no âmbito desta Corte.
+
+    12. Ademais, firmada a premissa de que houve o cumprimento dos requisitos do art. 3º da EC 47/2005, a única forma de superar a conclusão do julgado seria pelo reexame do debate fático-probatório, o que é inviável em reclamação. O meio processual eleito revela-se, portanto, inadequado para o alcance da finalidade pretendida. Esse é o entendimento já manifestado por ambas as Turmas desta Corte, conforme revelam as seguintes ementas:
+
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. TEMAS 385 E 437 DA REPERCUSSÃO GERAL. IMUNIDADE TRIBUTÁRIA RECÍPROCA. CONCESSÃO DE SERVIÇOS. EMPRESA PRIVADA. ATIVIDADES EXERCIDAS COM INTUITO DE LUCRO. COBRANÇA DE IPTU. HARMONIA ENTRE O JULGADO RECLAMADO E A JURISPRUDÊNCIA DA SUPREMA CORTE. DESCABIMENTO DA RECLAMAÇÃO PARA REVOLVER O ACERVO FÁTICO-PROBATÓRIO SUBJACENTE. AGRAVO A QUE SE NEGA PROVIMENTO. 1. É inviável a reclamação quando a revisão do ato reclamado pressuponha o revolvimento do acervo fático-probatório subjacente. 2. Ao contrário do alegado, o ato impugnado está em harmonia com as teses de julgamento dos Temas 385 e 437 da sistemática da repercussão geral, uma vez que, no julgado reclamado, ficou estabelecido que a empresa reclamante constitui-se em pessoa jurídica de direito privado que atua livremente no desenvolvimento de atividade econômica, com intuito lucrativo. 3. Agravo regimental a que se nega provimento. (Rcl 36.868-AgR, Rel. Min. Edosn Fachin, Segunda Turma)
+
+    “CONSTITUCIONAL E TRIBUTÁRIO. AGRAVO INTERNO NA RECLAMAÇÃO. IPTU. SUPOSTA OFENSA AOS PRECEDENTES FIRMADOS NO RE 594.015-RG (TEMA 385 DA REPERCUSSÃO GERAL) E NO RE 601.720-RG (TEMA 437 DA REPERCUSSÃO GERAL). INOCORRÊNCIA. AUSÊNCIA DE TERATOLOGIA NA DECISÃO RECLAMADA. NÃO EXAURIMENTO DAS INSTÂNCIAS RECURSAIS NA ORIGEM. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. INVIABILIDADE. AGRAVO INTERNO A QUAL SE NEGA PROVIMENTO. 1. O Tribunal reclamado analisou o caso concreto atento ao que decidido por esta SUPREMA CORTE no RE 594.015-RG, Rel. Min. Marco Aurélio (Tema 385 da Repercussão Geral) e no RE 601.720-RG, Redator p/ o Acórdão Min. Edson Fachin (Tema 437 da Repercussão Geral). 2. Cotejando a decisão com os paradigmas de confronto apontados, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar os precedentes deste TRIBUNAL. 3. Não houve o pleno exaurimento das instâncias recursais na origem, uma vez que da decisão reclamada são cabíveis recursos na via ordinária. 4. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Pleno, DJe de 22/2/2013). 5. Recurso de agravo a que se nega provimento.” (Rcl 33.351 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma)
+
+    13.  No mesmo sentido, cito as seguintes decisões, proferidas em casos análogos ao presente, em reclamações também ajuizadas pela ora reclamante: Rcl 50662, Rel. Min. Dias Toffoli; Rcl 50665, Relª. Minª. Cármen Lúcia
+
+    14. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, ficando prejudicada a análise do pedido cautelar. Sem honorários, porquanto não citada a parte interessada.
+
+    15. Em caso de interposição de recurso, deve a parte reclamante atribuir valor à causa.
+
+    Publique-se.
+
+          Brasília, 16 de dezembro de 2021.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
