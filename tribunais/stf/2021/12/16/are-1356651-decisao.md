@@ -1,0 +1,67 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa transcrevo (eDOC 4, p. 24):
+
+    “APELAÇÃO CÍVEL - IPVA - ALIENAÇÃO FIDUCIÁRIA - PRELIMINARES - QUITAÇÃO DO DÉBITO - AUSÊNCIA DE COMPROVAÇÃO - SOBRESTAMENTO - PRELIMINARES REJEITADAS - MÉRITO - SUJEIÇÃO PASSIVA - PROPRIETÁRIO DO VEÍCULO AUTOMOTOR - CABIMENTO DA EXAÇÃO EM FACE AO CREDOR FIDUCIÁRIO - RECURSO DESPROVIDO.
+
+    1 - Não comprovada a efetiva quitação do débito tributário, afasta-se a preliminar de nulidade do feito executivo.
+
+    2 - O sobrestamento dos recursos ordinários manejados em segundo grau, em razão do reconhecimento de repercussão geral pelo STE, sob a égide do CPC/73, somente tem cabida quando a Corte Suprema determiná-lo expressamente na forma do ad. 543-B do CPC/73, vigente à época.
+
+    3 - O ad. 41, da Lei 14.937103 dispõe que "o contribuinte do IPVA é o proprietário do veículo automotor".
+
+    4- O credor fiduciário é parte legítima para figurar no pólo passivo da execução fiscal que visa o recebimento de IPVA relativo ao veículo dado em garantia, vez que tem a propriedade resolúvel do bem, havendo responsabilidade solidária entre o credor e o devedor fiduciário, nos termos da Lei Estadual n° 14.93712003.
+
+    5— Recurso desprovido.”
+
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 102, 146, III, "A" e "B", 155, III, 156, II, da Constituição Federal, buscando a declaração de inconstitucionalidade da Lei Estadual 14.937/2003.
+
+    Nas razões recursais, alega-se, em suma, que é inconstitucional a atribuição da sujeição passiva do IPVA ao credor fiduciário, seja como contribuinte ou responsável tributário ou por solidariedade, sobretudo se essa obrigação se der por meio de lei ordinária estadual.
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    Inicialmente, verifico que a presente controvérsia em nada se assemelha com a matéria objeto do Tema 685 (RE 727.851/MG) da sistemática da repercussão geral, visto não se tratar de discussão relativa à incidência de imunidade recíproca envolvendo a municipalidade.
+
+    No mérito, convém reproduzir o assentado pelo Tribunal de origem (eDOC 4, p. 27-28):
+
+    “Da análise dos autos observa-se que o objeto da irresignação recursal cinge-se a respeito da legitimidade do recorrente para figurar no polo passivo do feito executivo referente à cobrança de IPVA, de veículo automotor adquirido mediante alienação fiduciária, referente aos exercícios de 2006 a 2011.
+
+    Nesta esteira, bem é de ver que o artigo 4 1 , da Lei Estadual n° 14.937\2003, dispõe que "o contribuinte do IPVA é o proprietário do veículo automotor'.
+
+    Segundo o ad. 1.361 e § 3 1 , do Código Civil de 2002, a propriedade do bem, até o término do contrato de alienação fiduciária, pertence ao credor fiduciário:
+
+    (…)
+
+    Ao devedor fiduciário, cabe, tão somente, a posse direta e precária do bem dado em garantia:
+
+    (…)
+
+    Nessa linha, conforme a determina a legislação do Estado de Minas Gerais, o credor fiduciário e o devedor fiduciário têm responsabilidade solidária pelo pagamento do IPVA e, assim, ambos se sujeitam ao tributo e têm legitimidade para figurar no polo passivo da execução fiscal respectiva.
+
+    Cumpre salientar que, com base do artigo 24, inciso 1 e §§ 1° e 30, da Constituição Federal, é reconhecida a possibilidade de os Estados regulamentarem, de maneira plena, o IPVA, enquanto a União não exerce sua competência para estabelecer normas gerais sobre o referido tributo, razão pela qual não há que se falar em inconstitucionalidade da legislação estadual.”
+
+    Assim, observa-se que eventual divergência ao entendimento adotado pelo juízo a quo, demandaria o reexame de fatos e provas e da legislação local aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 desta Corte.
+
+    Vajam-se, nesse sentido, os seguintes precedentes:
+
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IPVA. ALIENAÇÃO FIDUCIÁRIA. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. SÚMULAS 279 E 280/STF.” 1. Para dissentir das conclusões do acórdão recorrido, seria imprescindível o reexame da legislação infraconstitucional local e do acervo fático-probatório. A hipótese atrai a incidência das Súmulas 279 e 280/STF. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015. (ARE 930732 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, DJe 03.02.20)
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IPVA. RESPONSABILIDADE POR DÉBITOS FISCAIS. ESTADO DE MINAS GERAIS. LEI ESTADUAL 14.937/2003. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. DESPROVIMENTO.” 1. É inviável o processamento do apelo extremo quando a análise implica rever a interpretação de legislação infraconstitucional de índole local, bem como reexaminar o acervo fático-jurídico subjacente aos autos. 2. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC. (ARE 1199732 AgR, de minha relatoria, DJe 12.12.19)
+
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. IPVA. Alienação fiduciária. Contribuinte. Necessidade de reexame da legislação ordinária e do contrato. Ofensa constitucional indireta ou reflexa. 1. Para ultrapassar o entendimento do Tribunal a quo, concernente ao enquadramento do credor fiduciário como proprietário do veículo automotor para fins de cobrança de IPVA, seria necessário o reexame da causa à luz da legislação ordinária (Código Civil, Decreto-lei nº 911/69, Lei Estadual nº 14.937/03) e do contrato de alienação fiduciária. 2. A afronta ao texto constitucional, se houvesse, seria reflexa ou indireta, o que não enseja a abertura da via extraordinária. Incidência das Súmulas 279 e 454 da Corte. 3. Agravo regimental não provido.” (ARE-AgR 830.373, Rel. Min. DIAS TOFFOLI, Primeira Turma, Dje 06.05.15)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULOS AUTOMOTORES – IPVA. LEGITIMIDADE PASSIVA. LEI ESTADUAL N. 14.973/2003. IMPOSSIBILIDADE DE ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.” (ARE 99.692, Rel. Min. CÁRMEN LÚCIA, Dje 04.11.15)
+
+    Ante o exposto, nego provimento ao recurso extraordinário com agravo, nos termos do art. 932, IV, a, do CPC e art. 21, §1º, do RISTF.
+
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+
+    Publique-se.
+
+    Brasília, 16 de dezembro de 2021.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
