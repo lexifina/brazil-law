@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de Pedido de Uniformização de Intepretação de Lei interpostopelo Município de Colombo/PR, com fundamento no art. 18, § 3º, da Lei 12.153/2009, sob o argumento de que há divergência na interpretação do art. 22 da LC 101/2000 entre a 4ª Turma Recursal do Paraná e a 1ªTurma Recursal do Rio Grande do Sul.
+Em síntese, alega que, enquanto a decisão paradigma entendeu por dar vigência ao art. 22 da mencionada legislação complementar federal, suspendendo as progressões/promoções do quadro funcional do Estado do Rio Grande do Sul, o acórdão ora recorrido ignorou suas determinações, do que resultou divergência entre duas Turmas Recursais no que concerne à interpretação de lei federal relativamente ao mesmo tema. Ao final foi formulado pedido para que:
+(..) seja reformado o acórdão recorrido, eis que diverge do recente entendimento da Turma Recursal do Juizado Especial da Fazenda Pública do Tribunal de Justiça do Estado do Rio Grande do Sul sobre o tema, nos termos acima explicitados, para que seja julgado totalmente IMPROCEDENTE o pedido autoral para fins de suspender a progressão/promoção na carreira, com base nas disposições do artigo 22, da Lei Complementar n.º 101/2000.
+Decisão positiva de admissibilidade às fls. 1.060, e-STJ.
+A parte requerida apresentou contrarrazões ao incidente (fls. 993-1002, e-STJ).
+É o relatório.
+Decido.
+Verifico que a matéria versada no Apelo foi submetida a julgamento no rito dos recursos repetitivos (Tema 1.075: "Legalidade do ato de não concessão de progressão funcional do Servidor Público, quando atendidos todos os requisitos legais, sob o fundamento de que superados os limites orçamentários previstos na Lei de Responsabilidade Fiscal, referentes a gastos com pessoal de Ente Público"), ocasião em que se determinou a suspensão de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão delimitada e tramitem no território nacional.
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008) que criou mecanismo que oportunizaàs instâncias de origem o juízo de retratação na forma do art. 1.040 e seguintes do CPC/2015.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia: a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
