@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III,"c", da Constituição da República, contra acórdão assim ementado:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXCLUSÃO DO SIMPLES NACIONAL. ILEGITIMIDADE PASSIVA DA UNIÃO. ATO DE AUTORIDADE DA ADMINISTRAÇÃO TRIBUTÁRIA ESTADUAL. COMPETÊNCIA.
+1. Tendo o contribuinte sido excluído do Simples Nacional por meio de ação fiscal da Secretaria da Fazenda do Estado, configurada a ilegitimidade da União Federal para figurar no polo passivo da demanda, não tendo a Justiça Federal competência para julgar o feito.
+2. Ausentes novos elementos a alterar o entendimento adotado, resta mantida a decisão que analisou o pedido de efeito suspensivo.
+3. Agravo de instrumento desprovido.
+A parte recorrente afirma que o acórdão recorrido diverge da orientação jurisprudencial do STJ pertinente à competência da Justiça Federal para análise do caso discutido nos autos.
+Alega:
+O desenquadramento da recorrente do Simples Nacional se deu por uma interpretação administrativa (ato administrativo estadual) que despersonificou as empresas para integrá-las a um suposto GRUPO ECONÔMICO FAMILIAR, cuja soma do faturamento superaria o limite estabelecido para o simples Nacional, em especial ao ICMS.
+No entanto, o desenquadramento afetou toda a forma de recolhimento complexo do sistema que envolve a Fazenda Nacional, já que outros impostos cuja exclusão se processou é de competência exclusiva do Fisco Federal.
+Jamais foi objeto de discussão o tributo ICMS !!
+O mérito da ação anulatória é a ilegalidade do ato de exclusão da empresa recorrente do SIMPLES NACIONAL, demonstrando-se que os critérios adotados pela fiscalização Estadual estão em dissonância com a legislação que rege o regime de tributação especial em comento.
+O agente fiscal do Estado do Rio Grande do Sul procedeu em investigação interna e, entendendo equivocadamente tratar-se de grupo econômico, excluiu a recorrente do Simples Nacional, usurpando competência da Secretaria da Receita Federal. Incontestável que o ato de exclusão do Simples Nacional gera efeitos para a União Federal, sendo evidente a competência da Justiça Federal para apreciar a presente demanda pois a União Federal - através da Secretaria da Receita Federal - é o ente público responsável pelo gerenciamento das informação relativas ao SIMPLES NACIONAL.
+Assim, não há dúvida do interesse da União Federal no ato de exclusão, sobretudo porque interferirá nos procedimentos de recolhimento dos tributos federais.
+Contrarrazões às fls. 147-155, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24.8.2020.
+A irresignação não merece prosperar.
+Mesmo a interposição do Recurso Especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo de lei federal que teria sido interpretado de forma divergente pelos julgados confrontados, consoante entendimento pacificado nesta eg. Corte.
+Vejamos:
+PROCESSUAL CIVIL. INDENIZATÓRIA. RESPONSABILIDADE CIVIL DO ESTADO. "CHACINA DA BAIXADA FLUMINENSE". DEFICIÊNCIA NA FUNDAMENTAÇÃO. AUSÊNCIA DE DISPOSITIVO VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. VERBA INDENIZATÓRIA. REVISÃO. REEXAME DE FATOS E PROVAS. DIVERGÊNCIA NÃO COMPROVADA.
+I - Trata-se de ação objetivando indenização por danos materiais e morais em virtude da morte da companheira do recorrente atingida por disparos de arma de fogo de policiais no episódio conhecido como "Chacina da Baixada".
+II - A sentença julgou os pedidos parcialmente procedentes. O Tribunal do Estado do Rio de Janeiro reformou parcialmente a sentença para, em síntese, mantendo os termos da condenação ao pagamento de danos materiais e morais, modificar a alíquota dos juros moratórios incidentes sobre as verbas devidas.
+III - No tocante à pretensão de revisão da indenização por danos morais, nota-se que o recorrente não apontou qual o dispositivo infraconstitucional foi supostamente violado.
+IV - Evidencia-se a deficiência na fundamentação recursal quando o recorrente não indica qual dispositivo de lei federal teria sido violado, bem como não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+V - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+VI - O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+VII - Para a caracterização da divergência, nos termos do art.1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018;REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+VIII - Ainda que se pudesse ultrapassar tal óbice, e caso conhecido o recurso, diga-se que a jurisprudência desta Corte firmou o entendimento de que é admissível o reexame do valor fixado a título de danos morais apenas em hipóteses excepcionais, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, o que não parece ser a hipótese dos autos para que se possa ultrapassar o óbice sumular n. 7/STJ.
+IX - Agravo interno improvido.
+(AgInt no AREsp 1.850.514/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 11/10/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, obrigatória a incidência da Súmula 211 do STJ.
+2. Derruir as conclusões contidas no decisum atacado e acolher o inconformismo recursal no sentido de aferir a ocorrência ou não do atraso na entrega do imóvel ou da ausência de culpa pelas recorrentes, segundo as razões vertidas no apelo extremo, seria imprescindível o reexame de cláusulas contratuais e o revolvimento de matéria fático e probatória, providências que esbarram nos óbices das Súmulas 5 e 7 desta Corte.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+4. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos das Súmulas 282 e 356 do STF, aplicável por analogia.
+5. Relativamente à comprovação dos danos materiais, a ausência de indicação dos dispositivos de lei federal violados ou em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF.
+6. Agravo interno desprovido.
+(AgInt no REsp 1.949.599/RJ, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 4/11/2021)
+Dessa forma, ante a deficiência na fundamentação, incide o óbice da Súmula 284/STF.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
