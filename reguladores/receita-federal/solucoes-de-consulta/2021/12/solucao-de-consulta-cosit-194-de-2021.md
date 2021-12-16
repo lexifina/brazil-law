@@ -1,0 +1,15 @@
+Solução de Consulta Cosit nº 194, de 14 de dezembro de 2021
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+SOCIEDADES COOPERATIVAS. INCENTIVOS FISCAIS À INOVAÇÃO TECNOLÓGICA. LEI Nº 11.196, DE 2005. EXCLUSÃO DO LUCRO LÍQUIDO. CÁLCULO.
+A pessoa jurídica poderá excluir do lucro líquido, na determinação do lucro real, o valor correspondente a até 60% (sessenta por cento) da soma dos dispêndios realizados no período de apuração com pesquisa tecnológica e desenvolvimento de inovação tecnológica classificáveis como despesa pela legislação do IRPJ, na forma do inciso I do caput do art. 17 da Lei nº 11.196, de 2005; essa exclusão poderá chegar a até 80% (oitenta por cento) dos dispêndios em função do número de empregados pesquisadores contratados pela pessoa jurídica, na forma definida em regulamento.
+Em se tratando de sociedades cooperativas, o cálculo desse benefício deve levar em consideração apenas o valor correspondente aos dispêndios computados na apuração dos resultados submetidos à tributação pelo IRPJ, ou seja, o valor correspondente aos dispêndios imputáveis às receitas provindas de atos não cooperativos, observadas as disposições do Parecer Normativo CST nº 73, de 1975.
+Dispositivos legais: Lei nº 5.764, de 1971, arts. 3º, 4º, 79, 85 a 88 e 111; Lei nº 11.196, de 2005, arts. 17, inciso I, e 19, caput e § 1º; Regulamento do Imposto sobre a Renda - RIR/2018, aprovado pelo Decreto nº 9.580, de 22 de novembro de 2018, arts. 193 e 194; art. 39 da Lei nº 10.865, de 30 de abril de 2005; Parecer Normativo CST nº73, de 1975; Parecer Normativo CST nº 38, de 1980.
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+SOCIEDADES COOPERATIVAS. INCENTIVOS FISCAIS À INOVAÇÃO TECNOLÓGICA. LEI Nº 11.196, DE 2005. EXCLUSÃO DO LUCRO LÍQUIDO. CÁLCULO.
+A pessoa jurídica poderá excluir do lucro líquido, na determinação da base de cálculo da CSLL, o valor correspondente a até 60% (sessenta por cento) da soma dos dispêndios realizados no período de apuração com pesquisa tecnológica e desenvolvimento de inovação tecnológica classificáveis como despesa pela legislação do IRPJ, na forma do inciso I do caput do art. 17 da Lei nº 11.196, de 2005; essa exclusão poderá chegar a até 80% (oitenta por cento) dos dispêndios em função do número de empregados pesquisadores contratados pela pessoa jurídica, na forma definida em regulamento.
+Em se tratando de sociedades cooperativas, o cálculo desse benefício deve levar em consideração apenas o valor correspondente aos dispêndios computados na apuração dos resultados submetidos à tributação pela CSLL, ou seja, o valor correspondente aos dispêndios imputáveis às receitas provindas de atos não cooperativos, observadas as disposições do Parecer Normativo CST nº 73, de 1975.
+Dispositivo legais: Lei nº 5.764, de 1971, arts. 3º, 4º, 79, 85 a 88 e 111; Lei nº 11.196, de 2005, arts. 17, inciso I e § 6º, e 19, caput e § 1º; Lei nº 10.865, de 2005, art. 39; Parecer Normativo CST nº 73, de 1975; Parecer Normativo CST nº 38, de 1980
+SC Cosit nº 194-2021
+[arquivo anexo: SC Cosit nº 194-2021.pdf]
+FERNANDO MOMBELLI
+Coordenador-Geral
