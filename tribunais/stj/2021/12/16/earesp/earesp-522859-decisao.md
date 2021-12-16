@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Embargos de Declaração (fls. 1.184-1.232, e-STJ)opostos contra decisão que não admitiu Embargos de Divergência em razão de óbices processuais.
+A parte embargante sustenta a ocorrência de omissões na decisão monocrática:
+OMISSÃO: INAPLICABILIDADE DA SÚMULA 315/STJ - HIPÓTESE EXPRESSAMENTE PREVISTA NO ARTIGO 1.043, § 2º, DO CPC - MATÉRIA PROCESSUAL SUJEITA AO CRIVO DOS EMBARGOS DE DIVERGÊNCIA
+NECESSIDADE DE EXPLICITAÇÃO E ACLARAMENTO QUANTO AO ALCANCE DE MODULAÇÃO DE TESE FIRMADA EM JULGAMENTO REPETITIVO: decisão embargada que não reconhece a divergência por entender que em consonância como entendimento da época-deturpação da finalidade da sistemática dos recursos repetitivos
+Requer, ao final, o acolhimento dos Embargos com efeito modificativo.
+O embargado apresentou impugnação (fls. 1.234-1.237, e-STJ).
+É o relatório.
+Decido.
+Autos conclusos para decisãoneste Gabinete em 24.11.2021.
+Os Embargos de Declaração não merecem prosperar, pois manifestam nítido caráter infringente, não se verificando quaisquerdas hipóteses permissivas do art. 1.022 do CPC/2015.
+No tocante àomissão alegada, referente àaplicação da Súmula 315 do STJ, não se verifica o aventado vício processual. Ao contrário, a decisão embargada encontra-se uníssona com os precedentes desta Corte Superior. A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RELAÇÃO TRABALHISTA.INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. AGRAVO INTERNO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA N. 182 DO STJ. EMBARGOS DE DIVERGÊNCIA. INADMISSIBILIDADE. FALTA DE EXAME DO MÉRITO RECURSAL. INCIDÊNCIA DA SÚMULA N. 315 DO STJ.
+I - Na origem, trata-se de agravo de instrumento interposto pela Caixa Seguradora S.A. contra a decisão que, nos autos da ação indenizatória por danos materiais e morais decorrentes de relação de trabalho ajuizada contra a agravante, julgou intempestivos os embargos de declaração opostos à sentença que julgou parcialmente procedente o pedido inicial, No Tribunal a quo, a decisão foi mantida. Nesta Corte, deu-se parcial provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que julgue a presente ação à luz da jurisprudência do STJ. A Terceira Turma não conheceu do agravo interno. Os embargos de divergência foram indeferidos.
+II - Segundo a jurisprudência do Superior Tribunal de Justiça, não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+III - O acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 182/STJ.
+IV - No mesmo sentido é a jurisprudência consolidada no Superior Tribunal de Justiça: (AgInt nos EDcl nos EDv nos EREsp 1615774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020, EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+V - Agravo interno improvido.(AgInt nos EREsp 1.897.901/DF, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, DJe 25/11/2021)
+Quanto aosegundo tópico da peça recursal, não há omissão que possibilite o reexame da matéria jurídica correlata ao Tema 880/STJ. O que se constata é a tentativa de se obter o rejulgamento da causa, o que não condiz com a função processual dos Embargos de Declaração. A jurisprudência desta Corte explicita:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. OMISSÃO. NÃO OCORRÊNCIA. REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. REJEIÇÃO DOS EMBARGOS.
+1. O acórdão embargado se manifestou de forma clara e fundamentada no sentido de que, na hipótese em exame, os embargos de divergência não reúnem condições de serem processados, pois o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência das Súmulas nºs 7 do STJ e 283 e 284 do STF, e, nesse sentido, não seria admissível o recurso de embargos de divergência quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia, nos termos dos arts. 1.043 do CPC/2015, 266 do RISTJ, e de precedentes deste Superior Tribunal de Justiça.
+2. Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado. Não havendo omissão, obscuridade ou contradição, impõe-se a sua rejeição.
+3. Embargos de declaração rejeitados.(EDcl no AgInt nos EREsp 1.887.858/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 2/12/2021)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Consoante jurisprudência consolidada desta Corte Superior de Justiça, a estreita via dos embargos de declaração não é adequada para o simples rejulgamento da causa, mediante o reexame de matéria já decidida.
+5. Embargos de declaração rejeitados.(EDcl no AgInt na PET no AREsp 1.750.949/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 1º/12/2021)
+Portanto, a controvérsia foi solucionada de forma a responder todos os argumentos trazidos pela parte embargante, razão por que não se configura erro material, omissão, contradição ou obscuridade, tampouco negativa de prestação jurisdicional.
+Diante do exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
