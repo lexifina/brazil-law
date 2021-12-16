@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se  de  agravo  nos  próprios  autos  (art.  1.042  do  CPC/2015)  interposto por CENTRAL ELÉTRICA ANHANGUERA S.A. (CELAN)  contra  decisão que  inadmitiu  recurso  especial porfalta de demonstração da afronta aos dispositivos legais, incidência da Súmula n. 7/STJ e impossibilidade de debate sobre dispositivo constitucional. No mesmo pronunciamento, foi acolhido seu pleito de ingresso como terceira interessada (e-STJ fls. 1.311/1.312).
+O  acórdão  recorrido  está  assim  ementado  (e-STJ  fl.  413):
+APELAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER.PROMESSA VERBAL DE DOAÇÃO DE QUOTASSOCIAIS. Preliminares de inépcia da inicial e impugnação aovalor da causa. Rejeição. Pedido que decorre logicamente dacausa de pedir e reflete o benefício econômico perseguido.Prescrição. Inocorrência. Ausência de termo certo para arealização da doação. Circunstância que atrai a aplicação do art.397 do CC. Mérito do recurso. Réu que prometeu doar ao autorparte de suas quotas em sociedades parceiras nodesenvolvimento de suas atividades. Existência dessa sociedadeou grupo que ficou suficientemente demonstrado, assim como apromessa de doação. Negócio que tem natureza de contratopreliminar e cuja validade independe da forma prevista para ocontrato definitivo. Inteligência do art. 462 do CC.Descumprimento que autoriza a execução forçada, tendo emvista que a exequibilidade da promessa não é incompatível coma liberalidade prevista no art. 538 do CC. Sentença reformada.Recurso provido.
+No  especial ,fundamentado no art.  105,  III,  "a",  da  CF (e-STJ  fls.  426/458),a recorrentesustentou ofensa ao art. 506 do CPC, afirmando que o pronunciamento judicial não poderia prejudicar terceiros.
+Em síntese, declarou serimpossível e inexequível a pretensão do autor José Tadeu ModolocontraJosé Geraldo Lopes Agapito, quanto à obrigação decumprir suposta promessa de doação verbalde ações da CELAN. Anotou que o requerido José Geraldo não seria acionista da CELAN, ostentando essa qualidade apenasPleuston Serviços LTDA., Sociedade de Energia Bandeirantes - SEBAND LTDA. e Volkswagen do Brasil Indústria de Veículos Automotores LTDA.
+Sustentou contrariedade ao art. 421 do CC/2002, pois a CELAN não possui relação jurídica com o réu José Geraldo, inexistindo "formação de contrato entre as Partes" (e-STJ fl. 436).
+Alegou violação do art. 538 do CC/2002, ressaltando a inexistência de "animus donandi", pois "nunca existiu acordo de vontades" (e-STJ fl. 438) sobre a liberalidade.
+Mencionou que a tese do autor sobre a existência da doação"foi baseada em documentos apócrifos, confeccionados de forma unilateral e com exclusiva finalidade de causar prejuízo ao réu e a terceiros" (e-STJ fl. 447), não podendo servir de prova da existência da doação.
+Apontou vulneração ao art. 5º, LIV, pois "sequer houve audiência de instrução" (e-STJ fls. 455), devendo o feito retornar a origem para completa instrução.
+No agravo em recurso especial, a recorrente sustentou a presença de todos os requisitos de admissibilidade (e-STJ fls.1.346/1.375).
+Contrarrazões aos agravos (e-STJ fls. 1.434/1.449).
+É  o  relatório.
+Decido.
+Tratam os  autos  de  ação  de obrigação de fazer ajuizada por JOSÉ TADEU MODOLO contraJOSÉ GERALDO LOPES AGAPITOconsistente na transferência de 120.006 (cento e vinte mil e seis) ações da sociedade Central Elétrica Anhanguera S.A. (CELAN), a título de doação verbal.
+O recurso especialinterposto porJOSÉ GERALDO LOPES AGAPITO foi provido, reconhecendo-se a violação do art. 1.022 do CPC e determinando-seo retorno dos autos à origem para novo julgamento dos embargos de declaração, o que prejudica o presente recurso.
+Ante o exposto, JULGO PREJUDICADO o agravo em recurso especial de CENTRAL ELÉTRICA ANHANGUERA S.A. (CELAN).
+Publique-se e intimem-se.
