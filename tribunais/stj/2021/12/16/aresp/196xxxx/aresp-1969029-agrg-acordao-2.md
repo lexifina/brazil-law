@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+Interpostos dois agravos regimentais pela mesma parte contra a mesma decisão, tem-se por configurada, por aplicação do princípio da unirrecorribilidade das decisões judiciais, a preclusão consumativa quanto ao segundo recurso, pelo exaurimento do direito ou faculdade de recorrer em virtude do seu integral exercício (efetiva interposição do primeiro agravo regimental).
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por REINALDO DIAS DOS SANTOS,contra decisãoque não conheceu do agravo em recurso especial (fls. 977-983).
+Consta dos autos que o agravante foi condenado pela prática do delito previsto no artigo 33, caput, da Lei n. 11.343/2006 às penas de 07 (sete) anos e 11 (onze) dias de reclusão, em regime inicial fechado, além de 703 (setecentos e três) dias-multa (fls. 506-526).
+A il. Defesa interpôs apelaçãoperante o eg. Tribunal de origem, que negouprovimento ao recurso,conforme v. acórdão defl. 780:
+"APELAÇÃO CRIME - TRÁFICO DE DROGAS (L N 1134306 ART 33) - CONDENAÇÃO - RECURSO DA DEFESA PRELIMINAR ARGUIÇÃO DE NULIDADE DAS PROVAS OBTIDAS A PARTIR DO INGRESSO DOS POLICIAIS NA RESIDÊNCIA INDICADA PELO RÉU - IMPROCEDÊNCIA - EXISTÊNCIA DE JUSTA CAUSA E RÉU EM ESTADO DE FLAGRÂNCIA POR OCASIÃO DA ABORDAGEM POLICIAL - NÃO CARACTERIZAÇÃO DE VIOLAÇÃO DE DOMICÍLIO - NÃO DEMONSTRAÇÃO DE ILEGALIDADE DA AÇÃO POLICIAL - PRELIMINAR REJEITADA MÉRITO PEDIDO DE ABSOLVIÇÃO - IMPROCEDÊNCIA - SUFICIENTE COMPROVAÇÃO DA MATERIALIDADE E DA AUTORIA DO TRÁFICO - VALIDADE DOS DEPOIMENTOS DOS POLICIAIS - AUSÊNCIA DE PROVAS OU MESMO DE INDÍCIOS DE QUE O ENTORPECENTE TENHA SIDO - PLANTADO - PELOS POLICIAIS NO VEÍCULO DO RÉU - CONDENAÇÃO MANTIDA PEDIDO DE REDUÇÃO DA PENA BASE PARA O MÍNIMO LEGAL - IMPROCEDÊNCIA - VALIDADE DA ELEVAÇÃO DA PENA BASE EM RAZÃO DA QUANTIDADE DA DROGA NA FORMA PREVISTA PELO ARTIGO 42 DA LEI DE DROGAS PRETENSÃO DE APLICAÇÃO DA ATENUANTE INOMINADA DO ARTIGO 66 DO CÓDIGO PENAL - IMPROCEDÊNCIA - AUSÊNC IA DE CIRCUNSTÂNCIA RELEVANTE PLEITO DE DIMINUIÇÃO DO PERCENTUAL DE AGRAVAMENTO DA PENA EM RAZÃO DA REINCIDÊNCIA - IMPROCEDÊNCIA - PERCENTUAL DE AUMENTO NO CASO ADEQUADO AS PECULIARIDADES DO CASO CONCRETO (RÉU COM DIVERSAS CONDENAÇÕES ANTERIORES TRANSITADAS EM JULGADO) RECURSO NÃO PROVIDO."
+Opostos embargos e declaração, estes foram rejeitados (fls. 826).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação aos artigos 59, 61, inciso I, 66 do Código Penal; 157 e 240, §1º do Código de Processo Penal, aduzindo que há nulidade das provas colhidas na apreensão domiciliar, e que careceu de fundamentação para a entrada dos policiais no domicílio; a dosimetria da pena não foi fixada de forma idônea e proporcional, pois "o correto é o aumento e diminuição da pena por atenuante ou agravante na fração de 1/6" (fl. 868) e que independentemente da quantidade, a droga aprendida possuía baixo potencial lesivo e ofensivo, e, por fim, que deveria ter sido aplicada a atenuante prevista no artigo 66 do Código Penal.
+Por fim, a Defesa pleiteou a reforma do v. acórdão vergastado, para que seja reconhecida a ilegalidade das provas obtidas pela violação de domicilio, e, subsidiariamente, alteração da dosimetria da pena.
+Apresentadas as contrarrazões (fls. 884-889), sobreveio juízo negativo de admissibilidade fundado: i) na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicariam em revolvimento fático-probatório e ii) na incidência da Súmula 83/STJ, ao argumento de que o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior e iii) na incidência da Súmula 283/STF, pois a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (fls. 893-898).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 907-940). Contraminuta às fls. 948-951.
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 973-975).
+Na decisão agravada, da minha lavra, o agravo em recurso especial não foi conhecido porque não foraminfirmados especificamente os fundamentos da decisão impugnada (fls. 977-983).
+Opostos embargos de declaração, estes foram rejeitados (fls. 1.006-1.008).
+A Defesa interpôs agravo regimental às fls. 1.013-1.036, no qual alegou que restaram infirmados os fundamentos da decisão de inadmissibilidade.
+Nas razões deste regimental (fls. 1.037-1.060), alega, novamente, que restaram infirmados os fundamentos da decisão de inadmissibilidade.
+Por manter o r. decisum, apresento o feito à eg. Turma, para julgamento.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+Interpostos dois agravos regimentais pela mesma parte contra a mesma decisão, tem-se por configurada, por aplicação do princípio da unirrecorribilidade das decisões judiciais, a preclusão consumativa quanto ao segundo recurso, pelo exaurimento do direito ou faculdade de recorrer em virtude do seu integral exercício (efetiva interposição do primeiro agravo regimental).
+Agravo regimental não conhecido.
+VOTO
+Em que pesem os argumentos do agravante, o recurso não merece conhecimento.
+Em face de decisão monocrática proferida às fls. 977-983, que não conheceu do agravo em recurso especial interposto pelo ora agravante, Defesa interpôs um primeiro agravo regimental (fls. 1.013-1.036), posteriormente interpondo novo agravo regimental, repetindo as razões do primeiro (fls. 1.037-1.060).
+Interpostos dois agravos regimentais pela mesma parte contra a mesma decisão, tem-se por configurada, por aplicação do princípio da unirrecorribilidade das decisões judiciais, a preclusão consumativa quanto ao segundo recurso, pelo exaurimento do direito ou faculdade de recorrer em virtude do seu integral exercício (efetiva interposição do primeiro agravo regimental).
+A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL CONTRA ACÓRDÃO DA QUINTA TURMA. NÃO CABIMENTO. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES JUDICIAIS. PRECLUSÃO CONSUMATIVA. INEXISTÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Interpostos dois agravos regimentais pela mesma parte contra a mesma decisão, tem-se configurada, por aplicação do princípio da unirrecorribilidade das decisões judiciais, a preclusão consumativa quanto ao segundo recurso, pelo exaurimento do direito ou faculdade de recorrer em virtude do seu integral exercício (efetiva interposição do primeiro agravo regimental).
+II - Nos termos do art. 258, caput e § 1º, do RISTJ, ainda quando não houvesse ocorrido preclusão consumativa da matéria, faleceria competência à c. Terceira Seção para apreciar o pedido, porquanto o órgão colegiado que seria competente para o julgamento do pedido ou recurso seria a própria Quinta Turma, a qual efetivamente julgou o agravo regimental.
+III - Inexiste ilegalidade no exame do mérito do recurso especial pela Quinta Turma, não sendo outra, aliás, a exata finalidade a que se consagra o agravo regimental, isto é, permitir cognição e julgamento do órgão colegiado sobre matérias que foram decididas monocraticamente, em nítida materialização do princípio da colegialidade.
+Agravo regimental não conhecido" (AgRg no AgRg no REsp n. 1.765.139/PR, Quinta Turma, Rel. Min. Felix Fischer, DJe de 15/09/2020).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DE APELAÇÃO APRESENTADAS PELA DEFENSORIA PÚBLICA. NOVAS RAZÕES DE APELAÇÃO OFERTADAS PELO ADVOGADO ANTERIORMENTE CONSTITUÍDO. PRECLUSÃO CONSUMATIVA. INTERPOSIÇÃO DE DOIS RECURSOS. NÃO CONHECIMENTO DO ÚLTIMO INTERPOSTO. AGRAVO IMPROVIDO.
+ ..
+2. O princípio da unirrecorribilidade das decisões veda, em regra, a interposição simultânea de recursos pela mesma parte contra uma única decisão judicial, operando-se, em relação ao segundo recurso, a preclusão consumativa, a obstar seu conhecimento.
+3. Agravo regimental improvido" (AgRg no AREsp n. 1.183.408/SC, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 15/05/2018).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE E PRECLUSÃO CONSUMATIVA. DOSIMETRIA DA PENA E SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A interposição de dois recursos pela mesma parte contra a mesma decisão inviabiliza o exame daquele que tenha sido protocolizado por último, em razão da ocorrência de preclusão consumativa e ante a aplicação do princípio da unirrecorribilidade das decisões.
+ ..
+3. Agravo regimental desprovido" (AgRg nos EDcl no AREsp n. 646.183/RJ, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 15/12/2017)
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
