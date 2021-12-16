@@ -1,0 +1,9 @@
+DECISÃO
+ALANCARDEQUE NUNES DE FREITAS e RODRIGO DA SILVA FERREIRA alegam sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 2161070-60.2021.8.26.0000, em que foram mantidas suas prisões preventivas.
+Depreende-se dos autos que " o  Ministério Público, aos 29 de abril de 2.020, ofereceu denúncia em face dos pacientes, pelo delito do art. 157, § 3º, II, c.c. o art. 29, ambos do Código Penal, por duas vezes em concurso formal (págs. 1418/1427) e, por decisão de 4 de maio de 2020, foi recebida a denúncia e determinada a citação dos pacientes para apresentarem resposta à acusação" (fl. 79).
+Neste writ, "sustenta o impetrante que os pacientes estão sofrendo constrangimento ilegal consubstanciado no excesso de prazo para a formação da culpa, pois encontram-se segregados há mais de 1 ano e ainda não houve o encerramento da instrução criminal. Postula, destarte, o relaxamento da custódia cautelar" (fl. 87).
+Todavia, verifico que a inicial do mandamus não veio acompanhada de cópia do decreto preventivo e das decisões que mantiveram a prisão cautelar, o que prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que estaria sendo vítima o paciente.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+É cogente ao impetrante - sobretudo quando se tratar de advogado constituído - apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
