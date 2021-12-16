@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Pedido de Uniformização de Interpretação de Leiproposto contra decisão de Turma Recursal assim ementada:
+RECURSO INOMINADO. FAZENDA PÚBLICA. SENTENÇA QUE EXTINGUIU O PROCESSO COM RESOLUÇÃO DO MÉRITO FACE O RECONHECIMENTO DA PRESCRIÇÃO. INSURGÊNCIA RECURSAL DA PARTE AUTORA. SERVIDOR PÚBLICO DO MUNICÍPIO DE MARINGÁ. PROGRESSÃO FUNCIONAL POR TEMPO DE SERVIÇO. PRESCRIÇÃO DE FUNDO DE DIREITO AFASTADA. APLICAÇÃO DA PRESCRIÇÃO DE TRATO SUCESSIVO. SÚMULA Nº 85 DO C. STJ. PRECEDENTES DA 4ª TURMARECURSAL DO ESTADO DO PARANÁ. NULIDADE DA SENTENÇA. FEITO QUE COMPORTA JULGAMENTO NO ESTADO QUE SE ENCONTRA. TEORIA DA CAUSA MADURA. ARTIGO 1.013, §4º, DO CPC. AVALIAÇÕES A TÍTULO DE PROGRESSÃO QUE DEVEM SER REALIZADAS A CADA DOIS ANOS A CONTAR DA DATA DE ADMISSÃO DO RECLAMANTE. MORA DA ADMINISTRAÇÃO PÚBLICA VERIFICADA. DIFERENÇAS SALARIAIS DEVIDAS SE CONSTATADO O DIREITO ÀS PROGRESSÕES. RECURSO CONHECIDO E PROVIDO.
+A parte recorrente alega (fls. 188-200, e-STJ):
+Trata-se de ação contra o Município de Maringá a qual pretende seja determinado ao ente público a realização de progressão funcional de servidores municipais, de maneira retroativa, a abarcar os últimos 30 anos. Do ano de 1998 até a presente data, haveria progressão funcional de quase 5 mil servidores municipais. O impacto com gasto de pessoal é indelével e irreparável.
+Carrega a causa de pedir a ilegalidade do decreto municipal 1.666/02, que teria extrapolado seu limite regulamentar, inovando na ordem jurídica, quando impôs a estabilidade como condição para a progressão. A LC 240/98 (antiga Lei de Cargos, Carreira e Remuneração -PCCR) não impunha tal condição para progressão e por isto quem laborassem por dois anos no exercício do cargo teria direito à avaliação de progressão funcional. Logo, o vício do decreto revela um descompasso entre o direito do servidor público local previsto em lei e a norma infralegal.
+A realização da primeira progressão pela Administração foi feita somente ao final de cinco anos da investidura: iniciou-se após o fim do prazo de estabilidade (três anos) e findo os próximos dois anos exigidos na lei. Em outras palavras, o Município realizou a primeira progressão ao fim dos 5 (cinco) primeiros anos de cargo público quando, em tese, deveria ter realizado ao concluir o primeiro biênio. Pois bem.
+Decisão positiva de admissibilidade pela Turma Recursal (fls. 575-576, e-STJ).
+A parte recorrida apresentou contrarrazões (fls. 579-596, e-STJ) ao Pedido de Uniformização de Interpretação de Lei, pugnando pelo não conhecimento do incidente.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 1º.12.2021.
+Os arts. 18, § 3º, e 19 da Lei 12.153/2009 estabelecem que os Pedidos de Uniformização, inclusive quando dirigidos ao Superior Tribunal de Justiça, se destinam a dirimir divergência sobre a interpretação de lei federal, situação que não se afigura no caso dos autos.
+O acórdão combatido decidiu conforme o trecho abaixo:
+Da análise dos autos, verifica-se que a questão encontra fundamento na Lei Municipal nº 240/1998, que regulamenta o Plano de Cargos, Carreira e Salários dos Servidores da Administração Direta, Indireta e Fundacional do Município de Maringá, que estabelece em seus artigos 31 e 32 os critérios para aquisição do direito à progressão por tempo de serviço ao funcionário estável nos seguintes termos:
+Art. 31 - O desenvolvimento profissional do funcionário no serviço público municipalocorrerá mediante progressão e promoção, na forma regulamentar.
+Art. 32 - A progressão é a passagem do funcionário de um nível para outro, dentro do mesmo cargo, cumprido o interstício de 02 (dois) anos de efetivo exercício, de acordo com critérios especificados para a avaliação de desempenho, ocorrendo:
+I - por merecimento, mediante a avaliação de mérito, limitando-se a, no máximo, dois níveis por interstício;
+II - por antiguidade, mediante o cômputo do tempo de efetivo exercício no cargo, limitando-se a, no máximo, um nível por interstício.
+(..)
+Todavia, a Administração Pública não cumpriu com seu dever legal, fundamentando-se no art. 45 da Lei Complementar 966/2013, o qual dispõe que as progressões somente serão efetivadas aos servidores que já concluíram com êxito o período de estágio probatório. Ressalte-se que a restrição estabelecida pela Lei Complementar supra, já era prevista pelo artigo 2º do Decreto 1.666/2002.
+Como o próprio requerente reconhece, a sua insurgência diz respeito a interpretação da lei municipal, e não a lei federal, pois "a ilegalidade do decreto municipal 1.666/02, que teria extrapolado seu limite regulamentar, inovando na ordem jurídica, quando impôs a estabilidade como condição para a progressão. A LC 240/98 (antiga Lei de Cargos, Carreira e Remuneração -PCCR) não impunha tal condição para progressão e por isto quem laborassem por dois anos no exercício do cargo teria direito à avaliação de progressão funcional. Logo, o vício do decreto revela um descompasso entre o direito do servidor público local previsto em lei e a norma infralegal".
+Logo, trata-se controvérsia acerca de aplicação de lei municipal, o que não se coaduna com o incidente processual ora apresentado.
+Ante o exposto, indefiro liminarmente o Pedido de Uniformização de Interpretação de Lei. Prejudicada a análise do pedido de liminar.
+Publique-se.
+Intimem-se.
