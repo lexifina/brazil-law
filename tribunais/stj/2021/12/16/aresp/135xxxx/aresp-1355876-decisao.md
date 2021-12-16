@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por BANCO DO BRASIL S.A, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 71):
+AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE CONTRATO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PRAZO PARA APRESENTAÇÃO.
+INTEMPESTIVIDADE. INTELIGÊNCIA DOS ARTIGOS 523 E 525 DO CPC/2015. DECISÃO AGRAVADA REFORMADA.
+Conforme se observa da leitura conjunta dos artigos 523 e 525, ambos do CPC/2015, o prazo para apresentação de impugnação inicia-se após o escoamento do prazo do artigo 523, independentemente de penhora e/ou nova intimação. Logo, não apresentada impugnação no prazo legal, afigura-se descabido o seu recebimento e processamento, na esteira do que restou decidido em primeira instância.
+AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO.
+Nas razões do recurso especial, a agravante alega violação aos arts. 220, 523 e 525 do CPC/15. Para tanto, sustenta, em síntese, que, em razão do recesso forense, a impugnação ao cumprimento de sentença é tempestiva, pois "a parte exequente deverá requerer o cumprimento, sendo o executado intimado para pagar o débito no prazo de 15 (quinze) dias" - (fl. 84)
+Foram apresentadas contrarrazões às fls. 95/99.
+É o relatório.
+Quanto ao prazo para apresentação da impugnação ao cumprimento de sentença, a Corte de origem consignou que o mesmo já havia se escoado, pois a parte permaneceu inerte após ter sido intimada duas vezes, sendo prescindível para o início da contagem do prazo a realização da penhora, como se verifica do trecho do acórdão a seguir (fls. 75/76):
+"No presente caso, em 14/7/2010 fora proferida sentença acolhendo em parte a pretensão inicial decorrente de revisão contratual, com determinação de liquidação da sentença (mov. 1.1), tendo posteriormente sido objeto de recurso de apelação e embargos de declaração nesta Corte, os quais não foram acolhidos (mov. 1.2).
+Retornando ao primeiro grau, a parte autora peticionou requerendo o cumprimento da sentença (mov. 1.5), em 18/11/2014 e posteriormente em 6/7/2016, sendo, contudo, que a parte ré permaneceu inerte (mov. 8 e 10), mesmo após duas vezes ter sido intimada.
+Prosseguindo o feito, apenas em 18/1(2/2017 apresentou impugnação ao cumprimento de sentença (mov. 55).
+Pois bem.
+De acordo com a regra dos artigos 523 c/c 525, ambos do CPC/15, transcorrido o prazo de 15 dias, contados da decisão definitiva para o pagamento, sem qualquer manifestação, no caso os embargos de declaração opostos em face de acórdão proferido neste Corte em 19/7/2012 (conforme certidão de fl. 355/TJ, mov. 1.2), é que se iniciou o prazo para impugnação ao cumprimento de sentença, o qual findou-se em 3/8/2012.
+Logo, é inequívoca, a meu ver, a intempestividade do aludido incidente, apresentado em 8/1Q/2017 (mov. 55). O supracitado artigo 525 é explícito ao dispor que a impugnação deveria ter sido apresentada no prazo de quinze dias, tão logo findado o prazo para pagamento voluntário, independentemente de penhora ou nova intimação."
+Ocorre que o acórdão recorrido está em consonância com o posicionamento desta Corte de Justiça, a qual interpreta que "mesmo que o executado realize o depósito para a garantia do juízo no prazo para pagamento voluntário, o prazo para a apresentação da impugnação somente se inicia após transcorridos os 15 (quinze) dias contados da intimação para pagar o débito, previsto no art. 523 do CPC/15, independentemente de nova intimação" - (REsp 1761068/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020).
+Sobre o tema, confiram-se:
+AGRAVO INTERNO. RECURSO ESPECIAL. REVISIONAL. CONTRATO BANCÁRIO. EXECUÇÃO. ALEGAÇÃO DE INTEMPESTIVIDADE DA IMPUGNAÇÃO. SÚMULA 83/STJ. ALEGADO CARÁTER GENÉRICO DA IMPUGNAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO NÃO IMPUGNADO. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL (CPC)/2015.
+1. Na vigência do CPC de 1973, o prazo para apresentação de impugnação ao cumprimento de sentença é contado a partir do depósito garantidor do juízo, sem necessidade, nessa situação, de intimação do devedor, tampouco de lavratura de termo de penhora.
+2. Na vigência do CPC de 2015, o prazo (15 dias) para apresentação de impugnação inicia-se após o final do prazo (15 dias) para pagamento voluntário, não dependendo de nova intimação nem sendo influenciado pelo fato de ter havido garantia da execução (penhora ou depósito). Precedentes.
+3. Caso em que, na vigência do CPC de 2015, a impugnação foi apresentada dentro do prazo de 15 dias contado do término do prazo (15 dias) para pagamento voluntário.
+(..)
+(AgInt no REsp 1854224/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/03/2021, DJe 06/04/2021)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. PRAZO. TERMO INICIAL. ART. 525 DO CPC/15. GARANTIA DO JUÍZO. INSIGNIFICÂNCIA. CASO CONCRETO. TEMPESTIVIDADE.
+1. Cuida-se de ação de revisão de benefício de complementação de aposentadoria, em fase de cumprimento de sentença.
+2. Recurso especial interposto em: 21/06/2017; aplicação do CPC/15.
+3. O propósito recursal consiste em definir se o depósito para garantia do juízo, realizado dentro dos 15 (quinze) dias do prazo para o pagamento voluntário, previsto no art. 525 do CPC/15, é capaz de modificar o termo inicial do prazo para a apresentação da impugnação ao cumprimento de sentença.
+4. Na vigência do CPC/73, prevaleceu na Segunda Seção que, havendo depósito judicial do valor da execução, a constituição da penhora é automática, independente da lavratura do respectivo termo, motivo pelo qual o prazo para oferecer embargos do devedor deveria ser a data da efetivação do depósito judicial da quantia objeto da ação de execução. Precedente.
+5. Referida orientação tinha em vista a previsão do art. 738, I e II, do CPC/73, em sua redação originária, anterior à reforma da Lei 11.232/05, que estabelecia a garantia do juízo como pressuposto dos embargos do devedor e que previa que o prazo para a sua apresentação de embargos tinha início com a intimação da penhora ou do termo de depósito judicial.
+6. No CPC/15, com a redação do art. 525, § 6º, do CPC/15, a garantia do juízo deixa expressamente de ser requisito para a apresentação do cumprimento de sentença, passando a se tornar apenas mais uma condição para a suspensão dos atos executivos.
+7. Por essa razão, no atual Código, a intimação da penhora e o termo de depósito não mais demarcam o início do prazo para a oposição da defesa do devedor, sendo expressamente disposto, em seu art. 525, caput, que o prazo de 15 (quinze) dias para a apresentação da impugnação se inicia após o prazo do pagamento voluntário.
+8. Assim, mesmo que o executado realize o depósito para garantia do juízo no prazo para pagamento voluntário, o prazo para a apresentação da impugnação somente se inicia após transcorridos os 15 (quinze) dias contados da intimação para pagar o débito, previsto no art. 523 do CPC/15, independentemente de nova intimação.
+(..)
+(REsp 1761068/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
