@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RUAN KLEBER DOS SANTOS, contra decisão de fls. 22/24, por meio da qual indeferi liminarmenteohabeas corpus, entendendo tratar-se de mera reiteração de pedidos já analisados por esta Corte Superior.
+Nas razões do regimental, o agravante alega que não há reiteraçãode pedidos, poiso primeiro habeas corpus foi impetradoquando ainda estava solto, não tendo sido analisada a irresignação contra o decreto de prisão preventiva após a sua segregação.
+Requer, assim, a reforma da decisão impugnada ou sua submissão a julgamento pelo colegiado, com a apreciação do mérito do writ.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. MERA REITERAÇÃO DE PEDIDO JÁ ANALISADO NESTA CORTE SUPERIOR. INADMISSIBILIDADE. AGRAVO DESPROVIDO.
+1. Os pedidos aqui formulados são idênticos aos manejados nos autos do HC 689.508/SP, o qual não foi conhecido por ser substitutivo de recurso, todavia teve o mérito de todas as questões trazidas analisado em decisão de minha relatoria, lembrando que ambos os feitosimpugnam o mesmo decreto prisional.Nesse contexto, é certa a inadmissibilidade do conhecimento do presentehabeas corpus, tendo em vista a impossibilidade de reiteração de pedidos, conforme a jurisprudência pacífica deste Tribunal.
+2. Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos apresentados pelo agravante, o presente agravo regimental não merece provimento, devendo a decisão ser mantida por seus próprios fundamentos.
+No caso dos autos, consoante destacado na decisão agravada, o presente recurso traz pedido idêntico ao formulado no HC 689.508/SP, o qual não foi conhecido por ser substitutivo de recurso, todavia teve o mérito de todas as questões trazidas analisado em decisão de minha relatoria. Cumpre destacar que ambos os feitos impugnamo decreto de prisão preventiva na Ação Penal n. 1502480-90.2020.8.26.0642.
+Assim, considerando que as questões aqui trazidas já foram analisadas por esta Corte Superior, que exauriu sua jurisdição, fica inviabilizada sua nova apreciação, diante de inadmissível reiteração de pedidos, restando, portanto, obstaculizado o conhecimento deste recurso.
+Nesse contexto, mantenho o entendimento de inadmissibilidade do conhecimento do presente recurso, tendo em vista a impossibilidade de reiteração de pedidos já analisados nesta Corte, conforme a jurisprudência pacífica deste Superior Tribunal de Justiça, consoante se extrai dos seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT INDEFERIDO LIMINARMENTE.NULIDADE. SUPOSTA INVASÃO DE DOMICÍLIO. MATÉRIA NÃO EXAMINADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA DA PENA. ALEGADO EQUÍVOCO NO RECONHECIMENTO DA AGRAVANTE DA REINCIDÊNCIA. MATÉRIA ANALISADA EM OUTRO HABEAS CORPUS IMPETRADO PERANTE O STJ. AGRAVO IMPROVIDO.
+1. As alegações concernentes ao erro nas investigações, invasão de domicílio, nulidade de provas e pedido de substituição da prisão preventiva por domiciliar, nos termos do art. 318, II, do CPP, não foram apreciadas pela Corte de origem, o que afasta a competência do Superior Tribunal de Justiça STJ para análise da matéria, sob pena de incorrer em supressão de instância (HC 652.864/MG, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 18/5/2021, DJe de 24/5/2021).
+2. No caso, a tese de nulidade do feito em razão da suposta invasão domiciliar pela polícia não foi submetida e, por consequência, debatida pela Corte local em sede de apelação, visto que constou das razões recursais tão somente o pleito de absolvição pela ausência de provas e, subsidiariamente, temas acerca da dosimetria da pena, de modo que o tema acerca da suposta nulidade não pode ser examinado diretamente por esta Corte Superior, sob pena de incidir-se em indevida supressão de instância.
+3. Como é de conhecimento, "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019).
+4. Trata-se de mera reiteração o alegado equívoco no reconhecimento da agravante da reincidência, pois o tema já foi rechaçado por esta relatoria, nos autos do HC n. 677.547/SP, impetrado pelos mesmos causídicos e contra o mesmo acórdão de segundo grau, bem como apresenta as mesmas partes, causa de pedir e pedido.
+5. Agravo regimental improvido.
+(AgRg no HC 702.277/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 12/11/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ANÁLISE DE QUESTÕES JÁ EXAMINADAS NO HC N. 694.828/MG. REITERAÇÃO DE PEDIDO.DESCABIMENTO. INSURGÊNCIA QUANTO À DATA PARA JULGAMENTO DO MÉRITO DO WRIT NA ORIGEM. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. As alegações suscitadas neste writ , concernentes ao disposto no art. 580 do Código de Processo Penal e aos requisitos da prisão preventiva, já foram objeto de exame no HC n. 694.828/MG, impetrado em favor da ora Agravante. Assim, configurada a hipótese de reiteração de pedido, deve ser mantida a decisão agravada que indeferiu liminarmente o writ.
+2. No âmbito do agravo regimental, não se admite que a Parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir formuladas na petição inicial ou no recurso.
+3. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no HC 696.965/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 4/11/2021).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
