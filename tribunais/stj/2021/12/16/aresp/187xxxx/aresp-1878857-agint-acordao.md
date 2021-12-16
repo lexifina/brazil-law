@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOAGRAVO EMRECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+1. O Superior Tribunal de Justiça entende ser inviável o conhecimento do recurso especial quando os dispositivos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de embargos de declaração, haja vista a ausência do requisito do prequestionamento. Logo, incide a Súmula n. 211/STJ.
+2. Para afastar os fundamentos estabelecidos no acórdão recorrido, demandaria o revolvimento das provas constantes dos autos, o que é defeso na via eleita, conforme a Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial.".
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado peloMUNICÍPIO DE SÃO JOSÉ DO RIO PRETOcontra decisão que não conheceu do recurso especial.
+Em suas razões recursais, o agravante defende que seria inaplicável ao caso oóbicedaSúmula n. 211 do STJ.
+Defende, também,que não se buscaria o revolvimento de matéria probatória, sendo queo objetivo do recuso especial seria tão somente a correta aplicação dos dispositivos infraconstitucionais apontados como violados.
+Assevera, "não obstante a matéria de fundo possuir índole constitucional, que o E. Supremo Tribunal Federal (STF) decidiu o Tema n. 379, por cautela foi interposto Recurso Especial, haja vista o teor da Súmula 126 deste C. STJ"(e-STJ, fl. 560).
+Por fim,aponta a existência defato novo, consistente na modulação dos efeitosno RE n. 605.552, Tema n. 379 do STF. No contexto, argumenta que o STF decidiu que o critério material que concerne à "manipulação de medicamentos é "prestar serviço". Assim, o imposto incidente (ou seja, o entendimento da Corte a que se refere o Acórdão modulatório e sua ementa) é o ISSQN!" (e-STJ, fl. 562).
+Semimpugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOAGRAVO EMRECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+1. O Superior Tribunal de Justiça entende ser inviável o conhecimento do recurso especial quando os dispositivos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de embargos de declaração, haja vista a ausência do requisito do prequestionamento. Logo, incide a Súmula n. 211/STJ.
+2. Para afastar os fundamentos estabelecidos no acórdão recorrido, demandaria o revolvimento das provas constantes dos autos, o que é defeso na via eleita, conforme a Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial.".
+3. Agravo interno a que se nega provimento.
+VOTO
+Inicialmente, como consignado na decisão inaugural,verifica-se queosarts.105, 106 e 110 do Código Tributário Nacionale atesea eles vinculada, bem como a alegaçãode inconstitucionalidade do art. 13 Complementar n. 147/2017,não foram objeto de debate e deliberação pela Corte de origem, nem mesmo implicitamente, mesmo com a oposição dos embargos de declaração, o que redunda em ausência de prequestionamento da matéria,aplicando, desse modo, a orientação firmada na Súmula n. 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA. REMUNERAÇÃO DOS EMPREGADOS. AUSÊNCIA DE OMISSÃO, ART. 535, II, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. A indicada afronta do art. 458 do CPC não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+ ..
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.583.885/DF, relator MinistroHerman Benjamin, Segunda Turma, DJe de 1º/6/2016).
+Ademais, o STJ possui o entendimento de que,"para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem com o seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no AREsp n. 1.064.761/PE, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 24/10/2017).
+No ponto:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. CDC. REPETIÇÃO DE INDÉBITO. COBRANÇA INDEVIDA. OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não tendo o Tribunal de origem emitido nenhum juízo de valor acerca do dispositivo legal tido por violado no acórdão recorrido, no que concerne à legalidade da cobrança com base na tarifa mínima e na tarifa progressiva, resta ausente seu necessário prequestionamento, incidindo na espécie as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo não provido.
+(AgRg no AREsp n. 266.103/RJ, relator Ministro Arnaldo Esteves Lima, Primeira Turma,DJe de 20/3/2013).
+Do mesmo modo, inviável afastar a Súmula n. 7 do STJ. Ao tratar do tema dos autos -a cobrança do ISS ante a convalidação dos atos praticados anteriormente a 7/8/2014, por força da LC n. 147/2014 -, a Corte local fundamentou suas conclusões nos seguintes termos(e-STJ, fls. 393-394):
+Dentre os inúmeros aspectos abordados no julgamento da causa, foi reconhecida, por força do art. 13 da LC nº 147/14,a convalidação de todos os atos praticados anteriormente a 07/08/2014 "referentes à apuração e ao recolhimento dos impostos e contribuições da União, dos Estados, do Distrito Federal e dos Municípios mediante regime previsto na Lei Complementar no 123, de 14 de dezembro de 2006, e alterações posteriores, inclusive em relação às obrigações acessórias, pelas empresas que desenvolveram as atividades de comercialização de medicamentos produzidos por manipulação de fórmulas magistrais" (g.n.).
+Ou seja, à apelada, empresa de pequeno porte dedicada à manipulação farmacêutica e optante pelo regime tributário especial do "Simples Nacional", foi reconhecida a convalidação dos recolhimentos de impostos e contribuições devidos a todas as esferas federativas anteriormente a 07/08/2014. Deste modo, se antes desta data a empresa recolhera o ICMS ou o ISS, tais recolhimentos foram considerados válidos e os créditos respectivos (inclusive os decorrentes do descumprimento de obrigações acessórias) definitivamente extintos, independentemente de posteriormente decidir-se pela incidência exclusiva de uma ou outra espécie tributária sobre suas atividades.
+Portanto, para a solução da presente demanda, bastava à apelada demonstrar (i) ser microempresa ou empresa de pequeno porte, optante pelo regime tributário especial do "Simples Nacional",(ii) estar sendo cobrada por atividades praticadas anteriormente a 07/08/2014, e (iii) já ter, anteriormente a esta data, recolhido o respectivo imposto, seja na forma do ICMS, seja na forma do ISS. Tudo o que foi efetivamente comprovado com a documentação acostada à exceção de pré-executividade, notadamente: o contrato social da empresa, os autos de infração lavrados pela autoridade fiscal da Municipalidade (estes apresentados pela própria, junto com a petição inicial da execução fiscal), e os extratos fiscais do "Simples Nacional"relativos ao período de janeiro de 2009 a dezembro de 2010.
+Desta forma, a execução fiscal devia mesmo ter sido extinta, tendo em vista a perda de seu objeto, na medida em que os créditos cobrados pela Municipalidade foram extintos, por força da convalidação dos recolhimentos fiscais realizados pela apelada anteriormente a 07/08/2014, nos termos do já mencionado art. 13 da LC nº 147/14.
+Logo, pararevisitar a tese deilegalidade da extinção dos créditoscobrados pela municipalidade, em razão do reconhecimento da convalidação dos recolhimentos fiscaisrealizados anteriormente a 7/8/2014, como requer a parte recorrente, serianecessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial.".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ISS. SERVIÇOS BANCÁRIOS. AUTO DE INFRAÇÃO. RUBRICAS ALI CONSTANTES. REVOLVIMENTO FÁTICO-PROBATÓRIO.IMPOSSIBILIDADE.
+1. A Primeira Seção desta Corte Superior, quando do julgamento do REsp 1.111.234/PR, submetido ao rito dos recursos repetitivos, firmou o entendimento de que, embora taxativa a Lista de Serviços anexa ao Decreto-Lei n. 406/1968, para efeito de incidência de ISS, admite-se o emprego da interpretação extensiva para serviços congêneres, independentemente da nomenclatura adotada.
+2. Nos termos da Súmula 424/STJ, "é legítima a incidência de ISS sobre os serviços bancários congêneres da lista anexa ao DL 406/1968 e à LC 56/1987".
+3. Hipótese em que o acórdão recorrido, adotando essa mesma diretriz jurisprudencial, com base na realidade fática descrita nos autos, decidiu que algumas das rubricas consideradas pelo auto de infração não representam receitas de prestação de serviços bancários sujeitos ao ISS, de modo que a revisão dessa conclusão exige o reexame de matéria fático-probatória, medida inviável no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.529.603/CE, relator MinistroGurgel de Faria, Primeira Turma, DJe de 5/5/2021).
+Por fim, quanto ao argumento de fato novo, aponto que, em razão da aplicação dos óbicesimpeditivos ao conhecimento do recurso especial - Súmulas n.7 e 211 do STJ e anatureza constitucional da demanda -, fica prejudicadaa análisedo mérito recursal defendida no apelo nobre bem como dos eventuaisefeitos do RE n. 605.552, Tema n. 379 do STF.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
