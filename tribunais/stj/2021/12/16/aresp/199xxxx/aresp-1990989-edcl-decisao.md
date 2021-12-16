@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AMANDA AUXILIADORA DE OLIVEIRA SALLES à decisão de fls. 1302/1303, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Pois bem, Nobre Ministro Presidente, resta evidente que o recurso de Agravo de Instrumento é tempestivo, porquanto, a decisão foi publicada em DJE no dia 21.05.2021 (sexta-feira), iniciando-se a contagem em 24.05.2021 (segunda-feira), de modo que consta do teor do tópico do recurso (fl. 1.292) "tem- se como termo final para apresentam da insurgência o dia 15.06.2021 (terça- feira), haja vista a suspensão de prazos no dias 03.06.2021 e 04.06.2021, em razão do feriado de Corpus Christi e ponto facultativo, conforme calendário do TJAM" O calendário do Tribunal de Justiça está em anexo à fl. 1.276, dos autos de origem  ..  (fl. 1308).
+Alega ainda que:
+Do mesmo modo, a decisão de fls. 1.302/1.303 menciona quanta a existência de honorários advocatícios pelas instâncias de origem, no entanto, às fls. 612-616, não consta fixação de honorários, porquanto os autos de origem, trata-se de agravo de instrumento, e a parte recorrente é beneficiária da gratuidade (fl. 1310).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Os embargos merecem ser parcialmente acolhidos.
+No caso, quanto à tempestividade do agravo em recurso especial, assiste razão à parte, uma vez que, no ato da interposição do recurso, trouxe a comprovação da suspensão dos prazos, por meio da juntada da íntegra da Portaria n.º 2220/2020 com seu anexo, que instituiu o calendário Judicial no âmbito do tribunal de origem, conforme se verifica às fls. 1276/1278. Dessa forma, o recurso foi interposto tempestivamente.
+No entanto, quanto à intempestividade do recurso especial, correta a decisão embargada, uma vez que o documento juntado à fl. 631 é insuficiente para afastar a sua intempestividade, já que encontra-se incompleto, ou seja, sem a Portaria n. º 2220/2020 que trouxe quando da interposição do agravo em recurso especial. Veja-se que, consta expressamente à fl. 1277 que a Portaria e o calendário anexo são documentos inseparáveis.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Saliente-se, ainda, que, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Ademais, o Código de Processo Civil vigente, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Observe-se que não há omissão uma vez que o dispositivo da decisão embargada é claro no sentido de que somente serão majorados se houver "prévia fixação de honorários de advogado pelas instâncias de origem". Assim, a contrario sensu, como não houve prévia fixação, não haverá, também, majoração.
+Outrossim, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser incabível a condenação ao pagamento de honorários advocatícios em sede de agravo de instrumento, objeto do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+2. Segundo a jurisprudência desta Corte, não cabem honorários recursais nos recursos de agravo de instrumento. Precedentes.
+3. A Súmula n. 83 do STJ aplica-se aos recursos especiais interpostos com fundamento tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1850535/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 24/04/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ART.1.021, § 1º, DO CPC/2015. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE.PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO IMPROVIDO.
+1. Cabe à parte agravante, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. A ausência de fundamentos válidos para impugnar a decisão proferida no agravo em recurso especial atrai a aplicação do disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+2. Não tendo a insurgente refutado os fundamentos da decisão de inadmissibilidade no momento processual oportuno, não cabe fazê-lo no âmbito do agravo interno, considerada a preclusão consumativa operada pela interposição do recurso antecedente.
+3. Não é cabível a fixação de honorários recursais, in casu, porquanto, além de não ter sido fixada tal verba nas instâncias ordinárias, a ação que originou o presente recurso especial é agravo de instrumento, sendo inaplicável o art. 85, § 11, do CPC/2015, diante da disposição prevista no art. 25 da Lei 12.016/2009. Precedente.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1505380/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 05/11/2019.)
+Ante o exposto, acolho parcialmente os embargos de declaração apenas para afastar a intempestividade do agravo em recurso especial, mantendo, porém, o não conhecimento do recurso nos termos acima expostos (art. 21-E do RISTJ).
+Publique-se. Intimem-se.
