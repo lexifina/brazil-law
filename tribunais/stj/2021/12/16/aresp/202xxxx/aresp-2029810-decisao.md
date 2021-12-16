@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de negativa de prestação jurisdicional e(b) falta de demonstração dacontrariedade aos artigos de lei indicados (e-STJ fls. 250/251).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 211):
+COMPROMISSO DE COMPRA E VENDA - Revisão contratual - Financiamento de imóvel pelo Sistema Financeiro de Habitação - Contrato efetuado em maio de 2018 - Discórdia dos valores exigidos - Aplicação de IPC/FIPE para o reajuste das prestações - Regularidade - Tabela Price - Legalidade da adoção como critério de amortização da dívida - Amortização das prestações após a atualização do saldo devedor configura equilíbrio no sistema pertinente - Súmula nº 450/STJ - Plano de Comprometimento de Renda - Regra utilizada para determinação do valor da parcela - Cláusulas regulares - Pactuado tem validade e eficácia, pois observadas as regras pertinentes - Ausência de abusividade e de onerosidade excessiva - Prevalência do princípio da força obrigatória do contrato - Improcedência da ação - Sentença confirmada - Verba honorária majorada, em atendimento ao artigo 85, parágrafo 11º do CPC - RECURSO NÃO PROVIDO, com observação.
+..
+No recurso especial (e-STJ fls. 219/237), fundamentado no art. 105, III, alínea"a" da CF, as recorrentes indicaramofensa ao art. 11e 489, § 1º, IV, do CPC/2015, afirmando haver negativa de prestação jurisdicional.
+Apontaram violação dos arts. dos arts. 130 e 131 do CPC/1973 e 7º, 355, I, 370, e 446, I, do CPC/2015, argumentando existir cerceamento de defesa, porque o julgamento antecipado da lide as teriam impedido de produzir a prova pericial.
+Acrescentaram que:
+(a) "quanto ao mérito, o caso vertente insinua no mínimo, ao manifesto desequilíbrio entre as partes contratantes, com inegável desvantagem para os mutuários, situação essa que é repudiada dentro das diretrizes traçadas pelo CDC" (e-STJ fl. 234),
+(b)"é incontroverso que, após o fim do subsídio anteriormente concedido, o valor da prestação mensal passou a representar comprometimento de mais de 47% da renda familiar informada no momento da contratação, situação que não pode prevalecer, já que em desacordo com a legislação aplicável e com os próprios termos do contrato celebrado pelas partes.Ocorre que além de correções anuais normais, foi forçada a reajustar o percentual destinado ao pagamento de seguros do imóvel em função de licitação para escolha de nova empresa seguradora, o que é inadmissível.Importante salientar que o Plano de Equivalência Salarial por Categoria Profissional foi criado com a finalidade de proteger o poder aquisitivo do mutuário, cuja regra básica é o respeito à relação entre a renda pessoal e o valor das parcelas" (e-STJ fl. 235), e
+(c) "o percentual de comprometimento da renda líquida deveria ser calculado com base na prestação sem subsídio (cf. cláusula sexta, parágrafo 5º), mesmo porque este é concedido temporariamente e a exclusivo critério da parte autora" (e-STJ fl. 236).
+Foram ofertadas contrarrazões (e-STJ fls. 240/249).
+No agravo (e-STJ fls. 254/269), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 272/276).
+É o relatório.
+Decido.
+Conforme o entendimento do STJ, "o óbice da Súmula n. 284/STF impede o seguimento do recurso especial fundamentado em suposta violação do art. 535 do CPC/1973, na hipótese em que o recorrente não opôs embargos de declaração na origem, para ver sanado eventual vício do acórdão recorrido" (AgRg no AREsp 809.394/RJ, de minha relatoria, QUARTA TURMA, julgado em 7/62016, DJe 13/6/2016).
+A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Não havendo oposição de embargos de declaração na origem, resta inviabilizado o conhecimento da tese de negativa de prestação jurisdicional. Precedentes.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.385.697/MA, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/5/2019, DJe 3/6/2019.)
+Ainda nesse sentido: AgInt no REsp n. 1.691.379/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/2/2018, DJe 12/3/2018, e AgInt no AREsp n. 1.069.244/MS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.
+No caso, a parte alegou haver negativa de prestação jurisdicional (ofensa aos arts. 11 e 489 do CPC/2015), a despeito da ausência da oposição de aclaratórios contra o acórdão recorrido, o que atrai a incidência da Súmula n. 284/STF.
+A Corte local não se manifestou quanto aos arts. 7º, 11, 446, I, e 489 do CPC/2015.Dessa forma, sem teremsido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal a quo afastou o alegado cerceamento de defesa, ante o julgamento antecipado da lide, tendo em vista que (e-STJ fl. 212):
+Sustentam as autoras, em preliminar, pela nulidade da r. sentença por cerceamento de defesa diante indeferimento da produção de outras provas. Contudo, ausente razão. Dispõe o artigo 355, inciso I do novel diploma processual, "que o juiz julgará antecipadamente o pedido, proferindo sentença com resolução de mérito, quando: I - não houver necessidade de produção de outras provas;", indeferindo, assim, as diligências inúteis ou meramente protelatórias, sendo que na hipótese, dispensável se apresentava a produção de outras provas, pois em nada socorreria as requerentes, sendo que a demonstração documental trazida pelas partes cuidou de revelar a possibilidade de pronto julgamento, dispensando maior dilação probatória. E isto porque, "Sendo o juiz o destinatário da prova, somente a ele cumpre aferir sobre a necessidade ou não de sua realização" (RT 305/121). Ademais, "Em matéria de julgamento antecipado da lide, predomina a prudente discrição do magistrado, no exame da necessidade ou não da realização de prova em audiência, ante as circunstâncias de cada caso concreto e a necessidade de não ofender o princípio basilar do pleno contraditório" (STJ-4ª Turma, Resp 3.047-ES, rel. Min. Athos Carneiro, j. 21.8.90, DJU 17.9.90, p. 9.514). Portanto, tendo em vista a irrelevância das diligências, era dever do magistrado a quo indeferir os atos inúteis, em atenção ao princípio da celeridade processual.
+Dissentir das conclusões do acórdão impugnado para acolher a tese de insuficiência probatória, conforme sustentado pelas recorrentes na insurgência recursal, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Nesse contexto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. REANÁLISE DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+(..)
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu pela possibilidade de julgamento antecipado da lide, considerando desnecessária a realização de novo exame de DNA, tendo em vista a falta de comprovação de qualquer irregularidade ou vício no exame realizado extrajudicialmente. Alterar tal conclusão demandaria nova análise dos elementos fáticos, inviável em recurso especial.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.152.898/PR, de minha relatoria, QUARTA TURMA, julgado em 15/8/2017, DJe 23/8/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, PARÁGRAFO 1º, DO CPC/2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. REEXAME DE PROVAS.
+(..)
+2. Rever a conclusão do aresto impugnado quanto à inexistência de cerceamento de defesa encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo interno parcialmente conhecido e, nessa parte, não provido.
+(AgInt no AREsp n. 1.068.815/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/8/2017, DJe 25/8/2017.)
+Ademais, segundo a jurisprudência do STJ, "sendo o juiz o destinatário da prova, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, o entendimento pelo julgamento antecipado da lide não acarreta cerceamento de defesa" (AgInt no REsp n. 1.429.272/MA, Relator Ministro LÁZARO GUIMARÃES - Desembargador convocado DO TRF 5ª REGIÃO -, QUARTA TURMA, julgado em 14/8/2018, DJe 20/8/2018).
+Do mesmo modo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DAS PROVAS ATESTADAS PELAS INSTÂNCIAS ORDINÁRIAS. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS RECURSAIS. AGRAVO INTERNO. NÃO CABIMENTO. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. INAPLICABILIDADE. AGRAVO IMPROVIDO.
+1. Segundo o princípio da livre persuasão racional, a dilação probatória destina-se ao convencimento do julgador. Assim, pode o juiz rejeitar a produção de determinadas provas por entendê-las irrelevantes para a formação de sua convicção ou meramente protelatórias ao andamento do processo, em desrespeito ao princípio da celeridade processual. Com isso, pode o magistrado julgar antecipadamente a lide quando concluir que a questão controvertida é unicamente de direito ou que as provas já apresentadas com a exordial e com a peça de defesa são suficientes para o deslinde da controvérsia.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.205.281/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/3/2018, DJe 26/3/2018.)
+Estando o acórdão impugnado conformea jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplicatanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+Com relação ao mérito, a parte deixou de indicar os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada pelo TJSP.
+Ausente tal requisito, a fundamentação recursal mostra-se deficiente e torna inviável o conhecimento do recurso, ante o óbice da Súmula n. 284/STF, aplicada por analogia.
+Nesse contexto: AgRg no AREsp n. 410.404/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgRg no AREsp n. 816.653/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/3/2016, DJe 4/4/2016.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
