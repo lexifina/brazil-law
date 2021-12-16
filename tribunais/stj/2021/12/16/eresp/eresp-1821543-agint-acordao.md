@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer, sendo substituído pela Sra. Ministra Maria Isabel Gallotti, nos termos do disposto nos arts. 2º, § 2º, e 55 do RISTJ.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DA DIVERGÊNCIA APRESENTADA. REVISÃO DOS CRITÉRIOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚM. N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A simples indicação de publicação dos paradigmas desacompanhada do inteiro teor desses julgados não supre as exigências do art. 1.043, § 4º, do CPC/2015. Esse vício não pode ser suprimida em momento posterior à oposição dos embargos a partir do art. 932 do CPC/2015, porque se refere à vício essencial dos embargos de divergência. Nesse sentido:AgInt nos EAREsp 419.397/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 11/06/2019, DJe 14/06/2019.
+2.A decisão do Min. Presidente do STJ não deve ser reformada, pois os embargos de divergência não são instrumento processual adequado para a revisão de admissibilidade de recurso especial.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Laci Marinho de Araújo contra decisão monocrática, de relatoria do Min. Presidente do STJ, que inadmitiu os embargos de divergência pela impossibilidade de discussão de regras de admissibilidade do recurso especial e pela ausência de comprovação da divergência.
+No presente recurso, sustenta-se que o provimento das teses do especial independentemente da revisão do conjunto probatório dos autos. Assevera que o julgado proferido no recurso especial avançou sobre a questão de fundo. Defende que apresentou devidamente a divergência suscitada nos embargos de divergência, no qual deve ser admitido sem rigor excessivo.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DA DIVERGÊNCIA APRESENTADA. REVISÃO DOS CRITÉRIOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚM. N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A simples indicação de publicação dos paradigmas desacompanhada do inteiro teor desses julgados não supre as exigências do art. 1.043, § 4º, do CPC/2015. Esse vício não pode ser suprimida em momento posterior à oposição dos embargos a partir do art. 932 do CPC/2015, porque se refere à vício essencial dos embargos de divergência. Nesse sentido:AgInt nos EAREsp 419.397/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 11/06/2019, DJe 14/06/2019.
+2.A decisão do Min. Presidente do STJ não deve ser reformada, pois os embargos de divergência não são instrumento processual adequado para a revisão de admissibilidade de recurso especial.
+3. Agravo interno não provido.
+VOTO
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ:  Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+A pretensão não merece acolhida.
+O conhecimento dos embargos de divergência pressupõe a devida apresentação da similitude fática e jurídica entre o acórdão recorrido e os paradigmas.A simples indicação de publicação dos paradigmas desacompanhada do inteiro teor desses julgados não supre as exigências do art. 1.043, § 4º, do CPC/2015. Esse vício não pode ser suprimida em momento posterior à oposição dos embargos a partir do art. 932 do CPC/2015, porque se refere à vício essencial dos embargos de divergência. Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA.DECISÃO IMPUGNADA DEVIDAMENTE FUNDAMENTADA. INOCORRÊNCIA DE AFRONTA AO ART. 489, § 1º, DO CPC/2015. DESATENDIMENTO DOS REQUISITOS PARA COMPROVAÇÃO OU CONFIGURAÇÃO DO DISSENSO PRETORIANO. DIÁRIO OFICIAL NÃO É REPOSITÓRIO OFICIAL DE JURISPRUDÊNCIA. VEDAÇÃO DE ABERTURA DE PRAZO PARA REGULARIZAR VÍCIO SUBSTANCIAL. ART. 932, PARÁGRAFO ÚNICO, DO NOVO CPC. ENUNCIADO ADMINISTRATIVO N. 6/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. IMPOSSIBILIDADE DO EXAME EM EMBARGOS DE DIVERGÊNCIA. MÉRITO DO RECURSO ESPECIAL NÃO EXAMINADO NA TURMA JULGADORA. INCIDÊNCIA DA SÚMULA N. 315/STJ. RECURSO DESPROVIDO.
+1. Inexiste ofensa ao art. 489, § 1º, do CPC/2015, porque, ao contrário do afirmado pela parte agravante, a decisão recorrida não é genérica, pois elenca quais providências deveriam ter sido alternativamente adotadas pelo recorrente em sua petição de embargos de divergência para caracterizar o suposto dissenso pretoriano, quais sejam: (a) a juntada de certidões; (b) a apresentação de cópias do inteiro teor dos acórdãos apontados; (c) a citação do repositório oficial autorizado ou credenciado no qual eles se achem publicados, inclusive em mídia eletrônica; e (d) a reprodução de julgado disponível na rede mundial de computadores com a indicação da respectiva fonte.
+2. A mera indicação da publicação do acórdão paradigma não supre as exigências do § 4º do art. 1.043 do CPC/2015 e do art. 266, § 4º, do Regimento Interno desta Corte Superior, porque o Diário da Justiça, em sua forma eletrônica ou física, não é repositório oficial de jurisprudência - previsto no § 3º do art. 255 do Regimento Interno do Superior Tribunal de Justiça -, consubstanciando somente órgão de divulgação, na forma do art. 128, I, do referido instrumento normativo. Precedentes da Corte Especial.
+3. A ausência de demonstração da divergência alegada no recurso uniformizador constitui claramente vício substancial resultante da não observância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 do CPC/2015 para complementação da fundamentação, possível apenas em relação a vício estritamente formal, nos termos do Enunciado Administrativo n. 6/STJ.
+4. Ademais, o Superior Tribunal de Justiça consolidou entendimento quanto ao não cabimento de embargos de divergência para a verificação de ofensa ao art. 535 do CPC/1973, atual art. 1.022 do CPC/2015, porque impossível a configuração da similitude fática entre o acórdão embargado e os paradigmas apontados, devido às peculiaridades de cada caso examinado nesse sentido.
+5. A previsão normativa do § 2º do art. 1.043 do CPC/2015 - no que tange à aplicação do direito processual eventualmente realizada no acórdão embargado - não configura regra autorizadora da utilização do recurso uniformizador para viabilizar o reexame da admissibilidade do recurso especial no caso concreto. Precedentes.
+6. A tese defendida pela parte agravante nos embargos de divergência, quanto ao § 4º do art. 22 da Lei n. 8.906/1994, encontra obstáculo na Súmula n. 315/STJ, pois demandaria necessariamente o afastamento da Súmula n. 7/STJ, aplicada pelo acórdão embargado da Terceira Turma.
+7. Inaplicabilidade da multa do § 4º do art. 1.021 do CPC/2015, porque descabe a incidência automática da penalidade mencionada quando exercitado o regular direito de recorrer e não verificada a hipótese de manifesta inadmissibilidade do agravo interno ou de litigância temerária. Julgados da Corte Especial.
+8. Agravo interno desprovido.
+(AgInt nos EAREsp 419.397/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 11/06/2019, DJe 14/06/2019)
+Ademais,a decisão impugnada deve ser mantida, pois os embargos de divergência não são instrumento processual adequado para a revisão de admissibilidade de recurso especial. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO DECIDIU A CONTROVÉRSIA POSTA NO ESPECIAL. CPC/2015, ART. 1043. FIXAÇÃO DE HONORÁRIOS RECURSAIS. CABIMENTO.
+ ..
+2. O art. 1043 do CPC/2015, em seus incisos, estabelece os casos restritos de cabimento dos Embargos de Divergência: aqueles em que a controvérsia veiculada no Especial tenha sido decidida de forma divergente por órgãos fracionários do tribunal.
+3. "Nos termos do art. 266, caput, do RISTJ c/c o art. 1.043 do CPC/2015, os embargos de divergência têm como requisito de admissibilidade a existência de dissenso interpretativo entre diferentes órgãos jurisdicionais deste Tribunal Superior, desde que tenha sido apreciada a matéria de mérito do recurso especial - seja de natureza processual seja material -, tendo em vista que este recurso é incabível para o reexame de regra técnica de admissibilidade recursal"(AgInt nos EAREsp 599.145/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 17/05/2017, DJe 30/05/2017).
+ ..
+5. Agravo interno não provido.
+(AgInt nos EDv nos EAREsp 1099815/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 17/12/2019, DJe 19/12/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INDENIZAÇÃO. DANO MORAL. JUROS DE MORA. TERMO INICIAL. ACÓRDÃO EMBARGADO CONFORME ENTENDIMENTO DESTA CORTE. ENUNCIADO Nº 168/STJ. SUCUMBÊNCIA. ACÓRDÃO EMBARGADO. SÚMULA N. 7/STJ. PARADIGMA QUE ENFRENTA O MÉRITO DA CONTROVÉRSIA. AUSÊNCIA DE SIMILITUDE FÁTICA. REVISÃO DO VALOR. DISCUSSÃO SOBRE REGRA TÉCNICA DE ADMISSIBILIDADE. IMPOSSIBILIDADE. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. MAJORAÇÃO DOS HONORÁRIOS. ART.
+85, § 11, DO CPC. CABIMENTO. RECURSO NÃO PROVIDO.
+ ..
+3. Os embargos de divergência não se prestam a discutir o erro ou o acerto dodecisumquanto à incidência ou não de regra técnica de admissibilidade de recurso especial, no caso, do enunciado n. 7/STJ, no tocante ao valor da indenização.
+ ..
+6. Agravo interno não provido. Honorários advocatícios majorados nos
+termos do art. 85, § 11, do Código de Processo Civil.
+(AgInt nos EREsp 1715434/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA,CORTE ESPECIAL, julgado em 10/12/2019, DJe 13/12/2019)
+Esclareço, outrossim, que adecisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
