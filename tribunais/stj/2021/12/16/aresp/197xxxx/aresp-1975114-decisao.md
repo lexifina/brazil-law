@@ -1,0 +1,31 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. REVERSÃO DA DECISÃO. BENEFÍCIO PREVIDENCIÁRIO. DEVOLUÇÃO DE VALORES. IMPOSSIBILIDADE. CARÁTER ALIMENTAR. JULGADOS DO STJ. SÚMULA 83/STJ.AGRAVO CONHECIDO PARA NÃO SE CONHECER DO RECURSO ESPECIAL DO ENTE FEDERATIVO.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto pelo DISTRITO FEDERAL, com fundamento no art. 105, inciso III, alínea a, da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+APELAÇÃO CÍVEL. PRELIMINARES. INTEMPESTIVIDADE. PRECLUSÃO. REJEITADAS. PRAZO PARA RECORRER. DISTRITO FEDERAL. INTIMAÇÃO PESSOAL. CIÊNCIA NO SISTEMA. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. PENSÃO A TÍTULO DE DANOS MATERIAIS. INCAPAZ. REVERSÃO DA DECISÃO EM GRAU DE APELAÇÃO. DEVOLUÇÃO DOS VALORES RECEBIDOS. IMPOSSIBILIDADE. CARÁTER ALIMENTAR. IRREPETIBILIDADE
+1. O Distrito Federal possui prazo em dobro para todas as suas manifestações processuais, cuja contagem tem início a partir da intimação pessoal (CPC, art. 183). Nos casos em que a ciência no sistema ocorre em dia não útil, a intimação será considerada como realizada no primeiro dia útil seguinte (Lei nº 11.419/2006, art. 4º, §§ 1º e 2º). Preliminares rejeitadas.
+2. É possível o cumprimento provisório de sentença impugnada por recurso desprovido de efeito suspensivo, que será realizado da mesma forma que se daria o cumprimento definitivo (CPC, art. 520).
+3. A vedação de execução provisória contra a Fazenda Pública restringe-se às hipóteses do art. 2-B da Lei nº 9.494/97. Precedentes.
+4. A pensão concedida a incapaz em sentença provisória possui natureza alimentar e tem por objetivo suprir as necessidades do menor.
+5. O recebimento de verba alimentar, como todas as modalidades de alimentos, é irrepetível, sendo incabível o pedido de reversão dos valores pagos indevidamente durante a prestação provisória. Precedentes.6. Preliminares rejeitadas. Recurso conhecido e não provido (fls. 302/308).
+2. Nas razões do seu recurso especial (fls. 310/319), a parte agravante sustenta violação do art. 520, I, do CPC/2015. Argumenta, para tanto, ter direito à reparação pelos danos sofridos, tal como previsto no referido dispositivo, com a devolução dos valores de pensionamento pagos indevidamente.
+3. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 331/341).
+4. Sobreveio o juízo de admissibilidade negativo (fls. 344/345), fundadona incidência da Súmula 83/STJ; razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8. No mérito, o acórdão recorrido está em consonância com a jurisprudência desta egrégia Corte Superior, segundoa qual ser possível a repetição de valores pagos pela Administração, por força de tutela judicial provisória, posteriormente reformada, em homenagem ao princípio jurídico basilar da vedação ao enriquecimento ilícito. Todavia,tal posicionamento é mitigado nas hipóteses em que a discussão envolva benefícios previdenciários, como no caso em apreço, tendo em vista seu caráter de verba alimentar, o que inviabiliza sua restituição.
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. PENSÃO MILITAR. VIOLAÇÃO DO ART. 535, I E II, DO CPC. NÃO OCORRÊNCIA. DECISÃO JUDICIAL. REFORMA POSTERIOR. RESTITUIÇÃO. IMPOSSIBILIDADE. CARÁTER ALIMENTAR. PRECEDENTES DO STJ.
+1. O STJ entende ser possível a repetição de valores pagos pela Administração, por força de tutela judicial provisória, posteriormente reformada, em homenagem ao princípio jurídico basilar da vedação ao enriquecimento ilícito.
+2. Entretanto, tal posicionamento é mitigado nas hipóteses em que a discussão envolva benefícios previdenciários, como no caso em apreço, tendo em vista seu caráter de verba alimentar, o que inviabiliza sua restituição. Precedentes do STJ.
+3. Agravo Regimental não provido.
+(AgRg no REsp 1.335.962/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/02/2013, DJe 15/02/2013).
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TUTELA ANTECIPADA. REVOGAÇÃO. RESTITUIÇÃO DOS VALORES PAGOS. IMPOSSIBILIDADE. CARÁTER ALIMENTAR DO BENEFÍCIO PREVIDENCIÁRIO. RESERVA DE PLENÁRIO. INAPLICABILIDADE. MATÉRIA NOVA. DISCUSSÃO. NÃO-CABIMENTO. PRECLUSÃO.
+1. Em razão do princípio da irrepetibilidade ou da não-devolução dos alimentos, bem como o caráter social em questão, é impossível a restituição dos valores recebidos a título de antecipação da majoração do benefício previdenciário, posteriormente cassada.
+2. "Decidida a questão sob o enfoque da legislação federal aplicável ao caso, inaplicável a regra da reserva de plenário prevista no artigo 97 da Constituição da República." (AgRg no REsp 1.055.893/RS, JANE SILVA - Desembargadora Convocada do TJ/MG -, DJ de 08/09/2008.)
+3. Em sede de regimental, não é possível inovar na argumentação, no sentido de trazer à tona questões que sequer foram objeto das razões do recurso especial, em face da ocorrência da preclusão.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 67.318/MT, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2012, DJe 23/05/2012).
+9. Verifico, portanto, que a conclusão veiculada no acórdão está em harmonia com a orientação do STJ sobre o tema, incidindo à hipótese o disposto na Súmula 83/STJ, segundo a qual não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+10. Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea a do art. 105, III, da CF/1988. A propósito: AgInt no AREsp 648.333/ES, Rel. Min. GURGEL DE FARIA, DJe 17.5.2018; AgInt no AREsp 895.402/SP, Rel. Min. HUMBERTO MARTINS, DJe 30.8.2016; REsp 1.186.889/DF, Rel. Min. CASTRO MEIRA, DJe de 2.6.2010.
+11. Em face do exposto, conheço do agravo para não conhecer do recurso especial do ente federativo.
+12. Publique-se. Intimem-se.
