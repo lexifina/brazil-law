@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. CONHECIMENTO. ART. 14 DA LEI 10.826/2003. ERRO DE PROIBIÇÃO E ESTADO DE NECESSIDADE. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Devidamente impugnados os fundamentos da decisão de inadmissão do recurso especial, é de ser reconsiderada a decisão que não conheceu do agravo.
+2. Tendo as instâncias ordinárias concluído pela demonstração da autoria e materialidade delitiva, a reversão das premissas fáticas do acórdão recorrido, para fins de reconhecimento de estado de necessidade ou erro de proibição, demandaria o revolvimento do conjunto fático-probatório, inadmissível pela via do recurso especial, consoante Súmula 7/STJ.
+3. Agravo regimental provido. Agravo conhecido para não conhecer do recurso especial.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, dar provimento ao agravo regimental para conhecer do agravo e não conhecer do recurso especial nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial pela falta de impugnação específica.
+Sustenta o agravante a não incidência da Súmula 182/STJ, sob a alegação de que foram impugnados todos os fundamentos da decisão que inadmitiu o recurso especial.
+Requer a reconsideração da decisão ou provimento do agravo para que seja conhecido e provido o recurso especial, para que seja absolvido por erro de proibição ou estado de necessidade. Impugnação apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Efetivamente impugnados os fundamentos da decisão de inadmissão do recurso especial, o agravo merece ser conhecido, em ordem a que se evolua para o mérito.
+Consta dos autos que o réu foi condenado como incurso no art. 14 da Lei 10.826/2003. O Tribunal de Justiça negou provimento à apelação da defesa, com base nos seguintes fundamentos (fls. 401/403):
+Não há se falar em incidência, na espécie, da excludente de culpabilidade relativa ao erro de proibição, pois, conforme o dispositivo do artigo 21 do Código Penal, o desconhecimento da lei é inescusável.
+ ..
+Importante frisar que o agente não é pessoa ingênua. Sim, porque à época dos fatos, já possuía mais de 40 anos de idade, além do que, como declarado em Juízo por ele e pelas testemunhas, era empresário e possuía três restaurantes, tendo, portanto, plenas condições de discernimento e de ter conhecimento acerca da ilicitude da sua conduta, de modo que não é crível o alegado desconhecimento da ilicitude do fato.
+Imperioso destacar, ainda, ser inaplicável a excludente de ilicitude do estado de necessidade, pois a alegação de que o réu transportou a arma de fogo, para "sua proteção pessoal, pois já havia sofrido vários assaltos e vinha sofrendo constantes ameaças" não caracteriza a situação de perigo atual e inevitável, que justificasse o sacrifício de um bem jurídico ameaçado por esse perigo para salvar direito próprio ou alheio, cuja perda não era razoável exigir.
+Também não vinga a tese defensiva de atipicidade da conduta em razão de a arma encontrar-se desmuniciada, pelo simples fato de que essa assertiva é falaciosa.
+Com efeito, consta dos autos que, além da arma de fogo, também foram apreendidos 42 (quarenta e dois) cartuchos íntegros, além de 2 (dois) carregadores com capacidade para 15 (quinze) projéteis cada um deles, tudo periciado e constatado suas eficácias em testes práticos (laudo de fis. 41143).
+Portanto, ao contrário dos argumentos sustentados pela combativa Defesa, o crime de porte ilegal de arma de fogo ficou bem demonstrado, não apenas pela confissão do acusado, mas também pelas palavras seguras e convincentes dos policiais militares e pelo laudo pericial que atestou a aptidão do revólver e das munições à realização de disparos, não havendo que se falar em absolvição por fragilidade probatória ou excludentes de culpabilidade ou ilicitude.
+Destarte, suficientemente provadas a materialidade e a autoria resultantes das ações descritas na incoativa, cujas tipicidades - sob os aspectos objetivo e subjetivo -, antijuridicidades e culpabilidades encontram-se, igualmente, demonstradas, sem qualquer causa de exclusão da ilicitude ou da culpabilidade, tudo está a indicar mesmo a violação, pelo réu, da norma de proibição insculpida no artigo 14, caput, da Lei n. 10.826103, razão por que era mesmo inarredável o provimento condenatório, como bem proclamado pelo eminente Magistrado sentenciante, cujas lúcidas e bem colocadas razões de decidir ficam aqui adotadas, em consonância com a norma inscrita no artigo 252 do Regimento Interno desta Augusta Corte de Justiça.
+Como se pode depreender, o Tribunal local afastou a alegação de erro de proibição e estado de necessidade, com base em elementos fáticos eprobatórios, de modo que, para se chegar à conclusão contrária, seria necessário o reexame de todo o conjunto fático-probatório, o que é incabível na via do recurso especial, tendo em vista o óbice da Súmula 7/STJ. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO ATACADA. AGRAVO QUE DEVE SER CONHECIDO. FURTO QUALIFICADO. INÉPCIA DA DENÚNCIA. SENTENÇA CONDENATÓRIA JÁ PROFERIDA. PREJUDICIALIDADE. TESE DE INCIDÊNCIA DE ERRO DE PROIBIÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. CONCURSO DE AGENTES. IDENTIFICAÇÃO DO COAUTOR.
+PRESCINDIBILIDADE. AGRAVO REGIMENTAL PROVIDO PARA CONHECER DO AGRAVO E NEGAR-LHE PROVIMENTO.
+1. Reconhecida a impugnação a todos os fundamentos da decisão atacada, deve ser conhecido o agravo em recurso especial.
+2. Nos termos da jurisprudência desta Corte, já tendo sido proferida a sentença condenatória, fica prejudicado o exame da alegação de inépcia da denúncia. Precedentes.
+3. Afastada fundamentadamente pelo Tribunal de origem a tese de erro de proibição, com base no material cognitivo produzido nos autos, a pretendida revisão do entendimento demandaria necessária incursão na seara probatória, vedada no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+4. Nos termos da jurisprudência desta Corte, mostra-se prescindível a identificação dos coautores do delito para a incidência da qualificadora do concurso de pessoas. Precedentes.
+5. Agravo regimental provido para conhecer do agravo e negar-lhe provimento.
+(AgRg no AREsp 1696501/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 30/06/2020, DJe 05/08/2020)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 32, § 2º, DA LEI N. 9.605/1998 (MAUS TRATOS CONTRA ANIMAIS). ALEGADO ESTADO DE NECESSIDADE. SÚMULA N. 7/STJ.
+1. Concluído pelas instâncias ordinárias que o agravante não se encontrava em situação de perigo atual, o pedido de reconhecimento do estado de necessidade defensivo, da forma como colocado, demandaria imprescindível reexame dos elementos fático-probatórios dos autos, o que é defeso no âmbito do recurso especial, em virtude do disposto na Súmula n. 7 desta Corte.
+2. Agravo regimental improvido.
+(AgRg no AREsp 1083370/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017).
+Ante o exposto, dou provimento ao agravo regimental para conhecer do agravo, mas para não conhecer do recurso especial.
+É o voto.
