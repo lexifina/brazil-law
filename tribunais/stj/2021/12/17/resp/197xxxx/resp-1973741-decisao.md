@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por Maria Rodrigues Nunes Coelhocontra acórdão do Tribunal de Justiça de São Paulo assim ementado:
+Apelação - Ação de indenização por acidente de trabalho - Males colunares e em membros superior: Laudo pericial que atesta incapacidade parcial e temporária-Reparação acidentária indevida-Sentença mantida Recurso desprovido com observação. As patologias apontadas pela autora como desencadeadasem razão dos trabalhos realizados foram diagnosticadas pela perícia como causadoras de incapacidade parcialtemporária, de tal modo que não preenchidos os requisitos legais, não há que se falar em concessão do benefício acidentário pretendido, razões pelas quais se mantém a r. a sentença com observação em relação aos ônus §sucumbenciais ante a aplicação do disposto no artigo 129 da Lei nº 8.213/91.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões de recurso especial, sustenta a recorrenteque o Tribunal a quo negou vigência aos artigos 59 e 86 da Lei8.213/1991, uma vez que restou comprovado a redução da capacidade laboral, razão pela qual faz jus ao recebimento de auxílio-acidente.
+O prazo para apresentação de contrarrazões ao recurso especial decorreuin albis.
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atraia incidência do Enunciado Administrativo 3/STJ.
+No mérito, o Tribunal de origem entendeu, com base no conjunto probatóriodos autos, não haver comprovação da existência da redução da incapacidade laboral aamparar a concessão do auxílio-acidente, conforme se observa doseguinte trecho dos autos, in verbis:
+O laudo pericial de fls.103/107 destaca e conclui, após exame físico e anamnese da autora, que "A autora refere dor em região cervical ombro e braço esquerdo com formigamento de 2º,3º,4ºe5º dedos da mão esquerda. Relata início desses sintomas em 2005 quando seu oficioera fazer e assar pães. No exame clínico da perícia hoje realizada nenhum déficitfuncional a ser considerado foi detectado. Contudo a paciente pela cronicidade de suas queixas sugerimos uma eletroneunomiografra dos membros superiores para que como maior propriedade possamos julgar sua capacidade para o labor. Até essa nova reavaliação, a autora está incapacitada parcial e temporariamente, não devendo exercer atividades laborativas, que exijam movimento repetitivos e amplos dos ombros, entretanto poderá exercer várias atividades laborativas que possam prover seu sustento" (fls. 106)..
+Com efeito, diante das conclusões periciais, forçoso é concluir que a razão está ao lado da r. sentença, posto que a incapacidade atestada é parcial e temporária.
+Destarte, a inversão do julgado para entender que há redução da capacidade laboralpara o exercício da atividade laboral demandaria o reexame dos fatos eprovas, o que é vedado na instância especial ante a incidência da Súmula7/STJ.
+Ilustrativamente:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADOADMINISTRATIVO 3/STJ. AUXÍLIO-ACIDENTE. DISACUSIA. REDUÇÃO DA CAPACIDADELABORATIVA NÃO AFERIDA PELO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ.
+1. Conforme assentado no julgamento do Recurso Especial 1.095.523/SP,admitido como representativo da controvérsia (art.543-C do CPC), "estando presentes os requisitos legais exigidos para aconcessão do auxílio-acidente com base no art. 86, §4º, da Lei n.8.213/91 - deficiência auditiva, nexo causal e a redução da capacidadelaborativa -, não se pode recusar a concessão do benefício acidentário aoObreiro, ao argumento de que o grau de disacusia verificado está abaixo domínimo previsto na Tabela de Fowler" (REsp 1.095.523/SP, Rel. MinistraLAURITA VAZ, TERCEIRA SEÇÃO, DJe de 05/11/2009).
+2. No caso concreto, o Tribunal a quo, soberano na análise dos elementosprobatórios dos autos, expressamente concluiu pela falta de comprovação daredução da capacidade laboral a amparar a concessão do auxílio-acidentepleiteado.
+3. A inversão do que restou decidido demandaria o reexame do contextofático-probatório, o que encontra óbice na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1813536/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDATURMA, julgado em 16/08/2021, DJe 19/08/2021)
+Ante o exposto, com fulcro no artigo 932, III, do CPC/2015, não conheço dorecurso especial. Caso exista nos autos prévia fixação de honoráriosadvocatícios pelas instâncias de origem, determino sua majoração emdesfavor da parte recorrente, no importe de 15% sobre o valor jáarbitrado, percentual esse justificado pelo tempo decorrido entrea interposição do recurso e julgamento e a complexidade da causa, nostermos do art. 85, § 11, do Código de Processo Civil. Os limitespercentuais previstos nos §§ 2º e 3º do referido dispositivo legal devemser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO
+ADMINISTRATIVO 3/STJ. AUXÍLIO-ACIDENTE. REDUÇÃO DA CAPACIDADE LABORAL. QUESTÃO ATRELADA AO REEXAMEDE MATÉRIA FÁTICA. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
