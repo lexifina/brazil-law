@@ -1,0 +1,4 @@
+LEI Nº 14.262, DE 16 DE DEZEMBRO DE 2021
+Institui o Dia do Policial Legislativo.
+O PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
