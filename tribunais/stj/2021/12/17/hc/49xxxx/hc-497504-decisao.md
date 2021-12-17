@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MÁRIO PLÍNIO DE SOUZA no qual se aponta como autoridade coatora o Tribunal Regional Federal da 1ª Região (HC n. 1001589-78.2019.4.01.0000).
+Depreende-se dos autos que o paciente foi condenado à pena de 9 (nove) anos e 1 (um) mês de reclusão, em regime inicialmente fechado, mais 132 (cento e trinta e dois) dias-multa, pela prática dos delitos tipificados no art. 33, caput, da Lei n. 11.343/2006, tendo em vista que foi surpreendido na posse de 46 tabletes de cocaína/crack, e no art. 333 do Código Penal, uma vez que ofereceu vantagem indevida aos policiais rodoviários federais para que esses o liberassem (e-STJ fls. 30/40).
+Impetrado habeas corpus na origem, os desembargadores da Quarta Turma do Tribunal Regional Federal da 1ª Região denegaram a ordem (e-STJ fls. 105/117).
+Recebeu o acórdão esta ementa (e-STJ fl. 109):
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ART. 33, e 40, I, DA LEI 11.343/2006. PRISÃO PREVENTIVA. PROVA DE MATERIALIDADE DELITIVA E INDÍCIOS DE AUTORIA. REQUISITOS. MEDIDA EXCEPCIONAL FUNDAMENTADA.
+1. A omissão da sentença condenatória em manifestar-se sobre a manutenção da prisão preventiva e a possibilidade de recorrer em liberdade trata-se de matéria a ser discutida na via apropriada, no caso, embargos de declaração, já que o habeas corpus não pode servir como sucedâneo do recurso cabível contra a sentença condenatória, não se prestando para a uma análise aprofundada de todo o conjunto probatório a fim de aferir-se a pertinência ou não da alegação do impetrante. (Nesse sentido, o HC n. 0052274-14.2016.4.01.0000, de minha Relatoria).
+2. Insustentável a alegação de ausência de requisitos para a decretação da prisão cautelar, uma vez que a medida excepcional de constrição à liberdade do paciente tem fundamento na necessidade da garantia da ordem pública e para assegurar a aplicação da lei penal, haja vista tratar-se de tráfico internacional de drogas e réu reincidente, com existência de sentença condenatória, a qual fixou a pena de reclusão de 9 (nove) anos e 1(um) mês, em regime inicialmente fechado..
+3. Considerando-se que o Paciente esteve mantido sob custódia cautelar durante toda a instrução processual, não se justifica a revogação da prisão preventiva, apenas para que o mesmo possa recorrer.
+4. Ordem que se denega.
+No Superior Tribunal de Justiça, a defesa alega que o Magistrado de primeiro grau silenciou, por duas vezes, sobre a manutenção da prisão preventiva imposta ao paciente, além de não se ter manifestado, também, acerca da possibilidade de o acusado recorrer da sentença em liberdade.
+Alega, ainda, que "a prisão cautelar já alcança, aproximadamente, 3 (três) anos e 3 (três) meses, o que demonstra o flagrante excesso de prazo" (e-STJ fl. 13).
+Dessa forma, requer, liminarmente, a expedição do alvará de soltura em benefício do paciente. No mérito, postula a confirmação da liminar e, subsidiariamente, "em caso de não conhecimento do writ, requer que seja concedida ordem de HABEAS CORPUS DE OFÍCIO, nos termos do § 2º do art. 654 do CPP" (e-STJ fl. 13).
+Liminar indeferida às e-STJ fls. 122/124 por este relator; deferida, porém, pelo Supremo Tribunal Federal, no HC n. 170.942, de relatoria do Min. Marco Aurélio, ao superar o verbete n. 691 da Súmula desse Tribunal (e-STJ fls. 160/165).
+Informações prestadas às e-STJ fls. 127/143.
+Ao se manifestar, o Ministério Público Federal opinou pela extinção do writ, com concessão da ordem de ofício. Eis a ementa do parecer:
+HABEAS CORPUS IMPETRADO COMO SUCEDÂNEO DE RECURSO ORDINÁRIO. INADMISSIBILIDADE. REPETIÇÃO DE PEDIDO CONTIDO NO HC 491.255/PA. TRÁFICO DE DROGAS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. AUSÊNCIA DE ANÁLISE SOBRE A NECESSIDADE DE MANUTENÇÃO DA MEDIDA CONSTRITIVA. ART. 387, §1º, CPP. ILEGALIDADE. NECESSIDADE DE COMPLEMENTAÇÃO. PRECEDENTES DESSE STJ. PARECER PELA EXTINÇÃO DO WRIT SEM RESOLUÇÃO DE MÉRITO, MAS PELA CONCESSÃO PARCIAL DA ORDEM, DE OFÍCIO.
+É o relatório.
+O presente writ está prejudicado.
+Isso, porque, conforme informações prestadas àe-STJ fl. 255, "os autos originais n. 593-39.2016.4.01.3901 recentemente retornaram do TRF 1para esta Vara da Subseção de origem (2ªVara Federal), com acórdão transitado em julgado, mantendo a sentença condenatória de Mário Plinio".
+Dessarte,operado o trânsito em julgado, não há que se perquirir acerca dos pressupostos para a decretação ou manutenção da prisão preventiva, porquanto a natureza da segregação, doravante, é de prisão-pena, e os subsequentes expedientes defensivos afetos ao cumprimento da pena deverão ser postulados perante o Juízo da execução.
+Assim, patente que o presente writ está prejudicadohaja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
