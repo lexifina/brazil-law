@@ -1,0 +1,24 @@
+DECISÃO
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. AGRAVO EM RECURSO ESPECIAL DE ASSOCIAÇÃO FACULDADES CATÓLICAS PETROPOLITANASNÃO CONHECIDO.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto por ASSOCIAÇÃO FACULDADES CATÓLICAS PETROPOLITANAS, com fundamento no art. 105, III, alíneas"a" e "c", da CF/1988, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região.
+2. A irresignação, contudo, não merece ser admitida, visto que a parte agravante não infirmou adequadamente os fundamentos da decisão agravada.
+3. No caso, o Tribunal de origem inadmitiu o recurso especial em razão dos seguintes fundamentos: (a) ausência de omissão do acórdão recorrido; (b) incidência das Súmulas 400 do STF e 7 do STJ; e (c) falta do cotejo analítico entre os acórdãos confrontados.
+4. Todavia, a parte agravante deixou de impugnar de forma escorreita os fundamentos da decisão hostilizada quanto à ausência de omissão do acórdão impugnado, quanto àincidência das Súmulas 400/STF e 7/STJ, bem como em relação àfalta do cotejoanalítico entre os acórdãos confrontados, limitando-se a relembrar a narrativa processual e em repetir as razões do recurso especial(fls. 835/857).
+5. Com efeito, o agravo em recurso especial tem por escopo desconstituir a decisão de inadmissão de recurso especial, sendo, por isso, imprescindível a impugnação específica de todos os fundamentos nela lançados, com o fito de demonstrar o seu desacerto.
+6. Dessa forma, à míngua de impugnação pertinente, incólume fica a decisão agravada; aplicação por analogia da Súmula 182 do STJ, segundo a qual é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada.
+7. Nesse sentido, cito os seguintes julgados do Superior Tribunal de Justiçaacerca do tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto às Súmula 7/STJ e Súmula 83/STJ. Assim, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+5. Inadmitido o recurso especial em razão da dissonância da pretensão com jurisprudência desta Corte Superior, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+6. Ainda, inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+7. Agravo interno a que se nega provimento. (AgInt no AREsp 1.852.229/SE, Rel. Ministro MANOEL ERHARDT - DESEMBARGADOR CONVOCADO DO TRF5, PRIMEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021) (grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO CONHECIDO.
+1. A parte agravante deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+2. (..)
+3. Por fim, há de se registrar a necessidade de impugnação devida e específica de todos os fundamentos da decisão agravada, mesmo que sejam distintos e independentes entre si.
+4. Agravo Interno da FAZENDA NACIONAL não conhecido (AgInt no AREsp 1.616.546/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/6/2020, DJe 29/6/2020). (grifei)
+8. Diante dessas considerações, não conheço do agravo em recurso especial da Associação.
+9. Publique-se. Intimações necessárias.
