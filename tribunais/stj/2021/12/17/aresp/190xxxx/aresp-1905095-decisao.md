@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal, incidência da Súmula n. 7 do STJe ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 591/597).
+O acórdão recorrido está assim ementado (e-STJ fl. 419):
+EMENTA: APELAÇÃO CÍVEL- Compromisso de compra e venda -Ação de rescisão julgada procedente em parte - Rescisão contratual pela mora da parte recorrida, adquirente -Retenção de 20% dos valores pagos que se mostra adequada -Bem que retornará para a vendedora, que poderá revendê-lo a terceiros -Sentença mantida quanto ao ponto -Recurso parcialmente provido, quanto aos juros moratórios, que devem fluir do trânsito em julgado.
+Os embargos de declaração foram rejeitados(e-STJ fls. 553/558 e 567/571).
+No recurso especial (e-STJ fls. 425/439), fundamentado no art. 105, III, "a" e "c", da CF, a parterecorrente alega, além de divergência jurisprudencial, ofensa aos arts. 85, § 2º, e 86 do CPC, sustentando que, "se os Recorrentes pediram o distrato com a devolução de 90% dos valores e obtiveram 80% a título de restituição, fato é que eles DECAÍRAM MINIMAMENTE de seus pedidos, pois perderam apenas os juros de mora (que passaram a correr do trânsito em julgado) eparte da restituição almejada" (e-STJ fls. 429).
+No agravo (e-STJ fls. 601/614), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 632).
+É o relatório.
+Decido.
+Acerca da distribuição da verba honorária, o TJSP consignou que(e-STJ fl. 421):
+8. Contudo, os juros moratórios devem fluir do trânsito em julgado, pois o inadimplemento contratual foi dos autores. A sucumbência, pela mesma razão (e considerando-se que houve pretensão de devolução de montante maior (ou retenção menor, entenda-se) é recíproca (como corretamente pretende a recorrente), fixada a verba honorária em 20% do valor da condenação, vedada a compensação, nos termos da lei.
+No caso,o pedido de devoluçãofoi de 90% (noventa por cento)dos valores,e os requerentes obtiveram 80% (oitenta por cento). O termo inicial os juros, por sua vez,foi fixado a partirdadata do trânsito em julgado.Nesse contexto, como a parte não logrouêxito apenas no percentual de restituição e no termo inicial dos juros de mora,há sucumbência mínima dos autores, devendo a parte ré responder integralmente pelas verbas respectivas.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DPVAT. CORREÇÃO MONETÁRIA DA INDENIZAÇÃO DESDE A DATA DO EVENTO DANOSO. RECURSO ESPECIAL PROVIDO PARA INVERTER OS ÔNUS DA SUCUMBÊNCIA. SUCUMBÊNCIA MÍNIMA DA PARTE AUTORA. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. "A jurisprudência do STJ está pacificada no sentido de adotar, como critério norteador para a distribuição das verbas de sucumbência, o número de pedidos formulados e atendidos." (EDcl no REsp 953.460/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/08/2011, DJe de 19/08/2011).
+2. Verificada a sucumbência mínima, caberá à parte adversa arcar, por inteiro, com os ônus da sucumbência.
+3. No caso, o pedido inicial foi julgado parcialmente procedente para reconhecer a necessidade de correção monetária da indenização no período compreendido entre a data do acidente e a data do recebimento administrativo da indenização, período inferior ao originalmente pleiteado. Sem que haja necessidade de incursionar no conjunto fático-probatório dos autos, constata-se que a parte autora decaiu de parte mínima do pedido formulado originalmente, de modo que deve a seguradora responder por inteiro pelos ônus sucumbenciais, nos termos do art. 21 do CPC/1973 (art. 86, parágrafo único, do CPC/2015).
+4. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.770.908/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 5/11/2019, DJe 27/11/2019.)
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. OMISSÃO. OCORRÊNCIA. ESCLARECIMENTO. NECESSIDADE. JUROS LEGAIS. INCIDÊNCIA. DIREITO INTERTEMPORAL. TAXA SELIC. IMPOSSIBILIDADE DE CUMULAÇÃO COM CORREÇÃO MONETÁRIA.  ..  2. Havendo modificação do julgado em sede de recurso especial, rejeitando-se em parte um dos pedidos formulados pelo autor na inicial, é necessário o redimensionamento da sucumbência, atendendo às peculiaridades da espécie.
+3. A jurisprudência do STJ está pacificada no sentido de adotar, como critério norteador para a distribuição das verbas de sucumbência, o número de pedidos formulados e atendidos. Precedentes.  ..
+9. Embargos de declaração de ambas as partes conhecidos em parte e, nessa parte, acolhidos. (EDcl no REsp n. 953.460/MG, Relatora. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 9/8/2011, DJe 19/8/2011.)
+Diante do exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial e afastar a sucumbência recíproca, devendo a parte vencida responder integralmente pela verba sucumbencial.
+Publique-se e intimem-se.
