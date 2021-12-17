@@ -1,0 +1,12 @@
+DECISÃO
+DANIELE KAROLINE CEGLAREK, condenada a 2 anos de reclusão, no regime semiaberto, mais multa, por incursão noart. 155, § 4.º, IV, do Código Penal (res - 22 peças de roupas avaliadas em R$ 1.038,00), alega sofrer coação ilegal em face de acórdão proferido pelo Tribunal a quo.
+Busca, em liminar e no mérito, o afastamento da qualificadora do concurso de suas ou mais pessoas e aalteração do regime prisional para modalidade mais branda.
+Decido.
+De acordo com a defesa, "não se pode considerar a qualificadorapresente no inciso IV, do § 4º, uma vez que não há qualquer comprovação do envolvimento de Diego na conduta da paciente" (fl. 7).
+O aresto recorrido não enfrentou a controvérsia. No ponto,consignou ser "inviável o acolhimento do pleito, pois a materialidade e autoria do furto em questão, no que diz respeito ao corréu Diego Agostinho já foi analisada pelo juízo de primeiro grau, e confirmada por esta Corte, em acórdão de minha relatoria, nos autos n. 0010613-94.2018.8.24.0005, julgado no dia 2.5.2019" (fl. 131).
+Não se verifica, nestes autos, cópia da denúncia, da sentença condenatória ou do acórdão assinalado pelo Tribunal de Justiça.A deficiente instrução do writ impossibilita a aferição da pretensa ilegalidade no reconhecimento da qualificadora do concurso de agentes, principalmente quandohá registro de que o corréu foi condenado pelo furto. Não épossível, no ponto, o conhecimento do remédio constitucional.
+Ação constitucional de natureza mandamental, o writexige prova pré-constituída das alegações e não comporta dilação probatória. É obrigatória sua instrução comdocumentossuficientes para aferição do pretenso constrangimento ilegal a direito de locomoção, ônus não observadopelo impetrante.
+Quanto ao regime prisional, o acórdão recorrido está em conformidade com a Súmula n. 269 do STJ, in verbis: "é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+O Juiz, na sentença mantida em segundo grau, consignou: "fixo o regime semiaberto como o inicial para o resgate da pena corporal,  .. em face da reincidência, destacando-se que se trata de ré reincidente específica em crime patrimonial".Assim, como o art. 33, § 2º, "c", do CP, prevê a possibilidade do regime aberto ao condenado não reincidente,não se verifica ilegalidade no acórdão estadual.
+À vista do exposto, conheço em parte o habeas corpus e, nesta extensão, denego a ordem.
+Publique-se e intimem-se.
