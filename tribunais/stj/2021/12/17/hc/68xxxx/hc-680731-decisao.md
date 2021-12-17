@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor deMATHEUS VINICIUS DIAS MERIZIO,em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que opacientefoi condenadocomo incursono art. 33, caput, da Lei n. 11.343/2006, à pena de 7anos de reclusão, em regime fechado, mais o pagamento de 700dias-multa.
+Em grau recursal, o Tribunal de origem negou provimento ao apelo defensivo.
+Neste habeas corpus, alega a defesa, em suma, queo paciente possui todos os requisitos para que lhe seja aplicada a causa de diminuição prevista no § 4º do artigo 33 da Lei n.11.343/06.
+Aduz que, reconhecido o redutor do tráfico privilegiado, o réu fará jus aregime inicial diverso do fechado.
+Requer, assim, a aplicação do redutor do tráficoprivilegiado, com a consequente alteraçãodo regime prisional.
+Liminar indeferida (e-STJ, fls. 49-50).
+Foram prestadas informações (e-STJ, fls. 53-69).
+O Ministério Público Federal opinoupelo não conhecimento do habeas corpus, mas pela concessão da ordem, de ofício, para que seja aplicada a pena-base no mínimo legal e fixado o regime semiaberto para o cumprimento da pena(e-STJ, fls. 73-77).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+O juiz sentenciante deixou de aplicar a minorante do tráfico privilegiado nos seguintes termos:
+"Segundo a prova dos autos, durante diligência quanto a ocorrência de um crime de roubo, a dupla de PMs talvez a dupla campeã de flagrantes de tráfico nesta cidade, foi até a residência do adolescente AFBM e este, ao vê-los, evadiu- se pelo fundo da residência, em um terreno baldio, retornando para perto do denunciado, apanhado uma sacola de suas mãos, que continha 518 pinos de cocaína e os dois tentaram se evadir, sendo alcançados pelos policiais, os quais apreenderam a citada sacola com os entorpecentes e localizaram 03 porções de maconha dentro da casa, R$ 147,00 em dinheiro, um liquidificador e uma peneira com resquícios de pó branco, que, conforme a perícia demonstrou tratava-se de cocaína.
+As negativas do denunciado, no sentido de que os policiais forjaram a sujeira no liquidificador não encontra nenhum suporte nos autos, mesmo porque a sua alegação está desmentida pelo laudo de fls.112/115 que atesta a presença de cocaína no referido aparelho.
+A afirmação de que os policiais forjaram a posse dos 518 pinos com cocaína, além de representar um atentado contra as instituições regularmente ativas no Estado de Direito, não encontra nenhum respaldo nos autos, ônus esse que era do imputado diante de todas as circunstâncias (CPP, art.156), tendo significado apenas "jus sperniandi" por quem foi flagrado na conduta ilícita. Se acaso fossem verdadeiras as suas afirmações, não teria sido nada difícil trazer a Juízo relatos sérios e isentos de suporte às suas negativas, as quais não trazem qualquer credibilidade, notadamente diante da inexistência de perjúrio em nossa legislação.
+ ..
+Assim, nos termos do art.59, do Código Penal, c.c. o art.42, da Lei nº 11.343/06, diante da quantidade e variedade de drogas, fixo ao réu, como pena-base, o cumprimento de 06(seis) anos de reclusão, mais o pagamento de 600(seiscentos) dias-multas.
+Por seu turno, a causa de aumento do art.40, inc. VI, da Lei nº11.343/06 envolvimento de menor de idade na prática, exaspera a pena-base em 1/6 (um sexto), chegando-se assim ao cumprimento de 07(sete) anos de reclusão e pagamento de 700(setecentos) dias-multas.
+A quantidade de cocaína apreendida 518 pinos, além de aparelhos e apetrechos que demonstram o preparo e embalagem da mesma na residência veda o benefício do art.33, §4º, da Lei nº 11.343/06, isso porque "Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06, o condenado deve preencher cumulativamente todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa" (STJ, HC nº 309.842/SP, rel. Min. GURGEL DE FARIA, j.22/09/2015 - destacamos; Rec. Esp. nº 1.556.186SP, rel. Min. ERICSON MARANHO, j. 26/10/2015,etc..).
+A pena corporal terá início no regime fechado (Lei nº 11.464/07; CP, art.33, §3º), conforme reiteradamente decidido (STF, Súmula nº 698 ;HC nº 85.692/RJ, rel. Min. CELSO DE MELLO, HC nº 77.023-5-SP, rel. Min.MAURÍCIO CORRÊA, HC nº 77.117/0-SP, rel. Min. CARLOS VELLOSO, HC nº 77.378-2/SP, rel. Min. MAURÍCIO CORRÊA; TJSP, Apel. Crim. nº 1.468.877/3, Araçatuba, rel. Des. RENÊ RICUPERO, Apel. Crim. nº 1.501.963/9, Araçatuba, rel.Des. ROBERTO MIDOLLA, Ap. Crim. nº 0024985-88.2010.8. 26.0032, Araçatuba, rel.Des. LUIS SOARES DE MELLO; Ap. Crim. nº 0020036-21.2010.8.26.0032, Araçatuba, rel. Des. SOUZA NERY).
+ ..
+POSTO ISTO, e por tudo o mais que dos autos consta, JULGO PROCEDENTE em parte a ação penal, e o faço para condenar MATHEUS VINICIUS DIAS MERIZIO, RG-39.090.123, qualificado nos autos, ao cumprimento de 07(sete) anos de reclusão, com início no regime fechado, e pagamento de 700(setecentos) dias-multas, no mínimo legal e atualizados a partir do trânsito desta em julgado, mais o perdimento da quantia em dinheiro apreendida em favor da União (Senad), tudo por infração ao art.33,"caput", c.c. o art.40, inc.VI, ambos da Lei nº 11.343/06, flagrada na tarde de 13/ago/2019, nesta cidade, em que foram ofendidas a incolumidade e a saúde pública, ficando afastada a figura do art.40, inc.III, da Lei nº 11.343/06, contida na denúncia."(e-STJ, fls. 27-32; sem grifos no original)
+A Corte de origem manteve afastado o redutor do tráfico privilegiado com base nos seguintes fundamentos:
+" ..
+Passo ao exame do mérito.
+Depreende-se dos autos que, no dia 13 de agosto de 2019, por volta das 16h30, na Rua João Cório, nº 400, Bairro Jardim Guanabara, na Cidade e Comarca de Araçatuba, MATHEUS VINICIUS DIAS MERIZIO, juntamente com o adolescente AFBM, tinha em depósito, para fins de entrega a consumo de terceiros, 290g de "cocaína", bem como 12,76g de "maconha", sem autorização ou em desacordo com determinação legal ou regulamentar.
+ ..
+Passo, pois, à análise das reprimendas.
+Inicialmente, foi a pena-base acertada e proporcionalmente exasperada em 1/5 (um quinto), com fulcro noartigo 42 da Lei nº 11.343/06, tendo em vista que o acusado foi surpreendido na posse de expressiva quantidade de entorpecentes, um dos quais dotado de elevada perniciosidade fato idôneo à configuração de circunstância judicial desfavorável.
+Sobre a possibilidade de exasperar as básicas em decorrência da quantidade e natureza das drogas:
+ ..
+Assim, totalizam as basilares 06 (seis) anos de reclusão e pagamento de 600 (seiscentos) dias-multa.
+Na segunda fase, ausentes agravantes ou atenuantes.
+Na derradeira etapa dosimétrica, era mesmo inviável o reconhecimento da modalidade privilegiada. Não obstante a primariedade de MATHEUS, as circunstâncias fáticas estão a evidenciar que não se trata de traficante de primeira viagem, mas sim de agente que vinha sistematicamente se dedicando às atividadescriminosas. Isso porque, o réu foi surpreendido com mais de 500 pinos de "cocaína", além de petrechos comumente utilizados para o preparo e fracionamento de drogas para posterior distribuição aos usuários. Ademais, os fatos eram praticados em comparsaria com o menor, este amplamente conhecido nos meios policiais.
+Ao depois, não há que se falar na substituição da pena privativa de liberdade por restritivas de direitos, ante o não preenchimento do requisito objetivo elencado no artigo 44, inciso I, do Código Penal (pena privativa de liberdade excedeu 04 anos).
+Finalmente, correta a estipulação da modalidade prisional fechada, por duas razões principais: a uma, porque foi determinada de forma precisa, nos termos do artigo 33, § 3º, do Código Penal, e a duas, porque guarda plena sintonia com a gravidade do caso concreto, perniciosidade da substância apreendida e, também, com as gravíssimas consequências desse delito, que destrói famílias e subjuga comunidades inteiras.
+Em tempo, repise-se que a aplicação doinstituto previsto no artigo 387, § 2º, do Código de Processo Penal não se revela adequada neste momento processual, devendo ser objeto de análise na fase de execução da sentença, após o trânsito em julgado e expedição da guia de recolhimento.
+Ante o exposto, rejeitada a preliminar, NEGA-SE PROVIMENTO ao recurso." (e-STJ, fls. 37-46; sem grifos no original)
+A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+In casu, observa-se que a Corte de origem afastou a minorante, por entender que a quantidade de drogas apreendidas -290g de cocaína e12,76g de maconha-, e a apreensão de aparelhos e apetrechos para o preparo e a embalagem dos entorpecentes, indicam a habitualidade dopacientecom o tráfico de entorpecentes.
+Desse modo, assentado pelainstânciaantecedente, soberanana análise dos fatos, que oréué contumazno comércio espúrio, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+A propósito:
+" ..
+CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ARTIGO 33 DA LEI DE DROGAS. PRETENDIDA APLICAÇÃO. REQUISITOS. NÃO PREENCHIMENTO. INDEFERIMENTO DA MINORANTE JUSTIFICADO.
+1. Para a incidência do redutor previsto no § 4º do artigo 33 da Lei 11.343/2006, é necessário o preenchimento dos requisitos legais: a) o agente seja primário; b) com bons antecedentes; c) não se dedique às atividades delituosas; d) não integre organização criminosa.
+2. No caso, revela-se inviável a aplicação da aludida causa especial de diminuição, tendo em vista que as instâncias de origem concluíram, fundamentadamente, com esteio nas provas acostadas aos autos, notadamente nas circunstâncias em que se deu o flagrante, na confissão parcial do corréu, e na quantidade de entorpecentes apreendida, que se dedica a atividades criminosas. Precedentes.
+ ..
+2. Habeas corpus não conhecido."
+(HC 384.936/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 28/3/2017, DJe 5/4/2017)
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO.  .. . CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. CONCLUSÃO DE QUE OS PACIENTES DEDICAVAM-SE A ATIVIDADES CRIMINOSAS. AFERIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. ILEGALIDADE. AUSÊNCIA. DENEGAÇÃO DA ORDEM.
+ ..
+3. Concluído pela Corte de origem, com arrimo nos fatos da causa, que os pacientes dedicavam-se às atividades criminosas, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n. 11.343/2006. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+ ..
+Habeas corpus denegado."
+(HC 385.941/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/4/2017, DJe 8/5/2017)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
