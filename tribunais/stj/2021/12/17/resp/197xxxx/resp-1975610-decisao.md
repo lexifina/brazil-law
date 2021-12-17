@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto contra acórdão assim ementado (fls. 212-218, e-STJ):
+TRIBUTÁRIO. JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA PERCEBIDOS EM RAZÃO DE REPETIÇÃO DO INDÉBITO. IRPJ. CSLL. PIS. COFINS.
+1. A Corte Especial do Tribunal Regional Federal da 4ª Região, no julgamento do IAI nº 5025380-97.2014.404.0000, declarou a inconstitucionalidade parcial, sem redução de texto, do § 1º do art. 3º da Lei nº7.713/88, do art. 17 do Decreto-Lei nº 1.598/77, e do art. 43, inc. II e § 1º, do CTN (Lei nº 5.172/66), de forma a afastar a incidência do imposto de renda (IR) e da contribuição social sobre o lucro líquido (CSLL) sobre os juros da taxa SELIC recebida pelo contribuinte na repetição de indébito.
+2. A partir da vigência das Leis nºs 10.637/02 e 10.833/03, os juros moratórios e a correção monetária recebidos compõem a base de cálculo do PIS e da COFINS, razão pela qual o contribuinte não tem o direito de excluir da base de cálculo da contribuição ao PIS e da COFINS os valores recebidos a título de juros moratórios e correção monetária (taxa SELIC) incidentes na restituição de tributos recolhidos a maior.
+Aclaratórios rejeitados (fls. 294-297, e-STJ).
+Aponta-se ofensa aos arts.1º, caput e § 1º, das Leis 10.637/2002 e 10.833/2003, 12 do Decreto-Lei 1.598/1977, 165 do CTN,pugnando, em suma, porexcluir o valor correspondente ao acréscimo da Taxa SELIC incidente sobre a repetição de indébitos tributários e sobre os valores de depósitos judiciais levantados da base de cálculo do PIS e da COFINS(fls. 236-247, e-STJ).
+Admitiu-se o intento (fls. 427-428, e-STJ), salientando-se que há Apelo Nobre fazendário, que está, todavia, sobrestado (fls. 421-422, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9.12.2021.
+O Tribunal regional asseverou, em síntese, que, "submetida a parte impetrante ao regime não-cumulativo previsto nas Leis 10.637/02 e 10.833/03, os juros moratórios e a correção monetária pela taxa SELIC integram a base de cálculo do PIS e da COFINS (fl. 216, e- STJ, grifou-se).
+A decisão daCorte local está em consonância com o entendimento deste STJ de que se incluem, na base de cálculo da contribuição ao PIS e da COFINS, os valores recebidos a título de juros moratórios e correção monetária (taxa Selic).
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. TAXA SELIC. EXCLUSÃO. BASE DE CÁLCULO DO PIS E CONFINS. IMPROCEDÊNCIA DO PEDIDO. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de mandado de segurança impetrado por Zoca Comércio e Transportes Ltda. contra Delegado da Receita Federal do Brasil em Porto Alegre, objetivando a exclusão da base de cálculo do IRPJ, CSLL, PIS E Cofins dos valores referentes à Selic incidentes sobre tributos restituídos ou compensados, bem como sobre o levantamento de depósitos judiciais, com direito à compensação.
+II - Na sentença, denegou-se a segurança. No Tribunal a quo, a sentença foi parcialmente reformada para reconhecer o direito da impetrante de excluir, da base de cálculo do IRPJ e da CSLL, os valores recebidos a título de juros de mora e correção monetária (taxa Selic) incidentes sobre pedidos de repetição de indébito e nos depósitos judiciais. Nesta Corte, negou-se provimento ao recurso especial.
+III -A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que se incluem, na base de cálculo da contribuição ao PIS e da COFINS, os valores recebidos a título de juros moratórios e correção monetária (taxa Selic). A propósito: (AgInt nos EDcl no REsp 1.848.930/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 11/2/2021, AgRg no REsp 1.271.056/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/9/2013 e AgRg no REsp 1.469.995/SC, relator Ministro Humberto Martins, Segunda Turma, DJe 15/10/2014.)
+(..)VIII - As Leis n. 10.637/2002 e 10.833/2003 dispõem que a base de cálculo da contribuição ao PIS e da COFINS abrange "o total das receitas auferidas no mês pela pessoa jurídica, independentemente de sua denominação ou classificação contábil". As deduções legalmente admitidas (art. 1º, § 3º) não incluem os juros de mora (ou a Selic), para fins do regime não cumulativo previsto nas referidas Leis.
+IX - Como os juros de mora consubstanciam lucros cessantes, inserem-se, portanto, na base de cálculo da contribuição ao PIS e da COFINS, que compreende a receita bruta da venda de bens e serviços nas operações em conta própria ou alheia e todas as demais receitas auferidas pela pessoa jurídica. (AgRg no REsp 1.271.056/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/9/2013.)
+(..)XIV - Agravo interno improvido.(AgInt no REsp 1.938.511/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/10/2021, grifou-se)
+Por isso,nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
