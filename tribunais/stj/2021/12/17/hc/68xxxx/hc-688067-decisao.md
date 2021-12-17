@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RAFAEL MARTINS ARGATE DOS REIS apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 1501808- 73.2020.8.26.0548).
+Depreende-se dos autos que o paciente foi condenado à pena de 10 anos e 2 meses de reclusão, em regime fechado, e ao pagamento de 1.482 dias-multa,pela prática dos delitos tipificados nos arts. 33,caput,e 35,caput, ambos da Lei n. 11.343/2006, pois, na companhia de corréu, foisurpreendido com2,883kg (dois quilogramas e oitocentos e oitenta e trêsgramas) de maconha, divididos em 293 porções,e 48,82g (quarenta e oito gramas e oitenta e dois centigramas) de cocaína, em 100 invólucros (e-STJ fls. 21/28).
+Interposta apelação, o Tribunal de origem negou provimento ao recurso defensivo em acórdão assim ementado (e-STJ fl. 30):
+Tráfico ilícito de entorpecentes e associação para o tráfico. Preliminar Nulidade processual não configurada. Rejeição. Recursos defensivos. Conjunto probatório suficiente para o reconhecimento dos crimes Absolvição Impossibilidade. Desclassificação da conduta. Inviabilidade. Penas motivadamente dosadas, necessárias e suficientes para reprovação e prevenção dos delitos. Sentença mantida. Recursos desprovidos.
+Neste writ,a defesaprimeiramenteaponta constrangimento ilegal decorrente da condenação do paciente pelo delito de associação para o tráfico.
+Sustenta que não se encontram presentes os elementos da permanência e da estabilidade exigidos para a configuração do referido delito.
+Reforça que "NÃO HOUVE NENHUMA INVESTIGAÇÃO ANTERIOR COMPROVANDO QUE O PACIENTE SE ASSOCIOU COM O CORRÉU PARA A PRÁTICA DO DELITO,NÃO HÁ NOS AUTOS NENHUM LIAME DE ASSOCIAÇÃO ENTRE ELES, NADA ABSOLUTAMENTE NADA QUE COMPROVE O DOLO DO PACIENTE EM SE ASSOCIAR COM O CORRÉU, NENHUMA INTERCEPTAÇÃO TELEFÔNICA, NENHUMA IMAGEM, FOTO NESSE SENTIDO, NÃO RESTOU COMPROVADA A ESTABILIDADE PARA CARACTERIZAR A ASSOCIAÇÃO" (e-STJ fls. 4/5).
+Alega, assim ser o caso de absolvição pelo delito do art. 35,caput, da Lei n. 11.343/2006, nos termos do art. 386 do CPP.
+Subsidiariamenteressalta que o réu preenche todos os requisitos legalmente exigidos para a aplicação da minorante do art. 33, § 4º, da Lei de Drogas, com o consequente abrandamento do regime prisional.
+Dessa forma, requer, liminarmente e no mérito, aabsolvição do réu quanto ao delito previsto no art. 35, caput, da Lei n. 11.343/2006 e o reconhecimento dacausa especial de diminuição de pena, com o abrandamento do regime prisional (e-STJ fls. 3/11).
+O pedido liminar foi indeferido (e-STJ fls. 51/52).
+Informações prestadas (e-STJ fls. 187/210).
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem (e-STJ fls. 212/218).
+É o relatório.
+Decido.
+Objetiva a defesa a absolvição do paciente pelo delito de associação para o tráfico, ante a ausência da estabilidade e da permanência exigidas para a caracterização do referido crime.
+Quanto ao tema, o Tribunal a quo assim se manifestou (e-STJ fls. 34/35):
+A acusação acolhida é no sentido de que os apelantes associaram-se para o fim de praticarem, reiteradamente ou não, o tráfico de drogas.
+Consta, ainda, que os recorrentes guardavam e tinham em depósito, para consumo de terceiros, 293 porções (2.883,8 gramas) de maconha e 100 invólucros (48,82 gramas) de cocaína, substâncias entorpecentes essas capazes de causar dependência física e/ou psíquica, sem autorização ou em desacordo com determinação legal ou regulamentar.
+Segundo restou apurado, em data anterior ao dia 10 de julho de 2020, Rafael e Lyons associaram-se para praticar tráfico de drogas.
+Por ocasião dos fatos, policiais militares, em patrulhamento de rotina, foram informados por uma pessoa, de que na residência mencionada, estariam sendo armazenados entorpecentes para fins de venda.
+Ao aportarem em tal local, avistaram Carla Isabelle Supriano, na garagem, a qual havia apenas locado junto ao denunciado Rafael um quarto no imóvel de sua propriedade.
+Em vistoria no interior da residência, os policiais lograram encontrar, em um cômodo dos quartos dos fundos, emespecífico no último quarto, Rafael e Lyons, no exato momento em que embalavam cocaína, bem como, localizaram as cem porções de cocaína, guardadas e tidas em depósitos para consumo de terceiros.
+Ainda, em vistoria a outro quarto, situado ao lado do anteriormente mencionado, os policiais lograram encontrar as 293 porções de maconha, guardadas e tidas em depósito, pelos acusados, para consumo de terceiros. Neste mesmo quarto, encontraram um saco contendo diversos microtubos vazios, três pacotes contendo saquinhos tipo Zip e dois rolos de plástico, bem como uma máquina seladora manual, três balanças, dois aparelhos celulares e uma tesoura.
+A materialidade dos delitos acha-se comprovada com base no auto de exibição e apreensão (fls. 20/21), auto de constatação preliminar (fls. 23/25); exame químico-toxicológico (fls.129/130), bem como pela prova oral coligida.
+De igual modo, a autoria dos crimes recai com segurança sobre os apelantes.
+Ao contrário do alegado pela defesa, o Tribunal local entendeu estarem devidamente comprovadas tanto a autoria quanto a materialidade do delito de associação para o tráfico, ante o conjunto fático-probatório acostado aos autos, em observância aos princípios do devido processo legal substancial, do contraditório e da ampla defesa.
+Ademais, esta Corte é firme na compreensão de que não se presta o remédio heroico à revisão da condenação estabelecida e confirmada pelas instâncias ordinárias, uma vez que a mudança de tal conclusão exigiria o reexame das provas, o que é vedado na via do habeas corpus.
+Sobre o tema, este é o entendimento doutrinário:
+ ..  o writ parece apresentar na sua previsão fundamental (a atinente à justa causa para a coação) uma questão dificilmente transponível: a necessidade de exame do conjunto probatório. A pedra angular da questão é a apreciação de provas no âmbito restrito do habeas corpus, o que merece reflexão: predomina, tanto na doutrina quanto na jurisprudência, a posição no sentido de que, no remédio heroico, não se pode fazer cotejo de provas, antepor depoimentos ou examinar de forma apurada, aprofundada, qualquer espécie de questão.  ..  (PACHECO. José Ernani de Carvalho. Habeas Corpus. 6ª ed. Curitiba: Juruá, 1994, p. 29.)
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DOSIMETRIA.FUNDAMENTAÇÃO VÁLIDA. INAPLICABILIDADE DO ART. 387, § 2º, DO CPP. REGIME PRISIONAL FECHADO JUSTIFICADO. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. DIREITO DE RECORRER EM LIBERDADE.SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1 - As instâncias ordinárias, após análise de todo o contexto probatório dos autos, concluíram pela caracterização da conduta típica do tráfico de drogas e da associação para o tráfico, e desfazer esse entendimento demandaria a análise de todo o conjunto probatório dos autos, e não a sua mera valoração, razão pela qual se mostra inadequada a via eleita, que não admite incursão na seara fático-probatória.
+ ..
+6 - Agravo regimental improvido. (AgRg no HC 650.766/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/9/2021, DJe 17/9/2021, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. IMPOSSIBILIDADE.REVISÃO DE PROVAS. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL. QUANTIDADE E NATUREZA DA DROGA (280G DE MACONHA, 5G DE CRACK E 130G DE COCAÍNA). ART. 42 DA LEI N.11.343/2006. CIRCUNSTÂNCIAS DO CRIME DE RESISTÊNCIA.DISPAROS DE ARMA DE FOGO CONTRA OS AGENTES DA POLÍCIA.FUNDAMENTAÇÃO IDÔNEA. DESPROPORCIONALIDADE.INOCORRÊNCIA. CAUSA DE DIMINUIÇÃO DE PENA (ART. 33, § 4º, DA LEI N. 11.343/2006). CONDENAÇÃO PELO CRIME PREVISTO NO ART. 35 DA LEI N. 11.343/2006. DEDICAÇÃO À ATIVIDADE CRIMINOSA INERENTE AO DELITO. INVIÁVEL O RECONHECIMENTO DA REDUTORA DE PENA. AGRAVO DESPROVIDO.
+1. O pedido de absolvição por ausência de provas suficientes para sustentar a condenação implica no reexame aprofundado de todo o acervo fático-probatório, providência totalmente incompatível com os estreitos limites do habeas corpus.
+ ..
+5. Agravo regimental desprovido. (AgRg no HC 650.949/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/10/2021, DJe 25/10/2021, grifei.)
+Subsidiariamente, postula a impetrante a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 por estarem presentes todos os requisitos legalmente exigidos para a sua concessão.
+Na hipótese, o Tribunala quorealizou o cálculo dosimétrico nos seguintes termos (e-STJ fls. 42/45):
+Passa-se à análise da dosimetria penal.
+Rafael:
+No tocante ao tráfico, a pena-base foi fundamentadamente exasperada em 1/3, tanto em face dos antecedentes criminais (fls. 196/197), bem como a teor do permissivo previsto no artigo 42, da Lei Antidrogas, face à quantidade e diversidade das drogas apreendidas, sem olvidar a natureza lesiva de parte delas.
+Com efeito, a despeito da argumentação defensiva, a reprimenda não comporta modificação, pois idoneamentefundamentada no desfavorecimento das circunstâncias objetivas destacadas, as quais evidenciam maior culpabilidade, por acarretar consequências nefastas a grande número de usuários e para a própria sociedade ..
+Registre-se, por outro lado, quanto à configuração da má-antecedência, que o decurso do lapso depurador do artigo 64, inciso I, do Código Penal não impede que a condenação criminal transitada em julgado justifique a exasperação da pena-base, como na hipótese ..
+Assim, ausentes outras causas modificadoras, a pena atingiu contornos definitivos em 06 (seis) anos e 08 (oito) meses de reclusão, acrescidos de 666 (seiscentos e sessenta e seis) dias-multa menores.
+Já no tocante ao delito de associação, diante do desfavorecimento das circunstâncias judiciais, acima apontado, a basilar foi aumentada de 1/6, perfazendo 03 (três) anos e 06 (seis) meses de reclusão e pagamento de 816 (oitocentos e dezesseis dias-multa menores).
+Assim, somadas, em face do cúmulo material, as sanções totalizaram 10 (dez) anos e 02 (dois) meses de reclusão, em regime fechado, e pagamento de 1.482 (mil, quatrocentos e oitenta e dois) dias-multa menores ..
+O pedido de aplicação do redutor especial, formulado por ambos os réus, não merece acolhimento.
+Consigne-se que, além da antecedência criminal de Rafael; da significativa quantidade de entorpecente encontrado na posse dos suplicantes e da existência de petrechos relacionados ao tráfico, tudo após denúncias, o reconhecimento da associação para o tráfico afasta a condição de traficantes ocasionais e evidencia dedicação à atividade criminosa, de modo a inviabilizar a incidência da benesse legal.(Grifei.)
+De acordo com o disposto no art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 a 2/3 da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes e não se dedique a atividades criminosas nem integre organização criminosa.
+Evidente, portanto, que o benefício descrito no art. 33, § 4º, da Lei n.11.343/2006, tem como destinatário o pequeno traficante, ou seja, aquele que inicia sua vida no comércio ilícito de entorpecentes, muitas das vezes até para viabilizar seu próprio consumo, e não para os que, comprovadamente, fazem do crime seu meio habitual de vida.
+Sobre o tema, destaco a seguinte lição:
+Cuida-se de norma inédita, visando à redução da punição do traficante de primeira viagem, o que merece aplauso. Portanto, aquele que cometer o delito previsto no art. 33, caput ou § 1º, se for primário (indivíduo que não é reincidente), vale dizer, não cometeu outro delito, após ter sido definitivamente condenado anteriormente por crime anterior, no prazo de cinco anos, conforme arts. 63 e 64 do Código Penal) e tiver bons antecedentes (sujeito que não ostenta condenações definitivas anteriores), não se dedicando às atividades criminosas, nem integrando organização criminosa, pode valer-se da pena mais branda. (Leis penais e processuais penais comentadas. Guilherme de Souza Nucci. 9ªed. rev., atual. e ampl. - Rio de Janeiro: Forense, 2015, pp. 358-359.)
+O dispositivo legal em desfile anuncia norma de direito material de observância obrigatória, desde que preenchidos os requisitos legais.
+Outrossim, a conclusão de que o réu se dedica a atividades criminosas ou, ainda, que ele integra organização criminosa, exige fundamentação razoável, é dizer, demanda a indicação de dados concretos de comprovação dessas circunstâncias.
+Sob esse prisma, não vislumbro o alegado constrangimento ilegal, pois, como visto acima, a condenação do paciente pelo delito do art. 35, caput, da Lei n.11.343/2006, por si só, constitui fundamento para a não concessão do pretendido redutor.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO.REEXAME DE PROVAS. IMPOSSIBILIDADE.  ..  EXASPERAÇÃO DA PENA-BASE FUNDAMENTADA. QUANTIDADE E NATUREZA DAS DROGAS. APLICAÇÃO DA MINORANTE. INVIABILIDADE. CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. ABRANDAMENTO DO REGIME PRISIONAL. IMPROCEDENTE. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL.  ..  AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Esta Corte é firme na compreensão de que não se presta o remédio heroico à revisão da condenação estabelecida e confirmada pelas instâncias ordinárias, uma vez que a mudança de tal conclusão exigiria o reexame das provas, o que é vedado na via do habeas corpus.
+2. Na hipótese, o Tribunal local entendeu estarem devidamente comprovadas tanto a autoria quanto a materialidade do delito imputado ao agravante - ante o conjunto fático-probatório acostado aos autos, em observância aos princípios do devido processo legal substancial, do contraditório e da ampla defesa.
+ ..
+6. De acordo com o aludido art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário, portador de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+7. Na hipótese, a condenação do agravante pelo delito do art. 35, caput, da Lei n. 11.343/2006, por si só, constitui fundamento para a não concessão do pretendido redutor.
+ ..
+10. Agravo regimental desprovido. (AgRg no HC 550.917/SP, de minha relatoria, SEXTA TURMA, julgado em 28/4/2020, DJe 8/5/2020, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. ABSOLVIÇÃO.REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE.AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. Porque mantida a condenação dos réus pela prática do crime de associação para o tráfico de drogas, não há como reconhecer a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+ ..
+7. Agravo regimental não provido. (AgRg no HC 507.130/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 5/12/2019, DJe 11/12/2019, grifei.)
+Inalterada a sanção originária, fica mantido o regime fechado para cumprimento da sanção, nos termos do art. 33, § 2º, "a", do CP.
+Ante o exposto,denego a ordem dehabeas corpus.
+Publique-se. Intimem-se.
