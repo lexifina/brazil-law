@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se  de agravodo ESPÓLIO DE EDI SILIPRANDI, em que objetivaadmissão  de  recursoespecialinterposto contra  acórdão  do TJPRassim ementado:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL -SUBSTITUIÇÃO DE CERTIDÃO DE DÍVIDA ATIVA -CORREÇÃO DE ERRO MATERIAL OU FORMAL -POSSIBILIDADE - INTELIGÊNCIA DO ARTIGO 2º, § 8º, DALEI Nº 6.830/80 - PRECEDENTES DESTA 1ª CÂMARA CÍVEL -RECURSO DESPROVIDO.
+No  especial,  a  parte  alega  violação  dos  arts. 489 e1.022 do CPC/2015.
+ Sustenta,  em  síntese, que:
+ a)  o acórdão não apresentou fundamentação apta a amparara conclusão alcançada, tendo se utilizado de mera transcrição de precedentes daquela Corte como razões de decidir ;
+ b) há omissão no acórdão recorrido quenão apreciou as teses suscitadas pelo recorrente de que (i) o erro na fixação do crédito no título executivo é provocado pelo próprio lançamento dos tributos de forma não individualizada, o que não pode ser corrigido pela simples substituição da CDA; (ii) existe testemunho no sentido de que é frequente a prática pela edilidade dos lançamentos de tributos de forma aglutinada; e (iii) a substituição da CDA antes de sanar mero erro formal ou materialtenta solucionar falha do próprio lançamento;
+c) há omissão no acórdão em não apreciar os precedentes arrolados na peça recursal no sentido da pretensão do recorrente; e
+d) as teses (questões fáticas e jurídicas) indicadas no acórdão como suscitadas pelo recorrente não foram indicadas no agravo de instrumento.
+Passo  a  decidir.
+O  recurso  especial  se  origina  de  agravo de instrumento contra decisão proferida em embargos à execução fiscal que determinou a substituição da CDA pela exequente por erro formal no título executivo aoindicaros créditos de diversos tributos de forma aglutinada sem a correta identificação de sua origem.
+O Tribunalparanaense negou provimento ao agravo de instrumento ao fundamentode que é possível a substituição do título executivo (CDA) antes da prolação da sentença de primeiro grau desde quepara correção de erros formais e materiais que não interfiram com o lançamento.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+De início,cumpre registrar quea jurisprudência do Superior Tribunal de Justiçaé pacíficano sentido de que nãoincorre em negativa de prestação jurisdicional oacórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas nãoacolhendoa tese defendida pelo recorrente.
+Da análise dojulgadorecorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia.
+Com efeito, o Tribunala quo consignou que a existência de erro formal na CDA, a exemplo da ausência de indicação pormenorizada da origem dos créditos descritos no título executivo (hipótese dos autos),pode ser dirimida pela substituição do Título pela exequente, momento em que será oportunizado novo prazo para a defesa do executado.
+Para tanto, arrolou precedentes daquela Corte estadual proferidos em situações assemelhadas (envolvendo as mesmas partes e causa de pedir) em que foideferida a substituição de título executivo que indica de forma aglutinada e não pormenorizada os valores executados.
+Integrado pelo acórdão dos embargos de declaração, o acórdão esclarece extrair o fundamento legal da solução adotada noart. 2º, §8º da LEF e nos arts.202 e 203 do CTN, bem como acolhe entendimento do STJ cristalizado no enunciado da Súmula 392 do STJ que autoriza a substituição do Título executivo quando eivado de erro forma ou material.
+Anote-seque a Corte estadual decidiu exclusivamente o tema relativo à higidez formal do título executivo, não tendo apreciado as teses relativas à higidez do próprio lançamento, uma vez que o tema não foi objeto da decisão de primeiro grau agravada.
+Assim,ainda que proferido de forma sucinta, apresenta fundamentação suficiente para sustentar a conclusão adotada.
+Dessa forma, não se vislumbram as violações dos arts. 489 e 1.022 do CPC/2015 apontados no recurso especial.
+Por fim, relativamente à alegação de nulidade do provimento jurisdicional colegiado em razão deas teses (questões fáticas e jurídicas) indicadas no acórdão como suscitadas pelo recorrente não guardarem relação com aquelas defendidas no recurso especial, tenho que o recurso não merece ser conhecido pelo óbice da Súmula 284 do STF.
+Com efeito, não é possível conhecer do recurso especial no que tange à suposta violação dos arts. 489 e 1.022 do CPC/2015 pelo item (d) do relatório, pois os artigos de lei apontados como malferidos nãocontêmcomando normativocapaz de infirmar o fundamento do acórdão atacado, porquanto não induzem ao direito pleiteado.
+A alegação de que o acórdão decidiu matéria alheia às teses suscitadas no recurso de agravo espelha irresignação por suposta hipótese de julgamento extra petita, temaque nãoé regido pelos dispositivos cuja violação se aduz, o que atrai a aplicação, por analogia, da Súmula 284 do STF:"É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+ Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  II,  "b",  do  RISTJ,  CONHEÇO  do  agravo  para  CONHECER  PARCIALMENTE  DO  RECURSO  ESPECIAL  e,  nessa  parte,  NEGAR-LHE  PROVIMENTO.
+Publique-se. Intimem-se.
