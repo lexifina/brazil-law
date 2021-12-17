@@ -1,0 +1,17 @@
+Vistos etc.
+Cuida-se de recurso de agravo de instrumento interposto por ALESSANDRO NICOLI, ALESSANDRA CAMPOS DE ABREU NICOLI e NICOLI AGRO LTDA - ME nos autos da ação de Reintegração de Posse no 1000796-80.2021.8.11.0090 que lhe move BANCO ORIGINAL S/A. Discorda a agravante de decisão Juízo da Vara Única da Comarca de Canaã do Norte, Estado de Mato Grosso onde houve o deferimento de liminar. Sustenta a ilegalidade desta decisão, faz a fundamentação de fato e de direito, submete a questão ao crivo da 2a. Câmara Cível deste sodalício mato-grossense, almejando a concessão de liminar.
+Síntese necessária.
+Os argumentes pertinentes à utilização do recurso de agravo de instrumento, dentro da dicção do art. 1.015 do Código de Processo Civil, estão presentes e, desta forma, constata-se a utilização deste remédio jurídico recursal.
+A questão vista em todos os seus aspectos básicos inerentes à espécie e, numa análise sumária e não exaustiva, aspectos que somente serão analisados com maior profundidade estão presentes os requisitos legais a evidenciar, em tese, os pressupostos processuais para o deferimento da liminar.
+Veja, ainda em juízo de cognição sumária, que não obstante a presente ação tenha como fato gerador o esbulho possessório praticado pelos Requeridos, os mesmos se encontram em recuperação judicial, de modo que a atividade/produto desenvolvida em referidos imóveis aparentemente tem caráter essencial à manutenção da atividade empresarial dos Agravantes/Requeridos.
+Somado a isto, faz prova de que já deu início ao cultivo de 1.800ha, como se vê dos documentos de ID: 113275951, 113275953, 113275954, 113275962 e 113275964, o que acaba por evidenciar o perigo de dano ou de difícil reparação, uma vez que os agravados ao reintegrarem-se na posse da área, podem impedir que o agravante de continuidade ao cumprimento da obrigação assumida, bem como podem se apropriar do que já foi investido na área, as custas do labor do agravante, e eventualmente até colocar a perder o que já foi feito, no caso de uma má gerencia.
+Com essas considerações, procede-se à seguinte determinação, em caráter liminar e dentro do poder de cautela:
+(1) – Conceder efeito suspensivo e, via de consequência, obstar a determinação do magistrado de primeiro grau para manter o agravante/requerente na posse do imóvel questionado no feito até ultimada a colheita da soja já plantada, safra 2021/2022;
+(2) - Vedar, de forma expressa, novo cultivo ou utilização da área, condição esse que, acaso descumprida, implicará em imediata revogação dessa tutela de natureza acautelatória;
+(3) - Autorizar que a parte autora/agravada tenha livre acesso a área litigiosa e acompanhe a evolução da colheita, determinando que seja expedido pelo Juízo de Origem mandado de constatação do atual estado do imóvel às custas da parte agravante, ficando advertido que a falta de recolhimento das diligências também ensejará em revogação dessa medida.
+De ciência desta decisão ao juiz de primeiro grau, para conhecimento e fins necessários ao cumprimento do aqui decidido. Requisito do mesmo informações mais detalhadas a respeito do feito em questão, assinalando o prazo de 15 dias para o ato.
+Ao depois, encaminhem-se os autos à PROCURADORIA GERAL DE JUSTIÇA para emitir parecer.
+Às providências de estilo, autorizando a Senhora Secretária da Segunda Câmara Cível a assinar os expedientes necessários.
+Cumpra-se.
+Desembargador SEBASTIÃO DE MORAES FILHO.
+- Relator -
