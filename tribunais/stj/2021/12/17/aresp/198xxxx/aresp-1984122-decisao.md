@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto porSOLANGE CRUZ FRESCHI SOBRINHO contra decisão que inadmitiu recurso especial (e-STJ, fls. 131-133)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 114):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. ASSISTÊNCIA JUDICIÁRIA. Agravante que não demonstrou enquadramento aos requisitos necessários para concessão da assistência judiciária. Efetiva hipossuficiência de recursos não comprovada. Indeferimento mantido. RECURSO DESPROVIDO.
+Nas razões do recurso especial, a recorrente,com fulcro nas alíneasae c do permissivo constitucional, alegou divergência jurisprudencial e violação aos arts. 2º, parágrafo único, da Lei 1.060/1950; e 98 do CPC/2015.
+Sustentou que faz jus ao deferimento do benefício da gratuidade judiciária. Afirmou que não possui condições financeiras para arcar com as despesas processuais.Destacou que a negativa de concessão da benesse viola o direito constitucional de acesso à justiça.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls.131-133).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 136-155).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da tese defendida pela recorrente, o Tribunal de origem assim se manifestou (e-STJ, fls. 115-117):
+É do comando constitucional, art. 5º, inc. LXXIV, que a assistência jurídica integral e gratuita seja prestada aos que comprovarem insuficiência de recursos.
+É certo também que o § 3º do art. 99 do Código de Processo Civil estabelece ser presumivelmente verdadeira a simples declaração de pobrezaapresentada por pessoa natural.
+Contudo, vale ponderar que tais dispositivos devem ser harmonizados ao contexto fático apresentado nos autos, expurgando-se do benefício àqueles que não revelam efetiva necessidade do favor estatal, eis que presunção da recitada declaração não pode ser tida como absoluta.
+A caracterização da insuficiência econômica, necessária para a concessão do benefício da assistência judiciária, deve resultar da consideração do valor da taxa judiciária a ser recolhida inicialmente, da natureza e complexidade da causa e da possibilidade da ocorrência das despesas elencadas no artigo 98, § 1º,incisos I à IX do CPC/151.
+Assim, a declaração de hipossuficiência possui presunção relativa, de modo que se o juiz tiver fundadas razões e os elementos trazidos aos autos forem suficientes para não se dar crédito à declaração de miserabilidade, o benefício da assistência judiciária deve ser indeferido.
+ ..
+No caso, há elementos suficientes para se afastar a presunção de pobreza alegada pela agravante.
+Não obstante a recorrente ter alegado que não possui condições financeiras suficientes para arcar com os encargos processuais sem comprometimento do seu sustento e de sua família, o julgador verificou, diante do contexto fático apresentado, que referida declaração não convergia com a realidade financeira dela.
+Verifica-se da declaração de imposto de renda referente ao exercício de 2020 que a agravante auferiu total de rendimentos tributáveis na quantia significativa de R$ 25.800,00 com recebimento de aluguel, além de possuir bens, dentre eles vários imóveis, que totalizam o montante de R$ 341.910,33 (fls. 57/67). Ainda, recebe salário mensal da Prefeitura Municipal de Paraíso/SP, no valor de 4.129,07, fls. 75/76, situações que não coadunam com a hipossuficiência alegada.
+Do excerto acima transcrito, depreende-se que a instância originária, após detida análise dos fatos e provas acostadas aos autos, atestou que a recorrente possui condições financeiras para custear as despesas processuais.
+Segundo a Corte local, a declaração de insuficiência de recursos tem presunção relativa, podendo ser revista pelo juiz quando constatados outros elementos de provas.
+De fato, segundo a jurisprudência do STJ, "apresunção de pobreza, para fins de concessão dos benefícios da assistência judiciária gratuita, ostenta caráter relativo, podendo o magistrado indeferir o pedido de assistência se encontrar elementos que infirmem a hipossuficiência do requerente" (AgInt no AREsp 1.830.109/MG, Rel. Ministra MariaIsabelGallotti, QuartaTurma, julgado em 22/11/2021, DJe 25/11/2021).
+No caso em exame, ficou atestado pelo Tribunal a quo que a recorrente possui recursos para arcar com o pagamento das custasprocessuais.À vista disso, mostra-se vedado a este Tribunal Superior rever a conclusão acolhida pelo Tribunal estadual, uma vez que seria necessárioo revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+Em relação à divergência jurisprudencial, aplicado o citado óbice sumular, fica prejudicada a análise do dissídio, pois ausente similitude fático-jurídica entre os julgados confrontados.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. REQUISITOS NÃO CONSTATADOS. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICIADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
