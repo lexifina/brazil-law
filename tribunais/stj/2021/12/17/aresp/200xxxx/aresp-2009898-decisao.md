@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo apresentado por BRUNO HENRIQUE RIBEIRO DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - AUTORIA E MATERIALIDADE INEQUIVOCAMENTE DEMONSTRADAS E SEQUER QUESTIONADAS - DOSIMETRIA - APLICAÇÃO DA FRAÇÃO MÁXIMA DA CAUSA ESPECIAL DE DIMINUIÇÃO DO ART. 33, §4º, DA LEI N.º 11.343/06 - IMPOSSIBILIDADE - RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 33, § 4º; e 42, ambos da Lei n. 11.343/2006, no que concerne à possibilidade de aplicação do redutor máximo referente ao tráfico privilegiado (2/3), a despeito da nocividade da droga, em razão da pequena quantidade da substância apreendida, trazendo os seguintes argumentos:
+In casu, foi apreendida pequena quantidade de cocaína, correspondente a apenas 12,87g (doze gramas e oitenta e sete centigramas) - fato incontroverso no acórdão (fl. 223).
+Dessa forma, ainda que a cocaína tenha elevado potencial destrutivo, diante da presença de pequena quantidade, sua natureza, por si só, não ampara a fração de redução da reprimenda em apenas 3/5 (três quintos) na terceira fase de sua fixação (fl. 223).
+Ainda que tenham sido localizados 19 pinos de cocaína, 02 balanças de precisão, 74 pinos vazios e 01 frasco de "Ioló", a quantidade de entorpecente encontrada é pequena e impõe a maior redução da reprimenda prevista em lei (fl. 224).
+É, no essencial, o relatório. Decido.
+Com relação ao recurso apresentado, quanto à controvérsia, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
