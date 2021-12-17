@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de petição protocolizada por ROBERTO RICARDO SANTIAGO NOBREGA, na qual afirma, em síntese, que, diversamente da certidão constante à e-STJ fl. 3.264, os embargos de declaração foram opostos contra o acórdão proferido no agravo regimental, sendo, portanto, tempestivos.
+No mais, afirma que o Magistrado de origem já deu cumprimento à decisão proferida nestes, consignando a "necessidade de se atentar para a necessidade de permanecer no distrito da culpa e atender aos chamamentos judiciais", o que, a seu ver, é mais gravoso que a cautelar relaxada, uma vez que labora e reside no município de João Pessoa e já havia sido autorizado pelo Magistrado de origem a realizar deslocamentos para a cidade de São Paulo.
+Requer, assim, seja sanada referida inexatidão material.
+É o relatório. Decido.
+De início, esclareço que, ao se afirmar a necessidade de o requerente "permanecer no distrito da culpa e atender aos chamamentos judiciais", nada mais se determinou que a observância à regra geral que deve ser observada por todos aqueles que estão respondendo a processo criminal. Dessarte, não há se falar, por óbvio, em aplicação de medida mais gravosa que a relaxada.
+A necessidade de permanência no distrito da culpa não impede o recorrente de realizar suas viagens, devendo, no entanto, comunicar o juiz emanter seu endereço atualizado. No ponto, considerando que o recorrente não reside no município de Cabedelo, mas sim no de João Pessoa, os quaisdistam menos de 20km, não é possível interpretar o acórdão proferido nos presentes autos no sentido trazido pelo peticionário, sob pena de se atribuir conclusão desarrazoada aodecisum.
+Nada obstante, com o objetivo de evitar eventual constrangimento ilegal derivado da inadequada interpretação do acórdão proferido nos presentes autos, esclareço que o comando no sentido de que o recorrente deve"permanecer no distrito da culpa e atender aos chamamentos judiciais" significa que o requerente não pode alterar seu endereço atual nem viajar sem comunicar o Magistrado de origem.
+Ante o exposto, defiro o pedido, para proceder aos esclarecimentos indicados.
+Publique-se.
