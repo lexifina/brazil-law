@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra decisão do respectivo Tribunal de Justiça, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal, em oposição a acórdão assim ementado:
+"APELAÇÃO CRIMINAL. CRIME DE FURTO QUALIFICADO. SENTENÇA CONDENATÓRIA. ABSOLVIÇÃO. PROVA SUFICIENTE PARA A RESPOSTA PENAL DESFAVORÁVEL. SOLUÇÃO JURISDICIONAL MANTIDA. PENA. REDUÇÃO.
+I - Não remanescendo a menor fímbria de dúvida de que o processado, em comunhão de desígnios com terceiros, mediante o rompimento de obstáculo, violou a propriedade da vítima, subtraindo para si coisas alheias móveis, cabendo-lhe a responsabilidade por indicar a residência a ser furtada, na ausência dos proprietários, correta a sua condenação, por infringência do art.155, §4º, incisos I e IV, do Código Penal Brasileiro.
+II - Apenamentos reduzidos.
+APELO PARCIALMENTE PROVIDO. SENTENÇA REFORMADA, EM PARTE." (e-STJ, fls. 481-482).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fl. 526).
+O Parquet alega, em síntese, que o acórdão recorrido, ao dosar o aumento de cada circunstância judicial desfavorável em apenas 03 (três) meses, sem a correspondente motivação para a reforma do quantum fixado pelo juiz sentenciante, violou o art. 59 do Código Penal.
+Sustenta que, "em se tratando do crime de furto duplamente qualificado, cuja pena em abstrato varia entre 02 e 08 anos, extrai-se um intervalo de 06 anos entre o máximo e o mínimo, o qual, dividido por 8, resulta em 09 (nove) meses para cada circunstância judicial valorada negativamente, totalizando, in casu, uma pena-base de, ao menos, 03 (três) anos e 06 (seis) meses, tal como operado na sentença" (e-STJ, fl. 539).
+Requer, assim, "seja reformado o acórdão, com incremento na dosimetria da pena imposta ao recorrido, ajustando-se a reprimenda penal imposta para a fração ideal de exasperação determinada pela jurisprudência, nos termos da sentença condenatória" (e-STJ, fl. 543).
+É o relatório.
+Decido.
+A irresignação não merece acolhimento.
+Consoante se verifica dos autos, o réu foi condenado como incurso no art. 155, §4º, incisos I e IV, do Código Penal, pelo magistrado de primeiro grau, às penas de 03 (três) anos e 06 (seis) meses de reclusão, no regime aberto, substituída por restritiva de direitos, bem como 98 (noventa e oito) dias-multa(e-STJ, fls. 367-368).
+Irresignada, a defesa interpôs apelação, a qual foi parcialmente providaTJGO,para reduzir a sanção, nos seguintes termos:
+"No processo de quantificação da reprimenda ao processado, o sentenciante fixou-lhe a base punitiva de 03 (três) anos e 06 (seis) meses de reclusão, à consideração demeritória de duas circunstâncias judiciais, merecendo o recuo para 02 (dois) anos e 06 (seis) meses de reclusão, ausentes atenuantes/agravantes, causas de diminuição/aumento, no regime inicial aberto, inalterada a substituição por restritiva de direitos, recuada a patrimonial para 12 (doze) dias-multa, no menor valor unitário." (e-STJ, fls. 480).
+Importante destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+No caso, verifica-se que a pena fixada pela Corte de origem -qual seja, 2 anos e 6 meses de reclusão -não se apresenta desproporcional ou desarrazoada, de modo a ensejar a especial intervenção desta Corte Superior.
+O fundamental é compreender que não há direito subjetivo das partes à aplicação de um critério unicamente matemático na fixação da pena-base, seja ele o de 1/8 sobre o intervalo das penas ou qualquer outro, bastando que as instâncias ordinárias tenham procedido de maneira proporcional(AgRg no AREsp 1873693/TO, de minha Relatoria, QUINTA TURMA, julgado em 14/09/2021, DJe 20/09/2021).
+Ante o exposto, com fundamento no 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
