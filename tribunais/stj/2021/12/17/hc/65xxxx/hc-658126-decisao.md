@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de revisão criminal impetrado por SIVALDO RODRIGUES OLIVEIRA em causa própria, em que aponta como autoridade coatora o Tribunal de Justiça do Estado deSão Paulono julgamento daApelação n. 0000215-87.2018.8.26.0052.
+O paciente foi condenado pelo tribunal do júri à pena de 14anos de reclusãoem regime inicial fechado,como incurso no art. 121, §§ 2º, II,IV, VI, e2º-A, do Código Penal. Interposta apelação pelo Ministério Público, o Tribunal de origem negou-lhe provimento, mantendo incólume a decisão impugnada. O acórdão, cuja ementa transcreve-se a seguir, transitou em julgado em 27/1/2021:
+APELAÇÃO homicídio qualificado. Apelo do MP para exacerbação da pena. Apelante confesso, crime cometido em condição de gravidade que foi objeto de reconhecimentono Veredicto do Conselho de Sentença. Aumento em razãodas qualificadoras e da situação de convivência domésticofamiliar.
+Art. 59, CP, a pena foi fundamentada, conforme a convicçãodo Juízo a quo, conhecedora do fato por ter presidido aPlenária do Júri, a par do acompanhamento do processocrime. O critério trifásico foi observado em face dos autos.
+O regime prisional tem previsão legal.
+NEGADO PROVIMENTO AO RECURSO.
+Na presente via, o impetrante busca o reconhecimento da legítima defesa e a reavaliação dadosimetria aplicada.
+Afirma que o crime foi praticado em legítima defesa, no decorrer de briga com a vítima,sua companheira e mãe de seus dois filhos,em razão de terem consumido álcool e drogas alucinógenas, visto que ambos eram dependentes químicos.
+Requer a minuciosa revisão do processo.
+As informações foram prestadas (fls. 30-46).
+O Ministério Público Federal opinou pelo não conhecimento/denegação do habeas corpus.
+É o relatório. Decido.
+De início, constata-se que não há como conhecer dowrit, seja em virtude da orientaçãojurisprudencial do STJ, que veda a utilização dehabeas corpus em substituição ao recurso próprio, seja por inexistir julgamento de mérito desta Corte em relação à presente condenação.
+Esclareça-seque,ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writnesta instância superior, uma vez que a competência do STJ restringe-se ao processamento e julgamento de revisões criminaisde seus próprios julgados, conforme previsto no art. 105, I, e, da Constituição Federal. Confiram-se os seguintesprecedentes:AgRg no HC n.628.964/RS, relator Ministro Nefi Cordeiro, DJe de 8/2/2021; AgRg no HC n. 521.849/SC, relatora Ministra Laurita Vaz, DJe de 19/8/2020; e AgRg no HC n. 632.467/SP, relator Ministro Felix Fischer, DJe de 18/12/2020.
+Passo, assim, à análise das razões da impetraçãoa fim de verificar aexistência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Inicialmente, não há como prosperar o pedido de reconhecimento da excludente delegítima defesa. A matéria foi objeto de deliberação pelo tribunal do júri, juízo natural da causa, que, apósacurado exame dasprovas apresentadas, entendeu comprovadas a autoria e a materialidade docrimepeloqual o paciente foi condenado.
+Arevisão de tal entendimento, nesse contexto, alémde afrontar os postulados da competência popular e da soberaniados veredictos, estaria a demandar orevolvimento do arcabouço fático-probatório dos autos, providência de todoincompatível com via do habeas corpus.
+De igual modo, inexiste ilegalidade flagrante na dosimetria da pena.
+Extrai-se da decisão transitada em julgado que o aumento da pena-base do paciente, na segunda fase da dosimetria, decorreu doreconhecimentode três qualificadoras (motivo fútil, recurso que impossibilitou a defesa da vítima e feminicídio) pelo conselho de sentença,tendo uma delas(feminicídio)sido utilizada como qualificadora do crime e as outras duascomo agravantes genéricas (art. 61, ae c, do Código Penal). Na sequência, uma das agravantes foi integralmente compensada com a atenuante da confissão espontânea.
+Tal procedimento mostra-se em absoluta consonância com a jurisprudência do STJ, pacífica em assentar que, "no delito de homicídio, havendo pluralidade de qualificadoras, uma delas indicará o tipo qualificado, enquanto as demais poderão indicar uma circunstância agravante, desde que prevista no artigo 61 do Código Penal" (AgRg no REsp n. 1.644.432/MG, relatora Ministra Maria Thereza de Assis Moura, DJe de 17/3/2017).
+Registre-se, por derradeiro, que o aumento resultante do reconhecimento da agravante remanescente na fração de 1/6 também está de acordo coma orientação do STJ de que o aumento dapena em decorrência das agravantes genéricas deve observar o patamar mínimo fixado para as majorantes, que é de 1/6 (AgRg no HC n. 543.365/SP, relatora Ministra Laurita Vaz, DJe de 17/12/2019).
+Ante o exposto, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
