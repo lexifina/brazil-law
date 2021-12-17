@@ -1,0 +1,88 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por JOÃO LACERDA ALMEIDA E SILVA contra decisão da Presidência desta Corte Superior que não conheceu do agravo em virtude da ausência de impugnação específica aos fundamentos da decisão do Tribunal de origem, que não admitiu o recurso especial, consoante se infere do seguinte excerto:
+"Cuida-se de agravo em recurso especial apresentado por JOÃO LACERDA ALMEIDA E SILVA contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao artigo 1.022 do CPC e não cabimento de REsp para reexame fático-probatório.
+Entretanto, a parte agravante deixou de impugnar especificamente: não cabimento de REsp para reexame fático-probatório.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". ".
+___ .
+Nas razões do presente agravo interno, a parte ora agravante sustenta que a leitura das razões do agravo em recurso especial bem demonstra que houve a impugnação específica aos fundamentos da decisão de admissibilidade.
+Pede a reforma da decisão.
+É o relatório
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. De início, cumpre esclarecer que à luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+Isso porque, esta Corte já firmou entendimento no sentido de que a decisão de admissibilidade deve ser vista em sua totalidade, de forma que o não perfazimento da regularidade formal implica o não conhecimento do agravo em recurso especial. Nesse sentido, confira-se:
+De fato a matéria é interessante. Efetivamente, entendo que a decisão de admissibilidade do recurso tem que ser entendida como um todo. Ficaria difícil, em se tratando de recursos complexos, porque muitas vezes são capitulados em termos distintos, se entender que, em um ou outro caso, determinada matéria poderia não ser atacada e, ainda assim, sobreviver o recurso, porque o agravo de instrumento, em determinado ponto, seria suficiente para fazer subir o recurso especial naquela parte.
+Parece-me que a questão, muito embora - diga eu - seja interessante, tem que ser interpretada de forma sistemática.
+É que o recurso especial ataca vários pontos. Conseqüentemente, o despacho é de admissibilidade do recurso especial por inteiro. De modo que ficaria difícil considerarmos como suficiente o agravo de instrumento do despacho de inadmissibilidade do recurso especial, que é por inteiro, apenas no ponto em que é suficiente para impugnar um ou outro aspecto daquela decisão de inadmissibilidade. Vejo com muita dificuldade como poder-se-ia dissociar ou se fracionar o despacho de admissibilidade em vários pedaços, uma vez que ele é do próprio recurso especial por inteiro.
+(Voto do Ministro ALDIR PASSARINHO JUNIOR, AgRg no Ag 682.965/DF, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 18/12/2008, DJe 23/03/2009)
+Ressalte-se que o conhecimento, ainda que parcial do agravo, obriga o Superior Tribunal de Justiça a conhecer de todos os fundamentos do especial, ante a aplicação, por analogia, do entendimento cristalizado na Súmula 528/STF: "Se a decisão contiver partes autônomas, a admissão parcial, pelo Presidente do Tribunal a quo, de recurso extraordinário que, sôbre qualquer delas se manifestar, não limitará a apreciação de todas pelo Supremo Tribunal Federal, independentemente de interposição de agravo de instrumento".
+Por conseguinte, a ausência de impugnação a algum dos fundamentos da decisão que negou trânsito ao recurso especial imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio do agravo previsto no art. 1.042 do CPC de 2015 (art. 544 do CPC de 1973), quanto ao óbice levantado pela decisão que não admitiu o recurso especial.
+Nessa ordem de ideias, observa-se que o disposto no art. 932, III, do CPC/2015, ao mesmo tempo que exige dos advogados um maior compromisso com a fundamentação dos recursos, traz como pressuposto objetivo de admissibilidade recursal o já referido princípio da dialeticidade.
+Ressalte-se que esse ônus do agravante foi mantido no inciso I do parágrafo único do art. 253 do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22 de 16 de março de 2016, de seguinte teor:
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente.
+Parágrafo único: Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá:
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;  .. .
+___ .
+Em arremate, consigne-se que esta Corte, ao interpretar o previsto no art. 932, parágrafo único, do CPC/2015 (o qual traz disposição similar ao § 3º do art. 1.029 do CPC/2015), firmou o entendimento de que este dispositivo só se aplica para os casos de regularização de vício estritamente formal, não se prestando para complementar a fundamentação de recurso já interposto.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PRAZO DO ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. INAPLICABILIDADE.
+ ..
+3. O prazo referido no art. 932, parágrafo único, do CPC/2015 há de ser oferecido para o recorrente sanar vício de natureza estritamente formal, sendo diversa a hipótese dos autos, em que pretendia a agravante a concessão de lapso para complementar a fundamentação do seu recurso, que não impugnou especificamente todos os fundamentos da decisão que inadmitiu o apelo nobre.
+4. Agravo interno desprovido.
+(AgInt no AREsp 692.495/ES, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/06/2016, DJe 18/08/2016)
+3. No caso, a decisão ora agravada, de forma escorreita, negou seguimento ao agravo em recurso especial pela verificação de que a parte agravante deixou de rebater o fundamento erigido no despacho de inadmissibilidade do apelo nobre, qual seja: o não cabimento de recurso especial para o reexame do contexto fático-probatório assentado pelo acórdão recorrido.
+De fato, a parte agravante, na oportunidade da interposição do agravo em recurso especial, nada falou sobre o apontado óbice.
+4. Ressalte-se que, o princípio da dialeticidade impõe à parte recorrente ônus de explicitar em seu recurso os motivos específicos pelos quais a decisão atacada deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, sendo insuficiente fazer alegações genéricas de não aplicabilidade dos óbices invocados, bem como repetir o teor do apelo nobre. Referido princípio traz em si o ônus da impugnação dos fundamentos da decisão judicial, a ser observado pelo recorrente em suas razões recursais, sob pena de não conhecimento do recurso.
+Para afastar o fundamento, da decisão agravada, de incidência do óbice da impossibilidade do reexame do contexto fático-probatório dos autos não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice ou, ainda, que a tese defensiva não demanda reexame de provas. Para tanto o recorrente deve desenvolver argumentação que demonstre como seria possível modificar o entendimento firmado pelas instâncias ordinárias sem nova análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, ônus do qual, contudo, não se desobrigou.
+Nesse sentido: AgRg no AREsp 1584644/MG, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, DJe 10/12/2019 e AgRg no REsp 1546132/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 03/04/2018.
+5. Destaque-se que esta Corte Superior tem jurisprudência pacífica no sentido de que não pode ser conhecida, em sede de agravo interno, a impugnação tardia dos fundamentos utilizados na origem para inadmitir o processamento do recurso especial, porquanto caracteriza indevida inovação recursal, não tendo o condão de infirmar o não conhecimento do agravo, em face da preclusão consumativa.
+A respeito:
+EMBARGOS DE TERCEIRO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO QUE INADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. HONORÁRIOS RECURSAIS. CABIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Não se conhece do Agravo em Recurso Especial que não tenha atacado especificamente um dos fundamentos da decisão que inadmitiu, na origem, o recurso especial.
+III - A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, além de caracterizar inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa. Precedentes das Turmas componentes da 1ª Seção.
+IV - Honorários recursais. Cabimento.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no AREsp 1781151/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 25/10/2021, DJe 27/10/2021).
+___ .
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA N. 182/STJ. IMPUGNAÇÃO TARDIA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. PRECLUSÃO CONSUMATIVA. DECISÃO MANTIDA.
+1. O agravo que deixa de impugnar especificamente os fundamentos da decisão agravada não é passível de conhecimento em virtude da expressa previsão legal (CPC/1973, art. 544, § 4º, I) e da incidência, por analogia, da Súmula n. 182/STJ.
+2. Incabível se faz, em sede de agravo interno, a impugnação tardia dos fundamentos utilizados na origem para inadmitir o processamento do recurso especial. Ocorrência de preclusão consumativa. Precedentes do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 502.058/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/06/2020, DJe 01/07/2020).
+___ .
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. NÃO PROVIDO. IMPUGNAÇÃO TARDIA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. PRECLUSÃO. PRECEDENTES. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+1. Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016 - Enunciado Administrativo n. 3 -, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado.
+2. Não se conhece do agravo que não tenha atacado especificamente os fundamentos da decisão que não admitiu, na origem, o recurso especial. Precedente.
+3. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, somente por ocasião do manejo de agravo interno, além de caracterizar inovação no recurso, não tem o condão de afastar a aplicação do referido verbete sumular n. 182 desta Corte Superior, tendo em vista a ocorrência de preclusão consumativa. Precedentes.
+4. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do artigo 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 1.587.824/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/3/2020, DJe 26/3/2020.).
+___ .
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE UM DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. HONORÁRIOS RECURSAIS. DECISÃO AGRAVADA. MAJORAÇÃO. CABIMENTO. MULTA DO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE DE MAJORAÇÃO NO ÂMBITO DO AGRAVO INTERNO. AGRAVO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo especial, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Não tendo o agravante refutado todos os fundamentos da decisão de inadmissibilidade no momento processual oportuno, não cabe fazê-lo no âmbito do agravo interno, considerada a preclusão consumativa operada pela interposição do recurso antecedente.
+3. No que concerne à majoração dos honorários no âmbito do agravo em recurso especial, revela-se cabível o incremento da referida verba em favor do advogado da parte adversa, tendo em vista o preenchimento cumulativo dos requisitos definidos pela Terceira Turma deste Tribunal Superior nos Edcl no AgInt no REsp 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+4. O mero não conhecimento ou improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+5. Não cabe a condenação ao pagamento de honorários advocatícios recursais no âmbito do agravo interno, conforme os critérios definidos pela Terceira Turma deste Tribunal Superior, no precedente mencionado em tópico anterior.
+6. Agravo interno desprovido. (AgInt no AREsp 1.570.399/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 9/3/2020, DJe 13/3/2020.).
+___ .
+Impositiva, pois, a manutenção da decisão ora agravada.
+6. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
