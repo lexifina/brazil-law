@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado por LUIZ CARLOS DOS SANTOScontra decisão que inadmitiu recurso especial interposto com apoio no permissivo constitucional contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (e-STJ fl. 143):
+APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - NULIDADE DE CITAÇÃO POR EDITAL - IMPOSSIBILIDADE - SÚMULA 414 DO SUPERIOR TRIBUNAL DE JUSTIÇA - ESGOTADAS AS MODALIDADES DE CITAÇÃO - RECURSO PROVIDO.
+1 - A citação por edital na execução fiscal é cabível quando frustradas as demais modalidades.
+(Súmula 414, PRIMEIRA SEÇÃO, julgado em 25/11/2009, DJe 16/12/2009).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 169/175).
+No especial obstaculizado, a ora agravante apontou violação dos arts. 8º,I e III, da Lei n. 6.830/1980; 239, 256 e 280 do Código de Processo Civil/2015, alegando, em síntese, que a citação por edital só será utilizada quando esgotadas as tentativas de localização do devedor, o que não ocorreuno caso.
+Após contrarrazões (e-STJ fls. 191/199), o apelonobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o que foi infirmado pelo agravante.
+Contraminuta apresentada (e-STJ fls. 217/222).
+Passo a decidir.
+A Primeira Seção desta Corte, sob o rito do art. 543-C do CPC/1973 (recursos repetitivos), consolidou o entendimentode que "a citação por edital, na execução fiscal, somente é cabível quando não exitosas as outras modalidades de citação ali previstas: a citação por correio e a citação por Oficial de Justiça"(REsp 1103050/BA, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, julgado em 25/03/2009, DJe 06/04/2009).
+Nesse sentido, foi editada a Súmula 414, in verbis: "A citação por edital na execução fiscal é cabível quando frustradas as demais modalidades."
+Na hipótese, o Tribunal de origemreconheceu a regularidade da citação editalícia, pois foram frustradas as tentativas de intimação exigidas por lei, com os seguintes fundamentos (e-STJ fls. 146/147):
+Não seria possível, in casu, realizar a tentativa de citação nas modalidades dos incisos III e V, a sobrar, portanto, as hipóteses dos incisos I e II.
+A citação por correio foi efetuada, conforme se vê, no ID nº 6993204 - fls. 4/7, bem como a tentativa por meio de oficial de justiça (ID nº 6993205 - fls. 4/6).
+Dessa forma, não há que se falar na nulidade da citação editalícia realizada, eis que, na data de sua expedição, não existiam óbices, já que os ditames legais foram respeitados. (Grifos acrescidos).
+Portanto, estando o acórdão recorrido em consonância com a jurisprudência do STJ, é aplicável a Súmula 83 do STJ, que também incide nos recursos interpostos apenas pela alínea "a" do permissivo constitucional ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida").
+Cumpre registrar quedissentir da conclusão a que chegou a Corte de origem implica inevitável revolver de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+A propósito, trago os precedentes a seguir:
+TRIBUTÁRIO E PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. EXECUÇÃO FISCAL. CITAÇÃO POR EDITAL. NULIDADE. SÚMULA 414/STJ. PRESCRIÇÃO. ART. 40, § 4º, DA LEI 6.830/1980. PARALISAÇÃO DO PROCESSO POR CULPA DO PODER JUDICIÁRIO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil de 1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. O STJ possui o entendimento firmado de que, para realização da citação por edital, é necessário que tenham sido utilizados todos os meios possíveis para localização do executado. O acórdão recorrido, alicerçado nas provas coligidas aos autos, constatou que não houve o esgotamento das diligências. Dessa forma, a averiguação da regularidade ou não da nulidade da citação por edital, pelo não cumprimento das diligências possíveis, implica revolvimento de aspectos fáticos e probatórios, o que é vedado em Recurso Especial, consoante o enunciado contido na Súmula 7/STJ, de seguinte teor: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. A Corte local entendeu que a Súmula 106 do STJ não comporta adequação casuística na hipótese sub judice, haja vista a inércia da Fazenda Nacional, conclusão em sentido contrário, para entender que a paralisação do feito decorreu dos mecanismos da Justiça, importa reexame de matéria fático-probatória, providência vedada, em Recurso Especial, nos termos da Súmula 7/STJ, como já decidiu a Primeira Seção do STJ, no REsp 1.102.431/RJ, sob o rito do art. 543-C do CPC/1973.
+4. Recurso Especial parcialmente conhecido e nessa parte não provido.
+(REsp 1672918/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/08/2017, DJe 12/09/2017)
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NULIDADE DA CITAÇÃO POR EDITAL. ESGOTAMENTO DAS DILIGÊNCIAS. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese dos autos o Tribunal de origem consignou que houve a tentativa de citação do Recorrente no endereço que constava no contrato firmado, não tendo sido localizado, sendo inócua a exigência de diligenciar em outros órgãos, porquanto não teriam condições de informar o endereço no exterior. Afirmou, ainda, que foram observadas as exigências legais e ser desconhecido o paradeiro do réu, haja vista a ausência de informações objetivas acerca de sua localização nos Estados Unidos da América.
+2. Nesse contexto, tendo o Tribunal de origem, diante das circunstâncias fáticas dos autos, concluído pela validade da citação por edital, é inviável o acolhimento das alegações deduzidas no Apelo Nobre, porquanto demandaria a incursão no acervo fático-probatório da causa, medida vedada em sede de Recurso Especial. Precedentes: AgRg no AgRg no AREsp. 688.218/SC, Rel. Min. RAUL ARAÚJO, DJe 1o.10.2015; AgRg no AREsp. 255.057/SP, Rel. Min. OLINDO MENEZES, DJe 8.10.2015.
+3. Agravo Regimental de ELISEU SATIRO DE LIMA FILHO desprovido.
+(AgRg no Ag 1333256/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/10/2016, DJe 26/10/2016)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
