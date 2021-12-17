@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se  de agravo do MUNICÍPIO DE SÃO PAULO - SP, em que objetivaadmissão  de  recursoespecialinterposto contra  acórdão  do TJSPassim ementado:
+AGRAVO INTERNO - Recurso contra decisão monocrática que não conheceu do Reexame Necessário em razão de o proveito econômico ser inferior ao previsto no diploma processual - Proveito econômico deve ser aferido quando da prolação da sentença, para o cotejamento com o parâmetro limitador do reexame necessário - Precedentes do E. STJ - Decisão mantida - Recurso não provido.
+No  especial,  a  parte  alega  violação  do  art.1.026, §2º do CPC/2015.
+ Sustenta,  em  síntese, que é incabível a fixação de multa na oposição de embargos de declaração que aponta para evidente existência de omissão no acórdãorecorrido, não configurando abuso de direito de recorrer ou atitude dolosa com intuito protelatório.
+O recurso especial foi inadmitido por intempestividade, fundamento atacado no agravo.
+Passo  a  decidir.
+O  recurso  especial  se  origina de ação anulatória proposta pela ora recorrida para, entre outros argumentos,reconhecer a sua imunidade tributária ao imposto municipal (ISSQN).
+No  primeiro  grau  de  jurisdição, ação foi julgada procedente para se reconhecer a nulidade no lançamento do crédito tributário por ausência de notificação válida do contribuinte, bem como para declarar a extinção da obrigação tributária pela decadência.
+Não havendo interposição de recurso voluntário, os autos subiram ao Tribunal bandeirante para apreciar a remessa necessária.
+O Tribunal a quonão conheceu da remessa necessáriapor não se ter preenchido o requisitos objetivo do valor de alçada (quinhentos salários-mínimos do valor do proveito econômico obtido).
+Após a certificação do trânsito em julgado, a edilidade interpôs o recurso especial, o qual não foi admitidopor intempestividade, tendo sidodeclarada a regularidade da intimação do município ante o que estipula o Comunicado Conjunto n. 379/2016 e a circunstância de ainda não ter sido implementado,no âmbito do segundo grau, o sistema de intimação eletrônica (e-STJ fls. 814 e 818).
+No agravo, alega o ente público que suaintimaçãonão se deu de forma pessoal pelo meio eletrônico, não sendo válida a intimação promovida via Diário de Justiçapor violar o art. 183, §1º, do CPC/2015 e a cláusula primeira do Comunicado Conjunto n. 418/2020, considerando-se que o portal eletrônico já foiimplementado pelo Município de São Paulo.
+Pois bem.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos doart. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Extrai-se das peças processuais e do relatório acima, que foifirmado entre as partes espécie de acordo processual (art. 190 do CPC/2015)para, enquanto não implementado o sistema eletrônico de intimação, continuarem a ser promovidas intimações pelo Diário de Justiça eletrônico, mesmo na vigência do novo CPC.
+O Tribunala quo,em sua decisão de inadmissão do recurso especial porintempestividade, registrou, utilizando-se, como razões de decidir, do fato certificado às e-STJ fl. 814,que a regularidade da intimação da edilidade promovida por Diário de Justiça eletrônico decorre da ausência de implantação do sistema de intimação eletrônica no âmbito do segundo grau, impondo-se amanutenção da validade do Comunicado Conjunto n. 379/2016 em detrimento do que determina o Comunicado Conjunto n. 418/2020.
+Em que pese a alegação do agravante de que o portal eletrônico já foiimplementado pelo Município de São Paulo, motivo pelo quenão seria válida a intimação promovida via Diário de Justiça por violar o art. 183, §1º, do CPC/2015 e a cláusula primeira do Comunicado Conjunto n. 418/2020, esta alegação não é suficiente para infirmar o fundamento adotado peloTribunal local relativo à ausência deimplantação do sistema de intimação eletrônica no âmbito do segundo grau de jurisdição a atrair o disposto no Comunicado Conjunto n. 379/2016.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Uma vez promovida nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
