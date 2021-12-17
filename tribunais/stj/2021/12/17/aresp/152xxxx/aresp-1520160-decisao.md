@@ -1,0 +1,10 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial manejado por SHEILA REGO MOYSES, com amparo nas alíneas "a" e "c"doinciso IIIdo art. 105 da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+A agravante alega que"a presente demanda é uma execução fiscal e, como tal, é dotada de valor certo, líquido e exigível, devendo ser aplicado ao caso o art. 85, § 3º, do CPC. Não há qualquer justificativa legal para a negativa de vigência ao art. 85, § 3º, do CPC/2015".
+É o relatório.
+Verifica-se que a matéria deduzida no presente recurso("Definição do alcance da norma inserta no § 8º do art. 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados.") foi afetada para julgamento sob a sistemática do repetitivo, Tema 1.076, nos autos dos REsps n. 1.877.883/SP e 1.850.512/SP, de minha relatoria, submetidos ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 1.036, § 5º, do CPC.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origempara aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039e 1.040 do CPC/2015, de modo que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
