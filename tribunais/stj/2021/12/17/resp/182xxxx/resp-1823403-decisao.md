@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ fl. 953):
+PREVIDÊNCIA PRIVADA  EMPRESA PATROCINADORA ILEGITIMIDADE PASSIVA RECONHECIDA  PETROBRÁS  MANUTENÇÃO. O patrocinador não possui legitimidade para figurar no polo passivo de ação que envolva participante de entidade de previdência privada, mormente quando ia controvérsia se refere ao plano de benefícios, como o reajuste e aposentadoria suplementar.
+PREVIDÊNCIA PRIVADA  PETROS  REAJUSTE DE BENEFÍCIO  ACORDOS COLETIVOS DE TRABALHO ICE 2007  PCAC-2007  EXISTÊNCIA DE REAJUSTES SALARIAIS GENERALIZADOS  INCIDÊNCIA DO ART. X41 DO REGULAMENTO DO PLANO  PRESCRIÇÃO DÁS PRESTAÇÕES ANTERIORES A CINCO ANOS DA PROPOSITURA DA AÇÃO  RECONHECIMENTO I  HIGIDEZ DO FUNDO DE DIREITO  RECURSO PARCIALMENTE PROVIDO.
+I- O acordo coletivo de trabalho firmado com a Petrobrás, gerador do Plano de Classificação e Avaliação de Cargo  PCAC-2007, determinou reajuste salarial a todos os funcionários da ativa da empregadora, de sorte que, nos termos do art. 41 do Regulamento da PETROS, deveria ser repassado aos benefícios por esta mantido junto aos seus participantes;
+II- O fundo de direito é imprescritível, somente o sendo,na hipótese, as parcelas vencidas no quinquênio anterior à propositura da ação.
+Os embargos de declaração foram rejeitados (e-STJ fls. 975/979).
+Nas razões recursais (e-STJ fls. 982/1.009), fundamentadas no art. 105, III, "a" e "c", da CF, arecorrenteapontadissídio jurisprudencial e ofensa aos arts. 1º e 7º,caput, e 75da Lei Complementar n. 109/2001, 6º da Lei Complementar n.108/2001, 47, 475-Ae 535do CPC/1973, 3º, §2º, e 6º, VII, do CDC e 6º daLINDB.
+A insurgência cuida dos seguintes pontos: (a) negativa de prestação jurisdicional, (b) prescrição do fundo de direito, e (c) inviabilidade da incorporação do reajuste salarial promovido pelo PCAC/2007 ao benefício de previdência privada, por ausência de previsão regulamentar e falta de fonte de custeio.
+Foram oferecidas contrarrazões (e-STJ fls. 1.078/1.096).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no CPC/1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O Tribunala quodecidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da recorrente. Assim, não incorreu em omissão, contradição ou obscuridade. Desse modo, quanto à alegada afronta ao art. 535, II, do CPC/1973, não assiste razão à parte.
+Além disso, não se admite alegação genérica de afronta ao dispositivo em questão, cabendo à parte recorrente indicar os motivos específicos pelos quais haveria violação da norma, medida não adotada, o que atrai o óbice da Súmula n. 284/STF.
+Quanto à questão de mérito,a Segunda Seção desta Corte Superior, no julgamento do REsp n. 1.425.326/RS, processado sob o rito do art. 543-C do CPC/1973, (Tema n. 736, Relator MinistroLUIS FELIPE SALOMÃO, DJe de 1/8/2014), consolidou o entendimento acerca da impossibilidade de incorporação de abonos e vantagens concedidos aos empregados em atividade aos proventos de complementação de aposentadoria em manutençãopagos por entidade de previdência privada. Confira-se:
+PREVIDÊNCIA PRIVADA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. PLANO DE BENEFÍCIOS SUBMETIDO À LEI COMPLEMENTAR N. 108/2001, JÁ OPERANTE POR OCASIÃO DO ADVENTO DA LEI. VEDAÇÃO DE REPASSE DE ABONO E VANTAGENS DE QUALQUER NATUREZA PARA OS BENEFÍCIOS EM MANUTENÇÃO. CONCESSÃO DE VERBA NÃO PREVISTA NO REGULAMENTO DO PLANO DE BENEFÍCIOS DE PREVIDÊNCIA PRIVADA, AINDA QUE NÃO SEJA PATROCINADO POR ENTIDADE DA ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE.
+1. Para fins do art. 543-C do Código de Processo Civil: a) Nos planos de benefícios de previdência privada fechada, patrocinados pelos entes federados - inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente -, é vedado o repasse de abono e vantagens de qualquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar n. 108/2001, independentemente das disposições estatutárias e regulamentares; b) Não é possível a concessão de verba não prevista no regulamento do plano de benefícios de previdência privada, pois a previdência complementar tem por pilar o sistema de capitalização, que pressupõe a acumulação de reservas para assegurar o custeio dos benefícios contratados, em um período de longo prazo.
+2. Recurso especial provido.
+(REsp 1425326/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 28/05/2014, DJe 01/08/2014).
+Cabe ainda ressaltar que, de acordo coma jurisprudência pacífica do STJ, no regime de previdência privada,não se admite a concessão de benefício sem a formação da prévia fonte de custeio, de forma a evitar o desequilíbrio atuarial dos planos de benefícios.Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA.PLANO DE CLASSIFICAÇÃO E AVALIAÇÃO DE CARGOS - PCAC. CONCESSÃO AOS EMPREGADOS ATIVOS. CONVENÇÃO COLETIVA DE TRABALHO. EXTENSÃO AOS PROVENTOS COMPLEMENTARES. IMPOSSIBILIDADE. FONTE DE CUSTEIO. AUSÊNCIA.
+1. No regime de previdência privada, não se admite a concessão de benefício algum, sem a formação da prévia fonte de custeio, de forma a evitar o desequilíbrio atuarial dos planos de benefícios.Precedentes da Segunda Seção.
+3. É inviável a extensão aos proventos de complementação de aposentadoria da verba denominada Plano de Classificação e Avaliação de Cargos - PCAC, concedida aos empregados em atividade no patrocinador da entidade fechada de previdência privada, por ausência de prévia formação da reserva matemática.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 924.021/SE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/11/2019, DJe 19/11/2019.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. ENTIDADE FECHADA. PCAC. ABONO. PARTICIPANTES EM ATIVIDADE. CONCESSÃO PELO PATROCINADOR. EXTENSÃO AOS INATIVOS. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não podem ser estendidos à complementação de aposentadoria dos inativos os ganhos reais, sobretudo sem a respectiva fonte de custeio, a exemplo de direitos aplicáveis somente aos empregados da ativa, advindos da implantação do novo PCAC e que envolvem promoções e aumentos por mérito.
+3. As normas do plano de benefícios que asseguraram os reajustes dos valores das suplementações de aposentadoria nas mesmas épocas em que forem feitos os reajustes salariais, não se referem à igualdade de base salarial dos trabalhadores em atividade.
+4. Agravo interno não provido.
+(AgInt no REsp 1678101/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/10/2018, DJe 26/10/2018.)
+Inviável, portanto, a revisão do benefício na forma estabelecida pelo acórdão recorrido.
+Prejudicado o exame das demais questões alegadas.
+Diante do exposto, DOU PROVIMENTO ao recurso especial, para restabelecer a sentença de improcedência do pedido (e-STJ fls. 816/826)em todos os seus termos.
+Publique-se e intimem-se.
