@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de CLAUDINEI CARLOS DA SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco.
+Consta dos autos que o paciente foi condenado à pena de 7 anos e 9 meses de reclusão, em regime semiaberto, mais pagamento de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem deu parcial provimento ao apelo defensivo para reduzir a pena do réu para 5 anos de reclusão e 500 dias-multa, no regimne inicial semiaberto.
+Neste habeas corpus, alega a defesa, em suma, que o paciente faz jus ao redutor do tráfico privilegiado, tendo em vista que preenche todos os requisitos previstos no § 4º, do artigo 33, da Lei de Drogas.
+Aduz que "In casu, o paciente não teve, como merecia, o reconhecimento da causa de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/2006 em sua fração máxima e, por isso, o réu não teve oportunidade de receber pena restritiva de direitos e também, tem agora contra si, regime mais gravoso do que o quantum justo da pena lhe permite." (e-STJ, fl. 5)
+Requer, assim, o reconhecimento do redutor do tráfico privilegiado, a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+Liminar indeferida (e-STJ, fl. 46).
+Foram prestadas informações (e-STJ, fls. 50-67 e 79-96).
+O Ministério Público Federal opinou pelo "não conhecimento do writ e a concessão da ordem, de ofício, para se redimensionar a pena, aplicando-se o benefício previsto no art. 33, § 4º, da Lei 11.343/06 em seu percentual máximo, redimensionando as penas definitivas 01 ano e 08 meses de reclusão, e mais 167 dias-multa, em regime inicial aberto, substituída a pena corporal por restritivas de direitos" (e-STJ, fls. 101-108).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+O juiz sentenciante deixou de aplicar a minorante do tráfico privilegiado nos sguintes termos:
+"Deixo de aplicar o art. 33, § 4º, da Lei nº 11.343/06, vez que a quantidade de droga encontrada demonstra que não se trata de pequeno traficante." (e-SJT, fl. 14)
+Por sua vez, o Tribunal de origem manteve afastado o tráfico privilegiado, sob os seguintes fundamentos:
+" ..
+Analisando a fundamentação supra, constata-se que os argumentos utilizados para valorar negativamente a culpabilidade, a personalidade, os motivos, as circunstâncias e as consequências do crime não são hábeis para tanto, eis que baseados em elementos genéricos e próprios do tipo penal. E no tocante a conduta social, verifico que foi valorada negativamente com base em processo em curso (processo n.o 0000597-50.2017.8.17.1480), conforme consulta ao site deste Tribunal, infringindo-se o teor contido na Súmula 544 do Superior Tribunal de Justiça (STJ).
+No entanto, saliente-se que o art. 42, da Lei nº 11.343/06 prevê que a natureza e a quantidade da substância, além da personalidade e da conduta social do agente, terão preponderância sobre o disposto no art. 59, do Código Penal.
+Assim, considerando a quantidade apreendida (500g - meio quilo de maconha), entendo que a fixação da pena-base em 06 (seis) anos de reclusão está razoável e proporcional. Frise-se que o preceito secundário do art. 33, da Lei no 11.343/06 prevê pena de 05 (cinco) a 15 (quinze) anos de reclusão e o pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) dias multa.
+Na segunda fase da dosimetria penal, mantenho a atenuante da confissão espontânea.
+Saliente-se que a confissão mesmo parcial, qualificada ou posteriormente retratada, deve sempre atenuar a pena. Nesse sentido, a recente decisão da lavra do Superior Tribunal de Justiça:
+ ..
+Sabe-se que o Código Penal não prevê as frações a serem aplicadas no caso de incidência de atenuantes ou agravantes. Defende a doutrina que o aumento ou redução deve ser equivalente a 1/6 (um sexto) da pena base (menor montante fixado para as causas de aumento ou diminuição da pena), evitando-se, assim, a aplicação em quantidades aleatórias, ao arbítrio do magistrado. A jurisprudência pátria, por sua vez, entende que a redução da pena em fração inferior a 1/6 (um sexto), a título de atenuantes, deve ser devida e concretamente fundamentada.
+Corroborando esse entendimento, a recente ementa de decisão judicial:
+ ..
+Considerando a confissão espontânea e a fração redutora adotada pela jurisprudência de 1/6 (um sexto), deve a pena ser reduzida para 05 (cinco) anos de reclusão, a qual resta fixada de modo definitivo, ante a ausência de agravantes e de causas de aumento ou de diminuição de pena. Mantenho a pena de multa já fixada em seu mínimo legal, 500 dias-multa, fixando o dia-multa em 1/30 (hum trinta avos) do salário mínimo.
+Na presente hipótese, não é possível aplicar a minorante do § 4º do art. 33 da Lei nº 11.343/06 em virtude do apelante possuir processo criminal em curso (processo n.o 0000597-50.2017.8.17.1480), conforme consulta ao site deste Tribunal. Nesse sentido, o recente julgado do Superior Tribunal de Justiça:
+ ..
+Mantenho o regime semiaberto fixado na sentença para não incorrer em refomatio in pejus.
+Diante de tais considerações, corroborando em parte com o parecer da Procuradoria de Justiça em matéria criminal, voto pelo provimento parcial do recurso de apelação para absolver Maria da Conceição Cada da Silva e redimensionar a pena-base não ao mínimo legal, mas readequá-la de modo que a pena definitiva fixada para Claudinei Carlos da Silva de 07 (sete) anos e 09 (nove) meses de reclusão foi reduzida para 05 (cinco) anos de reclusão e 500 dias-multa, fixando-se o dia-multa em 1/30 (hum trinta avos) do salário mínimo." (e-STJ, fls. 25-30; sem grifos no original)
+De acordo com o disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+In casu, a instância antecedente manteve afastada a minorante por entender que o fato de o paciente responder a outro processo criminal (processo n.º 0000597-50.2017.8.17.1480) denota a sua habitualidade delitiva.
+Todavia, o Supremo Tribunal Federal já se manifestou reiteradas vezes que inquéritos e processos em curso não devem ser aferidos em desfavor do agente na dosimetria da pena, sob pena de violação ao princípio da não culpabilidade. Apoiad o nesse entendimento, vem decidindo ser inadmissível a utilização de ação penal em curso para afastar a causa de diminuição do art. 33, § 4º, da Lei de Drogas.
+A seguir os julgados que respaldam esse entendimento:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CRIMINAL. INQUÉRITOS POLICIAIS E PROCESSOS CRIMINAIS EM CURSO. ANTECEDENTES CRIMINAIS. ART. 33, § 4º, DA LEI 11.343/2006. PRINCÍPIO CONSTITUCIONAL DA NÃO CULPABILIDADE. RE 591.054-RG/SC. AGRAVO A QUE SE NEGA PROVIMENTO.
+I - O Plenário do Supremo Tribunal Federal firmou o entendimento de que, ante o princípio constitucional da não culpabilidade, inquéritos e processos criminais em curso são neutros na definição dos antecedentes criminais. Precedente.
+II - A aplicação da causa de diminuição pelo tráfico privilegiado, nos termos do art. 33, § 4º, da Lei 11.343/2006, não pode ter sua aplicação afastada com fundamento em investigações preliminares ou processos criminais em andamento, mesmo que estejam em fase recursal, sob pena de violação do art. 5º, LIV, da Constituição Federal.
+III- Agravo regimental a que se nega provimento.
+(RE 1283996 AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, julgado em 11/11/2020, PROCESSO ELETRÔNICO DJe-285 DIVULG 02-12-2020 PUBLIC 03-12-2020).
+HABEAS CORPUS - RECURSO EXTRAORDINÁRIO - SUBSTITUTIVO. O fato de, em tese, ser cabível, contra o ato impugnado, recurso extraordinário não inviabiliza o habeas corpus.
+PENA - CAUSA DE DIMINUIÇÃO - ATIVIDADE CRIMINOSA - DEDICAÇÃO - PROCESSO EM CURSO. Revela-se inviável concluir pela dedicação do acusado a atividade criminosa, afastando-se a incidência da causa de diminuição do artigo 33, § 4º, da Lei nº 11.343/2006, considerado processo-crime em tramitação.
+(HC 199309, Relator(a): MARCO AURÉLIO, Primeira Turma, julgado em 24/05/2021, PROCESSO ELETRÔNICO DJe-116 DIVULG 16-06-2021 PUBLIC 17-06-2021)
+A Sexta Turma inclusive há algum tempo acolheu o decidido pelo Supremo. A propósito: AgRg no AgRg no HC 654.773/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 10/8/2021, DJe 16/8/2021; AgRg no HC 673.030/SP, Rel. Ministro SEBASTIÃO RE IS JÚNIOR, SEXTA TURMA, julgado em 10/8/2021, DJe 16/8/2021.
+Nesse contexto, entendo que o paciente deve ser beneficiado com o tráfico privilegiado.
+Passo ao redimensionamento da pena do delito de tráfico de drogas:
+Mantém-se a pena-base em 6 anos de reclusão mais 600 dias-multa. Na segunda fase, reconhecida a atenuante da confissão espontânea , a pena resta fixada em 5 anos de reclusão e 500 dias-multa. Na última etapa, aplica-se a causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3, resultando a pena definitiva em 1 ano e 8 meses de reclusão e 166 dias-multa.
+O regime prisional não merece ser alterado.
+Estabelecida a pena em patamar inferior a 4 anos e sendo desfavoráveis a análise das circunstâncias judiciais, o modo intermediário é o adequado para o cumprimento da pena privativa de liberdade, nos termos do art. 33, §§ 2º e 3º, "b", c/c art. 59 do CP.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL FECHADO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada é clara ao reconhecer que, diante da análise desfavorável, na primeira fase da dosimetria da pena, da quantidade, da natureza e da diversidade de entorpecentes apreendidos - cerca de 10 g de crack, 26 g de cocaína e 62 g de maconha -, é cabível a imposição de regime mais gravoso. Todavia, como a reprimenda fixada ao réu é inferior a 4 anos de reclusão, o modo adequado é o semiaberto.
+2. Agravo regimental não provido."
+(AgRg no HC 438.993/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/6/2018, DJe 15/6/2018)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS DE RECLUSÃO. QUANTIDADE DE DROGA. MODO SEMIABERTO. RECURSO NÃO PROVIDO.
+- Na identificação do modo inicial de cumprimento de pena, o magistrado deve expor motivadamente sua escolha, atento às regras estabelecidas no art. 33 do Código Penal e, no caso de condenado pelo delito de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006.
+- Aplicada a sanção corporal no patamar de 1 ano e 8 meses de reclusão e sendo favoráveis as demais circunstâncias ao paciente, o regime inicial semiaberto é o adequado e suficiente para o cumprimento da pena reclusiva, diante da valoração desfavorável da quantidade e da diversidade dos entorpecentes apreendidos, nos termos do art. 33, § 3º, do CP, c.c o art. 42 da Lei de Drogas. Precedentes.
+- A decisão agravada encontra-se alinhada à jurisprudência desta Corte, que permite a fixação do regime imediatamente mais gravoso do que a pena comporta com lastro na quantidade/nocividade das drogas que o caso envolve.
+- Agravo regimental não provido."
+(AgRg no HC 406.339/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 5/10/2017, DJe 16/10/2017)
+Por fim, consigne-se que a substituição da pena privativa de liberdade por restritivas de direito mostra-se insuficiente, em razão da falta do atendimento do pressuposto subjetivo (art. 44, III, do CP), especificamente a quantia das drogas (HC 390.554/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/5/2017, DJe 22/5/2017).
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para fazer incidir a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 no grau máximo, redimensionando a pena definitiva do paciente para 1 ano e 8 meses de reclusão, no regime inicial semiaberto, e 166 dias-multa.
+Publique-se. Intimem-se.
