@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaAUTO POSTO DRZ LTDA e OXIPETRO COMÉRCIO DE COMBUSTÍVEIS LTDAcom fundamento nas alíneas "a" e "c" do permissivo constitucionalcontra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 22.570):
+TRIBUTÁRIO. PIS-PASEP E COFINS SOBRE AS BASES DE CÁLCULO DO PIS-PASEP E COFINS MONOFÁSICOS. ILEGITIMIDADE ATIVA.
+Não possui legitimidade ativa ad causam a pessoa jurídica que busca excluir os valores correspondentes ao ICMS-ST da base de cálculo do PIS-PASEP e COFINS recolhidas pelo produtor/importador sob o regime monofásico ou concentrado e, eventualmente, embutidas no preço das operações subsequentes. Inexistindo relação jurídica tributária da impetrante com o Fisco, que não é contribuinte de fato ou de direito, fulmina-se o direito de ação.
+Não foram opostos embargos de declaração.
+Em seu recurso especial, os recorrentes alegam que "o acórdão recorrido faz referência à falta de interesse de agir e à ilegitimidade, viola sobremaneira a regra do artigo 17 do CPC, visto ser evidente que as recorrentes têm interesses - de serem tributadas segundo o que é justo e de reaver os valores que o fisco confiscou ao arrepio da lei - e têm legitimidade, visto que, inequivocamente, são tributadas pelo PIS e pela COFINS quando, no sistema monofásico, têm o valor do ICMS incluído nas respectivas bases de cálculo" (e-STJ fls. 22.592).
+Contrarrazões às e-STJ fls. 22.657/22.658.
+Passo a decidir.
+Verifico que a matéria tratada nos autos amolda-se àquela afetada ao rito de recursos repetitivos pela Primeira Seção do STJ - Tema 1.093, nos autos do Recursos Especiais 1.894.741/RS e1.895.255/RS, rel. MinistroMAURO CAMPBELL MARQUES, em que se discute: "a) se o benefício instituído no art. 17da Lei n. 11.033/2004, somente se aplica às empresas que se encontram inseridas no regime específico de tributação denominado REPORTO; b) se o art. 17da Lei n. 11.033/2004permite o cálculo de créditos dentro da sistemática da incidência monofásica do PIS e da COFINS; e c) se a incidência monofásica do PIS e da COFINS se compatibiliza com a técnica do creditamento".
+Nesse contexto, estando a matéria pendente de julgamento pela sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação quando da publicação do acórdão, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para este Tribunal, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e de que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que sejam aplicadas as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
