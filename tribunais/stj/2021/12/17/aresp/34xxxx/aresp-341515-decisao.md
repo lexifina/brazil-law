@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por LÁZARA MARIA DE JESUS contra decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl. 166):
+PREVIDENCIÁRIO E CONSTITUCIONAL. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. FRAGILIDADE DA PROVA TESTEMUNHAL. IMPOSSIBILIDADE DE DEFERIMENTO DO BENEFÍCIO.
+1. A fragilidade da prova testemunhal não permite a sua utilização como instrumento de corroboração probante dos documentos trazidos com peça pórtico, eis porque o benefício requerido na inicialnão pode ser deferido.
+2. Apelação desprovida.
+Embargos de declaração rejeitados (e-STJ fls. 177/180).
+No recurso especial obstaculizado, a recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 55,§ 3º, 142 e 143 da Lei n. 8.213/1991, sustentando, em síntese, ter comprovado o labor ruralpor 60 (sessenta) meses, conforme a lei em vigor ao tempo em que completou 55 (cinquenta e cinco) anos, o qual foi amparado pelas provas material e testemunhal.
+Afirma também que o STJ, no julgamento do REsp n. 171.933/SP, firmou o entendimento de que a certidão de casamento e a CTPS do cônjuge, em que consignado o trabalho nas lides agrícolas, servem como início de prova materialdo tempo de serviço rural.
+Em decisão de e-STJ fls. 235/236, esta relatoria determinou o retorno dos autos ao Tribunal de origem por ter identificadoque a autarquia nãoformulou recurso especial, apenas a segurada, tendo sido equivocados tanto o juízo de admissibilidade de e-STJ fls. 209/210 quanto a interposição de agravo pelo INSS às e-STJ fls. 214/218.
+De volta à instância ordinária, oapelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso (e-STJ fls. 260 e 264/272).
+Passo a decidir.
+Inicialmente, cumpre registrar que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+Feita essa anotação, verifico quea pretensão da segurada não merece prosperar.
+Nos termos dos arts. 48 e 143 da Lei n. 8.213/1991, é cediço que a aposentadoria por idade ao trabalhador rural será devida àquele que completar 60 anos de idade, se homem, e 55 anos, se mulher, desde que esteja demonstrado o exercício de atividade agrícola, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, em número de meses idêntico ao período de carência.
+Nestes autos, as instâncias de origem, soberanas no exame do acervo fático-probatório, não se convenceram acerca da alegada condição de trabalhadora rural da autora, in verbis (e-STJ fl. 164):
+O Juízo da origem indeferiu o pedido de concessão de aposentadoria rural por idade requerido pela parte autora.
+O comando exarado deve ter sua proclamação prestigiada.
+De fato, a fragilidade da prova testemunhal produzida não permite a sua utilização como instrumento de corroboração probante dos documentos trazidos com peça pórtico, isto porque as testemunhas ouvidas não confirmaram em seus depoimentos o desempenho de labor rural pela autora no período correspondente ao da carência, requisito essencial para o deferimento judicial do benefício em testilha.
+Esclareço, por pertinente, que a coisa julgada na espécie deve produzir efeitos secundum eventum litis, de forma que, demonstrando a autora, em momento posterior, o atendimento dos requisitos, poderá postular a aposentadoria almejada. Ante o exposto, nego provimento à a pelação.
+É o voto.
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, de acordo com aSúmula 7 do STJ.
+A propósito:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ATIVIDADE RURAL. EFICÁCIA AMPLIATIVA DA PROVA TESTEMUNHAL. TEMPO DE SERVIÇO ANTERIOR À DATA DO DOCUMENTO MAIS ANTIGO TIDO POR DEMONSTRADO PELO TRIBUNAL A QUO. COMPROVAÇÃO DE TODO O PERÍODO CONTROVERTIDO. NÃO RECONHECIMENTO. REVISÃO DA CONCLUSÃO A QUE CHEGOU A CORTE DE ORIGEM. ÓBICE DA SÚMULA 7/STJ.
+1. O labor campesino, para fins de percepção de aposentadoria rural, deve ser demonstrado por início de prova material e ampliado por prova testemunhal, ainda que de maneira descontínua, no período imediatamente anterior ao requerimento, pelo número de meses idêntico à carência.
+2. No caso, a Corte de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou que, conquanto a prova testemunhal tenha sido suficiente para fins de reconhecimento do exercício de labor rural em período anterior à data do documento mais antigo, não teve o condão de ampliar a eficácia do início de prova material para todo o período controvertido.
+3. A alteração dessas conclusões, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 859.244/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 25/04/2019, DJe 29/04/2019) (Grifos acrescidos).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADE RURAL EM REGIME DE ECONOMIA FAMILIAR. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal a quo concluiu que a parte agravante não comprovou o exercício da atividade rural, porquanto, ausente inicio de prova material, devidamente corroborado por prova testemunhal. A revisão de tal entendimento encontra óbice na Súmula 7/STJ.
+2. O tempo de serviço do segurado trabalhador rural, prestado anteriormente à data de início de vigência da Lei n.º 8.213/91, será computado independentemente do recolhimento das contribuições a ele correspondentes, exceto para efeito de carência. 3. Agravo interno não provido. (AgInt no REsp 1793400/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 06/06/2019, DJe 17/06/2019) (Grifos acrescidos).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial da autora.
+Sem majoração da verba honorária (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Ainda, DETERMINO A EXCLUSÃO do nome do Instituto Nacional do Seguro Social como agravante na autuação dos presentes autos, haja vista a inexistência de apelo nobre.
+Publique-se. Intimem-se.
