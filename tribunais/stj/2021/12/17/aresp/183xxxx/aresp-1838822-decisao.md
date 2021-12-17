@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de violação dos art. 489 e 1.022 do CPC/2015 eda incidência da Súmula n. 7 do STJ (e-STJ fls. 470/475).
+O acórdão do Tribunal a quo está assim ementado (e-STJ fls. 311 e 432):
+COMPRA E VENDA IMOBILIÁRIA - RESCISÃO CONTRATUAL Preliminares de negativa de prestação jurisdicional e cerceamento de defesa afastadas Iniciativa pela rescisão contratual é dos compradores Cláusula sétima considerada abusiva Art.51, CDC - Restituição dos valores pagos, de uma só vez, com direito da vendedora reter 20%, a título de indenização e. despesas com a comercialização - Juros de mora Incidência a partir do trânsito em julgado, por decorrência da nutra dos adquirentes RECURSOS PARCIALMENTE PROVIDOS.
+APELAÇÃO. REAPRECIAÇÃO À LUZ DE SUPERVENIENTEJULGAMENTO PROFERIDO PELO EGRÉGIO SUPERIORTRIBUNAL DE JUSTIÇA. Sinal. Ausência de cláusula de arrependimento. Sinal que representa início de pagamento, ou seja, faz parte do preço do bem, não se justificando sua retenção integral. Acórdão declarado para nele constar a decisão ora proferida.
+Nas razões do recurso especial (e-STJ fls. 439/459), interposto com base no art. 105, III, "a", da CF, a recorrente apontou ofensa aos arts. 7º, 11, 139, 369, 373, 442, 464, 494, 489 e 1.022 do CPC/2015, 2º, 3º e 6º, caput, § 2º, da LINDB e 104, 113, 418 e 420 do CC. Sustentou, em síntese, falta de prestação jurisdicional, cerceamento de defesa e direito de retenção do valor dado como sinal/arras, conforme previsão contratual.
+No agravo (e-STJ fls. 478/505), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Não há falar em negativa de prestação jurisdicional, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu na hipótese.
+Arespeito do cerceamento de defesa, o Tribunal estadual assim discorreu (e-STJ fls. 313/314) :
+De acordo com o artigo 370 do Código de Processo Civil, caberá ao magistrado determinar as provas necessárias à instrução do processo, podendo indeferir as diligências inúteis ou meramente protelatórias.
+No caso concreto, o magistrado a quo entendeudesnecessária a produção de outras provas além daquelas constantes dos autos, não seapurando fato concreto c determinado a exigir outras provas, como postula a apelante.
+Bem agiu o douto sentenciante ao proferir o pronto julgamento, prestigiando o princípio da celeridade processual e o mandamento constitucional da duração razoável do processo.
+O acórdão recorrido, com base nas provas apresentadas, concluiu que não haveria falar em cerceamento de defesa. Alterar essa conclusão exigiria um novo exame do conjunto fático-probatório dos autos, o que encontra impedimento na Súmula n. 7/STJ.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado(e-STJ fl. 434):
+No caso em apreço, da análise do contrato celebrado entre as partes infere-se a ausência de cláusula de arrependimento, de maneira que o sinal representa início de pagamento, ou seja. fazem parte do preço do bem. não se justificando sua retenção integral.
+A decisão recorrida está em consonância com a jurisprudência desta Corte, pacífica ao afirmar que"as arras confirmatórias não se confundem com a prefixação de perdas e danos, tal como ocorre com o instituto das arras penitenciais, visto que servem como garantia do negócio e possuem característica de início de pagamento, razão pela qual não podem ser objeto de retenção na resolução contratual por inadimplemento do comprador" (AgInt no AgRg no n. REsp 1.197.860/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/12/2017, DJe 12/12/2017).
+Nessa mesma linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DECOMPROMISSO DE COMPRA E VENDA. 1. ARRASCONFIRMATÓRIAS. INÍCIO DE PAGAMENTO. RETENÇÃO.IMPOSSIBILIDADE. SÚMULA 83/STJ. 2. RETENÇÃO DE 20% DOSVALORES PAGOS. DESPESAS ADMINISTRATIVAS.POSSIBILIDADE. SÚMULA 83/STJ. 3. AGRAVO DESPROVIDO.
+1. Não se pode confundir as arras confirmatórias com as arraspenitenciais, pois estas servem como sanção à parte inadimplente,enquanto as primeiras constituem garantia ao negócio jurídico e iníciode pagamento, o que inviabiliza a sua retenção. Acórdão recorrido emharmonia com a jurisprudência desta Corte Superior, o que atrai aincidência da Súmula 83/STJ.
+2. O entendimento sedimentado por este Tribunal de Uniformização éno sentido de, em caso de resolução do compromisso de compra evenda por culpa do promitente comprador, ser lícita a cláusulacontratual prevendo a retenção de 10% a 25% dos valores pagos.Aplicação da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.763.044/RJ, Rel. Ministro MARCO AURÉLIOBELLIZZE, TERCEIRA TURMA, julgado em 18/3/2019, DJe22/3/2019.)
+Além disso, dissentir das conclusões do acórdão impugnado quanto à natureza jurídica das arras implicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20%(vinte por cento)o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
