@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por SUSANA VARGAS GAMA contra acórdão do TJRS assim ementado (e-STJ fl. 247):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. CONTRATO DE MÚTUO. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA.
+PRESCRIÇÃO. Em se tratando de ação revisional, sob o fundamento de presença de cláusulas abusivas no contrato de empréstimo pessoal, incide o prazo prescricional decenal previsto no artigo 205, do Código Civil. O termo inicial para a contagem da prescrição é a data de do a vencimento do instrumento contratual ou último pagamento realizado. Reconhecida preclusão temporal em relação a alguns contratos. JUROS REMUNERATÓRIOS. A ré trata - se de entidade de previdência privada fechada que não pode se valer das disposições legais que regem os contratos firmados com instituições financeiras. Inteligência do art. 76, § 1º, da Lei Complementar 109/2001. Precedente desta Corte. As contratações de juros se mostram abusivas, devendo ser observada a limitação imposta pelo artigo 406 do Código Civil. CAPITALIZAÇAO DE JUROS. Quanto à capitalização dos juros, os contratos que embasam a demanda devem ser interpretados como empréstimos entre particulares, incidindo o disposto no artigo 591 do Código Civil, o qual permite, apen as, a capitalização em periodicidade anual. TAXA DE ADMINISTRAÇÃO E FUNDO DE QUITAÇÃO POR MORTE. Legalidade das cobranças, por constituírem contraprestação pelos serviços fornecidos pelo mutuante e disponibilizados ao mutuário.
+REPETIÇÃO DE INDÉBITO. Possível a devolução da quantia eventualmente paga indevidamente, de forma simples, corrigida monetariamente, mediante prévia compensação dos valores eventualmente devidos.
+RECURSO PARCIALMENTE PROVIDO. UNÂNIME.
+Os dois embargos de declaração foram rejeitados (e-STJ fls. 279/285 e 286/292).
+No especial (e-STJ fls. 298/337), fundamentado no art. 105, inciso III, alíneas "a" e "c", da CF, a recorrente apontou dissídio jurisprudencial e ofensa aos arts. 85, § 2º, 141, 489, 492, 1.013 e 1.022 do CPC/2015 e 591 do CC. Sustentou: (a) negativa de prestação jurisdicional, (b) julgamento ultra petita, (c) ilegalidade da cobrança de juros capitalizados não pactuados, (d) necessidade de fixação da verba honorária sobre o proveito econômico.
+Foram apresentadas contrarrazões (e-STJ fls. 368/385).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Nos embargos declaratórios, a recorrente alegouque o reconhecimento da prescrição, pelo acórdão recorrido, configurou julgamento ultra petita, na medida em que a matéria foi apreciada na sentença e a recorrida não apresentou apelação.Nesse contexto, pediuo reconhecimento da nulidade do acórdão no ponto, ou "o prequestionamento do contexto fático subjacente (inexistência de recurso de apelação da embargada no que se refere à rejeição da prejudicial de prescrição pelo juízo singular), com o devido enfrentamento da literalidade dos artigos 141, 492 e 1.013 do Código de Processo Civil para fins de prequestionamento" (e-STJ fl. 272).
+Salientouainda a existência de omissão sobre os seguintes pontos da apelação: (a) possibilidade de revisão dos contratos sucessivamente renovados, a teor da Súmula n. 286 do STJ, (b)ausência de previsão contratual acerca da capitalização, e (c) possibilidade de fixação da verba honorária sobre o proveito econômico obtido pela parte.
+No julgamento dos embargos de declaração, não houve enfrentamento das questõesalegadas, as quais, em uma primeira análise, mostram-se relevantes para o deslinde da controvérsia,.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação de matéria dos declaratórios concernente a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado. Sobre o assunto, a título de exemplo, os seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. NATUREZA DO CONTRATO FIRMADO ENTRE A RECORRENTE E A CORRÉ. EXPLICITAÇÃO. NECESSIDADE. ART. 535, II, DO CPC. VIOLAÇÃO CONFIGURADA.
+1. Há ofensa ao art. 535, II, do CPC quando o Tribunal a quo, a despeito da omissão existente no acórdão e da oposição de embargos declaratórios, deixa de emitir juízo de valor especificamente sobre questão desenvolvida nos autos e relevante para o deslinde da controvérsia.
+ ..
+3. Recurso especial provido.
+(REsp n. 1.130.311/RJ, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 4/8/2011, DJe 15/8/2011.)
+PROCESSO CIVIL. DIREITO DAS OBRIGAÇÕES. NOVAÇÃO. POSSIBILIDADE DE ANÁLISE DO NEGÓCIO JURÍDICO ANTECEDENTE. MITIGAÇÃO DO PRINCÍPIOPACTA SUNT SERVANDA. SÚMULA 286 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A violação do art. 535 do CPC configurou-se, no caso dos autos, uma vez que, a despeito da oposição de embargos de declaração, nos quais os recorrentes apontam a existência de omissões, mormente no tocante à possibilidade de exame judicial de supostas ilegalidades substanciais nos contratos celebrados anteriormente à alegada novação com a instituição financeira (fls. 1.052-1.053), o Tribunal não se manifestou de forma satisfatória sobre o apontado vício, consoante se infere do voto condutor às fls. 1.061-1.066.
+ ..
+3. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem.
+(REsp n. 866.343/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2011, DJe 14/6/2011.)
+Diante do exposto, DOU PROVIMENTO ao recurso especial, a fim de anular o acórdão proferido no julgamento dos embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, para exame das omissões apontadas.
+Publique-se e intimem-se.
