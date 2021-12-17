@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto peloESTADO DO PIAUÍcom fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, a parte autora ajuizou ação ordinária com valor da causa atribuído em R$ 7.508,80 (sete mil, quinhentos e oito reais e oitenta centavos), em 08/01/2010, objetivando o pagamento do saldo de salários e FGTS.
+Após sentença que julgou procedentes os pedidos, o TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍdeu parcial provimento à apelação da parte autorae majorou os honorários advocatícios para 18% (dezoito por cento).
+O referido acórdão foi assim ementado, in verbis:
+CONSTITUCIONAL - DIREITO PÚBLICO - APELAÇÃO - RECLAMAÇÃO TRABALHISTA - PRESCRIÇÃO - CONTRATAÇÃO SEM CONCURSO - NULIDADE - ENTENDIMENTO SEDIMENTADO PELO STF E PELO TJPI - EFEITOS JURÍDICOS - PAGAMENTO DE FGTS - PARCIAL PROVIMENTO DA APELAÇÃO.
+1. O prazo prescricional para propositura de ação de qualquer natureza contra a Fazenda Pública é quinquenal.
+2. Empregando ao presente caso a modulação dos efeitos da decisão do STF, o prazo prescricional aplicável quanto ao FGTS é de 5 anos.
+3. O Supremo Tribunal Federal apreciando o Tema 308 em sede de Repercussão Geral (RE 750 140), reconheceu que a nulidade do contrato firmado com a administração pública por violação ao princípio do concurso público enseja apenas o pagamento de salário e o depósito do FGTS.
+4. Posicionamento idêntico tem adotado esta Corte de Justiça ao condensar, por meio da súmula nº 09, o entendimento de que ao agente público não submetido à prévia aprovação em concurso público só possui direito ao recebimento dos salários relacionado ao período trabalhado e ao levantamento dos depósitos de FGTS.
+5. O direito da apelada ao levantamento dos depósitos de FGTS é garantia constante no art. 19-A, da Lei 8.036/90, cuja constitucionalidade foi legitimada pelo Supremo Tribunal Federal. Tal direito aplica-se independentemente do regime jurídico sob o qual a Administração Pública tenha admitido irregularmente o recorrido.
+Não foram opostos embargos declaração.
+Contra a decisão cuja ementa se encontra acima transcrita, ESTADO DO PIAUÍinterpôs o presente recurso especial, apontando violação do art. 85, § 11, do CPC/15.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n.3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+De acordo com a jurisprudência da Corte Especial do STJ, é "devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente:  ..  b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente" (AgInt nos EAREsp n. 762.075/MT, Relator p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019).
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO MONOCRÁTICA NÃO ATACADA. INADMISSIBILIDADE. REGRA TÉCNICA DE CONHECIMENTO RECURSAL. INCIDÊNCIA DA SÚMULA 315/STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO § 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL. VIABILIDADE. RECURSO NÃO PROVIDO.
+1. Não se admite a interposição de Embargos de Divergência na hipótese de não ter sido analisado o mérito do Recurso Especial, conforme a Súmula 315/STJ.
+2. A questão que sobeja em divergência é quanto ao cabimento ou não de honorários de advogado nesta fase recursal, novidade instituída pelo Novo Código de Processo Civil.
+3. Os critérios de cabimento dos honorários advocatícios recursais, previstos no § 11 do art. 85 do novo CPC, já foram tema de discussão na Terceira Turma, na sessão de 4 de abril de 2017, no julgamento dos EDcl no AgInt no REsp 1.573.573/RJ, o que levou à uniformização do tema no âmbito daquele órgão julgador.
+4. Tais critérios foram reavaliados pela Segunda Seção, no julgamento do AgInt nos Embargos de Divergência em REsp 1.539.725-DF, os quais passam a ser adotados como entendimento desta egrégia Corte Especial.
+5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+6. Não haverá honorários recursais no julgamento de Agravo Interno e de Embargos de Declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no § 11 do art. 85 do CPC/2015.
+7. Com a interposição de Embargos de Divergência em Recurso Especial tem início novo grau recursal, sujeitando-se o embargante, ao questionar decisão publicada na vigência do CPC/2015, à majoração dos honorários sucumbenciais, na forma do § 11 do art. 85, quando indeferidos liminarmente pelo relator ou se o colegiado deles não conhecer ou negar-lhes provimento.
+8. Quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer do respectivo Agravo Interno ou negar-lhe provimento, arbitrá-la ex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificando reformatio in pejus.
+9. Da majoração dos honorários sucumbenciais promovida com base no § 11 do art. 85 do CPC/2015 não poderá resultar extrapolação dos limites previstos nos §§ 2º e 3º do referido artigo.
+10. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.
+11. In casu, denota-se: a) a majoração da verba, no caso que ora se examina, decorre da inadmissão dos Embargos de Divergência - o que, como visto, trouxe novo grau recursal com sua interposição; b) a lei não exige comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida para a majoração dos honorários. O trabalho adicional realizado pelo advogado da parte recorrida, em grau recursal, deve ser tido como critério de quantificação, e não como condição para majorar os honorários.
+12. Quanto à matéria, precedentes do Pretório Excelso: ARE 898.896 AgR-EDv-AgR/RJ - Relator Ministro Dias Toffolli, julgado em 24/02/2017, Tribunal Pleno, DJe de 15/3/2017; ARE 859.077 AgR-ED-EDv-AgR/AC - Relator Ministro Marco Aurélio, julgado em 23/03/2017, Tribunal Pleno, DJe de 29/5/2017.
+13. Cabível a majoração dos honorários recursais em desfavor da parte insurgente, nos termos da decisão agravada.
+14. Agravo Interno não provido.
+(AgInt nos EAREsp 762.075/MT, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 07/03/2019)
+No mesmo sentido:
+AGRAVO INTERNO DA UNIÃO. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. CABIMENTO. AGRAVO PROVIDO.
+1. É devida a fixação de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC de 2015, em caso de indeferimento liminar, não conhecimento integral ou desprovimento dos embargos de divergência, sendo dispensada a comprovação do trabalho adicional do advogado do embargado, quando se tratar de recurso interposto contra acórdão publicado na vigência do CPC de 2015 e houver condenação em honorários advocatícios desde a origem. Nesse sentido: AgInt nos EAREsp 762.075/MT, Rel. p/ acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe de 7/3/2019.
+(..)
+4. Agravo interno provido, determinando-se a majoração dos honorários advocatícios em 1%, ressalvando-se a concessão de assistência judiciária gratuita à autora (art. 98, § 3º, do CPC de 2015).
+(AgInt nos EDcl nos EDv nos EAREsp 1653223/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 11/05/2021, DJe 17/05/2021)
+PROCESSUAL CIVIL E CIVIL. INDENIZAÇÃO DECORRENTE DE MORTE POR ACIDENTE FERROVIÁRIO. RESSARCIMENTO DAS DESPESAS COM FUNERAL. OBRIGAÇÃO CERTA, COM VALOR LIMITADO. AUSÊNCIA DE CONTRADIÇÃO. HONORÁRIOS RECURSAIS. CABIMENTO APENAS NAS HIPÓTESES DE NÃO PROVIMENTO OU NÃO CONHECIMENTO. AUSÊNCIA DE OMISSÃO.
+(..)
+4. Quanto à majoração da verba honorária, não é no caso devida uma vez que os embargantes obtiveram êxito no Recurso Especial e "Os honorários recursais são consequência legal do improvimento ou não conhecimento do recurso" (AgInt nos EDcl no REsp 1.857.922/PR, Relator Ministro Raul Araújo, Quarta Turma, DJe 1.10.2020).
+5. Embargos de Declaração rejeitados.
+(EDcl no REsp 1799104/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 30/11/2020, DJe 09/12/2020)
+Na presente hipótese, verifica-se que o Tribunal de origem fixou os honorários recursais após o provimento da apelação interposta pela parte Autora, circunstância não prevista dentre os requisitos estabelecidos pela jurisprudência desta Corte Superior, de modo que tal verba recursal deve ser afastada.
+Ante o exposto, com esteio no art. 255, § 4º, III, do RISTJ, conheço do recurso especial para dar-lhe provimento,para afastar a condenação de honorários recursais.
+Publique-se. Intimem-se.
