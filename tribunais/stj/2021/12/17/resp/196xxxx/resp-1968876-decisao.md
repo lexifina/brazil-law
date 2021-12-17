@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+PREVIDENCIÁRIO. QUALIDADE DE SEGURADA DA TRABALHADORA RURALCASADA NO REGIME ANTERIOR À CONSTITUIÇÃO FEDERAL DE 1988. POSSIBILIDADE. CONCESSÃO DE APOSENTADORIA POR INVALIDEZ AO INVÉSDE AMPARO PREVIDENCIÁRIO. JULGAMENTO NA FORMA DO ART. 942 DONCPC. 1. É possível o reconhecimento da qualidade de segurada rural da mulher casada, mesmo quando ela não detinha a condição de chefe ou arrimo de família, no regime anterior à Constituição Federal de 1988. 2. Preenchidos os requisitos legais, faz jus a demandante à concessão da aposentadoria por invalidez, desde a época do requerimento administrativo(18/12/1987), reconhecida a prescrição das parcelas anteriores a 10/07/2010e descontados os valores eventualmente já recebidos pela autora, no mesmo período da condenação, a título de renda mensal vitalícia. 3. Apelação provida.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, violou o disposto na Lei Complementar 11/1971 e art. 103 da Lei 8.213/1991 no tocante à revisão do ato administrativo que concedeu Amparo Previdenciário por Invalidez -Trabalhador Rural para que fosse concedida Aposentadoria por Invalidez Rural,com início em 18.12.1987.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 12.12.2021.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fl. 756):
+Nesse contexto, não se tratando, o caso concreto, de revisão de benefício previdenciário já concedido, mas de pedido de concessão de benefício de aposentadoria por invalidez que restou indeferido na seara administrativa, ou seja, de direito ao benefício, não incide a regra de decadência do art.103, caput, da Lei 8.213/91, nos termos do decidido pelo Supremo Tribunal Federal por ocasião do julgamento do Recurso Extraordinário n. 626.489, em16-10-2013, na sistemática do art. 543-B, do CPC/73 ("O direito à previdência social constitui direito fundamental e, uma vez implementados os pressupostos de sua aquisição, não deve ser afetado pelo decurso do tempo. Como consequência, inexiste prazo decadencial para a concessão inicial do benefício previdenciário"). .. Como se pode notar a partir do trecho acima citado, a questão controvertida na demanda não tem a ver com aplicação de tese revisional, tratando-se de verdadeira concessão originária de benefício.
+Dessa maneira, como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido, confiram-se os julgados:
+TRIBUTÁRIO - EXECUÇÃO FISCAL - IPTU - PRESCRIÇÃO - DECRETAÇÃO DE OFÍCIO - SÚMULA 283/STF - NULIDADE DA CDA - AUSÊNCIA DE DISCRIMINAÇÃO DOS VALORES POR EXERCÍCIO, DOS JUROS E DA MULTA.
+1. Tese em torno da prescrição que deixou de atacar um dos fundamentos adotados pelo aresto impugnado. Incidência da Súmula 283/STF.
+(..)
+5. Recurso especial conhecido em parte e, nessa parte, improvido. (REsp 853.390/RS, Segunda Turma, Rel. Ministra ELIANA CALMON, DJ de 19.10.2006).
+PROCESSUAL CIVIL E TRIBUTÁRIO. ARTS. 11, 15, I, DA LEI 6.830/80 E 620 DO CPC. SUBSTITUIÇÃO DE BEM PENHORADO REQUERIDO PELO EXECUTADO. INCERTEZA SE O DEPÓSITO EM CONSIGNAÇÃO SE REFERE AOS VALORES EM DÉBITO. FUNDAMENTO SUFICIENTE INATACADO. SÚMULA 283/STF.
+1. Não pode ser conhecido o recurso especial que não ataca fundamento que, por si só, é apto a sustentar o juízo emitido pelo acórdão recorrido. Aplicação analógica da Súmula 283 do STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Recurso especial não conhecido (REsp 925.031/SC, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJ 05.06.2008 p. 1, grifei).
+ADMINISTRATIVO. SERVIDOR PÚBLICO. RECURSO ESPECIAL. REDUÇÃO DE VENCIMENTOS. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. VIOLAÇÃO A PORTARIA. NORMA QUE NÃO TEM CARÁTER DE LEI FEDERAL. EXAME. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO-COMPROVADO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. É firme a jurisprudência desta Corte no sentido de ser inviável o recurso especial que não infirma os fundamentos do acórdão impugnado, por atrair o óbice da Súmula 283/STF.
+(..)
+5. Recurso especial não conhecido. (REsp 514.153/RN, Quinta Turma, Rel. Ministro ARNALDO ESTEVES LIMA, DJ de 23.10.2006).
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Assim, afasta-se de ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, não conheço Recurso Especial.
+Publique-se.
+Intimem-se.
