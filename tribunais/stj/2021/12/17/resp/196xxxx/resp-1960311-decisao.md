@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJPR assim ementado (e-STJ fl. 60):
+CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. BLOQUEIO DE VALORESEM CONTA. DESVIRTUAMENTO DA NATUREZA JURÍDICA DERESERVA FINANCEIRA. MOVIMENTAÇÃO SEMELHANTE À CONTACORRENTE. IMPENHORABILIDADE AFASTADA. BLOQUEIOJUDICIAL MANTIDO.
+É cediço que o art. 833, inc. X, CPC/2015 considera impenhorável o valor até o limite de 40 salários-mínimos de quantia depositada em caderneta de poupança. Contudo, a penhora sobre tais valores pode ser autorizada quando a finalidade da conta não é apenas a de acumular valores para garantir a subsistência da parte e de sua família.
+Agravo de Instrumento desprovido.
+No recurso especial (e-STJ fls. 80/88), fundamentado no art. 105, III, "a", da CF, a parte recorrente alega ofensaao art. 833, X, e § 2º, do CPC/2015, pois (e-STJ fls. 83/85):
+A quantia constrita não supera as balizas legais. Ao contrário do que entendeu a Corte local, a impenhorabilidade da quantia depositada em até 40 (quarenta) salários-mínimos depositados em poupança, conta corrente, fundos deinvestimento ou guardados em papel-moeda não se subordina à comprovação da natureza salarial.
+ .. Em primeiro lugar, a simples movimentação dos valores contidos em conta poupança, não caracteriza por si mesmo a ocorrência de má-fé ou fraude a possibilitar a mitigação da impenhorabilidade.
+Em segundo lugar, vê-se que a movimentação atípica da conta não basta para a carretar o desvirtuamento da finalidade, pelo contrário, atende sua finalidade, na medida em que viabiliza o sustento digno do recorrente e de sua família em determinados períodos de dificuldades financeiras, onde se socorre dos valores poupados.
+O recorrido apresentou contrarrazões (e-STJ fls. 94/103).
+O recurso foi admitido na origem (e-STJ fls. 104/107).
+É o relatório.
+Decido.
+A Corte local assim decidiu (e-STJ fls. 63/64):
+Assim, o simples caráter de espécie remuneratória não tem, por si só, o condão de afastar ou impedir a realização de atos judiciais constritivos, até porque estes não passam de efeitos naturais da execução. Logo, como regra, não se mostra razoável admitir que toda e qualquer verba alimentar, inclusive aquelas não utilizadas para a subsistência no período em que recebidas, continuem a gozar do benefício da impenhorabilidade.
+Pensar em sentido contrário representaria proteção demasiada ao devedor, em verdadeiro menosprezo ao direito de crédito do exequente, ou ainda, estar-se-ia garantindo não a sobrevivência digna do devedor, mas a manutenção de um padrão de vida às custas do credor.
+ .. No caso, ainda que a conta bancária constrita possa ser identificada como conta poupança como alega o agravante (mov. 113.1), e o valor nela contido seja menor que40 salários mínimos (R$1.024,69 - mov. 108.2), tais fatos, por si só, não são capazes de certificar a sua impenhorabilidade.
+Isso porque, da análise dos extratos bancários juntados pelo agravante depreende-se intensa(mov. 113.4 e 113.5 -autos originários e mov. 1.3/.1.6 - autos agravo)movimentação financeira na referida conta, como a realização de compras, saques e transferências, de forma que as transações efetuadas constantemente descaracterizam a sua natureza de conta poupança. Confira-se a título exemplificativo uma parte da movimentação da conta referente ao mês de maio/2020:  ..
+O entendimento está em desconformidade com a jurisprudência da Segunda Seção do STJno REsp n. 1.230.060/PR, de Relatoria da Ministra MARIA ISABEL GALLOTTI (DJ 13/8/2014, DJe 29/8/2014), segundo a qual "reveste-se de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)". Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE VALORES EM CONTA CORRENTE. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 SALÁRIOS MÍNIMOS. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte Superior é firme no sentido da impenhorabilidade de valor até 40 salários mínimos poupados ou mantidos pelo devedor em conta corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude, o que não foi demonstrado nos autos.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp 1718297/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/08/2021, DJe 18/08/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA POR BACENJUD. VALOR DEPOSITADO EM CONTA POUPANÇA COM MOVIMENTAÇÃO DE CONTA CORRENTE. SALDO INFERIOR A 40 (QUARENTA) SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. A Segunda Seção desta Corte Superior pacificou o entendimento de que "é possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda" (EREsp 1.330.567/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, DJe de 19/12/2014).
+2. Agravo interno não provido.
+(AgInt no AREsp 1767245/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/06/2021, DJe 05/08/2021.)
+Aplica-se a Súmula n. 568 do STJ.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para determinar a impenhorabilidade dos valores depositados em aplicações financeiras, até o limite de 40 (quarenta) salários mínimos.
+Publique-se e intimem-se.
