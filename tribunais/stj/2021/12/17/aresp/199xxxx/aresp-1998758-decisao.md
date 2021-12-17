@@ -1,0 +1,13 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL.EXECUÇÃO FISCAL. PENHORA. GARANTIA. RECUSA DA FAZENDA.DESOBEDIÊNCIA DA ORDEM LEGAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADAAGRAVO EM RECURSO ESPECIAL DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por SALVI CASAGRANDE MEDIÇÃO E AUTOMATIZAÇÃO LTDA., com fundamento no art. 105, III, alíneasae cda Constituição Federal, contra acórdão proferido pelo egrégio TJ/SP, assim ementado:
+AGRAVO DE INSTRUMENTO Execução Fiscal Nomeação de bens Não observância da ordem legal (art. 835 do CPC e art.11 da LEF) Não demonstrada potencialidade de alienação - Decisão reformada Recurso de agravo provido (fls. 166).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 243/246).
+3.Nas razões do Apelo Nobre, a recorrente, ora agravante, aponta violação dos arts. 1.022 e805do CPC/2015, por supostamente persistir omissão no julgado, a despeito da oposição dos Aclaratórios. Aponta, ainda, afronta art.185-A do CTN, arts. 805, 835 e 373, I e II do CPC insurgindo-se contraa recusa do bem ofertado à penhora e contra a assertiva do Tribunal de origem de que não houve respeito à ordem prevista no art.11 da Lei 6.830/1980. Menciona também a Súmula 417 do STJ. Aponta dissenso interpretativo.
+4. Com contrarrazões (fls. 2555/271), negou-se seguimento ao Recurso Especial no pertinente àquestão referente à possibilidade de recusa da Fazenda do Estado na nomeação de bens à penhora, diantedo julgamento do Recurso Especial Repetitivo 1.337.790, Tema 578/ STJ, e, quanto ao mais, inadmitiu-se a pretensão recursal, o que foi mantido em sede de Agravo Interno (fls. 328/332).
+5. É o relatório.
+6. A irresignação não merece acolhimento.
+7. Inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de qualquer erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da Empresa.
+9. Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+10. Publique-se.Intimações necessárias.
