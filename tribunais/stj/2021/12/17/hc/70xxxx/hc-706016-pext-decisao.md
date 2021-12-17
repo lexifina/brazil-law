@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de pedido formulado pela defesa de MAICON FERNANDO BARBOSA, que objetiva vê-lo alcançado pela decisão de e-STJ fls.250/256, proferida em relação a EDERSON SIMIONE.
+Afirma serem corréus em situação fático-processual idêntica, estando também configurada a ilegitimidade da sua segregação cautelar.
+É o relatório.Decido.
+Nos termos do art. 580 do CPP, no caso de concurso de agentes (Código Penal, art. 25), "a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Assim, "a extensão do julgado referente a um réu não se opera automaticamente aos demais. Urge reunir dois requisitos: objetivo (identidade fática) e subjetivo (circunstâncias pessoais)" (RHC n. 7.439/SP, Relator Ministro LUIZ VICENTE CERNICCHIARO, Sexta Turma, julgado em 18/8/1998).
+Em outras palavras, o deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado, a teor do artigo 580 do Código de Processo Penal.
+Entendo que asituação do requerente é idêntica à do paciente e assegura a identidade exigida na Lei Processual Penal. Assim como o paciente, o requerente  também teria  perpetrado os crimes tráfico de drogas ilícitas e de associação para o tráfico de drogas ilícitas, e que isso justificaria a prisão cautelar, apesar da primariedade(e-STJ  fl.  48):
+(..) No comércio e na casa de EDERSON foram apreendidas porções brutas de cocaína e de maconha, além de balanças de precisão e 15 (quinze) pontos, tipo selos, de LSD. (..).A primariedade de Ederson, Maicon e Giovani - observando-se quanto ao último, possuir passagens pelo Juizado da Infância e Juventude e encontrar-se beneficiado por liberdade provisória(..), por si só, não afasta a possibilidade da prisão preventiva. (..).
+Assim, reconhecida a similitudes entre a situação do requerente e a examinada no presente habeas corpus em relação ao paciente, impõe-se a extensão do efeitos, nos termos do art. 580 do CPP.
+Nesse sentido:
+HABEAS CORPUS. PEDIDO DE EXTENSÃO DA ORDEM CONCEDIDA À CORRÉ.TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. APREENSÃO DE 19,5G DE MACONHA. AUSÊNCIA DE GRAVIDADE CONCRETA. INOVAÇÃO DE FUNDAMENTOS PELO TRIBUNAL. IMPOSSIBILIDADE.MEDIDAS CAUTELARES ALTERNATIVAS. NECESSIDADE. SIMILITUDE DA SITUAÇÃO FÁTICO-PROCESSUAL. ART. 580 DO CÓDIGO DE PROCESSO PENAL.INCIDÊNCIA. PEDIDO DEFERIDO.
+1. A teor do art. 580 do Código de Processo Penal, o deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado.
+2. Caso em que o magistrado decretou a prisão preventiva da paciente e do ora requerente sob a mesma fundamentação sem discorrer especificamente sobre suas condutas.
+3. Tendo reconhecido que o decreto que impôs a prisão preventiva à paciente não apresentou motivação idônea, apta a justificar a segregação cautelar, tendo em vista a reduzida quantidade de entorpecentes apreendidos - 19,5g de maconha -, e a ausência de fundamentos concretos para justificar a custódia, bem como diante do fato de que as menções contidas no acórdão a respeito dos seus maus antecedentes consistiam em indevida inovação de fundamentos, foi-lhe deferida a liberdade provisória, com fixação de medidas cautelares alternativas, pela Quinta Turma desta Corte Superior.
+4. Evidenciada a identidade de situação entre o paciente e o ora requerente, deve ser deferido o pedido de extensão.
+5. Pedido deferido, para determinar a soltura do requerente, sob a imposição das medidas cautelares alternativas.
+(PExt no HC 612.514/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/05/2021, DJe 07/05/2021)
+PEDIDO DE EXTENSÃO NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. IDENTIDADE DE SITUAÇÕES. ART. 580 DO CPP. DECRETO MOTIVADO. MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO.FIXAÇÃO QUE SE IMPÕE. PLEITO DEFERIDO.
+1. Preconiza o art. 580 do Código de Processo Penal que, "no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+2. Na espécie, há identidade de situações entre o paciente, agraciado com a substituição de sua prisão preventiva por medidas alternativas, e o ora requerente, o qual está preso em decorrência dos mesmos fatos (apreensão de 48g de maconha, 4g de crack e 32g de cocaína), e, tal como ocorrido com o paciente, o decreto prisional invoca a reiteração delitiva.
+3. Pedido de extensão deferido a fim de substituir a custódia preventiva do requerente por medidas cautelares diversas da prisão, as quais deverão ser fixadas pelo Juízo de primeiro grau.
+(PExt no HC 573.582/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/06/2020, DJe 01/07/2020)
+Ante o exposto,defiroo pedido de extensão da ordem dehabeas corpus.
+Intimem-se.
