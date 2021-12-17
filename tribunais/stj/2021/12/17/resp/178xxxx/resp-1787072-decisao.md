@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial, manejado por ROSA MARIA PEREIRA JACQUES, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 175):
+PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE AÇÃO COLETIVA AJUIZADA POR SINDICATO. POSSIBILIDADE. LEGITIMIDADE SINDICAL QUE BENEFICIA TODOS OS MEMBROS DA CATEGORIA NA BASE TERRITORIAL.
+1. Cabe aos sindicatos a representação da categoria dentro da sua base territorial. Essa limitação decorre do princípio constitucional da unicidade sindical (artigo 8º, inciso II, da Constituição Federal).
+2. A sentença proferida em ação coletiva interposta por sindicato somente surte efeito nos limites da competência territorial do órgão que a proferiu e exclusivamente em relação aos substituídos processuais que ali eram domiciliados à época da propositura da demanda. Precedentes do Superior Tribunal de Justiça e deste Tribunal.
+3. Hipótese em que não há prova nos autos de que a parte apelante se encontra entre os beneficiados da sentença proferida na ação coletiva, porquanto não demonstrada a condição de bancária do estado da Bahia à época.
+A parte recorrente aponta violação ao art. 81 do CDC. Sustenta, em resumo, a sua legitimidade para execução individual de sentença coletiva obtida por sindicato, para "restituição de imposto de renda indevidamente retido sobre o resgate de fundo de previdência privada, pois o tributo incidiu sobre valores decorrentes de contribuições vertidas no período entre 01/01/1989 e 31/12/1995" (fl. 183).
+Nas contrarrazões, o ora recorrido sustenta: (I) que "se trata de questão de ordem eminentemente fática, nos bem precisos termos do r. acórdão recorrido" (fl. 205); e (II) que "reporta-se integralmente às razões do v. acórdão recorrido, as quais, por sua clareza e correção quanto aos aspectos contra os quais se insurge a recorrente, dispensam qualquer retoque" (fl. 205).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, não assiste razão ao recorrido relativamente à preliminar de não conhecimento do recurso especial, o qual cumpre os requisitos legais e constitucionais exigidos para a sua admissão.
+Nesse importe, observa-se que o Tribunal de origem assim deliberou ao solucionar a contenda (fls. 172/173):
+A controvérsia cinge-se em verificar se a ação coletiva nº 0016898-35.2005.4.01.3400, na qual o Sindicato dos Bancários da Bahia obteve o reconhecimento do direito dos substituídos à não incidência do imposto de renda sobre as contribuições vertidas às entidades de previdência privada, no período de 01.01.1989 a 31.12.1995, beneficia a todos os membros da categoria profissional.
+ ..
+Com efeito, cabe aos sindicatos a representação da categoria dentro da sua base territorial.
+ ..
+Diante deste contexto, a sentença proferida em ação coletiva interposta por sindicato somente surte efeito nos limites da competência territorial do órgão que a proferiu e exclusivamente em relação aos substituídos processuais que ali eram domiciliados à época da propositura da demanda.
+ ..
+No presente caso, não há prova nos autos de que a apelante se encontre entre os beneficiados da sentença proferida na ação coletiva, porquanto não demonstrada a condição de bancária do Estado da Bahia à época.
+Assim, impõe-se a manutenção da sentença.
+A respeito do tema, vigora na Primeira Seção do STJ o posicionamento firmado no EREsp 1.770.377/RS, no seguinte sentido: "quando em discussão a eficácia objetiva e subjetiva da sentença proferida em Ação Coletiva proposta em substituição processual, a aplicação do art. 2º-A da Lei 9.494/1997 deve se harmonizar com os demais preceitos legais aplicáveis ao tema, de forma que o efeito da sentença coletiva nessas hipóteses não está adstrito aos filiados à entidade sindical à época do oferecimento da Ação Coletiva, nem se limita sua abrangência ao âmbito territorial da jurisdição do órgão prolator da decisão".
+Confiram-se, a propósito:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO COLETIVA AJUIZADA POR SINDICATO. LIMITES SUBJETIVOS DA COISA JULGADA. ART. 2º-A DA LEI N. 9.494/1997. LIMITAÇÃO TERRITORIAL. INAPLICABILIDADE.
+PRECEDENTES. NÃO APLICAÇÃO DO ENTENDIMENTO FIXADO NO RE 612.043/PR (TEMA 499).
+1. Na hipótese, observa-se que o acórdão recorrido adotou entendimento consolidado nesta Corte, no sentido de que os efeitos da sentença coletiva, no casos em que a entidade sindical atua com substituta processual, não estão adstritos aos filiados à entidade sindical à época do oferecimento da ação coletiva, ou limitada a sua abrangência ao âmbito territorial da jurisdição do órgão prolator da decisão, salvo se houver restrição expressa no título executivo judicial. Precedentes: EREsp 1.770.377/RS, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 07/05/2020; AgInt no REsp 1.555.564/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 28/08/2019.
+2. Agravo interno não provido.
+(AgInt no REsp 1.691.620/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA,DJe 05/11/2021)
+PROCESSUAL CIVIL. EFEITOS DA SENTENÇA PROFERIDA EM AÇÃO COLETIVA. ART. 2º-A DA LEI 9.494/1997. INTERPRETAÇÃO SISTEMÁTICA. LIMITAÇÃO DOS EFEITOS DA COISA JULGADA AO TERRITÓRIO SOB JURISDIÇÃO DO ÓRGÃO PROLATOR DA SENTENÇA. IMPROPRIEDADE.
+1. A Primeira Seção do STJ, nos autos dos EREsp 1.770.377/RS, Rel. Min. Herman Benjamin, DJe 7/5/2020, manifestou-se no sentido de que, quando em discussão a eficácia objetiva e subjetiva da sentença proferida em ação coletiva proposta em substituição processual (como ocorre quando a ação é ajuizada por sindicato), a aplicação do art. 2º-A da Lei 9.494/1997 deve se harmonizar com os demais preceitos legais aplicáveis ao tema, de forma que o efeito da sentença coletiva nessas hipóteses não está adstrito aos filiados à entidade sindical à época do oferecimento da ação coletiva, nem limitada sua abrangência ao âmbito territorial da jurisdição do órgão prolator da decisão.
+2. Agravo Interno não provido.
+(AgInt no AREsp 1.766.946/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 13/10/2021)
+PROCESSUAL CIVIL. AÇÃO COLETIVA. AJUIZAMENTO POR SINDICATO. SUBSTITUIÇÃO PROCESSUAL. LIMITAÇÃO TERRITORIAL. INAPLICABILIDADE.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado n. 3 do Plenário do STJ).
+2. A Primeira Seção desta Corte, nos autos do EREsp 1.770.377/RS, Rel. Min. Herman Benjamin, DJe 7/5/2020, manifestou-se no sentido de que, quando em discussão a eficácia objetiva e subjetiva da sentença proferida em ação coletiva proposta em substituição processual (como ocorre quando a ação é ajuizada por sindicato), a aplicação do art. 2º-A da Lei n. 9.494/1997 deve se harmonizar com os demais preceitos legais aplicáveis ao tema, de forma que o efeito da sentença coletiva nessas hipóteses não está adstrito aos filiados à entidade sindical à época do oferecimento da ação coletiva, nem limitada sua abrangência ao âmbito territorial da jurisdição do órgão prolator da decisão.
+3. Hipótese em que, conforme restou ali assentado, há o distinguishing entre aquele caso e a orientação do Supremo Tribunal Federal no âmbito do RE 612.043/PR (Tema 499), julgado em repercussão geral, em que foi reconhecida a constitucionalidade do art. 2º-A da Lei n. 9.494/1997" (REsp 1.887.817/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 03/11/2020, DJe 27/11/2020). Incidência da Súmula 83 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.878.360/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA,DJe 23/03/2021)
+Nesse viés, por estar em dissonância com a jurisprudência do STJ, o aresto recorrido está a merecer reparos.
+ANTE O EXPOSTO, dou provimento ao recurso especial, de modo a reconhecer a legitimidade ativa da recorrente para promover a execução do título judicial.
+Publique-se.
