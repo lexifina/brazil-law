@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. Execução fiscal. Nomeados à penhora veículos e precatórios judiciais, devidos pela própria exequente. Recusa. Prejudicado o pedido quanto aos veículos, pois novamente oferecidos à penhora junto ao juízo da execução, com comprovante de inexistência de débitos pendentes, aguardando-se manifestação do Estado. Orientação do Superior Tribunal de Justiça, Tema 578, que impõe ao executado o ônus de comprovar a necessidade de inversão da ordem legal. A lei prevê a possibilidade de penhora sobre direito de crédito. A falta de autorização legal, exigida pelo artigo 170 do Código Tributário Nacional, para compensação tributária, não constitui impedimento à penhora, em execução fiscal, sobre crédito decorrente de precatório judicial devido pelo próprio exequente, dado que a penhora não quita o débito sob execução e por isso não implica compensação. A penhora atua apenas como garantia da execução, possibilitando, depois de superadas eventuais resistências do devedor, com a venda do crédito em hasta pública, a obtenção de numerário para a satisfação do débito. Caso o crédito não seja arrematado, a solução será aguardar pelo pagamento do precatório e, assim que ocorrer, o seu produto será aplicado no pagamento da execução. Dessa forma, não terá ocorrido compensação, que quita as obrigações recíprocas, mas exige autorização legal, tampouco ofensa à ordem cronológica de pagamento dos precatórios. Com isso, sem desrespeitar o comando constitucional sobre a ordem cronológica de pagamento dos precatórios, nem a exigência de especial autorização legal para efeito de compensação tributária e tampouco conferir poder liberatório aos precatórios não pagos no devido tempo, combate-se a imoralidade de permitir que o ente devedor busque no patrimônio dos contribuintes elementos para a satisfação imediata dos seus créditos tributários, ao mesmo tempo em que retarda, indefinidamente, o pagamento dos seus débitos para com esses mesmos contribuintes. Portanto, a penhora sobre créditos provenientes de precatórios judiciais é medida adequada e cabível, sendo, pois, injustificada a recusa da exequente. Recurso prejudicado quanto aos veículos e provido para garantir a execução fiscal com créditos de precatórios devidos pelo Estado exequente.
+A parte recorrente alega divergência jurisprudencial e violação dos arts. 829, § 2º, 835 e 848, I, do Código de Processo Civil/2015 e dos arts. 11 e 15, I, da Lei de Execução Fiscal. Aduz que o credor não é obrigado a aceitar nomeação de penhora de precatórios, pois o bem nomeado é considerado um crédito e o artigo 11 da Lei 6.830/1980 estabelece o dinheiro como bem preferencial, o que não foi observado pela recorrida.
+Contrarrazões às fls. 78-87, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9.12.2021.
+Na hipótese dos autos, a Fazenda do Estado de São Paulo argumenta que o credor não é obrigado a aceitar nomeação de penhora de precatórios, uma vez que o artigo 11 da Lei 6.830/1980 estabelece o dinheiro como bem preferencial, o que não teria sido observado pela parte recorrida.
+O Tribunal de origem, ao dirimir a controvérsia dos autos, consignou:
+Portanto, a penhora sobre créditos provenientes de precatórios judiciais é medida adequada e cabível, sendo, pois, injustificada a recusa da exequente.
+A agravante demonstrou a titularidade dos créditos e que foi pedida a sua habilitação nos processos que originaram os precatórios, autos originários, fls. 26/62 e 70/151, sendo que eventual falta de homologação da cessão dos créditos não obsta que sejam aceitos em penhora, dado o disposto no artigo 100, § 14, da Constituição Federal no sentido de que a cessão produz efeitos após comunicação, por meio de petição protocolizada, ao tribunal de origem e à entidade devedora, portanto, mesmo antes da homologação.
+(..)
+Também as seguintes observações do relator:
+Eventual alegação, também, de incerteza, por não se saber se e quando será resgatado, e de iliquidez do crédito da executada, por ser desconhecido seu valor, seria acintosa e impertinente.
+É notoriamente sabido que demora no resgate do valor de precatório não equivale à incerteza de seu crédito, pois são conceitos e juízos valorativos diferentes. De mais a mais, ninguém pode se beneficiar da própria torpeza. Se existe demora no resgate de precatório, no Estado de São Paulo, decorre ela tão somente da conduta habitual e reiterada da sua Fazenda Estadual de não honrar prontamente quase todas as suas dívidas, postergando, como sói acontecer, seus pagamentos "ad eternum", quando é devedora. Por sua vez, o argumento de ser desconhecido seu valor, para furtar-se à sua aceitação, seria descabido, vez que, expedido respectivo o precatório, o fisco, obviamente, já teria, tem e terá ciência prévia do quantum debeatur. Tal comportamento, a toda evidência inusitado, se invocado, lembraria a estória do veterano jogador de cartas, contumaz estelionatário, por emitir rotineiramente cheques sem fundos para o pagamento de suas dívidas de carteado, que aceitava cheques de qualquer pessoa, menos os de sua emissão, quando vencedor e credor nas mesas de baralho. Finalmente, urge destacar que a existência do precatório e seu valor sequer foram questionados pela agravada, mesmo porque documentalmente comprovados nos autos (fls. 46/163), o que leva à induvidosa conclusão de sua existência, liquidez e certeza.
+Pelo exposto, julga-se prejudicado o recurso quanto aos veículos e DÁ-SE provimento para garantir a execução fiscal com créditos de precatórios devidos pelo Estado exequente. (fls. 44-45, e-STJ)
+A Primeira Seção do STJ, em julgamento de recurso repetitivo, concluiu pela possibilidade de a Fazenda Pública recusar a substituição do bem penhorado por precatório (REsp 1.090.898/SP, Rel. Ministro Castro Meira, DJe 31/8/2009).
+No mencionado precedente, encontra-se como fundamento decisório a necessidade de preservar a ordem legal estabelecida pelos arts. 11 da Lei 6.830/1980 e 655 do CPC/1973, in verbis:
+Art. 11 - A penhora ou arresto de bens obedecerá à seguinte ordem:
+I - dinheiro;
+II - título da dívida pública, bem como título de crédito, que tenham cotação em bolsa;
+III - pedras e metais preciosos;
+IV - imóveis;
+V - navios e aeronaves;
+VI - veículos;
+VII - móveis ou semoventes; e
+VIII - direitos e ações.
+Art. 655. A penhora observará, preferencialmente, a seguinte ordem:
+I - dinheiro, em espécie ou em depósito ou aplicação em instituição financeira;
+II - veículos de via terrestre;
+III - bens móveis em geral;
+IV - bens imóveis;
+V - navios e aeronaves;
+VI - ações e quotas de sociedades empresárias;
+VII - percentual do faturamento de empresa devedora;
+VIII - pedras e metais preciosos;
+IX - títulos da dívida pública da União, Estados e Distrito Federal com cotação em mercado;
+X - títulos e valores mobiliários com cotação em mercado;
+Além disso, na esteira da Súmula 406/STJ ("A Fazenda Pública pode recusar a substituição do bem penhorado por precatório"), a Fazenda Pública pode apresentar recusa ao oferecimento de precatório à penhora, além de afirmar a inexistência de preponderância, em abstrato, do princípio da menor onerosidade para o devedor sobre o da efetividade da tutela executiva. Exige-se, para a superação da ordem legal estabelecida no art. 655 do CPC (art. 835 do CPC/2015), firme argumentação baseada em elementos do caso concreto, o que não se verificou na hipótese dos autos.
+Por fim, saliento que, nos termos do art. 9º, III, da Lei 6.830/1980, cumpre ao executado nomear bens à penhora, observada a ordem do artigo 11 do mesmo diploma legal. É dele o ônus de comprovar a imperiosa necessidade de afastar a ordem legal dos bens penhoráveis, e, para que essa providência seja adotada, mostra-se insuficiente a mera invocação genérica do art. 620 do CPC.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. NOMEAÇÃO DE PRECATÓRIO À PENHORA. RECUSA DA FAZENDA PÚBLICA. INOBSERVÂNCIA DA ORDEM LEGAL. POSSIBILIDADE.MATÉRIA JULGADA NESTA CORTE SOB O RITO DO ART. 543-C DO CPC/1973.
+1. Nos termos do que decidido pelo Plenário do STJ, " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. No julgamento do REsp 1.337.790/PR, submetido ao rito do art.543-C do CPC/1973, esta Corte ratificou o entendimento de que é legítima a recusa por parte da Fazenda de bem nomeado à penhora, caso não observada a gradação legal, não havendo falar em violação do art. 620 do CPC/1973, uma vez que a Fazenda Pública pode recusar a nomeação por quaisquer das causas previstas no art. 656 do CPC/1973 ou nos arts. 11 e 15 da LEF.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.581.091/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 14/2/2017)
+RECURSO FUNDADO NO CPC/73. TRIBUTÁRIO. EXECUÇÃO FISCAL. NOMEAÇÃO DE PRECATÓRIO À PENHORA. RECUSA DA FAZENDA PÚBLICA. POSSIBILIDADE. RESP 1.337.790/PR, JULGADO SOB O RITO DO ART. 543-C DO CPC. VIOLAÇÃO DO PRINCÍPIO DA MENOR ONEROSIDADE . INEXISTÊNCIA.
+1. O Plenário do STJ, na sessão de 09.03.2016, definiu que o regime recursal será determinado pela data da publicação da decisão impugnada (Enunciado Administrativo n. 2/STJ). Logo, no caso, aplica-se o CPC/73.
+2. A Primeira Seção deste STJ, ao julgar o REsp 1.337.790/PR, submetido ao rito do art. 543-C do CPC, ratificou o entendimento no sentido de que é legítima a recusa por parte da Fazenda de precatório nomeado à penhora, ante a não-observância da ordem legal do art. 11 da Lei nº 6.830/80.
+3. Outrossim, no mesmo julgado repetitivo, firmou-se a compreensão pela "inexistência de preponderância, em abstrato, do princípio da menor onerosidade para o devedor sobre o da efetividade da tutela executiva".
+4. Agravo regimental improvido.
+(AgRg no REsp 1.548.083/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 8/6/2016)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. NOMEAÇÃO DE BENS À PENHORA. PRECATÓRIO. DIREITO DE RECUSA DA FAZENDA PÚBLICA. ORDEM LEGAL. SÚMULA 406/STJ. ADOÇÃO DOS MESMOS FUNDAMENTOS DO RESP 1.090.898/SP (REPETITIVO), NO QUAL SE DISCUTIU A QUESTÃO DA SUBSTITUIÇÃO DE BENS PENHORADOS. PRECEDENTES DO STJ.
+1. Cinge-se a controvérsia principal a definir se a parte executada, ainda que não apresente elementos concretos que justifiquem a incidência do princípio da menor onerosidade (art. 620 do CPC), possui direito subjetivo à aceitação do bem por ela nomeado à penhora em Execução Fiscal, em desacordo com a ordem estabelecida nos arts. 11 da Lei 6.830/1980 e 655 do CPC.
+2. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a divergência, tal como lhe foi apresentada.
+3. Merece acolhida o pleito pelo afastamento da multa nos termos do art. 538, parágrafo único, do CPC, uma vez que, na interposição dos Embargos de Declaração, a parte manifestou a finalidade de provocar o prequestionamento. Assim, aplica-se o disposto na Súmula 98/STJ: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+4. A Primeira Seção do STJ, em julgamento de recurso repetitivo, concluiu pela possibilidade de a Fazenda Pública recusar a substituição do bem penhorado por precatório (REsp 1.090.898/SP, Rel. Ministro Castro Meira, DJe 31.8.2009). No mencionado precedente, encontra-se como fundamento decisório a necessidade de preservar a ordem legal conforme instituído nos arts. 11 da Lei 6.830/1980 e 655 do CPC.
+5. A mesma ratio decidendi tem lugar in casu, em que se discute a preservação da ordem legal no instante da nomeação à penhora.
+6. Na esteira da Súmula 406/STJ ("A Fazenda Pública pode recusar a substituição do bem penhorado por precatório"), a Fazenda Pública pode apresentar recusa ao oferecimento de precatório à penhora, além de afirmar a inexistência de preponderância, em abstrato, do princípio da menor onerosidade para o devedor sobre o da efetividade da tutela executiva. Exige-se, para a superação da ordem legal prevista no art. 655 do CPC, firme argumentação baseada em elementos do caso concreto. Precedentes do STJ.
+7. Em suma: em princípio, nos termos do art. 9º, III, da Lei 6.830/1980, cumpre ao executado nomear bens à penhora, observada a ordem legal. É dele o ônus de comprovar a imperiosa necessidade de afastá-la, e, para que essa providência seja adotada, mostra-se insuficiente a mera invocação genérica do art. 620 do CPC.
+8. Diante dessa orientação, e partindo da premissa fática delineada pelo Tribunal a quo, que atestou a "ausência de motivos para que (..) se inobservasse a ordem de preferência dos artigos 11 da LEF e 655 do CPC, notadamente por nem mesmo haver sido alegado pela executada impossibilidade de penhorar outros bens (..)" - fl. 149, não se pode acolher a pretensão recursal.
+9. Recurso Especial parcialmente provido apenas para afastar a multa do art. 538, parágrafo único, do CPC. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ.
+(REsp 1.337.790/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 7/10/2013)
+Diante do exposto, dou provimento ao Recurso Especial, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
