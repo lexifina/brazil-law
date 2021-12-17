@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado (e-STJ, fls. 210-219):
+"MANDADO DE SEGURANÇA. TRIBUNAL DO JÚRI.ADVOGADOS QUE DEIXAM A SESSÀO PLENÁRIA APÓSINDEFERIMENTO DE EXIBIÇÃO DE MÍDIA, COMFUNDAMENTO NO ART. 479, DO CPP. APLICAÇÃO DE MULTADE CEM SALÁRIOS MÍNIMOS. SITUAÇÃO PROCESSUAL QUENÃO LEGITIMA A IMPOSIÇÃO DA SANÇÃO. EXIBIÇÃO DEMATERIAL QUE JÁ ESTAVA ACAUTELADO NO PROCESSO.SEGURANÇA CONCEDIDA".
+Os sucessivos embargos de declaração foram rejeitados (e-STJ, fls. 274-276, 333-335 e 383-385).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 265, 381, III, 479, 563, 571, VIII, 619 e 620 do CPP. Aduz para tanto, em síntese, que: (I) o Tribunal local teria se omitido sobre pontos relevantes para a elucidação da controvérsia; e (II)o abandono do plenário pelos advogados recorridos autorizaria a imposição de multa, por consistir em estratégia processual injustificada e indevida para a finalidade de reverter decisão judicial desfavorável.
+Com contrarrazões (e-STJ, fls. 461-529, 535-555 e 556-576), o recurso especial foi admitido na origem (e-STJ, fls. 577-589).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 621-626).
+É o relatório.
+Decido.
+Inicialmente, não vislumbro ofensa aos arts. 381, 619 e 620 do CPP, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+E, ao contrário do que aduz o recorrente, seussegundos e terceiros embargosmostraram apenas o inconformismo com a solução encontrada pelo TJ/PR, insurgência absolutamente incabível na via aclaratória.
+Quanto à questão de fundo, a Corte de origem constatou que havia justificativa válida para a postura dos recorridos, nos seguintes termos (e-STJ, fls. 212-219):
+"Segundo se infere do Sistema Projudi, 11a data de 10.02.2021, às 09h. foi aberta a sessãodejulgamento do processo em questão. Após a formação do Conselho de Sentença, durante odepoimento da primeira testemunha arrolada pela acusação, os defensores do acusado, oraimpetrantes, quando da elaboração de um questionamento, apresentaram um vídeo emplenário. Diante da imediata contrariedade manifestada pelo Ministério Público e peloAssistente de Acusação. 0 Juízo indeferiu a exibição da mídia, fundamentando sua decisãono regramento do art. 479, do Código de Processo Penal.
+ ..
+Nãoobstante os argumentos alinhavados pelo douto MM. Juiz-Presidente do Tribunal doJúri, tem-se que a situação processual do presente feito nãoautoriza a aplicação da multaprevista no art. 265, do Código de Processo Penal.
+Note-se que na fase do art. 422, do Código de Processo Penal, a defesa técnica manifestouexpressamente o desejo de que fossem disponibilizadas todas as apreensões constantes doprocesso, para uso em plenário (mov. 16.1 - autos 0009657-51.2020.8.16.0031, de24.08.2020).
+O pleito defensivo não foi impugnado.
+Na sequência, no dia 12 de novembro de 2020. no mov. 244.1, a defesa requereu que
+"todas as mídias digitais (vídeos, fotos, pdfs, etc) dos objetos (CDs, DVDs, HDs,pendrives, etc) acautelados perante este respeitável juízo sejam integralmente extraídas ejuntadas ao sistema PROJUDI".
+Nesse cenário, conforme consta do movimento 246.2, todas as apreensões em formatofísico que armazenavam conteúdo de vídeo foram encaminhadas à Vara do Plenário doTribunal do Júri de Guarapuava em 13.11.2020,a saber:
+ ..
+Como visto, o próprio Juízo esclareceu que o material já constante do processo poderia serexibido na sessãoplenária, desde que não fosse editado alterado (questão que sequer sediscute no caso).
+É crucial rememorar que os HDs já estavam acautelados no processo desde julho/2018,inclusive, com o termo de entrega formalizado pelo Ministério Público (mov. 207.1 -autos 0002713-08.2018.8.16.0159). Por conseguinte, não se pode dizer que a defesa, aoexibir o vídeo, desrespeitou deliberadamente o tríduo do art. 479, do CPP, a ponto de arcarcom o pagamento de multa de cem salários mínimos.As mídias estavam disponíveis paratodas as partes e foram solicitadas para exibição. Eventual impossibilidade dificuldadetécnica na extração do conteúdo (seja da secretaria, seja do próprio Sistema Projudi ou daempresa particular), não pode interpretada como violação do aludido dispositivo legal (art.479), em desfavor defensores.
+Por conseguinte, a justificativa declinada pelo Magistrado, para imposição da sançãoprocessual, resta enfraquecida.
+Ainda, vale a reflexão: se por um lado pode ser questionado o acerto da postura dosadvogados em abandonar o júri, já que a legislação processual lhes disponibiliza recursopróprio para atacar o ato judicial, por outro lado é inquestionável o direito do réu de terassegurado o exercício pleno de seu direito de defesa, mormente em se tratando daimputação de grave crime de homicídio qualificado e de delito conexo" (grifei).
+Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do Regimento Interno do STJ,conheço em partedo recurso especial e, nesta extensão,nego-lhe provimento.
+Publique-se. Intimem-se.
