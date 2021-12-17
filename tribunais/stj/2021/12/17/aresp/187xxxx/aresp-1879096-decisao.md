@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto porACIC-ASSOCIACAO EMPRESARIAL DE CRICIUMAcontra decisão que inadmitiu o recurso especial fundado no art. 105, III, "a", da Constituição Federal, que objetiva reformar o acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO,assim ementado:
+MANDADO DE SEGURANÇA. CONTRIBUIÇÃO. RECEITABRUTA. TRIBUTÁRIO. REGIME DE DESONERAÇÃO DA FOLHA. LEINº 13.670/2018. ANO-CALENDÁRIO. IRRETRATABILIDADE. ANTERIORIDADE NONAGESIMAL. AUSÊNCIA DE OFENSA AOSPRINCÍPIOS DA SEGURANÇA JURÍDICA E DO DIREITOADQUIRIDO. FEDERAÇÃO. ILEGITIMIDADE ATIVA.
+1. A Federação possui legitimidade ativa restrita à discussão judicial deseus próprios direitos e das associações e dos sindicatos que representa, nãose estendendo a prerrogativa aos direitos dos integrantes da categoriaeconômica.
+2. Desde que observados os princípios constitucionais da anterioridadenonagesimal e da irretroatividade, inexiste qualquer óbice à revogação do regime de desoneração da folha e na retomada da sistemática deapuração anterior, durante o próprio ano-calendário (Lei 13.670/2018).
+3. O fato de a legislação ter previsto para o contribuinte a possibilidadede optar em caráter irrevogável, em cada ano-calendário, por umadas formas de contribuição, não lhe conferiu direito adquirido àquele determinadoregime jurídico, que pode ser modificado, a partir do advento de novalegislação constitucionalmente válida, nem se confunde com hipótese de revogaçãode benefício tributário condicional, que inexiste no caso.
+4. A alteração promovida pela Lei nº 13.670/18 não caracteriza violaçãoaos princípios da boa fé, da proteção da confiança e da segurança jurídica, mas a exclusão de uma das opções de regime de tributação que a lei disponibilizava ao contribuinte.
+No recurso especial, a parte recorrente objetiva que seja deferido o direito ao recolhimento de Contribuição Previdenciária Patronal com base em sua receita bruta, no termos da Lei 12.546/11, com a redação dada pela Lei 13.161/2015.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial não foi admitido na origem, em razão da irregularidadeno preparo recursal, sendo interposto o presente agravo.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Da análise dos autos, verifica-se que a parte recorrente,conforme fl. 376, foiintimada na origem paraa regularização do preparo e que, no entanto,não cumpriu tal determinação, uma vez que anexou as guias DARF e comprovantes de pagamento com códigos de barras dissociados (fls. 380 a 383 - evento 18).
+Consoantejurisprudênciadesta Corte, os recursos interpostos para o Superior Tribunal de Justiça devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção, a teor da Súmula 187/STJ: "É deserto o recurso interposto para o Superior Tribunal de Justiça, quando o recorrente não recolhe, na origem, a importância das despesas de remessa e retorno dos autos."
+Tem-se ainda que a ausência de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção (AgInt noAREsp1.132.940/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/8/2018).
+Nesse sentido, vejamos:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO ANTE A SUA DESERÇÃO.IRRESIGNAÇÃO RECURSAL DA RÉ.
+1. Não tendo a insurgente sanado o vício quanto à divergência entre o número constante no código de barras das guias de preparo e seus respectivos comprovantes de pagamento dentro do prazo determinado, a despeito de ter sido intimada para tanto, é de se reconhecer a deserção do recurso especial.
+2. Agravo interno desprovido.
+(AgInt no REsp 1729109/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/09/2018, DJe 18/09/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PREPARO. GUIA DE RECOLHIMENTO DA UNIÃO. GRU. DIVERGÊNCIA ENTRE O NÚMERO CONSTANTE NO CÓDIGO DE BARRAS DAS GUIAS DE PREPARO E SEUS RESPECTIVOS COMPROVANTES DE PAGAMENTO. DESERÇÃO. PRECEDENTES. SÚMULA 187 DO STJ. IMPOSSIBILIDADE DE JUNTADA POSTERIOR. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+(AgInt no AREsp 868.531/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 09/03/2017, DJe 23/03/2017)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
