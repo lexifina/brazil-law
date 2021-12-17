@@ -1,0 +1,89 @@
+Decisão:
+
+    Vistos.
+
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada pelo Banco Pan S.A. em face de acórdão proferido pela 2ª Turma do Tribunal Regional do Trabalho da 4ª Região nos autos do Processo nº 0020077-23.2017.5.04.0026, que teria afrontado a autoridade e a eficácia do que decidido na ADPF nº 324/DF e no enunciado da Súmula Vinculante nº 10.
+
+    Narra-se que, na origem, trabalhador contratado ajuizou ação trabalhista, na qual
+
+    “pleiteou a nulidade do contrato de trabalho com sua real empregadora e reconhecimento de vínculo empregatício com está Reclamante, sob o fundamento de que houve terceirização ilícita, devendo sua CTPS ser retificada, bem como pleiteou o pagamento das verbas previstas nas Convenções Coletivas dos bancários.”
+
+    O reclamante afirma que a autoridade reclamada reformou a sentença para reconhecer o enquadramento da ora beneficiária como bancária e o vínculo de emprego com a tomadora de serviços.
+
+    Defende que a autoridade reclamada
+
+    “desconsidera a autoridade das decisões da Suprema Corte, que firmou entendimento cristalino sobre a matéria no julgamento da ADPF nº 324, nos seguintes termos: ‘É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada’.”
+
+    Requer que seja deferido o pedido liminar para suspender o curso do processo e, ao final, que seja julgada procedente a reclamação constitucional para cassar o ato reclamado.
+
+    É o relatório. Decido.
+
+    Nos julgamentos da ADPF nº 324/DF e do RE nº 958.252/MG (representativo da controvérsia do Tema 725 da Repercussão Geral), realizados conjuntamente na sessão plenária de 30/8/18, o STF concluiu, após amplo debate, pela compatibilidade dos valores do trabalho e da livre iniciativa na terceirização do trabalho, conclusão explicitada pelo Ministro Luiz Fux na ementa do acórdão exarado no referido recurso extraordinário. Vide:
+
+    “[...] 4. Os valores do trabalho e da livre iniciativa, insculpidos na Constituição (art. 1º, IV), são intrinsecamente conectados, em uma relação dialógica que impede seja rotulada determinada providência como maximizadora de apenas um desses princípios, haja vista ser essencial para o progresso dos trabalhadores brasileiros a liberdade de organização produtiva dos cidadãos, entendida esta como balizamento do poder regulatório para evitar intervenções na dinâmica da economia incompatíveis com os postulados da proporcionalidade e da razoabilidade. [...] 9. A terceirização não fragiliza a mobilização sindical dos trabalhadores, porquanto o art. 8º, II, da Constituição contempla a existência de apenas uma organização sindical para cada categoria profissional ou econômica, mercê de a dispersão territorial também ocorrer quando uma mesma sociedade empresarial divide a sua operação por diversas localidades distintas. [...] 11. A cisão de atividades entre pessoas jurídicas distintas não revela qualquer intuito fraudulento, consubstanciando estratégia, garantida pelos artigos 1º, IV, e 170 da Constituição brasileira, de configuração das empresas para fazer frente às exigências dos consumidores, justamente porque elas assumem o risco da atividade, representando a perda de eficiência uma ameaça à sua sobrevivência e ao emprego dos trabalhadores. [...] 16. As leis trabalhistas devem ser observadas por cada uma das empresas envolvidas na cadeia de valor com relação aos empregados que contratarem, tutelando-se, nos termos constitucionalmente assegurados, o interesse dos trabalhadores. [...] 21. O escrutínio rigoroso das premissas empíricas assumidas pela Corte de origem revela insubsistentes as afirmações de fraude e precarização, não sendo suficiente para embasar a medida restritiva o recurso meramente retórico a interpretações de cláusulas constitucionais genéricas, motivo pelo qual deve ser afastada a proibição, em homenagem às liberdades fundamentais consagradas na Carta Magna (art. 1º, IV, art. 5º, II, e art. 170). 22. Em conclusão, a prática da terceirização já era válida no direito brasileiro mesmo no período anterior à edição das Leis nº. 13.429/2017 e 13.467/2017, independentemente dos setores em que adotada ou da natureza das atividades contratadas com terceira pessoa, reputando-se inconstitucional a Súmula nº. 331 do TST, por violação aos princípios da livre iniciativa (artigos 1º, IV, e 170 da CRFB) e da liberdade contratual (art. 5º, II, da CRFB) [...]” (Plenário, DJe de 13/9/19).
+
+    Essa conclusão foi veiculada, também, na ementa do acórdão formado na ADPF nº 324/DF, de relatoria do Ministro Roberto Barroso:
+
+    “[...] O direito do trabalho e o sistema sindical precisam se adequar às transformações no mercado de trabalho e na sociedade. 2. A terceirização das atividades-meio ou das atividades-fim de uma empresa tem amparo nos princípios constitucionais da livre iniciativa e da livre concorrência, que asseguram aos agentes econômicos a liberdade de formular estratégias negociais indutoras de maior eficiência econômica e competitividade. 3. A terceirização não enseja, por si só, precarização do trabalho, violação da dignidade do trabalhador ou desrespeito a direitos previdenciários. É o exercício abusivo da sua contratação que pode produzir tais violações. 4. Para evitar tal exercício abusivo, os princípios que amparam a constitucionalidade da terceirização devem ser compatibilizados com as normas constitucionais de tutela do trabalhador, cabendo à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias (art. 31 da Lei 8.212/1993) [...]” (Plenário, DJe de 6/9/19).
+
+    Esse entendimento foi mantido pelo Plenário do STF no julgamento do paradigma da controvérsia do Tema 739 da RG (ARE nº 791.932/DF, Rel. Min. Alexandre de Moraes, DJe de 6/3/19).
+
+    Nesses precedentes, rechaçaram-se os argumentos concernentes à precarização da relação de trabalho ou à fragilização da representação sindical como decorrentes do fenômeno da terceirização do trabalho, destacando-se: i) a permanência da obrigatoriedade de a empresa prestadora de serviços respeitar os direitos mínimos consagrados aos trabalhadores; ii) a existência da responsabilidade subsidiária da tomadora de serviços na hipótese de descumprimento desses direitos pela empresa contratada e iii) a necessidade de o direito sindical e o direito do trabalho de se adequarem à transformação do sistema produtivo ao longo da história.
+
+    No ponto, destaco trecho do voto proferido pelo Ministro Roberto Barroso:
+
+    “71. De fato, o sindicato surgiu como resposta a um ’modo de ser’ do próprio sistema produtivo fordista, que se caracterizava pela fábrica concentrada. Entretanto, disso não pode resultar na impossibilidade de alteração da realidade regulada. Não é porque o direito do trabalho foi gerado ou funciona melhor para empregados que produzam concentradamente em um mesmo local que se vedará a possibilidade de desconcentração da produção, se esta for uma medida salutar para o gerenciamento do negócio e essencial para a competitividade em um mundo globalizado.”
+
+    Por fim, registro que, em julgamento virtual encerrado em 22/9/20, o Plenário do STF apreciou o paradigma da controvérsia do Tema 383 da Repercussão Geral (RE nº 635.546/MG, ata publicada no DJe de 5/10/20), ratificando entendimento que vai ao encontro dos precedentes do STF mencionados acima e recusando o entendimento de isonomia salarial entre empregados da tomadora de serviços e empregados da prestadora de serviços, em razão da licitude da terceirização de atividade-fim de empresas.
+
+    O Min. Roberto Barroso, Relator da ADPF nº 324, fez constar a seguinte tese no acórdão do julgado:
+
+    ‘1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada. 2. Na terceirização, compete à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993’ (Tribunal Pleno, DJe de 6/9/19).
+
+    Transcrevo, também, as teses firmadas nos Temas nºs 725 e 383 da sistemática da repercussão geral:
+
+    “É lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária da empresa contratante.” (Tema 725 RG)
+
+    “A equiparação de remuneração entre empregados da empresa tomadora de serviços e empregados da empresa contratada (terceirizada) fere o princípio da livre iniciativa, por se tratarem de agentes econômicos distintos, que não podem estar sujeitos a decisões empresariais que não são suas.” (Tema 383 RG)
+
+    Compulsados os autos, identifico que a condenação imposta pela Justiça do Trabalho fundamenta-se na ilicitude da terceirização de atividade-fim, com fundamento na Súmula nº 331/TST. O acórdão está assim fundamentado, na parte de interesse:
+
+    “No caso em análise, o réu defende a licitude da contratação da autora, alegando que a contratação da empresa ALLIS SOLUÇÕES EM TRADE E PESSOAS LTDA se deu nos termos da Resolução 3.954/11 do Banco Central do Brasil - BACEN.
+
+    Com efeito, o art. 1º da Resolução 3.954/11 autorizou as instituições financeiras a contratar empresas, integrantes ou não do Sistema Financeiro Nacional, para o desempenho das funções de correspondente no País. O art. 8° da referida Resolução dispõe que:
+
+    (...)
+
+    Contudo, a autorização administrativa em comento, ao ser interpretada em consonância com os princípios basilares que informam o Direito do Trabalho, não conduz à conclusão de que as instituições bancárias estejam autorizadas a contratar trabalhadores mediante empresa interposta de forma irrestrita para o desempenho de suas atividades essenciais e nucleares ao empreendimento.
+
+    Neste sentido, é o entendimento deste Regional:
+
+    (...)
+
+    Confirma-se, portanto, que a autora trabalhava na venda direta de produtos do banco réu, realizando atividades próprias dos empregados do Banco e sob a supervisão de funcionários do referido réu, circunstâncias que evidenciam a fraude na terceirização, nos termos da Súmula 331, I, do TST e autorizam o reconhecimento do vínculo de emprego diretamente com o tomador dos serviços (BANCO PAN S.A.).
+
+    Com efeito, as atividades realizadas na venda de empréstimos e outros produtos do banco estão diretamente relacionadas à atividade-fim dos Bancos, na medida em que perfeitamente inseridas na ‘dinâmica empresarial’ do tomador, como alegado pela demandante.
+
+    E, considerando que a instituição bancária não subsiste sem o capital negociado com seus clientes (dinheiro cedido em empréstimos e financiamentos), a venda de empréstimos e demais produtos é essencial à manutenção da própria atividade bancária.
+
+    Portanto, as funções executadas pela autora são atividades típicas de bancários, essenciais a qualquer Banco, porque ligadas à atividade-fim.
+
+    Consequentemente, considerando que notadamente a demandante executou, em seu labor, atividades bancárias, as quais se destinavam à consecução do objeto empresarial do banco réu, é devido o reconhecimento do vínculo de emprego na condição de bancária.
+
+    Reconhecida a ilicitude da terceirização operada entre os réus, a responsabilidade das empresas envolvidas é solidária, conforme determinado pelo Juízo a quo.” (e-Doc. 4, p. 6-8).
+
+    Verifica-se, portanto, desrespeito à autoridade do Supremo Tribunal Federal pela autoridade reclamada.
+
+    Pelo exposto, nos termos do art. 161, parágrafo único, do Regimento Interno desta Suprema Corte, julgo procedente a presente reclamação para cassar o ato reclamado, determinando ao TRT da 4ª Região que profira outra decisão em consonância com o entendimento firmado na por esta Suprema Corte na ADPF nº 324 e nos Temas 725, 739 e 383 da repercussão geral. Prejudicada a apreciação do pedido liminar.
+
+    Extraia-se cópia desta decisão e envie-se à autoridade reclamada para que junte aos autos do processo, dando ciência à parte beneficiária da decisão reclamada acerca do trâmite da presente reclamação.
+
+    Publique-se. Int..
+
+    Brasília, 17 de dezembro de 2021.
+
+Ministro Dias Toffoli
+
+Relator
+
+Documento assinado digitalmente
