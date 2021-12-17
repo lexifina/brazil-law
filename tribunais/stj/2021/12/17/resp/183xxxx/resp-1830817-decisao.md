@@ -1,0 +1,32 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Estado do Amazonas, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição da República, contra acórdão do respectivo Tribunal de Justiçaassim ementado:
+APELAÇÃO CÍVEL. PODER PÚBLICO. CONTRATAÇÃO TEMPORÁRIA. DECLARAÇÃO DE NULIDADE. FGTS. INEXISTÊNCIA DE PRESCRIÇÃO QUINQUENAL. MODULAÇÃO DE EFEITOS EX NUNC. AUSÊNCIA DE LITIGÂNCIA DE MÁ-FÉ. RESPEITO AOS LIMITES LEGAIS DE ARBITRAMENTO DE HONORÁRIOS DE ADVOGADO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+I - O Supremo Tribunal Federal (STF), ao julgar RE n.º 765.320, com repercussão geral, assentou à necessidade de condenação ao pagamento de Fundo de Garantia por Tempo de Serviço (FGTS) aos contratos temporários firmados pela Administração declarados nulos;
+II - Em respeito ao princípio da segurança jurídica, o STF atribuiu, em sede de repercussão geral, efeitos prospectivos a sua decisão. Para os casos cujo termo inicial da prescrição ocorra após a data do julgamento (13/11/2014), aplica-se, desde logo, o prazo de 5 (cinco) anos. Lado outro, para aqueles em que o prazo prescricional já esteja em curso, aplica-se como termo o final do prazo prescricional o que ocorrer primeiro: o decurso dos 30 (trinta) anos, contados da violação do direito, ou 5 (cinco) anos, a partir do julgamento do ARE 709212;
+III - Referente aos pedidos de aplicação de multas por litigância de má-fé, este revela-se descabido, visto que a parte requerida, ora apelada, nada mais fez do que contestar a demanda, apresentando argumentos que ela achava ser capaz de infirmar o direito da autora, bem como as discussões jurídicas sobre essas matérias ainda gozam de controvérsia perante a doutrina;
+IV - Concernente à fixação de honorários de advogado arbitrados na sentença impugnada, observa-se que esta distribuição obedeceu aos limites mínimo (10%) e máximo (20%) previstos no artigo 85, § 3.0, I do Código de Ritos, estes apenas foram proporcionalmente divididos entre as partes em razão da sucumbência recíproca;
+V - Apelação conhecida e parcialmente provida com fixação de honorários recursais.
+O recorrente aponta violação do art. 1º do Decreto n. 20.910/1932. Defende que o prazo prescricional para o pagamento do FGTS devido em caso de contratação temporária declarada nula é de 5 (cinco) anos.
+Contrarrazões às e-STJ, fls. 240-255.
+Parecer do Ministério Público Federal (e-STJ, fls. 314-319), pelonão conhecimento do recurso especial.
+É o relatório.
+O presente recurso não merece prosperar.
+O Supremo Tribunal Federal, no julgamento do ARE 709.212/DF, em repercussão geral, estabeleceu que, por força do art. 7º, XXIX, da CF/1988, não é trintenário, e sim quinquenal, o prazo prescricional para a cobrança de valores não depositados no FGTS.
+Impôs, contudo, efeitos prospectivos à essa solução, definindo o seguinte: "Para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de cinco anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão".
+A propósito:
+Recurso extraordinário. Direito do Trabalho. Fundo de Garantia por Tempo de Serviço (FGTS). Cobrança de valores não pagos. Prazo prescricional. Prescrição quinquenal. Art. 7º, XXIX, da Constituição. Superação de entendimento anterior sobre prescrição trintenária. Inconstitucionalidade dos arts. 23, § 5º, da Lei 8.036/1990 e 55 do Regulamento do FGTS aprovado pelo Decreto 99.684/1990. Segurança jurídica. Necessidade de modulação dos efeitos da decisão. Art. 27 da Lei 9.868/1999. Declaração de inconstitucionalidade com efeitos ex nunc. Recurso extraordinário a que se nega provimento.
+(ARE 709212, Relator(a): Min. GILMAR MENDES, Tribunal Pleno, julgado em 13/11/2014, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-032 DIVULG 18/2/2015 PUBLIC 19/2/2015).
+Essa orientação, inclusive, já foi adotada pela Segunda Turma desta Corte Superior em situação semelhante.
+Observe-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. FGTS. NULIDADE DE CONTRATO POR AUSÊNCIA DE CONCURSO PÚBLICO. DIREITO AO LEVANTAMENTO DOS SALDOS FUNDIÁRIOS.
+1. O Superior Tribunal de Justiça realinhou sua jurisprudência para acompanhar o entendimento do Supremo Tribunal Federal, que, após o reconhecimento da constitucionalidade do art. 19-A da Lei n.8.036/90 sob o regime da repercussão geral (RE 596.478/RR, Rel. Para acórdão Min. Dias Toffoli, DJe de 28.02.2013), reconheceu serem "extensíveis aos servidores contratados por prazo determinado (CF, art. 37, inciso IX) os direitos sociais previstos no art. 7º da Carta Política, inclusive o FGTS, desde que ocorram sucessivas renovações do contrato" (RE-AgR 752.206/MG, Rel. Min. Celso de Mello, DJe de 29.10.2013).
+2. Ressalte-se que o STJ já havia adotado entendimento semelhante no julgamento do REsp 1110848/RN, Rel. Ministro Luiz Fux, Primeira Seção, DJe 3/8/2009, submetido ao rito do art. 543-C do CPC.
+3. O termo inicial da prescrição deve observar o disposto no julgamento do ARE 709.212, em repercussão geral, qual seja, "para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de cinco anos.
+Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão" (ARE 709212, Relator: Min. Gilmar Mendes, Tribunal Pleno, julgado em 13/11/2014, Acórdão Eletrônico Repercussão Geral - mérito DJe-032 Divulg 18-02-2015 Public 19-02-2015).
+4. Recurso Especial provido.
+(REsp n. 1.606.616/MG, relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/8/2016, DJe de 9/9/2016).
+No caso, conforme o registro do Tribunal local, o contrato temporário de trabalho da recorrida perdurou entre 10/9/2003 e 21/12/2016 e o protocolo da presente ação mandamental foi em 8/11/2017. Portanto, dentro do prazo de cinco anos após o julgamento do Agravo em Recurso Extraordinário n. 709.212/DF.
+Ante o exposto, com fulcro no art. 932, IV, "b", do CPC, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 10% (dez por cento) sobre o valor a ser fixado (art. 85, § 11, do CPC) pelo trabalho adicional realizado em recurso especial.
+Publique-se. Intimem-se.
