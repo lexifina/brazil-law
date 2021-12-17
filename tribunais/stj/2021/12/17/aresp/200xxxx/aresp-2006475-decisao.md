@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSE CARLOS DE ANDRADE e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - REVISÃO DE CLÁUSULA SUPOSTAMENTE ABUSIVA - PRETENSÃO FORMULADA PELA VIA INADEQUADA.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação do art. 355, I, do CPC, no que concerne ao cerceamento de defesa, ante o indeferimento de produção de prova pericial, trazendo os seguintes argumentos:
+No caso dos autos, é evidente que havia controvérsia, tanto é que fora demonstrado interesse na produção de provas já em contestação.
+Não obstante os recorrentes tenham realizado o pedido de produção de prova pericial, após intimados à Indicar as provas das quais desejavam a produção, ignorando-o por completo, o r. juízo de primeiro grau entendeu por bem julgar antecipadamente o feito, sem oportunizar às partes a produção de nenhuma prova, o que foi chancelado pelo Tribunal a quo.
+Como explicitado anteriormente, a prova pericial destina-se a confirmar a quantia cobrada indevidamente neste feito, bem como esclarecer a título de quais encargos e taxas estes valores foram computados.
+Necessário que fosse assegurado aos recorrentes o direito de demonstrar, sobretudo por meio de prova pericial, a inclusão de encargos não previstos contratualmente, bem como a ilegalidade da incidência de juros que ensejaram um débito excedente que necessita ser expurgado.
+Desse modo, ao entender que a prova pericial seria desnecessária, mesmo diante da controvérsia levantada pelos requeridos e do requerimento de produção de prova pericial por eles formulados, o acórdão recorrido contrariou o dispositivo em análise. (fl. 359).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Sustenta a parte apelante que teria tido o seu direito de defesa cerceado em razão da não realização da prova pericial solicitada, ao argumento de que ela seria essencial para a solução da controvérsia posta nos autos.
+Não possui respaldo tal alegação, eis que a matéria discutida no presente caso é eminentemente de direito, podendo perfeitamente ser analisada e comprovada por meio dos documentos que foram acostados aos autos, o que dispensa a produção da prova acima apontada.
+Com efeito, rejeito a preliminar de cerceamento de defesa suscitada. (fl. 333).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. INDEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL. LIVRE CONVENCIMENTO MOTIVADO DO JUIZ. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. AGRAVO IMPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se a presença de dados bastantes à formação do seu convencimento.
+1.1. A alteração do entendimento alcançado na Corte de origem e o acolhimento da pretensão recursal, a fim de concluir pela imprescindibilidade da produção da prova pericial requerida, demandariam o necessário o reexame do acervo fático-probatório dos autos, o que é vedado em recurso especial, em virtude do óbice do enunciado n. 7 da Súmula desta Corte Superior.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp 1.918.601/MA, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 2/12/2021.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
