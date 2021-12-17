@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNONO RECURSO ESPECIAL. ICMS. COMPENSAÇÃO. VERBA HONORÁRIA FIXADAPOR EQUIDADE.ART. 20, §§ 3º E 4º, DO CPC/1973. MAJORAÇÃO DE HONORÁRIOS. EXCEPCIONALIDADE. NÃO OCORRÊNCIA. SÚMULA 7/STJ.
+1. A orientação da jurisprudência do Superior Tribunal de Justiça éde que, para o arbitramento da verba honorária, o julgador, na apreciação subjetiva, pode se utilizar de percentuais sobre o valor da causa ou da condenação, ou mesmo de um valor fixo, não se restringindo aos percentuais previstos no § 3º do art. 20 do CPC/1973.
+2. O arbitramento da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática, insuscetível de reexame na via especial nos termos da Súmula 7/STJ, que assim orienta: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Excepcionalmente, entretanto, entende-se cabível a readequação dos honorários se o valor fixado foi claramente irrisório ou exorbitante (v.g. REsp n. 1.387.248/SC, Corte Especial, relator Ministro Paulo de Tarso Sanseverino, julgado em 7/5/2014, DJe de 19/5/2014 - repetitivo).
+4. Vale frisar que, por ocasião do julgamento do AgRg no AREsp n. 532.550/RJ, realizado pela Segunda Turma, na assentada de 2/10/2014, convencionou-se que a desproporção entre o valor da causa e o valor arbitrado a título de honorários advocatícios não denota, necessariamente, irrisoriedade ou exorbitância da verba honorária, que deve se pautar na análise da efetiva complexidade da causa e do trabalho desenvolvido pelo causídico no patrocínio dos interesses de seu cliente. No caso, não se mostram irrisórios os honorários fixados pelo aresto recorrido.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado pelo Estado do Rio de Janeiro, desafiando a decisão monocrática de e-STJ, fls. 590-593,por meio daqualnão se conheceu do recurso especial do ente federativo, ante o óbice da Súmula 7/STJ.
+Em suas razões, a parteagravante sustenta que "as razões do agravo em recurso especial demonstram a irrisoriedade dos honorários fixados pelo juízo a quo, o que efetivamente afasta a incidência da Súmula 7/STJ ao caso, motivo pelo qual requer nova reflexão da controvérsia"(e-STJ, fl. 598).
+Aduz, ainda, que"as razões recursais efetivamente esclarecem que a questão em apreço se mostra incontroversa, eis que o simples exame das razões contidas no especial e seu cotejo com a inicial e as decisões proferidas evidenciam a irrisoriedade dos honorários advocatícios na hipótese"(e-STJ, fl. 599).
+Conclui ser"manifesta irrisoriedade dos honorários fixados  apenas 0,17% do valor do débito, com o respectivo afastamento da incidência da Súmula 07/STJ à espécie, não havendo que se falar em alegações genéricas quanto ao ponto, eis que as razões recursais apresentam adequada contextualização do caso concreto e das teses jurídicas veiculadas" (e-STJ, fl. 599).
+Acrescenta que este Superior Tribunal de Justiça, em casos idênticos, tem consolidado a viabilidade de revisão, em recurso especial, de valores irrisórios de honorários advocatícios sucumbenciais, sem a incidência da Súmula 7/STJ.
+Nesses termos, protesta pelo juízo de retratação ou pelo provimento do agravo interno para queseja majorada a verba honorária fixada por equidade.
+Impugnação ao recurso de agravo apresentada às e-STJ, fls. 604-610.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNONO RECURSO ESPECIAL. ICMS. COMPENSAÇÃO. VERBA HONORÁRIA FIXADAPOR EQUIDADE.ART. 20, §§ 3º E 4º, DO CPC/1973. MAJORAÇÃO DE HONORÁRIOS. EXCEPCIONALIDADE. NÃO OCORRÊNCIA. SÚMULA 7/STJ.
+1. A orientação da jurisprudência do Superior Tribunal de Justiça éde que, para o arbitramento da verba honorária, o julgador, na apreciação subjetiva, pode se utilizar de percentuais sobre o valor da causa ou da condenação, ou mesmo de um valor fixo, não se restringindo aos percentuais previstos no § 3º do art. 20 do CPC/1973.
+2. O arbitramento da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática, insuscetível de reexame na via especial nos termos da Súmula 7/STJ, que assim orienta: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Excepcionalmente, entretanto, entende-se cabível a readequação dos honorários se o valor fixado foi claramente irrisório ou exorbitante (v.g. REsp n. 1.387.248/SC, Corte Especial, relator Ministro Paulo de Tarso Sanseverino, julgado em 7/5/2014, DJe de 19/5/2014 - repetitivo).
+4. Vale frisar que, por ocasião do julgamento do AgRg no AREsp n. 532.550/RJ, realizado pela Segunda Turma, na assentada de 2/10/2014, convencionou-se que a desproporção entre o valor da causa e o valor arbitrado a título de honorários advocatícios não denota, necessariamente, irrisoriedade ou exorbitância da verba honorária, que deve se pautar na análise da efetiva complexidade da causa e do trabalho desenvolvido pelo causídico no patrocínio dos interesses de seu cliente. No caso, não se mostram irrisórios os honorários fixados pelo aresto recorrido.
+5. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Como registrado oportunamente, em relação ao valor dos honorários advocatícios, a orientação da jurisprudência do Superior Tribunal de Justiça é no sentido de que, para o arbitramento da referida verba, o julgador, na apreciação subjetiva, pode utilizar-se de percentuais sobre o valor da causa ou da condenação, ou mesmo de um valor fixo, não se restringindo aos percentuais previstos nos §§ 3º e 4º do art. 20 do CPC/1973.
+Ademais, o arbitramento da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, nos termos da Súmula 7/STJ, que assim orienta: "A pretensão de simples reexame de prova não enseja recurso especial.".
+Excepcionalmente, todavia, entende-se cabível a readequação dos honorários se o valor fixado foi claramente irrisório ou exorbitante (v.g. REsp 1.387.248/SC, Corte Especial, relator Ministro Paulo de Tarso Sanseverino, julgado em 7/5/2014, DJe 19/5/2014 - repetitivo).
+Essa possibilidade demanda que o acórdão combatido traga exame de elementos suficientes que possibilitem a aferição da razoabilidade e proporcionalidade na fixação da verba.
+Tal entendimento foi consagrado na Segunda Turma desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. BENS PÚBLICOS. VERBA HONORÁRIA. REVISÃO. IMPOSSIBILIDADE.REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. O afastamento excepcional do óbice da Súmula 7/STJ, para permitir a revisão dos honorários advocatícios em sede de recurso especial quando o montante fixado se revelar irrisório ou excessivo, somente pode ser procedido quando o Tribunal a quo expressamente indicar e valorar os critérios delineados nas alíneas "a", "b" e "c" do art. 20, § 3º, do CPC/73, conforme entendimento sufragado no julgamento do AgRg no AREsp 532.550/RJ.
+2. No caso dos autos, houve apenas uma menção genérica dos critérios delineados no art. 20, § 4º, do CPC/73, não sendo possível extrair do julgado uma manifestação valorativa expressa e específica, em relação ao caso concreto, dos referidos critérios para fins de revisão, em sede de recurso especial, do valor fixado a título de honorários advocatícios.
+3. Agravo não provido.
+(AgRg no REsp n. 1.535.484/AL, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/4/2016, DJe de 26/4/2016).
+Na espécie, não se mostram, de plano, irrisórios os honorários advocatícios fixados, pois a Corte local manteve o referido montante com base nos seguintes fundamentos (e-STJ, fl. 215):
+Por fim, não merece prosperar o pleito do Estado do Rio de Janeiro no sentido da majoração do valor arbitrado a título de honorários advocatícios.
+Com efeito, a fixação da verba honorária era regida, à época dos fatos, pelo disposto no artigo 20, § 4º, do Código de Processo Civil de 1973, segundo o qual nas causas em que não houver condenação os honorários serão fixados consoante apreciação equitativa do juiz.
+Assim, considerado o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, o valor da verba honorária - fixado pela sentença em R$ 3.000,00 (três mil reais) - não se mostra irrisório.
+Vale frisar que, no julgamento do AgRg no AREsp n. 532.550/RJ, pela Segunda Turma, na assentada de 2/10/2014, convencionou-se que a desproporção entre o valor da causa e o arbitrado a título de honorários advocatícios não denota, necessariamente, irrisoriedade ou exorbitância da verba honorária, que se deve pautar na análise da efetiva complexidade da causa e do trabalho desenvolvido pelo causídico no patrocínio dos interesses de seu cliente.
+Nesse quadro, o exame das circunstâncias adstritas ao caso concreto, como é sabido, compete às instâncias de origem, não podendo ser objeto de recurso especial,em homenagem à mencionada vedação da Súmula 7/STJ.
+Não havendo, pois, nova motivação hábil para alterar o entendimento anteriormente exarado, mantenho a decisão combatida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
