@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de SÔNIA APARECIDA BATISTA VASQUES, apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo no Recurso Especial n. 0001987- 11.2016.8.26.0358).
+Na presente oportunidade, a defesa relata que a paciente foi condenada como incursa no artigo 1º, inciso II, c/c artigo 4º, inciso II da Lei 9.455/97, à pena de 5 anos e 4 meses de reclusão, em regime inicial fechado. Inconformada, a defesa interpôs recurso de apelação, ao qual foi negado provimento. Apresentou, então, Embargos de Declaração, os quais foram rejeitados.
+Informa que o processo, neste ínterim, se encontra em grau recursal, uma vez que fora interposto Agravo em Recurso Especial e Agravo Interno Regimental não transitado em julgado até o presente momento. Todavia, teria sido expedido certidão de trânsito em julgado de maneira equivocada.
+Afirma que a paciente respondeu a toda fase instrutória em liberdade, não tendo causado qualquer embaraço à instrução criminal ou risco à ordem pública, estando agora na iminência de ser presa preventivamente sem qualquer fundamentação legal.
+Diante disso, requer, em liminar e no mérito, com superação do enunciado da Súmula n. 691 do STF, a revogação da certidão de trânsito em julgado, buscando impedir eventual decretação de prisão antes da análise dos recursos pendentes.
+É o relatório. Decido.
+De plano, verifico que nesta Corte também foi impetrado o HC n. 703.692/SP, igualmente em favor da ora paciente e em face do mesmo ato aqui impugnado, apontando-se, ainda, as mesmas ilegalidades quanto à possibilidade de decretação da custódia em face da paciente.
+Ademais, em decisão proferida em 6/12/2021, em sede de julgamento de agravo regimental interposto naqueles autos, o referido habeas corpus foi indeferido liminarmente, reconhecendo-se a ausência de interesse processual que justificasse o prosseguimento do writ.
+Nesse contexto, "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019).
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
