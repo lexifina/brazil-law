@@ -1,0 +1,51 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial no Agravo de Instrumento no 1022966-59.2020.8.11.0000
+Recorrente: LUIZ MARIANO BRIDI
+Recorrido: RUY RAMAZINI
+Vistos.
+Trata-se de recurso especial, interposto por LUIZ MARIANO BRIDI, com fundamento no art. 105, III, alínea “a” da Constituição Federal, contra acórdão da Primeira Câmara de Direito Privado deste Sodalício, que deu provimento ao recurso da parte recorrida para declarar a sua ilegitimidade passiva para responder pelas dívidas da empresa, com a seguinte ementa (id. 89532951):
+AGRAVO DE INSTRUMENTO – EXCEÇÃO DE PRÉ-EXECUTIVIDADE – CUMPRIMENTO DE SENTENÇA – DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PARA INCLUSÃO DE EX-SÓCIO NO POLO PASSIVO DA DEMANDA – OBRIGAÇÃO EXEQUENDA CONSTITUÍDA EM MOMENTO POSTERIOR À RETIRADA DO EX-SÓCIO DO QUADRO EMPRESARIAL - AVERBAÇÃO NA JUCESP – ILETIGITIMADE PASSIVA DO EX-SÓCIO CARACTERIZADA – DECISÃO REFORMADA – RECURSO PROVIDO.
+À vista do que dispõem os artigos 1.003, § único e 1.032, ambos do Código Civil, descabe a convocação do ex-sócio para figurar no polo passivo do cumprimento de sentença, e, aí, responder por obrigações da pessoa jurídica constituídas em momento posterior à retirada daquele do quadro social desta, até mesmo porque o ex-sócio não teve ciência nem participou dos negócios jurídicos firmados (STJ – Terceira Turma – AgInt no AREsp 1.009.704/SC, Rel. Ministra Nancy Andrighi, julgado em 09.03.2017, DJe 24.03.2017; no mesmo sentido: STJ – Quarta Turma – AgInt no AREsp 1568060/SP, Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 24/08/2020, DJe 26/08/2020).
+(TJMT, AI no 1022966-59.2020.8.11.0000 Rel. JOAO FERREIRA FILHO, PRIMEIRA CÂMARA DE DIREITO PRIVADO, j. em 25.05.2021)”.
+Os embargos de declaração opostos pela parte recorrente foram rejeitados, conforme acordão de id 94838499.
+A parte recorrente alegou violação aos artigos 1.022 inciso II, 489, §1o incisos I e III, 592, II, e 596, § 2o todos do Código de Processo Civil e artigo 50 do Código Civil, argumentando negativa de prestação jurisdicional, tendo em vista que o acordão recorrido se manteve omisso quanto a pontos essenciais, os quais, se analisados, dariam desfecho diverso à controvérsia sub judice.
+Nessa perspectiva, asseverou que não houve enfrentamento quanto ao argumento de que a pessoa jurídica Rutherford Trading S/A foi constituída para a prática de crimes, o que autoriza a responsabilização pessoal dos sócios nos termos do art. 50, §1o do Código Civil, art. 592, II e 596 do Código de Processo Civil.
+Sustentou que a questão da responsabilidade pessoal do recorrido Ruy Ramazini foi analisada por este Sodalício sob prisma de uma retirada regular da sociedade empresária, constituída para fins empresariais legítimos, todavia, esta não é a realidade constante dos autos.
+Defendeu que os fatos deste processo gravitaram “na esfera da ilicitude, do abuso de direito e da constituição fraudulenta de pessoa jurídica para cometer CRIMES, o que afasta as regras comuns aplicáveis às sociedades empresárias legitimas que desenvolvem a função social determinada pela legislação civil”.
+Ressaltou que os crimes cometidos pelo ora recorrido foram apurados em ação própria e as provas obtidas durante a instrução processual demostraram que ele constituiu a empresa Rutherford Trading S/A para a “lavagem de dinheiro”. Diante disso, foi condenado a 05 (cinco) anos e 4 (quatro) meses de prisão, em regime semiaberto e pagamento de multa.
+Forte nessas razões, a parte recorrente requereu a reforma do julgado para que seja anulado o acordão e proferido novo julgamento, a fim de que seja analisada a premissa da constituição irregular da empresa a fim de possibilitar o reconhecimento da legitimidade passiva do sócio ora recorrido para responder pelas dívidas da sociedade.
+Recurso tempestivo e preparado (IDs 104684471 e 104614997).
+Contrarrazões (ID 108324990).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Embora a parte recorrente invoque em preliminar a incidência do Tema 1011/STF, a controvérsia em questão não foi analisada por este Sodalício, que se absteve de julgar o mérito recursal ao argumento de que a parte recorrente não pagou as custas recursais. Por consequência, não há aplicação da sistemática de recursos repetitivos, incidindo, in casu, o disposto no art. 1.030, V, “a”, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+2- Da violação ao artigo 1.022 do CPC – Pressupostos Satisfeitos.
+A partir da suposta violação ao art. 1.022 inciso II do CPC, a parte recorrente alega que o órgão fracionário deste Tribunal não teria se manifestado especificamente quanto ao fato de que a pessoa jurídica Rutherford Trading S/A foi constituída para a prática de crimes, o que autoriza a responsabilização pessoal dos sócios nos termos do art. 50, §1o do Código Civil, art. 592, II e 596 do Código de Processo Civil e afasta a regra do artigo 1.003, parágrafo único, do Código Civil.
+Observando-se o teor do acordão exarado por este Sodalício, este aparenta omissão quanto ao ponto e, embora opostos embargos de declaração, a decisão foi peremptória ao destacar, in verbis (ID 94838499 94838499):
+O embargante alega que o acórdão embargado é omisso, na medida em que “a questão da responsabilidade pessoal do embargado Ruy Ramazini foi analisada apenas sob prisma de uma suposta retirada regular da sociedade” o que de fato não ocorreu; sustenta, ainda, que não há fundamentação lógica e inteligível para reconhecer a ilegitimidade passiva do embargado, já que é incontroverso nos autos que “a empresa Rutherford fora constituída para fins ilícitos”, servindo apenas de “fachada” para a prática de crimes como de lavagem de dinheiro, evasão de divisas e ocultação de bens, restando demonstrado o abuso de direito e abuso da personalidade jurídica. (cf. Id. no 90111961 - pág. 4).
+(...) Ao apreciar a objeção de pré-executividade apresentada pelo agravante, o MM. juiz rejeitou a arguição de ilegitimidade por entender que “os arts. 1.002 e 1.003 do Código Civil não se aplicam às hipóteses de inclusão de sócio no polo passivo de ações que tratam de obrigação a eles imputadas decorrentes da desconsideração da personalidade jurídica” (cf. Id. no 65386967).
+Todavia, os documentos mostram que, em 23.01.2003, houve averbação na JUCESP do desligamento do agravante da empresa executada (cf. Id. no 65386966 - Pág. 18), iniciando-se aí o prazo de dois anos previsto no art. 1.003, parágrafo único, do Código Civil, claramente esgotado muito antes da desconsideração da personalidade jurídica da empresa Rutherford Trading S/A, que ocorreu em 22.03.2016 (cf. Id. no 65386964).
+A responsabilidade pessoal agravante pelo prazo de até dois anos restringe-se às obrigações sociais contraídas no período em que ele ainda ostentava a qualidade de sócio, ou seja, antes de sua retirada da sociedade, de modo que, realmente, é incabível a inclusão do agravante no polo passivo do cumprimento de sentença e a prática de qualquer ato judicial no interesse da satisfação da dívida sobre o patrimônio pessoal do agravante.
+Desse modo, como tal argumento não foi analisado e, salvo melhor juízo, teria força suficiente para alterar o destino deste processo, face ao disposto no artigo 50 do CC, tal circunstância aparenta ser suficiente para afrontar o disposto nos artigos 1.022, inciso II, e 489, § 1o, incisos II e III, do CPC.
+Para elucidar:
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. SERVIÇOS ADVOCATÍCIOS. ADVOGADO CREDENCIADO A SINDICATO. ATUAÇÃO NEGLIGENTE. DISCUSSÃO SOBRE A POSSIBILIDADE DE RESPONSABILIZAÇÃO SOLIDÁRIA DO CAUSÍDICO E DA ENTIDADE SINDICAL.OMISSÃO. EXISTÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO.
+1. No recurso em julgamento, a controvérsia reside sobre a possibilidade de responsabilizar o sindicato, solidariamente com o advogado a ele credenciado, por ato negligente praticado pelo causídico.
+2. É verdade que, nos termos da jurisprudência do STJ, "é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que [por si só] não implica negativa de prestação jurisdicional" (AgInt no AREsp 1779343/DF, Terceira Turma, DJe 15/04/2021; AgInt no AREsp 855.179/SP, Quarta Turma, DJe 05/06/2019). Entretanto, restará configurada a negativa de prestação jurisdicional, se o órgão julgador "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador" (art. 489, IV, do CPC/2015).
+3. No caso dos autos, o Tribunal de origem deixou de se manifestar sobre alegações fundamentais ao deslinde da controvérsia, sendo imperativa a cassação do acórdão recorrido.
+4. Recurso especial conhecido e provido, com o retorno dos autos à Corte de origem.
+(REsp 1908213/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/05/2021, DJe 20/05/2021).
+Portanto, a despeito dos demais argumentos aduzidos pela recorrente, registre-se que o presente recurso deve alcançar o juízo positivo de admissibilidade pelo fundamento da alínea “a” do permissivo constitucional.
+Isso, porque, em sendo admitido o recurso por um de seus fundamentos, ficam prejudicados os demais (ainda que não atendidos), posto que desnecessário o exame dos mesmos, ante o teor das Súmulas 292 e 528 do STF (aplicáveis por analogia à esta via recursal), o que implica à Corte Superior rever o juízo de admissibilidade do recurso em sua íntegra:
+“Súmula 292/STF. Interposto o recurso extraordinário por mais de um dos fundamentos indicados no art. 101, III, da Constituição, a admissão apenas por um deles não prejudica o seu conhecimento por qualquer dos outros.
+“Súmula 528/STF. Se a decisão contiver partes autônomas, a admissão parcial, pelo Presidente do Tribunal a quo, de recurso extraordinário que, sobre qualquer delas se manifestar, não limitará a apreciação de todas pelo Supremo Tribunal Federal, independentemente de interposição de agravo de instrumento.
+Ante o exposto, dou seguimento ao recurso, com fundamento no artigo 1.030, V, “a”, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
