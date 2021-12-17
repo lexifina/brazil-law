@@ -1,0 +1,17 @@
+DECISÃO
+MOISES APOLINARIO DE MELOalega sofrer coação ilegal em decorrência de acórdão proferido pela Corte local.
+A defesa pretende a soltura do paciente- preso em flagrante como incurso no art.121, § 2º, I,c/c o art. 14, II, ambos do Código Penal-, sob o argumento de ausência do preenchimento dos requisitos da prisão preventiva.Narra que, apesar de a prisão preventiva do paciente ter sido decretada em 17/9/2019, o mandado de prisão foi cumprido somente em 26/8/2021.
+O Parquet Federal oficiou pelo não conhecimento do writ.
+Decido.
+Narra a denúncia que, em 11/3/2019,o paciente e a vítima tiveram uma discussão emum bar. Depois de ir embora, terminada a discussão, o paciente voltou ao local dos fatos com uma arma de fogo, ocasião em que,ao avistar a vítima, efetuou vários disparos, alvejando-a na cintura,não conseguindo consumar o homicídio devido a circunstância alheia a sua vontade.
+O Juiz de Direito fundamentou a prisão cautelar nos seguintes termos:
+ ..
+Diante do posicionamento do órgão titular da ação penal, fl(s). 92/92v dos autos, entendo que ainda subsistem os requisitos do(s) art(s). 311 e 312 do CPP-Código de Processo Penal. Destaco que o réu Moisés Apolinário de Melo responde a outro procedimento criminal, inclusive, foi sentenciado nos autos do processo n.º 000438-80.2017.8.17.0970, vide fl(s). 93/97 dos autos. Observo, ainda, que o decreto de prisão preventiva foi efetivamente cumprido apenas no dia 27/07/2021, conforme fl(s). 98, não havendo excesso de prazo na prisão processual. Assim, entendo que a presunção de inocência que alforria o(a)(s) réu(s)/ré(s) deve respeitar o direito da coletividade social de viver com um minino de segurança na atualidade tão massacrada pela violência causada por um(ns)/uma(s), por pouco(a)(s) e por muito(a)(s) que é(são) incapaz(es) de viver(em) em liberdade. Por isso, indefiro o(s) pedido(s) de revogaçãodaprisãopreventiva  .. (fls. 34-38)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientar a existência de condenação criminal(Ação Penal n. 0000438-80.2017.8.17.0810).
+Quanto à alegação da defesa que a referida condenação está em grau de recurso e que a tese defensiva, de violação de domicílio, acabará por absolver o paciente, forçoso esclarecer a impossibilidade de considerar condição futura e incerta na análise em comento.
+Por fim, ao contrário do sustentado pela defesa- que afirma que o paciente nunca esteve foragido-, a Corte local afirmou categoricamente que "a evasão do Paciente poderia ser suficiente para motivar a segregação provisória a fim de garantir a aplicação da lei penal" (fl. 32).
+Assim, em razãodas indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto,denego aordem.
+Publique-se. Intimem-se.
