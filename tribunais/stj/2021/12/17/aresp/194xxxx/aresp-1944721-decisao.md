@@ -1,0 +1,75 @@
+DECISÃO
+Cuida-se de agravo interposto por Caixa Econômica Federaldesafiando decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, manejado, por sua vez, contraacórdão assim ementado (e-STJ, fl. 776):
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. VÍCIOS CONSTRUTIVOS EXISTENTES EM CONJUNTOS HABITACIONAIS DO PROGRAMA MINHA CASA MINHA. LEGITIMIDADE PASSIVA DA CEF. ART. 6º, VIII, DO CDC. INVERSÃO DO ÔNUS PROBATÓRIO. POSSIBILIDADE. RECURSO DESPROVIDO.
+1. In casu, a empresa pública não atua exclusivamente como agente financeiro, mas sim como agente executora de políticas federais para a promoção de moradia para pessoas de baixa renda, o que atrai sua legitimidade passiva na ação proposta pelo MPF em que se discute a ocorrência de vícios construtivos existentes nos conjuntos habitacionais Colinas, e Alda Carolina I e II, situados no município de Assis - SP.
+2. O Juízo de origem considerando a condição de hipossuficientes dos consumidores participantes do Programa de Arrendamento Residencial, com base na teoria da distribuição dinâmica do ônus probatório, entendeu ser ocaso de inversão do ônus da prova, com base no art. 6º, VIII, do CDC.
+3. Cabível a inversão também em sede de ação civil pública, por força do disposto no art. 21 da LACP - Lei nº 7.347 de 24 de julho de 1985.
+4. Agravo de instrumento desprovido. Agravo interno prejudicado.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 832-839).
+Nas razões do recurso especial, a recorrente alegou ofensa aos arts. 17, 114, I, 114, 371, 489, § 1º, IV, 1.022, I e II, parágrafo único, II, e 1.029 do CPC/2015; 186, 265, 361, 618e 927 do CC/2002; e 6º, VIII, do CDC.
+Sustentou negativa de prestação jurisdicional quanto a matéria relativa à legitimidade ativa, inexistência de solidariedade entre as rés e a natureza assistencialista do PMCMV Faixa I.
+Enfatizou que deve ser incluída no polo ativo da demanda, porquanto possui o mesmo interesse buscado pelo Ministério Público Federal quanto à higidez dos imóveis objeto da lide e ao bom funcionamento do PMCMV (e-STJ, fl. 865).
+Pontuou que "a responsabilidade pela solidez e integridade do imóvel é da construtora. E neste ponto, não há fundamento jurídico que permita concluir pela existência de solidariedade entre a CAIXA e a construtora, pois a solidariedade não se presume, ou seja, resulta da lei ou da vontade das partes. Muito pelo contrário, a responsabilidade exclusiva daconstrutora decorre do disposto no artigo 618, do CC e não existe dever contratual de a CAIXA garantir ou atestar a segurança/ qualidade das obras. A responsabilidade, por certo, é do construtor/empreiteiro, nos termos dos arts. 265 e 618 do Código Civil" (e-STJ, fls. 867-868).
+Asseverouque os contratos firmados no âmbito do PMCMV Faixa I não se caracterizam como atividade típica de instituições financeiras, e, por seu caráter eminentemente social, não possuem nenhum intuito de lucro, sendo evidente a sua natureza assistencialista, não cabendo, portanto, a aplicação do CDC e a inversão do ônus da prova.
+Foram apresentadas contrarrazões (e-STJ, fls. 935-948).
+O Tribunal local inadmitiu o processamento do recurso especial pela incidência daSúmulan. 7 do STJ, bem como pela ausência de negativa de prestação jurisdicional.
+Irresignada, a recorrenteinterpõeagravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls. 935-948 (e-STJ).
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ, fls. 985-990).
+Brevemente relatado, decido.
+Não se reconhece a apontada violação do art. 1.022, incisos I e II, do Novo Código de Processo Civil, pois, de um lado, não existia omissão a ser suprida; de outro, foram apropriados e legítimos os fundamentos que sustentaram a conclusão alcançada pelo acórdão local, não se podendo a ele atribuir o vício de omissão apenas porque resolveu a celeuma em sentido contrário ao postulado pela recorrente. De acordo com a jurisprudência desta Casa, o magistrado não está obrigado a se manifestar acerca de todos os fundamentos assinalados pelas partes, notadamente quando já houver decidido a controvérsia com base em outras justificativas.
+Outrossim, verifica-se que o acórdão recorrido foi devidamente fundamentado, não havendo se falar em violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no AREsp 1.788.699/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 7/6/2021, DJe 14/6/2021).
+O Tribunal estadual, ao dirimir a controvérsia, concluiu pela legitimidade passiva da CEF, bem como pela aplicação do Código de Defesa do Consumidor ao caso concretoinvertendo o ônus da prova.
+A decisão foi assim fundamentada (e-STJ, fls. 761-776).
+Quanto à ilegitimidade passiva da CEF, verifica-se, no caso dos autos, a participação da Caixa Econômica Federal, gestora do Programa Minha Casa Minha Vida, instituído pela Lei 11.977/2009, enquanto executora/promotora/fiscalizadora do empreendimento, não atuando meramente como agente financeiro, o que a torna parte legítima para figurar na ação originária.
+Nesse sentido:
+ ..
+No tocante ao mérito, insta consignar que a responsabilidade civil das instituições financeiras é objetiva, em face da submissão aos ditames do Código de Defesa do Consumidor, conforme entendimento pacífico da jurisprudência pátria, inclusive sumulado pelo Superior Tribunal de Justiça: "Súmula 297. O Código de Defesa do Consumidor é aplicável às instituições financeiras".
+Em decorrência disso, no caso em tela, aplicado o Código de Defesa do Consumidor consoante ao que dispõe os artigos 14:
+"Art. 14. O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos."
+Além da aplicação da responsabilidade objetiva, há a pertinência da inversão do ônus da prova quando ocorrer verossimilhança nas alegações do consumidor, não sendo esta possibilidade ignorada pela instituição bancária.
+Essa medida de inversão do ônus é excepcionada àquela da produção das provas e é um mecanismo de elucidação por quem detém melhores condições de produzi-las, tanto porque a capacidade técnica lhe é favorável, tanto porque a outra parte carece de meios para constituir prova robusta de seu direito.
+No caso em tela, o Juízo de origem considerando a condição de hipossuficientes dos consumidores participantes do Programa de Arrendamento Residencial, com base na teoria da distribuição dinâmica do ônus probatório, entendeu ser o caso de inversão do ônus da prova, com fundamento no art. 6º, VIII, do CDC, in verbis:
+Art. 6º São direitos básicos do consumidor:
+VIII - a facilitação da defesa de seus direitos, inclusive com a inversão do ônus da prova , a seu favor, no processo civil, quando, a critério do juiz, for verossímil a alegação ou quando for ele hipossuficiente, segundo as regras ordinárias de experiências;
+Como se percebe, in casu, a CEF não atua apenas como agente financeiro, mas sim como agente executora de políticas federais para a promoção de moradia para pessoas de baixa renda, o que atrai sua legitimidade passiva na ação em que se discute a ocorrência de vícios construtivos existentes nos conjuntos habitacionais Colinas e Alda Carolina I e II, todos situados no município de Assis - SP.
+Em casos envolvendo relações de consumo, como a hipótese dos autos, a hipossuficiência probatória do consumidor justifica a inversão, afastando-se a regrado art. 373, inciso I, do NCPC.
+A propósito:
+ ..
+Cumpre consignar, por oportuno, que se admite a inversão também no âmbito da ação civil pública, por força do disposto no art. 21 da LACP - Lei nº7.347 de 24 de julho de 1985.
+Feitas tais considerações, reputo pertinente a inversão do ônus da prova no caso em tela.
+É certo que ajurisprudência desta Corte Superior tem apontado no sentido da ausência de responsabilidade da CEF em ações de natureza reparatória por vício de construção quando atua como mero agente financeiro.
+Nesse sentido (sem grifo no original):
+RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. PEDIDO DE COBERTURA SECURITÁRIA. VÍCIOS NA CONSTRUÇÃO. AGENTE FINANCEIRO.ILEGITIMIDADE.
+1. Ação em que se postula complementação de cobertura securitária, em decorrência danos físicos ao imóvel (vício de construção), ajuizada contra a seguradora e a instituição financeira estipulante do seguro. Comunhão de interesses entre a instituição financeira estipulante (titular da garantia hipotecária) e o mutuário(segurado), no contrato de seguro, em face da seguradora, esta a devedora da cobertura securitária. Ilegitimidade passiva da instituição financeira estipulante para responder pela pretendida complementação de cobertura securitária.
+2. A questão da legitimidade passiva da CEF, na condição de agente financeiro, em ação de indenização por vício de construção, merece distinção, a depender do tipo de financiamento e das obrigações a seu cargo, podendo ser distinguidos, a grosso modo, dois gêneros de
+atuação no âmbito do Sistema Financeiro da Habitação, isso a par de sua ação como agente financeiro em mútuos concedidos fora do SFH (1) meramente como agente financeiro em sentido estrito, assim como as demais instituições financeiras públicas e privadas (2) ou como agente executor de políticas federais para a promoção de moradia para pessoas de baixa ou baixíssima renda.
+3. Nas hipóteses em que atua na condição de agente financeiro em sentido estrito, não ostenta a CEF legitimidade para responder por pedido decorrente de vícios de construção na obra financiada. Sua responsabilidade contratual diz respeito apenas ao cumprimento do
+contrato de financiamento, ou seja, à liberação do empréstimo, nas épocas acordadas, e à cobrança dos encargos estipulados no contrato. A previsão contratual e regulamentar da fiscalização da obra pelo agente financeiro justifica-se em função de seu interesse em que o
+empréstimo seja utilizado para os fins descritos no contrato de mútuo, sendo de se ressaltar que o imóvel lhe é dado em garantia hipotecária.
+4. Hipótese em que não se afirma, na inicial, que a CEF tenha assumido qualquer outra obrigação contratual, exceto a liberação de recursos para a construção. Não integra a causa de pedir a alegação de que a CEF tenha atuado como agente promotor da obra, escolhido a
+construtora ou tido qualquer responsabilidade relativa à elaboração ao projeto.
+5. Recurso especial provido para reconhecer a ilegitimidade passiva ad causam do agente financeiro recorrente.
+(REsp n. 1.102.539/PE, Rel.Ministro Luis Felipe Salomão, Rel.p/ Acórdão Ministra Maria Isabel Gallotti, Quarta Turma, DJe 6/2/2012).
+Como visto, em algumas operações no âmbito do Sistema Financeiro Habitacional, a CEF é a responsável pela seleção e contratação da empresa construtora, pela concepção e execução da obra, pela entrega dos imóveis concluídos e legalizados, além de liberar os recursos conforme o cronograma da obra, atuando verdadeiramente como um executor de políticas públicas. Em outras, a instituição financeira tão somente faz o repasse de recursos, seja para o adquirente do imóvel, seja para a construtora/incorporadora, exercendo estritamente a função de agente financeiro.
+No caso autos, o acórdão recorrido concluiu quea CEF atuou comoexecutora/promotora/fiscalizadora do empreendimento ostentando legitimidade para responder pelo pedido de reparação de danos.
+Ademais,reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos e análise e interpretação de cláusulas contratuais, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado dasSúmulasn. 5 e 7 do Superior Tribunal de Justiça.
+Ilustrativamente (guardadas as devidas particularidades de cada caso):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO (SFH). ILEGITIMIDADE PASSIVA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As questões referentes ao art. 371 do Código de Processo Civil não foram objeto de debate no acórdão impugnado, não obstante a oposição dos embargos de declaração na origem. Para que se configure o prequestionamento, é necessário que o Tribunal a quo se pronuncie
+especificamente sobre a matéria articulada pelo recorrente, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto Desatendido o requisito do prequestionamento, incide, no caso, a Súmula 211/STJ.
+2. No presente caso, é inviável rever a conclusão do Tribunal de origem acerca da ilegitimidade passiva da seguradora, pois demandaria reexame de fatos, provas e interpretação de cláusulas contratuais, providências vedadas em sede de recurso especial, em
+razão dos óbices das Súmulas 5 e 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.730.752/PR. Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 26/8/2021).
+AGRAVO INTERNO NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. ENTREGA DE IMÓVEL. ATRASO. ILEGITIMIDADE DA CEF.AGENTE FINANCEIRO. ATUAÇÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever a conclusão do tribunal de origem, que, com base em detida análise do contrato firmado entre as partes, entendeu que a CEF atuou exclusivamente na qualidade de agente operador do financiamento, atrai os óbices das Súmulas nºs 5 e 7/STJ.
+3. Consoante o entendimento firmado por esta Corte, a CEF, nas hipóteses em que atua na condição de agente financeiro sem sentido estrito, não possui legitimidade para responder por danos na obra financiada.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.663.524/RN. Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 29/10/2020).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. VÍCIOS CONSTRUTIVOS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2.LEGITIMIDADE PASSIVA DA CEF. ALTERAÇÃO. SÚMULAS N. 5 E 7 DO STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
