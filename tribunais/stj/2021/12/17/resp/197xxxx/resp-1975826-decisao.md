@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REVISÃO DE VALORES CONTRATUAIS. SENTENÇA QUE HOMOLOGA DESISTÊNCIA. CONDENAÇÃO AO PAGAMENTO DE CUSTAS. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF.ANÁLISE DE LEILOCAL.ALTERAÇÃO QUE SE MOSTRA INVIÁVEL.SÚMULA 280DO STF. RECURSO ESPECIAL DA EMPRESANÃO CONHECIDO.
+1. Trata-se de Recurso Especial interposto porPOLICON ENGENHARIA LTDA., com base nasalíneasa e c do art. 105, III, da Constituição Federal, em que se objetiva a reforma do acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE REVISÃO DE VALORES CONTRATUAIS C/C COBRANÇA. SENTENÇA QUE HOMOLOGA DESISTÊNCIA FORMULADA PELO AUTOR. CONDENAÇÃO AO PAGAMENTO DAS CUSTAS - MANTIDO - REGIMENTO DE CUSTAS JUDICIAIS (LEI 3.779/09) OBRIGA AO PAGAMENTO, AINDA QUE HAJA DESISTÊNCIA DA AÇÃO. SENTENÇA MANTIDA. SEM HONORÁRIOS RECURSAIS - RECURSO DESPROVIDO.
+2. Em seu Apelo Especial, sustenta o recorrente violação do art. 290do CPC/2015. Aduz quea ausência de recolhimento das custas iniciais faz com que o processo não ultrapasse a fase de distribuição, levando ao seu cancelamento, e sendo incabível exigir o recolhimento da taxa judiciária.
+3. Sem as contrarrazões, o recurso foi admitido na origem (fls. 247/248).
+4. É o relatório.
+5. O recurso não mereceprosperar.
+6. Com efeito, o egrégio Tribunal estadual assim decidiu a controvérsia:
+A irresignação do Apelante está em sua condenação ao pagamento das custas processuais. Aduziu que por ser hipossuficiente, desistiu da ação, exatamente pela impossibilidade de pagamento. Pois bem. Por primeiro, anoto que a questão referente a alegada hipossuficiência do Apelante já foi objeto de Recurso de Agravo de Instrumento(processo 1412087-32.2019.8.12.0000) e teve indeferido o pedido (f.176/185 do feito principal).
+Quanto à irresignação pela condenação ao pagamento das custasprocessuais ainda que tenha desistido da ação, tenho que sem razão. Isso porque o Regimento de Custas Judiciais do Estado de Mato Grosso do Sul (Lei 3.779/09) é clara ao estabelecer em seu Capítulo VIII - "Do Recolhimento Definitivo e do Pedido de Restituição", artigo 22, I, que:
+Art. 22. Não será dispensado o pagamento das custas nem autorizada a restituição das já pagas, se:
+I - o cancelamento da distribuição for por desistência, por qualquer irregularidade ou por falta de pagamento do preparo ou de sua complementação, no prazo devido, mesmo antes da citação do réu;
+Ademais, por certo que a partir do momento em que a ação foi distribuída, houve movimentação da máquina judiciária, porquanto Despachos e Decisões foram proferidos, intimações realizadas, certidões elaboradas, etc., o que por si só demonstram que os serviços oferecidos pelo Poder Judiciário foram utilizados e o feito alongou-se por quase um ano por culpa exclusiva do Apelante, apenas em razão da discussão sobre sua hipossuficiência. Assim, sem maiores delongas, o Recurso deve ser desprovido.
+7. Ao que se vê, o Tribunal a quo consignou que após a distribuição houve intensa movimentação da máquina judiciária. Contudo, esse argumento não foi rebatido no apelo nobre, e, por ser suficiente para manter o julgado, atrai os óbices dasSúmulas283e 284, ambas do STF. A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. FUNDAMENTO NÃO IMPUGNADO.SÚMULAS N. 283E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A orientação jurisprudencial do STJ declarou que os servidores integrantes de associação coletiva serão beneficiados por título proferido em mandado de segurança coletivo independentemente da existência de lista de servidores na petição inicial.
+2. Não se conhece do recurso especial, quando a parte deixa de impugnar de forma suficiente fundamento autônomo, que por si só é capaz de manter o julgado (Súmula 283/STF), bem como quando a deficiência de fundamentação não permitir a compreensão da controvérsia (Súmula 284/STF).
+3. Agravo interno não provido (AgInt no AREsp 1.206.856/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 24/05/2018).
+8. Ademais, a revisão do julgado também demandaria a análise do disposto em leilocal(LeiEstadual 3.779/09 - Regimento de Custas Judiciais do Estado de Mato Grosso do Sul) o que é inviável em Recurso Especial, como dispõe a Súmula 280/STF.
+9. Ante o exposto, não conheçodoRecurso Especial da Empresa.
+10. Publique-se. Intimações necessárias.
