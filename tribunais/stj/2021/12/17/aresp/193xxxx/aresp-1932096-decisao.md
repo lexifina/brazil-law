@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu o Recurso Especial por incidência da Súmula 7/STJ.
+O acórdão foi assim ementado:
+MANDADO DE SEGURANÇA. ADMINISTRATIVO. IMÓVEL DA UNIÃO. TRANSFERÊNCIA DE DOMÍNIO. OBRIGAÇÃO DE COMUNICAÇÃO À SPU. DESCUMPRIMENTO. INCIDÊNCIA DE MULTA. ILEGALIDADE NÃO CONSTATADA. LIMITAÇÃO DO VALOR. IMPOSSIBILIDADE. REMESSA NECESSÁRIA E APELAÇÃO DA UNIÃO PROVIDAS. APELAÇÃO DA IMPETRANTE DESPROVIDA.
+1. Cinge-se a controvérsia posta nos autos a verificar a legalidade da penalidade pecuniária imposta à Impetrante em razão do descumprimento da obrigação de comunicar à SPU a aquisição de domínio útil de imóvel pertencente à União Federal, consoante determina o art. 3º do Decreto-lei 2.398/87.
+2. Em tema de controle dos atos administrativos, ainda que sancionatórios, o Poder Judiciário deve restringir sua atuação à verificação da observância, pela Administração Pública, das formalidades procedimentais estabelecidas em Lei, a fim de resguardar a sua regularidade e, desse modo, assegurar a observância dos princípios do contraditório e da ampla defesa. Não é da alçada do Juiz ingressar no mérito do ato administrativo para substituir a atuação discricionária da Administração Pública. Precedentes desta 8ª Turma Especializada.
+3. No caso dos autos, a parte Impetrante realizou, em 28/03/2013, a compra de imóvel localizado na Avenida Atlântica, nº 554, Apto.802, Leme, Rio de Janeiro/RJ, o qual se encontra matriculado sob o nº 115982 junto ao 5º Ofício de Registro de Imóveis do Rio de Janeiro, inscrito no FRE sob o nº 0889415-6 e Código de Logradouro-CL nº 06589-6, tratando-se de terreno foreiro ao domínio da União. Ocorre que, segundo afirmado na própria exordial, a Impetrante só efetuou tal comunicação à SPU na data de 23/05/2016, ou seja, quase 03 (três) anos mais tarde.
+4. Sendo assim, é incontroverso o descumprimento da obrigação do adquirente comunicar à SPU a conclusão do negócio jurídico de transferência onerosa de bem da União Federal, no prazo máximo de 60 (sessenta) dias, consoante determina o art. 3º, § 4º, do Decreto-lei 2.398/87.
+5. A alegação da parte Impetrante de que o interregno de 60 (sessenta) dias afronta os princípios da proporcionalidade e razoabilidade veio aos autos de forma genérica, vazia e sem escora em qualquer elemento de prova apto a demonstrar o motivo pelo qual é inviável o cumprimento da obrigação no prazo legalmente previsto.
+6. Não há que se falar em limitação do valor da multa a 5% (cinco por cento) do valor do bem, tendo como parâmetro a importância paga a título de laudêmio. Afora a ausência de previsão legal nesse sentido, impõe-se afirmar a inaplicabilidade, ao caso em tela, do princípio do não-confisco, pois se trata de multa administrativa, de caráter punitivo, que não guarda qualquer semelhança com exações de caráter tributário.
+7. Remessa Necessária e Apelação da União providas. Apelação da Impetrante desprovida.
+O recorrente afirmou, em seu Recurso Especial, que houve, além de divergência jurisprudencial, ofensa ao art. 2º da Lei Federal 9.784/1999. Sustenta que "o que se vê por parte da RECORRIDA é o total vilipêndio, às escâncaras, dos princípios da razoabilidade e da proporcionalidade, tão caros à Administração Pública e cuja violação merecem repúdio por parte do Poder Judiciário, a quem cabe praticamente a tarefa de correição dos atos administrativos eivados de irrazoabilidade e desproporcionalidade".
+Contrarrazões às fls.355-360, e-STJ.
+Defende Petas Patrimonial e Participações Eireli.:
+Mesmo em havendo adquirido o imóvel em 28/03/2013, a AGRAVANTE realizou o Requerimento de Averbação da Transferência do mesmo em 23/05/2016, conforme documento protocolado sob o nº 04967004454/2016-68.
+Em meados de fevereiro/2018 a AGRAVANTE teve ciência de que deveria realizar o pagamento de uma multa administrativa por não haver realizado a transferência das obrigações enfitêuticas no prazo de 60 (sessenta) dias da aquisição do imóvel, tendo de pronto protocolado em 25/02/2018 o pedido de cancelamento da mesma, conforme se verifica do pedido nº RJ01013/2016 contido nos autos, que logo se transformou no processo administrativo nº 04967.002999/2018-00.
+ ..
+Eminente Ministro(a), atente que que a metragem mencionada na escritura pública e sobre a qual a AGRAVADA avaliou o imóvel e o terreno é de 566,73 metros quadrados, ao passo que o próprio Município do Rio de Janeiro dimensionou o imóvel em 182 metros quadrados, ou seja, a própria RECORRIDA superdimensionou o imóvel em 67,88%
+ ..
+É que tais decisões judiciais vão frontalmente de encontro aos princípios da proporcionalidade e razoabilidade, nos termos do disposto na cabeça do artigo 2º da Lei nº 9.784/1999:
+Art. 2º A Administração Pública obedecerá, dentre outros, aos princípios da legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência.
+O Ministério Público Federal opina pelo conhecimento do Agravo para não conhecer do Recurso Especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25 de novembro de 2021.
+Dessume-se dos autos que:
+No aspecto legal, a multa cobrada em função da infração referida era de 0,05% (cinco centésimos por cento), por mês ou fração, sobre o valor do terreno e benfeitorias, conforme previa o art. 3º, §5º, do Decreto Lei 2.398/87, com redação dada pela Lei 9.636/98.
+Posteriormente, com o advento da Lei 13.240/2015, a multa passou a ser de 0,05% (cinco centésimos por cento), por mês ou fração, sobre o valor do terreno, excluídas as benfeitorias, até a edição da Medida Provisória 759/2016, quando o valor da multa passou a ser de 0,5% (meio por cento) por mês ou fração, sobre o valor do terreno, excluídas as benfeitorias. Como bem reconhece a sentença recorrida, a multa foi aplicada em conformidade com o critério vigente durante os meses em que o atraso persistiu.
+É inviável analisar a tese defendida no Recurso Especial de que " tais decisões judiciais vão frontalmente de encontro aos princípios da proporcionalidade e razoabilidade", pois inarredável a revisão do conjunto probatório dos autos para afastar estas premissas fáticas estabelecidas pelo acórdão recorrido:
+a) em tema de controle dos atos administrativos, ainda que sancionatórios, o Poder Judiciário deve restringir sua atuação à verificação da observância, pela Administração Pública, das formalidades procedimentais estabelecidas em Lei, a fim de resguardar a sua regularidade e, desse modo, assegurar a observância dos princípios do contraditório e da ampla defesa.
+b) Não é da alçada do Juiz ingressar no mérito do ato administrativo para substituir a atuação discricionária da Administração Pública.
+c) a SPU fez incidir corretamente a legislação aplicável sobre todo o período de incidência da multa, em observância às alterações legislativas promovidas pela Lei 13.240/2015 e pela Medida Provisória nº 759/2016.
+Sem motivos para reconsiderar o juízo prelibador que entendeu pela incidência da Súmula 7/STJ.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
