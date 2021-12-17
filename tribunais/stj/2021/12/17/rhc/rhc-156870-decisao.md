@@ -1,0 +1,45 @@
+DECISÃO
+JULIO CESAR MACHADO DOS SANTOS alega sofrer coaçãoilegal pelo Tribunal de Justiça do Estado da Bahia (HC n. 8024576-71.2021.8.05.0000).
+Nesta Corte, sustenta a defesa a ilegalidade da custódia processual do agente, pela suposta prática de tráfico de entorpecentes, dado o seu tempo excessivo, sobretudo porquea instrução nem mesmo se iniciou. Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a fixação de providências alternativas.
+Prestadas as informações (fls. 151-153), manifestou-se o Ministério Público Federal pelo não provimento do reclamo (fls. 158-164).
+Decido.
+Extrai-se do presente recurso que o auto de prisão em flagrante remonta ao dia 5/2/2021.
+Em 3/3/2021, a Magistrada de Nova Viçosa - BA relata que o flagrante foi "homologado em 12/02/2021" (fl. 69, grifei). O referido decisum não foi colacionado aos autos. Ato seguinte, a Juíza singular converteu o flagrante em segregação preventiva, nestes termos (fls. 69-70, grifei):
+ ..  no tocante aos pressupostos do encarceramento, confirmam a necessidade da decretação da prisão preventiva, ao menos por ora, para a garantia da ordem pública, pois, da análise dos autos, verifica-se que há possibilidade de estarem associados para o tráfico, sendo notório que as facções que atuam na cidade  ..  agem de forma violenta. No caso do flagranteado, a prisão em flagrante ocorreu quando do cumprimento de prisão temporária e mandado de busca e apreensão, decretad os  para apuração de sete homicídios ocorridos na cidade de Santa Cruz Cabrália, nos últimos sessenta dias, todos relacionados ao tráfico de drogas.
+Além disso, em rápida pesquisa no SAIPRO, constatei que o flagranteado foi preso em flagrante delito este ano e teve alvará de soltura por crime da mesma espécie.
+Tenho assim que a probabilidade de reiteração criminosa e a gravidade concreta do crime justificam a necessidade da manutenção do encarceramento cautelar noticiado, como garantia da ordem pública.
+Ante todas as circunstâncias fáticas, acima delineadas, as medidas cautelares alternativas à prisão (art. 319, do CPP) não se mostram, por ora, suficientes e adequadas para acautelar os bens jurídicos previstos no inciso I, do art. 282, do Código Processual, sendo de todo recomendável a segregação como único instrumento que atende às peculiaridades do caso concreto.
+Ante o exposto, presentes todos os requisitos ensejadores da custódia cautelar, converto em PREVENTIVA a prisão em flagrante de JULIO CESAR MACHADO DOS SANTOS  .. , com fundamento nos arts. 282, § 6º, 312 e 313, todos do CPP, até a realização de audiência de custódia, quando será reavaliada a necessidade da prisão.
+Em 24/2/2021, o Parquet ofereceu a denúncia contra o paciente.
+Conforme as informações da autoridade de 1º grau, subscritas em 23/11/2021, notificou-se o denunciado "em 29/07/2021, para apresentação da defesa prévia, informando não ter advogado". Foi "nomeado advogado dativo, que apresentou a resposta à acusação em 06/08/2021". A "Denúncia  foi  recebida em 17/08/2021, sendo determinada a inclusão do feito em pauta de audiência de instrução e julgamento" (todos à fl. 95, destaquei).
+No dia 15/9/2021, o Tribunal a quo denegou o HC originário, in verbis (fls. 109-110, grifei):
+I -  ..  o Paciente foi preso em flagrante  .. , encontrado em sua posse uma "bucha" de maconha e, em seu domicílio, 332g  ..  de Maconha e 65g  ..  de Crack, sendo denunciado pelo  ..  Artigo 33, "caput", da Lei 11.343/06.
+II - Aponta a impetrante a existência de constrangimento ilegal por excesso de prazo,  ..  o Paciente se encontra preso há cerca de 6 (seis) meses, sem que exista previsão para finalização da instrução processual, de modo que sequer foi notificado para o oferecimento da resposta à acusação.  ..
+IV -  ..  constrangimento ilegal por excesso de prazo, este não se verifica no caso dos autos  .. , à luz do princípio da razoabilidade.  .. , o processo se encontra em sua marcha regular.  ..  o Paciente foi preso em flagrante em 05/02/2021, a denúncia oferecida em 24/02/2021, a resposta à acusação apresentada em 06/08/2021, e a denúncia recebida em 17/08/2021.
+Ademais, consignou ainda o magistrado que foi determinada a inclusão do feito em pauta de audiência, tendo procedido à reavaliação da prisão, momento em que decidiu pela manutenção em razão da permanência dos requisitos que a ensejaram.
+V- Por fim, também não se vislumbra ofensa ao princípio da homogeneidade, sob o argumento que  ..  ser-lhe-ia imposto o regime aberto, posto que a  ..  pena em abstrato é de 05 (cinco) a 15 (quinze) anos de reclusão, não sendo possível aferir, ante tempus, eventual regime a ser interposto, nem tampouco a incidência de eventual tráfico "privilegiado"  .. .
+HABEAS CORPUS CONHECIDO E DENEGADO.
+Em consulta ao sítio da Corte estadual, não logrou o gabinete acesso a dados da Comarca de Nova Viçosa, não migrada para o SAJ - Sistema de Automação judiciário, da Bahia.
+Feitos esses registros, passo à análise do recurso.
+A despeito de as informações haverem sido prestadas em 23/11/2021, o Juiz de Direito Substituto noticiou que "atu a  na comarca desde 26/04/2021" e, tal qual comunicou ao Tribunal de Justiça, em 16/8/2021, ainda não designou data oportuna para audiência de instrução (fls. 151-152, destaquei).
+Sem embargo, afiro que a jurisdição efêmera do Magistrado na Comarca não tem o condão de fundamentar, idoneamente, à manutenção do cárcere cautelar do acusado, por tempo indefinido, até que sobrevenha o Juiz Titular, que dê processamento ao feito.
+A par dos documentos do reclamo, o réu está preso provisoriamente há quase 11 meses, a denúncia foi ofertada em 24/2/2021, recebida em 17/8/2021, no entanto, não há sequer prognóstico para o início da instrução processual.
+Registre-se que a demanda tem um único acusado, por suposto crime sem violência, não se fez menção à necessidade de expedição de cartas precatórias, tampouco à prática de ato que, pela sua natureza, fosse capaz de justificar a demora para o início da colheita da prova.
+Há, pois, nítido constrangimento ilegal.
+Nesse sentido:
+ ..  1. Na hipótese, há motivação suficiente para a decretação da prisão cautelar, ante a necessidade de garantia da ordem pública, uma vez que o agente é indicado com integrante de associação criminosa que atuava abordando veículos em via federal para subtração, utilizando, para tanto, armas de fogo e carro de apoio e privando as vítimas de sua liberdade. E, ainda, por ocasião da prisão em flagrante, os envolvidos empreenderam fuga e efetuaram troca de tiros com a polícia.
+ ..
+3. Quanto à delonga na tramitação da ação penal, apesar de os fatos imputados ao acusado serem graves, o excesso de prazo, mesmo tratando-se de delito hediondo (ou a este equiparado), não pode ser tolerado, impondo-se, ao Poder Judiciário, em obséquio aos princípios consagrados na Constituição da República, a imediata revogação da prisão cautelar do indiciado ou do réu (STF, HC 100.574, Relator Ministro Celso de Mello, Publicado em 9/4/2010).
+4. Considerando-se que o recorrente está preso desde 18/10/2019 e já se recomendou celeridade no trâmite processual, em julgamento proferido no dia 15/9/2020 no HC n. 581.976/BA, sem que até o momento tenha se iniciado a instrução processual, tem-se que a prisão cautelar se tornou ilegal por evidente excesso de prazo, devendo, portanto, ser relaxada.
+5. Recurso provido a fim de relaxar a prisão preventiva decretada em desfavor do ora recorrente, determinando ao Juízo de primeiro grau que avalie a necessidade de imposição de outras medidas cautelares alternativas à prisão.
+(RHC n. 135.469/BA, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 4/6/2021, grifei.)
+ .. 2. São idôneos os motivos elencados no decisum combatido, pois demonstram o risco de reiteração delitiva - registro de quatro passagens pela prática de atos infracionais análogos ao tráfico de drogas - e a gravidade da conduta em tese perpetrada, evidenciada pela apreensão de cerca de 520 g de crack e 245 g de maconha.
+ ..
+4. Decorrido quase 1 ano desde a prisão em flagrante do acusado, não há previsão do início da instrução processual, uma vez que, até o momento, não houve sequer o recebimento da denúncia. Além disso, o ora paciente é o único réu na ação penal objeto deste writ e não foi mencionada a necessidade de expedição de cartas precatórias ou da prática de outros atos que, em razão de sua natureza, justificassem maior demora para o início da colheita da prova.
+ ..
+7. Diante desse panorama, é adequada e suficiente a substituição da cautela extrema por medidas diversas.
+8. Ordem concedida para substituir a prisão preventiva do réu pelas medidas cautelares previstas no art. 319, IV e V, do Código de Processo Penal.
+(HC n. 599.790/PE, Rel. Ministro Rogerio Schietti, 6ª T., DJe 2/12/2020, destaquei.)
+À vista do exposto, dou provimento ao recurso ordinário, a fim de relaxar a prisão preventiva do ora recorrente, determinando ao Juízo de primeiro grau que avalie a necessidade de imposição de outras medidas cautelares, previstas no art. 319 do CPP, ao réu.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
