@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de reclamação, com pedido liminar, proposta por ANTÔNIO VICENTE CARRIÃO JÚNIOR e OUTROScom fundamento nos arts. 988 do CPC/2015 e 105, I, "f", da Constituição Federalcontra acórdão prolatado pela Turma RecursalCível e Criminal do Tribunal de Justiça do Estado de São Paulo assim ementado:
+CUMPRIMENTO DE SENTENÇA - MULTA - FORNECIMENTO DE MEDICAMENTO - FIXAÇÃO DE ASTREINTES PARA O CASO DE DESCUMPRIMENTO DA DECISÃO JUDICIAL - FALECIMENTO DA AUTORA - AÇÃO DE CARÁTER PERSONALÍSSIMO - RESOLVIDA QUE FICOU A QUESTÃO PRINCIPAL, O MESMO DESTINO SE DÁ PARA A QUESTÃO ACESSÓRIA - IMPOSSIBILIDADE DE OS HERDEIROS EXECUTAREM AS ASTREINTES - SENTENÇA MANTIDA.
+Defendem os reclamantes que o entendimento da instância ordinária contraria a jurisprudência desta Corte Superior, notadamente quanto àpossibilidade da execução da multa cominatória aplicada em decorrência do descumprimento da decisão que antecipou os efeitos da tutela, mesmo após o falecimento da parte autora, por se tratar de direito passível de transmissão aos herdeiros.
+Passo a decidir.
+Compulsando os autos, verifico que a presente reclamação não merece ser conhecida.
+A Corte Especial do Superior Tribunal de Justiça editou a Resolução n. 3, publicada no Diário da Justiça Eletrônico de 08/04/2016, segundo a qual caberá às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a competência para processar e julgar reclamações destinadas a dirimir a divergência entre acórdão proferido por Turma Recursal estadual ou do Distrito Federal e a jurisprudência desta Corte quando o entendimento estiver consolidado em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das súmulas do STJ, bem como para garantir a observância deprecedentes.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. SERVIDOR PÚBLICO ESTADUAL. PRETENSÃO DE PAGAMENTO DAS DIFERENÇAS RETROATIVAS EM DECORRÊNCIA DA CONVERSÃO DE MOEDA EM URV.
+RECLAMAÇÃO. RESOLUÇÃO STJ N. 12/2009. ACÓRDÃO ENVOLVENDO INTERESSE DA FAZENDA PÚBLICA.
+DESCABIMENTO.
+I - O presente feito decorre de reclamação apresentada por Alex Estevam de Souza Leite contra decisão da Turma Recursal do Juizado Especial do Estado de Sergipe.
+II - O acórdão alegadamente contrário à jurisprudência deste Tribunal Superior foi proferido por Turma de Juizado Especial Estadual em matéria de Fazenda Pública, o que impede sua admissão, tendo em vista o disposto nos artigos 18 e 19 da Lei 12.153/2009, a qual prevê recursos próprios.
+III - Portanto, somente é cabível reclamação perante o STJ de decisões divergentes proferidas por Turmas de Juizado Especial da Fazenda Pública, de diferentes Estados, ou quando a decisão estiver em contrariedade com Súmula do Superior Tribunal de Justiça.
+IV - Também não cabe reclamação em face de decisão proferida por Turma Recursal de Juizado Especial Estadual, pois a Corte Especial deste Sodalício aprovou a Resolução 3, de 7.4.2016 (revogando a anterior Resolução 12/2009, que regulava o processamento das aludidas reclamações no âmbito do STJ) dispondo sobre a competência para processar e julgar as mencionadas ações constitucionais.
+V - No caso dos autos, a reclamante se insurge contra acórdão proferido por Turma de Juizado Especial Estadual em matéria de Fazenda Pública, que não revela afronta a Súmula do STJ, nem há demonstração de divergência entre decisões de Turmas de diferentes Estados, o que revela a incompetência deste Superior Tribunal para apreciar a presente ação constitucional.
+VI - Agravo interno improvido.(AgInt na Rcl 35.432/SE, Relator Ministro FRANCISCO FALCÃO, S1 - PRIMEIRA SEÇÃO, DJe 21/02/2019).
+Ante o exposto, DETERMINO a remessa dos autos ao Tribunal de Justiça do Estado de São Paulocom a respectiva baixapara análise do pedido.
+Publique-se.
