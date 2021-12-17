@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão assim ementado:
+AÇÃO RESCISÓRIA. MEDIDA EXCEPCIONAL. OBSERVÂNCIA DAS HIPÓTESES TAXATIVAS DE RESCINDIBILIDADE PREVISTAS NO ARTIGO 966 DO CPC. VIOLAÇÃO À LITERAL DISPOSIÇÃO DE LEI. NÃO OCORRÊNCIA. ACÓRDÃO TRANSITADO EM JULGADO. TESE FIXADA EM IRDR POSTERIOMENTE. DECISÃO QUE SOMENTE ATINGE PROCESSOS PENDENTES DE JULGAMENTO. MUDANÇA DE ENTENDIMENTO. SUMULA Nº 343 DO STF. AÇÃO RESCISÓRIA IMPROCEDENTE. I - O acórdão rescindendo, POR UNANIMIDADE, negou provimento aos embargos infringentes interpostos pelo Estado do Maranhão, mantendo o acórdão proferido pela Terceira Câmara Cível que, por sua vez, reconheceu o direito dos servidores ao percentual de 21,7% em razão do caráter de revisão geral atribuído à lei naquela época. Deste modo, não havendo qualquer vício no julgado rescindendo, uma vez que proferido nos termos do entendimento uniforme deste Tribunal, à época de seu julgamento, sua manutenção é medida que se impõe. II - Nos termos do verbete sumular n.º 343 do Supremo Tribunal Federal " não cabe ação rescisória por ofensa a literal disposição de lei quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais". III - Ainda que posteriormente tenha sido firmada tese, nos autos do IRDR n.º 17.015/2016, no sentido de que a Lei n.º 8.369/2006 concedeu reajuste específico e setorial, com vedação à extensão a servidores não expressamente contemplados, tal tese tem efeito vinculante apenas para os processos pendentes de julgamento, não podendo alcançar decisões transitadas em julgado, como é o caso dos autos, sob pena de ofensa à coisa julgada material, nos termos do artigo 502 do Código de Processo Civil. IV - Ação rescisória improcedente.
+Os Embargos de Declaração foram acolhidos nos seguintes termos (fl. 434, e-STJ):
+EMBARGOS DE DECLARAÇÃO. AÇÃO RESCISÓRIA. ALEGAÇÃO DE OMISSÃO NO ARBITRAMENTO DE HONORÁRIOS DE SUCUMBÊNCIA. OCORRÊNCIA. ACOLHIMENTO. NECESSIDADE.
+I - Destinam-se os embargos de declaração a corrigir omissões, contradições ou obscuridade se existentes no julgado. Inteligência do art. 1.022, do CPC.
+II - no caso dos autos os honorários advocatícios deixaram de ser arbitrados no acórdão embargado, logo, tal omissão deve ser sanada com o acolhimento dos aclaratórios, o que se faz nos presentes autos, a fim de impor a verba advocatícia no importe de R$ 5.000,00.
+III - Embargos Acolhidos.
+O recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação do art. 966, V, do CPC/2015. Afirma (fl. 455, e-STJ):
+Contudo, não sendo cabível a ação rescisória é o caso de extinguir o processo sem resolução de mérito, já que o instrumento não é adequado a tutela do seu direito, tampouco o provimento jurisdicional lhe trará algum benefício.
+Essa decisão, de natureza terminativa, não analisa o mérito e, portanto, não pode se manifestar pela procedência ou pela improcedência do pedido autoral.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9.12.2021.
+A irresignação não merece prosperar.
+O debate proposto no Recurso Especial não ocorreu no Tribunal de origem.
+Assim, perquirir nesta via estreita ofensa à norma mencionada nas razões recursais, sem explicitação da tese jurídica ora controvertida, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. No ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." No mesmo sentido, os enunciados das Súmulas 211 do STJ e 356 do STF. É assente no STJ o entendimento de que é condição sine qua non para que se conheça do Recurso Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como afrontados.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 156 DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ, 282/STF E 356/STF. VIOLAÇÃO AO ART. 5º, LVII, DA CF. MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. OFENSA AO ART. 155 DO CPP. CONDENAÇÃO BASEADA EM PROVAS COLHIDAS SOMENTE NA FASE INQUISITORIAL. INOCORRÊNCIA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AFRONTA AO ART. 386, VII, DO CPP E AO ART. 289, § 1º, DO CP. DOLO DA CONDUTA. REEXAME FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1 - É condição sine qua non ao conhecimento do especial que o acórdão recorrido tenha emitido juízo de valor expresso sobre a tese jurídica que se busca discutir na instância excepcional, sob pena de ausência de pressuposto processual específico do recurso especial, o prequestionamento. Inteligência dos enunciados 211/STJ, 282 e 356/STF.
+(..)
+5 - Agravo Regimental a que se nega provimento.
+(AgRg no AREsp 357.469/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 17/9/2013).
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determinosua majoração, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
