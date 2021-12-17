@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMG, o qual recebeu a seguinte ementa (e-STJ fl. 470):
+EMENTA: AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA -CÁLCULOS ELABORADOS EM OBSERVÂNCIA ÀS DECISÕES JUDICIAIS - HOMOLOGAÇÃO - REGULARIDADE. Se os cálculos apresentados pela parte exequente guardam observância às diretrizes traçadas pelas decisões proferidas nos autos, a homologação desses cálculos é medida que se impõe.
+Os embargos de declaração foram rejeitados(e-STJ fls. 534/537).
+No recurso especial (e-STJ fls. 540/572), fundamentado no art. 105, III, "a", da CF, a parte recorrente alega ofensa aos arts. 489 e 1.022 do CPC/2015, pornegativa de prestação jurisdicional.
+Indicaafronta aos arts.523, §3ºe 917, §3º, do CPC/2015, sustentando quea penhora de valores via bacenjud é ilegal, pois prescindida de prévia intimação da recorrente e porque demonstrado o excesso de execução.
+Juízo positivo de admissibilidade (e-STJ fls. 581/584).
+É o relatório.
+Decido.
+Não há falar em violação dos arts. 489 e1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 472/473):
+Apresentados novos cálculos pela parte exequente, conforme determinação no acórdão do agravo acima citado, e, respeitada a determinação anterior de decotar o valor depositado após a incidência de juros e correção, o magistrado de primeira instancia, rejeitou a nova impugnação apresentada pela executada sob o fundamento de que não merece acolhimento a alegação de ilegalidade da penhora realizada após a ausência de pagamento, considerando que a simples irresignação, sem requerimento para realização de cálculos por perito contábil, não tem o condão de elidir o dever de pagar o débito.
+Inconformada, mais uma vez, recorre a executada, desta vez, alegando a irregularidade da penhora via Bancenjud e o excesso da execução.
+Após analisar detidamente os autos, verifica-se que razão não assiste à agravante.
+Conforme mencionado anteriormente, os cálculos apresentados pela parte exequente obedecem às determinações impostas pelo magistrado de primeira instância quando da análise da primeira impugnação apresentada pela executada, bem como determinações impostas por este Tribunal quando do julgamento do agravo de instrumento de nº 1.0702.09.555290-8/002.
+Ressalte-se que, não prospera a alegação de irregularidade da penhora via Bancenjud, já que realizada somente após a ausência de pagamento pela executada.
+Além disso, importante mencionar que, apesar de afirmar que os cálculos apresentados pela exequente não estão corretos, a executada não apresenta qual o valor devido ou pleiteia a realização de perícia contábil para tal apuração, conforme assinalado pelo douto Juiz de primeira instância.
+Destaque-se ainda, que a ora agravante não se insurgiu em momento oportuno contra a determinação de decote do valor depositado judicialmente somente após a incidência dos juros e da correção, não podendo ser acolhida, agora, a pretensão de que remanesce em mora apenas a diferença não depositada porque o depósito realizado pela agravante em 03/04/2009, do valor principal, interrompeu a incidência de juros e multa sobre o valor efetivamente depositado.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Oacórdão impugnado concluiu que (i) os cálculos apresentados pela parte exequente obedecem às determinações impostas pelo magistrado de primeira instância quando da análise da primeira impugnação apresentada pela executada, bem como determinações impostas por este Tribunal quando do julgamento do agravo de instrumento de nº 1.0702.09.555290-8/002 e que (ii)apenhora via Bancenjud só foirealizada após a ausência de pagamento pela parte executada.Taispontos, aptos, por si sós, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além disso, dissentir das conclusões do acórdão impugnado implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto naSúmulan. 7 do STJ.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
