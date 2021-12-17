@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP, o qual recebeu a seguinte ementa (e-STJ fl. 208):
+CONTRATO - Compra e venda de unidade autônoma  Resolução - Inadimplemento das parcelas pelo autor - Realização de leilão extrajudicial que não afasta o direito de restituição das quantias pagas pelo adquirente - Hipótese de construção por empreitada - Inaplicabilidade do art. 63 e parágrafos da Lei 4.591/64, que somente se aplica aos casos de construção a preço de custo ou por administração, em que a obra é custeada pelos próprios condôminos e não pela incorporadora, como na presente hipótese - Retenção parcial dos valores desembolsados - Súmula 543, do STJ - Percentual fixado em sentença (20% do total dos valores) que se revela adequado, estando em consonância com o entendimento desta Câmara - Inaplicabilidade da Lei nº 13.789/18, que atinge somente os contratos celebrados a partir da sua entrada em vigor, em 28 de dezembro de 2018 - Sentença mantida  Recurso desprovido.
+No recurso especial (e-STJ fls. 216/226), fundamentado no art. 105, III, "a", da CF, a parte recorrente alega ofensa aos arts. 11 e 485, IV, do CPC/2015, 63 da Lei n. 4.591/1964, 1º da Lei n. 4.864/1965 e 104, 474 e 476 do CC/2002.
+Sustenta negativa de prestação jurisdicional.
+Afirma carênciade ação por falta de interesse de agir, por entender que "não há, portanto, como a recorrente ser condenada na rescisão contratual de instrumento particular já extinto - por força da inadimplência dosrecorridos, cujas cláusulas não mais produzem efeitos no mundo jurídico"(e-STJ fl. 219).
+Argumenta que o contrato foi rescindido de pleno direito em junho de 2015, antes da propositura da ação (abril/2018), de forma que não há valores a serem restituídos ao recorrido.
+Destaca que o "acordo foi claro no sentido de que eram os recorridos foram os responsáveis pela execução da cláusula resolutiva ao estarem inadimplentes desde Jan.2013 (após não purgar a mora), de maneira que a recorrente executou os procedimentos previstos em lei e no contrato firmado entre as partes" (e-STJ fl. 225).
+Não foram apresentadas contrarrazões (e-STJ fl. 230).
+Juízo positivo de admissibilidade (e-STJ fls. 231/232).
+É o relatório.
+Decido.
+Não há falar em negativa de prestação jurisdicional, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 210/211):
+Cumpre ressaltar que, a despeito de o contrato já ter sido resolvido administrativamente, tendo sido o imóvel em questão levado a leilão extrajudicial, persiste o interesse de agir do autor em relação ao pedido de devolução de parte dos valores por ele pagos, direito assegurado no art. 5º, XXXV, da Constituição Federal ("a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito").
+Não prospera a alegação da apelante de que o autor não teria direito à devolução de qualquer percentual dos valores desembolsados, pois, mesmo não tendo sido previsto no contrato expressamente o regime de incorporação, infere-se ter sido adotada a construção por empreitada ou preço fechado. E, sabe-se que o disposto no art. 63 e parágrafos da Lei nº 4591/64 somente se aplica aos casos de construção a preço de custo ou por administração, em que a obra é custeada pelos próprios condôminos e não pela incorporadora, conforme previsto no art. 58 de referido diploma legal.
+Assim, não tendo a construção ocorrido sob o regime de administração, é certo que o leilão extrajudicial levado a efeito não afasta o direito do autor de restituição dos valores pagos.
+(..)
+Assim, sendo caso de restituição (parcial) de valores despendidos para pagamento do preço avençado, nos termos da Súmula 543 do STJ, entendeu o Juiz de Direito ser razoável a retenção, pela promitente vendedora, de 20% das quantias desembolsadas.
+Alterar tal entendimento exigiria a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede recursal, a teor dasSúmulas n. 5 e 7 do STJ.
+Além disso, a jurisprudência do Superior Tribunal de Justiça tem considerado razoável que o percentual de retenção dos valores pagos pelo promitente-comprador - que deu causa à rescisão contratual - seja arbitrado entre 10% (dez por cento) e 25% (vinte e cinco por cento), conforme as circunstâncias de cada caso. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES.PREQUESTIONAMENTO. AUSÊNCIA. 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. REVISÃO DO PERCENTUAL DE RETENÇÃO DOS VALORES PAGOS PELOS COMPRADORES.PERCENTUAL QUE OBSERVA A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação declaratória de rescisão contratual c/c restituição de valores.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Alterar o decidido no acórdão impugnado, no que se refere ao importe da retenção dos valores pagos pelos agravados (10 % da quantia efetivamente desembolsada), em razão da abusividade de cláusulas contratuais, exige reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+4. A jurisprudência desta Corte de Justiça, nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por inadimplemento do comprador, tem admitido a flutuação do percentual de retenção pelo vendedor entre 10% a 25 % do total da quantia paga.Súmula 568/STJ.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1373622/GO, RelatoraMinistra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/5/2019, DJe 15/5/2019.)
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20%(vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
