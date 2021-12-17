@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática da Presidência do STJ (fls. 764-767, e-STJ) que conheceu do Agravo para conhecer em parte do Recurso Especial e negar-lhe provimento.
+O agravante sustenta, em suma (fl. 772, e-STJ):
+6. Com todas as vênias, a leitura a ser feita, para se constatar se houve ou não a omissão de que se ressentiu o recurso especial inicialmente interposto, é preciso que se leia o acórdão que julgou o mérito da causa, não a decisão de inadmissibilidade.
+7. Sendo feita a leitura da decisão correta, se verá com facilidade que cm nenhum momento se faz referência á tese de defesa do Município, na linha de que consta dos autos retratação da perita, em que ela afasta qualquer falha dos agentes do réu.
+8. Portanto, se existe essa omissão, é de rigor que se reconheça a ofensa ao art. 1.022, II, do CPC.
+9. Volte-se a ressaltar que o recorrente não deseja que o STJ diga se a manifestação pericial foi nesse ou naquele sentido; se tem esse ou aquele efeito.
+10. O que se quer e que o STJ determine ao órgão estadual que faça isso, ou seja, que aprecie a questão a ele submetida, quanto à retratação em comento.
+11. De outra parte, c preciso lembrar que a tese de violação do referido disposiart. 1.022, II, do CPC, é central, sendo a discussão dos arts 479 e 489, § 1º, III e IV, do CPC, conseqüente.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRESTAÇÃO DE SERVIÇO MÉDICO-HOSPITALAR. ÓBITO FETAL. DANO MORAL CONFIGURADO. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Constata-se que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração  retratação da perita. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+3. Ao julgar os Embargos de Declaração, a Corte de origem asseverou que o aresto recorrido não se baseou apenas no laudo pericial para concluir que houve falha na prestação do serviço médico pela falta de atendimento adequado, sendo inviável reabrir a discussão sobre a prova pericial a fim de demonstrar a inexistência do vício: "Ao argumento de estar omisso o aresto, pretende o Embargante reabrir discussão sobre a prova pericial com o fito de demonstrar a inexistência de falha na prestação do serviço, o que não é possível nesta via recursal, limitada a averiguar eventual vicio ou erro no aresto. Como fundamentou o aresto, a falha na prestação do serviço médico é manifesta pela falta de atendimento adequado, pois embora os exames realizados na 1ª Embargada não detectassem complicação obstétrica, era imprescindível realizar exames a fim de identificar eventual sofrimento do feto e tomar as providencias clínicas necessárias para evitar o óbito. Ou seja, houve ampla análise dos fatos postos pelas partes e das provas no aresto, que concluiu pela falha na prestação do serviço médico. Inexiste vício a sanar".
+4. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+5. A análise dos fundamentos que ensejaram o reconhecimento da existência de falha na prestação do serviço médico exige reexame probatório dos autos, impossível por esta via especial, ante o óbice do enunciado da Súmula 7/STJ.
+6. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 16 de novembro de 2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Constata-se que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração  retratação da perita. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Ao julgar os Embargos de Declaração, a Corte de origem explicitou que "houve ampla análise dos fatos postos pelas partes e das provas no aresto, para concluir pela falha na prestação do serviço médico", sendo inviável reabrir a discussão sobre a prova pericial a fim de demonstrar a inexistência do vício:
+Não assiste razão ao Embargante, pois o aresto enfrentou todas as matérias necessárias e suficientes ao julgamento, sem apresentar qualquer vício capaz de ensejar sua integração.
+Ao argumento de estar omisso o aresto, pretende o Embargante reabrir discussão sobre a prova pericial com o fito de demonstrar a inexistência de falha na prestação do serviço, o que não é possível nesta via recursal, limitada a averiguar eventual vicio ou erro no aresto.
+Como fundamentou o aresto, a falha na prestação do serviço médico é manifesta pela falta de atendimento adequado, pois embora os exames realizados na 1ª Embargada não detectassem complicação obstétrica, era imprescindível realizar exames a fim de identificar eventual sofrimento do feto e tomar as providencias clínicas necessárias para evitar o óbito.
+Ou seja, houve ampla análise dos fatos postos pelas partes e das provas no aresto, que concluiu pela falha na prestação do serviço médico.
+Inexiste vício a sanar.
+Como se vê, o Tribunal de origem consignou de forma clara que o aresto recorrido não se baseou apenas no laudo pericial para concluir que houve falha na prestação do serviço médico pela falta de atendimento adequado.
+Da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Ademais, o exame da controvérsia esbarra no óbice da Súmula 7 do STJ.
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Com efeito, a análise dos fundamentos que ensejaram o reconhecimento da existência de falha na prestação do serviço médico exige o reexame probatório dos autos, impossível por esta via especial, ante o óbice do enunciado da Súmula 7 desta Corte.
+Assim, afasta-se a ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático-probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
