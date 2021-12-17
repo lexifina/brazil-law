@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se Agravo Interno contra decisão que não conheceu do Agravo em Recurso Especial por ausência de impugnação específica ao juízo prelibador, que entendeu incidentes as Súmulas 7/STJ, 282/STF e 356/STF.
+Defende o estado de Pernambuco.
+Ou seja, o agravante impugnou, em itens específicos do seu agravo, os fundamentos da r. decisão agravada, havendo dialeticidade que afasta o óbice da Súmula 182/STJ. Já quanto à falta de prequestionamento - óbices das súmulas 211/STJ, 282 e 356/STF, note-se que houve embargos de declaração para suprir as omissões do r. acórdão e referência expressa à matéria dos honorários.
+Ademais o E. STJ, "através de seu Órgão Especial, posicionou-se no sentido de que a violação à determinada norma legal ou dissídio sobre sua interpretação, não requer, necessariamente, que tal dispositivo tenha sido expressamente mencionado no v. acórdão do Tribunal de origem. Cuida-se do chamado prequestionamento implícito (cf. EREsp nºs 181.682/PE, 144.844/RS e 155.321/SP)" (REsp. 254.361/SC, Min. Jorge Scartezzini, 5ª Turma, unânime, DJ de 04/09/00 - sem grifos), razão também ao afastamento do óbice das Súmulas 211/STJ, 282 e 356/STF.
+Impugnação às fls. 733-738, e-STJ, requerendo a aplicação de multa (art. 1.021, §4º, do CPC).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. Trata-se Agravo Interno contra decisão que não conheceu do Agravo em Recurso Especial por ausência de impugnação específica ao juízo prelibador, que entendeu incidentes as Súmulas 7/STJ, 282/STF e 356/STF.
+2. A exigência constante do artigo 1.021, § 1º, do CPC de 2015 não foi cumprida, permanecendo incólumes as motivações. Sendo necessária a impugnação específica de todos os fundamentos da decisão recorrida e em respeito ao princípio da dialeticidade, como ensinam o artigo 932, III, do mesmo Diploma e o enunciado 182/STJ, forçoso concluir pela inviabilidade do Agravo Interno.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 19 de novembro de 2021. A exigência constante do artigo 1.021, § 1º, do CPC de 2015 não foi cumprida, permanecendo incólumes as motivações. Sendo necessária a impugnação específica de todos os fundamentos da decisão recorrida e em respeito ao princípio da dialeticidade, como ensinam o artigo 932, III, do mesmo Diploma e o enunciado 182/STJ, forçoso concluir pela inviabilidade do Agravo Interno.
+Se a Lei estabelece pressupostos ou requisitos para a admissibilidade do recurso (no particular, o art. 932, III, do CPC/2015 determina a necessidade de impugnação específica aos fundamentos da decisão que inadmitir o Recurso Especial), cabe à parte proceder em estrito cumprimento às determinações legais. De fato, "não se pode desconhecer os pressupostos de admissibilidade do recurso. O aspecto formal é importante em matéria processual não por obséquio ao formalismo, mas para segurança das partes e resguardo do due process of law" (AgRg no Ag 427.696/RJ, Rel. Min. Sálvio de Figueiredo Teixeira, Quarta Turma, DJU de 12.8.2002).
+Ademais, a impugnação tardia dos fundamentos da decisão que não admitiu o Recurso Especial (somente por ocasião do manejo de Agravo Interno), além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, haja vista a ocorrência de preclusão consumativa. (AgRg AREsp 232.128/RJ, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 23.4.2013).
+A imposição da penalidade prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do Agravo Interno, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação (REsp 1.838.576/MG, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19/11/2019).
+Com relação aos honorários recursais, constato que o decisum combatido se omitiu em sua fixação. Em atenção ao disposto no art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição do recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
