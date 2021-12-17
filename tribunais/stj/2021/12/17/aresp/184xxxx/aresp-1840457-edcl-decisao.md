@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CARLOS ARAUJO CORRETORA E ADMINISTRADORA DE SEGUROS EIRELI e OUTROS contra decisão de minha lavra em que conheci do agravo para conhecer parcialmente do recurso especial com fundamento na Súmula 83 do STJ e, na parte conhecida, negar-lhe provimento, por inexistência de violação do art. 1.022 do CPC/2015.
+As embargantes alegam, em síntese, que a decisão embargada partiu de premissa fática equivocada, pois "foi efetivamente comprovada a impossibilidade de garantia integral por parte das embargantes, assim defendida a possibilidade de oposição de embargos à execução com garantia parcial, sem prejuízo de posterior ordem de reforço, conforme autoriza a Lei de Execuções Fiscais. É preciso que as razões recursais apresentadas ao Tribunal a quo sejam devidamente enfrentadas, o que não ocorreu no presente caso" (e-STJ fls. 2.263/2.264).
+Sem contraminuta (e-STJ fl. 2.271).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo não haver vício de integração a ser sanado.
+Como consignado na decisão embargada, o Tribunal de origem, em conformidade com a orientação jurisprudencial deste Superior Tribunal, reconheceu a possibilidade de se afastar a exigência de garantia do juízo para o ajuizamento de embargos à execução fiscalquando efetivamente comprovado o estado de hipossuficiência patrimonial do devedor,fatoque atrai o óbice da Súmula 83 do STJ.
+Esclareceu-se que não houve negativa de prestação jurisdicional pelo Tribunal de origem, queconsignouexpressamentenão ter havido a comprovação, pelo devedor, de sua insuficiência patrimonial, o que obstou o afastamento da exigência de garantia (e-STJ fl. 2.081).
+Importante acrescentar, em adição à decisão embargada, que consta da sentença que, na hipótese dos autos, "não houve penhora a garantir, ainda que parcialmente, o juízo da execução"e que"a presente situaçãonão se confunde com a insuficiência de garantia, caso em que é admitido o processamento dos embargos, sendo oportunizado o reforço no curso da demanda" (e-STJ fl. 2.009).
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela)caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
