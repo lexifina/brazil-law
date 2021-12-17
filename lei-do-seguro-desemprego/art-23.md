@@ -1,1 +1,1 @@
-Art. 23. Compete ao Ministério do Trabalho a fiscalização do cumprimento do Programa de Seguro-Desemprego e do abono salarial.
+Art. 23. Compete ao Ministério do Trabalho e Previdência a fiscalização do cumprimento do Programa de Seguro-Desemprego e do abono salarial, bem como do pagamento, pelas empresas, da bolsa de qualificação profissional de que trata o art. 2º-A desta Lei, ou de benefícios de programas instituídos para promover a manutenção de empregos ou a qualificação de trabalhadores, custeados com recursos do FAT.
