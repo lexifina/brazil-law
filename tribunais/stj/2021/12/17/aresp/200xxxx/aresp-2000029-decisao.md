@@ -1,0 +1,38 @@
+DECISÃO
+Da leitura da minuta de agravo de instrumento constante dos autos, pode-se inferir queAMÉRICO RIBEIRO DE FREITAS (AMÉRICO) ajuizou ação de prestação de contas em face deBANCO BRADESCO S/A (BANCO), buscando a prestação de contas de conta corrente junto à instituição financeira.
+A primeira fase da demanda foi julgada procedente, determinando-se que o BANCO prestasse as contas no prazo de 48 horas.
+A sentença de segunda fase reconheceu a existência de saldo credor a favor de AMÉRICO.
+Iniciado o cumprimento de sentença por AMÉRICO, foi impugnado pelo BANCO, que alegouequívocos nos cálculos apresentados, bem como erros de cálculos no laudo que embasou a sentença exequenda, o que não estaria sujeito à coisa julgada, por se tratar de erro material.Os autos foram remetidos à Contadoria Judicial, para que fosse dirimida a divergência existente entre os cálculos apresentados.Ato contínuo, o julgador monocrático proferiu a decisão agravada, homologando o cálculo.
+O agravo de instrumento de BANCO foi parcialmente providopelo Tribunal de Justiça do Paraná, estando o acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE PRESTAÇÃO DE CONTAS- - CUMPRIMENTO DE SENTENÇA -SEGUNDA FASEINSURGÊNCIA CONTRA A DECISÃO QUE HOMOLOGOU OSCÁLCULOS ELABORADOS PELA CONTADORIA JUDICIAL -ACOLHIMENTO - NECESSIDADE DE REALIZAÇÃO DE NOVOSCÁLCULOS COM A OBSERVÂNCIA DOS PARÂMETROS LEGAISESTABELECIDOS NO PRESENTE - DECISÃODECISUMAGRAVADA QUE INCORREU EM -ERROR IN JUDICANDODECISÃO REFORMADA - AGRAVO DE INSTRUMENTOCONHECIDO E PARCIALMENTE PROVIDO(e-STJ, fl. 141).
+Os embargos de declaração do BANCO foram rejeitados(e-STJ, fls. 183/189).
+Inconformada, BANCO manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação dos arts. 373, II, do NCPCe 6º, VIII, do CDC, sob os fundamentos de que(1) o BANCO não se desincumbiude seu ônus de comprovar a regularidade do contrato, não havendo qualquer prova de que o pacto teve a finalidade de quitar o contrato anterior (e-STJ, fls. 242/254).
+Foram apresentadas as contrarrazões (e-STJ, fls. 198/212).
+O apelo nobre não foi admitido em virtude de intempestividade porque não comprovada a existência de feriado local(e-STJ, fls. 213/214).
+Nas razões do presente agravo em recurso especial, BANCO afirmou queo recurso deve ser considerado tempestivo, pois houve equívoco do sistema do processo eletrônico do Tribunal de Justiça do Paraná (PROJUDI) quanto ao marco inicial do prazo para interposição do recurso especial(e-STJ, fls. 230/232).
+Foi apresentada contraminuta (e-STJ, fls. 268/281).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+CONHEÇO do agravo de BANCO e passo ao julgamento do recurso especial.
+Da tempestividade do recurso especial
+A decisão agravada reconheceu a intempestividade do recurso especial ao afirmar que:
+O Recurso Especial não pode ser admitido, ante a inexistência de prova da sua tempestividade.
+Da análise dos autos, verifica-se que no dia 24.05.2021 foi expedida a intimação do acórdão recorrido (mov.21 - Embargos de Declaração). Tendo em vista que a parte recorrente não procedeu à leitura dentro doprazo de 10 (dez) dias contados da data do envio da intimação (artigo 5º, § 3º, da Lei nº 11.419/06),considera-se que a intimação se deu na data do término desse prazo, ou seja, em 03.06.2021.
+Sendo assim, o prazo para interposição de recurso passaria a fluir em 04.06.2021 e findaria em 24.06.2021. No entanto, em razão da suspensão do expediente forense, bem como o feriado local previsto no Decreto Judiciário nº 597/2020 (dias 03.06.2021 e 04.06.2021 - Corpus Christi), haveria a possibilidade de prorrogação do prazo, com a intimação se dando no dia 07.06.2021, o início do prazo recursal dia 08.06.2021 e o fim deste em 28.06.2021.
+Entretanto, para que fosse considerado o prazo prorrogado, deveria ter sido juntada, no ato da interposição do recurso, comprovação adequada da suspensão dos prazos processuais  ..  (e-STJ, fl. 213).
+BANCO afirma que:
+Nota-se que o sistema PROJUDI registrou a data de confirmação da intimação o dia 04.06.2021(sexta-feira),e não o dia 03.06.2021, como considerou a decisão agravada. Assim, o marco inicial do prazo de 15 dias para interposição do Recurso especial foi o dia 07.06.2021 (segunda-feira),como constou na própria informação do PROJUDI.
+Nesse contexto, o Agravante, de boa-fé, confiando no sistema do próprio Tribunal de Justiça do Paraná, considerou que o prazo para interposição do Recurso especial se encerraria em 25.06.2021 (sexta-feira), data em que foi feito o protocolo do recurso (doc. 2).
+Ou seja, o Agravante interpôs o Recurso especial dentro do prazo fixado pelo próprio sistema do Tribunal a quo e, pautado na boa-fé, orientou a contagem do prazo com base na data fixada pelo Judiciário como confirmação da intimação (04.06.2021).
+Por essa razão, tornou-se desnecessária a juntada de documento para comprovar a suspensão dos prazos no feriado de Corpus Christi (03.06.2021 e 04.06.2021), já que, pela informação contida no sistema, o prazo começou a correr em 07.06.2021 (segunda-feira).
+Com efeito, a informação emitida pelo sistema eletrônico gerou inequívoco prejuízo ao Agravante, na medida em que o Agravante pautou, de boa-fé, sua orientação de prazo com base na data fixada e certificada pelo Judiciário(e-STJ, fls. 228).
+Sobre o tema, esta Corte já esclareceu que, nos termos do art. 5º, §§ 1º e 3º, da Lei nº 11.419/06, que dispõe sobre a informatização do processo judicial, "considerar-se-á realizada a intimação no dia em que o intimando efetivar a consulta eletrônica ao teor da intimação, certificando-se nos autos a sua realização", sendo que a referida consulta "deverá ser feita em até 10 (dez) dias corridos contados da data do envio da intimação, sob pena de considerar-se a intimação automaticamente realizada na data do término desse prazo" (AgInt nos EDcl no AREsp 1814939/PB, de minha relatoria, TERCEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021).
+No caso, em 24/5/2021 foi expedida a intimação do acórdão recorrido, da qual não houve leitura pela parte interessada. Assim, considera-se a intimação automaticamente realizada no dia 4/6/2021, sexta-feira, contando-se o prazo do recurso especial a partir do dia útil seguinte, 7/6/2021, segunda-feira. O prazo findou-se em 24/6/2021, sendo intempestivo o recurso interposto em 25/6/2021.
+A cópia da tela do acompanhamento do processo de fl. 227(e-STJ) reforça essa contagem, pois está expresso que no dia 4/6/2021 foi confirmada a intimação eletrônica, não havendo alusão, nos espaços reservados às datas, da contagem iniciada em 7/6/2021, como defende o BANCO.
+O recurso, portanto, não merece ser conhecido.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. INTEMPESTIVIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
