@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos peloEstado do Rio Grande do Sul contra decisão que negou provimento ao recurso especial, aplicando o entendimento perfilhado nos Embargos de Declaração no REsp n. 1.336.026/PE.
+O embargante alega que a decisão incorreu em omissão e/ou erro material, quanto ao andamento processual do Recurso Especial n. 1.336.026/PE, já que pendente de julgamento dos embargos de declaração opostos pela União.
+Requer, dessa forma, o sobrestamento deste recurso especial até o julgamento definitivo do Recurso Especial n. 1.336.026/PE.
+Sem impugnação.
+É o relatório.
+Não há omissão a ser sanada.
+Verifica-se que, no dia 13/2/2019, a Primeira Seção do Superior Tribunal rejeitou os embargos de declaração apresentados pela União, que foi publicado no DJe do dia 21/2/2019, ocorrendo o trânsito em julgado em 24/4/2019.
+O julgado ficou assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. DEMORA OU DIFICULDADE NO FORNECIMENTO DE FICHAS FINANCEIRAS PELO ENTE PÚBLICO DEVEDOR. OMISSÃO NA FIXAÇÃO DA MODULAÇÃO DE EFEITOS. NÃO OCORRÊNCIA. DISPOSITIVOS LEGAIS EXAMINADOS. TENTATIVA DE REDISCUSSÃO DA CONTROVÉRSIA. EMBARGOS DE DECLARAÇÃO REJEITADOS, JULGADOS SOB A SISTEMÁTICA DO ART. 1.036 E SEGUINTES DO CPC/2015 E DO ART. 256-N E SEGUINTES DO REGIMENTO INTERNO DO STJ.
+1. Não assiste razão à embargante no quanto pretendido nos embargos de declaração, isto é, que seja afastada a modulação de efeitos, uma vez que o caso não se amoldaria à previsão do § 3º do art. 927 do Código de Processo Civil de 2015.
+2. A União já havia feito as mesmas alegações nas contrarrazões aos primeiros embargos declaratórios da parte autora, e todos os argumentos já foram analisados na decisão embargada.
+3. Afigura-se equivocado afirmar que o acórdão embargado foi omisso no ponto, pois manifestou-se expressamente sobre a viabilidade de modulação dos efeitos da decisão proferida em recurso especial representativo de controvérsia, sustentando que houve a revisão da tese jurídica anteriormente dominante no STJ, o que configura a hipótese do art. 927, § 3º, do CPC/2015. Tal matéria já fora examinada pelo STJ por ocasião do acórdão que fixou a modulação dos efeitos, em que se afirmou que "houve julgados posteriores ao REsp 1.340.444/RS que, em tese, trouxeram posicionamento diferente. Além disso, o julgamento proferido no REsp 1.340.444/RS foi anulado posteriormente, em razão de vício formal, estando ainda pendente de apreciação final". A parte embargada, a propósito, cita em suas contrarrazões aos embargos declaratórios, diversos precedentes julgados em 2016 e em 2017 pelo STJ, em sentido contrário ao esposado no julgamento do REsp 1.340.444/RS, o que corrobora o entendimento esposado pelo STJ no caso concreto.
+4. A coexistência de dois tipos de soluções para o mesmo problema jurídico é da própria natureza do instituto da modulação dos efeitos, pois busca-se preservar a segurança jurídica e impedir que o jurisdicionado seja surpreendido com mudanças do entendimento jurisprudencial. Foi justamente o que o STJ pretendeu resguardar neste feito. E, como explicitado pela parte embargada em suas contrarrazões aos embargos declaratórios, é justamente por força da modulação que todas as situações iguais estão recebendo o mesmo tratamento. As situações distintas são aquelas em que o trânsito em julgado ocorreu após a vigência do CPC/2015, a partir de 18/3/2016, as quais, por força de lei, devem receber tratamento diferenciado.
+Como se verifica, é bem claro o efeito prático do julgamento deste repetitivo. A modulação visa, apenas, a salvaguardar a segurança jurídica e o princípio da boa-fé dos jurisdicionados, evitando que sejam surpreendidos pela mudança na jurisprudência do STJ.
+5. Em suma, inexistiu qualquer omissão do aresto embargado quanto à análise do tema, sendo que a pretensão da ora embargante é, tão somente, manifestar dissenso, o que não é cabível em embargos de declaração.
+6. Embargos de declaração rejeitados.
+7. Recurso julgado sob a sistemática do art. 1.036 e seguintes do CPC/2015 e do art. 256-N e seguintes do Regimento Interno do STJ.
+(EDcl no REsp n. 1.336.026/PE, de minha relatoria, PRIMEIRA SEÇÃO, julgado em 13/2/2019, DJe de 21/2/2019).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
