@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de ALBERTO ASSIS RIBEIRO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul (Apelação Criminal n. 0001800-98.2020.8.12.0019).
+Em primeiro grau, o paciente foi condenado, na origem, às penas de 8 anos e 9 meses de reclusão em regime fechado e de 875 dias-multa, pela prática do crime descrito no art. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006.
+Interpostas apelações pela defesa e pela acusação, ambos os recursos foram desprovidos.
+Na dosimetria, em razão da expressiva quantidade de entorpecentes apreendida - 1 tonelada e 410g de maconha -, a pena-base foi exasperada em 3 anos de reclusão e, considerando a ocultação da droga em uma carga de ração, foi exasperada em mais 1 ano de reclusão; presente a atenuante da confissão espontânea, a pena foi diminuída em 1/6 e agravada em 1/6, diante do reconhecimento do tráfico interestadual.
+Nas razões do presente writ, a defesa alega que o paciente sofre constrangimento ilegal, tendo em vista a exasperação injustificada da pena-base em 3 anos, considerando a quantidade das substâncias apreendidas. Sustenta que a negativação de apenas uma circunstância judicial é insuficiente para elevar a pena-base em 3 anos acima do mínimo legal, ainda mais diante da natureza do entorpecente apreendido (maconha).
+Aduz ainda que não devem ser valoradas negativamente as circunstâncias do crime, porquanto a droga estava normalmente espalhada pelo baú do caminhão, porém encoberta por outros grãos, não se tratando de compartimento oculto preparado no veículo com finalidade específica de esconder drogas.
+Requer, assim, seja redimensionada a pena-base a fim de reduzi-la para próximo do mínimo legal, utilizando a fração de 1/10, e afastar a moduladora judicial das circunstâncias do crime.
+As informações foram prestadas às fls. 352-360 e 361-363.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, caso dele se conheça, pela denegação da ordem (fls. 368-373).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio
+A dosimetria da pena é o procedimento em que o magistrado, utilizando-se do sistema trifásico de cálculo, chega ao quantum ideal da pena com base em suas convicções e nos critérios previstos abstratamente pelo legislador.
+Conforme a orientação jurisprudencial do STJ, o cálculo da pena é questão afeta ao livre convencimento do juiz, passível de revisão por esta Corte somente nos casos de notória ilegalidade, para resguardar a observância da adequação, da proporcionalidade e da individualização da pena (AgRg no AREsp n. 1.843.362/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/5/2021; HC n. 405.765/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 11/10/2017; e AgRg no HC n. 524.277/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18/5/2020).
+No presente caso, o Tribunal de origem deu parcial provimento a apelação da defesa para fixar a pena-base em 9 anos de reclusão e 900 dias-multa, valorando a expressiva quantidade de entorpecentes apreendida (1 tonelada e 410g de maconha) e considerando a ocultação da droga em uma carga de ração. Para tanto, adotou a seguinte fundamentação (fls. 341-342):
+Como acima consignado, ALBERTO transportava 1 tonelada e 410 gramas de maconha, ocultados em uma carga de ração.
+Pela quantidade de droga traficada, a pena foi exasperada em 3 anos de reclusão (f.234), o que não merece reparos.
+Aqui foi contemplado de forma ampla o artigo 42, da Lei 11.343/2006, considerando que deve ser haver diferenciação entre os pequenos traficantes e aqueles que manipulam grande quantidade de droga.
+Saliente-se que tal quantidade de droga atinge o bem jurídico protegido de forma muito mais intensa, o que exige a aplicação de patamar maior do que 1/10, ao contrário do que pretende ALBERTO por meio de seu recurso.
+ ..
+Destaca-se ainda que o vetor das circunstâncias do delito também foi negativado, considerando a ocultação da droga, de modo a dificultar a fiscalização.
+Desta forma, mantida a pena-base fixada em 9 anos de reclusão e 900 dias-multa.
+Na primeira fase da dosimetria da pena, nos termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias judiciais do art. 59 do Código Penal e podem justificar a exasperação da pena-base.
+Assim, com base no princípio do livre convencimento motivado, o julgador poderá concluir pela necessidade de exasperação e escolher a fração que considerar razoável para aplicar ao caso concreto.
+Por esse motivo, a revisão da dosimetria da pena pelo Superior Tribunal de Justiça só é admitida em situações excepcionais de manifesta ilegalidade ou de abuso de poder que possam ser aferidas de plano, sem necessidade de dilação probatória (AgRg no REsp n. 1.492.977/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 24/3/2021; e AgRg no HC n. 644.934/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/3/2021, destaquei).
+Ressalte-se que, na ausência de previsão legal, o STJ sedimentou a orientação de que a exasperação da pena-base na fração de 1/6 para cada circunstância judicial valorada negativamente atende os princípios da razoabilidade e da proporcionalidade (HC n. 458.799/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/12/2018).
+Todavia, com base no princípio do livre convencimento motivado, ainda que valorado um único vetor, considerada sua preponderância, o julgador poderá concluir pela necessidade de exasperação da pena-base em fração superior se considerar expressiva a quantidade da droga, sua diversidade e/ou natureza (art. 42 da Lei n. 11.343/2006).
+Na hipótese, de modo fundamentado, a pena-base foi exasperada em 4 anos e 400 dias-multa, com fundamento na expressiva quantidade dos entorpecente apreendido - 1 tonelada e 410g de maconha - e considerando a ocultação da droga em uma carga de ração, não evidenciando a ilegalidade suscitada pelo paciente.
+Portanto, no caso, a persuasão racional dos julgadores para majorar a pena-base para 9 anos de reclusão, em razão da expressiva quantidade de entorpecente apreendida e diante de sua ocultação, não revela flagrante ilegalidade.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus .
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
