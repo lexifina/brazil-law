@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo INSS, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+PREVIDENCIÁRIO. TEMPO RURAL E ESPECIAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. AGENTE NOCIVO RUÍDO. AGENTES QUÍMICOS. REAFIRMAÇÃO DA DER. CORREÇÃO MONETÁRIA E JUROS DE MORA.
+1. O exercício de atividade rural deve ser comprovado mediante início de prova material, complementada por prova testemunhal idônea, não sendo esta admitida exclusivamente, a teor do art. 55, § 3º, da Lei 8.213/91, e súmula 149 do STJ.
+2. É admitida como especial a atividade em que o segurado ficou exposto a ruídos superiores a 80 decibéis até 05/03/1997, em que aplicáveis concomitantemente, para fins de enquadramento, os Decretos n. 53.831/64 e 83.080/79; superiores a 90 decibéis no período de 06/03/1997 a 18/11/2003, de acordo com o Decreto nº 2.172/97, e, a partir de 19/11/2003 superiores a 85 decibéis, nos termos do Decreto 4.882/2003.
+3. A exposição a agentes químicos é prejudicial à saúde, ensejando o reconhecimento do tempo de serviço como especial.
+4. "É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir". (Tema 995 do STJ)
+5. A parte autora tem direito à concessão da aposentadoria por tempo de contribuição, a contar da DER reafirmada para a data do implemento dos requisitos.
+6. A utilização da TR como índice de correção monetária dos débitosjudiciais da Fazenda Pública, prevista na Lei 11.960/2009, foi afastada pelo STF no julgamento do Tema 810, através do RE 870947, com repercussão geral, o que restou confirmado, no julgamento de embargos de declaração por aquela Corte, sem qualquer modulação de efeitos.
+7. O Superior Tribunal de Justiça, no REsp 1495146, em precedente também vinculante, e tendo presente a inconstitucionalidade da TR como fator de atualização monetária, distinguiu os créditos de natureza previdenciária, em relação aos quais, com base na legislação anterior, determinou a aplicação do INPC, daqueles de caráter administrativo, para os quais deverá ser utilizado o IPCA-E.
+8. Na hipótese de não implementação do benefício, os juros de mora incidem uma única vez, até o efetivo pagamento do débito, segundo o percentual aplicado à caderneta de poupança.
+Não houve Embargos de Declaração.
+A parte recorrente alega que houve violação, em preliminar, do art. 1.022, II, do CPC/2015; e, no mérito, dos arts. 85, caput, e 927, III, do CPC/2015, e 389 do CC/2002.
+Em suma, requer a reforma do acórdão para afastar a condenação em honorários advocatícios.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9.12 .2021.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia.
+Ademais, não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+No mais, cumpre esclarecer que o Superior Tribunal de Justiça firmou o entendimento no julgamento do Tema 995, sob o rito dos recursos repetitivos, de que "é possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir".
+Veja-se a ementa do referido julgado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO.
+1. O comando do artigo 493 do CPC/2015 autoriza a compreensão de que a autoridade judicial deve resolver a lide conforme o estado em que ela se encontra. Consiste em um dever do julgador considerar o fato superveniente que interfira na relação jurídica e que contenha um liame com a causa de pedir.
+2. O fato superveniente a ser considerado pelo julgador deve guardar pertinência com a causa de pedir e pedido constantes na petição inicial, não servindo de fundamento para alterar os limites da demanda fixados após a estabilização da relação jurídico-processual.
+3. A reafirmação da DER (data de entrada do requerimento administrativo), objeto do presente recurso, é um fenômeno típico do direito previdenciário e também do direito processual civil previdenciário. Ocorre quando se reconhece o benefício por fato superveniente ao requerimento, fixando-se a data de início do benefício para o momento do adimplemento dos requisitos legais do benefício previdenciário.
+4. Tese representativa da controvérsia fixada nos seguintes termos:
+É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+5. No tocante aos honorários de advogado sucumbenciais, descabe sua fixação, quando o INSS reconhecer a procedência do pedido à luz do fato novo.
+6. Recurso especial conhecido e provido, para anular o acórdão proferido em embargos de declaração, determinando ao Tribunal a quo um novo julgamento do recurso, admitindo-se a reafirmação da DER.
+Julgamento submetido ao rito dos recursos especiais repetitivos.
+(REsp 1.727.063/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 02/12/2019) (Grifei).
+Contudo, quanto aos honorários advocatícios, o Tribunal a quo assim se pronunciou sobre a questão:
+Do que decorre dos julgamentos relacionados ao Tema 995 (EDcl no RESp n. 1.727.063), não há, como regra, incidência de honorários advocatícios ou juros (grifo):
+"Omissão quanto ao ônus da sucumbência não há, posto que foi definido que haverá sucumbência se o INSS opuser-se ao pedido de reconhecimento de fato novo, hipótese em que os honorários de advogado terão como base de cálculo o valor da condenação, a ser apurada na fase de liquidação, computando-se o benefício previdenciário a partir da data fixada na decisão que entregou a prestação jurisdicional.
+Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV. No caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirão, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, embutidos no requisitório de pequeno valor."
+Entretanto, a Turma tem decidido (5034845-67.2018.4.04.9999) que "o afastamento da condenação do INSS ao pagamento da verba honorária somente teria amparo caso o único objeto da demanda fosse o pleito de reafirmação da DER. No entanto, no presente caso, há pedido de reconhecimento de tempo de contribuição, contra o qual a autarquia se insurgiu, dando, assim, causa ao ajuizamento da presente demanda, pelo que devidos os honorários de sucumbência".(fls. 475-476, e-STJ) (Grifei).
+Verifica-se que a irresignação do recorrente acerca da sua condenação em honorários sucumbenciais, por não ter dado causa à demanda, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu ser devido o arbitramento de verba honorária sucumbencial ao INSS.
+Desse modo, reexaminar a decisão do Tribunal de origem acerca da distribuição da sucumbência implicaria violação da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Nessa linha:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NOS EMBARGOSDE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015.NÃO OCORRÊNCIA. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO).JUROS DE MORA. NÃO INCIDÊNCIA. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1- Quanto à mora, é sabido que a execução contra o INSS possui doistipos de obrigações: a primeira consiste na implantação do benefício, asegunda, no pagamento de parcelas vencidas a serem liquidadas e quitadaspela via do precatório ou do RPV. No caso de o INSS não efetivar aimplantação do benefício, primeira obrigação oriunda de sua condenação, noprazo razoável de até quarenta e cinco dias, surgirão, a partir daí,parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver afixação dos juros, embutidos no requisitório de pequeno valor.
+2. Quanto à condenação em honorário, oreexame de matéria de prova é inviável em sede de recursoespecial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no REsp 1946109/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/11/2021) (Grifei)
+Diante do exposto, conheço parcialmente do Recurso Especial, apenas em relação à preliminar de ofensa ao art. 1.022 do CPC/2015, e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
