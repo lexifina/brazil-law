@@ -1,0 +1,37 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelaUNIÃOcontra acórdão prolatado, por unanimidade, pela 2ª Turma do Tribunal Regional Federal da 1ª Região em julgamento de apelação, assim ementado (fl. 281e):
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO REFERENTE AO PERCENTUAL DE 11,98%. BASE DE CÁLCULO. LIMITAÇÃO TEMPORAL. INCLUSÃO INDEVIDA DE RUBRICAS. HONORÁRIOS. PAGAMENTO ADMINISTRATIVO.
+1. No que se refere à incidência do percentual, a base de cálculo deve ser a remuneração, incluídas as parcelas remuneratórias atreladas ao vencimento básico do servidor, além daquelas de natureza permanente, as quais, igualmente, compõem a remuneração, tais como gratificações, quintos/décimos, vantagens pessoais, bem como adiantamentos de férias e de gratificação natalina.
+2. Contudo, se faz necessário ressaltar que, os juros moratórios e a correção monetária sobre os referidos adiantamentos, conforme a jurisprudência deste Tribunal, devem ser computados a partir do respectivo mês de competência em que legalmente devidos e não a partir da data em que efetivado o pagamento.
+3. A base de cálculo para apuração dos honorários deverá ser o montante integral do que seria devido aos exeqüentes, de acordo com o título executivo, devendo ser computados, portanto, os valores pagos administrativamente.
+5. Condenação em honorários (relativos aos presentes embargos à execução) no valor de R$ 2.000,00 (dois mil reais), considerando o baixo grau de complexidade e repetitividade da demanda, com base no art. 20, §4º, do CPC.
+6. Apelação parcialmente provida.
+Opostos embargos de declaração, foram parcialmente acolhidos consoante fundamentos resumidos na seguinte ementa (fl. 319e):
+EMBARGOS DE DECLARAÇÃO. EMBARGOS A EXECUÇÃO. PERCENTUAL 11,98%. LIMITAÇÃO TEMPORAL. SERVIDOR PÚBLICO. ACÓRDÃO. OMISSÃO QUANTO À LIMITAÇÃO TEMPORAL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE.
+1. Os embargos de declaração são cabíveis, a teor do art. 1.022, do CPC/2015, quando houver na sentença ou no acórdão, obscuridade, contradição ou for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal.
+2. No tocante à discussão em torno da limitação temporal da incidência do percentual de 11,98%, até dezembro de 1996, prevista na ADI 1.797, de 13/10/2000, o Supremo Tribunal Federal, na ADI 2.323, de 20/4/2001, declarou superado o entendimento, quanto aos limites temporais estabelecidos na ADI 1.797, em relação aos servidores.
+3. Embargos de declaração acolhidos em parte tão somente para sanar a omissão no bojo da fundamentação sem alteração do teor do dispositivo do voto condutor do acórdão.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+(i) Art. 535, I e II, do CPC/73 - " .. verifica-se que o TRF se omitiu quanto ao fato demonstrado pela União,no sentido de que não é possível a incidência do índice de 11,98%, a partir de fevereiro de 1995, o que, contudo, não foi enfrentado, não colaborando o acórdão que apreciou os aclaratórios para o aprofundamento das questões debatidas (questionadas), apenas acelerando o trâmite processual." (fl. 331e). " .. verifica-se que o acórdão do TRF também foi omisso em relação a alegação de ausência de documentos para a elaboração de cálculos de determinados exequentes, matéria que foi suscitada desde a inicial e reiterada até os embargos de declaração" (fl. 331e); e
+(ii) Arts. 876 e 884 do CC/02 - " .. a partir de 19/01/1995, com o Decreto Legislativo nº 7, do Congresso Nacional, tornou-se inadmissível a reposição de 11,98% continuar incidindo de fevereiro de 1995em diante, no que concerne às noticiadas rubricas, sob pena de aproveitamento de dupla correção monetária, ora pela URV, ora pela nova tabela do Poder Legislativo, que passou a orientar seus cálculos, no caso dos servidores do Tribunal de Contas da União" (fls. 332/333e). " .. a incidência do reajuste de 11,98% em período posterior a janeiro de 1995 configura duplicidade de pagamento, ou, se melhor entender, bis in idem" (fl. 333e).
+Com contrarrazões (fls. 314/336e), o recurso foi admitido (fls. 356/357e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, § 1º-A, do Código de Processo Civil, o Relator está autorizado, por meio de decisão monocrática, a dar provimento ao recurso quando o acórdão recorrido estiver em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Assiste razão à UNIÃO quanto à violação ao art. 535, II, do Código de Processo Civil.
+A Recorrentesustenta a existência de omissão no acórdão recorrido não suprida no julgamento dos embargos de declaração, porquanto o tribunal de origem teria deixado de manifestar-se acerca da questão de ordem pública relacionada à falta de documentos necessários à realização dos cálculos de liquidação referentes às Recorridas Adolair Jardim Vellasco e Aracy Sanz de Abreu e Lima.
+Observo tratar-se de questões relevantes, oportunamente suscitadas e que, se acolhidas, poderiam levar o julgamento a um resultado diverso do proclamado. Ademais, a não apreciação das teses, à luz dos dispositivos constitucional e infraconstitucional indicados a tempo e modo, impede o acesso à instância extraordinária.
+Caracterizadas, portanto, as omissões, como o demonstram os seguintes arestos:
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS. ART. 535 DO CPC. EXISTÊNCIA DE OMISSÃO NÃO SANADA. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Necessidade da análise de questão relacionada à decadência do direito de anulação do ato de demarcação das terras de marinha no Município de Joinville, por ter sido a ação ajuizada mais de cinco anos depois da homologação do procedimento administrativo que determinou a linha preamar média de 1831.
+3. Recurso especial da UNIÃO provido.
+4. Recurso especial de H CARLOS SCHNEIDER S/A COMÉRCIO INDÚSTRIA prejudicado.(REsp 1.343.519/SC, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 12/11/2013, DJe 20/11/2013)
+PROCESSUAL CIVIL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Recurso especial provido.(REsp 1213515/RS, Rel. Ministra DIVA MALERBI - DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO, SEGUNDA TURMA, julgado em 13/11/2012, DJe 23/11/2012)
+No mesmo sentido, as seguintes decisões monocráticas: REsp 1.529.187/RS, Rel. Min. Napoleão Nunes Maia Filho, DJe de 01.06.2015; REsp 1.444.331/ES, Rel. Min. Benedito Gonçalves, DJe de 18.05.2015; REsp 1.502.033/MG, Rel. Min. Sérgio Kukina, DJe de 05.06.2015.
+Posto isso, com fundamento no art. 557, § 1º-A, do Código de Processo Civil,CONHEÇO E DOU PROVIMENTO ao Recurso Especial, para determinar o retorno dos autos ao tribunal a quo, a fim de que sejam supridas as omissões indicadas.
+Prejudicada a análise das demais questões trazidas no especial.
+Publique-se e intimem-se.
