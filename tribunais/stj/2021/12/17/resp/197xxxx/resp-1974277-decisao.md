@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alínea"a", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 463):
+ILEGITIMIDADE PASSIVA PARA RESTITUIÇÃO DA COMISSÃO DE CORRETAGEM - Desacolhimento - Responsabilidade solidária perante os consumidores - Preliminar rejeitada. INDENIZATÓRIA - Compromisso de compra e venda - Atraso na entrega da obra - Procedência parcial do pedido - Inconformismo de ambas as partes - Acolhimento parcial - Legalidade do prazo de tolerância - Atraso que perdurou de 26/8/2011 a 24/11/2012 - Atualização do saldo devedor - Substituição do INCC pelo IGP-M - Lucros cessantes configurados - Impossibilidade de cumulação de cláusula penal moratória com lucros cessantes - Abusividade da comissão de corretagem - Restituição simples - Danos morais configurados - Quantum fixado em 10.000,00 - Sentença reformada em parte para alterar o período da mora, autorizar a atualização do saldo devedor, fixar indenização por lucros cessantes, excluir a multa moratória e a devolução em dobro da comissão de corretagem, condenar a ré em danos morais - Recursos providos em parte. Preliminar rejeitada e recursos providos em parte.
+Nas razões apresentadas (e-STJ fls. 475/493), a recorrente aponta violação:
+(a) do art. 206, § 3º, IV e IV,do CC/2002, ante o implemento da prescrição trienal da pretensão de ressarcimento do recorridoquanto à comissão de corretagem,
+(b) dos arts. 393, 396, 927, parágrafo único,e 945 do CC/2002,pois existiria força maior ou caso fortuitoa justificar o atraso na entrega da obra e, por consequência, excluiro seu dever de indenizar a parte recorrida,
+(c) do art. 5º, X, da CF,tendo em vista que o mero atraso na entrega da obra não justificaria a condenação por danos morais, e
+(d) dos arts. 5º, II, da CF,421 e 422 do CC/2002 e 927, III, do CPC/2015,argumentando que seria válido o repasse da responsabilidade pelo pagamento da comissão de corretagem ao adquirentedo imóvel, ante a concretização do negócio ea comprovação de sua ciência sobre a transferência do encargo em debate.
+Foram apresentadas contrarrazões (e-STJ fls. 539/553).
+O recurso foi admitido na origem (e-STJ fls. 555/558).
+É o relatório.
+Decido.
+Inviável a análise de ofensa a dispositivos constitucionais em sede de recurso especial, sob pena de usurpação da competência da Suprema Corte.
+A propósito:AgInt no REsp n. 1.542.764/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/9/2016, DJe 22/9/2016.
+A Corte local não se manifestou quanto aos arts.206, § 3º, IV e IV, 393, 396, 421,422 e 945do CC/2002 e 927, III, do CPC/2015. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+A Justiça local reconheceu que houve atraso na entrega das obras, sob os seguintes fundamentos (e-STJ fls. 464/465):
+No caso dos autos, embora o D. Magistrado tenha reconhecido o atraso na entrega da obra, de rigor retificar o prazo da mora da ré.
+Isso porque é patente a abusividade da cláusula contratual que prevê que o término das obras "é de 18 (dezoito) meses contados a partir da assinatura do contrato a ser firmado entre a VENDEDORA, O COMPRADOR e a Caixa Econômica Federal" (v. Item V - fls. 50), ou seja, após a realização do financiamento bancário, por representar desvantagem exagerada ao consumidor, devendo ser declarada nula nos termos do art. 51, inc. IV, do Código de Defesa do Consumidor.
+(..)
+Destaca-se, no entanto, que não há ilegalidade no prazo de tolerância (v. Cláusula Vigésima Oitava - fls. 59), nos termos da Súmula 164 deste Egrégio Tribunal de Justiça. Nesse contexto, deve-se adotar a interpretação mais favorável ao consumidor, qual seja, o prazo de 18 (dezoito) meses a contar da assinatura do contrato (26/8/2009 - v. fls. 64), incluído o prazo de tolerância de 180 dias (fls. 59), tendo como termo final a data de 26/8/2011. No caso, constata-se que o descumprimento contratual da ré perdurou até 24/11/2012, data do recebimento do imóvel (v. fls. 244). Note-se, aliás, que tal termo não foi impugnado especificamente pelo autor em réplica.
+Ultrapassar as conclusões do acórdão impugnado, para descaracterizar a mora contratual da recorrente na entrega do empreendimento e, por consequência, excluir o seu dever de indenizar orecorrido, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
