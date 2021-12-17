@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NA ORIGEM. NÃO OCORRÊNCIA. FATO NOVO. RECURSO ESPECIAL NÃO CONHECIDO NO PONTO.
+1.O Colegiado regional prestou, de forma fundamentada, a jurisdição que lhe foi postulada. Sendo assim, não há falar em omissão. O fato de o Tribunala quohaver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura nenhum dos vícios de embargabilidade descritos na norma legal.
+2. Fato superveniente só pode ser considerado na hipótese de conhecimento do recurso especial, o que não ocorreu no tópico meritório (questão constitucional).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado pela Fazenda Nacional contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão,negar-lhe provimento(tema de fundo: ICMS na base de cálculo do PIS e da Cofins).
+A agravante insiste na negativa de prestação jurisdicional na origem (renunciando aos outros aspectos do recurso especial).
+Aduz que:
+ ..  não tivesse o Tribunal a quo se omitido quanto ao pedido de sobrestamento do feito ao julgar os embargos de declaração, ou sobre as razões para escolher o ICMS destacado na nota como o ICMS a ser excluído da base de cálculo da contribuição ao PIS e da COFINS (razões essas que somente foram explicitadas pelo STF no julgamento acima noticiado, em 13.05.2021), o feito poderia ser, agora, julgado em conformidade com o entendimento finalmente consolidado do STF em sua inteireza.".
+Sustenta ainda a ocorrência de fato novo, devendo ser adequado o julgado aoentendimento firmado no RE n. 574.706/PR.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NA ORIGEM. NÃO OCORRÊNCIA. FATO NOVO. RECURSO ESPECIAL NÃO CONHECIDO NO PONTO.
+1.O Colegiado regional prestou, de forma fundamentada, a jurisdição que lhe foi postulada. Sendo assim, não há falar em omissão. O fato de o Tribunala quohaver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura nenhum dos vícios de embargabilidade descritos na norma legal.
+2. Fato superveniente só pode ser considerado na hipótese de conhecimento do recurso especial, o que não ocorreu no tópico meritório (questão constitucional).
+3. Agravo interno a que se nega provimento.
+VOTO
+Não há omissão no acórdão recorrido, que bem afirmou (grifos acrescidos):
+Cumpre registrar, de início, que a pendência do julgamento de embargos de declaração, bem como a pendência de decisão da Corte Suprema acerca do pedido de modulação dos efeitos da decisão proferida no RE 574.706/PR, não obsta a aplicação, no âmbito deste Regional, da tese firmada no Tema n.º 69 pelo STF, na medida em que, consoante jurisprudência pacífica do Supremo Tribunal Federal, o início da eficácia do provimento se dá com a publicação da ata de julgamento do acórdão paradigma (o que, na hipótese do Tema n.º 69, ocorreu em 29/09/2017), a exemplo dos seguintes julgados: Rcl 20160 MC/BA, Rel. Ministro Celso de Mello, DJE 05/06/2015; Ag Reg na Reclamação n.º 6.999/MG, Rel. Ministro Teori Zavaski, Plenário, unânime, DJE 07/11/2013; e Rcl 3.046/MG, Rel. Min. ELLEN GRACIE, DJE 04/05/2012.
+Na mesma linha, aliás, é o entendimento que tem sido adotado por este Regional em situações análogas, de que são exemplo, entre outros, os seguintes julgados: AG 5007892-90.2018.4.04.0000, TERCEIRA TURMA, Relator ROGERIO FAVRETO, juntado aos autos em 23/05/2018; AG 5063936-66.2017.4.04.0000, TERCEIRA TURMA, Relatora VÂNIA HACK DE ALMEIDA, juntado aos autos em 16/05/2018; TRF4 5029141-70.2014.4.04.7200, VICE-PRESIDÊNCIA, Relator CARLOS EDUARDO THOMPSON FLORES LENZ, juntado aos autos em 01/12/2016.
+Não há falar, portanto, em manutenção do sobrestamento do feito nesta instância, na medida em que, publicado o Tema n.º 69 pelo STF, seu efeito é vinculante em relação aos julgamentos proferidos nesta Corte.
+Com efeito, não tem razão a agravante quanto à suscitada nulidade do julgamento dos declaratórios pelo Tribunala quo.
+Da análise das decisões proferidas nos autos, verifica-se que o Colegiado local assentou a exclusão do ICMS destacado na nota fiscal, em detrimento do efetivamente recolhido, com base nos fundamentos constantes do voto condutor proferido pela MinistraCármen Lúcia no julgamento do RE n. 574.706/PR e, ainda, mediante análise da base de cálculo das contribuições em questão.
+Nessa toada, ausente a violação dos arts. 489, § 1º, V, e 1.022, II, do CPC, pois " ..  a Corte de Origem bem exprimiu a forma de execução do julgado (seu critério de cálculo), consignando expressamente que o paradigma julgado em repercussão geral pelo STF entendeu que o ICMS a ser excluído é aquele destacado nas notas fiscais. Igualmente houve manifestação da Cortea quoquanto à impossibilidade de discussão das alegações de validade do critério de liquidação pretendido pelo Fisco por entender que tais pontos integram o mérito da matéria decidida e analisada pelo STF no RE 574.706" (AgInt no AREsp n. 1.527.782/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 24/9/2019).
+Dessa forma, o Colegiado regional prestou, de forma fundamentada, a jurisdição que lhe foi postulada, não havendo falar em omissão. O fato de o Tribunala quohaver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura nenhum dos vícios de embargabilidade descritos na norma legal.
+Quanto ao fato novo (julgamento posterior pelo Supremo e modulação dos efeitos da decisão), o ente público deve utilizar-se das vias próprias, porquanto de omissão não há falar. O julgamento com base em repercussão geral ou recurso repetitivo (antes do trânsito) é uma recomendação do próprio STF e do STJ, tendo o Colegiado de origem cumprido seu ofício jurisdicional.
+Ademais, a jurisprudência é uníssona no sentido de que fato superveniente só pode ser considerado na hipótese de conhecimento do recurso especial, o que não ocorreuno tópico meritório (questão constitucional).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
