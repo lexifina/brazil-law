@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário interposto com fundamento no art. 105, II, "b", da CFcontra acórdão do Tribunal de Justiça do Rio Grande do Sul.
+Alega a parte recorrente, em resumo, que a Administração, ao promover contratações temporárias, demonstrou haver interesse e necessidade em relação à contratação.
+Afirma, ainda, que não pretende violar a ordem de classificação, porque a quantidade de contratações temporárias que foi praticada pela recorrida é suficiente para nomear todos os aprovados mais bem classificados que a impetrante.
+Contrarrazões (e-STJ fls. 1.835/1.844).
+Parecer do MPF opinando pelo não provimento do recurso (e-STJ fls. 1.853/1.859).
+Passo a decidir.
+Entendo que o recurso não deve ser provido.
+A Corte Especial deste Superior Tribunal passou a seguir a orientação firmada pelo Supremo Tribunal Federal, no julgamento do RE 837.311/PI, compreendendo que:
+ ..  o surgimento de novas vagas ou a abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no edital, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da administração, caracterizada por comportamento tácito ou expresso do Poder Público capaz de revelar a inequívoca necessidade de nomeação do aprovado durante o período de validade do certame, a ser demonstrada de forma cabal pelo candidato.(Tema 784/STF) (AgInt no RE nos EDcl no AgInt no RMS 48.056/RJ, rel. Ministro Humberto Martins, Corte Especial, DJe 15.9.2017).
+Sobre a matéria discutida, em questão semelhante à que agora examinamos, recentemente esta Corte entabulou o seguinte precedente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. APROVAÇÃO EM CADASTRO DE RESERVA. PRETENSÃO DE NOMEAÇÃO. PRE""TERIÇÃO POR CONTRATAÇÃO TEMPORÁRIA. EXISTÊNCIA DE VAGAS. ILEGALIDADE DA CONTRATAÇÃO. FALTA DE COMPROVAÇÃO. ARGUMENTO TRAZIDO SOMENTE NAS RAZÕES DO AGRAVO INTERNO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. A teor do RE 837.311/PI, julgado sob o regime da repercussão geral, como regra o candidato aprovado em cadastro de reserva não é titular de direito público subjetivo à nomeação, não bastando para a convolação da sua expectativa o simples surgimento de vagas ou a abertura de novo concurso, antes exigindo-se ato imotivado e arbitrário da Administração Pública.
+2. Para que a contratação temporária configure-se como ato imotivado e arbitrário, a sua celebração deve deixar de observar os parâmetros estabelecidos no RE 658.026/MG, também julgado sob a sistemática da repercussão geral, bem como há de haver a demonstração de que a contratação temporária não se destina ao suprimento de vacância existente em razão do afastamento temporário do titular do cargo efetivo e de que existem cargos vagos em número que alcance a classificação do candidato interessado.
+3. No caso, a instrução processual, ônus da impetrante, não revelou prova inequívoca pré-constituída (1) de cargo público vago; (2) de que as contratações temporárias ocorreram em substituição ao provimento efetivo de cargo público e (3) de preterição arbitrária e imotivada por parte da Administração.
+4. No que se refere à afirmação da agravante de que todas as contratações foram irregulares, haja vista o julgamento da ADI 5267, verifica-se que a alegação constitui verdadeira inovação recursal, porquanto não apresentada nas razões do mandado de segurança, nem do recurso ordinário. Como se sabe, a preclusão consumativa impede a análise da referida questão em sede de agravo interno.
+5. Agravo interno não provido.
+(AgInt no RMS 66.465/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 11/10/2021, DJe 18/10/2021) (Grifos acrescidos)
+No particular, embora a impetrante demonstre que houve contratações temporárias, não é o suficiente para convolar sua expectativa de nomeação em direito subjetivo.
+Assim como no precedente supracitado, no particular, não se revelou prova inequívoca pré-constituída (1) de cargo público vago; (2) de que as contratações temporárias ocorreram em substituição ao provimento efetivo de cargo público e; (3) de preterição arbitrária e imotivada por parte da Administração.
+Além disso, se direito à nomeação existisse, ele só poderia ser alegado após o prazo de validade do concurso, porque "dentro do prazo de validade do concurso, a Administração poderá escolher o momento no qual se realizará a nomeação" (STF, RE 598.099. Tribunal Pleno. rel. MinistroGilmar Mendes. Publicado em 3.10.2011).
+Nesse mesmo sentido é a orientação desta Corte (AgInt no RE no AgInt no RMS 62.583/MG, rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 01/12/2020, DJe 07/12/2020).
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário.
+Publique-se. Intimem-se.
