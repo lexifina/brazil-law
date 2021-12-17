@@ -1,0 +1,20 @@
+DECISÃO
+PROCESSUAL CIVIL. TÍTULO EXECUTIVO. FAZENDA PÚBLICA. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AGRAVO EM RECURSO ESPECIAL.OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto por LUCIANA ESKEFF FREITAS, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO. TÍTULO JUDICIAL. FAZENDA PÚBLICA.LIQUIDAÇÃO. DIFERENÇA DE URV. IMPOSTO DE RENDA.
+1. Se, na fase de conhecimento, foi decidido que a base de cálculo do Imposto de Renda é integrada pelo valor da diferença de URV, conforme o regime de competência (mês a mês), descabe na liquidação alterar, a fim de ser a diferença considerada parcela autônoma. Violação da coisa julgada (CPC/1973, art. 475-G; CPC/2015, art. 509, § 4º).
+2. Recurso provido(fls. 182).
+2. Os embargos de declaração opostos foram rejeitados (fls. 227/230).
+3. Nasrazões do seurecurso especial (fls. 240/265), a parte agravante sustenta violação dos arts.489,II e § 1º,IV, 504, 509, § 4º, e 1.022 do CPC/2015, 521do Decreto n.85.450/1980, 46 da Lei n.8.541/1992 e12 da Lei n.7.713/1988.Argumenta, para tanto: (a) a negativa de prestação jurisdicional, diante da ausência de manifestação sobre o art. 504 do CPC/2015; (b) a parte dispositiva é que faz coisa julgada, de modo que, na hipótese dos autos, é possível o debate acerca da metodologia de cálculo em liquidação de sentença; (c) restou determinado, que a correta metodologia de cálculo para a fase de liquidação de sentença consiste em separar os rendimentos de URV recebidos acumulada e intempestivamente dos rendimentos normais da parte autora nas respectivas competências (fls. 252).
+4. Devidamente intimada (fls. 283), a parte agravada apresentou as contrarrazões (fls. 287/296).
+5. Sobreveio o juízo de admissibilidade negativo(fls. 303/313),fundadona(a) ausência de negativa de prestação jurisdicional; (b) incidência da Súmula 7 do STJ;razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação merece prosperar.
+8. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+9.Com efeito, a parte agravante pretende a anulação do acórdão proferido pelo Tribunal de origem em sede de embargos de declaração sob o argumento de que remanesce omisso o julgamento da controvérsia.
+10. Extrai-se dos autos que a parte agravante argumentou e requereu a manifestação expressa do órgão julgador a respeito de ofensa aoart. 504 do CPC/2015.
+11. Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+12. A falta de manifestaçãoa respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao art.1.022, II, do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+13. Prejudicada a análise das demais questões.
+14.Diante dessas considerações, conheço do agravo para dar provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que o Tribunalde origem aprecie a matéria articulada nos aclaratórios.
+15.Publique-se. Intimações necessárias.
