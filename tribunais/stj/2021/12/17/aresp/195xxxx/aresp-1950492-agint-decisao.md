@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto por Itaú Unibanco S.A. contra decisão monocrática da Presidência desta Corteque conheceu do agravo para não conhecer do recurso especial (e-STJ, fls. 227-231).
+O apelo especial foi deduzido com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado da Paraíba assim ementado (e-STJ, fls. 157-158):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PROCEDÊNCIA. INCONFORMISMO. CONSÓRCIO. AUTORA CONTEMPLADA. QUITAÇÃO DO CONTRATO. OBRIGAÇÃO DA RÉ DE REALIZAR A BAIXA DE GRAVAME SOBRE O VEÍCULO. RESOLUÇÃO Nº 320/2009 DO CONATRAN. AUSÊNCIA. COMPROVAÇÃO. ATO ILÍCITO PRATICADO. DIREITO DE PROPRIEDADE TOLHIDO. DEVER DE INDENIZAR. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO. OBSERVÂNCIA DA PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO APELO.
+- Restando comprovado o pagamento integral do contrato, cabe ao réu providenciar a baixa do gravame sobre o veículo.
+- Para que o dano moral reste caracterizado, é necessária a demonstração de uma situação que inflija no autor uma dor profunda, e não um mero dissabor, ocasionado pelos transtornos do cotidiano. Portanto, não pairam dúvidas o dever de indenizar e a configuração do dano moral, tendo em vista a falha administrativa da parte promovida ao deixar de realizar a baixa do gravame sobre veículo adquirido pelo autor, mesmo após vários meses da contemplação no consórcio.
+- Para a quantificação dos danos morais, deve-se levar em consideração a gravidade da situação de responsabilidade do promovido, revestindo-se de elevada potencialidade lesiva para o próprio setor consumerista em que atua, observando-se, porém, os critérios de proporcionalidade e razoabilidade do montante fixado.
+Em suas razões de recurso especial (e-STJ, fls. 187-191), o insurgente alegou violação aos arts. 186, 188, inciso I, e 927, todos do CC/2002, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que a simples demora da instituição financeira em providenciar a liberação do gravame de alienação fiduciária sobre o veículo junto ao órgão de trânsito não enseja, por si só, dano moral indenizável.
+O recurso especial não foi admitido pela Corte local (e-STJ, fls. 209-211).
+O insurgente então interpôs o agravo em recurso especial.
+Foi proferida decisão pela Presidência desta Casa, a qual conheceu do agravo, contudo, não conheceu do recurso especial, pelos fundamentos: a) incidência da Súmula n. 283/STF, tendo em vista a ausência de impugnação a fundamento autônomo e suficiente para manter o julgado; b) incidência da Súmula n. 7/STJ; c) falta de cotejo analítico em relação à divergência jurisprudencial.
+Em suas razões de agravo interno, defende a não incidência das súmulas, reiterando os argumentos antes alegados, bem como sustenta a necessidade de sobrestamento do feito em virtude do Tema 1.078, pendente de julgamento.
+É o relatório. Decido.
+No caso, observa-se que, de fato, a irresignação do agravante está inserida em tema afetado pelo rito dos recursos repetitivos, necessitando análise sobre o pedido de suspensão do feito, motivo pelo qual, com base no art. 259 do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC/2015, e passo à análise do recurso especial.
+Analisando os autos, constata-se que a controvérsia posta nos autos foi afetada ao rito do art. 1.036 do Código de Processo Civil de 2015, com ordem de sobrestamento, conforme acórdão da Segunda Seção, a saber:
+"Definir se o atraso na baixa de gravame de alienação fiduciária no registro de veículo automotor por parte de instituição financeira caracteriza dano moral in re ipsa" (ProAfR no REsp 1881453/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 15/12/2020, DJe 18/12/2020) - Tema 1.078/STJ.
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do Novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Veja o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais
+em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, conheço do agravo para, em juízo de retratação, determinar a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. INAPLICABILIDADE DO ART. 932, III, DO CPC/2015. 2. DANOS MORAIS. ATRASO NA BAIXA DE GRAVAME DE ALIENAÇÃO FIDUCIÁRIA. RECURSO QUE TRATA DO TEMA 1.078/STJ, AFETADO NOS TERMOS DOS ARTS. 1.036 E 1.037 DO CPC/2015, PENDENTE DE JULGAMENTO. AGRAVO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, DETERMINAR A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
