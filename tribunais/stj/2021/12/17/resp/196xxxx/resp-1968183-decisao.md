@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 1ª Região assim ementado (fl. 296, e-STJ):
+CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. POLICIAL RODOVIÁRIO FEDERAL LICENÇA PARA ATIVIDADE POLÍTICA. LEI COMPLEMENTAR 64/90. DIREITO À PERCEPÇÃO DE VENCIMENTOS INTEGRAIS. PRAZO DE DESINCOMPATIBILIZAÇÃO. IMPOSSIBILIDADE DE DESCONTO DE VALORES PAGOS NO PERÍODO. DANO MORAL. NÃO COMPROVADO. HONORÁRIOS. DIREITO INTERTEMPORAL. TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS. TEMPUS REGIT ACTUM. INCIDÊNCIA DO CPC/1973.
+Os Embargos de Declaração foram rejeitados (fls. 305-309, e-STJ).
+A parte recorrente alega violação ao art. 86 da Lei 8.112/1990. Afirma que é ilegal "o pagamento de remuneração a servidor público federal em gozo de licença para atividade política, antes do registro da candidatura" (fl. 316, e-STJ).
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos deram entrada no Gabinete em 2.12.2021.
+A irresignação não merece acolhida.
+O Tribunal de origem, soberano na análise do contexto fático-probatório produzido nos autos, assentou:
+Conforme se vê dos autos, o autor, ocupante do cargo de Motorista Oficial, enquadra-se na hipótese constante da alínea "I do inciso II c/c alínea "a" do inciso VII, do art. 1o da Lei Complementar 64/90. uma vez que é servidor público federal estatutário e se candidatou ao cargo eletivo de deputado distrital, estando sujeito ao prazo do três meses de desincompatibilização antes das eleições.
+Dessa forma, evidenciado está que o autor deveria afastar-se de seu cargo 03 (trés) meses antes das eleições, nos termos da legislação vigente, ante a necessidade de manutenção da probidade e moralidade administrativas, nos termos do art. 14, § 9o. da CF/88.
+Ora, exigir-se do servidor seu afastamento, negando-lhe a remuneração nesse período, seria ferir tanto a finalidade da norma, quando resguarda a moralidade, quanto os direitos políticos assegurados na Constituição Federal.
+A Lei Complementar 64/90 (art. 1o, inciso II, alínea T), garante os vencimentos integrais do servidor nos três meses anteriores ao pleito, independentemente de tal prazo abarcar período anterior ao registro da candidatura, prevalecendo sobre o disposto na Lei n. 8.112/90, que apenas prevê o recebimento da remuneração a partir do referido registro, visto que a lei ordinária não pode restringir o direito garantido por lei complementar, por ser norma de hierarquia inferior.
+Forçoso concluir, pois, que "é lícita a percepção de vencimentos durante o período em que o autor esteve afastado para candidatura em cargo efetivo, não cabendo restituição dos valores recebidos". Ademais, "não é passível de reposição impositiva ao erário a verba salarial recebida de boa-fé pelo servidor em virtude de erro ou mudança de entendimento da Administração, valorizando-se em tal hipótese a confiança que ele teve na regularidade do pagamento, bem assim a natureza alimentar da prestação recebida" (TRF1, REO 2007.38.07.000713-2 / MG, Relator Desembargador Federal Cândido Moraes, Segunda Turma, Data da Decisão: 27/08/2014, Datada Publicação: 16/09/2014).
+Observo que o Tribunal a quo decidiu a causa com base em argumentos constitucionais (prevalência da Lei Complementar sobre Lei Ordinária) e infraconstitucionais. No entanto, a recorrente interpôs apenas o Recurso Especial, sem discutir a matéria constitucional, em Recurso Extraordinário, perante o excelso Supremo Tribunal Federal.
+Assim, aplica-se, na espécie, o teor da Súmula 126 deste colendo Superior Tribunal de Justiça, segundo a qual "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+Nessa esteira:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL.AFASTAMENTO PARA PARTICIPAÇÃO EM CURSO DE FORMAÇÃO DE ANALISTA DE FINANÇAS E CONTROLE DA SECRETARIA DE ESTADO E PLANEJAMENTO DO DISTRITO FEDERAL. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ART. 1.032 DO CPC/2015. INAPLICABILIDADE.
+1. Tendo o acórdão recorrido fundamento constitucional, não impugnado mediante recurso extraordinário, incide, no ponto, a Súmula 126 do STJ, a qual permanece hígida, em que pese a superveniência do CPC/2015.
+2. Nos termos da jurisprudência desta Corte, a aplicação do artigo 1.032 do CPC/2015 ocorre quando há um equívoco quanto à escolha do recurso cabível. Entretanto, este não é o caso dos autos, uma vez que o acórdão recorrido tem fundamento constitucional e o recurso especial versa sobre matéria infraconstitucional. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1786575/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 10/6/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 126 DO STJ. INCIDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO.
+1. A controvérsia foi dirimida com base em fundamentos constitucionais arts. 5º, XXXVI, e 7º, VI, da CF/1988 e infraconstitucionais arts. 53 e 54 da Lei n. 9.784/1999 , sendo certo que o recorrente não interpôs, simultaneamente ao apelo especial, o recurso extraordinário, motivo pelo qual incide no caso a Súmula 126/STJ: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+2. No tocante ao segundo fundamento da decisão agravada incidência das Súmulas 282 e 356 do STF, o próprio insurgente admite a ausência de prequestionamento, motivo pelo qual o recurso também não merece provimento quanto ao ponto.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1779574/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 20/5/2021).
+A Corte de origem assentou que"não é passível de reposição impositiva ao erário a verba salarial recebida de boa-fé pelo servidor em virtude de erro ou mudança de entendimento da Administração", entretanto, o agravante não impugnou tal argumento. Dessa forma, incide o enunciado da Súmula 283/STF nesse ponto.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EMBARGOS DE TERCEIRO. PENHORA. BEM DE FAMÍLIA. AUSÊNCIA DE COMPROVAÇÃO. ACÓRDÃO QUE CONCLUIU PELA EXISTÊNCIA DE FRAUDE. FRAUDE À EXECUÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. O Tribunal de origem manteve a sentença que julgara improcedente pedido formulado em Embargos de Terceiro. Não reconheceu o imóvel penhorado como bem de família, sob os seguintes fundamentos: a) os possuidores do imóvel não seriam dele proprietários e com eles não guardariam relação de dependência econômica; e b) a transferência do imóvel foi realizada em fraude à execução, pois a própria posse que visam proteger com a impenhorabilidade é posterior à Execução Fiscal. Os agravantes deixaram de impugnar o segundo fundamento, o que caracteriza deficiência de fundamentação e atrai, por analogia, os óbices das Súmulas 283 e 284 do STF.
+IV. Tal como delineada a questão pelas instâncias ordinárias, a revisão do entendimento do Tribunal de origem - no sentido de que não se trata de bem de família o imóvel penhorado, nos autos da execução fiscal - demandaria o reexame de provas, o que é inadmissível em sede de Recurso Especial, consoante dispõe a Súmula 7/STJ.
+V. Na forma da jurisprudência, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/03/2017). Nesse sentido: STJ, AgInt no REsp 1.590.388/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/03/2017).
+VI. Agravo interno improvido.
+(AgInt no AREsp 362.360/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 24/5/2017).
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
