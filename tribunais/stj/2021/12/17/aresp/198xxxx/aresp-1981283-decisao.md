@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. APOSENTADORIA ESPECIAL. INEXISTÊNCIA DE COISA JULGADA. RECONHECIMENTO DE TEMPO DE SERVIÇO ESPECIAL. EXPOSIÇÃO A AGENTES QUÍMICOS. COMPROVAÇÃO POR PPP E LTCAT. CONCESSÃO DO BENEFÍCIO. TERMO INICIAL. DATA DO REQUERIMENTO ADMINISTRATIVO. JUROS MORATÓRIOS. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS.
+Os Embargos de Declaração foram rejeitados.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 485, V, § 3º, 502, 507 e 508 do CPC/2015. Aduz:
+A apresentação de novas provas das quais o autor supostamente não pôde fazer uso anteriormente é na verdade hipótese de ação rescisória, não de nova ação comum sobre os mesmos fatos e com o mesmo objetivo, qual seja o reconhecimento do tempo especial, não importando se o caso é de aposentadoria especial ou aposentadoria por tempo de contribuição ou se houve novo requerimento administrativo com o mesmo objeto. O reconhecimento do tempo especial é o ponto central nas duas lides e este foi expressamente rejeitado na ação transitada em julgado.
+Sem contrarrazões.
+Houve juízo de admissibilidade negativo na instância de origem, o que deu ensejo à interposição do presente Agravo.
+Contraminuta às fls. 364-375, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 10.12.2021.
+No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos:
+O juízo a quo reconheceu a existência de coisa julgada porque a presente ação possui as mesmas partes, causa de pedir e o mesmo pedido do processo nº 0524984-53.2014.4.05.8300/15ª Vara Federal/PE. Da análise da sentença proferida naquele feito, verifico que o autor pleiteou a concessão de aposentadoria especial ou de aposentadoria por tempo de contribuição a partir do requerimento administrativo (DER: 1/3/2013). O pedido foi julgado improcedente por falta de tempo de contribuição, cuja sentença transitou em julgado.
+Neste processo, o autor busca a concessão da aposentadoria (NB 176.733.063-1, DER: 21/10/2016), indeferida pelo INSS por falta de tempo de contribuição.
+Há coisa julgada quando se repete ação que já foi decidida por decisão transitada em julgado e uma ação é idêntica à outra quando possui as mesmas partes, causa de pedir e o mesmo pedido ( art. 337, §§ 2º e 4º, do CPC). No caso, não existe coisa julgada, porque os requerimentos administrativos são distintos, tratando-se de procedimentos autônomos (Processo nº 00000436720194059999, Desembargador Federal Luiz Bispo da Silva Neto (Convocado), 1ª Turma, julgamento: 17/10/2019)
+Ante o exposto, impõe-se a reforma da sentença.
+Nesse contexto, não se admite o reexame dos elementos do processo em Recurso Especial, a fim de apurar a existência ou não de coisa julgada afastada pelo Tribunal a quo, com fundamento em análise das provas colhidas nos autos. Aplica-se, portanto, o óbice da Súmula 7/STJ.A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. DOIS RECURSOS INTERPOSTOS CONTRA UMA ÚNICA DECISÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO DO SEGUNDO AGRAVO INTERNO DE FLS. 587/594. AFRONTA AO ART. 535 DO CPC/73. INOCORRÊNCIA. COISA JULGADA. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+(..)4. Conforme já consignado na decisão agravada, em sede de recurso especial, não se admite o reexame dos elementos do processo a fim de se apurar a alegada afronta à coisa julgada, em face da incidência da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 784.774/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 13.4.2018)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. COISA JULGADA. IDENTIDADE ENTRE AÇÕES. OCORRÊNCIA. EXTINÇÃO PARCIAL DO PROCESSO SEM EXAME DO MÉRITO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REQUISITOS LEGAIS. RECONHECIMENTO DO EXERCÍCIO DE ATIVIDADE ESPECIAL. CONVERSÃO DO TEMPO DE SERVIÇO ESPECIAL EM COMUM. AVERBAÇÃO. AGRAVO INTERNO. OMISSÕES. NÃO OCORRÊNCIA.
+I - Na origem, trata-se de ação ajuizada contra Instituto Nacional do Seguro Social - INSS visando à condenação do demandado a conceder a aposentadoria por tempo de serviço/contribuição. Na sentença, o processo foi julgado extinto em virtude da ocorrência da coisa julgada. No Tribunal a quo, a sentença foi parcialmente reformada.
+II - Na hipótese dos autos, o decisum foi claro no sentido de que a análise da pretensão da parte agravante encontra óbice na Súmula n. 7 deste Tribunal, especialmente no que tange ao reexame de ofensa à coisa julgada.
+(..)VIII - Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.366.151/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 10.12.2021)
+Com efeito, "a modificação da conclusão do julgado do Tribunal de origem - que entendeu configurada a litispendência e coisa julgada - exige a análise minuciosa dos elementos configuradores da litispendência entre ações (identidade de partes, de causa de pedir e do pedido), o que demanda o reexame do conjunto fático-probatório dos autos, uma vez que o conteúdo dos provimentos judiciais ordinários não nos permitem conhecer todas as características dessas ações. Incidência da Súmula 7/STJ" (REsp 1.347.280/SC, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 7/2/2014).
+Vejam-se outros precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRARIEDADE À LEI N. 12.350/2010. FALTA DE INDICAÇÃO EXPRESSA DE DISPOSITIVO LEGAL VIOLADO. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO DOS ARTS. 503 E 505 DO CPC/1973, 3º, C/C O ART. 7º, § 1º, DA LEI N. 7.713/1988 E 111 E 176 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DAS SÚMULAS 282 E 356 DO STF. OFENSA À COISA JULGADA. REVISÃO DO JULGADO. IMPOSSIBILIDADE DE EXAME. NECESSIDADE DE REVOLVIMENTO DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. ACÓRDÃO RECORRIDO ANCORADO EM TESE FIRMADA EM RECURSO REPRESENTATIVO DE CONTROVÉRSIA.
+(..)4. Na via especial não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos, por orientação da Súmula 7 do STJ. Nessa linha, resta inviável a este Tribunal avaliar o alegado desacerto da Corte local quanto à observância do postulado da coisa julgada devido à impossibilidade de superar-se o referido óbice sumular.
+(..)6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.120.692/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 30.8.2018)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. IMPOSTO DE RENDA. VERBAS RECEBIDAS ACUMULADAMENTE. REGIME DE COMPETÊNCIA. AFERIÇÃO DE VIOLAÇÃO À COISA JULGADA. IMPOSSIBILIDADE NA HIPÓTESE. SÚMULA Nº 7 DO STJ.
+(..)2. O acórdão recorrido afirma expressamente que não ocorreu ofensa à coisa julgada na hipótese, consoante o seguinte fundamento: (fls. 834 e-STJ): (..) Não ocorreu coisa julgada, pois o objeto da presente demanda é indenização, por descumprimento de preceito constitucional pelo Município; na outra, pleiteava direitos trabalhistas. (..) Assim, não é possível, no caso específico, infirmar a conclusão do acórdão recorrido no sentido da não ocorrência de coisa julgada na hipótese, eis que na hipótese a pretensão recursal demandaria revolvimento do título judicial exequendo, inviável em sede de recurso especial em razão do óbice da Súmula nº 7 desta Corte.
+3. Agravo interno não provido.(AgInt no AREsp 999.816/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 18.9.2018)
+PROCESSUAL CIVIL. LITISPENDÊNCIA. COISA JULGADA. LITIGÂNCIA DE MÁ-FÉ. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7. INCIDÊNCIA.
+(..)2. A análise da tese recursal de existência de litispendência/coisa julgada depende do reexame do conjunto fático-probatório dos autos, o que é inviável no âmbito do recurso especial. Incidência do óbice da Súmula 7.
+(..)4. Agravo interno desprovido.
+(AgInt no AREsp 872.521/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 16.2.2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO PARA CURSO TÉCNICO EM SEGURANÇA PÚBLICA DA POLÍCIA MILITAR DO ESTADO DE MINAS GERAIS. AÇÃO ANULATÓRIA E MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO QUE CONCLUIU, À LUZ DA PROVA DOS AUTOS, PELA OCORRÊNCIA DE COISA JULGADA MATERIAL. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE, NA VIA ESPECIAL, DE REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+(..)III. Na linha da jurisprudência desta Corte, "o próprio Tribunal a quo procedeu ao juízo de verificação da ocorrência de coisa julgada material e concluiu que a causa de pedir e o pedido, tanto no Mandado de Segurança quanto na Ação ordinária, são iguais e, quanto às partes, sustentou que a coisa julgada aplica-se ao ente político, o que configuraria sua identidade. Nesse caso, não há como aferir eventual violação sem que se reexaminem as provas dos presentes autos" (STJ, AgRg no AREsp 225.159/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 08/02/2013).
+IV. Portanto, a inversão do julgado, em relação à existência da coisa julgada, no caso, implicaria, necessariamente, no reexame de fatos e provas, o que é inviável, em sede de Recurso Especial, nos termos da Súmula 7 desta Corte.
+V. Agravo interno improvido.
+(AgInt no AREsp 875.549/MG, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 13.9.2018)
+No mesmo sentido: AREsp 1.899.600/CE, Rel. Min. Humberto Martins, DJe 17.8.2021; REsp 1.889.192/RJ, Rel. Min. Herman Benjamin, DJe 1º.10.2020; REsp 1.561.925/PB, Rel. Min. Benedito Gonçalves, DJe 10.8.2017.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso,conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
