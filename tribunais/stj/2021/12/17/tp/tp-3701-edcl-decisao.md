@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos declaratórios (e-STJ fls. 156/162) opostos à decisão desta relatoria que indeferiu renovação dopedido de tutela provisória de urgênciapara que fosseatribuído efeito suspensivo a recurso especial a ser interposto,sob o fundamento de que e a competência do STJpara analisar o requerimento instaura-se após o juízo de admissibilidade do apelono Tribunal de origem, nos termos do § 5º do art. 1.029 do CPC/2015.
+A recorrente alega não haver "dúvida da presença cumulativa dos requisitos e de que há aqui a competência excepcional do C. STJ, no entanto não houve fundamentação na r. decisão que ora se Embarga, o motivo de não ter havido protocolo no C. Tribunal de origem é a certeza do perecimento do direito em caso de demora no julgamento, perderá o aluguel gerado pelo Bem de Família, impenhorável que é, e isso foi como demonstrado bem frisado e exemplificado, por certo não há nenhum obstáculo cremos todos os jurisdicionados a peticionar em qualquer Tribunal do Brasil, mas como dito nunca foi requisito o obstáculo ao peticionamento, o requisito está no perecimento do direito perseguido em juízo" (e-STJ fl. 160).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os aclaratórios, em regra, não permitem rejulgamento da matéria controvertida, sendo certo que o efeito modificativo é possível apenas em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado.
+No caso concreto, não se constata nenhuma das hipóteses ensejadoras dos embargos de declaração. Ao contrário, verifica-se a mera pretensão de alterar as decisões antecedentes que, de maneira fundamentada, apontaram a incompetência desta Corte para analisar o pedido, ressaltando ainexistência de justificativa para, em caráter excepcional, autorizar a concessão da medida pleiteada.
+Ante o exposto, REJEITO os embargos declaratórios.
+Publique-se e intimem-se.
