@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado em face de acórdão assim ementado (fl. 138):
+AGRAVO EM EXECUÇÃO CRIMINAL. FALTA GRAVE. PRÁTICA DE FATO PREVISTO COMO CRIME DOLOSO. DESNECESSIDADE DE TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. ALTERAÇÃO DA DATA- BASE. PERDA DE DIAS REMIDOS.
+FALTA GRAVE. ART. 52 DA LEP. RECONHECIMENTO MANTIDO. O cometimento de fato previsto como crime doloso no curso da execução, tal qual está no art. 52, primeira parte, da LEP, constitui falta grave. Para além disso, conforme consolidado na Súmula n. 526 do Superior Tribunal de Justiça, prescindível o trânsito em julgado da sentença condenatória no processo penal, fins de caracterização da transgressão.
+ALTERAÇÃO DA DATA BASE. Reconhecida a lalta grave, imperiosa a alteração da data-base para concessão de futuros benefícios, inclusive saídas temporárias, somente não interrompendo o prazo para obtenção de livramento condicional e para Fins de comutação de pena ou indulto, nos termos das Súmulas 441 e 535, ambas do Superior Tribunal de Justiça. Consectário mantido.
+PERDA DE DIAS REMIDOS. A perda de tempo remido deve compreender tão só aquele já objeto de declaração judicial ao tempo do cometimento da falta grave. Decisão mantida, adequada a decretação da perda de 1/3 dos dias remidos, justificada no histórico carcerário do apenado.
+Agravo em execução improvido.
+Consta que o Juízo das Execuções reconheceu a prática de falta grave, consistente na prática de novo crime, com manutenção do regime fechado, perda de 1/3 dos dias remidos e alteração da data-base de benefícios.
+O agravo em execução interposto pela defesa foi desprovido pelo Tribunal de Justiça do Rio Grande do Sul.
+No presente writ, sustenta a defesa que o paciente sofre constrangimento ilegal resultante de ter sido, em razão da homologação da falta grave, alterada a data-base para fins de progressão de regime, ampliando o alcance para, além do livramento condicional, indulto e comutação, também a saída temporária e o trabalho externo.
+Assevera que os artigos 122 e 123 da Lei de Execução Penal nada dispõem acerca da alteração da data-base, decorrente de nova condenação no curso da execução da penal, sendo deslegitimada toda e qualquer interpretação extensiva da regra em desfavor do apenado.
+Argumenta que conforme entendimento do Recurso Especial Representativo de Controvérsia n.º 1.364.192/RS, "o cometimento de falta grave no curso da execução enseja a interrupção do prazo para a progressão de regime, mas não importa a recontagem do lapso temporal para a obtenção do livramento condicional e outros benefícios da execução, sob pena de ofensa ao princípio da legalidade.".
+Requer, liminarmente e no mérito, a concessão da ordem para que a data-base dos benefícios de saída temporária e trabalho externo não integrem os consectários estabelecidos em razão do reconhecimento de falta grave.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Sobre a pretensão aduzida, destaco o seguinte excerto do acórdão atacado (fls. 134/135):
+ ..  DOS CONSECTÁRIOS LEGAIS
+Reconhecida a falta grave, correta a decisão que determinou a alteração da data-base para concessão de futuros benefícios.
+Com efeito, pacificado pelas Cortes Superiores, a exemplo do que dispõe a Súmula n. 534 do STJ, o cometimento de falta grave pelo apenado interrompe a contagem do prazo para a progressão de regime de cumprimento de pena e, conforme consolidado entendimento deste Órgão Fracionário, também para a concessão dos benefícios de saída temporária e trabalho externo, reiniciando seu curso a partir da prática da infração. A baliza, portanto, reconhecida a falta grave, para contagem do novo dies a quo passa a ser fincada, na espécie, na data em que cometido o fato previsto como crime doloso - 05/02/2021.
+ ..
+Resta registrar, no aspecto, o cometimento da conduta faltosa não é causa de interrupção de prazo para obtenção do livramento condicional e para fins de comutação de pena ou indulto, nos termos, respectivamente, das Súmulas 441 e 535, ambas do Superior Tribunal de Justiça.
+Por fim, nos termos do artigo 127 da LEP, o Juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57 daquele diploma legal.
+A disposição legal cm comento já teve sua constitucionalidade assentada pela Suprema Corte quando da edição da Súmula Vinculante nº 09, in verbis:
+O disposto no artigo 127 da Lei nº 7.210/84 (Lei de Execução Penal) foi recebido pela ordem constitucional vigente, e não se lhe aplica o limite previsto no "caput" do artigo 58.
+A benesse da remição constitui mera expectativa de direito e não ofende o disposto no art. 5º, inc. XXXVI, da Constituição Federal. Isso porque os efeitos do benefício estão atrelados ao comportamento do reeducando, seu dever portar-se com disciplina no período em que se submete ao cumprimento da expiação. É, portanto, requisito essencial para a persistência dos dias remidos a inexistência de falta grave reconhecida, razão pela qual ditos efeitos da remição somente não mais poderão ser revogados quando da extinção da pena. Nessa vereda, o desvio comportamental aferido na espécie autoriza a perda do beneplácito, nos termos do art. 127 aludido, norma legal cogente, que torna a declaração da perda de dias remidos alheia à discricionariedade do julgador.
+Outrossim, filio-me ao entendimento de que a perda de tempo remido deve compreender tão só aquele já objeto de declaração judicial ao tempo do cometimento da falta grave. Nesse sentido, colaciono aresto: ..
+No caso, constata-se constrangimento ilegal a ser sanado, pois o entendimento esposado no acórdão destoa da jurisprudência desta Corte, firme no sentido de que a prática de falta grave durante o cumprimento da pena não acarreta a alteração da data-base para fins de saída temporária e trabalho externo.
+Nesse sentido:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. NÃO CONHECIMENTO. EXECUÇÃO PENAL. PRÁTICA DE FALTA DISCIPLINAR GRAVE. INTERRUPÇÃO DO PRAZO PARA AQUISIÇÃO DOS BENEFÍCIOS DA SAÍDA TEMPORÁRIA E DO TRABALHO EXTERNO. IMPOSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso ordinário. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+2. A prática de falta grave durante o cumprimento da pena não acarreta a alteração da data-base para fins de saída temporária e trabalho externo. Precedentes.
+3. Habeas corpus não conhecido. Ordem concedida de ofício. (HC 611.195/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/10/2020, DJe 15/10/2020.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. EXECUÇÃO PENAL. COMETIMENTO DE FALTA GRAVE NÃO INTERROMPE O PRAZO PARA CONCESSÃO DE TRABALHO EXTERNO E DE SAÍDAS TEMPORÁRIAS.
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. A prática de falta grave durante o cumprimento da pena não acarreta a alteração da data-base para fins de saída temporária e trabalho externo (AgRg nos EDv nos EREsp n. 1.755.701/RS, Ministro Nefi Cordeiro, Terceira Seção, DJe 19/6/2019).
+3. Agravo regimental improvido. (AgRg no REsp 1744448/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/12/2019, DJe 16/12/2019.)
+Ante o exposto, defiro liminarmente o habeas corpus para determinar que a data-base dos benefícios de saída temporária e trabalho externo não integre os consectários estabelecidos em razão do reconhecimento de falta grave.
+Comunique-se.
+Publique-se.
+Intimem-se.
