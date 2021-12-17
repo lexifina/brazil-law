@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de petição formulada por THIAGO ALVES DE OLIVEIRA (e-STJ fls. 742/744).
+Alega que "a denúncia e o aditamento foram recebidos em 03/09/2003 (e- STJ fls. 290), bem assim a sentença condenatória foi publicada em 04/05/2012 (e-STJ fls. 615). E, nos termos do artigo 109 do Código Penal, a pretensão punitiva prescreve em 8 (oito) anos, se o máximo da pena é superior a dois anos e não excede a quatro" (e-STJ fl. 742).
+Requer a extinção da punibilidade pela prescrição da pretensão punitiva.
+É o relatório.
+Decido.
+Com efeito, de acordo com a jurisprudência desta Corte, "a ocorrência da extinção da punibilidade em virtude da prescrição da pretensão punitiva estatal constitui matéria de ordem pública, que pode ser conhecida de ofício, em qualquer grau de jurisdição, nos termos do art. 61 do CPP" (AgRg no AREsp n. 1.504.204/CE, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 22/10/2019, DJe 30/10/2019).
+Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. OMISSÃO. AUSÊNCIA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA.HABEAS CORPUS DE OFÍCIO.
+1. O cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, quais sejam, ambiguidade, obscuridade, contradição ou omissão. Não é o caso dos autos.
+2.De acordo com a jurisprudência desta Corte, "a ocorrência da extinção da punibilidade em virtude da prescrição da pretensão punitiva estatal constitui matéria de ordem pública, que pode ser conhecida de ofício, em qualquer grau de jurisdição, nos termos do art. 61 do CPP" (AgRg no AREsp n. 1.504.204/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/10/2019, DJe 30/10/2019).
+3. Na hipótese, o prazo prescricional é de 4 anos, lapso temporal que transcorreu entre o recebimento da denúncia e a publicação da sentença, mesmo considerando o período de suspensão, como bem observou o Ministério Público do Estado de São Paulo.
+4. Embargos de declaração rejeitados. Concedido habeas corpus de ofício para declarar a extinção da punibilidade pela prescrição da pretensão punitiva.(EDcl nos EDcl no AgRg no AREsp 1100946/SP, de minha relatoria, SEXTA TURMA, julgado em 1º/12/2020, DJe 7/12/2020, grifei.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO RETROATIVA. OCORRÊNCIA. ART. 110, § 1º, DO CP. SENTENÇA CONDENATÓRIA. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. IMPROVIMENTO DO RECURSO DA ACUSAÇÃO. PRESCRIÇÃO REGULADA PELA PENA APLICADA.DECLARAÇÃO DE OFÍCIO. ART. 61 DO CPP. MATÉRIA DE ORDEM PÚBLICA.POSSIBILIDADE. RESTABELECIMENTO DA PENA FIXADA NA SENTENÇA CONDENATÓRIA. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO. PRECLUSÃO.AGRAVO REGIMENTAL IMPROVIDO.
+1. Nos termos do art. 110, § 1º, do CP, a prescrição, após a sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, deve ser regulada pela pena aplicada.
+2. Improvido o recurso especial do Ministério Público e transcorrido lapso temporal superior a 4 anos desde a publicação da sentença condenatória, último marco interruptivo da prescrição, configura-se a perda da pretensão punitiva estatal.
+3. Não impugnada, no presente recurso, a manutenção da minorante do § 4º do art. 33 da Lei 11.343/06, reconhecida pelo Tribunal de origem, operou-se a preclusão da matéria.
+4.A extinção da punibilidade em razão da prescrição da pretensão punitiva estatal constitui matéria de ordem pública, que pode ser conhecida de ofício, em qualquer grau de jurisdição, nos termos do artigo 61 do Código de Processo Penal(AgRg no AREsp 578.929/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 04/02/2016, DJe 22/02/2016).
+5. Agravo regimental improvido.(AgRg no REsp 1345792/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/10/2016, DJe 11/11/2016, grifei.)
+No caso,o paciente foi condenadocomo incursono art. 289, § 1º,do Código Penal, à pena de 3 anos de reclusão, em regime aberto, substituída a pena privativa de liberdade por restritiva de direitos. Para essareprimenda, a prescrição ocorre em 8anos, conforme previsto no art. 109, IV, do CP. No mesmo lapso, extinguem-se as penas restritivas de direitos (art. 109, parágrafo único, do CP).
+Portanto,recebida a denúncia em 3/9/2003 (e-STJ fl. 290), e publicada a sentença condenatória em4/5/2012 (e-STJ fl. 615), transcorreu prazo superior aos 8 anos de prescrição, nos termos do art. 117, I e IV, do CP.
+Ante o exposto, defiro o pedidopara declararextinta a punibilidade do requerenteem relação à imputação docrime previsto no art. 289, § 1º, do Código Penal, pela prescrição intercorrente da pretensão punitiva.
+Publique-se. Intimem-se.
