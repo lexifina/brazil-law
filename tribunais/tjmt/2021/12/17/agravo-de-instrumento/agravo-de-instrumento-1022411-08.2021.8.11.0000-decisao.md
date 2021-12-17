@@ -1,0 +1,20 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por SANDRA REGINA BOIM MAGGIONI e OUTRO(S), com o fito de suspender a decisão que, nos autos da Ação Reivindicatória de n. 1004176-72.2018.8.11.0040, manejada por CARMEN RUBIN e OUTRO(S), deferiu o pedido de tutela de urgência cautelar e determinou o depósito judicial do valor da locação do imóvel objeto da lide, pelo locatário.
+Para tanto, os agravantes alegam que não estão presentes os requisitos elencados no artigo 300 do CPC, razão pela qual a medida de urgência não poderia ter sido deferida, ainda mais sem que fosse realizada a prévia oitiva da parte adversa, ora agravante.
+Afirmam que exercem a posse do bem há vários anos, recolhendo impostos e praticando os demais atos com ânimo de donos, de forma que a celebração do contrato de locação decorre da posse do bem, ou seja, é direito pessoal que pode ser cedido a terceiros independentemente da titularidade da propriedade do imóvel.
+Aduzem que não paira qualquer dúvida quanto ao exercício da posse sobre o imóvel pelos agravantes, sendo certo que a sua cessão ao locatário não depende do direito de propriedade, não sendo cabível sequestrar o valor da locação do bem, sob pena de afastar, sumariamente, os agravantes da posse do bem que detêm de longa data.
+Pugnam pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, da análise da questão posta, não decorre fundamento bastante para convencer da concessão da liminar recursal pretendida.
+É que, diante da alta litigiosidade que paira sobre a propriedade do bem objeto da lide e da possibilidade de os requeridos, ora agravantes, estarem auferindo lucro decorrente do contrato de locação do imóvel, não há nenhum desacerto na decisão que tão somente determinou o depósito dos aluguéis em juízo, até que se esclareça de quem é a propriedade do bem.
+Ademais, como bem frisado pelo juízo de base, o depósito judicial do valor da locação irá favorecer tanto os requeridos, ora agravantes, como os autores, ora agravados, na medida em que estes poderão receber os lucros advindos da locação, caso se sagrem vencedores, e aqueles receberão os valores corrigidos monetariamente, se forem eles os vencedores do litígio.
+Assim, com base nessas considerações, impõe-se o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
