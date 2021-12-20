@@ -1,0 +1,3 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça japonesa solicita que se proceda à notificação de JOSÉ ROBERTO DOS SANTOS para conhecimento de ação de pagamento de dividendos autuada no Processo n. 2017 (KE) n. 172, que tramita no Tribunal Regional de Hiroshima, 4ª Divisão de Assuntos Civis, Japão.
+Tendo em vista constar nos autos o aviso de recebimento da citação assinado pelo interessado, conforme a certidão de fl. 117,considero consumado o pedido de diligência e determino que sedevolvam os autos à Justiça rogante, por intermédioda autoridade central competente (art. 216 -X do Regimento Interno do STJ), independente do trânsito em julgado.
