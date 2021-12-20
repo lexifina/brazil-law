@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se deagravo interposto por CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.º 02 e n.º 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de CONSELHO REGIONAL DE FARMÁCIA DO ESTADO DE SÃO PAULO, o recurso especial não foi instruído com a guia de custas do Superior Tribunal de Justiça e o respectivo comprovante de pagamento.
+Não obstante tratar-se de recurso interposto por Conselho de Fiscalização Profissional, a Primeira Seção deste Superior Tribunal de Justiça consolidou o entendimento acerca da questão, nos moldes do art. 543-C do Código de Processo Civil de 1973, no sentido de que "o benefício da isenção do preparo, conferido aos entes públicos previstos no art. 4º, caput, da Lei n. 9.289/1996, é inaplicável aos Conselhos de Fiscalização Profissional". (REsp n. 1.338.247/RS, relator Ministro Herman Benjamin, DJe de 19/12/2012.)
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a alegar que "o Recurso Especial em agravo de instrumento é isento de preparo, a partir de 19/02/16, nos termos da Resolução STJ/GP nº 1, de 18/02/16, e Resolução STJ/GP nº 2/2017. Tal fato, inclusive, foi objeto de certificação pelo Eg. Tribunal de origem, conforme fls. 499 do e-STJ, DOC.01 em anexo".
+Conforme prevê a Lei n.º 11.636/2007, são devidas custas judiciais e porte de remessa e retorno dos autos nos processos de competência recursal do Superior Tribunal de Justiça. O parágrafo único do art. 10 da referida lei ordinária, dispõe que nenhum recurso subirá ao Superior Tribunal de Justiça, excetuado os casos de isenção, sem a juntada aos autos do comprovante de recolhimento do preparo.
+As isenções e não incidência de custas estão elencadas no art. 3º da Resolução STJ/GP N. 2 de 1º de fevereiro de 2017, que dispõe sobre o pagamento de custas judiciais e porte de remessa e retorno dos autos no âmbito do Superior Tribunal de Justiça.
+Assim estabelece o dispositivo:
+Art. 3º Haverá isenção do preparo nos seguintes casos:
+I - nos habeas data, habeas corpus e recursos em habeas corpus;
+II - nos processos criminais, salvo na ação penal privada e sua revisão
+criminal;
+III - nos agravos de instrumento;
+IV - nos Pedidos de Uniformização de Interpretação de Lei (PUIL),
+observados os contornos definidos no art. 67, parágrafo único, inciso VIII-A do RISTJ;
+V - nos recursos interpostos pelo Ministério Público, pela União, pelos estados e municípios e respectivas autarquias e por outras entidades que também gozem de isenção legal.
+Veja que o artigo, em seu inciso III, prevê a isenção no caso de agravo de instrumento para esta Corte, nada dispondo sobre o caso dos autos, ou seja, não há previsão para a isenção de custas quando o recurso especial decorre de agravo de instrumento interposto na origem.
+Inclusive, "a tabela B", constante no Anexo da Resolução, traz o valor que deve ser recolhido para apreciação do recurso especial no Superior Tribunal de Justiça.
+Ressalte-se que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+Do mesmo modo, certidão do Tribunal de origem, lavrada por servidor público nos autos do processo, atestando a regularidade do preparo do recurso, além de não impedir o reexame desse requisito pelo Superior Tribunal de Justiça, é insuficiente para o fim proposto, pois "a jurisprudência desta Corte Superior é iterativa no sentido de que a regularidade do preparo deve ser demonstrada mediante juntada de cópia das Guias de Recolhimento de Custas e de Porte de Remessa e Retorno (GRU), acompanhada do respectivo comprovante de pagamento, sob pena de deserção". (AgRg no AREsp 662.713/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/11/2015.)
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
