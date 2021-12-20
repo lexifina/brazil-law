@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por CENTRO DE PRODUÇÃO RIO GRANDENSE DE ESPUMAS INDUSTRIAIS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE RESCISÃO DE CONTRATO DE FRANQUIA C/C RESSARCIMENTO POR PERDAS E DANOS E INDENIZAÇÃO POR DANOS MORAIS. DECISÃO QUE RECONHECEU A INCOMPETÊNCIA PARA JULGAR O FEITO. RECURSO DA PARTE AUTORA.
+CLÁUSULA DE ELEIÇÃO DE FORO. DISPOSIÇÃO QUE COLOCA A PARTE AGRAVANTE EM DESVATAGEM E IMPOSSIBILITA SEU ACESSO AO PODER JUDICIÁRIO. ABUSIVIDADE CONSTATADA. PRECENDETES DO STJ E DESTA CORTE.
+RECURSO CONHECIDO E PROVIDO.
+Quanto à controvérsia trazida nos autos, alega violação do art. 63 do CPC, no que concerne à necessidade de reforma do acórdão por inocorrência de irregularidade na cláusula de eleição de foro, trazendo os seguintes argumentos:
+Ocorre, Excelência, que no caso em tela não se olvida nenhuma irregularidade da escolha do foro de eleição.
+A parte agravante refere que tal cláusula diria respeito às questões de cumprimento do contrato, quando um dos fundamentos da ação originária seria o descumprimento do contrato e os danos causados por ele, motivo pelo qual deveria tramitar o feito na comarca onde sediada a loja. Contudo, totalmente sem sentido tal afirmação.
+Quando a cláusula se refere ao cumprimento, quer dizer todas a discussões advindas do contrato de franquia, e nesse caso, plenamente englobado o assunto da ação principal, pois estritamente decorrente e vinculada ao contrato. Da mesma forma os danos, que, segundo a agravante, foram causados por alegadas irregularidades do mesmo objeto contratual.
+Ou seja, toda a ação está baseada no contrato de franquia, e este dispõe, expressamente, que as questões decorrentes dele devem ser ajuizadas e tramitadas perante a Comarca de Campo Bom no RS.
+Da mesma forma, em acórdão proferido os Desembargadores destacaram a validade e aplicação da cláusula de eleição de foro, no mesmo caminho que o STF, após largo enfrentamento sobre o tema, editou a Súmula 335, que determina que  é válida a cláusula de eleição do foro para os processos oriundos do contrato.
+Assim, em que pese os Desembargadores tenham discorrido sobre o conhecimento da possibilidade e validade da cláusula de eleição, disposta legalmente no Art. 63 do CPC, optaram por lhe negar vigência, mesmo que a situação apresentada não se enquadre em nenhuma das situações possibilitadoras de uma exceção.
+Inexiste qualquer prova de hipossuficiência da parte autora, a qual visa discutir um contrato paritário de franquia. O fato de o foro eleito ser em outro estado, quando da assinatura do contrato, não foi nenhum problema. Ademais, sequer continua sendo, visto que os processos em ambos os estados são eletrônicos, e as audiências estão acontecendo de forma virtual, tirando a necessidade de deslocamento (fl. 100).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Pois bem. É certo que, nos termos do art. 63, caput, do CPC "as partes podem modificar a competência em razão do valor e do território, elegendo foro onde será proposta a ação oriunda de direito e obrigações". Não obstante, pode a cláusula, se abusiva, ser reputada ineficaz, conforme disposto §3º e 4º do mesmo dispositivo legal.
+Verfica-se a abusividade da cláusula, por sua vez, quando a competência estipulada inviabilizar o acesso ao Poder Judiciário ou o exercício da ampla defesa por qualquer das partes
+ ..
+Dito isso, irrelevante discutir se há no presente caso relação de consumo ou contrato de adesão, o importante é identificar se a presente cláusula de eleição de foro inviabiliza o acesso ao Poder Judiciário pela parte agravante.
+Da análise dos autos, verifica-se que a manutenção da cláusula de eleição de foro é capaz de prejudicar o acesso da empresa agravante ao Poder Judiciário, visto que teria que se deslocar aproximadamente 600km para a comarca de Campo Bom/RS. Ademais, já reconhecida a hipossuficiência econômica da empresa recorrente no Agravo de Instrumento n. 4004880-94.2018.8.24.0000, e o deslocamento, como se sabe, gera custos ainda maiores para a parte.
+Desta forma, resta evidente que deve ser reconhecida a abusividade da cláusula de eleição de foro no presente feito, vez que coloca uma das partes em extrema vantagem, visto que a escolha da comarca de Campo Bom/RS prejudica o acesso ao Poder Judiciário da empresa recorrente (fls. 84/86).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO NCPC) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVADA.
+1. Na hipótese, o Tribunal local seguiu orientação desta Corte, no sentido de que é válida a cláusula de eleição de foro pactuada entre as partes, podendo ser afastada quando for considerada abusiva, prejudicando o acesso à justiça. Incidência da Súmula 83 do STJ.
+2. Para alterar os fundamentos do acórdão impugnado acerca da abusividade da cláusula de eleição de foro na hipótese dos autos, por dificultar o acesso da parte à justiça, seria necessário o revolvimento do conjunto fático-probatório destes autos, atraindo a aplicação da Súmula 7 desta Corte.
+3. Agravo interno desprovido. (AgInt no AREsp 1.000.382/RS, relator Ministro Marco Buzzi, Quarta Turma, DJe 5/3/2018.
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
