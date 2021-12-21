@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo apresentado por SONIA RODRIGUES PEREIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação Cível. Embargos à execução fundada em contrato de seguro de vida. Sentença de procedência. Apelo do exequente.
+Alegação de doença preexistente à contratação do seguro.
+Segurado que faleceu de neoplasia cervical. Constatação nos autos de que desde junho de 2014 ele fazia acompanhamento médico devido a essa doença. Segurado que contratou o seguro em 14/08/2015 e não informou a doença de que era portador e que foi a causa do óbito. Má-fé evidenciada. Indenização indevida. Sentença mantida.
+Recurso desprovido.
+Sustenta a parte recorrente, pela alínea "c" do permissivo constitucional, divergência jurisprudencial em relação aos arts. 765 e 766, ambos do CC, no que concerne à ilicitude da recusa do pagamento do seguro de vida, em razão de doença preexistente, trazendo o(s) seguinte(s) argumento(s):
+Como se vê, enquanto o acórdão recorrido entendeu que a proposta digital sem assinatura escrita é válida para caracterizar a má-fé do segurado, o acórdão paradigma, em situação fática semelhante, também derivado de recusa de pagamento de indenização por doença preexistente, sem assinatura escrita na proposta, entendeu que quando o segurado não assina a proposta de adesão é porque jamais esta lhe foi apresentada. (fl. 357).
+É, no essencial, o relatório. Decido.
+Na espécie, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática entre o acórdão recorrido e aquele(s) apontado(s) como paradigma(s), tendo em vista que são diversas as circunstâncias concretas neles delineadas e o direito aplicado.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2020.)
+Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; AgInt no AREsp 1.625.775/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
