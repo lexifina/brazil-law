@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de ELIOENAI DA SILVA DE ARRUDAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foicondenado à pena de 9 anos, 7 meses e 6 dias de reclusão em regime inicial fechado, pela prática do crime previsto nos artigos 33 e 35, ambos da Lei 11.343/06.
+Alega o impetrante que a alegação de nulidade do feito ante a violação de domicílio. Ressalta que "o processo deve ser nulificado, por absoluta inexistência de justa causa, nos termos do artigo 395, III, do Código de Processo Penal, porquanto a apreensão da droga supostamente encontradas na residência do tio do acusado ocorreu de forma ilegal, conforme o teor do artigo 157, caput, do Código de Processo Penal, bem como do artigo 5º., XIe LVI, da Constituição Federal, tendo em vista que os policiais não possuíam mandado judicial autorizador da busca domiciliar, nem o consentimento dos moradores, conforme dito pelos mesmos."
+Sustenta, ainda, que devem ser afastados os efeitos da reincidência na dosimetria da pena. Requer, inclusive, a aplicação da causa de diminuição prevista no art. 33,§ 4º, da Lei nº 11.343/06, uma vez preenchidos os requisitos legais. Aduz queo regime inicial fixado está em desconformidade com o entendimento jurisprudencial.
+Nesse panorama, requer o impetrante o trancamento da ação penal ou a fixação do regime inicial de cumprimento de pena menos gravoso, ante o afastamento da reincidência, com a aplicação do privilégio, bem como o afstamento da condenação pelo delito de associação, com a conversão da pena restritiva de liberdade por restritivas de direito ou a revogação da prisão preventiva..
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
