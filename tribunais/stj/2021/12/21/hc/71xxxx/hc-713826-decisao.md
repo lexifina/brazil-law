@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de DAVID CERQUEIRA DE SOUZAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HCn.15054241220218260228).
+Narra a peça do writ que opaciente foi condenado em primeira instância à pena de 2 anos de reclusão, a ser cumprida no regime inicial semiaberto, pela prática do crime de tráfico de drogas, tipificado no art. 33, caput, § 4º, da Lei n. 11.343/2006. Em segunda instância, a pena foi aumentada para 4 anos e 2 meses de reclusão.
+A impetrante sustenta que o paciente cumpre os requisitos para aplicação da causa de diminuição de pena,conforme previstono § 4º do art. 33 da Lei n. 11.343/2006, poisé primário, possui bons antecedentes, não se dedica a atividades criminosas e não participa de organização criminosa.
+Ressalta que "é possível concluir que, comumente, a condenação pelo delito de tráfico de drogas a que se aplica a causa de diminuição prevista no § 4º do art. 33 da Lei 11.343/06, além de necessariamente envolver réu primário e de bons antecedentes, redunda no seguinte: i) imposição de penas que variam de 2 a 3 anos e dificilmente extrapolam os 4 anos; ii) fixação do regime inicial aberto ou, no máximo, semiaberto; iii) substituição da sanção corporal por penas restritivas de direitos em grande parte dos casos" (fls. 9-10).
+Requer, liminarmente, a concessão da liberdade provisória mediante termo de comparecimento a todos os atos processuais para os quais for intimado. Subsidiariamente, requer a substituição da prisão preventiva por outras medidas cautelares diversas, conforme dispostono art. 319 do Código de Processo Penal.No mérito, pugna pela concessão da ordem para confirmar a liminar.
+É, no essencial, o relatório. Decido.
+O deferimento de liminar em habeas corpus é medida excepcional, cabível apenas em hipóteses de patente ilegalidade. Assim, há necessidade de prova pré-constituída acerca do alegado constrangimento ilegal.
+O presente writ não merece prosperar. Inexiste nos autos documento que demonstre a real situação doora paciente. Não é possível saber sequer se o Superior Tribunal de Justiça é competente para apreciar o pedido (art. 105 da Constituição Federal), pois não há notícia de que o Tribunal de origem tenha examinado as questões ora alegadas.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
