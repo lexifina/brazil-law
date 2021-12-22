@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de AGOSTINHO PACHEMSHI em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (0073118-56.2021.8.16.0000).
+O paciente teve a sua prisão preventiva decretada em 6/7/2021. Após o Juízo de primeiro grau indeferir o pedido de revogação da prisão preventiva, os impetrantes manejaram o Habeas Corpus n. 0073118-56.2021.8.16.0000 perante o TJPR. Presentes os requisitos legais, o então relator do feito concedeu prisão domiciliar ao paciente, porque, "através dos documentos acostados aos presentes autos a esposa do paciente, Sra. Leniuza Aparecida Baqueta, está acometida de doença grave, consistente em neoplasia maligna de mama".
+Após a apresentação de parecer pela denegação da ordem, a Procuradoria de Justiça, em nova manifestação, juntou documentos consubstanciados em prova ilícita, insistindo na denegação da ordem. Na ocasião, não pleiteou expressamente a cassação da liminar.
+Com a mudança de relatoria do writ, o novo relator, ora apontado como autoridade coatora, cassou de ofício a liminar anteriormente deferida.
+O impetrante aduz que "o objeto da presente impetração é apenas impugnar o ato coator, vez que prolatado de ofício e integralmente embasado em prova manifestamente ilícita". Requer-se, ainda, a superação da Súmula n. 691 do STF, uma vez que é vedado ao julgador decretar prisão de ofício, além de a Constituição Federal vedar o uso de prova ilícita contra o réu.
+Requer a concessão da liminar para que sejam suspensos, até julgamento de mérito, os efeitos do ato coator, devendo ser restituída liminar anteriormente deferida, bem como próprio trâmite do citado habeas corpus, até final pronunciamento do STJ a respeito da ilicitude da prova de que se valeu a autoridade coatora para restaurar, de forma indevida, prisão preventiva do paciente.
+No mérito, "requer-se a concessão definitiva da ordem, para declarar a ilicitude dos documentos juntados no mov. 19 da impetração originária, bem como seu consequente desentranhamento daqueles autos de habeas corpus, devendo ser mantida a prisão domiciliar até o julgamento de mérito do writ em trâmite perante a Corte estadual".
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A decisão impugnada foi proferida por juiz substituto de segundo grau (fls. 296-299). Não há acórdão sobre a matéria suscitada na presente impetração, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça.
+Registre-se que "a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica a exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado" (AgRg no HC n. 600.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
