@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de petição protocolada por MÁRCIO DUARTE MIRANDA.
+O requerente figura como réu na Ação Penal Originária n. 940/DF, em tramitação perante esta Corte Superior, estando atualmente gozando de liberdade provisória condicionada à monitoração eletrônica, proibição de contato com os demais corréus e proibição de ausentar-se da Comarca de Salvador (BA) sem ordem judicial expressa.
+Requer que lhe seja concedida autorização para deslocamento paraos Municípios de São João/BA (Condomínio Residencial Costa do Sauípe, Casa P05, Rodovia BA 99, km 76, Sauípe), no período de 30/12/2021 a 02/1/2022, e em Jequié/BA (Rua Laudelino Barreto, n.97, Centro), de 10 a 12/1/2022.
+É, no essencial, o relatório. Decido.
+Em 17/12/2021, foi proferida pelo ministro relator da Ação Penal n. 940/DF decisão monocrática com o seguinte teor:
+(..) MÁRCIO DUARTE MIRANDA requer a autorização para viajar para Mata de São João/BA, no período de 30.12.2021 a 02.01.2022, e para visitar sua mãe em Jequié/BA, de 10 a 12.01.2022. Pede, ainda, a restituição de cinco mil euros, apreendidos em sua residência (e-STJ fls. 33.963-33.985). Nesta hipótese, em que o peticionante apresenta localização e itinerário detalhados de sua viagem e, além disso, encontra-se monitorado por tornozeleira eletrônica, o princípio da proporcionalidade indica que deferir o pedido é providência que atinge a finalidade pretendida pela medida cautelar com a menor onerosidade ao investigado. Assim, diante da necessidade de preservar o convívio do acusado com seu núcleo familiar, autorizo MÁRCIO DUARTE MIRANDA a permanecer em São João/BA (Condomínio Residencial Costa do Sauípe, Casa P05, Rodovia BA 99, km 76, Sauípe), no período de 30.12.2021 a 02.01.2022, e em Jequié/BA (Rua Laudelino Barreto, nº 97, Centro), de 10 a 12.01.2022 (..).
+Destarte, já tendo sido deferidapelo relator do feito a autorização ora pleiteada, bem como determinada a abertura de vista ao MPFquanto ao pedido de restituição de valores apreendidos,inexiste interesse processual para a tramitação do presente expediente.
+Ante o exposto, não conheço do pedido.
+Publique-se. Intimem-se.
