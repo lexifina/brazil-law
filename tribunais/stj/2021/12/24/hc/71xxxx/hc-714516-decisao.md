@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de CARLOS EDUARDO VIRTUOSOem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (00161096220178260562 e ARESP 1863398).
+Opaciente foi condenado a "quinze anos de reclusão, em regime inicial fechado, um ano de prisão simples, na modalidade prisional inicial semiaberta, e pagamento de setenta dias-multa, no valor unitário de cinco salários mínimos, além da perda, em favor do Estado de São Paulo, de todos os bens, direitos e valores relacionados à prática do crime de lavagem de dinheiro, até o limite de R$ 8.500,000,00 (oito milhões e quinhentos mil reais), como incurso nos artigos 58, caput, do Decreto-Lei n. 3.688/41 (Lei das Contravenções Penais), 1º, caput e § 4º (por diversas vezes), da Lei n. 9.613/98 (com a redação conferida pela Lei n. 12.683/12), e 2ºcaput e § 3º, da Lei n. 12.850/13, na forma do artigo 69 do Código Penal".
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa e deu provimento ao recurso ministerial a fim de:
+ .. condenar o acusado CARLOS EDUARDO VIRTUOSO também como incurso no 333, parágrafo único, do Código Penal (por diversas vezes, em continuidade delitiva), aplicando-se-lhe, por conseguinte, as reprimendas de quatro anos, um mês e vinte e três dias de reclusão, em regime inicial fechado, e pagamento de dezenove dias-multa, no valor unitário de cinco salários mínimos, atualizado; quanto aos crimes de lavagem de capitais, aumentar as penas para onze anos e três meses de reclusão, na modalidade prisional inicial fechada, e pagamento de trinta e sete diárias, no valor unitário de cinco salários mínimos, corrigido; e, relativamente ao delito de organização criminosa: reconhecer a presença da causa de aumento prevista no artigo 2º, § 4º, inciso II, da Lei n. 12.850/13; e, majorar as sanções aplicadas para doze anos de reclusão, em regime inicial fechado, e pagamento de quarenta e três dias-multa, no valor unitário de cinco salários mínimos, atualizado.
+A impetrante embasa o habeas corpus em caráter humanitário, alegando elevado risco de morte em decorrência do estado crítico de saúde do paciente, aliado àprecariedade do sistema prisional e ao dificultoso acesso a atendimento médico pelo paciente ante a clausura.
+Requer, liminarmente eno mérito, a concessão de prisão domiciliar com caráter humanitário.
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A matéria aqui suscitada é também objeto do HC n. 713971/SP (2021/0405244-7) e HC 713294/SP (2021/0401702-1), ambos distribuídos ao Exmo. Ministro Antonio Saldanha Palheiro.
+Constata-se, assim, a inadmissível reiteração, consoante o entendimento do Superior Tribunal de Justiça. Veja-se o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. INDEFERIMENTO LIMINAR. EXECUÇÃO. PROGRESSÃO DE REGIME. EXAME DA MATÉRIA EM HABEAS CORPUS ANTERIOR. REITERAÇÃO. IMPOSSIBILIDADE DE REEXAME. AGRAVO DESPROVIDO.
+Inviável o reexame de matéria já apreciada em mandamus anteriormente julgado, configurada a inadmissível reiteração de pedido, nos termos do art. 210 do Regimento Interno do STJ.
+Agravo regimental desprovido. (AgRg no HC n. 589.856/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 31/8/2020.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
