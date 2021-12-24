@@ -1,0 +1,12 @@
+Vistos etc.
+Recurso de Apelação Cível interposto por BANCO DO BRASIL SA contra a sentença proferida nos autos de Embargos de Terceiro no 0005756-93.2018.8.11.0028, perante a Vara Única da Comarca de Poconé/MT, que julgou JULGO PARCIALMENTE PROCEDENTES os presentes Embargos de Terceiro e CONDENOU o Embargante ao pagamento de honorários advocatícios arbitrando-os em 10% (dez por cento) sobre o valor da causa, nos termos do art.85, §2o do CPC, entretanto, os torno inexigíveis uma vez que DEFIRO os benefícios da justiça gratuita.
+Deparando-se com desfecho dessa natureza, o embargante/apelado ELIZEU EVANGELISTA DA SILVA opôs os embargos de declaração de ID (96599962). Todavia, antes de seu julgamento, o embargado/apelante BANCO DO BRASIL SA interpôs a apelação de ID (id. . 96599962) - , por meio da qual afirma, em síntese, que o pronunciamento judicial ora recorrido, configura verdadeiro error in judicando, já que vai de encontro a todo o arcabouço probatório produzido nos autos, merecendo reforma.
+Síntese Necessária.
+Sem prejuízo da relevância da matéria controvertida, a apelação não pode ser nesse momento conhecida. E tal se afirma porque a ausência de apreciação dos embargos de declaração opostos contra a sentença obsta a análise do presente apelo, na medida em que não foi concretamente encerrada a jurisdição do juízo monocrático. Corrobora compreensão nesse sentido o fato da decisão dos embargos de declaração integrar a sentença, impondo-se, em razão disso, a necessidade de retorno dos autos à origem, sob pena de supressão de instância.
+A esse respeito, confiram-se os seguintes arestos:
+"EMENTA: COMPROMISSO DE VENDA E COMPRA. RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE, PERDAS E DANOS E EXIBIÇÃO DE DOCUMENTOS. EMBARGOS DE DECLARAÇÃO DAS DUAS PARTES NÃO APRECIADOS. NECESSIDADE DE ENCERRAMENTO DA JURISDIÇÃO DO JUÍZO MONOCRÁTICO DE PRIMEIRO GRAU, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. RECURSO PREJUDICADO, ORDENADA A REMESSA DOS AUTOS À ORIGEM PARA A ANÁLISE DOS EMBARGOS DE DECLARAÇÃO" (Apelação no 4011290-97.2013.8.26.0224, Rel.a Christine Santini, 1a Câmara de Direito Privado, j. 06/04/2016).
+Por tais razões, sucintamente expostas, converto o julgamento do recurso em diligência para determinar a remessa dos autos à origem para o exame dos embargos de declaração.
+Às providências de estilo, autorizando a Senhora Secretária da Segunda Câmara Cível a assinar os expedientes necessários.
+Cumpra-se.
+Desembargador Sebastião de Moraes Filho.
+= r e l a t o r =
