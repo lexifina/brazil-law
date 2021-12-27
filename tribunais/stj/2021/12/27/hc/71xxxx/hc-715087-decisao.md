@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor deKELVIN ENIO SANTOS DE SOUSAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Habeas Corpus n. 2296977-07.2021.8.26.0000).
+Em sede de apelação, perante o Tribunal de Justiça de São Paulo - SP, a condenação do pacientefoi reduzida, fixando-a em 10 (dez) anos e 10 (dez) meses de reclusão, a ser cumprida em regime inicial fechado, como incurso no artigo 157, § 2º, incisos I, II e V, e no artigo 158, § 1º, ambos do Código Penal. O paciente foi promovido ao regime semiaberto em 15/12/21, todavia, o juiz de origem indeferiu o pedido de saída temporária, o que motivara a impetração de habeas corpus no Tribunal de Justiça estadual. Contudo, a liminar foi indeferida pelo Desembargador Relator.
+Oimpetrante sustenta que tanto o requisito objetivo quanto o subjetivo, necessários à progressão de regime,foram preenchidos pelo paciente. Afirma quese extrai dos autos que o paciente foi beneficiado com a progressão ao regime semiaberto em 15/12/2021, com efeitos retroativos desde5/10/2021. Registra que o magistrado,ao indeferir a inclusão do paciente na lista dos apenados com direito à saída temporária, limitou-se a tratar da data em que o paciente adquiriu a progressão ao semiaberto, ignorando a parte da decisão que diz respeito à retroatividade. Assim, alega que, ao tempo do envio da lista dos sentenciados com direito à saída temporária, qual seja, 8/12/2021, o paciente preenchia o respectivo requisito e, portanto, fazia jus à inclusão.
+Requer, liminarmente, seja determinado ao Juízo das Execuções que inclua o nome do paciente na lista dos sentenciados com direito à saída temporária do mês de dezembro de 2021.No mérito, pugna pela concessão da ordem para ratificar a liminar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
