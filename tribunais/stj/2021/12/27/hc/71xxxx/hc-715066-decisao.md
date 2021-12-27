@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor deDERMEVAL NOVELLI ARAUJO JUNIORem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Habeas Corpus n. 2282135-22.2021.8.26.0000).
+Opaciente foi preso em 4/10/21 por supostamente ter infringidoo disposto no art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/06.O Ministério Público requereu a conversão da prisão em flagrante em prisão preventiva, fundamentando-se na gravidade do crime. Após a análise, o juiz acatou o pedido ministerial, decretando a prisão preventiva do paciente, nos termos do art. 310, II, art. 312 e art. 313, I, todos do CPP, para a garantia da ordem pública, considerando a gravidade do crime. Indeferido o pedido de liberdade provisória, ocasião em que também foi aceita a denúncia,a defesa impetrou habeas corpus na origem, cuja liminar foi indeferida pelo desembargador relator.
+Pleiteando o afastamento da Súmula n. 691 do Supremo Tribunal Federal, oimpetrante sustenta que houve erro material na denúncia, sendo portanto inepta,porquantoo paciente foi acusado por fato descrito genericamente, sem qualquer respaldo fático, o que inviabiliza sua defesa, restringindo seus direitos constitucionais garantidos pelo princípio da ampla defesa.
+Alega que, ao decretar a prisão do paciente, o juiz se limitouapontuar o que a lei processual penal diz e a realizar um juízo profético, que não podecaracterizar motivação adequada para a manutenção da prisão preventiva, limitando-se a argumentar com base na gravidade em abstrato do delito, mediante a repetição dos dispositivos legais e a utilização de formulas retóricas.
+Requer, liminarmente e nomérito, a concessão da ordem para queseja decretada a nulidade da ação penal e, diante da inépcia da peça acusatória, seja reconhecida a violação dos princípios constitucionais do devido processo legal e da ampla defesa, que constituem causa de nulidade absoluta, e seja concedida a liberdade provisória do paciente.
+É, no essencial, o relatório. Decido.
+Não obstante os argumento do impetrante, amatéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
