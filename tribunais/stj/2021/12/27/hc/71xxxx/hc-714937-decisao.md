@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de DANYELE CARVALHO SILVA em que se aponta como autoridade coatora o juiz de Direito da 2ª Vara Criminal da Comarca de Imperatriz (MA) (Processo Penal n. 0000388-31.2017.8.10.0040).
+A paciente foi condenada definitivamente às penas de 6 anos e 9 meses de reclusão, no regime inicial semiabertoe de 21 dias-multa, pela prática dos crimes previstos no art. 2º, § 2º, da Lei n. 12.850/2013 e no art. 16, parágrafo único, inciso III, da Lei n. 10.826/2003.
+O impetrante sustenta o cabimento da inclusão da paciente em prisão domiciliar, ao argumento de que ela é mãe de criança menor de 12 anos de idade.
+Alega, ainda, que, desde o cumprimento do mandado de prisão para o início do cumprimento da pena, expedido pelo Juízo de primeiro grau, a paciente encontra-se inserida no regime fechado, contrariando, assim, os termos de sua condenação criminal.
+Requer, liminarmente, a inclusão da paciente em prisão domiciliar. No mérito, pugna pela concessão da ordem para que seja confirmada a medida liminar.
+É, no essencial, o relatório. Decido.
+Preliminarmente, percebe-se a manifesta incompetência do Superior Tribunal de Justiça para análise do presente mandamus, uma vez que impetrado contra decisão de autoridade não constante do rol taxativo previsto art. 105, inciso I, alínea c, da Constituição Federal. Veja-se julgado nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO QUE APONTA COMO AUTORIDADE COATORA JUIZ DE 1º GRAU QUE MANTEVE A PRISÃO CAUTELAR DO PACIENTE. INCOMPETÊNCIA ABSOLUTA DESTA CORTE SUPERIOR DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. Tratando-se de insurgência voltada contra ato de Juízo de primeiro grau, é flagrante a incompetência desta Corte Superior de Justiça para processar e julgar originariamente este habeas corpus, ante a não incidência do disposto no art. 105, inciso I, alínea "c", da Constituição Federal. 2. Agravo regimental a que se nega provimento. (AgRg no HC n. 621.817/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 23/11/2020.)
+Ante o exposto, com fundamento no art. 21-E, inciso IV, do Regimento Interno do Superior Tribunal de Justiça, declaro a incompetência do STJ para processar o presente writ edetermino a remessa dos autos ao Tribunal de Justiça do Estado do Maranhão, independentemente da publicação, para que adote as providências pertinentes.
+Publique-se. Intimem-se.
