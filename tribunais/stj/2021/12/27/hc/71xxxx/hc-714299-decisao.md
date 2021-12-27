@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar interposto por BRUNO CORREA ANDRADE PENHA e WILLIAN MAGALHAES RODRIGUEScontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO(APELAÇÃO CRIMINAL N. 0016913-20.2021.8.19.0001).
+Os pacientes foram condenadospela prática dos delitos descritos nos arts. 33 e 35 c/c art. 40, IV, todos da Lei n. 11.343/06, em concurso material.
+Aimpetrante alega que, no que se refere a ambos os pacientes,inexistemas elementares do crime de associação para o tráfico, tendo em vista que não ficou demonstrado nos autos, de forma concreta,a existência de estabilidade e permanência na associação dos pacientes para a prática do delito de tráfico de drogas.
+Sustenta, ainda, que, no que se refere ao paciente Bruno Correa Andrade Penha,deve ser aplicada, sem seu patamar máximo,a causa especial de diminuição de pena, prevista no art. 33, § 4º, da Lei n. 11.343/06, pois presentes os requisitos.
+Ao fim, afirma que,"com o entendimento desta Colenda Corte pela absolvição do Art. 35, conforme requerido no primeiro tópico, e com a aplicação do art. 33, §4º da Lei 11.343/06, fará jus o Paciente à substituição da pena privativa de liberdade por restritiva de direitos, conforme previsto no art. 44 do Código Penal" (fl. 33).
+Aimpetrante pleiteia, liminarmente, a absolvição dos pacientes quanto ao crime de associação para o tráfico, para ambos os pacientes. E "para o Paciente Bruno, o reconhecimento da causa de diminuição prevista no § 4º, do Art.33, da Lei 11.343, em sua fração máxima de 2/3, face à primariedade e bons antecedentes do Paciente, bem como pela substituição da pena privativa de liberdade por restritivas de direito, além da fixação do regime aberto.Por derradeiro, sendo acolhido os pleitos em relação ao Paciente Bruno, requer-se seja determinada a baixa dos autos para que o Ministério Público se manifeste acerca da POSSIBILIDADE DO OFERECIMENTO DO ACORDO DE NÃO PERSECUÇÃO PENAL, NA FORMA DO ARTIGO 28-A, DO CÓDIGO DE PROCESSO PENAL" (fl. 35).
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+O pedido de absolvição, com averificação da existência da devida demonstração nos autos da presença dos requisitos da estabilidade e permanência do vínculo associativo para o tráfico de drogas, demanda reexame de fatos e provas, procedimento incompatível com a estreita via do habeas corpus. Deve a questão ser dirimida no trâmite da instrução criminal. Confira-se precedente sobre a matéria:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSO PENAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PEDIDO DE ABSOLVIÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INADEQUAÇÃO DA VIA ELEITA. NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS E BIS IN IDEM NO CÁLCULO DA PENA.QUESTÕES NÃO DEBATIDAS NA ORIGEM. IMPOSSIBILIDADE DE APRECIAÇÃO NESTA CORTE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. O habeas corpus não é a via adequada para apreciar pedidos de absolvição, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do remédio constitucional, caracterizado pelo rito célere e por não admitir dilação probatória.
+ ..
+4. Agravo regimental não provido(AgRg no HC 618.790/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/4/2021).
+Tendo em vista a inviabilidade de conhecimento da pretensão de absolvição do crime de associação para o tráfico, fica prejudicada a análise do pedido de aplicação do art. 33, § 4º, da Lei n. 11.343/06. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO PELA PRÁTICA DO DELITO DESCRITO NO ART.35 DA LEI DE DROGAS. CONFISSÃO DA ACUSADA. ESTABILIDADE E PERMANÊNCIA DEVIDAMENTE DEMONSTRADAS. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. MINORANTE DO ART. 33, § 4º, DA LEI DE DROGAS. PREJUDICADO. RECURSO IMPROVIDO.
+ ..
+3. Mantida a condenação pelo delito de associação para o tráfico de drogas, em que a dedicação à atividade criminosa é elementar do tipo, prejudicado está o pleito de aplicação do redutor previsto no art. 33, § 4º, da Lei 11.343/06, bem como de seus consectários legais.
+4. Agravo regimental improvido(AgRg no HC 609.116/RJ, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 26/10/2020).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
