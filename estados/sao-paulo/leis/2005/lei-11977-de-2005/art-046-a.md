@@ -1,0 +1,2 @@
+Artigo 46-A - A guarda, a posse ou a propriedade do animal poderá ser readquirida quando o infrator, nos termos e condições aceitas e aprovadas pelas autoridades competentes, se obrigar à adoção de medidas específicas para fazer cessar e corrigir a infração.
+Parágrafo único - Constatada a reincidência na prática de maus-tratos animais, o autor perderá imediatamente a guarda a posse ou a propriedade do animal e será apenado nos termos dos §§1º e 1º-A do artigo 45 desta lei. (NR)
