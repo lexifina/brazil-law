@@ -1,0 +1,1 @@
+Art. 43-B. As informações a que se refere o inciso II do § 3º do art. 14 desta Lei serão aferidas, a partir de 2022, de forma progressiva, de acordo com a implementação do novo ensino médio, nas redes de ensino, em consonância com a Lei nº 13.415, de 16 de fevereiro de 2017.
