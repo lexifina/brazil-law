@@ -1,0 +1,23 @@
+Solução de Consulta Cosit nº 220, de 21 de dezembro de 2021
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+AUTOPEÇAS SUJEITAS À TRIBUTAÇÃO CONCENTRADA. VENDAS EFETUADAS POR PESSOA JURÍDICA VAREJISTA OU ATACADISTA OPTANTE PELO SIMPLES NACIONAL. ALTERAÇÃO DO CÓDIGO NCM/TIPI INCLUÍDO NO REGIME MONOFÁSICO. SEGREGAÇÃO DE RECEITAS.
+Enquanto preservada a eficácia do diploma legal que estabelece a tributação monofásica para mercadorias identificadas por seus códigos de classificação fiscal, o mero desdobramento de um código da NCM/TIPI, sem alteração da abrangência do código originário, não afeta o regime de tributação das mercadorias que nele se classificam.
+Assim, desde que atendidos os requisitos da legislação de regência, a redução a zero de alíquota prevista no § 2º do art. 3º da Lei nº 10.485, de 2002, permanece aplicável à Cofins incidente sobre as receitas auferidas pelos comerciantes varejistas e atacadistas dos produtos classificados no código NCM/TIPI 8507.10.10, por se tratar tal código de mero desdobramento do código NCM/TIPI 8507.10.00, incluído no Anexo I da mencionada Lei.
+Na apuração do valor devido mensalmente no Simples Nacional, a pessoa jurídica optante por referido regime que proceda à comercialização no atacado ou varejo de produto sujeito à tributação concentrada ou monofásica, cuja alíquota esteja reduzida a zero, deve destacar a receita decorrente da venda desse produto e, sobre tal receita, aplicar as alíquotas do Anexo I da Lei Complementar nº 123, de 2006, desconsiderando, porém, para fins de recolhimento em documento único de arrecadação de que trata o art. 4º da Resolução CGSN nº Resolução CGSN nº 140, de 2018, o percentual correspondente à Cofins.
+SOLUÇÃO DE CONSULTA VINCULADA PARCIALMENTE À SOLUÇÃO DE CONSULTA COSIT Nº 62, DE 29 DE MARÇO DE 2018, E À SOLUÇÃO DE CONSULTA COSIT Nº 106, DE 25 DE JULHO DE 2016.
+Dispositivos Legais: Lei nº 10.485, de 2002, art. 3º, § 2º; Decreto nº 8.950, de 2016; Resolução CGSN nº 140, de 22 maio de 2018, art. 25, §§ 6º e 7º.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+AUTOPEÇAS SUJEITAS À TRIBUTAÇÃO CONCENTRADA. VENDAS EFETUADAS POR PESSOA JURÍDICA VAREJISTA OU ATACADISTA OPTANTE PELO SIMPLES NACIONAL. ALTERAÇÃO DO CÓDIGO NCM/TIPI INCLUÍDO NO REGIME MONOFÁSICO. SEGREGAÇÃO DE RECEITAS
+Enquanto preservada a eficácia do diploma legal que estabelece a tributação monofásica para mercadorias identificadas por seus códigos de classificação fiscal, o mero desdobramento de um código da NCM/TIPI, sem alteração da abrangência do código originário, não afeta o regime de tributação das mercadorias que nele se classificam.
+Assim, desde que atendidos os requisitos da legislação de regência, a redução a zero de alíquota prevista no § 2º, do art. 3º da Lei nº 10.485, de 2002, permanece aplicável à Contribuição para o PIS/Pasep incidente sobre as receitas auferidas pelos comerciantes varejistas e atacadistas dos produtos classificados no código NCM/TIPI 8507.10.10, por se tratar tal código de mero desdobramento do código NCM/TIPI 8507.10.00, incluído no Anexo I da mencionada Lei.
+Na apuração do valor devido mensalmente no Simples Nacional, a pessoa jurídica optante por referido regime que proceda à comercialização no atacado ou varejo de produto sujeito à tributação concentrada ou monofásica, cuja alíquota esteja reduzida a zero, deve destacar a receita decorrente da venda desse produto e, sobre tal receita, aplicar as alíquotas do Anexo I da Lei Complementar nº 123, de 2006, desconsiderando, porém, para fins de recolhimento em documento único de arrecadação de que trata o art. 4º da Resolução CGSN nº Resolução CGSN nº 140, de 2018, o percentual correspondente à Contribuição para o PIS/Pasep.
+SOLUÇÃO DE CONSULTA VINCULADA PARCIALMENTE À SOLUÇÃO DE CONSULTA COSIT Nº 62, DE 29 DE MARÇO DE 2018, E À SOLUÇÃO DE CONSULTA COSIT Nº 106, DE 25 DE JULHO DE 2016.
+Dispositivos Legais: Lei nº 10.485, de 2002, art. 3º, § 2º; Decreto nº 8.950, de 2016; Resolução CGSN nº 140, de 22 de maio de 2018, art. 25, §§ 6º e 7º.
+ASSUNTO: PROCESSO ADMINISTRATIVO FISCAL
+CONSULTA TRIBUTÁRIA. INEFICÁCIA PARCIAL.
+É ineficaz a parte da consulta que veicula dúvida operacional quanto a código de receita a ser utilizado pelo interessado, uma vez que, por não configurar dificuldade de natureza interpretativa em relação a dispositivo específico da legislação tributária e por se referir a prestação de assessoria contábil-fiscal, tal questionamento não se coaduna com o instituto da consulta tributária nos termos definidos pelo art. 1º da IN RFB nº 1.396, de 2013.
+Dispositivos Legais: IN RFB nº 1.396, de 2013, art. 18 incisos II e XIV.
+SC Cosit nº 220-2021
+[arquivo anexo: SC Cosit nº 220-2021.pdf]
+FERNANDO MOMBELLI
+Coordenador-Geral
