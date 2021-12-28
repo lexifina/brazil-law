@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de VITOR GUSTAVO WEBER em que se aponta como autoridade coatora o SUPERIOR TRIBUNAL DE JUSTIÇA (AgRg no HC n. 706.114/SC).
+O paciente foi condenado à pena de 5 anos e 10 meses de reclusão em regime inicial fechado por tráfico de drogas e cumpre a pena no Presídio Regional de Joinville (SC).
+Os impetrantes sustentam que, embora esteja condenado com trânsito em julgado, o paciente está encarcerado em estabelecimento destinado a presos provisórios, em condições precárias e degradantes, não há oportunidade de trabalho e estudos e as celas estão superlotadas.
+A par disso, o Juízo de Execução Penal deferiu, com base em decisão do Superior Tribunal de Justiça, no HC n. 136.961/RJ, a contagem de pena em dobro em favor do paciente. Contra essa decisão, o Ministério Público apresentou agravo em execução penal, o qual foi provido para cassar o decisum.
+Aduz que ninguém melhor que o Juízo corregedor do Presídio Regional de Joinville (SC) para atestar que o ambiente é degradante. Dessa forma, deve ser concedida a ordem, para reestabelecer a decisão de primeiro grau que deferiu o cômputo de pena em dobro em favor do paciente.
+Requer, liminarmente, a suspensão do acórdão proferido pelo Tribunal de origem e mantido pela Quinta Turma do Superior Tribunal de Justiça, devendo ser conferido o cômputo em dobro da pena em favor do paciente. No mérito, pugna pela concessão da ordem para confirmar a liminar e, se necessário, conceder a ordem de ofício.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois nos termos do art. 102, I, "i", da Constituição Federal, compete ao Supremo Tribunal Federal processar e julgar pedido de habeas corpus quando o ato coator for proveniente de tribunal superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à jurisdição daquela Corte.
+Vejam-se precedentes nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONTINUIDADE DELITIVA. AUSÊNCIA.REITERAÇÃO DE PEDIDO JÁ JULGADO POR ESTA CORTE, AO ANALISAR WRIT ANTERIORMENTE IMPETRADO PELA DEFESA DO PACIENTE. DECISÃO JÁ TRANSITADA EM JULGADO. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O caso trata de mera reiteração de matéria já submetida ao exame desta Corte, quando do julgamento de anterior mandamus impetrado pela defesa, por decisão já transitada em julgado, revelando-se incabível a impetração de novo habeas corpus para rediscutir o tema, na esteira do disposto no art. 210 do Regimento Interno do STJ.
+2. Com efeito, não pode esta Corte, sob pena de violação à coisa julgada e à competência constitucional reservada ao Supremo Tribunal Federal, no art. 102 da Constituição Federal, reformar suas próprias decisões já transitadas em julgado, a não ser pela via específica da revisão criminal, mediante a demonstração do cumprimento dos requisitos legalmente previstos.
+3. Agravo regimental não provido.(AgRg no HC 696.078/SP, relatorMinistro Reynaldo Soares da Fonseca, Quinta Turma,DJe 25/10/2021.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. DOSIMETRIA. REGIME PRISIONAL. PEDIDO JÁ FORMULADO NO AGRG EM HC N. 616.811/PA. TRÂNSITO EM JULGADO DO ACÓRDÃO PROFERIDO POR ESTA CORTE SUPERIOR DE JUSTIÇA. INCOMPETÊNCIA PARA A REANÁLISE DA INSURGÊNCIA. COMPETÊNCIA DA SUPREMA CORTE. ART. 102, INCISO I, ALÍNEA I, DA CONSTITUIÇÃO FEDERAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, o suposto ato coator é o acórdão da Sexta Turma do Superior Tribunal de Justiça proferido no AgRg em HC n. 616.811/PA, já transitado em julgado. A jurisdição desta Corte, portanto, está encerrada.
+2. Não é possível a reanálise do caso por meio do presente writ, pois, conforme consta no art. 102, inciso I, alínea i, da Constituição Federal, compete ao Supremo Tribunal Federal processar e julgar pedido de habeas corpus "quando o coator for Tribunal Superior".
+3. Agravo regimental improvido. (AgRg no HC 663.418/PA, relatoraMinistra Laurita Vaz, Sexta Turma,DJe 2/6/2021.)
+Ante o exposto, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
