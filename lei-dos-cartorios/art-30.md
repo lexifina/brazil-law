@@ -12,4 +12,5 @@ X - observar os prazos legais fixados para a prática dos atos do seu ofício;
 XI - fiscalizar o recolhimento dos impostos incidentes sobre os atos que devem praticar;
 XII - facilitar, por todos os meios, o acesso à documentação existente às pessoas legalmente habilitadas;
 XIII - encaminhar ao juízo competente as dúvidas levantadas pelos interessados, obedecida a sistemática processual fixada pela legislação respectiva;
-XIV - observar as normas técnicas estabelecidas pelo juízo competente.
+XIV - observar as normas técnicas estabelecidas pelo juízo competente; e
+XV - admitir pagamento dos emolumentos, das custas e das despesas por meios eletrônicos, a critério do usuário, inclusive mediante parcelamento.
