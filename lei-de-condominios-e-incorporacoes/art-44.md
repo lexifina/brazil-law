@@ -1,3 +1,3 @@
-Art. 44. Após a concessão do "habite-se" pela autoridade administrativa, o incorporador deverá requerer, (VETADO) a averbação da construção das edificações, para efeito de individualização e discriminação das unidades, respondendo perante os adquirentes pelas perdas e danos que resultem da demora no cumprimento dessa obrigação.
+Art. 44. Após a concessão do habite-se pela autoridade administrativa, incumbe ao incorporador a averbação da construção em correspondência às frações ideais discriminadas na matrícula do terreno, respondendo perante os adquirentes pelas perdas e danos que resultem da demora no cumprimento dessa obrigação.
 § 1º Se o incorporador não requerer a averbação ((VETADO) o construtor requerê-la-á (VETADO) sob pena de ficar solidàriamente responsável com o incorporador perante os adquirentes.
 § 2º Na omissão do incorporador e do construtor, a averbação poderá ser requerida por qualquer dos adquirentes de unidade.
