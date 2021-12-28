@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor deGLEYDSON PALHETA DA ROCHAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ.
+Opaciente encontra-se preso preventivamente desde 10/12/2021 pela suposta prática dos crimes de roubo majorado pelo concurso de pessoas, com restrição da liberdade da vítima e uso de arma de fogo, participação em milícia,tortura, tráfico e associação para o tráfico ilícito de entorpecentes.
+Oimpetrante sustenta que "o paciente está preso injustamente por ser confundido com um dos participantes do delito. E este está sendo gravemente penalizado por um crime que não cometeu e está custodiado em plena as vésperas de datas comemorativas de fim de ano" (fl. 12).
+Alega, ainda, que, não "obstante as preliminares arguidas, urge asseverar que o paciente é Cabo na Polícia Militar. Trata-se de pessoa idônea, de bons antecedentes e que não possui antecedentes criminais, conforme certidões anexas, possuindo ainda endereço certo, conforme diversos documentos anexos, onde reside com sua família. Ademais, o paciente sequer responde a qualquer processo judicial" (fl. 14).
+Requer, liminarmente e no mérito, que seja determinada a imediata liberdade do paciente, expedindo-se o competente alvará de soltura.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete porquanto a decisão que determinou a prisão preventiva do paciente encontra-se devidamente fundamentada como se extrai do seguinte trecho (fls. 128-130):
+Em análise à medida, verifico que os requisitos cautelares se encontram presentes in casu. O fumus comissi delicti foi consubstanciado por meio das declarações da vítima Wharllem da Silva Brito ouvida no procedimento administrativo, a qual não deixam dúvidas acerca da ocorrência do crime e indícios suficientes de autoria.
+No que concerne ainda à ocorrência do delito, merece relevância o fato dos representados Gleydson Palheta da Rocha e Júlio Sérgio Gaia Ribeiro serem agentes da segurança pública (Policiais Militares),utilizarem-se da profissão com a finalidade de cometerem crimes. Os investigados detinham a obrigação de atuar com moralidade e em razão da função deveriam estar assegurando a tranquilidade da população, motivo pelo qual sua liberdade acarreta descrédito na atuação jurisdicional.
+ ..
+Por sua vez, os representados Gleyson Palheta Rochae Ailton do Socorro Felix das Mercês também são contumazes na prática de ilícitos, eis que respondem a outros procedimentos criminais, respectivamente, pelo crime de tortura(0004184-53.2019.8.14.0006-Operação Anônimos)e porte ilegal de arma de fogo (0815273-69.2021.8.14.0006).
+ ..
+Diante do fumus comissi delicti, a liberdade de Gleyson, Júlio, Ailton e Lucivaldo causa descrédito à atuação da atividade jurisdicional, fundamento também da ordem pública, em especial pelo desrespeito às decisões judiciais. Existem indícios suficientes de autoria, tendo em vista os depoimentos anexos ao procedimento e as imagens de monitoramento eletrônico anexas ao ID 27965540. Da mesma forma, a materialidade se encontra presente nos laudos toxicológico definitivo(ID 27963360, p. 04/06) ele são corporal em Wharllem (ID 27963360, p. 08/12).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
