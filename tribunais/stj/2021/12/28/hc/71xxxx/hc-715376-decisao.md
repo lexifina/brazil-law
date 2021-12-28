@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor deADRIANA LAURA CARVALHO RAMOSem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ(Habeas Corpus n. 0815079-87.2021.8.14.0000).
+Narra o writ que a paciente foipresa em flagrante no dia 19/12/2021 por ter provocado acidente de trânsito. Relata queo veículo que conduziadesgovernou-se e atingiuciclistas que pedalavam na BR 316. Informa que ela parou para prestar socorro às vítimas, fez o bafômetro (resultado negativo para alcoolemia), não fugiu do local e não houve vítima fatal.
+A parte impetrante sustenta que a paciente sofre constrangimento ilegal na medida em que a decisão que decretou a prisão preventiva,na alegada gravidade concreta da ação, é carente de fundamentação idôneae não preenche os requisitos do art. 312 do Código de Processo Penal.Alega cabível a aplicação de medidas cautelares diversas do cárcere, nos termos do art. 319 do mesmo codex processual.
+Ressalta que a pacienteé primária, de bons antecedentes, com ocupação lícita (chefede gabinete do Instituto de Assistência a Saúde dos Servidores Públicos de Belém -IASB), possui residência fixae fortes laços familiares no distrito da culpa. Além disso, aponta que não foi constatada embriaguez ou habilitação cassada (arts. 306 e 162 do Código de Trânsito Brasileiro).
+Requer, liminarmente, a revogação da prisão preventiva, concedendo-se a liberdade provisória à paciente para respondera todo trâmite legal em liberdade e, se o caso, com a aplicação de medidas cautelares. No mérito, pugna pela concessão da ordem para confirmar a liminar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte julgado:
+HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO SINGULAR. TRIBUNAL DE ORIGEM. NEGATIVA DE SEGUIMENTO DE OUTRO HC. NÃO CABIMENTO. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE. SÚMULA 691 DO STF.
+1. Não é cabível habeas corpus em face de decisão de membro do Tribunal de origem, tendo em vista a necessidade de submissão da questão ao órgão colegiado competente, sob pena de supressão de instância. Aplicação analógica da Súmula 691 do STF (Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar).
+2. Não configurada teratologia na decisão impetrada, dado que, corretamente, negou seguimento ao habeas corpus em razão da existência de recurso próprio cabível contra a decisão que deferiu pedido liminar formulado pelo Ministério Público de busca e apreensão do menor (e- STJ fl. 237/238).
+3. Habeas Corpus extinto sem apreciação do mérito. (HC 258.820/SP, relatora Ministra ISABEL GALLOTI, QUARTA TURMA, julgado em 12/11/2013, DJe 28/11/2013 )
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
