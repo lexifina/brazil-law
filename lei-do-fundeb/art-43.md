@@ -1,8 +1,8 @@
-Art. 43. Esta Lei será atualizada até 31 de outubro de 2021, com relação a:
+Art. 43. Esta Lei será atualizada até 31 de outubro de 2023, para aplicação no exercício de 2024, com relação a:
 I - diferenças e ponderações quanto ao valor anual por aluno entre etapas, modalidades, duração da jornada e tipos de estabelecimento de ensino, nos termos do art. 7º desta Lei;
 II - diferenças e ponderações quanto ao valor anual por aluno relativas ao nível socioeconômico dos educandos e aos indicadores de disponibilidade de recursos vinculados à educação e de potencial de arrecadação tributária de cada ente federado, nos termos do art. 10 desta Lei;
 III - indicador para educação infantil, nos termos do art. 28 desta Lei.
-§ 1º No exercício financeiro de 2021, serão atribuídos:
+§ 1º Nos exercícios financeiros de 2021, 2022 e 2023 serão atribuídos:
 I - para as diferenças e as ponderações de que trata o inciso I do caput deste artigo:
 a) creche em tempo integral:
 1. pública: 1,30 (um inteiro e trinta centésimos); e
@@ -30,5 +30,6 @@ II - para as diferenças e as ponderações de que trata o inciso II do caput de
 III - para indicador de que trata o inciso III do caput deste artigo:
 a) poderá ser adotada metodologia provisória de cálculo definida pelo Inep, observado o disposto no art. 28 desta Lei, nos termos de regulamento do Ministério da Educação;
 b) será adotado o número de matrículas em educação infantil de cada rede municipal beneficiária da complementação-VAAT, caso não haja a definição prevista na alínea a deste inciso.
-§ 2º Para fins de distribuição da complementação-VAAT, no exercício financeiro de 2021, as diferenças e as ponderações especificadas nas alíneas a, b, c e d do inciso I do § 1º deste artigo terão a aplicação de fator multiplicativo de 1,50 (um inteiro e cinquenta centésimos).
-§ 3º Para vigência em 2022, as deliberações de que trata o § 2º do art. 17 desta Lei constarão de resolução publicada no Diário Oficial da União até o dia 31 de outubro de 2021, com base em estudos elaborados pelo Inep e encaminhados à Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade até 31 de julho de 2021.
+§ 2º Para fins de distribuição da complementação-VAAT, no exercício financeiro de 2021, 2022 e 2023, as diferenças e as ponderações especificadas nas alíneas a, b, c e d do inciso I do § 1º deste artigo terão a aplicação de fator multiplicativo de 1,50 (um inteiro e cinquenta centésimos).
+§ 3º Para vigência em 2024, as deliberações de que trata o § 2º do art. 17 desta Lei constarão de resolução publicada no Diário Oficial da União até o dia 31 de outubro de 2023, com base em estudos elaborados pelo Inep e pelo Ministério da Economia, nos termos do art. 18 desta Lei, e encaminhados à Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade até 31 de julho de 2023.
+§ 4º Para o exercício financeiro de 2023, os indicadores referidos no inciso III do caput do art. 5º desta Lei serão excepcionalmente definidos por regulamento, de forma a considerar os impactos da pandemia da Covid-19 nos resultados educacionais.
