@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de ALAX JAMYS DA SILVA PANIAGOem que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+O paciente foi preso preventivamente em 22 de novembro de 2021, em tese pelo pretenso cometimento do crime tipificado nos art. 33 e 35, c/c 40, I, da Lei nº 11.343/2006, e artigo 2º, caput, da Lei nº 12.850/201.
+O impetrante sustenta que "A decisão que indeferiu a Revogação, novamente sem fundamentação, e o que é mais grave, em uma nítida antecipação de julgamento/condenação do paciente, sem mesmo o Ministério Público ter apresentado a competente denúncia e iniciado a fase instrutória"(fl. 4).
+Alega que, além de ostentar condições pessoais favoráveis, inexistem os requisitos autorizadores para a decretação da prisão preventiva do paciente.
+Afirma que "O Eminente Desembargador Plantonista, ao fundamentar seu julgado com as mesmas palavras do juízo de primeiro grau, ou seja, colacionando o que já fora dito por outro juízo, não enfrentou nenhum dos temas demonstrados e comprovados no Habeas Corpus proposto, caracterizando assim nitidamente o decisium ora guerreado que é teratológico e sem qualquer fundamento, o que torna a prisão ilegal"(fl. 18).
+Requer, liminarmente e no mérito,a concessão da ordem para que seja revogada a prisão preventiva e, subsidiariamente, aplicação de medida cautelar alternativa.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular, porquanto, conforme consignou o tribunal de origem, "o decreto de prisão preventiva encontra-se fundamentado e não apresenta flagrante ilegalidade/arbitrariedade ou mesmo teratologia a ensejar o deferimento da medida liminar demandada" e quesomente na hipótese de restar comprovado que o custodiado é portador da moléstia e que efetivamente constitui fator de agravamento da COVID- 19, justificaria medida diversa, o que não encontra presente nos autos até este momento"(fl. 57).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
