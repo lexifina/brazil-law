@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de ALEXANDRE JOSE DE MATTOS, THIAGO ARAUJO VICENTE DA SILVAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Os pacientes foram presos preventivamente para apuração dos crimes de estelionato e associação criminosa. O magistrado localsubstituiu a custódia preventiva dos pacientes por medidas cautelares alternativas, colocando-os em liberdade em 10/02/2021.
+Contudo,recebida a representação de prisão preventiva e quebra de sigilo bancário dos pacientesformulada pela Autoridade Policial de Catalão/GO, sob endosso do "parquet" local, o Juízo de origem, em 13/02/2021, decretou a prisão preventiva dos investigados, sendo que opaciente ALEXANDRE só teria sido capturado em São Paulo, na data de 27/11/2021, ou seja,mais de 9 meses após a decretação da custódia.
+Ressalta o impetrante que "desde a data de revogação da custódia preventiva, os pacientes têm cumprido à risca todas as medidas cautelares lhes impostas pelo E. Juízo de Ipameri/GO, sem qualquer notícia de reiteração criminosa, ou mesmo de que os pacientes tenham contatado vítimas, testemunhas ou interferido/tumultuado a coleta de provas, tampouco tumultuado a instrução processual."
+Aduz o impetrante a ocorrência de constrangimento ilegal decorrente da decisão monocrática que indeferiu pedido liminar formulado em habeas corpus impetrado perante o Tribunal local, visando a soltura dos pacientes.
+Sustenta, em síntese, a insuficiência de fundamentação para a manutenção da custódia cautelar, a ausência dos seus pressupostos autorizadores e a existência de circunstâncias pessoais favoráveis ao paciente.
+Requer a concessão da ordem, liminarmente, para que o paciente seja colocado em liberdade, aplicando-se, caso necessário, as medidas cautelares diversas da prisão.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
