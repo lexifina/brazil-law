@@ -1,0 +1,20 @@
+PLANTÃO JUDICIÁRIO
+AGRAVO DE INSTRUMENTO N. 1023556-02.2021.8.11.0000
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo interposto em plantão judiciário pelo Município de Cuiabá, contra a decisão interlocutória prolatada pelo Juízo Plantonista da Comarca de Várzea Grande-MT, no dia 23 de dezembro de 2021, nos autos da ação cominatória para cumprimento de obrigação de fazer com pedido de tutela de urgência registrada sob o n. 1040564-83.2021.8.11.0002, movida por Greicy Kelly Cardoso da Silva, representada por sua mãe Flávia Aparecida Brito Cardoso em desfavor do agravante e do Estado de Mato Grosso, em cujo édito judicial foi determinada a realização, no prazo de 48 horas, de cirurgia corretiva cardíaca, bem como o fornecimento de todos os medicamentos e procedimentos intercorrentes que forem necessários para restabelecer a saúde da agravada.
+O agravante alega que o procedimento pretendido pela agravada pressupõe o tratamento e a compra de insumos de média e/ou alto complexidade, não sendo, por isso, serviço de responsabilidade da atenção básica de saúde municipal, o que implica reconhecer que a competência para sua prestação não é do Município de Cuiabá, mas sim do Estado de Mato Grosso, que é responsável pela gestão do sistema de regulação e tratamentos especializados e de alto custo e de alta complexidade.
+No entanto, a despeito das razões deduzidas na prefacial e os documentos que a instruem, denota-se que a menor Greicy Kelly Cardoso da Silva, representada por sua mãe Flávia Aparecida Brito Cardoso, quando moveu a ação acima referida atribuiu à causa, o valor de R$ 50.000.00 (cinquenta mil reais), consoante se infere do ID 114061471, p. 29, motivo pelo qual, este Tribunal de Justiça, não tem competência para examinar e julgar o presente recurso.
+Isso porque, induvidosamente, a competência para processar e julgar pretensão deduzida contra o Estado de Mato Grosso e seus municípios, bem como em face das autarquias, fundações ou empresas públicas vinculadas aos dois entes, até o limite de sessenta (60) salários mínimos, é do Juizado Especial da Fazenda Pública nos termos do caput do art. 2o da Lei n. 12.153/2009.
+A propósito, acerca da matéria, a Seção de Direito Público e Coletivo deste Tribunal de Justiça, ao julgar o Incidente de Resolução de Demandas Repetitivas n. 8.556/2016, deixou assentado:
+Compete ao Juizado Especial da Fazenda Pública o processamento e o julgamento das ações, em que o valor da causa não ultrapasse a 60 (sessenta) salário mínimos, independente da complexidade da matéria e da necessidade da produção da prova pericial. Por se tratar de questão de direito e, com vista a evitar ofensa à segurança jurídica, deve o pedido formulado no Incidente de Resolução de Demandas Repetitivas ser julgado improcedente, fixando, de consequência, a tese jurídica de que as ações concernentes à URV devem ser processadas e julgadas no Juizado Especial da Fazenda Pública, nos termos do art. 2o, da Lei n. 12.153/2009 Destacamos
+Por sua vez, o art. 51, XV, do Regimento Interno do Tribunal de Justiça de Mato Grosso, dispõe que, quando restar evidenciada a incompetência desta Corte de Justiça, cabe ao relator determinar o encaminhamento dos autos ao juízo competente, conforme se verifica da redação dos referidos preceptivos:
+Art. 51 - Compete ao Relator:
+[...]
+XV – Julgar pedido manifestamente incabível ou que haja perdido seu objeto, ou, ainda, declarar a incompetência do órgão, quando evidente. Negritamos
+Posto isso, com fulcro no art. 64, § 1o, do Código de Processo Civil c/c o art. 51, inciso XV, do RITJMT, declaro a incompetência deste Tribunal de Justiça para conhecer e julgar o presente recurso, determinando a remessa destes autos ao juízo plantonista competente, de acordo com as normas legais e regimentais aplicáveis à espécie.
+Intime-se o impetrante na forma da Lei.
+Cumpra-se, com a urgência que o caso requer.
+Cumpra-se.
+Cuiabá, 29 de dezembro de 2021.
+Desembargador LUIZ FERREIRA DA SILVA
+Plantonista
