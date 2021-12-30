@@ -1,0 +1,2 @@
+Altera as Leis nos 12.651, de 25 de maio de 2012, que dispõe sobre a proteção da vegetação nativa, 11.952, de 25 de junho de 2009, que dispõe sobre regularização fundiária em terras da União, e 6.766, de 19 de dezembro de 1979, que dispõe sobre o parcelamento do solo urbano, para dispor sobre as áreas de preservação permanente no entorno de cursos d'água em áreas urbanas consolidadas.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
