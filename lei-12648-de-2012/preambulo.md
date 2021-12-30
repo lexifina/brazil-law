@@ -1,0 +1,2 @@
+Altera dispositivos das Leis nºs 7.920, de 12 de dezembro de 1989, 8.399, de 7 de janeiro de 1992, 9.825, de 23 de agosto de 1999, 12.462, de 5 de agosto de 2011, 6.009, de 26 de dezembro de 1973, e 5.862, de 12 de dezembro de 1972; revoga o Decreto-Lei nº 1.896, de 17 de dezembro de 1981; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
