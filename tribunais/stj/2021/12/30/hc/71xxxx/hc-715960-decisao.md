@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de SIDONEY TENACOL DE CASTRO eRONEY TENACOL DE CASTRO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS (064546-78.2021.8.04.3800).
+Os pacientes foram presos preventivamente pela suposta prática do crime de extorsão.
+A impetrante sustenta que "os pacientes foram presos em 07 de junho de 2021, encontrando-se, atualmente, custodiados na comarca de Coari, interior do Amazonas, há mais de 200 dias, sem que haja sequer a audiência de instrução e julgamento que já fora remarcada 03 (três) vezes por motivos alheios à vontade dos acusados, o que torna por si só, a prisão ilegal".
+Sustenta, também, que não houve o encerramento do inquérito, em clara inobservância ao que prescreve o art. 306 do CPP. Alega, ainda, que os réus são tecnicamente primários, apesar de estarem respondendo a dois processos criminais, são pessoas íntegras e de bons antecedentes. "Possui ainda endereço certo na comarca em que estão segregados, possuem fortes laços familiares no distrito de culpa, onde residem com sua família, esposa e filhos menores, trabalham na condição de agricultores, junto com seus familiares, os quais todos residem no mesmo município que os acusados, sendo assim por essas razões dentre outras, sua prisão preventiva totalmente descabida e desnecessária".
+Requer, em liminar, a revogação da prisão preventiva, expedindo-se, de imediato, alvará de soltura em favor dos pacientes. No mérito, requer o relaxamento da prisão com a devida concessão da ordem de habeas corpus, confirmando-se a liminar concedida ab initio litis, para cassar a prisão preventiva decretada em favor dos pacientes, se entender necessário, que seja com aplicação das medidas cautelares diversas da prisão, nas quais os pacientes se comprometem em cumpri-las integralmente. Outrossim, seja o presente pedido de habeas corpus julgado procedente ao final, sendo confirmada a decisão liminar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19. GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
