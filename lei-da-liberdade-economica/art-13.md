@@ -30,7 +30,6 @@ Parágrafo único. A aplicação do disposto no caput deste artigo observará, n
 § 1º O disposto no caput deste artigo inclui o estabelecimento de parâmetros de valor para a dispensa da prática de atos processuais.
 § 2º A aplicação do disposto neste artigo não implicará o reconhecimento da procedência do pedido formulado pelo autor.
 § 3º O disposto neste artigo aplica-se, inclusive, à atuação da Procuradoria-Geral da Fazenda Nacional no âmbito do contencioso administrativo fiscal."
-"Art. 19-D. À Procuradoria-Geral da União, à Procuradoria-Geral Federal e à Procuradoria-Geral do Banco Central do Brasil aplica-se, no que couber, o disposto nos arts. 19, 19-B e 19-C desta Lei, sem prejuízo do disposto na Lei nº 9.469, de 10 de julho de 1997.
 § 1º Aos órgãos da administração pública federal direta, representados pela Procuradoria-Geral da União, e às autarquias e fundações públicas, representadas pela Procuradoria-Geral Federal ou pela Procuradoria-Geral do Banco Central do Brasil, aplica-se, no que couber, o disposto no art. 19-B desta Lei.
 § 2º Ato do Advogado-Geral da União disciplinará o disposto neste artigo."
 "Art. 20. Serão arquivados, sem baixa na distribuição, por meio de requerimento do Procurador da Fazenda Nacional, os autos das execuções fiscais de débitos inscritos em dívida ativa da União pela Procuradoria-Geral da Fazenda Nacional ou por ela cobrados, de valor consolidado igual ou inferior àquele estabelecido em ato do Procurador-Geral da Fazenda Nacional.
