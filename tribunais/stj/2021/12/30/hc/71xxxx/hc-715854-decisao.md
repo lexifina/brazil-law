@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de OSMAR DE OLIVEIRA NOVAIS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HCn.0900368-68.2021.9.26.0000).
+Infere-se dos autos que o paciente foi preso em 23/11/2021 em decorrência de decreto de prisão da 1ª Auditoria de Justiça Militar do Estado de São Paulo, em decorrência dedecisão do JuizMarcos Fernando Theodoro Pinheiro, proferida em 17/6/21, nos autos do Processo n.002399- 93.2021.9.26.0030, que autorizou o compartilhamento de provas para a instauração de novo inquérito policial militar para a investigação de crimes praticados por policiais militares que atuam na Cidade de Campinas (SP).
+A investigação tem como base o contexto do art. 2º, § 7º, da Lei Federal n. 12.850/2013, a qual define organização criminosa e dispõe sobre a investigação criminal, destinando-se, portanto, à apuração de crimes de constituição de organização criminosa, violação de sigilo funcional e outros que porventura sejam comprovados durante o curso do persecutório.(ID n.353237).
+Argumenta a existência de constrangimento ilegal, uma vez que a prisão foi decretada em fatos apurados em outro IPM que ainda se encontra em fase de diligências, e a decisão que não conhece da ordem de habeas corpus proferida em plantão judicial pelo Presidente doTribunal de Justiça Militaré carente de fundamentação idônea, uma vez que a alteração fática foi desconsiderada pela autoridade coatora que, de forma equivocada, supôs existir reiteração de pedido.
+A parte impetrante requer arevogação de prisão preventiva alicerçada em relevantes e novos fatos, entendendo pelaexistência de provas que indicam inocência do paciente, uma vez que o novo pedido não foi apreciado pelo Juízo de origem em razão do recesso.
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+Amatéria não foi apreciada pelo Tribunal de origem, sendo certo que o habeas corpus impetradonaquela instância foradesprovidopor decisão monocrática do relator, por reconhecer tratar-se de reiteração de anterior writ (fls. 35-38).
+Não há acórdão sobre a matéria suscitada na presente impetração, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+Registre-se que "a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica a exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado" (AgRg no HC n. 600.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Ante o exposto, com fundamento no art. 21, XIII,c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
