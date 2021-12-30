@@ -47,6 +47,16 @@ XXII - faixa de passagem de inundação: área de várzea ou planície de inunda
 XXIII - relevo ondulado: expressão geomorfológica usada para designar área caracterizada por movimentações do terreno que geram depressões, cuja intensidade permite sua classificação como relevo suave ondulado, ondulado, fortemente ondulado e montanhoso.
 XXIV - pousio: prática de interrupção temporária de atividades ou usos agrícolas, pecuários ou silviculturais, por no máximo 5 (cinco) anos, para possibilitar a recuperação da capacidade de uso ou da estrutura física do solo;.
 XXV - áreas úmidas: pantanais e superfícies terrestres cobertas de forma periódica por águas, cobertas originalmente por florestas ou outras formas de vegetação adaptadas à inundação;.
-XXVI - área urbana consolidada: aquela de que trata o inciso II do caput do art. 47 da Lei nº 11.977, de 7 de julho de 2009; e.
+XXVI - área urbana consolidada: aquela que atende os seguintes critérios:
+a) estar incluída no perímetro urbano ou em zona urbana pelo plano diretor ou por lei municipal específica;
+b) dispor de sistema viário implantado;
+c) estar organizada em quadras e lotes predominantemente edificados;
+d) apresentar uso predominantemente urbano, caracterizado pela existência de edificações residenciais, comerciais, industriais, institucionais, mistas ou direcionadas à prestação de serviços;
+e) dispor de, no mínimo, 2 (dois) dos seguintes equipamentos de infraestrutura urbana implantados:
+1. drenagem de águas pluviais;
+2. esgotamento sanitário;
+3. abastecimento de água potável;
+4. distribuição de energia elétrica e iluminação pública; e
+5. limpeza urbana, coleta e manejo de resíduos sólidos;
 XXVII - crédito de carbono: título de direito sobre bem intangível e incorpóreo transacionável.
 Parágrafo único. Para os fins desta Lei, estende-se o tratamento dispensado aos imóveis a que se refere o inciso V deste artigo às propriedades e posses rurais com até 4 (quatro) módulos fiscais que desenvolvam atividades agrossilvipastoris, bem como às terras indígenas demarcadas e às demais áreas tituladas de povos e comunidades tradicionais que façam uso coletivo do seu território.
