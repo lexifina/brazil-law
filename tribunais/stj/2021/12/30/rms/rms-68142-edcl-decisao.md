@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela ORDEM DOS ADVOGADOS DO BRASIL - SEÇÃO GOIÁS, com relação à decisão de fls. 628-621, que indeferiu o pedido de liminar em regime de plantão.
+Sustenta a parte embargante, em suma, que (fl. 1.607):
+Partindo dessa premissa, alega-se a existência de omissão na decisão embargada, mormente no ponto em que não visualizou a caracterização do periculum in mora necessário ao deferimento da antecipação dos efeitos da tutela recursal.
+É que, diversamente do argumentado no ato judicial objurgado, a recorrente explanou na peça do recurso ordinário que o perigo da demora corresponde à " ..  possibilidade de inscrição em divida ativa e posterior execução da sanção pecuniária -, para que seja determinada a suspensão liminar da exigibilidade da multa por abandono, cum fulcro no art. 995, parágrafo único do CPC" (e-STJ fl. 586). Além disso, consta nos autos que o próprio juízo impetrado determinou, na sentença de absolvição nos autos do processo que originou a aplicação da multa questionada, a expedição de ofício " ..  à Procuradoria-Geral da Fazenda Nacional com cópia da decisão que aplicou multa por abandono processual (art. 265, CPP) ao advogado Dr. Eduardo José Dias, OAB-GO nº 19.552, no valor de vinte salários mínimos, para fins de inscrição do débito em dívida ativa" (e-STJ, fls. 507/510).
+Requer o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto (EDcl no AgInt nos EREsp n. 1.806.207/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 24/3/2021).
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+De toda sorte, ressalte-se que, não obstante a fundamentação sustentada pela requerente, o fato é que seu exame encontra-se atrelado ao próprio mérito do recursoe, diante da natureza satisfativa do pleito, sua análise pormenorizada compete ao Colegiado, não sendo, pois, passível de exame/concessão em sede de cognição sumária.
+Outrossim, não obstante a alegação de ocorrência de atos de execução do julgado, tal argumentação não se mostra suficiente para a configuração de risco de dano jurídico irreversível (RCD na AR n. 5.879/SE, de minha relatoria, Primeira Seção, julgado em 26/10/2016, DJe de 8/11/2016).
+Ante o exposto, rejeito os embargos de declaração.
+Remetam-se os autos diretamente ao ministro relator.
+Publique-se. Intimem-se.
