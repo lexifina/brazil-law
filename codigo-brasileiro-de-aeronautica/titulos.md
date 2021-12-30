@@ -44,8 +44,6 @@ CAPÍTULO V
 Sistema de Registro Aeronáutico Brasileiro
 SEÇÃO I
 Do Registro Aeronáutico Brasileiro
-SEÇÃO II
-Do Procedimento de Registro de Aeronaves
 CAPÍTULO VI
 SiSTEMA DE iNVESTIGAÇÃO E PREVENÇÃO DE ACiDENTES AERONÁUTICOS - SIPAER
 Seção I
@@ -130,25 +128,16 @@ TÍTULO VI
 Dos Serviços Aéreos
 CAPÍTULO I
 Introdução
-CAPÍTULO II
-Serviços Aéreos Privados
 CAPÍTULO III
 Serviços Aéreos Públicos
-SEÇÃO I
-Da Concessão ou Autorização para os Serviços Aéreos Públicos
-SEÇÃO II
-Da Aprovação dos Atos Constitutivos e suas Alterações
-SEÇÃO III
-Da Intervenção, Liquidação e Falência de Empresa Concessionária de Serviços Aéreos Públicos
-SEÇÃO IV
-Do Controle e Fiscalização dos Serviços Aéreos Públicos
+CAPÍTULO III
+Serviços aéreos
 SEÇÃO IV
 Da Exploração de Serviços Aéreos
-Dos Serviços Aéreos Especializados
 CAPÍTULO V
-Do Transporte Aéreo Regular
+Do Transporte Aéreo
 SEÇÃO I
-Do Transporte Aéreo Regular Internacional
+Do Transporte Aéreo Internacional
 Da Designação de Empresas Brasileiras
 Da Designação e Autorização de Empresas Estrangeiras
 Da Autorização para Funcionamento
@@ -156,8 +145,6 @@ Da Autorização para Operar
 Da Autorização de Agência de Empresa Estrangeira que Não Opere Serviços Aéreos no Brasil
 SEÇÃO II
 Do Transporte Doméstico
-CAPÍTULO VI
-Dos Serviços de Transporte Aéreo Não Regular
 TÍTULO VII
 Do Contrato de Transporte Aéreo
 CAPÍTULO I
