@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de MARCELO PEROUSE DE MELLO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+O paciente foi preso preventivamente em 10/12/2021, após serdenunciado como incurso nos artigos 2ºda Lei n. 12.850/13e 333do Código Penal.
+Aduzem os impetrantes a ocorrência de constrangimento ilegal decorrente da decisão monocrática proferida em sede de plantão, que indeferiu pedido liminar impetrado perante o Tribunal de origem.
+Sustentam, em síntese, que o paciente possui filho com paralisia cerebral, sendo imprescindível aos cuidados dispensados ao menor.
+Requerem a concessão da ordem, liminarmente, para que seja determinada a revogação da prisão cautelar do paciente. Subsidiariamente, requerem a substituição da medida extrema por prisão domiciliar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. WRIT INDEFERIDO LIMINARMENTE. SÚMULA 691 DO STF. AUSÊNCIA DE FLAGRANTE DE ILEGALIDADE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Apresentada fundamentação concreta para decretação da custódia preventiva, qual seja, expressiva quantidade apreendida e diversidade - 207,11 gramas de haxixe; 49,99 gramas de haxixe; 18,09 gramas de maconha; 39,92 gramas de cocaína; 18,81 gramas de cogumelos e duas plantas de maconha -, não há que falar em ilegalidade.
+2. Inexistindo ilegalidade para justificar a mitigação do enunciado da Súmula 691 do STF, o writ deve ser indeferido liminarmente.
+3. Agravo regimental improvido. (AgRg no HC 597.878/SP, relatorMinistro NEFI CORDEIRO, SEXTA TURMA, julgado em 1º/09/2020, DJe 16/09/2020.)
+Confira-se também a Súmula n. 691 do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto a decisão impugnada encontra-se devidamente fundamentada, nos seguintes termos:
+(..) Do que constante dos presentes autos, realmente, a condição de portador de grave doença não se reveste de atualidade, a atrair a possibilidade de conversão em prisão domiciliar (art. 318, II, do Código de Processo Penal). Os documentos de fls. 309/310 datam de setembro de 2019, pelo que não dão conta de que o paciente, presentemente, demande cuidados especiais. Quanto às necessidades do filho do paciente, de nome Matheus Santos Perouse de Mello (fls. 312), esta Magistrada compreende e se sensibiliza com as suas condições pessoais e tem certeza que, diante do relatório de fls. 313, que este tem sua autonomia comprometida. Todavia, não há considerar em tratamento diferenciado por parte do Juízo de Primeiro Grau, eis que, para a soltura do corréu Odail da Conceição Santos, a análise se deveu à condição de Curador Judicial de pessoa portadora de doença grave. Por mais incapacitado que aparente ser seu filho, há que se adotar a presunção de plena capacidade para a prática dos atos da vida civil, certo que não há informações nos autos de que Matheus Santos Perouse de Mello tenha sido eventualmente declarado incapaz. Por isso que não visualizo indícios de ilegalidade praticados pela autoridade apontada como coatora. Portanto, de se manter o estado de coisas tal como se encontra. Pelo exposto, indefiro a concessão da medida liminar postulada(..).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
