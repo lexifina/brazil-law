@@ -31,4 +31,7 @@ V - não implique novas supressões de vegetação nativa.
 § 7º (VETADO).
 § 8º (VETADO).
 § 9º (VETADO).
-§ 10. No caso de áreas urbanas, assim entendidas as compreendidas nos perímetros urbanos definidos por lei municipal, e nas regiões metropolitanas e aglomerações urbanas, observar-se-á o disposto nos respectivos Planos Diretores e Leis Municipais de Uso do Solo, sem prejuízo do disposto nos incisos do caput.
+§ 10. Em áreas urbanas consolidadas, ouvidos os conselhos estaduais, municipais ou distrital de meio ambiente, lei municipal ou distrital poderá definir faixas marginais distintas daquelas estabelecidas no inciso I do caput deste artigo, com regras que estabeleçam:
+I - a não ocupação de áreas com risco de desastres;
+II - a observância das diretrizes do plano de recursos hídricos, do plano de bacia, do plano de drenagem ou do plano de saneamento básico, se houver; e
+III - a previsão de que as atividades ou os empreendimentos a serem instalados nas áreas de preservação permanente urbanas devem observar os casos de utilidade pública, de interesse social ou de baixo impacto ambiental fixados nesta Lei.
