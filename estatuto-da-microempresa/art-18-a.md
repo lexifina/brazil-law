@@ -1,5 +1,8 @@
 Art. 18-A. O Microempreendedor Individual - MEI poderá optar pelo recolhimento dos impostos e contribuições abrangidos pelo Simples Nacional em valores fixos mensais, independentemente da receita bruta por ele auferida no mês, na forma prevista neste artigo.
-§ 1º Para os efeitos desta Lei Complementar, considera-se MEI o empresário individual que se enquadre na definição do art. 966 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, ou o empreendedor que exerça as atividades de industrialização, comercialização e prestação de serviços no âmbito rural, que tenha auferido receita bruta, no ano-calendário anterior, de até R$ 81.000,00 (oitenta e um mil reais), que seja optante pelo Simples Nacional e que não esteja impedido de optar pela sistemática prevista neste artigo.
+§ 1º Para os efeitos desta Lei Complementar, considera-se MEI quem tenha auferido receita bruta, no ano-calendário anterior, de até R$ 81.000,00 (oitenta e um mil reais), que seja optante pelo Simples Nacional e que não esteja impedido de optar pela sistemática prevista neste artigo, e seja empresário individual que se enquadre na definição do art. 966 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), ou o empreendedor que exerça:
+I - as atividades de que trata o § 4º-A deste artigo;
+II - as atividades de que trata o § 4º-B deste artigo estabelecidas pelo CGSN; e
+III - as atividades de industrialização, comercialização e prestação de serviços no âmbito rural.
 § 2º No caso de início de atividades, o limite de que trata o § 1º será de R$ 6.750,00 (seis mil, setecentos e cinquenta reais) multiplicados pelo número de meses compreendido entre o início da atividade e o final do respectivo ano-calendário, consideradas as frações de meses como um mês inteiro.
 § 3º Na vigência da opção pela sistemática de recolhimento prevista no caput deste artigo:
 I - não se aplica o disposto no § 18 do art. 18 desta Lei Complementar;
