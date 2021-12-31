@@ -1,0 +1,4 @@
+Art. 18-F. Para o transportador autônomo de cargas inscrito como MEI, nos termos do art. 18-A desta Lei Complementar:
+I - o limite da receita bruta de que trata o § 1º e o inciso V do § 3º do art. 18-A desta Lei Complementar será de R$ 251.600,00 (duzentos e cinquenta e um mil e seiscentos reais);
+II - o limite será de R$ 20.966,67 (vinte mil novecentos e sessenta e seis reais e sessenta e sete centavos) multiplicados pelo número de meses compreendidos entre o início da atividade e o final do respectivo ano-calendário, consideradas as frações de meses como um mês inteiro, no caso de início de atividades de que trata o § 2º do art. 18-A desta Lei Complementar;
+III - o valor mensal da contribuição de que trata o inciso X do § 1º do art. 13 desta Lei Complementar corresponderá ao valor resultante da aplicação da alíquota de 12% (doze por cento) sobre o salário-mínimo mensal.
