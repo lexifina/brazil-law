@@ -1,0 +1,1 @@
+Artigo 3º-A - A concessão do adicional de insalubridade dependerá da homologação do laudo de insalubridade, que produzirá efeitos pecuniários a partir da data de início de exercício na atividade ou local considerado insalubre. (NR)
