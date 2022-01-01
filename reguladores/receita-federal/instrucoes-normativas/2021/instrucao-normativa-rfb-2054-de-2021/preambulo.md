@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2054, de 6 de dezembro de 2021
+Aprova a VII Emenda à Nomenclatura do Sistema Harmonizado de Designação e de Codificação de Mercadorias.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXIV do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 2º do Decreto nº 766, de 3 de março de 1993, no Decreto nº 97.409, de 23 de dezembro de 1988, e nas Recomendações do Conselho de Cooperação Aduaneira de 28 de junho de 2019 e de 25 de junho de 2020, resolve:
