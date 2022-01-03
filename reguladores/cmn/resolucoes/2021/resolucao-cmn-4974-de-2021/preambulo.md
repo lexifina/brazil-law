@@ -1,0 +1,4 @@
+RESOLUÇÃO CMN Nº 4.974, DE 16 DE DEZEMBRO DE 2021
+Consolida as normas que regulamentam o inciso II do art. 5º e o inciso II do art. 5º-C da Lei nº 10.260, de 12 de julho de 2001, que trata do Fundo de Financiamento Estudantil (Fies), com a finalidade de estabelecer a forma de definição da taxa efetiva de juros dos financiamentos, e revoga expressamente as Resoluções que tratam do assunto.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 16 de dezembro de 2021, com base no art. 4º, inciso VI, da Lei nº 4.595, de 1964, nos arts. 5º, inciso II, e 5º-C, inciso II, da Lei nº 10.260, de 12 de julho de 2001, e nos arts. 4º, 5º, 6º, inciso I, 7º, inciso II e § 1º, e 8º, inciso I, do Decreto nº 10.139, de 28 de novembro de 2019,
+R E S O L V E U :
