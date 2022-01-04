@@ -2,7 +2,6 @@ Art. 68-A. Qualquer empresa ou consórcio de empresas constituídas sob as leis 
 § 1º As autorizações de que trata o caput destinam-se a permitir a exploração das atividades econômicas em regime de livre iniciativa e ampla competição, nos termos da legislação específica.
 § 2º A autorização de que trata o caput deverá considerar a comprovação, pelo interessado, quando couber, das condições previstas em lei específica, além das seguintes, conforme regulamento:
 I - estar constituído sob as leis brasileiras, com sede e administração no País;
-II - estar regular perante as fazendas federal, estadual e municipal, bem como demonstrar a regularidade de débitos perante a ANP;
 III - apresentar projeto básico da instalação, em conformidade às normas e aos padrões técnicos aplicáveis à atividade;
 IV - apresentar licença ambiental, ou outro documento que a substitua, expedida pelo órgão competente;
 V - apresentar projeto de controle de segurança das instalações aprovado pelo órgão competente;
