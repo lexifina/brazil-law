@@ -1,2 +1,1 @@
-Art. 68-D. O revendedor varejista que optar por exibir a marca comercial de distribuidor de combustíveis líquidos poderá comercializar combustíveis de outros fornecedores, na forma da regulação aplicável, e desde que devidamente informado ao consumidor.
-Parágrafo único. O disposto no caput não prejudicará cláusulas contratuais em sentido contrário, inclusive dos contratos vigentes na data de publicação da Medida Provisória nº 1.063, de 11 de agosto de 2021.
+Art. 68-D. É autorizada a revenda varejista de gasolina e etanol hidratado fora do estabelecimento autorizado, limitada ao município onde se localiza o revendedor varejista autorizado, na forma da regulação da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).
