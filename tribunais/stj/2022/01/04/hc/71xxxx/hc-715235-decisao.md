@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de WEBSTER JEFFERSON REIS LUIZ em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Apelação Criminal n. 1500967-87.2019.8.26.0621).
+O paciente foi condenado às penas de 5 anos de reclusão e de 500 dias-multa pela prática do crime previsto no art. 33 da Lei n. 11.343/2006.
+O impetrante sustenta que, em 17/12/2021, o Ministro João Otávio de Noronha, relator do Habeas Corpus n. 699.141/SP, concedeu a ordem pleiteada em benefício do paciente, determinando ao Juízo da Vara Criminal da Comarca de Lorena/SP o refazimento da dosimetria penal concretizada nos autos da Ação Penal n. 1500967-87.2019.8.26.0621, observando a incidência da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006 e a possibilidade de fixação de regime prisional mais brando e a substituição da pena privativa de liberdade por restritivas de direitos.
+Não obstante, informa que ainda hoje não houve o cumprimento da determinação expedida por esta Corte Superior, encontrando-se o paciente preso indevidamente.
+Requer, liminarmente, a liberdade provisória do paciente até o cumprimento da decisão proferida no HC n. 699.141/SP pelo Juízo da Vara Criminal da Comarca de Lorena/SP. No mérito, pugna pela concessão da ordem para que seja confirmada a medida liminar.
+O Juízo da Comarca de Guaratinguetá/SP, em regime de plantão, prestou informações sobre o andamento da Ação Penal n. 1500967-87.2019.8.26.0621 (fls. 333-338), deixando, contudo, de esclarecer se houve o cumprimento da ordem de habeas corpus concedida no âmbito desta Corte Superior, por decisão monocrática do MinistroJoão Otávio de Noronha no HC n. 699.141/SP, cuja cópia encontra-se acostada às fls. 312-315 dos autos de origem (e-STJ fls. 648-653).
+Solicitada a complementação das informações prestadas, o Juízo de primeiro grau plantonista esclareceu que não foi possível o cumprimento da ordem concedida no HC n. 699.141/SP, por ausência de tempo hábil, uma vez que a decisão proferida por esta Corte Superiorchegou ao conhecimento do Juízo da Comarca de Lorena/SPapenas no último dia do expediente forense normal. Acrescentou, ainda, que, diante da necessidade de observar o princípio da identidade física do juiz e para evitar prejuízo ao paciente, determinou ontem, dia 30/12/2021, a respectiva soltura (fl. 661).
+O Tribunal de origem prestou informações (fls. 667-676).
+É, no essencial, o relatório. Decido.
+Mediante análise dos autos, constata-se que o paciente foi colocado em liberdade provisória pelo Juízo plantonista da Comarca de Guaratinguetá/SP (fls. 661-663). Evidencia-se, portanto, a prejudicialidade do pedido ora formulado. Cito precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PEQUENAS QUANTIDADES. SUFICIÊNCIA DE MEDIDAS CAUTELARES.PRECEDENTES. AGRAVO IMPROVIDO. PEDIDO DEFENSIVO JULGADO PREJUDICADO.
+1. A jurisprudência da Sexta Turma do Superior Tribunal de Justiça vem se manifestando no sentido de que pequenas quantidades de entorpecentes não se mostram, por si sós, suficientes à manutenção da prisão preventiva, sendo suficiente a imposição de medidas cautelares diversas.
+2. Expedido alvará de soltura em favor do paciente, resta superada a alegação defensiva de descumprimento da decisão que deferiu o habeas corpus.
+3. Agravo regimental improvido e pedido defensivo julgado prejudicado.(AgRg no HC n. 644.307/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 1º/6/2021, DJe de 8/6/2021.)
+Considerando a nova realidade fático-processual, o objeto do presente writesgotou-se, de modo que não há mais o que decidir nestes autos.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
