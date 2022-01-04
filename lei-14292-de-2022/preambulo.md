@@ -1,0 +1,2 @@
+Altera a Lei nº 9.478, de 6 de agosto de 1997, e a Lei nº 9.718, de 27 de novembro de 1998, para dispor sobre as operações de compra e venda de álcool, a comercialização de combustíveis por revendedor varejista e a incidência da Contribuição para o Programa de Integração Social e o Programa de Formação do Patrimônio do Servidor Público (PIS/Pasep) e da Contribuição para o Financiamento da Seguridade Social (Cofins) nas referidas operações.
+O PRESIDENTE DA REPÚBLI A Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
