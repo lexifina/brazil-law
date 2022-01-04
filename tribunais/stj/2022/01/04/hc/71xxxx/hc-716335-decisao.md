@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de MARLLON DI PADUA RODRIGUES LIMAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO(HC n. 3204/2021.04735647).
+O paciente foi condenado à pena de 25 anos, 4 meses e 9 diaspelo cometimento docrime tipificado no art.157, § 2º, incisos I, II e V, três vezes, na forma do art. 70, ambos do Código Penal.
+A impetrante sustenta que o paciente "permaneceu em regime fechado por mais de1 (um) ano, além do prazo que já possuía para progressão ao regime semiaberto, " e que "protocolou pedido de visita periódica ao lar e de trabalho extramuros na data de 22.05.2021, o qual foi indeferido, aos fundamentos de gravidade abstrata dos crimes em execução e de longa pena remanescente, restando consignado que era "necessário aferir com segurança como seria o comportamento do Apenado no regime mais brando" e que o pedido poderia ser reavaliado posteriormente" (fl. 5).
+Requer, em liminar,a determinação "à VEP para que analise, no prazo de 24 horas, os pleitos de Trabalho Extra Muros e Visita Periódica ao Lar, impondo-se ao Juízo da Execução que analise com exclusividade o requisito temporal e o mérito carcerário do Paciente, afastando-se, ainda, qualquer ilegal fundamento no sentido de aferir com segurança como seria o comportamento do Apenado no regime mais brando, vez que, o mesmo encontra-se no regime compatível desde 18.06.2020, ou seja, 01 (ano) e 06 (seis), conforme cálculos dos requisitos temporais, em anexo, tempo suficiente para avaliar o comportamento do apenado, que é EXCEPCIONAL" (fl. 17).
+No Tribunal de origem, o relator não conheceu da liminar e determinou a distribuição do feito para ser apreciadopelo seu juiz natural (fl. 18).
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A decisão impugnada foi proferida por desembargador. Não há acórdão sobre a matéria suscitada na presente impetração, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça.
+Registre-se que "a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica a exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado" (AgRg no HC n. 600.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
