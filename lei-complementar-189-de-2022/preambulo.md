@@ -1,0 +1,2 @@
+Altera a Lei Complementar nº 156, de 28 de dezembro de 2016, que estabelece o Plano de Auxílio aos Estados e ao Distrito Federal e medidas de estímulo ao reequilíbrio fiscal, e a Lei Complementar nº 159, de 19 de maio de 2017, que institui o Regime de Recuperação Fiscal dos Estados e do Distrito Federal.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
