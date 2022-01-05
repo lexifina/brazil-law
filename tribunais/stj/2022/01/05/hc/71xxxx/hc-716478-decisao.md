@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de NAYARA DA SILVA LEMOSem que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+A paciente foi presa em flagrante pelaprática do crime previsto nosArtigo 171 caput e § 3º e artigo 304, ambos do Código Penal Brasileiro.
+Oimpetrante sustenta que a paciente "se encontra sofrendo constrangimento ilegal por ato do eminente Juiz de Direito da 01ª Vara da Federal da Cidade de Jales, o qual arbitrou a fiança no valor equivalente a 04(quatro) mil reais",pois "A paciente não tem condições de arcar com o valor de tal fiança, visto que é hipossuficiente e isso já está esclarecido nos autos do processo"(fl. 3).
+Requer, liminarmente e no mérito, a concessão da ordem para que seja concedida a liberdade provisória sem fiança.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular, porquanto, conforme consignado pelo tribunal de origem(fl. 713):
+Com efeito, entendo incabível no presente caso a redução do valor da fiança fixada, mesmo porque, a meu sentir, sequer seria viável, no caso em tela, a concessão da liberdade provisória neste momento da persecução criminal, sem um maior aprofundamento das investigações.
+Isso porque além de a paciente ser reincidente em crime doloso, já tendo sido condenada, com trânsito em julgado, por crime de tráfico de drogas - conforme folha de antecedentes juntada aos autos -, extrai-se do depoimento do gerente geral da CEF de Santa Fé do Sul/SP e das demais testemunhas ouvidas quando do flagrante, que a paciente foi reconhecida pela prática de diversas condutas semelhantes a que está sendo investigada no presente inquérito, havendo indícios de ter se utilizado de documentos falsos de várias pessoas para saques em contas na Caixa Econômica Federal e também em lotéricas da mesma região.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
