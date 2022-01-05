@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de pedido de tutela provisóriaformulado por CARLOS HUMBERTO FERNANDES SILVApara atribuir efeito suspensivo ao recurso especial interposto.
+O Tribunal Regional Federal da 4ª Região assim se pronunciou sobre o efeito suspensivo na decisão sobre a admissibilidade do recurso especial:
+No que tange ao pedido de concessão de efeito suspensivo ao recurso especial, insta destacar que sua outorga em sede de juízo de admissibilidade constitui medida excepcional, vez que, em princípio, afasta o entendimento proferido por órgão colegiado do próprio tribunal.
+Ademais, para a atribuição de efeito suspensivo aos recursos especial e extraordinário no âmbito restrito do juízo de admissibilidade, além do perigo da demora - relacionado à irreversibilidade ou difícil reparação do dano decorrente da decisão hostilizada, caso se tenha de aguardar o trâmite normal do recurso -, é imprescindível que o inconformismo evidencie a probabilidade do direito, consubstanciada na efetiva possibilidade de acolhimento das teses suscitadas no recurso excepcional, aferível, em regra geral, pelos precedentes dos Tribunais Superiores a respeito da matéria.
+No caso, a ausência de um dos requisitos, qual seja, a probabilidade do direito, obsta a concessão da medida nesta seara preambular recursal.
+De fato, a prolação de juízos contrários à recorrente em dois graus de jurisdição, bem como a inexistência de jurisprudência consolidada a favor de suas teses nas cortes superiores não recomendam a antecipação requerida.
+Assim, indefiro o pedido de atribuição de efeito suspensivo a o recurso especial.
+E, com relação ao mérito do mandado de segurança,assim se pronunciou o Tribunal a quo:
+ADMINISTRATIVO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. DECADÊNCIA. PROCESSO DISCIPLINAR DA OAB. CONTROLE DE LEGALIDADE. PEDIDO DE REVISÃO. AUSÊNCIA DE MOTIVAÇÃO. (IM)POSSIBILIDADE.
+1-Nos termos do artigo 23 da Lei 12.016/09, "O direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado".
+2- A atuação do Poder Judiciário limita-se ao campo da legalidade/constitucionalidade do processo administrativo à luz dos princípios do contraditório, ampla defesa e do devido processo legal, vedada a incursão no mérito administrativo.
+3- A motivação é elemento essencial da decisão exarada em recurso administrativo, conforme art. 50 da Lei nº9.784/99.
+4- In casu, "O relator não confirmou essas alegações, nem explicitou exatamente quais normas teriam sido descumpridas em razão dos fatos alegados por Carlos Humberto Fernandes para caracterizar "erro de julgamento", nem se estaria caracterizada a falsa prova, limitando-se a dizer que os requisitos de admissibilidade do art. 73 §5º do Estatuto da OAB estariam cumpridos".
+É, no essencial, o relatório. Decido.
+Impende salientar que de acordo com o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+De toda sorte, não obstante a fundamentação sustentada pela parte requerente, o fato é que seu exame encontra-se atrelado ao próprio mérito do recurso especial, e, diante na natureza satisfativa do pleito, sua análise pormenorizada compete ao colegiado, não sendo, pois, passível de exame/concessão em sede de cognição sumária.
+Dessa forma, não houve a demonstração de como o possível erro no julgamento proferido pelo Tribunal de origem reclamaria intervenção urgente, a fim de se evitar "dano grave, de difícil ou impossível reparação" (AgInt no TP n. 851/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 28/5/2018).
+Ante o exposto, indefiro a tutela provisória requerida.
+Publique-se. Intimem-se.
