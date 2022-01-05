@@ -1,0 +1,1 @@
+Art. 20-A. Nas hipóteses dos incisos XIV e XVI do caput do art. 12 desta Lei Complementar, o crédito relativo às operações e prestações anteriores deve ser deduzido apenas do débito correspondente ao imposto devido à unidade federada de origem.
