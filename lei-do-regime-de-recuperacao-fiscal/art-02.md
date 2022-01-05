@@ -14,11 +14,13 @@ I - não se aplica aos incentivos e aos benefícios fiscais ou financeiro-fiscai
 II - será implementado nos 3 (três) primeiros anos do Regime de Recuperação Fiscal, à proporção de, no mínimo, 1/3 (um terço) ao ano.
 § 4º Não se incluem na base de cálculo e no limite de que trata o inciso V do § 1º:
 I - as transferências constitucionais para os respectivos Municípios estabelecidas nos arts. 158 e 159, §§ 3º e 4º, e as destinações de que trata o art. 212-A, todos da Constituição Federal;
-II - as despesas custeadas com as transferências de que trata o art. 166-A da Constituição Federal;
-III - as despesas custeadas com doações e as transferências voluntárias definidas no art. 25 da Lei Complementar nº 101, de 4 de maio de 2000;
+II - as despesas custeadas com recursos de transferências previstas nos arts. 166 e 166-A da Constituição Federal;
+III - (revogado);
 IV - as despesas em saúde e educação realizadas pelo ente em razão de eventual diferença positiva entre a variação anual das bases de cálculo das aplicações mínimas de que tratam o § 2º do art. 198 e o art. 212 da Constituição Federal e a variação do IPCA no mesmo período.
+V - as despesas custeadas com recursos de transferências da União com aplicações vinculadas, conforme definido pela Secretaria do Tesouro Nacional do Ministério da Economia.
 § 5º O conjunto de dívidas a ser submetido aos leilões de pagamento de que trata o inciso VI do § 1º e a frequência dos leilões serão definidos no Plano de Recuperação Fiscal.
 § 6º O prazo de vigência do Regime de Recuperação Fiscal será de até 9 (nove) exercícios financeiros, observadas as hipóteses de encerramento do art. 12 e de extinção do art. 13, ambos desta Lei.
 § 7º O Ministério da Economia poderá autorizar a alteração, a pedido do Estado, das empresas públicas e das sociedades de economia mista e dos serviços e ativos de que trata o inciso I do § 1º, desde que assegurado ingresso de recursos equivalentes aos valores previstos na medida de ajuste original.
 § 8º Para fins de adesão ao Regime de Recuperação Fiscal, consideram-se implementadas as medidas referidas no § 1º caso o Estado demonstre, nos termos de regulamento, ser desnecessário editar legislação adicional para seu atendimento durante a vigência do Regime.
 § 9º Não se aplica o disposto no inciso VII aos fundos públicos previstos nas Constituições e Leis Orgânicas de cada ente federativo, inclusive no Ato das Disposições Constitucionais Transitórias, ou que tenham sido criados para operacionalizar vinculações de receitas estabelecidas nas Constituições e Leis Orgânicas de cada ente federativo.
+§ 10. As deduções previstas nos incisos II e V do § 4º deste artigo poderão ser realizadas de acordo com o valor transferido pela União a cada exercício.
