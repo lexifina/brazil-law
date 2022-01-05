@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de RAFAEL GOMES TOMBESI em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (PROCEDIMENTO ESPECIAL DA LEI ANTITÓXICOS N. 5034226-68.2021.8.21.0027/RS).
+O paciente encontra-se segregado cautelarmente em decorrência de prisão preventiva, pelo suposto cometimento de crime de tráfico de entorpecentes.
+Alega o impetrante, em síntese: a) que o paciente faz jus à aplicação da regra do artigo 318, inciso VI, do Código de Processo Penal, uma vez que é responsável pelo filho de 10 anos, com o qual coabita; b) que as circunstâncias favoráveis (primário, residência fixa e ocupação lícita) impõem a aplicação de medicas cautelares diversas da medida extrema.
+Requer, liminarmente, o trancamento da ação penal. Subsidiariamente pugna pela a revogação da prisão preventiva para que possa responder ao processo em liberdade e eventual aplicação das medidas cautelares do art. 319 do Código de Processo Penal.
+É, no essencial, o relatório. Decido.
+Preliminarmente, percebe-se a manifesta incompetência do Superior Tribunal de Justiça para análise do presente mandamus, uma vez que impetrado contra decisão de autoridade não constante do rol taxativo previsto art. 105, inciso I, alínea c, da Constituição Federal. Veja-se julgado nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO QUE APONTA COMO AUTORIDADE COATORA JUIZ DE 1º GRAU QUE MANTEVE A PRISÃO CAUTELAR DO PACIENTE. INCOMPETÊNCIA ABSOLUTA DESTA CORTE SUPERIOR DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. Tratando-se de insurgência voltada contra ato de Juízo de primeiro grau, é flagrante a incompetência desta Corte Superior de Justiça para processar e julgar originariamente este habeas corpus, ante a não incidência do disposto no art. 105, inciso I, alínea "c", da Constituição Federal. 2. Agravo regimental a que se nega provimento. (AgRg no HC n. 621.817/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 23/11/2020.)
+Vale destacarda decisão monocrática exarada no PROCEDIMENTO ESPECIAL DA LEI ANTITÓXICOS Nº 5034226-68.2021.8.21.0027/RS o que se segue (fl. 51):
+Por fim, os argumentos relativos à condição de arrimo familiar não restam suficientemente demonstradas, sendo imperioso destacar que, em que pese venham a ser comprovadas, por si só, provavelmente não se prestarão à concessão da liberdade provisória.
+Dessa forma, os fatos que ensejaram a decretação da prisão preventiva permanecem inalterados, nada novo vindo aos autos que tivesse o condão de alterara referida decisão.
+DIANTE DO EXPOSTO indefiro o pedido de liberdade provisória do acusado, mantendo a segregação preventiva.
+Ante o exposto, com fundamento no art. 21-E, inciso IV, do Regimento Interno do Superior Tribunal de Justiça, declaro a incompetência do STJ para processar o presente writ edetermino a remessa dos autos ao Tribunal de Justiça do Estado do Rio Grande do Sul, independentemente da publicação, para que adote as providências pertinentes.
+Publique-se. Intimem-se.
