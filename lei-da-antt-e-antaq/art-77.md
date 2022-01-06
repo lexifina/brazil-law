@@ -7,4 +7,3 @@ V - o produto das arrecadações de cada Agência, decorrentes da cobrança de e
 VI - outras receitas, inclusive as resultantes de aluguel ou alienação de bens, da aplicação de valores patrimoniais, de operações de crédito, de doações, legados e subvenções.
 § 1º (VETADO)
 § 2º (VETADO)
-§ 3º No caso do transporte rodoviário coletivo interestadual e internacional de passageiros, a taxa de fiscalização de que trata o inciso III do caput deste artigo será de R$ 1.800,00 (mil e oitocentos reais) por ano e por ônibus registrado pela empresa detentora de autorização ou permissão outorgada pela ANTT.

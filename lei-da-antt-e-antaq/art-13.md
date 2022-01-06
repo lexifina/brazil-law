@@ -5,7 +5,7 @@ III - (VETADO)
 IV - permissão, quando se tratar de:
 a) prestação regular de serviços de transporte terrestre coletivo interestadual semiurbano de passageiros desvinculados da exploração da infraestrutura;
 V - autorização, quando se tratar de:
-a) prestação não regular de serviços de transporte terrestre coletivo de passageiros;
+a) prestação não regular de serviços de transporte terrestre coletivo de passageiros, vedada a venda de bilhete de passagem;
 b) prestação de serviço de transporte aquaviário;
 c) exploração de infraestrutura de uso privativo; e
 e) prestação regular de serviços de transporte terrestre coletivo interestadual e internacional de passageiros desvinculados da exploração da infraestrutura.
