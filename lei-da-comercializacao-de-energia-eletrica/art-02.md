@@ -20,6 +20,7 @@ IV - o início da entrega da energia objeto dos CCEARs poderá ser antecipado, m
 I - energia elétrica proveniente de empreendimentos de geração existentes;
 II - energia proveniente de novos empreendimentos de geração; e
 III - fontes alternativas.
+IV - geração distribuída.
 § 6º Entendem-se como novos empreendimentos de geração aqueles que até o início de processo público licitatório para a expansão e comercialização da oferta de energia elétrica:
 I - não sejam detentores de outorga de concessão, permissão ou autorização; ou
 II - sejam parte de empreendimento existente que venha a ser objeto de ampliação, restrito ao acréscimo de capacidade.
