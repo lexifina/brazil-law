@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de LEONARDO RODRIGUES OLIVEIRAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+O paciente foi condenado nos autos n.º 004/2.17.0002150-5 pela prática do delito previsto no artigo 157, § 2º incisos I e II, do Código Penal, sendo aplicada a pena de 07 anos, 3 meses e 20 dias de reclusão, com início de cumprimento no regime fechado, com início de cumprimento de pena em 11.05.2017.
+Oimpetrante sustenta que, no cumprimento da pena o "paciente preencheu lapso temporal para fins de progressão ao regime semiaberto em 28.07.2019 e aberto em 01.08.2020 bem como Livramento Condicional 16.02.2020", que "não se perfectibilizaram tendo em vista o apenado possuir contra si decreto de prisão preventiva oriunda do processo tombado sob o n. º 001/2.17.0033302-8". Porém, foi absolvido no processo, com revogação de sua prisão, mas teve seu pedido negado,apesar de opaciente já ter preenchido o lapso temporal (fl. 4).
+Alega que "o paciente está cumprindo pena em regime inadequado, em contrariedade a entendimento já sumulado por este c. STJ", pois "já cumpriu 56% (4anos 7meses e 29dias) de sua pena em regime fechado" (fl. 5).
+Afirma que "Éinadmissível a alegação de que inviável o deferimento do livramento condicional por se estar pulando etapas do cumprimento da pena, na medida em que não há qualquer previsão para tal entendimento, sendo que o benefício é direito adquirido pelo apenado e sua supressão configura constrangimento ilegal"(fl. 6)e que "não se trata do instituto da progressão per saltum vedada pela súmula, mas sim de reiterados cumprimentos de requisitos, dando-se o direito ao tempo do fato gerador de cada progressão"(fl. 7).
+Requer, liminarmente e no mérito, a concessão da ordem para que seja concedido o benefício do livramento condicional ou, alternativamente, a progressão de regime ao semiaberto.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXTORSÃO E EXTORSÃO MEDIANTE SEQUESTRO. PRISÃO PREVENTIVA. MODUS OPERANDI. NOTÍCIAS DE AMEAÇAS À VÍTIMA. FUNDAMENTAÇÃO IDÔNEA. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ ..  (AgRg no HC 701.135/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2021).
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
