@@ -6,3 +6,6 @@ IV - promover a pesquisa e a adoção das melhores tecnologias aplicáveis aos m
 V - promover a adoção de práticas adequadas de conservação e uso racional dos combustíveis e de preservação do meio ambiente;
 VI - estabelecer que os subsídios incidentes sobre fretes e tarifas constituam ônus ao nível de governo que os imponha ou conceda;
 VII - reprimir fatos e ações que configurem ou possam configurar competição imperfeita ou infrações da ordem econômica.
+VIII - promover o tratamento isonômico nos procedimentos de alfandegamento e das exportações;
+IX - promover a adoção de ações que facilitem a multimodalidade e a implantação do documento único no desembaraço das mercadorias;
+X - promover a implantação de sistema eletrônico para entrega e recebimento de mercadorias, contemplando a multimodalidade.
