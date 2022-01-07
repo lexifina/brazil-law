@@ -49,15 +49,11 @@ II - participar de foros internacionais, sob a coordenação do Poder Executivo;
 § 2º A Antaq prestará ao Ministério dos Transportes ou à Secretaria de Portos da Presidência da República todo apoio necessário à celebração dos convênios de delegação." (NR)
 "Art. 56.
 Parágrafo único. Cabe ao Ministro de Estado dos Transportes ou ao Ministro de Estado Chefe da Secretaria de Portos da Presidência da República, conforme o caso, instaurar o processo administrativo disciplinar, competindo ao Presidente da República determinar o afastamento preventivo, quando for o caso, e proferir o julgamento." (NR)
-"Art. 67. As decisões das Diretorias serão tomadas pelo voto da maioria absoluta de seus membros, cabendo ao Diretor-Geral o voto de qualidade, e serão registradas em atas.
-Parágrafo único. As datas, as pautas e as atas das reuniões de Diretoria, assim como os documentos que as instruam, deverão ser objeto de ampla publicidade, inclusive por meio da internet, na forma do regulamento." (NR)
-"Art. 78. A ANTT e a Antaq submeterão ao Ministério dos Transportes e à Secretaria de Portos da Presidência da República, respectivamente, suas propostas orçamentárias anuais, nos termos da legislação em vigor.
 ..................................................................................." (NR)
 "Art. 78-A.
 § 1º Na aplicação das sanções referidas no caput, a Antaq observará o disposto na Lei na qual foi convertida a Medida Provisória nº 595, de 6 de dezembro de 2012.
 § 2º A aplicação da sanção prevista no inciso IV do caput, quando se tratar de concessão de porto organizado ou arrendamento e autorização de instalação portuária, caberá ao poder concedente, mediante proposta da Antaq." (NR)
 "Art. 81.
-III - instalações e vias de transbordo e de interface intermodal, exceto as portuárias;
 IV - (revogado)." (NR)
 "Art. 82.
 § 2º No exercício das atribuições previstas neste artigo e relativas a vias navegáveis, o DNIT observará as prerrogativas específicas da autoridade marítima.

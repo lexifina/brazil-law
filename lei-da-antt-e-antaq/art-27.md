@@ -30,6 +30,7 @@ XXVI - fiscalizar a execução dos contratos de concessão de porto organizado e
 XXVII - (revogado).
 XXVIII - publicar os editais, julgar as licitações e celebrar os contratos de concessão, precedida ou não de execução de obra pública, para a exploração de serviços de operação de eclusas ou de outros dispositivos de transposição hidroviária de níveis situados em corpos de água de domínio da União.
 XXIX - regulamentar outras formas de ocupação e exploração de áreas e instalações portuárias não previstas na legislação específica.
+XXX - fomentar a competição e tomar as medidas necessárias para evitar práticas anticoncorrenciais, especialmente no tocante à má-fé na oferta de embarcações que não atendam adequadamente às necessidades dos afretadores na hipótese prevista no inciso I do caput do art. 9º da Lei nº 9.432, de 8 de janeiro de 1997.
 § 1º No exercício de suas atribuições a ANTAQ poderá:
 I - firmar convênios de cooperação técnica e administrativa com órgãos e entidades da Administração Pública Federal, dos Estados, do Distrito Federal e dos Municípios, tendo em vista a descentralização e a fiscalização eficiente das outorgas;
 II - participar de foros internacionais, sob a coordenação do Poder Executivo; e
