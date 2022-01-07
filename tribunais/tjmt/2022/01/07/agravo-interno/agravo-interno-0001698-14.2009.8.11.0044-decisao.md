@@ -1,0 +1,38 @@
+AGRAVO INTERNO – AUTOS N.o 0001698-14.2009.8.11.0044 – COMARCA DE /MT.
+AGRAVANTE: ESTADO DE MATO GROSSO
+AGRAVADO: V. AVELINO GALVÃO e VILOMAR AVELINO GALVÃO
+DECISÃO MONOCRÁTICA
+Trata-se de agravo interno interposto pelo ESTADO DE MATO GROSSO contra decisão que negou provimento ao recurso de apelação, mantendo a sentença que, nos autos da execução fiscal proposta em desfavor de V. AVELINO GALVÃO e VILOMAR AVELINO GALVAO, reconheceu a prescrição intercorrente do débito tributário e julgou extinto o processo, com resolução de mérito.
+Em síntese, o agravante assinala que a sentença foi prolatada sem prévia intimação da Fazenda Pública, o que implica ofensa aos princípios do contraditório, da ampla defesa e da proibição de se proferir decisão surpresa.
+Alega a inocorrência da prescrição intercorrente, seja porque não houve inércia por parte da Fazenda Pública, mas demora da própria estrutura judiciária, seja porque o prazo prescricional foi interrompido pela citação em 26/09/2019, de modo que a prescrição só ocorreria na data de 26/09/2025.
+Requer, ao fim, a submissão do presente recurso a julgamento pelo órgão colegiado, dando-lhe provimento para que seja reformada a decisão agravada.
+Em contrarrazões, os agravados requereram seja negado provimento ao presente recurso.
+É o relatório.
+Decido.
+Inicialmente, registre-se que a tese de nulidade pela ausência de intimação em momento a anteceder a sentença não foi suscitada no apelo, vindo a ser aventada apenas no presente recurso.
+Sucede que, como sabido, é “incabível o exame de tese arguida somente em sede de agravo interno, por configurar indevida inovação recursal” (STJ, AgInt no AREsp 1559818/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/05/2020, DJe 06/05/2020).
+Assim, não conheço do presente agravo no ponto.
+De outro lado, quanto à insurgência relativa ao reconhecimento da prescrição intercorrente, tem-se, de fato, que merece guarida a pretensão do agravante.
+No particular, cumpre consignar que, à luz do disposto no art. 1.021, § 2o, do Código de Processo Civil, é factível ao Relator exercer o juízo de retratação em relação à decisão monocrática combatida no agravo interno.
+E, na hipótese em estima, após revisitar a matéria recursal e as peculiaridades do caso, cotejando a decisão agravada, os fundamentos postos no recurso e os parâmetros expostos no precedente vinculante acerca da temática, tenho que se impõe a reforma do decisum.
+Consoante registrado na decisão agravada, o Estado de Mato Grosso ajuizou ação de execução fiscal em desfavor dos agravados em 09/07/2009, objetivando a cobrança da dívida constante na CDA n. 20091191, cujo valor à época totalizava de R$ 29.127,01 (vinte e nove mil cento e vinte e sete reais e um centavo).
+O juiz de primeiro grau determinou a citação dos executados em 24/07/2009. Após o feito ter sido remetido equivocadamente por duas vezes à Fazenda Nacional, somente na data de 15/08/2011 o exequente foi intimado a recolher o pagamento para a realização da diligência, vindo a requerer a suspensão do processo por 60 (sessenta) dias.
+Ultrapassado o prazo requerido, o juízo determinou a intimação da Fazenda Pública Estadual para que desse o necessário seguimento ao feito, sob pena de extinção, sendo efetuado o recolhimento do valor da diligência.
+Apenas em 14/04/2015 efetivou-se diligência com vistas à citação, tendo o oficial de justiça, porém, certificado que não obteve êxito pois não encontrou o apelado no endereço informado, fornecendo novo endereço baseando-se nas informações de vizinhos.
+Em 21/10/2015 a Fazenda Pública Estadual solicitou a citação postal, restando frustrada a tentativa realizada em 08/08/2016. Por fim, na data de 05/11/2018 a apelante requereu a citação editalícia, o que ocorreu no dia 25/09/2019.
+Em que pese haja transcorrido mais de 10 (dez) anos desde o despacho inicial do juiz até a citação via edital, examinando detidamente a marcha processual verifica-se que os autos receberam movimentação equivocada e permaneceram paralisados em juízo em diversas oportunidades, sendo certo que tal delonga não pode ser imputada à Fazenda Pública, tampouco deve ser considerada para fins de contagem da prescrição intercorrente.
+Ora, ante a demora da Justiça em realizar as movimentações e diligências necessárias, é de rigor a aplicação da Súmula 106 do STJ (“Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência”.).
+Se não bastasse, importa registrar que o Superior Tribunal de Justiça, no REsp no 1.340.553/RS, pacificou o entendimento acerca do correto procedimento à declaração da prescrição intercorrente nas execuções fiscais. Na ocasião do julgamento, foram fixadas as seguintes teses:
+4.1.) O prazo de 1 (um) ano de suspensão do processo e do respectivo prazo prescricional previsto no art. 40, §§ 1o e 2o da Lei n. 6.830/80 - LEF tem início automaticamente na data da ciência da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido, havendo, sem prejuízo dessa contagem automática, o dever de o magistrado declarar ter ocorrido a suspensão da execução;
+(...)
+4.2.) Havendo ou não petição da Fazenda Pública e havendo ou não pronunciamento judicial nesse sentido, findo o prazo de 1 (um) ano de suspensão inicia-se automaticamente o prazo prescricional aplicável (de acordo com a natureza do crédito exequendo) durante o qual o processo deveria estar arquivado sem baixa na distribuição, na forma do art. 40, §§ 2o, 3o e 4o da Lei n. 6.830/80 - LEF, findo o qual o Juiz, depois de ouvida a Fazenda Pública, poderá, de ofício, reconhecer a prescrição intercorrente e decretá-la de imediato;
+4.3.) A efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo, requerendo, v.g., a feitura da penhora sobre ativos financeiros ou sobre outros bens. Os requerimentos feitos pelo exequente, dentro da soma do prazo máximo de 1 (um) ano de suspensão mais o prazo de prescrição aplicável (de acordo com a natureza do crédito exequendo) deverão ser processados, ainda que para além da soma desses dois prazos, pois, citados (ainda que por edital) os devedores e penhorados os bens, a qualquer tempo - mesmo depois de escoados os referidos prazos, considera-se interrompida a prescrição intercorrente, retroativamente, na data do protocolo da petição que requereu a providência frutífera.
+(...)
+(REsp 1.340.553/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 12/09/2018, DJe 16/10/2018).
+In casu, verifica-se que a ciência da Fazenda Pública acerca da primeira tentativa frustrada da citação dos executados ocorreu em 21/10/2015, ao passo que a citação via edital se deu em 25/09/2019, não se verificando, pois, o decurso do prazo de um ano de suspensão do feito e, subsequentemente, do prazo prescricional entre aludidos marcos.
+Logo, avaliando o presente caso à luz das premissas estabelecidas no precedente vinculante acima reproduzido, também se infere que não há falar em ocorrência da prescrição intercorrente na hipótese.
+Ante o exposto, exercendo o juízo de retratação, na parte conhecida, dou provimento ao presente recurso para, reformando a decisão agravada, afastar o reconhecimento da prescrição intercorrente e determinar o prosseguimento da execução fiscal proposta em face dos agravados.
+Publique-se.
+Intime-se.
+Alexandre Elias Filho
+Relator Convocado
