@@ -1,0 +1,1 @@
+Art. 15. Os excedentes de energia provenientes de geração distribuída em unidades geradoras atendidas por permissionárias de energia elétrica podem ser alocados nas concessionárias de distribuição de energia elétrica onde a permissionária de distribuição de energia elétrica se encontra localizada, atendidas as normas estabelecidas pela Aneel.

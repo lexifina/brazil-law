@@ -1,0 +1,1 @@
+Art. 30. A Aneel e as concessionárias ou permissionárias de distribuição de energia elétrica, a fim de cumprir as disposições desta Lei, deverão adequar seus regulamentos, suas normas, seus procedimentos e seus processos em até 180 (cento e oitenta) dias da data de publicação desta Lei.
