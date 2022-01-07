@@ -1,1 +1,6 @@
-Art. 85-A. Integrará a estrutura organizacional do DNIT uma Procuradoria-Geral, uma Ouvidoria, uma Corregedoria e uma Auditoria.
+Art. 85-A. Integrarão a estrutura organizacional do DNIT:
+I - 1 (uma) Procuradoria Federal;
+II - 1 (uma) Ouvidoria;
+III - 1 (uma) Corregedoria;
+IV - 1 (uma) Auditoria; e
+V - o Instituto Nacional de Pesquisas Hidroviárias.
