@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DEBIDA EMPREENDIMENTOS IMOBILIÁRIOS LTDA., com relação à decisão de fls. 208-210, que indeferiu o pedido de liminar em regime de plantão.
+Sustenta a parte embargante, em suma, que (fls. 213-218):
+Nesse contexto, então, a peticionária contratou seguro garantia para substituir o bem imóvel, considerando a sua URGENTE necessidade de plena disposição do imóvel de sua propriedade, o que se encontra restrito com a penhora gravada, a despeito da decisão vigente ter determinando o cancelamento da penhora.
+E tal pretensão de substituição do bem penhorado por seguro garantia é lastreada na Lei de Execuções Fiscais e é objeto de Recurso Especial Repetitivo, autorizando o deferimento da pretensão aqui postulada inaudita altera parte:
+ ..
+No caso dos autos isso se mostra ainda mais importante pela urgência que a peticionária possui em livremente usar e gozar dos atributos plenos da propriedade do seu imóvel. Diz-se, desde já, que a intenção da peticionária não é a alienação do bem e, sim, apenas sua utilização como garantia.
+ ..
+Ou seja, ao que parece, a decisão aqui embargada partiu de premissa data maxima venia equivocada de que se estaria buscando conferir efeito suspensivo ao Recurso Especial manejado, o que não é o caso, mormente porque a decisão do Tribunal local é integralmente favorável à ora peticionária, reconhecendo a impropriedade da penhora gravada sobre o imóvel de propriedade da peticionária, Terceira Embargante.
+Igualmente, não decorre o presente pedido de urgência de "atos de execução do julgado", porque o julgado recorrido, repita-se, determina o levantamento da constrição sobre o bem, sendo favorável à peticionária.
+O que se busca com esse pedido de Tutela de Urgência é autorizar a liberação efetiva da penhora gravada sobre o imóvel, substituindo-a, na forma do art. 15, I da LEF e do Tema Repetitivo 120, pelo seguro garantia contratado pela Terceira Embargante. E o pedido é deduzido diretamente nesta esfera porque o Tribunal local julgou-se incompetente a tanto, considerando que já teria esgotado sua jurisdição ao proferir decisão acerca da admissibilidade dos Recursos Especiais, que, todavia, ainda não foram remetidos a esta Corte.
+E a urgência decorre, então, justamente da necessidade da peticionária - -- a proprietária do imóvel -- livremente dispor de seu patrimônio, inclusive, dando-o em garantia real de alienação fiduciária. Para tanto, a despeito do recurso da contraparte não ser dotado de efeito suspensivo, contratou seguro garantia na forma do art. 15, I da LEF, que cogentemente autoriza a liberação do bem inaudita altera parte.
+Requer o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto (EDcl no AgInt nos EREsp n. 1.806.207/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 24/3/2021).
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+De toda sorte, ressalte-se que, não obstante a fundamentação sustentada pela requerente, o fato é que seu exame encontra-se atrelado ao próprio mérito do recurso, e, diante da natureza satisfativa do pleito, sua análise pormenorizada compete ao Colegiado, não sendo, pois, passível de exame/concessão em sede de cognição sumária.
+A parte embargante não se conformou com a decisão impugnada que verificou a ausência de perigo da demora, destacando, inclusive, que a própria parte afirma que não pretende alienar o imóvel, além do fato de que, como já fundamentado na decisão questionada, a liminar tem natureza satisfativa do pleito, cuja análise de forma mais pormenorizada compete ao colegiado, não se justificando a concessão de liminar em regime de plantão.
+No caso em tela, na verdade, há caracterização do risco do perigo da demora inverso com o pleito de retirada da penhora, a qual pode não ser confirmada pelo colegiado.
+Ante o exposto, rejeito os embargos de declaração.
+Remetam-se os autos diretamente ao ministro relator.
+Publique-se. Intimem-se.
