@@ -1,0 +1,1 @@
+Art. 19. As bandeiras tarifárias incidem somente sobre o consumo de energia elétrica ativa a ser faturado e não se aplicam sobre a energia excedente que foi compensada conforme estabelecido no art. 12 desta Lei.

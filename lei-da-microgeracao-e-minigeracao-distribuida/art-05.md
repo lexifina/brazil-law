@@ -1,0 +1,2 @@
+Art. 5º Fica vedada a transferência do titular ou do controle societário do titular da unidade com microgeração ou minigeração distribuída indicado no parecer de acesso até a solicitação de vistoria do ponto de conexão para a distribuidora, assegurada a destinação de créditos de energia às unidades consumidoras beneficiárias, a partir do primeiro ciclo de faturamento subsequente ao do pedido.
+Parágrafo único. A não observância da vedação prevista no caput deste artigo implica o cancelamento do parecer de acesso.
