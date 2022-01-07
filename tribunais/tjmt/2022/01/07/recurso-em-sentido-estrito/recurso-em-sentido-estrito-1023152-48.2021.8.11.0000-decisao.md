@@ -1,0 +1,12 @@
+TRIBUNAL DE JUSTIÇA DE MATO GROSSO
+PRIMEIRA CÂMARA CRIMINAL
+Des. Orlando de Almeida Perri
+RECURSO EM SENTIDO ESTRITO (426) No 1023152-48.2021.8.11.0000
+RECORRENTE: ANDRE PEREIRA NEVES
+RECORRIDO: MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Remetam-se os autos a Procuradoria-Geral de Justiça para parecer.
+Cumpra-se.
+Cuiabá, 7 de janeiro de 2022.
+Desembargador ORLANDO DE ALMEIDA PERRI,
+Relator.
