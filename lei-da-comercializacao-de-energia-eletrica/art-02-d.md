@@ -1,0 +1,1 @@
+Art. 2º-D Os montantes de energia elétrica de excedentes das concessionárias ou permissionárias de distribuição de energia elétrica, em função da variação de mercado provocada pela geração distribuída, serão considerados exposição contratual involuntária.
