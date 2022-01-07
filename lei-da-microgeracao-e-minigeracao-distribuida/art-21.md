@@ -1,0 +1,1 @@
+Art. 21. Para todos os efeitos regulatórios, será considerada exposição contratual involuntária, entre outras hipóteses previstas em regulamento ou disciplinadas pela Aneel, a sobrecontratação de energia elétrica das concessionárias e permissionárias de distribuição em decorrência da opção de seus consumidores pelo regime de microgeração e minigeração distribuídas.

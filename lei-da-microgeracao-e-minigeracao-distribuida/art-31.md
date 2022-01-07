@@ -1,0 +1,1 @@
+Art. 31. Qualquer alteração de norma ou de procedimento das distribuidoras relacionada à microgeração ou minigeração distribuída ou às unidades consumidoras participantes do SCEE deverá ser publicada com prazo mínimo de 90 (noventa) dias para sua entrada em vigor.

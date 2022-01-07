@@ -1,0 +1,2 @@
+Art. 35. Para fins desta Lei, os projetos de microgeração e minigeração distribuídas serão considerados sistemas de geração de energia renovável elegíveis para enquadramento no inciso VI do caput e no § 3º do art. 1º da Lei nº 9.991, de 24 de julho de 2000.
+Parágrafo único. A Aneel deve garantir que as contratações de que trata o inciso IV do § 5º do art. 2º da Lei nº 10.848, de 15 de março de 2004, sejam feitas por processos de concorrência por meio de chamadas públicas.

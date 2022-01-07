@@ -1,0 +1,2 @@
+Art. 18. Fica assegurado o livre acesso ao sistema de distribuição para as unidades com microgeração ou minigeração distribuída, mediante o ressarcimento, pelas unidades consumidoras com minigeração distribuída, do custo de transporte envolvido.
+Parágrafo único. No estabelecimento do custo de transporte, deve-se aplicar a tarifa correspondente à forma de uso do sistema de distribuição realizada pela unidade com microgeração ou minigeração distribuída, se para injetar ou consumir energia.

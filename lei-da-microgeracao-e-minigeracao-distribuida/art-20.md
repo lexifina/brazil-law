@@ -1,0 +1,1 @@
+Art. 20. As instalações de iluminação pública poderão participar do SCEE, caso em que a rede pública de iluminação do Município será considerada uma unidade consumidora com microgeração ou minigeração distribuída, desde que atendidos os requisitos regulamentares da Aneel.
