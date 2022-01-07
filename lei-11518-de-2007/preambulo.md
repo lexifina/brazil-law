@@ -1,0 +1,2 @@
+Acresce e altera dispositivos das Leis nos 10.683, de 28 de maio de 2003, 10.233, de 5 de junho de 2001, 10.893, de 13 de julho de 2004, 5.917, de 10 de setembro de 1973, 11.457, de 16 de março de 2007, e 8.630, de 25 de fevereiro de 1993, para criar a Secretaria Especial de Portos, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
