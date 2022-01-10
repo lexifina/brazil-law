@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por CELG DISTRIBUIÇÃO S.A. - CELG D contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. ENERGIA ELÉTRICA. JUÍZO DE RETRATAÇÃO POSITIVO. JULGAMENTO DE MÉRITO DO APELO INTERPOSTO. DÍVIDA PRETÉRITA. APURAÇÃO UNILATERAL. PRECEDENTES.
+1. Dispõe o art. 1.021 do CPC que das decisões proferidas pelo Relator caberá Agravo Interno para o respectivo órgão colegiado, oportunidade em que poderá ocorrer o juízo de retratação ou submissão da insurgência aos demais pares da respectiva turma julgadora, consoante previsto no §1º do mesmo dispositivo.
+2. É ilegal a cobrança de crédito com base em diferenças de consumo de energia elétrica que foram apuradas em procedimento administrativo conduzido em desrespeito às normas regulamentares previstas.
+3. Está sedimentado na jurisprudência deste tribunal, o entendimento no sentido de ser ilícito o corte de energia elétrica decorrente de dívida pretérita, ainda que proveniente de fraude, haja vista que existem meios legítimos para sua cobrança.
+AGRAVO INTERNO PROVIDO.
+Sustenta a parte recorrente, pela alínea "a" do permissivo constitucional, violação dos arts. 186, 188, I, 389 e 927 do CC, no que concerne à legalidade dos procedimentos adotados para a constatação de irregularidades na medição da unidade consumidora e portanto, da apuração do débito, trazendo o(s) seguinte(s) argumento(s):
+Resta claro, portanto, que com base nos dispositivos legais que lhe assistem, a Recorrente instaurou o Procedimento Administrativo para a apuração da energia consumida e não faturada, e, após a conclusão do procedimento, garantido o contraditório e ampla defesa ao recorrido, este foi notificado a quitar o débito.
+29. Demonstrada a regularidade do Processo Administrativo que resultou apuração do débito de irregularidade de medição de consumo do Recorrido, não há que se falar em irregularidade da cobrança e ainda a sua declaração de inexigibilidade.
+30. Há, portanto, previsão legal para as atitudes imputadas à Recorrente, não havendo que se cogitar a aplicação de qualquer sanção à mesma, diante dos fatos e fundamentos trazidos no caso em epígrafe.
+ .. .
+Portanto, não havendo que se falar na imputação de qualquer conduta ilícita, comissiva ou omissiva à Recorrente, não há qualquer ensejo ao deferimento das pretensões Autorais
+ .. .
+Assim, restando demonstrada a legalidade e regularidade dos procedimentos utilizados para constatação de irregularidade na medição da Unidade Consumidora, impõe-se a cobrança das diferenças de medição de consumo, o que enseja a REFORMA do acórdão prolatado nos Autos (fls. 332/333).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Em suas razões de apelo (evento nº 64), a empresa recorrente alega, de início, que o procedimento administrativo questionado observou as normas estabelecidas na Resolução Normativa 414/10 da ANEEL, afirmando que através de inspeção de rotina realizada, verificou-se indícios de irregularidades no medidor de consumo da parte autora e, após lavratura do termo de ocorrência e registro fotográfico das irregularidades, houve a regularização da medição.
+Em casos como o presente, o entendimento é no sentido de que não é crível, com base nas diretrizes dos princípios do contraditório e da ampla defesa que, admitir a plena regularidade do processo administrativo instaurado pela apelante, de forma que a vistoria no aparelho de medição de consumo de energia elétrica deu-se, eminentemente, de forma unilateral; obstaculizando a validade e regularidade de tal procedimento.
+Portanto, não pode ser considerada legítima a forma pela qual a concessionária de serviço público, ora apelante, apurou o débito exigido.
+ .. .
+Vê-se, portanto, que inexistem razões para a reforma da sentença que, com muito acerto, concluiu pela ilegalidade da cobrança de débito referente ao período em que o imóvel não era ocupado pelo recorrido (fls. 317/319).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
