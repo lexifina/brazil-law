@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor deGILMAR DA SILVA CABRALem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(HC n. 2136358-40.2020.8.26.0000).
+O paciente foi denunciado como incurso nas penas do art. 121, § 2º, inciso IV, do Código Penal e teve decretada a sua prisão preventiva.
+Atualmente, encontra-se segregado nas dependências do Hospital Penitenciário doCarandiru - Município de São Paulo - em razão de uma tuberculose.
+O impetrante sustenta que o paciente está em estado vegetativo, não respondendo mais a quaisquer estímulos, "que é portador de HIV, e demais comorbidades físicas e que necessitam de acompanhamento médico, ao ser segregado em unidade do CDP-SP (OSASCO), no auge da pandemia de COVID 19, acabou contraindo um forte e resistente (TUBERCULOSE) que comprometeu sua saúde física que já não era das melhores por conta de seu péssimo quadro clinico de saúde" (fl. 5).
+Sustenta, ainda, que "foram apresentados todos os documentos necessários, que comprovam o estado vegetativo em que se encontra o paciente, inclusive, Laudo Médico, comprovando a existência de diversas comorbidades e as consequências resultantes da tuberculose adquirida na unidade prisional de origem, bem como, as sequelas deixadas e afim de possibilitar eventual pedido de prisão domiciliar ou até mesmo induto humanitário. Conforme consta dos dados na sua matricula de nº 1240161e nas diversas petições e recurso que buscavam a revogação da decisão emanada, por ocasião de sua prisão, restou destacado, que o paciente necessitava de cuidados especiais em razão de ser hipertenso e portador do HIV, porém nada disto foi considerado" (fl. 5).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente, expedindo-se o competente alvará de soltura em seu favor. Subsidiariamente, pede a substituição da prisão por quaisquer das medidas cautelares alternativas.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXTORSÃO E EXTORSÃO MEDIANTE SEQUESTRO. PRISÃO PREVENTIVA. MODUS OPERANDI. NOTÍCIAS DE AMEAÇAS À VÍTIMA. FUNDAMENTAÇÃO IDÔNEA. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+ .. (AgRg no HC n. 701.135/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/11/2021.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
