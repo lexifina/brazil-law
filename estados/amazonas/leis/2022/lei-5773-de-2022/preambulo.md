@@ -1,0 +1,7 @@
+Lei n. 5.773, DE 10 DE JANEIRO DE 2022.
+
+DISPÕE sobre o Plano Amazonense de Turismo.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
