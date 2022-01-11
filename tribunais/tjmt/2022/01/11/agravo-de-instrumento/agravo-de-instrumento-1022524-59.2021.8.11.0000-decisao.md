@@ -1,0 +1,16 @@
+AGRAVO DE INSTRUMENTO No 1022524-59.2021.8.11.0000
+Agravante: David Vieira da Silva
+Agravado: Estado de Mato Grosso
+Vistos.
+Trata-se de agravo de instrumento interposto por David Vieira da Silva em face da decisão proferida pelo juizado Especial Cível, Criminal e da Fazenda Pública da Comarca de Pontes e Lacerda-MT.
+No entanto, insta consignar que esta Egrégia Corte de Justiça não possui competência para processar e julgar mandado de segurança contra decisão interlocutória proferida pelo Juizado Especial da Fazenda Pública.
+Isso porque, a Resolução n.o 009/2011/PRES/TP, a qual instituiu a Turma Recursal Única, estabeleceu em seu artigo 1o que, “no âmbito dos Juizados Especiais Cíveis e Criminais do Estado de Mato Grosso haverá uma Turma Recursal Única para processar e julgar os Recursos interpostos contra decisões dos Juizados Especiais de todas as Comarcas”.
+No mesmo sentido foi o posicionamento do Supremo Tribunal Federal quando julgou o RE 586789/PR em sede repercussão geral. A propósito:
+“ [...] I – As Turmas Recursais são órgãos recursais ordinários de última instância relativamente às decisões dos Juizados Especiais, de forma que os juízes dos Juizados Especiais estão a elas vinculados no que concerne ao reexame de seus julgados. II – Competente a Turma Recursal para processar e julgar recursos contra decisões de primeiro grau, também o é para processar e julgar o mandado de segurança substitutivo de recurso. III – Primazia da simplificação do processo judicial e do princípio da razoável duração do processo. IV - Recurso extraordinário desprovido”. (STF, Tribunal Pleno, RE 586789/PR, Repercussão Geral, relator Ministro Ricardo Lewandowski, publicado no Diário da Justiça Eletrônico em 27 de fevereiro de 2012).
+Bem como o seguinte julgado:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA CONTRA ATO DE JUIZ DO JUIZADO FEDERAL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL. COMPETÊNCIA DA TURMA RECURSAL PARA JULGAMENTO DA AÇÃO. 1. A jurisprudência sumulada do STJ (enunciado 376), bem assim o entendimento desta Corte Regional Federal, balizada em precedentes do STF, encontram-se consolidados no sentido de que compete à própria turma recursal dos juizados especiais processar e julgar mandado de segurança impetrado contra seus atos. 2. Nesse sentido o AgRg no MS 20251/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe de 12/08/2013, a seguir transcrito: “Competente a Turma Recursal para processar e julgar recursos contra decisões de primeiro grau, também o é para processar e julgar o mandado de segurança substitutivo de recurso. 3. Declínio da competência em favor da Turma Recursal da Seção Judiciária do Distrito Federal para o regular processamento do feito. (TRF-1 – MS: 0060646-54.2013.4.01.0000, Relator: Desembargador Federal João Luiz de Sousa, Data de Julgamento: 05/12/2017, Primeira Soção , Data de Publicação: 18/12/2017 e-DJF1).
+Destarte, em razão da incompetência absoluta deste Egrégio Sodalício, declaro a incompetência desta Corte de Justiça para o processamento e julgamento do presente agravo de instrumento, pelo que determino a remessa dos autos à Turma Recursal do Juizado Especial.
+Intime-se.
+Cuiabá-MT, 10 de janeiro de 2022.
+Alexandre Elias Filho
+Relator convocado
