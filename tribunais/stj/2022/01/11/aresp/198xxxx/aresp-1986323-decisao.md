@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por TORMEL COMERCIAL LTDA. contra a decisão que não admitiu seu recurso especial fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÕES PREVIDENCIÁRIAS PATRONAIS. SALÁRIO E GANHOS HABITUAIS DO TRABALHO. VERBAS INDENIZATÓRIAS.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega, além de divergência jurisprudencial, violação dos arts. 85 e 86 do CPC, no que concerne à necessidade de condenação da recorrida ao pagamento integral dos honorários sucumbenciais por ter sucumbido em quase todos os pedidos formulados na inicial, trazendo o(s) seguinte(s) argumento(s):
+Ainda que o acórdão tenha sido reformado em sede embargos de declaração, a fim de afirmar a constitucionalidade da contribuição social incidente sobre o valor satisfeito a título de terço constitucional de férias, todos os demais pedidos do Recorrente foram deferidos em primeiro grau e mantidos pelo Tribunal.
+ ..
+Tendo sido resistidas pela Recorrida e acolhidas as teses da Recorrente, restou vencida a União, devendo ela, portanto, arcar com as consequências de seu insucesso, sobretudo no que se refere aos ônus sucumbenciais, nos exatos termos fixados pelo artigo 85 do Código de Processo Civil.
+Com efeito, incide, na espécie, o Princípio da Sucumbência, segundo o qual aquele que restou vencido no processo há de arcar com as custas processuais e honorários advocatícios.
+Por isso, entende-se que o Tribunal negou vigência, no caso, aos artigos 85, caput, e 86 do Código de Processo Civil, in verbis:
+ ..
+Observe-se que o art. 85, caput, foi claro ao consignar que os honorários são devidos ao "advogado do vencedor", reforçando a sua natureza remuneratória, nos mesmos termos do art. 23 do Estatuto da Ordem (Lei n. 8.906/94).
+ ..
+Com efeito, tendo sido julgada procedente a demanda, cabível a fixação de honorários em favor do patrono da Recorrente.
+Em razão do que ficou fixado em sentença e acórdão e do que dispõem os artigos da lei federal, o recurso deve ser provido para se determinar a reformado ônus de sucumbência fixado, uma vez que a Recorrida sucumbiu em praticamente todos os pedidos elencados na inicial e não apresentou resistência do terço constitucional.
+ ..
+Ocorre que, SOMENTE APÓS A PROPOSITURA DA DEMANDA, o Supremo Tribunal Federal instaurou o tema de repercussão geral e alterou seu entendimento sobre a matéria.
+Por isso, a União não agiu individualmente no processo para afastar a incidência da contribuição social sobre o terço constitucional, mas, ao contrário, o fundamento foi fruto de decisão recente do Supremo Tribunal Federal, razão pela qual, não há falar em divisão de honorários ou fixação de honorários contra o contribuinte.
+Logo, a fixação da verba honorária deve ser condizente coma atuação do advogado e a natureza da causa, remunerando adequadamente o labor profissional, sem impor carga onerosa ao contribuinte que ajuizou demanda nos moldes do entendimento fixado pelo Superior Tribunal de Justiça no REsp nº 1.230.957/RS, submetido à sistemática de recurso repetitivo.
+ ..
+Do quadro expositivo, vislumbra-se a clara divergência entre a decisão do Eg. TRF4ª Região e do Eg. TRF 3ª. Região. Enquanto o acórdão recorrido distribui 10% do valor da causa, para cada patrono - 5% para cada um dos advogados - o acórdão divergente afasta a condenação da autora em honorários advocatícios, uma vez que ocorreu, por parte dela, sucumbência mínima dos pedidos.
+De rigor, portanto, o reconhecimento da negativa de vigência a dispositivos da lei feral, bem como da divergência jurisprudencial, e a consequente reforma do acórdão atacado, para o fim de condenar a Recorrida ao pagamento de custas e honorários sucumbenciais,excluindo honorários da parte autora, pois ter ocorrido decaimento somente após decisão do STJ, em decisão por repercussão geral (fls. 1.187-1.196).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda enseja o revolvimento de matéria eminentemente fática.
+Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7 do STJ". (AgInt no AREsp 969.868/MT, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.848.602/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/8/2020; AgInt no AREsp 1.571.133/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/5/2020; AgInt no REsp 1.336.000/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/2/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
