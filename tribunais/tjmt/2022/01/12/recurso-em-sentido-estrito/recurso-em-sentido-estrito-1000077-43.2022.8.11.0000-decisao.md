@@ -1,0 +1,12 @@
+TRIBUNAL DE JUSTIÇA DE MATO GROSSO
+PRIMEIRA CÂMARA CRIMINAL
+Des. Orlando de Almeida Perri
+RECURSO EM SENTIDO ESTRITO (426) No 1000077-43.2022.8.11.0000
+RECORRENTE: MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO
+RECORRIDO: JOSE CARLOS SANTOS MENDES
+Vistos, etc.
+Remetam-se os autos a Procuradoria-Geral de Justiça para parecer.
+Cumpra-se.
+Cuiabá, 12 de janeiro de 2022.
+Desembargador ORLANDO DE ALMEIDA PERRI,
+Relator.
