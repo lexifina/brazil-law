@@ -1,0 +1,11 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+Lei n. 5.795, DE 12 DE JANEIRO DE 2022.
+
+DECLARA como Patrimônio Cultural Imaterial do Estado do Amazonas, o Boneco feito com a massa do guaraná.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
