@@ -1,0 +1,25 @@
+Recurso de Agravo de Instrumento no 1000119-92.2022.8.11.0000 – Capital
+Agravante: Unimed Cuiabá Cooperativa e Trabalho Médico
+Agravado: J.N.J.K., representado por Adriano Kuhn e Cláudia da Silva Jorge
+V I S T O S.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo interposto pela Unimed Cuiabá Cooperativa de Trabalho Médico em face da decisão proferida pela MMa. Juíza de Direito da 11a Vara Cível da Comarca de Cuiabá, que nos autos da “ação declaratória de inexistência de débito c/c reconhecimento da inaplicabilidade da coparticipação segundo a resolução normativa no 469 ANS de 09/07/2021 e art. 2o, VII da RN CONSU n° 08 DE 3/11/1998 c/c pedido de tutela provisória de urgência” que lhe move João Neto Jorge Kuhn, representado por Adriano Kuhn e Cláudia da Silva Jorge, deferiu a tutela de urgência requestada, a fim de determinar que a parte requerida suspenda a cobrança da coparticipação nas faturas dos meses de novembro e dezembro, vencidas nos dias 08/11/2021 e 08/12/2021, e se abstenha de lançar nas faturas futuras a cobrança da coparticipação, possibilitando que a cobrança da coparticipação seja desmembrada da fatura mensal, para o pagamento habitual da mensalidade, bem como se abstenha de suspender o plano de saúde enquanto se discute a coparticipação, sob pena de aplicação das medidas previstas no art. 297, do Código de Processo Civil. (id. 114246499 - Pág. 155).
+Inconformada, aduz a agravante, em suma, que não restou correta a interpretação formada pela douta magistrada, pois o vínculo entre as partes decorre do contrato de prestação de serviços de saúde, na modalidade Unimed Super Class Individual/Familiar – Apartamento, registrado sob o n. 0.056.5747.000607.00-6, sendo que existe previsão contratual estabelecendo que o beneficiário do plano de saúde está sujeito, junto com a agravante, a dividir as despesas do serviço utilizado (coparticipação). Afirma que há cláusula contratual estipulando 30% (trinta por cento) dos valores pagos a título de consultas, exames e rotina, exames especializados e atendimentos ambulatoriais.
+Aduz que em decorrência do ajuizamento da demanda n. 1020307-17.2021.8.11.0041, foi obrigada a custear o tratamento ilimitado segundo a orientação terapêutica de profissionais particulares escolhidos pela parte agravada, incluindo exames especializados não previstos no rol de procedimentos e eventos em saúde. Segue afirmando que os valores cobrados a título de coparticipação se tratam de gastos efetivamente custeados pela agravante em razão de ordem judicial proferida na demanda proposta pelo agravado. Assim, se por um lado a operadora é obrigada a custear o tratamento terapêutico sem qualquer limitação, não se afigura legítimo impor limitação à cobrança da coparticipação.
+Ao final, pugna pela concessão da tutela antecipada recursal, aplicando-se o efeito suspensivo à r. decisão agravada.
+É o relatório.
+Decido.
+Ab initio, faz-se necessário analisar o preenchimento dos requisitos de admissibilidade do presente recurso.
+Como se sabe, para cada tipo de decisão corresponde um recurso, observando-se que a inadequação da via eleita acarreta a sua inadmissibilidade, em consonância ao princípio da taxatividade recursal.
+Da interpretação da legislação retro mencionada, verifica-se que o Novo Código de Processo Civil diferentemente do anterior, prevê taxativamente as hipóteses de cabimento do recurso de agravo de instrumento, de modo que este enquadra-se no inciso I, do art. 1.015, do CPC.
+Dito isso, para a concessão da antecipação da tutela recursal prevista no art. 1.019, inc. I do CPC, faz-se necessária a presença dos requisitos previstos no art. 300, do aludido diploma processual, quais sejam, a probabilidade de suas alegações e o perigo de dano.
+É de bom alvitre consignar que realmente deve ser observada a regra processual civil, de modo que não merece ser concedida a antecipação almejada, ante a ausência dos requisitos ensejadores, devendo aguardar a manifestação da douta magistrada a quo, além da contraminuta que poderá trazer elementos que possibilitem a melhor análise da questão agravada.
+Isso porque, ao contrário do que alega a recorrente, não há fato incondicional ou imediato que implique em qualquer perigo de dano ou risco ao resultado útil do processo, até porque eventual sucesso do recurso implicará no retorno ao estado anterior, bem como ao ressarcimento de qualquer prejuízo existente.
+Ademais, não verifico, ao menos em sede de cognição sumária, comprovação suficiente do desacerto do decisum, de modo que, por tratar-se de questão afeta a saúde, o risco e o prejuízo atingem, sobremaneira, a parte agravada, bem como o perigo de irreversibilidade da medida.
+Ressalto que os fundamentos aqui postos não vinculam a análise do mérito do agravo.
+Diante do exposto, indefiro a tutela antecipada recursal almejada.
+Intime o agravado para, querendo, apresentar resposta no prazo de 15 (quinze) dias, nos termos do inc. II, do art. 1.019, do CPC.
+Oficie-se a douta juíza a quo para que preste as informações necessárias.
+P.I.
+Cuiabá, 11 de janeiro de 2022.
+CARLOS ALBERTO ALVES DA ROCHA
+Relator
