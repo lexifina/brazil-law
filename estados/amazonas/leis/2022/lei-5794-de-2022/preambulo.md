@@ -1,0 +1,11 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+Lei n. 5.794, DE 12 DE JANEIRO DE 2022.
+
+DECLARA como Patrimônio Cultural Imaterial do Estado do Amazonas, o Festival Folclórico do Mocambo do Arari/AM.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
