@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de CLERISTON PORTELA DE OLIVEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (0700274-82.2022.8.07.0000).
+O paciente foi preso em flagrante delito sob a acusação da prática, em tese, do delito tipificado no art. 303, § 1º e § 2º, da Lei n. 9.503/1997. Foi concedida ao paciente a liberdade provisória com a fixação da seguinte medida cautelar diversa da prisão: recolhimento de fiança no valor de R$ 3.000,00. Não houve o recolhimento da fiança e o paciente encontra-se preso.
+A Defensoria Pública impetrou habeas corpus, com pedido de liminar, para que o acusado fosse dispensado do pagamento da fiança arbitrada, com a imediata expedição de alvará de soltura em favor do paciente. Entretanto, a desembargadora plantonista deferiu parcialmente a liminar tão somente para reduzir pela metade o valor da fiança arbitrada.
+A impetrante sustenta que o paciente não possui condições de arcar com o pagamento. Isso porque o paciente é assistido pela DPDF, instituição que possui como múnus defender os interesses das pessoas hipossuficientes, na acepção econômica do termo, sendo, portanto, claro que é o autuado absolutamente destituído da possibilidade de pagar por sua liberdade, até porque, se não fosse, certamente já o teria feito. Registrou, ainda, que "em contato com a família do preso, esta informou que não dispõe de condições financeiras para pagar a soltura".
+Requer a concessão da liminar da ordem para que o paciente seja dispensado do pagamento da fiança arbitrada, com a imediata expedição de alvará de soltura em favor do paciente. Requer, outrossim, seja o presente pedido de habeas corpus deferido.
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A decisão impugnada foi proferida monocraticamente por desembargador. Não há acórdão sobre a matéria suscitada na presente impetração, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, conforme dispõe a Súmula691 do STF.
+Registre-se que "a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica a exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado" (AgRg no HC n. 600.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
