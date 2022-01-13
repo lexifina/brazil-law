@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança interposto com base no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por FELIPE CUNHA GOES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verificou-se haver irregularidade no recolhimento do preparo e na representação do recurso em mandado de segurança, razão pela qual a parte foi intimada, com fundamento nos arts. 76 c/c 932, parágrafo único e 1.007, § 4º, todos do Código de Processo Civil, para "(..) realizar o recolhimento em dobro do preparo e regularizar a representação processual, sob pena de não conhecimento do recurso." (fls. 161).
+A parte, embora regularmente intimada para sanar os referidos vícios, apenas regularizou a representação processual (fls. 164), permanecendo, porém, o vício quanto ao preparo uma vez que, não fora juntado a guia e comprovante de pagamento da rubrica recursal.
+Cumpre esclarecer que este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no RMS 63.518/SP, relator Herman Benjamim, Segunda Turma, DJe de 24/11/2020; AgInt no AREsp 1.667.577/ES, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020; e AgInt no AREsp 1.612.074/SP, relator Ministro Antônio Carlos Ferreira, Quarta Turma, DJe de 15/6/2020.
+Dessa forma, no recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ante o exposto, não conheço do recurso.
+Publique-se. Intimem-se.
