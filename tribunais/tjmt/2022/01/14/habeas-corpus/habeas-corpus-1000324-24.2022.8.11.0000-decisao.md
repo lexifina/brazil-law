@@ -1,0 +1,15 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PLANTÃO JUDICIÁRIO
+HABEAS CORPUS no 1000324-24.2022.8.11.0000- CLASSE CNJ - 1269 – LUCAS DO RIO VERDE
+Paciente: GILMAR DIVINO MOREIRA
+Impetrado: JUÍZO DA 2a VARA CRIMINAL DA COMARCA DE LUCAS DO RIO VERDE
+Número do Protocolo: 1000324-24.2022.8.11.0000
+Cuida-se de “HABEAS CORPUS” impetrado pelo advogado MARCOS RODRIGUES CARDOSO em favor de GILMAR DIVINO MOREIRA, figurando como autoridade coatora a MMa. Juíza de Direito da 2a Vara Criminal da Comarca de Lucas do Rio Verde/MT, que, em Audiência de Custódia realizada em 30/12/2021, homologou o Auto de Prisão em Flagrante lavrado em desfavor da paciente (Proc. no 1000030-31.2022.8.11.0045) e decretou sua prisão preventiva pela suposta prática do delito de lesão corporal contra mulher, por razões da condição do sexo feminino, injúria e ameaça, tipificados nos arts. 129, §13, 140 e 147, todos do Código Penal, por entender preenchidos os requisitos dos arts. 312 e 313 do CPP, anotando, quanto ao “periculum libertatis”, que, além de ter ameaçado a vítima, causando-lhe escoriações e fratura de uma costela, o paciente “tem um total descaso com as normas sociais e legais vigentes, bem como temperamento agressivo, o que coloca em risco a integridade física e vida da ofendida, uma vez que não é a primeira vez que agride e ameaça a vítima”, e, portanto, evidente “a necessidade da segregação cautelar do (paciente) para evitar a prática de novos delitos (garantia da ordem pública) e também por conveniência da instrução criminal”, e, ainda, que “a imposição de medidas cautelares pessoais diversas da prisão (v.g. monitoramento eletrônico e proibição de contato) são insuficientes para resguardar a ordem pública, a instrução processual e, especialmente, a integridade e vida da vítima” (cf. Id. no 73226081 dos autos de origem).
+É a suma do necessário.
+Apesar de o caso se amoldar à hipótese do art. 1o, §1o, “a”, da Portaria no 010/2013/TP, que disciplina o serviço de plantão judiciário no âmbito do Tribunal de Justiça do Estado de Mato Grosso, verifica-se que, em verdade, o pedido de remédio heroico não foi direcionado pelo impetrante ao Plantão Judiciário, mas às competentes Câmaras Criminais desta Corte, e só foi distribuído automaticamente ao gabinete do plantonista (cf. certidão vinculada ao Id. no 114707986) porque foi protocolizado às 20h51min43seg do dia 13/01/2022, ou seja, durante o período mencionado no art. 2o, parágrafo único, da aludida Portaria.
+Ademais, a homologação da prisão em flagrante e sua conversão em prisão preventiva ocorreu em 30/12/2021, há duas semanas, de modo que injustificável a apreciação do pedido de liminar em regime de plantão.
+Assim, à falta de urgência agônica e, mais importante, à falta de pedido de pronta intervenção do plantonista, restituo os autos à Secretaria para que, nos termos regimentais aplicáveis, seja feita a posterior distribuição e, na sequência, o regular encaminhamento do caso ao competente relator natural.
+Intime-se e cumpra-se.
+Cuiabá, 14 de janeiro de 2022.
+Des. JOÃO FERREIRA FILHO
+Plantonista
