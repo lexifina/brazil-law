@@ -1,0 +1,23 @@
+Com fundamento no artigo 5o, inciso LXVIII da Constituição Federal, nos artigos 647 e seguintes do Código de Processo Penal foi impetrado habeas corpus liberatório, com pedido de liminar, em favor de Igor Magalhães dos Santos, contra ato supostamente ilegal da autoridade judiciária da Vara Única da Comarca de Marcelândia/MT, aqui indicada como coatora.
+Narra o impetrante que o paciente foi denunciado juntamente com outros acusados, pela suposta prática dos crimes previstos no artigo 33, caput, e artigo 35, caput, c/c artigo 40, inciso VI, todos da Lei no 11.343/2006.
+Aduz que, a autoridade judiciária “recebeu a acusação, bem como, converteu a prisão em preventiva, citando o acusado para defesa previa, momento em que a defesa requereu a liberdade provisória e a magistrada indeferiu o pedido.”
+Alega-se que não estão presentes os pressupostos da prisão preventiva e não há indícios de que o acusado em liberdade ponha em risco a instrução criminal, a ordem pública e, tampouco, traga risco à ordem econômica. Portanto, não há risco à aplicação da lei penal e, destarte, não há fundamento que sustente a manutenção do cárcere.
+Com base em tais considerações, requer seja concedida a liminar, para revogar a prisão preventiva do paciente, com expedição do alvará de soltura, confirmando a decisão no julgamento do mérito (Id. 114810474).
+RELATADO O NECESSÁRIO.
+Como visto, o presente habeas corpus foi impetrado em favor de Igor Magalhães dos Santos, contra ato supostamente ilegal da autoridade judiciária da Vara Única da Comarca de Marcelândia/MT, aqui indicada como coatora.
+Segundo a Resolução no. 71/2009, do Conselho Nacional de Justiça, o Plantão Judiciário destina-se exclusivamente ao exame das seguintes matérias:
+“a) pedidos de habeas-corpus e mandados de segurança em que figurar como coator autoridade submetida à competência jurisdicional do magistrado plantonista;
+b) medida liminar em dissídio coletivo de greve;
+c) comunicações de prisão em flagrante e à apreciação dos pedidos de concessão de liberdade provisória;
+d) em caso de justificada urgência, de representação da autoridade policial ou do Ministério Público visando à decretação de prisão preventiva ou temporária;
+e) pedidos de busca e apreensão de pessoas, bens ou valores, desde que objetivamente comprovada a urgência;
+f) medida cautelar, de natureza cível ou criminal, que não possa ser realizado no horário normal de expediente ou de caso em que da demora possa resultar risco de grave prejuízo ou de difícil reparação.
+g) medidas urgentes, cíveis ou criminais, da competência dos Juizados Especiais a que se referem as Leis no 9.099, de 26 de setembro de 1995 e 10.259, de 12 de julho de 2001, limitadas as hipóteses acima enumeradas.”
+Sabe-se que a concessão de liminar em habeas corpus é medida excepcional, cabível apenas em casos de manifesta e inequívoca ilegalidade, sendo criação da jurisprudência para casos em que a urgência, necessidade e relevância da medida se mostrem evidenciadas de forma indiscutível na própria impetração e nos elementos de prova que a acompanham.
+In casu, embora o impetrante sustente na inicial a ausência de fundamentação idônea na decisão que indeferiu o pedido de revogação da prisão preventiva, deixou de juntar aos autos a decisão combatida, sendo impossível verificar o constrangimento ilegal alegado.
+Assim, diante da cognição sumária que norteia este decisum, não vislumbro de plano o constrangimento ilegal alegado, tampouco a sustentada ausência dos requisitos descritos no artigo 312 do Código de Processo Penal, ante a débil instrução do mandamus.
+Assim, sendo, na agudeza de um juízo de risco característico dessa fase, e diante da ausência dos pressupostos que autorizam primus ictus oculi a medida liminar, indefiro-a, restando o lado sumaríssimo desse habeas corpus, com o efetivo exercício da competência do Órgão Colegiado.
+Colham-se as imprescindíveis informações necessárias, com observância inclusive das exigências apontadas na Consolidação das Normas Gerais da Corregedoria Geral de Justiça (item 7.22.1), que deverão conter informações de caráter jurídico imprescindíveis para a compreensão do tema, inclusive no que se refere à prisão preventiva e a necessidade de manutenção da segregação do paciente Igor Magalhães dos Santos, juntando cópias dos autos e demais documentos que entender necessários à análise do presente writ.
+Deve ainda o douto magistrado encaminhar ainda informações sobre eventuais modificações posteriores no contexto fático-jurídico que possuam relevância frente ao pedido formulado.
+Comunicações e providências.
+Após, distribua-se o feito na forma regimental, fazendo conclusão ao Desembargador Relator sorteado, para as providências que entender cabível.
