@@ -1,0 +1,47 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO — AGRAVO DE INSTRUMENTO No 1023322-20.2021.8.11.0000 — CLASSE 202 — CNJ — CÍVEL — COMARCA DE PONTES E LACERDA
+AGRAVANTE: MUNICÍPIO DE PONTES E LACERDA;
+AGRAVADO: MATHEUS VITOR TEIXEIRA BICAS.
+Vistos etc.
+Agravo de instrumento, com pedido de efeito suspensivo, interposto pelo Município de Pontes e Lacerda contra decisão que, em ação cominatória para cumprimento de obrigação de fazer com pedido de tutela de urgência proposta por Matheus Vitor Teixeira Bicas, contra si, Energisa Mato Grosso – Distribuidora de Energia S.A. e o Estado de Mato Grosso, deferiu a tutela provisória de urgência.
+Assegura que a decisão agravada é extra petita, porquanto “não há qualquer pedido de tutela provisória de urgência para determinar que o Município de Pontes e Lacerda preste auxílio financeiro custeando o consumo de energia elétrica correspondente ao excesso acarretado pelos aparelhos instalados no domicílio do autor.”.
+Assevera que não há razoabilidade na imposição de multa cominatória como medida assecuratória da efetividade da prestação jurisdicional, além desta acarretar danos aos cofres públicos.
+Indeferido o efeito suspensivo em sede de Plantão Judiciário (Id. 88525459).
+É o relatório.
+Eis o teor do dispositivo da decisão:
+Ante o exposto, defiro a tutela de urgência formulado na inicial para o fim de:
+a) Determinar que a ré Energisa Mato Grosso Distribuidora de Energia S.A. não suspenda e/ou interrompa o fornecimento de energia elétrica, independentemente do adimplemento das faturas pretéritas, bem como proceda com a instalação de medidor específico para os equipamentos que propiciam o tratamento do autor, no prazo de 15 (quinze) dias;
+b) Determinar que o Estado de Mato Grosso e o Município de Pontes e Lacerda, preste auxílio financeiro, consistente em arcar com o custeio do valor de consumo de energia elétrica correspondente ao excesso acarretado pelos aparelhos instalados no domicílio do autor, que será auferido por meio do medidor específico, cuja instalação se determinou no parágrafo acima;
+c) Estabelecer preceito cominatório, para hipótese de descumprimento da obrigação de fazer, no patamar equivalente a R$ 1.000,00 (mil reais), por dia, a serem revertidos em prol da requerente (art. 537, ‘caput’, do CPC), limitando-se à R$ 50.000,00 (cinquenta mil reais);
+Citem-se os réus para, querendo, apresentar resposta, dentro do prazo legal, na forma do art. 183, ‘caput’, do CPC, fazendo-se constar, outrossim, as advertências a que faz menção o art. 344 do NCPC.
+Após, com a juntada da resposta, intime-se o autor, por meio de remessa dos autos à Defensoria Pública do Estado de Mato Grosso, para, querendo, no prazo de 15 (quinze) dias, impugnar as contestações apresentadas.
+Ao fim, colha-se parecer do Ministério Público do Estado de Mato Grosso, na condição de ‘custos iuris’ (art. 178, I, do CPC).
+Defiro, por fim, os benefícios da assistência judiciária gratuita, nos termos do art. 98 do CPC.
+Expeça-se o necessário com urgência. [...]. (Id. 113897545 – fls. 50).
+Matheus Vitor Teixeira Bicas, com dezesseis (16) anos de idade, acometido de neuropatia crônica evolutiva, sequela de anoxia neonatal e epilepsia de difícil controle, além de alimentar-se através de sonda nasoenteral e faz uso suplementar de oxigênio e, devido a sua condição, recebe assistência à saúde na modalidade Home Care.
+Entretanto, com a instalação dos aparelhos hospitalares necessários para a manutenção de sua saúde, houve um aumento no consumo de energia elétrica.
+Por isso, propôs ação cominatória para cumprimento de obrigação de fazer com pedido de tutela de urgência, a requerer: i) deferimento do benefício de Tarifa Social de Energia Elétrica – TSEE; ii) instalação de medidor de energia elétrica específico para os aparelhos hospitalares da Home Care; e, iii) “todas as providências para que seja custeado os pagamentos atrasados de energia elétrica” (Id. 113897545 – fls. 12).
+Pois bem.
+No caso, não se pode ignorar que ao adolescente é assegurado a absoluta prioridade, no atendimento médico, pela Constituição da República Federativa do Brasil: “É dever da família, da sociedade e do Estado assegurar à criança, ao adolescente e ao jovem, com absoluta prioridade, o direito à vida, à saúde, à alimentação, à educação, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária, além de colocá-los a salvo de toda forma de negligência, discriminação, exploração, violência, crueldade e opressão” (artigo 227, cabeça).
+[...] Incumbe ao Estado (gênero) proporcionar meios visando a alcançar a saúde, especialmente quando envolvida criança e adolescente. O Sistema Único de Saúde torna a responsabilidade linear alcançando a União, os Estados, o Distrito Federal e os Municípios. [...]. (STF, Segunda Turma, RE 195192/RS, relator Ministro Marco Aurélio, publicado no Diário da Justiça Eletrônico em 31 de março de 2000).
+Com efeito, nos termos do artigo 196 da Constituição da República Federativa do Brasil: “a saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação”.
+[...] Incumbe ao Estado, em todas as suas esferas, prestar assistência à saúde da população, nos termos do art. 196 da Constituição Federal, configurando essa obrigação, consoante entendimento pacificado na Corte, responsabilidade solidária entre os entes da Federação. [...]. (STF, Primeira Turma, RE 816982 ED/RN, relator Ministro Dias Toffoli, publicado no Diário da Justiça Eletrônico em 10 de outubro de 2014).
+O relatório médico está a indicar, especificamente, as razões pelas quais o atendimento domiciliar por Home Care é imprescindível e urgente ao tratamento do adolescente:
+[...] Paciente portador de Encefalopatia crônica não evolutiva da infância (PC) sequela de anoxia neonatal. Tem distúrbios de deglutição. Apresenta convulsão de difícil controle em uso de anticonvulsivantes. Recebe toda alimentação especializada por gastrostomia. Permanece em ar ambiente, nos períodos de crises ou intercorrências recebe suplementação de O2 por cateter nasal.
+Eliminações fisiológicas presente em fralda.
+Portanto o paciente em questão dependente de monitorização continua, para manutenção de vida, também faz uso de climatização 24 h/dia, por ar condicionado, devido a sua labilidade térmica pela doença de base e com mais alguns equipamentos que necessitam de energia elétrica:
+- Faz uso de inalador que facilita a chegada mais rápida do remédio aos brônquios melhorando a respiração;
+- Faz uso de Aspirador de Secreção tanto nasal quando oral é indicado para limpar e remover secreções em excesso.
+- Faz uso de umidificador continuo por 24 horas para melhorar padrão respiratório do paciente, o umidificador mantém cavidades nasais lubrificadas o que acelera o processo de cura quando você está gripado por exemplo. Evita o resfriado: O ar seco é o terreno perfeito para muitos vírus e bactérias que podem causar o resfriado prejudicando ainda mais o quadro clinico do paciente.
+- Também faz uso do colchão pneumático com pressão alternada é a solução ideal para evitar o aparecimento de escaras em pacientes acamados. O colchão com pressão alternada possui um papel positivo na prevenção e cura de escaras (úlcera de pressão ou úlcera de decúbito) causadas em pacientes acamados é essencial para o tratamento de pacientes acamado.
+- Faz uso de concentrador de oxigênio que auxilia na oxigenoterapia do paciente, fornece a oxigênio complementar para que o paciente mantenha a saturação da substância acima de 90%, o que é ideal para a saúde,
+Diante do exposto o mesmo deve estar cadastrado para eventuais cortes de energia elétrica na região e isenção de energia elétrica, e para manter todos esses aparelhos ligados a energia elétrica gera alto custo de energia para o familiar. Solicito o não corte do fornecimento de energia elétrica para o paciente, que para o mesmo é indispensável para manter o tratamento em domicilio. [...]. (Id. 113897545 – fls. 22).
+No que se refere a imposição de multa contra a pessoa jurídica de direito público interno, tem-se se revelado, na prática, sem qualquer efetividade, uma vez que persiste a demora no cumprimento e, depois de satisfeito o dever, a sanção punitiva acaba por se transformar em um plus, corriqueiramente de alto valor em benefício da parte.
+Ora, a multa cominatória tem a única finalidade de forçar o obrigado a cumprir a obrigação de fazer ou de não fazer imposta judicialmente, já que não tem caráter indenizatório ou de ressarcimento. Todavia, presente a situação que não é presentante da pessoa jurídica de direito público quem arcará com o adimplemento da sanção, a imposição é desprovida de eficácia.
+Essas, as razões por que revogo a decisão proferida em sede de Plantão Judiciário (Id. 88525459), por conseguinte, suspendo, em parte, a eficácia da decisão tão somente quanto à multa cominatória, até o julgamento definitivo da Câmara (Código de Processo Civil, artigo 1.019, I, primeira parte).
+Comuniquem-se o Juízo (Código de Processo Civil, artigo 1.019, I, parte final) e intime-se o agravado para que responda (Código de Processo Civil, artigo 1.019, II).
+Após, à Procuradoria-Geral de Justiça.
+Intimem-se.
+Às providências.
+Cuiabá, 16 de janeiro de 2022.
+Des. Luiz Carlos da Costa
+Relator
