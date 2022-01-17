@@ -1,0 +1,79 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial e Extraordinário n. 0040192-20.2010.8.11.0041
+RECORRENTE: ASSOADE-MT
+RECORRIDO: ESTADO DE MATO GROSSO
+Vistos.
+Do Recurso Especial n. 0040192-20.2010.8.11.0041
+Trata-se de recurso especial interposto por ASSOADE-MT, com fundamento no artigo 105, inciso III, alíneas “a”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Público e Coletivo assim ementado (id. 54076498):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - AUXÍLIO FARDAMENTO - ALEGAÇÃO DE NÃO FORNECIMENTO DE FARDAMENTO - PLEITO DE RECEBIMENTO DE INDENIZAÇÃO - SENTENÇA DE IMPROCEDÊNCIA - INTELIGÊNCIA DO ART. 78 DA LC N. 231/05 E ART. 80-A DA LC N. 244/06 E DECRETO ESTADUAL N. 8.178/2006 - INDENIZAÇÃO DEVIDA INCONDICIONALMENTE APENAS NO PERÍODO ENTRE O DIPLOMA CONCESSIVO E A ENTRADA EM VIGOR DO DECRETO REGULAMENTADOR - INDENIZAÇÃO PARA O PERÍODO SUBSEQUENTE SOMENTE MEDIANTE PROVA DOCUMENTAL QUANTO À AQUISIÇÃO E CUSTEIO - AUSÊNCIA DE COMPROVAÇÃO DA AQUISICAÇÃO PARTICULAR - AUSÊNCIA DE PROVA DE PREJUÍZO A SER RESSARCIDO - RECURSO PARCIALMENTE PROVIDO.
+O auxílio para aquisição de uniforme, após a regulamentação do art. 80-A da LC n. 244/06, é indenização substitutiva, isto é, só configura o direito de recebimento ante a prova documental, quanto à aquisição do material e se não houver ocorrido o fornecimento do fardamento.
+Não havendo o fornecimento gratuito do fardamento, os militares terão direito a indenização pecuniária, conforme art. 78 e seguintes da Lei Complementar no 231/2005 e Decreto Estadual no 8.178/2006 (art. 80-A da Lei Complementar no 231/2005). Todavia tal direito somente exsurge quando, em razão do não fornecimento, comprovar que adquiriu de forma particular o material.
+Não havendo comprovação de que a parte promovente utilizou de recursos próprios para a aquisição do fardamento de uso obrigatório, indevida a indenização postulada.
+(RAC 0040192-20.2010.8.11.0041, DR. GILBERTO LOPES BUSSIKI, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 06/05/2021)
+Opostos embargos de declaração, estes foram acolhidos, mas sem efeitos modificativos (id. 90296477).
+A parte recorrente sustenta a violação aos artigos 489 e 1.022, do CPC, ao fundamento da omissão sobre a prolação de decisão genérica de procedência quantos aos exercícios de 2007 e 2016.
+Assevera, ainda, violação ao art. 95, do CDC, sob o argumento que determina que na ação coletiva civil a sentença de procedência será genérica, remetendo para a fase de liquidação ou execução individual o debate, caso a caso, de cada prejuízo efetivamente suportado.
+Recurso tempestivo (id. 93653964).
+Contrarrazões no id. 98826465.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação dos artigos 1.022 e 489 do CPC
+A partir da suposta violação aos artigos 1.022 e 489, do CPC, a parte recorrente alega que o acórdão recorrido é omisso, porquanto a decisão não se analisou adequadamente sobre a prolação de decisão genérica de procedência quantos aos exercícios de 2007 e 2016.
+Entretanto, observa-se que o acórdão, no voto condutor, constou de forma clara os motivos que levaram a parte dispositiva constar apenas o período de em relação ao período compreendido entre 15/12/2005 até 04/10/2006, a seguir (id. 90296477):
+Inicialmente, quanto ao alegado erro material, verifica-se no voto embargado que a Lei Complementar n° 231/2005, de 15 de dezembro de 2005, definiu, no artigo 78, o que seria fardamento e determinou a forma de indenização, tendo como condicionante o pagamento da verba no dia aniversário do militar.
+Colhe-se ainda, que com a edição da Lei Complementar n° 244/2006, de 17 de abril de 2006, foi incluído o artigo 80-A a Lei Complementar n° 231/2005, alterando a sistemática anterior para condicionar o pagamento da indenização apenas para os casos em que o fardamento não for fornecido pela Corporação.
+Assim, o militar teria o direito à indenização “etapa fardamento” independente de comprovação da aquisição do uniforme obrigatório, somente entre o período da Lei Complementar no. 231/2005 de 15/12/2005 até a data da edição da Lei Complementar no. 244/2006 regulamentado pelo Decreto no. 8.178/2006.
+Desse modo, não verifico a ocorrência de erro material. Todavia, a fim de melhor aclarar o julgado, acolho parcialmente a pretensão recursal, tão somente para declarar devido o pagamento do auxílio fardamento previsto na Lei Complementar n° 231/2005, em relação ao período compreendido entre 15/12/2005 até 04/10/2006, quando regulamentada a Lei Complementar n° 244/2006 pelo Decreto n° 8.178/2006..
+Partindo dessas premissas, nota-se que não há omissão no acórdão, posto que o acórdão fundamentou as razões que levaram a condenar durante aquele período, razão pela qual, na verdade, o que se pretende é a rediscussão do mérito, e os aclaratórios não constituem a via adequada para tal mister.
+Ademais, conforme parte dispositiva corrigida nos embargos de declaração (id. 90296477), esta ficou de forma genérica, isto é, declarar devido o pagamento do auxílio fardamento previsto na Lei Complementar n° 231/2005, em relação ao período compreendido entre 15/12/2005 até 04/10/2006, quando regulamentada a Lei Complementar n° 244/2006 pelo Decreto n° 8.178/2006.
+Diante desse quadro, não há evidência de violação aos artigos 489 e 1.022, do CPC, o que conduz à inadmissão do recurso.
+Reexame de matéria fática. Súmula 7 do STJ
+Com efeito, nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e uniformização da interpretação das leis federais, razão pela qual não é possível o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta ofensa ao art. 95, do CDC, sob o argumento que determina que na ação coletiva civil a sentença de procedência deverá ser genérica.
+Entretanto, para o deslinde da controvérsia faz-se necessário analisar o conjunto fático-probatório existente nos autos, o que atrai o óbice da Súmula 7 do STJ, senão vejamos:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. 3,17%. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. VIOLAÇÃO DE DISPOSITIVOS DA CONSTITUIÇÃO FEDERAL. INVIABILIDADE EM RECURSO ESPECIAL. COMPETÊNCIA DO STF. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. ALEGAÇÃO DE CÁLCULOS APRESENTADOS PELO EXECUTADO. VALORES CONTROVERSOS SEGUNDO O TRIBUNAL DE ORIGEM. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal de origem extingiu o processo de execução individual sem resolução de mérito, oriunda de título judicial formado nos autos de Ação Coletiva, uma vez que inexiste a prévia liquidação do julgado coletivo.
+2. No que se refere à alegada afronta ao disposto no art. 1.022 do CPC/2015, o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte. 3. Não se conhece do Recurso Especial por afronta a dispositivos constitucionais, em razão da competência estabelecida pela Constituição Federal ao STF para tratar da matéria.
+4. O STJ no julgamento do Recurso Especial 1.247.150/PR (DJe 12/12/2011), julgado sob o regime do art. 543-C do Código de Processo Civil de 1973, da relatoria do Ministro Luis Felipe Salomão, assentou o entendimento de que "a sentença proferida em ação civil pública, por si, não confere ao vencido o atributo de devedor de 'quantia certa ou já fixada em liquidação' (art. 475-J do CPC), porquanto, 'em caso de procedência do pedido, a condenação será genérica', apenas 'fixando a responsabilidade do réu pelos danos causados' (art. 95 do CDC)". Em arremate, destacou-se que "a condenação, pois, não se reveste de liquidez necessária ao cumprimento espontâneo do comando sentencial, não havendo razão lógica ou jurídica para incidir a reprimenda prevista no art. 475-J do CPC. Primeiramente, apuram-se, na própria execução, a titularidade do crédito e o quantum debeatu r apresentado pelo beneficiário do provimento, e somente a partir daí é que fica individualizada a parcela que tocará ao exequente, segundo o comando sentencial proferido na ação coletiva".
+5. Hipótese em que o Tribunal de origem, com base no contexto fático-probatório dos autos, concluiu: "Conforme consulta ao sítio eletrônico deste Tribunal, verifica-se que o referido acórdão ainda não transitou em julgado, pois ainda pende de julgamento dos recursos excepcionais interpostos aos tribunais superiores. Entretanto, em que pese a discussão que se travou entorno da possibilidade de reconhecimento de eventual litispendência, verifico que a sentença que extinguiu a presente execução individual merece ser mantida, ainda que por fundamento diverso do adotado pelo Juízo singular, pois encontra-se ausente uma condição específica da ação executiva individual, qual seja, a liquidação da sentença condenatória proferida nos autos da ação coletiva, que reconheceu ser devidos aos substituídos o reajuste de 3,17% em seus vencimentos, pois a condenação imposta ao ente público é genérica, necessitando, portanto, de liquidação. Dessa forma, é necessário que se proceda a liquidação da sentença de condenação genérica ou ilíquida, de modo que o título judicial formado no bojo da ação coletiva possua eficácia executiva. No presente caso, o SINTUFRJ pretende executar, através de execução individual, os valores que supõe sejam incontroversos, lançados no Parecer Técnico n° 8581C/2009-DCP/PGU/AGU apresentado pela executada UFRJ, nos autos dos Embargos à Execução n° 2006.51.01.015199-0 da ação coletiva anteriormente promovida, e que foi julgada extinta. Assim, afigura-se necessária prévia liquidação do julgado, pois, como já dito alhures, em sede de processo coletivo, em que a sentença condenatória é necessariamente genérica (art. 95 do CDC), mostra-se imprescindível, para apuração de um valor líquido e exigível, a realização de processo de liquidação, respeitados os princípios do contraditório e da ampla defesa. Sem prévia liquidação, não é possível o início de execução de condenação estabelecida em termos genéricos" (fl. 291, e-STJ).
+6. É inviável a modificação do julgado em Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido.
+Aplica-se, portanto, o óbice da Súmula 7/STJ. 7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1804769/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/05/2019, DJe 30/05/2019)
+Assim, por serem insuscetíveis de revisão os entendimentos do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, encontra-se vedada a análise da referida questão pelo Superior Tribunal de Justiça, o que obsta a admissão recursal.
+Do Recurso Extraordinário n. 0040192-20.2010.8.11.0041
+Trata-se de recurso extraordinário interposto por ASSOADE-MT, com fundamento no artigo 102, inciso III, alíneas “a”, da Constituição Federal, contra o acórdão da contra o acórdão da Primeira Câmara de Direito Público e Coletivo assim ementado (id. 54076498):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - AUXÍLIO FARDAMENTO - ALEGAÇÃO DE NÃO FORNECIMENTO DE FARDAMENTO - PLEITO DE RECEBIMENTO DE INDENIZAÇÃO - SENTENÇA DE IMPROCEDÊNCIA - INTELIGÊNCIA DO ART. 78 DA LC N. 231/05 E ART. 80-A DA LC N. 244/06 E DECRETO ESTADUAL N. 8.178/2006 - INDENIZAÇÃO DEVIDA INCONDICIONALMENTE APENAS NO PERÍODO ENTRE O DIPLOMA CONCESSIVO E A ENTRADA EM VIGOR DO DECRETO REGULAMENTADOR - INDENIZAÇÃO PARA O PERÍODO SUBSEQUENTE SOMENTE MEDIANTE PROVA DOCUMENTAL QUANTO À AQUISIÇÃO E CUSTEIO - AUSÊNCIA DE COMPROVAÇÃO DA AQUISICAÇÃO PARTICULAR - AUSÊNCIA DE PROVA DE PREJUÍZO A SER RESSARCIDO - RECURSO PARCIALMENTE PROVIDO.
+O auxílio para aquisição de uniforme, após a regulamentação do art. 80-A da LC n. 244/06, é indenização substitutiva, isto é, só configura o direito de recebimento ante a prova documental, quanto à aquisição do material e se não houver ocorrido o fornecimento do fardamento.
+Não havendo o fornecimento gratuito do fardamento, os militares terão direito a indenização pecuniária, conforme art. 78 e seguintes da Lei Complementar no 231/2005 e Decreto Estadual no 8.178/2006 (art. 80-A da Lei Complementar no 231/2005). Todavia tal direito somente exsurge quando, em razão do não fornecimento, comprovar que adquiriu de forma particular o material.
+Não havendo comprovação de que a parte promovente utilizou de recursos próprios para a aquisição do fardamento de uso obrigatório, indevida a indenização postulada.
+(RAC 0040192-20.2010.8.11.0041, DR. GILBERTO LOPES BUSSIKI, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 06/05/2021)
+Opostos embargos de declaração, estes foram acolhidos, mas sem efeitos modificativos (id. 90296477).
+Alega a parte recorrente violação ao artigo 5o, da Constituição Federal, sob a assertiva da inobservância do princípio da proporcionalidade e razoabilidade.
+Recurso tempestivo (id. 93653964).
+Contrarrazões no id. 98826464.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Supremo Tribunal Federal, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade de ambos os recursos.
+Da deficiência de fundamentação (Súmula 284 do STF)
+Na interposição do recurso extraordinário, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente não apenas o suposto dispositivo legal violado, mas a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF:
+Súmula 284/STF: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+A propósito:
+EMENTA: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. INADMISSIBILIDADE. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é inadmissível quando a deficiência de sua fundamentação inviabilizar a exata compreensão da controvérsia, ex vi, do enunciado 284 da Súmula do Supremo Tribunal Federal. 2. Agravo interno desprovido.
+(ARE 1304513 AgR, Relator(a): LUIZ FUX (Presidente), Tribunal Pleno, julgado em 01/03/2021, PROCESSO ELETRÔNICO DJe-053 DIVULG 18-03-2021 PUBLIC 19-03-2021)
+No caso, não restou demonstrou de forma individualizada e específica quais dispositivos da Constituição Federal foram supostamente violados, bem como não explicitou como ocorreu a suposta violação, o que faz incidir a Súmula 284/STF.
+Aliás, sequer demonstrou quais incisos do art. 5o, da CF, foram violados.
+Dessa forma, em que pese a parte recorrente tenha alegado violação ao artigo 5o, da CF, não explicitou como ocorreu a suposta violação, o que faz incidir o óbice sumular supracitado, conduzindo à inadmissão do recurso neste ponto.
+Ante o exposto:
+a. nego seguimento ao recurso especial, com fundamento no artigo 1.030, V (Súmulas 7 do STJ), do CPC.
+b. nego seguimento ao recurso extraordinário, com fundamento no artigo 1.030, V (Súmula 284 do STF), do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
