@@ -1,0 +1,5 @@
+DECISÃO
+Em relação ao pedido de tutela provisória formulado no agravo interno (fl. 117), de acordo com o que prevê o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos: fumus boni juris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido; e periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na espécie, tendo em vista o não conhecimento do agravo (fls. 106-108), fica prejudicado o pedido de efeito suspensivo porquanto ausente o primeiro pressuposto, fumus boni juris.
+Após, não sendo caso de retratação, distribua-se o agravo interno (fls. 111-120), nos termos art. 21-E, § 2º, do Regimento Interno do STJ, devendo os autos serem encaminhados ao ministro relator.
+Publique-se. Intimem-se.
