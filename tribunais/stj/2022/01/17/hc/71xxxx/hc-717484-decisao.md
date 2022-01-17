@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de TIAGO ALEXANDRE RODRIGUES AZZINIAN DE ANDRADEem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA (HC n. 0819081-73.2021.8.15.0000).
+Infere-se dos autos (fl. 44):
+No caso em tela, o paciente encontrava-se em cumprimento de pena no regime semiaberto, sob a observância de condições que lhe foram impostas, entre elas: o recolhimento, em sua residência, durante os finais de semana e feriados, e, diariamente das 20:00 às 05:00 horas, e aos sábados a partir das 13:00 até as 05:00 horas da segunda-feira, impreterivelmente conforme atesta o documento de id. 14072207, p.02.
+Ocorre, todavia, que foi realizada visita de fiscalização por policiais militares, às 17 horas do dia 13/11/2021 (sábado), no endereço informado pelo paciente, mas este não foi localizado (id. 14072207, p. 05).
+Verifica-se, de plano, a inobservância de condição específica à qual o paciente estava submetido para sua manutenção em regime semiaberto, porquanto, aos sábados, deveria ficar recolhido em sua residência a partir de 13:00 horas até as 05:00 horas da segunda-feira.
+Não obstante a alegação de que o paciente ausentou-se apenas para comprar um medicamento na farmácia, não há nos autos qualquer prova que ateste a referida alegação, de modo que eventual concessão de medida liminar estaria submetida à prova inconteste de ilegalidade ou abuso de poder, o que não se observa nos autos.
+A parteimpetrante sustenta que o paciente sofre constrangimento ilegal em razão da ilegalidade da regressão, que além de não observar a exceção à inobservância do horário de recolhimento, pois teria ido à farmácia, não observa que este já faria jus ao livramento condicional, de modo que eventual legalidade da regressão seria para o regime aberto.
+Requer, liminarmente e no mérito, a concessão da ordem para readequação ao regime aberto.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+1. O entendimento firmado pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça é no sentido de não se admitir habeas corpus contra decisão denegatória de pedido liminar proferida em outra impetração na Instância de origem, nos termos da Súmula 691/STF. (AgRg no HC n. 664.826/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/6/2021.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, conforme trecho da decisãoacima transcrito, da qual constoutambém (fl 44-45):
+Ressalte-se, por oportuno, que a alegação de que a regressão de regime do paciente deveria ocorrer para o regime aberto, e não para o regime fechado, pois o mesmo já deveria estar em livramento condicional, não se sustenta, visto que, para a concessão de livramento condicional é necessária a observância de requisitos objetivos e subjetivos, previstos no art. 83 do Código Penal, os quais devem ser submetidos à análise do Juízo da Execução Penal, inexistindo possibilidade de examinar essas questões na via estreita do habeas corpus.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
