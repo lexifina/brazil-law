@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de pedido de tutela provisória formulado por SKY SERVIÇOS DE BANDA LARGA LTDA.para atribuir efeito suspensivo a agravo em recurso especial interposto contra decisão que negou seguimento ao apelo nobre.
+A requerente relata que se discute "no processo originário a possibilidade de exclusão do nome da Requerente do Cadin e de órgãos congêneres (SERASA, SPC etc.) em face da existência de garantia idônea e integral da dívida tributária (já aceita pelas autoridades fiscais e pelo Juízo de origem) e da discussão judicial sobre a legalidade do débito, por meio de Embargos à Execução" (fl. 4).
+Afirma que o Tribunal a quo "acolheu pedido do Estado de São Paulo para manter o nome da Requerente em órgãos de proteção ao crédito, sob o fundamento de que somente a suspensão da exigibilidade do crédito tributário poderia produzir os efeitos pretendidos pela parte (e reconhecidos pelo Juízo de primeira instância)" (fl. 6).
+Alega que seu pedido "depende apenas da subsunção de fato incontroverso - de que a Requerente apresentou garantia idônea - à tese firmada no Tema 264/STJ, que obsta a inclusão do nome do devedor no Cadin quando houver a apresentação de garantia idônea e discussão judicial" (fl. 6).
+Sustenta que "não pretende a equiparação o seguro-garantia ou da fiança-bancária ao depósito integral para fins de suspensão da exigibilidade, o que é vedado pela Súmula 112, dessa C. Corte Superior, - em que pese tal argumento tenha sido mencionado na r. decisão do e. Tribunal de Justiça do Estado de São Paulo - mas sim, o reconhecimento de que o oferecimento do seguro-garantia possibilita obtenção da certidão positiva com efeitos de negativa, além de obstar a inscrição no Cadin e órgãos de proteção de crédito, bem como do protesto, em linha com o que restou decidido no Tema Repetitivo 264" (fl. 7).
+Aduzque "aurgência na concessão da tutela ora pleiteada está caracterizada diante da impossibilidade de a Requerente receber parcela de financiamento recentemente liberada pelo Estado de São Paulo, da qual faz jus legitimamente, em razão da inscrição no Cadin" (fl. 22).
+Requer "seja concedido efeito suspensivo ao Agravo em Recurso Especial interposto na origem e determinada a exclusão do nome da Requerente do CADIN e outros órgãos congêneres" (fl. 24).
+É, no essencial, o relatório. Decido.
+De acordo com o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na espécie,ausente aplausibilidade jurídica do pedido.
+Salvo melhor juízo,o agravo em recurso especial não prosperará.
+Isso porque, quanto à alegada violação dos arts. 489, § 1º, inciso IV, e 1.022, II e parágrafo único, inciso I, do CPC, a decisão agravada está a salvo de censura.
+O Tribunal a quo, no julgamento do agravo de instrumento, prestou jurisdição completa, não havendo omissões a sanar.
+No mais, adecisão que negou seguimento ao recurso especialabarcou, simultaneamente, fundamento relacionado à sistemática dos recursos repetitivos e fundamento referenteaos pressupostos de admissibilidade recursal.
+Caberia aqui a interposição deagravo interno para atacar a parte relativa aos recursos repetitivos e de agravo em recurso especial para infirmar o fundamento acercados pressupostos recursais.
+Verifica-se que somente o agravo em recurso especial foi interposto. Assim, a ausência de agravo internomantém incólumefundamento da decisão de admissibilidade acerca dacorreta aplicação das teses dos recursos repetitivos.
+Ante o exposto, indefiro o pedido de tutela provisória de urgência, sem prejuízo de ulterior deliberação pelo relator do presente feito.
+Publique-se . Intimem-se.
