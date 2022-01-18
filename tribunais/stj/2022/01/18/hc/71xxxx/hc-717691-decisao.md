@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de TATIANA APARECIDA CORREA em que se aponta como autoridade coatora Desembargador do Tribunal de Justiça do Estado de São Paulo(Habeas Corpus n.2003974-45.2022.8.26.0000).
+A paciente foi condenada às penas de 8 anos de reclusão, em regime inicial fechado, e ao pagamento de 1200dias-multa, pela prática dos delitos descritos nosartigos 33, caput, e 35, caput, ambos da Lei n.11.343/2006.
+Com o trânsito em julgado da sentença condenatória, o juízo de primeira instância determinou a expedição de mandado de prisão em desfavor da paciente.
+O impetrante sustenta que a pacienterespondeu à persecução penal toda em prisão domiciliar, sem qualquer notícia de descumprimento das condições impostas, é mãe de dois filhos menores de idade pelos quaisé a única responsável, razão pela qual entende que deve ser expedida a guia de recolhimento imediata e independentementedo cumprimento do mandado de prisão.
+Afirma que constitui manifesto constrangimento ilegal condicionar a expedição da guia de recolhimento definitiva à efetiva prisão do condenado.
+Requer, liminarmente e no mérito, "a determinação de extração da Guia de Recolhimento Definitiva imediata e independentemente da expedição ou do efetivo cumprimento do mandado de prisão" (fl. 8).
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se, também, a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto foram declinados os fundamentos para o indeferimento da liminar pleiteada na origem, consoante se extrai das seguintes passagens(fls. 31/33):
+Os documentos juntados pelo impetrante não permitem verificar, de plano, a existência de qualquer patente ilegalidade em prejuízo da paciente, porquanto a sua atual ordem de prisão, de cunho material, é decorrente de sentença condenatória já transitada em julgado, a qual foi confirmada por este Egrégio Tribunal de Justiça.
+A ordem de expedição do mandado de prisão é consequência lógica e obrigatória da fixação de pena privativa de liberdade, tanto assim é que, enquanto não cumprido o mandado, a execução penal não se inicia. Logo, qualquer espécie de regime prisional, inclusive o aberto, requer a observância de deveres por parte do condenado, mediante fiscalização do Estado, motivo pelo qual é necessária a expedição de mandado de prisão.
+(..)
+Nessa conjuntura, não houve decretação de prisão preventiva, senão a determinação do cumprimento da pena, em razão do aperfeiçoamento do título executório (sentença penal condenatória definitiva), o que, obviamente, prescinde de maiores fundamentações, dado que estabelecida, em definitivo, a culpa do agente.
+Aliás, respeitado entendimento diverso, não se pode cogitar a aplicação do artigo 387, § 2º, do CPP quando o regime inicial para expiação da pena corporal imposta ao paciente foi fixado por acórdão transitado em julgado. Caberia, apenas, discussão acerca da detração prevista na lei de execução penal, o que, como bem ponderado pela autoridade apontada como coatora,compete ao juízo da execução.
+A despeito de o impetrante argumentar que o pedido não foi realizado perante o Juízo das execuções em razão da ausência de guia de recolhimento definitiva, é certo que o artigo 105 da Lei de Execução Penal determina que "transitando em julgado a sentença que aplicar pena privativa de liberdade, se o réu estiver ou vier a ser preso, o juiz ordenará a expedição de guia de recolhimento para a execução"1.
+O mesmo comando é também previsto no artigo 6742, caput, do Código de Processo Penal e no artigo 4683, inciso II, das Normas Serviço da Corregedoria Geral, verbis:
+(..)
+No presente caso, não está demonstrada, de plano, nenhuma causa apta a excepcionar a regra legal.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
