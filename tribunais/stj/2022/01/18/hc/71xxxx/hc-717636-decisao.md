@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de GISLAINE APARECIDA DUARTE DA SILVAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2299358-85.2021.8.26.0000).
+A paciente foi condenada às penas de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e pagamento de 680 dias-multapela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, c.c. o art. 61, incisos I e II, alínea "j", do Código Penal.
+Inconformada, a defesa impetrou habeas corpus perante a Corte estadual, que, monocraticamente, indeferiu o pleito de liminar (e-STJ fls. 125-127).
+Oimpetrante sustenta a existência de constrangimento ilegal, consubstanciado na "fixação da pena-base acima do mínimo legal na primeira fase pela quantidade de drogas, na segunda fase a majoração prevista no art. 61, inciso II, j, do CP, na terceira fase, deixou de aplicar o referido redutor previsto no paragrafo 4º da lei de drogas" (e-STJ fl. 7).
+Argumenta que "o c. Supremo Tribunal Federal, ainda que em caráter extraordinário, tem admitido o afastamento "it et nunc", da Súmula 691/STF, em hipóteses nas quais a decisão questionada divirja da jurisprudência predominante da Suprema Corte, ou então veicule situações configuradoras de abuso de poder ou a caracterizar manifesta ilegalidade" (e-STJ fl. 9), como seria o caso dos autos.
+Ressalta as condições pessoais favoráveis da condenada, que seria primária, sem antecedentes, com residência fixa,mãe de 4 (quatro) filhos, sem nunca ter exercido o comércio ilícito de entorpecentes.
+Alega que a quantidade de drogas não poderia"automaticamente, proporcionar de forma soberana e assente de dúvidas, o entendimento de que o apelante faria do tráfico seu meio de vida, consistindo, esta presunção em evidente ausência de fundamentação idônea" (e-STJ fl. 14).
+Consigna que a atividade investigativa extrapolaria a competência das Guarda Civil Municipal.
+Assevera que a acusada faria jus à prisão domiciliar, nos termos do art. 318, inciso IV, do Código de Processo Penal, uma vez que três dos filhos são menores impúberes que dependem dagenitora.
+Requer, liminarmente e no mérito, seja a pena reduzida em 2/3 (dois terços) em razão da minorante e, consequentemente, fixado o regime aberto ou semiaberto; seja a pena base aplicada no mínimo legal e excluída a agravante da calamidade pública; seja concedida a prisão domiciliar; e, porfim, seja nula a previsão pelos agentes municipais.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que, ainda, não julgou o mérito do writ originário.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se, também, a Súmula n. 691 do STF:
+"Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquantoforam declinados os fundamentos para indeferir a liminar pleiteada, consoante se extrai da seguinte passagem (e-STJ fl. 126):
+A liminar em Habeas Corpus é medida cautelar excepcional, cujos requisitos são periculum in mora e fumus boni iuris, ausentes no caso em tela, posto que no caso em análise, a princípio, não vislumbro qualquer nulidade ou irregularidade que pudesse configurar constrangimento ilegal.
+Acrescente-se que eventual modificação da pena aplicada e do regime fixado, é incabível no presente habeas-corpus.
+Processe-se o Habeas Corpus, ficando indeferida a liminar pleiteada, reservando-se à Colenda Câmara a análise da impetração em toda sua extensão. Requisitem-se informações atualizadas da autoridade indicada coatora, com eventuais cópias, e, após, remetam-se os autos à douta Procuradoria Geral de Justiça.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
