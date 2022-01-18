@@ -1,0 +1,62 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO RECURSO DE APELAÇÃO CRIMINAL No 0003696-38.2017.8.11.0011
+RECORRENTE: THIAGO MOREIRA DA SILVA
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos.
+Trata-se de recurso especial interposto por THIAGO MOREIRA DA SILVA, com fundamento no art. 105, III, alínea “a” da Constituição Federal, contra o acórdão da Terceira Câmara Criminal do Tribunal de Justiça do Estado de Mato Grosso que, por unanimidade, deu parcial provimento ao recurso, nos termos da seguinte ementa (Id. 95528464):
+APELAÇÃO CRIMINAL – LESÃO CORPORAL NO ÂMBITO DOMÉSTICO – CONDENAÇÃO – IRRESIGNAÇÃO DEFENSIVA – PRELIMINAR - PRETENDIDA ANULAÇÃO DA SENTENÇA POR AUSÊNCIA DE DEFESA TÉCNICA, TENDO O MAGISTRADO NOMEADO DEFENSOR DATIVO – RÉU ACOMPANHADO DE DEFENSOR DATIVO DURANTE AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO – GARANTIA DO CONTRADITÓRIO E AMPLA DEFESA PRESERVADA – PREJUÍZO NÃO DEMONSTRADO – SÚMULA No. 523 DO STF E ARTIGO 563 DO CÓDIGO DE PROCESSO PENAL - MÉRITO - PRETENDIDA ABSOLVIÇÃO POR AUSÊNCIA DE PROVA DO COMETIMENTO DO CRIME – IMPROCEDÊNCIA – CONSUMAÇÃO DO DELITO ATRAVÉS DE EXAME PERICIAL E DEPOIMENTO NO MESMO SENTIDO DA VÍTIMA – DECOTE DA REINCIDÊNCIA – POSSIBILIDADE – DELITOS UTILIZADOS PARA CARACTERIZAÇÃO DA REINCIDÊNCIA SE DERAM EM PERÍODO POSTERIOR AO COMETIMENTO DO PRESENTE CRIME – MODIFICAÇÃO DO REGIME DE CUMPRIMENTO DE PENA – VIABILIDADE – PENA FIXADA NO MÍNIMO LEGAL E RÉU PRIMÁRIO – REGIME INICIAL ABERTO - RECURSO PARCIALMENTE PROVIDO.
+A anulação da sentença somente seria possível em caso de evidente prejuízo suportado pelo réu. In casu, este foi assistido por defensor em todos os atos processuais, primeiramente por defensor público, após por defensor dativo em audiência de instrução e julgamento, e por fim, por defensor público novamente, não havendo falar em ausência de defesa. Nesse sentido previne a Súmula no. 523 do STF e o artigo 563 do Código de Processo Penal.
+O crime de lesão corporal no âmbito doméstico se caracteriza com a sua materialidade através do exame de corpo de delito e o depoimento detalhado da vítima no mesmo sentido, não possuindo a versão do réu, força para se opor.
+Condenação ocorridas após o cometimento do crime em questão, não podem figurar para agravar a condição do réu, lhe impingindo a condição de reincidente.
+Sendo a pena fixada no mínimo legal (03 meses de detenção) e não sendo o réu reincidente, o regime inicial de cumprimento de pena, deve ser o aberto.
+Nas razões do recurso especial, o recorrente sustenta violação ao artigo 4°-A, inciso IV, da Lei Complementar n. 80/1994, e aos artigos 265, §§ 1° e 2°, e 563, caput, do Código de Processo Penal, ao argumento de “nulidade da audiência de instrução e julgamento do dia 03/11/2020, realizada mediante nomeação de advogado ad hoc apesar da solicitação de redesignação do ato justificada pela impossibilidade de comparecimento do Defensor Público patrono da causa, violando os princípios da ampla defesa, do contraditório e do defensor público natural” (Id. 101196464).
+Recurso tempestivo (Id. 101270966).
+Contrarrazões (Id. 103863459).
+É o relatório.
+Passo ao juízo de admissibilidade.
+Do exame dos autos, observa-se que o recurso especial atende aos pressupostos genéricos de admissibilidade, quais sejam: tempestividade, legitimidade e interesse em recorrer.
+Da sistemática de recursos repetitivos
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+No caso, o recorrente sustenta que o Tribunal local deixou de reconhecer a nulidade processual decorrente da nomeação de Defensor ad hoc para proceder a defesa durante a audiência de instrução e julgamento, quando o recorrente já se fazia assistido pela Defensoria Pública Estadual, em ocasião que a Instituição, por seu representante, justificou a impossibilidade de comparecer e solicitou, a tempo e modo, a redesignação da audiência.
+No acórdão impugnado restou consignado que:
+Após analisar os autos, constato que não houve irregularidade na nomeação da advogada dativa Amanda Gonçalves da Silva Palermo, visto que tal ato, se deu diante da ausência do Defensor Público da Comarca, que no período, encontrava-se em gozo de férias compensatórias e na impossibilidade de a Defensora Pública substituta, participar da audiência, como registrou a Magistrada na sentença (id. 75164962).
+Assim decidiu a magistrada:
+“Considerando que o Defensor Público titular da área criminal desta Comarca se encontra em gozo de férias compensatórias, e a Defensora Pública substituta manifestou impossibilidade de participação nesta audiência, nomeio para o ato a Advogada Dra. Amanda Gonçalves da Silva Palermo, OAB/MT n° 24.344, considerando se tratar de processo meta 08 e que a pauta de audiência desta Vara esta para junho de 2021, de forma que a redesignação prejudicaria sobremaneira o andamento do processo e o alcance da meta 08. Declaro encerrada a instrução processual. Passo então a sentença” (sic)
+Dessa forma, tenho que a magistrada de origem em respeito aos preceitos legais e à coerente duração do processo, resguardando inclusive as garantias constitucionais do réu, deu andamento célere ao processo, vez que a redesignação de audiência só poderá ocorrer em junho de 2021.
+A audiência foi realizada e o réu foi assistido por defensor, lhe sendo resguardado o direito à ampla defesa e contraditório, inclusive não sendo o turno defensivo, capaz de demonstrar o prejuízo real que o acusado teria em tese sofrido, em razão de ser assistido por defensor dativo naquele momento.
+Conforme entendimento jurisprudencial sedimentado no enunciado da Súmula n° 523 do Supremo Tribunal Federal “no processo penal, a falta de defesa constitui nulidade absoluta, mas sua deficiência só o anulará se houver prova do prejuízo para o réu”.
+Dessa forma, não observo qualquer prejuízo que o apelante tenha sofrido.
+Ressalto que o artigo 563 do Código de Processo Penal prevê que a invalidação de um ato processual dependerá da demonstração efetiva de prejuízo ao réu, caso contrário, o processo seguirá seu fluxo normal.
+Nesse sentido tem decidido o Superior Tribunal de Justiça, conforme:
+“Segundo entendimento pacifico desta Corte Superior,o reconhecimento de nulidades no curso do processo penal reclama uma efetiva Demonstração do prejuizo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do CPP (pas de nullité sans grief). (...)” (HC 377.363/RJ,5" Turma, Rel. Min. Ribeiro Dantas,DJe 01/08/2017)
+Assim, não obstante o esforço da r. defesa, não há demonstração de prejuízo ao réu, não sendo viável a anulação da decisão, razão pela qual REJEITO a preliminar de nulidade por cerceamento de defesa.
+Observa-se, pois, que o entendimento do órgão fracionário deste tribunal está em consonância com a jurisprudência pacífica do STJ no sentido de que a decretação da nulidade processual, ainda que absoluta, depende da demonstração do efetivo prejuízo por aplicação do princípio do pas de nullité sans grief. Neste sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. NULIDADE. VIOLAÇÃO AO PRINCÍPIO DO DEFENSOR NATURAL. PREJUÍZO NÃO DEMONSTRADO. WRIT NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+2. A jurisprudência desta Corte é reiterada no sentido de que a decretação da nulidade processual, ainda que absoluta, depende da demonstração do efetivo prejuízo por aplicação do princípio do pas de nullité sans grief. No caso em análise, a defesa não logrou demonstrar qual o prejuízo experimentado em razão da nomeação de defensor ad hoc para a oitiva da testemunha, restringindo-se a sustentar violação ao princípio do defensor natural.
+3. Destaque-se que não há nos autos quais perguntas deixaram de ser feitas à referida testemunha por ausência do Defensor Público e que mesmo em sede de alegações finais a aventada nulidade foi arguida.
+4. Habeas Corpus não conhecido.
+(HC 550.045/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 12/05/2020, DJe 25/05/2020)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NULIDADE DO PROCESSO POR AUSÊNCIA DE CITAÇÃO DO RÉU. CERCEAMENTO DE DEFESA. VIOLAÇÃO DO PRINCÍPIO DO DEFENSOR NATURAL. NÃO CONFIGURAÇÃO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Não constatado o cerceamento de defesa, na hipótese, tendo em vista que o paciente teve conhecimento da renúncia ao mandato por seu advogado constituído, não providenciou a nomeação de novo patrono no prazo legal, sendo, por conseguinte, nomeado advogado dativo pelo Juízo de piso.
+2. De acordo com o entendimento desta Corte e também do Supremo Tribunal Federal, a Defensoria Pública não detém a exclusividade do exercício de defesa daqueles que não têm meios financeiros para contratar advogado, assim como não existe direito subjetivo do acusado de ser defendido pela Defensoria Pública (RMS 49.902/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/05/2017, DJe 26/05/2017).
+3. A defesa não demonstrou prejuízo, circunstância imprescindível para o reconhecimento de nulidade processual, conforme preceitua o artigo 563, do Código de Processo Penal, o princípio do pas de nullité sans grie. Precedentes.
+4. Agravo regimental improvido.
+(AgRg no RHC 113.707/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 04/02/2020)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. NULIDADE. SENTENCIADO QUE POSSUI CAUSÍDICO CONTRATADO. REGULAR INTIMAÇÃO DO RÉU E DE SEU DEFENSOR PARA AUDIÊNCIA DE INSTRUÇÃO. NÃO COMPARECIMENTO DO PATRONO. DESIGNAÇÃO DE ADVOGADO AD HOC. LEGALIDADE. INTELIGÊNCIA DO ARTIGO 265 DO CÓDIGO DE PROCESSO PENAL. INEXISTÊNCIA DE OBRIGATORIEDADE DE NOMEAÇÃO DA DEFENSORIA PÚBLICA PARA ATUAR NO ATO. PATROCÍNIO PROVISÓRIO DE RÉU QUE NÃO É HIPOSSUFICIENTE. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DO DEFENSOR NATURAL. ILEGALIDADE NÃO CONFIGURADA. IMPROVIMENTO DO AGRAVO.
+1. A nomeação de defensor ad hoc para atuar em audiência na qual o advogado do réu, devidamente intimado, não comparece, não ofende o direito conferido ao acusado de escolher patrono de sua confiança. Inteligência dos artigos 263 e 265 do Código de Processo Penal. Precedentes do STJ.
+2. O § 2o do artigo 265 do Código de Processo Penal determina que, na ausência do causídico contratado pelo acusado, um defensor substituto deve ser designado provisoriamente para o ato, não havendo qualquer exigência no sentido de que seja um membro do órgão de assistência judiciária, compreensão que contraria o próprio objetivo do dispositivo processual penal, que é o de evitar a perda de um ato processual que pode ser realizado validamente, já que nem sempre um Defensor Público estará disponível no local ou no momento da solenidade para atuar como advogado ad hoc.
+3. Em momento algum, a Defensoria Pública logrou comprovar em que medida o agravante teria sido prejudicado com atuação do advogado dativo, circunstância que reforça a impossibilidade de reconhecimento da eiva suscitada, nos termos do artigo 563 do Código de Processo Penal.
+4. Agravo improvido.
+(AgRg no AREsp 1072292/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/09/2018, DJe 26/09/2018)
+Desta feita, deve ser aplicado o referido verbete sumular quanto à suposta violação, uma vez que o entendimento exposto no acórdão recorrido se encontra em sintonia com a orientação sedimentada no STJ, o que impede o seguimento do recurso.
+Ante o exposto, inadmito o recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
