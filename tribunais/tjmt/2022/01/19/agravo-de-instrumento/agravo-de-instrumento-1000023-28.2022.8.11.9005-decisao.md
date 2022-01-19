@@ -1,0 +1,44 @@
+Agravo de Instrumento: 1000023-28.2022.8.11.9005
+Processo 1o Grau: 1000334-62.2022.8.11.0002
+Origem: JUIZADO ESPECIAL DA FAZENDA PÚBLICA DE CUIABÁ
+Agravante(s): MUNICÍPIO DE CUIABÁ
+Agravado(s): LISDETH BARBOSA DE SOUZA
+Vistos, etc...
+Trata-se de AGRAVO DE INSTRUMENTO interposto pelo MUNICÍPIO DE CUIABÁ contra decisão interlocutória que deferiu a antecipação de tutela e determinou que os Requeridos realizem a transferência da parte Autora, para hospital da rede pública de saúde na cidade de Cuiabá-MT com suporte de UTI CORONÁRIA/UCO apta a tratar da patologia que a acomete (Tratamento de Infarto Agudo do Miocárdio) e que possua suporte cardiológico (conforme indicação médica anexa) e, ainda, após a informação de descumprimento, determinou que a mencionada transferência ocorra “... no prazo de 72 (setenta e duas) horas, sob pena de multa fixa que arbitro em R$20.000,00, para cada um dos entes federativos requeridos.”.
+Alegou a parte Agravante que “... o tratamento requerido pressupõe o uso de alta tecnologia e atendimento por profissionais altamente especializados, não sendo, portanto, serviço de baixa complexidade, o que, por si só, já implica reconhecer que a competência para sua prestação não é do Município, mas sim do Estado, ou mais remotamente da União.”.
+Afirma que o procedimento cirúrgico é de alto custo, de modo que o Município de Cuiabá ano deve ser obrigado ao fornecimento do tratamento, por se tratar de obrigação inicialmente do Estado de Mato Grosso, já que o procedimento cirúrgico é de alta/média complexidade.
+Aduz ser “imperativo que se reconheça a possibilidade de redirecionamento do cumprimento da obrigação conforme as regras de repartição de competência, nos termos do tema 793 de Repercussão Geral, de forma que o Município requer o redirecionamento do cumprimento da obrigação ao Estado de Mato Grosso.”.
+Sustenta que ainda houve a fixação de multa diária no valor de R$ 20.000,00 (vinte mil reais), a qual deve ser substituída, considerando a sua ineficácia para o caso, bem como os prejuízos causados ao erário. E, ainda, que a fixação da astreinte acaba, na verdade, agravando o problema e sobrecarregando o erário público indevidamente, especialmente porque o magistrado tem a seu dispor outros instrumentos, mais eficazes ainda, para fazer cumprir a decisão liminar, como o bloqueio judicial.
+Requereu “seja DEFERIDO o pedido de concessão de efeito suspensivo ao presente agravo, considerando o elevado valor da multa diária arbitrada, bem como a sua ineficácia para o caso, devendo ser substituído por medidas mais eficazes, bem como deve ser reconhecido que o Ente Municipal está sendo obrigado a fornecer um tratamento NÃO previsto em suas diretrizes e que é de responsabilidade do Estado de Mato Grosso, por se tratar de tratamento de alto custo e de responsabilidade da alta/média complexidade, de forma que o cumprimento da obrigação é de responsabilidade do Estado de Mato Grosso”.
+Juntou documentos, dentre eles, cópia da petição inicial e da decisão que deferiu a liminar.
+É O RELATÓRIO.
+DECIDO.
+Inicialmente, destaco que a Lei no 12.153, de 22.12.2009, que instituiu os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios, em seus artigos 3o e 4o permite a interposição de Agravo de Instrumento contra decisão interlocutória proferidas no âmbito Juizado Especial da Fazenda Pública, verbis:
+Art. 3o O juiz poderá, de ofício ou a requerimento das partes, deferir quaisquer providências cautelares e antecipatórias no curso do processo, para evitar dano de difícil ou de incerta reparação.
+Art. 4o Exceto nos casos do art. 3o, somente será admitido recurso contra a sentença.
+Portanto, em se tratando de decisões cautelares ou antecipatórias proferidas por magistrado dos Juizados Especiais da Fazenda Pública, se admite a interposição de agravo de instrumento.
+Dispõe o artigo 1.015, do Código de Processo Civil, que o recurso de agravo de instrumento é cabível contra a decisão interlocutória que versar sobre tutelas provisórias, litteris:
+Art. 1.015. Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:
+I - tutelas provisórias;
+Estabelece o artigo 1.019 do Código de Processo Civil que, recebido o recurso de agravo de instrumento, o relator pode conferir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão requerida no recurso:
+Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão;
+No caso dos autos, em resumo, pretende a parte Agravante a concessão de tutela antecipada visando suspender os efeitos da decisão que lhe determinou, solidariamente com o Estado de Mato Grosso, que realizem a transferência da paciente para hospital que tenha suporte técnico necessário como UTI coronariana, no prazo de 72 (setenta e duas) horas, sob pena de multa fixa de R$20.000,00 para cada um dos entes.
+No que se refere à insurgência quanto à legitimidade passiva e responsabilidade pelo fornecimento do tratamento, não há decisão teratológica a ser corrigida na via de cognição sumária, uma vez que calcada na responsabilidade solidária imposta pela Constituição Federal dos entes públicos quanto à proteção da saúde.
+O direito à saúde e, por conseguinte, o direito à própria vida, é direito fundamental inerente a todo ser humano, de sorte que impõe aos entes federativos o dever de assegurar à sociedade um tratamento de saúde digno.
+Cumpre ao Estado e/ou ao Município, assegurar a todos cidadãos o direito à saúde, nos termos do artigo 196, da Constituição Federal, que dispõe que o fornecimento de consultas, tratamentos médicos, disponibilização de medicamentos e demais serviços de saúde constituem responsabilidade solidária da União, dos Estados e dos Municípios, não havendo se falar em ausência de solidariedade.
+Entretanto, no que se refere à suspensão da multa, razão assiste ao Agravante, pois tem o condão de causar maiores prejuízos, em especial ante a possibilidade de outros meios mais eficazes para a satisfação da ordem judicial.
+A multa cominatória tem caráter pedagógico e fim coercitivo, pois se destina a conferir efetividade ao provimento judicial prolatado, no entanto a substituição da multa diária por eventual penhora ao mesmo tempo em que preserva os interesses da parte credora, mantém o prestígio da efetividade da decisão judicial, pois se revela mais eficaz ao seu cumprimento.
+Nesse sentido:
+AGRAVO DE INSTRUMENTO – AÇÃO DE RESPONSABILIZAÇÃO CIVIL – PARTO TARDIO – SEQUELAS AO MENOR – ANTECIPAÇÃO DE TUTELA – FIXAÇÃO DE PENSÃO – MULTA COMINATÓRIA – SUBSTITUIÇÃO POR BLOQUEIO ON LINE – RECURSO PARCIALMENTE PROVIDO.
+“Na responsabilidade da Administração Pública, aplica-se a teoria do risco administrativo, segundo a qual, deve indenizar os danos causados por seus agentes, nessa qualidade, desde que comprovados e presentes o nexo de causalidade. Isto é, o Poder Público deve suportar os ônus de sua atividade, independentemente de culpa dos seus agentes.” (AI 146910/2014, DES. JOSÉ ZUQUIM NOGUEIRA, QUARTA CÂMARA CÍVEL, Julgado em 12/05/2015, Publicado no DJE 22/05/2015).
+Não obstante a possibilidade de fixação de multa, a norma do § 5o, do art. 461, do CPC, confere ao juiz poderes para a imposição de meios coercitivos e, dentre estes, mostra-se mais eficaz, do que a multa diária, a possibilidade de bloqueio on line do valor correspondente à obrigação não cumprida, de modo que seja realmente assegurado o seu cumprimento.
+(AI 55236/2015, DESA. NILZA MARIA PÔSSAS DE CARVALHO, QUARTA CÂMARA CÍVEL, Julgado em 13/10/2015, Publicado no DJE 20/10/2015).
+Com efeito, entendo haver necessidade de suspensão da multa aplicada e, a fim de garantir a eficácia do provimento judicial, entendo por necessária a substituição da multa arbitrada por penhora on-line, pois esta confere maior efetividade ao cumprimento do julgado e é o meio menos oneroso ao ente público.
+ISTO POSTO, DEFIRO EM PARTE a antecipação de tutela recursal para o fim de conceder efeito suspensivo sustando os efeitos da multa aplicada, substituindo-a pela possibilidade de efetivação de penhora on-line para garantir o cumprimento da obrigação imposta.
+Comunique-se, imediatamente, o magistrado a quo quanto aos termos da presente decisão, nos termos do artigo 1.019, I, do Código de Processo Civil.
+Intime-se o Agravado, nos termos do artigo 1.019, II, do Código de Processo Civil e, após, intime-se o Ministério Público que atua perante esta Turma Recursal para manifestação, nos termos do artigo 1.019, III, do Código de Processo Civil.
+Cumpra-se.
+Lúcia Peruffo
+Juíza de Direito
+Relatora
