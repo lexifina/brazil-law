@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor próprio porFLÁVIO SCHECHTER em que se aponta como autoridade coatora o Tribunal de origem do Estado do Rio de Janeiro(Processo n. 0274379-56.2019.8.19.0001).
+O impetrante/paciente, acusado de praticar, em tese, crimes de injúria e de calúnia em face da Desembargadora Maria Regina Fonseca Nova Alves,foidenunciado como incursonos arts. 138 e 140, c/c os arts. 141, II, e 145, parágrafo único, todos do Código Penal.
+Alega que as peças processuais utilizadas para embasar a denúncia foram extraídas dos autos do Processo n. 0156924-07.2018.8.19.0001, instaurado anteriormente por outros supostos crimes contra a honra da Desembargadora Maria Regina, mas quecelebrou a transação penal para extinguir a sua punibilidade quanto àqueles fatos.
+Sustenta que durante a instrução do Processo n. 0274379-56.2019.8.19.0001foi colhido o depoimento judicial da suposta vítima, de cujo teor é possível inferir a existência de desapreço por partede todos os desembargadores do TJRJ em relação à sua pessoa. Dessa forma, sugere que todos os magistrados vinculados à Corte de Justiça fluminense são suspeitos para processar e julgar a ação penal na qual figura como réu.
+Requer, liminarmente, seja determinado à 20ª Vara Criminal da Comarca do Rio de Janeiroque se abstenha de proferir sentença nos autos do Processo n. 0274379-56.2019.8.19.0001 até o julgamento final destewrit. No mérito, pugna pela concessão da ordem para que seja declarada a suspeição do Juízo de primeiro grau e o trancamento da referida ação penal.
+É, no essencial, o relatório. Decido.
+A análise da petição inicial deste habeas corpusconduz à conclusão de que aautoridade coatora é o Juízo da 20ª Vara Criminal da Comarca do Rio de Janeiro, sobretudo porque é o foro onde atualmentetramita o Processon. 0274379-56.2019.8.19.0001, cujo trancamento é pretendido pelo impetrante/paciente.
+Ademais, não há notícia de que houve análise do pedido objeto do presentewritpelo Tribunal de origem, razão pela qual é inviável sua apreciação pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Dispõe o art. 105, I,c, da Constituição Federal que compete a esta Corte Superiorprocessar e julgarhabeas corpusquando o coator for tribunal sujeito a sua jurisdição, hipótese que não é a dos autos. O pedido também não se enquadra em nenhuma das hipóteses de competência originária do STJ.
+Ante o exposto, com fundamento no art. 21, XIII,c, c/c o art. 210 do RISTJ, indefiro liminarmente o presentehabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
