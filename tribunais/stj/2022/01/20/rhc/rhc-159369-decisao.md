@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus com pedido de liminar interposto por IGOR SILVA DE SOUZA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL(HC n. 5232824-98.2021.8.21.7000/RS).
+O recorrenteencontra-se preso preventivamente pela suposta prática dos delitos previstos nos arts.33, caput, e 35 da Lei n. 11.343/06.
+Sustenta que não estariam presentes os requisitos necessários para a manutenção da prisãocautelar, insculpidos no art. 312 do Código de Processo Penal.
+Alega que não foi demonstrado, de maneira concreta, de que forma, em liberdade,poderia causar embaraço à ordem pública,à instrução criminal ou à aplicação da lei penal,destacando queestá preso desde 4.6.2021, sem que a instrução processual tenha iniciado.
+Argumenta que, considerando suas circunstâncias pessoaise que os delitos foramcometidos sem violência ou grave ameaça, a segregação poderia ser substituída por cautelares diversas, previstas no art. 319 do Código de Processo Penal.
+Requer, liminarmente e no mérito, o provimento do recurso para que seja revogada a prisão preventiva, ainda que mediante aplicação demedidas alternativas à prisão.
+É, no essencial, o relatório. Decido.
+O recurso não merece conhecimento.
+A decisão impugnada foi proferida pelo desembargador relator. Não há manifestação do Tribunal de origem sobre a matéria, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, pois não se trata de decisão de última instância (art. 105, II, a, da Constituição Federal).
+Ademais, da leitura da decisão impugnada, verifica-se que inexisteflagrante ilegalidade passível de ensejar a atuação de ofício desta Corte Superior de Justiça,porquantoforam declinados os fundamentos para a manutenção da prisão preventiva do recorrente (fls. 14-15):
+Conheço deste habeas corpus apenas quanto ao alegado constrangimento ilegal pelo excesso de prazo na formação da culpa. A legalidade da prisão preventiva da paciente já foi apreciada pela Câmara quando do julgamento do writ de número 5092257-17.2021.8.21.
+Penso que é possível julgar este pedido via decisão monocrática, tendo em vista a jurisprudência pátria. E acrescento que ele não procede, porque não vislumbro constrangimento ilegal na prisão do paciente pelo alegado excesso de prazo no encerramento do processo criminal.
+Está já sacramentado na jurisprudência, baseando-se em artigos da Lei dos Crimes Hediondos e da Lei de Tóxicos, que é de duzentos e cinqüenta e dois dias o prazo para o encerramento de processos criminais como o que responde o paciente.
+Inicialmente cito decisão monocrática do Supremo Tribunal Federal, onde, ainda que não se refira expressamente aos dias referidos acima, mostra que o prazo de conclusão dos processos por crimes hediondos ou similares é diferenciado dos demais procedimentos:
+"Com relação ao tempo limite da prisão, vale destacar o entendimento trazido na sentença.. Reitere-se, não há qualquer indicação de arbitrariedade ou má-fé no fato de o autor permanecer preso por 119 dias. Sequer há excesso de prazo, já que a Lei nº 11.343/06 traz em seubojo procedimento especial, não podendo ser aplicado, neste caso, o entendimento jurisprudencial e doutrinário de que a instrução processual deve encerrar-se em 81, sob pena de configuração de excesso, já que este prazo tem como parâmetro o procedimento ordinário do Código de Processo Penal.. Desta feita, tem-se que não houve ilegalidade na prisão do autor apelante.." (Recurso Extraordinário com Agravo 1.113.969, Relator Marco Aurélio).
+E expressamente referindo aos dias contabilizados acima, a jurisprudência das Câmaras do Primeiro Grupo Criminal fixa o prazo mencionado supra como o mínimo para a discussão do excesso de prazo numa prisão preventiva:
+"Por fim, destaca-"se a existência de forte corrente jurisprudencial sustentando que, nos feitos atinentes aos delitos de tráfico de drogas (Lei nº 11.343/2006), dada a aplicação do artigo 10 da Lei nº 8.072, o prazo para o encerramento da instrução criminal é de 252 dias, quantum que sequer restou superado." (Habeas Corpus 70055100994, Primeira Câmara Criminal, Relator Manuel José Martinez Lucas).
+"Convém lembrar que esse órgão fracionário orienta-se pelo prazo de 252 dias, em princípio, como configurador do excesso de prazo." (Habeas Corpus 70070645882, Segunda Câmara Criminal, Relator José Antônio Cidade Pitrez).
+O prazo estabelecido pelos Tribunais ainda não se esgotara quando da impetração do writ, pois a prisão da paciente é de 4 de junho passado.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do presente recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
