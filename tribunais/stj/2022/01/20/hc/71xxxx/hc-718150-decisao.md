@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de GABRIEL DA SILVA SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(HC n. 1.0000.22.003602-4/000).
+O paciente foi presoem flagrante pelasuposta prática docrimeprevistono art. 33, caput, da Lei n. 11.343/2006, e em28/7/2021houve a conversão da custódia em prisão preventiva com fundamento na garantia da ordem pública.
+Sobreveio condenação em primeira instância à pena de 5 anos de reclusão, em regime inicial semiaberto, negado o direito derecorrer em liberdade, com a determinação de compatibilização ao regime imposto na sentença.
+Aimpetrantesustentaque não houve fundamentação válida para adecretação da prisão preventiva do paciente, sendo incompatível o indeferimento do direito de recorrer em liberdade com o regime semiaberto fixado na sentença.
+Requer, liminarmentee no mérito, a concessão da ordem para que seja permitido ao paciente recorrer em liberdade.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto foram declinados os fundamentos para negar o direito de recorrer em liberdade ao paciente,consoante se extrai da seguinte passagem (fls. 14-15):
+Não obstante serem relevantes os argumentos trazidos pela defesa do paciente G. S. S., não verifico a presença dos elementos que ensejam a concessão da liminar, quais sejam, o fumus boni iuris e o periculum in mora.
+Numa análise perfunctória dos autos, constato que a autoridade designada como coatora, ao manter a segregação cautelar do paciente, reportou-se aos fundamentos que ensejaram o decreto prisional, por entender que subsistem os pressupostos e requisitos da medida extrema.
+Ora, a meu ver, é desnecessária a repetição de fundamentos já expostos, se mantidas as condições que ditaram a decisão acautelatória anterior, cujo conteúdo motivacional pode ser validamente invocado à guisa de fundamentação per relationem.
+Nesse diapasão, é importante consignar que o decreto da prisão preventiva, bem como a necessidade da medida extrema, foram analisados por esta eg. Câmara no julgamento do habeas corpus nº1.0000.21.142176-3/000, impetrado anteriormente em favor de G., tendo a ordem sido denegada à unanimidade.
+Sendo assim, os requisitos constantes dos artigos 312 e 313, ambos do Código de Processo Penal, permanecem presentes, o queafasta, por ora, as alegações defensivas de carência de fundamentação e ilegalidade da prisão.
+No que tange às alegações de desproporcionalidade e incompatibilidade da medida cautelar, observo da r. sentença condenatória, que foi determinada a expedição da guia de execução provisória da pena, com a exigência de que o paciente fosse colocado em pavilhão adequado ao regime prisional pelo qual foi condenado. Desse modo, não é possível conceber, a priori, qualquer excesso ou ilegalidade na manutenção da prisão do paciente.(grifou-se).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
