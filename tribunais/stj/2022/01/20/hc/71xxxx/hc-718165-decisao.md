@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de JOEL MORAIS DE ASEVEDO JUNIOR apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.22.003998-6/000).
+O paciente, acusado pela prática de feminicídio,teve decretada a prisão temporária por 30 diasem seu desfavor, posteriormente prorrogada por mais 30 dias.
+Sustenta o impetrante a existência de flagrante ilegalidade apta a autorizar a mitigação do óbice previsto no enunciado sumular n. 691/STF.
+Aduz que não estão presentes os requisitos autorizadores da prisão temporária, previstos na Lei n. 7.960/89, eis que não restou demonstrada a imprescindibilidade do acautelamento do paciente para o deslinde das investigações policiais.
+Requer, liminarmente e no mérito, a revogação da prisão temporáriado paciente, expedindo-se o competente alvará de soltura em seu favor.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto foram declinados os fundamentos para manter a constrição cautelar do paciente, consoante se extrai da seguinte passagem (fls. 171/173):
+ .. , em uma análise sumária dos autos, constato que a decisão que decretou (documento de ordem n. 07) a prisão temporária do paciente está, aparentemente, embasada em elementos objetivosdo caso, aliados aos pressupostos e requisitos da segregação cautelar. Além disso, vale ressaltar que o delito de homicídio está previsto no rol do art. 1º, inciso III da Lei 7.960/1989.
+Assim, em um exame perfunctório, estão demonstradas, nessa decisão, as razões legais que motivaram a imposição da prisão processual, notadamente na imprescindibilidade do acautelamento do paciente para a investigação policial, o que afasta, por ora, as alegações defensivas.
+Nesse norte, imperativo ressaltar que há indícios de que o paciente teria, em tese, tentado alterar provas dos fatos, dificultando as investigações policiais. Conforme narrado na Representação Policial:
+ ..
+Conforme consta do requerimento de busca e apreensão (documento de ordem n. 02, fls. 26/28), o celular da vítima foi encontrado escondido na caixa de descarga de um vaso sanitário durante segunda diligência, fundamentando as suspeitas da autoridade policial acerca da ocultação de provas.
+Soma-se a isso o fato do paciente, policial militar, ser pessoa influente no município de Muriaé/MG, conforme consignado pelo Juízo a quo em sua decisão:
+ ..  a apresentação espontânea do representado não impede o decreto de sua prisão, pois sua conduta não ilide os demais pressupostos da segregação cautelar, até porque ainda são desconhecidas a motivação e as circunstâncias do crime, sendo certo que o representado é pessoa influente no Município de Muriaé, onde, inclusive, foi Presidente da Câmara de Vereadores. Deste modo, a prisão temporária torna-se importante na medida que permitirá que a polícia judiciária realize as diligências necessárias, sem risco de ser turbada pela conduta do investigado.  ..  (documento de ordem n. 07)
+Portanto, no presente caso, não é possível observar, em um juízo de cognição sumária, a plausibilidade do direito alegado, o que, pela via reflexa, torna inviável o deferimento da antecipação de tutela.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
