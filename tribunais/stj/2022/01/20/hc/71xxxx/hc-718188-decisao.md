@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de CILMAR SALES LEITE em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Habeas Corpus - Protocolo 3204/2022.00002133).
+O paciente, denunciado pela prática, em tese, dos crimes previstos nos arts. 121, § 2º, I, IV e V, e 211, ambos do Código Penal, e no art. 35, c/c o art. 40, IV, ambos da Lei n. 11.343/2006, na forma do art. 69 do Estatuto Repressivo, encontra-se preso cautelarmente desde 10/11/2014, para a garanti a da ordem pública, por conveniência da instrução criminal e para assegurar a aplicação da lei penal.
+A impetrante sustenta a ilegalidade da prisão preventiva, por excesso de prazo na formação da culpa do paciente.
+Afirma que, passados mais de 7 anos da captura do custodiado, ainda não foi submetido a julgamento popular.
+Alega que, desde fevereiro de 2019, a ação penal tem sofrido sucessivas retiradas da pauta do tribunal do júri, por questões processuais alheias, contrariando, pois, o princípio da duração razoável do processo.
+Defende a possibilidade de aplicação de medidas cautelares diversas da prisão.
+Requer, liminarmente, o relaxamento da prisão preventiva do paciente. No mérito, pugna pela concessão da ordem para que seja confirmada a liminar, ainda que mediante a aplicação de medidas cautelares diversas da prisão.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto foram declinados os fundamentos para manter a prisão preventiva do paciente, consoante se extrai da seguinte passagem (e-STJ fls. 41-43):
+Com efeito, não prospera a alegação de excesso de prazo na instrução criminal.
+Sobre o tema, cabe dizer, inicialmente, que se encontra assente o entendimento em nossos Tribunais Superiores e neste órgão fracionário, de que os prazos processuais não se resumem a meras parcelas aritméticas, sendo cabível sua dilatação, dentro de um critério de razoabilidade, devendo ser observado o caso concreto.
+ ..
+Na hipótese vertente, ainda que se alegue certa demora, não há se falar, validamente, em indesculpável dilatação de prazo, eis que, conforme se observa dos andamentos processuais, o Magistrado de base conduz regularmente o processamento do feito, tendo sido tomadas todas as providências necessárias e possíveis, frente as especificidades e particularidades do caso concreto, no qual, constavam inicialmente 10 (dez) acusados, com patronos distintos, situação que, de per si, demanda, naturalmente, maior dilação temporal, não se verificando, entretanto, qualquer paralisação no andamento do feito, que tramita em conformidade com o princípio da duração razoável do processo.
+Outrossim, como bem disposto na decisão recorrida, a própria conduta da defesa da ré deu causa ao adiamento do julgamento, motivo pelo qual não pode, a seguir, alegar prejuízo em razão da morosidade do julgamento, sob pena de configurar-se em comportamento contraditório, que é vedado pelo nosso ordenamento jurídico.
+Ressalte-se, ainda, que a decisão que rejeitou o desmembramento do processo está calcada na economia processual, conforme informado pela própria impetrante.
+Por outro lado, é importante salientar que a decisão que decretou a prisão preventiva já teve sua higidez apreciada pela E. Oitava Câmara Criminal, no julgamento do Habeas Corpus nº0057983-20.2021.8.19.0000.
+Cumpre mencionar que, torna-se necessária, para uma justa e prudente análise dos fatos, a vinda das informações do Juiz a quo, oportunidade em que será examinado o presente writ.
+Desta forma, não há, a priori, no caso concreto, a demonstração efetiva de extrema excepcionalidade, a viabilizar a concessão do pedido de liminar requerido, que possui natureza satisfativa, devendo ser apreciado por aquele Órgão Julgador por ocasião do julgamento do presente habeas corpus. (Original sem destaques)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
