@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de LUCINARA DA SILVA OLIVEIRA em que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO(HC n. 5053203-02.2021.4.04.0000/PR).
+A paciente foi denunciada pela suposta prática dos crimes previstos no art. 288, caput, do Código Penal, e art. 2º, § 1º, da Lei n. 12.850/2013 e foi presa preventivamente em 16/7/2021.
+Foi beneficiada com a substituição da custódia preventiva por prisão domiciliar mediante monitoramento eletrônico em 14/9/2021, por ser mãe de criança menor de 12 anos de idade.
+Inconformada, impetrou habeas corpus perante o Tribunal de origem, objetivando a revogação da prisão domiciliar, mas o pedido liminar foi indeferido.
+Osimpetrantes sustentam que não subsistem os motivos que ensejaram a decretação da prisão preventiva da paciente, substituída por domiciliar, em razão do encerramento da instrução criminal.
+Aduzem, ainda, que a paciente é primária, não tem antecedentes criminais epossui residência fixa, não havendo provas suficientes quanto à autoria dos crimes imputados a ela.
+Requerem, liminarmentee no mérito, a concessão da ordem para que seja revogada a prisão preventiva imposta à paciente, atualmente convertida em prisão domiciliar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto foram declinados os fundamentos para manter a segregação cautelar da paciente, consoante se extrai da seguinte passagem (fls. 23-25):
+ ..
+Assim, destaco que a manutenção da ordem de prisão cautelar justifica-se pelo descumprimento das medidas cautelares alternativas à prisão, que demonstrou estar LUCINARA disposta a prestar auxílio a CLÁUDIO enquanto esteja preso, seja com relação às suas atividades ilegais, seja para turbar a correta aplicação da lei penal ao caso.
+O fato de ser primária, sem antecedentes e com residência fixa não a impedem de, querendo, novamente descumprir as medidas alternativas a prisão por ela assumidas quando da sua colocação em liberdade.
+Além disso, o fato de colocar em risco sua liberdade, mesmo com filho de tenra idade sob sua responsabilidade, demonstrando que estava disposta a auxiliar o ex-marido recluso ou mesmo viabilizar a continuidade das suas atividades fraudulentas, vez que encontra-se preso, representa risco à ordem pública
+ ..
+Convém destacar que a requerente, conforme noticiado, teria acompanhado CLÁUDIO JOSÉ DE OLIVEIRA em toda sua jornada por países estrangeiros, em especial a Suíça, onde já foi condenado por prática de crime de fraude, providenciando inclusive as medidas necessárias à saída do casal dos Estados Unidos via México, permanecendo ao lado dele por todas as cidades pelas quais passaram antes de instalar-se em Curitiba. Há também o risco concreto à aplicação da Lei Penal, representado pelo histórico de CLÁUDIO e LUCINARA de mudar-se constantemente de cidade tão logo seus projetos de fraude vem à lume.
+Neste ponto, em oposição ao alegado no pedido inicial, o fundamento da garantia da ordem econômica não é, em absoluto, o único a subsidiar o decreto prisional, tampouco a gravidade do delito, mas sim o descumprimento de condição assumida pela ré quando da sua colocação em liberdade, que implicou também em suposta prática delitiva.
+Acrescente-se a isso o fato de ter sido apreendido material contendo dados de carteira de bitcoins pertencente a LUCINARA, que alega nada saber a respeito das palavras-chave identificadas ou da sua utilidade, reiteradamente negando a existência de referida carteira, mesmo com fortes indícios acerca de sua existência.
+De qualquer forma, em análise perfunctória típica da apreciação do presente pedido, é possível destacar a presença de indícios da prática dos delitos previstos no art. 288 do Código Penal e art. 2º, §1º, da Lei12.850/2013, elementos que justificaram o próprio recebimento da denúncia na ação penal nº 5054315-55.2021.404.7000.
+Por fim, a Defesa não trouxe qualquer fato ou circunstância nova capaz de descaracterizar os pressupostos autorizativos da custódia cautelar, sendo que apenas depoimentos testemunhais, descolados do restante do conjunto probatório, não autorizam por si só a revisão da decisão proferida anteriormente.
+Outrossim, é certo que a substituição da prisão por outras medidas cautelares menos gravosas não se mostrou suficiente em relação à requerida.
+ ..
+Em sede de cognição sumária, própria deste momento processual, anoto que o decreto de prisão preventiva encontra-se fundamentado e não apresenta flagrante ilegalidade/arbitrariedade ou mesmo teratologia a ensejar o deferimento da medida liminar demandada(grifou-se).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
