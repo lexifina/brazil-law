@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de ALEX GRANZOTTO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL(HC nº5213639-74.2021.8.21.7000/RS).
+Opaciente foi preso em23.7.2021, prisão esta convertida empreventiva,por suposto envolvimento na prática do crime de extorsão mediante sequestro.
+Oimpetrante sustentaque a Súmula n. 691 do STF deveria ser mitigada, haja vista a ausência de fundamentação idônea para embasar a constrição cautelar, pois não atendidos os requisitos do art. 312 do Código de Processo Penal.
+Acrescenta haver claros indícios da prática de tortura por agentes públicos quando daprisão em flagrante, concluindo que "a prisão preventivadecretada é manifestamente ilegal, pois assentada em fatos ilícitos, observados nos indicativos de tortura" (e-STJ fl. 31).
+Destaca que o réu é primário, não foi apontada a gravidade concreta da conduta e não houve emprego de violência ou grave ameaça à pessoa.
+Requer, liminarmente, a mitigação da Súmula 691/STF, bem como seja revogado o decreto prisional. Alternativamente, postula a substituição da prisão preventiva por medidas cautelares constantes do art. 319 do CPP.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto foram declinados os fundamentos para indeferir o pedido liminar, consoante se extrai da seguinte passagem (e-STJ fl. 315):
+Certo é que o princípio da dignidade humana é o cerne da presente questão e não se está aqui fazendo letra morta de tal fundamento da República Federativa do Brasil e, em hipótese alguma, deve ser chancelada a violência por agentes estatais, mas há necessidade de que sejam investigados os fatos e, por tal razão, a autoridade coatora determinou que fosse oficiado a Corregedoria-Geral da Polícia Civil e o Ministério Público devendo essas entidades apurar eventual conduta ilícita dos policiais envolvidos nas esferas criminal e administrativa.
+No caso da presente ação constitucional, entendo, ainda, que eventual ilegalidade na prisão em flagrante, por maior a gravidade ocorrida, ela não vem a macular a prisão preventiva, porquanto esta se trata de novo título título judicial.
+Por fim, consigno que idêntico entendimento foi adotado pelo Ministro Presidente Humberto Martins, em relação a um dos corréus do ora impetrante, em decisumproferidonos autos do HC 714.517/RSno dia 21.12.2021, publicado no DJe de 22.12.2021.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
