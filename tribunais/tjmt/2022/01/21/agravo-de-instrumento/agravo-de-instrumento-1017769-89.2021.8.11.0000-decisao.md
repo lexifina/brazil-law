@@ -1,0 +1,29 @@
+AGRAVO DE INSTRUMENTO – AUTOS N. 1017769-89.2021.8.11.0000 – COMARCA DE VÁRZEA GRANDE/MT.
+AGRAVANTE: PETROLUZ DIESEL LTDA
+AGRAVADO: MUNICÍPIO DE VÁRZEA GRANDE
+Trata-se de agravo de instrumento, com pedido de “efeito suspensivo ativo”, interposto por PETROLUZ DIESEL LTDA em face da decisão proferida pelo juízo da Segunda Vara Especializada de Fazenda Pública da Comarca de Várzea Grande/MT, que rejeitou o pedido formulado na exceção de pré-executividade oposta na execução fiscal n. 0026458-17.2013.8.11.0002.
+A agravante relata que, para afastar a prescrição do crédito tributário, o magistrado equivocou-se ao considerar a data da inscrição em dívida ativa como sendo a data da constituição definitiva do crédito tributário, o que se dá pelo lançamento.
+Aduz que “nos tributos sujeito a lançamento por homologação, como é o caso de ISSQN Próprio, tem-se seu termo inicial a partir da entrega da declaração ou do dia do vencimento da obrigação, o que for posterior”, e que, in casu, “o vencimento do referido crédito se deu em 24/11/2008 e a inscrição em dívida ativa se deu somente em 27.11.2013, data inclusive que o crédito em questão já se encontrava atingido pela prescrição”.
+Assinala que a execução fiscal só foi proposta em 12/12/2013 e o despacho inaugural ocorreu em 16/12/2013, evidenciando, portanto, a ocorrência da prescrição quinquenal, dado o transcurso de prazo superior a 05 (cinco) anos contados da data da constituição definitiva do crédito, conforme preceituam os artigos 156, V, e 174, caput, do Código Tributário Nacional.
+Requer, com essas considerações, seja liminarmente concedido “efeito suspensivo ativo” para que, reformando-se a decisão agravada, seja determinada a extinção do crédito fiscal inscrito em dívida ativa sob o n. 196/2013 pela ocorrência da prescrição, ou, alternativamente, seja determinada a suspensão da exigibilidade do crédito fiscal até o julgamento do presente recurso.
+É o relatório.
+Decido.
+Preenchidos os pressupostos de admissibilidade recursal, conheço do presente agravo de instrumento.
+Para a atribuição do efeito suspensivo e/ou deferimento da tutela antecipada recursal em sede de agravo de instrumento, faz-se necessária a demonstração da probabilidade do direito invocado e do fundado receio de dano grave e de difícil reparação, nos termos dos artigos 300, 932, inciso II, 995, parágrafo único, e 1.019, I, todos do Código de Processo Civil.
+No caso em estima, após breve análise do caderno processual, observa-se que o pedido por concessão do efeito suspensivo merece acolhimento, porquanto verifica-se, em cognição sumária, a presença dos pressupostos autorizadores acima delineados.
+Extrai-se da decisão agravada a reprodução de julgados emanados desta Corte de Justiça que preconizam que, no caso do ISSQN, o prazo prescricional para o ajuizamento da execução fiscal inicia-se no dia seguinte ao da entrega da declaração ou do vencimento da exação, o que ocorrer por último.
+Fazendo referência à Certidão de Dívida Ativa que instrui a execução fiscal ajuizada em face do agravante, o magistrado consignou que a constituição definitiva do crédito tributário ocorreu na data de 27/11/2013 e o ajuizamento da ação de execução fiscal ocorreu em 12/12/2013, de modo que, a seu sentir, não haveria ocorrido o transcurso do prazo prescricional quinquenal.
+Todavia, cotejando a Certidão de Dívida Ativa apresentada e os fundamentos expostos na decisão, verifica-se que o magistrado considerou a data da inscrição da dívida ativa como sendo a data da constituição definitiva do crédito tributário, desconsiderando, inclusive, a data de vencimento registrada na Certidão (24/11/2008).
+Nesse contexto, vislumbra-se, a princípio, a inidoneidade dos fundamentos lançados pelo magistrado, sobretudo porque, aparentemente, sequer encontram lastro na jurisprudência reproduzida na mesma decisão.
+É sabido que a inscrição em dívida ativa é mero procedimento administrativo, sendo irrelevante para a contagem do prazo prescricional, cuja contagem é iniciada na data da constituição definitiva do crédito tributário, o que ocorre, à luz da jurisprudência reproduzida na decisão, no dia seguinte ao da entrega da declaração pelo contribuinte ou do vencimento da exação, o que ocorrer por último.
+No presente caso, infere-se da Certidão de Dívida Ativa apenas a data do vencimento, ocorrido em 24/11/2008, vindo a ser ajuizada a execução fiscal em 12/12/2013, com o despacho inicial do juiz em 16/12/2013, sendo, pois, factível a alegada ocorrência do transcurso do prazo quinquenal entre a constituição definitiva do crédito e o ajuizamento da ação na hipótese.
+Contudo, dada a natureza satisfativa do pedido de reconhecimento da prescrição, afigura-se prudente e necessário oportunizar ao agravado o contraditório, para, então, formar juízo de valor mais seguro a respeito da pretensão veiculada, o que obsta a antecipação da tutela recursal.
+De outro lado, verificando-se, nesta etapa de análise superficial, a potencial insubsistência dos fundamentos lançados na decisão agravada, bem como a probabilidade de haver ocorrido a prescrição do crédito tributário executado, aliados ao despropósito de prosseguimento do executivo fiscal nestas circunstâncias, haja vista as implicações práticas decorrentes, impõe-se, de fato, a concessão do efeito suspensivo ao presente recurso.
+Ante o exposto, defiro o pedido por concessão de efeito suspensivo ao presente recurso, em ordem a determinar a suspensão dos efeitos da decisão agravada e, por conseguinte, a suspensão da exigibilidade do crédito tributário executado em face do agravante.
+Comunique-se o juízo de primeiro grau.
+Intime-se o agravado para apresentar contrarrazões, facultando-lhe a juntada da documentação que entender necessária para o julgamento do recurso.
+Dispensada a vista à PGJ, a teor da Súmula 189 do STJ.
+Cumpra-se.
+Cuiabá, 20 de janeiro de 2022.
+Alexandre Elias Filho
+Relator Convocado
