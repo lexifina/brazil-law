@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se dehabeas corpuscom pedido de liminar impetrado em favor de ANTONIEL CANDIDO DA SILVAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA (HC n. 0800014-93.2022.8.22.0000).
+Opaciente está preso preventivamentepela suposta prática do crime previsto no art. 155, caput, do Código Penal.
+A impetrante sustenta a ocorrência de constrangimento ilegal, na medida em que as instâncias ordinárias deixaram de reconhecer a atipicidade da conduta com base no princípio da insignificância.
+Acrescenta que o valor econômico da res furtiva (dois filhotes de cachorro sem raça definida) não ultrapassa a monta de R$ 200,00 (duzentos reais), e que eventual reincidência do paciente na conduta criminosa não possui o condão de afastar a aplicação do citado princípio.
+Requer, liminarmente e no mérito, a concessão da ordem para que sejareconhecida a atipicidade da conduta do paciente, com o respectivo trancamento da ação penal movida em seu desfavor e consequente revogação da custódia preventiva.
+Às e-STJ fls. 49/50, o Ministro Presidente do STJ solicitou informações à autoridade judicial impetrada, antes de apreciar o pedido liminar formulado pelo ora paciente.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se, também, a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto foram declinados os fundamentos pelos quais, a priori, foi afastado o pedido de trancamento da ação penal, consoante se extrai da seguinte passagem da decisão que indeferiu a liminar requerida perante a Corte local (e-STJ fl. 42):
+O pedido de trancamento da ação penal com relação ao crime de furto se sustenta na inépcia da denúncia. No entanto, a leitura da peça acusatória permite compreender o fato criminoso e suas circunstâncias, de modo que se revela prematuro o trancamento pretendido, porquanto devidamente comprovada a materialidade do crime e demonstrados indícios suficientes de autoria, ao menos por ora e em sede de exame preliminar.
+Poderia haver um julgamento, também em sede de liminar, do pedido de revogação da prisão. Entretanto, é de se salientar que o pedido de liberdade é feito como consequência do trancamento. Não sendo concedido (liminarmente) o trancamento, não haveria que se falar em liberdade dele resultante.
+Não obstante, por ser matéria que diz respeito a direito fundamental, qual seja, a liberdade, poder-se-ia argumentar no sentido de que poderia ser somente esse pedido (ainda que assessório) examinado de per si. Entretanto, nem isso pode ocorrer, vez que, como não foi ele submetido ao juízo de primeiro grau, estaria a ocorrer a supressão de instância.
+Portanto, por não vislumbrar evidências de ilegalidades a serem sanadas, bem como a ausência de requisitos que autorizem a concessão da liminar pleiteada, por ora verifico a necessidade de manter o prosseguimento do processo, com o consequente encarceramento do ora paciente, até a análise do mérito, após as informações a serem prestadas pela autoridade coatora.
+Vale mencionar, ainda, que o Juízo da 1ª Vara Criminal da Comarca de Rolim de Moura (RO), instado a prestar informações, assim esclareceu (e-STJ fl. 56):
+Registro ademais que o crime foi, em tese, praticado contra um senhor de "91 (noventa e um)anos de idade e acometido de deficiência auditiva e visual." (Consoante denúncia ID 60365818- Pág.1).
+Para além disso, o réu, por ocasião da custódia, informou não ter endereço certo (ID.60737023 - Pág. 57)
+O Ministério Público ofereceu denúncia em face do paciente pela prática da conduta prevista no artigo 155, caput, do Código Penal.
+A denúncia foi recebida no dia 30/12/2021 (ID66779460). O paciente foi citado no dia 30/12/2021 (ID66790175), apresentando resposta acusação no dia 05/01/2021.
+Foi analisado o pedido de revogação da prisão preventiva, a qual foi mantida, bem como marcada audiência de instrução e julgamento para o dia 01/02/2022 (ID 66917593).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
