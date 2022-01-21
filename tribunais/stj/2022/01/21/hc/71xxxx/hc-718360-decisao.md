@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de PAULO HENRIQUE GOMES ALMEIDA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2276873-91.2021.8.26.0000 ).
+Segundo consta na inicial do presente mandamus, o paciente cumpre pena privativa de liberdade por crimes comum e equiparado a hediondo e, no primeiro grau de jurisdição, teve fixado que, para a progressão de regime, lhe seria exigido o cumprimento de 3/5 ou 60% da reprimenda, nos termos do art. 112, VII, da Lei de Execução Penal, sob os seguintes fundamentos (e-STJ fl. 4):
+Com efeito, razão assiste ao Ministério Público, uma vez que no presente caso, o sentenciado é reincidente específico na prática de crime equiparado a hediondo, inclusive reconhecida em sentença condenatória e apelação do processo referente à 3ª execução. Verifica-se que o sentenciado registra duas condenações por tráfico de drogas, sendo que o trânsito em julgado da 2ª execução ocorreu em 29/09/2014 e o delito praticado na 3ª execução em 27/05/2017, ou seja, durante o período depurador.
+Posto isso, indefiro o pedido de aplicação da fração mais benéfica formulado pela defesa, devendo ser observado no cálculo elaborado, a fração de 3/5 para o crime hediondo praticado após a edição da Lei nº 11.464/2007, equivalente à 60%, nos termos do artigo 112, VII, da LEP com redação dada pela Lei nº 13.964/2019.
+A impetrante sustenta que, após as alterações promovidas na Lei de Execuções Penais pela Lei n. 13.964/2019, os condenados pela prática de crimes hediondos ou equiparados que não sejam reincidentes específicos não estariam mais sujeitos ao cumprimento da fração de 3/5 da pena para a obtenção do benefício da progressão de regime.
+Requer, liminarmente, a correção dos cálculos de pena do paciente, a fim de que lhe seja exigido o cumprimento de 40% da reprimenda para a progressão de regime. No mérito, requer o provimento do recurso para que seja confirmada a medida liminar
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A decisão impugnada foi proferida por desembargador. Não há acórdão sobre a matéria suscitada na presente impetração, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça.
+Registre-se que "a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica a exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado" (AgRg no HC n. 600.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
