@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de DOUGLAS PEREIRA PAZ em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus Criminal n. 2001728-76.2022.8.26.0000).
+O paciente foi preso em flagrante pela prática, em tese, do crime previsto no art. 157 do Código Penal.
+Homologada, a prisão em flagrante foi convertida em preventiva para a garantia da ordem pública, haja vista a gravidade concreta do fato delitivo.
+O impetrante sustenta que o paciente é acometido de esquizofrenia grave, que compromete a sua capacidade de discernimento, necessitando, pois, de tratamento médico especializado.
+Afirma que não estão presentes os pressupostos do art. 312 do Código de Processo Penal, mostrando-se desnecessária a prisão preventiva do paciente, sobretudo porque não seria ele um indivíduo perigoso
+Requer, liminarmente, a liberdade provisória do paciente, a fim de que seja possível submetê-lo a internação e a tratamento específico para a preservação de sua saúde mental. No mérito, pugna pela concessão da ordem para que seja confirmada a medida liminar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto foram declinados os fundamentos para indeferir a medida liminar postulada junto ao TJSP, consoante se extrai da seguinte passagem (e-STJ fl. 12):
+Destaca-se que a decisão que decretou a prisão preventiva está embasada em elementos seguros, para o momento, e, ao contrário do alegado, encontra-se suficientemente fundamentada, afastando-se, assim, qualquer alegação de nulidade.
+Não há, nesta análise primeira, indicativo de ofensa ao princípio da razoabilidade ou da proporcionalidade pelo tempo de prisão provisória, notadamente, pelas particularidades da quadra história e por não se poder creditar ao Estado retardamento injustificado.
+Diferentemente do que sustenta o distinto advogado, o caso de que se trata tem suas particularidades que o distinguem da generalidade dos crimes de mesma espécie. As circunstâncias do fato, o horário 06h50min, em plena luz dia, sem timidez ou pejo, em estabelecimento comercial (mercado), por sua natureza sempre pleno de fregueses, mediante grave ameaça exercida mediante simulação de estar armado, reduzindo a vítima à absoluta impossibilidade de resistência, tanto que entregou o dinheiro, bem indicam, para este momento processual, dolo intenso, perigosidade e insensibilidade moral, incompatíveis com a restituição da liberdade ou com medida mais branda.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
