@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de PAMELA CRISTINA COLOMBO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2294112-11.2021.8.26.0000 ).
+A paciente encontra-se presa preventivamente, tendo sido denunciada pela suposta prática dos delitos previstos no artigo 33, caput, e 35, ambos da Lei n. 11.343/2006 (e-STJ fl. 599).
+O impetrante sustenta a ausência de fundamentação idônea para justificar o decreto da segregação cautelar da paciente, reputando não atendidos os requisitos necessários para a manutenção da custódia.
+Alega que a paciente encontra-se doente, sem a devida medicação (Sertalina 50 mg e Diazepan 10 mg) desde 12/11/2021.
+Argumenta que a medida extrema poderia ser substituída por cautelares diversas, destacando que a ré foi encontrada com apenas 2 cigarros de maconha em seu sutiã.
+Defende a possibilidade de substituição da prisão preventiva por custódia domiciliar, nos termos do art. 318 do Código de Processo Penal, pois a paciente é responsável pelos cuidados do seu irmão Thiago, portador de Cid 10 G80 (Paralisia Cerebral).
+Requer, liminarmente e no mérito, a concessão da ordem para que a prisão preventiva seja convertida em domiciliar, aplicando-lhe medidas alternativas à prisão, caso se mostrem necessárias.
+Foram solicitadas informações às e-STJ fls. 85/86.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto foram declinados os fundamentos para negar o pedido liminar, consoante se extrai da seguinte passagem (fls. 23/24):
+De acordo com o boletim de ocorrência, ao total foram apreendidas 72 (setenta e duas) porções de "maconha", 96 (noventa e seis) porções "cocaína", 98 (noventa e oito) porções de "crack", bem como anotações supostamente relacionadas à contabilidade do tráfico.
+Em análise da regularidade do flagrante, o Meritíssimo Juiz de Direito do Primeiro Grau reputou como regular e formalmente em ordem o flagrante, convertendo-se em prisão preventiva, porque além dos indícios de autoria e da materialidade, as circunstâncias do fato indicavam o exercício do tráfico.
+Requerida a revogação da prisão ou seu cumprimento na modalidade domiciliar, o pleito foi indeferido, destacando:
+"Com efeito, em que pese as alegações da defesa, observo não ser o caso de aplicação do art. 318-A do Código de Processo Penal à acusada Pamela Cristina Colombo, tendo em vista que, muito embora haja prova de que a pessoa de Thiago da Silva Colombo esteja em tratamento médico, apresentando limitações motoras e dependência de terceiros (fls. 453), não há elementos probatórios suficientes a demonstrar o parentesco alegado, tampouco que a acusada é, de fato, a responsável ou a única pessoa apta a cuidar do irmão que possuiria paralisia cerebral.
+Nesse ponto, da certidão de óbito da genitora da acusada (fls. 456), infere-se que, além de Pamela, Thiago possui outros dois irmãos que, a princípio, poderiam assumir seus cuidados, na ausência de sua genitora e da irmã custodiada.
+Fora isso, do laudo médico acostado a fls. 452 deflui-se que a ré apresenta bom estado geral de saúde e quadro depressivo leve, tudo a indicar que seu atual estado de saúde não impõe a revogação da cautelar segregativa, ao menos por ora.
+De outro lado, a necessidade da prisão cautelar da acusada foi devidamente fundamentada com vistas a assegurar a ordem pública, em razão da grande quantidade de droga apreendida em sua posse e de sua associação com terceiros para a prática do comércio espúrio, a despeito de sua primariedade e residência fixa."
+Reiterado o pedido de revogação da prisão, nova decisão foi proferida, ratificando-se as anteriores:
+"Fls. 476/477: Os fundamentos que ensejaram a prisão preventiva da acusada já foram exaustivamente analisados pelas decisões lançadas a fls. 106/109 e 465/466.
+Todos os pontos abordados pela combativa defesa já foram devidamente enfrentados pelas decisões proferidas em oportunidades anteriores.
+O risco à ordem pública foi devidamente analisado e continua presente, não se verificando, de outra banda, qualquer alteração do cenário fático que autorizou a prisão."
+Assim, a decisão de primeiro grau se encontra devidamente fundamentada e consubstanciada na documentação acostada, em total consonância com os artigos quinto e 93, inciso IX, da Constituição Federal, e artigos 312 e 313, do Código de Processo Penal, porquanto se baseou nas características e nas consequências do crime cometido, além das particularidades da paciente.
+O crime de tráfico é equiparado a hediondo, possui pena máxima em abstrato elevada. Ademais, a quantidade e a natureza das drogas são fundamentos idôneos para demonstrar a necessidade de garantir a ordem pública, estando a medida restritiva de liberdade autorizada pelo artigo 313, inciso I, do Código de Processo Penal.
+Ressalte-se que as aventadas condições favoráveis não são suficientes para desconstituir a custódia cautelar. Ademais, embora primária, a paciente ostenta maus antecedentes.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
