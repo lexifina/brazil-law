@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de ALAN CARLOS SOUZA PADILHA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Habeas Corpus Criminal n. 1.0000.22.007855-4/000).
+O paciente foi preso em flagrante, no dia 16/10/2021 (e-STJ fl. 9), e denunciado pela prática, em tese, do crime previsto no art. 171, caput e § 4º, do Código Penal.
+Homologada, a prisão em flagrante foi convertida em preventiva para evitar a reiteração delitiva, garantindo-se, assim, a ordem pública.
+O impetrante sustenta a ilegalidade da prisão preventiva por excesso de prazo na formação de culpa.
+Alega que a audiência de instrução em julgamento está designada para o dia 15/3/2022 e afirma que a manutenção da custódia cautelar até essa data configura constrangimento ilegal ao direito de locomoção do paciente.
+Requer, liminarmente, o relaxamento da prisão preventiva do paciente, com a expedição imediata do alvará de soltura. No mérito, pugna pela concessão da ordem para que seja confirmada a medida liminar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto foram declinados os fundamentos para indeferir a liminar requerida, consoante se extrai da seguinte passagem (e-STJ fls. 19-20):
+A concessão de liminar em sede de Habeas Corpus-via constitucional de proteção da liberdade de ir e vir -é viável somente se for comprovada de plano a insubsistência do fumus comissi delicti e do periculum libertatis que deram causa à segregação cautelar, ou quando evidenciada, de forma cabal, a inexistência de elementos que autorizam a deflagração da ação penal diante de um possível constrangimento ilegal.
+Analisando os motivos da pretensão, bem como atento à legislação específica aplicada ao caso, a priori, percebo não haver elementos que me levem à concessão da liminar. Em uma análise perfunctória, vislumbro que a impetração se insurge contra a suposta inobservância de prazo legais edo delongado prazo da segregação cautelar, carecendo este Juízo, portanto, de maiores informações por parte da d. Autoridade Coatora, a fim de que esclareça as razões para o alegado constrangimento ilegal.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
