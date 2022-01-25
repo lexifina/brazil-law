@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de habeas corpus com pedidoliminar impetrado em favor de GEIBSON JOAQUIM SOUZA BARROS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS (HC n. 4000261-40.2022.8.04.0000).
+O paciente foi preso em flagrante no dia 12/1/2022 pela supostaprática do delito do art. 33, caput, da Lei n. 11.343/2006. Posteriormente, ocorreu o relaxamento da prisão e a decretação da segregação preventiva do acusado(fls. 66-67).
+Oimpetrante sustenta a ausência de fundamentação apta a justificar a segregação cautelar imposta aopaciente, reputando não atendidos os requisitos autorizadores da medida extrema, insculpidos no art. 312 do Código de Processo Penal.
+Alega, ainda, nulidade da prisão em flagrante, já que o acusado permaneceu preso por 8dias, sem que tenha sidorealizada a audiência de custódia.Aduz que o Juiz de primeiro grau, ao verificar a ilegalidade, não poderia ter relaxado a prisão e, no mesmo ato, decretado a prisão preventiva do acusado.
+Requer, liminarmente e no mérito, a concessão da ordem constitucional para revogar a custódia preventiva imposta ao paciente, ainda que com a imposição de outras medidas cautelares menos gravosas.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, uma vez que a decisão impugnada apresentou fundamentos suficientes para indeferir o pleito liminar, mormente porque o Desembargador plantonistaconsignou o seguinte(fls. 35-37):
+Quanto à nulidade decorrente da não realização de audiência de custódia, a jurisprudência da Corte Cidadã é clara ao afirmar que eventuais irregularidades são superadas pela conversão em prisão preventiva, tal qual ocorrido no caso dos autos.
+ ..
+No mais, apesar da alegação de que a prisão preventiva se deu de modo irregular, não é essa a situação que se extrai dos autos. O Código de Processo Penal, em seu artigo 312, estabelece que são pressupostos para a decretação da prisão preventiva a (i) prova da existência do crime e (ii) indícios suficientes de autoria, de modo que o art. 313 exige, ainda, que a situação se enquadre em uma das hipóteses ali descritas.
+In casu, tem-se que é forte indício da materialidade do crime tanto a situação de flagrância quanto as declarações de testemunhas, constantes da movimentação 1.3 dos autos digitais do processo de nº 0600063-19.2022.8.04.6500. Outrossim, a materialidade do crime é endossada pela movimentação 1.6 dos autos digitais, na qual consta o Auto de Exibição e Apreensão da substância encontrada com o paciente, bem como o Auto de Constatação Preliminar, o qual conclui que se trata da erva cannabis sativa, popularmente conhecida como maconha.
+ ..
+Não se olvida que a quantidade de entorpecentes que carregava consigo - 306 (trezentos e seis) gramas - evidencia que a prisão está sendo utilizada para garantir-se a ordem pública.
+ ..
+Por fim, não se sustenta a alegação de que a ausência de remessa do Inquérito Policial no prazo legal seria apta a ensejar nulidade, por se tratar de procedimento pré-processual de natureza dispensável, de modo que já fora oferecida a denúncia com base nos elementos constantes do processo, consoante movimentação de nº 15.2 dos autos digitais.
+Obiter dictum, o Inquérito Policial em questão não se submete ao prazo legal previsto no art.10 do CPP, mas sim ao prazo de 30 dias previsto no art. 51 da Lei 11.343/2006, de modo que, tendo sido o procedimento instaurado por meio do Auto de Prisão em Flagrante lavrado em 11 de janeiro de 2022, a autoridade policial poderá remetê-lo até 10 de fevereiro de 2022.
+Ante o exposto, sem prejuízo da melhor análise da questão, no julgamento de mérito, indefiro o pedido liminar, porquanto ausentes os requisitos autorizadores da medida.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
