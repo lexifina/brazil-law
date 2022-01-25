@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de reclamaçãocom pedido de liminar ajuizada por JOAO ANGELO CAVALARIcontra ato do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Sustenta que o Tribunal de origem teria violadoa autoridade de decisões do Superior Tribunal de Justiça, na medida em que decidiu de forma contrária à reiterada jurisprudência desta Corte, em tema que envolve as hipóteses de cabimento do agravo de instrumento (art. 1.015 do CPC) e a prescrição das cédulas de crédito bancário (art. 44 da Lei n. 10.931/2004).
+Requer, liminarmente, a suspensão daexecução n.4002422-07.2013.8.26.0071, em trâmite perante a 6ª vara cível de Bauru/SP..
+É,no essencial, o relatório. Decido.
+Areclamaçãoprevista no art. 105, I, f, da Constituição Federal é garantia constitucional destinada à preservação da competência do Superior Tribunal de Justiça ou para garantir a autoridade de suas decisões em caso de descumprimento ou de cumprimento em desacordo com os limites do julgado aqui proferido.
+No caso posto, verifica-se que o pleito não se enquadra em nenhuma das hipóteses de cabimento dereclamação,uma vez que inexiste decisão desta Corte proferida no caso concreto e sendo descumprida.
+Importa asseverar que, conforme jurisprudência do STJ, não é possível a interposição dereclamaçãocomo sucedâneo recursal para dirimir divergência jurisprudencial.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. CUMPRIMENTO DA DECISÃO TRANSITADA EM JULGADO.RECLAMAÇÃO. SUCEDÂNEO RECURSAL. NÃO CABIMENTO.
+I - Na origem, trata-se de ação civil pública por improbidade administrativa, ajuizada pelo Ministério Público do Estado de Rondônia contra o Secretário Municipal de Saúde do Município de São Miguel do Guaporé/RO, visto que o requerido atentou contra os princípios da legalidade, moralidade e eficiência, em razão de que não vinha respondendo aos ofícios encaminhados pela Promotoria de Justiça, ou quando respondia, fazia-o intempestivamente e/ou insuficientemente. Na sentença, julgaram-se procedentes os pedidos.No Tribunal a quo, a sentença foi mantida. Esta Corte indeferiu a reclamação.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a reclamação não tem cabimento como sucedâneo recursal, e seguindo entendimento desta Corte de que tal ação é destinada a preservar a competência do STJ ou garantir a autoridade de suas decisões, não sendo adequada à preservação de sua jurisprudência, mas sim à autoridade de decisão tomada em caso concreto e envolvendo as partes postas no litígio do qual ela é originada, não há que se dar seguimento à presente reclamação.
+III - A presente reclamação é manifestamente inadmissível e, frise-se, inteligível.
+IV - É preciso registrar que se acha ela atrelada a feito em suposto andamento junto à Corte de origem, sem qualquer indicação de seu efetivo andamento e, bem assim, se esgotados os meios de impugnação internos, aqui já inobservado o disposto no § 2º do art. 988 do CPC.
+V - Propõe o autor a presente reclamação, com nítida feição recursal. Sua função institucional é de preservar a competência do tribunal e garantir a autoridade das suas decisões (art. 105, I, f, da CF e art. 988 e ss. do CPC/2015). Nesse sentido, há iterativa jurisprudência do Superior Tribunal de Justiça. Transcrevo as seguintes ementas: (AgInt na Rcl n. 39.321/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 16/6/2020, DJe 23/6/2020 e AgInt na Rcl n. 40.177/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 29/9/2020, DJe 2/10/2020).
+VI - A previsão de reclamação constitucional para garantir a autoridade das decisões do tribunal não tem o propósito de amparar pretensões à observância da jurisprudência da Corte, mas servir à garantia da autoridade de decisão proferida no caso concreto envolvendo as mesmas partes. No mesmo sentido: (AgInt na Rcl n.
+32.987/MG, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 12/8/2020, DJe 17/8/2020).
+VII - O autor, ao que consta, ostenta a condição de terceiro de modo que sequer possui legitimidade ativa para pretender dar início ao cumprimento de sentença lançada em ação de improbidade.
+VIII - Por fim, calha referir que o precedente do STJ que estaria tendo sua autoridade inobservada não possui qualquer pertinência com o caso mencionado (ação de improbidade) vez que a Súmula n. 532 diz, em verdade, com prática abusiva relativa a envio de cartão de crédito não requerido.
+IX - Agravo interno improvido.
+(AgInt na Rcl 41.776/RO, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 09/11/2021, DJe 11/11/2021)
+A presente reclamação, portanto, não apresenta os requisitoslegais necessários ao seu processamento.
+Ante o exposto, indefere-se liminarmente a reclamação.
+Publique-se. Intimem-se.
