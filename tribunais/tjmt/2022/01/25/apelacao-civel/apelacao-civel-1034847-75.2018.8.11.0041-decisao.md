@@ -1,0 +1,55 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial na Apelação Cível n. 1034847-75.2018.8.11.0041
+RECORRENTE: EUCLIDES DE OLIVEIRA LEMOS FILHO
+RECORRIDO: MUNICIPIO DE CUIABÁ
+Vistos.
+Trata-se de recurso especial interposto por EUCLIDES DE OLIVEIRA LEMOS FILHO, com fundamento no artigo 105, inciso III, alínea “a” da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Público e Coletivo assim ementado (id. 103407474):
+“DIREITO CONSTITUCIONAL E TRIBUTÁRIO – RECURSO DE APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICO-TRIBUTÁRIO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS – PRELIMINAR DE REVELIA – IMPOSSIBILIDADE DAS ATRIBUIÇÃO DOS EFEITOS À FAZENDA PÚBLICA – ARTIGO 145, II, DO CÓDIGO DE PROCESSO CIVIL – REJEIÇÃO – AUSÊNCIA DE COMPROVAÇÃO ACERCA DA PROPRIEDADE – JUNTADA DE CERTIDÃO NEGATIVA DE REGISTRO DE IMÓVEIS – CERTIDÕES QUE NÃO ABARCAM TODOS OS ANOS COBRADOS – IMPOSSIBILIDADE DA DESCONSTITUIÇÃO DA CDA – TÍTULO QUE GOZA DE PRESUNÇÃO DE CERTEZA E LIQUIDEZ – PROVA JUNTADA QUE NÃO É INEQUÍVOCA – ARTIGOS 204, PARÁGRAFO ÚNICO, DO CÓDIGO TRIBUTÁRIO NACIONAL E 3o, PARÁGRAFO ÚNICO, DA LEI DE EXECUÇÃO FISCAL – INDENIZAÇÃO POR DANOS MORAIS – DANO DESCARACTERIZADO – PROTESTO VÁLIDO – RECURSO PROVIDO.
+1 – Não é possível atribuir os efeitos da revelia à Fazenda Pública, em face do disposto no artigo 145, II, do Código de Processo Civil, em conjunto com o princípio da indisponibilidade do interesse público.
+2 – A certidão de registro de imóveis, expedida por cartório, se não contestada de maneira apta, serve para comprovar a inexistência de propriedade do respectivo interessado.
+3 – As certidões de registro de imóveis, a fim de comprovar a inexistência de imóvel em nome do interessado, a afastar dívida de IPTU, devem compreender todos os anos cobrados pela Fazenda Pública Municipal.
+4 – Se não comprovado que o protesto registrado em desfavor do interessado decorrer de ato equivocado, ou ilícito por parte da Fazenda Pública, não enseja a condenação do referido em danos morais.” (TJMT – Primeira Câmara de Direito Público – ApCiv n. 1034847-75.2018.8.11.0041, Relatora: DESA. HELENA MARIA BEZERRA RAMOS, j. em 13/09/2021).
+Irresignado, alega o recorrente que o acórdão viola o artigo 34, do Código Tributário Nacional, bem como o artigo 186, do Código Civil, pois “Conforme provado pelas certidões de todos os Cartórios de Registro Imobiliário de Cuiabá-MT, o recorrente nunca/jamais teve: - a posse, - o domínio, ou qualquer outra situação que lhe atribuísse legalmente o caráter de propriedade do festejado imóvel”, exsurgindo o direito à reparação dos danos causados.
+Recursos tempestivos (id. 105759988) e recorrente beneficiário da justiça gratuita (id. 105548968).
+Sem contrarrazões (id. 113956482).
+É o relatório.
+Decido.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade de ambos os recursos.
+Reexame de matéria fática (Súmula 7 do STJ).
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e uniformização da interpretação das leis federais, razão pela qual não é possível o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta ofensa está amparada na assertiva de que apresentou todas as certidões de todos os cartórios de registro imobiliário de Cuiabá, as quais comprovam que o recorrente nunca teve posse, domínio ou propriedade do imóvel discutido.
+No caso, o acórdão registrou que os documentos apresentados não configuram prova inequívoca, não possuindo o condão de desconstituir a certidão de dívida ativa e, por consequência, afastando o dano moral, in verbis:
+“(...)
+Ao constatar a Certidão de Dívida Ativa (ID no 74073079), os créditos relativos ao IPTU datam de 1o-1-2004 a 1o-1-2018, e como a referida certidão não registra que nunca houve imóvel em nome do Recorrido, não seria possível excluir a cobrança do mencionado crédito tributário.
+É necessário destacar, ainda, que, por força dos artigos 204, parágrafo único, do Código Tributário Nacional, e 3o, parágrafo único, da Lei de Execução Fiscal, as Certidões de Dívida Ativa gozam de presunção relativa de certeza e liquidez, e só podem ser ilididas por meio de prova inequívoca.
+Confira-se o registrado nos dispositivos mencionados:
+Art. 204. A dívida regularmente inscrita goza da presunção de certeza e liquidez e tem o efeito de prova pré-constituída.
+Parágrafo único. A presunção a que se refere este artigo é relativa e pode ser ilidida por prova inequívoca, a cargo do sujeito passivo ou do terceiro a que aproveite.
+Art. 3o - A Dívida Ativa regularmente inscrita goza da presunção de certeza e liquidez.
+Parágrafo Único - A presunção a que se refere este artigo é relativa e pode ser ilidida por prova inequívoca, a cargo do executado ou de terceiro, a quem aproveite.
+Aponta-se que, a certidão do Cartório do Quinto Ofício não é prova inequívoca, já que o respectivo imóvel pode estar inserido na mencionada circunscrição, logo, não desconstitui a Certidão de Dívida Ativa, e, por consequência, não, o protesto registrado não pode ser baixado.
+Dessa maneira, em razão de nem todas as certidões abarcarem todos os anos da dívida ensejada pelo Município de Cuiabá, ora Recorrente, prosperam a alegação tecida, e a Sentença deve ser reformada.
+Também assiste razão ao recorrente, que bastava juntar uma certidão de inteiro teor ou vintenária do referido imóvel que originou o IPTU, para saber que o Recorrido nunca foi proprietário do imóvel, o que o Recorrido não o fez.
+Relativo a este ponto, ainda, é importante ressaltar que o ônus probatório, ressalvadas exceções, sempre são de ônus do interessado, in casu, do Autor/Recorrido.
+No que tange os demais pontos do apelo, este devem ser providos por consequência lógica ao reconhecimento da relação jurídico-tributária, pois, se a cobrança é válida, o protesto registrado não é indevido, e por esta razão, não há que se falar em indenização.”
+Assim, para o deslinde da controvérsia faz-se necessário analisar o conjunto fático-probatório existente nos autos para verificar a responsabilidade ou não dos recorrentes, o que atrai o óbice da Súmula 7 do STJ, senão vejamos:
+“PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PAGAMENTO DE IPTU. PROPRIETÁRIO, PROMITENTE VENDEDOR OU PROMITENTE COMPRADOR. CONTRIBUINTES RESPONSÁVEIS. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ. REQUISITOS ESSENCIAIS DE VALIDADE DA CDA. SÚMULA 7/STJ.
+1. O STJ firmou posicionamento, em recurso repetitivo, segundo o qual consideram-se contribuintes do IPTU o proprietário do imóvel, o titular do seu domínio útil ou o seu possuidor a qualquer título.
+2. Assim sendo, tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU, podendo a autoridade administrativa optar por um ou por outro visando a facilitar o procedimento de arrecadação.
+3. Rever o entendimento da Corte regional, com o objetivo de acolher a pretensão recursal acerca do não preenchimento dos requisitos essenciais de validade da CDA demanda revolvimento de matéria fática, o que é inviável em Recurso Especial, à luz do óbice contido na Súmula 7/STJ.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.” (REsp 1719006/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/02/2018, DJe 14/11/2018) (g.n.)
+“PROCESSO CIVIL. TRIBUTÁRIO. DÍVIDA ATIVA. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 10 DO DECRETO N. 3.708/1919, 50 DO CC E 135 DO CTB. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO INCIDÊNCIA NO ENUNCIADO N. 7 DA SÚMULA DO STJ. VIOLAÇÃO DO ART. 85 DO CPC/2015. AUSÊNCIA. ENTENDIMENTO DO TRIBUNAL A QUO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+I - Trata-se, na origem, de agravo de instrumento objetivando reconhecer a ilegitimidade passiva do agravante nos autos de execução fiscal. No Tribunal a quo, o agravo de instrumento foi improvido. Nesta Corte, se conheceu do agravo para conhecer parcialmente do recurso especial e, nesta parte negar-lhe provimento.
+II - Sobre a suposta violação aos arts. 10 do Decreto n. 3.708/1919; 50 do Código Civil e 135 do CTN, verifica-se que a irresignação do recorrente acerca da ausência de provas que evidenciassem a responsabilidade tributária e que afastassem o redirecionamento da execução vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, assim decidiu: "[...] Isso quer dizer que o redirecionamento da execução é autorizado quando no curso do processo executivo for evidenciada a responsabilidade tributária do terceiro, sem exigir-se a comprovação plena e o esgotamento da matéria. Aliás, é justamente por ocasião da inclusão do corresponsável no pólo passivo da execução - quando então poderá exercer seu direito de defesa para afastar os indícios que evidenciaram sua responsabilidade tributária - que a matéria será julgada com amplitude e de forma definitiva (cf. TRF4, AG 2008.04.00.041751-7, Segunda Turma, D.E. 18/03/2009; AG 5001627- 48.2013.404.0000, Primeira Turma, D.E. 14/03/2013). [...]" Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+III - No que se refere à suposta violação do art. 85 do CPC/2015, não merece provimento o recurso. Isso porque a conclusão a que chegou o Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, no sentido de que a fixação da verba sucumbencial é cabível quando a procedência do incidente de exceção de pré-executividade resultar na extinção parcial da dívida ou na redução do valor. Nesse diapasão, confiram-se: AgInt nos EDcl no REsp n. 1.326.400/SP, Rel. Ministro Lázaro Guimarães (Desembargador convocado do TRF 5a Região), Quarta Turma, julgado em 6/2/2018; AgRg no AREsp n. 93.300/RS, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 2/9/2014.
+IV - Agravo interno improvido.
+(AgInt no AREsp 1273446/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 24/09/2019, DJe 26/09/2019)
+Assim, por serem insuscetíveis de revisão os entendimentos do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, encontra-se vedada a análise da referida questão pelo Superior Tribunal de Justiça, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V (Súmula 07 do STJ), do CPC.
+Intime-se. Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
