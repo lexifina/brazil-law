@@ -1,0 +1,69 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Extraordinário nos autos da Apelação Cível n. 1004660-21.2017.8.11.0041
+RECORRENTE: GISLENE CRISTINA GUBOLIN
+RECORRIDO: ESTADO DE MATO GROSSO
+Vistos.
+Trata-se de recurso extraordinário interposto por GISLENE CRISTINA GUBOLIN, com fundamento no artigo 102, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão proferido pela Primeira Câmara de Direito Público e Coletivo, assim ementado (id. 104031966):
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA – CONCURSO PÚBLICO – CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS – CONTRATAÇÕES TEMPORARIAS – CONTRATAÇÃO DE TERCEIRIZADOS – PRETERIÇÃO NÃO COMPROVADA – INEXITENCIA DE DIREITO A NOMEAÇÃO – MERA EXPECTATIVA –– RECURSO DESPROVIDO.
+O candidato aprovado fora do número de vagas possui mera expectativa de nomeação, convolando-se em direito subjetivo à posse somente acaso demonstrada a preterição ilegítima ou a comprovada necessidade de serviço pela Administração, o que não restou evidenciado na espécie.
+A contratação temporária, por si só, não implica no reconhecimento da preterição do candidato classificado em concurso público, em razão da expressa previsão legal para a hipótese de atendimento de necessidade temporária e excepcional do serviço.” (TJMT – Câmaras Isoladas De Direito Público E Coletivo; ApCiv n. 1004660-21.2017.8.11.0041, Primeira Câmara de Direito Público e Coletivo, Des. MARCIO VIDAL, j. em 13/09/2021)
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de apelação cível interposta por GISLENE CRISTINA GUBOLIN, que desproveu o recurso, mantendo a sentença que julgou improcedente o pleito inicial.
+Alega o recorrente que “(...) o acórdão recorrido manifestamente viola o Artigo 37, caput e incisos II e V, além de contrariar decisão em regime de Repercussão Geral (RE 837.311/PI)”, sob a perspectiva de que há comprovada preterição de que trata o referido tema, através dos documentos que acostam o processo.
+Recurso tempestivo (id. 107555467) e recorrente beneficiária da justiça gratuita (id. 107554956).
+Contrarrazões em id. 113566451.
+É o relatório.
+Decido.
+Inexistência de repercussão geral - Tema 735/STF
+O recorrente alega violação ao artigo 37, II e V, da Constituição Federal, cuja controvérsia consiste em verificar se houve preterição da administração pública em chamar os aprovados no concurso público.
+O referido tema discutiu a seguinte questão: “Direito à nomeação de candidato aprovado em concurso público em face de posteriores contratações temporárias, nas hipóteses em que não fica comprovada a preterição”.
+A propósito, colaciono a ementa do Leading Case RE RG/RS (Tema 735), em que o Supremo Tribunal Federal não reconheceu a repercussão geral desta tese jurídica, senão vejamos:
+“EMENTA: PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. ESTADO DO RIO GRANDE DO SUL. CONCURSO PÚBLICO. MAGISTÉRIO. DIREITO À NOMEAÇÃO. PRETERIÇÃO. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. Não possui repercussão geral a controvérsia relativa ao direito à nomeação de candidato participante de concurso público, quando decidida pelo Juízo de origem à luz da legislação infraconstitucional, dos fatos da causa e das cláusulas do edital do certame. 2. Inviável, em recurso extraordinário, apreciar alegada violação aos arts. 5o, XXXV, LIV e LV, da Constituição Federal, quando isso depender de interpretação e aplicação de normas infraconstitucionais (AI 796.905- AgR/PE, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21.5.2012; AI 622.814-AgR/PR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08.3.2012; ARE 642.062-AgR/RJ, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19.8.2011). 3. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Constituição Federal se dê de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, Pleno, DJe de 13/03/2009). 4. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC.”
+Delineado esse cenário, percebe-se que no referido tema o Supremo Tribunal Federal estabeleceu que “Não possui repercussão geral a controvérsia relativa ao direito à nomeação de candidato participante de concurso público, quando decidida pelo Juízo de origem à luz da legislação infraconstitucional, dos fatos da causa e das cláusulas do edital do certame”, negando seguimento nos casos em que se discute o direito à nomeação de candidato aprovado em concurso público em face de posteriores contratações temporárias, nas hipóteses em que não fica comprovada a preterição.
+Na espécie, o acórdão decidiu o seguinte:
+“Em concurso público para o provimento de 38 vagas para o cargo de Técnico da Área Instrumento do Governo – Economista, Edital n.o 005/2009, de 27/07/2009, a Apelante foi aprovada na 144a colocação para o polo Cuiabá, mas sustenta que, mesmo tendo sido nomeados 148 candidatos, 02 deles desistentes, há outros 535 cargos ocupados a título precário, o que, a seu ver, caracteriza preterição.
+Para demonstrar que a Administração Pública Estadual vem efetivando a contratação temporária de servidores para a mesma função e polo para o qual se candidatou, a Apelante juntou, dentre outros documentos, cópia do Diário Oficial no qual foi publicado 3o Termo Aditivo ao Contrato 045/2013, celebrado entre o Estado de Mato Grosso e a Empresa Ábaco, no valor de R$ 6.739.496,59 (seis milhões, setecentos e trinta e nove mil, quatrocentos e noventa e seis reais e cinquenta e nove centavos) (id. 61116970, p. 3).
+Pois bem. Ab initio, observo que a alegação da Apelante de cerceamento de defesa, decorrente da não-inversão do ônus da prova, não merece acolhimento.
+De acordo com o artigo 373 do Código de Processo Civil, incumbe ao autor a prova dos fatos constitutivos do seu direito, e, ao réu, a existência de fatos modificativos, impeditivos ou extintivos do direito do autor.
+A inversão do ônus da prova é medida excepcional cabível, apenas, em hipóteses restritas, como, por exemplo, a do art. 6o, VIII, do CDC, em que há relação de consumo entre as partes, situação que não é a dos autos.
+Na espécie, houve ampla dilação probatória, tendo sido resguardados os direitos de ambas as partes ao contraditório, razão pela qual não há que se falar em nulidade do processo por cerceamento de defesa.
+No mérito propriamente dito, também não prospera a pretensão da Apelante.
+Registro, desde logo, que a Apelante foi classificada fora do número de vagas de provimento imediato previstas no edital, razão pela qual não possui, em princípio, direito subjetivo à nomeação, mas mera expectativa do direito.
+O Supremo Tribunal Federal, em julgamento submetido ao rito da repercussão geral (RE 837.311/PI), fixou orientação no sentido de que o surgimento de novas vagas, ou a abertura de novo concurso, para o mesmo cargo, durante o prazo de validade de concurso anteriormente realizado, não gera, de maneira automática, o direito à nomeação para os candidatos aprovados fora do número de vagas anunciado no edital.
+No mesmo julgamento, a Suprema Corte consignou a existência de tal direito diante da cabal comprovação pelo candidato quanto à ocorrência de sua preterição pela Administração, de forma arbitrária e imotivada, revelada pelo comportamento, tácito ou expresso, do Poder Público, a sinalizar a necessidade da pretendida nomeação.
+(...)
+Sendo assim, inexistindo a demonstração cabal de que houve preterição do direito da Apelante à nomeação, não há que se falar em ilegalidade praticada pelo Apelado, a autorizar o deferimento da pretensão inicial, porquanto deve prevalecer a regra de que cumpre à Administração o exercício do juízo de conveniência e oportunidade a respeito da prerrogativa de nomear.
+(...)
+Assim, durante o prazo de validade do concurso, a Administração poderá escolher o momento no qual realizará a nomeação, mas não poderá dispor da nomeação, em si, que, de acordo com o edital, passa a constituir um direito do concursando aprovado. e, dessa forma, um dever imposto ao Poder Público.
+Além do mais, não há, nos autos, comprovação de que a admissão de agentes temporários não foi fundada no art. 37, IX, da Constituição Federal, ou seja, que não atende às necessidades transitórias e(ou) de excepcional interesse público, tais como, férias de servidor, licença-prêmio, afastamento particular.
+Logo, as contratações temporárias não concorrem com a nomeação de efetivos, estes recrutados mediante concurso público (Art. 37, II e III, da CF), para suprir necessidades permanentes do serviço.” (id. 104031966) (g.n.)
+Logo, percebe-se que o aresto manteve o entendimento a quo de que não restou evidenciada a preterição do recorrente.
+Portanto, por não existir a comprovação de preterição, tem-se que a matéria discutida no extraordinário já foi decidida pelo STF e teve a repercussão geral rejeitada, circunstância que impede o seguimento recursal.
+Sistemática de repercussão geral - Aplicação do Tema 784 do STF
+Ainda que não fosse o caso de aplicação do tema 735, melhor sorte não assistiria ao recorrente.
+No caso, a recorrente defende que deve ser levada em consideração a preterição ocorrida nos autos, com a existência de supostos 535 (quinhentos e trinta e cinco) cargos precários.
+No julgamento do recurso Leading Case RE 837.311-RG/PI (Tema 784), o Supremo Tribunal Federal discutiu, à luz dos arts. 2o, 5o, LV, e 37, III e IV, da Constituição Federal, a existência, ou não, de direito subjetivo à nomeação de candidatos aprovados fora do número de vagas oferecidas no edital do concurso público quando surgirem novas vagas durante o prazo de validade do certame, ocasião em que fixou a seguinte tese:
+“O surgimento de novas vagas ou a abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no edital, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da administração, caracterizada por comportamento tácito ou expresso do Poder Público capaz de revelar a inequívoca necessidade de nomeação do aprovado durante o período de validade do certame, a ser demonstrada de forma cabal pelo candidato.
+Assim, o direito subjetivo à nomeação do candidato aprovado em concurso público exsurge nas seguintes hipóteses:
+I – Quando a aprovação ocorrer dentro do número de vagas dentro do edital;
+II – Quando houver preterição na nomeação por não observância da ordem de classificação;
+III – Quando surgirem novas vagas, ou for aberto novo concurso durante a validade do certame anterior, e ocorrer a preterição de candidatos de forma arbitrária e imotivada por parte da administração nos termos acima.” (g.n.)
+Nessa perspectiva, no caso concreto, a câmara julgadora concluiu que o candidato ficou classificado fora do número de vagas existentes e não comprovou a existência de contratação precária que atingissem a sua classificação, senão vejamos:
+“Em concurso público para o provimento de 38 vagas para o cargo de Técnico da Área Instrumento do Governo – Economista, Edital n.o 005/2009, de 27/07/2009, a Apelante foi aprovada na 144a colocação para o polo Cuiabá, mas sustenta que, mesmo tendo sido nomeados 148 candidatos, 02 deles desistentes, há outros 535 cargos ocupados a título precário, o que, a seu ver, caracteriza preterição.
+Para demonstrar que a Administração Pública Estadual vem efetivando a contratação temporária de servidores para a mesma função e polo para o qual se candidatou, a Apelante juntou, dentre outros documentos, cópia do Diário Oficial no qual foi publicado 3o Termo Aditivo ao Contrato 045/2013, celebrado entre o Estado de Mato Grosso e a Empresa Ábaco, no valor de R$ 6.739.496,59 (seis milhões, setecentos e trinta e nove mil, quatrocentos e noventa e seis reais e cinquenta e nove centavos) (id. 61116970, p. 3).
+Pois bem. Ab initio, observo que a alegação da Apelante de cerceamento de defesa, decorrente da não-inversão do ônus da prova, não merece acolhimento.
+(...)
+Sendo assim, inexistindo a demonstração cabal de que houve preterição do direito da Apelante à nomeação, não há que se falar em ilegalidade praticada pelo Apelado, a autorizar o deferimento da pretensão inicial, porquanto deve prevalecer a regra de que cumpre à Administração o exercício do juízo de conveniência e oportunidade a respeito da prerrogativa de nomear.
+(...)
+Assim, durante o prazo de validade do concurso, a Administração poderá escolher o momento no qual realizará a nomeação, mas não poderá dispor da nomeação, em si, que, de acordo com o edital, passa a constituir um direito do concursando aprovado. e, dessa forma, um dever imposto ao Poder Público.
+Além do mais, não há, nos autos, comprovação de que a admissão de agentes temporários não foi fundada no art. 37, IX, da Constituição Federal, ou seja, que não atende às necessidades transitórias e(ou) de excepcional interesse público, tais como, férias de servidor, licença-prêmio, afastamento particular.
+Logo, as contratações temporárias não concorrem com a nomeação de efetivos, estes recrutados mediante concurso público (Art. 37, II e III, da CF), para suprir necessidades permanentes do serviço.” (id. 104031966) (g.n.)
+Diante disso, frente à ausência de demonstração dos requisitos da tese fixada no Tema 784/STF, observa-se que o acórdão impugnado se encontra em conformidade com o RE 837.311-RG/PI.
+Ante o exposto, nego seguimento ao recurso extraordinário, com fundamento no artigo 1.030, I, “a” e “b”, do Código de Processo Civil, em decorrência da observância do acórdão impugnado com o julgamento dos recursos paradigmas (Temas 735 e 784).
+Intime-se.
+Publique-se.
+Cumpra-se.
+Desembargadora MARIA APARECIDO RIBEIRO
+Vice-Presidente do Tribunal de Justiça
