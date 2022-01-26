@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de pedido de tutela de urgência formulado por TOLOMEU NEGOCIOS E PARTICIPACOES LTDA eNAFTALI NEGOCIOS E PARTICIPACOES LTDA.
+As requerentes afirmam que tiveram sua falência decretada em processo de recuperação judicial, razão pela qual interpuseramrecurso especial contra o referido acórdão.
+Narram que, embora tenha sidodeferido efeito suspensivo, após a apresentação de contrarrazões, a Presidência do Tribunal de origem inadmitiu o processamento do recurso, cuja decisão vem sendo impugnada por meio deagravo em recurso especial.
+Ressaltam a gravidade dos efeitos do acórdão recorrido e a flagrante violação aos dispositivos legais mencionados nas razões do apelo extremo, aduzindo que há evidente risco de dano irreparável, visto que o Administrador Judicial já teria solicitado a expedição de "Mandado deLacração eArrecadação dos bensdas recorrentes" (fl. 5), tendo sidorealizada pesquisa para bloqueio de valores.
+Requerem, por fim, a atribuição de efeito suspensivo ao recurso.
+É, no essencial, o relatório. Decido.
+De início, convém registrar que, na dicção dos arts. 1.027, § 2º, 1.028, §§ 2º e 3º, e 1.029, § 5º, III, do Código de Processo Civil, a competência para apreciar o pedido de tutela provisória para suspender o processo na origem somente se transfere ao Superior Tribunal de Justiça após o processamento do recurso especial pelo tribunal de origem.
+De acordo com o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+O deferimento do pedido de tutela provisória de urgência pressupõe, portanto, a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na hipótese, as peticionantes não lograram êxito em demonstrar a existência da fumaça do bom direito, sobretudo porque, a princípio, a decisão que inadmitiu o processamento do recurso especialestáem consonância com a jurisprudência desta Corte, no sentido de que, "deacordo com o entendimento consagrado no enunciado n. 7 da Súmula/STJ, as premissas fáticas assentadas no acórdão recorrido - que autorizam, na hipótese, a convolação da recuperação judicial em falência - não podem ser alteradas por esta Corte Superior"(REsp 1299981/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/06/2013, DJe 16/09/2013).
+Nesse contexto, não se encontra presente o requisito do fumus boni iuris, a ponto de justificar a concessão da medida liminar de urgência por esta Presidência, em regime de plantão.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, indefere-se o pedido.
+Publique-se. Intimem-se.
