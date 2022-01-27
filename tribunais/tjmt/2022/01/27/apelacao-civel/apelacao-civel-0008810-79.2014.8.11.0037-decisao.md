@@ -1,0 +1,53 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE APELAÇÃO CÍVEL No 0008810-79.2014.8.11.0037
+APELANTE: GEOVANE ALVES FERRARI
+APELADO: UNISAGRO COMÉRCIO DE PRODUTOS AGROPECUARIOS LTDA. - EM RECUPERAÇÃO JUDICIAL
+EMENTA - DECISÃO MONOCRÁTICA - RECURSO DE APELAÇÃO CÍVEL – AÇÃO ANULATÓRIA DE TÍTULO EXTRAJUDICIAL ASSISTÊNCIA JUDICIÁRIA GRATUITA – ASSISTÊNCIA JUDICIÁRIA INDEFERIDA EM PRIMEIRO GRAU – HIPOSSUFICIÊNCIA ECONÔMICA NÃO DEMONSTRADA – PRESUNÇÃO RELATIVA DA DECLARAÇÃO DE POBREZA – PRECEDENTES DO STJ – PARCELAMENTO DAS CUSTAS – POSSIBILIDADE – INTELIGÊNCIA DO ART. 98, § 6o, DO CPC – RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+“É firme a orientação do STJ no sentido de que a declaração de hipossuficiência detém presunção juris tantum de veracidade, podendo a autoridade judiciária indeferir a benesse quando convencida acerca da capacidade econômica do postulante” (STJ – AgRg no AREsp 488.555/RS).
+Conforme o caso, o juiz poderá conceder direito ao parcelamento de despesas processuais que o beneficiário tiver de adiantar no curso do procedimento (art. 98, § 6o, do CPC).
+Como forma de assegurar o acesso ao Judiciário, há de ser concedido o parcelamento do valor das custas, consoante a previsão do art. 98, § 6o, do CPC.
+DECISÃO MONOCRÁTICA
+Trata-se de apelação cível interposta por GEOVANE ALVES FERRARI, visando reformar a sentença proferida pelo Juízo da 3a Vara Cível da Comarca de Primavera do Leste, que, nos autos da Ação Anulatória de Título Extrajudicial no 0008810-79.2014.8.11.0037 - código 137693, em desfavor de UNISAGRO COMÉRCIO DE PRODUTOS AGROPECUARIOS LTDA. - EM RECUPERACAO JUDICIAL BANCO DO BRASIL S. A., julgou extinto o processo, sem resolução do mérito, nos termos do art. 485, IV, do CPC, por ausência do pagamento de custas ao final do processo (Id. 92576986).
+Em suas razões, de Id. 92576509, aduz pelos benefícios da assistência judiciária, pois não possui condições financeiras para suportar as custas processuais diante a crise que sofre, caso não seja o entendimento pede subsidiariamente o recolhimento parcelado das custas processuais em 6 (seis) parcelas.
+Pugna pelo afastamento da multa de 2% (dois por cento) em sede de embargos de declaração, pois opostos para fim de esclarecimento da sentença sem pretensão protelatória.
+Requer o provimento do recurso para determinar o retorno dos autos à origem para julgamento do mérito da ação.
+Contrarrazões, Id. 92576517, refuta os argumentos da apelante, o requer seja negado provimento ao recurso, manutenção da sentença e aplicação da multa decorrente da oposição dos embargos.
+É o relatório.
+Decido.
+O Código de Processo Civil, no artigo 98 e seguintes, prevê que a simples declaração da pessoa natural de insuficiência de recursos, enseja a concessão da assistência judiciária.
+Entretanto, dispõe que o Juiz somente poderá indeferir o pedido de assistência judiciária, se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão da gratuidade. É preciso ter em mente que o benefício da assistência judiciária deve ser concedido somente aos comprovadamente necessitados, pois, caso contrário, não tem o Estado como custear as despesas dos efetivamente carentes que precisam recorrer ao Poder Judiciário.
+Sendo assim, para se conceder o benefício pretendido, não basta apenas alegar a condição de hipossuficiência financeira, faz-se necessária a sua comprovação.
+No caso em tela, a parte baseia-se em singelas alegações para fazer valer sua condição de hipossuficiência econômica de acordo com os novos documentos acostados ao processo (Id. 95345493).
+Ademais, se levarmos em consideração a cédula de produto rural no 45.856 (Id. 92576975), o valor da inicial aditado (Id. 92576975 - Pág. 187) e que o apelante é produtor rural de produção de grãos, não se pode atribuir condições de pessoa pobre.
+Logo, o indeferimento da assistência judiciária é medida adequada e plausível a ser tomada.
+Nesse sentido:
+“PROCESSUAL CIVIL. JUSTIÇA GRATUITA INDEFERIDA. REEXAME DE PROVAS. SÚMULA 7/STJ. IMPOSSIBILIDADE. 1.O Tribunal de origem reconheceu que o recorrente não se enquadra na situação de pobreza, a pretensão deduzida no Recurso Especial envolve o reexame da matéria fática, o que é vedado nos termos da Súmula 7/STJ. 2. A declaração de pobreza implica simples presunção juris tantum, suscetível de ser elidida pelo magistrado se tiver fundadas razões para declarar que o requerente não se encontra no estado de miserabilidade anunciado. 3. Agravo conhecido para não conhecer do Recurso Especial.” (STJ, 2a TURMA, AREsp 1542058/SP, Rel. Ministro HERMAN BENJAMIN, j. em 03/10/2019, DJe 18/10/2019).
+Em relação ao ponto do recolhimento das custas no final do processo, conforme o Id. 92576975 - Pág. 187, nos termos do provimento no 18/2012 - CGJ, nota-se que o propósito de provimento era de restringir à revogação do item 2.14.8.1.4 da CNGC/MT, o qual vedava o recolhimento de custas e despesas processuais no final do processo.
+Atualmente a Consolidação das Normas Gerais da Corregedoria Geral da Justiça dispõe:
+“Art. 233. A taxa judiciária, as custas judiciais e as despesas judiciais deverão ser recolhidas no ato da distribuição da inicial, exceto nos casos de isenção legal ou assistência judiciária gratuita. §1o Não havendo preparo no prazo de 15 (quinze) dias, a secretaria certificará o fato e enviará o feito ao gabinete para análise acerca do julgamento, sem resolução do mérito, com o arquivamento definitivo pela secretaria.
+§2o É vedado, em qualquer circunstância, o recolhimento de custas ao final. (g.n).
+Sobre o tema este Tribunal possui firme posicionamento quanto a sua impossibilidade. Vejamos:
+“EMBARGOS À EXECUÇÃO – ASSISTÊNCIA JUDICIÁRIA GRATUITA INDEFERIDA – PESSOA JURÍDICA – AUSÊNCIA DE COMPROVAÇÃO – ART. 99, §2o, CPC – PEDIDO DE RECOLHIMENTO AO FINAL DO PROCESSO – IMPOSSIBILIDADE – DECISÃO MANTIDA – RECURSO DESPROVIDO. Nos termos da Súmula 481, do STJ, faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar a sua impossibilidade de arcar com os encargos processuais, o que não ocorreu na espécie. O Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recurso. Inteligência do art. 5o, LXXIV, da Constituição Federal. Cabe ao julgador examinar a razoabilidade da concessão da gratuidade da justiça, considerando para tanto os elementos que evidenciam a condição de necessidade do beneficiário.
+A Consolidação das Normas Gerais da Corregedoria Geral da Justiça do Estado de Mato Grosso - CNGC, determina que as custas processuais sejam recolhidas no ato da distribuição da inicial, sendo vedado o deferimento para serem recolhidas ao final.” (N.U 1007014-06.2021.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, CARLOS ALBERTO ALVES DA ROCHA, Terceira Câmara de Direito Privado, Julgado em 11/08/2021, Publicado no DJE 18/08/2021)
+Entretanto, o pagamento das custas e das despesas do processo pode ser parcelado nos termos do art. 98, §§ 5o e 6o, do CPC, se entender o magistrado a impossibilidade momentânea da parte. Confira-se:
+“Art. 98. A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade de justiça, na forma da lei:
+(...)
+§ 5o A gratuidade poderá ser concedida em relação a algum ou a todos os atos processuais, ou consistir na redução percentual de despesas processuais que o beneficiário tiver de adiantar no curso do procedimento.
+§6o Conforme o caso, o juiz poderá conceder direito ao parcelamento de despesas processuais que o beneficiário tiver de adiantar no curso do procedimento.”
+Trago à baila os ensinamentos doutrinários de Fredie Didier:
+“A possibilidade de modulação do benefício não é, pois, uma novidade no sistema; novidade é o fato de, agora, isso estar previsto expressamente.
+A análise do requerimento do benefício deixa de ser feita com base no tudo ou nada, oito ou oitenta. Com isso, muitos pedidos que outrora eram feitos e rejeitados, sob o fundamento de que o requerente não era tão pobre assim, poderão agora ser reavaliados.
+[....]
+Também é importante dizer que o deferimento do benefício depende sempre de requerimento. Mas, uma vez requerido o benefício integral, pode o juiz deferi-lo parcialmente, segundo uma das formas de modulação previstas nos §§5o e 6o do art. 98 do CPC.” (DIDIER Jr., Fredie. Benefício da justiça gratuita: de acordo com o novo CPC. 6a ed. ver. e atual.- Salvador. Ed. JusPodvm, 2016. Pág. 55)
+Nesta seara, a teor dos documentos de Id. 95345495 o apelante possui seu nome no SPC, SERASA e várias execuções em consulta ao site do TJMT, restando evidente a eventual ausência de liquidez momentânea.
+Nesse sentido:
+“AGRAVO DE INSTRUMENTO. ADJUDICAÇÃO COMPULSÓRIA. DA GRATUIDADE DA JUSTIÇA. INDEFERIMENTO. PARCELAMENTO DAS DESPESAS PROCESSUAIS. POSSIBILIDADE. - Diante da previsão expressa do art.98, § 6o, do CPC em regência, da possibilidade do parcelamento das custas, despesas e honorários, é imperioso rever os critérios até então adotados para a concessão da gratuidade total ou se é caso de deferir o parcelamento ou, em última hipótese, seu indeferimento. – [...] AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO COM DISPOSIÇÃO DE OFÍCIO PARA CONCESSÃO DO PARCELAMENTO. (Agravo de Instrumento No 70072818784, Décima Sétima Câmara Cível, Tribunal de Justiça do RS, Relator: Gelson Rolim Stocker, Julgado em 03/03/2017).
+Conforme o caso, o juiz poderá conceder direito ao parcelamento de despesas processuais que o beneficiário tiver de adiantar no curso do procedimento (art. 98, § 6o, do CPC). Como forma de assegurar o acesso ao Judiciário, há de ser concedido o parcelamento do valor das custas, consoante a previsão do art. 98, § 6o, do CPC. ”(TJMT, Terceira Câmara de Direito Privado,N.U 1001409-16.2020.8.11.0000, Relator Des. DIRCEU DOS SANTOS, j. em 10/02/2020, Publicado no DJE 10/02/2020)
+Dispositivo.
+Com essas considerações, conheço do recurso e DOU-LHE PARCIAL PROVIMENTO para, nos termos do art. 98, §§5o e 6o, do CPC, e art. 465, § 7o, do Provimento no 40/2016-CGJ, autorizar o parcelamento do valor total das custas e despesas processuais em 06 (seis) prestações mensais e determino o retorno dos autos à primeira instância para instrução e julgamento.
+Em razão dos contornos deste julgado, intime-se o recorrente para promover o recolhimento do preparo deste recurso; não havendo resposta no prazo legal, encaminhe-se ao setor competente para a devida anotação.
+Às providências.
+DES. DIRCEU DOS SANTOS
+RELATOR
