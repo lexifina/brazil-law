@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de JARDEL AMARAL DE OLIVEIRA (nome social AGATHA) em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2002862-41.2022.8.26.0000).
+A paciente foi presa em flagrante pela suposta prática do delito previsto no artigo 157, § 2º, incisos II e VII, do Código Penal, sobrevindo decisão que converteu a custódia em preventiva.
+O impetrante sustenta que estaria diante de flagrante ilegalidade, passível de afastar o óbice do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+Alega que o decreto constritivo careceria de fundamentação idônea, não estando presentes os requisitos previstos no art. 312 do Código de Processo Penal.
+Afirma que os predicados pessoais favoráveis da acusada permitiriam a substituição da medida extrema por cautelares diversas.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva da paciente, expedindo-se alvará de soltura em seu favor.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto foram declinados os fundamentos para a manutenção da prisão preventiva da paciente, consoante se extrai da seguinte passagem (fls. 21-22):
+A medida liminar em habeas corpus tem caráter excepcional e deve ser deferida somente nas hipóteses em que o constrangimento ilegal é flagrante e manifesto, passível de ser constatado de pronto, o que não é o caso dos autos. De fato, a paciente e corréus teriam subtraído um aparelho celular da vítima mediante grave ameaça exercida com a posse de arma branca. A res furtiva foi apreendida em poder da corré e todas foram reconhecidas pelo ofendido como as autoras do delito. Assim, as alegadas condições pessoais favoráveis da paciente, em homenagem ao princípio da proporcionalidade, ficam mitigadas diante do interesse coletivo em razão das circunstâncias da prisão e da gravidade dos fatos narrados nos autos. Desta forma, melhor e mais razoável a manutenção da custódia cautelar, ao menos por ora, para observância do devido processo legal.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
