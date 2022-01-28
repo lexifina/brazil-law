@@ -1,0 +1,65 @@
+TUTELA PROVISÓRIA DE URGÊNCIA EM AÇÃO CÍVEL ORIGINÁRIA. DIREITO CONSTITUCIONAL E FINANCEIRO. OPERAÇÕES DE CRÉDITO REALIZADAS POR ESTADO MEMBRO. CONCESSÃO DE GARANTIA PELA UNIÃO FEDERAL. PROBABILIDADE DO DIREITO E PERIGO DE DANO OU RISCO AO RESULTADO ÚTIL DO PROCESSO. REQUISITOS DO ART. 300 DO CPC/2015. TUTELA PROVISÓRIA DE URGÊNCIA PARCIALMENTE DEFERIDA.
+
+    Vistos etc.
+
+    Trata-se de ação cível originária, com pedido de tutela provisória de urgência, ajuizada pelo Estado do Acre em face da União Federal, via da qual se questionam exigências impostas pela Secretaria do Tesouro Nacional para a concessão de garantias em dois contratos de operações de crédito (empréstimos) entabulados entre a autora e a Caixa Econômica Federal (contratos 354.430-78 e 358.927-65).
+
+    Narra-se que o Estado autor negociou referidos contratosjunto à CEF durante todo o ano de 2021, no valor de R$ 100.000.000,00 (cem milhões de reais), voltados à amortização e à restruturação de sua dívida pública, bem como para financiar projetos no âmbito do Programa de Financiamento à Infraestrutura e ao Saneamento – FINISA. Na fase de obtenção de garantia, a STN concluiu, em 24.11.2021, pelo cumprimento dos requisitos legais, com endosso do Secretário Especial do Tesouro e Orçamento do Ministério da Economia, em 20.12.2021 (18567/2021/ME). Todavia, tendo em vista que não ocorreu a conclusão da operação de crédito no exercício de 2021, a STN teria exigido, já no corrente ano de 2022, ‘verificação complementar’ dos requisitos aprovados no ano pretérito. Ocorre que na análise da documentação complementar, a STN teria constatado o descumprimento do limite mínimo de gastos em educação (art. 212 da Constituição Federal) no exercício de 2021 (comprovado o investimento de 24,46%, ao invés dos 25% constitucionalmente exigidos) e condicionado, a análise da concessão da garantia, à superação dos óbices.
+
+    Argumenta-se indevida a nova exigência (complementar) da STN, porquanto o Estado autor não seria responsável pela não conclusão das operações de crédito no ano pretérito (tendo comprovado o investimento mínimo em educação no ano 2021, pertinente ao exercício de 2020, conforme exigido à época). Aduz-se que a STN informou, em reunião datada de 25.01.2022, que caso não superado óbice até 30.01.2022, será necessário o refazimento mais amplo do processo de operação de crédito, com escrutínio, outra vez, dos documentos já apesentados (no ano de 2021), em razão da mudança do exercício fiscal (Ofício SEI nº 19020/2022/ME). Defende-se o ‘abuso procedimental’ pela exigência de requisitos já aferidos, bem como violações dos princípios do devido processo legal, da proteção da confiança e da cooperação federativa: ‘(…) a solicitação de nova documentação relativa a outro exercício fiscal num processo cujas exigências normativas já foram atingidas e formalizadas, importa em verdadeira violação ao devido processo legal e ao princípio da proteção da confiança, em abuso procedimental que tem a potencialidade de prejudicar o atingimento do interesse público, bem como frustra uma justa expectativa de créditos que haviam sido previamente confirmados pelo órgão competente da União’. Enfatiza-se desarrazoada a verificação complementar no presente caso, ‘em que a contratação deixou de se concretizar não por culpa do ente federado solicitante, mas da própria União’. Aponta-se, quanto ao óbice de não atingimento do percentual mínimo de aplicação de recursos em educação no exercício de 2021, violação do princípio da proporcionalidade, bem como formalismo imotivado (razoabilidade), presente a possibilidade de compensar o percentual a menor (diferença de 0.54%) no trimestre seguinte (primeiro trimestre de 2022). Esclarece-se que a diferença a menor não decorreu de má-fé, mas fruto das intercorrências da COVID-19, particularmente, do atraso que o vírus ocasionou para o início do ano letivo de 2021.
+
+    A autora formula pedido de tutela provisória de urgência voltado a obter a continuidade da análise da operação de crédito pela STN, sem a exigência da verificação complementar imposta. Sucessivamente, postula que a União dê continuidade à análise da garantia da operação de crédito apenas para excluir, da verificação complementar, o óbice do descumprimento do limite mínimo de gastos em educação (CF, art. 212) no exercício de 2021, dispensando-a de apresentar (nova) certidão do TCE sobre esse ponto. Formulados, ipsi litteris, os seguintes requerimentos em sede de tutela provisória de urgência:
+
+    Neste contexto, presentes os pressupostos da probabilidade do direito e do perigo de dano e de risco ao resultado útil do processo, requer o Autor seja concedida tutela provisória de urgência, em caráter liminar inaudita altera parte para determinar à União, sob pena de multa diária a ser fixada por Vossa Excelência, que: a) abstenha-se de exigir verificação complementar relativa a documentos já apresentados pelo Estado do Acre em 2021 no Processo SEI nº 17944.101586/2021-12, determinando a continuidade do procedimento com a prática dos atos subsequentes ao ato que verificou o cumprimento dos requisitos prévios à contratação por meio do Parecer SEI nº 18567/2021/ME (aprovado pelo Secretário Especial do Tesouro e Orçamento do Ministério da Economia - DOU nº 239, de 21/12/2021), até a assinatura dos contratos de garantia e contragarantia com o Estado do Acre; ou b) subsidiariamente, requer seja afastado o óbice relativo ao descumprimento do limite mínimo de gastos em educação (art. 212 da Constituição Federal) no exercício de 2021, considerando a possibilidade de compensação da diferença de percentual no exercício de 2022, para determinar à União que proceda, independente da data da nova análise das condições e limites, à Verificação Complementar no Processo SEI nº 17944.101586/2021- 12, abstendo-se de exigir nova Certidão do TCE/AC.
+
+    Autos distribuídos ao Ministro Nunes Marques e conclusos à Vice-Presidência em 26.01.2002, na forma do art. 13, VIII, c/c art. 14, RISTF (evento 20).
+
+    É o relatório.
+
+    Decido.
+
+    O Parecer SEI 18.567/2021/ME/STN, de 24.11.2021, concluiu que o Estado autor cumpre os requisitos para a contratação da operação de crédito e à obtenção de garantia entabuladas, nos termos do artigo 32 da LRF. O Parecer (aprovado Secretário Especial do Tesouro e Orçamento em 20.12.2021), tem validade de 270 dias, ou seja, está em vigor (eventos 06 e 08).
+
+    Já no Ofício SEI 19020/2022/ME, de 24.01.2022, da STN, está explicitado que caso a operação de crédito não seja formalizada antes do 270 dias de vigência daquele Parecer, será necessária (nova) verificação completa dos seus requisitos (evento 15).
+
+    Por ora, a ‘verificação complementar’ requerida pela STN (motivada pela mudança de exercício financeiro), impõe a reapresentação de 3 documentos: 1. Parecer Jurídico e Declaração do Chefe do Poder Executivo, considerando o exercício anterior como 2021 e o exercício corrente como 2022. 2. Certidão emitida pelo Tribunal de Contas atestando o cumprimento do investimento em educação no exercício de 2021 (art. 212 da CF). 3. Nova minuta do contrato de financiamento, com atualizações.
+
+    Sobre o item 2, a STN apontou: ‘A Certidão emitida pelo Tribunal de Contas competente atestou o descumprimento do limite mínimo de gastos em educação (art. 212 da Constituição Federal) no exercício de 2021. Dessa forma, a continuidade da análise está condicionada à superação desse óbice’ (destaquei).
+
+    Consta da mesma manifestação da STN que caso não se cumpra a verificação complementar até 30.01.2022, a requerente terá que comprovar outros requisitos de ordem orçamentária/fiscal (listadas no item 2 do referido ofício), capazes de retroceder a análise do financiamento a etapas já superadas no exercício de 2021 (art. 167, III, e art. 167-A, da CF). Portanto, o prazo anotado (até 30.01.2022), justifica a atuação em regime de plantão, presente a necessidade de ‘decidir questões urgentes nos períodos de recesso ou de férias’ (art. 13, VIII, c/c art. 14, RISTF).
+
+    Posto isso, passo a analisar o pedido de tutela de urgência, o qual pressupõe, nos termos do artigo 300 do CPC/2015, a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+
+    No presente caso, em exame perfunctório e sem prejuízo do ulterior avaliação do Ministro Relator da causa, reputo evidenciados os requisitos para concessão parcial da tutela provisória de urgência.
+
+    Realmente, conquanto se revele demasiadamente ampla a intenção de não submissão a qualquer tipo de verificação complementar, reputo viável o acolhimento do pleito sucessivo para que seja afastado o óbice relativo ao descumprimento do limite mínimo de gastos em educação no exercício de 2021 (art. 212 da Constituição Federal), sob a condição de que que o Estado autor compense a diferença no presente exercício (no modo em que informa na inicial).
+
+    A titulo de probabilidade do direito, identifico indiciária violação do princípio da eficiência pela perspectiva de se repetir a análise de um rol de exigências já recentemente aferidas.  Sobrelevo estar atestada, no âmbito da STN, a elegibilidade do Estado para as operações de crédito.
+
+    Dou ênfase ao fato de que a elegibilidade do Estado autor (atestada, como dito, pela STN) se encontra com eficácia temporal vigente. Nessa ótica, vai na contramão do princípio da confiança legítima a STN reconhecer a elegibilidade do autor e, ao mesmo tempo, submetê-lo a uma ampla verificação complementar sobre documentos e dados já analisados recentemente.
+
+    Ainda sob esse ângulo do formalismo procedimental, identifico ranhura no modelo de federalismo de cooperação pela capacidade de se frustrar uma legítima expectativa de recebimento de recursos públicos, já projetados. E, como consequência indesejável, há risco de continuidade às políticas públicas para as quais destinados os recursos, em prejuízo da previsibilidade orçamentária. Sobre a concretização do federalismo cooperativo nos conflitos interinstitucionais, anotei na ADPF 848/DF, da minha relatoria:
+
+    ‘(…) o modelo federativo impõe a observância da ética da solidariedade e do dever de fidelidade com o pacto federativo. O espírito do federalismo deve orientar a atuação coordenada das pessoas estatais no sentido de fortalecer a autonomia de cada ente político e favorecer o triunfo dos interesses comuns a todos. Conflitos federativos eventualmente existentes devem ser solucionados tendo como norte a colaboração recíproca para a superação de impasses, o primado da confiança e da lealdade entre as unidades federadas e a preferência às soluções consensuais e amistosas em respeito aos postulados da subsidiariedade e da não intervenção’.
+
+    Paralelamente, a jurisprudência desta Suprema Corte orienta para a remoção de formalidades que impeçam repasses de verbas federais voltadas à execução políticas públicas, como se apresenta no presente caso: ‘O Supremo Tribunal Federal (...) tem ordenado a liberação e o repasse de verbas federais (ou, então, determinado o afastamento de restrições impostas à celebração de operações de crédito em geral ou à obtenção de garantias), sempre com o propósito de neutralizar a ocorrência de risco que possa comprometer, de modo grave e/ou irreversível, a continuidade da execução de políticas públicas ou a prestação de serviços essenciais à coletividade’. Precedentes.” (ACO 2131 TA-Ref, Rel. Min. Celso de Mello). No mesmo sentido: AC 2971 MC-REF (Rel. Min. Celso de Mello); AC 2636 MC-REF (Relª. Min. Cármen Lúcia);  AC 1271 MC (Rel. Min. Eros Grau); e ACO 3271 (da minha relatoria).
+
+      Quanto ao perigo de dano, é intuitivo que o prolongamento da conclusão da operação de crédito acarreta prejuízos à população acreana e demandará nova inversão de tempo, força de trabalho e dinheiro públicos para refazer etapas já superadas do itinerário procedimental. Nesse sentido, a comunicação da STN de que o não cumprimento da exigência até o dia 30.01.2022 retomará a operação de crédito a fases anteriores (exauridas em 2021) é por si só identitária da urgência do provimento.
+
+    Ante o exposto, defiro parcialmente a tutela de urgência para determinar que a ré se abstenha de negar a concessão de garantias referentes às operações de crédito listadas na inicial (contratos 354.430-78 e 358.927-65), em razão da não apresentação da certidão do TCE quanto ao cumprimento do investimento mínimo na educação referente ao ano de 2021 (CF, art. 212), condicionada, todavia, a que o Estado autor compense a diferença no primeiro trimestre do corrente exercício de 2022 (art. 4º, § 4º, da Lei n. 7.348/85; e arts. 69, § 4º e § 5º, III, da Lei n. 9.394/96).
+
+    Comunique-se, com urgência, inclusive por meio eletrônico, à Secretaria do Tesouro Nacional.
+
+    Cite-se o réu para que, querendo, apresente resposta no prazo legal.
+
+    Findo o recesso, encaminhem-se os autos ao Ministro Relator.
+
+    Publique-se. Intime-se.
+
+    Brasília, 28 de janeiro de 2022.
+
+Ministra Rosa Weber
+
+Vice-Presidente
+
+(art. 14 c/c art. 13, VIII, do RISTF)
