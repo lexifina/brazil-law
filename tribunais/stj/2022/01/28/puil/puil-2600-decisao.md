@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de pedido de uniformização de interpretação de lei, com pedido de liminar, apresentado por GRASIELE OLIVEIRA SANTOS, contra decisões proferidas por Turmas Recursais de Juiz de Fora.
+Alega, em suma, que (fls. 3-14):
+A autora foi aprovada no concurso público de provas e títulos, Edital nº 001/2008, para o cargo de Professora de Educação Básica II - Português, tendo sido empossada em 16/02/2009. Atualmente, a autora se encontra lotada no Colégio Municipal São José.
+ ..
+No Id 184132572 o Município de Santos Dumont interpôs Recurso Inominado para Turma Recursal de Juiz de Fora. Contrarrazões apresentadas no Id 184132580. A parte autora informou na petição de Id 276509116, que outros processos envolvendo o mesmo Estatuto do Magistério, mesmo concurso da autora, haviam sido procedentes pela turma recursal, anexando os Acórdãos e Votos (Id 276509119, Id 276509120, Id 276509121 e Id 276509123), inclusive PELA 1ª TURMA RECURSAL DE JUIZ DE FORA.
+Para desespero da autora, no dia 13/09/2021, foi julgado o recurso, através do Acórdão de Id 288144142, onde a 1ª Turma Recursal DEU PROVIMENTO AO RECURSO, fundamentando que deve incidir apenas o segundo diploma legal que prevê a percentagem de 5% a título de quinquênios.
+A parte autora interpôs Embargos de Declaração no Id 294064139, anexando todas as decisões favoráveis, inclusive de professoras de Língua Portuguesa aprovadas no mesmo concurso da autora, solicitando a reforma do Acórdão. Em decisão de Id 354299159, a Turma Recursal não acolheu os embargos declaratórios.
+Assim, havendo contrariedade entre a decisão apresentada no presente feito, e as decisões de 1º Grau e das Turmas Recursais em ação idêntica, cabe o presente pedido de uniformização, a ser julgado e provido.
+ ..
+É cabível o incidente de uniformização de jurisprudência nos Juizados Especiais da Fazenda Pública quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material, conforme a previsão do artigo 18 da Lei 12.153/09.
+Assim, é cabível e legal o incidente nacional de uniformização de jurisprudência, que deve ser recebido e julgado, conforme §1º do art. 18 da Lei 12.153/09.
+ ..
+Diante do todo exposto, comprovado as divergências e contradições do acórdão recorrido e dos acórdãos paradigmas, requer-se o provimento do presente incidente, com a reforma da decisão impugnada, tendo por finalidade: 1. Sanar a contradição apontada no acórdão revisado para UNIFORMIZAR A JURISPRUDÊNCIA com o intuito de ver o direito da autora ao recebimento do quinquênio no percentual de 10% (dez por cento).
+É, no essencial, o relatório. Decido.
+De plano, importa destacar que o STJ possui o entendimento de que os pedidos de uniformização de interpretação de lei no âmbito dos Juizados Especiais da Fazenda Pública, dirigidos ao Superior Tribunal de Justiça, devem ser suscitados perante a Turma Recursal de origem.
+Esse é o entendimento que se extrai do art. 18 da Lei n. 12.153/2009, c/c o art. 12 do Provimento 7, de 7/5/2010, do Conselho Nacional de Justiça, conforme pode ser verificado adiante:
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º. O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º. No caso do § 1º, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º. Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Art. 12. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais da mesma unidade da federação sobre questões de direito material.
+ ..
+§ 3º O recurso será dirigido ao Presidente da Turma de Uniformização e interposto no prazo de 10 (dez) dias, contados da publicação da decisão que gerou a divergência, por petição escrita e assinada por advogado ou procurador judicial.
+No caso dos autos, a parte autora, contudo, deixou de observar, especificamente, tal requisito, uma vez que interpôs o presente incidente diretamente no STJ, e não no órgão de origem, consoante certidão à e-STJ, fl. 160.
+No mesmo sentido, as seguintes decisões monocráticas: PUIL 1.445/BA, Rel. Min. Maria Thereza de Assis Moura, DJe 2/8/2019; PUIL 775/PR, Rel. Min. Sérgio Kukina, DJe 2/5/2018; PUIL 162/SP, Rel. Min. Assusete Magalhães, DJe de 3/5/2017.
+Nesse diapasão, segue o seguinte julgado:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. PEDIDO NÃO SUSCITADO PERANTE A TURMA RECURSAL DE ORIGEM. PROVIMENTO CNJ N. 7 DE 7.5.2010. PEDIDO DE UNIFORMIZAÇÃO NÃO CONHECIDO. DECISÃO Trata-se de pedido de uniformização, com base no art. 18, § 3º, da Lei n. 12.153/2009, apresentado por Alexandre da Silva e outros em face de acórdão, proferido pela 4ª Turma Recursal do Tribunal de Justiça do Estado do Paraná, nestes termos ementado:
+RECURSO INOMINADO. SERVIDOR PÚBLICO. MUNICÍPIO DE MARINGÁ. REVISÃO DE PROGRESSÃO FUNCIONAL. PRETENSÃO DE MUDANÇA DO TERMO INICIAL DA PROGRESSÃO. IMPOSSIBILIDADE DE DISCUSSÃO DO MÉRITO. PRESCRIÇÃO DE FUNDO DE DIREITO. SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS. Precedentes: RI nº 0016743-83.2018.8.16.0018 e 0005749-33.2016.8.16.0190. Recurso desprovido.
+Os requerentes alegam que são servidores públicos estatutários municipais de Maringuá/PR. Sustentam ter demandado ação ordinária contra o Município com o fim de obterem revisão de progressão funcional nos termos das LM n. 239/1998 e 240/1998. Ressaltam que a sentença foi de improcedência por ocorrência de prescrição do fundo de direito. Aduzem que o consequente recurso inominado sequer teve mérito analisado, apesar do entendimento jurisprudencial da própria Turma Recursal. Alegam, em síntese, que (e-STJ fl. 6): "O referido acórdão aqui atacado, além de contrariar decisões e súmula do próprio STJ, também contraria decisões da mesma Turma Recursal em casos iguais e repetitivos." Defendem a não ocorrência da prescrição do fundo de direito declarada pela sentença, pois os reajustes repercutem de forma sucessiva.
+No âmbito do Superior Tribunal de Justiça, o Ministério Público Federal manifestou-se pelo não conhecimento do pedido de uniformização.
+É o relatório. Passo a decidir.
+Com efeito, o art. 19 da Lei n. 12.153/2009 possibilita, à parte interessada, a provocação do STJ para se manifestar nos casos de divergência de questões de direito material sobre a aplicação de suas súmulas no âmbito de Turmas Recursais de um mesmo Estado.
+Contudo, esse pedido não pode ser realizado de forma direta para o STJ conforme o art. 12, § 3º, do Provimento n. 7/2010 do CNJ (alterado pelo Provimento n. 22/2012). De fato, o pedido dirigido ao STJ deve ser suscitado perante a Turma Recursal de Origem. Confia-se:
+Art. 12. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais da mesma unidade da federação sobre questões de direito material.  ..  § 2º O pedido de uniformização atenderá o disposto nos artigos 18 e 19 da Lei nº 12.153 de 22 de dezembro de 2009. § 3º O recurso será dirigido ao Presidente da Turma de Uniformização e interposto no prazo de 10 (dez) dias, contados da publicação da decisão que gerou a divergência, por petição escrita e assinada por advogado ou procurador judicial.
+Nesse sentido: PUIL n. 1.596/MG, Rel(a) Ministra ASSUSETE MAGALHÃES, DJe 29/11/2019; PUIL n. 775/PR, Rel. Ministro SÉRGIO KUKINA, DJe 02/05/2018. Ante o exposto, não conheço do pedido de uniformização.
+Publique-se. Intimem-se.
+(PUIL 1.595/PR, Rel. Min. MAURO CAMPBELL MARQUES, DJe 19/12/2019)
+Ante o exposto, com fulcro no art. 34, XVIII, "a", do RISTJ, não conheço do pedido,prejudicado o exame do pedido liminar.
+Publique-se. Intimem-se.
