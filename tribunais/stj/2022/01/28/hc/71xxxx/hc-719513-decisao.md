@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de JEFERSON DE OLIVEIRAem que se aponta como autoridade coatora Desembargador doTribunalde Justiça do Estado de Santa Catarina (Habeas Corpus n. 5002041-40.2022.8.24.0000/SC).
+O paciente foi preso em flagrante por suposta prática dodelitode tráfico de drogas,sendo a prisão em flagrante convertida em preventiva.
+A defesa impetrou préviohabeascorpus, cujo pleito liminar foi indeferido pelo desembargadorrelator.
+O impetrante sustenta que o enunciado n. 691 da Súmula do Supremo Tribunal Federal deve ser mitigado, tendo em vistaa carência de motivação idônea para a decretação e a manutenção da constrição cautelar dopaciente, ante a ausência dos requisitos autorizadores da medida extrema.
+Defende que a quantidade da droga apreendida,ainda que se trate de agente reincidente, não pode ser considerada significativa a ponto de justificar a segregação antecipada.
+Aponta a excepcionalidade da prisão preventiva, bem como a possibilidade e suficiência daaplicação de medidas cautelares diversas da prisão, à luz do art. 319 do Código de Processo Penal.
+Requer, liminarmente e no mérito, asubstituiçãoda custódia por medidas cautelares alternativas.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que, ainda, não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. SUPOSTO EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n. 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço. Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, tendo em vista que variam conforme as peculiaridades de cada processo, razão pela qual a jurisprudência uníssona os tem mitigado, à luz do Princípio da Razoabilidade. Na hipótese, verifica-se, em juízo preliminar, que o feito é complexo, tendo em vista a pluralidade de réus - cinco -, que foram surpreendidos transportando elevada quantidade de entorpecente, o que afasta, em princípio, o excesso de prazo sustentado pela Defesa.
+3. Também não se pode desconsiderar as penas em abstrato atribuídas aos delitos imputados na denúncia (tráfico e associação para o tráfico de drogas), o que demonstra que a prisão cautelar não é, em tese, desproporcional.
+4. Ademais, não se verifica a ocorrência de flagrante ilegalidade na decisão proferida pelo Desembargador Relator que, ao indeferir o pedido liminar, entendeu adequada a prévia solicitação de informações ao Juízo singular, antes da análise, de maneira definitiva, da alegada desídia estatal na condução do feito.
+5. Agravo regimental desprovido.
+(AgRg no HC 705.588/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 14/12/2021, DJe 17/12/2021)
+Confira-se, também, a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto foram declinados os fundamentos para o indeferimento da liminar pleiteada na origem, consoante se extrai daseguintepassagem(fl. 17):
+A concessão de liminar em habeas corpus é providência excepcional e faculdade do magistrado, sobretudo porque se trata de criação jurisprudencial, de modo que é reservada apenas para as hipóteses de manifesta ilegalidade, desde que alinhados os requisitos da plausibilidade jurídica do pedido e do perigo da demorada prestação jurisdicional.
+No caso em tela, não sobressai uma situação de perigo de grave lesão ou de difícil reparação, mormente porque os fundamentos que amparam o pedido de deferimento da medida liminar são similares àqueles que embasam o pleito final de concessão da ordem, motivo pelo qual a apreciação deverá ser efetuada pelo Órgão Colegiado, a quem compete a prestação jurisdicional buscada por meio desta ação.
+Confira-se, ainda, o que o Juízo de primeira instância consignou ao convertera prisão em flagrante em preventiva (fls. 13/16):
+(..) a materialidade e os indícios de autoria do delito estão demonstrados pelo depoimentos dos condutores, auto de exibição e apreensão e auto de constatação da droga apreendida. Os policiais militares que efetuaram a prisão relataram que o estavam monitorando o Residencial Milano, conhecido ponto de tráfico de drogas, e verificaram o conduzido durante o comércio de drogas. Tentaram abordá-lo pela manhã, mas empreendeu fuga. Afirmou que, no final da tarde, conseguiram prendê-lo na posse de dinheiro e drogas (4 pedras de crack e R$ 108,00 em notas pequenas).
+(..)
+Outrossim, anoto que prisão em flagrante deve ser convertida em preventiva quando convergentes os requisitos consistentes em condições de admissibilidade, indicativos de cometimento de crime (fumus comissidelicti), risco de liberdade (periculum libertatis) e proporcionalidade, conforme arts. 282, I e II, 312 e 313 do Código de Processo Penal.
+Quanto ao primeiro pressuposto, constato que a situação versa sobre crime doloso punido com pena privativa de liberdade máxima superior a 4 (quatro)anos (art. 313, I, do CPP).
+No tocante ao segundo requisito, por sua vez, destaco que há prova da ocorrência de fato típico, ilícito e culpável e, também, indícios suficientes para imputabilidade perfunctória da autoria ao agente, porquanto flagrado na atividade espúria de drogas em localidade conhecida pela traficância.
+No concernente ao terceiro requisito, assinalo que a prisão preventiva somente é cabível quando presente o perigo de liberdade (periculum libertatis), ante a insuficiência das medidas alternativas, conforme art.282, § 6.º, do CPP, na redação dada pela Lei nº 13.964/2019.
+No caso concreto, observo que o conduzido já foi anteriormente condenado pelo crime de homicídio, inclusive está em gozo de liberdade condicional, consoante atestam as certidões de antecedentes juntadas no Evento 3.
+Além disso, há suspeita do envolvimento do conduzido com organização criminosa, uma vez que supostamente desempenhava o tráfico de drogas no Residencial Milano, na Comarca de Gaspar, conhecido ponto de tráfico de drogas dominado por esse tipo de facção.
+Com efeito, esses elementos indicam que o conduzido tem por hábito a prática de delitos e, aparentemente, faz deles um meio de vida, de modo que é muito provável que volte a delinquir caso seja posto em liberdade.
+Assim, a conversão do flagrante em preventiva é a única forma de garantir a ordem pública.
+(..)
+Assim, a prisão é necessária para garantia da ordem pública e o perigo gerado pelo estado de liberdade do investigado ressalta das circunstâncias acima descritas, mormente a probabilidade concreta de reiterar em prática criminosa. Logo, a prisão é necessária para evitar que o réu pratique novamente o delito.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
