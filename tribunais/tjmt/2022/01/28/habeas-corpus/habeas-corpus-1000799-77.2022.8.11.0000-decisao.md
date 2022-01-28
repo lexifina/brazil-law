@@ -1,0 +1,27 @@
+PRIMEIRA CÂMARA CRIMINAL
+HABEAS CORPUS No 1000799-77.2022.8.11.0000 - CLASSE CNJ – 307 - COMARCA DE RONDONÓPOLIS
+IMPETRANTE(S): DRA. BRENDA FERREIRA BARBOSA
+PACIENTE(S): CAMILA MELO RIBEIRO
+DECISÃO INTERLOCUTÓRIA
+Vistos,
+Habeas Corpus impetrado em favor de CAMILA MELO RIBEIRO contra ato comissivo do Juízo da 5a Vara Criminal da Comarca de Rondonópolis, nos autos de incidente processual (PJE – no 1001015-29.2022.8.11.0003), que converteu o flagrante em prisão preventiva pelo cometimento, em tese, de tráfico de drogas - art. 33, caput, da Lei no 11.343/2006 - (www.tjmt.jus.br).
+A impetrante sustenta que: 1) a decisão constritiva não estaria fundamentada em pressupostos da custódia cautelar; 2) a paciente possui condições pessoais favoráveis, por ser primária, ter bons antecedentes, residência fixa e ser mãe de 3 (três) filhos menores de 12 (doze) anos de idade; 3) as medidas cautelares diversas da prisão seriam suficientes.
+Requer a concessão da ordem liminarmente para que seja outorgada liberdade provisória à paciente, mediante aplicação de medidas cautelares (ID 115598963), com documentos (ID 115598964/ ID 115598970).
+Relatos.
+Em 20.1.2022, o Juízo singular, a requerimento do Ministério Público de primeiro grau, converteu o flagrante em prisão preventiva com a seguinte fundamentação:
+“[...] No caso ora analisado, há provas da materialidade delitiva e indícios suficientes de autoria, notadamente, conforme se verifica do Termo de Exibição e Apreensão, bem como pelo Laudo de Constatação no 200.2.04.2022.000550-01, que atestou que o material corresponde a 02 (dois) tabletes com massa bruta total de 2099,21g (dois mil e noventa e nove gramas e vinte e um centésimo do grama) resultou positivo para COCAÍNA e 01 (uma) porção de material vegetal com massa bruta de 491,50g (quatrocentos e noventa e um gramas e cinquenta centésimos do gramo) resultou positivo para MACONHA, além dos depoimentos dos policiais, que relataram ter efetuado a prisão em flagrante da indiciada.
+Por outro lado, faço destaque a informação constante do caderno informativo, pois a própria autuada confirma que ela e sua sobrinha J. C. C. F., (16 anos), pegaram as substâncias entorpecentes de um desconhecido no Posto Caramujo no Município de Cárceres/MT e levariam para a Cidade de Rio Verde/GO para entregar a um indivíduo na rodoviária, que lhe pagaria a quantia R$ 2.000,00 (dois mil reais) e para a menor o valor de R$1.000,00 (hum mil reais) em dinheiro.
+Além disso, a indiciada e sua sobrinha estavam com seus filhos no colo durante a viagem, sendo orientada a fazer isso para disfarce.
+Ademais disso, compulsando os autos e diante das declarações prestadas pelos policiais que atenderam a ocorrência, sobretudo, pelo teor do Boletim de Ocorrência, verifica-se que imprescindível se faz a segregação cautelar do indiciada, embora não possua antecedentes criminais, a mesma estava levando consigo uma expressiva quantidade de drogas, violando a Lei Penal, desafiando o Sistema de Justiça vigente, além de estar corrompendo famílias e até mesmo o seu filho de apenas 02 (dois) anos, tudo para a obtenção de lucro fácil. [...]
+ISTO POSTO, com fundamento nos Artigos 310, II, 312, § 1o, § 2o e 313, I e III, ambos do Código de Processo Penal, DECRETO A PRISÃO PREVENTIVA de CAMILA MELO RIBEIRO [...].” (Maria Mazarelo Farias Pinto, juíza de Direito – ID 115598964).
+A decisão constritiva está fundamentada na garantia da ordem pública, consubstanciada em indicativos de envolvimento da paciente no transporte de 2.099kg (dois quilos e noventa e nove gramas) de cocaína e 491,50g (quatrocentos e noventa e um gramas e cinquenta centigramas) de maconha, em ônibus coletivo da empresa “Útil”, que se deslocava de Cuiabá/MT para Goiânia/GO, na BR 364, em Rondonópolis/MT.
+A natureza, diversidade e quantidade de entorpecentes apreendidos - 2.099kg (dois quilos e noventa e nove gramas) de cocaína e 491,50g (quatrocentos e noventa e um gramas e cinquenta centigramas) de maconha - justificam a segregação cautelar para garantia da ordem pública (STJ, AgRg no RHC 134.471/SC - Relator: Min. Reynaldo Soares da Fonseca - 7.12.2020; AgRg no RHC 142.118/PE – Relator: Min. Reynaldo Soares da Fonseca - 19.3.2021).
+No tocante aos predicados pessoais [primariedade, endereço certo e ocupação lícita], não ensejam, por si só, a revogação da custódia provisória, conforme pacífica posição jurisprudencial do c. STJ (HC no 369.027/SP - Relator: Min. Sebastião Reis Júnior - 16.12.2016; RHC 119.881/SP - Relator: Min. Reynaldo Soares da Fonseca - 17.12.2019).
+Essa matéria está consolidada neste e. Tribunal pelo Enunciado Criminal 43: [“as condições pessoais favoráveis não justificam a revogação, tampouco impedem a decretação da custódia cautelar, quando presente o periculum libertatis”].
+Ao avaliar aplicabilidade de medidas cautelares diversas à prisão (CPP, art. 282, § 6o c/c art. 319), não se evidencia suficiência/adequação para preservar a ordem pública, ao se considerar que o crime teria sido cometido na presença do filho da paciente, com 2 (dois) anos de idade, a demonstrar maior reprovabilidade da conduta e recomendar a manutenção do ato constritivo, ao menos em análise perfunctória (TJRS, HC no 70082949751 - Relator: Des. Maria de Lourdes G. Braccini de Gonzales - 24.10.2019).
+Com essas considerações, INDEFERE-SE o pedido liminar.
+Outrossim, COMUNIQUE-SE ao Juízo singular sobre esta impetração, facultadas informações, no prazo de até 5 (cinco) dias.
+Após, VISTA à i. PGJ.
+Cumpra-se.
+Cuiabá, 28 de janeiro de 2022.
+Des. MARCOS MACHADO
