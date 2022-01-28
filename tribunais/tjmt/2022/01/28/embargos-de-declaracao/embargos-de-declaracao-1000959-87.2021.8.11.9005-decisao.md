@@ -1,0 +1,25 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+COMARCA DE CUIABÁ
+Primeira Turma Recursal Temporária
+Dr. Sebastião de Arruda Almeida – Juiz de Direito/Relator
+EMBARGOS DE DECLARAÇÃO nos autos do Mandado de Segurança n.o 1000959-87.2021.8.11.9005
+EMBARGANTE: RAMA MADEIRAS LTDA - EPP
+Vistos, etc.
+Constam dos autos, para deliberação deste Relator, Embargos de Declaração opostos pela parte impetrante RAMA MADEIRAS LTDA – EPP (ID 115380956), alegando omissão na decisão apreciadora do pedido de liminar constante do ID 114522450. Alega-se a ausência de manifestação acerca do pleito de realização de perícia técnica, visando apurar o exato volume da madeira aprendida por Órgão Ambiental.
+Pelos registros processuais, observa-se a tempestividade da peça embargatória.
+Também, pende de apreciação a informação trazida pelo Juízo Especial Criminal monocrático (ID 115610477) onde consigna que “por força do tempo chuvoso e que o material ficar sujeito às intempéries advindas, as madeiras apreendidas perecerão em breve. Saliente -se que, uma vez aferida a carga de madeiras por agentes especializados do INDEA, este magistrado não possui conhecimento de outros profissionais ou órgãos que possam realizar nova diligência. Isto posto, já demonstrado que, pelo excesso de materiais no depósito e pela morosidade do procedimento de alienação, a eventual venda informada não poderá ser realizada, de modo que este juiz aguarda orientações detalhadas de como proceder para que a madeira não pereça.”.
+Essas são as pendências judiciais a serem decididas por este Relator.
+Pois bem. Em relação à insurgência da parte impetrante quanto à apreciação do seu pleito liminar de realização de perícia técnica para apuração do exato volume do produto vegetal apreendido, tenho que devem ser acolhidos os embargos declaratórios, pois, nada foi mencionado quanto à tal providencia.
+Contudo, quanto ao aludido pedido judicial, tenho que não pode ser acolhido por este Relator, eis que tal produção probatória deve ser relegada para a fase instrutória própria do procedimento criminal instaurado contra a parte impetrante.
+Com efeito, eventual exame perícia na fase embrionária do procedimento investigatório que, sequer, alcançou audiência preliminar, implicaria em adiantar a apreciação meritória da imputação da prática de crime ambiental, fundada, exatamente, nos indícios de transporte de madeira com volumetria irregular. Portanto, se trata de debate judicial incabível pela via estreita do presente “mandamus”.
+Desse modo, acolho os declaratórios para indeferir o pedido de concessão liminar de realização de perícia técnica para apuração da exata volumetria da madeira apreendida em desfavor da parte impetrante.
+No que concerne à manifestação do Juízo Especial Criminal monocrático (ID 115610477) de que não se vislumbra a possibilidade de alienação do produto vegetal apreendido, por “não possui conhecimento de outros profissionais ou órgãos que possam realizar nova diligência” e “pelo excesso de materiais no depósito e pela morosidade do procedimento de alienação”, permito-me lançar um olhar judicial diferente, sem qualquer embargo pessoal ao entendimento administrativo consignado.
+É que, pelos registros processuais constantes dos autos principais (Termo Circunstanciado n.o 1004931-05.2021.8.11.0004 – ID 73417590), verifica-se que o Juízo Especial Criminal solitário já determinou a avaliação da madeira, restando evidente que, para a sua alienação judicial, bastará seguir a trilha dos critérios informadores do procedimento que trafegue no âmbito do Sistema do Juizado Especial Criminal, quais sejam, o da oralidade, simplicidade, informalidade, economia processual e celeridade (Lei n.o9.099/95, art. 62).
+Ainda, em consulta aos Atos Administrativos emitidos pela Diretoria do Fórum da Comarca de Barra do Garças, depara-se com o Edital n.o 02/2019-DF, em que constam leiloeiros credenciados (WELLINGTON MARTINS ARAUJO, registro JUCEMAT no 17 e FAMATO no 61 e JOSÉ PEDRO ARAÚJO, registro JUCEMAT no 25 e FAMATO no 65). Nesse mesmo Ato Administrativo se tem a previsão de alienações judiciais presenciais, eletrônicas, ou mistas – art. 2.o, parágrafo 1.o).
+Desse modo, visando esclarecer a dúvida levantada pelo Juízo Especial Criminal monocrático, a respeito do destino a ser dado à madeira apreendida, este Relator mantém o posicionamento judicial de alienação da mesma, indicando, porém, o caminho da prática de atos procedimentais autorizados pelos critérios informadores do juizado especial criminal, com avaliação (já determinada judicialmente) e nomeação de um dos leiloeiros credenciados que, mediante remuneração pelo produto alienado, poderá empreender a venda em tempo breve, conforme for estipulado pelo Juízo Monocrático, cuja deliberação judicial este Relator deixa a seu critério, por respeitar a realidade daquela Unidade Jurisdicional.
+Por não possuir outras pendências instrutórias, este Feito Judicial já está na listagem de inclusão na Pauta de Julgamentos deste Colegiado Recursal.
+Tomem-se as demais providências de estilo.
+Intime-se. Oficie-se. Cumpra-se.
+Dr. Sebastião de Arruda Almeida
+Juiz de Direito – Relator
