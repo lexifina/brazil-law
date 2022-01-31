@@ -1,0 +1,13 @@
+VISTOS.
+Trata-se de recurso especial, com pedido de efeito suspensivo, interposto por ESPÓLIO DE NERERU ALBERTON, contra acórdão proferido pela Quarta Câmara de Direito Privado do Tribunal de Justiça do Estado de Mato Grosso que, por unanimidade, desproveu o recurso, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO – CUMPRIMENTO PROVISÓRIO DE SENTENÇA – CÉDULA RURAL PIGNORATÍCIA – SENTENÇA COLETIVA AÇÃO CIVIL PÚBLICA – CORREÇÃO PELO BTNF - INVERSÃO DO ÔNUS DA PROVA DEFERIDA EM FAVOR DO EXEQUENTE – PROVA DA QUITAÇÃO DO TÍTULO SOBRE O QUAL PUGNA PELA CORREÇÃO/DEVOLUÇÃO DE VALORES - ALEGAÇÃO DE QUE É DO BANCO EXECUTADO O ÔNUS DE PROVAR O PAGAMENTO – REJEIÇÃO - INVERSÃO DO ÔNUS DA PROVA QUE NÃO EXIME A PARTE DE DEMONSTRAR INDÍCIOS QUE CORROBOREM A SUA TESE -DECISÃO MANTIDA – RECURSO DESPROVIDO.
+Inversão do ônus da prova em absoluto implica determinar que uma parte produza prova que, a rigor, estaria a cargo da parte adversa.
+A inversão do ônus da prova não tem o condão de eximir o exequente de apresentar elementos mínimos de provas que alicerçam seu direito, caso em que lhe compete demonstrar o pagamento da dívida sobre o qual postula devolução em razão da aplicação, pelo banco agravado, de correção monetária pelo índice de 84,32% referente ao IPC de março de 1990, ao invés do índice de 41,28% referente ao BTNF (índice de correção das cadernetas de poupança).
+Recurso tempestivo e devidamente preparado.
+Pois bem, na espécie, o direito controvertido foi amplamente enfrentado por órgão Colegiado deste Egrégio Tribunal de Justiça, situação jurídica que força reconhecer que em face da amplitude e da excepcionalidade do pedido de suspensão do v. acórdão, necessário se faz analisar a pretensão após as contrarrazões.
+Aliás, para a excepcional concessão do efeito suspensivo, em atenção ao que dispõe o artigo 995, parágrafo único, do Código de Processo Civil, mostra-se necessária a comprovação de dois requisitos legais, quais sejam, a evidente probabilidade do provimento do recurso, isto é, plausibilidade substancial do direito invocado com força suficiente a autorizar a suspensão da decisão recorrida, bem como o perigo da demora representado pela possibilidade de prejuízo advindo do retardamento da tutela jurisdicional pleiteada, não se vislumbrando prejuízo o aguardo do contraditório.
+Ante o exposto, intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal.
+Após, a apresentação das contrarrazões ou o decurso do prazo, tornem os autos conclusos.
+Publique-se. Intime-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
