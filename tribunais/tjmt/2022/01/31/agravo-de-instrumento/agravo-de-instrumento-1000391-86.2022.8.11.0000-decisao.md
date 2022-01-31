@@ -1,0 +1,24 @@
+Recurso de Agravo de Instrumento n. 1000391-86.2022.8.11.0000 – Sinop
+Visto.
+Trata-se de recurso de agravo de instrumento interposto por Gabriel Vinicius da Silva Jacoboski, em face da decisão proferida pelo MM. Juiz de Direito da 4a Vara Cível da Comarca de Sinop, nos autos da ação declaratória de inexistência de relação societária e existência de sociedade de fato unipessoal c/c obrigação de fazer movida em face de João Carlos Jacoboski ME (JC Transporte) e João Carlos Jacoboski, indeferiu a tutela de urgência, consistente no sequestro de bens e nomeação de administrador judicial.
+O agravante afirma que é coerdeiro do espólio de André Aparecido Jacoboski e por isso, possui legitimidade para ajuizar a ação em defesa do patrimônio comum deixado pelo falecido.
+Esclarece que João Carlos Jacoboski nunca foi sócio proprietário da empresa JC Transportes, tendo apenas cedido o seu nome em favor de André Aparecido Jacoboski, decorrente de problemas financeiros e negativação em seu CPF nos órgãos de proteção ao crédito, que o impediam obter crédito e realizar financiamentos para aquisições de veículos, e por isso, utilizava sempre o nome de seu pai para viabilizar o desenvolvimento das atividades empresariais, entretanto, após o falecimento do de cujus André, o agravado passou a administrar todas as finanças e a contrair dívidas em nome da empresa.
+Aduz que comprovou os requisitos necessários para a concessão da tutela de urgência, por meio dos áudios que demonstram a existência de parceira empresarial e consequentemente de sociedade unipessoal de fato, bem como de que o agravado se opõe a assinar o termo de cessão de direitos ao recorrente, daquilo que lhe é devido a título de herança.
+É o relatório.
+Decido.
+Inicialmente, faz-se necessário analisar o preenchimento dos requisitos de admissibilidade do presente recurso.
+Como se sabe, para cada tipo de decisão corresponde um recurso cabível, observando-se que a inadequação da via eleita acarreta a inadmissibilidade deste, em consonância ao princípio da taxatividade recursal.
+Da interpretação da legislação retro mencionada, verifica-se que o Novo Código de Processo Civil diferentemente do Codex anterior, prevê taxativamente as hipóteses de cabimento do recurso de agravo de Instrumento, de modo que em princípio este se enquadra no inciso I, do art. 1.015, do NCPC.
+Dito isso, para a concessão da antecipação da tutela recursal, prevista no art. 1.019, inc. I do NCPC, faz-se necessária a presença dos requisitos previstos no art. 300, do aludido diploma processual, quais sejam, a probabilidade de suas alegações e o perigo de dano.
+É de bom alvitre consignar que realmente deve ser observada a regra processual civil, de modo que não merece ser concedida a antecipação almejada, ante a ausência dos requisitos ensejadores, devendo aguardar a manifestação do douto magistrado a quo, bem como da contraminuta que poderá trazer elementos que possibilitem a melhor análise da questão agravada.
+Verifica-se que, em sede de cognição sumária, o recorrente alega que a empresa JC Transporte pertencia e era administrada somente por André Aparecido Jacoboski, tendo o agravado João Carlos Jacoboski apenas cedido seu nome para a constituição da empresa, e após o falecimento de André, o agravado passou a administrar todas as finanças e a contrair dívidas em nome da empresa, contudo, tais alegações merecem melhor esclarecimento, sendo imprescindível dilação probatória.
+Consoante bem anotado pelo d. magistrado:
+“Pois bem. Compulsando o material cognitivo produzido no processo, deflui-se que não subsistem evidências concretas que reúnam a capacidade de demonstrar, com um grau mínimo de segurança, a verossimilhança da alegação.
+Efetivamente, por ora, da análise meticulosa do conjunto probatório produzido no processo, depreende-se, em um juízo de cognição sumária, que não ficou demonstrado a existência de contrato de “parceria empresarial”, em que o requerido João Carlos Jacoboski apenas “emprestou” o seu nome para que o ‘de cujus’ André Aparecido Jacoboski constituísse a empresa João Carlos Jacoboski-ME (JC Transportes). A verificação destes fatos/acontecimentos, na realidade, na hipótese concreta, reclama/exige debate aprofundado sobre todo o conjunto de subsídios probatórios que circundam os fatos — circunstância que se interpõe como obstáculo intransponível à concessão da tutela de urgência.”(id. 72901241 – autos de origem 1020765-15.2021.8.11.0015)
+Diante do exposto, indefiro a tutela antecipada recursal almejada por ausência de qualquer prejuízo e ausência de demonstração do argumento.
+Intimem-se os agravados para, querendo, apresentar resposta no prazo de 15 (quinze) dias, nos termos do inc. II, do art. 1.019, do NCPC.
+Oficie-se o douto juiz a quo e solicite-se informações.
+P.I.
+Cuiabá, 31 de janeiro de 2022.
+CARLOS ALBERTO ALVES DA ROCHA
+Relator
