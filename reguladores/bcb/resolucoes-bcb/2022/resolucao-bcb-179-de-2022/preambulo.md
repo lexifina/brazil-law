@@ -1,0 +1,4 @@
+RESOLUÇÃO BCB Nº 179, DE 19 DE JANEIRO DE 2022
+Consolida e revisa normas sobre o Cadastro de Clientes do Sistema Financeiro Nacional (CCS).
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 19 de janeiro de 2022, com base no disposto nos arts. 10, inciso IX, 11, inciso VII, e 37 da Lei nº 4.595, de 31 de dezembro de 1964, nos arts. 3º e 4º da Lei nº 4.728, de 14 de julho de 1965, no art. 20, § 2º, da Lei nº 4.864, de 29 de novembro de 1965, no art. 8º do Decreto-Lei nº 2.291, de 21 de novembro de 1986, no art. 7º da Lei nº 6.099, de 12 de setembro de 1974, no art. 10-A da Lei nº 9.613, de 3 de março de 1998, no art. 1º, incisos I e III, da Lei nº 10.194, de 14 de fevereiro de 2001, no art. 6º da Lei nº 11.795, de 8 de outubro de 2008, no art. 1º, § 1º, da Lei Complementar nº 130, de 17 de abril de 2009, e no art. 9º da Lei nº 12.865, de 9 de outubro de 2013,
+R E S O L V E :
