@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    “APELAÇÕES CÍVEIS. PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE AÇÃO POLICIAL - GAP.
+
+    - APELAÇÃO INTERPOSTA POR ANDREA MÁRCIA DA ROCHA SARMENTO DE AZEVEDO: SENTENÇA PELA PRESCRIÇÃO DE FUNDO DE DIREITO. PRESCRIÇÃO AFASTADA. PRETENSÃO QUE ENVOLVE O PAGAMENTO DE VANTAGEM PECUNIÁRIA. AUSÊNCIA DE NEGATIVA EXPRESSA DA ADMINISTRAÇÃO. RELAÇÃO DE TRATO SUCESSIVO, QUE SE RENOVA MENSALMENTE. INCIDÊNCIA DA SÚMULA N.º 85 DO STJ. PRECEDENTES DO STJ. APLICAÇÃO DA TEORIA DA CAUSA MADURA. PROCESSO EM CONDIÇÕES DE IMEDIATO JULGAMENTO. INTELIGÊNCIA DO ART. 1.013, §4º, DO CPC/15. PLEITO DE IMPLANTAÇÃO DE GRATIFICAÇÃO DE AÇÃO POLICIAL – GAP, INSTITIUÍDA PELA LEI ESTADUAL Nº 5.813/96. REVOGAÇÃO TÁCITA DA GAP PARA A CARREIRA DA POLÍCIA CIVIL, DIANTE DA FIXAÇÃO DE SUBSÍDIO PELA LEI Nº 6.276/2001 – PCS DA PC/AL. MANUTENÇÃO DOS EFEITOS EM RELAÇÃO AOS DEMAIS SERVIDORES. INTERPRETAÇÃO TELEOLÓGICA DA INSTITUIÇÃO DA GAP. CRIAÇÃO EM RAZÃO DO LOCAL DE TRABALHO. CRIAÇÃO DA CARREIRA DE AGENTE PENITENCIÁRIO POR MEIO DA LEI Nº 6.682/2006, CUJO CARGO JÁ POSSUI COMO ATRIBUIÇÃO LABORAR EM UNIDADES PRISIONAIS. SITUAÇÃO NÃO EXCEPCIONAL, COMO CONSTATADA ANTERIORMENTE NA APRECIAÇÃO DA MATÉRIA ATINENTE AO ADICIONAL DE PERICULOSIDADE - incidente de uniformização de jurisprudência nº 0500356-82.2015.8.02.0000. SUBSÍDIO QUE JÁ ENGLOBA A COMPENSAÇÃO FINANCEIRA DE TAL LOCAL DE TRABALHO. IMPOSSIBILIDADE DE CUMULAÇÃO. SENTENÇA REFORMADA PARA AFASTAR A PRESCRIÇÃO DE FUNDO DE DIREITO E, COM FUNDAMENTO NA TEORIA DA CAUSA MADURA, JULGAR IMPROCEDENTE A PRETENSÃO AUTORAL. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. À UNANIMIDADE.
+
+    - APELAÇÃO INTERPOSTA PELO ESTADO DE ALAGOAS: SENTENÇA QUE CONDENOU A SERVIDORA PÚBLICA AO PAGAMENTO DE HONORÁRIOS SUCUMBENCIAIS EM FAVOR DO ESTADO COM BASE NO CRITÉRIO DO ART. 85, §8º DO CPC. ALEGAÇÃO DE QUE TAL NORMA FERE A DINÂMICA DO CPC, ACERCA DA FIXAÇÃO NOS PERCENTUAIS MÍNIMO DE 10% E MÁXIMO DE 20% SOBRE O VALOR DA CAUSA. QUESTÃO ANALISADA NO PLENÁRIO DESTA CORTE ATRAVÉS DA ARGUIÇÃO DE INCONSTITUCIONALIDADE Nº 0500003-37.2018.8.02.0000 QUE DEFINIU A POSSIBILIDADE DE UTILIZAÇÃO DA NORMA DO § 8º, A FIM DE EVITAR ENRIQUECIMENTO ILÍCITO. APELAÇÃO CONHECIDA E NÃO PROVIDA. DECISÃO UNÂNIME”.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, incisos LIV e LV; 7º, incisos IV, VII, VIII, IX, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXII e XXX; 39, §§ 3º e 4º, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 1º/2/19).
+
+    Ademais, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 280 desta Corte. Sobre o tema, a propósito:
+
+    “RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL. A apreciação do recurso extraordinário faz-se considerada a Constituição Federal, não cabendo interpretar normas locais visando concluir pelo enquadramento no inciso III do artigo 102 da Lei Maior”. (RE 597.603-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 19/02/2020).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. PRESCRIÇÃO. DECRETO 20.910/1932. LEI DISTRITAL 7.515/1986. LEI LOCAL. SÚMULA 280. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 2. Agravo Regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC”. (ARE 1.127.544 AgR, Segunda Turma, Rel. Min. Edson Fachin, Segunda Turma, DJe de 27/02/2020)
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 1º de fevereiro de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
