@@ -1,0 +1,45 @@
+DECISÃO:
+
+    1. Trata-se de reclamação, com pedido liminar, ajuizada em face de decisão do Tribunal Superior do Trabalho, que teria mantido a declaração de nulidade da terceirização de mão de obra firmada com concessionária de serviço público, condenando a prestadora e a tomadora de serviço ao pagamento de verbas trabalhistas decorrentes de equiparação salarial (Autos nº 0000940-62.2014.5.03.0002).
+
+    2. Na presente reclamação, alega-se: (i) afronta à tese firmada na ADPF 324, da minha relatoria, e aos RE 958.252 e ARE 791.932, respectivamente, paradigmas dos Temas 725 e 739 da repercussão geral, julgados pelos quais o STF afirmou a constitucionalidade da terceirização de qualquer atividade empresarial, meio ou fim; e (ii) a violação à Súmula Vinculante 10 e ao art. 97 da Constituição, ao argumento de que acórdão reclamado teria negado qualquer eficácia ao disposto no artigo 94, inciso II, da Lei 9.472/97, sem justificar sua não aplicação com fundamento em lei hierarquicamente superior e sem declarar inconstitucional o dispositivo de lei federal por julgamento de seu Órgão Pleno.
+
+    3. A presente reclamação foi a mim distribuída por prevenção, justificada pela Rcl 36.496.
+
+    4. É o relatório. Decido.
+
+    5. Dispenso as informações, devido à suficiente instrução do feito, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único). Deixo, ademais, de determinar a citação da parte beneficiária da decisão reclamada, em face da manifesta inviabilidade do pedido.
+
+    6. Na Rcl 36.496, anteriormente ajuizada pela ora reclamante em face de decisão do Tribunal Regional do Trabalho da 3ª Região, também proferida nos Autos n° 0000940-62.2014.5.03.0002, neguei seguimento ao feito (em 05.09.2019), sob os seguintes fundamentos:
+
+    “5. Ao julgar o ARE 791.932, este Tribunal decidiu ser nula a decisão de órgão fracionário que se recusa a aplicar o art. 94, II, da Lei 9.472/1997, sem observar a cláusula de reserva de Plenário (CF, art. 97). De modo similar, o enunciado da Súmula Vinculante 10 garante a proteção da competência do Supremo Tribunal Federal ao declarar nula a decisão que ‘embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte’.
+
+    6. As circunstâncias do caso concreto, no entanto, não permitem a aplicação desta orientação. A propositura da reclamação pressupõe que a questão impugnada ainda possa ser revisitada. Não se admite o manejo da reclamação para reabrir pontos já alcançados pela preclusão: [é] necessário que a apreciação da reclamação incida sobre a moldura fático-jurídica revelada pelo último ato decisório proferido nos autos da ação originária (Rcl 9.823 AgR, Rel. Min. Dias Toffoli).
+
+    7. No presente caso, a questão jurídica controvertida – a licitude da terceirização de atividades-fim das empresas concessionárias de serviço público de telecomunicações – foi analisada apenas pela sentença de primeira instância, a qual a parte reclamante falhou em impugnar, ao apresentar recurso ordinário sem o devido preparo. Deserto o recurso ordinário, a matéria da ilicitude da terceirização não foi sequer analisada pela decisão reclamada. Confira-se:
+
+    ‘VOTO
+
+    JUÍZO DE ADMISSIBILIDADE
+
+    PRELIMINAR. DESERÇÃO. RECURSO ORDINÁRIO DA PRIMEIRA RECLAMADA
+
+    Retira-se dos autos que a primeira Ré, A&C Centro de Contatos S.A., não procedeu ao recolhimento integral das custas processuais e do depósito recursal, consoante se vê nas guias de f. 276/276-v. Com efeito, o depósito recursal efetuado pela primeira Ré totaliza R$ 500,00 (f. 276), ao passo que o valor da condenação arbitrado na origem monta R$ 700,00 (f. 265). De igual modo, as custas foram fixadas em R$ 14,00 (f. 265), sendo recolhidos apenas R$ 10,64 através da GRU de f. 276-v. Na matéria, tem-se que o preparo constitui pressuposto objetivo de admissibilidade recursal e a sua insuficiência importa em inadmissibilidade do recurso correspondente, sem que tal implique ofensa ao princípio da ampla defesa (Súmula 128, I e OJ 140 da SDI-I, ambas do c. TST). Isso porque a Instrução Normativa nº 27 do c. TST deixa claro, em seu artigo 2º, parágrafo único, que o depósito recursal, previsto no artigo 899 da CLT, será sempre exigível, quando houver condenação em pecúnia, sendo que o seu recolhimento deve ser comprovado no prazo de interposição do recurso. Da mesma forma, no que se refere ao pagamento das custas processuais, o § 2º do artigo 3º da citada Instrução Normativa, em consonância com o disposto no § 1º do artigo 789 da CLT, dispõe que "na hipótese de interposição de recurso, as custas deverão ser pagas e comprovado seu recolhimento no prazo recursal". Assim, por tais fundamentos, não conheço do recurso ordinário interposto pela primeira Ré, por deserto. Lado outro, satisfeitos os pressupostos subjetivos e objetivos de admissibilidade, conheço do apelo interposto pela Laborista.’ (doc. 17)
+
+    8. O mesmo reconheceu o Tribunal Superior do Trabalho, ao negar seguimento ao Recurso de Revista formulado pela reclamante:
+
+    ‘RESPONSABILIDADE SOLIDÁRIA/SUBSIDIÁRIA / TOMADOR DE SERVIÇOS/TERCEIRIZAÇÃO / LICITUDE / ILICITUDE DA TERCEIRIZAÇÃO / TELEMARKETING. CONTRATO INDIVIDUAL DE TRABALHO / RECONHECIMENTO DE RELAÇÃO DE EMPREGO. DIREITO PROCESSUAL CIVIL E DO TRABALHO / ATOS PROCESSUAIS / NULIDADE / RESERVA DE PLENÁRIO. REMUNERAÇÃO, VERBAS INDENIZATÓRIAS E BENEFÍCIOS / SALÁRIO/DIFERENÇA SALARIAL / PISO SALARIAL. A análise do recurso, quanto às matérias supracitadas resta prejudicada, uma vez que a d. Turma julgadora não emitiu juízo acerca desses temas, tendo em vista o não conhecimento do recurso ordinário interposto pela recorrente, por deserção.’ (doc. 18)
+
+    9. Como se vê, o que a reclamante pretende, em verdade, é desconstituir, pela via da reclamação, decisão preclusa, impossibilitada qualquer impugnação no processo original. Nos termos da Súmula 734, do STF, ‘não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal’. Este entendimento foi positivado pelo art. 988, § 5º, I, do CPC/2015, que prevê: ‘§ 5º É inadmissível a reclamação: I – proposta após o trânsito em julgado da decisão reclamada’.”
+
+    7. O quadro jurídico não foi alterado com a posterior prolação da decisão ora reclamada (em 29.11.2021), tendo em vista que não superado o vício apontado. Consta do ato reclamado que a parte não se insurgiu “contra os fundamentos específicos da decisão denegatória de seguimento ao seu recurso de revista, quais sejam, o óbice do art. 896, § 9º, da CLT em relação aos temas ‘Deserção do RO e ‘Vale-refeição’, e o fato de que a revista encontra-se prejudicada no tocante ao tema ‘Terceirização’, visto que o Regional não emitiu tese a respeito já que o recurso ordinário da primeira reclamada não foi conhecido por deserção”.
+
+    8. Por todo o exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, ficando prejudicado o exame da medida liminar. Sem honorários, porquanto não citada a parte interessada.
+
+    Publique-se.
+
+          Brasília, 1º de fevereiro de 2022.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
