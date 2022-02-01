@@ -1,0 +1,49 @@
+Decisão:
+
+    Vistos.
+
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Terceira Turma do Tribunal Regional Federal da Primeira Região, assim ementado:
+
+    “PROCESSO PENAL. PENAL. APELAÇÃO. TRÁFICO TRANSNACIONAL DE ENTORPECENTES. ASSOCIAÇÃO AO TRÁFICO. ARTS. 33 E 35 C/C ART, 40, INCISOS I E VII, DA LEI 11.343/06. MATERIALIDADE E AUTORIA COMPROVADAS. DOSIMETRIA DA PENA ADEQUADA. APELAÇÃO NÃO PROVIDA. 1. Recurso de Apelação interposto da sentença proferida pelo Juízo da 10a Vara Federal da Seção Judiciária do Distrito Federal, que julgou procedente a pretensão punitiva estatal para condenar o apelante à pena de 12 anos, 03 meses e 15 dias de reclusão, em regime fechado, e 1.500 dias-multa, pela prática do delito previsto nos artigos 33 e 35 c/c art. 40, incisos 1 e VII, da Lei n. 11.343/06. 2. Narra a denúncia, que na data de 02/03/2013, o réu contratou duas pessoas, oferecendo-lhes R$ 7.500,00 por cada quilo de droga transportada de Goiânia para Itália, havendo cada uma delas se incumbido de carregar, em suas malas, 10 quilos de cocaína, e que o réu adquiriu passagens aéreas para si, e para as "mulas" para viajarem dia 05103/2013 de Goiânia para Brasília, de onde partiriam com a substância entorpecente para Roma, Itália, com escala em Lisboa, Portugal. As "mulas" foram presas em flagrante, antes de embarcarem no Aeroporto Internacional de Brasilia por transportar 21,780 Kg de cocaína, ocasião em que delataram detalhadamente a atuação do réu, que já havia embarcado de Brasília com destino a Lisboa. 3. Está provado que o recorrente, com vontade livre e consciente, adquiriu e financiou, para revenda no exterior, entorpecente capaz de causar dependência física e/ou química, praticando, assim, o delito tipificado nos art. 33 e. 35, c/c o art. 40, incisos 1 e VII, da Lei n. 11.343/2006. A materialidade e autoria estão devidamente evidenciadas nos autos, conforme a fundamentação exarada na sentença. Condenação mantida. 4. Dosimetria da pena. Segundo prescreve o art. 42 da Lei 11.343/2006, a natureza e a quantidade da droga traficada preponderam sobre as circunstâncias judiciais do art. 59 do Código Penal por ocasião da fixação da pena-base. Considerando a natureza da substância entorpecente (cocaina), a quantidade da droga (21,78 Kg) e a inexistência de circunstâncias judiciais desfavoráveis, mostra-se adequada a fixação da pena-base no patamar pouco acima do mínimo legal. 5. Em razão da causa de aumento de pena prevista no art. 40, incisos I e VII, da Lei n. 11.343/2006 - transnacionalidade do tráfico e financiar/custear a prática do crime -, a pena foi majorada em 1/2 (metade). 6. Apelação não provida.” (edoc Vol. 20)
+
+    Opostos embargos de declaração foram rejeitados.
+
+    Sustenta o recorrente violação aos artigos 4º, inciso II, e 5º, incisos LIV, LV, da Constituição Federal.
+
+    Examinados os autos, decido.
+
+    Inicialmente, registro que um dos dispositivos constitucionais indicados como violados no recurso extraordinário (artigo 4º, inciso II) carece do necessário prequestionamento, sendo certo que não foi objeto dos embargos de declaração opostos para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+
+    Anote-se, ainda, que a jurisprudência desta Corte é assente sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, não podem configurar ofensa direta e frontal à Constituição Federal.
+
+    Perfilhando esse entendimento, destaco: RE nº 597.180-AgR/SC, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 21/2/11; AI nº 813.850-AgR/SP, Segunda Turma, Rel. Min. Ellen Gracie, DJe de 29/11/10.
+
+    Além do mais, convém registrar que o Supremo Tribunal Federal, ao examinar o ARE nº 748.371-RG/MT, Rel. Min. Gilmar Mendes, DJe de 1º/8/13 (Tema 660), reafirmou o entendimento de que a afronta aos princípios do devido processo legal, da ampla defesa, dos limites da coisa julgada e do contraditório, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, não configura ofensa direta ou frontal à Constituição da República.
+
+    O referido julgado foi assim ementado:
+
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+
+    Por fim, anote-se que, para se chegar a entendimento diverso do acórdão recorrido, necessário seria o reexame aprofundando de fatos e provas, intimamente ligados ao mérito da ação penal, o que é vedado nesta via extraordinária, consoante o enunciado da Súmula nº 279/STF.
+
+    Nesse compasso, colho julgados:
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Penal e Processual Penal. Peculato (artigo 312 do Código Penal). Condenação. 3. Alegação de inconstitucionalidade do Código Penal Militar e do Código de Processo Penal Militar. Ausência de prequestionamento. Súmulas 282 e 356. 4. Ausência de repercussão geral da matéria (Tema 660). 5. Alegação de atipicidade da conduta. Incidência da Súmula 279. Pedido que demanda reanálise da instrução probatória 6. Argumentos incapazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.” (ARE nº 907991/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 22/10/15)
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Processual Penal. 3. Ofensa ao artigos 5º, incisos XXXV, XXXVII, XLVI, LIII, LIV e LV; 93, inciso IX; e 109, IV, da CF. 4. Alegações: a) violação ao princípio do juiz natural; b) incompetência da Justiça Federal; c) negativa de prestação jurisdicional; d) cerceamento de defesa; e) inexistência de especificação da participação criminosa, bem como ausência de provas suficientes à condenação e f) violação ao princípio de individualização da pena. 5. Violação ao princípio do juiz natural por impedimento da Relatora. Ofensa reflexa. Questão apreciada no julgamento do HC 131.120/RR. Nulidade não configurada. 6. Incompetência da Justiça Federal: o STF adota entendimento de que é dela a competência para julgamento dos crimes praticados nos casos em que as verbas públicas federais sejam transferidas a ente federativo, sujeitas à prestação de contas e a controle da União. Precedentes. Aferição de eventual lesão a bem jurídico estadual. Súmula 279. 7. Negativa de prestação jurisdicional. Ausência de fundamentação nas decisões proferidas pelas instâncias antecedentes. Inexistente (Tema 339, AI-QO-RG 791.292). Prestação jurisdicional concedida nos termos da legislação vigente. 8. Cerceamento de defesa e inexistência de especificação da participação criminosa, bem como ausência de provas suficientes à condenação. Súmulas 279 e 284. Tema 660, ARE-RG 748.371. 9. Violação ao princípio de individualização da pena. Súmulas 282 e 356. Tema 182, AI 742.460/RJ RG. 10. Agravo regimental a que se nega provimento.” (ARE nº 1000420-AgR/RR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 14/3/17).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO EXTRAORDINÁRIO EM FACE DE RECURSO ESPECIAL. QUESTÃO QUE JÁ CONSTAVA DO ACORDÃO DE SEGUNDO GRAU. PRECLUSÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. DOSIMETRIA. INEXISTÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO. 1. É inadmissível o agravo regimental que não impugna todos os fundamentos da decisão agravada. Precedentes. 2. O sistema constitucional vigente, que prevê o cabimento simultâneo de recurso extraordinário e recurso especial contra o mesmo acórdão dos tribunais de segundo grau, preconiza que, da decisão do STJ no recurso especial, só se admitirá recurso extraordinário se a questão constitucional objeto do último for diversa daquela resolvida pela instância ordinária. Precedentes. 3. Não há ilegalidade no regime gravoso fixado com lastro em circunstâncias judiciais desfavoráveis, conforme inteligência dos artigos 33 e 59, ambos do Código Penal. 4. É inviável o processamento do apelo extremo quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentaram a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. 5. Agravo regimental desprovido.” (ARE nº 951702-AgR/DF, Primeira Turma, Relator o Ministro Edson Fachin, DJe de 4/11/16).
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 1º de fevereiro de 2022.
+
+Ministro Dias Toffoli
+
+Relator
+
+Documento assinado digitalmente
