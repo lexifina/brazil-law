@@ -1,0 +1,43 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento nas alíneas "a" e "b" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    “RECURSO INOMINADO. SERVIDOR PÚBLICO. AGENTE POLICIAL QUE EXERCE FUNÇÕES EM DELEGACIA DE CLASSE SUPERIOR. DECRETO-LEI 141/69. ESCRIVÃO DE POLÍCIA. DIREITO A SER ESTENDIDO A TODOS OS AGENTES POLICIAIS QUE TRABALHEM EM DELEGACIA DE CLASSES SUPERIOR. PAGAMENTO DE DIFERENÇAS DECIDO. RECURSO NÃO PROVIDO”.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º; 37, incisos X e XIII; 39, § 1º, incisos I, II, III; 61, §1º, I, alínea; 93, inciso IX; 124; 144, inciso IV, § 7º; e 169, § 1º, inciso I, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, em sede de repercussão geral, reafirmou a orientação de que o artigo 93,inciso IX, da Constituição não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pela defesa, mas sim que ele fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe de 13/8/10).
+
+    Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    "Muito embora a Lei Complementar Estadual no 207/1979, que instituiu a Lei Orgânica da Polícia do Estado de São Paulo, não trate expressamente do direito ao recebimento da diferença remuneratória pelo exercício de função de escrivão em delegacia de classe distinta, não significa que a norma anterior foi revogada. Ao revés, o artigo 135 da referida LCE, expressamente, prevê a aplicação da lei anterior:
+
+    Art. 135. Aplicam-se aos funcionários policiais civis, no que não conflitar com esta lei complementar as disposições da Lei no 199, de 1o de dezembro de 1948, do Decreto-lei no 141, de 24 de julho de 1969, da Lei Complementar no 180, de 12 de maio de 1978, bem como o regime de mensal, instituído pela Lei no 4.832, de 4 de setembro de 1958, com alterações posteriores.
+
+    Diante disso, de rigor o pagamento da diferença remuneratória prevista no artigo 6°, parágrafo único do Decreto-Lei 141/69, no período em que laborou em delegacia considerada de classe superior."
+
+    Desse modo, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário, DJe de 26/3/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 1º de fevereiro de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
