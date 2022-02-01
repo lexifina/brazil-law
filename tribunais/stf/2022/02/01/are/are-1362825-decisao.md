@@ -1,0 +1,47 @@
+D E C I S Ã O
+
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (e-STJ, fl. 82):
+
+    “APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. SENTENÇA ABSOLUTÓRIA. AUTORIA E MATERIALIDADE COMPROVADAS. PROVAS INQUISITIVAS E JUDICIONALIZADAS. LIVRE APRECIAÇÃO DO JULGADOR. CONDENAÇÃO. Uma vez que o contexto de provas amealhados nas duas fases da persecução criminal é hábil a demonstrar que o acusado praticou o tráfico, imperiosa a condenação na figura descrita do artigo 33, caput, da Lei de Drogas.
+
+    2- TRÁFICO DE DROGAS. PENA. FIXAÇÃO. Deve a pena-base ser estabelecida no mínimo do tipo, se as circunstâncias judiciais são favoráveis. CAUSA DE DIMINUIÇÃO DO § 4º DO ARTIGO 33 DA LEI DE DROGAS. Evidenciado o preenchimento dos requisitos do artigo 33, § 4º, da Lei nº 11.343/06, é de rigor a aplicação da causa de diminuição de pena prevista no mencionado dispositivo. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. COMPORTABILIDADE. Preenchidos os requisitos objetivos e subjetivos previstos no artigo 44, do Código Penal Pátrio, faz jus o condenado à substituição da pena privativa de liberdade por duas restritivas de direitos.
+
+    3- REFORMATIO IN MELLIUS. READEQUAÇÃO DA PENA IMPOSTA AO CORRÉU, DE OFÍCIO. Constatada incorreção na sanção fixada ao corréu, imperativa é intervenção, de ofício, do Tribunal com o fito ajustá-la, com espeque na sedimentada orientação doutrinária e pretoriana no sentido de ser possível, em apreciação de apelo interposto pelo Ministério Público, a reforma da sentença impugnada para melhorar a situação do condenado que dela não recorreu (reformatio in mellius). APELAÇÃO CONHECIDA E PROVIDA. DE OFÍCIO, REDIMENSIONADA PENA DO CORRÉU.”
+
+    Opostos Embargos de Declaração (eDoc. 8), estes foram, por unanimidade, parcialmente providos pelo Tribunal de origem, tão somente para afastar erro material, esclarecendo-se que a causa de diminuição da pena fora fixada “no patamar de 1/2 (metade)” (eDoc. 9).
+
+    No apelo extremo, interposto com amparo no art. 102, III, “a” da CONSTITUIÇÃO FEDERAL, o recorrente defende a existência da repercussão geral do tema debatido, bem como ter havido o necessário prequestionamento do tema controvertido, sustentando que o Tribunal a quo violou os arts. 5º, XI, XLVI, LV, LVI, e 93, IX, ambos da CF/88 (e-STJ, fls. 440/458).
+
+    Argumenta, em síntese, que “o acusado foi absolvido de tal acusação em 1ª Instância por ausência de provas, e o Ministério Público em suas razões de apelação, o objeto do recurso a absolvição quanto ao delito de tráfico de entorpecente (art. 33, da Lei 11343/06); não comprovou a não incidência do §4 do art. 33 da Lei de Droga”, ressaltando a sua primariedade e a ausência de antecedentes criminais (e-STJ, fl. 456).
+
+    Requer, ao final, “o acatamento das razões expostas e em consequência que seja PROVIDO O RECURSO, para reconhecer a completa violação aos princípios constitucionais encartados no art. 5°, inciso LV (ampla defesa e contraditório), LVI (obtenção de provas ilícitas), XLVI (individualização da pena) e do art. 93, IX, da CF (fundamentação da decisão), e a valoração da quantidade e da qualidade da droga apreendida) pela Câmara Criminal, para anular o acórdão e as provas produzidas, absolvendo-se o recorrente por ausência de provas idôneas” (e-STJ, fl. 458).
+
+    O Tribunal a quo, aplicando precedentes desta CORTE firmados sob a sistemática da repercussão geral (ARE 748.371-RG/MT, Tema 660; e ARE 791.292-QO-RG/PE, Tema 339, ambos de Relatoria do Min. GILMAR MENDES), negou seguimento ao Recurso Extraordinário no que diz respeito às supostas violações aos arts. 5º, LIV e LV, e 93, IX, ambos da CF/88, respectivamente, nos termos do art. 1.030, inciso I, alínea “a”, do CPC (e-STJ, fls. 505/507). Quanto aos demais pontos, inadmitiu o apelo aos seguintes fundamentos: (a) ‘’o recurso extraordinário não é via própria para se discutir violação a preceito infraconstitucional, uma vez que as hipóteses de seu cabimento estão restritas à aplicação da Constituição Federal (inteligência do art. 102, III, alíneas ‘a’, ‘b’, ‘c’, ‘d’, da CF” (e-STJ, fl. 507); e (b) em relação a ofensa aos incisos XI e XLVI do art. 5º da Carta Magna incide o óbice da Súmula 279/STF, pois “a conclusão sobre o acerto ou desacerto do acórdão vergastado demandaria sensível incursão no acervo fático-probatório dos autos, notadamente, no que pertine à alegação de ofensa aos princípios da inviolabilidade do domicílio, bem como da individualização da pena’’ (e-STJ, fl. 507).
+
+    No Agravo, a parte recorrente, em suma, assevera que não pretende discutir prova, mas tão somente a qualidade e adequação da fundamentação apresentada no acórdão para o decreto condenatório, frisando que o recorrente foi absolvido em sentença. Ao ao final, requer que seja recebido o presente agravo em recurso extraordinário, para dar-lhe provimento e, no mérito do Especial julgar procedente (e-STJ, fl. 523/532).
+
+    É o relatório. DECIDO.
+
+    A jurisprudência desta CORTE firmou entendimento pela inadmissibilidade de agravo para o SUPREMO TRIBUNAL FEDERAL com o objetivo de impugnar decisão da instância de origem que aplica a sistemática da repercussão geral, seja inadmitindo o recurso extraordinário, seja sobrestando-o até a formação de precedente pela SUPREMA CORTE, pois, como destacado pelo então Min. CELSO DE MELLO, “se revela incognoscível o recurso deduzido contra decisão que, ao aplicar os parágrafos do art. 543-B do CPC/73, faz incidir, no caso concreto, orientação plenária desta SUPREMA CORTE, não importando que se trate de ato decisório que deixa de reconhecer a existência de repercussão geral da controvérsia jurídica ou que se cuide de julgamento de mérito sobre matéria cuja repercussão geral tenha sido anteriormente proclamada” (RE 1.023.231/PR, DJe de 22/2/2017).
+
+    Dessa forma, com relação às alegadas desobedecidas às normas insertas no art. 5º, LIV e LV, e no art. 93, IX, ambos da CF/88, não existe contra a decisão do Juízo de origem que aplicou a sistemática da repercussão geral, previsão legal de interposição de recurso para o STF (ARE 960.182-AgR, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 15/3/2017).
+
+    No mais, o aresto impugnado, com fundamento na legislação ordinária e no substrato fático constante dos autos, ao reconhecer a materialidade do crime de tráfico de drogas, bem como a autoria estão demonstradas no Auto de exibição e apreensão (mov. 1, arq. 3, fs. 26/27), no Laudo de perícia criminal – exame de constatação (mov. 1, arq. 3, f. 48), no Laudo de perícia criminal – identificação de drogas e substâncias correlatas (mov. 36), bem assim nas provas testemunhais produzidas na fase do inquérito e em juízo, deu provimento ao recurso de Apelação do Parquet do Estado de Goiás e reformou a sentença absolutória a fim de condenar o recorrente à pena-base de 5 anos de reclusão pela prática do crime de tráfico de drogas (art. 33, caput, da Lei 11.343/2006). Na terceira fase da dosimetria, aplicou-se o redutor previsto no art. 33, § 4º, da referida lei, reduzindo a pena pela metade, a considerar a conduta efetivamente praticada pelo apelado, bem assim a natureza e quantidade da droga apreendida (2 porções de maconha, com massa de 96,330g e duas porções de cocaína em material petrificado, pesando 29,650g, bem como uma porção de cocaína em material pulverizado, com massa de 27,550g). Ao final, determinou o cumprimento da pena de 2 anos e 6 meses de reclusão, no regime aberto, a qual substituída por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e limitação de final de semana, nos termos e condições a serem estabelecidos pelo juízo da execução.
+
+    Assim, observa-se trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à CONSTITUIÇÃO FEDERAL são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do apelo extremo.
+
+    Inviável, também, o reexame de provas em sede de Recurso Extraordinário, conforme Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário). Nesse sentido:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSO PENAL. CRIME TIPIFICADO NO ARTIGO 33 DA LEI 11.343/06. REDISCUSSÃO DE CRITÉRIOS DE DOSIMETRIA DA PENA. PRETENSÃO DE RECONHECIMENTO DE TRÁFICO PRIVILEGIADO E DETRAÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. OFENSA REFLEXA. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos, bem como para a análise de matéria infraconstitucional. Precedentes: ARE 1.175.278-AgR-Segundo, Primeira Turma, Rel. Min. Luiz Fux, DJe de 25/2/19; ARE 1.197.962–AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 17/6/19; e ARE 1.017.861-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 5/6/17; ARE 1.048.461-AgR, Primeira Turma, Rel. Min Rosa Weber, DJe de 4/3/2020; e ARE 1.264.183-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 26/5/2020. 2. Agravo interno desprovido.” (ARE 1.324.323-AgR, Rel. Min. LUIZ FUX (Presidente), Tribunal Pleno, DJe de 1º/7/2021).
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+
+    Publique-se.
+
+    Brasília, 1º de fevereiro de 2022.
+
+Ministro Alexandre de Moraes
+
+Relator
+
+Documento assinado digitalmente
