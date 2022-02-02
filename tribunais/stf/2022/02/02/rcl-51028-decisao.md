@@ -1,0 +1,85 @@
+DECISÃO:
+
+    Ementa: Direito constitucional. Reclamação. Sucessivas reconduções a cargo da mesa diretora de Assembleia Legislativa estadual.
+
+    1. Reclamação contra decisão proferida pelo Tribunal de Justiça do Estado de Roraima, na qual se considerou incompetente para rever cautelar concedida pelo Ministro Alexandre de Moraes na ADI 6.654, que havia (i) vedado mais de uma recondução sucessiva para o mesmo cargo da mesa diretora da Assembleia Legislativa de Roraima – ALE-RR, (ii) suspendido a posse dos parlamentares que, embora já eleitos, se enquadrassem nessa situação e (iii) determinado a imediata realização de novas eleições.
+
+    2. Alegação de ofensa ao decidido na ADI 6.684, em que esta Corte teria definido que a proibição de sucessivas reconduções somente deveria ser seguida pelas eleições que ocorressem após a publicação do acórdão da ADI 6.524, havida em 06.04.2021, "mantendo-se inalterados os atos anteriores".
+
+    3. No caso vertente, a eleição para o biênio 2021/2022 já havia sido realizada em 26.02.2019. No entanto, o reclamante foi impedido de assumir o cargo de Presidente da Mesa Diretora da ALE-RR em virtude de liminar concedida na ADI 6.654, tendo em vista que seria reconduzido ao cargo pela quarta vez consecutiva. Longe de afrontar a autoridade de decisão desta Corte, o juízo reclamado deu fiel cumprimento à ordem emanada em ação de controle concentrado em que se analisava, especificamente, a hipótese dos autos.
+
+    4. Em última análise, o que o reclamante pretende é rediscutir a decisão proferida na ADI 6.654. Porém, a jurisprudência é pacífica no sentido de ser incabível reclamação constitucional direcionada, ainda que por via transversa, à cassação de decisões de Ministros ou Turmas do Supremo Tribunal Federal.
+
+    5. Reclamação a que se nega seguimento.
+
+    1. Trata-se de reclamação, com pedido liminar, proposta por Jalser Renier Padilha em face de decisão proferida pelo Tribunal de Justiça do Estado de Roraima, na qual se considerou incompetente para rever cautelar concedida pelo Ministro Alexandre de Moraes na ADI 6.654, que havia (i) vedado mais de uma recondução sucessiva para o mesmo cargo da mesa diretora da Assembleia Legislativa de Roraima – ALE-RR, (ii) suspendido a posse dos parlamentares que, embora já eleitos, se enquadrassem nessa situação e (iii) determinado a imediata realização de novas eleições.
+
+    2. A parte reclamante narra que é Deputado Estadual eleito Presidente da Mesa Diretora da Assembleia Legislativa do Estado de Roraima (ALE-RR) para o biênio 2021/2022. Afirma, porém, que foi impedido de assumir o cargo em virtude de decisão proferida na ADI 6.654, na qual havia sido deferida cautelar para suspender os efeitos da Resolução nº 001/2019 na parte em que reconduzira por mais de uma vez parlamentares estaduais ao mesmo cargo da mesa diretora da ALE-RR, determinando, ainda, a realização de nova eleição, já ocorrida conforme a Resolução Legislativa nº 001/2021.
+
+    3. Aduz que o julgamento da ADI 6.684 constitui fato superveniente à concessão da cautelar que permitiria a sua recondução ao cargo. Argumenta que, no mencionado paradigma, esta Corte fixou tese no sentido de que na eleição dos membros das Mesas das Assembleias Legislativas estaduais deve ser observado o limite de uma única reeleição, ainda que referente à mesma legislatura, mas que esta orientação somente deve ser seguida pelas eleições que ocorrerem após a publicação do acórdão da ADI 6.524, que se deu em 06.04.2021, "mantendo-se inalterados os atos anteriores". Defende, assim, que, como a eleição do reclamante ocorreu ainda no ano de 2019, deve "o resultado das eleições manter-se inalterado, conforme item III das teses fixadas na ADI 6.684".
+
+    4. Relata que ajuizou ação com pedido de tutela de urgência com o objetivo de garantir sua recondução à Presidência da ALE-RR. Aduz que, diante da possibilidade de o reclamante ser reconduzido ao cargo, "os atuais membros da Mesa, de forma irrazoável e desproporcional, deflagraram singular processo de cassação, em flagrante perseguição política contra o reclamante, aproveitando-se do poder no qual foram investidos – o que não ocorreu em nenhuma outra unidade da Federação, onde os reeleitos seguem no exercício dos cargos de direção". Informa que a sentença determinou a extinção do feito sem resolução de mérito, ensejando a interposição de apelação com pedido de tutela de urgência antecedente, o qual não foi conhecido, sendo esta a decisão impugnada na presente reclamação.
+
+    5. Afirma que "por diversas vezes o reclamante se manifestou contra a decisão cautelar proferida na ADI 6.654, tendo, inclusive, interposto agravo interno", mas que não teve seus pedidos conhecidos por não ser parte do processo. Alega que, "com as teses favoráveis ao seu pedido de recondução, a ÚNICA via permitida foi a propositura de ação de procedimento comum na Justiça Estadual, já que o reclamante não faz parte da ADI 6.654, não existindo qualquer meio de impugnar a decisão monocrática lá proferida, sendo esse procedimento o único viável para garantir o entendimento Plenário fixado na ADI 6.684".
+
+    6. Requer, em caráter liminar: (i) a sua recondução ao cargo de Presidente da Mesa Diretora da Assembleia Legislativa de Roraima para o biênio 2021/2022, "com a consequente suspensão dos efeitos da Resolução n. 001/2021, até o trânsito em julgado da ação de procedimento comum" e (ii) a suspensão da "representação disciplinar contra o reclamante, que ora tramita na Assembleia Legislativa de Roraima, até o trânsito em julgado da ação de procedimento comum ou da presente reclamação". Ao final, postula pela cassação da decisão reclamada, para que outra seja proferida, em conformidade com as teses fixadas na ADI 6.684.
+
+    7. A Assembleia Legislativa do Estado de Roraima, na condição de interessada, apresentou manifestação nos autos, na qual aduz, em síntese que: (i) o reclamante fora reconduzido à Presidência da ALE-RR pela quarta vez consecutiva "por meio de uma manobra política por ele criada, que abusava do poder político para burlar as eleições regulares da Mesa Diretora antecipando reconduções para os mandatos do segundo biênio da legislatura assim que assumia a Presidência no primeiro biênio, frustrando qualquer possibilidade de nova eleição regular da Mesa para o segundo biênio"; (ii) foi aprovada uma Emenda Constitucional para alterar o "§4º, do art. 30, da Constituição do Estado de Roraima, no intuito de extirpar a inconstitucionalidade que concebia a possibilidade da perpetuação do mandato de Presidente e demais membros da Mesa Diretora"; (iii) o reclamante já se utilizou de diversos instrumentos processuais para modificar a decisão proferida na ADI 6.654, inclusive cinco manifestações, entre recursos e pedido de reconsideração, apresentadas no âmbito da mencionada ação de controle concentrado; (iv) a situação do Estado de Roraima não se amolda "ao contexto dos demais Estados-membros da Federação citados pelo Reclamante, Goiás (6.704), Pará (6.707), Tocantins (ADI 6.709) e Sergipe (ADI 6.710)" nem ao julgamento da ADI 6.684, "já que diferentemente dos demais casos, no Estado de Roraima houve a concessão de medida cautelar determinando a realização imediata de nova eleição para compor a Mesa Diretora desta Casa Legislativa, referente ao biênio de 2021/2022"; (v) o pedido formulado pelo reclamante é impossível, uma vez que não se pode reestabelecer a eficácia da Resolução nº 01/2019, a qual foi revogada pelo Parlamento Estadual em sessão extraordinária realizada em 30.01.2021.
+
+    8. É o relatório. Decido.
+
+    9. Dispenso as informações, devido à suficiente instrução do feito, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único). Deixo, ademais, de determinar a citação da parte beneficiária da decisão reclamada, em face da manifesta inviabilidade do pedido.
+
+    10. No julgamento conjunto das ADIs 6.707/DF e 6.684/DF, o Plenário desta Corte analisou a constitucionalidade do art. 58, § 5º, I, e § 9º, da Constituição do Estado do Espírito Santo, que autorizava a reeleição da mesa diretora da Assembleia Legislativa estadual. Naquela oportunidade, conferiu-se interpretação conforme ao dispositivo para estabelecer que é permitida apenas uma reeleição ou recondução sucessiva ao mesmo cargo da Mesa Diretora. A decisão restou assim ementada:
+
+     “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MESA DIRETORA DE ASSEMBLEIA LEGISLATIVA ESTADUAL. REELEIÇÃO ILIMITADA AO MESMO CARGO. IMPOSSIBILIDADE. PRINCÍPIOS REPUBLICANO, DEMOCRÁTICO E DO PLURALISMO POLÍTICO. PROCEDÊNCIA DO PEDIDO. INTERPRETAÇÃO CONFORME A CONSTITUIÇÃO.
+
+    1. O art. 57, § 4º, da Constituição Federal não consiste em preceito de observância obrigatória pelos Estados, de modo que tampouco pode funcionar como parâmetro de controle da constitucionalidade de regra inserida em Constituição estadual.
+
+    2. Ainda que observada a relativa autonomia das Casas legislativas estaduais para reger o processo eletivo para Mesa diretora, esse campo jurídico é estreitado por outros princípios constitucionais, que exigem o implemento de mecanismos que impeçam resultados inconstitucionais às deliberações regionais. A afirmação do princípio republicano, no que assentada a alternância de poder e a temporariedade dos mandatos, reconhecida à unanimidade pelo colegiado, impõe o estabelecimento de limite objetivo à reeleição de membros da Mesa.
+
+    3. O redimensionamento que a EC 16/1997 causou no princípio republicano serve ao equacionamento da questão constitucional ao fornecer o critério objetivo de 1 (uma) única reeleição/recondução sucessiva para o mesmo cargo da Mesa, independentemente da legislatura dos mandatos consecutivos.
+
+    4. Em situações de nova interpretação do texto constitucional, impõe-se ao Tribunal, tendo em vista razões de segurança jurídica, a tarefa de proceder a uma ponderação das consequências e ao devido ajuste do resultado, adotando a técnica de decisão que possa melhor traduzir evolução jurisprudencial adotada.
+
+    5. Procedência do pedido para conferir interpretação conforme a Constituição Federal ao art. 58, § 5º, incisos I e II, e § 9º, da Constituição do Estado do Espírito Santo, e ao art. 8º do Regimento Interno da respectiva Assembleia Legislativa, e estabelecer que é permitida apenas uma reeleição ou recondução sucessiva ao mesmo cargo da Mesa Diretora, mantida a composição da Mesa de Assembleia Legislativa eleita antes da publicação do acórdão da ADI 6524 (06/04/2021).
+
+    6. Teses de julgamento: (i) a eleição dos membros das Mesas das Assembleias Legislativas estaduais deve observar o limite de uma única reeleição ou recondução, limite cuja observância independe de os mandatos consecutivos referirem-se à mesma legislatura; (ii) a vedação à reeleição ou recondução aplica-se somente para o mesmo cargo da mesa diretora, não impedindo que membro da mesa anterior se mantenha no órgão de direção, desde que em cargo distinto; e (iii) o limite de uma única reeleição ou recondução, acima veiculado, deve orientar a formação das Mesas das Assembleias Legislativas que foram eleitas após a publicação do acórdão da ADI 6.524, mantendo-se inalterados os atos anteriores“.
+
+    11. Na ADI 6.654, proposta pelo Partido Socialismo e Liberdade (PSOL), analisava-se a constitucionalidade do art. 30, § 4º, da Constituição do Estado de Roraima, dispositivo que permitia a recondução dos titulares dos cargos da Mesa Diretora da Assembleia Legislativa. O Relator da ação, Ministro Alexandre de Moraes, concedeu cautelar para "fixar interpretação conforme a Constituição Federal ao art. 30, § 4º, da Constituição do Estado de Roraima, no sentido de possibilitar uma única recondução sucessiva aos mesmos cargos da Mesa Diretora da Assembleia Legislativa de Roraima, bem como, para suspender os efeitos da Resolução nº 001/2019, naquilo que reconduziu, por mais de uma vez, parlamentares estaduais ao mesmo cargo da mesa diretora da ALE-RR para o biênio 2021/2022, vedando-se a posse de todos os seus membros nessa situação". Determinou, ainda, a realização imediata de nova eleição para a Mesa Diretora. O julgamento pelo Plenário do Supremo Tribunal Federal teve início, mas foi suspenso em razão de pedido de vista do Min. Gilmar Mendes.
+
+    12. No caso vertente, o reclamante foi impedido de assumir o cargo de Presidente da Mesa Diretora da ALE-RR, em face da liminar concedida na ADI 6.654, tendo em vista que seria reconduzido ao cargo pela quarta vez consecutiva. Sem êxito nos recursos e pedido de reconsideração apresentados nos autos da ação de controle concentrado, ajuizou ação em face do Estado de Roraima, objetivando a sua recondução ao cargo e a suspensão da representação disciplinar movida contra ele. A sentença julgou extinto o processo sem resolução do mérito, sob o fundamento de que (i) a matéria ali discutida não se insere na competência da Justiça Estadual, uma vez que busca rediscutir questão tratada em ADI, em trâmite no STF e (ii) a pretensão teria o mesmo objeto de mandado de segurança processado naquele juízo, o que configuraria litispendência. Na sequência, o reclamante interpôs apelação, e requereu, em tutela de urgência antecedente, a concessão de efeito suspensivo, para garantir sua recondução ao cargo. O Tribunal reclamado, no entanto, não conheceu do pedido. Transcrevo trechos relevantes da decisão:
+
+     “No caso dos autos, o pedido de tutela de urgência não merece conhecimento.
+
+    O afastamento do apelante se deu em razão de decisão monocrática prolatada na ADI nº 6654, em curso no Supremo Tribunal Federal.
+
+    [...]
+
+    Observa-se que o Supremo Tribunal Federal suspendeu a eficácia da Resolução nº 001/2019 e, mesmo que a parte recorrente tenha o entendimento de que a questão de mérito lhe seja favorável, a tese não é o suficiente para atrair a competência desta Corte de Justiça para apreciar a urgência, pois além do ato que outorgava a legitimidade do apelante para assumir o cargo de Presidente se encontrar suspenso, o seu objeto ainda esbarra na decisão do STF que determinou novas eleições para a Mesa Diretora da Assembleia Legislativa do Estado de Roraima, biênio 2021/2022.
+
+    Neste ponto, o pedido de suspensão do procedimento político de cassação do mandato também resta prejudicado, pois a alegação de ilegitimidade da mesa também esbarra na decisão do STF.
+
+    Logo, mesmo que o pedido de tutela de urgência tenha fundamento em matéria vinculante do STF, esta Corte não possui legitimidade para apreciar o pedido, pois adentraria diretamente no mérito da decisão liminar do Ministro Alexandre de Moraes.
+
+    Ademais, analisando os andamentos processuais da ADI 6654, é possível observar pedido da mesma natureza, protocolado em 29/11/2021, pugnando pela recondução do apelante.
+
+    [...]
+
+    Portanto, observada a incompetência deste Tribunal para apreciar a matéria, não conheço deste pedido de tutela recursal de urgência antecedente.“
+
+    13. Como se observa, a decisão reclamada não conheceu do pedido de tutela recursal de urgência formulado pelo reclamante em razão da decisão proferida na medida cautelar da ADI 6.654, cujo mérito não poderia ser revisto pelo Tribunal reclamado. Nesse contexto, a despeito das alegações aduzidas na inicial, verifica-se que, longe de afrontar a autoridade de decisão desta Corte, o Juízo reclamado deu fiel cumprimento à ordem emanada em ação de controle concentrado em que se analisava, especificamente, a hipótese dos autos.
+
+    14. Em última análise, o que pretende o reclamante é rediscutir a decisão proferida na ADI 6.654. Ressalto que a jurisprudência deste Tribunal é pacífica no sentido de ser incabível reclamação constitucional direcionada, ainda que por via transversa, à cassação de decisões de Ministros ou Turmas do Supremo Tribunal Federal, uma vez que os atos emanados pelos seus órgãos, no exercício de suas competências legais e regimentais, são atribuíveis à própria Corte. Neste sentido: Rcl 3.916-AgR, Rel. Min. Ayres Britto, Tribunal Pleno; Rcl 9.945-AgR. Rel. Min. Luiz Fux; Rcl 9.893-AgR, Rel. Min. Dias Toffoli; entre outros. E, ainda que fosse possível adentrar o mérito, a consequência lógica seria a improcedência do pedido, ante a análise dos fatos em cotejo com a jurisprudência do Supremo Tribunal Federal.
+
+    15. Anoto, por fim, que o reclamante fez uso reiterado de meios processuais manifestamente inadmissíveis, desconsiderando a prestação jurisdicional já realizada por este Tribunal. A conduta adotada, além de afrontar o princípio processual da cooperação (art. 6º, do CPC/15), gera efeitos danosos à prestação jurisdicional, tomando tempo e recursos escassos desta Corte, e causando, ainda, prejuízos à parte contrária.
+
+    16. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, ficando prejudicado o pedido liminar. Sem honorários, porquanto não citada a parte interessada.
+
+    Publique-se.
+
+          Brasília, 02 de fevereiro de 2022.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
