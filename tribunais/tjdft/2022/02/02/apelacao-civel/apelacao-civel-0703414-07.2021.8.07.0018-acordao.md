@@ -1,0 +1,166 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+7ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0703414-07.2021.8.07.0018APELANTE(S)DJANIRA CORREIA VITORIANOAPELADO(S)DISTRITO FEDERALRelatorDesembargador FABRÍCIO FONTOURA BEZERRA Acórdão Nº1396769
+
+EMENTA
+
+APELAÇÃO CÍVEL - PROCESSO CIVIL - ADMINISTRATIVO - CUMPRIMENTO DE SENTENÇA - REAJUSTE SALARIAL DOS SERVIDORES DO DISTRITO FEDERAL - LEIS DISTRITAIS  - DATA-BASE -  COMPENSAÇÃO - POSSIBILIDADE QUANDO DA EXECUÇÃO DO JULGADO. OFENSA À COISA JULGADA. AFASTADA.
+
+1. Não ofende a coisa julgada o reconhecimento do direito à compensação dos expurgos inflacionários decorrentes do  Plano Collor, reconhecidos judicialmente, com os reajustes salariais concedidos por meio de leis distritais, que contém previsão expressa de compensação do reajuste salarial quando da data-base da categoria.
+
+2. Negou-se provimento ao recurso.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 7ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, FABRÍCIO FONTOURA BEZERRA - Relator, GETÚLIO MORAES OLIVEIRA - 1º Vogal e LEILA ARLANCH - 2º Vogal, sob a Presidência da Senhora Desembargadora GISLENE PINHEIRO, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 09 de Fevereiro de 2022
+
+Desembargador FABRÍCIO FONTOURA BEZERRARelator
+
+RELATÓRIO
+
+Cuida-se de apelação interposta por DJANIRA CORREIA VITORIANO contra r. sentença que acolheu a impugnação apresentada pelo DISTRITO FEDERAL, para determinar a compensação dos valores devidos com os reajustes concedidos e extinguiu o cumprimento de sentença.
+
+Nas razões recursais, a apelante argumenta que o juízo a quo ao determinar a compensação de reajustes à categoria de servidores que faz parte, feriu os princípios da segurança jurídica, direito adquirido, coisa julgada e princípio da razoável duração do processo.
+
+Tece considerações acerca do processo coletivo, sobre a legitimidade para ingressar com ação individual, e que a matéria da compensação já foi alcançada pela coisa julgada no processo coletivo, além de mencionar o modo e efeitos dos reajustes salariais aos servidores do Distrito Federal e, ao final, pugna pela cassação da sentença recorrida e, em pedido sucessivo, o provimento da apelação para o fim de afastar a compensação integral e reconhecer parcialmente o pedido, com a fixação do valor de R$ 284,14 (duzentos e oitenta e quatro reais e quatorze centavos) à remuneração da apelante.
+
+Houve preparo do recurso.
+
+As contrarrazões foram apresentadas.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador FABRÍCIO FONTOURA BEZERRA - Relator
+
+Presentes os pressupostos de admissibilidade, conheço do recurso, que recebo no duplo efeito.
+
+Cuida-se de apelação interposta por DJANIRA CORREIA VITORIANO contra r. sentença que acolheu a impugnação apresentada pelo DISTRITO FEDERAL para determinar a compensação dos valores devidos a título de expurgos inflacionários e, por consequência, extinguiu o cumprimento de sentença.
+
+Insurge-se contra o reconhecimento da compensação e requer a cassação da sentença e, sucessivamente, caso não acolhido o pleito, a reforma do julgado para afastar a compensação e determinar a incorporação da quantia devida na sua remuneração.
+
+Por meio da ação coletiva nº 2000.01.1.104137-3 (00013136-95.2000.8.07.0001), o Sindicato dos Servidores Públicos Civis da Adm. Dir. Aut. Fund. E TCDF – Sindireta/DF, na condição de substituto processual da categoria, na qual se enquadra a parte autora, ora apelante, teve reconhecido o direito de reposição das perdas salariais do denominado Plano Collor, nos percentuais de 84,32%, 39,80%, 2,87% e 28,44%, relativas ao IPC de março, abril, maio e junho de 1990, sentença que transitou em julgado em 27/11/2008.
+
+Com base na referida sentença coletiva, a apelante ingressou com o pedido de liquidação de sentença cumulado com obrigação de fazer.
+
+Lado outro, o Distrito Federal pugnou pela compensação dos percentuais reconhecidos na sentença coletiva com os reajustes que a categoria de servidores recebeu em decorrência das Leis nos 38/89 e 117/90, com o deferimento de compensação expressa no Decreto nº 12.728/90 e a recomposição de perdas em aumento de reajuste de 81% por meio da edição do Decreto Distrital nº 12.947/90.
+
+Prefalcialmente, a sentença recorrida não incorreu em nenhuma das ofensas aos princípios da segurança jurídica, direito adquirido, coisa julgada e princípio da razoável duração do processo, uma vez que eventual direito à compensação não rediscute matéria já decidida, ou fere qualquer dispositivo legal, bem como não traz qualquer embaraço a se enquadrar como atraso na entrega da prestação jurisdicional.
+
+Não trouxe a parte autora/exequente, por sua vez, qualquer decisão judicial que enfrentasse o tema da compensação dos valores decorrentes dos expurgos reconhecidos, motivo pelo qual não se sustenta a alegação de rediscussão da matéria.
+
+No RESP ajuizado pelo Distrito Federal em face de decisão proferida em agravo de instrumento interposto no processo coletivo em razão do processamento de liquidação de sentença no bojo da ação de conhecimento já julgada (ID 29606384 – págs 283/290), restou consignado, naquilo que interessa, o seguinte:
+
+“No mais, o acórdão recorrido merece reforma.
+
+O STJ no julgamento do Recurso Especial 1.247.150/PR (Dje 12/12/2011), julgado sob o sob o regime do art. 543-C do Código de Processo Civil de 1973, assentou que a sentença proferida em processo coletivo, "por si, não confere ao vencido o atributo de devedor de 'quantia certa ou já fixada em liquidação' (art. 475-J do CPC/1973), porquanto, 'em caso de procedência do pedido, a condenação será genérica', apenas 'fixando a responsabilidade do réu pelos danos causados' (art. 95 do CDC)".
+
+Em arremate, destacou-se: "a condenação, pois, não se reveste de liquidez necessária ao cumprimento espontâneo do comando sentencial, não havendo razão lógica ou jurídica para incidir a reprimenda prevista no art. 475-J do CPC/1973. Primeiramente, apuram-se, na própria execução, a titularidade do crédito e o quantum debeatur apresentado pelo beneficiário do provimento, e somente a partir daí é que fica individualizada a parcela que tocará ao exequente, segundo o comando sentencial proferido na ação coletiva".
+
+Após, seguiu-se com a ação cautelar de protesto interruptivo da prescrição executória, de modo que não há prova de que a matéria compensação tenha sido apreciada judicialmente em sentença definitiva, por isso, a regularidade da análise nesta oportunidade, afastada a alegação de ofensa à coisa julgada, o que será reiterado linhas abaixo.
+
+Quanto à compensação, sobressai a precisão da análise do juízo a quo acerca da matéria posta, o que resulta no não provimento do recurso.
+
+De fato, os Decretos nos 12.728/90 e 12.947/90, com base no artigo 1º da Lei 38/89 e artigos 1º e 2º da Lei Distrital nº 117/90, concederam reajustes salariais aos servidores apontados nos percentuais de 30% e 80% com a previsão expressa de compensação de antecipação de reajustes por ocasião da data-base.
+
+Vale citar os referidos dispositivos:
+
+“Lei Distrital nº 38/89 (revogada pela Lei nº 117/90):
+
+Art. 1º - Mantida a data-base estabelecida no art. 1º da <a style="font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
+widows: 2;-webkit-text-stroke-width: 0px;word-spacing:0px" href="http://www.sinj.df.gov.br/sinj/Norma/LeiOrd1988/lei_ord_04_88.htm">Lei nº 4, de 28 de dezembro de 1988, os salários, vencimentos e proventos dos servidores civis da Administração Direta, das Autarquias e das Fundações Públicas do Distrito Federal serão reajustados trimestralmente, em percentual igual à variação acumulada do Índice de Preços ao Consumidor - IPC, verificada nos três meses anteriores, deduzida a antecipação a que se refere o art. 2º desta Lei.
+
+Lei Distrital nº 117/90:
+
+Art. 1º - O Governador do Distrito Federal declarará, através de decreto, o percentual de reajuste mensal para os vencimentos, salários e demais retribuições e vantagens pecuniárias dos servidores civis da Administração Direta, Autárquica e Fundacional do Distrito Federal, observados os parâmetros e as condições fixadas pela União Federal, e, no que couber, as disposições da Lei nº 8.030, de 12 de abril de 1990.
+
+§ 1º - (VETADO)
+
+§ 2º - Os índices de que trata este artigo incidirão sobre os proventos de aposentadoria e às pensões pagas pelo Distrito Federal.
+
+Art. 2º - Na fixação a que alude o art. 1º desta Lei serão compensados os aumentos de remuneração dados, a qualquer título, executados os resultantes de implantação ou alteração de carreiras e planos de cargos e salários. “não grifos no original”.
+
+Art. 3º - São revogados os arts. 1º e 2º da Lei nº 38, de 6 de setembro de 1989, e demais disposições em contrário.
+
+Decreto nº 12.728/1990:
+
+Art. 1° - Sobre os valores dos vencimentos, proventos e demais retribuições pecuniárias dos servidores da Administração Direta, Autárquica e Fundacinal do Distrito Federal, vigentes no mês de setembro, será concedido reajuste salarial, a título de antecipação, de 30% (trinta por cento), a ser pago nos meses de outubro, novembro e dezembro.
+
+Parágrafo único — A antecipação de reajuste concedida na forma desde artigo será compensada na data base (Lei n° 4, de 28 de dezembro de 1988).
+
+Art. 2° — O disposto neste Decreto abrange os benefícios de pensão e o salário-família. “não grifos no original”.
+
+Decreto nº 12.947/1990
+
+Art. 1° — Sobre os valores dos vencimentos, proventos e demais retribuições pecuniárias dos servidores da Administração Direta, Autárquica e Fundacional do Distrito Federal, vigentes no mês de dezembro, será concedido reajuste salarial de 81% (oitenta e um por cento).
+
+Art. 2° — O disposto neste Decreto abrange os benefícios de pensão e o salário-família.”.
+
+Portanto, quanto ao tema dos reajustes e a previsão de compensação resta inconteste.
+
+Resta saber se tais reajustes, com previsão expressa de compensação atrelada à data-base, como na hipótese, podem ser compensados por eventuais créditos decorrentes de expurgos inflacionários reconhecidos judicialmente sem que possa ofender a coisa julgada.
+
+A toda evidência, a resposta é positiva, conforme remansosa jurisprudência pátria acerca da matéria.
+
+Confiram-se ementas de julgado do e. Tribunal de Justiça do Distrito Federal:
+
+“EMBARGOS DE DECLARAÇÃO. REJULGAMENTO. APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. EMBARGOS À EXECUÇÃO. COMPENSAÇÃO COM REAJUSTES ANTERIORES À SENTENÇA. POSSIBILIDADE. EXPRESSA PREVISÃO NO TÍTULO EXEQUENDO. CONTRADIÇÃO CONFIGURADA. EFEITO INFRINGENTE. POSSIBILIDADE. EMBARGOS DE DECLARAÇÃO CONHECIDO E PROVIDO. ACÓRDÃO PARCIALMENTE REFORMADO.
+
+  1. Trata-se de rejulgamento dos Embargos de Declaração anteriormente opostos, em face de o e. Ministro Relator HERMAN BENJAMIN entender que os v. Acórdãos nº 855888 e 855889 padecem do vício da contradição.
+
+  2. A"contradição" que autoriza a interposição dos embargos de declaração (CPC/15, art. 1.022, I, antigo 535, I, do CPC/73) é a do julgado com ele mesmo, e não com o entendimento da parte, ou seja, a que se acha no próprio acórdão embargado.
+
+  3. No caso dos autos, com razão o embargante. Isso porque, o ente federativo embargante, por ocasião da contestação no processo cognitivo originário, inaugurou tópico próprio a respeito da possibilidade de compensação de todos os reajustes específicos concedidos à carreira do embargado.
+
+  4. Diante disso, o il. Magistrado de primeiro grau, ao resolver o mérito da demanda cognitiva, entendeu que devem ser considerados os reajustes concedidos aos servidores, para que não haja reajuste em duplicidade, nem enriquecimento indevido do servidor. Confira-se: "[...] Finalmente à possibilidade de compensação levantada pelo requerido, entendo pela sua possibilidade, devendo ser considerados os reajustes concedidos aos servidores, para que não haja reajuste em duplicidade, nem enriquecimento indevido do servidor. [...] Diante o exposto, resolvo o mérito, nos termos do art. 269, I, do CPC, julgando procedentes os pedidos iniciais, para condenar o réu ao pagamento das diferenças salariais dos autores, desde 17 de março de 1999, nos percentuais de 84,32%, 39,80%, 2,87% e 28,44%, acrescidos da correção monetária desde o momento em que a vantagem deveria ter sido paga, e dos juros legais, a partir da citação (22/04/2004 - certidão fl. 31-v). Ressalto que no cálculo do montante devem ser considerados os reajustes já concedidos aos autores. [...]"
+
+  5. Esta eg. Turma, por ocasião do julgamento das apelações interpostas pelas partes, confirmou o posicionamento acima colacionado, reconhecendo, em capítulo próprio, que o ente federativo embargante pugnou, em sede de contestação, pela compensação dos reajustes específicos concedidos ao embargado. Oportunidade em que pontuou que esta Col. Corte de Justiça vem admitindo a aludida compensação.
+
+  5.1. Nesse sentido, é a ementa do v. Acórdão nº 432074: APELAÇÃO CÍVEL - REMESSA EX-OFFICIO - PROCESSO CIVIL - ADMINISTRATIVO - AÇÃO DE CONHECIMENTO - REAJUSTE SALARIAL DOS SERVIDORES DO DISTRITO FEDERAL - LEI DISTRITAL Nº 38/89 - PRESCRIÇÃO - SÚMULA Nº 85/STJ - LIMITAÇÃO TEMPORAL - LEI DISTRITAL Nº 117/90 - DATA-BASE - IMPERTINÊNCIA - COMPENSAÇÃO - POSSIBILIDADE QUANDO DA EXECUÇÃO DO JULGADO - FUNCIONÁRIO REGIDO PELA CLT À ÉPOCA DA VIGÊNCIA DA LEI DISTRITAL - IMPROCEDÊNCIA DO PEDIDO - SENTENÇA PARCIALMENTE REFORMADA. [...] 6. Caso o Distrito Federal comprove, em sede de execução do julgado, a ocorrência de aumentos específicos que a Administração Pública concedeu ao autor, mostra-se necessário que sejam efetivadas as compensações. Caso contrário, haveria um evidente "bis in idem", na medida em que os servidores beneficiados com a ação judicial estariam recebendo os expurgos inflacionários mais de uma vez e, assim, enriquecendo ilicitamente à custa do erário. [...] (Acórdão n.432074, 20100110064495APC, Relator: HUMBERTO ADJUTO ULHÔA, Revisor: JOÃO BATISTA TEIXEIRA,  3ª Turma Cível, Data de Julgamento: 30/06/2010, Publicado no DJE: 09/07/2010. Pág.: 104). 6. Embargos de declaração conhecido e provido. (Acórdão 1014221, 20120110085994APO, Relator: ALFEU MACHADO,  3ª TURMA CÍVEL, data de julgamento: 3/5/2017, publicado no DJE: 12/5/2017. Pág.: 277/285).
+
+“ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA.  LIQUIDAÇÃO. LEI DISTRITAL Nº. 38/89. "PLANO COLLOR". RECOMPOSIÇÃO SALARIAL. COMPENSAÇÃO DOS REAJUSTES DEFERIDOS COM O REAJUSTE DE 81% ESTABELECIDO PELO DECRETO Nº 12.947/90. MANUTENÇÃO DA DECISÃO.<br style="font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
+text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+word-spacing:0px" /> 1. Conceder os reajustes salariais já reconhecidos por decisão judicial transitada em julgado, com a finalidade de recomposição SALARIAL, sem a devida COMPENSAÇÃO com o REAJUSTE de 81% (oitenta e um por cento), autorizado pelo Decreto nº 12.947/90, com essa mesma finalidade, implicaria evidente bis in idem, "na medida em que os servidores beneficiados com a ação judicial estariam recebendo os EXPURGOS INFLACIONÁRIOS mais de uma vez e, assim, caracterizaria verdadeiro enriquecimento sem causa dos credores." (Acórdão n. 591528, 20110020129664EME, Relator LÉCIO RESENDE, Conselho Especial, julgado em 29/05/2012, DJ 11/06/2012 p. 61).<br style="font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
+text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+word-spacing:0px" /> 2. Recurso não provido. ((Acórdão 665311, 20120020256550AGI, Relator: CRUZ MACEDO,  4ª Turma Cível, data de julgamento: 20/3/2013, publicado no DJE: 5/4/2013. Pág.: 156).”.
+
+Em sede da jurisprudência do Superior Tribunal de Justiça, inclusive da 1ª Seção da referida Corte, in verbis:
+
+“ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. REAJUSTE DE 84,32%. EMBARGOS À EXECUÇÃO. REAJUSTES POSTERIORES. COMPENSAÇÃO. POSSIBILIDADE.
+
+1. Inexiste contrariedade ao art. 535, II, do CPC/1973 quando a Corte local decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir entre decisão contrária aos interesses da parte e ausência de prestação jurisdicional.
+
+ 2. A Primeira Seção do Superior Tribunal de Justiça, por ocasião do julgamento do REsp 1.235.513/AL, Rel. Min. Castro Meira, sob o rito do art. 543-C do CPC/1973, firmou a orientação segundo a qual "não ofende a coisa julgada [...] a compensação do índice de 28,86% com reajustes concedidos por leis posteriores à última oportunidade de alegação da objeção de defesa no processo cognitivo, marco temporal que pode coincidir com a data da prolação da sentença, o exaurimento da instância ordinária ou mesmo o trânsito em julgado, conforme o caso". Ainda: "Nos embargos à execução, a compensação só pode ser alegada se não pôde ser objetada no processo de conhecimento. Se a compensação baseia-se em fato que já era passível de ser invocado no processo cognitivo, estará a matéria protegida pela coisa julgada. É o que preceitua o art. 741, VI, do CPC: 'Na execução contra a Fazenda Pública, os embargos só poderão versar sobre [...] qualquer causa impeditiva, modificativa ou extintiva da obrigação, como pagamento, novação, compensação, transação ou prescrição, desde que superveniente à sentença'."
+
+3. É assente, ainda, na jurisprudência dessa Corte a orientação de que "o direito a eventuais diferenças posterga-se até a concessão, devidamente comprovada, de reajuste destinado, especificamente, à recomposição do índice não reconhecido pela Administração no momento oportuno ou até a reestruturação de carreira, mediante implantação de nova política salarial absolutamente desvinculada dos critérios anteriores, desde que observado o princípio da irredutibilidade de vencimentos" (AgRg nos EDcl no REsp 1.079.038/DF, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 17/3/2016).".
+
+ 4. Agravo interno a que se nega provimento. (AgInt no REsp 1652307/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/06/2020, DJe 15/06/2020).".
+
+“PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. LIMITAÇÃO TEMPORAL DO REAJUSTE À REESTRUTURAÇÃO DA CARREIRA. POSSIBILIDADE. NÃO OFENSA À COISA JULGADA. ENTENDIMENTO FIRMADO NO JULGAMENTO DO RESP 1.235.513/AL, SOB O RITO DO ART. 543-C DO CPC. AUSÊNCIA DE DIVERGÊNCIA DE TESES ENTRE ACÓRDÃOS PARADIGMAS E EMBARGADO. NÃO CONHECIMENTO. SUPRESSÃO OU REANÁLISE DOS FATOS EXARADOS PELO ÓRGÃO FRACIONÁRIO. IMPOSSIBILIDADE.
+
+1. Ambos os acórdãos paradigmas registraram a compreensão de que "não ofende a coisa julgada (...) a compensação do índice de 28,86% com reajustes concedidos por leis posteriores à última oportunidade de alegação da objeção de defesa no processo cognitivo, marco temporal que pode coincidir com a data da prolação da sentença, o exaurimento da instância ordinária ou mesmo o trânsito em julgado, conforme o caso", que está no mesmo sentido do acórdão embargado e da compreesão fixada sob regime do art. 543-C do CPC/1973.
+
+2. A constatação de qual foi o momento que consubstanciou a última oportunidade de manifestação da defesa no caso concreto não foi debatida no acórdão embargado e, em razão disso, não é possível, em julgamento de Embargos de Divergência, suprir ou verificar a correção da análise dos fatos exarada pelo órgão fracionário do STJ.
+
+3. Agravo Interno não provido. (AgInt nos EREsp 1419042/RS, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 14/11/2018, DJe 11/03/2019).".
+
+Não havendo ofensa a coisa julgada, como se verificou, a sentença deve ser mantida em sua totalidade, uma vez que com a compensação, a extinção do cumprimento de sentença é medida que se impõe, na forma do artigo 924, III, do CPC.
+
+Ante o exposto, CONHEÇO do recurso e NEGO-LHE PROVIMENTO.
+
+Em observância ao art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios fixados na r. sentença para 11% (onze por cento) do valor atualizado da causa.
+
+É como voto.
+
+O Senhor Desembargador GETÚLIO MORAES OLIVEIRA - 1º Vogal Com o relatorA Senhora Desembargadora LEILA ARLANCH - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
