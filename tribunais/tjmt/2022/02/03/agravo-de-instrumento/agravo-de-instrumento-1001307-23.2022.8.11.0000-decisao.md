@@ -1,0 +1,24 @@
+RAI. N.o 1001307.23.2022.811.0000
+Vistos, etc...
+Trata-se de Recurso de Agravo de Instrumento interposto pelo BANCO BMG SA., em face da r. decisão prolatada pelo juízo da 1a Vara Cível da Comarca de Rondonópolis/MT, que nos autos da AÇÃO DE REPACTUAÇÃO DE DÍVIDAS C/C TUTELA DE URGÊNCIA n. 1024043-60.2021.8.11.0003 movida por RODRIGO RIBEIRO DE OLIVEIRA, deferiu parcialmente o pedido de tutela provisória de urgência para determinar, apenas e tão somente, a limitação dos descontos dos credores/réus de forma que se limitem ao pagamento de todas as dívidas ao patamar de 30% (trinta por cento) do subsídio líquido (leia-se: deduzidos todos os descontos legais) do autor (leia-se: a limitação dos valores descontados abarcará todas as dívidas do autor, proporcionalmente, a cada um dos réus, em conformidade com o cálculo a ser apresentado pela parte autora), até ulteriores deliberações deste juízo.
+Sustenta o agravante que, ‘em que pese alegações apresentadas pela parte Agravada, deve-se ter em mente que não há qualquer prova de qualquer dano experimentado por este, tendo em vista que apensas expões fatos infundados.’.
+Aduz que, não foi ultrapassada a margem consignável nos rendimentos do Agravado; ademais, a consignação na folha de pagamento do servidor estadual é de responsabilidade exclusiva do órgão pagador.
+Argumenta que o agravado optou apenas pelo pagamento mínimo através de desconto em sua folha de pagamento, deixando em aberto as faturas que eram regularmente enviadas à sua residência, razão pela qual, sobre o saldo devedor restante, incidiram os encargos do rotativo do cartão de crédito.
+Afirma o agravante que, não foi oportunizado ao BMG, pelo juízo de piso, demonstrar que o Agravado requereu a contratação do cartão de crédito consignado e, de forma expressa, autorizou a reserva da margem consignável e a realização de descontos diretamente em sua folha de pagamento. Da mesma forma, inexiste o vício de consentimento, uma vez que todas as informações foram prestadas no ato da contratação, nos termos do que determinam os artigos 6o, inciso III5, 466 e 54, §4o7, todos do Código de Defesa do Consumidor.
+Assevera ainda, que, ‘para o cumprimento da decisão que deferiu a tutela de urgência, o BMG deverá expedir comando ao Órgão Pagador, determinando a suspensão dos descontos. Portanto, torna-se impossível o cumprimento de imediato da decisão, pois além das providências adotadas pelo BMG, deve-se aguardar aquelas de responsabilidade do Órgão Pagador do Sr. Rodrigo.’.
+Requer seja conhecido e deferido o efeito suspensivo nele postulado; e, ao final, lhe dê integral provimento, para, reformando a r. decisão Agravada, venha revogar integralmente os termos da r. decisão concessiva de antecipação de tutela, ou, caso assim não se entenda, o que não se espera, requer se digne esse e. Tribunal, diante das razões expostas no presente recurso, a adequar a porcentagem da limitação dos descontos relacionados a cartão de crédito, em atenção as peculiaridades da relação jurídica existente entre as partes, por ser medida de direito e segurança jurídica.
+Por fim, requer a expedição de ofício ao órgão pagador, para que adote as providências necessárias, no que tange a readequação dos descontos dentro da margem consignável.
+É o relatório.
+DECIDO
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I – poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando o juiz sua decisão (...)”.
+Pois bem. É incontestável a relevância das argumentações do Agravante, todavia, para fins de apreciação preliminar, há que se ater aos termos e fundamentação adotada pela decisão interlocutória combatida.
+Com esses apontamentos, em sede de cognição sumária, julgo pertinente a manutenção da decisão agravada.
+Posto isso, ausentes os requisitos necessários para a sua concessão, INDEFIRO, pois, o efeito almejado, ficando assim acertado, até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se o juízo a quo, facultando-lhe prestar informações.
+Intime-se a parte Agravada, na forma do art. 1.019, II do NCPC, para que responda no prazo legal.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
