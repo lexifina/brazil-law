@@ -1,0 +1,28 @@
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por ARI BALTAZAR LANGER, em face de decisão prolatada pelo Juízo da 1a Vara Cível da Comarca de Paranatinga/MT, que, nos autos dos Embargos à Execução c/c Pleito de Efeito Suspensivo n. 1003245-52.2021.8.11.0044, oposto em desfavor do BANCO DO BRASIL SA, e indeferiu o pedido de Justiça Gratuita.
+O Agravante aduz, em síntese, que o Agravado propôs “Ação de Execução (1000612-68.2021.8.11.0044) foi a CÉDULA DE CRÉDITO BANCÁRIO no. 492103384, celebrada em 19/10/2016 entre” as partes, no valor de R$ 808.043,35, para ser paga conforme ajuste contratual – vencendo-se a primeira parcela em 28/09/2017, e a última parcela fixada para 28/12/2017, retificado através de termos de aditivo, sendo que o último aditivo alterou o vencimento da primeira parcela para 15/05/2021 e da última parcela para 15/05/2029.
+Sustenta que em razão da discordância com a ação manejada, ante ao excesso na execução, opôs embargos à execução. Afirma não estar em condições de arcar com o pagamento dos custos do processo, e nem mesmo com o parcelamento, por ser hipossuficiente.
+Assevera que sua insuficiência financeira está comprovada por inúmeros documentos. Destaca que o pedido de gratuidade da justiça foi indeferido, determinando o recolhimento integral das custas, no prazo de 48 horas.
+Consigna que não possui recursos extras às suas despesas correntes, para poder arcar com as despesas processuais. Salienta que a “documentação não exige a prova de precariedade financeira, pois não é o que a Lei determina”.
+Destaca que “o fato de possuírem propriedades rurais torna refugada a inexistência de liquidez por parte do Agravante”.
+Ressalta contar com vultuoso saldo negativo em sua conta corrente; existência de notificação extrajudicial de credores, alertando acerca de providências para evitar vindoura ações judiciais; extrato de débitos existentes em seu CPF na ordem de R$ 10.000.000,00 e certidão de distribuição de ações promovidas em seu desfavor, apontando seu completo endividamento e impossibilitado de conseguir financiamentos juntos aos bancos ou empresas particulares para custear sua lavoura.
+Salienta que “não há de confundir o conceito de miserabilidade legal, contido na Lei 1.060/50, que se assenta em momentânea ou eventual dificuldade financeira ou na inexistência repentina de disponibilidade de recursos para ter acesso à JUSTIÇA, não exigindo a inexistência de acervo patrimonial ou de rendas”.
+Defende que “acaso seja mantida decisão em contrário, certamente ocorreria obstrução indevida de acesso à JUSTIÇA, o que não pode ser admitido em um verdadeiro estado democrático de direito”.
+Afirma que a concessão de parcelamento de custas, visto as circunstâncias inerentes a estes autos, tampouco favorece o Agravante, face ao elevado valor das custas e despesas processuais.
+Com essas considerações requer seja concedido o efeito suspensivo, para sobrestar os efeitos do decisum até o pronunciamento definitivo de mérito, bem como a concessão de efeito ativo, para determinar o regular andamento do feito, sem a necessidade de recolhimento das custas iniciais e outras despesas.
+No mérito, pugna pelo provimento do recurso, para reformar a decisão agravada e conceder a gratuidade da justiça ao Agravante. Alternativamente, requesta o deferimento do recolhimento das custas ao final do processo.
+É o relatório.
+DECIDO
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil de 2015:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão (...)”.
+Pois bem.
+No que se refere a medida vindicada, ao analisar os argumentos apresentados pelos agravantes, identifico como relevantes os fundamentos, a ensejar a concessão parcial da medida requerida.
+O valor atribuído a causa é de R$ 1.172.379,95 (um milhão, cento e setenta e dois mil, trezentos e setenta e nove reais e noventa e cinco centavos), resultando em custas processuais de distribuição no valor de R$ 23.447,60 (vinte e três mil, quatrocentos e quarenta e sete reais e sessenta centavos).
+Em sede de cognição sumária, visualiza-se o risco de difícil reparação, o que possibilita, ao menos por ora, a concessão do efeito suspensivo pleiteado.
+Dessa forma, sem prejuízo de uma análise mais acurada após as informações do Juízo a quo e resposta do Agravado, defiro parcialmente o efeito suspensivo pleiteado, tão somente para sobrestar os efeitos da decisão agravada, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se a decisão ao Juízo “a quo”, facultando-lhe prestar informações.
+Intime-se o agravado, na forma do art. 1.019, inciso II, do NCPC, para que responda, no prazo de 15 (quinze) dias.
+Des. Sebastião BARBOSA FARIAS
+Relator
