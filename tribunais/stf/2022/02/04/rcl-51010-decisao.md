@@ -1,0 +1,41 @@
+DECISÃO
+
+    1. João Freire Simões Cego propôs reclamação em face de decisão do Juiz de Direito da 3ª Vara Cível da Barra da Tijuca/RJ, na qual alega violação aos julgamentos realizados nas ADIs 6.341 e 6.343 e na ADPF 672.
+
+    Aduz o reclamante que o Juízo reclamado, ao expedir mandado de despejo em meio à pandemia de Covid-19, deixou de aplicar o disposto no Decreto Estadual 46.973/2020, que suspende a execução de medidas dessa natureza. Afirma que, por consequência, foi violado o disposto nos paradigmas indicados, nos quais firmada a competência concorrente dos entes federativos para dispor sobre proteção e defesa de saúde no contexto de combate à pandemia de Covid-19.
+
+    O reclamante requer, liminarmente, a suspensão dos efeitos da decisão reclamada, para que assegurada a permanência em sua residência até que seja revogado o Decreto 46.973/2020.
+
+    No mérito, pede a cassação da decisão reclamada.
+
+    É o relatório.
+
+    2. A presente reclamação é manifestamente improcedente.
+
+    No julgamento da ADI 6.341-MC-Ref, o Plenário desta CORTE concedeu parcialmente medida cautelar para dar interpretação conforme à Constituição ao § 9º do art. 3º da Lei 13.979, a fim de explicitar que, preservada a atribuição de cada esfera de governo, nos termos do inciso I do artigo 198 da Constituição, o Presidente da República poderá dispor, mediante decreto, sobre os serviços públicos e atividades essenciais. Confira-se a ementa do paradigma invocado:
+
+    EMENTA: REFERENDO EM MEDIDA CAUTELAR EM AÇÃO DIRETA DA INCONSTITUCIONALIDADE. DIREITO CONSTITUCIONAL. DIREITO À SAÚDE. EMERGÊNCIA SANITÁRIA INTERNACIONAL. LEI 13.979 DE 2020. COMPETÊNCIA DOS ENTES FEDERADOS PARA LEGISLAR E ADOTAR MEDIDAS SANITÁRIAS DE COMBATE À EPIDEMIA INTERNACIONAL. HIERARQUIA DO SISTEMA ÚNICO DE SAÚDE. COMPETÊNCIA COMUM. MEDIDA CAUTELAR PARCIALMENTE DEFERIDA. 1. A emergência internacional, reconhecida pela Organização Mundial da Saúde, não implica nem muito menos autoriza a outorga de discricionariedade sem controle ou sem contrapesos típicos do Estado Democrático de Direito. As regras constitucionais não servem apenas para proteger a liberdade individual, mas também o exercício da racionalidade coletiva, isto é, da capacidade de coordenar as ações de forma eficiente. O Estado Democrático de Direito implica o direito de examinar as razões governamentais e o direito de criticá-las. Os agentes públicos agem melhor, mesmo durante emergências, quando são obrigados a justificar suas ações. 2. O exercício da competência constitucional para as ações na área da saúde deve seguir parâmetros materiais específicos, a serem observados, por primeiro, pelas autoridades políticas. Como esses agentes públicos devem sempre justificar suas ações, é à luz delas que o controle a ser exercido pelos demais poderes tem lugar. 3. O pior erro na formulação das políticas públicas é a omissão, sobretudo para as ações essenciais exigidas pelo art. 23 da Constituição Federal. É grave que, sob o manto da competência exclusiva ou privativa, premiem-se as inações do governo federal, impedindo que Estados e Municípios, no âmbito de suas respectivas competências, implementem as políticas públicas essenciais. O Estado garantidor dos direitos fundamentais não é apenas a União, mas também os Estados e os Municípios. 4. A diretriz constitucional da hierarquização, constante do caput do art. 198 não significou hierarquização entre os entes federados, mas comando único, dentro de cada um deles. 5.  É preciso ler as normas que integram a Lei 13.979, de 2020, como decorrendo da competência própria da União para legislar sobre vigilância epidemiológica, nos termos da Lei Geral do SUS, Lei 8.080, de 1990. O exercício da competência da União em nenhum momento diminuiu a competência própria dos demais entes da federação na realização de serviços da saúde, nem poderia, afinal, a diretriz constitucional é a de municipalizar esses serviços. 6. O direito à saúde é garantido por meio da obrigação dos Estados Partes de adotar medidas necessárias para prevenir e tratar as doenças epidêmicas e os entes públicos devem aderir às diretrizes da Organização Mundial da Saúde, não apenas por serem elas obrigatórias nos termos do Artigo 22 da Constituição da Organização Mundial da Saúde (Decreto 26.042, de 17 de dezembro de 1948), mas sobretudo porque contam com a expertise necessária para dar plena eficácia ao direito à saúde. 7. Como a finalidade da atuação dos entes federativos é comum, a solução de conflitos sobre o exercício da competência deve pautar-se pela melhor realização do direito à saúde, amparada em evidências científicas e nas recomendações da Organização Mundial da Saúde. 8. Medida cautelar parcialmente concedida para dar interpretação conforme à Constituição ao § 9º do art. 3º da Lei 13.979, a fim de explicitar que, preservada a atribuição de cada esfera de governo, nos termos do inciso I do artigo 198 da Constituição, o Presidente da República poderá dispor, mediante decreto, sobre os serviços públicos e atividades essenciais.
+
+    (ADI 6341 MC-Ref, Relator(a): MARCO AURÉLIO, Relator(a) p/ Acórdão: EDSON FACHIN, Tribunal Pleno, julgado em 15/04/2020, PROCESSO ELETRÔNICO DJe-271 DIVULG 12-11-2020 PUBLIC 13-11-2020)
+
+    Na ADI 6.343-MC-Ref, por sua vez, foi parcialmente concedida medida cautelar para: “(a) suspender, sem redução de texto, o art. 3º, VI, “b”, e §§ 6º, 6º-A e 7º, II, excluídos Estados e Municípios da exigência de autorização da União, ou obediência a determinações de órgãos federais, para adoção de medidas de restrição à circulação de pessoas; e (b) conferir interpretação conforme aos referidos dispositivos para estabelecer que as medidas neles previstas devem ser fundamentadas em orientações de seus órgãos técnicos correspondentes, resguardada a locomoção de produtos e serviços essenciais definidos por ato do Poder Público federal, sempre respeitadas as definições no âmbito da competência constitucional de cada ente federativo”.
+
+    Por fim, a ADPF 672-MC/DF foi julgada parcialmente procedente “para assegurar a efetiva observância dos arts. 23, II e IX; 24, XII; 30, II e 198, todos da Constituição Federal na aplicação da Lei 13.979/2020 e dispositivos conexos, reconhecendo e assegurando o exercício da competência concorrente dos Estados, Distrito Federal e Municípios, cada qual no exercício de suas atribuições e no âmbito de seus respectivos territórios, para a adoção ou manutenção de medidas restritivas legalmente permitidas durante a pandemia, tais como, a imposição de distanciamento/isolamento social, quarentena, suspensão de atividades de ensino, restrições de comércio, atividades culturais e à circulação de pessoas, entre outras, sem prejuízo da competência geral da União para estabelecer medidas restritivas em todo o território nacional, caso entenda necessário, ressaltando-se, como feito na concessão da medida liminar, que a validade formal e material de cada ato normativo específico estadual, distrital ou municipal poderá ser analisada individualmente”.
+
+    Assim, nos paradigmas indicados, este Supremo Tribunal Federal reafirmou o princípio constitucional da autonomia das entidades federativas, especialmente para dispor sobre proteção e defesa da saúde no contexto de combate à pandemia de Covid-19.
+
+    A parte reclamante sustenta que a autoridade reclamada, ao expedir mandado de despejo em contrariedade a decreto estadual que suspende esse tipo de medida coercitiva durante o estado de calamidade pública decorrente do novo coronavírus, viola as decisões proferidas nos autos das ADIs 6.341 e 6.343 e da ADPF 672.
+
+    Ocorre que o ato reclamado em nenhum momento negou a competência concorrente dos entes públicos para dispor sobre proteção e defesa da saúde, bem como nenhum dos paradigmas de controle invocados trata especificamente da proibição de ordens de despejo no contexto da pandemia de Covid-19.
+
+    Como se vê, falta à espécie estrita aderência temática entre o paradigma invocado e o conteúdo do ato reclamado, sendo incabível a ação reclamatória.
+
+    3. Por todo o exposto, nego seguimento à presente reclamação.
+
+    4. Intime-se. Publique-se.
+
+Brasília, 4 de fevereiro de 2022.
+
+Ministro NUNES MARQUES
+
+Relator
