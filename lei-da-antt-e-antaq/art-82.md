@@ -19,7 +19,7 @@ XVII - exercer o controle patrimonial e contábil dos bens operacionais na ativi
 XVIII - implementar medidas necessárias à destinação dos ativos operacionais devolvidos pelas concessionárias, na forma prevista nos contratos de arrendamento;
 XIX - propor ao Ministério da Infraestrutura, em conjunto com a ANTT, a destinação dos ativos operacionais ao término dos contratos de arrendamento; e
 XX - projetar, acompanhar e executar, direta ou indiretamente, obras ou serviços de engenharia em portos organizados, decorrentes de investimentos programados pelo Ministério da Infraestrutura e autorizados no orçamento geral da União.
-§ 1º As atribuições a que se refere o caput não se aplicam aos elementos da infraestrutura autorizados, concedidos ou arrendados pela ANTT e pela Antaq.
+§ 1º As atribuições a que se refere o caput deste artigo não se aplicam aos elementos da infraestrutura arrendados ou outorgados para exploração indireta pela ANTT e pela Antaq.
 § 2º No exercício das atribuições previstas neste artigo e relativas a vias navegáveis, o DNIT observará as prerrogativas específicas da autoridade marítima.
 § 3º É, ainda, atribuição do DNIT, em sua esfera de atuação, exercer, diretamente ou mediante convênio, as competências expressas no art. 21 da Lei nº 9.503, de 1997, observado o disposto no inciso XVII do art. 24 desta Lei.
 § 4º O DNIT e a ANTT celebrarão, obrigatoriamente, instrumento para execução das atribuições de que trata o inciso XVII do caput deste artigo, cabendo à ANTT a responsabilidade concorrente pela execução do controle patrimonial e contábil dos bens operacionais recebidos pelo DNIT vinculados aos contratos de arrendamento referidos nos incisos II e IV do caput do art. 25 desta Lei.

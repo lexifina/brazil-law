@@ -17,5 +17,4 @@ III - espaços físicos em corpos d'água de domínio da União para fins de aqu
 § 10. A cessão de que trata este artigo poderá estabelecer como contrapartida a obrigação de construir, reformar ou prestar serviços de engenharia em imóveis da União ou em bens móveis de interesse da União, admitida a contrapartida em imóveis da União que não sejam objeto da cessão.
 § 11. A cessão com contrapartida será celebrada sob condição resolutiva até que a obrigação seja integralmente cumprida pelo cessionário.
 § 12. Na hipótese de descumprimento pelo cessionário da contrapartida, nas condições e nos prazos estabelecidos, o instrumento jurídico da cessão resolver-se-á sem direito à indenização pelas acessões e benfeitorias nem a qualquer outra indenização ao cessionário, e a posse do imóvel será imediatamente revertida para a União.
-§ 13. A cessão que tenha como beneficiários as autorizatárias de serviços de transportes ferroviários, nos termos da legislação específica, será realizada com dispensa de licitação e sob regime gratuito ou especial.
-§ 14. O interessado que tiver custeado a avaliação poderá receber o imóvel em cessão, sob qualquer regime, em condições de igualdade com o vencedor da licitação.
+§ 13. A cessão que tenha como beneficiária autorizatária de exploração ferroviária, nos termos da legislação específica, será realizada com dispensa de licitação.

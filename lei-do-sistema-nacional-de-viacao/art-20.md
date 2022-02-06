@@ -3,4 +3,4 @@ I - atender grandes fluxos de transporte de carga ou de passageiros;
 II - possibilitar o acesso a portos e terminais do Sistema Federal de Viação;
 III - possibilitar a articulação com segmento ferroviário internacional;
 IV - promover ligações necessárias à segurança e à economia nacionais.
-Parágrafo único. Integram o Subsistema Ferroviário Federal os pátios e terminais, as oficinas de manutenção e as demais instalações das estradas de ferro delegadas pela União.
+Parágrafo único. Integram o Subsistema Ferroviário Federal os pátios e terminais, as oficinas de manutenção e demais instalações das ferrovias outorgadas pela União.
