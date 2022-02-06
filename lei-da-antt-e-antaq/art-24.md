@@ -7,7 +7,7 @@ V - editar atos de outorga e de extinção de direito de exploração de infra-e
 VI - reunir, sob sua administração, os instrumentos de outorga para exploração de infra-estrutura e prestação de serviços de transporte terrestre já celebrados antes da vigência desta Lei, resguardando os direitos das partes e o equilíbrio econômico-financeiro dos respectivos contratos;
 VII - proceder à revisão e ao reajuste de tarifas dos serviços prestados, segundo as disposições contratuais, após prévia comunicação ao Ministério da Fazenda;
 VIII - fiscalizar a prestação dos serviços e a manutenção dos bens arrendados, cumprindo e fazendo cumprir as cláusulas e condições avençadas nas outorgas e aplicando penalidades pelo seu descumprimento;
-IX - autorizar projetos e investimentos no âmbito das outorgas estabelecidas, quando o contrato assim o exigir, exceto quando se tratar de projetos associados ou acessórios, cuja cópia do contrato será enviada para registro na agência;
+IX - autorizar projetos e investimentos no âmbito das outorgas estabelecidas, quando o contrato assim o exigir;
 X - adotar procedimentos para a incorporação ou desincorporação de bens, no âmbito dos arrendamentos contratados;
 XI - promover estudos sobre a logística do transporte intermodal, ao longo de eixos ou fluxos de produção;
 XII - habilitar o Operador do Transporte Multimodal, em articulação com as demais agências reguladoras de transportes;
