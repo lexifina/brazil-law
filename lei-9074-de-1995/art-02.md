@@ -6,3 +6,4 @@ I - aquaviário, de passageiros, que não seja realizado entre portos organizado
 II - rodoviário e aquaviário de pessoas, realizado por operadoras de turismo no exercício dessa atividade;
 III - de pessoas, em caráter privativo de organizações públicas ou privadas, ainda que em forma regular.
 IV - ferroviário explorado mediante autorização, na forma da legislação específica.
+§ 4º A outorga para exploração indireta de ferrovias em regime de direito privado será exercida mediante autorização, na forma da legislação específica.

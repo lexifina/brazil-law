@@ -9,4 +9,3 @@ a) prestação não regular de serviços de transporte terrestre coletivo de pas
 b) prestação de serviço de transporte aquaviário;
 c) exploração de infraestrutura de uso privativo; e
 e) prestação regular de serviços de transporte terrestre coletivo interestadual e internacional de passageiros desvinculados da exploração da infraestrutura.
-Parágrafo único. A exploração de ferrovias será disciplinada em legislação específica.
