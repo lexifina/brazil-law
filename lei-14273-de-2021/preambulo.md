@@ -1,0 +1,2 @@
+Estabelece a Lei das Ferrovias; altera o Decreto-Lei nº 3.365, de 21 de junho de 1941, e as Leis nºs 6.015, de 31 de dezembro de 1973, 9.074, de 7 de julho de 1995, 9.636, de 15 de maio de 1998, 10.233, de 5 de junho de 2001, 10.257, de 10 de julho de 2001, 10.636, de 30 de dezembro de 2002, 12.815, de 5 de junho de 2013, 12.379, de 6 de janeiro de 2011, e 13.448, de 5 de junho de 2017; e revoga a Lei nº 5.917, de 10 de setembro de 1973.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
