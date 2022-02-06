@@ -3,13 +3,13 @@ I - bitola;
 II - orientação geográfica;
 III - designação e numeração;
 IV - titularidade:
-a) pública; ou
+a) pública;
 b) privada;
 V - competência:
 a) federal;
 b) estadual;
-c) distrital; ou
+c) distrital;
 d) municipal;
 VI - capacidade;
-VII - movimentação; e
+VII - movimentação;
 VIII - receita.
