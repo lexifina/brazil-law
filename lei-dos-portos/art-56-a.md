@@ -1,0 +1,2 @@
+Art. 56-A. As infraestruturas ferroviárias no interior do perímetro dos portos e instalações portuárias não se constituem em ferrovias autônomas e são administradas pela respectiva autoridade portuária ou autorizatário, dispensada a realização de outorga específica para sua exploração.
+Parágrafo único. As infraestruturas ferroviárias de que dispõe o caput deste artigo observarão as normas nacionais para a segurança do trânsito e do transporte ferroviários, e caberá ao regulador ferroviário federal fiscalizar sua aplicação.
