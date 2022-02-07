@@ -1,0 +1,30 @@
+RECURSO DE APELAÇÃO CÍVEL N.o 0043551-36.2014.8.11.0041
+Vistos etc.
+Conforme se extrai do Id. 113564549, o Recurso de Embargos de Declaração oposto pela empresa Formax Construções Civils Ltda. – EPP já foi julgado; assim, determino à Secretaria que promova a evolução de classe para Recurso de Apelação.
+Isso posto, ressai do caderno processual que, em 29/11/2021, determinei a intimação da Apelante para, no prazo de 05 (cinco) dias, efetuar o pagamento do preparo recursal em dobro, sob pena de deserção, haja vista que não formulou pedido de justiça gratuita nas razões do Recurso.
+Intimada, a Recorrente opôs Embargos de Declaração, que não foi conhecido porque o ato judicial que determina o recolhimento do preparo tem natureza de despacho e, de conseguinte, é irrecorrível (Id. 113564549).
+Os autos vieram conclusos em virtude da petição de Id. 11549460, em que a Apelante requer lhe seja deferido o pedido de justiça gratuita.
+Subsidiariamente, almeja a dilação do prazo por mais 15 (quinze) dias para recolhimento do referido preparo.
+Pois bem. Primeiro, importa relembrar que embora o pedido da gratuidade possa ser formulado em qualquer momento do processo, seu deferimento tem efeito ex tunc; logo, ainda que acolhido o pedido neste momento, não afasta a necessidade do recolhimento do preparo recursal em dobro, tal qual já determinado.
+Para ilustrar:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/2015. AUSÊNCIA DE PREPARO. REGULARIZAÇÃO DO VÍCIO. INTIMAÇÃO. JUSTIÇA GRATUITA. PEDIDO DE CONCESSÃO. EFEITO EX TUNC. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ). 2. É deserto o recurso especial se, intimada a regularizar o preparo, a parte não o faz e requer a concessão do benefício da justiça gratuita. 3. O deferimento da justiça gratuita produz efeitos ex tunc. 4. Agravo interno não provido. (AgInt no AREsp 1391761/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/06/2019, DJe 26/06/2019). (sem grifos no original)
+Assim, evidente que, mesmo que a Apelante venha a obter o benefício pleiteado, a ausência de preparo acarreta deserção do Recurso de Apelação, já que não recolheu o preparo no tempo e modo devidos.
+De mais a mais, a Apelante trouxe tão somente o Comprovante de Inscrição de Situação Cadastral, de onde se extrai que está inapta por omissão de declarações e, esse documento, por si só, não comprova hipossuficiência financeira da pessoa jurídica.
+No mesmo sentido, o recente julgado do Tribunal Regional Federal da 4.a Região:
+[...]. A mera situação cadastral "inapta" junto à Receita Federal, decorrente de "omissão de declarações", não é capaz, por si só, de evidenciar a hipossuficiência da pessoa jurídica. (TRF-4 - AC: 50081111220194047100 RS 5008111-12.2019.4.04.7100, Relator: VÂNIA HACK DE ALMEIDA, Data de Julgamento: 27/04/2021, TERCEIRA TURMA).
+Logo, diante da inexistência de prova de que a Apelante faz jus ao benefício, deve ser indeferido.
+Quanto ao pedido subsidiário para que lhe seja concedido o prazo de mais 15 (quinze) dias para o recolhimento do preparo, a orientação do STJ é clara: “tendo sido deferido prazo ao recorrente para regularização da comprovação do recolhimento do preparo, nos termos art. 1.007, § 7o, do NCPC, sua inércia acarreta o reconhecimento da deserção, não cabendo nova oportunidade para regularização”. (AgInt no AREsp 1827455/PB, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/09/2021, DJe 23/09/2021). (sem grifos no original)
+No mesmo sentido:
+[...]. Conforme entendimento estabelecido pela Primeira Seção desta Corte, "[...] uma vez deferido prazo para regularização das custas, com o recolhimento em dobro, conforme previsto no art. 1.007, § 4o, do CPC/2015, a insuficiência do preparo provoca a deserção do recurso, e mostra-se inviável a concessão de nova oportunidade de retificação, nos termos do disposto no § 7o do mesmo preceito legal" (AgInt nos EDv nos EREsp 1.667.087/RS, Rel. Ministro Sérgio Kukina, Primeira Seção, julgado em 18/8/2020, DJe 21/8/2020). (AgInt no RMS 66.869/PA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/10/2021, DJe 27/10/2021). (sem grifos no original)
+Por oportuno, também transcrevo o seguinte trecho de precedente da Corte Superior, publicado em 09/08/2021:
+[...] Os princípios da boa-fé, da cooperação processual e da primazia do julgamento do mérito não afastam a preclusão do direito de comprovar o recolhimento integral do preparo e, consequentemente, a deserção do recurso. 3. Isso porque o próprio legislador, em observância a essas normas principiológicas, estabeleceu a necessidade de intimação prévia da parte interessada para a regularização do preparo antes que seja decretada a deserção, o que não foi atendido pela agravante. (AgInt no AREsp 1825780/PB, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/08/2021, DJe 09/08/2021). (sem grifos no original)
+Nas palavras do Ministro Marco Buzzi, “a jurisprudência do STJ possui entendimento segundo o qual deve ser reconhecida a deserção do recurso especial se, após a intimação, nos termos do art. 1.007, § 4o, do CPC/15, a parte não comprovar o pagamento ou não o efetuar em dobro.” (AgInt nos EDcl no REsp 1921992/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/06/2021, DJe 01/07/2021). (sem grifos no original)
+Neste caso, conforme já exposto, intimada para o recolhimento do preparo, a Apelante não cumpriu a ordem e sequer trouxe justificativa, limitando em formular pedido do benefício depois que já havia determinado o pagamento da verba.
+Logo, outro resultado não há, exceto o não conhecimento do Recurso de Apelação, diante da sua deserção.
+Diante do exposto, não conheço do Recurso de Apelação, diante da sua deserção.
+Não há falar em majoração de honorários, haja vista que fixado no percentual máximo permitido pela Lei Processual Civil.
+Intimem-se.
+Cumpra-se.
+Cuiabá-MT, 07 de fevereiro de 2022.
+Des.a Clarice Claudino da Silva
+Relatora
