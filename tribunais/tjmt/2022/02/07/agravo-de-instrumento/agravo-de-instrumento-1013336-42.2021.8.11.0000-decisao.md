@@ -1,0 +1,23 @@
+VISTOS.
+Trata-se de recurso especial, com pedido de efeito suspensivo, interposto por ANTONIO BENEDITO LOPES, com fundamento no artigo 105, inciso III, alíneas “a” e “c” da Constituição Federal, contra acórdão proferido pela Terceira Câmara de Direito Privado que, por unanimidade, desproveu o recurso, nos termos da seguinte ementa:
+RECURSO DE AGRAVO DE INSTRUMENTO – AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL – PENHORA DE ALEGADO BEM DE FAMÍLIA – AUSÊNCIA DOS REQUISITOS NECESSÁRIOS PARA O DEFERIMENTO DO EFEITO SUSPENSIVO – DECISÃO MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+Nos termos da Lei no 8.009/90, deve a parte executada comprovar que o imóvel é o único de sua propriedade e destinado à residência própria e de sua família, para que a goze da proteção da impenhorabilidade.
+A simples alegação de condição do imóvel como bem de família, sem a devida comprovação não induz na impossibilidade de constrições judiciais.
+Nas razões do recurso, o recorrente sustenta, em síntese, violação ao artigo 1o, da Lei 8.009/90, ao argumento de que o imóvel objeto da matrícula n. 40.676 é sua única residência há mais de 20 (vinte) anos.
+Com essas considerações, requer seja concedido o efeito suspensivo ao presente recurso especial.
+No mérito, “seja reformado o v. acórdão recorrido por vulnerar a interpretação teleológica do art. 1o da Lei n. 8.009/90 quanto à proteção da unidade familiar, além de desafiar o entendimento único adotado nessa superior instância, declarando, assim reitera, a impenhorabilidade do imóvel do recorrente”.
+Recurso tempestivo.
+É o relatório.
+Decido.
+Extrai-se da redação do artigo 1.029, § 5o, III do Código de Processo Civil que é da competência desta Vice-Presidência a análise do pedido de concessão do efeito suspensivo ao recurso especial no período compreendido entre a sua interposição e a publicação da decisão de sua admissibilidade.
+De outro lado, da leitura do artigo 995, parágrafo único, do Código de Processo Civil, em caso de recurso que, em regra, não é dotado de efeito suspensivo, é certo que a eficácia da decisão recorrida poderá ser suspensa quando da imediata produção de seus efeitos, houver risco de dano grave ou de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Assim, para a excepcional concessão do efeito suspensivo, mostra-se necessária a comprovação de dois requisitos legais, quais sejam, a evidente probabilidade do provimento do recurso, isto é, plausibilidade substancial do direito invocado com força suficiente a autorizar a suspensão da decisão recorrida, bem como o perigo da demora representado pela possibilidade de prejuízo advindo do retardamento da tutela jurisdicional pleiteada, pela insuportabilidade dos danos emergentes do próprio ato impugnado ou pela necessidade de se garantir a posterior eficácia do julgamento definitivo a ser proferido pelo STJ.
+Da leitura das razões recursais, não vislumbro a possibilidade de o acórdão recorrido causar ao recorrente lesão grave ou de difícil reparação, tanto pela ausência de prova objetiva neste sentido, como porque não é suficiente para demonstrar tal requisito a mera alegação de que o imóvel objeto da matrícula n. 40.676 é sua única residência/família há mais de 20 (vinte) anos.
+Isto porque, como se sabe, para a suspensão da eficácia da decisão recorrida, em razão da excepcionalidade da medida, deve o recorrente demonstrar a presença de “risco concreto (e não hipotético ou eventual), atual (ou seja, o que se apresenta iminente no curso do processo) e grave (vale dizer, o potencialmente apto a fazer perecer ou prejudicar o direito afirmado pela parte)”. (ZAVASCKI, Teori Albino. Antecipação de tutela. São Paulo: Saraiva, 1997, p. 77)
+Por fim, na espécie, o direito controvertido foi amplamente enfrentado por órgão Colegiado deste Egrégio Tribunal de Justiça, não existindo, em princípio, aparente teratologia ou total indicativo de evidente probabilidade do provimento do recurso, situação jurídica que força reconhecer que, em face da amplitude e da excepcionalidade do pedido de suspensão do v. acordão, se encontra ausente a plausibilidade do direito substancial invocado, bem como que se faz necessário aguardar, se admitido o recurso, o eventual exame do mérito recursal pela Corte Superior.
+Ante o exposto, indefiro o pedido de efeito suspensivo.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade do recurso interposto.
+Publique-se. Intimem-se.
+Às providências.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
