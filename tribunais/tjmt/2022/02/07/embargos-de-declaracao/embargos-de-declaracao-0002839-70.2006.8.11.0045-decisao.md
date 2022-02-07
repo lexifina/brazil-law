@@ -1,0 +1,19 @@
+Vistos, etc.
+Tratam-se de recurso de Embargos de Declaração opostos em face da decisão monocrática proferida no id no 105674484 que negou seguimento ao recurso inominado interposto pelo Exequente, ora Embargante, em razão da ausência de recolhimento integral do preparo recursal.
+Em suas razões recursais sustenta que interpôs recurso inominado em face da decisão que extinguiu o processo de execução, em razão da ausência de bens penhoráveis dos executados, oportunidade em que o recurso foi recebido e admitido pelo juízo a quo que deferiu o pedido de justiça gratuita.
+Aduz que ocorreu a migração do processo físico para o digital (PJE), entretanto, após a migração o processo digital não foi cadastrado em nome da patrona habilitada, Dra. Valdinéia Miquelin Bertan, razão pela qual deixou de ser intimado para cumprimento dos expedientes, dentre eles a decisão do Relator que determinou o recolhimento do preparo recursal.
+Ao final, pugna pelo acolhimento dos embargos de declaração para sanar o vício apontado com o cadastramento e vinculação da patrona do Autor ao processo, e, por consequência, devolução do prazo para comprovação do benefício da Justiça Gratuita ou recolhimento do preparo recursal.
+Decido.
+Cabem embargos de declaração quando na sentença/acórdão houver, obscuridade, contradição, omissão ou dúvida, consoante dispõe o artigo 48 da Lei 9.099/95 e artigo 1.022 do Código de Processo Civil.
+In casu, presentes os requisitos subjetivos (cabimento, interesse recursal, legitimidade e inexistência de fato extintivo ou impeditivo) e objetivos (tempestividade e regularidade formal), RECEBO os embargos de declaração.
+Após detida análise dos autos, verifica-se que razão assiste a Embargante em suas argumentações.
+Na espécie, trata-se de processo migrado para a plataforma do PJE (processo judicial eletrônico), cujos atos processuais se iniciaram por meio físico.
+Conforme se depreende dos atos administrativos desencadeados no feito, o processo possuía como representante do Autor a habilitação da causídica Dra. Valdinéia Miquelin Bertan, na sequência, houve a prolação da sentença de extinção da execução, e interposição de recurso inominado pelo Autor, em seguida, ocorreu a migração do processo para a plataforma do PJE (processo judicial eletrônico), com a posterior decisão que negou seguimento ao recurso em razão da ausência de recolhimento do preparo recursal.
+Contudo, a intimação para cumprimento da diligência não foi realizada em nome da patrona, eis que não fora cadastrada no processo eletrônico pela secretaria do juízo de origem.
+Evidente, portanto, o prejuízo suportado pelo Autor que teve negado seguimento ao recurso interposto em detrimento da intimação para recolhimento do preparo, sendo surpreendido com a decisão de deserção.
+Com efeito, cumpre esclarecer que no juízo a quo o recurso inominado em questão já havia sido recebido, além de deferido os benefícios da justiça gratuita, contudo, após melhor análise por este Relator foi proferida decisão determinando o recolhimento do preparo recursal.
+Desta forma, entendo que o prazo para recolhimento do preparo recursal deve ser restituído a partir da decisão proferida no id no 103730461, porquanto não houve leitura pela advogada habilitada.
+Posto isso, CONHEÇO dos Embargos, ante a sua tempestividade e, no mérito, ACOLHO-OS, para declarar a nulidade de todos os atos processuais praticados após a decisão proferida no id no 103730461 e, por consequência, determino a intimação da parte Recorrente para que, no prazo de 5 (cinco) dias, comprove a situação de miserabilidade/hipossuficiência, ou, alternativamente, proceda ao recolhimento do preparo no prazo de 48 (quarenta e oito) horas, sob pena de revogação do benefício da justiça gratuita.
+À Secretaria para as providencias legais no que tange a vinculação da Dra. Valdineia Miquelin Bertan no presente feito.
+JORGE ALEXANDRE MARTINS FERREIRA
+Juiz de Direito Relator
