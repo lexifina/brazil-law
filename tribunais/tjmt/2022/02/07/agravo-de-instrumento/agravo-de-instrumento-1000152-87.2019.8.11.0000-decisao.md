@@ -1,0 +1,14 @@
+VISTOS.
+Trata-se de recurso especial, com pedido de efeito suspensivo, interposto por PAULO CESAR PACKER e outro, contra acórdão proferido pela Segunda Câmara de Direito Público e Coletivo que, por unanimidade, proveu o recurso, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO – AÇÃO DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO PRATICADO PELO INTERMAT – ALEGAÇÃO DE SOBREPOSIÇÃO DAS AREAS – SITUAÇÃO INDEFINIDA – QUESTÃO QUE RECLAMA DILAÇÃO PROBATÓRIA – NECESSIDADE DE MANUTENÇÃO DA SITUAÇÃO FÁTICA EXISTENTE ATÉ O JULGAMENTO DA LIDE - DEPOSITO EM JUIZO DO PAGAMENTO DO ARRENDAMENTO DO IMOVEL RURAL – AUSENCIA DOS REQUISITOS DA TUTELA DE URGÊNCIA – DECISAO REFORMADA – RECURSO PROVIDO.
+1 – Os atos administrativos gozam de fé pública, presunção de legitimidade e veracidade, somente afastáveis na hipótese de existência de prova robusta em sentido contrário, de modo que a probabilidade de sobreposição da área objeto de alienação mediante procedimento administrativo, depende necessariamente de maior dilação probatória, notadamente pericial, a fim de analisar os resultados endossados pela Administração Pública e para que sejam dirimidas as controversas sobre os exatos contornos e limites das área.
+2 – O direito à percepção dos frutos civis pelo atual possuidor do imóvel decorre intrinsicamente do seu exercício de posse sobre a área por longos anos sem qualquer oposição, que remonta mais de uma década (art. 1.214 C.Civil), descaracterizando-se a urgência arguida para obtenção da tutela a fim de obstar o recebimento dos valores dela provenientes. Depósitos que devem ser levantados em favor do atual possuidor.
+3 - Recurso Provido.
+Recurso tempestivo e devidamente preparado.
+Pois bem, na espécie, o direito controvertido foi amplamente enfrentado por órgão Colegiado deste Egrégio Tribunal de Justiça, situação jurídica que força reconhecer que em face da amplitude e da excepcionalidade do pedido de suspensão do v. acórdão, necessário se faz analisar a pretensão após as contrarrazões.
+Aliás, para a excepcional concessão do efeito suspensivo, em atenção ao que dispõe o artigo 995, parágrafo único, do Código de Processo Civil, mostra-se necessária a comprovação de dois requisitos legais, quais sejam, a evidente probabilidade do provimento do recurso, isto é, plausibilidade substancial do direito invocado com força suficiente a autorizar a suspensão da decisão recorrida, bem como o perigo da demora representado pela possibilidade de prejuízo advindo do retardamento da tutela jurisdicional pleiteada, não se vislumbrando prejuízo o aguardo do contraditório.
+Ante o exposto, intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal.
+Após, a apresentação das contrarrazões ou o decurso do prazo, tornem os autos conclusos.
+Publique-se. Intime-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
