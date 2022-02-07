@@ -1,8 +1,8 @@
 Art. 22. As ferrovias integrantes do Subsistema Ferroviário Federal são designadas pelo símbolo 'EF'.
 § 1º O símbolo 'EF' é acompanhado por uma sequência de 3 (três) caracteres, com os seguintes significados:
 I - o primeiro caractere indica a categoria da ferrovia, da seguinte forma:
-a) 1 (um) para as Ferrovias Longitudinais;
-b) 2 (dois) para as Ferrovias Transversais;
+a) 1 (um) para as longitudinais;
+b) 2 (dois) para as transversais;
 c) 3 (três) para as diagonais;
 d) 4 (quatro) para as de ligação;
 e) 0 (zero) para as radiais;

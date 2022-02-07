@@ -20,14 +20,3 @@ p) os demais casos previstos por leis especiais.
 § 3º Ao imóvel desapropriado para implantação de parcelamento popular, destinado às classes de menor renda, não se dará outra utilização nem haverá retrocessão.
 § 4º Os bens desapropriados para fins de utilidade pública e os direitos decorrentes da respectiva imissão na posse poderão ser alienados a terceiros, locados, cedidos, arrendados, outorgados em regimes de concessão de direito real de uso, de concessão comum ou de parceria público-privada e ainda transferidos como integralização de fundos de investimento ou sociedades de propósito específico.
 § 5º Aplica-se o disposto no § 4º deste artigo nos casos de desapropriação para fins de execução de planos de urbanização, de renovação urbana ou de parcelamento ou reparcelamento do solo, desde que seja assegurada a destinação prevista no referido plano.
-§ 8º Os bens desapropriados para fins de utilidade pública e os direitos decorrentes da respectiva imissão na posse poderão ser:
-I - alienados a terceiros;
-II - locados;
-III - cedidos;
-IV - arrendados;
-V - outorgados em regimes de:
-a) concessão de direito real de uso;
-b) concessão comum; ou
-c) parceria público-privada; e
-VI - transferidos como integralização de fundos de investimento ou sociedades de propósito específico.
-§ 9º Aplica-se o disposto no § 8º aos casos de desapropriação para fins de execução de planos de urbanização, de renovação urbana ou de parcelamento ou reparcelamento do solo, desde que seja assegurada a destinação prevista no referido plano de urbanização ou de parcelamento de solo.

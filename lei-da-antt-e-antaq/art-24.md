@@ -22,4 +22,3 @@ Parágrafo único. No exercício de suas atribuições a ANTT poderá:
 I - firmar convênios de cooperação técnica e administrativa com órgãos e entidades da Administração Pública Federal, dos Estados, do Distrito Federal e dos Municípios, tendo em vista a descentralização e a fiscalização eficiente das outorgas;
 II - participar de foros internacionais, sob a coordenação do Ministério dos Transportes.
 III - firmar convênios de cooperação técnica com entidades e organismos internacionais.
-IV - adotar, no todo ou em parte, normas e regulações elaboradas por entidades privadas, nacionais, estrangeiras ou internacionais, sobre exploração ou operação de vias e de terminais.
