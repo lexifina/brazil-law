@@ -1,0 +1,47 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    EXECUÇÃO FISCAL - COBRANÇA DE ICMS - EMBARGOS À EXECUÇÃO - CDA - LIMITES DO ART. 745 DO CPC - DECADÊNCIA - SUBSTITUIÇÃO TRIBUTÁRIA - COISA JULGADA - INOCORRÊNCIA - HONORARIOS ADVOCATICIOS. - Nos termos do art. 745, do CPC: "Quando a execução se fundar em título extrajudicial o devedor poderá alegar, em Ei embargos, além das matérias previstas no ad. 741, qualquer outra que lhe seria licito deduzir como defesa no processo de conhecimento". - O ICMS é tributo cq sujeito ao lançamento por homologação, equivalendo dizer que deve ser, calculado e recolhido pelo contribuinte, submetido o eventual pagamento à% Ø homologação pelo Fisco. No entanto, quando o pagamento não é efetuado, não haverá lugar para a homologação, de sorte quê o lançamento deverá ser de oficio. -Neste caso a contagem do-prazo decadencial seguirá a regra do art. 73, do CTN. - Nos termos do ad. 472, do CPC, "a sentença faz coisa julgada às partes entre as quais é dada, não beneficiando, nem prejudicando terceiros". - O artigo 20 § 40 do Código de Processo Civil, estabelece que nas execuções embargadas ou não os honorários serão fixados consoante apreciação eqüitativa do juiz, atendidas as normas das alíneas a, b, e c do parágrafo anterior, ou seja, o grau de zelo do profissional, o lugar de prestação do serviço e a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, I LIV; 155, § 2º, I da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 1º/2/19).
+
+    Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    Assim, realizadas tais considerações, passo à análise da alegada decadência do direito da fazenda exigir seu crédito. O ICMS é tributo sujeito ao lançamento por homologação, equivalendo dizer que deve ser calculado e recolhido pelo contribuinte, submetido o eventual pagamento à homologação pelo Fisco. No entanto, quando o pagamento não é efetuado, não haverá lugar para a homologação, de sorte que o lançamento deverá ser de ofício. Neste caso, a contagem do prazo decadencial seguirá a regra do ad. 173 e não a do ad. 174, §4 0, ambos do CTN. Segundo o ad. 173 do CTN, temos:
+
+    (...)
+
+    Compulsando aos autos, constado que os tributos cobrados se referem ao exercício dos anos de 1996 e 1997, sendo que, o prazo decadencial teria início no primeiro dia do exercício seguinte àquele em que o lançamento deveria ter sido efetuado, ou seja, em 1 0de janeiro de 1997 e em 1 0de janeiro de 1998, respectivamente. Sabe-se que com a lavratura do auto de infração consuma-se o lançamento do crédito tributário, sendo que, no caso em questão, conforme bem ressaltado pelo próprio embargante, às fis. 320-TJ, "a embargada procedeu à fiscalização e conseqüente autuação em 20 de dezembro de 2001", portanto, antes do término do prazo decadencial.
+
+    (...)
+
+    Também não procede a alegada ilegitimidade passiva da embargante para figurar como executada no processo de Execução Fiscal, porque, na qualidade de substituta tributária da empresa Medcall Produtos Farmacêuticas Ltda.. Ora, a circunstância de haver responsabilidade solidária por parte da substituída em relação às operações sujeitas ao regime de Substituição Tributária, não exime a substituta dessas responsabilidades, a que é chamada a responder na Execução Fiscal embargada. Por fim, verifica-se, que o executado embargou a execução fiscal em apenso, ao argumento de que teria a seu favor decisão transitada em julgado, concessiva de segurança impetrada por Medcall Produtos Farmacêuticos Ltda, eximindo-a de reter o ICMS Substituição. Sobre a controvérsia em questão, tenho como necessário tecer alguns apontamentos. A Medcall Produtos Farmacêuticos Ltda, em litisconsórcio com outras empresas do ramo, em 1991 ajuizou perante a 3a Vara da Fazenda Pública da Comarca de Belo Horizonte, a Ação Declaratória n° 024.91.804286-2, proposta juntamente com Cautelar Inominada com o fim de que lhes fosse deferida liminar autorizando o não recolhimento do ICMS devido por substituição tributária na distribuição e venda de medicamentos. A referida Declaratória chegou ao seu termo final em 1997, quando, em tramite perante o Superior Tribunal de Justiça, por meio do despacho proferido pelo ilustre Ministro Peçanha Martins, negou seguimento ao recurso aviado pelas autoras, confirmando o direito do fisco estadual na cobrança do tributo. Ocorre que, não lhes tendo sido deferida a liminar pleiteada na ação cautelar,a Medcall Produtos Farmacêuticos Ltda impetrou na Comarca de Poços de Caldas, Mandado de Segurança Preventivo n° 14.787192, através do qual, a obrigação de reter e recolher o ICMS, foi afastada por decisão judicial exarada e transitada em julgado em 1998, após julgar prejudicado o agravo interposto pela Fazenda Pública. Assim, a referida decisão, equivocadamente, acabou confirmando que a impetrante encontrava-se na condição de substituta tributária em relação às operações realizadas para o Estado de Minas Gerais. Digo, equivocadamente, porque, analisando a controvérsia, tenho que, quando o ilustre Ministro limar Galvão, do Supremo Tribunal Federal, julgou prejudicado o agravo de instrumento interposto pelo Estado, estava na verdade, confirmando a existência da coisa julgada na Ação Declaratória.
+
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário interpretar a legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+
+    Agravo regimental no recurso extraordinário com agravo. Tributário. Execução fiscal. Prescrição. Interrupção. Código Tributário Nacional, Código de Processo Civil e Lei nº 6.830/80. Infraconstitucional. Ofensa constitucional indireta ou reflexa. 1. Possui natureza infraconstitucional a discussão a respeito da interrupção do prazo prescricional em sede de execução fiscal na qual se envolva a interpretação do Código Tributário Nacional, do Código de Processo Civil e da Lei nº 6.830/80. A afronta ao texto constitucional seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. 2. Agravo regimental não provido”. (ARE 810802 AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe 29.8.2014)
+
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. EXECUÇÃO FISCAL. PRESCRIÇÃO. INCIDÊNCIA DO ART. 219, § 1º, DO CPC. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS (CÓDIGO DE PROCESSO CIVIL, CÓDIGO TRIBUTÁRIO NACIONAL E LEI 6.830/80). INVIABILIDADE. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (ARE 814202 AgR, Segunda Turma, Rel. Min. Teori Zavascki, DJe 19.8.2014)
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 7 de fevereiro de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
