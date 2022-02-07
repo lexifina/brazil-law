@@ -5,5 +5,4 @@ Art. 2º É vedado à União, aos Estados, ao Distrito Federal e aos Municípios
 I - aquaviário, de passageiros, que não seja realizado entre portos organizados;
 II - rodoviário e aquaviário de pessoas, realizado por operadoras de turismo no exercício dessa atividade;
 III - de pessoas, em caráter privativo de organizações públicas ou privadas, ainda que em forma regular.
-IV - ferroviário explorado mediante autorização, na forma da legislação específica.
 § 4º A outorga para exploração indireta de ferrovias em regime de direito privado será exercida mediante autorização, na forma da legislação específica.

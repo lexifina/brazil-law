@@ -1,7 +1,7 @@
 Art. 25. Cabe à ANTT, como atribuições específicas pertinentes ao Transporte Ferroviário:
 I - publicar os editais, julgar as licitações e as seleções e celebrar os contratos para exploração indireta de ferrovias, permitida sua vinculação com contratos de arrendamento de ativos ou concessão de uso;
 II - administrar os contratos de concessão e arrendamento de ferrovias celebrados até a vigência desta Lei, em consonância com o inciso VI do art. 24;
-III - publicar editais, julgar as licitações e celebrar contratos de concessão e de permissão para construção e exploração de novas ferrovias, com cláusulas de reversão à União dos ativos operacionais edificados e instalados;
+III - publicar editais, julgar as licitações e celebrar contratos de concessão para construção e exploração de novas ferrovias, com cláusulas de reversão à União dos ativos operacionais edificados e instalados;
 IV - fiscalizar diretamente, com o apoio de suas unidades regionais, ou por meio de convênios de cooperação, o cumprimento das cláusulas contratuais de prestação de serviços ferroviários e de manutenção e reposição dos ativos arrendados;
 V - regular e coordenar a atuação dos concessionários, permissionários e autorizatários, de modo a assegurar a neutralidade com relação aos interesses dos usuários e dos clientes, orientar e disciplinar a interconexão entre as diferentes ferrovias, e arbitrar as questões não resolvidas pelas partes ou pela autorregulação;
 VI - articular-se com órgãos e instituições dos Estados, do Distrito Federal e dos Municípios para conciliação do uso da via permanente sob sua jurisdição com as redes locais de metrôs e trens urbanos destinados ao deslocamento de passageiros;

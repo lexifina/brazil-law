@@ -1,6 +1,6 @@
 Art. 14. Ressalvado o disposto em legislação específica, o disposto no art. 13 aplica-se conforme as seguintes diretrizes:
 I - depende de concessão:
-a) a exploração das rodovias, das vias navegáveis e dos portos organizados que compõem a infraestrutura do Sistema Nacional de Viação;
+a) a exploração das ferrovias, das rodovias, das vias navegáveis e dos portos organizados que compõem a infra-estrutura do Sistema Nacional de Viação;
 II - (VETADO)
 III - depende de autorização:
 a) (VETADO)
