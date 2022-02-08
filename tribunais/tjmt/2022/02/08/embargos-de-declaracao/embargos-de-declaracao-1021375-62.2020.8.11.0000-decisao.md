@@ -1,0 +1,18 @@
+Vistos, etc.
+Embargos de Declaração opostos por INSTITUIÇÃO EDUCACIONAL MATOGROSSENSE -IEMAT, contra decisão que reconheceu a necessidade de litisconsorte passivo necessário, determinando a inclusão do FNDE no polo passivo da ação, com a consequente remessa dos autos à Justiça Federal, para julgamento.
+O Embargante aduz que, em que pese a decisão mencionar que o pedido de sobrestamento deva ser realizado perante a Justiça Federal, o fato é que a ação principal/originária está em tramitação da Justiça Comum. Assim, defende que há contradição.
+Ao final requer seja sanado o vício invocado e que haja sobrestamento temporário do feito, até que sobrevenha decisão final da Ação Coletiva no 1005518- 09.2016.8.11.0002 em trâmite na 1a Vara Civil de Várzea Grande/- MT, ajuizada pelo CENTRO ACADÊMICO XII DE AGOSTO (MEDICINA).
+Ainda requer o reconhecimento da necessidade de litisconsorte passivo necessário, determinando a inclusão do FNDE no passivo também na ação originária.
+É o relatório.
+Nos termos do §2o., do artigo 1.024 do CPC, passo a decidir.
+Não há contradição ou outro vício a ser reconhecido.
+O processo já se encontra com decisão de suspensão (id. 56350499), portanto, sem interesse recursal a parte no ponto, a qual fica mantida até ulterior deliberação da Justiça Federal.
+Registro que parágrafo mencionado foi lançado por equívoco face ao pedido contido na petição, na qual a parte se manifestou pelo reconhecimento do litisconsorte passivo necessário. Razão pela qual reconheço tratar-se de um erro material.
+Oportuno registrar ainda que as determinações da decisão refletem e abrangem também o feito principal, pois, restou declarado que a resolução da controvérsia depende do exame do papel e da responsabilidade do FNDE na execução contratual do financiamento estudantil.
+Para ilustrar, mutatis mutandis:
+“AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. PROCESSUAL CIVIL. PACIENTE IDOSA, HIPOSSUFICIENTE PORTADORA DE NEOPLASIA ENDÓCRINA MÚLTIPLA (CID 10 C-750). FORNECIMENTO DE MEDICAMENTO NÃO INCORPORADO EM ATOS NORMATIVOS DO SUS COM REGISTRO NA ANVISA. TRATAMENTO ONCOLÓGICO. CUSTEIO. RECURSOS FEDERAIS. NECESSIDADE DE INCLUSÃO DA UNIÃO NO POLO PASSIVO DA LIDE. INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. REMESSA À JUSTIÇA FEDERAL. RECURSO PREJUDICADO.. (...) 5. Assim, restando caracterizada situação de clara e manifesta incompetência absoluta da Justiça Estadual, a qual pode ser conhecida a qualquer tempo e até mesmo de ofício, por se tratar de questão de ordem pública, deve o processo principal ser encaminha do feito à Justiça do Federal, para regular processamento. 6. Ressalte-se, por fim, que fica mantida a decisão que, anteriormente, antecipou os efeitos da tutela vindicada nos autos até que outra venha a ser proferida pelo juízo competente, nos termos do art. 64, § 4o, do CPC. - Precedentes. - Incompetência da Justiça Estadual reconhecida. - Remessa à Justiça Federal. - Decisão interlocutória mantida, com fundamento no no § 4o, art. 64, do CPC. - Recurso prejudicado.” (TJ-CE - AI: 06292660920218060000 CE 0629266-09.2021.8.06.0000, Relator: MARIA IRACEMA MARTINS DO VALE, Data de Julgamento: 13/09/2021, 3a Câmara Direito Público, Data de Publicação: 13/09/2021) destaquei
+Ante todo exposto, REJEITO OS EMBARGOS DE DECLARAÇÃO, contudo, reconheço erro material para excluir da decisão embargada a menção quanto ao efeito suspensivo, mantendo a decisão de id. id. 56350499, até que sobrevenha posterior deliberação da Justiça Federal; também para prestar o esclarecimento de que a decisão embargada abrange o feito principal, devendo-se proceder com a comunicação ao Juízo de 1o. Grau, para cumprimento.
+Intime-se a parte embargante e o terceiro interessado.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
