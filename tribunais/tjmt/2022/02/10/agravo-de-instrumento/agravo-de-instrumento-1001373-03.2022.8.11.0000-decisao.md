@@ -1,0 +1,36 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1001373-03.2022.811.0000
+AGRAVANTE: BANCO ITAU CONSIGNADO S.A.
+AGRAVADO: ARLINDO JOSE DE JESUS
+Vistos.
+Trata-se de recurso de agravo de instrumento interposto por BANCO ITAU CONSIGNADO S.A. contra decisão proferida pela MM. Juíza de Direito, da Terceira Vara Cível da Comarca de Rondonópolis/MT, Dra. Milene Aparecida Pereira Beltramini, lançada nos autos da Ação Declaratória de Inexistência de Relação Jurídica e Repetição de Indébito e Indenização em Danos Morais c/c Pedido de Tutela Antecipada n. 1029808-12.2021.8.11.0003, ajuizada por ARLINDO JOSE DE JESUS, que deferiu a tutela de urgência vindicada, determinando a suspensão das cobranças referente aos contratos n. 636904532, 632101998, 611339988, 588024740 e 552849119, até o julgamento final da demanda, sob pena de pagamento de multa fixada em R$ 500,00 (quinhentos reais) por dia de descumprimento, limitando ao valor de R$ 10.000,00 (dez mil reais), bem como determinou a abstenção de inserção do nome do demandante no serviço de proteção ao crédito, referente aos títulos descritos na inicial dos autos originários.
+O agravante em suas razões recursais afirma que não se vislumbra no caso em apreço qualquer comprovação dos requisitos dispostos no Art. 300 do CPC/2015 para a concessão da tutela antecipada.
+Defende que a multa imposta é excessiva e que não atende aos princípios de proporcionalidade e razoabilidade, bem como que não há delimitação de prazo razoável para o cumprimento da obrigação.
+Por outro lado, diz que caso a multa não seja afastada que a mesma seja reduzida a um patamar razoável, bem como que a multa seja limitada por evento.
+Por fim, insta salientar que é deveras exíguo o prazo concedido para cumprimento da decisão, mormente considerando que o Banco Agravante possui procedimentos administrativos para a comunicação tanto interna quanto ao INSS.
+Diante do que expôs, pugna pela concessão do efeito suspensivo ao presente recurso. No mérito, pugna pelo provimento do recurso para cassar a decisão objurgada.
+Preparo recolhido conforme Id.116674466.
+É o relatório.
+Decido.
+Por tempestivo e próprio recebo o recurso na forma dos artigos 1.015, inc. I c/c 1.017 do Código de Processo Civil.
+A discussão dos autos versa sobre possíveis descontos indevidos no benefício previdenciário do agravado.
+Como assinalado, o juízo de primeiro grau determinou a suspensão dos descontos no benefício previdenciário do autor/agravado e fixou multa de R$ 500,00 (quinhentos reais) por dia de descumprimento, ponderando, a princípio, que tais descontos são indevidos, bem como por considerar que configuram prejuízo de difícil reparação caso continuem sendo realizados.
+Assim, a imposição de multa cominatória ou astreintes tem por finalidade coagir o agravante a satisfazer a prestação de uma obrigação, fixada em decisão judicial, não tendo por objetivo o seu pagamento, mas o cumprimento da obrigação.
+Desse modo, nesta fase de cognição sumária, não me convenço da necessidade de suspender a multa estipulada, isso porque esta constitui instrumento colocado à disposição do Magistrado com a finalidade de compelir o cumprimento da ordem judicial.
+Nesse sentido, o entendimento jurisprudencial desta Corte:
+“AGRAVO DE INSTRUMENTO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS - EMPRÉSTIMO CONSIGNADO - ANTECIPAÇÃO DE TUTELA DEFERIDA - SUSPENSÃO DOS DESCONTOS EM FOLHA DE PAGAMENTO - PRESENÇA DOS REQUISITOS DO ART. 300 DO CPC - MULTA COMINATÓRIA DIÁRIA - REDUÇÃO DO VALOR E AUMENTO DO PRAZO - IMPOSSIBILIDADE - SOB PENA DE RETIRAR O CARÁTER COERCITIVO - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Mostra-se pertinente manter a imposição da multa diária, fixada em valor e prazo razoável, a fim de buscar efetividade à decisão judicial, sobretudo se considerar que é faculdade do Magistrado a aplicação de medidas coercitivas em caso de descumprimento de ordem judicial.” (AI 1010903-02.2020.8.11.0000, DES. GUIOMAR TEODORO BORGES, Quarta Câmara de Direito Privado, Julgado em 29/07/2020, Publicado no DJE 31/07/2020) (sem negritos no original).
+“AGRAVO DE INSTRUMENTO – AÇÃO OBRIGAÇÃO DE FAZER C/C INEXISTÊNCIA DE ATO JURÍDICO C/C DEVOLUÇÃO DE PARCELAS PAGAS C/C INDENIZAÇÃO POR DANOS MORAIS – DETERMINAÇÃO DE SUSPENSÃO DE DESCONTO – MULTA ASTREINTE – ALEGAÇÃO DE VALOR DESPROPORCIONAL E PRAZO EXÍGUO – DESCABIMENTO – DESNECESSIDADE DE LIMITAÇÃO – RECURSO DESPROVIDO.
+A aplicação da astreinte, para o caso de descumprimento da ordem judicial, trata-se de medida coercitiva plenamente cabível para casos como a dos autos, nos exatos termos do artigo 537, caput, do CPC, de forma que não há empecilho para sua aplicação. Assim, uma vez obedecidos os primados da equidade, razoabilidade e proporcionalidade, a manutenção do valor fixado pelo Juízo a quo, bem como do seu prazo para cumprimento, é medida que se impõe.
+Não há necessidade da fixação de um teto ou valor limite da multa diária, pois o julgador pode, inclusive de ofício, revisar o valor, caso verifique que este se tornou insuficiente ou excessivo.” (AI 1009309-50.2020.8.11.0000, DESA. ANTÔNIA SIQUEIRA GONÇALVES, Terceira Câmara de Direito Privado, Julgado em 29/07/2020, Publicado no DJE 30/07/2020) (sem negritos no original).
+Ademais, há de se deixar registrado que em respeito ao princípio da razoável duração do processo, não vejo motivos, ao menos por ora, para afastar, reduzir a multa fixada nem mesmo limitá-la por evento, até mesmo porque o julgador pode, inclusive de ofício, revisar o valor, caso verifique que este se tornou insuficiente ou excessivo.
+Assim, em que pese os argumentos do agravante, o valor da multa fixado em R$ 500,00 (quinhentos reais), não se mostra desproporcional ou mesmo desarrazoado, sobretudo diante da possibilidade financeira do banco recorrente.
+Ademais, como já mencionado, a imposição de multa na decisão atacada, em caso de seu não cumprimento, não possui caráter puramente sancionatório, mas sobretudo inibitório da possível inércia da parte obrigada, bastando que a parte agravante cumpra a ordem judicial para se furtar da multa imposta.
+De outra feita, no que tange ao prazo fixado para cumprimento da obrigação, não obstante o inconformismo do agravante, embora, de fato, inexistente a fixação de prazo pra tanto, não há nos autos nenhum dado que ateste que a decisão recorrida foi proferida em dissonância com os princípios da proporcionalidade e razoabilidade, ainda mais considerando que o agravante não demonstrou a impossibilidade de cumprir a decisão proferida pelo juízo a quo, não havendo motivo para a alegada insurgência.
+Da mesma forma, ausente o perigo de dano ao resultado útil do processo, em se aguardar até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será apresentado na contraminuta, possa decidir com segurança, sobre o mérito do recurso.
+Desta feita, NÃO CONCEDO o almejado efeito suspensivo.
+Intime-se o agravado para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá – MT, 10 de fevereiro de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
