@@ -1,0 +1,52 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0700622-28.2021.8.07.0003EMBARGANTE(S)FACEBOOK SERVICOS ONLINE DO BRASIL LTDA. e DIOGO ROCHA DE CASTROEMBARGADO(S)DIOGO ROCHA DE CASTRO e FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.RelatorJuiz ANTONIO FERNANDES DA LUZ Acórdão Nº1400469
+
+EMENTA
+
+EMBARGOS DE DECLARAÇÃO OPOSTOS POR AMBAS AS PARTES. RELAÇÃO DE CONSUMO. PERFIL FACEBOOK DELETADO. ÔNUS DA PROVA. ATO ILÍCITO NÃO COMPROVADO. DANO MORAL. NÃO CONFIGURADO. INOVAÇÃO RECURSAL. NÃO CABIMENTO. OMISSÃO. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA. MERO INCONFORMISMO. IMPOSSIBILIDADE. VIA INADEQUADA.
+
+1. Acórdão lavrado de acordo com a disposição inserta nos artigos 2º e 46, da Lei 9.099, de 26.09.1995 e artigo 60, §§ 1º e 2º, do Regimento Interno das Turmas Recursais. Presentes os pressupostos específicos, conheço dos recursos.
+
+2. Embargos de Declaração opostos pelas duas partes. Passo a análise dos embargos do 1º embargante/recorrente, Facebook Serviços Online do Brasil Ltda.
+
+3. A via dos embargos de declaração é destinada a corrigir falha do comando judicial capaz de comprometer o seu entendimento, quando decorrente de contradição, omissão, obscuridade ou correção de erro material.
+
+4. A ausência do vício apontado (falta de enfrentamento de questão relevante ao deslinde da controvérsia – omissão) indica que o interesse do embargante é no sentido de trazer, novamente à tona, discussão sobre matéria já analisada na decisão recorrida – providência incompatível com a via eleita.
+
+5. O 1º embargante aponta o vício de omissão do acórdão ao argumento de que o colegiado não haveria se manifestado acerca da necessidade de resolução da obrigação de reativação do perfil do recorrido/embargado e consequente conversão em perdas e danos.
+
+6. Na hipótese, os autos foram devidamente analisados por este colegiado e os fundamentos adequadamente expostos no item 11 da ementa, quando se afirma que o conjunto probatório apresentado pelo recorrente não foi suficiente para demonstrar fatos impeditivos, modificativos ou extintivos do direito do autor, inclusive em relação a afirmação de que não seria possível a reativação da conta sob análise.
+
+7. Passo a análise dos embargos opostos pelo 2º embargante/recorrido, Diogo Rocha de Castro.
+
+8. O 2º embargante aponta o vício de omissão do acórdão ao argumento de que não haveria sido apreciado pedido de majoração da multa fixada, formulado em sede de contrarrazões ao recurso inominado.
+
+9. Não assiste razão ao 2º embargante, pois o meio processual escolhido não é apto para formular pedidos de modificação do “decisum”, em face do descontentamento com os termos da sentença.
+
+10. Ausente qualquer dos vícios catalogados no artigo 48 da Lei 9.099/1995 c/c 1.022 do Código de Processo Civil revela-se incabível a via manejada, a qual destina-se tão somente à correção de falha do julgado e não meio de substituição de provimentos judiciais, fim para o qual assiste à parte os remédios processuais específicos.
+
+11. Embargos de Declaração CONHECIDOS e REJEITADOS.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, ANTONIO FERNANDES DA LUZ - Relator, FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal e AISTON HENRIQUE DE SOUSA - 2º Vogal, sob a Presidência do Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA, em proferir a seguinte decisão: EMBARGOS CONHECIDOS E REJEITADOS. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 18 de Fevereiro de 2022
+
+Juiz ANTONIO FERNANDES DA LUZRelator
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - RelatorA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 1º Vogal Com o relatorO Senhor Juiz AISTON HENRIQUE DE SOUSA - 2º Vogal Com o relator
+
+DECISÃO
+
+EMBARGOS CONHECIDOS E REJEITADOS. UNANIME.
