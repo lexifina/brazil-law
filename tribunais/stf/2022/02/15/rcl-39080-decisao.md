@@ -1,0 +1,59 @@
+DECISÃO:
+
+    1.  Trata-se de reclamação, com pedido de liminar, em face de decisão do Tribunal de Justiça do Estado do Maranhão (TJ/MA), que determinou o processamento e julgamento de ação direta de inconstitucionalidade lá ajuizada em face da Lei complementar estadual nº 219/2019, que “dispõe sobre o cumprimento, no Estado do Maranhão, do disposto na Emenda Constitucional nº 103, de 12 de novembro de 2019, à Constituição Federal, institui o Comitê de Adequação do Regime Próprio de Previdência Social, e dá outras providências”.
+
+    2. Na origem, a Associação dos Magistrados do Maranhão (AMMA) e a Associação do Ministério Público do Estado do Maranhão (AMPEM) ajuizaram ação direta de inconstitucionalidade no Tribunal de Justiça local, questionando dispositivo da LCE nº 219/2019 em face dos arts. 122, § 1º, e 124, II e IV, da Constituição maranhense. A referida ação direta objetiva a declaração de inconstitucionalidade do art. 4º, I, da LCE nº 219/2019, que instituiu sistemática de alíquotas progressivas para as contribuições previdenciárias dos servidores públicos.
+
+    3. Ao receber a petição inicial, o eminente Relator da ação direta proferiu despacho determinando o seu processamento mediante o rito do art. 10 da Lei nº 9.868/1999, com a citação da Procuradoria-Geral do Estado e do Ministério Público para apresentarem manifestação no prazo de 3 (três) dias. Confiram-se trechos relevantes do despacho:
+
+    “De início, entendo, diferentemente do se nos trazido arrazoado, necessidade de se colher previamente manifestação das autoridades responsáveis pela expedição do atacado ato normativo, até porque o rito de celeridade excepcional previsto no artigo 12 da Lei n.º 9.868/99, somente se impõe aplicável após a colheita dos informes em prazos reduzidos, mas jamais sem os mesmos.
+
+    […]
+
+    Por esses motivos, ao coerente aprecio da cautelar, notifique-se o Governador do Estado do Maranhão e o Presidente da Assembleia Legislativa deste Estado para, querendo, no prazo de 30 (trinta) dias, prestar informações que entender necessárias ao deslinde da questão, e, ato contínuo, nos termos do §1º do art. 10 da lei nº 9.868 de 1999, cite-se o Procurador-Geral do Estado, para, no prazo de 03 (três) dias, defender, no que couber, o ato ou o texto impugnado, remetendo-lhes cópia da inicial e dos documentos instrutórios, após o que, remetidos os presentes ao Procurador-Geral de Justiça pelo mesmo tríduo legal para se manifestar quanto ao pedido cautelar se nos trazido.”
+
+    4. Contra o despacho que determinou o prosseguimento da ação direta de inconstitucionalidade estadual, foi ajuizada a presente reclamação. Alega o reclamante que a tramitação do processo perante o TJ/MA usurparia a competência do Supremo Tribunal Federal (STF), pois nesta Corte já tramitam, sob minha relatoria, as ADIs 6.254, 6.255, 6.258 e 6.271, que impugnam dispositivos da Emenda Constitucional nº 103/2019. Afirma que os dispositivos da Constituição maranhense apontados como parâmetro na ação de controle estadual são de reprodução obrigatória da Constituição Federal. Requer, em sede de liminar, a suspensão do trâmite da Ação Direta de Inconstitucionalidade estadual n° 0811902-97.2019.8.10.0000 no âmbito do Tribunal de Justiça e, ao final, a procedência dos pedidos formulados para determinar a suspensão do trâmite da mencionada ADI estadual até o trânsito em julgado das ADIs 6.254, 6.255, 6.258 e 6.271 neste Tribunal.
+
+    5. Em 18.02.2020, deferi parcialmente o pedido liminar para suspender a tramitação da ADI estadual n° 0811902-97.2019.8.10.0000 até decisão final nesta reclamação. Na mesma oportunidade, determinei a citação do Estado do Maranhão, a comunicação da liminar à autoridade reclamada e a vista dos autos à Procuradoria-Geral da República. Em consulta à página eletrônica de tramitação processual do TJ/MA, verifiquei que o processo encontra-se suspenso desde 13.03.2020.
+
+    6. O Estado do Maranhão ofereceu resposta, requerendo fossem estendidos os efeitos da liminar para suspender a tramitação da ADI estadual nº 0801188-44.2020.8.10.0000, bem como a suspensão de processos judiciais, individuais ou coletivos, em curso no primeiro ou segundo grau da Justiça estadual do Maranhão, que tratem de controvérsia semelhante à da ADI objeto da presente reclamação (doc. 17). Tais pedidos não foram acolhidos (doc. 23).
+
+    7. A associação local dos Magistrados (AMMA) e do Ministério Público (AMPEM) ofereceram contestação, alegando não existir coincidência entre os objetos e parâmetros das ações constitucionais em âmbito estadual e federal, bem como afirmam não haver impugnação simultânea da mesma norma mediante a propositura de ações diretas de inconstitucionalidade em âmbito federal, perante o STF, e local, perante o TJ/MA, o que não autoriza a suspensão do trâmite da ADI estadual no âmbito do Tribunal de Justiça. Requerem sejam julgados improcedentes os pedidos formulados na presente reclamação, com o fito de dar regular prosseguimento à ADI estadual n. 0811902-97.2019.8.10.0000 perante o Tribunal de Justiça do Estado do Maranhão (doc. 25).
+
+    8. A Procuradoria-Geral da República manifestou-se pela procedência do pedido formulado na reclamação (doc. 34).
+
+    9. É o relatório. Decido.
+
+    10. O Supremo Tribunal Federal já assentou entendimento no sentido de que, havendo a impugnação simultânea da mesma norma mediante a propositura de ações diretas de inconstitucionalidade em âmbito federal, perante o STF, e local, perante os Tribunais de Justiça estaduais, em face de normas estaduais que são de reprodução obrigatória da Constituição da República, deve ser suspenso o curso da proposta no Juízo estadual. Nesse sentido são as Rcl 425, Rel. Min. Néri da Silveira; e Rcl 5.554, Rel. Min. Teori Zavascki, esta julgada em 01.08.2013. Confira-se, ainda, os seguintes precedentes:
+
+    “Ementa: Agravo Regimental em Petição. 2. Aplicabilidade da Lei nº 8.437, de 30.06.92, que dispõe sobre a concessão de medidas cautelares contra atos do Poder Público, em controle concentrado de constitucionalidade. 3. Coexistência de jurisdições constitucionais estaduais e federal. Propositura simultânea de ADI contra lei estadual perante o Supremo Tribunal Federal e o Tribunal de Justiça. Suspensão do processo no âmbito da justiça estadual, até a deliberação definitiva desta Corte. Precedentes. 4. Declaração de inconstitucionalidade, por esta Corte, de artigos da lei estadual. 5. Argüição pertinente à mesma norma requerida perante a Corte estadual. Perda de objeto. 6. Agravo que se julga prejudicado.” (Pet 2701-AgR, Red. para o acórdão o Min. GILMAR MENDES)
+
+    “Ementa: Ação direta de inconstitucionalidade. Pedido de liminar. Lei nº 9.332, de 27 de dezembro de 1995, do Estado de São Paulo. - Rejeição das preliminares de litispendência e de continência, porquanto, quando tramitam paralelamente duas ações diretas de inconstitucionalidade, uma no Tribunal de Justiça local e outra no Supremo Tribunal Federal, contra a mesma lei estadual impugnada em face de princípios constitucionais estaduais que são reprodução de princípios da Constituição Federal, suspende-se o curso da ação direta proposta perante o Tribunal estadual até o julgamento final da ação direta proposta perante o Supremo Tribunal Federal, conforme sustentou o relator da presente ação direta de inconstitucionalidade em voto que proferiu, em pedido de vista, na Reclamação 425. - Ocorrência, no caso, de relevância da fundamentação jurídica do autor, bem como de conveniência da concessão da cautelar. Suspenso o curso da ação direta de inconstitucionalidade nº 31.819 proposta perante o Tribunal de Justiça do Estado de São Paulo, defere-se o pedido de liminar para suspender, ex nunc e até decisão final, a eficácia da Lei n 9.332, de 27 de dezembro de 1995, do Estado de São Paulo.” (ADI 1.423 MC, Rel. Min. Moreira Alves).
+
+    11. Nesse contexto, entendo que a articulação formulada pelo reclamante encontra fundamento, tendo em vista a existência de similitude nos objetos e a identidade de parâmetros entre as ações de constitucionalidade ajuizadas, apta a ensejar usurpação da competência do STF, a justificar a suspensão do processo de controle de constitucionalidade estadual para aguardar a decisão das ações de controle no âmbito federal. Explico.
+
+    12. Constitui objeto das ADIs 6254, 6255, 6258 e 6271, que tramitam sob minha relatoria, a impugnação aos dispositivos da Emenda Constitucional nº 103/2019 que instituem alíquotas progressivas para as contribuições para custeio de regime próprio de previdência social da União, Estados, Distrito Federal e Municípios. A contestação da norma se dá em razão da alegação de ausência de correlação entre a arrecadação com as alíquotas progressivas e os valores que serão recebidos a título de aposentadoria, bem como da suposta instituição de tributo como forma de confisco e afronta ao princípio da capacidade contributiva.
+
+    13. Já na ação direta de inconstitucionalidade tombada sob o n° 0811902-97.2019.8.10.0000, questiona-se, em face dos arts. 122, §1º, e 124, II e IV, da Constituição do Estado do Maranhão, norma que dá cumprimento e faz mera remissão ao conteúdo da Emenda Constitucional nº 103/2019, em razão da determinação desta para a instituição no âmbito estadual da progressividade das alíquotas de contribuição previdenciária de servidores públicos, como se infere dos seus arts. 9º, § 4º, e 11 (doc. 4). Colaciono o dispositivo da Lei Complementar estadual n.º 219/2019 atacado (doc. 3):
+
+    “Art. 4º Em cumprimento ao disposto no art. 9º, § 4º da Emenda Constitucional nº 103, de 12 de novembro de 2019, o inciso I do art. 55 da Lei Complementar nº 73, de 4 de fevereiro de 2004, passa a vigorar com a seguinte redação:
+
+    ‘Art. 55. (...) I - contribuição previdenciária ao FEPA no montante previsto no caput do art. 11 da Emenda Constitucional nº 103, de 12 de novembro de 2019, à Constituição Federal, aplicando-se, ainda, as reduções e majorações previstas no § 1º e as regras dispostas no § 2º, § 3º e no § 4º do mesmo artigo. (...).’ (NR)” (sem grifos no original)
+
+    14. Considerando que os arts. 122, §1º e 124, II e IV, da Constituição do Estado do Maranhão (doc. 9) apenas reproduzem o disposto no § 1º do art. 145 e nos incisos II e IV do art. 150 da Constituição Federal, parâmetros de controle indicados nas ADIs 6254, 6255, 6258 e 6271, tem-se que os temas que constituem o conteúdo da ação direta estadual serão analisados por esta Corte quando do julgamento das referidas ADIs.
+
+    15.  Em que pese a alegação da AMMA no sentido de que o objeto da ADI estadual, assim como o parâmetro de controle são diversos daqueles indicados nas ADIs pendentes de julgamento neste Supremo Tribunal Federal, o que se observa é que, por via transversa, o julgamento da ADI estadual poderá produzir o mesmo resultado pretendido pelas ADIs ora em curso junto ao STF.
+
+    16. Entendo, ainda, que a continuidade da tramitação do processo de controle estadual gera perigo de dano irreparável. Além de possibilitar a prolação de decisões conflitantes, tal providência viabilizaria a prática de novos atos processuais por órgãos que atuam em provável usurpação da competência desta Corte.
+
+    17. Diante do exposto, com base no art. 161, parágrafo único, do RI/STF, julgo procedente o pedido formulado na reclamação, para determinar a suspensão do trâmite da Ação Direta de Inconstitucionalidade nº 0811902-97.2019.8.10.0000, perante o Tribunal de Justiça do Estado do Maranhão, até o julgamento das ADIs 6254, 6255, 6258 e 6271.
+
+    18. Fixo em 10% do valor de causa os honorários de sucumbência (art. 85, §2º, do CPC/2015) – a serem executados pelo órgão reclamado.
+
+    Publique-se. Comunique-se.
+
+          Brasília, 15 de fevereiro de 2022.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
