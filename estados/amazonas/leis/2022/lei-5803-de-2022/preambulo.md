@@ -1,0 +1,5 @@
+LEI N. 5.803, DE 16 DE FEVEREIRO DE 2022. ALTERA a Lei n. 4.743, de 28 de dezembro de 2018, e dá outras providências.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
