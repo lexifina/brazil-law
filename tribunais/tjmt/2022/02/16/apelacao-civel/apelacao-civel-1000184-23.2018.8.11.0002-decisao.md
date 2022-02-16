@@ -1,0 +1,10 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL (198) No 1000184-23.2018.8.11.0002
+APELANTE: ROSANA APARECIDA ALVES
+APELADO: ENERGISA MATO GROSSO DISTRIBUIDORA DE ENERGIA S.A
+Há prevenção da e. Desa. Serly Marcondes Alves, por conta do julgamento da Apelação 1002517-45.2018.8.11.0002.
+Redistribua-se.
+Cuiabá, 16 de fevereiro de 2022.
+Des. Guiomar Teodoro Borges
