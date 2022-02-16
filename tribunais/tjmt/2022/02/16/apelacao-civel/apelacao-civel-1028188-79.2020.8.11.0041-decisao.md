@@ -1,0 +1,46 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1028188-79.2020.8.11.0041
+RECORRENTE: VANDERLAN PEREIRA ARAGAO
+RECORRIDO: OMNI FINANCEIRA S/A
+Vistos.
+Trata-se de recurso especial interposto por VANDERLAN PEREIRA ARAGÃO com fundamento no artigo 105, inciso III, alínea “c” da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado, assim ementado (id 103190457):
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE BUSCA E APREENSÃO – ALIENAÇÃO FIDUCIÁRIA – CONSTITUIÇÃO EM MORA DO DEVEDOR – PROVA DA CONSTITUIÇÃO DO DEVEDOR EM MORA – NOTIFICAÇÃO ENCAMINHADA AO ENDEREÇO CONSTANTE DO CONTRATO – RETORNO COM A RUBRICA “AUSENTE” - PROTESTO DO TÍTULO – VALIDADE – FÉ PÚBLICA DO OFICIAL DE REGISTRO - PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO - PURGAÇÃO DA MORA - NECESSIDADE DE PAGAMENTO DA INTEGRALIDADE DA DÍVIDA NO PRAZO DE 5 (CINCO) DIAS –CONSOLIDAÇÃO DA POSSE DO BEM EM NOME DO CREDOR FIDUCIÁRIO - REVISÃO CONTRATUAL - POSSIBILIDADE – CÉDULA DE CRÉDITO BANCÁRIO (CDC VEÍCULO) – JUROS REMUNERATÓRIOS - MANUTENÇÃO DA TAXA PACTUADA QUE SE APRESENTA DENTRO DA TAXA MÉDIA DE MERCADO PREVISTO PELO BACEN – PACTUAÇÃO EXPRESSA – LEGITIMIDADE DA COBRANÇA - DESCARACTERIZAÇÃO DA MORA – PRESSUPOSTO NÃO EVIDENCIADO – INVERSÃO DO ÔNUS SUCUMBENCIAIS – ÔNUS MANTIDO - RECURSO DESPROVIDO.
+O entendimento dominante no Superior Tribunal de Justiça é de que se considera comprovada a mora se a notificação, a que alude o § 2o, do artigo 2o, do Decreto-Lei no. 911/69, efetivou-se no endereço constante do contrato, fornecido como do domicílio do devedor, por carta registrada, OU pelo protesto válido do título.
+No caso, houve tentativas de notificação para constituição em mora do devedor através de correspondência encaminhada para o endereço constante do contrato. Não está a instituição financeira, por diligência própria, obrigada a se dirigir para tentar localizar o devedor. Esta atividade é desenvolvida pela ECT e, de consequência, a única obrigação que tinha, e esta foi cumprida, era o encaminhamento da correspondência ao endereço constante do contrato e, se esta retorna, em face de ser o mesmo “ausente” é o que basta para que seja feito o protesto do titulo para fins e efeitos de regular constituição em mora.
+A prova do recebimento da notificação pelo devedor não é necessária para a constituição em mora, bastando que seja enviada ao endereço declinado no contrato. Precedentes." (AgInt no AREsp 1.125.547/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 28/3/2019). Incidência da Súmula 83/STJ. 2. Agravo interno não provido. (STJ - Quarta Turma - AgInt no AREsp 1388337/SP - Rel. Ministro LUIS FELIPE SALOMÃO - Julgado em 18/06/2019 - DJe 25/06/2019)
+Nos contratos firmados na vigência da Lei no 10.931⁄2004, compete ao devedor, no prazo de 5 (cinco) dias após a execução da liminar na ação de busca e apreensão, pagar a integralidade da dívida em purgação da mora – entendida esta como os valores apresentados e comprovados pelo credor na inicial –, sob pena de consolidação da propriedade do bem móvel objeto de alienação fiduciária, nos termos do art.3o, § 2o, da citada lei. Precedente do Recurso Repetitivo (REsp no 1.418.593/MS).
+Estando satisfatoriamente demonstrados o inadimplemento contratual, pela falta de pagamento das parcelas do Contrato de Crédito Bancário com Garantia de Alienação Fiduciária, bem como pela prévia notificação do devedor fiduciário, a procedência da ação de busca e apreensão é medida que se impõe.
+Não há que se falar em abusividade dos juros remuneratórios pactuados, quando apresentam dentroda taxa média de mercado previsto pelo BACEN, à época da contratação.
+A descaracterização da mora do devedor ocorre apenas se houver cobrança de encargos contratuais considerados abusivos no período da normalidade.
+Deve ser mantida a sentença no sentido de que os ônus sucumbenciais sejam suportados exclusivamente pela parte recorrente, diante da sua sucumbência nos autos, a teor do art. 85 do Código de Processo Civil.
+(TJ-MT 10281887920208110041 MT, Relator: Nilza Maria Possas de Carvalho, Data de Julgamento: 19/10/2021, Primeira Câmara de Direito Privado, Data de Publicação: 03/11/2021)
+O presente recurso foi interposto contra o acórdão proferido em sede de apelação cível, interposta por Vanderlan Pereira Aragao, que negou provimento ao recurso e manteve a sentença que julgou procedente o pedido da ação de busca e apreensão.
+A parte recorrente alega a existência de divergência jurisprudencial quanto à interpretação conferida aos artigos 15 da Lei 9.492/97 e 2o, §2o e 3o, caput, do Decreto-Lei 911/69, ao argumento de que deve ser reconhecida a irregularidade do ato de constituição em mora na espécie, pois a notificação extrajudicial que lhe foi encaminhada via correios (AR) retornou pelo motivo “ausente”.
+Além disso, afirma que a abusividade perpetrada pela instituição financeira quanto aos encargos contratuais importa em afastamento da mora.
+Recurso tempestivo (id 111619969).
+A parte recorrente é beneficiária da justiça gratuita (id 111338497).
+Sem contrarrazões (id 116548975).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+De início, não restou verificada a existência, no Superior Tribunal de Justiça, de tema que se relativo às questões objeto deste recurso, de forma que não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, na espécie, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Feitas essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Pressupostos satisfeitos
+A partir do provável dissídio jurisprudencial obtido pela interpretação dos artigos 15 da Lei 9.492/97 e 2o, §2o e 3o, caput, do Decreto Lei 911/69, a parte recorrente alega que as notificações infrutíferas pelo motivo “ausente” são insuficientes ao esgotamento das tentativas de localização do devedor para fins de constituição em mora.
+Quanto a esse ponto, constou do aresto ora combatido:
+“(...) No caso dos autos, conforme narra a inicial residiu a remessa em duas oportunidades da notificação para constituição em mora do devedor através de correspondência, no endereço constante do contrato. Não está a instituição financeira, por diligência própria, se dirigir para tentar localizar o devedor. Esta atividade é desenvolvida pela ECT e, de consequência, a única obrigação que tinha, e este foi cumprida, era o endereçamento da correspondência no endereço constante do contrato e, se esta retorna, em face de ser o mesmo ‘ausente’ é tanto basta para que seja feito o protesto do titulo para fins e efeitos de regular constituição em mora. (...)”. (g.n)
+A esse respeito, o Superior Tribunal de Justiça já decidiu, in verbis:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO NÃO ENTREGUE NO ENDEREÇO DO DEVEDOR. MOTIVO DE AUSÊNCIA. NECESSIDADE DE EFETIVA ENTREGA DA NOTIFICAÇÃO NO ENDEREÇO CADASTRADO DO DEVEDOR. MORA NÃO CONFIGURADA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO. 1. No caso, o Tribunal estadual consignou que a notificação extrajudicial expedida ao endereço constante no contrato, para fins de comprovação da mora do devedor, foi devolvida com a anotação "ausente", concluindo, por esse motivo, que o procedimento foi insuficiente para alcançar a finalidade pretendida pelo credor, já que a carta não foi efetivamente entregue no endereço do destinatário. 2. O entendimento mais recente da Terceira Turma do STJ é no sentido de que, nos contratos regidos pelo Decreto-Lei n. 911/1969, o simples fato de o devedor estar ausente de sua residência não importa em violação à boa-fé objetiva, exigindo-se, para a comprovação da mora, a efetiva entrega da notificação no seu endereço cadastral. 3. Tendo o acórdão recorrido decidido em consonância com a jurisprudência do Superior Tribunal de Justiça, incide na hipótese a Súmula 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. 4. Agravo interno desprovido.
+(STJ - AgInt no REsp: 1927803 RS 2021/0077697-7, Relator: Ministro MARCO AURÉLIO BELLIZZE, Data de Julgamento: 03/05/2021, T3 - TERCEIRA TURMA, Data de Publicação: DJe 05/05/2021) (g.n)
+Observa-se que houve o devido prequestionamento da matéria acima mencionada, o que impede a incidência das Súmulas 211 do STJ, 282 e 356, do STF.
+Além disso, a tese recursal não pretende alterar o quadro fático já reconhecido pelo acórdão, mas rever a moldura legal que lhe foi dada (não aplicação da Súmula 7 do STJ), não incidindo, também, no caso concreto, nenhuma outra súmula impeditiva.
+Destaca-se, ainda, que o recorrente fez o cotejo analítico e colacionou julgado de outro Tribunal, cumprindo o disposto no artigo 255, e §§, do RISTJ, c/c o § 1o do artigo 1.029 do CPC.
+Dessa forma, presentes todas as condições processuais necessárias, dou seguimento ao recurso, quanto à arguida divergência jurisprudencial.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
