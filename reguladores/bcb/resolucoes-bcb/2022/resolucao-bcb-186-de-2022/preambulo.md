@@ -1,0 +1,4 @@
+RESOLUÇÃO BCB Nº 186, DE 15 DE FEVEREIRO DE 2022
+Altera a Resolução BCB nº 111, de 6 de julho de 2021, que dispõe sobre os critérios para a classificação de instrumentos na carteira de negociação ou na carteira bancária, sobre os requisitos de governança relativos às mesas de operações em que são gerenciados os instrumentos sujeitos ao risco de mercado, e sobre as exigências para o reconhecimento de transferências internas de risco na apuração dos requerimentos mínimos de que trata a Resolução nº 4.193, de 1º de março de 2013.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 15 de fevereiro de 2022, com base nos arts. 9º e 11, inciso VII, da Lei nº 4.595, de 31 de dezembro 1964, e tendo em vista o disposto nos arts. 25-A, 25-B, 26, 26-A, 27, 27-A, 29, inciso II, e 56 da Resolução nº 4.557, de 23 de fevereiro de 2017,
+R E S O L V E :
