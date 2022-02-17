@@ -1,0 +1,19 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto pela REFRIGERAÇÃO DUFRIO COMÉRCIO E IMPORTAÇÃO LTDA, com o fito de suspender a decisão que, nos Autos da Ação de Obrigação de Fazer de no 1001685-56.2021.8.11.0018, ajuizada por JANETE VICENTE DO NASCIMENTO, deferiu o pedido de tutela de urgência e determinou, sob pena de multa diária no importe de R$ 1.500,00 (mil quinhentos reais), que a empresa agravante e demais corréus, cumpram com a obrigação contratual de efetuar a entrega e instalação do sistema solar fotovoltaico “painéis solares e seus complementos”.
+Para tanto, aduz a agravante, em síntese, que apesar de reconhecer a mora da obrigação contratual firmada com a autora, ora agravada, o caso em questão não demonstra qualquer urgência ou perigo de dano, razão pela qual, deve ser imediatamente suspensa a decisão de base por falta de preenchimento dos pressupostos da tutela de urgência antecipada.
+Pugna pela concessão da liminar.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Da análise da questão posta, não decorre fundamento bastante para convencer da concessão da liminar recursal pretendida.
+Consoante se infere dos autos, na origem, mais precisamente no id no 60292779, as partes firmaram em 16.10.2020, contrato de compra, venda e instalação, tendo como objeto a instalação de sistema fotovoltaico para produção de energia elétrica estimada em 5750KWH/mês, com preço total de R$ 155.161,50 (cento e cinquenta e cinco mil cento e sessenta e um reais e cinquenta centavos).
+O prazo estipulado para execução do serviço, seria de 15 (quinze) dias após encaminhamento e fiscalização da concessionária de energia elétrica, porém, apesar do cumprimento da referida etapa contratual e após o pagamento integral do preço, a recorrente ainda não cumpriu com a obrigação de entregar a instalar as placas de energia solar
+Nesse particular, verifica-se plenamente atendido os requisitos da tutela de urgência deferida, na origem, em razão dos prejuízos financeiros sofridos pela agravada, somando-se a isso, o fato de a entrega dos produtos e sua instalação estar pendente há mais de 1 ano.
+Assim, ao menos nesse instante, impõe-se a manutenção da decisão de base.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
