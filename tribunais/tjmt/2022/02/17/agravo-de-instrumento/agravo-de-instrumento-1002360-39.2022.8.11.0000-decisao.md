@@ -1,0 +1,15 @@
+Vistos, etc.
+Recurso de agravo de instrumento interposto por F.F. COMERCIO E CONSTRUTORA LTDA - EPP contra decisão proferida pelo Juízo de da 1a Vara Cível da Comarca de Canarana/MT, nos autos do cumprimento de sentença n. 1000660-77.2018.8.11.0029, em que figura como parte contrária BANCO DO BRASIL SA, que homologou o laudo apresentado pelo Sr. Oficial de Justiça (id. 41391167-origem).
+Inconformada, sustenta a agravante que (i) diante da inércia no pagamento dos honorários periciais, deveria o douto togado ter determinado a sua intimação pessoal para dar andamento no feito e providenciar o recolhimento; (ii) que o não pagamento dos honorários do perito por si só, não seria motivo para indeferir o pedido de nova avaliação, eis que esta latente nos autos o erro do senhor Oficial ao avaliar o bem; (iii) havendo uma diferença tão significativa, deve a dúvida ser sanada por expert; (iv) os prejuízos da Agravante pode chegar a milhões, eis que a diferença entre as avaliações são gritantes.
+Anota a presença dos requisitos necessários, requer a suspensão da execução até decisão ulterior deste agravo, impedindo o prosseguimento do feito expropriatório.
+Síntese necessária.
+Presentes os requisitos elencados nos artigos 1.015, parágrafo único, e artigo 1.017, inciso I, ambos do Código de Processo Civil que, a princípio, estão configurados com toda documentação e exposição contida na peça de interposição, suficientes para o conhecimento do agravo em sua forma instrumental.
+De outro lado, neste instante inicial e diante dos documentos coligidos aos autos, entende-se que não há elementos capazes de evidenciar a probabilidade do direito buscado pelo agravante, conforme exigido pelo art. 300 do CPC, o que recomenda a manutenção da decisão interlocutória recorrida.
+Isso porque, em que pese o magistrado singular tenha autorizado nova avaliação, consoante pleiteado pela executada/agravante, notório que, em caso de inércia no pagamento dos honorários em questão, o feito não poderá ficar paralisado em prejuízo da parte exequente, sendo, a priori, correta a parte final da decisão fustigada, ao prever que a execução terá continuidade com base no valor constante no auto de avaliação, como consequência da inércia da executada (ID 59414151-origem e 65048756-principal).
+Por tal aspecto, não vislumbro qualquer nulidade da decisão agravada que determina a utilização da avaliação existente nos autos, caso a parte executada deixem de realizar o pagamento da perícia/nova avaliação, por ser corolário lógico do prosseguimento da execução.
+Ressalta-se que o processo não admite retrocessos, deve marchar no sentido de obter solução do litígio instaurado, com um caminhar sempre para frente, sendo vedado procrastinar ilimitadamente os atos processuais relativos a uma mesma lide.
+Com essas considerações, INDEFIRO a medida liminar.
+Intime-se a parte agravada, por intermédio do respectivo patrono, para, querendo e no prazo legal, apresentar contrarrazões (art. 1019, II, do CPC).
+Cuiabá – MT, 17 de fevereiro de 2022.
+Desembargadora Clarice Claudino da Silva.
+= relatora em substituição legal =
