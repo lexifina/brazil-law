@@ -1,0 +1,2 @@
+Altera a Lei nº 12.546, de 14 de dezembro de 2011, para prorrogar o prazo referente à contribuição previdenciária sobre a receita bruta, e a Lei nº 10.865, de 30 de abril de 2004, para prorrogar o prazo referente a acréscimo de alíquota da Contribuição Social para o Financiamento da Seguridade Social devida pelo Importador de Bens Estrangeiros ou Serviços do Exterior (Cofins-Importação), nos termos que especifica.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
