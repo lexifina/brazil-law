@@ -1,0 +1,27 @@
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por MARIA LUZIA FERREIRA, em face de decisão prolatada pelo Juízo da 1a Vara Especializada em Direito Bancário de Cuiabá/MT, que, nos autos da Ação de Busca e Apreensão no 1001093-06.2022.8.11.0041, proposta pelo BANCO VOLKSWAGEN S.A. deferiu liminar de busca e apreensão de veículo.
+A Agravante aduz, em síntese, que no feito na origem foi deferida pedido de busca e apreensão, requestado pelo agravado, determinando a reintegração da posse do veículo CHEVROLET modelo: COBALT 18A ELI, placa: QCP7E00.
+Sustenta que não houve a caracterização da mora devido à falta de notificação válida. Relata que a notificação extrajudicial anexada aos autos “foi baseada em parcela já paga pela agravante, ou seja, a notificação foi ineficaz no processo”.
+Destaca que a ação foi distribuída quando a agravante já havia adimpliso a parcela referente à notificação e mais 4 parcelas subsequentes.
+Consigna que “a notificação foi recebida pelo Agravante em 09/09/2021, tendo quitado as parcelas em atraso conforme comprovantes acima em 21/06/2021, ou seja, notificado do débito esta já havia realizado a quitação das parcelas em atraso.”
+Defende que o Banco Agravado deveria ter promovido nova notificação e não ter se utilizado da mesma notificação para propor a presente ação, ficando e evidente a má-fé do Banco Agravado, visto que usou de uma notificação inválida referente a uma parcela já paga, para constituir a Agravante em mora.
+Ressalta “que há perigo de lesão grave e de difícil reparação, no que concerne a apreensão do veículo, estando o Agravante desapossado de um bem necessário devido ao cenário de Pandemia que estamos vivendo e, ainda, sofre o risco da exposição do bem a deterioração em pátios sem nenhum cuidado, podendo o bem ser leiloado, cuja a arrematação trará prejuízos de difícil reparação, pois sempre realizam a venda abaixo da avaliação da tabela FIPE, ficando a Agravante sem o veículo e ainda com dívida junto ao banco/financeira, isso tudo, decorrente de uma apreensão realizada de forma indevida”.
+Com essas considerações, requer a concessão de efeito suspensivo, sobrestando os efeitos da decisão agravada, com a expedição de mandado de restituição do veículo pelo Juízo a quo, aplicando-se multa em caso de não cumprimento pela parte Agravada.
+No mérito, pugna pelo provimento do recurso, para revogar a decisão agravada e determinar a extinção do feito na origem, nos termos do art. 485, IV, do CPC; aplicação da multa prevista n art. 3°, § 6°, do Decreto 911/69, equivalente a 50% do valor originalmente financiado, devidamente atualizado, caso o bem já tenha sido alienado; bem como determinação de baixa da restrição de circulação junto ao Renajud.
+Requesta ainda a concessão de gratuidade da justiça.
+É o relatório.
+DECIDO
+Inicialmente, quanto ao benefício da gratuidade da justiça, considerando os documentos que acompanharam as razões de recurso, não há como impor o pagamento das custas na esfera recursal. Assim, DEFIRO a gratuidade da justiça, para o presente recurso.
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil de 2015:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão (...)”.
+Pois bem.
+No que se refere a medida vindicada, ao analisar os argumentos apresentados pela Agravante, não identifico como relevantes os fundamentos, a ensejar a concessão da medida requerida.
+Isso porque dos argumentos vertidos na peça inaugural, tenho que o caso não comporta o efeito pretendido, uma vez que se depreende dos documentos anexados neste feito, bem como dos autos na origem, que a notificação extrajudicial, que buscava constituir a Agravante em mora, se refere a parcela com vencimento em 19/06/2021.
+Contudo, é possível verificar pelo boleto emitido pelo Agravado e comprovante de pagamento (ID. 118291950 - Pág. 1), que a parcela objeto da notificação, o comprovante aponta a data da operação no dia 19/06/2021 e data da efetivação do débito o dia 21/06/2021, sendo este o primeiro dia subsequente à data de vencimento. Assim, o induvidoso adimplemento se depreenderia do extrato bancário da conta em que a operação foi realizada.
+Dessa forma, sem prejuízo de uma análise mais acurada após as informações do Juízo a quo e resposta do Agravado, INDEFIRO o almejado efeito suspensivo, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se a decisão ao Juízo “a quo”, facultando-lhe prestar informações.
+Intime-se o Agravado, na forma do art. 1.019, inciso II, do NCPC, para que responda, no prazo de 15 (quinze) dias.
+Des. Sebastião BARBOSA FARIAS
+Relator
