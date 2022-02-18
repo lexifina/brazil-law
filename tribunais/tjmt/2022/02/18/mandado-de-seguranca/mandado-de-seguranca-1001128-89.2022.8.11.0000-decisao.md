@@ -1,0 +1,43 @@
+TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO
+GABINETE DESEMBARGADOR MÁRCIO VIDAL
+Mandado de Segurança n. 1001128-89.2022.8.11.0000
+Impetrante: Alessandra Almeida Cavalcante Varella
+Impetrados: Governador do Estado de Mato Grosso, Secretário de Estado de Educação do Estado e Secretário de Estado de Planejamento e Gestão
+Vistos, etc.
+Trata-se de Mandado de Segurança, impetrado por Alessandra Almeida Cavalcante Varella, contra o ato, indigitado de coator do Governador do Estado de Mato Grosso, do Secretário de Estado de Educação e do Secretário de Estado de Planejamento e Gestão, consistente na omissão, quanto à sua nomeação ao cargo de Professor Estadual.
+Noticia a Impetrante que participou do Concurso Público, regido pelo Edital n. 1, de 3 de julho de 2017, da Secretaria de Estado de Educação Esporte e Lazer, e classificou-se em 52o (quinquagésimo segundo) lugar, para o cargo de Professor da Educação Básica, perfil profissional: Pedagogia (ampla concorrência) – Município de Sinop, para o qual foram ofertadas 40 (quarenta) vagas.
+Assegura que a Administração convocou e nomeou 49 (quarenta e nove) candidatos, dentro do prazo de validade do concurso, dos quais, 6 (seis) não compareceram para tomar posse no cargo, motivo pelo qual estas nomeações foram tornadas sem efeito. Dessa forma, a Administração Pública deveria convocar os candidatos classificados até a 55a (quinquagésima quinta) posição, pois se encontram, em aberto, as referidas vagas.
+Posto isso, requer a Impetrante, liminarmente, a sua nomeação no cargo em que ficou classificada no Concurso Público, uma vez que, com a desistência dos candidatos em melhor classificação, adquiriu direito líquido e certo de ser nomeada.
+Juntou documentos.
+É o relatório.
+Como consignado no relatório, pretende a Impetrante a concessão da liminar mandamental, para ser, imediatamente, nomeada, a fim de assumir o cargo de Professor da Educação Básica, perfil profissional: Pedagogia, do polo de Sinop, haja vista a sua classificação no Concurso Público, regulado pelo Edital n. 1, de 3 de julho de 2017, da Secretaria de Estado de Educação Esporte e Lazer.
+Inicialmente, reconheço, de ofício, a ilegitimidade passiva do Secretário de Estado de Educação e do Secretário de Estado de Planejamento e Gestão do Estado de Mato Grosso.
+Da Ilegitimidade do Secretário de Estado de Educação e do Secretário de Estado de Planejamento e Gestão do Estado de Mato Grosso
+De acordo com o artigo 6o, § 3o, da Lei n. 12.016/2009, a autoridade coatora, no Mandado de Segurança, é aquela que pratica o ato ou se omite de praticá-lo, ou da qual emane a ordem para sua prática, dando causa à suposta lesão perpetrada.
+Da análise dos autos, observo que a Impetrante fez constar no polo passivo do writ o Governador do Estado de Mato Grosso, o Secretário de Estado de Educação e o Secretário de Estado de Planejamento e Gestão.
+Entrementes, entendo que o Secretário de Estado de Educação e o Secretário de Estado de Planejamento e Gestão de Mato Grosso são partes ilegítimas, uma vez que não foram responsáveis pela omissão da nomeação da Impetrante.
+Com efeito, a Constituição do Estado de Mato Grosso, nos termos do artigo 66, inciso IX, estatui que é competência privativa do Governador do Estado nomear os candidatos aprovados em concurso público. Veja-se:
+Art. 66 – Compete privativamente ao Governador do Estado:
+(...)
+XI – prover os cargos públicos estaduais, na forma da lei.
+Desse modo, pelo fato de a Impetrante postular, na presente ação mandamental, a sua nomeação no referido cargo, é certo que o Secretário de Estado de Educação e o Secretário de Estado de Planejamento e Gestão de Mato Grosso não são partes legítimas para figurarem no polo passivo da impetração, uma vez que o provimento dos cargos públicos estaduais é ato privativo do Governador do Estado de Mato Grosso.
+Nesse sentido, aliás, é a orientação da Turma de Câmaras Cíveis Reunidas de Direito Público e Coletivo. Confira-se:
+CONSTITUCIONAL E ADMINISTRATIVO – MANDADO DE SEGURANÇA – CONCURSO PÚBLICO – PRELIMINAR DE ILEGITIMIDADE PASSIVA – SECRETÁRIO DE ESTADO DE GESTÃO E SECRETÁRIO DE ESTADO DE EDUCAÇÃO – ACOLHIDA – PROFESSOR DE EDUCAÇÃO BÁSICA – CANDIDATO CLASSIFICADO FORA DO NÚMERO DE VAGAS OFERECIDAS PELO EDITAL – EXPECTATIVA DO DIREITO – CONTRATAÇÃO PARA SUBSTITUIÇÃO DE SERVIDOR EFETIVO – EXCEPCIONAL E TEMPORÁRIA – REMOÇÃO DE SERVIDOR PARA OUTRA LOCALIDADE – VACÂNCIA DO CARGO NÃO CARACTERIZADA – ATO DISCRICIONÁRIO – INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO – ORDEM DENEGADA. O provimento dos cargos públicos estaduais é ato da competência privativa do Governador do Estado (art. 66, XI, Constituição-MT), único legitimado para o mandado de segurança com essa exclusiva finalidade. (...). (N.U 1010429-02.2018.8.11.0000, Rel. Márcio Vidal, Turma de Câmaras Cíveis Reunidas de Direito Público e Coletivo, julgado em 01/08/2019, publicado no DJE 06/08/2019). (Destaquei).
+Nessa esteira, o reconhecimento da ilegitimidade passiva dessas autoridades é medida impositiva.
+Por tais considerações, reconheço, de ofício, a ilegitimidade passiva do Secretário de Estado de Educação e do Secretário de Estado de Planejamento e Gestão do Estado de Mato Grosso.
+Atinente à concessão da liminar no Mandado de Segurança, sabe-se que é necessário que a parte impetrante demonstre, de plano, a presença dos requisitos no inciso III, do artigo 7o, da Lei n. 12.016/2009, notadamente, a relevância dos motivos em que se assentam o pedido da inicial e a possibilidade de ineficácia da medida, na hipótese de que a segurança só venha a ser concedida na decisão de mérito (fumus boni juris e periculum in mora).
+Vê-se, assim, que o fundamento relevante que autoriza a concessão da medida liminar no Mandado de Segurança é mais intenso que a mera aparência do bom direito, devendo ser entendido como a alta probabilidade de ganho da ação mandamental.
+Oportuno registrar que, ao Poder Judiciário, não compete intervir no mérito administrativo, tendo em vista caber-lhe, tão somente, avaliar a legalidade do ato impugnado.
+No caso em questão, o Edital regulamentador do certame previu 36 (trinta e seis) vagas, para o cargo de Professor da Educação Básica, perfil profissional: Pedagogia (ampla concorrência) – Município de Sinop (id. 116217499, pág. 50), e a Impetrante obteve a 52a (quinquagésima segunda) posição (id. 116224950 – pág. 70).
+Com efeito, dois são os requisitos a serem atendidos para que a Impetrante obtenha a concessão do ato impugnado. São eles: o fundamento relevante da impetração e a possibilidade de ineficácia da sentença final que venha a deferir a segurança, em caráter definitivo (Júnior, Humberto Theodoro. Lei do Mandado de Segurança comentado, 2019. 2. ed. p. 255).
+Entrementes, em que pese aos argumentos trazidos pela Impetrante, sobretudo, a possibilidade de existirem 6 (seis) vagas em aberto, haja vista eventual desistência de candidatos melhor classificados, entendo que a liminar não deve ser concedida, porque não se afigura factível a possibilidade de lesão irreparável à parte Impetrante, se acaso obtido o reconhecimento que pretende, na oportunidade do exame de mérito, de modo que não há falar em deferimento da tutela liminar.
+Dessarte, da análise do caderno processual, não verifico o preenchimento dos requisitos mencionados alhures, especialmente, a possibilidade de ineficácia da medida, se concedida na ocasião do exame de mérito, já que não há demonstração, inequívoca, do prejuízo advindo da espera do referido julgamento pelo Colegiado.
+Importante destacar que, embora a probabilidade de procedência da ação mandamental seja relevante, o periculum in mora é duvidoso.
+Nessa esteira, ausente um dos requisitos legais previstos no artigo 7o, inciso III, da Lei n. 12.016/2009, a não concessão do pedido liminar é medida impositiva.
+Com essas considerações, RECONHEÇO, de ofício, a ilegitimidade passiva do Secretário de Estado de Educação e do Secretário de Estado de Planejamento e Gestão do Estado de Mato Grosso, e, consequentemente, excluo-os da presente ação mandamental, julgando, em relação a eles, extinto o feito, sem resolução do mérito, denegando a ordem, nos termos do artigo 6o, § 5o, da Lei n. 12.016/2009, e, NÃO CONCEDO a liminar vindicada no writ.
+Cumpra-se o disposto no artigo 7o, I e II, da Lei n. 12.016/2009, em especial, a notificação do Impetrado, Governador do Estado de Mato Grosso, para prestar, querendo, no prazo de 10 (dez) dias, as suas informações.
+Após, encaminhem-se os autos a Procuradoria-Geral de Justiça.
+Cumpra-se. Intimem-se.
+Cuiabá, 18 de fevereiro de 2022.
+Des. Márcio VIDAL,
+Relator.
