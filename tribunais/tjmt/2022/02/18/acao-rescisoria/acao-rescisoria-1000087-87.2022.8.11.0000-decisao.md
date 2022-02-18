@@ -1,0 +1,45 @@
+PRIMEIRA TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PRIVADO
+AÇÃO RESCISÓRIA (47) 1000087-87.2022.8.11.0000
+AUTOR: FÁBIO DOUGLAS DE OLIVEIRA MENDONÇA
+RÉ: MAPFRE SEGUROS GERAIS S.A.
+Vistos etc.
+Trata-se de ação rescisória proposta por FÁBIO DOUGLAS DE OLIVEIRA MENDONÇA contra MAPFRE SEGUROS GERAIS S.A., nos termos do “artigo 966, incisos V e VIII, do CPC, em que pretende a rescisão da sentença proferida pelo Juízo da 2a Vara Cível da Comarca de Barra do Bugres e nova instrução dos autos para cumprir as disposições legais referente ao processo e promover novo julgamento da causa.”
+O autor relata que a ré propôs ação regressiva de ressarcimento de danos em desfavor de Aquibaldo Jeronimo de Lima e Àlvaro Ronival de Barros Mendonça – pai do autor, que foi distribuída para a 2a Vara da Comarca de Barra do Bugres sob o no 8249-06.2018.811.0008 Cód.: 145772, no dia 12/12/2018, tendo como valor cobrado na inicial de R$ 56.656,60; o pedido foi julgado procedente, com a condenação dos réus solidariamente a restituir/pagar a importância citada, corrigido monetariamente, acrescido de juros de 1% (um por cento) ao mês a partir do efetivo desembolso e condenados os réus ao pagamento das custas e despesas do processo, bem como de honorários advocatícios arbitrados em 10% sobre o valor da condenação, consoante disposto no art. 85, §2° do Código de Processo Civil.
+Fundamenta a propositura da ação rescisória, com os seguintes argumentos: a) com a notícia do falecimento de um dos réus, a seguradora ou o Juízo , não providenciaram a suspensão dos autos para cumprir o que dispõe o art. 313, I , § 1o c/c art. 689, ambos do CPC; b) a pessoa citada nos autos da ação que se pretende rescindir, Sra. Neide de Oliveira de Mendonça, não era parte legitima para figurar no polo passivo da demanda no momento de sua citação, isso porque, na data da expedição da citação a Sra. Neide ainda não tinha sido designada a inventariante; c) a citação expedida à Sra. Neide, não foi realizada mediante determinação judicial; d) a seguradora não requereu a citação para habilitação nos autos, deixando pessoa ilegítima até então ser citada na referida ação; e) existem herdeiros, como é o caso do autor, que sequer tomou conhecimento da ação.
+Argumenta que há perigo de dano, visto que foi iniciado o cumprimento de sentença e trará prejuízos aos demais herdeiros que terão que pagar (com a sua quota parte da herança deixada por seu pai) por uma dívida que sequer ficou comprovada.
+Ao final, requer o deferimento liminar da tutela de urgência para suspender a eficácia da sentença rescindenda proferida pelo juízo da 2a Vara da Comarca de Barra do Bugres/MT, a fim de ver suspenso o tramite do pedido de cumprimento de sentença até o julgamento final da presente ação; no mérito, seja julgado procedente o pedido da presente ação, para que seja rescindida a sentença proferida pelo Juízo da 2a Vara Cível da Comarca de Barra do Bugres nos autos da ação no 8249-06.2018.811.0008 Cód.: 145772, bem como, que seja determinada nova instrução dos autos (com habilitação de todos os herdeiros – conforme dispõe os artigos 110, 313, I, § 1o c/c art. 689, todos do CPC).
+Sobre a ação rescisória, o artigo 966 do CPC estabelece:
+“Art. 966. A decisão de mérito, transitada em julgado, pode ser rescindida quando:
+I - se verificar que foi proferida por força de prevaricação, concussão ou corrupção do juiz;
+II - for proferida por juiz impedido ou por juízo absolutamente incompetente;
+III - resultar de dolo ou coação da parte vencedora em detrimento da parte vencida ou, ainda, de simulação ou colusão entre as partes, a fim de fraudar a lei;
+IV - ofender a coisa julgada;
+V - violar manifestamente norma jurídica;
+VI - for fundada em prova cuja falsidade tenha sido apurada em processo criminal ou venha a ser demonstrada na própria ação rescisória;
+VII - obtiver o autor, posteriormente ao trânsito em julgado, prova nova cuja existência ignorava ou de que não pôde fazer uso, capaz, por si só, de lhe assegurar pronunciamento favorável;
+VIII - for fundada em erro de fato verificável do exame dos autos.”
+E o artigo 300, caput do CPC dispõe:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+Como se vê, a antecipação de tutela requer prova inequívoca e verossimilhança da alegação ou probabilidade do direito à luz da nova legislação processual, bem como, haja fundado receio de dano irreparável ou de difícil reparação.
+O autor relata que a ré propôs ação regressiva de ressarcimento de danos em desfavor de Aquibaldo Jeronimo de Lima e Àlvaro Ronival de Barros Mendonça – pai do autor, que foi distribuída para a 2a Vara da Comarca de Barra do Bugres sob o no 8249-06.2018.811.0008 Cód.: 145772, no dia 12/12/2018, tendo como valor cobrado na inicial de R$ 56.656,60.
+Cita que o pedido foi julgado procedente, com a condenação dos réus solidariamente a restituir/pagar a importância citada, corrigido monetariamente, acrescido de juros de 1% (um por cento) ao mês a partir do efetivo desembolso e condenados os réus ao pagamento das custas e despesas do processo, bem como de honorários advocatícios arbitrados em 10% sobre o valor da condenação, consoante disposto no art. 85, §2° do Código de Processo Civil.
+Dos documentos constantes nos autos, o autor apresenta o mandado de intimação para os réus comparecerem na audiência de conciliação e sustenta que houve erro da Secretaria que não expediu mandado de citação. Traz certidão de fl. 71, em que consta informação incorreta acerca da interposição de apelação pela seguradora.
+Na audiência de mediação realizada em 24.04.2019, compareceu a viúva do réu Álvaro Ronivaldo de Barros Mendonça (pai do autor) e apresentou a certidão de óbito. A citada audiência não foi realizada em razão da ausência da seguradora e do outro réu Aquibaldo Jerônimo de Lima.
+O autor apresentou, ainda, cópia do mandado de citação expedido em nome de Neide de Oliveira Mendonça, na qualidade de ré, para comparecer em audiência realizada em 31.07.2019. Na certidão, o oficial de justiça certificou que citou/intimou a Sra. Neide que compareceu na audiência.
+Após a audiência, a Sra. Neide apresentou contestação e arguiu sua ilegitimidade passiva, mas o Magistrado entendeu que as partes eram legítimas e julgou procedente o pedido da autora, ora ré. Em 25.06.2019, mesma data da sua “citação e antes da realização da audiência de conciliação (31.07.2019) a Sra. Neide foi nomeada inventariante do espólio, nos autos do Inventário - Código 151771.
+Inicialmente, o aparente equívoco constante no mandado de intimação quando deveria constar “citação”, não trouxe prejuízo algum às partes. Nele constava o nome, qualificação, endereço das partes e sua finalidade (comparecimento em audiência), incumbindo aos réus seu efetivo cumprimento.
+Sobre a certidão de fl. 71, em que consta informação incorreta acerca da interposição de apelação pela seguradora, esta peticionou nos autos pugnando pela sua retificação, de modo que, ao que tudo indica, não há nulidade a ser sanada.
+O autor ajuíza a demanda rescindenda com espeque no artigo 966, V (violar manifestamente norma jurídica) e VIII (for fundada em erro de fato verificável do exame dos autos) do CPC. Argumenta que a pessoa citada, Sra. Neide de Oliveira de Mendonça, não era parte legitima para figurar no polo passivo da demanda, todavia, a primeira audiência designada não se realizou e, quando designada a segunda, a Sra. Neide compareceu já que havia sido “citada” na mesma data que aceitou o compromisso de inventariante.
+De fato, ao que parece, o Magistrado não cumpriu o disposto nos artigos 313, I, § 1o c/c 689, ambos do CPC que estabelecem:
+“Art. 313. Suspende-se o processo:
+I - pela morte ou pela perda da capacidade processual de qualquer das partes, de seu representante legal ou de seu procurador;
+§ 1o Na hipótese do inciso I, o juiz suspenderá o processo, nos termos do art. 689.”
+“Art. 689. Proceder-se-á à habilitação nos autos do processo principal, na instância em que estiver, suspendendo-se, a partir de então, o processo.”
+A ausência de suspensão e a necessidade de se averiguar eventual prejuízo, bem como o fato de sido iniciado o cumprimento de sentença com possibilidade de constrição do patrimônio do autor, prudente o deferimento da liminar até a instauração do contraditório.
+Portanto, nessa fase de cognição sumária, vislumbro a presença da probabilidade do direito e do fundado receio de dano irreparável ou de difícil reparação a ensejar na concessão da tutela de urgência.
+Com essas considerações, em razão da presença dos requisitos do artigo 300, caput do CPC, defiro a tutela de urgência para suspender os efeitos da sentença rescindenda proferida pelo Juízo da 2a Vara da Comarca de Barra do Bugres/MT, até o julgamento da presente demanda.
+Cite-se a ré para, no prazo de 15 (quinze) dias, responder aos termos da ação (artigo 970, CPC).
+Encaminhem-se os autos à Procuradoria Geral de Justiça.
+Cuiabá, 16 de fevereiro de 2022
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
