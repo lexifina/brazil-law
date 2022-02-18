@@ -1,0 +1,21 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto pela JHONATAN RODRIGUES DE FREITAS, com o fito de reformar a decisão que, nos autos dos Embargos de Terceiro de n. 1000436-78.2022.8.11.0004, manejados em face de MYRIAN AYRES DA SILVA, indeferiu o pedido liminar com que pretendia a suspensão da reintegração de posse deferida em favor da autora, ora agravada, nos autos de n. 1007700-83.2021.8.11.0004.
+Para tanto, o agravante aduz que a parte autora, ora agravada, não logrou demonstrar a probabilidade do direito para fins de concessão da medida liminar inaudita altera pars nos autos de reintegração de posse mencionados, tampouco comprovou o perigo de dano ou risco ao resultado útil do processo que autorizariam a concessão da tutela judicial.
+Pondera que é possuidor de boa-fé do imóvel matriculado no CRI de Barra do Garças/MT sob o n. 54.076, desde o ano de 2013, quando o recebeu das mãos do ex-prefeito da cidade, Sr. Roberto Ângelo de Farias, que o autorizou a tomar posse do bem imediatamente e ali construir a sua moradia.
+Afirma que, a duras penas, construiu uma pequena casa no local, empregando todos os seus recursos financeiros, razão pela qual a decisão recorrida deve ser imediatamente reformada, para o fim de impedir a reintegração de posse deferida em favor da agravada.
+Pugna pela concessão da liminar de efeito ativo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito suspensivo, a atribuição de efeito ativo ao Recurso de Agravo de Instrumento varia tanto quanto variem os pressupostos da tutela jurisdicional perseguida.
+Como já dizia Luiz Guilherme Marinoni:
+(...) Os requisitos para concessão da tutela antecipatória variam de acordo com o contexto litigioso em que se insere o recorrente. Dependem, em suma, da espécie de tutela do direito que se quer antecipada. (Código de processo civil comentado artigo por artigo. São Paulo: Revista dos Tribunais, 2008, P. 542).
+Os Embargos de Terceiro, como cediço, são meio de defesa de quem, não sendo parte da lide, esteja na condição de proprietário ou possuidor de determinado bem, conforme disposto no artigo 674 do Código de Processo Civil, in verbis:
+Art. 674. Quem, não sendo parte no processo, sofrer constrição ou ameaça de constrição sobre bens que possua ou sobre os quais tenha direito incompatível com o ato constritivo, poderá requerer seu desfazimento ou sua inibição por meio de embargos de terceiro.
+Para o deferimento da liminar em sede de embargos de terceiro, deverá o embargante demonstrar, prima facie, o equívoco do ato judicial de constrição do patrimônio próprio.
+No caso vertente, não se verifica, a princípio, prova capaz de sustentar a possibilidade de suspender a reintegração de posse deferida em favor da autora, ora agravada, posto que a liminar possessória foi conferida em favor dela em razão da robusta prova documental acostada aos autos de n. 1007700-83.2021.8.11.0004, aliada à prova testemunhal colhida por meio da audiência de justificação, aptas a servir de arrimo à reintegração de posse da área objeto do litígio.
+Uma das testemunhas, o sr. José Bezerra da Silva, contradiz o afirmado pelo agravante nestes autos, afirmando que foi contratado pelo irmão da agravada para construir a casa existente no imóvel litigioso no ano de 2014, o que, por si só, impede a concessão da liminar, em razão da necessidade de dilação probatória para esclarecimento dos fatos.
+De outra feita, o agravante tenta emplacar a sua posse trazendo aos autos notas fiscais de materiais de construção supostamente destinados à edificação existente no imóvel, todavia, as referidas notas demonstram que os produtos foram adquiridos após o ajuizamento da ação de reintegração de posse pela embargada, ora agravada, e, portanto, não servem para comprovar a probabilidade do direito aventada.
+Não demonstrada a plausibilidade do direito alegado, desnecessária a análise do pedido sob a ótica do periculum in mora.
+Assim, com base nessas considerações, impõe-se o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUO efeito ativo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
