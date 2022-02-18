@@ -1,0 +1,17 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por EDÉLSIO SOUSA LÉLIS, com o fito de reformar a decisão que, nos Autos da Ação de Reintegração de Posse de no 0002691-75.2018.811.0033, ajuizada em face de MARCIO APARECIDO INCENHA e SUELI DOS ANJOS LADEIRA INCENHA, indeferiu o pedido para que o Juízo fosse compelido a decidir acerca do pedido de produção de provas.
+Para tanto, diz o agravante, em síntese, que o juízo de origem deixou de analisar o requerimento pendente nos autos, de produção de provas, e ainda qualificou a manifestação como pedido de reconsideração, sob o argumento equivocado de que tal pleito já teria sido analisado em momento anterior.
+Justifica a necessidade de produção de provas para que não seja corrompido o devido processo legal, bem como seja intimado o Intermat para que auxilie na perícia local e defina os limites da área, objeto da lide, que em parte se trata de área devoluta.
+Pugna pela concessão da liminar.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito suspensivo, a atribuição de efeito ativo ao Recurso de Agravo de Instrumento varia tanto quanto variem os pressupostos da tutela jurisdicional perseguida.
+Como já dizia Luiz Guilherme Marinoni:
+(...) Os requisitos para concessão da tutela antecipatória variam de acordo com o contexto litigioso em que se insere o recorrente. Dependem, em suma, da espécie de tutela do direito que se quer antecipada. (Código de processo civil comentado artigo por artigo. São Paulo: Revista dos Tribunais, 2008, P. 542).
+A parte agravante busca, por meio do presente recurso, reformar a decisão exarada pelo juízo a quo que, ao considerar superada a fase de produção de provas, indeferiu o pedido da parte autora.
+Apesar da irresignação da recorrente, percebe-se, a princípio, que a matéria em debate não rende ensejo ao recurso de agravo de instrumento que, como cediço, possui rol taxativo e não abre margem para imediata recorribilidade de decisão que reputa superarada a fase de produção de provas.
+Nesse sentido:
+AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. ENCERRAMENTO DA FASE DE INSTRUÇÃO. PRODUÇÃO DE PROVAS. DECISÃO NÃO IMPUGNÁVEL. ART. 1.015. ROL TAXATIVO. A decisão agravada que declara encerrada a fase de instrução e a perda das provas até então não produzidas não é impugnável pelo recurso de agravo de instrumento após a vigência do Código de Processo Civil de 2015, uma vez que não se amolda a matéria devolvida pela via instrumental a quaisquer das hipóteses recursais taxativas. A mitigação estabelecida em recurso submetido ao rito dos recursos repetitivos (Tema 988) não se aplica ao caso concreto, em virtude da ausência de urgência decorrente de inutilidade da apreciação oportuna do tópico. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. (Agravo de Instrumento, No 70084517663, Décima Segunda Câmara Cível, Tribunal de Justiça do RS, Relator: Cláudia Maria Hardt, Julgado em: 18-09-2020)
+Assim, além de não se verificar qualquer risco de perecimento acerca das provas que pretende produzir, há fundada dúvida sobre a admissibilidade do recurso, sendo medida de rigor, o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUO efeito ativo ao recurso.
+Publique-se e intimem-se, advertindo-se os agravados do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
