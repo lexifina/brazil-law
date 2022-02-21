@@ -1,0 +1,26 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o1001888-38.2022.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto pelo BRADESCO SAÚDE S.A. em virtude da decisão proferida pela Juíza da 5a Vara Cível da Comarca da Capital que, nos autos da Ação de Obrigação de Fazer com Pedido de Tutela Antecipada n.o 1045852-89.2021.8.11.0041 proposta por ROSÂNGELA MARIA SANTOS KARHAWI, deferiu a tutela de urgência e determinou o custeio do fármaco RITUXIMABE 100mg, no prazo de 48h, sob pena de multa diária no valor de R$ 5.000,00 (cinco mil reis) até o limite de R$ 150.000,00 (cento e cinquenta mil reais).
+Inconformada, a Agravante almeja a reforma da decisão, ao argumento de que não foram observados os requisitos autorizadores para a concessão da tutela de urgência.
+Assevera que está sujeita a experimentar grave prejuízo financeiro, de difícil reparação, uma vez que está sendo obrigada ao custeio de medicamento de uso domiciliar, em contrariedade à contratação.
+Segue argumentando que o contrato de prestação de serviços de saúde celebrado com a Agravada não contempla cobertura ampla e irrestrita, mas apenas os procedimentos/tratamentos considerados de cobertura obrigatória.
+Com esses argumentos, pugna pelo deferimento do efeito suspensivo para sobrestar a decisão vergastada até o julgamento deste Instrumental. No mérito, requesta o provimento do recurso.
+É, no essencial, o relatório. Decido.
+Recebo o Agravo de Instrumento, pois o recurso desafia decisão interlocutória que versa sobre tutela provisória, o que é autorizado pelo inciso I, do artigo 1.015, do Código de Processo Civil, e veio instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o, do CPC.
+É cediço que o artigo 1.019, inciso I, do Código de Ritos dispõe sobre a possibilidade de o Relator deferir efeito suspensivo ao Recurso, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Importante salientar que, neste momento processual, cabe tão somente verificar se os requisitos necessários para concessão do efeito suspensivo estão evidenciados ou não, uma vez que a Recorrente busca o imediato sobrestamento da tutela concedida à Recorrida.
+A Agravada é beneficiária do plano de saúde denominado “Saúde Top Quarto Seguro Viagem Plus – Coletivo Empresarial” n.o 859.984.700019-002 com a Cooperativa Agravante (ID. 73108237).
+Após consulta com o Neurologista Dr. Pedro de Miranda Martins (CRM – 3.033/MT) em 20/12/2021, este prescreveu o fármaco RITUXIMABE 100 mg para o desenvolvimento da paciente, e atestou que a Recorrida é “portadora de encefalite autoimune com sintomas debilitantes, com risco de evolução grave e risco de vida; que a falta de controle desta encefalite leva a riscos de sequelas neurológicas debilitantes e até risco de vida. O uso do MabThera (Rituximabe) nesta fase da encefalite autoimune da Sr.a Rosângela é fundamental e consagrado mundialmente” (Relatório Médico ID. 73108233).
+O pedido administrativo foi negado pela Recorrente sob o fundamento de que o medicamento prescrito não está incluído no rol de procedimentos e eventos de cobertura obrigatória da Agência Nacional da Saúde/ANS, assim como não faz parte da lista da Resolução Normativa 465/2021, além de não estar na cobertura contratual por ser de uso domiciliar.
+Diante da negativa, a Agravada ajuizou Ação de Obrigação de Fazer no intuito de obter decisão judicial para garantir o fornecimento do medicamento prescrito.
+Da análise acurada dos autos, pelo menos nesta fase preambular, tenho que razão não assiste à Agravante, porquanto, pelo que se observa do Relatório Médico acostado ao ID. 73108233 – demanda principal, o medicamento prescrito é, até prova em contrário, imprescindível para que a Recorrida possa se desenvolver, dada a sua condição clínica que é grave.
+O perigo da demora está consubstanciado no fato de que a negativa do medicamento prescrito pelo profissional da saúde que acompanha a Agravada implica risco de graves prejuízos no desenvolvimento e saúde da Recorrida, como destacado no Relatório Médico acostado no ID. 73108233
+Sobre o tema, o Superior Tribunal de Justiça/STJ firmou entendimento no sentido de que é possível à operadora de plano de saúde estabelecer as doenças que terão cobertura contratual, mas não o tipo de tratamento prescrito ao usuário, sendo abusiva a negativa de cobertura do procedimento, tratamento, medicamento ou material considerado essencial para realização do ato proposto pelo médico. A título ilustrativo, cito o AgInt. no AREsp. n.o 969.764/CE, de Relatoria do Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5.a Região), julgado em 15/03/2018 e publicado em 23/03/2018.
+A propósito, de acordo com o relatório médico supra destacado, a situação da Agravada é classificada como urgente, o que deixa cristalino o risco decorrente da negativa, até prova em contrário.
+Neste compasso, não desconstituídos, por ora, os fundamentos que escoram a decisão agravada quanto à presença dos requisitos necessários para concessão da tutela de urgência, indefiro o efeito suspensivo.
+Comunique-se ao Juiz da causa.
+Intime-se a Agravada para, querendo, apresentar contraminuta, no prazo legal.
+Cumpra-se.
+Cuiabá, 20 de fevereiro de 2022.
+Des.a Clarice Claudino da Silva
+Relatora
