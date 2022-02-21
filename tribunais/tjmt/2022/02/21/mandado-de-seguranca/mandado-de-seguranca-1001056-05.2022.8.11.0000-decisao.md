@@ -1,0 +1,55 @@
+TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO
+GABINETE DESEMBARGADOR MÁRCIO VIDAL
+Mandado de Segurança n. 1001056-05.2022.8.11.0000
+Impetrante: Marcelo Teixeira da Cruz
+Impetrados: Governador do Estado de Mato Grosso e Secretário de Estado de Educação, Esporte e Lazer
+Vistos, etc.
+Trata-se de Mandado de Segurança, impetrado por Marcelo Teixeira da Cruz, contra o ato, indigitado de coator, do Governador do Estado de Mato Grosso e do Secretário de Estado de Educação, Esporte e Lazer, consistente na omissão, quanto à sua nomeação ao cargo de Apoio Administrativo Educacional.
+Noticia o Impetrante que participou do Concurso Público, regido pelo Edital n. 1, de 3 de julho de 2017, da Secretaria de Estado de Educação Esporte e Lazer, e classificou-se em 5o (quinto) lugar, para o cargo de Apoio Administrativo Educacional, perfil profissional: Vigilância (ampla concorrência) – Município de Denise, para o qual foram ofertadas 3 (três) vagas.
+Aduz que o candidato Ailton Moreira de Souza, classificado na 4a (quarta) posição para o cargo em referência, protocolou, junto à SEDUC, sua declaração de desistência da lista de cadastro de reserva, pelo que, passou a figurar em 4o (quarto) lugar, na classificação geral do certame.
+Essa circunstância fez surgir para ele a possiblidade de requerer sua nomeação, diante das irregularidades praticadas pelo Secretário de Estado de Educação, Esporte e Lazer na condução do Concurso.
+Assegura que, durante o prazo de validade desse Concurso Público, o Secretário de Estado de Educação, Esporte e Lazer lançou edital para realização de processo seletivo simplificado, Edital n. 008/2021/GS/SEDUC/MT, de 27 de outubro de 2021, destinado à contratação temporária para o exercício de diversas funções, dentre as quais, a de vigilante, ou seja, aquela que deveria ser desempenhada pelos candidatos classificados no referido concurso.
+Posto isso, requer o Impetrante, liminarmente, a sua nomeação ao cargo para o qual foi classificado, uma vez que, com a realização de processo seletivo simplificado, destinado à contratação temporária de profissionais para exercerem a função de Vigilante, adquiriu direito líquido e certo para tanto.
+Emenda da inicial (id. 116247965), a requerer a inclusão do Governador do Estado de Mato Grosso no polo passivo da ação.
+É o relatório.
+Como consignado no relatório, pretende o Impetrante a concessão da liminar mandamental, para ser imediatamente nomeado, a fim de assumir o cargo de Apoio Administrativo Educacional, perfil profissional: Vigilância, no Município de Denise, haja vista a sua classificação no Concurso Público, regulado pelo Edital n. 1, de 3 de julho de 2017, da Secretaria de Estado de Educação Esporte e Lazer.
+Inicialmente, reconheço, de ofício, a ilegitimidade passiva do Secretário de Estado de Educação, Esporte e Lazer de Mato Grosso
+Da Ilegitimidade do Secretário de Estado de Educação, Esporte e Lazer de Mato Grosso
+De acordo com o artigo 6o, § 3o, da Lei n. 12.016/2009, a autoridade coatora, no Mandado de Segurança, é aquela que pratica o ato ou se omite de praticá-lo, ou da qual emane a ordem para sua prática, dando causa à suposta lesão perpetrada.
+Da análise dos autos, observo que o Impetrante fez constar no polo passivo do writ o Governador do Estado de Mato Grosso e o Secretário de Estado de Educação, Esporte e Lazer.
+Entrementes, entendo que o Secretário de Estado de Educação é parte ilegítima, uma vez que não foi o responsável pela omissão da nomeação do Impetrante.
+Com efeito, a Constituição do Estado de Mato Grosso, nos termos do artigo 66, inciso IX, estatui que é competência privativa do Governador do Estado nomear os candidatos aprovados em concurso público. Veja-se:
+Art. 66 – Compete privativamente ao Governador do Estado:
+(...)
+XI – prover os cargos públicos estaduais, na forma da lei.
+Desse modo, pelo fato de o Impetrante postular, na presente ação mandamental a sua nomeação no referido cargo, é certo que o Secretário de Estado de Educação, Esporte e Lazer de Mato Grosso não é parte legítima para figurar no polo passivo da impetração, uma vez que o provimento dos cargos públicos estaduais é ato privativo do Governador do Estado de Mato Grosso.
+Nesse sentido, aliás, é a orientação da Turma de Câmaras Cíveis Reunidas de Direito Público e Coletivo. Confira-se:
+CONSTITUCIONAL E ADMINISTRATIVO – MANDADO DE SEGURANÇA – CONCURSO PÚBLICO – PRELIMINAR DE ILEGITIMIDADE PASSIVA – SECRETÁRIO DE ESTADO DE GESTÃO E SECRETÁRIO DE ESTADO DE EDUCAÇÃO – ACOLHIDA – PROFESSOR DE EDUCAÇÃO BÁSICA – CANDIDATO CLASSIFICADO FORA DO NÚMERO DE VAGAS OFERECIDAS PELO EDITAL – EXPECTATIVA DO DIREITO – CONTRATAÇÃO PARA SUBSTITUIÇÃO DE SERVIDOR EFETIVO – EXCEPCIONAL E TEMPORÁRIA – REMOÇÃO DE SERVIDOR PARA OUTRA LOCALIDADE – VACÂNCIA DO CARGO NÃO CARACTERIZADA – ATO DISCRICIONÁRIO – INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO – ORDEM DENEGADA. O provimento dos cargos públicos estaduais é ato da competência privativa do Governador do Estado (art. 66, XI, Constituição-MT), único legitimado para o mandado de segurança com essa exclusiva finalidade. (...). (N.U 1010429-02.2018.8.11.0000, Rel. Márcio Vidal, Turma de Câmaras Cíveis Reunidas de Direito Público e Coletivo, Julgado em 01/08/2019, Publicado no DJE 06/08/2019). (Destaquei).
+Nessa esteira, o reconhecimento da ilegitimidade passiva dessa autoridade é medida impositiva.
+Por tais considerações, reconheço, de ofício, a ilegitimidade passiva do Secretário de Estado de Educação, Esporte e Lazer de Mato Grosso.
+Atinente à concessão da liminar no Mandado de Segurança, sabe-se que é necessário que a parte impetrante demonstre, de plano, a presença dos requisitos no inciso III do artigo 7o, da Lei n. 12.016/2009, notadamente, a relevância dos motivos em que se assentam o pedido da inicial e a possibilidade de ineficácia da medida, na hipótese de que a segurança só venha a ser concedida na decisão de mérito (fumus boni juris e periculum in mora).
+Vê-se, assim, que o fundamento relevante que autoriza a concessão da medida liminar no mandado de segurança é mais intenso que a mera aparência do bom direito, devendo ser entendido como a alta probabilidade de ganho da ação mandamental.
+Oportuno registrar que ao Poder Judiciário não compete intervir no mérito administrativo, tendo em vista caber-lhe, tão somente, avaliar a legalidade do ato impugnado.
+Sobre a específica matéria dos autos, o Supremo Tribunal Federal, no julgamento submetido ao rito da repercussão geral (RE n. 598099/MS), fixou o entendimento de que o candidato aprovado no concurso público dentro do número de vagas, previstas no Edital, tem direito subjetivo à nomeação. Veja-se:
+RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL – CONCURSO PÚBLICO – PREVISÃO DE VAGAS EM EDITAL – DIREITO À NOMEAÇÃO DOS CANDIDATOS APROVADOS.
+I. DIREITO À NOMEAÇÃO. CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS PREVISTAS NO EDITAL. Dentro do prazo de validade do concurso, a Administração poderá escolher o momento no qual se realizará a nomeação, mas não poderá dispor sobre a própria nomeação, a qual, de acordo com o edital, passa a constituir um direito do concursando aprovado e, dessa forma, um dever imposto ao poder público. Uma vez publicado o edital do concurso com número específico de vagas, o ato da Administração que declara os candidatos aprovados no certame cria um dever de nomeação para a própria Administração e, portanto, um direito à nomeação titularizado pelo candidato aprovado dentro desse número de vagas.
+II. (...). (RE n. 598.099/MS RG - Relator(a): Min. Gilmar Mendes - Tribunal Pleno - julgado em 10/08/2011 - RG - Mérito DJe-189 – divulg. 30-09-2011 – public. 03-10-2011). (Destaquei).
+O Superior Tribunal de Justiça, segundo a orientação do STF, pacificou o entendimento, in verbis:
+ADMINISTRATIVO – CONCURSO PÚBLICO – CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS – EXISTÊNCIA DE SITUAÇÕES EXCEPCIONALÍSSIMAS QUE PODERIAM JUSTIFICAR O FATO DE A ADMINISTRAÇÃO NÃO CUMPRIR AS NORMAS QUE REGEM O CERTAME – AUSÊNCIA DE JUSTIFICATIVA SUFICIENTE E CLARA PARA QUE FOSSEM CARACTERIZADAS AS SITUAÇÕES EXCEPCIONALÍSSIMAS.
+1. (...).
+2. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que o candidato aprovado dentro do número de vagas ofertadas em edital de concurso público tem o direito público subjetivo à nomeação, não podendo a Administração Pública dispor desse direito.
+3. (...). (AgInt no RMS n. 57.880/SP - Rel. Ministro Herman Benjamin – Segunda Turma - julgado em 16/05/2019 - DJe 30/05/2019). (Negritei).
+No caso em questão, observo que o Edital regulamentador do certame previu 3 (três) vagas, para o cargo de Apoio Administrativo Educacional, perfil profissional: Vigilância (ampla concorrência) – Município de Denise, e o Impetrante obteve a 5a (quinta) posição (id. 116019487 – pág. 35).
+Com efeito, dois são os requisitos a serem atendidos para que o Impetrante obtenha a concessão do ato impugnado, são eles: o fundamento relevante da impetração e a possibilidade de ineficácia da sentença final que venha a deferir a segurança, em caráter definitivo (Júnior, Humberto Theodoro. Lei do Mandado de Segurança comentado, 2019. 2. ed. p. 255).
+Entrementes, em que pese aos argumentos trazidos pelo Impetrante, sobretudo, a possibilidade de existirem profissionais contratados temporariamente em detrimento do concurso público, entendo que a liminar não deve ser concedida, porque não se afigura factível a possibilidade de lesão irreparável à parte Impetrante, se acaso obtido o reconhecimento que pretende, na oportunidade do exame de mérito, de modo que não há falar em deferimento da tutela liminar.
+Dessarte, da análise do caderno processual, não verifico o preenchimento dos requisitos mencionados alhures, especialmente, a possibilidade de ineficácia da medida, se concedida na ocasião do exame de mérito, já que não há demonstração, inequívoca, do prejuízo advindo da espera do referido julgamento pelo Colegiado.
+Importante destacar que, embora a probabilidade de procedência da ação mandamental seja relevante, o periculum in mora é duvidoso.
+Nessa esteira, tenho que ausente um dos requisitos legais previstos no artigo 7o, inciso III, da Lei n. 12.016/2009, a não concessão do pedido liminar é medida impositiva.
+Com essas considerações, RECONHEÇO, de ofício, a ilegitimidade passiva do Secretário de Estado de Educação, Esporte e Lazer de Mato Grosso, e, consequentemente, excluo-o da presente ação mandamental, julgando, em relação a ele, extinto o feito, sem resolução do mérito, denegando a ordem, nos termos do artigo 6o, § 5o, da Lei n. 12.016/2009, e, NÃO CONCEDO a liminar vindicada no writ.
+Cumpra-se o disposto no artigo 7o, I e II, da Lei n. 12.016/2009, em especial, a notificação do Impetrado, Governador do Estado de Mato Grosso, para prestar, querendo, no prazo de 10 (dez) dias, as suas informações.
+Após, encaminhem-se os autos à Procuradoria-Geral de Justiça.
+Retifique-se a distribuição para que conste como impetrado somente o Governador do Estado de Mato Grosso.
+Cumpra-se. Intimem-se.
+Cuiabá, 19 de fevereiro de 2022.
+Des. Márcio VIDAL,
+Relator.
