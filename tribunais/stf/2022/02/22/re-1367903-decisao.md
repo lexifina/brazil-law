@@ -1,0 +1,87 @@
+DECISÃO: Trata-se de recurso extraordinário com base no art. 102, inciso III, da Constituição Federal.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    "PROCESSUAL CIVIL. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO DE SENTENÇA PROFERIDA EM MANDADO DE SEGURANÇA COLETIVO. GRATIFICAÇÃO DE INCREMENTO DA FISCALIZAÇÃO E DA ARRECADAÇÃO — GIFA. LIMITAÇÃO, NA ESPÉCIE, DOS BENEFICIÁRIOS NOMINADOS NA LISTA ANEXADA À PETIÇÃO INICIAL. AUSÊNCIA DE DEMONSTRAÇÃO, PELO PRETENSO CREDOR, DA QUALIDADE DE BENEFICIÁRIO. SENTENÇA MANTIDA.
+
+    1. Cuida-se de embargos à execução de sentença proferida em mandado de segurança coletivo, impetrado em 13/12/2004 pela então ANFIP — Associação Nacional dos Auditores Fiscais da Previdência Social que instruiu a petição inicial com lista de beneficiários.
+
+    2. O mandado de segurança coletivo alcança todos os integrantes da categoria substituída, sem que destes se exijam autorização, versando a hipótese substituição e não representação processual, pois os beneficiários poderiam ser identificados posteriormente, demonstrando-se que se enquadram exatamente naquela situação que deu origem ao direito assegurado na sentença, uma vez que nos termos do art. 22, caput, da Lei do Mandado de Segurança, a sentença fará coisa julgada em favor dos substituídos pela atividade processual da entidade de classe.
+
+    3. Porém, afigura-se sem legitimidade para execução da sentença coletiva o servidor aposentado que não demonstrou ter ocupado o cargo de Auditor Fiscal da Previdência Social, ou dele ser pensionista, que ao tempo da impetração (12/2004) era a única categoria representada (lato senso) pela ANFIP, que congregava então apenas os Auditores Fiscais da Previdência Social, tanto que a petição inicial limitou expressamente os beneficiários aos constantes na listagem a ela anexada, o que não prejudicaria, porém, o interessado, se este efetivamente fosse integrante da categoria então substituída, o que não sucedeu na hipótese dos autos.
+
+    4. Ademais, a circunstância superveniente de a Lei n. 11.457, de 2007, ter transformado em cargos de Auditores Fiscais da Receita Federal do Brasil (AFRFB) os antigos cargos de Auditores Fiscais da Receita Federal (AFRF) e Auditores Fiscais da Previdência Social (AFPS), razão pela qual a ANFIP alterou sua denominação e a categoria funcional que passou a representar, não faz estender a outros servidores os efeitos da sentença proferida em favor apenas da categoria funcional por ela efetiva e anteriormente substituída, conforme listagem expressamente referida na petição inicial, pois a sentença beneficia apenas a categoria em favor da qual foi a ação mandamental impetrada, pela entidade com a representatividade adequada.
+
+    5. O apelante não demonstrou que ostentava a situação jurídica de Auditor Fiscal da Previdência Social ao tempo da impetração (13/12/2004), categoria de servidores que foi então substituída pela impetrante, que congregava apenas aqueles auditores, não se qualificando o apelante, portanto, como beneficiário da sentença.
+
+    6. Em conclusão, seja por não se incluir na lista apresentada pela impetrante na inicial da ação mandamental, o que poderia ser superado, seja por não ter demonstrado integrar a categoria então substituída, condição essa incontornável, a apelação não merece provimento.
+
+    7. Apelação desprovida; agravo retido prejudicado."
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, XXI, XXXVI e LXX, "b"; 37, XV; e 40, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    "A sentença assegurou o direito à percepção da GIFA apenas aos substituídos, expressamente declinados na lista que acompanhou a petição inicial. Esse ponto não foi objeto de apelação pela autora da ação mandamental, a saber, a então Associação Nacional dos Auditores Fiscais da Previdência Social — ANF1P. A sentença foi assertiva: o pedido de extensão a outros associados que viessem a se aposentar não mereceu acatamento, por ofensa ao princípio do Juiz Natural, pacificada a lide apenas em relação às Partes do processo, reconhecido o direito aos substituídos representados no momento da impetração da ação mandamental, alcançando tão somente aqueles que se encontram na situação descrita nos fatos narrados, no momento que antecede à distribuição desta ação mandamental, concluindo no dispositivo que o pedido era concedido em relação aos substituídos nesta ação mandamental (fls. 99).
+
+    Não houve apelação da impetrante.
+
+    A execução foi proposta, aqui, por interessado que não consta da lista anexa à petição do mandado de segurança coletivo e a questão que se põe é quanto à sua legitimidade para executar o título, vale dizer, se é beneficiário da sentença.
+
+    (...)
+
+    É importante esclarecer que o STF decidiu, no RE 573.232/SC, em julgamento submetido à repercussão geral, que apenas os associados que tenham dado autorização expressa para sua propositura poderão executar o título judicial, não bastando permissão estatutária genérica, sendo indispensável que a autorização seja dada por ato individual ou em assembleia geral, situação que não se aplica, contudo, aos mandados de segurança coletivos, como neste caso em execução. Portanto, cuidando-se de mandado de segurança coletivo, porque não é imprescindível a apresentação de lista de beneficiários, mesmo referindo-se a direito individual homogêneo, essa circunstância, ao meu sentir, não prejudicaria aqueles que efetivamente foram substituídos e não constam da lista apresentada com a inicial.
+
+    No caso dos autos, sabe-se, a petição inicial limitou expressamente os beneficiários aos constantes na listagem a ela anexada, o que não prejudicaria, porém, o interessado, se este efetivamente fosse integrante da categoria então substituída.
+
+    É isso que se verá a seguir.
+
+    (...)
+
+    Na petição inicial do mandado de segurança, afirma-se que a ação estava sendo então proposta em favor dos seus associados (listagem no doc. 2), pensionistas, aposentados e em vias de se aposentar ....(fls. 66). A sentença registrou essa distinção entre aposentados e os que viessem a reunir os requisitos legais para se aposentar ao longo da tramitação do feito, rejeitando essa extensão a quem viesse a se aposentar, assegurando o direito apenas aos substituídos (aposentados e pensionistas) no momento da impetração da ação mandamental (fls. 99).
+
+    Porém, afigura-se sem legitimidade para execução da sentença coletiva o servidor aposentado que não demonstrou ter ocupado o cargo de Auditor Fiscal da Previdência Social, ou dele ser pensionista, que ao tempo da impetração (12/2004) era a única categoria representada (lato senso) pela ANFIP, que congregava então apenas os Auditores Fiscais da Previdência Social, tanto que a petição inicial limitou expressamente os beneficiários aos constantes na listagem a ela anexada, o que não prejudicaria, porém, o interessado, se este efetivamente fosse integrante da categoria então substituída, o que não sucedeu na hipótese dos autos.
+
+    Com efeito, a ANFIP, ao tempo da propositura da ação, tinha como objetivo representar os servidores integrantes da carreira Auditoria Fiscal da Previdência Social, nos termos da lei n. 10.593, de 2002, conforme art. 1° do Estatuto então vigente, verbis:
+
+    (...)
+
+    O problema é que o apelante não demonstrou que ostentava a situação jurídica de Auditor Fiscal da Previdência Social, aposentado ou mesmo em atividade ao tempo da impetração (13/12/2004), categoria de servidores que foi então substituída pela impetrante, que congregava apenas aqueles auditores, não se qualificando o apelante, portanto, como beneficiário da sentença.
+
+    O apelante não trouxe qualquer informação de que cargo foi ocupante, mas apenas que é Auditor Fiscal da Receita Federal do Brasil aposentado. Pelas fichas financeiras pelas quais foi apurado o pretenso crédito não há contribuição à ANFIP, mas à UNAFISCO, que congregava os Auditores Fiscais da Receita Federal e não os Auditores Fiscais da Previdência Social, que eram então os representados pela ANFIP.
+
+    (...)
+
+    Ademais, a circunstância superveniente de a Lei n. 11457, de 2007, ter transformado em cargos de Auditores Fiscais da Receita Federal do Brasil (AFRFB) os antigos cargos de Auditores Fiscais da Receita Federal (AFRF) e Auditores Fiscais da Previdência Social (AFPS), razão pela qual a ANFIP alterou sua denominação e a categoria funcional que passou a representar, não faz estender a outros servidores os efeitos da sentença proferida em favor apenas da categoria funcional por ela efetiva e anteriormente substituída, conforme listagem"
+
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. OFENSA CONSTITUCIONAL REFLEXA. REEXAME DE FATOS. SÚMULA 279/STF
+
+    1. (...)
+
+    4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 5. Agravo Interno a que se nega provimento.” (RE 1.237.969-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 12/2/2020).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.3. Agravo regimental desprovido.” (ARE 1.165.382 – AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 3/3/20).
+
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA. O recurso extraordinário não é meio próprio ao revolvimento da prova.” (RE 1066713-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe 20/2/20).
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 22 de fevereiro de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
