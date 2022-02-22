@@ -1,0 +1,24 @@
+RECURSO DE APELAÇÃO CÍVEL N.o 1016972-92.2018.8.11.0041
+Vistos etc.
+Trata-se de Recurso de Apelação interposto por Ornobio Trindade Filho em virtude da sentença proferida pelo Juiz da 3.a Vara Cível da Comarca de Cuiabá que, nos autos da Ação de Cobrança de Aluguéis movida por Ana Nancy Costa Campos, julgou procedentes os pedidos iniciais e condenou-o ao pagamento dos aluguéis vencidos a partir de Janeiro/2015, no valor total de R$ 93.440,43 (noventa e três mil, quatrocentos e quarenta reais e quarenta e três centavos), corrigido monetariamente.
+Condenou-o, também, ao pagamento das custas, despesas processuais e honorários advocatícios que fixou em 10% (dez por cento) do valor atualizado do débito.
+A Apelante pugnou, de início, pelo processamento do recurso sob o manto da justiça gratuita.
+Intimado para comprovar a incapacidade financeira, a parte apresentou documentos nos IDs. 118124474 até 118126484.
+Eis o relato essencial. Decido.
+É cediço que a concessão da gratuidade pressupõe que a parte não possa custear as despesas do processo sem prejuízo do sustento próprio ou da família.
+A Constituição Federal, em seu artigo 5.o, inciso LXXIV preceitua que o Estado prestará assistência judiciária integral e gratuita aos que comprovarem insuficiência de recursos.
+Necessário dizer que o texto constitucional é claro ao prever a necessidade de comprovação da hipossuficiência daqueles que buscam a benesse, de modo que a declaração da parte é relativa.
+O Código de Processo Civil estabelece, no artigo 98, que a pessoa natural com insuficiência de recursos tem direito à gratuidade da justiça.
+Destaca-se que, se por um lado, a lei não exige que o cidadão se encontre em estado de miserabilidade, mas sim em momento em que não possa efetuar o pagamento dos emolumentos sem prejuízo de seu sustento ou de sua família, por outro, a sua declaração de pobreza deve guardar um mínimo de razoabilidade, devendo comprovar a alegada condição de hipossuficiência.
+No caso concreto, conforme se depreende das Declarações de Imposto de Renda (ID. 118124474 até 118124476), no ano de 2021 o Apelante informou ter recebido a somatória de R$ 67.558,99 (sessenta e sete mil, quinhentos e cinquenta e oito reais e noventa e nove centavos) de 4 pessoas jurídicas distintas, a saber: Fundo do Regime Geral de Previdência Social, Caixa de Previdência dos Funcionários do Banco do Brasil, Cooperforte - Cooperativa de Economia e Crédito Mútuo de Funcionários de Instituições Financeiras Públicas Federais Ltda. e Prefeitura Municipal de Cuiabá.
+Do Comprovante emitido pelo Instituto Nacional de Seguridade Social (ID. 118126452), consta-se que o Apelante é beneficiário de pensão por morte no valor líquido de R$ 2.236,08 (dois mil, duzentos e trinta e seis reais e oito centavos).
+Já dos extratos bancários anexados nos IDs. 118124477 até 118124483, observa-se que, além do valor acima mencionado, o Apelante recebeu da Caixa de Previdência dos Funcionários do Banco do Brasil, entre Agosto/2021 até Janeiro/2022, previdência complementar no valor médio de R$ 2.755,10 (dois mil, setecentos e cinquenta e cinco reais e dez centavos) por mês.
+Inobstante outros créditos disponibilizados em sua conta corrente, durante o mesmo período (Agosto/2021 até Janeiro/2022) o Apelante recebeu quantias variáveis da empresa Estrela da Manhã Transportes Ltda (CNPJ 10.369.252/0001-46), na qual atua como sócio administrador. Neste ponto, registra-se, somente no mês de Janeiro/2022 o crédito recebido da empresa do Recorrente totalizou R$ 6.150,00 (seis mil cento e cinquenta reais).
+Posto isso, levando em consideração que a jurisprudência do STJ é uníssona no sentido de que "o benefício da assistência judiciária gratuita pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídicas” (AgInt no AREsp 1503631 / RS. Relator Ministro Raul Araújo, 4.a Turma. Julgado em 11/02/2020. Publicado em 03/03/2020), a meu viso, é indubitável que a situação apresentada pelo Apelante não traduz a incapacidade financeira noticiada.
+Por corolário, do exame da documentação apresentada não é possível deduzir que falta ao Recorrente condições econômicas para arcar com o pagamento do preparo recursal, o qual, de acordo com a simulação feira no web site deste Tribunal (http://arrecadacao.tjmt.jus.br/emissao/gerar-guia), perfaz apenas a quantia de R$ 2.803,21 (dois mil, oitocentos e três reais e vinte e um centavo).
+Diante do exposto, concluo que a Recorrente não faz jus à gratuidade da justiça, motivo pelo qual indefiro o seu pedido.
+Intime-se a Apelante para, no prazo de 5 (cinco) dias, efetuar o recolhimento do preparo recursal, sob pena de deserção.
+Cumpra-se.
+Cuiabá, 22 de fevereiro de 2.022.
+Des.a Clarice Claudino da Silva
+Relatora
