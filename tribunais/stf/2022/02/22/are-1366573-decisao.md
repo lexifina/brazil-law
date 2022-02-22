@@ -1,0 +1,69 @@
+DIREITO PENAL E PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA E CORRUPÇÃO ATIVA. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL PELO TRIBUNAL DE ORIGEM. DESCABIMENTO DE AGRAVO EM RECURSO EXTRAORDINÁRIO PARA O STF. CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. INDIVIDUALIZAÇÃO DA PENA. VALORAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. ÂMBITO INFRACONSTITUCIONAL DO DEBATE. REELABORAÇÃO DA MOLDURA FÁTICA. SÚMULA Nº 279/STF. EVENTUAL VIOLAÇÃO REFLEXA DA CARTA MAIOR NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. NÃO OCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. RECURSO EXTRAORDINÁRIO COM AGRAVO A QUE SE NEGA SEGUIMENTO.
+
+    Vistos etc.
+
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao arts. 5º, XII, XXXIX, XLV, XLVI, LIV, LV, LVI e LVII, e 93, IX, da Constituição Federal.
+
+    É o relatório.
+
+    Decido.
+
+    Preenchidos os pressupostos extrínsecos.
+
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+
+    O Tribunal de origem inadmitiu o apelo extremo considerados o ARE 748.371-RG, o AI 742.460-RG e o AI 791.292-RG, submetidos à sistemática da repercussão geral, além dos óbices das Súmulas nº 279 e 282/STF.
+
+    Firmou-se o entendimento desta Suprema Corte no sentido de que incabível agravo em recurso extraordinário ou reclamação de decisão que, na origem, aplica o precedente da repercussão geral. Contra decisão desse teor, reputa-se admissível apenas agravo interno no âmbito do próprio Tribunal a quo.
+
+    Tal entendimento foi positivado no Código de Processo Civil de 2015, verbis:
+
+    “Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+
+    I – negar seguimento:
+
+    a) a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral;
+
+    (…).
+
+    § 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.”
+
+    Ressalto, ainda, o óbice consubstanciado no art. 1.042, parte final, do CPC 2015, que dispõe: “Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos”.
+
+    Nesse prisma, enfatizo que, no julgamento do ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 01.8.2013, esta Suprema Corte decidiu pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. O acórdão está assim ementado:
+
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+
+    Ainda, não prospera a insurgência pelo prisma do inciso XLVI do art. 5º da Carta Política, consagrador do princípio da individualização da pena, uma vez que o Plenário Virtual desta Suprema Corte, ao julgamento do AI 742.460-RG/RJ, Rel. Min. Cezar Peluso, DJe 25.9.2009, negou a existência de repercussão geral da questão relativa à valoração das circunstâncias judiciais na fundamentação da fixação da pena-base pelo juízo sentenciante:
+
+    “RECURSO. Extraordinário. Inadmissibilidade. Circunstâncias judiciais previstas no art. 59 do Código Penal. Fixação da pena-base. Fundamentação. Questão da ofensa aos princípios constitucionais da individualização da pena e da fundamentação das decisões judiciais. Inocorrência. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59, do Código Penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional” (AI 742.460-RG/RJ, Rel. Min. Cezar Peluso, Tribunal Pleno, j. em 27/08/2009, DJe 24.9.2009).
+
+    De outra parte, da leitura dos fundamentos do acórdão prolatado na origem, constato explicitados os motivos de decidir, circunstância que afasta o vício da nulidade por negativa de prestação jurisdicional arguido. Destaco que, no âmbito técnico-processual, o grau de correção do juízo de valor emitido na origem não se confunde com vício ao primado da fundamentação, notadamente consabido que a disparidade entre o resultado do julgamento e a expectativa da parte não sugestiona lesão à norma do texto republicano. Colho precedente desta Suprema Corte na matéria, julgado segundo a sistemática da repercussão geral:
+
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI 791.292-QO-RG, Relator Ministro Gilmar Mendes, Plenário Virtual, DJe 13.8.2010).
+
+    Noutro giro, o exame de eventual ofensa aos preceitos constitucionais indicados nas razões recursais demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal (“Inviável em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional” RE 660.186 AgR/RS, Rel. Min. Dias Toffoli, 1ª Turma, DJe 14.02.2012).
+
+    Ademais, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento acerca da materialidade e autoria, razão pela qual compreensão diversa exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+    “DIREITO PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AO ART. 5º, II, XXXV, XXXVI, XXXVII, LIII, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. LEGALIDADE. CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. JUIZ NATURAL. INAFASTABILIDADE DA JURISDIÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. [...] 2. O exame da alegada ofensa ao art. 5º, II, XXXV, XXXVI, XXXVII, LIII, LIV e LV, da Constituição Federal, observada a estreita moldura com que devolvida a matéria à apreciação desta Suprema Corte, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária prevista no art. 102 da Magna Carta. 3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 4. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça. 5. Agravo regimental conhecido e não provido” (ARE 971.889-AgR/PE, de minha relatoria, 1ª Turma, DJe 05.4.2019).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. TRANSAÇÃO PENAL. REQUISITOS. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA E IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUTORIA E MATERIALIDADE. IMPOSSIBILIDADE DE REEXAME DE PROVA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1.190.891-AgR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 27.02.2020).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. VIOLAÇÃO AO ARTIGO 5º, XXXV e XXXVI, DA CF/1988. OFENSA CONSTITUCIONAL REFLEXA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 2. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão de Recurso Extraordinário, que supõe matéria constitucional prequestionada explicitamente. 3. A reversão do acórdão passa necessariamente pelo reexame das provas. Incide, portanto, o óbice da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) desta CORTE (...)” (ARE 1.327.837-AgR/SP, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 31.8.2021).
+
+    “DIREITO PENAL E PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. CRIME CONTRA O SISTEMA FINANCEIRO. ARRESTO DE BENS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. ALEGAÇÃO DE OFENSA AO ART. 5º, XXII, LIV E LVII, DA CONSTITUIÇÃO DA REPÚBLICA. DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. VIOLAÇÃO DO DIREITO DE PROPRIEDADE E DO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. AUSÊNCIA. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. Não ocorre violação do art. 93, IX, da Constituição Federal. A jurisprudência do Supremo Tribunal Federal é no sentido de que o referido dispositivo constitucional exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento, desnecessário o exame detalhado de cada argumento suscitado pelas partes. 2. O entendimento adotado na decisão agravada reproduz a jurisprudência firmada no Supremo Tribunal Federal. O exame da alegada ofensa ao art. 5º, XXII, LIV e LVII, da Lei Maior, observada a estreita moldura com que devolvida a matéria à apreciação desta Suprema Corte, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, bem como do revolvimento do quadro fático delineado na origem, o que refoge à competência jurisdicional extraordinária prevista no art. 102 da Magna Carta. 3. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. Agravo interno conhecido e não provido” (ARE 1.068.203-AgR, de minha Relatoria, Primeira Turma, DJe 28.02.2018).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. CRIME DE ESTELIONATO. ARTIGO 171 DO CÓDIGO PENAL. COMPROVAÇÃO DE AUTORIA E MATERIALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. INCIDÊNCIA. 1. A autoria e a materialidade criminal, quando sub judice a controvérsia, encerra análise de normas infraconstitucionais e do conjunto fático-probatório constante dos autos. Precedentes: ARE 741.324-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 4/9/2013, e AI 791.960-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 25/9/2013. 2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 3. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 4. In casu, o acórdão recorrido assentou: ‘ESTELIONATO – AUTORIA E MATERIALIDADE DELITIVA EVIDENCIADAS – ACERVO PROBATÓRIO SUFICIENTE – ABSOLVIÇÃO – INVIABILIDDE’. 5. Agravo regimental DESPROVIDO”(ARE 777117 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 31.01.2014).
+
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+
+    Nego seguimento (art. 21, § 1º, do RISTF).
+
+    Publique-se.
+
+    Brasília, 22 de fevereiro de 2022.
+
+Ministra Rosa Weber
+
+Relatora
