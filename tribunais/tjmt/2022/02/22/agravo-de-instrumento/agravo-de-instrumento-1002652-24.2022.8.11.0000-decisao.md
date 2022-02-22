@@ -1,0 +1,33 @@
+RECURSO DE AGRAVO DE INSTRUMENTO No 1002652-24.2022.8.11.0000
+Vistos etc.
+Cuida-se de Recurso de Agravo de Instrumento interposto por ADM DO BRASIL LTDA. em virtude de decisão proferida pela Juíza da 3a Vara Cível da Comarca de Primavera do Leste que, nos autos da Ação de Execução para Entrega de Coisa Incerta, convertida em Ação de Execução por Quantia Certa, ajuizada em desfavor de VIANA TRADING IMPORTACAO E EXPORTACAO DE CEREAIS LTDA. E OUTROS, indeferiu o pedido de prosseguimento da Execução e impediu a penhora e avaliação de bens em decorrência das CTR’s no 1331P80413S e no 1331P80415S.
+Nas razões recursais, em síntese, a Agravante busca o prosseguimento da Execução com base no art. 919, § 5o do CPC e, também, sob o argumento da existência de valor incontroverso que possibilita a penhora de bens.
+Sustenta que seus pedidos são plausíveis visto que a literalidade do art. 917, § 3o, do CPC traz como um dos requisitos para conhecimento dos Embargos à Execução a indicação de valor incontroverso pelo Embargante; logo, é possível o prosseguimento da ação com base nesse valor, ainda que tenha sido concedido efeito suspensivo aos Embargos.
+Pugna pela concessão do efeito ativo e o prosseguimento da Ação de Execução, nos termos pleiteados.
+No mérito, pugna pelo provimento do recurso.
+É o relatório. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a decisão combatida se enquadra na hipótese do artigo 1.015, inciso I, do Código de Processo Civil, bem como veio instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o, do CPC.
+O artigo 1.019, inciso I, do Código de Processo Civil preconiza que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e o risco de dano grave, de difícil ou impossível reparação.
+Da análise dos autos, neste juízo provisório e nos estritos limites da cognição sumária própria desta fase processual, entendo que a Agravante não demonstrou, de forma segura, a presença dos requisitos para a concessão da tutela de urgência.
+Com efeito, a Juíza a quo entendeu por bem indeferir o pedido, primeiro porque o art. 919, § 5o, do CPC versa sobre bens já penhorados; segundo, porque nos Embargos à Execução no 1008069-75.2021.8.11.0037, o pedido principal é de nulidade da Ação Executiva, tendo sido apresentado valor incontroverso apenas de forma subsidiária (decisão de Id 118425499).
+Em suma, importante salientar que a Ação de Execução no 0001745-38.2011.8.11.0037 foi proposta, inicialmente, para garantir o recebimento de 1.740.950,56 Kg (um milhão, setecentos e quarenta mil, novecentos e cinquenta quilos e cinquenta e seis gramas) de soja tipo exportação, com até 14% (quatorze por cento) de umidade, 1% (um por cento) de impurezas, 8% (oito por cento) de avariados com até 5% (cinco por cento) de ardidos, 10% (dez por cento) de grãos verdes, 30% (trinta por cento) de grãos quebrados, padrão CONCEX.
+Diante do perecimento do produto, a ação foi convertida em Execução por Quantia Certa, e tramita desde 31/03/2011 na 3a Vara Cível da Comarca de Primavera do Leste, tendo em vista que a Executada Oliva Santolin Viana só foi citada por Edital em 06/11/2020.
+Consta dos autos que a Execução está garantida pelas seguintes hipotecas:
+a) Hipoteca no valor de R$ 38.000.000,00 (trinta e oito milhões de reais) sobre o imóvel rural com área de 4.418ha e 5.000m2, matrícula no 338 do Registro Geral de Imóveis de Novo São Joaquim-MT, garantia constituída por Pedro Viana; e
+b) Hipoteca no valor de R$18.000.000,00 (dezoito milhões de reais) sobre o imóvel rural com área de 146ha e 4.600m2, matrícula no 7.908 do Registro Geral de Imóveis de Guiratinga-MT, garantia constituída por Viana Alimentos Ltda.
+Esta foi a razão de os Embargos à Execução no 1008069-75.2021.8.11.0037 e no 1007354-33.2021.8.11.0037 terem sido recebidos com efeito suspensivo, sem que houvesse insurgência da Agravante contra esse ato decisório.
+Nota-se que a aplicação do art. 919, § 5o, do CPC depende de penhora já formalizada, consoante mencionado na decisão agravada.
+Nesse sentido, o entendimento jurisprudencial a seguir colacionado:
+AGRAVO DE INSTRUMENTO – EXECUÇÃO DE TÍTULO EXTRAJUDICIAL – OPOSIÇÃO DE EMBARGOS À EXECUÇÃO – DEFERIMENTO DO PEDIDO DE EFEITO SUSPENSIVO – POSTERIOR DECISÃO NA EXECUÇÃO DE CONSTRIÇÃO DE IMÓVEL DO EXECUTADO/EMBARGANTE – DECISÃO REFORMADA – RECURSO PROVIDO. O artigo 919, § 5o do CPC estabelece que a “concessão de efeito suspensivo não impedirá a efetivação dos atos de substituição, de reforço ou de redução da penhora e de avaliação dos bens”. A concessão de efeito suspensivo aos embargos à execução pressupõe a suspensão dos atos expropriatórios, o que impede o deferimento do pedido de constrição de imóvel do executado/embargante. (TJMT 10057756420218110000. Órgão Julgador: Primeira Câmara de Direito Privado. Relatora: Desa. Nilza Maria Possas de Carvalho. Julgamento: 25/05/2021. Publicação: 01/06/2021). Sem destaque no original
+Portanto, pelo menos em tese, inviável o deferimento do pleito da Agravante nesta quadra recursal, pois inexiste auto de penhora dos bens dados como garantia, tanto que um dos pedidos é exatamente a sua lavratura.
+De outra banda, apesar de a alegação de que há valor incontroverso no montante de R$ 2.562.230,70 (dois milhões quinhentos e sessenta e dois mil duzentos e trinta reais e setenta centavos), nos Embargos à Execução no 1008069-75.2021.8.11.0037 foi explicitado pela Juíza Singular que o pedido principal dos Agravados/Embargantes é a nulidade da execução.
+Assim, tenho que não está demonstrada, indene de dúvida, a plausibilidade do direito invocado.
+Além disso, apesar de a Agravante apontar como periculum in mora o tempo de mais de 13 (treze) anos de tramitação da demanda, do manuseio dos autos na 1a Instância, extrai-se que a Ação de Execução para Entrega de Coisa Incerta foi convertida em Ação de Execução por Quantia Certa, em razão do perecimento do produto que se buscava receber, de sorte que não há demonstração de risco de prejuízo grave durante o rápido trâmite deste recurso.
+Logo, ao menos neste momento de cognição não exauriente, inexistem quaisquer elementos concretos que deixem entrever que a manutenção da decisão singular até o julgamento deste Agravo implica risco de dano grave, de difícil ou impossível reparação.
+Dessa forma, ausente os requisitos, indefiro o pedido de efeito ativo.
+Comunique-se à Juíza a quo.
+Intime-se a parte agravada para, querendo, apresentar contraminuta, no prazo legal.
+Intime-se. Cumpra-se.
+Cuiabá, 21 de fevereiro de 2022.
+Des.a Clarice Claudino da Silva
+Relatora
