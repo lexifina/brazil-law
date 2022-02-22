@@ -1,0 +1,20 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto por NOEMI DE SOUZA MARTINS, com o fito de reformar a decisão que, nos autos da Ação de Execução de Título Judicial de n. 0009571-61.2011.811.0055, manejada por SUELI DA GLORIA DO NASCIMENTO, rejeitou a exceção de pré-executividade suscitada pela executada, ora agravante.
+Para tanto, a agravante alega ser desnecessária a realização da perícia para a análise da prescrição por ela suscitada, tendo em conta que o marco inicial do prazo prescricional é a data em que nasceu a pretensão do sujeito ativo da relação jurídica obrigacional que, in casu, ocorreu com o trânsito em julgado da sentença homologatória em que se pauta a demanda executiva, em 30/08/2002.
+Pondera que, quando a agravada propôs a ação de execução de título judicial (27/10/2011), a sua pretensão já estava prescrita, em razão da sua inércia por mais de 09 (nove) anos e 02(dois) meses, razão pela qual a perícia designada deve ser suspensa, pois não há necessidade de dilação probatória para a análise da prescrição executória e das nulidades arguidas pela agravante.
+Afirma que a realização da perícia importará em gastos que futuramente demonstrar-se-ão desnecessários, devendo, desde logo, ser suspenso o ato e reconhecida a prescrição alegada.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, da análise da questão posta, não decorre fundamento bastante para convencer da concessão da liminar recursal pretendida.
+Isso porque, além da aparente intempestividade da irresignação, tendo em conta que a agravante se insurge contra a realização de perícia designada no longínquo ano de 2017, pelo que consta da decisão recorrida, é a perícia que esclarecerá a ocorrência ou não da prescrição, pois demonstrará a data em que o exequente teve ciência da necessidade do tratamento médico decorrente do acidente automobilístico que originou o título exequendo.
+Ademais, ao menos nesse instante, não se verifica qualquer comando judicial que importe em medida expropriatória de bens ou valores em nome da executada, ora agravante, de modo que a questão concernente à prescrição do título poderá ser resolvida quando da análise exauriente do presente recurso, sem que ocorra qualquer prejuízo à parte recorrente.
+Assim, com base nessas considerações, impõe-se o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
