@@ -1,0 +1,65 @@
+EMBARGOS DE DECLARAÇÃO – APELAÇÃO CÍVEL- DECISÃO MONOCRÁTICA- ERRO MATERIAL – CORREÇÃO – NECESSIDADE – RECURSO ACOLHIDO.
+O art. 494, do CPC permite, de ofício ou por requerimento de uma das partes, que sejam feitas correções de erros materiais da decisão.
+Vistos, etc.
+Embargos de Declaração interposto por EROTILDE DE OLIVEIRA E SILVA, contra a decisão Monocrática no Recurso de Apelação, para sanar erro material e contradição, sob alegação de que o arquivo anexado da decisão é diverso do processo ora questionado.
+Sem necessidade de manifestação da parte contrária.
+É a síntese Necessária.
+O artigo 1.022 do CPC elenca expressamente as hipóteses de cabimento dos aclaratórios:
+“Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1o.”
+Sem maiores delongas, entende-se que proceder a argumentação sobre o equívoco ao inserir o arquivo no sistema PJE.
+Com tais considerações, deve ser ACOLHIDO OS EMBARGOS DECLATÓRIOS, alterando a Decisão Monocrática, que passa a ter a seguinte redação:
+"APELAÇÃO CIVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - ALEGAÇÃO DE COBRANÇA INDEVIDA - ACORDO CELEBRADO EM DEMANDA ANTERIORMENTE AJUIZADA - DESCUMPRIMENTO DO ACORDO COM INCLUSÃO DO NOME DO CONSUMIDO NOS QUADROS DE MAUS PAGADORES – ALEGAÇÃO DE EXISTÊNCIA DE REFINANCIAMENTO – IMPOSSIBILIDADE - DANO MORAL CONFIGURADO – RECURSO CONHECIDO E PROVIDO.
+I – Tendo em vista que dívida questionada foi declarada inexistente junto aos autos 36290-83.2015.811.0041, que tramitou junto a que tramitou junto à 9a Vara Cível de Cuiabá-MT.
+II - Assim, Tendo havido acordo entre as partes reconheceu da fraude contratual original, é evidente que o suposto refinanciamento também é inexistente.
+III - Muito embora o mero descumprimento de acordo judicial não caracterize, por si só, a ocorrência de danos morais, percebe-se que, no caso concreto, após a realização do acordo, a instituição bancaria procedeu à inclusão negativa da parte apelante, em virtude de um suposto refinanciamento de algo já aceito como inexistente, fato este que configura dano moral in re ipsa.
+IV - A indenização por danos morais deve atender ao caráter sancionatório e inibitório, suficiente a desestimular a repetição da conduta lesiva. Levando em consideração os princípios da razoabilidade e da proporcionalidade, fixo os danos morais em R$ 5.000,00 (cinco mil reais).
+V - Por fim, inverte-se o ônus da sucumbência, condenando a parte apelada ao pagamento de honorários de sucumbência os quais fixo em 15% sobre o valor da condenação.
+Visto, etc.
+Trata-se de recurso de apelação, interposto por EROTILDE DE OLIVEIRA E SILVA, contra a sentença proferida pelo Juízo da 8a Vara Cível da Comarca de Cuiabá-MT, nos autos da Ação Declaratória de Inexistência de Débito c/c Indenização Por Danos Morais, no 1008847-72.2017.8.11.0041, proposto na origem pela ora apelante em desfavor de ITAU UNIBANCO S.A.
+Na origem, a parte autora afirmou que mesmo sem ter dito qualquer relação jurídica comercial com a empresa requerida, teve o seno nome incluso no rol dos maus pagadores, referente a dois contratos supostamente inadimplentes.
+Que diante de tal situação, ingressou com a Ação de declaração de inexistência de débitos c/c danos morais no 36290-83.2015.811.0041 que tramitou junto à 9a Vara Cível de Cuiabá-MT.
+Que aceitou a proposta de acordo ofertada pela empresa requerida para (id. 112681486-pag. 10 e 11), para recebimento de R$ 9.000,00 (nove mil reais) a titulo de danos morais, bem como o cancelamento dos contratos discutidos naqueles autos.
+Por fim, afirma que passado algum tempo, percebeu que o seu nome estaria incluso no rol de maus pagadores, a pedido da empresa requerida, pela mesma divida já questionada na demanda anterior.
+Afirmou que existe divergência apenas na numeração dos contratos.
+Com tais considerações, requereu a declaração da inexistência da dívida referente aos supostos novos contratos, bem como a condenação da empresa requerida ao pagamento de danos morais.
+Apresentada contestação, o Banco requerido afirmou que os contratos ora questionados são oriundo de refinanciamento dos contratos discutidos na demanda anterior.
+Afirmou “que ainda que os contratos cancelados na lide originária tenham refinanciados os contratos na presente demanda, estes não se relacionam”, tendo em vista que estes não foram declarados inexistentes.
+Após analise dos autos, o Juiz de piso julgou a ação improcedente, com as seguintes consignações:
+“Analisando o documento juntados pela autora ao ID 5594425, verifico que os contratos de no 544731297 refinanciou o contrato de n° 224663370 e o contrato no 546031102 refinanciou o contrato no 237044185 e, em verdade, se tratam de contratos distintos daqueles discutidos na ação 36290-83.2015.811.0041, sendo certo que a sentença proferida nos autos da ação no 36290-83.2015.811.0041 declarou nulos tão somente os contratos 558737921 e 558037820, sendo exigíveis, portanto, os empréstimos anteriores aos refinanciamentos declarados nulos.
+(...)
+Posto isto, nos termos do art. 487, inciso I, do Código de Processo Civil, julgo improcedentes os pedidos desta Ação Declaratória de Inexistência de Débito c/c Reparação por Danos Morais, com pedido de tutela antecipada, ajuizada por Eroltildes de Oliveira e Silva em desfavor de Banco Itau BMG Consignado S.A. Por conseguinte, revogo a tutela liminar anteriormente deferida.
+Custas pela autora, bem como honorários advocatícios, que fixo em 10% do valor atualizado da causa (art. 85, § 2o do CPC). No entanto, sendo a parte beneficiária da Justiça Gratuita, a exigibilidade do crédito ficará suspensa até a fluência do prazo de cinco anos, contados da sentença final, se até lá não houver alteração na situação de necessidade (art. 98, § 1o e § 3o do CPC).”
+Inconformada a parte autora apresentou Recurso de Apelação, aduzindo que; (i) foi firmado acordo na demanda anterior, onde foram cancelados os débitos ora questionados; (ii) que com o cancelamento dos contratos fraudados, é evidente que os supostos contratos refinanciados também são inexistente; (iii) com tais argumentações, requereu a declaração da inexistência do debito, e a condenação da instituição bancaria apelada ao pagamento de danos morais.
+Apresentada contestação, pugnando pelo desprovido do recurso.
+É o relatório.
+Analisando detidamente os autos, verifico que não restam dúvidas da inexistência do crédito da instituição bancária apelada.
+Aliás, tal tema já foi alvo de acordo junto ao processo 36290-83.2015.811.0041, que tramitou junto a que tramitou junto à 9a Vara Cível de Cuiabá-MT.
+Dessa forma, entendo que a sentença de piso do presente processo esta equivocada.
+Tendo havido acordo entre as partes para reconhecimento da fraude contratual original, é evidente que o suposto refinanciamento também é inexistente.
+Assim, o apontamento negativo referente a tal contrato refinanciado é indevido.
+Friso que muito embora o mero descumprimento de acordo judicial não caracterize, por si só, a ocorrência de danos morais, percebe-se que, no caso concreto, após a realização do acordo, a instituição bancaria procedeu à inclusão negativa da parte apelante, em virtude de um suposto refinanciamento de algo já aceito como inexistente, fato este que configura dano moral in re ipsa.
+Quanto ao valor dos danos morais, é sabido que a finalidade da indenização é compensatória e educativa, devendo ser o valor arbitrado analisando-se cada caso concreto, observando-se os princípios da proporcionalidade e razoabilidade, não podendo ocorrer o enriquecimento ilícito de uma das partes, nem se afastar do caráter pedagógico da medida.
+Deve-se, assim, fixar a indenização em quantia que previna a prática de novos atos ilícitos pelo ofensor e, ao mesmo tempo, compense a vítima pelos prejuízos sofridos.
+Nesse sentido:
+“APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS – INSCRIÇÃO RESTRITIVA EM BASE DE PROTEÇÃO AO CRÉDITO – AQUISIÇÃO DE PRODUTO MEDIANTE FRAUDE PRATICADA POR TERCEIRO – RESPONSABILIDADE OBJETIVA – RELAÇÃO CONSUMERISTA – DANO MORAL CONFIGURADO – DANO IN RE IPSA – VALOR INDENIZATÓRIO FIXADO EM R$ 5.000,00 – MANUTENÇÃO - RECURSO DA PARTE AUTORA E DA PARTE RÉ DESPROVIDOS.
+1. O fornecedor responde objetivamente pelos danos causados aos consumidores em razão da falha na prestação de serviço à luz do art. 14 do CDC.
+2. Cuidando-se de negativação por débito indevido, é cabível a indenização por danos morais in re ipsa, ou seja, prescinde de comprovação.
+3. O valor da indenização por danos morais deve ser fixado em observância aos princípios da razoabilidade e da proporcionalidade.”. (TJMT, APELAÇÃO 1032597-69.2018.8.11.0041, RELATOR: DES. JOÃO FERREIRA FILHO, JULGADO EM 5 DE AGOSTO DE 2020).
+Ainda,
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO C.C INDENIZAÇÃO POR DANOS MORAIS - ALEGAÇÃO DE DESCONHECIMENTO DE DÍVIDA - SENTENÇA DE PROCEDÊNCIA, DECLARANDO A INEXISTÊNCIA DE DÉBITO, BEM COMO CONDENANDO A RÉ AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO VALOR DE R$ 5.000,00 - APELAÇÃO DO BANCO – COMPROVADA A CONTRATAÇÃO – REFORMA DA SENTENÇA – RECURSO PROVIDO.
+O banco réu comprovou a contratação desses serviços, restando, assim, confirmada a origem da dívida decorrente de regular contratação, na medida em que o autor não comprovou a quitação dos serviços, e embora afirme que sua conta era apenas para depósito (conta salário), não se desincumbiu do ônus de comprovar o alegado, a teor do que dispõe o art. 373, inc. I, do CPC”. (TJMT, AGRAVO DE INSTRUMENTO, RELATORA: NILZA MARIA POSSAS DE CARVALHO, JULGADO EM 19 DE MARÇO DE 2019).
+Assim, sopesando os aspectos fáticos e probatórios específicos destes autos, bem como tendo em vista os princípios da proporcionalidade e da razoabilidade, fixo o valor dos danos morais fixados em R$ 5.000,00 (cinco mil reais).
+Em face dessas considerações, conheço do Recurso e, no mérito, DOU PROVIMENTO, para desconstituir a sentença de piso, e declarando a inexistência da divida e condenando ao pagamento de danos morais, nos termos da fundamentação acima.
+Por fim, inverto o ônus da sucumbência, condenando a parte apelada ao pagamento de honorários de sucumbência os quais fixo em 15% sobre o valor da condenação.
+Intimem-se. Cumpra-se.
+Às providências."
+Com tais considerações, ACOLHO OS EMBARGOS DECLATÓRIOS, nos termos da fundamentação acima.
+Às providências.
+Desembargador Sebastião de Moraes Filho.
+-Relator-
