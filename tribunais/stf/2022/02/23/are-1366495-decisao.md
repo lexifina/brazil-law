@@ -1,0 +1,55 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+
+    “PROCESSO CIVIL. ADMINISTRATIVO. EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. POSSIBILIDADE DA FIXAÇÃO DE MULTA EM SALÁRIOS MÍNIMOS. CARÁTER DE SANÇÃO PECUNIÁRIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. 1. A questão posta nos autos diz respeito à possibilidade da utilização do salário mínimo para fixação do valor de multa punitiva por conselho profissional. 2. As multas não possuem natureza monetária, mas sim de penalidade, de forma que a Lei 6.205/75 não alterou o disposto na Lei 5.724/71, a qual atualizou o valor das multas previstas na Lei 3.820/60. 3. Não há qualquer ilegalidade na fixação das multas em salários-mínimos, sendo de rigor o prosseguimento da execução fiscal para cobrança destas. 4. Embargos de declaração acolhidos”. (eDOC 10, p. 12)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 7º, inciso IV, do texto constitucional.
+
+    Nas razões recursais, a parte autora alega, em síntese, que a utilização do salário-mínimo como fator de correção de multas administrativas aplicadas pelo recorrido ofende a interpretação do texto constitucional dada pelo Supremo Tribunal Federal na ADI 1425.
+
+     Requer o provimento do recurso para reformar o acórdão impugnado e anular o auto de imposição de penalidade (Notificação de Reconhecimento de Multa (NRM) nº 401275), fixada com base no salário mínimo.
+
+    É o relatório. Decido.
+
+    O recurso merece prosperar.
+
+    Colhe-se dos autos o seguinte resumo fático:
+
+    “16. O Recorrente impetrou mandado de segurança contra ato do Presidente do Conselho Regional de Farmácia do Estado de São Paulo objetivando a concessão da segurança a fim de que seja anulado o auto de imposição de penalidade denominada Notificação de Recolhimento de Multa (NRM) nº 401275, uma vez que a multa aplicada é inconstitucional, haja vista que foi utilizado o salário-mínimo como base de cálculo, afrontado, assim, o artigo 7º, IV, da Constituição Federal. 16. A Recorrida sustentou que a multa aplicada com base no salário-mínimo é constitucional, por entender que as correções das multas administrativas não estão abrangidas no texto constitucional, mas apenas os fatos de indexação das obrigações civis e trabalhistas
+
+    17. O Juízo a quo ao analisar a matéria, denegou a segurança, mesmos diante do apontamento da inconstitucionalidade da fixação do valor de multa administrativa vinculada aos salários-mínimos regional ou nacional.
+
+    18. O Recorrente apresentou recurso de apelação, sendo julgado parcialmente procedente, entendendo a inconstitucionalidade da fixação da multa administrativa vinculada a número de salário-mínimo. Pede-se vênia para transcrever a ementa:
+
+    ‘DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONSELHO REGIONAL DE FISCALIZAÇÃO. EXIGÊNCIA DE FARMÁCIA. PROFISSIONAL LEGALMENTE HABILITADO NO ESTABELECIMENTO DURANTE TODO O PERÍODO DE FUNCIONAMENTO. MULTA ADMINISTRATIVA. ARTIGO 24 DA LEI 3.820/1960. LEI 5.724/1971. FIXAÇÃO EM SALÁRIOS MÍNIMOS. IMPOSSIBILIDADE. DECLARAÇÃO DE INCONSTITUCIONALIDADE E EFEITO REPRISTINATÓRIO. 1. É inconstitucional, segundo jurisprudência da Suprema Corte, a fixação do valor de multa administrativa vinculada a número de salários-mínimos e, portanto, não pode prevalecer o disposto no parágrafo único do artigo 24 da Lei 3.820/1960 com a redação dada pela Lei 5.724/1971.
+
+    2. Sendo inconstitucional o artigo 1º da Lei 5.724/1971, que alterou a redação do parágrafo único do artigo 24 da Lei 3.820/1960 para vincular a multa a salários-mínimos, restabelece-se a redação originária deste último preceito legal, prevalecendo o valor da multa na expressão monetária nele prevista, dado o efeito repristinatório da declaração de inconstitucionalidade, atualizando-se e convertendo-se a expressão monetária originária de acordo com os critérios da legislação, não se tratando, assim, de reputar nula e inexistente a infração, bastando a adequação do valor da multa a tais parâmetros normativos.
+
+    3. Apelação parcialmente provida’.
+
+    Por conseguinte, o Recorrido apresentou recurso de Embargos de Declaração, ocasião que mesmo não havendo omissão, contradição ou obscuridade, a 3ª Turma do TRF da 3ª Região, por maioria, acolheu os embargos, modificando totalmente o acórdão e negando a segurança, conforme ementa abaixo:
+
+    ‘PROCESSO CIVIL. ADMINISTRATIVO. EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. POSSIBILIDADE DA FIXAÇÃO DE MULTA EM SALÁRIOS MÍNIMOS. CARÁTER DE SANÇÃO PECUNIÁRIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. 1. A questão posta nos autos diz respeito à possibilidade da utilização do salário mínimo para fixação do valor de multa punitiva por conselho profissional. 2. As multas não possuem natureza monetária, mas sim de penalidade, de forma que a Lei 6.205/75 não alterou o disposto na Lei 5.724/71, a qual atualizou o valor das multas previstas na Lei 3.820/60. 3. Não há qualquer ilegalidade na fixação das multas em salários-mínimos, sendo de rigor o prosseguimento da execução fiscal para cobrança destas. 4. Embargos de declaração acolhidos.’ “ (eDOC 13, p. 5-7)
+
+    No voto divergente, proferido pelo Desembargador Antônio Cedanho nos embargos de declaração, ficou consignado o entendimento de que inexiste ilegalidade na fixação das multas administrativas em salário-mínimo:
+
+    “Adoto o relatório do E. Relator. Peço vênia, contudo, para divergir e ACOLHER os embargos de declaração pelo que passo a expor. A questão devolvida a esta E. Corte diz respeito à possibilidade de fixação do valor de multa punitiva em salários-mínimos. Como bem aponta o apelante, ora embargante, as multas não possuem natureza monetária, mas sim de penalidade, de forma que a Lei nº 6.205/75 não alterou o disposto na Lei nº 5.724/71, que atualizou o valor das multas previstas na Lei nº 3.820/60. Assim, não há qualquer ilegalidade na fixação das multas em salários-mínimos. É nesse sentido a jurisprudência do C. STJ e desta C. Turma: (...) (eDOC 10, p. 5)
+
+    Contudo, verifica-se que o acórdão recorrido diverge da jurisprudência desta Corte no sentido da impossibilidade de fixação de multa administrativa com base em múltiplos do salário mínimo. Confira-se:
+
+    “Fixação de horário de funcionamento para farmácias no Município. Multa administrativa vinculada a salário mínimo. - Em casos análogos ao presente, ambas as Turmas desta Corte (assim a título exemplificativo, nos RREE 199.520, 175.901 e 174.645) firmaram entendimento no sentido que assim vem sintetizado pela ementa do RE 199.520: "Fixação de horário de funcionamento para farmácia no Município. Lei 8.794/78 do Município de São Paulo. - Matéria de competência do Município. Improcedência das alegações de violação aos princípios constitucionais da isonomia, da livre concorrência, da defesa do consumidor, da liberdade de trabalho e da busca ao pleno emprego. Precedente desta Corte. Recurso extraordinário conhecido, mas não provido". - Dessa orientação não divergiu o acórdão recorrido. - O Plenário desta Corte, ao julgar a ADIN 1425, firmou o entendimento de que, ao estabelecer o artigo 7º, IV, da Constituição que é vedada a vinculação ao salário-mínimo para qualquer fim, ‘quis evitar que interesses estranhos aos versados na norma constitucional venham a ter influência na fixação do valor mínimo a ser observado’. Ora, no caso, a vinculação se dá para que o salário-mínimo atue como fator de atualização da multa administrativa, que variará com o aumento dele, o que se enquadra na proibição do citado dispositivo constitucional. - É, portanto, inconstitucional o § 1º do artigo 4º da Lei 5.803, de 04.09.90, do Município de Ribeirão Preto. Recurso extraordinário conhecido em parte e nela provido, declarando-se a inconstitucionalidade do § 1º do artigo 4º da Lei 5.803, de 04.09.90, do Município de Ribeirão Preto”. (RE 237.965/SP, Rel. Min. Moreira Alves, Tribunal Pleno, DJe 31.3.2000, grifo nosso)
+
+    “AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. MULTA ADMINISTRATIVA. LEI 5.724/1971, ART. 1º. IMPOSSIBILIDADE DE VINCULAÇÃO A MÚLTIPLOS DO SALÁRIO-MÍNIMO. ADI 4.398. INAPLICABILIDADE. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS PRECEDENTES COLOCADOS EM CONFRONTO. 1. A Primeira Turma negou provimento ao Agravo Interno no Recurso Extraordinário com Agravo, ao fundamento de que o acórdão do Tribunal Regional Federal da 3ª Região decidiu em conformidade com a jurisprudência desta CORTE, no sentido da inconstitucionalidade da fixação de multa administrativa com base em múltiplos do salário-mínimo, estabelecida no art. 1º da Lei 5.724/1971. 2. A situação fática analisada na Ação Direta de Inconstitucionalidade 4.398 é diversa da hipótese ora em debate, pois, conforme assentado no voto condutor daquela ação, “questiona-se a validade constitucional do art. 265 do Código de Processo Penal, na norma alterada pela Lei n. 11.719/2008, na qual se prevê a aplicação de multa ao advogado que abandonar o processo, salvo por motivo imperioso”. 3. Ausente a simetria entre o acórdão embargado e o precedente apresentado pelo embargante, não podem ser admitidos os Embargos de Divergência. 4. Agravo Interno a que se nega provimento.” (ARE 1255399 AgR-ED-EDv-AgR, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 6.7.2021, grifo nosso)
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. MULTA ADMINISTRATIVA. IMPOSSIBILIDADE DE VINCULAÇÃO DO SALÁRIO MÍNIMO. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. OFENSA CONSTITUCIONAL REFLEXA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF. 1. O acórdão recorrido encontra-se alinhado à jurisprudência do SUPREMO TRIBUNAL FEDERAL quanto à impossibilidade de fixação de multa administrativa em múltiplos do salário mínimo. 2. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) desta CORTE. 3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).” (ARE 1255399 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 17.08.2020, grifo nosso)
+
+    Ante o exposto, dou provimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF) para determinar o rejulgamento do feito na origem, observando-se a jurisprudência do Supremo Tribunal Federal.
+
+    Publique-se.
+
+    Brasília, 23 de fevereiro de 2022.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
