@@ -1,0 +1,137 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0701382-90.2020.8.07.0009APELANTE(S)JOSE BORGES DOS SANTOSAPELADO(S)GLAUTON BRANDAO DIASRelatoraDesembargadora CARMEN BITTENCOURT Acórdão Nº1404097
+
+EMENTA
+
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. COMPRA E VENDA DE MOTOCICLETA. TRANSFERÊNCIA DE TITULARIDADE NO ÓRGÃO DE TRÂNSITO. DESÍDIA DO ADQUIRENTE. ARTIGO 123, §1º DO CÓDIGO DE TRÂNSITO BRASILEIRO. TERCEIRO ADQUIRENTE. IRRELEVÂNCIA. RESPONSABILIDADE DO ADQUIRENTE PELOS DÉBITOS POSTERIORES À TRADIÇÃO. ASTREINTES. CABIMENTO. EXCESSIVIDADE NÃO CONFIGURADA.
+
+1. Nos termos do que prevê o Código de Trânsito Brasileiro, em seu artigo 123, §1º, cabe ao adquirente de veículo efetivar as providências necessárias à sua transferência, com a consequente expedição de novo Certificado de Registro de Veículo.
+
+2. Comprovado que o apelante adquiriu veículo do apelado, não há que se falar em impossibilidade de cumprimento da obrigação de fazer consistente na transferência e na quitação dos débitos pendentes, visto que a obrigação de transferir o veículo decorre da sua aquisição, que se aperfeiçoa com a tradição do bem, ato suficiente para a transferência da propriedade. 2.1. As alegações do apelante de que o bem fora alienado para terceiro e de que, em razão disso, não tem conhecimento do paradeiro da motocicleta, além de não comprovadas nos autos, não o eximem do cumprimento de sua obrigação. 2.2. O Código de Trânsito Brasileiro estabelece expressamente ser obrigação do comprador transferir o bem para o próprio nome, não podendo tal obrigação ser imputada a terceiro estranho ao negócio jurídico, sendo responsável, ainda, pelo pagamento dos encargos inerentes ao bem após a tradição deste. Precedentes.
+
+3. É lícita a fixação de astreintes nos casos de obrigações de fazer ou não fazer, nos termos dos artigos 536 e 537 do Código de Processo Civil. 3.1. A multa cominatória deve ser suficiente e compatível com a obrigação, não podendo, por outro lado, ser irrisória, sob pena de haver o desvirtuamento de sua finalidade coercitiva e inibitória. Precedentes. 3.2. Sendo lícita a fixação de astreintes e não se vislumbrando a excessividade destas, não há que se falar em sua alteração ou exclusão.
+
+4. Recurso de Apelação conhecido e não provido. Honorários majorados. Suspensa a exigibilidade das verbas de sucumbência, ante a gratuidade de justiça deferida.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, CARMEN BITTENCOURT - Relatora, TEÓFILO CAETANO - 1º Vogal e SIMONE LUCINDO - 2º Vogal, sob a Presidência da Senhora Desembargadora SIMONE LUCINDO, em proferir a seguinte decisão: CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 09 de Março de 2022
+
+Desembargadora CARMEN BITTENCOURTRelatora
+
+RELATÓRIO
+
+Trata-se de Apelação Cível interposta por JOSÉ BORGES DOS SANTOS contra a r. sentença exarada sob o ID n. 31367430.
+
+Na origem, GLAUTON BRANDÃO DIAS ajuizou Ação de Obrigação de Fazer em desfavor do requerido/apelante, alegando que comprou do Sr. Aurélio Boa Ventura Machado a motocicleta Honda/CBX 250 Twister, ano 2006/2007, placa JJQ 4278, Renavam n. 894883690, por meio de procuração pública.
+
+Narra que, em 10/6/2008, realizou a permuta e a tradição da citada motocicleta com o requerido/apelante, conforme consta de procuração pública e substabelecimento, ambos de lavra do Cartório do 1º Ofício de Notas de Brasília.
+
+Asseverou que o requerido/apelante não cumpriu com a obrigação de transferência do veículo, dando azo à realização de acordo entre as partes, no âmbito da Defensoria Pública do Distrito Federal, no qual restou consignado que o requerido/apelante realizaria diligências, a fim de verificar a atual localização da motocicleta, assim como promoveria a transferência do bem para quem de direito, o que não ocorreu.
+
+Ao final, o autor postulou: (i) a condenação do requerido para proceder à transferência da propriedade da motocicleta Honda/CBX 250 Twister, ano 2006/2007, placa JJQ 4278, Renavam n. 894883690 para o próprio nome; assim como arcar com os débitos, vencidos e vincendos, que incidirem sobre o veículo; e (ii) em caso de não transferência e, independente da incidência de astreintes, a expedição de ofício ao DETRAN/DF, para que transfira a propriedade da moto, as pontuações de infrações praticadas e eventuais débitos e encargos, vencidos e vincendos, para o nome do requerido/apelante.
+
+Sobreveio a r. sentença recorrida (ID n. 31367430), pela qual a d. Magistrada de primeiro grau julgou procedentes os pedidos iniciais para: (i) determinar ao requerido, ora apelante, que efetive a transferência do veículo Honda/CBX 250 Twister, cor verde, categoria particular, combustível gasolina, placa JJQ-4278, chassi n. 9c2mc35007r002445, ano 2006, modelo 2007, Renavam n. 894883690, para o próprio nome ou de terceiros, no prazo de cinco dias úteis, sob pena de multa fixada no valor de R$ 200,00 (duzentos reais) por dia de atraso, até o montante de R$ 5.000,00 (cinco mil reais); e, (ii) não cumprida a obrigação no prazo fixado, e após transitada em julgado a sentença, determinar a expedição de oficio ao DETRAN/DF e à Secretaria da Fazenda/Economia do DF, a fim de promoverem a transferência do citado veículo para o nome do requerido/apelante, bem como das pontuações relativas às multas ocorridas desde 10/6/2008, impostos e taxas referentes ao aludido veículo, sem prejuízo de eventual responsabilidade solidária decorrente de lei e salvo direito de cobrança dos entes referidos, que não participaram desse feito.
+
+Ante a sucumbência, o requerido/apelante foi condenado ao pagamento das custas processuais e honorários advocatícios, fixados em 10% (dez por cento) sobre o valor da causa, suspensa a exigibilidade, em face da gratuidade de justiça deferida.
+
+Irresignado, o requerido interpôs recurso de apelação (ID n. 31367436), sustentando que a sentença determinou o cumprimento de obrigação impossível, tendo em vista que, desde o ano de 2014, não detém mais a posse do veículo, não tendo conhecimento acerca da localização deste, o que impossibilita a realização da vistoria necessária e a consequente transferência do bem.
+
+No que diz respeito aos encargos inerentes à motocicleta, aduz que quitou a sua parte e que os débitos em aberto de licenciamento e seguro obrigatório datam de 2020 e 2021, anos em que não mais estava na posse do bem.
+
+Em relação ao IPVA, argui que restou consignado em acordo entre as partes que tal obrigação ficaria a cargo do antigo proprietário, Sr. Aurélio Boaventura Machado, uma vez que ainda consta o nome deste nos registros da moto.
+
+Por fim, no que tange à transferência das pontuações relativas a infrações de trânsito, o apelante afirma não ter praticado qualquer infração de trânsito e que, caso haja alguma infração nos registros do veículo, esta não fora cometida por ele, haja vista não ser possuidor do bem desde o ano de 2014, bem como por ser cadeirante, o que lhe impossibilita pilotar motocicletas.
+
+Ao final, o apelante postula a reforma da r. sentença para que sejam julgados improcedentes os pedidos iniciais e seja afastada a sua responsabilidade pela transferência do veículo, bem como pelo pagamento dos encargos a ele inerentes. Subsidiariamente, não se entendendo pela ausência de responsabilidade do apelante, requer a exclusão da cominação de astreintes pelo descumprimento da decisão, por se tratar de obrigação impossível.
+
+Deixou de recolher o preparo, ante a gratuidade de justiça deferida (ID n. 31365490).
+
+Em contrarrazões (ID n. 31367440), o autor/apelado refuta os argumentos alinhavados no recurso, afirmando que o apelante não comprovou a venda da moto Honda/CBX 250 Twister para terceiros, de modo que é responsável pela transferência da motocicleta para o próprio nome ou para o nome de quem de direito; assim como é responsável pelo pagamento dos débitos vinculados ao bem, razão pela qual, pugna pela manutenção da sentença vergastada.
+
+É o relatório.
+
+Desembargadora Carmen Bittencourt
+
+Relatora
+
+VOTOS
+
+A Senhora Desembargadora CARMEN BITTENCOURT - Relatora
+
+Atendidos os pressupostos de admissibilidade, conheço do recuso.
+
+Consoante relatado, JOSÉ BORGES SANTOS interpôs Apelação Cível contra a r. sentença exarada sob o ID n. 31367430, pela qual a d. Magistrada de primeiro grau julgou procedentes os pedidos iniciais da Ação de Obrigação de Fazer, ajuizada por GLAUTON BRANDÃO DIAS, em desfavor do apelante, para: (i) determinar ao réu que efetive a transferência do veículo Honda/CBX 250 Twister, cor verde, categoria particular, combustível gasolina, placa JJQ-4278, chassi n. 9c2mc35007r002445, ano 2006, modelo 2007, Renavam n. 894883690, para o próprio nome ou de terceiros, no prazo de cinco dias úteis, sob pena de multa fixada no valor de R$ 200,00 (duzentos reais) por dia de atraso, até o montante de R$ 5.000,00 (cinco mil reais); e (ii) não cumprida a obrigação no prazo fixado, e após transitada em julgado a sentença, determinar a expedição de ofício ao DETRAN/DF e à Secretaria da Fazenda/Economia do DF, a fim de promoverem a transferência do citado veículo para o nome do réu, bem como das pontuações relativas às multas ocorridas desde 10/6/2008 e de impostos e taxas referentes à aludida motocicleta, sem prejuízo de eventual responsabilidade solidária decorrente de lei e salvo direito de cobrança dos entes referidos, que não participaram desse feito.
+
+Em face da sucumbência, o requerido foi condenado ao pagamento das custas processuais e honorários advocatícios, fixados em 10% (dez por cento) sobre o valor da causa, suspensa a exigibilidade, ante a gratuidade de justiça deferida.
+
+Em suas razões, o apelante sustenta que a obrigação determinada em sentença é impossível, uma vez que não detém a posse da motocicleta desde o ano de 2014, não sabendo o paradeiro do bem, o que impede a realização da vistoria necessária para que seja efetivada a transferência. Por conseguinte, aduz não ser devida a fixação de multa cominatória pelo descumprimento da obrigação de fazer.
+
+Afirma não ser responsável pelos débitos em aberto referentes ao veículo, tendo em vista que, quanto ao licenciamento e seguro obrigatório, os débitos datam de 2020 e 2021, anos em que o apelante não era mais possuidor da motocicleta.
+
+No que diz respeito ao IPVA, argumenta que restou consignado no acordo entre as partes que tal obrigação ficaria a cargo do antigo proprietário, Sr. Aurélio Boaventura Machado, uma vez que ainda consta o nome deste nos registros do veículo.
+
+Em conclusão, no que tange à transferência das pontuações relativas a infrações de trânsito, o apelante salienta que não praticou qualquer infração de trânsito no período em que esteve na posse do bem e que, caso haja alguma infração nos registros do veículo, esta não fora por ele cometida, por não ser possuidor do bem desde o ano de 2014 e por ser cadeirante, o que lhe impossibilita pilotar motocicletas.
+
+Nos termos do que prevê o Código de Trânsito Brasileiro, em seu artigo 123, §1º, cabe ao adquirente de veículo efetivar as providências necessárias à sua transferência, com a consequente expedição de novo Certificado de Registro de Veículo.
+
+Na hipótese dos autos, restou incontroverso que o apelante adquiriu o veículo moto Honda/CBX 250 Twister, cor verde, categoria particular, combustível gasolina, placa JJQ-4278, chassi n. 9c2mc35007r002445, ano 2006, modelo 2007, Renavam n. 894883690 do apelado, por meio de permuta, consoante se vê do substabelecimento e da procuração ID n. 31365488 (pág. 2) e 31365489, respectivamente.
+
+Uma vez comprovado que o apelante adquiriu veículo do apelado, não há que se falar em impossibilidade de cumprimento da obrigação de fazer consistente na transferência e na quitação dos débitos pendentes, visto que a obrigação de transferir o veículo decorre da sua aquisição, que se aperfeiçoa com a tradição do bem, ato suficiente para a transferência da propriedade.
+
+A alegação do apelante, de que alienou o bem para terceiro, não tendo conhecimento do paradeiro da motocicleta, fato, inclusive, não comprovado nos autos, não o exime do cumprimento de sua obrigação.
+
+Conforme anteriormente explanado, o Código de Trânsito Brasileiro estabelece expressamente ser obrigação do comprador transferir o bem para o próprio nome, não podendo tal obrigação ser imputada a terceiro estranho ao negócio jurídico, sendo responsável, ainda, pelo pagamento dos encargos inerentes ao bem, após a tradição deste.
+
+Nesse sentido, trago à colação arestos deste Egrégio Tribunal de Justiça:
+
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS MORAIS. COMPRA E VENDA DE VEÍCULO AUTOMOTOR. TRANSFERÊNCIA DE TITULARIDADE NO ÓRGÃO DE TRÂNSITO. DESÍDIA DO ADQUIRENTE. ARTIGO 134 DO CÓDIGO DE TRÂNSITO BRASILEIRO. RESPONSABILIDADE DO ADQUIRENTE PELOS DÉBITOS POSTERIORES À TRADIÇÃO. INSCRIÇÃO EM DÍVIDA ATIVA. DANO MORAL. INOCORRÊNCIA. SÚMULA 385 DO STJ. APLICABILIDADE. DEVER DE MITIGAR O PRÓPRIO PREJUÍZO (DUTY TO MITIGATE THE LOSS). INÉRCIA DO CREDOR. SENTENÇA PARCIALMENTE REFORMADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1. No negócio jurídico de compra e venda de veículo automotor, o comprador tem a obrigação de tomar as providências necessárias para expedir novo Certificado de Registro de Veículo e regularizar a transferência de propriedade nos órgãos de fiscalização; e o vendedor, por sua vez, de comunicar ao DETRAN a alteração de propriedade. É o que dispõe os art. 123 e 134 do CTB. 2. Ainda que não tenha sido realizada a comunicação da venda ao DETRAN, é dever do adquirente pagar os débitos administrativos e tributários, além das multas contraídas após a tradição do veículo e concretização da propriedade. 3. Não cabe indenização por dano moral da anotação irregular em cadastro restritivo de crédito quando preexistente legítima inscrição, ressalvado o direito ao cancelamento. Inteligência da Súmula 385 do e. Superior Tribunal de Justiça. 4. O dever de mitigar o próprio prejuízo (duty to mitigate the loss) consubstancia-se no dever do credor que, tão logo tenha ciência da mora por parte do devedor, ingresse com a medida cabível, a fim de satisfazer seu crédito, de modo a não aumentar o débito do devedor e nem o seu próprio prejuízo. 5. O vendedor/apelado violou o dever de boa-fé objetiva ao deixar de comunicar a alienação do veículo ao DETRAN e ao se quedar inerte após o recebimento e conhecimento da existência de débitos que poderiam gerar a inscrição indevida de seu nome nos cadastros de restrição de crédito. A inércia do credor, ciente do inadimplemento do devedor, denota que a inclusão ou manutenção de seu nome nos cadastros negativos não lhe causou dano a direito da personalidade.  6. Recurso de apelação conhecido e parcialmente provido. Sucumbência recíproca. Exigibilidade suspensa em face da gratuidade de justiça concedida às partes. (Acórdão 1386919, 07061809420208070009, Relator: DIVA LUCY DE FARIA PEREIRA, 1ª Turma Cível, data de julgamento: 17/11/2021, publicado no DJE: 30/11/2021. Pág.: Sem Página Cadastrada.) – grifo nosso.
+
+CIVIL E PROCESSO CIVIL. COMPRA E VENDA DE AUTOMÓVEL. INOCORRÊNCIA DA TRANSFERÊNCIA DO VEÍCULO JUNTO AO DETRAN. PAGAMENTO DE MULTA E INFRAÇÕES DE TRÂNSITO. RESPONSABILIDADE DA ADQUIRENTE.   1. É nula a sentença no ponto em que impõe obrigações ao Distrito Federal e ao Detran/DF sem que esses entes de direito público tenham integrado o processo, o que viola o contraditório, a ampla defesa e o preceito do art. 506, do CPC, devendo ser decotada essa parte do dispositivo.    2. Constitui obrigação do adquirente a transferência da titularidade do veículo para o seu nome, consoante determinação do art. 123, inciso I e § 1º, do Código de Trânsito Brasileiro. 3. No direito pátrio, a propriedade de coisa móvel é adquirida com a tradição. Assim, ao receber a posse do veículo, a parte adquire a propriedade do bem, devendo, portanto, arcar com os consectários a ela inerentes, motivo pelo qual deve ser responsabilizada pelos débitos relativos ao veículo advindos a partir da conclusão do negócio jurídico. 4. Não demonstrado pela ré/litisdenunciante a concretização do negócio jurídico de compra e venda e efetiva tradição do veículo para os litisdenunciados, afigura-se inviável o acolhimento do pedido regressivo formulado em face destes. 5. Apelo parcialmente provido. (Acórdão 1248345, 07049658820178070009, Relator: ARNOLDO CAMANHO, 4ª Turma Cível, data de julgamento: 6/5/2020, publicado no DJE: 22/5/2020. Pág.: Sem Página Cadastrada.) – grifo nosso.
+
+Poder Judiciário da União TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS Gabinete da Desembargadora Maria de Lourdes Abreu Número do processo: 0712927-58.2018.8.07.0000 Classe judicial: AGRAVO DE INSTRUMENTO (202) AGRAVANTE: BANCO ITAULEASING S.A. AGRAVADO: PRIMAVIA VEICULOS LTDA E M E N T A   PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. PREJUDICADO. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO DE FAZER. COMPRA E VENDA DE VEÍCULO. TRADIÇÃO. INÉRCIA. ADQUIRENTE. TRANSFERÊNCIA DO VEÍCULO JUNTO AO DETRAN. MULTAS E IMPOSTOS. PENDENTES. RESPONSABILIDADE DO ADQUIRENTE. MULTA COMINATÓRIA. FIXAÇÃO. PROPORCIONAL. 1. Julgado o mérito do agravo de instrumento, resta prejudicado o agravo interno interposto contra decisão que examinou o pedido liminar. 2. A propriedade de coisa móvel é adquirida com a tradição, de modo que, ao receber o veículo, a parte adquire a propriedade do bem, devendo, portanto, arcar com os consectários a ela inerentes, como regularizar sua transferência junto ao DETRAN e arcar com multas e demais débitos relativos ao veículo a partir de então. 3. Não há que se falar em impossibilidade de cumprimento da obrigação de fazer, consistente na transferência e na quitação dos débitos pendentes após a revenda, bem como em excesso da multa cominatória fixada por descumprimento, visto que a obrigação de transferir o veículo decorre do contrato de compra e venda devidamente comprovado nos autos principais por nota fiscal. 4. Por consectário do contrato de compra e venda, deverá o comprador/agravante suportar os efeitos de sua omissão de não transferência do veículo junto ao DETRAN/DF, com sua consequente assunção das dívidas decorrentes, sendo certo que o fato de o comprador/agravante ter repassado o veículo a terceiro não o exime do cumprimento de sua obrigação. 5. Agravo interno prejudicado. 6. Agravo de instrumento conhecido desprovido. (Acórdão 1138002, 07129275820188070000, Relator: MARIA DE LOURDES ABREU, 3ª Turma Cível, data de julgamento: 14/11/2018, publicado no DJE: 23/11/2018. Pág.: Sem Página Cadastrada.) – grifo nosso.
+
+DIREITO CIVIL. APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MORAIS. COMPRA E VENDA DE VEÍCULO. TRADIÇÃO. INOCORRÊNCIA DA TRANSFERÊNCIA DO VEÍCULO JUNTO AO DETRAN. PAGAMENTO DE DÉBITOS RELATIVOS AO VEÍCULO APÓS A TRADIÇÃO. RESPONSABILIDADE DO ADQUIRENTE. DANOS MORAIS. INSCRIÇÃO INDEVIDA EM DÍVIDA ATIVA. INDENIZAÇÃO IN RE IPSA. CONFIGURAÇÃO. QUANTUM. PROPORCIONALIDADE E RAZOABILIDADE. 1. É obrigação do adquirente transferir a titularidade do veículo para o seu nome, consoante determinação do artigo 123, inciso I e § 1º, do Código de Trânsito Brasileiro. 2. Operando-se a tradição, não pode mais o vendedor arcar com o pagamento de tributos e demais débitos que se venceram após a alienação do bem, quando comprovado que tais débitos tiveram sua origem após a alienação do bem. Precedentes. 3. Nos casos de restrição indevida junto aos órgãos de proteção ao crédito ou inserção indevida em dívida ativa, a necessidade de comprovar o dano causado e o nexo de causalidade é medida despicienda, tendo em vista que caracterizam, por si só, o dano moral, sendo este in re ipsa. 4. O quantum a ser fixado a título de danos morais deve ser arbitrado observando-se a capacidade econômica das partes, bem como a natureza, a extensão e as consequências das lesões sofridas pelo autor, sem perder de vista o caráter preventivo e punitivo da sanção, obedecidos os critérios de proporcionalidade e razoabilidade. 5. Deu-se provimento ao recurso. (Acórdão 1133933, 07214335420178070001, Relator: LEILA ARLANCH, 7ª Turma Cível, data de julgamento: 24/10/2018, publicado no PJe: 5/11/2018. Pág.: Sem Página Cadastrada.) – grifo nosso.
+
+Por fim, no que tange à fixação de astreintes pelo descumprimento da obrigação, cabe salientar que é lícita a fixação de multa diária nos casos de obrigações de fazer ou não fazer, nos termos dos artigos 536 e 537 do Código de Processo Civil, que estabelecem:
+
+Art. 536. No cumprimento de sentença que reconheça a exigibilidade de obrigação de fazer ou de não fazer, o juiz poderá, de ofício ou a requerimento, para a efetivação da tutela específica ou a obtenção de tutela pelo resultado prático equivalente, determinar as medidas necessárias à satisfação do exequente.
+
+§ 1º Para atender ao disposto no caput, o juiz poderá determinar, entre outras medidas, a imposição de multa, a busca e apreensão, a remoção de pessoas e coisas, o desfazimento de obras e o impedimento de atividade nociva, podendo, caso necessário, requisitar o auxílio de força policial.
+
+(...)
+
+Art. 537. A multa independe de requerimento da parte e poderá ser aplicada na fase de conhecimento, em tutela provisória ou na sentença, ou na fase de execução, desde que seja suficiente e compatível com a obrigação e que se determine prazo razoável para cumprimento do preceito.
+
+§ 1º O juiz poderá, de ofício ou a requerimento, modificar o valor ou a periodicidade da multa vincenda ou excluí-la, caso verifique que:
+
+I - se tornou insuficiente ou excessiva;
+
+II - o obrigado demonstrou cumprimento parcial superveniente da obrigação ou justa causa para o descumprimento.
+
+Entretanto, a multa cominatória deve ser suficiente e compatível com a obrigação, não podendo, por outro lado, ser irrisória, sob pena de haver o desvirtuamento de sua finalidade coercitiva e inibitória, sendo esse o entendimento desta Egrégia Corte de Justiça, conforme se vê dos arestos, a seguir transcritos:
+
+APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER. TRANSFERÊNCIA DE PROPRIEDADE. VEÍCULO AUTOMOTOR. ASTREINTES. EXCESSIVIDADE NÃO CONFIGURADA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO ADEQUADA. 1. A imposição de multa ou astreintes tem por objetivo coagir o devedor a satisfazer, com maior retidão e celeridade, a prestação de uma obrigação de fazer ou não fazer fixada em decisão judicial, visando dar efetividade ao decisum. 2. As astreintes devem ser fixadas em valor razoável e compatível com a obrigação, porém não irrisório, sob pena de não cumprir com sua finalidade coercitiva e inibitória. 3. Verificando que os honorários advocatícios foram arbitrados em patamar proporcional e razoável, não há que se falar em redução. 4. Recurso conhecido e improvido. (Acórdão 1309468, 07207468820198070007, Relator: ANA CANTARINO, 5ª Turma Cível, data de julgamento: 9/12/2020, publicado no DJE: 21/1/2021. Pág.: Sem Página Cadastrada.) – grifo nosso.
+
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VEÍCULO. BAIXA DE GRAVAME. CONTRATO. QUITAÇÃO. INSTITUIÇÃO FINANCEIRA ARRENDANTE. MULTA DIÁRIA. INCLUSÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANO MORAL. EXISTÊNCIA. 1. Cabe ao arrendante proceder à baixa do gravame junto ao órgão de trânsito, uma vez que a restrição impede a transferência do veículo. Ademais, se a restrição no sistema do DETRAN apenas pode ser inserida pela instituição financeira credora, somente a ela, portanto, cabe realizar a referida exclusão. 2. As astreintes são multas cominatórias que têm natureza de meio de coerção processual, tendo por objetivo obrigar o réu a cumprir obrigação específica. Assim, mostra-se legítima a advertência inserida na sentença de que a ausência de cumprimento da obrigação no prazo estabelecido ensejará multa diária com a finalidade de dar efetividade ao provimento jurisdicional a fim de não torná-lo inócuo. 3. A inscrição do nome do consumidor em cadastros de proteção ao crédito, em virtude de cobrança indevida, evidencia falha na prestação do serviço de onde resulta o dever de indenizar com base na responsabilidade objetiva, ex vi do art. 14 do CDC. 4. Apelação Cível conhecida e não provida. (Acórdão 1385405, 07086672120218070003, Relator: GETÚLIO DE MORAES OLIVEIRA, 7ª Turma Cível, data de julgamento: 10/11/2021, publicado no PJe: 26/11/2021. Pág.: Sem Página Cadastrada.) – grifo nosso.
+
+CIVIL E PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. VEÍCULO AUTOMOTOR. AUSÊNCIA DE COMUNICAÇÃO DE TRANSFERÊNCIA DE PROPRIEDADE AO DETRAN/DF. TERCEIRO ADQUIRENTE. IRRELEVÂNCIA. INADIMPLEMENTO DOS ENCARGOS INCIDENTES SOBRE O BEM. RESPONSABILIDADE DO ADQUIRENTE ORIGINÁRIO. INDENIZAÇÃO DEVIDA. CONFIGURAÇÃO DE DANOS MORAIS. INSCRIÇÃO NA DÍVIDA ATIVA. QUANTUM RAZOÁVEL. MANUTENÇÃO. LIMITAÇÃO DA MULTA DIÁRIA. FACULDADE DO MAGISTRADO. 1. A transferência da titularidade do bem perante o órgão de trânsito é obrigação do adquirente, nos termos do art. 123, do CTB 2. A instituição financeira, titular da propriedade resolúvel do veículo, é responsável pela comunicação da transferência do bem perante o órgão de trânsito, sob pena de, não o fazendo, sujeitar-se ao pagamento dos encargos decorrentes de impostos e multas relativos ao veículo. Tal responsabilidade não é afastada pelo fato de ter alienado o veículo a terceira pessoa, em relação a qual lhe assiste direito de regresso por eventuais prejuízos a que tenha dado causa. 3. Se a ausência de comunicação da transferência do veículo ao DETRAN/DF acarretou a inscrição do nome do antigo proprietário na dívida ativa, tal fato é, por si só, suficiente para a condenação da instituição financeira por danos morais. 4. As astreintes constituem medida de reforço para compelir a parte ao cumprimento da ordem judicial e, por isso, o seu valor não pode ser irrisório a ponto de ser mais vantajosa a desobediência, sob pena de restar inexequível em um dado momento. Além disso, apesar da possibilidade de o julgador impor um limite máximo para as multas diárias, não há imposição legal nesse sentido, sendo sempre possível ao juiz rever o valor fixado, nos termos do art. 537, § 1º, do CPC. 5. Apelo não provido. (Acórdão 1326292, 07097874220208070001, Relator: ARNOLDO CAMANHO, 4ª Turma Cível, data de julgamento: 11/3/2021, publicado no DJE: 24/3/2021. Pág.: Sem Página Cadastrada.) – grifo nosso.
+
+Dessa forma, sendo lícita a fixação de astreintes e não se vislumbrando a excessividade destas, não há que se falar em alteração ou exclusão da multa cominatória fixada, posto que suficiente e compatível com a obrigação; cumprindo, portanto, com a sua finalidade coercitiva e inibitória.
+
+Pelas razões expostas, CONHEÇO DO RECURSO DE APELAÇÃO E NEGO-LHE PROVIMENTO, mantendo a r. sentença recorrida por seus próprios fundamentos.
+
+Em atenção à regra inserta no §11 do artigo 85 do Código de Processo Civil, majoro os honorários para 15% (quinze por cento) do valor da causa, suspensa a exigibilidade, ante a gratuidade de justiça deferida no Juízo de origem.
+
+É como voto.
+
+O Senhor Desembargador TEÓFILO CAETANO - 1º Vogal Com o relatorA Senhora Desembargadora SIMONE LUCINDO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME
