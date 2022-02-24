@@ -1,0 +1,59 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+
+    “APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - IMPROBIDADE ADMINISTRATIVA - NOMEAÇÃO DE PARENTES PARA CARGO EM COMISSÃO - NEPOTISMO - VIOLAÇÃO DE PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA - IMPESSOALIDADE E MORALIDADE - SANÇÕES IMPOSTAS - MINORAÇÃO - PROPORCIONALIDADE E RAZOABILIDADE - HONORÁRIOS ADVOCATÍCIOS - MINISTÉRIO PÚBLICO - VEDAÇÃO. A nomeação de parentes, consanguíneos ou afins, até o 3 1 grau, para cargos em comissão ou de confiança, caracteriza nepotismo, com violação dos princípios os princípios da impessoalidade e da moralidade, configurando ato de improbidade administrativa. A dosimetria das sanções previstas na Lei de Improbidade Administrativa deve considerar a extensão do dano causado e o proveito patrimonial obtido pelo agente, podendo o julgador, também, utilizar os elementos de valoração previstos no ad. 59 do Código Penal, atentando-se, ainda, para os princípios da proporcionalidade e da razoabilidade. A Constituição da República, em seu ad. 128, §50, II, veda o recebimento de honorários advocatícios pelo Ministério Público”. (eDOC 17, p. 2)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 15, inciso V; 37, §4º; ambos do texto constitucional.
+
+    Nas razões recursais, alega-se, em síntese, a inaplicabilidade da Lei 8.429/92 aos prefeitos em razão do regime especial de responsabilidade previsto no Decreto-Lei 201/67.
+
+    Sustenta-se, ainda, que a interpretação expansiva da súmula vinculante 13 viola o princípio da segurança jurídica e caracteriza usurpação de competência, destacando que a legislação prevê que o parentesco por afinidade se limita aos ascendentes, descendentes e aos irmãos do cônjuge ou companheiro.
+
+    É o relatório. Decido.
+
+    O recurso não merece prosperar.
+
+    De plano, no se refere à alegação da recorrente no sentido de o agente político não estar sujeito à ação de improbidade administrativa, destaco que o Plenário deste STF, na apreciação do Tema 576 da repercussão geral, quando do julgamento do RE-RG 976.566, fixou a seguinte tese: "O processo e julgamento de prefeito municipal por crime de responsabilidade (Decreto-lei 201/67) não impede sua responsabilização por atos de improbidade administrativa previstos na Lei 8.429/1992, em virtude da autonomia das instâncias". Confira-se a ementa do julgado:
+
+    “CONSTITUCIONAL. AUTONOMIA DE INSTÂNCIAS. POSSIBILIDADE DE RESPONSABILIZAÇÃO PENAL E POLÍTICA ADMINISTRATIVA (DL 201/1967) SIMULTÂNEA À POR ATO DE IMPROBIDADE ADMINISTRATIVA, DEVIDAMENTE TIPIFICADO NA LEI 8.429/92. INEXISTÊNCIA DE BIS IN IDEM. 1. "Fazem muito mal à República os políticos corruptos, pois não apenas se impregnam de vícios eles mesmos, mas os infundem na sociedade, e não apenas a prejudicam por se corromperem, mas também porque a corrompem, e são mais nocivos pelo exemplo do que pelo crime” (MARCO TÚLIO CÍCERO. Manual do candidato às eleições. As leis, III, XIV, 32). 2. A norma constitucional prevista no § 4º do art. 37 exigiu tratamentos sancionatórios diferenciados entre os atos ilícitos em geral (civis, penais e político-administrativos) e os atos de improbidade administrativa, com determinação expressa ao Congresso Nacional para edição de lei específica (Lei 8.429/1992), que não punisse a mera ilegalidade, mas sim a conduta ilegal ou imoral do agente público voltada para a corrupção, e a de todo aquele que o auxilie, no intuito de prevenir a corrosão da máquina burocrática do Estado e de evitar o perigo de uma administração corrupta caracterizada pelo descrédito e pela ineficiência. 3. A Constituição Federal inovou no campo civil para punir mais severamente o agente público corrupto, que se utiliza do cargo ou de funções públicas para enriquecer ou causar prejuízo ao erário, desrespeitando a legalidade e moralidade administrativas, independentemente das já existentes responsabilidades penal e político-administrativa de Prefeitos e Vereadores. 4. Consagração da autonomia de instâncias. Independentemente de as condutas dos Prefeitos e Vereadores serem tipificadas como infração penal (artigo 1º) ou infração político-administrativa (artigo 4º), previstas no DL 201/67, a responsabilidade civil por ato de improbidade administrativa é autônoma e deve ser apurada em instância diversa. 5. NEGADO PROVIMENTO ao Recurso Extraordinário. TESE DE REPERCUSÃO GERAL: “O processo e julgamento de prefeito municipal por crime de responsabilidade (Decreto-lei 201/67) não impede sua responsabilização por atos de improbidade administrativa previstos na Lei 8.429/1992, em virtude da autonomia das instâncias”. (RE-RG 976.566, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe 26.9.2019)
+
+    Deste modo, verifica-se que o acórdão recorrido, no ponto, não se afastou do entendimento deste Supremo Tribunal Federal acerca da matéria em questão, razão pela qual não merece reparos.
+
+    Igualmente, não merece acolhida a alegação de violação à súmula vinculante 13, cuja redação é clara ao prever que a nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e indireta em qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas, viola a Constituição Federal.
+
+    No caso dos autos, o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (a Lei n. 8.429/1992) e o conjunto probatório constante dos autos, consignou serem legítimas as sanções aplicadas na sentença pela prática de improbidade administrativa, considerando a gravidade das infrações legais e contratuais cometidas. Confira-se:
+
+    “No caso, a nomeação dos primeiros Apelantes para exercer cargos em comissão e o grau de parentesco por afinidade, em 3º grau, com o segundo Apelante são fatos incontroversos.
+
+    Com efeito, os primeiros Apelantes são sobrinhos da esposa do segundo Apelante e este, na condição de Prefeito, nomeou-os para os cargos em comissão, mais precisamente, Chefes de Departamento de Licitação e do Departamento de Programação e Execução Orçamentária.
+
+    Comprovaram-se, também, a inexperiência profissional e a desqualificação dos primeiros Apelantes para exercerem os cargos.
+
+    Com efeito, JOZIMAR COTA E SOUZA, sobrinho por afinidade do ex-Prefeito GERALDO SALES DE SOUZA, a despeito de ter se graduado em administração de empresa há pouco tempo - menos de um mês -foi nomeado para o sensível cargo de Chefe de Departamento de Licitação. Ou seja, não possuía experiência nem formação em administração pública ou direito, ff. 218/219. Também não comprovou uma trajetória acadêmica de destaque nessa área.
+
+    LUANA ALVES COTA E SOUZA, por sua vez, também sobrinha do ex-Prefeito GERALDO SALES DE SOUZA, foi nomeada para o importante cargo de Chefe de Departamento de Programação e Execução Orçamentária, mesmo sendo, à época, aluna do 2º período do curso de Engenharia de Produção. Não bastasse, não possuía graduação ou experiência nas áreas de contabilidade, economia ou administração pública. Longe disso, sua atividade se limitara a uma atuação como secretária, if. 2251226.
+
+    Nesse contexto, é forçoso reconhecer que a nomeação para o exercício dos cargos públicos baseou-se apenas na relação de parentesco, evidenciando o dolo do nomeante e dos nomeados e o maltrato aos princípios da impessoalidade e da moralidade.” (eDOC 17, p. 7)
+
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+
+    Confiram-se, a propósito, os seguintes precedentes:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. DANOS AO ERÁRIO. LICITAÇÃO. DISPENSA. EMPRESA CONTRATADA. DIRECIONAMENTO. FRAUDE. MÁ-FÉ. ARTIGO 93, INCISO IX, DA CONSTITUIÇÃO. VIOLAÇÃO. NÃO OCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO DOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. PRECEDENTES. 1. O órgão judicante deve fundamentar, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento, não se exigindo que se manifeste sobre todos os argumentos apresentados pela defesa (AI 791.292/RG-QO, Rel. Min. Gilmar Mendes, DJe de 13/8/2010). 2. Ausência de repercussão geral do tema relativo à suposta violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes, Tema 660, DJe de 1º/8/2013). 3. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional, tampouco para o reexame dos fatos e das provas (Súmulas 279 do STF) 4. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 5. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita”. (ARE 1318308 AgR, Rel. Min. LUIZ FUX (Presidente), Tribunal Pleno, DJe 13.10.2021)
+
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. ATO DE IMPROBIDADE ADMINISTRATIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. 1. Para dissentir da conclusão do Tribunal de origem acerca da não caracterização do ato de improbidade administrativa, seria necessário o reexame do conjunto fático-probatório dos autos, assim como a análise da legislação infraconstitucional aplicável à hipótese, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 279/STF. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (arts. 17 e 18 da Lei nº 7.347/1985). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015. (RE 1276582 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 27.10.2020)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. INOCORRÊNCIA. ALEGAÇÃO DE OFENSA AOS INCS. XXXVI, LIV E LV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 660. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 1299799 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 15.4.2021)
+
+    Ante o exposto, nego seguimento aos recursos (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+
+    Publique-se.
+
+    Brasília, 24 de fevereiro de 2022.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
