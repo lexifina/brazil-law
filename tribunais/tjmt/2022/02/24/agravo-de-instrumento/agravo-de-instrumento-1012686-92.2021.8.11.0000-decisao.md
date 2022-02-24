@@ -1,0 +1,91 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO AGRAVO DE INSTRUMENTO No 1012686-92.2021.8.11.0000
+RECORRENTE (s): BANCO DO BRASIL S.A.
+RECORRIDO (s): DANILO PIRES ATALA E OUTRO
+Vistos.
+Trata-se de recurso especial com pedido de efeito suspensivo interposto pelo BANCO DO BRASIL S.A. com fundamento no artigo 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado que, por unanimidade, desproveu o recurso, nos termos da seguinte ementa (id. 103062995):
+“AGRAVO DE INSTRUMENTO –CUMPRIMENTO DE SENTENÇA – IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA SOB A ÉGIDE DO CPC/73 – GARANTIA INTEGRAL DO JUÍZO – NÃO COMPROVADO – EXCESSO DE EXECUÇÃO – APONTAMENTOS GENÉRICOS – NÃO VERIFICADO - IMPUGNAÇÃO REJEITADA – DECISÃO MANTIDA – RECURSO DESPROVIDO.
+Cumpre esclarecer que a impugnação ao cumprimento de sentença foi interposta em 13/05/2011, e por isso incidem as regras do Código Processo Civil de 1973.
+Em que pese aos argumentos vertidos pelo banco Agravante, tenho que o Juiz a quo agiu com o costumeiro acerto, pois o entendimento que prevalece é no sentido de que a garantia integral do juízo é pressuposto para a admissibilidade da impugnação ao cumprimento de sentença.
+Assim, considerando que não há nos autos notícias de que o Agravante tenha complementado o valor da garantia, tampouco comprovou que procedeu ao depósito na época da intimação, a manutenção da decisão objurgada é medida que se impõe.
+Ademais, das razões recursais ressai que o banco Agravante não impugnou especificamente os cálculos elaborados pelos Agravados/Exequentes, de modo que apontamentos genéricos não bastam para demonstrar excesso de execução”. (TJMT – Segunda Câmara de Direito Privado – RAI n. 1012686-92.2021.8.11.0000, Relator (a): CLARICE CLAUDINO DA SILVA, j. em 22/09/2021).
+Os embargos de declaração foram rejeitados. (id. 110006969).
+A parte recorrente alega violação aos artigos 489, § 1o, IV, 509, § 4o, e 1.022, II, do Código de Processo Civil, artigo 475-J, § 1o, do Código de Processo Civil/73, além de divergência jurisprudencial, ao argumento de que: “(...) se não houve a garantia do juízo, como bem reconheceu o r. juízo piso e o Tribunal a quo, seja por meio de nomeação espontânea de bens, seja por meio do deposito judicial integral da dívida, ou da constituição da penhora, não se iniciou o prazo para apresentar impugnação, motivo pelo qual não há que se falar na sua improcedência e consequentemente homologação dos cálculos apresentados pelos Recorridos em cumprimento de sentença”. “(...) ensina que não há preclusão quando a impugnação é apresentada dentro do prazo de 15 dias decorridos da intimação a penhora nos termos do artigo 475-J, §1o, do CPC/73, o que ocorreu nos presentes autos”.
+Assevera que: “(...) a rejeição da impugnação apresentada pelo Recorrente não obsta a análise, por parte do r. juízo, quanto a fidelidade dos cálculos apresentados, em observância ao que restou determinado no comando judicial, posto que nos termos do artigo 509, § 4o, do CPC, cabe ao Juiz exercer o controle de legalidade sobre os cálculos apresentados, corrigindo eventuais distorções”.
+Recurso tempestivo (id. 113925970).
+Contrarrazões (id. 114006480).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação aos artigos 489, § 1o, IV, e 1.022, II, do CPC – decisão sem omissão
+A parte recorrente alega que o acórdão recorrido foi omisso e não analisou a seguinte questão: “(...) a inexistência de preclusão para apresentação da impugnação ao cumprimento de sentença, uma vez que o prazo para a referida manifestação é a partir da garantia do juízo, na forma do artigo 475-J, §1o, do CPC/73 e precedentes o C. STJ, e que, mesmo em caso de eventual preclusão para manifestar quanto aos cálculos, cabe ao r. juízo exercer o controle de legalidade sobre os cálculos apresentados sendo destinatário final da prova, consoante dispõe o artigo 509, §4o, do CPC/2015”.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora manifestou-se em relação ao aludido ponto, não como quer a parte recorrente mas suficiente para o deslinde da controvérsia, como se observa da transcrição abaixo:
+“(...) Ressai dos autos que DANILO PIRES ATALA e MARIONELY ARAÚJO VIEGAS requereram cumprimento de sentença em face de BANCO DO BRASIL S.A., objetivando a satisfação do crédito referente aos honorários advocatícios sucumbenciais no montante de R$ 229.219,73 (duzentos e vinte e nove mil duzentos e dezenove reais e setenta e sete centavos), atualizado em 07/04/2011.Os Exequentes requereram o cumprimento de sentença em 08/04/2011. Em 13/05/2011, o banco Executado apresentou impugnação ao cumprimento de sentença, alegando a ocorrência de excesso na execução (ID. 95407499).
+Ato contínuo, em 18/05/2011, o Executado peticionou nos autos informando o depósito da quantia de R$ 40.004,75 (quarenta mil e quatro reais e setenta e cinco centavos), a título de segurança do juízo.
+Em 12/02/2016, o Juiz a quo determinou a intimação do banco Executado para complementar o depósito em 15 (quinze) dias, ao argumento de que não é admissível impugnação quando não realizada a garantia do juízo, por meio de todo o valor da liquidação, sob pena de rejeição da impugnação (ID. 95627950),
+Conforme certidão lançada em 05/04/2016, o banco Executado deixou transcorrer o prazo in albis (ID. 95627951).
+Os Exequentes requereram a penhora on line do valor de R$ 626.269,33 (seiscentos e vinte e seis mil duzentos e sessenta e nove reais e trinta e três centavos), ocasião em que o juiz deferiu o pedido em 04/02/2019.
+Em 19/02/2019, o Banco Agravante apresentou impugnação à penhora on line deferida pelo juiz singular, ao argumento de que houve excesso de execução.
+Em 09/12/2020, o juiz homologou os cálculos apresentados pelos Exequentes e proferiu a seguinte decisão (ID. 95418954):
+(...) Portanto, como no caso concreto, mesmo previamente intimado a regularizar a garantia do juízo (fls. 407/409), o impugnante/executado não atendeu à decisão judicial ou recorreu desta (fls. 411), outra alternativa não resta, senão a homologação dos cálculos acostados pelo exequente com a inicial do cumprimento de sentença (fls. 321/323). No mesmo sentido, em relação à impugnação apresenta às folhas 462/466, na qual o executado aduz que não foi primado pelo devido processo legal, já que houve a penhora de valores sem a sua prévia intimação, e existe excesso de execução, uma vez que o exequente partiu de parâmetro equivocado para o cálculo do percentual dos honorários sucumbenciais; vislumbra-se que as insurgências não devem ser acolhidas. Em relação ao desrespeito ao devido processo legal, constata-se dos autos que houve a prévia intimação do executado/impugnante para o pagamento do débito, tanto é que este ofereceu em sequência a impugnação (fls. 324/329) e ainda foi intimado novamente para complementar a garantia do juízo (fls. 407/411). (...)
+(...) Conforme relatado, o Juiz a quo intimou o banco Agravante/executado para pagar o débito, nos termos do artigo 475-J, do CPC/73. Contudo, depositou somente parte da quantia, a qual entendia cabível.
+Diante desse cenário, o Juiz intimou para complementar o pagamento, ao argumento de que a garantia integral da dívida era condição para procedibilidade para que a impugnação seja apreciada. Entretanto, consoante infere-se dos autos, o banco Executado deixou transcorrer o prazo sem complementar a quantia.
+Em que pesem aos argumentos levantados pelo banco Agravante, tenho que o juiz a quo agiu com o costumeiro acerto, isso porque, o entendimento que prevalece é no sentido de que a garantia integral do juízo é pressuposto para a admissibilidade da impugnação ao cumprimento de sentença.
+Assim, considerando que não há nos autos notícias de que o Agravante tenha complementado o valor da garantia do juízo, a manutenção da decisão objurgada é medida que se impõe.
+(...) Por fim, no que tange ao pedido atinente À impugnação à penhora online em que o Agravante alega que houve excesso na execução, tenho que melhor sorte não lhe assiste, eis que como bem consignou o Juiz singular, não há mácula no cálculo atualizado do débito, no qual foram aplicados juros de 1% (por cento) ao mês e correção monetária pelo INPC, com a devida dedução dos valores depositados pelo banco Executado.
+Ademais, nas razões recursais o banco Agravante não impugnou especificamente os cálculos elaborados pelos Agravados/Exequentes, de modo que apontamentos genéricos não bastam para demonstrar o excesso de execução”. (id. 103062995) (g.n)
+Diante desse quadro, não há evidência de violação aos artigos 489, § 1o, IV, e 1.022, II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Frise-se, por oportuno, que o julgador não está obrigado a apreciar todos os argumentos e dispositivos invocados pelas partes no processo, mas sim analisar o núcleo central das questões colocadas em debate e relevantes para a decisão.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL – AÇÃO CONDENATÓRIA – DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO E NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AUTORES. 1. Violação aos artigos 489, § 1o, IV, e 1022, II, do CPC/15, não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio. Precedentes. (...)”. (AgInt no AREsp 1521129/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 01/04/2020). (g.n.)
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+No caso, a parte recorrente alega que: “(...) se não houve a garantia do juízo, como bem reconheceu o r. juízo piso e o Tribunal a quo, seja por meio de nomeação espontânea de bens, seja por meio do deposito judicial integral da dívida, ou da constituição da penhora, não se iniciou o prazo para apresentar impugnação, motivo pelo qual não há que se falar na sua improcedência e consequentemente homologação dos cálculos apresentados pelos Recorridos em cumprimento de sentença”. “(...) ensina que não há preclusão quando a impugnação é apresentada dentro do prazo de 15 dias decorridos da intimação a penhora nos termos do artigo 475-J, §1o, do CPC/73, o que ocorreu nos presentes autos”.
+No acórdão impugnado ficou consignado que:
+“(...) Cumpre esclarecer que a impugnação ao cumprimento de sentença foi interposta em 13/05/2011, e por isso incidem as regras do Código Processo Civil de 1973.
+(...) Conforme relatado, o Juiz a quo intimou o banco Agravante/executado para pagar o débito, nos termos do artigo 475-J, do CPC/73. Contudo, depositou somente parte da quantia, a qual entendia cabível.
+Diante desse cenário, o Juiz intimou para complementar o pagamento, ao argumento de que a garantia integral da dívida era condição para procedibilidade para que a impugnação seja apreciada. Entretanto, consoante infere-se dos autos, o banco Executado deixou transcorrer o prazo sem complementar a quantia.
+Em que pese aos argumentos vertidos pelo banco Agravante, tenho que o Juiz a quo agiu com o costumeiro acerto, pois o entendimento que prevalece é no sentido de que a garantia integral do juízo é pressuposto para a admissibilidade da impugnação ao cumprimento de sentença.
+Assim, considerando que não há nos autos notícias de que o Agravante tenha complementado o valor da garantia, tampouco comprovou que procedeu ao depósito na época da intimação, a manutenção da decisão objurgada é medida que se impõe ”. (id. 103062995) (g.n)
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai da ementa do julgado abaixo:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. ARTIGO 475-J DO CPC/1973. GARANTIA DO JUÍZO. PRESSUPOSTO PARA O PROCESSAMENTO DA IMPUGNAÇÃO. SÚMULA 83 DO STJ. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. 'A garantia do juízo é pressuposto para o processamento da impugnação ao cumprimento de sentença. Precedentes' (AgInt no AREsp 1.022.387/SC, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 06/03/2018, DJe de 13/03/2018).
+2. Agravo interno a que se nega provimento”. (AgInt nos EDcl nos EDcl no AREsp 1174055/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/12/2020, DJe 01/02/2021). (g.n)
+Desse modo, deve ser aplicado o referido verbete sumular para as alíneas “a” e “c”, do artigo 105, III, da CF, quanto à suposta afronta ao artigo 475-J, § 1o, do CPC/73, visto que o entendimento exposto no acórdão recorrido se encontra em sintonia com a orientação sedimentada no STJ.
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO MONITÓRIA. PROCESSO INCLUÍDO EM PAUTA E NÃO JULGADO NA DATA PREVISTA. DESNECESSIDADE DE NOVA INCLUSÃO DO FEITO EM PAUTA. JULGAMENTO DO FEITO EM PRAZO RAZOÁVEL.INCIDÊNCIA DA SÚMULA 83/STJ. APLICAÇÃO A AMBAS AS ALÍNEAS DO ART.105, III, DA CONSTITUIÇÃO FEDERAL. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. (...).
+2. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+3. A Súmula 83 do STJ é aplicável aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do inciso III do art.105 da Constituição Federal.
+4. Agravo interno a que se nega provimento”. (AgInt no REsp 1858976/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/12/2020, DJe 11/12/2020). (g.n.)
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação ao artigo 509, § 4o, do CPC, está amparada na assertiva de que a adequação dos cálculos ao comando sentencial constitui matéria de ordem pública, cabendo ao juiz corrigir eventuais distorções dos valores e restou demonstrado pelo recorrente o excesso de execução nos cálculos apresentados pelos recorridos.
+O acórdão recorrido decidiu, in verbis:
+“(...) Por fim, no que tange ao pedido atinente à impugnação à penhora online em que o Agravante alega que houve excesso na execução, tenho que melhor sorte não lhe assiste, eis que como bem consignou o Juiz singular, não há mácula no cálculo atualizado do débito, no qual foram aplicados juros de 1% (por cento) ao mês e correção monetária pelo INPC, com a devida dedução dos valores depositados pelo banco Executado.
+Ademais, nas razões recursais o banco Agravante não impugnou especificamente os cálculos elaborados pelos Agravados/Exequentes, de modo que apontamentos genéricos não bastam para demonstrar o excesso de execução”. (id. 103062995) (g.n)
+No entanto, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+Confira:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DECISÃO MONOCRÁTICA. ENTENDIMENTO DOMINANTE. POSSIBILIDADE. JULGAMENTO COLEGIADO. SUPERAÇÃO DE EVENTUAL VÍCIO. AGRAVO INTERNO. ALEGAÇÕES DISSOCIADAS DA DECISÃO AGRAVADA. FUNDAMENTAÇÃO ADEQUADA. VIOLAÇÃO DOS ARTS. 11 E 489 DO NCPC. AUSÊNCIA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA No 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. (...).
+6. O acórdão vergastado assentou que não houve excesso de execução, haja vista que os cálculos foram efetivados nos termos do título executivo. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta à Súmula no 7 do STJ.
+7. (...).
+8. Agravo interno não provido”. (AgInt no AREsp 1825424/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/10/2021, DJe 28/10/2021). (g.n)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“TRIBUTÁRIO. PROCESSUAL CIVIL. PESSOA JURÍDICA. AUTOMÓVEL.PENHORABILIDADE DE BEM DECLARADA PELO TRIBUNAL DE ORIGEM. ATIVIDADE PROFISSIONAL. UTILIDADE OU NECESSIDADE. COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. (...).
+2. O mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional - incidência das Súmulas 7/STJ e 282/STF - obsta a análise recursal pela alínea c, restando o dissídio jurisprudencial prejudicado.
+3. Agravo interno não provido”. (AgInt no AgInt no AREsp 1447335/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020).
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Consequentemente, o recurso interposto não possui qualquer probabilidade de provimento e, por esta razão, indefiro o efeito suspensivo postulado pela parte recorrente, pois, nos termos do art. 1.029, § 5o, do novo CPC, este é um dos pressupostos para a suspensividade dos efeitos da decisão recorrida.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
