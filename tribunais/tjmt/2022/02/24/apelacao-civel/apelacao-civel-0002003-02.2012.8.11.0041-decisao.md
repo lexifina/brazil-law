@@ -1,0 +1,53 @@
+RECURSO ESPECIAL
+VISTOS.
+Trata-se de recurso especial interposto por NOVO MUNDO MOVEIS E UTILIDADES LTDA, com fundamento no art. 105, III, alínea “a”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Público e Coletivo deste Sodalício, que restou assim ementado:
+APELAÇÃO CÍVEL – AÇÃO ANULATÓRIA DE DÉBITO FISCAL – NECESSIDADE DE PROVA PERICIAL – PRESCINDIBILIDADE – VALORAÇÃO E SUFICIENCIA DAS PROVAS EXISTENTES NOS AUTOS - LIVRE CONVENCIMENTO DO JULGADOR - ANULAÇÃO DOS DÉBITOS FISCAIS PELO PODER JUDICIÁRIO – AUSENCIA DE ILEGALIDADE – OBSERVÂNCIA DO PROCEDIMENTO ADMINISTRATIVO CORRELATO – PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA ASSEGURADOS – SENTENÇA RATIFICADA - RECURSO DESPROVIDO.
+A intervenção do Poder Judiciário nos atos administrativos cinge-se à defesa dos parâmetros da legalidade, permitindo-se a reavaliação do mérito administrativo tão somente nas hipóteses de comprovada violação aos princípios da legalidade, razoabilidade e proporcionalidade, sob pena de invasão à competência reservada ao Poder Executivo.
+Embargos de declaração rejeitados no id. 93555494.
+Nas razões do recurso, alega o recorrente, em síntese, violação ao Art. 95 do Regulamento do ICMS de Mato Grosso, Arts. 357, I. II, III, IV § 1o, 369, 370, 37, 489 e 1.022, todos do CPC, mantendo-se as omissões apontadas em sede de Aclaratórios, incorrendo em ofensa a dispositivo Legal Federal.
+Recurso tempestivo e devidamente preparado.
+Contrarrazões pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Não aplicação da sistemática de precedentes.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, in casu, a previsão do Art. 1.030, I, “b”, II e III, do CPC/2015.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Reexame matéria fática. Súmula 7 do STJ.
+Nos termos do artigo 105, III, “a” e “c”, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+Nas razões do recurso, alega o recorrente, em síntese, violação ao Art. 95 do Regulamento do ICMS de Mato Grosso, Arts. 357, I. II, III, IV § 1o, 369, 370, 37, 489 e 1.022, todos do CPC, mantendo-se as omissões apontadas em sede de aclaratórios, incorrendo em ofensa a dispositivo Legal Federal.
+Pois bem, sem maiores delongas, para rever o entendimento firmado no aresto recorrido, em que se pretende aferir a suposta ilegalidade dos lançamentos de que tratam as Notificações n. 766516/53/32/2011 (ICMS) e n. 832866/53/32/2011 (multa), demandaria o revolvimento do complexo fático-probatório dos autos, o que atrai, consequentemente, o óbice sumular acima mencionado, conforme preconiza o STJ:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. EMBARGOS A EXECUÇÃO. CREDITAMENTO DE VALORES A TÍTULO DE RESSARCIMENTO DO IMPOSTO RETIDO A MAIOR. VIOLAÇÃO AO ART. 1022 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. TRIBUNAL DE ORIGEM, COM BASE NO CONJUNTO PROBATÓRIO, DECIDIU PELA IMPOSSIBILIDADE DE APROVEITAMENTO DOS CRÉDITOS DE ICMS. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. Observo que o Tribunal local não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+5. Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou que não se comprovou a legitimidade da origem do crédito de ICMS. Nesse sentido, transcrevo o seguinte trecho do acórdão (e-STJ, fls. 659-661): "Dessume-se dos autos que a produção de prova pericial destinou-se a apurar a legitimidade do creditamento de ICMS efetuado pela embargante no período discriminado no AIIM no 3.152.887- 9. Contudo, nos termos do referido laudo técnico, não restou comprovada a legitimidade da origem do crédito. Com efeito, o expert mencionou expressamente que '(...) A CBD, por ocasião dos trabalhos de fiscalização, foi regularmente notificada para apresentar o arquivo magnético de controle de estoques e seus documentos correlatos nos moldes estabelecidos pela Portaria CAT no 17/99, referente ao período objeto do AIIM. Conforme exposto no processo administrativo (juntado em partes aos embargos), a CBD apresentou arquivo magnético 'CD' para atendimento da notificação.(...) Nesse contexto, o laudo do expert não foi conclusivo acerca da correção do aproveitamento dos créditos realizado sem o preenchimento das condições exigidas pela lei para tanto, quais sejam, 'idoneidade da documentação e, se for o caso, à escrituração nos prazos e condições estabelecidos na legislaçã', por força do art. 23 da LCF 87/1996". Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ).
+6. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+7. Agravo Interno não provido.
+(AgInt no REsp 1934668/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2021, DJe 10/12/2021)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+RECURSO EXTRAORDINÁRIO
+VISTOS.
+Trata-se de recurso extraordinário interposto por NOVO MUNDO MOVEIS E UTILIDADES LTDA, com fundamento no art. 102, III, alínea “a”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Público e Coletivo deste Sodalício, que restou assim ementado:
+APELAÇÃO CÍVEL – AÇÃO ANULATÓRIA DE DÉBITO FISCAL – NECESSIDADE DE PROVA PERICIAL – PRESCINDIBILIDADE – VALORAÇÃO E SUFICIENCIA DAS PROVAS EXISTENTES NOS AUTOS - LIVRE CONVENCIMENTO DO JULGADOR - ANULAÇÃO DOS DÉBITOS FISCAIS PELO PODER JUDICIÁRIO – AUSENCIA DE ILEGALIDADE – OBSERVÂNCIA DO PROCEDIMENTO ADMINISTRATIVO CORRELATO – PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA ASSEGURADOS – SENTENÇA RATIFICADA - RECURSO DESPROVIDO.
+A intervenção do Poder Judiciário nos atos administrativos cinge-se à defesa dos parâmetros da legalidade, permitindo-se a reavaliação do mérito administrativo tão somente nas hipóteses de comprovada violação aos princípios da legalidade, razoabilidade e proporcionalidade, sob pena de invasão à competência reservada ao Poder Executivo.
+Embargos de declaração rejeitados no id. 93555494.
+Nas razões do recurso, alega o recorrente, em síntese, violação ao artigo 93, IX, da Constituição Federal, ao argumento de que houve supressão da fase probatória pelo juízo singular, com a prolação de sentença sem manifestação quanto às questões de mérito, sob a alegação de ausência de provas verossímeis.
+Recurso tempestivo e devidamente preparado.
+Contrarrazões pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Da violação aos artigos 93 inciso IX da CF – Tema 339/ STF.
+Consoante se verifica da tese recursal, a suposta violação ao artigo 93, IX, da CF, está amparada na alegação de que houve supressão da fase probatória pelo juízo singular, com a prolação de sentença sem manifestação quanto às questões de mérito, sob a alegação de ausência de provas verossímeis.
+Todavia, do exame do acórdão recorrido, verifica-se que Segunda Câmara de Direito Público e Coletivo do Tribunal de Justiça do Estado de Mato Grosso manifestou-se expressamente em relação à questão central discutida no feito, o que está em consonância com o entendimento firmado no Supremo Tribunal Federal.
+Isso porque, no julgamento do AI 791292 QO-RG/PE (Tema 339), a Suprema Corte concluiu que a Constituição Federal não exige a fundamentação exaustiva na decisão, mas que o julgador aponte de forma clara as razões de seu convencimento.
+Outrossim, não há exigência do exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+Confira-se a ementa do julgado:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5o e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”. (AI 791292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, p. 113-118). (g.n)
+Nesse contexto, constata-se que o acórdão recorrido está em conformidade com a orientação do Supremo Tribunal Federal, o que obsta o seguimento do recurso nesse ponto, por aplicação da sistemática de precedentes.
+Ante o exposto, nego seguimento a ambos os recursos.
+Publique-se. Cumpra-se.
+Às providências.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
