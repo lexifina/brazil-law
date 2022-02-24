@@ -1,0 +1,58 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1010891-64.2017.8.11.0041
+RECORRENTE: GEAP AUTOGESTÃO EM SAÚDE
+RECORRIDO: IVONE GONÇALVES DE NORONHA BENTO E OUTROS
+Vistos.
+Trata-se de recurso especial interposto por GEAP AUTOGESTÃO EM SAÚDE com fundamento no artigo 105, inciso III, alínea “a” da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado, assim ementado (id 108930484):
+RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS – PLANO DE SAÚDE – PRELIMINAR CONTRARRECURSAL – INOVAÇÃO RECURSAL – HOME CARE – ALEGAÇÃO DE ILEGIBILIDADE – PRESCRIÇÃO MÉDICA E NECESSIDADE DEMONSTRADA – DANO MORAL – CONFIGURADO – FALECIMENTO DA AUTORA NO CURSO PROCESSUAL – SUCESSÃO DO DIREITO PATRIMONIAL PELOS HERDEIROS - SENTENÇA MANTIDA – RECURSO CONHECIDO EM PARTE E NESTA DESPROVIDO. É vedado o conhecimento, em grau recursal, de pedido não veiculado perante o juízo de origem, pois importaria inovação ofensiva ao contraditório, ao devido processo legal e ao duplo grau de jurisdição. É firme a jurisprudência no sentido de que cabe ao médico que assiste o segurado a indicação do tratamento mais adequado ao restabelecimento de sua vida, ademais a elegibilidade para tratamento domiciliar foi confirmado por perícia médica indireta. “Importante consignar que, de fato, o mero descumprimento contratual não enseja, em regra, indenização por danos morais, todavia, diante das peculiaridades do presente caso, entendo que a conduta da ré causou danos morais ao autor, uma vez que restou configurada a dor, aflição psicológica e agonia, por ele suportadas em razão da negativa de cobertura do tratamento emergencial de um câncer.” (TJMG - Apelação Cível 1.0378.15.000848-0/002, Relator(a): Des.(a) Alberto Henrique, 13a CÂMARA CÍVEL, julgamento em 14/09/2017, publicação da sumula em 22/09/2017). “(...) Nos casos em que já houve o ajuizamento da ação, quando da morte do autor primevo, com sucessão processual pelo espólio ou herdeiros, não há a transmissão de direito personalíssimo, sendo o que se transmite, na hipótese, é o direito patrimonial referente à ação de indenização já ajuizada pelo falecido titular do direito. (...) (TJMG - Apelação Cível 1.0407.12.004450-5/001, Relator(a): Des.(a) Sandra Fonseca, 6a CÂMARA CÍVEL, julgamento em 21/07/2020, publicação da sumula em 31/07/2020).
+(TJ-MT 10108916420178110041 MT, Relator: SEBASTIAO BARBOSA FARIAS, Data de Julgamento: 30/11/2021, Primeira Câmara de Direito Privado, Data de Publicação: 30/11/2021)
+O presente recurso foi interposto contra o acórdão proferido em sede de apelação cível, interposta por GEAP Autogestão em Saúde, que negou provimento ao recurso e manteve a sentença que julgou parcialmente procedentes os pedidos iniciais para confirmar a liminar deferida nos autos e condenar a ré ao pagamento de indenização por danos morais no valor de R$ 15.000,00 (quinze mil reais), bem como de custas e honorários advocatícios, fixados em 15% (quinze por cento) sobre o valor da condenação.
+A parte recorrente alega a violação aos artigos 10 e 12 da Lei 9.656/98, ao argumento de que “(...) não há como prosperar o entendimento emanado no acórdão recorrido de que os planos de saúde tenham que arcar com o tratamento de forma ilimitada, desde que haja tratamento prescrito pelo médico assistente (...)”.
+Suscita a afronta aos artigos 186 e 927 do Código Civil, sob a alegação de que “(...) não praticou qualquer ato ilícito e/ou abusivo e, por conseguinte, não pode ser condenada em danos morais e materiais, uma vez que cumpria o estipulado na legislação dos planos de saúde e do contrato firmado entre as partes. (...)”.
+Recurso tempestivo (id 113979980) e preparado (id 114100950).
+Contrarrazões apresentadas (id 116847468).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+De início, não restou verificada a existência, no Superior Tribunal de Justiça, de tema que se relativo às questões objeto deste recurso, de forma que não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, na espécie, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Feitas essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ dispõe que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, a alegada violação aos artigos 10 e 12 da Lei 9.656/98, ao argumento de que “(...) não há como prosperar o entendimento emanado no acórdão recorrido de que os planos de saúde tenham que arcar com o tratamento de forma ilimitada, desde que haja tratamento prescrito pelo médico assistente (...)”.
+Além disso, a parte recorrente afirma que o aresto recorrido violou os artigos 186 e 927 do Código Civil, ao fundamento de que agiu no exercício regular de um direito ao negar a cobertura para o serviço de home care pretendido pela parte recorrida, de forma que deve ser afastada a condenação ao pagamento de indenização por danos morais.
+Quanto a esses pontos, consignou-se no acórdão recorrido:
+“(...) Na hipótese dos autos, à época da propositura da ação e deferimento da antecipação de tutela, a parte autora demonstrou a premência do tratamento home care, nos moldes indicados pelo seu médico, já que sofreu Acidente Vascular Cerebral, necessitando receber tratamento domiciliar contínuo, conforme atestado do neurocirurgião que acompanhava (ID. 93352200 - Pág. 1):
+“paciente 92 anos portadora amicardiopatia, dislipidêmica, mas e agora com sequela importante do AVC e necessidade de controle e monitoramento severo”
+A necessidade/elegibilidade da internação domiciliar foi confirmada pela perícia (Perícia Médica Indireta):
+6. CONCLUSÃO:
+• A periciada era dependente total de terceiros, classificada como tendo grau de incapacidade máximo, de acordo com os critérios da Cruz Vermelha Internacional.
+• A periciada era elegível para internação domiciliar de alta complexidade com cuidados de enfermagem até 24 horas/diárias de acordo com quadro clínico descrito pelo médico solicitante em formulário próprio da requerida, dos critérios da ABEMID (Associação Brasileira de Medicina Domiciliar) e do NEAD (Núcleo Nacional das Empresas de Serviços de Atenção Domiciliar).
+Quanto ao ponto controvertido, o expert se manifestou:
+Ponto Controvertido: O ponto controvertido cinge -se à necessidade ou não da autora ser atendida pelo sistema de home care em alta complexidade, ou seja, com atendimento 24 horas por dia, na forma solicitada pelo médico assistente. Resposta: Sim. Periciada apresentava necessidade de internação em regime de alta complexidade, 24 horas por dia, conforme solicitação do médico e elementos de documentação trazidos a pericia médica.
+Ao responder os quesitos da requerida, assim se posicionou:
+1) Sim. Periciada tinha indicação e prescrição médica de assistência de alta complexidade com cuidados de enfermagem em tempo integral conforme solicitação médica, análise médica e documentos trazidos a perícia médica e anexados ao presente laudo pericial.
+5) Sim. Periciada necessitava de assistência de alta complexidade com atendimento de enfermagem em tempo integral. Atendimento de 12 horas diárias não atendia as necessidades da periciada diante do seu quadro clínico e da indicação e prescrição do médico assistente.
+12)Observe infusão de soluções parenterais ou medicamentos injetáveis, utilização e cuidados com sondagem vesical e nutrição enteral através de sonda e curativos especializados, descritos pelo médico assistente e pelo avaliador da requerida. (ID. 93352316).
+A assistência que se fez necessária, como se vê, não pode ser atribuída aos familiares da demandante, como defende a Apelante, tratando-se de cuidados especiais de profissionais da saúde, apenas por estes podendo ser prestados.
+Assim, tem-se que o plano de saúde não pode se recusar a custear o tratamento prescrito pelo médico assistente, ante a patente necessidade/elegibilidade para a internação domiciliar, pois cabe ao profissional da medicina definir qual é o melhor tratamento para o segurado.
+(...)
+No que tange ao dano moral é importante consignar que, de fato, o mero descumprimento contratual não enseja, em regra, indenização por danos morais.
+Todavia, diante das peculiaridades do presente caso, depreende-se que a conduta da ré causou danos morais à Autora, uma vez que restou configurada a dor, aflição psicológica e agonia, por ela e seus familiares, suportadas em razão da negativa de cobertura da internação domiciliar. (...)” (g.n)
+Verifica-se que o entendimento adotado pelo órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai do seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. "HOME CARE". NEGATIVA. ABUSIVIDADE. DANO MORAL. EXISTÊNCIA. DEVER DE INDENIZAR. JURISPRUDÊNCIA PACÍFICA. SÚMULA N. 83/STJ. DECISÃO MANTIDA. 1. Havendo negativa de cobertura do plano de saúde para "home care", devidamente prescrito por médico, fica configurada abusividade. Além disso, "a jurisprudência do Superior Tribunal de Justiça reconhece o direito ao recebimento de indenização por danos morais oriundos da injusta recusa de cobertura, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do usuário, já abalado e com a saúde debilitada" (AgInt no AREsp n. 1.450.651/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/9/2019, DJe 18/9/2019). 2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ). 3. Agravo interno a que se nega provimento.
+(STJ - AgInt no REsp: 1791534 SP 2019/0007320-5, Relator: Ministro ANTONIO CARLOS FERREIRA, Data de Julgamento: 20/04/2020, T4 - QUARTA TURMA, Data de Publicação: DJe 24/04/2020) (g.n)
+Com efeito, a destacada súmula deve ser aplicada quanto às afrontas alegadas, eis que os fundamentos do acórdão recorrido estão em sintonia com o pacífico entendimento do STJ.
+Além disso, destaca-se que, a aplicabilidade do enunciado da Súmula 83 do STJ não se restringe aos recursos interpostos com fundamento no permissivo constitucional da alínea “c” do artigo 105, III, da CF, eis que é pacífico o entendimento de que se aplica a ambas as alíneas “a” e “c”.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ). 2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no art. 932, inciso III, do Código de Processo Civil de 2015. 3. É pacífico o entendimento do Superior Tribunal de Justiça de que a Súmula no 83/STJ se aplica a ambas as alíneas ("a" e "c") do permissivo constitucional. Precedentes. 4. Agravo interno não provido.
+(STJ - AgInt no AREsp: 1517429 RJ 2019/0159288-9, Relator: Ministro RICARDO VILLAS BÔAS CUEVA, Data de Julgamento: 28/09/2020, T3 - TERCEIRA TURMA, Data de Publicação: DJe 01/10/2020) (g.n)
+A partir dessas premissas, inviável a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
