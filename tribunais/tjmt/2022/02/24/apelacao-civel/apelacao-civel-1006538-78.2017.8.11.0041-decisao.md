@@ -1,0 +1,64 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA APELAÇÃO CÍVEL No 1006538-78.2017.8.11.0041
+RECORRENTE: TELEPIZZA COMERCIO DE PIZZAS LTDA
+RECORRIDA: SO LED COMERCIO VAREJISTA DE ARTIGOS DE ILUMINACAO LTDA – ME
+Vistos.
+Trata-se de recurso especial interposto por TELEPIZZA COMERCIO DE PIZZAS LTDA com fundamento no art. 105, III, alínea “a” da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado que, por unanimidade, desproveu o recurso, nos termos da seguinte ementa (id. 102188996):
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA DE DESFAZIMENTO DO CONTRATO DE COMPRA E VENDA DE PAINEL DE LED PARA FINS PUBLICITÁRIOS – IMPROCEDÊNCIA – AFIXAÇÃO NA FACHADA DO ESTABELECIMENTO CONTRÁRIA À LEGISLAÇÃO DE POSTURA MUNICÍPIO – ALEGAÇÃO DE VENDA DE PRODUTO SEM A DEVIDA INFORMAÇÃO AO CONSUMIDOR – INOCORRÊNCIA – AUSÊNCIA DE VÍCIOS, DEFEITOS NO PRODUTO, OU FATOS DANOSOS PROVENIENTES DE SUA INADEQUAÇÃO - OBJETO SOCIAL DA EMPRESA QUE SE RESTRINGE AO COMÉRCIO VAREJISTA DE ARTIGOS DE ILUMINAÇÃO – AUSÊNCIA DE PREVISÃO DE SERVIÇOS DE CONSULTORIA LEGISLATIVA OU DE NATUREZA PUBLICITÁRIA – REQUISITOS NECESSÁRIOS À EXPLORAÇÃO QUE DEVERIAM TER SIDO PESQUISADOS PELA EMPRESA CONSUMIDORA ANTES DA AQUISIÇÃO – AUXÍLIO PELO GENITOR DO REPRESENTANTE DA EMPRESA RÉ PARA A DEFESA ADMINISTRATIVA DA AUTUAÇÃO LAVRADA PELA PREFEITURA QUE NÃO TORNA A FORNECEDORA RESPONSÁVEL PELO NÃO PREENCHIMENTO DOS REQUISITOS PARA A EXPLORAÇÃO ADEQUADA DO PAINEL – RECURSO DESPROVIDO.
+O direito/dever de clara e adequada informação a que se refere o art. 6o do CDC refere-se à especificação correta de quantidade, características, composição, qualidade, tributos incidentes e preço, bem como sobre os riscos que apresentem.
+De igual modo, a abusividade vedada no inciso VIII do art. 39 do CDC é a de “colocar, no mercado de consumo, qualquer produto ou serviço em desacordo com as normas expedidas pelos órgãos oficiais competentes ou, se normas específicas não existirem, pela Associação Brasileira de Normas Técnicas ou outra entidade credenciada pelo Conselho Nacional de Metrologia, Normalização e Qualidade Industrial (Conmetro).”
+Quando uma empresa adquire um produto específico de alto valor para compor ativo contábil, a fim de fomentar ou incrementar suas atividades, antes de mais nada deve verificar se tal atividade se revela compatível com o seu objeto social, bem como procurar se informar se a forma como pretende explorar tal produto se encontra em conformidade com a legislação de regência.
+O simples fato de a empresa de comércio de iluminação ré ter mandando um vendedor até o estabelecimento da empresa autora para oferecer o painel eletrônico para sua publicidade não exime esta última do ônus de se certificar se preenche os requisitos técnicos para explorar referido produto dentro das normas de postura municipais.
+De igual forma, o fato de o genitor do representante da empresa requerida ter se disposto a ajudar na defesa técnica contra autuação administrativa perante a prefeitura municipal, e se comprometido a indicar um advogado para uma defesa administrativa perante o órgão fiscalizador não torna a sociedade requerida responsável pelo não preenchimento, pela autora, dos requisitos da legislação de regência para a exploração do produto da maneira como pretendia explorá-lo, ou seja, de afixá-lo no local em que pretendia”. (RAC N. 1006538-78.2017.8.11.0041, Relator (a): MARILSEN ANDRADE ADDARIO, SEGUNDA CÂMARA DE DIREITO PRIVADO, Jul. 25/08/2021).
+Os embargos de declaração foram rejeitados conforme decisão de id. 107589487.
+A parte recorrente alega violação aos artigos 11, 489 e 1.022 do Código de Processo Civil, artigos 113, 187 e 422 do Código Civil, artigo 37, I, do Código de Defesa do Consumidor e artigos 5o, XXXV e 93, IX, da Constituição Federal, ao argumento de que o acórdão foi omisso uma vez que: “(...) No caso em apreço, a ínclita Desa. Relatora, limitou-se apenas em dizer que antes de comprar um painel de R$50.000,00 a Recorrente deveria ter buscado saber se a legislação postural admitia, ou não, a sua instalação e exploração no local onde pretendia instalá-lo”.
+“(...) Destarte, em momento algum houve quando da prolação da r. sentença e, pior ainda, quando do julgamento do recurso, o enfrentamento da principal tese do Recorrente, qual seja: ausência de boa-fé contratual”.
+Recurso tempestivo (id. 110955999).
+Contrarrazões (id. 115773483).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação aos artigos 489 e 1.022 do CPC– decisão sem omissão
+A parte recorrente alega que o acórdão recorrido foi omisso e não analisou a seguinte questão: “(...) Destarte, em momento algum houve quando da prolação da r. sentença e, pior ainda, quando do julgamento do recurso, o enfrentamento da principal tese do Recorrente, qual seja: ausência de boa-fé contratual”.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora manifestou-se em relação aos aludidos pontos, não como quer a parte recorrente mas suficiente para o deslinde da controvérsia, como se observa da transcrição abaixo:
+“(...) Importante aqui destacar que, malgrado o negócio havido entre as partes se sujeitar à legislação cosumerista, a responsabilidade da empresa fornecedora se restringe aos vícios, defeitos e fatos do produto em si.
+Ou seja, no caso, somente haveria se falar em responsabilização da empresa ré se o produto não funcionasse ou não oferece a utilidade minimamente esperada, ou, ainda, que por alguma razão, tivesse, de per si, causado danos ao consumidor adquirente.
+(...) No caso, todavia, a autora não reclama de qualquer vício ou defeito no produto, muito menos da possível incompatibilidade deste com metrologia, qualidade ou tecnologia esperada.
+O produto, ao que tudo indica, não apresentou qualquer defeito, vício ou risco à adquirente.
+Ao contrário, a conduta que se atribui à ré e que se reputa por inadequada seria uma suposta obrigação da a empresa ré conhecer a legislação municipal de postura e lhe informar.
+Ora, conforme se pode depreender da CLÁUSULA SEGUNDA do contrato social da requerida, o seu objeto social se restringe ao “comércio varejista de artigos de iluminação”, ao “comércio atacadista de lustres, luminárias e abajures” e “reparação e manutenção de outros objetos e equipamentos pessoais e domésticos tais como lustres, luminárias e abajures.” (ID. n. 77923968 - Pág. 1)
+Note-se que não há no referido objeto qualquer alusão à consultoria sobre legislação postural, regulação publicitária ou serviços de licenciamentos.
+O simples fato de a empresa de iluminação ré ter mandando um vendedor até o estabelecimento da empresa autora para oferecer o painel não exime esta última do ônus de se certificar se preenche os requisitos técnicos para explorar referido produto dessa ou daquela maneira.
+De igual forma, o fato de o genitor do representante da empresa requerida ter se disposto a ajudar a fazer uma defesa técnica à autuação perante a prefeitura municipal, e se comprometido a indicar um advogado para tentar uma defesa administrativa não torna a sociedade requerida responsável pelo fato de a autora não preencher os requisitos da legislação de regência para a exploração do produto da maneira como pretendia explorá-lo, ou seja, de afixá-lo no local em que pretendia.
+Diante disso, e sem maiores delongas, entendo que, a despeito de o caso sujeitar-se aos ditames do CDC, a empresa autora não demonstrou minimamente os fatos constitutivos de seu direito.
+(...) Todavia, ainda que assim o tivesse de manifestar, certo é que a possível atuação da parte embargada sem a devida boa-fé haveria de ser demonstrada pela embargante, o que não ficou demonstrado nos autos.
+Afinal, segundo a pacífica jurisprudência do STJ, “a presunção de boa-fé é princípio geral de direito universalmente aceito, sendo milenar a parêmia: a boa-fé se presume; a má-fé se prova”. (AgInt no AREsp 1.285.459/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 12/09/2019)”. (ids. 100557995 e 107589487) (g.n)
+Diante desse quadro, não há evidência de violação aos artigos 489 e 1.022 do CPC, o que conduz à inadmissão do recurso neste ponto.
+Frise-se, por oportuno, que o julgador não está obrigado a apreciar todos os argumentos e dispositivos invocados pelas partes no processo, mas sim analisar o núcleo central das questões colocadas em debate e relevantes para a decisão.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL – AÇÃO CONDENATÓRIA – DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO E NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AUTORES. 1. Violação aos artigos 489, § 1o, IV, e 1022, II, do CPC/15, não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio. Precedentes. (...)”. (AgInt no AREsp 1521129/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 01/04/2020). (g.n.)
+Da deficiência de fundamentação (Súmula 284 do STF)
+Na interposição do recurso especial, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+A propósito:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. JUROS DE MORA. TERMO INICIAL. DATA DO EVENTO DANOSO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. (...).
+2. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+3. (...).
+8. Agravo interno a que se nega provimento”. (AgInt no REsp 1851044/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/12/2020, DJe 18/12/2020). (g.n)
+Dessa forma, quanto à alegação de ofensa aos artigos, 113, 187 e 422 do CC e 37, I, do CDC, conclui-se pela inadmissão do recurso, porquanto a parte recorrente limitou-se a reproduzir os dispositivos legais supostamente violados, sem, no entanto, ter demonstrado de forma precisa e concreta a contrariedade alegada e como esta teria ocorrido, impossibilitando, consequentemente, a exata compreensão da matéria apresentada, incidindo o óbice sumular acima.
+Violação da Constituição Federal - Via inadequada
+Consoante os artigos 102, III e 105, III, ambos da Constituição Federal, é patente que a afronta a dispositivo constitucional não pode ser objeto de análise nesta via, sob pena de usurpação de competência do STF, uma vez que ao STJ cabe apenas pacificar a interpretação dada a dispositivo de lei federal.
+Confira-se:
+“PROCESSUAL CIVIL E TRIBUTÁRIO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL.ISS. LOCAÇÃO DE BENS MÓVEIS. CONTRARIEDADE A DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. EXAME VIA APELO ESPECIAL. IMPOSSIBILIDADE.VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015; DOS ARTS.43 E 123 DO CÓDIGO TRIBUTÁRIO NACIONAL; DOS ARTS. 97, I, III E IV, 110, 114, 116 E 142 DO CÓDIGO TRIBUTÁRIO NACIONAL; DOS ARTS. 565, 566, 567, 568 E 594 DO CÓDIGO CIVIL/2002 E DO ART. 3o DA LEI COMPLEMENTAR 116/2003. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.REEXAME DE CLÁUSULAS CONTRATUAIS E ANÁLISE DE MATERIAL PROBATÓRIO.INVIABILIDADE. SÚMULAS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. O exame da violação de dispositivos constitucionais (art. 156, III, da Constituição Federal) é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Constituição Federal.
+2. (...)”. (AgInt no REsp 1889641/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020). (g.n)
+Assim, em relação à suposta violação aos artigos 5o, XXXV, e 93, IX, da CF, o recurso especial constitui via inadequada para a análise da questão, o que obsta a sua admissão neste ponto.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
