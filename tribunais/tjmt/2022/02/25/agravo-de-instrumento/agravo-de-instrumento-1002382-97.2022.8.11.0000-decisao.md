@@ -1,0 +1,34 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO N. 1002382-97.2022.8.11.0000
+AGRAVANTES: HOSPITAL OTORRINO LTDA – ME e ALONSO ALVES FILHO
+AGRAVADA: VALDINEIDE MARIA SILVA DOS SANTOS
+Vistos.
+Trata-se de agravo de instrumento interposto por HOSPITAL OTORRINO LTDA – ME e ALONSO ALVES FILHO, contra decisão proferida pelo MM. Juiz de Direito, Dr. Anderson Gomes Junqueira, da 3a Vara Cível da Comarca de Tangará da Serra/MT, nos autos da “AÇÃO DE REPARAÇÃO POR LESÃO CORPORAL GRAVE – ERRO MÉDICO C/C DANOS MORAIS E MATERIAIS PELO RITO ORDINÁRIO” n. 1006891-71.2020.8.11.0055, ajuizada por VALDINEIDE MARIA SILVA DOS SANTOS, rejeitou impugnação de perito, nomeando o médico Dr. João Leopoldo Baçan, para realizar a perícia médica na agravada.
+Em suas razões recursais os agravantes alegam que “a agravada foi submetida a procedimento cirúrgico em 31.07.2017, na sede do Hospital, Primeiro Requerido/agravante (Hospital Otorrino), pelo Segundo Requerido/agravante (Dr. Alonso Alves Filho), e que posteriormente, passou a ter sintomas de desconforto (dores de cabeça, náuseas e sensação de ouvido tampado)” (sic).
+Aduzem que a agravada “ao se queixar diretamente ao Segundo Requerido/agravante (Dr. Alonso), e posteriormente ao informar em retorno pós-operatório que as dores persistiam (com zumbidos), aquele submeteu-a a um exame de Audiometria, cujo resultado foi o da constatação de perda auditiva do ouvido direito. Sugere que teria havido erro médico, por negligência, tendo que submeter a outra cirurgia de timpanoplastia por outro profissional” (sic).
+Ressaltam que considerando necessária a perícia médica para constatar eventual erro médico, o d. Juiz de Direito nomeou como perito o Dr. João Leopoldo Baçan.
+Discorrem os recorrentes que o perito nomeado é desprovido de qualquer especialidade e, o caso concreto, necessita de perito médico especialista no ramo de otorrinolaringologia e não como o magistrado exigiu: “comprovação de realização pelo menos cinco procedimentos periciais em juízos distintos”.
+Explicam que o “uso da prova pericial baseia-se em tratar-se de matéria complexa e de conhecimento específico (analisar se houve dano ou conduta ilícita, tanto do Hospital quanto do médico, e se há nexo de causalidade entre elas)” (sic).
+Assim, com base nos pressupostos legais, requerem a concessão de efeito suspensivo ativo à decisão agravada, para suspender sua eficácia até decisão de mérito do agravo, ou mesmo, conceder a antecipação de tutela recursal, para o fim de determinar que o juízo de origem nomeie médico especialista em otorrinolaringologia, pois o caso requer a realização de perícia com especialização.
+Preparo recursal recolhido sob o Id. 118196967.
+É o necessário.
+Decido.
+Por tempestivo e próprio recebo o recurso na forma do art. 1.015, inc. I c/c art. 1.017, ambos do CPC.
+O artigo 1.019 inciso I, c/c art. 300, ambos do Código de Processo Civil, dispõem que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+E, de acordo com o parágrafo único do artigo 995 do CPC, “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Na espécie dos autos, atenta ao exposto na exordial, ao exame da documentação acostada em juízo provisório e nos estritos limites da cognição sumária permitida a esta fase processual, verifico que não estão configurados os pressupostos autorizativos para a concessão da medida pleiteada.
+Eis o teor da decisão agravada, na parte que interessa:
+“(...) Quanto ao petitório de Id. n° 62059430, de substituição do perito por profissional especializado em otorrinolaringologia, é cediço que para realização de perícias médicas não é necessário que o profissional seja especializado na área de atuação, sendo que, de acordo com o Conselho Federal de Medicina, o título de especialista não é requisito para exercer qualquer área reconhecida como especialidade médica, mas sim para anunciá-la.
+Desse modo, haja vista não ter sido encontrado algum médico otorrinolaringologista para ser designado como perito nos autos, sendo que somente se faz necessário que o perito seja médico, não havendo necessidade de especialização, fora designado o Dr. João Leopoldo Baçan, o qual já realiza perícias médicas neste juízo, além de realizar também nas demais Varas desta e de outras Comarcas, conforme se depreende em seu currículo colacionado em Id. n° 61136180, motivo pelo qual o considero apto para realização da referida perícia.
+Contudo, caso realmente haja interesse da parte em substituir o perito nomeado, deverá esta indicar três peritos médicos especializados em otorrinolaringologia, no prazo de 15 (quinze) dias, que já tenham realizado no mínimo cinco perícias em juízos distintos e que aceitem realizar referida perícia (...)” (Id. 118079998).
+Observa-se, portanto, que o MM. Juiz apontou os motivos da nomeação do Dr. João Leopoldo Baçan, bem como possibilitou a substituição desse perito por outro especializado em otorrinolaringologia. Para isso, expôs que a parte deve indicar três profissionais nessa especialidade que já tenham realizado no mínimo cinco perícias em juízos distintos, no prazo de 15 (quinze) dias.
+Ademais, há de se levar em conta, no caso concreto, o Princípio da Livre Formação da Convicção do Julgador, pois ficou aparente a justificativa do juízo em nomear o perito de sua confiança, sem a especialidade requerida pela agravante, eis que não localizou profissional qualificado para o mister.
+Vislumbra-se, portanto, neste primeiro momento, que a decisão vertida não apresenta qualquer ilegalidade/irregularidade. Ademais, que o perito nomeado é de confiança do Juiz da causaDessa forma, ausente a probabilidade do direito perseguido.
+Além disso, não há elementos que demonstrem o perigo de dano ou o risco ao resultado útil do processo, se aguardar o julgamento do mérito recursal.
+Desta maneira, por ora, nada obsta a manutenção da decisão agravada, até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será apresentado nas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Diante do exposto, ausentes os requisitos legais, NÃO CONCEDO o efeito suspensivo/ativo.
+Intime-se a agravada para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá/MT, 25 de fevereiro de 2022.
+Desa. Antônia Siqueira Gonçalves
+Relatora
