@@ -1,0 +1,11 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+LEI N. 5.806, DE 25 DE FEVEREIRO DE 2022.
+
+INTITUI a Política de Promoção do Respeito às Mulheres nas instituições de ensino do Estado do Amazonas.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
