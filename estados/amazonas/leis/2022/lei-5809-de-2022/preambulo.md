@@ -1,0 +1,9 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+LEI N. 5.809, DE 25 DE FEVEREIRO DE 2022.
+
+DISPÕE sobre medidas de reaproveitamento de óleo vegetal e seus resíduos no Estado do Amazonas.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS DECRETA:
