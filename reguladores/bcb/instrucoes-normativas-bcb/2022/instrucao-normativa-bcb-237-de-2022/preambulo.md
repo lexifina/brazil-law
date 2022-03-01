@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 237, DE 21 DE FEVEREIRO DE 2022
+Altera as Instruções de preenchimento e o Leiaute dos documentos 4010 - Balancete e Balanço Patrimonial Analítico e 4016 - Balanço Patrimonial Analítico, de que trata a Instrução Normativa BCB nº 195, de 9 de dezembro de 2021.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro (Desig), no uso da atribuição que confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, com base no art. 77, inciso III, do referido Regimento, e tendo em vista o disposto nas Resoluções CMN ns. 4.858, de 23 de outubro de 2020, e 4.911, de 27 de maio de 2021, nas Resoluções BCB ns. 92, de 6 de maio de 2021, e 146, de 28 de setembro de 2021, e na Instrução Normativa BCB nº 195 de 9 de dezembro de 2021,
+R E S O L V E :
