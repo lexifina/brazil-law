@@ -1,0 +1,4 @@
+RESOLUÇÃO CMN Nº 4.926, DE 24 DE JUNHO DE 2021
+Altera a Resolução nº 4.557, de 23 de fevereiro de 2017, que dispõe sobre a estrutura de gerenciamento de riscos, a estrutura de gerenciamento de capital e a política de divulgação de informações.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 24 de junho de 2021, com base nos arts. 4º, inciso VIII, da referida Lei, 2º, inciso VI, e 9º da Lei nº 4.728, de 14 de julho de 1965, 20, § 1º, da Lei nº 4.864, de 29 de novembro de 1965, 6º do Decreto-Lei nº 759, de 12 de agosto de 1969, 7º e 23, alínea “a”, da Lei nº 6.099, de 12 de setembro de 1974, 1º, inciso II, da Lei nº 10.194, de 14 de fevereiro de 2001, e 1º, § 1º, da Lei Complementar nº 130, de 17 de abril de 2009,
+R E S O L V E U :
