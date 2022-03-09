@@ -1,0 +1,60 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5015323-54.2021.8.08.0024
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: AZUL LINHAS AEREAS BRASILEIRAS S.A.
+RECORRIDO: JUNIA BATISTA DE ANDRADE
+RELATOR(A
+):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+Relator: DR. GRÉCIO NOGUEIRA GRÉGIO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO INDENIZATÓRIA. CIA AÉREA. EXTRAVIO TEMPORÁRIO DE UMA MALA E DEFINITIVO DE OUTRA MALA. AVARIA NA MALA. RESSARCIMENTO DO VALOR DA MALA. DANO MORAL
+.
+(1) SENTENÇA OBJURGADA QUE JULGOU
+PROCEDENTES
+os pedidos formulados na inicial para CONDENAR a requerida ao pagamento do valor de R$1.629,80 (mil, seiscentos e vinte e nove reais e oitenta centavos) a título de dano material, acrescido de correção monetária e juros do arbitramento; CONDENAR a requerida ao pagamento do valor de R$3.000,00 (três mil reais) a título de dano moral, acrescido de correção monetária e juros do arbitramento”
+(2). RECURSO DA REQUERIDA PUGNANDO PELA REFORMA DA SENTENÇA E OU SUBSIDIARIAMENTE A REDUÇÃO DO QUANTUM ARBITRADO A TÍTULO DE DANOS MORAIS. (3).
+CONTRARRAZÕES APRESENTADAS ALEGANDO EM SEDE DE PRELIMINAR AUSÊNCIA DE DIALETICIDADE. (4)
+RECURSO CONHECIDO E IMPROVIDO.
+
+IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO PRESENTES. PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE RECURSAL REJEITADA.
+NO MÉRITO. A SENTENÇA DE PISO NÃO MERECE SER REFORMADA
+. ATO ILÍCITO
+. RESPONSABILIDADE OBJETIVA DA REQUERIDA. FALHA NA PRESTAÇÃO DO SERVIÇO. TENTATIVA DE RESOLUÇÃO JUNTO AO PROCON. EXTRAVIO TEMPORÁRIO DE UMA MALA E DEFINITIVO DE OUTRA MALA. AVARIA COMPROVADA. RESTITUIÇÃO DEVIDA. DANO MORAL CONFIGURADO
+. QUANTIA ARBITRADA EM OBSERVÂNCIA A PROPORCIONALIDADE E RAZOABILIDADE. (5)
+.
+
+NO MAIS, SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95
+. (6) CONDENAÇÃO DO RECORRENTE AO PAGAMENTO DAS CUSTAS PROCESSUAIS, BEM COMO HONORÁRIOS ADVOCATÍCIOS, OS QUAIS FIXO NO IMPORTE DE 10% (DEZ POR CENTO) SOBRE O VALOR ATUALIZADO DA CONDENAÇÃO.
+
+BÁRBARA TRABA JESUS GUZZO
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
