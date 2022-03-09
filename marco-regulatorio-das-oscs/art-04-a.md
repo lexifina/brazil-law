@@ -1,0 +1,1 @@
+Art. 4º-A. Todas as reuniões, deliberações e votações das organizações da sociedade civil poderão ser feitas virtualmente, e o sistema de deliberação remota deverá garantir os direitos de voz e de voto a quem os teria em reunião ou assembleia presencial.
