@@ -1,0 +1,2 @@
+Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), e a Lei nº 13.019, de 31 de julho de 2014, para permitir a realização de reuniões e deliberações virtuais pelas organizações da sociedade civil, assim como pelos condomínios edilícios, e para possibilitar a sessão permanente das assembleias condominiais.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
