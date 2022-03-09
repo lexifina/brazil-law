@@ -1,0 +1,115 @@
+Decisão
+
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (Vol. 17, fl. 4):
+
+    “CONSTITUCIONAL, PROCESSUAL CIVIL E TRABALHISTA. AÇÕES CONEXAS. ORDINÁRIA E OPOSIÇÃO. RESOLUÇÃO. SENTENÇA ÚNICA. EMBARGOS DE DECLARAÇÃO FORMULADOS EXCLUSIVAMENTE NA AÇÃO ORDINÁRIA. INTERRUPÇÃO DO PRAZO RECURSAL EM CURSO NA AÇÃO INCIDENTAL. INOCORRÊNCIA. APELAÇÃO. PRAZO RECURSAL. INOBSERVÂNCIA. INTEMPESTIVIDADE. PRESSUPOSTO OBJETIVO DE ADMISSIBILIDADE NÃO SATISFEITO. SENTENÇA. DISPONIBILIZAÇÃO. DIÁRIO DE JUSTIÇA ELETRÔNICO. PUBLICAÇÃO. PRIMEIRO DIA ÚTIL SUBSEQUENTE À DISPONIBILIZAÇÃO. INTEMPESTIVIDADE. PRESSUPOSTO OBJETIVO DE ADMISSIBILIDADE NÃO SATISFEITO. INADMISSIBILIDADE. AFIRMAÇÃO. AÇÃO COMINATÓRIA ADVINDA DE ENTIDADE SINDICAL E PROMOVIDA EM DESFAVOR DO DISTRITO FEDERAL. OBJETO. IMPLANTAÇÃO DA CONTRIBUIÇÃO SINDICAL OBRIGATÓRIA NA FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS LOCAIS OCUPANTES DO CARGO DE CIRURGIÃO DENTISTA OU QUALQUER OUTRO CARGO PRIVATIVO DE PROFISSIONAL COM FORMAÇÃO EM ODONTOLOGIA. UNICIDADE E REPRESENTAÇÃO SINDICAL. AFERIÇÃO. INSERÇÃO NA RELAÇÃO PROCESSUAL DE OUTROS ENTES SINDICAIS. CONTROVÉRSIA SOBRE A REPRESENTATIVIDADE. DECISÃO PRECEDENTE. LITISCONSÓRCIO PASSIVO NECESSÁRIO. COMPOSIÇÃO PROCESSUAL. FORMAÇÃO. NECESSIDADE. INCOMPLETUDE. PRETENSÃO. NATUREZA EXCLUSIVAMENTE TRABALHISTA. PRESSUPOSTO. DEFINIÇÃO DA REPRESENTATIVIDADE ENTRE SINDICATOS DIVERSOS. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. AFIRMAÇÃO. SENTENÇA. NULIDADE. CASSAÇÃO. REDISTRIBUIÇÃO DO PROCESSO.
+
+    1. Aperfeiçoada a disponibilização da sentença, reputa-se como efetivada a publicação no primeiro dia útil seguinte à disponibilização, começando o prazo recursal a fluir no primeiro dia útil posterior à publicação, determinando que, observados esses parâmetros, fora manejado o recurso após o implemento do interregno dentro do qual deveria ter sido veiculado, resta inviabilizado seu conhecimento por não suplantar o pressuposto objetivo de admissibilidade concernente à tempestividade (Lei n° 11.419/06, art. 4°, §§ 3° e 4°).
+
+    2. A sentença que resolve de forma unificada e simultaneamente ações que, conquanto conexas, ostentam objetos diversos, encerando comandos autônomos e independentes em face a cada uma das lides e dos seus protagonistas, torna inviável que os efeitos interruptivos do prazo recursal decorrente do aviamento de embargos de declaração exclusivamente em um dos processos e especificamente em face da resolução que lhe fora conferida irradie efeitos no fluxo processual da ação resolvida conjuntamente, posto que os recursos devem ser analisados no ambiente processual em que foram interpostos, não gerando o recurso interposto num dos processos efeitos sobre o outro, conquanto resolvido no mesmo momento processual.
+
+    3. O atributo agregado aos embargos de declaração de interromper o prazo para o manejo de outros recursos é restrito à ação em que fora formulado, não aproveitando o apelo aviado na ação conexa quando distinto o comando nela exarado, determinando que, aferido que o apelo formulado nos autos da ação conexa não observara o interregno legal, ressoando que não supre o recurso o pressuposto objetivo de admissibilidade pertinente à tempestividade, deve-lhe ser negado trânsito, porquanto recurso intempestivo é inadmissível.
+
+    4. A contribuição sindical compulsória é tributo previsto na Constituição Federal (art. 8°, Inciso IV) e na Consolidação das Leis do Trabalho (art. 578), de recolhimento anual obrigatório, correspondendo ao montante equivalente a 1 (um) dia de trabalho por ano alcançando todos os trabalhadores da categoria, inclusive os servidores públicos, sejam celetistas ou estatutários, estando destinado ao sindicato representativo da categoria, pois volvido a custear as atividades sindicais que desenvolve.
+
+    5. direito ao recebimento da contribuição sindical pressupõe o reconhecimento da representatividade da entidade sindical da respectiva categoria profissional ou econômica em determinada base territorial, devendo ser observado o princípio de unicidade sindical, que prescreve a existência de um único sindicato representativo de um mesmo grupo de trabalhadores de determinada região (CF. art. 8°, II; CLT, art. 516).
+
+    6. A Constituição Federal resguardara o principio da unicidade sindical (CF, art. 8°, II), segundo o qual é vedada a criação de mais de uma organização sindical, representativa de categoria profissional ou econômica numa mesma base territorial, encerrando restrição à liberdade sindical, e, segundo o entendimento firmado, é resolvido mediante ponderação da precedência da subsistência da entidade sindical, cuja existência regular demanda registro o Ministério do Trabalho, segundo o princípio da anterioridade (STF, Súmula 677).
+
+    7. Sobejando controvérsia acerca da anterioridade e representatividade do sindicato, a cominação de obrigação ao empregador da obrigação de destinação da contribuição sindical obrigatória terá como premissa a definição de qual o sindicado ostenta a representação da categoria profissional ou econômica em ação formulada com esse objeto, cuja competência fora reservada à Justiça Trabalhista, na qual deverá necessariamente haver formação de litisconsórcio passivo necessário entre as entidades sindicais que demandam a mesma representação (CF, art. 114, III; CPC/73, art. 47; CPC/15. art. 95).
+
+    8. Aviada pretensão pelo Sindicato dos Odontologistas do Distrito Federal - SODF volvida à cominação ao Distrito Federal da obrigação de decotar dos vencimentos de todos os profissionais detentores de cargos públicos reservados aos profissionais da odontologia e repassar-lhe o produto correlato, a pretensão, sobejando controvérsia acerca da representatividade da entidade sindical, tem como pressuposto a definição desse atributo, o que demanda a inserção na relação processual das entidades que demandam a mesma representação, sob pena de se reconhecer a representatividade controversa por vias transversas e sem a participação dos entes que serão afetados diretamente pelo decidido.
+
+    9. Aferido que o trânsito processual se aperfeiçoará sem a inserção do litisconsorte passivo necessário na composição passiva, resta violado o devido processo legal substancial, contaminando a sentença com vício insanável, pois inviável que o comando que editara irradie seus efeitos se o alcançado diretamente pelo decidido não integrara a relação processual.
+
+    10. Estando o pedido aduzido - recebimento de contribuição sindical - alicerçado exclusivamente na representatividade que ostentaria o sindicato sobre a categoria profissional individualizada, o direito controvertido e o conflito de interesses estabelecido são de natureza trabalhista, carecendo a justiça comum de competência para processar e elucidar a pretensão, consoante prescreve o artigo 114, inciso III, da vigente Carta Magna, notadamente porque a pretensão não está jungida à análise das relações estatutárias ou de caráter jurídico-administrativo entre o Distrito Federal e seus servidores.
+
+    11. Recurso Interposto no processo n° 2014.01.1.0615794 não conhecido. Recurso interposto no processo n° 2012.01.1.188473-0 prejudicado. Incompetência absoluta reconhecida. Sentença cassada. Determinada a redistribuição do processo. Unânime”.
+
+    Opostos Embargos de Declaração (Vol. 5, fl. 93), foram rejeitados (Vol. 6, fl. 4).
+
+    No Recurso Extraordinário (Vol. 6, fl. 94), interposto com amparo no art. 102, III, “a”, da Constituição Federal, o SINDICATO DOS ODONTOLOGISTAS DO DISTRITO FEDERAL – SODF aponta violação aos artigos 8º, III e IV; e 114, I e IX, da CF/1988.
+
+    Afirma que o acórdão recorrido, ao determinar a remessa dos autos à Justiça Laboral para julgamento de lide referente à contribuição social devida por servidor público, vai de encontro à jurisprudência dos tribunais superiores, no sentido de que compete à Justiça Comum o julgamento de causas relacionadas à contribuição social de servidor público.
+
+    No mérito, defende ser entidade representativa da categoria, razão pela qual tem direito ao recolhimento da contribuição sindical.
+
+    Admitido o RE na origem (Vol. 7, fl. 69), na sequência os autos foram remetidos a esta SUPREMA CORTE, oportunidade em que determinei a sua devolução ao Juízo a quo para aguardar o julgamento de mérito do Tema 994 da repercussão geral, no qual se decidiria questão acerca da “competência para processar e julgar demandas nas quais se discutem o recolhimento e o repasse de contribuição sindical de servidores públicos regidos pelo regime estatutário, questão não abrangida pela ADI n. 3.395” (Vol. 11).
+
+    Julgado o mérito do Tema 944 da repercussão geral, o Tribunal de origem, em nova análise da matéria, adequou-se ao referido paradigma e negou provimento à Apelação do SODF. Eis a ementa o julgado (Vol. 18, fl. 1):
+
+    “CONSTITUCIONAL, PROCESSUAL CIVIL E TRABALHISTA. AÇÃO COMINATÓRIA E CONDENATÓRIA. ENTIDADE SINDICAL. OBJETO. RECOLHIMENTO E PERCEPÇÃO DA CONTRIBUIÇÃO SINDICAL OBRIGATÓRIA. DISTRITO FEDERAL. IMPLANTAÇÃO DA CONTRIBUIÇÃO SINDICAL OBRIGATÓRIA NA FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS LOCAIS OCUPANTES DO CARGO DE CIRURGIÃO DENTISTA OU QUALQUER OUTRO CARGO PRIVATIVO DE PROFISSIONAL COM FORMAÇÃO EM ODONTOLOGIA. REPRESENTAÇÃO SINDICAL. CARACTERES. UNICIDADE E REPRESENTAÇÃO SINDICAL. AFERIÇÃO. INSERÇÃO NA RELAÇÃO PROCESSUAL DE OUTROS ENTES SINDICAIS. CONTROVÉRSIA SOBRE A REPRESENTATIVIDADE. DECISÃO PRECEDENTE. LITISCONSÓRCIO PASSIVO NECESSÁRIO. COMPOSIÇÃO PROCESSUAL. FORMAÇÃO. NECESSIDADE. INCOMPLETUDE. PRETENSÃO. CONTROVÉRSIA. ELUCIDAÇÃO. COMPETÊNCIA. SUPREMO TRIBUNAL FEDERAL. COMPETÊNCIA ATRIBUÍDA À JUSTIÇA COMUM (RE 1.089.282/AM - TEMA 994). LIDE. ENTIDADE SINDICAL QUE EFETIVAMENTE REPRESENTA A CATEGORIA. DECISÃO TRANSITADA EM JULGADO. CONTROVÉRSIA ACERCA DO ALCANCE. AÇÃO ORIGINÁRIA. CUMPRIMENTO DE SENTENÇA. SUPERIOR TRIBUNAL DE JUSTIÇA. LEGITIMIDADE. SINDSAÚDE. AFIRMAÇÃO. SENTENÇA JUDICIAL TRANSITADA EM JULGADO. PRECLUSÃO MÁXIMA. SUBMISSÃO AOS EFEITOS DA COISA JULGADA. TRÂNSITO EM JULGADO. PREJUÍZOS SUPORTADOS. POSSIBILIDADE DE AJUIZAMENTO DE AÇÃO PRÓPRIA CONTRA O SINDSAÚDE. SENTENÇA MANTIDA. APELO CONHECIDO E DESPROVIDO, EM REJULGAMENTO”.
+
+    Opostos Embargos de Declaração, foram rejeitados, nos termos da seguinte ementa (Vol. 22):
+
+    “EMBARGOS DE DECLARAÇÃO. AÇÃO COMINATÓRIA E CONDENATÓRIA. ENTIDADE SINDICAL. OBJETO. RECOLHIMENTO E PERCEPÇÃO DA CONTRIBUIÇÃO SINDICAL OBRIGATÓRIA. DISTRITO FEDERAL. IMPLANTAÇÃO DA CONTRIBUIÇÃO SINDICAL OBRIGATÓRIA NA FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS LOCAIS OCUPANTES DO CARGO DE CIRURGIÃO DENTISTA OU QUALQUER OUTRO CARGO PRIVATIVO DE PROFISSIONAL COM FORMAÇÃO EM ODONTOLOGIA. REPRESENTAÇÃO SINDICAL. CARACTERES. UNICIDADE E REPRESENTAÇÃO SINDICAL. AFERIÇÃO. INSERÇÃO NA RELAÇÃO PROCESSUAL DE OUTROS ENTES SINDICAIS. CONTROVÉRSIA SOBRE A REPRESENTATIVIDADE. DECISÃO PRECEDENTE. LITISCONSÓRCIO PASSIVO NECESSÁRIO. COMPOSIÇÃO PROCESSUAL. FORMAÇÃO. NECESSIDADE. INCOMPLETUDE. PRETENSÃO. CONTROVÉRSIA. ELUCIDAÇÃO. COMPETÊNCIA. SUPREMO TRIBUNAL FEDERAL. COMPETÊNCIA ATRIBUÍDA À JUSTIÇA COMUM (RE I.089.282/AM - TEMA 994). LIDE. ENTIDADE SINDICAL QUE EFETIVAMENTE REPRESENTA A CATEGORIA. DECISÃO TRANSITADA EM JULGADO. CONTROVÉRSIA ACERCA DO ALCANCE. AÇÃO ORIGINÁRIA. CUMPRIMENTO DE SENTENÇA. SUPERIOR TRIBUNAL DE JUSTIÇA. LEGITIMIDADE. SINDSAÚDE. AFIRMAÇÃO. SENTENÇA JUDICIAL TRANSITADA EM JULGADO. PRECLUSÃO MÁXIMA. SUBMISSÃO AOS EFEITOS DA COISA JULGADA. TRÂNSITO EM JULGADO. PREJUÍZOS SUPORTADOS. POSSIBILIDADE DE AJUIZAMENTO DE AÇÃO PRÓPRIA CONTRA O SINDSAHDE. SENTENÇA MANTIDA. APELO CONHECIDO E DESPROVIDO, EM REJULGAMENTO. ACÓRDÃO. OMISSÃO. CONTRADIÇÃO. VÍCIOS INEXISTENTES. REDISCUSSÃO DA CAUSA. VIA INADEQUADA. REJEIÇÃO.
+
+    1. Os embargos de declaração consubstanciam instrumento de aperfeiçoamento da prestação jurisdicional, destinando-se etiologicamente a purificar o julgado das omissões, contradições, obscuridades ou dúvidas que o enodoam, não traduzindo instrumento adequado para rediscussão das questões elucidadas nem para o reexame da causa, pois, examinando de modo exauriente as matérias debatidas e entregando a tutela reclamada, o decisum esgota sua destinação e o seu alcance.
+
+    2. Aferido que as questões reprisadas foram objeto de expressa e literal resolução, ensejando a apreensão de que o julgado não deixara remanescer nenhuma matéria pendente de elucidação, e que a resolução que empreendera é clara o suficiente para viabilizar a assimilação do decidido sem qualquer trabalho exegético ante a literalidade do que nele está estampado, obstando a qualificação de vicio apto a tomar opaca o desenlace ao qual chegara, a rejeição da pretensão declaratória consubstancia imperativo legal.
+
+    3. A circunstância de não se conformar com a exegese defendida pela parte acerca dos dispositivos que conferem tratamento normativo às matérias controvertidas e nortearam a conclusão que estampa não tem o condão de ensejar sua caracterização como omisso, contraditório ou obscuro, pois, tendo apreciado as questões controvertidas, conferindo-lhes o enquadramento e tratamento que se afigurara adequado, o julgado cumprira seu desiderato e exaurira o oficio que lhe estava debitado.
+
+    4. A contradição que enseja o aviamento de embargos de declaração cinge-se à contraposição interna, ou seja, quando o julgado encerrara afirmações dissonantes ou quando a argumentação que alinhavara se mostra desconforme com a conclusão alcançada, rompendo a formação dum silogismo jurídico retratado numa decisão devidamente concatenada, não se divisando quando, a par da simetria entre os fundamentos desenvolvidos e a conclusão externada, o ventilado à guisa de contradição deriva do fato de que os argumentos desenvolvidos e a conclusão alcançada dissentem das expectativas da parte. 5. Ainda que agitados para fins de prequestionamento, os embargos de declaração não estão eximidos da indispensabilidade de se conformarem com as hipóteses de cabimento expressamente assinaladas pelo legislador processual, ensejando que, em não padecendo o julgado dos vícios passíveis de serem sanados através de simples complementação, devem ser refutados por não consubstanciarem o instrumento adequado para rediscussão da causa, devendo o reexame e reforma do decidido ser perseguidos através do instrumento recursal apropriado para esse desiderato.
+
+    6. Embargos conhecidos e desprovidos. Unânime”.
+
+    Em novo Recurso Extraordinário (Vol. 24), com amparo no artigo 102, III, “a”, da Constituição, o SINDICATO DOS ODONTOLOGISTAS DO DISTRITO FEDERAL – SODF aponta violação aos artigos 5º, XVII, XVIII, XIX e XX; 8º, I e II; e 114, III, da Constituição Federal; bem como à Súmula 677 do STF: Até que lei venha a dispor a respeito, incumbe ao Ministério do Trabalho proceder ao registro das entidades sindicais e zelar pela observância do princípio da unicidade.
+
+    Aduz não prosperar o entendimento do acórdão recorrido quanto à “necessidade de litisconsorte passivo, pois basta a simples análise da carta sindical do SINDSER e do próprio SINDSAÚDE para se confirmar que não açambarcam os cirurgiões dentistas ou os profissionais de cargos privativos de odontólogos” (Vol. 24, fl. 10).
+
+    Alega que, no caso, “não há que se falar em coisa julgada (...), uma vez que o SINDISAÚDE não obteve êxito no levantamento dos valores descontados na ação de conhecimento de nº 2009.01.1.144905-3, razão pela qual há nos autos fortes razões para se reconhecer a legitimidade e representatividade do SINDICATO DOS ODONTOLOGISTAS DO DISTRITO FEDERAL de todos os servidores ocupantes de cargos públicos de cirurgião dentista ou qualquer outro privativo da odontologia, independente da nomenclatura no serviço público do Distrito Federal” (Vol. 24, fl. 15).
+
+    Prossegue, defendendo a sua legitimidade para representar os servidores públicos ocupantes dos cargos de cirurgião dentista, destacando farta documentação comprovando a representatividade da categoria pelo ora recorrente. Desse modo, sustenta que “deve incidir sobre a remuneração dos profissionais ocupantes de cargos privativos de odontólogo, na administração pública do Distrito Federal, os valores referentes à contribuição sindical compulsória, na forma do art. 578, e seguintes da CLT, bem como o seu repasse, devido em favor da entidade sindical peticionante, que efetivamente lhes representa, na condição de categoria diferenciada” (Vol. 24, fl. 21).
+
+    Em novo juízo de admissibilidade, o Tribunal de origem, ao fundamento de que “o Órgão Julgador (ID 25989216) adequou-se à orientação firmada pelo Supremo Tribunal Federal no RE 1.089.282/AM (Tema 994), nos termos do artigo 1.040, inciso I, do Código de Processo Civil”, negou, no ponto, seguimento “ao recurso extraordinário de ID 15245552”, admitindo-o, porém, quanto à alegada violação ao art. 8º, IV, da Constituição (Vol. 26).
+
+    É o relatório. Decido.
+
+    Em relação à competência para análise e julgamento da presente demanda, o Tribunal de origem, em juízo de retratação, adequou-se ao entendimento desta CORTE firmado no RE 1.089.282-RG, Rel. Min. GILMAR MENDES, Tribunal Pleno, DJe de 4/2/2021, julgado sob o rito da repercussão geral (Tema 994). Desse modo, o Recurso Extraordinário ficará restrito à análise apenas das demais questões.
+
+    No caso concreto, o Tribunal de origem, “em rejulgamento” da matéria, reformou o acórdão recorrido e negou provimento à apelação do ora recorrente, mantendo, assim, a sentença que julgou improcedentes os pedidos formulados na inicial. No que interessa, vejam-se os seguintes trechos do voto condutor do acórdão proferido em juízo de retratação (Vol. 18):
+
+    “6. Aviada pretensão pelo Sindicato dos Odontologistas do Distrito Federal — SODF volvida à cominação ao Distrito Federal da obrigação de decotar dos vencimentos de todos os profissionais detentores de cargos públicos reservados aos profissionais da odontologia e repassar-lhe o produto correlato, a pretensão, sobejando controvérsia acerca da representatividade da entidade sindical, tem como pressuposto a definição desse atributo, o que demandaria, antes da formação do titulo judicial já exsurgido (processo n° 2009.01.1.144905-3) a inserção na relação processual das entidades que demandam a mesma representação, sob pena de se reconhecer a representatividade controversa por vias transversas e sem a participação dos entes que serão afetados diretamente pelo decidido.
+
+    7. Nada obstante a não integração, na lide formadora do título executivo judicial, de todas as categorias reconhecidas como representantes dos interesses da categoria profissional individualizada, mas tendo entidade particularizada — SINDSAUDE — sido reconhecida, por decisão judicial transitada em julgado, como titular do direcionamento quanto ao recolhimento, ao repasse e a percepção dos valores exsurgidos da contribuição sindical, deve o título ser resguardado, pois amparado sob o manto da imutabilidade das decisões judiciais (coisa julgada), ainda que germinada em termos genéricos, resguardado o direito das demais entidades prejudicadas vindicaram, no tempo e modo oportunos, os prejuízos que sofreram ou vierem a sofrer (AgRg no AREsp 687.904/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/09/2017, ale 25/09/2017).
+
+    8. Acobertada a questão pela eficácia preclusiva que outorga intangibilidade à decisão irrecorrida, inviável sua rediscussão e, sobretudo, a desconsideração do decidido, devendo o trânsito procedimental guardar conformidade com o devido processo legal, que é pautado pelo princípio da segurança jurídica, tornando juridicamente inviável que o resolvido definitivamente e qualificado como coisa julgada seja ignorado no encaminhamento dos atos processuais subsequentes, daí porque, constituído o título executivo sob os contornos subjetivos e objetivos nele delineados, inviável que a parte que se considere prejudicada vindique a modulação do decidido, haja vista o advento da coisa julgada e pelos efeitos preclusivos que lhe são inerentes (CPC, art. 525).
+
+    9. Recurso conhecido e, em rejulgamento, retificado o acórdão originário. Apelo desprovido. Sentença mantida. Unânime”.
+
+    Quanto à discussão acerca da legitimidade de entidade sindical para o recebimento de contribuição sindical patronal, esta SUPREMA CORTE, no julgamento do RE 1.093.605-RG (Rel. Min. LUIZ FUX, Tribunal Pleno, DJe de 1º/6/2018), afastou a repercussão geral da matéria (Tema 997), sedimentando a seguinte tese:
+
+    “São infraconstitucionais as discussões relativas a contribuições, registro, legitimidade ou cisões das entidades sindicais.”
+
+    O acórdão ficou assim ementado:
+
+    “RECURSO EXTRAORDINÁRIO. DIREITO DO TRABALHO. CONTRIBUIÇÕES SINDICAIS. REGISTRO SINDICAL. LEGITIMIDADE SINDICAL. CISÃO DE ENTIDADE SINDICAL. MATÉRIAS DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL”.
+
+    Desse modo, a análise da pretensão recursal está situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+
+    Mesmo que fosse possível superar todos esses graves óbices, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+
+    Nesse sentido, cito ainda o seguinte precedente:
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito do Trabalho. 3. Cobrança de contribuição sindical de servidores públicos. Representatividade. Princípio da unicidade. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. 5. Reexame do acervo fático-probatório dos autos. Incidência da Súmula 279 do STF. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.” (ARE 933.175-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 7/6/2017)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+
+    Ficam AMBAS AS PARTES advertidas de que:
+
+    - a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+
+    - decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+
+    Publique-se.
+
+    Brasília, 9 de março de 2022.
+
+Ministro Alexandre de Moraes
+
+Relator
+
+Documento assinado digitalmente
