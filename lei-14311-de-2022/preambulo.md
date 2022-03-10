@@ -1,0 +1,2 @@
+Altera a Lei nº 14.151, de 12 de maio de 2021, para disciplinar o afastamento da empregada gestante, inclusive a doméstica, não imunizada contra o coronavírus SARS-Cov-2 das atividades de trabalho presencial quando a atividade laboral por ela exercida for incompatível com a sua realização em seu domicílio, por meio de teletrabalho, trabalho remoto ou outra forma de trabalho a distância, nos termos em que especifica.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
