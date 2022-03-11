@@ -1,0 +1,13 @@
+PODER LEGISLATIVO ASSEMBLEIA LEGISLATIVA DO
+
+ESTADO DO AMAZONAS
+
+Av. Mário Ypiranga Monteiro, 3950 Parque 10 de Novembro, Manaus, Amazonas CEP 69.050-030
+
+LEI COMPLEMENTAR N. 226, DE 11 DE MARÇO DE 2022.
+
+ALTERA o inciso XLIV do artigo 70 da Lei Complementar Estadual n. 17, de 23 de janeiro de 1997.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
