@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ com a seguinte ementa (fls. 502-503, e-STJ):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E COFINS. MODULAÇÃO OCORRIDA NOS EMBARGOS DE DECLARAÇÃO NO RE 574.706, COM REPERCUSSÃO GERAL. FATO NOVO. ART. 493 DO CPC/2015. NÃO CONFIGURAÇÃO. MATÉRIA DE FUNDO NÃO IMPUGNADA PELA FAZENDA EM SEU RECURSO ESPECIAL E, POR CONSEQUÊNCIA, NÃO CONHECIDA NO STJ. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A Fazenda Nacional alega omissão em relação a um fato novo (julgamento pelo STF dos Embargos Declaratórios no RE 574.706) que implica necessidade de reconhecer a nulidade do acórdão regional para que seja proferido novo julgamento em conformidade com a decisão do STF.
+2. Com efeito, na hipótese em tela ocorreu o superveniente julgamento dos Embargos de Declaração pelo STF no RE 574.706 (Tema 69), ocasião em que houve a modulação dos efeitos do julgamento em Repercussão Geral que entendeu pela exclusão do ICMS (destacado na nota fiscal) da base de cálculo do PIS e da COFINS, de modo que a produção de efeitos do julgado se dê após 15.3.2017, ressalvadas as ações judiciais e administrativas protocoladas até a data da sessão em que proferido o julgamento.
+3. A matéria foi pacificada pela Segunda Turma no julgamento dos EDcl no AgInt no AREsp 1.821.102/SC, ocorrido em 5.10.2021, Rel. Ministra Assusete Magalhães, ocasião na qual se entendeu pela não configuração do fato superveniente.
+4. Para o reconhecimento de fato superveniente (art. 493 do CPC/2015), é necessário, além do conhecimento do recurso, que haja relação entre o objeto recursal e aludido fato superveniente. Trata-se de decorrência lógica do princípio tantum devolutum quantum apellatum.
+5. No caso, a Fazenda Nacional, em seu Recurso Especial, impugnou tão somente a questão relativa ao critério de exclusão do ICMS da base de cálculo do PIS e da Cofins: se o ICMS a recolher ou o ICMS a destacar. A questão relativa à modulação de efeitos, que diz respeito à própria exclusão de ICMS da base de cálculo do PIS e da Cofins (questão preliminar ao critério de cálculo), não foi objeto do Recurso Especial.
+6. Não há como se alegar omissão sobre matéria que não foi objeto de impugnação em Recurso Especial e, por consequência, não chegou a ser conhecida nesta Corte Superior.
+7. Nos termos da jurisprudência desta Corte, "a observância dos precedentes em Repercussão Geral, conforme previsão do art. 927, III, do CPC/2015, será feita caso se venha a examinar o mérito da causa" (STJ, Aglnt nos EDcl no AgRg no Ag 1.216.292/DF, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 9.5.2018), o que não é a hipótese dos autos.
+8. Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração constituem recurso de rígidos contornos processuais e destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+9. Embargos de Declaração rejeitados.
+Em síntese, a embargante alega que "houve erro material no julgado, tendo em vista que a ementa de fls. 502/503 trata de assunto totalmente estranho aos autos, qual seja, EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E COFINS" (fl. 514, e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL VERIFICADO. EMENTA ALHEIA AOS AUTOS. NOVA PUBLICAÇÃO DA EMENTA/ACORDÃO. ACOLHIMENTO DOS EMBARGOS SEM EFEITOS INFRINGENTES.
+1. Os Embargos Declaratórios são cabíveis para a modificação do julgado que se apresenta omisso, contraditório ou obscuro, bem como para sanar possível erro material existente no julgado.
+2. Em análise detida do decisum embargado, constato que assiste razão à parte embargante, no tocante à ocorrência de erro material na publicação da Ementa/Acórdão.
+3. Na publicação da Ementa/Acórdão do dia 16.12.2021, no DJe, fl. 510, e-STJ, foi publicado acórdão alheio ao processo.
+3. Diante de tal erro, torna-se necessária nova publicação da Ementa/Acórdão.
+4. Embargos de Declaração acolhidos, sem efeitos infringentes, para corrigir erro material.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 10.2.2022.
+O objetivo dos Embargos de Declaração é a complementação ou a declaração do verdadeiro sentido de uma decisão eivada de omissão, contradição, obscuridade ou erro material, não possuindo, em regra, natureza de recurso com efeito modificativo.
+Em análise detida do decisum embargado, constato que assiste razão à parte embargante, no tocante à ocorrência de erro material na publicação da Ementa/Acórdão.
+No Voto, constou a seguinte ementa (fls. 505-506, e-STJ):
+PROCESSUAL CIVIL E ADMINISTRATIVO. ALEGAÇÃO GENÉRICA DE OMISSÃO DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF, APLICADA POR ANALOGIA. MILITAR TEMPORÁRIO NA IMINÊNCIA DE LICENCIAMENTO EMENTA EM RAZÃO DO TÉRMINO DO TEMPO DE SERVIÇO. PAGAMENTO PRÉVIO DE SUA PARTE NO FUSEX PARA AUTORIZAÇÃO DE PROCEDIMENTOS MÉDICOS EMERGENCIAIS. PORTARIA 048-DGP/2008. DISPOSIÇÃO NORMATIVA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. INVIABILIDADE. ALÍNEA "C" PREJUDICADA.
+1. A União limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos Embargos Declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+2. A solução da controvérsia implica exame de violação reflexa ou indireta a texto de lei federal, já que o caso necessita primordialmente da análise da Portaria Normativa 048-DGP, de 28.2.2008.
+3. Para efeito de admissibilidade do Recurso Especial, à luz de consolidada jurisprudência do STJ, o conceito de lei federal (art. 105, III, "a", da CF) compreende tanto atos normativos (de caráter geral e abstrato) produzidos pelo Congresso Nacional (lei complementar, ordinária e delegada), como medidas provisórias e decretos expedidos pelo Presidente da República. Nesse sentido: EDcl no REsp 663.562/RJ, Rel. Ministro Castro Meira, Segunda Turma, DJ 7.11.2005, p. 212; REsp 627.977/AL, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 7.12.2006; EREsp 663.562/RJ, Rel. Ministro Ari Pargendler, Corte Especial, DJ 18.2.2008, p. 21.
+4. Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa a atos normativos secundários produzidos por autoridades administrativas, quando analisados isoladamente - sem vinculação direta ou indireta a dispositivos legais federais -, tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos das autarquias, regimentos internos de Tribunais, enunciado de súmula (cf. Súmula 518/STJ) ou notas técnicas. Precedentes do STJ: REsp 88.396, Rel. Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, DJ de 13.8.1996; AgRg no Ag 573.274, Rel. Ministro Franciulli Netto, Segunda Turma, DJ de 21.2.2005; REsp 352.963, Rel. Ministro Castro Meira, Segunda Turma, DJ 18.4.2005; REsp784.378, Rel. Ministro José Delgado, Primeira Turma, DJ 5.12.2005; AgRg no Ag 21.337, Rel. Ministro Garcia Vieira, Primeira Turma, DJ de 3.8.1992; REsp. 169.542/SP, Rel. Ministro Sálvio de Figueiredo, Quarta Turma, DJ 21.9.1998; AgRg no REsp 958.207/RS, Rel. Ministro Luiz Fux, Primeira Turma, DJe 3.12.2010; AgRg no REsp 1.430.240/RN, Rel. Ministro Humberto Martins, Segunda Turma, DJe 26.8.2014.
+5. Fica prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarrar em óbice sumular quando do exame do Recurso Especial pela alínea "a"" do permissivo constitucional.
+6. Agravo Interno não provido.
+Porém, na publicação da Ementa/Acórdão do dia 16.12.2021, no DJe, fl. 510, e-STJ, foi publicado acórdão alheio ao processo. Diante de tal erro, torna-se necessária nova publicação da ementa/acórdão.
+Nesse sentido:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO. EMENTA. ERRO MATERIAL. NOVA PUBLICAÇÃO. REQUISITOS. AMBIGÜIDADE. OBSCURIDADE. CONTRADIÇÃO. OMISSÃO. INEXISTÊNCIA. EFEITO MODIFICATIVO. INVIABILIDADE.
+Ementa com erro material quanto ao seu conteúdo enseja nova publicação.
+Cabem embargos declaratórios quando a decisão embargada padecer, efetivamente, de ambigüidade, obscuridade, contradição ou omissão.
+Não servem os aclaratórios para conferir efeito modificativo ao julgado.
+Embargos de declaração acolhidos, sem efeitos modificativos.
+(EDcl nos EDcl no HC 26488/SP, Ministro PAULO MEDINA, SEXTA TURMA, DJ 06/02/2006)
+Ante o exposto, acolho os Embargos de Declaração, sem efeitos infringentes, para determinar nova publicação da Ementa/Acórdão de acordo com a Ementa de fls. 505-506, e-STJ. "
+É o voto.
