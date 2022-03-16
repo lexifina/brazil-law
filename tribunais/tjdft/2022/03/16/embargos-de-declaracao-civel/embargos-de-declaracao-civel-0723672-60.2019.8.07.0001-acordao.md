@@ -1,0 +1,116 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0723672-60.2019.8.07.0001APELANTE(S)SIMONE ALVES DE SEIXAS,RUBEN DE SEIXAS NETO e VIA EMPREENDIMENTOS IMOBILIARIOS S/A (EM RECUPERAÇÃO JUDICIAL)APELADO(S)VIA EMPREENDIMENTOS IMOBILIARIOS S/A (EM RECUPERAÇÃO JUDICIAL),RUBEN DE SEIXAS NETO e SIMONE ALVES DE SEIXASRelatoraDesembargadora DIVA LUCY DE FARIA PEREIRA Acórdão Nº1408334
+
+EMENTA
+
+ EMBARGOS DE DECLARAÇÃO EM APELAÇÕES. ACLARATÓRIOS OPOSTOS PELOS AUTORES. CONTRADIÇÃO EXISTENTE. ACLARATÓRIOS OPOSTOS PELA RÉ. OBSCURIDADE E ERRO DE FATO. VÍCIOS ELENCADOS NO ART. 1.022 DO CPC INEXISTENTES. INCONFORMISMO. REEXAME DA MATÉRIA. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO DOS AUTORES CONHECIDOS E ACOLHIDOS. EMBARGOS DE DECLARAÇÃO DA RÉ CONHECIDOS E REJEITADOS.
+
+1. É possível a oposição de embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz, de ofício ou a requerimento, e corrigir erro material eventualmente verificado no decisum (art. 1.022 do CPC).
+
+2. Embargos dos autores. Contradição existente. Acórdão integrado para alterar o item ii do dispositivo e determinar a incidência de correção monetária e juros de mora de 1% ao mês a partir da citação.
+
+3. Embargos da ré. Inexistem os vícios apontados nos embargos de declaração se, no acórdão embargado, a matéria indicada pelo recorrente foi devidamente apreciada pelo colegiado, o qual entendeu que, conquanto razoáveis não pareçam ser, as disposições contratuais, postas em contrato de adesão pelo fornecedor/prestador de serviço, possuem expressão econômica e são de livre disposição, visto que afetas a direito patrimonial disponível. Ademais, não tem cabimento fugir à regra do art. 47 do CDC: As cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor.
+
+4. Embargos de declaração dos autores conhecidos e acolhidos para corrigir contradição. Embargos de declaração da ré conhecidos e rejeitados.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, DIVA LUCY DE FARIA PEREIRA - Relatora, CARMEN BITTENCOURT - 1º Vogal e TEÓFILO CAETANO - 2º Vogal, sob a Presidência da Senhora Desembargadora SIMONE LUCINDO, em proferir a seguinte decisão: CONHECER DOS EMBARGOS DE DECLARAÇÃO OPOSTOS PELA PARTE AUTORA E DAR-LHES PROVIMENTO. CONHECER DOS EMBARGOS DE DECLARAÇÃO OPOSTOS PELA PARTE RÉ E NEGAR-LHES PROVIMENTO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de Março de 2022
+
+Desembargadora DIVA LUCY DE FARIA PEREIRARelatora
+
+RELATÓRIO
+
+Simone Alves Seixas, Ruben de Seixas Neto e Via Empreendimentos opõem embargos de declaração contra acórdão proferido por esta e. 1ª Turma Cível (Id 29077597) que negou provimento ao recurso da empresa ré e deu provimento parcial à apelação interposta pelos autores.
+
+Colaciona-se abaixo a ementa do acórdão embargado, in verbis:
+
+APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO. INADIMPLEMENTO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. PROMITENTE/VENDEDORA EM RECUPERAÇÃO JUDICIAL. I - RECURSO DA RÉ. PRELIMINAR DE INOVAÇÃO RECURSAL SUSCITADA PELOS AUTORES EM CONTRARRAZÕES REJEITADA. REJEIÇÃO. ATUALIZAÇÃO MONETÁRIA E JUROS DE MORA. MATÉRIA DECIDIDA NA SENTENÇA E IMPUGNADA PELA RÉ EM EMBARGOS DE DECLARAÇÃO. JUÍZO POSITIVO DE ADMISSIBILIDADE FIRMADO PARA O RECURSO DA RÉ. II- MÉRITO. AÇÃO INDENIZATÓRIA. COMPRA E VENDA DE IMÓVEL ADQUIRIDO NA PLANTA. APLICAÇÃO DO CDC. HIPOTECA. CONSTRUTORA QUE INCORRE EM ATRASO NO CUMPRIMENTO DA OBRIGAÇÃO DE DAR BAIXA DO GRAVAME. PARCIAL INADIMPLEMENTO DO CONTRATO. HIPÓTESE AUTORIZADORA DA INCIDÊNCIA DE MULTA MORATÓRIA. IMPOSSIBILIDADE DE CUMULAÇÃO DE CLÁUSULA PENAL COMPENSATÓRIA E MORATÓRIA PARA IDÊNTICO FATO GERADOR. PRINCÍPIO NE BIS IN IDEM. CLÁUSULA MORATÓRIA. PENALIDADE SEVERA ESTABELECIDA PARA A HIPÓTESE DE INADIMPLEMENTO DA PROMITENTE/VENDEDORA. DISPOSIÇÃO POR ELA UNILATERALMENTE ESTABELECIDA EM CONTRATO DE ADESÃO. REGRAMENTO PENSADO, REFLETIDO, SOPENSADO E DISPONIBILIZADO AO MERCADO DE CONSUMO PELA CONSTRUTORA/VENDEDORA DE IMÓVEIS NA PLANTA. NORMA DE EXPRESSÃO ECONÔMICA. TEMA AFETO A SUA LIVRE DISPOSIÇÃO. DIREITO DISPONÍVEL DA CONTRUTORA. EXCESSO QUE NÃO ADMITE MODULAÇÃO EM FAVOR DA PROMITENTE/VENDEDORA TENDO EM CONTA AS ESPECIALIDADES QUE CARACTERIZAM O CONTRATO DE CONSUMO. PENA PECUNIÁRIA. REDUÇÃO EQUITATIVA. NÃO CABIMENTO. CORREÇÃO MONETÁRIA E JUROS DE MORA. INCIDÊNCIA. DATA DO PEDIDO DA RECUPERAÇÃO JUDICIAL. III - CRÉDITO CONCURSAL NÃO HABILITADO NO PROCESSO DE RECUPERAÇÃO JUDICIAL DA SOCIEDADE EMPRESÁRIA DEVEDORA. OPÇÃO DOS CREDORES. LEGÍTIMO EXERCÍCIO DA FACULDADE DE BUSCAR A SATISFAÇÃO DO CRÉDITO PELA VIA ORDINÁRIA. OPÇÃO QUE OBRIGA AGUARDAR O ENCERRAMENTO DO PROCESSO DE RECUPERAÇÃO JUDICIAL. POSSIBILIDADE QUE AFASTA A INCIDÊNCIA DA LEI 11.101/2005. SENTENÇA HÍGIDA DADA A AUSÊNCIA DE SUBMISSÃO DO CRÉDITO AO PLANO DE RECUPERAÇÃO. RESERVA DE VALORES SEQUER POSTULADA AO ADMINISTRADOR JUDICIAL. INTERESSE MANIFESTO EM PROSSEGUIR COM A EXECUÇÃO INDIVIDUAL APÓS O FIM DA RECUPERAÇÃO JUDICIAL. IV - RECURSO DA RÉ CONHECIDO E DESPROVIDO. RECURSO DOS AUTORES CONHECIDO E PARCIALMENTE PROVIDO. 1. Inovação recursal. Vício não verificado no recurso da empresa ré, porquanto a sentença delimitou temporalmente a incidência de verbas relativas a correção monetária e juros de mora, tendo a ré/apelante se insurgido contra a disciplina estabelecida para atualização do valor da condenação ao opor embargos de declaração, que foram rejeitados. Procedimento em que observado o devido sequenciamento e ordem dos atos processuais para conhecimento nesta instância recursal da matéria atinente ao termo inicial da correção monetária e dos juros de mora incidentes sobre o valor da multa aplicada à ré/recorrente. Preliminar de não conhecimento do recurso da ré por inovação recursal rejeitada. 2. Nos termos do art. 49, caput, da Lei 11.101/2005, submetidos aos efeitos da recuperação judicial estão os créditos existentes segundo critério de verificação da data em que ocorreu seu fato gerador. 2.1. Quanto ao fato gerador, tem-se como a situação decorrente da atividade empresarial realizada antes do pedido de recuperação judicial, sejam fatos praticados ou negócios celebrados pela sociedade empresária em momento 2.2. A regra positivada no § 6º do art. 10 da Lei 11.101/2005 não impõe nem mesmo a habilitação retardatária de crédito constituído antes da recuperação judicial - de natureza concursal, portanto - e com previsão de sujeição aos efeitos da recuperação judicial, conforme plano recuperacional apresentado pelo administrador judicial. 2.3. Não estando legalmente obrigado o credor a habilitar seu crédito nem mesmo por habilitação retardatária, plenamente possível que opte por exercer a faculdade de satisfazer o direito creditório de que é titular pelas vias ordinárias, seja por procedimento executivo, seja por meio de cumprimento de sentença. Mas, a opção pela execução individual obriga o credor que exerceu a faculdade de excluir seu crédito da recuperação a aguardar o encerramento do processo de recuperação judicial para dar andamento ao procedimento executivo que houver manejado. 3. Contrato de Promessa de Compra e Venda de Unidade Imobiliária em Construção. Ajuste submetido à legislação consumerista, porquanto as figuras do promitente-comprador e dos promitentes-vendedores se subsomem, respectivamente, às figuras do consumidor e do fornecedor (arts. 2º e 3º da Lei n. 8.078/90). 3.1. A cláusula penal compensatória e moratória. A multa de natureza compensatória funciona como indenização pré-fixada pelo absoluto descumprimento da obrigação, podendo configurar alternativa a benefício do credor, nos termos do art. 410 do CC. A multa de natureza moratória, cujo objetivo é punir e impelir a parte inadimplente a cumprir a obrigação tem aplicação quando caracterizado inadimplemento relativo, de maneira que terá o credor o arbítrio de exigir a satisfação da pena cominada, juntamente com o desempenho da obrigação principal, na forma do art. 411 do CC. Penalidades com relevantes elementos distintivos, mas de impossível cumulação porque, apesar das diferenças que as caracterizam, são destinadas, ambas, a penalizar a inexecução do contrato. A circunstância de estarmos a cuidar de contrato de adesão, em relação de consumo, no qual foram estabelecidas disposições segundo exclusiva determinação do fornecedor/prestador de serviço, não abre exceção ao princípio ne bis in idem, que veda a repetida punição pela mesma prática ilícita. 4. As regras orientadoras da relação jurídica estabelecida entre os litigantes estão postas em contrato de adesão com estipulações feitas unilateralmente pela empresa ré, promitente vendedora. Se excesso há, e efetivamente parece haver, decorre da aplicação de normas contratuais por ela pensadas, refletidas e sopesadas para disciplina de direito dispositivo que titulariza como promitente vendedora. Situação concreta que afasta a possibilidade de conferir interpretação diversa da que decorre do entendimento literal, seja porque em prejuízo dos consumidores/aderentes, seja porque, conquanto razoáveis não pareçam ser, são disposições contratuais postas em contrato de adesão pelo fornecedor/prestador de serviço, possuem expressão econômica e são de livre disposição, visto que afetas a direito patrimonial disponível. Ademais, não tem cabimento fugir à regra do art. 47 do CDC: As cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor.  5. Preliminar de não conhecimento do recurso da ré rejeitada. Recurso da pessoa jurídica ré conhecido e desprovido. Recurso dos autores conhecido e parcialmente provido. Honorários majorados. (Acórdão 1370330, 07236726020198070001, Relator: DIVA LUCY DE FARIA PEREIRA, 1ª Turma Cível, data de julgamento: 15/9/2021, publicado no DJE: 21/9/2021. Pág.: Sem Página Cadastrada.)
+
+Em suas razões recursais (Id 29367434), os autores sustentam a existência de contradição no acórdão. Dizem que a redação da parte final do “item ii” do dispositivo limita a incidência de juros moratórios e correção monetária até a data do pedido de reabilitação formulado pela ré, contrariando, assim, as razões de decidir, nas quais afastou tal limitação. Consideram evidenciada a contradição entre as razões de decidir, que mantiveram a sentença de origem quanto à aplicação do índice de 1% ao mês para os juros de mora, a contar da citação e a parte final do “item ii”, na parte dispositiva do acórdão embargado.
+
+Pretendem a admissão dos aclaratórios para sanar a contradição apontada e, em conformidade com as razões de decidir, alterar a parte final do ”item ii” para determinar a incidência de juros e correção monetária conforme deferido na sentença, ou seja, “com incidência de juros de mora de 1% ao mês, a contar da citação nos autos”.
+
+Requer, ao final, o “conhecimento e provimento dos presentes embargos de declaração, a fim de que a citada contradição seja suprimida, e que, por conseguinte, seja aperfeiçoado o r. Acórdão na forma como acima apontado, realizando, portanto, o seu devido processamento e julgamento”.
+
+Em suas razões recursais (Id 29468909), a empresa ré pugna pelo esclarecimento de obscuridade no ítem 4 da ementa. Informa que a razão da integração residiria em reparar premissa fática equivocada. Diz que, em 2001, assim como diversas construtoras, se viu obrigada a assinar um TAC – termo de compromisso de ajustamento de conduta com o MPDFT, o qual impunha a modificação/inserção de diversas cláusulas em seus contratos. Assevera terem sido impostas pesadas multas às construtoras como resposta aos consumidores que ansiavam por maiores garantias contra o atraso na entrega de obras.
+
+Afirma não ter havido livre estipulação das cláusulas contratuais pela construtora e questiona por que não poderia contar com o benefício do art. 413 do CC, pois a obrigação foi cumprida em parte e o montante da penalidade seria excessivo.
+
+Ao final, requer o “acolhimento dos presentes embargos de declaração, a fim de que a obscuridade apontada seja esclarecida e que, por conseguinte, seja aperfeiçoado o v. acórdão, conhecendo-se e provendo-se o presente recurso, realizando, portanto, o seu devido processamento e julgamento”.
+
+Os autores Simone e Ruben pugnam pelo desprovimento dos aclaratórios opostos pela empresa ré (Id 30622699).
+
+Intimada a se manifestar sobre o recurso dos autores, a empresa ré quedou-se inerte (Id 30996912).
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - RelatoraPresentes os pressupostos de admissibilidade, conheço dos embargos de declaração opostos pelos autores e pela empresa ré.
+
+Nos termos do art. 1.022 do CPC, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz, de ofício ou a requerimento, e corrigir erro material no acórdão recorrido.
+
+Dos embargos de declaração dos autores
+
+A contradição evidenciadora de defeito é aquela interna, verificada no pronunciamento judicial em que se estabelecem fundamentos contrapostos como razões de decidir ou entre estes e o dispositivo da decisão.
+
+No presente caso, os autores/embargantes apontam ocorrência de contradição no acórdão, pois o dispositivo, em seu item ii, teria contrariado as razões de decidir, na medida em que delimitou a incidência de juros moratórios e correção monetária até a data do pedido de reabilitação formulado pela ré e não a partir da citação, conforme exposto na fundamentação do decisum.
+
+Com razão os embargantes.
+
+De fato, nas razões de decidir foi consignado que a lei instituída no intuito de viabilizar a superação de crise econômico-financeira de sociedades empresárias devedoras confere ao credor a prerrogativa de optar pela habilitação de seu crédito no processo de recuperação judicial ou, se decidir não habilitá-lo, pela execução individual após o término daquele procedimento, conforme previsto no § 6º do art. 10 da Lei 11.101/2005.
+
+Dessa forma, foi considerada escorreita a sentença de primeiro grau, pois inexiste nos autos notícia de terem os autores promovido a habilitação de seu crédito no procedimento de recuperação judicial da ré, afastando, assim, a disciplina do art. 9º, II, da Lei 11.101/2005.
+
+A contradição apontada pelos autores/embargantes, portanto, deve ser eliminada para estabelecer a correta incidência dos juros de mora e correção monetária, a partir da citação realizada nos autos.
+
+Dos embargos de declaração da empresa ré
+
+A empresa ré sustenta a ocorrência dos vícios de obscuridade e premissa fática equivocada no acórdão. Afirma não ter sido levado em conta que ela e outras construtoras foram compelidas a assinar TAC- Termo de Compromisso de ajustamento de Conduta com o MPDFT, o que resultou na imposição de pesadas multas às construtoras. Afirma, assim, não ter havido livre estipulação das cláusulas contratuais pela construtora. Argumenta a razão de poder contar com o benefício do art. 413 do CC, pois a obrigação foi cumprida em parte e o montante da penalidade seria excessivo.
+
+Sem razão a embargante.
+
+No caso, o acórdão embargado não padece do vício de obscuridade/erro de fato apontados.
+
+É que, conforme se verifica do Id 29077597, pp. 15-16, no voto condutor do acórdão, foi consignado que:
+
+Vale registrar que a circunstância de estarmos a cuidar de contrato de adesão, em relação de consumo, no qual foram estabelecidas disposições segundo exclusiva determinação do fornecedor/prestador de serviço, não abre exceção ao princípio ne bis in idem, que veda a repetida punição pela mesma prática ilícita. Inviável, de consequência, a cumulação para um mesmo fato gerador de sanções de natureza distinta.
+
+No caso, tendo em conta entrega da prestação devida fora do tempo contratualmente estabelecido, incide somente a multa moratória prevista na alínea “b” da Cláusula 7.3, porque, conquanto de forma tardia, foi adimplida a obrigação de baixar o gravame.
+
+(...)
+
+Lembro que as regras orientadoras da relação jurídica estabelecida entre os litigantes constam de contrato de adesão com estipulações feitas unilateralmente pela empresa ré, promitente vendedora. Se excesso há, e efetivamente parece haver, decorre da aplicação de normas contratuais por ela pensadas, refletidas e sopesadas para disciplina de direito dispositivo que titulariza como promitente vendedora; cláusulas essas – Cláusula 1.5 c/c Cláusula 7.3 – claras e inequívocas em suas estipulações.
+
+Situação concreta que afasta a possibilidade de conferir interpretação diversa da que decorre do entendimento literal, seja porque em prejuízo dos consumidores/aderentes, seja porque conquanto razoáveis não pareçam ser, são disposições contratuais postas em contrato de adesão pelo fornecedor/prestador de serviço, possuem expressão econômica e são de livre disposição, visto que afetas a direito patrimonial disponível. Ademais, não tem cabimento fugir à regra do art. 47 do CDC: As cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor.
+
+Dessa forma, a afirmação de não terem sido livremente estipuladas as cláusulas contratuais carece de verossimilhança, pois o Termo de Conduta assinado com o MPDFT, conquanto se revista de obrigatoriedade, não obrigou a construtora ré a estabelecer cláusulas com multas no percentual previsto no contrato. Poderia a empresa ré ter estabelecido cláusulas menos duras para o inadimplemento tanto dela quanto do consumidor. Se não o fez, deve cumprir com o estipulado.
+
+Nesse contexto, tem-se que o embargante, na verdade, apresenta apenas inconformismo com os fundamentos jurídicos adotados pela 1ª Turma Cível para negar provimento ao recurso de apelação interposto pela empresa recorrente. Todavia, essa pretensão não está de acordo com a finalidade integrativo-retificadora dos embargos de declaração.
+
+Sobre o tema, destacam-se os seguintes precedentes deste Tribunal de Justiça:
+
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DÉBITO. PAGAMENTO ESPONTÂNEO. INEXISTÊNCIA. COTAS SOCIETÁRIAS DE TITULARIDADE DO EXECUTADO. PENHORA. AUSÊNCIA DE OUTROS BENS. LEGITIMIDADE. PREVISÃO LEGAL (CPC, ART. 835, IX). VIOLAÇÃO AO PRINCÍPIO DA AFECCTIO SOCIETATIS. INEXISTÊNCIA. LEGALIDADE. NATUREZA ALIMENTAR. NÃO CONFIGURAÇÃO. DEFERIMENTO DA CONSTRIÇÃO. AGRAVO PROVIDO. ACÓRDÃO. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DA CAUSA. VIA INADEQUADA. REJEIÇÃO. OMISSÃO NO DISPOSITIVO DO ACÓRDÃO. SANEAMENTO. ACOLHIMENTO DA PRETENSÃO DECLARATÓRIA. 1. Os embargos de declaração consubstanciam instrumento de aperfeiçoamento da prestação jurisdicional, destinando-se etiologicamente a purificar o julgado das omissões, contradições, obscuridades ou contradições que o enodoam, não traduzindo o instrumento adequado para rediscussão das questões elucidadas nem para o reexame da causa, pois, examinando de modo exauriente as matérias debatidas e entregando a tutela reclamada, o decisum esgota sua destinação e o seu alcance. 2. A circunstância de não se conformar com a exegese defendida pela parte acerca dos dispositivos que conferem tratamento normativo às matérias controvertidas e nortearam a conclusão que estampa não tem o condão de ensejar sua caracterização como omisso, contraditório ou obscuro pois, tendo apreciado as questões controvertidas, conferindo-lhes o enquadramento e tratamento que se afigurara adequado, o julgado cumprira seu desiderato e exaurira o ofício que lhe estava debitado. 3. Os embargos de declaração consubstanciam recurso de conhecimento vinculado, estando vocacionados exclusivamente a suprir eventuais lacunas de omissão, contradição, obscuridade ou, ainda, para correção de erro material que maculem o julgado, e não a ensejarem novo rejulgamento da causa ou ao reconhecimento de vícios que não se enquadrem naquele estratificação, ensejando que, aviados com o escopo de ser promovido novo exame da causa, e não de aprimoramento da prestação jurisdicional, devem ser rejeitados como imperativo legal decorrente do devido processo legal (CPC, art. 1.022). 4. Aferido que, conquanto assinalado na fundamentação o alcance do provimento do recurso resolvido, a parte dispositiva do julgado incorrera em omissão ao delineá-lo, a lacuna deve ser suprida de forma a ser o decidido purificado do vício que o maculara e retratar a resolução efetivamente conferida ao inconformismo, prestando com exatidão a prestação demandada. 5. Embargos conhecidos. Desprovidos o do agravado e provido o da agravante. Unânime. (Acórdão 1210422, 07033156220198070000, Relator: TEÓFILO CAETANO, 1ª Turma Cível, data de julgamento: 16/10/2019, publicado no DJE: 4/11/2019. Pág.: Sem Página Cadastrada.)
+
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. REJULGAMENTO. ART. 1.040, II, DO CPC/2015. RECURSO REPETITIVO. APARENTE DIVERGÊNCIA ENTRE ACÓRDÃO LOCAL E ORIENTAÇÃO DO STJ. TEMAS 970 E 971. PROMESSA DE COMPRA E VENDA DE IMÓVEL. INVERSÃO DE CLÁUSULA PENAL. CUMULAÇÃO ENTRE LUCROS CESSANTES E CLÁUSULA PENAL MORATÓRIA. OMISSÃO E CONTRADIÇÃO NÃO CARACTERIZADAS. MERO INCONFORMISMO. RECURSO CONHECIDO E NÃO PROVIDO. 1. Os embargos de declaração possuem seus limites desenhados a partir do desígnio de integrar a decisão atacada diante da existência de vícios de omissão, obscuridade e contradição ou, ainda, para correção de eventual erro material.  2. A discordância em torno da inteligência do julgado revela mero inconformismo da parte e não caracteriza vício integrativo (omissão, contradição, obscuridade) apto a ser deduzido na via estreita dos embargos de declaração.  3. Embargos de declaração conhecidos e não providos. (Acórdão 1224582, 00064535120148070001, Relator: SIMONE LUCINDO, 1ª Turma Cível, data de julgamento: 18/12/2019, publicado no DJE: 30/1/2020. Pág.: Sem Página Cadastrada.)
+
+Ante o exposto,
+
+i) conheço e acolho os embargos de declaração oposto pelos autores para sanar a contradição apontada, a fim de fazer constar no item ii do dispositivo do voto condutor do acórdão:
+
+ii) conheço da apelação interposta pelos autores e a ela DOU PARCIAL PROVIMENTO para reformar a sentença afastando a redução da multa aplicada conforme disposição expressa na Cláusula 7.3, alínea “b”, do contrato firmado entre as partes (Id 20163161), com o que mantenho, a título de multa a ser paga pela ré aos autores, o percentual de 0,5% (meio por cento) sobre o valor do imóvel (R$ 800.500,00 – oitocentos mil e quinhentos reais), a incidir no período de 6/9/2017 a 8/1/2019, com correção monetária e incidência de juros moratórios de 1% ao mês a contar da citação nos autos.
+
+ii) inexistindo os vícios de obscuridade e erro de fato a serem sanados, conheço e rejeito os embargos de declaração opostos pela empresa ré.
+
+É como voto.
+A Senhora Desembargadora CARMEN BITTENCOURT - 1º Vogal Com o relatorO Senhor Desembargador TEÓFILO CAETANO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DOS EMBARGOS DE DECLARAÇÃO OPOSTOS PELA PARTE AUTORA E DAR-LHES PROVIMENTO. CONHECER DOS EMBARGOS DE DECLARAÇÃO OPOSTOS PELA PARTE RÉ E NEGAR-LHES PROVIMENTO. DECISÃO UNÂNIME
