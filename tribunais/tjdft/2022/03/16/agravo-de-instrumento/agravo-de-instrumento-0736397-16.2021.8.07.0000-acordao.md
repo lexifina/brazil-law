@@ -1,0 +1,107 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+
+5ª Turma Cível
+
+Processo N.
+AGRAVO DE INSTRUMENTO 0736397-16.2021.8.07.0000
+
+AGRAVANTE(S)
+DISTRITO FEDERAL
+
+AGRAVADO(S)
+ROSIMARY SOARES DE ARAUJO
+
+Relatora
+Desembargadora ANA CANTARINO
+
+Acórdão Nº
+1408086
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA COLETIVA CONTRA A FAZENDA PÚBLICA. NATUREZA ADMINISTRATIVA. CORREÇÃO MONETÁRIA. ÍNDICE APLICÁVEL. TEMAS 810 E 905. IPCA-E. INCIDÊNCIA. OFENSA À COISA JULGADA. INEXISTÊNCIA.
+
+1. O Supremo Tribunal Federal, por meio do julgamento do Recurso Extraordinário nº 870.947/SE, com reconhecida repercussão geral, consolidou a orientação do tema 810 no sentido de que é inconstitucional o artigo 1º-F da Lei nº 9.494/1997 para a atualização monetária das condenações contra a Fazenda Pública e fixou a aplicação do Índice Nacional de Preços ao Consumidor Amplo Especial – IPCA-E às atualizações monetárias das condenações judiciais da Fazenda Pública desde 26/06/2009, momento em que entrou em vigor a Lei nº 11.960/2009, sem modulação de efeitos.
+
+2. O Superior Tribunal de Justiça, ao julgar o REsp 1492221/PR, sob o rito dos Recursos Repetitivos, fixou a tese 905, segundo a qual, nas condenações judiciais da Fazenda Pública referentes a servidores e empregados públicos a partir de julho de 2009, a correção monetária deve ser calculada com base no IPCA-E.
+
+3. Recurso conhecido e improvido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 5ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ANA CANTARINO - Relatora, MARIA IVATÔNIA - 1º Vogal e JOÃO LUIS FISCHER DIAS - 2º Vogal, sob a Presidência do Senhor Desembargador ANGELO PASSARELI, em proferir a seguinte decisão: CONHECER. NEGAR PROVIMENTO AO AGRAVO DE INSTRUMENTO. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de Março de 2022
+
+Desembargadora ANA CANTARINORelatora
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento interposto pelo DISTRITO FEDERAL contra a decisão, proferida nos autos do cumprimento de sentença coletiva (processo nº 0705766-35.2021.8.07.0018 – id 105900363), que rejeitou a impugnação apresentada pelo agravante, estabelecendo o IPCA-E como índice de correção monetária do débito exequendo.
+
+Em suas razões, o agravante sustenta, em suma,  que a inobservância aos parâmetros fixados no título judicial quanto à correção monetária afronta a coisa julgada e a segurança jurídica, em razão da modificação do índice estabelecido em decisão já transitada em julgado, devendo prevalecer a TR.
+
+Destaca a necessidade de se observar o Tema 905 do STJ e o Tema 733 do STF, que preservaram a correção monetária já acobertada pela imutabilidade da coisa julgada, bem como, no caso concreto, a TR fora utilizada pelo próprio exequente no primeiro cálculo apresentado.
+
+Defende ainda a presença dos requisitos autorizadores da concessão de efeito suspensivo: a probabilidade do direito, consoante a argumentação exposta; e o perigo de dano, ante o risco de expedição de RPV ou precatório.
+
+Requer, ao final, o conhecimento e o provimento do recurso, concedendo-se o efeito suspensivo, para restabelecer a TR como índice de correção monetária.
+
+Isento de preparo (art. 1.007, §1º, CPC).
+
+A decisão de id 30736922 deferiu o pedido de efeito suspensivo.
+
+Contrarrazões pugnando pelo não conhecimento ou improvimento do recurso (id 31092650).
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora ANA CANTARINO - Relatora
+Inicialmente, nada a prover quanto ao pedido em contrarrazões de não conhecimento do recurso, uma vez que a agravada sequer ventilou as respectivas razões de fato e direito quanto à ausência dos requisitos intrínsecos e extrínsecos para a sua inadmissibilidade, limitando-se indevidamente ao pedido final. Em verdade, os seus fundamentos são direcionados ao próprio mérito.
+
+Dito isso, conheço do recurso, porquanto presentes os pressupostos de admissibilidade.
+
+Cinge-se a controvérsia quanto à incidência do IPCA-E, em decorrência do superveniente julgamento vinculante do RE 870.947, como índice de atualização monetária aplicável nas condenações imposta à Fazenda Pública de natureza administrativa referente a débitos devidos a servidores públicos.
+
+Com efeito, o Supremo Tribunal Federal, por meio do mencionando julgamento do Recurso Extraordinário nº 870.947/SE, com reconhecida repercussão geral, consolidou a orientação de que é inconstitucional o artigo 1º-F da Lei nº 9.494/1997 para a atualização monetária das condenações contra a Fazenda Púbica e fixou a aplicação do Índice Nacional de Preços ao Consumidor Amplo Especial – IPCA-E às atualizações monetárias das condenações judiciais da Fazenda Pública desde 30/06/2009, momento em que entrou em vigor a Lei nº 11.960/2009.
+
+Destaque-se que em sede de Embargos de Declaração, cujo julgamento ocorreu em 03/10/2019, foi afastada a modulação dos efeitos do acórdão paradigma consolidando-se o entendimento de que desde junho de 2009 o Índice de Preços ao Consumidor Amplo Especial (IPCA-E) é o adequado para a atualização monetária das condenações impostas à Fazenda Pública.
+
+Perante o Superior Tribunal de Justiça, sob o rito dos Recursos Repetitivos, foi julgado o REsp 1492221/PR, resultando na fixação da tese 905, segundo a qual, nas condenações judiciais da Fazenda Pública referentes a servidores e empregados públicos a partir de julho de 2009, a correção monetária deve ser calculada com base no IPCA-E.
+
+Resta claro, portanto, que apesar de o título judicial em questão possuir trânsito em julgado anterior à fixação das teses acima esposadas, mostra-se manifestamente inconstitucional determinar que a correção monetária, que se destina, como cediço, à preservação do valor real da moeda, se dê pela incidência de índice já declarado inconstitucional.
+
+Impõe-se observar, ainda, que a incidência de correção monetária configura obrigação de trato sucessivo, de forma a observar as legislações vigentes a cada período, conforme entendimento do STJ:
+
+“AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. JUROS DE MORA. MATÉRIA DE ORDEM PÚBLICA. NÃO OCORRÊNCIA DE JULGAMENTO EXTRA PETITA. MEDIDA PROVISÓRIA 2.180-35/2001 E LEI 11.960/2009. NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA AOS PROCESSOS EM CURSO. OMISSÃO. INOCORRÊNCIA. CORREÇÃO MONETÁRIA. INOVAÇÃO RECURSAL. (...) 3. Ainda na linha de nossa jurisprudência, "A Primeira Seção do STJ, no julgamento do REsp 1.112.746/DF, afirmou que os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicadas no mês de regência a legislação vigente. Por essa razão, fixou-se o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução. Não há, pois, nesses casos, que falar em violação da coisa julgada." (EDcl no AgRg no REsp 1.210.516/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/09/2015,DJe 25/09/2015). 4. Agravo interno não provido. (AgInt no REsp 1551390/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 12/03/2020)”. – g.n.
+
+No mesmo sentido, confira-se o entendimento desta Corte:
+
+“CONSTITUCIONAL E PROCESSUAL CIVIL.  AGRAVO DE INSTRUMENTO.  EXECUÇÃO CONTRA A FAZENDA PÚBLICA.  CORREÇÃO MONETÁRIA.  LEI Nº 11.960/2009.  ART. 1º-F DA LEI Nº 9.494/1997. INCONSTITUCIONALIDADE.  RE-RG Nº 870.947.  ADEQUAÇÃO AO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL.  OFENSA À COISA JULGADA.  INEXISTÊNCIA.  IMPUGNAÇÃO.  EXCESSO DE EXECUÇÃO.  ACOLHIMENTO PARCIAL.  HONORÁRIOS ADVOCATÍCIOS DEVIDOS AO PATRONO DO EXECUTADO SOBRE O PROVEITO ECONÔMICO OBTIDO.  DECISÃO PARCIALMENTE REFORMADA. (...) 2 - Não merece prosperar a alegação de violação à coisa julgada, suscitada em cumprimento de sentença contra a Fazenda Pública, decorrente da aplicação, no que tange aos critérios da correção monetária e da incidência dos juros de mora, dos parâmetros interpretativos adotados pelo Supremo Tribunal Federal no RE-RG nº 870.947 acerca do disposto no artigo 1º-F da Lei nº 9.494/1997. Isso porque "os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicada no mês de regência a legislação vigente. Por essa razão, fixou-se o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução. Não há, pois, nesses casos, que falar em violação da coisa julgada" (EDcl no AgRg no REsp 1210516/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/09/2015, DJe 25/09/2015). 3 - É de inequívoca clareza que a correção monetária e a incidência de juros de mora foi estabelecida na forma do artigo 1º-F da Lei Federal nº 9.494/1997, fazendo-se imperioso observar a orientação firmada pelo STF no bojo de acórdão paradigma da repercussão geral (Tema nº 810), que não sofreu modulação de efeitos após a apreciação dos Embargos de Declaração contra ele interpostos, não sendo, portanto, o caso de se cogitar de violação à coisa julgada. (...) Agravo de Instrumento parcialmente provido. (Acórdão 1241831, 07208365420188070000, Relator: ANGELO PASSARELI, 5ª Turma Cível, data de julgamento: 1/4/2020, publicado no PJe: 30/4/2020. Pág.:  Sem Página Cadastrada.)”Grifo nosso
+
+“AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS E CORREÇÃO MONETÁRIA. TAXA DE REFERÊNCIA. ÍNDICE DE PREÇOS AO CONSUMIDOR ESPECIAL. ART. 1º-F DA LEI N. 9.494/97. INCONSTITUCIONALIDADE. MODULAÇÃO DE EFEITOS. COISA JULGADA. INOCORRÊNCIA. 1. O Supremo Tribunal Federal, no julgamento das Ações Diretas de Inconstitucionalidade n.º 4357 e 4425, reconheceu a inconstitucionalidade por arrastamento do artigo 1º- F da Lei n.º 9.494/97, que previa a Taxa Referencial (TR) como índice de atualização monetária, modulando os efeitos da decisão e fixando um marco temporal a partir do qual haveria a incidência do IPCA-E. No entanto, as consequências dessa declaração não se aplicam à situação fática sob análise, haja vista abranger apenas os precatórios já expedidos. 2. A Primeira Seção do STJ, no julgamento do REsp 1.112.746/DF, afirmou que os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicada a legislação vigente, não havendo que se falar em trânsito em julgado. 3. Recurso conhecido e desprovido.” (Acórdão n.1002848, 20160020463422AGI, Relator: SANDOVAL OLIVEIRA 2ª TURMA CÍVEL, Data de Julgamento: 15/03/2017, Publicado no DJE: 17/03/2017. Pág.: 435/441)” – g.n.
+
+Ademais, diversamente do sustentado pelo agravante, a parte  agravada não utilizou a TR quando da primeira apresentação dos seus cálculos e sim os índices de correção aplicáveis nas condenações em geral da Justiça Federal (id 99928644 – origem). Bem como, os cálculos ainda não foram homologados pelo juízo a quo.
+
+Nesse quadro, impõe-se aplicar ao caso a orientação supervenientemente firmada pelo STF no bojo de acórdão paradigma da repercussão geral (Tema nº 810).
+
+Acrescente-se, a propósito, outros julgados deste TJDFT, em que o mesmo posicionamento prevaleceu:
+
+“AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. RECOMPOSIÇÃO DE PERDAS SALARIAIS. CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA. ÍNDICE APLICÁVEL. IPCA-E. 1. Cuida-se, na origem, de cumprimento individual de sentença coletiva que reconheceu a exigibilidade de obrigação de pagar quantia certa pela Fazenda Pública, consistente na reposição das perdas salariais oriundas do Plano Collor no percentual de 84,32%, relativo ao IPC de março de 1990. 2. O exequente requereu ao d. Juiz de primeiro grau que os autos fossem remetidos à Contadoria de Justiça, a fim de que os cálculos fossem refeitos observando-se o que restou decidido no RE 870.947/SE em relação à correção monetária. O pedido foi indeferido sob o fundamento de que a questão já estaria preclusa, uma vez os cálculos já haviam sido homologados. 3. Em que pese o respeitável entendimento esposado pelo juízo a quo, certo é que, quando da homologação dos cálculos, momento em que a contadoria judicial levou em consideração, para fins de correção monetária, a TR a partir de 06/2009, a questão ainda não havia sido decidida pelo Supremo Tribunal Federal, pois pendente, à época, o julgamento dos embargos de declaração opostos em face do RE 870.947/SE. 4. Sendo assim, não houve, de fato, decisão anterior que tenha enfrentado expressamente a questão debatida nos presentes autos, o que, acrescido da circunstância de se tratar de matéria de ordem pública, autoriza a discussão da matéria. 5. Desse modo, tratando-se a presente hipótese de atualização monetária de condenação ainda na fase de conhecimento, deve incidir a conclusão adotada por ocasião do julgamento do RE 870.947/SE, em que se discutiu justamente a atualização monetária das condenações impostas à Fazenda Pública ao final da fase de conhecimento e, portanto, antes da respectiva inscrição do crédito em precatório. 6. Com efeito, destaca-se que o Plenário do egrégio Supremo Tribunal Federal rejeitou os Embargos de Declaração no Recurso Extraordinário nº. 870.947/SE, sem modular os efeitos do entendimento exarado no acórdão recorrido. Portanto, aplica-se na espécie o entendimento lá exarado. 7. Consolidado o entendimento de que o índice de correção monetária a ser aplicado nas condenações contra a Fazenda Pública é o IPCA-E (STJ), tratando-se, como no caso dos autos, de relação jurídica de natureza não-tributária (condenação judicial referente à recomposição de perdas salariais), mostra-se impositiva a retificação dos cálculos, de modo que, a partir de julho de 2009, incida o IPCA-E como fator de correção monetária. 8. Recurso conhecido e provido. (Acórdão 1267900, 07089577920208070000, Relator: GISLENE PINHEIRO, 7ª Turma Cível, data de julgamento: 22/7/2020, publicado no DJE: 3/8/2020. Pág.:  Sem Página Cadastrada.)” – g.n.
+
+“AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FAZENDA PÚBLICA. ÍNDICE DE CORREÇÃO MONETÁRIA. IPCA-E. TR - TAXA REFERENCIAL. ART. 1º-F DA LEI 9.494/97. INCONSTITUCIONALIDADE. COISA JULGADA. MENÇÃO AO ÍNDICE NO DISPOSITIVO DA SENTENÇA. Em homenagem à segurança jurídica e prestigiando o entendimento sufragado pelo Supremo Tribunal Federal no julgamento do RE 870947 (Tema 810) e pelo c. STJ em sede de recurso repetitivo (Resp 1495146/MG - tema 905), reconhece-se que a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança não é adequada para capturar a variação de preços da economia, sendo inconstitucional a sua aplicação por impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), sendo o IPCA-E o índice que melhor reflete a desvalorização da moeda na atualidade, devendo ser aplicado para fins de atualização monetária nas condenações impostas à Fazenda Pública. A menção expressa no dispositivo da sentença a índice de correção monetária não impõe a sua incidência quando dos cálculos da execução, por serem aplicáveis os índices conforme a legislação vigência no mês de regência. A incidência de correção monetária e de juros de mora sobre obrigações de pagar quantia certa reconhecidas judicialmente decorre da lei, sendo desnecessária, inclusive, a sua expressa fixação no título executivo judicial, pelo que os índices de correção monetária aplicáveis devem ser aqueles que efetivamente recompõem o poder aquisitivo da moeda. (Acórdão n.1135848, 07093559420188070000, Relator: CARMELITA BRASIL 2ª Turma Cível, Data de Julgamento: 09/11/2018, Publicado no DJE: 21/11/2018. Pág.: Sem Página Cadastrada.)” – g.n.
+
+Ante o exposto, CONHEÇO e NEGO PROVIMENTO ao recurso.
+
+É como voto.
+
+A Senhora Desembargadora MARIA IVATÔNIA - 1º Vogal Com o relator
+
+O Senhor Desembargador JOÃO LUIS FISCHER DIAS - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER. NEGAR PROVIMENTO AO AGRAVO DE INSTRUMENTO. UNÂNIME
