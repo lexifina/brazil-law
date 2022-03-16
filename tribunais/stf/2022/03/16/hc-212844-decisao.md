@@ -1,0 +1,19 @@
+DECISÃO:
+EMENTA: Processo Penal. Habeas Corpus. falsificação de moeda. Dosimetria da pena. Jurisprudência do Supremo Tribunal Federal.
+1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Jesuíno Rissato, assim ementado:
+    “PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. INCIDÊNCIA. A ausência de impugnação a todos os fundamentos da decisão agravada atrai, in casu, a incidência do óbice da Súmula n. 182/STJ. Agravo regimental não conhecido.”
+2. Extrai-se dos autos que o paciente foi condenado a 10 anos de reclusão, em regime inicial fechado, e a 120 dias-multa, pelo crime previsto no art. 289, § 1º, do Código Penal, por nove vezes, em continuidade delitiva.
+3. Da sentença, a defesa apelou e o Tribunal Regional Federal da 3ª Região deu parcial provimento ao recurso apenas para reduzir a pena de multa.
+4. Na sequência, sobreveio recurso especial, que foi inadmitido na origem pela incidência da Súmula 7/STJ. Contra essa decisão, foi interposto agravo regimental, não provido.
+5. Neste habeas corpus, a parte impetrante sustenta a desproporcionalidade na aplicação da pena e requer sua redução.
+6. Decido.
+7. O habeas corpus não deve ser concedido.
+8. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Nesse sentido, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda pertence).
+9. No caso, a autoridade impetrada afastou as alegações da defesa em acórdão assim ementado:
+    “PENAL. AGRAVO EM RECURSO ESPECIAL. MOEDA FALSA. ALEGAÇÃO DE VIOLAÇÃO A PRINCÍPIOS E A DISPOSITIVOS DE EXTRAÇÃO CONSTITUCIONAL. VIA INADEQUADA, AINDA QUE PARA FINS DE PREQUESTIONAMENTO. COMPETÊNCIA DO STF. DOSIMETRIA. PENA-BASE. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. FRAÇÃO DE AUMENTO. PENA-BASE ACIMA ACIMA DO MÍNIMO LEGAL. DESPROPORCIONALIDADE NO QUANTUM DE EXASPERAÇÃO. DISCRICIONARIEDADE VINCULADA DO JULGADOR. AUSÊNCIA DE CRITÉRIO MATEMÁTICO PURO. DIMINUIÇÃO DE PENA. COMPENSAÇÃO ENTRE AGRAVANTE E ATENUANTE. AUSÊNCIA DE PREPONDERÂNCIA. PRECEDENTES. SÚMULA N. 568/STJ. REGIME INICIAL. ANÁLISE PREJUDICADA. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR PROVIMENTO” (grifos acrescidos)
+10. Nessas condições, não é possível, na via processualmente restrita do habeas corpus, reexaminar o material probatório da ação penal para, eventualmente, acolher-se a pretensão defensiva. Até mesmo pela consideração, contida no acórdão proferido pela autoridade impetrada, no sentido de que “a Corte de origem, ao manter o quantum de exasperação da pena-base da paciente, partiu de 2 premissas: a expressiva quantidade de cédulas falsas introduzidas em circulação bem como o modus operandi empregado pelo agravante, consistente em utilização de linhas telefônicas adquiridas para esse único fim e a atribuição de falsa identidade. Realmente, as circunstâncias são relevantes e aptas a exasperar a pena-base, porquanto desbordam daquelas inerentes ao tipo penal”. De modo que não se verifica situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão do pedido.
+11. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 16 de março de 2022.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
