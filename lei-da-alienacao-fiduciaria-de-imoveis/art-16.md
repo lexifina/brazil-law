@@ -1,4 +1,0 @@
-Art. 16. Extinguir-se-á o regime fiduciário de que trata esta seção pelo implemento das condições a que esteja submetido, na conformidade do Termo de Securitização de Créditos que o tenha instituído.
-§ 1º Uma vez satisfeitos os créditos dos beneficiários e extinto o regime fiduciário, o Agente Fiduciário fornecerá, no prazo de três dias úteis, à companhia securitizadora, termo de quitação, que servirá para baixa, nos competentes Registros de Imóveis, da averbação que tenha instituído o regime fiduciário.
-§ 2º A baixa de que trata o parágrafo anterior importará na reintegração ao patrimônio comum da companhia securitizadora dos recebíveis imobiliários que sobejarem.
-§ 3º Os emolumentos devidos aos Cartórios de Registros de Imóveis para cancelamento do regime fiduciário e das garantias reais existentes serão cobrados como ato único.

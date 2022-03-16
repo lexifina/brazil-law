@@ -1,11 +1,6 @@
 Art. 57. A Lei nº 9.514, de 1997, passa a vigorar com as seguintes alterações:
 "Art. 5º.
 § 2º As operações de comercialização de imóveis, com pagamento parcelado, de arrendamento mercantil de imóveis e de financiamento imobiliário em geral poderão ser pactuadas nas mesmas condições permitidas para as entidades autorizadas a operar no SFI." (NR)
-"Art. 8º.
-I - a identificação do devedor e o valor nominal de cada crédito que lastreie a emissão, com a individuação do imóvel a que esteja vinculado e a indicação do Cartório de Registro de Imóveis em que esteja registrado e respectiva matrícula, bem como a indicação do ato pelo qual o crédito foi cedido;
-.........................................................................................." (NR)
-"Art. 16.
-§ 3º Os emolumentos devidos aos Cartórios de Registros de Imóveis para cancelamento do regime fiduciário e das garantias reais existentes serão cobrados como ato único." (NR)
 "Art. 22.
 Parágrafo único. A alienação fiduciária poderá ter como objeto bens enfitêuticos, sendo também exigível o pagamento do laudêmio se houver a consolidação do domínio útil no fiduciário." (NR)
 "Art. 26.
