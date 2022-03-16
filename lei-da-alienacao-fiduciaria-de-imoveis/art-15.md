@@ -1,2 +1,0 @@
-Art. 15. No caso de insolvência da companhia securitizadora, o agente fiduciário assumirá imediatamente a custódia e administração dos créditos imobiliários integrantes do patrimônio separado e convocará a assembléia geral dos beneficiários para deliberar sobre a forma de administração, observados os requisitos estabelecidos no § 2º do art. 14.
-Parágrafo único. A insolvência da companhia securitizadora não afetará os patrimônios separados que tenha constituído.
