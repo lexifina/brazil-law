@@ -1,1 +1,0 @@
-Art. 9º A companhia securitizadora poderá instituir regime fiduciário sobre créditos imobiliários, a fim de lastrear a emissão de Certificados de Recebíveis Imobiliários, sendo agente fiduciário uma instituição financeira ou companhia autorizada para esse fim pelo BACEN e beneficiários os adquirentes dos títulos lastreados nos recebíveis objeto desse regime.
