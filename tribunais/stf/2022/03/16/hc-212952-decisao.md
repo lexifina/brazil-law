@@ -1,0 +1,29 @@
+DECISÃO
+HABEAS CORPUS - DOSIMETRIA DA PENA -- CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343/2006 -- INADEQUAÇÃO -- DENEGAÇÃO DA ORDEM.
+    1. Trata-se de habeas corpus impetrado contra decisão, proferida no Superior Tribunal de Justiça, mediante a qual a Quinta Turma desproveu o agravo regimental no agravo em recurso especial nº 1.922.719.
+    2. Extrai-se dos autos que o paciente foi condenado a 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 583 dias-multa, ante a prática do crime descrito no art. 33, caput, c/c o 40, inciso I (tráfico transnacional de drogas), da Lei nº 11.343/2006.
+    3. O Tribunal Regional Federal da 3ª Região, ao prover parcialmente apelação interposta pelo Ministério Público, reconheceu a prática de dois crimes de tráfico de drogas em continuidade delitiva, nos termos do art. 71 do CP. Redimensionou a pena para 6 anos, 9 meses e 20 dias de reclusão, mantido o regime semiaberto. Recurso especial foi inadmitido.
+    4. Neste habeas corpus, a Defensoria Pública da União sustenta viável a incidência da causa de diminuição da pena prevista no art. 33, § 4º, da Lei de Drogas. Frisa preenchidos os requisitos legais. Afirma que o paciente não integra organização criminosa nem se dedica a atividades ilícitas.
+    5. Requer, no âmbito liminar, a aplicação do redutor no patamar máximo. No mérito, busca a confirmação da providência.
+    É o relatório. Decido.
+    6. Na linha do que tem decidido a Segunda Turma deste Supremo Tribunal Federal, entendo ser admissível o habeas corpus, ainda que substitutivo de recurso extraordinário. Nesse sentido, cito os seguintes precedentes: HC 126.791-ED/RJ, HC 126.614/SP e HC 126.808-AgR/PA, ambos da relatoria do Ministro Dias Toffoli.
+    7. A teor do art. 33, § 4º, da Lei nº 11.343/2006, é adequada a redução da pena, na fração de 1/6 a 2/3, quando preenchido de determinados requisitos, os quais, consoante a jurisprudência do STF, devem ser verificados de forma cumulativa. Nesse sentido: HC 131.795/SP, Rel. Min. Teori Zavascki, HC 143.577-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 27/10/2017; HC 123.430, Rel. Min. Luiz Fux, Primeira Turma, DJe de 18/11/2014; HC 101.265, Rel. Min. Ayres Britto, Relator p/ acórdão, Min. Joaquim Barbosa, Segunda Turma, DJe de 6/8/2012).
+    8. Eis o teor do dispositivo em questão:
+    [...]
+    § 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+    [...]
+    9. O Tribunal de origem deixou de aplicar a causa de diminuição do § 4º do art. 33 da Lei de Drogas, ressaltando que o paciente colaborava conscientemente com organização criminosa voltada ao tráfico transnacional de drogas. Ressaltou a apreensão de apetrechos para o manuseio da droga -- balança e embalagens para acondicionamento de entorpecente. Eis o trecho do acórdão formalizado na apelação (documento nº 13, pág. 153):
+    [...]
+    A causa de diminuição do art. 33, § 4º, da Lei n. 11.343/06 permite a redução da pena nas frações de 1/6 (um sexto) a 2/3 (dois terços), mediante o preenchimento dos requisitos da primariedade, bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa.
+    O Juízo a quo fundamentou corretamente a inaplicabilidade da referida causa de diminuição.
+    A consciência do réu de que concorria com uma organização criminosa para o tráfico internacional, diante do fato de ter sido convidado e aceitado a função de gerenciar as atividades do tráfico no Brasil, a conduta de buscar e convidar pessoas que servissem ao propósito da organização, realizando o transporte, além dos apetrechos para o manuseio da droga encontrados em sua mochila, composto por balança e embalagens para o entorpecente, demonstram que Samuel integrava organização criminosa, além de se dedicar a atividades criminosas.
+    [...]
+    10. Cumpre salientar, em reforço, que o paciente, consoante delineado nos autos, em conluio com corréu de nacionalidade albanesa, cooptou a corré Sheila a fim de que transportasse drogas à Europa, mediante promessa de pagamento de R$ 20.000,00. Em seguida, Sheila dirigiu-se a um hotel, onde, sob supervisão do paciente e do corréu, ingeriu cápsulas contendo cocaína e inseriu tantas outras nos orifícios anal e vaginal. Os contornos dos fatos evidenciam não se tratar de traficante ocasional, surgindo imprópria a benesse.
+    11. O ato atacado harmoniza-se com a jurisprudência do Supremo no sentido de que a demonstração de efetiva dedicação à atividade criminosa justifica a não aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006. Nesse sentido: RHC 150.179-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 27/8/2018; RHC 153.194-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 10/5/2018; HC 109.168, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 14/2/2012; HC 127.221/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 9.9.2015; HC 154.301 AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 16/12/2020; e HC 140.423, Rel. Min. Ricardo Lewandowski, Rel. p/ Acórdão: Min. Dias Toffoli, Segunda Turma, DJe de 10 /08/2017.
+    11. Eventual superação do entendimento veiculado pelas instâncias antecedentes demandaria o reexame profundo de fatos e provas, incabível na via estreita do habeas corpus, conforme assentado por ambas as Turmas: HC 105.163, Relatora Ministra Cármen Lúcia, Primeira Turma; HC 157.282 AgR, Relator Ministro Roberto Barroso, Primeira Turma; HC 156.894 AgR, Relator Ministro Dias Toffoli, Segunda Turma; HC 195.352 AgR, Relator Ministro Nunes Marques, Segunda Turma.
+    12. Ante o exposto, com fundamento no art. 192 do RI/STF, denego a ordem.
+    Publique-se.
+    Brasília, 16 de março de 2022.
+
+Ministro André Mendonça
+Relator
