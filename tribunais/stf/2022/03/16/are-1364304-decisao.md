@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO --BENEFÍCIO SOCIAL FAMILIAR -- COBRANÇA -- AUSÊNCIA DE PROVA QUANTO À OBRIGAÇÃO DE RECOLHIMENTO DA PARCELA -- MATÉRIA FÁTICA -- DESPROVIMENTO.
+    1.Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    APELAÇÃO CÍVEL. ASSOCIAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO COM REQUERIMENTO DE TUTELA PROVISÓRIA DE URGÊNCIA. Sentença de procedência. Inconformismo trazido pela parte vencida que não comporta acolhida. Preliminar de incompetência absoluta afastada. Justiça Comum versus Justiça do Trabalho. Divergência jurisprudencial neste Sodalício. Inexistência de quaisquer das hipóteses que atraiam a competência da Justiça especializada trabalhista, conforme o elenco do artigo 114 da Constituição Federal, notadamente porque não se discute a cobrança do “Benefício Social Familiar”. Empresa ré (GESTAR) que não é entidade Sindical, mas tão somente presta serviços aos sindicatos, assumindo a responsabilidade objetiva por seus atos, notadamente em ações declaratórias de inexistência de relação jurídica, como na espécie. Sentença mantida por seus próprios e jurídicos fundamentos. Recurso desprovido.
+    2. A recorrente alega violação aos artigos. 7º, XXXVI; 8º, I, III, IV e VI; e 114, IX, da Constituição Federal. Sustenta a competência da Justiça do Trabalho. Afirma ter a autora ajuizado demanda visando declaração no sentido da inexistência do dever de recolher valores relativos ao custeio do plano Benefício Social Familiar, a que teria se obrigado, ante à previsão em norma coletiva de trabalho..
+    É o relatório. Decido.
+     3. O Tribunal a quo manteve os termos da decisão proferida pelo Juízo de origem, mediante o qual julgados procedentes os pedidos, consignando não ter a ré, ora recorrente, comprovado a existência de obrigação a cargo da autora, que implicasse, quando do não pagamento de boleto, a negativação da empresa no Procon. Transcrevo, para melhor elucidar a questão, o seguinte trecho da sentença (e-doc 4):
+    Quanto à preliminar de incompetência absoluta deste Juízo, não é caso de acolhimento, eis que em primeiro lugar, a parte requerida é um associação ou pessoa jurídica de direito privado, não um sindicato. Depois, não se discute aqui a validade ou não da cobrança da contribuição sindical, mas sim a legitimidade da cobrança realizada pela parte requerida, ou seja, se existe fundamento legal ou contratual para a cobrança.
+    (...)
+    Pelo mérito, o pedido é procedente.
+    É fato incontroverso que há uma cobrança em nome da parte requerente feita pela parte requerida. Mas, não existem provas a demonstrar fundamento legal ou contratual para a referida cobrança.
+    Os documentos de fls. 26/29 demonstram que a requerida inseriu o nome da parte requerente nos órgãos de proteção ao crédito.
+    Caberia à parte requerida provar a idoneidade da cobrança em nome da parte requerente, bem como a correição da inscrição do nome dela em cadastros de maus pagadores.
+    Entretanto, a requerida não se desincumbiu do ônus que lhe cabia, trazendo apenas alegações genéricas e inaptas a demonstrar a legitimidade da dívida cobrada.
+     Conquanto tenha a parte requerida tentado justificar a negativação do nome da parte requerente com base em convenções coletivas, normas constitucionais e trabalhistas, não logrou êxito em demonstrar qualquer vínculo contratual com a requerente, limitando-se a apresentar cópia de convenção coletiva de trabalho firmada entre sindicatos, não se podendo, portanto, concluir pela existência da obrigação de pagamento do “Beneficio Social Familiar” pela parte requerente.
+    Assim, diante da ausência de apresentação de documentos hábeis a comprovar suas alegações, a parte requerida não satisfez o ônus previsto no artigo 373, inciso II, do Código de Processo Civil, tornando inexigível o valor apresentado no título negativado.
+    4. Para concluir de forma diversa ao assentado pelo Tribunal de origem seria necessário analisar o quadro fático do autos, providência inviável em sede extraordinária, ante o óbice da Súmula 279 do Supremo.
+    5. Ante o exposto, nego provimento ao agravo. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 5% o respectivo valor, a título de honorários recursais, na forma do artigo 85 do CPC.
+    6. Publique-se.
+    Brasília, 16 de março de 2022.
+Ministro ANDRÉ MENDONÇA
+Relator
