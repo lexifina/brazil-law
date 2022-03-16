@@ -8,10 +8,6 @@ Seção III
 Do financiamento imobiliário
 Seção IV
 Do Certificado de Recebíveis Imobiliários
-Seção V
-Da securitização de créditos imobiliários
-Seção VI
-Do regime fiduciário
 Seção VII
 Das garantias
 CAPÍTULO II

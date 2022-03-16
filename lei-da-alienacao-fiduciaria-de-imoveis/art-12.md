@@ -1,2 +1,0 @@
-Art. 12. Instituído o regime fiduciário, incumbirá à companhia securitizadora administrar cada patrimônio separado, manter registros contábeis independentes em relação a cada um deles e elaborar e publicar as respectivas demonstrações financeiras.
-Parágrafo único. A totalidade do patrimônio da companhia securitizadora responderá pelos prejuízos que esta causar por descumprimento de disposição legal ou regulamentar, por negligência ou administração temerária ou, ainda, por desvio da finalidade do patrimônio separado.
