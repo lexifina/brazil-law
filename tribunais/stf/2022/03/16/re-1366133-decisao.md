@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 1ª Turma Recursal de Belo Horizonte, Betim e Contagem, assim ementado:
+    “SERVIDOR PÚBLICO. FÉRIAS-PRÊMIO NÃO GOZADAS. SERVIDOR PÚBLICO. AUSENTE PROVA DE NEGATIVA NO INTERESSE DA ADMINISTRAÇÃO. ARE 721001. REQUISITO DE PROCEDIBILIDADE. PRECEDENTES RE 631240. SENTENÇA MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. RECURSO DESPROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI; 37, IX; e 39, §§ 3º e 6º, todos da Constituição.
+    O recurso extraordinário não deve ser provido. Na hipótese, o Tribunal de origem assentou:
+    “[...]cumpre ressaltar que este juízo entende necessário como condição de procedibilidade a necessidade de prévio requerimento administrativo que tenha negado, ao menos uma vez, o direito do servidor de gozar das férias-prêmio quando em exercício; isso porque, entender pela necessidade de indenização do todo e qualquer servidor inativo, que tenha deixado de usufruir a tempo e modo do benefício, ocasionaria um ônus demasiado ao Ente Público. Explico. Os servidores se furtariam em requerer as férias-prêmio devidas, a fim de serem indenizados ao final, quando da inatividade ou exoneração, desvirtuando a essência e a natureza jurídica do benefício e ocasionando exacerbados dispêndios financeiros ao ente público; isso porque, é certo que lhe é mais favorável ter seu servidor no gozo do benefício, do que indenizá-lo em pecúnia. Dessa forma, salvo na excepcional hipótese de negativa de requerimento no interesse da administração, não há se falar em indenização em pecúnia de férias-prêmio não gozadas, sendo condição de procedibilidade que não afasta a supracitada tese firmada pelo Supremo, mormente em razão da referida condição ser subsidiada em outro RE da Suprema Corte.
+    [...]
+    Postas estas considerações iniciais, resta evidenciado que o recorrente fazia jus à percepção das férias-prêmio, considerando a contagem do tempo de serviço laborado sob o regime estatutário; porém, não juntou aos autos negativa da administração que impusesse óbice ao gozo das referidas férias quando ainda estava em atividade. Sendo assim, imperioso o desprovimento dos pedidos iniciais e rechaçar a possibilidade da conversão das férias prêmio em pecúnia.”
+
+    Dissentir dessa conclusão exigiria a análise dos fatos e provas constantes dos autos, providência inviável neste momento processual (Súmula 279/STF).
+    Ademais, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 16 de março de 2022.
+Ministro LUÍS ROBERTO BARROSO
+Relator
