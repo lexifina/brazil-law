@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2070, de 16 de março de 2022
+Altera a Instrução Normativa SRF nº 599, de 28 de dezembro de 2005, que dispõe sobre os arts. 38, 39 e 40 da Lei nº 11.196, de 21 de novembro de 2005, relativamente ao Imposto sobre a Renda incidente sobre ganhos de capital das pessoas físicas.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 39 da Lei nº 11.196, de 21 de novembro de 2005, resolve:
