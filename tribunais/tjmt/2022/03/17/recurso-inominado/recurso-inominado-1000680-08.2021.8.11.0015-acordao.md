@@ -1,0 +1,42 @@
+ESTADO DE MATO GROSSO
+
+PODER JUDICIÁRIO
+
+TURMA RECURSAL ÚNICA
+
+Número Único
+:
+
+1000680-08.2021.8.11.0015
+Classe:
+
+RECURSO INOMINADO (460)
+Assunto:
+
+[Obrigação de Fazer / Não Fazer]
+Relator:
+Des(a).
+GONCALO ANTUNES DE BARROS NETO
+
+Turma Julgadora:
+
+[DES(A). GONCALO ANTUNES DE BARROS NETO, DES(A). EDSON DIAS REIS, DES(A). JORGE ALEXANDRE MARTINS FERREIRA, DES(A). LAMISSE RODER FEGURI ALVES CORREA, DES(A). LUCIA PERUFFO, DES(A). LUIS APARECIDO BORTOLUSSI JUNIOR, DES(A). MARCELO SEBASTIAO PRADO DE MORAES, DES(A). PATRICIA CENI DOS SANTOS, DES(A). SEBASTIAO DE ARRUDA ALMEIDA, DES(A). VALDECI MORAES SIQUEIRA, DES(A). VALMIR ALAERCIO DOS SANTOS, DES(A). VIVIANE BRITO REBELLO ISERNHAGEN]
+
+Parte(s):
+
+[INSTITUTO DE ASSISTENCIA A SAUDE DOS SERVIDORES DO ESTADO DE MATO GROSSO - CNPJ: 05.794.356/0001-68 (RECORRENTE), CASA CIVIL DO ESTADO DE MATO GROSSO - CNPJ: 03.507.415/0007-30 (REPRESENTANTE), DEFENSORIA PUBLICA DO ESTADO DE MATO GROSSO - CNPJ: 02.528.193/0001-83 (RECORRIDO), DEFENSORIA PUBLICA DO ESTADO DE MATO GROSSO (REPRESENTANTE)]
+
+A C Ó R D Ã O
+Vistos, relatados e discutidos os autos em epígrafe, a TURMA RECURSAL ÚNICA do Tribunal de Justiça do Estado de Mato Grosso, sob a Presidência Des(a).
+
+SEBASTIAO DE ARRUDA ALMEIDA, por meio da Turma Julgadora, proferiu a seguinte decisão:
+POR UNANIMIDADE DEIXOU DE CONHECER DO RECURSO INOMINADO. Ministério Público: O Dr. Almir Guimarães, promotor de Justiça manifestou-se para que seja ratificado o parecer ministerial nos processos em que há manifestação escrita e externou nos demais da listagem feita pela secretaria, a falta de interesse primário, conforme oficio para tais casos.
+
+E M E N T A
+
+R E L A T Ó R I O
+
+V O T O R E L A T O R
+
+Data da sessão:
+Cuiabá-MT, 17/03/2022
