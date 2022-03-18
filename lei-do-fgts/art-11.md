@@ -1,1 +1,1 @@
-Art. 11. Os depósitos feitos na rede bancária, a partir de 1º de outubro de 1989, relativos ao FGTS, serão transferidos à Caixa Econômica Federal no segundo dia útil subseqüente à data em que tenham sido efetuados.
+Art. 11. Os recolhimentos efetuados na rede arrecadadora relativos ao FGTS serão transferidos à Caixa Econômica Federal até o primeiro dia útil subsequente à data do recolhimento, observada a regra do meio de pagamento utilizado, data em que os respectivos valores serão incorporados ao FGTS.
