@@ -1,0 +1,6 @@
+ANEXO i - REQUERIMENTO DE PARCELAMENTO DE DÉBITOS PERANTE A RFB
+Anexo I
+[arquivo anexo: Anexo I.pdf]
+ANEXO II - DISCRIMINATIVO DE DÉBITOS A PARCELAR
+Anexo II
+[arquivo anexo: Anexo II.pdf]
