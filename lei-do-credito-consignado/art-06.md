@@ -1,4 +1,4 @@
-Art. 6º Os titulares de benefícios de aposentadoria e pensão do Regime Geral de Previdência Social poderão autorizar o Instituto Nacional do Seguro Social - INSS a proceder aos descontos referidos no art. 1º e autorizar, de forma irrevogável e irretratável, que a instituição financeira na qual recebam seus benefícios retenha, para fins de amortização, valores referentes ao pagamento mensal de empréstimos, financiamentos, cartões de crédito e operações de arrendamento mercantil por ela concedidos, quando previstos em contrato, nas condições estabelecidas em regulamento, observadas as normas editadas pelo INSS.
+Art. 6º Os titulares de benefícios de aposentadoria e pensão do Regime Geral de Previdência Social e do Benefício de Prestação Continuada de que trata o art. 20 da Lei nº 8.742, de 7 de dezembro de 1993, poderão autorizar que o Instituto Nacional do Seguro Social - INSS proceda aos descontos referidos no art. 1º e, de forma irrevogável e irretratável, que a instituição financeira na qual recebam os seus benefícios retenha, para fins de amortização, valores referentes ao pagamento mensal de empréstimos, financiamentos, cartões de crédito e operações de arrendamento mercantil por ela concedidos, quando previstos em contrato, na forma estabelecida em regulamento, observadas as normas editadas pelo INSS e ouvido o Conselho Nacional de Previdência Social.
 § 1º Para os fins do caput, fica o INSS autorizado a dispor, em ato próprio, sobre:
 I - as formalidades para habilitação das instituições e sociedades referidas no art. 1º;
 II - os benefícios elegíveis, em função de sua natureza e forma de pagamento;
@@ -11,7 +11,8 @@ I - retenção dos valores autorizados pelo beneficiário e repasse à institui�
 II - manutenção dos pagamentos do titular do benefício na mesma instituição financeira enquanto houver saldo devedor nas operações em que for autorizada a retenção, não cabendo à autarquia responsabilidade solidária pelos débitos contratados pelo segurado.
 § 3º É vedado ao titular de benefício que realizar qualquer das operações referidas nesta Lei solicitar a alteração da instituição financeira pagadora, enquanto houver saldo devedor em amortização.
 § 4º É facultada a transferência da consignação do empréstimo, financiamento ou arrendamento firmado pelo empregado na vigência do seu contrato de trabalho quando de sua aposentadoria, observadas as condições estabelecidas nesta Lei.
-§ 5º Os descontos e as retenções mencionados no caput não poderão ultrapassar o limite de 35% (trinta e cinco por cento) do valor dos benefícios, sendo 5% (cinco por cento) destinados exclusivamente para:
-I - a amortização de despesas contraídas por meio de cartão de crédito; ou
-II - a utilização com a finalidade de saque por meio do cartão de crédito.
+§ 5º Os descontos e as retenções mencionados no caput não poderão ultrapassar o limite de quarenta por cento do valor dos benefícios.
+§ 5º-A Até cinco por cento do limite de que trata o § 5º poderá ser destinado à:
+I - amortização de despesas contraídas por meio de cartão de crédito ou cartão consignado de benefício; ou
+II - utilização com a finalidade de saque por meio de cartão de crédito ou cartão consignado de benefício.
 § 6º A instituição financeira que proceder à retenção de valor superior ao limite estabelecido no § 5º deste artigo perderá todas as garantias que lhe são conferidas por esta Lei.
