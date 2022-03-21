@@ -1,0 +1,107 @@
+SUSPENSÃO DE TUTELA PROVISÓRIA. REPARTIÇÃO DE RECEITAS TRIBUTÁRIAS. ICMS. DECISÃO QUE SUSPENDE A EXECUÇÃO DE DECISÃO TRANSITADA EM JULGADO. ALEGAÇÃO DE RISCO À ORDEM E À ECONOMIA PÚBLICAS. OCORRÊNCIA. SUSPENSÃO DE PROCESSOS QUE NÃO SE APLICA A EXECUÇÕES DEFINITIVAS. PRECEDENTES. TRÂNSITO EM JULGADO DA CONTROVÉRSIA PELA APLICAÇÃO DO TEMA 42 DA SISTEMÁTICA DA REPERCUSSÃO GERAL. VERBAS QUE FORAM DECLARADAS COMO PERTENCENTES AO MUNICÍPIO. ART. 158, IV, DA CF. IMPOSSIBILIDADE DE RESCISÃO. PRINCÍPIO DA SEGURANÇA JURÍDICA. TEMA 136 DA SISTEMÁTICA DA REPERCUSSÃO GERAL. DEFERÊNCIA À DECISÃO LIMINAR NA ADPF 928. PEDIDO DE SUSPENSÃO QUE SE JULGA PROCEDENTE.
+
+    Decisão: Trata-se de pedido de suspensão de segurança ajuizado pelo Município de Goiatuba/GO contra decisão monocrática proferida nos autos no Cumprimento de Sentença nº 0325840-59.2013.8.09.0000, em curso no Tribunal de Justiça de Goiás, em virtude da qual restou suspensa execução manejada pelo Município em face do Estado de Goiás.
+
+    Narra o requerente que se trata, na origem, de ação ordinária ajuizada objetivando a restituição de quantias indevidamente retidas pelo Estado de Goiás. Relata havido a condenação do Estado de Goiás ao ressarcimento da diferença entre o valor repassado a título de ICMS e aquele efetivamente devido, mediante a aplicação da tese fixada sob o Tema 42 da sistemática da repercussão geral deste Supremo Tribunal Federal, sentença esta que foi mantida em segunda instância, tendo o processo transitado em julgado.
+
+     Informa que, após o trânsito em julgado, foi instaurado perante o Tribunal de Justiça do Estado de Goiás incidente de resolução de demandas repetitivas, em razão da existência de divergências na Corte Estadual quanto aos Temas 42 e 653 da repercussão geral, relativos ao repasse da cota parte de ICMS dos municípios retidas por meio dos programas de incentivo fiscal Fomentar e Produzir. Narra que o referido incidente foi admitido, com a determinação de suspensão de todos os processos na fase de conhecimento ou cumprimento de sentença a respeito do procedimento de satisfação do crédito decorrente das sentenças referentes aos incentivos fiscais instituídos pelos programas estaduais Fomentar e Produzir.
+
+    Sustenta que a sustação do andamento da execução de origem seria indevido, porquanto já ocorrido o trânsito em julgado do processo de conhecimento. Aduz que a decisão cuja suspensão se requer, na medida em que posterga o repasse do ICMS devido, seria “capaz de gerar dano irreparável ou de difícil reparação na medida que, em tempos de grave crise sanitária causada pela pandemia que assola não só nosso país, mas o mundo inteiro, todos os recursos públicos devem ser disponibilizados aos seus destinatários constitucionalmente eleitos, sob pena de sérios prejuízos não só financeiros para o município reclamante”.
+
+    Requer, por estes fundamentos, o deferimento da liminar, como posterior confirmação, a fim de que restem suspensos os efeitos da decisão do Tribunal de Justiça do Estado de Goiás nos autos do Processo nº 0325840-59.2013.8.09.0000.
+
+    Devidamente intimado, o Estado de Goiás apresentou contrariedade ao pedido de suspensão, sustentando, em síntese: a) a perda de objeto do pedido de suspensão formulado, em virtude da decisão liminar proferida nos autos da ADPF 928; b) o não cabimento do incidente de contracautela, por ser monocrática a decisão impugnada; c) a existência de periculum in mora inverso na concessão da suspensão, haja vista o impacto às finanças públicas estaduais que o prosseguimento da execução na origem acarretaria; e d) que a execução em tela deveria se dar de acordo com a sistemática dos precatórios (doc. 28).
+
+    A Procuradoria-Geral da República se manifestou pela perda de objeto do pedido de suspensão, em parecer que restou assim ementado (doc. 31):
+
+    “SUSPENSÃO DE SEGURANÇA. CONSTITUCIONAL. TRIBUTÁRIO. ICMS. INCENTIVO FISCAL. TEMA 42 DA REPERCUSSÃO GERAL. DECISÃO TRANSITADA EM JULGADO. FASE DE EXECUÇÃO. SOBRESTAMENTO. JUÍZO DE RETRATAÇÃO. PERDA SUPERVENIENTE DO INTERESSE DE AGIR.
+
+    1. Há perda superveniente do interesse de agir quando a decisão que se busca suspender é revogada em juízo de retratação exercido na demanda de origem, o que afasta a utilidade e a necessidade da medida suspensiva requerida no STF.
+
+    – Parecer pela extinção do feito, sem julgamento de mérito, por perda superveniente do interesse de agir.
+
+    É o relatório. DECIDO.
+
+    A legislação prevê o incidente de contracautela como meio processual autônomo de impugnação de decisões judiciais, franqueado ao Ministério Público ou à pessoa jurídica de direito público interessada exclusivamente quando se verifique risco de grave lesão à ordem, à saúde, segurança e à economia públicas no cumprimento da decisão impugnada (art. 4º, caput, da Lei 8.437/1992; art. 15 da Lei 12.016/2009 e art. 297 do RISTF).
+
+    Com efeito, ao indicar tais circunstâncias como fundamentos dos incidentes de suspensão, a própria lei indica causas de pedir de natureza eminentemente política e extrajurídica, diferenciando-se das causas que geralmente justificam outros meios de impugnação de decisões judiciais e que se revelam como conceitos jurídicos indeterminados, a serem apreciados pelo julgador perante o caso concreto. Nesse sentido, também aponta a clássica jurisprudência desta Corte, in verbis:
+
+    “Suspensão de segurança: natureza cautelar e pressuposto de viabilidade do recurso cabível contra a decisão concessiva da ordem. A suspensão de segurança, concedida liminar ou definitivamente, é contracautela que visa à salvaguarda da eficácia pleno do recurso que contra ela se possa manifestar, quando a execução imediata da decisão, posto que provisória, sujeita a riscos graves de lesão interesses públicos privilegiados - a ordem, a saúde, a segurança e a economia pública: sendo medida cautelar, não há regra nem princípio segundo os quais a suspensão da segurança devesse dispensar o pressuposto do fumus boni juris que, no particular, se substantiva na probabilidade de que, mediante o futuro provimento do recurso, venha a prevalecer a resistência oposta pela entidade estatal à pretensão do impetrante. […]”. (SS 846/DF-AgR, Rel. Min. Sepúlveda Pertence, Tribunal Pleno, DJ de 8/11/1996).
+
+    À luz da natureza do instituto, a cognição do Presidente do Tribunal a quem compete a análise do incidente de contracautela deve se limitar à aferição da existência de risco de grave lesão ao interesse público, além de um juízo mínimo de plausibilidade do fundamento jurídico invocado, não cabendo-lhe a manifestação quanto ao mérito propriamente dito do que discutido no processo originário, eis que o mérito deverá ser oportunamente apreciado pelo Tribunal competente na via recursal própria. Nesse sentido é a jurisprudência desta Suprema Corte, ao afirmar que “a natureza excepcional da contracautela permite tão somente juízo mínimo de delibação sobre a matéria de fundo e análise do risco de grave lesão à ordem, à saúde, à segurança e à economia públicas” (SS 5.049-AgR-ED, rel. Min. Presidente Ricardo Lewandowski, Tribunal Pleno, DJe de 16/5/2016). Na mesma linha, é o seguinte precedente:
+
+    “Agravo regimental na suspensão de liminar. Decisão na origem em que se determinou a ampliação da distância até a qual veículos particulares podem trafegar em corredores exclusivos de ônibus para acessar vias transversais. Não comprovação de lesão à ordem social e administrativa. Agravo regimental a que se nega provimento. 1. Na estreita via de pedidos de suspensão como o presente, não se procede a uma detida análise do mérito da ação principal, tampouco se permite revolvimento do respectivo quadro fático-probatório, mas apenas a análise dos requisitos elencados pela legislação de regência. 2. É inadmissível, ademais, o uso da suspensão como sucedâneo recursal. 3. Agravo regimental ao qual se nega provimento.” (SL 1.165 AgR, Rel. Min. Dias Toffoli, Presidente, Tribunal Pleno, DJe 13/02/2020).
+
+    Anote-se ademais que, além da potencialidade do ato questionado em causar lesão ao interesse público, o conhecimento do incidente de suspensão dos efeitos das decisões provisórias pelo Presidente deste Supremo Tribunal Federal está condicionado à demonstração de que a decisão foi proferida por Tribunal e de que a controvérsia instaurada na ação originária esteja fundada em matéria de natureza constitucional (STA 782 AgR/SP, Relator Min. Dias Toffoli; SS 5112 AgR/SC, Relatora Min. Cármen Lúcia; STA 729-AgR/SC, Relator Min. Ricardo Lewandowski, e STA 152-AgR/PE, Relatora Min. Ellen Gracie). Trata-se de interpretação que deflui, a contrario sensu, também da disposição do art. 25, caput, da Lei n. 8.038/1990.
+
+    In casu, o pedido de suspensão se volta contra decisão monocrática proferida no âmbito do Tribunal de Justiça de Goiás, em virtude da qual foi determinada a suspensão de cumprimento definitivo de sentença instaurado pelo Município autor em face do Estado de Goiás. Haja vista ter sido a decisão impugnada proferida por Tribunal e considerando a matéria controvertida na origem, relativa à repartição obrigatória das receitas de ICMS entre os entes federativos (art. 158, IV, da CF), verifico o cabimento do presente incidente.
+
+    Isto posto, cumpre pontuar, no mérito do presente pedido de suspensão, colher-se da jurisprudência deste Supremo Tribunal Federal o entendimento de que a suspensão nacional de processos, prevista no art. 1.035, §5º, do CPC, não se aplica a processos que estejam em fase de execução definitiva – entendimento este que deve se estender, pelos mesmos fundamentos, à suspensão de que trata o art. 982, I, do CPC, decorrente da instauração de Incidente de Resolução de Demandas Repetitivas. Nesse sentido são os seguintes precedentes de ambas as turmas desta Corte:
+
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. ALEGADO DESCUMPRIMENTO DE SUSPENSÃO NACIONAL. TEMA 1.046 DA REPERCUSSÃO GERAL. IMPOSSIBILIDADE DE SUSPENSÃO DE PROCESSO EM FASE DE EXECUÇÃO.
+
+    1. Reclamação em que se alega violação à decisão de suspensão nacional de todos os processos pendentes, individuais ou coletivos, que versem sobre validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente, determinada pelo Min. Gilmar Mendes, relator do ARE 1.121.633, Tema 1.046 da repercussão geral.
+
+    2. Ausência de aderência estrita entre a decisão reclamada e o paradigma invocado pela reclamante. A presente reclamação não tem por objeto processo pendente, mas, sim, processo em fase de execução definitiva.
+
+    3. O “sobrestamento, neste momento processual [isto é, na fase de execução] representaria afronta à coisa julgada e consequente violação ao disposto no art. 5°, inciso XXXVI, da CF; art. 508 do CPC e art. 6º da LINDB” (Rcl 38.068, Rel. Min. Gilmar Mendes).
+
+    4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015”. (Rcl 42.681 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 27/10/2020).
+
+    “RECLAMAÇÃO. REPERCUSSÃO GERAL. TEMA 1.046. DETERMINAÇÃO DE SUSPENSÃO NACIONAL. DECISÃO COM TRÂNSITO EM JULGADO. PROCESSO EM FASE DE EXECUÇÃO. IMPOSSIBILIDADE. ADERÊNCIA ESTRITA. INEXISTÊNCIA. RECLAMAÇÃO COMO SUBSTITUTIVO DE AÇÃO RESCISÓRIA. INADMISSIBILIDADE. AGRAVO A QUE SE NEGA PROVIMENTO.
+
+    1. Ocorrido o trânsito em julgado da ação de conhecimento em data anterior à determinação de suspensão nacional dos processo, proferida em sede de repercussão geral, e estando o processo em face de execução definitiva, inviável se revela a reclamação com vistas à determinar de suspensão do feito, ante a impossibilidade de modificação da coisa julgada.
+
+    2. A ausência de identidade entre a hipótese versada na reclamação e aquela objeto do processo paradigma revela a falta de aderência estrita, pressuposto necessário ao processamento da reclamação.
+
+    3. A Jurisprudência desta Corte possui entendimento consolidado no sentido da inviabilidade da reclamação constitucional como substitutivo de recurso ou ação próprios.
+
+    4. Agravo regimental a que se nega provimento”.(Rcl 42.394 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 25/02/2021).
+
+    Haja vista tratar-se o processo de origem de incidente de cumprimento definitivo de sentença, revela-se, em juízo mínimo de delibação sobre a matéria de fundo, indevida a suspensão determinada na origem. A reforçar esta percepção está o fato de que este Supremo Tribunal Federal já teve a oportunidade de se manifestar sobre incidente de cumprimento de sentença semelhante instaurado pelo Município de Cachoeiras de Goiás em face do Estado de Goiás, por ocasião do julgamento do ARE 1.276.522, no qual a Primeira Turma desta Corte, à unanimidade, assentou a inviabilidade da rediscussão de aspectos concernentes à formação do título executivo, além da inaplicabilidade na espécie da execução pela sistemática dos precatórios. In verbis:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Tributário. Repartição de receita devida a entes federados. Processo em fase de liquidação da sentença. Inadmissível a análise de aspectos concernentes à formação do título executivo. Determinação de repasse imediato. Obrigação de fazer. Desnecessidade de sujeição ao regime de precatórios.
+
+    1. No caso de controvérsia instaurada em sede de liquidação de sentença, não há que se falar na análise da legalidade da constituição do título exequendo.
+
+    2. O cumprimento de ordem judicial que determina o imediato repasse de receitas tributárias constitucionalmente asseguradas a determinado ente federado e indevidamente retidas por estado-membro não se sujeita ao regime de precatórios, por se tratar de obrigação de fazer. Precedentes.
+
+    3. Agravo regimental não provido”. (ARE 1.276.522 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 05/05/2021).
+
+    Cumpre salientar, ademais, que, nos termos da jurisprudência deste Supremo Tribunal Federal, eventual superação do entendimento cristalizado no Tema 42 da sistemática da repercussão geral, operada seja no IRDR do Tribunal de Justiça de Goiás, seja pelo julgamento do RE 1.288.634 (Tema-RG 1.172) por esta Suprema Corte, não terá o condão de rescindir o acórdão executado na origem pelo Município autor, gerando efeitos apenas sobre os processos de conhecimento ainda em curso e sobre outros que venham a ser propostos no futuro. É o que se depreende das teses fixadas pelo Plenário deste Supremo Tribunal Federal nos julgamentos dos RE´s 730.462 e 590.809 (Temas 733 e 136 da sistemática da repercussão geral, respectivamente), segundo as quais não se opera automaticamente a desconstituição de julgado pela superação de entendimento jurisprudencial e não cabe ação rescisória contra acórdão que, à época de sua prolatação, estava em conformidade com precedente vinculante deste Supremo Tribunal Federal. Trata-se de entendimentos que visam homenagear o princípio da segurança jurídica. In verbis:
+
+    Tema-RG 733. “A decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das decisões anteriores que tenham adotado entendimento diferente. Para que tal ocorra, será indispensável a interposição de recurso próprio ou, se for o caso, a propositura de ação rescisória própria, nos termos do art. 485 do CPC, observado o respectivo prazo decadencial (CPC, art. 495)” (grifei).
+
+    Tema-RG 136. “Não cabe ação rescisória quando o julgado estiver em harmonia com o entendimento firmado pelo Plenário do Supremo à época da formalização do acórdão rescindendo, ainda que ocorra posterior superação do precedente”. (grifei).
+
+    Constatada, por estas razões, a plausibilidade da tese sustentada pelo Município autor, vislumbro, outrossim, a existência de risco à economia pública municipal na manutenção da decisão cuja suspensão se requer. Isto porque a decisão executada na origem declarou o direito do Município autor à complementação de repasses de ICMS, mediante a aplicação do Tema 42 da sistemática da repercussão geral deste Supremo Tribunal Federal, in verbis:
+
+    “CONSTITUCIONAL. ICMS. REPARTIÇÃO DE RENDAS TRIBUTÁRIAS. PRODEC. PROGRAMA DE INCENTIVO FISCAL DE SANTA CATARINA. RETENÇÃO, PELO ESTADO, DE PARTE DA PARCELA PERTENCENTE AOS MUNICÍPIOS. INCONSTITUCIONALIDADE. RE DESPROVIDO.
+
+    I - A parcela do imposto estadual sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, a que se refere o art. 158, IV, da Carta Magna pertence de pleno direito aos Municípios.
+
+    II - O repasse da quota constitucionalmente devida aos Municípios não pode sujeitar-se à condição prevista em programa de benefício fiscal de âmbito estadual.
+
+    III - Limitação que configura indevida interferência do Estado no sistema constitucional de repartição de receitas tributárias.
+
+    IV - Recurso extraordinário desprovido”. (RE 572.762, Rel. Min. Ricardo Lewandowski, DJe 05/09/2008 - grifei).
+
+    Deveras, a Constituição Federal previu a forma federativa de Estado como cláusula pétrea (art. 60, §4º, I) e, como forma de viabilizar a autonomia dos entes federativos, atribui a cada qual receitas que lhe são próprias. Entre as receitas constitucionalmente atribuídas aos Municípios está a parcela de 25% do produto da arrecadação do ICMS, nos termos do art. 158, IV, da CF, sendo exatamente esta a natureza dos valores executados pelo Município na origem no presente caso concreto.
+
+    Em sendo, pois, de titularidade do Município de origem as verbas executadas na origem por força de norma constitucional, depreende-se a existência de risco à economia pública na manutenção de decisão que priva indevidamente a municipalidade de valores que lhe pertencem de pleno direito, conforme reconhecido em decisão transitada em julgado, os quais são certamente necessários ao enfrentamento das diversas necessidades públicas, de modo a restar configurado, no caso concreto, risco de grave lesão ao interesse público apto ensejar a concessão excepcional da medida de contracautela pleiteada, nos termos dos artigos 4º, caput, da Lei 8.437/1992 e art. 297 do RISTF.
+
+    Ademais, entendo não haver que se falar em periculum in mora inverso às finanças públicas estaduais no presente caso concreto, na medida em que não se revela cabível a atribuição de maior relevância às necessidades orçamentárias dos Estados em detrimento das necessidades igualmente relevantes das Municipalidades, sob pena de violação à própria ideia de Federação, mediante a hierarquização dos entes federados.
+
+    Por fim, cumpre salientar que a presente decisão não afasta a necessidade de observância de determinações de suspensão de processos ou modos de execução decorrentes da decisão proferida na ADPF 928 ou em outros feitos submetidos à apreciação dessa Corte.
+
+    Ex positis, JULGO PROCEDENTE O PEDIDO DE SUSPENSÃO formulado, com fundamento nos artigos 4º, caput , da Lei 8.437/1992 e 297 do RISTF, para determinar a sustação dos efeitos da decisão proferida no Processo nº 0325840-59.2013.8.09.0000, em curso perante o Tribunal de Justiça de Goiás, ressalvada a necessidade de observância de determinações de suspensão de processos ou modos de execução decorrentes da decisão proferida na ADPF 928 ou em outros feitos submetidos à apreciação dessa Corte.
+
+    Publique-se. Int..
+
+    Brasília, 21 de março de 2022.
+
+Ministro Luiz Fux
+
+Presidente
+
+Documento assinado digitalmente
