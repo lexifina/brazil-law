@@ -1,0 +1,31 @@
+Decisão:
+
+    Vistos.
+
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário.
+
+    Decido.
+
+    Não merece prosperar o recurso, haja vista que, nos termos do artigo 102, inciso III, da Constituição Federal, o recurso extraordinário é cabível apenas de decisão proferida em última ou única instância, o que não é o caso dos autos, uma vez que o recurso de agravo em recurso especial interposto contra o acórdão da 12ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, foi julgado por decisão monocrática do relator no STJ.
+
+    Assim, este julgado ainda dava margem à interposição de agravo interno (artigo 1.021 do Código de Processo Civil). Incidência do enunciado da Súmula nº 281 desta Corte, que assim dispõe, in verbis: “É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada”.
+
+    Sobre o tema, destacam-se os seguintes precedentes:
+
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. APELO EXTREMO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA DE RELATOR NA CORTE DE ORIGEM. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA. SÚMULA 281/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE nº 664.388/DF-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 23/3/15);
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE ROUBO QUALIFICADO. ARTIGO 157, § 2º, II, DO CÓDIGO PENAL. MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO PELO ARQUIVAMENTO DE INQUÉRITO POLICIAL. DEFERIMENTO PELO JUIZ. ALEGADA NÃO APLICAÇÃO DO ARTIGO 28 DO CÓDIGO DE PROCESSO PENAL. NÃO EXAURIMENTO DAS VIAS ORDINÁRIAS. SÚMULA 281/STF. INCIDÊNCIA. 1. A decisão que desafia o recurso extraordinário deve provir de única ou última instância, por isso que o não esgotamento das mesmas conduz à inadmissão do apelo extremo. Precedente: ARE 731.916-AgR, Rel. Min. Joaquim Barbosa, Plenário, DJe 11/11/2013. 2. A Súmula 281 do STF dispõe, verbis: É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada. 3. In casu, o acórdão extraordinariamente recorrido assentou: ‘Decisão que defere pedido do Ministério Público de arquivamento de Inquérito Policial – Peça apresentada sob a denominação de agravo – Alegação de que há justa causa para a instauração de ação penal – Crime em tese que desafia ação penal pública incondicionada – Opinio delicti exclusiva do Ministério Público – Decisão monocrática que nega seguimento por ser manifestamente incabível – Agravo regimental – Alegação de novas provas – Se existem provas novas incumbe à requerente encaminhá-las à Delegacia de Polícia ou ao Ministério Público para as providências cabíveis – Decisão monocrática mantida – Agravo regimental negado.’ 4. Agravo regimental a que se NEGA PROVIMENTO” (ARE nº 815.792/RJ-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 11/11/14);
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL.RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. CAUSA DE ALÇADA: SÚMULA N. 281 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 789.106/SP-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 14/5/14).
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 21 de março de 2022.
+
+Ministro Dias Toffoli
+
+Relator
+
+Documento assinado digitalmente
