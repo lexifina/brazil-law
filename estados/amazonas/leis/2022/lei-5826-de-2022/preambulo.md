@@ -1,0 +1,11 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+LEI N. 5.826, DE 22 DE MARÇO DE 2022.
+
+INSTITUI ações de enfrentamentos ao cyberbullying nas escolas públicas do Estado do Amazonas.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
