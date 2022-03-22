@@ -1,0 +1,31 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    DIREITO TRIBUTÁRIO. CONSTITUCIONAL. APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. PRETENSÃO DE QUE SE RECONHEÇA A ILEGALIDADE DA COBRANÇA DE ICMS NO FORNECIMENTO DE ENERGIA ELÉTRICA, SOBRE O ACRÉSCIMO DECORRENTE DO SISTEMA DE BANDEIRAS TARIFÁRIAS. DESCABIMENTO. ADICIONAL QUE ESTÁ DIRETAMENTE RELACIONADO COM AS VARIAÇÕES DO CUSTO DE ENERGIA ELÉTRICA, SENDO PARTE INTEGRANTE DO PRODUTO. INTEMPÉRIES CLIMÁTICAS QUE TORNAM O VALOR DA PRODUÇÃO DE ENERGIA MAIS ONEROSO, ACARRETANDO, EM CONSEQUÊNCIA, O AUMENTO DO IMPOSTO, QUE RECAI SOBRE A MERCADORIA COMERCIALIZADA. APLICAÇÃO DA SÚMULA 392 DO STJ. DIFERENCIAÇÃO COM TUSD E TUST, RELATIVOS À DISTRIBUIÇÃO E TRANSMISSÃO DE ENERGIA, MAS NÃO À ENERGIA ELÉTRICA EM SI. PRECEDENTES DESTE E. TRIBUNAL DE JUSTIÇA. REPETIÇÃO DE INDÉBITO. NÃO CABIMENTO. APELO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA. 1. O tema debatido no apelo interposto pela impetrante é a possibilidade de a impetrante recolher o ICMS incidente sobre suas faturas de energia elétrica somente sobre o valor de energia efetivamente utilizada mensalmente, desconsiderando a parcela correspondente ao adicional de bandeira tarifária amarela e vermelha, haja vista não se tratar de circulação de mercadoria, fato gerador do imposto, bem como o direito ao aproveitamento/compensação de tais valores recolhidos indevidamente nos últimos 5 (cinco) anos. 2. Afirma a apelante que o fato imponível do ICMS incidente sobre energia elétrica se perfaz no seu consumo efetivo e não sobre o adicional de bandeiras tarifárias. Contudo, o Estado do Ceará vem cobrando o tributo sobre parcela de energia elétrica a título de adicional de bandeira tarifária amarela e vermelha, que corresponde a um acréscimo na tarifa da energia elétrica. Em outras palavras, de acordo com a apelante, o adicional de bandeiras tarifárias não deveria compor a base de cálculo do ICMS, já que o referido imposto deve ter relação direta com o valor da energia elétrica efetivamente consumida. 3. Com efeito, o sistema de bandeiras tarifárias foi instituído pela Agência Nacional de Energia Elétrica - ANEEL, por meio da Resolução nº 547, de maio de 2013, sendo sua metodologia apresentada nas contas de energia elétrica. O adicional ou o sistema de bandeira tarifária está diretamente relacionado com as variações de custo da energia elétrica, fazendo parte integrante do produto final, o que significa dizer que o adicional somente incide quando aumenta o custo de produção de energia elétrica. 4. Tais variações podem ocorrer em razão do clima, da existência de chuvas ou não, enfim, de uma série de fatores climáticos, que alteram o modo como a energia elétrica é produzida. Quando ocorrem tais intempéries, a utilização das hidrelétricas não é suficiente, sendo necessário acionar as termoelétricas, que utilizam outras matérias-primas para a produção de energia, tais como o carvão, gás natural, óleo combustível, o que torna a produção, invariavelmente, mais onerosa. Sendo a produção da própria energia elétrica mais dispendiosa, haverá, em consequência, aumento do ICMS que incidirá sobre ela, porque a mercadoria, em si considerada, sofreu elevação em seu custo de produção. 5. De acordo com o art. 155, inc. II, da Constituição Federal: “Compete aos Estados e ao Distrito Federal instituir impostos sobre: II - operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação ainda que as operações e as prestações se iniciem no exterior”. 6. Portanto, o fato gerador do ICMS é a circulação de mercadorias. Contudo, como é sabido, a circulação deve ser jurídica, ou seja, implica a transferência de propriedade. A energia elétrica é considerada mercadoria em nosso ordenamento jurídico e, como conclusão lógica, o ICMS deve incidir sobre o valor da energia efetivamente consumida, abarcando o sistema de bandeiras tarifárias, que apenas revela o custo de produção da energia. 7. Em complementação, registro que, ao contrário do sustentado pela parte autora, o entendimento constante da sentença não vai de encontro à Súmula 391 do STJ e ao julgamento do REsp. 486.926-RS3, nos quais restou assentada a impossibilidade de cobrança do imposto em tela sobre potência energética não utilizada pelo contribuinte de fato. Isso porque a cobrança decorrente de bandeiras tarifárias, como exaustivamente analisado no provimento judicial objurgado, decorre do custo extraordinário na geração da energia e seu repasse ao consumidor, e não com a potência utilizada ou não pelo consumidor. 8. Apelação conhecida e desprovida. Sentença mantida.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 155, II, § 3º da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que a alegada violação do princípio da legalidade seria, se ocorresse, indireta ou reflexa, o que não enseja reexame da matéria em sede de recurso extraordinário, conforme previsto na Súmula nº 636 desta Corte, que dispõe in verbis:
+
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade[...] quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+
+    Nesse sentido, os seguintes precedentes: ARE nº1.172.505/MG-ED, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 6/5/19; ARE nº 1.175.218/MG-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 20/5/19 e ARE nº ARE nº 1.160.836/SP-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 1º/2/19.
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 22 de março de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
