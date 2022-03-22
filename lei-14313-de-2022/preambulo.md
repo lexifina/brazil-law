@@ -1,0 +1,2 @@
+Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para dispor sobre os processos de incorporação de tecnologias ao Sistema Único de Saúde (SUS) e sobre a utilização, pelo SUS, de medicamentos cuja indicação de uso seja distinta daquela aprovada no registro da Agência Nacional de Vigilância Sanitária (Anvisa).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
