@@ -3,3 +3,4 @@ Art. 19-Q. A incorporação, a exclusão ou a alteração pelo SUS de novos medi
 § 2º O relatório da Comissão Nacional de Incorporação de Tecnologias no SUS levará em consideração, necessariamente:
 I - as evidências científicas sobre a eficácia, a acurácia, a efetividade e a segurança do medicamento, produto ou procedimento objeto do processo, acatadas pelo órgão competente para o registro ou a autorização de uso;
 II - a avaliação econômica comparativa dos benefícios e dos custos em relação às tecnologias já incorporadas, inclusive no que se refere aos atendimentos domiciliar, ambulatorial ou hospitalar, quando cabível.
+§ 3º As metodologias empregadas na avaliação econômica a que se refere o inciso II do § 2º deste artigo serão dispostas em regulamento e amplamente divulgadas, inclusive em relação aos indicadores e parâmetros de custo-efetividade utilizados em combinação com outros critérios.
