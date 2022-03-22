@@ -1,0 +1,65 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+
+Processo N.
+EMBARGOS DE DECLARAÇÃO CÍVEL 0709497-15.2020.8.07.0005
+
+EMBARGANTE(S)
+MARLY RIBEIRO DA COSTA
+
+EMBARGADO(S)
+CENTRO EDUCACIONAL DE WENCESLAU BRAZ-CENEBRA LTDA - ME,IBEADF INSTITUICAO BRASILEIRA DE EDUCACAO A DISTANCIA DO DISTRITO FEDERAL LTDA - ME e ASSOCIACAO DE ENSINO SUPERIOR DE NOVA IGUACU
+
+Relator
+Juiz FERNANDO ANTONIO TAVERNARD LIMA
+
+Acórdão Nº
+1407909
+
+EMENTA
+
+EMBARGOS DECLARATÓRIOS APÓS EMBARGOS DECLARATÓRIOS. SUPERVENIENTE PEDIDO DE CONFLITO DE COMPETÊNCIA COM O PROPÓSITO DE MODIFICAR A SITUAÇÃO PROCESSUAL DE EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO (OBJETO DOS ÚLTIMOS EMBARGOS), EM RAZÃO DO RECONHECIMENTO DA COMPETÊNCIA ABSOLUTA DA JUSTIÇA FEDERAL (TESE 1154 STF). INADMISSIBILIDADE. RECURSO IMPROVIDO.
+
+I. O embargante UNIG (parte requerida) teve a questão de mérito assim reanalisada nos primeiros embargos declaratórios opostos: “EMBARGOS DE DECLARAÇÃO. MOMENTO PROCESSUAL ADEQUADO, POR ECONOMIA PROCESSUAL, À REANÁLISE DA MATÉRIA FRENTE À DECISÃO VINCULANTE DA CORTE SUPREMA (TEMA 1.154): COMPETE À JUSTIÇA FEDERAL PROCESSAR E JULGAR FEITOS EM QUE SE DISCUTA CONTROVÉRSIA RELATIVA À EXPEDIÇÃO DE DIPLOMA DE CONCLUSÃO DE CURSO SUPERIOR REALIZADO EM INSTITUIÇÃO PRIVADA DE ENSINO QUE INTEGRE O SISTEMA FEDERAL DE ENSINO, MESMO QUE A PRETENSÃO SE LIMITE AO PAGAMENTO DE INDENIZAÇÃO. EMBARGOS ACOLHIDOS COM EFEITOS MODIFICATIVOS. ACOLHIDA A PRELIMINAR DE INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. PROCESSO EXTINTO SEM RESOLUÇÃO DE MÉRITO. I. A parte embargante sustenta a existência de omissões no acórdão originário, notadamente no que refere à rejeição da preliminar de incompetência do juízo. Alega que: (a) existe entendimento jurisprudencial consolidado no Eg. Tribunal de Justiça do Estado de São Paulo que reconhecem a competência da Justiça Federal, uma vez que se trata de competência absoluta, consoante ao artigo 109, I da CRFB/88 c/c art. 16, inciso II da Lei n° 9.394/96; (b) Tal entendimento é pautado tanto no STJ como no STF. Com efeito, importante esclarecer que a Justiça Federal é competente para julgar as causas dessa natureza, tendo em vista que as instituições de ensino superior privadas se SUBMETEM a norma Federal, o denominado “Sistema Federal de Ensino”; (c) a UNIVERSIDADE IGUAÇU (UNIG) é instituição de ensino superior e, ainda que privada, integra o Sistema Federal de Educação, nos termos do que determina a Lei de Diretrizes e Bases da Educação (Lei nº 9.394/96). Ademais, ainda que a União negue a existência de interesse no feito, patente é a existência de interesse da União, razão pela qual a competência para julgar e processar o feito é da Justiça Federal; (d) o SUPREMO TRIBUNAL FEDERAL, decidiu sob o regime da repercussão geral, que as matérias relativas as instituições de ensino superior, integrantes do sistema federal de ensino, nos termos da lei de diretrizes e bases, são de competência da JUSTIÇA FEDERAL, ainda que tais causas versem tão somente sob cunho indenizatório (Tema 1.154); (e) sobretudo se persegue é implantar o respeito à segurança jurídica e ao tratamento igualitário de todos perante a lei, motivo pelo qual se torna mais pronta e previsível a solução de determinados conflitos jurídicos, pois uma vez constatada a existência de repercussão geral (Tema 1, o STF analisa o mérito da questão e a decisão proveniente dessa análise será aplicada posteriormente pelas instâncias inferiores, em casos idênticos, como é o caso destes autos. II. Os embargos declaratórios merecer acolhimento, com efeitos modificativos. III. Em 30.8.2021, após o julgamento dos recursos inominados por este colegiado, adveio o trânsito em julgado da decisão prolatada no Recurso Extraordinário 1304964 (repercussão geral), em que se fixou a seguinte tese (Tema 1.154): Compete à Justiça Federal processar e julgar feitos em que se discuta controvérsia relativa à expedição de diploma de conclusão de curso superior realizado em instituição privada de ensino que integre o Sistema Federal de Ensino, mesmo que a pretensão se limite ao pagamento de indenização. IV. Desse modo, urge a reanálise do recurso da ora embargante para alinhamento ao recente entendimento vinculante da Corte Suprema. V. Com efeito, em que pese a ação originária do RE 1304964 (representativo da controvérsia) tenha sido ajuizada com vistas ao restabelecimento da validade do registro de diploma de curso de nível superior que fora cancelada pela ora agravante, a tese firmada em sede de repercussão geral não deixa dúvidas acerca da incompetência da Justiça Estadual também nas ações meramente indenizatórias, como no caso concreto, em que a requerente pretende compensação por danos extrapatrimoniais, fundamentada no alegado cancelamento do registro do diploma em curso superior decorrente do descredenciamento da IES perante o Ministério da Educação (MEC) (ID 26778725, p. 8/9). VI. Assim, conforme o entendimento firmado pelo STF, restaria configurado o interesse da União, na medida em que a análise da matéria de fundo (danos morais) adentraria à constatação de eventuais irregularidades da IES e do registro do diploma em entidade credenciada pelo Ministério da Educação, tudo a redundar no reconhecimento da incompetência da Justiça estadual. VII. Providos os embargos declaratórios (acórdão 1366179), com efeitos modificativos Acolhida a preliminar de incompetência dos Juizados Especiais. Processo extinto sem resolução de mérito (Lei 9.099/95, art. 51, II e III e CPC, art. 485, IV)” (acórdão n. 1377296, em 14.10.2021).
+
+II. Nos segundos embargos declaratórios, agora opostos pela parte requerente, a questão foi julgada da seguinte forma: “EMBARGOS DECLARATÓRIOS. VÍCIOS INTRÍNSECOS INEXISTENTES NA DECISÃO ORA REVISTA. RECONHECIDA A INCOMPETÊNCIA ABSOLUTA DOS JUIZADOS ESPECIAIS À LUZ DO PRECEDENTE VINCULANTE DA CORTE SUPREMA (TEMA 1.154). EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO, CONFORME A ESPECÍFICA LEGISLAÇÃO DE REGÊNCIA (LEI 9.099/95, ART. 51, II). CONFLITO DE COMPETÊNCIA COM A JUSTIÇA FEDERAL. INOVAÇÃO RECURSAL A QUE SE NEGA CONHECIMENTO. EMBARGOS REJEITADOS. A parte embargante sustenta a existência de contradição, erro e omissão do acórdão originário, ao extinguir o processo sem resolução do mérito, tendo em vista que já houve contestação e réplica, estando o processo maduro para julgamento, não podendo ser extinto sem aproveitar referidos atos” (CPC, art. 64, § 3º e art. 64, § 4º e precedentes da Corte Superior). II. Não constatado o alegado vício na decisão colegiada revista, uma vez que o microssistema dos juizados é regido por normas e princípios próprios, sendo que a legislação de regência (Lei 9.099/95) preceitua a extinção do processo sem resolução do mérito, quando inadmissível o procedimento instituído por esta Lei ou seu prosseguimento, após a conciliação (art. 51, II). III. Desse modo, reconhecida a incompetência absoluta dos Juizados Especiais, à luz do precedente vinculante da Corte Suprema, não há de se falar em remessa dos autos à Justiça Trabalhista, por incompatível ao rito dos Juizados Especiais. IV. Nessa mesma linha de raciocínio jurídico, os seguintes julgados do Egrégio TJDFT: 2ª Turma Recursal, acórdão 1034367; 3ª Turma Recursal, acórdão 888592 V. A “ratio essendi” dos embargos declaratórios é simplesmente corrigir o defeito intrínseco da decisão, e não podem ser utilizados para refutar argumento jurídico que não satisfaz a pretensão do recorrente, cujo inconformismo revela interesse em rediscutir o mérito e modificar o entendimento do colegiado. VI. Ausente demonstração de qualquer defeito intrínseco ao acórdão, devida e suficientemente fundamentado (art. 48 da Lei 9.099/95 c/c CPC, art. 1.022, I e II). VII. No mais, nos termos do art. 1.025 do CPC, consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade VIII. Improvidos os embargos declaratórios” (acórdão n. 1390384, julgados em 07.12.2021).
+
+III. Irresignada, a parte requerente/embargante apresenta superveniente pedido, dirigido ao Desembargador Presidente do TJDFT, de conflito de competência, com amparo no artigo 66, inciso II do CPC, com a oitiva dos juízes em conflito e do representante do Ministério Público (ID 31568364 – p.2).
+
+IV. Deixo, no momento, de encaminhar o processo ao e. Desembargador Presidente do e. TJDFT, porque, a princípio, não se trataria da autoridade judiciária competente a conhecer e dirimir a questão (não poderia determinar a oitiva, a respeito, de juiz federal), uma vez que não teria sido instalado dentro do mesmo processo, própria e concretamente, o alegado conflito, dado que o juízo federal teria encerrado o seu processo, sem resolução de mérito.
+
+V.  Por conseguinte, uma vez esse pedido se confunde com o mérito dos segundos embargos declaratórios, passo então a conhecer do expediente, em razão da fungibilidade, como embargos declaratórios.
+
+VI. O expediente não comporta prosperidade (ainda que conhecidos como novos embargos declaratórios). A um, a temática (competência da justiça federal ou local) teria constituído fundamento dos embargos declaratórios opostos pelo próprio requerente/embargante (ID 30173893 - p. 4), os quais foram rejeitados, por constituir inovação recursal; logo, o requerente/embargante busca rediscutir o tema, para fins de concessão de efeitos infringentes ao acórdão, o qual não apresentaria qualquer defeito intrínseco. A dois, o processo teve origem no Juizado Especial Cível de Planaltina/DF, e não por declinação da justiça federal; logo, não há de se falar em acolhimento ou não da competência declinada, à luz do parágrafo único do artigo 66 do CPC, como arguido pelo requerente/embargante. A três, em momento algum na petição inicial e durante o curso do processo (até o momento do julgamento dos primeiros embargos declaratórios), a parte requerente teria feito eventual menção à propositura (precedente) de ação na justiça federal para o tratamento de idêntico assunto. A quatro, somente após o julgamento dos desses embargos declaratórios, a parte requerente/embargante apresenta documento que indicaria a propositura, em 2019, de ação perante a Justiça Federal (onde a tutela antecipada teria sido rejeitada) que poderia ter relação (ou identidade) ao presente processo. A cinco, no entanto, não foi juntada a petição inicial da ação ajuizada na justiça federal para se aferir a completa identidade de partes, objeto e pedido. A seis, a decisão de extinção do processo sem resolução de mérito na Justiça Federal teria sido prolatada, a princípio, antes da fixação da aludida tese 1154 do STF (motivo suficiente à fixação da competência da justiça federal). A sete, não há notícias de que a parte requerente/embargante tenha impugnado a sentença extintiva sem resolução de mérito na justiça federal, o que é indicativo de concordância com o mecanismo simplório da justiça especial (federal ou distrital) no sentido de se extinguir o processo, em vez de se declinar da competência. A oito, nesse passo, desponta conduta processual contraditória da parte requerente/embargante em pedir o conflito de competência, quando a legislação específica determina a extinção do processo sem análise de mérito. A nove, esse efeito processual constitui ônus de quem opta por litigar nos juizados especiais. A dez, se trataria de ineditismo processual, a não ser abarcado no presente estágio processual (questão processual definida nos embargos declaratórios). A onze, o pleito visaria, de modo oblíquo, modificar a conclusão jurídica processual do acórdão ora revisto (extinção do processo sem resolução de mérito, em virtude da competência absoluta da justiça federal).
+
+VII. Nesse quadro processual, não merecem prosperidade os embargos declaratórios.
+
+VIII. EMBARGOS DECLARATÓRIOS IMPROVIDOS.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, FERNANDO ANTONIO TAVERNARD LIMA - Relator, CARLOS ALBERTO MARTINS FILHO - 1º Vogal e DANIEL FELIPE MACHADO - 2º Vogal, sob a Presidência do Senhor Juiz FERNANDO ANTONIO TAVERNARD LIMA, em proferir a seguinte decisão: EMBARGOS CONHECIDOS. REJEITADOS. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 22 de Março de 2022
+
+Juiz FERNANDO ANTONIO TAVERNARD LIMAPresidente e Relator
+
+RELATÓRIO
+
+Dispensado o relatório (Lei n. 9099/95, Art. 46).
+
+VOTOS
+
+O Senhor Juiz FERNANDO ANTONIO TAVERNARD LIMA - Relator
+A súmula de julgamento servirá de acórdão, conforme inteligência dos artigos 2º e 46 da Lei 9.099/95.
+
+O Senhor Juiz CARLOS ALBERTO MARTINS FILHO - 1º Vogal Com o relator
+
+O Senhor Juiz DANIEL FELIPE MACHADO - 2º Vogal Com o relator
+
+DECISÃO
+
+EMBARGOS CONHECIDOS. REJEITADOS. UNÂNIME.
