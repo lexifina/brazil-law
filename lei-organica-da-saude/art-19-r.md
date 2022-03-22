@@ -4,4 +4,6 @@ I - apresentação pelo interessado dos documentos e, se cabível, das amostras 
 II - (VETADO);
 III - realização de consulta pública que inclua a divulgação do parecer emitido pela Comissão Nacional de Incorporação de Tecnologias no SUS;
 IV - realização de audiência pública, antes da tomada de decisão, se a relevância da matéria justificar o evento.
+V - distribuição aleatória, respeitadas a especialização e a competência técnica requeridas para a análise da matéria;
+VI - publicidade dos atos processuais.
 § 2º (VETADO).
