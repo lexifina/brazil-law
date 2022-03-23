@@ -1,0 +1,67 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial na Apelação Cível n. 0002645-86.2018.8.11.0033
+Recorrente: Destilaria de Álcool Libra Ltda.
+Recorrido: Shcaira Advogados Associados
+Vistos.
+Trata-se de recurso especial interposto por Destilaria de Álcool Libra Ltda., com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, em face do v. acórdão exarado pela Eg. Primeira Câmara de Direito Privado, assim ementado (id 87375469):
+“RECURSO DE APELAÇÃO CIVEL – EMBARGOS A EXECUÇÃO DE TÍTULO EXTRAJUDICIAL – CONTRATO DE HONORÁRIOS ADVOCATÍCIOS – PRELIMINAR DE CERCEAMENTO DE DEFESA – REJEIÇÃO – TÍTULO EXECUTIVO EXTRAJUDICIAL LÍQUIDO, CERTO E EXIGÍVEL – PREENCHIMENTO DOS REQUISITOS LEGAIS (ARTIGOS 783, 798 e 798, TODOS DO CPC) - ALEGAÇÃO DE EXCESSO – NÃO COMPROVAÇÃO – CÁLCULO ATUALIZADO RETRATANDO A EVOLUÇÃO DO DÉBITO - ADMISSIBILIDADE DA SENTENÇA – APELO DESPROVIDO.
+Em se tratando de execução de título extrajudicial regularmente firmado, não há falar em necessidade de produção de prova, prevalecendo o título, eis que a matéria é exclusivamente direito, e a execução é lastreada com prova documental, não havendo, no caso, qualquer contraposição idônea à prova apresentada.
+Considera-se líquido, certo e exigível o título executivo extrajudicial por quantia certa, que traz o demonstrativo do débito atualizado, contendo os índices e termos para comprovar a evolução da dívida, não havendo falar em excesso quando comprovada a idoneidade do título e a justeza da atualização trazida em planilha de cálculo, à luz dos artigos 783, 784 e 798, todos do CPC”. (N.U 0002645-86.2018.8.11.0033, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, SEBASTIAO BARBOSA FARIAS, Primeira Câmara de Direito Privado, Julgado em 18/05/2021, Publicado no DJE 21/05/2021).
+Opostos embargos de declaração, estes foram rejeitados no acórdão id 106785475.
+Na espécie, o presente recurso foi interposto contra o aresto que negou provimento à apelação proposta por Destilaria e Álcool Libra Ltda., mantendo, assim, a sentença prolatada pelo Juízo de Direito da 1a Vara Cível da Comarca de São José do Rio Claro/MT, que julgou totalmente improcedente o pedido formulado na inicial dos Embargos à Execução n. 2645-86.2018.8.11.0033 opostos em desfavor da apelada, Shcaira Advogados Associados. A sentença, ainda, condenou o embargante ao pagamento das custas e despesas processuais, bem como nos honorários de sucumbência, estes fixados em 10% sobre o valor atualizado da causa.
+A parte recorrente alega violação ao artigo 489, II, § 1o, I, II, III, IV e VI do Código de Processo Civil, ante a suposta carência de fundamentação do julgado.
+Suscita afronta aos artigos 787, 798, e 803, I, do CPC, além de divergência jurisprudencial, ao argumento de que “o contrato não se afigura como título liquido, certo e exigível, além de conter ainda, o excesso na execução”.
+Recurso tempestivo (id 111143477) e preparado (id 111184454).
+Contrarrazões no id 118090460.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação ao artigo 489, II, § 1o, I, II, III, IV e VI, do CPC
+A partir da suposta ofensa ao artigo 489, II, § 1o, I, II, III, IV e VI, do CPC, a parte recorrente alega que o órgão fracionário deste Tribunal não analisou o argumento acerca da “existência dos documentos hígidos e suficientes para concluir pela rescisão contratual de prestação de serviço”.
+Afirma que “requereu, expressamente, que o Tribunal se manifestasse quanto à questão omissa, contraditória, em referência à análise do cerceamento de defesa, por afronta ao artigo 5o, LIV e LV da C, face a ausência da produção de prova testemunhal; inépcia da inicial, carência da ação, ausência da liquidez, certeza e exigibilidade, excesso da execução e, causa debendi”.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora manifestou-se expressamente em relação ao aludido ponto, como se observa da transcrição abaixo:
+“Em síntese, levanta a Apelante a preliminar de cerceamento de defesa, em razão do julgamento antecipado da lide, quando havia pedido de produção de prova testemunhal.
+Malgrado as alegações de necessidade de produção de prova, tem-se que a execução trata de matéria exclusivamente de direito, com demonstração documental, eis que se trata de execução de título extrajudicial de quantia certa, não se mostrando, a meu viso, necessária a produção de prova testemunhal”. (id 87375469 - Pág. 4)
+“Atento aos termos da apelação, não há dúvida que não merece lograr êxito a pretensão recursal, isto porque consta nos autos demonstrativo do valor executado, preenchendo-se os requisitos legais do artigo 798, parágrafo único do CPC, pois foi trazida planilha com a atualização de débito, indicação de índices utilizados para demonstrar a evolução da dívida.
+(...)
+Assim, não há falar em carência da ação, tendo em vista que é notória a liquidez do título, bem como certeza e exigibilidade, ressaltando-se que não há qualquer documento idôneo capaz de contrapor o título executivo.
+Imprescindível se faz salientar que, se os serviços contratados não fossem prestados, é notório que diante dos valores contratados, certamente a executada teria tomado, ou pelo menos deveria tomar, as providências cabíveis para cessar imediatamente a obrigação, ou ajustá-la mediante documentação escrita. No entanto, não o fez, de modo que deve prevalecer os termos do contrato firmado, objeto da execução.
+Da mesma forma, em face da documentação colacionada, não há falar em excesso, tendo em vista que, apesar da alegação de que não foram os serviços advocatícios prestados adequadamente, não há, como já salientado, qualquer prova escrita a respeito de tal questão. Não basta alegar que, diante de tais serviços mal prestados, houve contratação de novos advogados. Não é o bastante. Seria necessário, primeiramente trazer subsídios fortes para deixar de adimplir a contratação firmada”. (id 87375469 - Pág. 5/7)
+Diante desse quadro, não há evidência de violação ao artigo 489, II, § 1o, I, II, III, IV e VI, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Do reexame de matéria fática e interpretação de cláusulas contratuais (Súmulas 5 e 7 do STJ)
+Consoante a previsão das Súmulas 5 e 7 do STJ, em sede de recurso especial não é possível a simples interpretação de cláusula contratual, tampouco o reexame de fatos e provas, pois segundo se depreende do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se exclusivamente à aplicação e à uniformização da interpretação direta das leis federais.
+A parte recorrente, por sua vez, alega violação aos artigos 787, 798, e 803, I, do CPC, amparada na assertiva de que “o contrato não se afigura como título liquido, certo e exigível, além de conter ainda, o excesso na execução”.
+No entanto, neste ponto, constou do aresto impugnado que “não há dúvida que não merece lograr êxito a pretensão recursal, isto porque consta nos autos demonstrativo do valor executado, preenchendo-se os requisitos legais do artigo 798, parágrafo único do CPC, pois foi trazida planilha com a atualização de débito, indicação de índices utilizados para demonstrar a evolução da dívida”. (id 87375469 - Pág. 6)
+Consignou-se, ainda, no acórdão recorrido que “em face da documentação colacionada, não há falar em excesso, tendo em vista que, apesar da alegação de que não foram os serviços advocatícios prestados adequadamente, não há, como já salientado, qualquer prova escrita a respeito de tal questão. Não basta alegar que, diante de tais serviços mal prestados, houve contratação de novos advogados. Não é o bastante. Seria necessário, primeiramente trazer subsídios fortes para deixar de adimplir a contratação firmada”. (87375469 - Pág. 7)
+Logo, para rever a conclusão adotada no acórdão recorrido sobre a certeza, liquidez e exigibilidade do contrato, bem como a ausência de excesso de execução, imprescindível o reexame do quadro fático-probatório dos autos, além da interpretação de cláusula contratual.
+Nesse sentido:
+“AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL ? AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM ? DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. A jurisprudência desta Corte Superior é firme no sentido de que a tese de omissão em sede de recurso especial deve vir atrelada à ofensa ao art. 1.022 do CPC/15 para que esta Corte Superior possa apreciar se o acórdão estadual incorreu, ou não, em negativa de prestação jurisdicional. Na hipótese, a parte não indicou ofensa ao art. 1022 do CPC/15, associada à tese relativa à omissão, razão pela qual incidiu o óbice da súmula 284/STF.
+2. No caso, a Corte estadual concluiu pela ausência de provas aptas a desconstituir o título executivo, assentando que o agravante não ficou impossibilitado de cumprir o determinado na Cláusula 5a contrato. Desse modo, reformar o entendimento do Tribunal estadual e acolher a tese referente à ausência dos requisitos necessários ao prosseguimento da execução (certeza, liquidez e exigibilidade) demandaria o reexame das provas anexadas aos autos e das cláusulas do contrato firmado entre as partes, o que é vedado em sede de recurso especial, nos termos do enunciado das Súmulas n. 5 e 7 do STJ 3. O acolhimento da tese de que os cálculos juntados pelo recorrente se prestariam a comprovar o alegado excesso de execução somente seria possível mediante o revolvimento dos elementos de fatos e provas documentais acostadas aos autos, providência vedada em sede de recurso especial, a teor do óbice da Súmula 7 do STJ.
+4. Agravo interno desprovido”. (AgInt nos EDcl no AgInt nos EDcl no AREsp 1656650/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/10/2021, DJe 08/10/2021).
+Por se tratar de pretensão de reanálise de fatos e provas, o exame do aventado dissídio jurisprudencial fica prejudicado, em virtude da incidência das Súmulas 5 e 7/STJ.
+A propósito:
+“PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. POSSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(...)
+VII O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+(...)
+X Agravo Interno improvido”. (AgInt no REsp 1912960/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 29/03/2021, DJe 06/04/2021). [g.n.]
+Dessa forma, o recurso especial não alcança admissão neste ponto, em razão da inviabilidade de revisão do entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos.
+Violação da Constituição Federal - Via inadequada
+Conforme se depreende da dicção dos artigos 102, III, e 105, III, ambos da Constituição Federal, não é possível a arguição de ofensa a dispositivo constitucional em sede de recurso especial, sob pena de usurpação de competência do STF, pois ao STJ compete apenas pacificar a interpretação dada a dispositivo de lei federal.
+Confira-se:
+“PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. MAGISTRADO APOSENTADO. INDENIZAÇÃO EM PECÚNIA. POSSIBILIDADE. PRECEDENTES. CABIMENTO DO WRIT. PRECEDENTES. DIREITO LÍQUIDO E CERTO. REEXAME. SÚMULA 7/STJ.
+1. O recurso especial não é via recursal adequada para analisar suposta ofensa a dispositivo constitucional, sob pena de usurpação da competência que, por expressa determinação da Constituição Federal, pertence ao Supremo Tribunal Federal.
+(...)
+5. Agravo interno não provido”. (AgInt no AREsp 1552147/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021). [g.n.]
+Em análise ao caso concreto, verifica-se a parte recorrente alegou violação ao artigo 5o, LIV e LV, da Constituição Federal, cujo exame é vedado nesta via, conforme visto acima, o que obsta a sua admissão neste ponto.
+Ante o exposto, inadmito o recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Nesse contexto, em virtude da inadmissão do recurso, resta prejudicada a análise do pleito de efeito suspensivo, ante a ausência de um dos pressupostos para a sua concessão (probabilidade de provimento do recurso), nos termos do art. 995, parágrafo único, c/c 1.029, § 5o, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
