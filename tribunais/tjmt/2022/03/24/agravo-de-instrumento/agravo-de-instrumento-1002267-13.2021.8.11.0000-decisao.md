@@ -1,0 +1,41 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial no Agravo de Instrumento n. 1002267-13.2021.8.11.0000
+Recorrente: Banco Santander (Brasil) S.A.
+Recorrido: Gustavo Goellner
+Vistos.
+Trata-se de recurso especial interposto pelo Banco Santander (Brasil) S.A., com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, em face do v. acórdão exarado pela Eg. Primeira Câmara de Direito Privado, assim ementado (id 94244996):
+“RECURSO AGRAVO DE INSTRUMENTO – RECUPERAÇÃO JUDICIAL – PEDIDO DE AUTORIZAÇÃO DE VENDA DE SOJA PARA GARANTIA DE FLUXO DE CAIXA DO AGRICULTOR RECUPERANDO – PLEITO INDEFERIDO EM PRIMEIRO GRAU EM RAZÃO DE PROIBIÇÃO DE ADOÇÃO DE ATOS EXPROPRIATÓRIOS OU CONSTRIÇÃO DE BENS ATÉ JULGAMENTO DEFINITIVO DE OUTRO RECURSO – VEDAÇÃO À RETIRADA FORÇADA DE BENS DA ESFERA PATRIMONIAL DO RECUPERANDO PARA SATISFAÇÃO DE CRÉDITOS CONCURSAIS – AUSÊNCIA DE PROIBIÇÃO DE ALIENAÇÃO VOLUNTÁRIA DE BENS PARA ASSEGURAR FLUXO DE CAIXA – ÓBICE INEXISTENTE – GRÃOS ALEGADAMENTE DADOS EM GARANTIA CEDULAR – INOCORRÊNCIA – AUTORIZAÇÃO DE VENDA DE SOJA PRODUZIDO EM SAFRA SUBSEQUENTE – DECISÃO REFORMADA – RECURSO PROVIDO. A existência de proibição de intervenção direta do Poder Judiciário na esfera patrimonial do recuperando para satisfação de crédito de outros jurisdicionados não impede autorização judicial de venda de produto rural para garantia do fluxo de caixa e viabilização do soerguimento, não se podendo confundir a proibição de atos expropriatórios com a alienação do soja, negócio jurídico celebrado pelo produtor rural em regime de pura liberalidade”. (N.U 1002267-13.2021.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, JOAO FERREIRA FILHO, Primeira Câmara de Direito Privado, Julgado em 13/07/2021, Publicado no DJE 02/08/2021).
+Opostos embargos de declaração, estes foram rejeitados no acórdão id 110794493.
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de agravo de instrumento proposto por Gustavo Goellner, em face da decisão proferida pelo MM. Juiz de Direito da 2a Vara Cível da Comarca de Primavera do Leste/MT, que nos autos do pedido da Recuperação Judicial n. 1002415-44.2020.8.11.0037, formulado pelo agravante em face de seus credores, entre eles, o Banco Santander (Brasil) S.A. e a Cooperativa de Crédito Rural de Primavera do Leste, indeferiu pedido de autorização de venda do soja produzido na safra 2020/2021, por entender tratar-se de medida proibida pela decisão proferida por este eg. Tribunal de Justiça nos autos do RAI no 1000629- 42.2021.8.11.0000 (id 75925479).
+A Câmara julgadora deu provimento ao recurso para autorizar a venda do soja produzido na safra 2020/2021, como requestado, ressalvando expressamente que todas as tratativas nesse sentido devem ser comunicadas ao Administrador Judicial, a quem também deve ser imediatamente franqueado integral acesso a todos os documentos alusivos a venda, sem prejuízo da devida prestação de contas. (id 94244996 - Pág. 5)
+A parte recorrente alega violação aos artigos 49, § 3o, e 50, § 1o, da Lei n. 11.101/2005, além de divergência jurisprudencial, ao argumento de que “a decisão que deferiu a venda do bem dado em garantia ao instrumento contratual firmado entre as partes suprime o direito real de garantia constituído anteriormente em favor do Banco credor, ora Recorrente, o que não se pode permitir real de garantia constituído anteriormente em favor do Banco credor, ora Recorrente, o que não se pode permitir”.
+Argumenta que “a autorização da venda da Safra de Soja, autoriza assim a venda de um bem dado em garantia à Cédula de Produto Rural Financeira no 2018/00019803, qual seja, a safra de soja produzida, SEM A AUTORIZAÇÃO DESTE, suprimindo o direito real de garantia sobre o bem, e indo de encontro ao disposto no art. 50, §1o da Lei 11.101/2005”.
+Recurso tempestivo (id 116088537) e preparado (id 116089465).
+Contrarrazões no id 119291953.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Ausência de prequestionamento (Súmula 211 do STJ)
+Com o objetivo de evitar a supressão de instância, nos termos do artigo 105, inciso III, da Constituição Federal, para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi Súmula 211/STJ, segundo a qual é “inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo”.
+Saliente-se, ainda, que nos termos do artigo 1.025 do CPC, “consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade”.
+No entanto, segundo a jurisprudência do Superior Tribunal de Justiça, na hipótese de a questão controvertida não ter sido abordada no aresto impugnado, e a parte recorrente ter suscitado a matéria nas razões dos embargos de declaração, por si só, tal fato não implica em prequestionamento ficto.
+Isso, porque a Corte Superior já firmou o entendimento no sentido de que “a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO EXTREMO.
+INSURGÊNCIA DA AUTORA.
+1. A ausência de enfrentamento da matéria inserta nos dispositivos apontados como violados pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+1.1. In casu, deixou a parte recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+1.2. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese.
+2. O Tribunal a quo, com base no conjunto fático e probatório carreado aos autos, entendeu que o episódio narrado nos autos não gerou dano moral indenizável. A alteração de tais conclusões demanda a incursão nas questões de fato e de prova dos autos, inadmissível por esta via especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido”. (AgInt no AREsp 1711642/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/11/2020, DJe 04/12/2020). (g.n.)
+Dessa forma, verifica-se que a parte recorrente assevera que “não se enquadra no disposto do art. 49, § 3o da Lei 11.101/05, e sim no disposto no art. 50, §1o da mesma lei, pois este é credor de garantia real, e não de proprietário fiduciário”.
+No entanto, a referida questão, bem como o conteúdo normativo do artigo 50, § 1o, da Lei n. 11.101/05, não foram abordados pelo acórdão impugnado, e, embora tenham sido opostos embargos de declaração, não houve alegação de violação ao artigo 1.022 do CPC, situação que obsta o seu exame pelo Superior Tribunal de Justiça e impede a admissão do recurso, ante a incidência da Súmula 211/STJ.
+Ante o exposto, inadmito o recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
