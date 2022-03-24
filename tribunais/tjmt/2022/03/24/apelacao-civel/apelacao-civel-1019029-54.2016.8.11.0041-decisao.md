@@ -1,0 +1,55 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL No 1019029-54.2016.8.11.0041
+RECORRENTE: FERNANDO CARLOS FERNANDES DIAS
+RECORRIDO: ESTADO DE MATO GROSSO
+Vistos.
+Trata-se de recurso especial interposto por FERNANDO CARLOS FERNANDES DIAS, com fundamento no art. 105, III, alínea “a” da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Público e Coletivo do Tribunal de Justiça de Mato Grosso, nos termos da seguinte ementa (Id. 101186958):
+RECURSO DE APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO — TÍTULO EXECUTIVO EXTRAJUDICIAL — CERTIDÃO DE CRÉDITO SALARIAL - PRAZO PARA COBRANÇA JUDICIAL RELATIVA À DIFERENÇA SALARIAL CONTRA A FAZENDA PÚBLICA – 5 ANOS CONFORME PREVISTO NO ART. 1o DO DECRETO 20.910/32 – PRESCRIÇÃO QUINQUENAL RECONHECIDA - RECURSO CONHECIDO E DESPROVIDO.
+Em se tratando de execução de título extrajudicial movida contra a Fazenda Pública referente a diferenças remuneratórias de servidores públicos, o prazo prescricional é de cinco anos, conforme estabelece o art. 1o do Decreto 20.910/32.
+Diante da não observância do prazo para a cobrança judicial do crédito salarial, deve ser reconhecida a prescrição quinquenal.
+Assim, a manutenção da sentença objurgada é medida que se impõe.
+Nas razões do recurso especial, a parte recorrente sustenta “a prescrição da CDA 2591/2006, reconhecendo a aplicabilidade do disposto nos §§ 3o e 4o do artigo 219 do Código de Processo Civil de 1973, subsidiariamente a aplicação do dispositivo do artigo 174 do CTN com as alterações da LC 118/2005”.
+Recurso isento de preparo (Id. 109805952).
+Sem contrarrazões.
+É o relatório.
+Passo ao juízo de admissibilidade.
+Da Intempestividade.
+No caso concreto, verifica-se que o recorrente foi intimado do acórdão em 22/10/2021 e o reclamo fora interposto somente em 18/11/2021, portanto fora do prazo recursal, ainda que contado em dias úteis, nos termos do artigo 219, caput, CPC.
+Denota-se, ainda, que a parte não apresentou “documento idôneo” que comprovasse a inexistência de expediente forense no período alegado, isto é, nos dias 28/10/2021 (Dia do Servidor Público), 01/11/2021 (Ponto Facultativo).
+Nos termos do § 6o do art. 1.003 do CPC, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", não havendo a comprovação da ocorrência da suspensão do prazo processual no ato da interposição, é considerado intempestivo o recurso.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA C/C DANOS MORAIS E MATERIAIS - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. INSURGÊNCIA DOS DEMANDADOS.
+1. É intempestivo o agravo em recurso especial interposto após o prazo de 15 (quinze) dias úteis, previsto nos artigos 219 e 1.003, § 5o, do CPC/15.
+1.1. Esta Corte Superior entende que a simples menção, no bojo das razões recursais, da ocorrência do feriado local não é meio idôneo para a comprovação da suspensão do prazo processual, a teor do art. 1.003, § 6o, do CPC/15. Precedentes.
+1.2. Para efeito de tempestividade, a prova do feriado local ou suspensão do expediente forense deve ser feita pela parte interessada por meio de documento idôneo, providência não atendida na hipótese. Precedentes.
+1.3. A Corte Especial, no julgamento do ARESP 1.481.810/SP, afetado pela Quarta Turma, reafirmou o entendimento de que é preciso comprovar a ocorrência de feriado local no ato de interposição do recurso, nos termos do § 6o do artigo 1.003 do CPC/15. Portanto, para os recursos sujeitos aos requisitos de admissibilidade do referido diploma processual, não se admite a comprovação posterior da suspensão do expediente forense em decorrência de feriado local.
+1.4. Segundo a modulação de efeitos determinada pela Corte Especial no REsp 1.813.684/SP, a possibilidade de comprovação da ocorrência de feriado local restringe-se apenas ao feriado de segunda-feira de carnaval, em recursos interpostos até a data da publicação do acórdão mencionado, o que não é o caso dos autos.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1850890/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/06/2021, DJe 01/07/2021)
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, APENAS PARA CORREÇÃO DE ERRO MATERIAL, SEM EFEITOS MODIFICATIVOS.
+1. "Em essência, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional por meio da integração de julgado que se apresenta ambíguo, omisso, contraditório, obscuro ou com erro material (art. 619 do CPP)." (EDcl no AgInt no REsp 1.601.757/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/2/2017, DJe 23/2/2017).
+2. No caso, verifico assistir razão ao embargante quanto ao fato de que o processo tramitou na forma física no Tribunal de origem, e não em meio eletrônico. Contudo, esse argumento não se mostra suficiente para alteração do julgado, pois, conforme já destacado na decisão embargada, "caberia ao recorrente comprovar que, durante o prazo recursal, houve nova suspensão dos prazos por ato do Tribunal estadual" (e-STJ, fl. 837).
+3. A propósito, esclareço que em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Com efeito, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, ou seja, até 3/8/2020, deveria ter sido comprovada no momento da interposição do recurso, e não quando da interposição do agravo regimental perante esta Corte Superior.
+4. Embargos de declaração acolhidos, apenas para correção de erro material, sem a atribuição de efeitos infringentes.
+(EDcl no AgRg no AREsp 1809426/PB, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/06/2021, DJe 28/06/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA. EMBARGOS DE DECLARAÇÃO OPOSTOS EM SUBSTITUIÇÃO AO AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. RECURSO MANIFESTAMENTE INCABÍVEL NÃO INTERROMPE PRAZO PARA A INTERPOSIÇÃO DO RECURSO PRÓPRIO. INTEMPESTIVIDADE. RECURSO ESPECIAL FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme jurisprudência desta Corte, "(...) o único recurso cabível da decisão de inadmissão do recurso especial é o agravo em recurso especial previsto no artigo 1.042 do Código de Processo Civil, sendo que a oposição de embargos de declaração dessa decisão é considerado erro grosseiro, o que impossibilita a aplicação do princípio da fungibilidade recursal, bem como não tem o condão de interromper o prazo para a interposição do recurso cabível" (AgRg no AREsp 1526234/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 16/12/2019).
+2. No caso dos autos, o agravante foi intimado da decisão que inadmitiu o recurso especial em 13/10/2020. Contra a aludida decisão, o agravante opôs embargos de declaração, que não foram conhecidos, por serem incabíveis. Foi interposto o agravo em recurso especial somente em 5/1/2021, quando já ultrapassado o prazo legal, sendo manifesta a sua intempestividade.
+3. No caso, houve intimação do acórdão recorrido em 21/8/2020, com início do prazo para a interposição do recurso especial em 24/8/2020 e término em 8/9/2020. Todavia, sem comprovar eventual suspensão dos prazos processuais, o agravante protocolou o recurso especial somente em 9/9/2020, fora do prazo legal de 15 (quinze) dias corridos, estando, do mesmo modo, intempestivo.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1840036/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/06/2021, DJe 22/06/2021)
+Do mesmo modo, a Corte Especial do STJ, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do recurso, conforme se confere da ementa do acórdão:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6o, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que “o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso”.
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3o do seu art. 1.029 impõe, para tanto, que se trate de “recurso tempestivo”.
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+Ante o exposto, inadmito o recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
