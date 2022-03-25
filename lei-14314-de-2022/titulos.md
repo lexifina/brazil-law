@@ -1,0 +1,1 @@
+Altera a Lei Complementar nº 173, de 27 de maio de 2020, para ajustar o período de suspensão da contagem dos prazos de validade dos concursos públicos em razão dos impactos econômicos decorrentes da emergência de saúde pública de importância internacional decorrente da covid-19.
