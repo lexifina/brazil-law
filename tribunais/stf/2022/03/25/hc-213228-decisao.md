@@ -1,0 +1,77 @@
+Decisão: Trata-se de habeas corpus, impetrado por Alessandro Silverio e Outro(a/s) e outros, em favor de Marcos Vinicius Luersen Peres, contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao agravo regimental nos EARESP n. 1.456.542 – PR.
+
+    Colho dos autos:
+
+    “Consta dos autos que, no dia 16 de maio de 2013, o Ministério Público do Estado do Paraná ofereceu denúncia em face de MARCOS VINÍCIUS LUERSEN PERES E MURILO PALMARES MENDES CARDOSO, pela prática, em tese, do delito previsto no artigo 121, caput (por três vezes) c/c art. 121, caput, c/c art. 14 inciso II, c/c art. 70, todos do Código Penal, e art. 312, parágrafo único, do Código de Trânsito Brasileiro, na forma do art. 69 do Código Penal.
+
+     Narra, nos seguintes termos, a exordial acusatória, às e-STJ fls. 15/
+
+    1° FATO: Em 21 de dezembro de 2011, por volta das 22h20min, na Rodovia PR 239, precisamente nas imediações do Parque de Exposição, situado no Município e Comarca de Campina da Lagoa, os acusados MARCOS VINÍCIUS LUERSEN PERES E MURILO PALMARES MENDES CARDOSO, um aderindo à conduta do outro e em unidade de desígnios, sob a influência da ingestão de bebida alcoólica, conduziam veículos automotores, respectivamente, um automóvel modelo Sonata Hyundai, placa AHV 6699 e um automóvel modelo Ford Focus de cor preta (sem identificação de placa) no que imprimiram alta velocidade, incompatível com a previsão administrativa para a condução na rodovia trafegada. Nestas condições, e em disputa de “racha”, os acusados causaram o evento de trânsito consistente na colisão do automóvel Sonata com duas motocicletas que trafegavam em sentido contrário, provocando lesões nas vítimas Iderlando Gomes Moraes, Luan Eric Dias e Bruno Carmona Sabater causa eficiente da morte dos meses, bem como as lesões na vítima Alexandre da Silva Ferreira, sendo cero que, nesta última, o resultado morte só não se consumou por circunstâncias alheias à vontade dos acusados, uma vez que a referida vítima fora socorrida e encaminhada à pronta intervenção médica. Agindo assim, infringindo normais proibitivas e de advertência de cautela administrativa para a condução prudente em rodovias de sabida circulação de veículos como: conduzindo veículo automotor sob a influência de bebida alcoólica, em competição de velocidade automobilística, conhecida como “racha”, trafegando na contramão e em condição adversa de visibilidade por conta do horário noturno, os acusados assumiram o risco do resultado morte de outrem, no que perpetram a conduta com dolo eventual.
+
+    2° FATO: Em 21 de dezembro de 2011, por volta das 22h20 min, na Rodovia/PR 239, precisamente, nas imediações do Parque de Exposição, situado no Município e Comarca de Campina da Lagoa, os acusados MARCOS VINÍCIUS LUERSEN PERES E MURILO PALMARES MENDES CARDOSO, após perpetrarem a conduta descrita no primeiro fato, de forma consciente e voluntário (dolo direto), um aderindo à conduta do outro, com o fim específico de falsear a apuração probatória penal futura, inovaram artificiosamente o estado do lugar e pessoa com a ocultação de garrafa de bebida alcoólica que portavam, bem como na adulteração do velocímetro do veículo Sonata. Neste sentido, após verificarem o evento de trânsito, com vítimas, o acusado MURILO PALMARES MENDES CARDOSO evadiu-se do local dos fatos e o acusado MARCOS VINÍCIUS LUERSEN PERES, a fim de furtar-se da ação policial constritiva e da consequente verificação do seu estado de embriaguez, evadiu-se para outra localidade ao argumento de que iria interna-se pelo estado de “choque”. (grifou-se)
+
+     O Juízo da Vara Criminal, da Comarca de Campina da Lagoa, do Tribunal de Justiça do Estado do Paraná, proferiu sentença, e-STJ fls. 1.460/1.471, e julgou parcialmente procedente a denúncia para pronunciar os acusados pela prática, em tese, dos crimes previstos no artigo 121, caput, por três vezes, e no artigo art. 121, caput c/c art. 14, inciso II, todos do Código Penal, bem como para julgar extinta a punibilidade, pela prescrição, da imputação concernente ao delito previsto no artigo art. 312, parágrafo único, da Lei n.º 9.503/1997. Inconformados com a sentença de pronúncia, os acusados interpuseram recursos em sentido estrito, que foi parcialmente provido pelo Tribunal de origem, somente para manter o laudo de exame sanguíneo de José Lázaro Monteiro nos autos, conforme acórdão de e-STJ fls. 1787/1788, assim ementado:
+
+    RECURSO EM SENTIDO ESTRITO – TRÊS HOMICÍDIOS CONSUMADOS E UM TENTADO, TODOS NA MODALIDADE SIMPLES (CP, ART. 121, CAPUT, TRÊS VEZES, E ART. 121, CAPUT, C/C ART. 14, II) – EVENTO DE TRÂNSITO EM DISPUTA DE “RACHA” – DOLO EVENTUAL – CONCURSO COM FRAUDE PROCESSUAL (CTB, ART. 312) – INTERPOSIÇÃO CONTRA A DECISÃO DE PRONÚNCIA DE AMBOS OS RÉUS APENAS QUANTO AOS DELITOS CONTRA A VIDA – EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO RELATIVAMENTE AO DELITO DE FRAUDE PROCESSUAL RECONHECIDA NA PRONÚNCIA. RECURSO 01 – 1ª PRELIMINAR – ARGUIÇÃO DE N ULIDADE DA INSTRUÇÃO POR FALHA NO ÁUDIO DE PARTE DOS TESTEMUNHOS – NÃO OCORRÊNCIA – DEPOIMENTOS QUE, APESAR DE ESTAREM EM BAIXO VOLUME, PODEM SER OUVIDOS NORMALMENTE – DESNECESSIDADE DE REFAZIMENTO DOS ATOS – 2ª PRELIMINAR – NULIDADE DA DECISÃO DE PRONÚNCIA NA PARTE QUE DETERMINOU O DESENTRANHAMENTO DE PROVA PERICIAL – PROVA QUE NÃO FOI OBTIDA DE FORMA ILÍCITA – RESPONSÁVEL TÉCNICO DO LABORATÓRIO QUE COMPARECEU À DELEGACIA PARA COLHER A AMOSTRA SANGUÍNEA DO CARROCEIRO PARA VERIFICAÇÃO DE POSSÍVEL ALCOOLEMIA – MAGISTRADA QUE DEFERIU O PEDIDO DA DEFESA DE JUNTADA DO EXAME SANGUÍNEO EM AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO – RECONSIDERAÇÃO – IMPOSSIBILIDADE – OCORRÊNCIA DA PRECLUSÃO PRO JUDICATO – 3ª PRELIMINAR – NULIDADE DA DECISÃO POR EXCESSO DE LINGUAGEM – INOCORRÊNCIA – COMEDIMENTO VERNACULAR DO JULGADOR A QUO AO LANÇAR A DECISÃO RECORRIDA – FUNDAMENTAÇÃO IDÔNEA PARA SUBMETER O RÉU AO TRIBUNAL DO JÚRI – MÉRITO – PRETENSÃO DE DESCLASSIFICAÇÃO DOS DELITOS CONTRA A VIDA PARA OS DE HOMICÍDIO CULPOSO (CTB, ART. 302) E LESÃO CORPORAL CULPOSA NA DIREÇÃO DE VEÍCULO AUTOMOTOR (CTB, ART. 303) – INVIABILIDADE – “RACHA” AUTOMOBILÍSTICO – EXISTÊNCIA DE INDÍCIOS SUFICIENTES DE QUE O ACUSADO ASSUMIU O RISCO DE PRODUZIR A MORTE DAS VÍTIMAS FATAIS – QUESTÃO A SER ANALISADA E DECIDIDA PELO TRIBUNAL DO JÚRI – ALMEJADA DESCLASSIFICAÇÃO DO DELITO DE HOMICÍDIO TENTADO PARA O DELITO DE LESÃO CORPORAL SIMPLES (CP, ART. 129) – NÃO ACOLHIMENTO – COMPATIBILIDADE ENTRE O DOLO EVENTUAL E A TENTATIVA – PRECEDENTES DO STJ E DESTA 1ª CÂMARA CRIMINAL – RECURSO PARCIALMENTE PROVIDO. RECURSO 02 – 1ª PRELIMINAR – ARGUIÇÃO DE NULIDADE DA DECISÃO DE PRONÚNCIA NA PARTE QUE DETERMINOU O DESENTRANHAMENTO DE PROVA PERICIAL – PROVA QUE NÃO FOI OBTIDA DE FORMA ILÍCITA – RESPONSÁVEL TÉCNICO DO LABORATÓRIO QUE COMPARECEU À DELEGACIA PARA COLHER A AMOSTRA SANGUÍNEA DO CARROCEIRO PARA VERIFICAÇÃO DE POSSÍVEL ALCOOLEMIA – MAGISTRADA QUE DEFERIU O PEDIDO DA DEFESA DE JUNTADA DO EXAME SANGUÍNEO EM AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO – RECONSIDERAÇÃO – IMPOSSIBILIDADE – OCORRÊNCIA DA PRECLUSÃO PRO JUDICATO – 2ª PRELIMINAR – NULIDADE DA DECISÃO POR EXCESSO DE LINGUAGEM – INOCORRÊNCIA – COMEDIMENTO VERNACULAR DO JULGADOR A QUO AO LANÇAR A DECISÃO RECORRIDA – FUNDAMENTAÇÃO IDÔNEA PARA SUBMETER O ACUSADO AO TRIBUNAL DO JÚRI – MÉRITO – PLEITO DE ABSOLVIÇÃO SUMÁRIA OU, SUBSIDIARIAMENTE, DE DESPRONÚNCIA POR NÃO EXISTIREM PROVAS DE QUE O RÉU CONCORREU PARA OS CRIMES APONTADOS NA INICIAL ACUSATÓRIA – PRETENSÕES AFASTADAS – NECESSIDADE DE SUBSMISSÃO DO RECORRENTE A JULGAMENTO PELO TRIBUNAL DO JÚRI – RECURSO PARCIALMENTE PROVIDO. RECURSOS 01 E 02 PARCIALMENTE PROVIDOS.”
+
+    É o relatório. ”(eDOC 09)
+
+    Nessa Corte o impetrante reitera os pedidos pretéritos e enfatiza o excesso de linguagem na decisão de pronúncia.
+
+    Alega que o juízo de origem não teria se limitado a indicar indícios de autoria e materialidade, mas sim emitir juízo de valor sobre os fatos apontados na denúncia.
+
+    É o relatório.
+
+    Passo a decidir.
+
+    O recurso não merece prosperar.
+
+    Consoante relatado, a defesa alega excesso de linguagem, uma vez que a decisão de pronúncia não se conteve aos limites legais, tecendo considerações que configuram juízo definitivo de condenação.
+
+    Preliminarmente, necessário ressaltar que o procedimento do Tribunal do Júri guarda singularidades, entre elas, o seu rito bifásico, com fases bem delimitadas. A primeira corresponde ao judicium accusationis, ou sumário de culpa, a qual visa identificar primordialmente a existência, ou não, de um crime da competência do Tribunal do Júri. A segunda, que só ocorrerá se pronunciado o acusado, denomina-se judicium causae ou juízo de mérito, no qual os fatos serão analisados pelos jurados.
+
+    Impende observar que a pronúncia tem natureza jurídica de decisão interlocutória mista não terminativa, na medida em que põe termo a uma fase do procedimento, o mencionado judicium accusationis, sem encerrar a persecução penal.
+
+    Traçadas essas premissas, atesto que o que se exige do juiz, ao fundamentar a pronúncia, é que ele, convencido da materialidade do fato e da existência de indícios de autoria, atenha-se a um juízo de probabilidade da prática de um crime doloso contra a vida.
+
+    No presente caso, o juízo de origem, ao proferir a decisão de pronúncia consignou o seguinte:
+
+    “A materialidade delitiva está evidenciada pelos boletins de ocorrências (evs. 1.4, 1.27/1.29), notícias publicadas (ev. 1.24), laudos cadavéricos (evs. 1.58 a 1.60), fotografias (evs. 1.58 e 1.106), laudos no veículo (ev. 1.96 e 178.2/178.3), auto de apreensão (ev. 1.5), laudo de lesões de ALEXANDRE DA SILVA/prontuário médico (evs. 1.148 e 1.160) e parecer técnico (ev. 1.222/1.124), além dos testigos extraídos.
+
+    (…)
+
+    Fixadas estas premissas, passo à exposição dos elementos que firmam ou não dúvida razoável acerca da autoria delitiva.
+
+    Durante o transcurso da instrução, foram coletadas provas indiciárias acerca da autoria delitiva de MARCOS VINÍCIUS LUERSEN PERES e MURILO PALAMARES MENDES CARDOSO.
+
+    Isto porque, de toda a instrução processual, viu-se que os réus estavam em ‘open bar’, ingerindo bebidas alcóolicas e resolveram se deslocar para outro município com a intenção de se alimentarem. Assim, quando do deslocamento, há fortes indícios de que iniciaram um ‘racha’, quando, em alta velocidade, um dos automotores bateu nas vítimas, o que acabou levando a óbito três delas e lesionado apenas uma.
+
+    De outro lado, a alegação da defesa de que um veículo FOCUS não teria o condão de se sobressair ao SONATA, obviamente tem sua razão de ser. Entretanto, a razão nem sempre segue com os jovens. É o caso dos autos.
+
+    (…)
+
+    Doutro giro, o relato da presença de bebidas alcóolicas no automotor foi bem descrita por CLAUDEMIR FARIA, eis que noticiou que viu quando um dos carros passou para o outro ‘um vasilhame’, noticiando que, logo após, o pai de um dos réus apareceu no local e retirou o vasilhame do interior do automotor. A tese não aberra à lógica, pois a interferência do genitor de um dos réus na instrução foi firme e reiterada. Não bastasse, JOSÉ FRANCISCO informou que não viu o acidente, mas ouviu dizer que estavam realizando racha e que tinham ingerido bebida alcóolica. JOÃO MIGUEL destacou que os carros estavam em alta velocidade, bem assim que era possível de se ver as motocicletas vindo, entretanto, os réus estavam lado a lado, realizando um racha. Noticiou que a carroça estava fora da pista. VALDECIR BELASCO somente registrou a ocorrência do acidente. DIENE e THAIANA repisaram que todos os ocupantes dos automotores tinham ingerido bebida alcóolica. O carroceiro JOSÉ LAZARO, por seu turno, destacou que os carros estavam emparelhados em alta velocidade.
+
+    (...)
+
+    O Delegado de Polícia MÁRIO SÉRGIO confirmou que os réus tinham bebido o dia inteiro e se deslocavam em alta velocidade pela pista. Assim, restou presentes indícios suficientes de autoria, porquanto os réus agiram com dolo eventual na situação, assumindo o risco do resultado, com ingestão de álcool e a realização de racha em via pública, o que ocasionou três óbitos. Ademais, é fato que a única vítima que sobreviveu ao ocorrido, não veio à óbito por circunstâncias alheias aos acusados, porquanto teve atendimento médico imediato, caracterizando-se, pois, a tentativa. No presente caso, ambos os acusados concorreram para os crimes, eis que atuaram com temeridade em via pública, havendo indícios suficientes sobre isso. Ademais, não há falar em força maior ou culpa de terceiro, porquanto a carroça trafegava fora da pista e a luminosidade era perfeita no local.
+
+    Os indícios colhidos no Inquérito, aliados as provas diretas, acessórias e paralelas confeccionadas em juízo, são indicativos que permitem ensejar-se dúvida razoável a submeter o caso à apreciação do Tribunal do Júri. Aliando-se essas circunstâncias, não se pode excluir as possíveis atuações dos réus nos crimes, o que firma a já propalada dúvida razoável. Visto que é sobre os réus que recaem os indícios mais veementes (um pilotando o veículo que abalroou com as motocicletas e o outro ao lado realizando racha), devem, portanto, ser levados ao Tribunal do Júri da Comarca de Campina da Lagoa. (eDOC 7, p.268 - 271
+
+    Dos trechos acima transcritos, verifica-se que o juízo a quo, analisando os elementos contidos no feito e dentro dos limites legais, entendeu que haveria indícios suficientes de autoria e materialidade delitiva aptos a ensejarem a pronúncia do acusado.
+
+    Cito, a propósito, o seguinte precedente:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. REITERAÇÃO DOS ARGUMENTOS EXPOSTOS NA INICIAL QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. NOVO JULGAMENTO PELO TRIBUNAL DO JÚRI, NA HIPÓTESE PREVISTA NO ART. 593, III, d, do CPP, NÃO CONSTITUI VIOLAÇÃO À SOBERANIA DOS VEREDICTOS. DISCUSSÃO SOBRE ACERTO OU DESACERTO DA DECISÃO DO TRIBUNAL DE JUSTIÇA ESTADUAL EXIGE O REEXAME DE PROVAS. NÃO HÁ EXCESSO DE LINGUAGEM QUANDO O JUÍZO SE LIMITA A DEMONSTRAR A EXISTÊNCIA DE MATERIALIDADE E INDÍCIOS DE AUTORIA. AGRAVO A QUE SE NEGA PROVIMENTO.I O agravante apenas reitera os argumentos anteriormente expostos na inicial do habeas corpus, sem, contudo, aduzir novos elementos capazes de afastar as razões expendidas na decisão agravada. II A jurisprudência pacífica desta Suprema Corte é no sentido de que a determinação de novo julgamento pelo Tribunal do Júri, na hipótese prevista no art. 593, III, d, do Código de Processo Penal, não constitui violação à soberania dos veredictos. III A discussão sobre o acerto ou o desacerto da decisão do Tribunal de Justiça Estadual exige o exame aprofundado de fatos e provas, o que, em sede de habeas corpus, não se mostra possível, visto tratar-se de instrumento destinado à proteção de direito demonstrável de plano, que não admite dilação probatória. IV A jurisprudência pacífica desta Suprema Corte é no sentido de não haver excesso de linguagem quando o Juízo limita-se a demonstrar a existência de materialidade e de indícios de autoria necessários para submeter o paciente ao julgamento pelo tribunal do júri, nos termos do art. 413, § 1°, do Código de Processo Penal. V Agravo regimental a que se nega provimento”. (HC-AgR 159.143/SP, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.9.2018)
+
+    Ante o exposto, com fundamento no artigo 192, caput, do RISTF, denego a ordem.
+
+     Publique-se.
+
+    Brasília, 25 de março de 2022.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
