@@ -1,0 +1,23 @@
+Recurso de Agravo de Instrumento n. 1005233-12.2022.8.11.0000 – Sinop
+Visto.
+Trata-se de recurso de agravo de instrumento interposto por Gabriel Vinicius da Silva Jacoboski, em face da decisão proferida pelo MM. Juiz de Direito da 4a Vara Cível da Comarca de Sinop, nos autos da ação de reintegração de posse movida por Cintia Silverio Ferreira Gabriel Jacoboski e Espolio de Andre Aparecido Jacoboski, deferiu parcialmente a tutela de urgência, para determinar que a inventariante Cintia Silverio Ferreira Gabriel Jacoboski seja mantida na posse e administração dos bens deixados pelo falecido: a.1) veículos descritos nos subitens 1, 2, 3, 7, 11, 12, 16 e 18 do item A-17 da petição inicial (ID n.o 74618640, pág. 9); a.2) imóveis sob as matrículas imobiliárias n.o 73.740, n.o 73.741, n.o 73.742, n.o 73.743, n.o 73.744, n.o 73.767, n.o 73.768, n.o 73.769, n.o 73.770 e 73.771, todas do Cartório de Registro de Imóveis desta Comarca; a.3) computadores e documentos da empresa J. C Transportes EIRELI. Na sequência, recebeu a emenda à petição inicial, deferindo o pedido para estender os efeitos da tutela anteriormente concedida, para determinar que a inventariante seja mantida na posse e administração dos seguintes bens: a) veículos sob as placas KAB1160, OBC7644 e APY1B21; b) imóveis registrados sob as matrículas imobiliárias n.o 73.745, n.o 73.746, n.o 73.747, n.o 73.764, n.o 73.765 e n.o 73.766, todas do Cartório de Registro de Imóveis desta Comarca.
+O agravante alega a ilegitimidade de parte, pois afirma que os caminhões estão na posse da empresa Rodoandre Transportes, pessoa jurídica que deve integrar o polo passivo da demanda.
+Aduz sobre a inadequação da via eleita, requerendo o indeferimento da petição inicial, nos termos do art. 485, VI do CPC, sob o argumento de que quem é o legítimo possuidor é a pessoa jurídica Rodoandre Transportes Eireli, que sequer faz parte deste processo, mas que passou a deter a posse justa, sem violência, clandestinidade ou precariedade, através da celebração de 4 (quatro) contratos de comodato com a JC Transporte com prazo de duração de 5 (cinco) anos, conforme contrato e extrato da ANTT.
+Assevera que os agravados não comprovam a posse ou perda dos bens, diante da inexistência de turbação ou esbulho. Segue defendendo que os 4 (quatro) contratos de comodato foram celebrados dia 28.06.2021, fixando prazo de início em 01.08.2021 e término em 31.07.2026, ou seja, apesar da Agravada ter sido nomeada inventariante administrativamente em 11.05.2021 nunca exerceu a posse sobre os bens.
+Aduz que a petição inicial deve ser indeferida por inépcia diante da existência de pedidos incompatíveis entre si, já que a recorrida pleiteia aplicação do princípio da fungibilidade entre a ação possessória e petitória.
+Ao final, pugna pelo efeito suspensivo da tutela antecipada recursal.
+É o relatório.
+Decido.
+Inicialmente, faz-se necessário analisar o preenchimento dos requisitos de admissibilidade do presente recurso.
+Como se sabe, para cada tipo de decisão corresponde um recurso cabível, observando-se que a inadequação da via eleita acarreta a inadmissibilidade deste, em consonância ao princípio da taxatividade recursal.
+Da interpretação da legislação retro mencionada, verifica-se que o Novo Código de Processo Civil diferentemente do Codex anterior, prevê taxativamente as hipóteses de cabimento do recurso de agravo de Instrumento, de modo que em princípio este se enquadra no inciso I, do art. 1.015, do NCPC.
+Dito isso, para a concessão da antecipação da tutela recursal, prevista no art. 1.019, inc. I do NCPC, faz-se necessária a presença dos requisitos previstos no art. 300, do aludido diploma processual, quais sejam, a probabilidade de suas alegações e o perigo de dano.
+Observo que as teses sustentadas pelo agravante estão intimamente ligadas ao mérito da questão, de modo que a concessão imediata do pedido atuará de modo satisfativo, com a possibilidade de revogação futura causar maior prejuízo ao feito e às próprias partes contendoras.
+Entendo, em princípio e por prudência, não conceder a antecipação almejada para conceder os efeitos da decisão, devendo aguardar a manifestação da douta magistrada a quo, bem como da contraminuta que poderá trazer elementos que possibilitem a melhor análise da questão agravada.
+Diante do exposto, indefiro a tutela antecipada recursal almejada por ausência de qualquer prejuízo e ausência de demonstração do argumento.
+Intimem-se os agravados para, querendo, apresentar resposta no prazo de 15 (quinze) dias, nos termos do inc. II, do art. 1.019, do NCPC.
+Oficie-se o douto juiz a quo e solicite-se informações.
+P.I.
+Cuiabá, 24 de março de 2022.
+CARLOS ALBERTO ALVES DA ROCHA
+Relator
