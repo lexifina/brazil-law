@@ -1,0 +1,13 @@
+Vistos etc.
+Recurso de agravo de instrumento, com pedido de efeito suspensivo, interposto por BANCO DO BRASIL SA contra a decisão proferida nos autos do cumprimento de sentença proferida na Ação Civil Pública n. 1998.01.1.0016798-9 promovida por ANTONIO DIAS DE MOURA, perante a 2a Vara Cível da Comarca de Várzea Grande/MT, que rejeitou em todos os seus termos a impugnação ao cumprimento de sentença apresentado pelo executado e, por conseguinte, registrou o valor apresentado pelo exequente como devido (R$ 4.751,90).
+Sustenta o agravante, em síntese, (i) a ilegitimidade ativa e limitação subjetiva da sentença coletiva aos associados ao IDEC; (ii) prescrição quinquenal das ações civis públicas; (iii) ilegitimidade ativa do ministério público; (iv) não cabimento do protesto interruptivo, ausência de motivo relevante/ interesse legítimo; (v) prescrição, com base no artigo 397 do CC e art. 219 do CPC; (vi) sentença ilíquida, necessidade de liquidação; (vii) aplicação do índice de 10,14% em fevereiro de 1989; (viii) deve ser considerado como marco inicial dos juros de mora, a citação para o processo de liquidação/cumprimento de sentença; (ix) juros remuneratórios – incidência única no mês de fevereiro de 1989; (x) a atualização das diferenças somente pode ser feita de acordo com os índices oficiais aplicados às cadernetas; (xi) vedação da inclusão dos planos econômicos posteriores; (xii) inviável a fixação de honorários advocatícios na fase de liquidação de sentença.
+Pede pela concessão de efeito suspensivo sobre o recurso e, no mérito, pelo provimento.
+Síntese necessária.
+A meu ver, a agravante logrou êxito em demonstrar os requisitos que, a princípio, estão configurados com toda documentação e exposição contida na peça de interposição, suficientes para o conhecimento do agravo em sua forma instrumental.
+Não se pode dizer o mesmo quanto ao pleito liminar, visto que a decisão recorrida tratou de temas já enfrentados pelo STJ sob o rito dos recursos repetitivos, inexistindo qualquer ilegalidade na decisão agravada, bem como ausente qualquer motivo urgente que possa causar lesão grave e de difícil reparação ao agravante, não sendo, portanto, caso de conceder o efeito suspensivo, devendo o agravante aguardar o julgamento de mérito deste recurso por parte desta Egrégia Câmara.
+Determino.
+Intimem-se a parte agravada, por intermédio do respectivo patrono, para, querendo e no prazo legal, apresentar contrarrazões (art. 1019, II, do CPC).
+Às providências de estilo, autorizando a Senhora Secretária da Segunda Câmara Cível a assinar os expedientes necessários.
+Cumpra-se.
+Desembargador Sebastião de Moraes Filho.
+= relator =
