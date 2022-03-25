@@ -1,0 +1,129 @@
+Decisão: Trata-se de agravo regimental (eDOC 118) interposto em 09.12.2020 (eDOC 120) em face de decisão em que, com base nos arts. 21, § 1º, 330 e 331, § 1º, do RISTF, não conheci dos embargos de divergência, nos seguintes termos (eDOC 116):
+
+    “Trata-se de embargos de divergência opostos em face de acórdão da Segunda Turma que negou provimento a agravo regimental, tendo sido os respectivos embargos declaratórios rejeitados, nos seguintes termos (eDOC 101 e eDOC 112):
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA ORIUNDA DE REGIME PÚBLICO INSTITUÍDO POR LEI ESTADUAL. COMPETÊNCIA. JUSTIÇA COMUM.
+
+    1. Compete à Justiça Comum o julgamento de conflito a envolver complementação de proventos de aposentadoria instituída por lei estadual.
+
+    2. Agravo regimental a que se nega provimento. ”
+
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA ORIUNDA DE REGIME PÚBLICO INSTITUÍDO POR LEI ESTADUAL. COMPETÊNCIA. JUSTIÇA COMUM. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+
+    1. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição ou obscuridade, o que não ocorre no presente caso.
+
+    2. Os embargantes buscam indevidamente a rediscussão da matéria, com objetivo de obter excepcionais efeitos infringentes.
+
+    3. Embargos de declaração rejeitados, com aplicação de multa ”
+
+    Nas razões recursais, sustenta a existência de divergência em relação a acórdão do Plenário desta Suprema Corte, apontando como paradigma o RE 594.435, de relatoria do Min. Marco Aurélio, julgado em 24.5.2018, referente ao Tema 149 da sistemática da repercussão geral.
+
+    Afirma que a divergência entre o acórdão recorrido e o paradigma reside na índole constitucional da questão acerca da competência da Justiça do Trabalho, requerendo, em suma, o provimento do recurso extraordinário.
+
+     Nesse sentido, assevera que “considerando que a prestação jurisdicional conferida pela Egrégia 2ª Turma dessa Corte Constitucional diverge frontalmente da jurisprudência do Plenário desse Supremo Tribunal Federal com relação a necessidade de aplicação da modulação de efeitos realizada no Tema n.º 149 da Repercussão Geral (RE 594.435/RG) juntamente com o fato de que a decisão de mérito proferida os autos ocorreu em 29/3/2010 o que, portanto, encontra-se no lapso temporal fixado no Tema n.º 149 (sentenças de mérito proferidas até 24/5/2018), destaca-se que o presente apelo divergente é amplamente cabível nos termos dos artigos 330 a 336 do RISTF e 1.043 do Código de Processo Civil. ” (eDOC 114, p. 5)
+
+    É o relatório. Decido.
+
+    A pretensão recursal não merece acolhida.
+
+    De plano, observo que, apesar da adequação ao parâmetros estabelecidos no §3º do art. 1.043 do CPC, os presentes embargos não cumprem o preconizado nos arts. 330 e 331 do RISTF, segundo os quais:
+
+    Art. 330. Cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal.
+
+    Art. 331. A divergência será comprovada mediante certidão, cópia autenticada ou pela citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou ainda pela reprodução de julgado disponível na internet, com indicação da respectiva fonte, mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+
+    Eis a ementa do acórdão apontado pela parte Embargante como paradigma:
+
+    “Ementa: CONSTITUCIONAL E PROCESSO CIVIL. MODULAÇÃO DE EFEITOS EM EMBARGOS DE DECLARAÇÃO. VIABILIDADE. DEMONSTRAÇÃO DE SITUAÇÃO DE EXCEPCIONALIDADE. MODULAÇÃO DOS EFEITOS DO ACÓRDÃO PARA MANTER, NA JUSTIÇA DO TRABALHO, ATÉ FINAL EXECUÇÃO, TODOS OS PROCESSOS DESTA MATÉRIA EM QUE JÁ TENHA SIDO PROFERIDA SENTENÇA DE MÉRITO, ATÉ O DIA DA CONCLUSÃO DO JULGAMENTO DO RECURSO EXTRAORDINÁRIO (24/5/2018). 1. O § 3º do art. 927 do Código de Processo Civil de 2015 preconiza que, “na hipótese de alteração de jurisprudência dominante do Supremo Tribunal Federal e dos tribunais superiores ou daquela oriunda de julgamento de casos repetitivos, pode haver modulação dos efeitos da alteração no interesse social e no da segurança jurídica”. 2. Tendo em vista a duradoura jurisprudência do Tribunal Superior do Trabalho em sentido oposto ao decidido pelo SUPREMO TRIBUNAL FEDERAL neste precedente, surge, inevitavelmente, o interesse em resguardar os atos praticados ao longo de vários anos, enquanto perdurou a indefinição acerca do Juízo competente para dirimir a controvérsia. 3. Precedente: RE 586.453, Rel. Min. ELLEN GRACIE, Rel. p/ Acórdão: Min. DIAS TOFFOLI, Tribunal Pleno, DJe de 6/6/2013, Tema 190 da Repercussão Geral. 4. Embargos de Declaração acolhidos para efeitos de modulação. (RE 594435 ED, Relator Min. Marco Aurélio, Relator p/ Acórdão Min. Alexandre de Moraes, Tribunal Pleno, julgado em 21.8.2019)”
+
+    O precedente apresentado, porém, exprime quadro jurídico que não se conforma ao do agravante, pois trata de competência da Justiça Comum, com a posterior modulação dos efeitos, para analisar disputas acerca de contribuição previdenciária, instituída pelo respectivo ente federativo, incidente sobre complementação de aposentadoria de previdência privada, ao passo em que, no caso em tela, discute-se diferenças de valores da complementação de aposentadoria.
+
+    Dessa forma, verifico que não há pertinência entre o que decidido pela Segunda Turma, no presente caso, e o precedente apontado pela parte ora Embargante.
+
+    Assim, não restaram preenchidos os requisitos de admissibilidade dos embargos de divergência, nos termos dos arts. 330 e 331 do RISTF. Nesse sentido, a jurisprudência pacífica desta Corte:
+
+    “(...) 1. Mostram-se incabíveis embargos de divergência quando não há diversidade de interpretação da mesma norma constitucional. 2. Conclusões diversas decorrentes de premissas não coincidentes sobre fatos ou normas infraconstitucionais a tanto não se prestam; tampouco decisões que enfrentam o mérito do apelo podem ser contrapostas àquelas que desse não conhecem (....).” (AI 741.876-AgR-ED-AgR, Rel. Min. Dias Toffoli, Plenário, DJe 11.10.2011)
+
+    “AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. RECURSO EXTRAORDINÁRIO. ACÓRDÃO EMBARGDO NÃO EXAMINOU O MÉRITO DA QUESTÃO RECURSAL. PARADIGMAS NÃO SE RELACIONAM COM A SITUAÇÃO JURÍDICA DOS AUTOS. AUSÊNCIA DE SIMILITUDE ENTRE OS CASOS CONFRONTADOS. COTEJO ANÁLITICO NÃO DEMONSTRADO. AGRAVO DESPROVIDO. 1. Ressalvada a matéria relativa à alegada ofensa ao art. 93, IX, da Constituição Federal, questão não impugnada nos presentes embargos, o acórdão embargado sequer examinou o mérito da questão recursal, visto que o recurso não possui os necessários requisitos de admissibilidade. 2. Os precedentes paradigmas apontados pela parte embargante para demonstrar a divergência não se relacionam com a situação jurídica decidida pela Segunda Turma, porquanto, neles, passou-se à análise do mérito dos casos então discutidos. 3. A ausência de similitude entre os casos confrontados é obstáculo suficiente para que os embargos de divergência não sejam admitidos. Precedentes. 4. Não foi demonstrada a divergência jurisprudencial na forma preconizada pelo art. 331 do RISTF, pois não se procedeu ao cotejo analítico com os acórdãos apontados como divergentes, com a necessária menção às ‘circunstâncias que identifiquem ou assemelhem os casos confrontados’. 5. Agravo interno a que se nega provimento.” (RE 906.541-AgR-EDv-AgR, Rel. Min. Alexandre de Moraes, Plenário, DJe 1º.08.2018)
+
+ “PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. INTERPOSIÇÃO CONTRA ACÓRDÃO QUE MANTÉM DECISÃO QUE NEGA SEGUIMENTO A AGRAVO DE INSTRUMENTO, SEM EXAME DO MÉRITO, POR AUSÊNCIA DE REQUISITOS PROCESSUAIS. NÃO CABIMENTO. ACÓRDÃOS CONFRONTADOS TRATAM DE TEMAS DIVERSOS. INADMISSÃO DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL IMPROVIDO. I – Consoante entendimento desta Corte, são incabíveis os embargos de divergência contra acórdão proferido em julgamento de agravo regimental em agravo de instrumento que teve o seguimento negado por ausência de requisitos processuais, sem avançar no mérito da questão. II - Cabem embargos de divergência contra acórdão de Turma que, em recurso extraordinário ou agravo de instrumento, divergir de julgado de outra Turma ou do Plenário do STF, desde que os acórdãos confrontados tratem do mesmo thema decidendum. III - É inviável, em embargos de divergência, a realização de cotejo analítico entre aresto paradigma que examina mérito com acórdão embargado que apenas nega seguimento a agravo de instrumento por deficiência em sua formação. IV – Agravo regimental improvido.” (AI 541.920-AgR-ED-EDv-AgR, Rel. Min. Ricardo Lewandowski, Plenário, DJe 09.02.2011)
+
+    Ante o exposto, não conheço dos embargos de divergência, por serem manifestamente inadmissíveis, nos termos dos arts. 21, § 1º, 330, 331 e 335, § 1º, do RISTF”.
+
+    Nas razões do presente agravo regimental, a parte Recorrente pleiteia a reforma da decisão, reiterando a divergência jurisprudencial existente no âmbito desta Corte acerca da controvérsia dos autos, pois “a, a despeito dos fundamentos apresentados no âmbito do despacho ora agravado, observa-se que o precedente elencado pelo Agravante nas razões de seus embargos de divergência possui ampla similitude com o caso dos autos, preenchendo, por conseguinte, todos os parâmetros processuais elencados pelos artigos 330 e 331 do RISTF e 1.043 do Código de Processo Civil” (eDOC 118, p. 3).
+
+    Assim, afirma que os embargos de divergência, na hipótese, são cabíveis (eDOC 118, p. 7).
+
+    A parte Recorrida, devidamente intimada, apresentou manifestação (eDOC 122).
+
+    É o relatório. Decido.
+
+    De acordo com os artigos 546, II, CPC/1973 e 1.043, I e III, CPC/2015, assim como do art. 330 do RISTF, os embargos de divergência são cabíveis quando o acórdão de uma das Turmas do STF diverge de acórdão de outra Turma ou do Plenário.
+
+    No caso dos autos, após detida análise dos autos, constato que a decisão recorrida deve ser reconsiderada.
+
+    É que a controvérsia constitucional em exame cinge-se ao Tema 1092 da sistemática da repercussão geral, relativo ao RE 1.265.549–RG, Rel. Min. Dias Toffoli, em que o Plenário do Supremo Tribunal Federal, na Sessão Virtual realizada, em 4.6.2020, fixou a seguinte tese: “Compete à Justiça comum processar e julgar causas sobre complementação de aposentadoria instituída por lei cujo pagamento seja, originariamente ou por sucessão, da responsabilidade da Administração Pública direta ou indireta, por derivar essa responsabilidade de relação jurídico-administrativa.”
+
+    Contudo, esta Suprema Corte, em sede de embargos de declaração, posteriormente, ao julgamento dos acórdãos ora embargados (eDOCs 101 e 112), modulou os efeitos da decisão proferida no RE 1.265.549-RG (Tema 1092), mantendo na Justiça do Trabalho os processos com sentença de mérito proferida até a data da publicação do referido acórdão (19.6.2020), até o trânsito em julgado e a correspondente execução. Confira-se a ementa de tal julgado:
+
+    “Embargos de declaração. Recurso extraordinário. Repercussão geral reconhecida e reafirmação de jurisprudência pacífica no STF. Competência. Justiça comum estadual e federal. Complementação de aposentadoria. Instituição por lei. Vínculo decorrente de regime de direito público. Modulação dos efeitos do julgamento para manter, na Justiça do Trabalho, até o trânsito em julgado e o final execução, todos os processos dessa espécie em que já houver sido proferida sentença de mérito até a data da publicação do acórdão do julgamento do recurso no Plenário Virtual da Repercussão Geral do Supremo Tribunal Federal (19/6/20). Embargos acolhidos, com modulação dos efeitos do acórdão embargado.
+
+    1. A competência para o processamento de ações em que se busca a complementação de aposentadoria instituída por lei é da Justiça comum, porque ela é decorrente de relação de direito público.
+
+    2. Modulação dos efeitos da decisão em que se reconheceu a competência da Justiça do Trabalho para processar e julgar, até o trânsito em julgado e a correspondente execução, todas as causas da espécie nas quais houver sido proferida sentença de mérito até a data da publicação do acórdão do julgamento do recurso no Plenário Virtual da Repercussão Geral do Supremo Tribunal Federal (19/6/20).
+
+    3. Embargos de declaração acolhidos, com modulação dos efeitos do acórdão embargado.” (RE 1265549 RG-ED, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 26.11.2020)
+
+    Nesse sentido, aponto os seguintes precedentes:
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. APOSENTADORIA ORIUNDA DE REGIME PÚBLICO INSTITUÍDO POR LEI ESTADUAL. TEMA 1092 DA REPERCUSSÃO GERAL. MODULAÇÃO DE EFEITOS NO RE 1.265.549-RG. DEVEM SER MANTIDOS NA JUSTIÇA DO TRABALHO OS PROCESSOS COM SENTENÇA DE MÉRITO JÁ PROFERIDAS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS INFRINGENTES. 1. Verifica-se que a controvérsia constitucional em exame cinge-se ao Tema 1092 da sistemática da repercussão geral, relativo ao RE 1.265.549 – RG, Rel. Ministro Presidente, Tribunal Pleno, DJe 19.6.2020. 2. O Plenário desta Suprema Corte, em sede de embargos de declaração no RE 1265549, Tema 1092 da repercussão geral, modulou os efeitos dessa decisão, mantendo na Justiça do Trabalho os processos com sentença de mérito proferida até a data da publicação do referido acórdão (19.6.2020). 3. Embargos de declaração acolhidos para, atribuindo-lhes efeitos infringentes, tornar sem efeito o acórdão embargado e negar provimento ao recurso extraordinário interposto pelo Estado de São Paulo” (RE 1.251.639-ED-ED, de minha relatoria, Segunda Turma, DJe 26.03.2021).
+
+    “Embargos de declaração no agravo regimental no recurso extraordinário. 2. Direito processual e previdenciário. 3. Complementação de aposentadoria prevista em lei estadual. Competência da Justiça comum. 4. Tema 1.092 da repercussão geral. Modulação dos efeitos pelo Supremo Tribunal Federal. Sentença de mérito proferida pela Justiça do Trabalho antes de 19.7.2020. Aplicação da modulação. 5. Embargos de declaração acolhidos, com efeitos infringentes, para negar provimento ao recurso extraordinário, tendo em vista a competência da Justiça do Trabalho para processamento do feito” (RE 1.266.067-AgR-ED, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 23.04.2021).
+
+    No caso concreto, o Juízo da 1ª Vara do Trabalho de São Paulo - Capital proferiu sentença de mérito (eDOC 8, p. 1-3) publicada em 29.03.2010 (eDOC 8, p. 4).
+
+    Assim, devem prosperar os presentes embargos de divergência.
+
+    Destaco, em caso específico, envolvendo a controvérsia dos autos, decisão monocrática exarada no ARE 1.251.658-EDv-AgR, de relatoria do Min. Nunes Marques, DJe 25.06.2021:
+
+    “Trata-se de embargos de divergência opostos em face de acórdão proferido pela Primeira Turma desta Suprema Corte no ARE 1.251.658-AgR/SP, de relatoria da Ministra Rosa Weber, que está assim ementado (com os meu grifos):
+
+    (...)
+
+    Sustenta a embargante, em síntese, a divergência do julgado com o que decidido em decisões colegiadas desta Suprema Corte, e requer o “(...) conhecimento e procedência dos presentes embargos de divergência para o fim de ser aplicado ao caso dos autos o entendimento paradigma ou em dissídio com o acórdão recorrido.”
+
+    Em contrarrazões, a parte embargada sustenta que “(...) é de se admitir que a decisão em Recurso está em perfeita consonância com a jurisprudência dominante da Corte.”
+
+    Decido.
+
+    Consigno, desde logo, que no âmbito da repercussão geral, o Plenário do Supremo Tribunal Federal julgou o mérito do RE 1.265.549-RG/SP, Ministro Dias Toffoli, Tema 1.092, e, reafirmando a jurisprudência desta Corte, fixou a seguinte tese (com os meus grifos):
+
+    (...)
+
+    Friso que, buscando modular os efeitos desse julgamento, foram opostos embargos de declaração.
+
+    Na sessão virtual do Plenário de 04 a 14/09/2020, referidos embargos foram acolhidos “(...) para modular os efeitos do acórdão embargado de modo que os processos que tiveram sentença de mérito proferida até a data da publicação do acórdão do julgamento do recurso no Plenário do Supremo Tribunal Federal, 19 de junho de 2020, prossigam na Justiça do Trabalho até o trânsito em julgado e final execução (...)”
+
+    Registro, bem por isso, que, nos presentes autos, a sentença de mérito foi proferida em 17/01/2008 (Evento 7, fls. 1-5), razão pela qual a situação em exame é abarcada pela modulação anteriormente referida.
+
+    Ressalto, por fim, tal como atestam precedentes desta Suprema Corte (ARE 1.239.283-AgR-EDv/SP, Ministro Roberto Barroso; RE 195.333-ED- -EDv-AgR/CE, Ministro Dias Toffoli; RE 522.729-AgR-EDv/MG, Ministro Gilmar Mendes; entre outros), a competência monocrática a mim conferida para dar provimento a recurso uniformizador quando o acórdão embargado contraria a jurisprudência dominante do Tribunal, mormente quando oriunda do Plenário, o mais qualificado de seus Colegiados.
+
+    (...)
+
+    Em face do exposto, conheço e dou provimento aos presentes embargos de divergência para, em ato contínuo, com fundamento no inciso VIII do art. 932 do CPC c/c §1º do art. 21 do RISTF, negar provimento ao recurso extraordinário interposto pelo Estado de São Paulo”. (grifos dos originais)
+
+    Por fim, cumpre consignar a viabilidade da presente decisão monocrática, tendo em vista a atual jurisprudência sedimentada no Plenário desta Corte, quanto à questão discutida nestes autos, revelando-se compatível às atribuições do Relator essa competência. Nesse sentido:
+
+    “Agravo regimental nos embargos de divergência, providos, monocraticamente, para a reforma de decisão proferida em franca contrariedade à jurisprudência desta Suprema Corte. Possibilidade. 1. Conforme a regra constante do art. 557, § 1º-A, do Código de Processo Civil, pode o relator dar provimento a recurso quando a decisão recorrida estiver em confronto com jurisprudência dominante deste Supremo Tribunal Federal. 2. A impugnação a uma decisão que contraria os interesses da parte deve abordar todos os aspectos e fundamentos dessa decisão, sob pena de rejeição. 3. Agravo regimental não provido” (RE 195.333-ED-EDv-AgR, Rel. Min. Dias Toffoli, Plenário, DJe 02.09.2011).
+
+    Ante o exposto, reconsidero a decisão agravada, nos termos do artigos 557, § 1º-A, do CPC, 21, §2º, do RISTF, julgo prejudicado o agravo regimental e, em consequência, conheço e dou provimento aos embargos de divergência para, com fundamento no art. 932, IV, “b”, do CPC, negar provimento ao recurso extraordinário interposto pelo Estado de São Paulo, considerando a modulação dos efeitos conferida por esta Corte no julgamento dos embargos de declaração no RE 1.265.549-RG (Tema 1.092). Inaplicável, ao caso, o art. 85, § 11, do atual CPC, tendo em vista que o apelo extremo foi interposto na vigência do CPC/73 (eDOC 54).
+
+    Publique-se.
+
+    Brasília, 25 de março de 2022.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
