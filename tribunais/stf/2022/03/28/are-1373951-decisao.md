@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    PROCESSO CIVIL. AGRAVO DE INSTRUMENTO.MANDADO DE SEGURANÇA. TRIBUTÁRIO. CIDE.PARCELAMENTO. REDUÇÃO PREVISTA NO ARTIGO 10 DALEI N° 11.941/2009. POSSIBILIDADE APENAS QUANTO ÀPARCELA PAGA COM ATRASO. AGRAVO LEGALIMPROVIDO.- O Juízo a quo determinou a consolidação dos valores devidos atítulo de CIDE com a redução prevista no artigo 1°, § 3°, inciso I,da Lei n° 11.941/09 apenas sobre o primeiro depósito atinente àcompetência que abrangeu, além do principal, valores referentes àmulta e aos juros moratórios.- A previsão do artigo 10 da Lei 11.941/09, ao permitir opagamento à vista, defere o desconto em relação ao depósitojudicial que tenha sido efetuado com o acréscimo de multa e jurosde mora, sobre os quais incide a redução de 40 a 100%, conformeocaso. Se o depósito ocorreu no prazo, dentro do vencimento dotributo, cuja exigibilidade foi suspensa, não existem encargos quepossam ser reduzidos no pagamento à vista.- Os juros moratórias que recaem, posteriormente, sobre o própriodepósito judicial, composto do principal, quando feito no prazo dovencimento, são acessórios pagos não pelo contribuinte, em favordo qual instituída a redução, a título de remissão, mas pelodepositário judicial, estando, portanto, excluídos do alcance do benefício, mesmo que possível o pagamento à vista, devendo serdestinados àquele em favor do qual se estabeleceu a coisa julgada.- No caso dos autos, a redução prevista no artigo 1°, § 3°, inciso I,da Lei n° 11.941/2009 deve incidir apenas quanto à competência de27/06/2006, conforme tabela apresentada pela Receita Federal àsfls. 1042/1043.- Agravo Legal improvido.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, caput, II; 150, I, II da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    Consta dos autos, que a agravante impetrou mandado de segurançaem face do Delegado da Receita Federal do Brasil em São Paulo/SP, objetivandoafastar a cobrança da Contribuição de Intervenção no Domínio Econômico,instituída pela Lei n° 10.168/2000, pedido este julgado improcedente (fls.220/229).Inconformada, a impetrante interpôs o recurso de apelação e osautos foram remetidos a este E. Tribunal Regional Federal. Nas razões aimpetrante aduziu que ao tempo em que os autos encontravam-se neste Tribunalfoi editada a Lei n° 11.941/09, por meio da qual se instituiu a possibilidade depagamento à vista ou o parcelamento de débitos federais, com redução de multa ejuros, e, diante disso, ante a adesão ao parcelamento, requereu a desistência daação, nos termos do artigo 269, inciso V, do CPC (fls. 1023/1025).Homologado o pedido de desistência (fls. 1027), com o trânsito emjulgado (fls. 1030), os autos retornaram ao Juízo de 1° grau.Na ocasião, a recorrente requereu a conversão em renda de partedos valores depositados e o levantamento do saldo remanescente (fls.1032/1033). Intimada a se manifestar, a União Federal, diante da adesão daimpetrante ao programa instituído pela Lei 11.941/2009, apresentou a planilha decálculo da Receita Federal, informando que o valor a ser levantado pelaimpetrante seria de 15,81% referente ao primeiro depósito, pois somente este foraefetuado em atraso (fls. 1040/1050). A impetrante, por sua vez, rechaçou aplanilha por completo, sob o argumento de que não poderia ser aplicado odisposto no artigo 32 da Portaria Conjunta n° 06/2009, na redação trazida pelaPortaria Conjunta n° 10/2009, porquanto inconstitucional e ilegal (fls.1064/1068).O Juízo a quo indeferiu o pedido e determinou a consolidação dosvalores devidos a título de CIDE com a redução prevista no artigo 1°, § 3°, incisoI, da Lei n° 11.941/09 apenas sobre o primeiro depósito atinente à competênciaque abrangeu, além do principal, valores referentes à multa e aos jurosmoratórios.A r. decisão agravada merece ser mantida por seus próprios. Se nãovejamos.A previsão do artigo 10 da Lei 11.941/09, ao permitir o pagamentoà vista, defere o desconto em relação ao depósito judicial que tenha sido efetuadocom o acréscimo de multa e juros de mora, sobre os quais incide a redução de 40a 100%, conforme o caso. Se o depósito ocorreu no prazo, dentro do vencimentodo tributo, cuja exigibilidade foi suspensa, não existem encargos que possam serreduzidos no pagamento à vista.Os juros moratórios que recaem, posteriormente, sobre o própriodepósito judicial, composto do principal, quando feito no prazo do vencimento,são acessórios pagos não pelo contribuinte, em favor do qual instituída a redução, a título de remissão, mas pelo depositário judicial, estando, portanto, excluídosdo alcance do benefício, mesmo que possível o pagamento à vista, devendo serdestinados àquele em favor do qual se estabeleceu a coisa julgada.
+
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento” (RE nº 1.169.266/RS-AgR, Primeira Turma, Rel. Min.Alexandre de Moraes, DJe de 13/2/19).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 8° e § 11, do CPC. III – Agravo regimental a que se nega provimento, com aplicação de multa” (ARE nº 1.161.422/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski,DJe de 6/12/18).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA. REVISÃO. PREQUESTIONAMENTO. AUSÊNCIA. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. 3. Agravo regimental a que se nega provimento” (ARE nº 939.243/SP-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 7/4/16).
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 28 de março de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
