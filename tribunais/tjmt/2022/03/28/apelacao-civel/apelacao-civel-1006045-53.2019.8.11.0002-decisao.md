@@ -1,0 +1,88 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1006045-53.2019.8.11.0002
+RECORRENTES: ORLEANS EMPREENDIMENTOS LTDA e CIPASA VÁRZEA GRANDE VAR1 DESENVOLVIMENTO IMOBILIÁRIO LTDA
+RECORRIDOS: ANA CAROLINA CATISTE e NEWTON PEREIRA LOPES FILHO
+Vistos.
+Trata-se de recurso especial interposto por ORLEANS EMPREENDIMENTOS LTDA e CIPASA VARZEA GRANDE VAR1 DESENVOLVIMENTO IMOBILIÁRIO LTDA com fundamento no artigo 105, inciso III, alíneas “a” e “c” da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado deste Sodalício, que negou provimento ao recurso das partes recorrentes, assim ementado (ID 104890987):
+APELAÇÃO CÍVEL – AÇÃO RESCISÃO CONTRATUAL E DEVOLUÇÃO DE QUANTIAS PAGAS C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS – INSTRUMENTO PARTICULAR DE PROMESSA DE COMPRA E VENDA DE IMÓVEL – ATRASO NA ENTREGA – RESCISÃO MOTIVADA PELO VENDEDOR – DEVOLUÇÃO INTEGRAL DO VALOR PAGO – PRECEDENTES DO STJ – JUROS DE MORA – INCIDÊNCIA A PARTIR DA CITAÇÃO - IPTU E TAXA DE FRUIÇÃO – RESPONSABILIDADE DO PROMITENTE VENDEDOR – MULTA MORATÓRIA – INVERSÃO – DANOS MORAIS DEVIDOS – QUANTUM INDENIZATÓRIO – MANUTENÇÃO – FIXAÇÃO RAZOÁVEL – RECURSO NÃO PROVIDO.
+Demonstrado que a rescisão do contrato ocorreu por culpa exclusiva do promitente-vendedor, há de ser restituído integralmente o valor pago pelo promitente-comprador, com juros de mora a partir da citação.
+Afastada a responsabilidade do promitente comprador em relação ao pagamento do IPTU e às taxas de fruição e consumo, porquanto não houve a disponibilização do imóvel à ocupação.
+O STJ assentou entendimento no sentido de que, no contrato de adesão firmado entre o comprador e a Construtora/Incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. (REsp Repetitivo n. 1614721/DF, Rel. Min. Luís Felipe Salomão, DJe 25/06/2019).
+Possível é a condenação por danos morais decorrentes de atraso de entrega de imóvel adquirido na planta, máxime se a construtora extrapola inclusive o período de tolerância lhe concedido de forma unilateral.
+Arbitrado com razoabilidade, deve ser mantido o quantum indenizatório do dano moral.
+(TJMT – Quarta Câmara de Direito Privado – ApCiv n. 1006045-53.2019.8.11.0002, Relator: Des. Guiomar Teodoro Borges, j. em 06.10.2021).
+Os embargos de declaração interpostos pelas partes recorrentes foram rejeitados, conforme acordão de ID 106833457.
+As partes recorrentes alegam violação aos artigos 113, 422 e 427 do Código Civil e dissídio jurisprudencial ao argumento de que, ao postular pela rescisão do compromisso de compra e venda, a parte recorrida feriu o princípio do pacta sunt servanda. Nestes termos, por inexistir qualquer abusividade, defende que deve prevalecer a condição contratual que prevê percentual de retenção de 30% do valor pago pela desistente.
+Sustentam ainda violação aos artigos 927 e 944 do Código Civil, e novo dissídio jurisprudencial, amparados na tese de que o mero inadimplemento contratual, consubstanciado em mora para entrega da unidade imobiliária, não é passível de indenização, por trata-se de mero dissabor.
+Recurso tempestivo e preparado (IDS 110969964 e 110797013
+Sem contrarrazões (ID 115822469).
+É o relatório.
+Decido.
+1- Da sistemática de recursos repetitivos – Tema 971 – ausência de questionamento.
+O órgão fracionário recorrido aplicou ao caso o Tema 971 do STJ, que preleciona:
+“No contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial.”
+Todavia, não há questionamento a respeito do assunto nas razões recursais, e, via de consequência, não há aplicação da sistemática de recursos repetitivos quanto ao Tema 971/STJ, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+2- Violação aos artigos 113, 422 e 427 do Código Civil -Súmula 07.
+Em conformidade com o artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação aos artigos 113, 422 e 427 do Código Civil cinge-se ao argumento de que o acordão recorrido agiu error in judicando, por desconsiderar a ausência de atraso na entrega da unidade e a vigência do contrato, em especial a cláusula que previa retenção de valores em caso de rescisão motivada pelos adquirentes.
+A Câmara julgadora, soberana na análise do conjunto probatório dos autos, afastou os argumentos lançados pelas partes recorrentes, argumentando, in verbis: (ID 104890987)
+“De todo o processado, verifica-se do contrato pactuado, notadamente a cláusula 1.6 das Normas Gerais da avença, que a vendedora se compromete a entregar o empreendimento em setembro de 2018, resguardou-se ainda a possibilidade de tolerância de 180 (cento e oitenta) dias, após o término do aludido prazo. Todavia, verifica-se que ultrapassada a data aprazada, bem assim o período de tolerância, o imóvel não foi entregue.
+Pelo que se nota dos autos não foram realizadas as obras de infraestrutura no empreendimento, tais como a colocação de energia elétrica, água, esgoto e pavimentação.
+Com efeito, tem-se por que o prazo pactuado para entrega da obra não foi cumprido pela parte requerida (...)
+Na espécie, a rescisão contratual se deu por culpa exclusiva da vendedora e não pode ser atribuída qualquer excludente de sua responsabilidade, neste caso.
+Sabe-se que, na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva da vendedora/construtora, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento.
+Realça-se, nos casos de rescisão de contrato de promessa de compra e venda de imóvel por culpa exclusiva da promitente-vendedora a jurisprudência do STJ firmou-se no sentido de devolução integral do valor pago (Súmula 543 do STJ).
+Oportuno destacar que, para rever o entendimento firmado no aresto recorrido e infirmar a tese de que a rescisão contratual foi motivada por culpa exclusiva das partes recorrentes, o que só então justificaria eventual percentual de retenção previsto contratualmente, é imprescindível o exame dos fatos e provas dos autos, tendo em vista que a alegada inexistência de atraso para entrega da unidade imobiliária não é premissa fática incontroversa constante do acordão, e sua verificação, nesta etapa processual, atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. CONTRATO DE PARCERIA.
+1. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REAPRECIAÇÃO DA MATÉRIA POR MEIO DE EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE. 2. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC. OMISSÃO NO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. 3. RESCISÃO CONTRATUAL. CULPA. ANÁLISE DAS CLÁUSULAS CONTRATUAIS E CONCLUSÕES FÁTICAS DO TRIBUNAL.
+REVER O QUADRO FÁTICO TRAÇADO, REEXAME DE PROVAS E ANALISAR CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. 4. AGRAVO REGIMENTAL IMPROVIDO.
+1. Os arts. 265, IV, a, do CPC e 9o e 49 da Lei n. 11.101/2005, apontados como violados, não foram analisados pelo Tribunal local, carecendo do necessário prequestionamento para a análise da matéria em recurso especial. Nesse ponto, incidem as Súmulas n. 282 e 356 do STF.
+2. Não há que se falar em ofensa ao art. 535 do CPC, uma vez que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+3. Na hipótese, alterar a conclusão do acórdão recorrido quanto ao não cumprimento das cláusulas contratuais por parte da ré, ora recorrente, ocasionando a rescisão contratual por sua culpa exclusiva, demandaria a interpretação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que não se admite em âmbito de recurso especial, ante o óbice das Súmulas 5 e 7 deste Tribunal.
+4. Agravo regimental improvido.
+(AgRg no AREsp 816.444/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/02/2016, DJe 29/02/2016).
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+3- Violação aos artigos 927 e 944 do Código Civil - Decisão em conformidade com a jurisprudência do STJ (Súmula 83).
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, as partes recorrentes alegam a impossibilidade de deferimento da pretensão por danos morais, tendo em vista que a jurisprudência do STJ entende que o atraso na entrega da unidade imobiliária configura mero aborrecimento, em especial no caso dos autos, no qual não haveria qualquer prova de ferimento a direito da personalidade.
+No acórdão impugnado ficou consignado que: ID 104890987:
+“(...) Cumpre frisar, nos termos contrato a entrega do imóvel estava prevista para setembro de 2018, todavia, até a propositura da ação (26/06/2019) o bem não havia sido entregue ao comprador..(...) Ressalta-se que é possível a condenação por danos morais decorrentes de atraso de entrega de imóvel adquirido na planta, porque além de a construtora não ter entregado o imóvel na data inicialmente aprazada, utilizou toda a tolerância unilateral a seu favor e, ainda assim, não entregou o imóvel no prazo excedente.
+Ressalta-se, a demora no recebimento frustrou as expectativas, as metas e o ideal da parte autora, que esteve privada de dispor do imóvel por tempo considerável. A angústia, dissabor, insatisfação e decepção vivenciados violaram sua integridade emocional, portanto resta claro o dano moral.
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ no sentido de que o excessivo atraso na entrega de unidade imobiliária é fato que justifica o arbitramento da verba por danos morais, conforme se extrai das ementas dos julgados abaixo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. LONGO ATRASO NA ENTREGA. DANO MORAL CONFIGURADO.
+INVERSÃO DA CLÁUSULA PENAL. INDENIZAÇÃO. JUÍZO DE RAZOABILIDADE. SÚMULA 7 DO STJ. SUCUMBÊNCIA RECÍPROCA. AUSENTE O NECESSÁRIO PREQUESTIONAMENTO. SÚMULA 282 DO STF.
+1. Não há falar em negativa de prestação jurisdicional, tendo a Corte estadual apreciado todas as questões relevantes alegadas na defesa das teses das partes, não mais dela se exigindo para o devido atendimento ao disposto no art. 489 do CPC. Não há, pois, quaisquer dos vícios do art. 1.022 do CPC.
+2. Em sendo demasiado o atraso na entrega da obra, possível o reconhecimento da ocorrência de danos morais. Alterar as conclusões do acórdão impugnado, no tocante à configuração do dano, demandaria a necessária incursão no conjunto fático-probatório dos autos, o que não é permitido na via eleita, conforme teor da Súmula 7/STJ.
+3. Inviabilidade de se revisar, no âmbito desta Corte Superior, em razão do óbice da Súmula 7/STJ, o juízo de razoabilidade do Tribunal de origem ao fixar o percentual para a indenização pelos danos materiais.
+4. Atrai a incidência analógica do enunciado sumular n. 282 do STF, quando a questão federal suscitada não foi tratada na decisão proferida pelo Tribunal de origem, tampouco foram apresentados embargos de declaração para sanar eventual omissão ou prequestionar a matéria, ante a ausência do indispensável prequestionamento.
+5. Agravo interno não provido.
+(AgInt no AREsp 1933054/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 13/12/2021, DJe 15/12/2021)
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL.CPC/2015. INCORPORAÇÃO IMOBILIÁRIA. ATRASO NA ENTREGA DA OBRA. LONGO PRAZO. AQUISIÇÃO PARA FIM DE MORADIA. OCORRÊNCIA DE DANO MORAL.LUCROS CESSANTES. PRESUNÇÃO. PRECEDENTE ESPECÍFICO. TERMO 'AD QUEM'.DATA DA DISPONIBILIZAÇÃO DAS CHAVES AO ADQUIRENTE. JULGADOS DESTA CORTE SUPERIOR. TAXA CONDOMINIAL. COBRANÇA ANTERIOR À ENTREGA DAS CHAVES. DESCABIMENTO. CASO CONCRETO. QUITAÇÃO INTEGRAL DO PREÇO PELO CONSUMIDOR. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA.
+1. Controvérsia acerca das consequências do atraso de um ano e seis meses na entrega de um imóvel adquirido para fim de moradia sob o regime da incorporação imobiliária, tendo o consumidor quitado o preço, segundo a moldura fática delineada no acórdão recorrido.
+2. Ocorrência de dano moral em virtude do longo período de atraso (um ano e seis meses) na entrega de imóvel adquirido para fim de moradia do próprio adquirente. Julgados desta Corte Superior.
+Questão afetada ao Tema 996/STJ, sem determinação de sobrestamento de processos.
+3. Presunção de prejuízo ao adquirente, em virtude da privação do uso do imóvel a partir da data contratualmente prevista para a entrega das chaves, sendo devida a condenação da empresa ao pagamento de indenização por lucros cessantes até à data da disponibilização das chaves. Precedente específico e julgados desta Corte Superior.
+4. Descabimento da cobrança, pela construtora, de taxa condominial referente ao período anterior à disponibilização das chaves ao adquirente. Julgados desta Corte Superior.
+5. Caráter protelatório do presente agravo interno tendo em vista alegação dissociada da realidade dos autos no que tange à quitação do saldo devedor pelo adquirente, sendo cabível a aplicação da multa prevista no art. 1.021, § 4o, do CPC/2015.
+6. AGRAVO INTERNO DESPROVIDO, COM APLICAÇÃO DE MULTA.
+(AgInt no REsp 1792742/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/08/2019, DJe 30/08/2019).
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos 927 e 944 do CC, visto que o entendimento exposto no acórdão recorrido se encontra em sintonia com a orientação sedimentada no STJ.
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Ante o exposto, inadmito o recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
