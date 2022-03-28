@@ -1,0 +1,1 @@
+Art. 75-F. Os empregadores deverão conferir prioridade aos empregados com deficiência e aos empregados e empregadas com filhos ou criança sob guarda judicial até quatro anos de idade na alocação em vagas para atividades que possam ser efetuadas por meio do teletrabalho ou trabalho remoto.
