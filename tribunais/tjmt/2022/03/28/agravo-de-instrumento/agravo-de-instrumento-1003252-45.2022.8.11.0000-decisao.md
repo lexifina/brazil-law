@@ -1,0 +1,27 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1003252-45.2022.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por FRANCIELLE MARÇAL GARCIA DE QUEIROZ em virtude da decisão proferida pela Juíza da 3a Vara Cível da Comarca de Cáceres que, nos autos da Ação de Execução de Título Extrajudicial n. 1004859-12.2021.8.11.0006, movida pela COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DO CENTRO LESTE DE RONDÔNIA LTDA. - CREDISIS LESTE, rejeitou a exceção de pré-executividade oposta pela Agravante e manteve a penhora sobre o imóvel objeto dos autos, assim especificado: matrícula n. 20.097, localizado na Rua 28 de Outubro, n.o 3.324, Centro, Mirassol D Oeste/MT.
+Inconformada, a Agravante almeja a reforma da decisão objurgada, ao argumento de que a penhora determinada na instância singela recaiu sobre imóvel impenhorável, eis que se trata de bem de família.
+Sustenta que apesar de o imóvel estar locado, a renda obtida com a locação é revertida para a subsistência e moradia da sua família, o que, de acordo com o Verbete 486 da Súmula do STJ, torna o bem impenhorável.
+Por derradeiro, destaca que a manutenção da decisão causará graves prejuízos à Agravante, pois comprometerá a sua subsistência e de sua família.
+Com base nessas assertivas, requer seja agregado efeito suspensivo/ativo ao Recurso e sobrestados os efeitos do decisum objurgado até o julgamento do Instrumental. No mérito, pede o provimento.
+É, no essencial, o relatório. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a decisão combatida se enquadra na exceção do parágrafo único do artigo 1.015, do Código de Processo Civil, bem como está instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o, do CPC.
+O artigo 1.019, inciso I, do mesmo Códex preconiza que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o risco de dano grave, de difícil ou impossível reparação.
+Nesse contexto, é vedado nos estreitos limites deste Instrumental, o exame de questões de fundo do direito discutido, sendo pertinente apenas aferir se estão, ou não, presentes os pressupostos para o deferimento da medida, repito, a probabilidade do direito invocado e o perigo de dano (art. 300 do CPC).
+Da análise dos autos e da documentação que o escolta, nesta fase de cognição sumária, não vislumbro a confluência desses pressupostos para a concessão da medida in limine.
+A Lei 8.009/90, que trata da impenhorabilidade do bem de família, dispõe em seu art. 1.o, que o imóvel residencial próprio do casal ou da entidade familiar é impenhorável e não responde por qualquer tipo de dívida civil, comercial, fiscal, previdenciária ou de outra natureza, contraída pelos cônjuges ou pelos pais ou filhos que sejam seus proprietários e nele residam, salvo nas hipóteses previstas nesta lei.
+O parágrafo único do mesmo dispositivo legal estabelece que a impenhorabilidade compreende o imóvel sobre o qual se assentam a construção, as plantações, as benfeitorias de qualquer natureza e todos os equipamentos, inclusive os de uso profissional, ou móveis que guarnecem a casa, desde que quitados.
+Sob esta perspectiva, o instituto do bem de família revela-se como exceção ao princípio da responsabilidade patrimonial; todavia, apenas o bem de família, ou seja, o único que sirva como domicílio do devedor, está assegurado pelas disposições da Lei 8.009/90.
+No caso concreto, a Agravante pondera que o imóvel objeto da matrícula no 20.097, localizado na Rua 28 de Outubro, n.o 3.324, Centro, Mirassol D ́Oeste/MT, é bem de família e, que apesar de estar alugado para terceiros, a renda obtida com a locação é usada para a subsistência e pagar o aluguel da moradia de sua família. No intuito de comprovar o alegado, juntou contrato de locação para PORTHSON CÉZAR OCHIUTO, e outro contrato de locação do imóvel que aluga de KEILIANE DE CARVALHO SILVA, como se verifica dos IDs. 119394950 e 119394951.
+Neste contexto, não se desconhece o que preceitua o Verbete Sumular n.o 486 do Superior Tribunal de Justiça, o qual disciplina que: “Único imóvel residencial alugado a terceiros é impenhorável, desde que a renda obtida com o aluguel seja para subsistência do proprietário.”
+Todavia, a documentação que lastreia o pedido liminar não comprova, indene de dúvida, que a Agravante utiliza o numerário obtido com a locação do imóvel de sua propriedade para sua subsistência e pagar a moradia de sua família. Ou seja, a Recorrente não trouxe à colação detalhamento e/ou comprovante de transferência bancária, bem como outros elementos que subsidiem suas alegações, de sorte que não há viabilidade de agregar efeito suspensivo/ativo ao seu recurso.
+Assim, por não vislumbrar a probabilidade do direito invocado, tampouco o periculum in mora suscitado, o indeferimento do pedido liminar é medida que se impõe.
+Saliento, por fim, que o convencimento firmado neste estágio precoce do feito será devidamente confrontado com provas que forem colhidas ao longo da marcha processual, não vinculando o Julgador da instância singela ou o mérito da causa ao vertente decisum.
+Por tais considerações, indefiro a tutela recursal pleiteada.
+Comunique-se ao Juiz da causa.
+Intime-se o Banco Agravado para, querendo, apresentar contrarrazões ao recurso.
+Cumpra-se.
+Cuiabá, 28 de março de 2022.
+Des.a Clarice Claudino da Silva
+Relatora
