@@ -1,0 +1,13 @@
+Vistos, etc...
+Trata-se de Agravo de Instrumento com pedido de liminar (efeito ativo) interposto pelo MINISTERIO PUBLICO ESTADUAL em favor de Rosana Maria Tagliari de Oliveira, em face da decisão proferida pelo Juízo da Primeira Vara Especializa da Fazenda Pública da Comarca de Várzea Grande, nos autos da Ação Civil Pública Estadual n. 1024709 64 811 0002, proposta em desfavor do Estado de Mato Grosso e do Município de Aripuanã que indeferiu o pedido de bloqueio de valores fundamentando que a paciente, por mera liberalidade, arcou com o procedimento na via privada, não se mostrando pertinente determinar que o Estado de Mato Grosso arcasse com os valores.
+Os presentes autos vieram declinados em favor desta Turma Recursal em razão de decisão proferida pela eminente Desa. Relatora do E. Tribunal de Justiça de Mato Grosso, Dra. Maria Erotides Kneip, que entendeu se tratar de causa que não ultrapassa 60 salários mínimos, razão pela qual determinou a redistribuição, com base no IRDR 85560/2016.
+A despeito de tal decisão, permissa venia, verifico a incompetência desta Turma Recursal para processar e julgar o feito, uma vez que a decisão proferida não é proveniente de Juiz de Direito que jurisdiciona em Juizado Especial, mas sim proveniente de magistrado que atua na Vara da Saúde, restando prejudicada a competência desta Turma Recursal.
+Ora, a decisão impugnada fora proferida pelo Juízo da 1a VARA ESPECIALIZA DA FAZENDA PÚBLICA DA COMARCA DE VÁRZEA GRANDE (VARA DA SAÚDE), nos autos da Ação Civil Pública no 1024709-64.2021.811.0002, competência estabelecida internamente e com competência absoluta.
+Com efeito, como sustentar a competência da Turma Recursal para processar em julgar o presente agrade de instrumento considerando que inexiste tramitação do feito na seara dos Juizados Especiais? Premissa venia, entende esta magistrada haver situação sui generis que impede o processamento do feito nesta seara.
+Outrossim, é preciso enfatizar que a competência da Vara da Saúde é de natureza absoluta, inclusive com constitucionalidade analisada pelo Supremo Tribunal Federal, de modo que tem prevalência sobre o critério do valor da causa. Com efeito, em havendo a presença de ente público municipal e estadual no polo passivo, as regras de organização judiciária impõe a competência absoluta da Vara da Saúde, o que impede a tramitação dos autos fora daquela jurisdição.
+Isto posto, concessa venia, RECONHEÇO a INCOMPETÊNCIA desta Turma Recursal para processar e julgar o recurso interposto, razão pela qual determino a devolução dos autos ao E. Tribunal de Justiça de Mato Grosso para as devidas providências e, salvo melhor juízo, reapreciar a matéria.
+Intimem-se.
+Cumpra-se.
+Lúcia Peruffo
+Juíza de Direito
+Relatora
