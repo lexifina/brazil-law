@@ -1,0 +1,12 @@
+Vistos, etc...
+Trata-se de novo Pedido de Reconsideração quanto ao deferimento parcial do pedido liminar recursal, nos autos de Agravo de Instrumento com pedido de efeito ativo interposto por ANDRÉ PHILIPE REZENDE e DEBORA CRISTINA MAGNANI REZENDE, em face da decisão exarada pelo Juízo de Direito da 2a Vara Cível da Comarca de Cuiabá/MT, que, nos autos de Execução de Título Extrajudicial no 1036918-16.2019.8.11.0041, cujo objeto é a Cédula de Crédito Bancário n. 004.618.289, e figura como Agravado: ATIVOS S/A – SECURITIZADORA DE CRÉDITOS FINANCEIROS, DEFERIU parcialmente o pedido, apenas para que sejam desbloqueados os valores referentes ao pro-labore da Agravante Débora Cristina Magnani Rezende, eis que comprovada a origem dos valores, documentalmente.
+Em síntese, os Agravantes/peticionários alegam que a decisão merece ser novamente reconsiderada, pois existem documentos que comprovam a origem dos valores requeridos também quanto à transferência de valor atinente à apólice de seguro de vida, devido em razão do falecimento do Sr. Enoque de Rezende Silva, cuja indenização é de R$ 331.949,58 cabendo ao Agravante ANDRÉ PHILIPE REZENDE, o valor de R$ 55.103,63, equivalente à 16,73%, consoante previu a apólice de seguro.
+Requerem o deferimento do pedido de reconsideração, para o fim de que seja concedido o efeito ativo para que o valor bloqueado seja estornado para a conta de origem.
+É o relatório.
+D E C I D O
+Atento aos termos do pedido de reconsideração, tem-se que a parte conseguiu demonstrar que os valores lançados na conta – que perfazem R$ 55.103,63, realmente são oriundos da indenização – seguro por morte do genitor, tendo em vista que o referido valor está em consonância matemática com o percentual disposto na apólice (16,73% do valor total, de R$ 331.949,58), cuja discriminação aponta como favorecido o Agravante ANDRÉ PHILIPE REZENDE. É o que se depreende do documento – BRADESCO SEGUROS – Consulta de Coberturas (Capital Segurado – Morte 331.949,58) – (ID. Num. 120677976 - Pág. 1)
+Destaque-se o documento que elenca como beneficiários os herdeiros: MARCOS HENRIQUE BORGES REZENDE (FILHO – PERCENTUAL DE 16.60); RODRIGO BORGES REZENDE (FILHO – PERCENTUAL DE 16.70) e ANDRÉ PHILIPE REZENDE (FILHO PERCENTUAL DE 16.70), além da esposa – APARECIDA DE FÁTIMA REZENDE – no patamar de 50%. (ID. Num. 117326984 - Pág. 3)
+Em face do exposto, DEFIRO o pedido de reconsideração, conforme vindicado.
+Intime-se.
+Des. Sebastião Barbosa Farias
+Relator
