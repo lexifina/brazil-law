@@ -1,0 +1,51 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+SEGUNDA TURMA DE CÂMARAS DE DIREITO PRIVADO
+PETIÇÃO (241) No 1003860-43.2022.8.11.0000
+Exceção de Suspeição no 1003860-43.2022.811.0000
+Excipiente: Carlos Henrique da Silva Cambara
+Excepto: Desembargador Carlos Alberto Alves da Rocha - Relator do Agravo de Instrumento n.o 1014060-46.2021.8.11.0000
+Cuida-se de Exceção de Suspeição no 1003860-43.2022.811.0000 oposta por Carlos Henrique da Silva Cambara em face do Desembargador Carlos Alberto Alves da Rocha - Relator do Agravo de Instrumento n.o 1014060-46.2021.8.11.0000.
+Alega ter interposto o Agravo de Instrumento no 1014060-46.2021.8.11.0000 em face de José Pérsio Rosa da Silva e contra a decisão que acolheu a alegação de intempestividade de sua Impugnação ao Cumprimento de Sentença da Ação de Despejo c/c Cobrança de Aluguéis e encargos no 0010408-03.2007.811.0041, código 11657375 (código anterior 289972 e no anterior 10408-03.2007.811.0041), que tramita pela 3a Vara Cível de Cuiabá e que foi proposto por José Pérsio Rosa da Silva em face de Carlos Henrique da Silva Cambara, aqui excipiente, a fim de receber o valor originário de R$171.551,18, fruto da condenação feita pela sentença da ação de Despejo quanto a dívida de encargos da locação que foi rescindida e de valor de honorários advocatícios.
+Argumenta ter postulado na sua Impugnação Cumprimento da Sentença da ação de Despejo a ilegitimidade ativa do exequente José Pérsio Rosa da Silva, ao argumento de que a ação de Despejo foi proposta pela empresa CVL Imóveis Ltda. e não por José Pérsio, bem assim que quem deveria apresentar o cumprimento de sentença era a referida empresa e que também já havia ocorrido com o título judicial a coisa julgada formal e material, nos termos do então art. 502 do CPC/73, fato que no seu entender, impedia a alteração das partes no Cumprimento de Sentença.
+Consigna que também arguiu a impossibilidade da alteração vindicada (id. de origem 39501140, volume 74/85) pela advogada Kilza Giusti Galeski, que representa José Pérsio quanto ao polo ativo do Cumprimento de Sentença para incluir a empresa CVL Imóveis Ltda..
+Relata que a decisão que foi objeto do seu Agravo de Instrumento no 1014060-46.2021.8.11.0000 acolheu, entretanto, a alegação de intempestividade de sua impugnação ao Cumprimento de Sentença, arguido pela empresa CVL Imóveis Ltda., que não é parte na lide executiva e deixou de apreciar, entretanto, as matérias arguidas pelo executado, Carlos Henrique, aqui excipiente, de ilegitimidade ativa de José Pérsio para o Cumprimento de Sentença e também de que já havia ocorrido com o título judicial a coisa julgada formal e material, nos termos do então art. 502 do CPC/73, fato que no seu entender, impedia a alteração das partes no Cumprimento de Sentença.
+Assim, alega ter postulado nas razões do seu referido Agravo de Instrumento no 1014060-46.2021.8.11.0000:
+“ausência dos pressupostos de constituição e de desenvolvimento válido e regular do processo está no fato de: a) ausência da procuração da advogada Kilza Giusti Galeski para a representação do agravado; b) Ilegitimidade ativa do agravado para exigir o cumprimento de sentença frente ao título executivo; ausência do título executivo: c) ofensa a coisa julgada, formal e material; d) bem como a ilegalidade retificação do polo ativo, tentativa totalmente ilegal de regularizar o polo ativo do cumprimento de sentença.”
+E que para sua surpresa, o recurso teve provimento negado sob os mais “estapafúrdios, inverídicos e dissociados” argumentos expostos no acórdão da relatoria do Des. Carlos Alberto, aqui excepto.
+Alega ainda que o i. Relator fez “fez o papel que deveria ser da advogada do agravado, posto que a ampla defesa permite ao advogado distorcer fatos e provas, ainda que sujeito a condenação de litigância de má-fé, contudo tal conduta é totalmente vedada ao magistrado.”.
+Sustenta que a leitura do acórdão juntado no id. 116133459 “não deixa a mínima dúvida da parcialidade do excepto desembargador Carlos Alberto Alves da Rocha no julgamento o recurso de agravo de instrumento, cujo voto condutor foi impugnado através do recurso de embargos de declaração, que certamente será rejeitado se o augusto tribunal de Justiça não o afastar do julgamento.”.
+Argumenta que “No voto lançado no acórdão acostado no id 116133459, o excepto desembargador Carlos Alberto Alves da Rocha agiu com parcialidade para o fim de dar um ar de legalidade a decisão agravada, e, por consequência, a ajudar a deficiente e sofrível representação do agravado José Pérsio Rosa da Silva, uma vez que de forma intencional distorceu a verdade dos fatos ocorridos na fase de conhecimento da ação de despejo cumulada com cobrança de alugueis e encargos, bem como, expressou uma “INEXISTENTE” preclusão para o fim de favorecer os interesses ilegítimos do agravado José Pérsio Rosa da Silva, tudo para o fim impedir a extinção do procedimento, sem a resolução do mérito, nos termos do artigo 485, IV e VI, do CPC, e, por consequência, afirmar a legitimar a pretensão do agravado de exigir um direito que não lhe pertence, frente ao título executivo.”
+E prossegue: “14 - Essa assertiva está nos seguintes fatos:
+a) Afirmação inverídica de que o excipiente já havia arguido ilegitimidade ativa do agravado José Persio Rosa da Silva na fase de conhecimento da ação de despejo cumulada com cobrança de alugueis, sendo que o mesmo só veio a ingressar nos autos na fase de cumprimento de sentença;
+b) Afirmação inverídica de preclusão quanto a manifestação da falta da procuração para advogada Kilza Giusti Galeski representar o agravado José Persio Rosa da Silva naqueles autos
+c) Afirmação de inverídica de coisa julgada em favor do agravado José Persio Rosa da Silva;
+A distorção sobre a alegação de ilegitimidade ativa do agravado José Persio Rosa da Silva e da violação da coisa julgada.
+15 - A todo efeito, o excipiente demonstrou que procedimento de cumprimento de sentença, foi requerido pelo agravado José Persio Rosa da Silva, sendo que na impugnação ao cumprimento de sentença foi arguido a ilegitimidade ativa do embargado/agravado, posto que na fase de conhecimento a ação de despejo cumulada com cobrança de alugueis e encargos foi promovida pela sociedade empresaria CVL Imóveis Ltda-ME, conforme transcrição abaixo do trecho da petição do Recurso de Agravo de Instrumento.”
+Assim, após demonstrar sua irresignação com o acórdão do Agravo de Instrumento e discorrer sobre o que entende revelar conduta parcial e tendenciosa do Relator daquele mencionado recurso, pugna pelo reconhecimento da suspeição do Des. Carlos Alberto Alves da Rocha, concessão de efeito suspensivo ao Incidente, a fim de suspender o trâmite dos Embargos de Declaração opostos contra o acórdão do referido Agravo de Instrumento no 1014060-46.2021.8.11.0000.
+Verifica-se do Agravo de Instrumento no 1014060-46.2021.811.0000 que o Desembargador Carlos Alves da Rocha já se pronunciou e recusou a suspeição que naquele recurso foi dirigida contra ele, tendo determinado a distribuição conforme prescreve a regra do art. 219 do Regimento Interno deste Tribunal de Justiça.
+A exceção foi distribuída inicialmente para o Des. José Zuquim Nogueira, que determinou a redistribuição para esta e. Turma de Câmaras Cíveis Reunidas de Direito Privado (Id. 120860455).
+É o relatório.
+Decide-se.
+A hipótese é de não conhecimento da Exceção de Suspeição.
+A exceção de suspeição consiste em instrumento de defesa processual de ordem subjetiva, destinada à recusa e ao afastamento do juiz natural da causa, com alicerce em algumas das hipóteses enumeradas no art. 145 do Código de Processo Civil.
+E dispõe o art. 145 do CPC:
+“Art. 145. Há suspeição do juiz:
+I - amigo íntimo ou inimigo de qualquer das partes ou de seus advogados;
+II - que receber presentes de pessoas que tiverem interesse na causa antes ou depois de iniciado o processo, que aconselhar alguma das partes acerca do objeto da causa ou que subministrar meios para atender às despesas do litígio;
+III - quando qualquer das partes for sua credora ou devedora, de seu cônjuge ou companheiro ou de parentes destes, em linha reta até o terceiro grau, inclusive;
+IV - interessado no julgamento do processo em favor de qualquer das partes.”
+E das alegações verifica-se que a manifestação de insatisfação do excipiente com o resultado dado ao Agravo de Instrumento no 1014060-46.2021.811.0000 que interpôs, sem, demonstrar, contudo, a ocorrência de qualquer dos fatos descritos pelo art. 145 do CPC, que trata da utilização deste tipo de incidente.
+Realça-se que o fato do Relator ter votado contra as teses do recorrente, aqui excipiente, não serve de parâmetro para concluir que tenha sido parcial, ou ainda, que tenha agido em defesa de partes.
+Neste sentido:
+“EXCEÇÃO DE SUSPEIÇÃO. CONSIGNAÇÃO E INDENIZATÓRIA. SUSPEIÇÃO NÃO CARACTERIZADA. REJEIÇÃO LIMINAR.
+1. Os documentos juntados pelos excipientes não demonstram nenhum comportamento do Magistrado que comprometa sua parcialidade.
+2. A existência de decisões contrariando o interesse dos excipientes não caracteriza suspeição, até porque a existência de processo pressupõe a ocorrência de litígio.
+3. Eventuais demoras na realização dos atos processuais, neste ano, são justificadas pela pandemia de Covid/19, considerando que os Cartórios estiveram fechados, com suspensão de prazos, até o mês de agosto e com redução do quadro dos servidores. Exceção de suspeição rejeitada.” (Petição Cível, No 70084680214, Décima Sexta Câmara Cível, Tribunal de Justiça do RS, Relator: Jucelana Lurdes Pereira dos Santos, Julgado em: 19-11-2020) (grifei).
+Realça-se ainda, que o agravante, aqui excipiente, tem a sua disposição os meios próprios para eventualmente tentar modificar o resultado do julgado. Aliás, até já opôs embargos de declaração contra o acórdão do Agravo de Instrumento, conforme noticia.
+Feitas as considerações, tem-se ser o caso de rejeição liminar da Exceção de Suspeição, conforme prescreve a regra do §4o, do art. 146 do CPC e a do §1o, do art. 220 do Regimento Interno deste Tribunal de Justiça.
+Isto posto, por não verificar a existência de nenhuma das hipóteses do art. 145 do CPC, rejeita-se, liminarmente, esta Exceção de Suspeição.
+Cuiabá, 30 de março de 2022.
+Des. Guiomar Teodoro Borges
+Relator
+(3)
