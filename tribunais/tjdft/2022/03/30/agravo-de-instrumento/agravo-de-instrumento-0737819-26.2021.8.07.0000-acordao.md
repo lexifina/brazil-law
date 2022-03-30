@@ -1,0 +1,170 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+5ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0737819-26.2021.8.07.0000AGRAVANTE(S)BANCO DO BRASIL S/AAGRAVADO(S)A&R PERFUMARIA LTDA,RENAN FERNANDES PINHEIRO e ADOLFO FERNANDES PINHEIRORelatoraDesembargadora MARIA IVATÔNIA Acórdão Nº1411931
+
+EMENTA
+
+ AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. REPRODUÇÃO DOS FUNDAMENTOS DO AGRAVO DE INSTRUMENTO. RECURSO PREJUDICADO. EXECUÇÃO. MEDIDAS ATÍPICAS DE CUMPRIMENTO DE ORDENS JUDICIAIS. CARÁTER SUBSIDIÁRIO. DILIGÊNCIAS INFRUTÍFERAS. ARTIGOS 139 E 789 DO CÓDIGO DE PROCESSO CIVIL. INCLUSÃO NOS CADASTROS DE PROTEÇÃO AO CRÉDITO. PEDIDO NÃO APRECIADO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO. POSSIBILIDADE. SUSPENSÃO DO PASSAPORTE. IMPOSSIBILIDADE. RECURSO PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO.
+
+1. "Primando pela celeridade no trâmite dos atos processuais, julga-se prejudicado o agravo interno que trata dos mesmos fatos deduzidos no agravo de instrumento, quando este se encontra pronto para imediato julgamento” (Acórdão 1372405, 07190645120218070000, Relator: GISLENE PINHEIRO, 7ª Turma Cível, data de julgamento: 15/9/2021, publicado no DJE: 28/9/2021. Pág.: Sem Página Cadastrada). 1.1. Agravo interno prejudicado.
+2. O pedido de "inclusão dos dados de todos os Agravados nos Cadastros de Proteção ao Crédito" não foi apreciado na origem. Por isto, não pode ser apreciado nesta sede sob pena de supressão de instância.
+
+3. “O Código de Processo Civil, no artigo 139, inciso IV inseriu no capítulo que trata dos poderes, deveres e responsabilidades do juiz, o dever de efetivação. Dispõe que o juiz, na qualidade de presidente do processo, determine todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária” (Acórdão 1383165, 07279296320218070000, Relator: MARIA IVATÔNIA, 5ª Turma Cível, data de julgamento: 3/11/2021, publicado no PJe: 12/11/2021. Pág.: Sem Página Cadastrada).
+
+4. “2 - A adoção da medida de suspensão da CNH não é capaz de ofender o direito constitucional de ir e vir previsto no art. 5º, inciso XV, da Constituição Federal, pois a locomoção do Devedor pode se dar por todos os meios que não a direção pessoal de veículo automotor. Ademais, na situação dos autos, não há informação que permita questionamento da adequação da providência, pois não existe prova de que o Executado dependa de sua CNH para o exercício de atividade profissional ou de outro direito de semelhante estatura. 3 - A suspensão da carteira de motorista da parte Devedora deve perdurar tão somente enquanto for possível a cobrança judicial, devendo ser suplantada caso ocorra qualquer dos fenômenos que ensejam a extinção do Feito. Agravo de Instrumento provido” (Acórdão 1329068, 07518421120208070000, Relator: ANGELO PASSARELI, 5ª Turma Cível, data de julgamento: 23/3/2021, publicado no DJE: 8/4/2021. Pág.: Sem Página Cadastrada.).
+
+5. “No que se refere à determinação de suspensão do Passaporte da parte Devedora, prevalece o entendimento segundo o qual tal medida configuraria desarrazoada restrição ao direito de ir e vir. Assim, sendo documento necessário e imprescindível à manutenção do direito de ir e vir do território nacional, o Passaporte não deve ser suspenso ou retido como medida de coerção para o adimplemento do débito. (   )” (Acórdão 1373372, 07199678620218070000, Relator: ANGELO PASSARELI, 5ª Turma Cível, data de julgamento: 22/9/2021, publicado no PJe: 4/10/2021. Pág.: Sem Página Cadastrada.).
+
+6. Agravo de instrumento parcialmente conhecido e, na extensão,  parcialmente provido. Prejudicado o agravo interno.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 5ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, MARIA IVATÔNIA - Relatora, JOÃO LUIS FISCHER DIAS - 1º Vogal e ANGELO PASSARELI - 2º Vogal, sob a Presidência do Senhor Desembargador ANGELO PASSARELI, em proferir a seguinte decisão: CONHECER PARCIALMENTE. DAR PARCIAL PROVIMENTO AO AGRAVO DE INSTRUMENTO. JULGAR PREJUDICADO O AGRAVO INTERNO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 06 de Abril de 2022
+
+Desembargadora MARIA IVATÔNIARelatora
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento com pedido de efeito suspensivo ativo interposto por BANCO DO BRASIL S/A contra a r. decisão proferida pelo Juízo da Vara Cível de Planaltina nos autos da Execução ajuizada pelo agravante em face de A&R PERFUMARIA LTDA, RENAN FERNANDES PINHEIRO e ADOLFO FERNANDES PINHEIRO, ora agravados, decisão nos seguintes termos:
+
+“Pleiteia a parte credora a suspensão da CNH e dos passaportes dos executados.
+
+Decido.
+
+O art. 139, IV, do CPC autoriza que o juiz determine medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial.
+
+No entanto, verifico que o presente caso não atende aos requisitos para suspensão da CNH e dos passaportes dos executados. A aplicação da medida depende da existência de indícios de que o devedor frustra dolosamente o cumprimento da ordem judicial, sob pena da medida ser inócua, bem como que se utilizou de todos os recursos disponíveis para satisfação do crédito.
+
+Ademais, as referidas medidas são inadequadas e desproporcionais aos propósitos da parte credora e têm potencial de comprometer o direito de ir e vir, bem como a subsistência do devedor.
+
+Ainda que a parte credora busque satisfazer seu crédito, sem êxito, o contexto dos autos não é suficiente para demonstrar que o executado está ocultando patrimônio.
+
+Na esteira, é o entendimento desta Corte de Justiça, consoante recentes precedentes:‘AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. SUSPENSÃO DE CARTÃO DE CRÉDITO. APLICAÇÃO DO ART. 139, IV, DO CPC. IMPOSSIBILIDADE. PRINCÍPIOS DA RAZOABILIDADE, PROPORCIONALIDADE E EFICIÊNCIA A SEREM OBSERVADOS. AUSÊNCIA DE BENS PENHORÁVEIS - ART. 921, III, CPC. SUSPENSÃO DO FEITO. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA APLICADA - MANUTENÇÃO DA MULTA APLICADA PELO JUIZ ‘A QUO’. RECURSO DESPROVIDO. 1. O artigo 139, inc. IV, do Código de Processo Civil outorga ao Juiz o dever de determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniárias. 2. No caso, a medida solicitada pela agravante de suspensão da Carteira de Habilitação, passaporte, bem como de determinar o cancelamento dos cartões de crédito da agravada, com invocação do art. 139, IV, do CPC, para obtenção de seu crédito mostra-se desarrazoada, tendo em vista que não há previsão legal expressa, só podendo ser adotada em casos absolutamente excepcionais. 3. O juízo a quo fundamentou corretamente sua negativa ao referir que as medidas pleiteadas, pela sua natureza, não garantem que haverá a indução ao pagamento. Além disso, elas acarretariam um gravame muito maior a demandada, em termos de restrição de direitos, inclusive fundamentais (como o direito de locomoção e de compra bens essências a vida), comparativamente ao direito de crédito contraposto, ferindo, com isso o princípio da proporcionalidade, razoabilidade e eficiência. 4. Ademais, deve ser mantida a decisão dos embargos de declaração, que resultaram na aplicação de multa de 2% sobre o valor atualizada da causa, pois são protelatórios os embargos de declaração fundados em omissão e contradição, se a decisão exaustivamente examinou os argumentos do recorrente, o que enseja a imposição de multa de 2% sobre o valor da causa, nos termos do artigo1.026, § 2º, do CPC. 5. RECURSO CONHECIDO E DESPROVIDO.  (Acórdão n.1012199, 07006894120178070000, Relator: ROBSON BARBOSA DE AZEVEDO 5ª Turma Cível, Data de Julgamento: 20/04/2017, Publicado no DJE: 04/05/2017. Pág.:  Sem Página Cadastrada.).’‘DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PROCESSO DE EXECUÇÃO. PEDIDO DE APREENSÃO DA CARTEIRA DE HABILITAÇÃO E DO PASSAPORTE. MEDIDA DESARRAZOADA. CASOS ESPECÍFICOS COM PREVISÃO NO CNT PARA CARTEIRA DE MOTORISTA E EM CASOS DE NATUREZA PENAL PARA A APREENSÃO DE PASSAPORTE. DIREITO DE IR E VIR E O PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA CONSAGRADO NA CONSTITUIÇÃO FEDERAL. RECURSO CONHECIDO E DESPROVIDO. DECISÃO HOSTILIZADA MANTIDA.1. Cinge-se a presente demanda em analisar o pedido de apreensão da CNH e do Passaporte das executadas, uma vez que não houve pedido de efeito suspensivo ou de antecipação de tutela recursal.2. No cotejo dos autos, não foram apontados indícios de que as executadas ostentem viagens internacionais ou estejam se utilizando de veículo automotor que, para frustrar a execução está em nome de terceiros.3. Tais medidas afrontam o direito de ir e vir, consagrado na Constituição Federal, art. 5º, inciso XV, bem como feri diretamente o princípio dignidade da pessoa humana.4. Recurso conhecido e desprovido. Decisão hostilizada mantida.(Acórdão n.999131, 20160020477885AGI, Relator: ROBSON BARBOSA DE AZEVEDO 5ª TURMA CÍVEL, Data de Julgamento: 22/02/2017, Publicado no DJE: 16/03/2017. Pág.: 446/454).’
+
+Por epílogo, o pleito da parte credora para suspensão da CNH e dos passaportes dos devedores deve ser indeferido.
+
+Retornem os autos ao arquivo” (ID 107676777 dos autos originários n. 0003128-51.2017.8.07.0005; grifei).
+
+Nas razões, o agravante alega que "o Código de Processo Civil trouxe inovações de cunho processual sopesando dois princípios constitucionais, a dignidade da pessoa humana e a segurança jurídica, além de outros princípios reflexos como o devido processo legal, ampla defesa, contraditório e razoável duração do processo, visando dar maior efetividade à execução, nos termos do artigo 797, do mesmo Codex. Com efeito, é permitido ao credor valer-se de todos os meios lícitos, possíveis e à sua disposição para receber o justo crédito que possui em face do devedor. O Código de Processo Civil também positivou no artigo 6ª o princípio da cooperação, logo, todas as partes devem colaborar entre si para a razoável duração do processo”.
+
+Ao final, requer:
+
+“Desta forma, considerando as questões de fato e direito retro expendidas, requer-se a Vossa Excelência:
+
+a) seja recebido o presente Agravo de Instrumento e deferida a formação do mesmo, com as peças em anexo, na forma do artigo 1.015 e seguintes do Código de Processo Civil;
+
+b) seja concedido o efeito suspensivo pleiteado, a fim de que se suspendam os efeitos da decisão agravada, bem como o efeito ativo pretendido, para que seja determinada a suspensão da Carteira Nacional de Habilitação e passaporte dos Agravados RENAN FERNANDES PINHEIRO e ADOLFO FERNANDES PINHEIRO, bem como a inclusão dos dados de todos os Agravados nos Cadastros de Proteção ao Crédito;
+
+c) sejam os Agravados, intimados por meio de seu procuradore para, querendo, apresentarem resposta, no prazo legal. d) seja, enfim, reformada a decisão agravada a fim de determinar a suspensão da Carteira Nacional de Habilitação e passaporte dos Agravados RENAN FERNANDES PINHEIRO e ADOLFO FERNANDES PINHEIRO, bem como a inclusão dos dados de todos os Agravados nos Cadastros de Proteção ao Crédito".
+
+Preparo regular (ID 31007425).
+
+Deferido “parcialmente o pedido de efeito suspensivo ativo para determinar a suspensão da Carteira Nacional de Habilitação dos agravados RENAN FERNANDES PINHEIRO e ADOLFO FERNANDES PINHEIRO até o momento em que a execução seja extinta por quaisquer das causas extintivas, ressalvada possibilidade de reavaliação caso seja demonstrado que os devedores dependam da carteira de habilitação para exercer seu ofício ou para exercer eventual outro direito de mesmo porte” (ID 31053646).
+
+Contrarrazões pelo não provimento do agravo de instrumento (ID 31591476).
+
+Os agravados interpõem agravo interno contra a decisão pela qual deferido parcialmente o pedido de efeito suspensivo ativo, alegando que “tais atos restritivos representam medida punitiva que viola o direito de locomoção dos devedores, não alcançando o resultado útil de satisfação do crédito. Por essa razão, não só extrapola os princípios da razoabilidade e da proporcionalidade, como traz severos prejuízos na esfera existencial dos Agravantes”.
+
+E pedem:
+
+“seja dado provimento ao presente Agravo Interno, reformando, pois, a decisão atacada para o fim de indeferir/cancelar de plano a concessão de efeito suspensivo e ativo que suspendeu a CNH dos Agravantes nos autos do Agravo de Instrumento nº 0737819-26.2021.8.07.0000, haja vista não haver razoabilidade e proporcionalidade na medida coercitiva adotada, tampouco o preenchimento dos requisitos necessários à concessão do efeito suspensivo e ativo ao recurso do Banco. Pelo contrário, tais medidas mostram-se inúteis à satisfação do crédito, uma vez que há ausência de bens penhoráveis, conforme demonstrado nos autos, razão pela qual tanto o pedido de suspensão das CNH’s quanto o pedido de apreensão dos passaportes dos Agravantes devem ser indeferidos” (ID 31592521).
+
+Contrarrazões ao agravo interno pelo não provimento do recurso (ID 32589786).
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora MARIA IVATÔNIA - RelatoraQuanto ao agravo interno, verifica-se que argumentos que serão analisados no agravo de instrumento. Por isto, deve ser tido como prejudicado.
+Por oportuno:
+"AGRAVO INTERNO. REPRODUÇÃO DOS FUNDAMENTOS DO AGRAVO DE INSTRUMENTO. RECURSO PREJUDICADO. AGRAVO DE INSTRUMENTO. PRELIMINAR DE INCOMPETÊNCIA ABSOLUTA. SUPRESSÃO DE INSTÂNCIA. SUSPENSÃO DA EXIGIBILIDADE DO IMPOSTO DE RENDA. LEIS 7.713/1988 E 9.250/1995. SÚMULA 598/STJ. TUTELA DE URGÊNCIA. ART. 300, CPC. REQUISITOS SATISFEITOS. SUSPENSÃO DOS DESCONTOS. DECISÃO A QUO REFORMADA. 1. ‘Primando pela celeridade no trâmite dos atos processuais, julga-se prejudicado o agravo interno que trata dos mesmos fatos deduzidos no agravo de instrumento, quando este se encontra pronto para imediato julgamento’ (Acórdão 1201731, 07067669520198070000, Relator: GISLENE PINHEIRO, 7ª Turma Cível, data de julgamento: 11/9/2019, publicado no DJE: 23/9/2019. Pág.: Sem Página Cadastrada.). 1.1. Agravo interno prejudicado. (   )” (Acórdão 1396716, 07085625320218070000, Relator: MARIA IVATÔNIA, 5ª Turma Cível, data de julgamento: 9/2/2022, publicado no DJE: 14/2/2022. Pág.: Sem Página Cadastrada.)
+
+"CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. PREJUDICADO. AGRAVO DE INSTRUMENTO. LOTE IRREGULAR. REGULARIZAÇÃO FUNDIÁRIA. EDITAL DE CONVOCAÇÃO PARA VENDA DIRETA. PRAZO DE ADESÃO. AUSENCIA DE ELEMENTOS AUTORIZADORES PARA REFORMA DA DECISÃO RECORRIDA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. 1. Primando pela celeridade no trâmite dos atos processuais, julga-se prejudicado o agravo interno que trata dos mesmos fatos deduzidos no agravo de instrumento, quando este se encontra pronto para imediato julgamento. (   )” (Acórdão 1372405, 07190645120218070000, Relator: GISLENE PINHEIRO, 7ª Turma Cível, data de julgamento: 15/9/2021, publicado no DJE: 28/9/2021. Pág.: Sem Página Cadastrada.)
+
+Prejudicado o agravo interno, passa-se ao julgamento do agravo de instrumento.
+DO AGRAVO DE INSTRUMENTO
+O artigo 1.015 do Código de Processo Civil traz as matérias recorríveis via agravo de instrumento:
+
+“Art. 1.015. Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:
+
+I – tutelas provisórias
+
+II – mérito do processo
+
+III – rejeição da alegação de convenção de arbitragem
+
+IV – incidente de desconsideração da personalidade jurídica
+
+V – rejeição do pedido de gratuidade da justiça ou acolhimento do pedido de sua revogação
+
+VI – exibição ou posse de documento ou coisa
+
+VII – exclusão de litisconsorte
+
+VIII – rejeição do pedido de limitação do litisconsórcio
+
+IX – admissão ou inadmissão de intervenção de terceiros
+
+X – concessão, modificação ou revogação do efeito suspensivo aos embargos à execução
+
+XI – redistribuição do ônus da prova nos termos do art. 373, § 1o
+
+XII – (VETADO)
+
+XIII – outros casos expressamente referidos em lei.
+
+Parágrafo único. Também caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário”.
+
+Hipótese que se amolda ao que previsto no parágrafo único do art. 1.015, CPC (decisão em execução).
+
+O pedido de "inclusão dos dados de todos os Agravados nos Cadastros de Proteção ao Crédito" não foi apreciado na origem. Por isto, não pode ser apreciado nesta sede sob pena de supressão de instância.
+
+Satisfeitos os pressupostos intrínsecos e extrínsecos de admissibilidade quanto aos demais pontos (“suspensão da Carteira Nacional de Habilitação e passaporte dos Agravados RENAN FERNANDES PINHEIRO e ADOLFO FERNANDES PINHEIRO”), conheço parcialmente do recurso.
+
+O artigo 789 do Código de Processo Civil dispõe que “o devedor responde com todos os seus bens presentes e futuros para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei”.
+
+No entanto, nem sempre o devedor está disposto a cumprir suas obrigações, razão por que, nos termos do  art. 139, inciso IV do CPC,  poderá o juiz adotar outras medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias ao cumprimento da ordem judicial, velando pela duração razoável do processo:
+
+“Art. 139. O juiz dirigirá o processo conforme as disposições deste Código, incumbindo-lhe:
+
+(  ) IV determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária”.
+
+Dúvida não há, portanto, que o novo Código de Processo Civil permite ao Magistrado adotar medidas coercitivas para conferir efetividade às decisões judiciais proferidas, garantindo o resultado útil pretendido pela parte que obteve o provimento favorável em pleito. É dever do juiz resguardar e aplicar o princípio da eficiência e efetividade do processo, que se dá quando a parte obtém “em prazo razoável a solução integral do mérito, incluída a atividade satisfativa” (art. 4º, CPC/2015; art. 5º, LXXVIII, CF/88).
+
+Marcus Vinicius Rios Gonçalves discorre a respeito:
+
+“O art. 139, IV, determina que as medidas estabelecidas para a efetivação das ordens judicias se apliquem também às obrigações que tenham por objeto a prestação pecuniária, isto é, as obrigações por quantia. Como a lei não faz nenhuma ressalva, parece-nos que todas as medidas coercitivas ou sub-rogatórias previstas para as obrigações de fazer ou não fazer estendem-se às obrigações por quantia, inclusive a relativa ao pagamento de multa diária ('astreintes'), o que, de maneira geral, não era admitido na legislação anterior. Porém, a imposição de meios coercitivos, como a multa, nas obrigações por quantia, deverá ser de aplicação excepcional ou subsidiária, quando os meios de sub-rogação não foram eficazes. Se o devedor tiver bens, o cumprimento da obrigação continuará sendo feito, primacialmente, com o arresto e a penhora deles para oportuna expropriação e pagamento do credor. Apenas nos casos em que os meios de sub-rogação não se mostrarem eficazes, porque o devedor oculta maliciosamente os bens ou causa embaraços ou dificuldades à sua constrição, o juiz poderá valer-se dos meios de coerção” (Direito Processual Civil Esquematizado, 7. ed, São Paulo, Saraiva, 2016, pp. 289-290).
+
+Tenho que suspensão da CNH dos agravados RENAN FERNANDES PINHEIRO e ADOLFO FERNANDES PINHEIRO não afronta direito constitucional de ir e vir (artigo 5º, XV, CF/88), pois locomoção que pode ocorrer de outras formas que não a direção pessoal de automóvel.
+
+Outrossim, nenhuma indicação de que os agravados RENAN FERNANDES PINHEIRO e ADOLFO FERNANDES PINHEIRO exerçam profissão que exija carteira de habilitação.
+
+Por oportuno:
+
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO. MEDIDAS ATÍPICAS DE CUMPRIMENTO DE ORDENS JUDICIAIS. CARÁTER SUBSIDIÁRIO. DILIGÊNCIAS INFRUTÍFERAS. ARTIGOS 139 E 789 DO CÓDIGO DE PROCESSO CIVIL. BLOQUEIO DE PASSAPORTE. INVIABILIDADE. BLOQUEIO DE CARTÕES DE CRÉDITO. SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO. POSSIBILIDADE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1. ‘O Código de Processo Civil, no artigo 139, inciso IV inseriu no capítulo que trata dos poderes, deveres e responsabilidades do juiz, o dever de efetivação. Dispõe que o juiz, na qualidade de presidente do processo, determine todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária’ (Acórdão 1315307, 07303506020208070000, Relator: MARIA IVATÔNIA, 5ª Turma Cível, data de julgamento: 3/2/2021, publicado no DJE: 23/2/2021. Pág.: Sem Página Cadastrada.). 2. Passaporte é documento essencial e imprescindível ao exercício do direito de ir e vir do território nacional. Restringir tal direito como medida de coerção para adimplemento de débito é excessivo, violando o artigo 5º, XV da Constituição Federal. 2.1. ‘No que se refere à determinação de suspensão do Passaporte da parte Devedora, prevalece o entendimento segundo o qual tal medida configura-ria desarrazoada restrição ao direito de ir e vir. Assim, sendo documento necessário e imprescindível à manutenção do direito de ir e vir do território nacional, o Passaporte não deve ser suspenso ou retido como medida de coerção para o adimplemento do débito. ( )’ (Acórdão 1219851, 07206084520198070000, Relator: ANGELO PASSARELI, 5ª Turma Cível, data de julgamento: 4/12/2019, publicado no DJE: 12/12/2019. Pág.: Sem Página Cadastrada.). 3. ‘O bloqueio dos cartões de crédito do devedor é possível, desde que a medida se mostre adequada e proporcional ao caso concreto, porquanto não viola o princípio da menor onerosidade e efetiva o combate ao superendividamento do executado’ (Acórdão 1222971, 07211896020198070000, Relator: ESDRAS NE-VES, 6ª Turma Cível, data de julgamento: 11/12/2019, publicado no DJE: 23/1/2020. Pág.: Sem Página Cadastrada.). 4. ‘3 - Adotadas as medidas executivas típicas na tentativa de localizar a Devedora e bens passíveis de penhora, havendo indícios de que a Executada possui bens penhoráveis e está se esquivando da quitação do débito, mostra-se possível a suspensão da Carteira Nacional de Habilitação, como determinação tendente a compelir a parte Devedora a pagar o débito, por aplicação do art. 139, IV, do Código de Processo Civil e da jurisprudência incidente. 4 - Cumpridos os devidos requisitos, a adoção da medida de suspensão da CNH não é capaz de ofender o direito constitucional de ir e vir previsto no art. 5º, inciso XV, da Constituição Federal, pois a locomoção da Devedora pode se dar por todos os meios que não a direção pessoal de veículo automotor, não havendo elementos indicativos de que a Executada exerça profissão que exija a carteira de habilitação. 5 - Determinada a suspensão da CNH, a restrição poderá ser reavaliada, caso venha a ser demonstrado que a Devedora depende da carteira de habilitação para exercer seu ofício ou outro direito de mesmo porte. Ademais, a suspensão decorrente da aplicação da medida coercitiva deve perdurar tão somente enquanto for possível a cobrança judicial, devendo ser suplantada caso ocorra qualquer dos fenômenos que ensejam a extinção do Feito. Agravo de Instrumento provido. Maioria’ (Acórdão 1239672, 07135075420198070000, Relator: ROBSON BARBOSA DE AZEVEDO, Relator Designado: ANGELO PASSARELI 5ª Turma Cível, data de julgamento: 25/3/2020, publicado no DJE: 4/5/2020. Pág.: Sem Página Cadastrada). 5. Agravo de instrumento conhecido e parcialmente provido” (Acórdão 1337810, 07528034920208070000, Relator: ANA CANTARINO, , Relator Designado:MARIA IVATÔNIA 5ª Turma Cível, data de julgamento: 5/5/2021, publicado no PJe: 13/5/2021. Pág.: Sem Página Cadastrada.);
+
+"“DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MEDIDAS EXECUTIVAS TÍPICAS. NÃO LOCALIZAÇÃO DE BENS. INCISO IV DO ART. 139 DO CPC. SUSPENSÃO DE CNH. POSSIBILIDADE. DECISÃO PARCIALMENTE REFORMADA. 1 - De acordo com a jurisprudência do colendo STJ e desta Corte de Justiça, sendo infrutíferas todas as medidas executivas típicas adotadas com o intuito de obter a satisfação do débito exequendo, mostra-se possível a suspensão da Carteira Nacional de Habilitação, como modo de compelir a parte Devedora a pagar, por aplicação do art. 139, IV, do Código de Processo Civil, dispositivo que confere ao Magistrado o poder de, na direção do processo, "determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária". Exige-se, contudo, o preenchimento dos seguintes requisitos: observância ao contraditório; esgotamento dos meios típicos de satisfação da obrigação; indícios de que o Executado possui patrimônio, frustrando-se indevidamente ao pagamento do débito perseguido, e decisão fundamentada. 2 - A adoção da medida de suspensão da CNH não é capaz de ofender o direito constitucional de ir e vir previsto no art. 5º, inciso XV, da Constituição Federal, pois a locomoção do Devedor pode se dar por todos os meios que não a direção pessoal de veículo automotor. Ademais, na situação dos autos, não há informação que permita questionamento da adequação da providência, pois não existe prova de que o Executado dependa de sua CNH para o exercício de atividade profissional ou de outro direito de semelhante estatura. 3 - A suspensão da carteira de motorista da parte Devedora deve perdurar tão somente enquanto for possível a cobrança judicial, devendo ser suplantada caso ocorra qualquer dos fenômenos que ensejam a extinção do Feito. Agravo de Instrumento provido” (Acórdão 1329068, 07518421120208070000, Relator: ANGELO PASSARELI, 5ª Turma Cível, data de julgamento: 23/3/2021, publicado no DJE: 8/4/2021. Pág.: Sem Página Cadastrada.)
+
+O mesmo já não se pode concluir quanto ao Passaporte, documento essencial e imprescindível ao exercício do direito de ir e vir do território nacional. Restringir tal direito como medida de coerção para adimplemento de débito é excessivo, violando o artigo 5º, XV da Constituição Federal.
+
+No sentido, julgados desta Turma:
+
+“AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MEDIDAS ATÍPICAS DE CUMPRIMENTO DE ORDENS JUDICIAIS. CARÁTER SUBSIDIÁRIO. DILIGÊNCIAS TÍPICAS INFRUTÍFERAS. ARTIGOS 139 E 789 DO CÓDIGO DE PROCESSO CIVIL. BLOQUEIO DE PASSAPORTE. INVIABILIDADE. BLOQUEIO DE CARTÕES DE CRÉDITO. SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO. POSSIBILIDADE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1. ‘O Código de Processo Civil, no artigo 139, inciso IV inseriu no capítulo que trata dos poderes, deveres e responsabilidades do juiz, o dever de efetivação. Dispõe que o juiz, na qualidade de presidente do processo, determine todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária’ (Acórdão 1241602, 07007716720208070000, Relator: ANA CANTARINO, Relator Designado: MARIA IVATÔNIA 5ª Turma Cível, data de julgamento: 1/4/2020, publicado no DJE: 4/5/2020. Pág.: Sem Página Cadastrada.). 2. Passaporte é documento essencial e imprescindível ao exercício do direito de ir e vir do território nacional. Restringir tal direito como medida de coerção para adimplemento de débito é excessivo, violando o artigo 5º, XV da Constituição Federal. 2.1. ‘No que se refere à determinação de suspensão do Passaporte da parte Devedora, prevalece o entendimento segundo o qual tal medida configuraria desarrazoada restrição ao direito de ir e vir. Assim, sendo documento necessário e imprescindível à manutenção do direito de ir e vir do território nacional, o Passaporte não deve ser suspenso ou retido como medida de coerção para o adimplemento do débito. (  )’ (Acórdão 1219851, 07206084520198070000, Relator: ANGELO PASSARELI,  5ª Turma Cível, data de julgamento: 4/12/2019, publicado no DJE: 12/12/2019. Pág.:  Sem Página Cadastrada.). 3. ‘O bloqueio dos cartões de crédito do devedor é possível, desde que a medida se mostre adequada e proporcional ao caso concreto, porquanto não viola o princípio da menor onerosidade e efetiva o combate ao superendividamento do executado’ (Acórdão 1222971, 07211896020198070000, Relator: ESDRAS NEVES, 6ª Turma Cível, data de julgamento: 11/12/2019, publicado no DJE: 23/1/2020. Pág.: Sem Página Cadastrada.). 4. ‘3 - Adotadas as medidas executivas típicas na tentativa de localizar a Devedora e bens passíveis de penhora, havendo indícios de que a Executada possui bens penhoráveis e está se esquivando da quitação do débito, mostra-se possível a suspensão da Carteira Nacional de Habilitação, como determinação tendente a compelir a parte Devedora a pagar o débito, por aplicação do art. 139, IV, do Código de Processo Civil e da jurisprudência incidente. 4 - Cumpridos os devidos requisitos, a adoção da medida de suspensão da CNH não é capaz de ofender o direito constitucional de ir e vir previsto no art. 5º, inciso XV, da Constituição Federal, pois a locomoção da Devedora pode se dar por todos os meios que não a direção pessoal de veículo automotor, não havendo elementos indicativos de que a Executada exerça profissão que exija a carteira de habilitação. 5 - Determinada a suspensão da CNH, a restrição poderá ser reavaliada, caso venha a ser demonstrado que a Devedora depende da carteira de habilitação para exercer seu ofício ou outro direito de mesmo porte. Ademais, a suspensão decorrente da aplicação da medida coercitiva deve perdurar tão somente enquanto for possível a cobrança judicial, devendo ser suplantada caso ocorra qualquer dos fenômenos que ensejam a extinção do Feito. Agravo  de  Instrumento  provido. Maioria’ (Acórdão 1239672, 07135075420198070000, Relator: ROBSON BARBOSA DE AZEVEDO, Relator Designado: ANGELO PASSARELI 5ª Turma Cível, data de julgamento: 25/3/2020, publicado no DJE: 4/5/2020. Pág.: Sem Página Cadastrada). 5. Agravo de instrumento conhecido e parcialmente provido” (Acórdão 1383165, 07279296320218070000, Relator: MARIA IVATÔNIA, 5ª Turma Cível, data de julgamento: 3/11/2021, publicado no PJe: 12/11/2021. Pág.: Sem Página Cadastrada.)
+
+"DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MEDIDAS EXECUTIVAS ATÍPICAS. INCISO IV DO ART. 139 DO CPC. SUSPENSÃO DE CNH. NÃO LOCALIZAÇÃO DE BENS EXPROPRIÁVEIS. DEFERIMENTO DA MEDIDA. ORIENTAÇÃO JURISPRUDENCIAL DO STJ. RESP 1.788.950/MT. APREENSÃO DE PASSAPORTE. BLOQUEIO DE CARTÕES DE CRÉDITO. IMPOSSIBILIDADE. DECISÃO MANTIDA. 1 - Adotadas as medidas executivas típicas e tendo tais providências se revelado infrutíferas, mostra-se possível, em tese, a suspensão da Carteira Nacional de Habilitação, como determinação tendente a compelir a parte Devedora a pagar, por aplicação do art. 139, IV, do Código de Processo Civil, dispositivo que confere ao Magistrado o poder de, na direção do processo, ‘determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária’. 2 - Conforme orientação jurisprudencial extraída do julgamento do REsp n. 1.788.950/MT (Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/04/2019, DJe 26/04/2019), as medidas atípicas de coerção autorizadas no art. 139, IV, do CPC devem ser utilizadas com ressalvas, mediante a presença cumulativa dos seguintes requisitos: a) que o devedor tenha sido intimado para efetivar o cumprimento da obrigação, respeitando-se o contraditório; b) esgotamento dos meios típicos destinados à satisfação do crédito, c) indícios mínimos de que o Executado possui patrimônio expropriável, frustrando-se  ao cumprimento da obrigação; d) decisão devidamente fundamentada. 3 - No que se refere à determinação de suspensão do Passaporte da parte Devedora, prevalece o entendimento segundo o qual tal medida configuraria desarrazoada restrição ao direito de ir e vir. Assim, sendo documento necessário e imprescindível à manutenção do direito de ir e vir do território nacional, o Passaporte não deve ser suspenso ou retido como medida de coerção para o adimplemento do débito. 5 - Em relação ao bloqueio de crédito dos cartões de crédito pertencentes ao Devedor, existem, em nosso ordenamento jurídico, medidas típicas aptas a inviabilizar o crédito do Executado, tal como a inclusão de seu nome em cadastros de inadimplentes. Ademais, o bloqueio de cartões de crédito afetaria a esfera jurídica de pessoas estranhas ao Feito, sendo inadequada a interferência do Poder Judiciário em relação contratual firmada entre o Devedor e terceiro de boa-fé, de modo a causar prejuízo a esse terceiro. Agravo de Instrumento desprovido” (Acórdão 1373372, 07199678620218070000, Relator: ANGELO PASSARELI, 5ª Turma Cível, data de julgamento: 22/9/2021, publicado no PJe: 4/10/2021. Pág.: Sem Página Cadastrada.)
+
+Forte em tais argumentos, conheço parcialmente do agravo de instrumento e, na extensão, dou-lhe parcial provimento para determinar a suspensão da Carteira Nacional de Habilitação dos agravados RENAN FERNANDES PINHEIRO e ADOLFO FERNANDES PINHEIRO até o momento em que a execução seja extinta por quaisquer das causas extintivas, ressalvada possibilidade de reavaliação caso seja demonstrado que os devedores dependam da carteira de habilitação para exercer seu ofício ou para exercer eventual outro direito de mesmo porte. Julgo prejudicado o agravo interno.
+
+Ao Juízo de origem as providências relativas ao ofício ao Detran/DF (para efetivação da suspensão da CNH dos agravados RENAN FERNANDES PINHEIRO e ADOLFO FERNANDES PINHEIRO).
+
+É como voto.
+
+O Senhor Desembargador JOÃO LUIS FISCHER DIAS - 1º Vogal Com o relatorO Senhor Desembargador ANGELO PASSARELI - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER PARCIALMENTE. DAR PARCIAL PROVIMENTO AO AGRAVO DE INSTRUMENTO. JULGAR PREJUDICADO O AGRAVO INTERNO. UNÂNIME.
