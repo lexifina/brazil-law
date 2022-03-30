@@ -1,0 +1,2 @@
+Autoriza o Banco do Brasil S.A. e a Caixa Econômica Federal a constituírem subsidiárias e a adquirirem participação em instituições financeiras sediadas no Brasil; altera as Leis nos 7.940, de 20 de dezembro de 1989, 10.637, de 30 de dezembro de 2002, 11.524, de 24 de setembro de 2007, e 11.774, de 17 de setembro de 2008; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
