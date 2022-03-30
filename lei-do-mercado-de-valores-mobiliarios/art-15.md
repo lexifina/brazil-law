@@ -3,7 +3,7 @@ I - as instituições financeiras e demais sociedades que tenham por objeto dist
 a) como agentes da companhia emissora;
 b) por conta própria, subscrevendo ou comprando a emissão para a colocar no mercado;
 II - as sociedades que tenham por objeto a compra de valores mobiliários em circulação no mercado, para os revender por conta própria;
-III - as sociedades e os agentes autônomos que exerçam atividades de mediação na negociação de valores mobiliários, em bolsas de valores ou no mercado de balcão;
+III - as sociedades e os assessores de investimentos que exerçam atividades de mediação na negociação de valores mobiliários em bolsas de valores ou no mercado de balcão;
 IV - as bolsas de valores.
 V - entidades de mercado de balcão organizado.
 VI - as corretoras de mercadorias, os operadores especiais e as Bolsas de Mercadorias e Futuros; e
