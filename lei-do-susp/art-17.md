@@ -1,1 +1,2 @@
 Art. 17. Regulamento disciplinará os critérios de aplicação de recursos do Fundo Nacional de Segurança Pública (FNSP) e do Fundo Penitenciário Nacional (Funpen), respeitando-se a atribuição constitucional dos órgãos que integram o Susp, os aspectos geográficos, populacionais e socioeconômicos dos entes federados, bem como o estabelecimento de metas e resultados a serem alcançados.
+Parágrafo único. Entre os critérios de aplicação dos recursos do FNSP serão incluídos metas e resultados relativos à prevenção e ao combate à violência contra a mulher.
