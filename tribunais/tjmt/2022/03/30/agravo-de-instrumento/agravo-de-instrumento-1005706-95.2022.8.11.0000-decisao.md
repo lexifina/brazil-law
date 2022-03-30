@@ -1,0 +1,24 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1005706-95.2022.8.11.0000
+Vistos etc.
+Trata-se de Recurso Agravo de Instrumento interposto pelo BANCO DO BRASIL S.A., em virtude de decisão proferida pelo Juiz da 2.a Vara Cível da Comarca de Campo Novo dos Parecis que, nos autos do Cumprimento de Sentença n. 1002720-52.2021.8.11.0050, movido por ELIO DOMINGOS PETRY, ao receber o cumprimento de sentença, determinou que as partes se manifestassem na forma do art. 509, I, do CPC, ou seja, pelo procedimento da liquidação por arbitramento.
+Inconformado, o Banco Recorrente almeja a reforma da decisão vergastada ao argumento de que o Julgador singular se equivocou ao receber o feito como liquidação de sentença por arbitramento, quando o correto seria liquidação de sentença pelo procedimento comum.
+Defende que a sentença que originou o título executivo judicial, proferida nos autos da Ação Civil Pública n. 0008465-28.1994.4.01.3400, que tramitou perante a 3.a Vara Federal do Distrito Federal, não ostenta eficácia executiva por si mesma, de modo que a liquidação de sentença não pode ocorrer por simples cálculos aritméticos, como pleiteado pelo Agravado.
+Sustenta que, como a sentença proferida na referida ação coletiva não identifica os mutuários, tampouco aponta o valor que lhes são devidos, fica evidente a necessidade de ser provado fato novo, o que justifica que o feito seja recebido como liquidação pelo procedimento comum, de acordo com o que preconiza o art. 509, II, do Código de Processo Civil.
+Defende que a adoção de rito processual diverso da liquidação de sentença pelo procedimento comum implicará em prejuízo ao Banco Agravante na produção da prova quanto à titularidade do crédito, efetivo pagamento das parcelas e realização de perícia judicial, o que resultaria em violação ao contraditório e a ampla defesa.
+Com base nessas assertivas, requerem sejam agregados os efeitos ativo e suspensivo ao Recurso. No mérito, pede o provimento do recurso.
+É, no essencial, o relatório. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a decisão combatida se enquadra na hipótese da exceção do parágrafo único do artigo 1.015, do Código de Processo Civil, bem como está instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o, do CPC.
+O artigo 1.019, inciso I, do mesmo Codex preconiza que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o risco de dano grave, de difícil ou improvável reparação. Nesse contexto, é vedado nos estreitos limites deste Instrumental, o exame de questões de fundo do direito discutido, sendo pertinente apenas aferir se estão, ou não, presentes os pressupostos para o deferimento da medida.
+Da análise superficial do caderno processual, é possível vislumbrar a confluência desses pressupostos para a concessão da medida liminar pretendida.
+Com efeito, da leitura do decisum que originou o título executivo judicial objeto dos autos (IDs. 70802296 e seguintes), constata-se que o Acórdão proferido não identifica os mutuários e tampouco aponta o valor que lhes são devidos, o que, ao menos em tese, pressupõe a necessidade de ser provado fato novo, na forma do art. 509, II, da Lei dos Ritos, in verbis:
+Art. 509. Quando a sentença condenar ao pagamento de quantia ilíquida, proceder-se-á à sua liquidação, a requerimento do credor ou do devedor:
+II - pelo procedimento comum, quando houver necessidade de alegar e provar fato novo.
+Diante deste quadro e em observância aos ditames procedimentais dispostos no CPC, esta Relatora entende que a execução individual de sentença coletiva necessita de prévia liquidação na forma do procedimento comum, (artigo 509, II), a fim de permitir a arguição de fatos novos, bem como assegurar a ampla defesa e o contraditório.
+Assim, por verificar a existência de elementos mínimos que subsidiam os argumentos lançados pelo Agravante no Instrumental, para maior segurança no exame da pretensão deduzida na Exordial e até para se evitar prejuízos desnecessários para ambas as partes, por cautela, reputo razoável sobrestar o decisum objurgado até o julgamento do mérito deste Instrumental.
+Em outras palavras, o pedido liminar postulado no vertente recurso se assenta em razões que retratam situação de prejuízo iminente ou de relevância capaz de ensejar a concessão da medida in limine, razão porque agrego suspensividade ao recurso.
+Comunique-se ao Juiz da causa o teor desta decisão, com urgência.
+Intime-se o Agravado para, querendo, apresentar contraminuta, nos termos do artigo 1.019, II, do Código de Processo Civil.
+Cumpra-se.
+Cuiabá, 30 de março de 2022.
+Des.a Clarice Claudino da Silva
+Relatora
