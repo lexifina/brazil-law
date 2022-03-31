@@ -1,0 +1,4 @@
+CIRCULAR N INSTRUÇÃO NORMATIVA BCB Nº 256, DE 30 DE MARÇO DE 2022
+Consolida procedimentos e critérios para a divulgação das informações relativas às taxas de conversão de gastos em moeda estrangeira por meio de cartão de uso internacional, conforme determina o Decreto nº 10.139, de 28 de novembro de 2019.
+O Chefe do Departamento de Regulação Prudencial e Cambial (Dereg), no uso das atribuições que lhe conferem o art. 23, inciso I, alínea “a”, e o art. 118, incisos II, alínea “a”, e IV, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, e tendo em vista o disposto no Decreto nº 10.139, de 28 de novembro de 2019, e na Circular nº 3.691, de 16 de dezembro de 2013, alterada pela Resolução BCB nº 137, de 9 de setembro de 2021,
+R E S O L V E :
