@@ -1,0 +1,24 @@
+AGRAVO DE INSTRUMENTO No 1005677-45.2022.8.11.0000
+AGRAVANTE:- BANCO SANTANDER (BRASIL) S.A.
+AGRAVADA:- ESCAVASUL CONSTRUCOES E ENGENHARIA LTDA e outros.
+Agravo de Instrumento n. 1005677-45.2022.8.11.0000 de decisão da 2a Vara Especializada em Direito Bancário da Comarca de Cuiabá que, em Execução de Título Extrajudicial, indeferiu pedido de nova pesquisa pelo SISBAJUD.
+O agravante alega que na última pesquisa o bloqueio não satisfez o débito em sua integralidade, razão pela qual pugnou novamente pelo bloquei, desta vez utilizando-se a modalidade conhecida como “teimosinha”.
+Pede a antecipação da tutela recursal.
+É o relatório.
+O agravante se insurge contra o decisum que indeferiu pedido de busca pelo SISBAJUD com a utilização da ferramenta “teimosinha”.
+Segundo jurisprudência do Superior Tribunal de Justiça, é desnecessário o esgotamento das tentativas extrajudiciais, pelo demandante, para que o juízo a quo realize consulta junto aos sistemas BACENJUD, RENAJUD e INFOJUD.
+Confira-se:
+“TERCEIRA TURMA DIREITO PROCESSUAL CIVIL. DESNECESSIDADE DE EXAURIMENTO DAS VIAS EXTRAJUDICIAIS PARA A UTILIZAÇÃO DO SISTEMA RENAJUD.
+A utilização do sistema RENAJUD com o propósito de identificar a existência de veículos penhoráveis em nome do executado não pressupõe a comprovação do insucesso do exequente na obtenção dessas informações mediante consulta ao DETRAN.
+O RENAJUD é um sistema on line de restrição judicial de veículos criado pelo Conselho Nacional de Justiça (CNJ), que interliga o Judiciário ao Departamento Nacional de Trânsito (Denatran) e permite consultas e o envio, em tempo real, à base de dados do Registro Nacional de Veículos Automotores (Renavam), de ordens judiciais de restrições de veículos, inclusive registro de penhora. Para a utilização desse sistema, assim como ocorre com a penhora on line pelo sistema BACENJUD, é dispensável o exaurimento das vias administrativas tendentes à localização de bens do devedor. Essa conclusão pode ser extraída das seguintes considerações: a) a execução é movida no interesse do credor, a teor do disposto no artigo 612 do CPC; b) o sistema RENAJUD é ferramenta idônea para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados; e c) a utilização do sistema informatizado permite a maior celeridade do processo (prática de atos com menor dispêndio de tempo e de recursos) e contribui para a efetividade da tutela jurisdicional.
+Observe-se que, nos termos do art. 655, I e II, do CPC, a penhora observará, preferencialmente, dinheiro e, em seguida, veículos de vias terrestres. Logo, em cumprimento à referida ordem de preferência, no insucesso da utilização da ferramenta BACENJUD para a localização de ativos financeiros, é lícito ao exequente requerer ao juízo que promova a consulta via RENAJUD a respeito da possível existência de veículos automotores em nome do executado, revelando-se injustificável a recusa com esteio no singelo fundamento da ausência de comprovação do esgotamento de diligências na busca de bens penhoráveis. Sob outra perspectiva, é notório que os órgãos públicos, em sua grande maioria, como garantia de privacidade, não fornecem os dados cadastrais de particulares, o que torna difícil a obtenção da informação pretendida.
+Além disso, a busca realizada no DETRAN local não é capaz de verificar a existência de veículos em outros Estados da Federação, ao contrário da pesquisa pelo sistema RENAJUD, que atinge todo o país.
+Dessa forma, atualmente, com o aparato tecnológico posto a favor do Estado, a exigência de exaurimento das vias administrativas de busca bens do devedor se afigura verdadeiro mecanismo de procrastinação do andamento do feito, o que vai de encontro à efetiva prestação jurisdicional. Ademais, o CNJ, atento às repercussões dos sistemas BACENJUD, RENAJUD e INFOJUD como importantes ferramentas que asseguram a razoável duração do processo judicial, editou a Recomendação 51/2015, cujo teor corrobora o entendimento exposto acima. REsp HYPERLINK "http://www.stj.jus.br/webstj/processo/justica/jurisprudencia.asp?origemPesquisa=informativo&tipo=num_pro&valor=REsp1347222" 1.347.222-RS, Rel. Min. Ricardo Villas Bôas Cueva, julgado em 25/8/2015, DJe 2/9/2015.”
+Como se vê, se existe tecnologia para auxiliar na celeridade do trâmite processual, impõe-se sua utilização, especialmente neste caso em que a execução deve ser feita no interesse do credor.
+Assim, em análise sumária, é possível a busca de ativos através dos sistemas colocados à disposição dos jurisdicionados.
+Importante consignar ainda, que a última pesquisa ocorreu há quase um ano.
+Pelo exposto, defiro a antecipação da tutela recursal a fim de que seja procedida a pesquisa pelo SISBAJUD com a utilização da ferramenta “teimosinha”.
+Comunique-se a juíza da causa e intime-se a parte adversa para oferecer resposta em 15 dias.
+Cuiabá, 30 de março de 2022.
+Des. Rubens de Oliveira Santos Filho
+Relator
