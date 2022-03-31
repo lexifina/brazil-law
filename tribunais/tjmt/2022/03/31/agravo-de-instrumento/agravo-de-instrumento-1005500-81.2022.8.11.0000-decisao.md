@@ -1,0 +1,20 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto pelo BANCO SANTANDER (BRASIL) S.A., com o fito de suspender a decisão que, nos autos da Ação de Obrigação de Fazer c/c Indenização por Danos Morais de n. 1021190-81.2021.8.11.0002, ajuizada por ODETE VANDE KERHKROFF, deferiu a tutela de urgência e determinou que o requerido, ora agravante, retire o nome da autora, ora agravada, do cadastro do SERASA, no prazo de 48 (quarenta e oito) horas, sob pena de multa diária de R$ 500,00 (quinhentos reais).
+Para tanto, o agravante alega que, além do exíguo prazo fixado para o cumprimento da determinação, a multa aplicada foi arbitrada de forma indiscriminada, ignorando o princípio da razoabilidade e da proporcionalidade, razão pela qual deve ser extirpada/reduzida/limitada, a fim de evitar enriquecimento da parte demandante.
+Pondera que a intimação pessoal do banco é condição sine qua non para o regular cumprimento da obrigação e para a imposição de multa pelo descumprimento da ordem proferida, o que não foi observado no presente caso, em evidente afronta à Súmula 410 do STJ.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Da análise da questão posta, não decorre fundamento bastante para convencer da concessão da liminar recursal pretendida.
+No caso, além do afastamento das astreintes estar diretamente ligado ao exame de mérito do presente recurso, as razões recursais não apontam prejuízo de difícil ou incerta reparação que exija o deferimento da medida liminar neste momento processual, sobretudo porque o comando da decisão hostilizada apenas fixou multa cominatória a fim de compelir o agravante a retirar o nome da autora do rol dos maus pagadores, já que a documentação por ela acostada ao feito evidencia que a inscrição no referido rol deriva de débito já quitado perante a instituição financeira agravante.
+Além disso, não há prova efetiva de que a determinação do juízo singular não possa ser cumprida dentro do prazo arbitrado.
+Não bastasse, ao presente caso não se aplica os termos da Súmula de n. 410 do Superior Tribunal de Justiça, haja vista que a decisão agravada não determinou o pagamento da multa coertitiva, mas, apenas advertiu o requerido, ora agravante, de que, não cumprida a obrigação de fazer imposta, incidirá multa diária no valor de R$ 500,00 (quinhentos reais).
+Assim, ao menos nesse instante, deve ser indeferida a liminar.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
