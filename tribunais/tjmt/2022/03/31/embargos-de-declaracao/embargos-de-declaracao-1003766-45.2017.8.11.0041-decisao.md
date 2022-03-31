@@ -1,0 +1,29 @@
+Embargos de Declaração no 1003766-45.2017.8.11.0041
+Vistos etc.
+Trata-se de recurso de Embargos de Declaração opostos sob a alegação de haver omissão na decisão proferida pelo Presidente da Turma Recursal que não conheceu do Agravo em Recurso Extraordinário, por ser manifestamente incabível, em face ao disposto na Súmula 322 do excelso Supremo Tribunal Federal.
+A parte Embargante alega que a decisão apresenta omissão, sob o seguinte fundamento:
+Verifica-se que a decisão embargada extrapolou os limites dos poderes conferidos ao nobre Presidente da Turma Recursal, uma vez que já fora negado seguimento ao Recurso Extraordinário, sendo plenamente cabível a interposição do Agravo ao Supremo Tribunal Federal, cuja admissibilidade compete àquele Tribunal de superposição.
+Para tanto, destaco o que preconiza a Súmula 727 do STF:
+Súmula 727/STF: “Não pode o magistrado deixar de encaminhar ao Supremo Tribunal Federal o agravo de instrumento interposto da decisão que não admite recurso extraordinário, ainda que referente a causa instaurada no âmbito dos juizados especiais”.
+Portanto, a decisão embargada deixou de observar o regramento disciplinado pelo Supremo Tribunal Federal, configurando omissão quanto a aplicação do entendimento sumulado”.
+Desta forma, ao final requer que seja sanada a omissão apontada para fins de reconhecimento do preenchimento dos requisitos para seguimento do Recurso Extraordinário.
+É o breve relatório. Fundamento e decido.
+A parte ora Embargante interpôs Agravo em Recurso Extraordinário contra a decisão colegiada da Turma Recursal que negou provimento ao recurso de Agravo Interno.
+O mencionado recurso de Agravo Interno foi manejado contra decisão monocrática proferida pelo Presidente da Turma Recursal Única que negou seguimento ao Recurso Extraordinário interposto pela parte ora Embargante, sob o fundamento jurídico de inexistir repercussão geral, no TEMA 913 do STF, aplicado no caso, nos termos da seguinte ementa:
+AGRAVO INTERNO. NEGADO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO PELO PRESIDENTE DA TURMA RECURSAL. DECISÃO FUNDAMENTADA EM DECISÕES DA SUPREMA CORTE QUE RECONHECEU A INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO IMPROVIDO.
+Não deve ser acolhido Agravo Interno visando dar seguimento ao Recurso Extraordinário se a decisão que negou o seguimento estiver fundada em decisões do Supremo Tribunal Federal que reconheceu a inexistência de repercussão geral. Agravo Improvido.
+É cabível a interposição do Agravo em Recurso Extraordinário contra decisão que inadmitir o Recurso Extraordinário, exceto quando a decisão esteja em conformidade com entendimento firmado pelo STF em regime de repercussão geral, em face ao disposto no art. 1.042, caput, do Código de Processo Civil.
+Assim, se a decisão que negou seguimento ao Recurso Extraordinário teve como fundamento o disposto no inciso I, do art. 1.030 do Código de Processo Civil, não é admissível a interposição do Agravo em Recurso Extraordinário, pois este é cabível somente se for inadmitido, em face ao estatuído inciso V, do referido artigo, pois o seu § 1o, dispõe: “§ 1o Da decisão de inadmissibilidade proferida com fundamento no inciso V caberá agravo ao tribunal superior, nos termos do art. 1.042”.
+Desta forma, é manifestamente incabível a interposição de Agravo em Recurso Extraordinário, previsto no artigo 1.042 do CPC, contra decisão colegiada, ou seja, contra acórdão que não conhece ou que nega provimento a Agravo Interno.
+Contra decisão do órgão colegiado que nega provimento ao Agravo Interno, que visava dar seguimento ao Recurso Extraordinário, cabe, em tese, a RECLAMAÇÃO diretamente no Supremo Tribunal Federal. A interposição de Agravo em Recurso Extraordinário constitui erro grosseiro.
+Se já houve a interposição de Agravo Interno e este não foi acolhido pelo órgão colegiado não é possível posteriormente interpor Agravo em Recurso Extraordinário, por ausência de previsão legal.
+Igualmente, não merece prosperar à alegação de que a decisão impugnada afronta a Súmula 727 do STF, ao argumento de que o Agravo de Instrumento não pode ter seu seguimento obstado pelo Magistrado, tendo em vista que a referida Súmula foi editada antes da sistemática da repercussão geral.
+Assim, até Emenda Constitucional no 45/2004 era pacífica a jurisprudência do Supremo Tribunal Federal de que não se poderia obstar o normal processamento e encaminhamento de agravos interpostos contra decisões denegatórias de admissibilidade de recursos extraordinários, eis o dispõe o enunciado da Súmula no 727 do STF, in verbis:
+“Não pode o magistrado deixar de encaminhar ao Supremo Tribunal Federal o agravo de instrumento interposto da decisão que não admite recurso extraordinário, ainda que referente a causa instaurada no âmbito dos Juizados Especiais”.
+Contudo, esse entendimento foi modificado com o advento da EC no 45/04 e dos artigos 543-A e 543-B, CPC de 1973, ora revogado, com a redação que lhes foi dada pela Lei no 11.418/06. Na sessão Plenária da referida Corte do dia 19.11.2009 foi decidido que o agravo dirigido ao STF não seria o meio adequado para a parte questionar decisão do Tribunal a quo que julga prejudicado recurso aplicando a sistemática da repercussão geral.
+Logo, não restou evidenciada a alegada usurpação da competência do Supremo Tribunal Federal, pelo Presidente da Turma Recursal, em razão da decisão que não conheceu do Agravo em Recurso Extraordinário, por ser manifestamente incabível.
+Ante o exposto, por não estarem presentes nenhuma das hipóteses prevista no art. 1.022 do Código de Processo Civil, haja vista a inexistência de vícios, rejeito os presentes Embargos de Declaração.
+Certifique-se o trânsito em julgado e devolva este feito a origem.
+Intimem-se. Cumpra-se.
+Valmir Alaércio dos Santos
+Juiz de Direito – Presidente da Turma Recursal Única
