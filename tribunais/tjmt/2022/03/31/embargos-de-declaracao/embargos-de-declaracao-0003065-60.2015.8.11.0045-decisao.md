@@ -1,0 +1,18 @@
+Embargos de Declaração no 0003065-60.20158.11.0045
+Vistos etc.
+Trata-se de recurso de Embargos de Declaração opostos sob a alegação de haver omissão na decisão que negou seguimento ao Recurso Extraordinário, sob o fundamento de que não deve ser reconhecida a prescrição do direito dos apelantes ante a reestruturação de carreiras realizada pelo ente municipal pois, em momento algum restou demonstrado se à época de tais reestruturações houve de fato a supressão da parcela dos 11,98% por referidas leis.
+Desta forma, ao final requer que seja sanada a omissão apontada para fins de reconhecimento do preenchimento dos requisitos para seguimento do Recurso Extraordinário.
+Após a petição dos Embargos de Declaração, a parte Embargante juntou outra petição nos autos, onde pugna pela nulidade da decisão monocrática do Relator que negou provimento ao recurso inominado e manteve a sentença que julgou improcedente a pretensão inicial, por reconhecer a ocorrência da prescrição quinquenal para pleitear indenização por eventuais diferenças referente à URV, lançada no ID 70320499, ante a ausência de fundamentação, e de todos os atos subsequentes. Caso não seja este o entendimento, pugna pela aplicação do Tema 15 do STJ; Tema 05 do STF e Súmula 85 do STJ.
+É o breve relatório. Fundamento e decido.
+O acordão recorrido negou provimento ao recurso interposto pelo Reclamante e manteve a sentença que julgou improcedente a pretensão inicial, por reconhecer a ocorrência da prescrição quinquenal para pleitear indenização por eventuais diferenças referente à URV.
+Especificamente sobre a cobrança de diferença de URV, o excelso Supremo Tribunal Federal, no julgamento do Tema no 913, decidiu pela inexistência de repercussão geral.
+Além disso, a discussão quanto à ocorrência ou não da prescrição não dá ensejo ao cabimento de recurso extraordinário, pois se restringe ao âmbito infraconstitucional.
+Desta forma, em que pese às alegações da parte Embargante, observo que fora devidamente fundamentada a decisão que não admitiu o Recurso Extraordinário por entender que não estão presentes os requisitos para a sua admissibilidade.
+Igualmente não merece prosperar a alegação de nulidade da decisão monocrática do Relator que negou provimento ao recurso inominado, sob a alegação de ausência de fundamentação, pois, no julgamento do AI 791292 QO-RG/PE (Tema 339), o excelso Supremo Tribunal Federal concluiu que a Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+Assim, as decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+Desta forma, a alegação de ausência de fundamentação deve ser rejeitada, pois a decisão monocrática do relator, não obstante seja contrária aos interesses da parte Recorrente, ora Embargante, está suficientemente motivada, sem ficar configurada a apontada ofensa à Constituição da República, o que obsta o seguimento do recurso extraordinário.
+Na verdade, o que pretende a parte Embargante, com os presentes Embargos de Declaração, é a modificação da decisão do Presidente da Turma Recursal que, com fundamento no Tema 913 do STF e na Súmula 279 da Corte Suprema, inadmitiu o Recurso Extraordinário.
+Ante o exposto, não reconheço a existência de omissão na decisão que inadmitiu o Recurso Extraordinário, por esse motivo, rejeito os presentes Embargos de Declaração.
+Intimem-se. Cumpra-se.
+Valmir Alaércio dos Santos
+Juiz de Direito – Presidente da Turma Recursal Única
