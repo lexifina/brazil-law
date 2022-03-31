@@ -1,0 +1,29 @@
+ANEXO ÚNICO
+
+“ANEXO II DA LEI Nº 16.817/2020
+
+QUANTITATIVO DE CARGOS DO GRUPO OCUPACIONAL SAÚDE PÚBLICA
+
+CARGOS
+
+QUANTITATIVO
+
+Médico
+
+5.325
+
+Analista em Saúde
+
+5.063 (NR)
+
+Assistente em Saúde
+
+12.276
+
+Auxiliar em Saúde
+
+1.829 (NR)
+
+TOTAL
+
+24.493 (NR)
