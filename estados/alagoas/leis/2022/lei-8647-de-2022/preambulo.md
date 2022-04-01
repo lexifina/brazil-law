@@ -1,0 +1,3 @@
+ALTERA AS LEIS ESTADUAIS NºS 6.540, DE 7 DE DEZEMBRO DE 2004 E 7.820, DE 27 DE SETEMBRO DE 2016, E DÁ OUTRAS PROVIDÊNCIAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
