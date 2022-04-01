@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 231, DE 25 DE JANEIRO DE 2022
+Altera a Instrução Normativa BCB nº 77, de 11 de fevereiro de 2021, que estabelece procedimentos, relativos ao envio de documentos e informações, de respostas a exigências e de interposição de recursos, à formalização de exigências, à comunicação da decisão e às demais comunicações relacionadas com a instrução e com o exame de processos de autorização conduzidos pelo Departamento de Organização do Sistema Financeiro (Deorf), e dá outras providências.
+A Chefe do Departamento de Organização do Sistema Financeiro (Deorf), no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a”, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, e tendo em conta o disposto no art. 40 da Lei nº 9.874, de 29 de janeiro de 1999,
+R E S O L V E :
