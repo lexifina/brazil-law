@@ -1,0 +1,5 @@
+Instrução Normativa RFB nº 2075, de 23 de março de 2022
+Dispõe sobre o regime aduaneiro especial de loja franca.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto nos art. 15 e 15-A do Decreto-Lei nº 1.455, de 7 de abril de 1976, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no art. 61 da Lei nº 10.833, de 29 de dezembro de 2003, nos arts. 169 e 476 a 479 do Decreto nº 6.759, de 5 de fevereiro de 2009 - Regulamento Aduaneiro, no Decreto nº 10.139, de 28 de novembro de 2019, nos arts. 4º e 7º, no § 2º do art. 10, no § 1º do art. 14 e no art. 18 da Portaria MF nº 112, de 10 de junho de 2008, e nos arts. 4º e 5º, no inciso VII do § 2º do art. 6º, nos arts. 7º e 9º, no parágrafo único do art. 10, no § 3º do art. 13, no parágrafo único do art. 16 e no art. 23 da Portaria MF nº 307, de 17 de julho de 2014, resolve:
+CAPÍTULO I
+DISPOSIÇÕES PRELIMINARES
