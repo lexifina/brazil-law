@@ -1,0 +1,39 @@
+ANEXO I
+
+“ANEXO II
+
+CARGOS DE DIREÇÃO SUPERIOR - ADMINISTRAÇÃO PÚBLICA ESTADUAL DIRETA
+
+E INDIRETA
+
+Corpo de Bombeiros Militar - Subordinada à SESDEC
+
+CARGO QUANT. SÍMBOLO COMANDANTE-GERAL DO CORPO DE BOMBEIROS MILITAR 1 CDS-16 SUBCOMANDANTE-GERAL DO CORPO DE BOMBEIROS MILITAR 1 CDS-15 CHEFE DE ESTADO-MAIOR GERAL 1 CDS-13 CORREGEDOR DE BOMBEIRO MILITAR 1 CDS-11 COORDENADOR / COMANDANTE OPERACIONAL 7 CDS-10 CORREGEDOR ADJUNTO DE BOMBEIRO MILITAR 1 CDS-5
+
+Diário Oficial do Estado de Rondônia nº 60 Disponibilização: 04/04/2022 Publicação: 01/04/2022
+
+04/04/2022 12:04 SEI/ABC - 0027795412 - Lei Complementar
+
+https://sei.sistemas.ro.gov.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=27833420&in… 2/2
+
+DIRETOR 7 CDS-9 ASSESSOR TÉCNICO 1 CDS-5 ASSESSOR TÉCNICO I 3 CDS-4 DIRETOR DE DEPARTAMENTO 2 CDS-5 DIRETOR DE DIVISÃO 7 CDS-4 ASSESSOR ESPECIAL 1 CDS-10 TOTAL 33 -
+
+” (NR)
+
+ANEXO II
+
+“ANEXO III
+
+FUNÇÃO GRATIFICADA - ADMINISTRAÇÃO DIRETA E INDIRETA
+
+Corpo de Bombeiros Militar - Subordinada à SESDEC
+
+CARGO QUANT. SÍMBOLO ASSESSOR MILITAR 2 FG-6 COMANDANTE DE GRUPAMENTO 5 FG-8 COMANDANTE DE SUBGRUPAMENTO 13 FG-4 COMANDANTE DE SEÇÃO DE BOMBEIROS DESTACADA 4 FG-3 CHEFE DA DIVISÃO DE OPERAÇÕES EMERGENCIAIS DA CEDEC 1 FG-5 CHEFE DE CENTRO 6 FG-4 CHEFE DE SEÇÃO DE COMANDO E SERVIÇO 1 FG-3 AJUDANTE GERAL 1 FG-4 ADJUNTO 5 FG-3 AJUDANTE DE ORDEM 1 FG-3 ANALISTA DE PROJETO 7 FG-4 COMANDANTE DE SUBSEÇÃO DE BOMBEIROS 12 FG-2 TOTAL 58 -
+
+” (NR)
+
+Documento assinado eletronicamente por Marcos José Rocha dos Santos, Governador, em 01/04/2022, às 21:03, conforme horário oficial de Brasília, com fundamento no artigo 18 caput e seus §§ 1º e 2º, do Decreto nº 21.794, de 5 Abril de 2017.
+
+A autenticidade deste documento pode ser conferida no site portal do SEI, informando o código verificador 0027795412 e o código CRC C37A51D4.
+
+Referência: Caso responda esta Lei Complementar, indicar expressamente o Processo nº 0004.042790/2022-84 SEI nº 0027795412
