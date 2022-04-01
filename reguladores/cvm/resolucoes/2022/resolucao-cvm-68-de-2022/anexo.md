@@ -1,3 +1,7 @@
+Art. 1º Aprovar a "Regulamentação Mínima do Mercado de Valores Mobiliários sobre a elaboração e divulgação das demonstrações financeiras", para operações celebradas no âmbito do MERCOSUL com valores mobiliários negociáveis de sociedades com oferta pública autorizada pelos Estados Partes, que consta como Anexo e faz parte da presente Decisão.
+Art. 2º Revogar a Decisão CMC Nº 13/94.
+Art. 3º Esta Decisão deverá ser incorporada ao ordenamento jurídico dos Estados Partes antes de 31/III/2011.
+XL CMC - Foz do Iguaçu, 16/XII/10.
 ANEXO
 REGULAMENTAÇÃO MÍNIMA DO MERCADO DE VALORES MOBILIÁRIOS SOBRE A ELABORAÇÃO E DIVULGAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS
 1. As sociedades com oferta pública autorizada que desejarem negociar seus valores mobiliários no âmbito do MERCOSUL deverão, a partir dos exercícios iniciados em 2012, apresentar suas demonstrações financeiras trimestrais e anuais, adotando as normas internacionais de informação financeira - NIIF - vigentes, de acordo com os pronunciamentos emitidos pelo International Accounting Standards Board -IASB.
