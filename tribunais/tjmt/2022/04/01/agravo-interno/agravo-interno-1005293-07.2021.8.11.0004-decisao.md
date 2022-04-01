@@ -1,0 +1,13 @@
+Vistos, etc.
+Em atenção aos argumentos expostos pela parte Recorrente no ID 122838970, que discute sobre a possibilidade de retratação de acordo formalizado em juízo, nos termos do artigo 200 do CPC, nota-se que as declarações bilaterais de vontade das partes produzem efeitos imediatos, mesmo quando ainda não homologado pelo juízo.
+Isto porque as cláusulas pactuadas obrigam as partes imediatamente, ressalvado apenas nos casos de vício de consentimento (dolo, coação ou erro essencial), hipóteses estas não comprovadas nos autos.
+Neste sentido:
+"é impossível o arrependimento e rescisão unilateral da transação, ainda que não homologada de imediato pelo Juízo. Uma vez concluída a transação as suas cláusulas ou condições obrigam definitivamente os contraentes, e sua rescisão só se torna possível por dolo, coação, ou erro essencial quanto à pessoa ou coisa controversa" (STJ REsp n. 825.425/MT, Relator. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 18/5/2010, DJe 08/06/2010).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. ACORDO EXTRAJUDICIAL. HOMOLOGAÇÃO. DESISTÊNCIA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO. 1. A Corte de origem decidiu em consonância com a jurisprudência firmada por este Tribunal, no sentido de que é incabível o arrependimento e a rescisão unilateral do acordo firmado, ainda que anterior à homologação judicial. Precedentes. 2. Agravo interno a que se nega provimento. (STJ AgInt no AREsp n. 1.126.536/RS, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5a REGIÃO), QUARTA TURMA, julgado em 24/10/2017, DJe 31/10/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRANSAÇÃO. ARREPENDIMENTO E RESCISÃO UNILATERAL. IMPOSSIBILIDADE. SÚMULA 83/STJ. ANÁLISE DA EXISTÊNCIA DE VÍCIO DE CONSENTIMENTO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO. 1. É pacífica a jurisprudência desta Corte no sentido de que, em regra, é descabido o arrependimento e a rescisão unilateral da transação, ainda que antes da homologação judicial. Incidência da Súmula 83/STJ. (...) 3. Agravo regimental não provido. (STJ AgRg no AREsp n. 612.086/MG, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 5/11/2015, DJe 3/12/2015.)
+Portanto, sendo válido o acordo reduzido a termo (ID 121741974) e não havendo aparente vício, com fulcro no artigo 57 da Lei 9.099/95, INDEFIRO o pedido da parte Recorrente e HOMOLOGO o acordo para que surta os seus devidos efeitos jurídicos, tornando nulo o julgamento do acórdão proferido por esta E. Turma Recursal.
+Cumpra-se.
+Intimem-se.
+Cuiabá/MT, data registrada no sistema.
+JORGE ALEXANDRE MARTINS FERREIRA
+Juiz Relator
