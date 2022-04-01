@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 158, DE 14.01.16 (D.O. 18.01.16)
+CRIA O FUNDO ESTADUAL DE DESENVOLVIMENTO DO TURISMO DO ESTADO DO CEARÁ.
+O GOVERNADOR DO ESTADO DO CEARÁ
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
