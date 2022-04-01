@@ -1,0 +1,4 @@
+Resolução Nº 211 RESOLUÇÃO BCB Nº 211, DE 22 DE MARÇO DE 2022
+Altera dispositivos do Regulamento anexo à Resolução BCB nº 105, 9 de junho de 2021, que disciplina o funcionamento do Sistema de Transferência de Reservas (STR), da conta Reservas Bancárias e da Conta de Liquidação no Banco Central do Brasil, para dispor sobre a manutenção de Conta de Liquidação e a participação no STR por fundos garantidores de crédito, e autoriza a realização de operações compromissadas entre o Banco Central do Brasil e os fundos garantidores de crédito.
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 22 de março de 2022, com base no art. 10 da Lei nº 10.214, de 27 de março de 2001, no art. 1º, parágrafo único, combinado com o art. 6º, caput, da Lei Complementar nº 179, 24 de fevereiro de 2021, no art. 28, § 1º, da Lei Complementar nº 101, de 4 de maio de 2000, e nos arts. 8º, 9º, e 12 da Resolução CMN nº 4.952, de 30 de setembro de 2021,
+R E S O L V E :
