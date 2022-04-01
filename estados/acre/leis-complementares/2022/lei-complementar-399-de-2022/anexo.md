@@ -1,0 +1,33 @@
+ANEXO ÚNICO
+
+“ANEXO ÚNICO"
+
+TABELA ADICIONAL DE PLANTÃO EMERGENCIAL
+
+GRUPO IV, V, VI E VIII – 12 HORAS
+
+GRUPO
+
+PLANTÃO PADRÃO
+
+PLANTÃO NOTURNO
+
+GRUPOS IV E VIII – Nível Superior
+
+R$ 300,00
+
+R$ 375,00
+
+GRUPO V – Cirurgião Dentista
+
+R$ 380,00
+
+R$ 475,00
+
+Grupo VI - Médico
+
+R$ 720,00
+
+R$ 900,00
+
+”(NR)
