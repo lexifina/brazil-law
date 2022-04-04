@@ -1,0 +1,5 @@
+# Lei nº 7.774, de 4 de abril de 2022, do Estado do Piauí
+
+ALTERA A LEI Nº 3.529, DE 20 DE OUTUBRO DE 1977(LEI DE ORGANIZAÇÃO BÁSICA DA POLÍCIA MILITAR), A LEI Nº 5.403, DE 14 DE JULHO DE 2004 (CRIA A CORREGEDORIA DA PMPI), A LEI Nº 5.457, DE 30 DE JUNHO DE 2005 (CRIA A COORDENADORIA DE GERENCIAMENTO DE CRISES E DIREITOS HUMANOS), A LEI Nº 5.552, DE 23 DE MARÇO DE 2006 (FIXA O EFETIVO DE PMPI), A LEI Nº 5.646, DE 12 DE ABRIL DE 2007 (TRANSFORMA O BPTRAN EM BPRE), A LEI COMPLEMENTAR Nº111, DE 14 DE JULHO DE 2008 (TRANSFORMAÇÃO E CRIAÇÃO NA ESTRUTURA ORGANIZACIONAL), A LEI Nº 6.792, DE 19 DE ABRIL DE 2016 (ALTERA A LOB) E DÁ OUTRAS PROVIDÊNCIAS.
+
+Fonte: Assembleia Legislativa (sapl.al.pi.leg.br), <https://sapl.al.pi.leg.br/norma/5196>; texto: <http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2022/5196/lei_no_7.774_de_04_de_abril_de_2022_altera_lei_n_3.529_de_20_de_outubro_de_1977_lei_de_organizao_bsica_da_polcia_militar.pdf>
