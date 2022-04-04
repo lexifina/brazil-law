@@ -1,0 +1,27 @@
+DECISÃO MONOCRÁTICA
+APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – SEGURO DPVAT – VERBA HONORÁRIA – VALOR INADEQUADO – MAJORAÇÃO DEVIDA – NECESSÁRIA OBSERVÂNCIA À RAZOABILIDADE – RECURSO PARCIALMENTE PROVIDO.
+O valor fixado na sentença para os honorários advocatícios de forma irrisória deve ser majorado para remunerar de forma digna o desempenho do profissional, mas sem causar enriquecimento ilícito.
+Apelação Cível em Ação de Cobrança de Seguro Obrigatório – DPVAT julgada parcialmente procedente para determinar à requerida o pagamento de R$ 1.687,50 em virtude da invalidez parcial permanente, atualizados com juros de mora de 1% ao mês a contar da citação e correção monetária pelo a partir do evento danoso, bem como arcar com as custas e honorários de 10% do valor da condenação.
+O apelante se insurge quanto ao valor arbitrado para a verba honorária, pois considera ínfima. Sustenta que 10% sobre o valor da condenação está aquém do razoável e defende a majoração para R$ 1.500,00.
+Contrarrazões no Id. 122227617.
+É o relatório.
+Cabe mencionar, logo de início, que o recurso versa exclusivamente sobre o valor de honorários de sucumbência, de modo que está sujeito ao recolhimento de preparo ainda que o autor da Ação seja isento, nos termos do art. 99, §5o, do CPC, exceto se o próprio advogado demonstrar que tem direito à gratuidade.
+Desse modo, como o representante do autor já efetuou o pagamento das custas (id. 122227610), passo à análise do mérito.
+O apelante se insurge quanto ao valor arbitrado para a verba honorária, pois considera ínfima. Sustenta que 10% sobre o valor da condenação está aquém do razoável e defende a majoração para R$ 1.500,00.
+Conforme o artigo 85, §8o, do CPC/15, para esse arbitramento devem ser utilizados os critérios elencados nos incisos do §2o do mesmo dispositivo. Leva-se em conta o grau de zelo do profissional, o lugar da prestação do serviço, a natureza, a complexidade da causa e o tempo exigido.
+É evidente que a sua fixação em 10% sobre o montante condenatório está aquém do razoável, uma vez que não remunera de forma adequada o trabalho desenvolvido, ainda que conciso.
+Aliás, segundo o STJ, ele não se resume à elaboração das peças processuais em si, cabendo a ele diversas outras providências, como realizar reuniões com o cliente, analisar a documentação apresentada na petição inicial e aquela que irá instruir a defesa, acompanhar o andamento do processo, manter entendimentos com os patronos da parte adversa etc. Ademais, há de se levar em consideração a responsabilidade assumida pelo advogado ao aceitar o patrocínio de uma ação. Ainda que o seu dever seja de meio e não de fim, o advogado responderá pelos danos que eventualmente causar ao cliente. (REsp n. 1139630/SC, Rela. Mina. Nancy Andrighi, DJe 7-3-2012).
+E conforme o entendimento já pacificado naquela Corte, o julgador deve decidir o montante por apreciação equitativa, porém não restrita aos limites de 10% e 20%.
+Sobre a matéria:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. CARÁTER MANIFESTAMENTE INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE RECURSAL. ART. 20, §§ 3o E 4o, DO CPC. MAJORAÇÃO DE HONORÁRIOS. EXCEPCIONALIDADE. DESVINCULAÇÃO COM O VALOR DA CAUSA. ANÁLISE DA COMPLEXIDADE DA CAUSA E DO TRABALHO DESENVOLVIDO PELO ADVOGADO. SÚMULA 7/STJ.
+(...)2. A orientação da jurisprudência deste Superior Tribunal de Justiça é no sentido de que, para o arbitramento da verba honorária, o julgador, na sua apreciação subjetiva, pode utilizar-se de percentuais sobre o valor da causa ou da condenação, ou mesmo de um valor fixo, não se restringindo aos percentuais previstos no § 3o do art. 20 do CPC.
+3. A revisão dos honorários fixados demanda, em regra, dilação fática e probatória, providência incompatível com a natureza do recurso especial, salvo nos casos de irrisoriedade ou exorbitância.
+4. Por ocasião do julgamento do AgRg no AREsp 532.550/RJ, relator p/ acórdão Ministro Herman Benjamin, convencionou-se que a desproporção entre o valor da causa e o arbitrado a título de honorários advocatícios não denota, necessariamente, irrisoriedade ou exorbitância da verba honorária, que deve se pautar na análise da efetiva complexidade da causa e do trabalho desenvolvido pelo causídico no patrocínio dos interesses de seu cliente, providência que demandaria, na espécie, revisão da prova (Súmula 7/STJ). 5. Embargos de declaração recebidos como agravo regimental, a que se nega provimento.(EDcl no REsp 1527728/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/09/2015, DJe 21/09/2015)
+A quantia a ser estabelecida deve recompensar com dignidade e equilíbrio a atuação do profissional, no entanto não pode gerar enriquecimento ilícito. Em vista disso, concluo que R$ 1.000,00 são apropriados ao caso e ao reconhecimento da importância do advogado para o funcionamento da Justiça.
+A propósito:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - SEGURO OBRIGATÓRIO DPVAT – HONORÁRIOS ADVOCATÍCIOS – VALOR IRRISÓRIO - MAJORAÇÃO – NECESSIDADE – RECURSO PARCIALMENTE PROVIDO. Se o valor fixado na sentença para os honorários advocatícios mostrar-se irrisório, deve ser majorado, sob pena de aviltamento do trabalho do advogado.
+(N.U 0021577-26.2015.8.11.0002, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, ANTONIA SIQUEIRA GONCALVES, Terceira Câmara de Direito Privado, Julgado em 22/05/2019, Publicado no DJE 27/05/2019)
+Posto isso, dou parcial provimento ao Recurso apenas para majorar a verba honorária para R$ 1.000,00.
+Cuiabá, 4 de abril de 2022.
+Des. Rubens de Oliveira Santos Filho
+Relator
