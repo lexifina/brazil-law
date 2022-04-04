@@ -1,0 +1,1031 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 23
+
+04/04/2022
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.336.469
+DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: DISTRITO FEDERAL
+: PROCURADOR-GERAL DO DISTRITO FEDERAL
+: CINTIA BEZERRA CARVALHO
+: ALEX CARVALHO REGO
+
+EMENTA:
+AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+ADMINISTRATIVO.
+EMPREGADA PÚBLICA CELETISTA.
+SANÇÃO DISCIPLINAR.
+NULIDADE DA DISPENSA. REINTEGRAÇÃO NO CARGO.
+REQUISITO SUBJETIVO. AUSÊNCIA DE IMEDIATIDADE
+NA
+APLICAÇÃO DA PUNIÇÃO. CONFIGURAÇÃO DE PERDÃO TÁCITO.
+DISCUSSÃO
+INFRACONSTITUCIONAL.
+OFENSA
+REFLEXA.
+REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 279
+DO STF. ALEGADA AFRONTA AO PRINCÍPIO DA LEGALIDADE.
+INCIDÊNCIA DA SÚMULA 636 DO STF. PRECEDENTES.
+1. A questão relativa à configuração de perdão tácito, diante da
+ausência de preenchimento de requisito subjetivo, relativo à imediata
+aplicação da sanção administrativa, é de nível infraconstitucional,
+considerando que o Tribunal de origem fundou-se na Consolidação das
+Leis do Trabalho – CLT, para concluir pela nulidade da dispensa e da
+reintegração no cargo da empregada pública, o que impede o trânsito do
+apelo extremo. Incidência, no caso, da Súmula 636 do STF.
+2. A resolução da controvérsia dos autos depende, ainda, do
+reexame dos fatos e provas dos autos, o que é vedado na via
+extraordinária, nos termos da Súmula 279 do STF.
+3. Agravo regimental a que se nega provimento. Inaplicável o art. 85,
+§ 11, do CPC, tendo em vista que não houve condenação em honorários
+advocatícios na instância de origem.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C20-EEDE-10C4-C87E e senha 8292-E58C-E8AD-147E
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 23
+
+ARE 1336469 AGR / DF
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Segunda Turma do Supremo Tribunal Federal, em Sessão Virtual de 25
+de março a 1º de abril de 2022, sob a Presidência do Senhor Ministro
+Nunes Marques, na conformidade da ata de julgamento e das notas
+taquigráficas, por unanimidade de votos, em negar provimento ao agravo
+regimental e entender inaplicável o art. 85, § 11, do Código de Processo
+Civil de 2015, tendo em vista que não houve fixação de honorários
+advocatícios na instância de origem, nos termos do voto do Relator.
+Brasília, 4 de abril de 2022.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8C20-EEDE-10C4-C87E e senha 8292-E58C-E8AD-147E
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 23
+
+04/04/2022
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.336.469
+DISTRITO FEDERAL
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: DISTRITO FEDERAL
+: PROCURADOR-GERAL DO DISTRITO FEDERAL
+: CINTIA BEZERRA CARVALHO
+: ALEX CARVALHO REGO
+RE LAT Ó RI O
+
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Trata-se de agravo
+regimental (eDOC 83) interposto em 03.11.2021 (eDOC 84) em face de
+decisão monocrática em que neguei provimento ao recurso, nos seguintes
+termos (eDOC 78):
+“Trata-se de agravo cujo objeto é a decisão que não
+admitiu recurso extraordinário interposto em face do acórdão
+da Sétima Turma do Tribunal Superior do Trabalho, assim
+ementado (eDOC 37, p. 1):
+“AGRAVO EM AGRAVO DE INSTRUMENTO EM
+RECURSO DE REVISTA EM FACE DE DECISÃO
+PUBLICADA NA VIGÊNCIA DA LEI Nº 13.015/2014.
+PERDÃO TÁCITO. PRINCÍPIO DA IMEDIATIDADE.
+DISPENSA DE EMPREGADO PÚBLICO. Para efetivação do
+exercício do poder disciplinar do empregador e consequente
+aplicação de sanções, além da tipicidade da conduta (requisito
+objetivo) deverão ser levados em conta alguns outros requisitos
+(de ordem subjetiva ou circunstancial) para aferição da validade
+da penalidade imposta, estando entre eles: o dolo ou culpa do
+empregado; o nexo existente entre a falta e a penalidade; a
+ausência de perdão tácito ou expresso do empregador. No caso,
+evidenciada a ausência de imediatidade na aplicação da punição
+à empregada. Embora a sindicância tenha sido instaurada logo
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 23
+
+ARE 1336469 AGR / DF
+após a falta cometida, houve o transcurso de aproximadamente
+dois anos e meio entre a ciência do fato e a instauração do
+processo administrativo e, ainda, três anos e meio até efetiva
+aplicação da punição, o que configura indubitavelmente o perdão
+tácito concedido pela agravante, independentemente de sua
+natureza de ente público, que é irrelevante para o aspecto ora
+analisado. Provado que a atitude da autora, apesar de irregular,
+não foi imediatamente censurada pelo réu, tal circunstância é
+suficiente para eivar de nulidade a conduta patronal, uma vez
+que a sanção disciplinar desatendeu a um dos seus requisitos
+subjetivos. Agravo conhecido e não provido.”
+No recurso extraordinário, fundado no art. 102, III, a, da
+Constituição Federal, alega-se contrariedade ao art. 37, caput, e
+§ 5º, do Texto Constitucional.
+Nas razões recursais, aduz-se, que “A decisão recorrida, ao
+aplicar o princípio da imediatidade e o perdão tácito à pretensão
+disciplinar da Administração Direta em face de empregado público
+vinculado, violou o art. 37, caput e §5º, da CF/1988, em especial, os
+princípios da legalidade, indisponibilidade do interesse público e a
+expressa determinação constitucional de sujeição da pretensão
+disciplinar dos agentes estatais a prazos prescricionais estipulados em
+lei. É o que se pretende explanar nos parágrafos subsequentes.”
+(eDOC 41, p. 6)
+Sustenta-se, também, que “no caso concreto fazia-se
+necessário apurar a falsidade ideológica do atestado apresentado, em
+homenagem ao contraditório e ampla defesa. Não há como estabelecer
+a punição sem antes apurados os fatos, bem assim oferecer
+previamente acesso aos autos e oportunidade de defesa ao empregado
+público.” (eDOC 41, 8)
+Defende-se, ainda, que
+“os institutos do perdão tácito e a imediaticidade, na
+forma como entendidos na legislação trabalhista privada – isto é,
+a necessidade de punição contínua à ciência do fato praticado –
+não tem aplicabilidade na Administração Pública. A pretensão
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 23
+
+ARE 1336469 AGR / DF
+sancionadora estatal, por força da principiologia e disposições
+aludidas no parágrafo anterior, não se adequa com a fluidez e
+maleabilidade do perdão tácito e imediaticidade. Pelo contrário, a
+pretensão disciplinar pública rege-se pelo instituto da prescrição
+definida por lei, bem como a procedimentalização estrita. Isso
+não só em homenagem à legalidade e indisponibilidade do
+interesse público, mas também à segurança jurídica (a definição
+dos prazos prescricionais em lei permite a previa ciência do
+administrado), contraditório e ampla defesa (o procedimento
+permite o exercício do direito de resposta pelo acusado) e
+publicidade (somente a procedimentalização permite a efetiva
+fiscalização do exercício da pretensão punitiva pelos superiores
+hierárquicos e a população em geral).” (eDOC 41, p. 9)
+Aduz-se, por fim, que:
+“No presente caso, a Agente Comunitária de Saúde
+vinculada à Administração Direta, estava, à época da ocorrência
+dos fatos, regida pela CLT. Em sendo o procedimento punitivo
+da CLT totalmente incompatível com a aludida principiologia da
+Administração Pública, necessária a aplicação das regras
+procedimentais e prazos prescricionais estipulados para os
+servidores públicos em geral, sob pena do vácuo implicar grave
+violação ao art. 37, caput, e §5º, da CF/1988 – no caso, aplicável
+a Lei nº 8.112/1990, vigorante à época para os servidores do
+Distrito Federal, por força da Lei nº 197/1991-DF. A colmatação
+lacunas via aplicação subsidiária de disposições correlatas nada
+há de novo, pois representa instituto consolidado na
+hermenêutica jurídica, sendo cogente se necessária para garantir
+a eficácia plena de disposições constitucionais.” (eDOC 41, p. 9)
+A Vice-Presidência do TST inadmitiu o recurso
+extraordinário mediante aplicação das Súmulas 636 e 279 do
+STF . (eDOC 52)
+Instada, a Procuradoria-Geral da República manifesta-se
+em parecer assim ementado: (eDOC 8, p. 1)
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 23
+
+ARE 1336469 AGR / DF
+
+“RECURSO EXTRAORDINÁRIO COM AGRAVO.
+PRINCÍPIO DA LEGALIDADE. VIOLAÇÃO. MATÉRIA
+INFRACONSTITUCIONAL. SÚMULA 636 DO STF.
+REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+SÚMULA 279 DO STF. 1. Não se admite recurso
+extraordinário para debate sobre matéria afeta à legislação
+infraconstitucional. Súmula 636 do STF. 2. É incabível recurso
+extraordinário para reexame do contexto fático-probatório.
+Súmula 279 do STF. — Parecer pelo desprovimento do agravo.”
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Quando do julgamento do agravo, o Tribunal de origem
+assim asseverou: (eDOC 37, pp. 2-7):
+“(...)
+“PERDÃO
+TÁCITO
+–
+PRINCÍPIO
+DA
+IMEDIATIDADE – DISPENSA DE EMPREGADO
+PÚBLICO A parte ré renova os argumentos do agravo de
+instrumento e insiste no processamento do recurso de revista
+quanto ao tema em epígrafe. Em exame anterior do caso, concluí
+por negar seguimento ao apelo por decisão unipessoal e, para
+tanto, externei os fundamentos pertinentes à matéria ora
+ventilada. Considerando que a parte repete os mesmos
+argumentos já analisados, submeto à apreciação do Colegiado
+minhas razões de decidir, por compreender que merecem ser
+confirmadas:
+“PERDÃO
+TÁCITO
+–
+PRINCÍPIO
+DA
+IMEDIATIDADE – DISPENSA DE EMPREGADO
+PÚBLICO O agravante pretende o processamento do recurso de
+revista às fls. 766/780. Sustenta que é inaplicável o perdão tácito
+e o Princípio da Imediatidade na punição de empregados
+públicos. Afirma que a autora agente comunitária de saúde,
+cometeu crime de falsificação de documento ao adulterar
+atestado de saúde emitido por perícia médica oficial da Secretaria
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 23
+
+ARE 1336469 AGR / DF
+do Estado de Saúde. Alega que da prática do ilícito até a
+publicação do ato demissório transcorreram 3 anos, 6 meses e 2
+semanas, tempo que não representa falta de razoabilidade e
+proporcionalidade, levando em conta todo o necessário
+procedimento adotado pela Administração. Menciona que a
+aplicação da punição não viola o Princípio da Moralidade.
+Aponta violação do artigo 37, caput e §5º, da Constituição
+Federal. Eis o teor da decisão regional: „(...) Com efeito,
+analisando a prova dos autos, verifica-se a ocorrência do perdão
+tácito, uma vez que a falta cometida pela Reclamante se deu em
+dezembro/2009 e, não obstante a Sindicância ter sido instaurada
+e concluída em prazo razoável (janeiro/2010 a agosto/2010), o
+Processo Administrativo Disciplinar que culminou na dispensa
+da Reclamante somente foi instaurado em julho/2012, ou seja,
+aproximadamente dois anos após o arquivamento da
+Sindicância, e concluído em julho/2013, depois de transcorridos
+aproximadamente três anos e meio do fato justificador da
+demissão. Nesse sentido, foi o parecer do d. Ministério Público
+do Trabalho, da lavra da i. Procuradora Drª Dinamar Cely
+Hoffmann, cujos fundamentos utilizo também como razões de
+decidir:
+DISTRITO
+FEDERAL.
+DEMISSÃO
+DE
+EMPREGADO PÚBLICO. APURAÇÃO DE FALTA GRAVE.
+ARTIGO 853 DA CLT. SÚMULA 453 DO STF.
+RAZOABILIDADE. Embora não se possa exigir da
+Administração que apure a falta grave cometida por empregado
+público no prazo decadencial de trinta dias, previsto no artigo
+853 da CLT e interpretado na Súmula 403 do Supremo Tribunal
+Federal, também não é razoável permitir que ela demore cerca de
+três anos e meio para lhe aplicar a pena correspondente, menos
+ainda se se considerar que o processo disciplinar que resultou na
+aplicação dessa pena foi instaurado dois anos após o
+arquivamento da sindicância inicialmente instaurada com a
+mesma finalidade, isto é, após dois anos de absoluta inércia, sob
+pena de grande insegurança jurídica para o administrado. (...) A
+reclamante, Agente Comunitária de Saúde, foi admitida nos
+quadros do Distrito Federal em 30/06/2006 (fl. 23) e demitida
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 23
+
+ARE 1336469 AGR / DF
+por ato do Governador do DE em 05/07/2013 (fls. 603 e 608),
+antes, portanto, do advento da Lei distrital n° 5.237/2013, que
+proporcionou a esses servidores a mudança do regime celetista
+para o estatutário. Noutras palavras, durante todo o período do
+seu pacto laboral a recorrente esteve submetida ao regime da
+CLT. Tanto
+esse fator prepondera que a presente ação veio da Justiça
+comum, que se declarou incompetente para apreciar e julgar a
+lide (fls. 359/361). E quanto aos diplomas aplicáveis ao caso
+também o MM. Juízo de origem não teve dúvidas, pois afastou
+de plano a Lei n° 8.112/90 e a LC distrital n° 840/2011
+(sentença, fl. 670, primeiro parágrafo). Nada obstante, ao decidir
+apurar a falta cometida pela autora, a Administração houve por
+bem seguir o trâmite previsto na Lei n° 8.112/1990 (aplicável
+aos servidores do DF à época do fato e do início de sua apuração)
+e, posteriormente, o processo descrito na LC distrital n°
+840/2011, que dispõe especificamente sobre o regime jurídico
+desses servidores. Em tese, a aplicação do regime disciplinar
+estatutário à recorrente, empregada pública sujeita ao regime da
+CLT, poderia lhe ser até benéfica, dadas as expressas garantias
+do contraditório e da ampla defesa. Todavia, no caso concreto
+não foi o que ocorreu. Recapitulando os fatos, tem-se que em
+21/12/2009 a reclamante entregou a seus superiores um atestado
+médico rasurado, em que constava o período de afastamento de
+14 a 18/12/2009, quando na verdade apurou-se que o período
+realmente concedido pelo médico foi apenas de 14 a 15/12/2009.
+No mesmo dia 21/12/2009 seu chefe noticiou o fato ao superior
+hierárquico (documento de fl. 392), que em 06/01/2010
+encaminhou a questão à Diretoria-Geral de Saúde de
+Samambaia/SES (fls. 387/391), a qual determinou a instauração
+de uma sindicância (Ordem de Serviço publicada no DODE em
+01/06/2010, fl. 393), dando início ao Processo n° 024/2010
+(cópia integral às fls. 385/428). Após o relatório conclusivo da
+Comissão de Sindicância, encerrado e remetido ao Diretor-Geral
+de Saúde de Samambaia em 09/07/2010 (fis. 422/426), o
+processo n° 024/2010 foi arquivado, no dia 02/08/2010,
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 23
+
+ARE 1336469 AGR / DF
+conforme despacho e termo de arquivamento de fls. 427/428.
+Sucede que praticamente dois anos depois, ou seja, em
+11/07/2012 (data de publicação da respectiva Portaria, fl. 431),
+depois de uma inércia e um silêncio inexplicáveis, a
+Administração decidiu instaurar o Processo Administrativo
+Disciplinar n° 103/2012 (processo n° 7.942/2012), para apurar
+o mesmo fato (cópia dos referidos autos às fls. 429/645) . O
+citado PAD culminou com a demissão da empregada, conforme
+ato do Governador publicado no DODF em 05/07/2013 (fl.
+627). Como se vê, a pena de demissão foi aplicada à recorrente
+três anos e meio após a falta cometida. E o PAD que resultou
+nessa pena máxima foi instaurado cerca de dois anos e meio após
+a falta, com o detalhe - nada desprezível - de que o início desse
+processo se deu aproximadamente dois anos após o
+arquivamento da sindicância que fora instaurada e encerrada
+com a mesma finalidade. Ora, por mais que a doutrina e a
+jurisprudência pátrias convirjam para o entendimento de que à
+Administração Pública não se pode aplicar o prazo decadencial
+de trinta dias previstos no artigo 853 da CLT (interpretado
+também na Súmula 403 do STF) , desafia o bom senso e foge à
+razoabilidade anuir com sua inércia e referendar um PAD
+iniciado quase dois anos após o arquivamento da sindicância
+instaurada para apurar o mesmo fato. Dois anos e meio após a
+falta cometida (e o conhecimento dela por parte do empregador) e
+dois anos depois do arquivamento da competente sindicância à
+época instaurada, ressurgiu a espada sobre a cabeça da
+trabalhadora, que por boas razões certamente já se acreditava sob
+o manto de alguma segurança jurídica. Daí porque tem lugar o
+raciocínio e a aplicação da prescrição trabalhista bienal, mutatis
+mutandis. Com efeito, não se pode perder de vista que a
+recorrente esteve o tempo todo submetida ao regime celetista,
+que em rigor exige a „imediatidade‟ ou „imediaticidade‟ da
+punição, nos termos de sólidas doutrina e jurisprudência sobre a
+matéria. Tratando-se de Administração Pública, com a
+complexidade e a burocracia que lhe são inerentes, é até possível
+condescender e admitir que a sindicância instaurada em
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 23
+
+ARE 1336469 AGR / DF
+01/06/2010 (fl. 393), para apurar a falta cometida pela
+recorrente em 21/12/2009, tenha obedecido ao requisito da
+imediaticidade. Porém o mesmo não se pode afirmar quanto ao
+PAD, instaurado dois anos após o arquivamento daquela
+sindicância e dois anos e meio após a falta, repita-se. Não há
+complexidade e burocracia que o justifiquem. Num contexto de
+inércia tão deliberada por parte da Administração, o conceito de
+perdão tácito deve ser considerado, ainda que de forma mitigada.
+Não se ignora que o arquivamento da sindicância é questionável
+(despacho e termo de fls. 427/428), uma vez que o relatório
+conclusivo da Comissão apontou a necessidade de instauração
+do PAD (fi. 424). Mas um erro não justifica outro e as faltas
+cometidas são distintas. Pela eventual desídia deve responder a
+pessoa que determinou a arquivamento. Por outro lado, observase que a saga da recorrente está longe do fim, pois ela foi
+representada, para fins penais, em razão da falta praticada, nos
+termos do documento de fls. 568/569, constantes do PAD n°
+103/2012 (processo n° 7.942/2012). Certo, eventual condenação
+da recorrente na esfera penal pode redundar, aí sim, na perda do
+seu emprego, mas tal hipótese não deve inverter ou contaminar o
+raciocínio e impedir que os
+(...)
+O TRT, soberano na análise do conjunto fático-probatório,
+consignou que a trabalhadora cometeu a falta em dezembro de
+2009; que a sindicância foi instaurada e concluída no período
+entre janeiro e dezembro de 2010 e que o processo administrativo
+que culminou na dispensa da empregada foi instaurado somente
+em julho de 2012 e concluído em julho de 2013, após
+aproximadamente três anos e meio do fato que ensejou a
+demissão. Para efetivação do exercício do poder disciplinar do
+empregador e consequente aplicação de sanções, além da
+tipicidade da conduta (requisito objetivo), deverão ser levados
+em conta alguns outros requisitos (de ordem subjetiva ou
+circunstancial) para aferição da validade da penalidade imposta,
+estando entre eles: o dolo ou culpa do empregado; o nexo
+existente entre a falta e a penalidade; bem como a ausência de
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 11 de 23
+
+ARE 1336469 AGR / DF
+perdão tácito ou expresso do empregador. Ficou evidenciada a
+ausência de imediatidade na aplicação da punição à empregada.
+Embora a sindicância tenha sido instaurada logo após a falta
+cometida, houve o transcurso de aproximadamente dois anos e
+meio entre a ciência do fato e a instauração do processo
+administrativo e, ainda, três anos e meio entre aquela e a efetiva
+aplicação da punição, o que configura indubitavelmente o perdão
+tácito concedido pela agravante, independentemente de sua
+natureza de ente público, que é irrelevante para o aspecto ora
+analisado. Provado que a atitude da autora, apesar de irregular,
+não foi imediatamente censurada pelo réu, tal circunstância é
+suficiente para eivar de nulidade a conduta patronal, uma vez
+que a sanção disciplinar desatendeu a um dos seus requisitos
+subjetivos. Ileso o dispositivo apontado. Nego seguimento ao
+agravo de instrumento.” (fls. 831/836 - destaques originais e ora
+efetuados)
+A vedação inserta no mencionado dispositivo relaciona-se,
+intrinsecamente, ao comando contido no § 1º do mesmo artigo e
+tem cabimento quando o agravo interno apresenta argumentos
+pertinentes que ainda não foram objeto de exame na decisão
+impugnada ou, apesar de terem sido, comportam
+esclarecimentos. Dessa forma, a exigência de fundamentação
+estará cumprida se, nesse particular, o acórdão do agravo, apesar
+reiterar as razões de decidir outrora postas na decisão unipessoal
+do Relator, faz os acréscimos cabíveis. Ademais, no presente
+caso, a função principal do agravo interno – submeter o exame
+do apelo ao Colegiado - também terá sido atendida. Pelo exposto,
+nego provimento ao agravo.”
+A Procuradoria-Geral da República, em seu parecer, assim
+manifestou: (eDOC 76, pp. 13-18)
+“(...)
+A denegação de trânsito do apelo extraordinário alicerça-se
+em dois verbetes impeditivos: 636 e 279 da Súmula do Supremo
+Tribunal Federal. A argumentação inserida no agravo não
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 12 de 23
+
+ARE 1336469 AGR / DF
+alcança êxito em ultrapassar os obstáculos ali erguidos. A
+solução da lide envolve a apreciação de requisito circunstancial
+para fixação de penalidade no âmbito empregatício. Segundo a
+doutrina de Maurício Godinho Delgado, circunstanciais são “os
+requisitos que dizem respeito à atuação disciplinar do
+empregador em face da falta e do obreiro envolvidos”. 3 Figura
+entre os inúmeros requisitos circunstanciais a imediaticidade da
+punição, que, ainda na concepção de Maurício Godinho
+Delgado, “exige a ordem jurídica que a aplicação de penas
+trabalhistas se faça tão logo se tenha conhecimento da falta
+cometida. Com isso evita-se eventual situação de pressão
+permanente ou, pelo menos, por largo e indefinido prazo sobre o
+obreiro, em virtude de alguma infração cometida”. 4 A
+imediaticidade da punição traduz matéria de natureza
+infraconstitucional. A parametrização do lapso temporal
+encontra-se delineada no art. 853 da Consolidação das Leis do
+Trabalho, regulamentador do chamado “trintídio celetista”:
+(...)
+Tais observações demonstram o acerto da Vice-Presidência
+do TST em barrar a passagem do recurso extraordinário, eis que
+a discussão verdadeiramente se firma na seara
+infraconstitucional: o art. 853 da CLT. Daí a inafastabilidade da
+Súmula 636 do STF: “[n]ão cabe recurso extraordinário por
+contrariedade ao princípio constitucional da legalidade, quando
+a sua verificação pressuponha rever a interpretação dada a
+normas infraconstitucionais pela decisão recorrida”. Além do
+verbete, milita contra o agravante a reiterada jurisprudência do
+STF, em conformidade com os arestos abaixo sumarizados:
+(...)
+Mirando o olhar para a arguição da Súmula 279 do STF,
+nesse ponto há semelhante insucesso da agravante na expressão
+de sua irresignação. Ao empregar a imediaticidade da punição
+como fundamento para declarar a nulidade da dispensa, a
+instância ordinária valorou os fatos e provas produzidos no
+caderno processual. Observa-se citação, na decisão agravada,
+que testifica a importância do acervo fático para o desfecho da
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 13 de 23
+
+ARE 1336469 AGR / DF
+demanda:
+(...)
+A admissibilidade do apelo extremo esbarra, portanto, na
+imprescindível incursão em fatos e provas, de modo a permitir
+que a providência jurisdicional reforme a tutela. Todavia, como
+bem pontuado na decisão agravada, essa tarefa é vedada em sede
+extraordinária, na forma cristalizada pela Súmula 279 do STF.
+Em abono dessa tese, colhe-se vasta jurisprudência, ilustrada
+nos precedentes abaixo citados:
+(...)
+Em face do exposto, o PROCURADOR-GERAL DA
+REPÚBLICA opina pelo desprovimento do agravo.”
+Conforme se depreende da leitura do acórdão recorrido,
+para divergir do entendimento adotado pelo Tribunal de
+origem, seria necessário o reexame de fatos e provas constantes
+dos autos e da legislação infraconstitucional aplicável à espécie,
+o que inviabiliza o processamento do apelo extremo, tendo em
+vista a vedação contida nas Súmulas 279 e 636 do STF. Nesse
+sentido:
+“EMENTA Agravo regimental no recurso extraordinário
+com agravo. Direito Administrativo. Improbidade. Violação dos
+princípios do devido processo legal, do contraditório e da ampla
+defesa. Legislação infraconstitucional. Ofensa reflexa. Fatos e
+provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos
+princípios da legalidade, do devido processo legal, da ampla
+defesa, do contraditório, dos limites da coisa julgada ou da
+prestação jurisdicional, quando depende, para ser reconhecida
+como tal, da análise de normas infraconstitucionais, configura
+apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse
+entendimento foi reafirmado no julgamento do ARE nº
+748.371/MT, Relator o Ministro Gilmar Mendes, DJe de
+1º/8/13, sob o rito da repercussão geral. 3. É inviável, em
+recurso
+extraordinário,
+a
+análise
+da
+legislação
+infraconstitucional, bem como o reexame do conjunto fático-
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 14 de 23
+
+ARE 1336469 AGR / DF
+probatório da causa. Incidência das Súmulas nºs 636 e 279/STF.
+4. Agravo regimental não provido. 5. Inaplicável o art. 85, § 11,
+do CPC, haja vista tratar-se, na origem, de ação civil pública
+(art. 18 da Lei nº 7.347/85).” (ARE 1137180-AgR, Rel. Min.
+DIAS TOFFOLI, Segunda Turma, DJe 17.10.2018)
+Ademais, o Tribunal a quo apreciou a matéria à luz da
+legislação infraconstitucional pertinente (Consolidação das Leis
+do Trabalho - CLT), revelando-se oblíqua ou reflexa eventual
+ofensa à Constituição Federal, o que inviabiliza o
+processamento do recurso extraordinário. Nesse sentido:
+“Agravo regimental em recurso extraordinário com
+agravo. 2. Direito Administrativo. 3. Policial Militar.
+Cassação de aposentadoria. Ato praticado em momento
+posterior a aposentadoria. 4. Controvérsia restringe-se a
+legislação local, Lei 6.783/1974 do Estado de Pernambuco.
+Ofensa reflexa à Constituição Federal. Necessidade de reexame
+do acervo probatório. Súmulas 280 e 279 do STF. Precedentes. 5.
+Ausência de argumentos capazes de infirmar a decisão
+agravada. 6. Agravo regimental a que se nega provimento.”
+(ARE 1.102.888-AgR, Rel. Min. Gilmar Mendes, Segunda
+Turma, DJe 6.6.2018).
+“AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO.
+POLICIAL
+MILITAR
+REFORMADO.
+PROCESSO
+ADMINISTRATIVO DISCIPLINAR POR ATO COMETIDO
+APÓS A PASSAGEM PARA A RESERVA REMUNERADA.
+PENA DE SUPRESSÃO DOS PROVENTOS DE
+APOSENTADORIA. NECESSIDADE DE ANÁLISE DE
+LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE
+REVOLVIMENTO
+DO
+CONJUNTO
+FÁTICOPROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS
+SÚMULAS 279 E 280 DO STF. PRECEDENTES. AGRAVO
+INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 15 de 23
+
+ARE 1336469 AGR / DF
+PROCESSO CIVIL. MANDADO DE SEGURANÇA.
+INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015.
+REITERADA
+REJEIÇÃO
+DOS
+ARGUMENTOS
+EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS
+ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO.
+MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO
+INTERNO DESPROVIDO.” (ARE 995.650-AgR, Rel. Min.
+Luiz Fux, Primeira Turma, DJe 22.10.2018).
+Ante o exposto, nego provimento ao recurso, nos termos
+do art. 932, IV, a e b, do CPC.
+Sem honorários, por se tratar de mandado de segurança
+(Súmula 512/STF e art. 25 da Lei 12.016/2009)”.
+
+Nas razões recursais, sustenta-se que merece reforma a decisão ora
+agravada, porquanto, “os fatos são incontroversos e a violação constitucional é
+direta, daí não caber falar na incidência das Súmulas 279 e 636, com todo o
+respeito” (eDOC 83, p. 2).
+Reitera-se a violação ao art. 37, caput e § 5º, da CF, pois o acórdão
+recorrido “entendeu aplicável conceito de perdão tácito e imediatidade quando e
+enquanto o Distrito Federal não aplicava punição eis que apurava a falta
+cometida observando as garantias constitucionais do contraditório e da ampla
+defesa” (eDOC 83, p. 3).
+Afirma-se que não houve manifestação do Distrito Federal pela
+concessão de perdão e, além disso, a infração prevista em lei não permite
+o perdão tácito, pois “a punição pela Administração não pode ser imediata nos
+mesmos moldes em que o Empregador Privado o faz” (eDOC 83, p. 3).
+Aponta-se precedente no MS 21.924, de relatoria do Min. Joaquim
+Barbosa, ocasião em que ficou assentado:
+“Quanto à aplicação do princípio da imediatidade, é
+também correta a opinião do Procurador Geral da República,
+no sentido de que o lapso temporal entre a falta e a punição
+decorreu da necessidade se preservar o respeito aos princípios
+da legítima defesa e do contraditório” – (grifos dos originais)
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 16 de 23
+
+ARE 1336469 AGR / DF
+
+Ao final, conclui-se que tal entendimento afasta a incidência da
+Súmula 636 do STF.
+A parte Recorrida, devidamente intimada, apresentou manifestação
+(eDOC 86).
+É o relatório.
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 3C69-0B15-85FE-2190 e senha EB60-BA06-D011-B838
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 17 de 23
+
+04/04/2022
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.336.469
+DISTRITO FEDERAL
+VOTO
+
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Não assiste razão à
+parte ora Agravante.
+Para melhor compreensão da controvérsia, extraio da decisão
+monocrática exarada no agravo de instrumento no TST, a qual foi
+mantida no acórdão recorrido, os seguintes fragmentos (eDOC 28, p.2-7):
+“PERDÃO TÁCITO – PRINCÍPIO DA IMEDIATIDADE
+– DISPENSA DE EMPREGADO PÚBLICO
+O agravante pretende o processamento do recurso de
+revista às fls. 766/780. Sustenta que é inaplicável o perdão tácito
+e o Princípio da Imediatidade na punição de empregados
+públicos. Afirma que a autora, agente comunitária de saúde,
+cometeu crime de falsificação de documento ao adulterar
+atestado de saúde emitido por perícia médica oficial da
+Secretaria do Estado de Saúde. Alega que da prática do ilícito
+até a publicação do ato demissório transcorreram 3 anos, 6
+meses e 2 semanas, tempo que não representa falta de
+razoabilidade e proporcionalidade, levando em conta todo o
+necessário procedimento adotado pela Administração.
+Menciona que a aplicação da punição não viola o Princípio da
+Moralidade. Aponta violação do artigo 37, caput e §5º, da
+Constituição Federal.
+Ao exame.
+Verifica-se que o Tribunal Regional deu provimento ao
+recurso ordinário interposto pela autora para reconhecer a
+nulidade da dispensa e determinar a sua reintegração no cargo
+anteriormente ocupado com o pagamento de salários e
+vantagens do período ante a caracterização de perdão tácito.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D256-74ED-6FFB-626F e senha 44DB-A110-9AD2-60E4
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 18 de 23
+
+ARE 1336469 AGR / DF
+O TRT, soberano na análise do conjunto fáticoprobatório, consignou que a trabalhadora cometeu a falta em
+dezembro de 2009; que a sindicância foi instaurada e
+concluída no período entre janeiro e dezembro de 2010 e que
+o processo administrativo que culminou na dispensa da
+empregada foi instaurado somente em julho de 2012 e
+concluído em julho de 2013, após aproximadamente três anos
+e meio do fato que ensejou a demissão.
+Para efetivação do exercício do poder disciplinar do
+empregador e consequente aplicação de sanções, além da
+tipicidade da conduta (requisito objetivo), deverão ser
+levados em conta alguns outros requisitos (de ordem
+subjetiva ou circunstancial) para aferição da validade da
+penalidade imposta, estando entre eles: o dolo ou culpa do
+empregado; o nexo existente entre a falta e a penalidade; bem
+como a ausência de perdão tácito ou expresso do empregador.
+Ficou evidenciada a ausência de imediatidade na
+aplicação da punição à empregada. Embora a sindicância tenha
+sido instaurada logo após a falta cometida, houve o transcurso
+de aproximadamente dois anos e meio entre a ciência do fato
+e a instauração do processo administrativo e, ainda, três anos
+e meio entre aquela e a efetiva aplicação da punição, o que
+configura indubitavelmente o perdão tácito concedido pela
+agravante, independentemente de sua natureza de ente
+público, que é irrelevante para o aspecto ora analisado.
+Provado que a atitude da autora, apesar de irregular, não
+foi imediatamente censurada pelo réu, tal circunstância é
+suficiente para eivar de nulidade a conduta patronal, uma vez
+que a sanção disciplinar desatendeu a um dos seus requisitos
+subjetivos. Ileso o dispositivo apontado.
+Nego seguimento ao agravo de instrumento” (grifos
+nossos).
+
+Diante de tal contexto, verifica-se que a questão dos autos,
+envolvendo a configuração de perdão tácito, diante da ausência de
+preenchimento de requisito subjetivo, relativo à imediata aplicação da
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D256-74ED-6FFB-626F e senha 44DB-A110-9AD2-60E4
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 19 de 23
+
+ARE 1336469 AGR / DF
+sanção administrativa, é de nível infraconstitucional, considerando que o
+Tribunal de origem fundou-se na Consolidação das Leis do Trabalho CLT,
+para concluir pela nulidade da dispensa e da reintegração no cargo da
+empregada pública, o que impede o trânsito do apelo extremo. Incide, no
+caso, o óbice da Súmula 636 do STF.
+Além disso, a solução da controvérsia dos autos depende do
+reexame dos fatos e provas dos autos, o que é vedado na via
+extraordinária, nos termos da Súmula 279 do STF.
+Nesse sentido, confiram-se, em casos assemelhados, os seguintes
+julgados:
+“Agravo regimental no recurso extraordinário com agravo.
+Trabalhista. Acordo ou convenção coletiva. Inserção de
+cláusula. Férias. Fracionamento. Legislação infraconstitucional.
+Ofensa reflexa. Precedentes. 1. O Tribunal Superior do Trabalho
+concluiu, com base na Consolidação das Leis do Trabalho, pela
+impossibilidade de inserção de cláusula em acordo ou
+convenção coletiva que preveja o fracionamento das férias do
+obreiro fora das exceções legais. 2. Inadmissível, em recurso
+extraordinário, a análise da legislação infraconstitucional.
+Incidência da Súmula nº 636/STF. 3. Agravo regimental não
+provido.” (ARE 681.877-AgR, Rel. Min. Dias Toffoli, Primeira
+Turma, DJe 20.09.2012).
+“AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO.
+PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. PENA
+DE DEMISSÃO. RAZOABILIDADE. INCURSIONAMENTO
+NO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA
+SÚMULA 279 DO STF. PRECEDENTES. RECURSO
+INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE
+PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA.
+AGRAVO DESPROVIDO” (ARE 996.852-AgR, Rel. Min. Luiz
+Fux, Primeira Turma, DJe 25.04.2017).
+“Agravo regimental em recurso extraordinário com
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D256-74ED-6FFB-626F e senha 44DB-A110-9AD2-60E4
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 20 de 23
+
+ARE 1336469 AGR / DF
+agravo. 2. Violação ao princípio da legalidade. Art. 244 da
+Consolidação das Leis do Trabalho. Enunciado 636. 3. Agravo
+regimental a que se nega provimento” (ARE 722.012-AgR, Rel.
+Min. Gilmar Mendes, Segunda Turma, DJe 01.2.2013).
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO.
+PROCESSO DISCIPLINAR. DEMISSÃO. 1. Cabimento de
+mandado de segurança em tribunal diverso. Matéria
+infraconstitucional. Ausência de repercussão geral. 2. Análise
+da razoabilidade e proporcionalidade do ato demissório.
+Reexame de fatos e provas. Súmula n. 279 do Supremo
+Tribunal Federal. 3. Controle judicial de ato administrativo:
+inexistência de contrariedade ao princípio da separação dos
+poderes. 4. Agravo regimental ao qual se nega provimento”
+(ARE 744.080-AgR, Rel. Min. Cármen Lúcia, Segunda Turma,
+DJe 14.10.2013).
+“AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+DIREITO
+ADMINISTRATIVO.
+PROCESSO
+ADMINISTRATIVO
+DISCIPLINAR. MAGISTRADO ESTADUAL. CENSURA.
+ALEGAÇÃO DE OFENSA À RAZOABILIDADE E
+PROPORCIONALIDADE. REEXAME DE FATOS E PROVAS.
+SÚMULA
+279
+DO
+STF.
+MATÉRIA
+INFRACONSTITUCIONAL. 1. Para se chegar a conclusão
+diversa daquela a que chegou o Tribunal de origem, quanto à
+proporcionalidade e razoabilidade da aplicação da penalidade
+de censura, seria necessário o reexame dos fatos e provas dos
+autos, além da legislação infraconstitucional aplicável à espécie
+- Lei Complementar 35/1979 (Lei Orgânica da Magistratura
+Nacional). Incidência da Súmula 279 do STF. 2. Agravo
+regimental a que se nega provimento, com previsão de
+aplicação da multa prevista no art. 1.021, § 4º, do CPC. Incabível
+a aplicação do disposto no art. 85, §11, do CPC (Súmula 512 do
+STF)” (ARE 1.089.107-AgR, de minha relatoria, Segunda Turma,
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D256-74ED-6FFB-626F e senha 44DB-A110-9AD2-60E4
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 21 de 23
+
+ARE 1336469 AGR / DF
+DJe 12.12.2019).
+
+Por fim, registro que a Procuradoria-Geral da República, em seu
+parecer, chegou à mesma conclusão (eDOC 76, p. 13-18):
+“(...) A denegação de trânsito do apelo extraordinário
+alicerça-se em dois verbetes impeditivos: 636 e 279 da Súmula
+do Supremo Tribunal Federal. A argumentação inserida no
+agravo não alcança êxito em ultrapassar os obstáculos ali
+erguidos. A solução da lide envolve a apreciação de requisito
+circunstancial para fixação de penalidade no âmbito
+empregatício. Segundo a doutrina de Maurício Godinho
+Delgado, circunstanciais são “os requisitos que dizem respeito à
+atuação disciplinar do empregador em face da falta e do obreiro
+envolvidos”. 3 Figura entre os inúmeros requisitos
+circunstanciais a imediaticidade da punição, que, ainda na
+concepção de Maurício Godinho Delgado, “exige a ordem
+jurídica que a aplicação de penas trabalhistas se faça tão logo se
+tenha conhecimento da falta cometida. Com isso evita-se
+eventual situação de pressão permanente ou, pelo menos, por
+largo e indefinido prazo sobre o obreiro, em virtude de alguma
+infração cometida”. 4 A imediaticidade da punição traduz
+matéria de natureza infraconstitucional. A parametrização do
+lapso temporal encontra-se delineada no art. 853 da
+Consolidação das Leis do Trabalho, regulamentador do
+chamado “trintídio celetista”:
+(...) Tais observações demonstram o acerto da VicePresidência do TST em barrar a passagem do recurso
+extraordinário, eis que a discussão verdadeiramente se firma
+na seara infraconstitucional: o art. 853 da CLT. Daí a
+inafastabilidade da Súmula 636 do STF: “[n]ão cabe recurso
+extraordinário por contrariedade ao princípio constitucional da
+legalidade, quando a sua verificação pressuponha rever a interpretação
+dada a normas infraconstitucionais pela decisão recorrida”. Além do
+verbete, milita contra o agravante a reiterada jurisprudência do
+STF, em conformidade com os arestos abaixo sumarizados:
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D256-74ED-6FFB-626F e senha 44DB-A110-9AD2-60E4
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 22 de 23
+
+ARE 1336469 AGR / DF
+(...) Mirando o olhar para a arguição da Súmula 279 do
+STF, nesse ponto há semelhante insucesso da agravante na
+expressão de sua irresignação. Ao empregar a imediaticidade
+da punição como fundamento para declarar a nulidade da
+dispensa, a instância ordinária valorou os fatos e provas
+produzidos no caderno processual. Observa-se citação, na
+decisão agravada, que testifica a importância do acervo fático
+para o desfecho da demanda:
+(...)
+A admissibilidade do apelo extremo esbarra, portanto,
+na imprescindível incursão em fatos e provas, de modo a
+permitir que a providência jurisdicional reforme a tutela.
+Todavia, como bem pontuado na decisão agravada, essa tarefa é
+vedada em sede extraordinária, na forma cristalizada pela
+Súmula 279 do STF. Em abono dessa tese, colhe-se vasta
+jurisprudência, ilustrada nos precedentes abaixo citados: (...)
+Em face do exposto, o PROCURADOR-GERAL DA
+REPÚBLICA opina pelo desprovimento do agravo.” (grifos
+nossos)
+
+Assim sendo, os argumentos expendidos no presente agravo, não
+são suficientes para modificar a conclusão da decisão agravada.
+Ante o exposto, nego provimento ao presente agravo regimental.
+Inaplicável o art. 85, § 11, do CPC, tendo em vista que não houve
+condenação em honorários advocatícios na instância de origem.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código D256-74ED-6FFB-626F e senha 44DB-A110-9AD2-60E4
+
+Supremo Tribunal Federal
+Extrato de Ata - 04/04/2022
+
+Inteiro Teor do Acórdão - Página 23 de 23
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.336.469
+PROCED. : DISTRITO FEDERAL
+RELATOR : MIN. EDSON FACHIN
+AGTE.(S) : DISTRITO FEDERAL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO DISTRITO FEDERAL
+AGDO.(A/S) : CINTIA BEZERRA CARVALHO
+ADV.(A/S) : ALEX CARVALHO REGO (32399/DF)
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental e entendeu inaplicável o art. 85, § 11, do Código de
+Processo Civil de 2015, tendo em vista que não houve fixação de
+honorários advocatícios na instância de origem, nos termos do voto
+do Relator. Segunda Turma, Sessão Virtual de 25.3.2022 a 1.4.2022.
+Composição: Ministros Nunes Marques (Presidente), Gilmar
+Mendes, Ricardo Lewandowski, Edson Fachin e André Mendonça.
+Hannah Gevartosky
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 8934-79F5-2A6F-5DA3 e senha 8865-92BA-E5FD-2590
