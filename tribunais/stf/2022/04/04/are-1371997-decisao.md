@@ -1,0 +1,157 @@
+DECISÃO
+
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (Vol. 12, fl. 3-5):
+
+    “ADMINISTRATIVO. CONSTITUCIONAL. PROCESSUAL CIVIL. UNIÃO FEDERAL. SISTEMA ÚNICO DE SAÚDE – SUS. ASSISTÊNCIA COMPLEMENTAR DE SAÚDE. REDE PRIVADA. TABELA DE PROCEDIMENTOS AMBULATORIAIS E HOSPITALARES. REVISÃO. EQUILÍBRIO ECONÔMICO-FINANCEIRO. RESGATE. LEGITIMIDADE PASSIVA. SENTENÇA MANTIDA.
+
+    I – Legitimidade passiva da União Federal, para a demanda de revisão de valores constantes da Tabela de Procedimentos Ambulatoriais e Hospitalares do SUS, para o fim de resguardar o equilíbrio econômico-financeiro da relação jurídica havida entre o particular e o Poder Público, na complementação aos serviços de saúde prestados pela rede pública, levando-se em consideração que o responsável pela fixação dos valores para a remuneração dos serviços e dos parâmetros de cobertura assistencial é a direção nacional do Sistema Único de Saúde – SUS, representado pelo órgão ministerial respectivo – Ministério da Saúde, conforme dispõe a Lei n. 8.080, de 19 de setembro de 1990.
+
+    II – Hipótese de controvérsia acerca da plausibilidade de revisão dos valores constantes da “Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde – SUS”, para manutenção do equilíbrio econômico-financeiro contratual em razão de atuação de unidade hospitalar privada no âmbito da assistência complementar à saúde.
+
+    III – Reconhecida a discrepância entre os valores pagos pela União, com base na Tabela de Procedimentos do SUS, pelos serviços de saúde prestados por unidades hospitalares privadas, em sede de assistência complementar, e os valores recebidos pela União, quando, em situação oposta, a rede pública presta serviço a pacientes e/ou dependentes beneficiários de planos de saúde da rede privada, ocasião em que as operadoras de saúde devem proceder ao ressarcimento, porém com base na Tabela Única Nacional de Equivalência de Procedimentos – TUNEP, elaborada pela Agência Nacional de Saúde, merece amparo o pleito de revisão de valores.
+
+     IV – A revisão dos valores com o fim de se manter o equilíbrio econômico-financeiro da relação jurídica contratual estabelecida entre o instituto privado e a União, na implementação da política de assistência complementar à saúde, prevista no art. 199 da Constituição da República, é medida que se alinha aos princípios da isonomia, da razoabilidade e da proporcionalidade, além de amparar-se sob a norma inscrita na Lei Orgânica da Saúde, n. 8.080/90, que preceitua a observância da manutenção do equilíbrio econômico e financeiro do contrato, assim como da necessidade de fundamentação das regras de estabelecimento dos critérios e valores para a remuneração dos serviços, por meio de demonstrativo econômico financeiro, apto a garantir a efetiva qualidade de execução dos serviços contratados.
+
+    V – Não prevalece a alegação do recurso de inviabilidade do pedido, por falta de prova física do contrato ou convênio, diante dos documentos apresentados, os quais demonstram a prestação dos serviços relativos a procedimentos hospitalares e ambulatoriais no Sistema Único de Saúde por parte do hospital autor, assim como não prevalece o argumento de possibilidade de, havendo insatisfação, o particular desconstituir o vínculo contratual com a União, uma vez que não equaciona a questão posta, de desequilíbrio existente entre o que se paga e o que se recebe em contraprestação pelos mesmos serviços oferecidos, de um lado, pela União, de outro, pelo particular.
+
+    VI – Igualmente, não prosperam os argumentos recursais de que o objetivo da Tabela TUNEP é evitar o enriquecimento sem causa das operadoras de planos privados de assistência à saúde, evitar o custeio de atividades privadas com recursos públicos, e regular os planos de assistência à saúde coibindo fraudes no sistema de saúde complementar, porquanto tal argumentação não suplanta o princípio constitucional da igualdade perante a lei, que jaz na base do direito ao ressarcimento igualitário das operadoras de saúde pelos mesmos procedimentos médicos realizados pela União, via SUS, uma vez não demonstrada a plausibilidade para o pretendido tratamento desigual no estabelecimento dos valores diferenciados, porquanto ausente relação de proporcionalidade entre tal medida e a alegada finalidade pretendida.
+
+    VII – Como a União, ao cobrar serviços que paga pelo SUS, utiliza tabela distinta com valores superiores, também deve pagar aos hospitais e médicos pelo valor mais alto, já que a Administração Pública não pode visar ao lucro.
+
+    VIII – “Constatada, como no caso, a flagrante discrepância entre os valores previstos na “Tabela Única Nacional de Equivalência de Procedimentos – TUNEP” – elaborada pela Agência Nacional de Saúde Complementar – ANS para uniformização dos valores a serem ressarcidos ao SUS pelas operadoras de planos privados de assistência à saúde – e aqueles constantes da “Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde – SUS”, impõe-se a uniformização de tais valores, de forma que, para um mesmo procedimento médico, no âmbito do SUS, o pagamento devido às unidades hospitalares que o realizaram se realize pelo mesmo montante cobrado às operadoras de planos privados de assistência médica, prestigiando-se, assim, os princípios da razoabilidade, da proporcionalidade, da isonomia de tratamento e da segurança jurídica.” (AC 0036162-52.2016.4.01.3400/DF, Rel. DESEMBARGADOR FEDERAL SOUZA PRUDENTE, QUINTA TURMA, JULG. 22/08/2018.)
+
+    IX – Deve ser mantida a r. sentença, que julgou procedentes os pedidos, e reconheceu “o direito da parte de ser remunerada de acordo com os valores constantes da tabela TUNEP” e condenou “a União ao ressarcimento dos valores pretéritos, apurados em liquidação de sentença, observado o prazo prescricional de 05 (cinco) anos.”
+
+    X – Apelação da União e reexame necessário a que se nega provimento. Honorários recursais que ora se acrescem em 1% ao valor fixado na sentença. ”
+
+    Opostos Embargos de Declaração (Vol. 15, fl. 10), foram rejeitados, pela seguinte ementa(Vol. 16, fl. 1-2):
+
+    “ADMINISTRATIVO. PROCESSUAL CIVIL. SISTEMA ÚNICO DE SAÚDE – SUS. ASSISTÊNCIA COMPLEMENTAR. REDE PRIVADA. EQUILÍBRIO ECONÔMICOFINANCEIRO. TUNEP. OMISSÃO. INEXISTÊNCIA.
+
+    I - Nos embargos de declaração, exige-se a demonstração de omissão do acórdão embargado na apreciação da matéria impugnada, de contradição entre os fundamentos e a parte dispositiva do julgado, de necessidade de esclarecimento para sanar obscuridade ou, de acordo com o CPC/2015, de erro material (art. 1.022).
+
+    II - Não se conformando com o julgamento, a parte deve valer-se dos recursos próprios previstos na legislação processual em vigor, visto que os embargos de declaração não se prestam para rediscutir os fundamentos do julgado ou para buscar a sua reforma.
+
+    III – Não há omissão no acórdão quanto às preliminares de ilegitimidade passiva e de necessidade de citação dos entes federados locais como litisconsortes passivos, porquanto foram temas expressamente apreciados no voto.
+
+    IV – Quanto aos demais pontos suscitados nos embargos de declaração, não há que se falar em omissão do v. acórdão a ensejar o seu acolhimento. Isso porque o voto condutor do v. acórdão apreciou a controvérsia de forma fundamentada, sendo expresso na conclusão de que, “Reconhecida a discrepância entre os valores pagos pela União, com base na Tabela de Procedimentos do SUS, pelos serviços de saúde prestados por unidades hospitalares privadas, em sede de assistência complementar, e os valores recebidos pela União, quando, em situação oposta, a rede pública presta serviço a pacientes e/ou dependentes beneficiários de planos de saúde da rede privada, ocasião em que as operadoras de saúde devem proceder ao ressarcimento, porém com base na Tabela Única Nacional de Equivalência de Procedimentos – TUNEP, elaborada pela Agência Nacional de Saúde, merece amparo o pleito de revisão de valores.”. Se a embargante entende que a conclusão desta 6ª Turma violou a legislação de regência, deve interpor os recursos cabíveis, dirigidos às instâncias superiores, para tentar obter a reforma do julgado.
+
+    V – Embargos de declaração rejeitados. ”
+
+    No RE (Vol. 17), interposto com amparo no art. 102, III, “a”, da Constituição Federal, a UNIÃO alega violação aos arts. 196; 197; 198, §1º, e 199 da CF/1988.
+
+    Em suma, sustenta sua ilegitimidade passiva, “visto que a participação voluntária de instituições privadas na saúde pública complementar deve se dar mediante a celebração de contrato de direito público ou convênio”. Todavia, “a União, em decorrência do princípio da descentralização (art. 198, I, CF/88), não celebra contrato com prestadores de serviços, cabendo tal atribuição aos gestores municipais e estaduais. A atribuição federal gira em torno da fixação de diretrizes e transferência de recursos aos demais entes federados, de forma que não há sentido em responsabilizar a União por convênios e contratos administrativos dos quais não fez parte” (Vol. 17, fl. 6).
+
+    Alega que a tabela do TUNEP não pode ser equiparada à tabela do SUS, o que violaria o art. 32 da Lei 9.656/98 (princípio da isonomia). Salienta que a tabela SUS é apenas o piso. “Portanto, desconsiderar o art. 32 da Lei n. 9.656/98 nos moldes vistos nos autos implica em violação direta do art. 97 da CF/88 e do entendimento cristalizado na Súmula Vinculante nº 10 do Supremo Tribunal Federal.” (Vol. 17, fl. 18)
+
+    Defende carecer de viabilidade jurídica o pedido de que a União se responsabilize pelo equilíbrio de relação contratual da qual objetivamente nem faz parte, pois, tratando-se de serviço de saúde, “é livre a iniciativa privada, que tem a faculdade de atender pacientes pelo SUS ou não” (Vol. 17, fl. 14).
+
+    Por fim, alega que o acórdão recorrido violou o art. 97 da CF/1988 (SV 10), pois “a equiparação dos valores da Tabela SUS aos valores da TUNEP, sob argumento de violação ao princípio da isonomia, (...) equivale à declaração de inconstitucionalidade do art. 32 da Lei n. 9.656/98” (Vol. 17, fl. 18)
+
+    Em juízo de admissibilidade, o Tribunal de origem inadmitiu o RE, aos fundamentos de que (a) em relação à suposta ilegitimidade passiva da União (arts. 198 e 199 da CF/1988), a análise de tal questão demanda o reexame de provas (Sumula 279/STF); (b) quanto à violação aos arts. 196, 197 e 199 da CF/1988, trata-se de ofensa meramente reflexa da Constituição, “mais especificamente do artigo 26 da Lei 8.080/90”; (c) “não há violação do art. 97 da Constituição Federal quando o Tribunal de origem, sem declarar a inconstitucionalidade da norma, nem afastá-la sob fundamento de contrariedade à Constituição Federal, limita-se a interpretar e aplicar a legislação infraconstitucional ao caso concreto” (Vol. 19).
+
+    No Agravo, a parte agravante defende a inaplicabilidade do óbice previsto na Súmula 279/STF, a ofensa direta a dispositivos constitucionais e à SV 10 (Vol. 21)
+
+    É o relatório. Decido.
+
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+
+    Além disso, quanto à suposta violação ao art. 97 da CF/1988, verifica-se que o órgão fracionário do Tribunal de origem apenas interpretou e aplicou o conjunto normativo pertinente de acordo com o caso concreto, não havendo infração à referida norma constitucional.
+
+    O órgão fracionário do Tribunal de origem manteve a constitucionalidade da lei, não sendo necessária a aplicação do artigo 97 da Constituição Federal.
+
+    O artigo 97 da Constituição Federal estabelece verdadeira cláusula de reserva de plenário, que atua como condição de eficácia jurídica da própria declaração jurisdicional de INCONSTITUCIONALIDADE dos atos do Poder Público, aplicando-se para todos os tribunais, via difusa, e para o SUPREMO TRIBUNAL FEDERAL, também no controle concentrado (ADI/MC 3.804-4/AL, Rel. Min. SEPÚLVEDA PERTENCE; HC 88.508/RJ-MC, Rel. Min. CELSO DE MELLO, 1ª T.; RE 453.744-AgR/RJ, Rel. Min. CEZAR PELUSO; RE 488.033-4/RS, Rel. Min. CELSO DE MELLO).
+
+    A cláusula de reserva de plenário determina uma regra especial aos tribunais para garantia de maior segurança jurídica na hipótese de afastamento do princípio de presunção de constitucionalidade das leis e atos normativos, porém, como já tive oportunidade de ressaltar (Direito constitucional. 37. ed. São Paulo: Atlas, 2021, capítulo 12, item 9.1.1), não se aplica para a declaração de CONSTITUCIONALIDADE dos órgãos fracionários dos tribunais (RTJ 98/877).
+
+    No mesmo sentido, citem-se os seguintes precedentes:
+
+    “RECURSO EXTRAORDINÁRIO. RESERVA DE PLENÁRIO. Descabe confundir reserva de plenário do artigo 97 da Constituição Federal com interpretação de normas legais. RECURSO EXTRAORDINÁRIO MATÉRIA LEGAL. O recurso extraordinário não serve à interpretação de normas estritamente legais. RECURSO EXTRAORDINÁRIO PRESTAÇÃO JURISDICIONAL DEVIDO PROCESSO LEGAL. Se, de um lado, é possível ter-se situação concreta em que transgredido o devido processo legal a ponto de se enquadrar o recurso extraordinário no permissivo que lhe é próprio, de outro, descabe confundir a ausência de aperfeiçoamento da prestação jurisdicional com a entrega de forma contrária aos interesses do recorrente. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé. (ARE 927.229-AgR, Rel. Min. MARCO AURÉLIO, Primeira Turma, DJe de 27/4/2016)”
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. ALEGADA CONTRARIEDADE AO PRINCÍPIO DA RESERVA DE PLENÁRIO: INOCORRÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (ARE 908.119-AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 10/3/2016)”
+
+    No que diz respeito “a) Legitimidade da União para figurar no polo passivo de demanda em que se pretende a revisão da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde (SUS) e b) preservação do equilíbrio econômico-financeiro de contrato ou convênio firmado com hospitais privados, para prestação de serviços de saúde em caráter complementar, mediante equiparação de valores à Tabela Única Nacional de Equivalência de Procedimentos (Tunep)”, o Plenário desta CORTE, no julgamento do ARE 1.301.749-RG (Tema 1133, Rel. Min. LUIZ FUX – Presidente, DJe de 13/4/2021), fixou a seguinte tese:
+
+    “É infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à preservação do equilíbrio econômico-financeiro de contrato ou convênio firmado com hospitais particulares, para prestação de serviços de saúde em caráter complementar, mediante equiparação da Tabela de Procedimentos do SUS à Tabela Única Nacional de Equivalência de Procedimentos (Tunep), assim como eventual discussão referente à legitimidade para figurar no polo passivo da demanda.”
+
+    Eis a ementa do julgado:
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SISTEMA ÚNICO DE SAÚDE - SUS. ASSISTÊNCIA COMPLEMENTAR. REDE PRIVADA. REVISÃO DA TABELA DE PROCEDIMENTOS AMBULATORIAIS E HOSPITALARES DO SISTEMA ÚNICO DE SAÚDE. LEGITIMIDADE PASSIVA DA UNIÃO. MATÉRIA INFRACONSTITUCIONAL. UTILIZAÇÃO DA TABELA ÚNICA NACIONAL DE EQUIVALÊNCIA DE PROCEDIMENTOS (TUNEP) COMO PARÂMETRO. LEI 8.080/1990. MANUTENÇÃO DO EQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO. CONTROVÉRSIA INFRACONSTITUCIONAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE REPERCUSSÃO GERAL.”
+
+    De fato, o Tribunal de origem consignou o seguinte (Vol. 12, fl. 5):
+
+    “Cinge-se a controvérsia dos autos à plausibilidade da revisão dos valores constantes da “Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde – SUS”, para manutenção do equilíbrio econômico-financeiro da relação jurídica havida entre o particular e o Poder Público, na complementação aos serviços de saúde prestados pela rede pública.
+
+    2. Inicialmente, examino as questões preliminares, arguidas pela União, de ilegitimidade passiva e de litisconsórcio necessário com os outros entes federativos, sob o argumento de que, respectivamente, em decorrência do princípio da descentralização, não celebra contrato com prestadores de serviços, cabendo tal atribuição, e, portanto, responsabilidade pelos fatos advindos da contratação, aos gestores municipais e estaduais; e de que o Estado e o Município onde se localiza a parte autora devem compor o polo passivo, tendo em vista que poderão sofrer prejuízos financeiros no caso de eventual não provimento do recurso.
+
+    3. Em que pesem seus argumentos, não prosperam as insurgências preliminares da União, uma vez pacífico o entendimento jurisprudencial, tanto no que diz respeito à sua legitimidade para compor o polo passivo da lide, quanto no que se reporta à possibilidade de compô-lo isoladamente, sem a necessidade de citação, na qualidade de litisconsortes, dos demais entes.
+
+    4. Com efeito, tratando a questão de fundo posta a julgamento de revisão de valores constantes da Tabela de Procedimentos Ambulatoriais e Hospitalares do SUS, e, levando-se em consideração que o responsável pela fixação dos valores para a remuneração dos serviços e os parâmetros de cobertura assistencial é a direção nacional do Sistema Único de Saúde – SUS, as preliminares arguidas pela União são de todo esvaziadas no confronto com o que dispõe a Lei n. 8.080, de 19 de setembro de 1990, que disciplina a Participação Complementar da iniciativa privada no serviço de assistência à saúde, e a intitula representante da direção nacional de saúde, por meio do órgão ministerial respectivo, consoante os excertos:
+
+    (...)
+
+    5. Em exercendo a função de direção nacional do Sistema Único de Saúde o referido órgão ministerial, conforme disposto no art. 9º da Lei 8.080/90, a legitimidade passiva para a demanda é da União Federal, pessoa jurídica a cuja personalidade se vincula o órgão Ministerial, não cabendo, no caso, a menção a litisconsórcio necessário, pois este, se observado, estaria restrito ao âmbito facultativo.
+
+    (...)
+
+    7. Nessa perspectiva, correta a sentença que concluiu pelo não acolhimento das preliminares de nulidade arguidas.
+
+    8. No mérito, a r. sentença entendeu pela procedência do pedido, em observância ao princípio da isonomia, contemplado na integração entre a efetividade e a qualidade da prestação de serviços de saúde, por meio da garantia do equilíbrio econômico-financeiro da relação jurídico-contratual entre o SUS e a rede de assistência complementar à saúde, conforme os termos que retomo, em síntese:
+
+    (…)
+
+    9. A r. sentença concluiu, portanto, pela procedência do pleito inicial, determinando à União Federal que promova, em relação ao autor, a revisão da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde – SUS, tendo como base a tabela do serviço público reembolsado, a ser apurado em liquidação de sentença, condenando, ainda, a ré a ressarcir à parte autora os valores pagos a menor nos últimos 5 (cinco) anos anteriores ao ajuizamento da presente ação.
+
+    10. Para melhor elucidar a questão posta nos autos, relevante observar a legislação de regência, no que pertinente à lide.
+
+    11. O regime de participação complementar da iniciativa privada na assistência à saúde é comando constitucional, art. 199, § 1º, da CF/88, assim como é previsto na Lei Orgânica da Saúde, n. 8.880/1990, consoante os excertos:
+
+    (…)
+
+    12. Nessa métrica, dispõe o art. 26 da Lei n. 8.880/90, em seu capítulo sobre a participação complementar, acerca da remuneração dos serviços e os parâmetros de cobertura assistencial:
+
+    (…)
+
+    13. Pelo panorama legislativo apresentado, observo que a revisão dos valores constantes da Tabela de Procedimentos Ambulatoriais e Hospitalares do SUS, para o fim de se equacionar o desequilíbrio econômico-financeiro instalado na relação contratual estabelecida entre a União e a instituição privada, no âmbito da prestação de assistência complementar à saúde, encontra amparo nos princípios da isonomia, da razoabilidade e da proporcionalidade, assim como na Lei Orgânica da Saúde, que preceitua a observância da manutenção do equilíbrio econômico e financeiro do contrato, assim como a necessidade de fundamentação das regras de estabelecimento dos critérios e valores para a remuneração dos serviços, por meio de demonstrativo econômico-financeiro, apto a garantir a efetiva qualidade de execução dos serviços contratados.
+
+    14. Com efeito, o entendimento da sentença, ao amparo de princípios constitucionais, não foi infirmado pelos argumentos aventados no recurso de apelação da União Federal – inviabilidade do pedido, pela ausência da prova física do instrumento de contrato administrativo de prestação de serviços junto à Administração Pública e pela possibilidade de a parte autora desconstituir o contrato na hipótese de não lhe ser mais de interesse; ser a Tabela SUS apenas uma referência de valores, estando facultado aos gestores de saúde negociar pagamentos a maior; e ter realizado ao longo dos últimos anos diversos reajustes e criado novas formas de pagamento, afastando, assim, eventual omissão nessa seara, além da alegada violação ao princípio da separação dos poderes.
+
+    15. Isso porque as razões do recurso se diluem ante a demonstrada discrepância dos valores pagos pela União, com base na Tabela de Procedimentos do SUS, pelos serviços de saúde prestados por unidades hospitalares privadas, em sede de assistência complementar, e os valores recebidos pela União, quando, em situação oposta, a rede pública presta serviço a pacientes e/ou dependentes beneficiários de planos de saúde da rede privada, ocasião em que as operadoras de saúde devem proceder ao ressarcimento, porém com base na Tabela Única Nacional de Equivalência de Procedimentos – TUNEP, elaborada pela Agência Nacional de Saúde.
+
+    16. Em que pesem os argumentos recursais, ao utilizar-se a União de Tabelas distintas, para pagamento aos hospitais e para o próprio ressarcimento – pois toma por base a Tabela SUS para pagamento pelos serviços de saúde prestados por unidades hospitalares privadas, e, para ressarcimento dos seus cofres, quando, em situação oposta, a rede pública presta serviço a pacientes e/ou dependentes beneficiários de planos de saúde da rede privada, cobra das operadoras de saúde com base na Tabela Única Nacional de Equivalência de Procedimentos – TUNEP –, viola princípios constitucionais como isonomia, razoabilidade e proporcionalidade.
+
+    17. Diferentemente da administração privada, a Administração Pública não pode visar ao lucro, porém, no particular, atendimento às necessidades de saúde da população. Assim, se, ao pretender se ressarcir dos planos de saúde pelo que ela (União) pagou, via SUS, aos hospitais, cobra valor acima da Tabela SUS, obviamente, deve utilizar, ao pagar os procedimentos médicos aos nosocômios, não mais pela Tabela SUS, porém, pela Tabela TUNEP, pois ela mesma conclui que os serviços médico-hospitalares valem tais cifras.
+
+    19. Ademais, não prevalece a alegação de falta de prova física do contrato ou convênio, diante dos documentos de fls. 59 e seguintes, os quais demonstram a prestação dos serviços relativos a procedimentos hospitalares e ambulatoriais no Sistema Único de Saúde por parte do hospital autor, assim como não prevalece o argumento de possibilidade de, havendo insatisfação, o particular desconstituir o vínculo contratual com a União, uma vez que não equaciona a questão posta, de desequilíbrio existente entre o que se paga e o que se recebe como pagamento pelos mesmos serviços prestados, de um lado, pela União, de outro, pelo particular.
+
+    20. Assim, a União Federal não apresenta dados concretos, capazes de afastar as alegações da parte autora acerca da defasagem de preços – pagos e gastos com os serviços prestados –, ainda que alegue a implementação de reajustes em alguns procedimentos constantes da Tabela do SUS, bem como de políticas visando à adoção de novas formas de pagamentos, motivo pelo qual estaria desqualificada a omissão da Administração Pública no acompanhamento de tais valores e desconfigurada a possibilidade de intervenção do Judiciário na causa.
+
+     21. Por fim, mesma sorte rebate os argumentos da União de que o objetivo da Tabela TUNEP é evitar o enriquecimento sem causa das operadoras de planos privados de assistência à saúde, evitar o custeio de atividades privadas com recursos públicos, e regular os planos de assistência à saúde coibindo fraudes no sistema de saúde complementar, porquanto tal argumentação não suplanta o princípio constitucional da igualdade perante a lei, que jaz na base do direito ao ressarcimento igualitário das operadoras de saúde pelos mesmos procedimentos médicos realizados pela União, via SUS, uma vez não demonstrada a plausibilidade para o pretendido tratamento desigual no estabelecimento dos valores diferenciados, porquanto ausente relação de proporcionalidade entre tal medida e a alegada finalidade pretendida.
+
+     22. Conforme visto, a revisão dos valores com o fim de se manter o equilíbrio econômico-financeiro da relação jurídico-contratual estabelecida entre o instituto privado e a União, na implementação da política de assistência complementar à saúde, prevista no art. 199 da Constituição da República, é medida que se alinha aos princípios da isonomia, da razoabilidade e da proporcionalidade, além de amparar-se sob a norma inscrita na Lei Orgânica da Saúde, que preceitua a observância da manutenção do equilíbrio econômico e financeiro do contrato, assim como da necessidade de fundamentação das regras de estabelecimento dos critérios e valores para a remuneração dos serviços, por meio de demonstrativo econômico financeiro, apto a garantir a efetiva qualidade de execução dos serviços contratados.
+
+    23. Nesse contexto, deve ser mantida a r. sentença, que julgou procedentes os pedidos, e reconheceu “o direito da parte de ser remunerada de acordo com os valores constantes da tabela TUNEP” e condenou “a União ao ressarcimento dos valores pretéritos, apurados em liquidação de sentença, observado o prazo prescricional de 05 (cinco) anos.”
+
+    Pelo exposto, nego provimento ao recurso de apelação da União Federal e ao reexame necessário, mantendo a sentença por seus próprios fundamentos.”
+
+    Confirma-se, portanto, que a análise da pretensão recursal está situada no contexto normativo infraconstitucional (Leis 8.080/1990 e 9.656/1998), de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+
+    De outro lado, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+
+    Publique-se.
+
+    Brasília, 4 de abril de 2022.
+
+Ministro ALEXANDRE DE MORAES
+
+Relator
+
+Documento assinado digitalmente
