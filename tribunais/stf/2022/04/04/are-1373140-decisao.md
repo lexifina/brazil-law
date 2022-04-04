@@ -1,0 +1,79 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. IRREDUTIBILIDADE SALARIAL. COISA JULGADA. ART. 741, PARÁGRAFO ÚNICO, DO CPC. INAPLICABILIDADE. COMPENSAÇÃO. BASE DE CÁLCULO. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS. 1. Inexistindo qualquer reconhecimento por parte do STF acerca de eventual incompatibilidade entre o entendimento firmado no título executivo e a Constituição Federal, não há falar na inexigibilidade da obrigação nele contida, mostrando-se inaplicável a regra inserta no art. 741, parágrafo único, do CPC. 2. Tendo o título exequendo expressamente assegurado aos servidores a manutenção, por ocasião da passagem do regime celetista para o estatutário, de quantia eventualmente excedente aos novos quantitativos, deve tal direito ser observado em sede de execução, sob pena de ofensa à coisa julgada. 3. Em atenção ao disposto no título exequendo, os valores excedentes transformados em VPNI devem ser compensados somente com o reajuste concedido pela Lei 8.162/91 e com os aumentos remuneratórios resultantes das Leis 10.302/2001 e 10.405/2002. 4. Reconhecida a impossibilidade de redução salarial quando da transposição do regime celetista para o estatutário, deve a rubrica relativa aos valores excedentes ser calculada observando-se todas as parcelas remuneratórias referentes ao mês de dezembro de 1990. 5. O 13º salário não compõe a remuneração mensal do servidor, sendo apenas pago, em alguns casos, no mês de dezembro, razão pela qual não pode ser considerado para fins de verificação de eventual redução salarial vedada pelo título. 6. A contar de 01/07/2009, data em que passou a viger a Lei 11.960/2009, que alterou o art. 1º-F da Lei 9.494/97, para fins de atualização monetária, haverá a incidência dos índices oficiais de remuneração básica aplicados à caderneta de poupança, os quais têm seu emprego limitado a 25/03/2015, a partir de quando devem ser substituídos pelo IPCA-E. 7. Se cada litigante for em parte vencedor e vencido, serão recíproca e proporcionalmente distribuídos e compensados entre eles os honorários advocatícios (art. 21, caput, CPC), restando suspensa a exigibilidade de pagamento de eventual saldo em favor da embargante, caso a parte embargada seja beneficiária da Assistência Judiciária Gratuita” (eDOC 50, p. 10-11)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI; e 37, X e XV, do texto constitucional.
+
+    Nas razões recursais, alega-se que não existe direito adquirido ao reajuste do IPC de março de 1990 no percentual de 84,32%, decorrente da aplicação da Lei nº 7.830/1989, posteriormente revogada pela Medida Provisória nº 154/1990 (eDOC 69, p. 6).
+
+    É o relatório.
+
+    Decido.
+
+    A irresignação merece prosperar parcialmente.
+
+    Quanto ao recebimento do valor referente ao reajuste de 84,32% previsto na Lei nº 7.830/1989, o Tribunal de origem consignou que o fundamento para a manutenção do pagamento é o princípio da irredutibilidade de vencimentos, e não o direito ao recebimento da mencionada verba. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+    “Da simples leitura do acima transcrito, verifica-se que esta Turma afastou o direito dos servidores à revisão dos vencimentos pela variação do IPC de março/1990, garantindo, tão-somente, com base no princípio da irredutibilidade salarial, que a expressão nominal de sua remuneração não fosse reduzida por ocasião da passagem do regime celetista para o estatutário.
+
+    Resta evidente, portanto, que o caso dos autos não se enquadra nas hipóteses previstas no art. 741, parágrafo único, do CPC, não havendo qualquer reconhecimento por parte do STF acerca de eventual incompatibilidade entre o entendimento firmado no título executivo e a Constituição Federal, motivo pelo qual não há falar na inexigibilidade da obrigação nele contida.
+
+    (...)
+
+    Assim, tendo o título exequendo expressamente assegurado aos servidores a manutenção, por ocasião da passagem do regime celetista para o estatutário, de quantia eventualmente excedente aos novos quantitativos, deve tal direito ser observado em sede de execução, sob pena de ofensa à coisa julgada.
+
+    Por fim, não há falar em 'ponderação de interesses em conflito'. A coisa julgada é regra processual, a qual, por óbvio, com exceção das hipóteses legalmente previstas, deve ser observada, sendo inadmissível, como na verdade pretende a FURG, a utilização dos embargos do devedor como meio de rediscussão das questões atinentes à fase ordinária” (eDOC 50, p. 4-5)
+
+    Assim, verifica-se que o acórdão do Tribunal de origem não destoa da orientação do Supremo Tribunal Federal no que se refere à inexistência de direito adquirido a regime jurídico, no caso dos autos representado pela manutenção do reajuste pelo ICP no percentual de 84,32%, na forma definida pela Lei nº 7.830/1989, posteriormente revogada pela Medida Provisória nº 154/1990, desde que respeitada a irredutibilidade de vencimentos.
+
+    Nesse sentido, esta Corte julgou o tema 41 da repercussão geral, cujo paradigma é o RE 563965, Rel. Min. Cármen Lúcia, DJe 20.03.2009, em que se assentou a constitucionalidade da Lei complementar 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, consequentemente, a composição da remuneração de servidores públicos, por dar cumprimento ao princípio da irredutibilidade da remuneração. Nesse sentido, confira-se a ementa do precedente mencionado:
+
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE. 1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico. 2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, conseqüentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração. 3. Recurso extraordinário ao qual se nega provimento” (RE 563965, Rel. Min. Cármen Lúcia, Tribunal Pleno DJe 20.03.2009)
+
+    Na espécie, ao contrário do que o recorrente alega, o título judicial exequendo não se sustenta em um pretenso direito à incidência do reajuste de 84,32%, mas sim no direito à complementação da remuneração, por meio de VPNI, como forma de garantir a irredutibilidade do vencimento recebido após a transposição da carreira do servidor do regime celetista para o estatutário.
+
+    Nesse sentido, no julgamento do tema 951 da repercussão geral, cujo paradigma é o RE 1023750, Rel. Min. Marco Aurélio, DJe 17.03.2020, hipótese em que o direito material debatido era diverso do presente processo, mas cuja ratio decidenci coincide com o objeto de controvérsia ora discutido, o Supremo Tribunal Federal reconheceu que os servidores que tiveram relação jurídica regida pela Consolidação das Leis do Trabalho, modificada considerado o regime jurídico único, têm direito à diferença remuneratória decorrente do Plano de Cargos e Salários – PCCS, com fundamento no princípio da irredutibilidade de vencimentos. Confira-se, a propósito, a ementado do precedente mencionado:
+
+    “VENCIMENTOS – IRREDUTIBILIDADE. Servidores que tiveram relação jurídica regida pela Consolidação das Leis do Trabalho, modificada considerado regime jurídico único, têm direito à diferença remuneratória decorrente do Plano de Cargos, Carreiras e Salários – PCCS” (RE 1023750, Rel. Min. Marco Aurélio, Tribunal Pleno, DJe-229 DIVULG 16-09-2020 PUBLIC 17-09-2020)
+
+    Confiram-se, ainda, os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. TRANSPOSIÇÃO DE REGIME CELETISTA PARA ESTATUTÁRIO. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. NECESSIDADE DE OBSERVÂNCIA DO PRINCÍPIO CONSTITUCIONAL DA IRREDUTIBILIDADE DE VENCIMENTOS. DECRETO Nº 20.910/1932. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. PRECEDENTES. O Supremo Tribunal Federal, após reconhecer a repercussão geral da matéria no RE 563.965-RG, Rel.ª Min.ª Cármen Lúcia, reafirmou sua jurisprudência de que não há direito adquirido à regime jurídico e assegurou, por outro lado, a irredutibilidade de vencimentos. Entendimento aplicável ao caso dos autos. Precedentes. A jurisprudência desta Corte orienta-se no sentido de que a discussão acerca do prazo prescricional aplicado à Fazenda Pública pautado no Decreto nº 20.910/1932 se restringe ao âmbito infraconstitucional. Precedentes. Agravo regimental a que se nega provimento” (RE 245154 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 06.03.2015)
+
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO: ESTADO DE MINAS GERAIS: CONVERSÃO COMPULSÓRIA DO REGIME CELETISTA EM ESTATUTÁRIO. REDUÇÃO NA REMUNERAÇÃO: IMPOSSIBILIDADE. C.F., art. 7º, VI, art. 39, § 2º. I. - Impossibilidade da ocorrência de diminuição de vencimentos ou vantagens funcionais na conversão compulsória do regime celetista em estatutário. C.F., art. 7º, VI; art. 39, § 2º. II. - RE conhecido e provido. Agravo improvido” (RE 252349 AgR Rel. Min. Carlos Velloso, Segunda Turma, DJ 23.08.2002)
+
+    Portanto, o acórdão do Tribunal de origem não merece reforma nesse ponto.
+
+    No que se refere à correção monetária, no entanto, a decisão merece reforma. De fato, o Tribunal de origem aplicou o entendimento firmado por oportunidade do julgamento das ADIs 4357 e 4425, com a modulação de efeitos correspondente. Nesse sentido, confira-se trecho do acórdão:
+
+    “Vinha entendendo, com base em decisão proferida pelo STF no RE 870947, que a inconstitucionalidade da aplicação do art. 1º-F da Lei 9.494/97, na redação dada pela Lei 11.960/2009, reconhecida no julgamento das ADI's 4.357 e 4.425, diria respeito apenas ao período posterior à inscrição da requisição de pagamento.
+
+    No entanto, tenho ficado reiteradamente vencido na Turma, prevalecendo o entendimento de que a decisão proferida naquelas ADI's, inclusive no que tange à modulação dos seus efeitos, também se aplica em relação à atualização do débito judicial no período anterior à inscrição do requisitório.
+
+    Dessa forma, passo a adotar o posicionamento majoritário da Turma (...)
+
+    Assim, em atenção ao entendimento acima transcrito, a contar de 01/07/2009, data em que passou a viger a Lei 11.960/2009, que alterou o art. 1º-F da Lei 9.494/97, para fins de atualização monetária, haverá a incidência dos índices oficiais de remuneração básica aplicados à caderneta de poupança, os quais têm seu emprego limitado a 25/03/2015, a partir de quando devem ser substituídos pelo IPCA-E” (eDOC 50, p. 6-8)
+
+    Nesse ponto, registre-se que foram julgados os embargos de declaração opostos no RE 870.947, paradigma do tema 810 da repercussão geral. Na ocasião, rejeitou-se a modulação de efeitos da decisão, tendo sido ratificado o entendimento quanto à inaplicabilidade do índice previsto da Lei nº 9.494/97 no período compreendido entre o ano de 2009 e 2015, nos seguintes termos:
+
+    “QUATRO EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS DE FUNDAMENTAÇÃO NO ACÓRDÃO EMBARGADO. REJEIÇÃO. REQUERIMENTO DE MODULAÇÃO DE EFEITOS INDEFERIDO. 1. O acórdão embargado contém fundamentação apta e suficiente a resolver todos os pontos do Recurso Extraordinário. 2. Ausentes omissão, contradição, obscuridade ou erro material no julgado, não há razão para qualquer reparo. 3. A respeito do requerimento de modulação de efeitos do acórdão, o art. 27 da Lei 9.868/1999 permite a estabilização de relações sociais surgidas sob a vigência da norma inconstitucional, com o propósito de prestigiar a segurança jurídica e a proteção da confiança legítima depositada na validade de ato normativo emanado do próprio Estado. 4. Há um juízo de proporcionalidade em sentido estrito envolvido nessa excepcional técnica de julgamento. A preservação de efeitos inconstitucionais ocorre quando o seu desfazimento implica prejuízo ao interesse protegido pela Constituição em grau superior ao provocado pela própria norma regra, não se admite o prolongamento da vigência da norma sobre novos fatos ou relações jurídicas, já posteriores à pronúncia da inconstitucionalidade, embora as razões de segurança jurídica possam recomendar a modulação com esse alcance, como registra a jurisprudência da CORTE. 5. Em que pese o seu caráter excepcional, a experiência demonstra que é próprio do exercício da Jurisdição Constitucional promover o ajustamento de relações jurídicas constituídas sob a vigência da legislação invalidada, e essa CORTE tem se mostrado sensível ao impacto de suas decisões na realidade social subjacente ao objeto de seus julgados. 6. Há um ônus argumentativo de maior grau em se pretender a preservação de efeitos inconstitucionais, que não vislumbro superado no caso em debate. Prolongar a incidência da TR como critério de correção monetária para o período entre 2009 e 2015 é incongruente com o assentado pela CORTE no julgamento de mérito deste RE 870.947 e das ADIs 4357 e 4425, pois virtualmente esvazia o efeito prático desses pronunciamentos para um universo expressivo de destinatários da norma. 7. As razões de segurança jurídica e interesse social que se pretende prestigiar pela modulação de efeitos, na espécie, são inteiramente relacionadas ao interesse fiscal das Fazendas Públicas devedoras, o que não é suficiente para atribuir efeitos a uma norma inconstitucional. 8. Embargos de declaração todos rejeitados. Decisão anteriormente proferida não modulada”. (RE 870947 ED, Rel. Min. Luiz Fux, Redator do Acórdão Min. Alexandre de Moraes, Tribunal Pleno, DJe 3.2.2020)
+
+    Efetivamente, a despeito de ambos os precedentes mencionados acima (tema 810 e ADIs 4357 e 4425) tratarem sobre a mesma matéria, distinguem-se na medida em que, na repercussão geral, discute-se a validade dos índices previstos no art. 1º-F, da Lei nº 9.494/1997, para débitos ainda sem expedição da respectiva ordem de pagamento, enquanto que no controle concentrado de constitucionalidade discutiu-se tal questão sob à ótica das ordens já expedidas ou pagas.
+
+    Na espécie, trata-se de processo em fase de execução em que não houve o pagamento ou mesmo a expedição do precatório, motivo pelo que se nota que o acórdão do Tribunal de origem destoa da jurisprudência desta Corte, visto que não aplicou a tese fixada no julgamento do tema 810 da repercussão geral em hipótese que deveria ser aplicada.
+
+    Ante o exposto, dou parcial provimento ao recurso extraordinário (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) unicamente para fazer incidir a tese fixada no julgamento do tema 810 da repercussão geral, de maneira a afastar a incidência do índice de correção monetária previsto no art. 1º-F, da Lei nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009.
+
+    Tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente (eDOC 50, p. 9), observados os limites previstos nos §§ 2º e 3º do referido dispositivo.
+
+    Considerando-se que houve sucumbência recíproca nos autos dos embargos à execução, assim como nos autos do presente recurso extraordinário, ressalto que a majoração deverá incidir sobre o percentual devido por ambas as partes.
+
+    Publique-se.
+
+    Brasília, 4 de abril de 2022.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
