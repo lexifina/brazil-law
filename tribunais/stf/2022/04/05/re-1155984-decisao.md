@@ -1,0 +1,51 @@
+DIREITO ADMINISTRATIVO. CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA. UTILIZAÇÃO DA TR. TEMA Nº 810. DECISÃO RECORRIDA EM DIVERGÊNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO A QUE SE DÁ PROVIMENTO.
+
+    Vistos etc.
+
+    Contra o acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, manejam recurso extraordinário, com base no art. 102, III, da Lei Maior, Benedita Borsoni e outro(a/s).
+
+    Sustentam a inconstitucionalidade da utilização da TR para correção monetária após a data de 25.3.2015. Defendem a incidência do Índice Nacional de Preços ao Consumidor Amplo Especial (IPCA-E). Aparelhado o recurso na violação dos arts. 2º, 5º, XXII e XXXVI, 60, § 4º, III, e 100, § 12, da Lei Maior.
+
+    A Corte de origem deu parcial provimento ao recurso de apelação do Município de São Paulo para fixar a “correção monetária pela Tabela Prática para Cálculo de Débitos Judiciais do TJSP até 30/06/2009, aplicando-se a seguir os critérios da Lei 11.960/09”. O acórdão está assim ementado:
+
+    “Ação ordinária. Servidores públicos do Município de São Paulo. Inclusão da Gratificação Especial do Regime de Plantão e da Gratificação Especial pela Prestação de Serviços Assistenciais em Saúde na base de cálculo do 13º salário e do terço constitucional de férias. Admissibilidade. Gratificações instituídas pela Lei Municipal nº 11.716/95. Alterações legislativas que conferiram a essas vantagens caráter genérico. CF, art. 7º, VIII e XVII c.c. 39, § 3º. Art. 8º da Lei Municipal nº 11.716/95 que excluía as gratificações da base de cálculo do 13º salário e do terço de férias declarado inconstitucional pelo Órgão Especial deste E. Tribunal. Correção monetária pela Tabela Prática para Cálculo de Débitos Judiciais do TJSP até 30/06/2009, aplicando-se a seguir os critérios da Lei 11.960/09, e juros de mora pelos índices de juros aplicados à caderneta de poupança, observando-se o que for decidido pelo STF quanto à Repercussão Geral (Tema nº 810) no RE 870.947. Alteração do valor dos honorários advocatícios, fixando-os com base no art. 20, § 4º, do CPC. Sentença de procedência. Recursos oficial e voluntário do réu parcialmente providos."
+
+    Em juízo de retratação, considerado o Tema nº 810 da repercussão geral, a Corte de origem, em atenção ao art. 1.040, II, do CPC, readequou parcialmente sua compreensão original para restringir a incidência da TR até 25.3.2015. Extraio do acórdão contra o qual interposto o apelo extremo em questão:
+
+    “Recurso Extraordinário. Juízo de retratação. Art. 1.040, II, CPC. Ação ordinária. Servidores públicos do Município de São Paulo. Inclusão da Gratificação Especial do Regime de Plantão e da Gratificação Especial pela Prestação de Serviços Assistenciais em Saúde na base de cálculo do 13º salário e do terço constitucional de férias. Admissibilidade. Correção monetária pela Tabela Prática para Cálculo de Débitos Judiciais do TJSP até 30/06/2009, aplicando-se a seguir os critérios da Lei 11.960/09 (TR) até 25/03/2015 e após o IPCA-E. Juros de mora pelos índices de juros aplicados à caderneta de poupança. RE 870.947 Repercussão Geral Tema 810 e modulação na ADI 4357. Readequação parcial do acórdão original.”
+
+    Admitido o recurso extraordinário, determinei o retorno dos autos à Corte de origem para aplicação da sistemática da repercussão geral, considerado o RE 870.947-RG – Tema nº 810.
+
+    Por determinação da Vice-Presidência da Corte a quo, foram os autos novamente encaminhados a esta Suprema Corte.
+
+    É o relatório.
+
+    Decido.
+
+    Preenchidos os pressupostos extrínsecos.
+
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo assistir razão ao recorrente.
+
+    O entendimento adotado no acórdão recorrido diverge da jurisprudência deste Supremo Tribunal Federal, firmada no julgamento do RE 870.947-RG, Tema nº 810 da repercussão geral, no qual assentada a tese de que:
+
+    “II - O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina.”
+
+    O acórdão está assim ementado:
+
+    “DIREITO CONSTITUCIONAL. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ART. 1º-F DA LEI Nº 9.494/97 COM A REDAÇÃO DADA PELA LEI Nº 11.960/09. IMPOSSIBILIDADE JURÍDICA DA UTILIZAÇÃO DO ÍNDICE DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA COMO CRITÉRIO DE CORREÇÃO MONETÁRIA. VIOLAÇÃO AO DIREITO FUNDAMENTAL DE PROPRIEDADE (CRFB, ART. 5º, XXII). INADEQUAÇÃO MANIFESTA ENTRE MEIOS E FINS. INCONSTITUCIONALIDADE DA UTILIZAÇÃO DO RENDIMENTO DA CADERNETA DE POUPANÇA COMO ÍNDICE DEFINIDOR DOS JUROS MORATÓRIOS DE CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA, QUANDO ORIUNDAS DE RELAÇÕES JURÍDICO-TRIBUTÁRIAS. DISCRIMINAÇÃO ARBITRÁRIA E VIOLAÇÃO À ISONOMIA ENTRE DEVEDOR PÚBLICO E DEVEDOR PRIVADO (CRFB, ART. 5º, CAPUT). RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO. 1. O princípio constitucional da isonomia (CRFB, art. 5º, caput), no seu núcleo essencial, revela que o art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina os juros moratórios aplicáveis a condenações da Fazenda Pública, é inconstitucional ao incidir sobre débitos oriundos de relação jurídico-tributária, os quais devem observar os mesmos juros de mora pelos quais a Fazenda Pública remunera seu crédito; nas hipóteses de relação jurídica diversa da tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto legal supramencionado. 2. O direito fundamental de propriedade (CRFB, art. 5º, XXII) repugna o disposto no art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, porquanto a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina. 3. A correção monetária tem como escopo preservar o poder aquisitivo da moeda diante da sua desvalorização nominal provocada pela inflação. É que a moeda fiduciária, enquanto instrumento de troca, só tem valor na medida em que capaz de ser transformada em bens e serviços. A inflação, por representar o aumento persistente e generalizado do nível de preços, distorce, no tempo, a correspondência entre valores real e nominal (cf. MANKIW, N.G. Macroeconomia. Rio de Janeiro, LTC 2010, p. 94; DORNBUSH, R.; FISCHER, S. e STARTZ, R. Macroeconomia. São Paulo: McGraw-Hill do Brasil, 2009, p. 10; BLANCHARD, O. Macroeconomia. São Paulo: Prentice Hall, 2006, p. 29). 4. A correção monetária e a inflação, posto fenômenos econômicos conexos, exigem, por imperativo de adequação lógica, que os instrumentos destinados a realizar a primeira sejam capazes de capturar a segunda, razão pela qual os índices de correção monetária devem consubstanciar autênticos índices de preços. 5. Recurso extraordinário parcialmente provido” (RE 870947, Relator(a): Min. Luiz Fux, Tribunal Pleno, Repercussão Geral - Mérito DJe 20.11.2017).
+
+    Ao julgamento dos embargos de declaração opostos, esta Suprema Corte, por maioria, rejeitou os declaratórios e não modulou os efeitos da decisão anteriormente proferida, nos termos do voto do Ministro Alexandre de Moraes, Redator para o acórdão, no qual consignado que “Prolongar a incidência da TR como critério de correção monetária para o período entre 2009 e 2015 é incongruente com o assentado pela CORTE no julgamento de mérito deste RE 870.947 e das ADIs 4357 e 4425, pois virtualmente esvazia o efeito prático desses pronunciamentos para um universo expressivo de destinatários da norma” (RE 870947 ED, Relator(a): Luiz Fux, Redator(a) p/ Acórdão: Alexandre de Moraes, Tribunal Pleno, DJe 03.02.2020).
+
+    Por seu turno, na esteira da jurisprudência desta Suprema Corte, a existência de precedentes firmados pelo Plenário do Supremo Tribunal Federal autoriza o julgamento imediato de causas que versem o mesmo tema, consoante se denota dos seguintes julgados: ARE 707.863-ED/RS, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 20.11.2012; e ARE 686.607-ED/RS, Rel. Min. Dias Toffoli, 1ª Turma, DJe 03.12.2012, este assim ementado:
+
+    “Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Previdenciário. Benefício. Revisão. Repercussão geral. Inexistência. Precedente do Plenário. Falta de publicação. Aplicação. Possibilidade. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. A existência de precedente firmado pelo Tribunal Pleno desta Corte autoriza o julgamento imediato de causas que versem sobre a mesma matéria, independentemente da publicação ou do trânsito em julgado do paradigma. 3. Ausência de repercussão geral do tema relativo à adoção, para fins de revisão de renda mensal de benefício previdenciário, dos mesmos índices aplicados para o reajuste do teto do salário-de-contribuição, relativamente aos meses de junho/99 e maio/04, haja vista a necessidade do exame da legislação infraconstitucional. 4. Agravo regimental não provido.”
+
+    Ante o exposto, forte no art. 21, §§ 1º e 2º, do RISTF, dou provimento ao recurso extraordinário para afastar a incidência da TR como critério de correção monetária para o período entre 2009 e 2015 e determinar que seja feita nos moldes em que decidido no julgamento do RE 870.947-ED, Rel. Min. Luiz Fux, Redator(a) p/ Acórdão: Alexandre de Moraes, Tribunal Pleno, DJe 03.02.2020 – Tema nº 810.
+
+    Publique-se.
+
+    Brasília, 5 de abril de 2022.
+
+Ministra Rosa Weber
+
+Relatora
