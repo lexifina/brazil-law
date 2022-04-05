@@ -1,0 +1,37 @@
+DECISÃO:
+
+    1. Trata-se de reclamação, com pedido liminar, ajuizada por Adailson Pires Santiago e outros contra decisão do Presidente da 1ª Turma Recursal Cível e Criminal de São Luís/MA (Autos nº 0832744-32.2018.8.10.0001), que negou seguimento ao recurso extraordinário interposto pelos reclamantes, com base na sistemática da repercussão geral.
+
+    2. Os reclamantes alegam que a decisão impugnada usurpou a competência do Supremo Tribunal Federal (STF) para realizar o exame de admissibilidade do recurso extraordinário. Requer, em caráter liminar, a suspensão do processo e, ao final, seja julgada procedente a presente reclamação, para cassar a decisão reclamada, com a prolação de nova decisão adequada à solução da controvérsia. Pedem, ainda, a concessão da gratuidade de justiça.
+
+    3. É o relatório. Decido.
+
+    4. Dispenso as informações, em face da suficiente instrução do feito, bem como da manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único). Deixo, ademais, de determinar a citação da parte beneficiária da decisão reclamada, ante a manifesta inviabilidade do pedido.
+
+    5. A ausência de juntada de procuração da parte reclamante outorgada a seus representantes judiciais ensejaria a abertura de prazo para emenda da inicial, nos termos dos arts. 319, 320 e 321 do CPC. Não obstante, tendo em conta que os advogados subscritores da inicial são os mesmos que representaram a parte no processo de origem, examino desde logo o pedido cautelar.
+
+    6. Compete aos órgãos jurisdicionais de origem o exame preliminar da viabilidade de recurso extraordinário. No caso em análise, a inadmissão do recurso extraordinário teve por fundamento o art. 1.030, inciso I, a, do CPC. Transcrevo o teor da decisão:
+
+    “No que concerne, especificamente, ao requisito da demonstração de repercussão geral das questões constitucionais discutidas no caso, estabelecido pela Emenda Constitucional nº. 45/04, que acrescentou o parágrafo 3º ao artigo 102 da Constituição Federal de 1988, constata-se o não atendimento pela parte Recorrente da demonstração desse requisito, não obstante tenha havido arguição em preliminar específica. É ônus da parte Recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional versada no Recurso Extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica. Não bastam, portanto, para que seja atendido o requisito previsto no art. 102, parágrafo 3º, da Carta Magna, e no art. 1.029 do Código de Processo Civil, alegações genéricas a respeito do instituto, como a mera afirmação de que: (a) a matéria controvertida tem repercussão geral; (b) o tema goza de importância econômica, política, social ou jurídica; (c) a questão ultrapassa os interesses subjetivos da parte ou tem manifesto potencial de repetitividade; (d) a repercussão geral é consequência inevitável de suposta violação de dispositivo constitucional (Nesse sentido: ARE 691.595-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma; ARE 696.263-AgR, Rel. Min. Luiz Fux, Primeira Turma). Ao contrário do alegado pela parte Recorrente, não ficou demonstrada a razão pela qual a questão constitucional versada no Recurso Extraordinário seria relevante, sob o ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos da causa. Houve mera alegação de existência do requisito, sem que fosse demonstrado o efetivo preenchimento dos pressupostos acima referidos, não satisfazendo, por isso, a exigência prevista no art. 327, § 1º, do RISTF (Nesse sentido: ADI 1.075, Rel. Celso de Mello). Ademais, pretende a parte Recorrente, de forma reflexa, com o apelo extraordinário à Corte Suprema de Justiça, sob o argumento de que houve ofensa a dispositivos da Constituição Federal, em verdade, reexame dos fatos e das provas, o que não é admitido por essa via recursal. Ainda assim, é manifestamente assente o entendimento de que a afronta a tais princípios, no presente caso, apresentar-se-ia somente de forma indireta, ou seja, caracterizadora de ofensa reflexa ao texto constitucional (RTJ: 147/251, 159/328, 161/284, 170/627-628), não bastando, por si só, para viabilizar o acesso à via recursal extraordinária. Além disso, o Supremo Tribunal firmou entendimento no sentido de que a ofensa meramente reflexa ao texto constitucional inviabiliza o processamento do recurso extraordinário. Por guardar pertinência ao caso em concreto, colaciono o seguinte aresto: [...] De mais a mais, rediscutir a matéria anteriormente apreciada e dirimida, mesmo sustentando restar violado artigos da Constituição Federal, é insuficiente para lastrear o decisum a quo, pois exige o reexame de provas, o que encontra obstáculo nas Súmulas 279 (‘Para simples reexame de prova não cabe recurso extraordinário’) e 282 (‘É inadmissível recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada’), ambas do Supremo Tribunal Federal. Desse modo, a partir do momento em que a pretensão da parte Recorrente consiste em examinar a convicção judicial, consolidada em questão de direito, observa-se que o cerne do Recurso Extraordinário se transmuta para análise de questões fáticas, que, in casu, foram julgadas com base em legislação infraconstitucional, o que inviabiliza o seu conhecimento. Ante o exposto, por lhe faltarem pressupostos da repercussão geral, decido pela inadmissibilidade do presente recurso extraordinário, NEGANDO-LHE SEGUIMENTO.”
+
+    7. Contra essa decisão, a parte reclamante interpôs agravo em recurso extraordinário, tendo a autoridade reclamada inadmitido o feito, assinalando que, “em não se tratando de decisão de inadmissibilidade proferida com fundamento no inciso V do art. 1.030 do CPC (§ 1º do art. 1.030), incabível o agravo baseado no art. 1.042. O recurso aceitável seria o Agravo Interno”.
+
+    8. Assim, considerando que na presente hipótese houve a negativa de seguimento do recurso extraordinário com fundamento em paradigma de repercussão geral, o agravo interno é o único recurso cabível, nos termos do art. 1.030, § 2º, do CPC, configurando, inclusive, erro grosseiro a interposição do agravo do art. 1.042, razão pela qual a remessa do agravo para apreciação pelo STF não é viável.
+
+    9. Esta sistemática de impugnação das decisões que aplicam precedente da repercussão geral já vigia no regime processual do CPC/73, desde o julgamento pelo STF da Questão de Ordem no AI 760.358, Rel. Min. Gilmar Mendes, em 19.11.2009, data a partir da qual não mais se admite a conversão de recurso diverso em agravo interno.
+
+    10. Na mesma linha, cito a decisão monocrática proferida pelo Ministro Gilmar Mendes na Rcl 49.534, referente a caso semelhante ao dos autos.
+
+    11. De todo modo, o conhecimento de agravo do art. 1042 encontraria óbice nas Súmulas 279 e 280/STF, tendo em vista que o acórdão recorrido solucionou a controvérsia amparado nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário.
+
+    12. Assim, não há que se falar em usurpação da competência do STF.
+
+    13. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação. Defiro o pedido de gratuidade de justiça. Sem honorários, porquanto não citada a parte interessada.
+
+    Publique-se.
+
+          Brasília, 05 de abril de 2022.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
