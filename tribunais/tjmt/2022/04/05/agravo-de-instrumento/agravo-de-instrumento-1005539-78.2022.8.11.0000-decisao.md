@@ -1,0 +1,34 @@
+AGRAVO DE INSTRUMENTO No 1005539-78.2022.8.11.0000
+AGRAVANTE:- PEDRO RODRIGUES ALEXANDRIA
+AGRAVADA:- AGROPECUARIA PORTEIRA QUEBRADA LTDA - ME
+Agravo de Instrumento n. 1005539-78.2022.8.11.0000 de decisão da 6a Vara de Alta Floresta que, em Cumprimento de Sentença proferida em Ação de Reintegração de Posse, corrigiu erro material na sentença, proferido nos seguintes termos:
+JULGO PROCEDENTE o pedido inicial para confirmar a medida liminar anteriormente concedida e para REINTEGRAR a parte autora AGROPECUÁRIA PORTEIRA QUEBRADA LTDA. na posse do imóvel rural delimitado pelo polígono azul do mapa de fl. 670, sendo que a posse da Autora é delimitada pelos alinhamentos das picadas e linhas descritas nesse mapa e também pelas coordenadas indicadas na tabela de fl. 667 e DETERMINAR que o corréu PEDRO RODRIGUES ALEXANDRIA, que ainda ocupa uma porção da área de posse da Autora, volte a respeitar o limite expresso no alinhamento da picada “D” de mapa de fl. 670, vez que a perícia foi clara e precisa em afirmar que a picada chamada “D” do mapa de fl. 670 era a divisão entre a posse do corréu Pedro e da Autora, também respeitando as coordenadas apontadas pelo Perito à fl. 667, quais sejam a linha que liga os pontos P17 10o22’41,8’’S e P18 10o23’03,8’’S, ficando autorizado, se necessário, a destruição de cercas divisórias. Como o corréu Pedro Rodrigues Alexandria avançou sobre a área da autora já no curso da ação, fica ele declarado como possuidor de má fé sobrea a área ora reintegrada.
+O agravante alega que, a pretexto de corrigir erro material, o juízo a quo acabou alterando a sentença transitada em julgado, ampliando o comando da decisão de mérito que foi prolatada na fase de conhecimento, e que não foi alterada a despeito dos sucessivos recursos interpostos nas fases processuais oportunas.
+Aduz que é impossível a reintegração de posse, notadamente diante da ausência de informações objetivas nos autos e carência de prova técnica a permitir o cumprimento, e, ainda, pela precariedade do trabalho pericial produzido na fase de conhecimento (perícia inconclusiva), descabendo ao Juiz inovar na prova técnica pericial, e mais ainda na r. sentença objeto de cumprimento, pois isso caracteriza afronta a coisa julgada.
+Diz que o oficial de justiça cumpriu a reintegração nos termos da sentença, porém não correspondeu às expectativas da agravada quanto a exata localização da área que, por isso, inovou no processo, arguindo erro material no laudo pericial que jamais existiu.
+Frisa que, no momento do cumprimento do mandado de reintegração de posse, estavam presentes os assistentes técnicos da própria autora (agravada), e não colocaram nenhum obstáculo.
+Afirma que houve violação da coisa julgada, já que o ponto modificado não corresponde ao que se denomina de erro material, além de ter ocorrido a preclusão pro judicato.
+Pede o efeito suspensivo.
+É o relatório.
+Trata-se de Cumprimento de Sentença em Ação de Reintegração de Posse.
+Depois de cumprido o mandado, a agravada alegou erro material no laudo pericial que foi produzido ainda na fase de conhecimento, e, consequentemente, induziu o juiz a erro no momento da sentença.
+O pedido foi acatado pelo juízo a quo, e o decisum está assim consignado:
+(...)
+Em detida análise ao laudo pericial, nota-se que em fls. 644, o perito descreve as “Picadas B e D” com as mesmas coordenadas, veja-se no trecho a seguir:
+“Picada B, na face leste da parte 01. No ponto 01, de coordenada 10o18’41’’ S e 56o40’34’’ W era o entroncamento desta com a Picada A.
+(...)
+Picada D, localizada na face oeste da área em questão (partes 01 e 02). No P17 de coordenada geográfica 10o18’41’’ S e 56o40’34’’ W era o entroncamento desta com a picada C. Deste ponto a picada D seguia, em mesmo alinhamento, para o norte e para o sul. Dirigindo-se para esta última direção, quando chega-se ao ponto P18, essa picada encontra-se com um desmatamento, não sendo mais possível vê-la fisicamente. Porém, ao analisar uma imagem de satélite do ano de 2004, o perito notou que o desmate da área confrontante, a partir do local que ela foi interrompida, chega contíguo ao seu prolongamento, entrando, não a transpõe. Então, ao analisar outra imagem, de meados do ano de 2005, percebeu-se que a mesma área desmata expandiu-se para o leste ultrapassado o prolongamento. Ainda seguindo no mesmo alinhamento e direção, transpondo o referido desmate, há novamente vestígio dessa picada. ”
+Observa-se, no Mapa 02 (fl.670), que de fato são áreas de coordenadas totalmente distintas, conforme alegado pela parte autora, ponto esse que não fora observado pelo perito ao descrever as picadas em fl. 644.
+Imperioso destacar que, na tabela descritiva de fl. 667 DO PRÓPRIO LAUDO PERICIAL, os pontos de ligamentos da “picada D” possuem as seguintes coordenadas P17 10o22’41,8’’S e P18 10o23’03,8’’S, o que não condiz com o relatado pelo perito em fl. 644, evidenciando-se explícito erro material no laudo, o qual induziu o juízo a erro material também, não sendo impugnado pela parte autora quando lhe oportunizada manifestação.
+Neste ponto, consoante se vê na sentença, a convicção do juízo baseia-se no mapa de fl. 670, de forma correta e inequívoca, passando despercebido, naquele momento, o equívoco do perito no descrito em fl. 644, motivo que culminou o erro material na sentença.
+Por este motivo, em que pese as declarações equivocadas do perito judicial em fl. 644, as coordenadas corretas foram demonstradas na tabela de fl. 667 também do próprio laudo pericial, o que possibilita a correção do erro material havido na sentença.
+Ainda, conforme demonstrado acima, não há que se falar em erro na diligência do oficial de justiça, que agiu corretamente na efetivação do cumprimento da ordem judicial emanada, sendo óbvio que o oficial de justiça não poderia corrigir o erro material da perícia e da sentença.
+Posto isso, consigno que o erro material é passível de correção em qualquer fase processual, podendo ser sanado a qualquer tempo, não configurando ofensa à coisa julgada após o trânsito em julgado da sentença, de acordo com o entendimento jurisprudencial do STJ, senão vejamos: (...) (Id 122596993)
+Sem adentrar no mérito das razões recursais, é evidente o dano iminente ao agravante, visto que, com a correção do suposto erro material, ele terá que desocupar a área, fato que poderá dificultar a situação caso o Recurso seja provido no final.
+Ademais, a matéria precisa ser analisada com cautela para se averiguar se não ocorreu a violação da coisa julgada.
+Por outro lado, não haverá prejuízo imediato à agravada, mesmo porque, o Agravo de Instrumento tem tramitação célere e, tão logo apresentada a contraminuta será imediatamente incluído em pauta para julgamento.
+Pelo exposto, defiro, por ora, o efeito suspensivo.
+Comunique-se ao juiz da causa e intime-se a parte adversa para oferecer resposta em quinze dias.
+Cuiabá, 5 de abril de 2022.
+Des. Rubens de Oliveira Santos Filho
+Relator
