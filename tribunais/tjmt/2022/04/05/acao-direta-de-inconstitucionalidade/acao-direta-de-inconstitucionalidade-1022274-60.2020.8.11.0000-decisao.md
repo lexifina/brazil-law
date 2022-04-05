@@ -1,0 +1,12 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+ÓRGÃO ESPECIAL
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE no 1022274-60.2020.8.11.0000 – Classe 95 – CNJ – CUIABÁ
+Autor: FEDERAÇÃO SINDICAL DOS SERVIDORES PÚBLICOS DO ESTADO DE MATO GROSSO
+Réus: ESTADO DE MATO GROSSO e ASSEMBLEIA LEGISLATIVA DO ESTADO DE MATO GROSSO
+Número do Processo: 1022274-60.2020.8.11.0000
+Encaminhem-se os autos à douta Procuradoria Geral de Justiça para emissão de parecer.
+Após, voltem-me conclusos.
+Cumpra-se.
+Cuiabá, 05 de abril de 2.022
+Des. JOÃO FERREIRA FILHO
+Relator
