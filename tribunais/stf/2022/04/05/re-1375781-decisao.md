@@ -1,0 +1,63 @@
+DIREITO PENAL E PROCESSUAL PENAL. ART. 5º, XXXV, DA LEI MAIOR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS Nº 282 E 356/STF. ACÓRDÃO RECORRIDO COM FUNDAMENTO NA LEGISLAÇÃO INFRACONSTITUCIONAL APLICÁVEL. INAFASTABILIDADE DA JURISDIÇÃO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O APELO EXTREMO. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO.
+
+    Vistos etc.
+
+    Contra o acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Norte, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Guilherme de Negreiros Diogenes Reinaldo. Aparelhado o recurso na violação do art. 5º, XXXV, da Constituição Federal.
+
+    Sustenta, em síntese, violação do princípio da inafastabilidade da jurisdição, porquanto o acórdão combatido teria excluído da competência do Poder Judiciário a análise sobre a proporcionalidade e a razoabilidade de medida imposta como condição para obtenção do benefício da suspensão condicional do processo previsto no art. 89 da Lei nº 9.099/1990.
+
+    É o relatório.
+
+    Decido.
+
+    Preenchidos os pressupostos extrínsecos.
+
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso. O acórdão recorrido possui a seguinte ementa:
+
+    “DIREITO PENAL E PROCESSUAL PENAL. SUSPENSÃO CONDICIONAL DO PROCESSO. CONDIÇÕES PROPOSTAS PELO MINISTÉRIO PÚBLICO E ACEITAS PELO DENUNCIADO. HOMOLOGAÇÃO PELO JUIZ. EXCLUSÃO DE DETERMINADA CONDIÇÃO. NÃO ADMISSIBILIDADE. LITERALIDADE DA NORMA. POSSIBILIDADE DE ALTERAÇÃO DAS CONDIÇÕES MAS PARA ACRESCENTAR OUTRAS CONDIÇÕES ADEQUADAS AO CASO E À SITUAÇÃO PESSOAL DA PARTE. ART. 89, § 2º DA LEI Nº 9.099/90. INTERPRETAÇÃO EXTENSIVA NÃO ADMITIDA. EMBARGOS INFRINGENTES DESPROVIDOS.”
+
+    Ao adequado enfrentamento da controvérsia, transcrevo, na fração de interesse, a fundamentação do acórdão recorrido:
+
+    “[...]
+
+    Compete ao órgão do Ministério Público propor as condições inerentes à suspensão condicional do processo prevista no art. 89 da lei nº 9.099/90 e ao acusado aceitá-las, como ato de vontade; da mesma forma, ao magistrado impor outras condições que entender necessárias e adequadas ao fato e às circunstâncias do caso, conforme dispõe o parágrafo 2º do mesmo artigo:
+
+    [...]
+
+    Ao juiz é dado o poder de homologar a proposta do representante ministerial e participar ativamente do processo, acrescentando outras condições que entender convenientes, desde que adequadas ao caso concreto; mas não lhe cabe excluir qualquer das condições propostas pelo Ministério Público e aceitas pelo acusado, por fugir à literalidade do dispositivo, bem como à interpretação restritiva aplicável ao direito processual penal.
+
+    No caso. as condições de prestação de serviço à comunidade, na Casa Durval Paiva de Apoio à Criança com Câncer, com jornada de 05 (cinco) horas semanais, bem como proibição do exercício de qualquer cargo ou função pública na Administração Direta e Indireta do Estado do Rio Grande do Norte e no Município de Natal oferecidas pelo representante ministerial e aceitas pela parte não podem ser excluídas pelo magistrado, portanto devem ser acrescidas à proposta de suspensão condicional do processo.
+
+    O Supremo Tribunal Federal e Superior Tribunal de Justiça já decidiram sobre a possibilidade de imposição das condições pelo magistrado, nos termos do art. 89, § 2º, fato incontroverso nos autos. Todavia, não há possibilidade de retirada de condições impostas pelo Ministério Público e aceitas pelo acusado porque o Órgão Ministerial possui o dominus litis e, nesse particular, firmou acordo aceito pela parte, não merecendo intervenção judicial, a qual somente tem amparo conforme dispõe a literalidade da norma na hipótese de acrescer demais condições que entender necessárias:
+
+    [...]”
+
+    De partida, verifico que a matéria constitucional versada no art. 5º, XXXV, da Lei Maior não foi analisada pelas instâncias ordinárias, tampouco opostos embargos de declaração para satisfazer o requisito do prequestionamento. Aplicável, na hipótese, o entendimento jurisprudencial vertido nas Súmulas nº 282 e 356/STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão suscitada” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”. Nesse sentido, o AI 743.256-AgR/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.3.2012, e o AI 827.894-AgR/RJ, Rel. Min. Marco Aurélio, 1ª Turma, unânime, DJe 07.11.2011, cuja ementa transcrevo:
+
+    “RECURSO EXTRAORDINÁRIO. Prequestionamento. CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou tese explícita a respeito do fato jurígeno veiculado nas razões recursais, inviabilizado fica o entendimento sobre a violência ao preceito evocado pelo recorrente. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.”
+
+    Lado outro, emerge do acórdão que ensejou o manejo do recurso extraordinário que as instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie (Lei nº 9.9099/1990), a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 636/STF: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida” .
+
+    Ademais, o exame de eventual ofensa ao preceito constitucional indicado nas razões recursais, consagrador do princípio da inafastabilidade da jurisdição (art. 5º da Lei Maior), demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal, verbis:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PENAL E PROCESSUAL PENAL. CRIME DE DESACATO. ARTIGO 331 DO CÓDIGO PENAL. SURSIS PROCESSUAL. ARTIGO 89 DA LEI 9.099/95. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. INVIABILIDADE DE VERIFICAÇÃO DE DECURSO DE PRAZO PARA FINS DE APLICAÇÃO DO ARTIGO 64, I, DO CÓDIGO PENAL. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. AGRAVO DESPROVIDO” (RE 878.628-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 04.9.2015).
+
+    “DIREITO PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AO ART. 5º, II, XXXV, XXXVI, XXXVII, LIII, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. LEGALIDADE. CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL. JUIZ NATURAL. INAFASTABILIDADE DA JURISDIÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. Inexiste violação do art. 93, IX, da Constituição Federal. A jurisprudência do Supremo Tribunal Federal é no sentido de que o referido dispositivo constitucional exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento. Enfrentadas todas as causas de pedir veiculadas pela parte, capazes de, em tese, influenciar no resultado da demanda, fica dispensando o exame detalhado de cada argumento suscitado, considerada a compatibilidade entre o que alegado e o entendimento fixado pelo órgão julgador. 2. O exame da alegada ofensa ao art. 5º, II, XXXV, XXXVI, XXXVII, LIII, LIV e LV, da Constituição Federal, observada a estreita moldura com que devolvida a matéria à apreciação desta Suprema Corte, dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, o que refoge à competência jurisdicional extraordinária prevista no art. 102 da Magna Carta. 3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 4. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça. 5. Agravo regimental conhecido e não provido” (ARE 971.889-AgR/PE, de minha LAVRA, Primeira Turma, DJe 05.4.2019).
+
+    “Agravo regimental no recurso extraordinário com agravo. Artigo 5º, inciso XXXV, da Constituição Federal. Ofensa reflexa. Prescrição. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido”(ARE 641.629-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, DJe 24.8.2011).
+
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. VIOLAÇÃO AOS LIMITES DA COISA JULGADA E AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL E DA INAFASTABILIDADE DA JURISDIÇÃO. QUESTÃO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL NEGADA (ARE 748.371, REL. MIN. GILMAR MENDES, TEMA 660). ART. 1º, III, DA CF. DISPOSIÇÃO DE CONTEÚDO GENÉRICO, INCAPAZ DE INFLUIR NOS ESPECÍFICOS TEMAS TRATADOS NO ACÓRDÃO. SÚMULA 284 DO STF. VIOLAÇÃO AO ART. 5º, LVIII, DA CF/88. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL MERAMENTE REFLEXA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VEDAÇÃO. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE 781.553-AgR/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 25.9.2015).
+
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal Eleitoral. 3. Corrupção eleitoral e formação de quadrilha. 4. Suposta violação aos princípios da inafastabilidade da jurisdição, ampla defesa, contraditório e devido processo legal. Ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Precedentes. 5. Autoria e materialidade. Necessidade de revolvimento do acervo fático-probatório. Incidência da Súmula 279. 6. Dosimetria da pena. Ausência de ilegalidade. A jurisprudência desta Suprema Corte entende que a dosimetria da pena submete-se a certa discricionariedade judicial. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Aos tribunais superiores, no exame da dosimetria das penas, em grau recursal, compete somente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional, o que não vislumbro no caso em deslinde. 7. Agravo regimental a que se nega provimento” (ARE 938.357-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 13.6.2016).
+
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+
+    Nego seguimento (art. 21, § 1º, do RISTF).
+
+    Publique-se.
+
+    Brasília, 05 de abril de 2022.
+
+Ministra Rosa Weber
+
+Relatora
