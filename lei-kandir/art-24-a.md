@@ -1,0 +1,10 @@
+Art. 24-A. Os Estados e o Distrito Federal divulgarão, em portal próprio, as informações necessárias ao cumprimento das obrigações tributárias, principais e acessórias, nas operações e prestações interestaduais, conforme o tipo.
+§ 1º O portal de que trata o caput deste artigo deverá conter, inclusive:
+I - a legislação aplicável à operação ou prestação específica, incluídas soluções de consulta e decisões em processo administrativo fiscal de caráter vinculante;
+II - as alíquotas interestadual e interna aplicáveis à operação ou prestação;
+III - as informações sobre benefícios fiscais ou financeiros e regimes especiais que possam alterar o valor a ser recolhido do imposto; e
+IV - as obrigações acessórias a serem cumpridas em razão da operação ou prestação realizada.
+§ 2º O portal referido no caput deste artigo conterá ferramenta que permita a apuração centralizada do imposto pelo contribuinte definido no inciso II do § 2º do art. 4º desta Lei Complementar, e a emissão das guias de recolhimento, para cada ente da Federação, da diferença entre a alíquota interna do Estado de destino e a alíquota interestadual da operação.
+§ 3º Para o cumprimento da obrigação principal e da acessória disposta no § 2º deste artigo, os Estados e o Distrito Federal definirão em conjunto os critérios técnicos necessários para a integração e a unificação dos portais das respectivas secretarias de fazenda dos Estados e do Distrito Federal.
+§ 4º Para a adaptação tecnológica do contribuinte, o inciso II do § 2º do art. 4º, a alínea "b" do inciso V do caput do art. 11 e o inciso XVI do caput do art. 12 desta Lei Complementar somente produzirão efeito no primeiro dia útil do terceiro mês subsequente ao da disponibilização do portal de que trata o caput deste artigo.
+§ 5º A apuração e o recolhimento do imposto devido nas operações e prestações interestaduais de que trata a alínea "b" do inciso V do caput do art. 11 desta Lei Complementar observarão o definido em convênio celebrado nos termos da Lei Complementar nº 24, de 7 de janeiro de 1975, e, naquilo que não lhe for contrário, nas respectivas legislações tributárias estaduais.
