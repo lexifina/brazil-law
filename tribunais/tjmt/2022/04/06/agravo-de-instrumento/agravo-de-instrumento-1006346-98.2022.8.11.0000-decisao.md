@@ -1,0 +1,21 @@
+Recurso de Agravo de Instrumento no 1006346-98.2022.8.11.0000 – Capital
+V I S T O S.
+Trata-se de recurso de agravo de instrumento com pedido de tutela antecipada recursal, interposto pelo Banco Sistema S.A., em face da decisão proferida pela MMa Juíza de Direito da 2a Vara Especializada em Direito Bancário da Comarca de Cuiabá, que nos autos da execução por título extrajudicial que move em face de Farah e Cia. Ltda., Dario Orlando Pereira Júnior e Badi Farah, homologou o laudo pericial apresentado, que indicou saldo devedor no montante de R$ 2.597.927,33 (dois milhões, quinhentos e noventa e sete mil, novecentos e vinte e sete reais e trinta e três centavos), mantendo o entendimento na decisão integrativa.
+Inconformado, o agravante defende que não restou correta a interpretação adotada pela douta magistrada, pois, de maneira arbitrária, o perito elaborou cálculos totalmente contrários aos critérios definidos pelo acórdão, bem como, deixou de aplicar os encargos previstos contratualmente. Defende a incidência dos juros remuneratórios durante o período de inadimplência, até o efetivo pagamento do débito.
+Segue sustentando que o perito elaborou o cálculo baseando-se em diretrizes incompatíveis com a prática contábil, utilizando valores indevidos como base de cálculo, sendo totalmente ilógica a evolução contábil apresentada. Afirma que, considerando as inúmeras oportunidades conferidas ao perito para corrigir os erros identificados pelo agravante, é essencial a designação de nova perícia, a ser realizada por outro profissional especialista na área de contabilidade. Pugna pela concessão da tutela antecipada recursal.
+É o relatório.
+Decido.
+Ab initio, faz-se necessário analisar o preenchimento dos requisitos de admissibilidade do presente recurso.
+Como se sabe, para cada tipo de decisão corresponde um recurso cabível, observando-se que a inadequação da via eleita acarreta a inadmissibilidade deste, em consonância ao princípio da taxatividade recursal.
+Da interpretação da legislação processual, verifica-se que o Código de Processo Civil prevê taxativamente as hipóteses de cabimento do recurso de agravo de instrumento, de modo que em princípio este se enquadra no parágrafo único, do art. 1.015, do CPC.
+Dito isso, para a concessão da antecipação da tutela recursal, prevista no art. 1.019, inc. I, do CPC, faz-se necessária a presença dos requisitos previstos no art. 300, do aludido diploma processual, quais sejam, a probabilidade de suas alegações e o perigo de dano.
+É de bom alvitre consignar que realmente deve ser observada a regra processual civil, de modo que não merece ser concedida a antecipação almejada, ante a ausência dos requisitos ensejadores, devendo aguardar a manifestação da douta magistrada a quo, bem como da contraminuta que poderá trazer elementos que possibilitem a melhor análise da questão agravada.
+Ademais, não há fato incondicional ou imediato que implique em qualquer perigo de dano ou risco ao resultado útil do processo, mormente porque eventual sucesso do recurso atingirá o pedido formulado, voltando ao status quo ante.
+Ressalto que os fundamentos aqui postos não vinculam a análise do mérito do agravo.
+Diante do exposto, indefiro a tutela antecipada recursal almejada por ausência de qualquer prejuízo e requisitos.
+Intimem-se os agravados para, querendo, apresentarem resposta no prazo de 15 (quinze) dias, nos termos do inc. II, do art. 1.019, do CPC.
+Oficie-se a douta juíza a quo para que preste as informações necessárias.
+P. I.
+Cuiabá, 06 de abril de 2022.
+CARLOS ALBERTO ALVES DA ROCHA
+Relator
