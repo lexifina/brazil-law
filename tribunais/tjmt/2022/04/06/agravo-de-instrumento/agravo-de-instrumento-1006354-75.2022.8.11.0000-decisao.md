@@ -1,0 +1,24 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto pelo BANCO FICSA S.A., com o fito de suspender a decisão que, nos autos da Ação de Devolução de Valores Creditados Indevidamente c/c Indenização por danos Morais e Materiais de n. 1000452-57.2022.8.11.0028, ajuizada por ELOIR MARQUES DE OLIVEIRA CAMPOS, deferiu o pedido de tutela de urgência e determinou que o agravante suspenda os descontos realizados na folha de pagamento da autora, ora agravada, referentes ao empréstimo discutido na lide, no prazo de 15 (quinze) dias, sob pena de multa diária no valor de R$ 100,00 (cem reais), limitada a R$ 5.000,00 (cinco mil reais).
+Para tanto, o agravante afirma que o pleno cumprimento da determinação judicial não depende somente dele, mas, também, do órgão responsável pelo pagamento do benefício, de modo que o exíguo prazo fixado pelo juízo singelo para efetivação da ordem cerceia o seu direito de defesa e, por tal razão, deve ser ampliado.
+Pondera que é totalmente incabível o arbitramento de multa diária quando se trata de prestações mensais, uma vez que somente poderá ser considerada descumprida a ordem quando descontada a prestação a que o agravante estava obrigado a abster-se de cobrar.
+Assevera que a multa aplicada, além de descabida, ignora o princípio da razoabilidade e da proporcionalidade, e, em razão disso, deve ser extirpada ou reduzida, a fim de evitar enriquecimento da parte demandante.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Da análise da questão posta, não decorre fundamento bastante para convencer da concessão da liminar recursal pretendida.
+No caso, a decisão recorrida bem observou os requisitos da antecipação de tutela, ao menos diante das provas e elementos que constavam nos autos no instante em que concedida.
+É que, pelo que consta dos autos, o agravante está efetuando descontos na folha de pagamento da agravada referente a um suposto contrato de empréstimo que a autora alega jamais ter contratado.
+Desse modo, é recomendável a suspensão dos descontos, até porque o agravante não trouxe aos autos nenhum documento que comprove a contratação do empréstimo pela requerida e a continuidade dos descontos certamente importará em prejuízo na esfera patrimonial da autora.
+Além disso, a questão atinente ao cabimento e redução/limitação do valor da multa diária, poderá ser enfrentada por ocasião do mérito do presente recurso, sem que, durante esse interregno, a parte sofra qualquer prejuízo.
+Não bastasse, o prazo de 15 (quinze) dias fixado pelo juízo singular para o cumprimento da ordem pelo agravante é mais do que suficiente, notadamente em face das facilidades que os sistemas digitais de que dispõe lhe proporciona.
+De outra feita, ainda que o juízo tivesse fixado prazo exíguo, nada impede que o agravante cumpra a ordem, comprovando que informou ao órgão pagador acerca da necessidade da suspensão da cobrança ou estornando o valor na conta bancária da agravada, caso haja sido descontado o valor do empréstimo discutido na lide.
+Assim, ao menos nesse instante, deve ser indeferida a liminar.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intime-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
