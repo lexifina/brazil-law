@@ -1,0 +1,164 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+
+1ª Turma Cível
+
+Processo N.
+AGRAVO DE INSTRUMENTO 0740014-81.2021.8.07.0000
+
+AGRAVANTE(S)
+MONEY EVENTOS EIRELI
+
+AGRAVADO(S)
+MARCUS VINICIUS DE ALMEIDA RAMOS
+
+Relator
+Desembargador TEÓFILO CAETANO
+
+Acórdão Nº
+1414407
+
+EMENTA
+
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ARGUIÇÃO DE NULIDADE DA PUBLICAÇÃO DE ATOS PROCESSUAIS. INTIMAÇÕES SOBRE DA DIGITALIZAÇÃO DOS AUTOS, RESULTADO NEGATIVO DE PESQUISA ELETRÔNICA DE ATIVOS, DEFERIMENTO DA INSTAURAÇÃO DE INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA E INTIMAÇÃO DA SÓCIA DA EMPRESA DEVEDORA. ATOS QUE CONTEMPLARAM O NOME DO PATRONA DA EXECUTADA COM GRAFIA ERRÔNEA DE UM DE SEUS SOBRENOMES. CORRETA VEICULAÇÃO DO NÚMERO DA INSCRIÇÃO NA OAB. NULIDADE. INOCORRÊNCIA. INTIMAÇÕES EFICAZES. INSURGÊNCIA. PREJUÍZO. INEXISTÊNCIA. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. DECLARAÇÃO DE NULIDADE DAS INTIMAÇÕES REALIZADAS. INVIABILIDADE. LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. AGRAVO DE INSTRUMENTO DESPROVIDO.
+
+1.      O estatuto processual, com pragmatismo, encerra a observação do princípio de que sem prejuízo não se proclama a nulidade como forma de se privilegiar o processo como simples instrumento de materialização do direito (NCPC, arts. 244 e 250), daí defluindo que a nulidade processual somente deve ser afirmada, em conformidade com o norte teleológico do processo, em derivando do vício prejuízo à parte afetada, conforme o princípio da instrumentalidade das formas, donde, se inexistente esse prejuízo, os princípios informadores do processo, notadamente a instrumentalidade das formas, celeridade, economia e efetividade, devem sobrepujar sobre o vício procedimental que não maculara o processo nem ensejará prejuízo algum à parte diretamente afetada.
+
+2.      Conquanto patente que, de conformidade com o disposto no artigo 272, §4º, do estatuto processual vigente, “a grafia dos nomes dos advogados deve corresponder ao nome completo e ser a mesma que constar da procuração ou que estiver registrada na Ordem dos Advogados do Brasil”, sobeja que aludida norma tivera por objetivo a correta identificação do causídico ao qual se destina a intimação, evitando-se confusões entre homônimos ou dúvida razoável acerca da pessoa do advogado à qual é endereçada, daí defluindo que, embora realizadas publicações permeadas do erro material havido na grafia do sobrenome do patrono da parte, havendo os atos alcançado seu desiderato, notadamente porque consignara sua correta inscrição na OAB-DF, fica patente a inexistência de fundamento legítimo apto a sustentar a ineficácia das publicação realizadas.
+
+3.       Não obstante as publicações que veicularam intimação à parte executada tenham consignado equívoco em um dos sobrenomes de seu patrono, não tendo havido prejuízo evidenciado em razão do erro, pois tivera a parte ciência da deflagração da fase executiva, permanecendo inerte, e, na sequência, o curso processual não alcançara seu desiderato, pois não encontrados bens penhoráveis, não lhe advindo prejuízo sequer com a deflagração de incidente de desconsideração de personalidade jurídica, pois os sócios deverão ser citados para se defenderem, a par de a erronia no nome do douto patrono ressoar insignificante, o havido não induz ineficácia às intimações, não ressoando possível o reconhecimento de nulidade das intimações assim perfectibilizadas.
+
+4.      Aviado o recurso aparelhado por argumentação desenvolvida em conformidade com a realidade processual, não subsiste fato imputável à parte recorrente passível de conduzir ao reconhecimento de que agira com má-fé, sujeitando-se à pena cabível para a hipótese (CPC, art. 80), inclusive porque, aliado à postura processual do litigante, o reconhecimento da litigância de má-fé reclama a constatação do elemento subjetivo, à medida que a má-fé processual equivale à antítese de boa-fé inscrita como dever inerente a todo litigante (CPC, art. 5º), que equivale à boa-fé subjetiva, donde, para a configuração da litigância de má-fé, o litigante deve atuar dolosamente e em contradição com a finalidade do processo, através da violação da verdade e do abuso dos atos processuais.
+
+5.         Agravo de instrumento conhecido e desprovido. Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, TEÓFILO CAETANO - Relator, SIMONE LUCINDO - 1º Vogal e RÔMULO DE ARAÚJO MENDES - 2º Vogal, sob a Presidência da Senhora Desembargadora SIMONE LUCINDO, em proferir a seguinte decisão: CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 18 de Abril de 2022
+
+Desembargador TEÓFILO CAETANORelator
+
+RELATÓRIO
+
+Cuida-se de agravo de instrumento, com pedido de efeito suspensivo ativo, interposto pela sociedade empresária Money Eventos Eireli em face da decisão que, nos autos do cumprimento de sentença promovido em seu desfavor pelo agravado – Marcus Vinícius de Almeida Ramos –, indeferira o pedido que formulara almejando o reconhecimento da nulidade das intimações posteriores a março de 2016, nas quais o nome de seu patrono não estava grafado corretamente, assegurando-lhe, por conseguinte, oportunidade para manifestar-se sobre a digitalização dos autos. Segundo o provimento guerreado, conquanto a grafia do nome do patrono da agravante esteja equivocada, o número da inscrição na OAB/DF encontra-se correto, não sobejando possível o reconhecimento da nulidade apontada.
+
+Salientara o julgado, outrossim, que o erro havido nas publicações não ensejara qualquer prejuízo à agravante, porquanto, desde o início das publicações impugnadas, não foram localizados bens passíveis de penhora de sua titularidade, circunstância que determinara a suspensão do curso procedimental na data de 18.08.2017. Pontuara alfim que, o cumprimento de sentença permanecera arquivado até o ano de 2021, quando fora promovida a digitalização dos autos e instaurado o incidente de desconsideração da personalidade jurídica, não havendo sequer iniciado o prazo para os sócios apresentarem contestação, devendo ser rejeitada a alegação de nulidade processual. De sua parte, objetiva a agravante, in limine, a concessão de efeito suspensivo ao recurso de forma que sejam suspensos os efeitos da decisão arrostada, e, no mérito, a reforma da decisão agravada anulando-se todas as publicações nas quais o nome de seu patrono não estava grafado corretamente.
+
+Como lastro apto a aparelhar a pretensão reformatória que veiculara, argumentara, em suma, que o agravado manejara em seu desfavor cumprimento de sentença almejando forrar-se com o crédito correspondente aos honorários advocatícios de sucumbência que lhe foram assegurados pelo título executivo. Sustentara que sua representação processual sempre fora exercida pelo Dr. Robson Neves Fiel dos Santos, OAB/DF nº 8019, e até a data de 01.03.2016, todas as publicações realizadas no cumprimento de sentença encontravam-se escorreitas. Esclarecera que as publicações posteriores à data individualizada registraram o nome de seu patrono de forma equivocada, pois passaram a consignar o nome de seu patrono com erro, a saber, Dr. Robson Antônio Fiel dos Santos, OAB/DF nº 8019.
+
+Observara que, diante do equívoco no sobrenome de seu patrono, não realizara a leitura das publicações realizadas nos Diários Oficiais, de modo que não tivera conhecimento da realização dos seguintes atos processuais: (i) intimação sobre a digitalização dos autos físicos; (ii) resultado negativo da pesquisa ao sistema Bacenjud e retorno dos autos ao arquivo; (iii) decisão deferindo a instauração do incidente de desconsideração da personalidade jurídica; e (iv) decisão determinando a intimação da sócia Cláudia Silva Monturil Batista. Registrara que todos os atos individualizados foram publicados com a consignação do nome errado do seu patrono.
+
+Defendera que o equívoco na grafia no nome de seu patrono impedira o conhecimento da prática dos atos processuais realizados no cumprimento de sentença, circunstância que ensejara violação ao exercício do seu direito à ampla defesa. Pontuara que o fato de o número da inscrição de seu advogado perante a OAB/DF encontrar-se correto afigura-se irrelevante e não obsta o reconhecimento da nulidade apontada, tendo em vista que a grafia do nome do causídico estava errada. Assinalara que, independentemente da ocorrência de prejuízo, na hipótese, ocorrera ofensa ao devido processo legal e ao direito à ampla defesa. Ressaltara que, diante do erro no nome de seu advogado que constara da publicação, não se manifestara sobre os cálculos do crédito executado confeccionados pelo agravado.
+
+Afirmara que, para a validade das publicações processuais, afigura-se indispensável que o nome das partes e de seu advogado estejam grafados corretamente, o que não ocorrera no caso, devendo ser reconhecida a nulidade processual individualizada. Realçara que, diante dessas circunstâncias, estando patente a plausibilidade do direito que vindica, a decisão devolvida a reexame afigura-se desprovida de sustentação, devendo, portanto, ser reformada, o que legitima, inclusive, estando a argumentação que alinhara revestida de verossimilhança, a concessão do provimento em sede de antecipação da tutela recursal, suspendendo-se a decisão agravada.
+
+Encaminhado o recurso ao ambiente do plantão judicial, o eminente Desembargador Plantonista nada provera quanto ao pleito liminar, apreendendo não tratar-se de medida passível de apreciação naquela sede[1]. Vindo os autos a essa relatoria, fora admitido o processamento do agravo, oportunidade em que o efeito suspensivo reclamado fora indeferido e determinada a comunicação do decidido ao ilustrado prolator do provimento arrostado e assinado prazo ao agravado para, querendo, contrariar o agravo[2].
+
+O agravado, devidamente intimado, contrarrazoara o recurso, requestando, em suma, seu desacolhimento, e, sustentando tratar-se o agravo de recurso meramente protelatório, postulara a aplicação ao agravado das cominações legais de praxe[3].
+
+É o relatório.
+
+[1] - ID Num. 31712588.
+
+[2] - ID Num. 32422107.
+
+[3] - ID Num. 33210597.
+
+VOTOS
+
+O Senhor Desembargador TEÓFILO CAETANO - Relator
+
+Cabível, tempestivo, preparado, subscrito por advogado devidamente constituído e corretamente aparelhado, satisfazendo, pois, os pressupostos objetivos e subjetivos de recorribilidade que lhe são próprios, conheço do agravo.
+
+Cuida-se de agravo de instrumento, com pedido de efeito suspensivo ativo, interposto pela sociedade empresária Money Eventos Eireli em face da decisão que, nos autos do cumprimento de sentença promovido em seu desfavor pelo agravado – Marcus Vinícius de Almeida Ramos – indeferira o pedido que formulara almejando o reconhecimento da nulidade das intimações posteriores a março de 2016, nas quais o nome de seu patrono não estava grafado corretamente, assegurando-lhe, por conseguinte, oportunidade para manifestar-se sobre a digitalização dos autos. Segundo o provimento guerreado, conquanto a grafia do nome do patrono da agravante esteja equivocada, o número da inscrição na OAB/DF encontra-se correto, não sobejando possível o reconhecimento da nulidade apontada.
+
+Salientara o julgado, outrossim, que o erro havido nas publicações não ensejara qualquer prejuízo à agravante, porquanto, desde o início das publicações impugnadas, não foram localizados bens passíveis de penhora de sua titularidade, circunstância que determinara a suspensão do curso procedimental na data de 18.08.2017. Pontuara alfim que, o cumprimento de sentença permanecera arquivado até o ano de 2021, quando fora promovida a digitalização dos autos e instaurado o incidente de desconsideração da personalidade jurídica, não havendo sequer iniciado o prazo para os sócios apresentarem contestação, devendo ser rejeitada a alegação de nulidade processual. De sua parte, objetiva a agravante, in limine, a concessão de efeito suspensivo ao recurso de forma que sejam suspensos os efeitos da decisão arrostada, e, no mérito, a reforma da decisão agravada anulando-se todas as publicações nas quais o nome de seu patrono não estava grafado corretamente.
+
+Do alinhado, depreende-se que o objeto deste agravo cinge-se à aferição da suposta nulidade processual apontada pela agravante em razão das publicações dos atos processuais havidos no curso do executivo subjacente não terem registrado corretamente o nome do seu patrono, porquanto um dos sobrenomes do seu advogado fora grafado de foram equivocada, pois, ao invés, de lançado o nome correto dele - Dr. Robson Neves Fiel dos Santos -, fora consignado Dr. Robson Antônio Fiel dos Santos, circunstância que teria impedido, segundo sustentara, o efetivo aperfeiçoamento das intimações posteriores a março de 2016. Assim pontuada a matéria devolvida a reexame e delimitado o lastro invocado como apto a ensejar o acolhimento da pretensão reformatória que estampa, o desembaraço da questão não encerra dificuldades.
+
+Inicialmente deve ser registrado que, em consonância com os documentos coligidos ao instrumento[1], o nome do eminente advogado que patrocina a agravante é Dr. Robson Neves Fiel dos Santos, OAB/DF 8019. Assinala-se, que, até a data de 01.03.2016, todas as publicações havidas no curso procedimental da ação subjacente foram realizadas no nome do patrono individualizado, considerada a grafia correta de seu prenome e nomes de família. Com efeito, a derradeira publicação correta tivera por objetivo a intimação do agravado para indicar bens passíveis de penhora de titularidade da agravante.[2]
+
+Assinala-se que, posteriormente a essa publicação, o agravado comparecera aos autos informando o trânsito em julgado do título executivo e postulando a conversão do cumprimento provisório de sentença em definitivo[3]. Assim, fora proferida decisão em 03.02.2017 convertendo o feito para cumprimento definitivo de sentença[4] e, a despeito de não constar a certidão de publicação desse provimento, o douto patrono da agravante, na data de 06.03.2017, realizara carga para cópia dos autos físicos do cumprimento de sentença[5].
+
+Diante da carga para cópia dos autos físicos, ressoa impassível a ciência da agravante e de seu patrono sobre o cumprimento de sentença manejado pelo agravado. Salienta-se que os atos processuais praticados posteriormente destinaram-se à localização de patrimônio passível de penhora, e, diante da ausência de bens conhecidos, fora determinada a suspensão do curso procedimental e o arquivamento dos autos, o que ocorrera em 29.08.2017[6]. Desde então, o cumprimento de sentença não tivera qualquer movimentação processual relevante, cingindo-se o agravado a apresentar planilha atualizada do valor do crédito executado, até que, no dia 22.01.2021 fora proferida certidão intimando as partes para manifestarem-se sobre a digitalização dos autos.
+
+De ser acentuado que, segundo retratado nos autos, de fato na publicação dos seguintes dos seguintes atos processuais o nome do douto patrono da agravante fora grafado de forma errada: (i) intimação sobre a digitalização dos autos físicos[7]; (ii) resultado negativo da pesquisa ao sistema Bacenjud e retorno dos autos ao arquivo[8]; (iii) decisão determinando a manifestação do exequente acerca de eventual interesse na instauração do incidente de desconsideração da personalidade jurídica[9]; (iv) decisão deferindo a instauração do incidente de desconsideração da personalidade jurídica e determinando a intimação da sócia Cláudia Silva Monturil Batista[10]. Em todas essas publicações, o nome do ilustrado causídico fora grafado como Dr. Robson Antônio Fiel dos Santos, ou seja, fora trocado o sobrenome “Neves” por “Antônio”. Esse fato, contudo, não é apto a irradiar ineficácia às intimações, porquanto em todas as publicações fora grafada, de forma acertada, a correta inscrição do Dr. Robson Neves na OAB-DF (inscrição 8019), e, ademais, o prenome e outros nomes do ilustrado advogado, obstando a caracterização de homonímia passível de lhe ensejar dúvida acerca da intimação que lhe fora endereçada.
+
+Deve ser destacado que, em consonância com o disposto no artigo 272, §4º, do estatuto processual vigente, “a grafia dos nomes dos advogados deve corresponder ao nome completo e ser a mesma que constar da procuração ou que estiver registrada na Ordem dos Advogados do Brasil”. Ocorre que a aludida norma tivera por objetivo a correta identificação do causídico ao qual se destina a intimação e, especialmente, dos advogados, evitando-se confusões entre homônimos ou dúvida razoável acerca da pessoa do advogado à qual é endereçada. Comentando o tema, Nelson Nery Junior[11] pontuara o seguinte: “Correspondência do nome. Assim como ocorre com a vedação ao uso de abreviaturas, a exata correspondência entre o nome que consta da procuração ou do registro na OAB visa evitar confusões, assim como minimizar a intimação incorreta de homônimos.”
+
+Nesse sentido, é o ensinamento de Egas Moniz Aragão[12], confira-se: “A publicação há de conter o nome exato, em termos de ser possível saber de quem se trate. A diferença de redação entre o texto atual (suficiente para sua identificação) e o antigo (nomes exatos) não acarreta alteração substancial, pois é apenas de palavras. A jurisprudência já se orientara no sentido de que a menção aos nomes há de ser tal que permita a identificação do nomeado. Não há necessidade, porém, de que seja publicado o nome completo, com todas as letras. O objetivo da publicação é, através do próprio nome, despertar a atenção do leitor. O essencial é que a publicação seja apta a autorizar a identificação, mesmo que a referência não estampe todos os prenomes e o sobrenome completo. O erro de imprensa, que não torne irreconhecível o nome divulgado nem cause confusão entre dois nomes distintos, não constitui causa para a invalidade da publicação.”
+
+Destarte, considerando que as publicações, conquanto permeadas do erro material havido na grafia do sobrenome do patrono da agravante, alcançara, portanto, seu desiderato, notadamente porque consignara sua correta inscrição na OAB-DF, fica patente que inexiste fundamento legítimo apto a sustentar a ineficácia dos atos processuais individualizados. Nesse contexto, o erro havido na grafia do nome do douto advogado da agravante, afigura-se insignificante, tendo em visa que ocorrera apenas a troca de um sobrenome, não havendo prejuízo à intimação da representante processual.
+
+Ademais, não houve prejuízo evidenciado em razão do erro, pois a agravante tivera ciência da deflagração da fase executiva, permanecendo inerte, e, na sequência, o curso processual não alcançara seu desiderato, pois não encontrados bens penhoráveis. Sequer com a deflagração do incidente de desconsideração de personalidade jurídica lhe adviera prejuízo, pois os sócios deverão ser citados para se defenderem, e a decisão que admitira o incidente fora veiculada com aquele formato. Ou seja, a par de a erronia no nome do douto patrono ressoar insignificante, não induzindo ineficácia às intimações, não houvera prejuízo decorrente do havido. Idêntico posicionamento é perfilhado pelo colendo Superior Tribunal de Justiça, Corte encarregada a ditar a derradeira palavra na exegese e aplicação do direito federal infraconstitucional, consoante se infere dos julgados que guardam as seguintes ementas:
+
+“PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AUTUAÇÃO. ALTERAÇÃO DA SIGLA DO ESTADO. INSIGNIFICÂNCIA. POSSIBILIDADE DE IDENTIFICAÇÃO DO FEITO. AUSÊNCIA DE NULIDADE. DECISÃO MANTIDA. PRECEDENTES. (...) III - No que se refere ao erro de autuação, quanto à sigla do Estado de origem do processo, onde se fez contar "RS" no lugar de "SC", trata-se de erro insignificante que não tem o condão de tornar nulo o ato de intimação no qual constou o número do processo, o nome da parte adversa e o nome dos procuradores efetivamente constituídos nos autos ao tempo do registro e da autuação do recurso neste Tribunal. IV - Com efeito, é firme a jurisprudência desta Corte Superior, no sentido de que, para que seja reconhecida a invalidade da intimação por erro ocorrido na publicação, o equívoco deve ser fundamental e relevante, de modo que efetivamente prejudique a identificação do feito. Dessa forma, afasta-se qualquer eventual alegação de nulidade de intimação por erro de grafia no Estado de origem do processo, que não prejudicou a identificação da parte nem do feito. A propósito, confira-se: AgInt no AgRg no AREsp 481.059/BA, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/5/2018, DJe 16/5/2018. V - Ressalte-se, ainda, que, segundo a jurisprudência desta Corte Superior, eventual falha na prestação de serviços de empresa contratada com a finalidade de acompanhar as publicações em Diário oficial não constitui justo motivo para afastar a correta intimação efetuada por meio do veículo oficial. Nesse sentido: AgRg no AREsp 812.002/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turmla, julgado em 4/2/2016, DJe 11/2/2016 e AgRg no AREsp 602.119/SP, relator Ministro Gurgel de Faria, Quinta Turma, julgado em 18/8/2015, DJe 1º/9/2015.  VI - O acompanhamento do feito por advogado constituído pelo agravante era obrigação do causídico que deveria acompanhar a marcha processual e as respectivas publicações, não se podendo falar em violação do contraditório ou da ampla defesa. VII - Agravo interno improvido.” (AgInt na PET no AREsp 1589635/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/02/2021, DJe 12/02/2021)
+
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ALEGAÇÃO DE IRREGULARIDADE NA INTIMAÇÃO NÃO RECONHECIDA NA ORIGEM. REVISÃO. DESCABIMENTO. SÚMULA 7/STJ. NOME DO ADVOGADO. ERRO DE GRAFIA INSIGNIFICANTE. POSSIBILIDADE DE IDENTIFICAÇÃO DO FEITO. INEXISTÊNCIA DE NULIDADE. AGRAVO INTERNO DESPROVIDO. (...) 2. Não há como modificar a conclusão das instâncias ordinárias e acolher a tese delineada no apelo especial (no sentido de se reconhecer a irregularidade da intimação e, por conseguinte, a nulidade dos atos processuais), sem que se proceda ao reexame dos fatos e das provas do respectivo processo, o que é vedado pelo disposto na Súmula 7/STJ. 3. Ainda que superado o mencionado óbice e considerando a alegada incorreção na grafia do nome do advogado da recorrente, a jurisprudência desta Corte entende que a existência de erros insignificantes na publicação do nome dos advogados, que não dificultam a identificação do feito, não ensejam a nulidade da intimação. Precedentes. 4. Agravo interno desprovido.” (AgInt no AREsp 1416600/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020)
+
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL CUMULADA COM REPETIÇÃO DO INDÉBITO. AGRAVO DE INSTRUMENTO. NULIDADE DE INTIMAÇÃO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. 1. Ação de revisão contratual cumulada com repetição do indébito. 2. A jurisprudência do STJ é pacífica no sentido de não haver nulidade na publicação de ato processual em que conste, com grafia incorreta, o nome do advogado se o erro é insignificante (troca de apenas uma letra) e é possível identificar o feito pelo exato nome das partes e número do processo. Precedentes. Incide, na espécie, a Súmula 568/STJ. 3. Alterar o decidido no acórdão impugnado, no sentido de que não há, na hipótese, nulidade na publicação do ato processual em razão da troca de uma letra no sobrenome do causídico, porquanto o seu prenome e os outros sobrenomes, o nome das partes e o número do processo foram veiculados corretamente, dados esses suficientes para a identificação do feito, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ. 4. Agravo interno não provido.” (AgInt no AREsp 1624352/PB, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/09/2020, DJe 17/09/2020)
+
+“AGRAVO REGIMENTAL CONVERTIDO EM INTERNO. ALEGAÇÃO DE ERRO NA GRAFIA DO NOME DO ADVOGADO. INOCORRÊNCIA. DEVOLUÇÃO DE PRAZO AFASTADA. NA PUBLICAÇÃO CONSTA O NOME DO CAUSÍDICO, O NÚMERO DE SUA INSCRIÇÃO NA ORDEM DOS ADVOGADOS DO BRASIL - SECÇÃO DO PARÁ E O NÚMERO DO PROCESSO CORRETO, NÃO HAVENDO QUE SE FALAR EM NULIDADE SOB QUALQUER PRISMA. ‘CUMPRIDO O REQUISITO LEGAL DE EXISTÊNCIA DE DADOS SUFICIENTES A PERMITIR A INEQUÍVOCA IDENTIFICAÇÃO, É DE SER AFASTADA A ALEGADA NULIDADE DA INTIMAÇÃO. IMPENDE RESSALTAR QUE, EM CONSONÂNCIA COM OS TERMOS DO ART. 244, DO CÓDIGO DE PROCESSO CIVIL, SÓ HAVERIA INVALIDADE SE O VÍCIO EXISTENTE TORNASSE IMPOSSÍVEL DE O ATO CUMPRIR SUA FINALIDADE, OU SEJA, TORNASSE IMPOSSÍVEL AO DESTINATÁRIO A CIÊNCIA DA INTIMAÇÃO PUBLICADA, O QUE, IN CASU, COMO ANTES MENCIONADO, INOCORREU”. (RESP 1131805/SC, Rel. Ministro Luiz Fux, Corte Especial, Julgado Em 03/03/2010, DJE 08/04/2010)
+
+“PROCESSO CIVIL. INTIMAÇÃO. O erro na intimação das partes só induz a nulidade do ato se dele resultar prejuízo; a grafia errada do sobrenome de uma das partes, no qual a letra "o" foi equivocadamente substituída pela letra "p", não inviabilizou a finalidade do ato - do qual o interessado teve ciência. Recurso especial não conhecido.” (REsp 295.276/SP, Rel. Ministro ARI PARGENDLER, TERCEIRA TURMA, julgado em 15/05/2003, DJ 23/06/2003, p. 351)
+
+“Intimação pela imprensa. 'Nome do advogado com uma letra trocada não prejudica a sua identificação'. Inocorrência de ofensa a texto de lei processual. Agravo regimental desprovido. (AgRg em Ag nº 181.763, SP, Relator o eminente Ministro Nilson Naves, publicado no DJU de 5.10.1998)
+
+“INTIMAÇÃO. Nome do advogado. Erro na grafia. O erro na grafia do nome do advogado (Clayton em vez de Cleyton), em edital de intimação em que constaram corretamente todos os demais dados referentes ao processo, a permitir a sua localização (ainda que por processos informáticos), não é causa de anulação do ato para sua republicação, especialmente porque muitas outras intimações foram efetuadas como o mesmo equívoco, sem reclamação. Precedentes. Recurso conhecido e provido” (REsp nº 324.418, SP, Relator o eminente Ministro Ruy Rosado de Aguiar, publicado no DJU de 18.2.2002)
+
+Não se pode olvidar, outrossim, que, conforme pontuado, o advogado da agravante, na data de 06.03.2017, realizara carga para cópia dos autos físicos do cumprimento de sentença e detinha conhecimento da sua conversão em definitivo. Com efeito, o causídico deveria ter acompanhado as publicações relativas ao cumprimento de sentença individualizado com acuidade, porquanto, a despeito no equívoco de seu sobrenome, o número da inscrição perante a OAB/DF que constara das publicações encontrava-se escorreito, não sobejando possível o reconhecimento da nulidade, tampouco a devolução do prazo para se manifestar sobre a digitalização dos autos. Ademais, deve ser frisado que eventual prazo para praticar atos processuais já superados somente seria passível de devolução se não houvesse tido vista dos autos por impossibilidade material.
+
+É que o novel legislador processual estabelecera que, ocorrido vício na intimação, deve a parte praticar de imediato o ato ceifado, que será tempestivo se acolhida a alegação de nulidade, salvo se para sua prática era indispensável a disponibilidade dos autos e o fato não fora viabilizado. Considerando que a agravante, via do seu patrono, cingira-se a reclamar a repetição do prazo sem se ocupar em praticar o ato processual que lhe cabia, a restituição demandada, além de incabível, não é apta a reabrir eventual prazo para insurgir-se sobre a digitalização pois os autos estiveram sempre à sua disposição. Assim é a regra inserta no artigo 272, §§ 8º e 9º, do vigente estatuto processual[13].
+
+Merece ser salientado, ainda, que o equívoco de um dos sobrenomes do advogado da agravante somente ensejaria a nulidade das publicações individualizadas caso houvesse a demonstração de efetivo prejuízo. Como cediço, a nulidade somente deve ser afirmada, em conformidade com o norte teleológico do processo, em derivando do vício prejuízo à parte afetada, conforme o princípio da instrumentalidade das formas. Se inexistente esse prejuízo, como no caso, os princípios informadores do processo, notadamente a instrumentalidade das formas, celeridade, economia e efetividade, devem sobrepujar sobre o vício procedimental que não maculara o processo nem ensejará prejuízo algum à parte diretamente afetada. O estatuto processual, com pragmatismo, encerra a observação do princípio de que sem prejuízo não se proclama a nulidade como forma de se privilegiar o processo como simples instrumento de materialização do direito (NCPC, arts. 244 e 250).
+
+Na hipótese, não foram encontrados quaisquer bens passíveis de penhora titularidade da agravante e o cumprimento de sentença encontrava-se suspenso no período de 29.08.2017 a 21.01.2021, ocasião em que fora determinada a digitalização dos autos físicos. Registra-se que, após a digitalização apenas fora instaurado o incidente de desconsideração da personalidade jurídica, não havendo sequer iniciado o prazo para os sócios apresentarem contestação, porquanto não fora localizada a sócia da executada no endereço individualizado. Nesse contexto, diante da ausência de qualquer prejuízo à agravante, inviável o reconhecimento da nulidade processual. A título meramente ilustrativo, há que ser destacado que eventuais erros nos cálculos confeccionados pelo agravado poderão ser comprovados pela agravante.
+
+Alfim, no tocante à postulação realizada pelo agravado em contrarrazões, consubstanciada na aplicação das sanções cabíveis em razão da interposição de recurso que reputara meramente protelatório à agravante, sobeja que não incorrera ela em nenhuma das situações que legitimam a afirmação de que agira com má-fé ao formular a argumentação que desenvolvera e o pedido reformatório que deduzira, não se vislumbrando caráter protelatório na interposição do agravo, mas mero exercício do direito de defesa que a assiste. Com efeito, aviado o recurso aparelhado por argumentação desenvolvida em conformidade com a realidade processual, não subsiste fato imputável à parte recorrente passível de conduzir ao reconhecimento de que agira com má-fé, sujeitando-se à pena cabível para a hipótese (CPC, art. 80).
+
+Como cediço, aliado à postura processual do litigante, o reconhecimento da litigância de má-fé reclama a constatação do elemento subjetivo, à medida que a má-fé processual equivale à antítese de boa-fé inscrita como dever inerente a todo litigante (CPC, art. 5º), que equivale à boa-fé subjetiva, donde, para a configuração da litigância de má-fé, o litigante deve atuar dolosamente e em contradição com a finalidade do processo, através da violação da verdade e do abuso dos atos processuais. Não aferido que a agravante apresentara conduta eivada de dolo e dissonante da boa-fé, inviável que seja sancionada na forma pretendida pela agravada.
+
+Alinhados esses argumentos e afigurando-se a argumentação alinhada e o direito invocado desprovidos de suporte material, ressoa inviável o acolhimento do inconformismo que agitara a agravante.
+
+Esteado nos argumentos alinhados, conheço do agravo e nego-lhe provimento, mantendo incólume a decisão objurgada. Custas finais pela agravante.
+
+É como voto.
+
+[1] - ID Num. 31471210 - Pág. 7 (fl. 27).
+
+[2] - ID Num. 78297998 - Pág. 1 (fl. 289) – ação principal.
+
+[3] - ID Num. 78298038 (fls. 399/400) – ação principal.
+
+[4] - ID Num. 78298041 - Pág. 1 (fl. 404) – ação principal.
+
+[5] - ID Num. 78298042 - Pág. 1 (fl. 406) – ação principal.
+
+[6] - ID Num. 78298066 - Pág. 2 (fl. 446) – ação principal.
+
+[7] - ID Num. 31471210 - Pág. 9 (fl. 29).
+
+[8] - ID Num. 31471210 - Pág. 10 (fl. 30).
+
+[9] - ID Num. 31471210 - Pág. 11 (fl.31).
+
+[10] - ID Num. 31471210 - Pág. 12 (fl.32).
+
+[11] - Código Civil Comentado. Nelson Nery Junior , Rosa Maria de Andrade Nery, Editora: Revista dos Tribunais, 1. ed. em e-book baseada na 5. ed. impressa, 2014, – www.proview.thomsonreuters.com.
+
+[12] - ARAGÃO, Egas Moniz, Comentários ao Código de Processo Civil, Forense, 6a. Edição, págs. 330/331.
+
+[13] - CPC. Art. 272. “§ 8º A parte arguirá a nulidade da intimação em capítulo preliminar do próprio ato que lhe caiba praticar, o qual será tido por tempestivo se o vício for reconhecido.
+
+§ 9º Não sendo possível a prática imediata do ato diante da necessidade de acesso prévio aos autos, a parte limitar-se-á a argüir a nulidade da intimação, caso em que o prazo será contado da intimação da decisão que a reconheça.”
+
+A Senhora Desembargadora SIMONE LUCINDO - 1º Vogal Com o relator
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME
