@@ -1,0 +1,81 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0706126-87.2022.8.07.0000AGRAVANTE(S)SEBASTIAO PEREIRA GOMESAGRAVADO(S)LEONARDO OLIVEIRA ALBINORelatorDesembargador ESDRAS NEVES Acórdão Nº1415121
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE DE VERBA SALARIAL. MITIGAÇÃO. PENHORA DE PARTE DO SALÁRIO. POSSIBILIDADE. AUSÊNCIA DE PREJUÍZO À DIGNIDADE DO DEVEDOR. Não obstante o artigo 833, inciso IV, do Código de Processo Civil, estabeleça a impenhorabilidade dos vencimentos, subsídios, soldos, salários, dentre outras verbas destinadas ao sustento do devedor e de sua família, tal vedação não é absoluta, sendo possível, excepcionalmente, consoante o entendimento firmado pelo Colendo Superior Tribunal de Justiça, a flexibilização da citada regra, quando a hipótese concreta revela que o bloqueio de parte da remuneração não prejudica a subsistência digna do devedor e de sua família, além de propiciar a satisfação do crédito perseguido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ESDRAS NEVES - Relator, ALFEU MACHADO - 1º Vogal e LEONARDO ROSCOE BESSA - 2º Vogal, sob a Presidência do Senhor Desembargador ALFEU MACHADO, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 20 de Abril de 2022
+
+Desembargador ESDRAS NEVESRelator
+
+RELATÓRIO
+
+Cuida-se de AGRAVO DE INSTRUMENTO interposto por SEBASTIÃO PEREIRA GOMES (executado), contra decisão proferida pelo Juízo da Nona Vara Cível de Brasília, que, nos autos de cumprimento de sentença apresentado por LEONARDO OLIVEIRA ALBINO (Processo nº 0705127-39.2019.8.07.0001), deferiu o pedido de penhora sobre parte da remuneração mensal do executado, na ordem de 15% dos rendimentos líquidos, abatidos os valores a título de imposto e previdência, até o pagamento integral da dívida de R$30.417,96, atualizada até 31/01/2022 (ID 114220555, dos autos de origem).
+
+Em suas razões recursais (ID 33072259), o agravante narra que o cumprimento de sentença diz respeito ao pagamento de honorários advocatícios sucumbenciais, tendo o executado oferecido um bem à penhora, qual seja, crédito a ser por ele recebido no Processo nº 0701484-10.2018.8.07.0001, que não foi aceito pelo exequente/agravado. Alega a impenhorabilidade absoluta de sua remuneração, com fundamento no artigo 833, inciso IV, do Código de Processo Civil, aduzindo que as únicas exceções permitidas seriam no caso de a verba exigida ser prestação alimentícia (o que não inclui honorários advocatícios) ou as importâncias excedentes a 50 salários mínimos mensais, o que não é o caso dos autos. Indica julgados que entende corroborarem  sua tese. Sustenta que a decisão combatida está equivocada, quando afirma que a constrição de 15% de sua remuneração líquida não afetará a sobrevivência digna do devedor e de sua família, visto que é pessoa idosa e provedor de sua família. Afirma que suas despesas médicas têm aumentado cada vez mais, que tem um filho sob sua dependência financeira direta e outro filho que está desempregado e reside, juntamente com a esposa e dois filhos menores, com o agravante, de modo que o desconto em sua folha de pagamento, no percentual de 15% (aproximadamente R$2.800,00), faz grande diferença para o sustento de sua família. Destaca que está com a saúde muito debilitada, uma vez que foi acometido de Covid-19 e dengue em fevereiro de 2022, além de ter se submetido a uma cirurgia de emergência, estando de licença médica por pelo menos 20 dias. Junta diversos comprovantes de compras de mercado e farmácia, bem como contracheque do mês de fevereiro de 2022, atestados médicos, boleto de faculdade e conta de energia. Discorre sobre a presença dos requisitos para concessão do efeito suspensivo à decisão agravada.
+
+Pede, em sede de tutela de urgência recursal, que seja obstada a prática de atos constritivos na ordem de 15% da remuneração líquida do agravante. No mérito, requer a confirmação do pedido liminar.
+
+Preparo comprovado (IDs 33072267 e 33072268).
+
+Intimado para esclarecer sobre o pedido de atribuição de efeito suspensivo e admissibilidade do recurso (ID 33081277), o agravante se manifestou pela desistência do pedido liminar (ID 33235067).
+
+Contrarrazões apresentadas pelo desprovimento do recurso (ID 33408347).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ESDRAS NEVES - Relator
+
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Não assiste razão ao agravante.
+
+É que, apesar de o artigo 833, inciso IV, do Código de Processo Civil, estabelecer a impenhorabilidade dos vencimentos como regra geral, conforme orientação firmada no âmbito da Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento do EREsp1.582.475/MG, em 16/10/2018, afigura-se possível mitigar tal disposição, a fim de garantir a efetividade da tutela jurisdicional, desde que observado percentual capaz de assegurar a dignidade do devedor e de sua família. Veja-se:
+
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. CPC73, ART. 649, IV. DÍVIDA NÃO ALIMENTAR. CPC73, ART. 649, PARÁGRAFO 2º. EXCEÇÃO IMPLÍCITA À REGRA DE IMPENHORABILIDADE. PENHORABILIDADE DE PERCENTUAL DOS VENCIMENTOS. BOA-FÉ. MÍNIMO EXISTENCIAL. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA. 1. Hipótese em que se questiona se a regra geral de impenhorabilidade dos vencimentos do devedor está sujeita apenas à exceção explícita prevista no parágrafo 2º do art. 649, IV, do CPC73 ou se, para além desta exceção explícita, é possível a formulação de exceção não prevista expressamente em lei. 2. Caso em que o executado aufere renda mensal no valor de R$ 33.153,04, havendo sido deferida a penhora de 30% da quantia. 3. A interpretação dos preceitos legais deve ser feita a partir da Constituição da República, que veda a supressão injustificada de qualquer direito fundamental. A impenhorabilidade de salários, vencimentos, proventos etc. tem por fundamento a proteção à dignidade do devedor, com a manutenção do mínimo existencial e de um padrão de vida digno em favor de si e de seus dependentes. Por outro lado, o credor tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais. 4. O processo civil em geral, nele incluída a execução civil, é orientado pela boa-fé que deve reger o comportamento dos sujeitos processuais. Embora o executado tenha o direito de não sofrer atos executivos que importem violação à sua dignidade e à de sua família, não lhe é dado abusar dessa diretriz com o fim de impedir injustificadamente a efetivação do direito material do exequente. 5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes. 6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC73; art. 833, IV, do CPC2015), pode ser excepcionada quando for preservado percentual de tais verbas capazde dar guarida à dignidade do devedor e de sua família. 7. Recurso não provido. (EREsp1.582.475MG, Rel. Min. BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 3102018, REPDJe1932019, DJe 16102018).
+
+Percebe-se, pois, que o Tribunal da Cidadania vem permitindo, excepcionalmente, a penhora de salário, sinalizando mudança de paradigma acerca da regra de impenhorabilidade de remuneração, mesmo na hipótese em que o valor executado não tenha natureza alimentar, mormente nos casos em que tal medida não prejudique a garantia da subsistência digna do devedor e de sua família. Nesse mesmo sentido, decidiu esta E. Turma, inclusive em precedente de minha relatoria:
+
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE PERCENTUAL DA REMUNERAÇÃO DO DEVEDOR. FONTE PAGADORA. PARÂMETRO PROPORCIONAL E RAZOÁVEL. MITIGAÇÃO DA IMPENHORABILIDADE. POSSIBILIDADE. PRECEDENTES DO STJ E DESTE TJDFT. RECURSO PROVIDO. 1. Considerando a necessidade de dar proteção não apenas à verba salarial do devedor, mas também ao crédito do recorrido, é possível a penhora da remuneração do executado, em percentual que não comprometa sua subsistência, quando frustrada a execução por outros meios postos à disposição do exequente. 2. Sopesando a situação fática, jurídica e probatória despontada dos autos, depreende-se dos elementos de convicção trazidos à colação que a parte agravada recebe renda mensal capaz de suportar, em caráter excepcional, a constrição parcial no propósito de quitar o débito exequendo perseguido, sem afetar sua subsistência digna nem a de sua família. 3. A constrição patrimonial ora aplicada tem inequívoco amparo tanto na legislação de regência, como na mais moderna jurisprudência pátria, segundo a qual é possível a mitigação da regra de impenhorabilidade de salário/vencimento/subsídio/pensão/proventos quando exauridos os meios expropriatórios viáveis à efetivação do adimplemento da obrigação e for preservado percentual de tais verbas suficiente para manter a dignidade do devedor e de sua família. Precedentes. 4. AGRAVO DE INSTRUMENTO PROVIDO. (Acórdão 1403376, 07252197020218070000, Relator: ALFEU MACHADO,  6ª Turma Cível, data de julgamento: 23/2/2022, publicado no DJE: 14/3/2022. Pág.:  Sem Página Cadastrada.)
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE DE VERBA SALARIAL. MITIGAÇÃO. PENHORA DE PARTE DO SALÁRIO. POSSIBILIDADE. AUSÊNCIA DE PREJUÍZO À DIGNIDADE DO DEVEDOR. Não obstante o artigo 833, inciso IV, do Código de Processo Civil, estabeleça a impenhorabilidade dos vencimentos, subsídios, soldos, salários, dentre outras verbas destinadas ao sustento do devedor e de sua família, tal vedação não é absoluta, sendo possível, excepcionalmente, consoante o entendimento firmado pelo Colendo Superior Tribunal de Justiça, a flexibilização da citada regra, quando a hipótese concreta revela que o bloqueio de parte da remuneração não prejudica a subsistência digna do devedor e de sua família, além de propiciar a satisfação do crédito perseguido. O comprometimento da margem consignável não é o parâmetro para se avaliar a possibilidade de penhora de rendimentos. Importa que seja avaliada, para tal fim, a manutenção da dignidade do executado. A assunção espontânea de dívidas com empréstimo consignado em folha de pagamento não elide a capacidade econômica da parte, à medida que configuram débitos livremente contraídos. (Acórdão 1403088, 07401334220218070000, Relator: ESDRAS NEVES,  6ª Turma Cível, data de julgamento: 16/2/2022, publicado no DJE: 11/3/2022. Pág.:  Sem Página Cadastrada.)
+
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE SALÁRIO. POSSIBILIDADE. MITIGAÇÃO DO ART. 833, §2º DO CPC. PRESERVAÇÃO DA DIGNIDADE DA DEVEDORA. 1. A jurisprudência tem admitido a relativização da impenhorabilidade da verba de natureza alimentar, prevista no art. 833, IV, do CPC, desde que preservada a dignidade do devedor e de sua família. Precedentes do STJ e desta Corte. 2. Mostra-se cabível a penhora de parte do salário do devedor quando se constata que a constrição não tem o condão de comprometer sua sobrevivência ou afetar sua dignidade. 3. Deu-se parcial provimento ao agravo de instrumento para determinar a penhora sobre o percentual dos rendimentos da devedora.  (Acórdão 1398446, 07329727820218070000, Relator: ARQUIBALDO CARNEIRO PORTELA,  6ª Turma Cível, data de julgamento: 2/2/2022, publicado no DJE: 24/2/2022. Pág.:  Sem Página Cadastrada.)
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA. PERCENTUAL DO SALÁRIO. FONTE PAGADORA.   I - O art. 833, inc. IV, do CPC dispõe sobre a impenhorabilidade do salário, no entanto, é admitida a constrição de percentual dessa verba, assegurada a subsistência do devedor e de sua família, com preservação do mínimo existencial e da dignidade. EREsp 1.582.475/MG julgado pela Corte Especial do e. STJ em 3/10/18. II - Agravo de instrumento conhecido e parcialmente provido.  (Acórdão 1395192, 07288979320218070000, Relator: VERA  ANDRIGHI,  6ª Turma Cível, data de julgamento: 26/1/2022, publicado no DJE: 15/2/2022. Pág.:  Sem Página Cadastrada.)
+
+Destarte, a possibilidade de manutenção da penhora, no patamar determinado na decisão agravada, deve ser analisada sob a ótica de subsistência digna do devedor, mas aliado, também, ao direito do credor de receber o valor de direito.
+
+No presente caso, tem-se que o agravante/executado é servidor público (Procurador da CONAB), cujo salário bruto é de R$24.349,98 e o líquido é de R$13.891,81. Os descontos observados em contracheque derivam majoritariamente de seguridade social, contribuição associativa, assistência médica e imposto de renda.
+
+Nesse cenário, a penhora de 15% do rendimento líquido do agravante representaria, aproximadamente, um desconto de R$2.800,00, remanescendo um salário líquido de cerca de R$11.000,00 para a quitação das demais despesas indicadas no recurso, tais como energia (R$1.822,00), alimentação (R$2.394,84) e faculdade do filho mais novo (R$1.502,07), que totalizam R$5.718,91. Descontados, portanto, os gastos indicados pelo agravante da remuneração remanescente, já com o desconto do percentual de 15% da penhora deferida, ainda restaria a quantia de R$5.281,09 para os demais gastos da família, o que corresponde a valor muito superior à renda total da maior parte das famílias brasileiras.
+
+Ademais, não obstante seja o agravante pessoa idosa, é servidor público federal (Procurador da CONAB), possuindo rendimentos elevados e plano de saúde, conforme indicado no contracheque por ele mesmo apresentado. Outrossim, os documentos médicos juntados pelo agravante no recurso não indicam que se encontra com a saúde debilitada, conforme alega nas razões recursais, mas, sim, que realizou procedimento cirúrgico na área de coloproctologia, cujos atestados recomendam o afastamento das atividades laborais para recuperação da cirurgia por 12 dias, não havendo indicação de que estaria inapto para o trabalho após a recuperação.
+
+Computadas, assim, a receita e as despesas suportadas pelo agravante, verifica-se que a manutenção de 15% de penhora do seu salário líquido não compromete a manutenção própria e de sua família. Considerando, ainda, que o credor também faz jus ao recebimento do seu crédito, tem-se que o percentual da penhora de salário arbitrado na decisão agravada revela ser quantia apta a promover o pagamento da dívida, assim como permite ao agravante a manutenção de suas necessidades básicas, atendido o critério da dignidade humana.
+
+É ônus do devedor comprovar que os valores constritos são indispensáveis ao seu próprio sustendo e dignidade familiar, de modo que, inexistindo prova nesse sentido, não há óbice à constrição.
+
+Conclui-se, portanto, que o desconto mensal de 15% da remuneração líquida do executado, para saldar o débito, não o impedirá de honrar o pagamento de suas despesas regulares. De fato, considerando os gastos médios de uma família e a remuneração do agravante, após os descontos, constata-se que a penhora não tem o condão de reduzir-lhe a uma situação de indignidade, representando verdadeira conciliação entre o objetivo da execução e as condições do executado, procurando satisfazer o crédito de maneira menos onerosa às partes.
+
+Outrossim, ainda que fixado percentual razoável para a penhora, nada impede o seu posterior redimensionamento, seja para diminuir, majorar ou até mesmo cancelar a continuidade da penhora, tudo a depender dos efeitos concretos que a constrição vier a gerar. Em síntese, neste momento, houve uma análise do caso concreto, o que poderá ser reavaliado no futuro, observando a principal diretriz do posicionamento defendido pelo Superior Tribunal de Justiça no EREsp1.582.475/MG – equilíbrio entre o direito do credor e o do devedor.
+
+Ante o exposto, conheço do recurso e a ele NEGO PROVIMENTO.
+
+É como voto.
+
+O Senhor Desembargador ALFEU MACHADO - 1º Vogal Com o relatorO Senhor Desembargador LEONARDO ROSCOE BESSA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
