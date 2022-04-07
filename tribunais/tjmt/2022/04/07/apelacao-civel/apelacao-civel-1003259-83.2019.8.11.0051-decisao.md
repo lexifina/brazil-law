@@ -1,0 +1,20 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL No. 1003259-83.2019.8.11.0051
+APELANTES: JOSE PUPIN E OUTRA
+APELADO: BANCO ABC BRASIL S/A
+Vistos.
+Trata-se de recurso de apelação cível interposto por JOSE PUPIN e VERA LUCIA CAMARGO PUPIN, contra r. sentença proferida pela MMa. Juíza da 2a Vara da Comarca de Campo Verde/MT, Dra. Maria Lúcia Prati, que nos autos da ‘ação declaratória de ineficácia de intimação para purgação da mora c/c nulidade de atos jurídicos c/c indenização com pedido de tutela de urgência’ no. 1003259-83.2019.8.11.0051, ajuizada em face do BANCO ABC BRASIL S/A, julgou improcedentes os pedidos iniciais, em que se postulava, dentre outros pontos, a nulidade do procedimento extrajudicial de consolidação de propriedade promovido pelo banco, decorrente de vício no ato de purgação de mora (ausência de valor) e falha no ato intimatório, relacionado ao imóvel rural denominado “Fazenda Marabá”, com área de 1.975,6748 ha, matrícula de no. 7.084 registrado no 1o Ofício do Registro Geral de Imóveis de Campo Verde/MT (Id 104235063).
+Opostos embargos declaratórios pelos autores/recorrentes, estes foram rejeitados pela i. Magistrada singular (Id 104235075), vindo-me os autos conclusos em virtude de possível prevenção ao RAI no. 1009569-64.2019.8.11.0000, cujo objeto, embora envolva referido imóvel, diz respeito unicamente à liminar de reintegração de posse deferida em favor da empresa Bom Futuro Campo Verde Agropecuária Ltda., ou seja, partes e objetos totalmente diversos do presente apelo.
+Atrelado a isso, referido instrumento sequer foi julgado no mérito, tendo em vista a homologação de pedido de desistência formulado pela própria recorrente, com trânsito em julgado operado aos 21/10/2019, ou seja, quase dois anos antes da prolação da sentença objurgada (25/06/2021).
+De outro lado, em consulta ao sistema informatizado deste Sodalício, verifica-se que a tutela de urgência vindicada no bojo da ação cujo recurso ora se analisa, o qual restou indeferida pela julgadora monocrática (Id 104235025), foi questionada por meio do recurso de agravo de instrumento autuado sob o no. 1010521-77.2018.8.11.0000, envolvendo as mesmas partes desta apelação cível, cujo mérito foi desprovido à unanimidade, em julgado assim ementado:
+“RECURSO DE AGRAVO DE INSTRUMENTO – RECUPERAÇÃO JUDICIAL – IMÓVEL CUJA PROPRIEDADE FIDUCIÁRIA FOI CONSOLIDADA EM FAVOR DO CREDOR AGRAVADO ANTES DA DISTRIBUIÇÃO DO PEDIDO DE RECUPERAÇÃO JUDICIAL – AUTORIZAÇÃO DE ALIENAÇÃO EXTRAJUDICIAL – ESSENCIALIDADE DE BEM QUE NÃO PODE SER DISCUTIDA POR AQUELE QUE NÃO OSTENTA CONDIÇÃO DE PROPRIETÁRIO – RECURSO DESPROVIDO.
+Pelo regime que regra a alienação fiduciária de imóvel, consolidada a propriedade em nome do credor fiduciário, resta ao devedor fiduciante apenas o exercício do direito de preempção, por ocasião da realização do leilão.
+Consolidada a propriedade, o que decorre do respectivo registro, não mais subsiste direito de propriedade ou posse contratual de titularidade do então devedor fiduciante.”
+Acrescenta-se a isso o fato de que os recorrentes encontram-se em recuperação judicial (autos no. 0007612-57.2017.8.11.0051), sendo todos os recursos interpostos dele decorrentes distribuídos e regularmente processados à relatoria do e. Desembargador Guiomar Teodoro Borges, do qual cito a título de exemplo o RAI no. 1014472-79.2018.8.11.0000, de forma que o torna prevento também para análise e julgamento do presente recurso de apelação, ex vi do art. 930, parágrafo único, do CPC, in litteris:
+“Art. 930. Far-se-á a distribuição de acordo com o regimento interno do tribunal, observando-se a alternatividade, o sorteio eletrônico e a publicidade.
+Parágrafo único. O primeiro recurso protocolado no tribunal tornará prevento o relator para eventual recurso subsequente interposto no mesmo processo ou em processo conexo.”
+Desse modo, devolvo os autos ao Departamento Auxiliar Judiciário para que proceda a devida redistribuição.
+Cumpra-se.
+Cuiabá/MT, 07 de abril de 2022.
+Antônia Siqueira Gonçalves
+Desembargadora
