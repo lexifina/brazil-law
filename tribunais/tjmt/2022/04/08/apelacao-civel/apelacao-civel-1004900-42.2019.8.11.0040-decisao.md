@@ -1,0 +1,14 @@
+VISTOS.
+Trata-se de recurso especial, com pedido de efeito suspensivo, interposto por PAULO HUMBERTO ALVES DE FREITAS e outro, contra acórdão proferido pela Primeira Câmara de Direito Público e Coletivo que, por unanimidade, rejeitou a preliminar e, no mérito, desproveu o recurso, nos termos da seguinte ementa:
+TRIBUTÁRIO – RECURSO DE APELAÇÃO CIVEL – MANDADO DE SEGURANÇA – PRELIMINAR DE NULIDADE DA SENTENÇA AFASTADA - PRETENSÃO DE RECONHECIMENTO DA DECADÊNCIA E PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO – IMPOSSIBILIDADE – AUSÊNCIA DE PROVA PRÉ-CONSTITUIDA – MATÉRIA JÁ ALEGADA EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE – RECURSO DESPROVIDO.
+1- Da leitura da petição inicial, observa-se que ela representou a consequência lógica do julgado, estando seus contornos dentro dos limites da prestação jurisdicional, enfrentando os pedidos da inicial, quais sejam: de i) ser reconhecida a prescrição do crédito tributário consubstanciado na CDA 20142056; ii) ser reconhecida a ilegalidade da cobrança do tributo em face dos Impetrantes enquanto não sobrevier decisão judicial que lhes impute a responsabilidade pessoal pelo pagamento dos débitos pela pessoa jurídica, não havendo nulidade a ser sanada.
+2- Resta prejudicada a análise da decadência do Fisco constituir o crédito tributário, em razão da matéria já ter sido apreciada por este Sodalício, sob pena de violação a coisa julgada.
+3- A matéria relativa a ocorrência ou não da prescrição não pode ser analisada nesta via recursal, em razão de eventual litispendência, ante a notícia de alegação da prescrição em sede de exceção de pré-executividade, a qual somente poderia ser afastada com prova inequívoca do direito dos Recorrentes, o que não ocorreu nos autos.
+Recurso tempestivo e devidamente preparado.
+Pois bem, na espécie, o direito controvertido foi amplamente enfrentado por órgão Colegiado deste Egrégio Tribunal de Justiça, situação jurídica que força reconhecer que em face da amplitude e da excepcionalidade do pedido de suspensão do v. acórdão, necessário se faz analisar a pretensão após as contrarrazões.
+Aliás, para a excepcional concessão do efeito suspensivo, em atenção ao que dispõe o artigo 995, parágrafo único, do Código de Processo Civil, mostra-se necessária a comprovação de dois requisitos legais, quais sejam, a evidente probabilidade do provimento do recurso, isto é, plausibilidade substancial do direito invocado com força suficiente a autorizar a suspensão da decisão recorrida, bem como o perigo da demora representado pela possibilidade de prejuízo advindo do retardamento da tutela jurisdicional pleiteada, não se vislumbrando prejuízo o aguardo do contraditório.
+Ante o exposto, intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal.
+Após, a apresentação das contrarrazões ou o decurso do prazo, tornem os autos conclusos.
+Publique-se. Intime-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
