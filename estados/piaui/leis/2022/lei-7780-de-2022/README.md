@@ -1,0 +1,5 @@
+# Lei nº 7.780, de 8 de abril de 2022, do Estado do Piauí
+
+OBRIGA AOS HOSPITAIS PRIVADOS, LOCALIZADOS NO ESTADO DO PIAUÍ A AFIXAR, EM LOCAL VISÍVEL, CARTAZ OU EQUIVALENTE COM A SEGUINTE INFORMAÇÃO: ”CONSTITUI CRIME A EXIGÊNCIA DE CHEQUE-CAUÇÃO, DE NOTA PROMISSÓRIA OU DE QUALQUER GARANTIA, BEM COMO DO PREENCHIMENTO PRÉVIO DE FORMULÁRIOS ADMINISTRATIVOS, COMO CONDIÇÃO PARA O ATENDIMENTO MÉDICO-HOSPITALAR EMERGENCIAL, NOS TERMOS DO ART. 135-A DO CÓDIGO PENAL".
+
+Fonte: Assembleia Legislativa (sapl.al.pi.leg.br), <https://sapl.al.pi.leg.br/norma/5205>; texto: <http://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2022/5205/lei_no_7.780_de_08_de_abril_de_2022_dr._gessivaldo_isaias_-__cheque-cauo_05.04.22.pdf>
