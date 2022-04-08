@@ -1,0 +1,19 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto por MEIRIANE RUBINEIA CELINO, com o fito de suspender a decisão que, nos Autos do Pedido de Tutela Cautelar em Caráter Antecedente no 1002147-19.2022.8.11.0037, manejado por A R FORIN & FORIN LTDA – ME, deferiu o pedido de tutela provisória de urgência e determinou o arresto cautelar/sequestro dos grãos de soja, da quantidade indicada na inicial (7.569,52) sacas de 60 kg de soja em grãos padrão comercial), relativa à CPR no 0009/2021, da área indicada na CPR, na Fazenda Kuluene, na Rod. MT 130, KM 14, Zona Rural, Paranatinga (MT).
+Para tanto, aduz a agravante, em síntese, que o pedido manejado pela agravada tomou por base meras suposições de que o produto estaria sendo desviado em favor de terceiros, ao que se soma, ainda, o fato de se tratar de dívida não vencida, que autorizaria a venda do excedente.
+Assevera que a CPR que embasou o direito postulada pela parte autora padece de liquidez em razão da sua validade estar condicionada às obrigações assumidas pela agravada, que por sua vez não foram adimplidas.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, verifica-se de plano, que na decisão de base foram observados os requisitos da antecipação da tutela, ao menos diante das provas e elementos que constavam nos autos no instante em que concedida.
+Com efeito, a parte autora requestou a medida cautelar arresto, com base em Cédula de Produto Rural no 009/2021, em penhor cedular de primeiro grau sem concorrência de terceiros, com vencimento até o dia 30.01.2022, conforme documento no id no 123680464 – pág. 28 em diante.
+Ademais, da leitura do documento retro mencionado, não se verifica qualquer cláusula ou menção que atrele a validade da obrigação a negócio jurídico subjacente, notadamente ao pagamento das duplicatas relacionadas pelo agravante na petição inicial do agravo, no id no 123680450 – pág. 15.
+Assim, diante de tal situação, não há por onde atender a súplica do agravante, pois não atendidos os pressupostos da tutela jurisdicional pretendida, razão pela qual deve ser indeferida a liminar recursal.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intime-se, advertindo-se o agravado do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
