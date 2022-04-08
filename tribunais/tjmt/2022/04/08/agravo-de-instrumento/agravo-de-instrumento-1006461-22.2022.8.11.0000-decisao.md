@@ -1,0 +1,23 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1006461-22.2022.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por MIKES DE SIQUEIRA DOS SANTOS, em virtude de decisão proferida pela Juíza da 4.a Vara Cível da Comarca da Capital que, nos autos da Ação de Indenização por Danos Morais c/c Lucros Cessantes n.o 1001030-54.2017.8.11.0041, que move em face de PSYCHEMEDICS BRASIL EXAMES TOXICOLÓGICOS LTDA., revogou a determinação de realização de novo exame de DNA do Agravante.
+Em suas razões recursais o Recorrente relata que se submeteu a Exame Toxicológico realizado pelo Laboratório Recorrido em 05/07/2016, cujo resultado constatou a presença de cocaína, do qual, inconformado, impugnou-o e solicitou em Juízo contraprova (exame de DNA), com vista ao esclarecimento e comprovação se houve ou não a troca de material biológico nas dependências do Laboratório Agravado.
+Aduz que a Juíza a quo, em sede de despacho saneador, inicialmente deferiu a realização de novo exame de DNA no material biológico do Recorrente outrora coletado; todavia, injustificadamente revogou a determinação.
+Inconformado, o Agravante almeja a reforma da decisão vergastada ao argumento de que é imprescindível a realização de novo exame de DNA no Recorrente para efetivamente comprovar se houve a troca ou não de material biológico do Agravante nas dependências do Laboratório Recorrido.
+Invoca a aplicabilidade do Código Consumerista ao caso concreto, pois, segundo alega, o Agravante é presumidamente vulnerável e hipossuficiente, devendo ser facilitada no processo sua defesa, nos termos do artigo 6o, inciso VIII, do Código de Defesa do Consumidor.
+Ressalta que o Laboratório Agravado não sofrerá qualquer prejuízo em caso de realização de novo exame de DNA no material biológico inicialmente coletado; em contrapartida, no caso de não realizado referido exame neste momento, não mais poderá fazê-lo. Sustenta que o Agravante possui somente uma única oportunidade de realização da prova requerida, haja vista que restou somente uma pequena quantidade de material biológico existente em poder do Laboratório Agravado desde julho/2016 e que será descartada diante da decisão recorrida.
+Assenta que a manutenção da decisão tal como prolatada acarretará ao Agravante imensurável prejuízo, ocasionando verdadeiro cerceamento ao seu direito de defesa.
+Com base nessas assertivas, pede a antecipação da tutela recursal para que, desde logo, seja determinada a realização de novo exame de DNA no material biológico que se encontra em poder da Agravado, ou, subsidiariamente, requer seja agregado suspensividade ao Recurso para, desde já, sobrestar os efeitos da decisão vergastada até o julgamento do mérito deste Instrumental.
+No mérito, pugna pelo provimento do recurso.
+É, no essencial, o relatório. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a decisão combatida enquadra-se na hipótese do inciso II, do artigo 1.015, do Código de Processo Civil, bem como está instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o, do CPC.
+O artigo 1.019, inciso I, do mesmo Codex, preconiza que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o risco de dano grave, de difícil ou improvável reparação. Nesse contexto, é vedado nos estreitos limites deste Instrumental, o exame de questões de fundo do direito discutido, sendo pertinente apenas aferir se estão, ou não, presentes os pressupostos para o deferimento do efeito suspensivo/ativo.
+Da análise acurada do caderno processual e da documentação que o escolta, entrevejo a confluência desses pressupostos para a concessão da medida liminar pretendida.
+Com efeito, o material biológico do Recorrente a ser utilizado como contraprova na impugnação apresentada ao primeiro resultado laboratorial está armazenado há vários anos na espera de que a perícia seria realizada e o indeferimento do exame implica claro risco de que seja descartado, situação que tem o condão de demonstrar efetivamente o alegado perigo da demora ou risco iminente de prejuízo à parte.
+Diante do exposto, deferido o efeito suspensivo pleiteado e sobresto o cumprimento da decisão combatida até o exame do mérito recursal.
+Comunique-se à Juíza da causa o teor desta decisão.
+Intime-se o Laboratório Agravado para, querendo, apresentar contraminuta, nos termos do artigo 1.019, II, do Código de Processo Civil.
+Cumpra-se.
+Cuiabá, 07 de abril de 2022.
+Des.a Clarice Claudino da Silva
+Relatora
