@@ -1,0 +1,21 @@
+ANEXO I
+
+GRATIFICAÇÃO POR FUNÇÃO DE CHEFIA E ASSESSORAMENTO
+
+CORPO DE BOMBEIROS
+
+Discriminação Quantidade Valor R$ Total (R$)
+
+Coronel 06 1.600,00 9.600,00
+
+Tenente Coronel 16 1.400,00 22.400,00
+
+Major 39 1.200,00 46.800,00
+
+Capitão 24 1000,00 24.000,00
+
+Tenentes 41 800,00 32.800,00
+
+Praças 65 600,00 39.000,00
+
+TOTAL 191 R$ 174.600,00
