@@ -1,0 +1,21 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por ARTHUR YASUHIRO KENJI SATO, FERNANDO HIDETARO SIQUEIRA SATO e JOAQUIM DA COSTA VITAL, com o fito de suspender a decisão que, nos Autos da Ação de Reintegração de Posse no 1000158-27.2022.811.0053, ajuizada por CLARA OACY BRANDÃO DE ARRUDA e ARGEMIRO PADILHA DE ARRUDA, deferiu o pedido liminar possessório em favor dos agravados, para mantê-los na área denominada “Caiçara”, em um Lote Rural de 58,8 hectares, na Comarca de Barão de Melgaço-MT.
+Para tanto, alegam os agravantes, em síntese, que a decisão recorrida foi proferida sem a devida fundamentação, de forma superficial e sem apontar os argumentos que levaram o Juízo de origem a deferir a liminar possessória.
+Argumentam que a conclusão do juízo singular tomou por base apenas a prova testemunhal, a qual, em sua totalidade, estava contaminada pelo vínculo de parentesco dos depoentes com os autores, ora agravados.
+Asseveram que, além da não comprovação da posse, os autores sequer apresentam a devida individualização do imóvel, trazendo documentos alheios que não delimitam a área objeto do litígio, bem como, fotos da cerca esbulhada, sem as devidas coordenadas geográficas.
+Aduzem que, em 18.06.2006, o Sr. Waldomiro Fernandes da Silva, vendeu cerca de 8 hectares da sua propriedade ao Sr. Akio Sato, que por sua vez doou o imóvel, agora denominado Sítio Aki-o, aos seus filhos, ora agravantes, que são os legítimos possuidores da área, a qual está em vias de ser ilegitimamente ocupada pelos agravados por força da decisão recorrida.
+Pugnam pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, não há nada que convença da medida liminar pleiteada.
+É que, apesar da urgência, o caso dos autos não revela, de plano, indícios de que a probabilidade do direito em questão atenda aos agravantes, os quais amparam o pedido possessório com base em contrato de Compra e Venda ilegível, do qual não é possível extrair qualquer informação útil ao deslinde do feito (id no 123270469).
+Ademais, cumpre registrar que a lide foi manejada pelos agravados em face de Waldomiro Fernando Silva e Domingos Vital, enquanto que o recurso em exame foi interposto por terceiros interessados, no caso, os agravantes ARTHUR YASUHIRO KENJI SATO, FERNANDO HIDETARO SIQUEIRA SATO.
+Nesse particular, é cediço que a defesa de bens ou direitos indevidamente atingidos por decisão judicial, de quem não faz parte do processo, desafia a oposição de Embargos de Terceiro, o que deverá ser manejado em autos específicos pelo presumido possuidor do imóvel constrito.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se os agravados do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
