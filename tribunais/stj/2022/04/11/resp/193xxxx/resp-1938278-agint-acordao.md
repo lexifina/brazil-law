@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto porBRADESCO SAÚDE S.A. contra a decisão que negou provimento ao recurso especial (fls. 743/748, e-STJ).
+Em suas razões, a agravante postula a reforma da decisão atacada, alegandoque há entendimento jurisprudencial no sentido de que os contratos coletivos de assistência à saúde com menos de 30 (trinta) vidas também se sujeitam à possibilidade de rescisão unilateral, não sendo possível a equiparação com a contratação individual ou familiar.
+Afirma, ainda, que deve ser afastada a aplicação dos óbices das Súmulas nºs 5 e 7/STJ, visto que
+"(..)o v. acórdão contra o qual se volta o recurso especial da seguradora reconheceu a licitude da incidência do reajuste por sinistralidade, mas presumiu sua abusividade no caso concreto sob a afirmação de que a seguradora, que é ré na demanda de origem, não teria comprovado o aumento do nível de sinistralidade a justificar o aumento praticado"(fl. 757, e-STJ).
+Impugnação às fls. 775/792 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DESAÚDE COLETIVO EMPRESARIAL. CATEGORIA. MENOS DE 30 (TRINTA) BENEFICIÁRIOS. RESILIÇÃO UNILATERAL. MOTIVAÇÃO IDÔNEA. NECESSIDADE. MENSALIDADES. REAJUSTE. SINISTRALIDADE.COMPROVAÇÃO. AUSÊNCIA. ABUSIVIDADE. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Os contratos de plano de saúde com menos de 30 (trinta) usuários não podem ser trasmudados para planos familiares, com vistas à aplicação da vedação do art. 13, parágrafo único, II, da Lei nº 9.656/1998, mas a rescisão unilateral, nessa hipótese, deve ser devidamente motivada, haja vista a natureza híbrida da avença e a vulnerabilidade do grupo possuidor de poucos beneficiários, incidindo a legislação consumerista e o princípio da conservação dos contratos.
+3. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade.
+4. Na hipótese, rever o entendimento da instância ordinária, que concluiu pela abusividade do reajuste, demanda o reexame de cláusulas do contrato e das provas constantes dos autos, procedimentos obstados pelas Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Nas razões do recurso especial, a ora agravante sustentou a validade da cláusula contratual que admite a rescisão unilateral, independentemente de motivação idônea, do plano de saúde coletivo empresarial com menos de 30 (trinta) beneficiários, não podendo ser equiparado ao contrato familiar.
+Argumentou, ainda, que é lícito o reajuste com base na sinistralidade, previsto contratualmente, que visa manter o equilíbrio econômico-financeiro do contrato.
+Entretanto, a Corte local concluiu pela impossibilidade da denúncia imotivada, pois o caso trata de empresa de pequeno porte, cujo seguro saúde abrange somente 5 (cinco) beneficiários, estando um deles sob tratamento de doença grave.
+Entendeutambémser abusiva a majoração das mensalidades do plano de saúde em virtudede não ter sido comprovada a necessidade do reajuste nos patamares aplicados, com a demonstração da elevação dos custos médicos ou da sinistralidade.
+Assim, verifica-se inviável a pretensão de afastamento da aplicação dos óbices das Súmulas nºs 568, 5 e 7/STJ.
+Esta Corte Superior firmou entendimento no sentido de que os contratos de plano de saúde com menos de 30 (trinta) usuários não podem ser trasmudados para planos familiares, com vistas à aplicação da vedação do art. 13, parágrafo único, II, da Lei nº 9.656/1998, mas a rescisão unilateral, nessa hipótese, deve ser devidamente motivada, haja vista a natureza híbrida da avença e a vulnerabilidade do grupo possuidor de poucos beneficiários, incidindo a legislação consumerista e o princípio da conservação dos contratos.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SAÚDE SUPLEMENTAR. PLANO DE SAÚDE COLETIVO EMPRESARIAL. CATEGORIA. MENOS DE 30 (TRINTA) BENEFICIÁRIOS. RESILIÇÃO UNILATERAL. MOTIVAÇÃO IDÔNEA. NECESSIDADE. DISSÍDIO NÃO COMPROVADO. TESES JURÍDICAS IDÊNTICAS. JURISPRUDÊNCIA ATUAL. SÚMULA Nº 168/STJ.
+1. Os embargos de divergência não merecem ser conhecidos quando os acórdãos postos a confronto aplicam a mesma tese jurídica, com soluções idênticas a fatos semelhantes.
+2. Os contratos de plano de saúde com menos de 30 (trinta) usuários não podem ser trasmudados para planos familiares, com vistas à aplicação da vedação do art. 13, parágrafo único, II, da Lei nº 9.656/1998, mas a rescisão unilateral, nessa hipótese, deve ser devidamente motivada, haja vista a natureza híbrida da avença e a vulnerabilidade do grupo possuidor de poucos beneficiários, incidindo a legislação consumerista e o princípio da conservação dos contratos.
+3. É possível, com base na Súmula nº 168/STJ, inadmitir embargos de divergência quando a jurisprudência do Superior Tribunal de Justiça estiver no mesmo sentido do acórdão combatido.
+4. Agravo interno não provido"(AgInt nos EREsp 1.846.403/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 31/08/2021, DJe 08/09/2021).
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA AGRAVADA.
+1. A jurisprudência desta Corte Superior tem entendido que, embora se tratando de contrato firmado por pessoa jurídica, o contrato coletivo de plano de saúde que possua número ínfimo de participantes, no caso apenas quatro beneficiários, dado o seu caráter de contrato coletivo atípico, justifica a incidência do Código de Defesa do Consumidor, autorizando tratamento excepcional como plano individual ou familiar. Precedentes. Incidência da Súmula 83 do STJ.
+2. Agravo interno desprovido"(AgInt no REsp 1.941.800/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/10/2021, DJe 08/10/2021).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. OPERADORA. POSSIBILIDADE. TRATAMENTO MÉDICO EM CURSO. MANUTENÇÃO DOS SERVIÇOS. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+2. "A resilição unilateral do plano de saúde, mediante prévia notificação, não obstante seja em regra válida, revela-se abusiva quando realizada durante o tratamento médico que possibilite a sobrevivência ou a manutenção da incolumidade física do beneficiário ou dependente"(AgInt no REsp 1.903.742/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 15/04/2021).
+3. Agravo interno provido para, em novo julgamento, conhecer do agravo e dar parcial provimento ao recurso especial"(AgInt no AREsp 1.834.218/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/08/2021, DJe 24/09/2021).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. NECESSIDADE DE MANUTENÇÃO DE COBERTURA ENQUANTO O SEGURADO ESTIVER EM TRATAMENTO MÉDICO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DO STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. DESISTÊNCIA PARCIAL DE PEDIDOS. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N.º 07/STJ. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO"(AgInt no REsp 1.807.511/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/09/2021, DJe 23/09/2021).
+Ademais, a alteração das conclusões do acórdão, para afastar o entendimento de que é abusiva a majoração das mensalidades, visto que não houve comprovação da necessidade do reajuste por sinistralidade, demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE DAS MENSALIDADES POR SINISTRALIDADE. FALTA DE DEMONSTRAÇÃO DOS CRITÉRIOS PARA ALCANÇAR O ÍNDICE DE REAJUSTE PRETENDIDO. AUSÊNCIA DE ELEMENTOS PARA AFERIR A SUA REGULARIDADE. ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. SÚMULAS N. 5 E 7/STJ. APLICAÇÃO DE MULTA. NÃO CABIMENTO. RECURSO QUE NÃO SE MOSTROU MANIFESTAMENTE PROTELATÓRIO. AGRAVO INTERNO IMPROVIDO.
+1. Impossível desconstituir o entendimento delineado no acórdão impugnado quanto à abusividade do reajuste e ausência de justificativa para a majoração dos valores cobrados, sem que se proceda ao reexame dos fatos e das provas dos autos e à análise do contrato firmado entre as partes, o que não se admite nesta instância extraordinária, em decorrência do disposto nas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+(..)
+3. Agravo interno a que se nega provimento"(AgInt no AREsp 1.782.857/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021).
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECURSO DE APELAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER. REVISÃO DE REAJUSTE DE MENSALIDADES. VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTENTE. OFENSA AO PRINCÍPIO DA BÓA-FÉ OBJETIVA. REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A Corte de origem, mediante a análise do acervo fático-probatório, com base no princípio da boa-fé objetiva, nos elementos fático-probatórios dos autos e na interpretação das cláusulas do contrato, concluiu pelo cabimento do pedido autoral de revisão dos reajustes das mensalidades do Plano de Saúde, consignando que não procedia a alegação da operadora de necessidade de reequilíbrio econômico-financeiro do contrato, pois ficou evidenciado que o reajuste era abusivo, e demandava onerosidade excessiva ao consumidor, sendo incabível a sua adequação. Súmulas 5 e 7 do STJ.
+(..)
+7. Agravo interno não provido"(AgInt no AREsp 1.815.098/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/09/2021, DJe 27/09/2021).
+Assim, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
