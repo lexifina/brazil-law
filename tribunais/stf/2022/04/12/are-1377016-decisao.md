@@ -1,0 +1,39 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    "APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA – LICENÇA-PRÊMIO NÃO GOZADA – APOSENTADORIA – PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA – REJEITADA - MÉRITO – CONVERSÃO DA LICENÇA-PRÊMIO NÃO USUFRUÍDA EM PECÚNIA – POSSIBILIDADE – PREQUESTIONAMENTO – RECURSO DESPROVIDO.
+
+    O mandado de segurança impetrado contra ato que indefere pedido de conversão de licença-prêmio em pecúnia não configura substituto de ação de cobrança, não havendo que se falar em inadequação da via eleita. Precedentes.
+
+    O servidor que não usufruiu da licença-prêmio quando se encontrava na ativa, e que não teve computada, em dobro, para a contagem de tempo de serviço para efeito de aposentadoria, tem direito a sua conversão em pecúnia, sob pena de locupletamento ilícito da Administração.
+
+    Torna-se desnecessária a manifestação expressa a respeito dos dispositivos legais, porquanto não está o magistrado obrigado a abordar artigo por artigo de lei, mas tão somente a apreciar os pedidos e a causa de pedir fundamentando a matéria que interessa ao correto julgamento da lide."
+
+    No recurso extraordinário sustenta-se violação dos arts. 2º, 5º, LXIX, 30 e 37, caput, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/3/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+
+    Ademais, o Supremo Tribunal Federal, examinando o Agravo de Instrumento nº 800074 segundo a sistemática da repercussão geral (Tema nº 318), decidiu que: não há repercussão geral (questão infraconstitucional) - Trânsito em Julgado em 28/02/2011.
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 12 de abril de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
