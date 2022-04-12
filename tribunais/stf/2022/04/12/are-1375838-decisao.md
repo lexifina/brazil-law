@@ -1,0 +1,75 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    APELAÇÃO CÍVEL EM AÇÃO SOBRE REMUNERAÇÃO EM REGIME JURÍDICO ESTATUTÁRIO. GRATIFICAÇÃO DE TEMPO INTEGRAL. INCORPORAÇÃO AOS VENCIMENTOS. IMPOSSIBILIDADE. GRATIFICAÇÃO DE NATUREZA TRANSITÓRIA, TEMPORÁRIA E EVENTUAL. CONCESSÃO A CRITÉRIO DA ADMINISTRAÇÃO. VANTAGEM PRO LABORE FACIENDO. INVIABILIDADE DE INCORPORAÇÃO AOS VENCIMENTOS DE UM SERVIDOR PARA QUALQUER EFEITO. INCLUSÃO DO ADICIONAL DE ESCOLARIDADE NA COMPOSIÇÃO DO VENCIMENTO-BASE. NÃO CABIMENTO. RECURSO CONHECIDO E DESPROVIDO. DECISÃO UNÂNIME.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, caput; 37, caput; e 39, § 1º, incisos I, II e III, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que a parte recorrente não indicou nas razões do recurso extraordinário em que consiste a suposta violação do permissivo constitucional apontado, limitando-se a sustentar que houve ofensa a dispositivo constitucional, o que atrai a incidência da Súmula nº 284/STF, que assim dispõe: “É inadmissível o recurso extraordinário [ ] quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido, os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROGRAMA DE DESLIGAMENTO VOLUNTÁRIO. LEI 4.051/1986 DO ESTADO DO PIAUÍ. NECESSIDADE DE REEXAME DE NORMAS INFRACONSTITUCIONAIS LOCAIS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280/STF. INTERPOSIÇÃO DE APELO EXTREMO COM BASE NA ALÍNEA C DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 284/STF. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame das normas infraconstitucionais pertinentes, o que é vedado pela Súmula 280/STF. Precedentes. III - Apelo extremo com base na alínea c do inciso III do art. 102 da Constituição Federal. É deficiente a fundamentação do recurso que não particulariza de que forma ocorreu a alegada ofensa à Constituição. Incidência da Súmula 284 do STF. IV - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC)” (RE nº 1.183.212/PI-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 13/5/19).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AGENTE PENITENCIÁRIO ESTADUAL. PERCEPÇÃO DE ADICIONAL DE PERICULOSIDADE. BASE DE CÁLCULO. LEI 6.772/2006 DO ESTADO DE ALAGOAS. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. HIPÓTESE DA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 284 DO STF. AGRAVO REGIMENTAL DESPROVIDO” (RE nº 896.468/AL-AgR, Primeira Turma, Rel. Luiz Fux, DJe de 20/5/19).
+
+    Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    Cinge-se a controvérsia em analisar a decisão do juízo de 1º grau que julgou improcedentes os pedidos de pagamento de gratificação por tempo integral, bem como de integração do adicional de escolaridade ao vencimento base do ora recorrente.
+
+    Em que pese os argumentos do apelante, não vislumbro motivos para a reforma da sentença.
+
+    (...)
+
+    Nesse sentido, a disposição legal que trata da matéria é explícita ao estabelecer que a gratificação por regime especial de trabalho compreende duas espécies, a saber: gratificaçãode tempo integral e gratificação de dedicação exclusiva, previstas no Estatuto dos Funcionários Públicos do Município de Belém, Lei nº 7.502/90, em seus arts. 53 e 62 a 64, que traz as hipóteses em que as gratificações serão devidas:
+
+    Art. 53. Remuneração é o vencimento acrescido das gratificações e demais vantagens de caráter permanente atribuídas ao funcionário pelo exercício de cargo público.Parágrafo único. As indenizações, auxílios e demais vantagens ougratificações de caráter eventual não integram a remuneração.(...)
+
+    Art. 62. Aos funcionários poderão ser concedidas as seguintes gratificações:
+
+    I - por regime especial de trabalho:a) em tempo integral; b) em dedicação exclusiva;
+
+    Art. 63. A gratificação de tempo integral ou de dedicação exclusiva será devida ao funcionário ocupante de cargo efetivo, comissionado ou em função gratificada, quando convocado para prestação de serviços em regime especial de trabalho.
+
+    Art. 64. A gratificação devida ao funcionário convocado a prestar serviço em regime de tempo integral ou de dedicação exclusiva obedecerá às seguintes bases percentuais:
+
+    I - tempo integral: cinquenta por cento do vencimento-base do cargo, com carga horária mínima de duas horas, além da jornada normal de trabalho diária; e
+
+    II - dedicação exclusiva: cem por cento do vencimento-base do cargo.
+
+    § 1°. A concessão da gratificação por regime especial de trabalho dependerá de prévia e expressa autorização do Prefeito ou da Comissão Executiva da Câmara Municipal, sendo vedada a percepção cumulativa.
+
+    Da análise detida dos autos, observa-se que a Gratificação de Tempo Integral, fixada no art. 63 da Lei nº 7.502/90, será concedida, a critério da Administração, e está relacionada à condição em que o trabalho é prestado, qual seja, a prestação de serviços além da jornada normal.
+
+    Trata-se de vantagem pro labore faciendo, já que ocorre devido às condições nãousuais em que é prestado, e, portanto, não se incorpora aos vencimentos dos servidores para qualquer efeito.
+
+    Assim sendo, possui natureza transitória, temporária e eventual, podendo cessar seu pagamento quando não se fizer mais necessária a prestação de serviços além da jornada normal de trabalho pelo servidor, no interesse do Poder Público, sob critérios de conveniência e oportunidade.
+
+    Isso porque todas as vantagens e/ou parcelas de caráter não permanente não compõe a remuneração do servidor. Nesse sentido dispõe o parágrafo único do art. 53 da Lei nº 7.502/90, “Parágrafo único. As indenizações, auxílios e demais vantagens ou gratificações decaráter eventual não integram a remuneração”.
+
+    Resta claro, portanto, que o apelante não faz jus à incorporação da gratificação de tempo integral a sua remuneração.
+
+    Desse modo, verifica-se que a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência das Súmulas nºs 279 e 280 desta Corte. Sobre o tema, a propósito:
+
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE CIÊNCIA E TECNOLOGIA (GDACT). LEI Nº 11.907/2009. NATUREZA DA VANTAGEM. SÚMULAS 279 E 280/STF. PRECEDENTES. RECURSO MANIFESTAMENTE INADMISSÍVEL. IMPOSIÇÃO DE MULTA. 1. Dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza jurídica das vantagens concedidas aos servidores, se genéricas ou pro labore faciendo, exige o exame da legislação local pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos. Incidência das Súmulas 279 e 280/STF. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE nº 1.117.020/RJ-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 7/6/19).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO. NATUREZA JURÍDICA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL E DE REEXAME DE PROVAS: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 1.188.557/RJ-AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/6/19).
+
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 12 de abril de 2022.
+
+Ministro LUIZ FUX
+
+Presidente
+
+Documento assinado digitalmente
