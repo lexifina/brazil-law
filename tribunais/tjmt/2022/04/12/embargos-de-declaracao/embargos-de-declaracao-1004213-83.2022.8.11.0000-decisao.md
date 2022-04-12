@@ -1,0 +1,43 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+EMBARGOS DE DECLARAÇÃO No 1004213-83.2022.8.11.0000
+EMBARGANTES: NILSON SILVA PIVA, EVANEI DE LOURDES DEI PIVA, NIVALDO PIVA e FABIANE RAQUEL KOPPER PIVA
+EMBARGADA: RENATO A. DUARTE – ME
+DECISÃO MONOCRÁTICA
+EMBARGOS DE DECLARAÇÃO - AGRAVO DE INSTRUMENTO - OMISSÃO E CONTRADIÇÃO – VÍCIOS NÃO VERIFICADOS - ACLARATÓRIOS REJEITADOS.
+Vistos.
+Trata-se de embargos de declaração com efeitos infringentes opostos por NILSON SILVA PIVA, EVANEI DE LOURDES DEI PIVA, NIVALDO PIVA e FABIANE RAQUEL KOPPER PIVA, alegando omissão e contradição na decisão que concedeu o efeito suspensivo (Id. 121566962) pleiteado pela ora embargada, RENATO A. DUARTE – ME, nos autos de Agravo de Instrumento n. 1004213-83.2022.8.11.0000, em relação à decisão proferida em primeiro grau de jurisdição que deferiu o requerimento de suspensão do processo de execução de no 1005607-92.2019.8.11.0045 e, por consequência, determinou o cancelamento da inscrição dos embargantes nos cadastros de inadimplentes e da indisponibilidade de bens.
+Alegam os embargantes que ao decidir a medida de urgência, concedendo o efeito suspensivo recursal, esta Relatora não observou que o “ADT-001/19 – ADITIVO AO INSTRUMENTO PARTICULAR DE CONTRATO DE EXECUÇÃO DE OBRAS EM REGIME DE EMPREITADA POR PREÇO GLOBAL – RAD-001/19 datado de 20/01/2019, não se enquadra no conceito de título executivo extrajudicial constante no inciso III do art. 784 do CPC, haja vista que, (i) a uma, está desprovido da assinatura do Exequente, (ii) a duas, está desprovido da assinatura de 02 (dois) dos Executados, dentre os quais EVANEI DE LOURDES DEI PIVA e FABIANE RAQUEL KOPPER PIVA, (iii) a três, está desprovido da assinatura de 02 (duas) testemunhas instrumentais” (sic).
+Ressaltam que “o ADITIVO trata de documento APÓCRIFO e sem lastro para dar início ao processo executivo, de forma que não pode ser considerado para nenhum fim jurídico esse ADITIVO, data máxima vênia, o que não foi observado ao prolatar a r. decisão concessiva de antecipação da tutela recursal” (sic).
+Declaram “omissa a decisão embargada, mormente o título exequendo é inexistente - apócrifo, ante a falta de assinatura das partes contratantes, bem como das testemunhas, conforme orientação do STJ e demais Tribunais pátrios” (sic).
+Asseveram que “foi omitido intencionalmente pelo agravante que as parcelas do ano de 2020 e 2021 do contrato originário, foram caucionadas COM DEPÓSITO NA CONTA JUDICIAL nos autos de ação de obrigação de fazer n° 1005098-30.2020.8.11.0045, em tramite perante a 1a Vara Cível da Comarca de Lucas do Rio Verde/MT, o que totalizou a quantia de R$ 2.283.024,22 (dois milhões duzentos e oitenta e três mil vinte e quatro reais e vinte e dois centavos)” (sic).
+Discorrem que se entender que “deve ser garantido o Juízo nos valores constantes do DOCUMENTO EXEQUENDO APÓCRIFO (sem assinatura dos devedores e das testemunhas), tem que haveria uma diferença do montante depositado, na quantia de R$1.334.638,22 (um milhão trezentos e trinta e quatro mil seiscentos e trinta e oito reais e vinte e dois centavos)” (sic).
+Explicam que “com o fim de ver cessado atos expropriatórios que estão trazendo enorme prejuízos aos executados, estes REFORÇAM A CAUÇÃO IDÔNEA, na quantia total de R$ 7.120.018,76 (sete milhões cento e vinte mil dezoito reais e setenta e seis centavos)” (sic), ofertando bens em garantia - imóvel urbano objeto da matrícula 21.309 do CRI de Lucas do Rio Verde e complexo industrial para beneficiamento de algodão.
+Assim, requerem o provimento dos aclaratórios “para sanar as omissões e contradições existentes na decisão embargada, com a concessão de EFEITOS INFRINGENTES, para reconhecer a garantia integral do Juízo, e consequentemente seja mantida a decisão agravada, até análise definitiva das preliminares que apontam a nulidade da execução ante a ausência de título executivo” (sic).
+Alternativamente, os embargantes pugnam que seja aceita a CAUÇÃO dos bens acima ofertados.
+Contrarrazões apresentadas no Id. 123548985.
+É o relatório.
+Decido.
+A par do que foi relatado, constata-se inviável o acolhimento dos presentes aclaratórios, isso porque o decisum embargado mostra-se devidamente fundamentado e com as razões de decidir devidamente demonstradas, não havendo que se falar em vícios de omissão ou contradição.
+No que pertine ao recebimento do recurso de agravo de instrumento, ao contrário do que alega a embargante, a decisão é clara ao dispor que:
+“(...) a uma análise não exauriente da questão, cumpre assinalar que assiste razão à agravante, pois ao compulsar os autos vislumbram-se indicativos de probabilidade de provimento do recurso, especialmente porque na decisão agravada foi reconhecido que “os embargantes ofertam bens suficientes para garantia do juízo e admissibilidade do efeito suspensivo da execução” (sic). Entretanto, há sugestivos indícios que isso não ocorre.
+Explicando: em tese, o Código de Processo Civil prevê que “os embargos à execução não terão efeito suspensivo” (art. 919). Excepcionalmente, “o juiz poderá, a requerimento do embargante, atribuir efeito suspensivo aos embargos quando verificados os requisitos para a concessão da tutela provisória e desde que a execução já esteja garantida por penhora, depósito ou caução suficientes.” (§ 1o, art. 919, CPC).
+Do que se vê, o efeito suspensivo à execução é exceção.
+Voltando à questão aventada, há de se registrar que o crédito exequendo não deve ser corrigido tão somente por índice da Caderneta de Poupança como foi feito no caso concreto, mas relevante a previsão legal contida no art. 406 do Código Civil, verbis:
+“Art. 406. Quando os juros moratórios não forem convencionados, ou o forem sem taxa estipulada, ou quando provierem de determinação da lei, serão fixados segundo a taxa que estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional.” (sublinhei).
+Portanto, como não foram convencionados os juros moratórios (Id. 120806998), estes serão fixados de acordo com a taxa que estiver em vigor, concernente ao pagamento de impostos devidos à Fazenda Nacional.
+E, sendo assim, o valor inicial da execução merece ser atualizado monetariamente pelo INPC/IBGE com incidência de juros moratórios de 01% (um por cento) ao mês.
+Vale frisar que o depósito judicial desconsiderou o principal atualizado pelo índice correto, bem como não foi observado valores como custas, despesas processuais e honorários advocatícios.
+De mais a mais, não é pertinente reconhecer que a apropriação de bens do devedor gera “risco de dano grave, de difícil ou impossível reparação”, já que este constitui o objeto da execução. De modo que não pode ser utilizado como requisito do efeito suspensivo, como foi feito pelo juízo a quo.
+Por consequência, neste primeiro momento, é de se notar que a execução subjacente aos embargos não foi garantida por caução idônea, o que viabiliza a suspensão da decisão recorrida.
+Veja-se, ademais, que a arguição trazida pela agravante, de que a iminência de cumprimento do decisum recorrido lhe acarretará grandes prejuízos, é o bastante, a meu ver, para a configuração do periculum in mora. Digo isso, porque além do explanado - caução inferior ao valor discutido - não está sendo reconhecido o vencimento das outras parcelas da dívida.
+Considerando, pois, a presença dos requisitos inerentes à medida de urgência, mostra-se prudente nesta esfera de cognição sumária, a concessão do pleito inicial até o julgamento Colegiado, quando a Câmara Julgadora, melhor e mais informada acerca dos fatos, possa decidir com certeza e segurança sobre o mérito recursal.
+Diante do exposto, CONCEDO o efeito suspensivo vindicado, para obstar a eficácia da decisão agravada até julgamento final deste agravo (...)” (Id. 121566962).
+Desta forma, diferentemente do que alegam os embargantes, a decisão é clara ao registrar os fundamentos quanto ao seu recebimento.
+De outro canto, não é o momento oportuno para se decidir sobre suposta “premissa fática equivocada”, uma vez que ao que declaram os embargantes, trata-se do próprio mérito do agravo de instrumento e com este será analisada.
+De mais a mais, de igual modo, este não é o momento adequado, nem o meio próprio para se insurgir quanto ao oferecimento de bens em caução, até porque isto não foi submetido ao juízo de primeiro grau e, por consequência, não é objeto do recurso de agravo de instrumento.
+Assim, considerando que não foram apresentados elementos novos à reapreciação da matéria, tampouco se verificam os vícios apontados pelos embargantes, REJEITO de plano os embargos de declaração.
+Intimem-se. Cumpra-se.
+Às providências pertinentes.
+Cuiabá/MT, 12 de abril de 2022.
+Desa. Antônia Siqueira Gonçalves
+Relatora
