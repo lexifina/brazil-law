@@ -1,0 +1,50 @@
+AGRAVANTE(S): MT - COMERCIO DE COMBUSTIVEIS LTDA.
+AGRAVADO(S): ESTADO DE MATO GROSSO
+Protocolo: 1005505-06.2022.8.11.0000
+LIMINAR
+Visto.
+Trata-se de recurso de agravo de instrumento interposto por MT - COMERCIO DE COMBUSTIVEIS LTDA., contra decisão proferida pelo Juízo da 1a Vara Especializada da Fazenda Pública da Capital-MT, que nos autos do Mandado de Segurança no 1004351-24.2022.8.11.0041, deferiu parcialmente a liminar pleiteada na exordial, para determinar que a autoridade impetrada julgue os Requerimentos administrativos n. 5853388/2020, n. 5853403/2020, n. 5853415/2020, n. 5853429/2020.
+Aduz que a recorrente é pessoa jurídica de direito privado que tem como principal atividade o comércio varejista de combustível para consumidor final.
+Sustenta que no caso de comércio varejista de combustível, o ICMS é recolhido antecipadamente pelas fornecedoras da recorrente por meio de substituição tributária pra frente.
+Argumenta que o Supremo Tribunal Federal, por meio de julgamento submetido a repercussão geral, estabeleceu que quando o tributo estadual é recolhido por meio de substituição tributaria pra frente, e o valor da base de cálculo presumida é superior ao valor real e venda, o contribuinte faz jus à restituição e/u compensação do tributo cobrado e recolhido a maior.
+Assegura que para o ressarcimento do valo do crédito, a legislação autoriza que a emissão das notas fiscais de ressarcimento em nome dos fornecedores da Agravante, para que possa ser feita a compensação tributária dos valores oriundos do ressarcimento com os débitos provenientes de futuras aquisições da Agravante.
+Assevera que demonstrou no procedimento administrativo que o tributo apurado e recolhido é maior que o devido, de modo que além da determinação para que seja apreciado o requerimento extrajudicial, deve ser determinado que o entendimento do STF e a legislação relativa ao ressarcimento sejam observados.
+Argui que, embora a autoridade fazendária tenham exigido a documentos financeiros que comprovem o pagamento e o recebimento das operações realizadas, tal exigência é ilegal, pois “se a comprovação de que o fato gerador definitivo ocorreu em valor menor que o fato gerador presumido pode ser feita com a simples análise das notas fiscais de entrada e saída, ou até mesmo dos por meio dos relatórios gerados pelo programa de computador aprovado pela comissão técnica COTEPE [...] Neste sentido prescrevem os artigos 3o, § 14o, do RICMS-MT/2014 e artigo 118, incisos I e II do CTN
+Pontua que o art. 1.038, §1o do RICMS-MT/2014 faculta ao contribuinte a apresentação em procedimento administrativo dos documentos que a Secretaria de Fazenda possa verificar em seu banco de dados.
+Verbera que, diferentemente do que constou na decisão objurgada, o § 2o do artigo 7o da Lei 12.016/2009, não é óbice para determinação da realização do ressarcimento/compensação uma vez que foi declarado inconstitucional de sede de Ação Direta de Inconstitucionalidade 4296/DF.
+Afirma que estão presentes os requisitos para deferir a liminar pleiteada na exordial.
+Com base nestes fundamentos, pugna pela concessão da tutela antecipada recursal, para determinar que seja “realizado o ressarcimento/compensação dos valores cobrados a maior e indevidamente, bem como emitida ordem para que a Autoridade Coatora confira as planilhas de liquidez apresentadas pela Agravante e posteriormente autorize a emissão das notas fiscais de ressarcimento em nome dos fornecedores da Agravante, para que façam a compensação tributária dos valores oriundos do ressarcimento com os débitos provenientes de futuras aquisições da Agravante”.
+No mérito pleiteia que seja reformada a decisão objurgada, para deferir integralmente a liminar na forma como pleiteada na inicial.
+É o relatório.
+Decido.
+Para o deferimento da tutela antecipada ou efeito suspensivo ao Recurso de Agravo de Instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam, a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos, 300, 995, parágrafo único e 1.019, I, ambos do Código de Processo Civil, como cito:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão; [...]”.
+“Art. 995. [...]
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+Em análise aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido de tutela antecipada recursal não merece acolhimento. Vejamos.
+Argui em síntese a recorrente, que como substituída tributária, faz jus à restituição de ICMS-ST, nos casos em que a base de cálculo presumida for superior ao valor da base de cálculo efetiva (realizada) e que, após a revogação do § 2o do artigo 7o da Lei 12.016/2009, pode ser determinada a compensação/restituição inclusive em sede de liminar nas ações mandamentais.
+Sobre o assunto, sabe-se que o Supremo Tribunal Federal por meio do Recurso Paradigma RE 593.849-MG (Tema 201), entendeu que “É devida a restituição da diferença do Imposto sobre Circulação de Mercadorias e Serviços – ICMS pago a mais no regime de substituição tributária para frente se a base de cálculo efetiva da operação for inferior à presumida”.
+No entanto, embora os indícios pairem no sentido de que seria possível a compensação/ressarcimento do valor do ICMS-ST, quando a base de cálculo utilizada para cálculo do tributo for superior ao preço praticado no mercado, o Código Tributário Nacional veda que a compensação/restituição por aproveitamento seja realizada a ação que visa o reconhecimento do direito ao crédito e encontre pendente de julgamento, o que obstaria a possibilidade de deferimento da medida por meio de tutela antecipada recursal.
+A propósito, vejamos a legislação:
+“Art. 170-A do CTN. É vedada a compensação mediante o aproveitamento de tributo, objeto de contestação judicial pelo sujeito passivo, antes do trânsito em julgado da respectiva decisão judicial”.
+Além disso, tenho que a medida de urgência vindicada na seara recursal acabaria por exaurir o objeto da ação originária, o que é vedado em nosso ordenamento jurídico, conforme se verifica do artigo 1.059, ambos do Código de Processo Civil, cumulado como o artigo 1o, §3o da Lei no. 8.437/92, como cito:
+“Art. 1.059 do CPC. À tutela provisória requerida contra a Fazenda Pública aplica-se o disposto nos arts. 1o a 4o da Lei no 8.437, de 30 de junho de 1992, e no art. 7o, § 2o, da Lei no 12.016, de 7 de agosto de 2009”.
+“Art. 1° da Lei no. 8.437/92. Não será cabível medida liminar contra atos do Poder Público, no procedimento cautelar ou em quaisquer outras ações de natureza cautelar ou preventiva, toda vez que providência semelhante não puder ser concedida em ações de mandado de segurança, em virtude de vedação legal.
+[...]
+§ 3° Não será cabível medida liminar que esgote, no todo ou em qualquer parte, o objeto da ação. [...]”
+Na mesma vertente tem se pronunciado o Superior Tribunal de Justiça e este Sodalício:
+“AÇÃO CIVIL PÚBLICA. ANTECIPAÇÃO DE TUTELA REFORMADA EM AGRAVO. ALEGAÇÃO DE OFENSA AO ART. 273, § 2o, DO CPC E AO ART. 1o DA LEI 8.437/92. 1. Na origem, o Tribunal de Justiça assentou o entendimento de que, na hipótese dos autos, a antecipação de tutela esgota o objeto da ação, de modo que sua concessão é vedada nos termos do art. 1o da lei 8.437/92. 2. O Superior Tribunal de Justiça firmou a orientação de que "ao estabelecer que 'não será cabível medida liminar que esgote, no todo ou em parte, o objeto da ação', o § 3o do art. 1o, da Lei n. 8.437/92, está se referindo, embora sem apuro técnico de linguagem, às liminares satisfativas irreversíveis, ou seja, àquelas cuja execução produz resultado prático que inviabiliza o retorno ao status quo ante, em caso de sua revogação" . (STJ - REsp 1343233/RS - Rel. Ministro Herman Benjamin - Segunda Turma - Julgado em 05/09/2013 - DJe 17/09/2013).
+“RECURSO DE AGRAVO DE INSTRUMENTO – [...] VEDAÇÃO LEGAL À TUTELA DE URGÊNCIA QUE ESGOTA O OBJETO DA AÇÃO – NECESSIDADE DE AVALIAR E DECIDIR OUTRAS QUESTÕES [...] 5. Vedação legal à tutela de urgência que esgote o objeto da ação. [...]”. (TJMT - N.U 1000058-76.2018.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, MARIA EROTIDES KNEIP BARANJAK, Primeira Câmara de Direito Público e Coletivo, Julgado em 25/11/2019, Publicado no DJE 29/11/2019)
+“PROCESSUAL CIVIL – RECURSO DE AGRAVO DE INSTRUMENTO [...] MEDIDA LIMINAR SATISFATIVA – ESGOTAMENTO DO OBJETO DA AÇÃO DE BASE – CONCESSÃO VEDADA – ART. 1o, §3o, DA LEI N. 8.437/1992 – PROVIMENTO. Há se de ser indeferido o pleito liminar quando tiver caráter satisfativo e a sua concessão esgotar por completo o objeto da demanda”. (TJMT - MÁRCIO VIDAL, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 02/04/2018, Publicado no DJE 11/04/2018)
+Por esse motivo, não se vislumbra a presença do requisito da probabilidade do direito.
+Igualmente, tenho que aguardar o mérito do recurso não irá causar qualquer dano à recorrente e nem colocará em risco o resultado útil do processo.
+Assim, não de constata a presença dos requisitos necessários para o deferimento da medida de urgência pleiteada na seara recursal.
+Ante o exposto, indefiro a tutela antecipada recursal vindicada.
+Comunique-se o teor desta decisão ao Juízo a quo.
+Intime-se a parte Agravada, para querendo, apresentar resposta no prazo legal.
+Após, à Procuradoria Geral de Justiça para emissão de parecer.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relator
