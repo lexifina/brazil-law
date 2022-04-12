@@ -1,0 +1,58 @@
+SEÇÃO DE DIREITO PRIVADO
+RECLAMAÇÃO N.o 1022098-47.2021.8.11.0000
+RECLAMANTE: CLAUDINEI DE OLIVEIRA MARINS e CRISTINA SANTANA DUARTE MARINS
+RECLAMADA: TURMA RECURSAL ÚNICA DO ESTADO DO MATO GROSSO
+DECISÃO MONOCRÁTICA
+RECLAMAÇÃO – ROL TAXATIVO – ART. 988 DO CPC – NÃO ENQUADRAMENTO – MERA INCONFORMIDADE – UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL – IMPOSSIBILIDADE – PETIÇÃO INICIAL INDEFERIDA.
+1. Por se tratar de instrumento excepcional, o manuseio da reclamação exige sumária demonstração de uma das hipóteses permissivas do rol taxativo (art. 988 do CPC).
+2. A reclamação não pode ser utilizada como mero sucedâneo recursal. Precedentes do STJ e do TJMT.
+3. Petição inicial indeferida.
+Vistos.
+Trata-se de reclamação constitucional proposta por CLAUDINEI DE OLIVEIRA MARINS e CRISTINA SANTANA DUARTE MARINS em face de acórdão proferido pela TURMA RECURSAL ÚNICA DO ESTADO DO MATO GROSSO, nos autos de Recurso Inominado no 1009183-60.2021.8.11.0001, interposto em desfavor de SERASA S.A. E CONFEDERAÇÃO NACIONAL DE DIRIGENTES LOJISTAS.
+Os reclamantes alegam que “a decisão proferida pela Turma Recursal Única de Mato Grosso, in casu, violou os temas repetitivos no 37, 38 e 40 e a Súmula 359 do Superior Tribunal de Justiça, sendo cabível o manejo da presente reclamação com supedâneo no artigo 988 do Código de Processo Civil, na Resolução no STJ/GP no 03/2016 e no artigo 105, I, f, da Constituição Federal, com vistas a dirimir a divergência entre a decisão da Turma Recursal e a jurisprudência consolidada do Superior Tribunal de Justiça, fazendo prevalecer a autoridade da decisão deste último” (sic).
+Sustentam que “em 08 de março de 2021 os Reclamantes propuseram “ação indenizatória de danos morais” em face de Serasa Experian S/A e Confederação Nacional de Dirigentes Lojistas destacando que tiveram seu nome, ambos, indevidamente incluído nos bancos de dados das Reclamadas, por inexistência de prévia notificação” (sic).
+Anotam que “a dívida questionada é uma das 420 parcelas do financiamento imobiliário entabulado entre os Reclamantes e a Caixa Econômica Federal, com vencimento em 11/11/2020, no valor de R$ 1.381,40 (um mil, trezentos e oitenta e um reais e quarenta centavos). Tal informação é o ponto central da questão posta nesta reclamação” (sic).
+Dizem que “em sede de contestação, as Reclamadas destacaram o seguinte: 1) a Serasa Experian S/A aduziu que notificou os Reclamantes relativamente à parcela do mesmo contrato com vencimento em 11/10/2020, no valor de R$ 1.384,13 (um mil, trezentos e oitenta e quatro reais e treze centavos) e, por isso, era desnecessária nova notificação, no seu ponto de vista; 2) já a Confederação Nacional de Dirigentes Lojistas afirmou ser parte ilegítima para figurar no polo passivo da demanda, pois apenas disponibilizou para consulta em seu banco de dados dívida inscrita pelo Serasa Experian S/A, apenas reproduzindo-o” (sic).
+Acrescentam que “na sentença, Sua Excelência improcedeu a demanda, entendendo ter havido a comprovação da notificação prévia pela Serasa Experian S/A; na mesma oportunidade, declarou a ilegitimidade de parte da Confederação Nacional de Dirigentes Lojistas (ID 101762467 dos autos originais)” (sic).
+Discorrem que “os Reclamantes opuseram, então, embargos de declaração, afirmando conter erro material no decisum pois a notificação acostada à ID 54232868 pela Serasa Experian S/A possuía valor e vencimento distintos daquela discutida nos autos (ID 101762469). Sua Excelência, contudo, rejeitou os aclaratórios (ID 101762476)” (sic).
+Ressaltam que “diante deste cenário, interpuseram Recurso Inominado, alegando a legitimidade de parte da Confederação Nacional de Dirigentes Lojistas e a falta de notificação prévia da dívida questionada nos autos, pugnando pela procedência da ação e a condenação das Reclamadas à indenização pelos danos morais sofridos” (sic).
+Asseveram que a Turma Recursal entendeu “por desnecessária a expedição de novo comunicado pela inadimplência do mesmo contrato”, decidindo, pois que “não há de se falar em legitimidade passiva por parte da reclamada CONFEDERAÇÃO NACIONAL DE DIRIGENTES LOJISTAS, pois é apenas é a mantenedora dos dados não possuindo qualquer responsabilidade pela exatidão e veracidade do conteúdo que lhe são confiados” (sic).
+Discorrem os reclamantes que “ainda que se trate de parcelas relativas ao mesmo contrato, possuem fatos geradores distintos por se tratar de contrato de prestação continuada, sendo cada qual exigível a seu tempo e modo, pelo que não é correto afirmar ser desnecessária nova notificação quando implementada uma anterior; principalmente quando falamos de um contrato de 420 parcelas, como aludido na prefacial” (sic).
+Assinalam que “tal entendimento, colenda Câmara, destoa do entendimento consolidado pelo egrégio Superior Tribunal de Justiça e destacado no Tema Repetitivo 40 e na Súmula 359 porque incumbe ao órgão mantenedor o dever de efetuar a notificação antes da inscrição; e sua ausência enseja reparação por danos morais” (sic).
+Pugnam pelo “recebimento da presente Reclamação, julgando-a procedente para cassar o acórdão proferido pela Turma Recursal Única nos autos do processo no 1009183-60.2021.8.11.0001”, julgando desde logo “procedente a demanda promovida pelos Reclamantes nos autos do processo no 1009183-60.2021.8.11.0001, condenando as litisconsortes passivas Serasa Experian S/A e Confederação Nacional de Dirigentes Lojistas, cada qual, a indenizar os Reclamantes pelos danos morais provocados em razão da indevida inclusão de seu nome nos órgãos de restrição ao crédito, por falta de notificação prévia, no importe de R$ 20.000,00 (vinte mil reais) para cada Reclamante, segundo aquilo pleiteado na peça inicial do processo” (sic).
+Requerem, ainda, a concessão dos benefícios da Justiça Gratuita.
+É o relatório.
+Decido.
+De início há de se consignar que consoante manifestação de Id. 115443971, documentos anexos e aqueles apresentados na origem, dão suporte a reconhecer que os reclamantes realmente se tratam de pessoas hipossuficientes. Aliás, o benefício foi deferido em sede de recurso inominado (Id. 112324998 - fl. 113).
+Pois bem. Na análise da matéria, cumpre salientar que de acordo com o artigo 231 do Regimento Interno deste Tribunal, a Reclamação é o meio adequado para garantir a autoridade das decisões do Tribunal de Justiça, sejam em caráter extintivo ou terminativo. Isto é, a Reclamação visa preservar a competência deste Tribunal ou mesmo garantir a autoridade e o cumprimento de suas decisões.
+Segundo a Resolução STJ/GP n.o 3, de 07 de abril de 2016, cabe às Câmaras Reunidas o processamento e julgamento das “Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e a jurisprudência do STJ, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes”.
+Dessa forma, o mérito da reclamação só poderá ser analisado se presentes os requisitos de admissibilidade.
+Ao analisar o juízo de admissibilidade desta reclamação, não verifico uma das condições de ação, qual seja, o interesse processual por inadequação da via eleita.
+Efetivamente, o rol previsto no artigo 988 do CPC é taxativo, veja-se:
+“Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência”.
+Na hipótese, trata-se de ação indenização por dano moral movida pelos reclamantes em face da SERASA S.A. e CONFEDERAÇÃO NACIONAL DE DIRIGENTES LOJISTAS que funda-se na alegação de ocorrência de indevida inscrição de seu nome nos órgãos de proteção ao crédito.
+Em primeiro grau, foi acolhida a preliminar de ilegitimidade passiva da CONFEDERAÇÃO NACIONAL DE DIRIGENTES LOJISTAS e julgada improcedente a pretensão deduzida na inicial (Id. 112324998 - fls. 73/78).
+Em sede de recurso inominado, entendendo por ausentes os direitos dos ora reclamantes, foi negado provimento a este, mantendo-se na íntegra a sentença recorrida, nos termos do artigo 46, da Lei no 9.099/95.
+Por esta via, os reclamantes pretendem a reforma do acórdão para reconhecer o direito à indenização perseguida.
+Tem-se que a reclamação não se enquadra em nenhuma das hipóteses de cabimento, eis que os reclamantes pretendem apenas a rediscussão do julgado, utilizando-se desta como sucedâneo recursal.
+As hipóteses de cabimento da reclamação são restritas e sua utilização como sucedâneo recursal não é admitida, conforme entendimento jurisprudencial sedimentado do STJ e deste Sodalício.
+A propósito:
+“PROCESSUAL CIVIL. RECLAMAÇÃO. AJUIZAMENTO CONTRA ACÓRDÃO DE TURMA RECURSAL DO JUIZADO ESPECIAL FEDERAL E CONTRA DECISÃO DA PRESIDÊNCIA DA TNU QUE NÃO ADMITIU O INCIDENTE DE UNIFORMIZAÇÃO. INADEQUAÇÃO.
+1. A reclamação, tal como concebida nos arts. 105, I, "f", da Constituição Federal e 187 do RISTJ, é medida de caráter restrito destinada a preservar a competência do Tribunal ou garantir a autoridade das suas decisões, não servindo como medida destinada a avaliar o acerto ou desacerto das decisões proferidas pelo Tribunal de origem. No caso, fica evidenciado o não cabimento da presente reclamação, pois utilizada como sucedâneo recursal.
+2. Agravo interno não provido.” (STJ - AgInt na Rcl 35.831/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 02/04/2019, DJe 04/04/2019) (sem negrito no original).
+“RECLAMAÇÃO – INTERPOSIÇÃO EM FACE DE ACÓRDÃO DA TURMA RECURSAL ÚNICA DOS JUIZADOS ESPECIAIS DO ESTADO DE MATO GROSSO – RESOLUÇÃO STJ/GP N. 3/2016 – REQUISITOS NÃO PREENCHIDOS – UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL – DESCABIMENTO – EXTINÇÃO.
+A reclamação interposta em face de acórdão emanado da Turma Recursal dos Juizados Especiais deve preencher os requisitos taxativos descritos na Resolução STJ/GP n. 3/2016, sob pena de não ser conhecida e extinta liminarmente. A reclamação não pode ser admitida como sucedâneo recursal.” (TJMT - N.U. 1002848-67.2017.8.11.0000, EMBARGOS DE DECLARAÇÃO CÍVEL, DES. CARLOS ALBERTO ALVES DA ROCHA, SEÇÃO DE DIREITO PRIVADO, Julgado em 10/12/2018, Publicado no DJE 22/01/2019) (sem negrito no original).
+Desta forma, eventuais violações de preceitos constitucionais e/ou legais, se cometidas pelos votos formadores da decisão reclamada, não são passíveis de correção neste processo, hão de ser examinadas, caso suscitadas, se interpostos os adequados recursos aos Tribunais Superiores.
+Com esses fundamentos, nos termos do art. 51, XIV e XV, do RITJMT e art. 485, I e IV, do CPC, INDEFIRO A PETIÇÃO INICIAL desta Reclamação pela ausência de sumária demonstração de seu enquadramento no rol taxativo do art. 988 do mesmo Código Processual.
+De outro canto, conforme alhures exposto, DEFIRO a gratuidade da justiça.
+Advirto a possibilidade de aplicação da multa prevista no §4o do art. 1.021 do CPC, a qual ficará condicionada ao depósito prévio que trata o §5o do mesmo artigo, no caso de interposição de agravo interno considerado manifestamente inadmissível ou improcedente em decisão unânime.
+Dê-se ciência a douta Procuradoria-Geral de Justiça.
+Intimem-se as partes e, transcorrido o prazo recursal sem qualquer irresignação, realizem-se as anotações e baixa de estilo para arquivamento.
+Cumpra-se.
+Cuiabá - MT, 12 de abril de 2022.
+Desa. Antônia Siqueira Gonçalves
+Relatora
