@@ -1,0 +1,42 @@
+PRIMEIRA CÂMARA CRIMINAL
+HABEAS CORPUS No 1006867-43.2022.8.11.0000 - COMARCA DE MIRASSOL D'OESTE
+IMPETRANTE(S): CARLOS WAGNER GOBATI DE MATOS – DEF. PÚBLICO
+PACIENTE(S): FABIANO MARTINS DE CARVALHO
+DECISÃO INTERLOCUTÓRIA
+Vistos,
+Habeas Corpus impetrado em favor de FABIANO MARTINS DE CARVALHO contra ato comissivo da 3a Vara da Comarca de Mirassol D’Oeste, nos autos de incidente processual (PJE no 1000341-27.2022.8.11.0011), que converteu o flagrante em prisão preventiva pelo cometimento, em tese, de tráfico de drogas - art. 33, caput, e art. 35, da Lei no 11.343/2006 - (ID 124427165 – fls. 38/43).
+O impetrante sustenta que: 1) a decisão constritiva não estaria fundamentada em pressupostos da custódia cautelar; 2) as medidas cautelares alternativas seriam suficientes.
+Requer a concessão da ordem liminarmente para que seja revogada a prisão preventiva do paciente ou aplicadas medidas cautelares alternativas (ID 124427164), com documentos (ID 124427165).
+Relatos.
+Em 23.3.2022, o Juízo singular, a requerimento do órgão do Ministério Público de primeiro grau, converteu o flagrante em prisão preventiva com a seguinte fundamentação:
+“A materialidade do crime está comprovada pelo auto de prisão em flagrante, boletim de ocorrência, laudo pericial preliminar e termos de depoimentos prestados em sede policial.
+Aliado à materialidade do delito encontram-se os indícios de autoria configurados pelos depoimentos colhidos. [...]
+Pelos depoimentos dos policias, verifica-se a realização de campana na residência de Fabiano para averiguação de denúncias de que havia pessoas em consumo de entorpecente, verificando-se o entra e sai de pessoas, fato que justificou a ação na residência de Fabiano.
+Fabiano informou que houve autorização para ingresso em sua residência, apresentando o material ilícito que ali estava. Bem como indicou Alef como comparsa, razão pela qual a ação policial se dirigiu até aquele.
+Consta nos autos que o pai do suspeito Alef permitiu o ingresso no local. E que no local foi encontrada grande quantidade de entorpecente.
+Neste ponto, observo que consta nos autos relatório policial, termo de apreensão e registro fotográfico do material apreendido, corroborando para as afirmações repassadas pelos depoentes.
+Assim, materialidade resta devidamente demonstrada, bem como os indícios de autoria delitiva restam devidamente demonstradas pelos documentos e depoimentos acostados aos autos.
+O cárcere cautelar se apresenta indispensável para garantia da ordem pública e para aplicação da lei penal. A garantia da ordem pública resta abalada pela gravidade em concreto do crime.
+Neste sentido, verifica-se que com os flagrados foram encontradas grande quantidade de entorpecente, isto é, encontrados 09 (nove) tabletes de entorpecentes análogos a maconha (laudo pericial de id. 75980793), de massa inicial de 6.725,0 g (seis quilos setecentas e vinte cinco gramas), o que autoriza a decretação da preventiva, nos termos do Enunciado 25 do Egrégio Tribunal de Justiça: [...]
+Desse modo, indispensável para a ordem pública, não estando o flagranteados preparado para ao convívio social sem atentar para a segurança pública e paz social, de forma que a segregação cautelar se mostra salutar para preservação da ordem pública, diante da repugnância da sociedade perante delito dessa natureza.
+Insta consignar, que é indispensável para a conveniência da instrução criminal, haja vista que este tipo de ilícito causa instabilidade no meio social e para evitar que novos fatos criminosos ocorram.
+A necessidade exsurge ainda do fato de que o crime de tráfico de substância entorpecente constitui grave ameaça à saúde pública, porque as drogas causam dependência física e psíquica, além de ocasionarem efeitos nefastos sobre as bases econômicas, culturais e políticas da sociedade, cujo aprisionamento do agente é medida que se impõe para se assegurar tal garantia.
+Importante salientar, ainda, que o flagrado Fabiano Martins de Carvalho se trata de pessoa contumaz na prática de delitos, uma vez que responde ao processo de n. 2419-16.2019.811.0011, pelos delitos de embriaguez e posse de entorpecentes para uso. [...]
+Tais fatos demonstram a incitação dos flagrados em delitos de da Lei de Drogas, indicando a possibilidade de reiteração delitiva, principalmente quanto ao crime de tráfico de drogas. [...]
+Diante o exposto, homologo a prisão em flagrante dos autuados Aleff José de Aragão e Fabiano Martins de Carvalho, nos termos dos artigos 311 e 312 ambos do Código de Processo Penal, converto-a em prisão preventiva.” (Sabrina Andrade Galdino Rodrigues, juíza de Direito – ID 124427165 – fls. 38/43)
+Em 18.3.2022, Aleff José de Aragão e o paciente foram denunciados por tráfico de drogas e associação para o tráfico - art. 33, caput, e art. 35, da Lei no 11.343/2006 – (PJE no 1000580-31.2022.8.11.0011).
+Em 14.4.2022, o Juízo singular recebeu a denúncia e designou a audiência de instrução para 7.7.2022 (PJE no 1000580-31.2022.8.11.0011).
+Pois bem.
+A prisão preventiva está fundamentada na garantia da ordem pública e conveniência da instrução processual, consubstanciada em indicativos de envolvimento do paciente em tráfico de drogas, extraídos da apreensão de 9 (nove) tabletes de maconha, com peso total de 6.725kg (seis quilos e setecentos e vinte cinco gramas), bem como na reiteração delitiva, diante do registro de ação penal por tráfico de drogas (PJE no 2419-16.2019.811.0011/ Comarca Mirassol D’Oeste).
+A quantidade da droga apreendida - 6.725kg (seis quilos e setecentos e vinte cinco gramas) - constitui fundamento idôneo para prisão cautelar (STJ, HC 443.326/SP - Relator: Min. Ribeiro Dantas - 28.6.2018).
+Todavia, as substâncias entorpecentes [9 (nove) tabletes de maconha] foram localizadas no interior da residência de Aleff José de Aragão, localizada à rua Dorcilio Sales de Matos, n.o 3543, bairro Jardim São Paulo, em Mirassol D’Oeste/MT, conforme depoimento o policial militar Edclilson Moreira Veloso (ID 124427165 - fls. 241), ao passo que o paciente possui endereço à rua 6, n.o 802, bairro Jardim São Paulo, Mirassol D’Oeste/MT (ID 124427164).
+Ademais, a respeito da anotação criminal pretérita [ação penal por tráfico de drogas no 2419-16.2019.811.0011/ Comarca Mirassol D’Oeste], a denúncia oferecida em desfavor do paciente foi rejeitada pelo Juízo singular, de modo que sua reiteração delitiva não subsiste.
+As particularidades concretas “de cada caso não podem, em decisão que suprime a liberdade humana, ser ignoradas, sob pena de engendrar a decretação automática de prisão preventiva contra todos os autores de crimes graves, independentemente de singular apreciação de cada um deles” (STJ, HC no 299.666/SP - Relator: Min. Rogerio Schietti Cruz - 23.10.2014).
+No caso, o paciente é primário (http://siap.tjmt.jus.br e Sistema Primus), tem 24 (vinte e quatro) anos de idade, endereço certo [rua 6, n.o 802, Bairro Jardim São Paulo, Mirassol D’Oeste/MT] e exerce função de “pintor”, sob fé do grau de Defensor Público, a presumir veracidade.
+Nesse quadro, ao ponderar a quantidade da droga, a idade/primariedade do paciente e a excepcionalidade da segregação cautelar diante da atual pandemia de COVID-19 (Recomendação no 62/2020 do CNJ, art. 4o), mostra-se recomendável a substituição da custódia preventiva por medidas cautelares alternativas (CPP, art. 315), instrumentos de natureza inibitória e/ou proibitiva eficazes para atingir a mesma finalidade da prisão (STF, HC no 127823 - Relator: Min. Teori Zavascki - 23.6.2015; STJ, STJ ,HC no 533.436/RS - Relator: Min. Rogerio Schietti Cruz - 2.12.2019)
+Com essas considerações, DEFERE-SE PARCIALMENTE o pedido liminar para substituir a prisão preventiva dos pacientes pelas medidas cautelares: 1) comparecimento periódico em Juízo singular, em prazo e condições estabelecidas pelo juiz da causa, para informar e justificar atividades civis; 2) não se ausentar da Comarca, sem prévia autorização judicial; 3) comunicar à autoridade judiciária eventual mudança de endereço (CPP, art. 319, I e IV), ressalvada a dispensa de qualquer delas e sem prejuízo da fixação de outras pelo Juízo singular, sob pena de revogação do benefício.
+Outrossim, COMUNIQUE-SE ao Juízo singular para expedição do apto alvará de soltura, observadas as medidas cautelares impostas, facultadas informações, no prazo de até 5 (cinco) dias.
+Após, VISTA à i. PGJ.
+Cumpra-se.
+Cuiabá, 13 de abril de 2022.
+Des. MARCOS MACHADO
