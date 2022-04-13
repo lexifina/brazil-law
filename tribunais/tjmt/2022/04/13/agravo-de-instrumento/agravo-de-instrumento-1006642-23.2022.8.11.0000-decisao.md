@@ -1,0 +1,11 @@
+Vistos etc.
+Recurso de agravo de instrumento interposto por BANCO DO BRASIL SA contra decisão proferida pelo Juízo de Direito da 2a Vara Cível da Comarca de Sinop/MT, nos autos da ação de execução de título extrajudicial no 0001674-39.2010.8.11.0015, onde figura como parte contrária GEOVANI POTRICH, que acolheu parcialmente a exceção de pré-executividade Id. 70452662–p.40/59-origem e, por conseguinte, reconheçeu a ilegitimidade passiva de Maiara Denise Steffen para figurar na presente ação de execução de título executivo extrajudicial e, com fundamento no art. 485, inciso VI, do Código de Processo Civil, julgou extinto o processo, sem julgamento de mérito, com relação a executada Maiara Denise Steffen. Considerando o princípio da causalidade, condenou a excepta/exequente ao pagamento dos honorários advocatícios, os quais fixo em 10% (dez por cento) sobre o valor do proveito econômico obtido, com fulcro no artigo 85, § 2o, incisos I a IV, do Código de Processo Civil.
+Inconformado, sustenta o Agravante, em síntese, que não são devidos os honorários no patamar em que foram fixados o referido valor não atenda à legislação vigente, bem como aos princípios da proporcionalidade e razoabilidade, sendo certo que causará dano ao Agravante, vez que estará obrigado ao pagamento de quantia notadamente injusta, incorrendo, inclusive em enriquecimento sem causa (em relação apenas ao percentual excedente) ao respeitável patrono da parte adversa.
+Requer a reforma da decisão recorrida, para o fim de que seja diminuído em patamar ínfimo a condenação em honorários considerando a atuação na causa e aplicação do principio da proporcionalidade e razoabilidade em sintonia com a jurisprudência firmada a respeito.
+Sucinto relato.
+Inexistindo pedido de liminar, em análise preliminar e não preclusiva da questão, reputam-se presentes os requisitos elencados nos artigos 1.015, § único, e artigo 1.017, inciso I, ambos do Código de Processo Civil, necessários para conhecimento do agravo na forma instrumental.
+Intimem-se a parte agravada, por intermédio do respectivo patrono, para, querendo e no prazo legal, apresentar contrarrazões (art. 1019, II, do CPC).
+Às providências de praxe, autorizando a Senhora Secretária da Segunda Câmara Cível a assinar os expedientes necessários.
+Cumpra-se.
+Desembargador Sebastião de Moraes Filho.
+= r e l a t o r =
