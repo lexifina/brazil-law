@@ -1,0 +1,30 @@
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por GISNAYRA SANTIAGO DA SILVA MORAES e outros, em face de decisão prolatada pelo Juízo da 9a Vara Cível da Comarca de Cuiabá/MT, que, nos autos da Ação Anulatória de Procedimento de Execução Extrajudicial para Suspensão de Leilões n. 1011926-83.2022.8.11.0041, proposta em desfavor da BANCO BRADESCO S.A., e indeferiu o pedido de Justiça Gratuita.
+Os Agravantes aduzem, em síntese, que o feito na origem se trata de ação anulatória de procedimento de execução extrajudicial para suspensão de leilões, proposta pelos mesmos em desfavor do Agravado, visando discutir a nulidade da ação de execução extrajudicial relativo a contrato de financiamento imobiliário, dentre outras questões.
+Consignam que o Agravado levou o imóvel para Hasta Pública, sendo assim, os Agravantes estão prestes a perder seu bem, ainda assim, poderá receber uma ação de imissão na posse, não restando alternativa a requerente, a não ser socorrer-se do Poder Judiciário, para conseguir uma negociação que seja bom para ambos e que tenha seu regular prosseguimento. Alegam que sequer foram notificados quanto à realização do leilão.
+Sustentam que o segundo Agravante precisou se ausentar do trabalho por motivo de doença, em maio de 2021, por cerca de 06 meses. Afirma que não possui documentação de afastamento por trabalhar por conta própria.
+Asseveram que os Agravantes dispões dos valores para purgação da mora, mas procurado, o Agravado informou que não mais poderia negociar o débito, ante a consolidação da propriedade do imóvel a seu favor. Defende que é possível a purgação da mora até mesmo após a consolidação do imóvel.
+Consignam que o principal intuito dos Agravantes é voltar à adimplência junto ao Agravado e permanecerem no imóvel e darem continuidade no pagamento do contrato.
+Pontuam que a situação financeira em que os Agravantes se encontram é notória, sendo comprovados nos autos por meio de documentos, demonstrando que fazem jus a concessão da gratuidade da justiça.
+Ressaltam que a condição de hipossuficiência dos Agravantes é revelada pelas próprias circunstâncias da motivação da propositura do feito na origem, qual seja, suspensão do leilão.
+Argumentam a possibilidade de purgação da mora em fase recursal, pugnando pelo deferimento de depósito judicial no valor de R$ 12.000,00 e a intimação do Agravado para fins de receber o valor depositado em juízo e dar quitação ao débito.
+Defendem que se busca a manutenção da posse do bem objeto da lide na origem, vez que são possuidores, destacam o princípio da dignidade da pessoa humana, bem como salientam a presença dos requisitos de fumus boni iuris e periculum in mora.
+Com essas considerações requerem seja concedido o efeito ativo, para deferir a manutenção de posse ao Agravantes, bem como “para SUSPENDER A HASTA PÚBLICA DESIGNADA E TODOS SEUS ATOS ATENTATÓRIOS e Julgar procedentes os pedidos formulados na presente ação para declarar inválida o registro de averbação/adjudicação da matrícula do imóvel, oriundo do contrato discutido na presente ação em nome Agravada/terceiros e que , o Tabelionato a adotar as providências necessárias para retornar a matrícula do imóvel ao “status quo” ante, condenando a Agravada ao pagamento do ônus de sucumbência, ou que seja deferida a suspensão do leilão até o julgamento do processo”.
+Pugnam pelo deferimento de depósito judicial para a purgação da mora no valor de R$12.000,00 (doze mil reais).
+No mérito, pugna pelo provimento do recurso, para reformar a decisão agravada.
+É o relatório.
+DECIDO
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil de 2015:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão (...)”.
+Pois bem.
+No que se refere a medida vindicada, ao analisar os argumentos apresentados pelos Agravantes, identifico como relevantes os fundamentos, a ensejar a concessão da medida requerida em parte.
+Em sede de cognição sumária, visualiza-se o risco de difícil reparação, o que possibilita, ao menos por ora, a concessão do efeito suspensivo, relativa ao indeferimento da concessão da gratuidade.
+Contudo, cumpre-me registrar que o agravo de instrumento deve se restringir somente à análise do acerto ou desacerto da decisão recorrida, sob pena de supressão de instância.
+Assim, não cabe a este órgão fracionário, neste momento, apreciar o pedido de antecipação de tutela pleiteada na petição inicial, pois, tais questionamentos devem ser analisados e decididos primeiramente pelo juízo a quo, sob pena de supressão de instância e violação do duplo grau de jurisdição.
+Dessa forma, sem prejuízo de uma análise mais acurada após as informações do Juízo a quo e resposta do Agravado, defiro em parte o efeito suspensivo, para sobrestar os efeitos da decisão agravada que indeferiu o pedido de gratuidade da justiça, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se a decisão ao Juízo “a quo”, facultando-lhe prestar informações.
+Intime-se o Agravado, na forma do art. 1.019, inciso II, do NCPC, para que responda, no prazo de 15 (quinze) dias.
+Des. Sebastião BARBOSA FARIAS
+Relator
