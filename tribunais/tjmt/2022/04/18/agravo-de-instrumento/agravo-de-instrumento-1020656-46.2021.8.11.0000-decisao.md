@@ -1,0 +1,69 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial no Agravo de Instrumento n. 1020656-46.2021.8.11.0000
+RECORRENTE(s): JURAMY MARIA MARTINS DE ARRUDA
+RECORRIDO(s): INSTITUIÇÃO EDUCACIONAL MATOGROSSENSE-IEMAT
+Vistos.
+Trata-se de recurso especial com pedido de efeito suspensivo interposto por JURAMY MARIA MARTINS DE ARRUDA, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado deste Sodalício, assim ementado (ID 116610955):
+RECURSO DE AGRAVO DE INSTRUMENTO – EXECUÇÃO DE TÍTULO EXTRAJUDICIAL – DECISÃO QUE DETERMINOU O DESBLOQUEIO DE 70% (SETENTA POR CENTO) DOS PROVENTOS DE APOSENTADORIA DA PARTE EXECUTADA – MANUTENÇÃO DA PENHORA SOBRE 30% (TRINTA POR CENTO) - POSSIBILIDADE - RELATIVIZAÇÃO DA REGRA DE IMPENHORABILIDADE PREVISTA NO ARTIGO 833, INCISO IV, DO CPC - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+De acordo com o artigo 833, inciso IV, do CPC, a verba salarial é impenhorável. No entanto, o STJ firmou entendimento no sentido de que, em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no artigo 833, IV, do CPC, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar.
+No caso dos autos, nota-se que, de início, foi bloqueada a totalidade dos proventos da aposentadoria da Agravante; no entanto, o juiz liberou 70% (setenta por cento) do valor retido, permitindo o bloqueio de tão somente 30% (trinta por cento), o que, ao meu sentir, é plenamente possível e dentro dos limites permitidos pela jurisprudência.
+Ademais, observo que o numerário bloqueado não representa risco de comprometimento de renda essencial à sua subsistência e da sua família.
+(AI n. 1020656-46.2021.8.11.0000, Desembargadora Relatora Clarisse Claudino da Silva, Segunda Câmara de Direito Privado, data do julgamento 02.02.2022)”.
+Na espécie, o recurso foi interposto contra o aresto proferido em sede de Agravo de Instrumento, aviado por JURAMY MARIA MARTINS DE ARRUDA, que manteve a decisão do juízo da 3a vara cível da comarca de Cuiabá Juína, no sentido de determinar a penhora de 30% da verba salarial da parte recorrente, a ser efetuada mensalmente, para pagamento de valor determinado em ação de execução de título extrajudicial.
+A parte recorrente alega violação ao artigo 833, inciso IV c/c §2o do Código de Processo Civil, além de divergência jurisprudencial, ao argumento de que: (a) a verba em questão é impenhorável, não se encaixando em quaisquer exceções previstas em lei aptas ao deferimento do bloqueio ora objurgado, até mesmo porque o valor da aposentadoria recebida é inferior a 50 salários mínimos(b) não foi observado o binômio necessidade/ possibilidade de custeio, tendo em vista que a penhora de 30% sobre seus salários implica em violação à sua subsistência digna.
+Recurso tempestivo e preparado (IDs 119873461 e 119855976).
+Efeito suspensivo indeferido (ID 120246471).
+Contrarrazões pelo não seguimento do recurso (ID 123409995).
+É o relatório.
+Decido.
+1- Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+2- Decisão em conformidade com o entendimento do STJ (Súmula 83 STJ).
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+A parte recorrente alega que é inviável a penhora de 30% sobre seus vencimentos, tendo em vista que não recebe valor superior a 50 salários-mínimos, situação que, em tese, justificaria a excepcionalidade do bloqueio.
+No acórdão impugnado ficou consignado que:
+“Cinge a controvérsia na possibilidade de penhora do remunerção da Agravante para satisfação de crédito oriundo das mensalidades não pagas pela Agravante.
+Conforme relatado, a Agravante almeja a liberação do valor retido pela Agravada correspondente a 30% da sua aposentadoria.
+Sobre a matéria, a Lei Processual Civil, no artigo 833, estabelece o rol dos bens impenhoráveis, ou seja, aqueles que, em regra, responderão pela satisfação da dívida.
+O inciso IV do mesmo dispositivo preconiza que os vencimentos, os subsídios, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal são impenhoráveis.
+Depreende-se, nessa perspectiva, que o dispositivo legal visa à proteção das verbas de natureza alimentar, com o propósito de garantir patrimônio mínimo indispensável à existência digna do devedor.
+Todavia, não se pode perder de vista que a penhora de bens é necessária para garantir ao credor o direito de reaver seu crédito.
+Sob esse prisma, o Superior Tribunal de Justiça firmou entendimento no sentido de que, em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no artigo 833, IV, do CPC, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência e a de sua família (REsp 1658069/GO, Rel. Ministra Nancy Andrighi, 3.a Turma. Julgado em 14/11/2017. Publicado em 20/11/2017). (...) Do mesmo modo, à luz do princípio da dignidade humana e de garantia do mínimo existencial, tem-se firmado no âmbito de outros Tribunais que é possível a penhora da verba salarial, desde que se resguarde valor suficiente para que o devedor possa garantir sua subsistência e que não represente risco de comprometimento de renda essencial à sua subsistência e da sua família.
+A impenhorabilidade, portanto, não pode ser utilizada como refúgio para o devedor descumprir suas obrigações.
+É importante repetir que o Exequente tem o direito de ter seu crédito satisfeito, inobstante a natureza da verba salarial e sua proteção em observância do princípio da dignidade da pessoa humana.
+Na hipótese, nota-se que, de início, foi bloqueada a totalidade dos proventos da aposentadoria da Agravante; no entanto, o Juiz liberou 70% (setenta por cento) do valor retido, mantendo os 30% (trinta por cento) restantes, o que, ao meu sentir, é plenamente possível, já que está dentro dos limites permitidos pela jurisprudência.
+Dessa forma, embora os valores penhorados se tratem de aposentadoria, a penhora de 30% (trinta por cento) dessa remuneração não foge dos parâmetros de razoabilidade e proporcionalidade erigidos pela jurisprudência, o que afasta a probabilidade do direito alegado pela Agravante.
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ no sentido de que, em situações peculiares, é possível a penhora sobre o salário do executado fora das hipóteses previstas em lei, desde que preservado o suficiente para garantia de sua subsistência e da sua família, conforme se extrai da ementa do julgado abaixo:
+“AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA DO PERCENTUAL DE 15% DA APOSENTADORIA E DA PENSÃO. IMPOSSIBILIDADE DE MACULAR A SOBREVIVÊNCIA DO DEVEDOR E DE SUA FAMÍLIA. PRÉVIA APURAÇÃO ACERCA DE BENS PARA SALDAR A DÍVIDA. SÚMULA 7/STJ. CABIMENTO DA CONSTRIÇÃO. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante o STJ, "não há que se falar na flexibilização da impenhorabilidade com base, unicamente, no disposto no art. 833, IV, § 2o, do CPC/2015, porque a própria evolução jurisprudencial não impede que tal mitigação ocorra nas hipóteses em que os vencimentos, subsídios, soldos, etc. sejam inferiores a 50 (cinquenta) salários mínimos. O que a nova regra processual dispõe é que, em regra, haverá a mitigação da impenhorabilidade na hipótese de as importâncias excederem o patamar de 50 (cinquenta) salários mínimos, o que não significa dizer que, na hipótese de não excederem, não poderá ser ponderada a regra da impenhorabilidade" (EDcl nos EREsp 1.518.169/DF, Rel. Ministra Nancy Andrigui, Corte Especial, julgado em 21/5/2019, DJe 24/5/2019).
+2. A segunda instância atestou que a penhora do percentual de 15% dos montantes decorrentes da pensão e da aposentadoria não interferiria no sustento do devedor e de sua família, razão por que não haveria óbice à sua implementação. Essas conclusões, além de terem sido fundadas na apreciação fática da causa (aplicação da Súmula 7/STJ), estão de acordo com o entendimento deste Tribunal Superior sobre a questão, atraindo a aplicação da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1815052/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/03/2020, DJe 20/03/2020).
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS.
+CPC/73, ART. 649, IV. DÍVIDA NÃO ALIMENTAR. CPC/73, ART. 649, PARÁGRAFO 2o. EXCEÇÃO IMPLÍCITA À REGRA DE IMPENHORABILIDADE. PENHORABILIDADE DE PERCENTUAL DOS VENCIMENTOS. BOA-FÉ. MÍNIMO EXISTENCIAL. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA.
+1. Hipótese em que se questiona se a regra geral de impenhorabilidade dos vencimentos do devedor está sujeita apenas à exceção explícita prevista no parágrafo 2o do art. 649, IV, do CPC/73 ou se, para além desta exceção explícita, é possível a formulação de exceção não prevista expressamente em lei.
+2. Caso em que o executado aufere renda mensal no valor de R$ 33.153,04, havendo sido deferida a penhora de 30% da quantia. 3. A interpretação dos preceitos legais deve ser feita a partir da Constituição da República, que veda a supressão injustificada de qualquer direito fundamental. A impenhorabilidade de salários, vida digno em favor de si e de seus dependentes. Por outro lado, o credor tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais.
+4. O processo civil em geral, nele incluída a execução civil, é orientado pela boa-fé que deve reger o comportamento dos sujeitos processuais. Embora o executado tenha o direito de não sofrer atos executivos que importem violação à sua dignidade e à de sua família, não lhe é dado abusar dessa diretriz com o fim de impedir injustificadamente a efetivação do direito material do exequente.
+5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes.
+6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+7. Recurso não provido. (EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, REPDJe 19/03/2019, DJe 16/10/2018).
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta ao artigo 833 incisos IV do CPC, visto que o entendimento exposto no acórdão recorrido se encontra em sintonia com a orientação sedimentada no STJ.
+Lado outro, e apenas por reforço argumentativo, nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação ao artigo supramencionado se sustenta na assertiva de que a penhora de 30% incidente sobre a aposentadoria da parte recorrente significa impedimento à subsistência digna, o que está na contramão do decido pelo aresto recorrido
+Desta forma, para rever o entendimento firmado no aresto recorrido sobre este ponto e infirmar a tese de que, no específico caso dos autos, a manutenção da penhora em 30% sobre a aposentadoria atende aos princípios da razoabilidade e proporcionalidade é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. PENHORA DE PERCENTUAL DE SALÁRIO. MITIGAÇÃO DA REGRA DA IMPENHORABILIDADE. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. 3. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. A alteração das conclusões adotadas pela Corte de origem - quanto ao bloqueio de parte da verba remuneratória afetar a subsistência do devedor e de sua família - demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior, por ambas as alíneas do permissivo constitucional.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1883173/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/02/2022, DJe 23/02/2022)
+Ante o exposto, NEGO SEGUIMENTO ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
