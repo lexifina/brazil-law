@@ -1,0 +1,321 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+
+Câmara de Uniformização
+
+Processo N.
+INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS 0702708-44.2022.8.07.0000
+
+SUSCITANTE(S)
+DESEMBARGADOR JOÃO LUÍS FISCHER DIAS
+
+SUSCITADO(S)
+NÃO HÁ
+
+Relator
+Desembargador JOAO EGMONT
+
+Relatora Designada
+ Desembargadora FÁTIMA RAFAEL
+
+Acórdão Nº
+1415462
+
+EMENTA
+
+PROCESSUAL CIVIL. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS.  AUSÊNCIA DOS PRESSUPOSTOS DO ARTIGO 976 DO CPC. INADMISSÃO DO IRDR.
+
+1. O Incidente de Resolução de Demandas Repetitivas – IRDR tem por objetivo dirimir controvérsia sobre questão unicamente de direito para afastar risco de ofensa à isonomia e à segurança jurídica (artigo 976, I e II, do CPC). Busca uniformizar o entendimento dos Tribunais criando um modelo a ser seguido. Todavia, para a instauração do incidente é necessário que ocorra, simultaneamente, a repetição de processos que tratem da mesma questão de direito e haja risco de ofensa à isonomia e à segurança jurídica.
+
+2. No presente caso, o incidente tem o objetivo de uniformizar a seguinte tese jurídica: nulidade de cláusula em contrato de crédito consignado, por suposta violação aos deveres de informação aos consumidores do Banco BMG S.A.
+
+3. A situação trazida pelo Suscitante não se insere nas hipóteses previstas no artigo 976 do CPC.  Ocorre que traz questões de fato, mas não de direito.
+
+4. Não há como presumir que houve falha ou violação no dever de prestar informação pela instituição financeira a todos correntistas. Há situação individualizada que, por necessitar de produção de provas e contraditório, não se submete às regras de admissão do incidente.
+
+A simples repetição de demandas com a mesma controvérsia, as quais necessitam de instrução probatória e análise fática, não comporta a instauração do incidente proposto.
+
+5.  Incidente de Resolução de demandas repetitivas não admitido. Maioria.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) Câmara de Uniformização do Tribunal de Justiça do Distrito Federal e dos Territórios, JOAO EGMONT - Relator, FÁTIMA RAFAEL - Relatora Designada e 1º Vogal, LUÍS GUSTAVO B. DE OLIVEIRA - 2º Vogal, GETÚLIO MORAES OLIVEIRA - 3º Vogal, MARIO-ZAM BELMIRO - 4º Vogal, LEILA ARLANCH - 5º Vogal, ESDRAS NEVES - 6º Vogal, DIAULAS COSTA RIBEIRO - 7º Vogal, ANA CANTARINO - 8º Vogal, RÔMULO DE ARAÚJO MENDES - 9º Vogal, FERNANDO HABIBE - 10º Vogal, MARIA IVATÔNIA - 11º Vogal, VERA ANDRIGHI - 12º Vogal, ARNOLDO CAMANHO - 13º Vogal e SIMONE LUCINDO - 14º Vogal, sob a Presidência do Senhor Desembargador TEÓFILO CAETANO, em proferir a seguinte decisão: INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS NÃO ADMITIDO. DECISÃO POR MAIORIA. VENCIDO O RELATOR. REDIGIRÁ O ACÓRDÃO A DESEMBARGADORA FÁTIMA RAFAEL, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 26 de Abril de 2022
+
+Desembargadora FÁTIMA RAFAELRelatora Designada
+
+RELATÓRIO
+
+Cuida-se dos Incidentes de Resolução de Demandas Repetitivas ns. 0702708-44.2022.8.07.0000 e 0702765-62.2022.8.07.0000, suscitados pelo DESEMBARGADOR JOÃO LUÍS FISCHER DIAS, nos autos das apelações ns. 0705959-81.2020.8.07.0019 e 0708862-06.2021.8.7.0003, respectivamente, que tramitam na 5ª Turma Cível, sob sua relatoria.
+
+De acordo com o Magistrado, os incidentes foram protocolados com o objetivo de uniformização da seguinte tese jurídica: nulidade de cláusula em contrato de cartão de crédito consignado, por suposta violação dos deveres de informação ao consumidor por parte do Banco BMG S.A.
+
+Informa, para fins do art. 976 do CPC, que: a) existe efetiva repetição de processos contendo essa mesma controvérsia jurídica que, no entanto, vem sendo solucionada de forma diversa pelos órgãos fracionários desta Corte de Justiça, causando risco de ofensa aos princípios da isonomia e da segurança jurídica; b) há causas pendentes de julgamento no tribunal, pelo que se encaminham como recursos paradigma os autos ns. 0705959-81.2020.8.07.0019 e 0708862-06.2021.8.7.0003; c) os temas não foram afetados para julgamento sob a sistemática de recurso repetitivo por nenhuma das Cortes Superiores no âmbito da sua respectiva competência.
+
+Relata que a APC nº 0705959-81.2020.8.07.0019 foi interposta por EVANDRO MUNDIM DA COSTA contra a sentença proferida pelo Juízo da Vara Cível, de Família e de Órfãos e Sucessões do Recanto das Emas, que, nos autos da ação de conhecimento ajuizada em desfavor de BANCO BMG S/A, julgou improcedentes os pedidos iniciais e, em face da sucumbência, condenou o autor ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 10% do valor atribuído à causa. Em suas razões recursais, o autor/apelante alega, em síntese, que foi ludibriado ao buscar um empréstimo consignado tradicional perante o réu/apelado, o qual, a bem da verdade, apresentou contrato de cartão de crédito com reserva de margem consignável (RCM) e, por haver o desconto mensal apenas da fatura mínima do cartão, vem pagando, ao longo de 4 (quatro) anos, tão somente os juros e não há perspectiva de quitação do mútuo contratado com o decorrer do tempo. Defende, assim, a nulidade do contrato entabulado, em razão da violação ao direito de informação do consumidor. Com base nessas argumentações, pleiteia pelo provimento do apelo, para que sejam julgados procedentes os pedidos iniciais. Em contrarrazões, o banco apelado refuta a argumentação apresentada no recurso, pugnando pelo desprovimento do recurso.
+
+Narra que o Processo nº 0708862-06.2021.8.7.0003 trata-se de apelações interpostas por MARILENE PASSOS OLIVEIRA e BANCO BMG S.A contra a sentença proferida pelo Juízo da 1ª Vara Cível de Ceilândia, que, nos autos da ação de conhecimento ajuizada pela primeira em desfavor do segundo, julgou procedentes em parte os pedidos para: a) declarar a nulidade do contrato de cartão de crédito consignado nº 49931083; e b) condenar o réu a restituir em dobro os valores descontados indevidamente. Em razão da sucumbência mínima, condenou a parte ré a arcar com as custas processuais e honorários advocatícios, estes fixados no importe de 10% (dez por cento) do valor da condenação. Nas razões recursais, a autora sustenta fazer jus à indenização por danos morais, pois aduz que o banco réu “debita mensalmente parcela de natureza salarial [...] por um serviço nunca utilizado ou contratado (haja vista que houve total falha no dever de informação), além de prender/imobilizar a margem consignável [...] e colocar a parte consumidora em situação de extrema desvantagem econômica, mostrando toda a sua desídia e má-fé perante o consumidor”. Afirma também que a “inexistência de condenação do recorrido certamente irá estimular que a empresa ré continue a cometer tal ilicitude com inúmeros idosos beneficiários da previdência social”. O BANCO BMG S.A, em contrarrazões, impugna as alegações apresentadas pela autora. Por sua vez, a instituição financeira defende, em síntese, a validade da contratação cartão de crédito com desconto em folha de pagamento (cartão de crédito consignado). Aduz inexistir indícios de qualquer falta de transparência no contrato em questão. Sustenta que a parte autora tinha pleno conhecimento da contratação, de modo que os descontos realizados no benefício previdenciário são totalmente legítimos. Ressalta, também, ser incabível a restituição em dobro dos valores descontados, pois não houve falha ou ato ilícito, tampouco má-fé. Com base nessas argumentações, pugna pelo conhecimento e provimento do recurso para que, reformando a sentença, sejam julgados totalmente improcedentes os pedidos iniciais. Contrarrazões apresentadas pela parte autora, pela qual refuta as alegações formuladas pelo banco.
+
+Discorre sobre o preenchimento dos pressupostos para a instauração dos incidentes. Afirma que, em relação à existência de diversos processos similares que tratem da mesma matéria de direito, constata-se que a discussão quanto aos casos em análise tem ensejado uma proliferação de demandas. Assevera que, em uma rápida pesquisa ao sistema de jurisprudência deste tribunal, utilizando-se das seguintes palavras chaves “cartão-crédito-consignado-BMG-não-motoboy”, observa-se um total de 498 (quatrocentos e cinquenta e quatro) acórdãos proferidos por esta Corte de Justiça, sendo 132 (cento e trinta e dois) referentes à pronunciamentos de Turmas Cíveis deste Tribunal de Justiça e 322 (trezentos e vinte e dois) de decisões colegiados provenientes das Turmas Recursais. Sem contar, ainda, os diversos processos que sequer chegaram ao grau recursal. Informa que, em razão da repetição de processos similares no âmbito das Turmas Recursais deste Tribunal, foi instaurado o pedido de Uniformização de Jurisprudência, que tramita sob o número de 0700977-13.2021.8.07.9000, ainda pendente de julgamento, em que se discute a validade da contratação, referente ao mesmo modelo de instrumento contratual apresentado pelo réu Banco BMG S.A. Acrescenta que o risco de ofensa à isonomia e à segurança jurídica resta claro ante a adoção de entendimentos jurisprudenciais contrários, com a possibilidade de coexistência de decisões conflitantes acerca da mesma matéria. Explica que, no caso MARIA RODRIGUES VIEIRA versus BANCO BMG S.A (Acórdão 1348364), a Relatora Desembargadora DIVA LUCY DE FARIA PEREIRA, da 1ª Turma Cível, adotou entendimento no sentido de considerar válido o contrato de cartão de crédito entabulado pelo banco BMG, haja vista a avença indicar, com precisão, a natureza do negócio acerca da contratação para utilização de cartão de crédito consignado, com desconto em folha de pagamento, de modo a observar o dever de informação previsto no art. 6º, III, do CDC. Esse, também, é o entendimento firmado nas 2ª, 4ª, 5ª, 7ª e 8ª Turmas Cíveis deste Tribunal. Contudo, no caso PLINIO RIBEIRO BOSCO versus BANCO BMG S.A (Acórdão 1340069), o Relator Desembargador ALVARO CIARLINI, da 3ª Turma Cível, entendeu que o contrato de cartão de crédito firmado pelo banco BMG além de submeter o consumidor à desvantagem exagerada afronta o direito de informação e a boa-fé objetiva, pois não demonstra clara e precisamente sobre a modalidade do serviço efetivamente contratado pelo consumidor nem indica a quantidade de parcelas a serem consignadas em folha de pagamento, tampouco revela as condições de pagamento do valor emprestado. Igual conclusão foi adotada no caso PETRONILIO FRANCISCO DOS SANTOS versus BANCO BMG S.A (Acórdão 1379248 - Relator ESDRAS NEVES, 6ª Turma Cível). Ressalta que o relator deste caso declarou a nulidade do contrato de cartão de crédito consignado, reconhecendo, contudo, a existência de contrato de empréstimo consignado tradicional. Salienta que o contrato firmado pelo banco BMG e o consumidor é praticamente o mesmo em todos os processos citados. Há neles expressa autorização para desconto mensal para pagamento correspondente ao valor mínimo indicado na fatura do cartão de crédito consignado contratado. Além disso, os percentuais de taxa contratual mensal e anual e de custo efetivo total (CET) aplicados ao cartão são praticamente os mesmos. Observa, portanto, a ocorrência de divergência sobre o mesmo tema entre as Turmas Cíveis desta Corte de Justiça, atinente à nulidade de cláusula em cartão de crédito consignado por suposta violação dos deveres de informação por parte do Banco BMG S.A. Destaca a importância do pronunciamento da Câmara de Uniformização, com a finalidade de evitar desarmonia de interpretação sobre a mesma questão e a incerteza do direito pois, em processos idênticos, duas decisões distintas e diametralmente opostas estão sendo adotadas, o que configura uma situação de desigualdade e injustiça com os jurisdicionados.
+
+Requer, ao final, a admissão dos IRDRs, com a determinação de suspensão dos demais casos que versem sobre o mesmo tema, até a resolução dos incidentes (IDs 32185662 e 32183576).
+
+Parecer da Procuradoria de Justiça pela admissibilidade dos IRDRs, com a consequente suspensão tanto dos julgamentos dos recursos de apelação 0705959- 81.2020.8.07.0019 e 0708862-06.2021.8.7.0003, bem como de todos os processos em curso que versem sobre a questão objeto do incidente instaurado, nos termos do art. 982, I, do CPC (IDs 32906351 e 32906054).
+
+É o relatório.
+
+Peço inclusão em pauta para julgamento conjunto da admissibilidade dos IRDRs.
+
+VOTOS
+
+O Senhor Desembargador JOAO EGMONT - Relator
+
+Cuida-se dos Incidentes de Resolução de Demandas Repetitivas ns. 0702708-44.2022.8.07.0000 e 0702765-62.2022.8.07.0000, suscitados pelo DESEMBARGADOR JOÃO LUÍS FISCHER DIAS, nos autos das apelações ns. 0705959-81.2020.8.07.0019 e 0708862-06.2021.8.7.0003, respectivamente, que tramitam na 5ª Turma Cível, sob sua relatoria.
+
+De acordo com o Magistrado, os incidentes foram protocolados com o objetivo de uniformização da seguinte tese jurídica: nulidade de cláusula em contrato de cartão de crédito consignado, por suposta violação dos deveres de informação ao consumidor por parte do Banco BMG S.A.
+
+Informa, para fins do art. 976 do CPC, que: a) existe efetiva repetição de processos contendo essa mesma controvérsia jurídica que, no entanto, vem sendo solucionada de forma diversa pelos órgãos fracionários desta Corte de Justiça, causando risco de ofensa aos princípios da isonomia e da segurança jurídica; b) há causas pendentes de julgamento no tribunal, pelo que se encaminham como recursos paradigma os autos ns. 0705959-81.2020.8.07.0019 e 0708862-06.2021.8.7.0003; c) os temas não foram afetados para julgamento sob a sistemática de recurso repetitivo por nenhuma das Cortes Superiores no âmbito da sua respectiva competência.
+
+Relata que a APC nº 0705959-81.2020.8.07.0019 foi interposta por EVANDRO MUNDIM DA COSTA contra a sentença proferida pelo Juízo da Vara Cível, de Família e de Órfãos e Sucessões do Recanto das Emas, que, nos autos da ação de conhecimento ajuizada em desfavor de BANCO BMG S/A, julgou improcedentes os pedidos iniciais e, em face da sucumbência, condenou o autor ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 10% do valor atribuído à causa. Em suas razões recursais, o autor/apelante alega, em síntese, que foi ludibriado ao buscar um empréstimo consignado tradicional perante o réu/apelado, o qual, a bem da verdade, apresentou contrato de cartão de crédito com reserva de margem consignável (RCM) e, por haver o desconto mensal apenas da fatura mínima do cartão, vem pagando, ao longo de 4 (quatro) anos, tão somente os juros e não há perspectiva de quitação do mútuo contratado com o decorrer do tempo. Defende, assim, a nulidade do contrato entabulado, em razão da violação ao direito de informação do consumidor. Com base nessas argumentações, pleiteia pelo provimento do apelo, para que sejam julgados procedentes os pedidos iniciais. Em contrarrazões, o banco apelado refuta a argumentação apresentada no recurso, pugnando pelo desprovimento do recurso.
+
+Narra que o Processo nº 0708862-06.2021.8.7.0003 trata-se de apelações interpostas por MARILENE PASSOS OLIVEIRA e BANCO BMG S.A contra a sentença proferida pelo Juízo da 1ª Vara Cível de Ceilândia, que, nos autos da ação de conhecimento ajuizada pela primeira em desfavor do segundo, julgou procedentes em parte os pedidos para: a) declarar a nulidade do contrato de cartão de crédito consignado nº 49931083; e b) condenar o réu a restituir em dobro os valores descontados indevidamente. Em razão da sucumbência mínima, condenou a parte ré a arcar com as custas processuais e honorários advocatícios, estes fixados no importe de 10% (dez por cento) do valor da condenação. Nas razões recursais, a autora sustenta fazer jus à indenização por danos morais, pois aduz que o banco réu “debita mensalmente parcela de natureza salarial [...] por um serviço nunca utilizado ou contratado (haja vista que houve total falha no dever de informação), além de prender/imobilizar a margem consignável [...] e colocar a parte consumidora em situação de extrema desvantagem econômica, mostrando toda a sua desídia e má-fé perante o consumidor”. Afirma também que a “inexistência de condenação do recorrido certamente irá estimular que a empresa ré continue a cometer tal ilicitude com inúmeros idosos beneficiários da previdência social”. O BANCO BMG S.A, em contrarrazões, impugna as alegações apresentadas pela autora. Por sua vez, a instituição financeira defende, em síntese, a validade da contratação cartão de crédito com desconto em folha de pagamento (cartão de crédito consignado). Aduz inexistir indícios de qualquer falta de transparência no contrato em questão. Sustenta que a parte autora tinha pleno conhecimento da contratação, de modo que os descontos realizados no benefício previdenciário são totalmente legítimos. Ressalta, também, ser incabível a restituição em dobro dos valores descontados, pois não houve falha ou ato ilícito, tampouco má-fé. Com base nessas argumentações, pugna pelo conhecimento e provimento do recurso para que, reformando a sentença, sejam julgados totalmente improcedentes os pedidos iniciais. Contrarrazões apresentadas pela parte autora, pela qual refuta as alegações formuladas pelo banco.
+
+Discorre sobre o preenchimento dos pressupostos para a instauração dos incidentes. Afirma que, em relação à existência de diversos processos similares que tratem da mesma matéria de direito, constata-se que a discussão quanto aos casos em análise tem ensejado uma proliferação de demandas. Assevera que, em uma rápida pesquisa ao sistema de jurisprudência deste tribunal, utilizando-se das seguintes palavras chaves “cartão-crédito-consignado-BMG-não-motoboy”, observa-se um total de 498 (quatrocentos e cinquenta e quatro) acórdãos proferidos por esta Corte de Justiça, sendo 132 (cento e trinta e dois) referentes à pronunciamentos de Turmas Cíveis deste Tribunal de Justiça e 322 (trezentos e vinte e dois) de decisões colegiados provenientes das Turmas Recursais. Sem contar, ainda, os diversos processos que sequer chegaram ao grau recursal. Informa que, em razão da repetição de processos similares no âmbito das Turmas Recursais deste Tribunal, foi instaurado o pedido de Uniformização de Jurisprudência, que tramita sob o número de 0700977-13.2021.8.07.9000, ainda pendente de julgamento, em que se discute a validade da contratação, referente ao mesmo modelo de instrumento contratual apresentado pelo réu Banco BMG S.A. Acrescenta que o risco de ofensa à isonomia e à segurança jurídica resta claro ante a adoção de entendimentos jurisprudenciais contrários, com a possibilidade de coexistência de decisões conflitantes acerca da mesma matéria. Explica que, no caso MARIA RODRIGUES VIEIRA versus BANCO BMG S.A (Acórdão 1348364), a Relatora Desembargadora DIVA LUCY DE FARIA PEREIRA, da 1ª Turma Cível, adotou entendimento no sentido de considerar válido o contrato de cartão de crédito entabulado pelo banco BMG, haja vista a avença indicar, com precisão, a natureza do negócio acerca da contratação para utilização de cartão de crédito consignado, com desconto em folha de pagamento, de modo a observar o dever de informação previsto no art. 6º, III, do CDC. Esse, também, é o entendimento firmado nas 2ª, 4ª, 5ª, 7ª e 8ª Turmas Cíveis deste Tribunal. Contudo, no caso PLINIO RIBEIRO BOSCO versus BANCO BMG S.A (Acórdão 1340069), o Relator Desembargador ALVARO CIARLINI, da 3ª Turma Cível, entendeu que o contrato de cartão de crédito firmado pelo banco BMG além de submeter o consumidor à desvantagem exagerada afronta o direito de informação e a boa-fé objetiva, pois não demonstra clara e precisamente sobre a modalidade do serviço efetivamente contratado pelo consumidor nem indica a quantidade de parcelas a serem consignadas em folha de pagamento, tampouco revela as condições de pagamento do valor emprestado. Igual conclusão foi adotada no caso PETRONILIO FRANCISCO DOS SANTOS versus BANCO BMG S.A (Acórdão 1379248 - Relator ESDRAS NEVES, 6ª Turma Cível). Ressalta que o relator deste caso declarou a nulidade do contrato de cartão de crédito consignado, reconhecendo, contudo, a existência de contrato de empréstimo consignado tradicional. Salienta que o contrato firmado pelo banco BMG e o consumidor é praticamente o mesmo em todos os processos citados. Há neles expressa autorização para desconto mensal para pagamento correspondente ao valor mínimo indicado na fatura do cartão de crédito consignado contratado. Além disso, os percentuais de taxa contratual mensal e anual e de custo efetivo total (CET) aplicados ao cartão são praticamente os mesmos. Observa, portanto, a ocorrência de divergência sobre o mesmo tema entre as Turmas Cíveis desta Corte de Justiça, atinente à nulidade de cláusula em cartão de crédito consignado por suposta violação dos deveres de informação por parte do Banco BMG S.A. Destaca a importância do pronunciamento da Câmara de Uniformização, com a finalidade de evitar desarmonia de interpretação sobre a mesma questão e a incerteza do direito pois, em processos idênticos, duas decisões distintas e diametralmente opostas estão sendo adotadas, o que configura uma situação de desigualdade e injustiça com os jurisdicionados.
+
+Requer, ao final, a admissão dos IRDRs, com a determinação de suspensão dos demais casos que versem sobre o mesmo tema, até a resolução dos incidentes (IDs 32185662 e 32183576).
+
+Parecer da Procuradoria de Justiça pela admissibilidade dos IRDRs, com a consequente suspensão tanto dos julgamentos dos recursos de apelação 0705959- 81.2020.8.07.0019 e 0708862-06.2021.8.7.0003, bem como de todos os processos em curso que versem sobre a questão objeto do incidente instaurado, nos termos do art. 982, I, do CPC (ID32906054/0702708-44; ID32906351/0702765-62).
+
+O Incidente de Resolução de Demandas Repetitivas se insere em um verdadeiro microssistema, como sói ocorrer com a legislação consumerista, inaugurado pelo Código de Processo Civil de 2015, para o tratamento da chamada litigiosidade repetitiva, fenômeno bastante atual nos dias correntes, onde milhares de demandas de igual conteúdo são propostas, a exigir a mesma solução, em obséquio ao princípio da segurança jurídica, além de contribuir para a rápida solução dos litígios repetidos.
+
+Com o incidente, busca-se afirmar a necessidade de efetivo dissenso interpretativo e não um mero dissenso potencial; logo, não se admite a possibilidade de ajuizamento preventivamente, o que desde os primeiros debates acerca do projeto foi objeto de severas rejeições pela mais atualizada doutrina.
+
+Segundo a exposição de motivos formulada pela Comissão de Juristas, nomeada para elaboração do Anteprojeto de Novo Código de Processo Civil:
+
+“Criaram-se figuras, no novo CPC, para evitar a dispersão excessiva da jurisprudência. Com isso, haverá condições de se atenuar o assoberbamento de trabalho no Poder Judiciário, sem comprometer a qualidade da prestação jurisdicional.
+
+Dentre esses instrumentos, está a complementação e o reforço da eficiência do regime de julgamento de recursos repetitivos, que agora abrange a possibilidade de suspensão do procedimento das demais ações, tanto no juízo de primeiro grau, quanto dos demais recursos extraordinários ou especiais, que estejam tramitando nos tribunais superiores, aguardando julgamento, desatreladamente dos afetados.
+
+Com os mesmos objetivos, criou-se, com inspiração no direito alemão,19 o já referido incidente de Resolução de Demandas Repetitivas, que consiste na identificação de processos que contenham a mesma questão de direito, que estejam ainda no primeiro grau de jurisdição, para decisão conjunta.
+
+O incidente de resolução de demandas repetitivas é admissível quando identificada, em primeiro grau, controvérsia com potencial de gerar multiplicação expressiva de demandas e o correlato risco da coexistência de decisões conflitantes.
+
+É instaurado perante o Tribunal local, por iniciativa do juiz, do MP, das partes, da Defensoria Pública ou pelo próprio Relator. O juízo de admissibilidade e de mérito caberão ao tribunal pleno ou ao órgão especial, onde houver, e a extensão da eficácia da decisão acerca da tese jurídica limita-se à área de competência territorial do tribunal, salvo decisão em contrário do STF ou dos Tribunais superiores, pleiteada pelas partes, interessados, MP ou Defensoria Pública. Há a possibilidade de intervenção de amici curiae.”
+
+O IRDR pretende constituir a forma de um procedimento modelo, caracterizando-se como um incidente interlocutório.
+
+Com isso, procura-se atrair para seu universo de discussão somente questões de direito que são comuns a todos os casos similares, o que acaba por deixar, para cada caso concreto, um espaço ainda de discussão sobre o que ficou de fora da decisão que será tomada e que receberá o efeito vinculante.
+
+Na esteira do art. 926 do Código de Processo Civil, “os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente” e um dos instrumentos utilizados pelo legislador para conferir efetividade a esta norma legal é exatamente o incidente de resolução de demandas repetitivas.
+
+Destarte, são pressupostos de admissibilidade do incidente de resolução de demandas repetitivas: efetiva repetição de processos que contenham controvérsia sobre a mesma questão unicamente de direito; risco de ofensa à isonomia e à segurança jurídica; pendência de julgamento de recurso no tribunal; ausência de recurso já afetado nos tribunais superiores para definição de tese sobre questão de direito material ou processual repetitiva (art. 976 do CPC).
+
+Como bem pontuado por Luiz Guilherme Marinoni, no Livro Incidente de Resolução de Demandas Repetitivas, Revistas dos Tribunais, ed. 2016, é necessário delimitar com exatidão a questão a ser debatida e decidida no incidente:
+
+“Tendo em vista que o incidente reclama uma “mesma questão” ou uma “questão idêntica”, torna-se importante delimitar, com exatidão, a questão que deve ser debatida e decidida.
+
+Uma questão não efetivamente debatida ou decidida obviamente não legitima a extensão da coisa julgada aos litigantes das ações individuais repetitivas. Por isso, a instauração do incidente requer, como pressuposto, o delineamento da questão de direito a ser julgada, evitando-se o desbordamento da discussão e da própria decisão.
+
+A definição da questão deve ser feita a partir da análise dos casos repetitivos. O requerente da instauração do procedimento deve demonstrar, mediante os casos repetitivos, qual é a questão de direito que exatamente constitui prejudicial ao julgamento de todas as demandas repetitivas.
+
+Isso é relevante para que não se defina uma questão destituída de efetiva importância para a resolução dos casos e, igualmente, para que não se decida questão diversa daquele que realmente interessa para a solução das demandas que se repetem.
+
+E não é só isso: a exata delimitação da questão é também imprescindível para que uma parte não seja beneficiada em detrimento da outra, uma vez que um pequeno desvirtuamento da questão pode ser do interesse de uma delas. Por esse motivo é que as partes litigantes, inclusive obviamente os legitimados à tutela dos direitos dos excluídos, devem ter um espaço reservado para a discussão da delimitação da questão logo no início do desenvolvimento do processo. Isto é fundamental para a garantia do contraditório.”
+
+No caso dos autos, a questão de direito controvertida delimitada pelo Exmo. Desembargador suscitante reside na nulidade ou não de cláusula em contrato de cartão de crédito consignado em razão de suposta violação dos deveres de informação ao consumidor por parte do Banco BMG S/A.
+
+O suscitante mencionou precedentes das 8 Turmas Cíveis, com as seguintes ementas:
+
+APELAÇÕES CÍVEIS. NÃO CONHECIMENTO DA RETIFICAÇÃO DE APELAÇÃO APRESENTADA PELO RÉU. PRELIMINAR ACOLHIDA. DUPLICIDADE DE APELAÇÕES. IMPOSSIBILIDADE. PRINCÍPIO DA SINGULARIDADE. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CONTRATO DE CARTÃO DE CRÉDITO CONSIGNADO. RELAÇÃO JURÍDICA REGIDA PELO CDC. TERMO DE ADESÃO. REGULAMENTO. INFORMAÇÕES CLARAS. CONDIÇÕES DE CONTRATAÇÃO INDUVIDOSAS. FALTA OU DEFICIÊNCIA DE INFORMAÇÃO. MÁCULA NÃO IDENTIFICADA. ERRO SUBSTANCIAL QUANTO AO OBJETO DA CONTRATAÇÃO. VÍCIO DE CONSENTIMENTO INOCORRENTE. CONSUMIDORA/ADERENTE QUE NÃO PODE ALEGAR IGNORÂNCIA NA ACEITAÇÃO DA PROPOSTA DE CARTÃO DE CRÉDITO CONSIGNADO.  ALEGADA INCERTEZA QUANTO AO OBJETO CONTRATADO.  NÃO RECONHECIMENTO. RECURSO DO RÉU CONHECIDO E PROVIDO. RECURSO DA AUTORA CONHECIDO E PREJUDICADO. [...] 2. Na contratação de cartão de crédito consignado pela consumidora, que pode analisar as regras e condições para contratação e uso do crédito a ser disponibilizado, inviável se mostra a possibilidade de reconhecer publicidade enganosa e violação ao dever de informação ampla, quando o produto oferecido corresponde ao formalmente pactuado e livremente aceito e gozado pela apelada sem expressar nenhuma insatisfação oportuna ao fornecedor sobre a alegada discrepância entre a modalidade de mútuo utilizada e a diversa alegadamente pretendida pactuar. 3. Mostra-se válido o contrato de cartão de crédito consignado avençado, porque a consumidora obteve todos os esclarecimentos sobre o uso e modo de realização do pagamento e expressamente assentiu com as regras estabelecidas pela instituição financeira fornecedora sobre a remuneração e modo de amortização do débito, sem que se verifique a obtenção de vantagem exagerada, abusividade ou onerosidade excessiva no negócio jurídico celebrado. 4. A clareza das informações sobre o cartão de crédito consignado e acerca do pagamento mínimo do débito mediante consignação em folha de salário da consumidora de percentual suficiente apenas para remuneração dos juros e encargos financeiros incidentes, e a experiência desta contratante em tomada de empréstimos bancários, inclusive para adimplemento mediante consignação do débito diretamente na remuneração perante o órgão pagador, afasta a possibilidade de reconhecimento de erro substancial a viciar o consentimento em relação ao negócio jurídico convencionado. 5. Encargos pactuados conforme operação admitida em mútuo contraído com instituição financeira. Lei 4.595/1964. Enunciados 541 e 596 do c. STJ. 6. Sem a constatação de recebimento indevido pela instituição financeira fornecedora, não há cabimento para o pleito de repetição do indébito. 7. Apelação do réu conhecida e provida. Apelação da autora conhecida e prejudicada. Honorários recursais majorados.
+
+(1ª Turma Cível, 07042869820208070004, relª. Desª. Diva Lucy de Faria Pereira, DJe: 30/06/2021. Partes: MARIA RODRIGUES VIEIRA versus BANCO BMG S.A).
+
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. PRELIMINAR. CERCEAMENTO DE DEFESA. INDEFERIMENTO DA INVERSÃO DO ÔNUS DA PROVA E APRESENTAÇÃO DE GRAVAÇÕES TELEFÔNICAS. REJEIÇÃO. CONTRATO. EMPRÉSTIMO CONSIGNADO EM CARTÃO DE CRÉDITO. PROPAGANDA ENGANOSA. INDUZIMENTO AO ERRO. VÍCIO DE CONSENTIMENTO. DANO MORAL. INOCORRÊNCIA. SENTENÇA MANTIDA. 1. Apelação contra sentença proferida em ação de conhecimento em que foram julgados improcedentes os pedidos de declaração de nulidade do contrato de cartão de crédito consignado, repetição dos valores pagos em excesso, condenação do banco ao pagamento de indenização por danos morais. 2. A inversão do ônus da prova não é automática, ficando a critério do juiz quando presentes a verossimilhança das alegações ou a hipossuficiência do consumidor. E, sendo o Juiz o destinatário da prova, compete a ele decidir a respeito dos elementos necessários à formação de seu convencimento, podendo determinar as provas necessárias à instrução processual ou indeferir aquelas reputadas inúteis para o julgamento da lide, sem que isso implique afronta ao direito de defesa das partes. Ausentes os requisitos para a inversão do ônus da prova, e constatado que as provas coligidas ao processo são suficientes para solucionar a controvérsia, rejeita-se a alegação de cerceamento de defesa. 3. O Código de Defesa do Consumidor e o Código Civil contemplam limites à liberdade de contratar, impondo observância à função social do contrato e aos deveres de boa-fé objetiva, probidade e lealdade pelas partes. 4. Sendo o contrato de empréstimo consignado em cartão de crédito celebrado de forma escrita, onde constam, dentre outras informações, a previsão de desconto diretamente no contracheque do consumidor para pagamento mínimo da fatura e a taxa de juros praticada pela instituição bancária, não há que se falar em violação ao direito de informação ou em propaganda enganosa. 5. Apelação conhecida e desprovida.
+
+(2ª Turma Cível, 07046498520208070004, rel. Des. César Loyola, PJe 30/07/2021. Partes: CELIO BATISTA DO NASCIMENTO versus BANCO BMG S.A)
+
+APELAÇÃO CÍVEL. CONSUMIDOR. CARTÃO DE CRÉDITO CONSIGNADO. ABUSIVIDADE. INFORMAÇÃO. INSUFICIENTE. RECÁLCULO. PARCELAS. EMPRÉSTIMO CONSIGNADO. 1. Hipótese de abusividade na formalização das cláusulas inseridas no negócio jurídico cujo objeto consisitiu na concessão de “cartão de crédito consignado”, formalizado entre as partes. 2. O ora apelante contratou operação creditícia para a formalização de empréstimo consignado por meio de cartão de crédito, com previsão de pagamento do mínimo da fatura mediante o desconto em folha, com a cobrança de elevados juros sobre o valor do saldo devedor. 2.1. Diante da análise do termo de adesão assinado pelo recorrente observa-se a ausência de informações suficientes a respeito das condições de pagamento do valor mutuado. 2.2. O instrumento negocial omitiu ainda informações essenciais a respeito da natureza da operação denominada “cartão de crédito consignado”, ao tempo em que induziu o consumidor a acreditar que havia celebrado empréstimo consignado comum. 2.3. Nas cláusulas contratuais não há ainda informação clara a respeito dos encargos relativos ao valor emprestado, no sentido de que seriam devidos a partir do não pagamento integral da fatura, o que torna possível a interpretação de que as parcelas descontadas se destinavam ao pagamento da dívida, já acrescida dos encargos pactuados. 2.4. Ao arcar apenas com o pagamento mínimo da fatura, o autor, ora apelante, além de não efetuar o pagamento integral das parcelas do empréstimo, sujeitou-se à aplicação de elevados juros relacionados ao cartão de crédito, o que resultou em aumento inesperado do saldo devedor. 2.5. A aludida modalidade de contratação é extremamente vantajosa para a instituição financeira, que viabiliza o empréstimo de valores sem prazo determinado para a amortização do montante mutuado, contentando-se com o pagamento mínimo da fatura do cartão, com a obtenção de elevados lucros com a cobrança de altos juros e sem limite de tempo. 3. O direito à informação ampla é corolário do princípio da boa-fé objetiva e do princípio da confiança, expressamente consagrados no art. 4º, inc. III, do Código de Defesa do Consumidor, sendo certo que o fornecedor e o consumidor devem agir com lealdade e confiança na busca do fim comum (adimplemento das obrigações convencionadas), protegendo-se, assim, as expectativas legítimas nutridas por ambas as partes. 3.1. Assim, é dever do fornecedor, nas relações de consumo, manter o consumidor informado a respeito de todos os aspectos da relação jurídica negocial, permitindo a tomada de escolhas consciente, para que a devida expectativa em relação ao serviço prestado seja atendida. 3.2. As previsões obrigacionais omissas e insuficientes foram a causa da criação de vantagem excessiva em detrimento do consumidor, nos termos do art. 51, inc. IV, do Código de Defesa do Consumidor. 3.3. É notório, portanto, o alegado desequilíbrio negocial, especialmente em razão da elevação do valor da dívida, bem como do número indeterminado de parcelas para o subsequente pagamento. 4. Nesse contexto, devem ser declaradas nulas as cláusulas abusivas existentes no instrumento negocial, com o devido aproveitamento das declarações de vontade emitidas pelas partes negociantes. 4.1. É necessário, no entanto, observar detidamente a vontade declarada pelo consumidor, que pretendeu obter empréstimo consignado em folha de pagamento, tendo, inclusive, se beneficiado da quantia emprestada. 5. Mostra-se viável, nesse contexto, o reconhecimento da inexistência da dívida superior ao valor necessário para amortização do capital emprestado, com o acréscimo dos encargos usualmente cobrados pela instituição financeira apelada em contratos de empréstimos pessoal consignado, na data da contratação. 5.1. No caso de ser apurado crédito em favor da instituição financeira apelada, o pagamento deverá ser realizado em prestações mensais fixas que não ultrapassem o limite da margem consignável do apelante. 5.2. Eventual quantia cobrada a maior deverá ser devolvida ao demandante de modo simples, pois a presente hipótese não se ajusta à regra prevista no art. 42 do Código de Defesa do Consumidor. 6. Recurso conhecido e parcialmente provido.
+
+(3ª Turma Cível, 07373475620208070001, rel. Des. Alvaro Ciarlini, PJe 07/06/2021. Partes: PLINIO RIBEIRO BOSCO versus BANCO BMG S.A)
+
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. CONTRATO BANCÁRIO. CARTÃO DE CRÉDITO. PAGAMENTO MÍNIMO CONSIGNADO. LEGALIDADE. FALHA NO DEVER DE INFORMAÇÃO. INEXISTÊNCIA. AUSÊNCIA DE VÍCIO NA CONTRATAÇÃO. 1. A comprovação da regularidade da contratação, com informações claras e adequadas constantes no contrato sobre a modalidade da contratação e sobre a consignação de valor mínimo da fatura em folha de pagamento, afasta a alegação de invalidade do contrato. 2. A falta de previsão da quantidade de parcelas e o valor mensal não justifica o reconhecimento da abusividade, pois essa modalidade de contratação não permite a identificação dessas características de plano, que são variáveis. 3. Negou-se provimento ao apelo.
+
+(4ª Turma Cível, 07062702920208070001, rel. Des. Sérgio Rocha, PJe: 18/10/2021. Partes: MARCOS KLEBER DA PENHA versus BANCO BMG S.A)
+
+APELAÇÃO CÍVEL. PROCESSO CIVIL. CÓDIGO DE DEFESA DO CONSUMIDOR. AÇÃO DE REPETIÇÃO DE INDÉBITO E REPARAÇÃO DE DANO MORAL. CARTÃO DE CRÉDITO CONSIGNADO. DEVER DE INFORMAÇÃO. INCIDÊNCIA DE JUROS REMUNERATÓRIOS ROTATIVOS. PARCELA MÍNIMA DA FATURA. PACTA SUNT SERVANDA. BOA-FÉ CONTRATUAL. VÍCIO DE CONSENTIMENTO. INEXISTÊNCIA. EQUILÍBRIO CONTRATUAL. OBSERVÂNCIA. IDOSO. VULNERABILIDADE. AUSENTE. REPETIÇÃO EM DOBRO DO INDÉBITO. INDENIZAÇÃO. IMPROCEDÊNCIA. SENTENÇA MANTIDA. ARBITRADOS HONORÁRIOS RECURSAIS. 1. O negócio jurídico celebrado entre as partes trata-se de Cartão de Crédito Consignado, por adesão, com autorização para desconto sobre benefício previdenciário. O apelante foi favorecido com repetidos depósitos admitidos em conta corrente. 2. Os descontos sem abatimento no saldo devedor ocorreram porquanto a quitação mensal, por um período, era restrita à parcela mínima das faturas do cartão de crédito, ao tempo que incidiam os juros remuneratórios rotativos, livremente pactuados. Observância ao direito à informação e mantido o equilíbrio contratual, segundo os arts. 4, inc. III; 6, inc. III, 31 e 46, todos do Código de Defesa do Consumidor. 3. Ausente comprovação de que a vontade das partes foi permeada por qualquer vício de consentimento, seja por erro do contratante, seja por dolo da instituição financeira, fazendo incidir a boa-fé contratual e o princípio pacta sunt servanda. 4. É inviável a pretensão de devolução em dobro de valores, pois ausente engano justificável por parte do mutuário, ora apelante. Ao contrário disso, a dívida cobrada por meio de desconto sobre o benefício previdenciário deriva de contrato firmado dentro dos limites da lei. 5. Abstraído prejuízo financeiro a gerar abalo à personalidade, uma vez que observada a liberdade contratual e o dever de informação, este também previsto no CDC. 6. A implementação de políticas públicas para proteger situações de vulnerabilidade, especialmente no caso do idoso, não pode ser utilizada para justificar o endividamento oriundo de pacto legítimo. Precedente do Superior Tribunal de Justiça. 7. Verba advocatícia, fixada na primeira instância, majorada em 2% (dois por cento), nos termos do art. 85, § 11, do CPC. Suspensa a exigibilidade, em face da concessão da gratuidade de justiça à parte sucumbente. 8. Recurso conhecido e desprovido.
+
+(5ª Turma Cível, 07081972520198070014, rel. Des. Fabrício Fontoura Bezerra, PJe 27/08/2021, Partes: JOSE ORLANDO ALVES DOS REIS versus BANCO BMG S.A)
+
+APELAÇÃO CÍVEL. AÇÃO DE CONHECIMENTO. CONTRATO DE CARTÃO DE CRÉDITO CONSIGNADO. ALEGAÇÃO DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA. CONTRATAÇÃO COMPROVADA. VÍCIO DE CONSENTIMENTO. NULIDADE. CONVERSÃO DO NEGÓCIO JURÍDICO NULO. CRÉDITO DISPONIBILIZADO. RESSARCIMENTO SIMPLES. CRITÉRIOS PARA LIQUIDAÇÃO DA SENTENÇA. DANOS MORAIS. NÃO OCORRÊNCIA. Via de regra, não há abusividade na previsão de descontos automáticos sobre a fonte de renda do consumidor, quando há sua expressa concordância nesse sentido e dentro dos limites razoáveis previstos legalmente, pois o empréstimo para desconto em folha de pagamento é relação jurídica autônoma e independente. A instituição bancária tem o dever de informar o consumidor sobre todas as características importantes do financiamento ofertado, à luz do que dispõe o artigo 6º, inciso III, do Código de Defesa do Consumidor. Nos contratos de cartão de crédito consignado, o desconto mensal efetuado para pagamento mínimo do cartão de crédito visa abater os encargos de financiamento, de modo que o valor principal da dívida, enquanto não quitado pelo consumidor, é mensalmente refinanciado, acrescido de juros e outros encargos, o que acarreta onerosidade excessiva e, por vezes, resulta em uma dívida impagável. Apesar de constar nos termos de adesão desse tipo de contratação a designação correta do contrato que está sendo disponibilizado, não há clareza nas informações quanto aos encargos incidentes e forma de pagamento, bem como não há esclarecimento adequado quanto à razão da oferta dessa modalidade de crédito, quando ao consumidor é viável obter empréstimo consignado tradicional, com taxas de juros mais atrativas. Evidenciado vício no consentimento que pode ser sanado, atrai-se a incidência do disposto no artigo 170, do Código Civil. Embora seja perceptível que o consumidor não pretendia ter contratado a modalidade de cartão de crédito consignado, é certo que buscou a instituição financeira para contrair empréstimo e teve o benefício creditado em sua conta, não sendo adequado simplesmente tornar o contrato nulo e permitir que o consumidor adquira vantagem indevida da situação. Hipótese de declaração de nulidade do contrato de cartão de crédito consignado e conversão do valor recebido em empréstimo consignado, devendo a liquidação de sentença, no momento oportuno, observar que o valor creditado na conta do consumidor deve ser acrescido de juros remuneratórios aplicados pela instituição financeira na data da contratação, a partir do crédito em conta corrente, sendo vedada a capitalização mensal de juros; do saldo apurado, deve ser abatido o valor pago mensalmente pelo consumidor, em razão do desconto em sua folha de pagamento. Eventual parcela impaga de juros, em cada encargo mensal, não incidirão novos juros, mas apenas correção monetária. Na hipótese de quitação integral do saldo devedor, eventual pagamento em excesso pelo consumidor deve ser restituído, acrescido de juros de mora de 1% ao mês, a partir da citação, e de correção monetária pelo INPC, desde a data de cada desembolso. O mero dissabor ou aborrecimento cotidiano não implicam violação de personalidade a ensejar dano moral.
+
+(6ª Turma Cível, 07158317120208070003, rel. Des. Esdras Neves, DJe 28/10/2021. Partes: PETRONILIO FRANCISCO DOS SANTOS versus BANCO BMG S.A)
+
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. CONTRATO DE EMPRÉSTIMO POR MEIO DE CARTÃO DE CRÉDITO CONSIGNADO. CLÁUSULAS RELACIONADAS AOS DESCONTOS DEVIDAMENTE DESTACADAS NO PACTO. DEVER DE INFORMAÇÃO CUMPRIDO. ANUENCIA EXPRESSA DA AUTORA AOS TERMOS DO PACTO. SENTENÇA MANTIDA. 1. No caso vertente, aplicam-se as normas protetivas das relações de consumo, face ao tipo de contrato celebrado entre as partes, possuindo inclusive, entendimento consolidado pelo Superior Tribunal de Justiça no verbete sumular nº 297, que assim dispõe: “O Código de Defesa do Consumidor é aplicável às instituições financeiras.”. Desta forma, devem ser asseguradas ao consumidor informações claras sobre os produtos contratados, segundo dispõe o CDC 2. O dever de informação inerente às atividades consumeristas é cumprido quando, em se tratando de contrato de cartão de crédito consignado, as características essenciais do ajuste, como a modalidade contratual, o valor liberado, a forma de pagamento e os juros cobrados, estão formulados claramente, segundo o art. 6°, do Código de Defesa do Consumidor. 3. Na espécie, a parte autora, no momento em que firmou o contrato de cartão de crédito consignado, tinha plenas condições de compreender as regras da modalidade de empréstimo contratada, a taxa de juros, a regra de pagamento mínimo da fatura e os encargos decorrentes do seu não pagamento, tendo a consumidora, de forma expressa, dado a sua anuência ao pacto entabulado, tornando, assim, válido e eficaz os seus termos, devendo cumpri-los com exatidão. 4. Recurso de apelação conhecido, mas desprovido.
+
+(7ª Turma Cível, 07045283220218070001, relª. Desª. Gislene Pinheiro, PJe 22/10/2021, Partes: SEVERINA DA CONCEICAO FAGUNDES versus BANCO BMG S.A)
+
+APELAÇÃO. AÇÃO DE CONHECIMENTO. PRINCÍPIOS DOS JUIZADOS ESPECIAIS CÍVEIS. RELAÇÃO DE CONSUMO. DEFEITOS NA VONTADE DE CONTRATAR. VENIRE CONTRA FACTUM PROPRIUM. PROIBIÇÃO. CARTÃO DE CRÉDITO CONSIGNADO. RESERVA DE MARGEM CONSIGNÁVEL. DESCONTO DO VALOR MÍNIMO DA FATURA. PREVISÃO LEGAL E CONTRATUAL. EFETIVA UTILIZAÇÃO DOS SERVIÇOS. NULIDADE. INOCORRÊNCIA. [...] 2. A relação jurídica estabelecida entre consumidor e instituição financeira é de consumo (STJ, Súmula 297). 3. O instituto da proibição do venire contra factum proprium veda o comportamento contraditório e resguarda a boa-fé objetiva, bem como o cumprimento de seus deveres contratuais com lealdade, probidade e boa-fé. “Venire contra factum proprium postula dois comportamentos da mesma pessoa, lícitos em si e diferidos no tempo. O primeiro - factum proprium - é, porém, contrariado pelo segundo” (Menezes Cordeiro., op. cit.). 4. Ante a proibição do venire contra factum proprium, não pode o devedor, depois de contratar e receber o crédito integralmente em sua conta, aguardar mais de 60 meses para alegar vício de vontade na formação do contrato, sem consignar qualquer valor em juízo. 5. Utilizado ou não restituído o crédito depositado pelo banco na conta corrente do contratante, o desconto das parcelas do empréstimo mostra-se devido, sob pena de configurar-se enriquecimento ilícito. 6. Diante da previsão legal (Lei nº 10.820/2003, alterada pela Lei nº 13.172/2015 c/c Lei nº 1.046/1950) e da disposição em contrato, não há ilegalidade no desconto em folha do valor mínimo da fatura do cartão de crédito, sobretudo porque o consumidor usufruiu do serviço contratado. 7. Não constatada qualquer irregularidade ou ilegalidade na contratação de cartão de crédito na modalidade consignado, o contrato permanece válido. 8. Recurso conhecido e não provido.
+
+(8ª Turma Cível, 07118587420218070003, rel. Des. Diaulas Costa Ribeiro, DJe: 28/9/2021. Partes: MILTON ALMEIDA DE SOUSA versus BANCO BMG S.A)
+
+Observa-se que seis precedentes são desfavoráveis à nulidade contratual (1ª, 2ª, 4ª, 5ª, 7ª e 8ª Turmas), enquanto dois precedentes são favoráveis (3ª e 6ª Turmas). Ou seja, a questão litigiosa é julgada de forma diferenciada a depender do órgão jurisdicional e respectiva composição.
+
+Verifica-se, nesse contexto, a existência de divergência jurisprudencial sobre a mesma questão de direito, representando risco de ofensa à isonomia e à segurança jurídica que embasa o manejo do Incidente de Resolução de Demandas Repetitivas.
+
+Ademais, o suscitante demonstra a efetiva repetição de processos sobre a mesma controvérsia ao informar a existência de 132 acórdãos proferidos por este Tribunal em casos similares.
+
+Corroborando essa constatação, a inicial relata a instauração de Incidente de Uniformização de Jurisprudência no âmbito das Turmas Recursais (0700977-13.2021.8.07.9000), em que se discute a validade da contratação referente ao mesmo modelo de instrumento contratual apresentado pelo Banco BMG S.A.
+
+Nota-se a existência de recursos pendentes de julgamento no Tribunal, tendo o suscitante encaminhado como paradigma os autos ns. 0705959-81.2020.8.07.0019 e 0708862-06.2021.8.7.0003.
+
+Registra-se, por fim, que, em consulta aos temas insertos nos sites do STJ e STF, não se denota, por ora, que a matéria sub judice tenha sido afetada nas mencionadas Corte Superiores.
+
+Considerando a necessidade de uniformidade de tratamento jurídico aos casos presentes e futuros, em face de controvérsia que tem gerado multiplicação de processos fundados em idêntica questão de direito e com risco de decisões conflitantes, os incidentes de resolução de demandas repetitivas devem ser conhecidos.
+
+Por tais fundamentos, ADMITO os incidentes de resolução de demandas repetitivas.
+
+É como voto.
+
+A Senhora Desembargadora FÁTIMA RAFAEL - Relatora Designada e 1º Vogal
+
+Iniciado o julgamento, o eminente Desembargador Diaulas Costa Ribeiro inaugura a divergência ao afirmar que “A proposta de tese que se pretende ver fixada demonstra que não cabe IRDR porque o tema não é “unicamente de direito”. As decisões controvertidas decorreram de análises probatórias, sujeitas à valoração em cada processo, não podendo haver unificação.”
+
+“Não conduz à ilegalidade do contrato, ainda, a mera suposição de não haver informação suficiente, que pode ser dada na contratação. Obiter dictum, uma vez mais, se o contrato não é suficientemente claro, não se pode, em IRDR, obrigar o Banco a mudar sua redação, suas cláusulas, seu conteúdo intrínseco. Isso seria possível se houvesse uma ação civil pública para ajustes de cláusulas contratuais. Mas não em IRDR, em que é admissível apenas a uniformização de julgados sobre conteúdo de direito e não sobre a divergência na avaliação das provas.”
+
+No mesmo sentido o eminente Desembargador Luís Gustavo B. Oliveira aduz que “Partir da premissa de que houve, de modo absoluto (presunção jure et jure) falha ou violação ao dever de informação em todas as contratações, seria o mesmo que impedir os órgãos judicantes de investigarem e formarem seu convencimento a partir do acervo probatório. Seria mais que isso, mas investir sobre o direito constitucional do juiz de decidir conforme seu convencimento, porque, ao fim e ao cabo, sequer poderia permitir a instrução processual, uma vez que, ao admitir esse IRDR e fixar a tese nos moldes pretendidos, estaria esvaziado toda e qualquer pretensão de demonstrar o modificar a regra aplicável ao caso concreto.
+
+E nem se diga que a fixação da tese não impediria a coleta de elementos de convencimento, mas seria uma espécie “norma” ou “regra” para obrigar a inversão do ônus da prova. Ocorre que o IRDR não se presta a esse fim, ademais, já existem regras processuais suficientes e que o julgador poderá lançar mão a partir do caso concreto (§1º do art. 373, CPC e art. 6º, inciso VIII e art. 14, par. único, CDC).”
+
+Peço vênia ao eminente Relator para acompanhar a divergência.
+
+No presente caso, o incidente foi protocolado com o objetivo de uniformizar a seguinte tese jurídica: nulidade de cláusula em contrato de crédito consignado, por suposta violação dos deveres de informação ao consumidor do Banco BMG S.A.
+
+O Magistrado suscitante defende que o risco de ofensa à isonomia e à segurança jurídica é claro ante a adoção de entendimentos jurisprudenciais contrários, com a possibilidade de coexistência de decisões conflitantes acerca da mesma matéria.
+
+Acrescenta que “o contrato firmado pelo banco BMG e o consumidor é praticamente o mesmo em todos os processos citados. Há neles expressa autorização para desconto mensal para pagamento correspondente ao valor mínimo indicado na fatura do cartão de crédito consignado contratado. Além disso, os percentuais de taxa contratual mensal e anual e de custo efetivo total (CET) aplicados ao cartão são praticamente os mesmos. Observa, portanto, a ocorrência de divergência sobre o mesmo tema entre as Turmas Cíveis desta Corte de Justiça, atinente à nulidade de cláusula em cartão de crédito consignado por suposta violação dos deveres de informação por parte do Banco BMG S.A.”
+
+O Incidente de Resolução de Demandas Repetitivas – IRDR visa dirimir controvérsia sobre questão unicamente de direito para afastar risco de ofensa à isonomia e à segurança jurídica (artigo 976, I e II, do CPC).
+
+O incidente objetiva uniformizar o entendimento dos Tribunais criando um modelo a ser seguido. Todavia, para a instauração do incidente é necessário que ocorra, simultaneamente, a repetição de processos que tratem da mesma questão de direito e haja risco de ofensa à isonomia e à segurança jurídica.
+
+A situação trazida pelo Suscitante, no entanto, não se insere nas hipóteses previstas no artigo 976 do CPC.
+
+Não há como presumir que houve falha ou violação no dever de prestar informação em todos os contratos celebrados pela instituição financeira com seus consumidores. De fato, há semelhança nas demandas apontadas, mas com situações específicas individualizadas que, por necessitarem de produção de provas e contraditório, não se submetem às regras do Incidente em questão.
+
+A simples repetição de demandas com a mesma controvérsia, as quais necessitam de instrução probatória e análise fática, não possibilita o Incidente proposto.
+
+Ante o exposto, não admito a instauração do incidente.
+
+  É como voto.
+
+O Senhor Desembargador LUÍS GUSTAVO B. DE OLIVEIRA - 2º Vogal
+Adoto o relatório do e. Relator, a quem rogo vênia para acompanhar a divergência já inaugurada.
+
+Conforme sobressai do pedido de instauração do Incidente de Resolução de Demandas Repetitivas, os fundamentos lançados é para que esta Turma de Uniformização fixe, de forma peremptória e uniforme, como interpretação única e possível, que houve a violação ao direito de informação em todos os Contratos de Cartão de Crédito Consignado celebrados pelo consumidor com o Banco BMG S/A.
+
+É a conclusão que se extrai do relatório do e. Relator:
+
+De acordo com o Magistrado, os incidentes foram protocolados com o objetivo de uniformização da seguinte tese jurídica: nulidade de cláusula em contrato de cartão de crédito consignado, por suposta violação dos deveres de informação ao consumidor por parte do Banco BMG S.A.
+
+Ora, é sabido que esse incidente, como instrumento de uniformização de interpretação no âmbito dos Tribunais, não comporta, como objeto,  questão de fato, mas tão somente de Direito.
+
+Art. 976. É cabível a instauração do incidente de resolução de demandas repetitivas quando houver, simultaneamente:
+
+I - efetiva repetição de processos que contenham controvérsia sobre a mesma questão unicamente de direito;
+
+II - risco de ofensa à isonomia e à segurança jurídica.
+
+Por conseguinte, averiguar se houve falha no dever de informação na celebração de cada negócio jurídico litigioso, é um papel do julgador, mas não sem antes permitir que as partes produzam os elementos de convencimento que julgarem pertinentes (art. 373, CPC). Somente em seguida será equacionado, à luz de cada caso, se houve ofensa à boa-fé processual, na qual se inclui o dever de informação.
+
+Partir da premissa de que houve, de modo absoluto (presunção jure et jure) falha ou violação ao dever de informação em todas as contratações, seria o mesmo que impedir os órgãos judicantes de investigarem e formarem seu convencimento a partir do acervo probatório. Seria mais que isso, mas investir sobre o direito constitucional do juiz de decidir conforme seu convencimento, porque, ao fim e ao cabo, sequer poderia permitir a instrução processual, uma vez que, ao admitir esse IRDR e fixar a tese nos moldes pretendidos, estaria esvaziado toda e qualquer pretensão de demonstrar ou modificar a regra aplicável ao caso concreto.
+
+E nem se diga que a fixação da tese não impediria a coleta de elementos de convencimento, mas seria uma espécie “norma” ou “ regra” para obrigar a inversão do ônus da prova. Ocorre que o IRDR não se presta a esse fim, ademais, já existem regras processuais suficientes e que o julgador poderá lançar mão a partir do caso concreto (§1º do art. 373, CPC e art. 6º, inciso VIII e art. 14, par. único, CDC).
+
+Enfim, não compete a esta Câmara predizer como os fatos aconteceram, porque eles são mutáveis e, via de regra, podem guardar semelhanças, mas jamais identidade em casos diversos ou mesmo numa situação específica e no qual participam diferentes pessoas.  Não por outro motivo, a lei adjetiva veda o disciplinamento de questão de fato em sede do Incidente de Resolução de Demandas Repetitivas.
+
+Com essas breves considerações e diante a manifesta inconciliabilidade entre os fundamentos ventilados para abertura do incidente e o seu disciplinamento legal, acompanho a divergência para rejeitar sua abertura.
+
+É como voto.
+
+O Senhor Desembargador GETÚLIO MORAES OLIVEIRA - 3º Vogal Com a divergência
+
+O Senhor Desembargador MARIO-ZAM BELMIRO - 4º Vogal Com a divergência
+
+A Senhora Desembargadora LEILA ARLANCH - 5º Vogal Com a divergência
+
+O Senhor Desembargador ESDRAS NEVES - 6º Vogal Com o relator
+
+O Senhor Desembargador DIAULAS COSTA RIBEIRO - 7º Vogal
+Rogo vênia ao Relator para divergir do seu voto.
+
+QUESTÕES GERAIS SOBRE O INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS (IRDR)
+
+O IRDR é um incidente de uniformização de jurisprudência para decisões que contenham controvérsia sobre a mesma questão, unicamente de direito, proferidas pelo mesmo Tribunal (CPC, art. 976, I).
+
+Não pode a Câmara de Uniformização ultrapassar o limite da fixação de jurisprudência dentre as correntes controversas e emitir uma terceira decisão, alheia àquelas que serviram de base ao pedido de fixação de jurisprudência, como se fosse sua função legislar de forma vinculante e ilimitada.
+
+Em um sistema de separação de poderes, adotado pelo art. 2º da Constituição Federal (Art. 2º São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário), a tese fixada em IRDR não é equiparável à lei, por mais que essa palavra seja polissêmica, e não pode extrapolar os limites dos precedentes antagônicos, cabendo a eleição de um deles e não a criação de um julgado autônomo ou que contemple excertos de um ou de outro, como se escolhesse apenas os acertos de cada acórdão-fundamento e os depurasse para emitir uma terceira decisão, fragmentária das correntes controversas.
+
+Essa limitação de duas correntes é flexibilizada quando há mais de duas decisões controversas sobre a mesma questão, unicamente de direito.
+
+O IRDR é, por natureza, em resumo, um processo objetivo de unificação de jurisprudência firmada sobre questões de direito a serem solucionadas com efeito erga omnes.
+
+O IRDR não pode ter por suporte fático questões probatórias que, pela falta ou pela presença de evidências, conduzem a resultados diferentes. A mera repetição de processos que contenham a mesma controvérsia, que decorre da análise de questões fáticas, dependentes de provas, não é fundamento para IRDR.
+
+QUESTÕES PROCESSUAIS SOBRE O CASO CONCRETO
+
+Obiter dictum, anoto que a proposta de IRDR, no caso concreto, tem parte identificada, tem um réu, o Banco BMG, e se refere a um produto bancário oferecido por ele, que tem recebido, na análise das demandas, caso a caso, a solução cabível, conforme a prova de cada processo.
+
+Nesse cenário, ainda na fase prévia à admissão, o Banco BMG deveria ser intimado para apresentar “resposta à acusação”, equivalente à antiga defesa prévia, expressões originárias do direito processual penal e que muito nos servem nesta oportunidade.
+
+Como este IRDR é um processo com partes (e não um processo de partes), não se pode afastar, em nenhuma das suas fases, seja na admissão, seja no julgamento do mérito, a ampla defesa e o contraditório. Trata-se de IRDR direcionado, com efeito erga omnes apenas parcial, dos contratantes do cartão de crédito consignado. No outro polo estará, sempre, o Banco BMG.
+
+Ainda que não tenha parte contrária (o autor do pedido de instauração do incidente não é parte em sentido estrito), há um requerente de instauração do incidente que se posicionou contra o Banco BMG. Logo, essa Instituição Financeira tem direito constitucional ao contraditório antes da admissão do IRDR. A não admissão do incidente é do seu interesse e ela deve ter a oportunidade de se manifestar.
+
+ANÁLISE DOS PEDIDOS
+
+A proposta de tese que se pretende ver fixada demonstra que não cabe IRDR porque o tema não é “unicamente de direito”. As decisões controvertidas decorreram de análises probatórias, sujeitas à valoração em cada processo, não podendo haver unificação.
+
+ Confiro a redação da tese sugerida:
+
+“Nulidade de cláusula em contrato de cartão de crédito consignado, por suposta violação dos deveres de informação ao consumidor por parte do Banco BMG S.A.”
+
+Não há nulidade erga omnes “por suposta violação dos deveres de informação ao consumidor por parte do Banco BMG S.A.”
+
+O que é suposto não é da essência do ato jurídico. É circunstancial e depende dos meios de prova para se afastar ou não a suposição. A informação depende do caso concreto. Se há prova de que a informação é bastante, a solução será uma. Se há prova de que não houve informação suficiente, a solução será outra.
+
+Não cabe ao Poder Judiciário decidir o que um Banco pode ou não comercializar na sua carteira de produtos, nem a forma de fazê-lo. O Banco Central do Brasil não proibiu o cartão de crédito consignado, que é um produto lícito, com demanda de mercado.
+
+A cláusula não é nula por “suposta” falta de informação. A falta de informação é um defeito que atinge a liberdade de contratar e pode macular o contrato, mas não integra a essência de uma cláusula contratual a ponto de ser punida pela nulidade.
+
+Na expressão de Michael Foucault, pode haver, na falta de informação suficiente, um “ilegalismo” do contratante, mas isso não conduz à ilegalidade do contrato a ponto de se permitir a solução preconizada no requerimento de instauração de IRDR para declará-lo ilegal. “Ilegalismo” não é sinônimo de ilegalidade, cabe o registro.
+
+Não conduz à ilegalidade do contrato, ainda, a mera suposição de não haver informação suficiente, que pode ser dada na contratação. Obiter dictum, uma vez mais, se o contrato não é suficientemente claro, não se pode, em IRDR, obrigar o Banco a mudar sua redação, suas cláusulas, seu conteúdo intrínseco. Isso seria possível se houvesse uma ação civil pública para ajustes de cláusulas contratuais. Mas não em IRDR, em que é admissível apenas a uniformização de julgados sobre conteúdo de direito e não sobre a divergência na avaliação das provas.
+
+Havendo informação suficiente, o ato jurídico é perfeito. E foi nesse sentido que relatei o precedente transcrito tanto pelo eminente Relator quanto pelo Ilustre requerente. Essa decisão não julgou questão unicamente de direito, mas o contexto dos autos, o chamado “suporte fático”, na conhecida expressão de Ponte de Miranda.
+
+DISPOSITIVO
+
+Por essas razões, não admito o IRDR, rogando vênia ao Relator.
+
+É o voto.
+
+A Senhora Desembargadora ANA CANTARINO - 8º Vogal Com a divergência
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 9º Vogal Com o relator
+
+O Senhor Desembargador FERNANDO HABIBE - 10º Vogal Com a divergência
+
+A Senhora Desembargadora MARIA IVATÔNIA - 11º Vogal Com a divergência
+
+A Senhora Desembargadora VERA ANDRIGHI - 12º Vogal Com a divergência
+
+O Senhor Desembargador ARNOLDO CAMANHO - 13º Vogal Com a divergência
+
+A Senhora Desembargadora SIMONE LUCINDO - 14º Vogal Com a divergência
+
+DECISÃO
+
+INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS NÃO ADMITIDO. DECISÃO POR MAIORIA. VENCIDO O RELATOR. REDIGIRÁ O ACÓRDÃO A DESEMBARGADORA FÁTIMA RAFAEL
