@@ -1,0 +1,13 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSOS ESPECIAL INTERPOSTO NA APELAÇÃO CÍVEL N. 0000533-16.2012.8.11.0079
+RECORRENTES: PAULO VILMAR RODRIGUES DE MORAES E OUTRA
+RECORRIDA: FABIANA JACOBS
+Vistos.
+À secretaria para certificar sobre a petição de id. 122054966.
+Após, a conclusão.
+Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
