@@ -1,0 +1,19 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto pelo RONDON PLAZA SHOPPING LTDA, com o fito de reformar a decisão que, nos autos da Ação de Execução de n. 1021689-96.2020.8.11.0003, ajuizada em face de L C T PIRES EIRELI, determinou que o exequente, ora agravante, deposite nos autos, no prazo de 5 (cinco) dias, o valor controvertido nos Embargos de Terceiro de n. 1029092-82.2021.8.11.0003.
+Para tanto, o agravante alega que o juízo singular determinou a devolução de valor questionado por um terceiro estranho à lide, que supostamente teria feito um pix errôneo no valor de R$ 4.954,00 (quatro mil novecentos e cinquenta e quatro reais) para a conta bancária da agravada, onde foi realizado o bloqueio parcial do débito executado.
+Afirma que a devolução do dinheiro está intrinsecamente ligada à resolução dos Embargos de Terceiro e que a determinação singular, se não suspensa, lhe causará grande prejuízo, notadamente porque a constrição foi realizada na conta bancária da agravada, ou seja, inexiste qualquer relação entre o dinheiro levantado e o suposto erro cometido por terceiro.
+Pondera que a penhora observou os ditames legais e que, caso realmente tenha havido transferência indevida de valores para a conta da agravada, esta é que deve se responsabilizar pela devolução do montante ao juízo.
+Pugna pela concessão da liminar de efeito suspensivo.
+Ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na hipótese, a relevância da argumentação veiculada pelo agravante, aliada à possibilidade de a decisão lhe causar lesão de difícil reparação, recomenda a concessão da medida pleiteada.
+Isso porque, não obstante os argumentos invocados nas razões recursais, que serão analisados apenas no mérito, o fato de o juízo singular ter determinado a devolução dos valores, no prazo de 5 (cinco) dias, evidencia o periculum in mora que autoriza a suspensão da decisão até o julgamento do presente recurso.
+Assim, por cautela, deve ser concedida a liminar, na medida em que imprescindível uma análise mais acurada do caso, o que só será possível após a oitiva da parte adversa.
+Ante o exposto, CONCEDO A LIMINAR para suspender a decisão recorrida, até o julgamento do presente recurso.
+Retifique a autuação do recurso, nos termos da petição de id. 124614261.
+Publique-se e intime-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
