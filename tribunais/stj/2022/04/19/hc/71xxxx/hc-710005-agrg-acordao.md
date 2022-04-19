@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Aqui, em síntese, a parte agravante reitera os argumentos dowrite postulaseja exercido o juízo de retratação ou o pleito submetido ao órgão colegiado, a fim de dar provimento ao recurso da defesa, reconhecendo-se: a) bis in idem na dosimetria da pena; b) o tráfico privilegiado; e c) o regime inicial mais benéfico.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E CORRUPÇÃO ATIVA. PLEITO DE APLICAÇÃO DO REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. PACIENTE QUE NÃO PREENCHE OS REQUISITOS. AUSÊNCIA DE BIS IN IDEM. REGIME FECHADO. ADEQUAÇÃO. INEVIDÊNCIA DE ILEGALIDADE. PRECEDENTES.
+1.Deve ser mantida por seus próprios fundamentos a decisão monocrática que denegou ohabeas corpus.
+2.Ao vedar a incidência do redutor especial da pena (art. 33, § 4º, da Lei n. 11.343/2006), as instâncias ordinárias sopesaram não só a quantidade de drogas, mas, também, a função de confiança exercida pelo réu na hierarquia do tráfico - sendo o responsável pelo abastecimento de entorpecentes e recolhimento de dinheiro em pontos de venda -, o que, na perspectiva do órgão julgador, demonstra a dedicação do paciente a atividades criminosas.
+3. Ajurisprudência desta Corte tem admitido que tais aspectos (as circunstâncias da prisão em flagrante ou o modus operandi do delito, além da quantidade de drogas e comprovação da estabilidade e permanência do vínculo associativo) sejam sopesados na análise dos requisitos previstos no dispositivo em comento.
+4.No caso,conforme se depreende da sentença condenatória, a pena-base do paciente, mantida pela Corte Local quanto ao ponto, afastou-se do mínimo legal em vista da culpabilidade, da quantidade e das circunstâncias (fl. 47). Ao passo que o afastamento da minorante ocorreu não só pela expressiva quantidade de drogas apreendidas, mas também pela função de recolheexercida pelo réu (fl. 47). Fatos distintos, portanto, inexistindo bis in idem.
+5. Sendo a reprimenda definitiva imposta superior a 8 anos, o regime inicial (fechado) deve ser mantido, nos termos do art. 33, § 2º, b, do Código Penal.
+6.Agravo regimental improvido.
+VOTO
+Não obstante as alegações recursais, a decisão ora atacada está em perfeita harmonia com a orientação consolidada nesta Corte, devendo ser mantida por seus próprios fundamentos.
+Consta dos autos que, apósanálise detida do conjunto fático-probatório, o Tribunal localcondenou opaciente como incurso nos arts. 333,caput, do Código Penale33,caput,da Lei n. 11.343/2006, além de afastar a figurado tráfico privilegiado.
+Confiram-se trechos do acórdão recorrido, no que interessa,in verbis(fls. 65/79- grifo nosso):
+DA DOSIMETRIA
+I) TRÁFICO DE ENTORPECENTES
+Na primeira fase, presentesduas circunstâncias desfavoráveis, a pena-base foi fixada 1/3 acima do mínimo legal, em 06 anos e 08 meses de reclusão e pagamento de 666 dias-multa, com valor unitário mínimo, em razão daquantidade de droga apreendia(cerca de 500 gramas de maconha) e porqueo réu "exercia função de confiança (e elevada) na hierarquia do tráfico, sendo o responsável por abastecimento de entorpecentes e recolhimento de dinheiro em pontos de venda, tanto que havia em sua cueca 859 reais em notas fracionadas."(fl. 544)
+De fato, o legislador brasileiro, ao instituir a norma do artigo 42 da Lei 11.343/06, impôs aos juízes o dever de ponderar, no momento da fixação das penas dos delitos previstos nessa lei especial, "a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente", e isto "com preponderância sobre o previsto no art. 59 do Código Penal". Relevante esclarecer que o Col. Superior Tribunal de Justiça, inclusive, exarou o entendimento de que a quantidade e a "natureza" (ou "qualidade") do entorpecente destinado à comercialização configuram critério hábil para a exasperação da pena dos traficantes.
+ ..
+No mais, evidenciadas circunstâncias de maior relevo, como o exercício de função de confiança, que proporcionava ao réu a guarda de valores oriundos do tráfico, entendo que a exasperação não comporta reparos.
+Na segunda fase, em virtude da agravante da reincidência, as penas foram majoradas em 1/6, resultando em 07 anos, 09 meses e 10 dias de reclusão e pagamento de 777 dias-multa, com valor unitário mínimo.
+Entretanto, como se constata pela folha deantecedentes (fls. 32/33) e pelas certidões de objeto e pé de fls.34/35, o réu não ostenta condenação anterior por crime, mas apenas por contravenção penal (art. 34 do Decreto-Lei nº 3.688/41), de modo que a agravante deve ser afastada.
+Na terceira fase, ausentes causas de aumento ou diminuição, as reprimendas são tornadas definitivas.
+Correta a negativa de incidência do redutor previsto no art. 33, §4º, da Lei de Drogas, sequer questionada pela defesa, tendo em vista queas circunstâncias do caso evidenciam sua dedicação habitual ao tráfico circunstância expressamente impeditiva, porquanto trazia consigo considerável quantidade de entorpecentes(500 gramas de maconha) eexercia a função de abastecer os pontos de venda e recolher o dinheiro proveniente da venda de drogas.
+II) CORRUPÇÃO ATIVA
+Na primeira fase, ausentes circunstâncias judiciais desfavoráveis, fixo a pena-base no mínimo legal, 02 anos de reclusão e pagamento de 10 dias-multa, com valor unitário mínimo.
+Na segunda e terceira fases, ausentes atenuantes, agravantes, bem como causas de aumento e de diminuição, a reprimenda é tornada definitiva.
+Pelo concurso material,as penas totalizam 08anos e 08 meses de reclusão e pagamento de 676 dias-multa, com valor unitário mínimo.
+REGIME INICIAL
+Quanto ao regime penitenciário, anoto que a identificação do meio mais adequado à repressão e prevenção dos delitos deve observar os critérios do art. 33, §§ 2º e 3º do Código Penal, bem como do art. 42 da Lei nº 11.343/2006, quando se tratar de delitos previstos na Lei de Drogas. Nesse sentido: STJ HC272.152/SP rel. Min. Marilza Maynard 6ª Turma J. 10.12.2013.
+No caso em tela, a fixação do regime mais gravoso para o início do desconto da pena privativa de liberdade se impõe peloquantumde pena, superior a 08 anos de reclusão, e pelaexpressiva quantidade de entorpecentes apreendidos (500 gramas de maconha), a atrair a incidência do art. 42 da Lei de Tóxicos.
+ ..
+DA SUBSTITUIÇÃO DE PENA
+Inadmissível a substituição da pena privativa de liberdade por restritivas de direitos diante doquantumde pena imposto, superior a 04 anos (art. 44, inc. I, do Código Penal).
+Quantoà alegação de queestão presentes os requisitos para a incidência da minorante do tráfico privilegiado, sem razão a impetração.
+Ao vedar a incidência do redutor especial da pena (art. 33, § 4º, da Lei n.11.343/2006),as instâncias ordinárias sopesaramnão só a quantidade de drogas, mas, também,afunção de confiança exercida pelo réuna hierarquia do tráfico -sendo o responsável peloabastecimento de entorpecentes e recolhimento de dinheiro em pontos de venda-, o que, na perspectiva do órgão julgador, demonstraa dedicação do paciente a atividades criminosas.
+Nesse aspecto, não há ilegalidade no acórdão; ao contrário, a jurisprudência desta Corte tem admitido que tais aspectos (as circunstâncias da prisão em flagrante ou omodusoperandido delito, além da quantidade de drogas ecomprovação da estabilidade e permanência do vínculo associativo) sejam sopesados na análise dos requisitos previstos no dispositivo em comento.
+Confiram-se:AgRg no HC n. 699.047/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/02/2022; HC n. 680.988/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 15/12/2021; AgRg no HC n. 687.814/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/8/2021; AgRg no HC n. 654.991/SP, de minha relatoria, Sexta Turma, DJe 29/6/2021; HC n. 663.613/SP, Ministra Laurita Vaz, Sexta Turma, DJe 16/6/2021; AgRg no AREsp n. 1.747.367/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 12/3/2021; eAgRg no HC n. 601.765/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/12/2020.
+Logo, uma vez afastado o redutor, ao argumento de que o paciente se dedicava a atividades criminosas, não se mostra possível rever tal entendimento para fazer incidir a causa especial de diminuição, porquanto demandaria revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via domandamus(HC n. 683.182/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 5/10/2021).
+Quanto à tese debis in idem, também sem razão a impetração.
+No caso, conforme se depreende da sentença condenatória, apena-base do paciente, mantida pela Corte Local quanto ao ponto, afastou-se do mínimo legalem vista da culpabilidade, da quantidade e das circunstâncias(fl. 47).Ao passo que o afastamento da minorante ocorreu não só pela expressiva quantidade de drogas apreendidas, mas também pela função de "recolhe" exercida pelo réu(fl. 47).Fatos distintos, portanto, inexistindobis in idem.
+Sendo areprimenda definitiva imposta superior a 8 anos, o regime inicial (fechado) deve ser mantido, nos termos do art. 33, § 2º,b, do Código Penal.
+Por fim, o quantum de pena imposta (superior a 4 anos) não autoriza a substituição por restritivas de direitos, em respeito ao art. 44, I, do Código Penal.
+Em face do exposto,nego provimentoao agravo regimental.
