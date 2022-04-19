@@ -1,0 +1,55 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO — AGRAVO DE INSTRUMENTO No 1007281-41.2022.8.11.0000 — CLASSE 202 — CNJ — CÍVEL — COMARCA DE ALTA FLORESTA
+AGRAVANTE: SEBASTIÃO DOUGLAS SORGE XAVIER;
+AGRAVADO: ESTADO DE MATO GROSSO.
+Vistos etc.
+Agravo de instrumento, com pedido de antecipação de tutela da pretensão recursal, interposto por Sebastião Douglas Sorge Xavier contra a decisão modificada, em parte, pelos embargos de declaração que, em execução fiscal proposta pelo Estado de Mato Grosso contra si, Quatro Marcos Ltda. e Tupanangil Tricai Magalhaes, acolheu, em parte, a exceção de pré-executividade.
+Assegura que, “a empresa Executada apurou, declarou e recolheu o referido imposto, não havendo que se falar em ‘lançamento de ofício’ do tributo em cobrança nos presentes autos”, de modo que “a simples entrega de declaração pelo contribuinte à Administração Pública já constitui o crédito tributário lançado por homologação”.
+Assevera que transcorreram “mais de 05 (cinco) anos entre a data de vencimento do tributo constituído por declaração da própria empresa Executada (fevereiro/2008) e o ajuizamento da Execução Fiscal (14/05/2015)”. Logo, “operou-se a prescrição”.
+Afiança que “o valor cobrado relativo ao período de 12/2007 não considera que a empresa Executada estava submetida ao Regime de Estimativa Segmentada”, pelo que o “valor residual em cobrança (original de R$ 23.154,82) se mostra completamente indevido. Ademais, em que pese a natureza da atividade industrial da empresa Executada, esta não estava obrigada ao recolhimento do crédito em cobrança, uma vez que o Regime de Estima Segmentada abrange todas as operações sobre as quais há incidência de ICMS no território mato-grossense”.
+Afirma que “a vedação à dilação probatória em sede de exceção de pré-executividade”, “refere-se as matérias que exijam a produção e colheita de provas no bojo da instrução processual, especialmente prova oral e pericial. No entanto, não é a questão que se verifica nos autos, pois, da análise deste é possível verificar que não houve o incidente de desconsideração de personalidade jurídica”.
+Acentua que o agravante, “já estava incluso no título executivo sem que houvesse a instauração de auto de infração ou termo de responsabilização passiva solidária que oportunizasse a ampla defesa e o exercício do contraditório no processo administrativo. Ademais, é cediço que, para que haja a responsabilização dos sócios pessoas físicas pelas dívidas contraídas pela pessoa jurídica, é necessário que haja a comprovação do preenchimento de pelo menos um dos requisitos autorizadores para aplicação do incidente de desconsideração da personalidade jurídica”.
+Requer a antecipação de tutela da pretensão recursal para que seja suspensa a exigibilidade do crédito tributário, e, em consequência, suspensa a execução fiscal.
+É o relatório.
+Eis, no ponto de interesse, o teor da decisão:
+[...] Por essas razões, quanto aos fatos geradores de 03/2008 e 04/2008 (data de vencimento 20/05/2008 e 20/06/2008, data de constituição definitiva 28/12/2009 e 28/12/2009), referentes à infração 24.1.21 – falta de recolhimento do ICMS, operou-se o instituto da prescrição. Verifico que referidos lançamentos já foram excluídos prontamente pela parte exequente, visto o reconhecimento da prescrição da pretensão punitiva.
+Outrossim, rejeito a tese de prescrição levantada quanto aos demais fatos geradores, por todo o acima exposto.
+Quanto a alegada indevida responsabilidade do sócio administrador na certidão de dívida ativa e do cerceamento de defesa, verifico que trata-se de matéria que demanda dilação probatória, portanto, não pode ser arguida em sede de exceção de pré-executividade, não podendo ser reconhecida de ofício.
+Dispositivo
+Pelo exposto, quanto aos fatos geradores de 03/2008 e 04/2008 (data de vencimento 20/05/2008 e 20/06/2008, data de constituição definitiva 28/12/2009 e 28/12/2009), referentes à infração 24.1.21 – falta de recolhimento do ICMS, reconheço à exceção de pré-executividade, visto que operou-se o instituto da prescrição, como dispõe o art. 174 da CTN.
+Quanto aos demais requerimentos, rejeito à exceção de pré-executividade e consequentemente, determino o prosseguimento da execução fiscal.
+Sem condenação em custas e honorários advocatícios nesta fase processual.
+Após escoado o prazo para recursos da presente, intime-se a parte exequente, para, no prazo de 15 (quinze) dias, dar andamento efetivo ao feito, sob pena de arquivamento provisório dos autos (art. 40, §§ 2o e 3o, da Lei 6.830/80), devendo trazer aos autos demonstrativo atualizado do crédito exequendo.
+Transcorrido o prazo, com ou sem manifestação, certifique-se.
+Intimem-se, Cumpra-se.
+Alta Floresta/MT.
+Antônio Fábio da Silva Marquezini
+Juiz de Direito [...]. (Id. 125031152 – fls. 36/38).
+No essencial, a decisão nos embargos de declaração.
+[...] De outro norte, dou provimento ao recurso, uma vez que existe condenação em pagamento de honorários advocatícios em julgamento de exceção de pré-executividade, quando acolhida, importando na extinção do processo de execução, mesmo que parcial.
+Ou seja, mesmo ocorrendo a extinção parcial do feito parcialmente, como é o caso dos autos, gera a fixação de honorários. Nesse sentido é o entendimento jurisprudencial.
+[...]
+A 4a turma do STJ confirmou o entendimento de que são cabíveis honorários advocatícios na exceção de pré-executividade, ainda que parcial o seu acolhimento. Nos termos do artigo 20, caput, do CPC:
+“A sentença condenará o vencido a pagar ao vencedor as despesas que antecipou e os honorários advocatícios. Esta verba honorária será devida, também, nos casos em que o advogado funcionar em causa própria”.
+Assim, condeno o Estado de Mato Grosso ao pagamento de honorários advocatícios, nos patamares mínimos previstos no artigo 85, §3o do CPC, na forma do §5o do mesmo dispositivo.
+Ante o exposto, julgo parcialmente procedentes os presentes embargos nos termos acima citados, que passarão a fazer parte integrante da decisão embargada.
+Em continuidade, diante da nova exceção de pré-executividade juntando ao id. 69068256.
+Determino a intimação da parte exequente para manifestar no prazo legal.
+Intimem-se. Cumpra-se. [...]. (Id. 125031155 – fls. 31).
+Quanto à necessidade de comprovação de que o sócio agiu com excesso de poder ou infração de lei, contrato social ou estatuto, é certo que, em execução fiscal, presente o nome do sócio na certidão de dívida ativa, cabe a ele o ônus de provar a ausência dos requisitos do artigo 135 do Código Tributário Nacional.
+[...] A jurisprudência da Primeira Seção desta Corte Superior ao concluir o julgamento do ERESP n.o 702.232/RS, da relatoria do e. Ministro Castro Meira, publicado no DJ de 26.09.2005, assentou que: a) se a execução fiscal foi ajuizada somente contra a pessoa jurídica e, após o ajuizamento, foi requerido o seu redirecionamento contra o sócio-gerente, incumbe ao Fisco a prova da ocorrência de alguns dos requisitos do art. 135, do CTN: a) quando reste demonstrado que este agiu com excesso de poderes, infração à lei ou contra o estatuto, ou na hipótese de dissolução irregular da empresa; b) constando o nome do sócio-gerente como co-responsável tributário na CDA cabe a ele o ônus de provar a ausência dos requisitos do art. 135 do CTN, independentemente se a ação executiva foi proposta contra a pessoa jurídica e contra o sócio ou somente contra a empresa, tendo em vista que a CDA goza de presunção relativa de liquidez e certeza, nos termos do art. 204 do CTN c/c o art. 3o da Lei n.o 6.830/80. [...]. (STJ, Primeira Turma, AgRg no AgRg no REsp 1153333/SC, relator Ministro Luiz Fux, publicado no Diário da Justiça Eletrônico em 5 de outubro de 2010). [sem negrito no original]
+Além disso, em virtude da presunção de certeza, veracidade e legitimidade de que goza a certidão de dívida ativa, compete ao coobrigado comprovar a inexistência de sua responsabilidade tributária por intermédio de embargos à execução.
+Art. 204. A dívida regularmente inscrita goza da presunção de certeza e liquidez e tem o efeito de prova pré-constituída.
+Parágrafo único. A presunção a que se refere este artigo é relativa e pode ser ilidida por prova inequívoca, a cargo do sujeito passivo ou do terceiro a que aproveite.
+[...] O CTN, no parágrafo único do artigo 204, exige prova inequívoca do contribuinte para ilidir a presunção de certeza e liquidez do título, quando, inexistindo dúvida sobre a ocorrência dos fatos, ou sua dimensão, baseia-se a Fazenda na verdade formal extraída da própria escrita e dos livros contábeis do sujeito passivo, verdade que ele mesmo formou contra si, retratando uma realidade equivocada que ele quer refutar ou contrariar. [...]. (BALEEIRO, Aliomar. Direito Tributário Brasileiro. 12. ed. Rio de Janeiro: Forense, 2013, p. 1490). [sem negrito no original]
+Da presunção de certeza e liquidez da certidão de dívida decorreu o entendimento do Superior Tribunal de Justiça, em situação semelhante, cujos fundamentos em tudo aqui se aplicam, de que, “conforme assentado em precedentes da Primeira Seção, inclusive sob o regime do artigo 543-C do CPC (REsp 1.104.900, Min. Denise Arruda, DJe 01/04/2009), é inadmissível exceção de pré-executividade em execução fiscal promovida contra sócio que figura como responsável na Certidão de Dívida Ativa – CDA” (STJ, Primeira Turma, AgRg no AREsp 223785/PA, relator Ministro Benedito Gonçalves, publicado no Diário da Justiça Eletrônico em 7 de dezembro de 2012).
+[...] O entendimento sufragado pela Corte de origem se alinha com o assentado na Primeira Seção do STJ, quando do julgamento do REsp 1110925/SP e do REsp 1104900/ES, ambos pelo rito do art. 543-C do CPC/73, nos quais se concluiu pelo não-cabimento da exceção de pré-executividade na hipótese em que o nome do sócio constar da CDA, tendo em vista a presunção de legitimidade da referida certidão e, por conseguinte, a necessidade de dilação probatória para afastar a responsabilidade do sócio pelo crédito excutido. [...]. (STJ, Primeira Turma, AgRg no REsp 1219005/SP, relator Ministro Sérgio Kukina, publicado no Diário da Justiça Eletrônico em 2 de março de 2017). [com negrito no original]
+Portanto, é inadmissível exceção de pré-executividade em execução fiscal promovida contra sócio que figura como coobrigado na certidão de dívida ativa, uma vez que a demonstração de inexistência de responsabilidade daquele demanda dilação probatória.
+Ademais, a exceção de pré-executividade não é dotada de efeito suspensivo, muito menos impede os atos de constrição judicial; logo, não obsta o prosseguimento da execução fiscal.
+Por outro lado, as questões suscitadas em exceção de pré-executividade serão mais bem analisadas no julgamento do mérito do recurso pelo Colegiado.
+Dessa forma, recebo e determino o processamento do recurso, sem deferir, em antecipação de tutela, a pretensão recursal.
+Intimem-se o agravado para que responda (Código de Processo Civil, artigo 1.019, II).
+Intimem-se.
+Às providências.
+Cuiabá, 19 de abril de 2022.
+Des. Luiz Carlos da Costa
+Relator
