@@ -1,0 +1,25 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+Gabinete do Desembargador Luiz Ferreira da Silva
+HABEAS CORPUS CRIMINAL (307)
+1007285-78.2022.8.11.0000
+IMPETRANTE: ERICK VINICIUS CORREA DA COSTA
+PACIENTE: ORLEI CAMPOS PINHO
+IMPETRADO: JUÍZO DA 2a VARA CRIMINAL DA COMARCA DE CUIABÁ
+Vistos.
+Trata-se de habeas corpus com pedido de liminar, impetrado pelo advogado Erick Vinicius Correa da Costa, em favor de Orlei de Campos Pinho, apontando como autoridade coatora o Juízo da 2a Vara Criminal Comarca de Cuiabá-MT.
+Colhe-se desta impetração que o paciente responde ao Processo Executivo de Pena n. 0002570-16.2014.8.11.0024 (código 67083), em trâmite na unidade judiciária acima referida, no qual cumpre a pena de 16 (dezesseis) anos, 10 (dez) meses e 20 (vinte) dias de reclusão em regime fechado, em razão de duas condenações: uma por homicídio qualificado e posse ilegal de arma de fogo e outra pela prática do crime de tortura.
+Registra o impetrante que o paciente sofre constrangimento ilegal decorrente de excesso de prazo para a prestação jurisdicional, uma vez que obteve o direito à progressão de regime desde o dia 25 de junho de 2021, ou seja, há aproximadamente dez meses, tendo a Defensoria Pública requerido a retificação dos cálculos de sua pena, com manifestação do Ministério Público juntada em 31 de novembro de 2021, tendo os autos sido remetidos ao juízo de primeiro grau na data de 12 de janeiro de 2022, contudo, passados mais de três meses, o pleito ainda não foi analisado.
+Forte nas razões acima consignadas, liminarmente, postula a “imediata colocação do paciente em regime semiaberto com todas as condicionantes que sejam cabíveis, ou, em sentido diverso A DETERMINAÇÃO para o juízo das Execuções Penais para que no prazo arbitrado por este Tribunal promova as diligências, atos ou determinações cabíveis para inserir o Paciente no regime semiaberto”. E, no mérito, a convolação da medida de urgência, porventura deferida, em definitiva.
+É o relatório. Decido.
+Conquanto o ordenamento jurídico pátrio não preveja a possibilidade de se conceder medida liminar em sede de habeas corpus, tal providência tem sido admitida tanto pela doutrina quanto pela jurisprudência, quando se mostram configurados os requisitos do fumus boni iuris e do periculum in mora, pressupondo o elemento da impetração que aponta a ilegalidade reclamada e a probabilidade de dano irreparável, até porque é possibilitado ao magistrado conceder ordem de habeas corpus mesmo de ofício, quando verificar que o pleito se encontra devidamente instruído e que está evidente o constrangimento ilegal no direito de ir e vir dopaciente.
+Na espécie, da análise perfunctória desta ação mandamental, própria desta fase de cognição sumária, vê-se que o pedido de urgência deve ser acolhido em parte, porquanto, aparentemente, o pedido de retificação de cálculos de pena para fins de progressão de regime prisional do paciente está paralisado, pendente de análise no juízo de primeiro grau desde 12 de janeiro deste ano, não obstante já tenha sido encartada manifestação parcialmente favorável pelo Ministério Público, razão pela qual imperioso o reconhecimento de pertinência da alegação de negativa de prestação jurisdicional por excesso de prazo.
+Ante o exposto, defiro parcialmente a liminar vindicada, sem prejuízo de análise mais detida quando do julgamento do mérito do presente writ, determinando ao juízo de primeiro grau que analise os pedidos deduzidos pelo paciente no prazo mais breve possível.
+Por derradeiro, determino, também, o cumprimento dos seguintes atos:
+I – a expedição de ofício à autoridade apontada como coatora, requisitando, no prazo de 5 (cinco) dias, relatório objetivo do processo correlato, juntamente com as informações de caráter jurídico indispensáveis, identificando as teses levantadas nesta impetração, procurando demonstrar, com base em dados concretos, os motivos da demora para a análise do pleito deduzido pelo paciente noProcesso Executivo de Pena n. 0002570-16.2014.8.11.0024 (SEEU); enviando, outrossim, cópias dos documentos necessários à apreciação desta ação constitucional, em observância às exigências apontadas no art. 484, do capítulo VI, da Seção XXIV, doCódigo de Normas Gerais da Corregedoria Geral da Justiça, aprovada pelo Provimento n. 39/2020-CGJ; consignando-se, ainda, no aludido expediente, a solicitação para que a autoridade impetrada preste informações complementares em caso de alteração superveniente do quadro fático e/ou jurídico do processo originário que possa influenciar no julgamento de mérito deste writ. Findo o prazo sem que os informes sejam prestados, certifique-se o ocorrido, procedendo-se à conclusãodos presentesautospara as providências pertinentes;
+II – prestadas as informações, remetam-se estes autos à Procuradoria-Geral de Justiça, a fim de que, por meio de um dos seus integrantes, opine sobre o constrangimento ilegal propalado na prefacial;
+III – com a publicação desta decisão, dê-se por intimado o impetrante.
+Cumpra-se.
+Cuiabá/MT, 20 de abril de 2022.
+Desembargador LUIZ FERREIRA DA SILVA
+Relator
