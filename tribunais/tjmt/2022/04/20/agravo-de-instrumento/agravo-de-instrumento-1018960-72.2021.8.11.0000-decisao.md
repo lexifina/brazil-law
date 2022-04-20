@@ -1,0 +1,95 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO AGRAVO DE INSTRUMENTO No 1018960-72.2021.8.11.0000
+RECORRENTES: PEDRO VARGAS GROEFF E OUTRO
+RECORRIDO: BANCO DO BRASIL S.A
+RECURSO EXTRAORDINÁRIO INTERPOSTO NO AGRAVO DE INSTRUMENTO No 1018960-72.2021.8.11.0000
+RECORRENTES: PEDRO VARGAS GROEFF E OUTRO
+RECORRIDO: BANCO DO BRASIL S.A
+Vistos.
+Do Recurso Especial no id 120228468
+Trata-se de recurso especial interposto por PEDRO VARGAS GROEFF E OUTRO com fundamento no art. 105, III, alínea “a” da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado, que por unanimidade, desproveu o recurso, nos termos da seguinte ementa (id 112704974):
+“AGRAVO DE INSTRUMENTO – LIQUIDAÇÃO DE SENTENÇA PROFERIDA EM AÇÃO DE REPETIÇÃO DE INDÉBITO – PERÍCIA CONTÁBIL - DETERMINAÇÃO DE CUMPRIMENTO À ORDEM JUDICIAL – JUROS REMUNERATÓRIOS NA ATUALIZAÇÃO DOS VALORES – AUSÊNCIA DE MENÇÃO EXPRESSA NO DECISUM – OBSERVÂNCIA À COISA JULGADA – RECURSO NÃO PROVIDO.
+É improcedente o pedido para que na repetição do indébito sejam acrescidos juros remuneratórios se no decisum não há menção expressa nesse sentido.
+A determinação judicial de estrita observância aos limites definidos na sentença para apuração dos valores a serem devolvidos ao autor não fere o instituto da coisa julgada”. (TJMT – QUARTA CÂMARA DE DIREITO PRIVADO - RAI n. 1018960-72.2021.8.11.0000, Relator (a): RUBENS DE OLIVEIRA SANTOS FILHO, j. 09/12/2021).
+Opostos Embargos de Declaração, estes foram rejeitados no id. 118488974.
+As partes recorrentes alegam violação aos artigos 489, II, § 1o, e IV, 502, 509, § 4o, e 1.022, II, do Código de Processo Civil, ao argumento de que houve ofensa à coisa julgada, uma vez que a decisão recorrida alterou os dispositivos da sentença transitada em julgado quando afastou os juros remuneratórios.
+Aduzem que os valores a serem restituídos deverão ser corridos com mesmos encargos financeiros fixados nas cédulas rurais.
+Recurso tempestivo (id. 120821480).
+Contrarrazões (id. 121563960)
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Inicialmente, saliente-se que apesar de haver Recurso Especial (REsp 1.552.434/GO – Tema 968) julgados perante a sistemática de recursos repetitivos em relação ao descabimento da repetição do indébito com os mesmos encargos do contrato, não é o caso de sua aplicação, por existir distinção.
+Por sua vez, in casu, discute-se exclusivamente ofensa à coisa julgada em cumprimento de sentença, uma vez que os valores a serem restituídos deverão ser corridos com mesmos encargos financeiros fixados na sentença.
+Ademais, a alegação dos recorrentes de inaplicabilidade do Tema 968/STJ, foi trazida somente nas razões dos embargos de declaração, o que caracteriza inovação recursal.
+Logo, não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione diretamente às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Inovação recursal
+Com o objetivo de evitar a supressão de instância, nos termos do artigo 105, inciso III, da Constituição Federal, para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi Súmula 282 do STF.
+Consigne-se, ainda, que na hipótese de questão não decidida no julgado, para que a matéria seja considerada prequestionada, é imprescindível que sejam opostos embargos de declaração com a indicação precisa do ponto a ser examinado, em aplicação da Súmula 356/STF.
+No entanto, caso a tese não tenha sido alegada nas razões do recurso de apelação/agravo instrumento, não se afigura possível a sua alegação somente nas razões dos embargos de declaração, por se tratar de inovação recursal.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPENHORABILIDADE. BEM DE FAMÍLIA. INDENIZAÇÃO. ATO ILÍCITO. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO CONHECIMENTO DO RECURSO POR AMBAS AS ALÍNEAS AUTORIZADORAS. SÚMULAS 211/STJ, 282 E 356/STF. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. NECESSIDADE.AGRAVO NÃO PROVIDO. 1. A alegação de que a impenhorabilidade prevista na Lei 8.009/90 não é oponível ao credor de indenização por ato ilícito foi suscitada apenas em sede de embargos de declaração, razão pela qual não foi analisada pela Corte Estadual, por se tratar de indevida inovação recursal. Portanto, carece de prequestionamento, nos termos das Súmulas 211/STJ, 282 e 356/STF.
+2. (...).
+5. Agravo interno a que se nega provimento”. (AgInt no AREsp 1317107/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/10/2018, DJe 23/10/2018).
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.NEGATIVA DE PRESTAÇÃO JURISDICIONAL QUANTO À TESE RELATIVA AO ÔNUS PROBATÓRIO. INOVAÇÃO RECURSAL. DETERMINAÇÃO DE EXIBIÇÃO DE DOCUMENTOS. EXISTÊNCIA DE FUNDAMENTO LEGAL E CONSTITUCIONAL.AUSÊNCIA DE INTERPOSIÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ.TESE DE INVERSÃO OBLÍQUA DO ÔNUS DA PROVA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282/STF, 356/STF E 211/STJ. MULTA DO ART.1.021, § 4o, DO CPC/2015. NÃO CABIMENTO. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. (...).
+3. Não houve manifestação do Colegiado estadual sobre a tese de inversão oblíqua do ônus da prova, nem sequer de forma implícita, porquanto o acórdão recorrido não emitiu juízo de valor fundamentado acerca da referida matéria, o que evidencia a ausência de prequestionamento, a atrair a aplicação dos enunciados n. 282 e 356 da Súmula do STF.
+4. Inexiste contradição ao se reconhecer a ausência de omissão do acórdão estadual e a falta de prequestionamento do tema referente ao ônus de prova, considerando que não foi suscitado o pronunciamento do Tribunal de origem sobre esta questão jurídica nos aclaratórios opostos, nem houve a alegação, no apelo especial, de negativa de prestação jurisdicional quanto a esse tema.
+5. Mesmo que se considerasse que a matéria relativa ao ônus probatório foi aventada nos embargos de declaração, ainda assim seria o caso de se reconhecer a ausência de prequestionamento, ante a falta de pronunciamento do Tribunal de origem sobre o tema, mas com base no enunciado n. 211 da Súmula do STJ.
+6. (...).7. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.(AgInt no AREsp 1644164/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/03/2021, DJe 17/03/2021)”(g.n.)
+Dessa forma, verifica-se que a controvérsia firmada nos autos a partir de suposta ofensa aos artigos 489, II, § 1o, e IV, e 1.022, II, do CPC, em que que se discute que o acórdão recorrido foi omisso quanto a não aplicabilidade do REsp 1.552.434-GO, Tema 968/STJ, uma vez que a sentença transitou em julgado em 2015 e não poderia ser alterado seu conteúdo pelo repetitivo, não foi decidida pelo aresto recorrido, e por ter sido suscitada somente nas razões dos embargos de declaração, caracteriza inovação recursal e, portanto, carece de prequestionamento, nos termos das Súmulas 211/STJ, 282 e 356/STF.
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Consoante a previsão da Súmula 7 do STJ, em sede de recurso especial não é possível o exame de fatos e provas, pois segundo se depreende do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se exclusivamente à aplicação e à uniformização da interpretação das leis federais.
+A suposta violação aos artigos 502 e 509, § 4o, do CPC, está amparada na assertiva de ofensa à coisa julgada uma vez que a decisão de primeiro grau afastou a soma dos juros remuneratórios ante a ausência de previsão na sentença acerca da incidência dos encargos, ao contrário do que foi determinado na sentença transitada em julgado que decidiu que os valores devem ser corrigidos com mesmo encargos fixados nas cédulas.
+O acórdão recorrido decidiu, in verbis:
+“É improcedente o pedido para que na repetição do indébito sejam acrescidos juros remuneratórios se no decisum não há menção expressa nesse sentido.
+A determinação judicial de estrita observância aos limites definidos na sentença para apuração dos valores a serem devolvidos ao autor não fere o instituto da coisa julgada”. (id. 112704974) (g.n)
+No entanto, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA DECORRENTE DE CONDENAÇÃO EM AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. DECISÃO AGRAVADA QUE CONFIGURA AFRONTA AO PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA. FIXAÇÃO DA PENSÃO VITALÍCIA COM BASE NA DIFERENÇA ENTRE O BENEFÍCIO RECEBIDO DO INSS E A REMUNERAÇÃO QUE O AGRAVANTE PERCEBERIA CASO ESTIVESSE NA ATIVA.
+I – (...)
+II - Incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste no reconhecimento da violação da coisa julgada por meio da revisão da interpretação do teor do título executivo judicial realizada pela Corte de origem, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+III - Nesse sentido, a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp n. 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+IV - Agravo interno improvido.(AgInt no AREsp 1708138/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2020, DJe 18/11/2020)”. (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, o recurso não deve ser admitido.
+Do Recurso Extraordinário no id. 120601997
+Trata-se de recurso extraordinário interposto por PEDRO VARGAS GROEFF E OUTRO com fundamento no art. 102, III, alínea “a” da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado, que por unanimidade, desproveu o recurso, nos termos da seguinte ementa (id 112704974):
+“AGRAVO DE INSTRUMENTO – LIQUIDAÇÃO DE SENTENÇA PROFERIDA EM AÇÃO DE REPETIÇÃO DE INDÉBITO – PERÍCIA CONTÁBIL - DETERMINAÇÃO DE CUMPRIMENTO À ORDEM JUDICIAL – JUROS REMUNERATÓRIOS NA ATUALIZAÇÃO DOS VALORES – AUSÊNCIA DE MENÇÃO EXPRESSA NO DECISUM – OBSERVÂNCIA À COISA JULGADA – RECURSO NÃO PROVIDO.
+É improcedente o pedido para que na repetição do indébito sejam acrescidos juros remuneratórios se no decisum não há menção expressa nesse sentido.
+A determinação judicial de estrita observância aos limites definidos na sentença para apuração dos valores a serem devolvidos ao autor não fere o instituto da coisa julgada”. (TJMT – QUARTA CÂMARA DE DIREITO PRIVADO - RAI n. 1018960-72.2021.8.11.0000, Relator (a): RUBENS DE OLIVEIRA SANTOS FILHO, j. 09/12/2021).
+Opostos Embargos de Declaração, estes foram rejeitados no id. 118488974.
+Nas razões do recurso extraordinário os recorrentes sustentam violação aos artigos 5o, XXXVI, e 93, IX, da Constituição Federal, ao argumento de violação à coisa julgada uma vez que na liquidação de sentença foi indevidamente alterada os dispositivos da sentença já transitada em julgado, já que os valores a serem restituídos deverão ser corrigidos com os mesmos encargos financeiros fixados nas cédulas rurais, o que não ocorreu no presente caso, bem como ausência de fundamentação do acórdão recorrido.
+Recurso tempestivo (id. 120821480).
+Contrarrazões (id. 121563968).
+É o relatório.
+Decido.
+Da sistemática de repercussão geral (Tema 660)
+A aventada violação ao artigo 5o, XXXVI, da CF, está amparada na assertiva de que teria havido ofensa aos princípios do contraditório e da ampla defesa e a coisa julgada, uma vez que na liquidação de sentença foi indevidamente alterada os dispositivos da sentença já transitada em julgado, já que os valores a serem restituídos deverão ser corrigidos com os mesmos encargos financeiros fixados nas cédulas rurais, o que não ocorreu no presente caso.
+No julgamento do recurso Leading Case ARE 748371 RG/MT (Tema 660) o Supremo Tribunal Federal reconheceu a inexistência de repercussão geral desta matéria, conforme se observa da ementa abaixo transcrita:
+“Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”. (STF ARE 748371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)”. (g.n)
+Diante desse quadro, é o caso de inadmissão do recurso, com fundamento no art. 1.030, I, “a”, do CPC, em face do reconhecimento da inexistência de repercussão geral da matéria pelo Supremo Tribunal Federal, manifestado no paradigma ARE 748371 RG/MT (Tema 660).
+Tema 339/STF – Obrigatoriedade de fundamentação das decisões judiciais
+Consoante se verifica da tese recursal, a suposta violação ao artigo 93, IX, da Constituição Federal, está amparada na alegação de que o acórdão recorrido padece de fundamentação uma vez que deve apreciar o pedido de nulidade da sentença que alterou a coisa julgada na fase de liquidação, para excluir os mesmos encargos das cédulas rurais.
+Por sua vez, no julgamento do AI 791292 QO-RG/PE (Tema 339), o Supremo Tribunal Federal concluiu que a Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+Confira-se a ementa do julgado:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5o e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”. (AI 791292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, p. 113-118). (g.n)
+Nesse contexto, do exame do acórdão recorrido, verifica-se que o órgão fracionário deste Tribunal manifestou-se em relação à referida questão de maneira suficiente para o deslinde da controvérsia, o que está em consonância com o entendimento firmado no Supremo Tribunal Federal.
+Com efeito, constou do acórdão, in verbis:
+“(...) A Impugnação ao Cumprimento de Sentença foi acolhida e determinada a readequação dos cálculos, dessa vez sem juros remuneratórios.
+Os agravantes arguem que fazem jus à devolução do indébito com os mesmos encargos financeiros praticados nas cédulas rurais (correção monetária e juros capitalizados mensalmente), pois assim teriam pleiteado na inicial. Acrescentam que o agravado não contestou essa questão, portanto estaria incluída na decisão, já que o feito foi julgado totalmente procedente.
+No entanto, o juízo da causa em nenhum momento fez menção expressa a juros remuneratórios capitalizados nos cálculos da repetição do indébito. Reportou-se apenas à aplicação de correção com os mesmos encargos, ou seja, correção monetária pelos índices da caderneta de poupança, mais juros de mora de 1% ao mês a partir da citação, é o que se denota da parte dispositiva da sentença:
+“(...) Desse modo, não procede a alegação de violação à coisa julgada; longe disso, a decisão evitou que os cálculos se dessem em dissonância do que ficou estipulado na fase de conhecimento.
+Ao contrário dos juros moratórios, que são consectários legais da condenação e por isso podem ser incluídos de ofício na condenação, independentemente de pedido da parte, os juros remuneratórios para serem reconhecidos dependem, além da postulação, que estejam expressamente citados na sentença. Não há como admitir que a interpretação do decisum leva à concepção de que o juízo de origem concluiu pela inclusão dos remuneratórios na forma capitalizada”.. (id. 112704974) (g.n)
+Nesse contexto, constata-se que o acórdão recorrido está em conformidade com a orientação do STF, o qual concluiu que, a despeito do dever de fundamentação da decisão, esta pode se dar de forma sucinta, e sem a necessidade de exame pormenorizado de cada uma das alegações ou provas, é o caso de se concluir pela consonância do aresto recorrido com o entendimento da Corte Suprema, o que obsta o seguimento do presente recurso.
+Nesse contexto, nos termos do artigo 1.030, I, “b”, do CPC, fica obstado o seguimento do recurso, diante da sistemática de repercussão geral (Tema 339).
+Ante o exposto nego seguimento:
+a) ao recurso especial com fundamento no artigo 1.030, V, do CPC, ante o óbice sumular 7/STJ e inovação recursal; e
+b) ao recurso extraordinário, com base no artigo 1.030, I, “a”, e “b”, do CPC, ante a sistemática de repercussão geral (Temas 339 e 660 do STF).
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
