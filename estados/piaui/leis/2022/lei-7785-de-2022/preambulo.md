@@ -1,0 +1,5 @@
+LEI Nº 7.785, DE 19 DE ABRIL DE 2022
+
+Altera a Lei nº 4.997, de 30 de dezembro de 1997, que cria o Sistema de Incentivo Estadual à Cultura - SIEC e dispõe sobre benefícios fiscais na área do Imposto sobre Operações relativas à Circulação de Mercadorias e Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, concedidos a operações de caráter cultural e artístico; a Lei nº 6.949, de 11 de janeiro de 2017, que regula o Processo Administrativo Tributário, dispõe sobre a estrutura, organização e competência do contencioso administrativo no âmbito da Secretaria da Fazenda do estado do Piauí, disciplina a consulta à legislação tributária e o pedido de restituição de tributos pagos indevidamente; e a Lei nº 6.951, de 06 de fevereiro de 2017, que cria o Sistema Estadual de Incentivo à Inclusão e Promoção Social – SEIPS e dispõe sobre crédito presumido do Imposto sobre Operações relativas à Circulação de Mercadorias e Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS.
+
+A GOVERNADORA DO ESTADO DO PIAUÍ, Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
