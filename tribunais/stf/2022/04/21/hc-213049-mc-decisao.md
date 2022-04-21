@@ -1,0 +1,53 @@
+DECISÃO
+
+1.     Trata-se de habeas corpus impetrado por José Roberto Batochio e outros em favor de Leonardo Lourenço da Silva, réu denunciado por delito de tráfico de drogas e por sequestro e cárcere privado em ação penal que tramita na 1ª Vara da Comarca de Camaragibe/PE, à vista de decisão da Sexta Turma do Superior Tribunal de Justiça, a qual negou o remédio constitucional antes intentado naquela Corte, nos termos da seguinte ementa:
+
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. SEQUESTRO. CÁRCERE PRIVADO. PLEITO DE TRANCAMENTO DA AÇÃO PENAL. EXCEPCIONALIDADE NA VIA DO HABEAS CORPUS. HIPÓTESE QUE NÃO SE VERIFICA NOS AUTOS. TESE DE AUSÊNCIA DE JUSTA CAUSA. INOCORRÊNCIA. PRESENÇA DE INDÍCIOS DE AUTORIA E MATERIALIDADE DELITIVAS. DENÚNCIA QUE PREENCHE OS REQUISITOS PREVISTOS NO ART. 41 DO CÓDIGO DE PROCESSO PENAL. PRETENSÃO DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE NA VIA ELEITA. MATÉRIA QUE DEVE SER RESERVADA ÀS VIAS ORDINÁRIAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. 1. O trancamento da ação penal constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, a ausência de indícios mínimos de autoria ou de prova de materialidade. 2. O acolhimento da tese defensiva - ausência de responsabilidade do paciente, na condição da Presidente da Instituição - demandaria necessariamente amplo reexame da matéria fático-probatória, procedimento a toda evidência incompatível com a via do habeas corpus e do seu recurso ordinário. Aferem-se presentes, portanto, os indícios mínimos de materialidade e autoria delitiva, de modo que a persecução penal deve ter prosseguimento. 3. Ordem denegada.
+
+2.     A denúncia, em síntese, dá conta de que o paciente, juntamente com outros dois corréus, teria decidido ingressar no lucrativo negócio de internamento compulsório de viciados em drogas, tendo aberto duas Clínicas. Em 10 de setembro de 2009, em uma das clínicas, foram encontrados remédios controlados em um veículo do paciente, em desacordo com prescrições legais e regulamentares. Em 23 de dezembro de 2013, teria sido constatado que, com a condescendência dos denunciados, pacientes eram mantidos em cárcere privado e maltratados, trancafiados por mal comportamento e submetidos a altas doses de drogas que causam dependência.
+
+3.     Sustentam os impetrantes a inépcia formal e material da inicial acusatória e requerem, liminarmente, a suspensão da tramitação da ação, tendo em vista a iminência de realização de audiência de instrução e o consequente incremento do risco ao “status libertatis” do paciente, com o posterior trancamento da ação penal.
+
+4.     Alegam que a denúncia ofertada pelo Ministério Público não apresenta descrição específica e individualizada das condutas praticadas pelo réu, nem também indica o vínculo subjetivo entre ele e os fatos criminosos. O paciente teria sido denunciado só por figurar nos estatutos da Clínica como seu Diretor-Presidente, mas não tinha qualquer ingerência nas atividades terapêuticas, as quais ficavam sob responsabilidade de um corpo médico. Afirmam que não há justa causa para a ação penal, tendo em vista que os fatos imputados são atípicos, pois todos os internados na clínica lá estavam voluntariamente, por iniciativa de familiar ou de responsável (internação involuntária do art. 23-A, § 3º, II, da Lei nº 13.840, de 2019) ou por ordem judicial. Ademais, todas as internações eram comunicadas ao Ministério Público. As clínicas eram inscritas no Conselho Regional de Medicina de Pernambuco e possuíam licença de funcionamento. Quanto às medicações, não há laudo pericial toxicológico. Além disso, os medicamentos eram regularmente adquiridos em uma distribuidora hospitalar, à vista de prescrições médicas, para utilização nas clínicas.
+
+É o relatório.
+
+Decido.
+
+5.     Primeiramente, quanto ao cabimento do presente “writ”, observo que o Tribunal Pleno, por maioria, já assentou a admissibilidade de impetração originária substitutiva de recurso ordinário constitucional (HC nº 152.752/PR, Relator Ministro Edson Fachin, j. 04/04/2018, p. 27/06/2018). Assim, conheço do presente habeas corpus.
+
+6.     Em uma análise inicial, condizente com a cognição sumária que o pedido liminar importa, não constato a alegada inépcia da denúncia, seja em seu aspecto formal ou material.
+
+7.     Quanto à inépcia formal, verifico que a exordial impugnada narrou o suposto delito de tráfico da seguinte forma: “No dia 10 de setembro de 2009, na Cínica Nova Aliança, o denunciado LEONARDO LOURENÇO  DA SILVA mantinha em seu veículo Logan, placa EDX 3466, xx, drogas, 10 cápsulas de cloridrato de fluoxetina, 200 comprimidos de tegretard, 200 mg de haloperidol, 10 envelopes de Diazepam, 10 comprimidos de respiridona, 20 comprimidos de de respiridona, 10 comprimidos de fluoxitim, 10 comprimidos de clonazepam, 10 comprimidos de longactil de 100 mg, 10 comprimidos de longactil de 25 mg, 75 comprimidos de parkinsol de 2mg, 10 comprimidos de amytril de 25 mg e 1 comprimido de Rivotril, em desacordo com as prescrições legais e regulamentares (fls. 83/84), conforme termo de apreensão cautelar de fls. 48” (grifei).
+
+8.     E, no que toca ao suposto delito de sequestro e cárcere privado, narrou a denúncia que os internos “eram espancados e maltratados pelos monitores, com a condescendência dos denunciados, bem como, se reclamavam, eram submetidos a altas doses de drogas que causam dependências (...) Os monitores e os denunciados também se utilizavam como prática de punição do enclausuramento num compartimento pequeno e fechado durante todo o dia chamado de ‘calabouço’. (...) Em 23 de dezembro de 2013, em cumprimento de mandado de busca e apreensão, novamente se verificou que os denunciados persistiam na mesma conduta delitiva, mantendo os pacientes em cárcere privado, sem a concordância dos mesmos, apesar de estarem sem consumir drogas há vários meses e sem autorização judicial” (grifei).
+
+9.     No que concerne à alegada falta de indicação do vínculo subjetivo entre o paciente e os fatos supostamente criminosos, extraem-se os seguintes trechos da inicial acusatória: “(...) os dois primeiros denunciados, que são irmãos, decidiram ingressar no lucrativo negócio de internamento compulsório de viciados em drogas, notadamente crack e maconha, tendo aberto duas Clínicas denominadas Nova Aliança, para tratamento de viciados mediante o pagamento de mensalidades em torno de R$ 3 a R$ 5 mil reais mensais, aproveitando-se da situação de fragilidade das famílias dos adictos. Os denunciados, então, contrataram a terceira denunciada, que é octogenária e com sinais de senilidade, para assinar em branco receitas de remédios controlados e fichas de evolução de pacientes, dando um manto de legalidade às práticas delitivas.”
+
+10.     Assim, a denúncia teria narrado suficientemente, sob o ponto de vista formal, quais teriam sido as condutas dos réus, permitindo a ampla defesa.
+
+11.     Já no que diz respeito à alegação de inépcia material da denúncia e falta de justa causa para a ação penal, os argumentos dos impetrantes se confundem com a própria análise de mérito dos elementos de convicção produzidos no inquérito e a serem produzidos no curso do processo cuja completude da instrução os impetrantes pretendem aqui obstar. Nesse ponto, pertinente a observação do e. Ministro Sebastião Reis Júnior na ementa da denegação da ordem no Superior Tribunal de Justiça:
+
+“O trancamento da ação penal constitui medida excepcional, justificada apenas quando comprovadas, de plano, sem necessidade de análise aprofundada de fatos e provas, a atipicidade da conduta, a presença de causa de extinção de punibilidade, a ausência de indícios mínimos de autoria ou de prova de materialidade.
+
+O acolhimento da tese defensiva - ausência de responsabilidade do paciente, na condição da Presidente da Instituição - demandaria necessariamente amplo reexame da matéria fático-probatória, procedimento a toda evidência incompatível com a via do habeas corpus e do seu recurso ordinário. Aferem-se presentes, portanto, os indícios mínimos de materialidade e autoria delitiva, de modo que a persecução penal deve ter prosseguimento”.
+
+12.     O fato de as clínicas funcionarem com autorização do Conselho Regional de Medicina de Pernambuco e de possuírem licenças da Prefeitura ou de quaisquer outros órgãos não impede, por si, que os episódios narrados na denúncia possam ter ocorrido.
+
+13.     Incabível que, nesse momento, em sede de habeas corpus, se adentre com a profundidade necessária na análise da ocorrência ou não dos enclausuramentos no citado “calabouço” e na manutenção dos internos em cárcere privado quando já cessada qualquer necessidade terapêutica de internação, bem como que aqui se embrenhe na investigação da eventual participação do paciente nos fatos denunciados, da sua ingerência ou não sobre o corpo médico, sobre a terceira denunciada, octogenária, e sobre demais funcionários e monitores. O mesmo se diga quanto à obtenção de medicamentos supostamente sem atendimento das prescrições legais ou a partir de receitas assinadas em branco. No que toca à falta de laudo pericial quanto às substâncias, para efeito de configuração de justa causa bastante ao recebimento da denúncia, o documento de fl. 1663 dos autos principais (Peça nº 4 da presente impetração), emitido pelo IML de Pernambuco, atestando a apreensão dos medicamentos e indicando que pertenceriam às listas B1 e C1 da Portaria nº 344, de 1998. do Ministério da Saúde, se mostra suficiente.
+
+14.     O sobrestamento liminar do processo, o qual já tramita há mais de sete anos, com audiência de instrução já marcada, implicaria demora ainda maior na conclusão do feito. O sobrestamento do processo por medida liminar, prejudicando a realização da audiência, só pode se dar por ilegalidades claras e evidentes que impliquem risco de prejuízo irreparável. Não é o caso. Ainda mais considerando-se que eventual sentença condenatória de primeiro grau, por si, não implica decreto de prisão, vez que revogado o art. 393 do Código de Processo Penal.
+
+15.     Ante o exposto, indefiro a liminar.
+
+16.     Solicitem-se informações ao juízo da 1ª Vara da Comarca de Camaragibe/PE, referentes à ação penal que lá tramita em face de Leonardo Lourenço da Silva, André Lourenço da Silva e Vilma Ferreira da Silva (Processo nº 5513-48.2013.8.17.0420), com as peças que entender pertinentes.
+
+17.     Com as informações, dê-se imediata vista à Procuradoria-Geral da República.
+
+Publique-se. Intime-se.
+
+Brasília, 21 de abril de 2022.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
