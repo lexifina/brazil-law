@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/04/2022 a 25/04/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que conheceu parcialmente do Recurso Especial e, nessa extensão, negou-lhe provimento (fls.552-555, e-STJ).
+A parte agravante alega, em síntese (fl. 574, e-STJ):
+Não custa repisar que o fundamento do acórdão regional, que foi ratificado pela decisão monocrática ora recorrida, foi o de que teria havido violação ao princípio da legalidade, por falta de lei que respaldasse a autuação. Todo o esforço da ANP, portanto, consistiu em demonstrar, com apoio na jurisprudência do STF, inclusive, que havia sim base legal para a aplicação da sanção, ante a recepção dos Decretos-Lei nº 395/38 e 538/38 com status de lei ordinária.
+Pugna pela reconsideração da decisão agravada ou provimento, pelo colegiado, do Agravo Interno.
+Houve impugnação às fls. 578-585, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AUTO DE INFRAÇÃO COM BASE EM PORTARIA. PRINCÍPIO DA LEGALIDADE.
+1. O Tribunal a quo, ao julgar a controvérsia, consignou (fls. 350-351, e-STJ): "Com efeito, portarias não são instrumentos hábeis para imposição de multas, porquanto ferem o princípio constitucional da reserva de lei ao contemplarem penalidades. A definição de infrações e a cominação de sanções administrativas, após a vigência da Constituição de 1988, somente podem decorrer de lei em sentido formal. Ademais, como ato normativo hierarquicamente inferior, as portarias têm por objetivo explicitar norma legal a ser observada pela Administração, sem o mister de restringir ou ampliar disposições legais. Portanto, as portarias não se prestam ao preenchimento de lacunas e omissões da lei e, assim, não podem acrescentar conteúdo material à norma regulamentada, devendo restringir-se ao fim de facilitar a aplicação e execução da lei que disciplina a matéria. (..) Sendo a multa administrativa aplicada pelo Departamento Nacional de Combustíveis, fundada apenas em portaria, resta insubsistente o auto de infração lavrado, bem como os atos administrativos dele decorrentes".
+2. Nesse contexto, o Tribunal de origem, ao decidir que, "Sendo a multa administrativa aplicada pelo Departamento Nacional de Combustíveis, fundada apenas em portaria, resta insubsistente o auto de infração lavrado, bem como os atos administrativos dele decorrentes", adotou orientação em consonância com entendimento manifestado pelo STJ de que "é nula a sanção fundada apenas em Portaria, pois tal ato restringe-se a facilitar a aplicação e execução da lei, sob pena de ferir o princípio constitucional da reserva legal na aplicação de penalidades" (STJ, AgRg no AREsp 493.411/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 13/6/2014).
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 3.3.2022.
+O Agravo Interno não merece prosperar.
+O Tribunal a quo, ao julgar a controvérsia, consignou (fls. 350-351, e-STJ):
+Não merece prosperar o inconformismo das apelantes. A penalidade administrativa imposta pelo Departamento Nacional de Combustíveis - DNC, por meio do Auto de Infração n. 3352 lavrado em 28.11.94, tem como fundamentação legal a Portaria MINFRA n. 843/90.
+Com efeito, portarias não são instrumentos hábeis para imposição de multas, porquanto ferem o princípio constitucional da reserva de lei ao contemplarem penalidades. A definição de infrações e a cominação de sanções administrativas, após a vigência da Constituição de 1988, somente podem decorrer de lei em sentido formal.
+Ademais, como ato normativo hierarquicamente inferior, as portarias têm por objetivo explicitar norma legal a ser observada pela Administração, sem o mister de restringir ou ampliar disposições legais.
+Portanto, as portarias não se prestam ao preenchimento de lacunas e omissões da lei e, assim, não podem acrescentar conteúdo material à norma regulamentada, devendo restringir-se ao fim de facilitar a aplicação e execução da lei que disciplina a matéria.
+(..) Sendo a multa administrativa aplicada pelo Departamento Nacional de Combustíveis, fundada apenas em portaria, resta insubsistente o auto de infração lavrado, bem como os atos administrativos dele decorrentes.
+E, ao analisar os Embargos de Declaração, opostos pela ANP, complementou (fl. 418, e-STJ):
+Com efeito, tendo sido o Auto de Infração 3352 lavrado pelo extinto DNC em 28.11.1994, deve ser rechaçada a alegação de que as Leis 9.478/1999 e 9.874/1999 constituem o fundamento da aplicação da penalidade imposta no auto de infração objeto do pedido de anulação nestes autos, por isso que os aludidos diplomas legais somente foram editados em data posterior à Portaria MINFRA 843/1990.
+Do mesmo modo, também o Decreto-Lei 538/1938, que organiza o Conselho Nacional de Petróleo, define suas atribuições e dá outras providências, não é suficiente para dar suporte ao aludido auto de infração, por não configurar lei, em sentido formal, caracterizando ofensa ao princípio da legalidade a imposição de multa em portaria ministerial.
+Quanto ao citado Decreto-Lei 358/1958, não há que se falar em sua aplicação na espécie, por tratar de matéria estranha à discutida nestes autos, uma vez que cuida da suspensão, no mês de março, dos descontos autorizados em folha de pagamento.
+Nesse contexto, o Tribunal de origem, ao decidir que, "Sendo a multa administrativa aplicada pelo Departamento Nacional de Combustíveis, fundada apenas em portaria, resta insubsistente o auto de infração lavrado, bem como os atos administrativos dele decorrentes", adotou orientação em consonância com entendimento manifestado pelo STJ de que "é nula a sanção fundada apenas em Portaria, pois tal ato restringe-se a facilitar a aplicação e execução da lei, sob pena de ferir o princípio constitucional da reserva legal na aplicação de penalidades" (STJ, AgRg no AREsp 493.411/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/06/2014).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
