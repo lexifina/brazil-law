@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/04/2022 a 25/04/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  BANDA  CALCINHA  PRETA  PRODUÇÕES  &  EDIÇÕES  MUSICAIS  - EIRELI  ao  acórdão  (fls.  1.383/1.391  e-STJ) que  negou  provimento  ao  agravo  interno.
+Em  suas  razões  (fls.  1.395/1.405  e-STJ),  a  embargante  alega  inicialmente  que
+"(..)  a  controvérsia  passou  a  girar  em  torno  da  definição  de  quais  seriam  os  documentos  verdadeiramente  necessários  para  a  apuração  do  valor  devido  ao  Embargado,  já  que  o  TJSE,  por  uma  menção  quase  que  totalmente  genérica,  se  negou  a  enfrentar  o  conteúdo  dos  documentos  que  o  Perito  do  Juízo  disse  não  terem  sido  apresentados  pela  Embargante,  e  que,  teoricamente,  interfeririam  nos  cálculos  do  débito"  (fl. 1.396  e-STJ).
+Sustenta,  em  seguida,  que ,  "inobstante  a  oposição  de  embargos  de  declaração,  o  Tribunal  local  se  manteve  omisso  sobre  a  indicação  dos  documentos,  fazendo  a  Embargante  refém  das  conclusões  genéricas,  imprecisas  e  equivocadas,  ora  do  Sr.  Perito,  ora  do  e.  TJSE"  (fl.  1.398  e-STJ).
+Além  disso,  afirma  que
+"(..)  no  julgamento  do  recurso  especial  e  no  do  último  agravo  interno,  as  conclusões  desse  STJ  foram  enviesadas  pelo  entendimento  negligente  do  Tribunal  de  origem,  especialmente  trazendo  uma  nova  omissão  no  acórdão  do  AgInt  quando  afirma  que  "o  tribunal  de  origem  indicou  adequadamente  os  motivos  que  lhe  formaram  o  convencimento,  analisando  de  forma  clara,  precisa  e  completa  as  questões  relevantes  do  processo".
+Ora,  como  pode  ser  completo  um  aresto  que,  em  um  caso  peculiar  como  este,  se  restringe  a  dizer  "que  a  empresa  não  forneceu  documentação  imprescindível  para  a  realização  da  perícia,  DENTRE  AS  QUAIS,  declaração  de  imposto  de  renda  referente  ao  ano  de  1999  e  2007",  isso  quando  é  incontroverso  nos  autos  que  a  Declaração  de  1 999  foi  sim  apresentada  e  que  a  Banda  ainda  exibiu  outras  tantas  Declarações  de  IR  de  mais  de  15  anos  de  atuação  desde  que  a  música  reivindicada  foi  lançada"  (fl.  1.398  e-STJ).
+Ao  final,  requer  o  acolhimento  dos  aclaratórios ,  com  efeitos  infringentes.
+Não  houve  impugnação  (fl.  1.408  e-STJ).
+É  o  relatório.
+EMENTA
+EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  ERRO  MATERIAL,  OMISSÃO,  CONTRADIÇÃO  E  OBSCURIDADE.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  procede  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Consoante  o  disposto  no  art.  1.022  do  Código  de  Processo  Civil  de  2015,  os  embargos  de  declaração  somente  são  cabíveis  para  (a)  esclarecer  obscuridade  ou  eliminar  contradição,  (b)  suprir  omissão  de  ponto  ou  questão  a  respeito  da  qual  deveria  se  pronunciar  o  juiz,  de  ofício  ou  a  requerimento,  incluindo-se  as  condutas  descritas  no  artigo  489,  §  1º,  do CPC/2015,  que  configurariam  a  carência  de  fundamentação  válida,  e  (c)  corrigir  o  erro  material.
+No  caso  dos  autos,  a  embargante  alega,  em  suma,  que  o  acórdão  embargado  seria  omisso  porque  concluiu  que  "o  tribunal  de  origem  indicou  adequadamente  os  motivos  que  lhe  formaram  o  convencimento,  analisando  de  forma  clara,  precisa  e  completa  as  questões  relevantes  do  processo",  quando,  no  seu  entender,  o  aresto  proferido  pelo  tribunal  estadual  não  teria  dirimido  as  questões  essenciais  à  solução  da  controvérsia.
+Como  se  sabe,  o  mero  inconformismo  com  o  fundamento  adotado  para  julgar  a  lide  não  configura  vício  passível  de  correção  por  meio  dos  embargos  declaratórios.  Ao  contrário,  o  exclusivo  caráter  infringente  da  pretensão  formulada  denota  a  sua  manifesta  incompatibilidade  com  a  natureza  integrativa  do  recurso.
+Paralelamente,  no tocante  aos  documentos  que  seriam  necessários  à  realização  da  perícia,  o  acórdão  embargado  foi  categórico  ao  afirmar  que
+"(..)  as  conclusões  do  tribunal  de  origem  sobre  os  documentos  que  seriam  imprescindíveis  à  realização  da  perícia  no  caso  concreto  decorrem  inquestionavelmente  da  análise  do  conjunto  fático-probatório  carreado  aos  autos,  o  que  se  pode  facilmente  aferir  a  partir  da  leitura  dos  fundamentos  do  julgado  atacado.
+Nesse  contexto,  denota-se  que  o  acolhimento  da  pretensão  recursal  também  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  o  que  se  mostra  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  o  enunciado  da  Súmula  nº  7  deste  Superior  Tribunal"  (fls.  1.390/1.391  e-STJ).
+Portanto,  ainda  que  a  parte  embargante  não  concorde  com  o  mérito  do  julgamento,  o  aresto  ora  impugnado  não  se  ressente  da  omissão  ventilada  pela  parte  insurgente.
+Assim,  não  tendo  a  embargante  evidenciado  n  enhum  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  algum  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
