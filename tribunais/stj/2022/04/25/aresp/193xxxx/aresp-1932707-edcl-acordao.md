@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/04/2022 a 25/04/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIÇO DE ILUMINAÇÃO PÚBLICA. ANEEL. RESOLUÇÕES 414/2010 E 479/2012. SISTEMA DE ILUMINAÇÃO PÚBLICA REGISTRADO COMO ATIVO IMOBILIZADO EM SERVIÇO. TRANSFERÊNCIA AOS MUNICÍPIOS. VIOLAÇÃO DA AUTONOMIA MUNICIPAL. ABUSO DO PODER REGULAMENTAR. PRINCÍPIO DA LEGALIDADE. VIOLAÇÃO AO ART. 1022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. Observo que o Tribunal local não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+5. A eventual violação da lei federal, no caso, é reflexa, uma vez que, para o deslinde da controvérsia, seria imprescindível a interpretação da Resolução 414/2010 da ANEEL, providência vedada em Recurso Especial, visto que tal regramento não se subsume ao conceito de lei federal.
+6. Ademais, para modificar o entendimento firmado no acórdão recorrido, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+7. Agravo Interno não provido.
+Em síntese, a embargante alega:
+Ora, o Legislador Federal, por meio de lei ordinária, delegou à ANEEL atribuição para regular (art. 2º da Lei nº 9.427/1996) e para regulamentar (art.
+3º Lei nº 9.427/1996) o setor de energia elétrica, no qual se insere a iluminação pública.
+Por sua vez, a ANEEL, no desempenho dessa competência regulatória e regulamentadora, editou norma que criou obrigação às concessionárias de serviço público federais no sentido de que transfiram aos municípios, a título gratuito, os equipamentos que compõe os ativos à prestação do serviço de iluminação pública municipal.
+Nesse contexto, a questão jurídica posta, abstratamente, no REsp da CPFL é: esse poder está compreendido na esfera de atribuições normativas previstas nos arts. 2º, 3º e 3º-A da Lei Federal nº 9.427/96  É essa a questão jurídica que compete ao E. STJ examinar ao apreciar a arguição da CPFL de negativa de vigência aos arts. 2º, 3º e 3º-A da Lei Federal nº 9.427/96, o que parece não ter sido analisado por este E. STJ, que se limitou a reiterar que tal análise demandaria necessariamente o exame da Resolução nº 414/2010, deixando de analisar, contudo, especificamente os fundamentos abordados pela CPFL.
+A propósito, a discussão sobre a competência normativa das Agências Reguladoras e o exame da alegação de ilegalidade pelo suposto extravasamento dessa competência, é questão jurídica conhecida da jurisprudência do E. STJ 2 .
+A CPFL demonstrou em capítulo específico, que o Tribunal a quo suspendeu a aplicação da Resolução Normativa nº 414/2010 ao argumento de que a ANEEL teria extrapolado seu poder regulamentar, o qual, como já mencionado, é disciplinado pelos arts. 2º e 3ª da Lei Federal nº 9.427. Assim resta evidente que a análise necessária a ser feita diz respeito à discussão acerca dos poderes outorgados à ANEEL para editar resoluções, tal qual a Resolução Normativa nº 414/2010. Em outras palavras, o exame da alegação de negativa de vigência à competência normativa da ANEEL prevista nos arts. 2º e 3º da Lei Federal nº 9.427/96 e ao art. 29 da Lei 8.987/95 não depende da análise específica e concreta da Resolução Normativa ANEEL nº 414/2010.
+Basta, ao enfrentamento da alegação da negativa de vigência aos arts. 2º e 3º da Lei nº 9.427/96 e ao art. 29 da Lei 8.987/95, que este E. STJ examine e afirme se a ANEEL tem, ou não tem, competência normativa para criar e impor obrigações aos concessionários federais, dentre as quais, a obrigação de que as distribuidoras de energia elétrica, submetidas ao regime de concessão federal de serviço público, transfiram aos municípios, a título gratuito, os equipamentos que compõem os ativos do serviço de iluminação pública municipal.
+Houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA.
+1. O acórdão embargado assentou: "A eventual violação da lei federal, no caso, é reflexa, uma vez que, para o deslinde da controvérsia, seria imprescindível a interpretação da Resolução 414/2010 da ANEEL, providência vedada em Recurso Especial, visto que tal regramento não se subsume ao conceito de lei federal".
+2. O recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. Sob pena de invasão da competência do STF, descabe analisar questão constitucional em Recurso Especial, mesmo que para viabilizar a interposição de Recurso Extraordinário.
+4. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 25.3.2022.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na hipótese dos autos, o acórdão embargado consignou:
+A eventual violação da lei federal, no caso, é reflexa, uma vez que, para o deslinde da controvérsia, seria imprescindível a interpretação da Resolução 414/2010 da ANEEL, providência vedada em Recurso Especial, visto que tal regramento não se subsume ao conceito de lei federal.
+(..)
+Ademais, para modificar o entendimento firmado no acórdão recorrido seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Além disso, é de conhecimento geral que os aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados. (EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/09/2008, DJe 14/10/2008)
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito a multa prevista no Código de Processo Civil.
+É como voto.
