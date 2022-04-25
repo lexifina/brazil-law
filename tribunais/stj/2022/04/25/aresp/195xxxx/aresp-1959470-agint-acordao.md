@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/04/2022 a 25/04/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 868-871, e-STJ), que conheceu do Agravo para não conhecer do Recurso Especial.
+A agravante alega:
+A alteração das planilhas de cálculo após a fase de liquidação com a inserção de novas parcelas não constantes da pretensão inicial do exequente contraria os artigos 505 e 507 do CPC, vez que não se trata de mero erro material.
+O não enfrentamento de todos os argumentos capazes de, em tese, infirmar a conclusão do julgador, não obstante tenham sido interpostos embargos declaratórios, configura violação ao art. 1.022.
+Sendo essas as questões jurídicas que se põem à análise no presente recurso, não incide o óbice da Súmula n.º 7 do STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AO ART. 1.022 DO CPC NÃO CONFIGURADA. PRESUNÇÃO DE LEGITIMIDADE E FÉ PÚBLICA DA CONTADORIA JUDICIAL. SÚMULA 7/STJ.
+1. Constata-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado
+2. O Tribunal a quo assim decidiu: "Cumpre ressaltar que os cálculos apresentados pela contadoria judicial do Poder Judiciário, órgão de natureza independente e imparcial, gozam de fé publica, via de consequência, ante a presunção de veracidade, são aceitos como verdadeiros pelo Juízo. " (..) Ao que se observa, ainda que tenha havido repercussão quantitativa nos valores devidos aos servidores, não há indício de que tenha havido equívoco no que foi apurado pela contadoria judicial, não há demonstração de que exista cálculo dissociado da diretriz exposta no título judicial. No caso, tem-se que os parâmetros dispostos na sentença em cumprimento foram respeitados sendo insubsistentes as alegações trazidas pelo agravante, que revelam mero inconformismo das partes agravantes com o alto valor devido em face da condenação." A Corte de origem baseou seu entendimento nas provas carreadas aos autos. Acolher a tese defendida pela parte recorrente somente seria possível mediante novo exame do contexto fático-probatório da causa, o que atrai a incidência do óbice da Súmula 7/STJ.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 3.3.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Inicialmente constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1.486.330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/2/2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2/6/2015; EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio De Noronha, Corte Especial, DJe 27/5/2015.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente. Ressalte-se que a mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração,recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno.
+Decidiu o Tribunal de origem (fls. 519-530, e-STJ):
+Como bem destacou o Juízo a quo, o feito já conta com uma década de tramitação com incessantes discussões acerca de valores do complemento constitucional, décimo terceiro salários e férias dos servidores beneficiados na sentença.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o erro passível de correção a qualquer tempo é aquele de natureza eminentemente material, ou seja, o erro de cálculo evidente, endo os critérios de cálculo utilizados na liquidação da sentença passíveis de preclusão se não impugnados oportunamente.
+(..) Cumpre ressaltar que os cálculos apresentados pela contadoria judicial do Poder Judiciário, órgão de natureza independente e imparcial, gozam de fé publica, via de consequência, ante a presunção de veracidade, são aceitos como verdadeiros pelo Juízo. " (..) Ao que se observa, ainda que tenha havido repercussão quantitativa nos valores devidos aos servidores, não há indício de que tenha havido equívoco no que foi apurado pela contadoria judicial, não há demonstração de que exista cálculo dissociado da diretriz exposta no título judicial.
+No caso, tem-se que os parâmetros dispostos na sentença em cumprimento foram respeitados sendo insubsistentes as alegações trazidas pelo agravante, que revelam mero inconformismo das partes agravantes com o alto valor devido em face da condenação.
+In casu, a Corte de origem baseou seu entendimento nas provas carreadas aos autos. Acolher a tese defendida pela parte recorrente somente é possível mediante novo exame do contexto fático-probatório da causa, o que atrai a incidência do óbice da Súmula 7/STJ.
+Logo, ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo.
+É o voto.
