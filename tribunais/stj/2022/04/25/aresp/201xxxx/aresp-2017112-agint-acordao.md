@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/04/2022 a 25/04/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática de fls. 745-748, e-STJ, que conheceu do Agravo para negar provimento ao Recurso Especial.
+A parte agravante alega (fl. 754, e-STJ):
+Da mesma forma, reputa-se evidente a ofensa ao art. 1.022 do CPC, pois, quando da oposição dos embargos de declaração face ao julgamento no Tribunal de Justiça, a ora Agravante deixa clara a existência de erro material, pois, o conjunto probatório que acompanha o feito foram desconsideradas quando do julgamento.
+Ainda, o CPC de 2015 trouxe expressamente a possibilidade de atribuição de efeitos infringentes aos embargos de declaração.
+Há mais de 6 (seis) anos a legislação autoriza a modificação de um julgado através de nova análise pelo mesmo órgão que proferiu a decisão, embora, reconheça-se, não é o usual.
+Esclarecendo ainda mais, o Recuso Especial foi manejado justamente pelo fato de que, mesmo com a oposição de embargos de declaração, o Tribunal ignorou o art. 489, § 1º, IV do CPC, mormente no que diz respeito à discussão sobre correção monetária e juros.
+Impugnação às fls. 759-765, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489 e 1.022 DO CPC NÃO CONFIGURADA.
+1. Não se verifica a apontada ofensa aos arts. 11 e 489 do CPC, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Dessume-se que o Tribunal de origem, ao rejeitar os Embargos de Declaração, consignou ter ficado claro no julgado embargado que a empresa contribuinte não comprovou a abusividade da UAM MS para a atualização do débito de ICMS, uma vez que os documentos juntados à inicial apenas demonstram a realização do parcelamento com os consectários da dívida e os pagamentos realizados. Logo, não havia nenhum dos vícios que justificassem modificação do acórdão.
+3. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos nesse Gabinete em 28.3.2022.
+Não se verifica a apontada ofensa aos arts. 11 e 489 do CPC, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, o Tribunal a quo, ao decidir a lide, consignou (fls. 559-561, e-STJ):
+Sperafico Agroindustrial Ltda, nas razões recursais de fls. 491-510, afirma que a sentença pautou-se pela impossibilidade de se discutir a aplicação da Taxa Selic em substituição ao índice de UAM/MS, previsto no parcelamento da Lei nº 4.424/2013.
+Sustenta ainda a necessidade de substituição da UAM/MS pela SELIC, no REFIS realizado para quitação do débito de ICMS, tendo em vista a sua abusividade.
+(..)
+Logo, é inconteste que a adesão ao REFIS constitui confissão irretratável e irrevogável do débito e aceitação plena e irrestrita das condições estabelecidas na Lei.
+(..)
+Ademais, conforme observado na decisão supracitada e muito bem anotado na sentença de primeiro grau, não restou comprovado nos autos que a UAM/MS suplantou a taxa SELIC, não se mostrando nítida a abusividade apontada (f. 468).
+A despeito da parte apelante asseverar que o índice de correção monetária não pode superar o índice oficial federal, pois havendo norma da União adotando índice de correção de débitos fiscais, a SELIC, funciona ela como norma geral em relação aos Estados, esta argumentação também não lhe socorre.
+Explico.
+De fato, o Supremo Tribunal Federal é firme no sentido de que os estados-membros e o Distrito Federal podem legislar sobre índices de correção monetária e taxas de juros de mora incidentes sobre seus créditos tributários, desde que os percentuais não ultrapassem os fixados pela União para a mesma finalidade.
+No caso, porém, conforme alhures mencionado, a empresa apelante não comprovou a abusividade da UAM/MS para a atualização do débito de ICMS, vez que os documentos juntados à inicial apenas demonstram a realização do parcelamento com os consectários da dívida e os pagamentos realizados.
+Por fim, cumpre analisar a alegação no sentido de que o valor consolidado da filial 0037, parcelamento nº 861/2013, evidencia multa que se aproxima de 130% do imposto devido, caracterizando nítido caráter confiscatório.
+Com efeito, na hipótese, analisando os documentos relativos ao referido parcelamento (f. 41-43), não se vislumbra a ocorrência do alegado caráter confiscatório.
+Não fosse isso, diante do pagamento e aceitação das condições do REFIS como condição para obter os benefícios na quitação dos débitos, a autora renunciou o direito de discutir administrativa ou judicialmente o crédito parcelado (art. 6º, II, da Lei n.º 4.424/13), o qual, como já dito, já se encontrava consolidado.
+Logo, por qualquer ângulo que se analise a questão, o não provimento do recurso é medida que se impõe.
+E, ao julgar os Embargos de Declaração, complementou (fls. 589-590, e-STJ):
+A despeito dos argumentos da embargante, não subsiste no acórdão embargado qualquer vício, elencado no art. 1.022 do CPC/2015, passível de declaração nesta oportunidade.
+E sem omissão - ausência de decisão ou pronunciamento sobre questões suscitadas pelas partes; obscuridade - falta de clareza ou deficiência de raciocínio lógico, com aresto insuficientemente inteligível, ou contradição - constatação de assertivas inconciliáveis na motivação apresentada ou fundamento em choque com a conclusão 1 , não se acolhem embargos declaratórios.
+Na espécie, limitou-se a empresa embargante a fazer alegações genéricas sobre a existência de defeito na prestação jurisdicional, demonstrando que entendeu perfeitamente a solução apontada no decisum, apenas não concordando, o que não implica na existência de omissões, obscuridades ou contradições a serem sanadas.
+Ora, pela prudente leitura do acórdão, afigura-se possível verificar que a rejeição da alegação de que há ilegalidade e inconstitucionalidade do índice de correção monetária e juros aplicado no parcelamento firmado administrativamente, o julgado embargado foi claro ao consignar que a empresa contribuinte não comprovou a abusividade da UAM/MS para a atualização do débito de ICMS, vez que os documentos juntados à inicial apenas demonstram a realização do parcelamento com os consectários da dívida e os pagamentos realizados.
+Não fosse isso, quanto ao alegado caráter confiscatório da multa aplicada aos débitos da filial 0037, melhor sorte não assiste à embargante, porquanto restou claro a conclusão colegiada que, confirmando a conclusão do juízo a quo, em razão da adesão ao Refis, a empresa desistiu de qualquer discussão administrativa ou judicial que tenha por objeto o crédito a ser pago, razão por que a adesão ao parcelamento constitui confissão irretratável e irrevogável do débito, bem como aceitação plena e irrestrita das condições estabelecidas na lei.
+Portanto, defeso que se questione os índices utilizados para correção monetária e aplicação de juros e multa.
+Se assim o é, considerando-se que o acórdão posicionou-se no sentido de reconhecer a ausência de abusividade a ser declarada ilegal capaz de desconstituir a adesão ao REfis pela empresa contribuinte, qualquer discussão acerca desta matéria na via destes embargos de declaração não está a pretender a sanação de contradição ou omissão, mas sim a reforma da decisão em razão do inconformismo, objetivo que o Código de Processo Civil não ampara.
+Nesta senda, é de se concluir que não se extrai, das razões do embargante, qualquer plausibilidade acerca da alegação de existência de vício no julgamento, seja pela existência de omissão ou de contradição, demonstrando claramente que a parte prejudicada apenas não está a se conformar com o deslinde da controvérsia ofertado pelo Tribunal.
+Por certo, tal inconformismo não pode ser solucionado no seio destes aclaratórios, já que não se presta a rediscutir o mérito da decisão, cabendo ao insurgente aviar instrumento recursal adequado, visando reformar o teor do decisum já prolatado.
+Logo, conclui-se que a embargante, antes de sanar omissões ou erros materiais, pretende rediscutir o posicionamento adotado por este órgão colegiado, mediante nova apreciação de seus argumentos, intenção esta que não encontra amparo na legislação processual vigente.
+Assim, inexistindo os vícios apontados, rejeitar os embargos é medida que se impõe.
+Dessume-se que o Tribunal de origem, ao rejeitar os Embargos de Declaração, consignou ter ficado claro no julgado embargado que a empresa contribuinte não comprovou a abusividade da UAM MS para a atualização do débito de ICMS, uma vez que os documentos juntados à inicial apenas demonstram a realização do parcelamento com os consectários da dívida e os pagamentos realizados. Logo, não havia nenhum dos vícios que justificassem a modificação do acórdão.
+Cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+O órgão judicial, para expressar convicção, não precisa aduzir comentários sobre todos os argumentos levantados pelas partes. Sua fundamentação pode ser sucinta, pronunciando-se acerca do motivo, que, por si só, achou suficiente para a composição do litígio. (AgRgAg 169.073/SP, Rel. Min. José Delgado, Primeira Turma, DJ de 17. 8.1998).
+Sem motivos para modificar o decisum presidencial que conheceu do Agravo para conhecer parcialmente do Recurso Especial e, nessa extensão, negar-lhe provimento, por ausência de ofensa aos arts. 489 e 1022 do CPC.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
