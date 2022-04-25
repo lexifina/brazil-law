@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/04/2022 a 25/04/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+O  EXMO.  SR.  MINISTRO  RICARDO  VILLAS  BÔAS  CUEVA  (Relator):
+Trata-se  de  agravo  interno  interposto  por  BENEDITO  RODRIGUES  DE  ALMEIDA  CÉSAR  -  ESPÓLIO,  representado  por  MARIA  CRESCÊNCIA  BARBOSA  CÉSAR  -  INVENTARIANTE,  contra  a  decisão  que  negou  provimento  ao  recurso  especial  (fls.  435/436  e-STJ).
+Em  suas  razões  (fls.  439/449  e-STJ),  o  agravante  sustenta,  em  síntese,  que,  "neste  caso  não  objetivamos  o  reexame  de  prova,  apenas  a  revaloração  desta,  o  que  é  possível  em  sede  de  recurso  especial,  não  sendo  vedado  pela  Súmula  em  comento"  (fl.  441  e-STJ).
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Às  fls.  450/460  (e-STJ)  foi  protocolizado  outro  agravo  interno,  pela  mesma  parte,  com  conteúdo  idêntico  ao  já  relatado.
+Impugnação  às  fls.  467/471  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  PRINCÍPIO  DA  UNIRRECORRIBILIDE.  MULTIPLICIDADE  DE  RECURSOS.  PRECLUSÃO  CONSUMATIVA.  AÇÃO  DE  EXECUÇÃO.  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE.  REQUISITOS  NÃO  DEMONSTRADOS.  MATÉRIA  FÁTICA.  REEXAME.  SÚMULA  Nº  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL  PREJUDICADA.
+1.  Recurso  especial  interposto  co ntra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Verificada  a  multiplicidade  de  recursos  interpostos  pela  mesma  parte  litigante,  impõe-se  o  não  conhecimento  daqueles  que  foram  protocolizados  posteriormente , tendo em vista a  ocorrência  da  preclusão  consumativa.
+3.  Nos  termos  da  jurisprudência  do  Superior  Tribunal  de  Justiça,  firmada  quando  do  julgamento  do  REsp  nº  1.110.925/SP,  sob  o  rito  dos  recursos  repetitivos,  a  exceção  de  pré-executividade  é  cabível  quando  atendidos,  simultaneamente,  dois  requisitos:  (a)  é  indispensável  que  a  matéria  invocada  seja  suscetível  de  conhecimento  de  ofício  pelo  juiz  e  (b)  é  indispensável  que  a  decisão  possa  ser  tomada  sem  a  necessidade  de  dilação  probatória.
+4.  Na  hipótese,  rever  o  entendimento  do  tribunal  de  origem,  no sentido de  que  a  alegação  de  ocorrência  de  quitação  da  dívida  demanda  dilação  probatória,  sendo  inviável  analisar  tal  pretensão  por  meio  da  exceção  de  pré-executividade,  demandaria  o  revolvimento  de  matéria  fática,  procedimento  obstado  em  recurso  especial em virtude d o  disposto  na  Súmula  nº  7/STJ.
+5.  Consoante  iterativa  jurisprudência  desta  Corte,  a  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+6.  Agravo  interno  de  fls.  450/460  (e-STJ)  não  conhecido.  Agravo  interno  de  fls.  439/449  (e-STJ)  não  provido.
+VOTO
+O  EXMO.  SR.  MINISTRO  RICARDO  VILLAS  BÔAS  CUEVA  (Relator):
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Preliminarmente,  verificada  a  multiplicidade  de  recursos  interpostos  pela  mesma  parte  litigante,  haja  vista  a  incidência  da  preclusão  consumativa,  impõe-se  o  não  conhecimento  daqueles  que  foram  protocolizados  após  o  recurso  de  fls.  439/449  (e-STJ).
+Nos  termos  da  jurispr  udência  desta  Corte,  firmada  quando  do  julgamento  do  REsp  nº  1.110.925/SP,  sob  o  rito  dos  recursos  repetitivos,
+"(..)  a  exceção  de  pré-executividade  é  cabível  quando  atendidos  simultaneamente  dois  requisitos,  um  de  ordem  material  e  outro  de  ordem  formal,  ou  seja:  (a)  é  indispensável  que  a  matéria  invocada  seja  suscetível  de  conhecimento  de  ofício  pelo  juiz;  e  (b)  é  indispensável  que  a  decisão  possa  ser  tomada  sem  necessidade  de  dilação  probatória".
+Eis  a  ementa  do  referido  julgado:
+"TRIBUTÁRIO.  EXECUÇÃO  FISCAL  SÓCIO-GERENTE  CUJO  NOME  CONSTA  DA  CDA.  PRESUNÇÃO  DE  RESPONSABILIDADE.  ILEGITIMIDADE  PASSIVA  ARGUIDA  EM  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE.  INVIABILIDADE.  PRECEDENTES.
+1.  A  exceção  de  pré-executividade  é  cabível  quando  atendidos  simultaneamente  dois  requisitos,  um  de  ordem  material  e  outro  de  ordem  formal,  ou  seja:  (a)  é  indispensável  que  a  matéria  invocada  seja  suscetível  de  conhecimento  de  ofício  pelo  juiz;  e  (b)  é  indispensável  que  a  decisão  possa  ser  tomada  sem  necessidade  de  dilação  probatória.
+2.  Conforme  assentado  em  precedentes  da  Seção,  inclusive  sob  o  regime  do  art.  543-C  do  CPC  (REsp  1104900,  Min.  Denise  Arruda,  sessão  de  25.03.09),  não  cabe  exceção  de  pré-executividade  em  execução  fiscal  promovida  contra  sócio  que  figura  como  responsável  na  Certidão  de  Dívida  Ativa  -  CDA.  É  que  a  presunção  de  legitimidade  assegurada  à  CDA  impõe  ao  executado  que  figura  no  título  executivo  o  ônus  de  demonstrar  a  inexistência  de  sua  responsabilidade  tributária,  demonstração  essa  que,  por  demandar  prova,  deve  ser  promovida  no  âmbito  dos  embargos  à  execução.
+3.  Recurso  Especial  provido.  Acórdão  sujeito  ao  regime  do  art.  543-C  do  CPC."(Rel.  Ministro  TEORI  ALBINO  ZAVASCKI,  PRIMEIRA  SEÇÃO,  julgado  em  22/4/2009,  DJe  4/5/2009)
+Na  hipótese  em  tela,  o  tribunal  de  origem  assim  se  manifestou:
+"(..)
+No  caso  apresentado  os  fundamentos  da  exceção  de  pré-  executividade  não  prosperam.
+Ao  contrário  do  alegado  pelo  executado/agravante,  as  notas  promissórias  trazidas  a  destempo  não  se  configuram  como  documentos  hábeis  a  desconstituir  o  feito  executivo  sem  a  necessidade  de  qualquer  aferição  sobre  sua  veracidade  e  validade.
+Conforme  explanado  pelo  douto  magistrado,  tais  documentos  não  têm  o  condão  de  ensejar  a  comprovação  de  ocorrência  de  quitação  da  dívida  cobrada  sem  que  haja  uma  necessidade  de  reanálise  das  provas  colhidas  nos  autos  do  processo  de  conhecimento.
+(..)
+E  de  fato,  tenho  que  a  decisão  deve  ser  mantida,  uma  vez  que  os  documentos  apresentados  à  f.  32  (notas  promissórias  nos  valores  de  CZ$  140.000,00,  CZ$  160.000,00  e  CZ$  250.000,00),  que  consubstanciam  notas  promissórias  emitidas  no  ano  de  1988  em  favor  do  exequente,  não  têm  o  condão  de  desconstituir  o  título  executivo.
+Isso  pela  razão  de  que  a  demanda  executiva  foi  instaurada  em  1984,  ou  seja,  antes  da  morte  do  devedor,  sendo  certo  que  por  ele  foi  apresentada  a  contestação,  na  qual  alegou  a  existência  de  outra  promissória,  no  valor  de  CZ$  80.000,00,  que  demonstrava  o  pagamento  da  dívida.
+É  de  se  ver,  outrossim,  que  o  julgamento  de  procedência  do  pedido  formulado  pelo  exequente  está  embasado  na  ausência  de  prova  do  adimplemento  por  ele  alegado  em  defesa.
+(..)
+Nestes  termos,  na  situação  apresentada,  a  alegação  de  ocorrência  de  quitação  da  dívida  demanda  dilação  probatória  para  aferição  do  preenchimento  de  todos  os  seus  requisitos,  sendo  inviável  analisar  tal  pretensão  através  da  exceção  de  pré-  executividade"  (fls.  105/107,  e-STJ  -  grifou-se).
+Assim,  rever  o  entendimento  do  tribunal  de  origem  de  que  a  alegação  de  ocorrência  de  quitação  da  dívida  demanda  dilação  probatória,  sendo  inviável  analisar  tal  pretensão  por  meio  da  exceção  de  pré-executividade,  demandaria  o  revolvimento  de  matéria  fática,  procedimento  inviável  em  recurso  especial,  haja  vista  o  disposto  na  Súmula  nº  7/STJ.
+Nesse  sentido:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  APLICABILIDADE.  VIOLAÇÃO  AO  ART.  1.022  DO  CPC.  INOCORRÊNCIA.  ALEGAÇÃO  DE  OFENSA  AO  PRINCÍPIO  DA  COLEGIALIDADE.  NÃO  OCORRÊNCIA  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE.  ACÓRDÃO  EMBASADO  EM  PREMISSAS  FÁTICAS.  REVISÃO.  SÚMULA  N.  7/STJ.  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADO.  ARGUMENTOS  INSUFICIENTES  PARA  DESCONSTITUIR  A  DECISÃO  ATACADA.  APLICAÇÃO  DE  MULTA.  ART.  1.021,  §  4º,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  DESCABIMENTO.
+I  -  Consoante  o  decidido  pelo  Plenário  desta  Corte  na  sessão  realizada  em  09.03.2016,  o  regime  recursal  será  determinado  pela  data  da  publicação  do  provimento  jurisdicional  impugnado.  Aplica-se  o  Código  de  Processo  Civil  de  2015.
+II  -  A  Corte  de  origem  apreciou  todas  as  questões  relevantes  apresentadas  com  fundamentos  suficientes,  mediante  apreciação  da  disciplina  normativa  e  cotejo  ao  posicionamento  jurisprudencial  aplicável  à  hipótese.  Inexistência  de  omissão,  contradição  ou  obscuridade.
+III  -  É  firme  o  posicionamento  desta  Corte  segundo  o  qual  a  confirmação  de  decisão  monocrática  do  relator  pelo  órgão  colegiado  supera  eventual  violação  do  art.  932  do  Código  de  Processo  Civil.
+IV  -  In  casu,  rever  o  entendimento  do  tribunal  de  origem  de  que  a  via  eleita  -  exceção  de  pré-executividade  -  seria  inadequada,  porquanto  necessária  dilação  probatória,  demandaria  revolvimento  de  matéria  fática,  o  que  é  inviável  em  sede  de  recurso  especial,  à  luz  do  óbice  contido  na  Súmula  n.  7  desta  Corte.
+V  -  O  recurso  especial  não  pode  ser  conhecido  com  fundamento  na  alínea  c,  do  permissivo  constitucional,  porquanto  o  óbice  da  Súmula  n.  7/STJ  impede  o  exame  do  dissídio  jurisprudencial  quando,  para  a  comprovação  da  similitude  fática  entre  os  julgados  confrontados,  é  necessário  o  reexame  de  fatos  e  provas.
+VI  -  Não  apresentação  de  argumentos  suficientes  para  desconstituir  a  decisão  recorrida.
+VII  -  Em  regra,  descabe  a  imposição  da  multa,  prevista  no  art.  1.021,  §  4º,  do  Código  de  Processo  Civil  de  2015,  em  razão  do  mero  improvimento  do  Agravo  Interno  em  votação  unânime,  sendo  necessária  a  configuração  da  manifesta  inadmissibilidade  ou  improcedência  do  recurso  a  autorizar  sua  aplicação,  o  que  não  ocorreu  no  caso.
+VIII  -  Agravo  Interno  improvido"(AgInt  no  REsp  1.695.114/SP,  Rel.  Ministra  REGINA  HELENA  COSTA,  PRIMEIRA  TURMA,  julgado  em  28/11/2017,  DJe  6/12/2017).
+Ademais,  consoante  iterativa  jurisprudência  do  Superior  Tribunal  de  Justiça,  a  necessidade  de  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+Verifica-se  que  o  agravante  limitou-se  a  reiterar  os  argumentos  apresentados  no  apelo  especial,  sem,  no  entanto,  apresentar  nenhuma  justificativa  capaz  de  alterar  o  julgado.
+Desse  modo,  as  razões  do  presente  recurso  são  insuficientes  para  infirmar  os  fundamentos  da  decisão  atacada.
+Ante  o  exposto,  não  conheço  do  agravo  interno  de  fls.  450/460  (e-STJ)  e  nego  provimento  ao  agravo  interno  de  fls.  439/449  (e-STJ).
+É  o  voto.
