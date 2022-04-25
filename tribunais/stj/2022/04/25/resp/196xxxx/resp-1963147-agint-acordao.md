@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 19/04/2022 a 25/04/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática de fls. 304-308, e-STJ, que deu provimento ao Recurso Especial da agravada.
+A agravante alega (fl. 318, e-STJ):
+Neste contexto, resta evidenciado que o Supremo Tribunal Federal possui entendimento acerca da impossibilidade de prosseguimento da ação penal e de eventual execução da pena nos casos em que o acusado não ostenta mais a condição de militar, tal como também é a jurisprudência sumulada do STM, razão pela qual os precedentes citados pela decisão agravada não refletem prevalência de entendimento contrário hábil a respaldar o provimento do recurso interposto.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. STATUS DE MILITAR NÃO CONFIGURA CONDIÇÃO DE PROSSEGUIBILIDADE.
+1. O Tribunal de origem, ao dirimir a controvérsia, consignou (fls. 196-198, e-STJ): "Portanto, mais além: a (re)incorporação ao serviço militar não somente é condição de procedibilidade e "prosseguibilidade" - como queiram - do processo de conhecimento, mas também pressuposto sine qua non até mesmo da execução da pena, em caso de eventual condenação".
+2. A decisão a quo não retrata a atual corrente adotada pelo STF e STM, que considera que o status de militar não impede a continuidade do processo criminal (não é condição de prosseguimento da demanda), pelo que não haveria razão para manter um militar temporário, indesejado, vinculado à Administração Castrense, custeado pela União, somente pelo fato de estar respondendo a processo na Justiça Militar. Precedentes: STF, HC 132.847/MS, Rel. Min. Marco Aurélio, DJe 12.9.2018; STM, HC 7000662-22.2018.7.00.0000, Rel. Min. Péricles Aurélio Lima de Queiroz, DJe 27/9/2018; STM, Embargos Infringentes e de Nulidade, Rel. Min. Artur Vidigal de Oliveira, DJe 5/10/2018; STJ, REsp 1.587.362/RS, Rel. Min. Francisco Falcão, DJe de 11/11/2019.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos nesse Gabinete em 22.3.2022.
+O Tribunal de origem, ao dirimir a controvérsia, consignou (fls. 196-198, e- STJ):
+Transcrevo a decisão agravada quanto ao enfrentamento do mérito:
+(..)
+Ante o exposto supra, pois, o desertor somente será desincorporado - em caso de aquisição da condição de arrimo após a deserção - depois de absolvido ou do cumprimento da pena. Deste modo, o argumento de que a condição de militar incorporado seria mero pressuposto de procedibilidade - e não condição de prosseguibilidade do processo penal militar - não se sustenta. Afinal, para que haja a condenação ou absolvição, há de se passar o réu, necessariamente, pelo devido processo legal, em toda a sua completude, de modo que não bastaria o oferecimento da denúncia, in casu, para que o processo em questão prosseguisse, sem qualquer prejuízo com a imediatamente ulterior desincorporação. Tal desincorporação - e a legislação vigente é expressa e de clareza solar nesse sentido - para o desertor arrimo de família, apenas seria permitida após a conclusão do referido processo penal militar, em caso de absolvição, e de cumprimento da pena, quando o réu é condenado.
+Portanto, mais além: a (re)incorporação ao serviço militar não somente é condição de procedibilidade e "prosseguibilidade" - como queiram - do processo de conhecimento, mas também pressuposto sine qua non até mesmo da execução da pena, em caso de eventual condenação.
+(..) A expressão acima grifada bem como a simples leitura do "para se ver processar", artigo 457 do Código de Processo Penal Militar, pois, não nos deixam dúvidas, mais uma vez, de que a reinclusão no serviço ativo é condição de procedibilidade (e de prosseguibilidade) para a instauração - e conclusão - da ação penal.
+(..) Ademais, consoante a legislação aplicável à espécie e a jurisprudência do Supremo Tribunal Federal, a condição de militar na ativa é essencial, na hipótese de crime de deserção, para efeito de válida instauração e/ou prosseguimento da ação penal. Dessa forma, considera-se inviável a desincorporação de praça não estável que esteja sub judice, o que justifica o prolongamento extraordinário do tempo de serviço militar.
+A decisão a quo não retrata a atual corrente adotada pelo STF e pelo STM, que considera que o status de militar não impede a continuidade do processo criminal (não é condição de prosseguimento da demanda), pelo que não haveria razão para manter um militar temporário, indesejado, vinculado à Administração Castrense, custeado pela União, somente pelo fato de estar respondendo a processo na Justiça Militar.
+Nesse sentido:
+HABEAS CORPUS - TÍTULO JUDICIAL - PRECLUSÃO. O fato de ter-se título judicial precluso na via da recorribilidade, ensejando, em tese, revisão criminal, não obstaculiza a impetração. CRIME MILITAR - CONFIGURAÇÃO.
+Observa-se, quanto à configuração do crime militar, a data em que ocorrido, sendo neutro o fato de haver licenciamento. CRIME - CONFIGURAÇÃO. Constando do título judicial condenatório a materialização criminosa e comprovação da autoria, com alusão a elementos coligidos, descabe pretender a absolvição por falta de prova.
+INTERROGATÓRIO - PROCESSO PENAL MILITAR. O disposto no artigo 400 do Código de Processo Penal, sobre o momento do interrogatório do acusado, não se aplica ao processo-crime militar, ante a especialidade (STF, HC 132.847/MS, Rel. Min. Marco Aurélio, DJe 12.9.2018)
+EMENTA: HABEAS CORPUS. AÇÃO PENAL MILITAR. SOLDADO EXCLUÍDO DAS FILEIRAS DO EXÉRCITO. AUSÊNCIA DE CONDIÇÃO DE PROSSEGUIBILIDADE. NÃO ACOLHIMENTO.
+I - Para o processamento do crime de deserção, a situação de militar da ativa somente é exigida por ocasião do recebimento da Denúncia, sendo possível o prosseguimento do feito e posterior condenação, ainda que ocorra o licenciamento do Réu após o citado marco processual. Precedentes.
+II - Preenchida a condição de procedibilidade no oferecimento da Denúncia, não há que falar em sua posterior descaracterização ou falta de condição de prosseguibilidade, por ausência de previsão legal.
+III - Habeas corpus conhecido. Ordem denegada. Maioria. (STM, HC n. 7000662-22.2018.7.00.0000, Rel. Min. Péricles Aurélio Lima de Queiroz, DJe 27/9/2018)
+EMENTA: EMBARGOS INFRINGENTES. DPU. NOVA DESERÇÃO. PERDA DO STATUS DE MILITAR. CONDIÇÃO DE PROSSEGUIBILIDADE. EMBARGOS REJEITADOS. A perda da condição de militar, em virtude de licenciamento ou exclusão do serviço ativo do Embargante, não impede o prosseguimento da Ação Penal Militar. Portanto, ainda que esteja o ex-militar na condição de trânsfuga, ou mesmo, caso seja ele definitivamente licenciado das fileiras do Exército, não terá o condão de interferir no prosseguimento da Ação Penal contra ele deflagrada, por não configurar a exclusão ou o licenciamento hipóteses de suspensão, isenção de processo ou de extinção da punibilidade. Embargos Infringentes conhecidos e rejeitados. Decisão por maioria. ( STM, Embargos Infringentes e de Nulidade, Rel. Min. Artur Vidigal de Oliveira, DJe 5/10/2018)
+.
+No mesmo sentido o REsp 1.587.362/RS, Rel. Min. Francisco Falcão, DJe de 11/11/2019.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
