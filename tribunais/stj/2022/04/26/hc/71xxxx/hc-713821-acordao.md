@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do writ, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ªRegião) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. CRIMES AMBIENTAIS. PRETENSÃO DE ANULAR A CONDENAÇÃO PRESCRITA, A FIM DE AFASTAR OS EFEITOS SECUNDÁRIOS DA CONDENAÇÃO. ALEGAÇOES DE NULIDADES. ANÁLISE PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. TEMAS SUSCITADOS, ADEMAIS, AFETOS À AÇÃO DE REVISÃO CRIMINAL, DE COGNIÇÃO MAIS AMPLA. CONHECIMENTO. IMPOSSIBILIDADE.
+1. Busca a impetração a anulação da condenação atingida pela prescrição, a fim de afastar os efeitos secundários da condenação. Pretende o reconhecimento denulidadesconsistentes em incompetência do Juízo estadual, em face do interesse da União na região em que parte dos desmatamentos foirealizada, inobservância do foro especial por prerrogativa de função e ilegalidade da condenação baseada em provas indiretas, quando viável a realização de prova pericial.
+2. Inviável o conhecimento originário das questões por este Superior Tribunalquando evidenciado queas alegações sequer foram submetidas ao conhecimento do Tribunal estadual,configurandoindevida supressão de instância.
+3. Ademais, as alegações formuladas pela defesa são dignas da ação de revisão criminal, de cognição mais ampla, não sendo possível, por meio da via eleita, dirigida a uma Corte de Precedentes, revisar os fundamentos da condenação imposta e mantida pelas instâncias ordinárias.
+4. Writ não conhecido.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Ernandes Santos Amorim, em que se aponta como autoridade coatora o Tribunal de Justiça de Rondônia.
+Narram os autos que o paciente foi condenado pelo Juízo de Direito da comarca de Machadinho do Oeste/RO (Autos n. 0005228-95.2009.8.22.0019) como incurso em crimes ambientais consistentes emdestruir ou danificar floresta considerada de preservação permanente,causar dano direto ou indireto às unidades de conservaçãoe impedir ou dificultar a regeneração natural de florestas e demais formas de vegetação.
+No entanto, foi declarada a extinção da punibilidade pela prescrição da pretensão executória.
+Aqui, o impetrante pretende o reconhecimento da nulidade da condenação, ao argumento de que tem sido prejudicado pelos efeitos secundários da condenação.
+Alega que o acórdão hostilizado, na parte em que confirmou a sentença de primeiro grau, assim agiu em desconformidade com o arcabouço probatório dos autos e, pior, incorreu nas mesmas nulidades convalidadas pelo juízo sentenciante e devidamente apontadas pela defesa, de forma que o processo como um todo é manifestamente nulo (fl. 4).
+Sustenta a ocorrência de nulidade, pois o laudo de constatação apontou que "parte dos desmatamentos foram efetuados em terras da União, conforme pode ser visto na imagem de satélite anexa, além de grande desmatamento dentro das unidades de conservação lindeiras", a denotar a competência da Justiça Federal (fl. 5).
+Aponta, ainda, nulidade decorrente do fato de que,durante todo o período das investigações e quando do próprio oferecimento da acusação em desfavor do paciente, ele era detentor de foro especial por prerrogativa de função, sendo certo que a competência para processar e julgar qualquer crime por ele cometido à época era do Supremo Tribunal Federal e a de acusar pertencia exclusivamente ao Procurador Geral da República (fl. 7).
+Argumenta que a condenação se baseou fundamentalmente em testemunhos e nos boletins de ocorrência ambiental, bem como que uma condenação com base em prova indireta quando era plenamente possível e necessária a realização do exame de corpo de delito direto, viola a não mais poder o disposto nos art. 158 e 167 do Código de Processo Penal, bem como vai na contramão da jurisprudência dos Tribunais Superiores (fls. 9/10).
+Postula, então, a concessão da liminar da ordem para que o Processo n. 0005228-95.2009.8.22.0019 seja anulado in totum, ante as evidentes nulidades absolutas que maculam de forma grave a sua integralidade (fl. 11).
+Em 17/12/2021, indeferi o pedido liminar (fls. 823/824).
+Dispensadas informações, o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 832/837):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. CRIME CONTRA O MEIO AMBIENTE. LEI 9.605/98 MATERIALIDADE E AUTORIA COMPROVADAS. ABSOLVIÇÃO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INVIÁVEL PELA VIA ELEITA. NULIDADES NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM. PRECLUSÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. NÃO CONHECIMENTO DO HABEAS CORPUS.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. CRIMES AMBIENTAIS. PRETENSÃO DE ANULAR A CONDENAÇÃO PRESCRITA, A FIM DE AFASTAR OS EFEITOS SECUNDÁRIOS DA CONDENAÇÃO. ALEGAÇOES DE NULIDADES. ANÁLISE PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. TEMAS SUSCITADOS, ADEMAIS, AFETOS À AÇÃO DE REVISÃO CRIMINAL, DE COGNIÇÃO MAIS AMPLA. CONHECIMENTO. IMPOSSIBILIDADE.
+1. Busca a impetração a anulação da condenação atingida pela prescrição, a fim de afastar os efeitos secundários da condenação. Pretende o reconhecimento denulidadesconsistentes em incompetência do Juízo estadual, em face do interesse da União na região em que parte dos desmatamentos foirealizada, inobservância do foro especial por prerrogativa de função e ilegalidade da condenação baseada em provas indiretas, quando viável a realização de prova pericial.
+2. Inviável o conhecimento originário das questões por este Superior Tribunalquando evidenciado queas alegações sequer foram submetidas ao conhecimento do Tribunal estadual,configurandoindevida supressão de instância.
+3. Ademais, as alegações formuladas pela defesa são dignas da ação de revisão criminal, de cognição mais ampla, não sendo possível, por meio da via eleita, dirigida a uma Corte de Precedentes, revisar os fundamentos da condenação imposta e mantida pelas instâncias ordinárias.
+4. Writ não conhecido.
+VOTO
+O presente pedido não comporta conhecimento.
+Com efeito, busca a impetração o reconhecimento de nulidades, consistentes em incompetência do Juízo estadual, em face do interesseda União na região em que parte dos desmatamentos foirealizada, inobservância do foro especial por prerrogativa de função e ilegalidade da condenação baseada em provas indiretas, quando viável a realização de prova pericial.
+Ocorre que, da atenta análise do acórdão hostilizado, observa-se que as alegações sequer foram submetidas ao conhecimento do Tribunal estadual, de modo que o conhecimento originário da questão, por este Superior Tribunal, configuraria indevida supressão de instância.
+Depois, porque as alegações formuladas pela defesa são dignas da ação de revisão criminal, de cognição mais ampla, não sendo possível, por meio da via eleita, dirigida a uma Corte de Precedentes, revisar os fundamentos da condenação imposta e mantida pelas instâncias ordinárias.
+Em face do exposto, não conheço da impetração.
