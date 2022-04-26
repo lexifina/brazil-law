@@ -1,0 +1,27 @@
+AGRAVO DE INSTRUMENTO No 1006335-69.2022.8.11.0000
+AGRAVANTE: NAILDA ALBINO FERREIRA
+AGRAVADO: ESTADO DE MATO GROSSO
+Vistos.
+Trata-se de agravo de instrumento, com pedido de antecipação da tutela recursal, interposto por NAILDA ALBINO FERREIRA contra decisão proferida pelo Juízo da 4a Vara Cível da Comarca de Tangará da Serra/MT, que, nos autos da Ação Anulatória de Nulidade de Cobrança e Lançamento Fiscal n. 1001306-67.2022.8.11.0055, indeferiu a liminar pleiteada que objetivava a abstenção, por parte do ESTADO DE MATO GROSSO de impedir a emissão de nota fiscal em nome da requerente por débitos constantes da CDA n. 2017471020 e 202037568, criar restrições administrativas tributárias e efetuar protestos das respectivas CDAs.
+A agravante sustenta, em síntese, que não ostenta a condição de corresponsável tributária, pois, os débitos são, em sua grande maioria, provenientes de fatos geradores ocorridos entre março de 2016 e dezembro de 2016, posterior a saída da agravante da sociedade.
+Aduz que a inserção da agravante em CDA de débito de pessoa jurídica afronta o artigo 135, do CTN, aliado ao fato de que a sociedade foi transferida.
+Ainda, alega que as certidões de dívida ativa dos ids n. 78283589 e 78285391 são cobranças de débitos de ICMS com fato gerador em abril de 2015 e maio de 2015, porém, a agravante não pode ser enquadrada na condição de contribuinte solidária, visto que a solidariedade não se presume, o que acaba ferindo o art. 135, do CTN.
+Afirma que o fundado receio de dano se lastreia na impossibilidade da agravante em emitir nota fiscal, bem como na probabilidade concreta e objetiva de ter seu nome inserido no rol de inadimplentes, inscrito em dívida ativa e com bloqueio de conta bancária.
+Assim, com fincas no art. 1.019, I, do CPC, requer seja concedida a antecipação da tutela recursal, para que o Estado de Mato Grosso se abstenha de impedir a emissão de nota fiscal em nome da agravante por débitos constantes da CDA n. 2017471020 e 202037568, criar restrições administrativas tributárias e efetuar protestos das respectivas CDAs, o que almejar ser confirmado no mérito.
+É o relatório.
+Decido.
+A decisão recorrida tem natureza interlocutória, logo, atacável via recurso de agravo de instrumento, razão pela qual o conheço, notadamente por se enquadrar nas hipóteses previstas no art. 1.015, do CPC/2015.
+Para a concessão da liminar em sede recursal, necessária se faz a presença dos requisitos exigidos pelos artigos 1.019, I, e 995, parágrafo único, ambos do Código de Processo Civil, quais sejam, a probabilidade de provimento do recurso e de risco de dano grave, de difícil ou impossível reparação.
+Sobre o tema, conforme entendimento já firmado pelo Superior Tribunal de Justiça, constando o nome do sócio gerente como co-responsável tributário na CDA, cabe a ele o ônus de provar a ausência dos requisitos do art. 135 do CTN, independentemente se a ação executiva foi proposta contra a pessoa jurídica e contra o sócio ou somente contra a empresa, tendo em vista que a CDA goza de presunção relativa de liquidez e certeza, nos termos do art. 204 do CTN c/c o art. 3o da Lei n.o 6.830/80:
+“TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 535 DO CPC NÃO CONFIGURADA. RESPONSABILIDADE TRIBUTÁRIA DO SÓCIO. NOME DO EXECUTADO NA CDA. ILEGITIMIDADE PASSIVA ARGUIDA EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INVIABILIDADE. 1. No que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC, o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte. 2. O acórdão recorrido encontra-se em sintonia com a jurisprudência do STJ no sentido de que não é cabível Exceção de Pré-executividade em execução fiscal promovida contra sócio que figura como responsável na Certidão de Dívida Ativa - CDA. A presunção de legitimidade assegurada à CDA impõe ao executado que figura no título executivo o ônus de demonstrar a inexistência de sua responsabilidade tributária, demonstração essa que demanda dilação probatória, a qual deve ser promovida no âmbito dos Embargos à Execução. 3. Agravo Regimental não provido.” (STJ - AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL AgRg no AREsp 474717 MG 2014/0029947-8 (STJ). Relator Ministro Herman Benjamin. Segunda Turma. Julgamento 22 de abril de 2014 – DJE 18-6-2014).
+Dessa forma, gozando a CDA de presunção de legitimidade, até prova em contrário, os sócios executados são devedores responsáveis pelo tributo.
+Logo, após breve análise do caderno processual, observa-se que o pedido liminar não merece acolhimento, visto que o exame da responsabilidade do representante da empresa executada requer dilação probatória e, em sede de análise perfunctória, não foi possível comprovar a ausência de dissolução irregular da empresa, da demonstração de que a agravante não agiu com excesso de poderes, infringiu a legislação, contrato social, ou o estatuto da pessoa jurídica.
+Assim, impõe-se, por ora, a manutenção da decisão impugnada, porquanto ainda nebulosa a alegada ausência de responsabilidade da agravante.
+Ante o exposto, indefiro o pedido de antecipação da tutela recursal.
+Intime-se o agravado para apresentar contrarrazões, facultando-lhe a juntada da documentação que entender necessária para o julgamento do recurso.
+Dispensada vista à PGJ, a teor da Súmula 189 do STJ.
+Intime-se.
+Cumpra-se.
+Cuiabá, 25 de abril de 2022.
+Alexandre Elias Filho
+Relator Convocado
