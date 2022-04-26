@@ -1,0 +1,51 @@
+EMENTA
+AGRAVO INTERNO. PROCESSUAL CIVIL. SUCUMBÊNCIA RECÍPROCA. CONSTATAÇÃO.
+1. "Caracterizada a sucumbência recíproca, o pagamento dos honorários advocatícios e custas deve ser reciprocamente distribuído e suportado na proporção do decaimento das partes" (AgInt no REsp 1431045/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/10/2021, DJe 18/10/2021).
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, após o voto-vista do Ministro Antonio Carlos Ferreira negando provimento ao agravo interno da CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, acompanhando o relator, por unanimidade, negar provimento ao agravo interno da CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, nos termos do voto do relator. Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira (voto-vista) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto pela Caixa de Previdência dos Funcionários do Banco do Brasil - Previ em face da decisão monocrática de fls.662-665, assim ementada:
+RECURSOS ESPECIAIS. PREVIDÊNCIA COMPLEMENTAR. ERBAS REMUNERATÓRIAS (HORAS EXTRAORDINÁRIAS). RECONHECIMENTO PELA JUSTIÇA TRABALHISTA. INCLUSÃO NOS CÁLCULOS DE PROVENTOS DE COMPLEMENTAÇÃO DE APOSENTADORIA. IMPOSSIBILIDADE. AUSÊNCIA DE PRÉVIO CUSTEIO. MODULAÇÃO DE EFEITOS DA TESE DE RECURSO REPETITIVO. POSSIBILIDADE DE RECÁLCULO DO BENEFÍCIO EM AÇÕES JÁ AJUIZADAS. DADO PARCIAL PROVIMENTO AO RECURSO ESPECIAL INTERPOSTO PELA PREVI, E NEGADO PROVIMENTO AO RECURSO ESPECIAL MANEJADO PELO BANCO DO BRASIL S.A.
+Nas razões recursais, afirma a recorrente que, malgrado a escorreita aplicação de tese firmada em sede de recurso repetitivo - tema n. 955 -, a decisão merece reforma, no tocante à distribuição dos ônus sucumbenciais, pois não houve sucumbência recíproca.
+Pondera que não deu causa ao ajuizamento da ação, e que não cometeu nenhum ato ilícito.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. PROCESSUAL CIVIL. SUCUMBÊNCIA RECÍPROCA. CONSTATAÇÃO.
+1. "Caracterizada a sucumbência recíproca, o pagamento dos honorários advocatícios e custas deve ser reciprocamente distribuído e suportado na proporção do decaimento das partes" (AgInt no REsp 1431045/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/10/2021, DJe 18/10/2021).
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Não comporta acolhida a irresignação.
+No caso, e em vista modulação de efeitos da tese do recurso repetitivo, é fora de dúvida que houve sucumbência recíproca, pois a entidade previdenciária efetivamente opôs resistência à revisão do benefício previdenciário, inclusive não se limitando à questão da necessidade de aportes por parte do autor e do patrocinador, mas suscitando impossibilidade jurídica do pedido e até mesmo prescrição.
+Ora, "caracterizada a sucumbência recíproca, o pagamento dos honorários advocatícios e custas deve ser reciprocamente distribuído e suportado na proporção do decaimento das partes" (AgInt no REsp 1431045/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/10/2021, DJe 18/10/2021).
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
+VOTO-VISTA
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto pela Caixa de Previdência dos Funcionários do Banco do Brasil - Previ, contra decisão que negou provimento ao recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL, DO CONSUMIDOR E PREVIDENCIÁRIO. PREVIDÊNCIA PRIVADA. RELAÇÃO DE CONSUMO. APLICAÇÃO DO CDC. REVISÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA. BANCO DO BRASIL S/A. LEGITIMIDADE PASSIVA. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL. TRÂNSITO EM JULGADO DA SENTENÇA TRABALHISTA. HORAS EXTRAORDINÁRIAS. INTEGRAÇÃO À REMUNERAÇÃO PARA FINS DE CÁLCULO DA COMPLEMENTAÇÃO DE APOSENTADORIA. POSSIBILIDADE. REQUISITOS.
+1. Não obstante o patrocinador de fundo de previdência privada complementar não detenha, em regra, legitimidade para figurar no polo passivo de litígios envolvendo participante e entidade de administração do fundo previdenciário, a existência de pedido expresso para que também o BANCO DO BRASIL S/A proceda ao recolhimento das contribuições periódicas por ele devidas ao fundo da PREVI impõe o reconhecimento de sua legitimidade passiva ad causam.
+2. Nos termos do enunciado 297 da súmula de jurisprudência do colendo Superior Tribunal de Justiça (STJ), as entidades de previdência privada equiparam-se às instituições financeiras, razão pela qual se sujeitam ao Código de Defesa do Consumidor.
+3. A vinculação de informação em publicação mensal produzida pela PREVI e encaminhada gratuitamente aos seus participantes (consumidores), de maneira suficientemente precisa, obriga a entidade de previdência privada (fornecedora) e integra o contrato celebrado, nos termos do art. 30 do CDC.
+4. O termo inicial do prazo prescricional de cinco anos (súmula 291 -do STJ) para o ajuizamento de demanda que vise à revisão da complementação de aposentadoria em face da incorporação de horas extraordinárias ao salário de participação do autor se dá com o trânsito em julgado da sentença trabalhista que reconhece o direito à percepção do valor referente às horas extraordinárias.
+5. São requisitos essenciais à incorporação de parcela de natureza salarial ao cálculo do benefício de complementação de aposentadoria: (a) a sua anterior previsão no plano de benefício contratado; e (b) a incidência, sobre tal parcela, das contribuições periódicas devidas à respectiva entidade fechada de previdência complementar pelos participantes e "pela patrocinadora.
+6. Satisfeitos os requisitos essenciais, a incorporação salarial das horas extraordinárias reconhecidas por sentença prolatada no bojo de reclamação trabalhista impõe-se o recálculo dos valores devidos a título de benefício previdenciário complementar. .
+7. Apelações conhecidas, preliminar e prejudicial de mérito afastadas, e improvidas.
+Embargos de declaração acolhidos sem efeitos modificativos (fls. 436-457).
+Nas razões do especial, alegou a ora agravante violação aos arts. 1º, 7º, 18 e 19 da Lei Complementar 109/2001 e 6º da Lei Complementar 108/2001, sob o argumento de que no regime fechado de previdência privada não se admite a concessão de benefício algum sem a formação da prévia fonte de custeio.
+O Relator, Ministro Luiz Felipe Salomão, mediante a decisão de fls. 662-665, aplicou a orientação da Segunda Seção no julgamento do RESP 1.312.736/RS , no sentido de que "nas demandas ajuizadas na Justiça comum até a data do presente julgamento - se ainda for útil ao participante ou assistido, conforme as peculiaridades da causa -, admite-se a inclusão dos reflexos de verbas remuneratórias (horas extras), reconhecidas pela Justiça do Trabalho, nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria, condicionada à previsão regulamentar (expressa ou implícita) e à recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial em cada caso".
+Diante disso, deu parcial provimento ao especial da Previ, ressalvando que, no tocante à entidade previdenciária, a sucumbência é recíproca, devendo os honorários sucumbenciais ser arcados metade pelo autor e metade pela entidade previdenciária recorrente, observada a eventual gratuidade de justiça.
+A PREVI interpôs o agravo interno de fls. 684-695, no qual sustentou não ser aplicável a sucumbência recíproca, sob o argumento de que, "no presente caso, a Previ não resta sucumbente, pois a parte Demandante ainda deverá constatar se ainda lhe é útil a recomposição prévia e integral da reserva matemática, para que haja o recálculo do benefício previdenciário", ao qual o Relator negou provimento, diante da constatação de que a entidade fechada de previdência privada manifestou resistência à pretensão de revisão dos proventos de complementação de aposentadoria, mediante a inclusão das horas extras reconhecidas pela Justiça do Trabalho.
+Pedi vista.
+No caso presente, o pedido foi julgado parcialmente procedente, nos termos da modulação de efeitos realizada pela Segunda Seção no REsp. 1.312.736/RS, "para estabelecer que a revisão do benefício previdenciário está condicionada à, em liquidação de sentença, recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial", após longa tramitação processual, na qual a PREVI se insurgiu contra a pretensão deduzida na inicial. Por este motivo, adiro ao voto do eminente Relator que entendeu pela sucumbência recíproca.
+Em face do exposto, acompanho do voto do relator.
+É como voto.
+VOTO-VISTA
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: Aproveito-me dos relatórios contidos nos votos antecedentes.
+O agravo interno da CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI não comporta acolhida.
+A decisão monocrática do em. Relator, Ministro LUIS FELIPE SALOMÃO, muito bem aplicou a modulação do Recurso Especial repetitivo n. 1.312.736/RS, de minha relatoria, tal como definida pela Segunda Seção do STJ.
+Exige-se, como condição para que se proceda à revisão do valor do benefício deferida ao autor da demanda, ora agravado, a recomposição prévia e integral das reservas matemáticas com o aporte do valor apurado em estudo técnico atuarial, de sorte que, sob esse enfoque, há sucumbência reciprocamente distribuída entre as partes litigantes - autor/agravado e entidade previdenciária/agravante.
+Isso, sobretudo, considerada a resistência da agora agravante, que ofereceu defesa à pretensão autoral (e-STJ, fls. 98/115), suscitando preliminares de incompetência absoluta, impossibilidade jurídica e ilegitimidade passiva, a par de, no que se refere ao mérito, aduzir pela impossibilidade de incluir o valor correspondente às horas-extras devidas ao agravado no cálculo do benefício complementar. Incide, na espécie, os princípios da causalidade e da sucumbência.
+Ante o exposto, adiro ao voto do Em. Relator para NEGAR PROVIMENTO ao agravo interno.
+É como voto.
