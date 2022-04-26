@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO. ALEGAÇÃO DE PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. NÃO OCORRÊNCIA. RÉU RESPONSÁVEL PELA LOCAÇÃO DO IMÓVEL QUE SERVIU DE CATIVEIRO. COAUTORIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme pacífico entendimento desta Corte, o fato de o acusado não haver praticado diretamente as elementares do crime não retira a existência da convergência de vontades para a prática delitiva, notadamente quando se verifica, pelos fatos descritos, que a sua atuação foi concreta e relevante (locação do imóvel que serviu como cativeiro da vítima), situação que acaba por abarca-lo na figura típica, em coautoria.
+2. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+COSME DUARTE DE SOUZA interpõe agravo regimental contra a decisão de fls. 60-62, que denegou a ordem, na qual pretendia a defesa o reconhecimento da participação de menor importância.
+Em suas razões, afirma o insurgente, em síntese, que no caso está configurada a participação de menor importância, tal como decidido em primeiro grau, na medida em que a conduta do réu se restringiu à locação do imóvel que serviu como cativeiro na prática do crime de extorsão mediante sequestro.
+Requer, diante disso, seja dado provimento ao recurso, de modo que a ordem seja concedida para restabelecer a decisão proferida em primeiro grau.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO. ALEGAÇÃO DE PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. NÃO OCORRÊNCIA. RÉU RESPONSÁVEL PELA LOCAÇÃO DO IMÓVEL QUE SERVIU DE CATIVEIRO. COAUTORIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme pacífico entendimento desta Corte, o fato de o acusado não haver praticado diretamente as elementares do crime não retira a existência da convergência de vontades para a prática delitiva, notadamente quando se verifica, pelos fatos descritos, que a sua atuação foi concreta e relevante (locação do imóvel que serviu como cativeiro da vítima), situação que acaba por abarca-lo na figura típica, em coautoria.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos externados pelo insurgente, a decisão impugnada deve ser mantida pelos seus próprios fundamentos, nestes termos (fls. 60-62, destaques no orginal):
+COSME DUARTE DE SOUZA, condenado por extorsão mediante sequestro, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que deu provimento ao recurso do Ministério Público, a fim de afastar o reconhecimento da participação de menor importância, o qual pretende a defesa, nesta oportunidade, seja reconhecida.
+Ouvido, manifestou-se o Ministério Público Federal pela denegação da ordem, ao argumento de que ao pretendido reconhecimento da participação de menor importância exige o amplo reexame de provas, incompatível com a via escolhida (fls. 57-58).
+Decido.
+Ao reformar a sentença e afastar o reconhecimento da participação de menor importância, destacou o acórdão impugnado o seguinte (fls. 46-47, destaquei):
+ ..
+Não há como reconhecer a participação de menor importância do réu Cosme, tendo em vista que contribuiu efetiva e decisivamente para a prática delitiva.
+Ora, o apelante foi o responsável pela locação do imóvel que serviu como cativeiro. Assim, sua atuação foi imprescindível para a concretização do delito em tela. Com efeito, o disposto no artigo 29, §1º, do Código Penal, é aplicável somente quando a ação atribuída ao agente é insignificante ou de pequena relevância no que tange à consecução do resultado criminoso.
+Não se pode dizer isso, porém, em casos de extorsão mediante sequestro, da postura daquele que exerce a tarefa de providenciar o local que servirá de cativeiro, até porque a existência de um lugar que possibilite a restrição da liberdade da vítima é fundamental para o sucesso do crime. In casu, pois, a participação do réu foi, pois, de alto relevo e decisiva.
+Destaque-se, outrossim, que não é necessário que todos os agentes envolvidos pratiquem os mesmos atos executivos, bastando o encontro de vontades no direcionamento de suas ações para a prática do fato punível. O ora apelante atuou em conjunto com os outros agentes, com planejamento e divisão de tarefas, mas todos participando para a consumação e esgotamento do crime, de forma que não se justifica reduzir sua reprimenda.
+Como se verifica, o acórdão deixa estanque de dúvidas que a contribuição do paciente para a prática do crime se deu com a escolha e locação do imóvel utilizado na prática do delito, isto é, em coautoria. Tal como ficou consignado, não há como reconhecer, em tal conduta, a participação de menor importância, visto que a sua conduta foi relevante para a consecução do crime, em nítida divisão de tarefas.
+Deveras, o fato de o acusado não haver praticado diretamente as elementares do crime (no caso, a extorsão mediante sequestro) não retira a existência da convergência de vontades para a sua prática, notadamente quando se verifica a atuação concreta por meio de divisão de tarefas, situação que acaba por abarca-lo na figura típica, em coautoria; a atuação daquele que é considerado coautor é importante para a prática da infração penal, não se podendo, portanto, falar em participação de menor importância.
+Nesse sentido: "Não é necessário que todos os agentes pratiquem o verbo descrito no tipo; basta que a sua conduta, atípica, se isoladamente observada, seja essencial para a realização do fato típico. Dessa forma, em se tratando de coautoria, todos os agentes respondem pela prática do mesmo delito praticado" (AgRg no AREsp 1364031/MG, Rel. Ministro Rogerio Schietti, DJe 12/5/2020).
+Aliás, segundo a firme orientação desta Corte, "O simples fato da acusada o  não ter tido contado direto com as vítimas, de per si, não basta para concluir pela sua participação de menor importância" (AgRg nos EDcl no HC n. 709689/SC, Rel. Ministro Ribeiro Dantas, DJe 18/3/2022).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Com efeito, a par da existência de discussões doutrinárias que envolvem o conceito de autoria, tal como assinalou a defesa no recurso, não há como perder de vista que as premissas fáticas apontadas pelo acórdão denotam que houve a locação, pelo réu, do imóvel onde ocorreu o crime de extorsão mediante sequestro, nestes termos (fl. 44):
+ ..
+Portanto, comprovou-se que o réu Cosme, filho da corré Eulália, foi o responsável por alugar o imóvel que serviu como cativeiro da vítima Fátima. Todos os elementos de convicção acima analisados o corroboram.
+Evidentemente que tal conduta se adequa à coautoria, seja porque teve relevante importância para a consecução do delito, seja pelo fato de que a prática do crime, no caso, contou com divisão de tarefas (v.g., havia responsável pela locação, pela vigilância do local etc).
+Assim, como ficou consignado na decisão impugnada, a simples circunstância de o acusado não haver praticado diretamente as elementares do crime não retira a existência da convergência de vontades para a sua prática, notadamente quando se verifica a sua atuação concreta por meio de ato que possui relevância na cadeia delituosa. A atuação daquele que é considerado coautor é importante para a prática da infração penal, não se podendo, portanto, falar em participação de menor importância.
+À vista do exposto, nego provimento ao agravo regimental.
