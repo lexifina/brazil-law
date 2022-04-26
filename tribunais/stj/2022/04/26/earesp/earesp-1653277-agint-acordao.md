@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 20/04/2022 a 26/04/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por Esther Adissi em face de decisão monocrática de minha lavra que indeferiu liminarmente os embargos de divergência da ora insurgente, pelos seguintes fundamentos:
+ ..  o acórdão embargado ostenta o mesmo entendimento erigido pela jurisprudência desta Casa, no sentido de que os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial proferida na instância ordinária, não interrompem o prazo para a interposição do agravo previsto no art.1.042 do CPC, único recurso cabível, salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, impedindo-o de interpor o agravo.
+Em suas razões, a agravante aduz que, dada a existência de justa expectativa da parte de que os embargos de declaração opostos contra a inadmissibilidade do recurso especial haviam interrompido o prazo para a interposição de agravo, esta não pode se penalizada com a declaração da intempestividade de seu recurso".
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA JUÍZO PRÉVIO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. RECURSO MANIFESTAMENTE INCABÍVEL. MANIFESTA INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL.
+1. O acórdão objeto dos embargos de divergência ostenta o mesmo entendimento erigido pela jurisprudência desta Casa, no sentido de que os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial proferida na instância ordinária, não interrompem o prazo para a interposição do agravo previsto no artigo 1.042 do CPC  único recurso cabível  , salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, impedindo-o de interpor o agravo.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Não comporta acolhida o presente reclamo.
+Isso porque o acórdão objeto dos embargos de divergência ostenta o mesmo entendimento erigido pela jurisprudência desta Casa, no sentido de que os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial proferida na instância ordinária, não interrompem o prazo para a interposição do agravo previsto no artigo 1.042 do CPC  único recurso cabível  , salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, impedindo-o de interpor o agravo.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO.
+DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL NA ORIGEM. NÃO CABIMENTO, EM REGRA, DE EMBARGOS DE DECLARAÇÃO. NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO AGRAVO.
+1. Os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial proferida na instância ordinária, não interrompem o prazo para a interposição do agravo previsto no art.1.042 do CPC, único recurso cabível, salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado.
+2. Agravo interno não provido. (AgInt nos EAREsp 1636360/MS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 13/04/2021, DJe 20/04/2021)
+--
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. ATO DA SEGUNDA TURMA QUE DESPROVEU O AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL, MANTENDO DECISÃO DA PRESIDÊNCIA QUE NÃO CONHECEU DO RECURSO POR INTEMPESTIVIDADE. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO CONTRA A DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. RECURSO INCABÍVEL. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. INEXISTÊNCIA DE ILEGALIDADE OU TERATOLOGIA. AO REVÉS, DECISÃO EM HARMONIA COM A JURISPRUDÊNCIA PACÍFICA DO STJ. DIREITO LÍQUIDO E CERTO NÃO CONFIGURADO. IMPETRAÇÃO LIMINARMENTE INDEFERIDA. DECISÃO MANTIDA EM SEUS PRÓPRIOS TERMOS. AGRAVO INTERNO DESPROVIDO.
+1. "Os embargos de declaração, quando opostos contra decisão de inadmissibilidade do recurso especial na origem, não interrompem, em regra, o prazo para a interposição do agravo, único recurso cabível, salvo quando essa decisão for tão genérica que impossibilite ao recorrente aferir os motivos pelos quais teve seu recurso obstado, inviabilizando-o totalmente de interpor o agravo. Precedentes da Corte Especial" (AgInt nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/12/2016, DJe 07/02/2017).
+2. O acórdão ora impugnado, no mesmo diapasão da jurisprudência desta Corte, ressaltou que, "no caso, a decisão que, na origem, inadmitira o Recurso Especial, fora devidamente fundamentada, no sentido de que a pretensão recursal esbarraria no óbice da Súmula 7/STJ. Assim, não sendo tal decisum manifestamente genérico ou deficitário de fundamentação, não há motivo para excepcionar, no caso, a regra do não cabimento dos Embargos de Declaração contra a decisão que inadmite o Recurso Especial." 3. Inexistência de ilegalidade patente, tampouco teratologia, que pudesse viabilizar a excepcionalíssima via mandamental.
+4. Agravo interno desprovido. (AgInt no MS 26.127/DF, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 16/11/2020, DJe 23/11/2020)
+--
+EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. INTERRUPÇÃO DO PRAZO RECURSAL. APELAÇÃO TEMPESTIVA.
+1. Os embargos de declaração interrompem o prazo de interposição de qualquer outro recurso cabível, salvo em situações peculiares como a de intempestividade ou não cabimento do recurso integrativo.
+2. Embargos de divergência acolhidos. (EREsp 1352199/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 16/09/2015, DJe 05/10/2015)
+--
+PROCESSO CIVIL. DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL. PRAZO RECURSAL INTERROMPIDO PELA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. Salvo melhor juízo, todas as decisões judiciais podem ser objeto de embargos de declaração, mas a jurisprudência do Superior Tribunal de Justiça, sem explicitar a respectiva motivação, tem se orientado no sentido de que os embargos de declaração opostos contra a decisão que, no tribunal a quo, nega seguimento a recurso especial não interrompem o prazo para a interposição do agravo previsto no art. 544 do Código de Processo Civil. Excepcionalmente, atribui-se esse efeito interruptivo quando, como evidenciado na espécie, a decisão é tão genérica que sequer permite a interposição do agravo. Embargos de divergência conhecidos e providos. (EAREsp 275.615/SP, Rel. Ministro ARI PARGENDLER, CORTE ESPECIAL, julgado em 13/03/2014, DJe 24/03/2014)
+Consequentemente, não merece reforma a decisão monocrática ora impugnada.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
