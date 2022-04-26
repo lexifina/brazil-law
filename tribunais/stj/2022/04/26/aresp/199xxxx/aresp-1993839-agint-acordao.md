@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROMESSA DE COMPRA E VENDA.COMPETÊNCIA PARA PROCESSAMENTO E JULGAMENTO. AÇÃO QUE TEM POR OBJETO O DESFAZIMENTO DO COMPROMISSO DE COMPRA E VENDA ENTRE PARTICULARES.CAIXA ECONÔMICA FEDERAL. AGENTE FINANCEIRO.COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. Para derruir as conclusões do acórdão acerca da competência, a qual foi fundada nas peculiaridades do caso concreto, e rediscutir a competência da Justiça Federal para julgar a presente demanda, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é vedado pelo óbice insculpido na Súmula 07 do STJ.
+3.É firme a jurisprudência do STJ no sentido de se reconhecer a ilegitimidade passiva do agente financeiro para responder à ação por vício de construção de imóvel quando a instituição atuar como mero agente financeiro. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+1. Cuida-se de agravo interno interposto por CONSTRUTORA TENDA S/A, TENDA NEGÓCIOS IMOBILIÁRIOS S/A,sob a vigência do Novo Código de Processo Civil, contra decisão deste relator, que negou provimento ao agravo em recurso especial.
+Inconformada, a parte ora agravante, em apertada síntese, sustenta que "diferentemente do que foi apontado pela r. decisão agravada, o v. acórdão não enfrentou as matérias impugnadas, omitindo-se, portanto, quanto às alegações no sentido de que não se trata de simples pretensão de rescisão de contrato entre particular, eis que a Promessa de Compra e Venda foi substituída pelo Contrato de Compra e Venda com pacto de alienação fiduciária, havendo evidente violação ao artigo 1.022, CPC, já que a agravante indicou as teses omitidas pelo Egrégio Tribunal."
+Alega que "a hipótese é de litisconsórcio passivo necessário, na medida em que a pretensão dos Agravados é de rescisão de negócio jurídico cuja relação jurídico-material atinge direitos e obrigações da Caixa Econômica Federal" (fls. 228-238).
+Não foram apresentadas contrarrazões ao agravo interno (fls. 241-243).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROMESSA DE COMPRA E VENDA.COMPETÊNCIA PARA PROCESSAMENTO E JULGAMENTO. AÇÃO QUE TEM POR OBJETO O DESFAZIMENTO DO COMPROMISSO DE COMPRA E VENDA ENTRE PARTICULARES.CAIXA ECONÔMICA FEDERAL. AGENTE FINANCEIRO.COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. Para derruir as conclusões do acórdão acerca da competência, a qual foi fundada nas peculiaridades do caso concreto, e rediscutir a competência da Justiça Federal para julgar a presente demanda, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é vedado pelo óbice insculpido na Súmula 07 do STJ.
+3.É firme a jurisprudência do STJ no sentido de se reconhecer a ilegitimidade passiva do agente financeiro para responder à ação por vício de construção de imóvel quando a instituição atuar como mero agente financeiro. Precedentes.
+4. Agravo interno não provido.
+VOTO
+2. O agravo interno não merece acolhida.
+Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+3. Ao analisar a demanda, a Corte de origem concluiu que a competência para processamento do presente feito é da Justiça Estadual, nos seguintes termos (fls. 62-63):
+Feitas tais considerações, ressalto que a ação que tem por objeto o desfazimento do compromisso de compra e venda entre particulares, ainda que a construção ou o pagamento do preço dependa de financiamento pela Caixa Econômica Federal, é de competência da Justiça Estadual.
+Nesse contexto, para derruir a conclusão acima destacada, fundada nas peculiaridades do caso concreto, e rediscutir a competência da Justiça Federal para julgar a presente demanda, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é vedado pelo óbice insculpido na Súmula 07 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA SEGURADORA. 1. A Corte Regional, com amparo nos fatos e nas provas dos autos, acolheu a manifestação de desinteresse no feito da Caixa Econômica Federal - CEF e, por conseguinte, nos termos das Súmulas 150 e 224 do STJ, determinou a remessa do feito para a justiça estadual. Insuscetível de revisão o referido entendimento, por demandar reexame do conjunto fático-probatório, atraindo a aplicação da Súmula 7 do STJ. 2. Agravo interno desprovido. (AgInt no REsp 1410316/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/05/2018, DJe 21/05/2018)
+4. Ademais, o entendimento firmado no acórdão está em consonância com a jurisprudência desta Corte Superior de Justiça no sentido de que a legitimidade da instituição financeira nas ações contra vícios de construção ou atraso na entrega de obras somente se verifica nas hipóteses em que atua além de mero agente financiador da obra.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. VÍCIOS DE CONSTRUÇÃO. VIOLAÇÃO AO ART. 535 DO CPC DE 1973. INEXISTÊNCIA. LEGITIMIDADE PASSIVA DA CEF. AGENTE FINANCEIRO EM SENTIDO ESTRITO. AGRAVO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. É firme a jurisprudência do STJ no sentido de se reconhecer a ilegitimidade passiva do agente financeiro para responder à ação por vício de construção de imóvel quando a instituição atuar como mero agente financeiro. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1607198/CE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/05/2018, DJe 15/05/2018)
+RECURSO ESPECIAL. PROGRAMA MINHA CASA MINHA VIDA. PEDIDO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DO IMÓVEL. LEGITIMIDADE DA CEF. AUSÊNCIA. AGENTE FINANCEIRO.
+1. Cinge-se a controvérsia a definir se a Caixa Econômica Federal possui legitimidade para responder pelo atraso na entrega de imóvel financiado com recursos destinados ao Programa Minha Casa Minha Vida (PMCMV).
+2. O exame da legitimidade passiva da CEF está relacionado com tipo de atuação da empresa pública no âmbito do Sistema Financeiro Habitacional, ora como agente meramente financeiro, em que não responde por pedidos decorrentes de danos na obra financiada, ora como agente executor de políticas federais para a promoção de moradia para pessoas de baixa ou baixíssima renda, em que responde por mencionados danos. Precedente.
+3. Para o fim de verificar o tipo de atuação da CEF e concluir pela sua legitimidade para responder por danos relativos à aquisição do imóvel, devem ser analisar os seguintes critérios: i) a legislação disciplinadora do programa de política de habitacional; ii) o tipo de atividade por ela desenvolvida; iii) o contrato celebrado entre as partes e iv) e a causa de pedir.
+4. No caso dos autos, considerando-se que a participação da CEF na relação jurídica sub judice ocorreu exclusivamente na qualidade de agente operador do financiamento para fim de aquisição de unidade habitacional, a instituição financeira não detém legitimidade para responder pelo descumprimento contratual relativo ao atraso na entrega do imóvel adquirido com recursos destinados ao Programa Minha Casa Minha Vida (PMCMV).
+5. Recurso especial não provido. (REsp 1534952/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/02/2017, DJe 14/02/2017)
+Portanto, o acórdão combatido encontra-se em harmonia com o entendimento desta Corte, o que atrai a aplicação da Súmula 83 do STJ.
+5 . Ante o exposto, nego provimento ao agravo interno.
+É como voto.
