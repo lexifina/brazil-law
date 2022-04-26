@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 20/04/2022 a 26/04/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por Caixa Econômica Federal em face de decisão monocrática de minha lavra que deu provimento aos embargos de divergência da parte adversa para determinar o retorno dos autos à Terceira Turma para que prossiga com o exame do mérito do agravo interno, pelos seguintes fundamentos:
+Merece guarida o reclamo.
+Isso porque, conforme recentemente julgado pela Corte Especial, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator  proferida ao apreciar recurso especial ou agravo em recurso especial  apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ", ressaltando-se, contudo, "o dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial" (EREsp 1.424.404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/10/2021, DJe 17/11/2021).
+ ..
+Nesse quadro, ainda que a Turma esteja correta em apontar a impugnação insuficiente das Súmulas 7 e 211 do STJ, caber-lhe-ia discorrer sobre a alegada negativa de prestação jurisdicional que consubstanciou o foco central do agravo interno, que deveria ter sido parcialmente conhecido, tendo em vista a orientação firmada pela Corte Especial no EREsp 1.424.404/SP.
+Em suas razões, a casa bancária afirma que a Súmula 182/STJ não foi o fundamento principal da decisão agravada que se baseou na incidência das Súmulas 7 e 211 do STJ para confirmar a negativa de provimento ao agravo em recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO INDEVIDA DA SÚMULA 182/STJ EM AGRAVO INTERNO NÃO CONHECIDO PELA TURMA.
+1. Conforme recentemente julgado pela Corte Especial, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator  proferida ao apreciar recurso especial ou agravo em recurso especial  apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ", ressaltando-se, contudo, "o dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial" (EREsp 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20.10.2021, DJe 17.11.2021).
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Não merece prosperar a pretensão recursal.
+Conforme recentemente julgado pela Corte Especial, "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator  proferida ao apreciar recurso especial ou agravo em recurso especial  apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ", ressaltando-se, contudo, "o dever da parte de refutar "em tantos quantos forem os motivos autonomamente considerados" para manter os capítulos decisórios objeto do agravo interno total ou parcial" (EREsp 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20.10.2021, DJe 17.11.2021).
+Na hipótese dos autos, a decisão monocrática  objeto do agravo interno  conheceu do agravo da ora insurgente para, de plano, conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, pelos seguintes fundamentos:
+- Da negativa de prestação jurisdicional
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+ ..
+ ..
+Dessa maneira, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+ ..
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 63 da Lei 8.666/93; 4º e 22 da Lei 8.159/91; 1º §1º, II, 7º, II, 10 da Lei 12.527/11; 7º, 8º, 374, I, II e III, do CPC/15, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível.
+Aplica-se, na hipótese, a Súmula 211/STJ.
+Ainda, é importante ressaltar que este Superior Tribunal de justiça já se manifestou no sentido de não haver contradição em afastar a violação do art. 1.022 do CPC/2015 e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja suficientemente fundamentado.
+ ..
+- Do reexame de fatos e provas
+ ..
+ ..  alterar o entendimento firmado no aresto impugnado no sentido de reconhecer o interesse de agir, exige a revisão do acervo fático-probatório dos autos, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do STJ.
+No agravo interno, a ora embargante reiterou a preliminar de negativa de prestação jurisdicional, enumerando os vícios de fundamentação do acórdão estadual, bem como aduziu: (i) o prequestionamento das normas cuja omissão foi suscitada nos aclaratórios e que foram, posteriormente, apontadas como violadas no recurso especial, notadamente o artigo 844, inciso II, do CPC de 1973; e (ii) a inaplicabilidade da Súmula 7/STJ em relação a fatos e a elementos incontroversos nos autos. Por fim, destacou que a perspectiva da decisão agravada de que o acórdão regional estaria suficientemente fundamentado "ignora a relevância e necessidade do TRF3 examinar os pactos coligados, as cláusulas indicadas destes pactos e normas federais indicadas do SFH, FGTS e outras, inclusive verificar a condição dos partícipes e litigantes, em relação a situação jurídica de direito material, bem como que as normas federais indicadas autorizam o acesso aos documentos a qualquer um e a fortiori a construtora da operação de produção do empreendimento e, ainda, que a CEF recusou-se a franquear voluntariamente os documentos solicitados, conforme eventos processuais, inclusive precedente notificação judicial, ter constado na inicial a notificação e admoestação sobre o fornecimento das peças e não ter sido negado em contestação pela CEF, as normas de regra probatória, o comportamento da CEF de contestação e insistência na negativa de entrega em juízo, antes da sentença".
+O acórdão da Terceira Turma não conheceu do agravo interno, por considerar que:
+A decisão agravada conheceu do agravo para negar provimento ao recurso especial interposto pela agravante, com base nos seguintes fundamentos: Súmula 7 do STJ (quanto ao interesse de agir), Súmula 211 do STJ (arts. 63 da Lei 8.666/93; 4º e 22 da Lei 8.159/91; 1º §1º, II, 7º, II, 10 da Lei 12.527/11;
+7º, 8º, 374, I, II e III, do CPC/15) e Súmula 568 do STJ (no tocante à violação do art. 1.022 do CPC).
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada. Isso porque, nas razões do presente agravo, não impugnou, consistentemente, o fundamento da decisão ora agravada relativo à Súmula 7 do STJ (quanto ao interesse de agir) e à Súmula 211 do STJ (arts. 63 da Lei 8.666/93; 4º e 22 da Lei 8.159/91; 1º § 1º, II, 7º, II, 10 da Lei 12.527/11; 7º, 8º, 374, I, II e III, do CPC/15).
+Ressalte-se que, na hipótese em que se pretende impugnar, o fundamento relativo à incidência da Súmula 211 do STJ, cabe a parte agravante apontar de que maneira o Tribunal de origem teria abordado as questões trazidas no recurso especial, bem como a discussão acerca dos dispositivos legais tidos por violados, o que também não ocorreu.
+Outrossim, cumpre ressaltar que é firme o entendimento desta Corte, sentido de que, inadmitido o recurso especial pela aplicação do enunciado n. 7/STJ incumbiria à parte interessada demonstrar, de forma especifica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos, o que, de fato, não ocorreu.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+Nesse quadro, ainda que a Turma esteja correta em apontar a impugnação insuficiente das Súmulas 7 e 211 do STJ, caber-lhe-ia discorrer sobre a alegada negativa de prestação jurisdicional que consubstanciou o foco central do agravo interno, que deveria ter sido parcialmente conhecido, tendo em vista a orientação firmada pela Corte Especial no EREsp 1.424.404/SP.
+Diante desse quadro, não comporta reforma a decisão monocrática que deu provimento aos embargos de divergência para determinar o retorno dos autos à Terceira Turma para que prossiga com o exame do mérito do agravo interno.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
