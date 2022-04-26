@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há como aplicar a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 quando verificado que o Tribunal de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos, notadamente a quantidade de droga apreendida e a empreitada delitiva, que evidenciam a dedicação do acusado a atividades criminosas.
+2. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+3. Agravo regimental não provido.
+RELATÓRIO
+MILENA SOUZA VARGASinterpõe agravo regimental contra decisão de minha relatoria, em que deneguei a ordem, a fim de manter a não incidência da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+A defesa reafirma que estão presentes os requisitos para a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Pleiteia a reconsideração da decisão anteriormente proferida. Subsidiariamente, pugna pelo encaminhamento deste recurso para julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há como aplicar a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 quando verificado que o Tribunal de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos, notadamente a quantidade de droga apreendida e a empreitada delitiva, que evidenciam a dedicação do acusado a atividades criminosas.
+2. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+3. Agravo regimental não provido.
+VOTO
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Na hipótese, observo que o decisum agravado foi claro ao afirmar a impossibilidade de aplicação da minorante descrita no art. 33, § 4º, da Lei n. 11.343/2006. Confira-se, no que interessa (fls. 404-406, grifos do original):
+O Juiz sentenciante entendeu pela não aplicação do redutor, conforme trecho abaixo (fl. 314, grifei):
+O privilégio previsto no artigo 33, § 4º da lei em comento não pode ser aplicado. Observe-se que a réu combinou o transporte com o comprador e para tanto se deslocou do estado de Mato Grosso para cá, para levar em um ônibus a droga até aquele estado da federação. Receberia R$ 5.000,00 apenas pelo transporte. Trata-se de esquema instaurado nessa fronteira com o Paraguai e que certamente conta com o auxilio de toda uma cadeia de produção, comercialização, transporte, entrega e distribuição. Esse conjunto de fatores gera a convicção de dedicação e adesão à associação criminosa, sendo que seria ingênuo acreditar que tão expressiva quantidade de droga sendo transportada sem o amparo de uma estrutura criminosa.
+O Tribunal de origem, por sua vez, manteve a não incidência da minorante, nos seguintes termos (fl. 23, grifei):
+Destaco de pronto que a quantidade de droga apreendida - 44 quilos de maconha - é elemento que evidencia a dedicação dos agentes a atividades criminosas, mesmo porque é improvável que a um novato nesse tipo de crime seja confiada tamanha responsabilidade, considerado o alto valor de mercado da substância.  ..
+Assim, a quantidade de droga (mais de quarenta quilos de maconha), o envolvimento de terceiras pessoas (contratante e aquelas que a receberam em Ponta Porã), a promessa de pagamento (R$ 5.000,00), são todos elementos que, somadas às demais provas, levam à inequívoca conclusão de que os requisitos não foram atendidos.
+Ora, tais evidencias apontam para cenário que não se coaduna com a figura do aventureiro do tráfico ou do simples "mula", pois demonstram que se trata de indivíduo com incomum envolvimento com a traficância, denotando sua dedicação a essa atividade criminosa, para a qual, inclusive, serviu-se de organização criminosa, ainda que ocasionalmente.
+Com efeito, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n.
+11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, aocometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06" (AgRg no REsp n.1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+No caso, conforme visto, a instância de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos, notadamente a quantidade de droga apreendida (44 kg de maconha) e o modus operandi da empreitada criminosa, que evidenciam que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas, notadamente ao tráfico de drogas, motivo pelo qual não há como reconhecer a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Ademais, imperioso salientar que, para entender de modo diverso, afastando-se a conclusão de que o paciente se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+Portanto, fica afastado o apontado constrangimento ilegal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
