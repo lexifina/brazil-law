@@ -1,0 +1,57 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial interposto na Apelação Cível no. 0006867-44.2016.8.11.0041
+RECORRENTES: SISTEMA FÁCIL, INCORPORADORA IMOBILIÁRIA – CUIABÁ III- SPE LTDA e RNI NEGÓCIOS IMOBILIÁRIOS S/A
+Recorrido: ANTÔNIO SANDES DE ALMEIDA
+Vistos.
+Trata-se de recurso especial interposto por SISTEMA FÁCIL, INCORPORADORA IMOBILIÁRIA – CUIABÁ III - SPE LTDA, com fundamento no art. 105, III, alínea “c”, da Constituição Federal, contra acórdão da Segunda Câmara de Direito Privado deste Sodalício, que deu parcial provimento ao recurso das partes recorrentes, conforme a seguinte ementa (ID. 100458995).
+RECURSO DE APELAÇÃO – AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS – DEMORA NA ENTREGA DE IMÓVEL ADQUIRIDO NA PLANTA – INVERSÃO DE CLÁUSULA PENAL EM FAVOR DO CONSUMIDOR – IMPOSSIBILIDADE NO CASO CONCRETO DIANTE DA CLÁUSULA QUE PREVÊ MULTA PARA O DESCUMPRIMENTO DAS VENDEDORAS – IPTU E TAXAS CONDOMINIAIS – RESPONSABILIDADE DA CONSTRUTORA ATÉ A ENTREGA DAS CHAVES – PRECEDENTES DO STJ – DANOS MORAIS – SIMPLES INADIMPLEMENTO CONTRATUAL – INEXISTÊNCIA DE FATOS ENSEJADORES DO DEVER DE INDENIZAR – CONDENAÇÃO AFASTADA COM FUNDAMENTO NA ATUAL JURISPRUDÊNCIA DO STJ – RECURSO PARCIALMENTE PROVIDO.
+1- O Tema 971 do STJ autoriza a inversão da cláusula penal apenas nos casos em que há omissão contratual quanto à multa para inadimplemento do vendedor. No caso concreto, a Cláusula 7.1, do contrato prevê o pagamento da multa pelas vendedoras, no caso de atraso injustificado da obra; logo, não há falar em inversão da Cláusula 6 em favor do Recorrido.
+2- Diante do atraso na entrega do imóvel, que superou o prazo de 180 (cento e oitenta) dias de tolerância contratual, o consumidor Recorrido faz jus ao valor correspondente a 2% (dois por cento) do valor pago, acrescido de juros de 0,5% (meio por cento) ao mês (pro rata), incidente sobre o valor já pago, tal como contratado (Cláusula 7.1). E, considerando que as Apelantes não pagaram a multa ou promoveram a compensação com o saldo devedor em até 90 (noventa) dias da entrega das chaves ou da lavratura da Escritura Pública, tal qual pactuado (Cláusula 7.1.1), sobre o valor devido deverá incidir correção monetária pelo INPC e juros de mora de 1% (um por cento) ao mês, a partir de 91o (nonagésimo primeiro dia) dia depois da entrega das chaves ou da outorga da Escritura Pública, prevalecendo o que tiver ocorrido primeiro, até o efetivo pagamento pelas Recorrentes.
+3- De acordo com o entendimento do STJ, "as despesas de condomínio e IPTU são de responsabilidade da construtora até a entrega do imóvel ao adquirente", tendo em vista que, "apesar do IPTU ter como fato gerador a propriedade, o domínio útil ou a posse do imóvel (CTN, art. 32), se os recorridos não deram causa para o não recebimento do imóvel, não podem ser obrigados a pagar as despesas condominiais nem o citado imposto referente ao período em que não haviam sido imitidos na posse" (AgInt no REsp 1.697.414/SP). Na hipótese, independente de prova ou não do pagamento dessas verbas pelo Recorrido, a sentença deve ser mantida hígida, pois a Julgadora singular não determinou o ressarcimento ou a devolução do valor pelas Apelantes, tão somente declarou que são responsáveis pelo pagamento dessas despesas até a entrega do imóvel, em 01/07/2015. Isso é, decidiu de acordo com a orientação a Corte Superior.
+4- O STJ “consolidou o entendimento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais.” (AgInt nos EDcl no REsp 1704191/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/03/2021, DJe 07/04/2021). Na hipótese, o pleito indenizatório formulado pelo Apelado tem como base, exclusivamente, o descumprimento obrigacional pelas empresas Recorrentes, sem demonstração de qualquer outro fato extraordinário que tenha ofendido o direito à sua personalidade, honra e/ou dignidade, como ser humano; sentença reformada, afastando a obrigação em relação aos danos morais.
+(TJMT. ApCiv no 0006867-44.2016.8.11.0041, Segunda Câmara de Direito Privado, Des. Relator Clarisse Claudino da Silva, Julgado em 25.08.2021).
+Interpostos os embargos de declaração, estes foram rejeitados conforme acordão de ID 110760997.
+A partes recorrentes alegaram violação aos artigos 141, 492, 927 do Código Civil, argumentando, em síntese:
+(i) Inexistência de atraso na entrega do imóvel pois, antes de findado o prazo de tolerância de 180 dias já consagrado legítimo pelo Superior Tribunal de Justiça, foi expedido do habite-se.
+(ii) Impossibilidade de cumulação das condenações referentes ao ressarcimento dos aluguéis e multa contratual, tendo em vista que tal imposição contraria diretamente entendimento consolidado pelo STJ (Tema 970), devendo necessariamente ser afastada a condenação indenizatória a título de alugueis, pois, se mantida, estará “configurado o bis in idem”.
+Recurso tempestivo e preparado (IDs 114650995 e 114608469)
+Sem contrarrazões (ID 118211496).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos – Tema 970 – Afastamento.
+A parte recorrente sustentou que o acordão recorrido, quando a condenou ao pagamento da cláusula penal prevista no item 7.1 do contrato, violou o Tema 970/STJ, o qual, na sua visão impede “a cumulação da condenação de lucros cessantes e da inversão da clausula penal”.
+Todavia, a redação do Tema 970/STJ é outra e bastante assertiva ao declarar que:
+“A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes”.
+No caso em análise, não houve moldura fática que preenchesse a Tese perfilhada pelo E. STJ, tendo em vista que a recorrente foi condenada tão somente ao pagamento da indenização prevista em contrato, devido a mora no adimplemento da obrigação..
+Não houve condenação ao pagamento de lucros cessantes, o que, por si, afasta a aplicação do Tema 970/STJ.
+Esse esclarecimento consta do voto relator do acordão, quando esclareceu a questão em embargos de declaração, in verbis (ID 110760997):
+“Portanto, neste capítulo a sentença deve ser reformada, pois diante do atraso na entrega do imóvel, que superou o prazo de 180 (cento e oitenta) dias de tolerância, o consumidor Recorrido faz jus ao valor correspondente a 2% (dois por cento) do valor pago, acrescido de juros de 0,5% (meio por cento) ao mês (pro rata), incidente sobre o valor já pago, tal como contratado. E, considerando que as Apelantes não pagaram a multa ou promoveram a compensação com o saldo devedor em até 90 (noventa) dias da entrega das chaves ou da lavratura da Escritura Pública, tal qual pactuado, sobre o valor devido deverá incidir correção monetária pelo INPC e juros de mora de 1% (um por cento) ao mês, a partir de 91o (nonagésimo primeiro dia) dia depois da entrega das chaves ou da outorga da Escritura Pública, prevalecendo o que tiver ocorrido primeiro, até o efetivo pagamento pelas Recorrentes.
+Do trecho transcrito ressai evidente a inexistência de qualquer omissão e/ou contradição no julgado, muito menos ofensa ao Tema 970, do STJ, pois a cláusula penal moratória não foi cumulada com lucros cessantes.”
+Diante do exposto, não há aplicação da sistemática de recursos repetitivos no tocante ao Tema 970/STJ, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da violação aos artigos 141 e 492 do CPC – Deficiência de fundamentação.
+Da violação ao artigo 373 do CPC– Deficiência de fundamentação (Súmula 284/STF).
+Sem a identificação precisa do dispositivo legal supostamente violado, ou objeto de dissídio jurisprudencial, fica prejudicada a análise da controvérsia, o que caracteriza deficiência de fundamentação, e atrai a aplicação da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - SEGURO DE VIDA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. O conhecimento do recurso especial pelas alíneas ‘a"’e ‘c’ do permissivo constitucional exige a indicação de qual ou quais os dispositivos de lei que supostamente teriam sido violados ou objeto de interpretação divergente entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula 284 do STF. Precedentes.
+2. O Tribunal de origem, com base na análise do acervo probatório dos autos, concluiu que o segurado faz jus ao recebimento da indenização correspondente à cobertura securitária, por entender que a questão relativa ao pagamento da indenização de forma proporcional ao grau de invalidez do segurado, encontra-se tão somente nas condições gerais da apólice, da qual não há prova de que o autor, na condição de segurado, tomou conhecimento. Assim, para rever o entendimento do acórdão recorrido, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e reinterpretação de cláusulas contratuais, o que é vedado em razão das Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido”. (AgInt no AREsp 1220109/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/09/2018, DJe 01/10/2018).
+In casu, embora a parte recorrente afirme que não houve inadimplemento contratual, não demonstrou de forma individualizada e específica quais dispositivos de lei federal foram supostamente violados.
+Em suas razões recursais, a parte recorrente faz menção apenas aos artigos 141 e 492 do CPC, objetivando, em razão destes comandos normativo, reverter o resultado do julgamento, que não têm qualquer pertinência temática com a tese desenvolvida em suas razões recursais, o que faz incidir a Súmula 284/STF.
+Para elucidar:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. ART. 513 DO CPC/1973. FALTA DE PERTINÊNCIA TEMÁTICA COM A TESE DO ESPECIAL.SÚMULA N. 284/STF. DECISÃO DE RELATOR. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos argumentos que, em princípio, poderiam infirmar a conclusão adotada pelo Juízo. O fato de o Tribunal de origem não ter adotado a tese defendida pela parte recorrente não configura negativa de prestação jurisdicional.
+2. O art. 513 do CPC/1973 não possui carga normativa para sustentar a tese de cerceamento de defesa, o que inviabiliza o conhecimento da insurgência, nos termos da Súmula n. 284/STF.
+3. Nos termos do art. 557, § 1o, do CPC/1973 - vigente à época -, decisão monocrática de relator deve ser impugnada mediante agravo (interno ou regimental), não sendo aplicável o princípio da fungibilidade recursal para conhecimento de agravo de instrumento interposto contra essa decisão. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1091409/BA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/03/2018, DJe 02/04/2018)
+Ante o exposto, nego seguimento ao recurso especial, com fundamento no art. 1.030, V, do CPC (Súmula 284 STJ).
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
