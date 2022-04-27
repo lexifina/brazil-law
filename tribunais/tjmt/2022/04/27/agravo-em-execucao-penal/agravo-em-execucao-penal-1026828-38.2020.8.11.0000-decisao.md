@@ -1,0 +1,12 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO AGRAVO EM EXECUÇÃO PENAL No 1026828-38.2020.8.11.0000
+RECORRENTE: ANA CLAUDIA PEREIRA DE SOUSA
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos.
+Devolvam-se os autos à Câmara de origem para o cumprimento da decisão proferida pelo Superior Tribunal de Justiça (Id 124505189).
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
