@@ -1,0 +1,79 @@
+RECURSO ESPECIAL
+VISTOS.
+Trata-se de recurso especial interposto por DOW AGROSCIENCES INDUSTRIAL LTDA, com fundamento no art. 105, III, alínea “a”, da Constituição Federal, contra o acórdão proferido pela Segunda Câmara de Direito Público e Coletivo, que restou assim ementado:
+APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA - ALEGADA INCONSTITUCIONALIDADE DE LEI MUNICIPAL QUE RESTRINGIU O USO DE HERBICIDAS - IMPOSIÇÃO DE LIMITAÇÃO QUANTO À ÁREA E PERÍODO DE UTILIZAÇÃO – INTERESSE LOCAL-INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO- MANUTENÇÃO DA SENTENÇA -RECURSO DESPROVIDO.
+A Constituição Federal, em seu artigo 5o, inciso LXIX, garante a concessão de mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.
+A legislação municipal não negou vigência à legislação federal ou estadual editada sobre a matéria, uma vez que não houve proibição da aplicação do produto, estando autorizado o seu uso, mas apenas determinou a observância de certo distanciamento de moradias, nascentes e pomares, o que se mostra, de todo, plausível, e dentro da competência legislativa do município.
+Embargos de declaração rejeitados no id. 97843478.
+Nas razões do recurso, alega o recorrente, em síntese, violação aos artigos 489 e 1.022, I e II, ambos do CPC, ao argumento de que houve “omissão relativa a falta de exposição no v. acórdão de qual é, de forma técnica, o específico interesse local do Município de Nova Mutum ao restringir o uso dos herbicidas fabricados pela Recorrente – consequente prequestionamento dos arts. 23, VI, 24, VI e 30, I e II, todos da Constituição Federal e dos arts. 3o e 11 da Lei Federal no 7.802/89”, como também “obscuridade, pois o v. acórdão afirma que a Lei Municipal teria sido editada com base em interesse local do Município de proteger a saúde dos seus habitantes, dos produtores locais e para não contaminar o solo, ignorando que as leis federal e estadual que regulam a matéria não estabelecem qualquer restrição para sua aplicação – prequestionamento do art. 30, II da CF”.
+Sustenta ainda que houve violação ao disposto nos arts. 3o e 11 da Lei 7.802/89, uma vez que “considera fundamental registrar que o produto, sendo utilizado de acordo com as instruções de aplicação previstas em seu rótulo e inerentes a todo e qualquer herbicida, não afeta sua área verde, tampouco traz impactos ambientais”.
+Recurso tempestivo e devidamente preparado.
+Contrarrazões no id. 109372499.
+É o relatório.
+Decido.
+Não aplicação da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Violação ao artigo 1.022, incisos I e II, do CPC.
+Nas razões do recurso especial, o recorrente alega, primeiramente, violação aos artigos 489 e 1.022, I e II, ambos do CPC, ao argumento de que houve “omissão relativa a falta de exposição no v. acórdão de qual é, de forma técnica, o específico interesse local do Município de Nova Mutum ao restringir o uso dos herbicidas fabricados pela Recorrente – consequente prequestionamento dos arts. 23, VI, 24, VI e 30, I e II, todos da Constituição Federal e dos arts. 3o e 11 da Lei Federal no 7.802/89”, como também “obscuridade, pois o v. acórdão afirma que a Lei Municipal teria sido editada com base em interesse local do Município de proteger a saúde dos seus habitantes, dos produtores locais e para não contaminar o solo, ignorando que as leis federal e estadual que regulam a matéria não estabelecem qualquer restrição para sua aplicação – prequestionamento do art. 30, II da CF”.
+Pois bem, do exame do acórdão recorrido, verifica-se que a Câmara julgadora se manifestou de todos os argumentos deduzidos no processo capazes de infirmar a conclusão adotada, como se observa da transcrição abaixo (id. 90331452):
+“(...)Como se vê, uma vez que a Lei atacada regula o uso do herbicida em observância às particularidades locais, não há falar em invasão de competência.
+Quanto a isso, anoto que tais restrições encontram-se justificadas pelas especificidades locais, dentre as quais menciono a proteção do turismo em áreas verdes (art. 2o, § 1o) e a proteção à saúde dos habitantes, principalmente dos produtores rurais e aplicadores do herbicida, bem como a não contaminação do solo (art. 2o, § 2o e art. 3o e §§).
+Logo, na hipótese, a Lei Municipal questionada mostrou-se harmônica com as legislações federal e estadual e às peculiaridades locais, porque regulamenta e disciplina as regras de utilização do herbicida, não proibindo seu uso, mas apenas restringindo em determinado espaço territorial. Assim, não há falar em inconstitucionalidade da Lei e, consequentemente, de existência de direito líquido e certo da recorrente.
+No que se refere à tese recursal de que o produto não seria prejudicial ao solo, tenho que isso dependeria de produção probatória, para o que não há lugar no rito do mandado de segurança.
+Nesses termos, nego provimento ao recurso e mantenho incólume a sentença hostilizada.
+Como se vê o cerne quanto a estrapolação da competência de legislar, ou mesmo a sua contrariedade em relação a legislação Federal e Estadual foi fundamentada inclusive em jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça, ao contrário do que alega a embargante.
+O que o Embargante pretende, na realidade, é rediscutir/reexaminar a matéria, o que não é cabível em sede de Recurso de Embargos de Declaração, uma vez que os elementos para formação da convicção estão expressos no julgado.
+(...)
+Nesse norte, se não restou configurada qualquer omissão, obscuridade ou contradição no julgado, o improvimento do presente Recurso de Embargos de Declaração é medida que se impõe”.(sic.)
+Diante desse quadro, não há evidência de violação ao artigo 1.022, I e II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Violação de direito local (Súmula 280 do STF)
+Com base na interpretação do artigo 105, III, da CF, pode-se afirmar que o recurso especial tem como finalidade impugnar decisões que violem ou neguem vigência à lei federal, que julguem válido ato de governo local contestado em face de lei federal e quando houver divergência de interpretação da lei federal.
+No caso dos autos, a revisão pretendida pelo recorrente com base em suposta violação aos artigos 3o e 11 da Lei 7.802/89, extrapola as hipóteses de cabimento do recurso especial, porquanto depende do enfrentamento de direito local, qual seja, a Lei Complementar n.o 9, de 14 de dezembro de 2001 - No âmbito do Município de Nova Mutum, Estado de Mato Grosso.
+Assim sendo, por analogia, não é cabível recurso especial contra decisão judicial que viola direito local, consoante dispõe a Súmula 280/STF.
+Nesse sentido:
+“PROCESSUAL CIVIL E TRIBUTÁRIO. (...) INTERPRETAÇÃO DE LEI LOCAL. SÚMULA 280/STF. (...) 3. O exame da controvérsia demanda interpretação da Lei Municipal n. 3.895/2005, o que é inviável na via do recurso especial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual ‘Por ofensa a direito local não cabe recurso extraordinário’. Agravo regimental improvido”. (STJ AgRg no AREsp 622209/RJ, Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 19/02/2015).
+RECURSO EXTRAORDINÁRIO
+VISTOS.
+Trata-se de recurso extraordinário interposto por DOW AGROSCIENCES INDUSTRIAL LTDA, com fundamento no art. 102, III, alíneas “a”, “c” e “d”, da Constituição Federal, contra o acórdão proferido pela Segunda Câmara de Direito Público e Coletivo, que restou assim ementado:
+APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA - ALEGADA INCONSTITUCIONALIDADE DE LEI MUNICIPAL QUE RESTRINGIU O USO DE HERBICIDAS - IMPOSIÇÃO DE LIMITAÇÃO QUANTO À ÁREA E PERÍODO DE UTILIZAÇÃO – INTERESSE LOCAL-INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO- MANUTENÇÃO DA SENTENÇA -RECURSO DESPROVIDO.
+A Constituição Federal, em seu artigo 5o, inciso LXIX, garante a concessão de mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.
+A legislação municipal não negou vigência à legislação federal ou estadual editada sobre a matéria, uma vez que não houve proibição da aplicação do produto, estando autorizado o seu uso, mas apenas determinou a observância de certo distanciamento de moradias, nascentes e pomares, o que se mostra, de todo, plausível, e dentro da competência legislativa do município.
+Embargos de declaração rejeitados no id. 97843478.
+Nas razões do recurso, alega o recorrente, em síntese, violação ao artigo 93, inciso IX, da Constituição da República, ao argumento de que “apesar de o Acórdão mencionar em seu Relatório de forma genérica os fatos suscitados nos Embargos, as questões não foram efetivamente enfrentadas e decididas”.
+Alega ainda que “o v. acórdão violou os arts. 23, VI e VII, 24, VI, 30, I e II, da Constituição Federal, bem como julgou válida lei local contestada em face desta constituição e em face de lei federal (no 7.802/89)”.
+Recurso tempestivo e devidamente preparado.
+Contrarrazões no id. 109386951.
+É o relatório.
+Decido.
+Da sistemática de repercussão geral - Tema 339/STF.
+Consoante se verifica da tese recursal, a suposta violação ao artigo 93, IX, da CF, está amparada na alegação de que o acórdão recorrido foi deficiente em sua fundamentação, visto que: “(...)apesar de o Acórdão mencionar em seu Relatório de forma genérica os fatos suscitados nos Embargos, as questões não foram efetivamente enfrentadas e decididas”.
+Por sua vez, no julgamento do AI 791292 QO-RG/PE (Tema 339), o Supremo Tribunal Federal concluiu que a Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+Confira-se a ementa do julgado:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5o e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”. (AI 791292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, p. 113-118). (g.n)
+Nesse contexto, do exame do acórdão recorrido, verifica-se que o órgão fracionário deste Tribunal manifestou-se expressamente em relação à referida questão, o que está em consonância com o entendimento firmado no Supremo Tribunal Federal.
+Com efeito, constou do acórdão, in verbis:
+“(...)Como se vê, uma vez que a Lei atacada regula o uso do herbicida em observância às particularidades locais, não há falar em invasão de competência.
+Quanto a isso, anoto que tais restrições encontram-se justificadas pelas especificidades locais, dentre as quais menciono a proteção do turismo em áreas verdes (art. 2o, § 1o) e a proteção à saúde dos habitantes, principalmente dos produtores rurais e aplicadores do herbicida, bem como a não contaminação do solo (art. 2o, § 2o e art. 3o e §§).
+Logo, na hipótese, a Lei Municipal questionada mostrou-se harmônica com as legislações federal e estadual e às peculiaridades locais, porque regulamenta e disciplina as regras de utilização do herbicida, não proibindo seu uso, mas apenas restringindo em determinado espaço territorial. Assim, não há falar em inconstitucionalidade da Lei e, consequentemente, de existência de direito líquido e certo da recorrente.
+No que se refere à tese recursal de que o produto não seria prejudicial ao solo, tenho que isso dependeria de produção probatória, para o que não há lugar no rito do mandado de segurança.
+Nesses termos, nego provimento ao recurso e mantenho incólume a sentença hostilizada.
+Como se vê o cerne quanto a estrapolação da competência de legislar, ou mesmo a sua contrariedade em relação a legislação Federal e Estadual foi fundamentada inclusive em jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça, ao contrário do que alega a embargante.
+O que o Embargante pretende, na realidade, é rediscutir/reexaminar a matéria, o que não é cabível em sede de Recurso de Embargos de Declaração, uma vez que os elementos para formação da convicção estão expressos no julgado.
+(...)
+Nesse norte, se não restou configurada qualquer omissão, obscuridade ou contradição no julgado, o improvimento do presente Recurso de Embargos de Declaração é medida que se impõe”.(sic.)
+Denota-se, pois, que não há vício no acórdão ora embargado, porque houve fundamentação clara, estando o acórdão recorrido em conformidade com a orientação do STF, o que obsta o seguimento do recurso, por aplicação da sistemática de precedentes.
+Violação de direito local (Súmula 280 do STF)
+No caso dos autos, a revisão pretendida pelo recorrente com base em suposta violação aos artigos 23, VI e VII, 24, VI, 30, I e II, da Constituição Federal, extrapola as hipóteses de cabimento do recurso especial, porquanto depende do enfrentamento de direito local, qual seja, a Lei Complementar n.o 9, de 14 de dezembro de 2001 - No âmbito do Município de Nova Mutum, Estado de Mato Grosso.
+Assim sendo, não é cabível recurso extraordinário contra decisão judicial que viola direito local, consoante dispõe a Súmula 280/STF.
+Nesse sentido, confira-se:
+“1. Hipótese em que, para dissentir da conclusão do Tribunal de origem acerca do direito ao recebimento das vantagem pleiteada pela servidora pública, seriam necessárias a análise da legislação infraconstitucional pertinente e a reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280”. [RE 1.161.713 AgR, rel. min. Roberto Barroso, 1a T, j. 30-11-2018, DJE 263 de 7-12-2018.]
+“As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário.”[ARE 1.076.065 AgR, rel. min. Rosa Weber, 1a T, j. 01-12-2018, DJE 288 de 14-12-2017.]
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar demanda interpretação da legislação local, vedada está a análise da referida questão pelo STF, o que obsta a admissão recursal.
+Ante o exposto:
+a) nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+b) nego seguimento ao recurso extraordinário, com fundamento no artigo 1.030, I, “a”, do CPC, ante a aplicação do Tema 339/STF da sistemática de repercussão geral.
+Publique-se. Cumpra-se.
+Às providências.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
