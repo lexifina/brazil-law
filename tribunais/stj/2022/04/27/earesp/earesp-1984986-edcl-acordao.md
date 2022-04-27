@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, acolher os embargos declaração, sem efeitos modificativos, apenas para sanar a omissão quanto ao exame da aventada prescrição, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Olindo Menezes (Desembargador Convocado do TRF 1ªRegião), Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, João Otávio de Noronha e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. PRESCRIÇÃO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL. INTIMAÇÃO PARA INCLUSÃO EM PAUTA. INEXISTÊNCIA. EMBARGOS ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Inocorre a prescrição quando entre os marcos interruptivos não é ultrapassado o prazo prescricional para pena imposta em concreto, previsto no art. 109 do CP.
+2. No caso, os embargantes foram denunciados em 28/9/2016 e condenados ao cumprimento de 2 anos de reclusão, cuja sentença fio proferida em 30/5/2017. O prazo prescricional de 4 anos (art. 109, V, do CP), portanto, não foi ultrapassado entre a denúncia e a sentença. Também não o foi entre a sentença (30/5/2017) e o acórdão que a confirmou, exarado em 11/10/2018 e publicado em 16/10/2018; tampouco entre o acórdão e o último dia do prazo para interposição do especial - a interrupção do prazo prescricional deve retroagir quando o recurso não é admitido -, ocorrido em 2020.
+3. Esta Corte Superior possui pacífica jurisprudência, em matéria penal, na direção de não ser cabível prévia intimação para sessão de julgamento de agravo regimental, uma vez que esse recurso interno independe de inclusão em pauta (art. 258 do RISTJ).
+4. Embargos acolhidos, sem efeitos modificativos, apenas para sanar a omissão quanto ao exame da aventada prescrição.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+RENATO LUIDI DE SOUZA SOARES e GENILSON SOUZA ARAÚJO opõem embargos de declaração contra o acórdão de fls. 1.105-1.109, que negou provimento ao agravo regimental, nos termos desta ementa (fl. 1.105);
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PARADIGMA PROFERIDO EM HABEAS CORPUS. INVIABILIDADE. DIVERGÊNCIA NÃO CONFIGURADA. AGRAVO NÃO PROVIDO.
+1. É pacífico o entendimento desta Corte de que acórdãos proferidos em habeas corpus não servem para comprovação da divergência.
+2. Agravo regimental não provido.
+Em suas razões, afirma a defesa, em síntese, que o acórdão foi omissão ao não apreciar a alegação de ocorrência da prescrição retroativa, suscitada por meio da petição de fls. 1.101-1.102, apresentada após a interposição do agravo regimental.
+Além disso, assinala que "a intimação do julgamento não obedeceu o intervalo garantido pela Súmula 117 deste Egrégio Superior Tribunal de Justiça" (fl. 1.112) e que deveria haver um prazo de 5 dias, desde a intimação, para o julgamento do agravo regimental.
+Requer, assim, o reconhecimento da prescrição ou, subsidiariamente, seja realizado outro julgamento do agravo regimental, com o prazo de 5 dias entre a intimação e a sua apresentação em mesa.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. PRESCRIÇÃO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL. INTIMAÇÃO PARA INCLUSÃO EM PAUTA. INEXISTÊNCIA. EMBARGOS ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Inocorre a prescrição quando entre os marcos interruptivos não é ultrapassado o prazo prescricional para pena imposta em concreto, previsto no art. 109 do CP.
+2. No caso, os embargantes foram denunciados em 28/9/2016 e condenados ao cumprimento de 2 anos de reclusão, cuja sentença fio proferida em 30/5/2017. O prazo prescricional de 4 anos (art. 109, V, do CP), portanto, não foi ultrapassado entre a denúncia e a sentença. Também não o foi entre a sentença (30/5/2017) e o acórdão que a confirmou, exarado em 11/10/2018 e publicado em 16/10/2018; tampouco entre o acórdão e o último dia do prazo para interposição do especial - a interrupção do prazo prescricional deve retroagir quando o recurso não é admitido -, ocorrido em 2020.
+3. Esta Corte Superior possui pacífica jurisprudência, em matéria penal, na direção de não ser cabível prévia intimação para sessão de julgamento de agravo regimental, uma vez que esse recurso interno independe de inclusão em pauta (art. 258 do RISTJ).
+4. Embargos acolhidos, sem efeitos modificativos, apenas para sanar a omissão quanto ao exame da aventada prescrição.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+De início, em relação à omissão aventada, realço que se trata de questão nova, somente apresentada após a interposição do agravo regimental, por meio da petição de fls. 1.101-1.102. Assim, por se tratar de inovação, nem sequer poderia ser examinada; entretanto, levando-se em consideração que a prescrição é matéria de ordem pública, verificável a qualquer tempo, examino o pedido reiterado nesta oportunidade.
+Os embargantes foram denunciados em 28/9/2016 e condenados ao cumprimento de 2 anos de reclusão por meio de sentença proferida em 30/5/2017. O prazo prescricional de 4 anos (art. 109, V, do CP), portanto, não foi ultrapassado entre a denúncia e a sentença. Também não o foi entre a sentença (30/5/2017) e o acórdão que a confirmou, exarado em 11/10/2018 e publicado em 16/10/2018. Registro que o acórdão confirmatório também é causa interruptiva da prescrição, consoante jurisprudência pacificada desta Corte e do STF.
+E, por fim, entre o acórdão e o último dia do prazo para interposição do especial, ocorrido em 2020 - a interrupção do prazo prescricional deve retroagir quando o recurso não é admitido -, bem como até a presente data, também não houve o decurso do prazo de 4 anos. Logo, não há que se falar em ocorrência da prescrição da pretensão punitiva retroativa.
+No que tange ao prazo entre a intimação e a apresentação do feito em mesa, esta Corte Superior possui pacífica jurisprudência, em matéria penal, na direção de não ser cabível prévia intimação para sessão de julgamento de agravo regimental, uma vez que esse recurso interno independe de inclusão em pauta (art. 258 do RISTJ).
+À vista do exposto, acolho os embargos de declaração, sem efeitos modificativos, apenas para sanar a omissão quanto ao exame da aventada prescrição.
