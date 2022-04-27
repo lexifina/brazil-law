@@ -1,0 +1,56 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial n. 00029796820188110018
+RECORRENTES: J. CARLOS DA SILVA & CIA LTDA – ME
+JORGE CARLOS DA SILVA
+NEUZA APARECIDA DA SILVA
+RECORRIDO: ESTADO DE MATO GROSSO
+Vistos.
+Trata-se de recurso especial interposto por J. CARLOS DA SILVA & CIA LTDA – ME, JORGE CARLOS DA SILVA e NEUZA APARECIDA DA SILVA, com fundamento no artigo 105, inciso III, alínea “a” da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Público e Coletivo assim ementado (id. 112404459):
+“AGRAVO INTERNO - RECEBIMENTO DO APELAÇÃO CÍVEL – EMBARGOS A EXECUÇÃO – CUMPRIMENTO DOS REQUISITOS AUTORIZADORES A CITAÇÃO VIA EDITAL – ESGOTAMENTO DAS MODALIDADES DE CITAÇÃO.
+1. Nos termos da Súmula no 414 do Superior Tribunal de Justiça, a citação por edital na execução fiscal é cabível quando frustradas as demais modalidades (via carta e Oficial de Justiça).
+2. Agravo desprovido. Decisão mantida.
+(TJMT – Primeira Câmara de Direito Público – n. 00029796820188110018, Relator (a): DES. (A) MARIA EROTIDES KNEIP, j”. em 18/12/2021).”
+A parte recorrente alega violação aos artigos 239, 256 e 280, todos do CPC, bem como ao art. 8o da Lei n. 6.830/80, sob o fundamento de que a citação por edital ocorreu sem que fossem esgotadas todas as possibilidades de localização da parte recorrente.
+Recurso tempestivo (id. 116641473).
+Contrarrazões da parte recorrida (id. 122481362)
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+No caso, discute a parte recorrente a nulidade da citação por edital realizada nestes autos, por violação ao artigo 239, 256 e 280, todos do CPC, bem como ao art. 8o da Lei n. 6.830/80, sob a alegação de que a citação por edital constitui medida excepcional que só deverá ser tomada, caso se esgotem todas as outras possibilidades de localização do réu.
+A questão abordada encontra-se afetada pela sistemática de recursos repetitivos, razão pela qual se faz necessária a sua aplicação no caso.
+No julgamento do recurso paradigma (REsp n. 1.103.050/BA, Tema 102) o Superior Tribunal de Justiça concluiu que “a citação por edital na execução fiscal é cabível quando frustradas as demais modalidades”, conforme transcrição da ementa:
+“PROCESSO CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. CITAÇÃO POR EDITAL. CONDIÇÃO DE CABIMENTO: FRUSTRAÇÃO DAS DEMAIS MODALIDADES DE CITAÇÃO (POR CORREIO E POR OFICIAL DE JUSTIÇA). LEI 6830/80, ART. 8o.
+1. Segundo o art. 8o da Lei 6.830/30, a citação por edital, na execução fiscal,, somente é cabível quando não exitosas as outras modalidades de citação ali previstas: a citação por correio e a citação por Oficial de Justiça. Precedentes de ambas as Turmas do STJ.
+2. Recurso especial improvido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08.” (REsp 1103050/BA, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, julgado em 25/03/2009, DJe 06/04/2009)
+Por sua vez, o órgão fracionário deste Tribunal, entendeu, in verbis:
+Ao analisar o apelo verifica-se que foram cumpridos os requisitos necessários a realização da citação via edital, nos seguintes termos:
+“(...)
+Quanto à nulidade da citação por edital, o julgador singular bem situou a questão:
+In casu, verifica-se que a citação por edital foi usada considerando que o executado encontra-se em lugar desconhecido e incerto não tendo sido possível a localização, mesmo após diversas tentativas, para que fosse realizada sua citação pessoal. Por certo, como se extrai do mencionado dispositivo legal, a legislação vigente apenas admite a citação por edital em caso excepcional, como no dos autos, uma Vez que ora executado encontra-se em lugar incerto e não sabido, não havendo, ao menos, indícios do seu novo endereço. N50houve irregularidade na citação por edital, pois foi observado 0procedimentoprevistono artigo 256do código de processo Civil. Com efeito, apos a tentativa de citação pessoal nos endereços indicados, quanto o executado não foi encontrado, como se observa dos autos, a exequente solicitou a citação por edital, 0que lhe era licito fazer. Ademais, embora a curadora especial sustenta que a exequente não realizou outras diligencia, sequer indicou eventual endereço em que 0 executado poderia ser encontrado, 0 que revela a fragilidade da alegação formulada. Desta forma, a improcedência dos pedidos é medida que se impõe.
+Neste sentido:
+APELACAO CÍVEL - EMBARGOSA EXECUCAO — PRELIMINARES - NULIDADE DA CITACAO VIA EDITAL —CERCEAMENTO DE DEFESA — JULGAMENTO ANTECIPADO DA LIDE — AFASTADAS — MERITO — ALEGACAO DE FALTA DE LIQUIDEZ E EXIGIBILIDADE DO TÍTULO EXECUTIVO — ASSINATURAS DIVERGENTES - BOA FE DO CREDOR — SENTENÇA MANTIDA —RECURSO IMPROVIDO. Verificando-se que a parte demandada encontra—sem lugar incerto e não sabido, não há que se falar em nulidade da citação por edital. Estando efeito apto a receber julgamento antecipado, eis que presente a hipótese do art. 330, I, do CPC, não há necessidade de produção de provas em audiência, especialmente caso o magistrado considere que os pontos controvertidos encontram solução exclusivamente na prova técnica, sendo irrelevante, a prova oral. em tal situação, que se falar em cerceamento de defesa, devendo ser afastada a preliminar de nulidade da sentença aventada pela parte. O fato de os cheques terem sido devolvidos pelo banco sem compensação em razão da divergência ou insuficiência de assinatura não pode prejudicar a validade do título, que não foi obtido pelo credor deforma ilícita, mas de boa-fé.(TJ-MS - 00564581020128120001 MS 0056458-10.2012.8.12.0001, Relator: Claudionor Miguel Abss Duarte, Data de Julgamento: 22/04/2014, 4“ Cc‘: ara Cível, Data de Publicado: 24/04/2014) (grifei)
+III - DISPOSITIVO FORTE EM TAIS FUNDAMENTOS, julgo improcedente a pretensão deduzida nos embargos a execução pela embargante, reconhecendo a validade da citação por edital, extinguindo o processo com resolução de mérito, nos termos do art. 487, inc. 1, do NCPC.
+Segundo o art. 8o da Lei 6.830/30, a citação por edital, na execução fiscal, somente é cabível quando não exitosas as outras modalidades de citação ali previstas: a citação por correio e a citação por Oficial de Justiça.
+Ressalto que após, a tentativas de citação via correio e oficial de justiça restou certificado que não localizou o executado, também, pelo motivo, inexistência do número indicado.
+Desta forma, ante a não localização do devedor, a Fazenda Pública Estadual pleiteou a citação por edital.
+Com efeito, é cediço que a citação por edital na execução fiscal, somente é cabível quando inexitosas as outras modalidades de citação previstas no art. 8o da Lei de Execução Fiscal, e após esgotadas as tentativas de localização do Executado.
+Nesse sentido a jurisprudência vem se posicionando:
+“RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/15. AÇÃO MONITÓRIA. CITAÇÃO POR EDITAL. NECESSIDADE DE ESGOTAMENTO DE TODOS OS MEIOS DE LOCALIZAÇÃO DO RÉU. PESQUISA DO ENDEREÇO NOS CADASTROS DE ÓRGÃOS PÚBLICOS OU DE CONCESSIONÁRIAS DE SERVIÇOS PÚBLICOS. ART. 256, § 3o, DO CPC. NULIDADE PROCESSUAL CARACTERIZADA. 1. Controvérsia em torno da legalidade da citação do recorrente por edital. 2. O novo regramento processual civil, além de reproduzir a norma inserta no art. 231, II, do CPC/73, estabeleceu que o réu será considerado em local ignorado ou incerto se infrutíferas as tentativas de sua localização, inclusive mediante requisição pelo juízo de informações acerca de seu endereço nos cadastros de órgãos públicos ou de concessionárias de serviços públicos. 2. No caso, o fundamento utilizado pelo acórdão recorrido de inexistir comando legal impondo ao autor o dever de provocar o juízo no sentido de expedir ofícios a órgãos ou prestadores de serviços públicos a fim de localizar o réu não subsiste ante a regra expressa inserta no § 3o, do art. 256, do CPC. 3. RECURSO ESPECIAL PROVIDO PARA DECLARAR A NULIDADE DA CITAÇÃO POR EDITAL.” (STJ - REsp: 1828219 RO 2019/0217390-9, Relator: Ministro PAULO DE TARSO SANSEVERINO, Data de Julgamento: 03/09/2019, T3 - TERCEIRA TURMA, Data de Publicação: DJe 06/09/2019)
+“PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CITAÇÃO POR EDITAL. ESGOTAMENTO DOS MEIOS PARA A LOCALIZAÇÃO DO DEVEDOR. NECESSIDADE. REEXAME DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE. (...) 2. A Primeira Seção, por ocasião do julgamento do REsp 1.103.050/BA (repetitivo), firmou a orientação de que a citação por edital, por ser medida excepcional, somente é admitida depois de esgotadas as tentativas de localização do endereço do devedor, para fins de citação pessoal, pelos correios ou por oficial de justiça. (...)” (AgInt no AREsp 483.803/MG, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 18/09/2018, DJe 11/10/2018)
+O tema já foi até sumulado pela Corte de Justiça: Súmula 414: “A citação por edital na execução fiscal é cabível quando frustradas as demais modalidades.”
+Destarte, devidamente demonstrado que foram esgotadas as modalidades de citação para autorizar a citação por Edital deve ser mantida a validade da citação por edital.(...)
+Diante do exposto, nego provimento ao recurso de apelação, mantendo a sentença nos seus exatos termos.” (id. 96135996)
+Destaca-se que conforme decisão hostilizada restaram infrutíferas as tentativas de citação por AR e por oficial de Justiça, conforme se extrai da decisão recorrida, o que aponta pela regularidade da citação por Edital.
+Com a devida vênia, entendo que a decisão recorrida não está a merecer reparos, eis que, pelos documentos colacionados ao caderno processual, não é possível verificar qualquer vício na citação via edital invocada pela Recorrente.
+Dessa forma, a petição recursal, ora em análise, não trouxe qualquer argumento novo capaz de alterar o raciocínio acima destacado. Por essa razão, a decisão agravada deve permanecer incólume.
+Logo, no caso houve tentativas de citação antes de realizar a citação por meio do edital, por “AR” que restou infrutífera e por meio do oficial de justiça que também restou infrutífera.
+Diante disso, em análise ao acórdão recorrido, observa-se que este está em conformidade com a orientação do STJ, uma vez que, para este caso, ambos os Tribunais entenderam que, em sede de executivo fiscal, a citação por edital é válida quando exauridas todas as possibilidades de citação do executado, isto é, a citação por correio e a citação por Oficial de Justiça, em conformidade com a orientação paradigma estampada no Tema 102.
+Ressalta-se, ainda, que no julgamento do referido tema restou consignado que a citação por edital somente é cabível quando não exitosas as outras modalidades de citação ali previstas: a citação por correio e a citação por Oficial de Justiça, não colocando como requisito para sua realização que seja realizada buscas em órgãos junto aos serviços públicos ou outros meios de localização.
+Frente a isso, conforme disposição do art. 1.030, inciso I, alínea “b”, do CPC, é o caso de se negar seguimento ao recurso diante da sistemática de precedentes qualificados.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, I, “b” (sistemática de precedentes qualificados – Tema 102), do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
