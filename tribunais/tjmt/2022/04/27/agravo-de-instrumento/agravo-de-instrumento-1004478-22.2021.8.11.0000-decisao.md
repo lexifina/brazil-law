@@ -1,0 +1,56 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial no Agravo de Instrumento n. 1004478-22.2021.8.11.0000
+Recorrente: Produtividade Irrigação Comércio e Serviços Ltda.
+Recorrido: Savostian Reutow
+Vistos.
+Trata-se de recurso especial interposto por Produtividade Irrigação Comércio e Serviços Ltda., com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, em face do v. acórdão exarado pela Eg. Primeira Câmara de Direito Privado, assim ementado (id 100520996):
+“AGRAVO DE INSTRUMENTO – CUMPRIMENTO DE SENTENÇA – PRIMEIRA IMPUGNAÇÃO – ACOLHIMENTO – RECONHECIMENTO DE SUB-ROGAÇÃO – NECESSIDADE DE ABATIMENTO – REMESSA À CONTADORIA – ERRO DE CÁLCULO CONFIGURADO – EQUIVOCO QUANTO AO VALOR DE REFERÊNCIA – TEMPESTIVIDADE DA IMPUGNAÇÃO QUANTO AO CALCULO DA CONTADORIA – PRECLUSÃO NÃO CONFIGURADA – VEDAÇÃO AO ENRIQUECIMENTO INDEVIDO – DECISÃO REFORMADA – AGRAVO PROVIDO.
+Não há falar em preclusão quando existente erro de cálculo, baseado em valores não condizentes ao cumprimento de sentença, nem às decisões judiciais exaradas pelo Juízo singular, no que tange ao reconhecimento de abatimento e fixação de 10% desse novo valor, devendo-se corrigir o equívoco, sobretudo quando a impugnação em relação ao equívoco cometido pela contadoria foi arguida tempestivamente, a fim de coibir o enriquecimento indevido, daquele que deve arcar com a verba honorária de sucumbência”. (N.U 1004478-22.2021.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, SEBASTIAO BARBOSA FARIAS, Primeira Câmara de Direito Privado, Julgado em 31/08/2021, Publicado no DJE 03/09/2021).
+Opostos embargos de declaração, estes foram rejeitados no acórdão id 115975996.
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de agravo de instrumento proposto por Aníbal Francisco Carvalhal de Oliveira Junior, em face da face da decisão exarada pelo Juízo de Direito da 3a Vara Cível da Comarca de Primavera do Leste-MT que, nos autos do Cumprimento de Sentença na Ação Monitória n. 0001435-90.2015.8.11.0037 – Código n. 143572 – em face de Savostian Reutow, rejeitou a impugnação (id 44956206 – pág. 84) e homologou o cálculo da contadoria (id 44956206 – pág. 83), salientando-se que a fixação dos honorários em 10% sobre o valor executado, qual seja, R$ 101.221,74, transitou em julgado, operando-se a preclusão.
+A câmara julgadora deu provimento ao agravo para revogar a decisão que homologou os cálculos da contadoria e determinar que a base de cálculo para fixação do valor dos honorários advocatícios (10%) seja correspondente ao valor de 478.433,42 (quatrocentos e setenta e oito mil e quatrocentos e trinta e três reais e quarenta e dois centavos), devidamente atualizados. (id 100520996 - Pág. 6)
+A parte recorrente alega violação ao artigo 85, §§ 1o e 2o, do Código de Processo Civil, ao argumento de que o órgão julgador “revogou a decisão do juízo de piso, corrigiu um erro não existe e fixou os 10% de sucumbência sob o proveito econômico obtido por parte do executado, mas sem especificar proveito econômico”.
+Assevera que o “proveito econômico é um dos parâmetros que o juízo pode escolher para fixar honorários de sucumbência. Ocorre que o juízo de piso escolheu usar o valor da execução, o mesmo que valor da condenação, haja vista que o executado/recorrido foi condenado em pagar o valor que está descrito em fl. 185, no termo de sub-rogação, restando muito bem definido qual era o valor da execução”.
+Afirma que “o juízo de piso se manteve dentro do que prevê a Lei no momento em que decidiu por condenar o exequente ao pagamento de honorários advocatícios ao patrono do executado no percentual de 10% do valor da execução, portanto, valor da causa”.
+Recurso tempestivo (id 119963480) e preparado (id 122559471).
+Contrarrazões no id 118840960.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Consoante a previsão da Súmula 7 do STJ, em sede de recurso especial não é possível o exame de fatos e provas, pois segundo se depreende do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se exclusivamente à aplicação e à uniformização da interpretação das leis federais.
+In casu, a parte recorrente alega violação ao artigo 85, §§ 1o e 2o, do Código de Processo Civil, ao argumento de que o “proveito econômico é um dos parâmetros que o juízo pode escolher para fixar honorários de sucumbência. Ocorre que o juízo de piso escolheu usar o valor da execução, o mesmo que valor da condenação, haja vista que o executado/recorrido foi condenado em pagar o valor que está descrito em fl. 185, no termo de sub-rogação, restando muito bem definido qual era o valor da execução”.
+Afirma que “o juízo de piso se manteve dentro do que prevê a Lei no momento em que decidiu por condenar o exequente ao pagamento de honorários advocatícios ao patrono do executado no percentual de 10% do valor da execução, portanto, valor da causa”.
+Quanto a este ponto, no acórdão impugnado ficou consignado, in verbis:
+“Prosseguindo-se, tem-se que acerca do cumprimento de sentença foi oposta impugnação, pretendendo-se que o valor fosse reduzido, eis que defende a existência de excesso ao valor de 478.433,42.
+O Juízo ‘a quo’ acolheu a impugnação ao cumprimento de sentença, no que se refere ao excesso para determinar que o valor devido seja aquele pago no termo de sub-rogação de fls. 185, com as atualizações legais. (ID. Num. 80008956)
+Foram opostos Embargos de Declaração os quais foram acolhidos apenas para que fosse fixado o patamar de 10% sobre o valor executado, a título de honorários de sucumbência, em favor do patrono do impugnante/executado. (ID. Num. 80008958)
+Ocorre que a contadoria, ao efetivar os cálculos adotou valores equivocados, totalmente diversos dos valores propostos, adotando a base de cálculo de 127.272,22, quando na verdade foi considerado pelo Juízo ‘a quo’, o valor de R$ 478.433,42, reservando-se 10% desse valor ao advogado que obteve êxito na demanda.
+Assim, malgrado as alegações do Agravado, não há falar em preclusão, eis que não se discute, efetivamente, o percentual fixado a título de honorários advocatícios, sucumbenciais; mas sim o valor de referência para se chegar ao valor correspondente ao percentual, acrescentando-se que a impugnação ao cálculo da contadoria foi interposta tempestivamente, conforme certidão (ID. Num. Num. 80008961 - Pág. 458)
+Desse modo, acolher a tese de preclusão, no caso, certamente fere o princípio de vedação ao enriquecimento indevido, ressaltando-se que as exorbitâncias podem e devem ser discutidas até o recebimento da verba, desde que não afrontem à essência da determinação judicial, que aqui se posicionou acerca da viabilidade do cumprimento de sentença, no que tange à 478.433,42, destinando-se 10% deste valor ao patrono correspondente”. (id 100649487 - Pág. 4/5)
+Logo, para rever a conclusão adotada no acórdão recorrido sobre qual o critério adotado pelo Juízo de primeiro grau para a fixação da verba sucumbencial, imprescindível o reexame do quadro fático-probatório dos autos.
+Nesse sentido:
+“PROCESSUAL CIVIL. RECURSO ESPECIAL. POLÍTICA SALARIAL. REAJUSTES. EXECUÇÃO DENOMINADA INVERTIDA. DISCORDÂNCIA DA PARTE CREDORA. PROSSEGUIMENTO QUANTO AOS VALORES INCONTROVERSOS. INSTAURAÇÃO DE CUMPRIMENTO DE SENTENÇA RELATIVO AOS VALORES REMANESCENTES. INCIDÊNCIA DE HONORÁRIOS ADVOCATÍCIOS SOBRE A DIFERENÇA. PRETENSÃO DE REEXAME FÁTICO- PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA.
+1. Na origem, trata-se de ação promovida contra o Estado do Rio Grande do Sul, em que após o trânsito em julgado da ação de conhecimento julgada procedente, por não concordar com a denominada ‘execução invertida/cumprimento de sentença invertido’, a parte credora apresentou seu cumprimento de sentença, com cálculo próprio, consoante prevê o artigo 534 do Código de Processo Civil.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+3. A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pela decisão, não se traduz em maltrato às normas apontadas como violadas.
+4. A irresignação da parte recorrente acerca da fixação do valor dos honorários vai de encontro às convicções do julgador a quo, que fixou os honorários advocatícios sobre o montante controvertido no cumprimento de sentença.
+5. É firme a jurisprudência deste Superior Tribunal de Justiça no sentido de não ser possível, por meio de Recurso Especial, a revisão do critério de justiça e razoabilidade utilizado pelas instâncias ordinárias para fixação da verba advocatícia, por depender tal providência da reapreciação dos elementos fático-probatórios do caso concreto.
+6. Recurso Especial parcialmente conhecido, com relação à preliminar de violação do art. 1.022 do CPC/2015 e, nessa extensão, não provido”. (REsp 1793488/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/05/2019, DJe 29/05/2019). (g.n.)
+Por se tratar de pretensão de reanálise de fatos e provas, o exame do aventado dissídio jurisprudencial fica prejudicado, em virtude da incidência da Súmula 7/STJ.
+A propósito:
+“PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. POSSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(...)
+VII O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+(...)
+X Agravo Interno improvido”. (AgInt no REsp 1912960/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 29/03/2021, DJe 06/04/2021). [g.n.]
+Dessa forma, o recurso especial não alcança admissão neste ponto, em razão da inviabilidade de revisão do entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos.
+Ante o exposto, inadmito o recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
