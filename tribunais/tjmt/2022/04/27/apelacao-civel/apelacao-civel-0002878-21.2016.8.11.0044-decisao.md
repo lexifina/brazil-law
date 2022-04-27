@@ -1,0 +1,62 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 0002878-21.2016.8.11.0044
+Recorrente: Getúlio Gonçalves Viana
+Recorridos: José Carlos Siqueira Carvalho e João Carlos Adamo de Carvalho
+Vistos.
+Trata-se de recurso especial interposto por Getúlio Gonçalves Viana, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, em face do v. acórdão exarado pela Eg. Quarta Câmara de Direito Privado, assim ementado (id 113784458):
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE INTERDITO PROIBITÓRIO RECEBIDA COMO REINTEGRAÇÃO DE POSSE – ESBULHO CARACTERIZADO – EXTRAPOLAÇÃO DOS LIMITES DE MANDADO DE REINTEGRAÇÃO DE POSSE – INVASÃO DE ÁREAS CIRCUNVIZINHAS - PLANTIO DE MÁ-FÉ – PERDA DA SAFRA – ART. 1.255 DO CÓDIGO CIVIL – SENTENÇA DE IMPROCEDÊNCIA REFORMADA – RECURSO PROVIDO.
+1. Resta caracterizado o esbulho na hipótese em que o indivíduo beneficiado por mandado de reintegração de posse relativo a área rural de matrícula específica invade áreas contíguas de matrículas diversas, não abrangidas pela ordem judicial, e nelas realiza plantio.
+2. De acordo com o art. 1.255 do Código Civil, ao possuidor de má-fé não socorre o direito de manter ou ser ressarcido das plantações realizadas em terreno alheio”. (N.U 0002878-21.2016.8.11.0044, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, SERLY MARCONDES ALVES, Quarta Câmara de Direito Privado, Julgado em 15/12/2021, Publicado no DJE 24/01/2022).
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de apelação proposta por José Carlos Siqueira Carvalho e João Carlos Adamo de Carvalho, em face da sentença que, nos autos de ação de interdito proibitório recebida como ação de reintegração de posse, proposta em face de Getúlio Gonçalves Viana, julgou improcedentes os pedidos iniciais, revogando a liminar anteriormente deferida em favor dos requerentes e determinando a expedição de mandado de reintegração de posse em favor do requerido, assim como o depósito judicial da soja que os requerentes colheram na área litigiosa durante a vigência da liminar, em relação à qual eram fiéis depositários.
+A câmara julgadora deu provimento ao recurso para reformar a sentença e julgar procedentes os pedidos autorais, de forma a: (i) determinar a reintegração dos requerentes na posse dos imóveis relativos às matrículas 950, 2491 e 5557 do CRI de Paranatinga/MT, em conformidade com os respectivos registros cartorários; (ii) determinar a reversão definitiva, em favor dos requerentes, das sacas de soja que se encontram em poder dos fiéis depositários, e; (iii) condenar o requerido ao pagamento das custas e honorários de sucumbência, os quais arbitro em 10% sobre o valor do proveito econômico obtido pelos requerentes. (id 113784458 - Pág. 6)
+A parte recorrente alega violação ao artigo 1.210, § 2°, do Código Civil, ao argumento de que não houve invasão “de áreas agricultáveis que extrapolassem os limites do imóvel matriculado sob o n° 2.490, tendo procedido à reintegração da posse, por força da liminar conferida na Ação de Renovação Contratual de n. 1143-71.2016.8.11.0037, código no 161765, nos exatos termos da decisão judicial (objeto do REsp 1.922.174/MT)”.
+Suscita afronta ao artigo 1.255 do Código Civil, “em razão da indevida reversão, em favor dos Recorridos, das sacas de sojas colhidas na área objeto do litígio durante a vigência de liminar”.
+Recurso tempestivo (id 119065971) e preparado (id 118286974).
+Contrarrazões no id 121933455.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Consoante a previsão da Súmula 7 do STJ, em sede de recurso especial não é possível o exame de fatos e provas, pois segundo se depreende do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se exclusivamente à aplicação e à uniformização da interpretação das leis federais.
+A parte recorrente, por sua vez, alega violação ao artigo 1.210, § 2°, do Código Civil, amparada na assertiva de que “jamais invadiu as áreas alegadas pelos Recorrido porque sempre restringiu o plantio de soja à área efetivamente arrendada e reintegrada”.
+No entanto, neste ponto, constou do aresto impugnado, in verbis:
+“Superado esse obstáculo, a questão judicializada consiste em definir se o requerido, munido de mandado de reintegração de posse relativo a determinada área rural, ocupou áreas contíguas não abrangidas pela ordem judicial, configurando, assim, o esbulho alegado pelos requerentes.
+O arcabouço fático-probatório dá respaldo à tese autoral.
+Afinal, o mandado de reintegração de posse deferido nos autos de n. 1143- 71.2016.8.11.0037 foi claro ao definir o imóvel a ser reintegrado como aquele previsto no contrato de arrendamento celebrado entre o requerido e o primeiro requerente, José Carlos Siqueira, especificando que se tratava da área referente à ‘Fazenda Vista Alegre, matriculada no RGI de Paranatinga sob o n. 2.490’ (id. 104141989 – p. 36), abrangência esta reafirmada pela juíza condutora daquele processo, conforme decisão contida no id. 104141989 – p. 107, in verbis:
+‘Esta magistrada, atuando nesta data substituição neste Juízo, é quem também preside o processo n. 1143-71.2016.8.11.0037 (161765), em trâmite na 2a Vara de Primavera do Leste, e tem conhecimento de que o imóvel, cujo arrendamento foi prorrogado por força da liminar deferida nesses autos é o matriculado sob o n. 2490 do RGI de Paranatinga, portanto, área diversa da que é objeto deste interdito proibitório’.
+Assim, a decisão judicial não autorizou o requerido a empossar-se das áreas que entendesse mais adequadas para o cultivo de grãos ou já destinadas a essa finalidade, tampouco a assumir a posse de perímetro que, eventualmente, tenha ocupado em época pretérita, à revelia do objeto específico do contrato de arrendamento. O mandado dizia respeito à área prevista na matrícula de n. 2490, independentemente de qualquer ajuste ou ato administrativo não documentado no registro imobiliário.
+(...)
+Considerando que o requerido confessa a ocupação de área diversa daquela matriculada sob o n. 2490, objeto específico da liminar que legitimaria o exercício da posse , se limitando a alegar a existência de sobreposição não respaldada no registro imobiliário, bem como que a área da matrícula especificada no contrato de arrendamento nunca abrigou o plantio de culturas anuais na vigência do negócio (id. 104142953 – p. 25), questão estranha ao mandado de reintegração de posse, restou demonstrada a extrapolação dos limites da decisão judicial e o esbulho praticado sobre os imóveis circunvizinhos”. (id 113784458 - Pág. 3/5)
+Logo, para rever a conclusão adotada no acórdão recorrido sobre o esbulho possessório, imprescindível o reexame do quadro fático-probatório dos autos.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO REQUERIDO.
+1. Nas razões do recurso especial, o recorrente deixou de impugnar fundamento suficiente para amparar o acórdão recorrido, atraindo a incidência da Súmula 283 do STF. 2. No caso em tela, o Tribunal de origem, com base nas provas carreadas aos autos, concluiu estarem configurados os requisitos para a reintegração de posse, destacando o caráter precário da posse do requerido. Alterar tal conclusão demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo regimental desprovido”. (AgRg no AREsp 132.933/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/08/2017, DJe 18/08/2017).
+Igual entendimento é aplicado à alegada afronta ao artigo 1.255 do Código Civil, cuja controvérsia se refere à “reversão, em favor dos Recorridos, das sacas de sojas colhidas na área objeto do litígio durante a vigência de liminar”.
+O recorrente afirma, nesse ponto, que “quando da plantação dos grãos, portanto, o fez em absoluta boa-fé, acreditando estar plantando na área arrendada contratualmente”.
+O órgão fracionário, por sua vez, concluiu que “reconhecida a ilicitude da posse exercida pelo requerido, as sacas de soja colhidas na área litigiosa, que se encontram em poder dos requerentes na qualidade de fiéis depositários, deve se submeter à disciplina concedida pelo art. 1.255 do Código Civil ao plantio de má-fé, vício caracterizado pelo prévio conhecimento dos limites definidos no mandado de reintegração de posse”.
+Logo, necessário, igualmente, o revolvimento do quadro fático-probatório dos autos quanto a essa questão. Nesse sentido:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. INDENIZAÇÃO POR DANO MATERIAL E MORAL DECORRENTE DE REINTEGRAÇÃO DE POSSE. IMPROCEDÊNCIA DA AÇÃO. ACESSÃO. BOA-FÉ AFASTADA PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. SÚMULA 7/STJ. CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ. FUNDAMENTAÇÃO SUFICIENTE. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO (CPC/2015, ART. 1.029, § 1o). AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL IMPROVIDO.
+1. Não se verifica a alegada violação ao art. 489 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, os pontos essenciais ao deslinde da controvérsia.
+2. Estabelece o art. 1.255 do Código Civil que "aquele que semeia, planta ou edifica em terreno alheio perde, em proveito do proprietário, as sementes, plantas e construções; se procedeu de boa-fé, terá direito a indenização".
+3. No caso, as instâncias ordinárias, examinando as circunstâncias da causa, afastaram a boa-fé das autoras na ocupação do imóvel e consignaram, ademais, que não teriam comprovado os prejuízos alegados, julgando improcedentes os pedidos de indenização por acessão e por danos morais. A revisão desse entendimento exigiria o revolvimento de matéria fática, inviável em sede de recurso especial (Súmula 7/STJ).
+4. Para a caracterização da divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos arts. 1.029, § 1o, do CPC/2015 e 255, § 1o, do RISTJ.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial”. (AgInt no AREsp 1674660/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/10/2020, DJe 16/11/2020). (g.n.)
+Por se tratar de pretensão de reanálise de fatos e provas, o exame do aventado dissídio jurisprudencial fica prejudicado, em virtude da incidência da Súmula 7/STJ.
+A propósito:
+“PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. POSSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(...)
+VII O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+(...)
+X Agravo Interno improvido”. (AgInt no REsp 1912960/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 29/03/2021, DJe 06/04/2021). [g.n.]
+Dessa forma, o recurso especial não alcança admissão neste ponto, em razão da inviabilidade de revisão do entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos.
+Ante o exposto, inadmito o recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
