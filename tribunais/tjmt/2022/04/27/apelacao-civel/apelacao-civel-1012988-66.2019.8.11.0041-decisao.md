@@ -1,0 +1,50 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial interposto nos autos da Apelação Cível n. 1012988-66.2019.8.11.0041
+Recorrente: EXPEDITO NEVES DE SOUSA
+Recorrido: INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+Vistos.
+Trata-se de recurso especial interposto EXPEDITO NEVES DE SOUSA com fundamento no art. 105, III, “a” e “c”, da Constituição Federal, contra o acórdão proferido pela Segunda Câmara de Direito Público e Coletivo, assim ementado (id 86975965):
+“APELAÇÃO CÍVEL – AÇÃO DE CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO – SENTENÇA IMPROCEDENTE – INCONFORMISMO – REQUERIDA A CONCESSÃO DE AUXÍLIO-ACIDENTE – INVIABILIDADE – LAUDO PERICIAL CONCLUSIVO – INEXISTÊNCIA DE INCAPACIDADE LABORAL – NÃO PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 86 DA LEI No 8.213/1991 – ENTENDIMENTO JURISPRUDENCIAL DESTA CORTE DE JUSTIÇA – PEDIDO DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS E CONSECTÁRIOS LEGAIS PREJUDICADOS – SENTENÇA MANTIDA –ALMEJADO PREQUESTIONAMENTO DA MATÉRIA – IMPERTINÊNCIA – DESNECESSIDADE DE MENÇÃO EXPRESSA AOS ARTIGOS SUPOSTAMENTE VIOLADOS – RECURSO DESPROVIDO.
+1. Ausente a incapacidade laboral e verificado que o apelante pode desempenhar as atividades que habitualmente exercia, conforme atestado por laudo pericial oficial, evidencia-se o não preenchimento de um dos requisitos necessários à concessão do benefício de auxílio-acidente, nos termos do art. 86 da Lei 8.213/91.
+2. Mantida a sentença de improcedência, resta prejudicado os demais pedidos formulados pelo apelante, no que diz respeito à fixação dos honorários advocatícios e dos consectários legais atinentes ao pleito condenatório.
+3. Desnecessária a menção categórica aos artigos legais para o acesso às instâncias extraordinárias, quando apreciada a matéria pelo tribunal a quo.”
+Os embargos de declaração foram rejeitados conforme decisão proferida no id. 60422978.
+Inconformado, alega, em síntese, violação ao artigo 86, da Lei n. 8.213/91, ao argumento de que “(...) o acórdão Recorrido, ao decidir que o benefício de auxílio-acidente não pode ser concedido sem que haja a completa incapacidade para o trabalho, mesmo que exista lesão mínima em decorrência do acidente de qualquer natureza (acidente de trânsio), negou vigência ao caput do art. 86 da Lei 8.213/91, bem como, contrariou a jurisprudência pacífica do STJ”, devendo existir adequação ao tema 416 do STJ.
+Recurso tempestivo (id. 117153985) e recorrente beneficiário da justiça gratuita (id. 116959977).
+Sem contrarrazões (id. 124099093).
+É o relatório.
+Decido.
+Da inaplicabilidade do Tema 416 do STJ.
+A parte recorrente afirma que o acórdão deve ser adequado ao tema 416 do STJ.
+A respeito do tema, o Leading Case Resp n. 1.109.591/SC (Tema 416) fixou a seguinte tese: “Exige-se, para concessão do auxílio-acidente, a existência de lesão, decorrente de acidente do trabalho, que implique redução da capacidade para o labor habitualmente exercido. O nível do dano e, em consequência, o grau do maior esforço, não interferem na concessão do benefício, o qual será devido ainda que mínima a lesão”.
+Percebe-se que no julgamento em sede de recursos repetitivos foi fixada tese que se exige para a concessão de auxílio-acidente a existência de lesão que resulte em redução da capacidade laborativa da atividade habitualmente exercida, não importando a extensão da lesão, ou seja, a concessão do benefício caminha com a existência da redução.
+Logo, haverá a aplicação do tema em casos em que há divergência a respeito do requisito no acórdão, isto é, seja a concessão do benefício sem a redução da capacidade ou o afastamento do auxílio-acidente quando detectada redução da capacidade laborativa da atividade habitual do segurado.
+Delineado esse cenário, embora o v. acórdão tangencie o referido tema, não foi reconhecida qualquer redução da capacidade laborativa em relação à atividade habitual exercida pelo segurado, ainda que em extensão mínima, razão pela qual não há que se falar em sua aplicação ao caso.
+Ademais, não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ).
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação ao artigo 86, da Lei n. 8.213/91, está amparada no argumento de que “(...) as provas constantes nos autos são suficientes para caracterizar a demonstração da redução da capacidade laborativa da parte autora”.
+Por sua vez, o órgão fracionário decidiu o seguinte:
+“(...)
+Em exame, tem-se que o magistrado a quo, para formação de seu convencimento, utilizou o laudo realizado pelo perito nomeado judicialmente (id. 77374908), que concluiu que, conquanto o apelante apresentasse discreta perda de altura do corpo vertebral em razão do acidente de trânsito apontado (fratura da vertebra lombar – CID S32), não há incapacidade laborativa, podendo o recorrente, inclusive, continuar trabalhando na atividade que desempenhava/desempenha (mecânico).
+Diante disso, veio a pontuar o juízo de origem em sua decisão que “(...) a parte autora, a despeito de ter sofrido acidente, não teve qualquer redução de sua capacidade laboral, estando, inclusive, atualmente exercendo atividade regularmente (...) entendo que o autor não demonstrou o fato constitutivo de seu direito (art. 373, I, do Código de Processo Civil), ou seja, que obteve sua capacidade laboral reduzida (...) em razão do acidente ocorrido, razão pela qual não faz jus ao benefício previdenciário postulado (...)” (id. 77374938, sic).
+Como bem consignado, aludidas circunstâncias denotam a inviabilidade da concessão do benefício acidentário ora pleiteado, à vista do não preenchimento de um dos requisitos exigidos na legislação específica (art. 86 da Lei no 8.213/1991), de modo que a manutenção da sentença é medida que se impõe.” (g.n.) (id. 86975965)
+Logo, para rever o entendimento firmado no aresto recorrido sobre a inexistência de redução da capacidade laborativa, é necessário o reexame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme entendimento do Superior Tribunal de Justiça.
+“PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. REDUÇÃO DA CAPACIDADE LABORAL NÃO RECONHECIDO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. LAUDO PERICIAL. NÃO VINCULAÇÃO. LIVRE CONVENCIMENTO FUNDADO EM OUTROS MEIOS DE PROVA. POSSIBILIDADE. 1. Inviável a apreciação de ofensa a dispositivos constitucionais, uma vez que não cabe a esta Corte, em sede de recurso especial, o exame de matéria constitucional, cuja competência é reservada ao Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Carta Magna. 2. Quanto à concessão de auxílio doença, o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, ao negar provimento à apelação, entendeu descabida a concessão do auxílio-doença, diante da ausência de redução da capacidade laborativa. 3. Modificar o acórdão recorrido, como pretende a recorrente, no sentido de reconhecer a violação do art. 436 do CPC, bem como a redução da capacidade laboral, demandaria o reexame de todo o contexto fático-probatório dos autos. Incidência da Súmula 7/STJ. 4. É firme o entendimento desta Corte no sentido de que o laudo pericial não vincula a conclusão alcançada pelo juiz, que, pelo princípio do livre convencimento, está autorizado a reconhecer a incapacidade laborativa ou afastar o nexo causal, com base no conjunto probatório produzido nos autos. Precedentes. Agravo regimental improvido.” (STJ - AgRg no AREsp: 824108 SP 2015/0298944-4, Relator: Ministro HUMBERTO MARTINS, Data de Julgamento: 01/03/2016, T2 - SEGUNDA TURMA, Data de Publicação: DJe 08/03/2016) (g.n.)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V (Súmula 7 do STJ), do CPC.
+Intimem-se. Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
