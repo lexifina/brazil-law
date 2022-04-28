@@ -1,0 +1,57 @@
+DIREITO TRIBUTÁRIO. COBRANÇA DE TAXA EM RAZÃO DE CONTRATO CELEBRADO COM MÚSICO ESTRANGEIRO. LEI Nº 3.857/1960. INADMISSIBILIDADE DA COBRANÇA. TEMA Nº 738. APLICAÇÃO AO CASO. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO QUE SE NEGA SEGUIMENTO.
+
+    Vistos etc.
+
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal Regional Federal da 3ª Região, maneja agravo o Sindicato dos Músicos de São Paulo. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão.
+
+    Nas razões do extraordinário, com base no art. 102, III, da Lei Maior, alega devida a taxa cobrada em razão de contrato celebrado com músico estrangeiro, porquanto a exação possuiu natureza jurídica de contribuição social. Aparelhado o recurso na violação dos arts. 8º, III, e 149, § 4º, da Lei Maior.
+
+    É o relatório.
+
+    Decido.
+
+    Preenchidos os pressupostos extrínsecos.
+
+    A Sexta Turma do Tribunal Regional Federal da 3ª Região reformou a sentença e julgou indevida a cobrança tributária, visto que configurada violação ao livre exercício da profissão de músico. Da decisão proferida, interposto agravo interno, o qual foi desprovido. O acórdão está assim ementado:
+
+    “PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVOS INTERNOS. ART. 1.021, CPC. MANDADO DE SEGURANÇA. (1) EMBARGOS DE DECLARAÇÃO. PRECLUSÃO. NÃO CONHECIMENTO. (II) PEDIDO DE TUTELA DE URGÊNCIA CAUTELAR EM CARÁTER INCIDENTAL. COMPETÊNCIA. PROBABILIDADE DO DIREITO INVOCADO E PERIGO DE DANO COMPROVADOS. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. ARTIGOS 492 E SEGUINTES DO CPC/2015. INAPLICABILIDADE. CONCESSÃO DO PEDIDO. AGRAVOS INTERNOS DESPROVIDOS.
+
+    1. Da análise dos autos, verifica-se que foi impetrado mandado de segurança para afastar a exigência da taxa instituída pelo artigo 53da Lei n° 3.857/60, cobrada pela Ordem dos Músicos do Brasil (0MB) e pelo Sindicato dos Músicos Profissionais do Estado de São Paulo (SINDIMUSSP), sendo que esta Corte reformou a r. sentença que extinguiu o processo sem julgamento do mérito por ilegitimidade ativa, tendo dado provimento ao recurso de apelação da impetrante para reconhecer a inconstitucionalidade da referida taxa e conceder a segurança, conforme decisão monocrática proferida e acórdão que negou provimento ao agravo interno interposto em face da mencionada decisão monocrática, além de posterior acórdão que rejeitou embargos de declaração opostos, tendo sido opostos novos embargos de declaração pela Ordem dos Músicos do Brasil, que não foram conhecidos, estando o presente feito pendente da análise de agravo interno contra esta decisão que não conheceu dos embargos de declaração, bem como de agravos interpostos pelo SINDICATO DOS MÚSICOS PROFISSIONAIS DO ESTADO DE SÃO PAULO e por T4F ENTRETENIMENTO S/A contra decisão que concedeu a tutela de urgência cautelar em caráter incidental, já tendo sido juntado aos autos Recursos Especiais e Extraordinários interpostos pela Ordem dos Músicos do Brasil (0MB) e pelo Sindicato dos Músicos Profissionais do Estado de São Paulo (SINDIMUSSP).
+
+    2. As matérias suscitadas nos embargos de declaração opostos pela ORDEM DOS MÚSICOS DO BRASIL CONSELHO REGIONAL DE SÃO PAULO às fis. 1.697/1.839, quais sejam, omissões em relação à ausência de manifestação da Turma acerca da impossibilidade de classificação do tributo em comento como ‘taxa', bem como no que tange à completa falta de relação entre o entendimento firmado pelo STF no RE no 795.467 e o tributo em comento e ao não pronunciamento sobre a violação ao princípio da reciprocidade, além da existência de contradição, tendo em vista a violação ao princípio da presunção de constitucionalidade e legalidade das leis, tudo para fins de prequestionamento, restam preclusas por não ter a ora embargante impugnado oportunamente tais matérias.
+
+    3. De outra parte, é de ser mantida a decisão monocrática de fis. 1.938/1.940, proferida pela e. Desembargadora Federal Consuelo Yoshida em substituição regimental, que deferiu o pedido de tutela de urgência cautelar em caráter incidental formulado por T4F ENTRETENIMENTO S/A por seus próprios fundamentos.
+
+    4. Primeiramente, observa-se a competência deste Órgão Julgador para apreciação do pedido de tutela de urgência cautelar em caráter incidental, tendo em vista a pendência de análise de embargos de declaração opostos pela Ordem dos Músicos do Brasil quando da sua apresentação (fis. 1.697/1.711).
+
+    5. Nos termos do artigo 300 (tutela de urgência) do Código de Processo Civil de 2015: ‘A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo’.
+
+    6. Uma vez que esta Corte concedeu a segurança pleiteada, ou seja, reconheceu ser indevida a taxa instituída pelo artigo 53 da Lei n°3.857/60, cobrada pela Ordem dos Músicos do Brasil (0MB) epelo Sindicato dos Músicos Profissionais do Estado de São Paulo (SINDIMUSSP), estando o presente writ atualmente pendente de análise de embargos de declaração que, nos termos do artigo 1.026 do Código de Processo Civil, não possuem efeito suspensivo, a cobrança da referida taxa pelas autoridades coatoras caracterizado cumprimento de ordem judicial a caracterizar a probabilidade do direito invocado.
+
+    7. Ademais, restou demonstrado o perigo de dano, vez que a exigência da taxa afastada por esta Corte está impossibilitando a regularização do contrato firmado entre a impetrante e o mencionado músico internacional (Roger Waters), bem como a liberação para sua apresentação no Brasil nos dias 09 e 10 de outubro. 8. Incabível a expedição de oficio, com determinação descumprimento, à Coordenação Geral de Imigração - CGIg do Ministério do Trabalho, uma vez que não faz parte da lide.
+
+    9. As razões recursais não contrapõem tais fundamentos a ponto de demonstrar o desacerto dos decisum, limitando-se a reproduzir argumentos visando à rediscussão das matérias neles contidas.
+
+    10. Agravos internos desprovidos.”
+
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal. O Plenário desta Suprema Corte, no julgamento do RE 795.467-RG/SP, Rel. Min. Teori Zavascki, DJe 24.6.2014, ao reconhecer a repercussão geral da matéria, reafirmou a jurisprudência no sentido de que “(...) a atividade de músico é manifestação artística protegida pela garantia da liberdade de expressão, sendo, por isso, incompatível com a Constituição Federal de 1988 a exigência de inscrição na Ordem dos Músicos do Brasil, bem como de pagamento de anuidade, para o exercício de tal profissão” (RE 414.426, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe 10.10.2011), razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+
+    “DIREITO TRIBUTÁRIO. LEI Nº 3.857/1960. TAXA COBRADA EM RAZÃO DE CONTRATO CELEBRADO COM MÚSICO ESTRANGEIRO. INEXIGIBILIDADE. PRECEDENTES. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ART. 97 DA LEI MAIOR. RESERVA DE PLENÁRIO. VIOLAÇÃO NÃO OCORRENTE. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. 1. O entendimento da Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência predominante no Supremo Tribunal Federal, no sentido de que ‘a atividade de músico é manifestação artística protegida pela garantia da liberdade de expressão, sendo, por isso, incompatível com a Constituição Federal de 1988 a exigência de inscrição na Ordem dos Músicos do Brasil, bem como de pagamento de anuidade, para o exercício de tal profissão’ (RE 795.467-RG/SP, Rel. Min. Teori Zavascki, DJe 24.6.2014). Inexigibilidade da Taxa cobrada em razão de contrato celebrado com músico estrangeiro. Precedentes. 2. O Plenário desta Suprema Corte, ao julgamento da ADI 2/DF, Rel. Min. Paulo Brossard, Tribunal Pleno, decidiu que o exame da compatibilidade de legislação pré-constitucional com a nova Carta não se confunde com a declaração de constitucionalidade ou inconstitucionalidade, pois se traduz em juízo de recepção ou não-recepção, razão pela qual não se vislumbra a alegada ofensa ao art. 97 da CF/1988 ou à Súmula Vinculante nº 10/STF. 3. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. Agravo interno conhecido e não provido. 5. A teor do art. 85, § 11, do CPC/2015, o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento” (RE 1276783 AgR, da minha lavra, Primeira Turma, DJe 03.12.2021).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. LEI Nº 3.857/60. TAXA COBRADA EM RAZÃO DE CONTRATO CELEBRADO COM MÚSICO ESTRANGEIRO. INEXIGIBILIDADE. PRECEDENTES. 1. No julgamento do RE 795.467-RG/SP, Rel. Min. Teori Zavascki, DJe 24.06.14, esta Corte assentou que a atividade de músico é manifestação artística protegida pela garantia da liberdade de expressão, sendo, por isso, incompatível com a Constituição Federal de 1988 a exigência de inscrição na Ordem dos Músicos do Brasil, bem como de pagamento de anuidade, para o exercício de tal profissão. 2. In casu, o acórdão ora impugnado está em consonância com a diretriz jurisprudencial que esta Suprema Corte estabeleceu quanto à matéria, no sentido da inexigibilidade do pagamento da taxa de 10% determinada no artigo 53 da Lei nº 3.857/60 em virtude da garantia da liberdade de profissão e de expressão artística. 3. Agravo regimental a que se nega provimento” (ARE 1239646 AgR, Relator(a): Edson Fachin, Segunda Turma, DJe13.8.2020).
+
+    “Agravo regimental em recurso extraordinário. 2. Direito Tributário. 3. Taxa cobrada em razão de contrato celebrado com músico estrangeiro. Inexigibilidade. Ausência do fato gerador da taxa, a saber, o exercício do poder de polícia ou a utilização de serviço público específico e divisível. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Negado provimento ao agravo regimental, sem majoração da verba honorária, em razão de se tratar de mandado de segurança” (RE 1246804 AgR, Relator(a): Gilmar Mendes, Segunda Turma, DJe 11.12.2020).
+
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+
+    Nego seguimento (art. 21, § 1º, do RISTF). Honorários advocatícios majorados em 10% (dez por cento), em desfavor da parte recorrente, caso fixada a verba honorária na origem, observados os limites previstos nos §§ 2º, 3º e 11 do art. 85 do CPC/2015, bem como a eventual concessão do benefício da gratuidade da Justiça.
+
+    Publique-se.
+
+    Brasília, 28 de abril de 2022.
+
+Ministra Rosa Weber
+
+Relatora
