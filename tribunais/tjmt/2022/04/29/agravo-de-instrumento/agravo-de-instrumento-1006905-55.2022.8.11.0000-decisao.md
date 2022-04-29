@@ -1,0 +1,40 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO N. 1006905-55.2022.8.11.0000
+AGRAVANTE: JOSÉ CANUTIO FONTES
+AGRAVADO: BANCO BRADESCO S.A.
+Vistos.
+Trata-se de recurso de agravo de instrumento, com pedido de efeito suspensivo, interposto pelo JOSÉ CANUTIO FONTES, em face da decisão interlocutória proferida pelo MM. Juiz de Direito da 2a Vara Cível da Comarca de Várzea Grande/MT, Dr. André Mauricio Lopes Prioli, lançada nos autos da Ação de Indenização de Danos Morais e Materiais com Declaração de Inexistência de Débitos e Pedido Liminar no. 1003368-45.2022.8.11.0002, proposta em face do BANCO BRADESCO S.A., que indeferiu a tutela de urgência concernente à suspensão de descontos no benefício previdenciário do agravante, referentes a suposto empréstimo consignado.
+Nas razões recursais o agravante sustenta que é correntista do banco requerido por meio da conta corrente n° 0003222-0, Agência no 1263 que se destina a receber os proventos de sua aposentadoria, e em 10 de janeiro de 2022 tomou ciência de que teria apanhado empréstimos realizados em 21/12/2021 no valor de R$ 2.000,00 (dois mil reais) e outro no dia 24/12/2021 no valor de R$ 5.864,69 (cinco mil oitocentos e sessenta e quatro reais e sessenta e nove centavos).
+Afirma que, na ocasião seu filho Jefferson Matheus de Souza Fontes teria recebido um PIX com parte desses valores e os outros recebidos por Franciely Sales da Costa (pessoa desconhecida pelo autor) e Laurilina Batista Leite (namorada do filho), entretanto nunca passou a senha de seu aplicativo a ninguém e não sabe dizer como seu filho obteve a senha.
+Esclarece que pugnou pelo cancelamento/baixa do empréstimo por ser fruto de fraude, entretanto a requerida se negou a efetuar o cancelamento dos empréstimos consignados deduzindo a primeira parcela dos empréstimos referente a janeiro/2022 reduzindo o saldo de aposentadoria do autor a importância de R$ 733,00 (setecentos e trinta e três reais).
+Discorre que “a todos os fatos narrados é que se deslumbra a necessidade da determinação a suspensão da cobrança/exigibilidade do contrato de empréstimos/consignação, até que sejam analisadas a regularidade das cobranças que deram origem a tal instrumento” (sic).
+Anota que o juízo “a quo” não se atentou para as parcelas de deduções apresentadas a serem deduzidas do seu salário dos dois empréstimos indevidos, que são capazes de reduzir a já parca aposentadoria do agravante ao valor de R$ 538,36 (quinhentos e trinta e oito e trinta e seis centavos).
+A par desses argumentos, invocando a presença dos pressupostos legais, pede pela concessão do efeito suspensivo ao recurso, e no mérito, pelo provimento deste instrumento.
+Isento de preparo, conforme certidão de Id. 124504181.
+É o relatório.
+Decido.
+Por tempestivo e próprio, recebo o recurso na forma dos artigos 1.015, inc. I c/c 1.017 do Código de Processo Civil.
+Consoante parágrafo único do art. 995 do CPC, “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Na espécie dos autos, atenta ao expendido na exordial, ao exame da documentação acostada em juízo provisório e nos estritos limites da cognição sumária permitida a esta fase processual, verifico que não restaram configurados os pressupostos autorizativos para a concessão da medida pleiteada.
+Eis o teor da decisão recorrida, na parte que interessa a análise neste momento:
+“(...) Analisando os autos, verifica-se que a parte autora reconhece que foi vítima de fraude, bem assim que o valor dos empréstimos depositado em sua conta foi transferido para conta de seu filho e de terceiros, logo, se faz necessário a instauração do contraditório e a averiguação da culpa e do nexo de causalidade entre o comportamento das partes e o resultado.
+De tal modo, não se vislumbrar a presença dos pressupostos para a concessão da medida pleiteada exigidos pelo art. 300, do CPC, não sendo os elementos suficientes, por ora, ao deferimento da medida pretendida.
+Ademais, só deve ser admitida a concessão de tutela antecipada sem a oitiva da parte contrária se a resposta do réu puder comprometer a própria efetividade da tutela urgente, o que não acontece no caso concreto, pelo contrário, oportunizar o contraditório é importante para se apurar a verdade sobre todo o ocorrido (art. 9o do CPC).
+Portanto, a constatação da veracidade dos fatos narrados na exordial, está condicionado à produção de provas e ao crivo do contraditório.
+Ante o exposto, e por tudo mais que dos autos consta, INDEFIRO A TUTELA DE URGÊNCIA pleiteada pela parte autora, pois ausentes elementos que evidenciem a probabilidade do direito.” (...) (Id. 80009925 – autos de origem).
+A princípio, não há indicativos de que a decisão agravada padece de qualquer ilegalidade/irregularidade, uma vez que os documentos até então apresentados não dão conta de qualquer fraude.
+Necessário, portanto, ao menos o contraditório e eventuais documentos apresentados pelo agravado para se chegar a uma conclusão a respeito da suposta irregularidade nos empréstimos feitos por meio do benefício previdenciário do recorrente.
+Embora a parte agravante não reconheça a contratação e a legitimidade dos descontos, tendo inclusive registrado boletim de ocorrência a fim de se apurar eventual ilícito perpetrado em seu desfavor, não se observa, desde logo a probabilidade de provimento do recurso.
+A esse respeito, os seguintes julgados:
+“AGRAVO DE INSTRUMENTO – AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO – NEGATIVA DE CELEBRAÇÃO DE CONTRATO DE CARTÃO DE CRÉDITO CONSIGNADO – INDEFERIMENTO DO PEDIDO DE ANTECIPAÇÃO DA TUTELA PARA ORDENAR SUSPENSÃO DE DESCONTOS NO BENEFÍCIO PREVIDENCIÁRIO DO AUTOR – AUSÊNCIA DE MÍNIMO SUBSTRATO PROBATÓRIO – DECISÃO MANTIDA – RECURSO DESPROVIDO.
+1. É inquestionável que entre correntista e intuição bancária vigora relação de natureza consumerista, regulamentada, portanto, pelas normas do Código de Defesa do Consumidor (STJ, Súmula no 297), que, entre outras garantias processuais, comtempla o consumidor hipossuficiente com a inversão do ônus probatório em desfavor do fornecedor (CDC, art. 6o, VIII), o que, no entanto, não significa isenção da responsabilidade de comprovar os fatos constitutivos do seu direito (CPC, art. 373, I), mas sim mecanismo de facilitação da defesa de seu direito em Juízo.
+2. A concessão de antecipação de tutela para suspender os descontos realizados na folha de pagamento da parte depende de suficiente comprovação da alegada inexistência do débito.” (AI 1015440-07.2021.8.11.0000, RELATOR: DES. JOÃO FERREIRA FILHO, Primeira Câmara de Direito Privado, Julgado em 22/03/2022, Publicado no DJE 04/04/2022) (sem destaques no original).
+“AGRAVO DE INSTRUMENTO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANOS MORAIS – PEDIDO DE SUSPENSÃO DE DESCONTOS CONSIGNADOS E CONSIGNAÇÃO EM JUÍZO - ANTECIPAÇÃO DE TUTELA INDEFERIDA - NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 300 DO CPC – RECURSO NÃO PROVIDO.
+É inviável a concessão de tutela de urgência se não demonstrado de forma contundente o preenchimento dos requisitos do art. 300 do CPC” (TJMT – 4a Câmara de Direito Privado – RAI 1006175-78.2021.8.11.0000 – Rel. Des. RUBENS DE OLIVEIRA SANTOS FILHO – j. 23/06/2021, Publicado no DJE 24/06/2021) (sem destaques no original).
+Da mesma forma, ausente o perigo de dano ao resultado útil do processo, em se aguardar até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será apresentado na contraminuta, possa decidir com segurança, sobre o mérito do recurso.
+Diante do exposto, NÃO CONCEDO o almejado efeito suspensivo.
+Intime-se o agravado para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá-MT, 29 de abril de 2022.
+Desa. Antônia Siqueira Gonçalves
+Relatora
