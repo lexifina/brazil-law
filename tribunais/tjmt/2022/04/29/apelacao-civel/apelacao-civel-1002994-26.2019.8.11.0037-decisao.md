@@ -1,0 +1,78 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial na Apelação Cível no 1002994-26.2019.811.0037
+Recorrente: ENERGISA MATO GROSSO DISTRIBUIDORA DE ENERGIA S/A
+Recorrida: RIVA E VARGAS LTDA – ME
+Vistos.
+Trata-se de recurso especial (id. 122208479) interposto por ENERGISA MATO GROSSO DISTRIBUIDORA DE ENERGIA S/A, com fundamento no art. 105, III, alínea “a” e “c”, da Constituição Federal, contra acórdão da Terceira Câmara de Direito Privado deste Sodalício, que deu parcial provimento ao seu recurso apelação cível, conforme a seguinte ementa (id. 111541468):
+“DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO – ENERGIA ELÉTRICA – DÉBITO APURADO UNILATERALMENTE PELA CONCESSIONÁRIA – IRREGULARIDADE NO MEDIDOR – PROVA INSUFICIENTE DA ALEGADA FRAUDE E PROVEITO ECONÔMICO – CULPA DO CONSUMIDOR NÃO EVIDENCIADA – ILEGALIDADE DA COBRANÇA – DÍVIDA INEXIGÍVEL – VERBA HONORÁRIA SUCUMBENCIAL – FIXAÇÃO COM BASE NO PROVEITO ECONÔMICO – ORDEM DE PREFERÊNCIA – ART. 85, § 2o, DO CPC – SENTENÇA REFORMADA EM PARTE – RECURSO PARCIALMENTE PROVIDO.
+Ao elaborar o laudo pericial do medidor de energia elétrica, ou mesmo realizar a vistoria e adotar procedimento na unidade consumidora, devem ser respeitadas as garantias constitucionais da ampla defesa e do contraditório, sob pena de nulidade, sobretudo quando gerador de fatura com cobrança excessiva, tornando-se impositiva a declaração de inexigibilidade do débito.
+A Segunda Seção do c. STJ ao apreciar o tema afeto a ordem de preferência para arbitrar honorários sucumbenciais – que foi abordado no julgamento do REsp n. 1.746.072/PR, fixou orientação de que primeiro deve ser considerado a condenação e, não havendo condenação, sobre o proveito econômico obtido pelo vencedor e, não sendo possível mensurá-lo, sobre o valor atualizado da causa e, por fim, havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa. (RAC n° 1002994-26.2019.811.0037, Rel. CARLOS ALBERTO ALVES DA ROCHA, TERCEIRA CÂMARA DE DIREITO PRIVADO, j. em 01/12/2021)”.
+Interpostos embargos de declaração, estes foram rejeitados conforme acórdão lançado no id. 119613960.
+A recorrente sustenta em suas razões as seguintes violações:
+(i) aos arts. 129; 130 e 133, da Res. 414/10 – ANEEL, ao argumento de validade dos procedimentos impostos pela agencia reguladora.
+(ii) ao art. 188, I do CC; ao argumento de que a inscrição do nome do consumidor nos órgãos de proteção ao crédito se deu em virtude de inadimplência.
+(iii) aos arts. 2°; 3° e 6°, VIII, do CDC; ao fundamento de que no caso não há falar-se em relação de consumo, eis que a recorrida se trata de empresa insumidora de energia elétrica.
+(iv) existência de divergência jurisprudencial.
+Recurso tempestivo (id. 122328451).
+Preparado (id. 122218475).
+Contrarrazões (id. 124983699).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+A hipótese prevista no art. 105, III, letra “a” e “c” da Constituição Federal prescreve a apreciação, pelo STJ, de recurso especial oposto contra acórdão que, em única ou última instância, tenha contrariado lei federal ou negado sua vigência (“a”) e der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal (“c”).
+Entretanto, em que pesem as argumentações da recorrente, o recurso não pode alcançar o normal seguimento.
+Ofensa à Resolução – via inadequada.
+Especificamente quanto a alegada ofensa aos arts. 129; 130 e 133, da Resolução n° 414/2010 ANEEL, registre-se apenas que via do recurso especial não se mostra adequada para tanto, já que a alegado ato normativo não esta abarcado no conceito de lei federal a que alude o art. 105, III, “a” da CF/88. Nesse sentido:
+“PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. DEMANDA COMPLEMENTAR. INVIABILIDADE DE INCURSÃO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS E NO CONTRATO FIRMADO. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. RESOLUÇÃO 414 DA ANEEL. O RECURSO ESPECIAL NÃO CONSTITUI VIA ADEQUADA PARA A ANÁLISE DE EVENTUAL OFENSA A RESOLUÇÕES. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO. (...) 3. Ressalta-se, ademais, que o Tribunal de origem amparou sua decisão na Resolução 414 da ANEEL e, conforme entendimento jurisprudencial do STJ, o Recurso Especial não constitui via adequada para a análise de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão lei federal, constante da alínea a do inciso III do art. 105 da Constituição Federal (AgInt no REsp. 1.613.115/RJ, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 17.6.2020). 4. Agravo Interno do Particular a que se nega provimento. (AgInt no AREsp 1244288/MS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, j. em 16/11/2020, DJe 19/11/2020)” (grifei).
+Assim, fica obstada a possibilidade de seguimento do recurso nesse ponto.
+Do Prequestionamento (Súmulas 211/STJ e 282/STF)
+Ao interpor o recurso especial a recorrente pretende submeter ao crivo do STJ matéria que, a despeito de seu inconformismo, não foi analisada pelo acórdão hostilizado.
+Para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última Instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi da Súmula 282 do STF.
+No caso, o acórdão não adentrou na análise da questão de a recorrida se tratar (ou não) de insumidora de energia elétrica. Assim, se a tese suscitada não foi sequer debatida nos autos fica obstado o juízo positivo de admissibilidade, a inteiro teor do que dispõe a Súmula 211/STJ e 282/STF (também aplicável à esta via recursal):
+“Súmula 282/STF. É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”.
+“Súmula 211/STJ. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal de origem”.
+A propósito, nesse sentido:
+“A simples oposição dos embargos de declaração, visando à manifestação da Corte sobre o conteúdo de determinado dispositivo legal, não supre o requisito do prequestionamento quando não há o debate do tema controvertido, consoante a inteligência da Súmula 211 do STJ (AgInt no REsp 1715878/DF, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, j. em 24/08/2020, DJe 31/08/2020)” (grifei).
+Dessa forma, tem-se que a alegada ofensa aos arts. 2°; 3° e 6°, VIII, do CDC (nesse ponto) suscitada pela recorrente não foi debatida e decidida pelo acórdão deste Sodalício, carecendo, pois, de prequestionamento, nos termos das Súmulas 211 do STJ e 282 do STF.
+Em casos tais, e entendendo a parte recorrente que persiste eventual omissão no julgado, é imprescindível que em razões de recurso especial se indique a negativa de vigência ao art. 1.022 do CPC; única forma, pois, do Tribunal “ad quem” verificar a questão. A propósito, nesse sentido:
+“[...] Não se reconhece o prequestionamento pela simples oposição de embargos de declaração, de modo que, persistindo a omissão, é necessário interpor recurso especial por afronta ao art. 1.022 do Código de Processo Civil de 2015, sob pena de perseverar o óbice da ausência de prequestionamento. (AgInt no AREsp 1420454/RN, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, j. em 18/02/2020, DJe 03/03/2020)” (grifei).
+Diante desse quadro, o presente recurso não alcança o juízo positivo de admissibilidade pelo aos arts. 2°; 3° e 6°, VIII, do CDC.
+Do reexame de matéria fática (Súmula 07 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não se mostrando possível que se examine matéria fático-probatória, ante o teor da Súmula 07 do STJ:
+“Súmula 07/STJ. A pretensão de simples reexame de prova não enseja recurso especial”.
+Afere-se que o presente recurso almeja o reconhecimento da legalidade dos débitos cobrados da recorrida na origem, a luz do conteúdo probatório constante dos autos e, via de consequência, validando o exercício regular do direito da recorrente.
+Ao decidir a questão, o acórdão concluiu à luz do conjunto probatório, pela impossibilidade de cobrança e abuso de poder da apelante, assim consignando:
+“Extrai-se da apurada análise dos autos, que a distribuidora de energia ao constatar a suposta fraude no medidor, a despeito da alegação de não ter imputado a autoria da irregularidade à titular da unidade, não comprovou qualquer ato que pudesse ter origem na esfera do consumidor.
+Digo isso, porque a apelante deixou de observar o princípio da ampla defesa e do contraditório durante os procedimentos utilizados para a constatação do alegado vício, tornando com isso ilegal a cobrança do débito correlato.
+Conforme bem pontuado pela d. magistrada sentenciante, a despeito da comunicação encaminhada à apelada acerca da perícia a ser realizada, nota-se que a data constante do laudo (11.01.2019 – id. 97955952, fl. 4), não coincide com a data apontada no Termo de Ocorrência e Inspeção para a análise técnica em laboratório (26.12.18 – id. 97955960, fl.2), inviabilizando, por certo, qualquer elaboração de defesa ou acompanhamento ao ato.
+[...]
+In casu, conclui-se pela hipossuficiência da apelada, eis que está em posição desvantajosa perante a apelante, em especial às condições de produzir prova técnica, razão pela qual é devida a inversão, com o intuito de promover o equilíbrio entre as partes.
+[...]
+Sendo assim, diferente do que aduz a apelante, no caso dos autos não há como sustentar a legalidade do procedimento adotado ou o exercício regular de direito, uma vez que os atos que praticou afrontaram os direitos do consumidor.
+Nesse norte, Nelson Nery Junior e Rosa Maria de Andrade Nery, ao comentarem o inc. I, do art. 188, do C. Civil, afirmam, verbis:
+“Art. 188. I - 6. Exercício regular de direito. É a utilização do direito sem invadir a esfera do direito de outrem. É não prejudicar o direito de outrem, independentemente de causar dano. Só exerce regularmente seu direito aquele que não prejudica direito de outrem.” (Código civil Comentado, 7a Ed., São Paulo: Editora Revista dos Tribunais, 2009 – negritei).
+Por conseguinte, resta patente o abuso de poder da apelante, ao adotar os procedimentos hostilizados e tomar medidas para realizar as vistorias de forma unilateral, culminando nos lançamentos de dívidas corretamente declaradas inexistentes”. (grifei)
+Portanto, a alegada violação ao art. 188, do CC demonstra o nítido interesse da recorrente em reverter o julgado ao seu favor, mormente quando há simples argumento de inexistência de ato ilícito e exercício regular do direito, ao passo que o acórdão retrata de forma segura o contrário disso.
+Rever o entendimento firmado no acórdão demandaria o necessário ingresso em premissas fático-probatória dos autos, o que atrai por si só o óbice sumular acima mencionado. A propósito:
+“PROCESSUAL CIVIL. ADMINISTRATIVO. FORNECIMENTO DE ENERGIA ELÉTRICA. IRREGULARIDADE NA MEDIÇÃO DO CONSUMO. INVERSÃO DO ÔNUS DA PROVA. REVISÃO. IMPOSSIBILIDADE. I - Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que as provas colacionadas não foram suficientes a comprovar a ocorrência da validade da medição. Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em recurso especial. Enunciado n. 7 da Súmula do STJ. II - Agravo interno improvido. (AgInt no AREsp 1012467/SE, Rel. Min.FRANCISCO FALCÃO, SEGUNDA TURMA, j. em 15/08/2017, DJe 21/08/2017)” (grifei).
+“AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ATO ILÍCITO. COMPROVAÇÃO. REEXAME. SÚMULA 7/STJ. ÔNUS DA PROVA. SÚMULA No 7 DO STJ. DANO MORAL. COMPENSAÇÃO. RAZOABILIDADE. SÚMULA 7/STJ. (...) 2. Derruir a conclusão a que chegou o Tribunal a quo no sentido de que não restou comprovado o exercício regular de direito e de que houve a efetiva comprovação do ato ilícito, demandaria revolvimento de fatos e provas o que é vedado ante o enunciado da Súmula 7 do STJ. (...) 5. Agravo interno não provido. (AgInt no REsp 1505352/PI, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, j. em 11/06/2019, DJe 18/06/2019)” (grifei).
+“PROCESSUAL CIVIL E ADMINISTRATIVO. ENERGIA ELÉTRICA. FRAUDE NO MEDIDOR. APURAÇÃO UNILATERAL PELA CONCESSIONÁRIA. ILEGALIDADE. 1. Na hipótese dos autos, nota-se que o entendimento do Tribunal de origem está em consonância com a orientação do Superior Tribunal de Justiça de que não pode haver cobrança de débito, decorrente de suposta fraude no medidor de consumo, apurada unilateralmente pela concessionária. 2. Outrossim, extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para avaliar a regularidade do procedimento adotado pela Companhia de Energia Elétrica, o que não se admite ante o óbice da Súmula 7/STJ. 3. Recurso Especial não conhecido. (REsp 1732905/PI, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, j. em 05/06/2018, DJe 13/11/2018)” (grifei)
+Rever o entendimento firmado no acórdão demandaria o necessário ingresso na seara fático-probatória carreada aos autos, o que atrai também o óbice da Sumula 07/STJ.
+Dessa forma, insuscetível de revisão o entendimento firmado pelo Tribunal por demandar o reexame do conjunto fático-probatório; portanto, a alegada negativa de vigência ao art. 188, do CC não permite que o recurso alcance o juízo positivo de admissibilidade.
+Ausência de cotejo analítico
+Afere-se que o recurso também foi interposto ao fundamento da alínea “c” do permissivo constitucional.
+Registre-se, de início, que resta prejudicada a análise dos pressupostos de admissibilidade pertinentes também à alínea “c” do art. 105, III, CF, diante da aplicação da Súmula 07 do STJ. A propósito, o entendimento da Corte Superior é no sentido de que: “a incidência da Súmula 7 do STJ, prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte” (AgInt no REsp 1884179/PR, Rel. Min, NANCY ANDRIGHI, TERCEIRA TURMA, j. em 30/11/2020, DJe 02/12/2020).
+Ademais, não fosse isso, quanto ao fundamento da alínea “c” do permissivo constitucional, registre-se também a impossibilidade do recurso alcançar o juízo positivo de admissibilidade, em razão do não atendimento ao comando dos arts. 255, § 1o, do RISTJ c/c 1.029, § 1o, do CPC.
+Fundando-se o recurso em dissídio jurisprudencial, este deve ser demonstrado mediante a comparação analítica entre as decisões conflitantes de tribunais, com indicação clara e precisa da semelhança de assuntos e interpretações díspares. In casu, não houve qualquer comprovação de dissídio jurisprudencial nesse sentido.
+Diante desse quadro, inviável também a admissão do recurso com base na alínea “c” do art. 105, III, da CF.
+Ante o exposto, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
