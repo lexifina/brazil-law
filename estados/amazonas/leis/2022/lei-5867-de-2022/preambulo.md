@@ -1,0 +1,5 @@
+LEI N. 5.867, DE 29 DE ABRIL DE 2022.
+
+RECONHECE o tempo do consumidor como bem de valor jurídico. A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
