@@ -1,0 +1,45 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1004135-34.2020.8.11.0041
+RECORRENTE: UNIMED CUIABA COOPERATIVA DE TRABALHO MÉDICO LTDA
+RECORRIDO: BENEDITA LÚCIA CORREA
+Vistos.
+Trata-se de recurso especial interposto por UNIMED CUIABA COOPERATIVA DE TRABALHO MÉDICO LTDA com fundamento no artigo 105, inciso III, alíneas “a” e “c” da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado, assim ementado (id 114410956):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA E INDENIZAÇÃO POR DANOS MORAIS - PLANO DE SAÚDE - INDICAÇÃO DE TRATAMENTO DOMICILIAR (HOME CARE) - RECUSA INJUSTIFICADA DA OPERADORA DE PLANO DE SAÚDE - DANO MORAL CONFIGURADO - VERBA HONORÁRIA ARBITRADA POR APRECIAÇÃO EQUITATIVA - MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS - SENTENÇA MANTIDA - RECURSO DESPROVIDO. 1. O Superior Tribunal de Justiça possui o entendimento de que o serviço de home care (tratamento domiciliar) constitui desdobramento do tratamento hospitalar contratualmente previsto, que não pode ser limitado pela operadora do plano de saúde e ainda que, na dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita da forma mais favorável ao consumidor ( REsp n.o 1.378.707/RJ, Rel. Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe 15/6/2015). 2. No mesmo sentido, este Tribunal de Justiça tem o entendimento jurisprudencial de que o Plano de Saúde deve fornecer o tratamento indicado ao paciente, inclusive em relação ao tratamento home care com acompanhamento de técnico de enfermagem e demais profissionais designados pelo médico habilitado, quando essencial para garantir a saúde ou a sua vida (TJMT - N.U 1001949-72.2019.8.11.0041, Câmaras Isoladas Cíveis de Direito Privado, Sebastiao Barbosa Farias, Primeira Câmara de Direito Privado, Julgado em 25/05/2021, Publicado no DJE 31/05/2021). 3. A recusa injustificada da operadora do plano de saúde em autorizar procedimento médico a que esteja legal ou contratualmente obrigada, dá ensejo à reparação a título de dano moral, eis que há abalo psicológico contundente e angústia experimentada pela negativa. 4. Em observância aos parâmetros legais que norteiam a matéria, atendidos os critérios da razoabilidade e em prestígio ao exercício da advocacia, é caso de manter o parâmetro de fixação dos honorários advocatícios por apreciação equitativa, consoante o § 8.o do artigo 85 do Código de Processo Civil. 5. Conhecido e desprovido o recurso, por imposição do § 11 do artigo 85 do Código de Processo Civil, impõe-se a majoração dos honorários advocatícios arbitrados pela sentença recorrida, uma vez que na hipótese houve a apresentação pelo patrono das apeladas de Contrarrazões ao Recurso de Apelação interposto.
+(TJ-MT 10041353420208110041 MT, Relator: SEBASTIAO BARBOSA FARIAS, Data de Julgamento: 01/02/2022, Primeira Câmara de Direito Privado, Data de Publicação: 08/02/2022)
+O presente recurso foi interposto contra o acórdão proferido em sede de apelação cível, interposta por Unimed Cuiabá Cooperativa de Trabalho Médico, que negou provimento ao recurso e manteve a sentença que julgou parcialmente procedentes os pedidos iniciais e obrigou a parte ré a prestar serviços de home care à parte autora, nas condições indicadas nos relatórios médicos, contendo todos os medicamentos prescritos; condenou a ré ao pagamento de R$ 5.000,00 (cinco mil reais) a título de danos morais, corrigido monetariamente a partir da prolação desta sentença, com juros contados do evento danoso, ou seja, da recusa/inércia do custeio do tratamento (Súmulas 54 e 362 do Superior Tribunal de Justiça) e ao pagamento das custas e despesas processuais fixadas em 15% (quinze por cento) sobre o valor da condenação, além de honorários de sucumbência, majorados para R$ 2.000,00 (dois mil reais).
+A parte recorrente alega a afronta aos artigos 186 e 927 do Código Civil, sob a alegação de que a negativa perpetrada caracterizou mero inadimplemento contratual, que não enseja o dever de indenizar.
+Recurso tempestivo (id 120117998) e preparado (id 119914473).
+Sem contrarrazões (id 123130964).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+De início, não restou verificada a existência, no Superior Tribunal de Justiça, de tema que se relativo às questões objeto deste recurso, de forma que não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, na espécie, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Feitas essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ)
+A teor do que dispõe o artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça está adstrita à aplicação e à uniformização da interpretação das leis federais, de forma que não é cabível o exame de matéria fático-probatória, por força da Súmula 7/STJ.
+In casu, a alegada violação aos artigos 186 e 927 do Código Civil está amparada da assertiva de que a negativa de cobertura para o serviço de home care prescrito à parte recorrida caracterizou mero inadimplemento contratual, que não enseja o dever de indenizar.
+Quanto a este ponto, consignou-se no aresto recorrido:
+“(...) insta esclarecer que a negativa de fornecimento de home care pela apelante, procedimento este solicitado pelo médico da autora, mostra-se ilegítima, diante da relevância do bem jurídico em discussão, sob pena de frustrar a expectativa do beneficiário do plano, que necessita do fornecimento de tratamento imprescindível para evitar a progressão da doença, bem como de frustrar o próprio objetivo do contrato, qual seja, a preservação de sua saúde.
+Posto isso, a conduta do plano de saúde merece censura a ponto de fazer incidir dano moral indenizável.
+Na reparação do dano moral, não há uma indenização propriamente dita, mas uma compensação ou satisfação moral ao ofendido e, paralelamente, a reprovação do ato do ofensor, de modo a desestimulá-lo a reincidir. O arbitramento deve pautar-se por critérios que não impliquem enriquecimento do lesado, nem ser tão ínfimo que se torne irrisório para o ofensor. (...)”. (g.n)
+Logo, para rever o entendimento firmado no aresto recorrido sobre estes pontos, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA INJUSTIFICADA DE COBERTURA. DANOS MORAIS. REVISÃO DO JULGADO. REEXAME DE PROVAS. SÚMULA N. 7/STJ. NÃO PROVIMENTO. 1. Tendo a instância de origem concluído, a partir do exame das provas dos autos, que a recusa de cobertura pelo plano de saúde foi injustificada e ocorrida em momento de grave estado de saúde do beneficiário, causando danos morais, a revisão desse entendimento demanda reexame de matéria de fato, incabível no âmbito do recurso especial (Súmula 7). 2. Agravo interno a que se nega provimento.
+(STJ - AgInt no AREsp: 1490268 DF 2019/0111932-7, Relator: Ministra MARIA ISABEL GALLOTTI, Data de Julgamento: 26/11/2019, T4 - QUARTA TURMA, Data de Publicação: DJe 06/12/2019)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+A partir dessas premissas, é incabível a revisão do entendimento adotado pela Câmara de origem, por demandar o reexame do conjunto fático-probatório dos autos, o que obsta a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
