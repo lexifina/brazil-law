@@ -1,0 +1,4 @@
+CIRCULAR N INSTRUÇÃO NORMATIVA BCB Nº 262, DE 31 DE MARÇO DE 2022
+Especifica e esclarece aspectos operacionais dos procedimentos estabelecidos na Resolução BCB nº 44, de 24 de novembro de 2020, para a execução de medidas determinadas pela Lei nº 13.810, de 8 de março de 2019, que dispõe sobre o cumprimento de sanções impostas por resoluções do Conselho de Segurança das Nações Unidas, incluída a indisponibilidade de ativos de pessoas naturais e jurídicas e de entidades, bem como a designação nacional de pessoas investigadas ou acusadas de terrorismo, seu financiamento ou atos correlacionados.
+O Chefe do Departamento de Atendimento Institucional (Deati), no uso da atribuição que lhe confere o art. 23, inciso I, alínea "a", do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, e tendo em vista o disposto na Resolução BCB nº 44, de 24 de novembro de 2020,
+R E S O L V E :
