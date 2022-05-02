@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de embargos de declaração (fls. 2704/2708, e-STJ), opostos por MARIO ANGELO CARVALHO FERNANDES e CLÁUDIA TAVARES DA SILVA FERNANDEZ, contra o acórdão proferido pela Quarta Turma sob a relatoria deste signatário, que não conheceu do agravo interno interposto pela parte ora agravante.
+O aresto em questão recebeu a seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.1. Razões do agravo interno que não impugnam especificamente o fundamento invocado na deliberação monocrática. Em razão do princípio da dialeticidade, deve o agravante demonstrar de modo fundamentado o desacerto da decisão agravada, nos termos do art. 1021, § 1º do NCPC. Incidência da Súmula 182/STJ.2. Agravo interno não conhecido.
+Em síntese, em suas razões (fls. 2704/2708, e-STJ), a parte embargante defende não ser caso de incidência da Súmula 182 do STJ, além de repisar as alegações do recurso especial. Requer, ainda, que "essa C. Turma manifeste-se expressamente sobre os princípios do acesso à justiça e da ampla defesa, dispostos no artigo 5º, XXXV, LIV e LV, da Constituição Federal. O prequestionamento dessa matéria constitucional é imprescindível para que o E. Supremo Tribunal Federal possa decidir se há contrariedade à Constituição".
+Impugnação às fls. 2711/2716, e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL -AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO INTERNO.
+INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. A insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+2. Não compete ao Superior Tribunal de Justiça o exame de preceitos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpar a competência do Supremo Tribunal Federal. Precedentes.
+3. Embargos de declaração rejeitados.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): A irresignação não merece prosperar.
+1. Com efeito, nos estreitos lindes do artigo artigo 1.022 do CPC/2015, os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado, bem como na hipótese de erro material.
+Entretanto, a presente insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. CONTRADIÇÃO. NÃO OCORRÊNCIA. MULTA POR LITIGÂNCIA DE MÁ-FÉ. ARTS. 14, 17 E 557, DO CPC. DECISÃO MONOCRÁTICA. CABIMENTO. EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. DECISÃO MANTIDA. 1. A contradição que autoriza os embargos declaratórios é a interna, entre as proposições da própria decisão, ou seja, é aquela existente entre a fundamentação e o dispositivo, relatório e fundamentação, dispositivo e ementa ou ainda entre seus tópicos internos, e não aquela supostamente verificada entre seus fundamentos e os documentos constantes nos autos. 2. "A sanção processual prevista no art. 557, § 2º, do CPC tem raiz nos arts. 14 e 17 do mesmo diploma legal, que versam sobre litigância de má-fé. Portanto, caracterizada uma das hipóteses previstas no caput do art. 557 do CPC, autorizado estará o relator, desde logo, a aplicar multa sancionatória e, consequentemente, condicionar a interposição de qualquer outro recurso ao depósito do respectivo valor." (EDcl no Ag 1136114/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 23/06/2009, DJe 04/08/2009) 3. Embargos de declaração recebidos como agravo regimental a que se nega provimento. (EDcl no AREsp 169.105/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/06/2013, DJe 27/06/2013)
+No que tange à alegação da ora embargante, cumpre asseverar que o acórdão que julgou o agravo interno foi claro nas suas razões ao não conhecer do agravo interno ante a incidência da Súmula 182 do STJ.
+Na oportunidade, destacou-se:
+O art. 1.021 do NCPC, em seu § 1º, trouxe expressamente a necessidade de se observar tal princípio, ao dispor que "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Contudo, nas razões do presente agravo interno, a parte agravante descurou-se de infirmar o fundamento encartado na decisão agravada de fls. 2569/2570 (e-STJ), no sentido da ausência de dialeticidade do agravo (incidência da Súmula 182/STJ), porquanto, nele, deixou a parte agravante de impugnar especificamente: Súmula 7/STJ (art. 871, III, do CPC), ausência de indicação de artigo de lei federal violado - Súmula 284/STF, ausência/deficiência de cotejo analítico e ausência de indicação do dispositivo objeto da divergência - Súmula 284/STF.
+De fato, nas razões do presente agravo interno, o insurgente limita-se a afirmar que "a matéria contida no recurso especial - e por conduto lógico no presente ARESP -, não se submete à incidência da Súmula 07, desse E. STJ, muito menos a também Súmula 182 do E. STJ e 284 do E. STF", além de repisar as alegações do recurso especial, não demonstrando como teria combatido a incidência da Súmula 284 do STF e da Súmula 7/STJ, bem como a ausência/deficiência de cotejo analítico, no agravo em recurso especial, de modo a demonstrar a inadequação da incidência da Súmula 182/STJ.
+Dessa forma, incide, na espécie, por analogia, a Súmula 182 do STJ, que preleciona: "É inviável o agravo do art. 545 do CPC  73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+Assim, na hipótese ora em foco, o r. decisum embargado não possui vício a ser sanado por meio de embargos de declaração, uma vez que esta eg. Quarta Turma, ao examinar a controvérsia, foi clara ao sustentar as razões do não conhecimento do agravo interno ante a a sua intempestividade, não havendo nada a mais a ser esclarecido.
+Observa-se, portanto, que os embargantes pretendem, em verdade, obter uma decisão favorável às suas teses, o que deixa nítido o caráter infringente dos presentes embargos declaratórios, mormente porque a decisão atacada explicitou os motivos que levaram ao não provimento do recurso.
+Dessa forma, não cabe alegação de violação do artigo 1022 do NCPC, quando a decisão embargada está devidamente fundamentada, apenas não se adotando a tese da embargante.
+Sobre o tema:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. NEGATIVA DE RESGATE NA SEARA ADMINISTRATIVA. COMPENSAÇÃO DE CRÉDITOS E DÉBITOS. EXISTÊNCIA DE INADIMPLÊNCIA EM FINANCIAMENTO IMOBILIÁRIO FIRMADO COM A MESMA ENTIDADE. INVOCAÇÃO DE AUSÊNCIA DE LIQUIDEZ DA DÍVIDA. AUSÊNCIA DE AUTORIZAÇÃO CONTRATUAL PARA A COMPENSAÇÃO. EXISTÊNCIA DE GARANTIA DE HIPOTECA PARA A DÍVIDA. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULAS 5 E 7/STJ. INCIDÊNCIA. VIOLAÇÃO AO ART. 1022 DO CPC/15. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Não há que falar em violação ao art. 1.022 Código de Processo Civil/15 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+3. Agravo Interno desprovido.
+(AgInt no AREsp 1376020/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/03/2019, DJe 29/03/2019; grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DESCUMPRIMENTO DE ACORDO JUDICIAL. BAIXA DE GRAVAME. OMISSÃO DO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. AUSÊNCIA DE PROVA DE DANO CONCRETO. DEVER DE INDENIZAR NÃO CARACTERIZADO.
+RECURSO DESPROVIDO.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1383292/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/03/2019, DJe 28/03/2019; grifou-se)
+2. Ademais, no tocante ao pedido de apreciação de dispositivos constitucionais para o fim de viabilização do recurso extraordinário, a pretensão recursal não pode prosperar.
+Isso porque o entendimento jurisprudencial desta Corte firmou-se no sentido da impossibilidade de manifestação do STJ, em sede de recurso especial, ainda que para fins de prequestionamento, acerca da violação a dispositivos da Constituição Federal, sob pena de usurpação da competência do STF, razão pela qual inexiste qualquer vício a ser sanado na presente via recursal dos aclaratórios.
+Sobre a temática, os precedentes a seguir:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. FINALIDADE DE PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC.
+3. A ocorrência de um dos vícios previstos no art. 1.022 do CPC/2015 é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição.
+4. Embargos de declaração rejeitados.
+(EDcl no AREsp 909.718/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/02/2017, DJe 20/02/2017)  grifou-se
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 535, DO CPC. TERMO INICIAL DO PRAZO PRESCRICIONAL PARA COBRANÇA DE HONORÁRIOS. ENCERRAMENTO DA PRESTAÇÃO DE SERVIÇOS. PRECEDENTES. ESCORREITA APLICAÇÃO DA SÚMULA 83 DESTA CORTE. VULNERAÇÃO DE NORMA CONSTITUCIONAL NÃO PASSÍVEL DE ANÁLISE PELO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há falar em violação ao art. 535 do Código de Processo Civil, pois o Eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+ ..
+3. Na via especial não cabe a análise de afronta a dispositivo constitucional, ainda que com intuito de prequestionamento.
+4. Agravo regimental não provido. (AgRg nos EDcl no AREsp 804.586/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/02/2016, DJe 11/02/2016)  grifou-se
+3. Do exposto, rejeito os embargos de declaração.
+É como voto.
