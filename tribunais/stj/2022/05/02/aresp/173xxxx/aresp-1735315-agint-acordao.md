@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Sérgio Kukina.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado por KCINCO CAMINHÕES E ÔNIBUS LTDA. contra decisão por mim proferida, constante às e-STJ fls. 539/542, em que, desacolhendo a alegação de violação do art. 1.022, II, do CPC/2015 e aplicando o óbice da Súmula 7 do STJ, conheci do agravo para conhecer parcialmente e, na parte conhecida, negar provimento a recurso especial que defende a condenação da Fazenda Pública recorrida ao pagamento de honorários advocatícios ao argumento de que foi ela quem deu indevida causa à ação ordinária extinta por perda de objeto.
+Nas suas razões (e-STJ fls. 546/557), a agravante, embora alegue que o exame de sua pretensão recursal dispensa reexame de prova, aduz, diversamente do assentado no acórdão recorrido, os débitos discutidos na ação anulatória "nunca foram objeto de pagamento pela recorrente, não havendo no curso do processo realizado a quitação dos mesmos. O que de fato houve foi a baixa do débito por parte do Estado do Mato Grosso após o ajuizamento da ação, não o pagamento pela empresa. Somente após a lide instaurada e vendo o erro praticado foi que o Estado baixou o débito, logo, deu causa inconstestavelmente à ação".
+A parte agravada apresentou impugnação (e-STJ fls. 568/573).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. VERIFICAÇÃO. REEXAME DE PROVA. IMPOSSIBILIDADE.
+1. A revisão do acórdão recorrido quanto à imputação da responsabilidade pelo honorários advocatícios à luz do princípio da causalidade (art. 85, § 10, do CPC/2015) pressupõe, in casu, reexame de prova, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Os argumentos ora deduzidos não convencem.
+Na origem, cuidam os autos de ação anulatória de débito fiscal ajuizada pela agravante.
+O magistrado de primeiro extinguiu o feito, sem resolução de mérito, por ausência de interesse processual, dado o pagamento do crédito no âmbito administrativo, condenando a parte autora a arcar com os ônus sucumbenciais.
+Na sequência, o TJ/MT negou provimento à apelação, vindo a manter a sentença com a seguinte motivação:
+No tocante a discussão acerca do interesse de agir, analisando os documentos acostados, verifica-se que o Recorrido apresentou, em sede de contestação, a CI nº 258/2015/GSUL/SEFAZ/MT, na qual o Fiscal de Tributos Estadual Henrique C. G. Sangreman Lima, afirma, em 29-7-2015, que houve a quitação dos TADs nºs 977388-5, 977382-4, 977340-9, 977386-1, 977385-0, 977337-0, 977355-1 e 977351-4 (Id 6238705), os quais se objetiva a anulação nesta ação e descritos na inicial.
+Dessa forma, mostra-se acertada a sentença, porquanto, apesar de no momento da propositura da ação existir os débitos ora questionados, estes foram quitados posteriormente, acarretando a perda superveniente do objeto da demanda.
+ ..  Ademais, a decisão administrativa documento é hábil a comprovar o pagamento do débito descrito na inicial, conforme requer a Apelante, cabendo a ela requerer a baixa administrativa do débito no sistema da conta corrente fiscal.
+No julgamento dos dois aclaratórios opostos sucessivamente, a Corte estadual acrescentou:
+A referida fundamentação foi proferida com fulcro na jurisprudência dominante acerca da matéria, no sentido de que, o pagamento do tributo retira o interesse de agir da Recorrente.
+Além disso, esta Relatora se manifestou quanto a fixação da sucumbência, considerando o princípio da causalidade, que dispõe que as custas são devidas por quem deu causa ao processo, no caso, a Recorrente.
+..
+Imperioso mencionar que a Embargante interpôs recurso de apelação em face da sentença proferida pelo Juízo da Segunda Vara Especializada da Fazenda Pública da Capital que, nos autos da Ação Anulatória nº 25487- 12.2013.8.11.0041  código 819206, ajuizada pelo Apelante contra o Estado de Mato Grosso, julgou extinto o feito, sem resolução do mérito, nos termos do artigo 485, IV, do CPC, diante da ausência de interesse processual, tendo em vista a ocorrência do pagamento do crédito tributário no âmbito administrativo.
+Alegou, em breve síntese, que a sentença deveria ser reformada, porquanto não restou ausente seu interesse processual, já que não houve pagamento integral dos débitos, como afirmado pelo Juízo a quo e que, a Fazenda Pública quem deu causa a presente demanda, quando lançou débitos no seu sistema da conta corrente fiscal, devendo ser condenada, diante do princípio da causalidade, ao pagamento das custas e despesas processuais.
+Esta Câmara de Direito Público negou provimento ao recurso e quanto à mencionada alegação, foi consignado que, no bojo dos autos, constava a Cl nº 258/2015/GSUL/SEFAZ/MT, na qual o Fiscal de Tributos Estadual Henrique C. G. Sangreman Lima, afirma, em 29-7-2015  data posterior ao ajuizamento da ação, que houve a quitação dos TADs nºs 977388-5, 977382- 4, 977340-9, 977386-1, 977385-0, 977337-0, 977355-1 e 977351-4 (Id 6238705), objetos de anulação nesta ação e descritos na inicial, fato que enseja a perda superveniente do interesse de agir e, por conseguinte, a responsabilidade da Recorrente a arcar com os ônus sucumbenciais, visto que ela que deu causa à instauração do processo.
+Ainda, conforme consignado no decisum embargado, ocorrendo o pagamento dos débitos, seja ele por meio da compensação ou em dinheiro, imperioso a condenação da autora ao pagamento de honorários advocatícios no valor, consoante preconiza o princípio da causalidade e o artigo 85, § 10º, do CPC.
+Foi consignado, ainda, que a Recorrente não comprovou que, de fato, foi o Estado quem cancelou por sua conta os débitos ora discutidos diante de possível erro, sendo assim, não há como afirmar que foi ele quem deu causa à instauração do processo, visto que não trouxe qualquer ato administrativo ou o processo administrativo que corrobore com o alegado.
+Pois bem.
+Do que se observa, a fundamentação consignada no julgado a quo é clara ao expressar a compreensão de que os débitos questionados na ação anulatória foram quitados mediante pagamento realizado administrativamente, não tendo a contribuinte feito prova de sua alegação de que essa quitação teria sido reconhecida espontaneamente pelo fisco a ensejar a responsabilização do ente público pelo pagamento dos ônus sucumbenciais.
+Nesse contexto, a revisão do acórdão recorrido quanto à imputação da responsabilidade pelo honorários advocatícios à luz do princípio da causalidade (art. 85, § 10, do CPC/2015) pressupõe reexame de prova, o que é inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+Nesse mesmo sentido, vide: AgInt nos EDcl no REsp 1671347/RS, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 19/04/2021, DJe 28/05/2021; AgInt no AREsp 1381891/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 24/05/2021, DJe 26/05/2021; AgInt no AREsp 1660923/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 26/10/2020, DJe 12/11/2020; AgInt no AREsp 1672377/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 13/10/2020, DJe 28/10/2020.
+Por fim, embora não merecedor de acolhimento, tenho que o presente inconformismo não representa interposição de agravo interno manifestamente inadmissível ou improcedente, a ensejar, por decisão unânime do Colegiado, a multa processual prevista no § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
