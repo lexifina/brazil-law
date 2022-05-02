@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno em agravo em recurso especial interposto por SOLLUS ADMINISTRADORA DE CARTÕES E CONVÊNIOS S/A contra decisão que não conheceu o recurso especial que interpusera.
+Ação: cobrança ajuizada pelo agravado, devido a alegado descumprimento de contrato de credenciamento ao sistema de cartão fornecido pela agravante.
+Sentença: julgou procedente o pedido para condenar aagravanteao pagamento do valor de R$ 120.541,78, com correção monetária pelo IGP-M, desde a data do envio da documentação (05/08/2019), acrescido de juros de mora de 12% ao ano, a contar da citação.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE COBRANÇA CUMULADA COM PEDIDO DE TUTELA DEURGÊNCIA. INADIMPLEMENTO DA OBRIGAÇÃO. COMPROVADO. INTELIGÊNCIA DO ARTIGO 373, INCISOS I E II, DO CPC. LIQUIDAÇÃO DE SENTENÇA. DESCABIMENTO. APURAÇÃO DO VALOR DA CONDENAÇÃO QUE DEPENDE DE SIMPLES CÁLCULO ARITMÉTICO. CONTRARRAZÕES. LITIGÂNCIA DE MÁ-FÉ. NÃO VERIFICAÇÃO.
+1. DEMONSTRADO O FATO CONSTITUTIVO DO DIREITO DA PARTE AUTORA, INCUMBE À PARTE REQUERIDA FAZER PROVA DE FATO IMPEDITIVO, EXTINTIVO OU MODIFICATIVO. E, NO CASO, DO ALUDIDO ÔNUS PROBATÓRIO A RÉ, ORA APELANTE, NÃO SE DESINCUMBIU.
+2. CONCRETAMENTE, A NATUREZA DO OBJETO DA CONDENAÇÃO NÃO EXIGE APURAÇÃO MEDIANTE LIQUIDAÇÃODE SENTENÇA, SENDO SUFICIENTE MERO CÁLCULO ARITMÉTICO, TAL COMO PODE SER OBSERVADO DOS ELEMENTOS CONSTANTES DO CADERNO PROCESSUAL.
+3. AUSENTE, NOS AUTOS, CONDUTA PROCESSUAL ENQUADRADA NAS HIPÓTESES PREVISTAS NO ARTIGO 80 DO CPC, NÃO É CASO DE IMPOSIÇÃO DE SANÇÃO POR LITIGÂNCIA DE MÁ-FÉ.
+APELAÇÃO CÍVEL DESPROVIDA. (e-STJ fl. 740)
+Recurso especial: alega violação dos arts. 373, I, II e 509 do CPC. Defende que o agravado não fez prova dos fatos constitutivos do seu direito; bem como a necessidade de liquidação prévia da sentença pois a hipótese "envolve grande complexidade documental e repasses que foram efetuados de parte da recorrente" (e-STJ fl. 757).
+Decisão monocrática: conheceu o agravo e não conheceu o recurso especial pela incidência das Súmulas 5 e 7 do STJ.
+Agravo interno:defende, em síntese, que não se aplicam as Súmulas 5 e 7 do STJ à hipótese em julgamento pois apenas indicouque "a v. decisão regional se baseou em documentos unilaterais sem verificar qual seria o modelo de constatação correto ao caso, questão umbilicalmente atrelada ao art. 373, I e II, do CPC/15". Assevera que o procedimento de liquidação desentença previsto no art. 509 do CPC se faz necessário porque a dívida cobrada não é líquida.
+É O RELATÓRIO.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Cuida-se, na origem, de ação de cobrança devido a alegado descumprimento contratual.
+2. O reexame de fatos e provas bem como a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu o agravo para não conhecer o recurso especial de SOLLUS ADMINISTRADORA DE CARTÕES E CONVÊNIOS S/A, com fundamento nas Súmulas 5e 7 do STJ.
+Pelas razões recursais apresentadas, contudo, verifica-se que o agravante não trouxe qualquer argumento novo apto a modificar os fundamentos da decisão agravada.
+Como consta da monocrática impugnada, o acórdão declarouexpressamente que o agravado cumpriu com seu ônus probatório, bem como que a dívida cobrada dispensaria a liquidação de sentença, nos seguintes termos:
+Compulsados os autos, infere-se, das mensagens mediante correspondência via e-mail entabulada entre as partes, a autora encaminhou a documentação pertinente às transações perfectibilizadas mediante utilização do "Cartão Sollus", nos termos em que requerido pela apelante. É verdade, consta do e-mail encaminhado em 27-08-2019, por Rodrigo Alvim, preposto da apelante, a Mateus Maraskalchi, gerente comercial da apelada, necessidade de complementar a documentação - juntada de "comprovantes (SLIPS com o BIN do cartão)" -, para fins de auditoria externa (documento 9 do Evento 1). Contudo, observa-se, o período solicitado corresponde a 07/2018 a 07/2019, não somente ao período do inadimplemento questionado na ação. Assim, causa estranheza que os pagamentos tenham sido regularmente efetivados pela apelante até 26-6-2019, com base na documentação que até então era apresentada pela autora e, após essa data, passou a entendê-los insuficientes para comprovar as transações efetivadas - sem qualquer justificativa plausível, ressalto.
+Ademais, a autora/apelada muniu os autos com vasto substrato probatório, comprovando a comercialização de combustíveis mediante pagamento realizado por meio do cartão fornecido pela requerida. Basta examinar as notas fiscais juntadas nos documentos 12 a 14 doEv ento 1 e nos documentos 3 a 14 do Evento 19, bem como os comprovantes de transação acostadas nos documentos 6 a 8 do Evento 1, extraídos do sistema informatizado da própria apelante.
+Por outro lado, os comprovantes de transferência bancária apresentados pela apelante (documento 4 - todos do Evento 15), embora demonstrem o pagamento de certos valores, não discriminam a que transações se referem, daí por que, inviável averiguar se correspondem ao período sub judice.
+Desse modo, à análise, conclui-se que os elementos de prova produzidos nos autos autorizam a manutenção da v. sentença hostilizada, porquanto examinado o conjunto probatório à luz da norma aplicável à espécie. (e-STJ fl. 737)
+Sobreleva, no caso concreto, a natureza do objeto da condenação não exige apuração mediante liquidação de sentença, sendo suficiente mero cálculo aritmético, tal como pode ser observado ao cotejo da planilha de cálculo (documento 11 do Evento 1) com os comprovantes de transação, nos quais indicados os valores cobrados e tidos como devidos (documentos 6, 7 e 8 -todos do Evento 1).
+Além disso, os parâmetros ao equacionamento do valor do crédito já foramestabelecidos pelo Juízo a quo, não havendo qualquer incerteza para confecção do cálculo, a ser apresentado - caso não haja adimplemento espontâneo da condenação - para instruir peça inauguralda fase de cumprimento de sentença. Viável, portanto, a apuração do valor da condenação conforme previsão do artigo 509, parágrafo 2º, do CPC, ou seja, por simples cálculo aritmético. (e-STJ fl. 738)
+Ainda, da leitura do trecho do acórdão recorrido anteriormente transcrito, verifica-se que as questõesrelativas a comprovação da dívida pelo agravado bem como a falta de necessidade de liquidação da sentença, foram, com efeito, definidas com base nos elementos probatórios dos autos.
+Assim dirimida a controvérsia, eventual modificação no sentido das teses da agravante, demandaria desta Corte, inevitavelmente, a incursão na seara fático probatória dos autos, com a análise indevida das cláusulas contratuais firmadas entre as partes.
+Incólume, por essas razões, a aplicação das Súmulas 5 e 7 do STJ.
+Logo, a decisão agravada não merece reforma.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
