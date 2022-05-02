@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por Agco do Brasil Soluções Agrícolas LTDA, contra a decisão de minha relatoria, assim ementada:
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ISSQN. MERA PRESUNÇÃO DE SERVIÇO. ÔNUS DA PROVA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões recursais, aagravante sustenta que não incide ao caso concreto o óbice daSúmula n. 7/STJ, uma vez que a pretensão de rediscussão seriareferente apenas ao entendimento fixado pela Corte localcom base nodelineamento dos fatos que constamdo próprio acórdão.
+Pugna, por fim, pelo integral provimento do presente agravo para que seja provido o recurso especial.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. ISSQN. MERA PRESUNÇÃO DE SERVIÇO. ÔNUS DA PROVA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. ACorte a quo entendeu que a parte autora não se desincumbiu do ônus de ilidir a presunção de certeza e liquidez da Certidão de Dívida Ativa(e-STJ fls. 173/174).
+2.Assim,o acolhimento da pretensão recursal no sentido de anular o auto de infração somente seria possível por meio do revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial em razão do óbice da Súmula n. 7 desta Corte.
+3. Agravo interno não provido.
+VOTO
+Cuida-se, na origem, de ação anulatória proposta pela ora agravante pleiteando aanulação de auto de infração por débito de ISSQN para os serviços de "Estandes" tomados na "Feira Agrishow 2013", evento que acontece uma vez ao ano no Município de Ribeirão Preto. Quando da propositura, a parteargumentou que a fiscalização não se desincumbiu de provar a efetiva prestação dos serviços referentes à locação ou montagem do estande no ano de 2013.
+Nas razões do especial, alegou-se que houve ofensa aosarts. 142 e 148 Código Tributário Nacional, na medida emque houvemera presunção de serviço, bem como ausência derequisito material para a constituição do crédito.
+No ponto, inafastável o óbice da Súmula n. 7/STJ.
+Ocorre que, ao se manifestar acerca da controvérsia posta, a Corte a quo entendeu que a parte autora não se desincumbiu do ônus de ilidir a presunção de certeza e liquidez da Certidão de Dívida Ativa, consoante se depreende do excerto (e-STJ fls. 173/174):
+Afirmou a autora que a fiscalização não sedesincumbiu de provar a efetiva prestação dos serviços referentes à locação oumontagem de "estande" no ano de 2013, prestação esta que não ocorreu noplano dos fatos (fls. 03).
+Contudo, é cediço que a dívida regularmenteinscrita goza de presunção de certeza e liquidez inerente aosadministrativos. Embora essa presunção não seja absoluta, implica na inversãodo ônus da prova, impondo ao executado, autor da ação anulatória de débitofiscal, o ônus de produzir prova suficientemente capaz de elidir tal presunção,conforme pacífica jurisprudência do E. Superior Tribunal de Justiça (AREsp355237/SP, Rel. Min. Gurgel de Faria, DJe 22/03/2018; AgRg no REsp1482408/SC,Rel. Min. Humberto Martins, DJe 15/12/2014; AgRg no REsp nº 758.955/RS, Rel.Min. Francisco Falcão, DJ de 11/05/06; REsp nº 620.855/RJ, Rel. Min.Denise Arruda, DJ de 27/03/06; REsp nº 750.512/RJ, Rel. Min. Franciulli Netto, DJ de13/03/06).
+Ou seja, cabia à autora fazer prova capaz deelidir a presunção de certeza e liquidez do débito tributário.
+Contudo, a autora limitou-se a alegarimpossibilidade de produção de prova negativa.
+Ora, a própria apelada reconhece que, "porvezes, participa do denominado evento "Feira Agrishow" que ocorre noMunicípio de Ribeirão Preto/SP" (fls. 02), assim, bastava solicitar aosorganizadores do evento uma lista com todos os participantes, demonstrandoque, naquele ano (2013), ela não se inscrevera como expositora.
+A propósito, uma rápida busca nos endereçoseletrônicos relacionados às feiras e eventos de máquinas, equipamentos einsumos agrícolas é possível obter informações acerca dos expositoresparticipantes do referido evento, inclusive no ano de 2013(https://revistacafeicultura.com.br/index.php tipo=ler&mat-48969 ).
+Deste modo, não tendo a autora sedesincumbido de seu ônus probatório,resta incólume a presunção certeza eliquidez da dívida inscrita.
+De rigor, portanto, a reforma da r.sentençapara julgar improcedente a Ação Anulatória, invertendo-se os ônus dasucumbência.
+Assim, não tendo a ora agravante se desincumbido de seuônus probatório, o acolhimento da pretensão recursal no sentido de anular o auto de infraçãosomente seria possível por meiodo revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial em razão do óbice da Súmula n.7 desta Corte.
+Exemplificativamente, os seguintes julgados:
+PROCESSO CIVIL. TRIBUTÁRIO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICO-TRIBUTÁRIA. COFINS. RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO RELEVANTE NO ACÓRDÃO. ÓBICES DE ADMISSIBILIDADE. SÚMULA N. 7 DO STJ E SÚMULA N. 283 DO STF. AGRAVO INTERNO. DECISÃO MANTIDA.
+I - Na origem, trata-se de ação declaratória ajuizada contra a União e julgada parcialmente procedente na primeira instância para "declarar a inexistência de relação jurídico-tributária entre a autora e a ré no tocante à exigibilidade da COFINS sobre receitas financeiras, no período anterior à vigência da Lei 10833/03" (fl. 240). No Tribunal a quo, a sentença foi confirmada II - O agravo interno não merece provimento, pois as alegações não são suficientes para infirmar a decisão recorrida, que deve ser mantida por seus próprios fundamentos.
+III - Em relação à indicada violação do art. 1.022 do CPC 2015 pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, qual seja existência de juros e multa a requerer a aplicação do art. 1º da Lei n. 11.941/2009, com o levantamento do valor pelo contribuinte, tendo o julgador abordado a questão às fls. 320.
+IV - Conforme observado, o tema referido foi examinado e, nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+V - Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação ao referido dispositivo legal, conforme pacífica jurisprudência do Superior Tribunal de Justiça.
+Nesse sentido: AgInt no AREsp 1.526.177/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 25/5/2020, DJe 29/5/2020; AgInt no AREsp 1.535.574/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/5/2020, DJe 20/5/2020.
+VI - Os argumentos pela inaplicabilidade das Súmulas n. 7/STJ e 283/STF não socorrem o recorrente. Conforme asseverado na decisão monocrática, a verificação do excesso na conta de depósito implica necessário reexame do conjunto probatório, o que é vedado no âmbito do recurso especial, o que atrai a incidência da Súmula n. 7 do STJ.
+VII - Ademais, quanto à alegação de que a União teria reconhecido a existência de multa e juros depositados, o Tribunal a quo expressamente consignou que tal reconhecimento não seria possível, por se tratar de direito indisponível, não tendo o recorrente enfrentado esse fundamento. Incidência da Súmula n. 283/STF.
+VIII - Agravo interno improvido.
+(AgInt no AREsp 1329614/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/03/2022, DJe 17/03/2022)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 178 DO CÓDIGO CIVIL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284/STF. RESPONSBILIDADE TRIBUTÁRIA. FORMAÇÃO DE GRUPO ECONÔMICO. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I  Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II  É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+III  Revela-se deficiente a fundamentação do recurso quando a arguição de ofensa ao dispositivo legal é genérica, bem quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem, circunstâncias que atraem, por analogia, a incidência do entendimento das Súmulas ns. 283 e 284 do Supremo Tribunal Federal.
+IV  Rever o entendimento da Corte de origem acerca da responsabilidade tributária com base na formação de grupo econômico demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido nas Súmula n. 7 desta Corte.
+V  Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria.
+Precedentes.
+VI  A parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+VII  Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII  Agravo Interno improvido.
+(AgInt no REsp 1954432/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 14/03/2022, DJe 21/03/2022)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
