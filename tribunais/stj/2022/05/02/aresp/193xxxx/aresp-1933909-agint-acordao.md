@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que desproveu o recurso.
+A parte agravante alega, em síntese:
+(..)
+Veja-se que não obstante ter o v. acórdão fundamentado que "(..) não obstante aluda a apelante à inexistência de evento danoso, por não se tratar de obra de natureza emergencial, certo é que houve descumprimento das diretrizes previstas em contrato no que se refere à recuperação da referida Obra de Arte Especial OAE " (fl. 677), tem-se que houve a comprovação de que os níveis de segurança da rodovia foram mantidos, bem como que a execução da obra em momento posterior e em conjunto às demais Obras de Artes Especiais (OAEs) observou a preservação da economicidade do contrato e evitou a ocorrência de prejuízo ao interesse público, a decisum desconsiderou os argumentos relativos às circunstâncias de que as supostas falhas apontadas pela Agravada não diziam respeito à segurança e/ou estabilidade da obra, o que permitiria que a sua execução fosse reprogramada para momento posterior e em conjunto com as demais obras de recuperação de OAE - tal como ocorrido - de modo a observar a eficiência, economia e o interesse público.
+(..)
+Não se está a confundir, diferentemente do que alude a r. decisão agravada, o entendimento contrário com falta de fundamentação. A questão, contudo, é que tais elementos coligidos em especial por ocasião da demonstração da violação dos arts. 489 e 1.022, ambos do CPC, não foram objeto de análise pelo v. acórdão, mesmo após a oposição dos aclaratórios, diferentemente do que sustenta a r. decisão agravada, que inclusive transcreve passagens do v. acórdão do julgamento.
+Por via de consequência, está-se diante de verdadeira violação ao disposto no art. 1.022, do CPC.
+Ademais, sem haver a impugnação específica dos fundamentos que embasaram o pedido de reprogramação, com respeito e acatamento, sobrelevaria ao v. acórdão considerar a premissa de que, tecnicamente, a obra não se fazia necessária naquele momento, o que não ocorreu. Por conseguinte, o v. acórdão também violou o previsto nos artigos 20 e 22 da LINDB, ante necessidade de consideração das consequências práticas da decisão.
+(..)
+Depreende-se da leitura do v. acórdão que a fundamentação não ataca em si as alegações dos Embargos de Declaração, reiterando apenas a circunstância do inadimplemento contratual sem considerar, no entanto, a justificativa para o atraso.
+Com efeito, denota-se ambos os v. acórdãos nada levaram em consideração, sendo que a situação apenas se agravou, na medida em que o que se percebe é a falta de argumentos que possam refutar as premissas ventiladas nos Embargos de Declaração.
+Seja como for, o julgador não agregou fundamentação plausível, fazendo ilações genéricas e desprovidas de juridicidade para, não obstante o parcial provimento, manter a aplicação da sanção.
+(..)
+A partir de tal prisma, ou seja, a partir do delineamento dos conjunto fático- probatório, tem-se que é incompatível atrair as Súmulas nº 05 e 07/STJ e não obstar o conhecimento do Recurso Especial.
+O que se pretende demonstrar é o error in judicando ao manter o v. acórdão recorrido e, por consequência, a parcial procedência da ação, pois, em que pese a obra não tenha sido concluída no prazo inicialmente previsto, os níveis de serviço da rodovia não foram afetados e, tampouco, houve a comprovação de prejuízo aos usuários pela sua conclusão em momento posterior, de modo que não há que se falar em conduta punível à Agravante.
+(..)
+Pugna pela reconsideração da decisão agravada ou pelo provimento, pelo colegiado, do Agravo Interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CONTRATO ADMINISTRATIVO. VIOLAÇÃO. ATRASO NA REALIZAÇÃO DE OBRAS. DECLARAÇÃO DE NULIDADE DE MULTA. REEXAME DO CONTEXTO FÁTICO-PROABTAÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Na hipótese dos autos, não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, manifestando-se de forma clara a respeito do descumprimento das cláusulas contratuais.
+2. Extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para modificar o entendimento do Tribunal de origem no sentido de que houve descumprimento contratual, bem como para verificar se houve prejuízo aos usuários ou justa causa para o atraso nas obras, incidindo, in casu, o óbice das Súmulas 5 e 7/STJ.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 9.3.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Na hipótese dos autos, o Tribunal de origem, ao decidir os Embargos de Declaração, consignou:
+(..)
+Nenhuma dessas hipóteses, no entanto, se materializa no caso dos autos.
+Assim dispôs o acórdão:
+Não obstante aluda a apelante à inexistência de evento danoso, por não se tratar de obra de natureza emergencial, certo é que houve descumprimento das diretrizes previstas em contrato no que se refere à recuperação da referida Obra de Arte Especial - OAE.
+Como observou a apelada, as fases de recuperação de Obras de Arte Especiais OAEs são intervenções necessárias para a sua conservação. A execução de cada fase tem como objetivo manter a qualidade da OAE durante o tempo de concessão. Tais fases de recuperações de OAEs estão previstas na especificação técnica ET-00.000.000-0-C21/002, indicada no Anexo 6 do Edital, a qual estabelece classificações técnicas para a qualidade das obras de arte. É o que se verifica, igualmente, na decisão do Diretor de Investimentos de f. 210/2.
+Incontroverso nos autos que as obras de conservação não foram finalizadas até 30 de novembro de 2012, conforme vistoria realizada em 3 de dezembro seguinte. Foram concluídas somente em 24 de maio de 2013 (f. 192 e seguintes). Fato não refutado pela apelante, aliás.
+Logo, a infração se mostra suficientemente delineada com os elementos fornecidos, uma vez agregada a referência feita à previsão contida no edital. Assim, ausente justificativa técnica para o atraso, não acolhe argumentar com a natureza não emergencial da obra. No ponto, bem assinalou a sentença que, independentemente do juízo subjetivo da contratada se obra emergencial ou não, a mora ex re decorrente do atraso é motivo suficiente para sanção. Isso porque, as intervenções de 2" fase que implicaria na realização de recuperação do pavimento nos encontros e prolongamentos e desobstrução de buzinetos, mesmo não se caracterizando como natureza emergencial, são intervenções necessárias, contratadas, e por isso exigíveis, enquanto dispostas em clausula contratual, não haveria justificativa para seu atraso.
+Some-se que, contrato assinado com vontade da parte, o Cronograma de Recuperação de OAEs estabelece que de fato a obra deveria ser concluída em 31/03/2012, e vencido o prazo para sua conclusão, fica evidente o inadimplemento da autora, já que o prazo para finalização da obra se encontra disposto no contrato (Item 01040406, fl.409). E tal inadimplemento acaba por constituir o devedor em mora relativa, ou seja, uma dívida liquida e certa, na qual o devedor se encontra em mora simplesmente pelo vencimento da obrigação contratual, independente de qualquer aviso ou notificação. Como se sabe, na aplicação da mora ex re, tem aplicação a regra dies interpellat pro homine. O simples advento do dia de cumprimento da obrigação já interpela o devedor.
+Como se vê, as questões suscitadas foram decididas de forma clara, objetiva e conclusiva. A divergência, pois, se manifesta apenas no plano valorativo, expressada pelas visões antagônicas da parte e do juiz, mas não no plano interno do julgado, única hipótese autorizante de sua revisão, pela via eleita, sob tal fundamento.
+(..)
+Preliminarmente, constata-se que não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, manifestando-se de forma clara a respeito do descumprimento das cláusulas contratuais.
+Extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para modificar o entendimento do Tribunal de origem no sentido de que houve descumprimento contratual, bem como para verificar se houve prejuízo aos usuários ou justa causa para o atraso nas obras, incidindo, in casu, o óbice das Súmulas 5 e 7/STJ.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
