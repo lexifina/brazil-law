@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. TESE E DISPOSITIVOS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. CAUSALIDADE. AUSÊNCIA DE SUCUMBÊNCIA DO EXEQUENTE. PRECEDENTES.
+1. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" (Súmula 211/STJ).
+2. "Declarada a prescrição intercorrente por ausência de localização de bens, incabível a fixação de verba honorária em favor do executado, eis que, diante dos princípios da efetividade do processo, da boa-fé processual e da cooperação, não pode o devedor se beneficiar do não-cumprimento de sua obrigação. A prescrição intercorrente por ausência de localização de bens não retira o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para o exequente" (REsp 1769201/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/03/2019, DJe 20/03/2019).
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 703/711) apresentado contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. TESE E DISPOSITIVOS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. CAUSALIDADE. AUSÊNCIA DE SUCUMBÊNCIA DO EXEQUENTE. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+A agravante alega, em síntese, que não incide a Súmula 211/STJ na presente lide, porquanto "todo o conteúdo das razões de Apelação e, principalmente, de Recurso Especial, do Agravo e dos Embargos de Declaração a que este Agravo procura reverter os efeitos, expressamente se manifestando em relação às violações dos dispositivos em lide"; bem como, "é imperiosa a necessidade de pagamento de honorários aos Agravantes, tendo como base o disposto no § 2º do artigo 85 do Código de Processo Civil, que correspondente ao benefício econômico das partes, que, no caso conseguiu ver reconhecida a inexigibilidade de uma dívida tributária, graças à inação da Fazenda Pública".
+Requer seja provido o recurso.
+A agravada pleiteia a manutenção da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. TESE E DISPOSITIVOS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. CAUSALIDADE. AUSÊNCIA DE SUCUMBÊNCIA DO EXEQUENTE. PRECEDENTES.
+1. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" (Súmula 211/STJ).
+2. "Declarada a prescrição intercorrente por ausência de localização de bens, incabível a fixação de verba honorária em favor do executado, eis que, diante dos princípios da efetividade do processo, da boa-fé processual e da cooperação, não pode o devedor se beneficiar do não-cumprimento de sua obrigação. A prescrição intercorrente por ausência de localização de bens não retira o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para o exequente" (REsp 1769201/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/03/2019, DJe 20/03/2019).
+3. Agravo interno não provido.
+VOTO
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Preliminarmente, ao compulsar o acórdão recorrido, verifica-se que o Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese trazida à baila pelo agravante (tese de que a decisão do Tribunal de origem está fora dos limites legais impostos) e nem houve discussão sobre os dispositivos supostamente violados, tampouco o ora agravante opôs embargos de declaração visando prequestionar explicitamente o tema, nos termos da Súmula 211/STJ.
+Em suma, depreende-se que o preceito legal tido por violado nas razões recursais, quanto a tese sobredita, não foi debatido no acórdão recorrido, restando desatendido o requisito do prequestionamento, nos termos da Súmula 211/STJ, in verbis: "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Oportuno consignar que o STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes, mas sim que a respeito tenha havido debate no acórdão recorrido.
+Destacam-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 535, II, DO CPC/1973. INOCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. LITISCONSÓRCIO NECESSÁRIO. ART. 47 DO CPC/1973. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação ao art. 535 do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que a embasam.
+2. Não se conhece da violação a dispositivos infraconstitucionais quando a questão não foi enfrentada pelo acórdão recorrido, carecendo o recurso especial do necessário prequestionamento (Súmula 211/STJ), sobretudo quando a parte, mesmo opondo embargos de declaração na origem, não suscitou a omissão na análise dos referidos aspectos.
+3. Infirmar a conclusão alcançada pela Corte de origem, quanto a existência de litisconsórcio necessário tão somente em relação a duas candidatas, que foram lotadas na localidade onde pretendem as agravadas lotação, considerando, para tanto, os limites da sentença de primeiro grau, pressupõe o cotejo da referida sentença com o conjunto probatório do feito, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ. Nesse sentido: AgRg no Ag 1403108/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/11/2015, DJe 10/12/2015.
+4. Agravo interno não provido.
+(AgInt no REsp 1592075/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/08/2016, DJe 26/08/2016)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. EXECUÇÃO FISCAL. EFEITO SUSPENSIVO. PERIGO DE DANO IRREPARÁVEL OU DE DIFÍCIL REPARAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Descumprido o indispensável exame dos artigos invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.  ..  Agravo regimental improvido.
+(AgRg no REsp 1.409.185/PE, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 21/11/2013, DJe 02/12/2013)
+Cumpre registrar que é imprescindível o prequestionamento, ainda que se trate de matéria de ordem de pública.
+Destacam-se os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 NÃO CONFIGURADA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. REAJUSTE DE VENCIMENTOS. INOCORRÊNCIA DE PRESCRIÇÃO DO FUNDO DE DIREITO. SÚMULA 85/STJ. AGRAVO REGIMENTAL DO ESTADO DO RIO DE JANEIRO DESPROVIDO. ART. 21 DA LEI COMPLEMENTAR 101/00. AS MATÉRIAS DE ORDEM PÚBLICA SUBMETEM-SE AO REQUISITO DO PREQUESTIONAMENTO.
+1. Todas as questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+2. É firme a orientação desta Corte Superior de que não ocorre a prescrição do fundo de direito no caso de inexistir manifestação expressa da Administração negando o direito reclamado, estando prescritas apenas as prestações vencidas no quinquênio que precedeu à propositura da ação, nos termos da Súmula 85/STJ.
+3. Mesmo as chamadas questões de ordem pública, apreciáveis de ofício nas instâncias ordinárias, devem estar prequestionadas, a fim de viabilizar sua análise nesta Instância Especial.
+4. Agravo Regimental do ESTADO DO RIO DE JANEIRO desprovido.
+(AgRg no AREsp 426.171/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 16/12/2014, DJe 19/12/2014)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. TRIBUTÁRIO. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.
+1. A questão atinente à prescrição dos créditos tributários não foi objeto de análise pelo Tribunal a quo, o que impede o conhecimento do recurso especial por ausência de prequestionamento, conforme a orientação das Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. Em verdade, o acórdão recorrido, reiterando a sentença que denegou a segurança, obstou o exame da matéria na sede mandamental por já haver execução fiscal em trâmite, fundamento que não foi impugnado no apelo nobre.
+3. A jurisprudência desta Corte é firme no sentido de que, mesmo as matérias de ordem pública, cognoscíveis de ofício pelas instâncias ordinárias, devem ser prequestionadas de modo a viabilizar o acesso à via especial.4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1434804/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/06/2015, DJe 29/06/2015)
+Ademais, no mérito, a instância de origem decidiu que:
+Extrai-se dos autos que a execução fiscal foi extinta diante do reconhecimento da prescrição intercorrente, não tendo sido localizado bens dos executados.
+Com efeito, a frustração de arrecadação tributária por inadimplemento voluntário e posteriormente, já em fase de execução, por não localização de bens do devedor após várias tentativas e diligências, revela a intenção do contribuinte de não cumprir obrigação legal a todos impostas, não podendo ser, pois, admitida e incentivada. Diante disso, conclui-se que foram os executados que deram causa ao ajuizamento e à extinção da execução, aplicando-se na hipótese o princípio da causalidade.
+Constata-se que o entendimento do Tribunal a quo está em sintonia com a jurisprudência desta Corte Superior, porquanto "declarada a prescrição intercorrente por ausência de localização de bens, incabível a fixação de verba honorária em favor do executado, eis que, diante dos princípios da efetividade do processo, da boa-fé processual e da cooperação, não pode o devedor se beneficiar do não-cumprimento de sua obrigação. A prescrição intercorrente por ausência de localização de bens não retira o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para o exequente" (REsp 1769201/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/03/2019, DJe 20/03/2019).
+No mesmo sentido, colecionam-se os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INEXISTÊNCIA.
+ ..
+2. Hipótese em que, para desprover a pretensão recursal de majoração dos honorários advocatícios estabelecida pela instância de origem, a fundamentação consignada no acórdão embargado foi clara no sentido de que, nos presentes autos, a verba honorária nem sequer seria devida, dada a impossibilidade de imputar o princípio da causalidade em desfavor da Fazenda Pública exequente, uma vez que a extinção da execução fiscal se deu pelo escoamento do prazo da prescrição intercorrente sem que fossem localizados bens penhoráveis.3. Embargos de declaração rejeitados.
+(EDcl no REsp 1768530/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/09/2020, DJe 22/09/2020)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE RECONSIDEROU DELIBERAÇÃO ANTERIOR PARA NEGAR PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE EXECUTADA.
+1. Segundo a orientação jurisprudencial adotada por esta Colenda Corte, à luz do princípio da causalidade, o pronunciamento da prescrição intercorrente, por ausência de localização de bens da parte devedora, não autoriza a fixação de verba honorária de sucumbência em seu favor.
+ ..
+2. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 1331844/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/08/2020, DJe 09/09/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. CAUSALIDADE. AUSÊNCIA DE SUCUMBÊNCIA DO EXEQUENTE.
+1. Conforme jurisprudência do STJ, "declarada a prescrição intercorrente por ausência de localização de bens, incabível a fixação de verba honorária em favor do executado, eis que, diante dos princípios da efetividade do processo, da boa-fé processual e da cooperação, não pode o devedor se beneficiar do não-cumprimento de sua obrigação. A prescrição intercorrente por ausência de localização de bens não retira o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para o exequente" (REsp 1769201/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 12/03/2019, DJe 20/03/2019).
+2. Agravo interno não provido.
+(AgInt no REsp 1837468/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/02/2020, DJe 11/02/2020)
+Cumpre esclarecer que o óbice aplicado impede o conhecimento do recurso por quaisquer das alíneas do permissivo constitucional.
+Assim, não merece reparo a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
