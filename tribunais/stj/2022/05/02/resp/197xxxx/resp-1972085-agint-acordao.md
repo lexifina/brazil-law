@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial que foiinterposto contra acórdão proferido peloTribunal de Justiça do Estado da Paraíba, assim resumidamente ementado:
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE COBRANÇA. PROFESSORDE EDUCAÇÃO BÁSICA. PISO SALARIAL. DIFERENÇA. CARGAHORÁRIA MÁXIMA ESTABELECIDA NA LEI FEDERAL. JORNADA DE TRABALHO MENOR. PAGAMENTO PROPORCIONAL. POSSIBILIDADE. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 255, §4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Da mesma forma, ao contrário do que entendeu o Exmo. Relator, quanto ao alegado óbice pela Súmula 7/STJ, a r. decisão agravada também deve ser reformada.
+Isso porque, a matéria questionada nesta via especial é meramente de direito, e não de fato, consoante restou demonstrado nas razões acima despendidas, cabendo a esta Corte analisar tão somente a existência de contradição e omissão no acórdão prolatado pelo Tribunal de Justiça da Paraíba, a respeito da qual foram opostos Embargos de Declaração, não sendo necessário, para tanto, qualquer reexame de provas.
+Por fim, impreca apontar que a matéria foi devidamente prequestionada na instância inferior, tendo o Tribunal de Justiça Estadual expressamente se manifestado no sentido de que não houve violação ao art. 1.022 do CPC, em razão de entender que não houve qualquer omissão e contradição no julgado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. SISTEMA REMUNERATÓRIO E BENEFÍCIOS. PISO SALARIAL.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ART. 535 DO CPC/1973. ART. 1.022 DO CPC/2015. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação ordinária de cobrança com pedido de medida liminar em desfavor do Município de Itapororoca/PB, objetivando receber diferenças salariaisdesde janeiro/2009 decorrentes da não aplicação do piso nacional dos professores. Na sentença o pedido foi julgado parcialmente procedente, para condenar o Município de Itapororoca a pagar a diferença apurada entre o valor dos vencimentos pagos e o valor devido do ano de 2009, em razão da não implantação do piso salarial nacional do magistério público proporcional àjornada de trabalho de 30 horas, nos termos da Lei Federal n. 11.738/08, devendo os respectivos valores serem corrigidos pelo IGPM e acrescidos de juros de 6% ao ano, da data em que deveriam ser pagos. No Tribunala quo, a sentença foi mantida.
+II - Não há violação do 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".
+IV - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não há violação do 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivoA prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
