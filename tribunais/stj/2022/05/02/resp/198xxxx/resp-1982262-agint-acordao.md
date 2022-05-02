@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto pelo Estado de São Paulo, com fundamento no art. 105, III, a, da CF/1988.
+O recurso visa reformar acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 322):
+EXECUÇÃO FISCAL
+Penhora de ativos financeiros de devedora beneficiária de plano de recuperação judicial Inadmissibilidade Decisão que deve ser tomada pelo juízo universal Precedente do Superior Tribunal de Justiça Agravo de instrumento provido.
+Na origem, trata-se de agravo de instrumento interposto por Mastra Indústria e Comércio Ltda. contra a decisão que, nos autos da execução fiscal ajuizada pelo Estado de São Paulo relativa a débitos de ICMS, determinou a penhora de ativos financeiros da executada, sob regime de recuperação judicial. No Tribunal a quo, a decisão foi reformada para determinar a incompetência do Juízo da execução, devendo o pedido ser direcionado ao juízo universal da recuperação judicial. Esta Corte negou provimento ao recurso especial.
+No recurso especial, o Estado de São Paulo alega ofensa aos arts.6º, § 7º, 57 e 58 da Lei n. 11.101/2005,29 e 31, ambos da Lei n. 6.830/1980 e 184, 185, 186, 187, 188, 189, 190, 191 e 191-A, todos do Código Tributário Nacional.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, nestes termos (fls. 363-366):
+ ..  ao contrário do que restou consignado na decisão agravada, a jurisprudência do STJ firmou-se pela competência do juízo universal tão somente para analisar e deliberar os atos constritivos ou de alienação já deferidos pelo juízo da execução fiscal, e não a competência inaugural e exclusiva do juízo da recuperação judicial para a adoção dessas medidas de constrição patrimonial. (..)
+ ..  o Superior Tribunal de Justiça jamais retirou do juízo da execução fiscal a competência para adoção das medidas constritivas, mas tão somente condicionou sua efetivação à avaliação pelo juízo da recuperação judicial, a fim de evitar a frustração do plano de soerguimento da empresa. (..)
+Desse modo, ficou preservada a competência do juízo da execução fiscal para o deferimento dos atos constritivos, os quais serão, contudo, avaliados pelo juízo da recuperação para fins de convalidação. (..)
+ ..  a legislação ora vigente, além de afastar da regra da suspensão as execuções fiscais, reconheceu a competência do juízo universal tão somente para substituição dos atos constritivos que recaiam sobre bens de capital. Trata-se de solução legislativa que caminha na mesma direção da cooperação jurisdicional adotada pelo Código de Processo Civil de 2015, bem como em consonância com a jurisprudência já firmada por este C. STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. EMBARGOS À EXECUÇÃO FISCAL. ATIVOS FINANCEIROS. PENHORA. EXECUTADA EM RECURAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO UNIVERSAL. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+I -Na origem, trata-se de agravo de instrumento interposto por Mastra Indústria e Comércio Ltda. contra a decisão que, nos autos da execução fiscal ajuizada pelo Estado de São Paulo, relativa a débitos de ICMS, determinou a penhora de ativos financeiros da executada, sob regime de recuperação judicial. No Tribunal a quo, a decisão foi reformada para determinar a incompetência do Juízo da execução, devendo o pedido ser direcionado ao juízo universal da recuperação judicial. Esta Corte negou provimento ao recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que os atos de constrição, como a penhora de ativos financeiros de devedora beneficiária de plano de recuperação judicial deve ser tomada pelo juízo universal, devendo ser suspensa a decisão que determina a constrição. Sobre o assunto, confira-se: (AgInt no AREsp 1.337.315/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/11/2018, DJe 21/11/2018 e REsp 1.701.654/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/2/2018, DJe 14/11/2018.)
+III - Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A decisão deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiça firme no sentido de que os atos de constrição, como a penhora de ativos financeiros de devedora beneficiária de plano de recuperação judicial deve ser tomada pelo juízo universal, devendo ser suspensa a decisão que determina a constrição.
+Sobre o assunto, confira-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. NÃO SUSPENSÃO DA EXECUÇÃO FISCAL. ATOS DE CONSTRIÇÃO E DE ALIENAÇÃO DE BENS SUJEITOS À RECUPERAÇÃO DEVEM SER PREVIAMENTE ANALISADOS PELO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+I - Trata-se de agravo de instrumento interposto pela União Federal/Fazenda Nacional, visando à reforma da decisão que indeferiu o pedido de realização de constrição eletrônica de ativos financeiros, mediante a utilização do sistema BACENJUD, sob o fundamento de que o juízo da recuperação judicial é competente para determinar os atos de alienação ou de constrição que comprometam o cumprimento do plano de reorganização da empresa. No Tribunal a quo, o recurso foi parcialmente provido.
+II - A jurisprudência do Superior Tribunal de Justiça possuí entendimento de que, embora o deferimento da recuperação judicial não suspenda a execução fiscal, os atos de constrição e de alienação de bens sujeitos à recuperação devem ser previamente analisados pelo Juízo da recuperação judicial. Nesse sentido, confira-se o precedente: AgInt no CC n. 152.742/RJ, Rel. Ministro Marco Buzzi, Segunda Seção, julgado em 14/3/2018, DJe 21/3/2018). III - Agravo interno improvido.
+(AgInt no AREsp 1337315/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 13/11/2018, DJe 21/11/2018.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. MEDIDAS CONSTRITIVAS. POSSIBILIDADE COM BASE NAS CIRCUNSTÂNCIAS DO CASO CONCRETO. PRECEDENTE.
+1. A lei prevê que o pedido de recuperação judicial não suspende os feitos executivos. Contudo, a possibilidade de prosseguimento da execução fiscal, bem como a preferência do crédito tributário não autorizam, automaticamente, a prática de todos os atos executórios, uma vez que não devem ser adotadas medidas constritivas que possam prejudicar a tentativa de recuperação da empresa.
+2. Observa-se que o Tribunal de origem não aplicou o entendimento acima, pois concluiu, em termos genéricos, que, deferida a recuperação judicial, compete ao juízo falimentar analisar e deliberar acerca do deferimento de medidas constritivas na execução fiscal.
+3. Para chegar a esse entendimento, não atentou, previamente, para as peculiaridades do caso concreto, vale dizer, se a concessão do Plano de Recuperação Judicial guardou observância aos arts. 57 e 58 da Lei nº 11.101/2005 (ou seja, à vista da prova de regularidade fiscal).
+4. Assim, merece reforma o acórdão recorrido para que eventual prática de atos constritivos em face da empresa recorrida (em recuperação judicial) seja autorizada na forma e nos limites estabelecidos no precedente acima citado (o que será verificado no âmbito das instâncias ordinárias).
+5. Recurso Especial parcialmente provido.
+(REsp 1701654/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 20/2/2018, DJe 14/11/2018)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
