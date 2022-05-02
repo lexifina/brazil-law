@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Sérgio Kukina.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto pela União contra decisão de minha lavra, em que conheci do agravo por elainterposto, para conhecer em parte de recurso especial e, nessa extensão, neguei-lhe provimento (e-STJ fls. 1.104/1.107).
+Sustenta a parte recorrente que nenhuma das súmulas indicadas como óbices ao conhecimento do mérito em si do recurso eram aplicáveis no particular.
+Argumenta, em resumo, que: a) enfrentou todas as questões relativas à prescrição, pelo que inaplicáveis as Súmulas 283 e 284 do STF; b) o exame dos marcos da prescrição dispensarevolvimento de matéria fático-probatória, afastando o enunciado da Súmula 7 do STJ; c) ao contrário do que constou na decisão recorrida, o acórdão regional foi de encontro à jurisprudência desta Corte; d) no julgamento do RE n.1.023.750/SC, em 24/08/2020, o Supremo Tribunal Federal sedimentou, em precedente vinculante, que a competência para cobrança de valores devidos após a instituição do RJU (dezembro/1990) é da Justiça Federal.
+Impugnação do recurso (e-STJ fls. 1.130/1.161).
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. FUNDAMENTO. IMPUGNAÇÃO PARCIAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. PRESCRIÇÃO. PCCS. TERMO INICIAL.
+1. Compete à parte recorrente infirmar, em concreto, os fundamentos erigidos na decisão de origem, sob pena de esbarrar no óbice das Súmulas 283 e 284 do STF.
+2. Hipótese em que, enquanto o acórdão regional apresentou argumentos específicos para afastar a tese de ocorrência da prescrição, a União se limitou a alegar ter se operado o instituto, indicando os marcos que entendia como delimitadores do lustro prescricional, sem enfrentar em concreto as teses entabuladas na decisão recorrida.
+3. Além disso, para a União, "houve a interrupção da prescrição com o ajuizamento de reclamação trabalhista em 19/07/1990, pelo que o prazo quinquenal do art. 1º deveria recomeçar a transcorrer pela metade (art. 9º) a partir de 30/11/1994, data da extinção da mencionada reclamatória. O segundo ajuizamento perante a trabalhista se deu apenas em 31/07/1997, com trânsito em julgado em 05/10/2009 e a justiça federal, por sua vez, foi demandada apenas em 2015", sendo certo que a pretensão de revisar tais fatos esbarra no óbice da Súmula 7 do STJ.
+4. O acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qual o prazo prescricional para os servidores públicos buscarem a tutela de seu direito, relativo ao Adiantamento do PCCS, perante a Justiça Federal, tem como termo inicial o trânsito em julgado da decisão da justiça laboral que declinou da competência.
+5. Agravo interno não provido.
+VOTO
+Adianto que o agravo não merece acolhimento.
+Não obstante a agravante tenha afirmado ter infirmado um a um os argumentos sobre a prescrição, tendo inclusive apresentado tabela comparativa no bojo do recurso, não é o que se observa do cotejo entre os fundamentosno apelo especial e aqueles constantes do acórdão local.
+Enquanto a decisão da origem indicou concretamente o porquê de não ter ocorrido a prescrição, o recurso da União, embora tenha tratado do mesmo instituto, não o fez à luz dos fundamentos desenvolvidos no acórdão da instância originária.
+As principais teses defendidas no acórdão regional eram as de que: a) a prescrição somente começou a fluir quando foram decididos os limites da execução da reclamatória trabalhista, excluindo o mencionado período, já que antes não teria iniciado a pretensão, pois, se cogitasse a parte autora a propositura de outra ação, enquanto tramitava a reclamatória, a questão da litispendência certamente estaria posta; b) não há que falar emfluência da prescrição pela metade do prazo, conforme previsto no art. 9º do Decreto 20.910/1932, pois não se trata de prescrição que tenha sido interrompida e tenha voltado a fluir. Isso porque a inércia do titular do direito, para o órgão de origem, nunca esteve configuradae somente com a restrição do objeto da reclamatória trabalhista é que foi posta à parte autora a possibilidade de ajuizar demanda individual, postulando as diferenças ora debatidas, sem que se configurasse litispendência.
+O ente federal se limitou a alegar a ocorrência da prescrição, indicando os marcos que entendia como delimitadores do lustro prescricional, sem enfrentar em concreto as teses acima citadas.
+Assim, corretamente aplicadas as Súmulas 283 e 284 do STF.
+Além disso, ao contrário do que alegou a agravante, não haveria como confirmar, sem a necessária revisão dos fatos, que se teria operado o seguinte contexto (mencionado pela parte recorrente):
+Ocorre que, como observou a União em seu apelo, já havia decisão declinatória de competência no bojo da reclamação trabalhista, a qual transitou em julgado em 2009. Ajuizada a presente ação em 2015, é notório o decurso do quinquênio prescricional.
+Ainda que assim não se entenda, é notório que houve a interrupção da prescrição com o ajuizamento de reclamação trabalhista em 19/07/1990, pelo que o prazo quinquenal do art. 1º deveria recomeçar a transcorrer pela metade (art. 9º) a partir de 30/11/1994, data da extinção da mencionada reclamatória. O segundo ajuizamento perante a trabalhista se deu apenas em 31/07/1997, com trânsito em julgado em 05/10/2009 e a justiça federal, por sua vez, foi demandada apenas em 2015. (e-STJ fl. 1.122)
+O agravo, nesse sentido, só reforça a correta aplicação da Súmula 7 do STJ.
+Ademais, o acórdão recorrido, ao menos em tese, adotou entendimento consolidado nesta Corte, segundo o qual o prazo prescricional para os servidores públicos buscarem a tutela de seu direito, relativo ao Adiantamento do PCCSperante a Justiça Federal, tem como termo inicial o trânsito em julgado da decisão da justiça laboral que declinou da competência.
+Com isso, plenamente aplicável a Súmula 83 desta Corte de Justiça.
+Se o contexto fático dos autos era outro, conforme alega a agravante, apenas com a imersão naquele seria possível aferir o equívoco da origem, situação incompatível com a já aplicada Súmula 7 também deste Tribunal.
+Além disso, o resultado do julgamento do RE n. 1.023.750/SC não implicaria melhor sorte à agravante, já que a tese ali definida não tratou da prescrição, de modo que a solução dada na origem não haveria como contrariar o precedente invocado.
+Deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
