@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2079, de 14 de abril de 2022
+Altera a Instrução Normativa RFB nº 1.864, de 27 de dezembro de 2018, que dispõe sobre os procedimentos de verificação de origem de mercadorias importadas com tratamento tarifário preferencial.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto nos Acordos Internacionais firmados pelo Brasil que estabelecem preferências tarifárias, resolve:
