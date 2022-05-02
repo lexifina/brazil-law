@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Convenção São Paulo Indústria de Bebidas e Conexos LTDA. em face de decisão que negou provimento a agravo em recurso especial.
+Afirma, em relação ao enunciado n. 284 da Súmula do Supremo Tribunal Federal, que "o Recurso Especial interposto pela ora Agravante tratou de impugnar todos os fundamentos trazidos pelo v. acórdão que negou provimento ao agravo de instrumento interposto" (e-STJ, fl. 424) e que foi demonstrada a indispensável necessidade de suspensão do recurso especial em virtude da afetação da tese à sistemática dos recursos especiais repetitivos.
+Sustenta que não há pretensão de reexame de provas, na medida em que as questões fáticas necessárias ao julgamento da causa estão expostas no acórdão estadual.
+Pede o provimento do recurso.
+Impugnação da parte contrária informando que à recorrente teria sido aplicada a multa prevista no artigo 1.021, § 4º, do Código de Processo Civil, sem que a agravante tenha, todavia, recolhido a referida pena previamente à interposição do recurso especial.
+Acresceu argumento no sentido de que à penhora de faturamento da agravante precederam diversas diligências e penhoras infrutíferas ou de valores irrisórios.
+Determinada a intimação da agravada para se manifestar quanto à multa do artigo 1.021, § 4º, do CPC e a ausência de recolhimento prévio (e-STJ, fl. 445), esta informou que a indigitada multa foi aplicada no agravo interno contra decisão que apenas examinou o efeito suspensivo e que, contra a questão meritória, outro acórdão foi lavrado, contra o qual se recorreu especialmente, e que não houve aplicação de multa, razão pela qual o recurso deve ser conhecido.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PENHORA. FATURAMENTO. TEMA REPETITIVO. EXECUÇÃO FISCAL. ART. 1.037, II, DO CPC. SÚMULA N. 284/STF. INEXISTÊNCIA DE OUTROS BENS PENHORÁVEIS. REEXAME. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+1. Incompreensível a alegação de que o tema estaria suspenso por afetação de recursos especiais que versam sobre penhora de faturamento em execução fiscal, na medida em que o caso dos autos é de execução de título extrajudicial entre particulares. Incidência, na hipótese, do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O inconformismo não merece acolhida.
+Quanto à questão preliminar, tem razão a agravante.
+Consta dos autos o acórdão de fls. 338/341 (e-STJ), que examinou agravo interno contra decisão que concedeu apenas parcialmente o efeito suspensivo almejado.
+Nesse acórdão foi, de fato, imputada à recorrente a multa prevista no artigo 1.021, § 4º, do CPC, contra o qual, todavia, não consta recurso nos autos.
+O recurso especial foi interposto contra o acórdão de fls. 297/301, que tomou a seguinte ementa,e no qual não houve aplicação de multa alguma:
+Agravo de Instrumento. Execução de título extrajudicial. Pedido para que a penhora não recaia sobre faturamento da empresa, mas, sim, sobre bem móvel oferecido que consiste em maquinário. Alegação de que não foram exauridas as tentativas de localização de outros bens. Impossibilidade. Agravado que busca o crédito desde 2013 sem êxito. Inércia da Agravante em cooperar com o Juízo para possibilitar que a penhora seja direcionada para rumo que lhe seja menos oneroso. Bem oferecido para penhora que possui mais de 22 anos de utilização, sem ter a Agravante demonstrado seu estado de conservação. Ausência de liquidez ante a especificidade do bem que possui mercado restrito. Falta de aceitação da substituição da penhora pelo Agravado. Parcial provimento do recurso para acolher o pedido subsidiário de minoração dos honorários periciais do responsável na elaboração do plano de administração a possibilitar a penhora. Valores que superam 15% do valor perseguido. Honorários que devem ser fixados em R$ 5.000,00 (cinco mil reais). Decisão parcialmente reformada.
+RECURSO PARCIALMENTE PROVIDO.
+Alegou, na ocasião, violação dos artigos 1.022, 805, 835, X, 866, 1.036 e 1.037, II, do Código de Processo Civil, sob o argumento de que o acórdão local é omisso, que o processo deveria ter sido suspenso por ter esta Corte afetado o tema em discussão para julgamento pela sistemática dos recursos especiais repetitivos e que, de qualquer modo, foi indevida a penhora de faturamento da agravante.
+Foi negado seguimento ao recurso especial por decisão que foi alvo de agravo, a que se negou provimento, daí sobrevindo o presente agravo interno.
+Inaplicável, portanto, o disposto no artigo 1.021, § 5º, do Código de Processo Civil.
+Quanto ao mais, o enunciado n. 284 da Súmula do Supremo Tribunal Federal não tem e não teve como razão a insuficiência de impugnação do acórdão de origem, como parece crer a recorrente, mas deficiência na argumentação do recurso no que toca à pretendida suspensão.
+Assim se fez porque os recursos especiais 1.666.542/SP, 1.835.864/SP e 1.835.865/SP, invocados pela agravante e afetados para julgamento pela sistemática dos recursos repetitivos, determinando-se a suspensão dos processos que discutam a penhora sobre feitos que versem sobre o mesma, o foram pela Primeira Seção desta Casa para a discussão dos requisitos necessários para o deferimento de penhora sobre faturamento em execução fiscal, o que não é o caso dos autos, já que aqui a execução é entre particulares, daí por que incompreensível e deficiente a fundamentação, a atrair o verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Quanto ao mais, o fato assertado pelo acórdão local foi justamente o de que não havia outros bens penhoráveis, já que o oferecido não tinha liquidez no mercado, de modo que o reexame da causa esbarra inequivocamente nas disposições do verbete n. 7 da Súmula desta Casa.
+Para exame:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO NA ORIGEM. CUMPRIMENTO DE SENTENÇA. PENHORA. FATURAMENTO DA EMPRESA. POSSIBILIDADE. AUSÊNCIA DE OUTROS BENS. SÚMULAS 7 E 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. É cabível a penhora de percentual do faturamento líquido da sociedade empresária devedora, em não existindo patrimônio outro suficiente, visando, por um lado, disponibilizar forma de constrição menos onerosa para o devedor e, por outro lado, garantir de forma idônea e eficaz a satisfação do crédito, atendendo, assim, ao princípio da efetividade da execução. Precedentes.2. No caso, o Tribunal de Justiça autorizou a penhora de 10% (dez por cento) do faturamento da ora recorrente, reconhecendo ser a medida excepcional, adotada por ter resultado infrutífera a busca por outros bens penhoráveis, sendo os indicados à penhora pela executada inidôneos para a garantia do juízo. Rever a conclusão do acórdão recorrido, quanto à inexistência de outros bens penhoráveis em nome do devedor, demandaria o reexame de provas, o que é vedado pela Súmula 7/STJ.3. Agravo interno improvido.
+(AgInt no AREsp 1787003/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 9/8/2021, DJe 31/8/2021)
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
