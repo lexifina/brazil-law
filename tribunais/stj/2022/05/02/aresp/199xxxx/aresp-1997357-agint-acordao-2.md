@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 933/942) interposto contra decisão desta relatoria, que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 907/909).
+Em suas razões, a parte reitera a tese de negativa de prestação jurisdicional, destacando que(e-STJ fls. 935/936).
+Veja es se c . STJ que o trecho do v. acórdão ampara o julgamento nas premissas de que havia um "compartilhamento do equipamento" de pivô "pertencente em condomínio ao réu Pieter e ao Sr. Geert".
+Essas premissas, entretanto, não correspondem à verdade real e formal levada aos autos. Aliás, isso nunca foi dito e nem cogitado por qualquer das partes, sendo fato incontroverso nos autos que o pivô objeto da contenda sempre foi exclusivamente do Sr. Geert e, posteriormente, alienado aos Agravantes.
+(..)
+A controvérsia era acerca a natureza da posse exercida sobre o aqueduto e uma pequena parte da área (l,83ha) onde o pivô central, que funciona girando 360º, necessariamente precisa passar para completar o seu ciclo.
+Deste modo, considerando que o v. acórdão somente não concedeu a proteção possessória da pequena área porque partiu das mencionadas premissas equivocadas, os Agravantes opuseramembargos de declaração, provocando a correção do vício apontado e, com isso, esperando que sua correção pudesse gerar aquilo que lhe seria natural e evidente.
+Afinal, não faz sentido algum reconhecer que o aqueduto serviu, por mais de 30 anos, o pivô central que circulou naquela área durante todo o período e, ao mesmo tempo, não concedera proteção da pequena área que, por razões óbvias, foi sempre utilizada também pelos 30 anos.
+Alega não ser caso de incidência da Súmula n. 7 do STJ, sustentando que,"estando latente a negativa de prestação jurisdicional, não há que se falar no emprego da Súmula 07, pois o objetivo primeiro do recurso especial é, justamente, que os autos retornem à 2a instância para que todas as omissões invocadas nos embargos declaratórios sejam supridas, enfrentando-se o contexto fático e processual daí decorrente, o que permitirá aos Agravantes terem livre acesso a essa instância superior" (e-STJ fl. 939).
+Assim, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado, com o provimento do recurso especial na íntegra.
+Impugnação apresentada às fls. 947/954(e-STJ).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu que não ficoudemonstrada a posse sobre área do imóvel dos requeridos para fins de utilização do pivô, mas tão somente o compartilhamento do equipamento, que era utilizadopor cada proprietário. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 907/909):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por FÁBIO VILELA DE QUEIROZ e OUTRA contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 706/711).
+O acórdão recorrido está assim ementado (e-STJ fls. 285/286):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE MANUTENÇÃO DE POSSE - PRINCÍPIO DA DIALETICIDADE - PRELIMINAR DE NÃO CONHECIMENTO REJEITADA - SERVIDÃO DE AQUETUDO APARENTE - EXERCÍCIO INCONTESTADO E CONTINUO - PIVÔ DE IRRIGAÇÃO - BEM MÓVEL - AUSÊNCIA DE POSSE - LITIGÂNCIA DE MÁ-FÉ - FALTA DE PROVA. O princípio da dialeticidade consiste no dever, imposto ao recorrente, de apresentar no recurso os fundamentos de fato e de direito que deram causa ao seu inconformismo com a decisão prolatada. A servidão de aqueduto confere a seu titular o direito de canalizar água pelo prédio de outrem, nos termos dos arts. 1.293, 1.294 e 1.286 do Código Civil. Não há mera permissão ou tolerância do proprietário do imóvel serviente quando o proprietário do prédio dominante efetivamente pagou pelo aqueduto, tornando-se dele também proprietário e exercendo de modo incontestado e contínuo a servidão de aqueduto. O pivô de irrigação é bem móvel de propriedade em condomínio pelas partes, havendo apenas o compartilhamento de equipamento por cada proprietário em sua respectiva área, não havendo posse sobre imóvel alheio. A litigância de má-fé não se presume, sendo imprescindível para o seu reconhecimento que sua ocorrência esteja demonstrada cabalmente, cujo ônus é da parte que alega as hipóteses previstas legalmente.
+V.V. P. EMENTA: APELAÇÃO - AÇÃO DE MANUTENÇÃO DE POSSE E SERVIDÃO - SISTEMA DE CAPTAÇÃO DE ÁGUA - COMPARTILHAMENTO POR PERMISSÃO - TRANSMISSÃO DO IMÓVEL QUE NÃO IMPLICA TRANSMISSÃO DO DIREITO DE USO - NECESSIDADE DA SERVIDÃO NÃO DEMONSTRADA Quem se proclama possuidor deve ultrapassar os requisitos legais atinentes à matéria (CPC, art. 927), incumbindo-lhe o ônus da prova (CPC, art. 333, 1) e, sem a comprovação desses requisitos, não pode a ação de manutenção de posse vingar. Não há uma única prova e nem mesmo argumentação no sentido da necessidade de submissão de um prédio a outro, à medida de que não há prova de inexistência de outra forma de aceso à água para a irrigação das culturas dos apelantes ou de que o acesso ao sistema de captação implementado na propriedade vizinha seja menos oneroso.
+Os embargos de declaração foram rejeitados (e-STJ fls. 330/331).
+No recurso especial (e-STJ fls. 370/386), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou afronta ao art. 1.022 do CPC/2015, por negativa de prestação jurisdicional.
+Apontou ainda ofensa aos arts. 374, III, do CPC/2015, 927 do CPC/1973 e 1.210 do CC/2002, sustentando, em síntese, que fazem jus à "manutenção da posse dos Recorrentes sobre a área de 1 ,83ha, de propriedade dos Recorridos, mas que é necessária à circulação do pivô central que irriga as lavouras daqueles primeiros" (e-STJ fl. 386).
+No agravo (e-STJ fls. 716/728), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 873/882).
+É o relatório.
+Decido.
+Não há falar em ofensa ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 303/304):
+Por outro lado, quanto à área onde circula o pivô para irrigação da lavoura, igual sorte não assiste aos apelantes.
+Isso porque não restou demonstrada a posse sobre área do imóvel dos requeridos para fins de utilização do pivô, mas tão somente o compartilhamento do equipamento, que era utilizada par cada proprietário - o réu Pieter e o sr. Geert - em sua respectiva área.
+Trata-se, pois, de bem móvel pertencente em condomínio ao réu Pieter e ao sr. Geert, tendo sido a parcela do segundo alienada à COANOR e posteriormente ao autor Fábio. Ora, eventual celeuma a respeito da impossibilidade de uso do pivô não é de natureza possessória, e, portanto, incabível na presente ação.
+Conforme acima exposto, é permitido ao proprietário do imóvel serviente cercar suas terras, desde que garantido o acesso à servidão de aqueduto. Todavia, o eventual impedimento de utilização do pivô de propriedade em condomínio pelas partes causado pela instalação das cercas não possui natureza possessória, já que os autores estão, em tese, sendo impedidos apenas de utilizarem o bem móvel, que em nada afeta o exercício da posse sobre seu imóvel e menos ainda garante-lhes direito de posse sobre o imóvel vizinho."
+Para alterar os fundamentos acima transcritos e reconhecer a possibilidade de uso do pivô, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Na verdade, sob o pretexto de sanar supostos vícios, a parte demonstra inconformismo com as conclusões do Tribunal de origem. Desse modo, não há falar em violação do art. 1.022 do CPC/2015.
+No caso, o TJMGreconheceu que a parte ora agravantenão comprovou a posse sobre área do imóvel dos requeridos para fins de utilização do pivô, mas tão somente o compartilhamento do equipamento, que era utilizadoporcada proprietário - o réu Pieter e o sr. Geert -em sua respectiva área.
+Acrescentouque o eventual impedimento de utilização do pivô não possui natureza possessória, pois os autores estão, em tese, sendo impedidos apenas de utilizarem o bem móvel. Não é afetado, portanto,o exercício da posse sobre oimóvel.
+Tendo o Tribunal de origem assim decidido com base nos elementos de prova, concluir diversamente atrai a Súmula n. 7 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
