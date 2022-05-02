@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA Nº 260, DE 30 DE MARÇO DE 2022
+Revoga expressamente Cartas Circulares do Banco Central do Brasil já revogadas tacitamente ou cujos efeitos tenham se exaurido no tempo, conforme determina o Decreto nº 10.139, de 28 de novembro de 2019.
+O Chefe do Departamento de Regulação Prudencial e Cambial (Dereg), no uso da atribuição que lhe confere o art. 23, inciso I, alínea “a”; e art. 118, incisos I, alínea “a”, e II, alíneas “a”, “b” e “c”, do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, e tendo em vista o disposto o disposto no art. 1º, parágrafo único, combinado com o art. 14, § 3º, inciso I, da Lei Complementar nº 95, de 26 de fevereiro de 1998, e no art. 8º do Decreto nº 10.139, de 28 de novembro de 2019,
+R E S O L V E :
