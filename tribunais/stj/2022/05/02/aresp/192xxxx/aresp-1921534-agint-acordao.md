@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Sérgio Kukina.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FAZENDA NACIONALcontra decisão em queconheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+A parte agravante alega violação dos arts. 489, § 1º, e 1.022 do CPC/2015, pois entende haver omissão quanto aos seguintes pontos (e-STJ fls. 720/721):
+(i) há demonstração nos autos da ocorrência de sucessão empresarial;
+(ii) não é possível tomar-se como idôneo um contrato pactuado depois da dissolução irregular da executada, o que inclusive indica a prática de fraude à execução fiscal;
+(iii) o contrato de licença de uso de marca não teve outro propósito senãoblindar a Cory contra os efeitos jurídicos da patente sucessão tributária prevista no artigo 133 do CTN;
+(iv) a sucessora Cory, ao passar a produzir as mesmas "Balas Chita" antes produzidas pela executada, assumiu para si a própria identidade da devedora originária, "A Olímpica Bala Chita";
+(v) conforme melhor entendimento, não se faz necessário, para a configuração da sucessão de empresas, que haja contrato escrito celebrado entre elas (o que, na prática, quase nunca ocorre, exatamente na tentativa da descaracterização do fato ocorrido);e
+(vi) a situação descrita nos autos se enquadra perfeitamente à hipótese prevista no art. 133, do CTN.
+Impugnação às e-STJ fls. 726/727.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. Inexiste violação dos arts. 489 e 1.022 do CPC/2015 quandoo Tribunal de origem aprecia fundamentadamente a controvérsia,apontando as razões de seu convencimento, ainda que de forma contráriaaos interesses da parte, como constatado na hipótese.
+2. O Tribunal de origem assentou que não ficou configurada a existência de sucessão empresarial, hábil a ensejar responsabilidade tributária da parte executada, de modo que a revisão desseentendimentodemandaria, na hipótese, reexame do conjunto fático-probatório, providência vedada no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+3.Agravo interno desprovido.
+VOTO
+Não obstante os argumentos expendidos pela parte agravante, a decisão agravada merece ser mantida.
+O Tribunal Regional Federal da 3ª Região negou provimento ao agravo de instrumento interpostopela FAZENDA NACIONAL contra decisão que indeferiu a inclusão de empresa no polo passivo de execução fiscal, ante a não ocorrência de sucessão empresarial.
+Eis a ementa do acórdão (e-STJ fl. 565):
+PROCESSUAL CIVIL. SUCESSÃO EMPRESARIAL. ART. 133 DO CTN.
+I- Necessidade de comprovação de que a empresa supostamente sucessora tenha adquirido estabelecimento da empresa que se pretende sucedida para o reconhecimento de sucessão empresarial.
+II- Ausência de prova contundente da ocorrência da sucessão empresarial, não bastando que a empresa alegada sucessora tenha firmado contrato de licença de uso de marca por prazo determinado. Precedentes.
+III- Recurso desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fl. 629).
+No que concerne à alegação de negativa de prestação jurisdicional,, vale reiterar quenão há violação do art. 1.022 do CPC/2015, muito menos negativa de prestação jurisdicional, quando o acórdão decide de forma clara e integral a controvérsia, adotando fundamentação suficiente, não se confundindo decisão desfavorável com negativa deprestação jurisdicional.
+Acerca do tema, conferir, ainda: AgInt no AREsp 11.68.812/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 21/08/2018, DJe 24/08/2018, e EDcl no AgInt no REsp 1.276.901/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 21/08/2018, DJe 28/08/2018.
+No caso, o Tribunal a quo decidiu de forma minuciosa e suficientemente fundamentada sobre todos os temas apontados como olvidados.
+No mais, extrai-se do julgado recorrido que não ficou caracterizada a sucessão empresarial no caso, porquanto houve um "Contrato de Licença de Uso de Marca" por prazo determinado, ato empresarial que não caracteriza aquisição de estabelecimento comercial.
+Nesse contexto, dissentir da conclusão a que chegou a Corte de origem implica inevitável revolver de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido, em casos análogos, os seguintes julgados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PRETENSÃO VINCULADA AO REEXAME DE PROVAS. INADEQUAÇÃO.
+1. Conforme enuncia a Súmula 7 do STJ, o recurso especial não serve à pretensão de revisão de acórdão cuja conclusão deriva do exame de provas.
+2. Hipótese em que, sem reexame fático-probatório, não há como se reconhecer a legitimidade da Associação Nacional dos Contribuintes de Tributos para a impetração de mandado de segurança coletivo, pois o Tribunal Regional Federal consignou que "a associação em tela tem como seus reais associados advogados que oferecem os serviços de assessoria jurídica da entidade para grupos de interessados os mais diversos e heterogêneos, sem natureza de coletividade ou categoria certa, e que ainda por cima não são verdadeiramente sócios da entidade, mas pontuais tomadores de serviços de assessoria advocatícia em casos individuais. O arcabouço jurídico de suposta associação na verdade encobre uma relação de prestação de serviços advocatícios oferecida a qualquer interessado, não representando nenhuma categoria ou classe com contornos precisos. Os únicos verdadeiros sócios são os profissionais liberais sócios fundadores que oferecem estes serviços e aceitam associar os eventuais constituintes contratantes".
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.562.861/CE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 14/10/2019, DJe de 17/10/2019).
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA COLETIVO. CONTRIBUIÇÃO SOCIAL DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO DE INTERESSE DE CATEGORIAS PROFISSIONAIS.
+I - Da leitura do acórdão recorrido, mais precisamente das fls. 241-242, extrai-se manifestação explícita da matéria apontada por omissa, afastada, por isso a alegação de violação do art. 535 do CPC/73.
+II - No recurso especial, a ASSOCIAÇÃO NACIONAL DOS CONTRIBUINTES DE TRIBUTOS também alegou que o acórdão regional teria contrariado as disposições contidas nos arts. 1º, 2º, 6º e 7º, incisos I e II, todos da Lei n. 12.016/2009, bem como nos arts. 13, 112 e 113 do CPC.
+III - Assevera que é desnecessária a juntada da relação de filiados para a interposição de mandado de segurança coletivo, já que se trata de substituição processual.
+IV - Quanto aos arts. 13, 112 e 113 do CPC, impõe-se o não conhecimento do recurso especial. Isso porque não basta a mera indicação do dispositivo supostamente violado, pois as razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a recorrente visa reformar o decisum.
+V - Diante disso, o conhecimento do recurso especial, neste aspecto, encontra óbice na Súmula 284 do Supremo Tribunal Federal.
+VI - Quanto aos arts. 1º, 2º, 6º e 7º, incisos I e II, todos da Lei n. 12.016/2009, da análise das razões do acórdão recorrido, conclui-se que este interpretou os dispositivos tidos por afrontados a partir de argumentos de natureza eminentemente fática. É o que se infere da leitura do seguinte excerto do acórdão recorrido (fl. 243, e-STJ): "Cabia à impetrante, portanto, comprovar a existência de associado com domicílio fiscal atendido pelo Delegado da Receita Federal do Brasil em Caxias do Sul, já que contra esta autoridade dirigiu o mandamus. Não o tendo feito, apesar de instada pelo juízo, impossível reconhecer a legitimidade passiva ou o interesse de agir, porquanto ninguém seria beneficiado com decisão que viesse a ser proferida nestes autos. No mais, o contexto dos autos parece indicar que a impetrante pretende tornar-se destinatária de grande número de contribuintes interessados em se beneficiar do julgado que busca obter aqui, caminho este que não se mostra apropriado à finalidade do texto magno, o qual estabelece, justamente, o inverso: primeiro a entidade inclui associados em seus quadros para só então defender seus interesses. Desta forma, não há como acolher a inconformidade da apelante".
+VII - Nesse caso, não há como aferir eventual violação sem que se reexamine o conjunto probatório dos presentes autos.
+VIII - A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame.
+IX - Ademais, o acórdão recorrido assentou seu convencimento ainda no seguinte fundamento (fl. 112, e-STJ): "Com efeito, da dispensa de juntar a relação dos associados - reconhecida pela jurisprudência - não se pode inferir a dispensa de que a impetrante tenha de comprovar a existência, dentre seus associados, de um número mínimo de titulares do direito que defende no mandado de segurança. Pelo que consta dos autos, só se tem identificados os associados fundadores da entidade, pessoas físicas, em número de seis, todas residentes em Brasília/DF (evento 1/inf2). Nenhuma prova apontando a existência de associado(s) com domicílio em Caxias do Sul/RS, cidade cuja autoridade fazendária foi apontada como coatora neste mandado de segurança".
+X - A dicção das razões do recurso especial revela que esse fundamento do acórdão recorrido acima enunciado não foi objeto de impugnação. Assim, incide, na espécie, por analogia, a Súmula 283 do STF.
+XI - Agravo interno improvido.
+(AgInt nos EDcl no AgInt no REsp 1.596.215/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 05/06/2018, DJe 08/06/2018).
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA COLETIVO. CONTRIBUIÇÃO SOCIAL DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO DE INTERESSE DE CATEGORIAS PROFISSIONAIS.
+ ..
+II - No recurso especial, a ASSOCIAÇÃO NACIONAL DOS CONTRIBUINTES DE TRIBUTOS também alegou que o acórdão regional teria contrariado as disposições contidas nos arts. 1º, 2º, 6º e 7º, incisos I e II, todos da Lei n. 12.016/2009, bem como nos arts. 13, 112 e 113 do CPC.
+III - Assevera que é desnecessária a juntada da relação de filiados para a interposição de mandado de segurança coletivo, já que se trata de substituição processual.
+IV - Quanto aos arts. 13, 112 e 113 do CPC, impõe-se o não conhecimento do recurso especial. Isso porque não basta a mera indicação do dispositivo supostamente violado, pois as razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a recorrente visa reformar o decisum. V - Diante disso, o conhecimento do recurso especial, neste aspecto, encontra óbice na Súmula 284 do Supremo Tribunal Federal.
+VI - Quanto aos arts. 1º, 2º, 6º e 7º, incisos I e II, todos da Lei n. 12.016/2009, da análise das razões do acórdão recorrido, conclui-se que este interpretou os dispositivos tidos por afrontados a partir de argumentos de natureza eminentemente fática. É o que se infere da leitura do seguinte excerto do acórdão recorrido (fl. 243, e-STJ): "Cabia à impetrante, portanto, comprovar a existência de associado com domicílio fiscal atendido pelo Delegado da Receita Federal do Brasil em Caxias do Sul, já que contra esta autoridade dirigiu o mandamus. Não o tendo feito, apesar de instada pelo juízo, impossível reconhecer a legitimidade passiva ou o interesse de agir, porquanto ninguém seria beneficiado com decisão que viesse a ser proferida nestes autos. No mais, o contexto dos autos parece indicar que a impetrante pretende tornar-se destinatária de grande número de contribuintes interessados em se beneficiar do julgado que busca obter aqui, caminho este que não se mostra apropriado à finalidade do texto magno, o qual estabelece, justamente, o inverso: primeiro a entidade inclui associados em seus quadros para só então defender seus interesses. Desta forma, não há como acolher a inconformidade da apelante".
+VII - Nesse caso, não há como aferir eventual violação sem que se reexamine o conjunto probatório dos presentes autos.
+VIII - A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame.
+IX - Ademais, o acórdão recorrido assentou seu convencimento ainda no seguinte fundamento (fl. 112, e-STJ): "Com efeito, da dispensa de juntar a relação dos associados - reconhecida pela jurisprudência - não se pode inferir a dispensa de que a impetrante tenha de comprovar a existência, dentre seus associados, de um número mínimo de titulares do direito que defende no mandado de segurança. Pelo que consta dos autos, só se tem identificados os associados fundadores da entidade, pessoas físicas, em número de seis, todas residentes em Brasília/DF (evento 1/inf2). Nenhuma prova apontando a existência de associado(s) com domicílio em Caxias do Sul/RS, cidade cuja autoridade fazendária foi apontada como coatora neste mandado de segurança".
+X - A dicção das razões do recurso especial revela que esse fundamento do acórdão recorrido acima enunciado não foi objeto de impugnação. Assim, incide, na espécie, por analogia, a Súmula 283 do STF.
+XI - Agravo interno improvido.
+(AgInt nos EDcl no AgInt no REsp 1.596.215/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 05/06/2018, DJe 08/06/2018).
+TRIBUTÁRIO E PROCESSUAL CIVIL. ICMS. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. REPRODUÇÃO DE NORMA CONSTITUCIONAL. NECESSIDADE DE REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. LEGISLAÇÃO ESTADUAL. SÚMULA 280/STF. LITIGÂNCIA DE MÁ-FÉ. IMPOSSIBILIDADE DE REVER A ORIENTAÇÃO DA CORTE DE ORIGEM.
+ ..
+4. No tocante à aplicação da multa por litigância de má-fé e à eventual ofensa aos arts. 80 e 81 do CPC/2015, verifica-se que a pretensão da recorrente também encontra vedação na Súmula 7/STJ, pois rever a orientação da Corte de origem acerca da questão demanda reexame do acervo fático-probatório dos autos. Precedentes.
+5. Recurso Especial não conhecido.
+(REsp 1.730.367/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/05/2018, DJe 19/11/2018).
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
