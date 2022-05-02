@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Sérgio Kukina.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FAZENDA DO ESTADO DE SÃO PAULOcontra decisão de minha lavra em que conhecido agravo para dar provimento ao recurso especial ante aomissão do Tribunal bandeirante quanto às alegações trazidas nos embargos de declaração.
+A parte agravante sustenta, em síntese, que não há omissão no acórdão recorrido, dado que a Corte local teria expressamente se manifestado acerca da inexistência de prescrição do redirecionamento da execução fiscal, bem como da validade na responsabilização dos herdeiros do sócio-administrador.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA.
+1. O acolhimento de recurso especial por violação do art. 1.022 do CPC pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração de seu julgado.
+2. Hipótese em que o acórdão recorrido, ao julgar os aclaratórios, permaneceu omisso quanto àscontrovérsias relativas ao julgamento citra petita e à necessidade de se examinar as demais causas de pedir formuladas na ação de embargos à execução, embora devidamente agitadas nas contrarrazões à apelação e nos aclaratórios.
+3. Agravo interno desprovido.
+VOTO
+Os argumentos ora deduzidos já foram suficientemente analisados e desacolhidos quando proferi a decisão ora impugnada, razão por que a mantenho pelos seus próprios fundamentos.
+Como assinalado na decisão agravada, orecurso especial origina-se de embargos à execução fiscal opostos pelos herdeiros do ex-sócio de sociedade empresária, responsabilizado pela execução fiscal de crédito tributário após o reconhecimento de sua dissolução irregular. Questiona-se,entre outros temas, a prescrição do crédito tributário, a impossibilidade de redirecionamento da execução fiscal ao ex-sócio falecido quase dez anos antes da dissolução da sociedadee a ilegitimidade passiva dos seus herdeiros.
+No primeiro grau de jurisdição, a ação foi julgada procedente com o reconhecimento da prescrição do redirecionamento, consignando-se que teria decorrido mais de 5 anos entre a data da citação da sociedade e a data do redirecionamento e da sucessão da responsabilidade pelos herdeiros.
+O Tribunala quodeu provimento à apelação do ente federado para afastar a prescrição, registrando que o termo inicial da prescrição, quando a dissolução irregular ocorre após a citação do devedor, não pode ser a data da citação, mas a data em que efetivamente ocorrida a ilegalidade (dissolução) e que, por este motivo, não se verificaria o decurso do prazo prescricional, poisentre a data em que ocorrida a dissolução e a data da citação dos herdeiros não teria se verificado o decurso do quinquênio legal.
+Opostos embargos de declaração discutindo as alegações de omissão quanto às demais causas de pedir, foram eles rejeitados em duas diferentes ocasiões.
+Os particulares, em seu recurso especial,alegam que: (a)há omissão no acórdão recorrido que deixou de apreciar as demais alegações do recorrente (causas de pedir),relativas àimpossibilidade de redirecionamento da execução nas circunstâncias encontradas nos autos e àilegitimidade passiva dos herdeiros; (b) o Tribunala quo,após a reforma da sentença para afastar a alegação de prescrição,não observou as demais causas de pedir dos embargos de declaração, promovendo julgamentocitra petita; c) é ilegítimo o redirecionamento da execução contra sócio falecido quase dez anos antes da dissolução irregular e sem nenhuma relação com ela; d) uma vez que o ex-sócio não possuía qualquer relação com a sociedade no momento de sua dissolução irregular, é ilegal a responsabilização dos seus herdeiros.
+Conformeassentadono decisum ora agravado,está caracterizada a violação do parágrafo único do art. 1.022 do CPC/2015, pois o teor do acórdão recorrido revela não terem sido analisadas as controvérsias relativas ao julgamentocitra petitae à necessidade de se examinar as demais causas de pedir formuladas na ação de embargos à execução, embora devidamente agitadas nas contrarrazões à apelação e nos aclaratórios.
+Efetivamente, a controvérsia estádevidamente descrita nos embargos de declaração, cujo trecho pertinente transcreve-se a seguir(e-STJ fls. 405/409):
+Quando foi realizada a desconsideração da personalidade jurídica da FAL Frigorífico Aves de Lindóia Ltda., foi determinada a inclusão de seus sócios no polo passivo da demanda executória, Ernesto Tardeli e José Tardeli.
+Ocorre, que nunca foi estabelecida a relação processual com o Sr. Ernesto Tardeli, eis que ele nunca foi citado nos autos, fato comprovado por esta Colenda Turma Julgadora.
+Isso porque, quando foi pedida a dissolução da personalidade jurídica da FAL Frigorífico Aves de Lindóia Ltda., o Senhor Ernesto Tardeli estava há muito tempo falecido, pois sua morte ocorreu em 1999, ou seja, JAMAIS poderia ocorrer a sua citação na demanda executória.
+Assim, se NUNCA foi estabelecida uma relação jurídica processual com o Senhor Ernesto Tardeli (eis que este nunca foi citado como parte nos autos), a sua viúva e os seus sucessores jamais poderiam ser incluídos na demanda Executória.
+ ..
+Como já mencionados nos autos, a presunção de encerramento irregular das atividades da FAL FRIGORÍFICO AVES DE LINDOIA LTDA se deu no final de 2002, conforme comprovam os documentos acostados às folhas 145/148 dos autos.
+Ora Excelência, o Senhor Ernesto Tardeli jamais poderia estar exercendo a gerência e/ou administração da FAL FRIGORÍFICO AVES DE LINDOIA LTDA no momento em que ocorreu o suposto encerramento irregular de suas atividades, e muito menos ter dado causa para que tal fato ocorresse.
+Isso porque, o Senhor Ernesto Tardeli FALECEU em 05/07/1999, conforme comprova a sua Certidão de Óbito (folha 55 dos autos), ou seja, ele jamais poderia ter participado do encerramento irregular das atividades da FAL FRIGORÍFICO AVES DE LINDOIA LTDA., ou estar na sua administração quando da ocorrência do suposto fato.
+Note-se, que após o falecimento de Ernesto Tardeli, as atividades da FAL FRIGORÍFICO AVES DE LINDOIA LTDA. permaneceram sob a administração do único sócio remanescente, José Tardeli, conforme comprovam os documentos de folhas 149/154 dos autos.
+Assim, está devidamente comprovado, que no momento em que foi constatado o suposto encerramento irregular das atividades da FAL FRIGORÍFICO AVES DE LINDOIA LTDA., o Senhor Ernesto Tardeli não estava na administração e/ou gerência da empresa, consequentemente, ele não poderia ser incluído no polo passivo da presente demanda executória.
+Diante disto, está evidente que houve violação ao artigo 135, inciso III, do Código Tributário Nacional, e também contraria o entendimento mantido pelo Egrégio SUPERIOR TRIBUNAL DE JUSTIÇA sobre a matéria.
+O acórdão recorrido, mesmo após a rejeição dos aclaratórios, não apreciou essas alegações.
+Estando, assim,configurada a negativa de prestação jurisdicional, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que o vício seja sanado pelo Tribunal de origem.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
