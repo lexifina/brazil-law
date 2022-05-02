@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Sérgio Kukina.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão proferida pela Presidência desta Corte que não conheceu do agravo em recurso especial, diante da ausência de impugnação à totalidade dos fundamentos da decisão, conforme preconizado pela Súmula 182/STJ (fls. 889-891).
+Aagravante sustenta que "diferentemente do alegado houve a devida especificação dos motivos ensejadores para reforma da decisão, inclusive, a matéria foi devidamente prequestionada" (fl. 896).
+Para tanto, refere ainda que "restou claro que o fato controvertido seria a legalidade da cobrança da tarifa de esgoto quando AUSENTE a integralidade do serviço, sendo incontroverso o fato de que há ao menos duas das fases da prestação do serviço, qual seja, a coleta e transporte por intermédio das galerias de águas pluviais"; "ofato aqui delimitado diz respeito a ausência do conetor à GAP cuja responsabilidade é exclusiva do proprietário ou possuidor/locatário". (fl. 898).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnados, especificamente, a totalidade dosfundamentosda decisão que inadmitiu o recurso na Corte de origem.
+Neste agravo interno, o recorrente não demonstrou ter se insurgido, na minuta do agravo, contra a decisão que obstou o recurso especial e quecontém dentre seus fundamentos: (a) inexistência de ofensa do art. 1.022 do CPC/15; (b) incidência do óbice da Súmula 7 do STJ.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Quanto à assertiva de ausência de violação ao artigo 1.022 do CPC/15, é preciso que a parte demonstre efetivamente que as questões trazidas pelo recorrente não foram apreciadas pelo venerando acórdão atacado, esclarecendo os pontos não fundamentados/omitidos/contraditórios/obscuros e a importância do seu esclarecimento na solução da controvérsia.
+Em relação ao óbice da Súmula 7/STJ, é necessário que a parte desenvolvauma argumentação que demonstre a desnecessidade de revolvimento doconjunto fático-probatório dos autos, seja porque a questão é meramente deinterpretação jurídica e aí deve comprovar tal circunstância, não apenasalegá-la; seja porque os fatos e provas necessários à adequada solução dacontrovérsia já tenham sido devidamente delineados no julgado recorrido eaí deve transcrever os trechos do julgado em que constem tais fatos eprovas e conectá-los à violação legal apontada, comprovando, assim, quenão é preciso para a solução do caso rever, nesta Corte Superior, aqueleconjunto.
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa é a determinação contida nos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Senão vejamos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO COMBATIDA. ART. 932, III, DO CPC/2015. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. PRINCÍPIO DA DIALETICIDADE NÃO ATENDIDO. IMPUGNAÇÃO NÃO DEMONSTRADA.
+1. Em que pese o agravante ter abordado em parágrafos distintos as Súmulas 7 e 83 do STJ, a argumentação genérica não se afigura apta ao cumprimento do requisito da dialeticidade.
+2. Acerca da incidência da Súmula 83/STJ, caberia à parte recorrente apresentar julgados supervenientes ou contemporâneos aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada, o que não ocorreu. Precedentes: AgInt no AREsp 1.322.384/RJ, Rel. Min. Og Fernandes, Segunda Turma, DJe 11/3/2019.
+3. Em relação à incidência da Súmula 7/STJ, não trouxe o agravante alegação efetiva e voltada a afastar as conclusões da decisão combatida, não demonstrando, no cotejo entre o acórdão impugnado e a argumentação trazida no recurso especial, situação que afastasse o referido óbice processual. Precedentes: AgRg no AREsp 766.962/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 20/9/2018.
+4. Agravo interno não provido.(AgInt no AREsp 1042970/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/06/2020, DJe 24/06/2020) (grifei).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA.
+1. A teor do disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.(AgInt no AREsp 1216548/CE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 12/03/2019, DJe 03/04/2019) (grifei).
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. NÃO OCORRÊNCIA. ARTS. 253, I, DO RISTJ E 932, III, DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se de Agravo Interno contra decisão que não conheceu do Agravo em Recurso Especial, ante a ausência de impugnação específica aos fundamentos da decisão de admissão do Recurso Especial.
+2. O Recurso Especial foi inadmitido, tendo por base a incidência da Súmula 7/STJ e, em relação ao prazo decadencial, a assertiva de que o acórdão recorrido foi proferido em sintonia com a jurisprudência do STJ.
+3. Inadmitido o Recurso Especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que o tema não exige revolvimento fático-probatório, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia.
+É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no Recurso Especial que pudesse justificar o afastamento do citado óbice processual.
+4. Ainda, inadmitido o Recurso Especial em razão da dissonância da pretensão com jurisprudência desta Corte Superior, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+5. Não se conhece de Agravo em Recurso Especial que deixa de atacar específica e fundamentadamente os fundamentos da decisão de inadmissibilidade. Inteligência dos arts. 253, I, do RISTJ e 932, III, do CPC/2015 e a Súmula 182 do STJ.
+6. Consigne-se que, nos termos da jurisprudência do STJ, não basta a impugnação genérica dos fundamentos da decisão agravada. O rebatimento deve ser específico e suficientemente fundamentado (AgRg no AREsp 226.300/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/12/2012), o que não ocorreu na hipótese.
+7. Agravo Interno do ESTADO DO RIO GRANDE DO SUL desprovido.(AgInt no AREsp 1296898/RS, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 21/02/2022, DJe 24/02/2022) (grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. V. DE O. M. D. B. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade (ausência de violação do art. 1.022 do NCPC e incidência das Súmulas nº 5 e 7 do STJ).
+3. Agravo interno não provido.(AgInt no AREsp 1956777/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/03/2022, DJe 18/03/2022) (grifei).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
