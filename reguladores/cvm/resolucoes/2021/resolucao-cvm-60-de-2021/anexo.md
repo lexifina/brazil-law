@@ -1,34 +1,3 @@
-Art. 1º ...............................................................
-Participante Valor diário em função da não entrega da informação .................................................. .....................................................................
-Companhias Securitizadoras
-I – R$ 600,00 (seiscentos reais) para o formulário
-(Categorias S1 e S2)
-de referência e demonstrações financeiras acompanhadas dos documentos exigidos; e
-II – R$ 300,00 (trezentos reais) para os demais documentos.
-.............................................. ............................................................................
-“(NR)
-Art. 67. Ficam revogados:
-I – a Instrução CVM nº 414, de 30 de dezembro de 2004;
-II – a Instrução CVM nº 443, de 8 de dezembro de 2006;
-III – art. 2º da Instrução CVM nº 446, de 19 de dezembro de 2006;
-IV – na Instrução CVM nº 480, de 7 de dezembro de 2009:
-a) o inciso XII do art. 21;
-b) o art. 25-A;
-c) §§ 5º e 6º do art. 30;
-d) §§ 2º e 3º do art. 31;
-e) incisos II e III e parágrafo único do art. 32;
-f) inciso XXI do art. 68;
-g) itens 2.1.a.viii e 2.1.a.ix do Anexo 22; e
-i) os Anexos 32-II e 32-III; e
-V – o art. 10 da Instrução CVM nº 554, de 17 de dezembro de 2014;
-VI – a Deliberação CVM nº 772, de 7 de junho de 2017;
-VII – a Instrução CVM nº 600, de 1º de agosto de 2018;
-VIII – a Instrução CVM nº 603, de 31 de outubro de 2018; e
-IX – o art. 9º e o inciso VI do art. 24 da Instrução CVM nº 604, de 13 de dezembro de 2018.
-Art. 68. Esta Resolução entra em vigor em 2 de maio de 2022.
-Assinado eletronicamente por
-MARCELO BARBOSA
-Presidente
 ANEXO NORMATIVO I
 Dispõe sobre os Certificados de Recebíveis Imobiliários – CRI.
 CAPÍTULO I – ÂMBITO E FINALIDADE
