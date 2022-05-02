@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto por ESTADO DO CEARÁ,contra decisão monocrática, de minha relatoria, assim ementada:
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO ESPECIAL. LEI FEDERAL CONTESTADA EM FACE DE OUTRAS NORMAS INFRACONSTITUCIONAIS. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+No presente recurso, reitera-se que
+o cerne da demanda cinge-se à possibilidade de o Estado-membro ser compelido, mesmo sem a contrapartida financeira da União prevista no art. 9º-C da Lei nº 12.994/2014, a implementar piso salarial instituído por lei federal em favor dos agentes comunitários de saúde, em ofensa ao art. 21, parágrafo único, da Lei de Responsabilidade Fiscal, LC nº 101/2000, que veda aos titulares dos poderes das respectivas esferas federativas contrair novas despesas depessoal nos últimos 180 (cento e oitenta dias) dos mandatos eleitorais, sendo nulo de pleno direito o ato que provoque o aumento da despesa com pessoal nesse sentido.
+ .. não se está aqui pondo em debate a apreciação e julgamento da validade de lei federal contestada em face de outra norma de direito infraconstitucional, mas sim a violação frontal ao artigo 9º C da Lei nº 12.994/14 e ao artigo 21, parágrafo único da Lei Complementar nº 101/2000pelo Acórdão recorrido, razão pela qual, data vênia, o Recurso Especial se enquadra perfeitamente na moldura do art. 105, III, "a", da CF/88.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF.
+1. Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal. Incidente a Súmula nº 284/STF.
+2. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+O recurso especial, de natureza extraordinária, não é conhecido quando não demonstrados os pressupostos constitucionais.
+Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal.
+Ausente fundamentação, ou quando deficiente, não se conhece do recurso (esse é o teor da jurisprudência cristalizada pelo Supremo Tribunal Federal na Súmula nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" -, também aplicada ao especial).
+Sobre a questão nos autos, marcou o Tribunal de origem:
+ ..  regulamentando o art. 198, § 5º, da CF/88, a União editou a Lei Federal nº 11.350/2006, posteriormente alterada pela Lei nº 12.994/2014, disciplinando o regime jurídico, o piso salarial profissional nacional, as diretrizes para os Planos de Carreira e as atividades de Agente Comunitário de Saúde e Agente de Combate às Endemias, passando expressamente a prevê o piso salarial nacional no valor de R$ 1.014,00 (mil e catorze reais), devido a partir de junho/2014. Consoante entendimento do STJ, referida norma federal se aplica a todos os entes da federação, de sorte que, a necessidade de observância do piso salarial nacional dos servidores ocupantes do cargo de Agente Comunitário de Saúde ocorre a partir de junho/2014.
+A hipótese permitida constitucionalmente para interposição de recurso especial pela alínea "a" do inciso III do artigo 105 da CF, em suma, restringe-se à violação de Tratado ou dispositivo de Lei Federal, excluída, portanto, da competência atribuída a esta Corte Superior, a apreciação e julgamento da validade de lei federal. Já foi julgado que a apreciação de questão que se insula na declaração incidental de  in constitucionalidade de lei federal é estranha ao âmbito de cabimento do recurso especial (AgRg no Ag 342.160/SP, Rel. Ministro HAMILTON CARVALHIDO, SEXTA TURMA, DJ 24/09/2001, p. 361).
+Também écerto na jurisprudência desta Corte que não se considera fundamentado o recurso especial (a) genérico, sem a efetiva demonstração de contrariedade à lei federal (cf. AgRg no AREsp 288.596/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 11/03/2016), (b) dissociado do contexto nos autos (cf. REsp 1337635/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 01/08/2013), (c) em que os dispositivos apontados não possuem comando normativo apto para infirmar os fundamentos do decisum (cf. AgRg no REsp 1279021/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 11/11/2013), como é o caso dos autos, no qual marcado que não houve comprovação da indisponibilidade financeira e orçamentária para o pagamento do piso salarial.
+Cito trecho do acórdão atacado:
+No que concerne à tese defensiva do ente estadual apelante de indisponibilidade financeira e orçamentária para o pagamento do piso salarial, nos termos da legislação de regência, haja vista a ausência de repasse da União, impende ressaltar que não logrou comprovar com dados concretos referida alegação.
+Impositiva, por consectário, a aplicação da Súmula nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
