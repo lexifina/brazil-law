@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 266, DE 31 DE MARÇO DE 2022
+Dispõe sobre os termos finais que incidam sobre dias não úteis para os convênios SML com o Banco Central da República Argentina (BCRA) e com o Banco Central do Uruguai (BCU).
+O Chefe do Departamento de Assuntos Internacionais (Derin), no uso da atribuição que lhe confere a alínea “a” do inciso I do art. 23; o inc. X do art. 70; e o inc. VIII do art. 71 do Regimento Interno do Banco Central do Brasil (BCB), anexo à Portaria nº 108.150, de 27 de agosto de 2020; considerando o disposto nos Regulamentos Operacionais do Sistema de Pagamentos em Moeda Local (SML) com Banco Central da República da Argentina (BCRA) e com o Banco Central do Uruguai (BCU); e o disposto no inc. I do art. 13 do anexo à Circular nº 3.707, de 16 de junho de 2014, e no inc. I do art.12 do anexo à Circular nº 3.734, de 26 de novembro de 2014,
+R E S O L V E :
