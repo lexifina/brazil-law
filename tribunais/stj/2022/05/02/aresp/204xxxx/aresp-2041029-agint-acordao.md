@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por HAPVIDA ASSISTÊNCIA MÉDICA S. A.contra decisão unipessoal da Presidência do STJ de não conhecer do agravo em recurso especial.
+Ação:ação de obrigação de fazerc. c. indenização por danos materiais e compensação por danos morais ajuizada pela ora agravada, decorrente de negativa de assistência médica pela agravante.
+Sentença:julgou procedentes os pedidos.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. CIRURGIA E SOFRIMENTO RADICULAR DE C6. URGÊNCIAEVIDENCIADA. INAPLICABILIDADE DO PRAZO DE CARÊNCIA DO ARTIGO 12,INCISO V, ALÍNEAS "B" E "C", DA LEI Nº 9.656/98. NEGATIVA DE COBERTURAINDEVIDA. PRECEDENTES. DANO MORAL CONFIGURADO. VERBACOMPENSATÓRIA MANTIDA. TERMO INICIAL DOS JUROS DE MORA. A PARTIRDA CITAÇÃO. RESPONSABILIDADE CONTRATUAL. LITIGÂNCIA DE MÁ-FÉ. SENTENÇA MANTIDA. RECURSO DESPROVIDO. DECISÃO UNÂNIME.
+1. A recusa de cobertura securitária, na hipótese, é indevida, isso porque em caso de situação de urgência, como deveras demonstrado nos autos, não deve ser observado o período de carência de 180 (cento e oitenta) dias previsto no art. 12, inciso V, alínea"b", da Lei nº 9.656/98;
+2. A injusta negativa do plano de saúde configura dano moral a ser compensado, "pois agrava o contexto de aflição psicológica e de angústia sofrido pelo segurado" (v. REsp907718, de relatoria da Min. Nancy Andrighi). Quantum da compensação financeira(R$ 8.000,00) que não comporta redução.
+3. Nos casos de dano moral oriundo de responsabilidade contratual, os juros moratórios devem incidir desde a citação (art. 405 do CC).
+4. A litigância de má-fé (arts. 79 e ss do CPC) pressupõe a intenção/dolo de causar prejuízo à parte contrária, constituindo-se em uma atitude em desconformidade com o dever jurídico de lealdade processual (arts. 5º e 6º do CPC). Aplica-se a multa prevista no art. 81 do CPC, no percentual de 5% (cinco por cento) sobre o valor atualizado da causa, como determinado na sentença.
+5. Majora-se a verba honorária sucumbencial decorrente da: (i) obrigação de fazer, de R$ 1.500,00 (um mil e quinhentos reais) para R$ 1.800,00 (um mil e oitocentos reais) e(ii) compensação por danos morais, de 15% (quinze por cento) para 18% (dezoito por cento) sobre o valor da condenação, consoante comando expresso no art. 85, §11, do CPC/2015.
+Decisão de admissibilidade do recurso especial: negou seguimento ao apelo especial sob os fundamentos seguintes: i) descabimento de alegação de violação à dispositivo da Constituição na via do recurso especial; ii) necessidade de reexame de provas para se concluir que o procedimento médico não configurava urgência; iii) não demonstração da divergência jurisprudencial; iv) prejudicialidade da questão sob a ótica da alínea "c", ante a negativa de seguimento pela alínea "a";v) harmonia do entendimento da Corte local com a jurisprudência do STJ; e vi) necessidade de reexame de provas para redução do valor da compensação por danos morais.
+Decisão da Presidência do STJ: não conheceu do agravo em recurso especial por falta de impugnação dos óbices destacadospela decisão da origem acerca da: i) incidência daSúmula 7/STJ na questão do valor da compensação por danos morais; ii) não demonstração da divergência; e iii) harmonia do entendimento da Corte de origem com os julgados do STJ.
+Agravo interno: alega ter impugnado os fundamentos da decisão que inadmitiu o recurso especial interposto, não incidindo a Súmula 182/STJ.
+É O RELATÓRIO.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CONDENATÓRIA. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação condenatória.
+2. Não se conhece deagravo que não impugna especificamente os fundamentos dadecisão denegatória da admissibilidade derecurso especial.
+3. Agravo interno não provido.
+VOTO
+Conforme relatado, verifica-se que o Tribunal de origem negou seguimento ao apelo especial sob os fundamento seguintes: i) descabimento de alegação de violação à dispositivo da Constituição na via do recurso especial; ii) necessidade de reexame de provas para se concluir que o procedimento médico não configurava urgência; iii) não demonstração da divergência jurisprudencial; iv) prejudicialidade da questão sob a ótica da alínea "c", ante a negativa de seguimento pela alínea "a"; v) harmonia do entendimento da Corte local com a jurisprudência do STJ; e vi) necessidade de reexame de provas para redução do valor da compensação por danos morais.
+A Presidência desta Corte não conheceu do agravo em recurso especial, ante a não impugnação dos fundamentos da decisãorelativos:i) a incidência da Súmula 7/STJ na questão do valor da compensação por danos morais; ii) a não demonstração da divergência; e iii) a harmonia do entendimento da Corte de origem com os julgados do STJ.
+Com efeito, percebe-se que a agravante, nas razões do agravo em recurso especial, não impugnou de forma consistente, os fundamentos relativos à: i) descabimento de alegação de violação à dispositivo da Constituição na via do recurso especial; ii) não demonstração da divergência jurisprudencial; iii) prejudicialidade da questão sob a ótica da alínea "c", ante a negativa de seguimento pela alínea "a"; e vi) necessidade de reexame de provas para redução do valor da compensação por danos morais.
+Necessário salientar que o afastamento do óbice deve ocorrer de modo expresso e com a devida explicação por parte do recorrente do porquê de sua não aplicaçãona hipótese em análise.
+Desse modo, mostra-se correta a aplicação da Súmula 182/STJ ao caso ela Presidência do STJ.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
