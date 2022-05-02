@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por COMPANHIA EXCELSIOR DE SEGUROS contra decisão unipessoal que conheceu do agravo interposto por ADECIO DE OLIVEIRA e OUTROS, para conhecer parcialmente do recurso especial que interpuseram e, nessa parte, dar provimento.
+Ação: declaratória c/c cobrança de indenização securitária, ajuizada pelos agravados (ADECIO DE OLIVEIRA e OUTROS), em face da agravante (COMPANHIA EXCELSIOR DE SEGUROS), na qual objetivam receber o pagamento de indenização securitária em razão de supostos vícios na construção de seus imóveis que adquiriram pelo SFH, com cobertura securitária da parte requerida.
+Sentença: julgou procedentes os pedidos, para o fim de:
+i) reconhecer a nulidade da cláusula contratual que afasta o vício de construção da cobertura securitária;
+ii) condenar a agravante ao pagamento dos valores de R$ 15.959,07, de R$ 20.029,56, de R$ 16.457,14 e de R$ 16.457,14, respectivamente, a EDINA FÁTIMA DE OLIVEIRA, a ADÉCIO DE OLIVEIRA, a LUCIANO APARECIDO CANÔNICO e a SÉRGIO LUIZ FERRARI.
+Acórdão: deu parcial provimento à apelação interposta pela agravante, para julgar improcedentes os pedidos, nos termos da seguinte ementa:
+Apelação cível. Seguro Habitacional. Sentença de procedência. Ilegitimidade passiva da Caixa Econômica Federal. Competência da Justiça Estadual. Contratos pertencentes a apólice de mercado. Alegação de inépcia da inicial. Inocorrência de ofensa ao art. 282 do CPC/73. Alegação de ilegitimidade passiva. Responsabilidade da construtora. Inocorrência. Possibilidade de demandar diretamente a seguradora. Inocorrência de litisconsórcio passivo necessário com o agente financeiro. Aplicabilidade do Código de Defesa do Consumidor. Prescrição. Prazo ânuo. Contratos ativos. Ausência de notificação da seguradora acerca do sinistro. Pretensão autoral não prescrita. Questão prejudicial. Danos causados por vícios de construção. Exclusão contratual. Cláusula abusiva. Arts. 47 e 51 do CDC. Inexistência de risco iminente de desabamento. Danos existentes não cobertos. Indenização indevida. Sentença reformada. Verba sucumbencial integralmente invertida. Recurso parcialmente provido. (e-STJ, fls. 1.454/1.455)
+Embargos de declaração: opostos pelos agravados, foram rejeitados.
+Decisão monocrática: conheceu do agravo interposto pelos agravados (ADECIO DE OLIVEIRA e OUTROS), para conhecer parcialmente do recurso especial que interpuseram e, nessa parte, dar provimento, com fundamento no art. 932, III, V "a", do CPC/15, bem como da Súmula 568/STJ, para restabelecer os efeitos da sentença (e-STJ, fls. 2.512/2.515).
+Agravo interno: alega, em síntese, a aplicabilidade de óbices referentes à admissibilidade do recurso especial interposto pelos agravados (e-STJ, fls. 2.518/2.534).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. CLÁUSULA EXCLUDENTE DE RESPONSABILIDADE POR VÍCIOS CONSTRUTIVOS. SISTEMA FINANCEIRO DE HABITAÇÃO. INAPLICABILIDADE.
+1. Ação declaratória c/c cobrança de indenização securitária.
+2. À luz dos parâmetros da boa-fé objetiva e da proteção contratual do consumidor, os vícios estruturais de construção estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo após a extinção do contrato, para acobertar o sinistro concomitante à vigência deste, ainda que só se revele depois de sua conclusão (vício oculto). Súmula 568/STJ.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu do agravo interposto pelos agravados (ADECIO DE OLIVEIRA e OUTROS), para conhecer parcialmente do recurso especial que interpuseram e, nessa parte, dar provimento, em razão da incidência da Súmula 568/STJ, para restabelecer os efeitos da sentença.
+- Julgamento: Aplicação do CPC/15.
+1. Da inaplicabilidade dos óbices alegados
+Inicialmente, necessário salientar que não se aplica na hipótese dos autos as Súmulas 5 e 7, ambas do STJ, tendo em vista que a discussão em análise não se refere a reexame de fatos e provas ou de cláusulas contratuais, mas sim à violação a normas infraconstitucionais destinadas a salvaguardar a proteção dos segurados do SFH por vícios de construção no imóvel.
+De igual forma, não se aplica a incidência da Súmula 284/STF, tendo em vista a existência de fundamentação adequada no bojo das razões recursais, bem como não se pode arguir a violação dos arts. 300 e 489, ambos do CPC/15, tendo em vista que os referidos dispositivos sequer foram mencionados pela agravante em sede de contrarrazões de recurso especial.
+Ademais, o dissídio jurisprudencial restou devidamente comprovado por meio de julgados desta Corte Superior em sentido oposto ao que fora decidido pelo Tribunal de origem.
+Por derradeiro, cabe ressaltar que a análise da admissibilidade do recurso especial realizada pelo Tribunal de origem não vincula esta Corte, em razão de se tratar de procedimento bifásico. Nesse sentido: AgRg no REsp 1.544.109/PE (3ª Turma, DJe 19/12/2016) e AgInt no REsp 1.385.146/SC (4ª Turma, DJe 22/03/2017).
+2. Da Súmula 568/STJ
+Com efeito, não há qualquer equívoco na decisão agravada, tendo em vista que, de fato, o acórdão proferido pelo TJ/PR - ao reconhecer a validade de cláusula que prevê a exclusão de cobertura securitária no âmbito do SFH, tendo em vista a impossibilidade de impor à seguradora a responsabilidade por danos originados em falhas de construção - está em dissonância com o entendimento adotado por esta Corte, no sentido de que, à luz dos parâmetros da boa-fé objetiva e da proteção contratual do consumidor, os vícios estruturais de construção estão acobertados pelo seguro habitacional, cujos efeitos devem se prolongar no tempo, mesmo após a extinção do contrato, para acobertar o sinistro concomitante à vigência deste, ainda que só se revele depois de sua conclusão (vício oculto). Nesse sentido, conferir: REsp 1.717.112/RN (3ª Turma, DJe 11/10/2018) e AgInt no REsp 1.466.759/SP (4ª Turma, DJe 03/03/2020).
+Imperioso frisar, novamente, que o acórdão recorrido reconhece de forma expressa que os vícios constantes nos imóveis objeto desta ação são inerentes à construção (e-STJ, fl. 1.470).
+Patente, portanto, a existência de dissonância entre o acórdão recorrido e a jurisprudência pacífica desta Corte Superior, não sendo afastável a incidência da Súmula 568/STJ na hipótese.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
