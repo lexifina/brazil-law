@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por PETROMIX COMERCIO DE CONCRETO LTDA e OUTROS contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial que interpuseram e, nessa extensão, negar-lhe provimento, pelos seguintes fundamentos: incidência da Súmula 211/STJ; e harmonia entre o acórdão recorrido e a jurisprudência do STJ.
+Ação: execução de título extrajudicial, ajuizada por BANCO DO BRASIL SA, em face dos agravantes, fundada em cédula de crédito bancário.
+Decisão interlocutória: deferiu arresto online em conta de titularidade dos agravantes.
+Acórdão: negou provimento ao agravo de instrumento interposto pelos agravantes, nos termos da seguinte ementa:
+Agravo de instrumento. Execução de título extra judicial. Decisão que deferiu o arresto "on line" em conta(s) de titularidade do executado. Possibilidade. Ausência de citação do devedor. Inteligência do art. 830, caput, CPC, que dispõe que "se o oficial de justiça não encontrar o executado, arrestar-lhe-á tantos bens quantos bastem para garantir a execução". O referido artigo autoriza, no caso de não localizado o devedor, que se proceda ao arresto. A medida é preparatória e não se confunde com penhora, que é a apreensão do bem para garantir a execução.Constrição que evita dilapidação patrimonial e garante a efetivação da execução, independe do esgotamento das diligências para localização do devedor, se não foi o credor quem deu ensejo à frustração da citação. Decisão que se mantém. Recurso desprovido.
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 7º, 10, 239 e 805 do CPC/15.Sustentam que: i) houve a realização de medida constritiva sem que a parte envolvida e alvo da medida de arresto tivesse conhecimento do processo; ii) não foram citados e o agravado não cuidou de providenciar qualquer outra medida para fins de citação; iii) além de configurar decisão surpresa, a medida de arresto executivo se mostra demasiadamente onerosa.
+Decisão monocrática:conheceu do agravo para conhecer parcialmente do recurso especial interposto pelos agravantes e, nessa extensão, negar-lhe provimento.
+Agravo interno:em suas razões, os agravantes afirmam que: i) houve um erro grosseiro por parte do agravado ao indicar a residência dos executados, o que gerou a emissão de missivas citatórias para endereços inexistentes; ii) a ausência de citação não se deu por responsabilidade dos executados (por alteração de endereço ou furtar-se ao recebimento) mas sim por falha do próprio exequente, que, não obstante seu erro, está sendo beneficiado de sua própria torpeza.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA DE CRÉDITO BANCÁRIO. DECISÃO QUE DEFERIU ARRESTO ONLINE EM CONTA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ARRESTO EXECUTIVO ELETRÔNICO. TENTATIVA DE LOCALIZAÇÃO DO EXECUTADO FRUSTRADA. ADMISSIBILIDADE. EXAURIMENTO DAS TENTATIVAS DE CITAÇÃO.PRESCINDIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Execução de título extrajudicial fundada em cédula de crédito bancário, no bojo da qual foi proferida decisão deferindo arresto online em conta.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Frustrada a tentativa de localização do devedor para citação, é possível o arresto de seus bens na modalidade on-line, com base na aplicação analógica do art. 854 do CPC/15, sendo prescindível que haja o exaurimento das tentativas. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada conheceu do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento, ante a incidência da Súmula 211/STJ; e a harmonia entre o acórdão recorrido e a jurisprudência do STJ.
+Julgamento:CPC/2015.
+1. Da ausência de prequestionamento
+Os arts. 7º, 10, 239 e 805 do CPC/15não foram objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+Saliente-se, outrossim, que osagravantes ao menos deveriam ter alegado a violação do art. 1.022 do CPC/15 se entendessem que os referidos dispositivos legais deveriam ter sido enfrentados pelo Tribunal de origem.
+De acordo com o art. 1.025 do CPC/15,consideram-se incluídos no acórdão de inadmissão ou rejeição os elementos que o embargante suscitou, para fins de prequestionamento, apenas no caso de o tribunal superior considerar existente erro, omissão, contradição ou obscuridade, o que não ocorreu neste processo.
+2. Da harmonia entre o acórdão recorrido e a jurisprudência do STJ
+Por fim, no tocante à possibilidade de arresto online dos ativos financeiros dos agravantes, o Tribunal de origem decidiu em consonância ao entendimento do STJ no sentido de que,frustrada a tentativa de localização do devedor para citação, é possível o arresto de seus bens na modalidade on-line, com base na aplicação analógica do art. 854 do CPC/15, sendo prescindível que haja o exaurimento das tentativas (REsp 1.822.034/SC, 3ª Turma, DJe de 21/6/2021; AgInt no AREsp 1.724.103/SP, 4ª Turma, DJe de 12/2/2021; e REsp 1.370.687/MG, 4ª Turma, DJe de 15/8/2013).
+Ressalta-se que o argumento dos agravantes de quehouve um erro grosseiro por parte do agravado ao indicar a residência dos executados, o que gerou a emissão de missivas citatórias para endereços inexistentes, constitui inovação recursal, porquanto não suscitado anteriormente nas razões do especial.
+Assim, o conhecimento da tese é inviável, haja vista que, consoante a reiterada jurisprudência desta Corte, é vedada a inovação recursal em sede de agravo interno. A propósito, vejam-se:AgInt nos EDcl no REsp 1.741.684/PA, 3ª Turma, DJe 21/05/2019; AgInt nos EDcl no AREsp 1.496.470/SP, 3ª Turma, DJe 03/09/2020;AgInt nos EDcl no REsp 1.781.827/RN, 4ª Turma, DJe 25/10/2019 eAgInt nos EDcl no AREsp 615.888/SP, 4ª Turma, DJe 22/09/2020.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
