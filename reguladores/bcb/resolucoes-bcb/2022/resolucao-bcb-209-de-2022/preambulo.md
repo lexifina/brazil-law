@@ -1,0 +1,4 @@
+RESOLUÇÃO bcb Nº 209, DE 22 de MARÇO de 2022
+Dispõe sobre o Sistema de Informações sobre Entidades de Interesse do Banco Central (Unicad).
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 22 de março de 2022, com base nos arts. 10, inciso IX, e 37 da Lei nº 4.595, de 31 de dezembro de 1964, no art. 8º do Decreto-Lei nº 2.291, de 21 de novembro de 1986, no art. 8º do Decreto-Lei nº 2.292, de 21 de novembro de 1986, no art. 2º do Decreto nº 93.989, de 30 de janeiro de 1987, no art. 10 da Lei nº 10.214, de 27 de março de 2001, nos arts. 6º e 7º, inciso V, da Lei nº 11.795, de 8 de outubro de 2008, no art. 1º, § 1º, da Lei Complementar nº 130, de 17 de abril de 2009, no art. 12 da Lei nº 12.414, de 9 de junho de 2011, nos arts. 22, inciso I, e 28, inciso I, da Lei nº 12.810, de 15 de maio de 2013, no art. 9º, da Lei nº 12.865, de 9 de outubro de 2013, e no caput do art. 79 da Lei nº 13.097, de 19 de janeiro de 2015,
+R E S O L V E :
