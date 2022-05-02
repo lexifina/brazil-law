@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por AGROPECUÁRIA RIO DA AREIA LTDA, contra decisão assim ementada (e-STJ, fl. 956):
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. MATÉRIA DEVIDAMENTE ANALISADA PELA CORTE LOCAL. INSATISFAÇÃO DA PARTE QUANTO AO RESULTADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões do presente recurso, a parte agravante repisa as razões do apelo nobre e sustenta, em síntese, que "as omissões indicadas nos embargos de declaração eram capazes de, em tese, infirmar a conclusão adotada pelo julgador na medida em que o fundamento do desprovimento da apelação (o valor pago pela embargada superou o valor devido de fato nas safras anteriores a 2009 e 2010), não é suficiente para manter o acórdão se acolhida a alegação de quitação recíproca entre às partes com relação às safras de 2006/2007 e 2007/2008" (e-STJ fl. 968).
+Impugnação às fls. 975/984.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. MATÉRIA DEVIDAMENTE ANALISADA PELA CORTE LOCAL. INSATISFAÇÃO DA PARTE QUANTO AO RESULTADO.
+AGRAVO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece provimento.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Reanalisando os autos, éde se observar que, quanto a alegada violação do art. 1.022 do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência. Ocorre que o Tribunal de origem assim se manifestou acerca da controvérsia (fls. 845/846):
+ ..  percebe-se que diante da verificação do erro nos pagamentos, essesforam suspensos e, em conformidade com o laudo pericial, de fato foram pagos em valor superior ao acordado.
+Pelo exposto, percebe-se que não há nos autos quaisquer provas de que o contrato foi alterado ou que teria sido executado como de arrendamento, pelo contrário, tudo que consta dos autos perfaz certeza de que o contrato era, de fato, de parceria.
+Os demonstrativos de pagamento trazidos seriam a única prova do aditamento alegado, porquanto nominado como "demonstrativo de pagamento de parceria agrícola", constava o item "Ton Por Alq 40,00". Porém, os recibos e eles referentes claramente dispõem sobre o pagamento em porcentagem, em conformidade com o entabulado.
+Assim, a parte autora, ora recorrente, não se desincumbiu de seu ônus, visto que apenas alegou que teria sido realizado um suposto aditamento verbal e que o pagamento então passaria a ocorrerem toneladas fixas, sem nada comprovar.
+Por fim, vale destacar que há comprovantes de pagamentos feitos pela Sabaralcool S/A Açúcar e Álcool em favor da empresa recorrente, bem como não se verifica nada que os desconstitua. Assim, vê-se que o montante pago pela recorrida superou o valor devido de fato nas safras anteriores a2009 e 2010, fato este demonstrado pelo Sr. Perito, enquadrando-se o caso em comento na hipótese 2 por ele apresentada (HIPÓTESE 02: Requerente deve a Requerida a quantia de R$ 257.871,00 (Duzentos e cinquenta e sete mil, oitocentos e setenta e um reais), válidos para fevereiro de 2016).
+Diante disso, não há como se acolher o pedido subsidiário de condenar a apelada ao pagamento da quantia de R$ 356.663,00 (trezentos e cinquenta e seis, seiscentos e sessenta e três reais),nos exatos termos da hipótese 01 do laudo pericial, visto que, conforme acima descrito, os pagamentos das safras anteriores foram realizados em montante superior ao devido e, feita a compensação, ainda haveria crédito da parte recorrida.
+Por ocasião do julgamento dos embargos de declaração opostos pela ora recorrente, acrescentaram-se os seguintes fundamentos (fls. 865/866):
+Ainda, defende a embargante que houve quitação recíproca com relação às safras de 2006/2007 e 2007/2008. Do acórdão denota-se apenas que ficou esclarecido que o valor pago pela embargada superou o valor devido de fato nas safras anteriores a 2009 e 2010 e, diante disso, não havia como acolher o pleito recursal subsidiário, posto que diante dos pagamentos a maior haveria crédito da parte recorrida, vejamos:"(..)
+Por fim, vale destacar que há comprovantes de pagamentos feitos pela Sabaralcool S/A Açúcar e Álcool em favor da empresa recorrente, bem como não se verifica nada que os desconstitua. Assim, vê-se que o montante pagopela recorrida superou o valor devido de fato nas safras anteriores a 2009 e 2010, fato este demonstrado pelo Sr. Perito, enquadrando-se ocaso em comento na hipótese 2 por ele apresentada (HIPÓTESE 02: Requerente deve a Requerida a quantia de R$ 257.871,00 (Duzentos e cinquenta e sete mil, oitocentos e setenta e um reais), válidos para fevereiro de 2016).
+Diante disso, não há como se acolher o pedido subsidiário de condenar a apelada ao pagamento da quantia de R$ 356.663,00 (trezentos e cinquenta e seis, seiscentos e sessenta e três reais), nos exatos termos da hipótese 01 do laudo pericial, visto que, conforme acima descrito, os pagamentos das safras anteriores foram realizados em montante superior ao devido e, feita a compensação, ainda haveria crédito da parte recorrida.(..)
+"Por isso, não houve reconhecimento da existência de contrato de arrendamento, mas sim que não houve provas a desconstituir a existência de contrato de parceria agrícola.
+Da leitura dos trechos acima transcritos, verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto a inexistência da possibilidade de compensação, pois "os pagamentos das safras anteriores foram realizados em montante superior ao devido e, feita a compensação, ainda haveria crédito da parte recorrida".
+Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Nesse passo, advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
