@@ -1,0 +1,36 @@
+MANDADO DE SEGURANÇA CÍVEL – AUTOS No. 1005384-75.2022.8.11.0000
+IMPETRANTE: IONE APARECIDA DA SILVA
+IMPETRADO: GOVERNADOR DO ESTADO DE MATO GROSSO
+VISTOS, ETC.
+Trata-se de Mandado de Segurança, impetrado por IONE APARECIDA DA SILVA, contra o ato, indigitado coator do GOVERNADOR DO ESTADO DE MATO GROSSO, consistente na omissão, quanto à sua nomeação ao cargo de Professor da Educação Básica.
+Noticia a Impetrante que participou do Concurso Público, regido pelo Edital n. 000/2017, da Secretaria de Estado de Educação, Esporte e Lazer, e classificou-se em 98o lugar, para o cargo de Professor da Educação Básica, perfil profissional: Pedagogia (ampla concorrência) – Município de Cuiabá, para o qual foram ofertadas 90 (noventa) vagas para ampla concorrência.
+Afirma que foram nomeados os candidatos aprovados, todavia, 4 (quatro) candidatos aprovados que não tomaram posse, sendo eles Geovana Menezes Comachio, Michelli Sampaio Tunes Porto, Patrícia Aparecida Soares e Celio Bento De Oliveira, após estas convocações não houveram mais chamamentos por parte da autoridade coatora.
+Argumenta que, além da vacância de 4 (quatro) vagas no edital, “houveram as aposentadorias de mais de 44 (quarenta e quatro) docentes pedagogos de educação básica liberando, por assim dizer, mais de quarenta e quatro vagas”.
+Assegura que, ao invés de proceder à nomeação dos demais candidatos classificados no certame, a Administração celebrou contratos administrativos de caráter temporário para ocupar as vagas do cargo em referência.
+Posto isso, requer a Impetrante, liminarmente, a sua nomeação ao cargo para o qual foi classificada.
+Juntou documentos.
+É o relatório.
+Decido.
+À vista da legislação que passou a disciplinar o mandado de segurança (art. 7o, III, da Lei no. 12.016/2009), para a concessão de medida liminar, mister a presença dos requisitos cumulativos e necessários, a saber: que os fundamentos da impetração sejam relevantes (fumus boni iuris) e que a possibilidade do ato impugnado resulte na ineficácia da medida, caso seja deferida apenas ao final (periculum in mora).
+Vê-se, assim, que o fundamento relevante que autoriza a concessão da medida liminar no mandado de segurança é mais intenso que a mera aparência do bom direito, devendo ser entendido como a alta probabilidade de ganho da ação mandamental.
+Na hipótese dos presentes autos, a Impetrante pretende a concessão da liminar mandamental, para ser imediatamente nomeada, a fim de assumir o cargo de Professor da Educação Básica, perfil profissional: Pedagogia, no Município de Cuiabá, haja vista a sua classificação no Concurso Público, regido pelo Edital n. 000/2017, da Secretaria de Estado de Educação Esporte e Lazer.
+Sobre a específica matéria dos autos, o Supremo Tribunal Federal, no julgamento submetido ao rito da repercussão geral (RE n. 598.099/MS), fixou o entendimento de que o candidato aprovado no concurso público, dentro do número de vagas, previstas no Edital, tem direito subjetivo à nomeação:
+RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL – CONCURSO PÚBLICO – PREVISÃO DE VAGAS EM EDITAL – DIREITO À NOMEAÇÃO DOS CANDIDATOS APROVADOS.
+I. DIREITO À NOMEAÇÃO. CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS PREVISTAS NO EDITAL. Dentro do prazo de validade do concurso, a Administração poderá escolher o momento no qual se realizará a nomeação, mas não poderá dispor sobre a própria nomeação, a qual, de acordo com o edital, passa a constituir um direito do concursando aprovado e, dessa forma, um dever imposto ao poder público. Uma vez publicado o edital do concurso com número específico de vagas, o ato da Administração que declara os candidatos aprovados no certame cria um dever de nomeação para a própria Administração e, portanto, um direito à nomeação titularizado pelo candidato aprovado dentro desse número de vagas.
+II. (...). (RE n. 598.099/MS RG - Relator(a): Min. Gilmar Mendes - Tribunal Pleno - julgado em 10/08/2011 - RG - Mérito DJe-189 – divulg. 30-09-2011 – public. 03-10-2011).
+No caso em questão, o Edital regulamentador do certame previu 3 (três) vagas para ampla concorrência, para o cargo em referência, e a Impetrante obteve a 5a (quinta) colocação.
+Quanto à alegação do surgimento de novas vagas, em decorrência das aposentadorias e desistências de nomeação, a jurisprudência firmada pelo Plenário do Supremo Tribunal Federal, quando do julgamento do mérito da repercussão geral reconhecida no RE 837.311-RG/PI, Rel. Min. LUIZ FUX, DJe de 18/04/2016, é firme no sentido de que “o surgimento de novas vagas, ou a abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no edital, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da administração”.
+O Superior Tribunal de Justiça, no mesmo sentido, orienta que os candidatos, classificados fora do número de vagas previstas no certame, possuem mera expectativa de direito à nomeação, mesmo que novas vagas surjam no período de validade do concurso - por criação de lei ou por força de vacância - cujo preenchimento está sujeito a juízo de conveniência e oportunidade da administração. Confira-se:
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AGRAVO INTERNO. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DAS VAGAS. MERA EXPECTATIVA DE DIREITO À NOMEAÇÃO. PRECEDENTES DO STJ E DO STF. PRETERIÇÃO. AUSÊNCIA DE PROVA DOCUMENTAL PRÉ-CONSTITUÍDA. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. NÃO PROVIMENTO DO RECURSO ORDINÁRIO. AGRAVO INTERNO NÃO PROVIDO.
+1. É assente no Superior Tribunal de Justiça e no Supremo Tribunal Federal o entendimento de que candidatos aprovados fora do número de vagas previstas no edital ou em concurso para cadastro de reserva não possuem direito líquido e certo à nomeação, mesmo que novas vagas surjam no período de validade do concurso - por criação de lei ou por força de vacância - cujo preenchimento está sujeito a juízo de conveniência e oportunidade da administração. 2. (...).
+(AgInt no RMS 52.807/PE - julgado em 16/5/2019 - DJe 22/5/2019).
+Não bastasse, em que pese aos argumentos trazidos pela Impetrante, entendo que a liminar não deve ser concedida, também, porque não se afigura factível a possibilidade de lesão irreparável, se acaso obtido o reconhecimento que pretende, na oportunidade do exame de mérito, de modo que não há falar em deferimento da tutela liminar, por falecer o periculum in mora.
+Destarte, da análise do caderno processual, não verifico o preenchimento dos requisitos mencionados alhures, especialmente, a possibilidade de ineficácia da medida, se concedida na ocasião do exame de mérito, já que não há demonstração, inequívoca, do prejuízo advindo da espera do referido julgamento pelo Colegiado.
+Nessa esteira, tenho que, ausentes os requisitos legais previstos no artigo 7o, inciso III, da Lei n. 12.016/2009, a não concessão do pedido liminar é medida impositiva.
+Com essas considerações, NÃO CONCEDO a liminar vindicada no writ.
+Cumpra-se o disposto no art. 7o, I e II, da Lei n. 12.016/2009, em especial, a notificação do Impetrado, para prestar, querendo, no prazo de 10 (dez) dias, as suas informações.
+Após, encaminhem-se os autos a Procuradoria-Geral de Justiça.
+Intimem-se.
+Cuiabá, 29 de abril de 2022.
+Alexandre Elias Filho
+Relator Convocado
