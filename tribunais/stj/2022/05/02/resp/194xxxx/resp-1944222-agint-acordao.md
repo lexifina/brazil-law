@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 26/04/2022 a 02/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Sérgio Kukina.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 976):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ART. 1.022 E 489 DO CPC2015. NÃO OCORRÊNCIA. APLICAÇÃO DA TEORIA DA CAUSA MADURA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+O agravante alega que que houve violação aos artigos 489 e 1.022 do CPC2015, bem como queos pontos tidos como omitidos foram expressamente apontados, consignando o agravante que o Tribunal Regional não apreciou os tópicos II, IV, V e VI de sua Contestação.
+Sustenta que houve ofensaao artigo 515, §1º, CPC/1973 (1.013, §1º, CPC/2015), pois "a hipótese era de descida dos autos ao juízo de origem para fins de produção de provas, tendo em vista que da forma que se encontrava o processo, o Tribunal Regional apreciaria o litígio apenas com base em prova produzida por uma das partes, na medida em que apenas a ora agravada produzira provas (documentos)".
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART.1.022 E 489 DO CPC2015. NÃO OCORRÊNCIA. APLICAÇÃO DA TEORIA DA CAUSA MADURA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2.Afasta-se a alegada violação dosartigos 489 e1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. ACorte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que a causa encontrava-se madura para julgamento, atendendo os requisitos do art. 515, §1º, do CPC/1973, tendo em vista que da documentação juntada às fls. 37/81 estariam evidenciados os pressupostos da responsabilidade civil.Rever tal conclusão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incidência da Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados noagravo internonão se vislumbram razões para reformar a decisão agravada.
+Com efeito,afasta-se a alegada violação do artigo 1.022, II, do CPC/2015, porquanto o acórdão recorrido se manifestoude maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.Da leitura da petição dos embargos declaratórios opostos na origem (fls. 827-833), verifica-se que o recorrente suscitou genericamente o não enfrentamento dos fundamentos da contestação,sem demonstrar quais questões de direito não foram abordadas e a sua efetiva relevância para fins de novo julgamento.
+Assim, a tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Da mesma forma, afasta-se a alegada afronta ao artigo 489, § 1º, IV, do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ainda nessa esteira, frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+Quanto à questão de fundo,a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que a causa encontrava-se madura para julgamento, atendendo os requisitos do art.515, §1º, do CPC/1973, tendo em vista que dadocumentação juntada às fls. 37/81 estariamevidenciadosos pressupostos da responsabilidade civil.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
