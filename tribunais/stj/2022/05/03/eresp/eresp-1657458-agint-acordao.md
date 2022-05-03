@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 27/04/2022 a 03/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Og Fernandes.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto por VITORIANCOMPRA E VENDA DE BENS LTDA., contra decisão de fls. 2.938/2.941, que indeferiu liminarmente os embargos de divergência ao entendimento de que "o contribuinte credor que tiver conquistado, em juízo, o reconhecimento à percepção da diferença de correção monetária não considerada por ocasião da conversão de seu crédito em ações, terá essa parcela acrescida dos incidentes juros remuneratórios, mas somente até a data da correspondente AGE. Daí em diante, o débito assim consolidado será acompanhado apenas dos consectários próprios dos débitos judicialmente reconhecidos, a saber, correção monetária e juros de mora, a contar da citação, sem a possibilidade de cumulação com os juros remuneratórios, nos exatos termos do que restou sintetizado no item 8 da ementa do repetitivo paradigma" (fl. 2940).
+Sustenta a agravante, em resumo: (I) necessidade de suspensão do presente feito até o julgamento final dos embargos declaratórios nos EARESP 790.288/PR; (II) contrariedade aos arts. 926 e 927, caput e III, do CPC, normas vinculatórias dos juízes e tribunais, frente ao disposto no art. 5º, II, da CF, bem como afronta ao art. 68, § 1º, I, e 95 da CF, a reclamar a declaração de inconstitucionalidade incidenter tantum dos citados dispositivos de que trata o CPC; (III) obrigatoriedade de afastamento dos efeitos do resultado do julgamento proferido nos anômalos embargos declaratórios, por conta dos efeitos modificativos das teses firmadas em repetitivo; (IV) necessidade de revisão do entendimento firmado em tema repetitivo.
+Impugnação apresentada às fls. 2963/2970.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar especificamente o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): De início, registre-se a desnecessidade de suspensão do presente feito, uma vez que os EDcl nos EDcl nos EAResp 790.288/PR foram julgados na assentada de 23/3/2022, tendo sido rejeitados, bem como indeferido o pedido de remessa do feito à Corte Especial.
+De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão agravada, sob pena de incidir o óbice contido na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."). Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP, Relator Ministro Luis Felipe Salomão, DJe de 30/11/2018).
+No caso, conforme destacado no relatório, as razões de agravo interno não cuidaram, de modo específico, da impugnação da matéria de mérito tratada na decisão agravada, a saber, incidência na espécie dos juros remuneratórios até a data da AGE, e posteriormente incidiriam apenascorreção monetária e juros de mora, a contar da citação. Limitaram-se à alegação de não cumprimento do precedente repetitivo sobre o tema.
+Nesse contexto, incide a Súmula 182/STJ.
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
