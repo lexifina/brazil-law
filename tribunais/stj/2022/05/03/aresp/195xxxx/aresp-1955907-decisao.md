@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - CESSÃO DE CRÉDITO - NOTIFICAÇÃO DO DEVEDOR -DESNECESSIDADE - EXIGÊNCIA RESTRITA AO PROCESSO DE CONHECIMENTO - CESSÃO DE CRÉDITO DEVIDAMENTE COMPROVADA -ANUÊNCIA DO CREDOR ORIGINÁRIO - SUBSTITUIÇÃO PROCESSUAL PELA CESSIONÁRIA CABÍVEL - SUCESSÃO QUE INDEPENDE DE CONSENTIMENTO DO EXECUTADO - INTELIGÊNCIA DO ARTIGO 788, § 1.º, III E § 2.º, DO CÓDIGO DE PROCESSO CIVIL - INSTRUMENTAL DESPROVIDO -TESE REITERADA - DECISÃO MONOCRÁTICA MANTIDA - AGRAVO INTERNO DESPROVIDO.
+A parte agravante sustenta que a substituição processual não pode ser efetuada.
+A Corte de origem afirmou que, por se tratar de execução, incide a regra especial descrita no art. 778, § 1º, III, § 2º, a qual permite a sucessão no caso de transferência do título por ato entre vivos, independentemente do consentimento do executado. A parte agravante não logrou infirmar esse fundamento, suficiente por si só para manter o acórdão, que, por consequência, não pode ser alterado por força do veto contido no enunciado 283 da Súmula do STF.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
