@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALEXANDRE RODRIGUES DA SILVA contra a decisão de fls. 488-493, em que conheci parcialmente do recurso ordinário e, nessa extensão, neguei-lhe provimento, nos termos da seguinte ementa (fl. 488):
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL.TRÁFICO ILÍCITO DE ENTORPECENTES. AUDIÊNCIA DE CUSTÓDIA.REALIZAÇÃO SEM A PRESENÇA DO ADVOGADO CONSTITUÍDO.QUESTÃO JÁ APRECIADA NOS AUTOS DO RHC N.158.574/MG. ALEGAÇÃO DE VIOLAÇÃO DA DECISÃO DO STF.CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO."
+Neste recurso, o Embargante argumenta que "o ofício expedido pelo Excelso Supremo Tribunal Federal, em 24/05/2021 foi encaminhado para o Juízo primevo, mediante Ofício Eletrônico nº 7359/2021 (Ordem 03). Portanto, se o ofício é eletrônico, e sendo encaminhado para endereço do juízo primevo, logo este foi recebido" (fl. 496).
+Aduz que, para "demonstrar a realização intempestiva da audiência de custódia foi juntado o referido ofício" (fl. 496).
+Assevera que "restou comprovado o recebimento do ofício eletrônico, portanto, instruído o writ originário" (fl. 497).
+Requer "seja dado provimento aos presentes Embargos, concedendo os efeitos infringentes, para ser concedida a Ordem de Habeas Corpus ao paciente, com o declaração de nulidade devido a realização da audiência de custódia de forma extemporânea, em total afronta à Lei e à Ordem emanada pelo Eminente Ministro Roberto Barroso" (fl. 497).
+É o relatório.Passo a decidir.
+A decisão atacada está assim fundamentada (fls. 492-493; grifos no original):
+"Verifica-se que o Tribunal local assinalou que owritoriginário não foi devidamente instruído, pois não foi juntado documento que comprovassea data de recebimento, pelo Juízo singular, do ofício remetido pelo Supremo Tribunal Federal.
+Como se sabe, "a adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ"(STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe de 07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+De todo modo, a Corte a quo salientou que o "próprio Supremo Tribunal Federal vem entendendo que a realização da audiência custódia fora do prazo legal constitui mera irregularidade que pode ser suprida, não ensejando, dessa maneira, ilegalidade dos atos subsequentes ou, até mesmo, o relaxamento da prisão preventiva"(fl. 427), o que afasta o constrangimento ilegal apontado pela Defesa.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS.ORGANIZAÇÃO CRIMINOSA. EXTENSÃO DE BENEFÍCIO CONCEDIDO A CORRÉU. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA REALIZAÇÃO DE AUDIÊNCIA DE CUSTÓDIA. ALEGAÇÃO SUPERADA PELA DECRETAÇÃO DA PRISÃO. NEGATIVA DE AUTORIA E MATERIALIDADE.REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.DESPROPORCIONALIDADE DA SEGREGAÇÃO EM FACE DE FUTURA PENA.IMPOSSIBILIDADE DE AFERIÇÃO ANTES DA SENTENÇA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. ENVOLVIMENTO DO AGENTE EM ORGANIZAÇÃO CRIMINOSA.
+ ..
+2. Em que pese a demora para realização da audiência de custódia, o ato foi regularmente realizado, não sendo o descumprimento do prazo de 24 horas suficiente para tornar ilegal a prisão preventiva.
+ ..
+6. Agravo regimental improvido."(AgRg no RHC 157.050/RJ, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 07/12/2021, DJe 13/12/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL EM RECLAMAÇÃO CONSTITUCIONAL.ALEGADA VIOLAÇÃO DO ENTENDIMENTO FIXADO NA ADPF 347/DF. AUDIÊNCIA DE CUSTÓDIA REALIZADA APÓS O PRAZO DE 24 HORAS CONTADO DO MOMENTO DA PRISÃO. AUSÊNCIA DE PREJUÍZO. IRREGULARIDADE PASSÍVEL DE CORREÇÃO. AGRAVO REGIMENTAL A QUESE NEGA PROVIMENTO.
+I - A declaração de nulidade da audiência de custódia em razão de não ter sido realizada no prazo de 24 horas após a prisão dependeria da demonstração de efetivo prejuízo, conforme o princípio pas de nullité sans grief.
+ ..
+III - A jurisprudência desta Corte é no sentido de que a não realização da audiência de custódia no prazo de 24 horas depois da prisão em flagrante constitui irregularidade passível de ser sanada, que nem mesmo conduz à imediata soltura do custodiado, notadamente quando decretada a prisão preventiva, como se deu na espécie. Precedentes.
+IV - Agravo regimental a que se nega provimento."(Rcl 49566 AgR, Rel. Ministro RICARDO LEWANDOWSKI, SEGUNDA TURMA, DJe 09/11/2021; sem grifos no original.)"
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado.
+No caso, o Embargante não demonstra, em sua argumentação, a ocorrência de nenhuma das hipóteses legais ensejadoras dos embargos declaratórios, sendo certo que a alegação de que "restou comprovado o recebimento do ofício eletrônico, portanto, instruído o writ originário" (fl. 497) nem mesmo foi suscitada nas razões do recurso ordinário emhabeas corpus.
+Outrossim, não obstante a discussão acerca da instrução deficiente dowritoriginário, também consta da decisão embargada que "a Corte a quo salientou que o "próprio Supremo Tribunal Federal vem entendendo que a realização da audiência custódia fora do prazo legal constitui mera irregularidade que pode ser suprida, não ensejando, dessa maneira, ilegalidade dos atos subsequentes ou, até mesmo, o relaxamento da prisão preventiva"(fl. 427)" (fl. 492), o que afasta o constrangimento ilegal apontado pela Defesa.
+Ressalto que a pretensão de rediscussão de matéria suficientemente decidida não se coaduna com a via eleita. Ilustrativamente:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. OMISSÃO NÃO CONFIGURADA. CONTRADIÇÃO. NÃO OCORRÊNCIA. CONTRAFACTUAL INTERNO. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+ ..
+4. Embargos de declaração não acolhidos."(EDcl no RHC 88.642/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 05/05/2020, DJe 11/05/2020; sem grifos no original.)
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EMHABEAS CORPUS. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
