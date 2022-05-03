@@ -1,0 +1,51 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por MERCADO SAL ADMINISTRACAO DE EMPREENDIMENTOS GASTRONOMICOS S.A, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ,assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE ALUGUERES E CLÁUSULA PENAL. SENTENÇA QUE JULGOU O FEITO EXTINTO, SEM RESOLUÇÃO DO MÉRITO, POR AUSÊNCIA DE LEGITIMIDADE ATIVA. RECORRENTE QUE ALEGA TER SUCEDIDO A EMPRESA LOCADORA, MAS DEIXOU DE COMPROVAR TAL CIRCUNSTÂNCIA NO MOMENTO OPORTUNO, JUNTO À PETIÇÃO INICIAL, OU MESMO NA IMPUGNAÇÃO À CONTESTAÇÃO, QUANDO FOI SUSCITADA A SUA ILEGITIMIDADE. IMPOSSIBILIDADE DA ANÁLISE DAS PROVAS JUNTADAS EM SEDE RECURSAL, EM FACE DA PRECLUSÃO. AUSÊNCIA DE DEMONSTRAÇÃO DE QUE SE TRATA DE DOCUMENTO NOVO, OU CUJO ACESSO, DISPONIBILIZAÇÃO, FORMAÇÃO OCORREU APÓS A PROLAÇÃO DA SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. APELAÇÃO CONHECIDA E DESPROVIDA.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 317 e 352 do CPC.
+Sustenta, em síntese, quehá dever legal do magistrado em possibilitar à parte a oportunidade de sanar eventual vício porventura existente na petição inicial, o que não ocorreu, em total afronta à lei federal.
+Contrarrazões ao recurso especial às fls. 634-643.
+Crivo positivo de admissibilidade na origem (fls. 644-645).
+É o relatório.
+DECIDO.
+2. Não assiste razão àrecorrente.
+3. Na hipótese, a sentença extinguiu o feito sem resolução do mérito por entender não estar comprovada a legitimidade da parte autora (e-STJ Fl.475):
+Diante do exposto, julgo extinto o feito sem resolução de mérito ante àilegitimidade ativa, o que faço com fundamento no artigo 485, VI do Código de Processo Civil.
+Insurge a recorrente alegando não ter sido concedida oportunidade para sanar referido vício, ocorrendo dessa forma violação aos arts. 317 e 352 do CPC.
+Ocorre que, conforme consignado no acórdão, foi sim dado oportunidade à parte para se manifestar sobre a ilegitimidade alegada (e-STJ Fl.565):
+Mesmo após a ilegitimidade ativa ter sido suscitada pelos réus em sede de contestação, o autor não apresentou os documentos que comprovavam a cessão dos direitos sobre o contrato de sublocação do imóvel, limitando-se a reafirmar genericamente que houve a substituição das sublocadoras.
+Diante de tais fatos, tem-se que foi dada oportunidade para que o autor se manifestasse sobre a ilegitimidade alegada, visto que concedido prazo para a apresentação de impugnação à contestação, momento em que poderia ter afastado a prejudicial de mérito, observado, portanto, o disposto no artigo 351 do CPC. De mais a mais, não se vislumbra violação ao artigo 352 da mesma normativa, uma vez que não havia óbice para a apresentação dos documentos ora juntados quando do acostamento da petição de impugnação à contestação, não se mostrando imprescindível a concessão de prazo próprio para sua juntada aos autos.
+Deste modo, tem-se que houve a preclusão consumativa para a apresentação dos aditivos contratuais que demonstram a legitimidade do recorrente, visto que deveriam ter sido juntados em momento oportuno, isto é, antes da prolação da sentença.
+A preliminar de ilegitimidade ativa foi suscitada em sede de contestação.A autora por sua vez foi intimada para impugnar aquela contradita, momento no qual foi oportunizada a produção de prova para rebater a preliminar da ré e comprovar sua legitimidade.
+Dessa forma, a sentença que extinguiuo processo não violouos arts. 317 e 352 do CPC, pois foi dada à parte anterior oportunidade paraproduzir a prova do seu direito em sede de impugnação à contestação, não sendo devido promover nova intimação para correção da irregularidade.
+Caso contrário, permitir-se-ia, em um ciclo sem fim, dar à parte reiteradas oportunidades parasanaro vício, até o momento em que o juízo entendesse como atendido,o que certamente violaos princípios da paridade de tratamento e da razoável duração do processo.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA AÇÃO RESCISÓRIA. SERVIDORES PÚBLICOS ESTADUAIS. DETERMINAÇÃO DE EMENDA À INICIAL, PARA ATENDER AO DISPOSTO NO ART. 488, I, DO CPC/73 E ART. 968, I, DO CPC/2015, E PARA ACOSTAR AOS AUTOS OS DOCUMENTOS INDISPENSÁVEIS À PROPOSITURA DA DEMANDA. CUMPRIMENTO PARCIAL. INDEFERIMENTO DA INICIAL. INTELIGÊNCIA DOS ARTS. 284, PARÁGRAFO ÚNICO, 295, VI, E 490, I, DO CPC/73 E DOS ARTS. 321, PARÁGRAFO ÚNICO, 330, IV, 968, § 3º, DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+X. Em que pese efetivamente oportunizado, aos agravantes, o saneamento do vício existente na petição inicial da Ação Rescisória, relativo à ausência de cumulação dos pedidos de rescisão do acórdão rescindendo e de novo julgamento, na forma determinada pelo art. 488, I, do CPC/73, os agravantes deixaram de fazê-lo, devendo, assim, suportar as consequências decorrentes de sua omissão, especialmente quando não compete ao julgador, com base no princípio da primazia do julgamento de mérito e da cooperação, fechar os olhos para os requisitos legais, emendando, de ofício, a petição inicial, ou outorgando reiteradas oportunidades para que a parte corrija o vício, o que violaria o princípio da paridade de tratamento, previsto nos arts. 7º e 139, I, do CPC/2015.
+XI. Agravo interno não provido.
+(AgInt na AR 5.303/BA, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 11/10/2017, DJe 24/10/2017)
+Esta Corte também já entendeuque o acórdão que extingue o processo por inépcia da inicialsem conferir à parte oportunidade para sanar o vício, que até então não tinha sido declarado naquela ação diante da sentença de procedência em primeira instância, viola o art. 321 do CPC:
+RECURSO ESPECIAL - AÇÃO MONITÓRIA - PROCEDÊNCIA EM PRIMEIRA INSTÂNCIA - EXTINÇÃO POR INÉPCIA DA PETIÇÃO INICIAL PELO TRIBUNAL A QUO - AUSÊNCIA DE INTIMAÇÃO DO AUTOR PARA SUPRIR A FALTA DOCUMENTAL - OFENSA À NORMA PROCESSUAL VERIFICADA - RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Hipótese: Cinge-se a controvérsia a decidir se o acórdão que reforma a sentença - que julgou procedente a ação monitória - para extinguir o processo por inépcia da inicial, sem intimar o autor para suprir a falta de documentos, ofende a legislação processual.
+1. Para o acolhimento do apelo extremo, no sentido de afirmar se são suficientes os documentos que instruíram a ação monitória, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, enseja em rediscussão da matéria fática-probatória, atraindo o óbice da Súmula 7 do STJ.
+Inconformismo, nesta parte, não acolhido.
+2. Ofende o art. 284 do CPC/1973 (art. 321, CPC/2015), o acórdão que reforma sentença de procedência da ação e declara extinto o processo, por inépcia da petição inicial, sem intimar o autor e lhe conferir a oportunidade para suprir a falha.
+3. O fato de a emenda à inicial ter se dado após a contestação do feito, por si só, não inviabiliza a adoção da diligência corretiva prevista no art. 284 do CPC/1973. (AgRg no AREsp 196.345/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 04/02/2014).
+4. Recurso especial parcialmente provido.
+(REsp 1229296/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/11/2016, DJe 18/11/2016)
+A contrario sensu, se é dada à parte a oportunidade de suprir a falha, não há que se falar em violação ao CPC, sendo este ocaso dosautos.
+Dessa forma, estando o acórdão recorrido em consonância com a jurisprudência desta Corte, incide o óbice da Súmula 83/STJ.
+4. Quanto à alegada divergência jurisprudencial, não assiste razão.
+Os dois paradigmas apontados não se mostram aptos a sustentar a tese da recorrente. Pelo contrário, eles amparam o decidido pelo acórdão recorrido, no sentido de que não viola o CPC a decisão que extingue o processo após ter dado à parte oportunidade de sanar o vício.
+Tantoéque os paradigmas apontados no recurso especial são os dois julgados mencionados anteriormente(AgInt na AR 5.303/BA, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 11/10/2017, DJe 24/10/2017; eREsp 1229296/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/11/2016, DJe 18/11/2016).
+Incide na hipótese a Súmula 284/STF.
+Ademais, restou assentado no acórdão que "foi dada oportunidade para que o autor se manifestasse sobre a ilegitimidade alegada, visto que concedido prazo para a apresentação de impugnação à contestação, momento em que poderia ter afastado a prejudicial de mérito, observado, portanto, o disposto no artigo 351 do CPC."(e-STJ Fl.565). Infirmar essa conclusão, no sentido de não ter ocorrido referida oportunidade, esbarra na Súmula 7/STJ.
+5. Ante o exposto, nego provimento ao recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PROCESSO EXTINTO SEM RESOLUÇÃO DO MÉRITO POR ILEGITIMIDADE ATIVA. PRÉVIA INTIMAÇÃO PARA SANAR O VÍCIO.AUSÊNCIA DE VIOLAÇÃO AOS ARTIGOS 317 E 352 DO CPC. SÚMULA 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 284/STF. REEXAME DE PROVA. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1.Não violaos artigos 317 e 352 do Código de Processo Civil, a sentençaque extingueo feito sem resolução domérito ante à ilegitimidade ativaapósintimar o autor e lhe conferir a oportunidade para suprir a falha. Precedente.
+2. Quanto à divergência jurisprudencial, os dois paradigmas apontados no recurso especial não sustentam a tese da recorrente. Incidência da Súmula 284/STF.
+3. Restou assentado no acórdão que "foi dada oportunidade para que o autor se manifestasse sobre a ilegitimidade alegada, visto que concedido prazo para a apresentação de impugnação à contestação, momento em que poderia ter afastado a prejudicial de mérito, observado, portanto, o disposto no artigo 351 do CPC." (e-STJ Fl.565). Infirmar essa conclusão, no sentido de não ter ocorrido referida oportunidade, esbarra na Súmula 7/STJ.
+4. Recurso especial não provido.
