@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONALcom fundamento na alínea "a" do permissivo constitucionalcontra acórdão proferido pelo Tribunal Regional Federal da 1ª Região que possuiu a seguinte ementa (e-STJ fl. 259):
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. PRESCRIÇÃO (RE N.566.621/RS). NÃO INCIDÊNCIA SOBRE VALORES PAGOS A TITULO DE TERÇO DE FÉRIAS, AVISO PRÉVIO INDENIZADQ E SEUS RESPECTIVOS REFLEXOS.
+1. Afastada a tese da ausência de ato coator/inadequação da impetração contra lei em tese, porquanto a parte impetrante pleiteou a inexigibilidade de contribuição social previdenciária patronal. Trata-se, portanto, de mandado de segurança contra ato de efeitos concretos, qual seja, a exigência de recolhimento de tributo.
+Nesse sentido: (AC 0080766-72.2010.4.01.3800/MG, Rel. Desembargador Federal Reynaldo Fonseca, Sétima Turma, e-DJF1 p.614 de 14/0912012).
+2. Consoante entendimento desta Turma, "é inadequada a via mandamental para se pleitear restituição de indébito, pois o mandado de segurança não é substituto de ação de cobrança (Súmula 269/STF) e não produz efeitos patrimoniais pretéritos (Súmula 271/STF). Improcedente, portanto, o pedido de restituição.
+Quanto ao pedido alternativo de compensação, "o mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária" (Súmula 213/STJ)" (AMS 0005492-93.2010.4.01.3803/MG, Rel. Desembargador Federal Luciano Tolentino Amaral, Sétima Turma, e-DJF1 p. 1158 de 31/03/2014).
+3. "É desnecessária a prova pré-constituída do recolhimento do tributo para obtenção do provimento declaratório do direito de compensação, uma vez que esta se dará em momento posterior, administrativamente" (AMS 0000592-15.2015.4.01.3602/MT, Rel. Desembargadora Federal Maria do Carmo  Cardoso, Oitava Turma, e-DJF1 de 20/05/2016).
+4. Nas ações ajuizadas após 09/06/2005, aplica-se a prescrição quinquenal (RE 566.621).
+5. No tocante ao adicional de férias concernente às férias gozadas, tal importância possui natureza indenizatória/compensatória, e não constitui ganho habitual do empregado, razão pela qual sobre ela não é possível a incidência de contribuição previdenciária (a cargo da empresa). Precedente: REsp 1.230.957/RS, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 26/02/2014, DJe 18/03/2014.
+6. Indevida a incidência de contribuição previdenciária sobre o aviso prévio indenizado, pela sua natureza indenizatória. Precedente: REsp 1.230.957/RS, art. 543-C do CPC).
+7. Reconhecido o não-cabimento da contribuição previdenciária sobre o aviso prévio indenizado, inadmissivel a Incidência, também, sobre o décimo terceiro salário proporcional a essa verba. Precedentes:
+AMS 0013778-89.2012.4.01.3803/MG, Rel. Desembargador Federal Reynaldo Fonseca, Sétima Turma, e- DJF1 p.408 de 16/08/2013; AC 0049386-33.2011.4.01.3400/DF, Rel. Desembargador Federal Luciano Tolentino Amaral, Sétima Turma, e-DJF1 p.1235 de 05/07/2013.
+8. Apelação e remessa oficial às quais se nega provimento.
+Opostos embargos de declaração, queforam rejeitados (e-STJ fls. 282/287).
+Nas razões de recurso (e-STJ fls. 290/302), a FAZENDA aponta, inicialmente, violação do art. 1.022 do CPC/2015, ao argumento de que a Corte de origem teria sido omissa em relação à incidência da contribuição previdenciária sobre o reflexo do aviso prévio indenizado sobre o décimo terceiro salário.
+Em seguida, aduz desrespeito aos arts. 22 e 28 da Lei n. 8.212/1991, defendendo que os valores do décimo terceiro proporcional ao aviso prévio indenizado devem integrar a base de cálculo sobre a qual deve incidir a contribuição previdenciária.
+Passo a decidir.
+Inicialmente, observo que inexiste ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC/2015, quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão recorrido, como ocorre na espécie.
+No mais, destaco que "a jurisprudência de ambas as Turmas que integram a Primeira Seção do Superior Tribunal de Justiça firmou-se no sentido de que incide contribuição previdenciária patronal sobre o aviso prévio indenizado e seus reflexos, inclusive o décimo terceiro proporcional" (AgInt no REsp 1.836.748/RS, de minha relatoria, Primeira Turma, julgado em 08/02/2021, DJe 17/02/2021).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial da FAZENDA NACIONAL para reconhecer a incidência da contribuição previdenciária sobre o décimo terceiro salário proporcional ao aviso prévio indenizado.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
