@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deWELLINGTON SILVA DOS SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL(Apelaçãon. 5003437-83.2020.8.21.0007).
+Depreende-se dos autos que o réu foi condenado a 8 anosde reclusão, no regime inicialmente fechado, e ao pagamento de 1.250 dias-multa, pela prática dos crimes dos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006 (tráfico de drogas e associação para omesmo fim), em razão da posse de 44g (quarenta e quatro gramas) de cocaína e 15g (quinze gramas) decrack.
+A apelação manejada pelo paciente foi parcialmente provida, apenas para abrandar a multa cominada ao crime de tráfico de drogas em 500 dias-multa(e-STJ fls.26/27:
+TRÁFICO DE DROGAS. PROVA. PROPÓSITO DE COMÉRCIO CONFIGURADO. CONDENAÇÃO. APENAMENTO. MINORANTE. REGIME. MULTA. CUSTAS PROCESSUAIS.
+A infração de que trata a regra contida no art. 33, caput, da Lei n.11.343/2006, não é caracterizada pela venda, tão-somente, resultando incriminadas diversas outras condutas, como as de simplesmente transportar, levar consigo a substância entorpecente ou mantê-la em depósito, desde que com o propósito de mercancia.
+Desimporta, assim, ao efeito de se acolher a pretensão acusatória, tenha o agente efetivado, ou não, a venda, mostrando-se suficiente, para tanto, que os elementos informativos evidenciem tal intento. E tanto ocorre no caso vertente, em que dispunha um dos acusados de significativa quantidade de drogas de especial nocividade (15g de crack e 44g de cocaína), além de balança de precisão e numerário fracionado, substâncias entorpecentes que mantinha em depósito sob ordens do corréu que, recolhido em estabelecimento prisional, o orientava acercado fracionamento, venda e entrega das drogas, restando caracterizado o crime de associação para o tráfico de drogas, inclusive.
+Pena de multa redimensionada. Suspensão da exigibilidade do pagamento das custas processuais deferida a um dos réus.
+APELO DE UM DOS RÉUS DESPROVIDO. APELO DO OUTRO RÉU PARCIALMENTE PROVIDO.
+Daí o presente writ, no qual sustenta a defesa ilegalidade na dosimetria quanto ao indeferimento da minorante do § 4º do art. 33 da Lei de Drogas. Argumenta que não foi concretamente demonstrado que o acusado não se enquadrava em uma das situações elencadas nesse dispositivo.
+Aduz preencher o agente os requisitos para a fixação de regime inicial menos gravoso e para a substituição da pena privativa de liberdade por medidas restritivas de direitos.
+Requer, liminarmente e no mérito, a readequação da reprimenda.
+É o relatório.
+Decido.
+Preliminarmente, cumpre salientar que é competência do relator, em decisão in limine, aplicar jurisprudência pacífica do colegiado, conforme expressamente dispõem os incisos XVIII e XX do art. 34 do Regimento Interno do Superior Tribunal de Justiça, bem como julgados nesse sentido das turmas criminais desta Corte (vide AgRg no HC n. 622.778/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 10/12/2020; AgRg no HC n. 622.822/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/11/2020).
+Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Acerca da quaestio trazida à baila no recurso especial, assim consignou a Corte estadual, in verbis(e-STJ fl. 36):
+Ademais, diversamente do sustentado, não há cogitar da observância da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei Antidrogas, porquanto o acusado restou condenado também pela prática do crime de associação para o tráfico, o que deixa à mostra que não se tratava de eventual empreitada criminosa, revelando, em verdade, a dedicação do apelante às atividades delituosas.
+O entendimento do acórdão impugnado está em consonância com o desta Casa de que acondenação do paciente pelo delito do art. 35,caput, da Lei n.11.343/2006, por si só, constitui fundamento para a não concessão do pretendido redutor.
+Nesse palmilhar:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. OFENSA AO ART. 35 DA LEI 11.343/2006. AUSÊNCIA DE PROVAS. NÃO VERIFICAÇÃO. REEXAME QUE ENCONTRA ÓBICE NA SÚMULA 7/STJ. 2. ASSOCIAÇÃO PARA O TRÁFICO. ESTABILIDADE E PERMANÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. 3. OFENSA AO ART. 59 DO CP. CONDUTA SOCIAL NEGATIVA. VALORAÇÃO IDÔNEA. PRECEDENTES. 4. AFRONTA AO ART. 33, § 4º, DA LEI DE DROGAS. NÃO OCORRÊNCIA. INCOMPATIBILIDADE COM A CONDENAÇÃO PELO CRIME DE ASSOCIAÇÃO. 5. VIOLAÇÃO DO ART. 33, § 2º, DO CP E DO ART. 387, § 2º, DO CPP. NÃO OCORRÊNCIA. INFORMAÇÕES INSUFICIENTES. MATÉRIA QUE DEVE SER EXAMINADA PELO JUÍZO DAS EXECUÇÕES. 6. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. No que concerne à suposta ofensa ao art. 33, § 4º, da Lei de Drogas, tem-se que, conforme consignado pela Corte local, "o STJ pacificou entendimento que a condenação também pelo crime de associação para o tráfico é incompatível com a causa de diminuição do art. 33, § 4º, já que o tipo previsto no art. 35 da Lei nº 11.343/06 exige comprovação de associação entre pessoas para. com certa habitualidade e permanência. praticar narcotráfico. o que não se coaduna com a mens legis da citada minorante. criada para beneficiar aqueles considerados "traficante de primeira viagem"".
+5.  ..
+6. Agravo regimental a que se nega provimento.(AgRg nos EDcl no AREsp 1863505/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 14/12/2021, DJe 17/12/2021, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO.REEXAME DE PROVAS. IMPOSSIBILIDADE. .. EXASPERAÇÃO DA PENA-BASE FUNDAMENTADA. QUANTIDADE E NATUREZA DAS DROGAS. APLICAÇÃO DA MINORANTE. INVIABILIDADE. CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. ABRANDAMENTO DO REGIME PRISIONAL. IMPROCEDENTE. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. .. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Esta Corte é firme na compreensão de que não se presta o remédio heroico à revisão da condenação estabelecida e confirmada pelas instâncias ordinárias, uma vez que a mudança de tal conclusão exigiria o reexame das provas, o que é vedado na via do habeas corpus.
+2. Na hipótese, o Tribunal local entendeu estarem devidamente comprovadas tanto a autoria quanto a materialidade do delito imputado ao agravante - ante o conjunto fático-probatório acostado aos autos, em observância aos princípios do devido processo legal substancial, do contraditório e da ampla defesa.
+ ..
+6. De acordo com o aludido art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário, portador de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+7.Na hipótese, a condenação do agravante pelo delito do art. 35, caput, da Lei n. 11.343/2006, por si só, constitui fundamento para a não concessão do pretendido redutor.
+ ..
+10. Agravo regimental desprovido.(AgRg no HC 550.917/SP, de minha relatoria, SEXTA TURMA, julgado em 28/04/2020, DJe 08/05/2020, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. ABSOLVIÇÃO.REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE.AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5.Porque mantida a condenação dos réus pela prática do crime de associação para o tráfico de drogas, não há como reconhecer a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+ ..
+7. Agravo regimental não provido.(AgRg no HC 507.130/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/12/2019, DJe 11/12/2019, grifei.)
+Mantida a pena privativa de liberdade em 8 anos de reclusão,estão prejudicados os pedidos sucessivos de abrandamento do regime e de substituição da sanção corporal.
+Ante o exposto, denego a ordem, in limine.
+Publique-se. Intimem-se.
