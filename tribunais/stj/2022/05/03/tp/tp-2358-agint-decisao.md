@@ -1,0 +1,23 @@
+DECISÃO
+1. Cuida-se de agravo interno interposto por SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS contra decisão da minha lavra que não conheceu da petição aviada pelo recorrente com vistasà concessão de efeito suspensivo e ao"destrancamento" de agravo em recurso especial "pendente de admissibilidade na origem".
+Reitera o agravante o cabimento da medida perante o STJ, alegando que o recurso especial fora inadmitido pelo Tribunal de origem, "sem observar a legislação aplicável ao caso, ocasionando a interposição do recurso de Agravo em Recurso Especial que ainda se encontra pendente de apreciação, ainda que obrigatoriamente o mesmo tenha que ser remetido a esta Corte Superior".
+No ponto, em extensa digressão sobre a matéria de fundo, defende a indevida aplicação, pela Corte local, do tema repetitivo disciplinado no REsp 1.091.393/SC e no REsp 1.091.363 à hipótese dos autos, sobretudo "em razão de posterior mudança legislativa, que deu tratamento diverso ao mesmo tema (art. 3º da Lei 13.004/14)".
+Repisa os argumentos relativos ao perigo da demora, alertando para a existência de repercussão geral envolvendo matéria idêntica a discutida no RE nº 827.996.
+E conclui (fls. 924-1.090):
+Vê-se, pois, que diante da morosidade do TJPE, que ainda não remeteu o Agravo em Resp para o STJ, não existem outros meios para que esta seguradora obtenha o necessário efeito suspensivo ao recurso bem como o destrancamento de recurso especial, indevidamente retido por Tribunal local,até mesmo em atenção não apenas ao princípio da fungibilidade, mas também à própria instrumentalidade do processo, que jamais pode obstar a realização do direito material.
+Devidamente intimada, a parte agravada apresentou impugnação às fls. 1.093-1.126.
+É o relatório. DECIDO.
+2. Em razão do julgamentodo recurso especial em face do qual a agravante buscou a concessão do efeito suspensivo (AREsp n. 1.304.515-PE), sobressai a perda de objeto da medida, prejudicado o agravo interno interposto.
+Neste sentido, observadas as devidas particularidades, confira-se:
+AGRAVO INTERNO NO AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. SUPERVENIENTE JULGAMENTO DO RECURSO. PERDA DE OBJETO. DECISÃO MANTIDA. AGRAVO INTERNO IMPROVIDO. 1. Tendo em vista o superveniente julgamento do agravo em recurso especial ao qual se pretendia conferir efeito suspensivo, deve ser reconhecida a perda de objeto do pedido de tutela provisória. 2. Agravo interno a que se nega provimento. (AgInt no AgInt no TP 384/PE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe 22/10/2019)
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA - DECISÃO MONOCRÁTICA QUE JULGOU PREJUDICADO O PLEITO LIMINAR. IRRESIGNAÇÃO RECURSAL DA REQUERENTE.
+1. Segundo a jurisprudência desta eg. Corte Superior, apreciado o recurso cujo efeito suspensivo buscou-se garantir, tem-se a superveniente perda do objeto da medida liminar. Precedentes.
+2. Agravo interno desprovido. (AgInt no TP 1.581/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/06/2019, DJe 01/07/2019)
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA - EXECUÇÃO - EXTINÇÃO DE OFÍCIO POR ALEGADO ABANDONO DA CAUSA - TRIBUNAL DE ORIGEM QUE REFORMOU A DELIBERAÇÃO ANTE A AUSÊNCIA DE INTIMAÇÃO PESSOAL DA PARTE EXEQUENTE E INEXISTÊNCIA DE PEDIDO DO EXECUTADO QUE MANEJOU EMBARGOS DO DEVEDOR - PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO E JULGOU PREJUDICADA A PRESENTE MEDIDA EM RAZÃO DA PERDA DE OBJETO - IRRESIGNAÇÃO DO EXECUTADO - AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, apreciado o recurso cujo efeito suspensivo buscou-se garantir, tem-se a superveniente perda do objeto da medida cautelar, face a ausência do fumus boni iuris autorizador da pretensão, sendo desnecessário o trânsito em julgado ou a confirmação no órgão colegiado. Precedentes.
+2. Agravo interno desprovido. (AgInt no TP 895/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/11/2017, DJe 27/11/2017)
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. EFEITO SUSPENSIVO A RECURSO ESPECIAL. SUPERVENIENTE JULGAMENTO DO RECURSO. PERDA DE OBJETO. DECISÃO MANTIDA.
+1. Tendo em vista o superveniente julgamento do recurso especial ao qual se pretendia conferir efeito suspensivo, deve ser reconhecida a perda de objeto do pedido de tutela provisória.
+2. Agravo regimental a que se nega provimento. (AgInt no TP 744/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 07/11/2017, DJe 13/11/2017)
+3. Diante do exposto, julgo prejudicada a análise do agravo interno interposto.
+Arquivem-se, de imediato, mediante as comunicações necessárias.
