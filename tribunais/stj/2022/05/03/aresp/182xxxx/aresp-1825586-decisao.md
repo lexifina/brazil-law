@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal(e-STJ fls. 1.412/1.414).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.134):
+AGRAVO DE INSTRUMENTO. DISSOLUÇÃO DE SOCIEDADE. APURAÇÃO DE HAVERES. PROVA PERICIAL. ALEGAÇÃO DE EXCESSO DE JUROS, POIS OS MESMOS NÃO DEVERIAM SER APLICADOS DESDE A CITAÇÃO, MAS SIM DO TRÂNSITO EM JULGADO DO ACÓRDÃOQUE MODIFICOU OS PARÂMETROS DE CÁLCULO DOS HAVERES. TUTELA ANTECIPADA QUE AFASTOU O EX-SÓCIO DA CLÍNICA DESDE A SUA CITAÇÃO. SENTENÇA QUE DETERMINOU A DATA DE SAÍDA DO AGRAVADO. AUSÊNCIA DE IMPUGNAÇÃO. MANUTENÇÃO DA R. DECISÃO AGRAVADA. RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados(e-STJ fls. 1.379/1.382).
+No recurso especial (e-STJ fls. 1.144/1.163), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega, além de divergência jurisprudencial,ofensa aos arts. 93, IX, da CF, 489, § 1º, III, IV e VI,e 1.022, I, II, III, parágrafo único, I e II,do CPC/2015 por negativa de prestação jurisdicional.
+Segundo afirma, "o valor do principal já havia sido pago e recebido pelo recorrido, portanto, tais valores aqui discutidos, são valores de saldo remanescente, que não podem superar o principal, o que enseja que os cálculos estão realmente abusivos e que caracteriza além de tudo ERRO MATERIAL, ao aplicar reiteradamente atualizações em dobro quanto o Goodwill, que já foi fixado e atualizado, na Tribunal Superior em Segunda Instancia,través do v. acórdão VOTO 27622 (autos 2045721-19.2015.8.26.0000) que definiu os parâmetros para o cálculo de apuração de haveres não incorrendo novas atualizações no GOODWILL, a não ser que seja feito um novo balanço patrimonial, conforme normas brasileiras de Contabilidade, aspecto este que não foi respeitado pelo v. acórdãoaqui rechaçado"(e-STJ fls. 1.152/1.153).
+Requer o provimento do recurso especial "no sentido de admitir como verdadeiros os cálculos apresentados na HIPOTESE 2, que refletem verdadeiro saldo do débito devido, a quantia de R$ 126.747,04 (cento e vinte e seis reais esetecentos e quarenta e sete reais e quatro centavos)"(e-STJ fls. 1.162/1.163).
+No agravo (e-STJ fls. 1.420/1.430), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.433/1.440).
+É o relatório.
+Decido.
+Cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Ademais, não há falar em ofensa aos arts. 489 e 1.022do CPC/2015.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 1.139/1.140):
+II) A matéria trazida a esta C. Câmara refere-se exclusivamente ao termo inicial dos juros, razão pela qual nada será analisado em relação ao montante principal da dívida.
+III) Em que pese a irresignação dos agravantes, o recurso não deve ser provido.
+Isso porque, ao contrario do alegado na minuta recursal. a dissolução da sociedade não ocorreu em 2014. com o suposto acordo e alteração do contrato social, mas do afastamento do agravado da sociedade, em 2009. após deferimento da tutela antecipada pleiteada pelos próprios agravantes.
+Vale lembrar que a própria sentença que deu provimento à ação definiu tal data como da resolução da sociedade, não se insurgindo qualquer das partesquanto à questão. Lembre-se, ainda, que os haveres foram calculados com base na situação da empresa em outubro de 2009, sem qualquer alteração pelos diversos recursos interpostos por ambas as partes.
+Observa-se que o acórdão proferido nos autos do Agravo de Instrumento nº 2045721-19.2015.8.26.0000 definiu parte dos parâmetros para cálculo da apuração de haveres, qual seja, o valor do goodwill, todavia, nada deliberou sobre a data de saída do sócio, pelo contrário, elogiou o laudo elaborado pelo expert.
+Não se pode deixar de mencionar que os juros têm como termo inicial a data da mora e, no caso, os haveres são devidos da data da resolução da sociedade. Assim, os juros são devidos desde a citação do réu/agravado, ressaltando que o mesmo foi afastado de suas atividades dias após o ajuizamento da ação.
+Portanto, restando irrecorrida a sentença que definiu a data da dissolução da sociedade, bem como o imediato afastamento do ex-sócio de suas atividades, não há que se impor outra data para início da cobrança dos juros de mora.
+O Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
