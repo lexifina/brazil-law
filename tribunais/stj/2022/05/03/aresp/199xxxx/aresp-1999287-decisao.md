@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5, 7 e 83 do STJ(e-STJ fls. 196/202).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 65):
+AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. CONTRATO DE DISTRIBUIÇÃO DE PRODUTOS MÉDICO-HOSPITALARES. CLÁUSULA DE ELEIÇÃO DE FORO. DECLÍNIO DE COMPETÊNCIA PARA UMA DAS VARAS CÍVEIS DA COMARCA DE SÃO PAULO. IRRESIGNAÇÃO. DECLARAÇÃO DE INVALIDADE DA DISPOSIÇÃO CONVENCIONADA QUE POSSUI CARÁTER EXCEPCIONAL. PRECEDENTES DO C. STJ. NATUREZA DE ADESÃO DO PACTO FIRMADO ENTRE AS PARTES. COMPROVADA HIPOSSUFICIÊNCIA ECONÔMICA E TÉCNICA DAS ADERENTES. INSTRUÇÃO PROCESSUAL QUE POSSIVELMENTE DEMANDARÁ A REALIZAÇÃO DE PERÍCIA PARA AFERIÇÃO DAALEGADA APROPRIAÇÃO DO FUNDO DE EMPRESA, DISPARIDADE NOS PREÇOS IMPOSTOS PELA CONTRATADA, BEM COMO AVALIAÇÃO DO ESTOQUE REMANESCENTE DE PRODUTOS CUJA RECOMPRA POSTULAM AS AUTORAS. EVENTUAL TRAMITAÇÃO DO FEITO NO FORO DA CIDADE DE SÃO PAULO QUE ENSEJARÁ DIFICULDADES DE ACESSO À JUSTIÇA. NECESSIDADE DEASSEGURAR A PARIDADE DE TRATAMENTO ÀS PARTES. ART. 7º, DO CPC/15. RECURSO CONHECIDO E PROVIDO
+Nas razões do recurso especial (e-STJ fls. 72/92),fundamentadono art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) art. 7º e 453, §§ 1º, do CPC/2015, pois (e-STJ fl. 81):
+O E. TJRJ ignorou por completo o fato de que o reconhecimento da competência do Juízo da Comarca de São Paulo (livremente eleito pelas partes em igualdade de condições) não implica qualquer prejuízo processual à Cortex, justamente por força das disposições legais (tal como o artigo 453, §1º do CPC) que salvaguardam seu direito à produção probatória perante órgão jurisdicional localizado em circunscrição distinta daquela em que sua sede comercial se encontra localizada.
+(ii) art. 63 do CPC/2015, porque (e-STJ fl. 83):
+A presunção relativa de proteção à parte supostamente hipossuficiente não é aplicável ao caso, já que a Cortex anuiu com a preferência pelo Foro da Comarca de São Paulo no ato de celebração do Contrato, sem qualquer hipossuficiência ou vício de consentimento apto a macular a sua manifestação de vontade. Ademais, note-se que (i) o Contrato é um acordo empresarial complexo, (ii) as partes contratantes são sofisticadas, experientes nos seus ramos de atuação e, por isso mesmo, possuem (iii) total liberdade para o acordo de suas vontades.
+48. Ao contrário do que afirma o Acórdão Recorrido, é incontroverso que o fato de um contrato conter cláusula prevendo renúncia a direitos não lhe confere natureza de contrato de adesão. Há uma clara confusão conceitual, uma vez que é plenamente possível a renúncia a direitos em contratos que não sejam de adesão, tal como o presente caso.
+No agravo (e-STJ fls. 235/254), afirmaa presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 289/318 (e-STJ).
+É o relatório.
+Decido.
+Quanto à alegação de ofensa ao art. 453, § 1º, do CPC/2015, não houve pronunciamento do Tribunal a quo sobre essa questão, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas ao caso as Súmulas n. 282 e 356 do STF. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.INOVAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. AÇÃO DE REPARAÇÃO DE DANOS. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DETERMINANTE. REEXAME DE PROVAS. SUCUMBÊNCIA RECÍPROCA. SÚMULAS 282, 283 E 356 DO STF E 7/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1909047/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.INEXISTÊNCIA. PROVAS. REEXAME. INADMISSIBILIDADE. SÚMULA N. 7/STJ.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS N. 282 E 356/STF. DANOS IMATERIAIS. QUANTUM INDENIZATÓRIO. REVISÃO. EXCEPCIONALIDADE.EXORBITÂNCIA. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+ ..
+3. A simples indicação de dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1774591/PE, de minha relatoria, QUARTA TURMA, julgado em 29/11/2021, DJe 02/12/2021.)
+A Corte local assim decidiu (e-STJ fls. 69/70):
+No caso concreto, ao contrário do sustentado pela recorrida, o pacto se caracteriza como de adesão, não se verificando qualquer margem de negociação às contratantes quanto à definição/alteração das cláusulas previamente estabelecidas pela ré, relacionadas à comercialização/distribuição de seus produtos, conforme instrumento constante do Anexo 1 (index 000165), que contém inclusive a sua logomarca.
+Com efeito, mediante simples leitura das cláusulas insertas no negócio jurídico firmado, verifica-se que a avença estabelece a obrigação do distribuidor de "por conta própria e/ou consignação" comercializar os produtos desenvolvidos pela ré, havendo definição específica da clientela a ser atendida, com a fixação de metas de venda, revelando-se, assim, nítida a estipulação unilateral de seus termos pela demandada, em flagrante desproporcionalidade em relação à parte adversa.
+A hipossuficiência das contratantes igualmente restou demonstrada, porquanto não se vislumbra mínima paridade no porte financeiro das partes envolvidas, restando evidenciada a posição de desvantagem das autoras em relação à demandada, pessoa jurídica de renome nacional e internacional, cuja superioridade não só econômica, mas também técnica é manifesta.
+Para acolher a pretensão recursal e concluir que não seria contrato de adesão, assim como a parte recorrida não seria hipossuficiente, econômica e técnica, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
