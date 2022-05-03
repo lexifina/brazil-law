@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por HELENA ALBINO DA CUNHA REIS, em face da decisão acostada às fls. 402/403, e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 343/352, e-STJ, proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação Cível. Plano de saúde. Portabilidade extraordinária determinada pela ANS. Pretensão de manutenção de plano com Unimed de Santos nos mesmos termos originalmente contratados com a Unimed Guarujá. Sentença de procedência.
+Apelo da ré.Cerceamento de defesa pelo julgamento antecipado da lide.Desacolhimento. O juiz é o destinatário das provas, cabendo a ele decidir pela necessidade de sua produção. Conjunto probatório constante nos autos suficiente para deslinde da ação.Desnecessidade de produção de outras provas. Princípio da livre apreciação das provas e convencimento motivado do juiz (art. 370, do CPC). Preliminar afastada.
+Incompetência da Justiça Estadual pela necessidade de intervenção da ANS no feito. Descabimento. Discussão contratual que envolve apenas os interesses dos litigantes, não se verificando qualquer interesse da agência que regula os planos de saúde privados no caso. Preliminar afastada.
+Mérito. Portabilidade Extraordinária regida pela Resolução Operacional nº 1.989/16 da ANS. Pretensão de manutenção dos mesmos valores das mensalidades praticadas no plano originário (da Unimed Guarujá). Impossibilidade. Portabilidade que obriga apenas o aproveitamento das carências. Precedentes desta E. Corte.
+Opostos embargos declaratórios (fls. 354/363, e-STJ), restaram desacolhidos na origem (fls. 364/370,e-STJ).
+Nas razões de recurso especial (fls. 373/393, e-STJ), alegou o insurgente que o acórdão recorrido violou os artigos1º; 4º, III; 28, §2º;51, IV, todos da Lei nº 8.078/90.
+Sustenta, em síntese, que a resolução normativa aplicada pelo Tribunal local não possui status de lei federal, ser a relação consumerista entre as partes; haver solidariedade da recorrida Unimed Santos com a Unimed Guarujá;dever ser reconhecida a impossibilidade de portabilidade extraordinária por colocar a recorrente em desvantagem exagerada e, por fim, reconhecer a superioridade do CDC face à resolução instituída pela ANS.
+Por fim, pleiteia a observância da Boa-fé contratual.
+Sem contrarrazões.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre indicando insuficiência de fundamentação recursal.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 406/412, e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. Inicialmente, no que se refere aos dispositivos do CDC apontados como violados, verifica-se que não houve o necessário prequestionamento.
+Nos termos da jurisprudência deste Tribunal Superior, "para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal." (AgRg no AREsp 519.518/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/05/2018, DJe 25/05/2018).
+No mesmo sentido, citam-se: AgInt no REsp 1668409/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/05/2018, DJe 24/05/2018; AgInt no REsp 1599354/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016; AgInt no AREsp 1081236/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 05/09/2017.
+Assim, uma vez que o Tribunal de origem não proferiu decisão a respeito da controvérsia trazida a esta Corte Superior, não havendo, sequer, a indicação de ofensa ao art. 1022 do CPC, quando das razões recursai,é inviável conhecer o recurso especial, uma vez ausente o requisito do prequestionamento, conforme óbice da súmula 211 do STJ.
+2. Outrossim, ainda que se pudesse superar a Súmula 211 do STJ, o apelo nobre encontraria óbice na incidência da Súmula 283 do STF.
+Com efeito, oTribunal local consignou tratar-sede nova contratação e não de portabilidade. Confira-se:
+Depreende-se da Resolução Operacional RO nº 1.989 de 04/02/2016 (que dispõe sobre a concessão da portabilidade extraordinária aos beneficiários da Unimed do Guarujá Cooperativa de Trabalho Médico), que foi concedido o prazo de 60 dias para que os beneficiários da Unimed Guarujá procedessem à portabilidade extraordinária de carências para outro plano de saúde de sua escolha.
+No presente caso, a autora optou pela contratação de novo plano junto à Unimed Santos, entretanto, entende que devem ser mantidos os mesmos termos previstos no contrato que mantinha com a Unimed Guarujá.
+Contudo, é nitidamente inviável a pretensão da autora.
+No §1º do artigo 1º da referida Resolução restou consignado :
+"§1º Não se aplicam à portabilidade extraordinária de carências tratada neste artigo os requisitos previsto nos incisos I, II, III e IV e o disposto nos §§ 2º, 3º e 4º todos do artigo 3º da RN nº 186, de 2009." (grifo nosso).
+Já, o artigo 3º da Resolução Normativa nº 186 de 2009 estabelece:
+"Art. 3º O beneficiário de plano de contratação individual ou familiar ou coletiva por adesão, contratado após 1º de janeiro de 1999 ou adaptado à Lei nº 9656, de 1998, fica dispensado do cumprimento de novos períodos de carência e de cobertura parcial temporária na contratação de novo plano de contratação individual ou familiar ou coletivo por adesão, na mesma ou em outra operadora de plano de assistência à saúde, desde que sejam atendidos simultaneamente os seguintes requisitos: (Redação dada pela RN nº 252, de 29/04/2011) I - estar adimplente junto à operadora do plano de origem, conforme inciso I do art. 8º;
+II - possuir prazo de permanência: a) na primeira portabilidade de carências, no mínimo dois anos no plano de origem ou no mínimo três anos na hipótese de o beneficiário ter cumprido cobertura parcial temporária; ou b) nas posteriores, no mínimo um ano de permanência no plano de origem. (Redação dada pela RN nº 252, de 29/04/2011) III - o plano de destino estar em tipo compatível com o doplano de origem, conforme disposto no Anexo desta Resolução;
+IV- a faixa de preço do plano de destino ser igual ou inferior à que se enquadra o seu plano de origem, considerada a data da assinatura da proposta de adesão;
+e V- o plano de destino não estar com registro em situação "ativo com comercialização suspensa", ou "cancelado".
+Deste modo, nota-se que não há qualquer exigência de manutenção de preços, reajustes, cobertura e rede credenciada, como pretende a autora, garantindo-se ao interessado apenas a possibilidade de migrar para outro plano sem ter que cumprir novas carências.
+Isso porque, a relação jurídica entre a autora e a Unimed Santos é completamente distinta do contrato anterior que àquela mantinha com a Unimed Guarujá. Trata-se de nova contratação, celebrada com pessoa jurídica distinta, em que a recorrida optou por um dos planos comercializados pela recorrente, com seus respectivos valores e rede credenciada.
+Entretanto, nas razões do recurso especial, limou-se a alegar dever ser observada a teoria da aparência por se tratarem de pessoas jurídicas do mesmo grupo UNIMED, sem enfrentar tratar-se de um ovo contrato, com seus respectivos valores e rede credenciada.
+Infere-se, assim, a dissonância entre as razões do apelo extremo e a fundamentação utilizada na decisão impugnada, fazendo incidir os óbices das Súmulas 283 e 284/STF. Nesse sentido, AgInt no AREsp 590.018/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 10/04/2018, DJe 16/04/2018 eAgInt no AREsp 860.337/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/03/2017, DJe 28/03/2017.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
