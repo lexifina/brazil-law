@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ(e-STJ fls. 827/829).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 711):
+APELAÇÃO CÍVEL. SEGURO DE DANOS. AÇÃO DE INDENIZAÇÃO (DANOS EMERGENTES E LUCROS CESSANTES). PRETENSÃO DEVER AFASTADA A CLÁUSULA DE EXCLUSÃO DO RISCO, A PRETEXTO DA ALEGAÇÃO DE QUE A SEGURADORA DEVERIA DEMONSTRAR PRÉVIA CIÊNCIA E CONCORDÂNCIA DA SEGURADA FRENTE À REDUÇÃO DA COBERTURA. MATÉRIA QUE NÃO INTEGROU A CAUSA DE PEDIR INICIAL. IMPOSSIBILIDADE DE ALTERAÇÃO DA CAUSA DE PEDIR EM SEDE RECURSAL. INTELIGÊNCIA DO ART. 329 DO CÓDIGO DE PROCESSO CIVIL. RECURSO NÃO CONHECIDO NESTE PONTO. DISCUSSÃO RESTRITA À CAUSA EFICIENTE DOS DANOS PRODUZIDOS NO EQUIPAMENTO INDUSTRIAL SEGURADO. PROVA CABAL DE QUE O DANO NÃO FOI CAUSADO POR SIMPLES QUEDA DE ENERGIA, MAS SIM POR FALHA HUMANA NA OPERAÇÃO DO EQUIPAMENTO, APÓS O EVENTO. DEFEITO. SEGURADA QUE, CONTRARIANDO AS RECOMENDAÇÕES TÉCNICAS DA FABRICANTE, COLOCOU A MÁQUINA PARA FUNCIONAR. NEGATIVA DE COBERTURA DA INDENIZAÇÃO (DANOS EMERGENTES E LUCROS CESSANTES) ACERTADA E DE ACORDO COM AS CONDIÇÕES CONTRATUAIS. IMPROCEDÊNCIA DO PEDIDO. NECESSIDADE DE MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS, EM VIRTUDE DA SUCUMBÊNCIA RECURSAL. SENTENÇA MANTIDA. RECURSO PARCIALMENTE CONHECIDO, E NA PARTE CONHECIDA, DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 759/763).
+Nas razões do recurso especial (e-STJ fls. 772/794), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou ofensa aos arts.6º, VIII, 47 e 54, §4º,do CDC e 757 do CC/2002.
+Defendeque a Súmula n. 126/STJ é inaplicável, afirmando o seguinte (e-STJ 784):
+Ainda que a fundamentação das razões de mérito perpassepela necessária observância à garantia de defesa do consumidor, expressamenteconsignado no art. 5º, XXXII, da CF/88, não  a intenção do presente especialevidenciar violação a dispositivo constitucional, pois a violação é meramentereflexa: atinge-se a regra constitucional da garantia da promoção da defesa doconsumidor pela inobservância dos limites que permitem ao segundo grau dejurisdição manterem a improcedência do pleito indenizatório com base emfundamentos manifestamente contrários à prova dos autos.
+Sustenta que a "prova produzida ao longo do processo é o que basta para demonstrar que o recorrido possui responsabilidade para com os danos ocasionados ao recorrente" (e-STJ fl. 780), e que "a recorrida não se desincumbiu do ônus da prova" (e-STJ fl. 788).
+Busca "o provimento do presente recurso especial para o fim de condenar a recorrida ao pagamento de indenização por danos materiais sofridos (danos emergentes e lucros cessantes)" (e-STJ fl. 793).
+No agravo (e-STJ fls. 839/851), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 860/883 (e-STJ).
+É o relatório.
+Decido.
+O Tribunal de origem consignou (e-STJ fls. 717/718):
+(..)
+Não é demais destacar que o laudo técnico, subscrito por engenheiro mecânico da empresaSANEAMERICA, encarregada dos reparos iniciais para que "o produto ficasse em condições de trabalho" (mov. 1.8 - p. 5)  repita-se, contrariando a orientação da fabricante , não se presta a afastar a causaprimária dos danos, qual seja. a falha operacional humana do equipamento, pois se o laudo nada falou aesse respeito, foi porque simplesmente limitou-se a especificar os reparos emergenciais realizados paraque a máquina pudesse ficar em condições de trabalho, até o conserto definitivo.
+Diante de todas essas considerações, o cotejo do parecer da fabricante do equipamento com odepoimento da testemunha, ex-funcionário da empresa por ela arrolada, revela que, mesmo após aconstatação do defeito, que não decorreu da queda de energia, sublinhe-se, a Apelante contrariou asorientações técnicas da fabricante, que recomendava que o equipamento não entrasse em operação funcionou, segundo a testemunha, com 20% a 30% da sua capacidade operacional normal  e, colocou amáquina para funcionar após "remanejamento ou isolamento do defeito", até que fosse submetida areparo.
+Aliás, ao comunicar o sinistro à seguradora, a própria Apelante disse que a instabilidadedecorrente da queda de energia fez com que o equipamento fosse operado manualmente, tendo havido umerro de comando, gerando a explosão de oito placas diafragma. o que danificou também a lona (mov. 1.8
+-p. 17).
+Nesse contexto, apesar da Apelante negar, ficou evidenciada a falha operacional humana, comocausa eficiente e potencializadora dos danos, cuja indenização foi legitimamente denegada, porquanto setrata de risco excluído (cláusula 2a - Riscos Excluídos, alíneas "d" e "n" das Condições Especiais doproduto contratado - mov. 1.8).
+Nem se argumente que o fato de a Apelada não ter apresentado a apólice  que é simplesinstrumento do contrato de seguro, cujas condições da contratação, ademais, estão evidenciadas poroutros documentos trazidos com a própria petição inicial - mov. 1.7, p. 2-12 e mov. 1.8J, autorizaria, porsi só, a procedência do pedido.
+Isso porque, a própria autora/Apelante chegou a mencionar o número da apólice nº 242100371,declarando na petição inicial que a recebeu.
+Por outro lado, o fato de ter sido encaminhado um "termo inicial de apuração de prejuízos" (mov.1.8- p. II), igualmente não pode ser interpretado como indicativo de que a indenização pretendida édevida.
+O próprio documento contém a seguinte ressalva: "o presente termo não representa oreconhecimento prévio de cobertura do sinistro reclamado ou do valor a indenizar, os quais dependerãoda análise das Condições do Seguro contratado e da devida ratificação por parte da Seguradora Aliançado Brasil" (mov. 1.8-p. 11).
+Ademais, a pretensão de desqualificar as informações prestadas pela fabricante (Andritz), apósrequisição judicial, igualmente não prospera.
+Grife-se que o fato de a fabricante atestar que a queda de energia não poderia causar dano àválvula de alívio do sistema de pressurização, em nada sugere pretenso interesse da fabricante emendossar o seu "know-how" ou sua "expertise".
+Em primeiro lugar, porque a fabricante não tem qualquer interesse na demanda  não é parte,sequer terceiro interessado .
+Além disso, ainda que hipoteticamente a causa eficiente dos danos ocasionados na máquinaindustrial estivesse atrelada à queda de energia - o que se admite a título de mera argumentação emcaso eventual de indenização, o direito de regresso da seguradora seria exercido contra o causadorprimário do evento na hipótese, a distribuidora de energia elétrica.
+Por derradeiro, apenas para que não fique sem resposta o fato de se aplicar à espécie a legislaçãoconsumerista (art. 2o e de ter havido a inversão do ônus da prova (art. 6o, VIII, do CDC), não representagarantia de automática procedência do pedido.
+Se por um lado, deve-se fazer interpretação mais favorável ao consumidor (art. 47 do CDC), o quealiás foi feito pelo magistrado sentenciante, em matéria de contrato de seguro, o Superior Tribunal deJustiça vem entendendo que "A noção de interesse segurado pode ser ampliada para que o contratode seguro possa desempenhar corretamente sua função nas mais diferentes situações. Contudo, nãoobriga que todos os contratos de seguro, ao mencionar interesse segurado, passem a cobrir alémdaquilo que o instrumento contratual expressamente previu" (REsp 1613589/SP, Rei. MinistraNANCY ANDRIGHI, TERCEIRA TURMA, julgado em 05/12/2017, DJe 18/12/2017).
+Assim sendo, como na espécie dos autos ficou cabalmente demonstrado que o dano decorreu de falha operacional humana no equipamento segurado, excluída da cobertura, a indenização pretendida afigura-se indevida, seja no tocante aos danos emergentes do equipamento, seja quanto aos lucros cessantes pela perda da capacidade produtiva da máquina e dos correlatos prejuízos econômicos experimentados pela segurada.
+Modificar o entendimento do acórdão impugnado quanto ao dever de indenizar da recorridademandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DESISTÊNCIA DA AÇÃO. CONCORDÂNCIA DO RÉU. NECESSIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+ ..
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1792361/SP, de minha relatoria, QUARTA TURMA, julgado em 29/11/2021, DJe 02/12/2021.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE AFRONTA AO ARTIGO 1.022, II, DO CPC/2015. TRANSFERÊNCIA COMPULSÓRIA DE IMÓVEL REALIZADA MEDIANTE PAGAMENTO COM TÍTULOS DA DÍVIDA AGRÁRIA - TDAs. DIREITO PESSOAL/OBRIGACIONAL. INEXIGÊNCIA DE OUTORGA UXÓRIA PARA A DISPOSIÇÃO DE DIREITO PESSOAL. INCIDÊNCIA DA SÚMULA 83/STJ.SUPOSTA AMEAÇA AO DIREITO DE MEAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ.DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+ ..
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1911277/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
