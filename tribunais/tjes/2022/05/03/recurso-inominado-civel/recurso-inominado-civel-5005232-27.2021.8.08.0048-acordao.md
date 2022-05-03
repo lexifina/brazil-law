@@ -1,0 +1,66 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5005232-27.2021.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: LOIANE RAVENY OSCAR FERNANDES DA SILVA e outros
+RECORRIDO: AUTO TOP VEICULOS EIRELI - ME
+RELATOR(A
+):GRECIO NOGUEIRA GREGIO
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+Relator: DR. GRÉCIO NOGUEIRA GRÉGIO
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+Concedo o benefício da justiça gratuita à parte Recorrente.
+
+EMENTA:
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR.
+(1)
+AÇÃO DE OBRIGAÇÃO DE FAZER COM INDENIZATÓRIA. COMPRA DE AUTOMÓVEL. TENTATIVA DE REALIZAR TRANSFERÊNCIA DO VEÍCULO QUE SE ENCONTRAVA EM NOME DE TERCEIRO. ADUZ QUE EFETUOU PAGAMENTO DE DÉBITOS NA QUANTIA DE R$328,39. PUGNA EM SEDE LIMINAR A TRANSFERÊNCIA DO VEÍCULO, PAGAMENTO DE R$328,39 E INDENIZAÇÃO POR DANOS MORAIS.
+(2)
+SENTENÇA DE PISO QUE ASSIM DECIDIU: “Diante do arrazoado exposto,
+DECLARO EXTINTO
+o processo, sem resolução do mérito, nos moldes do artigo 485, VI do Código de Processo Civil, com relação ao pedido de transferência do veículo;
+JULGO PROCEDENTE
+o pedido de reparação material para
+CONDENAR
+a requerida a ressarcir ao autor a quantia de R$ 328,39 (trezentos e vinte e oito reais e trinta e nove centavos), com incidência de correção monetária desde o desembolso e juros a contar da citação; e
+JULGO IMPROCEDENTES
+os pedidos de danos morais e de suspensão do pagamento do financiamento. Via reflexa, declaro extinto o processo, com resolução de mérito, nos moldes do artigo 487, I do Código de Processo Civil de 2015, com relação ao pedido de danos morais”.
+(3)
+RECURSO INTERPOSTO PELO AUTOR PUGNANDO PELA REFORMA DA SENTENÇA
+. (4)
+CONTRARRAZÕES NO SENTIDO DA MANUTENÇÃO INTEGRAL DO JULGADO.
+(5)
+RECURSO CONHECIDO E PROVIDO PARCIALMENTE.
+
+QUANTO AO PEDIDO DE TRANSFERÊNCIA DO VEÍCULO O JUÍZO DE PISO ENTENDEU QUE A PARTE REQUERIDA ERA ILEGÍTIMA PARA RESPONDER POR ESTE ATO, PELO FATO DO VEÍCULO ENCONTRAR-SE EM NOME DE TERCEIROS. IMPOSSIBILIDADE DE ACOLHIMENTO DO PLEITO. AÇÃO QUE DEVE SER PROPOSTA EM DESFAVOR DO PROPRIETÁRIO ORIGINÁRIO DO VEÍCULO OU EM DESFAVOR DA AUTARQUIA DE TRÂNSITO. IMPOSSIBILIDADE DA OBRIGAÇÃO SER SATISFEITA PELO LOJISTA VENDEDOR. ENTRETANTO, INEXISTINDO PROVAS DO VENDEDOR ACERCA DO ALERTA AO CONSUMIDOR DE QUE O VEÍCULO SE ENCONTRAVA COM PENDÊNCIAS ADMINISTRATIVAS OU MERA DIFICULDADE DE LOCALIZAÇÃO DO PROPRIETÁRIO EM NOME DE QUEM SE ENCONTRAVA REGISTRADO O BEM, EXSURGE OBRIGAÇÃO INDENIZATÓRIA. DANO MORAL CONFIGURADO. FIXAÇÃO EM R$4.000,00(QUATRO MIL REAIS), EM OBSERVÂNCIA AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. ASSIM, REFORMA DA SENTENÇA, APENAS E TÃO SOMENTE, COM O FITO DE JULGAR PROCEDENTE O PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS, CONDENANDO A REQUERIDA A PAGAR AO RECORRENTE A IMPORTÂNCIA DE R$4.000,00 (QUATRO MIL REAIS), ACRESCIDA DE JUROS MORATÓRIOS DE 1% AO MÊS E CORREÇÃO MONETÁRIA PELO IPCA-E (EM CONFORMIDADE COM O RE 870942 - STF - JULGADO EM 20/11/2017), A PARTIR DO PRESENTE ARBITRAMENTO, EM CONFORMIDADE COM A SÚMULA 362 DO STJ. SEM CUSTAS E HONORÁRIOS.
+
+BÁRBARA TRABA JESUS GUZZO
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+GRÉCIO NOGUEIRA GRÉGIO
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
