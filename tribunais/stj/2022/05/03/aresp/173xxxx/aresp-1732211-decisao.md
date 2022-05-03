@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 656/661).
+O acórdão recorrido está assim ementado (e-STJ fl. 608):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - PRELIMINAR - ILEGITIMIDADE PASSIVA - REJEIÇÃO - CONTRATO DE LOCAÇÃO DE EQUIPAMENTOS - INTERVENIENTE GARANTIDORA - SOLIDARIDADE PASSIVA - COBRANÇA DE QUALQUER UM DOS DEVEDORES - PACTO SEPARADO DA CONTRATAÇÃO ORIGINAL - INEFICÁCIA EM RELAÇÃO A TERCEIROS. No plano processual, a legitimidade para figurar no polo passivo da ação cabe a quem se dirige a pretensão autoral e que a ela resiste. A solidariedade contratual passiva resulta da vontade das partes e autoriza o credor a exigir o pagamento da dívida de qualquer um dos devedores (CC, arts. 265 e 275). O pacto separado da contratação original é ineficaz em relação a terceiros e seus efeitos incidem somente sobre as partes que se vincularam voluntariamente às suas disposições.Preliminar rejeitada e recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 618/628), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou, de início, sua ilegitimidade passiva. Aduziu que (e-STJ fl. 624):
+ .. não tem qualquer responsabilidade quanto ao pagamento da cobrança pleiteada, pois celebrou contrato de prestação de serviços apenas junto a ORTENG SPE PROJETOS E MONTAGENS LTDA, não havendo qualquer vínculo jurídico formalizado junto à Recorrida LT Locações.
+5.3.3. Portanto, verifica-se que não há que se falar em prática de qualquer ato ilícito por parte da ora Recorrente, muito menos quanto à reparação de supostos danos sofridos pela Recorrida LT Locações, não havendo motivo para a Vale S/A figurar no polo passivo desta ação.
+Defendeu a necessidade de extinção do processo nos termos do art. 485 ou do 487 do CPC/2015.
+Apontou violação dos arts. 265 e 275 do CC/2002, afirmando que "o contrato em questão atribui a responsabilidade exclusiva da Recorrida ORTENG SPE PROJETOS E MONTAGENS LTDA pelo pagamento de todos os custos e despesas decorrentes da prestação do serviço objeto daquele título" (e-STJ fl. 626). Sustentou estar "mais que comprovada que a responsabilidade por todos os pagamentos decorrentes do contrato de locação discutido nestes autos são de responsabilidade exclusiva da Recorrida ORTENG SPE PROJETOS E MONTAGENS LTDA, devendo ser suportada unicamente por ela, não havendo que se falar em responsabilidade solidária" (e-STJ fl. 627), ante a existência de relações obrigacionais distintas e autônomas.
+Contrarrazões às fls. 646/651(e-STJ).
+No agravo (e-STJ fls. 664/671), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 675/680).
+É o relatório.
+Decido.
+A recorrente aduz sua ilegitimidade de parte, mas não indica qual dispositivo de lei federal teria sido violado, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284/STF.
+Com efeito, orecurso especial"é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente" (AgInt no AREsp n. 1.411.032/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/9/2019, DJe 30/9/2019).
+No que diz respeito à responsabilidade, o Tribunal de origem concluiu que o contrato de locação comprova a existência de responsabilidade solidária da recorrente na condição de interveniente garantidora e devedora. Confira-se:
+Como se vê, a ação de cobrança está lastreada em previsão do contrato que estipula solidariedade de natureza obrigacional entre os devedores, relacionada com a responsabilidade civil contratual.
+A solidariedade contratual passiva resulta da vontade das partes e autoriza o credor a exigir o pagamento da dívida de qualquer um dos devedores (CC, arts. 265 e 275).
+Com efeito, o título constitutivo da obrigação estabelecida entre as partes (contrato de locação) comprova a existência da responsabilidade solidária da Apelante na condição de interveniente garantidora e devedora, que a obriga ao cumprimento integral da prestação assumida pela locadora.
+Por outro lado, cumpre destacar que os contratos firmados exclusivamente entre a Vale e a Orteng, sem a participação da LT Locações, não produzem efeitos em relação a esta, mormente em seu prejuízo.
+Com efeito, qualquer pacto separado da contratação original é ineficaz em relação a terceiros e seus efeitos incidem somente sobre as partes que se vincularam voluntariamente às suas disposições.
+Portanto, as alegações da Apelante não a eximem de responsabilidade pelas obrigações assumidas em solidariedade com a Locatária perante a Locadora.
+Para decidir de modo contrário seria necessário o reexame do contrato e dos demais elementos de fato do processo, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+Além disso, a agravante não impugnou o fundamento de que os contratos firmados entre a VALE e a ORTENG sem participação da LT LOCAÇÕES não produzem efeitos em relação a esta última, especialmente em seu prejuízo. Aplicável a Súmula n. 283/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
