@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BRUNO HENRIQUE SCORIZA FOSCHINE (BRUNO HENRIQUE)contra decisão que inadmitiu seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado de São Paulo, de relatoria do Des. AZUMA NISHI, assim ementado:
+APELAÇÃO. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REINTEGRACAO DE POSSE E INDENIZAÇÃO POR DANOS PATRIMONIAIS E MORAIS. Sentença de extinção, sem resolução do mérito, por ausência de interesse processual.Insurgência. Acolhimento. Pretensão de desfazimento total do vínculo societário existente entre os litigantes. Adoção de procedimento comum. Possibilidade. Inteligência do artigo 1.046, §3º do Código de Processo Civil. SENTENÇA ANULADA. RECURSO PROVIDO (e-STJ, fl. 812)
+Irresignado, BRUNO HENRIQUE interpôs recurso especial, com base no art. 105, III, alínea a, da CF, alegando violação dos arts. 986 do CC e 599do CPC, ao sustentarquea via escolhida por STEPHAN para o encerramento da relação jurídica existente entre as partes não é adequada, porque apesar de não terem sido inscritos os atos constitutivos da sociedade na Junta Comercial, fato é que a sociedade existe, regida pelas normas da sociedade simples(e-STJ, fls. 820/826).
+Foram apresentadas as contrarrazões (e-STJ, fls. 831/835).
+O recurso não foi admitido pelo Tribunal de Justiça do Estado de São Paulo, em razão da ausência de demonstração da alegada vulneração aos arts.986 do CC e 599 do CPC (e-STJ, fls. 836/837).
+Nas razões do presente agravo, BRUNO HENRIQUE alegou que foi demonstrada a ofensa aos arts. 986 do CC e 599 do CPC(e-STJ, fls. 840/845).
+Foi apresentada contraminuta (e-STJ, fls. 847/851).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu recurso, BRUNO HENRIQUE alegouviolação dos arts. 986 do CC e 599 do CPC, sustentandoque a via escolhida por STEPHAN para o encerramento da relação jurídica existente entre as partes não é adequada, porque apesar de não terem sido inscritos os atos constitutivos da sociedade na Junta Comercial, fato é que a sociedade existe,regida pelas normas da sociedade simples.
+O Tribunal Bandeirante, por seu turno, soberano na análise do conteúdo fático-probatório, anulou a sentença, provendo o recurso de apelação para que os autos retornassem para aprimeira instância, para oprocessamentoe julgamento do pleito de dissoluçãoda sociedade constituída pelas partes litigantes, sob o procedimento comum, nos termos do art. 1.046, § 3º, do CPC,como se pode observar dos trechos extraídos do acórdão impugnado, a seguir transcritos:
+Embora o MM. Juízo de Direito tenha julgado extinto o feito, sem resolução do mérito, por entender que deveria ser observado o procedimento especial previsto nos artigos 599 e seguintes do Código de Processo Civil, extrai-se dos elementos probatóriosacostados aos autos que o requerido também não possui interesse em dar continuidade à sociedade. Isso porque, depreende-se da notificação de fls. 135/136, encaminhada pelo réu ao autor, que, devido ao abandono da obra por parte da construtora, bem como da pulverização dos aportes, com aumento significativo dos custos, restou inviabilizada a consecução do objeto do contrato. Ademais, consta do referido documento que houve infração contratual por parte do autor, a ensejar a extinção da sociedade, em razão da desistência do negócio e revogação da procuração por instrumento púbico.Importante ressaltar que, em 28 de janeiro de 2018, as partes reuniram-se para extinguir o vínculo societário, oportunidade em que o autor apresentou o "Instrumento Particular de Transação e Outras Avenças" (fls. 128/133), cujos termos não foram aceitos pelo requerido, ora apelado, em razão da confissão de dívida no importe de R$ 550.000,00.3. Nesse cenário, não obstante a nomenclatura da presente demanda ou o rito adotado pelo apelante, não há se cogitar em ausência de interesse processual, eis que clara a pretensão deduzida nos autos consistente na dissolução total da sociedade constituída pelos litigantes.Vale lembrar que o Novo Código de Processo Civil submeteu as regras da ação de dissolução total da sociedade ao procedimento comum, por força do artigo 1.046, §3º do Código de Processo Civil. .. Como se vê, disciplina a doutrina que, nestes casos, deve-se recorrer ao procedimento comum, moldando-o às especificidades instituídas pelo próprio direito material, precisamente dispostas entre os artigos 1.033 a 1.038 do Código Civil (e-STJ, fl. 814/816 - sem destaques no original)
+Assim, verifica-se que o fundamento de que o novo Código de Processo Civil submeteu as regras da ação de dissolução total da sociedade ao procedimento comum, por força do art. 1.046, § 3º, do CPC, não foi impugnado, o que atrai a incidência da Súmula nº 283 do STF, por analogia.
+Neste sentido, confiram-se os seguintes julgados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. FORÇA MAIOR NÃO CONFIGURADA. AUSÊNCIA DE EXCLUDENTE. SÚMULA Nº 7 DO STJ. MULTA CONTRATUAL. INVERSÃO. POSSIBILIDADE. SÚMULA Nº 83 DO STJ. PRINCÍPIOS DO EQUILÍBRIO CONTRATUAL E BOA-FÉ. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. A ausência de impugnação de fundamento válido e autônomo do acórdão atrai a incidência da Súmula nº 283 do STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 929.972/MG, de minha relatoria, Terceira Turma, j. 13/12/2016, DJe 14/2/2017 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.  ..
+3. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1.603.851/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 22/6/2020, DJe 25/6/2020 - sem destaques no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA
+ ..
+4. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.868.333/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 29/6/2020, DJe 3/8/2020 - sem destaques no original)
+O recurso, portanto, não pode ser conhecido.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação das penalidades fixadas nos arts. 1.021, § 4º ou 1.026, §2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AÇÃO. DESFAZIMENTO CONTRATUAL. VÍNCULO SOCIETÁRIO. REINTEGRAÇÃO DE POSSE. INDENIZAÇÃO.DISSOLUÇÃO TOTAL DA SOCIEDADE. PROCEDIMENTO COMUM.REGRA DO ART.1.046, §3º, DO CPC.FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
