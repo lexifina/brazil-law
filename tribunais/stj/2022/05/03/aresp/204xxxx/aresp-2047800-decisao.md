@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manejado por Equatorial Maranhão Energia S/Acontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 901):
+AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO INDIRETA. REQUERIMENTO DE LIMINAR PARA PAGAMENTO ANTECIPADO DA INDENIZAÇÃO. IMPOSSIBILIDADE EM FACE DAS LEIS 12.016/09, 9.494/97 e 8.437/92.
+I. A pretensão do agravante diz respeito ao pagamento de indenização no valor de R$ 395.203,52 (trezentos e noventa e cinco mil, duzentos e três reais e cinquenta e dois centavos), relativa a Desapropriação Indireta realizada pelo município de São Luís, devidamente reconhecido através do Decreto Expropriatório nº 48.600/2016.
+II. Nada obstante toda a argumentação e provas apresentadas pelo Agravante o pagamento antecipado da indenização antes do trânsito em julgado da demanda encontra óbice no ordenamento jurídico, em especial nas Leis ns. Lei. n.º 12.016/09, 9.494/97 e 8.437/92.
+III. Em primeiro lugar, o art. 2º-B da Lei nº 9.494/97, que disciplina a aplicação da tutela antecipada contra a Fazenda Pública, dispõe expressamente que a sentença que tenha por objeto a liberação de recurso somente poderá ser executada após seu trânsito em julgado.
+IV. Em segundo lugar, o art. 1º da Lei nº 8.437/92, que dispõe sobre a concessão de medidas cautelares contra atos do Poder Público, também vai ao encontro do entendimento anterior, no sentido de que não será cabível medida liminar contra atos do Poder Público toda vez que providência semelhante não puder ser concedida em ações de Mandado de Segurança.
+V. Por sua vez, em complemento a norma anterior, o § 2º do art. 7º da Lei do Mandado de Segurança nº 12.016/09, estabelece expressamente que não será concedida medida liminar que tenha por objeto o pagamento de qualquer natureza, o que, a meu ver, sem dúvida, encontra-se inserido o pagamento de indenização a título de Desapropriação Indireta.
+VI. Portanto, os diversos dispositivos legais representam barreiras insuperáveis a pretensão do Agravante, seja em virtude da impossibilidade de liberação de recurso antes do trânsito em julgado da demanda, seja porque a Lei do Mandado de Segurança proíbe a concessão de medida liminar que tenha por objeto o pagamento de qualquer natureza.
+VII. Agravo de Instrumento conhecido e não provido.
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial,violação aos arts. 15, § 1º, e 33,§ 2º, do Decreto n. 3.365/41. Sustenta, em síntese, que é possível o pagamento antecipado da indenização devida em virtude da desapropriação indireta de imóvel seu, acrescentando que, na hipótese, "houve a imissão na posse, mas não houve o depósito, o que por si só é uma situação que gera o direito da recorrente no caso." (fl. 929).
+O Ministério Público Federal opinou pelo não provimento do agravo, nos termos assim resumidos (fl. 1032):
+AGRAVO EM RECURSO ESPECIAL. DESAPROPRIAÇÃO INDIRETA. REQUERIMENTO DE LIMINAR PARA PAGAMENTO ANTECIPADO DA INDENIZAÇÃO. AGRAVO DE INSTRUMENTO. NÃO PROVIMENTO. RECURSO ESPECIAL OBSTADO NA ORIGEM. PREQUESTIONAMENTO AUSENTE. INCIDÊNCIA DAS SÚMULAS Nº 282/STF E 211/STJ. CONCESSÃO DE TUTELA DE URGÊNCIA. PRETENSÃO RECURSAL QUE ESBARRA NO ÓBICE DA SÚMULA 735/STF. PARECER PELO IMPROVIMENTO DO AGRAVO.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+A matéria pertinente aos arts. 15, § 1º, e 33, § 2º, do Decreto-Lei n. 3.365/41não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Fica prejudicada, pelo mesmo motivo, a análise do dissídio jurisprudencial.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
