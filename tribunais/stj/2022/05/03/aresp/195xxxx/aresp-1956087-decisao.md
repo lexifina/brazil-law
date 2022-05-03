@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+" APELAÇÃO CÍVEL. Ação de obrigação de fazer cumulada com perdas e danos, multa e danos morais. Contrato de promessa de compra e venda de imóvel. Revelia das 1ª, 3ª e 4ª rés. Legitimidade das 2ª, 3ª e 4ª rés. Atraso na entrega do imóvel. CDC. Rés que participam da cadeia de consumo e são solidariamente responsáveis pelos danos causados ao consumidor. Teoria do risco do empreendimento. Defeito na prestação do serviço. Rés que não lograram comprovar uma das excludentes do nexo de causalidade capaz de elidir a sua responsabilidade no atraso da entrega do imóvel. Cláusula penal prevista no contrato. Dano moral configurado. Majorada a verba indenizatória. Ônus de sucumbência que obedece ao princípio da causalidade. Provimento do recurso das autoras e desprovimento do recurso da ré" (e-STJ, fl. 265)
+Opostos embargos de declaração, os mesmos não foram conhecidos em razão de intempestividade (e-STJ, fls. 302/308).
+Em suas razões recursais, o agravante alega violação ao art. 50 caput e §4º do Código Civil de 2002, sustentando, em síntese, (a) que é sócia da empresa litisconsorte, de modo que sua legitimidade foi reconhecida de forma contrária a prova dos autos, não sendo o momento processual adequado para desconsideração de personalidade jurídica, (b) que a existência de grupo econômico não autoriza a desconsideração de personalidade jurídica e (c) que não restaram configurados abuso econômico, desvio de finalidade ou confusão patrimonial.
+Contrarrazões apresentadas às fls. 334/335.
+É o relatório. Passo a decidir.
+Com relação a suposta violação ao art. 50, caput e §4º do CC/02, tem-se que o Tribunal de origem tem-se que este não se encontra contemplado no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foi objeto de embargos de declaração, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 15% para 16% sobre o valor atualizado da condenação.
+Publique-se.
