@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MAX MAGNO DA SILVA emfacededecisão monocrática por mim proferida, àsfls. 707/712, em que dei provimento ao Recurso Especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL - MPF, para restabelecer a sentença que o condenou pela prática do delito previsto no art. 171, § 3º, do Código Penal -CP, cometido contra a Caixa Econômica Federal - CEF.
+Assevera o recorrente que, no caso concreto, o valor de R$ 800,00 (oitocentos reais) "é absolutamente inferior ao valor determinado pela Portaria nº 75/12 do Ministério da Fazenda, que, em seu art. 1º, II, considera como dívida de pequeno valor a quantia de até R$ 20.000,00 (vinte mil reais)" (fl. 722). Assim, não deve sefalar em persecução penal, no caso de valores abaixo deste parâmetro, pelo mesmoEstado que não move a execução fiscal nessas hipóteses.
+Afirma que o próprio juiz sentenciantedeixou de determinar valor mínimo de ressarcimento de danos, sob a alegação de que o delito não acarretou danos materiais e morais significativos a qualquer pessoa, o que indicaria o ínfimo grau de reprovabilidade da conduta. Entende que a circunstância de o delito ter sido praticado contra ente público não é suficiente para o afastamento do princípio da insignificância.
+Requer a reconsideração da decisão ou o provimento doagravoregimentalpara restabelecer a absolvição.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO COMETIDO CONTRA A CAIXA ECONÔMICA. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE.AGRAVOREGIMENTALDESPROVIDO.
+1. Ajurisprudência deste Superior Tribunal de Justiça é firme no sentido de que não se aplica o princípio da insignificância quando se trata do delito previsto no art. 171, § 3º do CP, pois a conduta ofende não só o patrimônio público, mas também a moral administrativa e a fé pública. Precedentes.
+2. Acaso se entenda pela distinção do caso concreto em razão da vítima ser a CAIXA ECONÔMICA FEDERAL - CEF, também por outro motivo não seria aplicável o princípio da insignificância, qual seja, o valor do prejuízo que alcançou R$ 800,00 (oitocentos reais) no ano de 2010, superior ao salário mínimo de R$ 510,00 (quinhentos e dez reais)vigente ao tempo dos fatos. Precedentes.
+3. Agravo regimental desprovido.
+VOTO
+Não obstante o empenho do recorrente, o recurso merece ser desprovido.
+Conforme ressaltado na decisão ora agravada, a jurisprudência desteSUPERIOR TRIBUNAL DE JUSTIÇA - STJ é firme no sentido deque não se aplica o princípio da insignificância quando se trata do delito previsto no art. 171, § 3º do CP, pois a conduta ofende não só opatrimônio público, mas também a moral administrativa e a fépública.
+A respeito (grifos nossos):
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO MAJORADO PRIVILEGIADO. PRINCÍPIO DA INSIGNIFICÂNCIA. FUNDAMENTOS NÃO IMPUGNADOS NAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 283/STF. CRIME PRATICADO CONTRA ENTIDADE DE DIREITO PÚBLICO OU INSTITUTO DE ECONOMIA POPULAR, ASSISTÊNCIA SOCIAL OU BENEFICÊNCIA. PROGRAMA FARMÁCIA POPULAR. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. Ademais, ainda que superado o mencionado entrave, a pretensão recursal não prosperaria, porquanto este Superior Tribunal de Justiça possui entendimento consolidado no sentido de que, no delito tipificado no art. 171, § 3º, do Código Penal, não se aplica o princípio da insignificância para o trancamento da ação penal, independentemente dos valores obtidos indevidamente pelo agente, "uma vez que a conduta ofende o patrimônio público, a moral administrativa e a fé pública, bem como é altamente reprovável" (RHC n. 61.931/RS, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 15/2/2016).
+ ..
+5. Agravo regimental não provido.
+(AgRg no REsp 1919594/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 6/4/2021, DJe 13/4/2021).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO PREVIDENCIÁRIO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO IMPROVIDO.
+1. O princípio da insignificância não se aplica ao delito previsto no art. 171, § 3º, do Código Penal, uma vez que o prejuízo não se resume ao valor recebido indevidamente, mas se estende a todo o sistema previdenciário. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no AREsp 1644157/PB, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 4/8/2020, DJe 14/8/2020).
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO PREVIDENCIÁRIO. INCOMPETÊNCIA ABSOLUTA. AUSÊNCIA DE PREQUESTIONAMENTO. SUSPEIÇÃO DO RELATOR. ART. 274 DO RISTJ. MATÉRIA PRECLUSA. OFENSA AOS ARTS. 158, 184 E 514 DO CPP. NÃO OCORRÊNCIA. PRESCRIÇÃO. DATA DA PRÁTICA DO ATO ILÍCITO. SÚMULA 7/STJ. EXCLUDENTE DE ILICITUDE. REEXAME DE MATÉRIA FÁTICA E PROBATÓRIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. DOSIMETRIA PENAL. DESPROPORCIONALIDADE NÃO VERIFICADA. AGRAVO REGIMENTAL NÃO PROVIDO. ..
+7. Não é possível a aplicação do princípio da insignificância ao crime de estelionato contra a Previdência Social independentemente dos valores obtidos indevidamente pelo agente, pois, consoante jurisprudência do STJ e do STF, em se tratando de estelionato cometido contra entidade de direito público, considera-se o alto grau de reprovabilidade da conduta do agente, que atinge a coletividade como um todo.
+ .. .
+9. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1476284/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 25/6/2019, DJe 1º/7/2019).
+PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ESTELIONATO MAJORADO.FUNDO DE AMPARO AO TRABALHADOR/FAT. APLICAÇÃO DA PRESCRIÇÃO EMPERSPECTIVA. IMPOSSIBILIDADE. SÚMULA 438. PRINCÍPIO DA INSIGNIFICÂNCIA.NÃO INCIDÊNCIA. OFENSA AO PATRIMÔNIO PÚBLICO.  ..
+ ..
+2. "O princípio da insignificância "não se aplica ao delito previsto noart. 171, § 3º, do Código Penal, uma vez que o prejuízo não se resumeao valor recebido indevidamente, mas se estende a todo o sistemaprevidenciário, notadamente ao FAT - Fundo de Amparo ao Trabalhador" (EDcl no AgRg no REsp 970.438/SP, Rel. Ministro Og Fernandes, SextaTurma, julgado em 11/09/2012; HC 180.771/SP, Rel. Ministro Jorge Mussi,Quinta Turma, julgado em 16/10/2012)".
+ ..
+4. Recurso em habeas corpus improvido.
+(RHC 56.754/RS, Rel. Ministro NEFICORDEIRO, SEXTA TURMA, DJe de 12/5/2016).
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. DIREITOPENAL. ART. 171, § 3º, C/C O ART. 29 DO CP. APROPRIAÇÃO INDÉBITAPREVIDENCIÁRIA. PRINCÍPIO DA INSIGNIFICÂNCIA. SAQUES FRAUDULENTOS DE FGTS.
+ATIPICIDADE DA CONDUTA. VALOR INFERIOR A DEZ MIL REAIS. APLICAÇÃO DOPRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. SÚMULAS 7 E 24/STJ.CONSTITUIÇÃO DA REPÚBLICA. STF.
+ ..
+2. No delito previsto no art. 171, § 3º, do Código Penal, não se aplica oprincípio da insignificância para o trancamento da ação penal, uma vez quea conduta ofende o patrimônio público, a moral administrativa e a fépública, bem como é altamente reprovável.
+ ..
+6. Agravo regimental improvido.
+(AgRg no REsp 1363750/RS, Rel. MinistroSEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe de 19/8/2014).
+Ademais, acaso se entenda pela distinção do caso concreto em razão da vítima ser a CEF em relação à jurisprudência desta Corte, também por outro motivo não seria aplicável o princípio da insignificância, qual seja, o valor do prejuízo que alcançou R$ 800,00 9oitocentos reais) no ano de 2010, superior ao salário mínimo de R$ 510,00 (quinhentos e dez reais)vigente ao tempo dos fatos. Citam-se precedentes (grifos nossos):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. TENTATIVA DE FURTO CONTRA CAIXA ECONÔMICA FEDERAL. CONDENAÇÃO. RES FURTIVA EM VALOR SUPERIOR A 10% DO SALÁRIO MÍNIMO À ÉPOCA. REINCIDÊNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICÁVEL AO CASO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada não conheceu do agravo em recurso especial interposto por ter a parte agravante deixado de impugnar especificamente a incidência dos óbices ventilados pela Corte a quo.
+2. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+3. A jurisprudência desta Corte Superior de Justiça firmou-se no sentido de ser incabível a aplicação do princípio da insignificância quando o montante do valor da "res furtiva" superar o percentual de 10% do salário mínimo vigente à época dos fatos.
+4. A Terceira Seção desta Corte, no julgamento do EREsp n. 221.999/RS, de minha relatoria, DJe 10/12/2015, estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação da medida ser socialmente recomendável.
+5. Agravo regimental não provido.
+(AgRg no AREsp 1831624/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/5/2021, DJe 1º/6/2021).
+CONFLITO NEGATIVO DE COMPETÊNCIA. ROUBO MAJORADO PRATICADO EM AGÊNCIA DOS CORREIOS. BANCO POSTAL. SIGNIFICATIVO PREJUÍZO FINANCEIRO SOFRIDO PELOS CORREIOS. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A Terceira Seção desta Corte Superior de Justiça firmou o entendimento de que, nos casos de delitos praticados em detrimento da Empresa Brasileira dos Correios e Telégrafos EBCT, a competência será estadual quando o crime for perpetrado contra banco postal (situação assemelhada a de agência franqueada) e houver ocasionado efetivo prejuízo unicamente a bens jurídicos privados. Por outro lado, incidirá o art. 109, IV, da Constituição Federal  CF, nos casos em que a ofensa for direta à EBCT, ou seja, ao serviço-fim dos correios (os serviços postais) ou quando houver prejuízo ao patrimônio dos correios, atraindo, assim, a competência federal.
+2. Extrai-se dos autos que houve subtração total de R$ 195.236,91 (cento e noventa e cinco mil duzentos e trinta e seis reais e noventa e um centavos) e que o Banco do Brasil suportou prejuízo de R$ 194.721,83 (cento e noventa e quatro mil setecentos e vinte e um reais e oitenta e três centavos), enquanto que os Correios arcaram com prejuízo de R$ 515,08 (quinhentos e quinze reais e oito centavos). O delito teria sido praticado em 24/5/2019, época em que o salário mínimo vigente era de R$ 998,00 (novecentos e noventa e oito reais). Destarte, embora o Banco do Brasil tenha suportado, proporcionalmente, maior prejuízo patrimonial, "o prejuízo sofrido pelos Correios não pode ser considerado ínfimo à luz da jurisprudência do Superior Tribunal de Justiça - STJ relativa ao princípio da insignificância" Precedente: CC 173.659/ES, de minha relatoria, TERCEIRA SEÇÃO, DJe 14/9/2020).
+3. Na espécie, constata-se ter havido infração penal praticada em detrimento de patrimônio de empresa pública federal o que configura competência da Justiça Federal nos termos do art. 109, inciso IV, da Constituição Federal.
+4. Conflito de competência conhecido para declarar competente o Juízo Federal da 2ª Vara Criminal de Vitória  SJ/ES, o suscitado.
+(CC 174.265/ES, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 25/11/2020, DJe 27/11/2020).
+RECURSO ESPECIAL. PENAL. ARTS. 71 E 155, § 4º, CP. FURTO QUALIFICADO. CONTINUIDADE DELITIVA. BOLSA FAMÍLIA. SAQUES FRAUDULENTOS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONDUTA TÍPICA PERPETRADA CONTRA PROGRAMA ESTATAL QUE BUSCA RESGATAR DA MISERABILIDADE PARCELA SIGNIFICATIVA DA POPULAÇÃO. MAIOR REPROVAÇÃO. CONTINUIDADE DELITIVA. NÚMERO DE INFRAÇÕES IMPLICA MAIOR EXASPERAÇÃO DE PENA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Estagiário de órgão público que, valendo-se das prerrogativas de sua função, apropria-se de valores subtraídos do programa bolsa-família subsume-se perfeitamente ao tipo penal descrito no art. 312, § 1º, do Código Penal - peculato-furto -, porquanto estagiário de empresa pública ou de entidades congêneres se equipara, para fins penais, a servidor ou funcionário público, lato sensu, em decorrência do disposto no art. 327, § 1º, do Código Penal.
+2. No caso, a ora recorrente foi denunciada e condenada por furto qualificado, descrito no art. 155, § 4º, II, e 71 do Código Penal, portanto, a meu ver, as instâncias de origem contraditaram a melhor hermenêutica jurídica.
+3. Indevida a incidência do princípio da insignificância em decorrência de duplo fundamento: primeiro, o quantum subtraído, qual seja, R$ 2.130,00 (dois mil, cento e trinta reais), não pode ser considerado irrisório; e, segundo, além de atentar contra a Administração Pública, o delito foi praticado em desfavor de programa de transferência de renda direta - Programa Bolsa Família - que busca resgatar da miserabilidade parcela significativa da população do País, a tornar mais desabonadora a conduta típica.
+4. Na continuidade delitiva, leva-se em consideração o número de infrações praticadas pelo agente ativo para a exasperação da pena (art. 71 do CP).
+5. Ausência de prequestionamento. Súmula 211/STJ.
+6. Recurso especial improvido.
+(REsp 1303748/AC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/6/2012, DJe 6/8/2012).
+DIREITO PENAL. HABEAS CORPUS. ESTELIONATO CONTRA OS CORREIOS E TELÉGRAFOS. VALOR MAIOR QUE UM SALÁRIO MÍNIMO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. ATIPICIDADE MATERIAL. NÃO RECONHECIMENTO.
+1. Consoante entendimento jurisprudencial, o "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentaridade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.
+(..) Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (HC nº 84.412-0/SP, STF, Min. Celso de Mello, DJU 19.11.2004)
+2. Não é insignificante a conduta de praticar estelionato contra a ECT - Empresa Brasileira de Correios e Telégrafos, empresa pública, emitindo cheque sem provisão de fundos, em valor, à época, maior do que um salário mínimo, então vigente (R$ 350,00).
+3. Em tais circunstâncias, não há como reconhecer o caráter bagatelar do comportamento imputado, havendo afetação do bem jurídico, não só pelo valor, mas também pela qualificação da vítima e do modo como perpetrado o delito, iludindo, dolosamente, a boa-fé de quem recebe a cártula.
+4. Ordem denegada.
+(HC 135.917/CE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 1º/12/2011, DJe 14/12/2011).
+Pelo exposto, voto no sentido de negar provimento ao agravo regimental.
