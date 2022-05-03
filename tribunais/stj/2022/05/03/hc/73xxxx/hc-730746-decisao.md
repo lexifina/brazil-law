@@ -1,0 +1,15 @@
+DECISÃO
+MICHEL PAOLO TAGLIALATELA CAETANO alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+O sentenciado teve a pena referente ao Processo nº 0010203-61.2018.826.0496 julgada extinta pelo integral cumprimento da sanção corporal. A decisão transitou em julgado, sem recurso da defesa. A impetrantebusca a consideração da data de início de cumprimento da pena extinta, não unificada com as demais condenações do paciente, para fins de fixação do termo de benefícios.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Infere-se dos autos que"o sentenciado, preso em 04/05/2018, teve a pena referente ao processo nº 0010203-61.2018.826.0496 julgada extinta pelo integral cumprimento da sanção corporal,em 03/07/2019 (fls. 47/49), permanecendo preso em razão de processos referentes a outros delitos praticados em datas anteriores" (fl. 107).
+A Execuçãonº 0010203-61.2018.826.0496 foiextinta pelo integral cumprimento e, à época, não havia notíciade novas guias de recolhimento,a atrair a aplicação do art. 111 da LEP. A decisão que extinguiu o processo,prolatada em 10/12/2019,transitou em julgado, sem impugnação da defesa.
+A teor dos julgados desta Corte, adata-base para fins de progressão de regime quando houver a unificação de penas é a data daprisão ou da última falta grave cometida pelo sentenciado. Ocorre que apena já extinta não foi unificada às novas condenações do paciente (Processos n. 0000505-44.2018.8.26.0233 e 0003111-61.2020.8.26.0496). Nãose justifica, portanto, considerar a data de seu início (4/5/2018)como termo inicialparaobtenção de benefícios de outras duas execuções em curso.
+Para a extinção da Execuçãonº 0010203-61.2018.826.0496foi computado tempo deprisão entre os dias 4/5/2018 e 3/7/2019. O intervalonão pode ser decotado, em duplicidade, de outras condenações do paciente, pois no ordenamento pátrio nãose cumpre, simultaneamente, várias sanções corporaisou prisão temporária/preventiva e pena de reclusão.
+Somente as condenações relacionadas aosProcessos n."0000505-44.2018.8.26.0233 e 0003111-61.2020.8.26.0496" (fl. 107) foram unificadas e o início da execuçãose deu apartir do cumprimento da pena extinta(3/7/2019).
+Não operada, em relação à Execução n.Execução nº 0010203-61.2018.826.0496, a unificação do art. 111 da LEP, a data de início da pena já extintanão constitui data-base para direitos de progressão de regime, livramento condicional etc, relacionados às sanções aplicadas nosProcessos n.0000505-44.2018.8.26.0233 e 0003111-61.2020.8.26.0496.
+Se a defesa se beneficiou com a extinção da punibilidade pelo cumprimento da pena, não pode agora pretender a desconsideração da decisão judicial, que transitou em julgado.
+Assim:"Caracterizado o lapso entre a extinção da pena anterior e o início do cumprimento da sentença superveniente, não há como se acolher o pedido de unificação ditada no art. 111da LEP" (AgRg no AREsp1269706/DF, Rel. Ministro Rogerio Schietti, 6ª T., DJe 2/3/2021).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
