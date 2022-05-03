@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, sem pedido liminar, interposto por JOSE ZENICIO DE LIMA BEZERRA contra acórdão do Tribunal de Justiça do Estado de São Paulo, prolatado no julgamento doHCn. 2145281-21.2021.8.26.0000.
+Consta nos autos que foi decretada a prisão temporária do Recorrente, em 30/05/2021, no curso de investigação criminal pela prática do delito de homicídio qualificado (fls. 33-35).
+Irresignada, a Defesa impetrouhabeas corpus no Tribunal de origem, cuja ordem foi denegada (fls. 320-323; acórdão não apresenta ementa).
+Neste writ, a Parte Impetrante sustenta, em suma, a ausência de fundamentação idônea e dos requisitos para a decretação da prisão temporária, especialmente porque "o Investigado poderá responder ao processo criminal por delito de favorecimento pessoal, cuja pena máxima é de 6 meses" (fl. 331).
+Ressalta, ainda, que "o paciente é primário, possui família, residência fixa e trabalho  .. , sendo desnecessária a prisão temporária ao caso concreto" (fl. 331).
+Defende a possibilidade de aplicação de medidas cautelares alternativas ao cárcere.
+Salienta, ademais, que o Acusado não praticou o delito de homicídio ora investigado, tendo apenas auxiliado na fuga do Corréu.
+Requer, liminarmente e no mérito, a revogação da segregação temporária do Paciente, com a expedição de contramandado de prisão.
+O Ministério Público Federal opinou pelo não provimento do recurso às fls. 350-355.
+É o relatório. Decido.
+De início, constato que noHC685.204/SP, também de minha relatoria,foi formulada pretensão idêntica à veiculada neste recurso, em favor do mesmo Recorrente e contra o mesmo acórdão originário.Na aludida impetração, indeferio pedido liminar.
+Cuida-se, portanto, de merareiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnar o mesmo acórdão.Friso que não podem ser processados nesta Corte, concomitantemente, doishabeas corpus(ou o recurso ordinário que lhe faz as vezes) em que se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir, motivo pelo qual concluo pela inadmissibilidade deste recurso.
+A propósito:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO EMHABEAS CORPUS.TRÁFICO DE DROGAS. ASSOCIAÇÃO E LAVAGEM E DINHEIRO. REITERAÇÃO DEHABEAS CORPUSPREVIAMENTE SUBMETIDO AO STJ. ÓBICE AO CONHECIMENTO. AGRAVO DESPROVIDO.
+1. Conforme o reconhecido na decisão ora impugnada, constata-se que a presente impetração,constituimera reiteração do pedido formulado no HC 692.459/MG, de minha relatoria, cujo pedido de liminar foi indeferido em 8/9/2021. Isso ocorre porque há identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão(Habeas Corpus0000.21.134153-2/000), o que constitui óbice ao seu conhecimento.
+2. Com efeito, embora o recurso emhabeas corpusseja a via eleita correta para análise do inconformismo, a defesa também escolheu por ingressar comhabeas corpussubstitutivo, o qual se encontra com vista ao Ministério Público Federal e será julgado, pois, nesta Corte.3. Agravo regimental desprovido." (AgRg no RHC 154.076/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/10/2021, DJe 27/10/2021; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EMHABEAS CORPUS.PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 690.758/RJ. LITISPENDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No HC n.690.758/RJ, foi formulada idêntica pretensãoem favor do ora Recorrente, cujo pleito liminar já foi apreciado e indeferido.O recurso ordinário, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambas o mesmo acórdão e a mesma matéria.Ocorre que não podem ser processados nesta Corte, concomitantemente,habeas corpuse recurso ordinário emhabeas corpusem que se constatalitispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+2. Assim, concluo pela inadmissibilidade do recurso ordinário, porquanto"não pode ser conhecida a impetração que veiculamera reiteração de pedido já formulado emwritanteriormente impetrado nesta Corte"(AgRg no HC 286.354/AC, Rel. MinistraLAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014). No mesmo sentido,v.g.: HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.3. Agravo regimental desprovido."(AgRg no RHC 154.027/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/10/2021, DJe 25/10/2021; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇOdo recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. REVOGAÇÃO DAPRISÃO TEMPORÁRIA. REITERAÇÃO DA PRETENSÃO FORMULADA NO HC N. 685.204/SP. RECURSO NÃO CONHECIDO.
