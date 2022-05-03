@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo de RIZON INDÚSTRIA DE MAQUINAS LTDA., em que objetivaadmissão de recurso especial interposto, com fundamento no art. 105, inciso III, alínea "a", da CF/1988, contra acórdão do TRF da 4ª Região assim ementado (e-STJ fl. 287):
+EMBARGOS DECLARATÓRIOS. EFEITOS INFRINGENTES.CONTRIBUIÇÃO PARA O FGTS. BASE DE CÁLCULO.
+1. Devem os embargos declaratórios ser acolhidos com efeitos infringentes quando a correção do aresto - em virtude da existência de omissão, contradição, obscuridade ou erro material (artigo 1.022 do Novo CPC) - impor a alteração do julgamento.
+2. A contribuição para o FGTS, de que trata a Lei nº 8.036/90, incide sobre os valores pagos nos quinze primeiros dias de afastamento do trabalhador por doença ou acidente, sobre o terço constitucional de férias e sobre o aviso prévio indenizado.
+No especial, a parte alega, em síntese, violaçãodos arts. 489, § 1º, IV, V e VI, e 927, III e IV, do CPC/2015,do art. 15 da Lei n. 8.036/1990,do art. 22, I, da Lei n. 8.212/1991,do art. 11, IV, alíneas "a", "d" e "e", da Lei n. 13.485/2018,do art. 110 do CTNe do REsp 1.230.957, ao argumento de que, se oSuperior Tribunal de Justiçaconcluiu pela não incidência da contribuição previdenciária sobre determinada verba em razão de sua natureza jurídica, entende que esse mesmo posicionamento deve ser aplicado à contribuição destinada ao FGTS.
+Assim, pleiteia a não incidência da contribuição ao FGTS sobreas verbas pagas aos seus empregados nos primeiros 15 (quinze) dias de afastamento por doença ou acidente; sobre o aviso prévio indenizado; e sobre o terço constitucional de férias, conforme orientação firmada no REsp repetitivo 1.230.957/RS.
+Contrarrazões apresentadas às e-STJ fls. 382/286.
+O recurso especial não foi admitido na origem (e-STJ fls. 397/399), ensejando a interposição de agravo em recurso especial.
+Passo a decidir.
+Considerado isso, importa mencionar que o recurso especial se origina de mandado de segurança impetrado pelaRIZON INDUSTRIA DE MAQUINAS LTDA, em que objetiva seja reconhecido o seu direito de não recolher a contribuição ao FGTS sobre os valores pagos aos seus empregados nos primeiros 15 (quinze) dias de afastamento por doença ou acidente; sobre o aviso prévio indenizado; e sobre o terço constitucional de férias.
+No primeiro grau de jurisdição, foi concedida a segurança, a fim de desobrigar o recolhimento da contribuição ao FGTS sobreos valores pagos aos seus empregados nos primeiros quinzedias de afastamento por doença ou acidente esobre o aviso prévio indenizado.
+Irresignada, a parte impetrante interpôs recurso de apelação.
+O Tribunal de origem, no julgamentodos embargos de declaração, negou provimento à apelação e deu provimento à remessa necessária para reconhecer a incidência da contribuição destinada ao FGTS (e-STJ fls. 279/286).
+Pois bem.
+Verifica-se que o acórdão regional recorrido foi proferido em conformidade com a jurisprudência doSuperior Tribunal de Justiça, segundo a qual:
+ ..  as contribuições para o FGTS incidem sobre: salário-maternidade, quinze primeiros dias que antecedem a concessão do auxílio-doença e auxílio-acidente, terço de férias, décimo terceiro salário, aviso prévio indenizado e reflexos, horas extras, descanso semanal remunerado e adicionais noturno, de insalubridade e periculosidade, não sendo viável equipará-las às contribuições previdenciárias por ausência de previsão legal. Precedentes: AREsp 1.651.109/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/06/2020, DJe 07/08/2020; AgInt no AREsp 1.790.119/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/06/2021, DJe 17/06/2021; AgInt no AREsp 1.155.120/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/04/2018, DJe 12/04/2018.
+2. Agravo interno não provido.
+(AgInt no REsp 1946254/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 04/04/2022, DJe 07/04/2022).
+Ainda nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ILEGITIMIDADE PASSIVA DA CAIXA ECONÔMICA FEDERAL. BASE DE CÁLCULO DA CONTRIBUIÇÃO DEVIDA AO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO.
+1. A Caixa Econômica Federal não tem legitimidade para figurar no polo passivo da ação na qual se discute a própria incidência da contribuição para o FGTS. Precedentes.
+2. Conforme o entendimento do Superior Tribunal de Justiça, as contribuições para o Fundo de Garantia do Tempo de Serviço (FGTS) incidem sobre as parcelas pagas a título de horas extraordinárias, aviso prévio indenizado, adicional de férias (terço constitucional), adicional de insalubridade, adicional de periculosidade, adicional noturno e, ainda, sobre o auxílio-doença ou o auxílio acidente durante os primeiros quinze dias de afastamento do trabalhador, não se podendo equipará-las às contribuições previdenciárias por ausência de previsão legal.
+3. Agravo interno não provido.
+(AgInt no AREsp 1790119/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/06/2021, DJe 17/06/2021).
+ADMINISTRATIVO. CONTRIBUIÇÃO AO FGTS. PRIMEIROS QUINZE DIAS ANTERIORES AO AUXÍLIO-DOENÇA E O AUXÍLIO-ACIDENTE, TERÇO CONSTITUCIONAL DE FÉRIAS, HORAS-EXTRAS E AVISO PRÉVIO INDENIZADO. INCIDÊNCIA. HONORÁRIOS SUCUMBENCIAIS. REVISÃO. SÚMULA 7 DO STJ.
+1. "O FGTS trata-se de um direito autônomo dos trabalhadores urbanos e rurais de índole social e trabalhista, não possuindo caráter de imposto e nem de contribuição previdenciária. Assim, não é possível a sua equiparação com a sistemática utilizada para fins de incidência de contribuição previdenciária e imposto de renda, de modo que é irrelevante a natureza da verba trabalhista (remuneratória ou indenizatória/compensatória) para fins de incidência do FGTS."(REsp 1448294/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/12/2014, DJe 15/12/2014).
+2. Somente as verbas expressamente referidas no art. 28, § 9º, da Lei n. 8.212/1991 estão excluídas da base de cálculo da contribuição para o FGTS, nos termos do art. 15, caput e § 6º, da Lei n. 8.036/1990, o que não é o caso do auxílio-doença e do auxílio-acidente, do terço constitucional de férias, das horas-extras e do aviso prévio indenizado. Precedentes.
+3. Na instância especial, a revisão do juízo de equidade para a fixação de honorários advocatícios (art. 20, § 4º, do CPC/1973) somente é admitida quando o valor arbitrado é irrisório ou exorbitante, não sendo o caso dos autos. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1484939/PE, de minha relatoria, PRIMEIRA TURMA, julgado em 10/10/2017, DJe 13/12/2017).
+Incide, assim, a Súmula 83 do Superior Tribunal de Justiça, aplicável tanto aos recursos interpostos com base na alínea "c" quanto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
