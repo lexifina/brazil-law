@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 1º, 9º, 11, 355, 370 e 489 do Código de Processo Civil,além de dissídio jurisprudencial.O acórdão recorrido está retratado na seguinte ementa (fl. 1.331):
+APELAÇÃO CÍVEL. INDENIZAÇÃO POR DANOS MATERIAL E MORAL. TÍTULOS DE CRÉDITO SACADOS EM FACE DE TERCEIROS E TRANSFERIDOS À INSTITUIÇÃO FINANCEIRA PELO CREDOR COMO GARANTIA DE MÚTUO CONTRATADO. ALEGAÇÃO DE DESCUMPRIMENTO DE CLÁUSULAS CONTRATUAIS, COM PROTESTO INDEVIDO DE TÍTULOS E PREJUÍZO DECORRENTE DE LESÃO PROVOCADA A CONSUMIDORES.
+PROCEDÊNCIA PARCIAL DO PEDIDO, CONDENADA A INSTITUIÇÃO FINANCEIRA A CANCELAR OS PROTESTOS. RECURSO DE AMBAS AS PARTES. ENQUANTO A INSTITUIÇÃO FINANCEIRA PRETENDE A IMPROCEDÊNCIA DO PEDIDO, O CORRENTISTA PUGNA PELA CASSAÇÃO DA SENTENÇA POR CERCEAMENTO DE DEFESA.
+1) CERCEAMENTO DE DEFESA CARACTERIZADO. AUTOR QUE PUGNOU PELA PRODUÇÃO DE PROVAS PERICIAL, TESTEMUNHAL E DOCUMENTAL SUPERVENIENTE. REQUERIMENTO QUE DEIXOU DE SER APRECIADO. PROVAS PERICIAL IMPRESCINDÍVEIS AO DESLINDE DA CONTROVÉRSIA.
+2) NULIDADE DA SENTENÇA POR FALTA DE FUNDAMENTO QUANTO AOS PEDIDOS DE INDENIZAÇÃO POR DANOS MATERIAL E MORAL JULGADOSIMPROCEDENTES E QUANTO ÀS OBRIGAÇÕES DE FAZER. VIOLAÇÃO AO ART. 11, DO C. P. C.
+3) PREJUDICADO O RECURSO DA INSTITUIÇÃO FINANCEIRA. PROVIMENTO DO SEGUNDO RECURSO, DO CORRENTISTA, PREJUDICADO O PRIMEIRO, DA INSTITUIÇÃO FINANCEIRA.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 1.364):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL.
+INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. INCONFORMISMO DA PARTE VENCIDA.
+REDISCUSSÃO DA MATÉRIA E REFORMA DA DECISÃO. IMPOSSIBILIDADE ATRAVÉS DA VIA ESCOLHIDA. CERCEAMENTO DE DEFESA CARACTERIZADO. AUTOR QUE REQUEREU A REALIZAÇÃO DAS PROVAS PERICIAL, TESTEMUNHAL E DOCUMENTAL SUPERVENIENTE, QUE DEIXOU DE SER APRECIADO. PROVA PERICIAL IMPRESCINDÍVEL AO DESLINDE DA CONTROVÉRSIA.
+NULIDADE DA SENTENÇA POR FALTA DE FUNDAMENTO QUANTO AOS PEDIDOS DE INDENIZAÇÃO POR DANOS MATERIAL E MORAL JULGADOS IMPROCEDENTES E ÀS OBRIGAÇÕES DE FAZER. VIOLAÇÃO AO ART. 11, DO C. P. C.
+RAZÕES DO CONVENCIMENTO SUFICIENTEMENTE EXPENDIDAS QUANDO DO JULGAMENTO DO RECURSO.
+DESPROVIMENTO DOS EMBARGOS DE DECLARAÇÃO.
+Sustenta o agravante que não ficou configurado o cerceamento de defesa no presente caso, uma vez que "o pedido de provas foi apreciado e o julgador entendeu que as provas presentes nos autos eram perfeitamente suficientes para formar o seu convencimento e ensejar a prolação de uma sentença justa (..)" (fl. 1.374).
+Afirma que não há justificativa para a anulação da sentença por ausência de fundamentação, uma vez que "o julgador de primeiro grau fundamentou a impossibilidade de condenação do Recorrente em danos materiais e morais" (fls. 1.374/1.375).
+Argumenta que "o processo deve ser julgado extinto pela clara ilegitimidade passiva do banco, com base na súmula 476 do STJ" (fl. 1.378).
+Assim posta a questão, passo a decidir.
+Observo que o Tribunal de origem cassou a sentença em razão de cerceamento de defesa e por falta de motivação, determinando a realização de provas documental, pericial contábil e testemunhal, conforme se extrai dos seguintes trechos (fls. 1.332/1.333):
+(..)
+BANCO SAFRA S. A. e R S BABO COMÉRCIO E REPRESENTAÇÕES DE COMESTÍVEIS EIRELI formalizaram três contratos de mútuo com entrega de títulos de crédito sacados em face de terceiros como garantia, conforme Contratos de Mútuo n.º 128873-1, 128880-3e 128883-8 (cf. fls. 832/848, 896/916 e 964/977). R S BABO COMÉRCIO E REPRESENTAÇÕES DE COMESTÍVEIS EIRELI, por sua vez, sustenta que a instituição financeira descumpriu cláusulas contratuais e procedeu ao protesto de diversos títulos de crédito dados em garantia, além de ter deixado de abater créditos recebidos dos sacados, acarretando-lhe prejuízos na medida em que seus consumidores, lesados, deixaram de formalizar novos contratos, enquanto BANCO SAFRA S. A. afirma que culpado é o próprio correntista, que deixou de satisfazer a obrigação assumida e de substituir os títulos de crédito vencidos e não pagos dados em garantia.
+Instados a se manifestarem sobre as provas que pretendiam (fls. 1206), BANCO SAFRA S.A. afirmou inexistirem outras provas a realizar, ressalvada a possibilidade de juntada de documentos novos, enquanto R S BABO COMÉRCIO E REPRESENTAÇÕES DE COMESTÍVEIS EIRELI pugnou pelas provas pericial, testemunhal e documental superveniente (fls. 1.212 e 1.217, respectivamente). Ocorre que a julgadora proferiu sentença sem apreciar o requerimento de provas, condenando BANCO SAFRA S. A. a proceder ao cancelamento dos protestos, no prazo de 30 dias, à apresentação de borderô com os títulos negociados, no prazo de 30 dias, sob pena de multa a ser fixada em fase de liquidação, da relação dos valores repassados pela autora arrecadados em outro banco equivalentes aos títulos protestados e dos extratos das contas bancárias da autora do período de janeiro de 2013 até o ajuizamento da ação.
+Caracterizada, pois, a ocorrência de error in procedendo em violação aos postulados constitucionais do contraditório, da ampla defesa e do devido processo legal.
+Com efeito, a prova documental é essencial ao deslinde da controvérsia, tanto que houve condenação da instituição em obrigação de fazer de apresentação de diversos documentos. A análise pericial dos instrumentos, por sua vez, também se faz necessária devendo ser realizada por profissional da área contábil, conforme requerido por R S BABO COMÉRCIO E REPRESENTAÇÕES DE COMESTÍVEIS EIRELI, enquanto a prova oral se apresenta indispensável à comprovação das alegações do correntista no sentido de que a instituição financeira atrapalhou suas atividades empresariais e causou-lhe prejuízos.
+Ora, a julgadora não apresentou qualquer fundamento para a condenação em obrigação de fazer e para a improcedência do pedido de indenização por danos material e moral, violando o disposto no art. 11, do C. P. C.
+(..)
+Nula, portanto, por falta de fundamentação a sentença.
+Assim, a solução que se impõe é a cassação do julgado para que outra sentença seja proferida após adequadamente instruído o feito, com julgamento de forma fundamentada.
+(..)
+Com efeito, anoto que rever a conclusão do Tribunal de origem demandaria o reexame do acervofático dos autos, o que encontra óbice noenunciadon.7da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
