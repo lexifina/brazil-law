@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 27/04/2022 a 03/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que declarou a competência do Juízo da 9ª Vara da Fazenda Pública da Comarca de Fortaleza/CE para o exame de ação referente ao fornecimento de medicamentoregistrado na Agência Nacional de Vigilância Sanitária -Anvisa,não constante na Relação Nacional de Medicamentos Essenciais do Sistema Único de Saúde -Rename/SUS, propostacontra o Estado do Ceará.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, conheço do conflito para declarar a competência do Juízo da 9ª Vara da Fazenda Pública da Comarca de Fortaleza/CE."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Da tese fixada, é possível se extrair que, conquanto a responsabilidade dos entes seja solidária, o magistrado deve direcionar o cumprimento da ordem de acordo com as regras de repartição de competências, em razão dos critérios de descentralização e hierarquização.
+ ..
+Assim, "uma vez organizado o sistema, e divididos os recursos e as responsabilidades de cada ente federativo, deve-se respeitar essa divisão, obrigando-se cada ente à consecução daquilo a que se propôs".
+Em outras palavras, a solidariedade nos moldes em que desenvolvida no Tema 793 pelo STF, ganha novos contornos e dá mais clareza ao seu conceito, na medida em que atribui o dever geral de todos os entes estatais de prestarem saúde, observada a repartição administrativa de competências estabelecida legislação respectiva.
+No presente caso, o medicamento não integra as listas do SUS por decisão da União, tendo em vista ser de sua responsabilidade a incorporação de novas tecnologias ao sistema de saúde.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONFLITO DE COMPETÊNCIA. FORNECIMENTO DE MEDICAMENTO REGISTRADO NA ANVISA NÃO CONSTANTENA RENAME.COMPETÊNCIA DA JUSTIÇA ESTADUAL. APLICAÇÃO DA SÚMULA N. 150/STJ.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de conflito negativo de competência instaurado entre o Juízo da 9ª Vara da Fazenda Pública da Comarca de Fortaleza/CE e o Juízo da 5ª Vara Federal da Seção Judiciária do Ceará, no âmbito de ação ordinária proposta contra ente estadual, objetivando o fornecimento de medicamento registrado na Agência Nacional de Vigilância Sanitária -Anvisa, não constante naRelação Nacional de Medicamentos Essenciais do Sistema Único de Saúde -Rename/SUS.Nesta Corte, em decisão monocrática de minha lavra, declarou-secompetente oJuízo da 9ª Vara da Fazenda Pública da Comarca de Fortaleza/CE.
+II- Nesse sentido, conforme delineado na decisão agravada, o Supremo Tribunal Federal, nos autos do RE n. 855.178/SE (Tema n. 793/STF, de Repercussão Geral), firmou entendimento a respeito da responsabilidade solidária dos entes federados no que se refere ao fornecimento de tratamento médico adequado aos necessitados, de modo que o polo passivo da ação que envolve a aludida matéria pode ser composto por qualquer um deles, conjuntamente ou isoladamente.
+III- Assim, em se tratando, in casu, de responsabilidade solidária dos entes federados, e não ajuizada a demanda em face da União, encontra-se afastada a competência da Justiça Federal.
+IV - Ademais, consoante esclarecido, no julgamento do RE n. 657.718/MG (Tema n. 500/STF, de Repercussão Geral), a Corte Suprema consignou a obrigatoriedade de integração da União no polo passivo de ação que implique fornecimento de medicamentos sem registro na Anvisa, não existindo idêntico comando no que concerne a fármacos não incorporados na Rename/SUS.
+V- Na hipótese, o interesse jurídico da União foi explicitamente afastado pelo Juízo federal, a quem compete decidir sobre o interesse do aludido ente no feito, nos termos da Súmula n. 150 desta Corte, sendo a irresignação da recorrente evidentemente limitada ao fato de estar diante de decisão contrária a seus interesses, o que não viabiliza o provimento do presente recurso.
+VI- Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos suficientemente analisados como incapazes de, por um lado, amparar a pretensão veiculada no conflito de competência instauradoe, por outro, infirmar os fundamentos que embasaram a decisão recorrida, o que faz subsistir o entendimento nela externado.
+Nesse sentido, conforme delineado na decisão agravada,o Supremo Tribunal Federal, nos autos do RE n. 855.178/SE (Tema n. 793/STF, de Repercussão Geral), firmou entendimento a respeito da responsabilidade solidária dos entes federados no que se refereao fornecimento detratamento médico adequado aos necessitados, de modo que o polo passivo da ação que envolve a aludida matéria pode ser composto por qualquer um deles, conjuntamente ou isoladamente.
+Assim, em se tratando, in casu, de responsabilidade solidária dos entes federados, e não ajuizada a demanda em face da União, encontra-se afastada a competência da Justiça Federal.
+Ademais, consoante esclarecido, no julgamento doRE n. 657.718/MG (Tema n. 500/STF, de Repercussão Geral), a Corte Suprema consignou a obrigatoriedade de integração da União nopolo passivodeaçãoqueimpliquefornecimento de medicamentos sem registro na Anvisa, não existindo idêntico comando no que concerne a fármacos não incorporados na Rename/SUS.
+Na hipótese, o interesse jurídico da União foi explicitamente afastado pelo Juízo federal, a quem compete decidir sobre o interesse do aludido ente no feito, nos termos da Súmula n. 150 desta Corte, sendoa irresignação da recorrente evidentemente limitada ao fato de estar diante de decisão contrária a seus interesses, o que não viabiliza o provimento do presente recurso.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
