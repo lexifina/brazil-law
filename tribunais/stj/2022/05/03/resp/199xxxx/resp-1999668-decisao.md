@@ -1,0 +1,6 @@
+DECISÃO
+1. Cuida-se de agravo em recurso especial interposto por HELMUT JOSÉ FERRAZ FLADTcontra decisão monocrática (fls. 448-451) que negou seguimentorecurso especial, em decisão obstativade admissibilidade, por ausência de nulidade por negativa de prestação jurisdicional e por referência genérica e simples a dispositivos de lei desacompanhadada necessária argumentação que sustente a alegada violação de lei federal.
+Alega oagravante que o recurso especial reúneos requisitos de sua admissibilidade, apresentando-se apto ao julgamento de mérito, que consiste no reconhecimento de que a ausência de assinatura de duas testemunhas no contrato de confissão de dívida retira sua executividade, impondo-se a extinção do processo judicial de execução sem conhecimento do mérito, tese consignada por meio de embargos à execução na origem.
+DECIDO.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no art. 34, VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a subida do recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
