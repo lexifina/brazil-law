@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de negativa de prestação jurisdicional e (b) aplicação daSúmulan. 7/STJ(e-STJ fls. 911/913).
+O acórdão do TJDFT está assim ementado (e-STJ fls. 858/859):
+CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. PREJUDICIAL DE PRESCRIÇÃO REJEITADA. MÉRITO. DESVIO DE RECURSOS FINANCEIROS DO CONDOMÍNIO POR PARTE DO SÍNDICO. REELEIÇÃO DO SÍNDICO. INOCORRÊNCIA DE CONCORDÂNCIA EM RELAÇÃO AOS DESVIOS REALIZADOS. SUPRESSIO. INAPLICABILIDADE. PROVA PERICIAL CONCLUSIVA A RESPEITO DAS IRREGULARIDADES. RESSSARCIMENTO DOS PREJUÍZOS APURADOS. CONDENAÇÃO. MANUTENÇÃO.
+1. O prazo prescricional para o condomínio requerer a reparação de prejuízos financeiros causados pelo síndico na administração do condomínio é de 3 (três) anos, contados do efetivo conhecimento da conduta ilícita.
+2. Evidenciado que, entre a data da assembleia extraordinária na qual foi apresentado o relatório fiscal apontando os prejuízos causados pelo réu no exercício do cargo de síndico, e a data do ajuizamento da demanda, não houve transcurso de prazo superior a 3 (três) anos, mostra-se impositivo a rejeição da prejudicial de prescrição.
+3. O fato de o réu ter sido reeleito para novo mandato de síndico, apesar das inconsistências nas contas apresentadas, não conduz à conclusão de que a assembleia de moradores teria anuído com as irregularidades financeiras de sua administração, circunstância que torna inaplicáveis os institutos venire contra factum proprium e supressio.
+4. O fato de determinado documento estar em poder de terceiros não constitui óbice para a sua apresentação nos autos, uma vez que, para este fim, o Código de Processo Civil prevê medidas processuais destinadas à obtenção da exibição de documentos.
+5. Verificado que, no laudo pericial produzido nos autos, foram analisados corretamente os aspectos formais e materiais dos lançamentos fiscais registrados no período em que o réu exerceu o cargo de síndico, não há como ser consideradas regulares despesas baseadas em comprovantes inidôneos.
+6. Deixado o réu de impugnar o laudo pericial no momento oportuno, tem-se por incabível a apresentação de questionamentos a respeito de pretenso equívoco cometido pelo perito judicial, a respeito de duplicidade de lançamento de despesas.
+7. Apelação Cível conhecida. Prejudicial de prescrição rejeitada. No mérito, recurso não provido.
+No recurso especial (e-STJ fls. 868/891), fundamentado no art. 105, III, "a", da CF, o recorrenteaduziu ofensa:
+(a) ao art. 489 do CPC/2015, afirmando haver negativa de prestação jurisdicional, e
+(b)ao art. 206, § 3º, V, do CC/2002, pois a prescrição trienal da pretensão indenizatória do condomínio agravado se contaria da "assembleia realizada em 24/09/2014, ao passo que a presente ação foi proposta em 11/2018 e o prazo findou-se em 09/2017" (e-STJ fl. 886).
+Sustentou que faltariam provas para responsabilizá-lo civilmente pelas condutas ilícitas que lhe foram indevidamente imputadas pelo condomínio recorrido.
+Indicou precedentes para amparar suas teses.
+Foram ofertadas contrarrazões (e-STJ fls. 898/908).
+No agravo (e-STJ fls. 917/940), afirmaa presença de todos os requisitos de admissibilidade do especial.
+Contraminutaapresentada (e-STJ fls. 947/957).
+É o relatório.
+Decido.
+As contradições, omissões e obscuridades que fundamentaram a alegação de negativa de prestação jurisdicional sustentada pelorecorrente são genéricas, porque não discriminam a forma em que o acórdão recorrido teria incorrido nos apontados vícios.Dessa forma, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF.
+A propósito: "a mera assertiva de que o Tribunal local, mesmo após a oposição dos embargos de declaração, não se manifestou quanto às questões postas constitui alegação genérica de violação, caso em comento, configurando fundamentação deficiente a atrair a incidência do teor da Súmula 284/STF" (AgRg no AREsp n. 587.074/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/3/2016, DJe 6/4/2016).
+O recorrente apontou ofensa aoart. 206, § 3º, V, do CC/2002, para discutir o termo a quo da pretensão indenizatória do recorrido.Ocorre que, isoladamente, odispositivolegal mencionadonão possui o alcance normativo pretendido, a fim de sustentar tal tese, visto que não disciplinaespecificamente o termo de início do prazo prescricional, tampouco a chamada teoria da actio nata.
+Dessa forma, a fundamentação recursal mais uma vez mostra-se deficiente e atrai, por analogia, a aplicação da Súmula n. 284/STF como empecilho ao exame do recurso.Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+Com relação às teses remanescentes, a parte deixou de indicar os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada.Ausente tal requisito, a fundamentação recursal mostra-se deficiente e torna inviável o conhecimento do recurso, ante o óbice da Súmula n. 284/STF, aplicada por analogia.
+Nesse contexto: AgRg no AREsp n. 410.404/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgRg no AREsp n. 816.653/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/3/2016, DJe 4/4/2016.
+Por fim, oconhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontadose a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais o recorrentenão se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 609), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
