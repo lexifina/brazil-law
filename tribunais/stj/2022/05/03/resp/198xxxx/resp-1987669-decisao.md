@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto por NICOLLI TOUSSAINT FAGUNDES, com fundamento nas alíneas "a" e "c" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(e-STJ, fls. 633-640).
+Em suas razões recursais, a parte recorrente aponta violação doart. 44 do CP. Aduz para tanto, em síntese, que faria jus à substituição da pena privativa de liberdade por restritiva de direitos, mesmo que a reprimenda de reclusão tenha sido fixada em patamar superior a 4 anos, por ser culposo o delito.
+Com contrarrazões (e-STJ, fls. 722-731), o recurso especial foi admitido na origem (e-STJ, fls. 738-739).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 749-751).
+É o relatório.
+Decido.
+A insurgência prospera.
+Como se sabe, a substituição da pena privativa de liberdade por restritiva de direitos é condicionada ao preenchimento de requisitos objetivos, sendo estes positivos (sanção total de até 4 anos ou prática de crime culposo, independentemente doquantumde pena) e negativos (ausência de violência, grave ameaça ou reincidência específica); bem como ao requisito subjetivo da suficiência da medida, pautado nas vetoriais indicadas no art. 44, III, do CP. Em todo caso, a negativa da substituição precisa ser fundamentada concretamente no descumprimento de algum desses pressupostos.
+No presente caso, o juízo singular fez referência somente ao total de pena (6 anos de reclusão) para indeferir a substituição, ignorando que, como diz o art. 44, I, do CP, o limite objetivo da reprimenda a 4 anos não se aplica aos delitos culposos (e-STJ, fl. 527). O Tribunal local, por sua vez, limitou-se a afirmar genericamente que a parte ré "não preenche, ao menos agora, os requisitos do art. 44 do Código Penal" (e-STJ, fl. 640), sem ao menos explicitar a qual dos múltiplos requisitos se referia, tampouco fundamentar - ainda que de maneira sucinta - o porquê de a recorrente não cumpri-los.
+Como se percebe, não foi apresentada motivação idônea para afastar a substituição da pena privativa de liberdade por restritiva de direitos nas duas oportunidades que as instâncias ordinárias tiveram de enfrentar o tema. Assim, atendido o requisito objetivo - prática de crime culposo - e inexistindo fundamentação no acórdão ou na sentença para demonstrar o descumprimento de algum outro pressuposto do art. 44 do CP, a ré faz jus à substituição.
+Como a pena reclusiva é superior a 1 ano, serão aplicadas duas sanções substitutivas, na forma do art. 44, § 2º, do CP.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ,dou provimentoao recurso especial, para substituir a pena privativa de liberdade por duas restritivas de direitos, a serem fixadas pelo juízo da execução.
+Publique-se. Intimem-se.
