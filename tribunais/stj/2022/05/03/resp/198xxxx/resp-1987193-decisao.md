@@ -1,0 +1,94 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJSP assim ementado (e-STJ fl. 142):
+Locação de imóvel - Ação de cobrança - Cumprimento de sentença - Decisão que deferiu o pedido de desbloqueio de valores encontrados em conta bancária da agravada Tercília - Parcial reforma - Cabimento - Bloqueio de quantias encontradas em investimento não identificado - Liberação - Impossibilidade - Ausência de indício de que tal investimento seja equiparado a conta poupança - Constatação no sentido de que há cumulação de montantes à disposição na conta corrente - Bloqueio restrito à sobra de valores - Inteligência do art. 833, IV, do CPC - Precedentes.
+Recurso dos exequentes parcialmente provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 175/180).
+No recurso especial (e-STJ fls. 183/223),interposto com fundamento no art. 105, III, "a" e "c", da CF, arecorrente alega, além de divergência jurisprudencial,ofensa aoart. 833, IV e X,doCPC/2015.
+Insurge-secontra odeferimento,pela Corte local, do bloqueioem suas contas bancárias no importede R$ 2.691,38 (dois mil, seiscentos e noventa e um reais e trinta e oito centavos) relativo abenefício previdenciário, maisR$ 9.216,24 (nove mil, duzentos e dezesseis reais e vinte e quatro centavos) dereserva financeira sem movimentação, totalizando o valor de R$11.910,47(onze mil, novecentos e dezreais e quarenta e sete centavos).
+Defende a impenhorabilidade de valores decorrentes da suaaposentadoria e de reserva financeira, cujo valor era inferior a 40 (quarenta) salários mínimos.
+Aduz que o Tribunal de origem deixou de observar "que a orientação pacífica do C. Superior Tribunal de Justiça é no sentido de que a impenhorabilidade também se estende à outras contas de investimento e até mesmo à contas correntes" (e-STJ fl. 198).
+Busca o provimento do recurso, a fim de que seja reconhecida a impenhorabilidade dos valores constritos e ainda, oseu desbloqueio.
+Pugna, por fim, pela concessão de efeito suspensivo ao recurso, a fim de obstar novas constrições em suas contas bancáriase, ainda, eventual determinação de devolução dos valores até o julgamento final da demanda.
+Não foram apresentadascontrarrazões (e-STJ fl. 253).
+O recursofoi admitido na origem, nos termos da decisão de fls. 254/257 (e-STJ).
+É o relatório.
+Decido.
+O Tribunal de origem, com base nos fatos e nas provas dos autos,assim entendeu (e-STJ fls. 143/145):
+Ao que consta dos autos, o digno Juízo da causa determinou o bloqueio on line dos ativos financeiros das agravadas, ao que foram localizados R$ 12.955,47 em conta da agravada Tercilia Nallin Tedeschi, sendo R$ 3.739,23 em conta corrente e R$ 9.216,24 relacionados a investimento não discriminado.
+A agravada compareceu aos autos e alegou que os valores seriam impenhoráveis porque alocados em conta poupança de valor inferior a 40 (quarenta) salários mínimos, além do que o bloqueio alcançou parcela relativa ao benefício previdenciário recebido.
+É certo, por primeiro, que o art. 833, X, do Código de Processo Civil, estabelece que são impenhoráveis, até o limite de 40 salários mínimos, as quantias depositadas em caderneta de poupança.
+Ocorre que a análise do demonstrativo de fls. 53/54 revela que não houve bloqueio em caderneta de poupança, mas sim em conta investimento de natureza não especificada, provavelmente relacionados a aplicações em ações ou fundos de investimento, haja vistaas menções a cotas e posições.
+Nada conduz ao entendimento, portanto, de que tal investimento tinha a finalidade de constituição de reserva de capital, tal como uma caderneta de poupança, com a observação de que era ônus da agravada a comprovação de tal alegação.
+(..)
+De outro lado, necessário o reconhecimento da impenhorabilidade da verba decorrente de benefício previdenciário, no valor de R$ 1.045,00.
+Em 23.10.2020 houve o bloqueio de R$ 2.691,38 em conta corrente da agravada, sendo que em 26.10.2020 houve o recebimento do benefício previdenciário no valor de R$ 1.045,00, o qual restou bloqueado na mesma data fls. 49/52.
+Nota-se, portanto, que o montante de R$ 2.691,38 traduz sobra do mês anterior, ou seja, não foi utilizado para a subsistência da executada, ao que possível a constrição.
+Assim, de rigor permaneça constrita a quantia de R$ 11.910,47 (R$ 2.691,38  R$ 9.216,24), porque constitui saldo de valor acumulado ou sem utilização, que perdeu seu caráter alimentar ao deixar de ser utilizado para o suprimento de necessidades básicas.
+Nesse sentido é o julgado do Superior Tribunal de Justiça: ".. Em princípio, é inadmissível a penhora de valores depositados em conta corrente destinada ao recebimento de salário ou aposentadoria por parte do devedor. Ao entrar na esfera de disponibilidade do recorrente sem que tenha sido consumido integralmente para o suprimento de necessidades básicas, a verba relativa ao recebimento de salário, vencimentos ou aposentadoria perde seu caráter alimentar, tornando-se penhorável. Em observância ao princípio da efetividade, não se mostra razoável, em situações em que não haja comprometimento da manutenção digna do executado, que o credor não possa obter a satisfação de seu crédito, sob o argumento de que os rendimentos previstos no art. 649, IV, do CPC gozariam de impenhorabilidade absoluta. Recurso especial não provido" (STJ, REsp nº 1.059.781/DF, Terceira Turma Relatora Ministra NANCY ANDRIGUI j. 01.10.2009).(Grifos no original).
+A Segunda Seção desta Cortereafirmou que, "Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art.833,IV, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família" (AgInt nos EREsp n. 1.701.828/MG, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 16/6/2020, DJe 18/6/2020). No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO PARA DECLARAR A IMPENHORABILIDADE DA APOSENTADORIA - INSURGÊNCIA DAS AGRAVADAS.
+1. De acordo com o entendimento mais recente do STJ, é possível relativizar a regra da impenhorabilidade dos vencimentos, subsídios, salários e proventos de aposentadoria (art. 833, IV, do CPC/15), desde que assegurado ao devedor e a sua família a subsistência digna. Precedentes.
+2. Agravo interno provido para, de plano, conhecer do recurso especial e negar-lhe provimento, mantendo o acórdão recorrido que autorizou a penhora parcial dos proventos de aposentadoria .
+(AgInt nos EDcl no REsp n. 1.808.430/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/06/2021, DJe 17/06/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL.PENHORA. RENDIMENTOS. SUBSISTÊNCIA DO DEVEDOR. APRECIADA PELO TRIBUNAL DE ORIGEM. PENHORA DE PERCENTUAL DE RENDIMENTO.INVIABILIDADE DE REANÁLISE. SÚMULA 7/STJ.
+1. A regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvadas eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família.
+2. Inviabilidade alterar a conclusão do aresto recorrido de que existe particularidade no caso concreto a permitir a relativização da penhora de verba remuneratória para atingir 10% por cento dela, porque demandaria incursão pela seara fático-probatória. Incidência da súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.773.483/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PENHORA. SALÁRIO. PAGAMENTO. HONORÁRIOS ADVOCATÍCIOS. DIGNIDADE DO DEVEDOR. PRESERVAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A exceção à regra da impenhorabilidade contida no art. 833, § 2º, do Código de Processo Civil de 2015 se aplica somente aos casos de prestação alimentícia, não se estendendo às hipóteses de verba de natureza alimentar, como são os honorários advocatícios. Fica ressalvada, porém, a hipótese em que, com base na regra geral do artigo 833, IV, do CPC/2015, a penhora de salários é deferida, mas com a preservação de percentual capaz de garantir a subsistência digna do devedor e de sua família. Precedente da Corte Especial.
+3. Na hipótese dos autos, o tribunal de origem fixou o percentual da penhora sobre salários considerando que o valor remanescente garantiria a sobrevivência digna da devedora, estando em consonância com a recente jurisprudência desta Corte.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.645.585/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/11/2020, DJe 24/11/2020.)
+Incide, portanto, a Súmula n. 83 do STJ.
+Ademais, dissentir das conclusões do acórdão impugnado,que entendeu pela ausência derisco de comprometimento do mínimo essencial à subsistênciada parte executada, mantendo o bloqueio dos valores encontrados em suas contas bancárias,exigiria o reexamedo acervo fático-probatório dos autos, providência vedada nesta sederecursal, a teor da Súmula n. 7/STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO INTERLOCUTÓRIA. AGRAVO DE INSTRUMENTO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15.NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR. EXCEÇÃO DO § 2º DO ART. 833 DO CPC/2015. DIFERENÇA ENTRE PRESTAÇÃO ALIMENTÍCIA E VERBA DE NATUREZA ALIMENTAR. PENHORA DA REMUNERAÇÃO DO DEVEDOR. MANUTENÇÃO DA SUBSISTÊNCIA DIGNA. AVALIAÇÃO CONCRETA.POSSIBILIDADE. ART. 833, IV, DO CPC/2015. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. As exceções destinadas à execução de prestação alimentícia, como a penhora dos bens descritos no art. 833, IV e X, do CPC/2015, e do bem de família (art. 3º, III, da Lei 8.009/90), assim como a prisão civil, não se estendem aos honorários advocatícios, como não se estendem às demais verbas apenas com natureza alimentar. Precedente da Corte Especial.
+4. É possível, no entanto, a penhora com fundamento no art. 833, IV, do CPC/2015, quando, concretamente, ficar demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família. Precedente da Corte Especial.
+5. Alterar o decidido no acórdão recorrido que, com base no acervo fático probatório concluiu que "a penhora de 15% (quinze por cento) incidente sobre a renda líquida auferida pelos agravantes, até a quitação do débito, revela-se adequada e não compromete a subsistência de ambos", demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.914.389/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 30/08/2021, DJe 02/09/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE PROVENTOS. DÉBITO RELATIVO A HONORÁRIOS ADVOCATÍCIOS. IMPENHORABILIDADE E EXCEÇÕES. SITUAÇÃO EXCEPCIONAL.SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. A Corte Especial do Superior Tribunal de Justiça fixou o entendimento de que a exceção à impenhorabilidade prevista no § 2º do art. 833 do CPC não abarca créditos relativos a honorários advocatícios, porquanto não estão abrangidos pelo conceito de "prestação alimentícia".
+2. Também é assente na Corte Especial do STJ o entendimento de que a regra geral de impenhorabilidade de salários, vencimentos, proventos etc. (art. 833, IV, do CPC) pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+3. No caso em apreço, o Tribunal de origem concluiu que a penhora de 5% da remuneração bruta mensal do agravante não prejudica a subsistência dele e de sua família, de forma que rever esse entendimento e acolher a pretensão recursal demandaria a alteração do conjunto fático-probatório dos autos, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.886.436/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/06/2021, DJe 21/06/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.INDICAÇÃO DE DISPOSITIVOS DE LEI FEDERAL. FUNDAMENTAÇÃO GENÉRICA.SÚMULA N. 284/STF. SALÁRIO. PENHORABILIDADE. ART. 833, IV, CPC/2015.SÚMULA N. 83 DO STJ. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Considera-se deficiente a fundamentação de recurso especial que alega violação do art. 1.022 do CPC/2015 e não demonstra, clara e objetivamente, qual ponto omisso, contraditório ou obscuro do acórdão recorrido não foi sanado no julgamento dos embargos de declaração. Incidência da Súmula n. 284 do STF.
+2. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que, de forma genérica, alega violação de dispositivo legal, sem apresentar os motivos pelos quais o acórdão recorrido não teria observado tal norma.
+3. "A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp n. 1.582.475/MG, Relator Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 3/10/2018, REPDJe 19/3/2019, DJe 16/10/2018).Incidência da Súmula n. 83 do STJ.
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir que a penhora não afeta a subsistência familiar. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 1.752.642/SP, de minha relatoria, QUARTA TURMA, julgado em 03/05/2021, DJe 06/05/2021.)
+A incidência da Súmula n. 7/STJ obsta o conhecimento do recursoespecial interposto também pela alínea "c" do permissivo constitucional,pois impede que se verifique a similitude fática entre os acórdãosconfrontados. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO LIMINAR.INDEFERIMENTO. REEXAME. SÚMULAS N. 7/STJ E 735/STF. DISSÍDIOJURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE.
+(..)
+2 Não cabe, em recurso especial, reexaminar matéria fático-probatória
+(Súmula n. 7/STJ).
+3. O recurso especial não pode ser conhecido com fundamento na alínea "c"
+do inciso III do artigo 105 da Constituição Federal, porquanto o óbice da
+Súmula n. 7 do Superior Tribunal de Justiça impede o exame do dissídio
+jurisprudencial quando, para a comprovação da similitude fática entre os
+julgados confrontados, é necessário o reexame de fatos e provas.
+Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.533.250/MT, Rel. Ministra MARIA ISABEL GALLOTTI,
+QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020.)
+Por fim, inviável o acolhimento da pretensão recursal de atribuição deefeito suspensivo ao cumprimento de sentença, pois, para severificar a presença dos requisitos legais, seria necessária a análise dematéria fática, vedado em recurso especial ante o óbice da Súmula n. 7 doSTJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA PROVISÓRIA. RECURSO ESPECIAL REPETITIVO. SUSPENSÃO PROCESSUAL. STJ. INAPLICABILIDADE.EFEITO SUSPENSIVO. INDEFERIMENTO. TESES JURÍDICAS. INVIABILIDADE.SÚMULAS N. 7 E 83/STJ. RISCO DE DANO IRREPARÁVEL. INEXISTÊNCIA.DECISÃO MANTIDA.
+1. A jurisprudência do STJ orienta que a suspensão de processos ordenada no âmbito de recurso especial repetitivo somente se aplica aos processos que tramitam nas instâncias ordinárias.
+2. A suspensão do cumprimento provisório de sentença, para atendimento de decisão proferida em recurso especial repetitivo, deve ser requerida ao Juízo que preside a fase processual - com a necessária demonstração de que a causa enquadra-se na hipótese sobre a qual versa o caso repetitivo -, e, se indeferida, a medida processual adequada para garantir a autoridade das decisões do STJ é a reclamação, na forma prevista pelo art. 988, II, do CPC/2015.
+3. A atribuição de eficácia suspensiva ou a antecipação dos efeitos de recurso especial é medida excepcional, que somente se justifica diante de inequívoco risco de dano irreparável e sob o pálio de relevantes argumentos jurídicos.
+4. No caso concreto, o acolhimento da tese jurídica deduzida no recurso especial exige o reexame de elementos fático-probatórios dos autos, o que é vedado na instância excepcional a teor do que orienta a nota n. 7 da Súmula do STJ.
+5. Além disso, o entendimento manifestado pela Corte regional está alinhado à jurisprudência do STJ, de modo que o recurso outrossim depara-se com o óbice da Súmula n. 83/STJ.
+6. A mera instauração do cumprimento provisório de sentença não traduz risco iminente de dano irreparável, sendo certo que mesmo na hipótese em que houver o depósito da quantia reivindicada pela parte credora, a devedora poderá requerer ao Juízo da causa que exija caução para o levantamento dos valores depositados (CPC/2015, art.521, § 1º), sujeitando-se eventual deliberação negativa aos recursos processuais comportados.
+7. Agravo interno a que se nega provimento.
+(AgInt no TP n. 2.631/PE, de minha relatoria, QUARTA TURMA, julgado em 01/06/2020, DJe 05/06/2020.)
+Julgo prejudicado, portanto, o pedido de efeito suspensivo.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
