@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 27/04/2022 a 03/05/2022, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Buzzi e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento a Sra. Ministra Maria Isabel Gallotti.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Graziela Lauar Lomes ao acórdão da Segunda Seção, assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COTEJO ANALÍTICO ENTRE O ACÓRDÃO EMBARGADO E O ARESTO PARADIGMA. SIMILITUDE FÁTICA NÃO DEMONSTRADA. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA QUE INDEFERIU LIMINARMENTE OS EMBARGOS DE DIVERGÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas ou pelo menos assemelhadas, nos termos do disposto no artigo 266, § 4º, do RISTJ.
+2. A mera transcrição de ementas, sem o correspondente cotejo, não é suficiente para demonstrar a existência da alegada divergência.
+3. Agravo interno desprovido.
+A embargante alega que "foi demonstrado cabalmente que existem dois réus nesta ação e que continuam a participar do feito. Eles possuem procuradores diferentes, isso sendo o bastante para configurar que o prazo na ocasião era em dobro, ou seja, 30 dias, confirmando a não ocorrência do trânsito em julgado , tal como restou julgado antes.Assim, o entendimento na ementa de que não houve o devido cotejo analítico entre as decisões, baseando a conclusão no artigo 266, § 4º, do RISTJ, quer nos parecer aqui inaplicável, até porque estamos tratando de violência direta e frontal à lei, não podendo regimento interno sobrepor-se ao dispositivo legal"(e-STJ, fl. 105).
+Aduz, ainda, que "esta matéria deve ser tratada como de ORDEM PÚBLICA, podendo ser conhecida de OFICIO pelo juiz" (e-STJ, fl. 107).
+É o relatório.
+EMENTA
+EMBARGOSDEDECLARAÇÃONO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EMRECURSO ESPECIAL.AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO NO JULGADO. NÍTIDA INTENÇÃO DE REJULGAMENTO DO RECURSO. PRETENSÃO PROTELATÓRIA. FIXAÇÃO DE MULTA DE 1% SOBRE O VALOR ATUALIZADO DA CAUSA. ART. 1.026, § 2º, DO CPC/2015.EMBARGOSREJEITADOS, COM APLICAÇÃO DEMULTA.
+1.Osembargosdedeclaraçãopoderão ser opostos com a finalidade de eliminar da decisão erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. É evidente o inconformismo da parte embargante com o resultado do julgamento e a intenção de reapreciação da causa, finalidade a que osembargosdedeclaraçãonão se destinam, estando configurada a pretensão protelatória daembargante.
+3.Embargosdedeclaraçãorejeitados, com aplicação demulta.
+VOTO
+As razões do recurso revelam tão somente o intuito de reapreciação das matérias já decididas, o que não se admite em embargos de declaração, os quais possuem índole particular e fundamentação vinculada, cujo objetivo é a declaração do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Na mesma linha de cognição:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material.
+1.1. Ausentes quaisquer dos vícios elencados no acórdão recorrido, que decidiu de modo claro e fundamentado, é impositiva a rejeição aos aclaratórios.
+2. Ante a reiterada oposição de recursos manifestamente inadmissíveis e o caráter protelatório dos presentes embargos, bem como a prévia advertência da parte, é imperiosa a aplicação da multa prevista no art. 1.026, § 2º, do CPC/15.
+3. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt nos EDcl no AREsp 1.814.590/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/9/2021, DJe 1/10/2021)
+Na hipótese, o acórdão embargado foi claro ao consignar que "nem o cotejo analítico foi devidamente realizado, nem foi demonstrada a contento a similitude fática exigida para o conhecimento do presente recurso", pois "a agravante se limitou a apontar duas ementas de acórdãos que nem sequer analisaram o mérito dos respectivos recursos, pois, em ambas as hipóteses, houve a incidência da Súmula 182/STJ, o que não tem qualquer pertinência com o caso ora em julgamento, em que a Quarta Turma desta Corte não conheceu do agravo interno em razão de sua intempestividade, ao fundamento de que não seria o caso de contar o prazo em dobro, pois o litisconsórcio havia se desfeito no julgamento da apelação, a qual fora apresentada somente pela ora agravante" (e-STJ, fl. 99).
+Evidente, portanto, a impossibilidade de acolhimento dos presentes declaratórios, porquanto devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ressalte-se, apenas em caráter deobiter dictum, que o prazo em dobro, previsto no art. 229 do CPC/2015, não se aplica aos processos em autos eletrônicos, como ocorre no presente feito, a teor do que dispõe o parágrafo 2º do referido dispositivo legal.
+Ressai cristalino, pois, o inconformismo daembargantecom o resultado do julgamento e a intenção de reapreciação da causa, finalidade a que os embargos de declaração não se prestam, demonstrando sua pretensão meramente protelatória, o que justifica a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL DECORRENTE DE ERRO MÉDICO. ART. 1.022 DO NCPC. INEXISTÊNCIA DE OMISSÃO E/OU FALTA DE FUNDAMENTAÇÃO NO JULGADO. TRIBUNAL LOCAL QUE, COM BASE NO ACERVO FÁTICO PROBATÓRIO DOS AUTOS, NOTADAMENTE O LAUDO PERICIAL, CONCLUIU PELA COMPROVAÇÃO DA IMPERÍCIA E NEGLIGÊNCIA MÉDICA NO TRATAMENTO DISPENSADO AO FAMILIAR DA PARTE AUTORA, QUE CONTRIBUIU PARA ÓBITO DO PACIENTE. RESPONSABILIDADE SOLIDÁRIA COMPROVADA. REFORMA. SÚMULA Nº 7 DO STJ. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. RECURSO PROTELATÓRIO.APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. INTEGRATIVO REJEITADO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O acórdão embargado não contém contradição, tampouco foi omisso e, com clareza e coerência, concluiu fundamentadamente pela responsabilidade solidária de L. pelo evento danoso, qual seja, a morte de paciente sob seus cuidados, durante a internação no HOSPITAL demandado. Rever as conclusões alcançadas no Tribunal estadual esbarra no óbice da Súmula nº 7 do STJ.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhida os embargos de declaração, que têm nítido caráter infringente.
+5. Diante da manifesta improcedência dos embargos, que buscaram, tão somente, o reexame dos argumentos anteriormente formulados e devidamente analisados por esta eg. Terceira Turma, está caraterizado o caráter manifestamente procrastinatório do recurso integrativo, razão pela qual se aplica ao embargante a multa do art. 1.026, § 2º, do NCPC, fixada em 2% sobre o valor atualizado da causa.
+6. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt no AgInt nos EDcl no REsp 1851418/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021)
+Ante o exposto, rejeito os embargos de declaração, com imposição de multa de 1% (um por cento) sobre o valor atualizado da causa.
+É como voto.
