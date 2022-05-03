@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por Eduardo Lacaz Martins contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 274):
+EMBARGOS DE DECLARAÇÃO. Agravo de instrumento. Conjunto probatório que evidencia que o imóvel é utilizado para moradia permanente. Impenhorabilidade do bem de família reconhecida com relação ao apartamento. Omissão constatada com relação à alegação de fraude à execução. Tese, porém, que não comporta guarida. Reconhecimento da eficácia da instituição do usufruto que não teria o condão de afastar a impenhorabilidade do bem. Direito de moradia da entidade familiar. "O reconhecimento da ocorrência de fraude à execução e sua influência na disciplina do bem de família deve ser aferida casuisticamente, de modo a evitar a perpetração de injustiças". Precedentes do STJ e deste E. Tribunal de Justiça. Omissão sanada, sem alteração no julgamento.
+Nas razões do recurso especial (e-STJ, fls. 422-447), o recorrente apontou violação aos arts. 5º, 6º, 7º, 218, 223, 774, 792 e 932, parágrafo único, do CPC/2015; e 1º e 5º, da Lei n. 8.009/1990, além da existência de divergência jurisprudencial.
+Sustentou, em síntese: i) intempestividade dos documentos juntados no agravo; ii) impossibilidade de proteção legal da impenhorabilidade do bem, em virtude da fraude à execução, consistente na constituição de usufruto após a desconsideração da personalidade jurídica; e iii) ausência de preenchimento dos requisitos legais para a concessão da proteção do bem de família, pois a recorrida possui outro imóvel.
+Subsidiariamente, pleiteouo praceamento do bem, com reserva suficiente para a aquisição de outro imóvel de menor valor, a fim de garantir o crédito alimentar do recorrente.
+Contrarrazões apresentadas às fls. 460-464 (e-STJ).
+Juízo de admissibilidade negativo (e-STJ, fls. 471-474).
+Brevemente relatado, decido.
+Cinge-se a controvérsia à verificação da ocorrência de fraude à execução, ante a instituição do usufruto do imóvel após adesconsideração da personalidade jurídica, bem como a possibilidade de afastamento da impenhorabilidade do bem de família.
+Considerando a relevância da matéria controvertida e os fundamentos trazidos no recurso, dou provimento ao agravo de fls. 477-505 (e-STJ), com fulcro no art. 34, XVI, do RISTJ, para determinar a sua conversão em recurso especial, sem prejuízo de posterior análise dos pressupostos de admissibilidade do recurso.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE FRAUDE À EXECUÇÃO. INSTITUIÇÃO DO USUFRUTO DO IMÓVEL APÓS A DESCONSTITUIÇÃO DA PERSONALIDADE JURÍDICA. AGRAVO PROVIDO PARA DETERMINAR SUA CONVERSÃO EM RECURSO ESPECIAL.
