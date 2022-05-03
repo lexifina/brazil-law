@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DO JULGADO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. Polo passivo da execução originária ocupado pela Executada Viação Estilo, com sócia única a Executada Maura. Bens móveis (ônibus) penhorados foram incendiados. Não satisfeita a execução. Constituição de nova pessoa jurídica (Executada Viação Estrela), com endereço idêntico à Executada Viação Estilo. Sócio único da Executada Viação Estrela é o pai da Executada Maura. Frotas de ônibus das duas companhias utilizam o mesmo pátio. Executada Maura também praticou atos de ocultação patrimonial, com a doação de imóveis para familiares. Preenchidos os requisitos para a desconsideração da personalidade jurídica. Decisão agravada deferiu a desconsideração da personalidade jurídica, para a inclusão (no polo passivo) das Executadas Maura e Viação Estrela.
+RECURSO DA EXECUTADA MAURA IMPROVIDO.
+Alega-se violação dos artigos 50 e 980-A do Código Civil e 789 e 795, § 1º, do Código de Processo Civil sob o argumento de que não estão preenchidos os requisitos para a desconsideração da personalidade jurídica e que somente os bens da sociedade respondem pelas dívidas sociais.
+Assim delimitada a controvérsia, passo a decidir.
+De início, quanto aos artigos980-A do Código Civil e 789 e 795, § 1º, do Código de Processo Civil, incidem as disposições do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+Diz-se isso porque se trata de desconsideração da personalidade jurídica. Se houve, portanto, a aplicação do referido instituto, o muro que separa o patrimônio societário do patrimônio de seus sócios é derrubado para que um e outro respondam pela dívida da sociedade empresária, daí por que não há falar sequer em benefício de ordem na excussão ou mesmo de separação dos patrimônios.
+Quanto ao mais, esta Corte tem entendimento de que a desconsideração da personalidade jurídica, justamente acarretar exceção ao princípio de que o patrimônio dos sócios não se confunde com o patrimônio da sociedade, exige verificação de requisitos específicos, quais sejam, o desvio de finalidade, verificado quando a pessoa jurídica é utilizada para lesar ou fraudar credores, ou a confusão patrimonial.
+O Tribunal local concluiu, no caso dos autos, "que a Executada Maura utilizou das empresas com o propósito de lesar credores (o que configura o desvio de finalidade) e também praticou atos de ocultação patrimonial (no intuito de obstar a satisfação da execução), preenchidos os requisitos para a desconsideração da personalidade jurídica, com a inclusão da Executada Maura no polo passivo da execução" (e-STJ, fl. 285).
+Inequívoco, pois, diante da constatação de desvio de finalidade, que o reexame da causa esbarra nas disposições do verbete n. 7 da Súmula desta Casa.
+Assim:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SOCIEDADE. CONSTRUÇÃO DE SHOPPING CENTER. ALIENAÇÃO DAS UNIDADES. VIOLAÇÃO AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. ILEGITIMIDADE PASSIVA. CONFUSÃO PATRIMONIAL E INTUITO DE FRAUDE. REVISÃO. SÚMULA 7/STJ. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. ÓBICE DA SÚMULA 7/STJ.
+1. Verifica-se que não há qualquer ofensa ao art. art. 535 do CPC/1973, pois o Tribunal a quo dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma clara e fundamentada.
+Inexiste omissão no acórdão que, embora com fundamentação contrária ao interesse da parte, desata a questão jurídica posta em juízo.
+2. Na presente hipótese, percebe-se que a Corte local foi categórica ao afirmar que o julgamento foi realizado nos exatos limites da demanda proposta, afastando a alegação de decisão extra petita.
+3. Considerando a moldura fática estabelecida nos autos, constata-se que a análise acerca da observância ou não, pela instância inferior, do princípio da adstrição excederia as razões colacionadas no aresto impugnado, implicando revolvimento do contexto fático-probatório dos autos, o que é vedado em Recurso Especial, ante o disposto na Súmula 7/STJ.
+4. A desconsideração da personalidade jurídica da sociedade empresária foi declarada em razão do entendimento firmado na instância ordinária, a partir da análise dos fatos e das provas, de que houve desvio de finalidade, confusão patrimonial e a prática de atos fraudulentos. Incidência das Súmulas 7 e 83 do STJ.
+5. Agravo interno não provido.
+(AgInt no REsp 1332715/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/11/2021, DJe 25/11/2021)
+Diante do exposto, nego provimento ao recurso especial.
+Intimem-se.
