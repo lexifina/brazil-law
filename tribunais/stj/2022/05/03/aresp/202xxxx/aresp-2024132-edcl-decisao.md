@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO JOHN DEERE S.A. em face de decisão que negou provimento ao seu agravo em recurso especial com base na aplicação das Súmulas 7 e 83 do STJ(fls. 1.345/1.347).
+Afirma oembarganteque a questão não fora analisada na forma suscitada no recurso especial. Aponta que não se cuida de mero questionamento acerca da declaração de essencialidade dos bens alienados fiduciariamente, mas da delimitação do período de suspensão previsto no § 4º do art. 6º da Lei n. 11.101/2005, uma vez que foi determinado até o cumprimentointegral do plano de recuperação judicial, que, no caso, está previsto para ser cumprido em quinze anos. Defende que o elastecimento indefinido e injustificado do stay period, no sentido de se admitir que a recuperanda siga utilizando os bens que não lhe pertencem até o cumprimento integral do plano de recuperação, onera em demasia o credor que a ele não se submete.Requer, assim, o acolhimento dos embargos para análise da questão.
+Intimados, os embargados não se manifestaram nos autos(fls. 1.358/1.361).
+Razão assiste aoembargante, pois a questão suscitada no recurso especial não foi analisada.
+Verifico que a delimitação do período de suspensão das ações de busca e apreensão dos bens alienados fiduciariamente após o stay period, ainda que mitigado,é relevante e ainda não foi objeto de análise por esta Corte na forma propugnada no recurso especial.
+Em face do exposto, acolho os embargos de declaração para reconhecer a omissão e, em face da relevância da matéria omissa, darprovimento ao agravo e determinar aconversão dos autos em recurso especial.
+Intimem-se.
