@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 12 DA LEI N. 10.826 DE 2003. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RONALDO APARECIDO CONSTANCIO, contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial, porquanto a parte não impugnou todos os fundamentos da decisão que inadmitiu o recurso especial (fls. 711-712).
+Informam os autos que o ora agravante foi condenado, em primeiro grau, à pena de 02 (dois) anos e 06 (seis) meses de detenção, a ser cumprida inicialmente no regime semiaberto, e pagamento de 18 (dezoito) dias-multa, no valor unitário mínimo legal, por infração ao artigo 12, caput, da Lei n.10.826/03(fls. 563-566).
+O Tribunal de Justiça de origemdeu parcial provimento à apelação interposta pela Defesa, para reduzir a reprimenda para 01 (um) ano e 15 (quinze) dias de detenção, em regime inicial semiaberto, e ao pagamento de 15 (quinze) dias-multa (fls. 602-610). Opostos embargos de declaração, estes foram acolhidospara excluir da fundamentação do acórdão a menção ao item "6" do laudo pericial de fls. 92/100, bem como aos cartuchos correspondentes(fls. 643-646).
+Interposto recurso especial (fls. 654-664), com fulcro no artigo 105, inciso III, alíneac, da Constituição Federal, o insurgente alegou dissídio jurisprudencial, sustentando que agiuem legítima defesa, nos moldes do art. 25 do Código Penal, colacionando precedentes que militariam em seu favor.
+Argumentou que "dentro do contexto do fato típico em consonância com os requisitos da excludente de antijuridicidade, usou de forma moderada e dos meios necessários para coibir a incursão dos assaltantes na sua propriedade, repelindo injusta agressão, pois se não resistisse, teria a sua vida ceifada ou a propriedade invadida, estando na iminência de ser agredido fisicamente, pois a conduta dos meliantes indicava que os mesmos lá estavam para roubarem ou matarem" (fl. 659).
+Apontou que "comprovado está que embora estivesse de posse de várias armas de fogo, apenas uma delas foi usada em situação excepcional, ou seja -repita-se - para a sua defesa própria e de outrem, e as outras serviam de anteparo potencial para coibir eventual empreitada criminosa, cuja habitualidade naquele local era incontroversa" (fls. 659-660).
+Pugnou, por fim, pelo conhecimento e provimento do apelo nobre para "reformar o V. Acórdão, no sentido de reconhecer que o Recorrente foi condenado contrariamente à prova dos autos, militando em seu favor a excludente da legítima defesa própria e da propriedade, julgando improcedente a ação penal e porquanto sejam reconhecidas as teses sustentadas, com a sua subsequente absolvição, como medida de inteira e singela justiça" (fl. 664).
+Apresentadas as contrarrazões (fls. 669-676), o apelo nobre não foi admitido pelo Tribunal a quo em razão da: a)deficiência de cotejo analítico, pois não foram preenchidas as condições exigidas pelo Código de Processo Civil, pelo Regimento Interno do Superior Tribunal de Justiça e pela própria Constituição Federaleb)incidência da Súmula 7/STJ, pois a análise do acórdão recorrido implicaria revolvimento de matéria fático-probatória (fls. 679-680).
+A parte, então, apresentou agravo em recurso especial, pugnando pela admissão do recurso (fls. 684-689).
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porquanto não foram infirmadas, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial (fls. 711-712).
+Neste regimental (fls. 715-727), o agravante afirma que não incidea Súmula 7 do STJ, além disso repisa os argumentos do especial, alegando que resta comprovada a divergência jurisprudencial.
+Requer, portanto, o conhecimento e provimento do agravo regimental para reconsiderar a decisão agravada ou a submissão do feito ao Colegiado para análise da matéria.
+O Ministério Público Federal apresentou parecer pelo desprovimentodo agravo regimental (fls. 736-742).
+Por manter o decisum, trago o feito à Turma para julgamento.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 12 DA LEI N. 10.826 DE 2003. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial.
+Agravo regimental desprovido.
+VOTO
+Não obstante os argumentos apresentados pela parte agravante, o presente recurso não comporta provimento.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não foram adequadamente infirmados os fundamentos empregado pela eg. Corte de origem para inadmitir o recurso, no caso, deficiência de cotejo analítico, pois não foram preenchidas as condições exigidas pelo Código de Processo Civil, pelo Regimento Interno do Superior Tribunal de Justiça e pela própria Constituição Federal e incidência da Súmula 7/STJ,pois a análise do acórdão recorrido implicaria revolvimento de matéria fático-probatória.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada, repisando os argumentos do apelo nobre.
+Contudo, caberia ao agravante demonstrara comprovação da divergência, consoante os requisitos legais e indicara desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III, do CPC, impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE DE EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso.
+2. Não assiste razão ao agravante, pois, no caso, incide o óbice da Súmula 182/STJ, uma vez que deixou de impugnar, no seu agravo em recurso especial, de forma específica, ausência/deficiência de cotejo analítico e certidão não juntada/cópia não autenticada/repositório não autorizado/repositório não oficial.
+3. A concessão de habeas corpus, de ofício, ocorre por iniciativa do próprio órgão jurisdicional quando constatada a existência de ilegalidade flagrante ao direito de locomoção, o que ocorre na hipótese.
+4. Em 8/11/2019, o Tribunal Pleno do Supremo Tribunal Federal concluiu o julgamento das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54, e decidiu, por maioria de votos, que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso (trânsito em julgado da condenação) para o início do cumprimento da pena.
+5. Mesmo antes do mencionado julgamento, esta Corte Superior, por sua Terceira Seção, havia pacificado entendimento no sentido de que não se procede à execução provisória de penas restritivas de direitos.
+6. Agravo regimental não provido. Concessão de habeas corpus de ofício para suspender a execução provisória das penas restritivas de direitos" (AgRg no AREsp n. 1.682.769/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/06/2020).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices das Súmulas n. 7 e 83/STJ quanto ao pedido de desclassificação e da Súmula n. 83/STJ quanto ao pleito de aplicação do princípio da insignificância, no agravo a defesa deixou de impugnar o óbice da Súmula n. 83/STJ com relação ao pedido de desclassificação.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido" (AgRg no AREsp n. 1.667.698/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 29/05/2020).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios" (AgRg no AREsp n. 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 26/6/2017, grifei).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
