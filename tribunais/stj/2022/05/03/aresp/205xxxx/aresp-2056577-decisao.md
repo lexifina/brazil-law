@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por CASTOR CONSTRUTORA E INCORPORADORA LTDA.contra decisão que negou seguimento a recurso especial, fundamentado nas alíneas "a" e "c"do inciso III do artigo 105 da Constituição Federal, manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 124/125):
+CIVIL. ADMINISTRATIVO. CÉDULA DE CRÉDITO BANCÁRIO. EMBARGOS Á EXECUÇÃO. APLICAÇÃO DO CDC. TÍTULO EXEQUÍVEL. LEI N. 10.931/2004. CAPITALIZAÇÃO MENSAL DE JUROS. JUROS REMUNERATÓRIOS. LEGALIDADE. JUROS MORATÓRIOS. LIMITAÇÃO. DESCARACTERIZAÇÃO DA MORA AFASTADA.
+1. A aplicação do Código de Defesa do consumidor nas relações de financiamento bancário não é regra de aplicação automática, porquanto não tendo o mutuário comprovado o atendimento dos pressupostos aludidos no inc. VIII do art. 6º da Lei nº 8.078/90, não lhe assiste o direito à inversão do ônus da prova, bem como a revisão de ofício das cláusulas do contrato.
+2. Conforme prevê o art. 28 da Lei nº 10.931/2004, a cédula de crédito bancário tem natureza jurídica de título executivo extrajudicial, pois vinculada a contrato de financiamento pelo qual a instituição financeira empresta um valor certo ao mutuário com prévia fixação do prazo para pagamento e do valor das parcelas é revestido de liquidez, certeza e exigibilidade.
+3. A capitalização mensal dos juros é admitida, tanto nos contratos de mútuo bancário comum firmados após a Medida Provisória n.º 1.963-17/2000 quanto na cédula de crédito bancário celebrada após a Medida Provisória n.º 1.925/1999, mediante expressa pactuação pelas partes. Ademais, o Sistema de Amortização Constante (SAC) consiste em fórmula matemática de cálculo das prestações mensais que não causa prejuízo ao devedor.
+4. A jurisprudência do STJ orienta que somente é possível a redução das taxas de juros remuneratórios por abusividade, quando comprovado que discrepantes em relação à taxa de mercado específica para a operação efetuada.
+5. A Súmula n.º 379 do STJ permite que os juros moratórios poderão ser convencionados até o limite de 1% ao mês.
+6. Ausente qualquer ilegalidade dentro do período de normalidade contratual (juros remuneratórios abusivos ou capitalização ilícita), não há que se falar em descaracterização da mora.
+Os embargos de declaração opostos pela ora agravanteforam rejeitados e os opostos pela instituição financeira parcialmente acolhidos, sem efeitos infringentes (fls. 188/195).
+A agravantesustenta, nas razões de recurso especial, que o reconhecimento deabusividade na cobrança dos juros de mora por parte da instituição financeira enseja a descaracterização da mora.
+Assim delimitada a controvérsia, passo ao exame do recurso.
+O acórdão recorrido encontra respaldo na jurisprudência deste Superior Tribunal.
+Esta Corte já sedimentou que "conforme reiterada jurisprudência desta Corte, não há de se falar em descaracterização da mora se os encargos pactuados para incidir durante a normalidade contratual foram cobrados de forma regular" (AgInt no AREsp 721.211/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 7.12.2020).
+Ainda nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. MORA. CARACTERIZAÇÃO. CIÊNCIA DA PARTE AGRAVANTE. LAUDO PERICIAL. ANÁLISE DA METODOLOGIA. INVIABILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A mora do devedor é descaracterizada tão somente quando a índole abusiva decorrer da cobrança dos chamados encargos do "período da normalidade", juros remuneratórios e capitalização dos juros. A Segunda Seção desta Corte fixou o entendimento de não ser a abusividade de encargos acessórios do contrato, dentre eles a TAC, suficiente à descaracterização da mora (Tema 972). AgInt no REsp 1829177/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/04/2020, DJe 27/04/2020).
+2. No caso em tela, não é possível o acolhimento da pretensão recursal, no sentido de rever a metodologia adotada no laudo pericial contábil, em virtude do óbice previsto no enunciado da Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1612738/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 1.12.2021);
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AUTORA.
+1. O acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não há falar em negativa de prestação jurisdicional.
+2. Para alterar a conclusão no sentido de que inexiste qualquer referência no título de que a cédula deu-se em renegociação de contratos pretéritos ou confissão de dívida, seria necessário promover o reexame do acervo fático-probatório e interpretar as cláusulas contratuais providências vedadas, a teor dos óbices das Súmulas 5 e 7 do STJ.
+3. Segundo tese firmada em recurso repetitivo, a cédula de crédito bancário tem força executiva, devendo ser acompanhada de claro demonstrativo acerca dos valores utilizados pelo cliente, o que se verificou. (AgInt no AREsp 1411098/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/05/2019, DJe 29/05/2019) 4. Conforme entendimento desta Corte, é permitida a capitalização de juros desde que expressamente contratada. Precedentes.
+5. A ausência de indicação dos valores atinentes a tarifas bancárias supostamente abusivas cobradas prejudicou a compreensão da controvérsia e atrai o óbice contido no enunciado n. 284 da Súmula do STF, notadamente em razão de não ter havido expressa análise pela instância precedente do ponto apontado como controvertido.
+6. Conforme reiterada jurisprudência desta Corte, não há de se falar em descaracterização da mora se os encargos pactuados para incidir durante a normalidade contratual foram cobrados de forma regular.
+(AgInt no AREsp 721.211/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe 07/12/2020) 7. Agravo interno desprovido.
+(AgInt no AREsp 1795766/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 26.8.2021).
+Assim, estando o acórdão recorrido em sintonia com a jurisprudência desta Corte, incide o enunciado n. 83 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
