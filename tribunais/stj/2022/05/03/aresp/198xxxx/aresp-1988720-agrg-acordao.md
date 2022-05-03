@@ -1,0 +1,76 @@
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. INTEMPESTIVIDADE DO RECURSO ESPECIAL. APLICAÇÃO DO ART. 219 DO CPC/2015 NO ÂMBITO DO PROCESSO PENAL. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte é assente no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal.
+2. A contagem de prazo em dias úteis, prevista no art. 219 do novo CPC, não se aplica ao recurso especial, que versa sobre matéria penal, haja vista a existência de legislação própria e específica regulamentando o assunto.
+3. O Código de Processo Penal, em seu art. 798, caput, estabelece que os prazos "serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado", ou seja, nesse caso a contagem do prazo para a interposição do recurso será feita em dias corridos.
+4. No caso dos autos, o recorrente foi intimado do julgamento da apelação criminal no dia 16/10/2017, iniciando-se o prazo para a interposição do recurso especial em 17/10/2017 (terça-feira), com término no dia 31/10/2017 (terça-feira). Todavia, constata-se que o recurso foi protocolizado apenas em 1ª/11/2017, configurando-se a intempestividade recursal.
+5. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por RAFAEL BODDENBERG (e-STJ, fls. 28181-28187) contra decisão desta relatoria, que conheceu do agravo para não conhecer do recurso especial (e-STJ, fls. 28176-28178).
+Em suas razões, o agravante alega que haveria violação do princípio da colegialidade (e-STJ, fl. 28183), e sustenta que o recurso especial seria tempestivo, pois interposto dentro do prazo de 15 dias úteis, em observância ao que prevê o Código de Processo Civil.
+Requer, assim, a reconsideração da decisão agravada ou a submissão do agravo ao crivo deste órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. INTEMPESTIVIDADE DO RECURSO ESPECIAL. APLICAÇÃO DO ART. 219 DO CPC/2015 NO ÂMBITO DO PROCESSO PENAL. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte é assente no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal.
+2. A contagem de prazo em dias úteis, prevista no art. 219 do novo CPC, não se aplica ao recurso especial, que versa sobre matéria penal, haja vista a existência de legislação própria e específica regulamentando o assunto.
+3. O Código de Processo Penal, em seu art. 798, caput, estabelece que os prazos "serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado", ou seja, nesse caso a contagem do prazo para a interposição do recurso será feita em dias corridos.
+4. No caso dos autos, o recorrente foi intimado do julgamento da apelação criminal no dia 16/10/2017, iniciando-se o prazo para a interposição do recurso especial em 17/10/2017 (terça-feira), com término no dia 31/10/2017 (terça-feira). Todavia, constata-se que o recurso foi protocolizado apenas em 1ª/11/2017, configurando-se a intempestividade recursal.
+5. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O inconformismo do agravante não merece prosperar.
+Inicialmente, cumpre ressaltar que, nos termos da jurisprudência desta Corte, é possível que o relator negue seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante, sem que se configure ofensa ao princípio da colegialidade, o qual sempre estará preservado, diante da possibilidade de interposição de agravo regimental.
+A corroborar esse entendimento:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO E APROPRIAÇÃO INDÉBITA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. JULGAMENTO MONOCRÁTICO PELO RELATOR. POSSIBILIDADE.
+1. Para viabilizar o prosseguimento (admissibilidade) do agravo, a inconformidade recursal há de ser clara, total e objetiva.
+2. A omissão em contrapor-se aos fundamentos adotados pela decisão objurgada atrai a incidência do óbice previsto na súmula 182/STJ em homenagem ao princípio da dialeticidade recursal.
+3. A jurisprudência do STJ entende que o julgamento monocrático do recurso especial pelo relator não caracteriza ofensa ao princípio da colegialidade, dado que, com a interposição de agravo regimental, torna-se superada a alegação de violação ao citado postulado, tendo em vista a devolução da matéria recursal ao órgão julgador competente.
+4. Agravo regimental não conhecido."
+(AgRg no AREsp 859.193/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 28/6/2016, DJe 1º/8/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO E USO DE DOCUMENTO FALSO. JULGAMENTO MONOCRÁTICO PELO RELATOR. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DO JUIZ NATURAL. PREJUÍZO NÃO DEMONSTRADO. PRECEDENTES. IMPOSSIBILIDADE DE REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. SÚMULA 231/STJ. AGRAVO IMPROVIDO.
+1. É possível ao relator apreciar o mérito do recurso especial ao julgar monocraticamente o agravo, sem que isso configure ofensa ao princípio da colegialidade. Precedentes do STJ.
+ ..
+4. Agravo regimental improvido."
+(AgRg no AREsp 728.063/DF, Rel. Ministro REYNALDO SOARES DA FONSECA , QUINTA TURMA, julgado em 15/9/2015, DJe 21/9/2015).
+Essa questão foi, inclusive, objeto da Súmula 568 do STJ, publicada no DJe de 17/3/2016, com o seguinte teor: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Noutro giro, a pretensão recursal não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento adotado pela decisão impugnada.
+No tocante à alegação de tempestividade do recurso especial ante as novas disposições processuais civis, cabe destacar, inicialmente, a evidente existência de ligações entre o processo penal e o processo civil, decorrentes de expressa previsão legal.
+A propósito, de acordo com o art. 3º do Código de Processo Penal, "a lei processual penal admitirá interpretação extensiva e aplicação analógica, bem como o suplemento dos princípios gerais de direito", de modo que a legislação processual civil poderá, eventualmente, ser aplicada no processo penal.
+Além disso, verifica-se que alguns artigos da legislação processual penal remetem expressamente à lei processual civil - como exemplos os arts. 139, 362 e 790 do CPP.
+Desse modo, não há como se negar que as alterações perpetradas pela novel Lei n. 13.105/2015 terão aplicação inconteste no processo penal.
+Todavia, quando houver disposições expressas acerca de determinada matéria na legislação processual penal, as normas do novo CPC não serão aplicadas. É o que ocorre, com a contagem dos prazos processuais.
+O art. 798, caput, do CPP estabelece que os prazos "serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado". Assim, não será aplicada a disciplina do art. 219 do CPC em vigor, segundo a qual, na contagem dos prazos processuais, devem ser computados somente os dias úteis.
+No caso sob exame, o recurso especial não deve ser conhecido, diante de sua intempestividade. O recorrente foi intimado do julgamento da apelação criminal no dia 16/10/2017 (e-STJ, fl. 27740), iniciando-se o prazo para a interposição do recurso especial em 17/10/2017 (terça-feira), com término no dia 31/10/2017 (terça-feira). Todavia, constata-se que o recurso foi protocolizado apenas em 01/11/2017 (e-STJ, fl. 27750), havendo expirado, portanto, o prazo legal.
+Nesse contexto, é inegável a intempestividade do recurso especial, visto que foi protocolado após o prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029 do Código de Processo Civil de 2015, e o art. 798 do Código de Processo Penal.
+Sobre a inaplicabilidade das regras processuais civis na contagem de prazo para a interposição de recursos que versam sobre matéria penal, após a entrada em vigor da Lei 13.105/2015, podem ser mencionados, ainda, os seguintes precedentes:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DOS ARTS. 219 E 229 DO CPC/2015 NO ÂMBITO DO PROCESSO PENAL. SÚMULA 115/STJ. IRREGULARIDADE PROCESSUAL. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A contagem de prazo em dias úteis, prevista no art. 219 do novo CPC, não se aplica ao agravo em recurso especial, que versa sobre matéria penal, haja vista a existência de legislação própria e específica regulamentando o assunto.
+2. O Código de Processo Penal, em seu art. 798, caput, estabelece que os prazos "serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado", ou seja, nesse caso a contagem do prazo para a interposição do recurso será feita em dias corridos.
+ ..
+5. Agravo regimental não provido."
+(AgRg no AREsp 1.543.866/DF, deste Relator, QUINTA TURMA, julgado em 17/12/2019, DJe 19/12/2019).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO RECURSAL. INTEMPESTIVIDADE MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VI, c/c 1.003, § 5º, ambos do Código de Processo Civil, e do art. 798 do Código de Processo Penal.
+2. Em razão do princípio da especialidade, os prazos previstos no art. 220 do CPC, regulamentados pela Resolução 244/CNJ, não incidem nos processos criminais, tendo em vista o regramento disposto no art. 798, caput, e § 3º, do CPP. Precedentes.
+3. O recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão (AgRg no Inq 1.105/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 29/03/2017, DJe 19/04/2017).
+4. Agravo regimental improvido." (AgRg no RESP 1.753.311/SC, Sexta Turma, Rel. Min. NEFI CORDEIRO, DJe de 03/05/2019).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCORRÊNCIA DE INTIMAÇÃO ELETRÔNICA DO ADVOGADO E PUBLICAÇÃO NO DIÁRIO DA JUSTIÇA ELETRÔNICO. PREVALÊNCIA DESSA ÚLTIMA. PRECEDENTES. INTERPOSIÇÃO DO APELO NOBRE APÓS O LAPSO LEGAL. INTEMPESTIVIDADE. NÃO APLICAÇÃO DOS ARTS. 219 E 220 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com a jurisprudência da Terceira Seção do Superior Tribunal de Justiça, "a intimação eletrônica do patrono não altera o termo inicial para a interposição do recurso, porquanto é assente, nesta Corte Superior, o entendimento de que o prazo começa a fluir a partir da data de publicação no Diário de Justiça eletrônico, uma vez que esta substitui outros meios de publicação oficial para quaisquer efeitos legais." (AgRg no AREsp 1.214.251/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/09/2018, DJe de 27/09/2018).
+2. É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, inciso VIII, c.c. o art. 1.003, § 5.º, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+3. A jurisprudência desta Corte é firme no sentido de que " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/2/2017, DJe 22/2/2017).
+4. O entendimento do Superior Tribunal de Justiça está fixado no sentido de que "a suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade" (AgRg no AREsp 1.070.415/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/05/2017, DJe de 22/05/2017.).
+5. No caso, o acórdão recorrido foi publicado em 27/09/2018, e o recurso especial foi interposto em 22/10/2018, quando já havia escoado o prazo para a sua interposição.
+6. Agravo regimental desprovido." (AgInt no ARESP 1.429.731/AP, Sexta Turma, Rel. Min. LAURITA VAZ, DJe de 30/04/2019, grifou-se).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. INTERPOSIÇÃO FORA DO PRAZO DE 15 DIAS CORRIDOS. INAPLICABILIDADE DO REGRAMENTO DO NOVO CÓDIGO CIVIL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Após a edição da Lei n. 13.105/2015 (novo Código de Processo Civil) - que estabeleceu o prazo de 15 dias para a interposição de todos os recursos nele previstos, com exceção dos embargos de declaração -, a Corte Especial deste Superior Tribunal, assim como sua Terceira Seção, solidificou entendimento no sentido de que esse regramento, assim como o que diz respeito à contagem dos prazos em dias úteis, não se aplica às controvérsias pertinentes a matéria penal ou processual penal.
+2. In casu, o acórdão recorrido foi disponibilizado no Diário da Justiça Eletrônico de 14/12/2016 (quarta-feira), considerado publicado em 15/12/2016, com início do prazo para a interposição do recurso especial em 16/12/2016 (sexta-feira) e esgotando-se em 30/12/2016 (quinta-feira), prorrogando-se para o primeiro dia útil subsequente às férias coletivas. Todavia, sem comprovar a suspensão dos prazos processuais, a recorrente somente protocolizou o recurso em 2/2/2017, portanto, intempestivamente.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 1.179.262/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2018, DJe 02/03/2018, grifou-se).
+Deve prevalecer, portanto, a interpretação de que a contagem de prazo em dias úteis, prevista no art. 219 do novo CPC, não se aplica aos recursos em matéria penal, haja vista a existência de previsão expressa de contagem em dias corridos na legislação própria e específica.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
