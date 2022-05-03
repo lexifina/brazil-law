@@ -1,0 +1,29 @@
+DECISÃO
+1. Cuida-se de agravo interposto por GILSON SEBASTIÃO ALVES contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. Insurgência do autor em face da sentença de improcedência. Pedido de anulação da sentença para complementação do laudo. Não acolhimento. Plano de saúde que não negou a cobertura de tratamento. Caso que envolvia divergência médica entre os médicos que atenderam o autor quanto à realização ou não de cirurgia de hérnia de disco. Sentença anterior anulada para realização de perícia.
+Laudo claro a respeito da possibilidade de utilização do método conservador. Cirurgia que, no caso, não era recomendada. Desnecessidade de maiores esclarecimentos do perito. Ausência de documentos médicos que justifiquem a realização da cirurgia. Obrigação de fazer que não se sustentava. Pedido indenizatório improcedente, diante da ausência de ato ilícito por parte da ré. Sentença mantida.
+Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, ofensa ao disposto nos arts.465, § 1º, III, 466 469,473, IV, 489,§1º IV e 1.022, parágrafo único, I e II do CPC, alegando em síntese, falta de fundamentação na decisão recorrida e que a decisão se baseou em laudo pericial que não revelava a verdade dos fatos.
+Contrarrazões ao recurso especial às fls. 645/653.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3. Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação dos arts. 489, §1º IV e 1.022, parágrafo único, I e II do CPC. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+4. Quanto à alegada necessidade de realização de cirurgia e ao laudo pericial, o Tribunal de origem, após o exame acurado dos autos e do acervo fático-probatório, notadamente a prova pericial,concluiu que pela não necessidade de realização da cirurgia, nos seguintes termos (e-STJ: 610/611):
+Elaborado o laudo pericial, o perito esclareceu inicialmente que a cirurgia é recomendada para o caso de insucesso no tratamento conservador (cf. p. 440).
+A indicação é definitiva em caso de "síndrome da cauda equina, dor insuportável e progressivo enfraquecimento muscular". Essa indicação, por sua vez, seria relativa, dependendo "da duração dos sintomas, da estenose do canal vertebral ou foramen com sintomas associados e da qualidade e severidade dos sintomas.
+A presença isoladade déficit motor ou sensorial não é indicação para a cirurgia, visto que as chances de recuperação são semelhantes, tanto com a aplicação do tratamento conservador, como do cirúrgico." (p. 441).
+No caso, após analisar o paciente e os documentos médicos, entendeu-se que o periciando não apresentava alteração quanto à funcionalidade e, quanto ao comprometimento físico, o apelante teria "0% de perda total anatômica e funcional completa do segmento toraco-lombo-sacro da coluna vertebral de 25%. Portanto, 0% de 25% igual a zero" (cf. ps. 443/445).
+Constou no laudo, ainda, que, ao paciente, foi indicado para tratamento com fisioterapia, exercícios físicos e medicamentos recomendados para tratamento da doença, evoluindo para melhora do quadro clínico dele (cf. p. 445).
+Em resposta aos quesitos do autor, concluiu-se ser negativa a necessidade de realização da cirurgia:"1. Analisando o prontuário médico acostado com a petição inicial, referente a moléstia do autor, durante os 19 dias que ficou internado no Hospital Ribeirão Pires, e diante de todo o tratamento lá recebido, pode-se afirmar que o autor deveria ter sido submetido a cirurgia. R. Não." (cf. ps. 398 e 446).
+Os quesitos complementares do autor pretendem rediscutir, sem qualquer qualificação técnica para tanto, as conclusões do perito judicial, que foram mantidas por ele em complementação ao laudo (p. 559).
+Além disso, não há necessidade de maiores esclarecimentos. De fato, após vários anos decorridos desde a primeira sugestão de cirurgia, o paciente não trouxe aos autos qualquer documento médico que afastasse as conclusões obtidas pelo perito.
+Ou seja, não há qualquer documento medico que justifique a realização da cirurgia em questão, por insuficiência do método conservador. No mais, destaca-se não ter havido qualquernegativa de cobertura pelo plano de saúde.
+A questão discutida nos autos dizia respeito à divergência entre os próprios médicos que atenderam o autor.
+Nesse contexto, diante das conclusões dos médicos que atenderam o autor no Hospital Alvorada (pela não realização do procedimento cirúrgico) e diante das conclusões do perito mencionadas acima, conclui-se não subsistir a pretensão do autor à condenação do plano de saúde na obrigação de fazer.
+Alterar o v. acórdão, demandaria, necessariamente, a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
