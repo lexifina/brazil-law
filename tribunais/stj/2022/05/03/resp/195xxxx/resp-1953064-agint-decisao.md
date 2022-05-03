@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto pela AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR (ANS) contra decisão em que dei provimento ao recurso especial de VALE FERTILIZANTES S.A., a fim de conceder a ordem para impedir a cobrança de crédito tributário relativo ao recolhimento da Taxa de Saúde Suplementar - TSS, nos moldes estabelecidos pelo art. 20 da Lei n. 9.961/2000.
+Nas razões do presente agravo interno, a parteagravante sustenta que (e-STJ fls. 769):
+ ..  ao dar integral provimento ao Recurso Especial, decidindo pela inexigibilidade da Taxa de Saúde Suplementar, sem explicitar sobre qual das Taxas está julgando, o em. Relator incorreu em OMISSÃO, a qual leva à OBSCURIDADE do julgado, merecendo sua revisão.
+b) A Jurisprudência do STJ é pacífica quanto à EXIGIBILIDADE da Taxa de Saúde Suplementar instituída no art. 20, inciso II (Taxa por Registro de Produto) - não há discussão em relação a fato gerador ou base de cálculo.
+A parte agravada apresentou impugnação (e-STJ fls. 780/787).
+Passo a decidir.
+Ao analisar o agravo interno, verifico que a decisão agravada merece ser reconsiderada em parte, conforme requerido pela ora agravante.
+Na hipótese, a parte impetrante, ora agravada, formulou pedido que alberga aTaxade Saúde Suplementar (TSS) nas modalidades tratadas nos incisos I e II do art. 20 da Lei 9.961/2000, conforme atesta o seguinte excerto do pedido formulado na inicial do mandamus (e-STJ fls. 26/27):
+DIANTE DO ACIMA EXPOSTO, requer seja concedida a liminar inaudita altera parte para que V. Exa. ordene à Autoridade Coatora que se abstenha da prática de qualquer ato que vise a cobrança da taxa de saúde suplementar referida no artigo 20, da Lei 9961/2000, impedindo que o débito seja cobrado ou inscrito em Dívida Ativa, suspendendo a exigibilidade do mesmo, nos termos do artigo 151 do CTN e que tal ato não seja ensejador de qualquer obstáculo no dia-a-dia das Impetrantes.
+Por fim, requer seja notificada a Autoridade Coatora para, querendo, prestar as informações pertinentes e, após ouvido o Ministério Público, seja finalmente concedida a segurança para que a referida Autoridade Coatora se abstenha da prática de qualquer ato que vise a cobrança da taxa de saúde suplementar referida no artigo 20, da Lei 9961/2000, impedindo que o débito seja cobrado ou inscrito em Dívida Ativa, determinando, de igual modo, que nenhum requerimento da Impetrante seja indeferido se o motivo for o não pagamento da aludida taxa ou mesmo que não se pratique qualquer ato de constrangimento ou coação para o recebimento da importância.
+A sentença extinguiu a ação, sem apreciação do mérito.
+A Corte regional acolheu o recurso da empresa, afastando a ilegitimidade passiva da autoridade coatora e, no mérito, denegou a segurança.
+Com efeito, quando do acolhimento do recurso especial, não foifeita distinção, de modo que foiafastada a incidência da Taxa de Saúde Suplementar por ambos os incisos I e II do art. 20 da Lei n. 9.961/2000, declarando-se, inclusive, a inconstitucionalidade do art. 20.
+Conforme bem exposto na decisão agravada, a jurisprudência afastasomente a incidência da TSS disciplinada no inciso I do mencionado artigo.
+Ante o exposto, com fundamento no caput do art. 259 do RISTJ, RECONSIDERO PARCIALMENTE a decisão agravada para, com base no art. 255, § 4º, III, do RISTJ, CONHECER do recurso especial e DAR-LHE PARCIAL PROVIMENTO, a fim de conceder parcialmente a ordem para afastar a exigência de cobrança da Taxa de Saúde Suplementar disciplinada no art. 20, I, da Lei n. 9.961/2000.
+Publique-se. Intimem-se.
