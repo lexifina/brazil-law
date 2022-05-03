@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por IVAN FÁBIO DE OLIVEIRA ZURITA, contra decisão interlocutória que negou seguimento a recurso especial fundamentado naalínea"a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/04/2021.
+Conclusão ao Gabinete em: 28/04/2022.
+Ação: monitória, ajuizada pelaFUNDAÇÃO CARLOS CHAGAS, em face do agravante.
+Decisão monocrática: indeferiu o pedido de gratuidade de justiça formulado peloagravante em sede de apelação.
+Acórdão: negou provimento ao agravo internointerposto peloagravante, nos termos da seguinte ementa:
+AGRAVO INTERNO- Insurgência contra decisão monocrática que indeferiu a gratuidade e determinou o recolhimento do preparo - Insurgência do apelante - Não cabimento - Ausência de comprovação da hipossuficiência econômica alegada - Decisão mantida - RECURSO NÃO PROVIDO.
+Recurso especial: alegaviolação dos arts. 98,§§ 5ºe 6º, e 99, § 3º, do CPC. Asseveraque para concessão da gratuidade de justiça é suficiente a declaração de hipossuficiência firmada pelo requerente. Pugna, subsidiariamente, pelo diferimento ou parcelamento do pagamento das custas.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- Das Súmulas 7/STJ e 568/STJ
+Na hipótese dos autos, o Tribunal de origem assim se manifestou a respeito da hipossuficiência do agravante e da possibilidade de diferimento ou parcelamento das custas:
+A reforçar o acima destacado, o v. acórdão proferido no Agravo de Instrumento nº 2231210-61.2017.8.26.0000, de relatoria do Desembargador Bonilha Filho, integrante da 26ª Câmara de Direito Privado deste E. TJSP, j. 14.12.2017, indeferiu, ainda, pedido de diferimento do recolhimento das custas (Lei nº 11.608/03) para após a satisfação da execução, na ação conexa (autos nº 1092020-91.2017.8.26.0100), ajuizada pelos devedores IVAN FABIO DE OLIVEIRA ZURITA e BEATRICE BOLLIGERZURITA, conforme trecho a seguir transcrito:
+"(..) O MM. Juízo "a quo" oportunizou a juntada pelos agravantes, da última declaração de bens enviada ao Fisco, para a análise do pedido (fls. 108), todavia, o documento juntado (fls. 196/207) evidenciou o extenso patrimônio de propriedade dos agravantes, constituído por inúmeros imóveis de alto padrão, a exemplo do Duplex cobertura, no bairro Cerqueira César, em São Paulo, declarado na importância de R$5.400.000,00 (cinco milhões
+e quatrocentos mil reais), além daquele objeto da lide, no valor de R$6.167.893,87 (seis milhões, cento e sessenta mil, oitocentos e noventa e três reais e oitenta e sete centavos), bem como outros imóveis, terrenos, quotas sociais, automóveis.
+Ainda, revelou a declaração de Imposto de Renda o recebimento de rendimentos tributáveis no montante deR$112.964,12, o que equivale ao rendimento mensal deR$9.413,66. Na sequência, no campo "Pensão, proventos de aposentadoria ou reforma por moléstia grave ou aposentadoria ou reforma por acidente em serviço" foi declarado o recebimento de benefícios no montante deR$15.707,39, tendo por fonte pagadora o Fundo de Previdência Social, além do percebimento do rendimento deR$1.489,924,92 (um milhão, quatrocentos e oitenta e nove mil, novecentos e vinte e quatro reais e noventa e dois centavos), tendo por fonte pagadora a Fundação Nestlé de Previdência Privada (fls. 198), totalizando o montante deR$1.505.632,31 (um milhão, quinhentos e cinco mil, seiscentos e trinta e dois reais e trinta e um centavos), somente a título de pensão/proventos de aposentadoria.
+Se tanto não bastasse, para atestar a capacidade financeira da parte agravante, nota-se que no campo do Imposto de renda destinado à "Declaração de Bens e Direitos", apontou a aludida declaração o total, somente neste campo, de R$109.436.743,84 (cento e nove milhões, quatrocentos e trinta e seis mil, setecentos e quarenta e três reais e oitenta e quatro centavos), como se extrai às fls. 204".
+Nesse cenário, conclui-se que os elementos constantes dos autos, por ora, levam mesmo ao indeferimento da gratuidade ao apelante, na medida em que afastam a presunção de hipossuficiência alegada. Pelas mesmas razões, indefiro os pedidos de diferimento e parcelamento das custas. (e-STJ fls. 260/261)
+A jurisprudência do STJ é pacífica no sentido de que a presunção do estado de necessidade tem natureza relativa. Assim sendo, o magistrado está autorizado a indeferir o pedido do benefício da justiça gratuita se não encontrar elementos que comprovem a hipossuficiência da parte requerente, como no presente caso. Nesse sentido: AgInt no AREsp 1.176.640/SP, 2ª Turma, DJe de 15/05/2018; AgInt no REsp 1.420.189/PR, 1ª Turma, DJe de 04/05/2018; AgInt no AREsp 1.048.562/RJ, 4ª Turma, DJe de 30/04/2018; e AgInt no AgInt no REsp 1.670.585/SP, 3ª Turma, DJe de 02/04/2018.
+Ademais, analisar se foram preenchidos, na hipótese, os requisitos necessários à concessão da gratuidade da justiça e, ainda, analisar a possibilidade dediferimento ou parcelamento das custas, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA.GRATUIDADE DE JUSTIÇA. PRESUNÇÃO DO ESTADO DE NECESSIDADE. NATUREZA RELATIVA. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação monitória.
+2.A jurisprudência do STJ é pacífica no sentido de que a presunção do estado de necessidade tem natureza relativa. Assim sendo, o magistrado está autorizado a indeferir o pedido do benefício da justiça gratuita se não encontrar elementos que comprovem a hipossuficiência da parte requerente. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível.6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo conhecido. Recurso especial não conhecido.
