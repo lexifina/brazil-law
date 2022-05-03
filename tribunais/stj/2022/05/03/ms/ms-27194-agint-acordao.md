@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 27/04/2022 a 03/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que revogou a liminar e denegou a Segurança em razão da ausência de comprovação do direito líquido e certo.
+Os agravantes afirmam que o anistiado político faleceu em 2.5.2020, no curso da tramitação do procedimento que culminou na anulação da anistia, havendo nulidade no respectivo processo administrativo porque a autoridade coatora tinha ciência do óbito, assim como da existência dos sucessores (ora agravantes), sendo nulos todos os atos praticados após o aludido evento, tendo em vista que a Administração não providenciou a intimação dos sucessores. Acrescentam que a intimação da Portaria de anulação da anistia, feita na pessoa do advogado do de cujus, não é válida porque, conforme já analisado em decisão anterior, o instrumento de mandato outorgava poderes apenas para representação judicial.
+Aduzem, ainda, que a lei não impõe a obrigação de os sucessores requererem a habilitação no procedimento administrativo, ônus que é atribuível à agravada, pois esta tinha ciência do falecimento do interessado (referem-se à juntada de documento emitido pela Receita Federal, referente à consulta ao CPF, onde constaria o registro de cancelamento em razão do óbito).
+Por fim, defendem que não se discute, neste writ, o tema relacionado à pensão por morte, de modo que não seria necessária a comprovação da legitimação e/ou direito àquele benefício, tendo sido, em contrapartida, demonstrada a ocorrência de nulidade na tramitação do processo administrativo que culminou com a anulação da anistia.
+Não houve impugnação.
+O MPF, em parecer, opinou pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. ANISTIA POLÍTICA. FALECIMENTO DO BENEFICIÁRIO NO CURSO DO PROCEDIMENTO DE REVISÃO. NULIDADE. INEXISTÊNCIA.
+1. O beneficiário da anistia, por meio de procuração outorgada em 26 de fevereiro de 2013, constituiu advogado para representá-lo judicial e extrajudicialmente, indicando expressamente a sua habilitação para atuar na Comissão de Anistia e no Ministério da Justiça (fl. 197, e-STJ).
+2. Assim, considerando que a instauração do procedimento de revisão, a notificação e a apresentação de defesa ocorreram antes do falecimento do anistiado, bem como que a intimação do ato administrativo impugnado neste writ se deu em nome do advogado que o representava nas instâncias judicial e administrativa, inexiste nulidade formal a ser decretada.
+3. De outro lado, até mesmo em razão da natureza personalíssima do direito em litígio, a Administração não pode obrigar os sucessores a ingressarem no polo passivo do processo administrativo, de modo que era ônus dos sucessores demonstrar interesse e legitimidade para pedir a habilitação no procedimento de revisão da anistia.
+4. Por último, consta da nota que embasou a sugestão para anulação da anistia que o benefício foi indevidamente concedido porque o de cujus requereu o desligamento espontâneo das forças militares, de modo que a tese de que houve perseguição política demanda ampla dilação probatória, incompatível com o rito do Mandado de Segurança.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 5 de abril de 2022.
+Não assiste razão aos agravantes.
+Conforme bem observado no parecer do Ministério Público Federal, subscrito pela Dra. Maria Silvia de Meira Luedemann, o beneficiário da anistia, por meio de procuração outorgada em 26 de fevereiro de 2013, constituiu advogado para representá-lo judicial e extrajudicialmente, indicando expressamente a sua habilitação para atuar na Comissão de Anistia e no Ministério da Justiça (fl. 197, e-STJ).
+Assim, considerando que a instauração do procedimento de revisão, a notificação e a apresentação de defesa ocorreram antes do falecimento do anistiado, bem como que a intimação do ato administrativo impugnado neste writ se deu em nome do advogado que o representava nas instâncias judicial e administrativa, inexiste nulidade a ser decretada.
+A circunstância de haver decisão judicial que, em momento anterior, considerou irregular a intimação do advogado decorre do fato de este juízo se reportar à procuração outorgada em 2005 (fl. 90, e-STJ), a qual foi substituída pela procuração outorgada em 2013, que, repita-se, expressamente outorgou poderes de representação extrajudicial.
+Em razão da natureza personalíssima do direito em litígio, a Administração não pode obrigar os sucessores a ingressarem no polo passivo do processo administrativo, de modo que era ônus dos sucessores demonstrar interesse e legitimidade para pedir a habilitação no procedimento de revisão da anistia.
+De outro lado, consoante precedentes do STJ, eventual nulidade pelo indeferimento do pedido de produção de provas, na via administrativa, deveria ter sido previamente demonstrada, mediante comprovação de que a parte requereu expressamente a dilação probatória, bem como demonstrou a pertinência da prova requerida - o que não ocorreu no caso dos autos.
+Por último, consta da nota que embasou a sugestão para anulação da anistia que o benefício foi indevidamente concedido porque o de cujus requereu o desligamento espontâneo das forças militares, de modo que a tese de que houve perseguição política demanda ampla dilação probatória, incompatível com o rito do Mandado de Segurança.
+Com essas considerações, nego provimento ao Agravo Interno.
+É como voto.
