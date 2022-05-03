@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos peloF H COMASSETTO MATERIAIS DE CONSTRUÇÃO LTDA. contra decisão de minha lavra, às e-STJ fls. 392/395, em que conhecido agravo para não conhecerdo recurso especial, em razão do óbice da Súmula 7 do STJ.
+O embargante alega queatacou especificamente o fundamento central do acórdão originário. Argui (e-STJ fls. 399/400):
+Contudo, a decisão monocrática ora embargada, deixou de conhecer o recurso especial ao argumento de que não teria havido, justamente, a impugnação específica ao referido argumento, nos seguintes termos:
+O recorrente, todavia, nas razões do presente recurso especial, não atacou especificamente os fundamentos acima identificados, tendo se limitado a alegar que os custos e as despesas relativos ao frete de arroz e de produtos acabados ou em elaboração entre os seus estabelecimentos devem ser considerados insumos para fins de creditamento do PIS e da COFINS.
+Veja-se que o trecho da decisão embargada acima destacado demonstra um equívoco material na decisão, uma vez que ilustra de caso diverso do que trata o feito em epígrafe, haja vista que a embargante é empresa que desenvolve a atividade de revenda de materiais de construção e o frete se dá na operação de compra das mercadorias para revenda, atividade essencial no caso da embargante.
+Além disso, é importante referir que a análise da matéria posta em discussão não representará reexame fatos e provas, eis que se trata de matéria de direito, considerando que o próprio Superior Tribunal de Justiça já a analisou, por meio da Colenda Primeira Seção:
+RECURSO ESPECIAL. VALOR DO PIS/COFINS. AQUISIÇÃO DE VEÍCULOS PELA CONCESSIONÁRIA PARA REVENDA. DESCONTOS DE CRÉDITOS CALCULADOS EM RELAÇÃO A FRETE NA OPERAÇÃO DE VENDA. EXEGESE DOS ARTIGOS 2º, 3º, INCISOS I E IX, E 15, INCISO II, DA LEI N. 10.833/2003.
+-Na apuração do valor do PIS/COFINS, permite-se o desconto de créditos calculados em relação ao frete também quando o veículo é adquirido da fábrica e transportado para a concessionária -adquirente -com o propósito de ser posteriormente revendido. Recurso especial parcialmente provido.
+(REsp 1215773/RS, Rel. Ministro BENEDITO GONÇALVES, Rel. p/ Acórdão Ministro CESAR ASFOR ROCHA, PRIMEIRA SEÇÃO, julgado em 22/08/2012, DJe 18/09/2012)
+O caso analisado pela Primeira Seção do Superior Tribunal de Justiça retrata situação muito semelhante apresente, uma vez que autoriza a tomada de créditos de PIS e COFINS sobre o frete na operação de compra de mercadoria para revenda (no caso veículo).
+Sem impugnação (e-STJ fl. 407).
+Passo a decidir.
+No caso, não se verifica o vício apontado, pois a decisão está clara no sentido de que,a contraposição ao que ficou decidido no acórdão recorrido -que não é possível o reconhecimento do serviço de frete na operação de compra de mercadorias como insumo, uma vez que não se mostra essencial ou relevante para o desenvolvimento das atividades da empresa -demandaria o reexame do conjunto probatório e peças processuais, providência que encontra óbice na Súmula 7 desta Corte de Justiça.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
