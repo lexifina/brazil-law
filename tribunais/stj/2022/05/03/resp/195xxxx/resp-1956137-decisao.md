@@ -1,0 +1,38 @@
+DECISÃO
+1.Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. DEVEDORES CITADO POR EDITAL. CURADORIA DE AUSENTES. PENHORA PELO BACENJUD. IMPENHORABILIDADE DISPONÍVEL. VERBA SALARIAL. REMESSA A CONTADORIA JUDICIAL. DESCABIDA. RECURSO DESPROVIDO. I. Nos termos do art. 854 do Código de Processo Civil, a penhora em dinheiro pode ser feita pelo sistema BacenJud, cabendo ao executado comprovar que as quantias são impenhoráveis ou que a indisponibilidade dos bens excedeu o valor da dívida. 2. Não obstante a regra da impenhorabilidade seja absoluta em relação ao credor, na esfera do devedor, trata-se de direito patrimonial e como tal disponível. Tanto que cabe ao devedor arguir a impenhorabilidade em momento oportuno, sob o risco de preclusão (exceto se tratando de bem de família e os inalienáveis). 3. A Contadoria Judicial é órgão de auxilio judicial e não das partes e que, cabe ao magistrado, analisando a situação concreta, determinar a necessidade ou não de remessa dos autos àquele órgão. 4. Sem que haja fundadas razões para descreditar os cálculos apresentados pela exequente, a remessa dos autos à Contadoria Judicial, apenas em face de impugnação genérica, se mostra descabida. 5. Agravo de instrumento conhecido e não provido.
+As recorrentes alegam violação aos artigos 832 e 833, inciso IV, ambos do Código de Processo Civil, asseverando que seria imprescindível a expedição de ofício ao banco, ora recorrido, para o esclarecimento sobre os valores e a natureza da conta bancária bloqueada, por ser possível que tenha ocorrido a penhora de bens legalmente impenhoráveis. Articulam que, em face do sigilo dos dados bancários, o esclarecimento de conta de correntista somente pode ser efetivada por ordem judicial.
+Com contrarrazões, o apelo foi admitido.
+É o relatório.
+2. Com efeito, o entendimento desta Casa é no sentido de que "a proteção legal da impenhorabilidade deve ser invocada em tempo e modo próprios pela parte executada, sob pena de preclusão; ressalvada, todavia, a hipótese estabelecida para o bem de família quando ainda não decidida em definitivo".
+Confiram-se:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. QUANTIA DEPOSITADA EM CADERNETA DE POUPANÇA. IMPENHORABILIDADE. PRECLUSÃO TEMPORAL.
+1- A própria lei processual sugere temperamentos ao caráter absoluto das impenhorabilidades, de modo que se revela fragilizada a ideia de que as constrições sobre os bens constantes no rol do art. 649 do CPC são, em quaisquer situações, descabidas.
+2- A impenhorabilidade de bem arrolado no art. 649 do CPC, com exceção feita ao bem de família, deve ser arguida pelo executado no primeiro momento em que lhe couber falar nos autos, sob pena de preclusão. Precedentes.
+3- Há necessidade, em certas hipóteses, de se impor limites a arguições extemporâneas do devedor, para que o debate a respeito da questão não se prolongue indefinidamente, garantindo-se, assim, segurança jurídica e celeridade aos atos processuais, bem como evitando-se que a lide se converta numa disputa desordenada, sem freios ou garantias pré-estabelecidas.
+4- No particular, a irresignação contra a penhora de numerário que integrava o acervo patrimonial disponível da embargada foi manifestada mais de dois anos após sua intimação, o que evidencia que a constrição não teve como efeito comprometer a manutenção digna da devedora e de sua família - objetivo da proteção garantida pela norma do art. 649 do CPC.
+5- Embargos de divergência acolhidos.
+(EAREsp 223.196/RS, Rel. Ministra ELIANA CALMON, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2013, DJe 18/02/2014)
+--
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. ATIVOS FINANCEIROS. IMPENHORABILIDADE DA CONTA-POUPANÇA. ALEGAÇÃO EXTEMPORÂNEA. PRECLUSÃO. OCORRÊNCIA.
+1. A Corte Especial deste Tribunal Superior firmou entendimento segundo o qual a proteção legal da impenhorabilidade deve ser invocada em tempo e modo próprios pela parte executada, sob pena de preclusão; ressalvada, todavia, a hipótese estabelecida para o bem de família quando ainda não decidida em definitivo. Precedente:EAREsp 223.196/RS, Rel. p/ acórdão Min. Nancy Andrighi, DJe 18/02/2014.
+2. Hipótese em que o Tribunal Regional Federal da 4ª Região, atento ao fato de o executado não ter-se insurgido a tempo e modo próprios contra a penhora de ativos financeiros alocados em conta-poupança, decidiu pela penhorabilidade dos valores.
+3. Agravo interno não provido.
+(AgInt no REsp 1754132/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 16/09/2019, DJe 20/09/2019)
+--
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. IMPENHORABILIDADE. CAMINHÃO. INSTRUMENTO DE TRABALHO. MATÉRIA NÃO INVOCADA EM EMBARGOS DO DEVEDOR. PRECLUSÃO. PRECEDENTE DA CORTE. DECISÃO AGRAVADA CONFIRMADA.
+1.- "O devedor que nomeia bens à penhora ou deixa de alegar a impenhorabilidade na primeira oportunidade que tem para se manifestar nos autos, ainda que tais bens sejam absolutamente impenhoráveis, à exceção do bem de família, perde o direito à benesse prevista no artigo 649 do Código de Processo Civil" (AgRg nos Edcl no REsp 787.707/RS, Rel. Min. HÉLIO QUAGLIA BARBOSA, DJ 4.12.2006).
+2.- Agravo Regimental improvido.
+(AgRg no AgRg no REsp 1294384/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 26/06/2012, DJe 29/06/2012)
+No caso, consoante consignado no acórdão recorrido (fl. 603):
+No caso em apreço, pretende a Curadoria de Ausentes, na defesa dos interesses das devedoras citadas por edital, aferir se o bloqueio judicial em conta corrente não recaiu sobre verba salarial e/ou benefício emergencial ou de outra natureza albergadas pela impenhorabilidade (art. 833 do CPC/2015). Contudo, não obstante a regra da impenhorabilidade seja absoluta em relação ao credor, na esfera do devedor, trata-se de direito patrimonial e como tal disponível. Tanto que, consoante disposições acima transcritas, cabe ao devedor arguir a impenhorabilidade em momento oportuno, sob o risco de preclusão (exceto se tratando de bem de família e os inalienáveis).
+ ..
+Neste contexto, não obstante a louvável e diligente conduta da Defensoria Pública na condição de Curadora de Ausentes, no sentido de evitar que a penhora recaia sobre verba impenhorável, há de se destacar que não é razoável que a própria devedora, ao perceber o bloqueio judicial, não tenha vindo em Juízo para alegar eventual ilegalidade na medida constritiva, fazendo-se presumir que ao não impugnar o indigitado bloqueio anuiu com a persecução patrimonial judicial efetivada.
+Acrescente-se que a própria inércia pessoal da parte quanto a bloqueios anteriores, bem como as atuais constrições nos valores de R$ 1.201,82 e R$ 66,85 aponta para a ausência de risco de que a efetivação da penhora possa comprometer a subsistência da devedora.
+Dessarte, incide à espécie a Súmula 83 do STJ.
+3. Ante o exposto, nego provimento ao recurso especial. Sem honorários na origem.
+Publique-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA PELO BACENJUD. ALEGAÇÃO DE IMPENHORABILIDADE DOS VALORES. PRECLUSÃO.
+1. A Corte Especialfirmou entendimento segundo o qual a proteção legal da impenhorabilidade deve ser invocada em tempo e modo próprios pela parte executada, sob pena de preclusão,ressalvadaa hipótese estabelecida para o bem de família quando ainda não decidida em definitivo. Precedente:(EAREsp 223.196/RS, Rel. Ministra ELIANA CALMON, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2013, DJe 18/02/2014)
+2. Recurso especial não provido.
