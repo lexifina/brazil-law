@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO.RESPONSABILIDADE TRIBUTÁRIA. GRUPO ECONÔMICO. REDIRECIONAMENTO DA EXECUÇÃO FISCAL. INSTAURAÇÃO DE INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 85 DO CPC. INCIDÊNCIA DA SÚMULA N. 282/STF.
+I - Trata-se de agravo de instrumento interposto por Estivadora Feirante Ltda. contra decisãoque determinou o redirecionamento da execução fiscal para a ora agravante e deferiu, como medida acautelatória, o pedido de indisponibilidade de ativos financeiros via BacenJud. No Tribunala quo, o agravo de instrumento foi provido.
+II - Os embargos de declaração do recorrente não foram conhecidos, porque se ativeram a acórdão anterior aos embargos de declaração que os sucedeu.
+III - Em face de tal circunstância, o Tribunal a quo entendeu preclusa a oportunidade do recorrente questionar questões havidas no primeiro acórdão não embargado.
+IV - É pacífico, no Superior Tribunal de Justiça, o entendimento, segundo o qual os segundos embargos de declaração estão restritos ao argumento da existência de vícios no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, pois a oportunidade para a respectiva impugnação extinguiu-se em virtude da preclusão consumativa, ensejando a imposição de multa por prática processual abusiva e manifestamente protelatória, nos termos do art. 1.026, § 2º, do Código de Processo Civil de 2015. Nesse sentido: AgInt no REsp n. 1888106/RS, relatoraMinistra Regina Helena Costa, Primeira Turma, julgado em 13/10/2020, DJe 16/10/2020.
+V - Quanto à alegada violação doart. 85 do CPC/2015, verifica-se que o acórdão recorrido não apreciou a questão inserta no referido regramento, ficando ausente o requisito do prequestionamento. Incidência da Súmula n. 282/STF, in verbis: ""Éinadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.""
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RESPONSABILIDADE TRIBUTÁRIA. GRUPOECONÔMICO. REDIRECIONAMENTO DA EXECUÇÃO FISCAL. INSTAURAÇÃO DEINCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. NECESSIDADE.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço dos recursos especiais."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+No mesmo sentido, Excelência, este Egrégio Tribunal Superior possui entendimento consolidado por sua Segunda Seção no sentido de que a condenação ao pagamento de honorários advocatícios de sucumbência poderia ter sido fixada na decisão referente aos embargos de declaração opostos pela própria Fazenda Nacional, não havendo reformatio in pejus neste caso. Logo, é evidente que tal decisão foi omissa.
+ ..
+Logo, como no presente caso concreto sequer houve condenação ao pagamento de honorários advocatícios de sucumbência, em razão de sua natureza de norma de ordem pública, é juridicamente possível a interposição de novos embargos de declaração, não havendo preclusão quanto a isso. Somente haveria preclusão se a questão tivesse sido anteriormente apreciada.
+ ..
+Logo, diante do pacífico entendimento de que a condenação ao pagamento de honorários advocatícios sucumbenciais é matéria de ordem pública, torna-se evidente que a decisãomonocrática vergastada manteve grave violação ao disposto nos artigos 85, 332, § 1º, e 1.022, inciso II, todos do CPC/2015.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO.RESPONSABILIDADE TRIBUTÁRIA. GRUPO ECONÔMICO. REDIRECIONAMENTO DA EXECUÇÃO FISCAL. INSTAURAÇÃO DE INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 85 DO CPC. INCIDÊNCIA DA SÚMULA N. 282/STF.
+I - Trata-se de agravo de instrumento interposto por Estivadora Feirante Ltda. contra decisãoque determinou o redirecionamento da execução fiscal para a ora agravante e deferiu, como medida acautelatória, o pedido de indisponibilidade de ativos financeiros via BacenJud. No Tribunala quo, o agravo de instrumento foi provido.
+II - Os embargos de declaração do recorrente não foram conhecidos, porque se ativeram a acórdão anterior aos embargos de declaração que os sucedeu.
+III - Em face de tal circunstância, o Tribunal a quo entendeu preclusa a oportunidade do recorrente questionar questões havidas no primeiro acórdão não embargado.
+IV - É pacífico, no Superior Tribunal de Justiça, o entendimento, segundo o qual os segundos embargos de declaração estão restritos ao argumento da existência de vícios no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, pois a oportunidade para a respectiva impugnação extinguiu-se em virtude da preclusão consumativa, ensejando a imposição de multa por prática processual abusiva e manifestamente protelatória, nos termos do art. 1.026, § 2º, do Código de Processo Civil de 2015. Nesse sentido: AgInt no REsp n. 1888106/RS, relatoraMinistra Regina Helena Costa, Primeira Turma, julgado em 13/10/2020, DJe 16/10/2020.
+V - Quanto à alegada violação doart. 85 do CPC/2015, verifica-se que o acórdão recorrido não apreciou a questão inserta no referido regramento, ficando ausente o requisito do prequestionamento. Incidência da Súmula n. 282/STF, in verbis: ""Éinadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.""
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Os embargos de declaração do recorrente não foram conhecidos, porque se ativeram a acórdão anterior aos embargos de declaração que os sucedeu.
+Em face de tal circunstância, o Tribunal a quo entendeu preclusa a oportunidade do recorrente questionar questões havidas no primeiro acórdão não embargado.
+É pacífico, no Superior Tribunal de Justiça, o entendimento, segundo o qual os segundos embargos de declaração estão restritos ao argumento da existência de vícios no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, pois a oportunidade para a respectiva impugnação extinguiu-se em virtude da preclusão consumativa, ensejando a imposição de multa por prática processual abusiva e manifestamente protelatória, nos termos do art. 1.026, § 2º, do Código de Processo Civil de 2015.Nesse sentido: AgInt no REsp n. 1.888.106/RS, relatoraMinistra Regina Helena Costa, Primeira Turma, julgado em 13/10/2020, DJe 16/10/2020.
+Quanto à alegada violação doart. 85 do CPC/2015, verifica-se que o acórdão recorrido não apreciou a questão inserta no referido regramento, ficando ausente o requisito do prequestionamento. Incidência da Súmula n. 282/STF,in verbis: ""Éinadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.""
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
