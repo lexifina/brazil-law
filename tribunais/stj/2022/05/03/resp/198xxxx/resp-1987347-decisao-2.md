@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Agravo, interposto por MIRIAM MOREIRA DUQUE, contra decisão do Tribunal Regional Federal da 2ª Região, que, admitira o Recurso Especial apenas em parte (fls. 336/339e).
+Nas suas razões de Agravo em Recurso Especial, requer "seja conhecido e provido o presente Agravo para, reformando parcialmente a decisão que inadmitiu em parte o Recurso Especial, destrancar seu processamento e permitir sua apreciação integral pelo E. STJ"(fl. 392e).
+O Agravo em Recurso Especial é manifestamente inadmissível, por falta de interesse recursal.
+O Tribunal de origem, como aludido, admitiu o Apelo Excepcional apenas "quanto à alegação de violação ao artigo 942, do Código de Processo Civil" (fl. 339e).
+Assim, não é cabível a interposição de Agravo em Recurso Especial contra decisão que admite parcialmente o Recurso Especial, nos termos dos enunciados 292 e 528, da Súmula do STF, aqui empregados por analogia.
+No mesmo sentido, confira-se, entre outros:
+"AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS. ADMISSÃO PARCIAL DO RECURSO ESPECIAL. FALTA DE INTERESSE RECURSAL. INCIDÊNCIA DAS SÚMULAS 292 e 528 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, razão pela qual esta deve ser mantida.
+2. Incabível agravo de instrumento contra decisão que inadmite parcialmente o recurso especial, por falta de interesse recursal. Aplicação das Súmulas 292 e 528 do STF.
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no Ag 1.307.016/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 17/12/2013).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL A QUO QUE ADMITE PARCIALMENTE O RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO. FALTA DE INTERESSE RECURSAL. POLICIAL MILITAR. PROCESSO ADMINISTRATIVO DISCIPLINAR. REFORMATIO IN PEJUS. INELEGIBILIDADE. DEMISSÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PENA DE DEMISSÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Por ocasião do juízo de admissibilidade efetuado pela Corte a quo, o apelo especial foi parcialmente admitido. Entretanto, o STJ já consolidou o entendimento de ser incabível Agravo contra decisão que, em juízo de admissibilidade, admite parcialmente o Recurso Especial. Tal orientação constitui objeto dos enunciados de Súmulas 292 e 528 do Supremo Tribunal Federal.
+2. No que tange à alegação de reformatio in pejus e á cominação de inelegibilidade, o debate proposto no Recurso Especial não foi apreciado pelo Tribunal de origem. É necessária a efetiva discussão do tema pela instância a quo, ainda que em Embargos de Declaração. Incide, na espécie, a Súmula 211/STJ.
+3. Em relação à proporcionalidade da pena aplicada, a Corte de origem consignou que "não houve o descumprimento, por parte da Administração, da aplicação dos princípios da legalidade, da razoabilidade e da proporcionalidade em relação à dosimetria da sanção administrativa imposta, tendo-se em conta o grau de reprovabilidade da conduta praticada, em que pese as circunstâncias atenuantes e os antecedentes favoráveis, não se vislumbrando no ato de demissão as aventadas inconsistências mencionadas no apelo" (fl. 519, e-STJ).
+4. Para analisar se houve violação aos princípios da razoabilidade e da proporcionalidade, seria necessário reexaminar as provas presentes no Processo Administrativo para aferir a gravidade das condutas, a culpabilidade do agente e a consequente razoabilidade da aplicação da pena. Incide, no caso, a Súmula 7/STJ.
+5. Recurso Especial não conhecido. Agravo em Recurso Especial prejudicado" (STJ, REsp 1.691.433/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 01/02/2018).
+No caso, portanto, inexiste interesse recursal, incidindo, na espécie, as Súmulas 292 e 528 do STF.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo em Recurso Especial.
+I.
