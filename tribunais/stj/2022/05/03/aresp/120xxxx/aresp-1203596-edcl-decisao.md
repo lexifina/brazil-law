@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GERSON DE PAULO FERRARI contra decisão por meio da qual não conheci do agravo em recurso especial do embargado em razão da incidência da Súmula 182/STJ.
+Nas razões dos presentes embargos de declaração, o recorrente sustenta que a decisão agravada não se manifestou sobre a majoração dos honorários recursais, padecendo, por isso, de omissão.
+Brevemente relatado, passo a decidir.
+Nos termos do artigo 1.022 do Código de Processo Civil/2015, os embargos de declaração somente são cabíveis quando houver omissão, contradição, obscuridade ou erro material na decisão embargada.
+Com efeito, não houve omissão na decisão ora recorrida, pois consignou expressamente que "a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil/1973, conforme Enunciado Administrativo 3/2016 desta Corte".
+Sob esse enfoque "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a prolação da sentença é o marco temporal para delimitar o regime jurídico aplicável à fixação de honorários advocatícios. Tendo a sentença sido prolatada na vigência do CPC/1973, o respectivo valor de sucumbência não pode ser majorado na via do recurso" (AgInt no AREsp 1438622/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 24/9/2019).
+Nesse sentido, confira-se recente julgado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. IMPOSSIBILIDADE DE MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. SENTENÇA PROFERIDA SOB A ÉGIDE DO CÓDIGO DE PROCESSO CIVIL DE 1973.
+1. Como dito, o Superior Tribunal de Justiça entende que é aplicável para a fixação inicial da verba honorária a lei vigente na data da sentença que a impõe (ou da primeira decisão que trata da verba honorária, caso seja acórdão).
+2. Assim sendo, "as normas sobre honorários advocatícios de sucumbência não devem ser alcançadas pela lei processual nova. A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015. Assim, se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado" (EAREsp 1.255.986/PR, Rel. Ministro Luís Felipe Salomão, Corte Especial, DJe de 6/5/2019).
+3. Tendo em vista que vigorava o CPC/1973 quando a sentença foi promulgada, ainda que o acórdão tenha dado nova decisão jurídica e renovado a condenação em honorários, deve ser mantida a aplicação do CPC revogado nesse ponto até o trânsito em julgado, conforme o precedente alhures colacionado. Assim, descabida a majoração pleiteada, porquanto inexistente no Código Buzaid.
+4. Agravo Interno não conhecido. (AgInt nos EDcl no AREsp 1890351/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA DJe 25/3/2022).
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
