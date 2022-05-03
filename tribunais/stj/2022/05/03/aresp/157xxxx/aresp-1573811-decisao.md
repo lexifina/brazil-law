@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo manejado por Maqpar Distribuidora de Produtos Industriais Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (fls. 181/182):
+TRIBUTÁRIO - RECURSO DE APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA - ICMS r DESCONTOS INCONDICIONAIS - PERCENTUAL SUPERIOR AO ESTABELECIDO PELA LEI DE REGÊNCIA (RICMS) - REGIME DE ESTIMATIVA - CONSUMIDOR FINAL - COBRANÇA DE DIFERENCIAL DE ALÍQUOTA - LEGALIDADE - SENTENÇA MAN II DA - APELO PROVIDO.
+1. O Decreto nº 2.168 que limitou os descontos das bonificações em 30% (trinta por cento) retroagiu seus efeitos aos fatos geradores ocorrido até 01/10/2009 (art. 2º). Portanto, não procede o argumento de inaplicabilidadé ao caso em questão, haja vista que todas as Notas Fiscais foram emitidas em dezembro de
+2009.
+2. A regularidade do lançamento do crédito tributário foi demonstrada, no caso, cm razão da constatação de operaçãode compra de mercadorias, mediante desconto incondicional, em percentual acima do limite especificado na legislação de regência.
+3. A irregularidade no pagamento do tributo autoriza o Fisco Estadual a realizar a cobrança pelo Regime de Estimativa, para que seja complementado o valor que deixou de arrecadar.
+4. Apelo provido.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 97 do CTN, 13, §1º, II, "a" LC 87/96.Sustenta que "a Corte regional concluiu que foi regular o lançamento do crédito tributário por entender que os descontos incondicionais ocorreram em percentual acima do limite especificado na legislação de regência, no caso, os decretos estaduais, valendo destacar que o Regulamento de ICMS, vigente à época, foi instituído pelo Decreto estadual nº 1.944/89" (fl. 199).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Quanto à apontada ofensa ao art. 97 do CTN, esta Corte já se manifestou no
+sentido de que a matéria não pode ser invocada em recurso especial, porquanto o preceito infraconstitucional é mera reprodução de dispositivo da Constituição Federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. INEXISTÊNCIA DE VÍCIOS. NORMA CONSTITUCIONAL. COMPETÊNCIA DO STF. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, eventual nulidade do julgamento singular, por falta de enquadramento nas hipóteses legais, fica superada pela apreciação da matéria pelo órgão colegiado no julgamento do agravo interno. Precedentes.
+2. Não há falar em afronta aos arts. 489 e 1.022 do CPC/2015, a ensejar o rejulgamento dos aclaratórios na origem, quando o Tribunal a quo presta a tutela jurisdicional por meio de fundamentação jurídica clara, específica e condizente para a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que por solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+3. Quanto ao art. 97 do CTN, que trata do princípio da legalidade tributária previsto no art. 150, I, da CF, o entendimento desta Corte Superior é no sentido de que o referido normativo possui natureza eminentemente constitucional, cuja análise é de competência do STF, não cabendo sua apreciação em sede de recurso especial.
+Precedentes.
+4. Configura fundamentação recursal deficiente, a ensejar a aplicação da Súmula 284/STF, a alegação genérica de violação, a falta de demonstração da suposta ofensa ao normativo legal, considerando a fundamentação adotada na decisão recorrida para o deslinde da causa, a ausência de comando normativo do dispositivo legal, a argumentação deficiente com a apresentação de razões dissociadas, bem como a falta de particularização do dispositivo legal contrariado ou sobre o qual se sustenta pender divergência interpretativa. Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp 1.923.779/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 27/09/2021, DJe 30/09/2021)
+Adiante, destaca-se a seguinte fundamentação adotada pelo acórdão recorrido (cf. fls. 186/187):
+Nota-se que, diferentemente do que alegado Apelado, oDecreto nº 2.168/2009 - que limitou os descontos das bonificações em 30% (trinta por cento) - retroagiu seus efeitos aos fatos geradores ocorridos até 01/10/2009 (art, 2o). Portanto, não procede o argumento de inaplicabilidade ao caso em questão, haja vista que todas as Notas Fiscais foram emitidas em dezembro de 2009.
+Analisando a documentação dos autos, observa-se que em algumas notas fiscais os valores dos descontos chegam a igualar e até superar o valor total dos produtos, como nas Notas p. 32 e 34,Assim, nitidamente que ultrapassou o limite de desconto permitido em lei.e a redução concedida incorre em ofensaàlegislação apontada (art. 435-0-8, §5-C e § 5-D do RICMS).
+Assim, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (Decreto Estadual nº 2.168/2009), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
