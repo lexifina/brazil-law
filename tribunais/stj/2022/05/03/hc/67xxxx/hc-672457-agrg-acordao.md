@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ITAMAR BORTOLOTTOcontra a decisão que não conheceu do presente habeas corpus, no qual se alega ser excessivo o aumento da pena em 1/3 pela reincidência.
+O agravante afirma que a existência de duas condenações anteriores não pode ser equivalente a duas agravantes, devendo ser utilizada a regra do concurso formal, para a aplicação da fração de 1/5.
+Requer, assim, a reconsideração da decisão ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. DUPLA REINCIDÊNCIA. QUANTUM DE AUMENTO. 1/3 (UM TERÇO). POSSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É consabido que o Código Penal - CPnão estabeleceu o quantum de aumento para as circunstâncias agravantes genéricas, dentre elas a reincidência (art. 61, I, do Código Penal), cabendo a escolha ao juiz, em decisão fundamentada. Usualmente, utiliza-se a fração de 1/6, permitindo-se a sua elevação quando há dupla ou multirreincidência.
+No caso, a agravante da reincidência foi aplicada no patamar de 1/3, tendo em vista a existência de duas condenações anteriores transitadas em julgado, não havendo, assim, constrangimento ilegal à liberdade do ora agravante.
+2. Agravo regimental desprovido.
+VOTO
+É consabido que o Código Penal não estabeleceu o quantum de aumento para as circunstâncias agravantes genéricas, dentre elas a reincidência (art. 61, I, do Código Penal), cabendo a escolha ao juiz, em decisão fundamentada. Usualmente, utiliza-se a fração de 1/6, permitindo-se a sua elevação quando hádupla ou multirreincidência.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. CONFISSÃO ESPONTÂNEA. RECONHECIMENTO. IMPOSSIBILIDADE. DEPOIMENTO NÃO UTILIZADO PARA CORROBORAR A CONDENAÇÃO. REINCIDÊNCIA. AUMENTO SUPERIOR A 1/6 (UM SEXTO). PROPORCIONALIDADE. DUPLA REINCIDÊNCIA DO RÉU. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na esteira da orientação jurisprudencial desta Corte, se a confissão espontânea não foi reconhecida pelas instâncias ordinárias, a desconstituição do que ficou estabelecido ensejaria o reexame aprofundado de todo conjunto fático-probatório produzido ao longo da marcha processual, providência incompatível com os estreitos limites do remédio constitucional, marcado pela celeridade e sumariedade na cognição. Precedentes.
+2. O Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena em razão da incidência das agravantes e atenuantes genéricas. Diante disso, a doutrina e a jurisprudência pátrias anunciam que cabe ao magistrado sentenciante, nos termos do princípio do livre convencimento motivado, aplicar a fração adequada ao caso concreto, em obediência aos princípios da razoabilidade e da proporcionalidade.
+3. No caso, o Tribunal de Justiça, na segunda etapa da dosimetria, manteve a exasperação da reprimenda em 1/3 (um terço) de forma proporcional, uma vez que o aumento superior foi justificado em face da dupla reincidência do paciente, não havendo constrangimento ilegal evidente a ser reparado nesta oportunidade.
+4. Agravo regimental desprovido.
+(AgRg no HC 629.642/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/3/2021, DJe 30/3/2021).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E DIVERSIDADE DAS DROGAS. FUNDAMENTAÇÃO IDÔNEA. AGRAVANTE DA REINCIDÊNCIA. DUPLA REINCIDÊNCIA. APLICAÇÃO DA FRAÇÃO DE 1/3. AUMENTO PROPORCIONAL. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. RÉU REINCIDENTE. INAPLICABILIDADE. REGIME INICIAL. CIRCUNSTÂNCIAS DESFAVORÁVEIS. MODO FECHADO. ADEQUADO. DETRAÇÃO. TEMA NÃO DEBATIDO NA INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. ORDEM NÃO CONHECIDA.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. No termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+3. Hipótese em que as instâncias ordinárias, atentas as diretrizes do art. 42 da Lei de Drogas e do art. 59 do CP, consideraram a expressiva quantidade e a diversidade das drogas apreendidas - 86 invólucros de maconha (196,25g), 215 invólucros de cocaína (268,97g) e 96 pedras de crack (27,52g), para fixar a pena-base em 2 anos acima do mínimo legalmente previsto, o que não se mostra desproporcional.
+4. O Superior Tribunal de Justiça firmou entendimento de que, embora ausente previsão legal acerca dos percentuais mínimo e máximo de elevação da pena em razão da incidência das agravantes, o incremento da pena em fração superior a 1/6 (um sexto) exige fundamentação concreta.
+5. In casu, verificada a dupla reincidência do agente, não há ilegalidade no aumento da pena na fração de 1/3. Precedente.
+6. Os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas (art.
+33, § 4º, da Lei n. 11.343/2006).
+7. Reconhecida pela Corte de origem a reincidência do paciente, não se admite a aplicação da mencionada benesse, porquanto ausente o preenchimento dos requisitos legais. Precedente.
+8. Conforme entendimento reiterado do Superior Tribunal de Justiça, a reincidência, ainda que decorrente de apenas uma condenação transitada em julgado, pode ser utilizada para agravar a pena e, concomitantemente, para afastar a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006, sem haver falar em bis in idem.
+Precedente.
+9. Mantido o quantum da sanção corporal imposta em patamar superior a 8 anos de reclusão, é inviável a alteração do regime prisional para o aberto ou semiaberto, a teor do art. 33, § 2º, "a", do CP.
+10. O pedido de detração para fins de estabelecimento do regime prisional não foi objeto de exame pela Corte de origem, razão pela qual o Superior Tribunal de Justiça está impedido de conhecê-la, sob pena de indevida supressão de instância. Precedente.
+11. Habeas corpus não conhecido.
+(HC 389.138/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 2/5/2017, DJe 8/5/2017).
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE ENTORPECENTES. PLEITO DE REDUÇÃO DA FRAÇÃO DE AUMENTO PELA REINCIDÊNCIA. INVIABILIDADE. AUMENTO DA PENA JUSTIFICADO ANTE A DUPLA REINCIDÊNCIA DO PACIENTE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+- O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- Esta Corte firmou entendimento no sentido de que a folha de antecedentes criminais é documento válido e suficiente para comprovar os maus antecedentes e a reincidência, não sendo necessária a apresentação de certidão cartorária.
+- A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade - Em se tratando de atenuantes e agravantes, a lei não estabelece os percentuais de fração de diminuição e de aumento que devem ser utilizados. Em decorrência, a jurisprudência desta Corte firmou-se no sentido de que a fração de 1/6, mínima prevista para as majorantes e minorantes, deve guiar o julgador no momento da dosimetria da pena, de modo que, em situações específicas, é permitido o aumento superior a 1/6, desde que haja fundamentação concreta.
+- Hipótese em que a fração de 1/3, utilizada para agravar a pena na segunda fase da dosimetria, lastreou-se no fato de pesarem contra o paciente duas outras condenações definitivas (fls. 61/71), fundamentação idônea e de acordo com o postulado da proporcionalidade. Precedentes.
+- Habeas corpus não conhecido.
+(HC 291.414/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/9/2016, DJe 30/9/2016).
+No caso, a agravante da reincidência foi aplicada no patamar de 1/3, tendo em vista a existência de duas condenações anteriores transitadas em julgado, não havendo, assim, constrangimento ilegal à liberdade do ora agravante.
+Ante o exposto, voto pelo desprovimento do agravo regimental.
