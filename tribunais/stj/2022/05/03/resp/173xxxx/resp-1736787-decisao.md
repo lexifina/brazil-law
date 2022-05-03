@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial apresentado por Banco do Brasil S.A., com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fl. 545):
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. IMPOSIÇÃO DE MULTA. NÃO PAGAMENTO DE VALOR DEVIDO. SATISFAÇÃO DO DIREITO. Conforme delimitado pelo STJ: ""Para as sentenças condenatórias ao cumprimento de obrigação de pagamento de quantia em dinheiro ou na qual a obrigação possa assim ser convertida, o procedimento é o previsto no art. 475-J do CPC/73 (art. 475-I do CPC). Neste último caso, a finalidade da multa imposta para o caso de não pagamento foi a de mitigar a apresentação de defesas e impugnações meramente protelatórias, incentivando a pronta satisfação do direito previamente reconhecido.""
+Nas razões do recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, orecorrente alega violação aos arts. 523, 524 e 525 do CPC/2015.
+Assevera a necessidade de exclusão da multa prevista no § 1º do art. 523 do CPC/2015, uma vez que "o pagamento do débito exequendo se deu pelo depósito dado em garantia do juízo, ainda que o numerário não estivesse à disposição do credor diretamente" (e-STJ, fl. 570).
+Contrarrazões não apresentadas (e-STJ, fl. 574).
+O Tribunal de origem admitiu o processamento do recurso especial, ascendendo os autos a esta Corte Superior (e-STJ, fl. 585).
+Brevemente relatado, decido.
+O Tribunal estadual concluiu pelaaplicabilidadedo art. 523, § 1º, do CPC/2015, conforme se colhe dos excertos da decisão recorrida (e-STJ, fls. 551-554):
+Por ocasião da análise do pedido de antecipação de tutela, foi prolatada decisão nos seguintes termos:
+Dispõe o artigo 523, § 1º, do CPC, que:
+Art. 523. No caso de condenação em quantia certa, ou já fixada em liquidação, e no caso de decisão sobre parcela incontroversa, o cumprimento definitivo da sentença far-se-á a requerimento do exequente, sendo o executado intimado para pagar o débito, no prazo de 15 (quinze) dias, acrescido de custas, se houver.
+§ 1º Não ocorrendo pagamento voluntário no prazo do caput, o débito será acrescido de multa de dez por cento e, também, de honorários de advogado de dez por cento.
+§ 2º Efetuado o pagamento parcial no prazo previsto no caput, a multa e os honorários previstos no § 1º incidirão sobre o restante.
+§ 3º Não efetuado tempestivamente o pagamento voluntário, será expedido, desde logo, mandado de penhora e avaliação, seguindo-se os atos de expropriação.
+ ..
+Especificamente em relação ao depósito realizado pelo Banco do Brasil, para fins de impugnação, reporto-me a orientação firmada em julgado do eg. STJ (STJ, 3ª Turma, AgInt no REsp 1463684/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, julgado em 25/04/2017, DJe 10/05/2017), cujo voto condutor transcrevo parcialmente:
+ ..
+Nesse contexto, afigura-se legítima a pretensão do agravante à imposição de multa sobre o montante efetivamente devido, que não foi, de pronto (e voluntariamente), quitado integralmente pelo executado, que optou por veicular impugnação, mesmo realizando o depósito dentro do prazo legal.
+ ..
+Estando o decisum em consonância com a jurisprudência e as circunstâncias do caso concreto, não vejo motivos para alterar o posicionamento adotado, que mantenho integralmente.
+Com efeito, "ajurisprudência do STJ firmou-se no sentido de que a multa a que se refere o art. 523 do Código de Processo Civil de 2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar seu levantamento a qualquer discussão do débito. Nesse contexto, inviável o afastamento de tal sanção em decorrência prestação tão somente de seguro-garantia." (AgInt no AREsp 1904409/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/03/2022, DJe 24/03/2022).
+Nesse mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AUSÊNCIA DE PAGAMENTO VOLUNTÁRIO. APLICAÇÃO DA MULTA PREVISTA NO ART. 523, § 1º, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PAGAMENTO VOLUNTÁRIO. CABIMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Não configura ofensa ao art. 1.022 do Código de Processo Civil de 2015 o fato de o col. Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela parte recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. A jurisprudência assente do STJ é no sentido de que o pagamento constante do art. 523, § 1º, do NCPC deve ser interpretado de forma restritiva, isto é, somente é considerada como pagamento a hipótese na qual o devedor deposita em juízo a quantia devida sem condicionar o seu levantamento à discussão do débito em sede de impugnação do cumprimento de sentença, não havendo que se falar em afastamento da multa quando o depósito se deu a título de garantia do juízo.
+Precedentes.
+3. O Superior Tribunal de Justiça, no julgamento do REsp 1.134.186/RS (Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 21/10/2011), sob o rito dos recursos repetitivos, firmou entendimento no sentido de cabimento de honorários advocatícios na fase de cumprimento de sentença, haja ou não impugnação, caso não ocorra o pagamento voluntário do valor da dívida, no prazo de 15 dias, como ocorreu na hipótese.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1906380/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/05/2021, DJe 09/06/2021, sem grifo no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA.DEPÓSITO JUDICIAL. GARANTIA DO JUÍZO. INCIDÊNCIA DA MULTA DO ART. 475-J DO CPC/73 E DE HONORÁRIOS. PRECEDENTES. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Na fase de cumprimento de sentença, o montante da condenação ao pagamento de quantia certa será acrescido de multa no percentual de dez por cento se o devedor não o efetuar de forma espontânea no prazo de quinze dias, conforme estabelece o artigo 475-J do Código de Processo Civil de 1973.
+2. "O pagamento, constante do artigo 475-J do CPC/73, deve ser interpretado de forma restritiva, considerando-se somente naquelas situações em que o devedor deposita a quantia devida em juízo, sem condicionar o levantamento à discussão do débito em sede de impugnação.Se o depósito ocorreu a título de garantia do juízo, não há falar em isenção do devedor ao pagamento da multa prevista no referido dispositivo legal" (AgInt no AREsp 1.427.717/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 1º/7/2019).
+3. O Superior Tribunal de Justiça firmou compreensão, em sede de recurso especial repetitivo (REsp 1.134.186/RS, Rel. Ministro LUIS FELIPE SALOMÃO,CORTE ESPECIAL, DJe de 21/10/2011), no sentido de cabimento de honorários advocatícios na fase de cumprimento de sentença, haja ou não impugnação, caso não ocorra o pagamento voluntário do valor da dívida, no prazo de 15 dias, como ocorreu na espécie. Incidência da Súmula 83 do STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, conhecer do agravo para negar provimento ao recurso especial.(AgInt no AREsp 1.617.412/SE, Rel. MinistroRAUL ARAÚJO, QUARTA TURMA, julgado em 25/5/2020, DJe 4/6/2020, sem grifo no original)
+Desse modo, verifica-se que as conclusõesdas instâncias ordinárias a respeito das questões apresentadas no recurso especial encontram-se em sintonia com a jurisprudência desta Corte, incidindo, assim, a Súmula 83 do STJ à espécie.
+Ante o exposto,negoprovimento aorecurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA.DEPÓSITO JUDICIAL. GARANTIA DO JUÍZO. AFASTAMENTO DAS PENALIDADES DO ART. 523 DO CPC/2015. IMPOSSIBILIDADE. PRECEDENTES.RECURSO ESPECIAL IMPROVIDO.
