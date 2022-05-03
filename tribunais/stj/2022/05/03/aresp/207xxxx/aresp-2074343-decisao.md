@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interposto por Queiroz Galvão Desenvolvimento Imobiliário S.A.desafiando decisão do Tribunal de Justiça do Estado do Rio de Janeiroque não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, manejado, por sua vez, contraacórdão assim ementado (e-STJ, fl. 1.221):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO DA OBRA. SENTENÇA DE PROCEDÊNCIA PARCIAL. INCONFORMISMO DE AMBAS AS PARTES. FALHA NA PRESTAÇÃO DO SERVIÇO DA RÉ. RISCO DO EMPREENDIMENTO. ATRASO SUPERIOR A UM ANO NA ENTREGA DO IMÓVEL. CLÁUSULA PENAL QUE NÃO FOI PAGA, ADMINISTRATIVAMENTE. CABIMENTO. DANO MORAL CONFIGURADO E,BEM FIXADO. LEGALIDADE DA CLÁUSULA QUE IMPÕE AO CONSUMIDOR O PAGAMENTO DAS LIGAÇÕES DEFINITIVAS "DESDE QUE OS GASTOS SEJAM COMPROVADOS AOS AUTORES". LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA. SENTENÇA QUE SE MANTÉM. HONORÁRIOS RECURSAIS. CABIMENTO. DESPROVIMENTO DOS RECURSOS.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 1.253-1.260).
+Nas razões do recurso especial, o recorrente alegou dissídio jurisprudencial e ofensa aos arts. 489, § 1º, IV e 1.022, II, do CPC/2015; 884 e 944 do CC/2002.
+Sustentou que osimples descumprimento contratual por atraso na entrega de imóvel, por si só, não é capaz de gerar danos morais.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.326-1.341).
+O Tribunal local inadmitiu o processamento do recurso especial pela incidência das Súmulas n. 5,7 do STJ e 284 do STF, bem como pela ausência de ofensa aos arts. 489 e 1.022 do CPC/2015.
+Irresignado, orecorrenteinterpõeagravo refutando os óbices apontados pela Corte estadual.
+Sem contraminuta(e-STJ, fl. 1.418).
+Brevemente relatado, decido.
+No que se refere ao cabimento da indenização por danos morais, o aresto combatido foi proferido com base nos seguintes fundamentos (e-STJ, fl. 1.220-1232):
+Na hipótese, restou incontroverso o atraso na entrega das chaves, visto que o prazo para entrega do imóvel seria em março de 2017,com prorrogação contratual de cento e oitenta dias, sendo certo que o autor permaneceu adimplente por todo o período, restando devidamente caracterizada a falha na prestação do serviço, incidindo na hipótese o disposto no artigo 14 do CDC.
+A inadimplência dos réus se iniciou a partir de setembro de 2017, o que é confessado, sendo o imóvel entregue com "habite-se" somente em setembro de 2018.
+Sustenta a ré em seu apelo que já teria pagado o valor, relativo a cláusula penal por atraso da obra, no valor de R$ 34.805,94 (trinta e quatro mil, oitocentos e cinco reais e noventa e quatro centavos), apontando que o autor confessou o recebimento em sua inicial, no indexador 6.
+Ocorre que não se verifica tal confissão na inicial, muito pelo contrário, na verdade, os autores afirmaram que foram "chantageados" ao chegar na sede da ré, quando da tentativa frustrada de retirada de suas chaves.
+Registre-se que a ré não comprovou que, efetuou o pagamento, ônus que lhe incumbia.
+Desse modo, correta a sentença ao determinar o pagamento do valor, relativo a cláusula penal.
+Alega a ré, ainda, que prestou contas, detalhadamente.
+Ocorre que a ré se limitou a juntar documentos aleatórios, sem comprovar qualquer vínculo ou ligação de que tais gastos, descritos nos documentos, foram aplicados no empreendimento adquirido dos autores.
+Restou comprovado, portanto, que a ré não se desincumbiu do ônus de comprovar a regularidade de toda a sua cobrança, observando-se que, diante da relação de consumo, estabelecida, bem como, diante das peculiaridades da causa, caberia à construtora comprovar, por todos os meios de prova em direito admitidos, a legalidade de sua cobrança.
+Registre-se que é legal a cláusula que prevê a cobrança das ligações definitivas ao adquirente, não havendo que se falar em nulidade, considerando que os autores concordaram com tal disposição contratual, não se tratando de cláusula abusiva e a sentença vinculou a sua cobrança a sua comprovação, devendo ser mantida a sentença.
+Outrossim, a situação, causada pela ré, gerou grave abalo emocional aos autores, que viram seu sonho da casa própria ser postergado por culpa da parte ré, não se tratando de caso de mero inadimplemento contratual.
+Vale destacar que o valor, fixado, não merece reparo, eis que foi observado o princípio do enriquecimento sem causa, bem como, a extensão do dano.
+Esta Corte, contudo, possui o entendimento pacífico no sentido de que, em regra, o mero inadimplemento contratual não causa, por si só, dano moral.
+Na hipótese específica de atraso na entrega de imóvel, em decorrência do descumprimento do prazo previsto em contrato de promessa de compra e venda, essa análise deverá ser feita caso a caso, ficando afastado, em princípio, o caráter absoluto da presunção de existência do dever reparatório, salvo se existente algum fato concreto capaz de transformar a mera frustração quanto à expectativa inicial de cumprimento do prazo avençado - o que não ultrapassa a barreira do aborrecimento e dissabor próprios do cotidiano - em situação de grave abalo na esfera subjetiva do promitente comprador e, por esse motivo, capaz de ensejar reparação por danos morais.
+Com efeito, na espécie, constata-se que, apesar da mora da recorrente - o que se revela de todo indesejável -, não foi demonstrado que o atraso teria afetado, de maneira excepcional, o direito da personalidade do recorrido, não havendo que se falar, portanto, em abalo moral indenizável.
+A propósito:
+AGRAVO INTERNO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. ARTS.489 e 1022 DO CPC. SUPOSTA OMISSÃO. MENÇÃO ESPECÍFICA AO ATRASO NA ENTREGA DA OBRA. CARACTERIZAÇÃO DO DANO MORAL. PRESSUPOSTO ADOTADO PELA CORTE LOCAL NO SENTIDO DE EXIGIR CIRCUNSTÂNCIA EXCEPCIONAL PARA CARACTERIZAR O DANO MORAL. REFUTAÇÃO DA TESE RECURSAL QUE DECORRE DA CONCLUSÃO LÓGICA DO JULGADO. PRECEDENTE ALUDIDO. PERTINÊNCIA JUSTIFICADA. OMISSÃO INOCORRENTE. INCORPORAÇÃO IMOBILIÁRIA. ATRASO NA ENTREGA DO IMÓVEL. DANO MORAL NÃO CONFIGURADO. CIRCUNSTÂNCIA EXCEPCIONAL QUE ULTRAPASSA O MERO ABORRECIMENTO NÃO DEMONSTRADA.DIVERGÊNCIA JURISPRUDENCIAL SOBRE O MESMO TEMA. SÚMULA 83/STJ.AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em nulidade do acórdão por omissão, se este examinou e decidiu os pontos relevantes e controvertidos da lide e apresentou os fundamentos nos quais sustentou as conclusões assumidas.
+2. O inadimplemento contratual, consubstanciado no atraso na entrega do imóvel, não é capaz, por si só, de gerar dano moral indenizável, o que somente fica configurado quando houver circunstâncias excepcionais que, devidamente comprovadas, importem significativa e anormal violação a direito da personalidade dos promitentes-compradores. Precedentes.
+3. Hipótese em que não foi reconhecida, pelas instâncias ordinárias, a existência de nenhuma circunstância excepcional a ensejar a reparação por danos morais.
+4. Como a orientação adotada pelo acórdão recorrido está de acordo com a jurisprudência atual do STJ, não se conhece do recurso especial pela divergência jurisprudencial, ante o óbice da Súmula 83/STJ.
+5.Agravo interno não provido .
+(AgInt no REsp 1948413/RN, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/11/2021, DJe 25/11/2021).
+Na hipótese ora em análise, constata-se que o Colegiado estadual utilizou como único fundamento, para condenar a construtora à indenização por dano moral, o atraso na entrega do imóvel, caracterizando essa conduta o mero descumprimento contratual por parte dela, o qual, segundo a jurisprudência desta Corte, não enseja a citada indenização.
+Assim, de rigor a reforma do acórdão estadual quanto ao ponto, porquanto não houve a indicação de nenhuma circunstância especial a justificar a condenação ao pagamento da aludida indenização, além do atraso na entrega do imóvel adquirido.
+Ante o exposto, conheço do agravo e douprovimento ao recurso especialpara afastar a condenação da recorrente ao pagamento de indenização por danos morais.
+Diante da sucumbência recíproca constatada nos autos determino a redistribuição da verba honorária sucumbencial em50% (cinquenta por cento) para cada litigante.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO DA OBRA.1.DANOS MORAIS.NÃO OCORRÊNCIA. MERO INADIMPLEMENTO CONTRATUAL.2.AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
