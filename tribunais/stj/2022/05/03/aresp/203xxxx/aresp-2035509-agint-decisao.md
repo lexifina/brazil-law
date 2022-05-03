@@ -1,0 +1,32 @@
+DECISÃO
+Em virtude das razões expostas na petição de fls. 366-371, e-STJ, reconsidero a decisão de fls. 361-363(e-STJ), proferida pela Presidência desta Corte Superior, afastando a falta de impugnação ao artigo 1.022 do Código de Processo Civil, porquanto houve a impugnação desse fundamento no agravo em recurso especial ora ajuizado.
+Dessa forma, passo à nova análise do agravo interposto por TADEU REGINALDOcontra decisão que negou seguimento ao recurso especial, em face de acórdão assim ementado:
+EMENTA - RECURSOS DE APELAÇÃO - INEXISTÊNCIA DE RELAÇÃO JURÍDICA, REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS - DESCONTOS INDEVIDOS EM BENEFÍCIO PREVIDENCIÁRIO - RESTITUIÇÃO - DANO MORAL IN RE IPSA - QUANTUM REDUZIDO - HONORÁRIOS SUCUMBENCIAIS MANTIDOS - JUROS DE MORA A PARTIR DO EVENTO DANOSO.
+1. O contrato de mútuo é considerado juridicamente inexistente quando ausente o repasse do dinheiro ao consumidor.
+2. O desconto indevido em aposentadoria de consumidor, gera o dever de indenizar, independentemente da comprovação do dano, por ser in re ipsa.
+3. Redução do valor fixado a título de compensação por danos morais, para adequá-lo às circunstâncias do caso concreto.
+4. Restituição de forma simples do valor descontado em benefício previdenciário, em razão de pagamento indevido.
+5. Valor referente aos honorários advocatícios mantido, pois adequado às circunstâncias do caso concreto.
+6. Tratando-se a discussão de relação extracontratual, os juros moratórios devem incidir a partir do evento danoso, conforme enunciado da Súmula n.54 do Superior Tribunal de Justiça.
+Recurso do réu conhecido e parcialmente provido. Recurso da parte autora prejudicado em parte e, na parte conhecida, desprovido.
+Nas razões de recurso especial, a parte agravante alega violação dos arts. 489, II,e § 1º, IV, e 1022 do Código de Processo Civil; 186, 927 e 944do Código Civil; 6º, VI, e 14do Código de Defesa do Consumidor e 5º, X, da Constituição Federal.Aponta que houve negativa de prestação jurisdicional. Argumenta que deveria ser majorado o valor indenizatório fixado nos autos.
+Sustenta que, "No caso, o montante mantido pelo Tribunal de origem se mostra ínfimo, incompatível com os princípios da proporcionalidade e razoabilidade, justificando sua reavaliação" (fl. 312).
+Assim delimitada a controvérsia, passo a decidir.
+No tocante às alegações de ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, verifico que essas não merecem prosperar. Isso porque não configura ausência de fundamentação ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pela parte recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados. Nesse sentido: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1º/3/2016.
+Com efeito, o Tribunal de origem, ao julgar a causa, apresentou manifestação nos seguintes termos (fls. 276-278):
+Logo, correta a condenação do réu à devolução simples dos valores descontados do benefício previdenciário do autor.
+Por sua vez, diante do defeito na prestação do serviço, os danos morais decorrentes dos descontos indevidos do benefício previdenciário do apelado são indenizáveis.
+O dano moral, em casos como o presente, é considerado in re ipsa, pois decorrem dos próprios fatos que deram origem à propositura da ação, sendo desnecessária a prova do efetivo prejuízo sofrido pela autora da demanda. Além disso, é presumível o dano moral sofrido pela pessoa que tem descontado de seu benefício previdenciário parcelas de empréstimo que não contratou.
+(..).
+Por isso, mantenho a condenação ao pagamento de compensação por danos morais.
+Quanto ao quantum compensatório, compete ao magistrado, por falta de parâmetro legal e doutrinário a servir de norte para o arbitramento dos danos morais, a árdua missão de dosar a verba compensatória em situações como a versada. A reparação, por certo, não visa apenas a mitigar os efeitos dos sentimentos negativos sofridos pela vítima, mas também a inibir a reiteração da conduta ilícita perpetrada.
+Nessas circunstâncias, considerando o montante descontado mensalmente do benefício previdenciário da parte autora (R$ 10,00), a inexistência de restrição em seu nome, a capacidade econômica das partes, a extensão dos danos causados pela conduta ilícita e o caráter pedagógico da condenação, reduzo o valor da indenização fixada para R$ 1.000,00 (mil reais), suficiente para recompensar o desconforto sofrido.
+Dessa forma, o Tribunal de origem, com base nos fatos e provas dos autos,fixou o valor da indenização por danos morais na quantia de R$ 1.000,00 (mil reais), na hipótese dos autos.
+Nesse sentido, verifico que a revisão do entendimento proferido pelo Colegiado estadual - no sentido de majorar o valor indenizatório ora arbitrado, considerando o conjunto probatório disposto nos autos, - demandaria nova investigação acerca dos fatos e provas contidos no processo, de modo que o recurso especial esbarra na Súmula n. 7 do STJ.
+Assim, de acordo com a jurisprudência do STJ, em regra, não cabe, em recurso especial, a revisão do montante dessa espécie de compensação, por conta do óbice da Súmula 7/STJ, que veda o reexame de provas. Apenas em casos excepcionais, quando identificada a estipulação de valores exagerados ou irrisórios, incompatíveis com os princípios da proporcionalidade e da razoabilidade, é possível tal revisão.
+É certo que o Superior Tribunal de Justiça considera, excepcionalmente, cabível, em recurso especial, o reexame do valor arbitrado a título de danos morais, quando excessivo ou irrisório (AgRg no REsp 959.712/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 30.11.2009 e AgRg no Ag 939.482/RJ, Rel.Ministro FERNANDO GONÇALVES, QUARTA TURMA, DJ de 20.10.2008, entre outros).
+No caso, em que a compensação foi fixada em R$ 1.000,00 (mil reais), entendo bem observados os padrões de razoabilidade e proporcionalidade, não se configurando situação cuja excepcionalidade justifique a intervenção do STJ.
+Em face do exposto, nego provimento ao agravo.
+Deixo de proceder à majoração dos honorários advocatícios, visto que o Tribunal de origem não condenou a parte agravante a pagá-los.
+Intimem-se.
