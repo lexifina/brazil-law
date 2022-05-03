@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por BUSSCAR ÔNIBUS S. A. com apoio no art. 105, III, "a", da Constituição Federalcontra acórdão proferido pelo Tribunal Regional Federal da 4ª Regiãoassim ementado (e-STJ fl. 5.955).
+EMBARGOS À EXECUÇÃO FISCAL. FGTS. NECESSIDADE DE HABILITAÇÃO DO CRÉDITO NA FALÊNCIA. LEGITIMIDADE DA CEF. PAGAMENTO DIRETO AOS EMPREGADOS. AUSÊNCIA DE PROVA. REQUISITOS DA CDA. PRESUNÇÃO DE LIQUIDEZ E CERTEZA.
+1. A execução fiscal não se sujeita ao concurso de credores ou habilitação na falência, mantendo sua autonomia e seu curso independente (Lei nº 6.830/80, art. 29).
+2. A Caixa Econômica Federal possui legitimidade ativa para representar a Procuradoria-Geral da Fazenda Nacional na cobrança do FGTS, por força do convênio disposto no art. 2º da Lei nº 8.844/94.
+3. As verbas habilitadas no Juízo falimentar devem ser excluídas da execução fiscal, a fim de evitar a duplicidade na cobrança. No caso dos autos, apesar dos diversos documentos apresentados com os embargos, não há como o juízo investir-se na função contábil e analisá-los, um a um, em cotejo com o crédito exequendo, porquanto a perícia contábil seria essencial para comprovar a alegação do excesso de execução.
+4. Consoante disposição do art. 204 do CTN e do art. 3º da Lei nº 6.830/80, a dívida regularmente inscrita goza da presunção de certeza e liquidez, somente podendo ser ilidida por prova inequívoca em sentido contrário.
+Opostos embargos de declaração, foi publicado acórdão integrativo, com a seguinte ementa (e-STJ fl. 5.989):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO SANADA.1. Os embargos declaratórios são cabíveis quando o acórdão contém obscuridade, contradição ou omissão, nos termos do art. 535 do CPC. Ausência desses pressupostos. 2. Embargos acolhidos em parte tão-somente para sanar a omissão apontada, restando inalterado o provimento da apelação.
+Defende a parte recorrente, preliminarmente, violação dos arts. 489, §1º, IV, e 1.022, II, do CPC/2015.
+No mérito, afirma que houve ofensa aos arts. 29, da Lei n. 6.830/1980, e 267, VI, do CPC/1973, argumentando, em síntese, que: a) o crédito de FGTS não tem natureza jurídica de dívida ativa propriamente dita, e por isso não deveria integrar apenas habilitação no juízo da falência; b) não há interesse de agir da CEF, já que para a recorrente, o "crédito é do trabalhador, possui natureza trabalhista; logo, está inscrito na relação de credores para pagamento nos moldes previstos na legislação falimentar". E complementa que "mesmo que não estivesse inscrito na falência - o que se faz para melhor argumentar - caberia ao verdadeiro credor (o trabalhador) apresentar habilitação  .. ".
+Fundamenta violação dos arts.: 397 do CPC/1973; 435 do CPC/2015, aduzindo que o edital é documento novoe que provaria a cobrança de FGTS em duplicidade.
+Passo a decidir.
+Inicialmente, registro que não se pode falar em violação aos art. 489, §1º, IV, do CPC/2015, porquanto, ainda que se considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal, não há necessariamente ausência de manifestação quanto às questões suscitadas pela parte recorrente.
+Não se pode confundir o resultado desfavorável ao litigante com decisão aquém dos limites da lide, motivo pelo qual não se constata violação do preceito apontado.
+A Corte local enfrentou todos argumentos da sociedade empresária, fundamentando expressamente: a) o porquê de ter admitido a manutenção da cobrança de FGTS por execução fiscal, mesmo após a decretação de falência; b) o motivo pelo qual entendeu haver interesse de agir da CEF e; c) a razão de considerar não provada a cobrança em duplicidade do crédito fundiário, especialmente porque preclusa a possibilidade de juntar documento que não era novo.
+Portanto, a prestação jurisdicional foi dada na medida da pretensão deduzida, não havendo nulidade do acórdão.
+Além disso, registro que não há violação do art. 535 do CPC/1973 (1.022 do CPC/2015) quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado, como no caso dos autos.
+Após a oposição dos aclaratórios, o acórdão se manifestou sobre todas as questões controvertidas.
+Além disso, o magistrado não está obrigado a responder a todas as alegações das partes, nem tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, rel. MinistroNapoleão Nunes Maia Filho, Primeira Turma, DJe 29.9.2014.
+Rejeito, portanto, a alegação de ofensa aos arts. 489, §1º, IV, e 1.022, II, do CPC/2015.
+Passo ao exame do mérito.
+Adianto que a Corte Regional adotou solução consonante com a jurisprudência consolidada deste Tribunal, firme no sentido de reconhecer a pertinência subjetiva da Caixa Econômica Federal para ajuizar execução fiscal para a cobrança dos valores devidos ao FGTS, em razão do que dispõe a Lei n. 8.844/1994.
+Nesse sentido: AgInt no REsp 1464086/PE, rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 29/04/2020, DJe 05/05/2020; REsp 1.664.000/RS, rel. MinistroHERMAN BENJAMIN, SEGUNDA TURMA, DJe 17/5/2017; AgRg no AREsp 326.843/RJ, rel. MinistroBENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 12/11/2014.
+Portanto, aplica-se ao caso a Súmula 83/STJ.
+Aliás, a supracitada Lei n. 8.844/1994, no art.2º, deixa evidente a necessidade de inscrever em dívida ativa os débitos fundiários. Com isso, a execução fiscal claramente se mostra como o meio adequado para cobrança judicial dos valores, os quais não se sujeitam ao concurso de credores ou habilitação em falência (arts. 1º e 29 da Lei n. 6.830/1980).
+No que concerne ao argumento de excesso de execução, devido à (suposta) cobrança em duplicidade dos valores, o acórdão regional rejeitou a alegação com o fundamento de que não havia prova nos autos nesse sentido.
+Considerou, ainda, que a prova acostada pelos recorrentes para demonstrar o alegado não se tratava de documento novo, pelo que não poderia ter sido acostada.
+A revisão de ambas as conclusões, necessariamente, pressupõe a imersão no contexto fático-probatório dos autos, pretensão que esbarra no óbice da Súmula 7/STJ.
+Ante o exposto, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE provimento.
+Publique-se. Intimem-se.
