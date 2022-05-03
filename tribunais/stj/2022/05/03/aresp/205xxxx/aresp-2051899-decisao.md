@@ -1,0 +1,42 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por Centrais Elétricas Brasileiras S.A., com amparo naalínea "a"do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 56):
+AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE SENTENÇA. EMPRÉSTIMO COMPULSÓRIO. ELETROBRÁS. JUROS REMUNERATÓRIOS DE 6% AO ANO. TERMO FINAL. DATA DO EFETIVO PAGAMENTO AO CONSUMIDOR.
+1. Não se conhecede recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+2. Nos embargos de divergência no REsp 790.288, o STJ pacificou o entendimento de que os juros remuneratórios de 6% ao ano sobre o saldo remanescente do empréstimo compulsório não cessam na AGE que deliberou pela conversão do crédito originário. Esses juros continuam incidindo sobre o saldo inadimplido até a data do efetivo pagamento das diferenças aos consumidores.
+Os embargos de declaração opostos contra aludido pronunciamento foram acolhidos, nos seguintes termos (e-STJ, fl. 119):
+EMBARGOS DE DECLARAÇÃO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. PREMISSA EQUIVOCADA. CORREÇÃO. TERMO FINAL DOS JUROS REMUNERATÓRIOS. EXPRESSA PREVISÃO DO TÍTULO EXECUTIVO. EFETIVO PAGAMENTO AO CONSUMIDOR.
+1. A despeito de eventual alteração no atual posicionamento do STJ quanto ao termo final dos juros remuneratórios, no caso concreto o título judicial transitado em julgado disciplinou a questão, determinando sua incidência "até a data do efetivo pagamento, para a restituição plena do empréstimo compulsório".
+2. Assim, prevalece a eficácia preclusiva da coisa julgada, nos termos do art. 502 do CPC, não comportando a impugnação ao cumprimento de sentença uma reanálise da matéria decidida no título em execução.
+A parte recorrente defende violadas as disposiçõesdos arts. 4º, § 9º, da Lei n. 4.156/1962 e 3º do Decreto-Lei n. 1.512/1976.
+Foram apresentadas contrarrazões.
+O recurso especialfoi inadmitido na origem, em virtude do verbete 83 da Súmula do STJ.
+É o relatório.
+Impugnados os fundamentos de inadmissibilidade, passo à análise do recurso especial.
+Da detida apreciação dos autos, verifica-se que permanecem incólumes os fundamentos do aresto combatido quanto à necessidade de preservação do comando contido no título judicial transitado em julgado que embasa o pleito de cumprimento de sentença.
+Confira-se, no ponto, o seguinte referente ao pronunciamento atacado (e-STJ, fl. 122):
+Embora o acórdão embargado tenha se alinhado no sentido do atual posicionamento do STJ acerca do termo final dos juros remuneratórios (EREsp 790.288), no caso concreto, tal questão está disciplinada expressamente no título executivo transitado em julgado (no mesmo sentido do EREsp 790.288). Transcrevo o excerto do acórdão deste Regional que enfrenta a matéria:
+ Apelação cível n. 2004.72.08.002621-7/SC - originário, evento 1,TIT_EXEC_JUD7, fl. 128) :
+5. Juros
+Os juros de 6% ao ano, previstos no art. 2º, caput, e § 2º, do DL nº 1.512/76, são compensatórios do capital emprestado e não moratórios, devem fluir desde a data do recolhimento do tributo e são devidos até a data do efetivo pagamento, para a restituição plena do empréstimo compulsório. Afasta-se, com isso, qualquer pretensão tendente a considerar o dies a quo dos juros somente a partir de primeiro de janeiro do ano seguinte ao do efetivo recolhimento, pelos mesmos motivos pelos quais se afastou a legislação de regência em relação à correção monetária.
+Efetuado o pagamento do empréstimo compulsório, antes de decorrido o prazo de vinte anos para o resgate, através da conversão em ações preferenciais da ELETROBRÁS cessa o pagamento dos juros compensatórios, relativamente ao montante antecipado.
+O resgate dos juros poderá ocorrer através de compensação nas contas de fornecimento de energia elétrica do mês de julho de cada ano - forma prevista no art. 2º, caput, e § 2º, do Decreto-Lei nº 1.512/76 -, em ações preferenciais da ELETROBRÁS - opção dada pelo art. 4º, § 9º, da Lei nº4.156/62 -, ou em dinheiro, quando da liquidação do julgado, cabendo ao devedor a escolha sobre a forma de pagamento. A sentença determinou que os juros decorrentes das correções monetárias devidas, que não se acham vencidos, deverão ser objeto de compensação com faturas de energia elétrica vincendas. Como não houve recurso da autora a respeito da forma de pagamento dos juros, mantenho a sentença no ponto.
+Assim, a despeito de eventual mudança no entendimento do STJ, no caso vertente, prevalece a eficácia preclusiva da coisa julgada, nos termos do art. 502 do CPC, não comportando a impugnação ao cumprimento de sentença uma reanálise da matéria alusiva ao termo final dos juros remuneratórios - os quais "são devidos até a data do efetivo pagamento, para a restituição plena do empréstimo compulsório". Por oportuno, verifica-se que a planilha de execução não inclui juros remuneratórios "relativamente ao montante antecipado", isto é, sobre o montante do ECE resgatado por ocasião da 143ªAGE da Eletrobras.
+Taisfundamentos são suficientes à manutenção do julgado e não foram devidamente refutados nas razões do recurso especial.
+Ausente impugnação a fundamento suficiente para manter o acórdão questionado, o recurso especial não merece ser conhecido, por lhe faltar interesse recursal, consoante enunciado 283 da Súmula do STF, aplicável, por analogia, ao recurso especial.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO SUBMETIDO AO ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ESTAÇÃO DE TRATAMENTO DE ESGOTO. SENTENÇA ANULADA POR CERCEAMENTO DE DEFESA.
+1. O Tribunal de Justiça do Estado do Paraná anulou a sentença de improcedência do pedido de indenização por danos morais ajuizado contra a SANEPAR pelo entendimento de que houve cerceamento de defesa no julgamento antecipado da lide.
+2. Não há falar em violação ao art. 1.022 do CPC/2015, pois não remanesceu sem apreciação vício relevante apresentado em embargos de declaração. A Corte de origem consignou que os temas da inversão do ônus da prova, da fixação da verba honorária e da teoria do risco integral deverão ser apreciados pelo juízo de primeiro grau, que retomará o processamento da causa.
+3. Quanto ao mais, em relação aos temas acima mencionados, o recurso especial não pode ser conhecido, pois a parte recorrente apresentou razões recursais dissociadas dos fundamentos do acórdão recorrido de que tais temas restaram prejudicados, suficientes por si sós para a sua manutenção. Incidência das Súmulas 284 e 283 do STF.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp n. 1.463.298/PR, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/11/2019, DJe de 27/11/2019).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CRÉDITOS RURAIS ORIGINÁRIOS DE OPERAÇÕES FINANCEIRAS CEDIDOS À UNIÃO. MEDIDA PROVISÓRIA N. 2.196-3/2001. DÍVIDA ATIVA DA UNIÃO. SÚMULA N. 83/STJ. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. FALTA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. MAJORAÇÃO DE HONORÁRIOS. ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO CABIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+ ..
+VI - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+ ..
+IX - Agravo Interno improvido.
+(AgInt no REsp n. 1.629.094/RS, relatora MinistraREGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 27/6/2017, DJe de 3/8/2017).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
