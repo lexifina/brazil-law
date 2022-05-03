@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO. COBRANÇA DE SEGURO OBRIGATÓRIO - DPVAT. HONORÁRIOS SUCUMBENCIAIS - MANUTENÇÃO. ART. 85, § 2º, CPC. DESPROVIMENTO. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS - ART. 85, §11, CPC.
+1 - O arbitramento dos honorários advocatícios sucumbenciais nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, será fixado por análise equitativa, levando em consideração o grau de zelo do profissional, o lugar da prestação de serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço. (art. 85, § 2º, Código de Processo Civil).
+2 - Mantém-se os honorários advocatícios arbitrados dentro dos parâmetros da razoabilidade e proporcionalidade.
+3 - Apelo conhecido e desprovido.4 - Majoração dos honorários recursais em favor do apelado, nos termos do art. 85, § 11, CPC.
+Alegou-se, no especial, violação do artigo 85, § 2º, do Código de Processo Civil sob o argumento de que "a Recorrente sofrera uma condenação, R$ 843,75 (oitocentos e quarenta e três reais e setenta e cinco centavos), sendo também dito valor correspondente ao proveito econômico da causa, ou seja, em uma situação como essa, o correto seria estabelecer o valor dos honorários advocatícios entre o mínimo de dez e o máximo de vinte por cento, sobre o valor da condenação, e não com base na apreciação equitativa, como fez o juízo de segundo grau" (e-STJ, fl. 185).
+Assim determinada a controvérsia, passo a decidir.
+O Tribunal local, em que pese afirmar que houve condenação dos honorários advocatícios por equidade, houve, em verdade, a referida condenação em percentual sobre o valor da causa, diante do baixíssimo proveito econômico.
+Assim constou na sentença:
+"Na confluência do exposto, Julgo Procedentes os pedidos iniciais, conforme dispõe o art. 487, I, do CPC, condenando a requerida ao pagamento de indenização do seguro DPVAT à parte autora, no valor de R$ 843,75 (oitocentos e quarenta e três reais e setenta e cinco centavos), corrigido monetariamente pelo INPC a partir da data do sinistro até a data do efetivo pagamento, acrescido de juros legais de 1% ao mês, desde a citação.
+Condeno a requerida, ainda, ao pagamento das despesas processuais (art. 82, § 2º,CPC) e honorários advocatícios, os quais fixo em 10% sobre o valor da causa" (e-STJ, fl. 128).
+Os referidos honorários foram elevados a R$ 1.500,00 (mil e quinhentos reais) por ocasião do não provimento da apelação, os quais se encontram dentro dos limites legais estabelecidos no artigo 85, § 2º, do Código de Processo Civil,considerando-se que à causa foi atribuído o valor dede R$ 13.500,00 (treze mil e quinhentos reais)" (e-STJ, fl. 5).
+O entendimento está, pois, de acordo com a jurisprudência desta Casa.
+A saber:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. EXECUÇÃO INDIVIDUAL. PROVIMENTO DO RECURSO PARA EXTINGUIR A EXECUÇÃO. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS FIXADOS SOBRE O VALOR DO PROVEITO ECONÔMICO. ARBITRAMENTO POR EQUIDADE. INVIABILIDADE. ART. 85, § 2º, DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de impugnação específica, na petição de agravo em recurso especial, dos fundamentos da decisão que não admite o apelo especial atrai a aplicação do artigo 932, III, do Código de Processo Civil de 2015.
+2. De acordo com a jurisprudência desta Corte, "os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, nos seguintes termos: 1º) com base no valor da condenação; 2º) não havendo condenação ou não sendo possível valer-se da condenação, por exemplo, porque irrisória, com base no proveito econômico obtido pelo vencedor; ou 3º) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa" (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe de 29/03/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1879243/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/10/2021, DJe 17/11/2021)
+O reexame da questão encontra, portanto, os óbices de que tratam os enunciados n. 7 e 83 da Súmula desta Corte.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
