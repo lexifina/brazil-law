@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interno interposto por Ccisa08 Consultoria Imobiliária Ltda. eJaguariúna Empreendimentos Imobiliários Ltda. contra decisão monocrática da Presidência desta Corte (e-STJ, fls. 831-833) que não conheceu do agravo, entendendo pela ausência de impugnação do fundamento da decisão que inadmitiu o recurso na origem.
+Nas razões do agravo interno (e-STJ, fls. 836-847), sustentam as insurgentes terem impugnado, no agravo em recurso especial, a incidência da Súmula 7/STJ.
+Pede, assim, a reconsideração do decisum.
+Impugnação às fls.850-855 (e-STJ).
+Brevemente relatado, decido.
+Tendo em vista as razões apresentadas nesta oportunidade, bem como aquelas contidas no agravo em recurso especial, verifica-se que a insurgente combateu satisfatoriamente naquela oportunidade a alegada incidência da Súmula 7/STJ.
+Portanto, em juízo de retratação, nos termos do § 6º do art. 259 do RISTJ, reconsidero a decisão de fls. 831-833 (e-STJ) e passo a nova análise do recurso.
+Da acurada análise do acórdão recorrido, verifica-se que o Tribunal de origem concluiu pela ocorrência de danos morais decorrente do mero descumprimento do prazo previsto para o iníciodas obras de construção.
+Veja-se às fls. 699-700 (e-STJ):
+O atraso no início das obras do imóvel gera grande incerteza ao adquirente, que chega a imaginar que o bem nunca será entregue e dá ensejo a busca de medidas que possam resguardar seus interesses. Isso não enseja apenas prejuízos patrimoniais, mas também dano moral pela ofensa à própria dignidade humana, que foi erigida em direito fundamental pelo art. 1º da Constituição da República.É inimaginável o sofrimento imposto a um cidadão que, a par das dificuldades financeiras, reúne todas suas economias para a aquisição de um imóvel e depois vê o empreendimento, em alguns casos, sequer sair do papel. Assim é que, não tendo o construtor/incorporador cumprido o prazo contratual objetivo e simples, deve responder pelos custos de seu retardo, nos termos da avença e com base na Teoria do Risco do Empreendimento a que se submete em função da atividade desempenhada (arts. 927, CC/02; 12 e 14, caput e §1º, CDC). Nesta linha de raciocínio, uma vez configurado o dano moral, resta agora aquilatar o valor de sua compensação pecuniária.
+Ocorre que a jurisprudência desta Corte é no sentido de que o mero descumprimento do prazo de entrega do imóvel não gera danos morais.
+Nesse sentido:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC/2015 NÃO EVIDENCIADA. LUCROS CESSANTES. TERMO FINAL. ENTREGA DAS CHAVES. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. ATRASO EXCESSIVO NA ENTREGA. DANO MORAL CONFIGURADO. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. De acordo com a jurisprudência desta Corte, no sentido de que "há presunção de prejuízo ao adquirente, em virtude da privação do uso do imóvel a partir da data contratualmente prevista para a entrega das chaves, sendo devida a condenação da empresa ao pagamento de indenização por lucros cessantes até à data da disponibilização das chaves" (AgInt no REsp 1.792.742/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 26/8/2019, DJe de 30/8/2019).
+3. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que o atraso foi de aproximadamente 2 anos após o prazo de tolerância.
+4. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 30.000, 00 (trinta mil reais), sendo R$ 15.000,00 (quinze mil reais) para cada recorrido, não é exorbitante nem desproporcional aos danos causados, em razão do atraso excessivo na entrega do imóvel.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.977.767/RJ, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 21/03/2022, DJe 25/04/2022).
+Ora, se o mero atraso na entrega do imóvel não é capaz, por si só, de gerar danos morais, menos ainda o mero atraso do início das obras.
+Dessa forma, a decisão recorrida não refletiu o entendimento desta Corte, razão pela qual merece reforma.
+Ante o exposto, em juízo de retratação da decisão de fls. 831-833 (e-STJ), conheço do agravo para conhecer do recurso especial e dou-lhe provimento para afastar a condenação das recorrentes à indenização por danos morais.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO ANTERIOR. NOVA ANÁLISE DO RECURSO. MERO DESCUMPRIMENTO DO PRAZO PARA O INÍCIO DAS OBRAS. NÃO OCORRÊNCIA DE DANOS MORAIS. EM JUÍZO DE RETRATAÇÃO, AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E DAR-LHE PROVIMENTO.
