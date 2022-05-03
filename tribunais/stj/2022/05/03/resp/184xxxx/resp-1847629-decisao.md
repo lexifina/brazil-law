@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por RL CONSTRUÇÕES LTDA., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fls. 240/241):
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DE RESCISÃO DE CONTRATO CUMULADA COM INDENIZAÇÃO POR PERDAS E DANOS. INADIMPLEMENTO DO PROMITENTE COMPRADOR. RETORNO AO STATUS QUO ANTE. PRESCRIÇÃO DA AÇÃO. CLÁUSULA PENAL. JUROS COMPENSATÓRIOS. CORREÇÃO MONETÁRIA. ALUGUÉIS. PRESCRIÇÃO TRIENAL. APELO DOS RÉUS. PRESCRIÇÃO: A resolução contratual se submete ao prazo prescrição decenal não implementada, tendo em vista a interrupção face notificação extrajudicial.
+INDENIZAÇÃO PELO USO DO IMÓVEL. PRESCRIÇAO: Reconhecido por sentença a rescisão do contrato por inadimplemento do promitente comprador, viável a fixação de aluguel pelo uso do imóvel, até a efetiva reintegração da parte autora na posse do bem, devendo ser reconhecida a prescrição parcial do pedido de indenização, ainda que de ofício, considerando o prazo trienal aplicável à espécie, contados a partir do ajuizamento da ação. Inteligência do art. 206, § 3º, I do CC/02.
+HONORÁRIOS. MINORAÇÃO: Considerando as modulares do artigo 85, do CPC, deve ser provido o pedido de minoração dos honorários advocatícios de 20% para 12% sobre o valor da condenação.
+SUCUMBENCIA: Mantido o ônus sucumbencial de inteira responsabilidade dos réus, pois a parte autora decaiu em parte mínima dos pedidos.
+RECURSO ADESIVO DA PARTE AUTORA. CLÁUSULA PENAL: Cabível a incidência da cláusula penal, cujo contrato prevê a retenção de 25% sobre o valor pago e ser devolvido aos promitentes compradores.
+JUROS COMPENSATÓRIOS: Não obstante a previsão de perdimento da integralidade dos juros compensatórios, inviável conceber que o pagamento a tal título não integrou o preço dobem, face estipulação onerosa ao promitente comprador. Considerando a resolução do contrato, deve a promitente vendedora efetuar a devolução dos valores pagos pelos promitentes compradores,de que é permitida a retenção de 25% (cláusula penal).
+CORREÇÃO MONETÁRIA: Relativamente aos valores a serem devolvidos aos promitentes compradores, ou seja, àqueles efetivamente pagos por eles, a correção monetária pelo IGP-M deve incidir desde o desembolso, conforme determinou a sentença. DERAM PARCIAL PROVIMENTO AO APELO DOS RÉUS. DERAM PARCIAL PROVIMENTO AO RECURSO ADESIVO DA PARTE AUTORA. DE OFÍCIO, DECLARARAM A PRESCRIÇÃO TRIENAL DOS LOCATIVOS.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação doart. 205 do Código Civil, sustentando a incidência da prescrição decenal aos valores referentes à indenização por utilização indevida do imóvel.
+Afirma, a par de dissídio jurisprudencial, que não se trata de ação de cobrança de aluguéis, mas de rescisão do contrato de compra e venda por inadimplência e, portanto, a necessidade de fixação da indenização pela utilização do imóvel.
+Contrarrazões não apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse merece provimento, senão vejamos.
+Cinge-se a controvérsia sobre pedido de rescisão do contrato de compra e venda c/c pagamento de perdas e danos em virtude de inadimplência, bem como daincidência da prescrição decenal, prevista no art. 205 do CC, à pretensão de recebimento da indenização pelo uso do imóvel.
+Sobre o tema, o Tribunal de origem consignou que incidiria ao caso a prescrição decenal, no que se refere ao pedido de rescisão do contrato em virtude da inadimplência; e (ii) a incidência da prescrição trienal, nos termos do art.206, § 3º , I , do CC no que se refere à pretensão de cobrança de aluguel pelo uso do imóvel. Confira-se:
+PRESCRIÇÃO.
+Alegam os réus, promitentes compradores, a ocorrência da prescrição decenal, pois a inadimplência iniciou em 2004, enquanto que a ação foi ajuizada em 2014.
+Razão não lhes assiste.
+No caso dos autos, trata-se de ação de rescisão de contrato de compra e venda, baseada no inadimplemento, vez que o inadimplemento iniciou em fevereiro/2003 (fl. 02) e a última parcela tem como vencimento fevereiro/2013 (fl.26), enquanto que a ação foi ajuizada em 24.11.2014 (fl. 02).
+A parte autora busca a rescisão do contrato pelo inadimplemento da demandada, ou seja, pelo descumprimento contratual, (relação obrigacional-pessoal), do qual consta expressamente as penalidades previstas para a parte inadimplente, razão pela qual o prazo aplicável é o decenal, conforme previsão do art. 205 do CCB, in verbis:
+ ..
+INDENIZAÇÃO PELO USO DO BEM. PRESCRIÇÃO.
+Reconhecido por sentença a rescisão do contrato diante do inadimplemento dos réus, promitentes compradores, viável a fixação de aluguel pelo uso do imóvel, até a efetiva reintegração da parte autora na posse do bem.
+A condenação da parte requerida ao pagamento de alugueis pelo tempo em que usufruiu do imóvel mostra-se cabível, porquanto decorre do uso do mesmo sem a justa contrapartida a parte adversa.
+ ..
+Em verdade, a indenização é decorrente do uso indevido do imóvel de parte do comprador. E, assim, é possível a cobrança de aluguel pelo uso do imóvel.
+ ..
+No entanto, deve ser reconhecida, de ofício, a prescrição das parcelas pertinentes aos locativos a serem quitados pelos réus, em favor da parte autora, porquanto se aplica a regra do artigo 206, § 3º, I do Código Civil brasileiro, de forma retroativa, a partir do ajuizamento da ação.
+É orientação consolidada deste órgão fracionário que a prescrição dos locativos em cobrança, em contratos e relação processualdeste jaez, o prazo é de três anos, a fim de se evitar enriquecimento ilícito daquele que se manteve inerte, por longos anos, em indenização pelo uso do imóvel  ..  (e-STJ, fls. 247/250 - sem destaque no original).
+Nos termos da jurisprudência desta Corte, aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões decorrentes de inadimplemento contratual.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA DE CITAÇÃO DO DISPOSITIVO DA LEGISLAÇÃO FEDERAL VIOLADO. SÚMULA 284/STF. RESCISÃO CONTRATUAL. DECADÊNCIA. PRAZO DECENAL NÃO IMPLEMENTADO. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. REEXAME. SÚMULA 7/STJ. CONTRATO DE PROMESSA DE COMPRA E VENDA. DESCUMPRIMENTO. UTILIZAÇÃO DO BEM. TAXA DE FRUIÇÃO. FIXAÇÃO. PRESCRIÇÃO. TERMO INICIAL. PRINCÍPIO DA ACTIO NATA. DATA DA CONDENAÇÃO. INCORREÇÃO NO CÁLCULO DO VALOR. FALTA DE IMPUGNAÇÃO. SÚMULA 283/STF. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O recurso especial possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão pela aplicação da Súmula 284/STF.
+2. O entendimento jurisprudencial vigente no STJ manifesta-se no sentido de que, nas demandas envolvendo rescisão contratual, a prescrição obedece ao prazo decenal do art. 205 do CC/2002.
+3. Concluindo o Tribunal local que a relação jurídica estabelecida entre as partes possui natureza contratual e pessoal e que o prazo prescricional decenal não foi implementado, fica o STJ impedido de rever o posicionamento adotado, ante a incidência da Súmula 7/STJ.
+4. Em virtude de o entendimento do acórdão recorrido encontrar-se em harmonia com a jurisprudência deste Tribunal Superior, bem como pela aplicação do enunciado da Súmula 7/STJ, não é possível a apreciação da divergência jurisprudencial apontada.
+5. Segundo orientação deste Superior Tribunal, não há falar em julgamento fora dos limites da demanda quando o julgador, mediante interpretação lógico-sistemática, examina a pretensão deduzida em juízo como um todo.
+6. Atestando a instância originária, mediante análise fático-probatória, que a apreciação da ação considerou todos os pedidos incluídos na exordial, descabe a esta Corte Superior a modificação da conclusão, em virtude da incidência da Súmula 7/STJ.
+7. Aplicado o princípio da actio nata, o transcurso do lapso temporal só tem início com o inequívoco conhecimento da parte acerca do direito violado.
+8. Considerando que os fundamentos do acórdão recorrido não foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+9. Reconhecido pelo Tribunal estadual que os insurgentes deixaram de impugnar a questão referente ao equívoco no cálculo da indenização por perdas e danos, ficada vedada a esta Corte a modificação da conclusão acolhida, já que esbarra na Súmula 7/STJ.
+10. Agravo interno desprovido.
+(AgInt no REsp 1.862.512/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO POR PERDAS E DANOS. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO. PRETENSÃO DECORRENTE DE INADIMPLEMENTO CONTRATUAL. PRAZO. DECENAL. OCORRÊNCIA. AUSÊNCIA DO ELEMENTO OBJETIVO QUE SUSTENTA O PEDIDO DE RESOLUÇÃO DO CONTRATO. AGRAVO INTERNO NÃO PROVIDO.
+1. Observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+2. Aplica-se o prazo prescricional decenal previsto no art. 205 do CC nas pretensões decorrentes de inadimplemento contratual.
+3. Com efeito, já decidiu esta Corte que "Se o pedido de resolução se funda no inadimplemento de determinada parcela, a prescrição da pretensão de exigir o respectivo pagamento prejudica, em consequência, o direito de exigir a extinção do contrato com base na mesma causa, ante a ausência do elemento objetivo que dá suporte fático ao pleito. (REsp 1728372/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/03/2019, DJe 22/03/2019).
+4. Agravo interno não provido.
+(AgInt no AREsp 1.589.393/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/6/2021, DJe 5/8/2021)
+Com isso, forçoso reconhecer que o acórdão recorrido encontra-se em confronto com a jurisprudência desta Corte, devendo ser afastada a prescrição trienal no que se refere ao pedido de fixação da indenização pelo uso do imóvel para que sejarestabelecida a sentença quanto ao ponto.
+Em face do exposto, dou provimento ao recurso especial.
+Intimem-se.
