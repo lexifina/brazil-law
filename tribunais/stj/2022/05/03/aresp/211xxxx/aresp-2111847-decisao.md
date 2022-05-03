@@ -1,0 +1,40 @@
+DECISÃO
+ROGER BLUHM DE OLIVEIRA (ROGER) ajuizou ação revisional contra FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO (FUNCORSAN), cujos pedidos foram julgados procedentes em parte para, revisando os contratos nºs 23824, 31192, 37752 e 7313, limitar os juros remuneratórios a 12%ao ano, determinar a sua capitalização anuale condenar a ré à repetição de indébito dos valores pagos a maior,devidamente atualizados pelo IGP-M/FGV desde a data de cada pagamento,com juros de mora de 1%ao mês a partir da citação, e também ao pagamento das custas processuais e dos honorários advocatícios fixados em 15% sobre o valor da repetição devida (e-STJ, fls. 167/169).
+Irresignados, ROGER, de um lado, e FUNCORSAN, de outro,interpuseram apelações, que foram parcialmenteprovidaspelo Tribunal de Justiça do Rio Grande do Sul em acórdão assim ementado:
+APELAÇÕES CÍVEIS. DIREITO PRIVADO NÃO ESPECIFICADO.AÇÃO REVISIONAL.
+PRESCRIÇÃO. PRAZO DECENAL QUE DEVE TER COMO TERMO INICIAL A DATA DE ASSINATURA DOS CONTRATOS, ANTE ATUAL ENTENDIMENTO FIRMADO POR ESTA CÂMARA. RECONHECIDA A PRESCRIÇÃO DA PRETENSÃO REVISIONAL DE TRÊS CONTRATOS. CONTUDO, REMANESCE A PRETENSÃO REVISIONAL NO CONTRATO Nº 189412020, FIRMADO EM OUTUBRO DE 2010.
+POSSIBILIDADE DE REVISÃO CONTRATUAL, PORQUANTO CONSTATADO DESEQUILÍBRIO NA RELAÇÃO JURÍDICA.
+JUROS REMUNERATÓRIOS. VERIFICADA A ABUSIVIDADE, ESTES DEVEM SER LIMITADOS AO PERCENTUAL DE 12% AO ANO, FULCRO NA LEI COMPLEMENTAR N. 109/2001, DECRETO 22.626/1933 (LEI DE USURA) E ART. 406 DO CÓDIGO CIVIL.
+CAPITALIZAÇÃO DOS JUROS. ENCARGO AFASTADO, AINDA QUE EM PERIODICIDADE ANUAL.
+REPETIÇÃO DO INDÉBITO. DEFERIDA A REVISÃO DOS CONTRATOS E DETERMINADOS NOVOS VALORES DEVIDOS, É POSSÍVEL A REPETIÇÃO SIMPLES DO INDÉBITO, APÓS A DEVIDA COMPENSAÇÃO.
+ÔNUS SUCUMBENCIAIS REDIMENSIONADOS.
+DERAM PARCIAL PROVIMENTO AOS RECURSOS. UNÂNIME(e-STJ, fl. 256).
+Os aclaratórios manejados pelas partesforam rejeitados (e-STJ, fls. 311/318).
+Inconformada, FUNCORSANinterpôs  recurso especial, com fundamento no art. 105, a, da CF, alegando violação doart. 1.022, II, do NCPC, sob o argumento de que o acórdão recorrido teria se quedado omisso a respeito dasuposta ausência de demonstração por ROGER de capitalização dos juros durante a contratação, havendo tão somente a pactuação do método de amortização.
+Em juízo de admissibilidade, a Terceira Vice-Presidência do Tribunal gaúcho inadmitiu o referido apelo nobre aofundamentode que o acórdão não é obrigado a refutar todas as alegações do recorrente quando já tenha declinado motivo suficiente para fundamentar odecisum(e-STJ, fls. 341/350).
+Nas razões do presente agravo em recurso especial, FUNCORSAN sustentou o seu cabimento, impugnou as bases da decisão agravada e reiterou as teses já declinadas por ocasião da interposição do recurso inadmitido.
+Não foi oferecida contraminuta (e-STJ, fl.366).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+FUNCORSAN apontou que o acórdão recorrido teria se quedado omisso a respeitoda suposta ausência de demonstração por ROGER de capitalização dos juros durante a contratação, havendo tão somente a pactuação do método de amortização.
+Ao contrário do que afirmado nas razões do recurso especial, o TJRS foi claro ao assentar as bases pelas quais considerou quenão foi demonstrado a incidência de juros capitalizados sobre os valores adimplidos, assentando que não poderá haver qualquer espécie de capitalização, uma vez que não há previsão nos contratos nesse sentido.
+Confira-se:
+Da mesma forma, improspera as alegações da ré no que diz respeito à capitalização, pois restou ampla e claramente apreciada, com a expressa consignação de que não havia a previsão de cobrança de tal encargo no contrato, mas com as seguintes ressalvas:
+"(..)
+Outrossim, no que cerne à capitalização dos juros, destaca-se que somente é possível sua incidência com periodicidade inferior à anual em contratos bancários e de entidade aberta de previdência complementar celebrados após o advento da Medida Provisória n. 1.963-17 de 31.3.2000 (reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada, nos termos da Súmula 539 do STJ, de forma que é vedada em se tratando de entidade fechada de previdência complementar.
+Ocorre que, no caso, considerando-se que inexiste previsão contratual acerca da incidência de tal taxa, cabe ao autor a comprovação da incidência do encargo, nos termos do art. 373, inciso I, do Código de Processo Civil.
+Assim, observados os cálculos anexados pelo autor (evento n. 01, CALC4), bem como o demonstrativo analítico do empréstimo merece provimento o recurso para que, em fase de liquidação de sentença, seja apurada a incidência da capitalização no referido contrato, apurando-se tal cifra e afastando-a do montante devido pelo recorrente, tanto mensal quanto anual, admitida a compensação, ante a mencionada ilegalidade.
+Nesse sentido, o precedente deste E. Tribunal de Justiça envolvendo a FUNCORSAN:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO PESSOAL. FUNCORSAN. PREVIDÊNCIA PRIVADA FECHADA.  ..  RECURSO APELAÇÃO PARTE AUTORA CAPITALIZAÇÃO MENSAL: NO CASO EM CONCRETO, NÃO HOUVE PACTUAÇÃO DA CAPITALIZAÇÃO DOS JUROS REMUNERATÓRIOS. COM ISSO, A COMPREENSÃO É QUE NÃO HÁ POSSIBILIDADE DE INCIDIR CAPITALIZAÇÃO DE JUROS REMUNERATÓRIOS PACTUADOS, INCLUSIVE NA FORMA ANUAL. APELO PROVIDO, NO PONTO, EIS QUE O LANÇAMENTO DE SALDO DEVEDOR EM CADA RENOVAÇÃO CONTÉM JUROS CAPITALIZADOS. TAXA ADMINISTRAÇÃO: LEGALIDADE DA COBRANÇA, POR CONSTITUIR CONTRAPRESTAÇÃO PELOS SERVIÇOS FORNECIDOS PELO MUTUANTE E DISPONIBILIZADOS AO MUTUÁRIO. TODAVIA, A COBRANÇA EFETUADA É MAIOR QUE A PACTUADA, RAZÃO PELA QUAL VIÁVEL DA DEVOLUÇÃO DE VALORES. APELO DA PARTE AUTORA PROVIDO, EM PARTE. SUCUMBÊNCIA: O RESULTADO DO JULGAMENTO EXIGE O REDIMENSIONAMENTO DA DISTRIBUIÇÃO DA SUCUMBÊNCIA. DERAM PARCIAL PROVIMENTO AOS APELOS. (TJRS, APELAÇÃO CÍVEL Nº 5027813-88.2019.8.21.0001, 19ª Câmara Cível, Desembargador EDUARDO JOAO LIMA COSTA, POR UNANIMIDADE, JUNTADO AOS AUTOS EM 16/04/2021).
+Portanto, merece provimento o recurso do autor no ponto, para determinar o afastamento também da capitalização anual em relação ao contrato nº 189412020, com a respectiva repetição simples do indébito, o que deve ser apurado em liquidação de sentença.
+(..)".
+É inequívoco que a inconformidade das partes se dá pelo fato da decisão recorrida não ter acolhido a interpretação que, segundo estas, deveria ter sido emprestada à questão posta. Os embargantes buscam, na verdade, o reexame da matéria apreciada em apelo(e-STJ, fls. 315/316)
+Não há como sustentar, portanto, falta de fundamentação ou omissão no enfrentamento do tema.
+Nessas condições, CONHEÇO do agravo para NEGARPROVIMENTO ao recurso especial.
+MAJOROem 5%,a título de honorários advocatícios recursais, o valor da verba fixadaem desfavor de FUNCORSAN, nos termos do art. 85, § 11, do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO REVISIONAL. CONTRATO DE MÚTUO FENERATÍCIO E AVENÇAS CORRELATAS CELEBRADO COM INSTITUIÇÃO DE PREVIDÊNCIA PRIVADA.PRESTAÇÃO JURISDICIONAL. OMISSÃO. FUNDAMENTAÇÃO SUFICIENTE E COERENTE PELA CORTE GAÚCHA. HIGIDEZ DO ACÓRDÃO IMPUGNADO. AGRAVO CONHECIDO.RECURSO ESPECIALNÃO PROVIDO.
