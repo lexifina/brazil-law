@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por MILTON SANTANA DE FIGUEIREDO, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado (e-STJ, fls. 1.638-1.646):
+"PENAL PROCESSUAL PENAL REVISÃO CRIMINAL ART 6211 DO CPP LATROCÍNIO USO DE DOCUMENTO FALSO ARTIGOS 157 § 3º C/C O ART 14 II E 304 DO CÓDIGO PENAL DOSIMETRIA PENA BASE DEVIDAMENTE FUNDAMENTADA CAUSA DE DIMINUIÇÃO DE PENA TENTATIVA APLICAÇÃO DA FRAÇÃO DE 1/3 (UM TERÇO) PROXIMIDADE DA CONSUMAÇÃO DO DELITO ATENUANTE INOMINADA ARTIGO 66 DO CÓDIGO PENAL NÃO INCIDÊNCIA IMPROCEDÊNCIA DA REVISÃO CRIMINAL".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 14, II, e 66 do CP. Aduz para tanto, em síntese, que: (I) a fração de diminuição da tentativa deveria ser aplicada no patamar máximo legal, porque o réu não percorreu grande parcela doiter criminis; e (II) o acusado faria jus à aplicação da atenuante genérica, por ter sido baleado e se encontrar, em decorrência disso, com sua saúde fragilizada.
+Com contrarrazões (e-STJ, fls. 1.676-1.681), o recurso especial foi admitido na origem (e-STJ, fl. 1.689).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do recurso (e-STJ, fls. 1.702-1.706).
+É o relatório.
+Decido.
+A insurgência não prospera.
+Sobre a dosimetria da reprimenda, a revisão criminal tem cabimento restrito, apenas admitida quando, após a sentença, forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante, ou na ocorrência de flagrante ilegalidade. Destarte, a revisão não pode ser utilizada como se apelação (ou recurso especial) fosse, para rediscutir, minuciosamente e à luz dos mesmos elementos probatórios, as circunstâncias que já foram valoradas no processo originário. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL JULGADA IMPROCEDENTE NA ORIGEM. REDUÇÃO DA PENA PELA APLICAÇÃO DE DELAÇÃO PREMIADA. ART. 621, I, DO CPP. VIA IMPRÓPRIA. NÃO CABIMENTO DA AÇÃO REVISIONAL. MERO REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP. Precedentes.
+2. Inclusive no que diz respeito à dosimetria da pena, a revisão criminal tem cabimento restrito, somente se admitindo o exame quando, após a sentença, forem descobertas novas provas de elementos que autorizem a revisão da pena, o que não é a hipótese dos autos.
+3. Agravo regimental improvido".
+(AgRg no AREsp 1704043/TO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/09/2020, DJe 29/09/2020)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1) INDEVIDA APLICAÇÃO DA SÚMULA N. 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. NÃO VERIFICAÇÃO. JULGAMENTO DE AGRAVO REGIMENTAL QUE SANA EVENTUAL VÍCIO. 2) REVISÃO CRIMINAL. EXCEPCIONALIDADE. INDEVIDA UTILIZAÇÃO COMO SUCEDÂNEO DE APELAÇÃO. AUSENTES AS HIPÓTESES DO ART. 621 DO CÓDIGO DE PROCESSO PENAL - CPP. 3) DOSIMETRIA. DISCRICIONARIEDADE JURIDICAMENTE VINCULADA. AUMENTO DA PENA-BASE. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE ILEGALIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. 4) AFASTAMENTO DA CONTINUIDADE DELITIVA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E N. 356 DO SUPREMO TRIBUNAL FEDERAL - STF. 5) INEXISTENTE FLAGRANTE ILEGALIDADE NA DOSIMETRIA DA PENA APLICADA AO RECORRENTE. INCIDÊNCIA DA SÚMULA N. 7/STJ. 6) AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. "A revisão criminal não deve ser adotada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade, cingindo-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, dispensando a interpretação ou análise subjetiva das provas produzidas" (AgRg no AREsp 1563982/MT, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 5/12/2019).
+ ..
+6. Agravo regimental desprovido.
+(AgRg no REsp 1874238/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/06/2020, DJe 29/06/2020)
+No presente caso, não se colhe do acórdão recorrido (ou mesmo das razões recursais) a indicação de qualquer elemento novo, apto a reverter as conclusões alcançadas pelo Poder Judiciário quando da condenação do recorrente. Sua argumentação seria mais adequada, em verdade, para subsidiar a interposição de apelação ou recurso especial no processo originário, mas não para o ajuizamento de revisão criminal.
+Ante o exposto, com fundamento no art. 255, §4º, II, do Regimento Interno do STJ,nego provimento ao recurso especial.
+Publique-se. Intimem-se.
