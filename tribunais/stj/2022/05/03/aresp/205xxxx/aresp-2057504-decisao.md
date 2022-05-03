@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto por JULIANE COSTA SILVA PACHECOcontra decisão que negou seguimento a recurso especial, fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal,manejado em face de acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 764):
+CONTRATO - Prestação de serviço de ensino universitário - Inscrição em bancos de dados de proteção ao crédito alegadamente indevida - Prestação de serviços à comunidade como condição de isenção do pagamento das mensalidades - Aluna que não demonstrou o implemento - Exigência do adimplemento de uma obrigação que depende do cumprimento de sua própria - Inteligência do art. 476 do Cód. Civil - Sentença de improcedência da ação declaratória de "inexigibilidade" mantida -Apelação não provida.
+A agravantesustenta, nas razões de recurso especial, ofensa aoartigo476 do Código Civil, alegando que o Tribunal de origem não observou"corretamente a aplicabilidade do artigo" (fl. 77).
+Assim delimitada a controvérsia, verifico que o agravo não prospera.
+Verifico que o recurso especial tem fundamentação genérica e deficiente em sua fundamentação, pois não desenvolveargumentação suficiente sobre otextoda legislação federal supostamente violadopelo acórdão recorrido, o que impede a exata compreensão da controvérsia e atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+A deficiência da fundamentação fica evidenciada com a ausência de impugnação ao fundamento do acórdão recorrido acerca daausência de prova no sentido de que "a instituição de ensino (primeira apelada) teria anuído a algum acordo para postergação do prazo de entrega dos relatórios dos serviços à comunidade que a apelante se obrigara a prestar como condição paraisenção do pagamento das mensalidades escolares" (fls. 765/766), cujo reexame, em sede de recurso especial, encontra óbice na Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
