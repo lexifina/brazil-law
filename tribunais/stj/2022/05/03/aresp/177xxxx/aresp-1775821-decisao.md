@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que não admitiu o recurso especial por inexistência de violação de lei federal e incidência daSúmulan. 83do STJ (e-STJ fls. 764/767).
+O acórdão recorrido está assimementado (e-STJ fls. 680):
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.SENTENÇA QUE EXTINGUIU O FEITO PELA OCORRÊNCIA DA PRESCRIÇÃO INTERCORRENTE. QUESTÃO DE QUE DEVE SER ANÁLISADA DE ACORDO COM O CASO EM CONCRETO. PLANO DE RECUPERAÇÃO JUDICIAL HOMOLOGADO. DECISÃO QUE INTERROMPEU O PRAZO PRESCRICIONAL APENAS EM RELAÇÃO A PESSOA JURÍDICA. APLICAÇÃO DA SÚMULA Nº. 581 DO STJ. DEMANDA EXECUTIVA QUE TRAMITOU FACE AO SÓCIO ADMINISTRADOR. FEITO REMETIDO AO ARQUIVO PROVISÓRIO POR AUSÊNCIA DE BENS DA PESSOA FÍSICA ATÉ ULTERIOR MANIFESTAÇÃO DA EXEQUENTE. TEMPO SUPERIOR AO PRAZO PRESCRICIONAL DO DIREITO MATERIAL. DESNECESSIDADE DE PRÉVIA INTIMAÇÃO DA PARTE EXEQUENTE PARA IMPULSIONAR O PROCESSO. ENTENDIMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA nº 1.604.412. PRESCRIÇÃO CARACTERIZA E APLICADA DE FORMA MITIGADA. Recurso de apelação conhecido e parcialmente provido.
+Os embargos declaratóriosforam rejeitados(e-STJ fls. 707/709).
+No especial (e-STJ fls. 713/727), fundamentado no art. 105, III, "a" e "c", da CF, arecorrente apontou, além de divergência jurisprudencial, ofensa aoart. 1.022,II, do CPC/2015.
+Suscitou a nulidade do julgado recorrido por omissão, porquanto não teriam sido examinados argumentos imprescindíveis ao deslinde da controvérsia, quanto (i) à necessidade de a suspensão do processo de execução se limitarao prazo previsto no art.6º, § 4º, da Lei n. 11.101/2005, (ii) à impossibilidade de prorrogação do referido prazo.
+Sustentou que o acórdão impugnado teria afrontado oart. 6º, § 4º, da Lei n. 11.101/2005, afirmando que não foi observado o improrrogável prazo de suspensão de 180 (cento e oitenta) dias.
+No agravo (e-STJ fls. 780/801), afirmaa presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 812/819).
+É o relatório.
+Decido.
+A irresignação não merece acolhida.
+Inicialmente, descabe falar em ofensa aoart. 1.022, II, do CPC/2015,pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há os vícios apontados quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 684/685):
+ .. Desse modo, não restam dúvidas que a suspensão processual restou direcionada a pessoa jurídica, não fazendo menção alguma quanto aos seus sócios ou representantes legais, eis que a nobre julgadora de primeiro grau determinou que a exequente se manifestasse quanto ao prosseguimento do feito, conforme item 2 do despacho acima citado, com isso, possibilitou a exequente garantir seu crédito face ao sócio administrador. Mister destacar que a aplicação da prescrição intercorrente deve ser analisada de forma razoável com o caso, e assim sendo, aplicada de forma mitigada. Observa-se do presente feito, que houve suspensão processual decorrente de plano de recuperação judicial, conforme previsto no art. 6º da Lei especial nº.11.101/2005(Lei de recuperação judicial, extrajudicial e falências:
+Art. 6º. A decretação da falência ou o deferimento do processamento da recuperação judicial suspende o curso da prescrição e de todas as ações e execuções em face do devedor, inclusive aquelas dos credores particulares do sócio solidário.
+Assim, com base na orientação acima explanada, o prazo prescricional restou interrompido em relação a primeira devedora (pessoa jurídica) a partir de 29/04/2011 -mov. 1.43 - f. 199, perdurando até os dias atuais, visto que ainda tramita na Vara Cível de Sengés o processo de recuperação judicial nº. 0000199-23.2011.8.16.0161.
+Corroborando com o acima aduzido, segue a jurisprudência do STJ.
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - RECUPERAÇÃO JUDICIAL - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA.
+1. A jurisprudência da Segunda Seção desta Corte é iterativa no sentido de admitir a prorrogação do prazo de que trata o artigo 6º, § 4º, da Lei n.11.101/2005 (Lei de Falência e Recuperação Judicial e Extrajudicial), o qual determina a suspensão do curso da prescrição, bem como de todas as ações e execuções em face do devedor pelo período de 180 (cento e oitenta) dias, consoante as peculiaridades do caso concreto e as diligências adotadas pela sociedade, a fim de cumprir o plano de recuperação por elaapresentado. Precedentes.
+2. Em relação à tese de que os créditos garantidos por cessão fiduciária não estão sujeitos aos efeitos da recuperação judicial, nos termos do art. 49, § 3º, da Lei 11.101/2005, incide o enunciado das Súmulas 282 e 356 do Supremo Tribunal Federal, ante a ausência de prequestionamento, porquanto a matéria contida em tal dispositivo não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+3. Agravo interno desprovido.
+(AgInt no AREsp 443665 / RS AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL -2013/0399550-0, Rel. Ministro Marco Buzzi (1149), T4 - QUARTATURMA, julgado em 15/09/2016, DJe 23/09/2016). (Destaquei).
+ .. Sendo assim, não restam dúvidas que a demanda restou suspensa até os dias atuais em relação a Linea Paraná Madeiras Ltda.
+Assim, verifica-se que o acórdão recorrido está em consonância com o entendimento jurisprudencial desta Corte, no sentido de queo mero transcurso do prazo de 180 dias fixado no art. 6º, § 4º, da Lei 11.101/2005 não autoriza o automático prosseguimento das execuções individuais ajuizadas em face da empresa em recuperação judicial.
+A propósito:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA NÃO SUSCITADA NO RECURSO INTERPOSTO NA ORIGEM. INCIDÊNCIA DA SÚMULA N. 211 DO STJ. RECUPERAÇÃO JUDICIAL. PRORROGAÇÃO INJUSTIFICADA. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido suscitado no recurso julgado na origem e enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+3. "A jurisprudência do STJ, buscando dar efetividade às citadas normas legais, bem como evitar o esvaziamento dos propósitos da recuperação, posicionou-se no sentido de que o prazo legal de 180 dias para o cumprimento das obrigações estabelecidas no plano de recuperação, previsto no art. 6º, § 4º, da Lei 11.101/2005, há de ser flexível porque seu simples decurso não enseja a retomada automática das execuções individuais. No entanto, a extrapolação do prazo previsto no art. 6, § 4º, da Lei 11.101/2005 não pode consistir em expediente que conduza à prorrogação genérica e indiscriminada do lapso temporal suspensivo para todo e qualquer processo relacionado à empresa recuperanda, fazendo-se necessário analisar as circunstâncias subjacentes a cada caso" (AgRg no CC 142.082/DF, Relator Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 17/3/2020, DJe 19/3/2020).
+4. Em relação ao reerguimento da empresa ora recorrente, esta Corte Superior reconheceu que, além do fato de o processo recuperacional ter sido encerrado por sentença, o decreto de encerramento foi mantido pelo Tribunal competente, não havendo, atualmente, decisão judicial que conserve os efeitos do anterior deferimento da recuperação judicial, o que afasta a competência atrativa do Juízo universal para apreciar eventuais atos constritivos proferidos em processo executivo individual (CC 157.022/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 13/5/2020, DJe 4/6/2020).
+5. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1621080/DF, de minha relatoria, QUARTA TURMA, julgado em 19/10/2020, DJe 26/10/2020.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL À EMBARGANTE. PLEITO DE EXTINÇÃO DA EXECUÇÃO. DEFERIMENTO APENAS DE SUSPENSÃO DO PROCESSO EXECUTIVO. APLICAÇÃO DA SÚMULA 83/STJ.
+1. A jurisprudência desta Corte orienta que, após o deferimento do pedido de recuperação judicial, as execuções ajuizadas em face da empresa recuperanda devem ser suspensas, nos termos do art. 6º, § 4º, da Lei 11.101/2005, e requerida a habilitação do respectivo crédito no quadro geral de credores.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1363927/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020.)
+Inafastável, portanto, a Súmula n. 83/STJ, que incide nos recursos interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ademais, revero posicionamento adotado pelo acórdão impugnado demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ, também aplicávelao dissídio jurisprudencial: "A pretensão de simples reexame de prova não enseja recurso especial."
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DESISTÊNCIA DA AÇÃO. CONCORDÂNCIA DO RÉU. NECESSIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+ ..
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1792361/SP, de minha relatoria, QUARTA TURMA, julgado em 29/11/2021, DJe 02/12/2021.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE AFRONTA AO ARTIGO 1.022, II, DO CPC/2015. TRANSFERÊNCIA COMPULSÓRIA DE IMÓVEL REALIZADA MEDIANTE PAGAMENTO COM TÍTULOS DA DÍVIDA AGRÁRIA - TDAs. DIREITO PESSOAL/OBRIGACIONAL. INEXIGÊNCIA DE OUTORGA UXÓRIA PARA A DISPOSIÇÃO DE DIREITO PESSOAL. INCIDÊNCIA DA SÚMULA 83/STJ.SUPOSTA AMEAÇA AO DIREITO DE MEAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ.DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+ ..
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1911277/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
