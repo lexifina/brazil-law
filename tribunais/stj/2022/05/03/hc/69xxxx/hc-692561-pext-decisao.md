@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de pedido formulado por MATEUS GUSTAVO DOS SANTOS no qual se pleiteia a extensão dos efeitos da decisão que concedeu a ordem dehabeas corpusem favor dos CorréusJONATAS LUIS BOSCOLO e VIVIANI PAULINO DA SILVA, determinando sua soltura, se por outro motivo não estivessem presos, "advertindo-os da necessidade de permanecerem no distrito da culpa e atenderem aos chamamentos judiciais, sem prejuízo de nova decretação de prisão provisória por fato superveniente, a demonstrar a necessidade da medida, ou da fixação de medidas cautelares alternativas (art. 319 do Código de Processo Penal), desde que de forma fundamentada" (fls. 323-326).
+Neste requerimento, alega-se, em síntese, que o Peticionante se encontra em idêntica situação à dos Corréus Jonatas Luis Boscolo e Viviani Paulino da Silva, fazendo jus, portanto, ao direito de aguardar em liberdade o julgamento da ação penal.
+Sustenta-se, em síntese:a) ausência dos requisitos autorizadores da prisão preventiva; b) falta de fundamentação idônea do decreto prisional; c) e desproporção da segregação cautelar com a pena advinda de eventual condenação.
+Afirma-se, ainda, que o Requerente é primário epossuiocupação lícita.
+Requer-se, desse modo, seja concedido ao Requerente o direito de responder à ação penal em liberdade.
+O Ministério Público Federal opinou pelo deferimento do pleito (fls. 1.434-1.439).
+É o relatório. Decido.
+Presente a similitude fático-processual entre os Corréus, observo que estão preenchidos os requisitos para a extensão dos efeitos da decisão de fls. 323-326 ao ora Requerente, pois são idênticas as situações objetivas que os envolvem, sendo o mesmo decreto prisional a ampara sua segregação cautelar.Decidir de outra forma seria negar obediência ao princípio da isonomia e ao disposto no art. 580 do Código de Processo Penal.
+Ante o exposto, com fundamento no art. 580 do Código de Processo Penal,DEFIROo pedido de extensão dos efeitos da decisão de fls. 323-326ao RequerenteMATEUS GUSTAVO DOS SANTOS, a fim de determinar a sua soltura,se por outro motivo não estiver preso, advertindo-oda necessidade de permanecerno distrito da culpa e atenderaos chamamentos judiciais, sem prejuízo de nova decretação de prisão provisória por fato superveniente, a demonstrar a necessidade da medida, ou da fixação de medidas cautelares alternativas (art. 319 do Código de Processo Penal), desde que de forma fundamentada.
+Publique-se. Intimem-se.
+EMENTA
+PEDIDO DE EXTENSÃO NOHABEAS CORPUS.PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DO DECRETO PRISIONAL.CONSTRANGIMENTO ILEGAL EVIDENCIADO. IDENTIDADE DE SITUAÇÕES CONFIGURADA.PEDIDO DEFERIDO.
