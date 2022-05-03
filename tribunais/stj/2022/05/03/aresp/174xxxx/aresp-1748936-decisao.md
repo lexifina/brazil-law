@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação do art. 1.022 do CPC/2015 e incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 662/667).
+O acórdão recorrido está assim ementado (e-STJ fl. 583):
+APELAÇÃO CÍVEL. DIREITO DE VIZINHANÇA.CONDOMÍNIO EDILÍCIO. Pretensão autoral de desfazimento de obra realizada em varanda de unidade condominial. Laudo técnico conclusivo no sentido de que houve alteração da fachada do prédio. Vedação expressa na convenção e no regimento interno do condomínio de alterações na fachada do prédio. Regramento se encontra em perfeita consonância com o disposto no artigo 1.336, III, do Código Civil. O fato de outros condôminos terem promovido alterações semelhantes, ao longo dos anos, não torna a obra regular, nem tampouco afasta a violação às normas de regência, estando todos os condôminos infratores ao caso concreto e estão sujeitos às sanções pertinentes. Sentença de procedência que se mantém. RECURSO A QUE SE NEGA PROVIMENTO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 598/602).
+Nas razões do recurso especial (e-STJ fls. 604/631), interposto com fundamentono art. 105, III, "a" e "c", da CF, a recorrente apontou, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos de lei:
+(a) art. 1.022, I e II, do CPC/2015, porque os acórdãos seriam "(i) omissos com relação a alegação de violação ao princípio da isonomia e (ii) contraditórios acerca do reconhecimento da desarmonia da fachada" (e-STJ fl. 613),
+(b) arts. 187, 1.228, 1.335 e 1.336, III, do CC/2002, uma vez que teria ficado comprovado "inclusive por laudos técnicos, que sua obra não teve o condão de promover a alteração da fachada justamente pelo fato de não haver uniformidade na fachada do edifício como um todo, conforme inúmeras fotos anexadas aos autos" (e-STJ fl. 616),
+(c) art. 422 do CC/2002, pois "a decisão ora recorrida, em seus atuais termos, acaba por prestigiar um comportamento do recorrido que configura, inclusive, venire contra factum proprium, com gritante violação à boa-fé objetiva insculpida no art. 422 do Código Civil, se levar em conta que o condomínio, ao contrário do que foi reconhecido, não age sistematicamente contra eventuais obras que alterem a fachada do edifício. O próprio condomínio, ao longo de todos esses anos, só faz alusão a duas ações judiciais além desta, uma encerrada anteriormente e outra que sequer teve prosseguimento, dentro de um universo de mais de 30 unidades completamente irregulares" (e-STJ fl. 621).
+Indicou julgado do TJRS com o fim de demonstrar a divergência de entendimentos.
+Contrarrazões às fls. 648/660(e-STJ).
+No agravo (e-STJ fls. 690/722), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 728/738).
+É o relatório.
+Decido.
+De início, não verifico ofensa ao art. 1.022 do CPC/2015.
+A Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo juízo.
+O Tribunal a quo manteve a sentença que julgou procedente o pedido do ora agravado, sob os seguintes fundamentos (e-STJ fls. 586/965):
+Restou incontroverso que a ré promoveu obras em seu apartamento, cabendo analisar se tais obras, de fato, alteraram a fachada do condomínio e se foram realizadas em conformidade com a lei a convenção condominial.
+O laudo pericial (pasta 363), concluiu que:
+Conforme mencionado no corpo do Laudo, não resta sombra de dúvida de que o Réu promoveu acréscimo de área útil do quarto/sala da unidade 806, em detrimento de parte da área da varanda.
+Portanto, em análise eminentemente técnica dos fatos envolvidos na presente demanda e da realidade evidenciada no local, podemos serenamente afirmar que a obra realizada na unidade em questão, não obstante tenha preservado a configuração arquitetônica da edificação, promoveu alteração de fachada do prédio.
+Entretanto, sem qualquer pretensão de adentrar no mérito da questão, não poderíamos deixar de mencionar que, também alterando a fachada original do prédio, vários outros condôminos, de forma semelhante, aumentaram a área útil de sua unidade em detrimento de parte da área de varanda.
+Do mesmo modo, algumas esquadrias foram modificadas em relação às originais e, ainda, as coberturas sofreram acréscimos ao ponto de alterar a volumetria do prédio.
+Sendo assim, restou demonstrado que houve alteração da fachada, não só pela ré, mas por outras unidades condominiais também.
+Como bem reconhecido pelo juízo a quo, ficou claro que o fechamento das varandas é combatido pelo condomínio autor, que ajuizou diversas demandas com este fim (pasta 395 - fls. 380/382),bem como que a assembleia condominial aprovou a medida, com apenas nove votos contrários.
+Dessa forma, não se trata de perseguição com a ré, uma vez que o autor está buscando a preservação da fachada do condomínio.
+Portanto, se da Convenção Condominial e do Regramento Interno do condomínio constaram cláusulas contendo vedação expressa à modificação levada a efeito pela apelante, não pode o Poder Judiciário chancelar a realização de atos que afrontem a estabilidade e a segurança do modo de atuar de todos os outros condôminos, tendo em vista que assim procedendo invalidar-se-iam os parâmetros estabelecidos pela coletividade com expresso amparo na legislação vigente, o que não se pode admitir.Afinal, residir em condomínio implica em restrições à iniciativa individual de uso da unidade residencial. Nesse ponto, faz-se necessário destacar que o regramento estabelecido pelo condomínio atende perfeitamente às disposições expressas do artigo 1.336, inciso III, do Código Civil, in verbis:
+"São deveres do condômino:
+(..)
+III - não alterar a forma e a cor da fachada, das partes e esquadrias externas"
+Ademais, o fato de outros condôminos terem promovido alterações semelhantes ao longo dos anos, não torna a obra da autora regular, nem tampouco afasta a violação à lei em nenhum dos casos. Todos agiram em desconformidade com as normas aplicáveis ao caso concreto e estão sujeitos às sanções pertinentes.
+Assim, estando a pretensão autoral veiculada em estrita consonância com os termos da convenção e regimento interno do condomínio, impõe-se reconhecer a procedência do pedido, devendo a sentença ser mantida integralmente por seus próprios fundamentos.
+Verifica-se, portanto, que o acórdão não se mostra omisso nem contraditório.
+O TJRJ se pronunciou sobre as questões apresentadas, ainda que não da forma como pretendia a recorrente. O Colegiado local ressaltou que o condomínio ajuizou diversas demandas com o mesmo fim da presente, não se tratando, pois, de perseguição contra a ré.
+Além disso, a contradição que dá ensejo a embargos de declaração é a interna, entre proposições do próprio julgado, e não entre o julgado e as razões da parte. Assim, não se vislumbra contradição no raciocínio desenvolvido pelo Colegiado estadual que concluiu ter efetivamente havido alteração na fachada do edifício.
+Na verdade, sob o pretexto de ver sanado supostos vícios, pretende a parte recorrente a reforma da decisão. Contudo, o simples fato de a decisão recorrida ser contrária a seus interesses não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Nada obstante, o conteúdo normativo do art. 422 do CC/2002 não foi objeto de exame no acórdão recorrido, tampouco se apontou omissão quanto ao ponto. Assim, por falta de prequestionamento, incide a Súmula n. 282/STF.
+Ademais, eventual ofensa ao princípio da isonomia, com esteio no art. 5º da CF/88, não pode ser objeto de análise por esta Corte, sob pena de usurpação de competência do STF.
+No mais, as instâncias ordinárias decidiram a controvérsia com base no acervo fático-probatório do processo. Concluiu-se que a obra promovida pela recorrente implicou alteração da fachada do prédio, o que é contrário à convenção condominial e ao regimento interno do condomínio.
+Para decidir de modo diverso, seria necessário o reexame dos elementos de fato dos autos, o que é incabível no âmbito do especial, por força das Súmulas n. 5 e 7 do STJ.
+A incidência das referidas súmulas impedem também o conhecimento do recurso interposto com base na alínea "c" do permissivo constitucional. Com efeito, no paradigma apresentado, o Órgão julgador concluiu que a troca da porta da garagem, dadas as circunstâncias fáticas do caso concreto, não implicou alteração da fachada.Assim, ainda que se trate da mesma questão de fundo - alteração defachada - cada caso possui característicaspróprias, o que impede a verificaçãodo dissídio jurisprudencial.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
