@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento ao recurso especial manifestado em face de acórdão assim ementado:
+DEMANDA DE COBRANÇA DE SALDO DEVEDOR DE CONTRATO DE DESCONTO DE TÍTULOS. SENTENÇA DE IMPROCEDÊNCIA. DECISÃO MANTIDA, POIS O AUTOR NÃO PROVOU A EFETIVA COBRANÇA DA DUPLICATAS E O INADIMPLEMENTO DOS DEVEDORES ORIGINÁRIOS.CERCEAMENTO DE DEFESA NÃO CONFIGURADO.
+RECURSO DESPROVIDO.
+Opostos os embargos de declaração, esses foram rejeitados.
+Em suas razões do recurso, a parte agravante sustenta violação dos arts. 373 e 1.022 do Código de Processo Civil de 1973, assim como divergência jurisprudencial. Argumenta que houve negativa de prestação jurisdicional. Afirma que, "Srs. Ministros, para comprovar a falta de pagamento por parte dos sacados, cumpre à instituição financeira apresentar a descrição dos títulos e o valor de pagamento igual a zero, uma vez que a obrigação do mutuário descontante nasce no momento em que não houve o pagamento do título descontado, à qual está obrigado pelo contrato.Até porque não há como realizar prova negativa de não pagamento pelo devedor originário, também denominada de prova diabólica" (fl. 1.514).
+Aponta que, "No entanto, embora a ação tenha sido instruída com os mesmos elementos de prova do direito alegado, houve diferente interpretação pelos Tribunais sobre a demonstração pelo Autor do inadimplemento do Devedor" (fl. 1.516).
+Assim delimitada a controvérsia, passo a decidir.
+No tocante às alegações de ofensa ao art. 1.022 do Código de Processo Civil de 2015, verifico que essas não merecem prosperar.
+Isso porque não configura ausência de fundamentação ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pela parte recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados. Nesse sentido: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1º/3/2016.
+Com efeito, verifico que a Corte local, ao julgar a causa, deixou consignados os seguintes fundamentos (fl. 1.491, e-STJ):
+Ocorre que, no caso dos autos, o autor não provou o inadimplemento dos devedores originários dos títulos inseridos nos borderôs descontados, o que, como acima mencionado, era imprescindível. Assim, o apelante não pode mesmo lograr êxito na presente demanda.
+Nesse sentido, a desconstituição dessas conclusões, na forma como pretendida, demandaria o exame do acervo fático, procedimento que, em sede de especial, encontra óbice no enunciado n. 7 da Súmula do STJ.
+Com relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes dos arts. 1029, § 1º, do Código de Processo Civil/2015; e 255, parágrafos 1º e 2º, do Regimento Interno do STJ. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
