@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de HUGO HENRIQUE PEREIRA, contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios proferido nos Embargos Infringentes e de Nulidade n. 0727342-75.2020.8.07.0000.
+Consta dos autos que o Paciente está no cumprimento de pena unificada de 21 (vinte e um) anos, 11 (onze) meses e 10 (dez) dias de reclusão, com término previsto para 15/09/2038.
+O Juízo das Execuções Penais indeferiu o pedido de aplicação retroativa da Lei n. 13.964/2019, assinalando, em suma, que "uma vez que o sentenciado é reincidente na prática de crime hediondo, essa circunstância deve ser estendida a todas as condenações" (fl. 44).
+Inconformado, o Apenado interpôs agravo em execução perante o Tribunal de origem, que, por maioria, negouprovimento ao recurso nos termos da seguinte ementa (fl. 89):
+"Execução penal. Crime hediondo e equiparado a hediondo. Progressão de regime. Fração. Reincidência específica. Condição pessoal.
+1 - O inciso VII do art. 112 da LEP, incluído pela L. 13.964/19 ("Pacote Anticrime"), que estabelece percentual maior para progressão de regime (60% - 3/5), diz respeito a apenado por crime hediondo ou equiparado reincidente em outro crime hediondo ou equiparado.
+2 - Como condição pessoal do apenado e não de cada crime cometido, uma vez unificadas as penas (art. 111 da LEP), a reincidência específica em crime equiparado a hediondo se comunica às demais execuções por crime hediondo ou equiparado, implicando no percentual de progressão de regime de 60% (3/5) da pena.
+3 - Agravo não provido."
+Aosembargos infringentes e de nulidade que se seguiram foi negado provimento conforme o acórdão de fls. 137-152.
+Neste writ, a Impetrantealega que "não há como irradiar os efeitos da reincidência posterior à totalidade da execução, de forma genérica e automática" (fl. 7).
+Aduz que"a avaliação do pleito de aplicação retroativa da Lei 13.964/2019 deve se dar individualmente às execuções em curso, considerando-se a reincidência (verificada ou não) à época da formação do título condenatório" (fl. 8).
+Requer, assim, a aplicação retroativa da Lei n. 13.964/2019 "individualmente às execuções em curso, considerando-se a reincidência (verificada ou não) à época da formação do título condenatório" (fl. 10).
+Prestadas as informações, oMinistério Público Federal manifestou-se às fls. 176-182 pelo não conhecimento do habeas corpus.
+É o relatório. Decido.
+O Juízo de primeiro grau indeferiu a pretensão defensivaà base da seguinte motivação (fl. 44):
+"No caso dos autos, o sentenciado não era reincidente na prática de crime hediondo quando cometeu o delito sobre o qual a Defesa requer a aplicação retroativa da mencionada lei.
+Posteriormente, no entanto, veio a cometer novo crime hediondo, tornando-se reincidente específico em delitos dessa natureza.
+Como se sabe, firmou-se, no STJ e no TJDFT, o entendimento pacífico de que a reincidência irradia efeitos sobre toda a pena unificada, a fim de alcançar também os fatos nos quais não houve, na condenação, o reconhecimento da mencionada agravante.
+Assim, pelas mesmas razões, é necessário reconhecer que, uma vez que o sentenciado é reincidente na prática de crime hediondo, essa circunstância deve ser estendida a todas a condenações.
+Logo, deve ser mantida a fração de 3/5 para progressão, que corresponde à previsão do art.112, inciso VII, da LEP.
+Pelo exposto, indefiro o pleito formulado."
+O Tribunal de origem, ao negarprovimento ao agravo em execuçãopenal, assim consignou (fls. 93-95):
+"A reincidência é condição pessoal do réu e não de cada crime cometido, que, portanto, se comunica às demais execuções, tenha a reincidência ocorrido antes ou depois do cometimento do crime cuja pena se executa.
+Uma vez unificadas as penas, a condição de reincidente do apenado - que poderá, inclusive ser reconhecida pelo juiz da execução - refletirá na fração de progressão.
+ ..
+O crime hediondo referente à ação penal n. 0020538-29.2016 foi cometido em 15.1.15 (ID 118239142, p.47) - após a entrada em vigor da L. 11.464/07, que alterou o art. 2.º,§ 2.º, da L. 8.072/90, fixando as frações de progressão de 2/5 (dois quintos) da pena, se o apenado for primário, e de 3/5 (três quintos), sereincidente (art. 2.º, § 2.º, da L. 8.072/90).
+Esse dispositivo foi revogado pela L. 13.964/19 ("Pacote Anticrime"), na qual o legislador estabeleceu critérios mais rigorosos de cálculo de progressão de regime.
+Conforme relatório da situação executória do apenado, ele é reincidente específico, pois cometeu, em 12.2.16, crime equiparado a hediondo (ação penal n. 0003129-85.2016, ID 18239142, p. 47/8).
+A nova lei exige, para a progressão de regime do apenado reincidente na prática de crime hediondo ou equiparado sem resultado morte, o cumprimento de 60% da pena, o que equivale ao percentual de 3/5 previsto na redação anterior do revogado art. 2.º, § 2.º,da L. 8.072/90. Não há novatio legis in mellius.
+Deve, portanto, ser adotado o percentual de 3/5 de cumprimento de pena na execução n. 0003129-85.2016.8.07.0015, para fins de cálculo de progressão de regime.
+Nego provimento."
+Ressalto que a Terceira Seção desta Corte, no julgamento do EREsp n. 1.738.968/MG/RS, de minha relatoria, DJe 17/12/2019, estabeleceu que a intangibilidade da sentença penal condenatória transitada em julgado não retira do Juízo das Execuções Penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu.
+Confira-se:
+"EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL.EXECUÇÃO PENAL. AUSÊNCIA DE RECONHECIMENTO DA REINCIDÊNCIA PELO JUÍZO SENTENCIANTE. PROCLAMAÇÃO PELO JUÍZO DA EXECUÇÃO.POSSIBILIDADE. INEXISTÊNCIA DE REFORMATIO IN PEJUS. EMBARGOS DE DIVERGÊNCIA ACOLHIDOS.
+1. A individualização da pena se realiza, essencialmente, em três momentos: na cominação da pena em abstrato ao tipo legal, pelo Legislador; na sentença penal condenatória, pelo Juízo de conhecimento; e na execução penal, pelo Juízo das Execuções.
+2. A intangibilidade da sentença penal condenatória transitada em julgado não retira do Juízo das Execuções Penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu.
+3. "Tratando-se de sentença penal condenatória, o juízo da execução deve se ater ao teor do referido decisum, no tocante ao quantum de pena, ao regime inicial, bem como ao fato de ter sido a pena privativa de liberdade substituída ou não por restritivas de direitos. Todavia, as condições pessoais do paciente, da qual é exemplo a reincidência, devem ser observadas pelo juízo da execução para concessão de benefícios (progressão de regime, livramento condicional etc)" (AgRg no REsp 1.642.746/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 03/08/2017, DJe 14/08/2017).
+4. Embargos de divergência acolhidos para, cassando o acórdão embargado, dar provimento ao agravo regimental, para dar provimento ao recurso especial e, assim, também cassar o acórdão recorrido e a decisão de primeiro grau, devendo o Juízo das Execuções promover a retificação do atestado de pena para constar a reincidência, com todos os consectários daí decorrentes."(EREsp 1.738.968/MG, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 27/11/2019, DJe 17/12/2019.)
+No mesmo sentido:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO. UNIFICAÇÃO. RECONHECIMENTO DA REINCIDÊNCIA SOBRE A TOTALIDADE DAS PENAS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência deste Superior Tribunal é firme em assinalar que a reincidência é circunstância de caráter pessoal que pode ser reconhecida na fase da execução penal e estende-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios.
+2. Certamente, não cabe ao Juízo da Execução rever a sentença a cumprir, sob pena de violar a coisa julgada. Contudo, quando houver registro de condenação definitiva por mais de um crime, em processos distintos, é de sua competência, no momento da aplicação do art. 111 da LEP, com fins exclusivos de examinar benefícios do sistema progressivo, averiguar a natureza dos delitos (comum, hediondo ou outros a ele equiparados) e a circunstância pessoal do reeducando (primariedade ou reincidência), dados que interferem, tão somente, na individualização da execução penal.
+3. Como o agravado registra pluralidade de condenações, a condição de reincidente passou a reger a execução como um todo. Exige-se daquele que viola reiteradamente o ordenamento jurídico o cumprimento de condições mais rigorosas antes de se atenuarem os rigores da pena aplicada.
+4. Agravo regimental não provido." (AgRg no REsp 1.824.437/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 29/11/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REINCIDÊNCIA NÃO RECONHECIDA NA SENTENÇA CONDENATÓRIA. CIRCUNSTÂNCIA SOPESADA NA EXECUÇÃO. POSSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. A Terceira Seção desta Corte, em sessão realizada em 27/11/2019, pacificou o entendimento de que a intangibilidade da sentença penal condenatória transitada em julgado não retira do Juízo das Execuções Penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu (EREsp n. 1.738.968/MG, Ministra Laurita Vaz, Terceira Seção, DJe 17/12/2019).
+2. Assim, o Juízo da execução deve considerar as condições pessoais do apenado, inclusive a reincidência, para fins de concessão dos benefícios da execução, ainda que não reconhecidas pelo Juízo da condenação.
+3. Agravo regimental improvido" (AgRg no HC 556.371/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020; sem grifos no original.)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. REINCIDÊNCIA RECONHECIDA PELO JUÍZO DAS EXECUÇÕES. POSSIBILIDADE. AUSÊNCIA DO TRANSCURSO DO LAPSO NECESSÁRIO AO RECONHECIMENTO DA CAUSA EXTINTIVA DE PUNIBILIDADE.
+1. A Terceira Seção desta Corte, em 27/11/2019, pacificou o entendimento de que a intangibilidade da sentença penal condenatória transitada em julgado não retira do Juízo das Execuções Penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu (EREsp n. 1.738.968/MG, Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe 17/12/2019).
+2. Não havendo ilegalidade quanto à consideração da reincidência do recorrente pelo Juízo das execuções, não há que se falar em prescrição da pretensão executória pela ausência do transcurso do lapso necessário ao reconhecimento da causa extintiva de punibilidade.
+3. Agravo regimental desprovido." (AgRg no RHC 110.275/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/03/2021, DJe 30/03/2021; sem grifos no original.)
+Desse entendimento não destoou o Juízo singularque, acertadamente, asseverou o seguinte: "na unificação das penas, a condição de reincidente específico, configurada na posterior condenação, deve ser levada em conta na integralidade dos feitos executivos, em estrita observância ao princípio da individualização da pena no âmbito da execução" (fl. 152).
+Por fim, confiram-se as seguintes decisões monocráticas proferidas no âmbito desta Corte, nas quais foram apreciadas hipóteses análogas à presente: HC 669.013/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJe 25/06/2021; HC 662.348/DF, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1.ª REGIÃO), DJe 17/05/2021; HC 665.429/DF, Rel. Ministro FELIX FISCHER, DJe 27/05/2021; HC 665.431/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2021; e HC 665.435/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 13/05/2021.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.EXECUÇÃO PENAL. REINCIDÊNCIA. RECONHECIMENTO NATOTALIDADE DA PENA UNIFICADA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PRECEDENTES. ORDEMDENEGADA.
