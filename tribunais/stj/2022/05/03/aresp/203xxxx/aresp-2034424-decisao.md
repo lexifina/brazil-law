@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo de PEDRO POLACZINSKI contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. ALEGAÇÃO DE PREÇO VIL. NOVA AVALIAÇÃO. LEILÃO. CANCELAMENTO DA HASTA.
+A decisão recorrida já majorou a avaliação o valor do imóvel de R$200.000,00 para R$ 416.500,00, de acordo com o pedido da parte agravante. Entretanto, em agravo, postulou nova avaliação, sem qualquer novo fundamento, de onde não se verifica óbice ao prosseguimento da execução conforme determinou o juízo da origem.
+AGRAVO DE INSTRUMENTO DESPROVIDO." (e-STJ fl. 57)
+Nas razões do recurso especial, o agravante alega violação do artigo 873, inciso II, do Código de Processo Civil, e divergência jurisprudencial, sustentando, em síntese, que o critério adotado pela Corte de origem para retificação do valor da avaliação do imóvel leiloado não pode ser aceito, pois não possui todos os elementos necessários para a quantificação do valor da área, atendendo os critérios econômicos que o país vivencia.
+Aduz, ainda, que o referido imóvel foi declarado impenhorável, nos autos do processo n.º 102/1.13.0000934-0, o que também deve ser sopesado para fins de cancelamento do leilão.
+É o relatório. Decido.
+De início, quanto à alegação de que o referido imóvel foi declarado impenhorável, nos autos do processo n.º 102/1.13.0000934-0, verifica-se que tal matéria não foi apreciada pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1663414/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)(grifei)
+Quanto à necessidade de uma nova avaliação, o Tribunal de origem expressamente consignou o seguinte:
+"No caso dos autos, a decisão recorrida já majorou a avaliação o valor do imóvel de R$200.000,00 para R$ 416.500,00, de acordo com o pedido da parte agravante 2 (evento 44 da origem). Entretanto, em agravo, postulou nova avaliação, sem qualquer novo fundamento, de onde não se verifica óbice ao prosseguimento da execução conforme determinou o juízo da origem." (e-STJ fl. 56)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. 1. NECESSIDADE DE REAVALIAÇÃO DO VALOR DE BEM IMÓVEL EM RAZÃO DO TRANSCURSO DE CONSIDERÁVEL LAPSO TEMPORAL DESDE A PRIMEIRA ESTIMATIVA. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. 2. PRESCINDIBILIDADE DE NOVA AVALIAÇÃO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. A alegação de necessidade de nova avaliação do valor de bem imóvel, em virtude do "considerável lapso temporal entre a avaliação e a hasta pública", somente foi suscitada nas razões do presente agravo interno, constituindo indevida inovação recursal, de modo que é inviável sua análise ante a configuração da preclusão consumativa.
+2. O Colegiado estadual julgou a lide com base no substrato fático-probatório dos autos e concluiu pela prescindibilidade de nova avaliação do imóvel. A revisão do julgado importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1100477/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/10/2017, DJe 26/10/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
