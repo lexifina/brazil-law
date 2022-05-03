@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de agravo interno interposto por Felipe Dornelles Zinelli contra decisão monocrática da Presidência desta Corte Especial que não conheceu do agravo em recurso especial (e-STJ, fls. 384-386).
+O apelo especial foi deduzido com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 226):
+CIVIL. EXECUÇÃO. CONTRATO BANCÁRIO. EMBARGOS. SENTENÇA CITRA PETITA. INOCORRÊNCIA. CDC JUROS REMUNERATÓRIOS. ABUSIVIDADE NÃO DEMONSTRAÇÃO. MORA. AJG (PESSOA JURÍDICA).
+1. A sentença que enfrenta, embora de maneira diversa da pretendida, os argumentos trazidos para análise não é citra petita.
+2. A aplicação das disposições do Código de Defesa do Consumidor às relações contratuais firmadas com as instituições financeiras não comporta maiores digressões, tendo em vista o enunciado da súmula n.º 297 do Superior Tribunal de Justiça: "O código de defesa do consumidor é aplicável às instituições financeiras". Todavia, daí não resulta, automaticamente, a inversão do ônus da prova, para o que se impõe a comprovação da hipossuficiência do devedor, além da plausibilidade da tese defendida por ele. O tão-só fato de o contrato ser de natureza adesiva não o inquina de nulidade, sendo necessária a demonstração de abusividade e excessiva onerosidade.
+3. A intervenção judicial nas condições do negócio jurídico, livremente pactuado pelas partes, só é legítima quando existe ilegalidade manifesta, o que não está comprovado nos autos.
+4. Não há previsão legal ou constitucional que limite os juros a 12% (doze por cento) ao ano (súmula vinculante n.º 7 do Supremo Tribunal Federal: "A norma do § 3º do art. 192 da Constituição, revogada pela EC40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar").
+5. No recurso especial n.º 1.061.530, o eg. Superior Tribunal de Justiça assentou que: (2.1) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto22.626/33), Súmula 596/STF; (2.2) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; (2.3) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02, e (2.4) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.
+6. À míngua de abusividade na cobrança de encargos contratuais no período anterior à inadimplência, não resta descaracteriza a mora da apelante.
+7. Conquanto seja admissível a concessão de assistência judiciária gratuita à pessoa jurídica, é indispensável a comprovação de que a pretensa beneficiária não tem condições financeiras para suportar os encargos processuais, ainda que se trate de entidade sem fins lucrativos ou microempresa.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 270):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE.
+Os embargos de declaração constituem recurso interposto perante o magistrado ou colegiado prolator da decisão impugnada, com vistas à supressão de omissão, contradição, obscuridade ou erro material no texto que possa dificultar a exata compreensão da manifestação judicial. E mesmo quando opostos com o objetivo de prequestionar matéria a ser versada em provável recurso extraordinário ou especial, devem atender aos pressupostos delineados no artigo 1.022 do CPC, pois não se prestam, por si só, para forçar o ingresso na instância superior, decorrendo, sua importância, justamente do conteúdo integrador da sentença ou do aresto impugnado. Com efeito, não se revelam meio hábil ao reexame da causa ou modificação do julgado no seu mérito, pois opostos quando já encerrado o ofício jurisdicional naquela instância.
+Em suas razões de recurso especial (e-STJ, fls. 298-328), o insurgente alegou violação aos arts. 1.022, I e II; 489, § 1º. IV e VI; 492; 7º, 9º e 437, § 1º, todos do CPC/2015.
+Sustentou, em síntese, que o acórdão recorrido foi omisso, pois não se manifestou a respeito das questões suscitadas nos aclaratórios, imprescindíveis para a solução da controvérsia. Ainda, defendeu que o julgamento foi citra petita pois não analisou toda a amplitude do pedido formulado na exordial.
+Por fim, alegou cerceamento de defesa por ausência de intimação das partes para manifestação sobre os documentos juntados aos autos.
+O recurso especial não foi admitido pela Corte local (e-STJ, fls. 336-342) pelos seguintes fundamentos: a) inexistência de ofensa ao art. 1.022 do CPC; b) incidência das Súmulas n. 83, 5 e 7/STJ.
+O insurgente então interpôs o agravo em recurso especial.
+Foi proferida decisão pela Presidência desta Casa, a qual não conheceu do recurso por entender que a parte teria deixado de impugnar alguns dos fundamentos da decisão agravada.
+Em suas razões de agravo interno, sustenta, em síntese, que teria impugnado especificamente todos os motivos da decisão de admissibilidade proferida pela Corte local.
+É o relatório. Decido.
+No caso, observa-se que a decisão do TRF4 que inadmitiu o recurso especial foi impugnada pelo agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidera-se a decisão agravada, tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC/2015, e passa-se à análise do recurso especial.
+O Tribunal de origem, ao dirimir as questões postas nos autos, assim consignou (e-STJ, fls. 228-240):
+Da arguição de nulidade da sentença por ser citra petita
+No que diz respeito à alegação de nulidade da sentença por ser citra/infra petita, sem razão a apelante. Com efeito, a sentença que enfrenta, embora de maneira diversa da pretendida, os argumentos trazidos para análise, não é citra/infra petita.
+Por oportuno, transcrevo:
+(..)
+Rejeito, pois, a preliminar.
+Da alegada falta de intimação dos documentos do evento 36
+Como bem apontado na sentença, o sistema abriu vista ao procurador da parte autora do processo após a anexação dos documentos pela parte ré. O autor deixou de se manifestar dentro do prazo de vista, de 15(quinze) dias.
+Irrelevante para o caso em apreço a associação de qual evento constou a intimação, uma vez que a parte tem acesso ao processo inteiro no momento em que aberta vista dos autos.
+Ainda, eventual supressão de vista foi suprida pela manifestação da parte autora, três meses depois da anexação dos referidos documentos, onde se limitou a requerer reabertura de prazo.
+Ora, qualquer conjectura além desta é mero preciosismo, incoerente com a instrumentalidade das formas do Código de Processo Civil. Dessa forma, indefiro o pedido de "abertura de prazo para manifestação dos documentos".
+Com efeito, inexiste cerceamento de defesa a ser reconhecido.
+Da aplicabilidade das disposições do CDC - inversão do ônus da prova
+A aplicação das disposições do Código de Defesa do Consumidor às relações contratuais firmadas com as instituições financeiras não comporta maiores digressões, tendo em vista o enunciado da súmula n.º 297 do Superior Tribunal de Justiça: "O código de defesa do consumidor é aplicável às instituições financeiras".
+Todavia, daí não resulta, automaticamente, a inversão do ônus da prova, para o que se impõe a comprovação da hipossuficiência do devedor, além da plausibilidade da tese defendida por ele. O tão-só fato de o contrato ser de natureza adesiva não o inquina de nulidade, sendo necessária a demonstração de abusividade e excessiva onerosidade.
+(..)
+No caso concreto, não restou demonstrada a impossibilidade concreta ou excessiva dificuldade para o(s) apelante(s) produzir(em) as provas necessárias à alegação de excesso ou inexistência da dívida apontada pela credora, o que enseja a aplicação das regras do ônus probatório prevista no artigo 373 do CPC.
+Da exigibilidade dos encargos contratuais
+Ao apreciar o(s) pedido(s) formulado(s) na petição inicial, o juízo aquo manifestou-se nos seguintes termos:
+(..)
+A intervenção judicial nas condições do negócio jurídico, livremente pactuado pelas partes, só é legítima quando existe ilegalidade manifesta, o que não está comprovado nos autos.
+Juros remuneratórios
+Não há previsão legal ou constitucional que limite os juros a 12% (doze por cento) ao ano (súmula vinculante n.º 7 do Supremo Tribunal Federal: "A norma do § 3º do art. 192 da Constituição, revogada pela EC 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar").
+Outrossim, o e. Superior Tribunal de Justiça, no julgamento do recurso especial n.º 1.061.530, assentou que: (2.1) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF; (2.2) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; (2.3) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02, e (2.4) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.
+Nessa linha, a tese jurídica firmada no tema n.º 27 pelo e. Superior Tribunal de Justiça:
+(..)
+Esse não é o caso dos autos, pois não existe significativa discrepância da taxa cobrada com a média praticada no mercado.
+(..)
+Inexistindo, pois, limitação constitucional ou legal, e não demonstrada a alegada abusividade, improcede a insurgência da parte demandante.
+Da correção monetária
+Quanto ao pleito de afastar a incidência de correção monetária sobre o débito, totalmente descabida a insurgência, uma vez que a correção monetária se traduz em índice de atualização do débito, expressamente pactuado e aceito pelas partes no momento da assinatura do contrato em execução, a qual visa manter o valor real da moeda frente à sua desvalorização.
+Descaracterização da mora
+À míngua de abusividade na cobrança de encargos contratuais no período anterior à inadimplência, não resta descaracteriza a morada apelante.
+Assim, considero irretocável a r. sentença.
+De início, quanto à alegada negativa de prestação jurisdicional por omissão, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Analisando os autos, verifica-se que todos os pontos sobre os quais a parte alega omissão pelaCorte estadual foram devidamente examinados no acórdão recorrido.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito do ora recorrente, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia. Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+Quanto ao alegado julgamento citra petita, conforme entendimento desta Corte, "não há que falar em julgamento citra petita quando o órgão julgador não afronta os limites objetivos da pretensão inicial, tampouco deixa de apreciar providência jurisdicional pleiteada pelo autor da ação, respeitando o princípio da congruência" (AgInt no AREsp 1538345/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 21/09/2020, DJe de 24/09/2020).
+Ademais, rever o entendimento esposado no acórdão recorrido, a fim de perquirir sobre a ocorrência de julgamento citra petita, demandaria revolvimento de fatos e provas, o que encontra óbice na Súmula n. 7/STJ.
+Por fim, o acolhimento da pretensão recursal em relação à alegada tese sobre cerceamento de defesa também encontra óbice na Súmula n. 7/STJ.
+Isso porque, no acórdão recorrido, concluiu a Corte local pela não ocorrência de cerceamento de defesa, em razão das peculiaridades do caso, de modo querever este entendimentodemandaria reexame de fatos e provas, incabível nessa seara.
+Ante o exposto, conheço do agravo, em juízo de retratação, para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em 2% sobre o valor atualizado da causa, ficando suspensa a exigibilidade ante a gratuidade de justiça deferida (e-STJ, fl. 74).
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO BANCÁRIO. 1. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. INAPLICABILIDADE DO ART. 932, III, DO CPC/2015. 2. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. 3. JULGAMENTO CITRA PETITA. NÃO OCORRÊNCIA. REEXAME INVIÁVEL. SÚMULA N. 7/STJ. 4. CERCEAMENTO DE DEFESA. TESE AFASTADA NA ORIGEM. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 5. AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO, PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
