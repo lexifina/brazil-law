@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de DIONATHAN RODRIGUES LIMA, contra decisão indeferitória da liminar, proferida por Desembargador doTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Neste mandamus, a defesa sustenta que os fundamentos da negativa da liminar não justificam a segregação excepcional imposta ao paciente. Em responder a processo por associação criminosa por si só não é motivo para se decretar prisão preventiva de réu, cujo os fatos se deram entre os meses de outubro e dezembro do ano de 2017, e após os fatos, não surgiu nenhuma prova nova de envolvimento do Paciente com qualquer outro fato ilícito, ou ligação com demais réus.
+Assevera, ainda, quea demora do julgamento do mérito do HC impetrado certamente implicará danos irreparáveis, notadamente a um pai de família, que, mesmo em urna remota possibilidade de condenação, o regime fixado na sentença jamais chegara ao fechado.
+Aduz queo réu ficou solto por mais de 4 anos após estes fatos, não cometeu mais nenhum ilícito penal, e somente agora o mesmo tem que ficar preso para não cometer mais crime, e o tempo que ele ficou solto, e não cometeu nenhum crime não está sendo considerado para decidir sobre a liberdade do paciente.
+Pugna, assim, pela concessão da ordem a fim de relaxar a prisão preventiva do ora paciente.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO ILÍCITO DE ENTORPECENTES. WRIT INDEFERIDO LIMINARMENTE. SÚMULA N.691 DO STF. INCIDÊNCIA. REQUISITOS DA PREVENTIVA. QUANTIDADE EXPRESSIVA DE ENTORPECENTES. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não cabe habeas corpus contra o indeferimento de medida liminar impetrada na origem, salvo nos casos de flagrante ilegalidade ou de teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula n. 691 do STF).
+2. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts.
+312, 313 e 315 do Código de Processo Penal.
+3. Agravo regimental desprovido."
+(AgRg no HC 684.126/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 17/08/2021, DJe 20/08/2021)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO.PRISÃO PREVENTIVA. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU LIMINAR NO MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. APLICABILIDADE. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.AUSÊNCIA DE MANIFESTA ILEGALIDADE E DE TERATOLOGIA.
+1. É incabível habeas corpus contra o indeferimento de pedido liminar em outro writ ajuizado em Tribunal de segunda instância, salvo no caso de flagrante ilegalidade ou de teratologia, o que, na espécie, não ocorreu.
+2. Na hipótese, o dito constrangimento ilegal não é perceptível, de plano, à vista dos fundamentos lançados pelo Juízo processante a fim de justificar a decretação da custódia, em especial a evasão do réu do distrito da culpa. Quanto ao dito excesso de prazo, ao que tudo indica, aplicável ao caso a Súmula 52/STJ.
+3. Sem o julgamento do mérito da impetração na origem, é inviável a pretendida supressão de instância.
+4. Agravo regimental improvido."
+(AgRg no HC 682.022/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 17/08/2021, DJe 20/08/2021)
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem, na medida em que se encontraassim motivada:
+"Como se revela destacado na decisão proferida pelo juiz, restaram presentes o fumus comissi delicti e o periculum libertatis, bem como a necessidade da prisão como garantia da ordem pública em razão da periculosidade concreta verificada. Constata-se que o réu integrava organização criminosa que atua em mais de um Estado da Federação e é especializada no furto de combustível dos dutos da TRANSPETRO. Acrescente-se que fica evidente a necessidade de se decretar a custódia cautelar do denunciado como forma de impedir a prática de novos ilícitos, salientando que a organização criminosa da qual o paciente fazia parte era extremamente atuante. Tal circunstância revela a ineficácia das medidas cautelares diversas da prisão no caso em questão, fato que autoriza a prisão cautelar. Atendidos, portanto, estão os requisitos exigidos pela legislação para decretação da prisão preventiva (art. 282 e 312 do CPP), já que as medidas cautelares diversas da prisão não se revelam adequadas ao caso, diante da periculosidade em concreto dos fatos e do risco de reiteração da conduta criminosa. A análise ora realizada se dá com cognição rarefeita, diante da impossibilidade de se adentrar profundamente em todasas questões levantadas. Esta análise será realizada oportunamente pelo Desembargador Natural da causa"(e-STJ, fls. 95).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
