@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 27/04/2022 a 03/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Trata-se de Agravo Interno interposto peloFUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIROcontra a decisão que indeferiu liminarmente os Embargos de Divergência, em razão da incidência da Súmula 168/STJ.
+O Agravante sustenta, em síntese, que no julgamentodo REsp. n. 1.336.026/PE, da relatoria do Sr. Ministro Og Fernandes, foi suprimida, por completo, a necessidade de uma fase prévia à execução para acertamento da conta exequenda, determinando que após o prazo de cinco anos, estaria configurada a prescrição da pretensão executiva.
+Alegar ter demonstradominuciosamente as razões para a reforma do acórdão embargado,apontando especificadamente oitos paradigmas divergentes que consubstanciam e fundamentam a presente desarmonia jurisprudencial constante nesta Corte Especial no tocante ao debate a saber se a mora do exequente decorrente da dificuldade de se obter as fichas financeiras por ato do executado é apto ou não a ensejar a suspensão ou interrupção do prazo prescricional.
+Impugnação às fls. 2.837/2.840e.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EMRECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. EXECUÇÃO.PRAZO PRESCRICIONAL. MATÉRIA PACIFICADA NO ÂMBITO DO STJ.TEMA 880/STJ.ACÓRDÃO EMBARGADO EM SINTONIA COM A ORIENTAÇÃO DA CORTE. SÚMULA N. 168/STJ. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II -O acórdão embargado reconheceu que a execução da decisão transitada em julgado no ano de 1999 dependeu do fornecimento de fichas financeiras pela administração, razão pela qual se aplica a modulação de efeitos da tese firmada no Tema880/STJ.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão ao Agravante.
+De fato,a Primeira Seção desta Corte, em precedente submetido ao rito do art. 1.036 do Código de Processo Civil de 2015 (Tema 880), firmou orientação segundo a qual, a partir da vigência da Lei n. 10.444/2002, que incluiu o § 1º ao art. 604, dispositivo sucedido pelo art. 475-B, §§ 1º e 2º (Lei n. 11.232/2005), todos do Código de Processo Civil de 1973, a juntada de documentos pela parte executada ou por terceiros não é mais imprescindível para o acertamento dos cálculos, reputando-se correta a conta apresentada pelo exequente, quando a requisição judicial de tais documentos deixar de ser atendida, injustificadamente, depois de transcorrido o prazo legal.
+Contudo,em 08.11.2017, o mesmo órgão julgador, no julgamento de Embargos de Declaração no mencionado paradigma firmou a seguinte tese: "A partir da vigência da Lei n. 10.444/2002, que incluiu o § 1º ao art. 604, dispositivo que foi sucedido, conforme Lei n. 11.232/2005, pelo art. 475-B, §§ 1º e 2º, todos do CPC/1973, não é mais imprescindível, para acertamento da conta exequenda, a juntada de documentos pela parte executada, ainda que esteja pendente de envio eventual documentação requisitada pelo juízo ao devedor, que não tenha havido dita requisição, por qualquer motivo, ou mesmo que a documentação tenha sido encaminhada de forma incompleta pelo executado. Assim, sob a égide do diploma legal citado e para as decisões transitadas em julgado na vigência do CPC/1973, a demora, independentemente do seu motivo, para juntada das fichas financeiras ou outros documentos correlatos aos autos da execução, ainda que sob a responsabilidade do devedor ente público, não obsta o transcurso do lapso prescricional executório, nos termos da Súmula 150/STF".
+Desse modo, restou assentando quepara as decisões transitadas em julgado até 17.03.2016 (quando ainda em vigor o CPC/1973) e que estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras (tenha tal providência sido deferida, ou não, pelo juiz ou esteja, ou não, completa a documentação), o prazo prescricional de 5 anos para a propositura da execução ou cumprimento de sentença conta-se a partir de 30.06.2017".
+No caso, observada a modulação dos efeitos imposta no julgamento do EDcl no REsp 1.336.026/PE, Rel. Min. OG FERNANDES, verifica-se que, no caso, ter a decisão exequenda transitou em julgado apenas em 03/05/1999 (fl. 1.150e), o prazo prescricional quinquenal para a propositura da execução apenas teve início em 30/06/2016, não havendo que se falar em reconhecimento da prescrição da pretensão executiva.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. POSSIBILIDADE DE REVALORAÇÃO DOS CRITÉRIOS JURÍDICOS DETERMINADOS NO ACÓRDÃO RECORRIDO. INEXISTÊNCIA DE LITISPENDÊNCIA. AÇÃO COLETIVA E AÇÃO INDIVIDUAL.
+1. A revaloração dos critérios jurídicos utilizados na apreciação de fatos tidos por incontroversos pelas instâncias ordinárias não constituiu reexame de provas, sendo perfeitamente admitida na via do Recurso Especial, afastando-se a aplicação da Súmula 7 do STJ.
+2. A jurisprudência do STJ é firme no sentido de inexistir litispendência entre ação individual e ação coletiva, assim como no sentido de ser inaproveitável e inoponível a coisa julgada formada na ação coletiva para quem litiga individualmente e não desistiu de sua ação.
+3. No caso, não tendo os autores requerido a suspensão da ação individual nem intervindo na ação coletiva como litisconsortes, não há óbice para a propositura da ação individual, pois não se configura a litispendência, e a coisa julgada formada na ação coletiva não os alcança.
+4. Não prospera a teoria de que a modulação dos efeitos não se aplica àqueles casos em que a Ação de Execução já tenha sido ajuizada antes do marco de 30.6.2017, mas somente às hipóteses em que não houve ainda o ajuizamento.
+5. A modulação visou cobrir de segurança jurídica aqueles credores que dependiam, para o cumprimento da sentença, do fornecimento de elementos de cálculo pelo executado em momento no qual a jurisprudência do próprio STJ amparava a tese de que, em situações como a exposta, o prazo prescricional da execução não corria.
+6. Assim, tendo em vista o objetivo da modulação de efeitos proferida pela Primeira Seção no julgamento do REsp 1.336.026/PE, é irrelevante, para sua adoção, se a Execução foi ou não apresentada antes de 30.6.2017.
+7. No mesmo entendimento quanto à extensão da modulação de efeitos:
+EDcl no REsp 1.724.957/SP, Segunda Turma, Rel. Min. Herman Benjamin, DJe 16.11.2018; e EDcl no REsp 1.726.493/SP, Segunda Turma, Rel. Min. Herman Benjamin, DJe 16.11.2018.
+8. Logo, não está prescrita a pretensão executória, haja vista o trânsito em julgado ter ocorrido em 30.8.2006, o que faz ser o termo inicial do prazo o dia 30.6.2017.
+9. Agravo Interno não provido.
+(AgInt no REsp 1940693/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/11/2021, DJe 10/12/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO DIREITO À ESPÉCIE. ART. 1.034 DO CPC. SÚMULA 456/STF. MODULAÇÃO DE EFEITOS DO TEMA 880/STJ. PRESCRIÇÃO AFASTADA. AGRAVO IMPROVIDO.
+1. Nos termos do art. 1.034 do CPC e da Súmula 456/STF, conhecido o recurso especial, é possível a aplicação do direito à espécie, ainda que por fundamentos diversos dos apontados pela parte recorrente.
+Precedentes.
+2. Na hipótese em questão, foi reconhecido pelo Tribunal de origem que a execução da decisão transitada em julgado no ano de 1998 dependeu do fornecimento de fichas financeiras pela administração, razão pela qual se aplica a modulação de efeitos da tese firmada no Tema 880/STJ.
+3. Nesse contexto, ainda que se reconheça que a posição firmada pelo acórdão recorrido esteja em desacordo com a tese firmada no Tema 877/STJ, o afastamento da prescrição merece ser mantido pelo fundamento supramencionado.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1747134/GO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/05/2021, DJe 01/06/2021)
+Em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016).
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno.
