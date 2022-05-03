@@ -1,0 +1,26 @@
+DECISÃO
+Diante das razões do agravo interno e verificando a impugnação específica dos fundamentos da decisão primeva de admissibilidade, reconsidero a decisão proferida pela Presidência desta Corte.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+ADMINISTRATIVO. SFH. RESCISÃO CONTRATUAL. DIMINUIÇÃO DE RENDA. DEVOLUÇÃO DAS PARCELAS PAGAS. IMPOSSIBILIDADE.
+- A alegação de que não mais possui condições financeiras para arcar com o pagamento dos encargos contratuais não tem o condão de, por si só, legitimar o desfazimento unilateral do negócio jurídico, em face da não demonstração de que houve descumprimento das cláusulas contratuais pelo agente financeiro.
+- Consoante os termos da Lei nº 9.514/97, o autor apenas teria direito à devolução de eventual diferença entre o valor de venda do imóvel e o valor da dívida (deduzidas ainda as despesas com o procedimento executivo), não havendo falar em restituição dos valores pagos pelo imóvel com recursos próprios ou do FGTS (até mesmo porque tais recursos se destinaram ao vendedor do imóvel, e não ao agente financeiro), e nem dos valores pagos a título de prestação mensal.
+Nas razões de recurso especial, alega a parte ora agravante violação dos artigos 51, II, e 53 do Código de Defesa do Consumidor e 1.197 do Código Civil.
+Não merece reforma a decisão agravada.
+Com efeito, consignou o Tribunal de origem (fls. 437-438/e-STJ):
+Da rescisão do contrato de mútuo em razão da redução da renda
+A adoção da teoria da base objetiva do negócio jurídico pelo Código do Consumidor (art. 6º, inciso V) tem como efeito primordial a inexigência, como requisito autorizador da revisão contratual em sede judicial, do fator "imprevisibilidade", bastando que a onerosidade excessiva decorra de um fato superveniente.
+Contudo, a aplicação de tal regra não significa, necessariamente, que qualquer dificuldade enfrentada pela contratante ao longo da execução contratual irá autorizar o acolhimento do pedido revisional. Isso porque o art. 6º, V, do CDC é aplicável apenas quando fatos supervenientes atingem o valor das prestações, tornando-as excessivamente onerosas, e não quando fatos da vida do mutuário, como a perda do emprego ou a separação, tornam impossível o pagamento das parcelas pactuadas, consoante vem entendendo a jurisprudência:
+(..)
+A alegação de que não mais possui condições financeiras para arcar com o pagamento dos encargos contratuais não tem o condão de, por si só, legitimar o desfazimento unilateral do negócio jurídico, em face da não demonstração de que houve descumprimento das cláusulas contratuais pelo agente financeiro.
+Consoante os termos da Lei nº 9.514/97, a parte autora apenas teria direito à devolução de eventual diferença entre o valor de venda do imóvel e o valor da dívida (deduzidas ainda as despesas com o procedimento executivo), não havendo falar em restituição dos valores pagos pelo imóvel com recursos próprios ou do FGTS (até mesmo porque tais recursos se destinaram ao vendedor do imóvel, e não ao agente financeiro), e nem dos valores pagos a título de prestação mensal.
+(..)
+Verifico que, além de não terem sido impugnados especificamente os fundamentos do acórdão recorrido, a revisão do julgado demandaria o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Assinalo, aliás, que o entendimento do Tribunal de origem não diverge do desta Corte. Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO HABITACIONAL POR ALEGADA DIMINUIÇÃO DA RENDA FAMILIAR - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO, INSURGÊNCIA DOS AUTORES.
+1. Correta aplicação das súmulas 5 e 7 do STJ. A alteração da conclusão adotada pelo acórdão recorrido a respeito da inexistência de situação anômala que tenha onerado excessivamente o mútuo, demandaria novo exame do acervo fático-probatório dos autos e das cláusulas do contrato de financiamento, o que é vedado em sede de recurso especial.
+2. A teoria da imprevisão - corolário dos princípios da boa-fé e da função social do contrato -, a qual autoriza a revisão das obrigações contratuais, apenas se configura quando há onerosidade excessiva decorrente da superveniência de um evento imprevisível, alterador da base econômica objetiva do contrato, hipótese inocorrente no caso.
+3. A teoria da base objetiva difere da teoria da imprevisão por prescindir da previsibilidade, no entanto, ambas as teorias demandam fato novo superveniente que seja extraordinário e afete diretamente a base objetiva do contrato, circunstâncias não verificadas nesta demanda.
+4. Agravo interno desprovido.
+(AgInt no REsp 1514093/CE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/10/2016, DJe 07/11/2016)
+Em face do exposto, reconsidero a decisão de fls. 520-522/e-STJ e nego provimento ao agravo em recurso especial. Nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites dos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
