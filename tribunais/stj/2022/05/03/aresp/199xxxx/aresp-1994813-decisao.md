@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a" da Constituição Federal.
+Ação: de declaratória c/c cobrança, ajuizada por ALCEBIADES DORNELES DE OLIVEIRA (agravado), em face de JÚLIO CÉSAR SCHMITT SOUSA e OUTROS (agravados), na qual aduz que, após ouvir na rádio uma propaganda da empresa Alto Uruguai Empréstimo, que oferecia juros abaixo do praticado pelos bancos locais, procurou - no escritório da empresa - o réu JÚLIO CÉSAR SCHMIDT DE SOUSA, sendo esse o proprietário.
+Disse que, para prover demandas necessárias à sua subsistência, contraiu - ao longo dos últimos anos - vários empréstimos consignados, sendo o último realizado em setembro de 2014, para construir o túmulo de sua esposa. Referiu que os empréstimos consignados foram realizados por meio do Sr. JÚLIO, que era representante de vários bancos, entre eles o Banco de Minas Gerais (BMG). Observou que, para a obtenção dos empréstimos, sempre assinou todos os documentos solicitados pelo réu JÚLIO CÉSAR, e que os valores liberados eram descontados mensalmente de sua aposentadoria.
+Esclareceu que, com a finalidade de realizar a portabilidade de crédito consignado para outra instituição bancária, por orientação do Sr. JÚLIO CÉSAR DE SOUSA contratou os serviços profissionais da ré LINA HELENA MICHALSKI, advogada, para o ajuizamento de ação de "obrigação de fazer acumulada com danos morais" contra o Banco de Minas Gerais.
+Por derradeiro, aduz que foram praticados pelos demandados no exercício de mandato de advogado outorgado pelo demandante para o ajuizamento da citada ação judicial contra o banco BMG. Sustenta que os valores levantados, decorrentes de êxito na referida demanda, não foram devidamente repassados ao autor.
+Decisão de admissibilidade do TJ/RS: inadmitiu o recurso especial, em razão da:
+i) não demonstração de violação do art. 489 do CPC/15; e
+ii) incidência das Súmulas 5 e7, ambas do STJ ("desde a contratação do empréstimo pelo apelado junto ao Banco BMG, por intermédio de Júlio, até a formalização do contrato de cessão de direitos, os apelantes articularam esforços para ludibriar o apelado" - e-STJ, fl. 728); e
+iii) incidência da Súmula 7/STJ (art. 370 do CPC/15).
+ARESP de JÚLIO CÉSAR SCHMITT SOUSA e OUTROS: não impugnou, de maneira consistente, a inaplicabilidade do seguinte óbice: incidência da Súmula 5/STJ ("desde a contratação do empréstimo pelo apelado junto ao Banco BMG, por intermédio de Júlio, até a formalização do contrato de cessão de direitos, os apelantes articularam esforços para ludibriar o apelado" - e-STJ, fl. 728).
+RELATADO O PROCESSO, DECIDE-SE.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Necessário salientar que o afastamento do óbice deve ocorrer com a devida explicação por parte do recorrente do porquê de sua não aplicação de maneira concreta na hipótese em análise.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ, fl. 662), para 20%, observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
