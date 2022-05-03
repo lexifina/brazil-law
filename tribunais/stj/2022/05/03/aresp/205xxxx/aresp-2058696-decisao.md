@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por ADM DO BRASIL LTDA. em face de acórdão assim ementado (fl. 174):
+Arrendamento rural - Sacas de soja - Ação de execução para entrega de coisa certa - Decisão que determinou a suspensão da execução em relação ao coexecutado produtor rural Marcelo, em razão da recuperação judicial deferida - Manutenção - Cabimento - Demanda fundada em contratos de compra e venda de soja com garantia de penhor agrícola - Crédito da exequente que não possui natureza extraconcursal - Necessidade de observância ao § 3º, do art. 49, da Lei nº 11.101/2005.
+Recurso da exequente desprovido.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 193/197).
+Nas razões do especial, a parte ora agravante alega ofensa aos arts. 64, § 1º, 489, § 1º, I, III, IV e VI, e 1.022, II, do Código de Processo Civil/2015; e 6º, 47 e 49, caput, §§ 3º e 4º, da Lei Complementar n. 101/2000. Preliminarmente, aponta omissão do Tribunal de origem, ao não se pronunciar sobre as questões postas em debate nos embargos de declaração. No mérito, argui que o Juízo de origem não tem competência para julgar a questão e que, por se tratar de matéria de ordem pública, deve ser discutida em qualquer grau de jurisdição. Acrescenta que submetidas à recuperação judicial "apenas obrigações pecuniárias" (fl. 204) e não as obrigações de dar.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+O Tribunal de origem, ao julgar os embargos de declaração, concluiu ser inviável aanálise do tema referente à competência do juízo recuperacional, assim se pronunciando (fl. 196):
+(..) a alegação de competência do Juízo recuperacional trata de inovação recursal que sequer foi direcionada/apreciada pelo Juízo de origem.
+Logo, as considerações constantes no V. Acórdão já proferido se apresentaram mais do que suficientes para esclarecer os motivos que ensejaram no resultado da irresignação recursal, mesmo que tenha sido contrário aos interesses da embargante.
+A conclusão acima reproduzida está em desarmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, que já se posicionou no sentido de que "A competência absoluta, por constituir matéria de ordem pública, pode ser apreciada a qualquer tempo e grau de jurisdição pelas instâncias ordinárias" (AgInt no REsp 1657028/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 20.2.2020).
+Em face do exposto, prejudicada a análise das demais questões, conheço do agravo para, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dar provimento ao recurso especialdeterminando o retorno dos autos ao Tribunal de origem, com vistas ao julgamento referente à competência do juízo.
+Intimem-se.
