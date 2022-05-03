@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de OSMAR APARECIDO DE SOUZAcontra o v. acórdão prolatado pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOna Revisão Criminal n. 0001617-57.2017.8.24.0033.
+Depreende-se dos autos que o paciente foi condenado como incurso nas sanções do art. 33, caput, da Lei n. 11.343/06e no art. 16, da Lei n.10.826/03, às penas de 11 (onze) anos e 01 (um) mês de reclusão, em regime fechado, e ao pagamento de 712 (setecentos e doze) dias-multa mínimos (fls. 11-25).
+Inconformada, defesa interpôsrecurso de apelação ao Tribunal de origem, que negou provimento ao apelo,nos termos do acórdão juntado às fls. 26-32.
+Ajuizada revisão criminal, o pedido foi indeferido pela Corte de origem, por maioria de votos,nos termos do v. acórdão ora recorrido, juntado às fls. 33-41, não ementado no original.
+No presente writ, a impetrante sustenta a ilegalidade na segunda etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a incidência da reincidência.
+Requer, ao final, a concessão da ordem, com vistas a reduzir a pena do paciente (fls. 3-10).
+O pedido liminar foi indeferido às fls. 82-83.
+As informações foram prestadas às fls. 89-126.
+O Ministério Público Federal, à fl. 128-129, manifestou-se pelo não conhecimento do writ e, caso conhecido, peladenegação da ordem, em v. parecer não ementado.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Destarte, passo ao exame das razões veiculadas no mandamus.
+A impetrante sustenta que deve ser afastada a reincidência com base em umacondenação por posse de entorpecentes para consumo, como consequente redimensionamento da pena aplicada ao paciente.
+Quanto ao punctum saliens, o Tribunal de origem, quando do julgamento da revisão criminal,assim se pronunciou, in verbis (fls. 408-410, grifei):
+"A reprimenda foi assim estabelecida: pena-base fixada em 1/5 acima do mínimo legal, pelos maus antecedentes e pela quantidade de droga apreendida, acrescida de 1/6 pela reincidência, resultando pena de 7 (sete) anos de reclusão e 700 (setecentos) dias-multa, no piso, para o delito de tráfico de drogas, e 4 (quatro) anos e 1 (um) mês de reclusão e 12(doze) dias-multa, no piso, pelo delito de posse irregular. Não concedido o privilégio em relação ao delito de tráfico de drogas em conta da reincidência. Observado o concurso material e somadas as reprimendas, a pena final ficou estabelecida em 11 (onze) anos e 01(um) mês de reclusão, em regime fechado, e ao pagamento de 712(setecentos e doze) dias-multa mínimos (fls. 207/221).
+A reincidência se verifica às fls. 51, por crime previsto no artigo 28 da Lei nº 11.343/06, e bem determinado o agravamento de 1/6.
+Ressalte-se que a condenação anterior por crime de posse de droga para uso próprio é capaz de gerar reincidência, pois reflete conduta lesiva ao bem jurídico protegido pela norma penal, e não se vislumbra, com a atual legislação, a descriminalização do fato típico ali previsto, mas apenas a despenalização daquele comportamento, através da adoção de penas alternativas que sequer eram previstas na época da edição do Código Penal e sua Lei de Introdução.
+ ..
+Ante o exposto, INDEFIRO o pedido de revisão criminal."
+Pois bem.
+Depreende-se dos excertos colacionados que a Corte de origem, ao julgar improcedente a revisão criminal,mantendo a condenação e a dosimetria da pena aplicada ao ora paciente nos moldes anteriormente determinados, entendeu ser possível considerar a condenação porposse de entorpecentes para consumo próprio comoreincidência.
+Entretanto, ao contrário do que decidido pelo eg. Tribunala quo, ambas as Turmas da Terceira Seção desta Corte Superior, em recentes julgados, têm decididoser desproporcional o reconhecimento da agravante da reincidência, ou da valoração negativa da vetorial antecedentes, decorrente de condenação anterior pelo delito do art. 28, caput, da Lei n. 11.343/2006.
+A propósito:"o prévio apenamento do agente pela conduta de porte de drogas para consumo próprio (art. 28 da Lei de Drogas) não constitui causa geradora dereincidênciae adequado, também, afastar a sua incidência como fundamento para negativar osantecedentesdo réu. Precedentes" (AgRg no HC 480.011/SC,Sexta Turma, Rel. Min.Rogério Schietti Cruz, DJe 18/12/2020, grifei).
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONDENAÇÃO ANTERIOR PELO ART. 28 DA LEI 11.343/2006. MAUS ANTECEDENTES AFASTADOS. SOBRESTAMENTO DO FEITO. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ambas as Turmas da Terceira Seção desta Corte, em recentes julgados, tem decidido ser desproporcional o reconhecimento da agravante da reincidência decorrente de condenação anterior pelo delito do art. 28 da Lei n. 11.343/2006, uma vez que a infringência da referida norma legal não acarreta a aplicação de pena privativa de liberdade e sua constitucionalidade está sendo debatida no STF. Precedentes.
+2. A Quinta Turma deste Tribunal passou a adotar o entendimento de que, com maior razão, por ser o antecedente um instituto penal subsidiário ao da agravante da reincidência, é incabível, também, a utilização de condenação anterior pelo delito de posse de drogas à título de maus antecedentes, para aumentar a pena-base, ou para justificar o afastamento do tráfico privilegiado.
+ ..
+4. Agravo regimental desprovido."(AgRg no REsp 1.916.629/MG,Quinta Turma, Rel. Min.Ribeiro Dantas, DJe 10/05/2021, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS.CONDENAÇÃO ANTERIOR PELA PRÁTICA DO CRIME DEPORTE DE DROGAS PARA CONSUMO PRÓPRIO. MAUS ANTECEDENTES. NÃO CONFIGURAÇÃO.AGRAVO REGIMENTAL NÃO PROVIDO.
+1.A jurisprudência desta Corte Superior entende que o prévio apenamento do agente pela conduta de porte de drogas para consumo próprio (art. 28 da Lei de Drogas) não constitui causa geradora de reincidência e adequado, também, afastar a sua incidência como fundamento para negativar os antecedentes do réu. Precedentes.
+2. Agravo regimental não provido."(AgRg no HC 480.011/SC,Sexta Turma, Rel. Min.Rogério Schietti Cruz, DJe 18/12/2020, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIME DE TRÁFICO DE DROGAS E DE RESISTÊNCIA. DOSIMETRIA DAS PENAS. REDUÇÃO DAS PENAS-BASE.NEGATIVAÇÃO DOS ANTECEDENTES CRIMINAIS POR CONDENAÇÃO ANTERIOR POR POSSE DE DROGAS PARA USO PRÓPRIO. DESPROPORCIONALIDADE. DECOTE DOS MAUS ANTECEDENTES. POSSIBILIDADE. ATENUANTE DA CONFISSÃO ESPONTÂNEA E AGRAVANTE DA REINCIDÊNCIA ESPECÍFICA. INEXISTÊNCIA DE PREPONDERÂNCIA. COMPENSAÇÃO INTEGRAL. POSSIBILIDADE. NOVO MONTANTE DAS SANÇÕES ESTABELECIDO EM 6 ANOS DE RECLUSÃO E 600 DIAS-MULTA (TRÁFICO DE DROGAS) E 2 MESES DE DETENÇÃO (CRIME DE RESISTÊNCIA). AGRAVO REGIMENTAL NÃO PROVIDO.
+-Consoante o entendimento firmado no REsp n. 1.672.654/SP (Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 30/8/2018), revela-se desproporcional o reconhecimento da reincidência em virtude de anterior condenação pelo delito previsto no art. 28 da Lei n. 11.343/2006. Precedentes.
+- Desse modo, se os efeitos da reincidência decorrentes de anterior condenação por posse de drogas para uso próprio devem ser afastados, com mais razão ainda, os relativos à circunstância judicial dos maus antecedentes, razão pela qual essa vetorial deve ser decotada das penas-base do paciente, para ambos os delitos.
+- Relativamente à agravante da reincidência, no julgamento do HC n. 365.963/SP (Rel. Ministro FELIX FISCHER, DJe 23/11/2017), a Terceira Seção dessa Corte pacificou entendimento no sentido de que a reincidência, seja ela específica ou não, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não foi ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito.
+- Nova dosimetria das penas realizado, ficando as sanções estabelecidas em 6 (seis) anos de reclusão, além de 600 dias-multa - tráfico de drogas -, e 2 (dois) meses de detenção - crime de resistência -, mantidos os demais termos das condenações.
+- Agravo regimental não provido."(AgRg no HC 520.151/SP,Quinta Turma, Rel. Min.Reynaldo Soares da Fonseca, DJe 27/9/2019, grifei).
+Ante o exposto, não conheço do presente habeas corpus. Todavia, concedo a ordem de ofício, para afastar a agravante da reincidência,fixando a pena do paciente para o crime de tráfico de drogas em 06 (seis) anos de reclusão e 600 dias-multa; epara o delito de posse de muniçãoem 03(três) anos e 06 (seis) meses de reclusão, mais 11(onze) dias-multa, totalizando 09 (nove) anos e06 (seis) meses de reclusão, e611 (seiscentos e onze) dias-multa, mantidos os demais termos da condenação.
+P. e I.
+Brasília, 03 de maio de 2022.
+Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT)
+Relator
