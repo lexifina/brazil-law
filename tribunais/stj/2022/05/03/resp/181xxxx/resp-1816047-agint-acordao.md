@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer em parte do agravo interno e, nessa parte, negar-lhe provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DEVOLUÇÃO DE VALORES. PAGAMENTO BASEADO EM ACÓRDÃO DO TJAM EM MANDADO DE SEGURANÇA. REFORMA ATRAVÉS DE RECURSO EXTRAORDINÁRIO NO STF. IMPOSSIBILIDADE. PRECEDENTES. OUTRO FUNDAMENTO. NÃO IMPUGNADO. ART. 1.021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ.
+1. Cinge-se a controvérsia em estabelecer possibilidade ou não de ressarcimento ao erário de valores percebidos de boa-fé pelo servidor público, por força de decisão judicial exarada em mandado de segurança, a qual, posteriormente, veio a ser modificada pelo Supremo Tribunal Federal, por intermédio de recurso extraordinário.
+2. O Tribunal de origem, ao apreciar a controvérsia,consignou que o caso em apreço não se tratade pagamento deferido através de tutela provisória posteriormente revogada, mas de valores de benefício previdenciário pagos em função de acórdão do TJAM que julgou o Mandado de Segurança n. 2007.001754-9, que posteriormente foi modificada pelo STF através de recurso extraordinário. Desse modo, entendeu que não há que se falar em obrigação de devolução dos valores até então pagos.
+3. É pacífica a orientação desta Corte Superiorde que é incabível a devolução de valores percebidos por servidor público ou pensionista de boa-fé, decorrente de decisão judicial posteriormente reformada, em recurso excepcionais.
+4. Aparte não refuta a afirmativa de incidência da Súmula 284 do STF quanto à alegação de violação do art. 1.022 do CPC. A ausência de combate específico às conclusões da decisão combatida impossibilita o conhecimento do agravo interno, seja em virtude do disposto no art. 1.021, § 1º, do CPC/2015, seja pela incidência do enunciado da Súmula 182/STJ.
+5. Agravo interno parcialmente conhecido e, nessa extensão,não provido.
+RELATÓRIO
+Trata-se de agravo interno manejadocontra decisão que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento (e-STJ, fls. 334-337).
+A agravante alega que a administração pública pode solicitar a restituição de valores pagos indevidamente a seus servidores por cumprimento de decisão judicial precária sob pena de enriquecimento ilícito por parte dos administrados em observância ao disposto nos arts. 884, caput, e 885 do Código Civil.
+Afirma que o caso em exame não se trata de erro de interpretação de lei, mas sim de reconhecimento de ausência de direito dosrecorridos.
+Apresentação impugnação ao agravo interno (e-STJ, fls. 374-414).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DEVOLUÇÃO DE VALORES. PAGAMENTO BASEADO EM ACÓRDÃO DO TJAM EM MANDADO DE SEGURANÇA. REFORMA ATRAVÉS DE RECURSO EXTRAORDINÁRIO NO STF. IMPOSSIBILIDADE. PRECEDENTES. OUTRO FUNDAMENTO. NÃO IMPUGNADO. ART. 1.021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ.
+1. Cinge-se a controvérsia em estabelecer possibilidade ou não de ressarcimento ao erário de valores percebidos de boa-fé pelo servidor público, por força de decisão judicial exarada em mandado de segurança, a qual, posteriormente, veio a ser modificada pelo Supremo Tribunal Federal, por intermédio de recurso extraordinário.
+2. O Tribunal de origem, ao apreciar a controvérsia,consignou que o caso em apreço não se tratade pagamento deferido através de tutela provisória posteriormente revogada, mas de valores de benefício previdenciário pagos em função de acórdão do TJAM que julgou o Mandado de Segurança n. 2007.001754-9, que posteriormente foi modificada pelo STF através de recurso extraordinário. Desse modo, entendeu que não há que se falar em obrigação de devolução dos valores até então pagos.
+3. É pacífica a orientação desta Corte Superiorde que é incabível a devolução de valores percebidos por servidor público ou pensionista de boa-fé, decorrente de decisão judicial posteriormente reformada, em recurso excepcionais.
+4. Aparte não refuta a afirmativa de incidência da Súmula 284 do STF quanto à alegação de violação do art. 1.022 do CPC. A ausência de combate específico às conclusões da decisão combatida impossibilita o conhecimento do agravo interno, seja em virtude do disposto no art. 1.021, § 1º, do CPC/2015, seja pela incidência do enunciado da Súmula 182/STJ.
+5. Agravo interno parcialmente conhecido e, nessa extensão,não provido.
+VOTO
+A agravante não trouxe tese jurídica capaz de modificar o posicionamento anteriormente firmado.
+Cinge-se a controvérsia em estabelecer possibilidade ou não de ressarcimento ao erário de valores percebidos de boa-fé pelo servidor público, por força de decisão judicial exarada em mandado de segurança, a qual, posteriormente, veio a ser modificada pelo Supremo Tribunal Federal, por intermédio de recurso extraordinário.
+Ao apreciar a controvérsia, o Tribunal de origem consignou que o caso em apreço não se tratade pagamento deferido através de tutela provisória posteriormente revogada, mas de valores de benefício previdenciário pagos em função de acórdão do TJAM que julgou o Mandado de Segurança n. 2007.001754-9, que posteriormente foi modificada pelo STF através de recurso extraordinário. Desse modo, entendeu que não há que se falar em obrigação de devolução dos valores até então pagos. Veja-se (e-STJ, fls. 244-246):
+ ..  quando o pagamento do beneficio é deferido por acórdão de Tribunal local, em tutela definitiva, posteriormente modificada por Tribunal Superior através de recurso excepcional, os valores até então pagos não devem ser devolvidos, em função da legítima expectativa depositada numa decisão do Judiciário tomada em cognição exauriente por órgão colegiado.
+ ..
+Deste modo, não se tratando de pagamento deferido através de tutela provisória posteriormente revogada (única hipótese em que a Jurisprudência do STJ admite a devolução dos valores), mas de valores de benefício previdenciário pagos em função de acórdão do TJAM que julgou o Mandado de Segurança nº 2007.001754-9 (fls.64/72), que posteriormente foi modificada pelo STF através de recurso extraordinário, não há que se falar em obrigação de devolução dos valores até então pagos.
+O acórdão proferidopelo Tribunal regional está em harmonia com a orientação desta Corte Superiorde que é incabível a devolução de valores percebidos por servidor público ou pensionista de boa-fé, decorrente de decisão judicial posteriormente reformada, em recurso excepcionais.
+No aspecto, os seguintes precedentes:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. RECEBIMENTO DE VALORES DE ÍNDOLE ALIMENTAR EM RAZÃO DE SENTENÇA JUDICIAL DE MÉRITO. CONFIRMAÇÃO PELO TRIBUNAL DE ORIGEM. DECISÃO REFORMADA NO JULGAMENTO DO RECURSO ESPECIAL. DEVOLUÇÃO DOS VALORES RECEBIDOS DE BOA-FÉ. IMPOSSIBILIDADE. PRECEDENTES DO STJ.
+I - É pacífico o entendimento no Superior Tribunal de Justiça no sentido de não ser necessária a devolução dos valores percebidos pelo segurado, a título de benefício previdenciário concedido em sentença confirmada em 2º instância, que, posteriormente, fora reformada em sede de Recurso Especial, porquanto a dupla conformidade entre a decisão a quo e o acórdão enseja legítima expectativa de titularidade do direito, restando caracterizada sua boa- fé objetiva. Precedentes: AgInt no REsp 1540492/RN, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/06/2017, DJe 28/06/2017; AgRg no AgRg no REsp. 1.473.789/PE, Rel. Min. ASSUSETE MAGALHÃES, DJe 24.6.2016; e AgInt no REsp. 1.592.456/RS, Rel. Min. REGINA HELENA COSTA, DJe 18.10.2016.
+II - Agravo interno provido.
+(AgInt no REsp n. 1.642.664/RS, relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 15/3/2018, DJe de 21/3/2018).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO, POR ANALOGIA, DO ÓBICE DA SÚMULA N. 283/STF. DEVOLUÇÃO DE VALORES PERCEBIDOS POR SERVIDOR PÚBLICO OU PENSIONISTA DE BOA-FÉ, DECORRENTE DE DECISÃO JUDICIAL POSTERIORMENTE REFORMADA, EM SEDE DE RECURSO ESPECIAL. NÃO CABIMENTO. SÚMULA N. 83/STJ. INCIDÊNCIA.
+I - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual é incabível a devolução de valores percebidos por servidor público ou pensionista de boa-fé, decorrente de decisão judicial posteriormente reformada, em sede de recurso especial.
+III - O recurso especial, interposto pela alínea a e/ou pela alínea "c", do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula 83/STJ.
+IV - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+V - Agravo Regimental improvido.
+(AgRg no AREsp n. 405.924/CE, relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 6/10/2015, DJe de 14/12/2015).
+Por fim, a parte não refuta a aplicação da Súmula 284 do STF quanto à alegação de violação do art. 1.022 do CPC. A ausência de combate específico às conclusões da decisão combatida impossibilita o conhecimento do agravo interno, seja em virtude do disposto no art. 1.021, § 1º, do CPC/2015, seja pela incidência do enunciado da Súmula 182/STJ.
+No aspecto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+(AgInt no REsp n. 1.380.250/MG, relator MinistroBENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 27/11/2018, DJe de 7/12/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 544, § 4º, I, DO CPC/73 (ATUAIS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ) E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. Trata-se de Agravo interno, interposto em 19/04/2016, contra decisão monocrática, publicada em 14/04/2016, na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela ausência de omissão no acórdão recorrido, pela incidência das Súmulas 284 e 356/STF e 7 e 83/STJ, bem como porque ausente a demonstração da divergência jurisprudencial invocada. O Agravo em Recurso Especial interposto não impugnou todos os óbices, o que conduziu ao seu não conhecimento, nos termos do art. 544, § 4º, I, do CPC/73 (atuais arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ), cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno, a parte recorrente apresenta razões outras, deixando de impugnar, novamente, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno sem infirmar, especificamente, os fundamentos da decisão agravada e apresentando, ainda, outra fundamentação, dela dissociada, constitui óbice ao conhecimento do inconformismo a Súmula 182 desta Corte, em face do art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Agravo interno não conhecido.
+(AgInt no AREsp n. 866.675/SP, relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 25/5/2016).
+Ante o exposto, conheço em parte do agravo interno e, nessa extensão, nego-lhe provimento.
+É como voto.
