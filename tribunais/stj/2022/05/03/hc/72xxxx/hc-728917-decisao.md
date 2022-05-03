@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se dehabeas corpus, sem pedido liminar, impetrado em favor deCLEBER FRANCISCO DE ASSIScontra acórdão do Tribunal de Justiça do Estado de São Pauloproferido na Apelação Criminaln.0008278-37.2015.8.26.0269.
+Na petição redigidade próprio punho (fls. 4-8), o Paciente-Impetrante sustentaa possibilidade dereconhecimento de continuidade delitiva entre condutas que foram julgadas em diferentes processos criminais já transitados em julgado.
+Por sua vez, aDefensoria Pública da União, às fls. 11-14, alega haver violaçãoao entendimento sedimentado na Súmula n. 443/STJ, tendo em vista que as instâncias de origem não declinaram motivos concretos para exasperar a sanção concernente ao crime de roubo, na terceira fase da dosimetria, na fração de 3/8 (três oitavos).
+Requerem, o reconhecimento da continuidade delitiva e, "na Apelação criminal nº 0008278-37.2015.8.26.0269, seja reduzida ao mínimo legal (um terço) a causa de aumento prevista no § 2º do art. 157, da redação então vigente do Código Penal" (fl. 14).
+Foram prestadas informações às fls. 28-38.
+O Ministério Público Federal opinou "pelo não conhecimento do habeas corpus e pelo encaminhamento dos autos ao Tribunal de Justiça do Estado de SãoPaulo/SP, para abertura de vista à Defensoria Pública Estadual para adoção das providências que entender cabíveis" (fl. 47).
+É o relatório.Decido.
+No caso, não é possível analisar a viabilidade dos pleitos deduzidos, na medida em que os autos foram mal instruídos. Com efeito, oImpetrante não juntou acópiada sentença condenatória, tampouco cópia de eventual julgado emanadopelo Tribunal de origem que tenha apreciado o pedido de reconhecimento da continuidade delitiva.
+Como se sabe, "a adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe de 07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, a petição inicial não deve ser conhecida,porque a Defesanão se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019;RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel.Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019;AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019;AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ressalto que não há óbice ao manejo denovowritpara a análise da controvérsia,desde que seja juntadaadocumentaçãofaltante.
+Ante o exposto, NÃO CONHEÇO do habeas corpus.
+Determino o envio dos autos à Defensoria Pública do Estado de São Paulo, para que avalie a situação do Paciente e adote as providências que entender cabíveis.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOESSENCIAL À ANÁLISE DA CONTROVÉRSIA. WRITNÃO CONHECIDO.
