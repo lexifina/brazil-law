@@ -1,0 +1,56 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MICHELE MARTINELLI SARTORI CORREA com fundamento na alínea a do inciso III do art. 105 da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça de do Estado de São Paulo, assim ementado (e-STJ, fl. 278):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. Penhora das quotas sociais vinculadas ao nome da devedora, referente às empresas das quais faz parte do quadro societário. Aplicabilidade dos artigos 835, inciso IX, do CPC e 1.026, do Código Civil. Tentativas de localização de outros bens penhoráveis e bloqueio de ativos financeiros dos devedores, insuficientes. Decisão mantida. RECURSO DESPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 305-311).
+Em suas razões recursais (e-STJ, fls. 284-297), sustenta a parte recorrente a existência de violação aos seguintes dispositivos:
+a) arts. 797, 804 e 805 do CPC/15, defendendo que a penhora das cotas de sua empresa viola o princípio da menor onerosidade e só pode ser admitida depois de esgotados os meios de tentativa de localização de bens do devedor;
+b) art. 1026, § 2º do CPC/15, alegando que os embargos de declaração foram opostos com intuito de prequestionar a matéria e não tinham caráter protelatório, razão pela qual a multa aplicada pelo Tribunal de origem deve ser afastada.
+Contrarrazões apresentadas às fls. 315-322 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 323-324 (e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Inicialmente, em relação à alegada violação aos arts. 797, 804 e 805 do CPC/15, a parte defende que a penhora das cotas de sua empresa viola o princípio da menor onerosidade e só pode ser admitida depois de esgotados os meios de tentativa de localização de bens do devedor.
+Sobre o tema, a Corte estadual asseverou o seguinte (e-STJ, fl.279):
+O débito exequendo perfazia, em novembro de 2020, a monta de R$ R$ 128.562,73 (cento e vinte e oito mil, quinhentos e sessenta e dois reais e setenta e três centavos), no entanto, a tentativa de bloqueio de ativos financeiros obteve apenas a importância de R$ 1.940,80, que é irrisória frente ao valor do débito. (fls. 163/164 e 180/182 dos autos de origem).
+Em que pese a busca por veículos constantes em nome da devedora, via Renajud, apontar a existência de 02 automóveis vinculados ao nome dela, nota-se que são veículos antigos (anos 1998 e 1985) e, portanto, sofrem depreciação com o passar do tempo, de modo que não são suficientes para satisfação da execução (fls. 193 dos autos de origem).
+A tentativa de localização de bens em nome da executada, através da quebra do sigilo fiscal via sistema Infojud, apontou a existência de quotas sociais de propriedade da devedora. (fls. 186). Sendo assim, há justificativa para deferimento da penhora das quotas sociais vinculadas ao nome da executada, conforme previsto no inciso IX, do artigo 835 do CPC.
+Ora, as quotas sociais são bens jurídicos, com valor econômico, configurando créditos que compõem o patrimônio individual do sócio e são passíveis constrição para saldar débito contraído por seu titular.
+Verifica-se, portanto, que o Tribunal de origem entendeu ser cabível a penhora das cotas sociais da empresa tendo em vista que houve esgotamento das tentativas de localização de bens em nome da agravante. Para modificar a referida conclusão e acolher a tese recursal seria necessário reexaminar matéria fático-probatória, o que é vedado em sede de recurso especial, ante a incidência da Súmula 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ART. 522 DO CPC/1973. CUMPRIMENTO DE SENTENÇA. PENHORA DE COTAS SOCIAIS. POSSIBILIDADE. SUBSTITUIÇÃO DA PENHORA. PRINCÍPIO DA MENOR ONEROSIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É perfeitamente possível a penhora de cotas de sociedade limitada, haja vista que tal constrição, além de não implicar ofensa ao princípio da affectio societatis, não encontra nenhuma vedação legal.
+4. Por demandar incursão na seara fático-probatória, a verificação da maior ou menor onerosidade para o devedor, em face da penhora ocorrida nas instâncias ordinárias, é medida que encontra intransponível óbice na Súmula nº 7/STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 551.613/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/06/2020, DJe 03/08/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO FICTO. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. FALTA DE PREQUESTIONAMENTO DOS DISPOSITIVOS APONTADOS COMO VIOLADOS. INCIDÊNCIA DA SÚMULA 211/STJ. PENHORA DAS COTAS SOCIAIS. POSSIBILIDADE. JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. PRÉVIO ESGOTAMENTO DE OUTRAS MODALIDADES DE PENHORA E PRINCÍPIO DA MENOR ONEROSIDADE AO DEVEDOR. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Este Sodalício, ao interpretar o art. 1.025 do CPC/2015, assentou que, para admitir o prequestionamento ficto, faz-se necessário indicar a violação do art. 1.022 do CPC/2015, sob pena de incidir o óbice da Súmula 211/STJ. Precedentes. 2. Esta eg. Corte Superior orienta-se no sentido de permitir a penhora de cotas sociais, mormente na hipótese em que houve tentativa prévia de esgotamento de outros meios de satisfação da dívida. Precedentes. 3. No caso, o eg. Tribunal estadual, conforme os elementos probatórios dos autos, concluiu ter ocorrido esgotamento de outras modalidades de penhora menos onerosas ao devedor. A pretensão de revisar tal entendimento demandaria revolvimento fático-probatório, inviável em sede de recurso especial, conforme Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1363626/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/05/2019, DJe 14/06/2019)
+2. Com relação à multa aplicada com base no artigo 1.026, § 2º, do CPC/2015, o Tribunal de origem entendeu que ficou evidenciado o nítido caráter protelatório dos embargos, tendo em vista que a matéria objeto da insurgência estava devidamente esclarecida no acórdão, consoante se observa no seguinte trecho extraído do acórdão hostilizado (fls. 310-311, e-STJ):
+Verifica-se que a embargante pretende modificar o decidido, prática que é vedada no sistema processual pátrio. Cabe acrescentar que o objetivo dos embargos de declaração, mesmo para fins de prequestionamento, é suprir, se existentes, omissões, contradições ou obscuridades no julgado, nos limites traçados pelo artigo 1.022 do Código de Processo Civil, o que não se vislumbra na hipótese vertente. Dessa forma, constatando-se a ausência de quaisquer das hipóteses autorizadoras do recurso integrativo, a rejeição dos embargos é medida que se impõe. Da mesma forma, a questão do prequestionamento da matéria em exame também não merece guarida.
+(..)
+Assim sendo, constatando-se a ausência de quaisquer das hipóteses autorizadoras do recurso integrativo, a rejeição dos embargos é medida que se impõe. Destarte, a oposição destes embargos de declaração contribui apenas para a protelação do desfecho final da demanda, atentando contra a garantia constitucional da celeridade processual (CF, art. 5º, LXXVIII), o que atrai a aplicação da multa insculpida no art. 1.026, § 2º, do CPC, que arbitro em 1% sobre o valor da causa.
+Nesse contexto, para o acolhimento da pretensão recursal, seria imprescindível derruir a afirmação contida no decisum atacado acerca do caráter manifestamente procrastinatório do recurso interposto, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 do STJ.
+A propósito, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. DESAPROPRIAÇÃO. IMPUGNAÇÃO DA QUALIFICAÇÃO DO PERITO. ALEGAÇÃO NO PRIMEIRO MOMENTO PROCESSUAL OPORTUNO. PRECLUSÃO. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. COBERTURA FLORÍSTICA. CÁLCULO EM SEPARADO. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. EMBARGOS PROTELATÓRIOS. APLICAÇÃO DE MULTA. REEXAME DOS FATOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. EXAME PREJUDICADO.
+(..)
+9. É pacífico o entendimento no STJ de que a análise do artigo 1.026, § 2º, do CPC, que trata da multa por interposição de Embargos de Declaração protelatórios, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+(..)
+(REsp 1698577/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/11/2018, DJe 19/11/2018)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. ASTREINTES. INTIMAÇÃO PESSOAL PARA CUMPRIMENTO DE OBRIGAÇÃO DE FAZER DETERMINADA EM DECISÃO LIMINAR NA FASE DE CONHECIMENTO. ART. 815 DO NCPC. DISPOSITIVO DITO VIOLADO. CUMPRIMENTO DE SENTENÇA. TÍTULO QUE CONSOLIDOU A MULTA PROCESSUAL. TRÂNSITO EM JULGADO. CITAÇÃO PARA PAGAR. COMANDO NORMATIVO INEFICAZ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA Nº 284 DO STF. MULTA EM VIRTUDE DA INTERPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO CONSIDERADOS PROTELATÓRIOS. REFORMA DO JULGADO. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Para adotar conclusão diversa acerca da caráter protelatório dos embargos de declaração seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, a teor do que dispõe a Súmula nº 7 desta Corte, a qual não pode ser considerada terceira instância recursal.
+(..)
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AgInt no AREsp 1200751/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/09/2019, DJe 03/10/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA .ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES.PRESUNÇÃO DO PREJUÍZO. APLICAÇÃO DA SÚMULA N. 83/STJ. EMBARGOS DE DECLARAÇÃO CONSIDERADOS PROTELATÓRIOS. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO CPC DE 2015. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+(..)
+2. O Tribunal estadual, soberano no exame do acervo fático-probatório dos autos, entendeu pelo evidente intuito protelatório dos embargos de declaração, razão pela qual a pretensão de afastamento da multa prevista no art. 1.026, § 2º, do CPC de 2015 encontra óbice na Súmula 7 desta Corte.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1821349/AM, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/10/2019, DJe 23/10/2019)
+3. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
