@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesu no Rissato (Desembargador Convocado do TJDFT), Jo o Ot vio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZ FERNANDO DELFINO contra a decisão que não conheceu do presente habeas corpus, no qual se busca a alteração do regime prisional.
+O agravante reiterao argumento de que o agravamento do regime prisional está fundamentado na gravidade abstrata dos delitos, em ofensa ao Enunciado n. 440 da Súmula do STJ, de maneira que se mostra cabível a fixação do regime semiaberto.
+Requer a reconsideração da decisão agravada ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. DELITOS DE EXTORSÃO EM CONTINUIDADE DELITIVA. AGRAVAMENTO DO REGIME PRISIONAL COM FUNDAMENTO EM ELEMENTOS CONCRETOS. INAPLICABILIDADE DO ENUNCIADO N. 440 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. Ao contrário do que afirma o agravante, não há a incidência do Enunciado n. 440 da Súmula do STJ, visto que o regime fechado está devidamente fundamentado na maior periculosidade dos agentes e na gravidade elevada da conduta, evidenciadas por elementos concretos dos autos.
+2. Agravo regimental desprovido.
+VOTO
+Consta dos autos que o agravante foi condenado, em primeiro e segundo graus, à pena de7 anos, 3 meses e 3 dias de reclusão, no regime inicial fechado, pela prática de dois delitos de extorsão (art. 158, § 1º, c.c. o art. 71, ambos do Código Penal), conforme se extrai do seguinte trecho do acórdão da apelação:
+"As básicas de cada delito foram estabelecidas nos mínimos legais e majoradas em um sexto pela agravante do estado de calamidade pública, em razão da pandemia de COVID-19, reconhecida pelo Decreto Legislativo nº 06/20 e pelo Decreto Estadual nº 64.879/20, o que está correto. Na terceira fase, incidiu a majoração de um terço pela causa de aumento do concurso de agentes, perfazendo as reprimendas, individualmente, seis anos, dois meses e vinte dias de reclusão e quatorze dias-multa, de valor unitário de metade de um salário mínimo.
+A unidade mínima da sanção pecuniária, todavia, deve ser retornar ao piso legal, não havendo justificativa plausível para o seu aumento, observadas as condições financeiras de cada um dos réus (LUIS FERNANDO declarou que era taxista, auferindo cerca de R$3.000,00, por mês fls. 24 e 26; SAMUEL, economista e autônomo, recebendo R$ 2.500,00 por mês fls. 25 e 27).
+Ademais, de rigor o afastamento do concurso material de delitos, reconhecendo-se a continuidade delitiva, nos termos do artigo 71, do Código Penal, já que os recorrentes praticaram os crimes valendo-se de semelhante modo de execução, nas mesmas circunstâncias de tempo e lugar. Assim, tratando-se de duas condutas delitivas cometidas em sequência, as penas de um dos crimes são acrescidas de um sexto, totalizando sete anos, três meses e três dias de reclusão e dezesseis dias-multa, de unidade mínima.
+Considerando-se a gravidade dos fatos, evidenciando a extrema periculosidade dos réus, o regime fechado, eleito para o desconto inicial das privativas de liberdade, é adequado e merece ser prestigiado, com a nota de que os acusados dirigiram-se aos locais de trabalho dos ofendidos (além da residência da primeira vítima), mantendo postura de autoridade para intimidação delas e exigindo expressiva quantia em dinheiro, com emprego de grave ameaça, inclusive dando a entender que poderiam causar algum mal à família de Nilson." (fls. 46/47)
+Ao contrário do que afirma o agravante, não há a incidência do Enunciado n. 440 da Súmula do STJ, visto que o regime fechado está devidamente fundamentadona maiorpericulosidade dos agentes e gravidadeda conduta, evidenciadas por elementos concretos.
+"A jurisprudência desta Corte Superior se firmou no sentido de que, havendo fundamentação concreta, e diante das circunstâncias do caso, é possível a fixação de regime inicial mais gravoso para o cumprimento da pena"(AgRg no HC 647.767/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 8/4/2021).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
