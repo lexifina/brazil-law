@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo, interposto por ACTS MINISTRIES, em face de decisão que não admitiu recurso especial.
+O apelo extremo, a seu turno, fundamentado nas alíneas "a" e "c" do permissivo constitucional, foi manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. VERBA HONORÁRIA SUCUMBENCIAL DEVIDA AO PATRONO DA DEMANDADA. ACÓRDÃO DA APELAÇÃO QUE RECONHECE A SUCUMBÊNCIA MÍNIMA DA CONSTITUINTE, RÉ NA DEMANDA PRINCIPAL, DETERMINANDO QUE A BASE DE CÁLCULO DOS HONORÁRIOS SEJA O PROVEITO ECONÔMICO OBTIDO PELA DEMANDADA. DECISÃO AGRAVADA QUE FIXA O VALOR TOTAL DA CONDENAÇÃO COMO BASE DE CÁLCULO DA VERBA HONORÁRIA, O QUE SE AFIGURA ILÓGICO E CONTRÁRIO AO TÍTULO JUDICIAL. PROVEITO ECONÔMICO OBTIDO PELA DEMANDADAQUE SÓ PODE SER A DIFERENÇA ENTRE O QUE FOI PEDIDO E O RESULTADO ALCANÇADO AO FINAL DO PROCESSO. PROVIMENTO DO RECURSO.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a parte insurgente alegou violação aos artigos 85, 2º, e 86, parágrafo único do CPC,pois "teria que ser considerada como base de cálculo dos honorários sucumbenciais do Recorrido a condenação obtida em favor da Recorrente".
+Em juízo de admissibilidade, o apelo nobre foi inadmitido, razão pela qual foi interposto o agravo de fls. 112/125, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1.Sobre a base de cálculos dos honorários advocatícios arbitrados em desfavor da parte demandada, constou no acórdão recorrido:
+A r. decisão recorrida, com as vênias devidas, parte de premissa equivocada na medida em que, a prevalecer o raciocínio exposto, estar-se-ia utilizando o proveito econômico obtido pela demandante como base de cálculo, mas não foi isso que constou do acórdão.
+No caso em tela, a pretensão da demandante, ora agravada, era a condenação da ré, defendida pelo agravante, nos termos dos pedidos abaixo, extraídos de fl. 18 da inicial (grifamos).
+ ..
+Nessa linha de intelecção, a vantagem obtida pela demandada decerto foi não ter sido condenada a pagar tudo aquilo que a demandante, ora agravada, pleiteou, de modo que a base de cálculo dos honorários só pode ser a diferença entre o que foi pleiteado na inicial e o valor da condenação, qual seja, o valor fixado a título de danos morais(R$50.000,00)e o valor devido a título de danos materiais(R$ 193.785,76), ambos valores históricos.
+Com efeito, consoante a jurisprudência desta Corte, "No caso de sucumbência recíproca os honorários e ônus decorrentes devem ser distribuídos adequadamente, levando em consideração o grau de êxito de cada um dos envolvidos. Ademais, honorários sucumbenciais devem possuir como base de cálculo o valor da condenação ou o proveito econômico obtido (e não o pretendido) ou o valor atualizado da causa, devendo ser analisado a situação jurídica e o efetivo êxito de cada uma das partes envolvidas." (AgInt no AgInt no AREsp 1397224/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/10/2020, DJe 26/10/2020).
+Ora, se a ação foi julgada parcialmente procedente e houve sucumbência recíproca, por certo que o proveito econômico obtido pela parte demandada foi exatamente a diferença entre o que foi pleiteado na inicial e o que foi obtido com acondenação, tal como restou consignado no acórdão recorrido. Em outras palavras, havendo sucumbência recíproca, os honorários advocatícios devem ter como base de cálculo o proveito econômico obtido por cada parte: no caso da parte autora, o valor da condenação; mas no caso da parte ré, o valor do proveito econômico obtido com a improcedência parcial dos pedidos.
+Veja-se ainda:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. OBSERVÂNCIA DOS LIMITES E BASES DE CÁLCULO DO ART. 85, § 2º, DO CPC/2015 EM CASO DE PROVEITO ECONÔMICO NÃO IRRISÓRIO. OCORRÊNCIA. PRECEDENTE. PEDIDO INICIAL. IMPOSSIBILIDADE DE ALTERAÇÃO APÓS A ESTABILIZAÇÃO DA DEMANDA. PRECEDENTES. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Conforme entendimento da Segunda Seção do STJ, os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos limites percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, sendo subsidiária a aplicação do art. 85, § 8º, do CPC/2015, apenas possível na ausência de qualquer das hipóteses do § 2º do mesmo dispositivo (REsp 1.746.072/PR, Rel. p/ acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe de 29/3/2019).
+2. Caso concreto no qual, diante da sucumbência recíproca, os honorários advocatícios em benefício dos procuradores da parte ré foram fixados com base no proveito econômico obtido pela parcial procedência dos pedidos da ação, notadamente em vista do decaimento da parte autora quanto ao percentual de retenção dos valores pagos pela compra e venda de imóvel que serão objeto de restituição pela rescisão contratual causada.
+3. Em razão da estabilidade da demanda, não houve sucumbência da parte autora quanto ao termo inicial dos juros moratórios, o qual não foi determinado na petição inicial, mas judicialmente na sentença, como consectário legal da restituição de valores pela rescisão, sendo irrelevante a referência sobre matéria em momento posterior.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1810721/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/09/2020, DJe 01/10/2020)
+O acórdão recorrido, portanto, encontra-se em consonância com a jurisprudência desta Corte, o que atrai a incidência da Súmula 83 do STJ.
+2.Do exposto, com fundamento no art. 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao reclamo.
+Publique-se.
+Intimem-se.
