@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação da Súmula n. 7/STJ (e-STJ fls. 651/653).
+O acórdão do TJMGtraz a seguinte ementa (e-STJ fl. 269):
+EMENTA: PROCESSUAL CIVIL. BLOQUEIO EM CONTA BANCÁRIA. DEMONSTRAÇÃO DE INCIDÊNCIA SOBRE O FATURAMENTO DA EMPRESA. NÃO CUMPRIMENTO DOS REQUISITOS DO ARTIGO 866 DO CÓDIGO DE PROCESSO CIVIL. IRREGULARIDADE.
+- Feita a demonstração de que o saldo da conta bancária submetida a bloqueio judicial foi formado exclusivamente por valores correspondentes ao faturamento da empresa, devem ser cumpridos os requisitos do artigo 866 do Código de Processo Civil para a sua manutenção.
+- Pendente manifestação do credor sobre bem oferecido à penhora, em substituição do bloqueio feito em conta corrente, a constrição incidente sobre o faturamento da empresa não pode ser mantida, pois contraria o primeiro requisito legal, de ausência de outros bens penhoráveis.
+Os embargos de declaração foram rejeitados (e-STJ fls. 303/306).
+Nas razões do recurso especial (e-STJ fls. 309/325), fundamentado no art. 105, III, alíneas "a" e "c", da CF,a recorrente alegou dissídio jurisprudencial e desrespeito aos arts. 391, 421, 422 e 884 do CC/2002 e 831, 835 e 854 do CPC/2015, argumentando que "não há nos autos qualquer provade que os valores bloqueados nas contas bancárias do Recorrido seriam essenciais ao exercício das atividades da empresa, ou mesmo que tais valores efetivamente corresponderiam a penhora de faturamento do devedor, pelo que não se justifica o desbloqueio dos valores da forma determinada pelo Tribunal a quo" (e-STJ fl. 312).
+Foram apresentadas contrarrazões (e-STJ fls. 343/365).
+No agravo (e-STJ fls. 656/661), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 665/672).
+É o relatório.
+Decido.
+A Corte local não debateu o conteúdo dosarts. 391, 421, 422 e 884 do CC/2002 e 831, 835 e 854 do CPC/2015, a despeito dos aclaratórios opostos.
+Inafastável, dessa maneira, o óbice das Súmulas n. 282 do STF e 211 do STJ.
+O Tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, indeferiu a penhora defaturamento da empresarecorrida, nos seguintes termos (e-STJ fls. 272/275):
+A decisão agravada foi de manutenção da constrição, com os seguintes fundamentos:
+I - Impenhorabilidade dos valores constritos: Aponta o executado que a penhora via Bacenjud recaiu sobre os valores depositados em conta-corrente referente ao seu capital de giro, o que comprometeria a sua atividade empresarial. A execução deve se processar do modo menos gravoso ao devedor, nos termos do art. 620. Esse corolário da execução se reflete nos meios de penhora, ao vedar a constrição de patrimônio tal que inviabilize a atividade econômica da pessoa jurídica e, por conseguinte, qualquer chance de funcionamento e lucratividade. Ocorre que, no caso, não restou comprovada que o bloqueio determinado tenha recaído no capital de giro do executado. Os extratos que a acompanham a manifestação da parte não foram apresentados em sua integralidade, não sendo possível verificar a origem do valor bloqueado. A título exemplificativo, observo que não há sequer continuidade de datas, considerando que é apresentada a movimentação do dia 03/09/2018 e depois salta para o dia 13/09/2018. Dessa forma, mantenho o bloqueio realizado.
+Pelo que vejo, a decisão está amparada na ausência de prova de que a constrição recaiu sobre o capital de giro da ora agravante, pois "os extratos que acompanham a manifestação da parte não foram apresentados em sua integralidade, não sendo possível verificar a origem do valor bloqueado".
+Porém, da leitura que fiz do extrato constante do evento 39, vislumbrei outra realidade, já que o extrato contempla toda a movimentação do mês de setembro de 2018, até a data em que ocorreu o bloqueio sobre o saldo então existente. Transcrevo o histórico dos créditos e débitos existentes em tal período:
+Em tal cenário, a constrição deveria observar a regra disposta no artigo 866 do Código de Processo Civil, que transcrevo:
+(..)
+Pois bem. A agravante afirma que possui outros meios para a satisfação do crédito, fazendo indicação que o próprio julgador admite existir, como se pode ver na decisão agravada:
+III - Indicação de bem à penhora: Ao exequente sobre a nova oferta de bem à penhora, em 15 dias. Em caso de recusa, deverá a parte justificar de forma fundamentada.
+Além disso, nenhumas das providências exigidas pelos incisos do transcrito artigo 866 do CPC estão atendidas, o que é razão suficiente para que seja declarada a nulidade da constrição, tendo em vista que a jurisprudência deste Tribunal somente admite a penhora sobre faturamento quando presentes os requisitos legais. Cito precedentes:
+(..)
+Feitas tais considerações, DOU PROVIMENTO AO AGRAVO DE INSTRUMENTO para declarar nula a constrição feita na conta bancária da ora agravante, que, em verdade, recaiu sobre o seu faturamento sem a observância dos requisitos legais, razão pela qual, determino que o correspondente valor lhe seja restituído.
+Não há como ultrapassar as conclusões da Corte local, para admitir a constrição do numerário descrito noespecial, segundo defendido pela recorrente. Isso porque, para tanto, seria imprescindível o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Ademais, segundo a jurisprudência do STJ, "a penhora sobre o faturamento é medida excepcional, somente sendo admitida quando esgotados os esforços para localização de bens aptos a garantir a execução" (RMS n. 49.867/MA, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 7/12/2017, DJe 14/12/2017), o que foi observado pela Corte local (e-STJ fls. 272/275).
+Outrossim, "a penhora sobre o faturamento não é equivalente à penhora de dinheiro, e, somente é admitida em casos excepcionais, desde que atendidos requisitos específicos a justificar a medida" (REsp n. 1.170.153/RJ, Relatora Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 8/6/2010, DJe 18/6/2010).
+Estando o acórdão impugnado conforme a jurisprudência assente neste Tribunal Superior, incide a Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
