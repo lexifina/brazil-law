@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESPÓLIO DEIZAURA DA SILVA GRANJA e OUTROS contra acórdãodo TJMSque não conheceu do agravo de instrumento por elesmanejados na origem, ante sua intempestividade (e-STJ, fls. 429-434).
+Em suas razões recursais (e-STJ, fls. 436-456), os recorrentesdefendem a tempestividade do agravo de instrumento, sustentando, em resumo, que da decisão agravada houve oposição de embargos de declaração, os quais interrompem o prazo recursal, de modo que o recurso é tempestivo.
+Contraminuta apresentada (e-STJ, fls. 501-508).
+É o relatório. Decido.
+No caso em estudo, o Tribunal de origem não admitiu o agravo de instrumento, entendendo pela intempestividade do reclamo, de acordo com as seguintes justificativas (e-STJ, fls. 432-433):
+O recurso não deve ser conhecido, porquanto a matéria encontra-se acobertada pela preclusão temporal.
+Compulsando as razões do presente Agravo, verifica-se que os Agravantes pretendem discutir, em verdade, a decisão de f. 345/350, e não a decisão f. 376/378, ora Agravada, que não acolheu Embargos de Declaração opostos contra a r. decisão de f. 345/350.
+(..)
+Deste modo, certo é que o Agravante teve ciência inequívoca da decisão de f. 345/350, de fato agravada, em 05/05/2020 (terça-feira - f. 353 dos autos de origem - através do Diário da Justiça nº 4486), iniciando-se a contagem do prazo no primeiro dia útil subsequente, ou seja, no dia 06/05/2020 (quarta-feira), findando-se o prazo em 26/05/2020 (terça-feira) e o agravado só veio a interpor o presente agravo em 10/02/2021, de maneira que o prazo para recorrer daquela decisão há muito expirou.
+Sendo assim, constata-se a ausência de interposição de recurso contra a decisão de f. 345/350 - no tempo e modo -, logo, configurada a preclusão da matéria.
+A jurisprudência do STJ é no sentido de que"os embargos de declaração, tempestivamente apresentados, ainda que considerados protelatórios, interrompem o prazo para a interposição de outros recursos (..)" (AgRg no Ag 876.449/SP, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe de 22/6/2009).
+Nessa mesma direção:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE REVISÃO DE PERCENTUAL DE REAJUSTE ANUAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS PELO JUÍZO DE PRIMEIRO GRAU. INDICAÇÃO DAS HIPÓTESES DE CABIMENTO E RECONHECIMENTO EXPRESSO DE TEMPESTIVIDADE. PRODUÇÃO DO EFEITO INTERRUPTIVO DO PRAZO PARA RECORRER. ORIENTAÇÃO DA CORTE ESPECIAL DESTE TRIBUNAL SUPERIOR. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Este Tribunal Superior possui o pacífico entendimento de que os embargos de declaração somente não interrompem o prazo para outros recursos quando intempestivos, manifestamente incabíveis ou nos casos em que oferecidos, com pedido de aplicação de efeitos infringentes, sem a indicação, na peça de interposição, de vício próprio de embargabilidade (omissão, contradição, obscuridade ou erro material) EAREsp 175.648/RS, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 24/10/2016, DJe 4/11/2016 .
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4.Agravo interno não provido.
+(AgInt no REsp 1927677/CE, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/10/2021, DJe 06/10/2021)
+Na hipótese em análise, a agravanteopôsembargos de declaração tempestivos em face da decisão agravada e, por isso, houve a interrupção da contagem do prazo para interposição do agravo de instrumento, de modo que nãohá que se falar em intempestividade.
+Com efeito, nos termos do art. 219, caput, do CPC/2015, a contagem dos prazos processuais será realizada somente nos dias úteis e, consoante o art. 1.003, § 5º, do CPC/2015, todos os recursos devem ser interpostos no prazo de 15 (quinze) dias, exceto os embargos de declaração.
+Dessa forma, considerando que a publicação da decisão agravadafoi realizada em 5/5/2020 (e-STJ, fl. 365) e que em 12/5/2020 foram opostos embargos de declaração de forma tempestiva(e-STJ, fl. 374), o transcurso do prazo do recurso, nesse período, foi interrompido, tendo início apenas em 21/1/2021, com a publicação da decisãodos embargos (e-STJ, fl. 392).
+Assim, o início do prazo só ocorreu de fato em 21/1/2021, tendo sido protocolado o recurso em 10/2/2021(e-STJ, fls. 1-12), ou seja, dentro de 15 (quinze) dias úteis.
+É de rigor, portanto, o reconhecimento da tempestividade do agravo de instrumento apresentado na Corte local.
+Diante do exposto, dou provimento ao agravo a fim de, reconhecendo a tempestividade do agravo de instrumento, determinar o retorno dos autos ao Tribunal de origem para que prossiga no julgamento do recurso.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. ADMISSIBILIDADE. EMBARGOS DE DECLARAÇÃO. INTERRUPÇÃO DO PRAZO RECURSAL. OCORRÊNCIA. RECURSO TEMPESTIVO. AGRAVO PROVIDO PARA, RECONHECIDA A TEMPESTIVIDADE DO AGRAVO DE INSTRUMENTO, DETERMINAR A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA QUE PROSSIGA NO JULGAMENTO DO RECURSO.
