@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alínea"a",da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 186):
+AGRAVO DE INSTRUMENTO BLOQUEIO DE CONTA BANCÁRIA NA QUAL SÃO DEPOSITADOS VALORES ORIUNDOS DE REMUNERAÇÃO IMPENHORABILIDADE
+1 - Inadmissível a constrição de valores oriundos de salários para pagamento de dívida ordinária, devendo ser realizada uma interpretação restritiva das exceções que permitem a constrição, não evidenciado qualquer excedente a justificar a penhora(art. 649, IV, do CPC73/art. 833, IV, do NCPC).
+RECURSO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 489 e 1.022 do Código de Processo Civil.
+Sustenta que "o acórdão foi omisso quanto ao fato de que o crédito devido à Recorrente possui natureza alimentar e qualquer que seja a origem do valor constrito, sua validade se fundamenta pelo disposto no § 2º, do artigo 833 do CPC".
+Argumenta que "omitiu-se o acórdão quanto ao fato de que os acordos trabalhistas firmados com o Recorrido possuem caráter indenizatório, não alimentar, o que desconstitui por completo o argumento de impenhorabilidade adotado pelo v. acórdão".
+Aduz quea despeito da oposição de embargos de declaração, a fim de que fosse suprida a omissão,foram rejeitados com decisão genérica.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Assiste razão à parte recorrente,porquanto verificada omissão no acórdão recorrido.
+Na origem, o magistrado de primeiro grauindeferiu o pedido de liberação do bloqueio efetivado em contas de titularidade do executado, sob fundamento de que não vislumbrava caracterizadas as hipóteses previstas no artigo 833 doCPC, bem comoque a mera indicação de que os valores bloqueados pertenciam a terceirosdependia de demonstração inequívoca.
+Interposto agravo de instrumento, o Tribunal de origem deu provimento ao recurso para determinar o desbloqueio dos valores ao argumento de que "os depósitos eram efetuados por clientes do coexecutado Marcos Alberto Pereira, para pagamento de honorários, bem como de verbas devidas em processos em que atuou (pagamento de acordos, verbas de sucumbências, custas processuais)"(fl. 188).
+A parte autora, então, opôs embargos de declaração, sustentando, em síntese: a) o "acórdão foi omisso quanto ao fato de que o crédito devido à Embargante possui natureza alimentar e qualquer que seja a origem do valor constrito, sua validade se fundamenta pelo disposto no § 2º, do artigo 833 do CPC" (fl. 193); b) "os acordos trabalhistas firmados com o Embargado possuem caráter indenizatório, não alimentar, o que desconstitui por completo o argumento de impenhorabilidade adotado pelo v. acórdão" (fl. 193); c) "omite-se o v. acórdão quanto àanálise da fungibilidade que caracteriza o dinheiro, objeto de constrição. Isso porque o dinheiro existente na conta do espólio pode ser bloqueado independentemente da alegada origem, uma vez que integra o patrimônio do executado na condição de bem fungível. Ou seja, os valores a que tem direito o de cujus passam a integrar o monte partilhável pertencente ao espólio, autorizando a penhora" (fl. 194); d) "as parcelas pagas no âmbito destes acordos são desprovidas da alegada natureza alimentar dos supostos honorários advocatícios e, assim, restam inaplicáveis todas as hipóteses de impenhorabilidade do artigo 833, do CPC" (fl. 197).
+O Tribunal de origem, contudo, no julgamento dos embargos, manteve-se silente, deixando de apreciar pontos relevantes para o deslinde da controvérsia (fls. 200/204).
+Dessa forma, impõe-se a cassação do acórdão que julgou os embargos dedeclaração a fim de que a Corte localse pronuncie acerca dos pontoslevantados nas razões dos embargos.
+Em face do exposto, dou provimento ao recurso especial para determinar oretorno dos autos à origem para novo exame dos embargos de declaração, devendo oTribunal de origem se pronunciar sobre os argumentos elencados pela parteembargante.
+Intimem-se.
