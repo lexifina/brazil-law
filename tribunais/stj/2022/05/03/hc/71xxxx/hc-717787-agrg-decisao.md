@@ -1,0 +1,20 @@
+DECISÃO
+DAVID WYNNE MESSIAS agrava de decisão em que deneguei o habeas corpus (fls. 215-217)
+Nas razões do regimental, a defesa afirma que foi juntada aos autos cópia do acórdão em que a Corte estadual analisou os fundamentos da prisão preventiva e reitera estar caracterizada a condição de "mula" do recorrente, bem como ser possível a substituição da prisão preventiva por cautelares diversas.
+Decido.
+Tendo em vista as razões defensivas, reconsidero a decisão agravada no que tange à fundamentação da cautelar máxima imposta ao agravante.
+Sobre a matéria posta em discussão, faço lembrar que a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na espécie, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivação suficiente e concreta para decretar a prisão preventiva, ao destacar a grande quantidade de droga aprendida - 7 tijolos de maconha, de aproximadamente 4 kg -, que evidenciariam a periculosidade social de sua conduta.
+É pacífico o entendimento desta Corte no sentido de que "a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva" (AgRg no HC 550.382/RO, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/3/2020).
+A Corte de origem denegou a ordem de habeas corpus, nos seguintes termos:
+ ..
+Trata-se, por óbvio, de quantidade de entorpecente absolutamente superior ao normalmente necessário para o uso momentâneo. Ademais, a diversidade e quantidade de entorpecentes indica, inclusive, perspectiva de profissionalismo, pois, na maioria das vezes, corresponde ao intuito de ampliar o espectro de possíveis. compradores.
+ ..
+Ao contrário do sustenta do pelo douto Advogado, a necessidade da prisão foi devidamente fundamentada na decisão. Justificou-se que o caso é grave porque foram apreendidas porções consideráveis de entorpecentes, a indicar periculosidade e possibilidade concreta da reiteração da conduta delitiva caso seja posto em liberdade. Isso porque ninguém começa traficando uma quantia destas, a sugerir possível reiteração da conduta(fl. 24-25).
+Quanto às condições pessoais do paciente, este Superior Tribunal de Justiça entende que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 11/6/2019, destaquei).
+Nas hipóteses em que a dinâmica dos fatos, a quantidade da droga apreendida e as demais circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são suficientes para demonstrar a necessidade de garantia da ordem pública e, por isso mesmo, constituem fundamento idôneo para a custódia provisória.
+Pelos mesmos motivos, inadequada a substituição da custódia por medidas cautelares.
+Ademais, no que tange à suposta condição de "mula" nos fatos em análise, reitero que "não cabe a esta Corte proceder com juízo intuitivo e de probabilidade para aferir eventual pena a ser aplicada, tampouco para concluir pela possibilidade de fixação de regime diverso do fechado e de substituição da reprimenda corporal, tarefas essas próprias do Juízo de primeiro grau por ocasião do julgamento de mérito da ação penal" (HC n. 438.765/RJ, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe de 01/06/2018, grifei).
+À vista do exposto, reconsidero a decisão agravada, mas denego a ordem habeas corpus.
+Publique-se e intimem-se.
