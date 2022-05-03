@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo fundado no art. 1.042 do CPC interposto por MATHEUS RANZANI HERRMANN contra decisão que negou seguimento ao recurso especial, nos termos do art. 1.030, I, "b", do CPC, por entender que o acórdão recorrido decidiu a questão da decadência de crédito tributário em conformidade com o precedente obrigatório formado no julgamento do Recurso Especial repetitivo REsp1.841.798, Tema 1.048 do STJ, assentando, ainda, a aplicação do óbice da Súmula 7 do STJ na parte que discute o decurso do quinquênio legal.
+Passo a decidir.
+O recurso em apreço não merece prosperar.
+Do que se observa, o fundamento condutor adotado na decisãoa quoé o de que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior, segundo o qual, "noImposto de Transmissão Causa Mortis e Doação - ITCDM, referente àdoação não oportunamente declarada pelo contribuinte ao fisco estadual, a contagem do prazo decadencial tem início no primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado, observado o fato gerador, em conformidade com os arts. 144 e 173, I,do CTN"(Tema 1.048do STJ), sendo certo que a menção à aplicação da Súmula 7 do STJ também se refere a essa mesma questão, pois, no recurso especial obstado, a recorrente trata exclusivamente do tema referente aotermo inicial do prazo decadencial, defendendo a tese do decurso do quinquênio legal entre a data do fato gerador e a data do lançamento definitivo do crédito tributário com a inscrição em dívida ativa.
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
