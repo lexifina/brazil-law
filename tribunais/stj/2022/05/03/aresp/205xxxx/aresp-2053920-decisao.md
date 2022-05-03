@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por LUIS BENITES DE ALCANTARA contra decisão que inadmitiu recurso especial por aplicação da Súmula n. 7 do STJ (e-STJ fls. 215/216).
+O Tribunal de origem negou provimento aorecurso do recorrente, em julgado que recebeu a seguinte ementa (e-STJ fl. 185):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - SENTENÇA QU EXTINGUE O FEITO EM RAZÃO DA PRESCRIÇÃO. AUTOR QUE TINHA CONHECIMENTO DE SUA INCAPACIDADE AINDA EM 2018 - PRAZO PRESCRICIONAL ÂNUO. DOCUMENTOS JUNTADOS COMPROVAM CIÊNCIA INEQUÍVOCA DA INCAPACIDADE. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS DEVIDOS. RECURSO CONHECIDO E DESPROVIDO.
+No recurso especial (e-STJ fls. 191/198), com fundamento no art. 105, III, "a", da CF, orecorrenteapontouviolação doart. 206, § 1º, II, "b",do CC/2002, sustentando que não há possibilidade de considerar como termo inicial da prescrição a data do último exame médico juntado aos autos, porque este não atesta nenhumaincapacidade. Questionou sua ciência inequívoca quanto à incapacidade, tecendo as seguintes considerações (e-STJ fls. 196/197):
+Como se vê desse exame médico juntado com a inicial, não há qualquer informação sobre a incapacidade definitiva do autor, nem é possível inferir que tenha ficado incapacitado de forma definitiva, pois são apenas descrições técnicas da região do ombro direito, e nada mais!.
+A ciência inequívoca se dá a partir de perícia médica judicial ou de laudo médico, e não pelo mero exame médico juntado pelo autor.
+ ..
+Ademais, segundo a Sumula 278 do STJ, o termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral.
+Busca, em suma, o provimento do recurso especialpara "rescindir a r. decisão afim de reconhecer a negativa de vigência do art.206, §1º, II, b, do CC, devendo ser reformado o acórdão, para afastar a prescrição e determinar o retorno dos autos à origem para regular processamento e julgamento" (e-STJ fl. 198).
+Contrarrazões apresentadas (e-STJ fls. 202/213).
+No agravo (e-STJ fls. 218/222), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminutaapresentada(e-STJ fls. 226/236).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Ao reconhecer a prescrição, entendeu o Tribunal de origem que (e-STJ fls. 187/188):
+Mérito.
+O cerne da irresignação está na extinção do feito, ante o acolhimento da preliminar de prescrição.
+ ..
+De ver-se que os argumentos apresentados pelo Apelante são desfundamentados. Isso porque comungo do entendimento de que não é necessária perícia judicial para comprovar a incapacidade. Se laudo ou atestado médico foi suficiente para o Apelante tirar licença, também o serão para comprovar a incapacidade, pressuposto daquela.
+Destaco, porque oportuno, que em consulta ao sistema SAJ, verifiquei constar que o Apelante sofreu acidente de trânsito em 2008 e fez jus ao recebimento do valor integral da indenização (autos 0008208-22.2008.8.12.0021) e que no laudo médico realizado naquele processo constou incapacidade para realização de suas atividades laborais (perda funcional), de forma parcial, porém permanente. Também destaco que a incapacidade permanente naquele feito foi de membro superior (ombro esquerdo). Ou seja, tinha ciência de incapacidade parcial permanente.
+Desnecessário, portanto, laudo pericial que ateste a incapacidade permanente. Até porque, o próprio Apelante alega que "foi afastado das atividades por inúmeras vezes, inclusive pelo INSS e se submeteu a todos os tratamentos necessários para a sua recuperação, inclusive cirurgia, porém não surtiram os efeitos desejados, encontrando-se o requerente incapacitado, conforme podemos extrair dos documentos anexos", ou seja, os mesmos documentos que o Magistrado utilizou para concluir pela prescrição da pretensão autoral e que agora o autor alega insuficientes para constatar a incapacidade.
+Assim, tenho que restou comprovado nos autos que o Autor/Apelante tinha conhecimento de sua incapacidade ainda em 2018, como constou da Sentença e tal pode ser decorrente do acidente de 2008 ou de condição própria da saúde, mas não em decorrência do trabalho.
+Ante o exposto, conheço do Recurso de Apelação interposto por Luis Benites de Alcântara. Rejeito a preliminar de ilegitimidade passiva e, no mérito, nego-lhe provimento, mantendo inalterada a Sentença de primeiro grau. Condeno o Apelante ao pagamento de honorários recursais que fixo em 2% sobre o valor da causa. Suspensa a exigibilidade por ser beneficiário da assistência judiciária.
+Nesse sentido, o exame da alegação do recorrente, de que não teve conhecimento inequívoco da sua incapacidade a partir do exame médico, como sustenta em seu recurso, exige o reexame dos fatos e das provas dos autos, medida incabível nesta instância especial ante o óbice da Súmula n. 7 do STJ. Sobre o tema:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. SEGURO OBRIGATÓRIO DPVAT. PRESCRIÇÃO TRIENAL. CONTAGEM DO PRAZO. CIÊNCIA INEQUÍVOCA DA INCAPACIDADE. REVISÃO DO TERMO INICIAL. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca do caráter permanente da invalidez. Precedentes.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. Na hipótese dos autos, o Tribunal de origem analisou os fatos e verificou todas as provas para concluir que o autor tomou ciência de sua invalidez permanente, decorrente do acidente com veículo automotor, em 01/04/1995, data em que foi deferida sua aposentadoria por invalidez. Alterar tal conclusão é inviável em recurso especial, ante o óbice da mencionada súmula.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.182.989/ES, de minha relatoria, QUARTA TURMA, julgado em 22/5/2018, DJe 29/5/2018.)
+Acrescente-se que há súmuladesta Corte estabelecendoque: nas ações de indenização decorrentes de seguro DPVAT, a ciência inequívoca do caráter permanente da invalidez, para fins de contagem do prazo prescricional, depende de laudo médico, exceto nos casos de invalidez permanente notória ou naqueles em que o conhecimento anterior resulte comprovado na fase de instrução (Súmula n. 573/STJ, SEGUNDA SEÇÃO, julgamentoem 22/6/2016, DJe 27/6/2016).
+Constata-se que a Corte de origem não contrariou o entendimento consolidado, pois a parte final da referida súmula autoriza as instâncias originárias, soberanas na análise do conjunto fático-probatório, a desconsiderar, como termo inicial da prescrição, a data do laudo médico quando a ciência anterior do segurado ficar demonstrada,o que ocorreu in casu.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 50), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
