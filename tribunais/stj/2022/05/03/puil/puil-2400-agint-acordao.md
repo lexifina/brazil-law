@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 27/04/2022 a 03/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+1.  Trata-se  de  Agravo  Interno  de  ANTONIO CESAR MENDES LIMA,  interposto  contra  decisão  monocrática  desta  Corte  Superior,  assim  ementada:
+DIREITO PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. VEICULAÇÃO DE INCIDENTE CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELA PRESIDÊNCIA DA TNU. IMPOSSIBILIDADE. JULGADOS ILUSTRATIVOS:AGINT NO PUIL 1.794/DF, REL. MINISTROHERMAN BENJAMIN,DJE 17/11/2020; EAGINT NO PUIL 1.523/DF, REL. MINISTROMAURO CAMPBELL MARQUES, DJE 20/02/2020. PEDIDO LIMINARMENTE INDEFERIDO(fls.  1.349/1.351).
+2.  Nas  razões  de  seu  recurso,  a  parte  vindica  a  reforma  da  solução  unipessoal,  aos  seguintes  argumentos:  (a)  pelo  princípio  da  dialeticidade,  a  Agravante,  vem  infirmar  todos  os  fundamentos  da  decisão  agravada;  (b)  a  decisão  recorrida  está  em  direto  confronto  e  contrariedade  com  a  legislação  federal,  bem  como  contra  as  decisões  pacíficas  do  próprio  STJ,  todas  favoráveis  ao  pleito  do  agravante  quanto ao deferimento  e  aceitação  de  provas  paradigmas  de  outros  servidores.
+3.  Impugnação  às  fls. 1.371/1.376  .
+4.  Em  síntese,  é  o  relatório.
+EMENTA
+DIREITO  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NOPEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI . RECURSO  QUE  NÃO  PROMOVE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  DISSOCIAÇÃO LÓGICA. NÃO  CONHECIMENTO  .
+1. O Superior Tribunal de Justiça tem a diretriz de que, se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo julgado recorrido, a insurgência é deficiente na sua argumentação, circunstância que atrai a aplicação, por analogia, do enunciado de Súmula 284 da excelsa Corte Suprema (AgInt nos EDcl no AREsp 1.700.429/RJ, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 29.04.2021; AgInt no REsp 1.806.873/PE, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 25.11.2020).
+2.  Agravo  interno  não  conhecido.
+VOTO
+1.  Compete  à  parte  agravante,  para  ter  seu  recurso  conhecido,  que  efetue  a  impugnação  aos  fundamentos  sobre  os  quais  se  assentou  a  decisão  recorrida,  disciplina  aplicável  ao  agravo  interno  .
+2. O Superior Tribunal de Justiça tem a compreensão de que é inadmissível o recurso que apresente razões dissociadas do quadro fático e das premissas jurídicas expostos no julgado recorrido, como é o caso dos autos.
+3. Em situações tais, incide, por analogia, o enunciado sumular 284/STF, que estabelece:é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. A propósito, notem-se os seguintes julgados:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL (..). RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+(..)
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+(..)
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento(AgInt nos EDcl no AREsp 1.700.429/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/4/2021, DJe 29/4/2021-sem destaques no original).
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO.INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO.RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+(..)
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+(..)
+VIII - Agravo interno improvido(AgInt no REsp 1.806.873/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/11/2020, DJe 25/11/2020-sem destaques no original).
+4.  Na  presente  demanda,  observa-se  que  a  decisão  agravada  se  assentou,  primordialmente,  na  constatação  de  que  o  Incidente  de  Uniformização  dirigido  ao  STJ  só  pode  ser  manejado  contra  decisão  colegiada,  não  havendo  previsão  legal  do  seu  cabimento  contra  decisão  monocrática  da  Presidência  da  TNU.  Essa  é  a  ratio  decidendi  da  decisão  e  é  a  partir  dela  que  se  chegou  à  conclusão  de  que  o  PUIL  não  poderia  ser  admitido  e  processado.
+5.  No  entanto,  a  parte  recorrente,  neste  agravo  interno,  prende-se  à  tese  de  que,  na  matéria  de  fundo  por  ele  defendida,  é  possível  a  admissão  de  provas  por  meio  da  apresentação  de  paradigmas  de  outros  servidores.
+6.  Tais  assertivas  não  são  suficientes  para  impugnar,  nem  mesmo  tangencialmente,  a  constatação  da  decisão  agravada  segundo a qual não  é  possível  o  manejo  do  pedido  de  uniformização  contra  desfecho  pessoal  do  Presidente  da  TNU.
+7.  É  bem  verdade,  por  Justiça,  que  a  parte  chega  a  lançar  mão  de  tópico  referente  à  dialeticidade  recursal.  No  entanto,  o  conteúdo  desse  trecho  do  expediente  em  nada  contribui  para  o  rebate  lógico-argumentativo  frente  à  decisão  agravada,  havendo,  tão  somente,  alusão  genérica  de  que  se  está  a  impugnar  os  fundamentos  do  julgado  recorrido.
+8.  Bem  por  esses  fatores,  a  argumentação  da  parte  agravante  não  promove  impugnação  ao  fundamento  da  decisão  agravada,  concernente  à  impossibilidade  de  manejo  de  PUIL  em  desfavor  à  decisão  de  Presidente  da  TNU.  Afirmar  que  são  admissíveis  certas  provas  como  suporte  ao  direito  postulado pela  parte  não  é  suficiente  para  abalar  argumentativamente  a  conclusão  da  decisão  recorrida.  O  recurso  não  comporta  conhecimento, frente à dissociação entre o argumento do recurso e o fundamento da decisão recorrida -óbice previsto na Súmula 284/STF.
+9.  Pelo exposto,  não  se  conhece  do  agravo interno.
+10.  É  como  voto.
