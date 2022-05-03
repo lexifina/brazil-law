@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de ação rescisória ajuizada por G H L DE O, representado por M F M DE L, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA3ª REGIÃO nos autos do Agravo de Instrumenton. 5009977-71.2021.4.03.0000,que postulao recebimento de valores relativos a auxílio-reclusão (e-STJ fls. 33/91).
+Pretende a concessão de tutela antecipada a fim de que seja deferido o levantamento dos valores depositados em juízo.
+Deferido o benefício da gratuidade da justiça (e-STJ fl. 97). Ciência do MPF (e-STJ fl. 102).
+É o breve relatório.
+Consoante dispõe o art. 105, I, "e", da Constituição Federal, compete ao STJ processar e julgar, originariamente, as ações rescisórias dos seus julgados.
+In casu,da análise dos autos, verifica-se a incompetência desta Corte Superior para apreciar e julgar a presente ação rescisória.
+Com efeito, a causa de rescisão apontada na exordial - recebimento de valores relativos a auxílio-reclusão- não foi devolvida a esta Corte em recurso especial.
+Assim, incide, na espécie, a Súmula 515 do STF, por analogia, segundo a qual "Acompetência para a ação rescisória não é do Supremo Tribunal Federal, quando a questão federal, apreciada no recurso extraordinário ou no agravo de instrumento, seja diversa da que foi suscitada no pedido rescisório".
+Nesse mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO RESCISÓRIA. SERVIDOR PÚBLICO. FUNÇÃO COMISSIONADA. ÍNDICE DE 28,86%. COMPENSAÇÃO COM REAJUSTE CONCEDIDO COM BASE NA LEI N. 8.627/1993. MATÉRIA NÃO DECIDIDA PELA DECISÃO RESCINDENDA. INCIDÊNCIA DA SÚMULA 515 DO STF.
+1. Considerando que as causas de desconstituição do julgado apontadas na exordial, relativas à violação de literal disposição de lei e ao erro de fato, se existentes, não surgiram no julgamento do recurso especial, mas por ocasião da apreciação da apelação pelo Tribunal Regional, é de se reconhecer a incompetência do Superior Tribunal de Justiça para julgar a ação rescisória.
+2. Na espécie, a decisão desta Corte Superior restringiu-se a negar seguimento ao recurso especial ao fundamento de que o acórdão recorrido observou a jurisprudência do STJ, de que o índice de 28, 86% também alcança as funções comissionadas ou gratificadas. Nada decidiu sobre a causa de pedir ora invocada, a de que a requerente teria sido beneficiada com reajuste que deveria ser compensado com o aludido percentual assegurado pela sentença coletiva.
+3. Incide, por analogia, a Súmula 515 do STF: "A competência para a ação rescisória não é do Supremo Tribunal Federal, quando a questão federal, apreciada no recurso extraordinário ou no agravo de instrumento, seja diversa da que foi suscitada no pedido rescisório."
+4. Agravo regimental não provido. (AgRg na AR 4.441/RS, de minha relatoria, TERCEIRA SEÇÃO, DJe 09/09/2015) (Grifos acrescidos).
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. SERVIDOR PÚBLICO FEDERAL. ART. 485, IV, DO CÓDIGO DE PROCESSO CIVIL. OFENSA A COISA JULGADA. EX-COMBATENTE. ACÓRDÃO RESCINDENDO QUE NÃO EXAMINOU O MÉRITO DA CONTROVÉRSIA EM RAZÃO DA APLICABILIDADE DA SÚMULA 7/STJ. INCOMPETÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 515/STF. PEDIDO SUBSIDIÁRIO. REMESSA DOS AUTOS AO JUÍZO COMPETENTE. IMPOSSIBILIDADE. INICIAL QUE SE INSURGE CONTRA ACÓRDÃO EQUIVOCADO. PRECEDENTES. AÇÃO RESCISÓRIA EXTINTA SEM RESOLUÇÃO DE MÉRITO.
+1. Não tendo havido o exame do mérito pelo STJ, na medida que o acórdão rescindendo limitou-se a aplicar o óbice da Súmula 7/STJ, patente é a sua incompetência para processar e julgar a presente demanda rescisória, a qual deve se voltar contra o acórdão do Tribunal regional. Incidência da Súmula 515/STF.
+2. O pedido subsidiário não merece acolhida, porquanto o STJ perfilha entendimento no sentido de que, proposta equivocadamente a rescisória, é incabível a remessa dos autos ao juízo competente, na medida em que a inicial se insurge contra acórdão equivocado, caso em que não poderia o relator corrigir o mérito do pedido.
+3. Ação rescisória extinta sem resolução de mérito (AR 4.515/RN, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe 19/03/2015)(Grifos acrescidos).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. QUESTÃO DIVERSA. SÚMULA Nº 515/STF. REMESSA DOS AUTOS AO TRIBUNAL DE ORIGEM. INVIABILIDADE. PRECEDENTES.
+1. Segundo a aplicação analógica da Súmula nº 515/STF, a competência para a ação rescisória não é do Superior Tribunal de Justiça quando a questão federal apreciada no recurso especial seja diversa daquela suscitada no pedido rescisório.
+2. No caso, a matéria objeto da presente ação rescisória - configuração ou não dos requisitos da responsabilidade civil - não foi analisada no acórdão rescindendo.
+3. Não é possível a remessa dos autos ao Tribunal local quando o autor se insurge na inicial contra acórdão equivocado, tendo em vista a inviabilidade de correção do pedido e da causa de pedir articulados.
+4. Agravo regimental não provido (AgRg nos EDcl na AR 4.573/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, DJe 13/02/2015)(Grifos acrescidos).
+Ante o exposto, com fundamento no art. 34, XVIII, do RISTJ, NÃO CONHEÇO do pedido, em face da manifesta incompetência desta Corte Superior para o julgamento da presente ação rescisória.
+Nos termos do art. 968, §§ 5º e 6º, do CPC/2015, a Coordenadoria (i) intime a parte autora para queemendea inicial, e (ii) abra vista dos autos à parte ré, permitindo-lhe complementar os fundamentos de defesa. Após,sejam os autos remetidos ao Tribunal Regional Federal da 3ª Região.
+Publique-se. Intimem-se.
