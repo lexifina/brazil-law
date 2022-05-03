@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo de MARIA STRUWKA contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. REQUISITOS. ART. 919, §1º, DO CPC/2015. CASO CONCRETO. AUSÊNCIA. DECISÃO MANTIDA.
+1. Nos termos do art. 919, §1º, do Código de Processo Civil de 2015, "O juiz poderá, a requerimento do embargante, atribuir efeito suspensivo aos embargos quando verificados os requisitos para a concessão da tutela provisória e desde que a execução já esteja garantida por penhora, depósito ou caução suficientes".
+2. Ausentes os requisitos previstos no art. 919, §1º, do CPC/2015, impõe-se o indeferimento de pedido de efeito suspensivo aos embargos à execução.
+3. Agravo de instrumento conhecido e não provido." (e-STJ fl .93)"
+Os embargos de declaração opostos foram rejeitados (e-STJ fl.116/120)
+Nas razões do recurso especial, o agravante alega violação dos arts. 1.022, II, e 919,§1º, do do Código de Processo Civil, sustentando que: 1) o acórdão recorrido não se manifestou sobre os elementos presentes nos autos que demonstram que foram atendidos os requisitos para suspender a ação de execução e 2) ficaram comprovados os requisitos para a suspensão da execução, quais sejam, execução garantida, plausibilidade do direito (demonstração do excesso de execução) e perigo de dano irreparável ou de difícil reparação (expropriação de bens de valores que não devidos).
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia, como se verá a seguir.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Quanto à demonstração dos requisitos para a suspensão da execução, o Tribunal de origem expressamente consignou o seguinte:
+"A executada Maria Struwka opôs embargos à execução (NPU 0000372-47.2020.8.16.0059), em cuja petição inicial alegou, em resumo: a) iliquidez do título executivo; b) cobrança de juros remuneratórios acima do permitido pela legislação; c) capitalização indevida de juros; d) ocorrência de venda casada; e) incidência ilegal de comissão de permanência; e, e) impossibilidade de substituição dos encargos financeiros em caso de desclassificação ou exclusão do crédito rural.
+Contudo, a princípio, neste juízo de cognição superficial, a maioria dos fundamentos aduzidos não se mostra verossímil.
+É que, em relação às alegações de excesso de execução, tem-se que a embargante expôs argumentos genéricos a respeito das matérias, a despeito do parecer contábil de mov. 1.7-1º grau, elaborado por profissional de sua confiança, que ainda não foi devidamente submetido ao contraditório.
+No que tange à alegação de cobrança indevida de juros capitalizados, por exemplo, o Superior Tribunal de Justiça, no julgamento do REsp n.º 1.333.977/MT, com efeito repetitivo, e mediante a Súmula n.º 93, pacificou o entendimento de que é possível capitalização de juros em cédulas de crédito rural, desde que pactuada.
+No caso, ao menos a princípio, do que se vê da cédula executada, a capitalização teria sido expressamente contratada, consoante se observa da cláusula "ENCARGOS FINANCEIROS", pelo que não haveria que se falar em seu expurgo.
+Além disso, em tese, a taxa de juros remuneratórios aplicada pela instituição financeira, de 6,5% ao ano, não seria superior ao que autoriza a legislação específica sobre a matéria.
+Veja-se, ademais, que também não estão presentes os requisitos do perigo de dano e garantia do juízo.
+É que o risco de expropriação de bens do devedor é inerente ao feito executivo, pelo que não se presta à atribuição de efeito suspensivo aos embargos à execução, em especial quando pairarem dúvidas acerca da verossimilhança das alegações de excesso de execução.
+Destaque-se, ainda, que não houve penhora de bens na execução de título extrajudicial, de modo que não se encontra garantida.
+A propósito, o fato de ter sido oferecido bem em garantia na cédula executada não é suficiente para modificar a conclusão, uma vez que se trata de garantia do título, não necessariamente do feito executivo, razão pela qual não é suficiente para sobrestamento da execução.
+Em conclusão, ausentes os requisitos necessários à concessão de efeito suspensivo aos embargos à execução, deve ser mantida a decisão exarada pelo Dr. Eldom Stevem Barbosa dos Santos." (e-STJ, fls. 96/97)
+Como visto, a Corte de origem consignou que estão ausentes os requisitos necessários à concessão de efeito suspensivo aos embargos à execução.
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. ART. 919, § 1º, DO CPC/2015. REQUISITOS NÃO VERIFICADOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. "O efeito suspensivo dos embargos do devedor demanda a garantia do juízo, além da comprovação de risco de dano irreparável ou de difícil reparação a ser experimentado pela parte executada, nos moldes do art. 919, § 1º, do CPC/2015" (AgInt nos EDcl no AREsp 1.786.983/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 10/6/2021).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, a análise das razões apresentadas pelo recorrente, quanto à existência dos requisitos para a concessão de efeito suspensivo aos embargos à execução, demandaria o exame do conjunto fático-probatório, o que é vedado em sede de recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1954059/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 14/03/2022, DJe 18/03/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. REQUISITOS. ART. 919, § 1º, DO CPC/2015. AUSÊNCIA DE GARANTIA DO JUÍZO E RISCO GRAVE OU DE DIFÍCIL REPARAÇÃO. IMPOSSIBILIDADE. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+1. O efeito suspensivo dos embargos do devedor demanda a garantia do juízo, além da comprovação de risco de dano irreparável ou de difícil reparação a ser experimentado pela parte executada, nos moldes do art. 919, § 1º, do CPC/2015.
+2. O Tribunal de origem, soberano na análise das provas, concluiu pela impossibilidade de se suspender a execução, tendo em vista a ausência de garantia do juízo da execução e a inexistência de comprovação de dano irreparável ou de difícil reparação, de forma que a revisão do seu entendimento na via especial está obstada pela Súmula 7 desta Corte.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+(AgInt no AREsp 1865417/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/09/2021, DJe 27/09/2021)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
