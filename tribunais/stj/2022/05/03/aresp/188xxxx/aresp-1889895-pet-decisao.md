@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de petição ajuizada por CLÁUDIA RODRIGUES DA SILVA, na qualinforma a abertura de inquérito policial para averiguar o crime de patrocínio infiel por parte dos requeridos,em outras demandas em que funcionaram como seus causídicos, requerendo a atribuição de efeito suspensivo ao recurso especial, por entender que o resultado de eventual ação penal aberta com base no inquérito poderia interferir no resultado da presente lide.
+Sem razão, contudo. Vale ressaltarque os presentes autos tratam de "ação de danos materiais e morais e restituição dos valores pagos", em face dos réus, outrora causídicos da autora, por suposto exercício de patrocínio infiel em outras demandas - pretensão cujo mérito não logrou êxito nas instâncias ordinárias, e não pôde ser apreciado em razão da intempestividade do recurso especial.
+A informação relativa à abertura de inquérito policial para averiguar tais fatos não tem o efeito de alterar o entendimento expresso no acórdão de fls. 6268/6269 e-STJ, relativo à intempestividade do recurso especial interposto pela autora, ora embargada (acórdão do qual a peticionante não recorreu). Assim, por óbvio, inviável a concessão de efeito suspensivo ao recurso especial, ausente o requisito de plausibilidade do direito invocado.
+Em face do exposto, nego provimento ao pedido.
+Intimem-se.
