@@ -1,0 +1,39 @@
+DECISÃO
+Vistos,  etc.
+Trata-se  de  agravo  contra  decisão  que  inadmitiu  o  recurso  especial  interposto  por  FLORESTAS  IPIRANGA  S/A.,  com  amparo  no  art.  105,  III,  "a",  da  CF/1988,  em  oposição  a  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  MINAS  GERAIS  assim  ementado  (e-STJ,  fls.  247-251):
+APELAÇÃO  -  MANDADO  DE  SEGURANÇA  -  ICMS  -  DIFERIMENTO  -  RENÚNCIA  PELO  CONTRIBUINTE  -  IMPOSSIBILIDADE.  No  âmbito  do  Estado  de  Minas  Gerais,  tratando-se  de  técnica  arrecadatória  impositiva,  e  não  benefício  fiscal,  não  pode  o  contribuinte  renunciar  ao  diferimento  do  ICMS,  conforme  o  seu  próprio  arbítrio,  quando  entender  oportuno  ou  conveniente.
+Os  embargos  de  declaração  opostos  foram  rejeitados  (e-STJ,  fls.  158-160).
+A  empresa  recorrente  aponta,  nas  razões  do  especial,  ofensa  aos  arts.  5º,  II,  LXIX ,  e  155,  §  2º,  I,  da  CF;  e  1º  da  Lei  n.  12.016/2009.
+  Consigna  que  haveria  violação  dos  princípios  da  legalidade  e  da  não-cumulatividade.
+Aduz,  ainda,  que  o  mandado  de  segurança  seria  cabível,  bem  como  que  possuiria  direito  líquido  e  certo  de  (e-STJ,  fl.  227):
+ ..  poder  renunciar  ao  diferimento  do  pagamento  do  ICMS,  quando  entender  oportuno  e  conveniente,  nas  saídas  de  carvão  vegetal  dos  seus  estabelecimentos,  podendo  debitar  normalmente  e  destacar  o  valor  do  imposto  nas  notas  fiscais  de  saídas  do  mencionado  produto;
+A  negativa  de  admissibilidade  teve  por  fundamento  o  óbice  da  Súmula  n.  7/STJ.
+É  o  relatório.
+Impugnados  os  fundamentos  da  decisão  agravada,  passo  à  análise  do  recurso  especial.
+Registro,  desde  logo,  que  o  instrumento recursal se  destina  a  uniformizar  a  interpretação  da  legislação  infraconstitucional ,  e  não  a  avaliar  o  acerto  ou  desacerto  do  aresto  combatido  na  aplicação  de  normas  constitucionais.  Logo  incabível  a  análise  sobre  os  arts.  5º,  II,  LXIX ,  e  155,  §  2º,  I,  da  CF.
+No  mesmo  sentido:
+PROCESSUAL  CIVIL  E  TRIBUTÁRIO.  EXECUÇÃO  FISCAL.  BANCO  BRADESCO  S/A.  ALIENAÇÃO  FIDUCIÁRIA.  ILEGITIMIDADE  PASSIVA.  IPTU.  RESPONSABILIDADE  DO  FIDUCIANTE.  ANÁLISE  DE  MATÉRIA  CONSTITUCIONAL.  IMPOSSIBILIDADE.
+1.  A  controvérsia  versa  sobre  a  legitimidade  passiva  do  Banco  Bradesco  S/A,  como  credor  fiduciário,  em  execução  fiscal  de  IPTU.
+2.  A  apreciação  sobre  a  possibilidade  de  lei  ordinária  determinar  quem  é  o  contribuinte  do  IPTU  refere-se  a  questão  constitucional,  prevista  no  artigo  146  da  CF.  Conforme  dispõe  o  art.  105  da  CF,  a  competência  do  Superior  Tribunal  de  Justiça  restringe-se  à  interpretação  e  à  uniformização  do  direito  infraconstitucional  federal,  impossibilitando-se  o  exame  de  eventual  violação  a  dispositivos  e  princípios  constitucionais,  sob  pena  de  usurpação  da  competência  atribuída  ao  STF.
+3.  Com  efeito,  das  próprias  razões  do  Recurso  Especial  é  possível  depreender  o  caráter  constitucional  da  demanda,  no  qual  o  recorrente  sustenta  a  tese  de  que  lei  ordinária  não  poderia  alterar  disposições  de  lei  complementar.  Por  outro  lado,  o  Tribunal  de  origem,  ao  decidir  tal  questão,  amparou-se  em  fundamentos  constitucional  e  infraconstitucional,  qualquer  um  deles  apto  a  manter  inalterado  o  acórdão  recorrido.
+4.  Agravo  conhecido  para  não  conhecer  do  Recurso  Especial.
+(AREsp  n. 1.600.392/SP,  relator Ministro HERMAN  BENJAMIN,  SEGUNDA  TURMA,  julgado  em  5/3/2020,  DJe  de  12/5/2020).
+
+TRIBUTÁRIO.  IPTU.  ALEGAÇÃO  DE  CONFLITO  ENTRE  LEI  ORDINÁRIA  E  LEI  COMPLEMENTAR.  IMPOSSIBILIDADE  DE  CONHECIMENTO  DO  RECURSO  ESPECIAL.
+I  -  A  questão  diz  respeito  à  vigência,  na  hipótese  dos  autos,  do  inciso  8º  do  art.  27  da  Lei  n.  9.514/1997,  que  dispõe  sobre  a  responsabilidade  do  devedor  fiduciante  pelo  pagamento  de  impostos,  in  casu,  o  IPTU,  e  outros  encargos.
+II  -  A  referida  lei,  no  presente  caso,  estaria  em  conflito  com  a  determinação  contida  no  art.  123  do  CTN.
+III  -  Nesse  panorama,  se  apresenta  impositivo  o  não  conhecimento  do  presente  recurso  especial,  uma  vez  que  a  jurisprudência  do  Superior  Tribunal  de  Justiça  tem  entendimento  pacificado  no  sentido  da  não  cognoscibilidade  do  apelo  nobre  para  o  exame  de  conflito  entre  lei  ordinária  e  lei  complementar,  sendo  a  matéria  reservada  ao  Supremo  Tribunal  Federal,  mediante  recurso  extraordinário.  Com  esse  entendimento:  AgRg  no  REsp  1.467.230/RS,  Rel.  Ministro  MAURO  CAMPBELL  MARQUES,  SEGUNDA  TURMA,  DJe  de  28/10/2014;  REsp  1365433/MG,  Rel.  Ministro  HERMAN  BENJAMIN,  SEGUNDA  TURMA,  julgado  em  05/09/2013,  DJe  26/09/2013;  REsp  577.228/RS,  Rel.  Ministro  NAPOLEÃO  NUNES  MAIA  FILHO,  PRIMEIRA  TURMA,  julgado  em  14/02/2017,  DJe  24/02/2017.
+IV  -  Agravo  interno  improvido.
+(AgInt  no  REsp  n. 1.670.292/SP,  relator Ministro  FRANCISCO  FALCÃO,  SEGUNDA  TURMA,  julgado  em  6/3/2018,  DJe  de 12/3/2018).
+No  que  se  refere  à  violação  do  art.  1º  da  Lei  n.  12.016/2009,  com  o  consequente  exame  da  existência  de  direito  líquido  e  certo  amparado  por  mandado  de  segurança,  essa  suposta  ofensa  não  tem  sido  admitida  em  recurso  especial,  pois  exige-se  o  reexame  de  matéria  fático-probatória,  o  que  é  vedado  em  razão  da  Súmula  n. 7/STJ.
+Em  idêntica  direção:
+PROCESSUAL  CIVIL  E  TRIBUTÁRIO.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  IMÓVEL  ALIENADO  JUDICIALMENTE.  ITBI.  BASE  DE  CÁLCULO.  VALOR  DA  ARREMATAÇÃO  APURADO  EM  HASTA  PÚBLICA.  REEXAME  DE  FATOS.  SÚMULA  7/STJ.
+1.  A  suposta  ofensa  do  art.  1º  da  Lei  n.  1.533/51,  atual  art.  1º  da  Lei  n.  12.016/09,  com  a  consequente  verificação  da  existência  ou  não  de  direito  líquido  e  certo  amparado  por  mandado  de  segurança,  não  tem  sido  admitida  em  recurso  especial,  pois  é  exigido  o  reexame  de  matéria  fático-probatória,  o  que  é  vedado  em  razão  da  Súmula  7/STJ.
+2.  Consoante  a  pacífica  jurisprudência  deste  Tribunal  Superior,  nas  hipóteses  de  alienação  judicial  do  imóvel,  seu  valor  venal  corresponde  ao  valor  pelo  qual  foi  arrematado  em  hasta  pública,  inclusive  para  fins  de  cálculo  do  ITBI.  Precedentes:  RMS  36.293/RS,  Rel.  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  julgado  em  4/10/2012,  DJe  11/10/2012;  AgRg  no  REsp  1.308.814/MG,  Rel.  Ministro  Herman  Benjamin,  Segunda  Turma,  julgado  em  16/8/2012,  DJe  24/8/2012;  AgRg  no  AREsp  22.274/MG,  Rel.  Ministro  Benedito  Gonçalves,  Primeira  Turma,  julgado  em  27/3/2012,  DJe  3/4/2012;  e  AgRg  nos  EDcl  no  Ag  1.391.821/MG,  Rel.  Ministro  Humberto  Martins,  Segunda  Turma,  julgado  em  28/6/2011,  DJe  1º/7/2011.
+3.  Agravo  regimental  a  que  se  nega  provimento.
+(AgRg  no  AREsp  n. 348.597/MG,  de  minha  relatoria,  SEGUNDA  TURMA,  julgado  em  10/3/2015,  DJe  de  16/3/2015).
+
+Do  mesmo  modo,  ainda  que  superado  tal  óbice,  o  recurso  não  mereceria  provimento,  uma  vez  que  o  Tribunal  de  origem  decidiu  a  questão  com  fundamento  nos  arts.  9º  e  10º  da  Lei  estadual  n.  6.763/1975.  Desse  modo,  mostra-se  inviável  a  apreciação  recursal  em  face  da  impossibilidade  de  manifestação  acerca  da  legislação  local.  Presença  do  óbice  descrito  na  Súmula  n. 280/STF.
+Ante  o  exposto,  com  fulcro  no  art.  932,  III,  do  CPC/2015,  c/c  o  art.  253,  parágrafo  único,  II,  "a",  do  RISTJ,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+
+Publique-se.  Intimem-se.
