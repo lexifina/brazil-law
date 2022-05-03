@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por WLADEMIR ANTONIO BERNARDI contra decisão em que não conheci do recurso especial, em razão do óbice da Súmula 83 do STJ.
+A parte embargante alega que (e-STJ fl. 123):
+Os honorários só serão arbitrados pela equidade caso o resultado seja inestimável ou irrisório o proveito econômico, como bem dita o § 8º do art. 85 do CPC, mas na análise do caso não estão presentes tais situações, se amoldando perfeitamente ao voto do relator, vindo deste fato a contradição entre os argumentos da decisão e sua improcedência.
+Reitera-se, não se está em pauta equidade pelos motivos da legislação processual, sim cisão à metade do valor da causa, episódio não apreciado pelo legislador na redação do art. 85 do CPC, muito menos nas legislações esparsas sobre matéria de execução tributária.
+Ademais, há especificamente definido o valor da causa, a pretensão tem correlação com o valor da causa, tanto é que os honorários foram definidos à metade, e o proveito econômico do executado é clara, a retirada da obrigação de pagar todo o valor da dívida fiscal, redirecionando ao executado o dever de pagar o total da dívida tributária, de forma solidária, não somente da metade.
+Impugnação às e-STJ fls. 131/133.
+Passo a decidir.
+No caso, a instância ordinária entendeu que, "embora não haja condenação, o proveito econômico esta diretamente relacionado com o valor da execução que deixou de ser redirecionada para o sócio, uma vez que, do contrário, os bens da agravante estariam sujeitos à constrição até o limite do montante exequendo. Sobre tal valor, deverão incidir honorários de advogado no percentual mínimo de cada faixa prevista no § 3º do art. 85 do CPC" (e-STJ fl. 39).
+Assim, não se verifica o vício apontado, pois a decisão está clara no sentido de que o Tribunala quonão divergiu da jurisprudência desta Corte Superior, fixadapela Primeira Turma(REsp 1.822.840/SC), segundo a qual, nos casos em que o acolhimento da pretensão não tenha correlação com o valor da causa, ou não permita estimar eventual proveito econômico, os honorários de sucumbência devem ser arbitrados por apreciação equitativa, com observância dos critérios do § 2º do art. 85 do CPC/2015, conforme disposto no § 8º desse mesmo dispositivo.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
