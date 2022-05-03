@@ -1,0 +1,28 @@
+DECISÃO
+RODRIGO BENEDITO FLORIANOalega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunala quono Agravo em Execução n. 0001651-13.2022.8.26.0482, em quefoi cassada a benesse do livramento condicional.
+Consoante assere a defesa, o paciente preenche os requisitos legais para o livramento condicional, pois "o histórico prisional do ora Paciente revela que é ele merecedor da benesse perseguida, uma vez que já descontou o lapso necessário da pena em regime FECHADO, além disso, apresenta BOM comportamento carcerário, devidamente comprovado por meio de atestado emitido pelo diretor do estabelecimento prisional" (fl. 9).
+Requer, liminarmente e no mérito,a concessão do benefício.
+Decido.
+O Juiz das execuções, assim indeferiu o pleito:
+A pretensão é improcedente.
+Em que pese o preenchimento do requisito objetivo, o sentenciado ainda não demonstra méritos suficientes para o imediato retorno ao convívio em sociedade.
+O reeducando possui histórico desfavorável à imediata liberdade, ainda que condicional, sobretudo em razão da prática de crimes graves (tráfico ilícito deentorpecentes e privilegiado), além de registrar a prática de faltas disciplinares de natureza grave e média no interior do estabelecimento prisional (fls. 02/08), sendo indispensável a manutenção de sua segregação por maior período, visando a necessária reeducação penal.
+Ademais, praticou novo delito durante saída temporária do "Dia das Mães 2016" (Execução nº 02), não cabendo, por ora, benefício de tamanha amplitude, eis que recomendável o postulante vivenciar primeiro o regime intermediário, como prova de que irá absorver a terapia penal para, posteriormente, fazer jus à liberdade condicional (fls. 31-32, destaquei).
+Na hipótese, a Corte de origem, ao confirma o indeferimento do livramento, ressaltou que:
+No mesmo sentido, dispõe o art. 33, § 2º, do Código Penal, ao determinar que o cumprimento da pena privativa de liberdade deve ocorrer de forma progressiva.
+Na hipótese em que fossem ignorados tais dispositivos legais, estar-se-ia violando o próprio objetivo do instituto da progressão de regime, que consiste na reabilitação gradual do reeducando, de modo a permitir sua reinserção ao convívio social.
+ ..
+Considerando, portanto, que o livramento condicional se assemelha ao regime aberto, pela forma e condições em que é cumprido, não é recomendável seja o agravante beneficiado com tal instituto diretamente do regime fechado, sem que passe pelo regime intermediário, ou pouco tempo após o início do cumprimento da sanção corporal neste regime (fls. 49-50).
+Com efeito, a preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  .. e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto.Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenada a paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez quenão refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+3.A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+4. Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional.
+5. Por fim, a jurisprudência deste Superior Tribunal de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o(a) apenado(a) passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada (HC n. 508.784/SP, Rel. MinistroReynaldo Soares da Fonseca,5ª T., DJe 22/8/2019, destaquei).
+Da mesma forma, " s egundo a jurisprudência deste Superior Tribunal de Justiça,não há obrigatoriedade de o sentenciado vivenciar primeiramente o regime intermediário para que obtenha o benefício do livramento condicional, em razão da inexistência de tal previsão no art. 83 do Código Penal" (HC n. 482.168/SP, Rel. MinistroFelix Fischer, 5ª T., DJe 19/2/2019).
+Portanto, o que se percebe é quefoi indeferida a benesse sem a devida fundamentação, a impor ao paciente patente constrangimento ilegal,dado o preenchimento dos requisitos legais, sem olvidar que a última falta foi praticada em 27/1/2018, reabilitada em 27/6/2019.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ,concedo a ordem,in limine,para conceder ao paciente o benefício do livramento condicional.
+Comunique-se,com urgência, o inteiro teor destedecisumàs instâncias ordinárias.
+Publique-se e intimem-se.
