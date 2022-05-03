@@ -1,0 +1,12 @@
+DECISÃO
+1. Cuida-se de embargos de declaração opostos em face da decisão monocrática de fls. 3.454-3.457, que conheceu do agravo para dar parcial provimento ao recursoespecial, estabelecendo, no tocante à parte que toca à assistida demandada, a recomposição das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial.
+Afirma o embargante que as instâncias ordinárias não apreciaram as demais teses defensivas que ventilou.
+Diz que o Juízo laborou também avançou na matéria de direito civil referente à previdência complementar, e que seria necessário ao STJ definir a quota parte devida, inclusive estabelecendo a forma de cálculo, com observância dos descontos previdenciários já realizados sobre o crédito do embargante na ação trabalhista.
+Aduz que deve ser determinado à entidade previdenciária informar acerca de ações adotadas em face do patrocinador do plano de benefício, com envio de ofício ao Ministério Público do Trabalho para apuração de eventual cometimento de infração ética-disciplinar, já que é o verdadeiro causador do dano e sonegador.
+2. Não comporta acolhida a irresignação.
+É bem de ver que o acórdão recorrido, e a própria embargante no presente recurso, admitem que não houverecolhimento de contribuição para fazer frente ao reajuste do benefício de previdência complementar.
+Ademais, a relação contratual previdenciária é autônoma,não se confundindo as contribuições devidas pelo participante para fazer frente ao suporte do custeio para o reajuste do benefício, com as aludidascontribuições referentes à previdência públicas, recolhidas no âmbito da Justiça laboral.
+Outrossim, a relação contratualprevidenciária, por expressa disposição constitucional é autônoma(art. 202, § 2º, da CF), não se podendo baralharcom a relação laboral, tampouco sendo de competência da Justiça obreira solucionarcontrovérsias a envolver direitos e obrigações da previdência complementar.
+Portanto, a tese acerca de necessidade de encaminhamento de ofícioao Ministério Público do Trabalhopara aquele Parquet aferir se a entidade previdenciária ajuizou ações em face do patrocinador por decorrência de danos ocasionados pelo patrocinador, ressai da causa de pedir da ação, ajuizada pela ora embargada, e das próprias atribuições do Ministério Público do Trabalho, já que, como dito, a questão não é nem sequer de Direito do Trabalho.
+3. Diante do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
