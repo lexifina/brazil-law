@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO FEDERAL DA VARA CÍVEL E CRIMINAL DE PONTE NOVA- SJ/MG, suscitante, e o TRT 3ª REGIÃO,suscitado.
+Consta dos autos que foi proposta reclamação trabalhista contra CEF, em queobjetivacompelir a aludida empresa pública a lhe convocar e contratar para o cargo de Técnico Bancário, conforme Edital do certame n. 01/2014- , ajuizada no Juízo Trabalhista, que declinou da competência para a Justiça Federal (e-STJ fls. 1.935/1.940), que, por sua vez, suscitou o conflito de competência (e-STJ fl. 7/9).
+O Ministério Público Federal manifestou-se pela competência do Juízo Especializada (e-STJ fls. 2.213/2.216).
+Passo a decidir.
+Nos termos do art. 34, XXII, do RISTJ, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, consoante orientação vinculante firmada pelo STF no julgamento do RE 960.429 - em repercussão geral-,"compete à Justiça comum processar e julgar controvérsias relacionadas à fase pré-contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoal, salvo quando a sentença de mérito tiver sido proferida antes de 6 de junho de 2018, situação em que, até o trânsito em julgado e a sua execução, a competência continuará a ser da Justiça do Trabalho." (Grifos acrescidos).
+Na hipótese dos autos, a sentença trabalhista foi proferida antes de 06/06/2018, sendo certo a competência da Justiça Laboral para o processamento e julgamento do feito.
+A propósito:
+CONFLITO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E COMUM. CONTROVÉRSIA RELACIONADA A FASE PRÉ- CONTRATUAL DE SELEÇÃO DE CONCURSO. SENTENÇA PROFERIDA NA JUSTIÇA DO TRABALHO ANTES DE 06/06/2018. HIPÓTESE FÁTICA CONTEMPLADA NAMODULAÇÃO DOS EFEITOS DO RE 960429/RN.
+REPERCUSSÃO GERAL. TEMA 922. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. Compete à Justiça Comum processar e julgar controvérsias relacionadas à fase pré- contratual de seleção e de admissão de pessoal e eventual nulidade do certame em face da Administração Pública, direta e indireta, nas hipóteses em que adotado o regime celetista de contratação de pessoas, salvo quando a sentença de mérito tiver sido proferida antes de 6 de junho de 2018, situação em que, até o trânsito em julgado e a sua execução, a competência continuará a ser da Justiça do Trabalho.(Tema 922).
+2. No caso, em que a controvérsia está ligada, indiscutivelmente, à fase pré- contratual de seleção, cuja sentença precede a 06 de junho de 2018, aplica-se a exceção contemplada no Tema 992, para reconhecer a competência da Justiça do Trabalho.
+3. Conflito de competência conhecido para declarar a competência da Justiça Obreira.(CC 183.514/MG, Rel. Min. LUIZ FELIPE SALOMÃO. Segunda Seção, DJe 29/3/2022).
+No mesmo sentido: CC 186.907/MG, Rel. Min. BENEDITO GONÇALVES, Primeira Seção, DJe 06/04/2022.
+Ante o exposto, nos termos do art. 34, XXII, do RISTJ, CONHEÇO do conflito para declarar a competência do Tribunal Regional do Trabalho da 3ª REGIÃO, suscitado.
+Publique-se. Intimem-se.
