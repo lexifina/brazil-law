@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto pela ASSOCIAÇÃO DOS PRAÇAS MILITARES DO ESTADO DE TOCANTINS - APRA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Tocantins.
+Narram os autos que a parte ora recorrente ajuizou a subjacente ação ordinária em face do ESTADO DO TOCANTINS, objetivando a condenação deste aefetuar o pagamento das diferenças remuneratórias decorrentes da revisão geral anual de remuneração promovida pela Lei Estadual 2.985/2015, acrescidas de juros e correção monetária.
+O Juízo de 1º Grau julgou procedente o pedido autoral (fls. 9.309/9.308).
+Em grau de apelação, o Tribunal de origem reformou a sentença afim de extinguir o processo sem a resolução do mérito, em virtude do acolhimento da preliminar de ilegitimidade ativa ad causam da APRA, nos termos da ementa que segue (fls. 43/44):
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. AÇÃO DE OBRIGAÇÃO DE FAZER. DIREITO PROCESSUAL CIVIL. AÇÃO ORDINÁRIA AJUIZADA POR ASSOCIAÇÃO DOS PRAÇAS MILITARES DO ESTADO DO TOCANTINS-APRA-TO. AUSÊNCIA DE AUTORIZAÇÃO ESPECÍFICA. ILEGITIMIDADE ATIVA. MATÉRIA DE ORDEM PÚBLICA. RECURSO VOLUNTÁRIO CONHECIDO E PROVIDO. SENTENÇA REFORMADA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. REMESSA NECESSÁRIA NÃO CONHECIDA.
+1. A legitimidade ativa consiste em questão de ordem pública e como tal, cognoscível no plano recursal, inclusive ex officio, em decorrência do efeito translativo do recurso. Por tal razão, não se opera a preclusão na suscitada ilegitimidade ativa decorrente de vício de representação.
+2. Conforme inteligência do artigo 5º, inciso XXI, da Constituição Federal, a representatividade das associações pressupõe autorização expressa dos associados, a qual não pode, à luz do entendimento jurisprudencial (Precedente: Recurso Extraordinário nº573.232/SC), ser considerada atendida pela permissão genérica estatutária.
+3. Por consistir representação processual e não substituição processual, é imprescindível a autorização expressa dos associados para o reconhecimento da legitimidade ad causam da Associação, ainda que expressada por meio de assembleia.
+4. Hipótese em que a ação foi ajuizada em data posterior ao precedente e a sentença prolatada após o encerramento da fase de instrução processual, o que impede a excepcional oportunidade de sanear o vício de representação.
+5. Reexame necessário não conhecido. Recurso voluntárioconhecido e provido. Sentença reformada para extinguir o feito sem resolução do mérito, nos termos do artigo 485, VI, do CPC.
+Opostos embargos de declaração, foram rejeitados (fls. 89/97).
+Sustenta a parte recorrente, em preliminar, violação ao art. 1.022 do CPC, uma vez que a despeito da oposição de embargos declaratórios o Tribunal de origem deixou de examinar a controvérsia à luz dosarts. 6º, 321 e 1013, §1º e 1014,todos do CPC, o que caracteriza negativa de prestação jurisdicional.
+No mérito, aponta contrariedade aos seguintes dispositivos legais:
+a) art. 6º do CPC, ao argumento de que a preliminar de ilegitimidade ativa ad causam não foi suscitada pelo ora recorrido no primeiro grau de jurisdição "em total má-fé, posto que se fizesse antes, poderia o recorrente regularizar o vício em tempo e alcançar a resolução de mérito da lide" (fl. 117);
+b) arts. 1.013, § 1º, e 1.014 do CPC, tendo em vista que a matéria concernente à ilegitimidade ativa ad causam, por não ter sido oportunamente deduzida no primeiro grau de jurisdição, encontra-se preclusa, motivo pelo qual não poderia ser conhecida pelo Tribunal a quo sob pena de indevida supressão de instância;
+c) art.321 do CPC, haja vista que "ojuízo de piso tacitamente entendeu que apesar de não constar autorização expressa dos associados, haveria nos autos elementos suficientes para que o RECORRIDO exercesse o contraditório - a exemplo da lista de associados acostada na petição inicial" (fl. 119), motivo pelo qual não poderia a Corte estadual, desconsiderado o princípio da primazia do mérito insculpido no dispositivo em comento, apenas extinguir o feito sem a resolução do mérito.
+Por fim, requer o provimento do recurso especial.
+Contrarrazões às fls. 128/136.
+Recurso admitido na origem (fls. 143/145).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+De início, verifica-seo Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (AgInt no AREsp 1678312/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 13/4/2021).
+Com efeito, restou expressamente consignado no acórdão recorrido a irrelevância de a questão da ilegitimidade ativa ad causam da APRA não ter sido suscitado em primeiro grau de jurisdição, tendo em vista tratar-se de matéria de ordem pública passível de ser suscitada em qualquer tempo e grau de jurisdição, ou mesmo ser conhecida de ofício. Senão vejamos (fl. 33):
+Legitimidade ativa: A ilegitimidade ativa suscitada consiste em matéria de ordem pública, a qual pode ser alegada a qualquer tempo e qualquer grau de jurisdição, inclusive, cognoscível de ofício pelo magistrado, motivo pelo qual, o fato de ausência de insurgência na origem, não impede de a parte apelante argui-la em sede de apelação.
+E ainda (fl. 35):
+Desse modo, a sentença deve ser reformada e o feito extinto sem resolução do mérito, em decorrência da ilegitimidade ativa, mostrando-se, como exposto, inviável oportunizar à associação autora a regularização da legitimidade (à luz dos princípios da economia processual, primazia do julgamento do mérito e acesso à Justiça), pois o feito foi sentenciado (após encerramento da fase instrutória).
+Tampouco, há de se alegar frustração de expectativa pela parte apelada, porquanto a ação foi proposta em 29/04/2016, após dois anos do julgamento do RE 573.232, pelo STF, ocorrido em 14/05/2014, restando inviável a retificação/regularização da representação.
+Destarte, não procede a tese de negativa de prestação jurisdicional.
+A seu turno, não se olvida ser firme a jurisprudência desta Corte "no sentido de que se sujeitam "à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio""(REsp 1.745.408/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Rel. p/ Acórdão Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/03/2019, DJe 12/04/2019)"(AgInt no AREsp 1842557/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 22/9/2021).
+Sucede que, no caso concreto, a própria recorrente reconhece que a preliminar de ilegitimidade ativa ad causam não foi suscitada pela parte recorrida em nenhum momento no primeiro grau de jurisdição, sendo certo, ainda, que também sequer foi examinada pelo Juízo de 1º Grau em sua sentença (fls. 9.309/9.318).
+Nesse contexto, não há se falar em preclusão da matéria, nos termos dos arts. 17 e 485, VI, § 3º, do CPC, in litteris:
+Art. 17. Para postular em juízo é necessário ter interesse e legitimidade.
+ ..
+Art. 485. O juiz não resolverá o mérito quando:
+ ..
+VI - verificar ausência de legitimidade ou de interesse processual;
+ ..
+§ 3º O juiz conhecerá de ofício da matéria constante dos incisos IV, V, VI e IX, em qualquer tempo e grau de jurisdição, enquanto não ocorrer o trânsito em julgado.
+(Grifos nossos)
+De outro lado, deixou a recorrente de impugnar de forma específica o fundamento contido no acórdão recorrido no sentido da inviabilidade de lhe oportunizar a regularidade de sua legitimidade, pois "o feito foi sentenciado (após encerramento da fase instrutória)" e, ainda, porque "a ação foi proposta em 29/04/2006, após dois anos do julgamento do RE 573.232, pelo STF, ocorrido em 14/05/2014" (fl. 35), limitando-se a tecer considerações genéricas no sentido de que a adequada instrução do feito permitiu ao réu, ora recorrido, exercer o contraditório e ampla defesa, questão que não guarda pertinência com a matéria em tela, a saber, ausência de uma das condições da ação.
+Assim, nesse ponto, incidem na espécie as Súmulas 283 e 284/STF.
+Por fim, a teor do Enunciado Administrativo n. 7 do Superior Tribunal de Justiça, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários recursais, na forma do art. 85, § 11, do novo CPC".
+Logo, considerando-se que o acórdão recorrido foi prolatado já na vigência do CPC/2015 e, outrossim, tendo em vista o não acolhimento da pretensão recursal da parte ora recorrente, é cabível a condenação desta em honorários advocatícios recursais, na forma do art. 85, § 11, do CPC/2015. Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3 E 7/STJ. EMBARGOS DE DECLARAÇÃO. VÍCIO NO JULGADO. OCORRÊNCIA. SUPRESSÃO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. ART. 85, § 11, DO CPC/2015. FIXAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Tendo em vista o disposto no art. 85, § 11, do CPC/2015, c/c o Enunciado Administrativo nº 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC") e o trabalho adicional realizado em grau recursal, impõe-se a fixação dos honorários advocatícios a título de sucumbência recursal.
+2. Embargos de declaração acolhidos.
+(EDcl no AREsp 1.679.208/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURM A, DJe 3/12/2020)
+PROCESSUAL CIVIL. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. ART. 85, §11, DO CPC/2015. ACÓRDÃO RECORRIDO PUBLICADO NA VIGÊNCIA DO CPC/2015. POSSIBILIDADE.
+1. Hipótese em que foi dado provimento a recurso da Fazenda Nacional para reconhecer a possibilidade de majoração dos honorários recursais, no âmbito do STJ, na forma do art. 85, §11, do CPC/2015.
+2. Conforme consignado no decisum agravado, "não seria a data do ato judicial decisório que determinaria a aplicação do art. 85, § 11, do CPC de 2015, mas a data em que publicada a decisão contra a qual é interposto o recurso" (EDcl no AREsp 1.752.269/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 7.4.2021).
+3. "É devida a fixação de honorários recursais no âmbito do STJ quando o acórdão recorrido do Tribunal de origem tenha sido prolatado na vigência do Código Fux, ainda que a sentença tenha sido publicada à luz do Código Buzaid" (AgInt nos EDcl no AREsp 1.424.412/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 26.11.2019).
+4. Agravo Interno não provido.
+(AgInt no AgInt nos EDcl no AREsp 1.805.836/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 10/12/2021) - Grifo nosso
+ANTE O EXPOSTO, conheço parcialmentedo recurso especial e, nessa parte, nego-lhe provimento.Condeno a parte recorrente ao pagamento de honorários advocatícios recursais arbitrados, nos termos do art. 85, § 11, do CPC, em 10% sobre a verba honorária fixada nas instâncias ordinárias.
+Publique-se.
