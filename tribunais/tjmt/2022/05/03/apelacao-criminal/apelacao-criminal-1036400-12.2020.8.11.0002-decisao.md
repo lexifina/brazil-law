@@ -1,0 +1,28 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial na Apelação Criminal no 1036400-12.2020.811.0002
+Recorrentes: EMILLY CHRISTIAN GOMES DE CAMPOS
+ANGÉLICA BENEDITA DA SILVA VELOSO
+Recorrido: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos.
+Trata-se de recurso especial interposto por EMILLY CHRISTIAN GOMES DE CAMPOS e ANGÉLICA BENEDITA DA SILVA VELOSO, contra acórdão da Terceira Câmara Criminal deste Sodalício, que negou provimento ao recurso de apelação criminal (id. 118270459).
+Após a interposição dos recursos houve renúncia de mandado e habilitação de novo patrono na defesa tão somente da primeira recorrente, razão pela qual houve remessa à Defensoria Pública para fins de assumir a defesa da segunda recorrente.
+Aportou nos autos petição da Defensoria: 1) manifestando concordância na representação da segunda recorrente e 2) pugnando por abertura de prazo para análise de viabilidade recursal aos Tribunais Superiores (id. 123095475).
+Nos termos do art. 112 do CPC, tem-se que:
+“Art. 112. O advogado poderá renunciar ao mandato a qualquer tempo, provando, na forma prevista neste Código, que comunicou a renúncia ao mandante, a fim de que este nomeie sucessor.
+§ 1o. Durante os 10 (dez) dias seguintes, o advogado continuará a representar o mandante, desde que necessário para lhe evitar prejuízo” (grifei).
+No caso versando tem-se a hipótese em que o patrono anterior renunciou ao mandado após a interposição do recurso especial.
+Como o antigo patrono notificou regularmente suas clientes; embora já tenha se exonerado de seu munus de representação processual, o ato por ele praticado – interposição recursal – permanece válido e eficaz.
+Noutro passo, a Defensoria assume, doravante, a representação nos autos no estado em que se encontra, de maneira que não se vislumbram razões para que haja concessão de abertura de novo prazo para fins de análise acerca de viabilidade de recursos aos Tribunais Superiores.
+A propósito:
+“PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL DE KLAUS CHARLIE NOGUEIRA SERAFIM DE MELO. "OPERAÇÃO IMPACTO". CORRUPÇÃO PASSIVA. ARTIGOS 317 C/C O 29 DO CP. RENÚNCIA DO MANDATO DURANTE A SESSÃO DE JULGAMENTO. DEFESA TÉCNICA. VIOLAÇÃO DO PRINCÍPIO DA AMPLA DEFESA. NÃO OCORRÊNCIA. PROVAS PARA CONDENAÇÃO. INCIDÊNCIA DO ART. 29, § 1o, DO CP. VERIFICAÇÃO. SÚMULA 7/STJ. (...) 2. A Corte de origem, ao tratar acerca da renúncia do advogado do acusado, consignou que o patrono da causa, em manobra claramente procrastinatória, renunciou ao mandato que lhe foi outorgado pelo seu constituinte durante a sessão de julgamento da apelação criminal e retirou-se do ato, declarando a referida renúncia abusiva. 3. Não há qualquer ilegalidade no entendimento proferido pela Corte de origem. O advogado que renuncia ao mandato deverá, durante os 10 (dez) dias posteriores à notificação do constituinte, praticar os atos para os quais foi nomeado (art. 45 do Código de Processo Civil, c/c art. 3o do CPP). Assim, mesmo tendo havido a renúncia, durante a sessão do julgamento realizado pela Corte de origem, o referido patrono era o responsável e o defensor do acusado durante o ato em questão, não podendo se falar em ausência de defesa técnica. (...) 6. Agravo regimental não provido. (AgRg no REsp 1604434/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/06/2017, DJe 01/08/2017)” (grifei).
+“PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. AÇÃO PENAL ORIGINÁRIA. CRIME DE APROPRIAÇÃO INDÉBITA. SESSÃO DE RECEBIMENTO DA DENÚNCIA. RENÚNCIA DO ADVOGADO NA VÉSPERA. VINCULAÇÃO DO CAUSÍDICO POR 10 DIAS. ART. 5o, § 3o, DO EOAB E ART. 45 DO CPC (112 DO NCPC), C/C O ART. 3o DO CPP. PRECEDENTES. 2. NÃO REALIZAÇÃO DE SUSTENTAÇÃO ORAL. AUSÊNCIA DE NULIDADE. EXPEDIENTE FACULTATIVO. ART. 6o, § 1o, DA LEI N. 8.038/1990. PRECEDENTES DO STF E DO STJ. 3. PEDIDO INCIDENTAL. EXTINÇÃO DA PUNIBILIDADE. REPARAÇÃO INTEGRAL DO DANO. MATÉRIA NÃO SUBMETIDA À CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. 4. ORDEM DENEGADA. 1. O advogado que renuncia ao mandato ainda fica vinculado ao processo pelo prazo de 10 (dez) dias, nos termos do disposto no art. 5o, § 3o, do Estatuto da Ordem do Advogados do Brasil, e por aplicação analógica do art. 45 do Código de Processo Civil (art. 112 do NCPC). (...) 4. Ordem denegada. (HC 280.682/MT, Rel. Min. REYNALDO SOARES DA FONSECA, QUINTA TURMA, j. em 12/04/2016, DJe 19/04/2016)” (grifei).
+“PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO DE 15 DIAS CORRIDOS. INTEMPESTIVIDADE DO RECURSO ESPECIAL. ADVOGADO CONSTITUÍDO NOS AUTOS DEVIDAMENTE INTIMADO. IMPOSSIBILIDADE DE DEVOLUÇÃO DO PRAZO RECURSAL A OUTRO DEFENSOR QUANDO JÁ ULTRAPASSADO O PRAZO RECURSAL. AGRAVO REGIMENTAL NÃO PROVIDO. 1. (...) 2. Havendo regular intimação do Advogado que então promovia a defesa do acusado, é descabida a pretensão, formulada pelo novo Defensor, no sentido de que lhe seja devolvido o prazo recursal, uma vez que este recebe o processo no estado em que se encontra. 3. No presente caso, constata-se, ainda, que foi realizado substabelecimento ao novo advogado, quando já esgotado o prazo recursal, razão pela qual não há se falar em restituição do prazo recursal. 4. Agravo regimental não provido. (AgRg no AREsp 2031541/SP, Rel. Min. REYNALDO SOARES DA FONSECA, QUINTA TURMA, j. em 29/03/2022, DJe 31/03/2022)” (grifei).
+Ante o exposto, indefiro o pedido para abertura de novo prazo à Defensoria Pública.
+Publique-se. Intime-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
