@@ -1,0 +1,69 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CONDOMNIO PORTO DAS AGUAS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em combate a acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE EXIGIR CONTAS. SENTENÇA DE PROCEDÊNCIA NAS DUAS FASES. RECURSO DA RÉ.
+TESE DE ILEGITIMIDADE PASSIVA EM RELAÇÃO ÀS CONTAS A SEREM PRESTADAS NOS ANOS 2004-2005. MATÉRIA QUE JÁ FOI OBJETO DE DECISÃO JUDICIAL IRRECORRIDA DESTE TRIBUNAL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO NÃO CONHECIDO NO PONTO.
+"Não obstante seja cabível suscitar pronunciamento das instâncias ordinárias a respeito da prescrição, por ser matéria de ordem pública, uma vez decidida a matéria no curso da ação, cabe à parte interessada veicular a sua irresignação no momento próprio, sob pena de preclusão". (AgInt no REsp 1770709/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 01/07/2019).
+IMPUGNAÇÃO À PERÍCIA CONTÁBIL. INSURGÊNCIA APRESENTADA APENAS EM GRAU DE RECURSO. DEMANDADA QUE, EMBORA INTIMADA DUAS VEZES PARA MANIFESTAR-SE ACERCA DO LAUDO PERICIAL E DE SUA COMPLEMENTAÇÃO, NÃO AVENTOU AS REFERIDAS IMPUGNAÇÕES. PRECLUSÃO EVIDENCIADA. RECURSO NÃO CONHECIDO NO PONTO.
+MÉRITO. CONTRATOS DE PARCERIA COMERCIAL. AUTORAS QUE PRESTARAM SERVIÇOS DE INTERMEDIAÇÃO PARA A LOCAÇÃO DE ESPAÇOS COMERCIAIS EM EMPREENDIMENTO DA RÉ AO LONGO DE TRÊS TEMPORADAS. CONTROVÉRSIA A RESPEITO DO PERCENTUAL DA COMISSÃO DE CORRETAGEM DURANTE A TEMPORADA 2004-2005. PERÍODO A RESPEITO DA QUAL NÃO HÁ CONTRATO ESPECÍFICO. ACERTO DA TEMPORADA ANTERIOR QUE FOI CELEBRADO POR PRAZO INDETERMINADO. IMPOSSIBILIDADE, PORÉM, DE INCIDÊNCIA DO ÍNDICE DA REFERIDA CONTRATAÇÃO, POIS, EM PRESTAÇÃO DE CONTAS OFERTADA PELA DEMANDADA, HÁ INDICAÇÃO DE PERCENTUAIS MUITO SUPERIORES. PROIBIÇÃO DO COMPORTAMENTO CONTRADITÓRIO. APLICAÇÃO DO PERCENTUAL INDICADO PELAS AUTORAS NA EXORDIAL, VISTO QUE NÃO IMPUGNADA A TEMPO E MODO PELO RÉU. PRECLUSÃO VERIFICADA. SENTENÇA MANTIDA.
+SUCUMBÊNCIA. MANUTENÇÃO. HONORÁRIOS RECURSAIS DEVIDOS.
+RECURSO CONHECIDO EM PARTE E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados com aplicação de multa.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 599 do Código Civil, 333, 914 e915, §2º, do CPC/1973, 373, 485, VI, 507 e 550, §5º, do CPC/2015.
+Alega que, para a temporada de 2004-2005, não houve contrato escrito, devendo ser aplicado o percentual de 3,6% previsto no contrato de temporada anterior e que havia sido firmado por prazo indeterminado. Aponta o princípio do pacta sunt servanda. Aduz que não agiu de forma contraditória e que o percentual de 3,6% foi aplicado para diversos contratos. Na eventualidade de não ser adotado o percentual de 3,6%, sustenta a inaplicabilidade do percentual de 12%, defendendo que seja adotada a média dos percentuais utilizados para o referido período. Argumenta que o percentual de 12% foi devidamente impugnado na segunda fase da prestação de contas, inexistindo preclusão da matéria.Sustenta, também, a ilegitimidade da parte recorrente para responder pelas comissões devidas no período de 15.03.2004 a 28.02.2005, inexistindo preclusão sobre esse tema, uma vez que embasada em outra causa de pedir,em documento novo, sobre o qual tomou conhecimento depois de encerrada a primeira fase do procedimento de prestação de contas.
+Contrarrazões ao recurso especial às fls. 1.987-1.993.
+É o relatório.
+DECIDO.
+2. Quanto à tese de ilegitimidade passiva, a Corte local concluiu pela preclusão da matéria, tendo a seguinte fundamentação no acórdão recorrido:
+"Inicialmente, adianta-se não ser possível conhecer do recurso quanto à alegação de ilegitimidade passiva no que concerne à prestação de contas da temporada 2004-2005, pois operada a preclusão.
+Em 09-11-2008, a juíza Vera Regina Bedin julgou procedente a primeira fase da Ação de Exigir Contas e condenou o apelante "a prestar contas aos Autores, no prazo de 48 horas, acerca da movimentação financeira de todo o período de vigência dos contratos firmados entre as partes, ou seja, 01 de março de 2003 a fevereiro de 2006, sob pena de não lhe ser lícito impugnar as que os Requerentes apresentem" (fl. 61).
+Ou seja, o réu, ora insurgente, foi condenado prestar contas dos valores recebidos a título das locações intermediadas pelas autoras nas temporadas de 2003/2004, 2004/2005 e 2005/2006.
+Embora a sentença tenha sido objeto de Recurso de Apelação (fls. 98-105), este Órgão Fracionário manteve-a integralmente (fls. 146-150) por meio de decisão a respeito da qual se operou o trânsito em julgado em 17-01-2011 (fl. 152).
+Por isso, não é mais possível reabrir a discussão a respeito do dever de o réu prestar ou não contas quanto ao período compreendido entre 15-03-2004 e 28-02-2005, porquanto cuida-se de questão já decidida definitivamente por órgão jurisdicional.
+A despeito de a matéria tratar-se de questão de ordem pública, uma vez decidida pelo juiz, inicia-se o prazo para que a parte se insurja contra o julgado no prazo recursal respectivo, sob pena de operar-se a preclusão da matéria, forte no art. 508 do Código de Processo Civil, segundo o qual "É vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão".
+É que, do contrário, estar-se-ia dando um salvo-conduto para as partes reabrirem o debate da mesma questão indefinidas vezes, inclusive após apreciação judicial.
+ ..
+Sendo assim, operou-se a preclusão da matéria, não cabendo mais a este Juízo revê-la nesta instância."
+Nesse contexto, verifica-se querever esse entendimento da Corte local e acolher a pretensão recursal de inexistência de preclusão sobre a tese de ilegitimidade passiva embasado em documento novo demandaria o revolvimento de matéria fática, o que é inviável nesta via especial ante o óbice da Súmula 7 do STJ.
+Ademais, considerando a moldura fática delineada no acórdão recorrido, constata-se que o entendimento da Corte local está em conformidade com a jurisprudência do STJ.
+Com efeito, "o fato de se tratar de matéria de ordem pública não tem o condão de afastar a preclusão, por se tratar de questão já decidida. Precedentes." (AgRg no Ag 1390295/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/05/2017, DJe 23/05/2017).
+No mesmo sentido (grifamos):
+__________________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE PRESTAÇÃO DE CONTAS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DO DEMANDADO.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo Tribunal de origem, a questão federal suscitada. Aplicação da Súmula 211/STJ. Precedentes.
+1.1. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+2. Na forma da jurisprudência desta Corte "ainda que a questão seja de ordem pública, há preclusão consumativa se a matéria tiver sido objeto de decisão anterior definitivamente julgada" (AgRg no AREsp 630.587/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/06/2016, DJe 01/07/2016).
+3. A modificação das conclusões das instâncias ordinárias, demandaria necessariamente, o reexame de fatos e provas, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1873065/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/02/2022, DJe 04/03/2022)
+__________________
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA. QUESTÃO SUSCITADA, POR MEIO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE, E DECIDIDA, OPERANDO-SE INCLUSIVE A COISA JULGADA. ALTERAÇÃO DO ENTENDIMENTO DO ACÓRDÃO RECORRIDO. INVIABILIDADE. SÚMULA 7/STJ. 2. MATÉRIA DE ORDEM PÚBLICA. APRECIAÇÃO EM DECISÃO TRANSITADA EM JULGADO. CARACTERIZADA A PRECLUSÃO CONSUMATIVA. 3. AGRAVO INTERNO DESPROVIDO.
+1. A alteração do entendimento firmado no acórdão recorrido (acerca da ocorrência da preclusão consumativa, porquanto já suscitada e apreciada, na decisão de exceção de pré-executividade, já transitada em julgado, a questão concernente à exigibilidade do título, matéria que também está intimamente ligada à nulidade da cártula) demandaria o reexame dos fatos e das provas dos autos, atraindo, por conseguinte, a Súmula 7/STJ, não se tratando de hipótese de revaloração probatória.
+2. Ademais, "ainda que a questão seja de ordem pública, há preclusão consumativa se a matéria tiver sido objeto de decisão anterior definitivamente julgada" (AgRg no AREsp 630.587/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/6/2016, DJe 1/7/2016).
+3. Agravo interno desprovido.
+(AgInt no AgInt no REsp 1592256/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/02/2017, DJe 24/02/2017)
+__________________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. SUPERVIA. LEGITIMIDADE. DECISÃO ANTERIOR. PRECLUSÃO CONSUMATIVA.
+1. Havendo decisão anterior declarando a legitimidade do agravante, esta não pode ser alterada em vista da ocorrência da preclusão consumativa, mesmo em se tratando de matéria de ordem pública.
+2. Agravo interno não provido.
+(AgInt no AREsp 369.417/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/09/2016, DJe 21/09/2016)
+__________________
+3. Em relação às teses de aplicação de percentual de 3,6% ou damédia dos percentuais utilizados para o período da temporada de 2004-2005, o inconformismo também não prospera.
+Na espécie, a Corte local, com base nos elementos fático-probatórios dos autos e na interpretação do contrato,entendeu pela aplicação do percentual de 12% para o período da temporada de 2004-2005, afastando as teses da parte recorrente de aplicação de percentual diverso, entendendo pela ocorrência de comportamento contraditório e preclusão, tendo a seguinte fundamentação no acórdão recorrido:
+"Apesar de os percentuais das temporadas 2003-2004 e 2005-2006 serem incontroversos, as partes divergem quanto aquele relativo ao hiato 2004-2005.
+As autoras sustentam que o percentual a ser aplicado é o de 12% (doze por cento), conforme contrato celebrado às fls. 294-296.
+Por outro lado, o réu defende que deve incidir o percentual de 3,6% (três vírgula seis por cento), correspondente àquele previsto no contrato firmado em 02-02-2003 (fls. 164-165 e 166-167), já que a contratação deu-se por prazo indeterminado.
+Pois bem.
+Desde já adianta-se que não é possível utilizar o contrato de fls. 294-296, eis que ele foi celebrado não entre as autoras e o demando, senão que entre as primeiras e Maria de Lourdes Tibes Me, que, à época, era "locatária da área das lojas do shopping de propriedade do COMPLEXO TURÍSTICO POR DAS ÁGUAS  ré " (fl. 294).
+Noutro giro, também não e possível empregar a comissão de corretagem de 3,6% prevista nos contratos de fls. 164-165 e 166-167, pois muito embora eles tenham sido ajustados pelas partes em contrato celebrado por prazo indeterminado - e por isso vigente desde 02-02-2003 até 28-02-2005 (data em que firmado o segundo contrato), abrangendo o período em discussão -, colhe-se da prestação de contas oferecida pela ré (fls. 76-77), que na temporada 2004-2005 a comissão de corretagem por ele apontada no documento foi variável, adotando-se, para certos lojistas, o percentual de 3,6%, enquanto para outros taxas de 4%, 5%, 5,9%, 6%, 8%, 9% e 12%.
+Ora, se o própria contratante/demandado afirmou que os percentuais pagos a título de corretagem na temporada em comento era variável, alcançando, para certos contratos, percentuais muito superiores aos 3,6% (três vírgula seis por cento) ajustados pelos contratos de fls. 164-165 e 166-167 (temporada 2003-2004), não pode ele, agora, adotar comportamento contraditório e afirmar que nunca assumiu aquilo que expressamente disse.
+Sabe-se que o direito não protege o venire contra factum proprium, ou seja, o comportamento contraditório de quaisquer dos sujeitos que atuem no contratos civis, porquanto vai de encontro ao princípio da boa-fé objetiva, inscrito no art. 422 do Código Civil, que reza:
+ ..
+Logo, impossível manter a comissão de corretagem em 3,6% (três vírgula seis por cento).
+Assim, apenas é possível, tal como levado a efeito pela Juíza da origem, utilizar o percentual de corretagem de 12% (doze por cento) não em razão do contrato de fls. 294-296, o qual, como dito, não pode ser imposto ao réu, mas porque foi a taxa apontada desde o início pelas autoras como a correspondente ao período e não impugnada pelo demandado.
+Sabe-se que a não impugnação especificada dos fatos vertidos na exordial pela parte demandada, faz com que eles sejam reputados presumidamente verdadeiros.
+No caso concreto, o requerido apenas insurgiu-se contra o percentual indicado na petição inicial quando impugnou a perícia judicial, muito depois de precluso o seu direito de fazê-o.
+ ..
+Portanto, não há que se falar em reforma da sentença vergastada no ponto, devendo-se manter a aplicação do percentual de 12% para a temporada 2004-2005." (g.n.)
+Desse modo, no presente caso, constata-se que, para desconstituir o entendimento exposto pelo Tribunal local e acolher a pretensão da parte recorrente, seria imprescindível o reexame de prova e a interpretação do contrato, sendo ambos inviáveis nesta instância especial (Súmulas 5 e 7/STJ), o que impede o conhecimento do recurso.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
