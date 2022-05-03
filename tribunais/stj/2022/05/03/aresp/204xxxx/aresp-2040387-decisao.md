@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por REGINALDO DE SOUZA JUNIOR contra decisão que negou seguimento a recurso especial, fundamentado nas alíneas "a" e "c" doinciso III do artigo 105 daConstituição Federal,em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios,assim ementado (fl. 287):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. SALÁRIO OU VENCIMENTO. FLEXIBILIZAÇÃO DA REGRA DO ART. 833, IV DO CPC. POSSIBILIDADE. PRECEDENTES. TJDFT. STJ.
+1. Os rendimentos do devedor são, em regra, impenhoráveis (CPC, art. 833, IV). Todavia, o Superior Tribunal de Justiça firmou entendimento no sentido de que a regra geral da impenhorabilidade de salários pode ser relativizada, com observância de percentual que assegure a dignidade do devedor e de sua família (EREsp 1582475/MG).
+2. É razoável a penhora de parcela do salário ou de verba equivalente, garantindo-se, com o remanescente, a dignidade do devedor e o direito ao crédito do credor. Precedentes deste Tribunal.
+3. Recurso conhecido e parcialmente provido.
+Nas razões do especial, a parte recorrente aponta ofensa ao inciso IV doartigo833, IV e § 2º, do Código de Processo Civil, defendendoa impossibilidade de relativização da impenhorabilidade das verbas salariais para satisfação de crédito não alimentar.
+Assim delimitada a controvérsia, verifico que não assiste razão ao recorrente.
+A atualjurisprudência deste Superior Tribunal orienta-se no sentido de que, além das exceções previstas no § 2º do art. 833 do Código de Processo Civil (prestação alimentícia e renda superior a 50 salários mínimos), a penhora de salários pode serdeferida quando houver possibilidade de fixação de percentual capaz de garantir a subsistência digna do devedor e de sua família, com base na regra geral do artigo 833, IV, do CPC.
+Confiram-se, a propósito, os seguintes precedentes:
+RECURSO ESPECIAL. ALEGADA OFENSA À SÚMULA VINCULANTE DO STF. NÃO CABIMENTO. EMBARGOS À EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. PENHORA DA REMUNERAÇÃO DO DEVEDOR.EXCEÇÃO DO §2º DO ART. 833 DO CPC/15. INAPLICABILIDADE. DIFERENÇA ENTRE PRESTAÇÃO ALIMENTÍCIA E VERBA DE NATUREZA ALIMENTAR.INTERPRETAÇÃO DADA AO ART. 833, IV, DO CPC/15. POSSIBILIDADE DE PENHORA DA REMUNERAÇÃO A DEPENDER DA HIPÓTESE CONCRETA. JULGAMENTO PELO CPC/15.
+1. Ação de embargos à execução, ajuizada em 10/04/2015, atualmente na fase de cumprimento de sentença para o pagamento dos honorários advocatícios de sucumbência, de que foi extraído o presente recurso especial, interposto em 23/01/2019 e atribuído ao gabinete em 09/04/2019.
+2. O propósito recursal consiste em definir sobre a possibilidade de penhora da remuneração da recorrida para o pagamento de honorários advocatícios de sucumbência devidos ao recorrente.
+3. A interposição de recurso especial não é cabível com fundamento em violação de súmula vinculante do STF, porque esse ato normativo não se enquadra no conceito de lei federal previsto no art. 105, III, "a" da CF/88.
+4. No julgamento do REsp 1.815.055/SP, (julgado em 03/08/2020, DJe 26/08/2020), a Corte Especial decidiu que a exceção contida na primeira parte do art. 833, § 2º, do CPC/15 é exclusivamente em relação às prestações alimentícias, independentemente de sua origem, isto é, oriundas de relações familiares, responsabilidade civil, convenção ou legado, não se estendendo às verbas remuneratórias em geral, dentre as quais se incluem os honorários advocatícios.
+5. Registrou-se, naquela ocasião, todavia, que, na interpretação da própria regra geral (art. 649, IV, do CPC/73, correspondente ao art.
+833, IV, do CPC/15), a jurisprudência desta Corte se firmou no sentido de que a impenhorabilidade de salários pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1582475/MG, Corte Especial, julgado em 03/10/2018, REPDJe 19/03/2019, DJe de 16/10/2018).
+6. Assim, embora não se possa admitir, em abstrato, a penhora de salário com base no § 2º do art. 833 do CPC/15, é possível determinar a constrição, à luz da interpretação dada ao art. 833, IV, do CPC/15, quando, concretamente, ficar demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família.
+7. Recurso especial conhecido em parte e, nessa extensão, desprovido.
+(REsp 1806438/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 19.10.2020);
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL.CUMPRIMENTO DE SENTENÇA. AÇÃO DE DESPEJO COM COBRANÇA DE ALUGUÉIS RESIDENCIAIS. PENHORA SOBRE PERCENTUAL DA REMUNERAÇÃO DO DEVEDOR.POSSIBILIDADE (CPC, ART. 833, § 2º). AGRAVO IMPROVIDO.
+1. O Novo Código de Processo Civil, em seu art. 833, deu à matéria da impenhorabilidade tratamento um tanto diferente em relação ao Código anterior, no art. 649. O que antes era tido como "absolutamente impenhorável", no novo regramento passa a ser "impenhorável", permitindo, assim, essa nova disciplina maior espaço para o aplicador da norma promover mitigações em relação aos casos que examina, respeitada sempre a essência da norma protetiva.
+Precedentes.
+2. Descabe manter imune à penhora para satisfação de créditos provenientes de aluguel com moradia, sob o pálio da regra da impenhorabilidade da remuneração (CPC, art. 833, IV, e § 2º), a pessoa física devedora que reside ou residiu em imóvel locado, pois a satisfação de créditos de tal natureza compõe o orçamento familiar normal de qualquer cidadão e não é justo sejam suportadas tais despesas pelo credor dos aluguéis.
+3. Note-se que a preservação da impenhorabilidade na situação acima traria grave abalo para as relações sociais, quanto às locações residenciais, pois os locadores não mais dariam crédito aos comuns locatários, pessoas que vivem de seus sempre limitados salários.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1838131/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 25.3.2020);
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PENHORA. SALÁRIO. PAGAMENTO. HONORÁRIOS ADVOCATÍCIOS. DIGNIDADE DO DEVEDOR. PRESERVAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A exceção à regra da impenhorabilidade contida no art. 833, § 2º, do Código de Processo Civil de 2015 se aplica somente aos casos de prestação alimentícia, não se estendendo às hipóteses de verba de natureza alimentar, como são os honorários advocatícios. Fica ressalvada, porém, a hipótese em que, com base na regra geral do artigo 833, IV, do CPC/2015, a penhora de salários é deferida, mas com a preservação de percentual capaz de garantir a subsistência digna do devedor e de sua família. Precedente da Corte Especial.
+3. Na hipótese dos autos, o tribunal de origem fixou o percentual da penhora sobre salários considerando que o valor remanescente garantiria a sobrevivência digna da devedora, estando em consonância com a recente jurisprudência desta Corte.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1645585/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 24.11.2020).
+Estando o acórdão recorrido em sintonia com a jurisprudência desta Corte, incide o enunciado n. 83 da Súmula do STJ.
+Em face do exposto, negoprovimento ao agravo.
+Intimem-se.
