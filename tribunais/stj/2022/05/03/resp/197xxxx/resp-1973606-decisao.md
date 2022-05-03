@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA APARECIDA DE SOUSA CARDOSO, com fundamento no art. 105, inciso III, alíneaa, da Constituição da República, contra o acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulona Apelação n.1501974-41.2020.8.26.0537.
+Consta dos autos que a Recorrente foi condenadacomo incursano art. 33,caput,da Lei n. 11.343/06, às penas de 7(sete) anos de reclusão, em regime inicial fechado, e 699(seiscentos e noventa e nove) dias-multa, apreensão de 0,78g de cocaína e 0,42g de maconha, nos termos da sentença de fls. 157-163.
+Irresignada, a Defesa recorreu ao Tribunal de origem, que deu parcial provimento à apelação defensiva para afastar a agravante genérica prevista no art. 61, inciso II, alínea j, do Código Penal, todavia,sem reflexos no quantum final das reprimendas(fl. 240).
+Nas razões do recurso especial, é alegada a violação aoart. 33, § 2.º, alínea b,e § 3.º, do Código Penal, bem como ao art. 387, §§ 1.º e 2.º, do Código de Processo Penal.
+Argumenta que"a imposição do regime inicial fechado, se deu, tão somente, em virtude da opinião do julgador acerca da gravidade em abstrato do delito" (fl. 287).
+Segundo a Defesa, a"decisão recorrida, malgrado tenha imposto o regime inicial do cumprimento da pena fechado, deixou de analisar o tempo em que o recorrente resta preso cautelarmente pelo crime que ora é-lhe imputado" (fl. 288).
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do apelo nobre (fls. 316-320).
+É o relatório.Decido.
+O Tribunal local, no julgamento do apelo defensivo, manteve o regime inicial fechado,nos seguintes termos (fls. 255-256; e 258; sem grifos no original):
+"Não procede o pleito de aplicação do redutor do §4º, do artigo 33, da Lei de Tóxicos, por se tratar de benesse a ser concedida em circunstâncias especialíssimas, quando preenchidos, cumulativamente, todos os seus requisitos, e apenas aos neófitos que se envolvem na atividade da narcotraficância de forma ocasional, e empequena monta, o que não se observa no caso presente, tendo em vista que a apelante, a par de já ter sido condenada definitivamente duas vezes por narcotráfico, foi surpreendida novamente a praticar esse delito, e ainda trazendo consigo, repita-se, 114 porções de dois tóxicos distintos, tudo a denotar sua intensa e exclusiva dedicação, desde antes, a essa atividade espúria, não preenchendo, portanto, o primeiro e o terceiro requisitos do aludido dispositivo legal.
+ ..
+No mais, a reincidência supracitada, o quantum de pena fixado, bem como as circunstâncias acima expostas, por si só já justificam a fixação do regime prisional inicial fechado para o desconto da aflitiva  .. "
+Diversamente do alegado pela Defesa, embora o Agravante tenha sido condenado a pena inferior a 8 (oito) anos de reclusão, considerando areincidência específica, no caso, mostra-se adequado o regime inicial fechado para cumprimento da reprimenda, nos termos do art. 33, § 2.º, alínea b, do Código Penal.
+Ora, a reincidência afasta o regramento geral para definição do regime inicial de cumprimento de pena. É o que se observa do art. 33, § 2.º, do Código Penal,litteris:
+"§ 2º - As penas privativas de liberdade deverão ser executadas em forma progressiva, segundo o mérito do condenado, observados os seguintes critérios e ressalvadas as hipóteses de transferência a regime mais rigoroso: (Redação dada pela Lei nº 7.209, de 11.7.1984)
+a) o condenado a pena superior a 8 (oito) anos deverá começar a cumpri-la em regime fechado;
+b)o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto;
+c)o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto."
+Com efeito, "a jurisprudência desta Corte Superior entende que, "embora a reprimenda não tenha ultrapassado 8 anos, a reincidência justifica a fixação do regime inicial fechado, segundo a jurisprudência desta Corte, mostrando-se inócua, inclusive, para fins de escolha do regime inicial, a discussão acerca da detração do tempo de prisão provisória (art. 387, § 2º, do Código de Processo Penal)" - AgRg no HC n. 603.686/SP, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 9/2/2021, DJe 17/2/2021."(AgRg no HC 638.371/ES, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/05/2021, DJe 21/05/2021), como na espécie..
+Ante o exposto, NEGOPROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. TRÁFICO. PENA RECLUSIVA ENTRE 4 (QUATRO) E 8 (OITO) ANOS. MANUTENÇÃO DO REGIME PRISIONAL FECHADO. MOTIVAÇÃO IDÔNEA.ART. 33, § 2.º, ALÍNEA B, DO CÓDIGO PENAL. DETRAÇÃO PENAL. IMPOSSIBILIDADE. RÉU REINCIDENTE. RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
