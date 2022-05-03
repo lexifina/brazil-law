@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+CONTRATO Compromisso particular de compra e venda e imóvel urbano Pedido de revisão Cerceamento de defesa Inocorrência Apelantes que não demonstraram a ocorrência de abusividade Capitalização de juros não verificada Possibilidade de cumulação de juros e correção monetária Inobservância do disposto no art. 373, I do CPC Sentença mantida Recurso não provido.
+No recurso especial, as recorrentes apontam violação aos artigos 6º, III, art. 39, V, 46, e 51, VI, do Código de Defesa do Consumidor, no que atine ao cerceamento de defesa e ao dever de informação.
+Alegam que "o juízo a quo entendeu pelo julgamento antecipado, todavia, houve pedido de produção de prova pericial, o que leva à nulidade do processo, visto que a prova seria necessária ao deslinde da controvérsia, pois, para se chegar à conclusão adotada, há necessidade de produção de prova pericial".
+Sustentam que "pois não há informação clara, especifica e precisa indicada no contrato quanto a incidência de juros sobre aqueles aplicados nomês anterior, ou seja, sobre a capitalização mensal de juros".
+Contrarrazões apresentadas.
+O recurso especial não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil/2015, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso não merece prosperar.
+Quanto ao cerceamento de defesa, o Tribunal de origemassim dispôs:
+Inicialmente, descarta-se a ocorrência de cerceamento de defesa, pois já decidiu o Supremo Tribunal Federal que a necessidade da produção de prova há de ficar evidenciada para que o julgamento antecipado da lide implique em cerceamento de defesa. A antecipação é legítima se os aspectos decisivos estão suficientemente líquidos para embasar o convencimento do Magistrado (RE nº 101.171-8/SP, Rel. Min. Francisco Rezek).
+Como se vê, a Corte de origem solucionou a controvérsia à luz das provas que entendeu necessárias à solução da lide. De fato, consoante a jurisprudência do STJ, compete às instâncias ordinárias exercer juízo acerca das provas produzidas, haja vista sua proximidade com as circunstâncias fáticas da causa. Por conta disso, se o magistrado, após análise das particularidades da controvérsia, entendeu pela higidez dessa ou daquela prova específica, não há falar em má-valoração apenas porque não julgou conforme os interesses da recorrente. Incidência das Súmulas 7 e 83/STJ quanto ao ponto.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUCESSÃO EMPRESARIAL. LEGITIMIDADE PASSIVA MANTIDA. OFENSA AO ART. 131 DO CÓDIGO DE PROCESSO CIVIL DE 1973 NÃO CONFIGURADA. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO. 1. "No sistema de persuasão racional adotado pelo Código de Processo Civil nos arts. 130 e 131, em regra, não cabe compelir o magistrado a autorizar a produção desta ou daquela prova, se por outros meios estiver convencido da verdade dos fatos, tendo em vista que o juiz é o destinatário final da prova, a quem cabe a análise da conveniência e necessidade da sua produção" (REsp 1.175.616/MT, Rel. MINISTRO LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 4/3/2011).  ..  3. Agravo interno a que se nega provimento. (AgInt no AREsp 984.176/TO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 25/4/2019).
+Nesse mesmo sentido: AgInt no AREsp 1084624/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 8/6/2018; AgInt no REsp 1804826/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 18/5/2020.
+Com relação ao dever de informação acerca dos juros, assim se posicionou a Corte local:
+ .. .
+Quanto à alegada capitalização de juros, a princípio, não constitui causa de abusividade, quando permitida e ajustada no compromisso, com inequívoca ciência dos termos do contrato, na oportunidade da celebração do negócio jurídico.
+Contudo, no pacto em exame não se verifica a incidência de juros na forma capitalizada.
+Com efeito, o contrato prevê que o saldo devedor será reajustado pela variação do IGP-M, e, ainda, sofrerá um acréscimo de juros de 0,5% ao mês, do que se depreende que não há capitalização de juros, mas sim cumulação de juros e correção monetária, o que é plenamente possível.
+Insta esclarecer que a correção monetária tem por finalidade a atualização do débito, para manter o seu valor real, ao passo que os juros compensatórios visam à remuneração do capital, impedindo, assim, que o credor seja lesado pelo pagamento diferido do preço do imóvel.  .. . Frise-se que a dinâmica articulada não saiu do terreno da penumbra, em desserviço à convicção plena e afirmativa, com infração ao art. 373, I, do NCPC (art. 333, I, do CPC/73).
+Com efeito, o recurso especial esbarra no óbice das Súmulas 5 e 7/STJ, porquanto, para modificar o acórdão recorrido quanto às previsões contratuais na espécie, seria necessário reinterpretar as cláusulas do contrato celebrado entre as partes, bem como o reexamedas provas, e dos fatos já analisados, providência vedada em sede de recurso especial.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo e a gratuidade da justiça.
+Intimem-se.
