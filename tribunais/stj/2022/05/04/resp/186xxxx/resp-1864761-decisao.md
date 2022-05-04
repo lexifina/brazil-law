@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+"PREVIDÊNCIA PRIVADA - PEDIDO DE REVISÃO DA COMPLEMENTAÇÃO DE APOSENTADORIA - CONDENAÇÃO DO EMPREGADOR, NA JUSTIÇA DOTRABALHO, AO PAGAMENTO DE VERBAS DE NATUREZA SALARIAL (HORAS EXTRAS) - LEGITIMIDADE AD CAUSAM PASSIVA DO PATROCINADOR EM RAZÃO DA PRÁTICA DE ATO ILÍCITO - ENTENDIMENTO SUFRAGADO PELO E. SUPERIOR TRIBUNAL DE JUSTIÇANO RESP. N.º 1.370.191/RJ - ADESÃO DO PARTICIPANTE A SALDAMENTO DO PLANO - IMPOSSIBILIDADE DE RECÁLCULO DO BENEFÍCIO SOB PENA DE VIOLAÇÃO AO ATOJURÍDICO PERFEITO - RECURSO IMPROVIDO".
+"Afigura-se irrelevante para fins de recálculo de aposentadoria suplementar a decisão da Justiça do Trabalho que proclama o direito do participante de plano de previdência fechada a ter horas extras habituais integradas no cálculo do seu salário uma vez que a adesão a saldamento impede a revisão do benefício, sob pena de violação ao ato jurídico perfeito."
+Opostos os embargos de declaração, esses foram rejeitados.
+Nas razões do especial, sustentou negativa de vigência ao artigo 1.022, I e II, do Código de Processo Civil de 2015.
+Apontou ofensa aos artigos 28, I, da Lei nº 8.212/91; 368, 369, 423 e 424 do Código Civil; assim como divergência jurisprudencial, visto que a adesão ao saldamento do Plano de Benefícios não interfere no direito de revisão do benefício complementar em virtude das verbas reconhecidas pela Justiça do Trabalho e que compõem o salário de participação, havendo previsão regulamentar para tanto.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse não merece provimento, senão vejamos.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+No tocante às alegações de ofensa ao artigo 1.022, I e II, do CPC/15, verifico que essas não merecem prosperar.
+Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Com efeito, assinalo que o Tribunal de origem afastou expressamente as questões suscitadas pela parte recorrente, de modo que não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos dos acórdãos cujas ementas transcrevo abaixo:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO COLETIVA DE CONSUMO. TRANSPORTE. ACIDENTE. DANO MORAL COLETIVO. RECUPERAÇÃO FLUIDA (FLUID RECOVERY). DISTINÇÃO. APLICAÇÃO NA HIPÓTESE CONCRETA. DANOS INDIVIDUAIS. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação coletiva de consumo na qual é pleiteada a reparação dos danos morais e materiais decorrentes de falhas na prestação de serviços de transportes de passageiros que culminaram em dois acidentes, ocorridos em 13/03/2012 e 30/05/2012.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. O vício que autoriza a oposição dos embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, ou o que ficara decidido na origem, ou, ainda, quaisquer outras decisões do STJ ou do STF.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp 1741681/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/3/2019, DJe 22/3/2019)
+PETIÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - MATÉRIA SUBMETIDA AO RITO DA REPERCUSSÃO GERAL NO STF - DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM - OBEDIÊNCIA À SISTEMÁTICA PREVISTA NO CÓDIGO DE PROCESSO CIVIL - IRRECORRIBILIDADE - PRECEDENTES DO STJ. INSURGÊNCIA DOS MUTUÁRIOS.
+1. Petição recebida como embargos de declaração, em nome dos princípios da economia processual e da fungibilidade.
+2. Nos estreitos lindes do artigo 1.022, do Código de Processo Civil de 2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+3. Embargos de declaração rejeitados.
+(PET no AgInt no AREsp 1293428/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/3/2019, DJe 26/3/2019)
+Outrossim, destaco que as apontadas contrariedades aos artigos 28, I, da Lei nº 8.212/91; 368, 369, 423 e 424 do Código Civil; e divergência jurisprudencial também não merecem prosperar, visto que o Tribunal de origem decidiu em consonância com o entendimento já consolidado nesta Corte sob a temática dos recursos repetitivos, quando do julgamento do Recurso Especial nº 1.312.736/RS, o qual estabeleceu, em modulação de efeitos, que, "nas demandas ajuizadas na Justiça comum até a data do presente julgamento - se ainda for útil ao participante ou assistido, conforme as peculiaridades da causa -, admite-se a inclusão dos reflexos de verbas remuneratórias (horas extras), reconhecidas pela Justiça do Trabalho, nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria, condicionada à previsão regulamentar (expressa ou implícita) e à recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial em cada caso."
+É o que se depreende da leitura do seguinte trecho do acórdão recorrido (fls. 1.197/1.203 e-STJ):
+"Tratando-se de ação que visa o reajuste da suplementação de aposentadoria em decorrência da inclusão de verba remuneratória (horas extras), reputada devida pela Justiça do Trabalho, no salário base utilizado para cálculo do benefício, há de ser observada a diretriz traçada pelo E. Superior Tribunal de Justiça, no Recurso Repetitivo nº 1.312.736/RS, verbis:
+(..)
+Na verdade, o E. Superior Tribunal de Justiça admitiu a inclusão das horas extraordinárias reputadas devidas pela Justiça do Trabalho no cálculo da complementação de aposentadoria, para os casos em que o participante já se encontrava em fruição do benefício suplementar, somente nas hipóteses em que as ações judiciais visando à revisão tenham sido propostas até 08.08.2018 (datado julgamento do REsp. n.º 1.312.736/RS).
+O recálculo do benefício, entretanto, ficou condicionado (i) à previsão, no regulamento do plano, deforma explícita ou implícita, de que as horas extras sejam inseridas na base de cálculo das contribuições e (ii) à realização do aporte correspondente.
+Sucede que, embora o apelante tenha obtido na Justiça Trabalhista o direito ao recebimento de horas extras, consideradas habituais com os seus respectivos reflexos (fls. 879/919 trânsito em julgado em 19/08/2016, conforme consulta ao site do Tribunal Superior do Trabalho), e o Regulamento do Plano de Previdência não as exclua da base de cálculo (fls. 106/114), a hipótese sub judice conta com peculiaridade que impede o reajuste do salário de contribuição.
+Explico.
+O contingente probatório evidencia que o autor anuiu, de forma irretratável e irrevogável, ao "termo de adesão ao saldamento e ao Prevmais", recebendo a quantia de R$ 2.721,35 (fl. 385).
+A Superintendência de Seguros Privados (SUSEP) define saldamento como "a interrupção definitiva do pagamento das contribuições ao plano, mantendo-se o direito à percepção proporcional do benefício originalmente contratado" (http://www.susep.gov.br)
+(..)
+Vale dizer, "no sistema da previdência privada fechada, saldamento, de saldar, pagar o saldo, consiste na cessação definitiva da contribuição do participante e da patrocinadora ao plano, mas com manutenção do direito dele a benefício proporcional" (Apelação n.º 0037659-83.2013.8.26.0100, 28ª Câmara de Direito Privado, Rel. Des. Celso Pimentel), tratando-se de ato jurídico perfeito que não se altera por fato superveniente.
+Afigura-se, portanto, irrelevante para fins de recálculo de aposentadoria suplementar a decisão da Justiça do Trabalho que proclamou o direito do autor a ter horas extras habituais integradas no cálculo do seu salário uma vez que a adesão a saldamento impede a revisão do benefício, sob pena, repita-se, de violação ao ato jurídico perfeito.
+Destaco, a propósito, precedentes da lavra deste E. Tribunal em casos análogos, verbis:
+(..)"
+Com efeito, observo que o Tribunal de origem consignou expressamente que a hipótese dos autos não permite a aplicação do entendimento fixado na modulação de efeitos das teses firmadas no REsp nº 1.312.736/RS, visto que, após saldamento do plano a que estava vinculada, tanto a parte recorrente quanto a patrocinadora deixaram de contribuir para a formação da reserva matemática, razão pela qual se mostra indevido o reflexo pleiteado.
+Dessa forma, a alteração dessas premissas estabelecidas no acórdão recorrido implicaria necessariamente a análise de cláusula contratuais e o reexame fático-probatório, vedados na via do recurso especial, em virtude dos óbices contidos nas Súmulas nº 5 e 7, do STJ.
+Nesse sentido:
+AGRAVO INTERNO. PREVIDÊNCIA PRIVADA. DESCONTO A TÍTULO DE "CONTRIBUIÇÃO BENEFÍCIO SALDADO". REGULAMENTO DO PLANO DE BENEFÍCIOS. AUSÊNCIA DE PREVISÃO. SÚMULAS 5 E 7 DO STJ.
+1. Não cabe, em recurso especial, interpretar cláusula contratual ou reexaminar matéria fático-probatória (Súmulas 5 e 7 do STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 755.521/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/10/2020, DJe 29/10/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. INSS. PAGAMENTO. REDUÇÃO. ARTIGOS 31 E 32 DO REGULAMENTO DO PLANO DE BENEFÍCIOS DA PETROS. DESCONTO. AUSÊNCIA DE PREVISÃO. REEXAME. INTERPRETAÇÃO DO REGULAMENTO. MATÉRIA DE PROVA. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Rever a interpretação dada ao art. 31 do Regulamento do Plano de Benefícios administrado pela PETROS atrai a incidência das Súmulas nºs 5 e 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1517491/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. PREVIDÊNCIA PRIVADA. EQUACIONAMENTO DE DÉFICIT. POSSIBILIDADE. REVALORAÇÃO JURÍDICA. INEXISTÊNCIA DOS ÓBICES PREVISTOS NAS SÚMULAS 5 E 7, DO STJ.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Nos termos da jurisprudência já consolidada desta Corte, a análise do recurso especial não esbarra nos óbices previstos nas Súmulas 5 e 7, do STJ, quando se exige somente o reenquadramento jurídico das circunstâncias de fato, e de cláusulas contratuais expressamente descritos no acórdão recorrido.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1380151/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/9/2020, DJe 1/10/2020)
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
