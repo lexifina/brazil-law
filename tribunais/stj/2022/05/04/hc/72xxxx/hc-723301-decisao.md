@@ -1,0 +1,28 @@
+DECISÃO
+Por meio destehabeas corpus,com pedido de liminar, impetrado em benefício deDiego Santos de Oliveira, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou a ordem lá impetrada, mantendo a prisão preventiva do paciente, decretada peloJuízo de Direito do Plantão Judiciário da comarca de Sorocaba/SP, nos autos da Ação Penal n.1502356-07.2021.8.26.0567, pela suposta prática do crime de tráfico de drogas, busca-se a revogação da medida, porque ausentes fundamentos idôneos a justificá-la.
+A liminar foi deferida às fls. 52/53.
+Informações prestadas às fls. 59/98.
+O Ministério Público Federal emitiu parecer pela denegação da ordem às fls. 100/102.
+É o relatório.
+Ao que se tem dos autos, entendoque medidas cautelares se mostram adequadas eproporcionais, visto que se trata de paciente primário e o crime foicometido sem violência, além de não haver nos autos elementos concretosque apontem a necessidade de segregação cautelar do acusado, bem comoindicativos relevantes de que integre organização criminosa.
+Conforme se infere do decreto prisional à fl.26:
+ .. Acolho o requerimento ministerial, para converter a prisão em flagrante em prisão preventiva, na forma do art. 310, inc. II, do CPP, em sua atual redação. Existem, nos autos, prova da materialidade do delito (tráfico de drogas, em tese), punido com reclusão (pena máxima superior a 4 anos), e indícios suficientes da autoria, conforme exsurge dos elementos colhidos no auto de prisão em flagrante, notadamente os depoimentos dos agentes encarregados das diligências.
+A conduta praticada, em tese, pelo autuado, é daquelas que tem subvertido a paz social. Presentes, neste instante, circunstâncias justificadoras da manutenção de sua custódia, para garantia da ordem pública e para assegurar a aplicação da lei penal. O delito em questão é insuscetível de fiança; não há possibilidade de aplicação de outras medidas cautelares, pois insuficientes para asseguram que não voltará a delinquir.
+O delito em questão é insuscetível de fiança; não há possibilidade de aplicação de outras medidas cautelares, pois insuficientes para asseguram que não voltará a delinquir.
+A recente decisão, com efeitos vinculantes, proferida pelo Colendo Superior Tribunal de Justiça, em sede de Habeas Corpus coletivo impetrado pela Defensoria Pública do Estado de São Paulo, não impõe, nesta fase inicial, de cognição ainda meramente sumária sobre os fatos e personalidade do investigado, a concessão da pretendida liberdade provisória.
+Apenas quando do convencimento formado ao final do processo criminal, com base em todo o contexto probatório, à luz do contraditório e amplo direito de defesa (aqui ainda incipientes), é que tal medida não pode ser afastada, se reconhecido o privilégio.
+Neste momento, deve também ser considerada a concreta periculosidade do investigado, devendo, nesta fase, permanecer afastado das ruas. Afinal, há indícios de fazer da traficância o seu meio de vida, isto evidencia que há sim, concreto risco de voltar ao comércio ilícito assim que ganhar a liberdade, benefício que, repito, lhe vem assegurado por força do mencionado julgado apenas em sede de condenação, caso reconhecido o privilégio.
+Pelos fundamentos aqui apresentados, verifica-se que a prisão preventiva foi decretada com base apenas na gravidade em abstrato do delito, razão pela qualaordem deve ser concedida, confirmando a liminar deferida.
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. SUFICIÊNCIA, NA ESPÉCIE. QUANTIDADE NÃO EXPRESSIVA DE DROGA APREENDIDA. OBSERVÂNCIA AO BINÔMIO ADEQUAÇÃO E NECESSIDADE. EXISTÊNCIA DE REGISTROS CRIMINAIS EM DESFAVOR DO ACUSADO. CIRCUNSTÂNCIA NÃO INDICADA NO DECRETO PRISIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que, apesar de não ser ínfima, a quantidade de entorpecente encontrada não é expressiva, a evidenciar a suficiência, no caso, da fixação de medidas cautelares diversas da prisão. Com efeito, o Juízo singular não indicou a existência de registros criminais em desfavor do Agravado, tampouco pode ser desconsiderada a situação atual de pandemia decorrente do novo coronavírus, a qual torna a segregação ainda mais excepcional.
+2. Em diversos julgados recentes do Superior Tribunal de Justiça, deliberou-se que determinadas quantidades de drogas ilícitas, embora não possam ser consideradas inexpressivas, não autorizam, isoladamente, a conclusão de que a prisão preventiva é a única medida cautelar adequada.
+3. "Não cabe ao Tribunal a quo, ao ratificar, em habeas corpus, os argumentos da frágil decisão primeva, agregar novo fundamento para justificar a medida extrema" (RHC 111.686/AL, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 11/06/2019, DJe 28/06/2019).
+4. Agravo regimental desprovido.
+(AgRg no HC 720.742/SP, Sexta Turma, Ministra Laurita Vaz, DJe 03/03/2022)
+Ante o exposto, concedo a ordem, confirmando a liminar, para revogar a prisão preventiva do paciente para que aguarde o julgamento da ação penal em liberdade, salvo se por outro motivo estiver preso, sem prejuízo de decretação da prisão preventiva ou de cautelares em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL.HABEAS CORPUS.TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTOS CONCRETOS A EMBASAR A MEDIDACONSTRITIVA. LIMINAR DEFERIDA.
+Ordem concedida, confirmando a liminar deferida, nos termos do dispositivo.
