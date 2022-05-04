@@ -1,0 +1,6 @@
+DECISÃO
+A Primeira Seção do Superior Tribunal de Justiça, em 14/11/2018, acolheuquestão de ordem nos REsps 1.734.685/SP, 1.734.627/SP, 1.734.641/SP,1.734.647/SP, 1.734.656/SP e 1.734.698/SP, da Relatoria do Ministro OgFernandes, propondo a revisão da tese firmada no Tema repetitivo n.692/STJ quanto à devolução dos valores recebidos pelo litigantebeneficiário do Regime Geral da Previdência Social em virtude de decisãojudicial precária, que venha posteriormente ser revogada.
+A admissão de recurso especial como representativo da controvérsia impõeque os recursos interpostos na Corte de origem, que tratem da mesmaquestão central, fiquem suspensos até o pronunciamento definitivo desteTribunal. Posteriormente, tais recursos devem ser apreciados na formaprevista nos artigos 1.039 e 1.040 do CPC/2015.
+Assim, determino a devolução dos autos ao Tribunal de origem, com baixa dadistribuição, para que, após publicado o acórdão relativo ao recursorepresentativo da controvérsia, o recurso especial: 1) tenha seguimentodenegado na hipótese de o acórdão recorrido coincidir com a orientação doSuperior Tribunal de Justiça; (ou) 2) seja novamente examinado peloTribunal de origem, na hipótese de o acórdão recorrido divergir daorientação do Superior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
