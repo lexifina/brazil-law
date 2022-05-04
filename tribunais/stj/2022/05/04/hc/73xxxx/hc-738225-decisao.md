@@ -1,0 +1,15 @@
+DECISÃO
+ELIZANDRO MUNIZ DE ANDRADE alega sofrer coação ilegal em face de acórdão prolatado pelo Tribunal a quo.
+O impetrante, em liminar,buscasuspender os efeitos da condenação por estelionatoe, no mérito, a anulação da Ação Penal nº 0000629-43.2017.8.24.0063, desde a prolação da sentença, declarando extinta a punibilidade do acusado, ante a inexistência da necessária representação das vítimas.
+Decido.
+O writ comporta pronta solução, pois a Terceira Seçãodesta Corte Superior, nos autos do HC 610.201/SP, por maioria de votos, firmou o entendimento de que a exigência de representação da vítima no crime de estelionato não retroage aos processos onde o Ministério Público já tenha oferecido a denúncia, recebida antes da entrada em vigor da Lei n. 13.964/2019.
+O Tribunal assim deliberou sobre a controvérsia (fl. 515):
+ ..  embora persista controvérsia doutrinária e jurisprudencial, predomina o entendimento de que a alteração promovida pelo Pacote Anticrime, ainda que possua natureza mista, retroage apenas para exigir a representação como condição de procedibilidade ao crime de estelionato ainda na fase policial, sendo inaplicável ao processo em curso, cujo exercício da função privativa do órgão do Ministério Público de promover a ação penal foi perfectibilizado com o oferecimento da denúncia.
+O acórdão recorrido está com conformidade com a jurisprudência desta Corte.No caso, houve o oferecimento e recebimento da denúncia em 3/7/2017 (fl. 165).
+Aplica-se ao caso a "orientação no sentido da irretroatividade da norma que instituiu a condição de procedibilidade no delito previsto no art. 171 do Código Penal, quando já oferecida a denúncia"(AgRg no HC 650.312/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 22/03/2022, DJe 28/03/2022).
+Prevalece a compreensão de"impossibilidade, no crime de estelionato, da aplicação retroativa da representação da vítima, quando já oferecida a denúncia, a fim de se resguardar a segurança jurídica e o ato jurídico perfeito. Precedente: HC 610.201/SP, Rel. Ministro RIBEIRO DANTAS, Terceira Seção, julgado em 24/3/2021, DJe de 8/4/2021." (AgRg no HC 701.937/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 16/11/2021, DJe 19/11/2021)"(AgRg no HC 716.808/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2022, DJe 18/03/2022).
+Cito, ainda, julgado do Supremo Tribunal Federal, no mesmo sentido:
+ ..  .Inaplicável a retroatividade do §5º do artigo 171 do Código Penal, às hipóteses onde o Ministério Público tiver oferecido a denúncia antes da entrada em vigor da Lei 13.964/19; uma vez que, naquele momento a norma processual em vigor definia a ação para o delito de estelionato como pública incondicionada, não exigindo qualquer condição de procedibilidade para a instauração da persecução penal em juízo. 4.A nova legislação não prevê a manifestação da vítima como condição de prosseguibilidade quando já oferecida a denúncia pelo Ministério Público  ..
+(HC 187341, Rel. ALEXANDRE DE MORAES, Primeira Turma, DJe 3/11/2020).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
