@@ -1,0 +1,35 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1007256-28.2022.8.11.0000
+AGRAVANTE: GMAC ADMINISTRADORA DE CONSÓRCIOS LTDA
+AGRAVADO: GILBERTO RODRIGUES TEIXEIRA
+Vistos.
+Trata-se de recurso de agravo de instrumento interposto por GMAC ADMINISTRADORA DE CONSÓRCIOS LTDA, contra decisão proferida pelo MM. Juiz de Direito da 4a Vara Especializada em Direito Bancário da Comarca de Cuiabá-MT, Dr. Paulo de Toledo Ribeiro Junior, lançada nos autos da Ação de Consignação em Pagamento no 1004553-98.2022.8.11.0041 (PJE), ajuizada por GILBERTO RODRIGUES TEIXEIRA em desfavor da recorrente e de MAPFRE SEGUROS S/A, que deferiu a consignação em pagamento das parcelas de financiamento de veículo, por meio de consórcio, concernente as parcelas de no. 20 a 48, no valor fixo de R$900,00 (novecentos reais).
+A agravante aduz, inicialmente, que houve uma cessão de direitos entre a GMAC ADMINISTRADORA DE CONSÓRCIOS LTDA, então cedente, e a MAPFRE SEGUROS S/A, ora cessionária, referente aos direitos inerentes ao contrato objeto da ação.
+Dessa forma, entende que não possui poderes ou legitimidade para debater acerca das parcelas discutidas pela parte agravada na presente demanda, devendo qualquer solicitação nesse sentido ser direcionada a Mapfre Seguros S.A.
+Informa que o agravado ajuizou a ação originária relatando que firmou contrato de consórcio com a parte agravante para aquisição de um veículo, mediante o pagamento de 48 parcelas, no valor inicial de R$900,00 e que teve dificuldades na emissão dos boletos para pagamento por parte da Seguradora Mapfre, razão pela qual ajuizou a ação de consignação para depositar as parcelas 20 a 48, no valor fixo acima mencionado (R$900,00).
+Informa que o agravado está inadimplente desde a parcela no. 013, vencida em 10/03/2019, estando, portanto, com 027 parcelas em aberto.
+Explica que o produto consórcio, conforme regulamentação da Lei no. 11.795/08, constitui uma modalidade de autofinanciamento popular, custeado pelos pagamentos mensais dos próprios participantes que integram os Grupos, cujas cartas de créditos são integralmente financiadas pelas prestações mensais dos próprios participantes, por meio do Fundo Comum do Grupo, razão pela qual a manutenção da liminar prejudica todo um grupo de consorciados.
+Informa que o valor da parcela do consórcio é formado, conforme dispõe a cláusula 06 do contrato, pela soma das contribuições referente ao fundo comum (cláusula 13), fundo de reserva (cláusula 14) e taxa de administração (12%), sendo que o valor do fundo comum será calculado sobre o preço do veículo objeto do consórcio vigente na data da respectiva Assembleia.
+Menciona, ainda, que segundo a Súmula 538 do STJ, “As administradoras de consórcio têm liberdade para estabelecer a respectiva taxa de administração, ainda que fixada em percentual superior a dez por cento”, de forma que resta incontroversa a legalidade e ausência de abusividade da taxa.
+Descreve que o Sistema Nacional de Consórcios não opera com parcelas variáveis, conforme o preço do Bem Objeto do Plano de cada GRUPO/COTA, em consonância com Lei no. 11.798/98, e por se tratar de um consórcio, as parcelas nunca foram ajustadas em valores fixos.
+Anuncia que segundo o contrato entabulado entre as partes, a base de cálculo das prestações será exclusivamente o valor do veículo novo, da marca Chevrolet, especificado na contracapa do contrato, razão pela qual se houver alteração no valor do veículo objeto do plano, haverá reajuste das parcelas, de modo que não prospera a alegação de aumento abusivo, pois em consonância com o contrato e a legislação que envolve o produto.
+Argumenta que a petição inicial contém fundamentação e pedidos com base em contrato de financiamento de veículo, no entanto, de natureza distinta do pacto firmado entre as partes, razão pela qual entende que não pode ser forçada a realizar uma negociação em condições que lhe sejam desfavoráveis apenas para ajudar a consorciada agravada.
+Diante do exposto, requer seja concedido efeito suspensivo ao presente agravo de instrumento, e no mérito seja reformada a r. decisão agravada, no sentido de revogar a liminar concedida, para “que a Administradora ou a cessionária (Mapfre Seguros) sejam autorizadas a realizar a cobrança das parcelas em aberto nos valores contratados e com o acréscimo dos encargos moratórios” (sic) (id. 124991667).
+O preparo foi recolhido (id. 125013186 - Pág. 1).
+É o relatório.
+Decido.
+Por tempestivo e próprio recebo o recurso na forma dos artigos 1.015, inc. I c/c 1.017 do Código de Processo Civil.
+Como visto, a agravante pretende suspender os efeitos da decisão a quo que autorizou o depósito em consignação, no que tange o consórcio do grupo 070009 e cota 044100 da GMAC, do veículo Fiat Mobi, ano/modelo 2017/2018, placa QBG9286, cor prata, no valor fixo de R$900,00 (novecentos reais).
+O artigo 1.019, inciso I do Código de Processo Civil, dispõe que o relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada à plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+O parágrafo único do artigo 995 do mesmo códex estabelece que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Da análise da situação concreta, verifica-se que a decisão agravada, ao menos nesta fase de cognição sumária, deu a melhor solução ao caso, pois o agravado pretende ficar adimplente com o pagamento do consórcio, haja vista a dificuldade de emissão dos boletos junto a MAPFRE SEGUROS S/A, cessionária da empresa recorrente.
+Ademais, o perigo de dano é inverso, pois com a ausência de pagamento da dívida poderá ter seu nome negativado nos órgãos de proteção ao crédito ou ainda ter seu veículo apreendido, já que se infere a existência de uma ação de busca e apreensão em tramite.
+Outrossim, sendo constatado que os valores consignados não são suficientes à quitação da dívida, e, não havendo complementação de pagamento, nova inclusão pode ser efetuada. E ainda, os depósitos judiciais dos valores incontroversos, podem ser liberados, a requerimento do réu, nos termos do § 1o, art. 545, CPC.
+De mais a mais, nada convence acerca do “risco de afetar o resultado útil do processo” se deixar a questão para ser analisada por ocasião do julgamento colegiado, observando-se o direito ao contraditório por meio das contrarrazões e eventuais documentos outros apresentados pela parte recorrida.
+Logo, com base nessas considerações, ausentes os requisitos legais, impõe-se o indeferimento da medida pleiteada.
+Diante do exposto, INDEFIRO o efeito suspensivo.
+Intime-se a parte agravada para, querendo, apresentar resposta no prazo de 15 (quinze) dias, nos termos do inciso II, artigo 1.019 do CPC.
+Intime-se. Cumpra-se.
+Cuiabá, 04 de maio de 2022.
+Desa. Antônia Siqueira Gonçalves
+Relatora
