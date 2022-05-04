@@ -1,0 +1,13 @@
+DECISÃO
+Vistos etc.
+Trata-se de pedido de tutela provisória de urgência formulado por OBRAS SOCIAIS E EDUCACIONAIS DE LUZ, objetivando, na qualidade de terceira interessada, a atribuição de efeito suspensivo ao AREsp n.º 2006009/SP, interposto por MALVILLE HOLDING SA E ANTÔNIO VERONEZZI - ESPÓLIO, nos autos da ação declaratória de nulidade de sentença arbitral que conjuntamente ajuizaram contra AP AREAL PARTICIPAÇÕES LTDA, ARLETE CARVALHO DA SILVA AFONSO - ESPÓLIO, DARCI GOMES DO NASCIMENTO E MILTON SOLDANI AFONSO.
+É o breve relatório.
+Passo a decidir.
+Na data de hoje, 02/05/2022, proferi decisão nos autos da TP n.º 3794/SP, deferindo o pedido de atribuição de efeito suspensivo ao AREsp n.º 2006009/SP, nos seguintes termos:
+(..)
+Ante o exposto, acolho o agravo interno para, em juízo de reconsideração, deferir o pedido de tutela provisória de urgência para suspender os efeitos do acórdão recorrido até o julgamento definitivo do AREsp n.º 2.006.009/SP pela Terceira Turma desta Corte.
+Como medida acautelatória necessária para a efetivação da tutela e para assegurar o resultado útil do recurso, determino a suspensão de atos de constrição do patrimônio dos agravantes e a suspensão provisória da eficácia dos capítulos da sentença arbitral relacionados às obrigações de "(a) liquidar a integralidade dos direitos creditórios objeto das execuções nº 1023616-90.2014.8.26.0100 (perante a 24ª Vara Cível da Capital) e nº 1088026-94.2013.8.26.0100 (perante a 34ª Vara Cível da Capital), de modo a ficar subrogada nos direitos dos atuais credores para, em seguida, (b)consolidar a propriedade dos imóveis que compõem o CAMPUS II, prenotando a consolidação da propriedade e (c) liquidar o contrato de mútuo n. 16192/11609406 - de modo a afastar, momentaneamente, os efeito da mora e a exigência das multas diárias", que são objetos do agravo de instrumento interposto na origem.
+Comunique-se com urgência ao Tribunal de Justiça de São Paulo, ao Juízo da 2ª Vara Empresarial e de Conflitos Relacionados à Arbitragem do Foro Central da Comarca de São Paulo, nos autos da ação declaratória de nulidade de sentença arbitral n.º 1115166-30.2018.8.26.0100 e ao Juízo da 2ª Vara Empresarial e de Conflitos Relacionados à Arbitragem do Foro Central da Comarca de São Paulo, nos autos da ação de cumprimento de sentença arbitral n.º 1115621-92.2018.8.26.0100.
+Os pedidos da presente tutela provisória coincidem com os da TP 3.794/SP e os efeitos da decisão lá proferida alcançam, naturalmente, a requerente, queé coautora da ação declaratória de nulidade de sentença arbitral e coexecutada na ação de cumprimento de sentença arbitral.
+Ante o exposto, julgo prejudicada a presente tutela provisória pela perda superveniente do seu objeto.
+Intimem-se.
