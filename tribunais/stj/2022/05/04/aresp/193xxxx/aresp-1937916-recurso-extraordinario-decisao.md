@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por REINALDO PEREIRA DA SILVA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 728):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL E TEMPESTIVIDADE DO RECURSO. INCIDÊNCIA DO CPC DE 2015. DEVER DE COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO IMPROVIDO.
+1. A Corte Especial, ao interpretar os artigos 932, parágrafo único, e 1.003, § 6º, do CPC de 2015, bem assim os princípios consagrados pelo novo Código, por maioria, vencido o voto do relator, firmou orientação de que o recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", sendo inviável a apresentação de documento hábil, em momento posterior, para demonstrar a tempestividade (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe de 19/12/2017).
+2. Posteriormente, no julgamento de caso em que se examinava a possibilidade de mitigação do entendimento acima apenas para o feriado da segunda-feira de Carnaval, por ter este abrangência nacional, a Corte Especial, também por maioria, vencido o voto do relator, deliberou que a orientação de comprovação de feriado local no momento da interposição do recurso especial deveria persistir inclusive para a segunda-feira de Carnaval, igualmente ao estabelecido para os feriados e suspensões de expedientes locais em geral. Apenas, em relação à segunda-feira de Carnaval, erigiu modulação de efeitos do julgado, permitindo a comprovação" a posteriore, quando se tratar de recursos interpostos no período entre a vigência do CPC de 2015 e a data da publicação do acórdão prolatado no mencionado recurso especial"(REsp 1.813.684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 02/10/2019, DJe de 18/11/2019). Tal orientação foi confirmada na Questão de Ordem apresentada, subsequentemente, pela Ministra NANCY ANDRIGHI naquele REsp 1.813.684/SP e, na sequência, no julgamento do AgInt no AREsp 1.481.810/SP (Rel. p/ acórdão Ministra NANCY ANDRIGHI), não se estendendo a modulação sequer ao feriado de Corpus Christi.
+3. No caso, aplica-se a regra de inviabilidade de comprovação posterior do feriado local, nos termos do decidido no AgInt no AREsp 957.821/MS.4. Agravo interno desprovido.
+Os embargos de declaração opostos contra o referido acórdão não foram conhecidos(e-STJ fls. 768/774).
+Sustenta o recorrente, além darepercussão geral, a ofensa ao art. 5º, XXXII e XXXV, da Constituição Federal.
+Argumenta, em síntese, que "quando tratar-se de vício sanável, consoante flagrantemente ocorre in casu, em razão de ser fatalmente tempestivo o presente apelo especial, o preceituado no § 6º do art. 1.003 do Código de Processo Civil deve ser interpretado em harmonia com os 03 (três) dispositivos suso transcritos" (e-STJ fl. 785).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls. 796/802.
+É o relatório.
+Compulsando-se os autos, verifica-se que o acórdão objeto do recurso extraordinário considerou o recurso especial intempestivo.
+No RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE 598.365 RG, Relator(a): Min. AYRES BRITTO, julgado em 14/08/2009, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-06 PP-01480 RDECTRAB v. 17, n. 195, 2010, pp. 213-218)
+No mesmo diapasão:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. OBJETO RECURSAL REJEITADO PELO STF. RE 598.365-RG/MG (TEMA 181). QUESTÃO CONSTITUCIONAL IMPUGNADA ORIGINARIAMENTE. NÃO OCORRÊNCIA. PRECLUSÃO.
+1. O objeto deste recurso diz respeito a tema cuja existência de repercussão geral foi rejeitada por esta Corte na análise do RE 598.365-RG/MG, Rel. Min. AYRES BRITTO, tema 181, por se tratar de questão infraconstitucional.
+2. Esta Corte firmou entendimento no sentido de que a questão constitucional que serviu de fundamento ao acórdão do juízo de segundo grau deve ser atacada em momento próprio, sob pena de preclusão, apenas sendo admissível recurso extraordinário de acórdão de recurso especial quando, no julgamento deste, originar-se a matéria constitucional impugnada. Precedentes.
+3. Agravo interno a que se nega provimento.
+(ARE 768.691 ED, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/06/2018, PROCESSO ELETRÔNICO DJe-153 DIVULG 31-07-2018 PUBLIC 01-08-2018)
+Com igual orientação:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PENHORA. BEM DE FAMÍLIA. SÚMULA 279 DO STF. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO AGRAVO.
+1. É inadmissível o recurso extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seja necessário o reexame das provas dos autos. Incidência da Súmula 279 do STF.
+2. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181, RE 598.365).
+3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Verba honorária majorada em  (um quarto), nos termos do art. 85, § 11, devendo ser observados os §§ 2º e 3º, CPC.
+(ARE 1.015.880 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 29/09/2017, PROCESSO ELETRÔNICO DJe-247 DIVULG 26-10-2017 PUBLIC 27-10-2017)
+Por conseguinte, não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema 181/STF, sendo inviável a análise da violação constitucional aventada no recurso extraordinário.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
