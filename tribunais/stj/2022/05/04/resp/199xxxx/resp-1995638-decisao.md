@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TJSP, assim ementado (fls. 198):
+ACIDENTÁRIA - LESÕES POR ESFORÇOS REPETITIVOS NOS MEMBROS SUPERIORES E PERDA AUDITIVA - LIAME OCUPACIONAL E PREJUÍZO FUNCIONAL RECONHECIDOS - INDENIZABILIDADE.
+"Reconhecido tecnicamente que as moléstias que acometem a audição e os membros superiores da obreira guardam liame com a atividade profissional desempenhada e efetivamente restringem a sua capacidade de trabalho, de rigor a concessão do auxílio-acidente com início a partir da data da apresentação do laudo médico-pericial aos autos. Os valores em atraso serão atualizados e acrescidos de juros de mora na forma da Lei 8.213/91 c.c. o Código Civil vigente e Lei 11.960/09. A renda mensal a ser implantada será reajustada pelos índices de manutenção. Fica excluída a imposição de custas ao INSS".
+Sentença modificada em parte por força do reexame necessário e do provimento parcial da apelação do INSS.
+A recorrente alega, além de divergência jurisprudencial, violação dos artigos 213 e 219, do CPC, na medida em que o termo inicial do benefício deve ser a data da citação, a partir do qual também são contados os juros moratórios.
+Por fim, requer a não aplicação da Lei n. 11.960/09 no caso dos autos.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 282.
+É o relatório. Passo a decidir.
+No que diz respeito aos artigos mencionados como supostamente violados, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF. E tampouco foram aviados os embargos declaratórios.
+Ainda, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Por fim, quanto ao alegado acerca da não aplicação da Lei n. 11.960/09,a jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente, configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, "c", da Constituição Federal. Incidência da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.624.206/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15/12/2016; AgInt no REsp 1.622.220/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 15/12/2016; AgRg no AREsp 682.625/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2016; AgInt no AREsp 842.727/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/10/2016.
+Ante o exposto, não conheço o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ACIDENTÁRIA. DISPOSITIVOS APONTADOS COMO VIOLADOS. NÃO PREQUESTIONADOS. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. CONSECTÁRIOS LEGAIS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.RECURSO NÃO CONHECIDO.
