@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ALLIANZ SEGUROS S/A, contra decisão unipessoal (e-STJ fls. 633/636), que conheceu do agravo, para conhecer parcialmente do recurso especial que interpusera, negando-lhe provimento, assim ementado:
+PROCESSUAL CIVIL E DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO REGRESSIVA MOVIDA POR SEGURADORA. VIOLAÇÃO DE SÚMULA. DESCABIMENTO.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.HONORÁRIOS RECURSAIS. REQUSITOS NÃO PREENCHIDOS. MAJORAÇÃO INDEVIDA. SÚMULA 568/STJ.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação regressiva movida por seguradora.
+2. A interposição de recurso especial não é cabível quando ocorre alegação de violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. A jurisprudência do STJ é no sentido de que é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. Precedentes da Segunda Seção.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
+No presente recurso, a parte embargantesustenta a não aplicação da Súmula 283/STF uma vez que não interpôs recurso extraordinário, mas recurso especial. Aduz que no recurso especial sequer foi discutida a inaplicabilidade da Convenção de Montreal, mas foi alegado que a embargante não fez parte do contrato entabulado entre a segurada e a Embargada, de modo que não pode atingir o direito regressivo da seguradora. Verbera que foi aduzido em seu recurso especial que o Código Civil afasta qualquer ato da seguradora que diminua ou extinga seu direito.Alega contradição na decisão embargada quanto ao óbice relativo ao não cabimento de recurso especial que alegue violação de súmula ao aduzir que demonstrou cabalmente o motivo de violação dos arts. 732, 750, 786 e 944 do Código Civil.
+É o relatório.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, na decisão impugnada, obscuridade, contradição, omissão ou erro material.
+Na hipótese, não ocorreu nenhum dos vícios mencionados. Efetivamente, nenhuma obscuridade, contradição, omissão ou erro material existe no corpo da decisão que justifique a oposição desse recurso.
+De início, merece registrar, que o vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ (EDcl no AgRg nos EAREsp 252.613/MG, CORTE ESPECIAL, DJe de 14/08/2015).
+Das razões extraídas dos embargos de declaração opostos pela embargante às fls. 643/650, não qualquer alegação que possa se identificar como contradição, mas em verdade atacam diretamente o mérito da decisão.
+Na verdade, revela-se nítida a pretensão da parte embargante de se valer do recurso integrativo para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso. Como se sabe, os embargos declaratórios não são via adequada para corrigir suposto error in judicando, não sendo possível atribuir eficácia infringente ao recurso se ausentes erro material, omissão, obscuridade ou contradição.
+Desse modo, dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração de fls. 643/560 (e-STJ) rejeitados.
