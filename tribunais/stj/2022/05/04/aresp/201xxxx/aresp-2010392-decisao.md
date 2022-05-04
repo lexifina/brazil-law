@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão daincidência daSúmula 7/STJ e não cabimento de REsp por ofensa a norma diversa de tratado ou lei federal.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 954):
+AMBIENTAL. APELAÇÃO CÍVEL. IBAMA. TERMO DE APREENSÃO. NULIDADE.
+1. Cotejando-se a efetiva redução do alto valor da multa aplicada, nos termos do art. 29, §4º, do Decreto nº 6.514/08, com o valor da embarcação, conclui-se pela desproporcionalidade da penalidade de perdimento da embarcação.
+2. A jurisprudência do e. Superior Tribunal de Justiça e deste TRF da 4ª Região tem se manifestado no sentido de que a apreensão de equipamentos decorrentes da situação de infração ambiental deve ser observada na proporção dos danos causados, mormente nos casos em que o veículo apreendido constitui principal instrumento de trabalho do autor, o que é o caso dos autos.
+No recurso especial o recorrente alega violação dos artigos 6º da Lei 9.605/98, 300 do CPC/2015, e 24 do Decreto 6.514/2008, aduzindo que "oacórdão recorrido apresenta intepretação absolutamente equivocada dos artigos 6º 1 da lei 9.605 e 24 do Decreto 6.514/2008 pela comparação entre o valor da embarcação com o da penalidade pecuniária, modificando indevidamente os critérios administrativos discricionários utilizados na multa aplicada e considerando que o dano já está "bem pago" com a multa pecuniária aplicada" (fl. 984).
+Comcontrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+O recurso não merece prosperar.
+Com efeito, percebe-se que o recurso especial contém alegações genéricas, vagas eimprecisas no que diz respeito a suposta violação dos artigos 42 e 43 da Lei 8.213/91.É dizer, o alegado pelorecorrente sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida. Aplica-se à hipótese a Súmula 284/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. JUROS MORATÓRIOS NO CÔMPUTO DA BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DA SÚMULA N. 83/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.  ..
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.  ..
+VII - Agravo Interno improvido. (AgInt no REsp 1.604.668/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 26/6/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULA 284 DO STF.
+1. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos por violados, bem como a exposição das razões pelas quais o acórdão teria afrontado cada um, não sendo suficiente a mera alegação genérica. O inconformismo apresenta-se deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF). Entendimento aplicável aos recursos interposto com base na divergência jurisprudencial.  ..
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1.257.119/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 28/3/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO PARA FINS DE REFORMA AGRÁRIA. INDENIZAÇÃO. SUPOSTO ERRO DE FATO. SÚMULA 7 DO STJ. INCIDÊNCIA. ATUALIZAÇÃO DO NUMERÁRIO DEPOSITADO. INTERESSE RECURSAL. AUSÊNCIA. JUROS COMPENSATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. LEI SUPERVENIENTE. EXAME. JUÍZO DE ADMISSIBILIDADE NÃO ULTRAPASSADO. IMPOSSIBILIDADE.  ..
+4. A aplicação da Súmula 284 do STF deve ser mantida, no que diz respeito aos arts. 15-A e 15-B do Decreto-Lei n. 3.365/1941, visto que o agravante não desenvolveu, nas razões do recurso especial, nenhum argumento para demonstrar de que modo o aludido dispositivo teria sido violado, referentes aos critérios de cálculos dos juros compensatórios, não bastando, por certo, a mera indicação da norma federal supostamente contrariada, circunstância que revela a deficiência do recurso.  ..
+7. Agravo interno desprovido. (AgInt no REsp 1.451.044/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 4/12/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. EXTENSÃO AOS SERVIDORES INATIVOS. PROPORCIONALIDADE. DESCABIMENTO. LIMITAÇÃO. REVISÃO. IMPOSSIBILIDADE. VALOR DA GDARA. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284/STF.  ..
+III - A indicação de violação do art. 186 da Lei n. 8.112/90, quando realizada de forma genérica, sem questionar os aspectos mais salientes da fundamentação do acórdão recorrido e sem desenvolver argumentos para demonstrar especificamente a suposta mácula, caracteriza deficiência desta parcela recursal. Incidência do enunciado n. 284 da Súmula do STF.
+IV - Agravo interno improvido. (AgInt no REsp 1.656.293/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 11/10/2017)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.ARGUMENTAÇÃO RECURSAL GENÉRICA E DEFICIENTE. SÚMULA 284/STF.RECURSO ESPECIAL NÃO CONHECIDO.
