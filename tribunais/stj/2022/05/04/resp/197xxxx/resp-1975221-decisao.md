@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de recurso especial interposto por ALVERI STREFLING e AGROPECUARIA PORTO ALEGRE LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso Especial interposto em: 02/08/2021.
+Concluso ao gabinete em: 28/12/2021.
+Ação: deexecução de título extrajudicial, ajuizada por OSWALDO FURLAN JUNIOR, em face dos recorrentes, consubstanciada em notas promissórias e cheques.
+Decisão interlocutória: indeferiu o pedido de adiamento/cancelamento do leilão designado para o dia 21/11/2019 e o pedido de concessão de prazo para juntada dos documentos a embasar a arguição de impenhorabilidade de parte do bem, por extrapolar os limites da competência do Juízo deprecado.
+Decisão unipessoal do Relator: deferiu o pedido de suspensão da decisão interlocutória agravada, postulado no agravo de instrumento interposto pelos recorrentes.
+Acórdão: deu provimento ao agravo de instrumento interposto pelos recorrentes, para confirmar a decisão liminar, nos termos da seguinte ementa:
+Agravo de instrumento. Processual civil. Execução por título extrajudicial. Avaliação de imóvel rural. Suspensão da praça do imóvel rural. Possibilidade. Excesso de penhora. Ocorrência. Agravo conhecido e provido.
+1. No caso em exame é evidente o excesso de penhora, em razão da execução que está prosseguindo sobre a totalidade do imóvel que foi avaliado em 09 de fevereiro de 2017, em valor demasiadamente superior à dívida, ainda mais quando a fração do imóvel penhorado supriria de forma satisfatória o débito, possibilitando a aplicação do princípio da menor gravidade ao devedor.
+2. A praça, portanto, deverá ser suspensa até que sejam elaborados novos cálculos com a conseqüente redução da penhora. Decisão Liminar confirmada.
+3. Recurso Conhecido e Provido. (e-STJ, fl. 336)
+Embargos de declaração de fls. 372/378 (e-STJ): opostos pelo recorrido, foram acolhidos, com efeitos infringentes, a fim de sanear a omissão apontada e, consequentemente, modificar o acórdão combatido para negar provimento ao agravo de instrumento interposto pelos recorrentes.
+A esse propósito, segue a ementa do julgado:
+Embargos de declaração no agravo de instrumento. Omissão existente. Multiplicidade de credores que afasta excesso da execução. Necessidade de análise das outras teses dos agravantes. Outros recursos não providos não representam óbice para a realização da hasta pública. Contrato particular de arrendamento que não produz efeito em relação à penhora anteriormente registrada na matrícula do bem. Ausência de comprovação da condição de bem de família. Demais teses não conhecidas sob pena de supressão de instância. Aclaratórios conhecidos e providos a fim de sanear a omissão e modificar o acórdão combatido para negar provimento ao agravo de instrumento.
+1. O acórdão combatido não analisou a tese de que a existência de outras penhoras na matrícula do imóvel objeto da lide, em favor de outros credores, afastaria o excesso de execução alegado para suspender a praça do bem. Destarte, os embargos de declaração merecem provimento para sanear a omissão apontada.
+2. O reconhecimento de excesso de execução se mostra indevido, considerando que a multiplicidade de credores dos agravantes, ora embargados, bem como o valor de suas dívidas, não permitem concluir que eventual montante auferido com o leilão será suficiente para o adimplemento do crédito cobrado pelo agravado.
+3. O agravo de instrumento de nº 0003791-18.2019.4.02.0000 não foi provido e o agravo de instrumento nº 0030179- 26.2019.827.0000 foi julgado prejudicado. Assim, ambos os recursos não representam óbice para realização da hasta pública designada na origem.
+4. O contrato particular de arrendamento firmado pelos agravantes não pode servir de instrumento para ilidir o leilão designado em razão de penhora anteriormente registrada na matrícula do imóvel objeto da lide.
+5. Apesar de constar da exordial que um dos agravantes reside no imóvel com sua esposa há mais de 30 (trinta) anos, não foi acostado nenhum documento que corrobore tal alegação. Nada demonstra, tampouco, que o bem a ser leiloado é o de menor valor dentre aqueles que a própria parte reconhece possuir. Neste caso, a rejeição da impenhorabilidade é medida que se impõe.
+6. Não comportam conhecimento, sob pena de supressão de instância, as alegações de necessidade de nova avaliação do imóvel e de que o bem também é objeto de disputa nos autos da execução promovia por terceiros, bem como a impugnação em relação à inclusão dos honorários advocatícios no crédito executado.
+7. Embargos de declaração conhecidos e providos a fim de sanear a omissão apontada e, em consequência, modificar o acórdão combatido para negar provimento ao agravo de instrumento. (e-STJ, fl. 384/385)
+Embargos de declaração de fls. 439/442 (e-STJ): opostos pelos recorrentes, foram rejeitados, nos termos da seguinte ementa:
+Embargos de declaração nos embargos de declaração. Omissões. Inovação recursal. Julgamento extra petita. Não ocorrência. Mero inconformismo. Aclaratórios não providos.
+1. O embargante pretende, com os aclaratórios, obter novo julgamento do feito, ante seu inconformismo com o não acolhimento de suas razões atinentes ao excesso da penhora, o que se mostra impossível através da presente via, por expressa previsão legal, tendo em vista que a matéria já foi apreciada em sua totalidade.
+2. A busca de modificação do julgado em razão da adoção de entendimento desfavorável às pretensões do recorrente configura expediente manifestamente incompatível com a natureza e a finalidade estrita dos embargos declaratórios.
+3. Embargos de Declaração conhecidos e não providos. (e-STJ, fl. 439)
+Recurso especial: alega a violação dos arts. 5º, LV, da CF/88; 492, 635, 805, 872. § 2ª, 873, II, 917, § 1º, 1.022, todos do CPC/15, bem como a existência de dissídio jurisprudencial. Além da negativa de prestação jurisdicional, sustenta:
+i) a ocorrência de decisão "extra petita" (fora dos limites do pedido), em relação à desnecessidade de nova avaliação do bem imóvel objeto desta ação;
+ii) a necessidade de nova avaliação do referido bem imóvel;
+iii) o desmembramento do imóvel, tendo em vista que "o valor do bem penhorado é praticamente cinco vezes maior do que o débito executado" (e-STJ, fl. 471); e
+iv) a violação ao princípio da menor onerosidade ao devedor.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca das supostas omissões do TJ/TO residem na alegação de que, apesar de instado a se manifestar por meio de embargos declaratórios, o órgão jurisdicional quedou-se silente no que concerne à alegação de que "a decisão  interlocutória  atacada é conflitante com a decisão do Agravo de Instrumento sob nº 0033156-88.2019.8.27.0000" (e-STJ, fl. 466).
+Nos embargos de declaração de fls. 384/386 (e-STJ), opostos pelos recorrentes, as referidas partes sustentam que "o referido Agravo interposto debate exatamente as mesmas questões que foram debatidas no presente Agravo de Instrumento interposto na Carta Precatória, juízo deprecado, cuja decisão ataca-se neste momento, eis que o Agravante apresentou as mesmas questões tanto no juízo deprecante, quanto no juízo deprecado" (e-STJ, fl. 407), bem como afirmam "que fora dado INTEGRAL PROVIMENTO ao referido Agravo de Instrumento nº 00331568820198270000, interposto em face de decisão no juízo deprecante, reconhecendo o excesso de penhora, mantendo a liminar que suspendeu a praça e garantindo a demarcação da parte que garanta o pagamento da dívida" (e-STJ, fl. 407).
+Da análise do processo, constata-se que o Tribunal de origem, ao julgar os embargos de declaração interpostos pelos recorrentes, foi omisso quanto a este argumento. Entretanto, verifica-se que a questão foi objeto de devida insurgência nas razões dos embargos declaratórios opostos.
+É firme a jurisprudência do STJ, no sentido de que há ofensa ao art. 1.022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia (REsp 1.693.086/SP, 3ª Turma, DJe 20/10/2017; AgInt no AREsp 429.547/RJ, 4ª Turma, DJe 08/09/2016).
+Assim, observando o entendimento dominante desta Corte, impõe-se a cassação do acórdão que apreciou os declaratórios, a fim de que este se pronuncie, na esteira do devido processo legal, acerca do ponto anteriormente elencado, incidindo - portanto - a Súmula 568/STJ.
+Logo, merece provimento o recurso especial e tem-se como prejudicado o exame das demais discussões aventadas no presente recurso.
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, com fundamento no art. 932, V, "a" do CPC/15, bem como na Súmula 568/STJ, para: a) anular o acórdão que julgou os embargos de declaração de fls. 439/442 (e-STJ) opostos pelos recorrentes; e b) determinar a remessa dos autos ao TJ/TO, a fim de que este se pronuncie, na esteira do devido processo legal, a respeito da alegação de que "a decisão  interlocutória  atacada é conflitante com a decisão do Agravo de Instrumento sob nº 0033156-88.2019.8.27.0000" (e-STJ, fl. 466).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO INTERPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÕES APTAS, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Julgamento sob a égide do CPC/15.
+2. Ação de execução de título extrajudicial.
+3. Caracteriza-se a ofensa ao art. 1.022 do CPC/15 nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia. Súmula 568/STJ.
+4. Recurso especial conhecido e provido.
