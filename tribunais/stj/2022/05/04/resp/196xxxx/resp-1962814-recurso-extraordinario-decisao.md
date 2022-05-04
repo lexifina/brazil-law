@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fls. 412):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. CONDENAÇÃO FUNDAMENTADA EXCLUSIVAMENTE EM RECONHECIMENTO FOTOGRÁFICO. VIOLAÇÃO DO ART. 226 DO CPP. ATUAL ENTENDIMENTO DAS DUAS TURMAS QUE COMPÕEM A TERCEIRA SEÇÃO DESTE STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa" (HC 652.284/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/4/2021, DJe 3/5/2021).
+2. Agravo regimental desprovido.
+Sustenta o recorrente a existência de repercussão geral e de violação do art. 5º, LV,da Constituição Federal.
+Alega que a impugnação do julgado resulta "da aplicação da nova leitura conferida pelo Superior Tribunal de Justiça ao artigo 226 do Código de Processo Penal, efetivada sob o fundamento de guardar conformidade desse dispositivo com os princípios do contraditório e da ampladefesa, conferindo ao texto constitucional do artigo 5º, inciso LV, da Constituição Federal, portanto, indevida extensão" (e-STJ fls. 430/431).
+Aduz que "fica claro o desvio interpretativo praticado pelo Superior Tribunal de Justiça ao concentrar, nas formalidades previstas no artigo 226 do CPP, as condições de validade do processo jurisdicional" (e-STJ fl. 431).
+Pondera que "a Corte da Cidadania incorreu em superinterpretação do artigo 226 do CPP e, a pretexto de dar-lhe uma interpretação conforme os princípios do contraditório e da ampla defesa, acabou por contrariar a cláusula do devido processo legal em sua dimensão material "(e-STJ fl. 432).
+Esclarece que, "no caso em apreço, o reconhecimento fotográfico em delegacia não foi o único elemento a embasar a condenação, porquanto confirmado em juízo, além de ter sido corroborado por outras provas dos autos" (e-STJ fl. 434).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões não foram apresentadas (e-STJ fl. 473).
+É o relatório.
+Pacificou-se no Supremo Tribunal Federal o entendimento de que a apontada afronta aos princípios do contraditório, da ampla defesa edo devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nessa esteira é o Tema 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE 748.371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+No mesmo vértice:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA. OFENSA CONSTITUCIONAL REFLEXA. (..) 3. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 4. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(RE 1276856 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/09/2020, PROCESSO ELETRÔNICO DJe-234 DIVULG 22-09-2020 PUBLIC 23-09-2020)
+Na espécie, a suposta ofensa aos princípios do contraditório e ampla defesa depende da análise do art. 226 do Código de Processo Penal, razão pela qual incide o Tema 660/STF.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
