@@ -1,0 +1,14 @@
+Recurso de Agravo de Instrumento no 1008005-45.2022.8.11.0000 – Sinop
+Agravante: Agroinsumos Comercial Agrícola Ltda.
+Agravados: Carlos Eduardo Bassani e outros
+V I S T O S.
+Trata-se de recurso de agravo de instrumento com pedido de tutela antecipada recursal interposto pela Agroinsumos Comercial Agrícola Ltda., em face da r. decisão proferida pelo MM. Juiz de Direito da 3a Vara Cível da Comarca de Sinop, que nos autos da ação de execução para entrega de coisa certa que move contra os agravados, indeferiu o pedido de cumprimento de sentença, para determinar o prosseguimento da demanda com as disposições concernentes à execução para entrega de coisa certa, decretando a rescisão da transação civil e, consequentemente, a expedição de mandado de busca e apreensão de 7.613 (sete mil, seiscentas e treze) sacas de soja de 60,00kg (sessenta quilos) cada, nos termos da Cédula de Produto Rural firmada entre as partes.
+Inconformada, a agravante defende, em suma, que não restou correta a interpretação adotada pelo douto magistrado, pois, sem que houvesse qualquer pedido das partes, rescindiu o acordo extrajudicial homologado por sentença, já transitado em julgado, restando evidente a ocorrência de preclusão pro judicato, bem como a violação do quanto disposto no art. 849, do C. Civil. Segue sustentando que, diante do descumprimento do acordo firmado entre as partes, resta exigível o seu cumprimento na forma homologada pelo Juízo, sob pena de afronta ao instituto da coisa julgada. Firme no seu propósito, alega que houve afronta ao princípio da fundamentação da decisão, nos termos do art. 489, §1o, inc. II, III e IV, do CPC, bem como do princípio da segurança jurídica, restando evidente o perigo de dano. Pugna pela concessão da tutela antecipada recursal.
+Pois bem. Inicialmente e por questão de prejudicialidade, após análise dos autos, constato que a agravante não comprovou corretamente o pagamento do preparo referente ao presente recurso, haja vista que apresentou comprovante de agendamento, conforme certidão de id. 126188682, o que não é aceito pela CGJ deste Tribunal.
+Não obstante, o comprovante de pagamento de id. 126352179, foi juntado aos autos após o prazo de 48 (quarenta e oito) horas disposto na Lei n. 11.077/2020 e Resolução n. 02/2021 do TJMT/OE.
+Dito isso, destaco que os recursos são submetidos ao exame de admissibilidade, quando é verificado se estão preenchidos os pressupostos objetivos e subjetivos que permitem o seu conhecimento, dentre os quais se encontra a obrigatoriedade do preparo recursal.
+De tal arte, determino que a agravante realize o pagamento do preparo do recurso em dobro, no prazo de 05 (cinco) dias, nos termos dos arts. 932, parágrafo único e 1.007, §4o, ambos do CPC, sob pena de deserção.
+P. I.
+Cuiabá, 03 de maio de 2022.
+CARLOS ALBERTO ALVES DA ROCHA
+Relator
