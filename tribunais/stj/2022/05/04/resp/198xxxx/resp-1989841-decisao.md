@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaAGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT contra o acórdão assim ementado:
+ADMINISTRATIVO E DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SISBAJUD. PESSOA JURÍDICA. PANDEMIA. VALOR FUNDAMENTAL À SUA SALVAGUARDA. DESBLOQUEIO. INTERPRETAÇÃO ANALÓGICA E EXCEPCIONAL.
+1. No estágio de crise mundial gerada pela pandemia da COVID-19, além da preservação da vida propriamente dita, faz-se importante adotar uma perspectiva mais humanitária em sentido amplo, buscando a preservação das condições mínimas de subsistência tanto da pessoa física, quanto da pessoa jurídica, uma vez que a preservação desta última re ete na qualidade de vida daquela, com a manutenção de empregos e da subsistência familiar.
+2. O Código de Processo Civil, em seu art. 833, X, traz como referência o valor de 40 (quarenta) salários mínimos, montante este que se revelaria su ciente para subsidiar a manutenção de um núcleo familiar. Em uma interpretação analógica e excepcional, diante da necessidade de preservação das estruturas econômicas, há que se estender também à pessoa jurídica a indisponibilidade de um valor que possa ser con gurado como fundamental à sua salvaguarda.
+3. A quantia penhorada, inferior a 40 salários-mínimos, foi a única localizada em nome da empresa, o que denota a indispensabilidade para a manutenção de suas atividades.
+O recorrente aponta como violado o art. 833, X, do CPC/2015, alegando, em suma, que a impenhorabilidade prevista no referido dispositivo legal não alcança as pessoas jurídicas.
+É o relatório. Decido.
+Assiste razão ao recorrente.
+A impenhorabilidade inserida no art. 833, X, do CPC/2015, não alcança, em regra, as pessoas jurídicas, visto que direcionada a garantir um mínimo existencial ao devedor pessoa física.
+Sobre o assunto, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA. BACENJUD. VALORES DE ATÉ 40 SALÁRIOS MÍNIMOS. REGRA DA IMPENHORABILIDADE NÃO ALCANÇA, EM REGRA, A PESSOA JURÍDICA. CASO DOS AUTOS. VALOR IRRISÓRIO. DESBLOQUEIO. NÃO CABIMENTO.
+1. Trata-se de Agravo Interno interposto contra decisão monocrática que negou provimento ao Recurso Especial.
+2. A irresignação não merece prosperar.
+3. Fica prejudicada a análise do pedido de efeito suspensivo, tendo em vista o julgamento do recurso pelo colegiado 4. O acórdão recorrido consignou: "O Superior Tribunal de Justiça possui o entendimento de que a irrisoriedade do valor apurado em relação ao total da dívida não impede a penhora por meio de Bacenjud. Nesse sentido: (..) Ressalta-se, inclusive, que a penhora somente poderia ser dispensada se o valor obtido não satisfizesse sequer as custas de execução da medida, ou mesmo as custas processuais, nos termos do art. 836, caput, do CPC. Todavia, essa disposição não se aplica ao caso dos autos, seja porque a União é isenta de custas processuais, seja porque o bloqueio de valores via sistema Bacenjud nada despende, de modo que todo o montante encontrado na conta bancária do executado serve ao abatimento do débito. (TRF4, AgRg em AI n. 5011143-63.2011.404.0000/RS, publ. em 01/09/2011; REsp n. 1.187.161/MG, Primeira Turma, publ. em 19/08/2010). (..) Quanto à alegação de que os valores bloqueados representam menos de 40 salários mínimos e seriam impenhoráveis, a jurisprudência desta Corte indica que o preceito não socorre a pessoas jurídicas (..)" (fls. 38-39, e-STJ).
+5. A impenhorabilidade inserida no art. 833, X, do CPC/2015, reprodução da norma contida no art. 649, X, do CPC/1973, não alcança, em regra, as pessoas jurídicas, visto que direcionada a garantir um mínimo existencial ao devedor (pessoa física). Nesse sentido: " ..  a intenção do legislador foi proteger a poupança familiar e não a pessoa jurídica, mesmo que mantenha poupança como única conta bancária" (AREsp 873.585/SC, Rel. Ministro Raul Araújo, DJe 8/3/2017).
+6. Conforme já assentado na decisão monocrática, o acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que não se pode obstar a penhora on-line pelo sistema Bacenjud a pretexto de que os valores bloqueados seriam irrisórios.
+7. Agravo Interno não provido.
+(AgInt no REsp 1914793/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/06/2021, DJe 01/07/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. A impenhorabilidade inserida no art. 833, X, do CPC/2015 não alcança as pessoas jurídicas, visto que direcionada a garantir um mínimo existencial ao devedor pessoa física.
+2. Constituída a EIRELI, por meio do registro de seu ato constitutivo na Junta Comercial, não mais entrelaçadas estarão as esferas patrimoniais da empresa e do empresário, como explicitamente prescreve o art. 980-A, § 7º, do CC/02.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1916001/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/11/2021, DJe 24/11/2021).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar a realização de bloqueio/penhora via Bacenjud de quantias de titularidade do devedor pessoa jurídica.
+Publique-se. Intimem-se.
