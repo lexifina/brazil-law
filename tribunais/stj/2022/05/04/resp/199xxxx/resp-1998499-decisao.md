@@ -1,0 +1,35 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por GUSTAVO GERES RODRIGUES DE CARVALHO,fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+PROCESSUAL CIVIL. ANTECIPAÇÃO DE TUTELA. AGRAVO DE INSTRUMENTO. SUSPENSÃO TEMPORÁRIA DE OBRAS. AÇÃO CIVIL PÚBLICA. NEGÓCIO JURÍDICO. COMPROMETIMENTO PRAZO ENTREGA. INOCORRÊNCIA. SUSPENSÃO PAGAMENTOS PARCELAS.
+DESCABIMENTO.
+1. No caso retratado, não restou demonstrado, em sede de cognição sumária, que a decisão proferida na Ação Civil Pública relacionada, a qual determinou a suspensão temporária das obras, tenha comprometido o prazo de entrega do empreendimento, com o que ausente um dos requisitos indispensáveis à concessão da antecipação da tutela para suspender o pagamento das parcelas.
+2. Caracterizado o risco de dano inverso, porquanto, considerando os inúmeros recursos que têm aportado nesta Corte pretendendo suspender o cumprimento contratual, o deferimento de tais pedidos poderia comprometer o bom andamento da obra.
+Opostos embargos de declaração, foram parcialmente acolhidos, sem efeitos infringentes (e-STJ fls. 331/335).
+Nas razões recursais, o recorrente alega, além de divergência jurisprudencial, violação aos artigos 300, § 3º, 489, § 1º, IV e 1022, II, parágrafo único II do CPC; 12 e 18 do CDC; 476, 762 e 766 do CC e 14, § 1º da Lei nº 6.938/1981, sustentando negativa de prestação jurisdicional, ao argumento de que deixou de se analisar o panorama legal geral que envolve a paralização do empreendimento, qual seja, prováveis danos ambientais e urbanísticos irreversíveis no local da obra e de que não há qualquer previsão do retorno das obras ou de integral cumprimento do contrato por parte das Recorridas. Pugna para quese mantenhamsuspensos os pagamentos, uma vez que a obra e a comercialização das unidades também estão suspensas.
+Aduz
+A revogação da liminar não poderia se dar com base em eventual irreversibilidade da medida de suspensão dos pagamentos, pois a obra e a comercialização das unidades também estão suspensas! Nada mais lógico que os pagamentos também se manterem suspensos.
+A liminar coloca em disparidade compradores futuros dos comprovadores atuais. Além de abrir perigosa divergência no e. TRF4: há inúmeros (centenas) compradores com os pagamentos suspensos (conforme amostra de acórdãos da 4ª Turma do TRF4, anexos), enquanto tantos outros tiveram a liminar revogada (pela 3ª Turma), como no presente processo!
+Ora, o risco sobre o empreendimento recai sobre as Recorridas, que não podem cobrar as parcelas do Recorrente, quando há indício robusto de descumprimento da avença, situação que também vai de encontro com a teoria da exceção do contrato não cumprido 5 .
+Ademais, caso verificada a responsabilidade ambiental, vislumbra-se que a jurisprudência do e. STJ entende que a responsabilidade é objetiva, solidária e ilimitada a todos os envolvidos:
+ .. .
+Ou seja, o consumidor já está se submetendo ao risco por conta das inadequações ao Código Florestal. E não se diga que (iii) a existência de seguro de obra não afeta a responsabilidade objetiva e solidaria de todos os envolvidos, inclusive compradores. Tal responsabilidade não cobre fraudes, erros, atos ilícitos e dolosos dos administradores das obras, conforme se extrai dos arts. 762 e 766 6 , CC; §1º do art. 14 da Lei nº 6.938/1981 7 - aqui violados pela revogação irregular da liminar que protegia o consumidor - até ulterior decisão de mérito da ACP.
+Com isso, o seguro da obra é inútil, ainda mais se a Ação Civil Pública for julgada procedente e as Recorridas não corrijam os danos ambientais apurados.
+De qualquer jeito, a única solução lógica para referida ACP é a alteração do projeto do empreendimento e adequação ambiental e dos estudos de impacto de vizinhança.
+Isso, logicamente, acarretará novas obras, atraso, repercussão negativa sobre a propriedade, em ofensa ao CDC.
+Logo, é lícito o pedido de rescisão contratual, sendo a liminar demasiadamente verossímil. Não seria lógico o Recorrente, pessoa humilde e atualmente desempregada, ser obrigada a investir valores mensais no sonho da casa própria, em empreendimento sob séria investigação de fraudes.(e-STJ fl. 360/362).
+Requer a antecipação da tutela recursal, com o fim de suspender a eficácia do acórdão recorrido.
+É o relatório.
+Passo a decidir.
+Assiste razão a parte recorrente.
+Nos embargos de declaração de fls. 301/313, o ora recorrente alegou omissão e obscuridade em relação aos fundamentos para reforma da decisão de primeiro grau, que não considerou que a suspensão das obras decorreu do fato de existir "robustos indícios de irregularidades na obtenção dos alvarás e licenciamentos ambientais, bem como de prática de condutas que causaram e podem vir a causar, com iminência, consideráveis danos ambientais". Sustentou, ainda, que o acórdão sequer delimitou os efeitos da decisão, que acabou consumada por meses até o julgamento do recurso.
+Com efeito, na análise detida dos autos, percebe-se que o Tribunal de origem não se manifestou, em sede embargos de declaração, acerca do panorama legal geral que envolve a paralização do empreendimento suscitado pela parte recorrente.
+O Tribunal de origem, no julgamento do embargos de declaração asseverou
+O recurso merece esclarecimentos no que diz respeito ao levantamento da suspensão dos pagamentos e o faço para dizer que o retorno dos pagamentos devem se dar na data do vencimento que seja posterior a publicação do acórdão ora embargado, sem cobrança de qualquer multa, juros ou correções pertinentes ao período em que os pagamentos estiveram suspensos.
+No mais, o acórdão impugnado resolveu o litígio interpretando a legislação infraconstitucional aplicável ao caso. Os embargos de declaração não se prestam para o revolvimento da matéria analisada pelo Colegiado e devem atender aos pressupostos acima elencados. Os argumentos trazidos nos declaratórios são meras contrariedades aos fundamentos da decisão embargada. As razões postas nos declaratórios buscam, claramente, a rediscussão da matéria, sendo de se consignar que a atribuição de efeito infringente, não obstante admissível, só se conhece em casos excepcionalíssimos e após o devido contraditório (artigo 1.023, § 2º, do CPC), situação inocorrente na hipótese dos autos.(e-STJ fl. 334).
+Desse modo, é de rigor o acolhimento da alegação de ofensa ao art. 1022, inciso II, do Código de Processo Civil, para que seja suprida a omissão suscitada pela parte recorrente.
+Ante o exposto, dou provimento ao recurso especial, restando prejudicado o exame das demais questões aventadas no presente recurso, com o fim de determinar o retorno dos autos ao Tribunal de origem para que, em novo julgamento dos embargos de declaração de fls. 301/313, seja sanada a omissão acima apontada, como se entender de direito.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA SANEAMENTO DE OMISSÃO NO ACÓRDÃO RECORRIDO.
+RECURSO ESPECIAL PROVIDO.
