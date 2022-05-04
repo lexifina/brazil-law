@@ -1,0 +1,11 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+LEI N. 5.878, DE 4 DE MAIO DE 2022.
+
+REAJUSTA o valor do auxílio instituído pela Lei n. 1.735, de 14 de novembro de 1985, e dá outras providências.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+D E C R E T A:
