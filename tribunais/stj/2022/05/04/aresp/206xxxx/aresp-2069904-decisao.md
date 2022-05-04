@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por DALVA ALVES, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em:21/10/2021.
+Concluso ao gabinete em: 20/04/2022.
+Ação: de obrigação de fazer e compensação de danos morais ajuizada pela agravante contra VIA S.A., VIA VAREJO S/A e POSITIVO TECNOLOGIA S.A, na qual alega queadquiriu junto à VIA VAREJO SIA, no dia 04/04/2016, 01 aparelho de telefone celular, modelo CEL DESBLOQ POSITIVO QUATTRO X435 2 CHIP DR CAM 354014076535346, da fabricante POSITIVO INFORMÁTICA S/A, no valor de R$ 499,00, cujo pagamento está sendo feito em 18 (dezoito) prestações de R$ 59,67 em boleto bancário.
+No ato da compra, a agravante também adquiriu seguro de garantia estendida da ZURICH MINAS BRASIL SEGURO S/A, no valor total de R$ 177.12,cujo pagamento está sendo feito em 18 (dezoito) parcelas de R$ 9,84, incluído na cobrança dos boletos.
+A agravante afirma que, no inicio de Dezembro12016, o produto começou a apresentar defeitos, pois o celular travava quando recebia alguma ligação, além de não responder aos comandos, de modo que era necessáriodesligá-lo e ligar novamente para que pudesse voltar a funcionar. Requer que seja determinada a substituição do celular por outro novo, bem como a compensação por danos morais em valor não inferior a 10 salários mínimos.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE CUMPRIMENTO DE OBRIGAÇÃO DE FAZER E DE REPARAÇÃO DE DANOS MORAIS. AQUISIÇÃO DE APARELHO DE TELEFONIA MÓVEL. DEFEITOS NO PRODUTO. AUTORA QUE NÃO UTILIZOU OS MEIOS DISPONÍVEIS PARA A SOLUÇÃO DO PROBLEMA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. DESPROVIMENTO DO RECURSO.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. artigos 1.022, I e II, p. único, inciso II e 489, § 1º, II do CPC/15 e também do artigo5º, LV da Constituição da República;dos artigos 369, 370,373, §§ 1º e 2º e 464 e incisos I, II e III e 469 do Código de Processo Civil e dosartigos 6º, inciso VIII e 18, §1º da Lei 8.078/1990.Além de negativa de prestação jurisdicional, sustenta que foi negado à agravante o seu direito de a loja enviar o aparelho para a assistência técnica. Defende que ocorreu cerceamento de defesa, ante o indeferimento da produção de prova pericial requerida pela agravante.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da impossibilidade legal de troca do aparelho celular sem que antes ele seja analisado pela assistência técnica do fabricante, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+Ademais, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, DJe 21/6/2016).
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Do reexame de fatos e provas
+O TJ/RJao analisar o recurso interposto pelaagravante, concluiu o seguinte (e-STJ fls. 480/484):
+Com efeito, somente nos casos previstos no §3º do art. 18 da Lei nº 8.078/90 é permitido ao consumidor exigir a troca do produto viciado por um novo. Nas demais hipóteses, o consumidor deverá aguardar o prazo de trinta dias para que o vício seja sanado, findo o qual poderá utilizar-se das alternativas do §1º do citado artigo.
+ ..
+No mesmo sentido: A teor do disposto no art. 18, § 1º, do CDC, tem o fornecedor, regra geral, o prazo de 30 (trinta) dias para reparar o vício no produto colocado no mercado, após o que surge para o consumidor o direito de exigir a substituição do produto, a restituição imediata da quantia paga ou o abatimento proporcional do preço.
+A oportunidade de sanear o vício no prazo de 30 (trinta) dias trata-se, a rigor, de um direito do fornecedor, que apenas é afastado nas hipóteses previstas no art. 18, § 3º, do CDC, a saber: (i) quando, em razão da extensão do vício, a substituição das partes viciadas puder comprometer a qualidade ou características do produto, ou diminuir-lhe o valor; (ii) quando se tratar de produto essencial(STJ, REsp 1637628/ES, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/12/2018, DJe 07/12/2018).
+De fato, não é facultado ao consumidor subverter as etapas previstas na lei de regência e nem optar pela realização de perícia em sede judicial, sem que tenha permitido a prévia análise do produto pela assistência técnica do fabricante. No presente caso, cuida-se de aparelho celular, e a potestatividade da possiblidade de sua troca está submetida à constatação de tratar-se de bem de uso essencial e do respectivo defeito, devendo a companhia dispor da estrutura necessária para a imediata avaliação, observando a indispensabilidade do bem.
+E, como referido pelo douto Juízo singular:
+Não há dúvidas de que o aparelho da autora apresentou defeito, sendo que deveria a mesma ter enviado pelo correio, sem qualquer ônus para a mesma, para que fosse analisado pela assistência técnica. Conforme documento de fls. 261, o número para apresentação junto ao correio chegou a ser disponibilizado pela autora para que pudesse remeter seu aparelho para assistência técnica, assim, assiste razão ao segundo réu, posto que a demora no reparo do produto se deu exclusivamente pela inercia da autora.
+A remessa de equipamento pelos correios para a assistência técnica se tornou usual nos últimos tempos, não se vislumbrando qualquer falha das empresas rés.
+Note-se que não há qualquer prova de que a empresa ré informou que teria que pagar o reparo, até porque,disponibilizou senha para remessa gratuita pelo correio.
+Assim, a pretensão de substituição do produto não prospera. Todavia, embora a autora não tenha submetido o aparelho à assistência técnica, como orientada, solicitou providências dentro do prazo de vigência da garantia do fabricante (12 meses) -fl. 30 -, eis que adquiriu o produto, em 04/04/2016 (fl. 26), realizou procedimentos indicados pela empresa ré, em 20/12/2016 (fls. 259/261),e ajuizou a ação, em 25/01/2017.
+Isso posto, voto pelo DESPROVIMENTO do recurso, ressalvado o direito da autora de encaminhar o produto à assistência técnica. Majora-se a verba honorária para 15% do valor da causa, nos termos do art. 85, § 11, do CPC/2015, suspensa a sua exigibilidade (art. 98, §3º, do CPC/2015).
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 5% os honorários fixados anteriormente, observada eventual gratuidade de justiça deferida.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E COMPENSAÇÃO DE DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
