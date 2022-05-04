@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em face de acórdão assim ementado (fl. 11):
+Apelação. Tráfico ilícito de entorpecentes. Autoria e materialidade demonstradas. Inviável a pretendida desclassificação. Dosimetria penal adequada. Regime fechado mantido. Réu reincidente específico. Recurso não provido.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei n.º 11.343/06, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 680 dias-multa, no mínimo legal.
+Neste writ, o impetrante sustenta que o paciente está sofrendo constrangimento ilegal, em razão de ter sido indevidamente exasperada a pena-base pelanatureza e a quantidade dos entorpecentes, em violação aos princípios da proporcionalidade, da razoabilidade e da individualização da pena.
+Destaca que dos 112g de entorpecentes apreendidos, cerca de 80% (88g) era composto por droga de menor potencial lesivo, a "cannabis sativa" (maconha).
+Alega que o aumento da pena base se mostrou excessivo, especialmente em razão da quantidade ínfima de entorpecente.
+Requer, liminarmente e no mérito, a concessão da ordem em favor do paciente para que seja afastada a exasperação da pena base, fixando-a no mínimo legal.
+Em consulta ao andamento processual no Tribunal de origem, verifica-se que o julgamento do recurso de apelação ocorreu em 30/4/2021, tendo sido interposto recurso especial pela defesa, o qual não foi admitido (apelação criminal n. 1501581- 22.2020.8.26.0536/SP)
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 56-57).
+Inicialmente, ressalto que a individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+Assim, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório.
+Na sentença condenatória, a dosimetria da pena foi assim estabelecida (fls. 22-28):
+(..)Bem evidenciadas, assim, a autoria e a materialidade do delito imputado ao réu na denúncia, resta a fixação das penas.
+Atento aos critérios estampados no art. 42 da Lei nº 11.343/06, dentre eles a quantidade, diversidade e a natureza das substâncias apreendidas (dentre elas a cocaína e o "crack", entorpecentes altamente nocivos e viciantes, em montante apto a atingir considerável número de usuários), fixo as penas bases acrescidas de um sexto sobre o mínimo legal: cinco anos e dez meses de reclusão e pagamento de quinhentos e oitenta e três dias-multa.
+O réu é reincidente específico, conforme fls. 35/36.
+Aumento as penas bases de um sexto, resultando em seis anos, nove meses e vinte dias de reclusão e pagamento de seiscentos e oitenta dias-multa.
+Inaplicável o redutor previsto no art. 33, § 4º, da Lei nº 11.343/06, diante da reincidência do réu, não atendendo aos requisitos do referido dispositivo legal.
+O regime de cumprimento da pena corporal é o inicialmente fechado, dado ser o único suscetível de acolher o traficante, reincidente específico, apreendido comsignificativa quantidade de drogas altamente viciantes, que com sua mercancia faz ceifar prematuramente vidas de jovens escravizados pelo vício da droga, acometendo de patológica intranquilidade famílias inteiras e, por conseguinte, também a sociedade.
+Incabível substituição da pena privativa de liberdade por restritiva de direitos, ante o disposto no art. 44, incisos I, II e II, do Código Penal.
+Com relação ao instituto da detração, melhor refletindo sobre o tema, verifico ser inconcebível a aplicação do art. 387, § 2º do Código de Processo Penal, neste momento processual, por não estar demonstrado que o réu preencha tanto os requisitos objetivos, quanto os subjetivos para a progressão imediata de regime de pena, de modo que a análise deverá ser feita, oportunamente, pelo MM. Juízo da Execução.
+Ademais, observo que o réu sequer cumpriu os requisitos objetivos que lhe possibilitariam a progressão, enquanto o regime prisional fechado foi fixado também em razão das circunstâncias judiciais, dentre elas a quantidade e natureza de droga apreendida, e não somente em razão do quantum da pena corporal imposta. Cada dia-multa será calculado no mínimo legal e corrigido monetariamente na forma do art. 49, § 2º do Código Penal.
+Em face do exposto, JULGO PROCEDENTE a ação e CONDENOLEONARDO SOUZA AREIAS SANTOS, qualificado nos autos, incurso nas sanções do art. 33, caput, da Lei nº 11.343/06, às penas de seis anos, nove meses e vinte dias de reclusão em regime inicial fechado e pagamento de seiscentos e oitenta dias-multa no mínimo legal.
+O réu respondeu preso ao processo e preso deverá permanecer ainda que deseje recorrer desta sentença, em garantia da aplicação da lei penal e da manutenção da ordem pública, que se verá comprometida caso o traficante reincidente venha a recorrer em liberdade, aplicando-se, ainda, a Súmula nº 9 do Colendo Superior Tribunal de Justiça persistentes os motivos ensejadores da custódia, expostos nas decisões de fls. 44/46 e 85/87.
+Recomende-se o réu na prisão em que se encontra.(..)
+Por sua vez, o Tribunal de origem assim se manifestou (fls. 10-15):
+(..) Segundo a denúncia, no dia 17 de maio de 2020, por volta das 04h50, na Rua Itapema, próximo ao n.º 100, Pae Cará, na cidade e comarca de Guarujá, Leonardo Souza Areias Santos transportava, guardava e trazia consigo, para fins de tráfico, 53 (cinquenta e três) porções de crack , num total líquido de 13,6 gramas, 45 (quarenta e cinco) porções de cocaína, num total líquido de 10,7 gramas, e 102 (cento e duas) porções de maconha, num total líquido de 88,2 gramas, sem autorização e em desacordo com determinação legal ou regulamentar.
+(..) Passo à análise das penas.
+As penas-base foram adequadamente majoradas em 1/6 (um sexto), em razão da natureza, diversidade e expressiva quantidade dos entorpecentes apreendidos, circunstâncias que, a teor do art. 42, da Lei 11.343/06, revelam maior reprovabilidade da conduta do agente.
+Em seguida, as penas foram exasperadas em 1/6 (um sexto), decorrente da circunstância agravante da reincidência (fl. 35), o que era de rigor.
+O acusado, reincidente específico, não faz jus ao benefício previsto no § 4.º do art. 33 da Lei n.º 11.343/06.
+O regime prisional fechado é o adequado ao caso concreto, não apenas pela natureza do crime, equiparado a hediondo, como também pelas circunstâncias pessoais desfavoráveis do acusado, que é reincidente específico, e pelas circunstâncias do crime, que demonstram a dedicação a atividades criminosas, sendo necessário maior rigor na aplicação da terapêutica penal.
+Pelos mesmos motivos, inviável a substituição da pena privativa de liberdade por restritivas de direitos, pois se mostra como insuficiente e inadequado para prevenção e reprovação do delito.
+Pelo exposto, meu voto nega provimento ao recurso.
+Como se vê, na primeira fase da dosimetria, a pena-base foi exasperada em 1/6 e fixada em cinco anos e dez meses de reclusão e pagamento de quinhentos e oitenta e três dias-multa, com fundamento no art. 42 da Lei nº 11.343/06, em razão da "quantidade, diversidade e a natureza das substâncias apreendidas (dentre elas a cocaína e o "crack", entorpecentes altamente nocivos e viciantes, em montante apto a atingir considerável número de usuários)".
+A jurisprudência desta Corte consolidou-se no sentido de que, no tocante ao delito de tráfico de drogas, "a natureza e a variedade da droga apreendida, desde que associadas a uma quantidade não desprezível, constituem fundamento idôneo a justificar tanto o aumento da pena-base, a imposição do regime mais severo, quanto o indeferimento da substituição das penas (AgRg no REsp 1.855.025/TO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/05/2020, DJe 25/05/2020)" (AgRg no HC 634.869/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/05/2021, DJe 25/05/2021).
+No caso, não obstante a natureza das drogas (maconha, cocaína e crack), a quantidade não se mostra relevante (53 porções de crack , num total líquido de 13,6 gramas; 45 porções de cocaína, num total líquido de 10,7 gramas; e 102 porções de maconha, num total líquido de 88,2 gramas - fl. 11-12), aspecto que, aliado à ausência de outras circunstâncias adicionais desfavoráveis, não enseja a exasperação da pena-base. Nesse sentido: AgRg no AREsp 1892962 / AM, minha Relatoria, Sexta Turma, julgado em 07/12/2021, DJe 13/12/2021.
+Assim, impõe-se o redimensionamento da reprimenda, mantidas as demais premissas estabelecidas pelas instâncias ordinárias, no que for aplicável.
+Fixo as penas bases no mínimo legal, resultando em cinco anos de reclusão e pagamento de quinhentos dias-multa, no patamar mínimo legal.
+O réu é reincidente específico, razão pela qual aumento as penasde um sexto, resultando em cinco anos e dez meses de reclusão e pagamento de quinhentos e oitenta e três dias-multa.
+Inaplicável o redutor previsto no art. 33, § 4º, da Lei nº 11.343/06, diante da reincidência do réu, não atendendo aos requisitos do referido dispositivo legal.
+Mantenho o regime inicial de cumprimento da pena corporal como fechado, em face da reincidência específica.
+Incabível substituição da pena privativa de liberdade por restritiva de direitos, diante do não preenchimento do previsto no art. 44, incisos I, II e II, do Código Penal.
+Cada dia-multa será calculado no mínimo legal e corrigido monetariamente na forma do art. 49, § 2º do Código Penal.
+Ante o exposto, concedo o habeas corpus para reduzir a reprimenda imposta ao paciente para cinco anos e dez meses de reclusão, em regime inicial fechado, e de pagamento de quinhentos e oitenta e três dias-multa, no patamar mínimo legal, nos termos da fundamentação.
+Comunique-se.
+Publique-se.
+Intimem-se.
