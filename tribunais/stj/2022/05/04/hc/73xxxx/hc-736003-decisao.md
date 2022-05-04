@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado:
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. MEDIDA QUE SE IMPÕE. DETENÇÃO PROVISÓRIA MANTIDA.
+Mantém-se a prisão preventiva motivada na garantia da ordem pública. O paciente foi preso em flagrante e a gravidade de sua ação foi destacada pela Procuradora de Justiça em parecer: ".. verificar denúncia de que na Rua.. estaria ocorrendo tráfico de drogas.. visualizaram um indivíduo no escuro parado no portão, sendo dada voz de abordagem a este. Em revista pessoal foi encontrado no bolso direto do indivíduo um frasco contendo 70 pedras de crack e no bolso traseiro da bermuda a quantidade de R$ 192,00 (cento e noventa e dois reais). Os agentes visualizaram ainda o momento em que o suspeito dispensou um pacote para dentro do pátio e com apoio do Canil, foi localizado mais uma embalagem com 30 pedras de crack. Ainda, dentro da residência foi localizado em cima da mesa 01 balança de precisão, 02 aparelhos celulares, 01 rolo de papel alumínio, 01 câmera de monitoramento e a quantia de $ 910 pesos." Como é consabido, o tráfico de entorpecentes e seus autores, direta ou indiretamente, são os responsáveis pela quase totalidade da violência que se vem alastrando de maneira incontrolável pelo País, alarmando e intranquilizando toda a população.
+Os traficantes, seja qual o seu "status" na organização, são pessoas perigosas, porque, além de disseminarem a droga, atuam como o "exército" do traficante maior, agindo com violência contra rivais, usuários-devedores, testemunhas etc. A traficância também tumultua a ordem pública, porque leva os usuários a cometimento de outros delitos, em particular os crimes contra o patrimônio, para obterem bens que lhes permitam a compra de entorpecentes. Portanto, é de se manter a prisão provisória do paciente para garantia da ordem pública.
+Habeas corpus denegado.
+Narram os autos que o paciente foi preso em flagrante, convertido em preventiva, pela suposta prática do crime de tráfico de drogas.
+Sustenta a defesa, em suma, ausência de fundamentação idônea no decreto prisional, requerendo, liminarmente e no mérito, a revogação da custódia.
+Não havendo divergência da matéria no órgão colegiado, admissívelseu examein liminepelo relator, nos termos do art. 34, XVIII e XX,do RISTJ.
+O rito dohabeas corpusdemanda prova documental pré-constituída do direito alegado pelo impetrante. No caso, oimpetrante não colacionou aos autos cópia da decisão que decretou a prisão preventiva em audiência de custódia.
+A ausência de peça essencial ao deslinde da controvérsia impede oexame das alegações, razão pela qual deve ser negado seguimento aopresentewrit.Apropósito:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EMHABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO
+PROVIDO.
+1. Ação constitucional de natureza mandamental, ohabeas corpustem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial dowritnão veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravonão provido. (PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTICRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020)
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
