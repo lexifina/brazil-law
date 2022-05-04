@@ -1,0 +1,6 @@
+DECISÃO
+DELLANO SOUSA E SILVA opõe embargos de declaração contra a decisão de fls. 65-66, que não conheceu do conflito de competênciadiante da inexistência, na espécie,de dois juízos que se declarem competentes ou incompetentes para o julgamento do mesmo processo.
+Em suas razões, afirma que o Juízo inicialmente responsável pelo feito, da Comarca de Demerval Lobão - PI, declinou da competência para o Juízo da Comarca de Curitiba - PR, o qual, de igual forma, também declinou da competência, só quepara o Juízo de Teresina - PI. Essa situação, em sua ótica, denotaria a existência de dois juízos que se deram por incompetente. Requer seja sanada a omissão e permitido o regular processamento deste incidente processual.
+De início, registro que não há omissão no decisum embargado. A premissa exposta pelo embargantepara defender a existência de conflito de competênciaé equivocada, na medida em que houve o declínio de competência de um dos juízos para um terceiro que ainda não se manifestou. Ou seja, para que seja caracterizado o conflito, é necessáro que o último juízo que recebeu os autos reconheça a sua incompetênciae aponte, como competente, o juízo que lhe remeteu o processo, de modo a ocasionar um impasse no julgamento do feito, situação não verificada na espécie.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
