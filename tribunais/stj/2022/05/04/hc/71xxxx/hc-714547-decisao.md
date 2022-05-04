@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em face de acórdão assim ementado:
+Roubo majorado - Recursos das defesas - Absolvição por fragilidade probatória ou afastamento da agravante da prática do roubo durante período de calamidade pública, fixação do regime inicial semiaberto e detração - Prova segura e coesa - Confissões judiciais corroboradas pelas declarações da vítima e testemunhos dos policiais - Parcial provimento dos recursos para redução das penas pecuniárias.
+Narram os autos que o paciente foi condenado à pena de 7 anos, 3 meses e 3dias de reclusão, além dopagamento de 16dias-multa,no regime inicial fechado, como incursono artigo 157, § 2º, II, do Código Penal.
+Sustenta a defesa, em suma, que "ante a ausência de demonstração da relação entre os crimes cometidos e a situação pandêmica, é manifestamente ilegal a aplicação da agravante de calamidade pública, prevista no art. 61, inciso II, alínea "j," do Código Penal, ao caso concreto, sendo de rigor o seu afastamento" (fl. 6).
+Sem pedido liminar.
+Foram prestadas informações.
+O Ministério Público Federal opina pela concessão da ordem.
+Quanto à incidência da agravante prevista no art. 61, II, do CP,colhe-se do acórdão proferidopelo Tribunal de origem (fls. 29-31):
+Comportam as penas pecuniárias breve modificação, devendo sofrer alteração na mesma proporção da corporal.
+Foi a pena de partida de João balizada no patamar mínimo, porquanto favoráveis os critérios norteadores previstos no artigo 59, do Código Penal. Já a pena-base de Jefferson foi acertadamente majorada em 1/6 (um sexto), por conta do mau antecedente que ostenta (Proc. 0021904-09.2012 fls. 176/177).
+Ao depois, na segunda etapa, foi corretamente reconhecida a agravante da prática do crime em período de calamidade pública, diante da sua natureza objetiva e da excepcionalidade do atual momento (Decreto Legislativo nº 6, do Congresso Nacional, e Decreto nº 64.879, do Estado de São Paulo, ambos em vigor na data dos fatos), consoante entendimento pacífico desta Colenda Câmara.
+Sendo ambos os acusados reincidentes (João Proc. 1504672-11.2019 fls. 178/179 e Jefferson Proc.0000668-08.2015 fls. 176/177) e presente também a agravante da calamidade pública, conservo o agravamento da pena em 1/6 (um sexto), observando que, sendo duas as agravantes, caberia aumento maior.
+Na terceira e derradeira fase da dosagem,caracterizada a causa de aumento do concurso de agentes, foi escorreito o agravamento das penas em 1/3 (um terço), resultando em 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão e pagamento de 14 (catorze) dias-multa para João e em 07 (sete) anos, 03 (três) meses e 03 (três) dias de reclusão e pagamento de 16 (dezesseis) dias-multa para Jefferson.
+A fixação do regime prisional, por sua vez, independe da quantidade de pena aplicada na r. sentença condenatória. O regime deve ser estipulado atendendo às circunstâncias judiciais indicadas no artigo 59, do Código Penal, observado o que dispõe o artigo 33, § 3º, do mesmo Diploma.
+No caso, o regime mais adequado para o cumprimento das penas reclusivas impostas era mesmo o fechado, uma vez que os apelantes são reincidentes e foram condenados por crime de roubo majorado, infração penal repugnante que, por suas circunstâncias e consequências, desassossega a sociedade e causa traumas profundos em suas vítimas, sendo irrelevante a primariedade.
+Quanto à agravante do art. 61, II, "j", do CP, o Tribunal de origem consignou que "a agravante da prática do crime em período de calamidade pública, diante da sua natureza objetiva e da excepcionalidade do atual momento (Decreto Legislativo nº 6, do Congresso Nacional, e Decreto nº 64.879, do Estado de São Paulo, ambos em vigor na data dos fatos), consoante entendimento pacífico desta Colenda Câmara".
+Não obstante, "a incidência da agravante da calamidade pública pressupõe a existência de situação concreta dando conta de que o paciente se prevaleceu da pandemia para a prática delitiva" (HC 625.645/SP, Rel. Ministro FELIX FISCHER, DJe 04/12/2020). No mesmo sentido: HC 632.019/SP, Rel. Ministro FELIX FISCHER, DJe 10/2/2021; HC 629/981/SP, Rel. Ministro JOEL ILAN PACIORNIK, DJe 9/2/2021; HC 620.531/SP, Ministro SEBASTIÃO REIS JÚNIOR, DJe 3/2/2021.
+Na espécie, a agravante prevista no art. 61, inciso II, alínea j, do Código Penal foi aplicada apenas pelo fato de o delito ter sido praticado na vigência da pandemia da COVID-19, sem a demonstração de que o agente se aproveitou do estado de calamidade pública para praticar o crime em exame, de modo que deve ser afastada a referida agravante.
+Passo à dosimetria.
+Mantenho a pena-base do paciente em4 anos e 8 meses de reclusão e 11 dias-multa. Na segunda fase, considerando a reincidência do paciente, elevo a pena em 1/12, resultando 5 anos e 20dias de reclusão, e 12dias-multa. Na terceira fase, incide a majorante do concurso de agentes, elevando a pena em 1/3, totalizando 6 anos, 8meses e 26dias de reclusão e 15dias-multa.
+O regimefixado para o cumprimento inicial da pena é o fechado.
+Ante o exposto, concedo a ordem para afastar a incidência da agravante prevista no artigo 61, II, do CP, fixando a pena do paciente em 6 anos, 8 meses e 26 dias de reclusão, além de 15dias-multa, a ser cumprida em regime inicial fechado.
+Comunique-se.
+Publique-se.
+Intimem-se.
