@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de CRISTHOFER FERREIRA DA SILVA eRICHARD RODRIGUES GONCALVES, pronunciadoscomo incursos nas sanções do art. 121, § 2º, I, III e IV, do Código Penal (1.º fato) e do art. 347, parágrafo único, do Código Penal (2.º fato)para serem submetidos a julgamento pelo Tribunal do Júri(Processo n. 5001962-67.2021.8.21.0004).
+Aponta-se como autoridade coatora oTRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL, que decidiu de acordo com esta ementa (fl. 57):
+RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO (ART. 121, § 2º).A MATERIALIDADE RESTOU DEMONSTRADA PELO CONTEXTO DA PROVA TRAZIDA À LIDE.EXISTEM, SIM, INDÍCIOS SUFICIENTES DE PROVA A ATRIBUIR AOS ACUSADOS A AUTORIA DO CRIME DE HOMICÍDIO E DO DELITO CONEXO DE FRAUDE PROCESSUAL, PARA FINS DE PRONÚNCIA.ASSIM, CABERÁ, A EVIDENCIA, AO TRIBUNAL DO JÚRI O VEREDITO FINAL. NESSE MOMENTO , CABE A MANUTENÇÃO DA SENTENÇA DE PRONÚNCIA.PELOS MESMOS MOTIVOS, INVIÁVEL, NESTE MOMENTO PROCESSUAL, A PRETENDIDA DESCLASSIFICAÇÃO PARA HOMICÍDIO CULPOSO POR EXCESSO DE LEGÍTIMA DEFESA.NÃO VISLUMBRO, POIS, OPÇÃO PROCESSUAL DE IMPRONÚNCIA.NO QUE TANGE AS QUALIFICADORAS SOMENTE PODEM SER EXCLUÍDAS NA FASE DO JUDICIUM ACCUSATIONES QUANDO MANIFESTAMENTE IMPROCEDENTES , O QUE NÃO SE APRESENTA SER O CASO DOS AUTOS.RECURSO EM SENTIDO ESTRITO DESPROVIDO.
+Alega-se constrangimento ilegal decorrentedo inadmissível excesso de linguagem constante do acórdão(fl. 4), erequer-se, em liminare no mérito, a concessão da ordem para declarar a nulidadeacórdão proferido pela Terceira Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, determinando-se, por consequência, o desentranhamento dos autos e o refazimento da decisão com observância aos preceitos legais e constitucionais(fl. 8).
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpussubstitutivo de recurso especial deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+Ora, o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (HC n. 445.031/PB, Ministro Nefi Cordeiro, Sexta Turma, DJe 29/6/2018).
+No caso, o dito constrangimento não mostra com a nitidez imprimida na inicial, seja porque falta o inteiro teor do acórdão ora impugnado, seja porque não existe nenhum indicativo de que a Corte estadual tenha sido instada a cuidar do alegado excesso de linguagem. É indevida a pretendida supressão de instância.
+Pelo exposto, indefiro liminarmente owrit.
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. ALEGAÇÃO DE EXCESSO DE LINGUAGEM. DEFICIÊNCIA NA INSTRUÇÃO DO WRIT. FALTA DE MANIFESTAÇÃO SOBRE O TEMA NA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE.
+Petição inicial indeferida liminarmente.
