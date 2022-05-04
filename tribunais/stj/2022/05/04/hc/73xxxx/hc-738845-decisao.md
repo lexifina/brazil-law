@@ -1,0 +1,17 @@
+DECISÃO
+JOAO PAULO DA SILVA SANTOSalega sofrer constrangimento ilegal diante de acórdão proferido peloTribunal de Justiça do Estado de São Paulo na Apelação n. 1501023-91.2020.8.26.0587.
+Busca a defesa, em síntese, o abrandamento do modo inicial de cumprimento de pena e a substituição da reprimenda privativa de liberdade por medidas restritivas de direitos, ao argumento de que houve ofensa às Súmulas n. 440 do STJ, 718 e 719 do STF, uma vez que a pena-base foi fixada no mínimo legal e que o paciente é primário.
+Verifico que o caso comporta solução antecipada, porquanto as conclusões das instâncias de origem são contrárias à orientação consolidada deste Tribunal Superior.
+O ora paciente foi condenado, em primeira instância, à pena de 1anode reclusão, em regime inicial semiaberto, e 10 dias-multa, como incursono art. 155, caput, do Código Penal. O Magistrado sentenciante consignou que "apesar de tecnicamente primário, possui duas condenações em grau de recurso, uma delas por tráfico de drogas (autos 0003336-43.2019.8.26.0520) e outra por roubo majorado (autos 1501027-31.2020.8.26.0587)" (fl. 354) e, com base nesses dados, fixou o modo intermediário e negou a substituição por penas restritivas de direitos.
+O Tribunal a quomanteve a conclusão exarada na sentença.
+Na espécie, verifico que o réu é primário,a pena-base foi fixada no mínimo legal - portanto, com as circunstâncias judiciais consideradas favoráveis - e a reprimenda definitiva foi fixada em 1 ano de reclusão.Assim, opaciente faz jus ao ao modo aberto de cumprimento de pena, nos termos do art. 33, § 2º, "c", do CP.
+Nesse sentido:
+ ..
+II. Conforme dispõe o artigo 33, parágrafo 3º, do Código Penal, a fixação do regime inicial de cumprimento da pena, pressupõe a análise do quantum da pena, bem como das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+III. Na hipótese, o regime semiaberto foi mantido com base em considerações vagas e genéricas relativas à gravidade abstrata do crime, em clara violação aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, configurando-se, assim, o constrangimento ilegal. Nesse compasso, considerando a primariedade do paciente e o quantum de pena estabelecido, bem como a inexistência de circunstâncias judiciais desfavoráveis, forçoso concluir que faz jus ao regime aberto, para início de cumprimento de pena, ex vi do art. 33, § 2º, alínea c, e § 3º, do Estatuto Penal e das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior.
+Habeas corpus não conhecido. Ordem concedida de ofício.
+(HC n. 673.682/SP, Rel. Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), 5ª T., DJe 1º/9/2021, grifei)
+Da mesma forma, entendo que a favorabilidade das circunstâncias mencionadas evidencia que a substituição da pena se mostra medida socialmente recomendável, de acordo com o art. 44, III, do Código Penal, de maneira que deve a ordem ser concedida também para determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+À vista do exposto, concedo a ordem, in limine, para fixar o regime inicial aberto em favor dopaciente, além de determinar a substituição da pena privativa de liberdade por duas restritivas de direitos, que deverão ser escolhidas pelo Juízo das Execuções Criminais..
+Comunique-se, com urgência, às instâncias de origem.
+Publique-se e intimem-se.
