@@ -1,0 +1,69 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. CESSAÇÃO DE PAGAMENTO DE QUINTOS INCORPORADOS POR DECISÃO JUDICIAL TRANSITADA EM JULGADO. IMPOSSIBILIDADE. DIREITO AO RECEBIMENTO DE VALORES EM ATRASO. ACÓRDÃO RECORRIDO EM HARMONIA COM O TEMA 395 DA REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base nas als. a e b do inc. III do art. 102 da Constituição da República contra o seguinte julgado da Terceira Turma do Tribunal Regional Federal da Quarta Região:
+
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. EXCEÇÃO PRÉ-EXECUTIVIDADE. REJEIÇÃO. QUINTOS. INCORPORAÇÃO. 1. A sentença de mérito transitada em julgado só pode ser desconstituída mediante ajuizamento de específica ação autônoma de impugnação (ação rescisória) que haja sido proposta na fluência do prazo decadencial previsto em lei. 2. A decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das decisões anteriores que tenham adotado entendimento diferente. Para que tal ocorra, será indispensável a interposição de recurso próprio ou, se for o caso, a propositura de ação rescisória própria, observado o respectivo prazo decadencial” (fl. 8, e-doc. 8).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 49).
+
+    2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado os incs. II e XXXVI do art. 5º, o caput e o inc. X do art. 37 e o § 8º do art. 40 da Constituição da República.
+
+    Pede “a admissão e provimento do presente Recurso Extraordinário, para o fim de ser reformado o acórdão impugnado, determinando a impossibilidade da incorporação de quintos, na forma como decidido pelo E. STF no RE” (fl. 38, e-doc. 59).
+
+    3. O juízo negativo de admissibilidade do recurso extraordinário foi proferido nos termos seguintes: “nego seguimento ao recurso extraordinário quanto aos Temas 360, 395 e 733/STF e não o admito quanto aos demais aspectos [pagamento de atrasados]” (fl. 6, e-doc. 109).
+
+    4. Contra a parte da decisão pela qual negado seguimento ao recurso extraordinário quanto aos Temas 360, 395 e 733 da repercussão geral, a agravante interpôs agravo interno. Argumentou que, “no caso dos ‘quintos’, o paradigma invocado (RE 638.115) enfrentou a questão de direito debatida à luz da inconstitucionalidade, por ofensa ao princípio da legalidade, da decisão que determina a incorporação dos quintos, além de ter sido submetido ao regime da repercussão geral instituído pela Lei n. 11.418, de 19 de dezembro de 2006, ostentando, em decorrência disso, caráter vinculante. As mesmas razões supra infirmam a aplicação do Tema STF 733” (fl. 9, e-doc. 119).
+
+    Ao apreciar o agravo interno, o Tribunal de origem assentou:
+
+    “AGRAVO INTERNO. DECISÃO VICE PRESIDÊNCIA. REVISÃO. IMPOSSIBILIDADE. TEMAS 360, 395 E 733/STF. APLICAÇÃO DO ACÓRDÃO PARADIGMA REPRESENTATIVO DE CONTROVÉRSIA. NEGATIVA DE SEGUIMENTO. 1. Há previsão no artigo 1.040, I, do CPC de que, uma vez publicado o acórdão paradigma, o presidente ou o vice-presidente do tribunal de origem negará seguimento ao recurso especial ou extraordinário, se o acórdão recorrido coincidir com a orientação do tribunal superior. 2. A decisão alinha-se com o entendimento do STF na análise dos paradigmas, inexistindo, pois, motivo para a pretendida reforma. 3. Dessa forma, a aplicação dos temas 360, 395 e 733 do STF ao caso, é medida que se impõe” (fl. 1, e-doc. 138).
+
+    5. Contra a parte da decisão pela qual inadmitido o recurso extraordinário, por estar o acórdão recorrido em harmonia com a jurisprudência deste Supremo Tribunal, a agravante interpôs o agravo previsto no art. 1.042 do Código de Processo Civil.
+
+    Sustenta que “a questão controversa está devidamente delineada nas razões de recurso extraordinário impropriamente inadmitido, tanto assim que o próprio Vice-Presidente termina o seu despacho com a seguinte frase: ‘Por fim, cabe ressaltar que a Turma entendeu que não se aplica o tema 395’”. Insiste que “a questão posta em exame em tudo se aplica o tema supra, tendo em vista que se discute o termo final do pagamento (cessação), situação essa que não foi devidamente cotejada pelo i. Vice-Presidente” (fl. 8, vol. 121).
+
+    Salienta que “não se pode impor à UFRGS, no ano de 2021, a implantação em folha de pagamento da ora agravada de valor que o Plenário do Supremo Tribunal Federal, no RE nº 638.115, definiu como indevido” (sic, fl. 8, vol. 121).
+
+    Pede “que essa Colenda Turma se digne a reformar/anular a decisão recorrida, admitindo, por conseguinte, o Recurso Extraordinário, requerendo o provimento do referenciado Recurso” (fl. 9, vol. 121).
+
+    Examinados os elementos havidos no processo, DECIDO.
+
+    6. Razão jurídica não assiste à agravante.
+
+    7.  Quanto à matéria a ser apreciada neste agravo, o Tribunal de origem assentou:
+
+    “Considerando que a sentença de mérito transitada em julgado só pode ser desconstituída mediante ajuizamento de específica ação autônoma de impugnação (ação rescisória) que haja sido proposta na fluência do prazo decadencial previsto em lei bem como ‘a decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das decisões anteriores que tenham adotado entendimento diferente. Para que tal ocorra, será indispensável a interposição de recurso próprio ou, se for o caso, a propositura de ação rescisória própria, observado o respectivo prazo decadencial,’ mantenho o entendimento expendido” (fl. 6, e-doc. 29).
+
+    Em 19.3.2015, no julgamento do Recurso Extraordinário n. 638.115, Relator o Ministro Gilmar Mendes, Tema 395 da repercussão geral, este Supremo Tribunal concluiu pela impossibilidade da incorporação de quintos decorrentes do exercício de funções comissionadas no período entre a edição da Lei n. 9.624/1998 e a MP n. 2.225-48/2001, por contrariedade ao princípio da legalidade:
+
+    “Recurso extraordinário. 2. Administrativo. 3. Servidor público. 4. Incorporação de quintos decorrente do exercício de funções comissionadas no período compreendido entre a edição da Lei 9.624/1998 e a MP 2.225-48/2001. 5. Impossibilidade. 6. Recurso extraordinário provido” (DJe 3.8.2015).
+
+    No julgamento dos embargos de declaração opostos contra essa decisão, este Supremo Tribunal concluiu ser indevida a cessação imediata do pagamento dos quintos incorporados por força de decisão judicial transitada em julgado:
+
+    “Embargos de declaração nos embargos de declaração no recurso extraordinário. 2. Repercussão Geral. 3. Direito Administrativo. Servidor público. 4. É inconstitucional a incorporação de quintos decorrente do exercício de funções comissionadas no período compreendido entre a edição da Lei 9.624/1998 e a MP 2.225-48/2001. 5. Cessação imediata do pagamento dos quintos incorporados por força de decisão judicial transitada em julgado. Impossibilidade. Existência de mecanismos em nosso ordenamento aptos a rescindir o título executivo, ou ao menos torná-lo inexigível, quando a sentença exequenda fundamentar-se em interpretação considerada inconstitucional pelo STF. Embargos acolhidos neste ponto. 6. Verbas recebidas em decorrência de decisões administrativas. Manutenção da decisão. Inaplicabilidade do art. 54 da Lei 9.784/99. Dispositivo direcionado à Administração Pública, que não impede a apreciação judicial. Necessidade de observância do princípio da segurança jurídica. Recebimento de boa-fé. Decurso do tempo. 7. Modulação dos efeitos da decisão. Manutenção do pagamento da referida parcela incorporada em decorrência de decisões administrativas, até que sejam absorvidas por quaisquer reajustes futuros a contar da data do presente julgamento. 8. Parcelas recebidas em virtude de decisão judicial sem trânsito em julgado. Sobrestados em virtude da repercussão geral. Modulação dos efeitos para manter o pagamento àqueles servidores que continuam recebendo os quintos até absorção por reajustes futuros. 9. Julgamento Virtual. Ausência de violação ao Princípio da Colegialidade. 10. Embargos de declaração parcialmente acolhidos, com efeitos infringentes, para reconhecer indevida a cessação imediata do pagamento dos quintos quando fundado em decisão judicial transitada em julgado. Quanto às verbas recebidas em virtude de decisões administrativas, apesar de reconhecer-se sua inconstitucionalidade, modulam-se os efeitos da decisão, determinando que o pagamento da parcela seja mantida até sua absorção integral por quaisquer reajustes futuros concedidos aos servidores. Por fim, quanto às parcelas que continuam sendo pagas em virtude de decisões judiciais sem trânsito em julgado, também modulam-se os efeitos da decisão, determinando que o pagamento da parcela seja mantida até sua absorção integral por quaisquer reajustes futuros concedidos aos servidores” (DJe 8.5.2020).
+
+    Confiram-se também os seguintes julgados:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. CESSAÇÃO DO PAGAMENTO DE QUINTOS INCORPORADOS POR DECISÃO JUDICIAL TRANSITADA EM JULGADO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM HARMONIA COM O TEMA 395 DE REPERCUSSÃO GERAL. PAGAMENTO DE VALORES ATRASADOS. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. VERBA HONORÁRIA MAJORADA EM 1% (§§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.329.987-AgR, de minha relatoria, Primeira Turma, DJe 4.10.2021).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA, DO CONTRADITÓRIO, DO DIREITO ADQUIRIDO, COISA JULGADA E ATO JURÍDICO PERFEITO. OFENSA CONSTITUCIONAL REFLEXA. TEMA 660. VERBAS RECEBIDAS EM VIRTUDE DE DECISÕES ADMINISTRATIVAS. MANUTENÇÃO DO PAGAMENTO ATÉ INTEGRAL ABSORÇÃO POR QUAIQUER OUTROS REAJUSTES FUTUROS CONCEDIDOS AOS SERVIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STF. TEMA 395 DA REPERCUSSÃO GERAL. 1. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 2. Ação que versa sobre o direito de a parte autora perceber o restante dos valores reconhecidos administrativamente e não adimplidos, referentes à incorporação de quintos/décimos. 3. O Plenário desta CORTE, no julgamento do RE 638.115-ED-ED/CE (Rel. Min. GILMAR MENDES, DJe de 8/5/2020), por maioria, acolheu parcialmente os embargos de declaração, com efeitos infringentes, para reconhecer indevida a cessação imediata do pagamento dos quintos, quando fundado em decisão judicial transitada em julgado. 4. Quanto às verbas recebidas em virtude de decisões administrativas – hipótese dos autos -, modulou-se o efeito da decisão para que o servidor continue recebendo os valores até sua absorção integral por quaisquer reajustes futuros concedidos aos servidores. 5. O entendimento firmado pelo STF no Tema 395 em nenhum momento extingue débitos já reconhecidos administrativamente, não adimplidos no tempo apropriado. 6. Agravo Interno a que se nega provimento” (ARE n. 1.331.515-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 7.3.2022).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. INCORPORAÇÃO DE QUINTOS. EXERCÍCIO DE FUNÇÕES COMISSIONADAS NO PERÍODO COMPREENDIDO ENTRE A EDIÇÃO DA LEI 9.624/1998 E A MP 2.225-48/2001. INCONSTITUCIONALIDADE. TEMA 395 DA REPERCUSSÃO GERAL. QUINTOS INCORPORADOS POR DECISÃO JUDICIAL TRANSITADA EM JULGADO ANTES DO JULGAMENTO DO STF. CESSAÇÃO IMEDIATA DO PAGAMENTO. IMPOSSIBILIDADE. MAJORAÇÃO DE HONORÁRIOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – O Supremo Tribunal Federal, ao julgar o RE 638.115-RG/CE (Tema 395 da Repercussão Geral), da relatoria do Ministro Gilmar Mendes, assentou que ofende o princípio da legalidade a decisão que concede a incorporação de quintos pelo exercício de função comissionada no período de 8/4/1998 até 4/9/2001, ante a carência de fundamento legal. II – No julgamento do RE 638.115-ED-ED/CE, esta Corte firmou orientação no sentido da impossibilidade de se determinar a cessação imediata do pagamento dos quintos quando fundado em decisão judicial transitada em julgado, ressalvado o cabimento de ação rescisória para rediscutir a questão. III – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC. IV – Agravo regimental a que se nega provimento” (ARE n. 1.299.522-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 22.4.2021).
+
+    A conclusão do acórdão recorrido harmoniza-se com a jurisprudência firmada no julgamento do Tema 395 da repercussão geral, aplicável inclusive ao pagamento de valores em atraso referentes à “incorporação de quintos decorrente do exercício de funções comissionadas” (RE n. 1.236.389-ED, de minha relatoria, DJe 26.3.2020).
+
+    8. Pelo exposto, nego provimento ao presente recurso extraordinário com agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 4 de maio de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
