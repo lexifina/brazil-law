@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO. TUTELA DE EVIDÊNCIA DEFERIDA EM PRIMEIRA INSTÂNCIA. MEDIDA ASSECURATÓRIA. AGRAVO DE INSTRUMENTO DESPROVIDO PELO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE IMPOSSIBILIDADE DE CONCESSÃO DE LIMINAR E DE SUFICIÊNCIA DE PROVA PARA REVOGAÇÃO DA MEDIDA. AUSÊNCIA DE PREQUESTIONAMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 283/STF. AGRAVO DESPROVIDO.
+1. O conhecimento do recurso especial exige o prequestionamento da matéria de direito federal, ocorrente quando o Tribunal de origem manifesta-se inequivocamente acerca da tese recursal, condição não verificada na hipótese.
+2. A ausência de impugnação dos fundamentos do acórdão recorrido implica o não conhecimento do recurso especial, nos termos da Súmula 283/STF.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+O Exmo. Sr. MINISTRO RAUL ARAÚJO - Relator: Trata-se de agravo interno interposto por HEBERT RIBEIRO ARAUJO contra decisão da Presidência desta Corte, que não conheceu de seu recurso especial, em síntese, por incidência das Súmulas 735/STF e 7/STJ.
+O agravante alega que a Súmula 735/STF "é inaplicável em casos que discutem a interpretação legal das normas que regulam o deferimento da tutela como no presente caso em que se discute a observação do procedimento processual, tendo em vista, a violação do artigo 311 e consequentemente 9º e 10º do Código Processual Civil" (fl. 238); que, "apesar da decisão recorrida ser proferida em caráter provisório, a violação é definitiva, em razão de não ter sido observado o procedimento processual instituído para o caso" (fl. 239).
+Sobre a Súmula 7/STJ, afirma que "as questões suscitadas são estritamente legais, não há necessidade de avaliação fático-probatória, o que se discute é o tempo processual de concessão da tutela que ocorreu antes da instauração do contraditório" (fl. 240), violando os arts. 9º, 10 e 311, IV, do CPC. E, sendo inaplicável a Súmula 7/STJ, deve ser apreciado o dissídio jurisprudencial apontado.
+Sem impugnação da parte agravada (fl. 245).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO. TUTELA DE EVIDÊNCIA DEFERIDA EM PRIMEIRA INSTÂNCIA. MEDIDA ASSECURATÓRIA. AGRAVO DE INSTRUMENTO DESPROVIDO PELO TRIBUNAL DE ORIGEM. ALEGAÇÃO DE IMPOSSIBILIDADE DE CONCESSÃO DE LIMINAR E DE SUFICIÊNCIA DE PROVA PARA REVOGAÇÃO DA MEDIDA. AUSÊNCIA DE PREQUESTIONAMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 283/STF. AGRAVO DESPROVIDO.
+1. O conhecimento do recurso especial exige o prequestionamento da matéria de direito federal, ocorrente quando o Tribunal de origem manifesta-se inequivocamente acerca da tese recursal, condição não verificada na hipótese.
+2. A ausência de impugnação dos fundamentos do acórdão recorrido implica o não conhecimento do recurso especial, nos termos da Súmula 283/STF.
+3. Agravo interno a que se nega provimento.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.852.484 - TO (2021/0067046-5)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+HEBERT RIBEIRO ARAUJO
+ADVOGADOS
+:
+CARLOS LEONARDO PEREIRA SEGURADO - GO025558
+NATANRY HELENA DE SOUZA BASTOS - TO005668B
+AGRAVADO
+:
+MARIA IGNEZ DIOGO MELO
+ADVOGADO
+:
+ULISSES MELAURO BARBOSA - TO004367
+VOTO
+O Exmo. Sr. MINISTRO RAUL ARAÚJO - Relator: De início, registra-se que "esta Corte Superior, em sintonia com o disposto na Súmula 735/STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, por não representar pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, sujeito a modificação a qualquer tempo" (AgInt no AREsp 1.916.829/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 1º.12.2021); "esta Corte admite a mitigação da Súmula n. 735/STF nas hipóteses em que a concessão da medida liminar e o deferimento da antecipação de tutela caracterizar ofensa direta à lei federal que o regulamenta, desde que dispense a interpretação das normas concernentes ao mérito da causa" (AgInt no AREsp 1.112.803/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 28.4.2021).
+Na espécie, HEBERT RIBEIRO ARAUJO, ora agravante, interpôs recurso especial contra o acórdão a seguir resumido, apontando ofensa aos arts. 9º, 10 e 311, IV, parágrafo único, do CPC/2015 e divergência jurisprudencial. Eis a ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO. LIMINAR QUE DEFERE TUTELA DE EVIDÊNCIA. POSSIBILIDADE. FUNGIBILIDADE ENTRE TUTELA PROVISÓRIA DE URGÊNCIA E DE EVIDÊNCIA. MEDIDAS DE CAUTELA. GARANTIA DO RESULTADO ÚTIL DO PROCESSO. RECURSO IMPROVIDO.
+1. É da natureza das tutelas provisórias a sua fungibilidade, sendo perfeitamente cabível o deferimento da tutela de evidência ao invés da tutela de urgência postulada na exordial, especialmente porque amparada na presença dos requisitos do artigo 311, inciso IV, do CPC, eis que apresentada prova documental de que o imóvel se encontra gravado com cláusulas restritivas de inalienabilidade e incomunicabilidade que deverão vigorar enquanto a agravada estiver viva.
+2. Também não merece acolhida a tese de que a decisão agravada esgotou o mérito da ação, porquanto foram adotadas apenas medidas assecuratórias do resultado útil do processo, averbando-se a existência da demanda junto à matrícula do imóvel, sem realizar o cancelamento das averbações, o que será decidido quando do julgamento do mérito.
+3. Agravo de instrumento improvido (fl. 94).
+O acórdão recorrido negou provimento a "agravo de instrumento interposto por Hebert Ribeiro Araújo, contra decisão interlocutória lançada no evento 8 dos autos da Ação Anulatória de Negócio Jurídico de Compra e Venda c/c Cancelamento de Registro Público epígrafe, em que o Magistrado monocrático deferiu a liminar pleiteada pela agravada, para determinar o cancelamento da Procuração Pública lavrada no livro 2383-P, às folhas 005/006, em 15/08/2013, junto ao Cartório Índio Artiaga, 4º Tabelionato de Notas de Goiânia/GO, a fim de evitar que novas transações imobiliárias sejam feitas sobre o imóvel de Matrícula nº. 401, Imóvel Rural constituído pela totalidade do Lote 24, do Loteamento Santa Tereza - 2ª Etapa, situado no município de Recursolândia/TO, bem como para determinar ao Cartório do 1º Ofício e 2 º Tabelionato de Notas de Itacajá/TO, que se abstenha de realizar qualquer ato na Matrícula nº. 695 (antiga Matrícula nº. 401, em virtude do georreferenciamento), averbando-se a presente demanda na referida Matrícula" (fls. 59/60).
+O recurso especial alegou que foi concedida tutela de evidência liminarmente, com base no art. 311, IV, do CPC/2015, negando vigência ao parágrafo único do aludido artigo, o qual não autoriza o deferimento da medida, na hipótese do inciso referido, sem a instauração do contraditório.
+O Tribunal de origem, todavia, não se manifestou sobre essa matéria (vedação da concessão, liminarmente, de tutela de evidência no caso do inciso IV do art. 311 do CPC/2015), faltando, por isso, o indispensável prequestionamento.
+O recurso especial apontou ainda violação dos arts. 9º e 10 do CPC/2015, aduzindo que não foi atendido outro requisito para concessão da tutela de evidência, qual seja o de que, "após ouvida a parte contrária esta não tenha produzido provas capazes de suscitar dúvida razoável". Sustentou que, "após a concessão indevida da tutela, o recorrente compareceu à lide fundamentando seu direito de forma suficiente à revogação da tutela, sobre a qual não lhe fora oportunizado manifestar previamente" (fls. 159-160).
+Essa questão relativa à apresentação, pelo recorrente, de provas suficientes à revogação da tutela também não consta do aresto estadual.
+Nesse contexto, as teses articuladas no recurso especial carecem de prequestionamento, o que impede o conhecimento da insurgência recursal. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. INEXIGIBILIDADE OU INEXEQUIBILIDADE DO CRÉDITO E CONEXÃO DAS AÇÕES. PREQUESTIONAMENTO INEXISTENTE E FALTA DE COMBATE A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULAS 282/STF, 211/STJ E 283/STF. AGRAVO INTERNO AO QUAL SE NEGA PROVIMENTO.
+1. A ausência de indicação do dispositivo de lei federal supostamente violado impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+2. O conhecimento do recurso especial exige o prequestionamento da matéria de direito federal, ocorrente quando o Tribunal de origem manifesta-se inequivocamente acerca da tese recursal, condição não verificada, na hipótese, quanto às teses de inexigibilidade ou inexequibilidade do crédito e de conexão de ações. Incidência da vedação prevista nas Súmulas 282/STF e 211/STJ.
+3. A ausência de impugnação dos fundamentos do acórdão recorrido implica o não conhecimento do recurso especial, nos termos da Súmula 283/STF. Caso concreto no qual não houve combate à impossibilidade de conhecimento da tese relativa à conexão, por ter sido matéria objeto de recurso previamente interposto pela parte contrária.
+4. Agravo interno ao qual se nega provimento. (AgInt no AREsp 1830228/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 25.11.2021).
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL C/C CANCELAMENTO DE REGISTRO, REINTEGRAÇÃO DE POSSE E COBRANÇA. TUTELA DE EVIDÊNCIA. DEFERIMENTO. INSURGÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 283 DO STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO STJ. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Para que se configure o prequestionamento da matéria, ainda que implícito, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (Súm. 211/STJ e 282/STF).
+3. O exame da pretensão recursal exigiria o revolvimento e a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão recorrido, reinterpretação de cláusula contratual, situação que faz incidir os enunciados de Súmula 5 e 7 do STJ.
+4. Agravo interno não provido. (AgInt no REsp 1914038/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 24.8.2021)
+Ademais, a Corte estadual manteve a decisão de 1º grau sob o fundamento de que "possui carga decisória puramente assecuratória, obstando que sejam promovidas novas transações imobiliárias em subversão às cláusulas restritivas que gravam o imóvel, bem como qualquer ato diretamente no registro imobiliário, prevenindo, assim, eventuais direitos de terceiros e assegurando o resultado útil do processo" (fl. 65).
+Tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, o que atrai a incidência da Súmula 283/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nos termos da jurisprudência desta Corte, "a subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia" (AgInt no AREsp 1.550.572/SP, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 11.6.2021).
+De todo modo, vale ressaltar a incidência do óbice da Súmula 7/STJ, no que se refere a eventual acolhimento da tese do recorrente de que "compareceu à lide fundamentando seu direito de forma suficiente à revogação da tutela" (fl. 160).
+Por fim, conforme reiteradamente decidido no âmbito desta Corte, "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica" (AgInt no AgRg no AREsp 317.832/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 13.3.2018). Com efeito, "resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea a do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.6.2015).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
