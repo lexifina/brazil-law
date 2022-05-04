@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de PRISCILA GIMENEZ ZOCCHIO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no HC n.0015477-73.2017.8.26.0000.
+A defesa busca a declaração de extinção da punibilidade do paciente, em decorrência da prescrição da pena, tendo em vista o transcurso do prazo de 8 anos previsto no art. 107, IV do Código Penal. Afirma que a sentença penal foi proferida em 13/10/2011.Alega que o acórdão confirmatório da condenação não interrompe o prazo prescricional.
+Indeferido o pedido de liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 75/90).
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque, de acordo com a jurisprudência desta Corte,"nos termos do inciso IV do artigo 117 do Código Penal, o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta" (AgRg no REsp 1.656.393/RS, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 13/8/2021).
+No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO DO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. EXTINÇÃO DA PUNIBILIDADE. PRESCRIÇÃO DA PRETENSÃO PUNITIVA SUPERVENIENTE. ACÓRDÃO DA APELAÇÃO. MARCO INTERRUPTIVO. TRANSCURSO DO PRAZO PRESCRICIONAL. EMBARGOS ACOLHIDOS.
+1. Nos termos do inciso IV do artigo 117 do Código Penal, o acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta. O Supremo Tribunal Federal compreendeu que não há distinção no Código Penal entre acórdão condenatório inicial ou confirmatório da sentença para fins de interrupção da prescrição. Por isso, "o acórdão que confirma a sentença condenatória, por revelar pleno exercício da jurisdição penal, interrompe o prazo prescricional, nos termos do art. 117, IV, do Código Penal." (AgRg no REsp 1.656.393/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 3/8/2021, DJe 13/8/2021).
+2. Na espécie, o réu foi condenado à pena de 1 ano e 9 meses de reclusão, como incurso no art. 168, § 1.º, inciso III, do Código Penal, cujo prazo prescricional, nos termos do art. 109, inciso V, do Código Penal, é de 4 anos. Contra tal sentença, apenas a defesa recorreu, tendo transitado em julgado a condenação para a acusação.
+3. Entre o acórdão da apelação, de 5/4/2017, e a presente data, já se passaram mais de 4 anos, razão pela qual deve ser reconhecida a extinção da punibilidade do agente pela prescrição da pretensão punitiva.
+4. Embargos acolhidos.
+(EDcl no AgRg nos EREsp 1748002/RS, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, DJe 04/11/2021).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRAZO PRESCRICIONAL. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. INTERRUPÇÃO. RÉU QUE COMPLETOU 70 ANOS APÓS A SENTENÇA CONDENATÓRIA. NÃO APLICAÇÃO DO REDUTOR. INEXISTÊNCIA DE OMISSÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O Plenário do Supremo Tribunal Federal compreendeu que o Código Penal não faz distinção entre acórdão condenatório inicial ou confirmatório da decisão para fins de interrupção da prescrição. Por isso, o acórdão que confirma a sentença condenatória, por revelar pleno exercício da jurisdição penal, interrompe o prazo prescricional, nos termos do artigo 117, inciso IV, do Código Penal.
+2. O referido decisum foi exarado no julgamento do Habeas Corpus n. 176.473/RR, de relatoria do Ministro Alexandre de Moraes, fixou a seguinte tese: "Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+4. Na espécie, verifica-se que a sentença condenatória foi proferida em 12/4/2013 e o acórdão que a confirmou proferido em 23/1/2017, de modo que não há que se falar em ocorrência da prescrição, notadamente porque o prazo prescricional, levando-se em consideração a reprimenda imposta é de 8 anos.
+4. Segundo a orientação desta Corte, a redução à metade do prazo prescricional, previsto no art. 115 do CP, somente é aplicada ao réu que tiver mais de 70 anos na data da primeira decisão condenatória, o que não ocorreu na hipótese.
+5. Inexiste omissão ou contradição no acórdão quando fica devidamente explicitado que o exame de admissibilidade do recurso especial deve ser aferido não só em relação aos aspectos procedimentais objetivos, mas também no que tange ao próprio conteúdo da argumentação feita pelo recorrente, as quais não podem estar em contradição com a orientação jurisprudencial predominante ou com as súmulas e recursos especiais repetitivos deste Superior Tribunal.
+6. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 1226961/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA,DJe 13/08/2021).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
