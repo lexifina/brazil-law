@@ -1,0 +1,6 @@
+DECISÃO
+A decisão de e-STJ fls. 928/929 ao analisar o agravo interno dos agravantes, determinou, em 12/11/2021, a devolução dos autos ao Tribunal de origempara que permanecessesuspenso até a publicação do acórdão paradigma referente ao Tema 1085, nos termos dos arts. 1.036, § 1º, e 1.037, II, do CPC/2015.
+Antes da devolução dos autos ao TJRJ, foi examinadonovamente oagravo interno de ITAÚ UNIBANCO S.A e BANCO ITÁU CONSIGNADO S.A, equívoco corrigido pela anulação do segundo julgamento conforme certificado às e-STJ fls. 956 dos autos.
+O acórdão do Tema 1085 foi recentemente publicado, em 15/03/2022, com a definição da seguinte tese:"são lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei n. 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento".
+Forte nessas razões, devido ao trânsito da anulação do segundo julgamento equivocado do agravo interno, eanterior definiçãode e-STJ fls. 928/929, determino a remessa dos autos ao TJRJ para aplicação da tese firmada pelo julgamento do Tema 1085, de acordo com oart. 1.040, II e III do CPC.
+Publique-se. Intime-se.
