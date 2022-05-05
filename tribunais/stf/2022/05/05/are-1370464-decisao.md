@@ -1,0 +1,35 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Superior do Trabalho, assim ementado (eDOC 14):
+
+    “RECURSO DE REVISTA INTERPOSTO PELA SEGUNDA RECLAMADA, FERROVIA CENTRO-ATLÂNTICA SA. - FCA. SUCESSÃO TRABALHISTA. CONTRATO DE CONCESSÁO DE SERVIÇO PÚBLICO. RESPONSABILIDADE EXCLUSIVA DA RFFSA NO PERÍODO ANTERIOR A 01/09/1996. O Eg. TRT Não se manifestou acerca da responsabilidade exclusiva da RFESA, quanto ao período anterior ao início da concessão, nem quando da interposição dos embargos de declaração, o que faz incidir à hipótese o óbice da Súmula no 297/TST. Recurso de revista não conhecido. RECURSO DE REVISTA INTERPOSTO PELA UNIÃ0 (SUCESSORA DA EXTINTA RFFSA). JULGAMENTO EXTRA PETITA. Trata-se do princípio da adstrição do juiz ao pedido da parte de diferenças comissões, expresso no artigo 128 do CPC, o que não caracteriza extrapolação dos limites da lide. Recurso de revista Não conhecido. RECURSO DE REVISTA DAS RECLAMADAS. APOSENTADORIA ESPONTÂNEA. AUSÊNCIA DE EXTJNÇÃO DO CONTRATO DE TRABALHO. ADIN NO 1721-3. DEVIDA A INCIDÊNCIA DA MULTA DE 40% SOBRE OS DEPÓSITOS DO FGTS EFETUADOS ANTERIORMENTE A JUBILAÇÃO. O excelso Supremo Tribunal Federal, julgando a Adin no 1721-3 e a Adin no 1770-4, firmou posicionamento no sentido de que o contrato de trabalho permanece íntegro mesmo com a aposentadoria espontânea do trabalhador. Inexistindo a ruptura contratual pela jubilação da reclamante tem-se que, na verdade, houve apenas um único contrato de trabalho. Devido, portanto, o pagamento da multa de 40% do FGTS sobre os depósitos efetuados durante toda a contratualidade, aí incluído o período anterior à jubilação. Recurso de revista não conhecido."
+
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 37, XVI e XVII, da Constituição da República. Nas razões recursais, sustenta-se, em suma, que “o entendimento esposado na ADI 1.721-3 é praticamente inaplicável aos empregados públicos de empresas públicas e sociedades de economia mista, posto que, ao requerer a concessão de aposentadoria o empregado tem ciência de que não mais poderá continuar trabalhando na empresa, ante a proibição prevista no inciso XVI e XVII do art. 37 da Constituição Federal, salvo nos casos expressamente excepcionados no próprio inciso XVI ” (eDOC 18, p. 25).
+
+    A Vice-Presidência do TST, em um primeiro momento, determinou sobrestamento do feito por tratar-se de questão idêntica a processos representativos da controvérsia previamente selecionados e encaminhados ao STF, nos termos do art. 543-B, § 1º, do CPC/1973 (eDOC 21).
+
+    Em novo juízo de admissibilidade, a Vice-Presidência do TST reconheceu a distinção entre o caso dos autos e o Tema 606 da Repercussão Geral e, por entender por entender que a decisão recorrida está em consonância com a jurisprudência do STF, negou seguimento ao recurso extraordinário (eDOC 36).
+
+    É o relatório. Decido.
+
+    A irresignação não merece prosperar.
+
+    Quanto à apontada ofensa ao art. 37º, incisos XVI e XVII, da CRFB, relativa à controvérsia acerca da possibilidade de acumulação de proventos de aposentadoria pelo Regime Geral da Previdência Social com proventos de emprego em sociedade de economia mista, com reconhecimento da não extinção automática do vínculo empregatício e a consequente aplicação da multa de 40% do FGTS de todo o período do pacto laboral, o acórdão recorrido encontra-se alinhado com a jurisprudência desta Corte, pacificada no sentido de que a aposentadoria espontânea do trabalhador não extingue automaticamente o contrato de trabalho.
+
+    Nesse sentido, destaco os seguintes julgados de ambas as Turmas desta Casa:
+
+    DIREITO DO TRABALHO E PREVIDENCIÁRIO. EMPREGADO PÚBLICO. APOSENTADORIA ESPONTÂNEA PELO REGIME GERAL DA PREVIDÊNCIA SOCIAL EM DATA ANTERIOR AO ADVENTO DA EMENDA CONSTITUCIONAL 103/2019. EXTINÇÃO DO CONTRATO DE TRABALHO. NÃO OCORRÊNCIA. RESSALVA DO ART. 6º DA EC 103/19. TEMA Nº 606 DA REPERCUSSÃO GERAL. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. SÚMULAS Nº 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO NÃO PROVIDO. 1. O entendimento da Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no Supremo Tribunal Federal. Ao julgamento do Tema nº 606 da repercussão geral, esta Suprema Corte fixou a tese de que “a concessão de aposentadoria aos empregados públicos inviabiliza a permanência no emprego, nos termos do art. 37, § 14, da CRFB, salvo para as aposentadorias concedidas pelo Regime Geral de Previdência Social até a data de entrada em vigor da Emenda Constitucional nº 103/19, nos termos do que dispõe seu art. 6º”. 2. A jurisprudência desta Suprema Corte, conforme as Súmulas nº 282 e 356/STF: “Inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”, bem como “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.” 3. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. Agravo interno conhecido e não provido. 5. A teor do art. 85, § 11, do CPC/2015, o “tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento”. (ARE 1352295 ED-AgR, Relator(a): ROSA WEBER, Primeira Turma, julgado em 28/03/2022, PROCESSO ELETRÔNICO DJe-065 DIVULG 01-04-2022 PUBLIC 04-04-2022)
+
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. APOSENTADORIA ESPONTÂNEA. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL: SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. INAPLICABILIDADE DO TEMA 606 DA REPERCUSSÃO GERAL. INEXISTÊNCIA DE EXTINÇÃO AUTOMÁTICA DO CONTRATO DE TRABALHO. PAGAMENTO DA MULTA DO FUNDO DE GARANTIA POR TEMPO DE SERVIÇO – FGTS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (ARE 1299638 AgR, Relator(a): CÁRMEN LÚCIA, Segunda Turma, julgado em 03/05/2021, PROCESSO ELETRÔNICO DJe-085 DIVULG 04-05-2021 PUBLIC 05-05-2021)
+
+    Verifica-se, portanto, que o acórdão recorrido está em consonância à jurisprudência dominante desta Corte, que firmou o entendimento segundo o qual a aposentadoria espontânea não extingue o contrato de trabalho, fazendo jus o empregado, em caso de dispensa imotivada, à multa 40% do FGTS sobre a totalidade dos depósitos efetuados no curso do pacto laboral.
+
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, b, do CPC.
+
+    Publique-se. Intime-se.
+
+    Brasília, 05 de maio de 2022.
+
+Ministro Edson Fachin
+
+Relator
+
+Documento assinado digitalmente
