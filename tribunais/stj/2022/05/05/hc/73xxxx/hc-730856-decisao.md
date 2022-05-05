@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de SERGIO DE MOURA SOEIRO, JORGE LUIZ GOMES CHRISPIM e JOAO LUIZ FERREIRA CARNEIRO contra v. acórdão proferido pelo eg. Tribunal Regional Federal da 3ª Região, nos autos da apelação criminal n. 0003417-08.2009.403.6181.
+Depreende-se dos autos que os pacientes foram condenados, em primeira instância, às penas de 04 (quatro) anos e 04 (quatro) meses de reclusão, em regime inicial semiaberto, mais o pagamento de 61 (sessenta e um) dias-multa, como incursos nas iras do art. 4º da Lei n. 7.492/1986 (fls. 40-75).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por maioria, deu provimento ao recurso, a fim de redimensionar as penas dos pacientes em 04 (quatro) anos de reclusão, em regime inicial aberto, mais o pagamento de 13 (treze) dias-multa, substituindo as penas privativas de liberdade por duas penas restritivas de direitos, consoante voto condutor do v. acórdão de fls. 88-99.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois a pretensão punitiva está prescrita, nos termos do art. 110, § 2º, do Código Penal, com redação anterior à Lei n. 12.234/2010, uma vez que os fatos imputados aos pacientes foram praticados entre 19/12/2005 a 16/12/2005.
+Aduz que há nulidade processual, tendo em vista que os advogados dos réus não foram intimados devidamente dos atos processuais.
+Argumenta que "I) a defesa dos Pacientes não foi intimada a respeito da digitalização do processo; II) a representação processual dos Pacientes não foi respeitada pelo Tribunal na digitalização e inserção no processo ao PJe e; III) o trânsito em julgado se deu sem um contraditório efetivo e razoável, já que ausente a devida intimação das partes e de seus representantes" (fl. 17).
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 124-125).
+Informações prestadas às fls. 128-208 e 211-219.
+O Ministério Público Federal, às fls. 220-224, manifestou-se pelo não conhecimento do writ e, subsidiariamente, pela concessão da ordem, em parecer assim ementado:
+"HABEAS CORPUS. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIADE PREVISÃO CONSTITUCIONAL PARA O CABIMENTO DE HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PRESCRIÇÃO RETROATIVA. DATA DOS FATOS ANTERIOR ÀLEI N. 12.234/2010. PENA FIXADA EM 4 (QUATRO ANOS) DECURSO DE PRAZO SUPERIOR A 8 (OITO) ANOS ENTRE ADATA DOS FATOS E RECEBIMENTO DA DENÚNCIA. EXTINÇÃO DA PUNIBILIDADE.
+- A jurisprudência do STJ e do STF assentou o entendimento de que o habeas corpus não deve ser conhecido quando consistir em utilização inadequada da garantia constitucional, em substituição aos recursos ordinariamente previstos nas leis processuais.
+- Considerando que os fatos ocorreram em 2005, antes da entrada em vigor da Lei n. 12.234/2010, aplica-se à hipótese a regra do §1o do art.110 do Código Penal na redação anterior.
+- No caso em apreço, tendo em vista a pena aplicada (4 anos), aplica-se o prazo prescricional do art. 109, IV, de 8 anos.
+- Conforme constam dos autos, os fatos ocorreram entre 19/12/2005 a 26/12/2005 e o recebimento da denúncia ocorreu apenas em 10/02/2015, transcorrido assim o lapso temporal necessário para o reconhecimento da prescrição.
+- Parecer pelo não conhecimento do habeas corpus e pela concessão da ordem de ofício para que seja reconhecida a extinção da punibilidade dos pacientes" (fl. 220).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) a extinção da punibilidade dos pacientes, haja vista a ocorrência da prescrição da pretensão punitiva; ii) a nulidade do trânsito em julgado e a abertura de prazo para intimação do acordão que julgou a apelação.
+Inicialmente, constata-se que a insurgência relativa à prescrição alegada pela defesa, não foi objeto de análise pela Corte local, na medida em que, pelo que consta do acórdão impugnado, foi tão somente reclamada a este Tribunal Superior.
+Assim, considerando que o eg. Tribunal de origem não se pronunciou sobre a mencionada controvérsia, esta Corte Superior fica impedida de se debruçar sobre as matérias, sob pena de incorrer em indevida supressão de instância.
+Ocorre, que a extinção da punibilidade, em razão da prescrição da pretensão punitiva, constitui matéria de ordem pública, que pode ser conhecida de ofício, em qualquer grau de jurisdição, nos termos do artigo 61 do Código de Processo Penal. Sobre o tema: RHC n. 63.273/ES, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 06/10/2017).
+No presente caso, os pacientes foram condenados à pena 04 (quatro) anos de reclusão, mais o pagamento de 13 (treze) dias-multa, subsumindo-se, portanto, a prescrição da pretensão punitiva ao prazo de 08 (oito) anos, nos termos do art. 109, inciso IV, do Código Penal.
+Denota-se que os fatos delitivos ocorreram em 09/12/2005 a 26/12/2005, a denúncia foi recebida no dia 10/02/2015, a sentença condenatória foi prolatada em 28/22/2017, e o julgamento do recurso de apelação que confirmou a condenação e redimensionou a pena dos pacientes foi realizado em 28/06/2021.
+Registre-se, também, que, segundo informações, lançadas às fls. 128-208, o trânsito em julgado ocorreu em 20/07/2021.
+Saliente-se que "a atual redação do art. 110, § 1º, do CP veda a aplicação da prescrição retroativa entre a data do fato e do recebimento da denúncia, contudo, como norma de natureza de direito penal, incide o princípio tempus regit actum, o que significa que, no caso, não terá efeito porquanto o fato praticado foi anterior à Lei n. 12.234/2010, que promoveu a sua alteração" (PET nos EDcl no AgRg no AREsp n. 553.364/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/12/2019).
+Dessa forma, considerando o transcurso do lapso de mais de 08 (oito) anos entre a data dos fatos e o recebimento da denúncia, denota-se que o prazo prescricional foi alcançado, nos termos dos arts. 109, IV, 110, caput, § 1º, 115 e 117, I, do Código Penal.
+Ante o exposto, não conheço do habeas corpus.
+Contudo, concedo a ordem de ofício, para declarar a extinção da punibilidade dos pacientes pelo implemento da prescrição da pretensão punitiva, nos termos dos arts. 109, IV, 110, caput, § 1º, e 117, I, do Código Penal.
+P. e I.
