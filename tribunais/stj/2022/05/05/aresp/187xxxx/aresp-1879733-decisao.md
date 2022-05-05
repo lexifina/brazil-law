@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado por LUIZ FELIPE CARON E OUTROS contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 554):
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL OBJETIVA. ART. 37, § 6º, DA CF. PRESCRIÇÃO. DECRETO 20.910/32. PERSEGUIÇÃO POLICIAL. NEGLIGÊNCIA. DISPARO DE TIRO QUE ACERTOU MOTORISTA DE OUTRO VEÍCULO. DANOS MORAIS. NEXO CAUSAL COMPROVADO. ARBITRAMENTO NA PROPORÇÃO DA CULPA. JUROS DE MORA QUE DEVEM FLUIR A PARTIR DO EVENTO DANOSO. CORREÇÃO MONETÁRIA QUE INCIDE A CONTAR DA DATA DO ARBITRAMENTO. DANOS MATERIAIS. COMPROVADOS. PENSÃO VITALICÍA. HONORÁRIOS ADVOCATÍCIOS. ART. 20, § 4º, DO CPC. APELAÇÃO PROVIDA.
+Opostos embargos declaratórios, foram acolhidos, consoante a seguinte ementa (fl. 763):
+EMBARGOS DE DECLARAÇÃO. PENSÃO VITALÍCIA. TERMO DE INICIO. DATA DO EVENTO DANOSO. DESPESAS COM TRATAMENTO FISIOTERÁPICO. JUROS E CORREÇÃO MONETÁRIA. DANO ESTÉTICO. RECURSO ACOLHIDO.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 20, §§ 3º e 4ºdo CPC/73.
+Sustenta que o acórdão recorrido deveria ter fixado os honorários advocatícios em valor superior condizente com a complexidade e valor da causa.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 ("Aos recursos interpostos com fundamento no CPC/73 -relativos a decisões publicadas até 17 de março de 2016 -devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça").
+Feita essa ponderação, verifica-se que o recurso não comporta êxito.
+Com efeito, ajurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível, em recurso especial, a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+No caso, ao arbitrar os honorários advocatícios, o Tribunal local levou em consideração o seguinte (fl. 564):
+Por fim, considerando o grau de zelo profissional (processo que demandou diversas manifestações dos procuradores), a natureza e importância da causa (ação de indenização com juízo de valor sobre responsabilidades e análise de diversos documentos), bem como o trabalho realizado pelo advogado (tempo de duração do processo até a sentença de 1º grau, aproximadamente quatro anos e meio), circunstâncias legais previstas no parágrafo 3º do art. 20 do CPC e, ainda, sem desconsiderar o trabalho feito pela parte apelada e as diretrizes do art. 20, § 4º, do CPC, com inquirição de testemunhas, voto no sentido arbitrar os honorários em valor certo, na quantia de R$ 10.000,00 (dez mil reais).
+Dessarte, não configurada a excepcionalidade exigida pela jurisprudência desta Corte, não se mostra possível a majoração dos honorários advocatícios pleiteada pela parte ora agravante. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO APELO NOBRE. EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDOS. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO RECURSAL. HONORÁRIOS SUCUMBENCIAIS. ARTIGO 20, §§ 3º E 4º, DO CPC/73. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1.  ..
+3. Nos termos da jurisprudência desta Corte, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exige novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+4. Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando verificado excesso ou insignificância da importância arbitrada, o que evidencia ofensa aos princípios da razoabilidade e da proporcionalidade, hipótese não configurada no caso dos autos.
+5. Agravo interno não provido.
+(AgInt no REsp 1.500.556/SE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/8/2020, DJe 31/8/2020)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
