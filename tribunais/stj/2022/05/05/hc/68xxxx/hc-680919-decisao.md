@@ -1,0 +1,11 @@
+DECISÃO
+Estehabeas corpus,impetrado em favor deDaniel Camilo sob a alegação de ausência de fundamentos concretos para a prisão cautelar e de ilegalidade do flagrante delito em razão da ocorrência de violação de domicílio, perdeu o objeto.
+Em recentes informações juntadas aos autos,foi noticiado que, em 2/5/2022, foi proferida sentença que condenou o paciente a 6 anos, 9 meses e 20 dias de reclusão, e 680 dias-multa, pela prática docrimede tráfico de drogas; e a 3 anos e 6 meses de reclusão, e 816 dias-multa, pela prática do crime de associação para o tráfico de drogas. Na oportunidade, foi-lhe fixado o regime inicial fechado e mantida a prisão cautelar (fls. 434/435).
+A sentença condenatória constitui novo título judicial a motivar a custódia cautelar, razão pela qual prosseguir na análise deste feito implicaria inadmissível supressão de instância. Afinal, o novo decreto não foi ainda submetido à análise da instância originária.
+Consoante precedentes desta Corte,havendo sido prolatada sentença condenatória em desfavor de um dos acusados, ainda que lhe tenha sido vedado o direito de apelar em liberdade, é de se julgar prejudicado o exame do habeas corpus quanto à higidez dos fundamentos invocados originariamente pelo Juízo de primeiro grau para imposição de sua custódia preventiva, para não incorrer em supressão de instância(HC n. 423.213/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/6/2018).
+Quanto à alegação de que oingresso na residência do paciente ocorreu sem mandado judicial ouautorização do residente no local,verifica-se que, ao proferir a sentença, o Magistrado de piso, em juízo de cognição mais amplo do que o atual,analisou eventual ilegalidade (fls. 411/413) e, como se sabe, a prolação desentença condenatória pressupõe a existência de prévia dilação probatória,que somente poderá ser desconstituída por meio do recurso cabível (apelação).
+Ante o exposto,julgo prejudicadoo habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA PROFERIDA NA ORIGEM. SUPERVENIÊNCIA. PRISÃO CAUTELAR MANTIDA. NOVA REALIDADE FÁTICA. TESE DE ILEGALIDADE DO FLAGRANTE. VIOLAÇÃO DE DOMICÍLIO. QUESTÃO ENFRENTADA NA SENTENÇA CONDENATÓRIA EM JUÍZO DE COGNIÇÃO AMPLA E EXAURIENTE.PERDA DO OBJETO.
+Writ prejudicado.
