@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial. O apelo extremo, interposto com base no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"INDENIZAÇÃO. Ação fundada em inadimplemento contratual imputado à promitente-vendedora (entrega de vaga de garagem com metragem inferior à contratada). Ausência de pedido de complementação de área ou de abatimento proporcional do preço a atrair a incidência do prazo decadencial de 90 dias previsto no art. 26 do CDC ou do prazo ânuo estabelecido nos arts. 500 e 501 do CC. Lesão sujeita ao prazo prescricional decenal do art. 205 do CC. Preliminar afastada.
+INDENIZAÇÃO. Compromisso de compra e venda de bem imóvel. Propalada natureza ad mensuram do negócio jurídico não evidenciada. Instrumento contratual que não vinculara o preço do bem às suas medidas. Diferença mínima na metragem que não ultrapassara o percentual de 5% expressamente tolerado na avença (cláusula 2.5). Sentença reformada.
+LITIGÂNCIA DE MÁ-FÉ. Propositura de diversas ações com base no mesmo negócio jurídico e com pedidos diferentes. Nítido propósito de potencializar os honorários sucumbenciais. Situação que, apesar de lamentável, não se amolda à nenhuma das hipóteses legais descritas no art. 80 do CPC. Inviabilidade de responsabilizar a parte, que não se beneficia da verba honorária sucumbencial (art. 23 da Lei n. 8.906/94; art. 85, § 14, do CPC), pelo emprego de prática processual inadequada por seu patrono.Penalidade por litigância de má-fé afastada. Sentença reformada. Recurso da ré provido. Recurso dos autores parcialmente provido" (fls. 472/473 e-STJ).
+As razões do recurso alegam a violação do art. 369 do Código de Processo Civil.
+Sustentam que "a prova pericial era a única forma que os Recorrentes tinham de demonstrar a real metragem de sua vaga, ou seja, a única forma de provar a verdade dos fatos. Se tal prova não fosse necessária os mesmos não teriam insistido tanto para sua realização, pois sabem que nos contratos firmados entre as partes havia a previsão de que a garagem teria 12m , que há a possibilidade de diferenças em até 5% de metragem e que a garagem poderia ser em piso cimentado e/ou grama" (fl. 489 e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+No que se refere à ofensa aoart. 369 do Código de Processo Civil,verifica-se que a matéria versada nodispositivoapontadocomo violadono recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+A respeito da diferença de metragem da vaga de garagem, o acórdão afirma que não ficou comprovada, não havendo no julgado qualquer menção sobre a necessidade, ou não, de produção da prova pericial. Limitou-se o relator a afirmar que "não se verifica que o preço do imóvel viesse estipulado por medida de extensão, daí porque prevalece a presunção juris tantum da menção meramente enunciativa da área quadrada então apontada" (fl. 478 e-STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 1.250,00 (mil duzentos e cinquentareais), os quais devem ser majorados para R$ 1.500,00 (mil e quinhentos reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
