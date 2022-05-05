@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido de liminar, interposto em face de acórdão assim ementado (fl. 47):
+HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO AO TRÁFICO. PRISÃO PREVENTIVA. MANUTENÇÃO. A PRIMARIEDADE DEVE SER AFERIDA CONCOMITANTEMENTE COM AS CIRCUNSTÂNCIAS DO FATO E A GRAVIDADE DO CRIME. CIRCUNSTÂNCIAS DO FATO E GRAVIDADE DO CRIME DEMONSTRAM A NECESSIDADE E ADEQUAÇÃO DA MANUTENÇÃO DA SEGREGAÇÃO. INDICAÇÃO DE QUE O TRÁFICO NÃO ERA OCASIONAL, HAVENDO UM ENVOLVIMENTO MAIS ÍNTIMO COM A CRIMINALIDADE. APREENSÃO DE CRACK E MACONHA, BEM COMO DE UM RÁDIO COMUNICADOR, BALANÇA DE PRECISÃO E R$ 1290,00. OUTROSSIM, O PACIENTE TERIA INDICADO QUE AGUARDAVA TERCEIRA PESSOA, RESPONSÁVEL PELO RECOLHIMENTO DO DINHEIRO. O CORRÉU TERIA SE APROXIMADO E TEVE APREENDIDA PORÇÃO RELEVANTE DE COCAÍNA. A SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR MEDIDA DIVERSA NÃO SERIA CAPAZ DE AFASTAR O PERICULUM LIBERTATIS. ORDEM DENEGADA.
+Consta dos autos que o recorrente foi preso preventivamente pela suposta prática do crime previsto no art. 33,caput, da Lei n. 11.343/2006.
+Alega a defesa, em suma, inidoneidade da fundamentação do decreto para a manutenção da custódia preventiva, ressaltando a pequena quantidade de entorpecentes apreendida, bem comoo fato do acusado ser primário.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+No decreto assim se dispôs (fls. 19-20):
+Levando-se em consideração a orientação ilustrada no artigo 282, inciso I, do Código de Processo Penal, no sentido de ser a medida aplicada de acordo com a gravidade do crime, as circunstâncias do fato e as condições pessoais do acusado, conclui-se a ineficácia de qualquer delas no caso concreto.
+Isso porque se está diante de tráfico ilícito de entorpecentes e com os flagrados houve a apreensão de 80 gramas de maconha, 111 gramas de cocaína, 03 gramas de crack, R$ 1.747,00(em dinheiro trocado), 01 balança de precisão, 01 rádio e 02 celulares, em local noticiado à Brigada Militar como ponto de tráfico da cidade.
+Embora não seja admitida a prisão preventiva tão somente por conta da natureza da infração penal cometida pelo suspeito, as seguintes medidas cautelares diversas da constrição são, objetivamente, incompatíveis com o tráfico ilícito de drogas: comparecimento periódico em Juízo; proibição de acesso ou frequência a determinados lugares; proibição de manter contato com pessoa determinada; proibição de ausentar-se da Comarca; e monitoração eletrônica.
+Não há comprovação de endereço ou trabalho fixo para fins da medida cautelar disposta no artigo 319, inciso V, do Código de Processo Penal (recolhimento domiciliar no período noturno e nos dias de folga).
+Não há registro de que o representado exerça função pública ou atividade de natureza econômica ou financeira para fins da medida prevista no artigo 319, inciso VI, do Código de Processo Penal (suspensão do exercício das funções).
+Não há indicativos, nem dúvida razoável, por ora, a respeito da integridade mental do flagrado, aos efeitos de indicarem a sua inimputabilidade ou semi-imputabilidade, para o caso de determinar a internação provisória com fulcro no artigo 319, inciso VII, do Código de Processo Penal.
+Incabível, dessa forma, a aplicação de qualquer medida alternativa prevista no Código de Processo Penal no momento presente.
+Por outro lado, reputo comprovada a existência do fato e estarem presentes os indícios de autoria na pessoa dos flagrados através da apreensão e laudo preliminar apontando ser crack, maconha e cocaína as substâncias apreendidas com os acusados.
+Como se vê, a custódia preventiva foi decretada com base na "apreensão de 80 gramas de maconha, 111 gramas de cocaína, 03 gramas de crack, R$ 1.747,00(em dinheiro trocado), 01 balança de precisão, 01 rádio e 02 celulares, em local noticiado à Brigada Militar como ponto de tráfico da cidade" (fl. 19).
+Assim, a custódia preventiva deve ser relaxada, com esteio na jurisprudência desta Sexta Turma, que entende que a apreensão de inexpressiva quantidade de drogas somente com especial justificação permitirá a prisão por risco social, o que não é o caso dos autos.
+Ante o exposto, dou provimento liminarmente ao recurso em habeas corpus para a soltura dos recorrentes.
+Comunique-se.
+Publique-se.
+Intimem-se.
