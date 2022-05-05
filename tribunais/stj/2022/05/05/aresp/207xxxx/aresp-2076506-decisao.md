@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravointerposto contra decisão que inadmitiu o recurso especial com fundamento na Súmula 83 do STJ.
+Sustenta o agravante que a matéria deduzida no recurso especial corrobora a orientação jurisprudencial desta Corte, razão pela qual requer o seu provimento.
+Apresentada contraminuta, manifestou-se o Ministério Público pelo improvimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada, razão pela qual deve ser conhecido para julgar o recurso especial, no qual apontaviolação do art. 28-A do CPP e art. 2º, parágrafo único, do CP, pretendendo a conversão do feitoem diligência para possibilitar o oferecimento do acordo de não persecuçãopenal previsto no art. 28-A do CP, introduzido pela Lei 13.964/19.
+O recorrente foi condenado à pena de 2anos, 9 meses e 10 dias de reclusão e 26 dias-multa, como incurso no art. 168, §1º, III, c/c 71 ambos do Código Penal, sendoimprovido o recurso de apelação.
+A defesa busca a aplicação retroativa da Lei 13.964, de 24/12/2019, que introduziu o instituto do acordo de não persecução penal, tipificado no art. 28-A da citada lei.
+A Sexta Turma, ao concluir o julgamento do HC 628.647/SC, em 9/3/2021, por maioria de votos, firmou compreensão de que, diante do princípio tempus regit actum em conformação com a retroatividade penal benéfica, o acordo de não persecução penal incide aos fatos ocorridos antes da entrada em vigor da Lei 13.964/2019, desde que ainda não se tenha sido recebida a denúncia.
+Na mesma linha, esta Corte sufragou o entendimento de que "a retroatividade do art. 28-A, do CPP, introduzido pela Lei n. 13.964/2019, se revela incompatível com o propósito do instituto, quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias, estando o feito sentenciado, inclusive com condenação confirmada em sede de apelação criminal, como na espécie" (EDcl no AgRg no AREsp 1807393/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 13/4/2021).
+A propósito, vale ainda destacar o entendimento recente da 1ª Turma do Supremo Tribunal Federal na apreciação do HC 191.464/SC, da relatoria do Ministro Luís Roberto Barroso, cujo acórdão encontra-se assim ementado:
+EMENTA: Direito penal e processual penal. Agravo regimental em habeas corpus. Acordo de não persecução penal (art. 28-A do CPP). Retroatividade até o recebimento da denúncia.
+1. A Lei nº 13.964/2019, no ponto em que institui o acordo de não persecução penal (ANPP), é considerada lei penal de natureza híbrida, admitindo conformação entre a retroatividade penal benéfica e o tempus regit actum.
+2. O ANPP se esgota na etapa pré-processual, sobretudo porque a consequência da sua recusa, sua não homologação ou seu descumprimento é inaugurar a fase de oferecimento e de recebimento da denúncia.
+3. O recebimento da denúncia encerra a etapa pré-processual, devendo ser considerados válidos os atos praticados em conformidade com a lei então vigente. Dessa forma, a retroatividade penal benéfica incide para permitir que o ANPP seja viabilizado a fatos anteriores à Lei nº 13.964/2019, desde que não recebida a denúncia.
+4. Na hipótese concreta, ao tempo da entrada em vigor da Lei nº 13.964/2019, havia sentença penal condenatória e sua confirmação em sede recursal, o que inviabiliza restaurar fase da persecução penal já encerrada para admitir-se o ANPP.
+5. Agravo regimental a que se nega provimento com a fixação da seguinte tese: "o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia" (HC 191464 AgR, Relator(a): ROBERTO BARROSO, Primeira Turma, julgado em 11/11/2020, PROCESSO ELETRÔNICO DJe-280 DIVULG 25-11-2020 PUBLIC 26-11-2020).
+No caso, o fato foi praticado no período compreendido entre fevereiro de 2015 e fevereiro de 2016(fl. 8), sendoa denúncia recebida em 16/5/2019 (fl. 112). O acórdão impugnado, portanto, encontra-se em consonância com a orientação jurisprudencial desta Corte de que, uma vez recebida a denúncia, incabível a retroatividade do art. 28-A do CPP.
+Incide, pois, a Súmula 83/STJ, também empregado aos recursos interpostos com fulcro na alínea a do permissivo constitucional.
+Ante o exposto, conheço do agravo para negarprovimento ao recurso especial.
+Publique-se.
+Intimem-se.
