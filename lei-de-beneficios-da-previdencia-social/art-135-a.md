@@ -1,0 +1,1 @@
+Art. 135-A. Para o segurado filiado à Previdência Social até julho de 1994, no cálculo do salário de benefício das aposentadorias, exceto a aposentadoria por incapacidade permanente, o divisor considerado no cálculo da média dos salários de contribuição não poderá ser inferior a 108 (cento e oito) meses.
