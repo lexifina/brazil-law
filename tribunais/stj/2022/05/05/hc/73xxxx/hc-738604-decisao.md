@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de LUIS FELIPE SANTOS DE LIMAcontra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido no Recurso em Sentido Estrito n.5004945-16.2021.8.21.0141.
+Narra a Defesa que o Paciente "teve sua liberdade violada mediante seu encarceramento provisório realizado em 04/02/2021, por ter sido preso em flagrante, pela prática, em tese, dos delitos de tráfico de entorpecentes e porte de arma de fogo" (fl. 3).
+Informa, ainda, que " f oi homologado o flagrante, sendo concedida a liberdade provisória ao acusado, mediante condições" (fl. 4).
+Inconformado com a soltura do Acusado, o Ministério Público Estadual interpôs recurso em sentido estrito, que foi provido pelo Tribunal de origem para determinar a prisão preventiva do Paciente, consoante se observa da ementa acostadaàs fls. 14-15.
+Nestewrit, a Parte Impetrantesustenta:a)a ausência de fundamentação idônea e dos requisitos legais para a decretação da constrição provisória pela Corte a quo; b)que o Paciente possui as condições pessoais favoráveis para permanecer em liberdade e c) a suficiência das medidas cautelares alternativas dispostas no art. 319 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a imposição de medidas cautelares alternativas ao cárcere.
+É o relatório.Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos.Com efeito, a Defesanão juntou aos autos a cópia da decisão que homologou a prisão em flagrante do Paciente e posteriormente lhe concedeu a liberdade provisória, tampouco do inteiro teor acórdão combatido,peças necessárias à devida compreensão da controvérsia.
+Como se sabe, "a adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe de 07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, a petição inicial deve ser liminarmente indeferida, porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido: " o  habeas corpus, porquanto vinculado à demonstração deplano de ilegalidade, não se presta a dilação probatória, exigindo provapré-constituída das alegações, sendo ônus do impetrante trazê-la nomomento da impetração, máxime quando se tratar de advogado constituído"(HC 528.643/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em17/12/2019, DJe 03/02/2020).
+Ressalto que não há óbice ao manejo de novo writ para a análise da controvérsia, desde que seja juntada a documentação faltante.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL.INSTRUÇÃO DEFICIENTE DO FEITO. AUSÊNCIA DE DOCUMENTAÇÃOESSENCIAL À ANÁLISE DACONTROVÉRSIA. PETIÇÃOINICIALINDEFERIDALIMINARMENTE.
