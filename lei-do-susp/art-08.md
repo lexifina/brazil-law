@@ -9,3 +9,4 @@ e) o Programa Nacional de Qualidade de Vida para Profissionais de Segurança Pú
 III - (VETADO);
 IV - o Plano Nacional de Enfrentamento de Homicídios de Jovens;
 V - os mecanismos formados por órgãos de prevenção e controle de atos ilícitos contra a Administração Pública e referentes a ocultação ou dissimulação de bens, direitos e valores.
+VI - o Plano Nacional de Prevenção e Enfrentamento à Violência contra a Mulher, nas ações pertinentes às políticas de segurança, implementadas em conjunto com os órgãos e instâncias estaduais, municipais e do Distrito Federal responsáveis pela rede de prevenção e de atendimento das mulheres em situação de violência.
