@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Luiz Eduardo da Silva Pereira, condenado a 18 anos de reclusão e 1 ano e 5 meses de detenção, em regime inicial fechado, pela prática dos crimes de extorsão mediante sequestro e posse irregular de arma de fogo de uso permitido.
+Ataca-se acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro (fls. 12/27), que manteve a sentença condenatória prolatada na Ação Penal n. 0029705-73.2019.8.19.0066 (fls. 53/65), da Vara Única da comarca de Paraty/RJ.
+Alega-se constrangimento ilegal consistente na condenação pelo delito de posse irregular de arma de fogo de uso permitido, ao argumento de possibilidade de reconhecimento da consunção entre o crime de posse de arma de fogo de uso permitido e o crime de extorsão mediante sequestro, pois, conforme se constata da peça vestibular abaixo, o uso da arma de fogo se deu no mesmo contexto fático do crime de extorsão mediante sequestro (fl. 7).
+Requer-se, então, a concessão da ordem, inclusive em caráter liminar,com a absorção do crime de posse de arma pela extorsão mediante sequestro (fl. 10).
+É o relatório.
+Busca a impetração o reconhecimento da consunção entre o crime de posse de arma de fogo de uso permitido e o crime de extorsão mediante sequestro - na condenação do paciente a 18 anos de reclusão e 1 ano e 5 meses de detenção, em regime inicial fechado -, ao argumento de delito cometidono mesmo contexto fático.
+Da análise dos autos, tem-se que a pretensão foi afastada na sentença condenatória, nos seguintes termos (fl. 62):
+Concurso de crimes
+No caso, o concurso entre o crime de extorsão mediante sequestro e os crimes da Lei 10.826/03 é o previsto no art. 69 do CP, na medida em que os acusados, com mais de uma ação e em contextos relacionados, praticaram dois fatos típicos.
+Dessa forma, as provas produzidas em juízo reiteraram as da fase inquisitorial, mostrando-se harmônicas e coesas, eficazes a embasar a superveniência de um decreto condenatório, sendo que a conduta do réu Maicon é típica, amoldando-se perfeitamente à descrição legal do art. 159, §1º, do CP e do art. 16, parágrafo único, IV, da Lei 10.826/03, na forma do art. 69 do CP, assim como a do réu Luiz Eduardo, amoldando-se perfeitamente à descrição legal do art. 159, §1º, do CP e a do art. 12, caput, da Lei 10.826/03, na forma do art. 69 do CP. A ação dos acusados é, ainda, antijurídica, porquanto não agiram acobertados por qualquer causa excludente de ilicitude, e culpável, por serem imputáveis e terem consciência da ilicitude, sendo, ainda, exigível, diante da hipótese concreta, que assumissem postura diversa.
+A seu turno, a Corte estadual também afastou as alegaçõesmandamentais, aos seguintes fundamentos (fls. 23/24):
+Por conseguinte, como pode ser observado, a condenação pelo crime de extorsão qualificada não está alicerçada única e exclusivamente nos depoimentos prestados acima, mas em todo acervo probatório coligido aos autos durante a fase da prisão em flagrante e na instrução criminal, sob o crivo do contraditório e da ampla defesa.
+Entendo, pois, que os acusados sequestraram e mantiveram em cativeiro, por aproximadamente 32h (trinta e duas horas), a vítima, senhora Maria da Glória Belchior, com o fim de obterem, para si ou para outrem, vantagem econômica como condição ou preço de resgate, por intimidação e violência, indevida vantagem econômica, objetivando, com isso, um alto lucro pecuniário.
+Decerto que, ao prolatar a sentença ou o acórdão, o magistrado deve levar em consideração a culpabilidade, as consequências do crime, a repercussão social do fato e o mal causado à sociedade com as condutas criminosas.
+Aliás, segundo o Enunciado da Súmula nº 96 do Superior Tribunal de Justiça, in litteris:
+"O crime de extorsão consuma-se independentemente da obtenção da vantagem indevida".
+No mais, não devem ser acolhidas também as teses de erro de procedimento e erro de julgamento, pois como visto agiu com inteira correção o Juízo de Piso. Não há de se falar, no mesmo sentido, em aplicação do princípio da consunção, isso porque os crimes entre si são autônomos, a par de terem sido praticados em contextos diversos.
+Então, razão assiste à impetração, haja vista que os delitos de roubo majorado pelo concurso de pessoas tentado e o de porte ilegal de arma de fogo foram praticados no mesmo contexto fático, sendo que este último foi um meio empregado para a prática daquele (HC n. 138.530/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/5/2010).
+No mesmo sentido: HC n. 155.541/SP, Ministro Felix Fischer, Quinta Turma, DJe 4/10/2010.
+Conclui-se, então, que a impetração evidenciou constrangimento ilegal no acórdão ora hostilizado.
+Em razão disso, concedo liminarmente a ordem impetrada para reconhecer a aplicação do princípio da consunção, absolvendo o paciente da prática do crime de posse irregular de arma de fogo de uso permitido, na condenação proferida na Ação Penal n. 0029705-73.2019.8.19.0066, da Vara Única da comarca de Paraty/RJ.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CONDENAÇÃO. EXTORSÃO MEDIANTE SEQUESTRO E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. PACIENTE CONDENADO EM CONCURSO MATERIAL. PRETENSÃO DE APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO AO CASO. POSSIBILIDADE. ARMA UTILIZADA DENTRO DO MESMO CONTEXTO FÁTICO EM QUE PRATICADO O CRIME CONTRA O PATRIMÔNIO. PRECEDENTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
