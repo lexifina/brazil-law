@@ -1,0 +1,14 @@
+DECISÃO
+CLENILTON CLEDISON RAMOS TEODORO, acusado por roubo circunstanciado, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, que denegou a ordem impetrada naquela Corte, na qual pretendia a defesa a revogação da preventiva, objetivo este reiterado nesta oportunidade.
+Indeferida a liminar (fls. 277-278) e prestadas as informações (fls.281-295), foram os autos ao Ministério Público Federal, que opinou pelo não conhecimento do habeas corpus, ou caso conhecido, por sua denegação, notadamente porque a decisão constritiva encontra-se devidamente fundamentada (fls. 303-305).
+Decido.
+Em que pesem os argumentos externados pela defesa, penso que o habeas corpus não tem procedência, na linha dos argumentos externados pelo Ministério Público Federal.
+Deveras, conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do CPP.
+Na espécie, extrai-se do acórdão impugnado, que referenciou a decisão que decretou a preventiva, o seguinte (fl. 27, destaquei):
+ ..
+Nesse sentido, entendo que o estado de liberdade do paciente Clenilton gera perigo à ordem pública, uma vez que, como bem salientado nas informações prestadas pelo juízo coator, o paciente possui execução de pena pela prática de crime contra o patrimônio (0004096-14.2010.8.22.0004), portanto, em conformidade com o art. 313, I A reiteração na prática de crimes contra o patrimônio é fator que abala a ordem social.
+Como se observa, não há como deixar de considerar que a decisão do Magistrado de primeiro grau, chancelada pelo Tribunal de origem, indicou que o paciente possui execução penal pela justamente pela prática de crime contra o patrimônio.
+Tal circunstância, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar, a fim de evitar a concreta possibilidade de reiteração delitiva, sobretudo se levado em consideração que os fatos objeto de apuração no caso denotam gravidade.
+Nessa direção, é firme a jurisprudência deste Superior Tribunal, de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Diante do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
