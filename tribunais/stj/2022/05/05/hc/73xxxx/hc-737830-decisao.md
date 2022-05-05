@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Luciano dos Reis Brito, cumprindo pena privativa de liberdade de 5 anos e 10 meses de reclusão, em regime fechado, e 583 dias-multa, no mínimo legal, em razão de condenação pela prática do crime de tráfico de drogas (fl. 30).
+Ataca-se o acórdão proferido pelo Tribunal de Justiça de São Paulo no Agravo em Execução Penal n. 0009937-51.2021.8.26.0502 (fls. 91/95), que manteve o indeferimento de pedido de remição de pena por aprovação parcial no Exame Nacional do Ensino Médio (ENEM) na Execução n. 0001327-31.2020.8.26.0502 (fl. 63), da Unidade Regional de Departamento Estadual de Execução Criminal (DEECRIM 4ª RAJ) da comarca de Campinas/SP.
+Alega-se constrangimento ilegal consistente no indeferimento do pedido de remição de pena pelo estudo - ao argumento de que o paciente logrou sua aprovação parcial no EXAME NACIONAL DO ENSINO MÉDIO, nas seguintes matérias: CIÊNCIAS HUMANAS E SUAS TECNOLOGIAS (fl. 3) - e requer-se a concessão da ordem, inclusive em caráter liminar, para a decretação de 20 dias de REMIÇÃO DA PENA imposta a paciente (fl. 6).
+É o relatório.
+Busca a impetração a remição de 20 dias de pena - na execução de pena privativa de liberdade de 5 anos e 10 meses de reclusão, em regime fechado, e 583 dias-multa, no mínimo legal,pela prática do crime de tráfico de drogas -, em razão da aprovação parcial do paciente no Exame Nacional do Ensino Médio (ENEM).
+Inicialmente, transcrevo a fundamentação da decisão de primeiro grau, em relação à pretensão mandamental (fl. 63):
+Indefiro o pedido de remição, uma vez que a nota mínima em cada matéria é 450 pontos.
+Ao analisar o documento de fls.132 é possível perceber que referida nota não foi atingida.
+No mais, prossiga-se no cumprimento da pena.
+Por sua vez, a Corte local manteve a decisão de primeiro grau aos seguintes fundamentos (fls. 93/94):
+No caso em concreto, o recorrente, em razão da mera aprovação em uma área do conhecimento no Exame Nacional de Ensino Médio do ano de 2020, alega que preenche os requisitos legais para a obtenção da benesse, com respaldo no art. 126, § 5º, da LEP e na Recomendação nº 44/2013, do Conselho Nacional de Justiça.
+Diferentemente do sustentado pela combativa defesa, a mencionada recomendação apenas pretendeu dar a plena aplicação ao disposto no § 5º, do art. 126, da LEP, que menciona o acréscimo de 1/3 sobre as horas de estudos remidas em razão da conclusão do ensino fundamental, médio ou superior. Assim, nas hipóteses em que o réu, mesmo sem frequentar curso regular, consiga a conclusão do ensino fundamental ou médio em razão da obtenção de aprovação em exame prestado, deverá ter 50% das respectivas horas computadas.
+Na hipótese em apreço, o agravante cingiu-se a juntar aos autos um print retirado da internet com as notas de quatro áreas de conhecimento e da redação, sem qualquer documento comprobatório de que concluiu o ensino médio durante o cumprimento de sua pena (fls. 53). O mencionado documento comprova apenas que o sentenciado prestou o ENEM 2020, nada sendo comprovado quanto às horas efetivas de estudo ou mesmo a conclusão do ensino médio.
+Aceitar referido documento como prova de horas de estudo é demasiadamente temerário, pois, nada impediria que sentenciados que já obtiveram a devida formação no ensino médio ou até mesmo em cursos superiores prestassem o exame apenas para angariar a redução de considerável tempo de pena a cumprir, aproveitando-se, para tanto, de estudos adquiridos anteriormente ao tempo em que permaneceram reclusos".
+Assim, entendo que a remição pela participação no ENEM apenas deverá ser admitida nos casos em que houver a devida comprovação da conclusão do ensino médio durante o cumprimento da pena.
+Posto isto, pelo meu voto, nego provimento ao agravo.
+Então, razão não assiste à impetração, pois a Sexta Turma desta Corte Superior entende que, a despeito da inexigibilidade da comprovação de prévio estudo à realização dos supracitados exames de certificação, é imperioso destacar a ausência de constrangimento ilegal no acórdão vergastado, dado que, a partir da prova realizada em 2017, o Ministério da Educação deixou de prever a possibilidade de certificação da conclusão do ensino médio por meio do ENEM. Remanesce tão somente a emissão de certificado por meio da aprovação no ENCCEJA (AgRg no HC n. 543.257/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/3/2022).
+Conclui-se, então, que a impetração não demonstrou o constrangimento ilegal alegado no acórdão ora hostilizado.
+Em razão disso, indefiro liminarmente o presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELO ESTUDO. APROVAÇÃO PARCIAL NO ENEM. INCIDÊNCIA DA RECOMENDAÇÃO N. 44/2013 DO CNJ E DA RESOLUÇÃO N. 3/2010 DO CNE. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO DE CERTIFICAÇÃO PELO EXAME. PRECEDENTE DA SEXTA TURMA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente.
