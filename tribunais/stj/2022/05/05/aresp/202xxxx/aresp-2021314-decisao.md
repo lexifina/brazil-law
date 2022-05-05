@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto por CLARO S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"PRESTAÇÃO DE SERVIÇOS TELEFONIA RESCISÃO UNILATERAL DO CONTRATO. Estornos indevidos de comissões pagas à Autora. Existência. Perícia contábil suficientemente clara que apurou a existência de estornos cuja motivação não restou comprovada. Juros de mora. Termo inicial. Vencimento da prestação líquida e exigível. Mora "ex re". Pagamento mensal das comissões, devendo os juros moratórios correrem a partir da data do vencimento da dívida. Multa contratual de aviso prévio. Inexistência de relação de representação contratual. Previsão de multa rescisória no contrato. Força obrigatória dos contratos. Dever de observância da incidência da multa consignada em contrato. Termo de quitação. Descumprimento do quanto acordado. Ofensa à boa-fé objetiva. Acordo entre o setor comercial e o jurídico da Ré, onde a Ré se comprometeria a afastar a cobrança de multa rescisória mediante a outorga de termo de quitação dado pela Autora. Não cumprindo a Ré com a sua parte o termo de quitação não pode prevalecer. Danos morais. Inexistência. Ausência de provas nos autos que comprovem qualquer prejuízo à honra objetiva da Autora. Sentença parcialmente reformada. RECURSO DA RÉ PARCIALMENTE PROVIDO" (fl. 1.807, e-STJ).
+Os embargos de declaração foram rejeitados (fls. 1.841/1.875, e-STJ).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, a violação dos artigos 141,489, 492 e 1.022 doCódigo de Processo Civil de 2015 e 884 do Código Civil.
+De início, aduz que teria havido negativa de prestação jurisdicional no julgamento dos aclaratórios.
+Além disso, defende a existência de julgamentoextra petitaporque o Tribunal de origem desconsiderou a validade do termo de quitação eaplicou a multa da cláusula penal, apesar de a recorrida ter requerida aplicação de cláusuladiversa.
+Sustenta que a condenação da Recorrida a restituir comissões por serviços não concretizados gerou o enriquecimento sem causa da mesma.
+Por fim, afirma queos juros de mora incidem a partir da citaçãonas ações que buscam o pagamento de indenização decorrente de responsabilidade contratual.
+Contrarrazões às fls. 1.884/1.914 (e-STJ).
+O recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No tocante à violação dos arts. 489 e 1.022 do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DO ATO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DE DIREITO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/15. NÃO CARACTERIZADA. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. MATÉRIA INSUSCETÍVEL DE EXAME NA VIA ESPECIAL. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022 do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..)
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.654.518/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/6/2017, DJe 22/6/2017 - grifou-se).
+Quanto ao alegado julgamentoextra petita,consta o seguinte no acórdão recorrido:
+"(..)
+No que pertine à condenação ao pagamento da multa pelo descumprimento contratual, não houve julgamento extra petita, como quer fazer crer a Apelante/Ré.
+Ocorre que, o Juízo "a quo" entendeu não se tratar de uma relação jurídica de representação comercial, denominado contrato de "agência", onde teria a aplicação da Lei 4886/65 e do regramento do Código Civil (art. 710 à 721) pela ausência de seus requisitos e pelo fato de o contrato pactuado já prever a multa rescisória, não havendo se falar em julgamento diverso do pretendido pela Apelada/Autora.
+De fato, inobstante tratar-se ou não de representação comercial, a multa pela rescisão unilateral encontra fundamento no contrato, nos termos do princípio da força obrigatória dos contratos e na cláusula 8.1 b):
+(..)
+Ora, em que pese a referida cláusula prever penalidades apenas à "CONTRATADA", por tratar-se de um pacto sinalagmático, e adequando-se aos princípios da boa-fé objetiva, possível sua aplicação inversa, como bem delineado pelo magistrado "a quo", diante dos evidentes descumprimentos contratuais ocasionados pela Apelante/Ré, devendo-se o montante ser apurado em fase de liquidação.
+Prosseguindo, acerca do termo de quitação pactuado entre as partes (e-fls. 1310/1311), também sem razão a Apelante/Ré, pois apesar de tal documento remanescer acordado entre as partes que: "(..) verifica-se que, pela conversa gravada em reunião realizada entre as partes, é nítido ter havido descumprimento da Apelante/Ré do quanto firmado pelas partes, pois ficou claro que existia uma troca entre o setor comercial e o jurídico da CLARO, onde de um lado a Apelante/Ré afastaria a cobrança de multa rescisória e de outro a Apelada/Autora outorgaria o referido termo de quitação, como denota-se na fala do representante da Apelante/Ré "(..)digital 8:20 à 8:35 minutos), o que levou a Apelada/Autora a acreditar em tal acordo, até que foi surpreendida por cobrança extrajudicial da Apelante/Ré, para pagar uma multa em 30.DEZ.2015 no valor de R$ 932.428,39 (e-fls. 64/65).
+Dessarte, tendo a Ré descumprido a sua parte, ofendendo os princípios que regem a boa-fé objetiva, que devem insculpir toda e qualquer relação jurídica, mormente os princípios de lealdade e transparência, tal termo de quitação não merece prevalecer.
+(..)" (fls. 1.813/1.815, e-STJ).
+Com efeito, o órgão julgador não afrontou os limites objetivos da pretensão inicial, tampouco concedeu providência jurisdicional diversa do que foi arrolado como causa de pedir e pedido, tendo sido respeitado o princípio da congruência. Ademais, o entendimento deste Tribunal Superior é firme no sentido de que os pedidos formulados pelas partes devem ser analisados a partir de uma interpretação lógico-sistemática, não podendo o magistrado se esquivar da análise ampla e detida da relação jurídica posta em exame.
+Sobre o tema:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.DANO MORAL. MERO DESCUMPRIMENTO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PEDIDO. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA. JULGAMENTO EXTRA PETITA. AUSÊNCIA. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O entendimento do Superior Tribunal de Justiça é firme no sentido de que os pedidos formulados pelos recorrentes devem ser analisados a partir de uma interpretação lógico-sistemática, não podendo o magistrado se esquivar da análise ampla e detida da relação jurídica posta em exame. 4. Tendo a controvérsia sido decidida nos limites delineados na petição inicial, não há falar em julgamento extra petita.
+5. Agravo interno não provido"(AgInt no AREsp 1533766/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/11/2019, DJe 21/11/2019).
+"PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PREVIDÊNCIA PRIVADA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. JULGAMENTO EXTRA PETITA. AUSÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. VEDAÇÃO.
+1. O reexame de fatos e provas em recurso especial é inadmissível .
+2. Não há julgamento extra petita quando o julgador interpreta o pedido formulado na petição inicial de forma lógico-sistemática, a partir da análise de todo o conteúdo da peça inaugural.
+(..)
+6. Agravo não provido" (AgRg no REsp nº 1.439.300/RS, Rel. Ministra Nancy Andrighi, DJe 8/9/2014 - grifou-se).
+Em relação ao pagamento dos estornos, o Tribunal de origem assim se manifestou:
+"(..)
+Nessa linha, insustentável a defesa da Apelante/Ré, que somente argumenta acerca da inexistência de comprovação da cobrança de estornos de comissões realizadas fora dos parâmetros contratuais, quando sobejou evidente, segundo o laudo pericial, que tais estornos foramcobrados da Apelada/Autora e que houve falta de motivos para realizar tais cobranças, sendo os laudos do assistente técnico (e-fls. 1602/1621 e 1653/1659) incapazes de infirmar as conclusões do laudo judicial.
+(..)" (fls. 1.811/1.812, e-STJ).
+Nesse contexto, para rever tal entendimento, a partir da tesede que o pagamento dos estornosé indevido e enseja o enriquecimento sem causa da recorrida, demandaria a análise de cláusulas contratuais, de fatos e de provas dos autos, o que é inviável no recurso especial pelos óbices das Súmulas nºs 5 e 7/STJ.
+Por fim, no tocante à divergência jurisprudencial envolvendo os juros,constata-se a deficiência na fundamentação recursal pela não indicação dos dispositivos legais que teriam sido violados, o que atrai a incidência da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"PROCESSUAL CIVIL. JUROS MORATÓRIOS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 284/STF. NÃO SE PODE CONHECER DA DIVERGÊNCIA JURISPRUDENCIAL.
+1. Quanto aos juros moratórios, o Recurso Especial, apesar de interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. Aplicação, por analogia, da Súmula 284/STF.
+2. Da mesma forma, incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo se o recurso tiver sido interposto pela alínea "c" do permissivo constitucional .
+3. Agravo Regimental não provido" (AgRg nos EDcl no AREsp 87.521/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 4/4/2013, DJe 10/5/2013 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 12,5% (doze e meio por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, consideradaa sucumbência recíproca estabelecida na origem e observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
