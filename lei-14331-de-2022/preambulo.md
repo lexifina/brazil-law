@@ -1,0 +1,2 @@
+Altera a Lei nº 13.876, de 20 de setembro de 2019, e a Lei nº 8.213, de 24 de julho de 1991, para dispor sobre o pagamento de honorários periciais e sobre os requisitos da petição inicial em litígios e em medidas cautelares relativos a benefícios assistenciais e previdenciários por incapacidade; e revoga dispositivo da Lei nº 8.620, de 5 de janeiro de 1993.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
