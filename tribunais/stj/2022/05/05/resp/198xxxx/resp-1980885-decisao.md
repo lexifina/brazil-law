@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que deu parcial provimento ao apelo defensivo, assim ementado:
+PENAL. PROCESSO PENAL. APELAÇÃO CRIMINAL. DELITO DE ROUBO MAJORADO PELO CONCURSO DE AGENTES E PELO EMPREGO DE ARMA DE FOGO (ART. 157, § 2º, INC. II E § 2º-A, INC. I, DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DOS RÉUS.
+1)-INÉPCIA DA DENÚNCIA. AUSÊNCIA DE INDIVIDUALIZAÇÃO DAS CONDUTAS CRIMINOSAS SUPOSTAMENTE PRATICADAS.
+DENÚNCIA QUE DESCREVE SUFICIENTEMENTE AS CONDUTAS DELITIVAS, SEM PREJUDICAR A GARANTIA DE AMPLA DEFESA DOS RÉUS. DEVIDA OBSERVÂNCIA AOS REQUISITOS LEGAIS DO ART. 41, DO CPP. PRELIMINAR REJEITADA. IRREGULARIDADE 1.2)- NO PROCEDIMENTO DE RECONHECIMENTO PESSOAL E POR FOTOGRAFIA. FORMALIDADES PREVISTAS NO ART. 226, CPP, QUE CONSTITUEM MERA RECOMENDAÇÃO LEGAL. PRELIMINAR REJEITADA.
+2)-DELITO DE ROUBO MAJORADO PELO CONCURSO DE AGENTES E PELO EMPREGO DE ARMA DE FOGO. PLEITO DE ABSOLVIÇÃO POR AVENTADA INSUFICIÊNCIA PROBATÓRIA. TESE AFASTADA. AUTORIA E MATERIALIDADE DELITIVA FARTAMENTE COMPROVADA. PALAVRA DAS VÍTIMAS E DOS POLICIAIS MILITARES. VALIDADE. PRECEDENTES. VERSÃO DO RÉUSINCONGRUENTE, ISOLADA E NÃO DEMONSTRADA NOS AUTOS. CONDENAÇÃO MANTIDA.
+3)-PENA. PENA BASE (APELO 02). VETOR RELATIVO À 2.1) "CONDUTA SOCIAL". AFASTAMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. TESE ACOLHIDA. VEDADA A UTILIZAÇÃO DE INQUÉRITOS POLICIAIS E AÇÕES PENAIS EM ANDAMENTO. INTELIGÊNCIA DO ENUNCIADO DA SÚMULA 444, DO STJ. PENA READEQUADA. ATENUANTE (APELO 01). 2.2) MENORIDADE RELATIVA (ART. 65, INC. I, DO CP). RECONHECIMENTO. TESE ACOLHIDA. RÉU QUE AO TEMPO DA INFRAÇÃO ERA MENOR DE VINTE E UM ANOS. PENA READEQUADA. REGIME PRISIONAL. REGIME INICIAL 2.3) FECHADO MANTIDO PARA AMBOS OS RÉUS, NOS TERMOS DO ART. 33, §§ 2º E 3º, DO CP.
+APELOS CONHECIDOS E PROVIDOS EM PARTE.
+Sustenta a defesa violação doart. 226 do Código de Processo Penal.
+Aduz ilegalidade no reconhecimento pessoal, porquanto realizado em dissonância com o preceito legal.
+Requer o provimento do recurso, a fim de que seja reconhecida a ilegalidade, com a posterior decretação da absolvição.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo improvimento do recurso.
+Consta dos autos que os réus foram condenados como incursos no art.157, §2º, II e §2º-A, I, do Código Penal.
+Interposto o presente recurso especial e também impetrado o HC 705.486/PR, a irresignação acerca da nulidade pela violação do art. 226 do CPP foi apreciada no julgamento do writ,não tendo evidenciado ilegalidade. Nesse contexto, torna-se sem objeto o presente recurso com idêntico pedido.
+Ante o exposto, julgo prejudicado o recurso especial.
+Publique-se.
+Intimem-se.
