@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, em face decisão que indeferiu o pedido liminar no writ de origem.
+O paciente foi condenado àpenade 7 (sete)meses de detenção no regime inicial semiaberto, tendo-lhe sido concedido o direito de recorrer em liberdade.
+Após o trânsito em julgado da condenação, foi expedido mandado de prisão em desfavor do réu.
+O impetrante sustenta que a custódia do sentenciado é desproporcional, uma vez queé portador de doença pulmonar obstrutiva crônica (CID J44).
+Observa que o paciente, por se encontrar debilitado em razão de doença grave,teria direito a prisão domiciliar, consoante o disposto no art. 117, inciso II, da Lei de Execução Penal.
+Requer, liminarmente e no mérito, a concessão da ordem para que "seja concedida ordem de habeas corpus em favor do paciente para conceder o direito a prisão domiciliar, em razão da sua avançada idade e risco de morte iminente, em razão de diversos problemas de saúde, comunicando-se urgentemente o estabelecimento prisional para as devidas providências".
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A decisão do Tribunal de origem que indeferiu a liminar foi lançada nos seguintes termos (fls. 36):
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de ANTÔNIO MARTINS, CLESIO MEDEIROS JUNIOR, contra ato emanado pelo Juízo de Direito da Juizado Especial Cível e Criminal da Comarca de Mirandópolis.
+Sustenta o impetrante que o paciente foi condenado definitivamente como incurso no art. 305, do Código de Trânsito Brasileiro, impondo-lhe o juízo a quo a pena de 07 meses de detenção, em regime inicial semiaberto.
+Contudo, alega que o paciente é idoso, atualmente com 82 anos de idade, "é portador de doença pulmonar obstrutiva crônica (CID J44), fazendo uso de diversas medicações controladas, fornecida pelo Sistema Único de Saúde além de fazer uso de bomba de ar. Também é portador de doença urinária na próstata, hérnia inguinal, dentre outros" (fl. 04).
+Descreve que, diante da situação acima, o paciente faz jus a concessão de prisão domiciliar, dada "sua avançada idade e risco de morte iminente, em razão de diversos problemas de saúde", o que ora se requer, inclusive em sede de liminar.
+Indefiro o pedido liminar.
+Através da análise sumária da impetração, não se verifica nenhuma nulidade ou manifesto constrangimento ilegal a ensejar a concessão da tutela de urgência, cabível apenas quando se demonstrar evidente a ilegalidade do ato impugnado.
+Anoto, ademais, que a autoridade impetrada se trata do Juizado Especial Cível e Criminal da Comarca de Mirandópolis (fl.12).
+De toda forma, o paciente foi capturado em 04 de abril p. passado e a Defesa ingressou com o pedido em data recente, motivo pelo qual não houve tempo hábil de apreciação na origem, conforme relata a própria inicial.
+Contudo, de acordo com a manifestação da d. promotora de justiça (fls. 59/60), não se vislumbra, ao menos por ora, "evidente risco de morte" do paciente, visto a impetração descreve que o mesmo é dependente de remédios fornecidos pelo SUS. Segundo elementos trazidos, ao menos nesta fase de cognição sumária, não há como concluir pela impossibilidade de acompanhamento de sua saúde no cárcere.
+Nesse sentido, cabe consignar o entendimento do Egrégio Superior Tribunal de Justiça no sentido de que "somente em casos excepcionais é possível o deferimento da prisão domiciliar, quando demonstrada, de plano, a necessidade de especial tratamento de saúde, que não poderia ser suprida no local em que o condenado se encontra preso. Precedentes." (HC 207.907/PE, Rel. Ministro Gilson Dipp, Quinta Turma, julgado em 13/09/2011, DJe).
+Assim, não há flagrante ilegalidade a ser sanada nesta fase preliminar, sendo necessária uma análise mais detida perante o colegiado.
+Como se vê, a decisão atacada encontra-se devidamente fundamentada, pois o pedido de cumprimento de pena em regime domiciliar foi indeferido em razão de não haver demonstração de que o paciente esteja extremamente debilitado ou que o estabelecimento prisional não possa realizar o seu tratamento adequadamente.
+Nos termos da orientação jurisprudencial desta Corte, "Muito embora o art. 5º, III, da Resolução n. 62, de 18 de março de 2020, do CNJ não recomende a concessão de prisão domiciliar a condenado que cumpre pena em regime fechado, sobretudo quando responder por crime cometido com violência ou grave ameaça à pessoa e o art. 117 da Lei de Execução Penal somente permita a concessão de prisão domiciliar a executado que cumpre pena no regime aberto, a grave situação da saúde do executado, comprovada nos autos, configura nota de excepcionalidade que autoriza a concessão da prisãodomiciliar como medida humanitária. Precedentes: HC 574.582/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020 e HC 577.832/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/06/2020, DJe 04/08/2020 (HC 646.490/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/03/2021, DJe 19/03/2021).
+Não se verifica, portanto, ilegalidade para justificar a mitigação do enunciado da Súmula n. 691 do STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Comunique-se.
+Publique-se.
+Intimem-se.
