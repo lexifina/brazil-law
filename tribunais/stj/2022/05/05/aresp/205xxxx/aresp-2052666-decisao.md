@@ -1,0 +1,43 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Ponto Sul Internacional Business Ltda. contra decisão que não admitiu o recurso especial com base naSúmula 7/STJ(e-STJ, fls. 2.261-2.262).
+Na minuta do agravo, a parte refutou a citadaalegação, pugnando pela admissibilidade e análise do recurso especial.
+Ultrapassados os requisitos de conhecimento do presente agravo, passo a examinar o instrumento recursal, manejado com amparo no art. 105, III, "a", da CF/1988, em oposição a acórdão assim ementado (e-STJ, fl. 2.159):
+PERDIMENTO DE MERCADORIAS. OCULTAÇÃO DO REAL VENDEDOR. FALSIDADE DE DOCUMENTOS QUE INSTRUÍRAM A DI. Caracterizada a ocultação do real vendedor e demonstrada a falsidade de documentos que instruíram a declaração de importação, é de ser aplicada a pena de perdimento de mercadorias, com fulcro no art. 689, VI e XXII do Decreto 6.759, de2009.
+Os dois embargos de declaração opostos foram improvidos.
+Em suas razões, a insurgente alega a existência de violação dosarts. 489, § 1º, IV e 1.022, II, do CPC.
+Sustenta, em suma, que(e-STJ, fls. 2.244-2.245):
+O tribunal de origem deixou de se manifestar sobre os documentos apresentados nos Eventos 13 (COMP2) 37 (OUT2), ambos da primeira instância, os quais comprovam a existência da empresa exportadora dos produtos trazidos pela Recorrente, afastando a alegação de ocultação do real vendedor.
+Prossegue afirmando que (e-STJ, fl. 2.248):
+No caso em tela, o tribunal a quo deixou de se pronunciar sobre os argumentos e provas apresentados pela Recorrente, sobretudo àqueles referentes ao registro da empresa exportadora no Governo de Hong Kong, juntados nos Eventos 13 (COMP2) e 37 (OUT2), da primeira instância, uma vez que comprovada a existência da exportadora, o afastamento da multa administrativa de 100% calculada sobre o valor aduaneiro se impõe, por inexistir a alegação de que a Recorrente ocultou o real exportador dos produtos.
+Contrarrazões recursais às e-STJ, fls. 2.256-2.258.
+É o relatório.
+Não merece prosperar a tese de contrariedade aos arts. 489 e 1.022, II, do CPC/2015, uma vez que a Corte estadual julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Não há falar em omissão, obscuridade ou contradição do aresto.
+É o que depreende-se do seguinte excerto do acórdão recorrido àe-STJ, fl. 2.163:
+Os documentos instrutivos do despacho aduaneiro apontam como exportador e emissor da fatura comercial a empresa Magnus Trading Company, que teria domicílio em "Unit 1809, 18/F, Beverley Commercial Centre, 87-105, Chatham Road South, TST, KLN, Hong Kong". Diversos são os elementos, contudo, que indicam que os dados atinentes ao exportador são falsos, caracterizando tanto a falsificação da documentação apresentada quanto a ocultação do real exportador.
+O mesmo entendimento foi registrado por ocasião da sentença (e-STJ, fl. 2.065):
+Ainda, cabe referir a respeito do registro da empresa MAGNUS TRADING COMPANY em Hong Kong, que o documento constante no evento 13, apresenta endereço da mencionada empresa diverso daqueles inscritos nas faturas comerciais (doc. COMP2).
+Também ficou expressamente consignado nos aclaratórios opostos na primeira instância (e-STJ, fls. 2.087-2.088):
+A respeito do tema envolvendo o endereço sede da empresa Magnus Trading Company, a sentença proferida nos autos levou em consideração os pontos abordados pela autoridade fiscal no item 5 do relatório fiscal (doc. PROCADM20, ev. 10).
+Em resposta à contestação, a ora embargante afirmou ter apresentado extrato eletrônico do registro da exportadora perante o Governo de Hong Kong (doc. COMP2, ev. 13), o qual indica que a citada empresa é filialda Prime China International Limited. Assim, asseverou ser descabida a afirmação de que se trata de uma empresa ficta. Por outro lado, sustentou que a diferença entre os endereços da exportadora no registro perante o Governo de Hong Kong e o constante na fatura comercial se trata de erro, punível apenas com multa pecuniária de R$ 200,00, conforme arts. 107, inc. X e 715 do Regulamento Aduaneiro.
+Ora, conquanto o defendido pela embargante, a sentença proferida nos autos consignou que o documento constante no evento 13 (doc. COMP2) apresenta endereço diverso daquele consignado nas faturas comerciais. Logo, não se pode referir que o juízo não tenha se manifestado sobre a alegada existência da empresa exportadora no exterior.
+De outra parte, novamente verificando a documentação relativa ao procedimento fiscal aberto em desfavor da empresa demandante, não se evidencia que a mesma tenha apresentado tal documento no âmbito daquele procedimento, logo, não se pode atribuir condição de ilegalidade ao processo administrativo levado a efeito pela autoridade fazendária.
+Por outro lado, uma rápida pesquisa do endereço indicado no documento apresentado no evento 13 na rede mundial de computadores demonstrou que o endereço "UNIT 13, 16/f, ASIA TRADE CENTRE, N. 79 LEIMUK ROAD, KWAI CHUNG" corresponde à empresa Suntek Empire, voltada ao desenvolvimento de tecnologias, aplicativos etc.
+O fato de o Tribunal de origem haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou outra causa passível de exame mediante a oposição de embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALHA EM SERVIÇO ESSENCIAL. DANO MORAL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. ALTERAÇÃO DAS CONCLUSÕES DA CORTE DE ORIGEM. SÚMULA N. 7/STJ. DANOIN RE IPSA.
+1. Inviável a alegação de infringência ao art. 1.022 do CPC com o intuito de retorno dos autos à instância local para integração do julgado quando a Corte de origem posiciona-se a respeito de todas as questões relevantes à solução da controvérsia, apenas não adotando as razões da recorrente, o que não configura violação dos dispositivos invocados.
+2. Não há falar em julgamentoextra petita, no qual a controvérsia é decidida nos limites delineados na petição inicial, esta voltada à reparação indenizatória pela falha do serviço essencial, constando pedido expresso do particular nesse sentido.
+3. O apelo especial é recurso de fundamentação vinculada e está adstrito às hipóteses de infringência ao direito federal infraconstitucional, não se prestando ao reexame de fatos e provas.A pretensão da insurgente exige análise do acervo probatório dos autos, o que seria necessário para se modificar as conclusões do aresto impugnado quanto à ocorrência do dano moral e readequação da verba honorária. A medida é sabidamente vedada na via eleita, em razão do óbice da Súmula n. 7/STJ.
+4. O dano moral consubstanciado na falha na prestação de serviço público essencial, configura-sein re ipsa, prescinde de prova.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n.1.676.323/PR, de minha relatoria, SEGUNDA TURMA, julgado em 14/3/2022, DJe de 21/3/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO. OFENSA AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. DANO MORAL. INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. O simples inadimplemento contratual, em razão do atraso na entrega do imóvel, não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar a lesão extrapatrimonial, o que não ocorreu no caso dos autos.
+3. Agravo interno provido para afastar o pagamento de indenização por danos morais.
+(AgInt no AREsp n. 1.877.505/RJ, relatorMinistro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/3/2022, DJe de 25/3/2022.)
+Assim, aCorte de origem posicionou-se acerca de todas as questões relevantes à solução da controvérsia, apenas não adotando as razões da requerente, o que não configura violação dos dispositivos invocados.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
