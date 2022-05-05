@@ -1,0 +1,14 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Declaração opostos pela UNIVERSIDADE FEDERAL DE SANTA CATARINAcontra decisão que conheceu em parte do seu recurso especial, negando-lhe, contudo, provimento.
+Sustenta, em síntese, que a decisão padece de contradição, uma vez que não se discute nos autos a devolução de valores por erro da Administração, mas, sim, a devolução de valores recebidos por tutela antecipada, posteriormente revogada.
+Sem impugnação, conforme certidãoàs fls. 3.458e.
+Os embargos foram opostos tempestivamente.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+De início, verifica-se que assiste razão à embargante quanto ao erro material apontado, de fato, não há discussão no feito acerca da devolução de valores recebidos a maior por erro da Administração.
+No mais, observo queo recurso contém tema afetado ao rito especial dos arts. 1.036 a 1.041 do Código de Processo Civil, nos termos do Regimento Interno do STJ, com a redação dada pela Emenda Regimental n. 24/2016, relativo à "Proposta de Revisão de Entendimento firmado em tese repetitiva firmada pela Primeira Seção relativa ao Tema 692/STJ, quanto à devolução dos valores recebidos pelo litigante beneficiário do Regime Geral da Previdência Social - RGPS em virtude de decisão judicial precária, que venha a ser posteriormente revogada" (Questão de ordem autuada como Pet n. 12.482/DF nos Recursos Especiais n. 1.734.685/SP, n. 1.734.627/SP, n. 1.734.641/SP, n. 1.734.647/SP, n. 1.734.656/SP e n. 1.734.698/SP, da relatoria do Ministro Og Fernandes. Tema 692/STJ).
+De fato, apesar de não se tratar de valores devidos ao INSS, cabe aguardar o julgamento da demanda, a fim de evitar decisões conflitantes no STJ.
+A Primeira Turma firmou orientação no sentido de determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia, em observância ao princípio da economia processual e à própria finalidade da Lei 11.672/2008. Tal orientação encontra respaldo em decisão do Plenário do Supremo Tribunal Federal na Questão de Ordem no RE 540.410/RS, Rel. Ministro Cezar Peluso em 20/08/2008.
+Ante o exposto, ACOLHO os embargos de declaração, emprestando-lhe excepcionais efeitos infringentes, para determinara devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos Recursos Especiais correspondentes, a fim de que a Corte a quo, posteriormente, proceda ao juízo de conformidade. Mantidos os demais fundamentos da decisão.
+Publique-se e intimem-se.
