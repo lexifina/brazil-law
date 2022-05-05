@@ -10,5 +10,5 @@ V - acesso aos níveis mais elevados do ensino, da pesquisa e da criação artí
 VI - oferta de ensino noturno regular, adequado às condições do educando;
 VII - oferta de educação escolar regular para jovens e adultos, com características e modalidades adequadas às suas necessidades e disponibilidades, garantindo-se aos que forem trabalhadores as condições de acesso e permanência na escola;
 VIII - atendimento ao educando, em todas as etapas da educação básica, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde;
-IX - padrões mínimos de qualidade de ensino, definidos como a variedade e quantidade mínimas, por aluno, de insumos indispensáveis ao desenvolvimento do processo de ensino-aprendizagem.
+IX - padrões mínimos de qualidade do ensino, definidos como a variedade e a quantidade mínimas, por aluno, de insumos indispensáveis ao desenvolvimento do processo de ensino-aprendizagem adequados à idade e às necessidades específicas de cada estudante, inclusive mediante a provisão de mobiliário, equipamentos e materiais pedagógicos apropriados;
 X - vaga na escola pública de educação infantil ou de ensino fundamental mais próxima de sua residência a toda criança a partir do dia em que completar 4 (quatro) anos de idade.
