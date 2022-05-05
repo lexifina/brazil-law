@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANTONIO LUCAS JERONIMO DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 387, § 2º, do Código de Processo Penal, no que concerne à necessidade de aplicação da detração penal, trazendo os seguintes argumentos:
+Isso porque não se trata de uma progressão de regime, mas mera detração da pena, considerando-se o tempo de cumprimento da sanção ao logo do inquérito e da ação penal (fl. 947).
+Como se vê, Excelências, trata-se de verdadeira detração da pena provisória cumprida, quando do momento da determinação do regime inicial para cumprimento de reprimenda, sendo que a regra, neste caso, não exige o mencionado requisito subjetivo, notadamente porque não se trata de progressão de regime prisional (fl. 947).
+Desta forma, Excelência, o tema é pacífico na jurisprudência do Superior Tribunal de Justiça, e o acórdão foi hostilizado em todos os seus fundamentos (o único fundamento foi o óbice legal diante da ausência do requisito subjetivo) (fl. 949).
+É, no essencial, o relatório. Decido.
+Com relação ao recurso apresentado, quanto à controvérsia, na espécie, o acórdão recorrido assim decidiu:
+E, ainda que tivesse sido, apenas para fazer constar, entende esta Relatora que os cálculos para a detração penal devem ser realizados no r. Juízo das Execuções, pois é ele que reúne informações mais precisas sobre a situação prisional do sentenciado (fl. 959).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
