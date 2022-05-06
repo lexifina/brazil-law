@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PROCESSO DE EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE NA VIGÊNCIA DO CPC/1973. PARALISAÇÃO DO PROCESSO POR TEMPO SUPERIOR AO PRAZO PRESCRICIONAL DA PRETENSÃO DE DIREITO MATERIAL. OCORRÊNCIA. ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM O IAC N. 1 - RESP 1.604.412/SC. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. RECURSO ESPECIAL PROVIDO.
+1. Conforme entendimento da Segunda Seção do STJ, consolidado no IAC 1, "incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafos único, do Código Civil de 2002". E, ainda, "o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980)".
+2. O entendimento adotado no acórdão recorrido colide com a jurisprudência assente desta Corte Superior, circunstância que evidencia a necessidade de reforma do acórdão recorrido.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, dar provimento ao recurso especial.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por PLÍNIO ALBERTO VON ANCKEN contra decisão de fls. 500/503, que negou provimento ao recurso especial.
+Nas razões do agravo interno, sustenta o agravante a reconsideração da decisão, alegando para tanto que o pedido de prescrição intercorrente está embasado no período em que o processo ficou paralisado, sem andamento, de 29/09/2008 a 19/02/2015, ou seja, antes do pedido de desarquivamento do feito no ano de 2015 e da própria vigência do novo Código de Processo Civil.
+Reforça que o Banco exequente, ora agravado, permaneceu inerte por prazo superior ao da prescrição do direito material vindicado antes do pedido de desarquivamento do processo em 2015 e, por conseguinte, dos pedidos de realização de pesquisas, sendo de rigor, portanto, o reconhecimento da prescrição intercorrente.
+Entende estar demonstrado que se encontra equivocada a decisão agravada ao confirmar o v. acórdão a quo por seus próprios fundamentos, visto que, ao afirmar que se aplica o art. 1.056 do CPC/2015 ao caso, dissentiu da orientação do STJ, notadamente do Incidente de Assunção de Competência no Recurso Especial 1.604.412/SC.
+A impugnação do presente recurso foi apresentada às fls. 531/542.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PROCESSO DE EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE NA VIGÊNCIA DO CPC/1973. PARALISAÇÃO DO PROCESSO POR TEMPO SUPERIOR AO PRAZO PRESCRICIONAL DA PRETENSÃO DE DIREITO MATERIAL. OCORRÊNCIA. ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM O IAC N. 1 - RESP 1.604.412/SC. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. RECURSO ESPECIAL PROVIDO.
+1. Conforme entendimento da Segunda Seção do STJ, consolidado no IAC 1, "incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafos único, do Código Civil de 2002". E, ainda, "o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980)".
+2. O entendimento adotado no acórdão recorrido colide com a jurisprudência assente desta Corte Superior, circunstância que evidencia a necessidade de reforma do acórdão recorrido.
+3. Agravo interno provido para reconsiderar a decisão agravada e, em nova análise, dar provimento ao recurso especial.
+AgInt no RECURSO ESPECIAL Nº 1.934.916 - SP (2021/0124116-9)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+PLÍNIO ALBERTO VON ANCKEN
+ADVOGADOS
+:
+RENATO ANTONIO LOPES DELUCCA - SP126151
+PAULO CÉSAR CAETANO CASTRO - SP135569
+AGRAVADO
+:
+BANCO BRADESCO S/A
+ADVOGADOS
+:
+GISALDO DO NASCIMENTO PEREIRA - DF008971
+GLÁUCIO HENRIQUE TADEU CAPELLO - SP206793
+ADVOGADOS
+:
+PAULA DE PAIVA SANTOS - DF027275
+ANA CAROLINA MARIN JUSTO - SP254228
+IAN DOS SANTOS OLIVEIRA MILHOMEM - DF045993
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+No âmbito deste agravo interno, o recorrente, ora agravante, alega o desacerto da decisão agravada, defendendo que há de ser decretada a prescrição intercorrente do processo executivo. Vejamos.
+Conforme consignado na decisão agravada, o recurso especial impugna acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento a agravo de instrumento, confirmando a decisão que rejeitou exceção de pré-executividade, nos autos da execução de título extrajudicial apoiada em instrumento particular de confissão de dívida, assim ementado:
+AGRAVO DE INSTRUMENTO execução fundada em instrumento de confissão de dívida decisão agravada que rejeitou exceção de pré- executividade, afastando a tese de prescrição intercorrente demanda ajuizada em 2006 e autos remetidos ao arquivo em 2008 desarquivamento em 2015, com realização de novas diligências ainda na vigência do CPC/73 - deferida nova suspensão por 1 ano nos termos do art. 921, III e §1º do CPC/15 determinada penhora de imóvel em 2019 inércia do credor não caracterizada inviabilidade do decreto de extinção pela prescrição decisão mantida - recurso improvido.
+Nas razões do recurso especial, sustenta o recorrente, além de dissídio jurisprudencial, que o Tribunal a quo negou vigência ao art. 193 do Código Civil, combinado com os arts. 487, II, 927, II, e 947, § 3º, do CPC/2015, pois a prescrição é matéria de ordem pública, podendo ser reconhecida pelo juízo de ofício ou a requerimento da parte, em qualquer tempo ou grau de jurisdição, não sendo matéria objeto de preclusão.
+Ressalta que aduziu a ocorrência da prescrição intercorrente em sua primeira manifestação nos autos.
+Obtempera que o egrégio Tribunal de Justiça do Estado de São Paulo deixou de aplicar as teses fixadas no Incidente de Assunção de Competência (IAC) nº 001, no Recurso Especial n. 1.604.412/SC, o qual fixou a tese segundo a qual incide a prescrição intercorrente, nas causas regidas pelo CPC/1973, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002; e o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação, por analogia, do art. 40, § 2º, da Lei 6.830/80).
+Afirma ser incontroverso nos autos que a execução ficou paralisada, sem nenhuma movimentação do recorrido, por período superior ao prazo de prescrição do direito material vindicado e que todas as movimentações ocorridas foram posteriores ao transcurso de tal prazo prescricional. Logo, o processo permaneceu sem andamento, por cerca de 06 (seis) anos e 05 (cinco) meses, ou seja, de 29/09/2008 a 12/02/2015, por inércia do recorrido, que não tomou nenhuma medida acerca do prosseguimento da execução.
+Às fls. 500-503, esta Relatoria negou provimento ao recurso especial em razão de o Tribunal de origem ter decidido em consonância com a jurisprudência do Superior Tribunal de Justiça quanto ao tema.
+Ainda inconformada, a parte recorrente insiste na tese de prescrição intercorrente da execução, o que viabiliza o provimento do agravo de instrumento interposto na origem, para se acolher a exceção de pré-executividade e extinguir o processo executivo.
+A prescrição intercorrente foi afastada pelo eg. Tribunal de origem, nos termos da seguinte fundamentação:
+"4. O inconformismo do agravante não prospera. Desde logo se ressalta que, conforme entendimento firmado pelo C. STJ em Incidente de Assunção de Competência no REsp nº 1.604.412/SC, a prescrição intercorrente incide nas causas regidas pelo CPC/73. A exceção de pré executividade, entretanto, não comporta acolhimento, pois o caso não autoriza mesmo o decreto de extinção pela prescrição.
+5. Embora o feito tenha permanecido no arquivo por tempo superior ao prazo de prescrição do direito material, no caso, de cinco anos (execução fundada em "instrumento particular de confissão e parcelamento de dívidas"), a prescrição intercorrente deixou de ser reconhecida tão logo pleiteado o desarquivamento do feito. Ao contrário, a partir de maio/2015, o exequente pleiteou a realização de pesquisas BACENJUD, INFOJUD, RENAJUD, que foram realizadas, embora não tenham logrado êxito em localizar ativos passíveis de penhora (fls. 201/207, 213/217, 223/226). Em 2018, as pesquisas foram repetidas e retornaram negativas. Por fim, o credor logrou localizar o imóvel de propriedade do agravado, sendo deferida a penhora em junho/2019 (fls. 242, 256/293 e 301/305). Em virtude de todas essas providências adotadas pelo credor e deferidas judicialmente, decerto que se deve aplicar ao caso em tela o art. 1.056 do CPC/15.
+6. Anota-se que o juízo monocrático concedeu, a pedido da parte, a suspensão pelo prazo de um ano do art. 921, III, §1º do CPC/15 por decisão publicada em outubro/2016. Verifica-se que o banco credor requereu o desarquivamento e vista dos autos antes mesmo do decurso desse prazo (fls. 248), procurando impedir correr o lapso prescricional (CPC/15, art. 921 § 4º ).
+7. No ponto, corretamente fundamentou a r. decisão agravada:
+"Em 2015, observo que houve pedidos de pesquisas no BACENJUD e INFOJUD, tendo sido deferidos. Em 2016, anoto que houve pesquisa RENAJUD. Ainda em 2016, dois pedidos deferidos de sobrestamento por 30 dias, terminando com o pedido de suspensão, nos termos do artigo 921, III, NCPC, o que foi deferido a fls. 194, na data de 17/10/2016. Em outubro/2018, verifico que houve pedidos de BACENJUD, RENAJUD, INFOJUD, o que foi deferido e cumprido. Em março/2019 houve pedido de penhora, o que foi deferido. Vê-se, portanto, que a parte exequente diligenciou na busca de bens, não permanecendo inerte. Ainda que se considerasse a fluência do prazo prescricional a partir da vigência do NCPC (18/03/2016), tal prazo não teria decorrido"
+8. Nessas circunstâncias, correto que de início, mesmo que por bastante tempo, a suspensão do executório foi autorizada judicialmente, que a prescrição intercorrente do art. 1056 do CPC/15 pressupõe inércia da parte e que não deve ser operada quando a credora, de todas as maneiras, cuida para não haver paralisação nem retardamento, dando andamento aos autos com respaldo judicial, a prescrição não deve constituir fator impeditivo do prosseguimento do processo visando a satisfação do credor.
+Assim, fica mantida a rejeição da exceção de pré-executividade, não mesmo cabendo o decreto de extinção do executivo.
+9. Com estes fundamentos, nega-se provimento ao recurso.
+Conforme acentuado, o Tribunal a quo afastou a inércia do credor/exequente, a partir de maio/2015, quando o exequente pleiteou a realização de pesquisas BACENJUD, INFOJUD, RENAJUD, portanto, tudo isso antes da vigência do Novo Código de Processo Civil em março de 2016.
+Com efeito, a decisão merece ser revista. A Segunda Seção do STJ, no julgamento do REsp 1.604.412/SC de Relatoria do Ministro MARCO AURÉLIO BELLIZZE, sob o rito do incidente de assunção de competência, fixou as seguintes teses: 1.1 Incide a prescrição intercorrente nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do CC/2002; 1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/80); 1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual); 1.4 O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+Confira-se a ementa do referido precedente:
+RECURSO ESPECIAL. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE DA PRETENSÃO EXECUTÓRIA. CABIMENTO. TERMO INICIAL. NECESSIDADE DE PRÉVIA INTIMAÇÃO DO CREDOR-EXEQUENTE. OITIVA DO CREDOR. INEXISTÊNCIA. CONTRADITÓRIO DESRESPEITADO. RECURSO ESPECIAL PROVIDO.
+1. As teses a serem firmadas, para efeito do art. 947 do CPC/2015 são as seguintes:
+1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002.
+1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980).
+1.3 O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual).
+1.4. O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição.
+2. No caso concreto, a despeito de transcorrido mais de uma década após o arquivamento administrativo do processo, não houve a intimação da recorrente a assegurar o exercício oportuno do contraditório.
+3. Recurso especial provido.
+(IAC no REsp 1.604.412/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 27/6/2018, DJe de 22/8/2018)
+No caso concreto, o Tribunal a quo consignou o seguinte:
+5. Embora o feito tenha permanecido no arquivo por tempo superior ao prazo de prescrição do direito material, no caso, de cinco anos (execução fundada em "instrumento particular de confissão e parcelamento de dívidas"), a prescrição intercorrente deixou de ser reconhecida tão logo pleiteado o desarquivamento do feito. Ao contrário, a partir de maio/2015, o exequente pleiteou a realização de pesquisas BACENJUD, INFOJUD, RENAJUD, que foram realizadas, embora não tenham logrado êxito em localizar ativos passíveis de penhora (fls. 201/207, 213/217, 223/226). Em 2018, as pesquisas foram repetidas e retornaram negativas. Por fim, o credor logrou localizar o imóvel de propriedade do agravado, sendo deferida a penhora em junho/2019 (fls. 242, 256/293 e 301/305). Em virtude de todas essas providências adotadas pelo credor e deferidas judicialmente, decerto que se deve aplicar ao caso em tela o art. 1.056 do CPC/15.
+Depreende-se do trecho supratranscrito que o Tribunal a quo não aplicou o entendimento firmado no Incidente de Assunção de Competência instaurado no Recurso Especial 1.604.412/SC.
+No presente caso, deve ser aplicado o entendimento de que incide a prescrição intercorrente, nas causas regidas pelo CPC/1973, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, o que ocorreu no caso, conforme consignado pelo Tribunal a quo.
+Nesse contexto, verifica-se que o entendimento adotado no acórdão recorrido colide com a jurisprudência assente desta Corte Superior, circunstância que evidencia a necessidade de reforma do acórdão recorrido.
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em nova análise, dar provimento ao recurso especial reconhecendo a prescrição intercorrente.
+É como voto.
