@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de Roberto Reis dos Santoscontra ato coator do Tribunal de Justiça de São Paulo(Apelação Criminal n. 1501259-87.2020.8.26.0540), não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação dopacientena ação penal que ocondenou pela prática dos crimes de tráfico e associação para o tráfico de drogas às penas de 8anos,9meses e 18 diasde reclusão, em regime inicial fechado, e ao pagamento de 1.320dias-multa.
+Pleiteia, em resumo, a absolvição do delito de associação para o tráfico de drogas e a revisão da dosimetria da pena imposta, tanto em relação à exasperação da pena-base quanto à negativa da minorante do tráfico privilegiado, com a readequação do regime inicial e demais consectários.
+Ocorre que, além de não se admitir a utilização do writ como sucedâneo de uma segunda revisão criminal dirigida a esta Corte, o Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem mais a utilização do habeas corpus como substitutivo do meio processual adequado, sejam recursos próprios ou mesmo a revisão criminal, salvo situações excepcionais.
+No caso, a questão trazida aos autos foi exaustivamentedebatida pelas instâncias ordinárias, de cognição mais ampla e exauriente, razão pela qual parece a defesa pretender se utilizar desta Corte Superior de Justiça como uma segunda instância revisional, demonstrando a inadequação da via eleita.
+De fato, as instâncias ordinárias destacaram os maus antecedentes (fls. 102/103), a quantidade de droga apreendida (fls. 155/156 - 42 kg de maconha), bem como as circunstâncias em que o delito foi cometido tanto para manter a condenação pelo crime de associação para o tráfico de drogas, quanto para exasperar a pena-base e afastar a minorante do tráfico privilegiado, em consonância com a jurisprudência deste STJ. Desconstituir o julgado ensejaria indesejável revolvimento de fatos e provas, o que é rechaçado por esta Corte Superior de Justiça.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS EDOSIMETRIA. PENA-BASE E MINORANTE DO TRÁFICO PRIVILEGIADO. UTILIZAÇÃO DOWRITCOMO UMA SEGUNDA APELAÇÃO CRIMINAL. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
