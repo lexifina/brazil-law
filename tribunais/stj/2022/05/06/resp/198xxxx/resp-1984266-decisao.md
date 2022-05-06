@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Banco ItaúConsignado S/A, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro às fls. 246-247.
+Embargos de Declaração rejeitados.
+Nas razões do apelo especial, a parte recorrente alega violação ao art. 1.022, II, do CPC/2015, sustentando que a Corte local foi omissa quanto à questão relevente para a solução da controvérsia, a saber: que "o v. acórdão, apesar de limitar os descontos dos empréstimos reclamados ao percentual de 30% sobre os vencimentos líquidos da Embargada, foi omisso em relação aos descontos em conta corrente promovidos pela Crefisa, uma vez que não se trata de modalidade de empréstimo consignado e, portanto, não pode ser contabilizados para calcular a margem consignável, conforme expresso entendimento do STJ".
+Com contrarrazões.
+Juízo negativo de admissibilidade às fls. 74.
+Interposição do agravo previsto no artigo 1.042 do CPC/2015, às fls. 77-87, e sua conversão em recurso especial à fl. 114.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+No caso dos autos, a recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que o julgado remanesce omisso "em relação aos descontos em conta corrente promovidos pela Crefisa, uma vez que não se trata de modalidade de empréstimo consignado e, portanto, não pode ser contabilizados para calcular a margem consignável, conforme expresso entendimento do STJ", nos termos doart.1.022, II e III, do CPC/2015.
+Acerca da temática relativa à limitação do montante de pagamento mensal de empréstimos com débito de parcelas em conta bancária a percentual da renda do contratante, a Segunda Seção do Superior Tribunal de Justiça, nos autos dos REsps 1.863.973/SP, 1.877.113/SP e 1.872.441/SP, julgados em 09/03/2022, com publicaçãoem 15/03/2022, da relatoria do Ministro Marco Aurélio Bellizze, Tema 1.085/STJ, sob o rito dos recursos repetitivos, firmou entendimento segundo o qual "são lícitos osdescontos de parcelas de empréstimos bancários comuns em conta-corrente, ainda que utilizada para recebimento de salários, desde que previamente autorizados pelo mutuário e enquanto esta autorização perdurar, não sendo aplicável, por analogia, a limitação prevista no § 1º do art. 1º da Lei nº 10.820/2003, que disciplina os empréstimos consignados em folha de pagamento." (REsp 1.863.973/SP, Rel.Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 09/03/2022, DJe 15/03/2022).
+Diante disso, verifico que, de fato, a questão foi suscitada nos embargos de declaração opostos e, a despeito disso, o tribunal permaneceu silente, quando deveria ter se pronunciado sobre o tema por serde extrema relevância para o justo desfecho da causa.
+Assim, observo tratar-se de questão relevante, oportunamente suscitada e que, se acolhida, poderia levar o julgamento a um resultado diverso do proclamado. Isso porque a não apreciação da tese a tempo e modo adequado, impede o acesso à instância extraordinária, caracterizando, portanto, a omissão no julgado.
+A propósito, nesse sentido, confiram os seguintes julgados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+1. A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao art. 1.022, II, do CPC/2015, enseja a anulação do acórdão proferido em embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+2. Recurso especial provido para tornar nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem se manifeste sobre a matéria assentada nos aclaratórios.
+(REsp 1.758.521/MG, Rel. Ministro Og Fernandes, Segunda Turma, DJe 17/10/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ARTIGO 535 DO CPC/1973. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A falta de manifestação ou de forma insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola o artigo 535 do CPC/1973.
+2. Agravo interno não provido.
+(AgInt no AgInt no REsp 1.431.635/GO, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 27/02/2018)
+Nesse mesmo sentido: REsp 1.529.187/RS, Rel. Min. Napoleão Nunes Maia Filho, DJe de 01/06/2015; REsp 1.444.331/ES, Rel. Min. Benedito Gonçalves, DJe de 18/05/2015; REsp 1.502.033/MG, DJe de 05/06/2015.
+Dessa forma, deve o processo retornar à Corte de Origem para rejulgamento dos embargos de declaração, a fim de ser sanado o vício apontado acerca dos descontos em conta corrente que não podem ser contabilizados para o cálculoda margem consignável.
+Ante o exposto, dou provimento ao recurso especial, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração. Prejudicadas as demais questões.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. VIOLAÇÃO DOART. 1.022, II, DO CPC/2015. OMISSÃO CONFIGURADA. NULIDADE DO JULGADO. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. NECESSIDADE. RECURSO PROVIDO.
