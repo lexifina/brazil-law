@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por APDC - ASSOCIAÇÃO PARANAENSE DE DEFESA DOS DIREITOS DO CONSUMIDOR contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Ação: Civil Pública, ajuizada por APDC - ASSOCIAÇÃO PARANAENSE DE DEFESA DOS DIREITOS DO CONSUMIDOR, em face de BANCO DO BRASIL S/A.
+Decisão de admissibilidade do TJ/PR: inadmitiu o recurso especial em razão da intempestividade.
+ARESP de APDC - ASSOCIAÇÃO PARANAENSE DE DEFESA DOS DIREITOS DO CONSUMIDOR: sustenta a tempestividade recursal, alegando que o processo eletrônico tramita pela plataforma eletrônica denominada PROJUD e que esse sistema considera os feriados e os prazos suspensos por força de atos editados pela própria Corte local, inclusive aqueles decorrentes do Decreto Judiciário 597/2020.
+Parecer do MPF: da lavra do I. Subprocurador-Geral NICOLAO DINO, opina pelo desprovimento do agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida, não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+No caso, a Corte local apontou que " no dia 24.05.2021 foi expedida a intimação do acórdão recorrido (mov.44 - Apelação). Tendo em vista que a parte recorrente não procedeu à leitura dentro do prazo de 10 (dez) dias contados da data do envio da intimação (artigo 5º, § 3º, da Lei nº 11.419/06), considera-se que a intimação se deu na data do término desse prazo, ou seja, em 03.06.2021. Sendo assim, o prazo para interposição de recurso passaria a fluir em 07.06.2021 e findaria em 25.06.2021. "
+Além disso, consignou que "em razão da suspensão do expediente forense, bem como o feriado local previsto no Decreto Judiciário nº 597/2020 (dias 03.06.2021 e 04.06.2021 - Corpus Chisti), haveria a possibilidade de prorrogação do prazo, com a intimação se dando no dia 07.06.2021, o início do prazo recursal dia 08.06.2021 e o fim deste em 28.06.2021. Entretanto, para que fosse considerado o prazo prorrogado, deveria ter sido juntada, no ato da interposição do recurso, comprovação adequada da suspensão dos prazos processuais, conforme dispõe o artigo 1.003, § 6º, do Código de Processo Civil, o que não foi feito pela parte recorrente."
+Nota-se que a agravante, apesar de defender a ocorrência do feriado local por força do Decreto Judiciário nº 597/2020, deixou de impugnar, especificamente, a ausência de leitura do acórdão no prazo legal e a ausência de juntada do respectivo ato normativo quando da interposição do recurso especial, não logrando êxito em demonstrar a tempestividade recursal.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
