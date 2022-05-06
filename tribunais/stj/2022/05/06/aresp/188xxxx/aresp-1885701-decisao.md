@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo manejado por JAIR SZYMANCZUK, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fls. 259/260):
+PREVIDENCIÁRIO. AÇÃO ORDINÁRIA. PRODUÇÃO DEPROVA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. AUXÍLIO-DOENÇA. APOSENTADORIA POR INVALIDEZ. REQUISITOS PARA CONCESSÃO. NÃO ATENDIDOS. CAPACIDADE LABORATIVA. AUSÊNCIA DE LIMITAÇÃO LABORAL. PERÍCIA JUDICIAL. FINALIDADE.
+1. Ao juiz compete analisar a conveniência e necessidade da produção de determinada prova, descabendo falarem cerceamento de defesa diante do indeferimento da prova pericial ou de não oportunizar a realização prova testemunhal, mormente quando o feito está suficientemente instruído e decidido com base na prova documental e pericial, como no caso em tela.
+2. São três os requisitos para a concessão dos benefícios por incapacidade: 1) a qualidade de segurado; 2) o cumprimento do período de carência de 12 contribuições mensais; 3) a incapacidade para o trabalho, de caráter permanente (aposentadoria por invalidez) ou temporário (auxílio-doença).
+3. Hipótese em que o conjunto probatório formado pelos documentos acostados pelas partes e pela perícia judicial não apontam a existência de incapacidade ou redução da capacidade laboral a ensejar a concessão do benefício de auxílio-doença ou do benefício de aposentadoria por invalidez.
+4. Havendo conflito existente entre as provas que instruem os autos(laudo administrativo, laudo produzido no juízo e atestados médicos carreados unilateralmente), deve-se privilegiar as conclusões lançadas no laudo judicial, prova colhida segundo as orientações do Juízo
+5. O laudo judicial é completo, coerente e não apresenta contradições formais, tendo se prestado ao fim ao qual se destina, que é o de fornecer ao juízo a quo os subsídios de ordem médico/clínica para a formação da convicção jurídica.
+6. A finalidade da perícia médica judicial não é a de diagnosticar ou tratar as patologias apresentadas pela parte, mas apenas verificar a aptidão ao trabalho, cabendo ao profissional nomeado pelo juízo, qualquer que seja sua especialidade, a decisão sobre suas habilidades para conhecimento do caso concreto.
+Opostos embargos de declaração, foram rejeitados (fls. 282/285).
+Em seu recurso especial, aduz a parte recorrente, além de divergência jurisprudencial, violação dos arts. 5º e 201, da CF/88; 479, 369 e 473, do CPC; e 42 e 59, da Lei 8.213/91.
+Sustenta, em síntese, que: (I) houve cerceamento de seu direito de defesa no indeferimento do pedido de produção de prova pericial, bem como (II)de acordo com a documentação existente nos autos, faria jus ao recebimento do benefício de aposentadoria por invalidez, ou auxílio-doença, tendo em vista sua incapacidade laboral.
+Contrarrazões não apresentadas
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O recurso não prospera.
+Inicialmente, em recurso especial não cabe invocar violação anorma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 5º e 201 da Constituição Federal.
+Prosseguindo, de acordo com a jurisprudência consagrada nesta Corte, é faculdade do julgador o indeferimento de produção probatória que julgar desnecessária para o regular trâmite do processo, sob o pálio da prerrogativa do livre convencimento, seja ela testemunhal, seja pericial ou documental, cabendo-lhe, apenas, expor fundamentadamente o motivo de sua decisão.
+Nesse sentido, sobressaem precedentes:
+PROCESSUAL. ADMINISTRATIVO. NECESSIDADE DE PRODUÇÃO DEPROVAS. INDEFERIMENTO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. REVISÃO.SÚMULA 07/STJ.
+1. O acórdão recorrido concluiu: o juízo a quo é o destinatário da prova e cabe a ele avaliar sobre a necessidade de sua produção, indeferindo as diligências inúteis e protelatórias. No caso, o indeferimento está devidamente fundamentado, pois os documentos cuja requisição foi pretendida ou já constam dos autos ou não têm relação direta com a lide. Além disso, foi conferida ao ora agravante a oportunidade de demonstrar o contrário, ônus do qual não se desincumbiu (e-STJ fls. 1.707-1.712).
+2. O magistrado, com base no livre convencimento motivado, pode indeferira produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, o que não configura, em regra, cerceamento de defesa. Precedentes.
+3. Rever a orientação adotada pelo Tribunal a quo para acolher-se a tese da recorrente de que no caso a produção de provas seria imprescindível para a solução da lide exige análise de fatos e provas, o que inviabiliza a realização de tal procedimento pelo STJ na via do recurso especial, nos termos da Súmula 07/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 87.393/AM, Rel. Ministro Castro Meira, Segunda Turma,
+DJe 5/3/2012).
+Também é oportuno ressaltar que é "inviável no âmbito do recurso especial dissentir da conclusão alvitrada na origem acerca da desnecessidade de dilação probatória, em face do óbice contido na Súmula 7 deste Tribunal" (AgInt no AREsp 237.594/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/06/2016, DJe 18/08/2016).
+E, no caso concreto, o Tribunal de origem firmou seu entendimento no sentido da análise da prova existente nos autos, nos seguintes termos (fls. 253/255):
+No caso em tela, a perícia (evento 27) já realizada é clara, objetiva e enfática, tendo sido realizado detalhado exame físico, bem como analisados os exames apresentados pela parte autora, em mais de uma oportunidade, não havendo razão que justifique qualquer dúvida relativamente à credibilidade ou à legitimidade profissional do perito designado, médico especialista em medicina do trabalho.
+Assim, e em atenção ao princípio do livre convencimento motivado do Juiz, afasto alegação de cerceamento de defesa, pois a matéria já se encontra suficientemente esclarecida, como se verá quando da análise do mérito.
+O certo é que a discordância quanto às conclusões do laudo não autoriza a repetição ou a complementação da perícia, se as questões formuladas pela parte autora foram efetivamente respondidas.
+ ..
+Logo, respaldado no princípio do livre convencimento motivado do Juiz, inserto nos artigos 371 e 479 do Código de Processo Civil/15, e cotejando os ditames da lei com as conclusões do expert, profissional equidistante das partes, rejeito a nulidade apontada.
+Desta maneira, nota-se que a revisão das conclusões adotadas pela Corte deorigem, tal como colocada nas presentes razões recursais demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. SERVIÇO PÚBLICO. FORNECIMENTO DE ENERGIA ELÉTRICA. PROVA PERICIAL. INDEFERIMENTO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. INVIABILIDADE NA VIA RECURSAL ELEITA. INCIDÊNCIA DO ENUNCIADO SUMULAR N. 7/STJ.
+1. Conforme reiteradamente decidido pelo Superior Tribunal de Justiça, a análise da necessidade ou não de produção de prova, qualquer que seja o momento processual ou o motivo que leve a tanto, é atribuição da instância ordinária.
+2. Eventual reforma desta decisão importaria em reexame do conjunto fático-probatório, o que é vedado para este magistrado pela Súmula n.7deste Tribunal. Precedentes.3. Agravo regimental não provido.
+(AgRg no REsp 1.355.378/MA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 4/6/2013)
+No mais, éde bom alvitre ressaltar que o juiz não está adstrito às conclusões da perícia técnica, podendo se pautar em outros elementos de prova aptos à formação de seu livre convencimento, estando autorizado a concluir pela incapacidade laborativa fundado no conjunto probatório produzido nos autos e nas particularidades do caso concreto.
+E, no caso concreto, o Tribunal a quo, ao examinar a questão posta, assim se manifestou sobre as circunstâncias que poderiam ensejar a concessão do benefício pleiteado (fl. 257):
+No caso concreto, foi realizada perícia médica no segurado (evento27), em 18-6-2019, em que, após exame físico e análise do seu histórico de saúde, o perito, médico especialista em psiquiatria, atestou que a parte autora, embora portadora de Esquizofrenia (F20), está apta para o trabalho e para avida independente. Referiu o expert que "As conclusões foram baseadas -historia contada pela periciando, -exame do estado mental, nada mais "e do que avaliação de como esta mentalmente a periciando, -dosagem das medicações e efeitos, -uso de medicação correto e sua adesão ao tratamento, -tempo de tratamento documentado e referido pela periciando, -internações psiquiátricas,-atestados médicos".
+Com efeito, o laudo judicial é completo, coerente e não apresenta contradição formal, tendo se prestado ao fim ao qual se destina, que é o de fornecer ao juízo a quo os subsídios de ordem médico/clínica para a formação da convicção jurídica. O quadro apresentado pelo autor, na datada feitura da perícia, foi descrito de forma satisfatória e clara, demonstrando que foram considerados o seus históricos, bem como realizados os exames físicos.
+O conjunto probatório, portanto, formado pelos documentos acostados pelas partes e pela perícia judicial não apontam a existência de incapacidade, sendo suficientes para o estabelecimento de um juízo de certeza sobre a capacidade laboral do autor e o afastamento dos benefícios de auxílio-doença ou aposentadoria por invalidez.
+Ainda, quanto ao pedido para realização de perícia com médico especialista em psiquiatria, conforme já referido acima, o exame foi realizado por psiquiatra.
+Como se percebe, o acórdão fundou-se nas provas existentes nos autos ao consignar o não preenchimento dos requisitos necessários à concessão dos benefícios requeridos, por constatar a ausência de comprovação da incapacidade para o exercício de atividade laboral.
+Logo,a alteração destas conclusões, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Neste mesmo sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. AUXÍLIO-ACIDENTE. AUXÍLIO-DOENÇA. LAUDO PERICIAL. INCAPACIDADE TOTAL, TEMPORÁRIA OU DEFINITIVA. COMPROVAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. VIOLAÇÕES CONSTITUCIONAIS. INCOMPETÊNCIA DO STJ.
+1. O agravante alega que não se trata de reexame das provas dos autos para a concessão do benefício previdenciário, mas da sua valoração e da aplicação da legislação e jurisprudência ao caso concreto.
+2. Não cabe análise por esta Corte Superior de violações de princípios e dispositivos constitucionais em recurso especial.
+3. Não há respaldo na legislação previdenciária para concessão de auxílio-acidente para contribuinte individual.
+4. O acórdão recorrido consignou que não ficou demonstrada a atividade desenvolvida pelo autor, tampouco a restrição impeditiva da atividade.
+5. Quanto aos demais benefícios previdenciários requeridos, quais sejam, aposentadoria por invalidez e auxílio-doença, o Colegiado local decidiu que, também, com base nas provas dos autos, não foram preenchidos os requisitos necessários para a concessão.
+6. Correto o entendimento da decisão impugnada de incidência da Súmula 7/STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1037230/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 07/12/2020, DJe 14/12/2020)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
