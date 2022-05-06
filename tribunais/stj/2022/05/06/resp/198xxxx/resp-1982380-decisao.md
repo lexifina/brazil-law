@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça da respectiva unidade federativa, assim ementado:
+"EMENTA: RECURSO DE AGRAVO - PRISÃO DOMICILIAR EM VIRTUDE DO COVID 19 - PRESO DO REGIME SEMIABERTO - RECONHECIMENTO DE FALTA GRAVE, PELO DESCUMPRIMENTO DAS REGRAS IMPOSTAS, COM FUNDAMENTO NO ARTIGO 50, V, DA LEP - IMPOSSIBILIDADE - HIPÓTESE RESERVADA AOS REEDUCANDOS DO REGIME PRISIONAL ABERTO - IMPOSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA - RECURSO PROVIDO. Diante da taxatividade das hipóteses previstas no artigo 50, da Lei de Execução Penal, não encontra amparo legal o reconhecimento de falta grave, com fundamento no inciso V do referido dispositivo legal, na conduta de reeducando que se encontra no regime semiaberto" (e-STJ, fl. 241).
+O recorrente sustenta violação aos artigos 39, V, 50, V e VI, e 118, I, todos da LEP, 619 do CPPe 1.022, parágrafo único, II, c/c 489, §1º, IV e VI, ambos do CPC.
+Sustenta que, "nos casos de concessão da prisão domiciliar para sentenciados em regime semiaberto, as condições de cumprimento do benefício são as mesmas que as aplicáveis a apenados em regime aberto. O descumprimento dessas condições caracteriza falta grave, nos termos dos artigos 50, V e VI c/c 39, V, ambos da LEP, com os consectários da regressão de regime e da perda dos dias remidos".
+Requer, assim, o provimento do recurso especial, a fim de que seja reconhecida "a prática de falta grave pelo sentenciado e aplicando-se, em desfavor dele, com suas as consequências legais, notadamente a regressão do regime prisional e a perda parcial dos dias remidos".
+Contrarrazões apresentadas (e-STJ, fls. 302-317) e admitido o inconformismo, os autos ascenderam ao STJ.
+O Ministério Público manifesta-se pelo provimento do recurso (e-STJ, fls. 338-341).
+É o relatório.
+Decido.
+A irresignação merece amparo.
+Inicialmente, não vislumbro ofensa aos arts. 619 do CPP e 489 e 1.022 do CPC, pois o Tribunal de origem se pronunciou sobre todos os aspectos relevantes para a definição da causa. Ressalte-se que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.
+Quanto à questão de fundo, oTribunal a quoreformou a decisão que havia reconhecido a prática de falta grave pelo reeducando, decretado a regressão de seu regime prisional para o fechado, revogado 1/3 do tempo remido e fixado novo marco para obtenção dos benefíciosda execução, nos seguintes termos:
+"Analisando os autos, constata-se que o reeducando V.F. se encontrava cumprindo pena no regime prisional semiaberto, em prisão domiciliar, e teria desrespeitado as condições impostas.
+Todavia, com pedido de respeitosa vênia, descabe a aplicação, por analogia, das sanções atinentes ao descumprimento das regras do regime prisional aberto, previsto no artigo 50, inciso V, da Lei de Execução Penal.
+Isso porque o agravado se encontrava no regime prisional semiaberto, excepcionalmente em prisão domiciliar, em razão da pandemia do Coronavírus.
+Com efeito, citada regra é aplicável exclusivamente aos reeducandos do regime prisional aberto, não podendo o Magistrado, em inequívoca analogia in malam partem, ampliar o âmbito de sua aplicação a reeducando que se encontra em regime prisional diverso, embora em gozo do benefício da prisão domiciliar.
+A situação é, pois, diferente da que foi retratada no agravo 1.0287.17.000246-6/001, já que, naquela ocasião, o agravante se encontrava no regime prisional aberto, circunstância que autorizou a aplicação do disposto no artigo 50, inciso V, do da Lei de Execução Penal.
+Assim, de rigor a cassação da decisão recorrida, afastando-se a falta grave e seus efeitos" (e-STJ, fl. 244).
+Todavia, este Superior Tribunal de Justiça tem entendimento firmado no sentido de que odescumprimento das condições impostas por ocasião do deferimento da prisão domiciliar caracteriza sim falta grave, implicando regressão de regime prisional.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. CONHECIMENTO. EXECUÇÃO PENAL. VIOLAÇÃO DE ZONA DE MONITORAMENTO. DESCUMPRIMENTO DE ORDEM RECEBIDA. FALTA GRAVE CONFIGURADA.
+1. Devidamente impugnados os fundamentos da decisão de inadmissão do recurso especial, é de ser reconsiderada a decisão que não conheceu do agravo, em ordem a que se evolua para o mérito.
+2. Consoante o disposto no art. 50, V, da Lei de Execução Penal, o descumprimento das condições impostas é considerada falta grave, sendo causa de regressão do regime prisional.
+3. Nos termos da jurisprudência desta Corte Superior, a violação da zona de monitoramento configura falta grave consubstanciada em desobediência de ordem recebida, a ensejar a regressão de regime prisional e a alteração da data-base para nova progressão.
+4. Agravo regimental provido. Agravo conhecido para negar provimento ao recurso especial".
+(AgRg no AREsp 1942873/TO, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 15/03/2022, DJe 21/03/2022)
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182/STJ. NÃO INCIDÊNCIA. IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DECISUM RECONSIDERADO. ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. INEXISTÊNCIA DE ESTABELECIMENTO PRISIONAL ADEQUADO E DE TORNOZELEIRA ELETRÔNICA DISPONÍVEL. CONCESSÃO DE PRISÃO DOMICILIAR POR MONITORAMENTO MEDIANTE VISITAS FISCALIZATÓRIAS. VIOLAÇÃO DO PERÍMETRO DA ÁREA DE INCLUSÃO. FALTA GRAVE. PRECEDENTES. TESE DE INAPLICABILIDADE DO ART. 50, INCISO V, DA LEP EM RAZÃO DE O REEDUCANDO NÃO ESTAR A USAR TORNOZELEIRA POR DECISÃO DO PRÓPRIO JUÍZO. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O descumprimento das condições impostas por ocasião do deferimento da prisão domiciliar caracteriza falta grave, implicando regressão de regime prisional.
+2. No caso, é certo que, em uma das visitas fiscalizatórias - que substituíram o uso da fiscalização eletrônica por falta de tornozeleira eletrônica -, o Reeducando não se encontrava em domicílio.
+3. O desrespeito ao perímetro de monitoramento configura falta grave.
+4. A alegação de que o Reeducando não estava a usar tornozeleira por decisão do próprio Juízo de primeiro grau e, por isso, o disposto no art. 50, inciso V, da Lei de Execução Penal, não poderia lhe ser aplicado, não foi objeto de específica apreciação da Corte de origem, faltando-lhe o necessário prequestionamento.
+5. Agravo regimental desprovido.(AgRg no AgRg no AREsp 1894551/TO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/10/2021, DJe 25/10/2021)
+Ante o exposto, com fundamento no artigo 255, § 4º, inciso III, do RISTJ, dou provimento ao recurso especial para restabelecer a decisão de primeiro grau.
+Publique-se. Intimem-se.
