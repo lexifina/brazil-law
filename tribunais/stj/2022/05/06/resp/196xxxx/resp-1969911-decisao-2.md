@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III,a, da Constituição Federal, interposto peloMinistério Público de Pernambucocontra oacórdãoproferidopelo Tribunal de Justiça localno julgamentodos Embargos de Declaração na Apelação Criminal n.0308620-0, que absolveu Renato Márcio Gomes de Menezes, com fundamento no art. 386, VII, do Código de Processo Penal.
+Nas razões, o recorrente suscitou violação do art. 619 do Código de Processo Penal, aduzindo, em suma, que inexistia vício no acórdão da apelação que justificasse a absolvição do recorrido em sede de julgamento de aclaratórios (fls. 2.204/2.222).
+Contrarrazões às fls. 2.367/2.376.
+A Corte de origem admitiu o recurso (fls. 2.379/2.380).
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do recurso, nos termos do parecer assim ementado (fl. 2.591):
+RECURSOS ESPECIAIS. TORTURA.EMBARGOS. OMISSÃO CONFIGURADA.NULIDADE, ABSOLVIÇÃO E DOSIMETRIA REEXAME DE PROVAS.
+I - Do recurso do Ministério Público do Estado de Pernambuco:
+1. Os embargos de declaração não devem ser acolhidos quando inexistente omissão, contradição ou obscuridade na decisão embargada.Contrariedade ao art. 619 do Código de Processo Penal. Configurada.
+2. Parecer pelo provimento do apelo especial.
+É o relatório.
+A insurgência não merece acolhida.
+O pressuposto para o acolhimentodos embargos de declaração opostos pelo recorrido e, por conseguinte, para concessão de efeitos infringentes ao acórdão embargado, é a existência de vício no provimento jurisdicional embargado.
+No caso, o Tribunala quoapontou o vício que subsidiou o acolhimento dos aclaratórios opostos pelo recorrente, qual seja, acontradição verificada entre as provas circunstanciadas no aresto embargadoe a conclusão externada no aresto, no sentido da suficiência de prova para condenação do recorrido (fls. 2.081/2.083):
+ ..
+3. DOS EMBARGOS DE DECLARAÇÃO OPOSTOS PELA DEFESA DERENATO MÁRCIO GOMES MENEZES
+Em suas razões recursais, às fls. 1658/1677, o embargante RenatoMárcio Gomes Menezes aduz que houve omissão e contradição respeitanteà fundamentação da decisão desta Colenda Câmara que reconhecendo a autoriae materialidade atinente ao cometimento dos delitos de tortura (art. 10, II, 540,I da Lei no 9.455/97) e de denunciação caluniosa (art. 339 do CódigoPenal) condenou-o às penas de 02 (dois) anos e 04 (quatro)meses dereclusão a ser cumprida, inicialmente, em regime fechado e 02 (dois)anos e 06 (seis) meses de reclusão a ser cumprida, incialmente, emregime aberto cumulados com 30 (trinta) dias-multa no valor unitáriode 1/30 (um trigésimo) do salário mínimo vigente à época dos fatos,respectivamente.
+Adianto a Vossas Excelências que, em análise detida dos presentesautos e refluindo do meu voto exarado na ocasião do julgamento dorecurso de apelo vinculado a estes Embargos (fl. 1533), à época sob aRelatoria do saudoso Desembargador Roberto Ferreira Lins, restoconvencido acerca da necessidade de absolvição do Embargante RenatoMárcio Gomes Menezes da prática dos delitos de tortura e de denunciaçãocaluniosa, nos mesmos termos da sentença então prolatada pelo Juízo aquo, tudo isso à luz doprincípio in dubio pro reo.
+Compulsando os autos, em suma, verifica-se que a torturaperpetrada e relatada na exordial acusatória foi efetivada pelo corréuAntônio Lopes de Assis Filho, a mando do apelante Edival Alves Maia, coma finalidade de amedrontar a vítima Josecleilton Nobre da Silva, o qualestava investigando o assassinato de seu irmão Josenilton Nobre daSilva, sendo os corréus em epígrafe os suspeitos da prática destehomicídio, fato este que, inclusive, resultara em processo criminal emdesfavor destes.
+No tocante ao Embargante Renato Márcio Gomes Menezes, estouconvencido de que não há prova nos autos que atestem que este tinha oconhecimento dos verdadeiros motivos da abordagem policial conduzidapor Antônio Lopes de Assis Filho e Edival Alves Maia, razão pela qual nãohá como se imputar qualquer espécie de dolo relativo ao crime de tortura,sequer na sua modalidade omissiva.
+Da leitura de todos os depoimentos constantes dos autos, restacristalino que o Embargante não participou do espancamento da vítimaJosecleiton Nobre da Silva, situação diversa a de todos os demaisinsurgentes nestes autos.
+É o que se verifica nas declarações da vítima Josecleiton Nobre daSilva perante a autoridade policial (fls. 23 e 48) e, em sede judicial, dastestemunhas Josias Nobre da Silva (fls. 447/450), Rozineide Estevão daSilva (fis. 450/452), Roberta Caetano da Silva (fis. 453/455),José Alvesdos Santos (fl. 456), Jose Pereira da Silva (fis. 660/662), José RonaldoNunes da Silva (fls. 813/815), George Raniere Neves Campos (fls.815/816). Assim como, é o que se verifica do interrogatório dosEmbargantes Renato Márcio Gomes Menezes (fls. 1115/1118), Willam doPrado Barbosa (fis. 1118/1120) e Edival Alves Maia (fis. 1120/1121).
+Igualmente, no que concerne ao delito de denunciação caluniosa,não há prova suficiente nestes autos que conduza à conclusão de que oEmbargante tinhao conhecimento prévio da inocência da vítima emrelação à suposta posse de arma de fogo escondida no Sítio Pintada,motivo pelo qual o dolo exigido para a caracterização do crime não restouconfigurado.
+Ressalto que a atividade judicante penal, além de exigir a aplicaçãotécnica do nosso ordenamento jurídico, exige também uma capacidadede reflexão por parte do julgador e a ciência de que, além dos volumesque formam um processo, há também vida e cidadania em cada réu, naexata proporção que vige no processo criminal o princípio basilar do indubio pro reo, corolário do Estado Democrático de Direito.
+Assim, no caso concreto, entendo que o grau de certeza exigidopara uma condenação penal não fora atingido, sob nenhuma ótica.
+De mais a mais, é certo que, in casu, não há lastro probatórioseguro que assegure uma justa condenação do ora Embargante.
+Nesse sentido, em tais casos, fica a lição básica aprendida nodireito e que deve lastrear a atuação em busca da justiça: na dúvida épreferível absolver um culpado a condenar um inocente.
+Assim sendo, acolho os Embargos Declaratórios de Renato MárcioGomes Menezes, reconhecendo contradição em relação à prova destesautos, para absolvê-lo da prática dos delitos tipificadosno art. 1º, II, §4º, I,da Lei n.9.455/97 e art. 339 do Código Penal.
+ ..
+Logo, não há falar em violação do art. 619 do CPP e, consequentemente, de ilegalidade que justifique a cassação do acórdão exarado no julgamento dos aclaratórios.
+Quanto ao pleito de reversão da conclusão do julgado em si, a fim de que a condenação seja restabelecida, o recurso encontra óbice na Súmula 7/STJ..
+Ora,o restabelecimento do acórdão condenatório só poderia ocorrer mediante a conclusãodeque inexiste contradição entre as provas coligidas no acórdão da apelação e a conclusão lançada naquele aresto (suficiência de provas para a condenação do recorrido), providência essa que demandaria o reexame das provas coligidas, o que é inviável em sede de recurso especial.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. TORTURA E DENUNCIAÇÃO CALUNIOSA. SUPOSTA VIOLAÇÃO DO ART. 619 DO CPP. TESE DE QUE INEXISTIA VÍCIO NO ACÓRDÃO CONDENATÓRIO QUE JUSTIFICASSE O ACOLHIMENTO DOS ACLARATÓRIOS OPOSTOS PELA DEFESAE A ABSOLVIÇÃO DO RECORRIDO. IMPROCEDÊNCIA. CONTRADIÇÃO DEVIDAMENTE DELINEADA NO ACÓRDÃO ATACADO. REVERSÃO DO JULGADO EM SI. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Recurso especial conhecido em parte e, nessa extensão, desprovido.
