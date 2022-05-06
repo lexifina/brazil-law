@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BRUNO CESAR OLIVEIRA GOMES, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n. 0002080-69.2021.8.26.0496.
+Consta dos autos que o Paciente está no cumprimento da pena de 5 (cinco) anos e 10 (dez) meses de reclusão, atualmente no regime fechado, pela prática do delito previsto no art. 157, § 2.º, incisos II e VII, do Código Penal,com término previsto para 11/07/2026.
+O Juízo da Execução Penal homologou o cálculo de pena elaborado, no qual está previsto o lapso temporal de 30% (trinta por cento) da reprimenda como requisito objetivo para a obtenção de progressão de regime (fls. 36-40).
+Irresignado, o Apenado interpôs agravo em execução, ao qual foi negado provimento pelo Tribunal estadual nos termos do acórdão acostado às fls. 89-95.
+Daí o presente mandamus, em que a Parte Impetrante aduz que o Reeducando éreincidente, porém não específico, visto que sua primeira condenação foi por tráfico de drogas e reincidente na prática de roubo majorado. Assim, sustenta que faz jus à progressão de regime no quantum de 20% (vinte por cento) da reprimenda, conforme previsto no art. 112, inciso II, da Lei de Execuções Penais, com nova redação trazida pela Lei n. 13.964/2019.
+Requer, liminarmente e no mérito, a retificação dos cálculos das penas, de modo a reconhecer o lapso de 20% (vinte por cento) para fins de progressão de regime em relação ao crime comum.
+O pedido liminar foi indeferido pelo Ministro HUMBERTO MARTINS, no recesso forense (fls. 108-109).
+Prestadas as informações, o Ministério Público Federal opinou pela parcial concessão da ordem de habeas corpus, de ofício, "para que seja aplicado o percentual de 25% de cumprimento da pena para a progressão de regime" (fl. 138).
+É o relatório. Decido.
+O Juízo da Execução Penal, ao homologar o cálculo de penas, consignou o seguinte (fls. 36-37):
+"Com efeito, além de comprovado nos autos resultou incontroverso que o condenado é reincidente.
+Assim, não pode ser considerado primário, já que tais circunstâncias pessoais são diversas e inconfundíveis, com aptidão para produzir efeitos jurídicos igualmente diferentes.
+Logo, não se lhe aplica, para o fim de progressão de regime prisional, o lapso previsto no artigo 112, inciso III, da Lei de Execução Penal, incluído pela Lei n. 13.964/2019.
+ ..
+Ou seja, basta que o condenado seja reincidente (reincidência genérica ou simples), não se exigindo, pois, reincidência específica no cometimento de crime com violência à pessoa ou grave ameaça, para que tenha de cumprir 30% (trinta por cento) da sanção privativa de liberdade em execução, a fim de satisfazer o requisito objetivo necessário para obtenção de progressão de regime prisional, previsto no artigo 112, inciso IV, da Lei de Execução Penal, incluído pela Lei n. 13.964/2019."
+A Corte estadual, por sua vez, adotou as seguintes razões de decidir (fls. 92-93):
+"Isso porque o agravante se trata de reincidente que já descontou penas pela prática do crime de tráfico de drogas, e agora se viu condenado pelo cometimento de roubo qualificado.
+De se observar que, em se tratando de condenado reincidente, necessário se faz que desconte 30% do total das penas impostas quanto ao crime praticado com emprego de violência ou grave ameaça, para que seja considerado satisfeito o requisito de ordem objetiva, necessário à concessão de progressão.
+E tal premissa deve ser seguida na interpretação da Lei nº 13.964/2019, denominada Pacote Anticrime, cujo objetivo é recrudescer o acesso a benefícios para os condenados por crimes hediondos, crimes praticados com violência e crimes decorrentes de organizações criminosas, observando-se ainda, que do texto do artigo 112, IV, não se vislumbra a referência a reincidência específica, como se dá nos dispositivos em que tal deve ser observada, a exemplo o artigo83, V, do Código Penal."
+Antes da vigência do mencionado regramento, o art. 112 da Lei de Execução Penal previa como requisito objetivo o cumprimento da fração de 1/6 (um sexto) da pena no regime anterior, para os condenados por crimes comuns (primários ou reincidentes). Já para os condenados por crimes hediondos, a Lei n. 8.072/1990, em seu art. 2.º, § 2.º, estabelecia as frações de 2/5 (para os réus primários) e 3/5 (para os reincidentes).
+Com a entrada em vigor da Lei n. 13.964/2019, os lapsos temporais necessários à progressão prisional passaram a ser previstos exclusivamente no art. 112 da Lei de Execução Penal, cujo teor é o seguinte:
+"Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+I - 16% (dezesseis por cento) da pena, se o apenado for primário e o crime tiver sido cometido sem violência à pessoa ou grave ameaça;
+II - 20% (vinte por cento) da pena, se o apenado for reincidente em crime cometido sem violência à pessoa ou grave ameaça;
+III - 25% (vinte e cinco por cento) da pena, se o apenado for primário e o crime tiver sido cometido com violência à pessoa ou grave ameaça;
+IV - 30% (trinta por cento) da pena, se o apenado for reincidente em crime cometido com violência à pessoa ou grave ameaça;
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+VI - 50% (cinquenta por cento) da pena, se o apenado for:
+a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional;
+b) condenado por exercer o comando, individual ou coletivo, de organização criminosa estruturada para a prática de crime hediondo ou equiparado; ou
+c) condenado pela prática do crime de constituição de milícia privada;
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado;
+VIII - 70% (setenta por cento) da pena, se o apenado for reincidente em crime hediondo ou equiparado com resultado morte, vedado o livramento condicional."
+No caso, embora condenado pela prática do delito previsto no art. 157,§ 2.º, incisos II e VII, do Código Penal, oPaciente não é reincidente em delito cometido com violência à pessoa ou grave ameaça(condenação anterior pela prática de tráfico de drogas). Essa conjuntura não encontra previsão específica na nova lei, razão pela qual, diante da lacuna legislativa, deverá o julgador integrar a norma, resolvendo a controvérsia de maneira mais favorável ao Sentenciado, isto é, com aplicação do percentual previsto para o Réu primário ("III - 25% (vinte e cinco por cento) da pena, se o apenado for primário e o crime tiver sido cometido com violência à pessoa ou grave ameaça").
+Portanto, na hipótese em exame, o Paciente alcançará o lapso temporal para a progressão de regime quando houver cumprido ao menos 25% (vinte e cinco por cento) da reprimenda, segundo o disposto no art. 112, inciso III, da Lei n. 7.210/1984.
+Sobre a matéria, destaco oseguinte julgado:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. CRIME COMETIDO COM VIOLÊNCIA OU GRAVE AMEAÇA. PROGRESSÃO DE REGIME. APENADO REINCIDENTE GENÉRICO. LEI 13.964/2019. LACUNA NA NOVA REDAÇÃO DO ART. 112 DA LEP. INTERPRETAÇÃO IN BONAM PARTEM.
+1. Esta Corte firmou a orientação de que "A Lei n. 13.964/2019 (Pacote Anticrime) revogou o art. 2º, § 2º, da Lei n. 8.072/1990 - dispositivo que não fazia diferenciação entre a reincidência específica ou genérica para a progressão de regime -, estabeleceu novos lapsos para progressão e modificou o art. 112 da Lei de Execução Penal. A norma é expressa ao afirmar que a porcentagem (30%) deve ser aplicada aos condenados reincidentes em crimes cometidos com violência à pessoa ou grave ameaça" (AgRg no HC 675.062/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/08/2021, DJe 09/08/2021).
+2. Tratando-se de condenado por crime praticado com violência ou grave ameaça à pessoa, não reincidente em delito de mesma natureza, aplicar-se o lapso de 25% da pena, nos termos do inciso III do art. 112 da Lei de Execução Penal.
+3. Agravo regimental improvido." (AgRg no HC n. 664.003/SP, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF1), DJe de 11/10/2021.)
+Ante o exposto, CONCEDO parcialmente aordem de habeas corpus para determinar que a transferência do Paciente para regime menos rigoroso observe, quanto ao requisito objetivo, o cumprimento de 25% (vinte e cinco por cento) da pena a que foi condenado pela prática do delito previsto no art. 157, § 2.º, inciso II, do Código Penal, conforme previsto no art. 112, inciso III, da Lei n. 7.210/1984.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ART. 112 DA LEI N. 7.210/1984 COM AS ALTERAÇÕES INTRODUZIDAS PELA LEI N. 13.964/2019. REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME COMETIDO COM VIOLÊNCIA À PESSOA OU GRAVE AMEAÇA. REQUISITO OBJETIVO. PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS. APLICAÇÃO DO PRAZO DE 25% (VINTE E CINCO POR CENTO) DA PENA. ORDEM DE HABEAS CORPUS CONCEDIDA EM PARTE.
