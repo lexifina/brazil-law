@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão do Tribunal Regional Federal da 4.ª Região nos Embargos de Declaração na Apelação Criminal n. 5014874-29.2018.4.04.7001/PR.
+Consta dos autos que o Juízo de primeiro grau condenou o Recorrido à pena de 2 (dois) anos, 9 (nove) meses e 7 (sete) dias de reclusão, em regime inicial fechado, como incurso no art. 334-A, caput, e § 1.º, incisos I e V, do Código Penal, c.c. os arts 2.º e 3.º do Decreto-lei n. 399/1968 e art. 29, caput, do Código Penal. Houve apelação somente defensiva, a que o Tribunal de origem, por maioria, negou provimento, em acórdão assim ementado (fl. 747):
+"DIREITO PENAL. CONTRABANDO DE CIGARROS. AUTORIA. COMPROVAÇÃO. DOSIMETRIA.
+1. Configura o crime do art. 334-A, §1º, I, do CP, c/c o art. 3º do Decreto-Lei nº 399/68 a conduta de transportar cigarros de origem estrangeira desacompanhados de documentação comprobatória de sua regular internalização no país.
+2. Os elementos probatórios constantes nos autos são suficientes para impor a condenação a ambos os réus pela prática de contrabando.
+3. Afasta-se a reincidência quando o delito apontado como configurador da reincidência transita em julgado depois da data dos fatos ora analisados."
+Opostos embargos de declaração defensivos, foram acolhidos, para determinar "a remessa do feito ao juízo de origem para verificação de eventual possibilidade de oferecimento do acordo de não persecução penal previsto no art. 28-A do Código de Processo Penal, introduzido pela Lei n.º 13.964/2019" (fl. 792). Contudo, não chegou a haver o cumprimento da determinação, pois houve a interposição do presente recurso especialpelo Parquet,a impugnando, e de embargos infringentescontra o acórdão da apelação, os quais foram desprovidos, por maioria, nos termos da seguinte ementa (fl. 917):
+"PENAL. CONTRABANDO. CIGARROS. PROPRIETÁRIO DO VEÍCULO TRANSPORTADOR. INSUFICIÊNCIA PROBATÓRIA. AFASTADA. CONDENAÇÃO MANTIDA.
+1. O embargante não apresentou qualquer justificativa plausível, tampouco apresentou provas, que o isentasse da responsabilidade sobre o veículo no momento em que foi apreendido, não logrando comprovar que não tinha ciência do uso do mesmo no ilícito.
+2. Da mesma forma que incumbe à acusação provar a responsabilidade do acusado, é ônus da defesa, a teor do art. 156, 1ª parte, do CPP, provar a verossimilhança das teses invocadas em seu favor. A técnica genérica de inexistência de culpabilidade não tem o condão de repelir a sentença condenatória."
+No apelo nobre acusatório, é alegadaviolação ao art. 28-A do Código de Processo Penal, sustentando-se ser descabida a sua aplicação retroativa, na situação dos autos, onde já havia recebimento da denúncia, pedindo seja afastada a sua incidência no caso concreto.
+Admitiu-se o recurso na origem (fl. 961).
+O Ministério Público Federal manifesta-se pelo provimento do recurso (fls. 982-985).
+Nesta Corte Superior, constatado que o Tribunal de origem não tinha aberto vista para a Defensoria Pública da União, acerca do recurso especial acusatório, proferiu-se despacho chamando o feito à ordem e abrindo-se vista à referida Instituição, para que apresentasse resposta ao apelo nobre do Ministério Público Federal (fl. 987), a qual foi oferecida às fls. 997-1002.
+Éo relatório.
+Decido.
+Tem razão o Parquet federal.
+Não é cabível a aplicação doacordo de não persecução penal ao caso em apreço, pois, nos termos da jurisprudência desta Corte Superior, "oacordo de não persecução penal, inovação inserida em nosso ordenamento jurídico pelo art. 28-A, do Código de Processo Penal -CPP, tem sua retroatividade limitada aos processos em que ainda não houve o recebimento da exordial acusatória"(AgRg no HC 619.465/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA,DJe 17/09/2021).
+No mesmo sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ANPP. RETROATIVIDADE. IMPOSSIBILIDADE. VIOLAÇÃO AO PRINCÍPIO DO DEFENSOR NATURAL. NÃO OCORRÊNCIA. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+1. "Consoante entendimento pacificado no âmbito desta Corte, a possibilidade de aplicação retroativa do instituto relativo ao acordo de persecução penal, previsto no art. 28-A do CPP, inserido pela Lei n. 13.964/2019, somente é possível aos processos em curso até o recebimento da denúncia, situação não verificada na espécie."(AgRg no AREsp n. 1.561.858/RS, RelatorMinistro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 11/5/2021, DJe 18/5/2021). .. "(AgRg no HC 629.473/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/08/2021, DJe 24/08/2021, sem grifos no original.)
+No caso concreto, já havia, inclusive, sentença condenatória prolatada, quando entrou em vigor a Lei n. 13.924/2019.
+Sendo assim, deve ser cassada a determinação do Tribunal de origem, feita no julgamento dos embargos de declaração opostos contra o acórdão da apelação, no sentido de que baixassem os autos ao Juízo de primeiro grau, a fim de que os autos fossem encaminhados ao Ministério Público Federal, para que se verificasse a possibilidade de oferecimento do referido acordo.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para afastar a aplicação do art. 28-A do Código de Processo Penal, segundo determinado pela Corte Regional,nos termos da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. ART. 1.º, INCISO I, DA LEI N. 8.137/1990. ACORDO DE NÃO PERSECUÇÃO PENAL. NÃO CABIMENTO. DENÚNCIA RECEBIDA ANTES DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. SENTENÇA CONDENATÓRIA PROLATADA. RECURSO ESPECIAL PROVIDO.
