@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por JEFFERSON DE FREITAS SOARES (JEFFERSON), com fundamento no art. 105, III, alíneasa e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AÇÃO REDIBITÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER E PRETENSÃO INDENIZATÓRIA - ADQUIRENTE DE LOTES DE TERRENO, SITUADOS EM ÁREA DE PROTEÇÃO PERMANENTE, QUE POR EXIGÊNCIA DO ÓRGÃO AMBIENTAL SOFREU RESTRIÇÃO AO LIVRE EXERCÍCIO DOS ATRIBUTOS INERENTES À PROPRIEDADE - RÉUS QUE NÃO LOGRARAM DEMONSTRAR, NO INSTRUMENTO PARTICULAR DE COMPROMISSO DE COMPRA E VENDA DOS LOTES OU EM QUALQUER MOMENTO, DURANTE ASTRATATIVAS DE NEGOCIAÇÃO, QUE TIVESSEM LEVADO AO CONHECIMENTO DO AUTOR A POSSIBILIDADE DE INCIDÊNCIA DE EXIGÊNCIAS OU RESTRIÇÕES QUANTO À PRETENSÃODE CONSTRUÇÃO NOS IMÓVEIS - VÍCIO REDIBITÓRIO CONFIGURADO, DIANTE DA COMPROVAÇÃO DE QUEOS RÉUS FALTARAM COM A VERDADE QUANDO AFIRMARAM AO AUTOR QUE POSSUÍAM LICENÇA DA PREFEITURA PARA CONSTRUIR NOS LOTES, FATO QUE, POSTERIORMENTE, VERIFICOU SER INVERÍDICO, POIS QUE O PODER PÚBLICO MUNICIPAL, AO SER SOLICITADO NESTE SENTIDO, AFIRMOU SER DO IBAMA A ATRIBUIÇÃO DE CONCEDER LICENÇA AMBIENTAL PARA EDIFICAÇÃO NO LOCAL - VIOLAÇÃO AO DEVER DE INFORMAÇÃO, ASSIM COMO AOS PRINCÍPIOS DE PROBIDADE E BOA-FÉ QUE REGEM AS RELAÇÕES CONTRATUAIS, A TEOR DO ARTIGO 422 DO CÓDIGO CIVIL DANO MORAL CONFIGURADO QUANTUM INDENIZATÓRIO ADEQUADAMENTE ARBITRADO -SUCUMBÊNCIA RECÍPROCA MANTIDA DESPROVIMENTO DOS RECURSOS(e-STJ, fl. 395/396).
+Os embargos de declaração opostos porJEFFERSONforam rejeitados (e-STJ, fls. 430/432).
+Nas razões do presente recurso,JEFFERSON alegou a violação aos arts. 11, 85, 86, 489, §1º, e 1.022, II, e parágrafo único, do NCPC; e 42, 509, 510, 511 e 512 do CC/02, ao sustentar(1)ausência de fundamentação e negativa de prestação jurisdicional consubstanciada em omissão e contradição, pois, embora tivessesidoreconhecido que, em relação ao lote 113, apenas uma pequena área erapermitida paraedificação (2,36% do lote), o que restringiriao direito do proprietário, não foi acolhido o pedido de abatimento proporcional do preço;(2)abatimento proporcional no preço em relação ao lote que deveriaser delimitado em fase de liquidação de sentença;e(3)não aplicação dasucumbência recíproca, já que quase todos os pedidos da inicial foram acolhidos(e-STJ, fls. 446/460).
+Foram apresentadas contrarrazões (e-STJ, fls. 503/510).
+É o relatório.
+Decido.
+O recursomerece prosperar.
+(1) Da negativa de prestação jurisdicional
+O TJRJ, ao analisar os embargos de declaração, incorreu emomissão e contradição, pois, embora tivesse sido reconhecido que, em relação ao lote 113, apenas uma pequena área era permitida para edificação (2,36% do lote), o que restringiria o direito do proprietário, não foi acolhido o pedido de abatimento proporcional do preço.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o TJRJa se manifestar sobre as questões federais terminou por negar prestação jurisdicional aoRecorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE. 1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC. 2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicada a analise das demais questões.
+Nessas condições,DOU PROVIMENTO ao recurso especial, determinando o retorno dos autos ao TJRJpara que analise as questõestrazidas nos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO REDIBITÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER E PRETENSÃO INDENIZATÓRIA. OMISSÃO E CONTRADIÇÃO.OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. RECURSO ESPECIAL PROVIDO.
