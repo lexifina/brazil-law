@@ -1,0 +1,47 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. OMISSÃO E OBSCURIDADE. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não ocorreu na hipótese.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de embargos de declaração opostos por ADRIANO COSTA BASTOS contra acórdão da Sexta Turma desta Corte Superior, de minha relatoria, cuja ementa é a seguinte (fl. 233):
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. PROCESSUAL PENAL. WRIT MANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADOR RELATOR NO TRIBUNAL DE ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. PRECEDENTES. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que o habeas corpus foi manejado contra decisão singular do Relator da apelação criminal que indeferiu o pedido de revogação da prisão cautelar, sem, contudo, ocorrer a interposição de agravo regimental objetivando a manifestação do Órgão Colegiado.
+2. Ausente o exaurimento da instância ordinária e, não se tratando de hipótese excepcional de flagrante ilegalidade, impõe-se o indeferimento liminar da petição inicial.
+3. Agravo regimental desprovido."
+Em suas razões, o Embargante reitera a alegação de que não houve supressão de instância, pois "o processo está com o relator do TRF2 para o processamento do recurso de apelação, e a defesa apenas protocolou pedido de liberdade com fundamento no artigo 316 do CPP, o que foi indeferido pelo relator, mas sem qualquer fundamentação idônea, daí porque fora interposta a presente ação autônoma" (fl. 241).
+Requer "sejam sanadas as omissões e obscuridades da decisão, reconsiderando a decisão de indeferimento do pedido liminar, no sentido de esclarecer o ponto questionado, ainda que seja para conceder de ofício a ordem pleiteada" (fl. 241).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. OMISSÃO E OBSCURIDADE. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a sanar ambiguidade, suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado, o que não ocorreu na hipótese.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado.
+A obtenção de efeitos infringentes somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos indicados no supramencionado dispositivo legal, a alteração do julgado seja consequência inarredável da correção do referido vício, bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado.
+No caso, o Embargante não demonstra, em sua argumentação, a ocorrência de nenhuma das hipóteses legais ensejadoras dos embargos declaratórios, sendo devida a transcrição dos fundamentos apresentados no acórdão embargado (fls. 235-237; grifos no original):
+"A irresignação não prospera.
+O Agravante está preso provisoriamente desde 08/01/2020 (fl. 116) e foi condenado, em 11/11/2021, à pena de 18 (dezoito) anos de reclusão, em regime inicial fechado, além do pagamento de 180 (cento e oitenta) dias-multa, pela prática dos crimes previstos no art. 2.º, § 4.º, incisos II e V, da Lei n. 12.850/2013 e art. 18, c.c. o art. 19, ambos da Lei n. 10.826/2003 (tráfico internacional de munições para arma de fogo). Consta dos autos que o Acusado, "policial militar, com o vulgo de "ADRIANO POKEMON", era o responsável pela segurança e logística da organização criminosa liderada pelo seu irmão, o réu ANDRE COSTA BASTOS" (fl. 170).
+Na sentença condenatória, o Juízo singular negou ao Réu o direito de recorrer em liberdade.
+Após a distribuição do apelo defensivo ao Desembargador Relator, a Defesa pugnou pela revogação da prisão preventiva do Acusado. A decisão monocrática de fls. 39-40 indeferiu o pedido de soltura do Agravante nos seguintes termos:
+Evento2 pet1 - Indefiro o requerido, adotando as razões postas na sentença:
+"Posto que inalteradas as circunstâncias e motivos autorizadores para o decreto da prisão preventiva nos termos do art. 312 do CPP, como tantas vezes já afirmados e reiterados nesses autos, evidenciados portanto o periculum libertatis e ainda mais presente nesta fase posterior a sentença condenatória, já que comprovadas as autorias delitivas e que fica mais evidente a necessidade de se assegurar o cumprimento da lei penal, o cumprimento da presente condenação e de se evitar a evasão do seu cumprimento, renovo os fundamentos da prisão preventiva decidindo pela sua manutenção, devendo os apenados permanecerem custodiados onde se encontram.""
+Como se vê, o presente writ foi manejado contra decisão monocrática do Desembargador Relator do Tribunal Regional Federal da 2.ª Região. Assim, reafirmo que, ausente o exaurimento da instância ordinária, impõe-se o não conhecimento da presente ação mandamental.
+ ..
+Ademais, não é o caso de reconhecimento de manifesta ilegalidade, pois a decisão que revisa a necessidade da manutenção do título prisional inicial não o substitui; ao contrário, a manutenção da custódia consubstancia a constatação de que os fundamentos da decretação primeva persistem. Por isso a jurisprudência desta Corte se posiciona no sentido de que "para a manutenção da prisão preventiva, nos moldes do art. 316, parágrafo único, do Código de Processo Penal, não é necessária a ocorrência de fatos novos, bastando que subsistam os motivos ensejadores do decreto prisional" (AgRg no HC 591.512/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020).
+Outrossim, em uma das decisões anteriores que manteve a prisão cautelar do Acusado, o Magistrado singular asseverou que "esta organização criminosa possui grande potencial para o cometimento de crimes gravíssimos relacionados à comercialização de drogas e armas provenientes de regiões de fronteira com o Brasil, desenvolvida de forma habitual e organizada, com o objetivo de abastecer grupos criminosos que atuam no Rio de Janeiro, permanecendo o risco à ordem pública, inclusive de reiteração criminosa já comprovada ao longo do processo" (fl. 69 dos autos do HC n. 641.112/RJ), o que justifica a necessidade de manutenção da segregação cautelar, pois a " ..  periculosidade do agente, evidenciada pelo modus operandi, e a necessidade de se interromper a atuação de integrantes de organização criminosa constituem fundamentos idôneos para o decreto preventivo" (AgRg no HC 644.646/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 27/04/2021, DJe 29/04/2021).
+Na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental."
+Como se vê, o acórdão embargado ressaltou que não houve o exaurimento da instância ordinária, pois este habeas corpus foi impetrado contra decisão monocrática do Desembargador Relator do Tribunal Regional Federal da 2.ª Região, o que impede o conhecimento deste writ. Outrossim, foi destacada a inexistência de ilegalidade flagrante.
+Em verdade, verifico que os presentes embargos de declaração foram opostos com o inequívoco intento de viabilizar novos debates a respeito de assuntos já decididos, o que sabidamente não se coaduna com a sua finalidade processual.
+Com igual conclusão:
+"EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+1. Não se presta o recurso integrativo a rediscutir matéria já analisada e decidida. Na verdade, sob o pretexto de haver "omissão", a parte embargante indisfarçavelmente busca impugnar o acórdão que lhe foi desfavorável, insistindo nos mesmos argumentos, com o inequívoco intento de rediscutir a causa, o que não se coaduna com a via eleita.
+2. Embargos de declaração rejeitados." (EDcl no AgRg no AREsp 1871524/AM, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/10/2021, DJe 16/11/2021; sem grifos no original.)
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
