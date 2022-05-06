@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  MAURICIO  FERREIRA  MATOS  no  qual  se  aponta  como  autoridade  coatora  o  Tribunal  de  Justiça  do  Estado  de  São  Paulo  (Apelação  n.  0099365-47.2018.8.26.0050).
+Depreende-se  dos  autos  que  o  paciente  foi  condenado  à  pena  de  6  anos  e  8  meses  de  reclusão,  e  ao  pagamento  de  16  dias-multa,  pela  prática  do  delito  tipificado  no  art.  157,  §§  2º,  II,  e  2º-A,  I,  c/c  o  art.  29,  todos  do  CP;  bem  como  à  sanção  de  3  anos  de  reclusão  e  10  dias-multa,  pela  conduta  prevista  no  art.  311,  caput,  do  CP;  além  da  reprimenda  de  3  anos  de  reclusão  e  10  dias-multa  como  incurso  no  art.  16,  IV,  da  Lei  n.  10.826/2003,  a  serem  cumpridas  em  regime  fechado,  tendo-lhe  sido  negado  o  direito  de  recorrer  em  liberdade  (e-STJ  fls.  9/16).
+No  presente  writ,  a  defesa  aponta  constrangimento  ilegal  decorrente  do  excesso  de  prazo  para  julgamento  do  recurso  de  apelação.
+Pontua  que  o  "paciente  está  custodiado  desde  o  dia  18/10/2018,  tendo  sido  condenado  no  dia  08/02/2019  e,  interposto  o  recurso  no  dia  03/05/2019,  e  o  Tribunal  Bandeirante  ainda  não  tem  nem  previsão  de  data  para  sua  apreciação,  uma  vez  que  o  autos  estão  a  1  ano  e  4  meses  da  sua  tramitação  e  mais  de  10  (dez)  meses  os  autos  encontram-se  conclusos  com  o  E.  Desembargador  Relator,  ressaltando-se  que  não  obstante  o  Relator  do  apelo  tenha  recebido  os  autos  com  parecer,  prontos  para  julgamento"  (e-STJ  fl.  5).
+Dessa  forma,  requer,  liminarmente  e  no  mérito,  que  o  paciente  possa  aguardar  em  liberdade  o  julgamento  da  apelação  com  a  expedição  do  competente  alvará  de  soltura.(e-STJ  fls.  3/8).
+É  o  relatório.
+Decido.
+No  caso,  conforme  informações  obtidas  no  sítio  eletrônico  do  Tribunal  de  origem  (www.tjsp.jus.br,  Processo  n.  0099365-47.2018.8.26.0050),  observa-se  a  superveniência  do  julgamento  do  recurso  de  apelação  objeto  deste  writ  ,  oportunidade  na  qual  o  apelo  defensivo  da  defesa  foi  desprovido  em  02/02/2022,  enquanto  o  recurso  ministerial  foi  parcialmente  provido.
+Assim,  constato  ter  ocorrido  a  perda  de  objeto  da  pretensão  atinente  ao  reconhecimento  de  excesso  de  prazo  para  julgamento  do  recurso  de  apelação.
+Ante  o  exposto,  julgo  prejudicado  o  habeas  corpus.
+Publique-se.  Intimem-se.
