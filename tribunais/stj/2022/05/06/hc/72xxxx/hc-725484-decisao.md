@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de JOSUÉ FAGUNDES DE SOUZA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Ação Penal n. 1501349-62.2019.8.26.0530).
+O paciente foi condenado às penas de 1 ano de reclusão (substituída por restritiva de direitos de prestação de serviços à comunidade) e de 10 dias-multa, como incurso no art. 180, caput, do Código Penal (fato 02); e às penas de 13 anos, 10 meses e 20 dias de reclusão (regime fechado) e de 70 dias-multa, como incurso no art. 157, § 2º, II e V, e § 2º-A, I, do CP.
+Interposta apelação defensiva, o Tribunal de origem deu parcial provimento ao recurso - para as reprimendas do paciente e dos seus comparsas -, totalizando a pena definitiva do paciente Josué em 11 anos, 3 meses e 16 dias de reclusãoem regime prisional inicial fechadoe em 21 dias-multa, como incurso nas sanções do art. 157, § 2º, II e V, e § 2º-A, I, do CP (FATO 03), preservadas as penase o regime prisional aberto a ele impostono decisum, por infração ao art. 180, caput, do CP (FATO 02) (fls.53-71).
+A defesa alega atenuante da confissão parcial utilizada na condenação do paciente.
+Requer a concessão da ordem para redimensionar a pena do paciente, reconhecendo-se a atenuante da confissão espontânea.
+As informações foram prestadas às fls. 81-132 e 134-215.
+O Ministério Público Federal manifestou-se "pela concessão da ordem de ofício, unicamente para que seja reconhecida a atenuante da confissão espontânea, pois, embora parcial - o paciente admitiu ter participado do roubo, indicando os outros coautorese que parte dos bens subtraídos estava em sua casa (e-STJ Fl. 25) -, foi utilizada para lastrear a condenação" pelo crime de roubo (fl. 220).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, o pleito formulado no presente writ é dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+A sentença, ao reconhecer a atenuante da confissão ao paciente, dispôs o seguinte (fls. 26-46):
+Presos em flagrante delito, BRUNO negou a prática delitiva, enquanto que JOSUÉ afirmou que Bruno e Matheus lhe propuseram guardar alguns objetos em sua residência para ganhar certa quantia em dinheiro, negando participação no roubo.
+ ..
+JOSUÉ Fagundes de Souza negou ter participado do roubo do I 30, restringindo-se a alegar que apenas guardou os objetos por estar passando por dificuldades financeiras e que Matheus e Bruno lhe propuseram para guardá-los em troca de ganhar a quantia de duzentos reais.
+Segundo Josué, no período matutino do dia dos fatos Matheus e Bruno estiveram em sua casa e lá deixaram televisores, joias e vários outros objetos que não soube descrever; solicitou que retirassem logo os objetos, contudo, policiais lá chegaram e na apreensão informaram tratar-se de produtos de roubo.
+ ..
+JOSUÉ FAGUNDES DE SOUZA
+artigo 180, caput, do Código Penal (fato 02)
+ ..
+II. Presente a atenuante da menoridade e confissão, não computadas, a teor do disposto no verbete nº 231, súmula do Superior Tribunal de Justiça;
+ ..
+artigo 157, § 2º, incisos II e V, e § 2º-A, inciso I, do Código Penal (fato 03)
+ ..
+II. Dentre as circunstâncias legais, presentes a menoridade e a parcial confissão(esta porque apesar de em certo sentido revelar sua presença nos fatos, em outro sentido inseriu elementos inexatos e acrescentou partes e acontecimentos que não se compatibilização com a comprovação dos fatos, tal como mencionar que "Dodô" teria subtraído o Hyundai, quando foi o acusado Bruno, e esquivar-se do apontamento do número de armas de fogo existentes); mister reduzir a pena em apenas três meses de reclusão e em três dias-multa; perfaz-se o subtotal de seis anos e três meses de reclusão e trinta e dois dias-multa;
+O Tribunal de origem alterou o entendimento do Juízo singular, nestes termos (fl. 67):
+Inviável o acolhimento do pleito formulado pelas Defesas de Josué e de Matheus para aumento do quantum de redução pela confissão espontânea, atenuante que sequer deveria ter sido reconhecida para esses apelantes, tendo em vista que o primeiro jamais admitiu os fatos que lhe foram imputados na exordial, limitando-se a afirmar que apenas guardou os bens das vítimas em sua residência, a pedido dos outros dois corréus, que inclusive lhe ofereceram R$ 200,00 para tal,  .. .
+É assente o entendimento do STJ no sentido de mesmo nas hipóteses de confissão qualificadadeve incidir a atenuante prevista no art. 65, III, d, do Código Penal, desde que tenha sido utilizada como elemento de convicção do julgador.
+No caso, o Juízo a quo empregou na formação do convencimento judicial expressamente a confissão parcial do paciente, conforme consignou o Parquet federal (fl. 220):
+ ..  embora parcial - o paciente e admitiu ter participado do roubo, indicando os outros coautores e que parte dos bens subtraídos estava em sua casa (e-STJ Fl. 25) -, foi utilizada para lastrear a condenação do réu a 11 anos, 03 meses e 16 dias de reclusão, como incurso no crime previsto no art. 157, § 2º, II e V, e § 2º-A, I.
+Nesse contexto, o reconhecimento da atenuante da confissão é medida que se impõe, consoante se extrai dos seguintes precedentes:
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIME DE INCÊNDIO. CONFISSÃO EXTRAJUDICIAL. ATENUANTE RECONHECIDA. AFASTAMENTO. IMPOSSIBILIDADE. REEXAME DE PROVAS. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, nos moldes da jurisprudência desta Corte Superior, a atenuante de confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha dela se retratar, quando tal manifestação for utilizada para fundamentar a sua condenação, conforme a dicção da Súmula 545/STJ.
+III - As instâncias ordinárias, quando fundamentaram o juízo condenatório, colacionaram a confissão extrajudicial da paciente, além dos depoimentos dos policiais militares, os quais afirmaram que a sentenciada, quando abordada por eles, confessou ter ateado fogo na casa. Desta feita, está patente que a confissão extrajudicial da paciente foi sopesada pelas instâncias ordinárias para firmar o juízo condenatório. Entender de forma diversa demanda reexame de provas, medida interditada na via estreita do habeas corpus.
+Agravo regimental desprovido. (AgRg no HC n. 594.675/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 15/10/2020.)
+RECURSO ESPECIAL. PENAL. INTERPOSIÇÃO PELO PARQUET ESTADUAL EM FAVOR DO ACUSADO. TRÁFICO DE DROGAS. ART. 33, CAPUT, E ART. 33, § 1.º, INCISO I, DA LEI DE DROGAS. DELITOS CUJAS CONSUMAÇÕES SE EXAUREM COM A PRÁTICA DE QUALQUER DOS VERBOS DOS NÚCLEOS DOS TIPOS PENAIS. EXPRESSÃO. "MANTER EM DEPÓSITO". UTILIZAÇÃO NA DENÚNCIA. IRRELEVÂNCIA. ILEGALIDADE FLAGRANTE CONSTATADA. CORREÇÃO POR ESTA CORTE SUPERIOR EM ATUAÇÃO SPONTE PROPRIA (ART. 654, § 2.º, DO CÓDIGO DE PROCESSO PENAL). DOSIMETRIA. CONFISSÃO PARCIAL INFORMAL. UTILIZAÇÃO. FUNDAMENTO. MANUTENÇÃO. CONDENAÇÃO. ATENUAÇÃO OBRIGATÓRIA. SÚMULA N. 545 DO STJ. RECURSO ESPECIAL DESPROVIDO. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+ ..
+4. A confissão do Acusado, em seu interrogatório policial, de que guardaria as drogas para terceiros, bem assim a sua confissão informal de que venderia entorpecentes, feita aos policiais no momento de sua prisão em flagrante, foram utilizadas no acórdão recorrido para se concluir pela autoria delitiva e ratificar a sentença condenatória. Assim, faz ele jus à atenuante da confissão, ainda que tenha retratado suas declarações em juízo.
+5. Nos termos de precedentes desta Sexta Turma, " s e o Tribunal, ao apreciar a apelação, utiliza a confissão como fundamento para manter a sentença condenatória, faz o acusado jus à atenuante do art. 65, III, d, do Código Penal, ainda que a ela não tenha se reportado expressamente o Julgador de primeiro grau" (AgRg no REsp 1.606.166/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/09/2016, DJe 13/09/2016).
+6. Segundo pacífico entendimento desta Corte Superior, é cabível a compensação integral da reincidência, específica ou não, com a atenuante da confissão espontânea, salvo hipótese de multirreincidência, o que não é a situação do caso concreto.
+7. Recurso especial desprovido. Habeas corpus concedido, de ofício, para aplicar a atenuante da confissão e compensá-la com a agravante da reincidência, ficando as penas redimensionadas nos termos do voto. (REsp n. 1.925.885/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 4/11/2021.)
+Passo, pois, à dosimetria da pena.
+Quanto ao crime de roubo:
+Na primeira, mantida a pena-base fixada em 5 anos e 4 meses de reclusão e em 13 dias-multa.
+Na segunda fase, reconheço a atenuante da confissão, de modo que reduzo a pena anteriormente imposta em 1/6, para totalizar 4 anos, 5 meses e 10 dias de reclusão e 10 dias-multa.
+Na terceira fase, mantido o aumento cumulativo de 1/3 (concurso de agentes) e de 2/3 (arma de fogo), a pena definitiva totaliza 9 anos, 10 meses e 15 dias de reclusão e21 dias-multa.
+Por fim, o regime prisional fechado permanece inalterado diante da das circunstâncias do delito, considerando ainda a pena superior a 8 anos, conforme disposto no art. 33, §2º, do Código Penal.
+Nesse sentido, confiram-se os seguintes precedentes: HC n. 498.864/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 17/6/2019; e HC n. 362.535/MG, relator Ministro Felix Fischer, relatora p/ Acórdão Ministra Maria Thereza de Assis Moura, Terceira Seção, DJe de 8/3/2017.
+Quanto ao crime de receptação: a pena definitiva fixada no mínimo legal pelo Tribunal local permanece inalterada, observada a Súmula n. 231 do STJ, perfazendo em 1 ano de reclusão e10 dias-multa.
+Ante o exposto,  não conheço do presente habeas corpus, mas concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para reconhecer a incidência da atenuante da confissão, readequando a pena definitiva do pacienteem 9 anos, 10 meses e 15 dias de reclusãono regime inicial fechadoe em 21 dias-multa, pelassanções do art. 157, § 2º, II e V, e § 2º-A, I, do Código Penal, com a manutenção em 1 ano de reclusão e 10 dias-multa a pena definitiva, pelainfração ao art. 180, caput, do Código Penal, conforme a fundamentação acima.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
