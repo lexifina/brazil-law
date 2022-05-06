@@ -1,0 +1,53 @@
+DECISÃO
+FELIPE LOPES DA ROSA interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500777-95.2018.8.26.0545).
+Consta dos autos que o recorrente foi condenado à pena de 5anos e 10 meses de reclusão, a ser cumprida em regime fechado, mais o pagamento de multa, pela prática do delito previsto no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa aponta violação dos arts. 33, § 4º, e 40, III, ambos da Lei n. 11.343/2006.
+Afirma, inicialmente, que "apesar do Requerente ser primário, ostentar bons antecedentes e ter as circunstâncias judiciais favoráveis - o regime inicial de cumprimento de pena foi alterado em sede de Apelação para o mais gravoso, ou seja, do semiaberto para o fechado, em total OFENSA a lei federal infraconstitucional, bem como a entendimento Sumulado  Súmula 440/STJ " (fl. 314).
+Aduz, ainda, que "o crime foi praticado longe das escolas mencionadas, portanto, FORA DAS IMEDIAÇÕES, conforme inseridas no laudo, as fls. 65/67, dos autos  .. .  .. .Outro fato ignorado pelo Egrégio Tribunal de justiça é o fato do crime ter sido cometido no DOMINGO.Domingo não é dia letivo em nenhuma escola Brasileira, portanto, tal aumento de pena deverá ser AFASTADO como causa de aumento de pena, de certo que NÃO há prova nos autos de que tais estabelecimentos se encontravam em funcionamento no dia dos fatos" (fl. 320).
+Por fim, busca, por meio de uma nova individualização da pena, o reconhecimento do tráfico privilegiado.
+Decisão de admissibilidade às fls. 361-362.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 381-389).
+Decido.
+I. Causa de aumento prevista no art. 40, III, da Lei de Drogas
+O Tribunal de origem assim fundamentou a incidência da causa especial deaumento de pena prevista no art. 40, III, da Lei deDrogas (fl. 289-292,grifei):
+Por fim, razão assiste ao Ministério Público quanto à causa de aumento constante no artigo 40, III, da Lei nº 11.343/06.
+Conforme laudo pericial, o local em que oapelante foi abordado têm escolas, igrejas e o Poupatempo.
+Ademais, em que pese entendimentos contrários, entendo que para a incidência da referida majorante basta que a conduta da pessoa acusada seja realizada nas proximidades ou dependências dos locais estipulados na Lei.
+ .. .
+Ora, o objetivo do legislador foi agravar ainda mais a ação de quem comete tráfico de drogas nos locais em que inevitavelmente há um conglomerado de pessoas, a fim de proteger a saúde pública.
+E, compulsando os autos, verifica-se que pelo mapa anexado aos autos e pelos depoimentos dos policiais ouvidos em juízo que o réu estava traficando drogas em área próxima aescola, Poupatempo e uma igreja.
+Trata-se, pois, de condição objetiva.
+Sendo assim, não há que se falar em afastamento da causa de aumento, devendo, portanto, ser ela reconhecida.
+Para melhor análise da questão sub examine, transcrevo, por oportuno, o
+enunciado no referido dispositivo legal, in verbis:
+Art. 40. As penas previstas nos arts. 33 a 37 desta Lei são aumentadas deum sexto a dois terços, se:
+ ..  III - a infração tiver sido cometida nas dependências ou imediaçõesde estabelecimentos prisionais, de ensino ou hospitalares, de sedes deentidades estudantis, sociais, culturais, recreativas, esportivas, oubeneficentes, de locais de trabalho coletivo, de recintos onde se realizemespetáculos ou diversões de qualquer natureza, de serviços de tratamentode dependentes de drogas ou de reinserção social, de unidades militares oupoliciais ou em transportes públicos;
+Sobre a causa especial de aumento de pena em questão, registro que esteSuperior Tribunal possui o entendimento de que, "Para a incidência damajorante prevista no art. 40, inciso III, da Lei n.º 11.343/2006 édesnecessária a efetiva comprovação de mercancia nos referidos locais,sendo suficiente que a prática ilícita tenha ocorrido em locais próximos,ou seja, nas imediações de tais estabelecimentos, diante da exposição depessoas ao risco inerente à atividade criminosa da narcotraficância. .. " (HC n. 407.487/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ªT., DJe 15/12/2017).
+Vale dizer, segundo a jurisprudência desta Corte, para o reconhecimento damajorante prevista no inciso III do art. 40 da Lei de Drogas, não énecessária a comprovação da efetiva mercancia nos locais elencados na lei,tampouco que a substância entorpecente atinja, diretamente, ostrabalhadores, os estudantes, as pessoas hospitalizadas etc., sendosuficiente que a prática ilícita ocorra nas dependências, em locaispróximos ou nas imediações de tais localidades.
+A razão de ser dessa causa especial de aumento de pena é a de punir, commaior rigor, aquele que, nas imediações ou nas dependências dos locaisespecificados no inciso III do art. 40 da Lei n. 11.343/2006, dada a maioraglomeração de pessoas, tem como mais ágil e facilitada a prática dotráfico de drogas (aqui incluídos quaisquer dos núcleos previstos no art.33 da citada lei), justamente porque, em localidades como tais, é maisfácil ao traficante passar despercebido à fiscalização policial, além deser maior o grau de vulnerabilidade das pessoas reunidas em determinadoslugares.
+Assim, uma vez evidenciado, com base nos elementos fático-probatórios
+amealhados aos autos, que o delito de tráfico de drogas foi perpetrado nasimediações ou nas proximidades de uma escola, mostra-se devida aincidência da majorante em questão.
+II. Minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas
+poderão ser reduzidas de um sexto a dois terços, vedada a conversão empenas restritivas de direitos, desde que o agente seja primário, de bonsantecedentes, não se dedique às atividades criminosas nem integreorganização criminosa.
+Vale dizer, para a aplicação da minorante em comento, é exigido, além daprimariedade e dos bons antecedentes do acusado, que este não integreorganização criminosa nem se dedique a atividades delituosas.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser dacausa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n.11.343/2006 é justamente punir com menor rigor o pequeno traficante, ouseja, aquele indivíduo que não faz do tráfico de drogas o seu meio devida; antes, ao cometer um fato isolado, acaba por incidir na condutatípica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal:
+A mens legis da causa de diminuição de pena seria alcançar os condenadosneófitos na infausta prática delituosa, configurada pela pequenaquantidade de droga apreendida, e serem eles possuidores dos requisitosnecessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06.
+(AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T, DJe14/4/2014).
+Na espécie, constato que, ao afastar a incidência da redutora prevista noart. 33, § 4º, da Lei de Drogas, a instância ordinária salientou (fls. 292-293, grifei):
+Ocorre que, no caso dos autos, o apelante foisurpreendido, entrando em uma festa, local com grande número de jovens, trazendo consigo 10 comprimidos de ecstasy e 05 sacos de lança perfumes, o que indica sua participação em organização criminosa voltada para a prática do crime de tráfico.
+Ora, tais circunstâncias deixam mais do que claro que estava envolvido com a traficância de grande monta e de forma não eventual, uma vez que tamanha quantidade de drogas não se obtém facilmente, do dia para noite, nem de forma isolada Assim, não pode ser tido como pequeno traficante e ser beneficiado com a mesma redução de pena daquele que vende, ocasionalmente, algumas poucas porções de maconha em uma esquina, eis que, tal redução, dar-se-ia em afronta ao princípio da individualização das penas.
+Assim, à luz das peculiaridades do caso em tela, em que pese a primariedade do réu, é inegável que as circunstâncias concretas do delito praticado, a grande quantidade de droga apreendida, impedem a aplicação do § 4º, do artigo 33, da Lei 11.343/06.
+Dessa forma, não identifico nenhuma ilegalidade no ponto em que,fundamentadamente, foi negada aorecorrente a aplicação da causa especialde diminuição prevista no § 4º do art. 33 da Lei de Drogas, haja vista queforam apontados elementos concretos que indicam a sua dedicação aatividades criminosas, notadamente ao tráfico de drogas.
+Ademais, imperioso salientar que, para entender de modo diverso e afastara conclusão delineada pela instância de origem, seria necessário orevolvimento do conjunto fático-probatório amealhado durante a instruçãocriminal, providência inadequada em recurso especial.
+Portanto, fica afastada a apontada violação legal.
+III. Regime inicial de cumprimento da pena
+Em relação ao modo de cumprimento da reprimenda, faço lembrar que,umavezreconhecida, incidentalmente, a inconstitucionalidade do óbicecontidono§ 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES,DJ17/12/2013), a escolha do regime inicial de cumprimento de penadevelevarem consideração a quantidade da reprimenda imposta, aeventualexistênciade circunstâncias judiciais desfavoráveis, bem comoasdemaispeculiaridades do caso concreto (como, por exemplo, aquantidade,anatureza e/ou a diversidade de drogas apreendidas), paraque, então,sejafixado o regime carcerário que se mostre o mais adequadopara aprevençãoe a repressão do delito perpetrado, nos termos do art. 33eparágrafos doCódigo Penal - com observância também ao disposto no art.42da Lei n.11.343/2006.
+Conforme visto, a instância ordinária justificou a imposição do regimeinicial fechado com fundamento, tão somente, na gravidade abstrata dodelito e nos malefícios gerados pelo tráfico de drogas à sociedade como umtodo, sem, no entanto, apontar elementos concretos dos autos que,efetivamente, evidenciassem a imprescindibilidade de imposição do regimemais gravoso.
+Desse modo, uma vez que o recorrente era tecnicamente primário ao tempo dodelito, teve apena-base fixadano mínimo legal, foi condenado a sançãoinferior a 8 anos de reclusão,entendo que oregime semiaberto é,efetivamente, o que se mostra o mais adequado para a prevenção e arepressão do ato criminoso praticado, nos termos do art. 33, § 2º, "c", e§ 3º, do Código Penal.
+IV. Dispositivo
+À vista do exposto, dou parcial provimento ao recurso especial, a fim de fixar o regime inicial semiaberto para o cumprimento da pena. Mantém-se, no mais, o termos do acórdão recorrido.
+Comunique-se as instâncias de origem, com urgência.
+Publique-se e intimem-se.
