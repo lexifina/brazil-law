@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MATHEUS LUIZ PALHARES DOS SANTOS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0129724-51.2020.8.19.0001).
+Em primeiro grau, o paciente foi condenado às penas de 10anos, 10 meses e 20 diasde reclusão em regime fechado e de 1.638 dias-multa, pela prática dos crimes previstos nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006.
+Interposta apelação pela defesa, o recurso foi parcialmente provido para redimensionar a reprimenda para 9 anos e 4 meses de reclusão em regime fechadoe 1.399 dias-multa.
+Nas razões do presente writ, a impetrante pleiteia a absolvição do paciente do crime de associação para o tráfico, pois não evidenciada a estabilidade e permanência da conduta delitiva e pugna pela aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 no patamar máximo (2/3).
+Ressalta que o paciente é primário,possui bons antecedentes e faz jus à aplicação da causa de diminuição de pena. Defende o abrandamento do regime inicial de cumprimento de pena e o reconhecimento da substituição da reprimenda corporal por penas restritiva de direitos.
+Requer, liminarmente e no mérito, a concessão da ordem para que o paciente seja absolvido da imputação do crime de associação para o tráfico de drogas, com a aplicação do redutor do art. 33, § 4º, em seu patamar máximo e em, consequência, a fixação do regime aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+A liminar foi indeferida (fls. 58-59).
+O Tribunal de Justiça do Estado do Rio de Janeiro apresentou informações (fls. 62-76 e 78-87).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 92-101).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio
+O Tribunal a quo manteve a sentença, que condenara o paciente pelo crime de associação para o tráfico. Confiram-se trechos do acórdão (fls. 25-27):
+A materialidade está demonstrada no auto de apreensão (fls. 46/47) e no laudo de exame de substância entorpecente (fls.103/104).
+A autoria ficou claramente comprovada pelos depoimentos seguros e harmônicos dos policiais militares,nem ambas as fases da persecução criminal.
+A prova oral foi colhida pelo sistema audiovisual.
+ ..
+Quando interrogado, o acusado exerceu o direito de permanecer em silêncio.
+Não se verificam contradições nos depoimentos dos agentes policiais, que estão em consonância com as declarações prestadas em sede policial, inclusive com as do adolescente, nem sequer se constatam nos autos elementos outros que eventualmente apontassem no sentido de alguma ilegalidade.
+Ademais, as discussões acerca da legitimidade ou validade dos depoimentos de policiais militares estão superadas, e já existe entendimento sumulado neste Tribunal de Justiça no sentido de garantir a presunção de credibilidade em relação a essas testemunhas, que somente se desconstituiria à vista de ilegalidades ou irregularidades que eventualmente maculassem os seus atos (Enunciado n. 70 da Súmula do TJRJ).
+Por outro lado, a Defesa não apresentou provas que pudessem desconstituir a imputação ou desacreditar as declarações dos policiais.
+Registre-se que o adolescente afirmou que estava traficando junto com o acusado e que ambos já haviam comercializado entorpecentes juntos, o que comprova não só a associação entre eles e os demais integrantes do tráfico local, como também a habitualidade das atividades criminosas.
+No cotejo das provas, não há dúvidas de que os fatos ocorreram tal como foram narrados na denúncia, devendo ser mantido o juízo de reprovação das condutas.
+O STJ firmou o entendimento de que, tendo as instâncias de origem reconhecido, pelas provas colhidas nos autos, que o condenado estava associado com outros indivíduos de forma estável e permanente, está caracterizado o delito de associação para o tráfico.
+Ademais, o acolhimento da tese recursal de que não foi provado o vínculo estável e permanente do paciente com outras pessoas no reiterado comércio ilícito de drogas, a ensejar a absolvição do delito descrito no art. 35 da Lei n. 11.343/2006, implicaria revolvimento do conjunto fático-probatório, procedimento incompatível com a estreita via do habeas corpus.
+Nesse sentido, confiram-se os seguintes julgados: AgRg no HC n. 590.375/MS, relator Ministro Jorge Mussi, Quinta Turma, DJe de 25/8/2020; HC n. 439.046/PB, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1º/6/2020; HC n. 492.911/MG, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 18/10/2019; e AgRg no HC n. 521.937/RS, relator Ministro Sebastião Reis Junior, Sexta Turma, DJe de 17/9/2019.
+Por sua vez, a dosimetria da pena é o procedimento em que o magistrado, utilizando-se do sistema trifásico de cálculo, chega ao quantum ideal da pena com base em suas convicções e nos critérios previstos abstratamente pelo legislador.
+Conforme a orientação jurisprudencial do STJ, o cálculo da pena é questão afeta ao livre convencimento do juiz, passível de revisão por esta Corte somente nos casos de notória ilegalidade, para resguardar a observância da adequação, da proporcionalidade e da individualização da pena (AgRg no AREsp n. 1.843.362/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/5/2021; HC n. 405.765/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 11/10/2017; e AgRg no HC n. 524.277/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18/5/2020).
+A aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, com o consequente reconhecimento do tráfico privilegiado, exige que o agente seja primário, tenha bons antecedentes, não se dedique a atividades criminosas e não integre organização criminosa. Referidas condições devem ser cumpridas cumulativamente para fins de concessão do benefício.
+Por sua vez, a condenação pelo crime previsto no art. 35, caput, da Lei n. 11.343/2006 é incompatível com o reconhecimento do tráfico privilegiado, revelando-se suficiente para afastar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, pois indica que o agente se dedica a atividades criminosas (AgRg no AREsp n. 1.732.339/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2020; e AgRg no HC 610.288/SP, relator Ministro Sebastião Reis Junior, Sexta Turma, DJe de 23/10/2020).
+Assim, mantida a condenação pela prática do delito de associação para o tráfico, o que afasta a possibilidade de aplicação da minorante, ficam prejudicados os pedidos de alteração do regime inicial de cumprimento de pena e de substituição da reprimenda corporal por penas restritivas de direitos.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
