@@ -1,0 +1,34 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DO AMAZONAS, contra acórdão prolatado, por unanimidade, pelas Câmara Reunidas do Tribunal de Justiça do Estado do Amazonas no julgamento de Agravo interno, assim ementado (fl. 315e):
+EMENTA: AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM CUMPRIMENTO DE ACÓRDÃO EM MANDADO DE SEGURANÇA. OBRIGAÇÃO DE PAGAR. CONTRADIÇÃO. INEXISTENTE. REDISCUSSÃO DE TESE. RECURSO CONHECIDO E NÃO PROVIDO.
+1. O Agravo Interno é recurso que vista combater Decisão Monocrática proferida pelo Relator.
+2. A contradição autorizativa dos embargos de declaração é aquela que existe no próprio julgado.
+3. Os embargos de declaração não se prestam a rediscussão de tese que não foi favorável ao Agravante.
+4. Recurso conhecido e não provido.
+Opostos embargos de declaração, foram rejeitados (fls. 277/281e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 492 do Código de Processo Civil, alegando-se, em síntese, que é necessária a prévia liquidação do julgado, cujo dispositivo legal veda a condenação em quantidade superior ou em objeto diverso do que lhe foi demandado.
+Sem contrarrazões, o recurso foi admitido (fl. 355e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+No que se refere à alegação de que o art. 492 do CPC/2015 veda a condenação em quantidade superior ou em objeto diverso do que lhe foi demandado e a necessidade de prévia liquidação do título, verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem sob a perspectiva apresentada no recurso especial.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, em decisão colegiada, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados. Entretanto, conforme se observa às fls. 100/117e; 277/281e dos autos, as teses suscitadas foram decididas apenas monocraticamente.
+No caso, sequer foram opostos embargos declaratórios, para provocar o exame das controvérsias.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, aplicável, à espécie, o teor da Súmula n. 282/STF.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AUTO DE INFRAÇÃO. NOTIFICAÇÃO. AGRAVO CONTRA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AUSÊNCIA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 282/STF. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 293 DO STF.
+1. O Presidente ou Vice-presidente do Tribunal de origem pode julgar a admissibilidade do Recurso Especial, negando seguimento caso a pretensão do recorrente encontre óbice em alguma Súmula do Superior Tribunal de Justiça, sem que haja violação à sua competência.
+2. Não se pode conhecer da insurgência contra a ofensa aos arts. 6º, 29 e 31 da Lei 8.987/1995, pois os referidos dispositivos legais não foram analisados pela instância de origem. Dessa forma, não se pode alegar que houve presquestionamento da questão, nem ao menos implicitamente. Ausente, portanto, o requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+3. Verifica-se que a questão em debate envolve, na realidade, análise de legislação local, art. 33 da Lei 3.106/2002, o que encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário"), além de usurpar a competência do STF, no que tange à apreciação de ofensa a dispositivos constitucionais.
+4. Ademais, a parte recorrente não impugnou o fundamento principal do acórdão recorrido (mácula ao devido processo legal), utilizado para declarar a nulidade dos autos de infração. Assim sendo, a falta de manifestação sobre a questão atrai a incidência da Súmula 283/STF.
+5. Agravo conhecido, para não se conhecer do Recurso Especial.
+(AREsp 1774684/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/03/2021, DJe 26/04/2021).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18/05/2017), embora tal elemento possa influir na sua quantificação.
+In casu, impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil de 2015, porquanto não houve anterior fixação de verba honorária em desfavor do ora Recorrente.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
