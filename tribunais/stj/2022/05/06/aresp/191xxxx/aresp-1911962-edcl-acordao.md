@@ -1,0 +1,24 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, CONTRADIÇÃO, AMBIGUIDADE OU OMISSÃO. INEXISTÊNCIA.
+1. Apenas se admitem embargos de declaração quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão, nos termos do art. 619 do CPP.
+2. Ausente vício no acórdão, pois a matéria  aplicação do redutor do § 4º do art. 33 da Lei 11.343/2006  foi decidida com a devida e clara fundamentação, pretendendo o embargante, em segundos embargos de declaração, apenas a rediscussão da matéria, visando alterar a conclusão que lhe resultou desfavorável, o que é incabível na via eleita.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de embargos de declaração opostos pelo Ministério Público do Estado de Santa Catarina a acórdão que rejeitou os embargos de declaração anteriormente opostos.
+Assevera o embargante haver omissão do acórdão, ao reconhecer a causa de redução de pena do tráfico privilegiado, pois "diferentemente da premissa utilizada na decisão anterior como ratio decidendi, o réu em questão já possui uma condenação transitada em julgado, justamente pelo crime de tráfico de drogas" (fl. 706).
+Requer o acolhimento dos embargos com atribuição de efeitos infringentes, a fim de afastar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06. Apresentada impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Reconsiderada a decisão da Presidência desta Corte que não conhecera do agravo por ausência de impugnação específica, deu-se parcial provimento ao recurso especial para reconhecer a causa de diminuição de pena do tráfico privilegiado, reduzindo a pena do imputado. Opostos embargos de declaração, foram rejeitados.
+Em novos embargos de declaração, o Ministério Público do Estado de Santa Catarina renova a alegação de omissão, ao argumento de que "diferentemente da premissa utilizada na decisão anterior como ratio decidendi, o réu em questão já possui uma condenação transitada em julgado, justamente pelo crime de tráfico de drogas" (fl. 706).
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão.
+No caso, não há falar em vício no acórdão embargado, pois a matéria foi decidida com a devida e clara fundamentação, porquanto detalhadamente analisada a matéria, nos seguintes termos (fls. 698-699):
+Relativamente ao pedido subsidiário de aplicação da minorante do tráfico privilegiado, na fração máxima de 2/3, o acórdão encontra-se assim fundamentado (fl. 496):
+Cumpre salientar que o propósito da minorante do § 4º do artigo 33 da Lei n. 11.343/2006 é diferenciar o indivíduo que é traficante eventual daquele que se dedica habitualmente ao comércio ilícito de drogas, beneficiando o traficante casual com o abrandamento da pena cominada.
+Na hipótese, embora a Magistrada tenha reconhecido a primariedade do apelante, possui condenação pela prática do crime de tráfico de drogas  autos n.0000266-16.2016.8.24.0023 , fato que aliada à natureza, quantidade e diversidade dos entorpecentes apreendidos, impedem o reconhecimento da benesse, por flagrante dedicação às atividades criminosas.
+No ponto, contudo, esclareceu a sentença que "o acusado responde a duas ações penais, conforme se verifica na ficha do Sistema de Identificação Criminal à fl. 13, autos n. 003844031.2015.8.240023 e n.0000266-16.8.24.0023, por tráfico de drogas" (fl. 237).
+A Sexta Turma desta Corte, alinhando-se ao Supremo Tribunal Federal, passou a adotar a orientação de que "inquéritos policiais e/ou ações penais ainda sem a certificação do trânsito em julgado não constituem fundamento idôneo a justificar o afastamento do redutor descrito no § 4º do art. 33 da Lei de Drogas, em observância ao princípio constitucional da presunção de não culpabilidade" (AgRg no HC 641.362/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/06/2021, DJe 30/06/2021).
+Observa-se, portanto, que pretende o embargante apenas a rediscussão da matéria, visando alterar a conclusão que lhe resultou desfavorável, o que é incabível na via eleita, razão por que rejeito os embargos de declaração.
+É o voto.
