@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado por Pan Arrendamento Mercantil S.A desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 710):
+APELAÇÃO - Embargos à execução fiscal - IPVA - Ausentes as apontadas irregularidades quanto ao lançamento do tributo - Inexistência de nulidade da CDA - Recurso não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 729/737).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 11, 489, § 1º, e 1.022, II, do CPC, 18, §2º, da Lei Estadual 13.296/08 e 142 do CTN e 2º, §5º, da LEFdo CPC. Sustenta que: (I) a despeito dos aclaratórios, o Tribunal de origem quedou-se silente em relação à obrigatoriedade de inclusãoe intimação de todos os responsáveis solidários ao pagamento do débito tributário e (II) "faz-se necessário para a validação do lançamento fiscal e das CDAs a identificação dos respetivos responsáveis para cientificá-los da existência das exigências fiscais, franqueando-lhes o contraditório, para que, atestem o adequado recolhimento dos tributos aos quais estavam supostamente em mora, o que viria aniquilar qualquer pretensão arrecadatória dirigida contra a Arrendante" (fl. 752).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 11, 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Além disso, destaca-se a seguinte fundamentação do aresto impugnado (fl. 712):
+No mérito, não se constata a ocorrência de ilegalidade no lançamento ou nas certidões de dívida ativa por ausência de identificação do responsável solidário. Com efeito, verifica-se que o artigo 18,capute §2º, da Lei nº 13.296/08 estabelece que será notificado quanto ao lançamento de ofício do tributo o proprietário do veículo ou o responsável para o recolhimento do imposto, sem, contudo, obrigar a notificação de ambos, tal como pretende a apelante:
+ ..
+Assim, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (Lei nº 13.296/08), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
