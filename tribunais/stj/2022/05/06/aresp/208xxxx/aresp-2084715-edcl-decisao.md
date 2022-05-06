@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porBEATRIZ DINIZ DE SOUZA e BRUNO HENRIQUE DOMINGUES (e-STJ fls. 791/803) contra decisão queconheceudo agravo paranegarprovimentoaoseu recurso especial(e-STJ fls. 780/789).
+Alega a parte embarganteque a decisão embargada foi omissaao não se manifestar acerca daviolação dos artigos 157, 301 e 302 doCPP edos artigos33 e 44 do CP.
+É o relatório.Decido.
+Não existem vícios a serem sanados na decisão embargada.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conformedispõe o art. 619 do CPP.
+Segundo a jurisprudência do STJ, a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF(STJ, EDcl no AgInt nos EAREsp n. 635.459/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Corte Especial, DJe de 15/3/2017). Precedentes:EDcl no AgRg no AREsp 1990543/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/04/2022, DJe 11/04/2022;EDcl no AgInt no REsp 1747702/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 28/03/2022, DJe 30/03/2022;EDcl no AgRg no AREsp 1871908/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/03/2022, DJe 21/03/2022;EDcl no AgInt no AgInt nos EDcl nos EDcl no RMS 61.479/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 15/03/2022, DJe 31/03/2022.
+No caso em tela, a parte embargantelimitou-se a afirmar de forma genérica a ofensa aosartigos 157, 301 e 302 do CPP e aos artigos 33 e 44 do CP,sem demonstrar qual questão de direito não foi abordada na decisão embargada, incidindo na espécie o Enunciado n. 284 do STF.
+Ante o exposto, não conheço dos embargos.
+É como voto.
