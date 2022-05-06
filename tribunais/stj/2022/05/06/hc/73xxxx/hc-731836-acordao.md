@@ -1,0 +1,51 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO. EXIGÊNCIA LEGAL DE QUE A INSTITUIÇÃO MINISTRANTE SEJA CONVENIADA COM O PODER PÚBLICO. ORDEM DENEGADA.
+1. Na hipótese, o Paciente postula a remição por estudo, apresentando certificado de curso realizado na modalidade de ensino à distância.
+2. Nos termos do art. 126, § 2.º, da Lei de Execução Penal, a remição de pena pelo estudo somente é possível quando o curso for oferecido por instituição devidamente autorizada ou conveniada com o Poder Público para esse fim, o que não ocorreu na espécie.
+3. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de JOELSON MOREIRA MACIEL, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n. 0004434-92.2021.8.26.0520.
+Consta dos autos que o Paciente postulou a remição por estudo ao Juízo das Execuções Penais, apresentando certificado do curso "Direito Constitucional - Direitos e Garantias Fundamentais", com carga horária de 205 horas, na modalidade de ensino à distância no período de 28/02/2020 a 24/04/2020.
+Inconformado com o indeferimento do pleito (fls. 23-24), interpôs agravo em execução na origem, desprovido nos termos do acórdão de fls. 25-29 assim ementado:
+"Agravo em execução Interposição contra decisão que indeferiu pedido de remição em face de conclusão de curso à distância Impossibilidade Ausência de certificação por órgão competente do sistema de educação, bem como supervisão da unidade prisional Descumprimento, ainda, do disposto no art. 126, § 1º, I, da LEP Recurso desprovido."
+Neste writ, a Defesa alegou, em síntese, que a metodologia própria inerente a algumas modalidades de ensino à distância permite o desconto na pena, a título de remição pelo estudo, mesmo quando não há maior rigor de fiscalização da atividade exercida. Em face do caráter pedagógico e profilático inerente à capacitação do reeducando, a remição pelo estudo à distância encontra-se condicionada apenas à certificação de horas emitida pela entidade educacional devidamente registrada.
+Requer, assim, a concessão da ordem de habeas corpus para que sejam homologados 77 (setenta e sete) dias de remição pelo estudo, bem como o acréscimo de 1/3 (um terço) sobre o montante, diante do disposto no art. 126, § 5.º, da Lei n. 7.210/1984.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 59-64).
+É o relatório.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO. EXIGÊNCIA LEGAL DE QUE A INSTITUIÇÃO MINISTRANTE SEJA CONVENIADA COM O PODER PÚBLICO. ORDEM DENEGADA.
+1. Na hipótese, o Paciente postula a remição por estudo, apresentando certificado de curso realizado na modalidade de ensino à distância.
+2. Nos termos do art. 126, § 2.º, da Lei de Execução Penal, a remição de pena pelo estudo somente é possível quando o curso for oferecido por instituição devidamente autorizada ou conveniada com o Poder Público para esse fim, o que não ocorreu na espécie.
+3. Ordem denegada.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+No caso, o Juízo da Execução Penal indeferiu o pedido de remição pelo estudo à base da seguinte fundamentação (fls. 23-24):
+"Em relação ao curso de págs. 436/437, é de se destacar que com a nova redação do artigo 126 e seus parágrafos, da Lei de Execução Penal, foi incluído o estudo no texto legal como causa de remição das penas (Lei Federal nº 12.433, de 2011). Com efeito, conforme expressa redação do artigo 126, § 1º, inciso I, da Lei de Execução Penal, a frequência escolar abrange as atividades de ensino fundamental, médio, inclusive profissionalmente, ou superior, ou ainda de requalificação profissional, que poderão ser desenvolvidas, conforme o § 2º do aludido dispositivo, de forma presencial ou por metodologia de ensino à distância e deverão ser certificadas pelas autoridades educacionais competentes dos cursos frequentados.
+Ocorre que, de acordo com o parecer de pág. 473, o curso que o sentenciado alega ter realizado era à distância e sem acompanhamento ou supervisão do estabelecimento penitenciário, eis que sem integração ao projeto político-pedagógico da unidade prisional, conforme determina o inciso II, do parágrafo único, do artigo 2º, da Resolução nº 391/2021 do CNJ.
+Nesse sentido, não se pode olvidar que, de acordo com expressa previsão legal (art. 126, §1º, I, da LEP), as 12 horas de abatimento de frequência escolar, utilizadas para abatimento de 1 dia de pena, devem ser divididas em 3 dias, ou seja, somente é possível que o sentenciado estude até 4 horas diárias.
+Na hipótese sub judice, as circunstâncias nas quais o curso fora realizado pelo sentenciado inviabilizam a verificação do atendimento ao aludido requisito, o qual, em última medida, visa a possibilitar o efetivo avanço e/ou a qualificação profissional do interno.
+Diante do exposto, indefiro o pedido de remição por estudo à distância com base no certificado de págs. 436/437 formulado pelo sentenciado."
+A Corte local, por sua vez, consignou (fls. 27-28):
+"De início, importante salientar que o exercício do trabalho e do estudo durante o cumprimento da pena é uma das medidas de ressocialização adotadas pela Lei de Execução Penal, e é incentivada pela possibilidade de remição.
+Em que pese a Lei de Execução Penal, em seu artigo 126, § 2º, preveja, expressamente, o reconhecimento do ensino à distância para fins de remição, o dispositivo exige que as atividades de estudo, tanto presenciais quanto à distância deverão ser certificadas por autoridades educacionais competentes dos cursos frequentados, o que não ocorre no caso dos autos.
+Todavia, os certificados acostados a fls. 107/118, não são aptos a comprovar que o agravante tenha cumprido, pessoalmente, as atividades de estudo, contendo mera indicação da carga horária e do conteúdo programático. Como se não bastasse, não houve qualquer acompanhamento das atividades no âmbito da unidade, pelo que correta a decisão de indeferimento da remição.
+Além disso, o artigo 126, § 1º, inciso I, estabelece que a remição por estudo será concedida na razão de 01 dia de pena a cada 12 horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior ou ainda de requalificação profissional, divididas, no mínimo, em 03 (três) dias, condição igualmente não comprovada pelo sentenciado.
+Não bastasse, o artigo 129, da Lei de Execuções Penais evidencia a necessidade de controle das atividades realizadas pela autoridade administrativa da unidade prisional, tanto assim que o Conselho Nacional de Justiça expediu a Recomendação n. 44/2013, no sentido de que as atividades aptas a gerar remição por estudo devem ser integradas ao projeto político-pedagógico (PPP) da unidade ou do sistema prisional local, sendo oferecidas por instituição devidamente autorizada ou conveniada com o poder público para esse fim."
+Como se vê, a orientação exposta pelas instâncias ordinárias não diverge do entendimento desta Corte Superior, no sentido de que a remição de pena pelo estudo somente é possível quando o curso for oferecido por instituição devidamente autorizada ou conveniada com o Poder Público para esse fim.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA POR APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS (ENCCEJA) - ENSINO FUNDAMENTAL. INSURGÊNCIA CONTRA A QUANTIDADE DE DIAS REMIDOS NÃO ANALISADA PELO ACÓRDÃO IMPUGNADO. IMPOSSIBILIDADE DE ANÁLISE, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. CURSO PROFISSIONALIZANTE. EXIGÊNCIA LEGAL DE QUE A INSTITUIÇÃO MINISTRANTE SEJA CONVENIADA COM O PODER PÚBLICO. INIDONEIDADE DO CERTIFICADO APRESENTADO. REVISÃO. IMPOSSIBILIDADE ANTE A INVIÁVEL REANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS NA VIA DO HABEAS CORPUS. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Nos termos do § 2.º do art. 126 da Lei de Execuções Penais e do inciso I do art. 1.º da Resolução n. 44/2013 do CNJ, a remição de pena pelo estudo somente é possível quando o curso for oferecido por instituição devidamente autorizada ou conveniada com o Poder Público para esse fim.
+ ..
+5. Agravo regimental desprovido." (AgRg no HC 574.605/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 08/09/2020, DJe 22/09/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO. NECESSIDADE DE CREDENCIAMENTO DA INSTITUIÇÃO DE ENSINO. ART. 126 DA LEI DE EXECUÇÕES PENAIS. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA. WRIT DO QUAL NÃO SE CONHECEU. DECISÃO MANTIDA. INSURGÊNCIA DESPROVIDA.
+ ..
+2. O indeferimento da remição pleiteada em razão de frequência a curso de teologia na modalidade a distância, porque "não foi oferecido pela unidade prisional e nem contou com a sua supervisão" (e-STJ fl. 40), e pela ausência de credenciamento da instituição de ensino junto ao Poder Público não representa constrangimento ilegal passível de ser sanado na presente via, pois, encontrando-se o sentenciado sob a custódia do Estado, a remição depende de fiscalização acerca do efetivo cumprimento dos requisitos legais.
+ ..
+5. Agravo regimental desprovido." (AgRg no HC 460.196/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/06/2019, DJe 01/07/2019; sem grifos no original.)
+Ademais, a Resolução n. 391/2021 do CNJ expressamente dispõe que práticas educativas, como é o caso dos autos, serão consideradas para fins de remição quando "executadas por iniciativas autônomas, instituições de ensino públicas ou privadas e pessoas e instituições autorizadas ou conveniadas com o poder público para esse fim", conforme disposto no art. 2.º, parágrafo único, inciso II.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+É o voto.
