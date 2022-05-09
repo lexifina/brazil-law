@@ -1,0 +1,8 @@
+DECISÃO
+Vistos etc.
+Verifica-se que uma das uma das controvérsias devolvidas ao conhecimento destaCorte Superior, por meio do recurso especial interposto por ADRIANA RAMIRO COSTA SAMPAIO e OUTROS(fl. 1331), foi afetada ao rito do art. 1.036 do Código de Processo Civil de 2015, com ordem de sobrestamento, para "Definir se, com esteio no art. 139, IV, do CPC/15, é possível, ou não, o magistrado, observando-se a devida fundamentação, o contraditório e a proporcionalidade da medida, adotar, de modo subsidiário, meios executivos atípicos" (Tema 1137/STJ).
+Nesse contexto, com a ordem de sobrestamento, os recursos que tratam da dessa controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal de origem, a solução da questão repetitiva, viabilizando, assim, o juízo de retratação/conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015,apenas após essas providências é que o recurso especial, se for o caso,deverá ser reencaminhado a este Tribunal Superior, independentemente deratificação, para análise das demais questões jurídicas nele suscitadasque eventualmente não fiquem prejudicadas pela conformidade do acórdãorecorrido com a decisão sobre o tema repetitivo ou pelo novopronunciamento do Tribunal de origem.
+Ante o exposto, determino a DEVOLUÇÃO dos autos ao Tribunal de origem paraque o recurso especial permaneça suspenso até a publicação do acórdãoparadigma, nos termos do art. 1.037, inciso II, do CPC/2015,observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 doCPC/2015.
+Advirta-se para o disposto nos arts. 1.021, § 4º, e 1.026, § 2º, doCPC/2015.
+Intimem-se.
