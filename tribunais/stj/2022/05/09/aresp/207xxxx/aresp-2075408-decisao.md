@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo manejado por CRISTIANE RODRIGUES DOS SANTOS e LUANA RODRIGUES DOS SANTOS em face da r. decisão que inadmitiu o recurso especial interposto contra o v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que asora agravantes foramsentenciadascomo incursasnoart.157, § 2º, I, II e V, do Código Penal, à penade 12 (doze) anos de reclusão, a ser cumpria emregime inicial fechado (fls. 1.765-1.784).
+Irresignada, a il. Defesa interpôs apelação perante oeg. Tribunal de origem, quedeu parcial provimentoao recurso apenas para reduzir"as penas de Cristiane e de Luana a 11 anos e 4 meses de reclusão, mais pagamento de 28 dias-multa, mantida, no mais, a r. sentença condenatória" (fl. 1.964), conforme o v. aresto de fls. 1.964-1.980 assim ementado:
+"ROUBO TRIPLAMENTE MAJORADO. Apelos que pretendem a absolvição por insuficiência de provas. Impossibilidade. Provas bastantes. Interceptações telefônicas, depoimentos das testemunhas e das vítimas. Negativas frágeis e fantasiosas. Suficiência para a procedência da ação penal. Condenação mantida. PENAS. Pequeno reajuste. Aumento de 5/12 em vez de  , na terceira etapa da dosimetria. Apelos parcialmente providos para reduzir as penas dos apelantes."
+Opostos embargos declaratórios, pelas ora agravantes (fls. 2.003-2.006), foram eles rejeitados (fls. 2.008-2.011), nos termos da ementa a seguir transcrita:
+"EMBARGOS DE DECLARAÇÃO. Oposição contra acórdão. Alegação de contradição. Inocorrência. Pretensão infringente. Inadmissibilidade. Embargos rejeitados."
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal (fls. 1.991-1.999), asinsurgentes alegam, em síntese,"não existiu o crime de roubo, conforme já amplamente explanado dentro dos autos. Houve um furto qualificado contra uma instituição bancária , realizado por outras pessoas e sem qualquer ajuda das rés" (fl. 1.996).
+Por fim, pugnam pelo conhecimento e provimento do apelo raro"visto que o v. acórdão deve ser rescindido, eis que fez rosto às prédicas do artigo 381, incisos III e artigo 41, ambos do Código de Processo Penal, bem como ao artigo 33, § 2º, alínea "c", do Código Penal Brasileiro" (fl. 1.999).
+Apresentadas as contrarrazões(fls. 2.022-2.030), sobreveio juízo negativo de admissibilidade fundado na incidência do Enunciado Sumular n. 7/STJ(fl. 2.043).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 2.046-2.050).
+A d. Subprocuradoria-Geral da República apresentou parecer peloconhecimentodo agravo e não conhecimentodo recurso especial, sem ementa (fls. 2.073-2.0741).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao apelo especial, no caso, a incidência doEnunciadoSumularn. 7/STJ.
+A il. Defesa sustenta, em síntese, que"FOI DEMONSTRADO QUE O ERRO SOBRE CRITÉRIO DE APRECIAÇÃO DA PROVA, OU APLICAÇÃO EQUIVOCADA QUANTO ÀS REGRAS DE EXPERIÊNCIA, SÃO MATÉRIAS DE DIREITO E, ASSIM, NÃO EXCLUI A ADMISSIBILIDADE DO RECURSO ESPECIAL" (fl. 2.049).
+Contudo, éentendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016, grifei).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUMULAS 7 E 83 DO STJ. ALEGAÇÕES GENÉRICAS INCAPAZES DE INFIRMAR A DECISÃO RECORRIDA. SÚM. 182/STJ.
+I - Os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência do mérito da controvérsia, como ocorreu na hipótese.
+II - O entendimento do STJ é de que "não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp n. 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+III - Agravo regimental a que se nega provimento" (AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018, grifei).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE DE EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso.
+2. Não assiste razão ao agravante, pois, no caso, incide o óbice da Súmula 182/STJ, uma vez que deixou de impugnar, no seu agravo em recurso especial, de forma específica, ausência/deficiência de cotejo analítico e certidão não juntada/cópia não autenticada/repositório não autorizado/repositório não oficial.
+3. A concessão de habeas corpus, de ofício, ocorre por iniciativa do próprio órgão jurisdicional quando constatada a existência de ilegalidade flagrante ao direito de locomoção, o que ocorre na hipótese.
+4. Em 8/11/2019, o Tribunal Pleno do Supremo Tribunal Federal concluiu o julgamento das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54, e decidiu, por maioria de votos, que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso (trânsito em julgado da condenação) para o início do cumprimento da pena.
+5. Mesmo antes do mencionado julgamento, esta Corte Superior, por sua Terceira Seção, havia pacificado entendimento no sentido de que não se procede à execução provisória de penas restritivas de direitos.
+6. Agravo regimental não provido. Concessão de habeas corpus de ofício para suspender a execução provisória das penas restritivas de direitos." (AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices das Súmulas n. 7 e 83/STJ quanto ao pedido de desclassificação e da Súmula n. 83/STJ quanto ao pleito de aplicação do princípio da insignificância, no agravo a defesa deixou de impugnar o óbice da Súmula n. 83/STJ com relação ao pedido de desclassificação.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido." (AgRg no AREsp 1667698/SP, Quinta Turma, Rel. Ministro Jorge Mussi, DJe 29/05/2020)
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos" (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017, grifei)
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. I.
+EMENTA
+PENAL E PROCESSUAL PENAL.AGRAVO EM RECURSO ESPECIAL.ROUBO MAJORADO. ABSOLVIÇÃO.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
