@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração, opostos por IBIPORA NEGOCIOS IMOBILIARIOS S.A.,contra acórdão assim ementado (e-STJ Fl. 1308):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+A parte embargante aponta, em síntese, a omissão do julgado quanto à fundamentação apresentada, notadamente quanto ao disposto no art. 1.034, parágrafo único, do CPC ea autonomia entre os capítulos da decisão.
+Alega, ainda, a existência de impugnação à incidência das Súmulas 5 e 7/STJ, bem como refere a ocorrência de negativa de prestação jurisdicional.
+Impugnação à e-STJ Fls. 1331/1334, requerendo-se a aplicação de multa.
+À e-STJ Fls. 1337/1338, o embargante apresenta petição com vistas a sanar erro material no dispositivo da sentença da origem.
+É o breve relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC/15. VÍCIOS. INEXISTÊNCIA. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+ACLARATÓRIOS REJEITADOS.
+VOTO
+Eminentes Colegas, os embargos declaratórios não merecem acolhida.
+Nos rígidos limites do art. 1.022 do CPC/2015, são cabíveis embargos de declaração apenas nas hipóteses de erro material, obscuridade, contradição ou omissão do julgado.
+No caso, entretanto, não se configura a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Inicialmente, quanto ao pleito de incidência do art.1.034,parágrafo único, do CPC, a Corte Especial do STJ já decidiu que a decisão de inadmissibilidade do recurso especial não é formada porcapítulos autônomos,mas por um único dispositivo, o que exige que a parte agravanteimpugnetodos os fundamentos da decisão que, na origem, inadmitiu o recurso especial (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018).
+Cumpre ressaltar que tal fundamento, a par de a tese de ataque à decisão de inadmissão,foi expressamente analisado e fundamentadona decisão objurgada, mormente considerando a argumentação e os julgados colacionados à e-STJ Fls. 1248/1252 e reiterados à e-STJ Fls. 1308/1313,verbis:
+A agravante, por sua vez, nas razões do presente agravo, alega que não há falar em ausência de impugnação específica à decisão que inadmitiu o seu recurso especial, mormente porquanto demonstrou ataque suficiente às Súmulas 5 e 7/STJ.
+Ocorre que, conforme bem salientado na decisão proferida, os argumentos expostos no bojo do presente recurso não são aptos a desconstituir a decisão recorrida, uma vez que, de fato, ocorreu a ausência de impugnação específica a todos os fundamentos da decisão agravada.
+É o que se depreende do seguinte excerto (e-STJ Fls. 1249/1251):
+Com efeito, o Tribunal de origem não admitiu o recurso especial da parte considerando os seguintes fundamentos: a) incidência das Súmulas 5 e 7/STJ, notadamente no tocante à inexistência de relação jurídica e de grupoeconômico, teoria da aparência e responsabilidade solidária; b) incidência da Súmula 284/STF no que tange à multa por protelação; e c) incidência da Súmula 83/STJ quanto à cláusula penal invertida na hipótese de rescisão contratual, tendo em vista o julgado à e-STJ Fl. 1186.
+Do exame do agravo em recurso especial, entretanto, verifica-se que a parte agravante não impugnou de forma específica e consistente todos os fundamentos da decisão agravada.
+Limitou-se a recorrente, nesse passo, a reprisar a sua argumentação de mérito e a tecer considerações meramente genéricas acerca da desnecessidade do reexame fático-probatório e contratual dos autos, não evidenciando o desacerto da decisão, notadamente quanto à incidência das Súmulas 83/STJ e 284/STF.
+Efetivamente, "é dever do agravante impugnar, especificamente, todos os fundamentos da decisão agravada, mormente quanto à aplicação do óbice da Súmula nº 83/STJ, demonstrando que outro é o entendimento jurisprudencial desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo"(AgRg no REsp 1402488/PR, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 10/03/2014) - g. n.
+(..)
+Saliente-se que é dever da parte agravante impugnar especificamente todos os fundamentos utilizados para a inadmissão do apelo, sob pena de não conhecimento do agravo em recurso especial, a teor do que dispõe o art. 932, inciso III, do CPC/2015, in verbis: (..) (g. n.)
+Veja-se que, não obstante alegue a existência de fundamentação suficiente, percebe-se, das razões de seu agravo em recurso especial, que a agravante cingiu-se a alegações genéricas e efetivamente não evidenciou o desacerto de todos os fundamentos apontados, mormente considerando as peculiaridades da decisão de inadmissão proferida.
+Convém frisar que, nos termos da decisão objurgada e da jurisprudência desta Corte, para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada, isto é, as alegações genéricas aosfundamentos do decisum de inadmissão são insuficientes à impugnação.
+Ademais, ainda que considere a suficiência de seus argumentos e a desnecessidade de ataque a todos os óbices suscitados, é ônus da agravante atacar todos os aspectos da decisão de inadmissão, de sorte a demonstrar o seu efetivo desacerto e viabilizar o conhecimento da análise recursal, não havendo se falar na possibilidade de análise de capítulos autônomos e de impugnação parcial.
+Conforme já assentado pela Corte Especial deste STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos deduzidos.
+(..) (g.n.)
+A aplicação do art. 932, inciso III, do CPC/2015, à espécie, se deu com fulcro nos fundamentos acostados, sendo que a pretensão da embargante, nesse passo, é descaracterizar a incidência de tal fundamentação à hipótese, o que não se coaduna com a estreita via dos embargos de declaração.
+Não há, portanto, qualquer vício a ser sanado no ponto.
+O verdadeiro intento dos presentes declaratórios é a obtenção de efeito infringente, pretensão que esbarra na finalidade integrativa do recurso em tela, que não se presta à rediscussão da causa já devidamente decidida.
+A atribuição de efeito modificativo aos embargos é providência de caráter excepcional, incompatível com hipóteses como a dos autos, que revelam tão-somente o inconformismo da parte com o julgado.
+Neste sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO. PLEITO DE REEXAME DO JULGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorrem a omissão ou a contradição alegadas e previstas no artigo 1.022, e seus incisos, do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão no sentido de que não restou perfeito e acabado o ato de adjudicação e, desta forma, atingido pela decisão de recuperação judicial a atrair a competência do juízo especializado.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp 866060 / SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJ 13/09/2016, DJe 16/09/2016)
+Destarte, não podem ser acolhidos embargos de declaração que, em verdade, traduzem inconformismo com a decisão posta, pretendendo rediscutir o que já foi decidido.
+Por fim, no que tange ao alegado na PET00057619/2022 (e-STJ 1337/1138) e à necessidade de correção de erro material na sentença de origem, notadamente quanto à concessão de benefício de assistência judiciária à parte adversa, aponto o expressamente manifestado, nesta seara, pela parte embargada à e-STJ Fls. 1246/1247, senão vejamos: "De fato, a autora não a pleiteou e não a requereu. Apesar do momento processual adequado a tanto ser em primeiro grau, a parte autora concorda com eventual correção do erro material por este Tribunal no momento do julgamento".Logo, conforme alegado pelas partes, consignoa inexistência deamparodo benefícioda assistência judiciária à parte embargada.
+Por ora, deixo de aplicar a sanção requerida em sede de impugnação ao presente recurso, advertindo-se a parte de que eventual reiteração de recurso interposto contra este acórdão estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
