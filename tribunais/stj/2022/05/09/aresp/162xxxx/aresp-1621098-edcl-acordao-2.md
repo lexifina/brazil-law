@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de embargos de declaração (petição n. 00247504/2022 - fls. 362-367) interpostos por GILMAR ANTÔNIO DA COSTA contra acórdão proferido pela Quarta Turma do STJ que negou provimento ao agravo interno, nos termos da seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO INDICAÇÃO DE MANEIRA PRECISA DOS DISPOSITIVOS VIOLADOS. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Nas razões do recurso especial a parte recorrente não aponta, de maneira clara e fundamentada, quais os artigos de lei a que faz referência teriam sido violados, tampouco a forma pela qual teria se dado referida vulneração.
+2. O recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais e diversas argumentações para que esse escolha, a seu juízo, qual deles tenha sofrido violação e, por esforço hermenêutico, extraia de que forma o direito foi maculado na espécie.
+3. É imprescindível que no recurso especial fundado na alínea "a" do permissivo constitucional sejam particularizados de forma inequívoca os normativos federais supostamente contrariados pelo Tribunal de origem, cuidando o recorrente de demonstrar, mediante argumentação lógico-jurídica competente à questão controversa apresentada, de que maneira o acórdão impugnado teria ofendido a legislação mencionada.
+4. Isso porquê o recurso especial é de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado e como se deu referida vulneração a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente.
+5. O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, atrai a incidência da Súmula 284/STF.
+6. Agravo interno não provido.
+Nas razões dos aclaratórios, a parte embargante alega omissão do acórdão ao não apreciar "a preliminar base do pedido autoral, onde foram expostos todos os argumentos, em especial a existência de lei específica".
+Afirma, em síntese, que alegou a incidência da prescrição quinquenal para a propositura da ação de prestação de contas pelas quantias recebidas pelo advogado.
+Pede o recebimento dos embargos de declaração com efeitos modificativos.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022 do CPC/2015, que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, erro material ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, § 1º, do referido diploma legal, que configurariam a carência de fundamentação válida.
+2. No caso concreto, não se constata o vício alegado pela parte embargante, que busca rediscutir matéria devidamente examinada pela decisão embargada, o que é incabível nos embargos declaratórios.
+3. Os restritos limites dos embargos de declaração não permitem rejulgamento da causa, como pretende a parte embargante, sendo certo que o efeito modificativo pretendido somente é possível em casos excepcionais e uma vez comprovada a obscuridade, contradição, omissão ou erro material do julgado, o que não se aplica ao caso concreto.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Os embargos de declaração não merecer ser acolhidos.
+Segundo o art. 1.022, caput e incisos, do CPC/2015, são cabíveis os embargos de declaração quando a decisão judicial se revelar omissa, obscura ou contraditória, assim como para correção de erro material.
+Nos termos do art. 1.022, II, do CPC/2015, "omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento".
+Acresce que, no art. 1.022, parágrafo único, do CPC/2015, o legislador destacou duas hipóteses específicas a caracterizar o vício de omissão:
+Art. 1.022, parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas noart. 489, § 1º.
+Sobre tais hipóteses de omissão do art. 1.022, parágrafo único, do CPC/2015, destaca-se o seguinte comentário de Daniel Amorim Assumpção, na obra intitulada Novo Código Civil Comentado:
+"O parágrafo único do dispositivo ora analisado especifica que se considera omissa a decisão que deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos (recursos especial ou extraordinário repetitivos e incidente de resolução de demandas repetitivas) ou em incidente de assunção de competência aplicável ao caso sob julgamento ou que incorra em qualquer das condutas descritas no art. 489, § 1.º, do Novo CPC, dispositivo responsável por inovadoras exigências quanto à fundamentação da decisão.
+O dispositivo na realidade não inova ou tão pouco complementa o inciso II do art. 1.022 do Novo CPC, já que as especificações presentes no dispositivo ora comentado são claras hipóteses de omissão de questões sobre as quais o juiz deve se pronunciar".
+Por sua vez, "o erro material é aquele evidente, decorrente de simples erro aritmético ou fruto de inexatidão material, e não erro relativo a critérios ou elementos de julgamento" (EDcl no AgRg no REsp 1234057/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 28/06/2011, DJe 01/07/2011.
+Destaque-se, ainda, da doutrina processualista, que obscuridade consiste na falta de clareza da decisão impugnada, sendo que, diante da função precípua do pronunciamento judicial de emprestar certeza às relações litigiosas que calham às suas portas, não se admitem decisões judiciais não-unívocas, já tendo esta Corte Superior assentado que "A obscuridade é fenômeno representativo de acórdão ininteligível, confuso, embaraçoso em suas razões e enigmático em sua parte dispositiva" (STJ, EDcl no AgRg no AG 178.699/SP, Rel. Ministro JOSÉ DELGADO, PRIMEIRA TURMA, DJ de 19/04/1999).
+Portanto, acórdão obscuro, nos termos da norma processual, é aquele de impossível compreensão, seja porque ilegível, seja por deficiência na redação. Nesse sentido:
+"Decisão obscura é a decisão a que falta clareza. A obscuridade concerne à redação da decisão. A obscuridade compromete a adequada compreensão da ideia exposta na decisão judicial. (MARINONI, Luiz; ARENHART, Sérgio; MITIDIERO, Daniel. Código de Processo Civil Comentado. 6. ed. São Paulo: Thomson Reuters Brasil, 2020).
+___ .
+Já o vício de contradição apto a ensejar a oposição dos aclaratórios precisa ser verificado nas proposições e conclusões internas ao próprio julgado, não sendo os embargos de declaração o instrumento processual adequado para a correção de eventual error in judicando ou correção de vícios externos à decisão impugnada.
+Verifica-se a contradição quando no acórdão se incluem proposições entre si inconciliáveis, nos termos do magistério de Barbosa Moreira:
+Pode haver contradição entre proposições contidas na motivação (exemplo: a mesma prova ora é dita convincente, ora inconvincente), ou entre proposições da parte decisória, isto é, incompatibilidade entre capítulos do acórdão: v.g. anula-se, por vício insanável, quando logicamente se deveria determinar a restituição ao órgão inferior, para sentenciar de novo; ou declara-se inexistente a relação jurídica prejudicial (deduzida em reconvenção ou em ação declaratória incidental), mas condena-se o réu a cumprir a obrigação que dela necessariamente dependia; e assim por diante. Também pode ocorrer contradição entre alguma proposição enunciada nas razões de decidir e o dispositivo: por exemplo, se na motivação se reconhece como fundada alguma defesa bastante para tolher a pretensão do autor, e no entanto se julga procedente o pedido.(Comentários ao Código de Processo Civil.v. 5. Rio de Janeiro: Forense, 2008, pp. 556-557).
+___ .
+Daniel Amorim Assumpção, na obra intitulada Novo Código Civil Comentado, ao discorrer sobre os vícios que legitimam o ingresso dos embargos de declaração, assim leciona sobre o conceito de contradição:
+"O terceiro vício que legitima a interposição dos embargos de declaração é a contradição, verificada sempre que existirem proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação da outra. Essas contradições podem ocorrer na fundamentação, na solução das questões de fato e/ou de direito, bem como no dispositivo, não sendo excluída a contradição entre a fundamentação e o dispositivo, considerando-se que o dispositivo deve ser a conclusão lógica do raciocínio desenvolvido durante a fundamentação. O mesmo poderá ocorrer entre a ementa e o corpo do acórdão e o resultado do julgamento proclamado pelo presidente da sessão e constante da tira ou minuta, e o acórdão lavrado".
+___ .
+A propósito:
+"EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRADIÇÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Somente são devidos embargos de declaração para a correção de contradição interna do julgado, ou seja, aquela verificada entre a fundamentação e a conclusão da decisão.
+2. Não se caracteriza contradição, para os fins do art. 1.022 do CPC/2015, quando o acórdão proferido pelo órgão competente, julgando recurso adequadamente interposto pela parte interessada, reforma decisão monocrática anteriormente prolatada pelo Relator.
+3. Embargos de declaração rejeitados." (EDcl no AgInt no AREsp 1028884/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/04/2018, DJe 25/04/2018).
+______ .
+3. No caso concreto observa-se que o voto condutor do acórdão ora embargado expressamente se manifestou sobre as razões da incidência da Súmula 284/STF à presente hipótese, consoante se infere do seguinte excerto:
+3. No presente caso, observa-se que o recorrente até aponta diversos dispositivos legais nas razões do recurso especial ao fazer menção aos arts. 202, I, e 206, § 5º, I, do Código Civil, ao art. 219, §2º e §4º, do CPC/1973 e ao art. 5º, inc. LV da Constituição da República, mas em nenhum deles afirma, claramente, que houve violação.
+Verifica-se, portanto, que nas razões do recurso especial o recorrente não aponta de maneira clara e fundamentada quais desses dispositivos legais a que faz referência teriam sido violados, tampouco a forma pela qual teria se dado referida vulneração.
+Advirta-se que, o recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais e diversas argumentações para que esse escolha, a seu juízo, qual deles tenha sofrido violação e, e por esforço hermenêutico, extraia de que forma o direito foi maculado na espécie.
+É imprescindível que no recurso especial fundado na alínea "a" do permissivo constitucional sejam particularizados de forma inequívoca os normativos federais supostamente contrariados pelo tribunal de origem, cuidando o recorrente de demonstrar, mediante argumentação lógico-jurídica competente à questão controversa apresentada, de que maneira o acórdão impugnado teria ofendido a legislação mencionada.
+Isso porquê o recurso especial é de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado e como se deu referida vulneração a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente.
+O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Isso porque a controvérsia a ser tratada no recurso especial, sob a baliza da alínea "a" do art. 105, inc. III, da CFRB, respeita solver discussão quanto à contrariedade ou negativa de vigência perpetrada pelo tribunal a quo à legislação ou tratado federal em sua aplicação ao caso concreto.
+O mero inconformismo não oferece os subsídios constitucionalmente exigidos para o julgamento do recurso especial, pois a falta de demonstração de possível violação de normativo infraconstitucional (argumentação deficiente) esvazia o sentido da controvérsia a ser dirimida nos termos impostos pelo art. 105, III, "a", da Constituição Federal (conferindo incompreensibilidade à questão), o que torna apropriada a aplicação, dada sua inteligência, da Súmula 284/STF.
+No caso, a ausência tanto da especificação do dispositivo legal porventura violado quanto de argumentos aptos a demonstrar como teria ocorrido a apontada vulneração caracteriza argumentação deficiente a impossibilitar a compreensão exata da controvérsia, atraindo, de forma inconteste, o teor da Súmula 284/STF.
+Dessa forma, correta a decisão ora embargada ao negar provimento ao agravo interno ao entendimento de que houve incidência da Súmula 284/STF, não tendo o recorrente desenvolvido argumentação que deixasse claro qual o dispositivo legal teria sido efetivamente violado.
+Portanto, verifica-se que os presentes embargos declaratórios revelam, na realidade, o nítido propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+A propósito, os seguintes julgados que exprimem a firme jurisprudência do Superior Tribunal de Justiça acerca da inadmissibilidade dos embargos de declaração quando opostos fora das exíguas hipóteses legais de seu cabimento:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ANÁLISE DO PEDIDO DE CONCESSÃO DA JUSTIÇA GRATUITA. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração parcialmente acolhidos, sem efeitos infringentes.
+(EDcl no AgInt nos EDcl no AREsp 1737424/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/09/2021, DJe 04/10/2021).
+___ .
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. CONFIGURAÇÃO . JURISPRUDÊNCIA RECENTE.
+1. Os embargos de declaração são cabíveis para suprir omissão, contradição, obscuridade ou erro material do acórdão.
+2. Admite-se, excepcionalmente, que os embargos, ordinariamente integrativos, tenham efeitos infringentes, desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil de 2015, cuja correção importe alteração da conclusão do julgado.
+3. No caso concreto, o Superior Tribunal de Justiça tem entendimento firmado no sentido de que a citação é o termo inicial dos juros de mora para ações de dissolução parcial de sociedade com apuração de haveres relativa a fatos ocorridos sob a vigência do Código Civil de 1916.
+4 . Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no AgInt no AREsp 1524060/ES, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/09/2021, DJe 30/09/2021).
+___ .
+O simples fato de a decisão ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos aclaratórios.
+4. Ante o exposto, REJEITO os embargos de declaração.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (1.026, § 2º, do CPC/2015).
+É como voto.
