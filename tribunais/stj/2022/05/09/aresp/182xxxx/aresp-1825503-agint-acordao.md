@@ -1,0 +1,127 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 369/394) interposto contra decisão desta relatoria, que negou provimento ao agravo em recurso especial (e-STJ fls. 359/366).
+Em suas razões, a parte alega não ser caso de aplicação da Súmula n. 7/STJ, sob alegação de que "não se trata de mero reexame do quadro fático probatório, mas adequação da legislação pátria ao acórdão alvejado" (e-STJ fl. 377).
+Aduz ainda que "o requisito do prequestionamento neste caso está claramente preenchido, tendo em vista que a matéria discutida no presente apelo especial fora ventilada em primeira instância, sendo devidamente apreciada na decisão interlocutória, devolvida ao judiciário no Recurso de Apelação interposto, todavia, não acolhida pelo Órgão Colegiado da Vigésima Primeira Câmara do Tribunal de Justiça do Rio de Janeiro" (e-STJ fl. 379).
+Sustenta não serem aplicáveisos "precedentes indicados ao caso em comento, porquanto a matéria discutida em Recurso Especial é correlata ao disposto na negativa de vigência ao disposto no art. 321, 783, 784 e 917, §4º, todos do Código de Processo Civil, não se confundindo com os paradigmas suso" (e-STJ fl. 381).
+Afirma que "a Agravante jamais alegou a violação ao disposto na Constituição Federal ou na Lei de Introdução às Normas do Direito Brasileiro, de modo que não há que se falar em usurpação de competência por ocasião do Julgamento do Recurso Especial manejado pela Agravante" (e-STJ fl. 382).
+Após reiterar os argumentos expostos no recurso especial, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado, com o provimento do recurso especial na íntegra.
+Impugnação não apresentada (e-STJ fl. 397).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+2. Agravo interno não conhecido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 359/366):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da aplicação do Tema em Repetitivo n. 576 do STJ e das Súmulas n. 83 do STJ e 284 do STF (e-STJ fls. 289/294).
+O acórdão recorrido está assim ementado (e-STJ fls. 223/224):
+Apelação Cível. Embargos à Execução. Título Executivo Extrajudicial. Cédula de Crédito Bancário. Alegação de que o título não preenche os requisitos legais para aparelhar a via executiva. Sentença de procedência. Manutenção. Na forma do art.783 do NCPC, o título executivo deve ser líquido, certo e exigível. O art.28 da Lei 10.931/04 afirma a natureza jurídica da cédula de crédito bancário como título executivo extrajudicial. Matéria discutida pelo E.STJ, no julgamento do REsp n. 1 .297.575/PR, sob o rito dos recursos repetitivos, que originou a fixação da seguinte tese, cadastrada sob o Tema n.576: "A Cédula de Credito Bancário é título executivo extrajudicial" representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta corrente, nas modalidades de crédito rotativo ou cheque especial. "Caso concreto no qual o documento acostado nos autos da execução não traz certeza, liquidez e exigibilidade. Ausência de qualquer menção a valor creditado, bem como forma de pagamento. Dissonância entre a data apontada na inicial da execução como a data da firmação do contrato e aquela constante na cédula acostada. Título apresentado que não apresenta liquidez, certeza e exigibilidade, impossibilitando o contrato e aquela constante na cédula acostada. Título apresentado que não apresenta liquidez, certeza e exigibilidade, impossibilitando o prosseguimento da via executiva eleita. Majoração dos honorários sucumbenciais, na forma do art.85, §11, do NCPC. Jurisprudência e precedentes citados: 1663201-97.2011.8.19.0004 - APELAÇÃO Des(a). JOSÉ CARLOS VARANDA DOS SANTOS - Julgamento: 12/12/2018 - DÉCIMA CÂMARA CÍVEL; 0009299-69.2018.8.19.0000 - AGRAVO DE INSTRUMENTO Des(o). FERNANDO CERQUEIRA CHAGAS - Julgamento: 20/06/2018 - DÉCIMA PRIMEIRA CÂMARA CÍVEL 0117512-11.2014.8.19.0001 - APELAÇÃO Des(a). CARLOS SANTOS DE OLIVEIRA - Julgamento: 15/08/2017 - VIGÉSIMA SEGUNDA CÂMARA CÍVEL. DESPROVIMENTO DO RECURSO.
+No especial (e-STJ fls. 247/272), fundamentado no art. 105, III, alínea "a", da CF/1988, a recorrente aponta ofensa ao art. 321 do CPC/2015, alegando o seguinte (e-STJ fls. 251/253):
+ ..  é uma entidade fechada de previdência privada, constituída sob a forma de sociedade civil  .. .
+Dessa forma, de acordo com o art. 17 da Resolução do Conselho Monetário Nacional nº. 3.792, de 24 de setembro de 2009, os investimentos dos recursos dos planos administrados pela EFPC (Entidade Fechada de Previdência Complementar) devem ser classificados nos seguintes seguimentos de aplicação: renda fixa, renda variável, investimentos estruturados, investimentos no exterior, imóveis e operações com participantes.
+Na modalidade classificada como "operação com participantes" está enquadrado o Empréstimo Pessoal, nos termos do artigo 23,1, da referida Resolução do Conselho Monetário Nacional nº 3.792, de 24 de setembro de 2009.  ..
+Para a perfectibilização da concessão do crédito, o mutuário deverá preencher e enviar à entidade o Termo de Adesão ao Contrato de Abertura de Crédito, conforme anexo, pré-requisito fundamental para contratar ou renovar o Empréstimo Simples. Somente após o cadastramento do Termo de Adesão na entidade é que o participante ou assistido poderá operar com o empréstimo no auto-atendimento do site PREVI ou encaminhar à PREVI o formulário Solicitação de Empréstimo. Tal Termo será preenchido somente na primeira concessão e terá validade permanente.  ..
+Diante disso, devidamente informado dos procedimentos para a concessão do crédito, a parte demandada, na prerrogativa de associado da Autora, requereu Empréstimo Simples nº 841708, modalidade "ES ROT 100 SERIE 12 PL 1  na data de 11/09/2014, no valor de R$ 42.000,00 (quarenta e dois mil reais), parcelados em 96 mensais, o que se verifica do denominado "Extrato de Empréstimo Simples".
+Por razões que fogem do conhecimento da Autora/Recorrente e consoante o denominado "Extrato de Empréstimo Simples", que acompanha a presente ação, há vários meses a parte demandada deixou de efetuar o pagamento das prestações, o que, nos termos do Contrato de Abertura de Crédito - Empréstimo Simples, em anexo, determina o vencimento antecipado da dívida.
+Sustenta que (e-STJ fl. 254):
+ ..  a parte Embargante não apresentou memória de cálculo à petição inicial dos embargos dos valores que entende por devidos, tampouco apresentou argumentos válidos para obstaculizar o devido adimplemento de suas obrigações para com a entidade impugnante.
+ ..  sequer foram apresentados valores devidos no corpo da petição. Dessa forma, devem ser rejeitados os embargos à execução, nos termos do art. 917, § 4º CPC/2015.
+Ressalta que (e-STJ fl. 258):
+ ..  não foi dada a oportunidade a Recorrente para sanar eventuais reparos existentes na petição inicial de Execução, portanto, violando assim o Art. 321 do CPC.
+Defende que (e-STJ fl. 259):
+Quanto à liquidez, esclarece-se que implica na determinação doquantum debeatur, passível de estimativa através de simples operação aritmética. No presente caso é claro o valor contratado pelo embargante, bem como as prestações que o mesmo pagaria e em quanto tempo pagaria, não restando qualquer dúvida quanto à liquidez do título.
+Mais evidente ainda é a exigibilidade do título executivo, vez que ao contratar um empréstimo simples junto à embargada, o executado tinha pleno conhecimento do vencimento das parcelas, a fim de se organizar financeiramente para cumprir com o pagamento das mesmas.
+Claramente foram especificados,in casu, e cumpridos todos os requisitos exigidos em lei, quanto à formação de título executivo, exigível pelo credor em face do devedor.
+Alega que (e-STJ fl. 262):
+Para que um contrato seja válido, deve respeitar os elementos genéricos dos negócios jurídicos, estabelecidos no art. 104, do Código Civil  .. .
+Veja-se que referidos requisitos foram respeitados, eis que ambas são capazes, o objeto negociado é lícito, possível e determinado (soma pecuniária) e a forma resta prescrita em lei. Com relação especificamente às dívidas em dinheiro, como a que se observa no presente caso, assim determina o Código Civil  art. 315 .  ..
+Pode-se conjugar mencionado dispositivo com o art. 422, também do Código Civil  ..
+Afirma que (e-STJ fl. 267):
+Consequentemente, a conduta em apreço viola o ato jurídico perfeito, a teor do artigo 6º da LICC e do regramento constitucional, consubstanciado no artigo 5º inciso XXXVI da Carta Magna.
+Ao final pede "TOTAL PROVIMENTO ao presente Recurso Especial, em razão da violação aos artigos supracitados, devendo ser reformada a Decisão Recorrida" (e-STJ fl. 271)
+Não foram apresentadas contrarrazões (e-STJ fl. 287).
+No agravo (e-STJ fls. 308/330), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 339).
+É o relatório.
+Decido.
+Inicialmente, destaco que um dos fundamentos do acórdão foi a tese fixada no julgamento do REsp n. 1.291.575/PR, sob o rito de repetitivo, objeto do Tema n. 576 do STJ. Confira-se (e-STJ fl. 229):
+ ..  a matéria foi apreciada quando do julgamento do REsp n. 1.291.575/PR pelo E.STJ, submetido ao rito dos recursos repetitivos, tendo sido fixada a seguinte tese cadastrada no Tema no 576:
+"A Cédula de Credito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta corrente, nas modalidades de crédito rotativo ou cheque especial."
+ ..  Porém, no caso concreto, a cédula acostada não contém qualquer menção ao valor do crédito disponibilizado, tampouco sua forma de pagamento e sequer número do contrato.
+Ademais, está datada de 20/12/2006, enquanto que na exordial da execução, o credor, ora apelante, refere-se à dívida oriunda de mútuo firmado em 08/10/2010 (fls. 04 e fls. 21).
+Portanto, a cédula que embasou a execução ora embargada não detém liquidez e certeza.
+Com efeito, não cabe agravo contra inadmissibilidade de recurso especial com fundamento em aplicação de tese firmada em julgamento pelo rito repetitivo, no caso em espécie, Teman. 576 do STJ. A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. CARÁTER ABUSIVO RECONHECIDO. TESE REPETITIVA. ART. 1.030, I, B, DO CPC/2015. AGRAVO NÃO CONHECIDO. FORMULAÇÃO DE PEDIDOS RECURSAIS SUCESSIVOS. PEDIDOS PREJUDICADOS. AGRAVO INTERNO NÃO PROVIDO.  ..
+2. Segundo a jurisprudência desta Corte Superior, a decisão prolatada pelo Tribunal originário, no sentido de negar seguimento ao recurso especial por aplicação de entendimento consagrado em recurso repetitivo, deve ser impugnada por meio de agravo interno previsto no art. 1.030, § 2º, do CPC/2015, constituindo erro grosseiro a interposição de agravo em recurso especial.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.811.509/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/06/2021, DJe 5/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.042 DO CPC/2015. DECISÃO DE ADMISSIBILIDADE. NEGATIVA. RECURSO REPETITIVO. RECURSO CABÍVEL. AGRAVO INTERNO. ORIGEM. ART. 1.030, § 2º, DO CPC/2015. ERRO GROSSEIRO. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CPC/2015, C/C ART. 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A decisão do Presidente ou Vice-Presidente do tribunal recorrido que não admite o recurso especial com base em entendimento firmado em recurso repetitivo deve ser impugnada por meio de agravo interno, consoante o disposto no art. 1.030, § 2º, do CPC/2015.
+3. A jurisprudência do Superior Tribunal de Justiça se consolidou no sentido de que, sob a égide do CPC/2015, a interposição de agravo em recurso especial com tal finalidade constitui erro grosseiro, inviabilizando a aplicação do princípio da fungibilidade.
+Precedentes.
+4. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, III, do CPC/2015, c/c art. 253, parágrafo único, I, do RISTJ). Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.828.169/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 4/10/2021, DJe 8/10/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. DECISÃO DE ADMISSIBILIDADE QUE NEGA SEGUIMENTO AO APELO NOBRE COM BASE NO ART. 1.030, I, B, DO NCPC. ART. 1.030, § 2º, DO NCPC. INTERPOSIÇÃO DO AGRAVO PREVISTO NO ART. 1.042 DO NCPC. ERRO GROSSEIRO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL. SÚMULA Nº 284 DO STF, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.  ..
+2. É incabível agravo em recurso especial contra decisão que nega seguimento a apelo nobre na hipótese em que a matéria tenha sido julgada em harmonia com tese definida em recurso repetitivo, sendo cabível o agravo interno. Precedentes.
+3. O conhecimento do recurso especial pela alínea c do permissivo constitucional exige, além de demonstração e comprovação do dissídio jurisprudencial, a indicação de qual dispositivo legal teria sido violado ou objeto de interpretação divergente, entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula nº 284 do STF. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.703.829/PR, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/9/2020, DJe 24/9/2020.)
+Ainda que assim não fosse, verifica-se que a eventual ofensa aos arts. 5º, II e XXXVI, da CF e 6º da LINDB não pode ser apreciada em sede de recurso especial, sob pena de usurpação da competência do STF. Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. REVISÃO NO STJ. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N. 211/STJ. RECUPERAÇÃO JUDICIAL. EXECUÇÃO. COOBRIGADO. SUSPENSÃO. IMPOSSIBILIDADE. NOVAÇÃO. NÃO OCORRÊNCIA. ARTIGO 59 DA LEI 11.101/2005. NÃO PROVIMENTO.
+1. O recurso especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF. .. .
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 190.790/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 6/8/2015, DJe 13/8/2015.)
+Cuida-se, na origem, de embargos à ação de execução de título extrajudicial, promovida pela Caixa de Previdência dos Funcionários do Banco do Brasil - PREVI em face de Ronny Botelho Filho. O juízo singular julgou os embargos procedentes e declarou nula a ação de execução, por falta de título exequível (e-STJ fl. 219).
+A controvérsia versa sobre a liquidez e exigibilidade do título levado à execução extrajudicial, qual seja, o Termo de Adesão ao Contrato de Abertura de Crédito - Empréstimo Simples.
+O Tribunal de origem afirmou a necessidade de a cédula de crédito bancário preencher os requisitos de liquidez, certeza e exigibilidade para embasar a ação de execução extrajudicial, o que não ocorreu no caso dos autos. Confiram-se os seguintes trechos do acórdão recorrido (e-STJ fls. 226/227):
+Inicialmente, deve-se rejeitar a alegação de rejeição liminar dos Embargos de Execução, em razão da não apresentação de planilha de memória de cálculos pelo embargante.
+Isso porque, o art. 917, § 3º, do CPC estabelece a necessidade de apresentação de planilha de cálculos quando for alegado excesso na execução, o que não é o caso dos autos, no qual está sendo questionada a validade do título apresentado.
+No que tange à alegação de não cumprimento do art. 321 do CPC pelo juízo de 1º grau, não assiste razão ao apelante.
+Ora, não houve ausência de documentos nos autos da execução para dar ensejo à emenda da inicial.  ..
+In casu, o credor ajuizou a execução lastreado no documento acostado às fls.20 dos autos em apenso, qual seja, um "Termo de Adesão ao Contrato de Abertura de Crédito - Empréstimo Simples".
+Com efeito, não há mais dúvida acerca da natureza jurídica da cédula de crédito bancário, por força dos arts.26 e 28 da Lei 10.931/04, sobretudo quando acompanhada do claro demonstrativo da dívida inadimplida.  ..
+Acrescento que,afastar as conclusões do TJRJ, com relação à ausência de demonstração da exigibilidade e liquidez da Cédula de Crédito Bancáriolevada à execução, implicaria no revolvimento do acervo fático probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ. Sobre o tema:
+EMBARGOS À EXECUÇÃO. CONTRATO DE PARCERIA RURAL. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. EXIGIBILIDADE DO TÍTULO EXECUTIVO EXTRAJUDICIAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. .. .
+2. O reexame dos fundamentos do acórdão recorrido que ensejaram o reconhecimento da liquidez, certeza e exigibilidade dos títulos que embasam a execução, exigiria a análise fático - probatória dos autos, o que é inviável por esta via especial, ante o óbice da Súmula 7 desta Corte, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.786.844/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/8/2021, DJe 24/8/2021.)
+Oconteúdo normativo dos arts. 104, 315, 422, 585 do CC/2002 e 651, 655 do CPC/2015 não foi objeto de manifestação específica no acórdão recorrido o que atrai a aplicação das Súmulas n. 282 e 356 do STF, por falta de prequestionamento.
+A propósito:
+CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL CUMULADA COM INDENIZAÇÃO POR DANO MORAL E MATERIAL. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA DA OBRA. ART. 393 DO CC/02. FALTA DE PREQUESTIONAMENTO. SÚMULAS N.os 282 E 356 DO STF. JUROS DA OBRA. RESTITUIÇÃO DOS VALORES COBRADOS INDEVIDAMENTE, APÓS A DATA PREVISTA PARA A ENTREGA DAS CHAVES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.  ..
+2. A jurisprudência do STJ firmou-se no sentido de que a análise de dispositivo tido por violado no âmbito do recurso especial exige a prévia discussão perante o Tribunal de Segunda Instância, sob pena de incidirem as Súmulas nºs 282 e 356 do Supremo Tribunal Federal.  .. .
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1923493/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/11/2021, DJe 19/11/2021.)
+Ainda, oTribunala quodecidiu a lide de acordo com o entendimento firmado por esta Corte Superior, no sentido de que a exequibilidade da Cédula de Crédito Bancário prescinde de claro demonstrativo dos valores utilizados pelo devedor, o que atrai a incidência da Súmula 83 do STJ. Sobre o tema:
+DIREITO BANCÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. CÉDULA DE CRÉDITO BANCÁRIO VINCULADA A CONTRATO DE CRÉDITO ROTATIVO. EXEQUIBILIDADE. LEI N. 10.931/2004. POSSIBILIDADE DE QUESTIONAMENTO ACERCA DO PREENCHIMENTO DOS REQUISITOS LEGAIS RELATIVOS AOS DEMONSTRATIVOS DA DÍVIDA. INCISOS I E II DO § 2º DO ART. 28 DA LEI REGENTE.
+1. Para fins do art. 543-C do CPC: A Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta-corrente, nas modalidades de crédito rotativo ou cheque especial. O título de crédito deve vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente, trazendo o diploma legal, de maneira taxativa, a relação de exigências que o credor deverá cumprir, de modo a conferir liquidez e exequibilidade à Cédula (art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004).
+3. No caso concreto, recurso especial não provido.
+(REsp n. 1.291.575/PR, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/8/2013, DJe 2/9/2013.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DO EMBARGANTE.
+1. "Para fins do art. 543-C do CPC/73: A Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta-corrente, nas modalidades de crédito rotativo ou cheque especial. O título de crédito deve vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente, trazendo o diploma legal, de maneira taxativa, a relação de exigências que o credor deverá cumprir, de modo a conferir liquidez e exeqüibilidade à Cédula (art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004)" (REsp 1.291.575/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/08/2013, DJe 02/09/2013). Incidência do óbice da Súmula 83/STJ.
+2. A ausência de impugnação a fundamento do acórdão recorrido, suficiente, por si só, para manutenção do decisum, atrai o óbice da Súmula 283/STF, aplicável por analogia.
+3. Impossibilidade de limitação dos juros remuneratórios em 12% ao ano, pois estes não sofrem a limitação imposta pelo Decreto nº 22.626/33 (Lei de Usura), conforme dispõe a Súmula 596/STF. A abusividade da pactuação deve ser cabalmente demonstrada em cada caso, o que, segundo o acórdão recorrido, não foi comprovado. Incidência das Súmulas 5 e 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 867.638/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/5/2018, DJe 28/5/2018.)
+Ante o exposto, NEGO PROVIMENTO aoagravo em recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado na origem, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Na decisão monocrática, o agravo em recurso especial foi desprovido por não cabimento do recurso no caso de julgamento pelo rito repetitivo,aplicação das Súmulas n. 7 e 83 do STJe 282 e 356 do STF.
+No agravo interno (e-STJ fls. 369/394), todavia, a agravante insurge-se contra o resultado que lhe foi adverso sem refutar tais motivos, afirmando, de forma genérica, a não aplicação das referidas súmulas, e reiterando os argumentos trazidos no recurso especial.
+De fato, não houve nenhuma menção a respeito do não cabimento do agravo no caso de julgamento pelo rito repetitivo; tampouco indicação das páginas do acórdão recorrido emque os arts. 104, 315, 422, 585 do CC/2002 e 651, 655 do CPC/2015teriam sido prequestionados; a parte igualmentenão demonstrou de que forma a discussão sobre exigibilidade e liquidez da cédula de crédito bancárioexecutada não implicaria revolvimento do acervo fático-probatório dos autos; e não afastou o entendimento desta Corte Superiorsegundo o qual a exequibilidade da cédula de crédito bancário prescindiria de claro demonstrativo dos valores utilizados pelo devedor (Súmula n. 83).
+Deixando a recorrente de rebater especificamente cada ponto da decisão ora agravada, incide a Súmula n. 182/STJ.
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 1258610/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2018, DJe 18/12/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
