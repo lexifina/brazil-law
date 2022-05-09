@@ -1,0 +1,26 @@
+DECISÃO
+Vistos etc.
+Trata-se de conflito de competência, com pedido liminar, suscitado por ROTAS DE VIACAO DO TRIANGULO LTDA - EM RECUPERACAO JUDICIAL, em face do JUÍZO DE DIREITO DA 29A VARA CÍVEL DE GOIÂNIA - GO, no qual tramitam os autos da recuperação judicial (nº0167246.80.2016.8.09.0051), e do JUÍZO DE DIREITO DA 1A VARA CÍVEL DE SÃO CARLOS - SP, no qual tramita o cumprimento de sentença nº 0004905-67.2021.8.26.0566 movido por MATHEUS DE FREITAS BARBOZA.
+Afirma a suscitante que, embora esteja em trâmite perante o Juízo Goiano sua recuperação judicial, o Juízo Paulista deu início ao cumprimento de sentençadeferindo pedido de penhoraon line, haja vista que o crédito perseguido era extraconcursal.
+Ressalta, ainda, que as questões tendentes a afetar o seu patrimônio devem ser analisadas pelo Juízo Universal da recuperação.
+É o breve relatório.
+Decido.
+Com fundamento na orientação contida no artigo 955, parágrafo único, inciso I, do CPC e na Súmula 568/STJ, estou em proceder ao julgamento monocrático do conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastantes numerosas da Colenda 2ª Seção.
+O conflito não pode ser conhecido.
+Embora a ROTAS DE VIACAO DO TRIANGULO LTDA esteja em com sua recuperação judicial deflagrada, não houve a prática de quaisquer atos de constrição sobre seu patrimônio, o que impede a configuração do conflito (AgRg no CC 139.585/RJ, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 25/10/2017, DJe 30/10/2017).
+Compulsando os autos, verifica-se, de fato, que, inicialmente, o juízo do cumprimento de sentença, na data de 05/10/2021,determinou a intimação da ora suscitante para o pagamento da dívida e, em caso de não pagamento e havendo pedido formulado pelo autor, autorizou a constrição de ativos da empresa (e-STJ, fl. 48).
+Contudo, na data de 07/12/2021, o magistrado proferiu nova decisão intimando o exequente, ora interessado, para se manifestar sobre o interesse em habilitar seu crédito no processo de recuperação judicial, ou prosseguir com a execução nos autos do cumprimento de sentença. Nesse caso, alertou o magistradoque, a despeito do crédito ser extraconcursal, os atos de constrição deveriam ser submetidos ao crivo do juízo recuperacional. Confira-se, no que interessa, trecho dessa decisão (e-STJ, fls. 62/64):
+"(..)
+Já em relação à habilitação do crédito junto aos autos da recuperação judicial, a razão não está com a executada, na medida em que o entedimento do C. STJ é no sentido de que compete ao Juízo Universal exercer o controle dos atos de constrição e expropriação de bens, por meio de prévia informação do Juízo da execução acerca de tais pleitos formulados pela parte exequente, deliberando sobre a melhor forma de adimplemento do crédito, de modo a não prejudicar o plano de recuperação(CC: 179051SP 2021/0125147-0, Relator: Ministro MARCO AURÉLIO BELLIZZE, DJe01/07/2021).
+De qualquer maneira, caberá ao exequente indicar o caminho para ver seu crédito satisfeito (habilitação do crédito na RJ ou prosseguimento deste incidente). Caso opte pela habilitação do crédito como quer a executada, o incidente será extinto. Caso contrário, todas as medidas de constrição formuladas neste incidente deverão ser, a princípio, levadas ao crivo do Juízo Universal, de modo que eventual constrição não interfira, de forma contundente, na realização do plano em andamento.
+Assim, determino que o exequente manifeste a sua opção no prazo de quinze dias. Caso a opção seja pela habilitação do crédito, determino que a executada proceda o necessário à inclusão, nos autos da sua recuperação judicial, uma vez que o valor cobrandonão foi impugnado.
+Do mesmo modo, o exequente poderá proceder à habilitação, caso opte portal proceder e haja desídia da executada, como acima determinado."
+Na verdade, adecisão proferida pelo juízo do cumprimento de sentença encontra amparo na jurisprudência desta Corte Superior, no sentido de que, mesmo tratando-se de crédito extraconcursal,o controle dos atos de constrição/expropriação de bens pertencentes a empresas em recuperação judicial relacionados a ele deve ser submetido ao juízo recuperacional (v. g.: PET no CC 175.484/MG, Rel. Ministro Luis Felipe Salomão, 2ª S., DJe de 20/04/2021; AgInt no CC 167.563/SP, Rel. Ministro Paulo de Tarso Sanseverino, 2ª S., DJe de 19/03/2020; e AgRg nos EDcl no CC 136.571/MG, Rel. Ministro Marco Aurélio Bellizze, 2ª S., DJe de 31/05/2017).
+Desse modo, não há se falar em conflito de conflito de competência entre os juízos.
+Ante o exposto, não conheço do conflito de competência.
+Comuniquem-se as autoridades judiciárias.
+A apresentação de incidentes manifestamente infundados ou protelatórios será reputada litigância de má-fé.
+Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL. NÃO CONFIGURAÇÃO. NÃO DEMONSTRAÇÃO DA PRÁTICA DE QUAISQUER ATOS DE CONSTRIÇÃO DIRIGIDOS AO PATRIMÔNIO DA EMPRESA EM RECUPERAÇÃO JUDICIAL. CRÉDITO EXTRACONCURSAL. CONTROLE DOS ATOS CONSTRITIVOS SUBMETIDOS AO JUÍZO DA RECUPERAÇÃO JUDICIAL. DECISÃO DO JUÍZO DO CUMPRIMENTO DE SENTENÇA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR.AUSÊNCIA DE DECISÕES CONFLITANTES ENTRE OS JUÍZOS.
+CONFLITO NÃO CONHECIDO.
