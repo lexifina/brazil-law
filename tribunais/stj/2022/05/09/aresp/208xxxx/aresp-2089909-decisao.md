@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por Marcos Lopes Siqueira Junior contra a decisão proferida pelo Tribunal de Justiça de São Paulo, que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele apresentado, impugnando, por sua vez, o acórdão prolatado na Apelação Criminal n. 0003011-07.2012.8.26.0361, assim ementado (fl. 325):
+Apelação. Furto qualificado tentado. Rompimento de obstáculos e concurso de agentes. Preliminar. Prescrição da pretensão punitiva caracterizada. Inidoneidade das interceptações telefônicas não verificada. Quebra de sigilo devidamente autorizada. Matéria preliminar rejeitada. Mérito. Autoria e materialidade demonstradas. Redução das penas-base do corréu Marcos. Fixação de regime semiaberto em relação ao corréu Carlos. Recursos providos em parte.
+Nas razões do especial, a Defensoria Pública apontou contrariedade ao art. 44 do Código Penal, buscando, em suma, a substituição da pena corporal por penas restritivas de direitos, por se tratar de recorrente primário, cujas penas foram estabelecidas aquém de 4 anos e com todas as circunstâncias judiciais consideradas favoráveis (fls. 972/973).
+Apresentadas contrarrazões (fls. 977/981), o Tribunal de origem não admitiu o recurso, por incidência da Súmula 7/STJ (fls. 984/985).
+Daí o presente agravo (fls. 990/992). Instado a se manifestar, o Ministério Público Federal opinou pelo conhecimento do agravo para dar provimento ao recurso especial (fls. 1.012/1.013).
+É o relatório.
+O agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+A irresignação merece acolhimento.
+Concordo com o bem-lançado parecer ministerial da lavra do Subprocurador-Geral da República Roberto dos Santos Ferreira, o qual adoto como razões de decidir (fls. 1.012/1.013 - grifo nosso):
+ ..  Ao que consta dos autos, o recorrente foi condenado, em primeira instância, à pena de 01 ano, 06 meses e 20 dias de reclusão, em regime aberto, pela prática do crime previsto no art. 155, § 4º, I e IV, c/c art. 14, II, todos do Código Penal. Na ocasião, nada abordou o Juízo sentenciante sobre a possibilidade de substituição da pena corporal em restritiva de direitos.
+A seu turno, o Tribunal recorrido, ao dar parcial provimento à apelação da defesa, fixou a pena-base no mínimo legal, negando, entretanto, a pretendida substituição, lastreado nos seguintes fundamentos (e-STJ, fls. 957-958):
+Inviável a substituição da pena privativa de liberdade por restritiva de direitos, pois se mostra como insuficiente e inadequada para aplicação da terapêutica penal e para prevenção e reprovação do delito.
+A conclusão do acórdão, entretanto, sem fazer alusão às nuances do caso concreto, valeu-se de razões genéricas e inidôneas para a não substituição da pena privativa de liberdade por restritiva de direitos, em especial diante da primariedade do recorrente, do quantum da pena fixado, do decote de negativação desfavorável das circunstâncias judiciais operado pelo Tribunal recorrido e, por fim, por se tratar de condenação por crime não cometido com violência ou grave ameaça a pessoa, a teor do art. 44 do Código Penal.  ..
+Com razão o nobre parecerista.
+É pacífica a jurisprudência desta Corte Superior de Justiça no sentido de que, em se tratando de réu primário, com pena-base fixada no mínimo legal, abaixo dos 4 anos de reclusão, e por crime não cometido com violência ou grave ameaça à pessoa, deve ser reconhecida a viabilidade da conversão da pena privativa de liberdade em restritivas de direitos, nos moldes do art. 44 do Código Penal.
+Vejam-se o HC n. 633.407/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 8/2/2021; o HC n. 540.448/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/2/2020; HC n. 507.569/SP, Ministro Felix Fischer, Quinta Turma, DJe 11/6/2019; HC n. 359.813/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/6/2018, dentre outros.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, c, do RISTJ, em consonância com o parecer ministerial, conheço do agravo para dar provimento ao recurso especial para determinar a substituição da reprimenda por duas restritivas de direitos, a serem escolhidas pelo Juízo das execuções criminais.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO TENTADO. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. ART. 44 DO CP. POSSIBILIDADE. PRECEDENTES. ADOÇÃO DO PARECER MINISTERIAL.
+Agravo conhecido para dar provimento ao recurso especialnos termos da fundamentação.
