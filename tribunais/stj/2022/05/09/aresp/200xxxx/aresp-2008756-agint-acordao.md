@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+1. Trata-se de agravo interno interposto por SPE BRASIL INCORPORACAO 55 LTDA em face de decisão da minha lavra que negou provimento ao agravo em recurso especial sob os fundamentos de ausência de violação aos arts.489 e 1.022 do CPC/2015 e de incidência da súmula 7/STJ.
+A parte agravante sustenta existir violação aos arts. 489, §1º,II,III, IV, V e VI, e 1.022, II e III do CPC, pois o aresto estadual impugnado por meio do recurso especialteria sido fundamentado em premissas fáticas equivocadas, sendo que uma delas não foi sanada pelos embargos de declaração opostos pelas recorrentes. Argumenta que não restou esclarecido que a culpa pelo atraso foi dos recorridos, pois a completa formalização da entrega do empreendimento aconteceu, ainda, 11/04/2016.
+Defende que foi considerado pelo tribunal de origem, para fins de determinar a data da entrega do imóvel,documento correspondente a uma "certidão parcial, referente apenas aos blocos 1 e 2, não sendo útil ao caso concreto, haja vista que a unidade imobiliária em discussão está situada no bloco 3".
+Alega que há nosautosa Certidão de Matrícula do Imóvel, contendo a averbação do Certificado de Conclusão do bloco 3, documento, aliás, que foi anexado à peça inaugural pelos próprios recorridos(evento 1 -arq. 7).
+Argúiser desnecessário reexame de fatos e provas, que foi utilizada uma decisão padrão para barrar o seguimento de qualquer recurso especial.Defende quetoda a moldura fática já foi posta no aresto recorrido e está incontroversa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA1.022 DO CPC. REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Não se viabiliza o recurso especial pela indicada violação dos arts. 489 e 1.022 do CPC quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, ainda que em sentido contrário à pretensão da parte recorrente.
+2. A reapreciação do suporte fático-probatório dos autos é vedada nesta Corte, pelo óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo interno não provido.
+VOTO
+2. A irresignação não prospera.
+Não se viabiliza o recurso especial pela indicada violação dos arts. 489 e 1.022 do CPC quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, ainda que em sentido contrário à pretensão da parte recorrente.
+3. O acórdão recorrido assim dispôs no tocante à configuração de atraso e exceção de contrato não cumprido:
+2. Afere-se dos autos que o negócio entabulado entre as partes formalizou-se em 30 de Junho de2015, com entrega do imóvel prevista para Julho de 2015, com carência de 180 dias (movimentação n. 1).
+Contudo, o apartamento foi entregue somente no dia 08/08/2016, conforme termo de vistoria e entrega de chaves ao adquirente.
+Registro não desconhecer a cláusula 9.1 do contrato firmado entre as partes, segundo a qual será considerada terminada cada unidade autônoma, quando for expedido o certificado de conclusão da obra (habite-se), tampouco ignorar o Certificado de conclusão de obra juntado com a peça defensiva.
+Todavia, trata-se de certidão parcial, referente apenas aos blocos 1 e 2, não sendo útil ao caso concreto, haja vista que a unidade imobiliária em discussão está situada no bloco 3.
+Não havendo nenhum outro documento apto a provar que o bem de raiz foi entregue na data aprazada, ou mesmo dentro da data de tolerância, deixaram as rés de provar os fatos impeditivos ou extintivos do direito dos autores, ônus que lhes cabia, a teor do art. 373, II, CPC.
+Dessa maneira, impositiva a acolhida da tese inaugural de que houve o atraso na entrega do bem, por culpa exclusiva das demandadas.
+3. Esse o quadro, não cumprida pelas recorrentes a obrigação de disponibilizar a documentação necessária do empreendimento para o financiamento, não poderiam cobrar correção sobre a parcela a ser financiada, porquanto nos termos do art. 476 do Código Civil, nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro.
+Destarte, constatado serem as apeladas as únicas responsáveis pela não consecução do financiamento bancário, fato que inviabilizou o pagamento do restante da dívida pelos recorrentes em tempo hábil, além de não desincumbidas do ônus em demonstrar fato impeditivo, modificativo ou extintivo do direito dos autores apelantes, é devida a restituição do valor pago a título de cobrança correção monetária do saldo devedor, no valor de R$ 4.500,00 (quatro mil e quinhentos reais) - mov. 1, arquivo pagamento R$4500,00 acréscimo ao contrato -, todavia de forma simples, e não em dobro, como pretendido pelo consumidor.
+Verifica-se que o tribunal apreciou as questões deduzidas relativas à documentação que estaria nos autos a comprovar a real data de entrega do imóvel, afirmando claramente nãoexistir qualquer documento nos autos que comprove a entrega do imóvel na data acordada pelas partes, mesmo considerando a data de tolerância.
+Decidiu de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. Portanto, não há falar, no caso, em negativa de prestação jurisdicional. Destaco que se a decisão combatida não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+Afastar, por outro lado, as convicções do tribunal de origem apresentadas, no sentido de que a documentação constante nos autos não comprova o cumprimento dos prazos acordados, para passar a afirmar que não houve análise dos documentos apontados pelas parte demandaria incursão pelo contexto fático-probatório dos autos, atividade que não é realizável nesta via especial, a teor da súmula 7/STJ.
+4. O óbice da súmula 7/STJ também incide no tocante ao art. 476 do Código Civil, pois o tribunal concluiu que a parte recorrida apenas não conseguiu efetivar o financiamento para pagamento do imóvel em tempo hábil, porque a documentação necessárianão lhe teria sido entregue pela parte ora recorrente.
+Alterar tal conclusão de que a parte ora recorrente não teria entregue a documentação necessária para viabilizar o financiamento dentro do prazo correto somente poderia ser efetivado com uma nova análise de fatos e provas constantes no autos.
+O aresto recorrido não aponta qualquer outrodadoque permita concluir que a parte ora recorrente tenha apresentado a documentação correta de forma tempestiva, de modo que simples valoração da prova não é suficiente para adotar as alegações doa parterecorrente no sentido de que não teria qualquer responsabilidade no atraso do pagamento pela parte recorrida por meio de financiamento em razão de documentação incompleta fornecida.
+5. Ante o exposto, nego provimento ao agravo interno.
+É o voto.
