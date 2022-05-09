@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Narciso Salgado de Azevedo Neto, apontando-se como órgão coator o Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0003596-49.2021.8.26.0521 - fls. 18/21).
+Narram os autos que o Juízo da Vara da Execução Criminal da comarca de Sorocaba/SP, nos autos do Processo n. 0001682-52.2018.8.26.0521, indeferiu o pedido de remição da pena, uma vez que o pedido não estava instruído com o certificado de aprovação no Exame Nacional do Ensino Médio - ENEM (fl. 17).
+Inconformada, a Defesa interpôs agravo em execução penal, que foi desprovido pela Corte de origem (fls. 18/21).
+Neste writ, a parte impetrante alega, em suma, que o paciente sofre constrangimento ilegal, pois possui direito à remição, tendo em vista que o documento exigido pelo Juízo local sequer existe mais (certificado de aprovação), pois inquestionável que o ENEM não emite certificado de aprovação, ou conclusão de nível escolar deste 2017, emitindo apenas o certificado que atesta o aproveitamento (fl. 6).
+Salienta ter demonstrado, desde o primeiro pedido junto ao Juiz singular, que o certificado apresentado era o de aproveitamento, o qual comprova o estudo, com as respectivas notas, não existindo mais, desde 2017, o certificado de aprovação, tendo até disponibilizado login e senha para tal aferição de aproveitamento (fls. 7/9).
+Assevera, ainda, que, pela interpretação analógica in bonam partem da norma inserta no art. 126 da LEP, a jurisprudência deste Sodalício vem reiteradamente entendendo ser possível a abreviação da reprimenda em razão de atividades que não estejam expressas no texto legal, tendo o Conselho Nacional de Justiça editado a Recomendação n. 44/2013, conferindo interpretação extensiva ao art. 126 da Lei de Execução Penal, que possibilita a denominada remição da pena em decorrência do estudo, pelo condenado recolhido em regime fechado ou semiaberto (fls. 11/12).
+Requer, liminarmente e no mérito, o reconhecimento do direito à remição de 100 dias decorrentes do aproveitamento no ENEM (fls. 15/16).
+Liminar indeferida (fls. 63/65), informações prestadas (fls. 69/106 e 109/118), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 120/125).
+É o relatório.
+O Tribunal de origemasseverou que foi acostadaaos autos tão somente uma declaração de participação do ENEM PPL 2020, assim como de participação em Curso Preparatório oferecido pelo SEB para a realização do ENEM. Por outro lado, a fls. 580 dos autos 0001682-52.2018.8.26.0521 há o histórico escolar do ENSINO MÉDIO EJA, concluído em 1999 (doc anexo) do executado, que cursou e obteve aprovação no Ensino Médio em período anterior ao início do cumprimento da pena imposta no processo crime que instrui a presente execução, sem qualquer relação ao ENEM de 2020. Portanto, resta impossível o acolhimento do pedido de remição(fl. 20).
+Como se vê, aparentemente, o acórdão impugnado decidiu a questão analisando apenas uma declaração de participação no ENEM, bem como em curso preparatório para o ENEM, além de mencionar o histórico escolar do ensino médio relativo a período anterior ao cumprimento da pena da presente execução, sem relação com o ENEM/2020, não mencionado em momento algum o certificado constante à fl. 5. Assim, qualquer análise a respeito do tema importaria indevida supressão de instância.
+Ademais, o exame da questão ensejaria a análise de elementos fáticos, o que é inviável na estreita via do habeas corpus, que possui rito célere e cognição sumária.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO ESTUDO. ENEM. CONCLUSÃO. DISCUSSÃO.
+Writ não conhecido.
