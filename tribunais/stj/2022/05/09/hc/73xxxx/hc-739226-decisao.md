@@ -1,0 +1,8 @@
+DECISÃO
+JOÃO BATISTA DA CONCEIÇÃO alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça a quo. Busca, em liminar e no mérito, o reconhecimentoda pretensão punitiva estatal.
+O writ está deficientemente instruído. Não costa dos autos cópia de eventual condenação, de confirmação da pena pelo Tribunal de Justiça e do trânsito em julgado para a acusação. O postulante também não juntouacórdão proferido pela Corte Estadual, com a prévia análise do pedido de extinção de punibilidade.
+A prescrição ématéria de ordem pública, mas,não prescinde, para a sua análise no estreito âmbito do habeas corpus, da prévia deliberação perante as instâncias ordinárias. Nos termos do art. 105 da CF, não está inaugurada a competência desta Corte para apreciar a questão.
+Deveras: "quanto ao instituto daprescrição,apesar de se tratar de matéria deordem pública,deve ser analisada pela Corte estadual"(AgRg no HC 712.721/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/02/2022, DJe 02/03/2022).
+Ilustrativamente: "o prévio exame das alegações pelas instâncias ordinárias constitui requisito indispensável para sua apreciação nesta instância, ainda quando se cuide de questão deordem pública.Precedentes.2. Cabe ao agravante levar a questão daprescriçãoao conhecimento das instâncias ordinárias, que possuem melhores condições de aferir a sua efetiva ocorrência, mediante a constatação dos marcos interruptivos e respectivas datas"(AgRg no HC 616.994/PR, Rel. Ministro Ribeiro Dantas, 5ª T., julgado em 02/02/2021, DJe 08/02/2021).
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
+Publique-se e intimem-se.
