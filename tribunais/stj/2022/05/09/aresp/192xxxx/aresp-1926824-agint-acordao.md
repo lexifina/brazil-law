@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+MARCOS PAULO ROBERTO DA SILVA VELHO,LUCIANO ELPÍDIO DA SILVA, MAYARA RIBEIRO MADRUGA VELHO, PAULA ANDRADE DOS PASSOS eVANESSA CRISTINA ASSUNÇÃODE ÁVILA (MARCOS e outros)ajuizaram ação de indenização por danos materiaiscontraRNI NEGÓCIOS IMOBILIÁRIOS S.A.eTERRA NOVA RODOBENS INCORPORADORAIMOBILIÁRIA - LAGE I - SPE LTDA. (RNI e TERRA NOVA), decorrentes de vícios de construção em imóvel residencial.
+Em primeira instância, o pedido foi julgado improcedente em relação a MARCOS, MAYARA e LUCIANO e parcialmente procedentequanto a PAULA e VANESSA, condenando RNI e TERRA NOVA a realizar reformas nas unidades residenciaisno prazo de 60 dias, resolvendo em perdas e danos, conforme orçamentos apontados na perícia, se na impossibilidade de fazê-lo ou descumprido o prazo.
+MARCOS, MAYARA eLUCIANO foram condenados ao pagamento das custas processuais e dos honorários advocatícios no valor de10% sobre o valorda causa. Em relação aos demais,observada a sucumbência recíproca, foram condenados ao pagamento das despesas processuais e dos honorários advocatícios de 10% sobre o valor atualizado da causa, divididas as obrigações em 70% pelos autores e 30% pelos requeridos.
+O Tribunal de Justiça do Estado de Santa Catarina deu parcial provimento ao apelo de RNI e TERRA NOVA, excluindo da condenação a obrigação de fazer, porque extra petita,em acórdãoassim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. CONTRATO DE COMPRA E VENDA DE IMÓVEL. VÍCIOS CONSTRUTIVOS. PARCIAL PROCEDÊNCIA NA ORIGEM.
+PRELIMINARES. PRESCRIÇÃO E DECADÊNCIA. INSUBSISTÊNCIA. PRETENSÃO INDENIZATÓRIA. SUJEIÇÃO À PRESCRIÇÃO. AUSÊNCIA DE PREVISÃO ESPECÍFICA NO CÓDIGO DE DEFESA DO CONSUMIDOR. PRAZO DECENAL DO ARTIGO 205 DO CÓDIGO CIVIL APLICÁVEL. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. CARÁTER EXTRA PETITA. PEDIDO DE CONDENAÇÃO À INDENIZAÇÃO POR DANOS MATERIAIS. DECISÃO QUE CONDENOU AS CONSTRUTORAS A PROMOVER OS REPAROS DAS IRREGULARIDADES NOS IMÓVEIS E, NA IMPOSSIBILIDADE, A CONVERSÃO EM PERDAS E DANOS. LIMITES ESTABELECIDOS ULTRAPASSADOS. MANUTENÇÃO DA CONDENAÇÃO AO PAGAMENTO DOS DANOS APURADOS. AJUSTE DA DECISÃO NO PONTO. EMBARGOS DE DECLARAÇÃO REJEITADOS COM APLICAÇÃO DE MULTA. AUSÊNCIA DE INTUITO PROTELATÓRIO. PENALIDADE AFASTADA.
+MÉRITO. MÁ PRESTAÇÃO DO SERVIÇO DE CONSTRUÇÃO DOS IMÓVEIS. COMPROVAÇÃO DEMONSTRADA POR LAUDO PERICIAL. VÍCIOS NA IMPERMEABILIZAÇÃO. DANOS E NEXO CAUSAL DEMONSTRADOS. IMPUGNAÇÃO GENÉRICA AOS DANOS. ÔNUS DAS DEMANDADAS. INTELIGÊNCIA DO ARTIGO 373, INCISO II, DO CÓDIGO DE PROCESSO CIVIL. INSUBSISTÊNCIA. QUANTUM DEVIDAMENTE APURADO NA PERÍCIA TÉCNICA. SENTENÇA MANTIDA NO PONTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO (e-STJ, fl. 745).
+Os embargos de declaração opostos por RNI e TERRA NOVAforam rejeitados (e-STJ, fls. 780/786).
+Irresignados, RNI e TERRA NOVA interpuseram recurso especial, com fulcro no art. 105, III, a, da CF, alegando violação dos arts. 14 e 26 do CDCe206, § 3º, do CC, ao sustentar que (1)os recorridos, em se tratando devícios aparentes em imóvel,não respeitaram o prazo decadencial de 90dias, contados a partir do recebimento das unidades; (2)a pretensão de indenização por dano material,relativamente a VANESSA, encontra-se prescrita; e (3)as unidades residenciais foram construídas conforme o memorial descritivo e entregues em perfeitas condições, tendo havido, em verdade, má conservação dos imóveis.
+Foram apresentadas as contrarrazões.
+O apelo nobre não foi admitido em virtude da incidência dasSúmulas nºs283 e 284, ambas do STF(e-STJ, fls. 554/555).
+Seguiu-se o agravo em recurso especial interposto porRNI e TERRA NOVAquefoi conhecido para conhecer em parte doapelo nobre, e a ele negar provimento, em decisão monocrática de minha lavra, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉDIGE DO NCPC. AÇÃO DE INDENIZAÇÃO. VÍCIOS DE CONSTRUÇÃO. DECADÊNCIA. PRESCRIÇÃO. SÚMULA Nº 83 DO STJ. CULPA EXCLUSIVA DOS PROPRIETÁRIOS. REVISÃO DOS FATOS E PROVAS. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO(e-STJ, fl. 903).
+Nas razões do presente agravo interno, RNI e TERRA NOVA afirmam que não se pode desconsiderar a legislação federal quanto à ocorrência de decadência, não sendo o caso de incidência da Súmula nº 7 do STJ, tampouco de majoração dos honorários sucumbenciais.
+Não foi apresentada impugnação (e-STJ, fls. 925/929).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou ofato dea conclusão do TribunalEstadual estar em consonância com a jurisprudência firmada pelo Superior Tribunal de Justiça, levandoao desprovimento dorecurso especial.Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Incide, ao caso, a Súmula nº 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o fundamentorelativo ao fato de que a conclusão do Tribunal de Justiça do Estado de Santa Catarinaestá em consonância com a jurisprudência firmada pelo Superior Tribunal de Justiça no concernente à incidência de prazo prescricional, e não decadencial, quando a ação visa à indenização por danos materiais decorrentes de vícios de construção.
+RNI e TERRA NOVA limitaram-se a sustentar, unicamente, quenão poderá ser desconsiderada a legislação vigente por conta do entendimento sobre o prazo prescricional (e-STJ, fl. 915).
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008).
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Em igual sentido, vejam-se precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA E DOS ARTIGOS 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO CONHECIDO. APLICAÇÃO DE MULTA. ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+2. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade. Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação dos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015.
+ ..
+4. Agravo interno não conhecido.
+(AgInt no AREsp 1.476.609/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 11/2/2020, DJe 18/2/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, § 1º, DO CPC/2015. SÚMULA Nº 182/STJ. GRATUIDADE DE JUSTIÇA. INDEFERIDA.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+ ..
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1.492.052/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 10/2/2020, DJe 12/2/2020)
+Assim, porque os argumentos que RNI e TERRA NOVA trouxeram não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte.
+Nessas condições, pelo meu voto, NÃO CONHEÇO do agravo interno.
