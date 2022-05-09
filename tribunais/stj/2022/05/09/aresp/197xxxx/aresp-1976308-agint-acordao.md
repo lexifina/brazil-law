@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Artur Baia Ramos contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 353):
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. REINTEGRAÇÃO DE POSSE. DISCUSSÃO SOBRE PROPRIEDADE. DECISÃO SURPRESA. CONTRADITÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO FICTO. NÃO INDICAÇÃO DE AFRONTA AO ART. 1.022 DO CPC/2015. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 359-364), oagravante sustenta que, "com o advento do novo Código de Processo Civil em 2015, adotou-se expressamente o prequestionamento ficto, o que está previsto no artigo 1025. A aplicabilidade das disposições contidas neste dispositivo legal, ocorre independentemente de serem os embargos declaratórios inadmitidos e até mesmo rejeitados". Acrescentaque "o disposto no artigo 1025 do Código de Processo Civil, mesmo que os embargos não sejam admitidos ou se forem rejeitados, estará configurado o prequestionamento no caso de o tribunal superior entender existente a omissão, contradição ou obscuridade".
+Foi apresentada impugnação (e-STJ, fls. 367-373).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. REINTEGRAÇÃO DE POSSE. DISCUSSÃO SOBRE PROPRIEDADE. DECISÃO SURPRESA. CONTRADITÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUSÊNCIA DE PREQUESTIONAMENTO FICTO. NÃO INDICAÇÃO DE AFRONTA AO ART. 1.022 DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1.O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em embargos de declaração, o que não ocorreu no caso em tela (Súmula n. 211/STJ).
+1.1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na presente hipótese.
+1.2. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+2.Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento.
+Conforme consignado na decisão agravada, no que diz respeito à alegada afronta aos arts. 9º, 10, 344, 374, 389 e 926 do Código de Processo Civil de 2015; e 1.228 do Código Civil de 2002, verifica-se não terem sido eles objeto de exame pela instância ordinária, mesmo após a interposição de embargos declaratórios, motivo pelo qual incide na espécie a Súmula n. 211/STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+Cumpre destacar que o colegiado de origem, a despeito dos embargos de declaração suscitados, não se manifestou expressamente sobre a questão.
+Ressalta-se, ainda, que o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial.
+Ademais, sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivosdispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na hipótese em análise.
+Ratifica-se, ainda, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau. Contudo, não houve alegação de violação do art. 1.022 do CPC/2015 no recurso especial apresentado.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. TESTE DE APTIDÃO FÍSICA. INSURGÊNCIA QUANTO À ILEGALIDADE DO TESTE. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 356 DO STF. PREQUESTIONAMENTO FICTO. INAPLICABILIDADE, NO CASO.
+1. A tese levantada pelo agravante acerca da ilegalidade no teste físico aplicado, pois ausente previsão legal de que tal etapa possui caráter eliminatório, não foi analisada pela instância ordinária. Ressalto que não houve indicação de violação do art. 1.022 do CPC, nas razões do recurso especial, para que se pudesse verificar eventual omissão por parte da Corte local.
+2. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, motivo pelo qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Na forma da jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp n. 1.639.314/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+4. Na hipótese, a parte, no recurso especial, não alega violação dos arts. 1.022 e 1.025 do CPC/2015. Desse modo, inaplicável o prequestionamento ficto ao caso.
+5. Agravo interno a que se nega provimento.(AgInt no REsp n. 1.939.896/CE, Relator Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/11/2021, DJe 9/12/2021).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
