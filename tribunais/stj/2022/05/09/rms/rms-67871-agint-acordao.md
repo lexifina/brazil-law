@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto por SILVYA HELENA ALVEScontra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. CONTROLE DA LEGALIDADE DA PENALIDADE ADMINISTRATIVA. NULIDADE NÃO DEMONSTRADA. DEMONSTRAÇÃO DE DIREITO LÍQUIDO E CERTO. NÃO DEMONSTRAÇÃO. RECURSO ORDINÁRIO NÃO PROVIDO.
+No presente recurso, a agravante defende a nulidade do processo administrativo disciplinar a que foi submetida por violação dos princípios do contraditório e da ampla defesa. Suscita, também, que autoridade administrativa não tinha competência para conduzir o PAD. Aduz que o mandado de segurança foi instruído com os documentos necessários para a demonstração da não observação do devido processo legal.
+Impugnação às e-STJ fls. 2.465/2.474.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO ESTADUAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. CONTROLE DA LEGALIDADE DA PENALIDADE ADMINISTRATIVA. NULIDADE NÃO DEMONSTRADA. DEMONSTRAÇÃO DE DIREITO LÍQUIDO E CERTO. NÃO DEMONSTRAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1,Não pode o Poder Judiciário adentrar no mérito administrativo em si considerado. No âmbito do mandado de segurança, o exame jurisdicional deve se ater ao controle de legalidade dos atos administrativos impugnados. Eventual nulidade da demissão da recorrente só pode ser declarada se manifesta ilegalidade ocorrida no tramite do PAD.
+2. Como destacado pelo Ministério Público Federal em parecer, os autos não revelam malversação do devido processo legal, do contraditório e da ampla defesa.
+3. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+Não pode o Poder Judiciário adentrar no mérito administrativo em si considerado. No âmbito do mandado de segurança, o exame jurisdicional deve se ater aocontrole de legalidade dos atos administrativos impugnados. Eventualnulidade da demissão da recorrente só pode ser declarada se manifesta ilegalidade ocorrida no tramite do PAD. Nesse sentido:
+MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO DISCIPLINAR. APLICAÇÃO DE PENA DE SUSPENSÃO. ALEGAÇÃO DE NULIDADE. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. INEXISTÊNCIA DE VÍCIOS FORMAIS. PENALIDADE APLICADA DENTRO DOS PARÂMETROS LEGAIS. IMPOSSIBILIDADE DE CONTROLE DO MÉRITO ADMINISTRATIVO. RECURSO ORDINÁRIO IMPROVIDO. AGRAVO INTERNO. DECISÃO MANTIDA.
+ ..
+VI - O controle de legalidade exercido pelo Poder Judiciário sobre os atos administrativos diz respeito ao seu amplo aspecto de obediência aos postulados formais e materiais presentes na Carta Magna, sem, contudo, adentrar o mérito administrativo. Para tanto, a parte dita prejudicada deve demonstrar, de forma concreta, a mencionada ofensa aos referidos princípios. Nesse sentido: MS 21.985/DF, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 10/5/2017, DJe 19/5/2017, MS 20.922/DF, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe 14/2/2017.
+VII - Desse modo, não sendo possível identificar nenhum vício na tramitação do processo administrativo disciplinar, não há que se falar em direito líquido e certo a ser amparado por esta via mandamental. Ademais, prosseguir na verificação, para além do que já assentado nos autos, demandaria necessária dilação probatória, o que não se admite nesta via mandamental. VIII - Agravo interno improvido.
+(AgInt no RMS 60.274/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 29/11/2021, DJe 01/12/2021)
+ADMINISTRATIVO. PROCESSO ADMINISTRATIVO. POLICIAL CIVIL. ALEGAÇÃO DE PARTICIPAÇÃO DE MEMBRO DO MINISTÉRIO PÚBLICO. INEXISTÊNCIA DE PARTICIPAÇÃO. ALEGAÇÕES DE NULIDADES NO PROCESSO ADMINISTRATIVO. INEXISTENTES. IMPOSSIBILIDADE DE ADENTRAR O MÉRITO DO ATO ADMINISTRATIVO PELO PODER JUDICIÁRIO.
+ ..
+III - O controle de legalidade exercido pelo Poder Judiciário sobre os atos administrativos diz respeito ao seu amplo aspecto de obediência aos postulados formais e materiais presentes na Carta Magna, sem, contudo,adentrar o mérito administrativo. Para tanto, a parte dita prejudicada deve demonstrar, de forma concreta, a mencionada ofensa aos referidos princípios.
+ ..
+XVIII - Agravo interno improvido.
+(AgInt no RMS 62.551/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 30/11/2020, DJe 02/12/2020)
+Apesar das argumentações da recorrente, tem-se que os autos não revelam ocorrência de violação do devido processo legal, do contraditório e da ampla defesa. Nesse mesmo sentido, o parecer do Ministério Público Federal:
+No caso, verifica-se que foram observadas as garantias constitucionais do contraditório e ampla defesa no processo administrativo disciplinar, consoante se extrai da portaria que instaurou o PAD (e-STJ fl. 272); da citação da impetrante para apresentar defesa (e-STJ fls. 275/276); da complementação da manifestação em que requereu várias diligências (e-STJ fls. 563/574); da petição de esclarecimentos em relação ao depoimento de uma das vítimas (e-STJ fls. 817/833); da defesa prévia apresentada às fls. 787 do PAD, em 10/09/2018 (não juntada a estes autos pelo advogado da autora)conforme consta do relatório final (e-STJ fls. 1129), das testemunhas de defesa ouvidas (e-STJ, fl. 999), das razões finais (e-STJ, fls. 1027/1150); assim como do relatório do Conselho de Polícia Civil (e-STJ fls. 2083/2085) e Relatório Final da Procuradoria Administrativa (e-STJ fls. 2093/2107).
+A Presidente Chefe da Procuradoria Administrativa assim expressou-se a respeito da regularidade no processamento do PAD em desfavor da recorrente (e-STJ fl. 2101):
+"(..) Com efeito, durante toda a instrução processual foi oportunizado aos servidores acusados a ciência da instauração deste Processo Administrativo, a apresentação de defesa oral e escrita, a possibilidade de acompanhamento das oitivas das testemunhas e de todos os atos processuais, não lhes sendo tolhido, em razão da extrapolação do prazo de conclusão deste PAD, o exercício do direito à ampla defesa e contraditório."
+Ora, a recorrente teve oportunidade de produzir provas e de participar efetivamente na formação da convicção da autoridade administrativa. Ademais, não é possível ignorar as fundamentações presentes no acórdãoa quoque revelam a competência de quem conduziu o PAD. Com efeito,não só o Secretário de Estado de Segurança Pública detém essa competência por força do art. 72, I, da LE n. 8.508/2006, mas também o Corregedor Geral do Sistema Estadual de Segurança Pública com base no art. 72, III, da LE n. 8.508/2006. Ora, segundo esse dispositivo legal (que está expressamente transcrito no recurso ordinário):
+Art. 72 - A apuração das infrações disciplinares será feita mediante sindicância ou processo administrativo disciplinar, sendo competentes para determinar a sua instauração, as autoridades:
+I - o Secretário de Estado de Segurança Pública;
+II -o Delegado Geral de Polícia Civil;
+III -o Corregedor Geral do Sistema Estadual de Segurança Pública;
+IV -Corregedor Adjunto de Polícia Civil;
+Logo, não havendo a demonstração clara de violação dos princípios constitucionais elencados pela recorrente, observa-se que a constatação de nulidades no PAD depende de atividade instrutória.
+Sabe-se que o procedimento da ação de mandado de segurança caracteriza-se primordialmente pela via angusta decorrente da necessidade de que o feito tramite celeremente, em razão de o bem da vida buscado pela parte impetrante consistir na cessação de lesão ou ameaça de lesão a um direito seu por ilegalidade ou abuso de poder de autoridade pública.
+O Mandado de Segurança detém entre seus requisitos a demonstração inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para dilação probatória na célere via do "mandamus" (RMS 45.989/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 06/04/2015).
+Nesse sentido, destaca-se no mandado de segurança a absoluta falta de fase instrutória, de maneira que ao impetrante cumpre coligir com a sua inicial toda a prova com que pretende evidenciar a pretensão mandamental, à autoridade coatora impondo-se semelhante prerrogativa, embora, para esta, milite em seu favor a presunção de legitimidade e de veracidade dos atos administrativos.
+O mandado de segurança processa-se mediante rito angusto, desprovido de fase instrutória, motivo pelo qual a pretensão mandamental deve ser corroborada de antemão por prova documental coligida juntamente com a petição inicial, pena de denegação da ordem (AgRg no RMS 46.330/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 20/10/2014).
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
