@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por EMBRACON ADMINISTRADORA DE CONSÓRCIO LTDA. (EMBRACON), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Mineiro, assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - DECISÃO QUE NÃO CONHECEU DO RECURSO - AÇÃO DE BUSCA E APREENSÃO - INTIMAÇÃO DESTINADA AO AUTOR - ESCLARECIMENTO DA RELAÇÃO ENTRE O RECEBEDOR DA NOTIFICAÇÃO E O DEVEDOR FIDUCIANTE - PRONUNCIAMENTO SEM CONTEÚDO DECISÓRIO - DESPACHO - INADMISSIBILIDADE DO AGRAVO DE INSTRUMENTO - RECURSO AO QUAL SE NEGA PROVIMENTO.
+- O pronunciamento que determina ao autor o esclarecimento quanto à relação existente entre o recebedor da notificação e o devedor fiduciante, não se reveste de cunho decisório, tratando-se rigorosamente de um despacho, contra o qual não cabe recurso, à luz do disposto no art.1.001 do C PC.
+- Recurso ao qual se nega provimento (e-STJ, fl. 266).
+Os embargos de declaração opostos por EMBRACON foram rejeitados (e-STJ, fls. 285/289).
+Inconformada, EMBRACON interpôs recurso especial com fundamento no art.105, III, a, da CF, alegando violação do art. 1.015, I , do NCPC,admite interpretação extensiva, a possibilitar o conhecimento do agravo de instrumento, pois a decisão que declara que os documentos coligidos com a inicial são inaptos à comprovar a mora do agravado não podem ser considerada como mero despacho, ao ponto de torna-la irrecorrível, estando a mesma a desafiar a interposição de recurso de agravo de instrumento, como é o caso dos autos.
+Em juízo de admissibilidade, a Terceira Vice-Presidência do Tribunal mineiro admitiu o referido apelo nobre (e-STJ, fls. 321/325).
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+EMBRACOM apontou violação do art. 1.015, I, do NCPC, por considerar que o rol previsto no art. 1.015 do NCPC admite interpretação extensiva, a possibilitar o conhecimento do agravo de instrumento,pois a decisão que declara que os documentos coligidos com a inicial são inaptos à comprovar a mora do agravado não podem ser considerada como mero despacho, ao ponto de torna-la irrecorrível, estando a mesma a desafiar a interposição de recurso de agravo de instrumento, como é o caso dos autos.
+O Tribunal mineiro consignou que tal decisão não está acobertada pelas hipóteses previstas no rol taxativo do art. 1.015 do NCPC.
+A Corte Especial do STJ, na sessão realizada aos 5/12/2018, no julgamento dos recursos representativos da controvérsia, REsps nºs 1.696.396/MT e 1.704.520/MT, fixou a tese de que o rol do art. 1.015 do NCPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+No caso em apreço, o TJMGconcluiu pela taxatividade do rol do art. 1.015 do NCPC tendo se manifestado expressamente no sentido de que não estava delineada a urgência acaso a análise da irresignação fosse realizada por ocasião do julgamento da apelação, a teor dos seguintes trechos:
+Ao que se depreende da leitura dos autos, nota-se que o ato jurisdicional impugnado determina a intimação da parte para prestar esclarecimentos sobre a natureza da relação entre o recebedor da notificação e a parte ré.
+Conforme esclarecido na decisão ora hostilizada, o agravante, exercendo um juízo de antecipação quanto ao porvir, projeta uma
+situação futura de prejuízo à sua esfera processual, em caso de não cumprimento à ordem emitida pelo juízo "a quo". E convicto quanto ao teor do vindouro pronunciamento jurisdicional, antecipa-se a ele, impugnando aquilo que ainda não se manifestou no processo.
+Há de se aguardar a manifestação do juiz, pronunciando uma situação que, concretamente, atinja a esfera jurídico-processual da parte (indeferimento da liminar de busca e apreensão). Nesse sentido, o ato jurisdicional com batido não se reveste de conteúdo decisório, revelando-se, portanto, irrecorrível, consoante se verifica do disposto no art. 1.001 do CPC, o qual se transcreve:
+"Art. 1 001 Dos despachos não cabe recurso".
+Registre-se que, em bora tenha sido o agravante advertido das consequências negativas advindes do descumprimento da determinação, qual seja o indeferimento da liminar, esta circunstância ainda não se concretizou.
+Enquanto a situação desvantajosa projetada pelo agravante no presente recurso ainda estiver na dependência do concurso de outro fato, a saber, o descumprimento da diligência contida no despacho, inexiste efetivo prejuízo, e se não há tal gravame, é porque de decisão não se trata, mas sim de mero despacho.
+Deste modo, não se enquadrando o ato jurisdicional impugnado em nenhum a hipótese recursal de cabimento, é de se reconhecer sua inadmissibilidade (e-STJ, fls. 268/269)
+Ressalte-se que referido critério foi estabelecido, como dito anteriormente, pela própria Corte Especial do STJ, no julgamento dos mencionados REsps nºs 1.696.396/MT e 1.704.520/MT.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. INTIMAÇÃO DESTINADA AO AUTOR. ESCLARECIMENTO DA RELAÇÃO ENTRE O RECEBEDOR DA NOTIFICAÇÃO E O DEVEDOR FIDUCIANTE. AGRAVO DE INSTRUMENTO. CONTROVÉRSIA ACERCA DO ROL DO ART. 1.015 DO NCPC.JULGAMENTO EM RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. TAXATIVIDADE MITIGADA PARA OS RECURSOS INTERPOSTOS APÓS A PUBLICAÇÃO DO PRECEDENTE.NECESSIDADE DE DEMONSTRAÇÃO DA URGÊNCIADECORRENTE DA INUTILIDADE DO JULGAMENTO EM SEDE DE RECURSO DE APELAÇÃO. AUSÊNCIA.RECURSO ESPECIAL NÃO PROVIDO.
