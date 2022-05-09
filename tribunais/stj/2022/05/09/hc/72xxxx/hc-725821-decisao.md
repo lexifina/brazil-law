@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de GUILHERME CARVALHO DAVID SILVA, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500802-06.2020.8.26.0621).
+Consta dos autos que o Juízo de primeiro grau condenou o paciente a 5 anos de reclusão, inicialmente no regime fechado, como incurso no art. 33 da Lei n. 11.343/06 (tráfico de drogas).
+Interposta apelação, pela defesa, o Tribunal a quo deu parcial provimento ao recurso, reduzindo a pena-base, mas sem reflexos no quantum da reprimenda. O julgamento ficou assim resumido (fl. 29):
+"TRÁFICO ILÍCITO DE ENTORPECENTES. Recurso defensivo.
+PRELIMINAR. Prova ilícita não caracterizada.
+Prescindibilidade de mandado judicial por se tratar de flagrante em crime permanente. Rejeição.
+MÉRITO. Absolvição. Inviabilidade. Autoria e materialidade bem delineadas, o que arreda a pretendida desclassificação para o crime do art. 28.
+DOSIMETRIA. Afastamento do aumento inicial, cuja justificativa já utilizada na última fase, sem ingerência. Inaplicabilidade da minorante da Lei nº 11.343/06, art. 33, § 4º e das benesses do CP, art. 44. Manutenção do regime gravoso.
+PROVIMENTO PARCIAL."
+Em suas razões, oimpetrante sustenta o preenchimento dos requisitos legais para a incidência do redutor previsto no § 4º do art. 33 da Lei de Drogas, ressaltando que "osimples fato de uma pessoa participar, uma única vez, de um ato que eventualmente envolva organização criminosa não significa que faça parte da mesma" (fl. 8).Aduz, ainda, fundamentação inidônea para a fixação do regime prisional mais gravoso.
+Pugna pela redução da pena imposta e suaconsequente substituição por medidas restritivas de direitos.
+A liminar foi indeferida, por decisão de fls. 46/47.
+O Ministério Público Federal opinou pela concessão da ordem(fls. 52/57).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admitehabeas corpussubstitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção.
+A atenta leitura dos autos revela que o paciente foi preso em flagrante, juntamente com corréu, mantendo em depósito, para fins de comercialização e difusão ilícita a terceiros, 34 porções de cocaína (45,3g).Na oportunidade, também foraapreendidabalança de precisão e os policiais que participaram da diligência ainda visualizaram mensagens relacionadas ao tráfico de drogas entre os aparelhos de ambos os réus.
+Todas essas circunstâncias evidenciam ser incabível a incidência dacausa especial de diminuição dapena prevista no § 4º do art. 33 da Lei n. 11.343/2006, pois, conforme ressaltaram as instâncias ordinárias, "as provas revelam clara dedicação do acusado Guilherme a atividades criminosas, não tendo comprovado qualquer ocupação lícita que justificasse a posse do dinheiro e meios financeiros para arcar com as despesas do imóvel, somando-se às declarações do agente da lei que afirmou conhecê-lo dos meios policiais pelo envolvimento com o tráfico de drogas"(fl 35).
+O acolhimento da tese da defesa, de que o paciente fazjusao redutor,demandaria o revolvimento de matéria fática, o que é vedado em habeas corpus. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS.DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS.CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N.11.343/2006. INAPLICABILIDADE. RÉU QUE SE DEDICA A ATIVIDADES CRIMINOSAS. QUANTIDADE DE DROGA ALIADA A OUTRAS CIRCUNSTÂNCIAS DO DELITO.REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIÁVEL NA ESTREITA VIA DO MANDAMUS. REGIME FECHADO.ADEQUADO. QUANTIDADE DE DROGAS UTILIZADA COMO FUNDAMENTO PARA FIXAÇÃO DO REGIME MAIS GRAVOSO. POSSIBILIDADE. PRECEDENTES.INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - In casu, v. acórdão impugnado fundamentou o afastamento do tráfico privilegiado, consubstanciada na conclusão de que o paciente se dedicava a atividades criminosas (traficância), em razão não somente pela quantidade de droga apreendida (221 porções de cocaína, com peso líquido aproximado de 56g - fl. 38), mas também pelas circunstâncias em que se deu a prisão, bem como constatarem que não se tratava de traficante ocasional.Tudo isso, são elementos aptos a justificar o afastamento da redutora do art. 33, § 4º, da Lei n.11.343/06. Rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição, como reclama a impetrante, demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus.
+III - Quanto ao regime prisional, a quantidade de droga apreendida, foi utilizada como fundamento a ensejar a aplicação do regime mais danoso, o que está em consonância com o entendimento desta Corte, ex vi do art.33, § 2º, b, e § 3º, do Código Penal, e art. 42, da Lei n.11.343/06.
+V - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.Agravo regimental desprovido.
+(AgRg no HC 633.775/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 22/03/2021).
+Noutro enfoque, ainda que a Corte Estadual tivesse detraído a prisão cautelar,a a natureza da droga apreendida na empreitada criminosa, aliadas aos outros elementos probatórios coligidos aos autos, demonstram a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, inclusive o agravamento do aspecto qualitativo (regime) da pena.A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. REGIME INICIAL FECHADO. LEGALIDADE. SUBSTITUIÇÃO DA PENA. LIMITE OBJETIVO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há como aplicar a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 quando verificado que a Corte de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos que evidenciam a dedicação do acusado a atividades criminosas.
+2. As peculiaridades do caso concreto (quantidade e natureza da droga) justificam a imposição de regime prisional mais gravoso do que o cabível em razão da reprimenda aplicada.
+3. Fica mantida a negativa de substituição da pena privativa de liberdade por restritiva de direitos, em razão da ausência de cumprimento do requisito objetivo previsto no art. 44, I, do Código Penal (sanção superior a 4 anos de reclusão).
+4. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+5. Agravo regimental não provido. (AgRg no HC 556.796/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 17/6/2020).
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
