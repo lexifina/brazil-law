@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+1. Cuida-se de agravo interno interposto por PROLAGOS S/A - CONCESSIONARIA DE SERVICOS PÚBLICOS DE AGUA E ESGOTO contra decisão que não admitiu o seu agravo em recurso especial, por inexistência de prestação jurisdicional lacunosa, por incidência das Súmulas 83, 54 e 7, todas do STJ.
+Nas razões do presente agravo interno, a parte recorrente repisa os fundamento da decisão recorrida e alega não ter havido pronunciamento satisfatório a respeito da alegada violação ao art. 1.022 do CPC, bem como não ser o caso de reexame de provas.
+Argumenta que épreciso que o STJconheça do recurso especial para analisar, no caso concreto, a existência ou não de litisconsórcio necessário, conforme vem sustentando a agravante desde que interpôs seu recurso de apelação.
+Ressalta que mesmo a agravante tendo concordado com a utilização da prova emprestada nos autos, não lhe foi oportunizada manifestação quanto às suas conclusões.
+Contraminuta às fls. 1337 - 1346.
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL.DANO AMBIENTAL OCORRIDO NA LAGOA DE SÃO PEDRO DA ALDEIA . PRESTAÇÃO JURISDICIONAL LACUNOSA. INEXISTÊNCIA. PROVA EMPRESTADA CARREADA AOS AUTOS COM ANUÊNCIA DA PARTE RECORRENTE.RESPONSABILIDADE DO POLUIDOR OBJETIVA.LAUDO PERICIAL QUE ATESTA A RESPONSABILIDADE DA RECORRENTE NA OCORRÊNCIA DO EVENTO DANOSO.COMPROVAÇÃO DA ATIVIDADE PESQUEIRA EXERCIDA PELOS AUTORES. DANO MORAL CONFIGURADO. QUANTUM FIXADO DE ACORDO COM OS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. RATIFICAÇÃO DA DECISÃO QUE SE IMPÕE.AGRAVO INTERNO NÃO PROVIDO.
+1.Não se viabiliza o recurso especial pela violação dos art. 1.022 do CPC quando, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2.Não há cerceamento de defesa quando o magistrado decide de forma suficientemente fundamentada sobre a desnecessidade da prova requerida. Compete às instâncias de origem exercer juízo acerca da suficiência das provas produzidas, nos termos do art. 130 do CPC.
+3.O STJ, ao interpretar o art. 130 do CPC, consagrou o entendimento de que "a iniciativa probatória do juiz, em busca da verdade real, com realização de provas de ofício, é amplíssima, porque é feita no interesse público de efetividade da Justiça" (REsp 1.012.306/PR, Rel. Min. NANCY ANDRIGHI, DJe 07.05.2009).
+4.Tendo a Turma julgadora decidido ser o dano ambiental causado apenas pela recorrente, com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+5. Ficou comprovado documentalmente o efetivo exercício da atividade pesqueira à época do acidente ambiental e a ora recorrente não impugnou em momento oportuno a condição dos pescadores profissionais, o que acarretou a preclusão da alegação. Súmula 7/STJ.
+6. Otermo inicial para incidência dos juros, havendo responsabilidade extracontratual, fluem os juros de mora a partir do evento danoso, de acordo com a Súmula n. 54 do STJ.
+7. Aincidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional.
+8. Agravo interno não provido.
+VOTO
+2. A irresignação não prospera.
+Apesar do esforço argumentativo trazido pela parte recorrente, os fundamentos utilizados não são capazes de alterar a decisão proferida no âmbito do
+agravo em recurso especial.
+3. Quantoà prestação jurisdicional lacunosa, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil de 2.015. Isso porque, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+4. A respeito da prova emprestada, houve oportunidade de manifestação da parte, tendo a Turma julgadora esclarecido que o Juízo de origem determinou a manifestação da ré acerca da mesma, e na ocasião esta peticionou não se opondo à sua utilização, logo não há que falar-se em cerceamento de defesa (fls. 794)
+5. Quanto ao indeferimento de provas que a recorrente entendia ser necessárias para o deslinde da lide, destacaram os julgadores que "restou comprovada responsabilidade da ré com o evento danoso, conforme laudo pericial (anexos 1), no qual o expert afirmou que a mortandade dos peixes se deu em razão dos esgotos lançados pela concessionária na lagoa" fl. 795), dispensando a produção de novas provas.
+O STJ, ao interpretar o art. 130 do CPC, consagrou o entendimento de que "ainiciativa probatória do juiz, em busca da verdade real, com realização de provas de ofício, é amplíssima, porque é feita no interesse público de efetividade da Justiça" (REsp 1.012.306/PR, Rel. Min. NANCY ANDRIGHI, DJe 07.05.2009).
+Sendo o juiz o destinatário da prova, cabe a ele, com base em seu livre convencimento, avaliar a necessidade desta e exercer o juízo acerca da suficiência das provas produzidas, podendo determinar sua produção até mesmo de ofício, conforme prevê o art. 130 do Código de Processo Civil.
+Não há cerceamento de defesa quando o magistrado decide de forma suficientemente fundamentada sobre a desnecessidade da prova requerida. Compete às instâncias de origem exercer juízo acerca da suficiência das provas produzidas, nos termos do art. 130 do CPC.
+6. Quanto à necessidade de que a lide fosse composta por àqueles que lhe determinaram a forma de prestar o serviço concedente, conforme definido na origem, é sabido que o litisconsórcio necessário decorre exclusivamente de disposição legal ou pela natureza da relação jurídica.
+Tendo a Turma julgadora decidido ser o dano ambiental causado apenas pela recorrente, com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+7. Em relação ao exercício de atividade pesqueira, destacaram os julgadores que ficou comprovado documentalmente o efetivo exercício da atividade pesqueira à época do acidente ambiental e a ora recorrente não impugnou em momento oportuno a condição dos pescadores profissionais, o que acarretou a preclusão da alegação.
+Concluir diversamente esbarra no óbice da Súmula n. 7 do STJ, pois demandaria o reexame de provas.
+8. No que tange ao termo inicial para incidência dos juros, havendo responsabilidade extracontratual, fluem os juros de mora a partir do evento danoso, de acordo com a Súmula n. 54 do STJ.
+9.Por fim, impõe-se anotar que a incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+10. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
