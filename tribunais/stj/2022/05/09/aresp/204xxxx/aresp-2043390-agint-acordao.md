@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+MARILZA SOL CLEMENTINO (MARILZA) ajuizou ação anulatória de cobrançade seguro de vida cumulada com repetição de indébito e danos morais contra BANCO BRADESCO S.A. (BANCO),aduzindo, em síntese, que após perceber que o saque de seu pagamento estava sendo a menor, emitiu extrato bancário de sua conta corrente para conferência e, para a sua surpresa, percebeu o desconto no valor de R$ 310,87 (trezentos e dez reais e oitenta e sete centavos), referente a cobrança de seguro, denominado "SAÚDE/VIDA", que não contratou.
+Em primeira instância, os pedidos foram julgados parcialmente procedentes paradeclarar indevido os descontos de seguro de vida denominado "SAÚDE/VIDA", e condenar o BANCO a) a restituição, na forma simples, do desconto verificado na conta da autora, fluindo os juros a partir do evento danoso (desconto indevido), nos termos do art.398 do Código Civil e Súmula 54 do STJ, e a correção monetária a partir da data do efetivo prejuízo, conforme Súmula 43 do STJ;b) ao pagamento de indenização por danos morais em R$ 2.000,00 (dois mil reais), incidindo juros moratórios a partir do evento danoso (desconto indevido) e a correção monetária a partir do arbitramento, nos termos do art.398 do Código Civil e súmulas 54 e 362 do STJ (e-STJ, fl. 132).
+A apelação interposta por MARILZA foi parcialmente provida pelo Tribunal de Justiça deMato Grosso do Sulnos termos do acórdão assim ementado:
+EMENTA. APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE COBRANÇA DE SEGURO DE VIDA C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. DESCONTOS EM BENEFÍCIO PREVIDENCIÁRIO DE APOSENTADORIA. REPETIÇÃO EM DOBRO - DEVIDA.QUANTIFICAÇÃO DO DANO MORAL - RAZOABILIDADE E PROPORCIONALIDADE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Não demonstrada a contratação válida, tampouco que o autor desfrutou do valor objeto do empréstimo, cujas parcelas foram descontadas em benefício previdenciário de aposentado, é devida a condenação em dano moral e a repetição do indébito em dobro.
+Analisadas as condições econômicas das partes, o valor arbitrado a título de danos morais deve ser fixado de forma a reparar o sofrimento da vítima e penalizar o causador do dano, respeitando a proporcionalidade e razoabilidade.
+Não obstante a jurisprudência desta Corte no tocante à fixação de danos morais em torno de R$ 10.000,00 (dez mil reais) para demandas deste jaez, constata-se que o requerente ajuizou outras ações nas quais também visa à reparação por danos morais, razão pela qual o quantum indenizatório deve ser razoável e condizente com tais peculiaridades, sob pena de constituir fonte de enriquecimento indevido à vítima (e-STJ, fl. 235).
+Os embargos de declaração opostos por MARIZA foram acolhidos, sem efeitos modificativos (e-STJ, fls. 262/268).
+Irresignada, MARIZA interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de dissídio jurisprudencial, violação dos arts.186, 927 e 944 do CC/02; 6º, VI, do CDC; e 14 do CDC, ao sustentar que o valor da reparação cível - R$ 2.000,00 (dois mil reais) - é ínfimo para questões desse jaez, pretendendo, ao final, sua majoração para R$ 10.000,00 (dez mil reais).
+Foram apresentadas contrarrazões (e-STJ, fls. 363/369).
+O recurso não foi admitido pelo TJMS, ante a incidência das Súmulas nºs 7 e 83 do STJ (e-STJ, fls. 371/373).
+Conhecido agravo em recurso especial interposto por MARILZA para negar provimento ao apelo nobre, nos termos da decisão monocrática da minha relatoria, assim ementada:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL.DANOS MORAIS. MAJORAÇÃO DO QUANTUM INDENIZATÓRIO.VALOR FIXADO QUE NÃO PODE SER CONSIDERADO IRRISÓRIO.AGRAVO CONHECIDO. RECURSO NÃO PROVIDO (e-STJ, fl. 441).
+Nas razões do presente agravo interno, MARILZA insiste em que o quantum indenizatório fixado no valor de R$ 2.000,00 (dois mil reais) é irrisório e deve sermajorado para R$ 10.000,00 (dez mil reais).
+Foi apresentada impugnação (e-STJ, fls. 486/496).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO ANULATÓRIA CUMULADA COM DANOS MORAIS. QUANTUM INDENIZATÓRIO. VALOR IRRISÓRIO. NÃO CARACTERIZAÇÃO. PECULIARIDADE DO CASO CONCRETO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.A jurisprudência desta Corte também é firme no sentido de que a redução ou majoração doquantumindenizatório é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula nº 7 do STJ. Proporcionalidade e razoabilidade observadas na hipótesea justificar a manutenção doquantumindenizatório.
+3.Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido
+nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Nas razões da insurgência,MARIZAsustentou, em síntese, que o valor da reparação cível - R$ 2.000,00 (dois mil reais) - é ínfimo para questões desse jaez, pretendendo, ao final, sua majoração para R$ 10.000,00 (dez mil reais).
+O Tribunal sul-mato-grossense consignou que a indenização deveria ser mantida no montante de R$ 2.000,00 (dois reais), com base nos seguintes fundamentos:
+- Valor da indenização.
+A questão atinente à quantificação do dano moral é tema de diversas discussões em âmbito doutrinário e jurisprudencial, notadamente porque o sistema jurídico não traz parâmetros legais para a determinação do quantum.
+Tem prevalecido o posicionamento de se tratar de questão subjetiva que deve obediência aos princípios da razoabilidade e proporcionalidade.
+Também tem destaque o entendimento no sentido de que o valor do dano deve atender a dupla finalidade: reparar o ofendido e desestimular a conduta do ofensor.
+ ..
+Considerando essa dupla finalidade e também as peculiaridades do caso, desconto no benefício previdenciário de aposentado, a capacidade econômica da instituição financeira e a jurisprudência da Corte no tocante a fixação de danos morais, tenho que o valor arbitrado pelo magistrado de primeiro grau (R$ 2.000,00) é montante suficiente e razoável para reparar o dano sofrido pelo autor.
+Não obstante a jurisprudência desta Corte no tocante à fixação de danos morais em torno de R$ 10.000,00 (dez mil reais) para demandas deste jaez, constata-se que a requerente ajuizou aproximadamente 10 (dez) ações com o mesmo objetivo, nas quais também visa à reparação por danos morais, razão pela qual o quantum indenizatório deve ser razoável e condizentecom tais peculiaridades, sob pena de constituir fonte de enriquecimento indevido à vítima (e-STJ, fls. 242/243, sem destaques no original).
+Consoante ressaltado, nalinha dos precedentes desta Corte, o valor fixado a título de compensação por danos morais somente pode ser majorado quando manifestamente irrisório.
+Nesse sentido, confiram-se os seguintes julgados:
+RECURSO ESPECIAL. DIREITO CIVIL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. MATÉRIA JORNALÍSTICA. PROGRAMAS DE TELEVISÃO. IMAGENS OBTIDALS POR CÂMERA OCULTA. VIDA COTIDIANA. DIREITO À PRIVACIDADE. PRÁTICA DE CRIME. EMISSÃO DE JUÍZO DE VALOR CONDENATÓRIO. ANTECIPAÇÃO INDEVIDA. CONTEÚDO SENSACIONALISTA. DEVER DE INDENIZAR. DANOS MORAIS. VALOR. RAZOABILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a discutir a responsabilidade civil por dano à imagem e à honra do autor em virtude da veiculação de matérias jornalísticas em programas televisivos da emissora ré.
+3. Os direitos à informação e à livre manifestação do pensamento, apesar de merecedores de relevante proteção constitucional, não possuem caráter absoluto, encontrando limites em outros direitos e garantias constitucionais não menos essenciais à concretização da dignidade da pessoa humana, tais como o direito à honra, à intimidade, à privacidade e à imagem.
+4. No desempenho da nobre função jornalística, o veículo de comunicação não pode descuidar de seu compromisso ético com a veracidade dos fatos narrados nem assumir postura injuriosa ou difamatória com o simples propósito de macular a honra de terceiros.
+5. Na hipótese, as matérias jornalísticas imputaram ao autor uma condenação prévia, quando sequer havia sido julgado. Na verdade, referidas matérias continham teor sensacionalista, explorando exclusivamente a vida contemporânea do autor, sem estabelecer relação com os eventos apurados na esfera criminal.
+6. O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias a título de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+7. Recurso especial não provido.
+(REsp 1.550.966/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 2/6/2020, DJe 4/6/2020 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RELAÇÃO DE CONSUMO. DEVER DE TRANSPORTE SEGURO. RESPONSABILIDADE OBJETIVA. DANO COMPROVADO. DANO MORAL CONFIGURADO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As conclusões do acórdão recorrido sobre a inexistência de causas excludentes da ilicitude na hipótese vertente, e existência do ato ilícito apto a gerar o dever de indenizar; não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame de fatos e provas dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+2. A revisão da indenização por danos morais só é possível em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses, incide o óbice da Súmula 7 do STJ, a impedir o conhecimento do recurso.
+3. Majoração de honorários advocatícios nos termos do art. 85, § 11, do CPC de 2015.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.325.664/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 15/6/2020, DJe 18/6/2020 - sem destaque no original)
+No caso dos autos, contudo, o TJMS, amparado em elementos concretos dos autos, esclareceu que o valor da indenização atendia a proporcionalidade entreo dano causado e a reparação devida e, ainda, que MARILZA já havia ajuizado cerca de 10 (dez) ações dessa natureza, de modo que, atento às peculiaridades do caso e de forma a evitar o locupletamento indevido, entendo que o valor arbitrado não foge às raias da razoabilidade, não estando, pois, a merecer reparo.
+Assim, como MARILZA não demonstrouo equívoco nos fundamentos da decisão agravada, deve ser mantido o não provimento do recurso especial.
+Nessas condições, pelo meu voto,NEGO PROVIMENTOao agravo interno.
