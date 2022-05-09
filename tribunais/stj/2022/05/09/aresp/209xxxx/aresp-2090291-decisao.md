@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIO LUCIO CAETANO JUNIOR e LUCIANA BORGES PASSOS CAETANO (MARIO e outra) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdãoassim ementado:
+APELAÇÃO CÍVEL - PRELIMINAR - NULIDADE PARCIAL DA SENTENÇA - AUSÊNCIA DE FUNDAMENTAÇÃO - RECONHECIMENTO - CAUSA MADURA - JULGAMENTO IMEDIATO - AÇÃO POSSESSÓRIA - REINTEGRAÇÃO DE POSSE - PERDA SUPERVENIENTE DO INTERESSE DE AGIR - EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO - POSSE ANTERIOR - ÔNUS DA PROVA - AUSÊNCIA DE COMPROVAÇÃO.
+Deve ser reconhecida a parcial nulidade da decisão recorrida, vez que contém fundamentos genéricos que poderiam embasar qualquer decisão judicial, além de não ter enfrentado todas as teses suscitadas pela parte interessada no provimento jurisdicional, caracterizando violação ao disposto no art. 489, §1º, incisos III e IV do CPC.
+A desocupação do imóvel por parte do réu, obtida por qualquer meio ainda que em outra ação judicial, caracteriza a perda superveniente do interesse de agir quanto ao pedido de reintegração de posse, o que impõe a extinção do processo sem resolução do mérito neste tocante.
+Na ação de reintegração de posse, incumbe à parte autora comprovar que detinha a posse anterior do bem, sua perda e o esbulho praticado pelo réu.
+A ausência de prova quanto à ocorrência do esbulho possessório e dos alegados danos materiais decorrentes de indevida ocupação do imóvel, impõe a improcedência da pretensão indenizatória quanto aos lucros cessantes.
+Recurso ao qual se dá parcial provimento(e-STJ, fls. 320).
+Os embargos de declaração opostos por MÁRIO e outra foram rejeitados(e-STJ, fls. 361/371).
+Irresignados MARIO e outra interpuseram recurso especial com base no art. 105, III, alíneas a, da CF, apontando a violação aos arts. 124, 357, IV, 373, 435 e 1022 do NCPC,ao sustentarem(1)negativa de prestação jurisdicional; (2) violação ao princípio da não-surpresa; (3)o recorrido não fez prova constitutiva de seu direito e nem prova impeditiva do direito autoral; (4) os recorrentes comprovaram o esbulho praticado pelo recorrido.
+O recurso não foi admitido na origem por intempestividade.
+Nas razões do presente agravo, MARIO e outra sustentam que o recurso é tempestivo, pois o dia 07 de setembro é feriado nacional que prescinde de comprovação e que a suspensão do expediente forense no dia 06/09/2021 se deu em consequêncialógica de tal fato.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar por descumprimento ao art. 1003, § 6º, do NCPC.
+(1) Da intempestividade do recurso especial
+O recurso especial encontra-se intempestivo.
+Conforme salientado na decisão agravada os recorrentes não comprovaram mediante a juntada de documento idôneo o feriado local relativo ao dia 06/09/2021, nos termos exigidos pelo art. 1003, § 6º, do NCPC.
+Esta Corte firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO.ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial. 2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso". 3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis. 5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada. 6. Agravo interno desprovido. (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, Corte Especial, j. 20/11/2017, DJe 19/12/2017- sem destaques no original)
+Na hipótese, constata-se que não foi colacionado documento hábil ou certidão do Tribunal recorrido comprovando a suspensão do expediente forense de forma a afastar o reconhecimento da intempestividade do recurso, não sendo possível, na égide do NCPC, sua comprovação posterior:
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA NÃO SURPRESA. INAPLICABILIDADE. FERIADO LOCAL. INTEMPESTIVIDADE. AGRAVO INTERNO IMPROVIDO.
+1. Na decisão agravada ficou consignado: "Mediante análise do recurso de NAIR DO ROCIO GONCALVES TOKAZ, a parte recorrente foi intimada da decisão agravada em 28/05/2020, sendo o agravo somente interposto em 19/06/2020". O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+(..)
+3. Prevalece no STJ o entendimento firmado no AgInt no AREsp 957.821/MS, segundo o qual, nos casos de Recurso Especial interposto na vigência do CPC/2015, o feriado local deve ser comprovado no ato da interposição do recurso, sendo impossível comprovação posterior, nos termos do art. 1.003, § 6º, do CPC/2015.
+4. O fato de o sistema Projudi não ter registrado a informação de intempestividade, na juntada da petição recursal, não altera a extemporaneidade e a inviabilidade do conhecimento do recurso.
+5. Agravo Interno não provido. (AgInt no AREsp 1778081/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/02/2022, DJe 15/03/2022- sem destaques no original.)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor da recorrida, limitados a 20%, nos termos do art. 85, § 11, do NCPC, suspensa a sua exigibilidade em razão de os recorrentes serem beneficiários da gratuidade da justiça, ressalvada a hipótese prevista no art. 98, § 3º, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+POSSE.AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. FERIADO LOCAL. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. INEXISTÊNCIA. RECURSO ESPECIAL INTEMPESTIVO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
