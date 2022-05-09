@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão (fls. 322-324, e-STJ) proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do Agravo em Recurso Especial.
+A parte agravante sustenta, em síntese (fls. 455-461, e-STJ):
+O e. Relator negou monocraticamente seguimento ao Agravo em Recurso Especial.
+Com a devida vênia, o Estado de Alagoas entende que sim a impugnação específica de todos os fundamentos, além de que o que se requer não é a análise das circunstâncias fáticas do caso concreto, mas apenas a correta aplicação dos dispositivos legais - os quais foram malferidos pelo Judiciário local.
+Impugnação não apresentada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão monocrática da Presidência do Superior Tribunal de Justiça assentou: "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento. Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida" (fl. 322,e-STJ).
+2. A petição do recurso de Agravo em Recurso Especial deve, impreterivelmente, refutar todos os argumentos da decisão objetada, ainda que tais questões não tenham sido objeto de discussão anterior ou demonstrem equívoco da autoridade julgadora.
+3. Tendo sido utilizada a Súmula 83/STJ como premissa para inadmissão do Recurso Especial, demanda-se a demonstração, por intermédio de decisões contemporâneas ou posteriores às mencionadas na decisão combatida, da superação do entendimento lançado ou, ainda, análise pormenorizada a fim de comprovar que a situação sob análise difere de forma substancial do retratado na decisão que fundamentou aplicação da súmula, requisito que não se preenche, repise-se, pela mera alegação genérica de desacerto da decisão.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."), que está em consonância com a redação do § 1º do art. 1.021 do atual Código de Processo Civil.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 8.3.2022.
+Não merece prosperar a irresignação ora em exame.
+A decisão monocrática da Presidência assentou (fls. 322-324, e-STJ):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+Com efeito, a parte recorrente, em seu Agravo ao Recurso Especial, não atacou especificamente a incidência da Súmula 83/STJ, a consonância do acórdão recorrido com jurisprudência do STJ, no que tange à legalidade do exame psicológico e a ausência de afronta ao artigo 1.022 do CPC. Por tal razão, teve seu recurso não admitido nesta Corte Superior.
+A petição do recurso de Agravo em Recurso Especial deve, impreterivelmente, refutar todos os argumentos da decisão objetada, ainda que tais questões não tenham sido objeto de discussão anterior ou demonstrem equívoco da autoridade julgadora.
+O Superior Tribunal de Justiça possui entendimento consolidado de que "por força do princípio da dialeticidade, há um ônus a ser observado pelo recorrente: o combate aos fundamentos do ato judicial de forma dialética e específica." (RMS 60.604/SP, Relator Min. Og Fernandes, Segunda Turma, DJe 8.8.2019). A jurisprudência reiterada do STJ pode ser exemplificada com os precedentes abaixo:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem. Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. No caso, o recurso especial foi inadmitido pelo óbice da Súmula 83/STJ. No entanto, em seu agravo em recurso especial, a parte agravante limitou-se a reiterar as teses ventiladas no especial, sustentando a ocorrência de dissídio jurisprudencial quanto ao Tema 810/STF; violação do art. 1º-F da Lei 9.494/1997, com a redação conferida pela Lei 11.960/2009; e não incidência do óbice da Súmula 7/STJ.
+4. Os julgados apontados pela parte agravante não refutam o fundamento declinado pela Corte de origem para inadmitir o recurso especial, qual seja, o de que a alteração dos consectários legais da condenação após o trânsito em julgado configura ofensa à coisa julgada. Assim, não há como afastar a inobservância da regra da dialeticidade.
+5. Agravo interno do particular a que se nega provimento. (AgInt no AREsp 1.793.249/SP, Rel. Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, DJe 27/8/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RAZÕES QUE NÃO IMPUGNAM, ESPECIFICAMENTE, O FUNDAMENTO DA DECISÃO RECORRIDA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. A decisão ora agravada não conheceu do recurso, pela incidência da Súmula 284 do STF.
+III. O Agravo interno, porém, não impugna, especificamente, o fundamento da decisão agravada, pelo que constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015. Nesse sentido: STJ, AgInt nos EAREsp 608.466/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 30/04/2018; AgInt no AREsp 872.839/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 29/05/2018; AgInt no REsp 1.661.733/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 26/09/2017; AgInt no AREsp 860.148/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 03/05/2016; AgRg no AgRg no AREsp 731.339/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 06/05/2016; AgRg no AREsp 575.696/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe de 13/05/2016.
+IV. Diante da impossibilidade de conhecimento do Recurso Especial, mostra-se irrelevante aguardar o julgamento de Recursos Especiais afetados ao rito dos recursos repetitivos, haja vista que as questões ali discutidas são de mérito, não havendo falar em sobrestamento de recurso que não ultrapassara o juízo de admissibilidade. Nesse sentido: STJ, AgRg no AREsp 614.948/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 11/12/2014; AgRg nos EAREsp 84.719/PR, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe de 18/06/2014.
+V. Agravo interno não conhecido. (AgInt no AREsp 1.455.137/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 22/8/2019)
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna inalterado o entendimento nela firmado. Portanto não há falar em reparo na decisão, pelo que reitero o seu teor.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
