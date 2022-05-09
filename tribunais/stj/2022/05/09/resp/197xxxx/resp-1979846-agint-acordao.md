@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por AGROPECUÁRIA PORTO ALEGRE LTDA.contra decisão proferida por este signatárioassim ementada(e-STJ, fls. 356-361):
+RECURSO ESPECIAL. IRREGULARIDADE NA REPRESENTAÇÃO DA RECORRIDA. HOMOLOGAÇÃO DE CÁLCULOS JUDICIAIS. PENHORA INDEVIDA DE 80% (OITENTA POR CENTO) DOS RENDIMENTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+Irresignada, a agravante requero provimento da presente insurgência e oconsequente provimento do recurso especial.
+Foi apresentada impugnação (e-STJ, fls. 377-381).
+É o relatório.
+EMENTA
+AGRAVO INTERNONORECURSO ESPECIAL. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. IRREGULARIDADE NA REPRESENTAÇÃO DA RECORRIDA. HOMOLOGAÇÃO DE CÁLCULOS JUDICIAIS. PENHORA INDEVIDA DE 80%DOS RENDIMENTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1.Tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito da ora recorrente, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+2.Rever a conclusão alcançada pelo Tribunal de Justiça (acerca da regularidade na representação da recorrida, da correta homologação dos cálculos judiciais e da suposta penhora de 80%dos rendimentos da recorrente) esbarra no óbice constante na Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+O recurso especial foi interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins, assim ementado (e-STJ, fls. 129-130):
+EMBARGOS À PENHORA. ALEGAÇÃO DE PENHORA SUPERIOR AO LEGALMENTE PERMITIDO. AUSÊNCIA DE COMPROVAÇÃO. IRREGULARIDADE DE REPRESENTAÇÃO PROCESSUAL. AFASTADA. HOMOLOGAÇÃO DOS CÁLCULOS. EXECUÇÃO DE HONORÁRIOSADVOCATÍCIOS. VALOR CORRETO. LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO. RECURSO CONHECIDO E IMPROVIDO.
+1. Não deve prosperar a alegação da agravante de que a penhora realizada nos autos superam 80% dos seus rendimentos, uma vez que em nenhum momento apresenta nos autos comprovação dos seus verdadeiros rendimentos, de modo que é impossível auferir a alegada ilegalidade no quantum da penhora.
+2. A empresa agravada está devidamente representada processual, por meio dos documentos em anexo nos autos.
+3. Caberia à agravante, no momento em que apresentou embargos à penhora, apresentar planilha de cálculos que retratasse a realidade dos valores devidos.
+4. A planilha apresentada pela agravante reflete apenas os honorários advocatícios referentes aos embargos à execução de nº 5000077-89.1994.827.2722, que já foram parcialmente quitados, e o que se discute nos autos de origem são os honorários advocatícios da ação de execução.
+5. As hipóteses de litigância de má-fé estão previstas de forma taxativa no art. 80 do CPC/2015, não tendo incidido em qualquer delas a agravada, porquanto sua conduta não se revelou desonesta.
+6. Agravo de instrumento conhecido e improvido.
+Nas razões de recurso especial (e-STJ, fls. 224-238), interposto com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, a recorrente alegou violação aos arts. 7º, 8º, 9º, 10, 37, 485, inciso IV, 534, 805 e 1.022, incisos I e II, todos do CPC/2015; e aos arts. 167 e 169, ambos do CC/2002.
+Sustentou a negativa de prestação jurisdicional, uma vez que, mesmo diante da oposição de embargos de declaração, o acórdão recorrido teria deixado de se manifestar sobre a irregularidade da representação processual da recorrida.
+Aduziu que o instrumento de mandato é nulo, porquanto assinado por quem ficou comprovado não apresentar poderes para assinar procurações judiciais.
+Asseverou que os autos deveriam ser remetidos ao contador judicial para realização dos cálculos corretos, e não poderiam ter sido homologados os cálculos apresentados pela recorrida, muito menos ter sido liberado o alvará para levantamento de tais importâncias.
+Apontou que o Superior Tribunal de Justiça entende pelo percentual máximo de penhora em 5% (cinco por cento), sendo que, no caso em tela, foi estabelecido excessivamente em 80% (oitenta por cento).
+No que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Por conseguinte, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito da ora recorrente, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. LEGITIMIDADE PASSIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. TÍTULO DE CRÉDITO. PROTESTO INDEVIDO. DANO MORAL IN RE IPSA. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. A Corte "a quo" pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em princípio, poderiam infirmar a conclusão adotada pelo Juízo, não havendo falar em ausência de prestação jurisdicional. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza negativa de prestação jurisdicional, tampouco viola os arts. 1.022 e 489 do CPC/2015.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). O Tribunal de origem asseverou que: (i) o título levado a apontamento estava quitado, (ii) a nota fiscal estava em nome da recorrente, (iii) apesar da cessão do crédito a terceiros, a duplicata foi emitida após tal contratação, e (iv) a certidão de protesto comprova que a recorrente não é parte estranha à lide. Desse modo, concluiu a Corte local que a "inserção, de forma indevida, gera automaticamente o constrangimento ao consumidor, pois atribui a pecha de mau pagador àquele que, até prova em contrário, honra seus compromissos financeiros e negociais pontualmente". Alterar esse entendimento demandaria o reexame das provas, o que é vedado em recurso especial.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, na hipótese de protesto indevido de título ou de inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa - independentemente de prova. Aplicação da Súmula n. 83 do STJ.
+4. Agravo interno a que se nega provimento.(AgInt no AREsp 1679481/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020)
+Sobre eventual nulidade do instrumento de mandato apresentado pela parte contrária, visto que supostamente assinado por quem não detinha poderes para assinar procurações judiciais, o acórdão recorrido se manifestou nos seguintes termos (e-STJ, fl. 120):
+Da mesma forma, não deve prevalecer o pedido de extinção dos autos por irregularidade de representação processual da agravada, na medida em que, nos documentos constante nos eventos 49 e 75 dos autos de origem, constam os documentos constitutivos da empresa, procuração e substabelecimento para os advogados João Gaspar Pinheiro de Sousa, Havane Maia Pinheiro e Hainer Maia Pinheiro.
+Percebe-se, portanto, que o Tribunal estadual, com base no acervo probatório constante dos autos, concluiu pela comprovação da regularidade da representação processual da recorrida, sendo que alterar tal conclusão demandaria revisão fático-probatória, vedada no âmbito do recurso especial por força da Súmula 7/STJ.
+Acerca da homologação dos cálculos apresentados pela recorrida, o Tribunal de origem assim consignou(e-STJ, fls. 120-122):
+Também não deve prosperar a insurgência da agravante em relação à homologação dos cálculos referente aos honorários advocatícios.
+Isso porque, quando a parte agravante teve a oportunidade de se insurgir contra os honorários advocatícios pleiteados na ação de execução, esta apresentou planilha de cálculo com valores que não condizem com a realidade dos autos.
+Ora, os cálculos apresentados (evento 73, autos de origem) pela agravada dizem respeito, tão somente a verba honorária devida nos embargos à execução de nº 5000077-89.1994.827.2722, e em nenhum momento apresenta planilha de cálculo dos honorários cobrados na ação de execução principal.
+Frise-se os honorários advocatícios referente aos embargos à execução nº 5000077-89.1994.827.2722, já foram quitados quase em sua totalidade, restando apenas o valor remanescente de R$ 31.050,50 (trinta e um mil e cinquenta reais e cinquenta centavos), que, por sua vez também está sendo cobrado na ação de execução, juntamente com os honorários da execução principal.
+Pertinente faz-se transcrição de trecho da decisão agravada:
+No tocante à impugnação dos cálculos apresentados pela embargada, registro que a embargante não logrou demonstrar onde residiria o erro que teria levado ao alegado excesso. E da singela análise dos cálculos apresentados pela embargante, verifico que os mesmos não se encontram em consonância com os títulos que sustentam a execução, vez que esta se funda em seis títulos judiciais que foram devidamente acostados à inicial e cujo valor original totalizava Cr$ 7.320.440,00; e os cálculos apresentados pela embargante partem do valor original de R$ 6.045.840,00.
+Desta forma, não deve prosperar a insurgência da agravante quanto ao valor devido dos honorários, sem ao menos ter apresentado planilha de cálculo que retrate a realidade dos autos.
+Dessa forma, não havendo dúvida pelas instâncias originárias acerca dos cálculos apresentados, não háfalar em eventual remessa ao contador judicial, massimna sua homologação e posterior liberação do alvará para levantamento.
+Acrescente-se que a análise da correção dos cálculos homologados demandaria revisão fático-probatória, medida defesa no âmbito do recurso especial, em face do óbice da Súmula 7/STJ.
+Por fim, referente à penhora do rendimento da recorrente, o colegiado estadual fez as seguintes ponderações (e-STJ, fl. 120):
+Inicialmente, não deve prosperar a alegação da agravante de que os valores penhorados superam 80% (oitenta por cento) dos seus rendimentos, uma vez que a agravada apenas faz meras alegações, sem, contundo juntar provas dos seus verdadeiros rendimentos, bem como da indevida penhora.
+Observa-se que a Corte de Justiça estadual concluiu pela não comprovação dos rendimentos da recorrente, o que impediu a análise sobre a legalidade da penhora imposta.
+Novamente, a alteração da conclusão alcançada exigiria revisão de fatos e provas, o que é vedado no recurso especial, considerando o teor da Súmula 7/STJ.
+Desse modo, como as alegações feitas no agravo interno não são capazes de modificar o convencimento do julgado impugnado, permanece inalterada a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
