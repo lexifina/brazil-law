@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que BANCO BAMERINDUS DO BRASIL (BAMERINDUS) propôs ação de execução contra NELSON MAYRINCK CABRAL DA COSTA e outro (NELSON e outro) pretendendo o recebimento de quantia representada por instrumento particular de confissão, composição de dívida, forma de pagamento e outras avenças, garantido por nota promissória.
+NELSON e outro apresentaram embargos à execução alegando a prescrição do crédito pretendido.
+Os embargos à execução foram julgados procedentes para reconhecer a prescrição e condenar BAMERINDUS ao pagamento das custas processuais e honorários advocatícios de 10% sobre o valor da causa.
+Iniciado o cumprimento de sentença por MARIA ELIZABETE DE QUEIROZ SILVA (MARIA ELIZABETE), o d. Juízo de primeira instância determinou a realização de penhora online via BACENJUD nas contas de HSBC BANK BRASIL S.A. - MULTIPLO BANCO (HSBC), incluído no polo passivo do cumprimento de sentença a requerimento de BAMERINDUS.
+HSBC apresentou exceção de pré-executividade alegando, em síntese, a impossibilidade de inclusão no polo passivo da execução e de imputação da responsabilidade pelo pagamento de honorários, tendo em vista que não figurou como parte nos embargos à execução e não ocorreu a sucessão universal entre HSBC e BAMERINDUS.
+No curso da ação, o d. Juízo de primeira instância rejeitou a exceção de pré-executividade, decisão contra a qual HSBC interpôs agravo de instrumento sustentando (1) ilegitimidade passiva, uma vez que não houve a sucessão entre HSBC e BAMERINDUS; (2) a impossibilidade de efetivação de penhora online nas suas contas; (3) a ausência de responsabilidade pelo pagamento de honorários; e (4) a inocorrência de sucessão universal entre HSBC e BAMERINDUS.
+Foi negado provimento ao recurso de agravo de instrumento em decisão monocrática proferida pelo Desembargador relator (e-STJ, fls. 1.216/1.231).
+O agravo regimental posteriormente interposto por HSBC foi desprovido pelo Tribunal de Justiça de Pernambuco nos termos do acórdão assim ementado:
+PROCESSUAL CIVIL - RECURSO DE AGRAVO CONTRA DECISÃO TERMINATIVA QUE NEGOU SEGUIMENTO A AGRAVO DE INSTRUMENTO, NOS TERMOS DO ART. 557 DO CPC - SUCESSÃO DO BANCO HSBC EM RELAÇÃO AO ANTIGO BANCO BAMERINDUS CONFIGURADA - LEGITIMIDADE DO PRIMEIRO PARA FIGURAR NO POLO PASSIVO DA EXECUÇÃO - PRECEDENTES DO TJPE - REITERAÇÃO DOS ARGUMENTOS TECIDOS E ENFRENTADOS NO AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AO ART. 557 DO CPC - INEXISTÊNCIA DE ÓBICE AO JULGAMENTO MONOCRÁTICO - MATÉRIA OBJETO DE JURISPRUDÊNCIA DOMINANTE NESTA CORTE - SUPERAÇÃO DE EVENTUAIS NULIDADES COM A REAPRECIAÇÃO PELO COLEGIADO - PRECEDENTES - AGRAVO NÃO PROVIDO - REVOGAÇÃO DA ATRIBUIÇÃO DE EFEITO SUSPENSIVO EXCEPCIONAL AO RECURSO (e-STJ, fl. 1.472).
+Os embargos de declaração opostos por HSBC foram rejeitados (e-STJ, fls. 1.602/1.613).
+Irresignado, HSBC interpôs recurso especial com fundamento no art. 105, III,a e c, da CF, alegando, além de dissídio jurisprudencial, a violação dos arts. 278, 280, 282, 341, 374, 489, 523 e 1.022 do NCPC; 16, 50, 223, 224, 225, 227, 228 e 229, § 1º, da Lei nº 6.024/74; 265 do CC/02 e 6º da Lei nº 9.447/97, ao sustentar (1) a ocorrência de omissão, obscuridade e contradição quanto às alegações de (i) ausência de substituição processual nos autos da ação de execução, (ii) ilegitimidade passiva, tendo em vista que houve a compra de BAMERINDUS pelo Banco BTG Pactual e o encerramento da sua liquidação extrajudicial; (iii) inaplicabilidade do princípio venire contra factum proprium; (2) a ausência de intimação de HSBC para pagamento, tendo sido surpreendido com o bloqueio das contas; e (3) que não houve sucessão a título universal entre BAMERINDUS e HSBC (e-STJ, fls. 1.618/1.698).
+Não foram apresentadas contrarrazões (e-STJ, fl. 1.944).
+O apelo nobre não foi admitido em virtude da (1) ausência de omissão; e (2) incidência das Súmulas nºs 284 do STF e 5, 7 e 83 do STJ (e-STJ, fls. 1.955/1.956).
+As contrarrazões foram apresentadas (e-STJ, fls. 1.321/1.337).
+O Ministério Público Federal opinou pelo provimento do recurso especial (e-STJ, fls. 1.448/1.463).
+Em decisãode minha relatoria, dei provimento aorecurso especial de HSBC para determinaro retorno dos autos ao TJPE para que analisasse as questões trazidas nos embargos de declaração(e-STJ, fls. 2.120/2.123).
+Por decisão monocrática, rejeitei os embargos de declaração opostos por MARIA ELIZABETE por ausência de vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão foiclara e suficiente para respaldar a conclusão alcançada(e-STJ, fls. 2.148/2.152).
+Nas razões do presente agravo interno, MARIA ELIZABETE alegouque todas as questõespostas em discussão foramdevidamente enfrentadas e que não houve afronta ao art. 1.022 do NCPC, concluindo queo HSBC apontou como violados dispositivos de legislação que nem ao menos estavam em vigor, incidindoa Súmula nº 284 do STF (e-STJ, fls. 2.156/2.167).
+A impugnação foi apresentada (e-STJ, fls. 2.171/2.178).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃONO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE EXECUÇÃO. VÍCIOS NÃO CORRIGIDOS NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÕES RELATIVAS AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DO ART.1.022 DO NCPCCONFIGURADA. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Se o Tribunal estadual não se manifestou sobre os pontos que podem influir no resultado da demanda, e o recurso especial foi interposto com fundamento na violação do art. 1.022 do NCPC, devem os autos retornar para que os temas sejam analisados e solvidos.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Por meio de decisão monocrática, concedi provimento ao recurso especial interposto pelo HSBC, determinando o retorno dos autos ao TJPEpara que analisasse as questões trazidas nos embargos de declaração.
+Irresignada, MARIA ELIZABETE alegou, nas razões do presente agravo interno, em síntese, que todas as questões postas em discussão foram devidamente enfrentadas e que não houve afronta ao art. 1.022 do NCPC, concluindo que o HSBC apontou como violados dispositivos de legislação que nem ao menos estavam em vigor, incidindo a Súmula nº 284 do STF.
+(1)Da negativa de prestação jurisdicional
+Conforme ressaltado no julgado agravado, o HSBCquestionou, em seus embargos de declaração opostos, a existência deomissão, obscuridade e contradição quanto às alegações de (i) ausência de substituição processual nos autos da ação de execução, (ii) ilegitimidade passiva, tendo em vista que houve a compra de BAMERINDUS pelo Banco BTG Pactual e o encerramento da sua liquidação extrajudicial; e (iii) inaplicabilidade do princípio venire contra factum proprium(e-STJ, fls. 1.484/1.565).
+Assim, de uma leitura atenta dos acórdãos proferidos (e-STJ, fls. 1.459/1.472 e 1.602/1.613), verifica-se que, deveras, o TJPEse manteve silente acerca das questões ali trazidas, que se confundem com o próprio mérito das razões do recurso especial.
+E, embora manejados embargos de declaração para suprir as omissões alegadascom o devido tratamento das questõesventiladas, foram eles rejeitados, sob o fundamento de não se vislumbrar a existência de omissão ou contradição e que a interpretação desfavorável às expectativas dasembargantes não daria ensejo à oposição dos declaratórios.
+Dessa forma, verificada a ofensa ao art. 1.022 do NCPC, e em virtude da relevância das questõessuscitadas, tenho como necessário o debate acerca de tais pontos.
+Nesse sentido, são os seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO INCIDENTAL DE ASTREINTES. VIOLAÇÃO AO ART. 535, I e II, DO CPC. OCORRÊNCIA. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL DA LIDE.
+ ..
+6. Caracterização da ofensa ao disposto no art. 535, incisos I e II, do Código de Processo Civil, pois o Tribunal de origem não se manifestou, nem mesmo após a oposição de embargos de declaração, acerca de questão fundamental ao deslinde da controvérsia, que fora objeto de irresignação expressa por parte da empresa recorrente.
+7. Omissão que enseja o retorno dos autos à origem para que seja devidamente sanada. 8. RECURSO ESPECIAL PROVIDO.
+(REsp 1.278.892/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 11/4/2016)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DUPLICATA. ACEITE. FRAUDE. EMBARGOS DO DEVEDOR PROCEDENTES. OMISSÃO. OCORRÊNCIA. ART. 535 DO CPC. VIOLAÇÃO. CONCLUSÃO. FATOS. INDICAÇÃO. AUSÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO. ACÓRDÃO DE EMBARGOS DE DECLARAÇÃO CASSADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. É omisso o acórdão que deixa de examinar questão de fato relevante para o julgamento da causa, violando o art 535 do Código de Processo Civil.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1.387.684/AM, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 19/2/2016).
+Dessarte, no meu entendimento, é mesmo o caso de provimento do recurso especial a fim de que os autos retornem ao TJPE para o julgamento completo dos embargos de declaração opostos, de modo a haver efetivo pronunciamento acerca das questões ali trazidas, nos termos da fundamentação.
+Por consequência, ao se anular o acórdão proferido pelo TJPE quando do julgamento dos embargos de declaração, as questões de mérito ficam prejudicadas, pois, na oportunidade da prolação de novo acórdão, nova análise será feita ao se sanarem as omissões existentes.
+Por isso, o mérito recursal não pode ser analisado ao se dar provimento ao recurso especial por ofensa ao art. 1.022 do NCPC.
+Anote-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. FGTS. NOTIFICAÇÃO PARA DEPÓSITO DO FUNDO DE GARANTIA (NDFG). REQUISITOS. OMISSÃO CONSTATADA. VIOLAÇÃO AO ART. 535 DO CPC RECONHECIDA. NULIDADE DO ARESTO RECORRIDO.
+ ..
+2. In casu, verifica-se que, de fato, o Tribunal a quo deixou de apreciar questão fundamental para o deslinde da controvérsia, qual seja, o tema relativo à adequação e obediência do instrumento de cobrança (NDFG) aos requisitos impostos pela lei vigente à época de sua constituição. Por ser tema capaz de, individualmente, influenciar no provimento jurisdicional, deve ser objeto de manifestação pelo Colegiado, desde que existentes nos autos os documentos necessários à sua apreciação. Violação ao art. 535, II, do CPC reconhecida.
+3. Demais aspectos do recurso prejudicados em face do provimento do recurso pela omissão do acórdão recorrido.
+4. Recurso especial provido para se determinar o retorno dos autos ao Tribunal a quo para que o mesmo se pronuncie sobre a omissão apontada.
+(REsp 670.689/RJ, Rel. Ministro JOSÉ DELGADO, Primeira Turma, j. 16/12/2004, DJ 21/3/2005).
+Assim, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
