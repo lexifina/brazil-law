@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interpostocontra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado:
+DIREITO PROCESSUAL CIVIL, ADMINISTRATIVO E CONSTITUCIONAL. APELAÇÃO CÍVEL. MILITAR. ILEGITIMIDADE AD CAUSAM DO ESTADO DE ALAGOAS. MATÉRIA DE ORDEM PÚBLICA. MILITAR INATIVO. LEGITIMIDADE PASSIVA EXCLUSIVA DA AL PREVIDÊNCIA. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO APENAS QUANTO AO ENTE PÚBLICO. ART. 485, VI, DO CPC. TESE DE IMPOSSIBILIDADE DE CONCESSÃO DOS BENEFÍCIOS DA JUSTIÇA GRATUITA. AFASTADA. MÉRITO. PROMOÇÃO À GRADUAÇÃO DE SUBTENENTE DA PM/AL POR RESSARCIMENTO DE PRETERIÇÃO. APELANTE QUE LOGROU DEMONSTRAR O REQUISITO TEMPORAL APENAS PARA A PROMOÇÃO AO POSTO DE 1º SARGENTO. OCORRÊNCIA DE OMISSÃO ADMINISTRATIVA EM PROMOVER A HABILITAÇÃO NECESSÁRIA À ASCENSÃO FUNCIONAL. PRETERIÇÃO CONFIGURADA. DESNECESSIDADE DE EXISTÊNCIA DE VAGAS. PROMOÇÃO EM CONDIÇÃO ESPECIAL. EXEGESE DA LEI ESTADUAL N.º 6.514/2004. PROCEDÊNCIA PARCIAL DO PLEITO DE PROMOÇÃO. ACÓRDÃO COMO MARCO DA RETROATIVIDADE DO DIREITO. SENTENÇA REFORMADA, PARA DETERMINAR A PROMOÇÃO DO RECORRENTE À PATENTE DE 1º SARGENTO PM. SUCUMBÊNCIA RECÍPROCA. HONORÁRIOS ADVOCATÍCIOS E DESPESAS PROCESSUAIS PROPORCIONALMENTE DISTRIBUÍDOS. ART. 86, CAPUT, DO CPC. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. UNANIMIDADE.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Com a devida vênia, o Estado de Alagoas entende que sim a impugnação específica de todos os fundamentos, além de que o que se requer não é a análise das circunstâncias fáticas do caso concreto, mas apenas a correta aplicação dos dispositivos legais -os quais foram malferidos pelo Judiciário local.
+Por isso, está mais do que evidente que o Estado de Alagoas não pretende revolvimento fático-probatório, mas simplesmente a revaloração jurídica dos equívocos cometidos em sede de TJAL.
+ ..
+Ademais, tanto o Recurso Especial, quanto o Agravo aforado nos autos, impugnaram especificamente todos os fundamentos utilizados pelo TJAL, de modo que se entende que não é o caso de aplicação da Súmula 284 do STF; assim como também não deve incidir a Súmula 283do STF, nem a Súmula 182 do STJ.
+Quanto ao prequestionamento, importante considerar que o TJAL se debruçou explicitamente (ou, ao menos, implicitamente) sobre a questão ora colocada em debate perante esta egrégia Corte. Assim, também inaplicável a Súmula 282 e 356 do STF e a Súmula 211 do STJ, por estar devidamente analisada a matéria no âmbito local, muito embora de forma contrária ao pretendido pelo ente público.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO.APELAÇÃO CÍVEL. MILITAR. ILEGITIMIDADE AD CAUSAM DO ESTADO DE ALAGOAS. MATÉRIA DE ORDEM PÚBLICA. MILITAR INATIVO. LEGITIMIDADE PASSIVA EXCLUSIVA DA ALAGOAS PREVIDÊNCIA. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação ordinária contrao Estado de Alagoas, a qual o autor objetiva promoção a 2º sargento definitivo com retroatividade a 2005 da polícia militar do Estado de Alagoas, bem como suas promoções subsequentes com retroatividades por ressarcimento de preterição. Na sentença, o pedido foi julgado improcedente. No Tribunala quo, a sentença foi parcialmente modificada.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Para desconstituir o entendimento contido no aresto recorrido, concluindo pela incidência de Prescrição/Decadência Administrativa, conforme alega a agravante, seria indispensável a incursão na seara fático-probatória dos autos, procedimento que se encontra obstado pelo Verbete Sumular n. 7 desta Corte.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Verifica-se que a Corte de origem analisou a controvérsia dosautos levando em consideração os fatos e provas relacionados à matéria.Assim, para se chegar à conclusão diversa, seria necessário o reexamefático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ,segundo o qual "A pretensão de simples reexame de provas não ensejarecurso especial".
+Para desconstituir o entendimento contido no arestorecorrido, concluindo pela incidência dePrescrição/Decadência Administrativa, conforme alega a agravante, seria indispensável a incursão na seara fático-probatória dosautos, procedimento que se encontra obstado pelo Verbete Sumular n. 7desta Corte.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
