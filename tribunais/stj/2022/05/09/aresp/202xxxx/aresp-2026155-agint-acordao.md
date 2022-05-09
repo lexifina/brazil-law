@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão proferida pela Presidência desta Corte, que não conheceu do agravo em recurso especial (fls. 305-307).
+A parte agravante sustenta que "ressaltou em Agravo em Recurso Especial constam todas as fundamentações jurídicas e legais aptas para o conhecimento, processamento do recurso enfrentando expressamente as violações legais assim como o óbice da Súmula 7/STJ" (fl. 315).
+Aduz ainda que "valorar as circunstâncias fixadas nas instâncias ordinárias não encontra óbice no enunciado n. 07 da súmula do E. STJ, por não se tratar, definitivamente, de reexame de provas ou fatos"(fl. 318).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnados, especificamente, osfundamentosda decisão que inadmitiu o recurso na Corte de origem.
+Neste agravo interno, o recorrente não demonstrou ter se insurgido, na minuta do agravo, contra a decisão que obstou o recurso especial e que está respaldada nosseguintesfundamentos: (a) ausência de afronta a dispositivo legal; (b) Súmula 7/STJ.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Para que se considere infirmado oóbice contido na Súmula 7/STJ,necessário que a parte desenvolva uma argumentação que demonstre adesnecessidade de revolvimento do conjunto fático-probatório, seja porquea questão é meramente de interpretação jurídica - e aí deve comprovar talcircunstância, não apenas alegá-la -, seja porque os fatos e provasnecessários à adequada solução da controvérsia já estejam delineados no julgado recorrido - e aí deve transcrever os trechos dojulgado em que constem tais fatos e provas e conectá-los à violação legalapontada, comprovando, assim, a desnecessidade de revisão, por estaCorte Superior, daquele conjunto, o que não se verifica.
+Neste sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL. ITCMD. ART. 1.022 DO CPC. VIOLAÇÃO NÃO CONFIGURADA. SÚMULA7/STJ. INCIDÊNCIA. FALTA DE IMPUGNAÇÃO. SÚMULA 182/STJ. APLICAÇÃO.
+1. O Superior Tribunal de Justiça tem entendimento de que o órgãojudicial, para expressar a sua convicção, não precisa aduzir comentáriossobre todos os argumentos levantados pelas partes. Sua fundamentação podeser sucinta, pronunciando-se acerca do motivo, que por si só, achousuficiente para a composição do litígio (AgRg no Ag 169.073/SP - Rel. Min.José Delgado, Primeira Turma - Unânime - DJ de 17. 8.1998)
+2. É inviávelanalisar a tese defendida no Recurso Especial, pois inarredável a revisãodo conjunto probatório dos autos para afastar as premissas fáticasestabelecidas pelo acórdão recorrido de que não houve nenhuma nulidade noauto de infração (fls. 43-46). Aplica-se, portanto, o óbice da Súmula7/STJ.
+3. A adequada impugnação à Súmula 7/STJ exige da parte que ela desenvolvaargumentação que demonstre a desnecessidade de revolvimento do conjuntofático-probatório dos autos, seja porque a questão é meramente deinterpretação jurídica - e aí deve comprovar tal circunstância, não apenasalegá-la -, seja porque os fatos e provas necessários à adequada soluçãoda controvérsia já tenham sido devidamente delineados no julgado recorridocomprovando, assim, que não é preciso para a solução do caso rever, nestaCorte Superior, aquele conjunto.
+4. Sem motivos para reconsiderar o decisum que não conheceu do Agravo emrazão da ausência de impugnação específica a aplicação da Súmula 7/STJconfirmando o Juízo prelibatório que não admitiu Recurso Especial por: a)ausência de ofensa ao art. 1.022 do CPC; b) pela impossibilidade deanálise, em Recurso Especial, de ofensa a dispositivos da Constituição; c)adequabilidade da fundamentação do acórdão recorrido, sem evidências de
+afronta às normas ditas violadas; e d) incidência da Súmula 7/STJ.
+5. Agravo Interno não provido. (AgInt no AREsp 1779403/SP, Rel. MinistroHERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/05/2021, DJe 01/07/2021) (grifei).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AUSÊNCIADE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE.SÚMULA 182/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da nãoimpugnação aos fundamentos da decisão que inadmitiu o recurso especial naorigem, notadamente quanto às Súmula 7/STJ e Súmula 83/STJ. Assim,consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a estaCorte, precisa, primeiro, desconstituir os fundamentos utilizados para anegativa de seguimento daquele recurso sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisãoagravada devem ser veiculadas imediatamente nessa oportunidade, poisconvém frisar não ser admitida fundamentação a destempo, a fim de inovar ajustificativa para ascensão do recurso excepcional, diante da preclusãoconsumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravanteefetivamente não rebateu todos os fundamentos da decisão de inadmissão dorecurso especial, incidindo à espécie o Enunciado da Súmula 182 do STJ.
+5. Inadmitido o recurso especial em razão da dissonância da pretensão comjurisprudência desta Corte Superior, incumbiria à parte interessadaapontar precedentes contemporâneos ou supervenientes aos referidos nadecisão impugnada, procedendo ao cotejo analítico entre eles.
+6. Ainda, inadmitido o recurso especial com base na Súmula 7 do STJ, nãobasta a assertiva genérica de que é desnecessária a análise de prova,ainda que seja feita breve menção à tese sustentada ou simplesmente ainsistência no mérito da controvérsia. É imprescindível o cotejo entre oacórdão combatido e a argumentação trazida no recurso especial que pudessejustificar o afastamento do citado óbice processual.
+7. Agravo interno a que se nega provimento. (AgInt noAREsp 1852229/SE,Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRATURMA, julgado em 11/10/2021, DJe 14/10/2021) (grifei).
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa é a determinação contida nos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
