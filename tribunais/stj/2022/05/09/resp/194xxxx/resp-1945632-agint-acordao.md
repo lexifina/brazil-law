@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno no Recurso Especial contra decisão monocrática (fls. 138-140, e-STJ), pela qual não se conheceu do Recurso Especial. A decisão ora questionada foi embasada no óbice processual da Súmula 7 do STJ, em virtude da impossibilidade de avaliar ofensa a coisa julgada sem revolvimento do contexto probatório.
+Em suas razões recursais (fls. 144-147 e-STJ), a parte ora agravante alude:
+Não obstante, a D. Relatoria não conheceu o Recurso Especial por entender que "seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ".
+Data venia, a decisão não deve prevalecer, pois os pontos relativos ao mérito recursal do Recorrente dizem respeito unicamente a análise acerca da interpretação das normas legais pertinentes (Lei 7.347/1985, em seus art. 16 e 21; e, à Lei 8.078/1990, art. 81, § único, inciso III; art. 91; art. 103, III, § 3º, e art. 104; e art. 337, §§ 1º, 2º e 4º e arts. 502 e 506 do CPC/2015).
+A despeito do disposto na decisão de não conhecimento do Recurso Especial, o ponto padece de controvérsia quanto a matéria de direito, inclusive existindo a insurgência e, após a oposição de aclaratórios, até mesmo o pronunciamento acerca desta.
+Evidentemente que os pontos ventilados no Recurso Especial configuram violação a legislação federal diante recusa da aplicação de preceitos legais adequadamente invocados, razão pela qual deve ser conhecido o Recurso Especial para que então esta D. Turma deste C. STJ possa apreciar a ocorrência de violação a legislação federal da decisão recorrida, reformando integralmente o Acórdão do TRF4, especialmente em vista de inexistir necessidade de reanálise de fatos e provas como, equivocadamente apontado pela Relatoria.
+Portanto, a decisão que não conheceu o Recurso Especial deve ser reformada, de modo que a parte agravante não incidiu na vedação da Sumula 7 do STJ, uma vez que a questão diz respeito a matéria de direito, tal como delineado nas razões do Recurso Especial, e não há necessidade de revolvimento de fatos e provas.
+Com efeito, tem-se que o cerne da questão reside em saber objetivamente se ocorreu a coisa julgada na ação individual nº 2006.70.50.00393-6 intentada pelo titular do benefício originário em relação ao cumprimento individual de sentença coletiva proposto pela pensionista.
+Não houve apresentação de contrarrazões pela parte agravada (fl. 152, e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. APOSENTADORIA. REVISÃO DE BENEFÍCIO. COISA JULGADA. IMPOSSIBILIDADE DE REVOLVIMENTO DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na origem, trata-se de Agravo de Instrumento interposto de decisão que reconheceu a ocorrência de coisa julgada e extinguiu o cumprimento individual de sentença coletiva.
+2. O Tribunal a quo entendeu no sentido da existência de coisa julgada em razão de demanda anterior ajuizada pelo próprio segurado.
+3. Conforme explicitado na decisão ora recorrida, não cabe a realização de cotejo entre decisões judiciais, notadamente quanto à ocorrência de ofensa ou não à coisa julgada, sem necessariamente adentrar em revolvimento de provas. Logo, na forma da jurisprudência dominante desta Corte: "analisar a alegada ofensa à litispendência e à coisa julgada importa em reexame de provas, o que encontra óbice na Súmula 7 deste Tribunal" (STJ, AgRg nos EDcl no REsp 1.539.665/SC, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 26.10.2015). No mesmo sentido: STJ, AgInt no AREsp 1.707.468/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26.2.2021; AgInt no REsp 1.625.792/PR, Rel. Ministro Benedito Gonçalves, Segunda Turma , DJe de 30.8.2019; AgInt no AREsp 965.578/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 28.8.2017; REsp 1.667.955/RS, Rel. Ministro Herman Benjamin, Segunda Turma , DJe de 20.6.2017.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Autos conclusos no Gabinete em 31.3.2022.
+Não assiste razão à parte agravante.
+Na origem, trata-se de Agravo de Instrumento contra decisão que reconheceu a ocorrência de coisa julgada e extinguiu o cumprimento individual de sentença coletiva.
+O Tribunal a quo entendeu pela existência de coisa julgada em razão de demanda anterior ajuizada pelo próprio segurado.
+Inicialmente, cabe destacar que o manejo do recurso de Agravo Interno deve observar o princípio da dialeticidade, ou seja, o agravante deve apresentar razões robustas que afastem todas as conclusões fundamentadas da decisão questionada.
+No que diz respeito aos argumentos para superação do óbice processual da Súmula 7 do STJ, não logra êxito a parte recorrente. Conforme explicitado na decisão ora recorrida, não cabe a realização de cotejo entre decisões judiciais, notadamente quanto à ocorrência de ofensa ou não à coisa julgada, sem necessariamente adentrar em revolvimento de provas.
+Logo, Na forma da jurisprudência dominante desta Corte, "analisar a alegada ofensa à litispendência e à coisa julgada importa em reexame de provas, o que encontra óbice na Súmula 7 deste Tribunal" (STJ, AgRg nos EDcl no REsp 1.539.665/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 26/10/2015). No mesmo sentido: STJ, AgInt no AREsp 1.707.468/PR, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 26/02/2021; AgInt no REsp 1.625.792/PR, Rel. Min. BENEDITO GONÇALVES, SEGUNDA TURMA, DJe de 30/08/2019; AgInt no AREsp 965.578/RJ, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 28/08/2017; REsp 1.667.955/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 20/06/2017.
+Por conseguinte, ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, suficientemente fundamentada e em consonância com jurisprudência pacífica deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Pelo exposto, nego provimento ao Agravo Interno.
+É o Voto.
