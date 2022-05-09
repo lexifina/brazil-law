@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que deu parcial provimento ao recurso de apelação da defesa.
+Aponta o recorrente violação do art. 155, §1º e 4º, I, do CP, ao argumento de que"indiferente o fato de o local do furto ser imóvel comercial ou residencial, habitado ou não, que haja ou não pessoas repousando, para a aplicação da causa de aumento de pena" (fl. 326), razão por que requer o restabelecimento da pena imposta na sentença ao delito de furto.
+Contrarrazoado e admitido, manifestou-se o Ministério Público pelo provimento do recurso especial.
+O recorrido foi condenado pelos crimes defurto qualificado majorado e falsa identidade às penas de 3 anos, 6 meses e 18 dias de reclusão e 4 meses e 15 dias de detenção, em regime semiaberto, e 16 dias-multa.
+Interposto recurso de apelação pela defesa, foi parcialmenteprovido, ao fundamento de que "necessário que o local do delito seja habitado e que as pessoas que ali se encontram estejam, no momento do crime, repousando. Além do mais, como o delito ocorreu, tal como asseverado na denúncia, em estabelecimento comercial, e, portanto, desabitado, não se poderia dizer que há incidência do § 1ºdo art. 155 pela ausência dos requisitos supracitados" (fl. 266).
+O acórdão recorrido, contudo, diverge da orientação jurisprudencialdesta Corte de que "a causa especial de aumento de pena do furto cometido durante o repouso noturno pode se configurar mesmo quando o crime é cometido em estabelecimento comercial ou residência desabitada, sendo indiferente o fato de a vítima estar, ou não efetivamente repousando (HC n 191.300/MG, Relatora Ministra LAURITA VAZ, Quinta Turma, julgado em 12/6/2012, DJe 26/6/2012), devendo ser mantida, portanto, no caso" (AgRg no HC 671.453/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/08/2021, DJe 10/08/2021). Nesse sentido:AgRg nos EDcl no REsp 1849490/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/09/2020, DJe 22/09/2020.
+Ademais, como bem ressaltado pelo Ministério Público Federal,"a causa de aumento tipificada no § 1º do art. 155 do Código Penal, referente ao crime cometido durante o repouso noturno, é aplicável tanto na forma simples como na qualificada do delito de furto" (fl. 514).
+Assim, deve ser provido o recurso especial para restabelecer a pena imposta ao recorrido na sentença condenatória pela prática do delito no art. 155, §§ 1º e 4º, I, do CP.
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se.
+Intimem-se.
