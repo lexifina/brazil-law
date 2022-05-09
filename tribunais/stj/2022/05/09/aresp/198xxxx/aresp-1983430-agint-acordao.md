@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAIXA SEGURADORA S/A,contra decisão proferida pela Presidência deste Superior Tribunal de Justiça, quenão conheceu do recurso especial, ante o óbice daSúmula7/STJ e por ausência de prequestionamento.
+Nas razões do agravo interno, a parte agravante sustenta que "éevidente a desnecessidade de se analisar o contexto fático-probatório dos autos para o julgamento do presente recurso, tendo em vista que todos os fatos necessários para a devida compreensão da demanda foram tidos como incontroversos pelo v. acórdão recorrido, de modo que a discussão posta à análise desse e. STJ resume-se à interpretação dos dispositivos legais que regulam a matéria" (e-stj fl. 808), e que "aquestão eminentemente de direito posta ao crivo desta e. Corte Superior serve, inclusive, para toda e qualquer ação que discorra sobre a impossibilidade condenação da seguradora no pagamento do capital segurado decorrente de sinistro causado por doença que implicou em incapacidade parcial" (e-stj fl. 809).
+Aduz que "embora não tenha o v. acórdão mencionado expressamente os referidos dispositivos, a discussão dos autos é essencialmente acerca da natureza do seguro e as obrigações advindas do contrato. Há, portanto, evidente prequestionamento implícito" (e-stj fl. 812).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO.INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela parte agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+A decisão da Presidência deste Superior Tribunal de Justiça, ora agravada, não conheceu do recurso especial,no tocante à alegação de violação dos arts. 757 e 760 do CC,em razão da incidência doóbicedaSúmula7/STJ e ausência de prequestionamento, visto que "a pretensão recursal - no sentido de que a invalidez da recorrida seria comprovadamente parcial - demanda o reexame do acervo fático-probatório juntado aos autos", e "não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente".
+Com efeito,o Tribunal de origem, soberano na análise dos fatos e provas, e embasado no conjunto probatório carreadoaos autos, reconheceu que "foram constatadas, no processo administrativo apresentado com a contestação pela própria seguradora, por perícia médica, a incapacidade definitiva da autora (fl. 226) e sua invalidez total e permanente (fl. 229). Diante disso, cabe a cobertura securitária pela invalidez da apelante"(fls. 680 e-stj).
+Nesse contexto, alterar o entendimento do acórdão recorrido para reconhecer a impossibilidade de pagamento da cobertura securitária pretendida, considerando que, no presente caso, a modalidade de invalidezé comprovadamente parcial,como pretende a parte recorrente, demandaria necessariamente o reexame do contexto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula 7/STJ.
+De outra parte, verifica-se no tocante à alegação de que"a concessão de aposentadoria por invalidez pelo Instituo Nacional de Seguridade Social - INSS, não concede aos segurados da Caixa Seguradora S/A, de forma automática, a indenização securitária" (fl. 811), de fato, não houve o prequestionamento da tese recursal, nota-se que a matéria, na ótica arguida pela parte, não foi objeto de debate no acórdão recorrido, de maneira que o Tribunal a quo não emitiu juízo de valor a respeito.
+A falta do necessário prequestionamento,inviabiliza o exame da alegada violação em sede de especial.Para que reste configurado o prequestionamento da matéria é imprescindível que o Tribunal de origem tenha sobre ela emitido juízo, aplicando-a ou afastando-a na análise do caso concreto.
+Em que pesem as razões desenvolvidas pela parte no presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto válidos os argumentos que a sustentam, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
