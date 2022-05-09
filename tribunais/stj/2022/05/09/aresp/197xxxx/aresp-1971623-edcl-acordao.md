@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+1. Trata-se de embargos de declaração opostos contra acórdão desta relatoria assim ementado:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SUMULA 211 DO STJ.1. As questões veiculadas no recurso especial não foram objeto de debate no acórdão impugnado, não obstante a oposição dos embargos de declaração na origem. Para que se configure o prequestionamento, é necessário que o Tribunal a quo se pronuncie especificamente sobre a matéria articulada pelo recorrente, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto Desatendido o requisito do prequestionamento, incide, no caso, a Súmula 211/STJ.2. Agravo interno não provido.
+Sustenta contradição em relação à ausência de prequestionamento e a não aplicação do art. 1.025 do CPC.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. INEXISTÊNCIA. RECONHECIEMNTO DO PREQUESTIONAMENTO FICTO. IMPOSSIBILIDADE
+1. "Aadmissão de prequestionamento ficto (art.1.025do CPC/15)em recurso especialexige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017). No caso, a embargante não indicou, nas razões do apelo nobre, contrariedade ao art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+VOTO
+2. A decisãoembargada consignou que nem nos primeiros tampouco nos segundos embargos declaratórios foi a matéria controvertida apreciada pela Cortea quo:
+De fato, nos primeiros embargos de declaração, o Tribunal a quo não apreciou as matérias ora alegadas pela agravante, limitando-se a registrar que (fl. 415):
+Ao que se vê, como frisa a Desembargadora Sandra Santarém Cardinali, no julgamento dos Embargos de Declaração da Apelação Cível nº 0063124-58.2014.8.19.0002, a parte ré/Embargante pretende aprofundar-se em discussão atinente ao próprio mérito da demanda, alegando verdadeiro erro de julgamento, sendo o meio processual utilizado inadequado para esta finalidade se ausentes os vícios de omissão, contrariedade e obscuridade, ainda que o erro estivesse configurado.
+Nos segundos aclaratórios, tampouco houve a análise da matéria impugnada, extraindo-se do respectivo acórdão que "quanto à condenação ao pagamento de indenização pelos danos morais, pretende-se com o presente recurso a rediscussão do mérito, o que não se admite nesta sede" (fl. 472).
+Assim, aplicou a Súmula 211 do STJ, listando precedentes nesse sentido, entre os quais os seguintes:
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. DIVULGAÇÃO DE IMAGENS DE CIRCUITO INTERNO DE MONITORAMENTO DE SUPERMERCADO ENVOLVENDO BRIGA DO AUTOR. CERCEAMENTO DE DEFESA. NECESSIDADE DE PROVA TÉCNICA. VIOLAÇÃO DO ART. 1.013 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. PREQUESTIONAMENTO FICTO. NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO .
+1. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo" (Súmula 211 do STJ).
+2. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderádar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4.4.2017, DJe 10.4.2017).3. Agravo interno a que se nega provimento.(AgInt nos EDcl no AREsp 1830258/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/02/2022, DJe 25/02/2022)
+--
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO. MULTA CONTRATUAL. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE. REDUÇÃO POR ADIMPLEMENTO PARCIAL. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INCIDÊNCIA DAS SÚMULAS N. os 5 E 7, AMBAS DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de debate no acórdão recorrido quanto aos temas suscitados no recurso especial evidencia a falta de prequestionamento e, por consequência, a incidência da Súmula nº 211 desta Corte. O prequestionamento ficto só é admitido na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial.
+3. Aferir se a multa contratual deve ser reduzida, por suposto adimplemento parcial da obrigação, exigiria incursão fático-probatória e interpretação de cláusula contratual, em afronta às Súmulas nºs 5 e 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.(AgInt no AREsp 1894433/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/02/2022, DJe 23/02/2022)
+Com efeito, nas razões do recurso especial não foi suscitada a violação ao art. 1.022 do CPC, o que impede o reconhecimento do prequestionamento ficto previsto no art. 1.025 doCPC.
+3. Ante o exposto, rejeito os embargos de declaração.
+É o voto.
