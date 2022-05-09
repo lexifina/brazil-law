@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI:
+Trata-se de embargos de declaração, opostos por COMPANHIA DO METROPOLITANO DE SÃO PAULO, contra acórdão da Quarta Turma desta Corte, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INCONFORMISMO DA PARTE DEMANDADA.
+1. Razões recursais que não impugnam especificamente os fundamentos invocados na deliberação monocrática. Em razão do princípio da dialeticidade, deve o agravante nos termos do art. 1.021, § 1º do NCPC, demonstrar de modo fundamentado o desacerto da decisão agravada. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+Nos presentes aclaratórios (fls. 470/474, e-STJ), a parte embargante alega omissão porquanto as suas razões não foram apreciadas, limitando-se a tecer alegações genéricas.
+Impugnação apresentada pela parte adversa, requerendo a majoração dos honorários recursais.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NÃO CONHECEU DO RECLAMO ANTE A APLICAÇÃO DA SÚMULA 182 DO STJ.
+IRRESIGNAÇÃO DA PARTE DEMANDADA.
+1. Nos termos do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+2. Na hipótese dos autos, o acórdão proferido por este órgão fracionário encontra-se devida e suficientemente fundamentado, apenas decidindo de forma contrária aos interesses dos embargantes, o que, à evidência, não consubstancia vício passível de correção por meio de embargos de declaração, mas sim pretensão meramente infringente.
+3. No caso, acolhendo o pedido formulado pela parte embargada nas razões de sua impugnação, preenchidos os requisitos delineados no AgInt nos EREsp 1.539.725/DF, realiza-se à condenação em honorários advocatícios recursais.
+4. Embargos de declaração rejeitados, com imposição de honorários recursais.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Os embargos de declaração não merecem acolhida, pois não demonstram a existência de qualquer vício a macular o acórdão embargado.
+1. Consoante preceitua o artigo 1.022 do CPC/15, os embargos de declaração se prestam, apenas, a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+Nesse sentido, precedente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 1.021, § 3º, DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Consoante julgado proferido pela colenda Corte Especial do STJ, "a vedação constante do art. 1.021, § 3º, do CPC não pode ser interpretada no sentido de se exigir que o julgador tenha de refazer o texto da decisão agravada com os mesmos fundamentos, mas outras palavras, mesmo não havendo nenhum fundamento novo trazido pela agravante na peça recursal" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/06/2016, DJe de 03/08/2016).
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1397216/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018)
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado do julgado, o que não se admite com a objetividade do recurso manejado. É que, a pretexto da existência de omissão, na verdade, a parte embargante pretende a modificação do acórdão, cuja via processual é inadequada.
+Diante disso, por inexistir qualquer das máculas prevista no artigo 1.022 do Código de Processo Civil de 2015, não há razão para modificar o decisum embargado.
+2. Por fim, quanto ao pedido formulado na impugnação pela parte embargada, verifica-se que não houve o pronunciamento acerca da majoração dos honorários sucumbenciais recursais na decisão unipessoal e tampouco no acórdão ora embargado.
+Conforme assentado pela Segunda Seção, no julgamento do AgInt nos EREsp 1.539.725/DF, para fins de arbitramento de honorários advocatícios recursais, previstos art. 85, § 11, do NCPC, é necessário o preenchimento cumulativo dos seguintes requisitos: a) deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado 7 do Plenário do STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC"; b) o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente; c) a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso; d) não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido; e) não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo; f) não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO PUBLICADO NA VIGÊNCIA DO CPC/2015. FALTA DE SIMILITUDE FÁTICA. PRESCRIÇÃO. REPARAÇÃO. DIREITOS AUTORAIS. ILÍCITO EXTRACONTRATUAL. ACÓRDÃO EMBARGADO CONFORME A JURISPRUDÊNCIA DO STJ. NÃO CABIMENTO. DECISÃO MANTIDA.
+1. Os embargos de divergência não podem ser admitidos quando inexistente semelhança fático-processual entre os arestos confrontados.
+2. No caso, a TERCEIRA TURMA apreciou controvérsia sobre a prescrição envolvendo violação extracontratual de direitos autorais. O paradigma (REsp n. 1.211.949/MG), no entanto, enfrentou questão relativa ao prazo prescricional para execução de multa cominatória, por descumprimento de decisão judicial que proibia o réu de executar obra musical. Constata-se assim a diferença fático- processual entre os julgados confrontados.
+3. A jurisprudência de ambas as turmas que compõem esta SEGUNDA SEÇÃO firmou-se no mesmo sentido do acórdão embargado, segundo o qual é de 3 (três) anos, quando se discute ilícito extracontratual, o prazo de prescrição relativo à pretensão decorrente de afronta a direito autoral. Precedentes.
+4. As exigências relativas à demonstração da divergência jurisprudencial não foram modificadas pelo CPC/2015, nos termos do seu art. 1.043, § 4º.
+5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+6. Não haverá honorários recursais no julgamento de agravo interno e de embargos de declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no § 11 do art. 85 do CPC/2015.
+7. Com a interposição de embargos de divergência em recurso especial tem início novo grau recursal, sujeitando-se o embargante, ao questionar decisão publicada na vigência do CPC/2015, à majoração dos honorários sucumbenciais, na forma do § 11 do art. 85, quando indeferidos liminarmente pelo relator ou se o colegiado deles não conhecer ou negar-lhes provimento.
+8. Quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer ou desprover o respectivo agravo interno, arbitrá-la ex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificando reformatio in pejus.
+9. Da majoração dos honorários sucumbenciais promovida com base no § 11 do art. 85 do CPC/2015 não poderá resultar extrapolação dos limites previstos nos §§ 2º e 3º do referido artigo.
+10. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.
+11. Agravo interno a que se nega provimento. Honorários recursais arbitrados ex officio, sanada omissão na decisão ora agravada. (AgInt nos EREsp 1539725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 09/08/2017, DJe 19/10/2017).
+Desta forma, a verba honorária deve ser majorada em 5% (dez por cento) sobre o valor já fixado pela instância ordinária a título de honorários, levando-se em conta o disposto no art. 85, § 11, CPC/15.
+3. Ante o exposto, rejeito os embargos de declaração e, no termos da fundamentação supra, consequentemente, realiza-se a majoração da verba honorária em 5% (cinco por cento) sobre o valor da verba honorária já fixada pela instância ordinária.
+É o voto.
