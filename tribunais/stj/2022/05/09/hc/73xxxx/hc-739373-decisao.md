@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em benefício deDavid Cristhian Moreira, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina(HC n. 5024254-40.2022.8.24.0000).
+Consta dos autos que o paciente foi preso preventivamente e pronunciado pela prática de crime de homicídio qualificado(Autos n. 0018833-45.2019.8.24.0038, doJuízo daVara do Tribunal do Júri da comarca de Joinville/SC). Posteriormente, a defesa impetrouhabeas corpusperante o Tribunala quo, cujo pedido liminar foi indeferidopelo Desembargador Relator (HC n.5024254-40.2022.8.24.0000 - fls. 47/48).
+Daí a presente impetração, em que se alega constrangimento ilegal consistente na manutenção da custódia cautelar para garantia da aplicação da lei penal.
+Sustenta-se, em suma, quenão se mostra cabível a decretação da prisão preventiva apenas em virtude da revelia ou da não localização do réu, fato este inclusive superado com sua devida intimação (fl. 8).
+Postula-se, então, em liminar e no mérito, a revogação da prisão preventiva do paciente.
+É o relatório.
+A teor do enunciado n. 691 da Súmula do Pretório Excelso,entende-se não ser cabível a impetração dehabeas corpuscontra decisão de relator indeferindo medida liminarem açãoajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Ora, no presente caso, o Relator da revisão criminal, ao indeferir o pedido liminar, simplesmente constatou a ausência dos pressupostos autorizadores da medida liminar requerida. E nisso não há nenhum constrangimento ilegal.
+Ademais, ressaltou o Relatora quoque a motivação exposta pela Autoridade Impetrada não relaciona a prisão com a simples dificuldade de encontrar o Paciente, e sim com a aparente disposição de David Cristhian Moreira em manter-se incógnito e em paradeiro ignorado (fl. 48).
+Com efeito, se a autoridade judiciária competente decreta uma prisão preventiva porque o réu está foragido ou porque tal condição passou a ser sopesada em decisão posterior à original, justifica-se, em tese, a manutenção da cautela extrema, na forma do art. 312, c/c o art. 282 do CPP, para assegurar eventual aplicação da lei penal. E, enquanto essa ordem não for invalidada pelo próprio Poder Judiciário, não lhe poderá opor o sujeito passivo da medida um suposto "direito à fuga" como motivo para pretender que seu status de foragido seja desconsiderado como fundamento da prisão provisória. Se pretende continuar foragido, a prolongar, portanto, o motivo principal para o decreto preventivo, é uma escolha que lhe trará os ônus processuais correspondentes, não podendo o Judiciário ceder a tal opção do acusado, a menos que considere ilegal o ato combatido (HC n. 337.183/BA, Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/5/2017, DJe 24/5/2017).
+Assim, não vislumbro constrangimento ilegal passível de ser sanado por esta Corte Superior de Justiça, em especial considerando que a instância ordinária, mais próxima dos fatos e provas dos autos, tem cognição mais ampla e exauriente para a análise das matérias suscitadas.
+Desse modo, reserva-se primeiramente ao Tribunala quoa análise meritória, ventilada nowritoriginário, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte Estadual, mormente se owritestá sendo regularmente processado.
+Em razão disso, com base no art. 210 do RISTJ, indefiro liminarmente o presentewrit.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DUPLO HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA.WRITIMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EMMANDAMUSORIGINÁRIO. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA.
+Inicial indeferida liminarmente.
