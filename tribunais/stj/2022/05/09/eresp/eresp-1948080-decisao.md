@@ -1,0 +1,28 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de divergência opostos por LUIZ ANTONIO SANCHES em face deacórdão proferido pela Quarta Turma deste Tribunal, da Relatoria do Min. AntônioCarlos Ferreira, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. ABANDONO DA CAUSA. RECONHECIMENTO. AUSÊNCIA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Nos casos em que o processo executivo, paralisado pela inexistência de bens passíveis de constrição, é extinto pelo reconhecimento da prescrição intercorrente, a jurisprudência do STJ orienta pela aplicação do princípio da causalidade, atribuindo a responsabilidade pelos ônus sucumbenciais àquele que deu causa à instauração do processo, qual seja o devedor-executado.
+2. O recurso especial não comporta o exame de questões que demandem o reexame de elementos fático-probatórios dos autos (Súmula n. 7/STJ).
+3. Não se confundem a extinção do processo sem o exame do mérito em razão do abandono da causa (CPC/2015, art. 485, III) com o pronunciamento da prescrição intercorrente, em que se dá a resolução do mérito (CPC/2015, art. 487, II).3.1. O reconhecimento do abandono processual pressupõe a manutenção da conduta omissiva da parte, após ser intimada para que dê andamento ao processo (CPC/2015, art. 485, § 1º), enquanto que o reconhecimento da prescrição exige apenas o exercício do contraditório (CPC/2015, art. 487, § ún.).
+4. Agravo interno a que se nega provimento. (e-STJ, fl. 474)
+O embargante insurge-se contra o acórdão embargado em razão da divergência com o julgado proferido no AgInt no REsp nº 1.861.108/SC, da 4ª Turma, de relatoria do Ministro Marco Buzzi; no AgInt no REsp nº 1.833.968/SC, da 1ª Turma, do Min. Napoleão Nunes; no AgInt no REsp nº 1.868.406/MG, da 2ª Turma, de relatoria do Min. Herman Benjamin.
+Defende que "são cabíveis honorários sucumbenciais ao advogado do excipiente, nos percentuais do art. 85, §§2º e 3º, do CPC, quando a exceção de pré-executividade é acolhida para reconhecer a prescrição intercorrente e extinguir o processo" (e-STJ, fl. 488).
+Assevera que "embora o excipiente/embargante tenha se sagrado vencedor na exceção de pré-executividade em que o processo foi extinto, onde houve resistência da parte adversa e bens penhoráveis nos muitos anos de inércia, não teve honorários fixados em seu favor segundo os percentuais do art. 85, §2º do CPC" (e-STJ, fl. 489)
+Impugnaçãoapresentada (e-STJ, fls. 571/278).
+É o breve relatório.
+Decido.
+A teor do disposto nos arts. 1.043 do CPC/2015 e 266 do RISTJ, são cabíveisembargos de divergência,recurso cujo escopo é a uniformização da jurisprudência desta Corte, eliminando as dissidências internas quanto à interpretação do direito em tese, quando determinado órgão fracionário, julgando recurso especial, dissente de julgamento atual de qualquer outro órgão do mesmo tribunal.
+No caso, entretanto, o dissídio aventado pelo embargante não está configurado, na medida em que não há similitude fática e jurídica entre o julgado recorrido e o acórdão paradigma.
+Isso porque a 4ª Turma do STJ, ao negar provimento ao agravo interno entendeu, com base nas peculiaridades do caso destacadas pelo Tribunal de origem e em jurisprudência do STJ sobre o tema, que "nos casos em que o processo executivo, paralisado pela inexistência de bens passíveis de constrição, é extinto pelo reconhecimento da prescrição intercorrente, a jurisprudência do STJ orienta pela aplicação do princípio da causalidade, atribuindo a responsabilidade pelos ônus sucumbenciais àquele que deu causa à instauração do processo, qual seja o devedor-executado" (e-STJ, fl. 473).
+De outro lado, o entendimento manifestado no julgamento dos acórdãos paradigmas (AgInt no REsp nº 1.833.968/SC, da 1ª Turma eAgInt no REsp nº 1.868.406/MG, da 2ª Turma) consignaramquanto à possibilidade de condenação da Fazenda Pública ao pagamento dos honorários advocatícios no caso de acolhimento da exceção de pré-executividade com aconsequente extinção da execução fiscal, nos termos da jurisprudência do STJ (e-STJ, fl. 552).
+Ademais, o paradigma proferido noAgInt no REsp nº 1.861.108/SC, da 4ª Turmasequer chegou a examinara controvérsia a respeito da aplicação do princípio da causalidade, porquanto restou preclusa, pois a parte não se insurgiu no momento oportuno (e-STJ, fl. 522).
+Evidente, dessa forma, a divergência fática presentenos autos, uma vez que o acórdão embargado trata da discussão do princípio da causalidade naextinção de exceção de pré-executividade presente em ação de execução de sentença, ajuizada pelo Banco Bradesco.De forma diversa os acórdãos paradigmas tratamda extinção de exceção de pré-executividade em execução fiscal ajuizada pela Fazenda Pública, sem sequer mencionar a aplicação do princípio da causalidade.
+Nota-se, portanto, não ter a parte embargante demonstrado que os elementos fáticos analisados naqueles casos se assemelham aos que se verificam na espécie, o que basta para obstar o conhecimento do recurso.
+Nesse sentido: AgInt nos EREsp 1.448.317/CE (Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 20/10/2020, DJe 23/10/2020) e AgInt nos EDcl nos EAREsp 1.491.060/SP (Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 13/10/2020, DJe 20/10/2020).
+Ante o exposto, com fulcro no art. 266-C, do RISTJ, indefiro osembargos de divergência.
+A apresentação de novos incidentes manifestamente infundados ou protelatórios será reputada litigância de má-fé.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DISSÍDIO NÃO DEMONSTRADO NOS MOLDES DOS ARTS. 1.043, § 4º, DO CPC/2015 e 266, § 4º, DO RISTJ.
+EMBARGOS INDEFERIDOS.
