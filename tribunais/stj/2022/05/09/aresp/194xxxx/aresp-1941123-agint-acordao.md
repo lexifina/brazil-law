@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face da decisão de fls. 1.170/1.174, e-STJ, por meio da qual neguei provimento ao agravo em recurso especial.
+A parte agravante, em suas razões, reiterou as alegações de que o Tribunal de origem teria sido omisso, por não ter se manifestado quanto à configuração da usucapião e quanto ao descumprimento, por parte do agravado, dos prazos processuais para a promoção da citação.
+Afirmou estar configurada a usucapião, pois presentes todos os seus requisitos legais. Narrou que o TJGO desconsiderou o "tempo de moradia exercido pelo Sr. Wagner (antecessor e vendedor do imóvel) no período de 1999/2000, tendo como marco inicial para a contagem da usucapião a data da venda (12.11.2003)" (fl. 1.179, e-STJ).
+Alegou, também, que a demora na citação ocorreu por exclusiva responsabilidade da parte agravada. Disse que "o Agravado foi intimado por 05 (cinco) oportunidades para dar andamento e/ou cumprimento à ordem de citação, tendo deixado transcorrer in albis o prazo em todas as oportunidades, manifestando-se sempre de forma extemporânea" (fl. 1.180, e-STJ).
+Argumentou, por fim, não ser necessário o reexame de provas e que, por isso, o recurso especial não esbarraria na Súmula 7/STJ.
+A parte agravada, regularmente intimada, apresentou contrarrazões de fls. 1.190/1.200, e-STJ. Pediu o não provimento do recurso e a majoração dos honorários advocatícios.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. USUCAPIÃO. REQUISITOS NÃO PREENCHIDOS. DESÍDIA PROCESSUAL. NÃO OCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Com efeito, reitero que o Tribunal de origem motivou adequadamente a sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à espécie. As duas teses apontadas como omissas pelo agravante - a configuração da usucapião e o descumprimento dos prazos para a citação - foram expressamente analisadas pela Corte local.
+Não há que se falar, portanto, em omissão apenas pelo fato de o acórdão recorrido ter sido proferido em sentido contrário à pretensão da parte.
+Nesse sentido:
+PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA. OMISSÃO NO ACÓRDÃO DE ORIGEM. NÃO OCORRÊNCIA. FALHA NA PRESTAÇÃO DO SERVIÇO. VERIFICAÇÃO. INVIABILIDADE. REEXAME DE MATÉRIA FÁTICA E CONTRATUAL DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa ao artigo 1.022 do CPC/15.
+2. Inviável a análise do recurso especial quando dependente de reexame de cláusulas contratuais e matéria de prova (Súmulas 5 e 7 do STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1709802/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/3/2019, DJe 15/3/2019)
+Quanto ao mais, o recurso, de fato, esbarra no óbice da Súmula 7/STJ.
+O Tribunal de origem, no mérito, julgou procedente o pedido reivindicatório e registrou, de modo incidental, que não foram preenchidos os requisitos para configuração da usucapião.
+Pontuou que houve a cessão dos direitos possessórios em novembro de 2003 e que não há provas que indiquem o exercício da posse em data anterior de forma mansa, pacífica e com ânimo de dono. Anotou, nesse sentido, que não teria decorrido o prazo legal para caracterização da usucapião.
+Transcrevo excertos do acórdão recorrido (fls. 1.038/1.040, e-STJ):
+Com efeito, a discussão posta nos autos diz respeito, a rigor, ao esbulho da posse do autor/apelado, ante a obstrução ao exercício de seu direito de propriedade.
+Nesse toar, urge ponderar que a ação reivindicatória tem como requisitos: a) a comprovação do direito de propriedade do autor sobre a coisa; b) a individualização do bem; e c) a demonstração de que o réu possui ou detém a coisa injustamente.
+Com relação aos dois primeiros requisitos, prova do direito de propriedade e individualização do bem, a matrícula do imóvel juntada às f. 08/14 e a partilha de bens deixados pelo genitor do recorrido (f. 23/34) comprovam que o apelado é o proprietário das chácaras nº. 126, 127, 128 e 156, descritas nos autos.
+Ademais, é incontroverso que os imóveis ocupados pelo apelante são os constantes na referida matrícula, não havendo o que se discutir quanto a isso.
+O terceiro requisito, posse injusta do recorrente, por sua vez, requer exame mais detalhado. (..) É aquela posse que não está baseada em qualquer fundamento jurídico suficiente e apto a justificar sua existência ou manutenção.
+Consequentemente, será justa, nessa acepção, a posse que não repugne ao direito, que tenha no ordenamento jurídico um fundamento lícito para sua manutenção e/ou existência.
+A injustiça da posse, portanto, não se confunde com a existência, ou não, de boa- fé do possuidor, de sorte que não há impedimento legal em se retirar do imóvel aquele que a possui com boa- fé, mas injustamente.
+No caso, o recorrente apresentou duas justificativas legais para a sua posse:
+cessão de direitos firmada com o Sr. Wagner Soares, que é suposto anterior posseiro (f. 168), e o fato de que a sua posse, somada à de seu antecessor, contabilizaria longo prazo, suficiente à ação de usucapião.
+Quanto à questão da cessão de direitos, é evidente que ela não tem o condão de justificar a posse do apelante sobre o imóvel, já que o Sr. Wagner Soares nunca foi o proprietário do imóvel e não possui nenhuma relação com o autor, ora recorrido, que é o real proprietário. Esse negócio jurídico, portanto, não transferiu direito algum, suficiente a legitimar a posse perante o autor/apelado, pois não basta a existência de um negócio não-registrado realizado com um terceiro desconhecido para tornar justa a posse. Assim, deve ser afastada a primeira tese da defesa.
+Em relação à segunda tese, referente à ocorrência de usucapião, o apelante aduz que a sua posse, somada à de seu antecessor, retrocederia até o ano de 1996, quando o Sr. Wagner teria começado a ocupar o imóvel, o que, em tese, lhe concederia a propriedade sobre o bem pela usucapião extraordinária reduzida, prevista no parágrafo único do artigo 1.238 do Código Civil, cujos requisitos são: a) posse contínua, inconteste e com animus domini por 10 anos; e b) moradia habitual ou realização de obras ou serviços de caráter produtivo.
+Documentalmente, todavia, não há provas contundentes de exercício prolongado de posse pelo antecessor do recorrente, já que a cessão de direitos possessórios ocorreu em 12 de novembro de 2003, não havendo outros documentos que indiquem data anterior.
+Registre-se que comprovantes de água e ou energia, em nome do proprietário, genitor do recorrido, não conseguem, por si só, comprovar a eventual posse do Sr.
+Wagner.
+No mais, o Instrumento Particular de Cessão de Posse (f. 20) menciona apenas a chácara n. 156, o que também torna frágil a prova documental.
+(..)
+Nesse linear, o prazo decenal para a usucapião não se consumou, mormente por ter o autor/apelado oposto judicialmente à posse no dia 08.01.2013 (data do ajuizamento da ação), ao passo que o Instrumento Particular de Cessão de Posse e Venda foi realizado no dia 12 de novembro de 2003, e para pretender somar a sua posse com o seu antecessor WAGNER, o apelante deve demonstrar o exercício de posse por este, livre de qualquer vício, mansa, pacífica e com ânimo de dono.
+Lado outro, urge salientar que apesar da prova oral ter mencionado o requisito da moradia habitual no imóvel, sabe-se que a posse que serve a usucapião, denominada ad usucapionem, é apenas aquela exercida com ânimo de domínio (animus domini) e é fato que não há nos autos nenhum indício, nem alegação, que explique a que título o Sr. Wagner começou ocupando o imóvel, se com ânimo de assenhoramento ou não.
+Além de não haver nenhuma informação sobre como o Sr. Wagner começou a ocupar o imóvel, o único ato verdadeiro de exercício de domínio sobre o bem que se tem notícia que ele chegou a realizar foi a venda ao apelante em 12.11.2003.
+Entretanto, como houve interpelação judicial por parte do autor/apelado em 08.01.2013 (data do ajuizamento da ação), revela-se evidente que não foi preenchido o lapso prescricional aquisitivo aventado pelo recorrente.
+Assim, por falta de prova dos requisitos, não há como se reconhecer incidentalmente a usucapião em favor do apelante, visto que a posse deste deve ser considerada injusta e o pedido reivindicatório procedente, tal como ocorreu.
+A modificação desse entendimento exigiria o reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+A Corte local, em seguida, consignou que o autor não agiu com desídia processual, tendo em vista que todas as diligências teriam sido praticadas dentro da normalidade, com a participação eficaz do requerente. Rejeitou, nesse sentido, a pretensão de que a prescrição se interrompesse tão somente na data da citação do réu (fl. 1.041, e-STJ):
+Ademais, o recorrente pondera que a citação válida interrompe a prescrição, ao passo que a interrupção retroage à data da propositura da ação, como bem defendido na sentença. Todavia, ressalta que referida regra possui exceção, impondo ao autor/recorrido o dever de ser diligente e efetivar a citação no prazo de 10 (dez) dias, após o despacho que a ordena (art.219, §2º, do CPC/73), e este ocorreu em 21/05/2013 (f. 92), sob pena de, inobservado tal período, não se considerar a data da propositura da ação para fins de interrupção da prescrição, principalmente, se houver inércia pelo autor da ação, exatamente como ocorreu no presente caso.
+Contudo, referida assertiva não pode ser acolhida, vez que não houve desídia processual praticada pelo autor/apelado e um dos motivos da demora em se efetivar a citação foi a dificuldade em localizar o recorrente. Porém, todas as diligências foram praticadas dentro da normalidade dos prazos processuais, com participação eficaz do recorrido.
+Nesse linear, não pode ser admitida a tese de que a citação foi o marco para a interrupção da prescrição, que ocorreu em 17/03/2015, tempo hábil a fulminar o direito de propriedade do apelante pela consumação da prescrição aquisitiva e consequente declaração de usucapião extraordinário.
+Pelo contrário, uma vez citado o réu, ora recorrente, para responder à presente ação reivindicatória, foi interrompido o curso da prescrição aquisitiva que a seu favor corria, retroagindo a interrupção da prescrição à data da propositura da demanda (08/01/2013). Portanto, a posse mansa e pacífica exercida pelo apelante perdurou de 12 de novembro de 2003 até 08 de janeiro de 2013, isto é, por 09 (nove) anos, 01 (um) mês e 27 (vinte e sete) dias.
+Ou seja, não atingiu o período de 10 (dez) anos exigido para o acolhimento do pedido de reconhecimento de aquisição do bem pela usucapião.
+A alteração dessas premissas exigiria, igualmente, o reexame de provas, o que, como já salientado, é defeso em recurso especial, à luz do óbice contido na Súmula 7/STJ.
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo interno.
+Ressalto, por fim, que, "fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração". (AgInt no AREsp 1520018/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/2/2020, DJe 19/2/2020).
+É o voto.
