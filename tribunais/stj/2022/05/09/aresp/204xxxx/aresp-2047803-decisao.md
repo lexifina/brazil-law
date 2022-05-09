@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por CASPERO LTDA contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL.
+I. Hipótese em que alegação de excesso de execução constitui o fundamento dos embargos, todavia deixando a parte de apresentar demonstrativo discriminado e atualizado de cálculo nos termos do artigo 917, § 3º do CPC.
+II. Recurso desprovido (fl. 166).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação dos arts. 784, IX, e 914, caput, do CPC, no que concerne à desnecessidade de garantia da execução como requisito de admissibilidade dos embargos; à aplicação subsidiária do CPC à execução fiscal; à ausência de liquidez da CDA; à falta de mora da parte executada e à necessidade de perícia nos autos, trazendo os seguintes argumentos:
+Data máxima venia, repisa-se que a discussão será travada em torno da desnecessidade de garantia do juízo em sede execução fiscal, porque se de um lado, a Lei de Execução Fiscal impõe no art. 16, § 1º a garantia da execução como requisito de admissibilidade dos embargos, o Código de Processo Civil por sua vez, simplesmente isenta o embargante desta exigência legal.
+ ..
+Assim sendo, está claro que se prevalecer a hipótese do § 1º do Art. 16 da Lei 6.830/80, valendo-se de uma interpretação histórica, sistemática, teleológica, a Lei de Execução Fiscal está dotando a Fazenda Pública de excessiva prerrogativa, haja vista que está objetivando tratamento mais benéfico, em detrimento dos credores particulares, além de prejudicar sobremaneira o devedor de tributos.
+ ..
+Assim sendo, a CDA (Certidão da Dívida Ativa), literalmente, é título de crédito extrajudicial e deve ser executada da mesma maneira que a nota promissória, a letra de câmbio, a duplicata, o cheque ou qualquer outro título de crédito emitido por particulares, razão pela qual a Fazenda Pública não pode ser privilegiada com a garantia da execução, em prejuízo dos demais credores.
+Este artigo por si só, já não deixa dúvidas de que à interpretação do Novo CPC, se aplica seguramente à execução fiscal.
+ ..
+Imperioso ser reputada a ausência de interesse processual na execução proposta pela agravada, porque no título em que se baseia tal ação, não está presente o requisito da liquidez, o que evidencia a incerteza e a inexigibilidade dos títulos.
+Ora, assim sendo, não há como prevalecer a condenação a que este recurso se refere.
+ ..
+Ressalte-se ainda que não existe no caso vertente mora da recorrente, porque a execução é excessiva e além disso, existe exigência extorsiva de encargos, não constituindo portanto, a hipótese de mora debendi.
+A cobrança de multa e valores indevidos e abusivos enseja à recorrente a possibilidade de suspender o pagamento, modo que a mora deixa de existir.
+ ..
+Na impossibilidade de apurar o valor efetivamente devido pela agravante, porque se trata de certidões de dívida ativa confeccionadas unilateralmente, é evidente que não existe mora da suposta devedora, até o trânsito em julgado dos embargos à execução.
+ ..
+O ordenamento jurídico brasileiro, recentemente, através do Novo Código de Processo Civil, adotou seguramente a necessidade da perícia nos seguintes termos:
+ ..
+No caso de exação fazendária esta assistência é realmente necessária, devido a complexidade dos cálculos que nela existe, porque via de regra são exações efetuadas em face de contribuintes vulneráveis e hipossuficientes, os quais na maioria das vezes deixam a escrituração fiscal a cargo de profissionais pouco experientes, como é ocaso da execução em apreço.
+ ..
+Assim sendo, a obrigação dos apelantes não pode ser sobre valores colocados de forma unilateral e arbitrária.
+Em homenagem aos princípios constitucionais da função social da empresa, da função social do contrato e da função social da propriedade e ainda lembrando a função principal da solidariedade passiva, deve ser garantido à apelante o direito de elaboração de cálculos corretos para cumprimento da obrigação (fls. 191/195).
+É, no essencial, o relatório. Decido.
+No que concerne à aplicação subsidiária do CPC à execução fiscal; à ausência de liquidez da CDA; à falta de mora da parte executada e à necessidade de perícia nos autos , na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+Ademais, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que as questões apontadas nas razões recursais não foram examinadas pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
