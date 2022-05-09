@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por Tila Rodrigues Castro, com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, Tila Rodrigues Castroimpetrou mandado de segurança contra ato supostamente ilegal do Secretário do trabalho, emprego, renda e esporte do Estado da Bahia, consubstanciado na extinção de seu contrato de trabalho, efetivado por tempo determinado, sob o Regime Especial de Direito Administrativo - REDA.
+Deu-se a causa o valor de R$ 100,00 (cemreais) em setembro de 2020.
+Denegada a ordem, a impetrante interpôs o presente recurso ordinário contra o acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 196):
+MANDADO DE SEGURANÇA. GRATUIDADE CONCEDIDA. PEDIDO DE RESTABELECIMENTO DO CONTRATO SUJEITO AO REDA. IMPETRAÇÃO APÓS O PRAZO DE 120 DIAS CONTADOS DO ATO ADMINISTRATIVO. DECADÊNCIA RECONHECIDA. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO. SEGURANÇA DENEGADA.
+No presente recurso ordinário, repisa os argumentos trazidos no mandado de segurança, aduzindo queo direito à impetração do writ se iniciou em 11/8/2020, quando recebeu retorno da ouvidoria no que tange a rescisão unilateral de seu contrato de trabalho, não incidindo assim a decadência.
+O Ministério Público opina pelo não provimento do recurso.
+É o relatório. Decido
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nos termos do art. 23da Lei n. 12.016/2009, "o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado".
+A jurisprudência desta Corte Superior é firme no sentido de que o termo inicial do prazo de decadência para impetração de mandado de segurança é a data da ciência do ato pela parte interessada.
+Neste sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SERVIDORA PÚBLICA. DEMISSÃO. IMPETRAÇÃO DO MANDAMUS FORA DO PRAZO LEGAL. TERMO INICIAL. DATA DA PUBLICAÇÃO DO ATO ADMINISTRATIVO NO DIÁRIO OFICIAL. DECADÊNCIA. CONFIGURAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Ordinário estivesse sujeito ao Código de Processo Civil de 1973.
+II - Nos termos do art. 23, da Lei n. 12.016/2009, "o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado".
+III - Tratando-se de ato comissivo, considera-se, como termo inicial do prazo decadencial para a propositura do writ, a data da ciência, ao interessado do ato impugnado e que este revela-se apto à produção de efeitos lesivos à esfera jurídica do impetrante (STF, AgRg no MS 23.528, Tribunal Pleno, Rel. Min. Ellen Gracie, DJe de 19.08.2011).
+IV - O manejo de pedido de reconsideração ou de recurso administrativo sem efeito suspensivo não tem o condão de suspender ou interromper o prazo para impetração da ação mandamental, consoante inteligência da Súmula 430/STF, in verbis: "Pedido de reconsideração na via administrativa não interrompe o prazo para o mandado de segurança".
+V - Na espécie, a pena de demissão foi aplicada à Recorrente mediante ato publicado no Diário Oficial do Estado do Maranhão n. 183, de 19.09.2013 (fl. 419e), data em se considera ciente a parte interessada, dos respectivos atos, para fins de impetração, nos termos do art. 23, da Lei n. 12.016/2009, não valendo para tanto, conforme reiterada jurisprudência, a aventada notificação ou intimação pessoal posteriormente efetivada.
+VI - Assim, considerando que o presente mandamus foi impetrado em 25.03.2014 (fl. 5e), ou seja, muito após escoado o prazo decadencial de 120 (cento e vinte) dias, de rigor o reconhecimento da decadência do direito de impetração.
+VII - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VIII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IX - Agravo Interno improvido.
+(AgInt no RMS 48.480/MA, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 19/06/2018, DJe 25/06/2018.)
+Na hipótese dos autos, o ato praticado tido como coator (extinção do contrato administrativo) foi praticado em 31/3/2020 -ou ainda que seja considerado a data de 30/4/2020 (data em que a servidora efetivamente cessou suas atividades) como ato coator, seria aquela ou esta adata inicial da contagem do prazo decadencial do mandamus.
+Demais disso, a interposição de recursos administrativossemefeito suspensivonão tem o condão de suspendero prazo decadencial de 120 dias, previsto em lei.
+Desse modo, considerando que o mandamus foi impetrado somente em 19/9/2020(ainda que na melhora das hipótese se considere como a data do ato coator 30/4/2020, quando efetivamente a servidora cessou suas atividades),é de rigor o reconhecimento da decadência do direito de impetração.
+No mesmo sentido, o parecer do d. Ministério Público Federal, conforme a ementa a seguir (fl. 246), verbis:
+Ultrapassado, pois, o prazo de 120 (cento e vinte) dias da data em que a servidora tomou ciência de sua exoneração, correta a extinção do mandamus pela decadência, nos termos do art. 23 da Lei nº 12.016/2009.
+Ante o exposto, não restando configurado o direito líquido e certo, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
