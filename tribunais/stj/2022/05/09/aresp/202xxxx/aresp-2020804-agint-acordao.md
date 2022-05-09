@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN contra a decisão desta relatoria de fls. 544-548 (e-STJ), que conheceu do agravo para conhecer parcialmente do recurso especial e, na extensão conhecida, negou-lhe provimento.
+O apelo especial foi fundado nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fls. 428-429):
+APELAÇÕES. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. CONTRATOS DE MÚTUO FIRMADOS COM AFUNDAÇÃO CORSAN. JUROS REMUNERATÓRIOS. ENTIDADE DE PREVIDÊNCIA PRIVADA. LEI COMPLEMENTAR 109/2001. VEDADA INCIDÊNCIA DE JUROS SUPERIORES A 12% AO ANO. PROIBIDA A CAPITALIZAÇÃO MENSAL DE JUROS. TAXA DE ADMINISTRAÇÃO. COMPENSAÇÃO DO INDÉBITO/REPETIÇÃO POSSIBILIDADE. REDIMENSIONAMENTO DA SUCUMBÊNCIA.
+1. Tratando-se de entidade de previdência privada fechada, a requerida não pode se valer das disposições legais que regem os contratos firmados com instituições financeiras, motivo pelo qual não pode estipular juros livremente em seus contratos, devendo observar os limites estabelecidos na Lei de Usura (Dec. 22.626/33), cujo art.1º veda a cobrança de juros superiores a12% ao ano. Ademais, desde a entrada em vigor Lei Complementar nº 109/2001, como entidade de previdência privada fechada que é, não mais poderia conceder empréstimos aos seus associados. Assim, tendo sido concedido o empréstimo nessas condições, o contrato firmado entre as partes deverá ser avaliado como se mútuo entre particulares fosse, mediante limitação dos juros no patamar de 12% ao ano.
+2. Outrossim, na hipótese dos autos, os demonstrativos analíticos de empréstimo colacionados sinalizam a prática de capitalização mensal, que deve ser afastada ante a proibição do 591 do Código Civil.
+3. No que diz respeito à forma de cobrança da taxa de administração, prospera em parte a insurgência recursal do autor, com relação a alguns contratos, diante da evidente incongruência entre a cláusula contratual e o valor exigido do demandante.
+4. A jurisprudência do STJ está consolidada no sentido de admitir a compensação de valores e a repetição do indébito sempre que constatada cobrança indevida do encargo exigido, sem que, para tanto, haja necessidade de ser comprovado erro no pagamento, a fim de ser evitado o enriquecimento ilícito da parte beneficiada.
+5. Diante da solução endereçada em âmbito recursal, cabível o redimensionamento da sucumbência, bem como a readequação dos honorários sucumbenciais. RECURSO DE APELAÇÃO DA RÉ DESPROVIDO E RECURSO DEAPELAÇÃO DO AUTOR PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram julgados (e-STJ, fls. 476-483).
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 373, I, e 1.022 do CPC/2015.
+Esclareceu que se opôs ao acórdão que estaria maculado por omissão relevante, embora julgados os embargos de declaração então opostos. Arguiu que não foi apreciada fundamental questão jurídica, qual seja, a demonstração de comprovação autoral acerca da incidência da capitalização.
+Enfatizou que o método de amortização utilizado não conduz, necessariamente, à capitalização dos juros, tampouco é ilegal a prática pela prévia atualização e posterior amortização do saldo devedor, conforme a segunda parte da Súmula 450/STJ. Requereu o provimento do recurso especial (e-STJ, fls. 496-501).
+Inadmitido o apelo especial, foi interposto agravo em recurso especial, o qual foi julgadomonocraticamente por esta relatoria, negando-se a pretensão (e-STJ, fls. 544-548).
+Contra esse decisum protocola a insurgente agravo interno. Reforça a argumentação constante no recurso especial acima sumariada. Defende que a decisão ora gravada apresenta fundamentação genérica e não observa acomprovação acerca da incidência de capitalização de juros.
+Aduz que se pretende apenas o reconhecimento da omissão do julgado, o que não depende da incursão em fatos, provas ou termos contratuais. Dessa forma, sustenta a inaplicabilidade das Súmulas 5 e 7STJ. Pugna pelo provimento deste agravo interno(e-STJ, fls. 550-554).
+Contraminuta não apresentada (e-STJ, fls. 555 e 558).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DA AUSÊNCIA DE PROVA DA CONTRATAÇÃO DE JUROS EM QUALQUER PERIODICIDADE. AFASTAMENTO DA CAPITALIZAÇÃO MENSAL. ENTENDIMENTOS FUNDADOS NA APRECIAÇÃO DE FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1.Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015.A Corte de origem dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2.As ponderações no sentido da ausência de previsão contratual para a capitalização de juros em qualquer periodicidade, devendo ser afastada, portanto,a incidência da capitalização mensal observada no caso, foram fundadas na apreciação de fatos, provas e termos contratuais - Súmulas 5 e 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+Reexaminando os autos, não se observam razões para o provimento deste recurso interno.
+Com efeito, não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015.
+A Corte de origem dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Nessa mesma linha, a decisão monocrática ora questionada não ostentou justificação genérica, mas sim precisa e adequada, haja vista que analisou amplamente a argumentação da ora demandante em seus recursos direcionados a esta Corte Superior.
+A segunda instância concluiu por não haver previsão contratual para a capitalização de juros em nenhuma periodicidade, devendo ser afastada sua incidência. Estabeleceu o aresto sua ocorrência no caso em apreço.
+Veja-se (e-STJ, fls. 477-480):
+De início, no que tange ao recurso do requerente, verifica-se que o acórdão autorizou a capitalização com periodicidade anual, quando, por certo, tal prática não poderia ser admitida sem expressa previsão contratual.
+De fato, o acórdão foi omisso sobre o fundamento de não contratação do encargo e a apreciação da matéria, no caso, implica modificação do julgado. Como se sabe, as entidades fechadas de previdência complementar estão autorizadas afirmar empréstimos mediante aplicação de capitalização com periodicidade ânua, fulcro no artigo 591 do CPC.
+Na hipótese, todavia, referido encargo não foi contratado.
+Assim, como não houve prévio conhecimento e consentimento do contratante, a incidência de capitalização, mesmo com periodicidade anual, afrontaria os princípios da boa-fé contratual e da autonomia da vontade, o que não pode se admitido.
+Nesse sentido é o entendimento firmado pelo Superior Tribunal de Justiça por ocasião do julgamento do REsp. n. 1.388.972/SC (analisado sob o rito dos recursos repetitivos - Tema 953), dando conta de que "a cobrança de juros capitalizados nos contratos de mútuo é permitida quando houver pactuação".
+Diante de tais circunstâncias, mostra-se oportuno o pedido de complementação do julgado, a fim de sanar a omissão apontada pelo requerente, para que se reconheça, no caso, a impossibilidade de incidência da capitalização com qualquer periodicidade. Por outro lado, no que tange aos embargos da requerida, não prosperam, primeiramente, suas alegações sobre a suposta violação ao artigo 373, I, do CPC.
+No ponto, a ré sustenta que a incidência de capitalização não restou demonstrada.
+Contudo, tal como constou do acórdão embargado, os demonstrativos analíticos de empréstimo colacionados ao feito indicam que houve capitalização mensal dos juros.
+É flagrante, aliás, o descontentamento da requerida coma apreciação da prova, o que, todavia, não autoriza a modificação do julgado pela via dos aclaratórios, ainda que sob o pretexto de omissão.
+ ..
+Sendo assim, na hipótese, os embargos da ré comportam parcial acolhimento, sem alteração do julgado, tão somente para suprir omissão com relação aos fundamentos que dizem sobre a necessidade de manutenção do equilíbrio financeiro, enquanto que os aclaratórios do autor devem ser acolhidos, com alteração do julgado, a fim de afastar acapitalização de juros com qualquer periodicidade (mensal ou anual).
+Ante o exposto, voto por ACOLHER EM PARTE os aclaratórios da ré, tão somente para complementar a fundamentação no ponto em que foi omissa, sem modificação no resultado do julgamento, e por ACOLHER os embargos de declaração interpostos pelo autor, para sanar a omissão apontada, com efeito infringente, afastando, assim, a incidência de capitalização com qualquer periodicidade, nos termos da fundamentação.
+As ponderações no sentido da ausência de previsão contratual para a capitalização em qualquer periodicidade -devendo ser afastada a incidência da capitalização mensal observada no caso -foram fundadas na apreciação de fatos, provas e termos contratuais.Súmulas 5 e 7/STJ.
+Esses verbetes sumulares se aplicam, inclusive, à suposta divergência jurisprudencial.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO BANCÁRIO. MÚTUO. CAPITALIZAÇÃO MENSAL DE JUROS. AUSÊNCIA DE PACTUAÇÃO. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO IMPROVIDO.
+1. "Nos contratos de mútuo bancário, celebrados após a edição da MP nº 1.963-17/00 (reeditada sob o nº 2.170-36/01), admite-se a capitalização mensal de juros, desde que expressamente pactuada." (Recurso Repetitivo REsp 1.112.879/PR, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe de 19/05/2010)
+2. Na presente hipótese, a ausência de previsão expressa no contrato inviabiliza a cobrança de juros capitalizados em periodicidade inferior à anual.
+3. Para a caracterização do alegado dissídio jurisprudencial, não basta a simples transcrição de ementas, devendo ser mencionadas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos arts. 1.029, § 1º, CPC/2015 e 255, § 1º, do RISTJ.
+4. Agravo interno não provido.(AgInt no AREsp 1308597/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/11/2018, DJe 07/12/2018)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
