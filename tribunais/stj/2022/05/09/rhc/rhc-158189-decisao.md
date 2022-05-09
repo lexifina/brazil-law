@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por DIOGO ESTÁCIO SODRE contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Habeas Corpus n. 1.0000.21.221232-8/000).
+Os autos dão conta de que o recorrente foi preso em flagrante, pela suposta prática do crime previsto no art. 33, caput, c/c o art. 40, V, ambos da Lei n.11.343/2006, porque, em sua posse, foram encontrados um pouco mais de 1kg (um quilograma) de cocaína (vide e-STJ fl. 53).
+Ao ser comunicado da prisão em flagrante, o Juízo do plantão converteu-a em preventiva (e-STJ fls. 65/68). Posteriormente, o Juízo da Vara Única da Comarca de Arinos/MG indeferiu os pedidos de revogação da prisão preventiva e de sua substituição por prisão domiciliar (e-STJ fls. 52/56).
+Irresignada, a defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem, recomendando, contudo, ao Magistrado de primeiro grau, que fosse "cumprido o estabelecido no artigo 295, VII, do Código de Processo Penal" (e-STJ fl.317). Eis a ementa do mencionado acórdão (e-STJ fl. 309):
+EMENTA: HABEAS CORPUS. TRÁFICO DE DROGAS INTERESTADUAL.REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA.ACUSADO GENITOR DE FILHOS MENORES. AUSÊNCIA DE COMPROVAÇÃO DA IMPRESCIBILIDADE DO PACIENTE AOS CUIDADOS DO INFANTE. DIREITO À CELA ESPECIAL. DIPLOMA EM CURSO SUPERIOR. AUSÊNCIA DE COMPROVAÇÃO DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA, COM RECOMENDAÇÃO.
+- Os fortes indícios da autoria e materialidade delitiva, somados à gravidade e censurabilidade da conduta, justificam a segregação cautelar amparada nos requisitos do art. 312 do CPP, mormente em se considerando a quantidade de drogas apreendidas, tratando-se de suposta prática de tráfico interestadual.- As condições pessoais favoráveis do paciente, não autorizam, por si sós, a concessão da ordem, quando os demais elementos dos autos recomendam a manutenção da custódia.
+- Inviável a revogação da prisão preventiva quando não evidenciado, de forma segura e por meio de provas pré-constituídas, que o paciente é indispensável para os cuidados de seus filhos menores.
+- Diante a possibilidade de se encontrar o paciente recolhido em condições diversas a qual faz jus, bem assim presentes documentos a comprovarem a formação em curso superior, recomenda-se à d. autoridade coatora o cumprimento do artigo 295, inciso VII, do CPP.
+Nas razões do presente recurso, a defesa alega, em suma, que: a) o recorrente está recolhido em cela diversa à que tem direito, uma vez que, graduado em curso superior, teria direito à cela especial; b) não estão presentes os requisitos autorizadores da prisão preventiva; e c) não há fundamentos idôneos para justificar a sua decretação/manutenção.
+Destaca, ainda, os predicados pessoais do recorrente (residência fixa, emprego lícito, filho menor de idade e bons antecedentes), bem como aponta a possibilidade de que sejam estabelecidas medidas cautelares diversas da prisão.
+Por isso, requer, liminarmente, "que seja revogada a prisão preventiva, com a imposição de medidas cautelares diversas da prisão, nos termos do artigo 319 do Código de Processo Penal" e, no mérito, que seja concedida a ordem "para fazer cessar a coação ilegal que o paciente está submetido, qual seja, ser mantido em cela diversa a que faz jus nos termos do art. 295 do Código de Processo Penal" (e-STJ fl.336).
+Liminar indeferida às e-STJ fls. 372/374.
+Prestadas as informações, oMinistério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 905/908).
+É o relatório.
+Decido.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal a quo noticiam a superveniência, em 25/2/2022, de sentença condenatória em desfavor do recorrente na ação penal de que cuidam estes autos.
+Assim, fica sem objeto este recurso, em razão da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+A propósito:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE MANTENHA A CUSTÓDIA CAUTELAR. NOVO TÍTULO.PREJUDICIALIDADE DO RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cediço que não cabe a interposição de embargos de declaração contra decisão monocrática que julga prejudicado recurso, mas, em consonância ao princípio da fungibilidade recursal, há que se receber esta irresignação como agravo regimental.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no RHC n. 78.448/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/3/2017, DJe 23/3/2017.)
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
