@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ do Estado do Paraná, assim ementado (fl. 41):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM RAZÃO DA PROCEDÊNCIA PARCIAL DA IMPUGNAÇÃO INTERPOSTA. JUÍZOA QUO QUE FIXOU OS HONORÁRIOS SOBRE O CRÉDITO ATUALIZADO. INCONFORMISMO ESTATAL. PROCEDÊNCIA. OPERAÇÃO QUE DEVE SE DAR SOBRE O PROVEITO ECONÔMICO, CONSIDERANDO A DIFERENÇA ENTRE OS CÁLCULOS. PRECEDENTES. RECURSO CONHECIDO EPROVIDO.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigos 489, § 1º, IV e VI, e 1.022, § único, II, doCPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito "da alegação de que, o provimento do recurso de agravo, implicaria fixação de honorários irrisórios, muito embora tenha havido inclusive interposição de embargos de declaração apontando a falha, a omissão e a necessidade de concessão de efeitos infringentes aos declaratórios."(fl.78)
+Quanto a questão de fundo, sustenta ofensa aoartigo85, §§2º e 8º do CPC/2015, sob o argumento de que"reforma da Decisão de Primeira instância pelo d. Tribunal representou a fixação de honorários advocatícios em valor indigno,  ..  A condenação em honorários em valores irrisórios vai de encontro ao disciplinado no Código de Processo Civil. "(fl. 81)
+Comcontrarrazões.
+Juízo positivo de admissibilidade às fls. 101-102.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, afasta-se a alegada violação dos artigos 489, § 1º, IV e VI, e 1.022, § único, II, do CPC/2015,porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa aos dos artigos 489, § 1º, IV e VI, e 1.022, § único, II, do CPC/2015.
+Na espécie, o acórdão recorrido deu provimento ao recurso do Estado do Paraná ao fundamento de que, em cumprimento de sentença, os honorários devem ser fixados sobre o proveito econômico, considerando a diferença entre os cálculos. Em sede de embargos de declaração, ressaltou que "a fixação dos honorários na fração mínima, de 10% (dez por cento)ocorreu por parte do d. Juízo, que considerou, adequadamente, a quo que o esforço por parte do exequente, na impugnação, se limitou a apresentação de umapetição de resposta ao Estado" (fl. 63, e-STJ, grifei).
+Ocorre que o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aoartigo85, §§2º e 8º do CPC/2015,e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula 284/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS IRRISÓRIOS. ART. 85DO CPC/2015.DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
