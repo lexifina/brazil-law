@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por KARLA NEPOMUCENO VALADARES em face da decisão acostada às fls. 1261/1267, e-STJ, da lavra deste relator, que deu provimento ao recurso especial do Banco do Brasil.
+O recurso especial foi interposto por BANCO DO BRASIL, com fundamento na alínea "a" do permissivo constitucional, em face de acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fls. 874, e- STJ):
+Previdência complementar - Previ - Benefício inicial de aposentadoria - Horas extras reconhecidas pela Justiça do Trabalho - Demanda inserta na modulação dos efeitos do julgamento do REsp. 1.312.736.
+1. Inocorrência de prescrição quinquenal de qualquer parcela, contado o prazo do trânsito em julgado da decisão trabalhista.
+2. Legitimidade ad causam do ex-empregador, Banco do Brasil, para responder pelo pagamento da cota que lhe corresponde como patrocinador do plano, de modo a viabilizar a recomposição das reservas matemáticas.
+3. Relação previdenciária autônoma e distinta da empregatícia, o que atrai a competência da Justiça comum ainda quando o ex- empregador figure na relação processual (RE 589.551 AgR, julgado em 14/12/2018, com explicitação da tese firmada no tema 190 da repercussão geral).
+4. Condenação da Previ ao recálculo atuarial, de acordo com as regras do Plano, do benefício inicial de aposentadoria, com inclusão das horas extras, e ao pagamento, após o recolhimento das reservas matemáticas devidas, do valor respectivo, extensivo ao Benefício Especial Temporário (BET).
+5. Inexistência de mora da Previ.
+6. Possibilidade de compensação entre a contribuição do participante e o valor que lhe é devido.
+7. Condenação do Banco do Brasil ao pagamento da cota patronal necessária à recomposição das reservas matemáticas.
+8. Liquidação de sentença, com a realização de cálculo atuarial, observado o regulamento do Plano.
+Opostos embargos declaratórios às fls. 959/964, e-STJ, os mesmos foram rejeitados.
+Nas razões do recurso especial (fls. 1.068/1.085, e-STJ), o recorrente apontou violação dos seguintes artigos:
+(i) 1022 do CPC/2015, na medida em que o acórdão recorrido foi omisso quanto à competência da Justiça Comum, em relação a suposto ato ilícito não reconhecido na Justiça Trabalhista e ilegitimidade do BB.
+(ii) 11 da CLT e 206, §3º, do CC, quanto à prescrição trienal;
+(iii)1.040-III e 927-III do CPC, "em relação à condenação a recompor a metade da reserva matemática imposta ao patrocinador Banco do Brasil, pois se afastou das teses fixadas nos Temas 955 e 936 STJ, além de não ter havido imputação de ilicitude, pela Justiça do Trabalho, pelo fato do não pagamento da 7ª e 8ª horas extras no exercício de função e confiança." (fls. 1072,e-STJ) (iv) 884 do C.Civil, ante o enriquecimento ilícito do autor, em relação à condenação imposta ao patrocinador para recompor parcialmente a reserva matemática e não somente à parcela referente a sua contribuição institucional, como também em não determinar a dedução das contribuições previdenciárias sobre as horas extras já ocorridas na Justiça do Trabalho. Por fim, aduziu não caber interpretação extensiva para incluir o patrocinador na lide e condená-lo a recompor a reserva matemática ao argumento de que houve ato ilícito em total dissonância como Resp 1312736/RS; e
+(v), 1026, § 2º, do CPC/15, por ser descabida a multa aplicada quando do julgamento dos aclaratórios.
+Contrarrazões ofertadas.
+Em julgamento monocrático, deu-se provimento ao reclamo do Patrocinador a fim de reconhecer a ilegitimidade passiva do Banco do Brasil e extinguira ação quanto a ele nos termos do art. 485, inc. V, do CPC/15.
+Inconformada, a parte autora interpôs o presente agravo interno (fls. 1275/1297, e-STJ), em síntese, sustentando a legitimidade do Banco do Brasil para compor a presente ação. Afirma, para tanto, que:
+ ..
+se o Banco do Brasil tivesse pagado as horas extras que devia à demandante à época em foram prestadas, a Autora precisaria verter apenas o valor correspondente às contribuições regulamentares incidentes sobre essas horas extras. Assim, se do ato ilícito cometido pelo banco (atraso no pagamento das horas extras) decorreu a necessidade de recomposição da reserva matemática é evidente que a instituição financeira é quem deve ser responsabilizada pela recomposição da reserva. Trata-se da aplicação pura e simples do regramento da responsabilidade civil no direito brasileiro (art. 927 do CC/2002). (fls. 1282, e-STJ)
+Impugnação às fls. 1308-1350 e-STJ, pugnando pela aplicação da multa prevista no art. 1021, §4º, do CPC/15.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO APELO NOBRE DO PATROCINADOR.
+INSURGÊNCIA DO DEMANDANTE.
+1. "O patrocinador não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma" (Tema/Repetitivo 936/STJ).
+2. Agravo interno desprovido.
+VOTO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. O Tribunal local entendeu ser o Banco do Brasil parte legitima na presente demanda nos seguintes termos (fls. 931, e-STJ):
+O BB carece de legitimidade para responder pelo recálculo e revisão do benefício, assim como pelo pagamento deste, obrigações que recaem sobre a Previ.
+No entanto, tem legitimidade para responder pelo pagamento da cota patronal que lhe corresponde e sem a qual a autora não receberá o benefício ou, pelo menos, não o receberá integralmente.
+Há uma relação previdenciária comum à Previ, ao BB e à autora, com interdependência entre o direito deste e a obrigação dos outros dois, de tal sorte que o direito da autora ao pagamento do benefício pela Previ depende do recolhimento das cotas devidas pelo BB.
+Assinalo que predomina na Corte o entendimento sobre a legitimidade ad causam do Banco do Brasil para responder pelo pagamento da cota patronal, como se vê, dentre outros, dos seguintes acórdãos:
+1.185.139/Des. Angelo Passareli; 1.185.087/Des. Carlos Rodrigues;
+1.185.460/Des. Esdras Neves; 1.185.139/Des. Hector Valverde; 1.176.360/Des.
+Sebastião Coelho; 1.173.073/Desa Simone Lucindo;1.165.483/Des. José Divino;
+1.159.709/Des. Rômulo Araújo Mendes; 1.171.197/Des. Alfeu Machado;
+1.161.407/Sandra Reves; 1.160.387/Des. Sérgio Rocha. Os julgamentos ocorreram, todos, no ano de 2019.
+Há, portanto, intensa relação entre as demandas, o que autoriza sejam cumuladas no mesmo processo, respondendo cada um dos réus pelas respectivas obrigações, conforme acima especificado.
+Contudo, ao assim julgar, o acórdão recorrido não observou a jurisprudência desta Casa no sentido de que o patrocinador não tem legitimidade para compor a lide em litígios que envolvam participante/assistido e entidade fechada de previdência complementar e tal se dá porquanto o patrocinador e o fundo de pensão são dotados e personalidades jurídicas distintas.
+Tal entendimento, foi ratificado quando do julgamento do REsp 1.370.191/RJ, julgado sob o rito dos recursos repetitivos e recebeu a seguinte ementa:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. PREVIDÊNCIA COMPLEMENTAR. CONTRATO DE TRABALHO E CONTRATO DE PREVIDÊNCIA COMPLEMENTAR. VÍNCULOS CONTRATUAIS AUTÔNOMOS E DISTINTOS. DEMANDA TENDO POR OBJETO OBRIGAÇÃO CONTRATUAL PREVIDENCIÁRIA. LEGITIMIDADE DA PATROCINADORA, AO FUNDAMENTO DE TER O DEVER DE CUSTEAR DÉFICIT. DESCABIMENTO. ENTIDADES FECHADAS DE PREVIDÊNCIA COMPLEMENTAR.PERSONALIDADE JURÍDICA PRÓPRIA. EVENTUAL SUCUMBÊNCIA. CUSTEIO PELO FUNDO FORMADO PELO PLANO DE BENEFÍCIOS DE PREVIDÊNCIA PRIVADA, PERTENCENTE AOS PARTICIPANTES, ASSISTIDOS E DEMAIS BENEFICIÁRIOS.
+1. As teses a serem firmadas, para efeito do art. 1.036 do CPC/2015 (art. 543-C do CPC/1973), são as seguintes: I - O patrocinador não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma.
+II - Não se incluem, no âmbito da matéria afetada, as causas originadas de eventual ato ilícito, contratual ou extracontratual, praticado pelo patrocinador.
+2. No caso concreto, recurso especial não provido. (REsp 1.370.191/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/06/2018, DJe 01/08/2018)
+Posteriormente, a Segunda Seção desta Casa, reafirmou a ilegitimidade do Patrocinador para compor litígios que envolvam o participante e a entidade de previdência complementar, quando do julgamento dos EREsp nº 1.557.698/RS.
+Veja-se:
+EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. CIVIL. PREVIDÊNCIA PRIVADA. ADICIONAL DE HORAS EXTRAS. HABITUALIDADE. RECONHECIMENTO EM RECLAMAÇÃO TRABALHISTA. INTEGRAÇÃO NO CÁLCULO DO BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR. PREVISÃO DE CONTRIBUIÇÃO NO REGULAMENTO. VERBA DE NATUREZA SALARIAL. EQUILÍBRIO ATUARIAL E FONTE DE CUSTEIO. OBSERVÂNCIA. TESES EM RECURSO REPETITIVO.
+ENQUADRAMENTO.
+1. Cinge-se a controvérsia a saber se o valor das horas extras, reconhecidas em reclamação trabalhista, devem integrar o cálculo do benefício complementar de aposentadoria.
+2. O adicional de horas extras possui natureza salarial, mas, por ser transitório, não se incorpora em caráter definitivo à remuneração do empregado. Consoante a Súmula nº 291/TST, mesmo as horas extraordinárias prestadas habitualmente não integram o salário básico, devendo, se suprimidas, ser indenizadas.
+3. Em princípio, as horas extraordinárias não integram o cálculo da complementação de aposentadoria, à exceção daquelas pagas durante o contrato de trabalho e que compuseram a base de cálculo das contribuições do empregado à entidade de previdência privada, segundo norma do próprio plano de custeio. Exegese da OJ nº 18 da SBDI-I/TST.
+4. Admitir que o empregado contribua sobre horas extras que não serão integradas em sua complementação de aposentadoria geraria inaceitável desequilíbrio atuarial a favor do fundo de pensão.
+5. Apesar de não constar no Regulamento do Plano de Benefícios nº 1 da Previ a menção do adicional de horas extras como integrante da base de incidência da contribuição do participante, também não foi excluído expressamente, informando a própria entidade de previdência privada, em seu site na internet, que o Salário de Participação constitui a base de cálculo das contribuições e tem relação direta com a remuneração recebida mensalmente pelo participante, abrangendo, entre outras verbas, as horas extraordinárias (habituais ou não).
+6. Reconhecidos, pela Justiça do Trabalho, os valores devidos a título de horas extraordinárias e que compõem o cálculo do Salário de Participação e do Salário Real de Benefício, a influenciar a própria Complementação de Aposentadoria, deve haver a revisão da renda mensal inicial, com observância da fórmula definida no regulamento do fundo de pensão.
+7. Para a manutenção do equilíbrio econômico-atuarial do fundo previdenciário e em respeito à fonte de custeio, devem ser recolhidas as cotas patronal e do participante (art. 6º da Lei Complementar nº 108/2001), podendo essa última despesa ser compensada com valores a serem recebidos com a revisão do benefício complementar.
+8. Havendo apenas a contribuição do trabalhador, deve ser reduzido pela metade o resultado da integração do adicional de horas extras na suplementação de aposentadoria.
+9. Faculta-se ao autor verter as parcelas de custeio de responsabilidade do patrocinador, se pagas a menor, para recompor a reserva e poder receber o benefício integral, visto que não poderia demandá-lo na causa em virtude de sua ilegitimidade passiva ad causam.
+10. Como o obreiro não pode ser prejudicado por ato ilícito da empresa, deve ser assegurado o direito de ressarcimento pelo que despender a título de custeio da cota patronal, a ser buscado em demanda contra o empregador.
+11. Nos termos do art. 21 da Lei Complementar nº 109/2001, eventual resultado deficitário no plano poderá ser equacionado, entre outras alternativas, por meio de ação regressiva dirigida contra o terceiro que deu causa ao dano ou prejudicou a entidade de previdência complementar.
+12. A solução em nada obriga o ente de previdência complementar a fiscalizar o patrocinador a respeito de seus deveres trabalhistas, tampouco colocará em colapso o sistema de capitalização e o regime de custeio típicos do setor.
+13. Inexistência de afronta à autonomia existente entre o contrato de trabalho e o contrato de previdência complementar. Apreciação de aspectos tipicamente do direito previdenciário complementar, como a base de cálculo do benefício adquirido e a formação da fonte de custeio.
+14. Enquadramento nas teses repetitivas do Tema nº 955 (REsp nº 1.312.736/RS), na parte da modulação dos efeitos (art. 927, § 3º, do CPC/2015).
+15. Embargos de divergência conhecidos e providos. (EREsp 1557698/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+A propósito, os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ILEGITIMIDADE PASSIVA DO PATROCINADOR. REVISÃO DE BENEFÍCIO PREVIDÊNCIÁRIO. DECISÃO MANTIDA.
+1. "Com efeito, a orientação jurisprudencial desta Corte Superior é de que o patrocinador não possui legitimidade para figurar no polo passivo de demandas que envolvam participante e entidade de previdência privada, ainda mais se a controvérsia se referir ao plano de benefícios. Isso porque o patrocinador e o fundo de pensão são dotados de personalidades jurídicas próprias e patrimônios distintos, sendo o interesse daquele meramente econômico e não jurídico" (EREsp 1557698/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 22/08/2018, DJe 28/08/2018).
+2. Agravo interno a que se nega provimento. (AgInt no REsp 1905036/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/05/2021, DJe 17/05/2021)
+AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA.ILEGITIMIDADE DA PATROCINADORA. REFLEXO DE VERBA RECONHECIDA NA JUSTIÇA DO TRABALHO. OBRIGAÇÃO DE RECÁLCULO DO BENEFÍCIO CONDICIONADA À PRÉVIA E INTEGRAL RECOMPOSIÇÃO DA RESERVA MATEMÁTICA PELO PARTICIPANTE. PRINCÍPIO DA NÃO SURPRESA. VIOLAÇÃO NÃO DEMONSTRADA. ENUNCIADO 284 DA SÚMULA DO STF.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. O patrocinador não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma.(REsp 1370191/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/6/2018, DJe 1/8/2018)
+3. O Supremo Tribunal Federal, no julgamento do RE 1.265.564/SC, em repercussão geral, firmou o entendimento de que  compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada. Assim, eventual pretensão voltada à complementação da reserva matemática, ou indenização dos respectivos valores, haverá de ser dirigida contra o empregador, perante a Justiça do Trabalho.
+4. Ante a deficiência na motivação, aplica-se, por analogia, o óbice da Súmula 284 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1942900/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/02/2022, DJe 17/02/2022)
+É de rigor, portanto, a manutenção da decisão agravada.
+1.1. No que se refere ao pedido formulado pela parte agravada, a Segunda Seção desta Corte Superior firmou o entendimento de que a multa recursal prevista no art. 1.021, § 4º, do CPC/15 não decorre automaticamente do desprovimento do agravo interno, devendo ser verificado, em cada caso, o intuito protelatório.
+Confira-se, por oportuno, a ementa do julgado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido. (AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016)
+No mesmo sentido, precedentes desta Corte: EDcl no AgInt no AREsp 647.276/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 20/10/2017; EDcl no AgInt nos EDcl no REsp 1327956/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 24/10/2017.
+No caso em tela, não se verifica o intuito meramente protelatório do presente agravo interno, não havendo justificativa para imposição da sanção prevista no artigo 1.021, § 4º, do CPC/15.
+Desde já, entretanto, advirta-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
