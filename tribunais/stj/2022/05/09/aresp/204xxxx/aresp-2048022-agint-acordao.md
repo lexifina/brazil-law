@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Moura Ribeiro.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por José Pinto Monteiro Neto contra decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 972):
+AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. AÇÃO REVISIONAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. 2. AUSÊNCIA DE DEMONSTRAÇÃO DE VIOLAÇÃO AOS DISPOSITIVOS TIDOS COMO VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. 3. OFENSA À SÚMULA. INCIDÊNCIA DO ÓBICE DA SÚMULA 518/STJ. 4. RESTITUIÇÃO EM DOBRO E REVISÃO DOS HONORÁRIOS. FALTA DE PREQUESTIONAMENTO. 5. INCIDÊNCIA DO CDC. INSUFICIENTE PARA ALTERAR AS CONCLUSÕES ALCANÇADAS PELO TRIBUNAL DE ORIGEM. 6. TABELA PRICE. INCIDÊNCIA DA CAPITALIZAÇÃO DE JUROS. AFERIÇÃO. NECESSIDADE DE REVISÃO DAS CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO. 7. SISTEMA DE AMORTIZAÇÃO. SÚMULA 450/STJ. 8. AMORTIZAÇÃO DO SALDO DEVEDOR. ATUALIZAÇÃO PRÉVIA. SÚMULA 450/STJ. 9. REGISTRO DA CITAÇÃO DA RÉ. INDICAÇÃO DE OFENSA A DISPOSITIVO LEGAL INCAPAZ DE SUPORTAR A PRETENSÃO RECURSAL. 10. SALDO DEVEDOR RESIDUAL. SEM COBERTURA DO FCVS. RESPONSABILIDADE DO MUTUÁRIO. 11. CONSTITUCIONALIDADE DO DECRETO-LEI N. 70/1966 E LEGALIDADE DA TR. INCIDÊNCIA DA SÚMULA 83/STJ. 12. SEGURO OBRIGATÓRIO. FUNDAMENTO SUFICIENTE INATACADO. SÚMULA 283/STF. 13. PRÁTICA DE ANATOCISMO AFASTADA. SÚMULA 7/STJ. 14. DANOS MORAIS. NÃO OCORRÊNCIA. AUSÊNCIA DE IRREGULARIDADES POR PARTE DA AGRAVADA. 15. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões recursais (e-STJ, fls. 985-1004), sustenta o agravante que o órgão julgador se manifestou a respeito de todas as questões levantadas no apelo, devendo ser afastado os óbices das Súmulas 282 e 356/STF.
+Afirma a desnecessidade de reexame das provas, não incidindo o teor da Súmula n. 7/STJ.
+Pugna pelo afastamento do óbice da Súmula 284/STF, sob o argumento de que não há deficiência na fundamentação do recurso.
+Aponta a vedação à prática do anatocismo.
+Defende a aplicação do Código de Defesa do Consumidor ao contrato celebrado no âmbito do Sistema Financeiro da Habitação, por ser hipossuficiente e para corrigir, em parte, o desequilíbrio contratual existente.
+Aduz a necessidade de restituição, em dobro, do valor pago indevidamente, acrescido dos juros legais.
+Insurge-se contra a cobrança de seguro, por se tratar de venda casada.
+Busca a indenização por danos morais.
+Por fim, pleiteia a reforma da decisão agravada ou o encaminhamento do feito para julgamento pelo órgão colegiado.
+Impugnação às fls. 1.008-1.013 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. AÇÃO REVISIONAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. 2. RESTITUIÇÃO EM DOBRO. FALTA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS 282 E 356/STF.3. INCIDÊNCIA DO CDC. FUNDAMENTO INSUFICIENTE PARA ALTERAR AS CONCLUSÕES ALCANÇADAS PELO TRIBUNAL DE ORIGEM. 4. TABELA PRICE. INCIDÊNCIA DA CAPITALIZAÇÃO DE JUROS. AFERIÇÃO. NECESSIDADE DE REVISÃO DAS CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO. 5. SEGURO OBRIGATÓRIO. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. 6. DANOS MORAIS. NÃO OCORRÊNCIA. 7. AGRAVO INTERNO DESPROVIDO.
+1. No que se refere à alegada negativa de prestação jurisdicional, destaca-se que a parte agravantelimitou-se a defender genericamente a ocorrência de violação do art.535, II, do CPC/1973, sem especificar concretamente sobre quais questões teria a Corte de origem incorrido nos vícios de omissão, contradição ou obscuridade, de maneira que se revela inadmissível o recurso especial no ponto, ante a deficiência em sua fundamentação, conforme jurisprudência consolidada na Súmula 284 do Supremo Tribunal Federal, aplicada analogicamente pelo Superior Tribunal de Justiça.
+2. Em relação à devolução em dobro dos valores indevidamente cobrados, verifica-se que a questão não foi objeto de apreciação pelo Tribunal de origem. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada. Incidem, ao caso, as Súmulas 282 e 356/STF.
+3. Com relação à incidência do Código de Defesa do Consumidor, vale registrar que não basta o reconhecimento de que o contrato está submetido a esse diploma, para que se tenham por abusivas as cláusulas pactuadas, por simples alegação de onerosidade excessiva.
+4. No que se refere àTabela Price, nos termos da jurisprudência desta Corte Superior, há incidência das Súmulas n. 5 e 7/STJ para se analisar a matéria, pois a capitalização dos juros em contratos celebrados no âmbito do SFH não é admissível, e verificar a existência, ou não, do anatocismo com a aplicação da Tabela Price demandaria o reexame de provas e a análise do contrato.
+5. Atentando-se aos argumentos trazidos pela parte insurgente e aos fundamentos adotados pela Corte estadual quanto à subsistência da mora do devedor, ainda que afastada a cobrança dos valores devidos a título de seguro, verifica-se que estes não foram objeto de impugnação específica nas razões do recurso especial, atraindo a aplicação dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+6. Quanto à indenização por danos morais, o acórdão recorrido consignou que não foi demonstrada a existência de nenhuma irregularidade por parte da recorrida a justificar o dano extrapatrimonial.Portanto, incidem, igualmente, os óbices das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+7. Agravo interno a que se nega provimento.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Conforme consta da decisão agravada, no que se refere à alegada negativa de prestação jurisdicional, destaca-se que a parte agravante limitou-se a defender genericamente a ocorrência de violação do art.535, II, do CPC/1973, sem especificar concretamente sobre quais questões teria a Corte de origem incorrido nos vícios de omissão, contradição ou obscuridade, de maneira que se revela inadmissível o recurso especial no ponto, ante a deficiência em sua fundamentação, conforme jurisprudência consolidada na Súmula 284 do Supremo Tribunal Federal, aplicada analogicamente pelo Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A alegação de afronta ao art. 535 do CPC/73, vigente à época, de forma genérica, sem a efetiva demonstração de omissão do Tribunal a quo no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial ante a deficiência na fundamentação. Incidência da Súmula 284/STF.
+2. Acórdão recorrido em consonância com o entendimento desta Corte acerca da legitimidade passiva da demandada, a atrair a aplicação do disposto na Súmula 83/STJ. 2.1. Revisar as conclusões do órgão julgador acerca da legitimidade passiva, tal como pretende a recorrente, demandaria o revolvimento de fatos e provas, providência obstada pela Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1762391/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/05/2021, DJe 28/05/2021)
+Por outro lado, o recorrente alegou ofensa aos arts. "130, 247, 292, § 3º, 330, I, 333, 420, 421, 496, VI, do Código de Processo Civil de 1973; 421, 422, do Código Civil; 5º da Lei 4.380/1964; 19 do Decreto-Lei 21.991/1932; 20 do Código de Organização Judiciária", sem demonstrar como a violação teria ocorrido. Constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, novamente, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Em relação à devolução em dobro dos valores indevidamente cobrados, verifica-se que a questão não foi objeto de apreciação pelo Tribunal de origem. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem, ao caso, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+No tocante à incidência do Código de Defesa do Consumidor, vale registrar que não basta o reconhecimento de que o contrato está submetido a esse diploma, para que se tenham por abusivas as cláusulas pactuadas, por simples alegação de onerosidade excessiva.
+Veja-se trecho do acórdão recorrido (e-STJ, fl. 615):
+Não é possível concluir que, apenas por se cuidar de contrato de adesão, suas cláusulas são necessariamente leoninas; tampouco se pode considerar que o reajustamento das prestações e do saldo devedor caracterize, genericamente, onerosidade excessiva, a ensejar a aplicação da Teoria da Imprevisão.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SFH. CDC.APLICAÇÃO. IMPERTINÊNCIA. REPETIÇÃO EM DOBRO. MÁ-FÉ. NÃO OCORRÊNCIA.TABELA PRICE, SEGURO, PRESTAÇÕES E SALDO DEVEDOR. SÚMULA N. 7/STJ.IMPUGNAÇÃO GENÉRICA. PES E CES. FUNDAMENTO INATACADO. DECISÃO MANTIDA.
+1. Conforme a jurisprudência do STJ, não basta o reconhecimento de que o contrato está submetido ao CDC para ter por abusivas as cláusulas pactuadas. A incidência da legislação consumerista não altera o desfecho conferido ao caso.
+2. A devolução em dobro dos valores pagos pelo consumidor pressupõe a existência de pagamento indevido e a má-fé do credor, consoante o entendimento desta Corte. Na presente causa, não ficou evidenciada a má-fé.
+3. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ. 4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+5.  ..  6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.502.471/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/10/2019, DJe 05/11/2019)
+No que se refere à incidência da Tabela Price, nos termos da jurisprudência desta Corte Superior, há incidência das Súmulas n. 5 e 7/STJ para se analisar a matéria, pois a capitalização dos juros em contratos celebrados no âmbito do SFH não é admissível, e verificar a existência, ou não, do anatocismo com a aplicação da Tabela Price demandaria o reexame de provas e a análise do contrato.
+Confira-se o seguinte precedente:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. AÇÃO REVISIONAL. JULGAMENTO ANTECIPADO DA LIDE. POSSIBILIDADE. CERCEAMENTO DE DEFESA. AFASTAMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. TABELA PRICE. CAPITALIZAÇÃO DE JUROS. DEVOLUÇÃO EM DOBRO. MÁ-FÉ. NÃO OCORRÊNCIA. TUTELA ANTECIPADA. REQUISITOS. SUCUMBÊNCIA. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ.
+1. É possível o julgamento antecipado da lide quando as instâncias ordinárias entenderem substancialmente instruído o feito, declarando a existência de provas suficientes para o seu convencimento (art.
+130 do CPC/1973).
+2. Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 282/STF.
+3. Quando as conclusões da Corte de origem resultam da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda, não há como rever o posicionamento em virtude da aplicação da Súmula nº 7/STJ.
+4. Nos termos da jurisprudência desta Corte, não cabe ao STJ aferir se há capitalização de juros com a utilização da Tabela Price, por força das Súmulas nºs 5 e 7/STJ. Precedente.
+5. A devolução em dobro dos valores pagos a maior pelo mutuário somente é cabível em caso de demonstrada má-fé, o que não foi comprovado na hipótese dos autos. Precedentes.
+6. A verificação dos requisitos necessários para o deferimento do pedido de antecipação dos efeitos da tutela demanda o reexame de matéria de fato, o que não é cabível no âmbito do recurso especial (Súmula nº 7/STJ).
+7. A revisão do grau de sucumbência em que autor e réu saíram vencidos na demanda exige o reexame do conteúdo fático-probatório.
+Incidência da Súmula nº 7/STJ.
+8. Agravo regimental não provido.
+(AgRg no AREsp 811.596/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 5/5/2016, DJe 17/5/2016, sem grifo no original)
+Quanto ao seguro obrigatório, consta do acórdão recorrido (e-STJ, fl. 614, sem grifo no original):
+Com relação ao seguro, embora não se desconheça que o Superior Tribunal de Justiça, ao editar o enunciado sumular de nº 473, consolidou entendimento no sentido de que "o mutuário do SFH não pode ser compelido a contratar seguro obrigatório com a instituição financeira mutuante ou com a seguradora por ela indicada", o que se verifica é que eventual reconhecimento da nulidade de cláusula contratual em sentido contrário não teria qualquer repercussão na presente hipótese, pois, ainda que afastada a cobrança dos valores devidos a título de seguro, subsistiria a mora do devedor, restando mantida, ainda assim, a legitimidade da CEF para deflagrar os atos de execução extrajudicial que culminaram na arrematação do imóvel pelo credor.
+Nesse contexto, atentando-se aos argumentos trazidos pela parte insurgente e aos fundamentos (acima destacados) adotados pela Corte estadual, verifica-se que estes não foram objeto de impugnação específica nas razões do recurso especial. Assim, a manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+Por fim, o acórdão recorrido consignou que não foi demonstrada a existência de nenhuma irregularidade por parte da recorrida a justificar o dano extrapatrimonial (e-STJ, fl. 618).
+Em face disso, incidem, igualmente, os óbices das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. REPETIÇÃO EM DOBRO. MÁ-FÉ. NÃO OCORRÊNCIA.VENDA CASADA. DANO MORAL. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A devolução em dobro dos valores pagos pelo consumidor pressupõe a existência de pagamento indevido e a má-fé do credor. Precedentes.
+4. Na hipótese, rever o entendimento das instâncias ordinárias, para reconhecer a comprovação da venda casada e do dano moral, demandaria a incursão nos fatos e nas provas dos autos por esta Corte, providência vedada em recurso especial em virtude a incidência da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1483449/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/11/2021, DJe 22/11/2021)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
