@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesasolicita que se proceda à citação de S. F. D.para apresentar contestação nos autos do Processo Comum (tribunal Singular) n. 1035/18.2TELSB, em trâmite no Tribunal Judicial da Comarca do Porto - Juízo Local Criminal do Porto - Juiz 8 (fls. 5-10).
+A intimação prévia foi recebida por terceira pessoa, que entregou à parte interessada a comunicação judicial em 12 de março de 2002, conforme petitório de fls. 34-36.
+Entretanto, a parte interessada, representada por advogado constituído,requereu que "seja declarado nulo e de nenhum efeito o ato de notificação da carta rogatória em tela, procedendo-se a nova notificação que, desta feita, permita ao notificando exercer o seu direito a impugnar aquele instrumento de cooperação judiciária penal internacional, o que se deseja fazer e para o que, na perspectiva do requerente existe matéria para tal."
+O Ministério Público Federal entendeu quea comissão foi cumprida, considerando a manifestação espontânea da parte interessada, devidamente representadapor advogadoconstituído, sendo desnecessária a remessa dos autos à Justiça Federal (fls. 46-47), citando a pacífica jurisprudência do Superior Tribunal de Justiça.
+É, no essencial, o relatório. Decido.
+Não obstanteos argumentos apresentados pela defesa, entendo inexistir qualquer nulidade no ato de notificação, em especial, por ter sido eficaz para dar ao interessado conhecimento pleno do procedimento existente na justiça de origem. Ademais, a contestação deverá ser formalizada no processo originário, uma vez que neste Tribunal é feito um mero juízo de delibação.
+Importante ressaltar que o objetivo da presente rogatória limita-se ao ato de dar conhecimento ao interessado sobre o processo existente no juízo de origem para que, querendo, apresente lá a sua contestação.
+Assim, constato que o objeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Ante o exposto, considerodevidamente cumprida a comissão, conforme atesta o documento de fls. 34-36 edetermino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) por intermédio da autoridade central, independentemente do trânsito em julgado.
+Publique-se.
