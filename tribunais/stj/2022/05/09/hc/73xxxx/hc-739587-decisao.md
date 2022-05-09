@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de GABRIEL AUGUSTO FIDELIS VAZ DE LIMA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que deu provimento ao agravo em execução ministerial, para cassar a r. decisão de primeiro grau e determinar à submissão do agravado a exame criminológico, para fins de progressão ao regime intermediário, devendo o MM., devendo o Juizo de primeiro grau proferir nova decisão após sua realização(e-STJ, fl. 11).
+Neste writ, aimpetrante pleiteia, em suma,a concessão da ordem, inclusive liminarmente, "para que o paciente seja recolocado em regime aberto até o julgamento do presente writ, uma vez que presentes o fumus boni iuris, diante da afronta aoartigo 112 da Lei de Execução Penal; e o periculum in mora, pois a restou regredido ao regime fechado quando satisfeitos os requisitos legais para sua permanência em regime intermediário"(e-STJ, fl. 10).
+É o relatório.
+Decido.
+Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo à parte apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+In casu, verifica-se que os autos não foram instruídos com cópia do inteiro teor do acórdão atacado, peça imprescindível para análise do presente habeas corpus, o que inviabiliza o conhecimento da impetração.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA; PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. WRIT INDEFERIDO LIMINARMENTE. AUSÊNCIA DE PEÇAS ESSENCIAIS. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (HC n. 317.882/RJ, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 18/8/2015, DJe 31/8/2015).
+2. No caso, em que pese as quase 1000 laudas apresentadas pela defesa no ato da impetração, os autos não foram instruídos com as peças processuais indispensáveis à compreensão da controvérsia, para aferição do alegado pela defesa, notadamente o inteiro teor do acórdão impugnado.
+3. De fato, o documento juntado pela defesa, quando da impetração do presente writ, é um acórdão de um habeas corpus que tem como paciente o ora recorrente. Contudo, não se trata do acórdão contra o qual essa impetração se insurge. Equivocou-se a defesa ao se insurgir contra o HC 2268914-40.2019.8.26.0000 e apresentar cópia do HC 2153843-87.2019.8.26.0000. Naquele, discutiu-se a aplicação do entendimento da Súmula Vinculante nº 14 do STF nas interceptações telefônicas realizadas, enquanto neste, o excesso de prazo e a fundamentação do decreto prisional.
+4. Inviável, por certo, o exame de eventual constrangimento ilegal tendo como ato coator o acórdão não apresentado pela defesa. É ônus do impetrante instruir o habeas corpus com as peças essenciais ao deslinde da controvérsia no ato da impetração, máxime tratando-se, como se trata, de ação mandamental promovida por advogado constituído.
+5. Agravo não provido."
+(AgRg no HC 583.236/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/06/2020, DJe 25/06/2020)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. LEI DE LICITAÇÕES. TRANCAMENTO DA AÇÃO PENAL. CÓPIA DE DECISÃO PROFERIDA PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA. INSTRUÇÃO DEFICIENTE.
+1. Os autos não foram instruídos suficientemente com cópia do inteiro teor do acórdão impugnado (relatório, ementa, voto), folha de antecedentes criminais, entre outros documentos indispensáveis para a cognição da pretensão, os quais foram proferidos pelas instâncias ordinárias, razão pela qual não há como verificar a verossimilhança das alegações.
+2. Agravo regimental improvido."
+(AgRg no HC 656.428/PB, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021)
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
