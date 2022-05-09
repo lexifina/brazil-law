@@ -1,0 +1,44 @@
+AGRAVO DE INSTRUMENTO N.o 1003293-12.2022.8.11.0000 – COMARCA DE PARANATINGA/MT.
+Agravantes: Silvio Alves Bernardo
+Agravado: Ministério Público
+Vistos.
+Trata-se de recurso de agravo de instrumento interposto por Silvio Alves Bernardo contra decisão proferida pelo Juízo da 2a Vara da Comarca de Paranatinga/MT que, nos autos da Ação Civil Pública n. 1002139-55.2021.8.11.0044 proposta em desfavor do agravante e outras, deferiu parcialmente o pedido de antecipação dos efeitos da tutela para determinar que o demandado:
+“a) Se abstenha de desmatar ou proceder quaisquer alterações nas vegetações nativas sem autorização prévia da autoridade competente, bem como não utilize as áreas de preservação permanente ou de reserva legal remanescentes, sob pena de ser fixada multa por ato atentatório à dignidade da justiça (art. 77, inciso IV, do CPC); e
+b) Acoste aos autos, no prazo de 90 (noventa) dias, o Programa de Recomposição de Áreas Degradadas e Alteradas (PRADA), com as adequações eventualmente indicadas pela SEMMA, sob pena de incorrer em multa diária de R$ 1.000,00 (um mil reais);
+Inconformado, o agravante busca a reforma da decisão, aduzindo, em síntese, que se trata de pequeno produtor rural atuando em regime de atividade familiar e que suas condutas são regulares, visto que o suposto desmatamento não passa de mera limpeza de pastagem. Destaca que a conduta ocorreu em área consolidada, não em reserva legal, como suposto pelo órgão ministerial, de sorte que inexiste dano ambiental a ser apurado.
+Afirma que não se fazem presentes os pressupostos de mister à concessão da tutela de urgência postulada pelo Ministério Público, sobretudo ao se ter em vista que o auto de infração ainda não é definitivo, tendo em vista que o procedimento administrativo ambiental sequer foi concluído.
+Com fulcro em tais argumentos, pugna liminarmente pela atribuição de efeito suspensivo ao recurso, a fim de determinar o sobrestamento da decisão agravada. No mérito, vindica o provimento do recurso para cassar a decisão combatida. Ao fim, postula a concessão dos benefícios da justiça gratuita.
+É o relatório.
+Decido.
+Preliminarmente, defiro o pedido de assistência judiciária gratuita.
+Preenchidos os pressupostos de admissibilidade recursal, conheço do vertente agravo de instrumento.
+Do exame do acervo coligido observo que restaram preenchidos, nesta quadra de cognição sumária, os requisitos próprios à concessão da tutela de urgência reclamada, i. e., o fumus boni iuris e o periculum in mora, impondo-se, portanto, antecipar, embora parcialmente, os efeitos da tutela recursal.
+De início, cumpre assinalar que fogem do espectro deste agravo de instrumento os argumentos a firmarem a inexistência de dano e a regularidade das operações exercidas pela recorrente. Isso porque a discussão acerca da autoria do suposto ilícito e da (i)legitimidade da atuação do agravante demanda um acurado exame do conjunto fático-probatório, a ser produzido durante a regular instrução processual, hábil a definir as circunstâncias pormenorizadas inerentes à temática, e, por isso mesmo, o arrazoado vertido na insurgência não comporta exame nesta via estreita do pedido liminar, de modo que o local apropriado para esse tipo de análise vem de ser a ação de conhecimento, em que ao réu será assegurado o efetivo contraditório.
+Eis o teor da decisão agravada, nos pontos em que fundamenta as medidas ora atacadas:
+“(...)
+Tratam-se os presentes autos de ação civil pública com pedido de obrigação de fazer e antecipação dos efeitos da tutela ajuizada pelo MINISTÉIRO PÚBLICO ESTADUAL em face de SILVANO ALVES BERNARDO, ambos devidamente qualificados nos autos.
+Em apertada síntese, narra o parquet que por intermédio do Auto de Infração n° 201332273, lavrado pela Secretaria de Estado de Meio Ambiente – SEMA/MT, foi noticiada a ocorrência de desmatamento ilegal, a corte raso, em 23,91 hectares de vegetação nativa tipologia FLORESTA em área objeto de especial preservação praticada no período de 2019 a 2020. A área desmatada ilegalmente foi objeto de embargo/interdição pelo auto n. 201341869 lavrado em 05/11/2020.
+Nesse sentido, pugna pela concessão de tutela de urgência para o fim de determinar à requerida que (i) não explore economicamente as áreas passíveis de uso desmatadas sem autorização do órgão ambiental até que haja a validação das informações do Cadastro Ambiental Rural; (ii) não realize o uso produtivo da área irregularmente desmatada; (iii) promova a recuperação da área degradada ou alterada, mediante a execução de Projeto de Recuperação de Áreas Degradadas ou Alteradas (PRADA); (iv) corrija, complemente, sele e cuide dos indivíduos arbóreos; (v) se abstenha de promover novos desmatamentos não autorizados e manter todas as suas atividades poluidoras ou potencialmente poluidoras devidamente licenciadas.
+Além disso, ainda em sede liminar, pleiteia o Ministério Público pela expedição de ofício a ANOREG solicitando informações sobre a matrícula do imóvel objetado nos autos e, obtido seu número, seja determinada a averbação da ação, as quais se associam ao imóvel em comento, bem como pela decretação de indisponibilidade de bens do requerido até o valor R$ 123.666,78 (cento e vinte e três mil, seiscentos e sessenta e seis reais e setenta e oito centavos).
+Com a exordial aportou documentos pessoais, fotografias, entre outros.
+(...)
+I.2 – Da apresentação de Plano de Recomposição da Área Degradada e Alterada (PRADA)
+Por outro lado, considerando os princípios da precaução e prevenção que regem o direito ambiental, como balizadores das atividades humanas que interfiram no meio ambiente, de modo a antecipar à ocorrência de danos e agressões ambientais, muitos dos quais irreversíveis ao meio ambiente, se mostra necessária a adoção de outras medidas acautelatórias que eliminem ou minimizem os danos, diversos da paralisação das atividades econômicas da empresa.
+Quanto ao pedido de apresentação de plano de recuperação da área através de execução do Plano de Recuperação de Área Degradada – PRAD, esta se mostra medida imperiosa cuja justificativa encontra-se na patente comprovação da degradação perpetrada à época dos fatos.
+A jurisprudência sobre o assunto é no sentido acima exposto, conforme tem decidido o Egrégio Tribunal de Justiça deste Estado:
+(...)
+Desta feita, comprovada a ocorrência do dano ambiental pelo desmatamento, por intermédio de fiscalização realizada pela SEMA, o reflorestamento via elaboração do plano de recuperação de área degradada é medida impositiva.
+Urge salientar que, muito embora nesta fase a suspensão das atividades no local seja excessiva ao caso concreto, bem como suficientes, a priori ̧ as demais medidas acautelatórias, caso estas não surtem efeitos de proteção esperados, será considerado satisfeito o peliculum in mora para também deferir o pedido de suspensão das atividades agropecuária da requerida.
+Diante do exposto, presentes os requisitos do artigo 300, do Código de Processo Civil, defiro parcialmente a tutela de urgência vindicada neste ponto.
+III – DA DEMAIS DISPOSIÇÕES
+Desta feita, defiro parcialmente a antecipação dos efeitos da tutela e determino ao requerido que:
+a) Se abstenha de desmatar ou proceder quaisquer alterações nas vegetações nativas sem autorização prévia da autoridade competente, bem como não utilize as áreas de preservação permanente ou de reserva legal remanescentes, sob pena de ser fixada multa por ato atentatório à dignidade da justiça (art. 77, inciso IV, do CPC);
+b) Acoste aos autos, no prazo de 90 (noventa) dias, o Programa de Recomposição de Áreas Degradadas e Alteradas (PRADA), com as adequações eventualmente indicadas pela SEMMA, sob pena de incorrer em multa diária de R$ 1.000,00 (um mil reais)” (sic).
+Em relação ao item “a”, decorre de lei o dever de abstenção de práticas ilícitas em desfavor do meio ambiente, móvel por que o agravante já se submete à aludida proibição. Tal como por ele próprio confessado nas razões do agravo, não houve declaração da prática investigada ao órgão ambiental, de modo que se revela prudente vedar novas incursões sem prévia observância da legislação de regência.
+De outro lado, a imposição de ordem com vistas à imediata elaboração do PRADA ostenta natureza inteiramente satisfativa, de modo que o acolhimento da medida atrela-se à própria discussão sobre a presença ou não dos elementos conformadores da responsabilidade civil ambiental (conduta, dano e nexo causal), sendo, pois, irreversível.
+Nessa perspectiva, sem prejuízo de ulterior análise pelo colegiado quando do enfrentamento do mérito deste recurso, defiro parcialmente o pedido liminar para atribuir efeito suspensivo ao agravo e sobrestar tão somente os itens “b” (apresentação de PRADA) da decisão agravada.
+Intime-se o agravado para contraminutar o recurso.
+Após, sejam os autos à Procuradoria-Geral de Justiça.
+Cuiabá, 06 de maio de 2022.
+Alexandre Elias Filho
+Relator Convocado
