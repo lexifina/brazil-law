@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. POLICIAL MILITAR. PROMOÇÃO. PREENCHIMENTO DE REQUISITO TEMPORAL E APROVAÇÃO NA AVALIAÇÃO DE DESEMPENHO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚM. N. 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão a quodeclarou que o recorrente não preencheutodos os requisitos legais para ser promovido. O transcurso de tempo, por si só, não é suficiente para garantir a ascensãona carreira, mas também que o servidor seja aprovado em avaliação de desempenho e que ocupe cada nível por um período mínimo de tempo prestando serviço. No caso, o recorrente permaneceu aposentado por invalidez que o impediu de preencher esses requisitos.
+2. Esses fundamentos do acórdão a quonão foram impugnados no recurso ordinário em mandado de segurança. Aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por WELLINGTON MAGALHAES DE SOUZAcontra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. POLICIAL MILITAR. PROMOÇÃO. PREENCHIMENTO DE REQUISITO TEMPORAL E APROVAÇÃO NA AVALIAÇÃO DE DESEMPENHO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚM. N. 283/STF. RECURSO ORDINÁRIO NÃO CONHECIDO.
+No presente recurso, o agravante defende que é agente de polícia de ser enquadrado na classe especial de sua categoria. Isso por defender mais de 20 anos de serviço na Secretaria de Segurança. Defendeu em síntese, que:
+Portanto, é indiscutível que o Recurso Ordinário interposto contrapôs os argumentos da decisão que denegou a segurança, esclarecendo que a presente demanda não diz respeito a requisitos de promoção e sim ao rebaixamento ilegal em consequência do apostilamento do Estado, bemcomo a necessidade do Réumanter um plano de carreira, sendo inviável a manutenção na classe inicial da carreira por mais de 20 (vinte) anos.
+Impugnação às e-STJ fls. 470/471.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. POLICIAL MILITAR. PROMOÇÃO. PREENCHIMENTO DE REQUISITO TEMPORAL E APROVAÇÃO NA AVALIAÇÃO DE DESEMPENHO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚM. N. 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão a quodeclarou que o recorrente não preencheutodos os requisitos legais para ser promovido. O transcurso de tempo, por si só, não é suficiente para garantir a ascensãona carreira, mas também que o servidor seja aprovado em avaliação de desempenho e que ocupe cada nível por um período mínimo de tempo prestando serviço. No caso, o recorrente permaneceu aposentado por invalidez que o impediu de preencher esses requisitos.
+2. Esses fundamentos do acórdão a quonão foram impugnados no recurso ordinário em mandado de segurança. Aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF.
+3. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+O acórdão a quo declarou que o recorrente não preencheu todos os requisitos legais para ser promovido. O transcurso de tempo, por si só, não é suficiente para garantir a ascensão na carreira, mas também que o servidor seja aprovado em avaliação de desempenho e que ocupe cada nível por um período mínimo de tempo prestando serviço. No caso, o recorrente permaneceu aposentado por invalidez que o impediu de preencher esses requisitos.Confira-se:
+A opção pela via do mandado de segurança oferece aos impetrantes o bônus da maior celeridade processual e da prioridade na tramitação em relação às ações ordinárias, porém, essa opção cobra o preço da prévia, cabal e incontestável demonstração dos fatos alegados, mediante prova documental idônea, a ser apresentada desde logo com a inicial, evidenciando a liquidez e certeza do direito afirmado.
+Tem-se que o thema decidendum gravita em torno no suposto direito do impetrante à promoção na carreira, notadamente ao grau mais alto do cargo de investigador de polícia, qual seja, a classe especial. Analisando a legislação aplicável à hipótese deve-se consignar que a Lei Orgânica da Polícia Civil do Estado da Bahia, nº 11.370/09, estabelece como critérios para a promoção, a aprovação na avaliação de desempenho anual e a permanência por seis anos ininterruptos em efetivo exercício na classe em que estiver posicionado, ex vi:
+ ..
+Da leitura da exordial se depreende que, conquanto o requerente tenha efetivamente ingressado nos quadros da polícia civil no ano de 1998 (ID. 1739154), foi aposentado por invalidez em2004. Registre-se, por oportuno, que dentre os documentos colacionados pelo impetrante, não consta prova pré-constituída de que entre os anos de 1998 e 2004 tenha sido publicado edital de promoção ou tenha havido sua habilitação e omissão da Administração Pública nesse sentido, embora a priori o mesmo revelasse condições de preencher os requisitos legais.
+ ..
+De fato, é incontroverso nos autos que o requerente esteve aposentado por invalidez durante o período compreendido entre 22.06.2004 e 01.07.2013, tempo em que, por óbvio, o demandante não esteve em efetivo exercício, descumprindo, portanto, o comando do inciso II do artigo 66 supratranscrito. A lei da carreira é clara, ainda, quanto a impossibilidade de promoção de servidor que não esteja em efetivo exercício na carreira ou albergado por uma das hipóteses excepcionais trazidas pelo Estatuto, que não é o caso do impetrante.
+ ..
+Nesse particular, registre, ainda, que o próprio Estatuto esclarece a forma de contagem do prazo constante do inciso II do artigo 66, para os servidores que tiveram o exercício do cargo interrompido, como é o caso do impetrante:
+ ..
+Assim, tendo havido a reversão da aposentadoria do servidor, nos termos dos artigos34 a 36 da Lei nº 6.677/94, apenas após essa data é possível voltar a aferir o cumprimento dos requisitos legais necessários à ascensão na carreira. Destaque-se que a Corte Estadual de Justiça vem entendendo pela imprescindibilidade do implemento do requisito temporal para fins de promoção, ad litteram:
+Com efeito, a fundamentação em destaque não foi impugnada de modo adequado no presente recurso. Nesse norte, observa-se o descumprimento do princípio da dialeticidade, o qualobriga a parte que recorre impugnar, especificamente, os fundamentos do acórdão que objurga, contrapondo-se às razões de decidir já expressadas (cf. AgRg no RMS 43.815/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 27/05/2016; AgRg no RMS 49.108/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 16/05/2016; AgRg no RMS 33.347/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 12/05/2016).
+Aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF. A corroborar esse entendimento:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. SUJEIÇÃO PASSIVA. LEGITIMIDADE ATIVA. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE. ACÓRDÃO COMBATIDO. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA.
+(..)
+3. Havendo fundamentos do acórdão recorrido não impugnados (a inoponibilidade ao fisco dos ajustes particulares; a necessidade de anuência do credor para que terceiro assuma a dívida tributária), atrai-se a incidência do óbice das Súmulas 283 e 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1568526/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 15/03/2021, DJe 23/03/2021)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. ALEGADO CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PRODUÇÃO DE PROVA TESTEMUNHAL. PRINCÍPIO DA PERSUASÃO RACIONAL. ACIDENTE DE TRÂNSITO. CULPA EXCLUSIVA DA VÍTIMA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DE FUNDAMENTO DO ACÓRDÃO COMBATIDO, SUFICIENTE PARA A SUA MANUTENÇÃO. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+IV. Segundo a jurisprudência do STJ, "é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia)"(STJ, AgRg no REsp 1.554.761/RO, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 22/03/2016).
+(..)
+VI. Agravo interno improvido.
+(AgInt no AREsp 1802174/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 26/04/2021, DJe 28/04/2021)
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
