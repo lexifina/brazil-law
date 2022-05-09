@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/05/2022 a 09/05/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+1. Trata-se de agravo interno interposto por CLUBE ESTANCIA MIRIM em face de decisão da minha lavra, assim sintetizada:
+RECURSO ESPECIAL. DIREITO CIVIL. ASSOCIAÇÃO DE MORADORES. TAXA. ANUÊNCIA TÁCITA. AUSÊNCIA DE COMPROVAÇÃO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO. ARTS. 212, II, 217 E 225 DO CÓDIGO CIVIL E 374,II,III E IV, DO CÓDIGO DE PROCESSO CIVIL. RECURSO ESPECIAL NÃO CONHECIDO.
+Opostos embargos de declaração em face de tal decisão, foram rejeitados.
+A parte agravante sustenta que as provas encartadas pelo agravante foram ignoradas em primeiro e segundo grau e, agora, por esta Excelsa Corte Superior, sendo necessária a correta valoração das provas por este Órgão Colegiado.
+Defende que as questões foram devidamente prequestionadas porque suscitadas por meio de embargos de declaração opostos na origem, apontandoelementos relativos ao documento com força de prova plena (Memorial Descritivo e Contrato Padrão registrado no Oficial de Registro de Imóveis), cuja existência foi ignorada pelo Tribunal a quo, acarretando na formação de uma convicção equivocada e, consequentemente, no erro de julgamento.
+Alega apenas objetivar a valoração adequada de provas cuja existência foi ignorada nas instâncias inferiores, conforme apontado nos embargos de declaração, o qual foi rejeitado monocraticamente.
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM RECURSO ESPECIAL. ASSOCIAÇÃO DE MORADORES. ARTS.212, II, 217 E 225 DO CÓDIGO CIVIL E 374,II,III E IV, DO CÓDIGO DE PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ.
+1. Prequestionamento se configura apenas se extraídodo acórdão recorrido pronunciamento sobre a tese jurídica em torno do dispositivo legal tido por violado.
+2. EstaCorte de Justiça não reconhece o prequestionamento pela simples oposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Inviabilidade de alterar a conclusão do tribunal de origem no sentido de quenão existiu adesão tácita dos adquirentes à associação de moradores, já que não há prova de que o vínculo associativo foi estabelecido em contrato padrão registrado perante a matrícula do loteamento. Incidência da súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+2. Ostemas insertos nos arts. 212, II, 217 e 225 do Código Civil e 374,II,III e IV, do Código de Processo Civil não foramobjeto de debate no acórdão recorrido.
+Verifica-se que genericamente questões relativas a documentos comprobatórios até foram suscitadas por meio dos embargos de declaração opostos em face do aresto de julgamento da apelação.
+Entretanto, o tribunal de origem deixou de analisar a questão epor meio do recurso especial não fora suscitada violação ao art. 1.022 do CPC para eventual reconhecimento de negativa de prestação jurisdicional.
+Certo, assim, é que não houve debate de tais dispositivos pelo tribunal de origem.
+Nessa esteira, para que se configure o prequestionamento a respeito de matéria ventilada em recurso especial, há que se extrair do acórdão recorrido pronunciamento sobre a tese jurídica em torno do dispositivo legal tido por violado, a fim de que se possa, na instância especial, abrir discussão sobre a questão de direito, definindo-se, por conseguinte, àcorreta interpretação da legislação federal.
+Ressalta-se, ainda, que a Súmula n. 282/STF é aplicada de forma analógica no âmbito do STJ e que esta Corte de Justiça não reconhece o prequestionamento pela simples oposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento. Incide, portanto, quanto à matéria em mote, o óbice da Súmula n. 282 do STF.
+Por oportuno, leiam-se estes julgados:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE COBERTURA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. DANO MORAL. CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 504.841/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. IMPENHORABILIDADE DE IMÓVEL. BEM PROFISSIONAL. EXCEPCIONALIDADE DA CONSTRIÇÃO JUDICIAL. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO, COM APLICAÇÃO DE MULTA.
+1. Não há falar em violação dos arts. 458, II, e 535, II, do Código de Processo Civil pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+3. De acordo com a jurisprudência desta Corte, é possível a penhora em caráter excepcional de imóvel comercial, no qual se localiza empresa do executado, desde que não seja utilizado para a residência de sua família e não haja outros bens livres e desembaraçados, passíveis de serem constritos. (REsp 1.114.767/RS, Rel. Ministro LUIZ FUX, CORTE ESPECIAL, DJe 04/02/2010).
+4. Agravo regimental não provido, com aplicação de multa.
+(AgRg no AREsp 490.801/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/09/2014, DJe 17/09/2014)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUPOSTA OFENSA AOS ARTS. 475 E 730 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. TRIBUTÁRIO. CONTRIBUIÇÃO DO PLANO DE SEGURIDADE DO SERVIDOR PÚBLICO (PSS). RETENÇÃO. VALORES PAGOS EM CUMPRIMENTO DE DECISÃO JUDICIAL. INEXIGIBILIDADE DA CONTRIBUIÇÃO SOBRE PROVENTOS E PENSÕES MILITARES.
+1. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, sobre a qual nem sequer foram apresentados embargos de declaração, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+2. Após a vigência da EC 18/98, não há mais dúvida de que os militares não se caracterizam como servidores públicos, de modo que estão sujeitos a um regime jurídico próprio (dos militares). Como bem explica Lucas Rocha Furtado, "os militares são agentes públicos, mas não pertencem à categoria dos servidores públicos". Ressalte-se que "o regime a que se submetem os militares não se confunde com aquele aplicável aos servidores civis, visto que têm direitos, garantias, prerrogativas e impedimentos próprios" (RE 551.531/MG, Tribunal Pleno, Rel. Min. Ricardo Lewandowski, DJe de 27.6.2008).
+3. A análise da legislação de regência autoriza conclusão no sentido de que a distinção de regimes entre os servidores públicos civis e os militares alcança o plano previdenciário, bem como as respectivas contribuições. Em se tratando de sistemas com regras diferenciadas, não é possível impor a retenção de contribuição ao PSS, na forma do art. 16-A da Lei 10.887/2004, sobre proventos ou pensões militares, em razão da ausência de previsão legal específica.
+4. Recurso especial parcialmente conhecido e, nessa parte, não provido. (REsp 1369575/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/12/2014, DJe 19/12/2014)
+3.De outra parte, o tribunal de origem decidiu, sobre a comprovação do vínculo das partes com o contrato padrão do loteamento, quenão existiuadesão tácita dos adquirentes à associação de moradores, já que não há prova de que o vínculo associativo foi estabelecido em contrato padrão registrado perante a matrícula do loteamento.
+Alterar tal conclusão, para passar a afirmar existir nos autos documentos encartados pelo recorrente que constituem provas plenas a atestarem a obrigação de pagamento do rateio das despesas de manutenção do Clube Estância Mirim,demanda incursão na seara fático-probatória,atividade não realizável nesta via especial. Incidência da súmula 7/STJ.
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
