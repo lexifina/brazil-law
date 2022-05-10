@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental de Marco Antonio Pereira Viana contra a decisão monocrática, de minha lavra, na qual conheci do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, conforme os termos da seguinte ementa (fl. 2.741):
+PENAL E PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃODO ART. 33 DA LEI N. 11.343/2006. PLEITO DESCLASSIFICATÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. ART. 33, § 4º, DA LEI N. 11.343/2006. CAUSA DE DIMINUIÇÃO DA PENA. NECESSIDADE DO REEXAME DE PROVAS. SÚMULA 7/STJ. REGIME INICIAL. ART. 33, § 3º, DO CP. UTILIZAÇÃO DE FUNDAMENTAÇÃO CONCRETA. PRECEDENTE.
+Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+O agravante alega, em síntese, que a Súmula 7/STJ não incide no ponto relativo à contrariedade do art. 33, caput e § 4º,da Lei n. 11.343/2006.
+Sustenta que o regime inicial não pode ser fixado no mais gravoso, pois não integra organização criminosa, não tendo sido imputado o delito de associação para o tráfico. Nesse ponto, defende que a quantidade de droga não pode ser utilizada nesse momento.
+Pede o provimento do agravo regimental (fls. 2.753/2.772).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. VIOLAÇÃODO ART. 33 DA LEI N. 11.343/2006.PLEITO DESCLASSIFICATÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. ART. 33, § 4º, DA LEI N. 11.343/2006. CAUSA DE DIMINUIÇÃO DA PENA. NECESSIDADE DO REEXAME DEPROVAS. SÚMULA 7/STJ. REGIME INICIAL. ART. 33, § 3º, DO CP. UTILIZAÇÃO DE FUNDAMENTAÇÃO CONCRETA. PRECEDENTE.DECISÃO MANTIDA POR SEUS PRÓPRIOSFUNDAMENTOS.
+Agravo regimental improvido.
+VOTO
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, todavia, não deve ser provido.
+Os argumentos trazidos não se mostram capazes de infirmar a conclusão dadecisão monocrática. Conforme expresso na decisão combatida, o pedido de desclassificação da conduta do art. 33 para o 35, bem como a aplicação do § 4º do art. 33, demandareexame de provas. Além disso, a fixação do regime inicial foi bem fundamentada nas circunstâncias do caso concreto.
+Nesse sentido, com supedâneo no permissivo jurisprudencial, mantenho, por seus próprios fundamentos, a decisão monocrática, razão pela qual os trago ao controle deste colegiado(fls. 2.743/2.745):
+O presente agravo deve ser conhecido, já que reúne os requisitos de admissibilidade, visto que impugna o fundamento da decisão de admissibilidade e foi interposto dentro do prazo.
+Quanto ao recurso especial, especificamente ao pedido de desclassificação do art. 33 para o art. 35, ambos da Lei de Drogas, consta o seguinte no acórdão (fl. 2143, 2.149 e 2.159):
+Ademais, a efetiva localização dos entorpecentes no interior do imóvel, configura o estado de flagrância, o qual autoriza a prisão dos responsáveis pelo mesmo, a instauração do inquérito policial, bem como a justa causa para a ação penal. Nesse sentido já decidiu o Supremo Tribunal Federal:
+ ..
+A materialidade delitiva do crime restou claramente demonstrada nos autos, através do Auto de Prisão em Flagrante (fls. 02/03), do Boletim de Ocorrência (fis. 13/16), do Auto de Exibição e Apreensão (fls. 17/19), do Laudo de Constatação (fls. 23/28), do Laudo de Exame Químico-Toxicológico (11s. 96/97), pelas fotografias de fls. 29/31, do Laudo Grafotécnico (fls. 189/198 e 199/205), pela transcrição das conversas interceptadas (fls. 209/286 e 300/334) e pela prova oral colhida nos autos.
+ ..
+Apesar das drogas terem sido apreendidas sob a posse direta dos corréus João Fernando e Leonardo, o envolvimento de todos os demais corréus no delito é patente, tendo em vista que se tratava de verdadeiro cartel, atuando cada qual em suas respectivas atividades, comandados todos pelo correu Marcos Braga, o qual apesar de preso continuou a coordenar a organização criminosa.
+Isto restou amplamente comprovado através das provas colhidas nos presentes autos, principalmente por meio das interceptações telefônicas, cujas transcrições se encontram aqui juntadas,
+Dos excertos, verifica-se que a instância local, soberana na analise das prova, verificou a apreensão de droga a partir dos laudos produzidos, da prova grafotécnica e das interceptações a prática do delito do art. 33 da Lei de Drogas.
+Assim, a insurgência encontra óbice na Súmula 7/STJ, pois a providência almejada (desclassificação) demandaria o reexame dos elementos de prova, o que é inviável em sede de recurso especial.
+Nesse sentido, confira-se: AgRg no REsp n. 1.953.027/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 4/11/2021.
+Em relação à suposta violação do § 4º do art. 33 da Lei n. 11.343/2006, o Tribunal local expressou o seguinte (fl. 2.174):
+Também deve ser afastado o pleito defensivo de aplicação da causa de diminuição de pena prevista no artigo 33, §4º, da Lei 11.343/06 para qualquer dos corréus, ante ao fato que, como ficou bem comprovado, os mesmos dedicavam-se intensamente às atividades criminosas, sendo objeto de diversas investigações criminais acerca do narcotráfico na cidade, restadas transcritas inúmeras conversas entre os corréus nas quais são discutidas matérias acerca da organização do narcotráfico local, demonstrando assim estabilidade no comércio de narcóticos, restando claro que os réus eram responsáveis pela manutenção do consumo de diversos usuários, controlando a venda de incontáveis porções de drogas, não se estando diante de pequenos traficantes, os quais o legislador buscou beneficiar com tal dispositivo legal.
+Verifico que o Tribunal local destacou circunstância concreta e idônea, dentro das balizas legais, indicando a dedicação do agravante a atividades criminosas, sendo inviável reverter a conclusão do Tribunal local sem rever as bases fáticas sobre as quais se decidiu. Somente mediante incursão nas provas seria possível rever a dedicação do recorrente ao tráfico de drogas de modo reiterado e organizado.
+Para concluir no sentido almejado pelo agravante, seria necessário o reexame da prova dos autos, providência vedada em sede de recurso especial (Súmula 7/STJ).
+Por fim, em relação à fixação de regime, o Tribunal local consignou (fls. 2.179/2.181):
+Contudo, atende razão ao parquet nó que diz respeito ao regime inicial fixado aos corréus Vanderson, Eric, Marco Antônio e Leonardo, vez que o regime semiaberto não se mostra condizente com o caso em tela. Senão vejamos.
+Inviável que o regime prisional inicial seja outro diverso do fechado para qualquer dos corréus. Sendo que tal tratamento mais severo corresponde à eficiente medida político-criminal, que busca harmonizar a legislação pátria aos Tratados de Direito Internacionais que tangem ao combate a narcotraficância, dos quais o país é signatário.
+Deve-se considerar ainda o alto índice de drogas produzidas no pais e a nossa avantajada localização geográfica, que facilita a criação de rotas para a entrada e saída de entorpecentes, que então abastecem o tráfico internacional.
+Note-se também que o crime de tráfico se tornou um mal presente na sociedade atual, gerando tremenda insegurança na população.
+Além disso, é certo que a traficância ilícita fomenta a prática de outros delitos. O que faz com que a conduta dos réus mereça maior reprovabilidade por parte do Estado.
+ ..
+O próprio artigo 33 em seu parágrafo terceiro determina que na fixação do regime inicial o magistrado deverá observar não só o quantum de pena, mas também o disposto no artigo 59 do Código Penal.
+Eis que, no caso em tela os corréus não apresentam circunstâncias judiciais favoráveis, pois demostram elevada periculosidade, sendo integrantes de perigosíssima facção criminal conhecida como PCC, regulando o narcotráfico de unia cidade ai inteira, ordenando sem pestanejar a agressão e tortura de usuários devedores, além de se reportarem á prática de outros crimes, como lesão corporal, homicídio, roubo e disparo de arma de fogo, as quais resultam em uma demonstração concreta de maior periculosidade dos corréus. Ainda, nos autos restou apreendida elevada quantidade de drogas, que seria colocada à disposição de incontáveis usuários, mantendo nefasto vício, que cada vez ceifa mais vidas jovens, demonstrando assim total descaso com a vida alheia na busca pelo lucro pessoal.
+Nos termos da jurisprudência deste Tribunal Superior, a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal - CP ou de outro dado concreto que demonstre a extrapolação da normalidade do tipo (HC n. 452.147/MG, Min. Joel Ilan Paciornik, Quinta Turma, DJe 14/8/2018).
+No mesmo sentido: AgRg no HC n. 684.667/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 19/10/2021; e AgRg no HC n. 641.696/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 15/12/2021.
+No presente caso, o Tribunal local destacou o fato de o acusado integrar perigosa organização criminosa, bem como a grande quantidade de droga apreendida.
+Ante o exposto, nego provimento ao agravo regimental.
