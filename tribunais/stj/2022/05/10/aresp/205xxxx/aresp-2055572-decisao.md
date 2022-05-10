@@ -1,0 +1,91 @@
+DECISÃO
+Cuida-se de agravo apresentado por UNIVERSIDADE FEDERAL DO PARANÁ UFPR contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE ELEMENTOS NOVOS.
+Ausente fato ou fundamento novo, capaz de infirmar a decisão hostilizada via agravo interno, esta deve ser mantida pelos seus próprios fundamentos (fl. 137).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 1.022 do CPC, no que concerne à negativa de prestação jurisdicional quanto à inexistência da preclusão ao exame dos limites objetivos da coisa julgada.
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 502 e 503 do CPC, no que concerne à inexistência de preclusão ao exame dos limites objetivos da coisa julgada na fase executiva, por se tratar de matéria de ordem pública, trazendo os seguintes argumentos:
+Todavia, data venia, não se configura a preclusão processual ao conhecimento da violação à coisa julgada.
+Ocorre que a coisa julgada reconhece o direito às diferenças remuneratórias por desvio de função pelo exercício de atribuições do cargo de Técnico em Anatomia e Necropsia, ao passo que a parte adversa exercia o cargo de Operador de Máquina de Lavanderia.
+Incontroverso nos autos que o exequente Dalmir Aparecido Bonfim assumiu o cargo de Técnico em Anatomia e Necropsia em 2012, razão por que a UFPR pediu fosse reconhecido o evento como termo final do direito às diferenças, exatamente conforme delimitado na coisa julgada, evidenciando a violação aos artigos 502 e 503 do CPC.
+O fato de, na fase executiva se adotar como paradigma o Sr. Alcebíades Lourenço Costa porque consta da inicial de conhecimento como referência, não infirma a violação à coisa julgada porquanto deferido o direito às diferenças entre os cargos, e não ao paradigma apontado.
+E tal conhecimento não resta obstado pela preclusão porquanto matéria de ordem pública os limites objetivos da coisa julgada.
+ ..
+Desta forma, resta claro que ficou garantido aos autores da ação judicial o reparo financeiro decorrente do exercício por desvio de função. Concursado para um cargo, exercia outro.
+Esse aspecto central que forma a coisa julgada no presente caso deve ser observado com bastante atenção ao caso do exequente Dalmir Aparecido Bonfim, pois esse exequente teve vacância em 22/05/2012 do cargo de OPERADOR DE MAQUINA DE LAVANDERIA, tomando posse no cargo de TECNICO EM ANATOMIA E NECROPSIA, conforme a documentação juntada aos autos.
+ ..
+O desvio se dá pelo exercício de função distinta para a qual foi concursado. Passando o servidor a ocupar a função em decorrência de concurso público, não há mais se falar em desvio de função.
+Ademais, a discussão anterior no Agravo de Instrumento nº 5008173- 80.2017.4.04.0000, acerca dos critérios de cálculos não configura a preclusão da matéria objeto do presente julgamento porquanto no referido recurso não foi deliberado acerca da violação aos limites objetivos da coisa julgada.
+Assim, inexistente a preclusão consumativa ao seu conhecimento. Assim, por versar sobre questão de ordem pública: limites objetivos do título executivo/coisa julgada, passível de conhecimento a qualquer tempo, inclusive de ofício pelo órgão jurisdicional, a matéria pode ser apreciada a qualquer tempo na fase executiva. (fls. 197/199).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+Confira-se também o seguinte julgado: AgInt no AREsp n. 1.559.920/SE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020.
+Quanto à segunda controvérsia, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Tenho que a decisão agravada merece confirmação por seus próprios fundamentos.
+Com efeito, a decisão agravada tem o seguinte teor:
+A decisão noticiada desafia impugnação por meio do instrumental, porquanto proferida em cumprimento de sentença, consoante previsão do parágrafo único do art. 1.015 do CPC.
+Registre-se, por oportuno que, conforme consta na decisão agravada e nas razões recursais, os autos originários tratam-se de desmembramento do cumprimento de sentença nº 5005106-06.2010.4.04.7000/PR, conforme determinado na decisão do evento 354 daqueles autos.
+Dito isso, a parte agravante pretende a reforma da decisão do evento 62 dos autos originários, ao argumento de que o cumprimento de sentença, em relação ao servidor nominado, deve ter termo final em 22/05/2012, data de posse no cargo de Técnico em Anatomia e Necropsia.
+Ocorre que a decisão atacada (evento 62), em atenção a pedido de reconsideração da ora agravante, apenas ratificou decisões anteriores preclusas (eventos 171 e 443 dos autos relacionados), cujos teores são os seguintes (original não sublinhado), no que importa à questão ora reiterada:
+Trata-se de cumprimento de sentença, em que a parte exequente requer a intimação da UFPR para pagamento do valor de R$957.726,44 (novecentos e cinquenta e sete mil, setecentos e vinte e seis reais, quarenta e quatro centavos), referentes ao pagamento de diferenças entre o cargo para o qual fez concurso (operador de máquina de lavanderia) e o cargo efetivamente exercido (técnico em anatomia e necropsia), fixadas em decisão transitada em julgado.
+A UFPR opôs impugnação ao cumprimento de sentença requerido pela exequente (EVENTO 141, PET1), alegando excesso de execução. Aponta como devido R$827.973,47 (oitocentos e vinte e sete mil, novecentos e setenta e três reais, quarente e sete centavos).
+Os autos foram remetidos para o Núcleo de Cálculos Judiciais, o qual apresentou cálculos e informações no EVENTO 162.
+A parte executada manifestou-se sobre os cálculos supracitados no EVENTO 166, apontando um excesso de execução no valor de R$130.498,50.
+A parte exequente, por sua vez, manifestou-se no EVENTO 169, requerendo apresentação de fichas financeiras pela parte executada para apuração de crédito suplementar.
+É o breve relatório.
+Consoante informações (EVENTO 162, INF1), o Núcleo de Cálculos Judiciais utilizou os seguintes critérios, quando da elaboração de seus cálculos:
+a) Base de Cálculo As partes divergem em relação à base de cálculo, sendo que o autor considerou a diferença de vencimentos entre o servidor paradigma (despacho do evento 82) e aqueles recebidos pelos autores.
+Ao passo que a União afirma que os valores considerados pelos autores estão em conformidade com os valores apresentados pela Universidade Federal, porém, não apresenta tais valores (evento 141 - parecer 2).
+Frise-se que, conforme consta na inicial dos autos, o autor pleiteou a implantação dos vencimentos do cargo de necropsia, tendo como paradigma o Sr. Alcebíades Lourenço Costa (evento 1 - inicial 1), sendo que o julgado considerou procedentes os pedidos do autor.
+Este núcleo considerou os valores das fichas financeiras (evento 141).
+(..) b) Termo de origem (período de cálculo) Dalmir Aparecido Bonfim:
+O autor considerou as diferenças entre abr/06 a fev/16, sendo que a União, por sua vez, considerou as diferenças etnre abr/06 a mai/112.
+Frise-se que, conforme consta nos autos (certidão 2 - evento 88), o autor assumiu o cargo de Técnico em Anatomia e necropsia em 22/05/12;
+porém conforme se observa nas fichas financeiras, não houve alteração dos vencimentos do autor a partir de 22/05/12.
+(..)
+Pois bem.
+(..) Tudo exposto, observo que apenas os cálculos judiciais contantes no EVENTO 162 estão em conformidade com tudo o que até agora foi exposto.
+Contudo, tendo a Contadoria Judicial apresentado valor superior ao do exequente, entendo como devido o valor indicado por este, no montante de R$957.726,44 (novecentos e cinquenta e sete mil, setecentos e vinte e seis reais, quarenta e quatro centavos), atualizado até março de 2016, o que faço com fundamento no artigo 492 do Novo Código de Processo Civil, o qual segue a ótica do artigo 460 do CPC/1973.
+(..) Em face do exposto, rejeito a impugnação ao Cumprimento de Sentença da UFPR e determino o prosseguimento do cumprimento de sentença pelo valor apresentado pela parte exequente, que perfaz a quantia de R$957.726,44 (novecentos e cinquenta e sete mil, setecentos e vinte e seis reais, quarenta e quatro centavos), atualizado até março de 2016.
+Considerando, ainda, a inexistência de excesso no cálculo exequendo, conforme fundamentação supra, condeno a parte executada ao pagamento de honorários advocatícios à parte exequente, os quais arbitro em 10% da diferença entre o valor apontado como devido pela exequente e o apurado como sendo devido pela parte executada.
+ ..
+Primeiramente, aponto que a decisão de evento 426 foi bastante clara ao apontar que, transitada em julgado a decisão de evento 171, com o julgamento e baixa dos autos de Agravo de Instrumento nº 5008173- 80.2017.4.04.0000, a que foi negado provimento, perde completamente o objeto da discussão quanto aos valores incontroversos, devendo ser integralmente liberados à parte exequente os valores de eventos 363 a 366, com o desbloqueio, puro e simples, das referidas contas, para livre movimentação de seus beneficiários.
+Isso porque os valores requisitados no evento 280 respeitaram de forma absoluta os termos fixados na decisão de referência de evento 171, preclusa.
+Os Embargos Declaratórios de evento 440 pretendem, novamente, trazer à baila discussão há muito superada.
+Já na decisão de evento 171, foi claramente afastada a argumentação quando à limitação dos valores a serem recebidos pelo exequente Dalmir Aparecido Bonfim à data de maio de 2012.
+Ora, a decisão de evento 171, preclusa, homologou para prosseguimento da presente execução os cálculos de evento 162, elaborados pela Contadoria deste Juízo, fixando os critérios lá expressos e adotados nos referidos cálculos como corretos.
+Das Informações de evento 162, lê-se claramente, quanto ao referido exequente, que "conforme consta nos autos (certidão 2 - evento 88), o autor assumiu o cargo de Técnico em Anatomia e necropsia em 22/05/12; porém conforme se observa nas fichas financeiras, não houve alteração dos vencimentos do autor a partir de 22/05/12" , não devendo, assim, seus valores serem limitados.
+Tais cálculos e critérios foram homologados na decisão de evento 171, preclusa, ante o julgamento e baixa dos autos de Agravo de Instrumento nº 5008173-80.2017.4.04.0000, a que foi negado provimento.
+Afasto novamente, assim, a argumentação da União, neste ponto.
+Os valores requisitados e pagos nestes autos são exatamente aqueles acolhidos pelo julgado, sendo que, frise-se novamente, os valores requisitados no evento 280 respeitaram de forma absoluta os termos fixados na decisão de referência de evento 171, preclusa.
+Quanto à discussão acerca dos valores devidos ou não após março/2016 (aos dias atuais), deve ser levada a efeito nos autos de Cumprimento de Sentença nº 5009942-07.2019.4.04.7000.
+Anoto, por fim, e ante a argumentação de que "o exequente já promove uma segunda execução desse mesmo título (Autos 50099420720194047000) e talvez tenha uma terceira e assim sucessivamente", que os valores serão devidos até a data em q u e comprovado o fim do desvio de função discutido nos presentes autos, respeitados todos os efeitos econômicos decorrente disso.
+Aponto que, para isso, não basta a alteração pura e simples do cargo que ocupa o Servidor, mas a adequação de seus salários, devendo passar a receber de acordo com a função que exerce.
+Considerando que a Sentença objeto do presente cumprimento de sentença garantiu o direito dos exequentes às diferenças de vencimentos entre o cargo para o qual fizeram concurso (operador de máquina de lavanderia) e o cargo ora exercido (técnico em anatomia e necropsia)
+ ..
+Não houve insurgência recursal quanto à segunda decisão.
+Contra a primeira decisão - a que apreciou a impugnação ao cumprimento de sentença dos valores devidos até março/2016 - foi interposto o agravo de instrumento nº 5008173-80.2017.4.04.0000/PR, que deliberou expressamente sobre a matéria (evento 12 daquele recurso - sem negrito no original):
+ ..
+O presente cumprimento de sentença visa executar título judicial que reconheceu o desvio funcional a que estavam submetidos os exequentes, que, embora ocupassem o cargo de Operador de Máquina de Lavanderia, exerciam, de fato, as funções de Técnico em Anatomia e Necropsia.
+Quanto ao exequente Dalmir Aparecido Bonfim, é bem verdade que assumiu o cargo de Técnico em Anatomia e Necropsia em 22/05/2012, tornando vago o cargo anteriormente ocupado e para o qual inicialmente ocorria o desvio. Ocorre que, conforme se observa nas fichas financeiras, não houve alteração dos vencimentos do autor a partir de 22/05/2012, sendo devidas as diferenças também após esta data, o que foi adequadamente observado pela Contadoria Judicial (evento 162, INF1).
+(..)
+No mais, registro que não prospera o argumento de que as datas informadas pela UFPR deveriam prevalecer no presente momento processual. Afinal, o cumprimento de sentença deve obedecer ao que foi definido no título executivo, sendo certo que à autarquia foi oportunizada a produção de provas quanto aos marcos iniciais e finais dos desvios funcionais quando do processo de conhecimento.
+Ressalto, por oportuno, que a Contadoria Judicial é órgão de auxílio ao Juízo, que se encontra equidistante das partes e possui a qualificação necessária para a elaboração do cálculo exequendo. Dessa forma, não havendo a parte agravante provado qualquer irregularidade nos cálculos elaborados pela Contadoria, não encontro motivos para afastá-los.
+Nesse sentido:
+(..)
+Aponto que, tendo a Contadoria Judicial apresentado valor superior ao da parte exequente, o magistrado, adequadamente, entendeu como devido o valor indicado por esta última.
+Por derradeiro, em face do disposto nas súmulas n.ºs 282 e 356 do STF e 98 do STJ, e a fim de viabilizar o acesso às instâncias superiores, explicito que a decisão não contraria nem nega vigência às disposições legais/constitucionais prequestionadas pelas partes.
+Ante o exposto, nego provimento ao agravo de instrumento, na forma da fundamentação.
+O instrumental transitou em julgado e teve baixa definitiva em 21/01/2020.
+Nesse contexto, o decisum apontado pela parte agravante como objeto do presente recurso apenas manteve pronunciamento anterior que havia considerado que não deveriam prevalecer as datas informadas pela UFPR, ante a ausência de comprovação, bem como não comprovada qualquer irregularidade nos cálculos da Contadoria, que computavam diferenças após o marco apontado pela autarquia.
+Assim, interposto anteriormente, pela ora agravante, outro agravo de instrumento com razões e requerimentos equivalentes, impõe-se o reconhecimento da preclusão consumativa, uma vez que já praticado o ato processual pertinente.
+Ante o exposto, não conheço do agravo de instrumento, fulcro no art. 1.019 c/c art. 932, III, ambos do CPC.
+Nestes termos, ausente fato ou fundamento novo, capaz de infirmar a decisão hostilizada via agravo interno, esta deve ser mantida pelos seus próprios fundamentos (fls. 142/148).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
