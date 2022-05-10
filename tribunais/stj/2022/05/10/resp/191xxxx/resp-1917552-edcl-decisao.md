@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por NILTON QUADRO contra a decisão de e-STJfls. 654/659, em que não conheci do recurso especial.
+A parte embargante sustenta, em suma, que a decisão foi omissa, obscura e contraditória, havendo, ainda, erro material a ser sanado.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+Ainda, excepcionalmente, é admitida a atribuição de efeitos modificativos aos aclaratórios, situação ocorrente na hipótese.
+Com efeito, nos casos em que é julgada matéria submetida à sistemática do julgamento repetitivo ou da repercussão geral, o recurso integrativo deve ser acolhido para que, atribuindo-se-lhe efeitos modificativos, seja anulado o decisum embargado e determinada a remessa dos autos à instância de origem, a fim de que seja viabilizado o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Nesse sentido: EDCL AgInt REsp 1.421.898/MG, Rel. ASSUSETE MAGALHÃES, Segunda Turma, DJe 13/05/2015, AgInt EDCL REsp 1.589.873/CE, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 22/08/2017.
+Considerado isso, verifica-seque aquestão jurídica referente à ocorrência, ou não, de renúncia tácita da prescrição, como prevista no art. 191 do Código Civil, quando a Administração Pública, no caso concreto, reconhece o direito pleiteado pelo interessado foi submetida à Primeira Seção para ser julgada pela sistemática dos recursos repetitivos (Tema 1.109/STJ), tendo sido escolhidos os Recursos Especiais 1.928.910/RS e 1.925.192/RS , ambos de relatoria do em. Ministro Sérgio Kukina, em arestos assim resumidos:
+DIREITO ADMINISTRATIVO. PROPOSTA DE AFETAÇÃO DE TEMA REPETITIVO. CONTROVÉRSIA 285. SERVIDOR PÚBLICO. ATO REVISIONAL DE APOSENTADORIA. RECONHECIMENTO ADMINISTRATIVO DO DIREITO APÓS O TRANSCURSO DO PRAZO PRESCRICIONAL. RENÚNCIA. POSSIBILIDADE DE SUA OCORRÊNCIA.
+1. Delimitação da controvérsia: "Definição acerca da ocorrência, ou não, de renúncia tácita da prescrição, como prevista no art. 191 do Código Civil, quando a Administração Pública, no caso concreto, reconhece o direito pleiteado pelo interessado."
+(ProAfR nos REsps 1.925.192/RS e 1.928.910/RS Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 28/09/2021, DJe 20/10/2021)
+Cumpre destacar que foi determinada a suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou no STJ (observada a orientação do art. 256-L do RISTJ).
+Assim, encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do CPC/2015.
+Realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para este Tribunal Superior para, se for o caso, serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida visa evitar, também, o desmembramento do apelo especial e, em consequência, eventual ofensa ao princípio da
+unirrecorribilidade ou unicidade recursal.
+Ante o exposto, ACOLHO os embargos de declaração para, atribuindo-lhes efeitos modificativos, tornar sem efeito ojulgamentoanterior, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia e em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo Tribunal Superior ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
