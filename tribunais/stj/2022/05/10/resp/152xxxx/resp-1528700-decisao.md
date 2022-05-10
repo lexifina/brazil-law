@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com base na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fls. 273/274):
+ADMINISTRATIVO. GREVE. POLÍCIA FEDERAL. DESCONTOS DIAS PARADOS.DIREITO À COMPENSAÇÃO COM HORAS EXTRAS. POSSIBILIDADE.
+I. Apelação interposta contra sentença que julgou improcedente pedido formulado em ação de rito ordinário, consubstanciado no reconhecimento do direito à compensação de horas, em lugar dos descontos salariais, em folha de pagamento, referente aos dias em que os servidores não trabalharam por ocasião de greve ou paralisação.
+II. A Administração, antes de efetuar descontos remuneratórios em razão dos dias não trabalhados por motivo de greve, deve disponibilizar alternativas para compensar eventual prejuízo sofrido por ela em face do movimento paredista.
+III. A substituição dos descontos salariais em folha de pagamento, - relativos aos dias em que os substituídos da agravante não trabalharam por ocasião de greve -, pela compensação de horas extras já trabalhadas e impagas, se coaduna com os princípios da proporcionalidade e da razoabilidade. Esse entendimento não viola qualquer dispositivo legal ou constitucional, uma vez que quando se realiza a compensação citada, não está a Administração sendo prejudicada, já que as horas extras teriam que ser pagas.
+IV. Em face ao princípio da isonomia, também faz jus à referida substituição os servidores que não possuem carga horária excedente nos registros funcionais, devendo, nesse caso, a Administração estabelecer os critérios a serem adotados para a referida compensação.
+V. Consta nos autos cópia do acordo firmado entre o Governo Federal e a Federação Nacional dos Policiais Federais, após o ajuizamento da ação, que dispõe sobre a reposição do trabalho e das horas nãotrabalhadas, resultante das paralisações ocorridas nos anos de 2013/2014 e prevê a possibilidade de compensação, o que demonstra a razoabilidade no reconhecimento do direito pleiteado.
+VI. Apelação provida.
+Os aclaratórios foram rejeitados.
+Nas suas razões, a parte recorrente aponta ofensa aos arts. 267, VI, e 535 do CPC/1973, ao art. 44 da Lei n. 8.112/1990 e ao art. 11 da Lei n. 7.783/1989, sustentando, além da negativa de prestação jurisdicional,que houve a perda superveniente do interesse de agir em razão de acordo entabulado, bem como que a Administração pode proceder ao desconto dos dias parados.
+Contrarrazões às e-STJ fls. 327/337.
+O recurso teve seguimento negado quanto à matéria objeto de repercussão geral (Tema 531/STF), sendo admitido quanto às demais alegações (e-STJ fls. 405/407).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito,quanto à alegada ofensa ao art. 535 do CPC/1973, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017).
+Quanto à perda superveniente do objeto da ação, para aeventual alteração das conclusões adotadas pela Corte de origem, seria necessária a análise dos termos do acordo entabulado entre as partes, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO EM PARTEdo recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Sem majoração da verba honorária (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo 7 do STJ.
+Publique-se. Intimem-se.
