@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+PAULO CESAR GONÇALVES interpõe agravo regimental contra decisão de fls. 138-141, que não conheceu dohabeas corpus.
+O agravante alega que houve violação do princípio da colegialidade. Para tanto, cita precedente desta Corte Superior com vistas a embasar sua alegação (AgRg no HC n. 182.981/SP,relatora Ministra Laurita Vaz).
+Afirma que (fl. 146-147):
+Ao contrário do sustentado na decisão que monocraticamente denegou o habeas corpus, presente se faz o constrangimento ilegal na espécie, porquanto o trabalho externo foi revogado com suporte apenas por supostasviolações que foram apuradas em audiência de justificações e NÃO foram aplicadas falta grave, ou seja o paciente possui todas as condições necessárias para ser concedido o beneficio do trabalho externo.
+Com todas as vênias, mas a decisão do Tribunal de Justiça de Minas Gerais acabou por reforçar o entendimento que se busca combater com a impetração dirigida ao Colendo Tribunal da Cidadania.
+ ..
+Vênia renovada, mas tal assertiva não é pertinente haja vista que o paciente esta a todo momento sobre fiscalização eletrônica, bem como do mesmo modo que a policia Militar vai em sua residência toda semana para apurar se o mesmo está cumprindo sua domiciliar, assim sendo também possível que a policia militar vá ao trabalho do paciente para fiscalizar se o mesmo esta trabalhando regularmente.
+Ora, negar ao paciente o direito de trabalho externo sobre a fundamentação de que o mesmo não tem fiscalização é uma incongruência, haja vista que o mesmo teve seu trabalho suspenso por que a monitoraçãoeletrônica noticiou descumprimentos, ou seja o paciente esta de monitoração eletrônica que é para fiscalizar cumprimento de pena e também como mencionado é possível ser feito a fiscalização pela policia militar.
+Ademais, o paciente juntou nos autos do processo de execução penal, bem como neste presente Habeas corpus, toda a documentação exigida para concessãodo trabalho externo, quais sejam: rota de trabalho, carta de emprego, folha de antecedentes do empregador, contrato social da empresa.
+Requer seja o presente agravo submetido ao julgamento pelo Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL.HABEAS CORPUS. TRABALHO EXTERNO. INVIABILIDADE DE CONCESSÃO DO BENEFÍCIO.IMPOSSIBILIDADE DE FISCALIZAÇÃO. LEI DE EXECUÇÃO PENAL. RECURSO DESPROVIDO.
+1.É inviável a concessão detrabalho externo ao apenadoquando demonstrada a impossibilidade defiscalização de cumprimento dobenefício exigida pela Lei de Execução Penal. Precedentes.
+2. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de prosperar.
+Isso significa dizer que os argumentos recursais ora deduzidos não se mostram aptos a infirmar a decisão agravada, que, refletindo o novo entendimento das Turmas de Direito Penal do Superior Tribunal de Justiça sobre o tema em exame, firmou-se nestes termos (fls. 138-141):
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de PAULO CESAR GONCALVES em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (Agravo em Execução Penal n. 1.0079.16.016636-3/001).
+O acórdão do agravo foi resumido na seguinte ementa (fl. 12):
+AGRAVO EM EXECUÇÃO PENAL. TRABALHO EXTERNO. POSSIBILIDADE, DESDE QUE TOMADAS AS CAUTELAS NECESSÁRIAS EM FAVOR DA SEGURANÇA. INVIABILIDADE DE FISCALIZAÇÃO. 1. É admissível o trabalho externo em serviços ou obras públicas realizadas por órgãos da Administração direta ou indireta ou entidades privadas, desde que tomadas as cautelas necessárias em favor da disciplina, conforme preceitua o artigo 37 da LEP. 2. Verificando que as circunstâncias de desempenho do trabalho externo impede a delimitação da área do apenado, inviabilizando a fiscalização das atividades por ele desempenhadas, não há como conceder o benefício.
+Foi concedido ao paciente o regime semiaberto harmonizado em prisão domiciliar, com monitoração eletrônica e autorização para trabalho externo.
+A autorização para o trabalho externo foi revogada por suposto descumprimento dos limites da área de monitoração.
+Sustenta a defesa constrangimento ilegal devido a revogação do trabalho externo.
+Alega que o paciente exerce "atividade laboral licita, bem como que se encontra cumprindo as demais condições do regime semiaberto, não há noticias de pratica de crime ou outro ato ilícito. Ademais, consta juntado aos autos planta do local de trabalho, documentos hábeis a comprovar o local de trabalho, bem como é possível a fiscalização das autoridades policiais no local" (fl. 9).
+Requer a concessão da ordem de habeas corpus para que seja restabelecido o benefício do trabalho externo.
+O pedido de liminar foi indeferido nos termos da decisão de fls. 92-93.
+As informações foram prestadas às fls. 97-104 e 131-137.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus ou, caso dele se conheça, pela denegação da ordem (fls. 127-129).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+O Juízo da execução suspendeu o benefício do trabalho externo em decisão assim fundamentada (fl. 18):
+Considerando as justificativas apresentadas e diante da impossibilidade de adequação do percurso a ser utilizado (mov. 318), SUSPENDO temporariamente a autorização para o trabalho externo, pelo menos até que haja confirmação sobre o lançamento das rotas, podendo o interessado fazer contato com a UGME para ciência da regularização. Ressalto, uma vez mais, que nesse regime o direito ao trabalho deve ser compatibilizado com a restrição da liberdade, e não o contrário.
+O Tribunal de origem negou provimento ao agravo interposto pela defesa, adotando os seguintes fundamentos (fls. 14-17):
+Em consulta ao atestado de pena do agravante verifica-se que ele ostenta condenações criminais pela prática dos crimes previstos no art. 147; no art. 155, § 4º, II e IV; no art. 180, e no art. 288, parágrafo único, todos do CP, bem como dos crimes dispostos no art. 1º da Lei 9.613/98 e nos arts. 33 e 35, ambos da Lei 11.343/06, a uma pena total de 35 anos, 10 meses e 10 dias de reclusão, estando atualmente inserto no regime semiaberto, porém em cumprimento da pena em prisão domiciliar com monitoramento eletrônico.
+No curso da execução, a defesa pugnou pela concessão do trabalho externo, pleito deferido pelo Magistrado a quo. Contudo, diante das reiteradas informações da UGME acerca do descumprimento dos limites territoriais e de horário estabelecidos - mesmo após concedida a readequação de tais parâmetros para fins de se ajustar ao trabalho externo na empresa particular empregadora -, o benefício foi revogado, sendo que contra tal decisum se insurge o agravante.
+ ..
+Infere-se, portanto, que além dos requisitos objetivo (cumprimento de 1/6 da pena) e subjetivo (bom comportamento), a permissão para o trabalho exige a adoção de cautelas contra a fuga e em favor da disciplina, conforme literal disposição legal.
+No entanto, in casu, as circunstâncias do trabalho externo na empresa privada empregadora (Fazenda Lago Azul) vem inviabilizando a fiscalização do benefício concedido ao reeducando. Isto porque, conforme informado pela própria defesa, para se deslocar, Paulo César se vale de transporte comunitário oferecido pelo empregador, o qual realiza diversos trajetos, de forma que não é possível delimitar o perímetro de deslocamento do apenado na rota trabalho-casa e nem saber se, de fato, aquele trajeto fora da área de inclusão realmente se tratou de um desvio de rota pelo citado transporte ou se o apenado que, deliberadamente, se esquivou das delimitações impostas.
+Vale registrar que foi permitida à defesa, em audiência de justificação ocorrida em 25/06/20, a apresentação de rotas alternativas a tal deslocamento e não desconheço que, não obstante reiteradas determinações, o citado órgão deixou de incluir as três novas rotas determinadas pelo d. Juízo de 1º Grau. No entanto, quando da ampliação do perímetro de circulação do apenado, o d. Juiz primevo foi assente em dizer que somente poderia o apenado se valer de tais alcances após confirmação da atualização das rotas pela UGME.
+Ademais, conforme se vê dos informes do citado órgão, nem mesmo estas rotas estariam sendo respeitadas, e, ainda, além do desvio de tais caminhos, ainda se verificou desrespeito aos horários estabelecidos e a permanência do reeducando por longo período em locais também nãopermitidos, inclusive em área suspeita não relacionada com a sua residência ou o seu trabalho.
+Como é cediço, a prestação de serviço pelos sentenciados devem se dar em local fixo e deve respeitar os limites impostos na decisão concessiva do benefício, a qual, ainda, em audiência admonitória, advertiu o apenado que os descumprimento de qualquer das condições impostas poderia ensejar na revogação da benesse, conforme determina o parágrafo único, do artigo 37, da LEP: Parágrafo único. Revogar-se-á a autorização de trabalho externo ao preso que vier a praticar fato definido como crime, for punido por falta grave, ou tiver comportamento contrário aos requisitos estabelecidos neste artigo.
+Destaco, nos mesmos termos do d. Magistrado primevo, que estamos diante de agente condenado à prática de diversos crimes, muitos deles de natureza grave, havendo, inclusive, notícias de que seria o líder de uma organização criminosa na comarca de São Gotardo, de forma que se afigura açodada e extremamente perigosa para a sociedade a sua colocação em livre circulação, sem a devida fiscalização, como pretende a defesa. Ademais, como bem pontuado, "o direito ao trabalho deve ser compatibilizado com a restrição da liberdade, e não o contrário". Destarte, não havendo condições adequadas à fiscalização do trabalho externo, dadas as suas particularidades, não há como se conceder a benesse pretendida.
+ ..
+Diante disto, acertada foi a r. decisão do nobre Magistrado a quo ao revogar o trabalho externo do apenado, vez que não se encontram suficientemente demonstrados nos autos o cumprimento dos requisitos legais exigidos para que fosse mantida a benesse.
+Por todo o exposto, NEGO PROVIMENTO AO RECURSO.
+A conclusão das instâncias ordinárias se coaduna com a jurisprudência do Superior Tribunal de Justiça de que, cumpridos todos os requisitos do artigo 37 da Lei de Execução Penal, a concessão de trabalho externo ao preso do regime semiaberto é possível.
+Entretanto, o paciente encontra-se em regime domiciliar sendo necessário haver fiscalização do trabalho exercido por empregador ou por órgãos oficiais e/ou conveniados, com um mínimo de controle sobre o local exato e horários definidos de suas atividades, a fim de evitar o descumprimento da pena.
+No caso, a impossibilidade de verificação, pelo Juiz da Vara de Execução Penal, do cumprimento do trabalho externo pretendido é obstáculo para a sua autorização.
+A respeito da questão, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. APENADO QUE CUMPRE PENA EM REGIME SEMIABERTO. TRABALHO EXTERNO. IMPOSSIBILIDADE TOTAL DE FISCALIZAÇÃO. INDEFERIMENTO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A total impossibilidade de fiscalização do trabalho externo pleiteado por apenado do regime semiaberto domiciliar impede a autorização do benefício.
+2. Embora se reconheça o valor do labor na ressocialização e na recuperação da dignidade do apenado, sem indicação do local do trabalho e de algum tipo de controle de horário e de frequência das atividades de vendedor autônomo, de mercadoria própria, não há falar em deferimento do trabalho externo. O pedido é incompatível com a fiscalização do cumprimento da pena exigida pela Lei de Execuções Penais (AgRg no HC 490.890/TO, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/6/2020)3. Agravo regimental desprovido.(AgRg no REsp n. 1.889.273/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14/5/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRABALHO EXTERNO. IMPOSSIBILIDADE TOTAL DE FISCALIZAÇÃO. INDEFERIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A total impossibilidade de inspecionar o serviço externo pleiteado por apenado do regime semiaberto domiciliar impede a autorização do benefício.
+2. Embora se reconheça o valor do labor na ressocialização e na recuperação da dignidade do apenado, sem indicação do local do trabalho e de algum tipo de controle de horário e defrequência das atividades de vendedor autônomo, de mercadoria própria, não há falar em deferimento do trabalho externo. O pedido é incompatível com a fiscalização do cumprimento da pena exigida pela Lei de Execuções Penais.
+3. Agravo regimental não provido. (AgRg no HC n. 490.890/TO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 17/6/2020.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
+Ressalte-se que, ainda que possível a concessão de trabalho externode acordo com oart. 37 da Lei de Execução Penal, ajurisprudência desta Corte Superior de Justiça firmou-se no sentido de que éinviável a concessão de trabalho externo ao apenado quando demonstrada a impossibilidade de fiscalização documprimento do benefício exigida pela referida lei.
+In casu, o recorrente se encontra em regime domiciliar com monitoramento eletrônico e teve negada a autorização para o trabalho externo, tendo em vista queas circunstâncias que envolvem o benefíciovêm inviabilizando a sua fiscalização.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
