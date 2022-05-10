@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JULIA VOLTOLINI CAPARROZ contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que (fls. 1098/1099):
+Como relatado na R. Decisão embargada o Recurso Especial fora negado por ofensa ao disposto no com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, haja vista "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A r. decisão ora embargada merece ser reformada com a devida e máxima venia.
+Isto porque, toda a matéria debatida fora tratada nas vias ordinárias, bem como a matéria está prequestionada, pois in casu o que se requer a aplicação de um entendimento já sumulado por essa C. Corte.
+Aliás são temas inclusive cognoscíveis ex officio, exclusivamente de direito e matéria de ordem pública que - como dito - viola Súmula do Superior Tribunal de Justiça, portanto, existe in casu a repercussão geral para fins de recurso extraordinário.
+Espera-se que, o Colendo Superior Tribunal de Justiça na condição de guardião da lei e da jurisprudência (no caso) Súmula a de fazer prevalecer o Direito Federal aplicável à espécie, com a devida e máxima "venia".
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente dois dos fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário e Súmula 7/STJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Outrossim, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame ficou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que obstou a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre nenhuma matéria de fundo porventura tratada no recurso especial.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
