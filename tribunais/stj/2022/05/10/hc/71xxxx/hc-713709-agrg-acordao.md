@@ -1,0 +1,20 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental emhabeas corpusinterposto por Reginaldo Alves Vieiracontra a decisão deste Relator, que concedeu a ordem, em parte, para redimensionar a pena do paciente. Esta, a ementa da decisão (fl. 456):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 153,6 KG DE COCAÍNA. DOSIMETRIA. OCORRÊNCIA DE BIS IN IDEM. PENA-BASE FIXADA NO PISO MÍNIMO. QUANTIDADE DE DROGAS APLICADA APENAS NA TERCEIRA FASE. REDIMENSIONAMENTO DA PENA. REGIME FECHADO MANTIDO PELA EXISTÊNCIA DE CIRCUNSTÂNCIA NEGATIVA.
+Ordem parcialmente concedida nos termos do dispositivo.
+Alega que, para a negativa de reconhecimento do art. 33, § 4º, da Lei de Drogas, apenas foi feita referência à quantidade de drogas, o que levou o Tribunal ao entendimento de dedicação aatividade criminosapor parte do paciente. Sustenta que a Corte Local acrescentou um fundamentoque inexistiana sentença, qual seja, a dedicação ao tráfico de drogas. Aduz ainda que foi mencionado que o paciente não possuiu atividade econômica lícita.
+Afirma que não houve qualquer fundamentação sobre a efetiva comprovação de que o paciente integre organização criminosa, além da mera quantidade de drogas.
+Requer, diante disso, a reconsideração da decisão.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 153,6 KG DE COCAÍNA. PEDIDO DE APLICAÇÃO DO PRIVILÉGIO, SOB A ALEGAÇÃO DE AUSÊNCIA DE DEDICAÇÃO AO TRÁFICO.
+1. Oentendimento da instância ordinária foi de que há dedicação à atividade criminosapor parte do paciente. Tal como mencionado na decisão ora agravada, houve bis in idem no aumento da pena-base, pela quantidade de drogas, e, posteriormente, na negativa de reconhecimento do privilégio. No entanto, na decisão agravada, a pena-base já foi reduzida para o piso mínimo, e a pena do paciente foi reduzida no total de 2 anos e 7 meses de reclusão.
+2. Agravo regimental improvido.
+VOTO
+Razão não assiste à defesa, já que o entendimento da instância ordinária foi de que há dedicação aatividade criminosapor parte do paciente. Tal como mencionado na decisão ora agravada, houve bis in idem no aumento da pena-base, pela quantidade de drogas, e, posteriormente, na negativa de reconhecimento do privilégio. No entanto, a decisão reduziu a pena-base para o piso mínimo de 5 anos de reclusão e 500 dias-multa, de modo que não há ilegalidade no afastamento da causa de diminuição da pena, em face da quantidade de drogas, 153,6 kg de cocaína, e por ter o Tribunal entendido pela dedicação ao tráfico.
+Na segunda fase, ausente circunstância agravante. No entanto, foi reconhecida a atenuante de confissão espontânea, mantendo-se a pena no mesmo patamar. Já na terceira fase, a causa de diminuição da pena, prevista no art. 33, § 4º, da Lei de Drogas, não foi reconhecida, pelo entendimento de dedicação ao tráfico. Não há falar em inovação no acórdão hostilizado, pois na sentença o Magistrado considerou a quantidade de drogas como tendo agido o paciente com um dolo intenso, e no julgamento da apelação constou que,  ..  consoante a elevada quantidade de droga apreendida junto ao apelante, tem-se um forte indicativo de que se trata de agente dedicado a atividades criminosas, não podendo considerado um principiante. E "até mesmo porque não é normal que um traficante pequeno e eventual dê início às atividades de traficância com tamanha quantidade de drogas"  .. (fls. 24). As provas são analisadas pela instância ordinária, e não há como serem reexaminadasem sede de habeas corpus.
+Ademais, na decisão agravada, a pena-base foi reduzida para o piso mínimo, já tendo a pena final do paciente sofrido uma redução de 2 anos e 7 meses de reclusão.
+Ante o exposto, nego provimento ao agravo regimental.
