@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de petição formulada de próprio punho por VANDERLY MORO, na qual pugnouo requerente pela revisão de sua condenação advinda do Processo n. 200750010125579, oriunda da 1ª Vara Federal Criminal de Vitória/ES, em que fora condenado pela prática dos delitos previstos nos arts.12 da Lei n. 6.368/1976 e art. 12 da Lei n. 10.826/2003, às penas de 5 anos e 6 meses de reclusão, em regime fechado, mais 90 dias-multa.
+Após as informações prestadas pelo Tribunal de origem, foi aberta vista dos autos à Defensoria Pública do Estado do Espírito Santo, que se manifestouno sentido de que o requerente seria um potencial assistido da Defensoria Pública da União.
+Àe-STJ fl. 65, tendo em vista que,em consulta ao Sistema Eletrônico de Execução Unificado, verifiquei a existência de execução de pena ativa do requerente sob a jurisdição da 2ª Vara da Comarca de Ibiraçu/ES (Processo n. 0013894-61.2012.8.08.0022), solicitei informações atualizadas ao referido Juízo quanto à execução, e determinei vista dos autos à Defensoria Pública da União para pleitear em nome do requerente o que entendesse de direito.
+Às e-STJ fls. 77/78, manifestou-se a Defensoria Pública estadualno seguinte sentido:
+A partir da informação constante da decisão de fl. 65, em consulta ao SEEU - Sistema Eletrônico de Execução Unificado -, foi possível verificar que o requerente possui um processo de execução que tramita na Comarca de Ibiraçu/ES, digitalizado em 14 de outubro de 2021, que teve como última decisão uma unificação de penas (documentos anexos).
+Considerando que as petições incidentais de fls. 28/32 e 34/37 envolvem potenciais direitos relativos à execução penal, contudo, partindo de uma situação fática vivenciada no ano de 2015, diante do atual quadro do requerente, retratado na documentação juntada neste ato, como esta representação da Defensoria Pública do Estado do Espírito Santo em Brasília não possui meios de realizar eventual atendimento ao requerente, solicitou-se o apoio da Coordenação de Execução Penal da DPE/ES para garantir a assistência jurídica à Vanderly Moro nos autos do processo 0013894-61.2012.8.08.0022.
+Por fim, como mencionado na petição de fls. 60/61, quanto à petição inicial (fls.02/16), como esta propõe a revisão de uma condenação ocorrida no âmbito da Justiça Federal, parece oportuna a intimação da Defensoria Pública da União para seguir na defesa técnica do requerente. Tal intimação inclusive restou determinada na decisão de fl. 65, no entanto, ainda não se concretizou.
+Àe-STJ fl. 114, a Defensoria Pública da União manifestou-se nos seguintes termos:
+Trata-se de recurso/revisão criminal apresentado por VANDERLY MORO em petição de próprio punho.
+Prestadas as informações TRF2 (fl. 47-49), pelo juízo da 1ª Vara Federal Criminal do Espirito Santo (fl. 54-55) e pela Defensoria Pública do Estado do Espírito Santo (fl. 60-62), tem-se que a questão relativa a Justiça Estadual foi encaminhada pela DPE/ES com atuação no STJ.
+Outrossim, em relação à condenação no âmbito da Justiça Federal, o pedido do assistido (revisão) foi encaminhado à Defensoria Pública da União de 1ª Categoria no Rio de Janeiro (criminal), o qual tem atuação perante o Tribunal Regional Federal da 2ª Região.
+Outrossim, não encontra razão para instauração da competência do STJ para atuar no caso, por ora.
+O Ministério Público Federal manifestou-se pelo não conhecimento da petição, com devolução dos autos à origem.
+É o relatório.
+Decido.
+A petição, de fato,não comporta conhecimento.
+É que, consoante aduzido pela Defensoria Pública da União, à e-STJ fl. 114, a jurisdição desta Corte ainda não se encontra inaugurada.
+Com efeito, quanto ao pedido de revisão da condenação do requerente, o pedido foi encaminhadoà Defensoria Pública da União de1ª Categoria no Rio de Janeiro (criminal), que tem atuação perante o Tribunal Regional Federal da 2ª Região, para fins de eventual ajuizamento de revisão criminal.
+Ademais, informou a Defensoria Pública Estadual que fora solicitadoapoio da Coordenação de Execução Penal da DPE/ES para garantir a assistência jurídica à Vanderly Moro nos autos de sua execução (Processo n. 0013894-61.2012.8.08.0022).
+Assim, não havendo nenhuma providência a ser realizada por meio da presente petição, notadamente por ainda não haver pronunciamento das instâncias de origem quanto à revisão da condenação ou eventual discussão acerca da execução penal do requerente, não conheço do pedido.
+Publique-se. Intimem-se.
