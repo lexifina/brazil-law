@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaUNIVERSIDADE FEDERAL DE ALAGOAS UFAL, com respaldo naalínea"a" do permissivo constitucional, contra acórdão do TribunalRegional Federal da 5ª Região assim ementado (e-STJ fl. 232):
+ADMINISTRATIVO. PAGAMENTO INDEVIDO. RESTITUIÇÃO AO ERÁRIO. ERRO DA ADMINISTRAÇÃO. BOA-FÉ.IRREPETIBILIDADE. NATUREZA ALIMENTAR. APELAÇÃO. DESPROVIMENTO.
+I - A orientação fixada pelo Superior Tribunal de Justiça e por este Tribunal Regional Federal da 5ª Região é no sentido da Irrepetibilidade de valores pagos, indevidamente, por erro exclusivo da Administração Pública, em razão da boa-fé e por se tratar de verba de natureza alimentar.
+II - No caso, o pagamento indevido dos valores em questão se deu por erro da Administração na análise do cumprimento de seus requisitos pela Parte Autora. A verba, de natureza alimentar, foi percebida de boa-fé pela Apelante, o que denota a impossibilidade de restituição dos referidos valores.
+III - Desprovimento da Apelação.
+Rejeitados os aclaratórios (e-STJ fls. 280/287).
+Nas suas razões, a parte recorrente aponta violação dos arts. 54 da Lei n. 9.784/1999, 46 da Lei n.8.112/1990,876 e 884 do CódigoCivil, sustentando a inaplicabilidade de prazo decadencial no caso dos autos, bem como a necessidade de restituição ao erário de valores recebidos em virtude de erro material/operacional da Administração.
+Ausentes contrarrazões (e-STJ fl. 313).
+Juízo positivo de admissibilidade parcial pelo Tribunal de origem à e-STJ fl. 322; no tocante à matéria repetitiva, a inadmissão se deu com fundamento no art. 1.030, I, do CPC/2015.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+No tocante à matéria não abrangida pela inadmissão com fundamento na consonância do acórdão com recurso repetitivo, esta Corte Superior entende que " ..  a incidência do prazo decadencial previsto no art. 54 da Lei n. 9.784/1999 em relação ao direito de anular tanto atos nulos quanto anuláveis, quando decorram efeitos favoráveis aos destinatários" (AgInt no REsp 1.940.863/SE, rel. Ministro BENEDITO GONÇALVES, Primeira Turma, julgado em 20/09/2021, DJe 22/09/2021). No mesmo sentido: AgInt no AREsp 1.778.773/SC, rel. Ministro OG FERNANDES, Segunda Turma, julgado em 16/08/2021, DJe 23/08/2021.
+Ainda, a jurisprudência do STJ afirma que o prazo decadencial para a administração anular os atos que produzam efeitos patrimoniais contínuos inicia-se com o primeiro pagamento, nos termos do art. 54, § 1º, da Lei n. 9.784/1999. Nesse sentido:
+DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PRAZO DECADENCIAL. ART. 54 DA LEI N. 9.784/1999. RELAÇÃO DE TRATO SUCESSIVO. TERMO INICIAL. PRIMEIRO PAGAMENTO. ART. 54, § 1º, DA LEI N. 9.784/1999. JURISPRUDÊNCIA CONSOLIDADA.
+1. Na hipótese, a decisão agravada negou provimento ao recurso especial sob os seguintes fundamentos: a) tanto os atos nulos quanto os anuláveis estão sujeitos ao prazo decadencial previsto no art. 54 da Lei n. 9.784/1999; b) o termo inicial do prazo decadencial nas relações de trato sucessivo é a data do primeiro pagamento efetuado.
+2. Não há motivo para reforma da decisão recorrida, porquanto esta se encontra em perfeita consonância com a jurisprudência consolidada nesta Corte, segundo a qual o prazo decadencial para a administração anular os atos que produzam efeitos patrimoniais contínuos inicia-se com o primeiro pagamento, nos termos contidos no art. 54, § 1º, da Lei n. 9.784/99. Precedentes: REsp 1.758.047/ES, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 11/9/2018, DJe 21/11/2018; AgRg no RMS 38.075/MS, de minha relatoria, Segunda Turma, julgado em 08/09/2015, DJe 18/9/2015; AgRg no AREsp 150.977/GO, Rel. Min.
+Napoleão Nunes Maia Filho, Primeira Turma, julgado em 2/6/2015, DJe 18/6/2015.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.575.541/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 23/05/2019, DJe 31/05/2019).
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE DE SERVIDOR PÚBLICO. REDUÇÃO. IMPOSSIBILIDADE. DECADÊNCIA ADMINISTRATIVA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS DESPROVIDO.
+1. Esta Corte possuía o entendimento de que a Administração poderia anular seus próprios atos a qualquer tempo, desde que eivados de vícios que os tornassem ilegais, nos termos das Súmulas 346 e 473/STF.
+2. Entretanto, sobreveio a Lei 9.784, de 29 de janeiro de 1999, publicada em 1o. de fevereiro de 1999, que, em seu art. 54, assim dispôs: O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé.
+3. Na hipótese dos autos, cuidando-se de revisão de pensão por morte, o termo inicial do prazo decadencial, do art. 54 da Lei 9.784/1999, é a data do primeiro pagamento errôneo, o que ocorreu em janeiro de 1998, assim, não há dúvidas de que já havia decaído o direito da Administração Pública de rever o ato administrativo em junho de 2010.
+4. A tese sustentada pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS, defendendo como marco inicial da contagem do prazo decadencial a data de registro da pensão do Tribunal de Contas, foi rechaçada pela Corte de origem em razão de só ter sido apresentada nas razões do segundo Embargos de Declaração opostos pelo ora Agravante, não tendo sido arguida em qualquer das oportunidades de manifestação que o MP teve nos autos, traduzindo-se em verdadeira inovação de tese estranha à lide, o que impossibilitou sua análise.
+5. Carece, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais, atraindo os óbices previstos nas Súmulas 282 e 356 do STF, aplicáveis por analogia.
+6. Agravo Regimental do MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS desprovido.
+(AgRg no AREsp 150.977/GO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 02/06/2015, DJe 18/06/2015).
+O aresto hostilizado, que reconheceu a decadência do direito de o ente público reverno ano de 201, verba recebida pela parte adversa no ano de 2009, não diverge das orientações aludidas.
+Assim, aplica-se, na hipótese, a Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
