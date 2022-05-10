@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator.
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes.
+RELATÓRIO
+Cuida-se de Agravo Interno interposto por Sten Borup Sorensen, contra decisão singular por mim proferida, cuja ementa assim estabelece, in verbis:
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DISPOSITIVO LEGAL OBJETO DA DIVERGÊNCIA. SÚMULA N. 284/STF.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões recursais, a recorrente reafirmaque impugnou especificamente toda a matéria que fundamentou o acórdão proferido pelo TJSP, bem como tornou evidente o dissenso jurisprudencial sugerido pelo Acórdão guerreado e os paradigmas apresentados.
+Não houve a apresentação de contraminuta ao Agravo Interno.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE DISPOSITIVO LEGAL OBJETO DA DIVERGÊNCIA. SÚMULA N. 284/STF. DIVERGÊNCIA NO ÂMBITO DO MESMO TRIBUNAL. SÚMULA Nº 13 DO STJ. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA.
+1. Para fundamentar a alegada divergência interpretativa o recorrente colacionou três acórdãos paradigmas, sendo dois do próprio TJSP, sendo certo que, nos termos da Súmula nº 13 desta Corte, "a divergência entre julgados do mesmo tribunal não enseja recurso especial". Quanto ao terceiro acórdão paradigma, lavrado por este STJ, não é possível conhecer da alegação, haja vista a ausência de indicação do dispositivo legal objeto da divergência, o que atraia incidência da Súmula nº 284 do STF.
+2.Não é possível a utilização do agravo interno para indicar os dispositivos legais objeto da divergência, eis que a parte não o fez no bojo do recurso especial, sendo certo que fazê-lo no presente momento configura inovação descabida em sede recursal a respeito da qual já se consumou a preclusão.
+3. Agravo Interno não provido.
+VOTO
+A irresignação não prospera.
+Com efeito, o recorrente nas razões do apelo especialfundamenta a sua irrisignação, com amparo em suposto dissenso jurisprudencial asseverando a não incidência de ISSQN em relação a mão de obra na construção civil,supostamente executada por administração, empreitada ou subempreitada.
+Todavia, ao suscitar a divergência jurisprudencial, o recorrente não indicou qual o dispositivo normativo infraconstitucional com interpretação divergente, tampouco não procedeu ao cotejo analítico da exegese normativa suspostamente díspare. Deste modo, a questão posta pelo recorrente não encontra guarida, ante o teor da Súmula nº 284 do STF, poiso conhecimento do recurso especial fundamentado na alínea "c" do permissivo constitucional exige a indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente.
+A propósito:
+ADMINISTRATIVO. AMBIENTAL. AÇÃO CIVIL PÚBLICA. ÁREA DE PRESERVAÇÃO. DEMOLIÇÃO DE EDIFICAÇÃO. RECUPERAÇÃO DA ÁREA DEGRADADA. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO.
+I - Na origem, trata-se de ação ajuizada pelo Ministério Público Federal que objetiva a demolição de edificação, com a remoção dos respectivos entulhos, restaurando-se o meio ambiente degradado, implementando-se o competente Projeto de Recuperação de Área Degradada - PRAD, ou o pagamento de R$ 150.000,00 (cento e cinquenta mil reais), na impossibilidade de haver a completa reparação dos danos ambientais, assim comprovado por perícia judicial. Na sentença, julgaram-se parcialmente procedentes os pedidos, determinando a demolição total das edificações com a remoção dos entulhos e a recuperação total do dano ambiental. No Tribunal a quo, a sentença foi mantida. Nesta Corte, não se conheceu do agravo em recurso especial.
+II - A decisão agravada inadmitiu o recurso especial com base na ausência de prequestionamento, na incidência da Súmula n. 7/STJ (quanto à questão da não ocorrência da decadência do direito objeto desta ação e acerca da configuração da responsabilidade civil pelo dano ambiental na área sob análise), na divergência não comprovada e na ausência de indicação do dispositivo objeto da divergência - Súmula n. 284/STF.
+III - A parte agravante, entretanto, deixou de impugnar especificamente os óbices referentes à ausência de prequestionamento, a não comprovação da divergência e à ausência de indicação do dispositivo objeto da divergência - Súmula n. 284/STF.
+IV - Desse modo, forçosa é a incidência do art. 253, parágrafo único, I, do Regimento Interno do STJ e do art. 932, III, do CPC/2015. A propósito, confira-se o precedente da E. Corte Especial do STJ no EAResp n. 746.775 / PR.
+V - Agravo interno improvido.
+(AgInt no AREsp 1217162/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 05/03/2020, DJe 10/03/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO DA PRESIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. Pela leitura das razões recursais, constata-se que, quando da interposição do Agravo em Recurso Especial, a parte agravante não rebateu suficientemente, como lhe competia, todos os fundamentos da decisão agravada, deixando de impugnar especificamente a incidência da Súmula 7/STJ, ausência de similitude fática e ausência de indicação do dispositivo objeto da divergência - Súmula 284/STF.
+2. A parte agravante deve infirmar os fundamentos da decisão impugnada, autônomos ou não, mostrando-se inadmissível o recurso que não se insurge contra todos eles - Súmula 182 do Superior Tribunal de Justiça.
+3. Nos termos do Enunciado 6/STJ, a ausência de impugnação de fundamento da decisão agravada, por sua gravidade, não é vício passível de desconsideração na forma do § 3o. do art. 1.029 do Código Fux (EDcl no AgInt no AREsp. 1.051.998/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 11.9.2017).
+4. Ainda que assim não fosse, o acórdão recorrido está em harmonia com aorientação fixada pelo Supremo Tribunal Federal reconhecendo a constitucionalidade da exigência de limite máximo de idade para ingresso no Serviço Público, desde que seja justificável em virtude das atribuições inerentes ao cargo, bem como que haja previsão legal e no edital do certame.
+5. Agravo Interno do Particular desprovido.
+(AgInt no AREsp 1614355/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020)
+Ademais, para fundamentar a alegada divergência interpretativa o recorrente colacionou três acórdãos paradigmas, sendo dois do próprio TJSP, sendo certo que, nos termos da Súmula nº 13 desta Corte, "a divergência entre julgados do mesmo tribunal não enseja recurso especial". Quanto ao terceiro acórdão paradigma, lavrado por este STJ, não é possível conhecer da alegação, haja vista a ausência de indicação do dispositivo legal objeto da divergência, o que atraiu a incidência da Súmula nº 284 do STF, conforme já explicitado alhures.
+Impende registrar, por fim, que não é possível a utilização do agravo interno para indicar os dispositivos legais objeto da divergência, eis que a parte não o fez no bojo do recurso especial, sendo certo que fazê-lo no presente momento configura inovação descabida em sede recursal a respeito da qual já se consumou a preclusão.
+Ante o exposto, nego provimento ao Agravo Interno.
+É o voto.
