@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, dar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+JAMILSON SANTANA DA LUZinterpõe agravo regimental contra a decisão que não conheceu do habeas corpus.
+Sustenta o agravante a mudança de entendimento jurisprudencial sobre a matéria de mérito ao longo do tempo. Afirma o seguinte (fls. 321-323):
+Assim, o Tribunal de Justic a de Santa Catarina, ao dispensar a peri"cia sobre a qualificadora, violou frontalmente os arts. 158 e 171 do CPP e, consequentemente, praticou ato ilegal em desfavor do Paciente.
+Esta Corte Superior também já tratou sobre o tema, ou seja, dispensado o exame pericial somente em situações excepcionais, e não como regra geral:
+ ..
+Assim, sendo plenamente possi"vel a confecc a o da prova te"cnica e esta na o tendo sido produzida, a prova testemunhal na o lhe supre a falta.
+Portanto, resta evidente que fere a legalidade penal e a razoabilidade exasperar a pena do recorrente com a qualificadora do art. 155, § 4o, I, CP, sem o devido material probato"rio exigido pela lei para tanto.
+Requer a reconsideração da decisão ou a remessa do agravo para julgamento pela Turma, esperando seu conhecimento e provimento.
+O Ministério Público Federal opina pelo desprovimento do agravo regimental (fls. 333-336).
+O Ministério Público do Estado de Santa Catarina também requer o desprovimento do recurso (fls. 343-345).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOHABEAS CORPUS. CRIME DE FURTO. QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO. ART. 155, § 4º, I, DO CÓDIGO PENAL. IMPRESCINDIBILIDADE DO EXAME PERICIAL. NÃO INDICAÇÃO DOS MOTIVOS DA DISPENSA DO EXAME. ILEGALIDADE CONFIGURADA.AFASTAMENTO DA QUALIFICADORA. DESCLASSIFICAÇÃO. FURTO SIMPLES. DECISÃO REFORMADA.
+1. Para a incidência da qualificadora do art. 155, § 4º, I, do Código Penal, é imprescindível que o rompimento de obstáculo seja comprovado por exame pericial.
+2.Somente é possível a substituição do exame pericial por outros meios probatórios quando o delito não deixar vestígios, quando esses tiverem desaparecido ou quando as circunstâncias do crime não permitirem a confecção do laudo.
+3. Não indicados os motivos pelos quais foi dispensado ou impossibilitado o exame pericial, fica configurada ilegalidade passível de justificar o afastamento da qualificadora e, consequentemente, a desclassificação do delito para furto simples.
+4. Agravo regimental provido.
+VOTO
+O recurso reúne condições de êxito.
+É oportuno transcrever o que dispôs a sentença a respeito da levantada ilegalidade (fls. 174-175):
+1.2 DO ROMPIMENTO DE OBSTÁCULO
+Conforme previsão do art. 383 do CPP, pode do magistrado dar nova definição jurídica ao fato narrado na denúncia. Diante da desclassificação do crime de roubo para furto, bem como ante a descrição na exordial acusatória de que o crime teria sido cometido mediamente arrombamento, entendo possível reconhecer a referida qualificadora do crime de furto, prevista no inciso I do § 4º do art. 155 do Código Penal.
+A vítima disse em juízo que todas as portas da residência estavam fechadas e que o réu entrou pela lavanderia onde se encontrava uma porta de madeira que foi arrombada. Além da palavra da vítima, é possível verificar o arrombamento da porta por meio das fotografias juntadas no Boletim de Ocorrência de fls. 3/8, evento 1, dos autos em anexo.
+Assim, ainda que não tenha sido confeccionado laudo pericial no local do furto, a ausência de prova técnica não obsta o reconhecimento da qualificadora, conforme já consolidado na jurisprudência, desde que amparada por outros elementos de prova, o que é o caso destes autos:
+ ..
+Desta forma, devidamente caracterizada a qualificadora do rompimento de obstáculo, resta imperiosa a condenação do acusado nos moldes do art. 155, § 4º, I, do CP.
+O Tribunal de origem manteve a qualificadora. Para tanto, adotou os fundamentos a seguir (fls. 50-51):
+2.1 Pedido de afastamento da qualificadora
+Aduz a defesa, em linhas gerais, que a qualificadora do rompimento do obstáculo não pode ser mantida, pois não foi realizado o exame pericial no local, fim de confirmar a versão das testemunhas, aduzindo, ainda, que "a Autoridade Policial e, depois, o Promotor de Justiça deveriam ter diligenciado nesse sentido (solicitando o exame pericial). Não há motivos para que essa prova não tenha sido realizada" (Evento90 - RAZAPELA1, p. 3), motivo pelo qual requer que a qualificadora seja afastada.
+Inviável o acolhimento do pleito, pois além do depoimento prestado pelo policial militar Luiz Fernando de Lima, informando que o recorrente havia arrombado o local, a vítima afirmou, que as portas da residência estavam trancadas e que o réu entrou pela porta da lavanderia, arrombando-a. Não bastasse isso, as fotografias do local, atestando o rompimento de obstáculo (Evento 1 -P_FLAGRANTE6, p. 5), comprovam que o furto praticado por Jamilson foi cometido mediante arrombamento, não havendo portanto, como acolher o pedido formulado pela defesa.
+Após nova análise dos autos, observa-seque está caracterizadaflagrante ilegalidade.
+Com efeito, o Superior Tribunal de Justiça entende que, para a incidência da qualificadora do art. 155, § 4º, I, do Código Penal, é imprescindível que o rompimento de obstáculo seja comprovado por exame pericial.
+Somente é possível sua substituição por outros meios probatórios quando o delito não deixar vestígios, quando esses tiverem desaparecido ou quando as circunstâncias do crime não permitirem a confecção do laudo. Desse modo, se possível a realização da perícia, que não ocorreu, a prova indireta não pode suprir sua ausência.
+Da leitura do julgado, verifica-se que não houve a indicação dos motivos pelos quais foi dispensado ou impossibilitado o exame pericial, o que configura ilegalidade passível de justificar o afastamento da qualificadora e, consequentemente, a desclassificação do delito para furto simples.
+Nesse sentido, os seguintes julgados:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO PELA ESCALADA. EXAME PERICIAL. IMPRESCINDIBILIDADE. AUSÊNCIA DE JUSTIFICATIVA PARA A NÃO REALIZAÇÃO DA PERÍCIA. AFASTAMENTO DA QUALIFICADORA DEVIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que a incidência da qualificadora prevista no art. 155, § 4º, inciso I, do Código Penal, exige exame pericial para sua comprovação, somente admitindo-se prova indireta quando justificada a impossibilidade de realização do laudo direto.
+2. Na hipótese, tendo a qualificadora sido aplicada apenas com base em prova oral e em fotografias juntadas aos autos, deve ser afastado o rompimento de obstáculo e reconhecida a prática de furto simples, pois, além de não ter sido demonstrada a impossibilidade de realização da perícia técnica, tais provas não suprem a necessidade de sua efetivação.
+3. Agravo regimental não provido. (AgRg no HC n. 708.341/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1º/4/2022.)
+AGRAVOS REGIMENTAIS EM HABEAS CORPUS. SENTENÇA. FURTO QUALIFICADO. DOSIMETRIA. SEGUNDA FASE. COMPENSAÇÃO PARCIAL ENTRE A CONFISSÃO ESPONTÂNEA E A MULTIRREINCIDÊNCIA. POSSIBILIDADE. FRAÇÃO MAIOR QUE 1/6. POSSIBILIDADE. FRAÇÃO DE 1/5. ILEGALIDADE. AUSÊNCIA. PRECEDENTES. QUALIFICADORA DE ROMPIMENTO DE OBSTÁCULO. COMPROVAÇÃO. EXAME DE CORPO DE DELITO INDIRETO. NÃO DECLINADAS RAZÕES PARA A NÃO REALIZAÇÃO DA PERÍCIA. EXCLUSÃO DA QUALIFICADORA. PRECEDENTES. ORDEM PARCIALMENTE CONCEDIDA. MANIFESTA ILEGALIDADE NÃO EVIDENCIADA.
+1. As instâncias ordinárias compensaram parcialmente a agravante de multirreincidência e com a atenuante da confissão, majorando a pena em 1/5, em consonância com o entendimento jurisprudencial desta Corte Superior, para a qual, quanto à dosimetria da pena, tem-se que foi aplicada a fração de 1/5, na agravante da reincidência, em razão da multirreincidência específica do sentenciado, fundamento idôneo para justificar o acréscimo superior a 1/6 na segunda fase da dosimetria da pena (AgRg no HC n. 561.431/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 9/3/2020). Precedentes.
+2. Ademais, também quanto ao afastamento da qualificadora de rompimento de obstáculo do crime de furto (art. 155, § 4º, I, do CP), a decisão agravada deve ser mantida, uma vez que, no caso, as instâncias ordinárias não lograram demonstrar alguma das possibilidades de substituição do laudo pericial: inexistência ou desaparecimento de vestígios ou circunstância que impossibilitou a confecção do laudo.
+3. Isso porque, de acordo com a jurisprudência desta Corte, para o reconhecimento da qualificadora do rompimento de obstáculo, é imprescindível a realização de exame pericial, sendo possível a sua substituição por outros meios probatórios somente se (a) o delito não deixar vestígios; (b) os vestígios deixados desapareceram; ou (c) as circunstâncias do crime não permitirem a confecção do laudo (AgRg no REsp n. 1.924.565/MS, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/8/2021).
+4. Agravos regimentais veiculados nas Petições n. 93.433/2022 (fls. 1.952/1.957) e n. 99.916/2022 (fls. 1.960/1.973) improvidos.(AgRg no HC n. 711.800/SC, relatorMinistro Sebastião Reis Júnior, Sexta Turma, DJe de 28/3/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. COMPROVAÇÃO. EXAME DE CORPO DE DELITO INDIRETO. NÃO DECLINADAS RAZÕES PARA A NÃO REALIZAÇÃO DO EXAME DIRETO (PERÍCIA). EXCLUSÃO DA QUALIFICADORA. INSURGÊNCIA MINISTERIAL. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. A jurisprudência desta Corte firmou-se no sentido de que, para incidir a qualificadora do rompimento de obstáculo, prevista no art. 155, § 4º, I, do Código Penal, faz-se indispensável a realização de perícia, sendo possível substituí-la por outros meios de prova se o delito não deixar vestígios, ou esses tenham desparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo.
+Assim, não tendo sido mencionadas pela Corte a quo circunstâncias que dispensam a realização do laudo pericial, inexiste justificativa suficiente para a não elaboração do exame, devendo ser afastada a qualificadora disposta no inciso I do § 4º do art. 155 do Código Penal. Precedentes.
+2. Agravo regimental improvido. (AgRg no HC n. 557.077/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 16/ 6/2020.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE EXAME PERICIAL. INEXISTÊNCIA DE JUSTIFICATIVAS PARA A NÃO REALIZAÇÃO DA PERÍCIA. DESCLASSIFICAÇÃO PARA FURTO SIMPLES. PRETENSÃO MINISTERIAL DE RESTABELECIMENTO DA QUALIFICADORA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É firme a jurisprudência desta Corte Superior no sentido de que, para reconhecimento da qualificadora do rompimento do obstáculo, é imprescindível a realização de exame pericial, sendo possível a sua substituição por outros meios probatórios somente se o delito não deixar vestígios ou tenham esses desaparecido, ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo. Assim, se era possível a realização da perícia, mas essa não ocorreu, a prova testemunhal e o exame indireto não suprem a sua ausência.
+2. Na hipótese dos autos, a Corte de origem, ao apreciar a matéria, não apresentou qualquer justificativa para a não realização da perícia, devendo, assim, ser mantida a decisão agravada, que afastou a qualificadora prevista no art. 155, § 4º, inciso I, do Código Penal.
+3. Agravo regimental não provido. (AgRg no REsp n. 1.869.240/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/5/2020.)
+Passo a nova análise da dosimetria da pena.
+Afastada a majorante do rompimento de obstáculo, desclassifico o delito para furto simples. Assim, na primeira fase, reconhecida a circunstância judicial desfavorável relativa aos maus antecedentes, aplico à pena-base o aumento de 1/6, fixandoa reprimenda em 1 ano e 2 meses de reclusão e em 12 dias-multa.
+Na segunda fase, mantenho a compensação da agravante da reincidência com a atenuante da confissão espontânea, como ocorreu na instância de origem.
+Na terceira fase, reconhecida a hipótese de tentativa, procedo àredução na fração de 1/3, fixandoas penas definitivas em 9 meses e 10 dias de reclusão e em 8 dias-multa.
+Ficam mantidos os demais termos da sentença.
+Ante o exposto, dou provimento ao agravo regimental para não conhecer do habeas corpus e conceder a ordem de ofício, com fundamento noart. 654, § 2º, do Código de Processo Penal, a fim de excluir a majorante do rompimento de obstáculo e desclassificar o delito para furto simples, reduzindo a pena nos termos acima expostos.
+É o voto.
