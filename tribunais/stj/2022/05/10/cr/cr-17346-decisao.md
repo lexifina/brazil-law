@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça americana solicita que se proceda à citaçãode MARIA ALICE PEREIRA DE ALMEIDA ETCHENIQUE para responder a ação por danos morais.
+Ainteressadacompareceu espontaneamente nos autos eapresentou impugnação, na qual alega que: a)acomissão encontra-se deficientemente instruída; b) os documentos encontram-se ilegíveis, impossibilitando a sua integral leitura e compreensão; c) não existe nenhum instrumento de mandado e prova de sua regularidadeacostada nos autos; ed) ofensa àordem pública e violação dos princípios da ampla defesa e do contraditório (fls. 509-674).
+O Ministério Público Federal opinou pela devolução do processo à origem visto que foi cumprida a diligência rogada (fls. 677-678).
+É, no essencial, o relatório. Decido.
+De início, o STJ entende que, nas cartas rogatórias passivas, não há obrigatoriedade de juntada de cópia da procuração outorgada pela parte autora a seu advogado e que o art. 260 do Código de Processo Civil só se aplica às cartas rogatórias ativas.
+Além disso, a prática de ato de comunicação processual é plenamente admissível em carta rogatória. A simples citação do interessado para responder a ação proposta no Tribunal americano, por si só, não caracteriza situação de afronta à ordem pública ou à soberania nacional. Segundo entendimento firmado pelo Supremo Tribunal Federal, "a recusa da jurisdição estrangeira não constitui obstáculo à concessão do exequatur para a citação, uma vez que não é o caso de competência absoluta da jurisdição brasileira, mas sim relativa, o que não afasta, de plano, a competência da justiça rogante para julgar o feito" (CR n. 10.686-AgR/US, relator Ministro Maurício Corrêa, DJ de 3/10/2003).
+A defesa da parte interessada será apresentada na Justiça rogante. A esta Corte cumpre apenas verificar se há autenticidade dos documentos e observância dos requisitos do RISTJ, o que, no caso, ocorreu.
+A alegação de que a carta rogatória foi deficientemente instruída não procede. O pedido de diligência contém todas as informações necessárias à compreensão da controvérsia e a providência requerida pela Justiça rogante. Portanto, é desnecessária a juntada de elementos informativos aos autos, conforme demonstra o seguinte precedente da Corte Especial:
+AGRAVO INTERNO NA CARTA ROGATÓRIA. TESE DE DEFICIÊNCIA NA INSTRUÇÃO. DOCUMENTAÇÃO SUFICIENTE PARA COMPREENSÃO DA CONTROVÉRSIA. A CONCESSÃO DE EXEQUATUR À CARTA ROGATÓRIA NÃO IMPORTA EM VIOLAÇÃO DA GARANTIA CONTRA A AUTOINCRIMINAÇÃO. DIREITO DE O AGRAVANTE NÃO PRODUZIR PROVA CONTRA SI PRESERVADO. AGRAVO INTERNO DESPROVIDO.
+1. A carta rogatória para a concessão doexequaturnão precisa estar acompanhada de todos os documentos existentes na petição inicial e de detalhes do processo em curso, mas de peças suficientes para a compreensão da controvérsia.
+ ..
+3. Agravo interno desprovido. (AgInt na CR n. 11.000/EX, relatora Ministra Laurita Vaz, DJe de 6/12/2016.)
+Desse modo, oobjeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Diante do cumprimento da diligência rogada (fls. 509-674), considero consumado o objeto da comissão, sendo desnecessária a remessa dos autos à Justiça Federal.
+Veja-se precedente da Corte Especial sobre a questão:
+CARTA ROGATÓRIA. AGRAVO REGIMENTAL. INTIMAÇÃO PRÉVIA FEITA VIA POSTAL COM AVISO DE RECEBIMENTO ASSINADO PELO PRÓPRIO INTERESSADO. DEVOLUÇÃO DOS AUTOS À JUSTIÇA ROGANTE ANTE O CUMPRIMENTO DA DILIGÊNCIA.
+I - Na fase de intimação prévia, é enviada ao interessado cópia integral da comissão rogatória.
+II - No caso, o Aviso de Recebimento foi assinado pelo próprio interessado, o que leva à conclusão de que ele tomou conhecimento de todos os termos da rogatória em questão.
+III - Assim, tendo o interessado tomado conhecimento do processo em trâmite no juízo rogante, foi consumado o objeto da diligência, não havendo, portanto, necessidade de envio dos autos à Justiça Federal. Agravo regimental desprovido. (AgRg na CR n. 9.599/EX, relator Ministro Francisco Falcão, DJe de 12/6/2015.)
+Ante o exposto, determino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) por intermédio da autoridade central competente, com a observação de que o prazo para comparecimento perante a autoridade estrangeira será contado da juntada da carta rogatória aos autos do processo estrangeiro.
+Publique-se. Intimem-se.
