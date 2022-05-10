@@ -1,0 +1,14 @@
+DECISÃO
+Vistos.
+Decido.
+Verifica-se que a Corte a quo decidiu a matéria com fundamentos unicamente constitucionais, o que impede a análise das alegações relativas à mesma matéria nesta Corte. É o que se percebe dos seguinte trechos do acórdão:
+Nesse contexto, devo destacar que manter a decisão que excluiu o impetrante do aludido processo seletivo, sem que exista contra ele uma sentença penal condenatória transitada em julgado, é ferir mortalmente o princípio da presunção de inocência (ou da não culpabilidade) - art. 5º, LVII, da CF. Analisando tal princípio, RENATO BRASILEIRO DE LIMA destaca que a Constituição Federal "é claríssima ao estabelecer que somente o trânsito em julgado de uma sentença penal condenatória poderá afastar o estado inicial de inocência de que todos gozam". (in Manual de Processo Penal - volume único. 2 ed. Bahia: JusPodivm, 2014, p. 50). Trago julgados da lavra do STF e STJ que endossam a posição ora sustentada:
+ ..
+Dessa forma, tenho que se mostra ilegal a exclusão do impetrante do certame, eis que de acordo com a jurisprudência dominante, viola o princípio da presunção de inocência a exclusão de candidato em concurso público ou mesmo processo seletivo, que responde a inquérito ou ação penal sem trânsito em julgado da sentença condenatória, como no caso dos autos. Assim, em que pese se mostrar indispensável e adequada a exigência da idoneidade moral do candidato ao ingresso a uma das carreiras da área de Segurança Penitenciária, a submissão de uma pessoa a processo criminal condenatório onde nesse processo não exista sentença condenatória transitada em julgado, não se mostra suficiente para eliminar determinado candidato de um concurso público ou mesmo processo seletivo.
+Considerando que o recurso especial foi interposto na vigência do Código de Processo Civil de 2015 (Enunciado Administrativo n. 3/STJ, fl.) e que não foi interposto recurso extraordinário, é cabível a aplicação do previsto no art. 1.032 do Código de Processo Civil, segundo o qual:
+Art. 1.032. Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 (quinze) dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+Parágrafo único. Cumprida a diligência de que trata o caput, o relator remeterá o recurso ao Supremo Tribunal Federal, que, em juízo de admissibilidade, poderá devolvê-lo ao Superior Tribunal de Justiça.
+Ante o exposto, concedo prazo de 15 dias para que a parte recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+Apresentadas as razões, abra-se vista para a parte recorrida apresentar contrarrazões no mesmo prazo de 15 dias.
+Após, cumpridas as diligências, remeta-se o recurso ao Supremo Tribunal Federal para o juízo de admissibilidade previsto no art. 1.032 do Código de Processo Civil de 2015.
+Publique-se. Intimem-se.
