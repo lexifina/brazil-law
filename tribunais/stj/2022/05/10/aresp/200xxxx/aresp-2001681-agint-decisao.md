@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interno interposto pelo MUNICÍPIO DO RIO DE JANEIROem face de decisão emanada da Presidência desta Corte que não conheceu do agravo em recurso especial pela segfuinte fundamentação: (I)incidência da Súmula 284/STF, pois a parte deixou de indicar qual o inciso do art. 1.022 do CPC que restou contrariado; (II) incidência da Súmula 284/STF em relação aos arts.arts. 783, 784 e 798, I, "a", do CPC, em razão da ausência de comando normativo do dispositivo apontado como violado; (II) ausência de prequestionamento da tese recursal.
+Inconformado, o Município agravante, em suas razões, sustenta não ser caso de incidência da Súmula 284/STF, pois foi expresso em afirmar que o acórdão foi omisso a respeito de argumento relevante ao deslinde do feito. Ademais, alega que a Súmula 284/STF, poisa fundamentação apresentada no recurso especial a respeito da nulidade da execução e da violação a diversos dispositivos do CPC foi suficiente e adequadamente apresentada.
+O prazo para impgunação transcorreu in albis (fl. 195).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC/2015 e 259 do RISTJ, reconsidero a decisão agravada tornando-a sem efeito.
+Passo ao novo exame do agravo.
+Trata-se de agravo manejado peloMUNICÍPIO DO RIO DE JANEIRO contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 85):
+Agravo de Instrumento. Execução. Contrato administrativo. Documento público dotado de força executiva. Inteligência do art.784,II, do CPC. Débito não tributário. Correção monetária pelo IPCA-E. Juros moratóriosde 0,5 % ao mês até o advento da Lei nº 11.960/09, passando, então, ao índice estabelecido para a caderneta de poupança, na forma do artigo 1º-F, da Lei nº 9.494/97. Recurso parcialmenteprovido.
+Opostos embargos declaratórios, foram desprovidos.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 783, 784, 798, I, 803, I,1.022 do CPC. 02
+Preliminarmente, sustenta que o acórdão foi omisso a respeito do argumento de queas notas fiscais não foram atestadas pela autoridade pública competente, o que afastaria a certeza e exigibilidade da obrigação que é objeto da execução.No mérito, defende a nulidade da execução, visto que os documentos apresentados não são títulos executivos extrajudiciais.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aoart. 1.022do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, o Tribunal local mantece a sentença que havia concluído que a dívida originada no contrato administrativo está devidamente comprovada (fls. 86/87):
+In casu, a dívida consubstanciada no contrato está robustamente comprovada. Veja-se que além das notas fiscais emitidas após a prestação dos serviços, há o reconhecimento da própria edilidade quanto ao débito, conforme se extrai objetivamente das publicações no Diário Oficial do Município. (fls. 86/91)
+Também não procede a alegação de falta de certeza e liquidez do título. As obrigações estipuladas no instrumento estão devidamente especificadas, e os documentos acostados nos autos demonstram a liquidez e a exigibilidade do contrato administrativo.
+Nesse contexto, há de se esclarecer que a simples necessidade de realização de cálculos matemáticos para se chegar ao montante real da dívida,não a torna ilíquida.
+Assim, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame dos termos do contrato administrativo e doacervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme os óbices previstos nas Súmulas 5 e 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. AUSÊNCIA DE PAGAMENTO. AÇÃO DE RESSARCIMENTO DE PERDAS E DANOS. ANÁLISE DO ACERVO FÁTICO PROBATÓRIO. NOTAS FISCAIS E FATURAS. PAGAMENTO DEVIDO. ENTENDIMENTO DIVERSO. IMPOSSIBILIDADE. ÓBICE SUMULAR 5/STJ E 7/STJ. SUCUMBÊNCIA RECÍPROCA. SÚMULA N. 7/STJ. VALOR INFERIOR NÃO CONFIGURA SUCUMBÊNCIA MÍNIMA.
+I - Na origem, trata-se de ação de cobrança ajuizada por empresa de serviços gerais contra o Estado de Roraima, decorrente de inadimplência estatal, originária de contrato proveniente de processo licitatório, com objeto de prestação de serviços inerentes à conservação predial e outros.
+II - Ação julgada parcialmente procedente na primeira instância, em valor inferior ao pretendido pela autora, decisão mantida, em grau recursal, pela Corte Estadual.
+III - A pretensão recursal do Estado no sentido de que a recorrida não teria se desincumbido de comprovar a execução dos serviços contratados, esbarra nos óbices das Súmulas ns. 5 e 7/STJ, na medida em que seria necessário o revolvimento dos termos contratuais e do acervo fático-probatório dos autos.
+IV - De forma geral, a questão acerca da análise da sucumbência recíproca, nesta instância, esbarra na Súmula n. 7/STJ. Ademais, ainda que se pudesse ultrapassar tal óbice, a hipótese dos autos se enquadraria em precedentes análogos desta Corte, no sentido de que a concessão de valor inferior ao pretendido pelo autor não evidencia sucumbência mínima para o fim colimado.
+V - Agravo conhecido para não conhecer do recurso especial.
+(AREsp 1852313/RR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 10/08/2021, DJe 17/08/2021)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
