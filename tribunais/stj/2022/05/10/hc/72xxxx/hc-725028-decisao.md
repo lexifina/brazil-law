@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de ENZO GIULIANO TAMBORIM MATHEY no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n.2287577-66.2021.8.26.0000).
+Depreende-se dos autos que o paciente foi preso preventivamente pela suposta prática do delito de associação para o tráfico (e-STJ fls. 44/49).
+O pedido de revogação da custódia foi indeferido (e-STJ fls. 50/51).
+Impetradohabeas corpusna origem, o Tribunal local denegou a ordem em acórdão assim ementado (e-STJ fl. 30):
+HABEAS CORPUS. Associação para o tráfico. Revogação da prisão preventiva. Impossibilidade. Presença dos requisitos ensejadores da segregação cautelar. Ordem denegada.
+Nestewrit, a defesa aponta constrangimento ilegal decorrente da prisão cautelar.
+Sustenta que "não se verifica do v. acórdão motivos idôneos e fundamentados que justifiquem a manutenção da prisão preventiva do paciente, quando este se encontra preso há mais de 180 dias, sem qualquer elemento que indique a necessidade da medida mais gravosa" (e-STJ fl. 6).
+Alega que a gravidade abstrata do delito não justifica a manutenção da custódia e que a valoração negativa dos antecedentes do paciente em nada interfere na decretação da prisão, já que taisfatos ocorreram posteriormente aos ora analisados.
+Pontua que, no caso, não se encontram presentes os elementos autorizadores da medida constritiva, nos termos do art. 312 do CPP, e que o paciente preenche os requisitos legalmente exigidos para a substituição da prisão por medidas alternativas, nos moldes do disposto no art. 319 do citado diploma.
+Dessa forma, requer, liminarmente e no mérito, a substituição da prisão preventiva por medidas cautelares, com a expedição do competente alvará de soltura (e-STJ fls. 3/28).
+Liminar indeferida.
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso.
+É o relatório.
+Decido.
+O presente writ está prejudicado.
+Isso, porque, consoante parecer doparquetfederal, além de informações complementaresobtidas no sítio eletrônico do Tribunal de origem, sobreveio decisão no bojo da ação penal em comento revogando a prisão preventiva e determinando a expedição de alvará de soltura em favor doora recorrente.
+A esse respeito, trago a manifestação do Ministério Público Federal, in verbis (e-STJ fls. 90/91):
+De acordo com as informações constantes dos autos e extraídas do site do Tribunal de Justiça do Estado de São Paulo (TJ/SP), sobre o andamento da Ação Penal n.º 1524518-92.2021.8.26.0050, em trâmite perante a 27ª Vara Criminal de São Paulo - Foro Central Criminal Barra Funda/SP, infere-se que a prisão preventiva do paciente foi revogada em 14/03/22 e foi expedido alvará de soltura, tendo em vista a extensão dos efeitos de habeas corpus concedido em favor de corréu, em situação fático-jurídica similar.
+ ..
+Ao conceder a liberdade provisória ao ora paciente, o magistrado a quo destacou o seguinte:
+"Vistos. Compulsando os autos, verifico que os réus ENZO, e WILLIAN encontram-se em situação idêntica à do réu EDUARDO. A prisão preventiva dos três foi decretada pela mesma decisão, sob iguais fundamentos, sendo os três réus primários e de bons antecedentes. Assim, diante da r. Decisão do STJ que deferiu a liberdade provisória ao réu EDUARDO FUSCO FILHO, sob o fundamento de ausência de fundamentação concreta para o deferimento da prisão preventiva, imperioso o reconhecimento do mesmo benefício aos réus ENZO e WILLIAM, sob pena de violação ao princípio da isonomia. Portanto, sob os fundamentos elencados pelo C. STJ, defiro a liberdade provisória aos réus Enzo Giuliano Tamborrino Mathey e William Cavaletti da Silva, revogando as prisões preventivas antes decretadas. Expeçam-se alvarás de soltura clausulados em favor deles. Diversa, contudo, é a situação do réu EVERTON, já condenado anteriormente pelo delito de tráfico (fls. 229/236), o que evidencia, de forma concreta, a necessidade da custódia cautelar, destacando-se o risco à ordem pública representado por sua persistência na senda criminosa. Nessa mesma linha de raciocínio, verifico que os réus PAULO, LAURA e RAPHAEL apresentam situação fático-jurídica similar à do réu EDUARDO, motivo pelo qual, à luz da r. decisão do STJ, não se justifica a decretação de suas prisões. Indefiro, portanto, o pleito ministerial de fls. 802/806, observando que as prisões temporárias outrora decretadas não foram cumpridas, restando prejudicadas após o recebimento da denúncia. Assim, promova a Serventia a exclusão de eventuais mandados de prisão temporária em nome dos réus Paulo Sandoval, Raphael Araújo Lucas e Laura Santos Trindade, junto ao BNMP, decorrentes deste feito. Por fim, aguarde-se a realização da audiência já designada, cumprindo-se integralmente a decisão de fls. 768" (Ação Penal n.º 1524518-92.2021.8.26.0050, disponível no site do TJ/SP,  .. ).
+Assim, patente que o presente writ está prejudicadohaja vista a perda superveniente de objeto.
+Diante do exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
