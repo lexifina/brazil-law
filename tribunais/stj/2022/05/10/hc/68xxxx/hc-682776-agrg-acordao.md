@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+CÍCERO SOARES DOS SANTOS agrava da decisão de fls. 168-171. Assinala que,para a análise da comutação prevista no Decreto nº 8.615/2015, somente podem ser consideradas as sentenças transitadas em julgado para a defesa, até25/12/2015.
+Assim, acondenação proferida nos Autos n. 000860-66.2012.8.24.0218, PEC n. 000998-28.2015.8.24.0218, que havia transitado em julgado somente para aacusação, em 17/8/2015, não pode integrar o cálculo da benesse.
+Pede a reforma do julgado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS.DECRETO PRESIDENCIAL N. 8.615/2015.SENTENÇA TRANSITADA EM JULGADO SOMENTE PARA A ACUSAÇÃO. CÔMPUTO PARA ANÁLISE DA COMUTAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.O Decreto n. 8.615, de 23/12/2015, prevê acomutaçãoaos condenadosque, até 25/12/2015, sobre o total depenas somadas, tenham cumprido os requisitos objetivo esubjetivo elencados na norma de regência, ainda quea sentença tenha transitado em julgado somente para a acusação, sem prejuízo do julgamento de recurso da defesa em instância superior.
+2. O Tribunal de origem proferiu acórdão conforme a jurisprudência desta Corte, in verbis, "tendo a sentença transitado em julgado para a acusação, ainda que inexista o trânsito em julgado em definitivo da sentença penal condenatória, deve ser considerada a totalidade das penas impostas ao reeducando, para fins de contagem do lapso temporal (requisito objetivo) necessário à concessão da comutação de penas. Precedentes"(AgRg no HC n. 623.203/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 1º/3/2021).
+3. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+O apenado, em 15/3/2016, foi beneficiado com a comutação prevista no Decreto n. 8.615/2015, consideradas apenas ascondenações impostas nas ações n. 235.11.000686-3 e 037.12.002299-7 (fls. 550/553 do Evento 264 dos autos da execução penal).
+Posteriormente, os autos foram encaminhados ao Ministério Público e o órgão formulou pedido de reconsideração da decisão, pois não se integrou à totalidade das penas anova condenaçãonos Autos n. 0000860-66.2012.8.24.0218, com trânsito em julgado para aacusação, em 17/08/2015 (antes da publicação do decreto presidencial).O Juízo da VEC, em 22/6/2016, anulou a decisão, à vista do erro de cálculo do requisito objetivo, e indeferiu a comutação.
+O Tribunal de Justiça negou provimento ao agravo da defesa, porquanto: "devem ser somadas, para o cálculo do requisito objetivo necessário ao alcance do indulto e da comutação previstos no Decreto 8.615/15, todas as penas impostas em sentenças condenatórias que tenham transitado em julgado para a Acusação até 25/12/15, sem prejuízo do julgamento de recurso da Defesa, ou contra as quais haja recurso do Ministério Público que não vise majorar a quantidade da pena ou as condições exigidas no ato normativo presidencial" (fl. 70).
+Deveras:"para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC 468.737/RS, Rel. Ministra Laurita Vaz, 6ª T., Dje 10/04/2019).
+As instâncias ordinárias somaram todas as penas aplicadas ao paciente até a data da publicação do Decreto Presidencial n. 8.615/2015. A sentença proferida nos autos n. 000860-66.2012.8.24.0218 PEC n. 000998-28.2015.8.24.0218, que transitou em julgado para a acusação, em 17/8/2015, não foi desconsiderada, uma vez que o Presidente da República, no art. 6º, I, do Decreto Presidencial n. 8.615/2015, assim dispôs: "O indulto e a comutação de penas de que trata este Decreto são cabíveis, ainda que, a sentença tenha transitado em julgado para a acusação, sem prejuízo do julgamento de recurso da defesa em instância superior".
+Foi possível a solução monocrática do habeas corpus, pois oaresto está conforme a jurisprudência desta Corte:
+ ..
+1. A jurisprudência desta Corte é no sentido de que "para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC HC 456.119/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 15/10/2018). (HC 468.737/RS, Rel. Ministra LAURITA VAZ, Sexta Turma, Dje 10/04/2019)
+2. No caso, tendo a sentença transitado em julgado para a acusação, ainda que inexista o trânsito em julgado em definitivo da sentença penal condenatória, deve ser considerada a totalidade das penas impostas ao reeducando, para fins de contagem do lapso temporal (requisito objetivo) necessário à concessão da comutação de penas. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no HC n. 623.203/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 1º/3/2021).
+À vista do exposto, nego provimento ao agravo regimental.
