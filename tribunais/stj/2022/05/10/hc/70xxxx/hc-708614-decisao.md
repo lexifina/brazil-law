@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de ARMANDO DORIA FRADE JUNIOR contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, proferido nos autos do Agravo em Execução n. 5006823-20.2021.8.19.0500.
+Extrai-se dos autos que paciente teve, administrativamente, reconhecida a prática de falta grave (art. 50, VII, da LEP). O Juiz da execução, considerando que o fato não foi devidamente comprovado, deixou de homologar a infração disciplinar. O Tribunala quo,por sua vez, deu provimento ao recurso do Ministério Público reconhecer a validade do procedimento disciplinar e determinou a alteração da data-base para a progressão de regime.
+No presente writ,a defesa alega a existência de violação ao contraditório e à ampla defesa, visto que a oitiva do paciente teria ocorrido sem a presença de defesa técnica, durante o procedimento disciplinar, e "também não houve audiência de justificação perante o Juízo da execução, de maneira que não há que se falar em suprimento da nulidade" (fl. 9).
+Aduz, também, que está demonstrada a insuficiência probatória a respeito da prática da infração disciplinar.
+Requer, assim, que seja declarada "a nulidade do procedimento disciplinar respectivo, com a desconstituição de todos os seus efeitos e retorno das partes ao statu quo ante; e, consequentemente, afastar a falta grave imputada ao paciente"(fl. 13).
+Indeferido o pedido de liminar e dispensadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem (fls. 127/133).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+É consabido que "aCorte Constitucional, no julgamento do RE n. 972.598 RG/RS, sob a sistemática da repercussão geral, firmou o entendimento de que a oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena (Tema 941/STF).(AgRg no REsp 1984418/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 31/03/2022).
+Na hipótese, conforme verifica-se dos autos, além de o apenado ter sido ouvido na fase administrativa sem a presença de defesa técnica, não ocorreu posterior audiência de justificação, que supriria a referida falha. Destarte, cogente o afastamento da falta grave reconhecida sem a observância do devido processo legal.
+Ante o exposto, não conheço do habeas corpus,mas concedo a ordem, de ofício, para afastar a infração disciplinar em questão,sem prejuízo de que nova apuração seja levada a efeito.
+Publique-se.
+Intimações necessárias.
