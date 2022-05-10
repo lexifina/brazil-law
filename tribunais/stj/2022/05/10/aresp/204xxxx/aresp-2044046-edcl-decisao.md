@@ -1,0 +1,40 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por ARTHUR TREVIZAN BARBOSAcontra decisão de minha lavra (fls. 432/434), que negou provimento aoagravoante a aplicação das Súmulas n. 7/STJ e n. 83/STJ.
+Nas razões recursais (fls. 436/439), a parte embargante alega, em síntese, que haveria omissãona decisão embargada "ao decidir que a decisão do Tribunal de piso está em conformidade com a jurisprudência do STJ, haja visto que no Recurso Especial o recorrente, trouxe jurisprudência, do própria STJ, porém da Segunda Turma, decisão essa totalmente contrária ao entendimento de V. Exa., não podendo fazer crer que a r.decisão acostada está pacificada,  .. ". Assim, não incidiria a Súmula n. 83/STJ.
+Requer o acolhimento dos embargos declaratórios, a fim de sanar a alegada omissão.
+É o relatório. DECIDO.
+2. Segundo o art. 1.022, caput e incisos, do Novo CPC, são cabíveis os embargos de declaração quando a decisão judicial se revelar omissa, obscura ou contraditória, assim como para correção de erro material.
+Da doutrina processualista, extrai-se que a obscuridade consiste na falta de clareza da decisão impugnada, sendo que, diante da função precípua do pronunciamento judicial de emprestar certeza às relações litigiosas que calham às suas portas, não se admitem decisões judiciais não-unívocas.
+Por outro lado, verifica-se a contradição quando no acórdão se incluem proposições entre si inconciliáveis. Nos termos do magistério de Barbosa Moreira:
+Pode haver contradição entre proposições contidas na motivação (exemplo:a mesma prova ora é dita convincente, ora inconvincente), ou entre proposições da parte decisória, isto é, incompatibilidade entre capítulos do acórdão: v.g. anula-se, por vício insanável, quando logicamente se deveria determinar a restituição ao órgão inferior, para sentenciar de novo; ou declara-se inexistente a relação jurídica prejudicial (deduzida em reconvenção ou em ação declaratória incidental), mas condena-se o réu a cumprir a obrigação que dela necessariamente dependia; e assim por diante.
+Também pode ocorrer contradição entre alguma proposição enunciada nas razões de decidir e o dispositivo: por exemplo, se na motivação se reconhece como fundada alguma defesa bastante para tolher a pretensão do autor, e no entanto se julga procedente o pedido.
+(Comentários ao Código de Processo Civil. v. 5. Rio de Janeiro: Forense, 2008, pp. 556-557)
+Por sua vez, "o erro material é aquele evidente, decorrente de simples erro aritmético ou fruto de inexatidão material, e não erro relativo a critérios ou elementos de julgamento" (EDcl no AgRg no REsp 1234057/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 28/06/2011, DJe 01/07/2011.
+De resto, nos termos do art. 1.022, II, do Novo CPC "omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento".
+Nenhum desses vícios se faz presente na decisão ora embargada.
+3. Na espécie, consta da decisão ora embargada o seguinte:
+2. A parte ora agravante busca a repetição do indébito em dobro. Ao apreciar o ponto, o Tribunal estadual consignou:
+Anote-se, inicialmente, que, pelo que consta dos autos, não há que se falar mesmo em repetição em dobro do indébito. Cabe aqui lembrar que o art. 42, parágrafo único, da Lei 8.078/90 deve ser interpretado da mesma maneira que o art. 940 do Código Civil, visto que não se pode presumir que a ré tenha agido com má-fé ao encetar a cobrança mencionada. Era necessário que o autor fizesse prova de que a cobrança se deu por ato de má-fé da instituição de ensino. Contudo, não há nos autos nenhum adminículo probatório nesse sentido. Em consequência, é mesmo descabida a imposição da sanção, de acordo com o antigo entendimento da Súmula 159 do Supremo Tribunal Federal e conforme jurisprudência do SuperiorTribunal de Justiça (cf. AgRg no Rec. Esp. 754.250/RS, 4ªT., Rel. Min. Jorge Scartezzini, DJU 19.12.05, AgRg no Rec. Esp. 706.365/RS, 4ªT., Rel. Min.Jorge Scartezzini, DJU 20.02.06, AgRg no Ag. 570.214/MG, 3ªT., Rel. Min.Nancy Andrighi, 28.06.04, Rec. Esp. 401.589/RJ, 4ªT., Rel. Min. Fernando Gonçalves, DJU 4.10.04). Nesse ponto, portanto, o recurso não merece provimento.
+O Tribunal de origem, ao concluir que, para ser deferida a devolução em dobro dos valores já pagos, deve estar efetivamente provada a má-fé, decidiu em harmonia com o entendimento desta Corte, a exemplo dos seguintes julgados, entre outros:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO CUMULADA COM DANOS MORAIS.TRIBUNAL DE ORIGEM CONCLUIU QUE NÃO HOUVE PROVA DA MÁ-FÉ DA INSTITUIÇÃO FINANCEIRA. INAPLICABILIDADE DO ART. 42, PARÁGRAFO ÚNICO, DO CDC. RESTITUIÇÃO SIMPLES. ACÓRDÃO ESTADUAL DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. "A repetição em dobro de valores indevidamente cobrados e/ou descontados exige a demonstração da má-fé do credor" (AgRg no AREsp 167.156/RJ, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 1º/12/2015, DJe de 03/12/2015).
+2. No caso, o Tribunal de origem, com arrimo no acervo fático-probatório carreado aos autos, concluiu que não ficou demonstrada a má-fé ou dolo da instituição financeira, concluindo pela repetição do indébito na forma simples.
+3. Estando o v. acórdão estadual em consonância com a jurisprudência do STJ, o apelo nobre encontra óbice na Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1501756/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/10/2019, DJe 25/10/2019).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE EMPRESARIAL. PREQUESTIONAMENTO. AUSÊNCIA. PERCENTUAL DA MULTA MORATÓRIA. FALTA DE INTERESSE DE RECORRER. RAZÕES DISSOCIADAS DA DECISÃO AGRAVADA. JUROS DE MORA.PERCENTUAL. DESCARACTERIZAÇÃO DA MORA. REPETIÇÃO EM DOBRO DO INDÉBITO. IMPOSSIBILIDADE. ENUNCIADOS 282 DA SÚMULA DO STF E 182 E 379 DO STJ.
+ ..
+5. Somente a cobrança de valores indevidos por inequívoca má-fé enseja a repetição em dobro do indébito.
+6. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1127566/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/03/2012, DJe 23/03/2012).
+Desse modo, estando o acórdão recorrido em conformidade com a jurisprudência do STJ, incide a Súmula n. 83 do STJ, impedindo o conhecimento do recurso por ambas as alíneas.
+3. Ademais, verificar a presença ou não da alegada má-fé, não reconhecida pelo Tribunal local, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula n. 7 do STJ.
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código deProcesso Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+Com efeito, nota-se que, no presente caso, não há omissão a ser sanada, tendo este Relator citado precedentes da Segunda Seção.
+Assim, não é omissaa decisão que, embora com fundamentação contrária ao interesse da parte, desata a questão jurídica posta em juízo.
+A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos de declaração.
+Desse modo, ressalta-se que os restritos limites dos embargos de declaração não permitem rejulgamento da causa, como pretende a parte embargante, sendo certo que o efeito modificativosomente é possível em casos excepcionais e uma vez comprovada a obscuridade, contradição, omissão ou erro material do julgado, o que não se aplica ao caso concreto pelas razões acima delineadas.
+4. Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
