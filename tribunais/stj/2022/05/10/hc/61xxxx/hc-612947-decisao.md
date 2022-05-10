@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido de liminar, impetrado em favor de AndréLuiz Correa dos Santos, em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro(Apelação Criminal n. 0396417-12.2015.8.19.0001).
+O paciente foi condenado à pena de 10 anos e 8 meses de reclusão, em regime inicial fechado, além do pagamento de 1.599 dias-multapela prática dos delitos previstos noart. 35 da Lei n. 11.343/2006e no art. 14 da Lei n. 10.826/2003.
+Sustenta o impetrante que o acórdão impugnado incorreu em constrangimentoilegal, na medida em que mantevea sentença condenatória, mesmo sem a demonstração concreta dos requisitos referentes àestabilidade e permanência necessários para a configuração do delito de associação ao tráfico.
+Aponta, ainda, a ilegalidade na fixação da dosimetria do paciente, porquanto não fora aplicada a causa de diminuição referente ao tráfico privilegiado, aqual fariajus o paciente, pois preenche os requisitos legais.
+Requer, liminarmente e no mérito, aconcessão da ordem para absolver o paciente quanto ao delito previsto no art. 35 da Lei n. 11.343/2006, ou, subsidiariamente, seja o quantum de aumento da pena base diminuído com o consequente reflexo na pena (fl. 13).
+Instado a se manifestar, o Ministério Público Federal opinoupelo não conhecimento do writ(fls. 109/111).
+É o relatório.
+De início, as informações obtidas no portal oficial do Tribunal de Justiça local dão conta de que sobreveio o trânsito em julgado da condenação em 30/9/2020.
+Consta dos autos que, após análise detida do conjunto fático-probatório, as instâncias de origem condenaram o ora paciente pelos crimes previstos noart. 35 da Lei n. 11.343/2006 e no art. 14 da Lei n. 10.826/2003.Confiram-se trechos do acórdão recorrido, no que interessa, in verbis (fls. 66/70- grifo nosso):
+Com efeito, a existência do delito de associação para o tráfico drogas e respectiva autoria na pessoa do acusado restaram demonstradas pelo auto de prisão em flagrante de fls. 03; registro de ocorrência de fls. 08/09;declarações prestadas em sede policial de fls. 05/06; auto de apreensão de fls. 11; laudos técnicos de fls. 62/65 e 105/109; e sobretudo pelas declarações prestadas em Juízo, sob o crivo do contraditório e da ampla defesa.
+Depreende-se dos autos que policiais militares realizavam incursão em comunidade dominada por organização criminosa voltada para a exploração da citada facção criminosa que controla a região, sendo que, ao avistar os policiais, o falecido corréu, Gustavo Victor Gomes da Silva, apontou uma arma de fogo na direção dos agentes da lei, fazendo com que os policiais reagissem, disparando contra o grupo.
+Os agentes da lei conseguiram prender o apelante e o corréu, com eles apreendendo uma arma de fogo e munições, mas o terceiro elemento que os acompanhava logrou fugir.
+Inobstante algumas pequenas inconsistências em seus depoimentos, resultantes do lapso temporal entre a data do fato e a data da audiência, e ainda da alta frequência de casos semelhantes, a narrativa dos policiais em Juízo encontra harmonia com aquilo que eles haviam declarado em sede policial, nos pontos que são primordiais.
+Aduzem que o réu foi preso em local sob o domínio do tráfico de drogas organizado, na companhia do falecido denunciado e de mais um comparsa que conseguiu fugir, quando conversam entre si sobre procedimentos da quadrilha, e ainda tentaram evitar a prisão apontando uma arma de fogo contra os agentes estatais.
+E não se alegue, ademais, que depoimentos prestados por policiais não são aptos a amparar um juízo de reprovação, pois tal matéria já se encontra até mesmo sumulada por este Tribunal, nos termos do verbete n.º 70.
+Dessa forma, revelada a existência de vínculo subjetivo estável e permanente entre o apelante, o corréu e o terceiro comparsa fugitivo, e ainda entre eles e os demais integrantes da facção criminosa autodenominada "Terceiro Comando Puro", atuante na localidade, para ofim de explorar a atividade de venda de entorpecentes, o que permite, assim, a manutenção da condenação.
+E, em se tratando de uma associação criminosa, portanto, informal, a prova da sua existência é extraída dos elementos externos que a circundam, pois jamais ter-se-á um documento formal, definitivo, como prova da sua existência, tal como nas associações regulares.
+ ..
+De outro giro, pretende a defesa técnica a redução da pena-base, o que tampouco merece prosperar.
+ ..
+Ora, as circunstâncias do caso concreto em muito excederam o normal do tipo, sendo evidente a gravidade concreta da conduta, a exigir maior rigor na resposta penal.
+Primeiro, na iminência da abordagem policial, o grupo manifestou concretamente a intenção de opor reação armada, resultando na morte do corréu.
+Como se não bastasse, a observância ao princípio da individualização da pena, garantia constitucional, também impõe a exasperação diante do tipo de associação de que se trata, pois não é concebível que uma simples pessoa que tenha se associado a outra para praticar o tráfico de drogas em dupla obtenha a mesma resposta penal dada àqueles que se vinculam a uma organização criminosa largamente estruturada, ainda mais em se tratando do "Terceiro Comando Puro", uma das maiores, mais perigosas e violentas facções criminosas do Estado do Rio de Janeiro, em um dos seus maiores redutos de atuação, e que, em guerra com outras facções e com as forças estatais, abala a ordem pública e destrói a paz social.
+À vista dessas circunstâncias, o incremento na pena-base mostrou-se proporcional e razoável.
+ ..
+Portanto, para decidir de modo diverso às conclusões a que chegou o Tribunal de origem, sobretudo quanto à autoria e àmaterialidade do crime de associação para o tráfico de drogas, e, por conseguinte, absolver o ora paciente, seria necessário a incursão no acervo fático-probatório dos autos, providência inviável na via eleita (HC n. 581.388/SP, Ministro Felix Fischer, Quinta Turma, DJe 25/8/2020).
+Quanto àredução da pena-base, também sem razão a impetração.
+De fato, as instâncias ordinárias destacaram as circunstâncias em que o delito foi cometido tanto para manter a condenação pelo crime de associação para o tráfico de drogas, quanto para exasperar a pena-base,em consonância com a jurisprudência desta Corte, no sentido de que as circunstâncias e consequências do crime donão são inerentes ao tipo penal pelo qual foi o recorrente condenado (associação para o tráfico de drogas) -(AgRg no AREsp n. 1.878.116/SE, Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA,DJe 30/9/2021).
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO.CONDENAÇÃO TRANSITADA EM JULGADO. PLEITO DEABSOLVIÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. DOSIMETRIA. PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. INEVIDÊNCIA DE ILEGALIDADE.
+Ordem denegada.
