@@ -1,0 +1,57 @@
+EMENTA
+ADMINISTRATIVO. PARCELAMENTO. CRÉDITO NÃO TRIBUTÁRIO. AÇÃO JUDICIAL. RENÚNCIA AO DIREITO. VALORES DEPOSITADOS. CONVERSÃO EM RENDA. POSSIBILIDADE.
+1. A renúncia ao direito em que se funda a ação é forma extintiva do processo com resolução do mérito, razão pela qual os eventuais depósitos judiciais devam ser convertidos em renda em favor do credor. Precedentes.
+2. Segundo o art. 65, §26, da Lei n. 12.249/2010, "na hipótese em que o saldo exceda ao valor do débito após a consolidação de que trata este artigo, o saldo remanescente será levantado pelo sujeito passivo, caso não haja outro crédito tributário ou não tributário vencido e exigível em face do sujeito passivo".
+3. Conforme se observa do texto da lei, o saldo remanescente, passível de levantamento pelo interessado, é apenas referente ao valor que excede o do débito consolidado (ou seja, a totalidade da dívida), e não a quantia que supera o montante necessário ao pagamento da primeira mensalidade do parcelamento.
+4. Embora não se trate débito de tributo, deve ser aplicada, por analogia, a norma do art.111, I, do CTN, a qual determina que seja interpretada literalmente a legislação que disponha sobre a suspensão do crédito tributário.
+5. O fundamento de que a conversão em renda do valor total depositado excluiria do parcelamento os devedores de boa-fé não se sustenta, porque poderia o sujeito passivo ter depositado em juízo valor inferior ao débito consolidado, e, portanto, faria jus ao parcelamento do saldo devedor remanescente, mesmo após a conversão em renda.
+6. Aboa-fé do devedor que deposita em juízo os valores discutidos é compensada de outra maneira, em função da suspensão da exigibilidade da cobrança, e de todos os efeitos daí decorrentes.
+7. Recurso especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso especial nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Manoel Erhardt (Desembargador convocado do TRF-5ª Região), Benedito Gonçalves (Presidente), Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de recurso especial interpostos por IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE LIMEIRA em face de decisão proferida pelo Tribunal Regional Federal da 2ª Regiãoassim ementada (e-STJ fl. 2.916):
+ADMINISTRATIVO. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. RESSARCIMENTO AO SUS. DEPÓSITO JUDICIAL. SUSPENSÃO DA EXIGIBILIDADE. RENÚNCIA AO DIREITO. PARCELAMENTO ADMINISTRATIVO. CONVERSÃO EM RENDA DA AUTARQUIA. POSSIBILIDADE.
+1. Tratando-se a renuncia ao direito sobre o qual se funda a ação de ato privativo do autor, que enseja a extinção do processo com julgamento do mérito, seus efeitos equivalem à improcedência do pedido, autorizando, de conseguinte, a conversão em renda em favor da fazenda pública dos valores facultativamente depositados, para fins de suspensão da exigibilidade do crédito. Precedentes do Colendo STJ e desta Egrégia Corte.
+2. "De fato, sendo uma faculdade do devedor, o depósito judicial confere-lhe benefícios, em detrimento da assunção de um risco, o de que os valores depositados sejam convertidos em renda da União - ou, in casu, da autarquia. Noutras palavras, mutatis mutandis: "em que pese tratar-se de faculdade do contribuinte, uma vez efetuado, o depósito judicial resta vinculado ao resultado final da demanda, e, em sendo vencedora a Fazenda, será convertido em renda. Portanto, admitir o parcelamento de tais débitos significaria confirmar o propósito de frustrar tal conversão, com prejuízos para o Erário" (AI 0007833-23.2013.4.02.0000, Desembargador Federal ALUISIO GONÇALVES DE CASTRO MENDES,TRF2, Quinta Turma Especializada, EDJF2R: 02.07.2014).
+3. Apelação da Autora desprovida
+A parte opôs embargos de declaração contra a decisão, que foram rejeitados.
+Alega no apelo especial, preliminarmente, violação aos arts. 128 e 460 do CPC/1973.
+No mérito propriamente dito, sustenta violação aos arts. 10 da Lei n. 11.941/2009 e 65, §26, da Lei n. 12.249/2010, defendendo que a adesão ao parcelamento extraordinário, com o pagamento da primeira parcela, autoriza o levantamento do valor depositado judicialmente pelo recorrente.
+Contrarrazões (e-STJ fls. 2.962/2.967).
+Passo a decidir.
+EMENTA
+ADMINISTRATIVO. PARCELAMENTO. CRÉDITO NÃO TRIBUTÁRIO. AÇÃO JUDICIAL. RENÚNCIA AO DIREITO. VALORES DEPOSITADOS. CONVERSÃO EM RENDA. POSSIBILIDADE.
+1. A renúncia ao direito em que se funda a ação é forma extintiva do processo com resolução do mérito, razão pela qual os eventuais depósitos judiciais devam ser convertidos em renda em favor do credor. Precedentes.
+2. Segundo o art. 65, §26, da Lei n. 12.249/2010, "na hipótese em que o saldo exceda ao valor do débito após a consolidação de que trata este artigo, o saldo remanescente será levantado pelo sujeito passivo, caso não haja outro crédito tributário ou não tributário vencido e exigível em face do sujeito passivo".
+3. Conforme se observa do texto da lei, o saldo remanescente, passível de levantamento pelo interessado, é apenas referente ao valor que excede o do débito consolidado (ou seja, a totalidade da dívida), e não a quantia que supera o montante necessário ao pagamento da primeira mensalidade do parcelamento.
+4. Embora não se trate débito de tributo, deve ser aplicada, por analogia, a norma do art.111, I, do CTN, a qual determina que seja interpretada literalmente a legislação que disponha sobre a suspensão do crédito tributário.
+5. O fundamento de que a conversão em renda do valor total depositado excluiria do parcelamento os devedores de boa-fé não se sustenta, porque poderia o sujeito passivo ter depositado em juízo valor inferior ao débito consolidado, e, portanto, faria jus ao parcelamento do saldo devedor remanescente, mesmo após a conversão em renda.
+6. Aboa-fé do devedor que deposita em juízo os valores discutidos é compensada de outra maneira, em função da suspensão da exigibilidade da cobrança, e de todos os efeitos daí decorrentes.
+7. Recurso especial não provido.
+VOTO
+Inicialmente, registro que não se pode falar em violação dos arts. 128 e 460 do CPC/1973, porquanto, ainda que se considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal, não há necessariamente ausência de manifestação quanto às questões suscitadas pela parte recorrente.
+Não se pode confundir o resultado desfavorável ao litigante com decisão aquém dos limites da lide, motivo pelo qual não se constata violação do preceito apontado.
+A Corte local enfrentou os argumentos da embargante, fundamentando que a renúncia ao direito discutido implicaria efeito processual semelhante ao da improcedência, pelo que cabível a conversão em renda em favor da recorrida.
+Além disso, apresentou interpretação divergente da parte recorrente em relação à norma do art. 65, §26, da Lei n. 12.249/2010, mas o fez de maneira expressa e motivada.
+Portanto, a prestação jurisdicional foi dada na medida da pretensão deduzida, não havendo nulidade do acórdão.
+No mérito propriamente dito, o recurso também não admite provimento.
+A irresignação da sociedade empresária tem por objeto acórdão que determinou a conversão em renda do valor integral do depósito judicial realizado nos autos.
+Segundo a recorrente, "após a consolidação do débito e o decréscimo da primeira parcela relativa ao pedido de parcelamento, é lícito que o sujeito passivo levante o saldo restante" (e-STJ fl. 2.956).
+Por ser incontroversona espécie, ocorre que a parte autora apresentou pedido de desistência da ação com renúncia ao direito sobre o qual aquela se funda, de modo a obter as vantagens do parcelamento estabelecido pela Lei n. 12.249/2010.
+Assim, deve-se registrar que independentemente dos efeitos materiais operados pela supracitada legislação, a renúncia ao direito em que se funda ação em tramitação já implicou consequências processuais próprias, principalmente: a extinção da ação com resolução de mérito em desfavor da parte renunciante e, com efeito, a possibilidade de conversão em renda dos depósitos judiciais em favor da recorrida.
+Nesse mesmo sentido é a jurisprudência consolidada desta Corte: REsp 815.810/RS, rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 23/10/2007, DJ 29/11/2007, p.188; EDcl no REsp 815.810/RS, rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 03/06/2008, DJe 18/06/2008; AgRg no REsp 774.579/PR, rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10/02/2009, DJe 11/03/2009; AgInt no REsp 1451807/SP, rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/09/2019, DJe 26/09/2019.
+Ainda que assim não fosse, o art. 65, §26, da Lei n. 12.249/2010, não admite a interpretação de que a conversão em renda só pode se operar em relação ao valor necessário à quitação da primeira mensalidade do parcelamento.
+Dispõe a referida norma:
+Art. 65. Poderão ser pagos ou parcelados, em até 180 (cento e oitenta) meses, nas condições desta Lei, os débitos administrados pelas autarquias e fundações públicas federais e os débitos de qualquer natureza, tributários ou não tributários, com a Procuradoria-Geral Federal. (Vide Lei nº 12.865, de 2013) (Vide Lei nº 12.996, de 2014) (Vide Medida Provisória nº 651, de 2014)
+ ..
+§ 26. Na hipótese em que o saldo exceda ao valor do débito após a consolidação de que trata este artigo, o saldo remanescente será levantado pelo sujeito passivo, caso não haja outro crédito tributário ou não tributário vencido e exigível em face do sujeito passivo.
+Conforme se observa do texto da lei, o saldo remanescente, passível de levantamento pelo interessado, é apenas referente ao valor que excede o do débito consolidado (ou seja, a totalidade da dívida), e não à quantia que supera o montante necessário ao pagamento da primeira parcela.
+A propósito, no caso, embora não se trate de débito de tributo, entendo ser aplicável, por analogia, a norma do art.111, I, do CTN, a qual determina ser interpretada literalmente a legislação que disponha sobre a suspensão do crédito tributário.
+O recorrente defendeu, ainda, a tese de que:
+Em verdade, levando-se adiante a interpretação do juízo de origem, a opção pelo parcelamento extraordinário de débitos em parcelas, para o sujeito passivo que tivesse agido sob o manto da boa-fé e depositado judicialmente a quantia em discussão, não existiria, pois este só teria o direito de quitar o débito à vista após a aplicação das benesses legais, sendo-lhe vedada à opção pelo parcelamento extraordinário para pagamento em parcelas (e-STJ fl. 2.956).
+O fundamento, porém, não se sustenta, porque poderia o sujeito passivo ter depositado em juízo valor inferior ao débito consolidado, e, portanto, faria jus ao parcelamento do saldo devedor remanescente, mesmo após a conversão em renda.
+Além disso, a boa-fé do devedor que deposita em juízo os valores discutidos é compensada de outra maneira, em função da suspensão da exigibilidade da cobrança, e de todos os efeitos daí decorrentes, inclusive a emissão de certidões negativas.
+Aliás, na hipótese dos autos, considerando os limites impostos pela Súmula 7/STJ, não é possível concluir que a recorrente, na prática, não pôde fruir dos benefícios do parcelamento e, ainda que assim fosse, nada haveria de ilegal, já que o parcelamento é benefício concedido de maneira especial àqueles que reúnem as condições da lei, e nos limites dela.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+É como voto.
