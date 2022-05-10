@@ -1,0 +1,71 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. LESÃO CORPORAL SEGUIDA DE MORTE. CONDENAÇÃO FUNDADA NA CONFISSÃO EXTRAJUDICIAL E OUTRAS PROVAS COLHIDAS EM JUÍZO. OFENSA. ART. 155 DO CPP. INEXISTÊNCIA. PRETENSA ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. INVERSÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que " ..  é possível a utilização das provas colhidas durante a fase inquisitiva para embasar a condenação, desde que corroboradas por outras provas colhidas em Juízo, nos termos do art. 155 do Código de Processo Penal" (AgRg no HC 497.112/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/09/2019, DJe 10/09/2019).
+2. Para acolher a tese defensiva de que as demais provas colhidas em juízo não são suficientes para alicerçar a condenação seria indispensável reexame dos elementos probantes que instruem o caderno processual. Incidência da Súmula 7/STJ.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por JOSE NILSON DOS SANTOS contra decisão do Presidente do Superior Tribunal de Justiça, por meio da qual o respectivo agravo em recurso especial foi conhecido para não conhecer do apelo nobre (fls. 247-250).
+Sustenta a Defesa, nas razões do regimental, que a matéria veiculada no recurso especial é eminentemente de direito e, portanto, a solução da lide não demanda nova incursão no arcabouço fático-probatório acostado aos autos.
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do agravo regimental (fls. 271-276).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. LESÃO CORPORAL SEGUIDA DE MORTE. CONDENAÇÃO FUNDADA NA CONFISSÃO EXTRAJUDICIAL E OUTRAS PROVAS COLHIDAS EM JUÍZO. OFENSA. ART. 155 DO CPP. INEXISTÊNCIA. PRETENSA ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. INVERSÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que " ..  é possível a utilização das provas colhidas durante a fase inquisitiva para embasar a condenação, desde que corroboradas por outras provas colhidas em Juízo, nos termos do art. 155 do Código de Processo Penal" (AgRg no HC 497.112/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/09/2019, DJe 10/09/2019).
+2. Para acolher a tese defensiva de que as demais provas colhidas em juízo não são suficientes para alicerçar a condenação seria indispensável reexame dos elementos probantes que instruem o caderno processual. Incidência da Súmula 7/STJ.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante à pena de 4 (quatro) anos de reclusão, em regime inicial aberto, como incurso no art. 129, § 3.º, do Código Penal (fls. 119-122).
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem negou provimento (fls. 185-189).
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade ao art. 155, caput, do Código de Processo Penal.
+Argumenta que a condenação do Réu está calcada, tão somente, em prova amealhada durante o inquérito policial e não repetida em juízo, qual seja, a confissão extrajudicial daquele no sentido de que teria agredido a Vítima.
+Sustenta que os demais testemunhos realizados durante a audiência de instrução e julgamento não apontam o Acusado como autor do delito.
+Não foram apresentadas contrarrazões (fls. 210). O recurso especial não foi admitido (fls. 212-215). Foi interposto agravo (fls. 220-225).
+O Presidente do Superior Tribunal de Justiça, por meio da decisão de fls. 247-250, conheceu do agravo em recurso especial para não conhecer do apelo nobre.
+Daí a interposição do presente agravo regimental (fls. 253-261).
+Feito esse breve escorço histórico, passo ao exame da controvérsia.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 186-188; sem grifos no original):
+"6. Consoante narrado acima, a defesa argumenta que "não há nada nos autos que leve a comprovar, em algum momento, que o apelante lesionou a vítima" e que, ao fundamentar a decisão impugnada, o Magistrado singular "balizou seus argumentos com base na confissão levada a efeito durante o inquérito policial".
+ ..
+8. Analisando os presentes autos, observa-se que a sentença condenatória foi fundamentada com os seguintes elementos probatórios (fls. 120/121):
+ ..  A testemunha José Petrúcio Félix da Silva, proprietário de um bar que o réu frequentava, afirmou que o réu e vítima permaneceram, só os dois, em frente ao bar após o fechamento, que se deu por volta das 22h. No dia seguinte, a testemunha soube que a vítima tinha sido espancada, mas não tomou conhecimento de quem seria o autor das agressões.
+A própria vítima, que só faleceu dias depois do fato, afirmou que foi agredidas pelas costas e pediu à sua irmã, a declarante Maria Bernadete Soares da Cruz, que fosse procurar sua carteira no bar do Bigode ou na rua do Matadouro, onde vivia o réu.  ..
+8. Corroborando o depoimento prestado pela testemunha José Petrúcio Félix da Silva, foi utilizada, ainda, a confissão realizada pelo acusado em sede inquisitorial, embora retratada em Juízo, cujo teor merece transcrição:
+ ..  Que é conhecido por NISSINHO; que o Mauro não foi assaltado; que confessa que deu vários muros e empurrões no MAURO e ele caiu e bateu com a cabeça no meio-fio e ficou sangrando em frente ao Bar do Bigode; que estava bebendo uma cerveja com o Mauro em frente ao Bar do DINHO; que o Mauro começou a aperrear pedindo outra cerveja; que comprou outra cerveja, mas levou o Mauro para frente do Bar do Bigode e lá deu vários murros e empurrões; que mauro caiu e bateu a cabeça no meio fio e ficou sangrando; que o Mauro estava de costa quando levou os murros e empurrões; que nesse momento saiu andando normalmente para a sua casa;  ..  que tinha a intenção de só dar um susto no Mauro e quem socorreu a vitima foi o primo de Mauro e o levou para a casa dele na Branca de Atalaia; que no dia seguinte chegou no Bar do Bigode e este estava limpando o sangue; que ainda tomou duas cachaças lá no bar do Bigode; que não disse ao Bigode e nem a ninguém que tinha feito isso com mauro e que está muito arrependido pelo que fez; que nunca foi preso e nem processado e que até o momento não tem conhecimento de que o Mauro morreu; que de vez em quando bebia com o Mauro; que bebe quase todos os dias, porém não estava bêbado quando empurrou o Mauro.  ..
+9. Por fim, o laudo de exame cadavérico de fls. 127/128 atesta que a vítima sofreu 3 (três) feridas contusas contínuas na região do couro cabeludo, sendo uma na abóbada craniana e duas na região frontal da cabeça, e que a sua causa mortis foi hemorragia intracraniana decorrente de fratura de ossos do crânio.
+10. A partir de uma leitura sistemática do conjunto probatório, considerando, notadamente, a causa mortis da vítima e o local das lesões sofridas (crânio), bem como o depoimento das testemunhas, no sentido de que a própria vítima afirmou que foi empurrado pelas costas e que, momentos antes do ocorrido, esta e o acusado encontravam-se juntos no local do delito, verifica-se ser incogitável a alegação de condenação lastreada exclusivamente em elementos informativos, como sustentado pela defesa.
+11. O que se percebe, na realidade, é que, a despeito de o réu ter se retratado ao ser ouvido perante a autoridade judicial, sob o argumento genérico de que não teria ofertado aquelas declarações (embora também negue ter sido coagido pela polícia a confessar), a narrativa constante do interrogatório policial, constante às fls. 27/28, corrobora os elementos produzidos sob o crivo do contraditório.
+ ..
+13. Nessa linha, tem-se que se encontra suficientemente demonstrada a autoria delitiva, não havendo que se falar em inexistência de provas capazes de sustentar a condenação ou, ainda, de ofensa ao disposto no art. 155 da legislação adjetiva penal.
+14. Diante do exposto, conheço da presente Apelação Criminal, para, no mérito, NEGAR-LHE PROVIMENTO, mantendo-se incólumes todos os termos da sentença vergastada."
+Como se vê, o entendimento adotado pela Corte de origem está em sintonia com a jurisprudência do Superior Tribunal de Justiça, fixada no sentido de que " ..  é possível a utilização das provas colhidas durante a fase inquisitiva para embasar a condenação, desde que corroboradas por outras provas colhidas em Juízo, nos termos do art. 155 do Código de Processo Penal." (AgRg no HC 497.112/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/09/2019, DJe 10/09/2019).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. CRIME PREVISTO NO ART. 306 DO CTB. TESTEMUNHA QUE FAZ BREVE CONSULTA A APONTAMENTOS. LEGALIDADE. DEPOIMENTO TESTEMUNHAL QUE CONFIRMA A PRESENÇA DA ELEMENTAR DO DELITO. VIA INADEQUADA PARA APRECIAR ALEGAÇÕES QUE BUSCAM A ABSOLVIÇÃO. AUSÊNCIA DE VIOLAÇÃO AO ART. 155, CAPUT, DO CPP. CONDENAÇÃO BASEADA EM PROVAS COLHIDAS DURANTE A INSTRUÇÃO PROCESSUAL, REFORÇADAS PELA CONFISSÃO EXTRAJUDICIAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Diante da existência de prova testemunhal colhida durante a instrução processual, é evidente que a confissão extrajudicial do Réu não foi a única prova utilizada para a sua condenação, inexistindo, assim, violação ao art. 155, caput, do Código de Processo Penal.
+ ..
+5. Agravo regimental desprovido." (AgRg no HC 653.250/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 27/04/2021, DJe 05/05/2021.)
+"HABEAS CORPUS. SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO COMETIDO COM EMPREGO DE ARMA DE FOGO, EM CONCURSO DE AGENTES E COM RESTRIÇÃO À LIBERDADE DAS VÍTIMAS. ABSOLVIÇÃO EM 1º GRAU. APELO DO MINISTÉRIO PÚBLICO PROVIDO. CONDENAÇÃO. ALEGADA AFRONTA AO ART. 155 DO CPP. NÃO CONFIGURAÇÃO. PROVA DA AUTORIA COLHIDA EM JUÍZO. CONFISSÃO EXTRAJUDICIAL CORROBORADA PELA PROVA JUDICIALIZADA. VALIDADE PARA FUNDAMENTAR A CONDENAÇÃO. PALAVRA DE POLICIAIS. MEIO DE PROVA IDÔNEO. ILEGALIDADE NÃO CONFIGURADA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - O eg. Tribunal de Justiça, ao modificar a sentença absolutória para condenar o paciente, se fundamentou na prova coligida em Juízo, consistente no depoimento das vítimas e testemunhas, dentre elas policiais que realizaram a prisão em flagrante, os quais corroboraram os elementos constantes do inquérito policial, notadamente a confissão extrajudicial dos agentes, não havendo ofensa ao art. 155 do CPP. I
+III - Esta Corte firmou entendimento no sentido que a retratação da confissão extrajudicial não é suficiente para elidir sua validade para o convencimento acerca da autoria, quando for corroborada por elementos produzidos sob o crivo do contraditório.
+IV - O depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso. Precedentes.
+ ..
+Habeas corpus não conhecido." (HC 471.082/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/10/2018, DJe 30/10/2018.)
+Por outro lado, para acolher a tese defensiva de que, na espécie, as demais provas colhidas em juízo não são suficientes para, cotejadas com os termos da confissão extrajudicial, alicerçar a condenação do Reú, seria indispensável reexame dos elementos probantes que instruem o caderno processual, desiderato esse incabível na via estreita do recurso especial, a teor do comando normativo contido na Súmula n. 7 do Superior Tribunal de Justiça.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULA 182/STJ AFASTADA. ROUBOS MAJORADOS E CORRUPÇÃO DE MENORES. VIOLAÇÃO DO ART. 155 DO CPP NÃO CONFIGURADA. ABSOLVIÇÃO. SÚMULA 7/STJ. PENA-BASE. VIOLAÇÃO DO ART. 59 DO CP. AUSÊNCIA DE INTERESSE RECURSAL. REGIME FECHADO MANTIDO. FUNDAMENTAÇÃO CONCRETA.
+ ..
+2. Não há como acolher a tese de contrariedade ao art. 155 do CPP, pois, conforme se extrai do acórdão, a condenação foi lastreada em provas colhidas tanto na fase inquisitiva quanto na fase judicial, apontando o aresto, em especial, os depoimentos das vítimas e dos policiais envolvidos no flagrante, colhidos sob o contraditório.
+Nesse contexto, o pleito absolutório esbarra na Súmula 7/STJ, por demandar revolvimento fático-probatório.
+ ..
+5. Agravo regimental provido para conhecer do agravo em recurso especial e negar-lhe provimento." (AgRg no AREsp 1.961.627/SP, Rel. Ministro OLINDO MENEZES, DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, SEXTA TURMA, julgado em 15/03/2022, DJe 21/03/2022.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TORTURA PRATICADO POR POLICIAL MILITAR. ART. 619 DO CPP. VIOLAÇÃO. NÃO OCORRÊNCIA. CONDENAÇÃO. PROVAS COLHIDAS DURANTE O INQUÉRITO POLICIAL E JUDICIALMENTE. LEGALIDADE. PLEITO DE ABSOLVIÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 7/STJ E 279/STF.
+ ..
+3. O Tribunal de origem, analisando os elementos probatórios colhidos nos autos, sob o crivo do contraditório, concluiu pela comprovação da autoria e da materialidade do delito. Desse modo, a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ e Súmula n. 279/STF).
+4. Agravo regimental desprovido." (AgRg no AREsp 1.244.506/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 13/12/2018, DJe 04/02/2019.)
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
