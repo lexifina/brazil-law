@@ -1,0 +1,30 @@
+Visto.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo interposto pelo JHONY VIEIRA DOS SANTOS NODARI, contra decisão proferida pelo Juízo da 3a Vara Especializada da Fazenda Pública da Comarca de Cuiabá/MT, nos autos do Mandado de Segurança n. 1006815-21.2022.8.11.0041, o qual indeferiu a liminar.
+Aduz o agravante que, na data de 21 de outubro de 2021, o fora notificado, por meio de Aviso de Cobrança Fazendária no 529719/337/76/2021, para recolher no prazo 30 (trinta) dias, contados da data de ciência, o valor total do débito, qual seja, R$ 48.836,25 (quarenta e oito mil oitocentos e trinta e seis reais e vinte e cinco centavos), referente a suposta falta de recolhimento de ITCD ou realizar impugnação até o vigésimo dia do mês subsequente ao vencimento.
+Assevera que, o prazo para recolhimento do imposto seria até o dia 22/11/2021 e o prazo para impugnação encerrava-se em 20/12/2021. No entanto, tendo apresentado impugnação no dia 16/12/2021, o processo fora inadmitido, nos termos do o inciso VIII, §7o do Artigo 980 da Lei de ICMS/MT, por falta de declaração de não ajuizamento de ação judicial.
+Pontua que, o procedimento administrativo de ITCD possui instrução normativa própria, qual seja, o Decreto 2.125/2003 que regula o Imposto sobre Transmissão Causa Mortis e Doação de Quaisquer bens ou direito, na qual não se faz necessário a juntada de declaração de não ajuizamento de ação judicial feita pelo contribuinte, conforme claramente disposto no Artigo 48 – B do Decreto 2.125/2003.
+Destaca que, inexiste a ocorrência de fato gerador, visto que em 2016, ano base ensejador da referida cobrança, já havia ocorrido o falecimento do Sr. Wilson Antônio Nodari, sendo, portanto, o Agravante e demais herdeiros do “de cujus”, os legítimos proprietários dos bens deixados, não havendo possibilidade de se falar em doação.
+Com base nestes fundamentos, pugna pela concessão de liminar para determinar a tempestividade da Impugnação ao aviso de cobrança fazendário, eis que cumpriu com todos os requisitos do regulamento do Imposto sobre Transmissão Causa Mortis e Doação de Quaisquer bens ou Direitos - ITCMD, bem como declare a nulidade do referido lançamento tributário.
+É o relatório.
+DECIDO.
+Para a atribuição do efeito suspensivo e/ou deferimento da tutela antecipada recursal, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam, a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos, 300, 995, parágrafo único e 1.019, I, todos do Código de Processo Civil, como cito:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão; [...]”.
+“Art. 995. [...]
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+Passo a análise da presença ou não dos requisitos da probabilidade do direito e do fundado receio de dano grave e de difícil reparação.
+Extrai-se do Aviso de Cobrança Fazendário de n. 529719/337/76/2021, datado de 21/10/2021 que o Agravante no ano-calendário 2016 recebeu doações em espécie no valor de R$ 301.760,00 (trezentos e um mil, setecentos e sessenta reais).
+Da intimação constante do referido Aviso, no item 1, extrai-se que o Agravante teria o prazo de 30 (trinta) dias, contados da data da ciência deste, para efetivar o pagamento.
+No item 5, infere-se que ‘Eventuais impugnações poderão ser realizadas até o vigésimo dia do mês subsequente ao vencimento, obrigatoriamente via e-process AVISO DE COBRANÇA FAZENDÁRIO ITCD REVISÃO DE LANÇAMENTO, de acordo com o valor do débito original impugnado’.
+Mais adiante, no documento Pedido de Revisão de Lançamento, datado de 16/12/2021, a parte Agravante promoveu a impugnação administrativa do lançamento, consequentemente, o Estado de Mato Grosso, através de Termos de Inadmissibilidade, não admitiu o processo por descumprimento do inciso VIII, §7o, do art. 980, do RICMS/MT, donde se extrai que ‘a expressa declaração de que não há ação judicial proposta pelo sujeito passivo para discutir a matéria objeto do lançamento cuja revisão se requer’.
+Destaco que a presença da prova inequívoca é imprescindível para o provimento antecipatório, conforme indica o seguinte posicionamento doutrinário:
+“Só a existência de prova inequívoca, que convença da verossimilhança das alegações do autor, é que autoriza o provimento antecipatório da tutela jurisdicional em processo de conhecimento”. (MARINONI, Luiz Guilherme e ARENHART, Sérgio Cruz. Manual do Processo de Conhecimento. 5 ed. São Paulo: Editora Revista dos Tribunais, 2006, p. 216)”.
+Em análise acurada aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido liminar não merece acolhimento, face a ausência dos pressupostos autorizadores para o seu deferimento.
+Na espécie, não vislumbro o risco de dano grave, de difícil ou impossível reparação, caso a pretensão recursal seja acolhida por ocasião da apreciação do mérito, motivo pelo qual mostra-se prudente o aguardo do contraditório, notadamente se levarmos em consideração que os atos administrativos praticados possuem presunção de legitimidade e legalidade e, nesta quadra processual, não se mostram incontestes as provas trazidas à baila.
+Ante o exposto, indefiro o pedido de concessão de tutela antecipada.
+Comunique-se o juízo de primeiro grau, facultando-lhe o exercício de eventual juízo de retratação.
+Intime-se o Agravado para, querendo, apresentar contrarrazões.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relator
