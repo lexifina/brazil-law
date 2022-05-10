@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+GUSTAVO DE CASTRO SOTERO alega sofrer coação ilegal em face de acórdão proferido peloTribunal de Justiça do Estado do Amazonas (Agravo n. 5000261-54.2021.8.04.0001).
+A Defensoria Pública estadualaponta a necessidade de computar os dias referentes ao exercício do direito de descanso semanal, para fins de remição pelo trabalho. Requer a correção do cálculo do benefício.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO POR TRABALHO. INTERVALOS DE DESCANSO SEMANAL. IMPOSSIBILIDADE DE CÔMPUTO PARA FINS DE ABATIMENTO DA PENA. HABEAS CORPUS DENEGADO.
+1. Ocondenadoem regime fechado ou semiaberto poderá remir, portrabalhoou por estudos efetivamente realizados, parte do tempo de execução da pena. O instituto previsto no art. 126 da LEP é prêmio concedido em razão de factual envolvimentono processo de ressocialização.
+2.Não caracteriza ilegalidade a decisão que indefereo pedido de se computar os dias dedescanso semanal para fins de remição, pois o período, mesmo para aqueles que não estão encarcerados,é caracterizado pela ausência detrabalho.
+3. Habeas corpus denegado.
+VOTO
+Remição éprêmiopelo tempo que alguém que está cumprindo pena se dedica a realizar atividades que promovam sua ressocialização. O sentenciado deve comprovar seu real envolvimento no processo de reintegração, pois, ateor do art. 126 da LEP, apenas pelo trabalho ou pelosestudos realizadoso reeducando obtémo direito de atenuar sua sanção privativa de liberdade.
+Este "Superior Tribunal também considera que a Lei de Execução Penal exige, para fins deremiçãoda pena pelo trabalho, a prova da atividade laboral e da carga horária efetivamente desenvolvidas pelo preso (AgRg no HC n. 351.918/SC, Ministro Felix Fischer, Quinta Turma, DJe 22/8/201"(AgRg no REsp 1720628/RO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 15/10/2018, destaquei).
+Consoante o"art. 126 da Lei de Execução Penal, a remição da pena exige aefetiva realização de atividade laboral ou de estudopor parte do reeducando" (STF, HC n. 132.779-ED, Rel. Min. Alexandre de Moraes, 1ª T., DJe 14/12/2017, grifei).
+Apenas os dias factualmentetrabalhados nos domingos e feriados, uma vez atestadospela direção carcerária, integram o cálculo do benefício. Confira-se:
+ .. A remição da pena pelo trabalho, nos termos do art. 33, c/c 126, § 1º, da LEP, é realizada à razão de um dia de pena a cada três dias de trabalho, cuja jornada diária não seja inferior a 6 nem superior a 8 horas, o que impõe, para fins de cálculo, a consideração dos dias efetivamente trabalhados, incluídos os domingos e feriados. ..
+(HC n. 346.948/RS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 29/6/2016).
+Nesse viés, sem razão a impetrante quandopretende computar os dias de descanso semanal do paciente para fins de remição pelo trabalho. A solução adotada pela instância a quo está em harmonia com a jurisprudência das Cortes Superiores.Aplica-se ao caso a compreensão de que:
+ ..  aremição da pena exige a efetiva realização de atividade laboral ou estudo por parte do reeducando. Precedentes.3. Não caracteriza ilegalidade flagrante ou abuso de poder a decisão judicial que indefere a pretensão de se contar como remição por trabalho período em relação ao qual não houve trabalho"(STF, HC n. 124.520/RO, Rel. p/ Acórdão Min. Roberto Barroso, 1ª T., DJe de 27/6/2018, destaquei).
+Para fins de cálculo do benefício em apreço, importa verificar os dias realmente trabalhados pelo condenado. Deveras:
+ ..  é firme a jurisprudência deste Superior Tribunal de Justiça no sentido de que, na ausência de expressa previsão legal - a exemplo da regra existente relativa aos reeducandos que venham a sofrer acidente laboral, do art. 126, § 4º, da LEP - não está autorizada a remição ficta da pena do preso que deixou de trabalhar, somente se podendo considerar, para fins de remição, o tempo de trabalho ou de estudo efetivamente cumprido pelo sentenciado (HC 651.897, Relator FISCHER, data da publicação: 4/5/2021).
+ ..
+(AgRg no RHC n. 146.760/MA, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 14/6/2021)
+Oart. 28 da LEP estabelece que o trabalho do condenado, como dever social e condição de dignidade humana, terá finalidade educativa e produtiva, mas não é equiparado nem estásujeito ao regime de Consolidação das Leis do Trabalho (art. 28, § 2º, da LEP). No ponto, o Supremo Tribunal Federal, no julgamento da ADPF n. 336-DF, reconheceu a legitimidade da diferenciação entre o trabalho do preso e o dos empregados em geral, evidenciada pela distinta lógica econômica do labor no sistema executório penal.
+Consignou-se, na oportunidade, que otrabalho do condenado constitui um dever, obrigatório na medida de suas aptidões e capacidade, e possui finalidades educativa e produtiva, nos termos dos ar. 28, 31 e 39, V, da Lei de Execução Penal, em contraste coma liberdade para trabalhar e prover o seu sustento garantida pelo ar. 6º da Constituição aos que não cumprem pena prisional.
+De todo modo, nem sequer de forma fictapoder-se-ia considerar que o pacienterealizou, nos períodos de descanso,atividades a serem premiadas na forma de abatimento dapena, visto que, mesmopara aqueles que não estão encarcerados,o intervaloremunerado previsto no art. 7º, IX, da CFcaracteriza-se pelaausência detrabalho, reservado ao repouso, para recuperação de energias.
+À vista do exposto, denego o habeas corpus.
