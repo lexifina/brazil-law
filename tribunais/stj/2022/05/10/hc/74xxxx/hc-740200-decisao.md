@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de NATANAEL FELIPE DE OLIVEIRA JUNIOR, MOISES GRANJEIRO DE CARVALHO e outros, contra o indeferimento de idêntica medida na origem.
+Sustenta o impetrante que os pacientes estariam sofrendo constrangimento ilegal diante de alegado excesso de prazo para a formação da culpa.
+Postula, ao final, a superação do enunciado 691 da Súmula do c. STF para que seja revogada/relaxada a prisão preventivaem favor dos ora pacientes.
+É o relatório.
+Decido.
+Os autos não versam sobre hipótese que admite a pretendida valoração antecipada da matéria, pois, pela análise da quaestio trazida à baila na exordial, verifica-se que o habeas corpus investe contra denegação de liminar. De fato, ressalvadas hipóteses excepcionais descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+A matéria, inclusive, já se encontra sumulada: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar" (Súmula nº 691/STF).
+O writ impetrado na origem teve o pedido liminar indeferido sob os seguintes fundamentos, verbis:
+" ..
+A liminar, em sede de habeas corpus, é medida cautelar excepcional. Não me convencem, a princípio, os argumentos da impetração. Primeiro, porque, tendo sido suscitado conflito negativo de competência (Autos n.º 9000982-73.2022.8.23.0000), a questão relacionada a eventual conexão entre os delitos pelos quais os pacientes foram denunciados e o crime de organização criminosa deverá ser apreciada naquele incidente, que possui maior amplitude, restando, prima facie, prejudicado o habeas corpusneste ponto. Segundo, porque "os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (STJ, HC 529.767/MG, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, j. 07/11/2019, DJe 19/11/2019). PELO EXPOSTO, ausente o fumus boni juris,indefiro o pedido de liminar. " (fls. 59-60).
+Na hipótese, portanto, não verifico a ocorrência de flagrante ilegalidade capaz de ensejar o afastamento do óbice contido no enunciado sumular referido.
+Assim o entendimento do Pretório Excelso: HC nº 103570, Primeira Turma, Rel. Min. Marco Aurélio, Rel. p/ acórdão Min. Rosa Weber, DJe de 22/8/2014; HC nº 121828, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 25/6/2014; HC nº 123549 AgR, Segunda Turma, Rel.ª Min. Cármen Lúcia, DJe de 4/9/2014.
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC nº 392.348/RO, Sexta Turma, Rel. Ministro Nefi Cordeiro; HC nº 392.249/PR, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC nº 392.316/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas; HC nº 391.936/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HCnº 392.187/SP, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura.
+Ante o exposto, com fulcro no art. 34, inciso XX, e art. 210, ambos do RISTJ, indefiro liminarmente o processamento do presente writ.
+P. e I.
