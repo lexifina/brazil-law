@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃOcom fulcro na alínea "a" do permissivo constitucionalcontra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fls. 169/170):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. SALDO COMPLEMENTAR. INTIMAÇÃO DA PARTE EXECUTADA. CABIMENTO. HONORÁRIOS ADVOCATÍCIOS. PRECLUSÃO.
+Em se tratando de execução promovida sob a égide do CPC/1973 em que a parte Executada foi devidamente citada nos termos do art. 730 do referido diploma legal para apresentação de defesa, resta precluso o exercício de tal direito.
+Em virtude da necessidade de se garantir o exercício do contraditório, cabível a intimação da parte Executada para se manifestar e exercer a ampla defesa especificamente em relação aos termos da cobrança do saldo complementar cuja natureza das verbas e fundamentos (juros de mora e período de incidência) são distintos do saldo originário que embasou a execução.
+Tal faculdade não implica violação à "Teoria dos Atos Processuais Isolados" ou tampouco ao princípio tempus regit actum justamente porque tem por objeto e está limitada à cobrança de valores diferentes dos originários, não compreendendo, via de consequência, a rediscussão de já questões preclusas relativas ao cálculo inicial.
+Hipótese em que honorários advocatícios da execução já foram objeto de fixação por decisão atingida pela preclusão, não comportando nova disposição sobre a matéria e não sendo cabível novo arbitramento por ocasião de cobrança de saldo complementar.
+Os embargos de declaração opostos por Elzira Neide Cardoso eoutros foram providos com efeitos infringentes para dar provimento ao agravo interno "para tornar sem efeito a abertura de prazo para a executada oferecer impugnação na forma do art. 530, do CPC, e determinar o processamento do feito, em primeiro grau, como efetivo prosseguimento da execução, não sujeita ao arbitramento de (novos) honorários a qualquer das partes" (e-STJ fl. 213).
+Os declaratórios opostos pela União foram desprovidos (e-STJ fls. 246/252).
+Nas suas razões, a parte recorrente sustenta violação dos arts. 7º e 85, §§ 1º e 7º, do CPC/2015, ao argumento de que (e-STJ fls. 275/276):
+ ..
+Em que pese a linha lógica e coerente do raciocínio jurídico desenvolvido nos acórdãos, verificou-se que, a final, aplicava esses fundamentos para o não-arbitramento de novos honorários a qualquer das partes.
+Residia aqui a omissão suscitada pela União, uma vez que os fundamentos jurídicos deduzidos no acórdão embargado não abordavam a situação de rejeição do pedido de saldo complementar formulado pelo credor no que pertine ao arbitramento de honorários advocatícios ao devedor.
+ ..
+Logo, em sendo a executada exitosa em eventual impugnação a pedido de saldo remanescente/complementar pelo credor, cabível o arbitramento da verba honorária em seu favor.
+Tal entendimento tem um fundamento jurídico lógico: o procurador do credor perceberá os honorários arbitrados inicialmente no processo executivo sobre todos os valores, iniciais ou remanescentes, que vier a postular e sejam reconhecidos como devidos no processo executivo. O procurador do devedor, todavia, caso não oferecidos ou rejeitados os embargos à execução, ou a impugnação ao cumprimento de sentença, ficará alijado de ser remunerado pela sua atuação de forma definitiva até a extinção da execução, sejam quais forem os valores postulados, e mesmo que estes não possuam qualquer relação com o valor do crédito principal objeto da execução.
+Logo, indevido o não-arbitramento de honorários a qualquer das partes, devendo ser resguardado o direito do procurador do devedor ao arbitramento de honorários pelo Juízo da execução na hipótese de rejeição total ou parcial do pedido de saldo complementar formulado pelo credor.
+Contrarrazões às e-STJ fls. 294/305.
+Passo a decidir
+A irresignação recursal não merece prosperar.
+Extrai-se do acórdão recorrido (e-STJ fls. 172/173):
+ ..
+Aliás, inclusive por estes fundamentos, procede a inconformidade da parte Agravante no tocante aos honorários advocatícios.
+Ocorre que, no caso concreto, os honorários advocatícios da presente execução já foram objeto de fixação por decisão atingida pela preclusão, não comportando nova disposição sobre a matéria, de modo que a incidência dos honorários sobre o saldo complementar remanescente não enseja tratamento diferenciado nem novo arbitramento.
+ ..
+Assim - e conquanto diferentemente do alegado pela parte Agravante a decisão recorrida não tenha fixado honorários a seu encargo - merece provimento o agravo de instrumento neste aspecto para determinar que sobre o saldo complementar remanescente eventualmente devido incidam honorários pela mesma regra já aplicada para os demais valores exequendos e já atingida pela preclusão, ou seja, independentemente de haver ou não impugnação sobre essa parcela específica da cobrança. (Grifos acrescidos)
+Em reforço, colhe-se do aresto proferido nos aclaratórios (e-STJ fls. 212/213):
+ ..
+Como já assinalado, não se trata de um novo cumprimento de sentença ou nova execução de sentença, mas mero prosseguimento da execução, objetivando à extração de precatório complementar, a fim de integralizar a totalidade do crédito executado. Portanto, descabida a fixação de novos honorários pela apresentação de impugnação, pois já foram apresentados embargos ou foi abdicado tal faculdade.
+ ..
+Na mesma esteira, a Des. Fed. Vânia Hack de Almeida, após descrever que se tratava apenas de debate sobre a existência ou não de saldo devedor em certa execução, em decisão monocrática, fixou não serem devidos novos honorários, inclusive porque já haviam eles sido fixados no julgamento dos embargos à execução, idêntico do caso dos autos:
+ ..
+Portanto, por estes fundamentos, decorre a improcedência no tocante aos honorários advocatícios, uma vez que já foram objeto de fixação por decisão atingida pela preclusão, não comportando nova disposição sobre a matéria, de modo que a incidência dos honorários sobre o saldo complementar remanescente será decorrência do comando do título em execução, sendo calculados automaticamente sobre valor suplementar.Sobre o assunto:
+ ..
+Assim, merece provimento o agravo de instrumento para tornar sem efeito a abertura de prazo para a executada oferecer impugnação na forma do art. 530, do CPC, e determinar o processamento do feito, em primeiro grau, como efetivo prosseguimento da execução, não sujeita ao arbitramento de (novos) honorários a qualquer das partes. (Grifos acrescidos)
+Conforme se verifica dos trechos destacados nas transcrições acima, o Tribunal de origem entendeu que os honorários advocatícios foram objeto de fixação por decisão atingida pela preclusão.
+Todavia, nas razões recursais a parte recorrente não impugnou especificamente tal fundamento do aresto recorrido, alegando, em síntese, apenas que "indevido o não-arbitramento de honorários a qualquer das partes, devendo ser resguardado o direito do procurador do devedor ao arbitramento de honorários pelo Juízo da execução na hipótese de rejeição total ou parcial do pedido de saldo complementar formulado pelo credor" (e-STJ fl. 276).
+Dessa forma, não pode o recurso ser conhecido nos termos das Súmulas 283 e 284 do STF.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. IMPROBIDADE ADMINISTRATIVA. DECISÃO QUE INDEFERIU O PLEITO DO RECORRENTE PARA LIBERAÇÃO DE VALORES BLOQUEADOS EM SUA CONTA-CORRENTE. SÚMULA 7/STJ. SÚMULAS 283/STF E 284/STF. FUNDAMENTO INATACADO. ARGUMENTAÇÃO DEFICIENTE.
+ ..
+2. Além disso, como tal fundamentação (preclusão) é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto não há como conhecer do recurso por mais esse motivo. O recorrente não infirma o argumento de que se trata de pleito posterior à decisão que poderia ser objeto de Agravo de Instrumento, limitando-se a asseverar que se cuida de decisão enquadrada no inciso I do art. 1.015 do CPC/2015. Por isso, incidem, na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. Recurso Especial não conhecido. (REsp 1780790/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/10/2019)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PARCELAMENTO. REFIS. LEI 9.964/2000. AUSÊNCIA DE PREVISÃO LEGAL DE EXISTÊNCIA DE PRAZO PARA QUITAÇÃO DO DÉBITO. PRESTAÇÕES CALCULADAS NOS EXATOS MOLDES PREVISTOS NA LEGISLAÇÃO. FUNDAMENTOS ESPECÍFICOS INATACADOS. SÚMULA 283/STF. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. A Corte de origem afastou a pretensão da parte recorrente - de excluir o contribuinte do Programa de Recuperação Fiscal (REFIS) -, observando: a uma, que não houve fixação, pela Lei 9.964/2000, de prazo para pagamento do débito consolidado e, a duas, que se as parcelas pagas, calculadas nos exatos termos da lei mencionada, não são suficientes à amortização do débito consolidado, isso se deve somente ao fato de que a lei estabeleceu um critério para a atualização do saldo devedor e outro para a atualização das parcelas, o que não pode ser imputado ao contribuinte. Somente a falta de pagamento por três meses consecutivos ou seis intercalados pode caracterizar a inadimplência apta a justificar a exclusão do programa.
+2. Contudo, esses fundamentos autônomos e suficientes à manutenção do aresto recorrido não foram impugnados especificamente nas razões do Recurso Especial, permanecendo, portanto, incólumes. Dessa forma, aplicável, na espécie, por analogia, a Súmula 283 do STF.
+ ..
+5. Agravo Interno da FAZENDA NACIONAL a que se nega provimento. (AgInt no REsp 1572895/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 13/12/2018).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
