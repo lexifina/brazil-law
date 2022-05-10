@@ -1,0 +1,36 @@
+DECISÃO
+1. Cuida-se de embargos de declaração opostos por Ruth Duarte Garcia em face de decisão monocrática de minha lavra, que indeferiu liminarmente os embargos de divergência da ora insurgente, pelos seguintes fundamentos:
+2. Não se revela cognoscível o reclamo.
+Isso porque a admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios.
+De início, verifica-se que, consoante se pode extrair das fundamentações dos arestos confrontados, houve a adoção, por ambos, da tese pacífica nesta Corte  baseada no artigo 843 do CPC  de que, em se tratando de penhora em bem indivisível, a meação do cônjuge alheio à execução recairá sobre o produto da alienação do bem, revelando-se desnecessário, em regra, o ajuizamento de embargos de terceiro para garantia do aludido direito.
+Contudo, na hipótese dos autos, o Tribunal de origem apontou peculiaridade a justificar a interposição de embargos de terceiro. Veja-se:
+ ..
+Assim, foi mantido, ao final, o comando sentencial de procedência dos embargos de terceiro ajuizados pela esposa do executado:
+ ..
+Diante desse quadro, uma vez não constatada a existência de similitude fático-jurídica entre os julgados confrontados, sobressai a impossibilidade de conhecimento dos embargos de divergência, cujo escopo é tão somente a uniformização da jurisprudência interna corporis e não a análise acerca do acerto ou desacerto da decisão embargada.
+Em suas razões, a embargante aponta contradição no julgado,"quando afirma que, não obstante a comprovada similitude dos casos confrontados nos embargos de divergência no que diz respeito à "aplicação automática"do conteúdo do artigo 843 do CPC, entende que escaparia à essa similitude o fato (peculiaridade) de que, como consta do c. aresto do Tribunal local, "poderia a exequente, ora embargada, ter pedido a preservação da meação do cônjuge no produto da arrematação no cumprimento de sentença", o que então justificaria a interposição dos embargos de terceiro. Aduz que "ambos os arestos confrontados são harmônicos na aplicação do artigo 843 do CPC, quando afirmam que "em se tratando de penhora em bem indivisível, a meação do cônjuge alheio à execução recairá sobre o produto da alienação do bem", tornando, ipso facto, desnecessária a interposição dos embargos de terceiro para garantia do aludido direito".
+É o relatório. Decido.
+2.Não merece guarida o reclamo.
+Nos termos do artigo 1.022 do CPC de 2015, cabem embargos de declaraçãocontra decisão judicial para esclarecer obscuridade ou eliminarcontradição, corrigir erro material e/ou suprir omissão de ponto sobre oqual deveria ter se pronunciado o julgador, aí incluídas as condutasdescritas no § 1º do artigo 489 do novel Codex, caracterizadoras decarência de fundamentação válida. Nada obstante, não se prestam osaclaratórios ao simples reexame de questões já analisadas, com o intuitode dar efeito infringente ao recurso integrativo.
+No caso, não se vislumbra qualquer vício de fundamentação na decisão monocrática que indeferiu liminarmente os embargos de divergência da ora insurgente, ante a inexistência de similitude fática entre os arestos confrontados. Confira-se:
+De início, verifica-se que, consoante se pode extrair das fundamentações dos arestos confrontados, houve a adoção, por ambos, da tese pacífica nesta Corte  baseada no artigo 843 do CPC  de que, em se tratando de penhora em bem indivisível, a meação do cônjuge alheio à execução recairá sobre o produto da alienação do bem, revelando-se desnecessário, em regra, o ajuizamento de embargos de terceiro para garantia do aludido direito.
+Contudo, na hipótese dos autos, o Tribunal de origem apontou peculiaridade a justificar a interposição de embargos de terceiro. Veja-se:
+Com efeito, sendo o bem penhorado indivisível e a embargante e Bachir Slaiman Fares, sócio da executada, casados sob o regime da comunhão parcial de bens (fls. 15/16), poderá a embargante, que não integrou a relação processual nos autos principais, proceder ao levantamento da sua quota-parte sobre o preço alcançado na alienação, como forma de preservar sua meação.
+ ..
+Assim, efetivada a penhora sobre bem indivisível, este deve ser levado à hasta pública por inteiro, cabendo ao cônjuge do executado proceder ao levantamento da sua quota-parte sobre o preço alcançado na alienação do bem, como forma de garantir a efetividade da execução e preservar seu direito à meação.
+ ..
+Logo, no caso dos autos, possui a embargante, ora apelada, direito à preservação de sua meação sobre o imóvel localizado à Rua Doutor Amando Franco Soares Caiuby, nº 42, apartamento 62, Vila Morumbi, São Paulo.
+ ..
+Descabida, outrossim, a condenação da embargante ao pagamento das verbas da sucumbência.
+Poderia a exequente, ora embargada, ter pedido a preservação da meação do cônjuge no produto da arrematação no cumprimento de sentença. Contudo, não o fez, dando causa ao ajuizamento dos presentes embargos. Deve, portanto, sofrer os ônus da sucumbência.
+Assim, foi mantido, ao final, o comando sentencial de procedência dos embargos de terceiro ajuizados pela esposa do executado:
+Dessa forma, de rigor a procedência do pedido para o fim de determinar que seja assegurado à embargante 50% do produto da arrecadação com a venda do imóvel penhorado nos autos da execução ajuizada em face de seu cônjuge.
+Ante o exposto, JULGO PROCEDENTES os presentes embargos, com o fim de determinar que, após a efetiva realização do leilão do imóvel situado na Rua Doutor Amando Franco Soares Caiuby, 88, apto 62- CEP: 05640-020 - Vila Morumbi, São Paulo/SP, seja assegurado àembargante o direito à meação do valor obtido.
+Diante desse quadro, uma vez não constatada a existência de similitude fático-jurídica entre os julgados confrontados, sobressai a impossibilidade de conhecimento dos embargos de divergência, cujo escopo é tão somente a uniformização da jurisprudência interna corporis e não a análise acerca do acerto ou desacerto da decisão embargada.
+Noacórdão da Terceira Turma  objeto dos embargos de divergência , a aludida peculiaridade dos autos (considerada apta a justificar o ajuizamento de embargos de terceiro pela esposa do executado)foi reiterada, nos seguintes termos:
+ ..  da análise das informações contidas nos autos, constata-se que a hipótese descrita no processo não se enquadra no caso abrangido pela jurisprudência do Superior Tribunal de Justiça, já que ficou atestado pelo Tribunal originário que a penhora foi efetivada sem a preservação da quota-parte da recorrida.
+De fato, no termo de penhora juntado ao processo (e-STJ, fl. 89), não há informação que faça concluir que a meação da agravada foi resguardada.
+Nesse quadro, é certo que os restritos limites dos embargos de declaração
+não permitem o rejulgamento da causa, revelando-se descabido o efeitomodificativo pretendido pela embargante, que somente é possível em casosexcepcionais e uma vez comprovada a obscuridade, contradição, omissão ouerro material do julgado, o que não ocorreu na hipótese.
+3. Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
