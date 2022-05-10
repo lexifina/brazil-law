@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão da Presidência que não conheceu do recurso especial por ausência de exaurimento das instâncias ordinárias.
+Sustenta oembargante queo recurso especial não ataca a decisão monocrática em embargos de declaração, mas o acórdão de apelação (fl. 537), razão por que requer o acolhimento para conhecer e prover o recurso especial.
+Intimado, o Ministério Público não apresentou impugnação (fl. 567).
+Os embargos devem ser acolhidos para julgar o recurso especial,no qual aponta violação do art. 387, IV, do CPP, ao argumento de que, "embora houvesse formalmente o pedido indenizatório formulado na denúncia e nasalegações finais, em nenhum momento a questão foi objeto de produção de provas ou mesmo de debate" (fls. 492-493).
+Insurge-se o recorrentecontra acórdão que deu parcialprovimento ao recurso de apelação "para reduzir o valor de indenização pelo dano moral causado à vítima a R$ 3.000,00" (fl. 443).
+Ausente ilegalidade no acórdão recorrido, que se encontra em consonância com a orientação jurisprudencial desta Corte de que, "Entre diversas inovações introduzidas no Código de Processo Penal com a reforma de 2008, nomeadamente com a Lei n. 11.719/2008, destaca-se a inclusão do inciso IV ao art. 387 que, consoante pacífica jurisprudência desta Corte Superior, contempla a viabilidade de indenização para as duas espécies de dano - o material e o moral -, desde que tenha havido a dedução de seu pedido na denou na queixa (REsp 1675874/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 8/3/2018). Nesse sentido: AgRg no REsp 1911826/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/09/2021, DJe 24/09/2021.
+Ressalte-se, ainda, que "a fixação de valor mínimo parareparaçãodosdanosmorais causados pela infração exige apenas pedido expresso na inicial, sendo desnecessárias a indicação de valor e ainstruçãoprobatóriaespecífica.No caso dos autos, como houve o pedido de indenização pordanosmorais na denúncia, não há falar em violação ao princípio do devido processo legal e do contraditório, pois a Defesa pôde se contrapor desde o início da ação penal" (AgRg no REsp 1940163/TO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 22/02/2022, DJe 03/03/2022).
+Incide, assim, a Súmula 83 do STJ, segundo a qual não se conhece do recurso especial, quando a orientação do Tribunal firmou-se no mesmo sentido da decisão recorrida.
+Ante o exposto, acolho os embargos para conhecer do recurso especial e negar-lhe provimento.
+Publique-se.
+Intimem-se.
