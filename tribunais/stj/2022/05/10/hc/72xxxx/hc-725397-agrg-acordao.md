@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+THIAGO RUBENS VAZ PINHEIRO DOS SANTOS interpõe agravo regimental contra a decisão de fls. 84-86, denegatória do habeas corpus.
+O insurgente afirma que o ato judicial"não leva em consideração o fato de a defesa  .. , através de advogado particular, ter sido impossibilitada  de atuar  pela unidade prisional" (fl. 91). Explica: "tentou contatar seu advogado através da sua esposa em 11/7/2021 e 15/7/2021, o que não lhe foi viabilizado anteriormente" (fl. 91). Para a parte, é de rigor a concessão da ordem, pois:
+A autoridade apuradora permitiu com que o advogado da FUNAP juntasse defesa administrativa genérica, em uma única lauda, apenas para formalizar a imputação contra o agravante, mesmo após a tentativa de habilitação de seu advogado particular, contudo, a partir da juntada da procuração do defensor constituído, todo e qualquer ato do defensor dativo deve ser considerado nulo (fl. 91).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. ALEGADO CERCEAMENTO DE DEFESA. AUSÊNCIA DE PROVA INEQUÍVOCA DAS MÁCULAS APONTADAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O rito do habeas corpus pressupõe prova pré-constituída do direito alegado.
+2. Não há nada nos autos que abalize as alegações do impetrante, de cerceamento de defesa durante o procedimento disciplinar. O reeducando, no termo de sua citação, afirmou não possuir advogado particular. Por isso, durante a apuração administrativa da falta grave, foi assistido por defensor do Estado, que acompanhou sua oitiva e apresentou defesa escrita. Não se identifica vício que justifique a concessão da ordem, para a anulação da sindicância.
+3. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+THIAGO RUBENS VAZ PINHEIRO DOS SANTOSbusca adeclaração de nulidade do processodisciplinarinstaurado para apuração de falta disciplinar de natureza grave praticada, em tese, pelo paciente, pois "o advogado da FUNAPnão estava presente durante a sua oitiva em sede administrativa e não lhe fora perguntado se ele tinha advogado particular" (fl. 3).
+Assinala:"embora o advogado dativo haja firmado os termos de declaração dos agentes penitenciários, sem a participação do sentenciado, sequer se infere ter havido contato entre àquele e este" (fl. 5).
+Alternativamente, pede aabsolvição do reeducando, pois"a fotografia do paciente que, em tese, foi encontrada no aparelho celular, não tem o condão de, por si só, constituir conduta punível como falta disciplinar grave" (fl. 6), visto que o telefone não foi encontrado em sua posse.
+O Ministério Público Federal opinou pela denegação da ordem.
+Falta disciplinar apurada na Sindicância nº 0615/2021, datada de 2/7/2021, foi atribuída ao paciente, pois: "em revista de rotina na cela 18 da unidade prisional de Franco da Rocha, foi encontrado um aparelho de telefonia celular dispensado próximo ao banheiro da cela, cuja propriedade, naquele momento, não pode ser atribuída a alguém, contudo, ao ser encaminhado o aparelho para a sala de segurança e disciplina, foi possível verificar-se fotos nele contidas, retratando imagens do ora agravante e do reeducando Fabio Luiz da Silva" (fl. 60).
+As assertivas do agravante, de que a unidade prisional não permitiu a habilitação de advogado de sua confiança não estão reconhecidas e delineadas no acórdão recorrido.
+Ao contrário do que alega o insurgente, consta do acórdão estadual:"da simples leitura da cópia de citação juntada à fl. 30" infere-se que o reeducando, no documento, afirmou "não possuir defensor constituído, motivo pelo qual optou por ser assistido por Defensor da Funap" (fl. 61, grifei).
+Não cabe a esta Corte averiguar, em habeas corpus, a falsidade dessa declaração.Ainda, "não há nada nos autos que abalize a tesede que o defensor nomeado não esteve presente durante a oitiva do reeducando, porquantoconstante sua assinatura do Termo de Declaração de fl. 35"(fl. 62, destaquei).
+O Juiz da VEC também assinalou que "o sentenciado foi devidamente assistido por advogado da Funap em seu depoimento às fls. 169" (fl. 57, grifei).
+O advogado do Estadoque acompanhou oreeducando durante a sua sindicância não atuou de forma deficiente, pois consta que requereu sua"absolvição por falta de provas, ora reiterado" e fez "pedido subsidiário, para aplicação de simples advertência" (fl. 62).
+Nesse contexto,não se verifica o alegado cerceamento de defesa durante o procedimento administrativo disciplinar. O ônus de instrução dohabeas corpus com a prova inequívoca das alegaçõesé todo da defesa, pois o remédio constitucional é de natureza mandamental e não admite dilação probatória.
+Ainda, é indevida a inovação de tese em agravo regimental, principalmente quando caracterizada a indevida supressão de duas instâncias. A alegação de que, "a partir da juntada da procuração do defensor constituído, todo e qualquer ato do defensor dativo deve ser considerado nulo" (fl. 91) foi suscitada somente depois da denegação da ordem e não consta que tenha sido previamente deliberada pelo Juiz da VEC ou pelo Tribunal de origem. Assim, não comporta conhecimento.
+Permanecem incólumes os demais termos da decisão de fls. 84-86, não refutados pela parte.
+À vista do exposto,nego provimento ao agravo regimental.
